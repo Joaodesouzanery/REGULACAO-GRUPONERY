@@ -1,0 +1,56 @@
+{
+  "meta": {"video_id": "XoDEGEGQjAc", "fonte": "legenda automática do YouTube (título em inglês: Board Meeting 1030 - 09/04/2026, data em dd/mm: 9 de abril; a data foi confirmada no encerramento: «9 de abril de 2026, quinta-feira»); falantes inferidos; ts = tempo do vídeo (sessão começa ~0:43)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1030", "data": "2026-04-09", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral, relator de 2 itens)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alessandro Baumgarten (como diretor)"],
+    "ausentes": ["Alex Azevedo (ausência justificada)"],
+    "observacoes": ["3 deliberações unânimes; item de Alex retirado por ausência.", "Alessandro Baumgarten aparece como diretor mas era superintendente da SUFER (atuando interinamente na diretoria).", "Anúncio: extraordinária na segunda seguinte para publicar o edital do processo competitivo da Autopista Régis Bittencourt (leilão em 23/07/2026)."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:43:08",
+      "processo": "50500.496/2026-52 (parcial)", "interessado": "SUROC",
+      "assunto": "Referendo de resoluções (6077 e 6078) e deliberações (86 e 87) de 24/03/2026, editadas ad referendum para regulamentar a MP 1.343/2026 («MP do frete», 19/03/2026): piso mínimo do frete e CIOT",
+      "tema": ["transporte rodoviário de cargas (piso mínimo do frete/CIOT)", "fiscalização e sanções", "regulação normativa"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — referendadas as decisões ad referendum",
+      "resumo_voto": "Prazo legal para regulamentar encerrava em 25/03; usou a prerrogativa do art. 58 do RI, alinhada previamente à diretoria. Mudanças: suspensão cautelar do RNTRC por prática reiterada (gradação pelo valor acumulado de multas), CIOT universal (todas as operações, inclusive de empresas), dosimetria calibrada para atingir os 10% mais infratores. Fiscalizações eletrônicas (DF-e) saltaram de ≈ 118 mil (2º sem/2024) para ≈ 316 mil (2º sem/2025), mas o descumprimento reiterado persistiu. Dispensa de AIR e de participação social por cumprimento de determinação legal e urgência.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, referenda", "ts": "0:43:08", "justificativa": "enforcement regulatório; atuação emergencial da agência como 'agência de Estado'", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator, referendando", "ts": "0:48:38", "justificativa": "elogia a liderança do DG e o esforço da secretaria-geral, que publicou o ato de madrugada", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha", "ts": "0:50:16", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "vota pelo referendo", "ts": "0:50:41", "justificativa": "atuação rápida e assertiva da agência", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.2", "ts": "0:51:07",
+      "processo": "50505.064660/2015-81", "interessado": "SUCON — Ferrovia Centro-Atlântica S.A. (FCA, controlada pela VLI)",
+      "assunto": "Relatório final da audiência pública (AP 12/2020, reaberta em 2024) e encerramento do processo de participação social da prorrogação antecipada do contrato da FCA (Malha Centro-Leste), com ajustes e encaminhamento ao Ministério dos Transportes e ao TCU",
+      "tema": ["ferrovias", "concessão ferroviária", "prorrogação antecipada", "participação social"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Mais de 1.000 contribuições; 6 sessões nos estados. Malha de ≈ 7.200 km: devolução de ≈ 3.100 km (indenização ≈ R$ 4,2 bi) e ≈ 4.100 km prorrogados; capex > R$ 24 bi (de 44 para > 800 intervenções, sobretudo conflitos urbanos), opex ≈ R$ 38 bi, WACC 13,87%, recursos vinculados ≈ R$ 1,198 bi; corredor Minas–Bahia (Corinto–Aratu) mantido; Campo Formoso–Aratu por 3 anos com estudo de viabilidade. Ajustes do relator: disciplina da interoperabilidade; estudos de viabilidade realizáveis por terceiros com reequilíbrio; contornos de Santa Luzia/Belo Horizonte (demandas do ES); ramal de Poste Caldas (pleito da CBA); retomada do compartilhamento de receitas e reavaliação do percentual de receitas acessórias.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova", "ts": "0:51:07", "justificativa": 'melhor renovação antecipada do ciclo; processo iniciado em 2015, relatoria desde 2021', "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha na íntegra", "ts": "1:03:34", "justificativa": "chama atenção para o percentual de compartilhamento de receita acessória acima do máximo da Res. 6031/2023 (24,18%); WACC 13,87% remunera de forma justa frente à Selic; ex-secretário de transportes terrestres, tratou do processo em 2016", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha na íntegra", "ts": "1:08:00", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha na íntegra", "ts": "1:09:06", "justificativa": "destaca > 900 intervenções de segurança em passagens urbanas ('trem e pessoas dificilmente vivem bem no mesmo espaço')", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "1:10:17",
+      "processo": "50500.021887/2025-73", "interessado": "Superintendência de Transporte Ferroviário (SUFER)",
+      "assunto": "Instrução normativa sobre a metodologia e os parâmetros técnicos do Índice de Saturação Ferroviária (ISF) nos contratos de concessão",
+      "tema": ["ferrovias", "interoperabilidade / acesso de terceiros", "regulação normativa"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "ISF é o principal mecanismo de indução de expansão de capacidade. Origem: pedido do Ministério dos Transportes (dez/2024), nas prorrogações da EFC e da EFVM, para suavizar a sazonalidade — proposta de média móvel trienal; após reunião participativa 6/2025 (78 contribuições) chegou-se à média móvel semestral (concessionárias pediam anual; a área técnica propôs quadrimestral). Dois gatilhos: 80% (concessionária deve estudar soluções) e 90% (investimento), com incentivos (take-or-pay) e gestão de slots pela agência se a capacidade não for ampliada; canal proativo de reclamações de negativa de acesso; cláusula de reavaliação em até 36 meses (sunset clause).",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova com aprimoramentos", "ts": "1:10:17", "justificativa": "regulação baseada em evidência, com 'razoável probabilidade de acertar'; malha integrada em vez de corredores estanques", "tom": "estruturado, histórico-analítico", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:27:10", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "1:27:18", "justificativa": "ISF como ferramenta de planejamento que antecipa gargalos, não como ônus para as concessionárias; conduziu o tema como superintendente", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente; proclama unanimidade", "ts": "1:28:12", "justificativa": "harmonizou interesses da área técnica, setor regulado e usuários; foco no usuário e na competitividade do modo ferroviário", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [{"item": "(item do diretor Alex Azevedo)", "relator": "Alex Azevedo", "motivo": "ausência justificada; será colocado em sessão posterior", "ts": "1:28:12"}],
+  "limites_da_analise": ["Legenda automática: números de processo parciais; o item 1.1.2 é chamado '1.2' na leitura da ementa.", "Percentual de compartilhamento de receita adotado (62,84%?) incerto na legenda."]
+}
