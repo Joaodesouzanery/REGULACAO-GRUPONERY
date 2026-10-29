@@ -1,0 +1,43 @@
+{
+  "meta": {"video_id": "Q8UGEXRy5vk", "fonte": "legenda automática do YouTube (título em inglês: 101st Extraordinary Board Meeting); falantes inferidos; ts = tempo do vídeo (sessão começa ~0:21)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "101ª Extraordinária", "data": "2026-09-01", "formato": "videoconferência (sessão extraordinária)",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral, relator dos dois itens)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alex Azevedo", "Marcelo Fonseca"],
+    "ausentes": [],
+    "observacoes": ["2 deliberações, ambas unânimes, sobre a Concebra (Rota do Pequi, BR-060/153 DF/GO, 211 km): abertura de audiência pública concomitante ao edital e edital do processo competitivo 3/2026."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:21:47",
+      "processo": "50500.046284/2026-65", "interessado": "SUCON",
+      "assunto": "Abertura de audiência pública, realizada concomitantemente à vigência do edital, sobre as minutas do edital do processo competitivo, termo aditivo (PER) e modelo econômico-financeiro da otimização do contrato da Concebra (Rota do Pequi)",
+      "tema": ["concessões rodoviárias", "solução consensual / sandbox", "participação social"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Decorre da solução consensual no TCU (Secex Consenso; Acórdão 1873/2026). Prazo do termo de autocomposição: saída da controladora até 16/12/2026; por isso a audiência (mín. 30 dias) corre em paralelo ao edital, com possibilidade de ajustes/republicação. Contribuições de 10/09 a 05/10/2026; sessões em Goiânia e Brasília.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova", "ts": "0:21:47", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "adesão completa", "ts": "0:27:56", "justificativa": "retomar investimentos na BR-060; medidas equilibradas que resguardam o interesse público; elogia a condução desde a negociação no Consenso", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha", "ts": "0:29:01", "confianca": "média"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente", "ts": "0:29:17", "justificativa": "importância logística da BR-060 para o Centro-Oeste", "confianca": "alta"},
+        {"diretor": "Marcelo Fonseca", "voto": "acompanha integralmente", "ts": "0:30:03", "justificativa": "instrução bem construída; participação social em paralelo atende o prazo sem perder transparência", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.2", "ts": "0:31:09",
+      "processo": "50500.045378/2026-17", "interessado": "SUCON",
+      "assunto": "Edital do processo competitivo 3/2026 para alienação de 100% das ações da Concebra (a ementa lida diz 5%, erro de legenda), Rota do Pequi — leilão previsto em 11/12/2026 às 10h na B3",
+      "tema": ["concessões rodoviárias", "leilão", "solução consensual / sandbox"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Prazo de 28 anos (18 remanescentes + 10 de prorrogação); WACC 12,33% a.a.; degraus tarifários de 30% no 10º mês e 29,41% no 25º; capex ≈ R$ 4,3 bi (contorno de Goiânia de 43,52 km, 60,6 km de faixas adicionais, 19,4 km de marginais), opex ≈ R$ 2,95 bi, trabalhos iniciais ≈ R$ 727 mi; contas vinculadas segregadas. Condicionantes financeiras prévias do termo atendidas (depósitos em jul/ago). Determina preparar a fase 2 caso as condições não sejam atendidas. Controladora anterior (Triunfo/TPI) fora do certame.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova", "ts": "0:31:09", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "0:39:39", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha na íntegra", "ts": "0:40:29", "justificativa": "solução construtiva e interinstitucional", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente", "ts": "0:41:15", "justificativa": "unidade ANTT–MT–TCU para destravar ativos estressados", "confianca": "alta"},
+        {"diretor": "Marcelo Fonseca", "voto": "adesão integral", "ts": "0:42:19", "justificativa": "7º processo competitivo via sandbox, respaldado pelo TCU (acórdãos 850/2026 e 1873/2026); > R$ 400 mi recuperados em passivos regulatórios; operador anterior não participa", "confianca": "alta"}
+      ]
+    }
+  ],
+  "limites_da_analise": ["Legenda automática: ementa do item 1.1.2 diz 5% das ações; o voto diz 100%.", "Votos de Lucas Asfor e Felipe Queiroz atribuídos pela ordem de votação."]
+}

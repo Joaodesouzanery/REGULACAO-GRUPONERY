@@ -1,0 +1,71 @@
+{
+  "meta": {"video_id": "J5gkP2cLOm8", "fonte": "legenda automática do YouTube (título em inglês: 102nd Extraordinary Board Meeting); falantes inferidos; ts = tempo do vídeo (sessão começa ~0:29)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "102ª Extraordinária", "data": "2026-09-03", "formato": "videoconferência (sessão extraordinária)",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alex Azevedo", "Marcelo Fonseca"],
+    "ausentes": [],
+    "observacoes": ["4 deliberações, todas unânimes.", "Encerramento do DG: 3 editais publicados em uma semana; 7 leilões de rodovias no ano; meta de 26 leilões rodoviários + ao menos 1 ferroviário (27), 'um leilão a cada mês e meio', recorde histórico."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:29:48",
+      "processo": "50500.1319/2026-37 (parcial)", "interessado": "EPR Litoral Pioneiro S.A. (edital 2/2023)",
+      "assunto": "1ª revisão extraordinária da tarifa básica de pedágio para recompor o equilíbrio econômico-financeiro: 41 controladores de velocidade no tronco, 12 nas praças de pedágio e ampliação do escopo do verificador independente (≈ R$ 90,3 mi no total)",
+      "tema": ["concessões rodoviárias", "tarifa/pedágio", "reequilíbrio contratual", "segurança viária (radares)"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Efeitos financeiros incidem na revisão ordinária; valor reconhecido em 12º e 13º termos aditivos; inaugura fluxo de caixa marginal no contrato (+0,00721 R$/km a preços de out/2021); inexecução sujeita a fator D; saldo não usado do verificador volta em modicidade tarifária.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova", "ts": "0:29:48", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha", "ts": "0:40:58", "justificativa": "'voto preciso, técnico, caso claro e típico de revisão extraordinária'", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente", "ts": "0:41:24", "confianca": "média"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "0:41:26", "confianca": "média"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:41:26",
+      "processo": "50500.50181/2026-08 (parcial)", "interessado": "Superintendência de Concessão da Infraestrutura (SUCON)",
+      "assunto": "Edital de concessão da BR-116/324 (BA) — Rota 2 de Julho, 653 km (Salvador–Feira de Santana–Vitória da Conquista–divisa MG)",
+      "tema": ["concessões rodoviárias", "leilão/edital", "free flow"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Atende 5 determinações e 2 recomendações do TCU; capex ≈ R$ 14,3 bi, opex ≈ R$ 6,7 bi, receita tarifária ≈ R$ 63,8 bi (valores aproximados na legenda); free flow com 12 pontos de cobrança e tarifa diferenciada por forma/prazo de pagamento; leilão previsto em 18/12/2026.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "0:42:03", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha", "ts": "0:47:58", "justificativa": "ineditismo: primeiro projeto que nasce com free flow; trecho desassistido há tempos; esforço para leilão ainda em 2026", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha na integralidade", "ts": "0:49:09", "justificativa": "corredores logísticos do Nordeste (BA, PE, MG); lembra a BR-116 BA já concedida em 2026", "confianca": "alta"},
+        {"diretor": "Marcelo Fonseca", "voto": "acompanha integralmente", "ts": "0:50:26", "justificativa": "inovação regulatória (free flow incorporado desde a origem, mais pontos, justiça tarifária); trecho hoje operado pelo DNIT após saída consensual do operador", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "0:50:26", "confianca": "média"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "0:50:26",
+      "processo": "50500.45650/2026 (parcial)", "interessado": "SUCON",
+      "assunto": "Edital de concessão das BR-070/174/364 (MT/RO) — Rota Agrocentral, 887 km",
+      "tema": ["concessões rodoviárias", "leilão/edital", "logística agro"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprovado pelo TCU; participação social por audiências; capex ≈ R$ 6,3 bi, opex ≈ R$ 4,3 bi; leilão previsto em 17/12/2026 na B3.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "0:53:06", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha", "ts": "0:57:16", "justificativa": "tecnicidade e pragmatismo do voto", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente", "ts": "0:57:40", "confianca": "média"},
+        {"diretor": "Marcelo Fonseca", "voto": "acompanha integralmente", "ts": "0:57:49", "confianca": "média"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "0:57:49",
+      "processo": "50500.9131/2026-37 (parcial)", "interessado": "SUCON",
+      "assunto": "Relatório final da AP 4/2026 e proposição ao Ministério dos Transportes do plano de outorga da Rota Portuária Sul (BR-116/392, RS; 459 km → 465 km com acesso aos molhes da Barra)",
+      "tema": ["concessões rodoviárias", "participação social", "free flow / pedágio"],
+      "relator": "Alex Azevedo", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Argumento central: a audiência 'não foi ritual de legitimação, foi etapa de instrução'. 123 protocolos (45 escritos, 78 orais; Pelotas 351 inscritos, 8x Brasília). Mudanças: pórticos 14→12 (saíram os de Pelotas e Rio Grande), câmeras de vigilância 165→254, detecção automática de incidentes em 108 pontos, edificações da PRF 2→3, acesso aos molhes da Barra e antecipação de investimentos (pico passa do 4º para o 3º ano), contrato premia antecipação. Modelagem de mesma arquitetura já examinada pelo TCU (Rota 2 de Julho).",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, aprova", "ts": "0:58:38", "justificativa": "participação social convertida em mudança real de projeto", "tom": "enfático, numérico", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha", "ts": "1:09:47", "justificativa": "completude do voto; segunda extraordinária da semana mostra esforço de velocidade", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha na íntegra", "ts": "1:10:56", "confianca": "alta"},
+        {"diretor": "Marcelo Fonseca", "voto": "adesão completa", "ts": "1:11:27", "justificativa": "gaúcho; acompanhou as audiências; supressão de pórticos pedida pela sociedade", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "1:13:44", "confianca": "média"}
+      ]
+    }
+  ],
+  "limites_da_analise": ["Legenda automática: valores em R$, números de processo e quilometragens podem estar errados.", "Votos de alguns diretores foram inferidos pela proclamação de unanimidade."]
+}
