@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "video_id": "8p1X1Nfk9Cs",
+    "fonte": "legenda automática do YouTube (canal @canalANTT); falantes inferidos por contexto; timestamps = tempo do vídeo (a sessão começa em ~0:39:39)",
+    "analista": "leitura integral da transcrição (sem API); revisão humana recomendada",
+    "versao_esquema": 1
+  },
+  "reuniao": {
+    "numero": "1040",
+    "data": "2026-08-27",
+    "formato": "videoconferência, transmitida ao vivo",
+    "presidente_da_sessao": "Felipe Queiroz",
+    "motivo_presidencia": "Diretor-Geral Guilherme Sampaio em licença-paternidade (nascimento da filha no dia)",
+    "diretores_presentes": ["Felipe Queiroz", "Alex Azevedo", "Lucas Asfor", "Marcelo Fonseca"],
+    "ausentes": ["Guilherme Sampaio (Diretor-Geral, licença-paternidade)"],
+    "outros_presentes": ["Procurador-geral (nome ilegível na legenda)", "Ouvidor Thales (sobrenome ilegível)", "Secretária-geral Renata Teixeira Cavalcante Cruz"],
+    "observacoes": [
+      "Estreia de Marcelo Fonseca como diretor (assumiu na segunda-feira anterior; ex-superintendente de Concessões/SUCON, 10+ anos na ANTT; substitui Alessandro Baumgarten). Atuou como relator no item 1.5.1.",
+      "Alex Azevedo disse estar há 1 ano como diretor (completa 1 ano em 29/08).",
+      "Todas as 6 deliberações realizadas foram aprovadas por unanimidade; 5 itens foram retirados de pauta.",
+      "Compromisso anunciado pelo presidente da sessão: reunião extraordinária na semana seguinte para itens retirados e projetos aprovados no TCU (calendário de leilões/concessões rodoviárias)."
+    ]
+  },
+  "itens": [
+    {
+      "id": "extra-pauta-ROF1-inclusao",
+      "ts": "0:39:39",
+      "assunto": "Inclusão extra-pauta do processo do ROF1 (pedido do diretor Lucas Asfor, urgência/relevância)",
+      "tema": "procedimento",
+      "resultado": "aprovada inclusão por unanimidade",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "de acordo", "ts": "0:41:39", "confianca": "alta"},
+        {"diretor": "Marcelo Fonseca", "voto": "de acordo", "ts": "0:41:43", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "de acordo (proponente)", "ts": "0:41:49", "confianca": "média"},
+        {"diretor": "Felipe Queiroz", "voto": "de acordo", "ts": "0:41:49", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "retirados",
+      "ts": "0:41:49",
+      "assunto": "Itens retirados de pauta",
+      "tema": "procedimento",
+      "retirado": [
+        {"itens": "1.1.1, 1.1.2, 1.1.3", "relator": "Guilherme Sampaio", "motivo": "ausência do relator (licença); art. 55 do Regimento Interno", "obs": "No encerramento, Felipe cita entre eles deliberação sobre a destinação de ativo hoje administrado pela Concebra (ASR: 'Consebra')."},
+        {"itens": "1.2.2, 1.2.3", "relator": "Felipe Queiroz", "motivo": "retirada pelo próprio relator (motivo não dito)"}
+      ]
+    },
+    {
+      "id": "1.2.1",
+      "ts": "0:41:49",
+      "processo": "50500.0016992/…-70 (número parcial na legenda)",
+      "interessado": "Superintendência de Sustentabilidade, Pessoas e Inovação (SUSP)",
+      "assunto": "Edital complementar de admissão contínua ao Nível 1 do Programa de Sustentabilidade para Infraestrutura (PSI) — sandbox regulatório (rodovias e ferrovias); complementa editais 3 e 4/2025",
+      "tema": ["sandbox regulatório", "sustentabilidade", "financiamento (debêntures incentivadas)"],
+      "relator": "Felipe Queiroz",
+      "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Qualificação no Nível 1 é pré-requisito para emitir debêntures incentivadas; vencedoras de leilões 2026, contratos recém-assinados e prorrogações ficaram de fora do prazo original (13/03/2026; aderiram 21 de 34 concessionárias rodoviárias e 10 ferroviárias). Edital complementar sem inovação metodológica, aprovado pelos comitês paritários (27/05 e 01/06) e com parecer favorável da Procuradoria; dispensa nova rodada de participação social; termo aditivo mantido.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova", "ts": "0:41:49", "justificativa": "reduz custo de capital/financiabilidade; escopo restrito ao Nível 1; governança via termo aditivo", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha na íntegra", "ts": "0:52:34", "justificativa": "elogia o relator ('ninguém melhor para relatar matéria dessa natureza')", "confianca": "média"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente", "ts": "0:52:49", "justificativa": "cita ter ido ao BNDES tratar de debêntures/incentivos para empresas que aderissem", "confianca": "alta"},
+        {"diretor": "Marcelo Fonseca", "voto": "acompanha integralmente", "ts": "0:53:25", "justificativa": "segurança jurídica e estabilidade regulatória; plena capacidade de adesão e relação com debêntures", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.4",
+      "ts": "0:53:25",
+      "processo": "50500.02891/2026-… (parcial)",
+      "interessado": "Superintendência de Infraestrutura Rodoviária (SUROD)",
+      "assunto": "Abertura de audiência pública sobre a minuta de edital de sandbox regulatório de interoperabilidade do sistema de livre passagem (free flow) nas concessões rodoviárias federais",
+      "tema": ["pedágio eletrônico / free flow", "sandbox regulatório", "audiência pública"],
+      "relator": "Felipe Queiroz",
+      "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Desdobramento da Deliberação 88/2026 (resolução do free flow + GT de interoperabilidade, Portaria DG 107/2026). Sandbox de até 36 meses (operação mínima de 12), seleção de uma única concessionária participante e categoria aberta de 'agentes integrados'; critérios técnicos e custo total; sem exigência de AIR para sandbox. Contexto: lançamento da CNH do Brasil como repositório centralizado das passagens.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova", "ts": "0:53:25", "justificativa": "tema inédito e denso; participação social é boa prática e necessária para captar subsídios", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha", "ts": "1:03:50", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente", "ts": "1:03:57", "justificativa": "a ANTT, como agência reguladora nacional, tem a prerrogativa de enfrentar o pedágio eletrônico; cita viagem ao Chile (pedágio eletrônico desde 2017); quer ouvir usuários nas audiências", "confianca": "alta"},
+        {"diretor": "Marcelo Fonseca", "voto": "acompanha integralmente", "ts": "1:05:39", "justificativa": "integração CNH do Brasil mitiga problemas de comunicação; sandbox é o melhor instrumento; solução dialogada com usuários, setor regulado e meios de pagamento", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.1",
+      "ts": "1:07:00",
+      "processo": "50500.0047127/2025-… (parcial)",
+      "interessado": "Concessionária Rota Agro MT-GO (BR-060/364, GO e MT; contrato de concessão — edital 02/2025, assinado em 03/03/2026)",
+      "assunto": "Reajuste da tarifa básica de pedágio (IRT 1,10550 = +10,55%) e início da cobrança em sistema eletrônico de livre passagem (free flow) após recebimento dos trabalhos iniciais",
+      "tema": ["concessão rodoviária", "tarifa de pedágio", "free flow"],
+      "relator": "Lucas Asfor",
+      "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Vistoria da Comissão de Trabalhos Iniciais (4–7/08), inconformidades sanadas, relatório de 13/08 atestando cumprimento integral; testes operacionais e comunicação ao usuário atestados; cobrança em até 10 dias após o ato autorizativo. Relator adota as manifestações técnicas como razões de decidir.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "1:08:55", "justificativa": "alinhamento integral à área técnica", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente", "ts": "1:16:40", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha", "ts": "1:16:42", "justificativa": "destaca tecnicidade e completude do voto; processo 'por vezes entendido como ordinário' mas com nuances; transparência", "confianca": "média"},
+        {"diretor": "Marcelo Fonseca", "voto": "NÃO CAPTADO NA LEGENDA", "ts": null, "confianca": "baixa", "obs": "resultado declarado como unanimidade"}
+      ],
+      "inconsistencias": ["Ementa lida cita praças P19–P23; o voto cita P1–P5. Provável erro de leitura/legenda — verificar no processo."]
+    },
+    {
+      "id": "extra-pauta-ROF1",
+      "ts": "1:16:42",
+      "processo": "50500.0032111/2026-60 (parcial)",
+      "interessado": "Superintendência de Transporte Ferroviário (SUFER)",
+      "assunto": "Aprovação da primeira norma das Condições Gerais de Transporte Ferroviário (CGTF): Regulamento de Outorgas Ferroviárias (ROF 1), e do relatório final da Audiência Pública 9/2025 (06/01–20/02/2026; 143 contribuições)",
+      "tema": ["regulação ferroviária", "outorgas (concessão e autorização)", "segurança jurídica"],
+      "relator": "Lucas Asfor",
+      "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Consolida normas dispersas em instrumento único (Lei 14.273/2021). Acolhe parecer da Procuradoria: alterações de mérito só por termo aditivo (art. 136 da Lei 14.133/2021), vedada apostila; chamamento para autorizações sem vedação a estruturadores de estudos e sem exigência de SPE; autorregulação preservando competência fiscalizatória da ANTT.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "1:17:52", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente", "ts": "1:23:40", "justificativa": "passo na direção da interoperabilidade ferroviária; cita Transnordestina, corredor FICO-FIOL, Malha Sul, Ferrogrão; elogia a SUFER", "confianca": "alta"},
+        {"diretor": "Marcelo Fonseca", "voto": "acompanha integralmente", "ts": "1:26:21", "justificativa": "consolidação normativa nos moldes do RCR (rodovias); virão novas etapas do CGTF", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha", "ts": "1:26:21", "justificativa": "racionalização/simplificação normativa como visão de agência; RCR como símbolo", "confianca": "média"}
+      ]
+    },
+    {
+      "id": "1.4.1",
+      "ts": "1:26:21",
+      "processo": "50500.0083092/2024-19 (parcial)",
+      "interessado": "Viação Transpiauí São Raimundense Ltda. (transporte rodoviário interestadual de passageiros — ônibus)",
+      "assunto": "Encerramento dos trabalhos da comissão processante do processo administrativo ordinário (Portaria SUFIS 83/2024) — julgamento final",
+      "tema": ["transporte rodoviário de passageiros (ônibus)", "fiscalização e sanções", "direitos do usuário (gratuidades)"],
+      "relator": "Alex Azevedo",
+      "resultado": "aprovado por unanimidade — cassação de todos os Termos de Autorização (TAs) da empresa",
+      "resumo_voto": "Fatos citados pelo relator: ônibus interditado/retirado de operação 'trocado' formalmente em Brasília para simular cumprimento, com condenação por litigância de má-fé pelo TJDFT; 701 autos de infração entre 2019 e 2023 (117 por veículos com defeito/sem equipamento obrigatório; 322 por negativa de gratuidade/desconto legal a idosos, PCD e jovens de baixa renda); nenhuma multa paga; defesa apresentada fora do prazo e sem fatos novos. Conclusão: advertências/multas novas seriam insuficientes. Determina notificação, cancelamento de registros e medidas da SUFIS para impedir operação irregular.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, cassação de todos os TAs", "ts": "1:31:30", "justificativa": "histórico reiterado de descumprimento, risco aos passageiros, ineficácia das penalidades anteriores", "tom": "firme, argumentação baseada em números e histórico", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:41:02", "justificativa": "descumprimento reiterado manifesto", "confianca": "alta"},
+        {"diretor": "Marcelo Fonseca", "voto": "acompanha integralmente", "ts": "1:41:30", "justificativa": "parabeniza qualidade e clareza do voto", "confianca": "média", "obs": "Trecho 'não aderindo integralmente a todos os pontos' é ambíguo na legenda; pode ser fala de outro diretor."},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "1:41:30", "justificativa": "cassação é o 'enforcement maior' da agência, usado quando falham os instrumentos graduais; proporcionalidade; 'muito desagradável esse tipo de processo'", "confianca": "média"}
+      ]
+    },
+    {
+      "id": "1.5.1",
+      "ts": "1:41:30",
+      "processo": "50500.5150/2026-… (parcial)",
+      "interessado": "Superintendência de Transporte Ferroviário (SUFER)",
+      "assunto": "Atendimento às determinações do Acórdão TCU 2209/2026-Plenário sobre o 1º chamamento público para autorização ferroviária do corredor Minas–Rio; edital de autorização 001/2026, minuta do contrato, contrato com a B3 para o leilão e comissão de outorga",
+      "tema": ["ferrovias", "autorização ferroviária", "leilão", "TCU"],
+      "relator": "Marcelo Fonseca",
+      "resultado": "aprovado por unanimidade, com ajuste decidido em plenário",
+      "resumo_voto": "Atendidas as 9 determinações do TCU; primeiro chamamento para autorização de trechos já operados por concessionária (FCA). Dois lotes (Lote 1: Iguatama–Barra Mansa e Varginha–Lavras (legenda: "Barramança"), 625,8 km; Lote 2: Barra Mansa–Angra dos Reis, ~107 km). Contrato de 99 anos; projeto de recapacitação/modernização da infraestrutura em 2 anos da assunção; possibilidade de aporte público com processo competitivo. Condicionantes do relator: transição operacional, lote remanescente, harmonização de procedimentos de leilão (propostas eletrônicas via B3) e critério de viva-voz (propostas até 20% do melhor), cronograma de eventos. Sem nova deliberação para implementar.",
+      "votos": [
+        {"diretor": "Marcelo Fonseca", "voto": "relator, aprova com condicionantes (item 4.17)", "ts": "1:44:18", "justificativa": "harmonização com a prática da ANTT em leilões rodoviários; sem alterar o que o TCU analisou", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha na íntegra", "ts": "2:03:33", "justificativa": "elogia o primeiro voto do colega ('estreia com chave de ouro')", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha, condicionado a ajuste no critério de viva-voz", "ts": "2:04:44", "justificativa": "com lance simbólico de R$ 1, a regra de 20% elimina propostas (R$ 1 vs R$ 2 = 100% de diferença); propõe viva-voz para todos os proponentes ou piso diferente", "tom": "questionador, cordial", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha com ajuste", "ts": "2:11:51", "justificativa": "considera híbrido equilibrado; critérios de leilão têm 'caráter intuitivo' — propõe GT/estudo com série histórica (SUCON, SUFER, SUROD), com Marcelo como patrocinador", "confianca": "média"}
+      ],
+      "debate": {
+        "divergencia": "Alex Azevedo questionou o critério de viva-voz (20% do 1º colocado) com outorga inicial simbólica de R$ 1.",
+        "resolucao": "Marcelo Fonseca ajustou o voto: até 3 proponentes vão ao viva-voz independentemente da diferença; acima disso vale 20% (a proposta original da SUFER era 10%, inspirada no edital da ANTAC). Alex aderiu (2:18:54). Felipe sugeriu recomendação na deliberação para estudo de critérios de leilão.",
+        "ts": ["2:04:44", "2:08:03", "2:09:45", "2:11:19", "2:11:51", "2:18:54", "2:20:38"]
+      }
+    }
+  ],
+  "limites_da_analise": [
+    "Legenda automática: nomes próprios, números de processo e de praças podem estar errados.",
+    "Falantes inferidos por contexto (a legenda quase não marca troca de voz); o voto do diretor Marcelo Fonseca em 1.3.1 não aparece.",
+    "Uma única reunião: nenhuma conclusão sobre comportamento recorrente dos diretores pode ser tirada ainda."
+  ]
+}
