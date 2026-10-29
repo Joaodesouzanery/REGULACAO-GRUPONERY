@@ -8,7 +8,7 @@ os.makedirs("data/transcricoes", exist_ok=True)
 api = YouTubeTranscriptApi()
 def via_yt_dlp(vid):
     with tempfile.TemporaryDirectory() as d:
-        cmd = ["yt-dlp", "--skip-download", "--write-auto-subs", "--write-subs", "--sub-langs", "pt.*",
+        cmd = [sys.executable, "-m", "yt_dlp", "--skip-download", "--write-auto-subs", "--write-subs", "--sub-langs", "pt.*",
                "--sub-format", "json3", "-o", f"{d}/%(id)s", f"https://www.youtube.com/watch?v={vid}"]
         if a.cookies: cmd += ["--cookies", a.cookies]
         subprocess.run(cmd, capture_output=True)

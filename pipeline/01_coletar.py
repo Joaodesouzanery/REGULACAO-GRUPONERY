@@ -28,7 +28,7 @@ def numero(t):  # chave p/ dedupe PT/EN de reunião de diretoria
     return m and (m[1] or m[2])
 vistos, descartados = {}, []
 for aba in ("videos", "streams"):
-    out = subprocess.run(["yt-dlp", "--flat-playlist", "--print", "%(id)s\t%(title)s\t%(duration)s",
+    out = subprocess.run([sys.executable, "-m", "yt_dlp", "--flat-playlist", "--print", "%(id)s\t%(title)s\t%(duration)s",
         f"https://www.youtube.com/{canal}/{aba}"], capture_output=True, text=True).stdout
     for l in out.splitlines():
         id_, titulo, dur = l.split("\t"); titulo = unicodedata.normalize("NFC", titulo)
