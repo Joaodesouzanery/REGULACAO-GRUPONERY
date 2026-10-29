@@ -1,0 +1,98 @@
+{
+  "meta": {"video_id": "ixMkeB6vSIM", "fonte": "legenda automática do YouTube (título: «Cópia de Reunião de Diretoria nº 1037»); o início da sessão não está na gravação (começa na pergunta sobre manifestações); falantes inferidos; ts = tempo do vídeo", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1037", "data": "2026-07-16", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Lucas Asfor (de volta de férias)", "Alex Azevedo", "Alessandro Baumgarten"],
+    "ausentes": ["Felipe Queiroz (não votou; voltaria de férias na RD 1038)"],
+    "observacoes": ["6 deliberações unânimes; 2 itens retirados (FCA e EPR Litoral Pioneiro).", "Duas das três relatorias de Alex envolvem temas de transporte (frete rodoviário e classificação de mercados de passageiros).", "Marcelo Fonseca citado como superintendente da SUCON (ainda não era diretor)."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "1:04:32",
+      "processo": "50500.15779/2022-19 (parcial)", "interessado": "Superintendência de Sustentabilidade, Pessoas e Inovação (SUSP)",
+      "assunto": "Alteração do regimento interno (Res. 5976/2022) para adequar a estrutura aos cargos CCE/FCE do Decreto 3.029/2026; apresentado na RD 1036 (02/07/2026) com vista coletiva",
+      "tema": ["institucional/governança"], "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova", "ts": "1:04:32", "justificativa": "sem aumento de despesa; flexibilidade de provimento; direitos dos cedidos; proporcionalidade entre responsabilidade e remuneração", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha", "ts": "1:07:22", "justificativa": "tema já muito debatido na diretoria", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha na integralidade", "ts": "1:07:38", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha", "ts": "1:08:00", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "1:08:03",
+      "processo": "50500.043918/2025-47", "interessado": "SUCON",
+      "assunto": "Homologação do resultado do leilão da concessão BR-116 (BA/PE) e BR-324 (BA) — Rota dos Sertões (edital 1/2026)",
+      "tema": ["concessões rodoviárias", "leilão"], "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — vencedor Consórcio 116 Sertões (desconto de 19,6% na tarifa básica + aporte de ≈ R$ 81,6 mi; valor com ruído na legenda)",
+      "resumo_voto": "Leilão em 28/05/2026 na B3 com 3 proponentes e etapa de viva voz (diferença de até 5%). Habilitação atestada pela comissão de outorga; transparência da sessão pública.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, homologa", "ts": "1:09:24", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha na integralidade", "ts": "1:13:57", "justificativa": "orgulho como nordestino (junto com Lucas); corredor BR-116 Feira de Santana–Salgueiro para agronegócio, mineração, indústria", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "1:15:34", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente; proclama unanimidade", "ts": "1:15:38", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "1:15:38",
+      "processo": "50500.049987/2025-64", "interessado": "Rota Verde Goiás S.A.",
+      "assunto": "Anuência prévia (art. 27, Lei 8.987/95; Res. 5927/2021) para transferência do controle acionário (de Azevedo e Travassos Infraestrutura FIP, 80%) para o fundo «Jive Distressed 4» FIP Multiestratégia (70%)",
+      "tema": ["concessões rodoviárias", "transferência de controle", "idoneidade financeira"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — anuência concedida",
+      "resumo_voto": "Fundo comprovou idoneidade financeira (demonstrações auditadas, baixo passivo, patrimônio líquido acima do capital) e regularidade jurídico-fiscal; Procuradoria atestou a conformidade; estrutura reforça capacidade de financiamento dos investimentos.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, concede anuência", "ts": "1:16:28", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha (inferido)", "ts": "1:21:14", "confianca": "baixa"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "1:21:16", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente; proclama unanimidade", "ts": "1:21:19", "justificativa": "elogia a condução do relator diante das complexidades de operação anterior (Carbono Oculto) e a rigidez procedimental", "confianca": "média"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "1:21:19",
+      "processo": "50500.037810/2026-04", "interessado": "SUROC",
+      "assunto": "Reajuste anual ordinário dos coeficientes dos pisos mínimos de frete (Res. 5867/2020; Lei 13.703/2018): IPCA de 3,54% (dez/2025–mai/2026) e diesel S10 a R$ 6,97/L (ANP, 10/07/2026)",
+      "tema": ["transporte rodoviário de cargas (piso mínimo do frete)", "tarifa/preço"],
+      "relator": "Alex Azevedo", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Sexto reajuste ordinário da série; contexto da MP 1.343/2026 (MP do frete: multas de R$ 100 mil a R$ 1 mi, CIOT obrigatório). Impacto médio de 0% a −1,44% nas tabelas por causa da queda de 5,17% do diesel (≈ 50% do custo). Delimita: não se discute metodologia nem nova política. Dispensa AIR e audiência por ser ato meramente aplicativo da lei. Gatilho do diesel acionado e planilhas atualizadas pela SUROC.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, aprova", "ts": "1:22:52", "justificativa": "frete como 'infraestrutura invisível' do agronegócio; custo logístico de 12% do PIB; atualização (ANTT) e garantia (Congresso) são complementares", "tom": "extenso, econômico-contextual, dirigido ao público", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha", "ts": "1:51:25", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente; proclama unanimidade", "ts": "1:51:27", "justificativa": "elogia a completude e o contexto da MP aprovada naquela semana", "confianca": "alta"}
+      ],
+      "obs": "Alessandro não aparece votando neste item na legenda."
+    },
+    {
+      "id": "1.3.2", "ts": "1:51:27",
+      "processo": "50500.039300/2026-63", "interessado": "Superintendência de Serviços de Transporte Rodoviário de Passageiros (SUPAS)",
+      "assunto": "Abertura de audiência pública (45 dias) sobre a minuta de resolução da metodologia de classificação de mercados do transporte rodoviário interestadual e semiurbano de passageiros (baseada em estudos da Infra S.A.; semiurbano tem gratuidades/benefícios diferentes)",
+      "tema": ["transporte rodoviário de passageiros (ônibus)", "participação social", "regulação normativa"],
+      "relator": "Alex Azevedo", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Fase de participação social: audiência pública é obrigatória (art. 14 da Res. 6020/2023); consulta interna e AIR já feitas; Procuradoria se absteve de parecer nesta fase e se manifestará após a consolidação das contribuições.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, aprova", "ts": "1:52:42", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "voto com o relator", "ts": "2:00:59", "justificativa": "voto bem instruído e fundamentado", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "2:01:08", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente; proclama unanimidade", "ts": "2:01:11", "confianca": "média"}
+      ]
+    },
+    {
+      "id": "1.3.3", "ts": "2:01:15",
+      "processo": "50500.001471/2026 (parcial)", "interessado": "SUCON — Via Brasil BR-163 Concessionária de Rodovias S.A.",
+      "assunto": "Relatório final da AP 3/2026 (110 manifestações) e edital do processo competitivo para alienação de 100% das ações da Via Brasil BR-163 (BR-163 MT/PA e BR-230 PA; 1.009 km): readaptação e otimização do contrato (solução consensual no TCU, Acórdãos 11/2026 e 834/2026)",
+      "tema": ["concessões rodoviárias", "solução consensual / otimização", "leilão"],
+      "relator": "Alex Azevedo", "resultado": "aprovado por unanimidade — leilão marcado para 12/11/2026",
+      "resumo_voto": "Contrato de 2022 (edital 2/2021) com dificuldades econômico-financeiras; pedido de relicitação/otimização em dez/2023; termo de autocomposição no TCU depende de procedimento competitivo (art. 27 da Lei 8.987). Ajustes acessórios após audiência (3 sessões: Sinop, Itaituba, Brasília); recomendações da Procuradoria saneadas (capital social ajustado a ≈ R$ 316,4 mi; 3º degrau tarifário 10,30%; retorno 12,65% a.a. mantido).",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, aprova", "ts": "2:02:15", "tom": "detalhado, jurídico-procedimental", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha (inferido)", "ts": "2:16:59", "confianca": "baixa"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha também o relator", "ts": "2:17:15", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "2:17:17", "justificativa": "celeridade do gabinete do relator; solucionar ativo estressado em corredor estratégico do Arco Norte", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"item": "1.1.2", "assunto": "Prorrogação do contrato da FCA (Malha Centro-Leste)", "relator": "Guilherme Sampaio", "motivo": "apontamentos técnicos do TCU e da área técnica; retorna no prazo regimental (aprovado na RD 1038)", "ts": "1:03:37"},
+    {"item": "1.4.1", "assunto": "EPR Litoral Pioneiro (13º termo aditivo)", "relator": "Alessandro Baumgarten", "motivo": "reanálise (aprovado na RD 1038)", "ts": "1:04:22"}
+  ],
+  "limites_da_analise": ["A gravação não inclui a abertura da sessão; presença de Felipe Queiroz inferida pela ausência de votos.", "Legenda automática: valores, números de processo e o nome do fundo adquirente estão parciais."]
+}
