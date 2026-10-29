@@ -47,21 +47,23 @@ vids = [v for v in vids if not v.get("duplicata_de") and v["tipo"] != "outro"
 vids.sort(key=lambda v: (v["prioridade"], -int((v["data"] or "0000-00-00").replace("-", ""))))
 fila = [v for v in vids if not os.path.exists(f"data/transcricoes/{v['id']}.json")]
 print(f"{len(vids)-len(fila)} já baixadas, {len(fila)} na fila", flush=True)
+if not fila: print("FILA VAZIA"); sys.exit(0)
+saida = 0
 ok = falha = seguidas = 0
 for i, v in enumerate(fila, 1):
-    if a.max and ok >= a.max: print(f"Limite da rodada ({a.max}) atingido. Rode de novo mais tarde."); break
+    if a.max and ok >= a.max: print(f"Limite da rodada ({a.max}) atingido. Rode de novo mais tarde."); saida = 2; break
     segs, motivo, info = baixar(v["id"])
     if not segs:
         falha += 1; seguidas += (motivo in ("bloqueio", "limite429"))
-        if motivo == "limite429": print("HTTP 429: o YouTube limitou seu IP. Pare e tente de novo em 2-4 horas (sem cookies; --pausa 40)."); break
+        if motivo == "limite429": print("HTTP 429: o YouTube limitou seu IP. Pare e tente de novo em 2-4 horas (sem cookies; --pausa 40)."); saida = 3; break
         print(f"[{i}/{len(fila)}] {motivo.upper()} ({info}) {v['tipo']} {v['titulo'][:60]}", flush=True)
         open("data/sem_legenda.jsonl", "a").write(json.dumps({"id": v["id"], "motivo": motivo, "info": info}) + "\n")
         if motivo == "erro_yt": seguidas = 0
         if seguidas >= 5:
-            print("5 BLOQUEIOS seguidos: provável bloqueio do YouTube. Espere ~1h ou use --pausa 40 e rode de novo (retoma de onde parou)."); break
+            print("5 BLOQUEIOS seguidos: provável bloqueio do YouTube. Espere ~1h ou use --pausa 40 e rode de novo (retoma de onde parou)."); saida = 3; break
         time.sleep(a.pausa * 2); continue
     seguidas = 0; ok += 1
     json.dump(segs, open(f"data/transcricoes/{v['id']}.json", "w"), ensure_ascii=False)
     print(f"[{i}/{len(fila)}] ok[{info}] {v['tipo']} {v['titulo'][:60]}", flush=True)
     time.sleep(a.pausa + random.random() * 2)
-print(f"ok={ok} falha={falha}")
+print(f"ok={ok} falha={falha}"); sys.exit(saida)
