@@ -1,0 +1,75 @@
+{
+  "meta": {"video_id": "aVdLLQI1K-I", "fonte": "legenda automática do YouTube (título em inglês: Board Meeting 1043); falantes inferidos; ts = tempo do vídeo (sessão começa ~0:15)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1043", "data": "2026-10-08", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Marcelo Fonseca"],
+    "ausentes": ["Alex Azevedo (férias)"],
+    "outros_presentes": ["Procurador-chefe substituto (Ader Juan, nome incerto)", "Ouvidor Thales de Mileto", "Secretária-geral Renata Teixeira"],
+    "observacoes": ["4 deliberações unânimes + 1 extra-pauta unânime; 3 itens retirados."]
+  },
+  "itens": [
+    {
+      "id": "extra-pauta-fronteira", "ts": "0:15:53",
+      "processo": "50500.35250/2025-64 (parcial)", "interessado": "Superintendência Executiva de Articulação, Relações Institucionais e Comunicação (pleito original do MAPA)",
+      "assunto": "Habilitação de ponto de fronteira terrestre para tráfego rodoviário internacional de cargas e passageiros: Vila Bela da Santíssima Trindade (MT) – San Ignacio de Velasco (Bolívia), Res. 5991/2022",
+      "tema": ["transporte rodoviário internacional", "logística/agro"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade (habilitação condicionada a alfandegamento da Receita e operacionalização pelas autoridades)",
+      "resumo_voto": "Requisitos da resolução atendidos: acordo internacional Brasil–Bolívia, conveniência manifestada pelo MAPA (fluxo estimado de 166 caminhões/dia, até 580 em 10 anos), infraestrutura de acesso e segurança viária sanadas por diligências, área cedida pela prefeitura para instalações. Habilitação é só a primeira de três etapas.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, habilita", "ts": "0:19:12", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha", "ts": "0:26:47", "confianca": "alta"},
+        {"diretor": "Marcelo Fonseca", "voto": "acompanha integralmente", "ts": "0:26:51", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente", "ts": "0:26:58", "confianca": "média"}
+      ]
+    },
+    {
+      "id": "1.2.3", "ts": "0:26:58",
+      "processo": "50500.2689/2025-35 (parcial)", "interessado": "Concessionária Ecovias Araguaia S.A. (edital 01/2021)",
+      "assunto": "Reequilíbrio econômico-financeiro parcial baseado em evidência (IN 33/2024, medida mitigadora) por aumento extraordinário de custos de insumos de obras (COVID-19 e guerra Rússia–Ucrânia)",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade (pleito deferido)",
+      "resumo_voto": "Desequilíbrio estimado pela SUROD; antecipação de 61,2% do valor via procedimento que pondera aderência por grupo de obras (valores em R$ ilegíveis na legenda). Medida de natureza precária e provisória, reversível pela diretoria; operacionalizada pelo mecanismo de contas vinculadas (Deliberação 130/2025).",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, defere", "ts": "0:27:55", "justificativa": "extensa instrução da SUROD; natureza precária da medida", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha", "ts": "0:32:48", "confianca": "alta"},
+        {"diretor": "Marcelo Fonseca", "voto": "acompanha (inferido)", "ts": "0:32:51", "confianca": "baixa"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "0:32:51", "justificativa": "sustentabilidade econômico-financeira dos contratos: a agência reequilibrou contratos na pandemia, criou metodologia para insumos e agora responde à guerra para garantir continuidade das obras", "confianca": "média"}
+      ]
+    },
+    {
+      "id": "1.2.4", "ts": "0:34:38",
+      "processo": "50500.1584/2026 (parcial)", "interessado": "CNseg (Confederação Nacional das Empresas de Seguros Gerais, Previdência Privada e Vida, Saúde Suplementar e Capitalização)",
+      "assunto": "Acordo de cooperação para intercâmbio eletrônico de dados de seguros obrigatórios dos transportadores inscritos no RNTRC (Portaria SUROC 27/2025)",
+      "tema": ["transporte rodoviário de cargas (RNTRC)", "cooperação institucional", "fiscalização"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Sem transferência de recursos; enquadrado na Lei 13.019/2014; ANTT mantém a competência de validar e fiscalizar (nada é delegado à CNseg); vigência de 60 meses; reforço de LGPD; CNseg sem exclusividade (seguradoras podem integrar diretamente). Ganho: eficiência fiscalizatória, menos conferência manual, prevenção de fraudes.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "0:34:38", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "sigo integralmente o relator", "ts": "0:39:44", "confianca": "alta"},
+        {"diretor": "Marcelo Fonseca", "voto": "acompanha", "ts": "0:39:47", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "proclama unanimidade", "ts": "0:39:47", "confianca": "média"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "0:39:47",
+      "processo": "50500.97072/2022-12 (parcial)", "interessado": "Ouvidoria",
+      "assunto": "Relatório final da AP 1/2026 (24 contribuições) e nova resolução do SAC, adequando a Res. 3535/2010 ao Decreto 11.034/2022 (revoga a 3535)",
+      "tema": ["direitos do usuário / SAC", "regulação transversal", "sanções (regime sancionatório)"],
+      "relator": "Marcelo Fonseca", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Alternativa nº 5 da AIR (revisão simplificada que internaliza regras mínimas do decreto, define infrações e penalidades e preserva normativos setoriais). A dosimetria para concessões rodoviárias e transporte rodoviário de passageiros fica para normativos complementares; relator sugere que a diretoria acompanhe a evolução desses normativos. Procuradoria endossou a alternativa; 6 recomendações acatadas.",
+      "votos": [
+        {"diretor": "Marcelo Fonseca", "voto": "relator, aprova", "ts": "0:40:40", "justificativa": "segurança jurídica; lacuna sancionatória da norma anterior", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha integralmente", "ts": "0:48:02", "justificativa": "elogia o ouvidor Thales e a ouvidoria", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha (inferido)", "ts": "0:48:27", "confianca": "baixa"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente; proclama unanimidade", "ts": "0:48:30", "justificativa": "ouvidoria como fonte de dados e escuta ativa para decisão regulatória, fiscalizatória e contratual", "confianca": "média"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"item": "1.1.1", "processo": "50500.54937/2026-80 (parcial)", "relator": "não identificado (provável Felipe Queiroz)", "ts": "0:18:13"},
+    {"item": "1.2.1", "relator": "Lucas Asfor", "obs": "mesmo processo 50500.019002/2025-76 = RSF 1, aprovado depois na RD 1044", "ts": "0:18:42"},
+    {"item": "1.2.2", "relator": "Lucas Asfor", "ts": "0:18:42"}
+  ],
+  "limites_da_analise": ["Legenda automática: valores em R$ e números de processo ilegíveis/parciais.", "Votos de Marcelo (1.2.3) e Lucas (1.3.1) inferidos pela proclamação de unanimidade."]
+}

@@ -1,0 +1,102 @@
+{
+  "meta": {"video_id": "DRpLm1FOHCA", "fonte": "legenda automática do YouTube (título em inglês: Board Meeting 1041); falantes inferidos; ts = tempo do vídeo (sessão começa ~0:07)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1041", "data": "2026-09-10", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral) — também relator de vários itens",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alex Azevedo"],
+    "ausentes": ["Marcelo Fonseca (férias)"],
+    "outros_presentes": ["Procurador-chefe Rafael Fortunato", "Ouvidor Thales", "Secretária-geral Renata Teixeira"],
+    "observacoes": ["Todas as deliberações foram unânimes; 1 item retirado (proposta orçamentária).", "Próxima reunião remarcada de 24/09 para 28/09/2026 (14h)."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:08:37",
+      "processo": "50500.343279/2019-… (parcial)", "interessado": "Auditoria Interna",
+      "assunto": "Revisão do Estatuto da Auditoria Interna da ANTT (IN SFC/CGU 13/2020; certificação nível 2 do IACM em 2025; diretrizes para uso de IA em auditoria)",
+      "tema": ["institucional/governança"], "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "votos": [{"diretor": "Felipe Queiroz", "voto": "acompanha", "ts": "0:11:30", "confianca": "média"}]
+    },
+    {
+      "id": "1.1.3", "ts": "0:11:38",
+      "processo": "50500.045147/2026-11", "interessado": "Concessionária das Rodovias Centrais do Brasil (Concebra)",
+      "assunto": "Termo de referência do ambiente regulatório experimental (sandbox, Res. 5999/2022) para processo competitivo de transferência do controle acionário da Concebra (rota do Piquê remanescente após a divisão em 3 lotes)",
+      "tema": ["concessões rodoviárias", "solução consensual / sandbox", "leilão"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Autocomposição autorizada pelo TCU (Acórdão 1873/2026). Fase 1: alienação de 100% das ações com saída obrigatória da controladora, vence o maior desconto na tarifa básica (aportes adicionais se > 18%); Fase 2 em caso de insucesso: transferência a nova SPE. Leilão previsto para 11/12/2026 na B3.",
+      "votos": [{"diretor": "Felipe Queiroz", "voto": "acompanha", "ts": "0:15:18", "confianca": "média"}]
+    },
+    {
+      "id": "1.1.4", "ts": "0:15:24",
+      "processo": "50500.055643/2025-… (parcial)", "interessado": "Concessionária Nova Rota do Oeste (edital 3/2013)",
+      "assunto": "22º termo aditivo: incluir a implantação do dispositivo em desnível (Trevão de Rondonópolis, BR-163 km 119+900 com BR-364, MT). Relator originário: Alessandro Baumgarten (SDE 286, jun/2026); Guilherme Sampaio pediu vista",
+      "tema": ["concessões rodoviárias", "investimento/termo aditivo", "logística agro"],
+      "relator": "Alessandro Baumgarten (originário); revisor: Guilherme Sampaio (voto-vista convergente)", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Revisão quinquenal (Res. 6032/2023) concluiu pela pertinência do investimento; concessionária concordou com a versão final, ressalvando só a posição sobre risco de obra extra-PER (processo próprio). Único erro material: subcláusula 5.2 → 4.1.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "revisor: acompanha integralmente o voto do relator originário", "ts": "0:15:24", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha", "ts": "0:15:24", "justificativa": "Rondonópolis é entreposto logístico de grãos (terminal da Rumo Malha Norte); processo aperfeiçoado", "confianca": "média"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator com o complemento do revisor", "ts": "0:19:25", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente", "ts": "0:19:39", "justificativa": "importância do entroncamento para o Centro-Oeste e o agronegócio", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "extra-ferrograo", "ts": "0:20:18",
+      "processo": "50500.074884/2020-28", "interessado": "Superintendência de Concessão da Infraestrutura (SUCON)",
+      "assunto": "Atualização dos documentos jurídicos e estudos de viabilidade da concessão da EF-170 Ferrogrão (Sinop/MT – Miritituba/PA, ~993 km? legenda: 93 km; ramais Santarenzinho e Tapacurá) e envio ao TCU (prazo citado: até 14/09/2026)",
+      "tema": ["ferrovias", "concessão ferroviária", "TCU"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Atualiza estudos após Lei 14.273/2021, resoluções da ANTT, GT do Ministério dos Transportes, ADI 6553 (STF) e acórdãos do TCU. Procuradoria favorável (12/08). Ajustes: Lei 8.987/1995 como marco, Convenção 169 da OIT, alocação de riscos de licenciamento, exclusão de aporte de R$ 3,5 bi da modelagem, resarcimento dos estudos (PMI) a definir após acórdão. Sem mudança de concepção do projeto.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "acompanha", "ts": "0:30:25", "confianca": "média"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha", "ts": "0:30:32", "confianca": "média"}
+      ],
+      "obs": "Extensão do trecho principal na legenda (93 km) é incoerente com a Ferrogrão real; verificar."
+    },
+    {
+      "id": "1.2.1", "ts": "0:30:39",
+      "processo": "50500.056034/2025-… (parcial)", "interessado": "EPR Participações S.A.",
+      "assunto": "Homologação do resultado do leilão (edital de processo competitivo 1/2026) para alienação de 100% das ações da Autopista Régis Bittencourt (SP–PR)",
+      "tema": ["concessões rodoviárias", "leilão", "otimização contratual"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — vencedora EPR Participações (desconto de 22,53% na tarifa básica; Motiva 12,10%; Artéris 0,01%)",
+      "resumo_voto": "Sessão de leilão em 23/07/2026 na B3; habilitação confirmada em 06/08; sem recurso; instauração da fase de convivência e comitê de transição.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, homologa", "ts": "0:31:18", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha", "ts": "0:35:53", "justificativa": "mais um processo de otimização concluído com competição expressiva (cita ~12-13 casos); política regulatória para contratos que geravam passivos; liga SP e Curitiba", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente", "ts": "0:37:21", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "0:37:21", "confianca": "média"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "0:37:21",
+      "processo": "50500.948/2025-36 (parcial)", "interessado": "Rio Transporte Terrestre Locadora Ltda. (fretamento — ônibus)",
+      "assunto": "Recurso (recebido como pedido de reconsideração) contra a Deliberação 150/2026 (21/05/2026) que aplicou cassação da autorização de serviço de fretamento",
+      "tema": ["transporte rodoviário de passageiros (fretamento/ônibus)", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — reconsideração conhecida, provimento negado (cassação mantida no âmbito administrativo); efeito suspensivo prejudicado por decisão judicial",
+      "resumo_voto": "Alegações: decisões judiciais coletivas, falta de base legal, nulidade de notificação, efeito suspensivo. Relator: efeitos subjetivos das decisões não alcançam a empresa; legislação prevê cassação para uso da autorização em modalidade diversa (circuito fechado caracteriza fretamento); notificação por edital regular; decisão judicial posterior suspendeu cautelarmente a cassação (cumprida pela ANTT) — mantida a pena, sem eficácia enquanto durar a liminar.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, nega provimento", "ts": "0:37:21", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "0:42:53", "confianca": "média"},
+        {"diretor": "Alex Azevedo", "voto": "voto com o relator", "ts": "0:42:56", "confianca": "média"},
+        {"diretor": "Guilherme Sampaio", "voto": "proclama unanimidade", "ts": "0:42:56", "confianca": "média"}
+      ],
+      "obs": "A legenda diz que 'foram apresentados argumentos capazes de invalidar' a deliberação, mas o voto é por manter; tratar como erro de legenda (provável 'não foram')."
+    },
+    {
+      "id": "1.3.1", "ts": "0:42:56",
+      "processo": "50500.1471/2026 (parcial)", "interessado": "Via Brasil BR-163 Concessionária de Rodovias S.A.",
+      "assunto": "Alterações no edital do processo competitivo 2/2026 (itens 2.2, 8.1, 10.7, 18.2 e novo 12.10A) e no anexo 10 (contrato de compra e venda de ações): permitir que a atual controladora dispute em consórcio, com controle regulatório em duas etapas",
+      "tema": ["concessões rodoviárias", "leilão / processo competitivo", "solução consensual", "competição"],
+      "relator": "Alex Azevedo", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "A vedação à participação em consórcio foi escolha da agência, não da lei nem do termo de autocomposição; vedação absoluta é 'o instrumento regulatório mais tosco' (exclui sem examinar). Novo desenho: plano preliminar de reorganização societária na entrega dos documentos + exame definitivo se vencer; rito de anuência (cap. 19) e art. 27 da Lei de Concessões preservados. Mais lances = mais valor ao interesse público; medida ampliativa respeita isonomia; comunicado relevante da comissão; cronograma mantido (envelopes 08/11, leilão 12/11). BR-163/230 (MT/PA), principal corredor de grãos ao arco norte; usuário arca com o custo do atraso.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, aprova", "ts": "0:43:52", "justificativa": "competição, ganho de informação regulatória, custo do atraso para o usuário", "tom": "enfático e argumentativo", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha integralmente, com ressalva de que 'cada caso é um caso'", "ts": "0:59:14", "justificativa": "participou da solução consensual e o espírito nunca foi vedar a controladora; mas na Concebra a vedação expressa é adequada por razões diferentes", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha na íntegra", "ts": "1:02:33", "justificativa": "concorda com análise caso a caso", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente; proclama unanimidade", "ts": "1:03:08", "justificativa": "competitividade e atratividade do projeto; foco da agência no Centro-Oeste/Norte", "confianca": "alta"}
+      ],
+      "pos_voto": "Alex sugere um sistema de classificação das concessionárias para saber quais podem participar de certames de otimização/reprogramação (1:04:34)."
+    }
+  ],
+  "retirados": [{"item": "1.1.2", "assunto": "proposta orçamentária da ANTT", "relator": "Guilherme Sampaio", "motivo": "ainda em aperfeiçoamento pela superintendência; volta na sessão seguinte", "ts": "0:08:37"}],
+  "limites_da_analise": ["Legenda automática: números e valores parciais; atribuição de votos de Felipe/Lucas/Alex em alguns itens inferida.", "No encerramento, a legenda diz que 'Alex' interrompeu férias, mas a abertura registra a ausência de Marcelo Fonseca por férias — possível troca de nome na legenda."]
+}
