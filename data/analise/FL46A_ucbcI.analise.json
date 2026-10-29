@@ -1,0 +1,43 @@
+{
+  "meta": {"video_id": "FL46A_ucbcI", "fonte": "legenda automática do YouTube («Gravação de Reunião»); parte introdutória (cumprimentos) foi regravada após falha de transmissão; falantes inferidos; ts = tempo do vídeo", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "95ª Extraordinária", "data": "2025-09-02", "formato": "videoconferência (sessão extraordinária)",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral, recém-confirmado pelo Senado)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alex Azevedo (1ª sessão; 2º dia no cargo)", "José Aires Amaral Filho (diretor substituto; servidor de carreira)"],
+    "ausentes": [],
+    "observacoes": ["Primeira sessão pública de Alex Azevedo e de Amaral Filho; diretoria recomposta com cinco membros.", "Alex Azevedo (de origem na Paraíba, ex-planejamento/modelagem de projetos) foi sabatinado e nomeado junto com Guilherme Sampaio, com mandato de 5 anos.", "Amaral Filho: primeiro servidor da fiscalização a chegar à diretoria; depois aparece como superintendente (RD 1039).", "2 deliberações unânimes (1 extra-pauta)."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:06:29",
+      "processo": "50500.3938/2022 (parcial)", "interessado": "Autopista Fernão Dias S.A.",
+      "assunto": "Relatório final da consulta pública 1/2025 (87 contribuições; sessões em Guarulhos e Contagem) e edital do processo competitivo para a otimização da concessão da BR-381 MG/SP (569 km) mediante alienação de 100% das ações",
+      "tema": ["concessões rodoviárias", "solução consensual / otimização", "leilão"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — leilão marcado para 11/12/2025 na B3",
+      "resumo_voto": "Termo de autocomposição construído na comissão de solução consensual do TCU; investimentos estimados em ≈ R$ 9,4 bi de capex e R$ 5,3 bi de opex (≈ R$ 14 bi). Temas mais citados nas contribuições: obras (23,2%), passarelas (12%), acessos (8,8%). Sessão extraordinária convocada para cumprir o cronograma de leilões.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova", "ts": "0:06:29", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "sigo na íntegra o voto do relator", "ts": "0:13:41", "justificativa": "importância do ativo que liga Belo Horizonte e São Paulo", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:15:37", "justificativa": "cumprir o cronograma de leilões", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente (primeiro voto)", "ts": "0:17:06", "justificativa": "desenvolvimento da infraestrutura logística do país", "confianca": "alta"},
+        {"diretor": "José Aires Amaral Filho", "voto": "acompanha integralmente", "ts": "0:18:37", "justificativa": "considera a remodelagem mais importante já feita pela agência para um eixo logístico", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "extra-pauta-Bradesco", "ts": "0:19:47",
+      "processo": "50505.006517/2025 (parcial)", "interessado": "Banco Bradesco BBI S.A. (recorrente); recorridas: participações do grupo CCR em recuperação judicial",
+      "assunto": "Recurso do Bradesco BBI contra a decisão monocrática do Diretor-Geral (despacho de 05/02/2025) que deferiu medida cautelar para impedir a transferência de controle acionário indireto de concessionárias do grupo CCR ao banco, por execução de alienação fiduciária de ações (≈ 3,94% do capital da CCR), sem anuência prévia da ANTT",
+      "tema": ["concessões rodoviárias", "transferência de controle / anuência prévia", "poder de polícia da agência"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — recurso conhecido e desprovido; cautelar mantida",
+      "resumo_voto": "Embora a propriedade resolúvel não confira direito de voto, o banco declarou querer vender as ações para satisfazer o crédito, o que exigiria anuência (art. 27 da Lei 8.987 e art. 5º da Res. 5927/2021) e poderia dar influência na governança das concessionárias, contornando os princípios licitatórios. Divergiu da SUROD, que sugeria revogar a cautelar. Efeito suspensivo havia sido concedido pelo próprio relator antes, mas a autoridade da agência deve ser preservada (supremacia do interesse público).",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, nega provimento", "ts": "0:20:20", "justificativa": "preservar a análise prévia da ANTT e a autoridade da agência", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "0:25:09", "justificativa": "a agência deve se debruçar sobre arranjos societários cada vez mais criativos; hoje decide só a competência, não o mérito", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha", "ts": "0:27:23", "justificativa": "reproduz o trecho sobre a supremacia do interesse público", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente", "ts": "0:28:27", "justificativa": "preservação do interesse público e da competência da agência", "confianca": "alta"},
+        {"diretor": "José Aires Amaral Filho", "voto": "apoia o voto", "ts": "0:29:03", "confianca": "alta"}
+      ]
+    }
+  ],
+  "limites_da_analise": ["Legenda automática: números de processo parciais; a parte inicial regravada (boas-vindas) foi tratada como contexto.", "Nomes de empresas do grupo CCR parciais na legenda."]
+}

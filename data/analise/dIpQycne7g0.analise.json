@@ -1,0 +1,25 @@
+{
+  "meta": {"video_id": "dIpQycne7g0", "fonte": "legenda automática do YouTube (curta, de baixa qualidade); data não aparece no título: estimada em março/2025 (assunção da rodovia às 0h de 21/03; contrato assinado em 14/02/2025)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "90ª Extraordinária", "data": "2025-03 (aprox.; a confirmar)", "formato": "videoconferência (sessão extraordinária, ≈ 4 min)",
+    "presidente_da_sessao": "não identificado (provavelmente o Diretor-Geral, que também seria o relator)",
+    "diretores_presentes": ["Felipe Queiroz", "Lucas Asfor", "relator/presidente não identificado"],
+    "ausentes": [],
+    "observacoes": ["A legenda não traz nomes na abertura; a composição da diretoria nessa data não pôde ser confirmada."]
+  },
+  "itens": [
+    {
+      "id": "unico", "ts": "0:00:00",
+      "processo": "50500.00427/2025-34 (parcial)", "interessado": "Concessionária da Rodovia BR-262 MG S.A. (Way 262, Rota do Zebu; edital 3/2024; contrato de 14/02/2025)",
+      "assunto": "Reajuste da tarifa básica de pedágio e início da cobrança nas praças existentes P1 Florestal, P3, P4 Campos Altos e P6 Perdizes (BR-262/MG, trecho entre o entroncamento com a BR-381 e o com a BR-050 em Uberaba), com termo de vistoria e ato autorizativo; assunção da rodovia às 0h de 21 de março",
+      "tema": ["concessões rodoviárias", "tarifa/pedágio", "início de cobrança"],
+      "relator": "não identificado (presidente da sessão)", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "A comissão de fiscalização dos trabalhos iniciais atestou a capacidade da concessionária para operar; relator exige ampla divulgação das tarifas, descontos e do serviço de atendimento ao usuário.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "0:03:30", "confianca": "média"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:03:40", "confianca": "média"}
+      ]
+    }
+  ],
+  "limites_da_analise": ["Legenda curta e ruidosa; o relator e a data não são identificáveis.", "Reunião tratada como evidência fraca para o perfil dos diretores."]
+}
