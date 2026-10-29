@@ -1,0 +1,59 @@
+{
+  "meta": {"video_id": "ZBxIyiomges", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:13)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1038", "data": "2026-07-30", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral, relator do item principal)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alex Azevedo", "Alessandro Baumgarten"],
+    "ausentes": [],
+    "observacoes": ["Felipe Queiroz voltou de 3 semanas de férias; 'colegiado completo' (palavras do DG).", "Alessandro Baumgarten atuava como diretor substituto/interino e é titular da SUFER; Marcelo Fonseca era superintendente da SUCON (assumiria a diretoria em ago/2026).", "3 deliberações unânimes; 1 item retirado (estrutura organizacional, aprovado na RD 1039)."]
+  },
+  "itens": [
+    {
+      "id": "1.1.2", "ts": "0:13:20",
+      "processo": "50500.6460/2015 (parcial)", "interessado": "Ferrovia Centro-Atlântica S.A. (FCA)",
+      "assunto": "Ajustes no plano de outorga da prorrogação antecipada da concessão da Malha Centro-Leste, em atendimento à Portaria MT 344/2026 (18/05/2026): realocação de ≈ R$ 34 mi de conflitos urbanos (Brasília–Luziânia) para a Bahia; 1% do capex regulatório para infraestrutura resiliente (Portaria MT 303/2026); estudos de viabilidade em 2 anos; ≈ R$ 1,2 bi em recursos vinculados a projetos prioritários na Bahia (contorno ferroviário de São Félix, bitola, Licínio de Almeida); prazo do corredor Minas–Bahia até 15 anos; ramal mantido até dez/2031",
+      "tema": ["ferrovias", "concessão ferroviária", "prorrogação antecipada", "governança / competência da diretoria"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — plano de outorga ajustado; unidade técnica deve consolidar ajustes antes de enviar ao TCU",
+      "resumo_voto": "Com parecer da Procuradoria: o plano de outorga, embora não exigido por lei (Lei 13.448/2017), foi adotado voluntariamente e incorpora-se ao ato da diretoria; alterações substanciais por diretriz do poder concedente exigem nova deliberação colegiada, preservada a autonomia técnica da ANTT. O relator acrescenta, por demandas de outros estados (em especial Espírito Santo), a priorização do contorno ferroviário de Belo Horizonte com recursos de outorga livres das contas vinculadas. Racionalização de ≈ 3.110 km de trechos antieconômicos e modernização do corredor Corinto–Aratu.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova", "ts": "0:13:20", "justificativa": "coerência institucional e cadeia decisória; interesse público; trabalho interinstitucional (MT, PPI, TCU, estados)", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha integralmente", "ts": "0:25:02", "justificativa": "governança não pode prescindir de eficiência (processo de 10 anos desde 2016); aprova a visão de rede (Vitória–Minas, EF-118) ao incluir o contorno de Belo Horizonte", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:30:56", "justificativa": "discorda do ditado 'o ótimo é inimigo do bom': aqui se atingiu o ótimo, com ampla governança", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente", "ts": "0:33:27", "justificativa": "cita Luhmann: o procedimento legitima a decisão; a agência decide com agilidade sobre corredores logísticos", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha integralmente", "ts": "0:35:50", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:36:31",
+      "processo": "50500.115208/2024-45", "interessado": "Concessionária Ecovias Minas Goiás (BR-050 MG/GO, 436,6 km; edital 1/2013)",
+      "assunto": "13ª revisão extraordinária da tarifa básica de pedágio: quatro eventos — elevador no posto da PRF de Araguari (ordem judicial), desapropriações (aprovadas só parcialmente), cobertura 4G em 31 pontos, pavimento emergencial km 178–179 (Uberaba)",
+      "tema": ["concessões rodoviárias", "tarifa/pedágio", "reequilíbrio contratual", "segurança viária"],
+      "relator": "Alex Azevedo", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Valores individuais e total ilegíveis na legenda. Fluxo de caixa marginal com taxa de 9,86% a.a.; tarifa básica acumulada nos fluxos marginais de 0,00398 para 0,00406 R$/km (efeito total com o reajuste ordinário; ≈ +6,01% isolado). Procuradoria dispensada por inexistir controvérsia jurídica; efeitos junto à 11ª revisão ordinária com salvaguarda para atraso. Relator enfatiza que a área técnica cortou parte das desapropriações: 'não é simples carimbo'.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, aprova", "ts": "0:36:31", "justificativa": "reposição de custo real e comprovado; benefícios às comunidades lindeiras (4G); transparência com o cidadão", "tom": "didático e narrativo, dirigido ao público", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "0:54:18", "justificativa": "destaca conectividade e modernização do contrato", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:54:57", "justificativa": "voto elucidativo e preciso", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "0:55:07", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "0:55:07", "justificativa": "elogia a transparência sobre impactos e razões", "confianca": "média"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "0:55:07",
+      "processo": "50500.8107/2026 (parcial)", "interessado": "EPR Litoral Pioneiro S.A. (edital 2/2023)",
+      "assunto": "13º termo aditivo: 41 controladores eletrônicos de velocidade (52 faixas) e 12 nas praças de pedágio (operação inicial de 5 anos), sinalização e elementos de proteção e segurança",
+      "tema": ["concessões rodoviárias", "segurança viária (radares)", "termo aditivo"],
+      "relator": "Alessandro Baumgarten", "resultado": "aprovado por unanimidade, com recomendação à SUROD",
+      "resumo_voto": "A minuta final foi alterada depois da anuência da concessionária e não voltou a ela; o relator comparou as versões, concluiu que não houve alteração material e aprovou 'excepcionalmente', mas registra que isso não é flexibilização do rito e recomenda que a SUROD só leve à diretoria a versão da minuta previamente anuída pela concessionária. Interesse público: segurança viária e redução de sinistralidade.",
+      "votos": [
+        {"diretor": "Alessandro Baumgarten", "voto": "relator, aprova com recomendação", "ts": "0:55:07", "justificativa": "segurança jurídica, boa-fé, governança; rito não deve ser flexibilizado", "tom": "formalista/garantista", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "1:02:10", "justificativa": "concorda que o rito ideal não foi observado e que a situação deve ser excepcional (risco residual); relata visitas no Paraná: 50 km contínuos de duplicação, contorno norte de Curitiba 60%, queda de 87% de incidentes em 100 dias no acesso a Umuarama (47 óbitos em 3 anos)", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:06:10", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente", "ts": "1:06:26", "justificativa": "segurança viária: 'uma vida já importa'", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "1:06:26", "confianca": "média"}
+      ]
+    }
+  ],
+  "retirados": [{"item": "1.1.1", "assunto": "Nova resolução da estrutura organizacional da ANTT", "relator": "Guilherme Sampaio", "motivo": "esclarecer pontos formais e materiais; reincluída e aprovada na RD 1039", "ts": "0:13:20"}],
+  "limites_da_analise": ["Legenda automática: valores em R$ dos eventos do item 1.2.1 ilegíveis; números de processo parciais.", "Votos de Guilherme Sampaio em 1.2.1 e 1.3.1 inferidos pela proclamação."]
+}
