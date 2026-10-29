@@ -20,6 +20,7 @@ def via_yt_dlp(vid):
             err = (r.stderr.strip().splitlines() or [""])[-1][:140]
             motivo = "sem_legenda" if "no subtitles" in r.stderr.lower() and "bot" not in r.stderr else "bloqueio"
             if "429" in r.stderr: motivo = "limite429"
+            elif motivo == "bloqueio" and "bot" not in r.stderr and "Sign in" not in r.stderr: motivo = "erro_yt"
             return None, motivo, err
         ev = json.load(open(fs[0])).get("events", [])
         return [{"t": e["tStartMs"] / 1000, "d": e.get("dDurationMs", 0) / 1000,
@@ -41,7 +42,7 @@ def baixar(vid):
 vids = [json.loads(l) for l in open("data/videos.jsonl")]
 vids = [v for v in vids if not v.get("duplicata_de") and v["tipo"] != "outro"
         and (a.tipos == "todos" or v["tipo"] in a.tipos.split(","))]
-vids.sort(key=lambda v: v["prioridade"])
+vids.sort(key=lambda v: (v["prioridade"], -int((v["data"] or "0000-00-00").replace("-", ""))))
 fila = [v for v in vids if not os.path.exists(f"data/transcricoes/{v['id']}.json")]
 print(f"{len(vids)-len(fila)} já baixadas, {len(fila)} na fila", flush=True)
 ok = falha = seguidas = 0
@@ -53,6 +54,7 @@ for i, v in enumerate(fila, 1):
         if motivo == "limite429": print("HTTP 429: o YouTube limitou seu IP. Pare e tente de novo em 2-4 horas (sem cookies; --pausa 40)."); break
         print(f"[{i}/{len(fila)}] {motivo.upper()} ({info}) {v['tipo']} {v['titulo'][:60]}", flush=True)
         open("data/sem_legenda.jsonl", "a").write(json.dumps({"id": v["id"], "motivo": motivo, "info": info}) + "\n")
+        if motivo == "erro_yt": seguidas = 0
         if seguidas >= 5:
             print("5 BLOQUEIOS seguidos: provável bloqueio do YouTube. Espere ~1h ou use --pausa 40 e rode de novo (retoma de onde parou)."); break
         time.sleep(a.pausa * 2); continue
