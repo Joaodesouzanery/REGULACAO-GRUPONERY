@@ -5,13 +5,13 @@ import json, os, sys, glob, subprocess, tempfile, argparse, time, random
 from youtube_transcript_api import YouTubeTranscriptApi
 from youtube_transcript_api._errors import IpBlocked, RequestBlocked
 ap = argparse.ArgumentParser(); ap.add_argument("--cookies"); ap.add_argument("--browser", help="chrome|safari|firefox|edge: usa os cookies do navegador (só yt-dlp)"); ap.add_argument("--tipos", default="diretoria")
-ap.add_argument("--pausa", type=float, default=4); a = ap.parse_args()
+ap.add_argument("--pausa", type=float, default=25); ap.add_argument("--max", type=int, default=0, help="máx. de vídeos por rodada (0 = sem limite)"); a = ap.parse_args()
 os.makedirs("data/transcricoes", exist_ok=True)
 api = YouTubeTranscriptApi()
 def via_yt_dlp(vid):
     with tempfile.TemporaryDirectory() as d:
         cmd = [sys.executable, "-m", "yt_dlp", "--skip-download", "--write-auto-subs", "--write-subs", "--sub-langs", "pt.*,en.*",
-               "--sub-format", "json3", "-o", f"{d}/%(id)s", f"https://www.youtube.com/watch?v={vid}"]
+               "--sub-format", "json3", "--sleep-requests", "2", "--sleep-subtitles", "5", "-o", f"{d}/%(id)s", f"https://www.youtube.com/watch?v={vid}"]
         if a.cookies: cmd += ["--cookies", a.cookies]
         if a.browser: cmd += ["--cookies-from-browser", a.browser]
         r = subprocess.run(cmd, capture_output=True, text=True)
@@ -19,6 +19,7 @@ def via_yt_dlp(vid):
         if not fs:
             err = (r.stderr.strip().splitlines() or [""])[-1][:140]
             motivo = "sem_legenda" if "no subtitles" in r.stderr.lower() and "bot" not in r.stderr else "bloqueio"
+            if "429" in r.stderr: motivo = "limite429"
             return None, motivo, err
         ev = json.load(open(fs[0])).get("events", [])
         return [{"t": e["tStartMs"] / 1000, "d": e.get("dDurationMs", 0) / 1000,
@@ -45,13 +46,15 @@ fila = [v for v in vids if not os.path.exists(f"data/transcricoes/{v['id']}.json
 print(f"{len(vids)-len(fila)} já baixadas, {len(fila)} na fila", flush=True)
 ok = falha = seguidas = 0
 for i, v in enumerate(fila, 1):
+    if a.max and ok >= a.max: print(f"Limite da rodada ({a.max}) atingido. Rode de novo mais tarde."); break
     segs, motivo, info = baixar(v["id"])
     if not segs:
-        falha += 1; seguidas += (motivo == "bloqueio")
+        falha += 1; seguidas += (motivo in ("bloqueio", "limite429"))
+        if motivo == "limite429": print("HTTP 429: o YouTube limitou seu IP. Pare e tente de novo em 2-4 horas (sem cookies; --pausa 40)."); break
         print(f"[{i}/{len(fila)}] {motivo.upper()} ({info}) {v['tipo']} {v['titulo'][:60]}", flush=True)
         open("data/sem_legenda.jsonl", "a").write(json.dumps({"id": v["id"], "motivo": motivo, "info": info}) + "\n")
         if seguidas >= 5:
-            print("5 BLOQUEIOS seguidos: provável bloqueio do YouTube. Espere ~1h ou use --browser chrome (ou --cookies cookies.txt) e rode de novo (retoma de onde parou)."); break
+            print("5 BLOQUEIOS seguidos: provável bloqueio do YouTube. Espere ~1h ou use --pausa 40 e rode de novo (retoma de onde parou)."); break
         time.sleep(a.pausa * 2); continue
     seguidas = 0; ok += 1
     json.dump(segs, open(f"data/transcricoes/{v['id']}.json", "w"), ensure_ascii=False)
