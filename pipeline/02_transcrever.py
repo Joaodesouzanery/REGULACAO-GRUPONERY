@@ -33,7 +33,9 @@ def baixar(vid):
         try: t = lista.find_transcript(["pt", "pt-BR"])
         except Exception: t = next(iter(lista))  # qualquer idioma (ex.: versão em inglês)
         return [{"t": s.start, "d": s.duration, "x": s.text} for s in t.fetch()], "ok", t.language_code
-    except (IpBlocked, RequestBlocked): return via_yt_dlp(vid)
+    except (IpBlocked, RequestBlocked) as e:
+        r = via_yt_dlp(vid)
+        return r if r[0] else (None, r[1] if r[1] != "erro_yt" else "bloqueio", f"api:{type(e).__name__} | yt-dlp:{r[2]}")
     except Exception as e:
         r = via_yt_dlp(vid)
         if r[0]: return r
