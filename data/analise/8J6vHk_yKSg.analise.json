@@ -1,0 +1,132 @@
+{
+  "meta": {"video_id": "8J6vHk_yKSg", "fonte": "legenda automática do YouTube (título em inglês: Board Meeting 1035; a legenda lê 'sessão número 1085' na abertura, erro de ASR); falantes inferidos; ts = tempo do vídeo (a gravação começa na abertura)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1035", "data": "2026-06-18", "formato": "videoconferência, com sustentações orais de advogados",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral) até ~1:09; depois Felipe Queiroz como diretor-geral substituto",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Alex Azevedo (com faringite, relatou 4 itens)", "Alessandro Baumgarten"],
+    "ausentes": ["Lucas Asfor (férias)"],
+    "observacoes": ["Sessão com problemas técnicos de áudio e longa (≈ 110 min).", "Um item terminou com pedido de vista (1.2.3, Rio Novo × Expresso Satélite Norte); os demais foram unânimes.", "Dois itens de ônibus com sanção de cassação/medida cautelar e um com disputa entre empresas rivais."]
+  },
+  "itens": [
+    {
+      "id": "extra-pauta-RotaAgro", "ts": "1:08:00",
+      "processo": "50500.032111/2026-60", "interessado": "Concessionária Rota Agro MT-GO S.A. (edital 2/2025)",
+      "assunto": "1º termo aditivo: substituir a obrigação de construir praças de pedágio físicas pela implantação de pedágio eletrônico (free flow) nas 5 praças do PER (P1 a P5), com reposicionamento de P1 e P5 além do limite de 5 km",
+      "tema": ["concessões rodoviárias", "tarifa/pedágio/free flow", "termo aditivo"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade, com condicionante do relator",
+      "resumo_voto": "P2–P4 dentro de 5 km (neutras); P1 muda 5,9 km e P5 10,64 km (≈ o dobro do limite). Aprimoramentos do termo referencial de free flow: primeira notificação de 2 para 8 dias, rastreabilidade das notificações, guarda de registros por 5 anos. O relator verificou que a minuta final suprimiu 3 subcláusulas de monitoramento e reequilíbrio por captura adicional de tráfego e condiciona a assinatura à reincorporação delas; propõe isso como boa prática (coerência com o caso EPR Paraná).",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova com condicionante", "ts": "0:57:53", "justificativa": "regulação baseada em evidências; monitorar impactos mesmo quando a área técnica vê neutralidade; coerência com precedentes", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "1:07:26", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "1:07:31", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "1:07:34", "confianca": "média"}
+      ]
+    },
+    {
+      "id": "1.2.3", "ts": "0:01:28",
+      "processo": "50500.046167/2021-97", "interessado": "Rio Novo Transportes e Turismo Ltda. (autora) × Expresso Satélite Norte Ltda. (interveniente/recorrente)",
+      "assunto": "Cumprimento de ordem judicial (procedimento comum cível, DF): revogação das Deliberações SUPAS 216–221/2025 (autorizações precárias de mercados) após a ANTT ter deferido o pedido por vias regulares nas Deliberações ANTT 53–58/2026 (27/02/2026), com termos de autorização definitivos (Confresa–Imperatriz, Goiânia–Querência, Palmas–Porto Alegre do Norte, Brasília–Canarana, Teresina–Sinop e Brasília–Itaituba)",
+      "tema": ["transporte rodoviário de passageiros (ônibus)", "autorizações de mercado (TAR) e novo marco regulatório", "judicialização", "disputa entre empresas"],
+      "relator": "Alex Azevedo", "resultado": "pedido de vista de Felipe Queiroz (inversão de pauta e sustentações orais; votação adiada)",
+      "resumo_voto": "Relator: fato superveniente esvaziou as autorizações provisórias; revogar para evitar duplicidade, conforme parecer da Procuradoria. Satélite Norte (Dr. Walbert Luna) pediu diligência: há recurso administrativo seu de 15/07/2025 (documentação não entregue no prazo de 60 dias, prazo renovado até 300 dias contra a Res. 4770), decisões judiciais provisórias com agravos (2 da própria ANTT) e reclamação no STF; regularização definitiva seria impossível sob decisão provisória. Rio Novo (Dr. Lucas Serrão Turquino) concorda com o relator e sustenta tratamento isonômico por determinação do juiz e do MPF. Houve choque entre os advogados (questão de ordem; acusação de 'inverdades'); o presidente limitou o debate às sustentações.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator: revoga as deliberações SUPAS 216–221/2025", "ts": "0:27:26", "justificativa": "cumprimento estrito da ordem judicial e 'limpeza do ordenamento'; defere já definitivamente os mercados", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "pede vista", "ts": "0:32:55", "justificativa": "dúvidas procedimentais e jurídicas surgidas após as sustentações orais, a esclarecer com a Procuradoria; já inclinado a acompanhar o relator na sessão eletrônica", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.1", "ts": "0:32:55",
+      "processo": "50500.0365852026 (parcial)", "interessado": "Superintendência de Infraestrutura Rodoviária (SUROD)",
+      "assunto": "Alteração do art. 82 §1º da Res. 6032/2023 (RCR 3): continua vedado parcelar/postergar o desconto de reequilíbrio por inexecução (fator D), ressalvadas situações excepcionais devidamente justificadas e proporcionais — em linha com o Acórdão TCU 275/2026 (reexame pedido pela ANTT; origem Acórdão 386/2025)",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual (fator D)", "regulação normativa", "TCU"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "A dúvida jurídica surgiu na análise da 6ª revisão ordinária da Via Sul (enchentes de maio/2024). Fator D não é infração, é restabelecimento de equilíbrio; a agência precisa da faculdade de tratar casos excepcionais; dispensa de AIR e participação social por ser cumprimento de determinação do TCU.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova", "ts": "0:34:50", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "0:42:16", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "0:42:18", "confianca": "média"}
+      ]
+    },
+    {
+      "id": "1.1.2", "ts": "0:42:18",
+      "processo": "50500.016127/2025-44", "interessado": "Concessionária das Rodovias Integradas do Sul (Motiva Via Sul), BR-101/290/386/448 RS (edital 1/2018)",
+      "assunto": "6ª revisão ordinária e reajuste da tarifa básica de pedágio; reconhecimento da excepcionalidade das enchentes do RS (maio/2024) e tratamento diferenciado, fundamentado, do fator D. Relator originário: Alessandro Baumgarten (SDE 279); Felipe Queiroz pediu vista",
+      "tema": ["concessões rodoviárias", "tarifa/pedágio", "reequilíbrio contratual (fator D)", "eventos climáticos"],
+      "relator": "Alessandro Baumgarten (originário); revisor: Felipe Queiroz (voto-vista convergente)", "resultado": "aprovado por unanimidade — tarifa da categoria 1 de R$ 5,50 para R$ 6,60 nas praças P1–P7",
+      "resumo_voto": "A vista de Felipe tratava de dúvida sobre parcelamento do fator D; a Procuradoria apontou discrepância com o RCR 3 e a SUROD preferiu alterar a norma (item 1.1.1) antes de aprovar o termo aditivo. Felipe acolhe integralmente o voto de Alessandro.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "revisor: acompanha integralmente o relator originário", "ts": "0:43:14", "justificativa": "dúvida superada pela alteração do RCR 3; nova solução dá mais segurança jurídica", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "mantém o voto de relator", "ts": "0:47:36", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "de acordo com o relator originário", "ts": "0:47:15", "confianca": "média"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha ambos; proclama unanimidade", "ts": "0:47:43", "confianca": "média"}
+      ]
+    },
+    {
+      "id": "1.1.3", "ts": "0:47:43",
+      "processo": "50500.032474/2025-14", "interessado": "Motiva Via Sul",
+      "assunto": "Reequilíbrio parcial cautelar (IN 33/2024) por aumento extraordinário de custos de insumos (COVID-19 e guerra Rússia–Ucrânia)",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "reequilíbrio cautelar"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — deferido 43,77% de um pleito de ≈ R$ 72,5 mi, ou seja ≈ R$ 31,75 mi (data-base jul/2026), via revisão extraordinária da tarifa",
+      "resumo_voto": "Relator pediu à SUROD: análise detalhada do valor, não deferir automaticamente o teto de 60% e adotar checklist procedimental (sugestão da Procuradoria, Parecer 148/2025). Percentual específico de 43,77% decorre do grau de aderência metodológica.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, defere", "ts": "0:48:25", "justificativa": "regulação incremental baseada em evidência; não aplicar o limite máximo de 60% por inércia", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha (inferido)", "ts": "0:56:15", "confianca": "baixa"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha (inferido)", "ts": "0:56:15", "confianca": "baixa"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "0:56:20", "justificativa": "decisão alinhada a acórdão do TCU (ministro Anastasia); instrumento dá resiliência contratual", "confianca": "média"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "1:08:00",
+      "processo": "50505.008429/2025-28", "interessado": "Itaminas Comércio de Minérios S.A.",
+      "assunto": "Outorga por autorização ferroviária para ramal/terminal ferroviário em Sarzedo (MG), ≈ 4,5 km, 40 anos, investimento ≈ R$ 230 mi, conexão à malha da MRS",
+      "tema": ["ferrovias", "autorização ferroviária", "direito de preferência"],
+      "relator": "Alex Azevedo", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "MRS e Vale declinaram do direito de preferência; a FCA manifestou-se de forma inconclusa e teve decretada a decadência: o prazo de 15 dias do art. 8º-C da Res. 5.987/2022 não admite dilação. Corrige erro material da minuta (vigência de 99 anos para 40). Ganhos socioambientais: menos caminhões no bairro Brasília e eficiência energética.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, defere a autorização", "ts": "1:12:16", "justificativa": "segurança jurídica, isonomia e celeridade do novo marco de autorizações; sem protelação", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "1:20:02", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha; proclama unanimidade (presidindo)", "ts": "1:20:02", "confianca": "média"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "1:20:02",
+      "processo": "50500.8470/2026-04 (parcial)", "interessado": "Sem Parar Instituição de Pagamento Ltda.",
+      "assunto": "Pedido de reconsideração contra a Decisão SUROC 84/2026 (cautelar que suspendeu a habilitação para emitir o CIOT, por não comprovar PIX junto ao Banco Central). Relator: Alessandro Baumgarten (apresentado na RD 1033); Alex Azevedo pediu vista",
+      "tema": ["transporte rodoviário de cargas (CIOT/meios de pagamento)", "fiscalização e sanções", "judicialização"],
+      "relator": "Alessandro Baumgarten (originário); revisor: Alex Azevedo (voto-vista convergente)", "resultado": "aprovado por unanimidade — não conhecido por intempestividade; efeitos da decisão SUROC mantidos (suspensos por liminar do TRF-3)",
+      "resumo_voto": "Peça recebida como recurso administrativo (fungibilidade), mas protocolada em 24/02/2026, após o prazo de 5 dias corridos que terminou em 19/02 (com carnaval); intempestividade impede o exame do mérito (art. 63, I, da Lei 9.784). Banco Central indeferiu duas vezes o pedido de adesão ao PIX.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "voto-vista: acompanha o relator originário (não conhecimento)", "ts": "1:21:19", "justificativa": "tinha dúvidas e pediu vista; reconhece consistência do voto de Alessandro", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "mantém o voto de relator; acolhe o voto-vista como complementar", "ts": "1:31:45", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "concorda com ambos; proclama unanimidade", "ts": "1:31:57", "justificativa": "voto-vista complementa e dá mais clareza", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.4", "ts": "1:31:57",
+      "processo": "50502.3881/2025-31 (parcial)", "interessado": "Agência Contact Internacional de Turismo Ltda. (fretamento — ônibus)",
+      "assunto": "Pedido de reconsideração (com pedido subsidiário de TAC e solução consensual) contra a Deliberação 396/2025 (23/10/2025), que cassou a autorização de fretamento",
+      "tema": ["transporte rodoviário de passageiros (fretamento/ônibus)", "fiscalização e sanções", "reincidência"],
+      "relator": "Alex Azevedo", "resultado": "aprovado por unanimidade — reconsideração conhecida, sem efeito suspensivo, desprovida; cassação mantida",
+      "resumo_voto": "Empresa usava o fretamento (circuito fechado) para operar como linha regular (circuito aberto, bilhetes individuais); 23 autos de infração entre 2021 e 2024 (21 já transitados), multas sem efeito pedagógico; infrações continuaram após o processo. Refuta: tempo de atuação (50 anos) não legitima ilegalidade; 'tempus regit actum' sobre normas revogadas; cassação prevista no art. 36 §5º do Decreto 2.521/1998 (basta uma infração). Pedidos de TAC e solução consensual já decididos antes.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, nega provimento", "ts": "1:33:46", "justificativa": "cassação necessária e proporcional para preservar o interesse público e a concorrência; reincidência e contumácia", "tom": "firme, normativo", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha integralmente", "ts": "1:42:38", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha; proclama unanimidade", "ts": "1:42:41", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "1:42:41",
+      "processo": "50500.029039/2026 (parcial)", "interessado": "SUCON",
+      "assunto": "Abertura de audiência pública (45 dias, contribuições a partir de 26/06/2026) e AIR 2.0 sobre a revisão da metodologia do WACC regulatório das concessões rodoviárias (Res. 6002/6003/6004 de 2022)",
+      "tema": ["concessões rodoviárias", "WACC / taxa de retorno", "participação social"],
+      "relator": "Alessandro Baumgarten", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Atende recomendações da CGU; mudanças em metodologia de capital próprio, séries históricas, correlação por cópulas, beta regulatório calibrado por evidências internacionais, retornos logarítmicos, custo de capital de terceiros e classificações de risco CR0–CR3; spreads mantidos em aberto para a audiência.",
+      "votos": [
+        {"diretor": "Alessandro Baumgarten", "voto": "relator, aprova", "ts": "1:43:40", "tom": "técnico, estruturado", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "1:49:11", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha; proclama unanimidade", "ts": "1:49:14", "justificativa": "o WACC regulatório é a baliza da viabilidade e da financiabilidade dos projetos", "confianca": "alta"}
+      ]
+    }
+  ],
+  "limites_da_analise": ["Legenda automática: o resultado do voto de Guilherme e de alguns diretores foi inferido pela proclamação.", "Valores e números de processo parciais; ano 2016 na legenda do item 1.1.3 é provável erro (2026).", "A passagem de presidência de Guilherme para Felipe ocorre perto de 1:08 e a legenda não permite saber o horário exato da saída."]
+}
