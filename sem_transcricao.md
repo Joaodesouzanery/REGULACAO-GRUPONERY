@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **233** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/participativa: 1; 2023/participativa: 1; 2023/diretoria: 7; 2023/audiencia: 10; 2022/participativa: 3; 2022/diretoria: 31; 2022/audiencia: 12; 2021/diretoria: 41; 2021/audiencia: 9; 2020/participativa: 1; 2020/diretoria: 45; 2020/audiencia: 11; 2019/diretoria: 41; 2019/audiencia: 12; 2018/audiencia: 4
+Total: **221** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/participativa: 1; 2023/participativa: 1; 2023/diretoria: 1; 2023/audiencia: 10; 2022/participativa: 3; 2022/diretoria: 25; 2022/audiencia: 12; 2021/diretoria: 41; 2021/audiencia: 9; 2020/participativa: 1; 2020/diretoria: 45; 2020/audiencia: 11; 2019/diretoria: 41; 2019/audiencia: 12; 2018/audiencia: 4
 
 - 2026-09-28 · diretoria · Board Meeting No. 1042 - 09/28/2026 · https://www.youtube.com/watch?v=6A8-zT0Sipw · **transcrição sem fala útil (760 caracteres; só música/ruído)**
 - 2026-07-09 · audiencia · Audiência Pública nº 006/2019 · https://www.youtube.com/watch?v=zCaMJGMlTns · **legenda desativada/inexistente no YouTube**
@@ -19,21 +19,9 @@ Total: **233** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/p
 - 2023-05-03 · audiencia · Audiência Pública nº 5/2023 - 3/5/2023 · https://www.youtube.com/watch?v=Jcxhs5RowD0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-04-27 · audiencia · Sobre a Audiência Pública nº 04/2023 · https://www.youtube.com/watch?v=xJ8BrHAN5pc · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-04-26 · audiencia · Audiência Pública nº 05/2023 - Sessão Pública Campo Grande/MS - 26/04/2023 · https://www.youtube.com/watch?v=9KqmMWSSyLg · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-03-30 · diretoria · Transmissão ao vivo da 953ª Reunião de Diretoria da ANTT - 30/3/2023 · https://www.youtube.com/watch?v=HNl8PagFcCc · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-03-20 · audiencia · Sobre a Audiência Pública n⁰ 03/2023 · https://www.youtube.com/watch?v=2jcsEg1Ewtg · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-03-16 · diretoria · Transmissão ao vivo da 952ª Reunião de Diretoria da ANTT - 16/3/2023 · https://www.youtube.com/watch?v=dTg6ulnbBvM · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-03-09 · diretoria · Transmissão ao vivo da 951ª Reunião de Diretoria da ANTT - 9/3/2023 · https://www.youtube.com/watch?v=_MSBVawM8Dc · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-02-16 · diretoria · Transmissão ao vivo da 950ª Reunião de Diretoria da ANTT - 16/2/2023 · https://www.youtube.com/watch?v=p7zNI6qIpS4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-02-06 · participativa · Transmissão ao vivo da Reunião Participativa nº 6/2022 - 6/2/2023 · https://www.youtube.com/watch?v=vohcUmXSZHs · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-02-02 · diretoria · Transmissão ao vivo da 949ª Reunião de Diretoria da ANTT - 2/2/2023 · https://www.youtube.com/watch?v=58YX4d-4chY · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-01-19 · diretoria · Transmissão ao vivo da 948ª Reunião de Diretoria da ANTT - 19/1/2023 · https://www.youtube.com/watch?v=ZX8Rm7GspUY · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-12-22 · diretoria · Transmissão ao vivo da 947ª Reunião de Diretoria da ANTT - 22/12/2022 · https://www.youtube.com/watch?v=y4r8H6490-4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-12-15 · diretoria · Transmissão ao vivo da 946ª Reunião de Diretoria da ANTT - 15/12/2022 · https://www.youtube.com/watch?v=j8wblcVarbU · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-12-13 · audiencia · Audiência Pública nº 13/2022 · https://www.youtube.com/watch?v=MpYwrgLyIEE · **transcrição sem fala útil (391 caracteres; só música/ruído)**
-- 2022-12-01 · diretoria · Transmissão ao vivo da 945ª Reunião de Diretoria da ANTT - 1/12/2022 · https://www.youtube.com/watch?v=aLImLnDA8UQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-11-17 · diretoria · Transmissão ao vivo da 944ª Reunião de Diretoria da ANTT - 17/11/2022 · https://www.youtube.com/watch?v=CT35ZXZmZ3c · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-11-03 · diretoria · Transmissão ao vivo da 943ª Reunião de Diretoria da ANTT - 3/11/2022 · https://www.youtube.com/watch?v=MamI8NVrbBs · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-10-25 · diretoria · Transmissão ao vivo da 77ª Reunião Extraordinária de Diretoria - 25/10/2022 · https://www.youtube.com/watch?v=oxH5SFMhY7Y · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-10-25 · diretoria · Transmissão ao vivo da 77ª Reunião Extraordinária de Diretoria - 25/10/2022 · https://www.youtube.com/watch?v=FDwUZ2Tz8g8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-10-20 · diretoria · Transmissão ao vivo da 942ª Reunião de Diretoria da ANTT - 20/10/2022 · https://www.youtube.com/watch?v=6v_1vNFnIH0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-10-06 · diretoria · Transmissão ao vivo da 941ª Reunião de Diretoria da ANTT - 6/10/2022 · https://www.youtube.com/watch?v=uprQ3zi71jA · **ainda não baixado (rodar a coleta no Mac)**
