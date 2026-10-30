@@ -1,0 +1,112 @@
+{
+  "meta": {"video_id": "-dXOY2M37G4", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:36); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1032", "data": "2026-05-07", "formato": "videoconferência",
+    "presidente_da_sessao": "Felipe Queiroz (presidindo porque o Diretor-Geral Guilherme Sampaio estava de férias)",
+    "diretores_presentes": ["Felipe Queiroz", "Lucas Asfor", "Alex Azevedo", "Alessandro Baumgarten (diretor interino)"],
+    "ausentes": ["Guilherme Sampaio (férias)"],
+    "observacoes": ["7 deliberações unânimes; item 1.1.3 (PRVias, relatoria de Felipe Queiroz) retirado por novos protocolos que exigem diligência da área técnica.", "Primeira relatoria de Alessandro Baumgarten em RDP (estreia com três processos).", "Alex Azevedo comenta ser a primeira vez que participa de RDP sob a presidência de Felipe Queiroz."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:38:22",
+      "processo": "50500.033938/2025-18", "interessado": "Motiva Infraestrutura de Mobilidade S.A. (ex-Autopista Fernão Dias)",
+      "assunto": "Declaração de consumação do processo competitivo e assinatura do termo aditivo da BR-381 MG/SP (otimização, edital 04/2025)",
+      "tema": ["concessões rodoviárias", "leilão / otimização"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Portaria MT 843/2023 (readaptação e otimização), solução consensual aprovada pelo TCU (Acórdão 1.369/2025), leilão em 11/12/2025 na B3. Comissão aceitou em caráter excepcional e precário as notas comerciais escriturais com prazo inferior ao exigido, dando 90 dias para regularizar (mínimo de dois anos) como cláusula de eficácia.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova", "ts": "0:38:22", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha na íntegra", "ts": "0:44:40", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente", "ts": "0:45:12", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator integralmente", "ts": "0:45:41", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.2", "ts": "0:46:05",
+      "processo": "(parcial)", "interessado": "Motiva Minas SP (ex-Autopista Fernão Dias)",
+      "assunto": "Reajuste da tarifa básica de pedágio e aplicação do primeiro degrau tarifário (D1) na BR-381 (8 praças, P1 a P8)",
+      "tema": ["concessões rodoviárias", "pedágio", "reequilíbrio contratual"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Tarifa arredondada de ≈ R$ 3,70 por praça-base; degrau tarifário é coeficiente progressivo e cumulativo ao longo de transição de 3 anos, ligado à execução do escopo; desconto do leilão ≈ 17%; contrato de 563 km. Felipe fez longa explicação didática da composição da tarifa (TBP, fluxo de caixa marginal, fatores, TCP por praça) para o usuário.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova", "ts": "0:46:05", "justificativa": "implementação do termo de autocomposição; transparência na composição da tarifa", "tom": "didático, institucional", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha na íntegra", "ts": "0:58:52", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha na íntegra", "ts": "0:59:10", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha; registra que os cálculos valem se o contrato for assinado ainda em maio", "ts": "0:59:25", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "1:00:33",
+      "processo": "50505.005573/2025-74", "interessado": "SUCON",
+      "assunto": "Audiência pública para a concessão dos lotes 1 e 3 das rodovias de Santa Catarina (BR-153, 282, 470/480; 515,6 km e 166 km), sexta etapa de concessões",
+      "tema": ["concessões rodoviárias", "pedágio free flow", "leilão", "participação social"],
+      "relator": "Alex Azevedo", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Concessão de 30 anos; capex R$ 6,40 bi (lote 1) e R$ 2,71 bi (lote 3); WACC 12,49%; free flow integral (13 pórticos no lote 1, 5 no lote 3), adicional de 30% para usuário sem tag; 90% da perda por evasão com o poder concedente; PDS, ESG e compartilhamento de risco ambiental. Contribuições de 15/05 a 29/06/2026; sessões em Chapecó, Blumenau, Itajaí e Brasília.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, aprova", "ts": "1:03:00", "justificativa": "relevância logística (Vale do Itajaí, oeste agroindustrial); modicidade e participação", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "de acordo com o relator", "ts": "1:13:24", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "1:13:28", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha, parabeniza a completude; destaca modelo em rede como o do Paraná, free flow desde a partida e desconto por antecipação de pagamento no lugar do DUF", "ts": "1:13:32", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "1:15:08",
+      "processo": "50500.185965/2024-86", "interessado": "Superintendência de Serviços de Transporte Rodoviário e Multimodal de Cargas (SUROC)",
+      "assunto": "Audiência pública para atualizar a Res. 5998/2022 (transporte rodoviário de produtos perigosos) à 23ª edição do Orange Book da ONU",
+      "tema": ["transporte rodoviário de cargas", "regulação normativa", "sustentabilidade / segurança"],
+      "relator": "Alex Azevedo", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Dispensa de AIR por convergência internacional; cinco eixos: baterias de íon de sódio (ONU 3551/3552), veículos elétricos e células de combustível (ONU 3556–3558), ONU 3541 (airbags), embalagem P912 e transporte alternado de grãos/fertilizantes após nitrato de amônio com descontaminação certificada (Inmetro). Prazo de 60 dias.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, aprova", "ts": "1:15:57", "justificativa": "responsabilidade regulatória: segurança do transporte, competitividade e compromisso internacional", "tom": "enfático, didático", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:28:30", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "1:28:35", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha; liga o item à agenda ASG (fórum da semana)", "ts": "1:28:40", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "1:29:25",
+      "processo": "50500.072352/2025-61", "interessado": "SUROD — EcoVias do Cerrado S.A.",
+      "assunto": "Proposta preliminar 25/2026 de revisão quinquenal do contrato (edital 001/2019, BR-364/365 MG/GO) e abertura de audiência pública",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "participação social"],
+      "relator": "Alessandro Baumgarten", "resultado": "aprovado por unanimidade (com orientação à SUROD)",
+      "resumo_voto": "Cinco inclusões de investimento e duas alterações contratuais (≈ R$ 106,8 mi). Estreia de relatoria. Orienta a SUROD a concluir a metodologia de classificação de concessionárias (Res. 6053/2024): sem ela, todas ficam no mesmo patamar, o que não reflete a realidade.",
+      "votos": [
+        {"diretor": "Alessandro Baumgarten", "voto": "relator, aprova e orienta a SUROD", "ts": "1:29:25", "justificativa": "seletividade, isonomia material e previsibilidade na regulação", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:36:00", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente; elogia a classificação de concessionárias", "ts": "1:36:10", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha; destaca a revisão quinquenal como instrumento de contratos incompletos", "ts": "1:36:40", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.2", "ts": "1:37:07",
+      "processo": "50500.033613/2022-84", "interessado": "Transporte Coletivo Brasil Ltda. (TCB)",
+      "assunto": "Pedido de reconsideração contra as Deliberações 276/2025 e 149/2023 (cassação do termo de autorização, art. 78-H da Lei 10.233/2001)",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções", "judicializacao"],
+      "relator": "Alessandro Baumgarten", "resultado": "aprovado por unanimidade — não conhecido e multa por abuso do direito de petição",
+      "resumo_voto": "Intempestivo (protocolo em 31/10/2025, mais de 70 dias após a decisão; prazo de 5 dias da Res. 5083/2016). No mérito rejeita a alegação de falta de isonomia com a cassação de mercados da Candango: a empresa só tinha registro antigo (Res. 4770/2015), sem mercados a cassar. Configura abuso do direito de petição (art. 60-A do RI) e fixa multa de 2 salários mínimos.",
+      "votos": [
+        {"diretor": "Alessandro Baumgarten", "voto": "relator, não conhece e multa em 2 salários mínimos", "ts": "1:37:20", "justificativa": "peticionamento protelatório minando a segurança jurídica; impossível cassar o que não existe", "tom": "firme", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:44:30", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "1:44:40", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha, destaca a densidade do voto e o freio a chicana processual", "ts": "1:45:28", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.3", "ts": "1:46:16",
+      "processo": "50505.015039/2026-66", "interessado": "Superintendência de Transporte Ferroviário (SUFER)",
+      "assunto": "Primeiro chamamento público para autorização de exploração de infraestrutura ferroviária do corredor Minas–Rio (edital 01/2026; lote 1 de 625,8 km e lote 2 de 107 km) e envio ao TCU",
+      "tema": ["ferrovias", "autorização ferroviária", "leilão"],
+      "relator": "Alessandro Baumgarten", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Primeiro chamamento da Lei 14.273/2021; vigência de 99 anos e outorga mínima simbólica de R$ 1,00 por VPL negativo (Decreto 11.245/2022); SPE com ring fencing, capital social mínimo e projeto de recapacitação em 24 meses; interoperabilidade; retirada do anexo de usuário dependente para padronizar o modelo aos ≈ 10.000 km em devolução.",
+      "votos": [
+        {"diretor": "Alessandro Baumgarten", "voto": "relator, aprova", "ts": "1:46:16", "justificativa": "desonerar o erário de trechos ociosos e induzir investimento privado; modelo padrão para chamamentos futuros", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha na íntegra; marco histórico", "ts": "1:58:00", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente", "ts": "1:59:30", "justificativa": "inovação que atrai investimentos para corredores ferroviários", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha; proclama unanimidade", "ts": "2:02:07", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [{"item": "1.1.3 — PRVias S.A. (BR-369/373/376 PR)", "relator": "Felipe Queiroz", "motivo": "novos protocolos exigem diligência e manifestação técnica; depois julgado na RD 1033 (item 1.2.1)", "ts": "0:36:13"}],
+  "limites_da_analise": ["Legenda automática: números de processo parciais.", "ts dos votos de seguidores aproximados (fim da leitura do voto anterior).", "O vídeo não mostra o dia exato; a data 07/05/2026 vem do título."]
+}
