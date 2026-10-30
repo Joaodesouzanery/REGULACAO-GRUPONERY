@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **101** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/participativa: 1; 2023/participativa: 1; 2023/diretoria: 1; 2023/audiencia: 10; 2022/participativa: 3; 2022/diretoria: 1; 2022/audiencia: 12; 2021/diretoria: 1; 2021/audiencia: 9; 2020/participativa: 1; 2020/audiencia: 11; 2019/diretoria: 30; 2019/audiencia: 12; 2018/audiencia: 4
+Total: **89** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/participativa: 1; 2023/participativa: 1; 2023/diretoria: 1; 2023/audiencia: 10; 2022/participativa: 3; 2022/diretoria: 1; 2022/audiencia: 12; 2021/diretoria: 1; 2021/audiencia: 9; 2020/participativa: 1; 2020/audiencia: 11; 2019/diretoria: 18; 2019/audiencia: 12; 2018/audiencia: 4
 
 - 2026-09-28 · diretoria · Board Meeting No. 1042 - 09/28/2026 · https://www.youtube.com/watch?v=6A8-zT0Sipw · **transcrição sem fala útil (760 caracteres; só música/ruído)**
 - 2026-07-09 · audiencia · Audiência Pública nº 006/2019 · https://www.youtube.com/watch?v=zCaMJGMlTns · **legenda desativada/inexistente no YouTube**
@@ -60,29 +60,17 @@ Total: **101** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/p
 - 2020-01-15 · audiencia · Transmissão da Audiência Pública nº 18/2019 - 15/01/2020 (RJ) · https://www.youtube.com/watch?v=s-iWGCebZpE · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-01-13 · audiencia · Transmissão da Audiência Pública nº 18/2019 - 13/01/2020 · https://www.youtube.com/watch?v=WyLu6wXX-jU · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-10-31 · audiencia · Audiência Pública nº 015/2019 -  Itaituba (PA) · https://www.youtube.com/watch?v=KwWonrJVGWs · **legenda desativada/inexistente no YouTube**
-- 2019-10-08 · diretoria · Transmissão da 830ª Reunião de Diretoria - 08/10/2019 · https://www.youtube.com/watch?v=NBtijM4b-LE · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-10-03 · audiencia · Transmissão da Audiência Pública nº 015/2019 - Brasília (DF) 03/10/2019 · https://www.youtube.com/watch?v=ABDzAE1h8lE · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-10-03 · audiencia · Audiência Pública nº014/17 - Novo Progresso (PA) · https://www.youtube.com/watch?v=y8ZKKGxihg0 · **legenda desativada/inexistente no YouTube**
-- 2019-10-01 · diretoria · Transmissão da 829ª Reunião de Diretoria - 01/10/2019 · https://www.youtube.com/watch?v=4qQrSJA_XaM · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-09-24 · diretoria · Transmissão da 828ª Reunião de Diretoria - 24/09/2019 · https://www.youtube.com/watch?v=uhDA6l45fTk · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-09-17 · diretoria · Transmissão da 827ª Reunião de Diretoria  - 17/09/2019 · https://www.youtube.com/watch?v=kH8jsop2XDs · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-09-10 · audiencia · Transmissão da Audiência Pública nº 014/2017 - Itaituba/PA 10/09/2019 · https://www.youtube.com/watch?v=G2XYDHpZ5_E · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-09-10 · diretoria · Transmissão da 826ª Reunião de Diretoria - 10/09/2019 · https://www.youtube.com/watch?v=sO5JXVa1a_4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-09-03 · diretoria · Transmissão da 825ª Reunião de Diretoria - 03/09/2019 · https://www.youtube.com/watch?v=MeEnP05i-aI · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-09-02 · audiencia · Transmissão da Audiência Pública nº 12/2019   Palmas/TO 02/09/2019 · https://www.youtube.com/watch?v=JKqVoZaF7AA · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-08-30 · audiencia · Audiência Pública nº 012/2019 - Anápolis (GO) 30/08/2019 · https://www.youtube.com/watch?v=MSmijampq44 · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-08-29 · audiencia · Transmissão da Audiência Pública nº 012/2019 - 29/08/2019 - Brasília/DF · https://www.youtube.com/watch?v=87WFEmI540w · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-08-27 · diretoria · Transmissão da 824ª Reunião de Diretoria da ANTT - 27/08/19 · https://www.youtube.com/watch?v=_1ekxBesJpo · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-08-20 · diretoria · Transmissão da 823ª Reunião de Diretoria da ANTT - 20/08/19 · https://www.youtube.com/watch?v=6pNMwNpnAP8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-08-20 · audiencia · Audiência Pública nº 014/2019 - Brasília (DF) 20/08/2019 · https://www.youtube.com/watch?v=2_KgnXr-wrk · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-08-13 · diretoria · Transmissão da 822ª Reunião de Diretoria da ANTT - 13/08/19 · https://www.youtube.com/watch?v=kMGgTtubwtU · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-08-08 · audiencia · Audiência Pública nº 010/2019 - Brasília (DF) 08/08/2019 · https://www.youtube.com/watch?v=YYBBUHw6nu8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-08-07 · audiencia · Audiência Pública nº 010/2019 - Vitória (ES) 07/08/2019 · https://www.youtube.com/watch?v=FqZik9zWY54 · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-08-06 · diretoria · Transmissão da 821ª Reunião de Diretoria da ANTT - 06/08/19 · https://www.youtube.com/watch?v=i8c3Cjiy9jI · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-08-02 · audiencia · Audiência Pública nº 010/2019 - Belo Horizonte (MG) 02/08/2019 · https://www.youtube.com/watch?v=BDyS_PotE00 · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-08-01 · audiencia · Audiência Pública nº 010/2019 - Governador Valadares (MG) 01/08/2019 · https://www.youtube.com/watch?v=pzSJclD8_rY · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-07-30 · diretoria · Transmissão da 820ª Reunião de Diretoria da ANTT - 30/07/19 · https://www.youtube.com/watch?v=wTsJa3zoysI · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-07-23 · diretoria · Transmissão da 819ª Reunião de Diretoria da ANTT - 23/07/19 · https://www.youtube.com/watch?v=aN2OZHj7G1c · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-07-16 · diretoria · Transmissão da 818ª Reunião de Diretoria da ANTT - 16/07/19 · https://www.youtube.com/watch?v=Ve-A2CB2qb4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-07-09 · diretoria · Transmissão da 817ª Reunião de Diretoria da ANTT - 09/07/19 · https://www.youtube.com/watch?v=S6thCF9q-3Q · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-06-25 · diretoria · Transmissão da 816ª Reunião de Diretoria da ANTT - 25/06/19 · https://www.youtube.com/watch?v=F6Iun8IyLgw · **ainda não baixado (rodar a coleta no Mac)**

@@ -29,7 +29,7 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 | 2020 | participativa | 2 | 1 | 0 |
 | 2020 | diretoria | 45 | 45 | 0 |
 | 2020 | audiencia | 14 | 3 | 0 |
-| 2019 | diretoria | 43 | 13 | 0 |
+| 2019 | diretoria | 43 | 25 | 0 |
 | 2019 | audiencia | 34 | 22 | 0 |
 | 2018 | participativa | 9 | 9 | 0 |
 | 2018 | audiencia | 15 | 12 | 0 |
@@ -262,6 +262,18 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 - 2019-10-30 · Transmissão da 833ª Reunião de Diretoria - 30/10/2019 · `Ie5Fnfu5VQI`
 - 2019-10-22 · Transmissão da 832ª Reunião de Diretoria - 22/10/2019 · `tDrIVnhMZBo`
 - 2019-10-15 · Transmissão da 831ª Reunião de Diretoria - 15/10/2019 · `usWpMZO6DMc`
+- 2019-10-08 · Transmissão da 830ª Reunião de Diretoria - 08/10/2019 · `NBtijM4b-LE`
+- 2019-10-01 · Transmissão da 829ª Reunião de Diretoria - 01/10/2019 · `4qQrSJA_XaM`
+- 2019-09-24 · Transmissão da 828ª Reunião de Diretoria - 24/09/2019 · `uhDA6l45fTk`
+- 2019-09-17 · Transmissão da 827ª Reunião de Diretoria  - 17/09/2019 · `kH8jsop2XDs`
+- 2019-09-10 · Transmissão da 826ª Reunião de Diretoria - 10/09/2019 · `sO5JXVa1a_4`
+- 2019-09-03 · Transmissão da 825ª Reunião de Diretoria - 03/09/2019 · `MeEnP05i-aI`
+- 2019-08-27 · Transmissão da 824ª Reunião de Diretoria da ANTT - 27/08/19 · `_1ekxBesJpo`
+- 2019-08-20 · Transmissão da 823ª Reunião de Diretoria da ANTT - 20/08/19 · `6pNMwNpnAP8`
+- 2019-08-13 · Transmissão da 822ª Reunião de Diretoria da ANTT - 13/08/19 · `kMGgTtubwtU`
+- 2019-08-06 · Transmissão da 821ª Reunião de Diretoria da ANTT - 06/08/19 · `i8c3Cjiy9jI`
+- 2019-07-30 · Transmissão da 820ª Reunião de Diretoria da ANTT - 30/07/19 · `wTsJa3zoysI`
+- 2019-07-23 · Transmissão da 819ª Reunião de Diretoria da ANTT - 23/07/19 · `aN2OZHj7G1c`
 - 2019-07-22 · Transmissão da 63ª  Reunião Extraordinária de Diretoria · `tVr3sqGXaIg`
 - 2019-06-13 · 62ª Reunião Extraordinária de Diretoria · `ifXiMh49mdg`
 
