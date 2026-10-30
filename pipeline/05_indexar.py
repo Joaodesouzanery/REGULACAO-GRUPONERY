@@ -9,10 +9,14 @@ def canon(s):
         if re.search(rx, s): return n
     return None
 TEMAS = [  # (tema normalizado, regex sobre as tags livres do item)
-    ("onibus", r"ônibus|passageiros|fretamento|autorizaç(ão|ões) de mercado|TAR\b"),
+    ("onibus", r"ônibus|passageiros|fretamento|semiurbano|autorizaç(ão|ões) de mercado|TAR\b"),
+    ("onibus_fretamento", r"fretamento"),
+    ("onibus_regular", r"transporte regular|\bTARs?\b|autorizaç(ão|ões) de mercado|cassação de mercados"),
+    ("onibus_semiurbano", r"semiurbano"),
     ("cargas", r"cargas|frete|RNTRC|CIOT"),
     ("concessoes_rodoviarias", r"concess(ão|ões) rodovi|ato de outorga|transfer[êe]ncia de controle"),
-    ("pedagio_freeflow", r"pedágio|free flow|tarifa"),
+    ("pedagio_freeflow", r"pedágio|free flow"),
+    ("tarifa_modicidade", r"tarifa|modicidade"),
     ("reequilibrio_contratual", r"reequil|fator D|revis(ão|ões) (extra)?ordin|termo aditivo|idoneidade"),
     ("ferrovias", r"ferrov|ISF|saturaç|autorização ferroviária|interoperab"),
     ("fiscalizacao_sancoes", r"fiscaliza|sanç|cautelar|cassa|reincid|infraç"),

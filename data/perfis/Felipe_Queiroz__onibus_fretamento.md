@@ -1,0 +1,19 @@
+# Perfil analítico — Felipe Queiroz · tema: onibus_fretamento
+
+**Amostra:** presente em 26 das 27 reuniões analisadas em que há registro de presença/ausência; 7 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+
+**Votos:** acompanha o relator 5 (100% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Como relator:** 2/2 relatorias aprovadas por unanimidade.
+
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 65/14; leilao_otimizacao 29/2; onibus 26/6; pedagio_freeflow 24/8; reequilibrio_contratual 23/6; fiscalizacao_sancoes 22/4; participacao_social 20/5; ferrovias 20/6; tarifa_modicidade 14/5; sandbox_inovacao 13/7; regulacao_normativa 13/5; judicializacao 12/4; institucional 12/1; onibus_regular 10/2; cargas 9/2; onibus_fretamento 7/2; sustentabilidade 6/3; onibus_semiurbano 4/0; outros 1/1
+**Argumentos recorrentes nas justificativas registradas:** governança/rito (1)
+
+## Evidências (reunião · item · voto · justificativa)
+
+- **RD 1031 (2026-04-23)**, item 1.2.1 — Encerramento da comissão processante: cassação da autorização de fretamento por operação em circuito aberto (venda de passagens avulsas) · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=Zyxhofbj7g0&t=2726s) · resultado: aprovado por unanimidade — cassação
+- **RD 1033 (2026-05-21)**, item 1.3.1 — Encerramento da comissão processante (Portaria SUFIS 23/2025): cassação da autorização de fretamento por prática reiterada de infrações no t · voto: *voto com o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=R_zbvJ8TXjs&t=4480s) · resultado: aprovado por unanimidade — cassação
+- **RD 1033 (2026-05-21)**, item 1.4.2 — Encerramento da comissão processante (Portaria SUFIS 21/2025): cassação da autorização de fretamento por operar serviço regular disfarçado · voto: *voto com o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=R_zbvJ8TXjs&t=7035s) · resultado: aprovado por unanimidade — cassação
+- **RD 1034 (2026-06-02)**, item 1.2.1 — Referendar a Deliberação 137/2026 (ad referendum, 15/05/2026) que converteu em multa a cassação da autorização de fretamento aplicada pela D · voto: *relator, referenda* (relator, conf. alta) · «cumprimento de decisão judicial; destaca que a agência regula tanto o serviço regular (TAR) quanto o fretamento (TAF)» · [vídeo](https://www.youtube.com/watch?v=jmj1jyUxsuA&t=317s) · resultado: aprovado por unanimidade — referendada a conversão da cassação em mult
+- **RD 1035 (2026-06-18)**, item 1.2.4 — Pedido de reconsideração (com pedido subsidiário de TAC e solução consensual) contra a Deliberação 396/2025 (23/10/2025), que cassou a autor · voto: *acompanha; proclama unanimidade* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=8J6vHk_yKSg&t=6161s) · resultado: aprovado por unanimidade — reconsideração conhecida, sem efeito suspen
+- **RD 1039 (2026-08-14)**, item 1.2.2 — Pedido de reconsideração cumulado com chamamento do feito à ordem contra a Deliberação 146/2026 (21/05/2026), que cassou a autorização de fr · voto: *relator, nega provimento* (relator, conf. alta) · «contraditório e ampla defesa garantidos; reconhece o voto do Lucas na origem» · [vídeo](https://www.youtube.com/watch?v=u4SXNQPR-XQ&t=2754s) · resultado: aprovado por unanimidade — chamamento do feito à ordem e reconsideraçã
+- **RD 1041 (2026-09-10)**, item 1.2.2 — Recurso (recebido como pedido de reconsideração) contra a Deliberação 150/2026 (21/05/2026) que aplicou cassação da autorização de serviço d · voto: *voto com o relator* (acompanha, conf. média) · [vídeo](https://www.youtube.com/watch?v=DRpLm1FOHCA&t=2573s) · resultado: aprovado por unanimidade — reconsideração conhecida, provimento negado

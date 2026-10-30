@@ -83,5 +83,5 @@ if __name__ == "__main__":
     elif a[0] == "mandatos":
         for m in c.execute("select * from mandatos"): print(f"- {m['diretor']} · {m['cargo']} · {m['inicio'] or '?'} → {m['fim'] or 'atual'} · {m['situacao']} · confiança {m['confianca']} · fonte: {m['fonte']}")
     elif a[0] == "busca": print(busca(" ".join(a[1:])))
-    elif a[0] == "temas": print(c.execute("select tema, count(*) from item_temas group by 1 order by 2 desc").fetchall())
+    elif a[0] == "temas": print([tuple(r) for r in c.execute("select tema, count(*) from item_temas group by 1 order by 2 desc")])
     elif a[0] == "diretores": print([r[0] for r in c.execute("select distinct diretor from votos")])
