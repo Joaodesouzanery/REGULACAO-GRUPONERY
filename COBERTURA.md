@@ -4,25 +4,41 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 
 | Ano | Tipo | Publicados | Transcritos | Analisados |
 |---|---|---|---|---|
-| sem data | workshop | 4 | 4 | 0 |
-| sem data | romeiros | 1 | 1 | 0 |
-| sem data | participativa | 46 | 46 | 0 |
-| sem data | diretoria | 11 | 11 | 5 |
-| sem data | audiencia | 116 | 110 | 0 |
-| 2026 | workshop | 1 | 1 | 0 |
-| 2026 | participativa | 10 | 10 | 0 |
-| 2026 | diretoria | 22 | 22 | 21 |
-| 2026 | audiencia | 32 | 31 | 0 |
+| 2026 | workshop | 3 | 3 | 0 |
+| 2026 | romeiros | 1 | 1 | 0 |
+| 2026 | participativa | 11 | 11 | 0 |
+| 2026 | diretoria | 25 | 25 | 24 |
+| 2026 | audiencia | 36 | 34 | 0 |
 | 2025 | workshop | 1 | 0 | 0 |
-| 2025 | participativa | 3 | 3 | 0 |
-| 2025 | diretoria | 34 | 34 | 1 |
-| 2025 | audiencia | 3 | 3 | 0 |
-| 2024 | participativa | 1 | 1 | 0 |
-| 2024 | diretoria | 7 | 7 | 0 |
+| 2025 | participativa | 13 | 13 | 0 |
+| 2025 | diretoria | 38 | 37 | 3 |
+| 2025 | audiencia | 12 | 12 | 0 |
+| 2024 | workshop | 2 | 2 | 0 |
+| 2024 | participativa | 13 | 12 | 0 |
+| 2024 | diretoria | 31 | 7 | 0 |
+| 2024 | audiencia | 10 | 10 | 0 |
+| 2023 | participativa | 4 | 3 | 0 |
+| 2023 | diretoria | 30 | 0 | 0 |
+| 2023 | audiencia | 25 | 15 | 0 |
+| 2022 | participativa | 5 | 2 | 0 |
+| 2022 | diretoria | 33 | 2 | 0 |
+| 2022 | audiencia | 28 | 17 | 0 |
+| 2021 | participativa | 9 | 9 | 0 |
+| 2021 | diretoria | 42 | 1 | 0 |
+| 2021 | audiencia | 26 | 17 | 0 |
+| 2020 | participativa | 2 | 1 | 0 |
+| 2020 | diretoria | 45 | 0 | 0 |
+| 2020 | audiencia | 14 | 3 | 0 |
+| 2019 | diretoria | 43 | 2 | 0 |
+| 2019 | audiencia | 34 | 22 | 0 |
+| 2018 | participativa | 9 | 9 | 0 |
+| 2018 | audiencia | 15 | 12 | 0 |
+| 2017 | audiencia | 2 | 2 | 0 |
 
 ## Reuniões de diretoria transcritas e ainda sem análise
 
 - 2026-09-28 · Board Meeting No. 1042 - 09/28/2026 · `6A8-zT0Sipw`
+- 2025-12-18 · Reunião de Diretoria nº 1023 · `x8QgM4O8I_Y`
 - 2025-12-11 · Extraordinary Board Meeting No. 96 - 12/11/2025 · `Hs3z2jog8Uo`
 - 2025-12-04 · Reunião de Diretoria nº 1022 - 04/12/2025 · `RtFPynve2ew`
 - 2025-11-25 · Extraordinary Board Meeting No. 97 - 11/25/2025 · `jtCNyoMzyTc`
@@ -63,11 +79,10 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 - 2024-11-21 · 86ª Reunião Extraordinária de Diretoria - 21/11/2024 · `H16l_3mguto`
 - 2024-11-14 · 995ª Reunião de Diretoria - 14/11/2024 · `6IYxm2zAFbo`
 - 2024-10-31 · 994ª Reunião de Diretoria - 31/10/2024 · `VnHLaZxsXeY`
--  · Transmissão da 63ª  Reunião Extraordinária de Diretoria · `tVr3sqGXaIg`
--  · Transmissão ao vivo da 940ª Reunião de Diretoria · `_4OA6Py0z3U`
--  · Transmissão ao vivo da 906ª Reunião de Diretoria da ANTT · `EdMj6bhyq-M`
--  · Reunião de Diretoria nº 1023 · `x8QgM4O8I_Y`
--  · 75ª Reunião Extraordinária de Diretoria · `Y1_YnBlXh00`
--  · 62ª Reunião Extraordinária de Diretoria · `ifXiMh49mdg`
+- 2022-09-22 · 75ª Reunião Extraordinária de Diretoria · `Y1_YnBlXh00`
+- 2022-09-21 · Transmissão ao vivo da 940ª Reunião de Diretoria · `_4OA6Py0z3U`
+- 2021-06-22 · Transmissão ao vivo da 906ª Reunião de Diretoria da ANTT · `EdMj6bhyq-M`
+- 2019-07-22 · Transmissão da 63ª  Reunião Extraordinária de Diretoria · `tVr3sqGXaIg`
+- 2019-06-13 · 62ª Reunião Extraordinária de Diretoria · `ifXiMh49mdg`
 
 Vídeos sem legenda registrados: 364 (ver `data/sem_legenda.jsonl`).
