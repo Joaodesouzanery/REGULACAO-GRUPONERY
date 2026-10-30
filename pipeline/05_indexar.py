@@ -74,4 +74,23 @@ for f in sorted(glob.glob("data/analise/*.analise.json")):
                 (iid, dn, v["voto"], cat, v.get("ts"), v.get("justificativa"), v.get("tom"), v.get("confianca"), 1 if dn == rel and cat == "relator" else 0))
             n_v += 1; just.append(f"{dn}: {v.get('justificativa') or ''}")
         c.execute("INSERT INTO busca VALUES(?,?)", (iid, " ".join(filter(None, [it["assunto"], it.get("interessado"), it.get("resumo_voto"), " ".join(just)]))))
-c.commit(); print(c.execute("select count(*) from reunioes").fetchone()[0], "reuniões,", n_it, "itens,", n_v, "votos")
+# trechos literais (janelas de ~30 s) de todas as reuniões de diretoria com transcrição, para citar a frase exata com link no minuto
+vids = {}
+for l in open("data/videos.jsonl"):
+    v = json.loads(l)
+    if v["tipo"] == "diretoria" and not v.get("duplicata_de"): vids[v["id"]] = v
+n_tr = 0
+for vid in vids:
+    f = f"data/transcricoes/{vid}.json"
+    if not os.path.exists(f): continue
+    buf, t0 = [], None
+    for sg in json.load(open(f)):
+        x = re.sub(r"\[[^\]]*\]|>>", " ", sg["x"]).strip()
+        if not x: continue
+        if t0 is None: t0 = int(sg["t"])
+        buf.append(x)
+        if sg["t"] - t0 >= 30:
+            c.execute("INSERT INTO trechos(video_id,t,texto) VALUES(?,?,?)", (vid, t0, " ".join(buf))); n_tr += 1; buf, t0 = [], None
+    if buf: c.execute("INSERT INTO trechos(video_id,t,texto) VALUES(?,?,?)", (vid, t0, " ".join(buf))); n_tr += 1
+c.execute("INSERT INTO trechos_fts(rowid, texto) SELECT id, texto FROM trechos")
+c.commit(); print(n_tr, "trechos;", c.execute("select count(*) from reunioes").fetchone()[0], "reuniões,", n_it, "itens,", n_v, "votos")
