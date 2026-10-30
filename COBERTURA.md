@@ -15,10 +15,10 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 | 2025 | audiencia | 12 | 12 | 0 |
 | 2024 | workshop | 2 | 2 | 0 |
 | 2024 | participativa | 13 | 12 | 0 |
-| 2024 | diretoria | 31 | 30 | 0 |
+| 2024 | diretoria | 31 | 31 | 0 |
 | 2024 | audiencia | 10 | 10 | 0 |
 | 2023 | participativa | 4 | 3 | 0 |
-| 2023 | diretoria | 30 | 0 | 0 |
+| 2023 | diretoria | 30 | 11 | 0 |
 | 2023 | audiencia | 25 | 15 | 0 |
 | 2022 | participativa | 5 | 2 | 0 |
 | 2022 | diretoria | 33 | 2 | 0 |
@@ -103,10 +103,22 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 - 2024-02-22 · 976ª Reunião de Diretoria - 22/2/2024 · `bNHmEBzvMns`
 - 2024-02-08 · 975ª Reunião de Diretoria - 8/2/2024 · `6ckhaVSoiUY`
 - 2024-01-31 · 974ª Reunião de Diretoria - 31/1/2024 · `m2QSOFSYyqw`
+- 2024-01-18 · 973ª Reunião de Diretoria - 18/1/2024 · `LNSg-EtO5zg`
+- 2023-12-21 · 972ª Reunião de Diretoria - 21/12/2023 · `gHjCizk8PhQ`
+- 2023-12-07 · 971ª Reunião de Diretoria - 7/12/2023 · `GE0Xxv-shHs`
+- 2023-11-23 · 970ª Reunião de Diretoria - 23/11/2023 · `30C4_7L7Qe4`
+- 2023-11-09 · 969ª Reunião de Diretoria - 9/11/2023 · `M_pRe8N6j9g`
+- 2023-10-26 · 968ª Reunião de Diretoria - 26/10/2023 · `jZZousurLsY`
+- 2023-10-11 · 967ª Reunião de Diretoria - 11/10/2023 · `bQ54HSJ5Vlg`
+- 2023-10-11 · 967th Board Meeting - 10/11/2023 · `5fCb3EKWcv0`
+- 2023-09-28 · 966ª Reunião de Diretoria - 28/9/2023 · `fHz1cg_TFkA`
+- 2023-09-14 · 965ª Reunião de Diretoria - 14/9/2023 · `oXHjEvN4wz8`
+- 2023-09-06 · 80ª Reunião Extraordinária de Diretoria - 6/9/2023 · `gw2fw05g5Mc`
+- 2023-08-31 · 964ª Reunião de Diretoria - 31/8/2023 · `ZFIKmP4URxc`
 - 2022-09-22 · 75ª Reunião Extraordinária de Diretoria · `Y1_YnBlXh00`
 - 2022-09-21 · Transmissão ao vivo da 940ª Reunião de Diretoria · `_4OA6Py0z3U`
 - 2021-06-22 · Transmissão ao vivo da 906ª Reunião de Diretoria da ANTT · `EdMj6bhyq-M`
 - 2019-07-22 · Transmissão da 63ª  Reunião Extraordinária de Diretoria · `tVr3sqGXaIg`
 - 2019-06-13 · 62ª Reunião Extraordinária de Diretoria · `ifXiMh49mdg`
 
-Vídeos sem legenda registrados: 364 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 365 (ver `data/sem_legenda.jsonl`).
