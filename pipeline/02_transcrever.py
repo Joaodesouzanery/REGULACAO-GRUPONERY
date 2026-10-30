@@ -45,7 +45,14 @@ vids = [json.loads(l) for l in open("data/videos.jsonl")]
 vids = [v for v in vids if not v.get("duplicata_de") and v["tipo"] != "outro"
         and (a.tipos == "todos" or v["tipo"] in a.tipos.split(","))]
 vids.sort(key=lambda v: (v["prioridade"], -int((v["data"] or "0000-00-00").replace("-", ""))))
-fila = [v for v in vids if not os.path.exists(f"data/transcricoes/{v['id']}.json")]
+_sl = set()
+if os.path.exists("data/sem_legenda.jsonl"):
+    for _l in open("data/sem_legenda.jsonl"):
+        try:
+            _d = json.loads(_l)
+            if _d.get("motivo") == "sem_legenda": _sl.add(_d["id"])  # legenda desativada: não insistir (apague a linha para tentar de novo)
+        except Exception: pass
+fila = [v for v in vids if not os.path.exists(f"data/transcricoes/{v['id']}.json") and v["id"] not in _sl]
 print(f"{len(vids)-len(fila)} já baixadas, {len(fila)} na fila", flush=True)
 if not fila: print("FILA VAZIA"); sys.exit(0)
 saida = 0
