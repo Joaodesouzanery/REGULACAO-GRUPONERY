@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **137** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/participativa: 1; 2023/participativa: 1; 2023/diretoria: 1; 2023/audiencia: 10; 2022/participativa: 3; 2022/diretoria: 1; 2022/audiencia: 12; 2021/diretoria: 1; 2021/audiencia: 9; 2020/participativa: 1; 2020/diretoria: 25; 2020/audiencia: 11; 2019/diretoria: 41; 2019/audiencia: 12; 2018/audiencia: 4
+Total: **125** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/participativa: 1; 2023/participativa: 1; 2023/diretoria: 1; 2023/audiencia: 10; 2022/participativa: 3; 2022/diretoria: 1; 2022/audiencia: 12; 2021/diretoria: 1; 2021/audiencia: 9; 2020/participativa: 1; 2020/diretoria: 13; 2020/audiencia: 11; 2019/diretoria: 41; 2019/audiencia: 12; 2018/audiencia: 4
 
 - 2026-09-28 · diretoria · Board Meeting No. 1042 - 09/28/2026 · https://www.youtube.com/watch?v=6A8-zT0Sipw · **transcrição sem fala útil (760 caracteres; só música/ruído)**
 - 2026-07-09 · audiencia · Audiência Pública nº 006/2019 · https://www.youtube.com/watch?v=zCaMJGMlTns · **legenda desativada/inexistente no YouTube**
@@ -51,19 +51,7 @@ Total: **137** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/p
 - 2020-11-26 · audiencia · Pílulas de Governança Regulatória - O que é uma Consulta Pública · https://www.youtube.com/watch?v=SacXbDn_o98 · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-11-26 · audiencia · Pílulas de Governança Regulatória - O que é uma Audiência Pública · https://www.youtube.com/watch?v=0dNGuXsG_dc · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-07-29 · audiencia · Audiência Pública nº 001/2020 - 29/07/2020 · https://www.youtube.com/watch?v=yj-DmleUWF4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-07-14 · diretoria · 864ª Reunião de Diretoria da ANTT - 14/07/2020 · https://www.youtube.com/watch?v=_RSg6WUtZj0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-07-07 · diretoria · 863ª Reunião de Diretoria da ANTT - 07/07/2020 · https://www.youtube.com/watch?v=5tKzpDjUXM4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-06-30 · diretoria · 862ª  Reunião de Diretoria da ANTT - 30/06/2020 · https://www.youtube.com/watch?v=WkYsadnFmNU · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-06-25 · audiencia · Transmissão da Audiência Pública nº 2/2020 - 25/06/2020 · https://www.youtube.com/watch?v=26WlrkbGNKA · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-06-25 · diretoria · 65ª Reunião Extraordinária de Diretoria da ANTT - 25/06/2020 · https://www.youtube.com/watch?v=cfXPqy10OBk · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-06-23 · diretoria · 861ª Reunião de Diretoria da ANTT - 23/06/2020 · https://www.youtube.com/watch?v=mBKYTdfpNH0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-06-16 · diretoria · 860ª Reunião de Diretoria da ANTT - 16/06/2020 · https://www.youtube.com/watch?v=3V5151Nospo · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-06-09 · diretoria · 859ª Reunião de Diretoria da ANTT - 09/06/2020 · https://www.youtube.com/watch?v=05mc2Fg9l18 · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-06-02 · diretoria · 858ª Reunião de Diretoria da ANTT - 02/06/2020 · https://www.youtube.com/watch?v=HdygP6lpAeU · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-05-26 · diretoria · 857ª Reunião de Diretoria da ANTT - 26/05/2020 · https://www.youtube.com/watch?v=L75bt3Bz3xU · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-05-19 · diretoria · 856ª Reunião de Diretoria da ANTT - 19/05/2020 · https://www.youtube.com/watch?v=mjm6V4571wA · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-05-12 · diretoria · 855ª Reunião de Diretoria da ANTT - 12/05/2020 · https://www.youtube.com/watch?v=QSiJxkgnNRE · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-05-05 · diretoria · 854ª Reunião de Diretoria da ANTT - 05/05/2020 · https://www.youtube.com/watch?v=5Wuych4chNY · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-04-28 · diretoria · 853ª Reunião de Diretoria da ANTT - 28/04/2020 · https://www.youtube.com/watch?v=sVbD7HT9Ms0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-04-14 · diretoria · 852ª Reunião de Diretoria da ANTT - 14/04/2020 · https://www.youtube.com/watch?v=cgsrOI4Uxoo · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-04-07 · diretoria · 851ª Reunião de Diretoria da ANTT - 07/04/2020 · https://www.youtube.com/watch?v=185j9FgJSfw · **ainda não baixado (rodar a coleta no Mac)**
