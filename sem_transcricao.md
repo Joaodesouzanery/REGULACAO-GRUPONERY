@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **173** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/participativa: 1; 2023/participativa: 1; 2023/diretoria: 1; 2023/audiencia: 10; 2022/participativa: 3; 2022/diretoria: 1; 2022/audiencia: 12; 2021/diretoria: 17; 2021/audiencia: 9; 2020/participativa: 1; 2020/diretoria: 45; 2020/audiencia: 11; 2019/diretoria: 41; 2019/audiencia: 12; 2018/audiencia: 4
+Total: **161** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/participativa: 1; 2023/participativa: 1; 2023/diretoria: 1; 2023/audiencia: 10; 2022/participativa: 3; 2022/diretoria: 1; 2022/audiencia: 12; 2021/diretoria: 5; 2021/audiencia: 9; 2020/participativa: 1; 2020/diretoria: 45; 2020/audiencia: 11; 2019/diretoria: 41; 2019/audiencia: 12; 2018/audiencia: 4
 
 - 2026-09-28 · diretoria · Board Meeting No. 1042 - 09/28/2026 · https://www.youtube.com/watch?v=6A8-zT0Sipw · **transcrição sem fala útil (760 caracteres; só música/ruído)**
 - 2026-07-09 · audiencia · Audiência Pública nº 006/2019 · https://www.youtube.com/watch?v=zCaMJGMlTns · **legenda desativada/inexistente no YouTube**
@@ -46,18 +46,6 @@ Total: **173** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/p
 - 2021-07-19 · audiencia · Transmissão ao vivo da Audiência Pública nº 006/2021 - 19/07/2021 · https://www.youtube.com/watch?v=J22zdjLaszY · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-06-08 · diretoria · 904ª REUNIÃO DE DIRETORIA DA ANTT -  08/06/2021 · https://www.youtube.com/watch?v=tE0KRoC9JhA · **legenda desativada/inexistente no YouTube**
 - 2021-05-06 · audiencia · Transmissão ao vivo da Audiência Pública nº 003/2021 - 06/05/2021 · https://www.youtube.com/watch?v=yx-FaKozT2o · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-05-04 · diretoria · 899ª REUNIÃO DE DIRETORIA DA ANTT -  04/05/2021 · https://www.youtube.com/watch?v=kU4TfhacKO0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-04-27 · diretoria · 898ª REUNIÃO DE DIRETORIA DA ANTT -  27/04/2021 · https://www.youtube.com/watch?v=qTKOq7Jx1os · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-04-20 · diretoria · 897ª REUNIÃO DE DIRETORIA DA ANTT -  20/04/2021 · https://www.youtube.com/watch?v=68OpguLY34k · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-04-13 · diretoria · 896ª REUNIÃO DE DIRETORIA DA ANTT -  13/04/2021 · https://www.youtube.com/watch?v=NjSTSz_qmS0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-04-06 · diretoria · 895ª REUNIÃO DE DIRETORIA DA ANTT -  06/04/2021 · https://www.youtube.com/watch?v=ZqU-qL1jNnk · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-03-31 · diretoria · 67ª REUNIÃO EXTRAORDINÁRIA DE DIRETORIA - 31/03/2021 · https://www.youtube.com/watch?v=8LEQ2qPrIg0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-03-30 · diretoria · 894ª Reunião de Diretoria da ANTT - 30/03/2021 · https://www.youtube.com/watch?v=ZrX6XBJsIXo · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-03-23 · diretoria · 893ª Reunião de Diretoria da ANTT - 23/03/2021 · https://www.youtube.com/watch?v=12n-vPNyITM · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-03-16 · diretoria · 892ª Reunião de Diretoria da ANTT - 16/03/2021 · https://www.youtube.com/watch?v=_slnrK0MRSw · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-03-09 · diretoria · 891ª Reunião de Diretoria da ANTT - 09/03/2021 · https://www.youtube.com/watch?v=avr7ZpONzto · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-03-02 · diretoria · 890ª Reunião de Diretoria da ANTT - 02/03/2021 · https://www.youtube.com/watch?v=SusSGEjO_BE · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-02-23 · diretoria · 889ª Reunião de Diretoria da ANTT - 23/02/2021 · https://www.youtube.com/watch?v=Ry_MleO7hwU · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-02-18 · diretoria · 66ª Reunião Extraordinária de Diretoria da ANTT - 18/02/2021 · https://www.youtube.com/watch?v=42M9M5YiRRY · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-02-09 · diretoria · 888ª Reunião de Diretoria da ANTT - 09/02/2021 · https://www.youtube.com/watch?v=VsOaNcaVs4Y · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-02-02 · diretoria · 887ª Reunião de Diretoria da ANTT - 02/02/2021 · https://www.youtube.com/watch?v=hOUJ7tu8IOM · **ainda não baixado (rodar a coleta no Mac)**

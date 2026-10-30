@@ -24,7 +24,7 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 | 2022 | diretoria | 33 | 32 | 0 |
 | 2022 | audiencia | 28 | 17 | 0 |
 | 2021 | participativa | 9 | 9 | 0 |
-| 2021 | diretoria | 42 | 25 | 0 |
+| 2021 | diretoria | 42 | 37 | 0 |
 | 2021 | audiencia | 26 | 17 | 0 |
 | 2020 | participativa | 2 | 1 | 0 |
 | 2020 | diretoria | 45 | 0 | 0 |
@@ -190,6 +190,18 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 - 2021-05-25 · 902ª REUNIÃO DE DIRETORIA DA ANTT -  25/05/2021 · `PsO2Rk6k2Cc`
 - 2021-05-18 · 901ª REUNIÃO DE DIRETORIA DA ANTT -  18/05/2021 · `LlN-qKuCLyE`
 - 2021-05-11 · 900ª REUNIÃO DE DIRETORIA DA ANTT -  11/05/2021 · `L0gqTrnmc4w`
+- 2021-05-04 · 899ª REUNIÃO DE DIRETORIA DA ANTT -  04/05/2021 · `kU4TfhacKO0`
+- 2021-04-27 · 898ª REUNIÃO DE DIRETORIA DA ANTT -  27/04/2021 · `qTKOq7Jx1os`
+- 2021-04-20 · 897ª REUNIÃO DE DIRETORIA DA ANTT -  20/04/2021 · `68OpguLY34k`
+- 2021-04-13 · 896ª REUNIÃO DE DIRETORIA DA ANTT -  13/04/2021 · `NjSTSz_qmS0`
+- 2021-04-06 · 895ª REUNIÃO DE DIRETORIA DA ANTT -  06/04/2021 · `ZqU-qL1jNnk`
+- 2021-03-31 · 67ª REUNIÃO EXTRAORDINÁRIA DE DIRETORIA - 31/03/2021 · `8LEQ2qPrIg0`
+- 2021-03-30 · 894ª Reunião de Diretoria da ANTT - 30/03/2021 · `ZrX6XBJsIXo`
+- 2021-03-23 · 893ª Reunião de Diretoria da ANTT - 23/03/2021 · `12n-vPNyITM`
+- 2021-03-16 · 892ª Reunião de Diretoria da ANTT - 16/03/2021 · `_slnrK0MRSw`
+- 2021-03-09 · 891ª Reunião de Diretoria da ANTT - 09/03/2021 · `avr7ZpONzto`
+- 2021-03-02 · 890ª Reunião de Diretoria da ANTT - 02/03/2021 · `SusSGEjO_BE`
+- 2021-02-23 · 889ª Reunião de Diretoria da ANTT - 23/02/2021 · `Ry_MleO7hwU`
 - 2019-07-22 · Transmissão da 63ª  Reunião Extraordinária de Diretoria · `tVr3sqGXaIg`
 - 2019-06-13 · 62ª Reunião Extraordinária de Diretoria · `ifXiMh49mdg`
 
