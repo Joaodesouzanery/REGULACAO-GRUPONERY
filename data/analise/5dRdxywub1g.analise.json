@@ -1,0 +1,130 @@
+{
+  "meta": {"video_id": "5dRdxywub1g", "fonte": "legenda automática do YouTube (título sem data; 12/02/2026 confirmada no encerramento: quinta-feira); falantes inferidos; ts = tempo do vídeo (sessão começa ~0:51); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1026", "data": "2026-02-12", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral, relator do item 1.1.1)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alex Azevedo", "Severino Medeiros (diretor; grafia da legenda)"],
+    "ausentes": [],
+    "observacoes": ["Encerrada às 16h50 de 12/02/2026.", "Dois processos extrapauta incluídos a pedido dos diretores: reajuste tarifário do semiurbano da RIDE/DF (relator Alex Azevedo) e reajuste do contrato de permissão da Taguatu (relator Severino Medeiros).", "Um pedido de vista (item 1.4.1, Rodoviária Gravatense); demais itens unânimes.", "Tema transversal: consensualismo (COMPOR) e a moderação dos reajustes semiurbanos abaixo do IPCA."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:53:18",
+      "processo": "50505.041634/2025-76", "interessado": "Taguatu — Taguatinga Transporte e Turismo Ltda. (permissionária semiurbana do entorno do DF)",
+      "assunto": "Homologação de acordo e 2º termo aditivo ao contrato de permissão 001/2015 (edital 2/2014) para restabelecer o equilíbrio econômico-financeiro afetado pela pandemia e pela delegação temporária da gestão ao GDF",
+      "tema": ["ônibus (semiurbano)", "reequilíbrio contratual", "solução consensual"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Tratativas na COMPOR nº 5 não concluíram por divergências da permissionária e fim do prazo (art. 18 da IN conjunta 1/2023); a Procuradoria admitiu retomar por novos atos; área técnica e Procuradoria concluíram pela maior vantajosidade. Planilha de referência atualizada (2ª revisão ordinária e 2ª extraordinária) será publicada com o reajuste de fevereiro de 2026; arquiva o processo de TAC e o de negociação.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, homologa o acordo", "ts": "0:53:18", "justificativa": "consensualismo como forma contemporânea de realizar o interesse público; vantajosidade para a administração e os usuários", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "concorda com o relator; celebra o funcionamento da COMPOR (≈ 10 acordos em menos de 2 anos, o primeiro em maio de 2024) e a agenda do TCU", "ts": "0:58:24", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha na íntegra; ressalva que o acordo ocorreu fora da COMPOR por motivos da permissionária e de prazo", "ts": "1:01:23", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente; destaca o foco no usuário", "ts": "1:02:43", "confianca": "alta"},
+        {"diretor": "Severino Medeiros", "voto": "de acordo com o relator", "ts": "1:03:59", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "1:04:33",
+      "processo": "50500.028001/2025-72", "interessado": "EPR Iguaçu S.A. (edital 5/2024, PR)",
+      "assunto": "Reajuste da TBP e início da cobrança em free flow nas praças P1 Lindoeste, P8 Ampére e P9 Pato Branco",
+      "tema": ["concessões rodoviárias", "pedágio free flow"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Leilão em 12/12/2024; segundo termo aditivo (17/12/2025) trocou praças físicas por free flow; termo de vistoria (NT 951) e cálculo (NT 901/2026); IRT de 1,10871 (IPCA fev/2023–abr/2025), isto é, recomposição de 10,87% sobre TBP de R$ 0,17564/km (pista simples). Felipe enfatiza que reajuste é correção inflacionária, não aumento real.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, autoriza", "ts": "1:04:33", "justificativa": "recomposição do efeito do dinheiro no tempo; transparência", "tom": "didático", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:13:30", "confianca": "media"},
+        {"diretor": "Severino Medeiros", "voto": "acompanha o relator", "ts": "1:13:36", "confianca": "media"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha", "ts": "1:13:38", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; elogia a clareza do voto", "ts": "1:13:40", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "1:13:40",
+      "processo": "50500.00918/2025-47", "interessado": "SUCON",
+      "assunto": "Aprovação do edital da concessão Rota dos Sertões (BR-116 PE/BA e BR-324 BA; ≈ 502 km); leilão em 28/05/2026 na B3",
+      "tema": ["concessões rodoviárias", "leilão"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Atende ao Acórdão TCU 1.711/2025 e diretrizes do Ministério dos Transportes; receita tarifária de ≈ R$ 25 bi, capex de ≈ R$ 4,32 bi concentrado nos primeiros anos e opex de ≈ R$ 4,4 bi; compartilhamento de risco de demanda com banda de 2% e fator de 90%; AP 9/2024. Segundo leilão do ano (após o da Rota Gerais em 31/03).",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "1:14:26", "justificativa": "integração logística do Nordeste; conformidade técnica, jurídica e regulatória", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "volta com o relator; destaca emprego e renda numa região sem tradição de ativos concedidos", "ts": "1:19:32", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha plenamente; relata ter percorrido o trecho Feira de Santana–Salgueiro em janeiro", "ts": "1:21:06", "confianca": "alta"},
+        {"diretor": "Severino Medeiros", "voto": "acompanha o relator; também conhece o trecho e vê tráfego pesado de caminhões", "ts": "1:22:27", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente; agradece TCU, Ministério e Infra; agenda de concessões a todo vapor", "ts": "1:23:29", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.4.1", "ts": "1:23:30",
+      "processo": "50500.071950/2020-16", "interessado": "Rodoviária Gravatense Ltda.",
+      "assunto": "Autorização da linha Crato/CE–Recife/PE em cumprimento a decisão judicial (ação de obrigação de fazer 1021794-06.2025.4.01.3400; análise pela Res. 4770/2015), com impugnação da Gontijo rejeitada",
+      "tema": ["ônibus (transporte regular, TAR)", "judicializacao"],
+      "relator": "Alex Azevedo", "resultado": "vista concedida (sem decisão)",
+      "resumo_voto": "Relator defere a autorização cumprindo a sentença (litispendência com outro processo foi resolvida pela Justiça), nega a impugnação da Gontijo e recomenda à SUFIS que a efetiva operação siga o arcabouço vigente, para assegurar isonomia concorrencial e padrões atuais de segurança e tecnologia.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, defere o pedido por cumprimento de decisão judicial", "ts": "1:25:07", "justificativa": "cumprimento judicial com recomendação de isonomia na operação", "confianca": "alta"}
+      ],
+      "pedido_vista": {"diretor": "não identificado (legenda sem falante; ts 1:36:09)", "motivo": "esclarecer um ponto jurídico com o Procurador-Geral; reconhece que o voto está completo"}
+    },
+    {
+      "id": "1.4.2", "ts": "1:36:30",
+      "processo": "50500.042102/2025-11", "interessado": "Concessionária de Rodovia Nova 381 S.A. (edital 001/2024)",
+      "assunto": "7º termo aditivo: ampliar o escopo do verificador independente e prever verba específica de verificação",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Alex Azevedo", "resultado": "aprovado por unanimidade (com recomendações à SUROD)",
+      "resumo_voto": "Verificador imposto cautelarmente pela Decisão SUROD 857/2025 (Res. 6053/2024); a verba usa três parâmetros (contratos da ANTT, contratos da 5ª etapa e orçamentos comerciais), média de ≈ R$ 3 mi/ano; valor atualizado de ≈ R$ 13,79 mi por 5 anos. Recomenda estudos sobre credenciamento de verificadores pela ANTT (item 5.1.10 do termo de referência) e metodologia de precificação individualizada em vez da paramétrica.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, aprova e recomenda estudos", "ts": "1:37:26", "justificativa": "governança da agência na escolha do verificador; controle econômico-financeiro dos termos aditivos", "tom": "propositivo, estruturante", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator; defende transformar o credenciamento em agenda prioritária de 2026 (como o modelo europeu de certificadoras ferroviárias)", "ts": "1:54:02", "justificativa": "substituição de supervisão por verificação foi acelerada por escassez orçamentária no ano anterior", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha", "ts": "1:56:35", "confianca": "baixa"},
+        {"diretor": "Severino Medeiros", "voto": "acompanha", "ts": "1:56:37", "confianca": "baixa"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator; proclama unanimidade", "ts": "1:56:39", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "extra-pauta-RIDE-DF", "ts": "1:56:39",
+      "processo": "50500.001382/2026-63", "interessado": "Superintendência de Serviços de Transporte Rodoviário de Passageiros (SUPAS)",
+      "assunto": "Reajuste do coeficiente tarifário das autorizações especiais semiurbanas da RIDE/DF (ciclo 2026)",
+      "tema": ["ônibus (semiurbano)", "tarifa / modicidade"],
+      "relator": "Alex Azevedo", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aplicação de fórmula paramétrica (Res. 2130/2007 e 4768/2015), índice de 2,546% (mão de obra +3,9% pesa ≈ 60%; diesel caiu), abaixo do IPCA de ≈ 4,26%; novo coeficiente de R$ 0,174576 por passageiro-km a partir de 22/02/2026. Alex destaca o transporte pendular de trabalhadores e a tarifa como política de mobilidade e inclusão.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, aprova", "ts": "1:57:22", "justificativa": "modicidade não é congelamento: equilíbrio entre sustentabilidade do serviço e proteção ao usuário", "tom": "social, foco no usuário", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "2:05:03", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "2:05:14", "confianca": "alta"},
+        {"diretor": "Severino Medeiros", "voto": "acompanha o relator", "ts": "2:05:18", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; agradece a inclusão extrapauta", "ts": "2:05:21", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.5.1", "ts": "2:05:30",
+      "processo": "50500.002068/2026-16", "interessado": "SUPAS",
+      "assunto": "Reajuste do coeficiente tarifário dos serviços semiurbanos por autorização especial geridos diretamente pela ANTT (exceto RIDE/DF e Petrolina–Juazeiro)",
+      "tema": ["ônibus (semiurbano)", "tarifa / modicidade"],
+      "relator": "Severino Medeiros", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Último reajuste pela Deliberação 79/2025 (R$ 0,17 por passageiro-km, vigente desde 23/02/2025); insumos (pessoal, combustível, peças) por índices FGV, IBGE e ANP; reajuste de ≈ 2,54% para ≈ R$ 0,1749 por passageiro-km, abaixo do IPCA, desde 22/02/2026.",
+      "votos": [
+        {"diretor": "Severino Medeiros", "voto": "relator, aprova", "ts": "2:06:23", "justificativa": "recomposição do equilíbrio para operadoras sem subsídio; aderência à modicidade", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator; elogia a sugestão de melhoria processual de prazos que Severino e Alex fazem", "ts": "2:10:57", "justificativa": "olhar de governança além da legalidade e do mérito", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "2:13:21", "confianca": "media"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha na plenitude; elogia a coragem e a tecnicidade de Severino", "ts": "2:13:27", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "2:13:44", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "extra-pauta-Taguatu", "ts": "2:13:50",
+      "processo": "50500.008131/2026-10", "interessado": "Taguatu — Taguatinga Transporte e Turismo Ltda.",
+      "assunto": "Reajuste anual do coeficiente tarifário do contrato de permissão 001/2015 (variação de preços de 2025), somado ao efeito do acordo homologado no item 1.1.1",
+      "tema": ["ônibus (semiurbano)", "tarifa / modicidade", "reequilíbrio contratual"],
+      "relator": "Severino Medeiros", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Coeficiente anterior de R$ 0,147607 (Deliberação 244/2023); novo coeficiente de ≈ R$ 0,164450, alta de 11,41%: 1,58% pela fórmula contratual de 2025 e 9,67% pelo acordo (proc. 50505.075852/2025-12); vigência condicionada à eficácia do acordo.",
+      "votos": [
+        {"diretor": "Severino Medeiros", "voto": "relator, aprova", "ts": "2:13:50", "justificativa": "peculiaridade de contrato de permissão e do acordo; recomposição de perdas acumuladas", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "2:19:37", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "2:19:40", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha", "ts": "2:19:42", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; agradece os extrapautas sobre o semiurbano do entorno do DF", "ts": "2:19:45", "confianca": "alta"}
+      ]
+    }
+  ],
+  "limites_da_analise": ["Legenda automática: nome do Diretor-Geral e de Severino Medeiros grafados de várias formas; números de processo parciais.", "O falante que pediu vista no item 1.4.1 não é identificado na legenda; sem voto atribuído.", "ts de votos de seguidores aproximados."]
+}
