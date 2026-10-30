@@ -24,7 +24,7 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 | 2022 | diretoria | 33 | 32 | 0 |
 | 2022 | audiencia | 28 | 17 | 0 |
 | 2021 | participativa | 9 | 9 | 0 |
-| 2021 | diretoria | 42 | 1 | 0 |
+| 2021 | diretoria | 42 | 13 | 0 |
 | 2021 | audiencia | 26 | 17 | 0 |
 | 2020 | participativa | 2 | 1 | 0 |
 | 2020 | diretoria | 45 | 0 | 0 |
@@ -165,6 +165,18 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 - 2022-02-17 · Transmissão ao vivo da 926ª Reunião de Diretoria da ANTT -  17/02/2022 · `ewq82LPWw2E`
 - 2022-02-03 · Transmissão ao vivo da 925ª Reunião de Diretoria da ANTT -  03/02/2022 · `pKYkK69QnQE`
 - 2022-01-20 · Transmissão ao vivo da 924ª Reunião de Diretoria da ANTT -  20/01/2022 · `q-BxgYhOb0c`
+- 2021-12-22 · Transmissão ao vivo da 69ª Reunião Extraordinária de Diretoria - 22/12 · `lWjXLAY4HKI`
+- 2021-12-16 · Transmissão ao vivo da 923ª Reunião de Diretoria da ANTT -  16/12/2021 · `MNr3gvJ5hlQ`
+- 2021-12-08 · Transmissão ao vivo da 68ª Reunião Extraordinária de Diretoria - 8/12/ · `7dl5V2BurH8`
+- 2021-12-02 · Transmissão ao vivo da 922ª Reunião de Diretoria da ANTT -  2/12/2021 · `IwLYFZ4veDo`
+- 2021-11-18 · Transmissão ao vivo da 921ª Reunião de Diretoria da ANTT - 18/11/2021 · `FNnvj8A4Zjo`
+- 2021-11-04 · Transmissão ao vivo da 920ª Reunião de Diretoria da ANTT - 4/11/2021 · `VZD-U2Sl7sU`
+- 2021-10-21 · Transmissão ao vivo da 919ª Reunião de Diretoria da ANTT - 21/10/2021 · `_OwMqo23vHw`
+- 2021-10-07 · Transmissão ao vivo da 918ª Reunião de Diretoria da ANTT - 7/10/2021 · `Fsfq1tp3R00`
+- 2021-09-22 · Transmissão ao vivo da 917ª Reunião de Diretoria da ANTT - 22/09/2021 · `OTcyf2Er7IU`
+- 2021-09-09 · Transmissão ao vivo da 916ª Reunião de Diretoria da ANTT - 09/09/2021 · `qBHo290jUds`
+- 2021-08-31 · Transmissão ao vivo da 915ª Reunião de Diretoria da ANTT - 31/08/2021 · `MjnHHA-UHiw`
+- 2021-08-24 · Transmissão ao vivo da 914ª Reunião de Diretoria da ANTT -  24/08/2021 · `vO71AMKlMQ0`
 - 2021-06-22 · Transmissão ao vivo da 906ª Reunião de Diretoria da ANTT · `EdMj6bhyq-M`
 - 2019-07-22 · Transmissão da 63ª  Reunião Extraordinária de Diretoria · `tVr3sqGXaIg`
 - 2019-06-13 · 62ª Reunião Extraordinária de Diretoria · `ifXiMh49mdg`
