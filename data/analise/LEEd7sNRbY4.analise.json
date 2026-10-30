@@ -1,0 +1,162 @@
+{
+  "meta": {"video_id": "LEEd7sNRbY4", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:20); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1027", "data": "2026-02-27", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral, relator do item 1.1.1)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alex Azevedo", "Alessandro Baumgarten (diretor substituto; primeira sessão pública)"],
+    "ausentes": [],
+    "observacoes": ["Encerrada às 12h12 de 27/02/2026.", "Boas-vindas ao diretor substituto Alessandro Baumgarten, que assumiu na segunda-feira anterior (23/02/2026), como segundo da lista de substituição, vindo da superintendência da SUFER e da assessoria de Lucas Asfor; substitui Severino Medeiros, que atuou como diretor por alguns meses (antes dele, José Aires Amaral Filho).", "Item extrapauta de Lucas Asfor (Rio Novo) incluído.", "Votos-vista apresentados: Lucas Asfor (Rio Novo) e Alex Azevedo (dois processos de sinistros na BR-376/PR).", "10 itens, todos aprovados por unanimidade.", "Balanço do Diretor-Geral: 19 concessões nos últimos três anos; agenda de 2026 também intensa, mesmo com período eleitoral."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:30:05",
+      "processo": "50500.002707/2025-54", "interessado": "Rota Sertaneja MG/GO S.A. (UE Concessões)",
+      "assunto": "Emissão do ato de outorga e assinatura do contrato de concessão da BR-153/262 GO/MG (Rota Sertaneja)",
+      "tema": ["concessões rodoviárias", "leilão"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Leilão homologado em 05/12/2025; vencedora UE Concessões com ágio de 24,80% (aporte de recursos vinculados); condições precedentes do item 16.3 do edital atendidas: SPE, capital, garantia de execução, seguros, pagamentos à B3 e à Infra S.A., termo de integridade e plano de transição operacional.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova", "ts": "0:31:10", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:34:14", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "de acordo com o relator", "ts": "0:34:18", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "de acordo com o relator", "ts": "0:34:23", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "0:34:28", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:34:30",
+      "processo": "50500.008104/2025-66", "interessado": "Eco050 Concessionária de Rodovias S.A. (edital 001/2013)",
+      "assunto": "10º termo aditivo para disponibilizar conectividade 4G ao longo da BR-050 (GO/MG)",
+      "tema": ["concessões rodoviárias", "inovação / conectividade"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Investimento do grupo de orçamento aceito previsto na revisão quinquenal (Deliberação 25/2025); parâmetros técnicos da SUROD, Procuradoria sem óbice, concessionária de acordo; conectividade para socorro e também para as regiões lindeiras, com externalidades de desenvolvimento.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova com alegria", "ts": "0:35:13", "justificativa": "infraestrutura como plataforma de desenvolvimento (novos negócios, educação online)", "tom": "entusiasmado", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha", "ts": "0:40:14", "confianca": "media"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha", "ts": "0:40:16", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "0:40:18", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "0:40:18",
+      "processo": "50500.011373/2026-91", "interessado": "Ferrovia Teresa Cristina S.A. (FTC)",
+      "assunto": "Audiência pública sobre os estudos e minutas do termo aditivo para prorrogação antecipada do contrato da FTC (vence em 01/02/2027)",
+      "tema": ["ferrovias", "concessão ferroviária", "prorrogação antecipada", "participação social"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Pedido de 27/12/2021 com 83% do prazo decorrido; qualificada no PPI (Decreto 12.221/2024); AP exigida pelo art. 10 da Lei 13.448/2017. Aditivo incorpora modernização do modelo da 3ª etapa ferroviária (verificador independente por Acórdão TCU 1.592/2024, matriz de risco com eventos climáticos, dispute board, plano de investimentos em pátios, material rodante e passagens em nível, sustentabilidade). Ferrovia urbana de ≈ 164 km, uma passagem em nível a cada ≈ 500 m, 14 municípios catarinenses; cerca de 81% da carga é carvão para termelétrica, que deve encerrar até 2040 (Lei 14.299/2022).",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova abertura", "ts": "0:40:55", "justificativa": "transparência e participação social diante de desafios de transição energética e conflitos urbanos", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator na plenitude", "ts": "0:52:19", "justificativa": "oportunidade de prospectar novas cargas e não deixar a ferrovia morrer; olhar entusiasta por ferrovias", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator na plenitude", "ts": "0:52:19", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha; conhece a operação e destaca a importância regional", "ts": "0:54:46", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "0:55:23", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.3", "ts": "0:55:23",
+      "processo": "50500.183108/2024-96", "interessado": "Arteris S.A. (Autopista Fluminense, BR-101/RJ)",
+      "assunto": "Declaração de consumação do processo competitivo 3/2025 e assinatura do termo aditivo da Autopista Fluminense",
+      "tema": ["concessões rodoviárias", "leilão / otimização"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Leilão em 11/11/2025 com participação exclusiva da atual controladora (Arteris); homologação pela Deliberação 496/2025 (17/12/2025); documentação do item 19.1 do edital atendida; modernização ao padrão da 5ª etapa com capex ≈ R$ 6 bi, opex ≈ R$ 4,12 bi e duplicação de ≈ 50 km. Felipe destaca a modernização regulatória de contratos dos anos 90.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, declara consumação", "ts": "0:55:56", "justificativa": "modernização regulatória e investimentos que geram emprego e renda", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha", "ts": "1:04:45", "confianca": "media"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha", "ts": "1:04:57", "confianca": "media"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha", "ts": "1:05:00", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "1:05:05", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "1:05:05",
+      "processo": "50500.009929/2025-06", "interessado": "Concessionária Rota Agro MT/GO S.A. (Way Concessões)",
+      "assunto": "Emissão do ato de outorga e assinatura do contrato da concessão BR-060/364 GO/MT (Rota Agro), edital 2/2025",
+      "tema": ["concessões rodoviárias", "leilão"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Resultado homologado pela Deliberação 498/2025 (17/12/2025), vencedora a proponente segunda colocada Way Concessões; condições precedentes comprovadas (nota informativa 239/2026): SPE, capital, garantias e apólices (SUROD).",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "1:05:54", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "1:09:24", "confianca": "media"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha", "ts": "1:09:39", "confianca": "media"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha", "ts": "1:09:40", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "1:09:44", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "extra-pauta-RioNovo", "ts": "1:09:44",
+      "processo": "50500.046167/2021-97", "interessado": "Rio Novo Transporte e Turismo Ltda.",
+      "assunto": "Emissão de termos de autorização em cumprimento a decisão judicial (ação 1121473-76.2025.4.01.3400); voto-vista de Lucas Asfor sobre o voto de Felipe Queiroz da RD 1025",
+      "tema": ["ônibus (transporte regular, TAR)", "judicializacao"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — anula a Deliberação 450/2025 e emite os termos de autorização sub judice",
+      "resumo_voto": "Voto-vista de Lucas Asfor acompanha o relator: o STF (SS 5714, ministro Barroso) não revogou automaticamente as outorgas; a ANTT cumpriu com a Deliberação 450/2025; a 17ª Vara Federal a anulou e mandou aplicar o art. 226 §6º da Res. 6033; a ANTT entende que o dispositivo só cobre decisões judiciais anteriores a 01/02/2024, mas deve cumprir decisões vigentes. Procuradoria aponta tensão entre decisões e recursos em curso. As linhas já estavam reativadas no SIGMA desde 13/11/2025.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, acompanha o voto-vista que converge com o seu", "ts": "1:16:27", "justificativa": "o escrutínio do voto-vista dá mais segurança técnica e jurídica", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "voto-vista: acompanha integralmente o relator", "ts": "1:10:46", "justificativa": "administração deve observar decisões judiciais vigentes enquanto não reformadas", "tom": "cauteloso e institucional", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha a plenitude dos dois votos", "ts": "1:18:00", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o voto do revisor", "ts": "1:18:30", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha ambos os votos; proclama unanimidade", "ts": "1:18:35", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.4.1", "ts": "1:18:35",
+      "processo": "50505.015809/2025-90", "interessado": "CCR PRVias S.A.",
+      "assunto": "Autorização excepcional e emergencial para recuperar sinistro no km 435 da BR-376/PR (Tibagi) com reequilíbrio; voto-vista de Alex Azevedo sobre voto de Lucas Asfor (deliberação eletrônica 266, fev/2026)",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade (voto-vista aderente com complemento)",
+      "resumo_voto": "Sinistro ocorreu entre o leilão (12/12/2024) e a assinatura (14/04/2025); orçamento de ≈ R$ 7,85 milhões (jun/2025); o DNIT informou não ter tempo hábil para a recuperação antes da assunção; vistoria da comissão de trabalhos iniciais confirmou gravidade e interdição de acostamento; arts. 48 e 160 da Res. 6000/2022 dispensam aditivo. Alex acompanha o relator e acrescenta a importância do projeto executivo (autos 50500.038462/2025-01) e recomenda juntar aos autos principais os anexos de processos autônomos de projeto executivo, por transparência e controle social, evitando superfaturamento.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator original, autoriza em caráter emergencial", "ts": "1:18:35", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "voto-vista: acompanha o relator com complemento sobre projeto executivo e transparência", "ts": "1:19:47", "justificativa": "obras emergenciais com futuro reequilíbrio exigem previsibilidade de custo e controle social", "tom": "cuidadoso, transparência", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com relator e revisor; destaca a governança do período de transição DNIT–ANTT", "ts": "1:32:02", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "de acordo com o complemento de Alex", "ts": "1:33:06", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "adere a ambos os votos; proclama unanimidade", "ts": "1:33:32", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.4.2", "ts": "1:33:32",
+      "processo": "50505.020549/2025-74", "interessado": "CCR PRVias S.A.",
+      "assunto": "Autorização emergencial para recuperar sinistro no km 304 da BR-376/PR (bueiro triplo celular parcialmente rompido); voto-vista de Alex Azevedo sobre voto de Severino Medeiros (relator original, deliberação eletrônica 266)",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual"],
+      "relator": "Severino Medeiros", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Mesma instrução do item 1.4.1; Alex concorda com o relator e repete a recomendação de juntar anexos dos projetos executivos autônomos (50500.041586/2025).",
+      "votos": [
+        {"diretor": "Severino Medeiros", "voto": "relator original, autoriza", "ts": "1:33:32", "confianca": "media"},
+        {"diretor": "Alex Azevedo", "voto": "voto-vista: acompanha o relator, com recomendação", "ts": "1:34:26", "justificativa": "mais segurança antes de decisões que preparam reequilíbrios", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com relator e revisor", "ts": "1:38:48", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o voto-vista", "ts": "1:38:59", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o revisor; proclama unanimidade", "ts": "1:39:08", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.4.3", "ts": "1:39:08",
+      "processo": "50500.001471/2026-10", "interessado": "Via Brasil BR-163 Concessionária de Rodovias S.A.",
+      "assunto": "Audiência pública para a readaptação e otimização do contrato da BR-163 MT/PA e BR-230 PA (solução consensual no TCU, Acórdão 11/2026), com função adicional de sandbox metodológico",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "solução consensual", "participação social"],
+      "relator": "Alex Azevedo", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Contrato de 2021 (deságio de 8,09%, capex original de R$ 1,88 bi, 10+2 anos) ficou inviável por crescimento imprevisto de eixos pesados ligados às estações de transbordo de Miritituba: saldo regulatório de R$ 911,2 mi, prejuízo fiscal de R$ 164,9 mi e dívida de ≈ R$ 1,01 bi. Aditivo de modernização: 20 anos, capex de R$ 10,642 bi e opex de R$ 4,715 bi, 245,8 km de duplicação, gatilhos volumétricos, processo competitivo na B3 com VPL zero e disputa por deságio, garantia de proposta de R$ 88,15 mi, passivos pretéritos com o comprador. Sessões em Sinop, Itaituba e Brasília.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, aprova", "ts": "1:40:26", "justificativa": "ato vinculado por lei e pelo TCU; solução consensual evita litígio; foco no usuário e no corredor do Arco Norte", "tom": "técnico, detalhista", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "sigo integralmente o relator; destaca a Consenso e o esforço de madrugada", "ts": "2:01:02", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator; elogia a profundidade do voto", "ts": "2:02:24", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "parabeniza o relator e acompanha", "ts": "2:03:06", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente; reconhece a liderança de Felipe Queiroz na Consenso", "ts": "2:03:11", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.4.4", "ts": "2:03:11",
+      "processo": "50500.009131/2026-37", "interessado": "SUCON",
+      "assunto": "Audiência pública da concessão Rota Portuária do Sul (BR-116/RS entre Camaquã e Jaguarão e BR-392/RS; ≈ 459,6 km), sexta etapa de concessões",
+      "tema": ["concessões rodoviárias", "pedágio free flow", "leilão", "participação social"],
+      "relator": "Alex Azevedo", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Contrato da Ecosul (1998, estadual até 2000) encerra em 03/03/2026, com risco de descontinuidade (cláusula 3.4 permite estender o contrato anterior); EVTEA aprovado pela Portaria MT 842/2025; concessão de 30 anos, capex de R$ 6,123 bi, TIR de 12,49%, free flow com 14 pórticos, pesagem em movimento, dispute board, conta de infraestrutura resiliente e compartilhamento de risco ambiental com teto de R$ 43,1 mi. Sessões em Pelotas, Porto Alegre e Brasília.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, aprova", "ts": "2:05:13", "justificativa": "resposta da agência aos gargalos logísticos; participação social antes do edital", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "2:20:59", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "2:21:00", "confianca": "media"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "2:21:02", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; destaca o marco da sexta etapa e o fim de um contrato antigo; proclama unanimidade", "ts": "2:21:05", "confianca": "alta"}
+      ]
+    }
+  ],
+  "limites_da_analise": ["Legenda automática: números de processo parciais; sobrenomes dos diretores grafados de várias formas.", "No item 1.2.2 as falas de Lucas Asfor e Alex Azevedo se misturam na legenda; atribuição inferida.", "ts de votos de seguidores aproximados."]
+}
