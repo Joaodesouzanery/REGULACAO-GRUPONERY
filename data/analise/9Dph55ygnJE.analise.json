@@ -1,0 +1,40 @@
+{
+  "meta": {"video_id": "9Dph55ygnJE", "fonte": "legenda automática do YouTube (título em inglês, sem data); falantes inferidos; ts = tempo do vídeo (sessão começa ~0:22). DATA NÃO CONFIRMADA: inferida como início de maio/2026 (Guilherme em férias, item PRVias 50505.017853/2026-15 retirado, depois julgado na RD 1033 de 21/05/2026)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "100ª Extraordinária", "data": "2026-05", "formato": "videoconferência (sessão extraordinária)",
+    "presidente_da_sessao": "Felipe Queiroz (Guilherme Sampaio em férias)",
+    "diretores_presentes": ["Felipe Queiroz", "Lucas Asfor", "Alessandro Baumgarten (diretor substituto)"],
+    "ausentes": ["Guilherme Sampaio (férias)", "Alex Azevedo (missão internacional)"],
+    "observacoes": ["Felipe Queiroz retirou de pauta seu item 1.1.1 (PRVias, proc. 50505.017853/2026-15).", "Dois itens de relatoria de Lucas Asfor, ambos aprovados por unanimidade; encerrada às 9h40 (horário de Brasília)."]
+  },
+  "itens": [
+    {
+      "id": "1.2.1", "ts": "0:22:30",
+      "processo": "50500.010269/2025-06", "interessado": "Rota Verde Goiás S.A.",
+      "assunto": "Reajuste da TBP e início da cobrança em free flow nas sete praças (P1 a P7) da BR-060/452 em Goiás (edital 4/2024)",
+      "tema": ["concessões rodoviárias", "pedágio free flow"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Termo aditivo substituiu praças físicas por free flow, com testes e comunicação aos usuários; comissão atestou o cumprimento; reajuste de 12,02% sobre a TBP quilométrica; cobrança em até 10 dias do ato.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "0:24:00", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "0:31:30", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator; proclama aprovação", "ts": "0:31:35", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "0:32:00",
+      "processo": "50500.025945/2026-19", "interessado": "Via Campo Concessionária de Rodovias S.A.",
+      "assunto": "Reajuste da TBP e início da cobrança nas praças P3 Corbélia, P4 Mamborê (BR-369/PR) e P5 Floresta (PR-317) (edital 3/2025)",
+      "tema": ["concessões rodoviárias", "pedágio"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Comissão de trabalhos iniciais atestou os parâmetros de desempenho; reajuste de 12,03% da TBP quilométrica; cobrança em 10 dias da expedição do ato.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "0:32:30", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha integralmente", "ts": "0:39:30", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha integralmente", "ts": "0:39:35", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [{"item": "1.1.1 — PRVias S.A.", "relator": "Felipe Queiroz", "motivo": "retirado pelo relator (motivo não detalhado)", "ts": "0:22:00"}],
+  "limites_da_analise": ["Data da reunião não informada no vídeo nem no título; marcada como 2026-05 (aproximada).", "ts de todos os itens aproximados (legenda sem marcação por item)."]
+}

@@ -1,0 +1,43 @@
+{
+  "meta": {"video_id": "J2D2nXHknIg", "fonte": "legenda automática do YouTube (título em inglês: Extraordinary Board Meeting No. 99, 13/04/2026); falantes inferidos; ts = tempo do vídeo (sessão começa ~0:37)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "99ª Extraordinária", "data": "2026-04-13", "formato": "videoconferência (sessão extraordinária)",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alex Azevedo", "Alessandro Baumgarten (diretor substituto)"],
+    "ausentes": [],
+    "observacoes": ["Encerrada às 13h de 13/04/2026 (segunda-feira).", "Duas deliberações unânimes, ambas decorrentes de soluções consensuais do TCU: BR-116/SP-PR (Régis Bittencourt) e BR-163/MT-PA (Via Brasil).", "O Diretor-Geral começa abrindo a sessão como 1000 por engano e corrige."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:37:27",
+      "processo": "50500.056034/2025-52", "interessado": "SUCON — Autopista Régis Bittencourt S.A.",
+      "assunto": "Relatório final da consulta pública 2/2025 (176 contribuições) e edital do processo competitivo para readaptação e otimização do contrato da BR-116 SP/PR (alienação de 100% das ações; leilão em 23/07/2026 na B3)",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "participação social"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Iniciativa decorre de determinação do TCU de realizar consulta pública (sessões em Curitiba e São Paulo em novembro de 2025); contribuições focaram obras, passarelas e dispositivos de segurança; Procuradoria opinou pela regularidade; processo competitivo transparente e isonômico valida as condições da solução consensual. Terceiro leilão do ano.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "0:38:58", "justificativa": "cumprimento da determinação do TCU; transparência e isonomia do processo competitivo", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "completa concordância com o relator; elogia a liderança de Lucas Asfor na agenda", "ts": "0:43:53", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha na integralidade", "ts": "0:44:30", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator; destaca a importância do corredor São Paulo–Curitiba", "ts": "0:45:41", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente; elogia a agilidade do gabinete do relator para levar o edital do terceiro leilão do ano", "ts": "0:45:51", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:45:51",
+      "processo": "50500.018672/2026-67", "interessado": "Via Brasil BR-163 Concessionária de Rodovia S.A. (Conasa Infraestrutura)",
+      "assunto": "Termo de referência do ambiente regulatório experimental (sandbox, Res. 5999/2022) para o processo competitivo de transferência de controle da concessionária (BR-163 MT/PA e BR-230 PA; 1.009,52 km entre Sinop e Miritituba)",
+      "tema": ["concessões rodoviárias", "sandbox / inovação", "leilão / otimização"],
+      "relator": "Alex Azevedo", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Eixo logístico do Arco Norte; comissão de sandbox (Portaria DG 245/2024) testa regras do futuro RCR4; verificados seis critérios de elegibilidade (art. 8º da Res. 5999); termo simétrico às cláusulas 4.1.14 e seguintes do termo de autocomposição com o TCU; regras de M&A, com direito de regresso do adquirente por vícios ocultos em 12 meses; pagamento de dívidas prévias pela controladora como condição.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, aprova", "ts": "0:46:56", "justificativa": "segurança jurídica do processo competitivo; simetria com o termo de autocomposição", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator; compara os dois ativos (Régis, urbano, e Via Brasil, rural/granéis) como evidência de que o mecanismo alcança realidades distintas", "ts": "0:55:54", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha na íntegra", "ts": "0:57:36", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha integralmente", "ts": "0:57:56", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente; defende que a solução consensual mostra que o litígio não vale a pena", "ts": "0:58:04", "confianca": "alta"}
+      ]
+    }
+  ],
+  "limites_da_analise": ["Legenda automática: nomes de empresas e números de processo parciais (ex.: Régis Bittencourt aparece como Resbcu/Bitecuq).", "ts de votos de seguidores aproximados."]
+}
