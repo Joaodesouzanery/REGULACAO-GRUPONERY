@@ -15,7 +15,7 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 | 2025 | audiencia | 12 | 12 | 0 |
 | 2024 | workshop | 2 | 2 | 0 |
 | 2024 | participativa | 13 | 12 | 0 |
-| 2024 | diretoria | 31 | 18 | 0 |
+| 2024 | diretoria | 31 | 30 | 0 |
 | 2024 | audiencia | 10 | 10 | 0 |
 | 2023 | participativa | 4 | 3 | 0 |
 | 2023 | diretoria | 30 | 0 | 0 |
@@ -91,6 +91,18 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 - 2024-07-22 · 83ª Reunião Extraordinária de Diretoria - 22/7/2024 · `gcVJwfeNn2M`
 - 2024-07-11 · 986ª Reunião de Diretoria - 11/7/2024 · `bjTH-DbZqCk`
 - 2024-06-27 · 985ª Reunião de Diretoria - 27/6/2024 · `CEQTjLWoMYk`
+- 2024-06-13 · 984ª Reunião de Diretoria - 13/6/2024 · `xnPXGyrmU0c`
+- 2024-05-29 · 983ª Reunião de Diretoria - 29/5/2024 · `eeRiLhCPx2Q`
+- 2024-05-16 · 982ª Reunião de Diretoria - 16/5/2024 · `GEhAgYUoli0`
+- 2024-04-30 · 981st Board Meeting - 4/30/2024 · `r93budWD4NU`
+- 2024-04-18 · 980ª Reunião de Diretoria - 18/4/2024 · `-DbIoSdQ4og`
+- 2024-04-04 · 979ª Reunião de Diretoria - 4/4/2024 · `uObNOgSCAVo`
+- 2024-03-21 · 978ª Reunião de Diretoria - 21/3/2024 · `5SjbTRRDG-o`
+- 2024-03-14 · 82ª Reunião de Diretoria Extraordinária - 14/3/2024 · `0bSt0tVSwtM`
+- 2024-03-07 · 977ª Reunião de Diretoria - 7/3/2024 · `yO-d-f09vik`
+- 2024-02-22 · 976ª Reunião de Diretoria - 22/2/2024 · `bNHmEBzvMns`
+- 2024-02-08 · 975ª Reunião de Diretoria - 8/2/2024 · `6ckhaVSoiUY`
+- 2024-01-31 · 974ª Reunião de Diretoria - 31/1/2024 · `m2QSOFSYyqw`
 - 2022-09-22 · 75ª Reunião Extraordinária de Diretoria · `Y1_YnBlXh00`
 - 2022-09-21 · Transmissão ao vivo da 940ª Reunião de Diretoria · `_4OA6Py0z3U`
 - 2021-06-22 · Transmissão ao vivo da 906ª Reunião de Diretoria da ANTT · `EdMj6bhyq-M`

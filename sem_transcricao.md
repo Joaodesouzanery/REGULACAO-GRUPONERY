@@ -2,25 +2,13 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **269** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/participativa: 1; 2024/diretoria: 13; 2023/participativa: 1; 2023/diretoria: 30; 2023/audiencia: 10; 2022/participativa: 3; 2022/diretoria: 31; 2022/audiencia: 12; 2021/diretoria: 41; 2021/audiencia: 9; 2020/participativa: 1; 2020/diretoria: 45; 2020/audiencia: 11; 2019/diretoria: 41; 2019/audiencia: 12; 2018/audiencia: 4
+Total: **257** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/participativa: 1; 2024/diretoria: 1; 2023/participativa: 1; 2023/diretoria: 30; 2023/audiencia: 10; 2022/participativa: 3; 2022/diretoria: 31; 2022/audiencia: 12; 2021/diretoria: 41; 2021/audiencia: 9; 2020/participativa: 1; 2020/diretoria: 45; 2020/audiencia: 11; 2019/diretoria: 41; 2019/audiencia: 12; 2018/audiencia: 4
 
 - 2026-09-28 · diretoria · Board Meeting No. 1042 - 09/28/2026 · https://www.youtube.com/watch?v=6A8-zT0Sipw · **transcrição sem fala útil (760 caracteres; só música/ruído)**
 - 2026-07-09 · audiencia · Audiência Pública nº 006/2019 · https://www.youtube.com/watch?v=zCaMJGMlTns · **legenda desativada/inexistente no YouTube**
 - 2026-03-17 · audiencia · Audiência Pública nº 04/2026 - 17/03/2026 - Pelotas/RS - Rota Portuária · https://www.youtube.com/watch?v=12S7PAizj9Y · **legenda desativada/inexistente no YouTube**
 - 2025-10-03 · workshop · Chamamento Público nº 01/2025 - 03/10/2025 · https://www.youtube.com/watch?v=Woej2nY5otQ · **legenda desativada/inexistente no YouTube**
-- 2024-06-13 · diretoria · 984ª Reunião de Diretoria - 13/6/2024 · https://www.youtube.com/watch?v=xnPXGyrmU0c · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-05-29 · diretoria · 983ª Reunião de Diretoria - 29/5/2024 · https://www.youtube.com/watch?v=eeRiLhCPx2Q · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-05-16 · diretoria · 982ª Reunião de Diretoria - 16/5/2024 · https://www.youtube.com/watch?v=GEhAgYUoli0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-04-30 · diretoria · 981st Board Meeting - 4/30/2024 · https://www.youtube.com/watch?v=r93budWD4NU · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-04-23 · participativa · Reunião Participativa nº 04/2024 - Sinop - MT -  23/4/2024 · https://www.youtube.com/watch?v=6EFb6nZ-3-Q · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-04-18 · diretoria · 980ª Reunião de Diretoria - 18/4/2024 · https://www.youtube.com/watch?v=-DbIoSdQ4og · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-04-04 · diretoria · 979ª Reunião de Diretoria - 4/4/2024 · https://www.youtube.com/watch?v=uObNOgSCAVo · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-03-21 · diretoria · 978ª Reunião de Diretoria - 21/3/2024 · https://www.youtube.com/watch?v=5SjbTRRDG-o · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-03-14 · diretoria · 82ª Reunião de Diretoria Extraordinária - 14/3/2024 · https://www.youtube.com/watch?v=0bSt0tVSwtM · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-03-07 · diretoria · 977ª Reunião de Diretoria - 7/3/2024 · https://www.youtube.com/watch?v=yO-d-f09vik · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-02-22 · diretoria · 976ª Reunião de Diretoria - 22/2/2024 · https://www.youtube.com/watch?v=bNHmEBzvMns · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-02-08 · diretoria · 975ª Reunião de Diretoria - 8/2/2024 · https://www.youtube.com/watch?v=6ckhaVSoiUY · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-01-31 · diretoria · 974ª Reunião de Diretoria - 31/1/2024 · https://www.youtube.com/watch?v=m2QSOFSYyqw · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-01-18 · diretoria · 973ª Reunião de Diretoria - 18/1/2024 · https://www.youtube.com/watch?v=LNSg-EtO5zg · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-12-21 · diretoria · 972ª Reunião de Diretoria - 21/12/2023 · https://www.youtube.com/watch?v=gHjCizk8PhQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-12-07 · diretoria · 971ª Reunião de Diretoria - 7/12/2023 · https://www.youtube.com/watch?v=GE0Xxv-shHs · **ainda não baixado (rodar a coleta no Mac)**
