@@ -78,8 +78,13 @@ for f in sorted(glob.glob("data/analise/*.analise.json")):
 vids = {}
 for l in open("data/videos.jsonl"):
     v = json.loads(l)
-    if v["tipo"] == "diretoria" and not v.get("duplicata_de"): vids[v["id"]] = v
+    if v["tipo"] != "outro" and not v.get("duplicata_de"): vids[v["id"]] = v
 n_tr = 0
+c.execute("DROP TABLE IF EXISTS videos"); c.execute("CREATE TABLE videos(id TEXT PRIMARY KEY, titulo TEXT, tipo TEXT, data TEXT)")
+for v in vids.values(): c.execute("INSERT INTO videos VALUES(?,?,?,?)", (v["id"], v["titulo"], v["tipo"], v.get("data")))
+c.execute("DROP TABLE IF EXISTS mandatos"); c.execute("CREATE TABLE mandatos(diretor TEXT, cargo TEXT, inicio TEXT, fim TEXT, situacao TEXT, fonte TEXT, confianca TEXT, verificar TEXT)")
+if os.path.exists("data/mandatos.json"):
+    for m in json.load(open("data/mandatos.json")): c.execute("INSERT INTO mandatos VALUES(?,?,?,?,?,?,?,?)", tuple(m.get(k) for k in ("diretor","cargo","inicio","fim","situacao","fonte","confianca","verificar")))
 for vid in vids:
     f = f"data/transcricoes/{vid}.json"
     if not os.path.exists(f): continue

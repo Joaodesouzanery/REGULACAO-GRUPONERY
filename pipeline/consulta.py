@@ -2,7 +2,7 @@
 Uso:
   consulta.py perfil "Alex Azevedo" [--tema onibus]
   consulta.py busca "empresa de ônibus cassação"
-  consulta.py temas | diretores"""
+  consulta.py temas | diretores | mandatos | trecho <texto> [--tipo audiencia|participativa|diretoria|workshop]"""
 import sqlite3, sys, re, collections
 c = sqlite3.connect("data/regulacao.db"); c.row_factory = sqlite3.Row
 def segs(ts):
@@ -56,12 +56,13 @@ def tema(t):
         resumo = "; ".join(f"{v['diretor'].split()[0]}: {v['categoria']}" for v in vs)
         out.append(f"- **RD {i['numero']} ({i['data']})**, {i['item']} · relator **{i['relator']}** · {i['assunto'][:150]} → {i['resultado'][:90]}\n  - votos: {resumo} · [vídeo]({link(i['video_id'], i['ts'])})")
     return "\n".join(out)
-def trecho(txt, n=8):
+def trecho(txt, n=8, tipo=None):
     q = " OR ".join(w for w in re.findall(r"\w+", txt) if len(w) > 3)
     out = []
-    for r in c.execute("select t.video_id, t.t, t.texto from trechos_fts f join trechos t on t.id=f.rowid where trechos_fts match ? order by rank limit ?", (q, n)):
+    for r in c.execute("select t.video_id, t.t, t.texto from trechos_fts f join trechos t on t.id=f.rowid join videos v on v.id=t.video_id where trechos_fts match ? and (? is null or v.tipo=?) order by rank limit ?", (q, tipo, tipo, n)):
         m = c.execute("select numero, data from reunioes where video_id=?", (r["video_id"],)).fetchone()
-        rot = f"RD {m['numero']} ({m['data']})" if m else r["video_id"]
+        vd = c.execute("select titulo, tipo from videos where id=?", (r["video_id"],)).fetchone()
+        rot = f"RD {m['numero']} ({m['data']})" if m else f"{vd['tipo']}: {vd['titulo'][:60]}"
         out.append(f"- **{rot}** · [{r['t']//3600}:{r['t']%3600//60:02d}:{r['t']%60:02d}](https://www.youtube.com/watch?v={r['video_id']}&t={r['t']}s) — «{r['texto'][:330]}…»")
     return "\n".join(out) or "nada encontrado"
 def busca(txt):
@@ -76,7 +77,11 @@ if __name__ == "__main__":
     if not a: print(__doc__); sys.exit()
     if a[0] == "perfil": print(perfil(a[1], a[a.index("--tema") + 1] if "--tema" in a else None))
     elif a[0] == "tema": print(tema(a[1]))
-    elif a[0] == "trecho": print(trecho(" ".join(a[1:])))
+    elif a[0] == "trecho":
+        tp = a[a.index("--tipo") + 1] if "--tipo" in a else None
+        print(trecho(" ".join(w for i, w in enumerate(a[1:], 1) if w != "--tipo" and a[i - 1] != "--tipo"), tipo=tp))
+    elif a[0] == "mandatos":
+        for m in c.execute("select * from mandatos"): print(f"- {m['diretor']} · {m['cargo']} · {m['inicio'] or '?'} → {m['fim'] or 'atual'} · {m['situacao']} · confiança {m['confianca']} · fonte: {m['fonte']}")
     elif a[0] == "busca": print(busca(" ".join(a[1:])))
     elif a[0] == "temas": print(c.execute("select tema, count(*) from item_temas group by 1 order by 2 desc").fetchall())
     elif a[0] == "diretores": print([r[0] for r in c.execute("select distinct diretor from votos")])
