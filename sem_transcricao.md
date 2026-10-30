@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **113** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/participativa: 1; 2023/participativa: 1; 2023/diretoria: 1; 2023/audiencia: 10; 2022/participativa: 3; 2022/diretoria: 1; 2022/audiencia: 12; 2021/diretoria: 1; 2021/audiencia: 9; 2020/participativa: 1; 2020/diretoria: 1; 2020/audiencia: 11; 2019/diretoria: 41; 2019/audiencia: 12; 2018/audiencia: 4
+Total: **101** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/participativa: 1; 2023/participativa: 1; 2023/diretoria: 1; 2023/audiencia: 10; 2022/participativa: 3; 2022/diretoria: 1; 2022/audiencia: 12; 2021/diretoria: 1; 2021/audiencia: 9; 2020/participativa: 1; 2020/audiencia: 11; 2019/diretoria: 30; 2019/audiencia: 12; 2018/audiencia: 4
 
 - 2026-09-28 · diretoria · Board Meeting No. 1042 - 09/28/2026 · https://www.youtube.com/watch?v=6A8-zT0Sipw · **transcrição sem fala útil (760 caracteres; só música/ruído)**
 - 2026-07-09 · audiencia · Audiência Pública nº 006/2019 · https://www.youtube.com/watch?v=zCaMJGMlTns · **legenda desativada/inexistente no YouTube**
@@ -58,20 +58,8 @@ Total: **113** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/p
 - 2020-02-03 · audiencia · Transmissão da Audiência Pública nº 18/2019 - Angra dos Reis - 03/02/2020 · https://www.youtube.com/watch?v=QQpOBRzimL4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-01-17 · audiencia · Transmissão da Audiência Pública nº 18/2019 - 17/01/2020 (SP) · https://www.youtube.com/watch?v=lLxfBKQZVu4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-01-15 · audiencia · Transmissão da Audiência Pública nº 18/2019 - 15/01/2020 (RJ) · https://www.youtube.com/watch?v=s-iWGCebZpE · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-01-14 · diretoria · Transmissão da 841ª Reunião de Diretoria - 14/01/2020 · https://www.youtube.com/watch?v=bJMyPYl26qE · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-01-13 · audiencia · Transmissão da Audiência Pública nº 18/2019 - 13/01/2020 · https://www.youtube.com/watch?v=WyLu6wXX-jU · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-12-19 · diretoria · Transmissão da 64ª Reunião Extraordinária de Diretoria - 19/12/2019 · https://www.youtube.com/watch?v=5Pdwi_izh8Q · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-12-17 · diretoria · Transmissão da 840ª Reunião de Diretoria - 17/12/2019 · https://www.youtube.com/watch?v=g9pWxYnVrPA · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-12-11 · diretoria · Transmissão da 839ª Reunião de Diretoria - 11/12/2019 · https://www.youtube.com/watch?v=7gL6wMFBa0w · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-12-03 · diretoria · Transmissão da 838ª Reunião de Diretoria - 03/12/2019 · https://www.youtube.com/watch?v=uvRp5oExIss · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-11-26 · diretoria · Transmissão da 837ª Reunião de Diretoria - 26/11/2019 · https://www.youtube.com/watch?v=3O5viqLvwtg · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-11-21 · diretoria · Transmissão da 836ª Reunião de Diretoria - 21/11/2019 · https://www.youtube.com/watch?v=mCZnsrgrMFE · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-11-12 · diretoria · Transmissão da 835ª Reunião de Diretoria  - 12/11/2019 · https://www.youtube.com/watch?v=NM39E2nZvAs · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-11-05 · diretoria · Transmissão da 834ª Reunião de Diretoria - 05/11/2019 · https://www.youtube.com/watch?v=jtaSxDPBkcE · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-10-31 · audiencia · Audiência Pública nº 015/2019 -  Itaituba (PA) · https://www.youtube.com/watch?v=KwWonrJVGWs · **legenda desativada/inexistente no YouTube**
-- 2019-10-30 · diretoria · Transmissão da 833ª Reunião de Diretoria - 30/10/2019 · https://www.youtube.com/watch?v=Ie5Fnfu5VQI · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-10-22 · diretoria · Transmissão da 832ª Reunião de Diretoria - 22/10/2019 · https://www.youtube.com/watch?v=tDrIVnhMZBo · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-10-15 · diretoria · Transmissão da 831ª Reunião de Diretoria - 15/10/2019 · https://www.youtube.com/watch?v=usWpMZO6DMc · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-10-08 · diretoria · Transmissão da 830ª Reunião de Diretoria - 08/10/2019 · https://www.youtube.com/watch?v=NBtijM4b-LE · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-10-03 · audiencia · Transmissão da Audiência Pública nº 015/2019 - Brasília (DF) 03/10/2019 · https://www.youtube.com/watch?v=ABDzAE1h8lE · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-10-03 · audiencia · Audiência Pública nº014/17 - Novo Progresso (PA) · https://www.youtube.com/watch?v=y8ZKKGxihg0 · **legenda desativada/inexistente no YouTube**

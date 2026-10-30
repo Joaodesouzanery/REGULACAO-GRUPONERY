@@ -27,9 +27,9 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 | 2021 | diretoria | 42 | 41 | 0 |
 | 2021 | audiencia | 26 | 17 | 0 |
 | 2020 | participativa | 2 | 1 | 0 |
-| 2020 | diretoria | 45 | 44 | 0 |
+| 2020 | diretoria | 45 | 45 | 0 |
 | 2020 | audiencia | 14 | 3 | 0 |
-| 2019 | diretoria | 43 | 2 | 0 |
+| 2019 | diretoria | 43 | 13 | 0 |
 | 2019 | audiencia | 34 | 22 | 0 |
 | 2018 | participativa | 9 | 9 | 0 |
 | 2018 | audiencia | 15 | 12 | 0 |
@@ -250,6 +250,18 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 - 2020-02-04 · Transmissão da 844ª Reunião de Diretoria - 04/02/2020 · `5H2Ghxo8L9k`
 - 2020-01-28 · 886ª Reunião de Diretoria da ANTT - 28/01/2020 · `3LVmgqbrUNY`
 - 2020-01-21 · Transmissão da 842ª Reunião de Diretoria - 21/01/2020 · `AQtsEWWAzts`
+- 2020-01-14 · Transmissão da 841ª Reunião de Diretoria - 14/01/2020 · `bJMyPYl26qE`
+- 2019-12-19 · Transmissão da 64ª Reunião Extraordinária de Diretoria - 19/12/2019 · `5Pdwi_izh8Q`
+- 2019-12-17 · Transmissão da 840ª Reunião de Diretoria - 17/12/2019 · `g9pWxYnVrPA`
+- 2019-12-11 · Transmissão da 839ª Reunião de Diretoria - 11/12/2019 · `7gL6wMFBa0w`
+- 2019-12-03 · Transmissão da 838ª Reunião de Diretoria - 03/12/2019 · `uvRp5oExIss`
+- 2019-11-26 · Transmissão da 837ª Reunião de Diretoria - 26/11/2019 · `3O5viqLvwtg`
+- 2019-11-21 · Transmissão da 836ª Reunião de Diretoria - 21/11/2019 · `mCZnsrgrMFE`
+- 2019-11-12 · Transmissão da 835ª Reunião de Diretoria  - 12/11/2019 · `NM39E2nZvAs`
+- 2019-11-05 · Transmissão da 834ª Reunião de Diretoria - 05/11/2019 · `jtaSxDPBkcE`
+- 2019-10-30 · Transmissão da 833ª Reunião de Diretoria - 30/10/2019 · `Ie5Fnfu5VQI`
+- 2019-10-22 · Transmissão da 832ª Reunião de Diretoria - 22/10/2019 · `tDrIVnhMZBo`
+- 2019-10-15 · Transmissão da 831ª Reunião de Diretoria - 15/10/2019 · `usWpMZO6DMc`
 - 2019-07-22 · Transmissão da 63ª  Reunião Extraordinária de Diretoria · `tVr3sqGXaIg`
 - 2019-06-13 · 62ª Reunião Extraordinária de Diretoria · `ifXiMh49mdg`
 
