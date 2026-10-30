@@ -24,7 +24,7 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 | 2022 | diretoria | 33 | 32 | 0 |
 | 2022 | audiencia | 28 | 17 | 0 |
 | 2021 | participativa | 9 | 9 | 0 |
-| 2021 | diretoria | 42 | 13 | 0 |
+| 2021 | diretoria | 42 | 25 | 0 |
 | 2021 | audiencia | 26 | 17 | 0 |
 | 2020 | participativa | 2 | 1 | 0 |
 | 2020 | diretoria | 45 | 0 | 0 |
@@ -177,8 +177,20 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 - 2021-09-09 · Transmissão ao vivo da 916ª Reunião de Diretoria da ANTT - 09/09/2021 · `qBHo290jUds`
 - 2021-08-31 · Transmissão ao vivo da 915ª Reunião de Diretoria da ANTT - 31/08/2021 · `MjnHHA-UHiw`
 - 2021-08-24 · Transmissão ao vivo da 914ª Reunião de Diretoria da ANTT -  24/08/2021 · `vO71AMKlMQ0`
+- 2021-08-17 · Transmissão ao vivo da 913ª Reunião de Diretoria da ANTT -  17/08/2021 · `M3Oooch06TQ`
+- 2021-08-10 · Transmissão ao vivo da 912ª Reunião de Diretoria da ANTT -  10/08/2021 · `iZ2_qX-t-6Q`
+- 2021-08-03 · Transmissão ao vivo da 911ª Reunião de Diretoria da ANTT -  03/08/2021 · `aMM9bZSp6XI`
+- 2021-07-20 · 910ª REUNIÃO DE DIRETORIA DA ANTT -  20/07/2021 · `_8kPx2qM4kg`
+- 2021-07-13 · 909ª REUNIÃO DE DIRETORIA DA ANTT -  13/07/2021 · `oBi-J784BDA`
+- 2021-07-06 · 908ª REUNIÃO DE DIRETORIA DA ANTT -  06/07/2021 · `Mtl4FThOTr8`
+- 2021-06-29 · 907ª REUNIÃO DE DIRETORIA DA ANTT -  29/06/2021 · `blOL4WURQD0`
 - 2021-06-22 · Transmissão ao vivo da 906ª Reunião de Diretoria da ANTT · `EdMj6bhyq-M`
+- 2021-06-15 · 905ª REUNIÃO DE DIRETORIA DA ANTT -  15/06/2021 · `aFnFR7eFh6o`
+- 2021-06-01 · 903ª REUNIÃO DE DIRETORIA DA ANTT -  01/06/2021 · `9h87ZNIUz8s`
+- 2021-05-25 · 902ª REUNIÃO DE DIRETORIA DA ANTT -  25/05/2021 · `PsO2Rk6k2Cc`
+- 2021-05-18 · 901ª REUNIÃO DE DIRETORIA DA ANTT -  18/05/2021 · `LlN-qKuCLyE`
+- 2021-05-11 · 900ª REUNIÃO DE DIRETORIA DA ANTT -  11/05/2021 · `L0gqTrnmc4w`
 - 2019-07-22 · Transmissão da 63ª  Reunião Extraordinária de Diretoria · `tVr3sqGXaIg`
 - 2019-06-13 · 62ª Reunião Extraordinária de Diretoria · `ifXiMh49mdg`
 
-Vídeos sem legenda registrados: 366 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 367 (ver `data/sem_legenda.jsonl`).
