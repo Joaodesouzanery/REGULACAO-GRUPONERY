@@ -27,7 +27,7 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 | 2021 | diretoria | 42 | 41 | 0 |
 | 2021 | audiencia | 26 | 17 | 0 |
 | 2020 | participativa | 2 | 1 | 0 |
-| 2020 | diretoria | 45 | 32 | 0 |
+| 2020 | diretoria | 45 | 44 | 0 |
 | 2020 | audiencia | 14 | 3 | 0 |
 | 2019 | diretoria | 43 | 2 | 0 |
 | 2019 | audiencia | 34 | 22 | 0 |
@@ -238,6 +238,18 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 - 2020-05-19 · 856ª Reunião de Diretoria da ANTT - 19/05/2020 · `mjm6V4571wA`
 - 2020-05-12 · 855ª Reunião de Diretoria da ANTT - 12/05/2020 · `QSiJxkgnNRE`
 - 2020-05-05 · 854ª Reunião de Diretoria da ANTT - 05/05/2020 · `5Wuych4chNY`
+- 2020-04-28 · 853ª Reunião de Diretoria da ANTT - 28/04/2020 · `sVbD7HT9Ms0`
+- 2020-04-14 · 852ª Reunião de Diretoria da ANTT - 14/04/2020 · `cgsrOI4Uxoo`
+- 2020-04-07 · 851ª Reunião de Diretoria da ANTT - 07/04/2020 · `185j9FgJSfw`
+- 2020-03-31 · 850ª Reunião de Diretoria da ANTT - 31/03/2020 · `DqfYKnR7JBg`
+- 2020-03-24 · 849ª Reunião de Diretoria da ANTT - 24/03/2020 · `0TNHuq9u9XE`
+- 2020-03-10 · Transmissão da 848ª  Reunião de Diretoria da ANTT - 10/03/2020 · `h231NmlBFOE`
+- 2020-03-03 · Transmissão da 847ª Reunião de Diretoria  - 03/03/2020 · `YHufn0EJk5g`
+- 2020-02-18 · Transmissão da 846ª Reunião de Diretoria  - 18/02/2020 · `U0XA7rHQ4tw`
+- 2020-02-11 · Transmissão da 845ª Reunião de Diretoria - 11/02/2020 · `NJFwst6GRTI`
+- 2020-02-04 · Transmissão da 844ª Reunião de Diretoria - 04/02/2020 · `5H2Ghxo8L9k`
+- 2020-01-28 · 886ª Reunião de Diretoria da ANTT - 28/01/2020 · `3LVmgqbrUNY`
+- 2020-01-21 · Transmissão da 842ª Reunião de Diretoria - 21/01/2020 · `AQtsEWWAzts`
 - 2019-07-22 · Transmissão da 63ª  Reunião Extraordinária de Diretoria · `tVr3sqGXaIg`
 - 2019-06-13 · 62ª Reunião Extraordinária de Diretoria · `ifXiMh49mdg`
 

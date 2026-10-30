@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **125** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/participativa: 1; 2023/participativa: 1; 2023/diretoria: 1; 2023/audiencia: 10; 2022/participativa: 3; 2022/diretoria: 1; 2022/audiencia: 12; 2021/diretoria: 1; 2021/audiencia: 9; 2020/participativa: 1; 2020/diretoria: 13; 2020/audiencia: 11; 2019/diretoria: 41; 2019/audiencia: 12; 2018/audiencia: 4
+Total: **113** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/participativa: 1; 2023/participativa: 1; 2023/diretoria: 1; 2023/audiencia: 10; 2022/participativa: 3; 2022/diretoria: 1; 2022/audiencia: 12; 2021/diretoria: 1; 2021/audiencia: 9; 2020/participativa: 1; 2020/diretoria: 1; 2020/audiencia: 11; 2019/diretoria: 41; 2019/audiencia: 12; 2018/audiencia: 4
 
 - 2026-09-28 · diretoria · Board Meeting No. 1042 - 09/28/2026 · https://www.youtube.com/watch?v=6A8-zT0Sipw · **transcrição sem fala útil (760 caracteres; só música/ruído)**
 - 2026-07-09 · audiencia · Audiência Pública nº 006/2019 · https://www.youtube.com/watch?v=zCaMJGMlTns · **legenda desativada/inexistente no YouTube**
@@ -52,22 +52,10 @@ Total: **125** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/p
 - 2020-11-26 · audiencia · Pílulas de Governança Regulatória - O que é uma Audiência Pública · https://www.youtube.com/watch?v=0dNGuXsG_dc · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-07-29 · audiencia · Audiência Pública nº 001/2020 - 29/07/2020 · https://www.youtube.com/watch?v=yj-DmleUWF4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-06-25 · audiencia · Transmissão da Audiência Pública nº 2/2020 - 25/06/2020 · https://www.youtube.com/watch?v=26WlrkbGNKA · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-04-28 · diretoria · 853ª Reunião de Diretoria da ANTT - 28/04/2020 · https://www.youtube.com/watch?v=sVbD7HT9Ms0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-04-14 · diretoria · 852ª Reunião de Diretoria da ANTT - 14/04/2020 · https://www.youtube.com/watch?v=cgsrOI4Uxoo · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-04-07 · diretoria · 851ª Reunião de Diretoria da ANTT - 07/04/2020 · https://www.youtube.com/watch?v=185j9FgJSfw · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-03-31 · diretoria · 850ª Reunião de Diretoria da ANTT - 31/03/2020 · https://www.youtube.com/watch?v=DqfYKnR7JBg · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-03-24 · diretoria · 849ª Reunião de Diretoria da ANTT - 24/03/2020 · https://www.youtube.com/watch?v=0TNHuq9u9XE · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-03-10 · diretoria · Transmissão da 848ª  Reunião de Diretoria da ANTT - 10/03/2020 · https://www.youtube.com/watch?v=h231NmlBFOE · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-03-03 · diretoria · Transmissão da 847ª Reunião de Diretoria  - 03/03/2020 · https://www.youtube.com/watch?v=YHufn0EJk5g · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-02-18 · diretoria · Transmissão da 846ª Reunião de Diretoria  - 18/02/2020 · https://www.youtube.com/watch?v=U0XA7rHQ4tw · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-02-11 · diretoria · Transmissão da 845ª Reunião de Diretoria - 11/02/2020 · https://www.youtube.com/watch?v=NJFwst6GRTI · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-02-06 · audiencia · Transmissão da Audiência Pública nº 18/2019 - Guarulhos - 06/02/2020 · https://www.youtube.com/watch?v=_Y5fT_tB6FI · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-02-05 · audiencia · Transmissão da Audiência Pública nº 18/2019 - São José dos Campos - 05/02/2020 · https://www.youtube.com/watch?v=vXlzu5NZ2fw · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-02-04 · audiencia · Transmissão da Audiência Pública nº 18/2019 - Volta Redonda - 04/02/2020 · https://www.youtube.com/watch?v=8xZ3oOMmnYc · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-02-04 · diretoria · Transmissão da 844ª Reunião de Diretoria - 04/02/2020 · https://www.youtube.com/watch?v=5H2Ghxo8L9k · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-02-03 · audiencia · Transmissão da Audiência Pública nº 18/2019 - Angra dos Reis - 03/02/2020 · https://www.youtube.com/watch?v=QQpOBRzimL4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-01-28 · diretoria · 886ª Reunião de Diretoria da ANTT - 28/01/2020 · https://www.youtube.com/watch?v=3LVmgqbrUNY · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-01-21 · diretoria · Transmissão da 842ª Reunião de Diretoria - 21/01/2020 · https://www.youtube.com/watch?v=AQtsEWWAzts · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-01-17 · audiencia · Transmissão da Audiência Pública nº 18/2019 - 17/01/2020 (SP) · https://www.youtube.com/watch?v=lLxfBKQZVu4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-01-15 · audiencia · Transmissão da Audiência Pública nº 18/2019 - 15/01/2020 (RJ) · https://www.youtube.com/watch?v=s-iWGCebZpE · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-01-14 · diretoria · Transmissão da 841ª Reunião de Diretoria - 14/01/2020 · https://www.youtube.com/watch?v=bJMyPYl26qE · **ainda não baixado (rodar a coleta no Mac)**
