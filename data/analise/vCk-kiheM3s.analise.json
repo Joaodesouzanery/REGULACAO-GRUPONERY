@@ -1,0 +1,71 @@
+{
+  "meta": {"video_id": "vCk-kiheM3s", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:22); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1028", "data": "2026-03-12", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alex Azevedo", "Alessandro Baumgarten"],
+    "ausentes": [],
+    "observacoes": ["Encerrada às 10h14 de 12/03/2026; 4 deliberações unânimes.", "Felipe Queiroz retirou seu único item (1.2.1, recurso/encerramento de comissão processante da Aviação Novo Horizonte Ltda., proc. 50500.170360/2024-91).", "Sessão marcada por homenagens: aniversário do Procurador-Geral Rafael Fortunato e Dia Internacional da Mulher (Alex Azevedo)."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:23:27",
+      "processo": "50500.012154/2026-29", "interessado": "Rota Sertaneja MG/GO S.A.",
+      "assunto": "Reajuste da TBP e início da cobrança de pedágio nas praças P1 Piracanjuba, P2 Itumbiara, P3 Prata, P4 Fronteira e P5 Campo Florido (BR-153/262, GO/MG)",
+      "tema": ["concessões rodoviárias", "pedágio"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Termo de vistoria atesta a capacidade operacional; plano de 100 dias apresentado em 02/03/2026; reajuste de 11,44% da TBP (IPCA jan/2026 sobre maio/2023); tarifas categoria 1: R$ 15,60 (P1), R$ 14,90 (P2), R$ 13,20 (P3), R$ 12,00 (P4) e R$ 14,20 (P5). Transição da Concebra para o grupo novo, com investimentos imediatos.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova", "ts": "0:23:27", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "concorda integralmente; destaca o plano de 100 dias como inovação de comunicação com a sociedade", "ts": "0:29:34", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:31:29", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente; realça o plano de 100 dias para mostrar ao usuário a importância dos investimentos", "ts": "0:32:11", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha integralmente; sugere rotina de acompanhamento do plano de 100 dias pela SUROD com comunicação pública do cumprimento", "ts": "0:33:17", "justificativa": "dar força à cobrança que se inicia", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "0:33:56",
+      "processo": "50500.031815/2025-34", "interessado": "Via Campo Concessionária de Rodovias S.A. (Rodovias Integradas do Paraná, Lote 5)",
+      "assunto": "Emissão do ato de outorga e autorização para assinar o contrato de concessão do Lote 5 (BR-163/369/467 e PR-158/317/467/977/978), edital 3/2025",
+      "tema": ["concessões rodoviárias", "leilão"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Resultado do leilão já homologado (vencedora Reúne Rodovias Holding 2 S.A.); constituição da SPE, capital integralizado, garantias e apólices conformes; comissão de outorga e relatório à diretoria 81/2026 favoráveis.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "0:34:30", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "adesão integral; elogia a concisão do voto e homenageia o Procurador-Geral", "ts": "0:37:40", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "de acordo com o relator", "ts": "0:40:34", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "0:40:39", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.4.1", "ts": "0:40:46",
+      "processo": "50500.028331/2021-68", "interessado": "Ferrovia Transnordestina Logística S.A. (FTL)",
+      "assunto": "14º termo aditivo ao contrato de arrendamento 71/97 (DNIT/FTL, com interveniência da ANTT): desativação e devolução de 13,466 km na área urbana de Arapiraca/AL (linha Tronco Sul Recife) para implantar VLT",
+      "tema": ["ferrovias", "concessão ferroviária"],
+      "relator": "Alex Azevedo", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Trecho sem tráfego há mais de 10 anos por danos de enchentes (2000 e 2010); requisitos do art. 15 da Lei 14.273/2021 atendidos; estudo de destinação dispensado porque a destinação (VLT de Arapiraca) já foi definida pelo Ministério dos Transportes (Portaria MT 386/2024); indenização apurada depois pelo DNIT (relatório de inspeção 14), considerando força maior; faixa de domínio deve ser entregue livre de ocupações.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, aprova", "ts": "0:41:42", "justificativa": "mobilidade urbana, transporte ferroviário de passageiros no Nordeste e uso das áreas pelos municípios", "tom": "entusiasta do tema", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator; destaca multimodalidade e vocação para passageiros", "ts": "0:56:39", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha na íntegra", "ts": "0:58:32", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator; devolução de trechos aos municípios é fundamental para mobilidade urbana", "ts": "0:59:23", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.4.2", "ts": "1:00:18",
+      "processo": "50500.080487/2024-19", "interessado": "Concessionária de Rodovias do Sul S.A. (Ecosul)",
+      "assunto": "Análise conclusiva do cumprimento do TAC multas (firmado em 29/02/2024; obras do anexo B em substituição a multas) e arquivamento dos processos sancionadores vinculados",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Alex Azevedo", "resultado": "aprovado por unanimidade — obrigações declaradas cumpridas e extintas",
+      "resumo_voto": "Relator pediu complementação à SUROD sobre como foram validados os percentuais de execução (se só por documentos da concessionária ou com vistoria em campo); a CORROD juntou fotos, relatórios da supervisora INTAF e termos de encerramento, mostrando fiscalização presencial contínua do escritório de Pelotas/RS; declara o cumprimento integral (art. 18 da Res. 5823/2018).",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, declara cumprido o TAC", "ts": "1:00:18", "justificativa": "robustez probatória e rastreabilidade técnica; transparência processual", "tom": "cuidadoso, exige evidência", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "1:12:33", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha; destaca o TAC como conversão de multas em investimento", "ts": "1:12:49", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha; observa que o contrato da Ecosul se encerrou na semana anterior e o processo ajuda a concluir a concessão", "ts": "1:13:08", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [{"item": "1.2.1 — Aviação Novo Horizonte Ltda. (encerramento de comissão processante, proc. 50500.170360/2024-91)", "relator": "Felipe Queiroz", "motivo": "retirado pelo relator (motivo não detalhado)", "ts": "0:23:04"}],
+  "limites_da_analise": ["Legenda automática: números de processo parciais; nomes de empresas distorcidos (Ecosul grafada Ecossul/Eovia Sul).", "A identidade do relator do item retirado 1.2.1 deduzida pelo comentário final do DG (Felipe Queiroz)."]
+}
