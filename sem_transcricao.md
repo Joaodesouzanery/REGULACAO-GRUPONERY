@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **245** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/participativa: 1; 2023/participativa: 1; 2023/diretoria: 19; 2023/audiencia: 10; 2022/participativa: 3; 2022/diretoria: 31; 2022/audiencia: 12; 2021/diretoria: 41; 2021/audiencia: 9; 2020/participativa: 1; 2020/diretoria: 45; 2020/audiencia: 11; 2019/diretoria: 41; 2019/audiencia: 12; 2018/audiencia: 4
+Total: **233** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/participativa: 1; 2023/participativa: 1; 2023/diretoria: 7; 2023/audiencia: 10; 2022/participativa: 3; 2022/diretoria: 31; 2022/audiencia: 12; 2021/diretoria: 41; 2021/audiencia: 9; 2020/participativa: 1; 2020/diretoria: 45; 2020/audiencia: 11; 2019/diretoria: 41; 2019/audiencia: 12; 2018/audiencia: 4
 
 - 2026-09-28 · diretoria · Board Meeting No. 1042 - 09/28/2026 · https://www.youtube.com/watch?v=6A8-zT0Sipw · **transcrição sem fala útil (760 caracteres; só música/ruído)**
 - 2026-07-09 · audiencia · Audiência Pública nº 006/2019 · https://www.youtube.com/watch?v=zCaMJGMlTns · **legenda desativada/inexistente no YouTube**
@@ -14,23 +14,11 @@ Total: **245** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/p
 - 2023-10-02 · audiencia · Sobre a Audiência Pública nº 10/2023 · https://www.youtube.com/watch?v=rZj75GH0B5s · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-09-18 · audiencia · Audiência Pública nº 8/2023 - 18/9/2023 · https://www.youtube.com/watch?v=pCBGHIL-Yxk · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-08-29 · audiencia · Audiência Pública nº 7/2023 - 29/8/2023 · https://www.youtube.com/watch?v=IxbU5JGGJX0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-08-29 · diretoria · 79ª Reunião Extraordinária de Diretoria - 29/8/2023 · https://www.youtube.com/watch?v=-JMcN97p7fs · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-08-17 · diretoria · 963ª Reunião de Diretoria - 17/8/2023 · https://www.youtube.com/watch?v=gHtXTxOWagI · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-08-08 · audiencia · Audiência Pública nº 6/2023 - 8/8/2023 · https://www.youtube.com/watch?v=N2_2LdNEUPA · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-08-03 · diretoria · 962ª Reunião de Diretoria - 3/8/2023 · https://www.youtube.com/watch?v=VWrJuw_pj9c · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-08-01 · audiencia · Audiência Pública nº 6/2022 - 1/8/2023 · https://www.youtube.com/watch?v=W5HT_Bdm46E · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-07-20 · diretoria · 961ª Reunião de Diretoria - 20/7/2023 · https://www.youtube.com/watch?v=zV1cOhU21bk · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-07-06 · diretoria · 960ª Reunião de Diretoria - 6/7/2023 · https://www.youtube.com/watch?v=DwgBVKxy9Uw · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-06-22 · diretoria · 959ª Reunião de Diretoria - 22/6/2023 · https://www.youtube.com/watch?v=lDeW01HYX8Q · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-06-07 · diretoria · 958ª Reunião de Diretoria - 7/6/2023 · https://www.youtube.com/watch?v=6CjKqEHMaEU · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-05-24 · diretoria · 957ª Reunião de Diretoria - 24/5/2023 · https://www.youtube.com/watch?v=QkT0LtVw1qY · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-05-11 · diretoria · 956ª Reunião de Diretoria - 11/5/2023 · https://www.youtube.com/watch?v=iczBBFrwdCU · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-05-03 · audiencia · Audiência Pública nº 5/2023 - 3/5/2023 · https://www.youtube.com/watch?v=Jcxhs5RowD0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-04-27 · audiencia · Sobre a Audiência Pública nº 04/2023 · https://www.youtube.com/watch?v=xJ8BrHAN5pc · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-04-27 · diretoria · 955ª Reunião de Diretoria - 27/4/2023 · https://www.youtube.com/watch?v=IPO0UDqZLhk · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-04-26 · audiencia · Audiência Pública nº 05/2023 - Sessão Pública Campo Grande/MS - 26/04/2023 · https://www.youtube.com/watch?v=9KqmMWSSyLg · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-04-18 · diretoria · Transmissão ao vivo da 78ª Reunião Extraordinária de Diretoria - 18/4/2023 · https://www.youtube.com/watch?v=rx-sNKQ90Jk · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-04-12 · diretoria · Transmissão ao vivo da 954ª Reunião de Diretoria da ANTT - 12/4/2023 · https://www.youtube.com/watch?v=Fb7F4SXMhrU · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-03-30 · diretoria · Transmissão ao vivo da 953ª Reunião de Diretoria da ANTT - 30/3/2023 · https://www.youtube.com/watch?v=HNl8PagFcCc · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-03-20 · audiencia · Sobre a Audiência Pública n⁰ 03/2023 · https://www.youtube.com/watch?v=2jcsEg1Ewtg · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-03-16 · diretoria · Transmissão ao vivo da 952ª Reunião de Diretoria da ANTT - 16/3/2023 · https://www.youtube.com/watch?v=dTg6ulnbBvM · **ainda não baixado (rodar a coleta no Mac)**

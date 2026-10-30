@@ -18,7 +18,7 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 | 2024 | diretoria | 31 | 31 | 0 |
 | 2024 | audiencia | 10 | 10 | 0 |
 | 2023 | participativa | 4 | 3 | 0 |
-| 2023 | diretoria | 30 | 11 | 0 |
+| 2023 | diretoria | 30 | 23 | 0 |
 | 2023 | audiencia | 25 | 15 | 0 |
 | 2022 | participativa | 5 | 2 | 0 |
 | 2022 | diretoria | 33 | 2 | 0 |
@@ -115,6 +115,18 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 - 2023-09-14 · 965ª Reunião de Diretoria - 14/9/2023 · `oXHjEvN4wz8`
 - 2023-09-06 · 80ª Reunião Extraordinária de Diretoria - 6/9/2023 · `gw2fw05g5Mc`
 - 2023-08-31 · 964ª Reunião de Diretoria - 31/8/2023 · `ZFIKmP4URxc`
+- 2023-08-29 · 79ª Reunião Extraordinária de Diretoria - 29/8/2023 · `-JMcN97p7fs`
+- 2023-08-17 · 963ª Reunião de Diretoria - 17/8/2023 · `gHtXTxOWagI`
+- 2023-08-03 · 962ª Reunião de Diretoria - 3/8/2023 · `VWrJuw_pj9c`
+- 2023-07-20 · 961ª Reunião de Diretoria - 20/7/2023 · `zV1cOhU21bk`
+- 2023-07-06 · 960ª Reunião de Diretoria - 6/7/2023 · `DwgBVKxy9Uw`
+- 2023-06-22 · 959ª Reunião de Diretoria - 22/6/2023 · `lDeW01HYX8Q`
+- 2023-06-07 · 958ª Reunião de Diretoria - 7/6/2023 · `6CjKqEHMaEU`
+- 2023-05-24 · 957ª Reunião de Diretoria - 24/5/2023 · `QkT0LtVw1qY`
+- 2023-05-11 · 956ª Reunião de Diretoria - 11/5/2023 · `iczBBFrwdCU`
+- 2023-04-27 · 955ª Reunião de Diretoria - 27/4/2023 · `IPO0UDqZLhk`
+- 2023-04-18 · Transmissão ao vivo da 78ª Reunião Extraordinária de Diretoria - 18/4/ · `rx-sNKQ90Jk`
+- 2023-04-12 · Transmissão ao vivo da 954ª Reunião de Diretoria da ANTT - 12/4/2023 · `Fb7F4SXMhrU`
 - 2022-09-22 · 75ª Reunião Extraordinária de Diretoria · `Y1_YnBlXh00`
 - 2022-09-21 · Transmissão ao vivo da 940ª Reunião de Diretoria · `_4OA6Py0z3U`
 - 2021-06-22 · Transmissão ao vivo da 906ª Reunião de Diretoria da ANTT · `EdMj6bhyq-M`
