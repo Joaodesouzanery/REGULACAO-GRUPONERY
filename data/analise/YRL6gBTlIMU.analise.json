@@ -1,0 +1,99 @@
+{
+  "meta": {"video_id": "YRL6gBTlIMU", "fonte": "legenda automática do YouTube (título sem data; 19/01/2026 confirmada no encerramento: segunda-feira); falantes inferidos; ts = tempo do vídeo (sessão começa ~0:17); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1024", "data": "2026-01-19", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alex Azevedo", "Severino Medeiros (diretor; grafia da legenda; primeira sessão deliberativa)"],
+    "ausentes": [],
+    "observacoes": ["Primeira reunião pública de 2026; encerrada às 17h26 de 19/01/2026.", "Item extrapauta do Diretor-Geral (homologação do leilão da Fernão Dias) incluído com concordância dos demais.", "Lucas Asfor retirou o item 1.2.5 (proc. 50500.017831/2025-14) após ponderações de Felipe Queiroz; reincluído na RD 1025 de 29/01/2026.", "Guilherme Sampaio agradece Felipe Queiroz pela substituição durante suas férias (inclusive sessão extraordinária) e celebra a nomeação de 32 novos especialistas.", "6 deliberações, todas unânimes."]
+  },
+  "itens": [
+    {
+      "id": "extra-pauta-Fernao", "ts": "0:16:53",
+      "processo": "50500.033938/2025-18", "interessado": "Motiva Infraestrutura de Mobilidade S.A.",
+      "assunto": "Homologação do resultado do leilão do processo competitivo 4/2025 (alienação de 100% das ações da Autopista Fernão Dias, BR-381 MG/SP)",
+      "tema": ["concessões rodoviárias", "leilão / otimização"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Concessão de 569 km, 33 municípios, ≈ 250 mil veículos/dia; 116 contribuições na consulta pública 1/2025; três proponentes aptas; leilão em 11/12/2025; Motiva venceu com desconto de 17,05%; quarto processo competitivo da ANTT e o primeiro com concorrência efetiva.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, homologa", "ts": "0:18:41", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator; destaca o primeiro processo competitivo com concorrência real e o espaço para aprendizado", "ts": "0:22:09", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:22:52", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente", "ts": "0:22:59", "confianca": "alta"},
+        {"diretor": "Severino Medeiros", "voto": "acompanha integralmente; relata que foi seu primeiro leilão presencial na B3", "ts": "0:23:20", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.1", "ts": "0:23:45",
+      "processo": "50500.018209/2025-23", "interessado": "Superintendência de Sustentabilidade, Pessoas e Inovação (SUSP)",
+      "assunto": "Referendo da Deliberação 516/2025 (26/12/2025) que aprovou convênio com a GEAP para exames médicos periódicos dos servidores",
+      "tema": ["institucional"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — decisão ad referendum referendada",
+      "resumo_voto": "Felipe, como Diretor-Geral substituto, decidiu ad referendum pela urgência de cumprir a Lei 8.112/1990, o Decreto 6.856/2009 e a janela orçamentária de 2025; proposta da GEAP mais vantajosa que a da CEFA e convênio anterior exitoso; Procuradoria e conformidade orçamentária atestadas.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, pede referendo da sua própria decisão", "ts": "0:24:30", "justificativa": "obrigação legal, economicidade e qualidade de vida dos servidores", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "com o relator, referenda", "ts": "0:32:11", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "0:32:15", "confianca": "media"},
+        {"diretor": "Severino Medeiros", "voto": "acompanha o relator", "ts": "0:32:20", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; agradece a substituição de Felipe e celebra a nomeação de 32 novos especialistas", "ts": "0:32:25", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:33:50",
+      "processo": "50500.009383/2025", "interessado": "SUROC",
+      "assunto": "Relatório final da AP 8/2025 e revisão ordinária (8º ciclo) da Res. 5867/2020: pisos mínimos de frete (PNPM-TRC) com data-base dezembro/2025",
+      "tema": ["transporte rodoviário de cargas (piso mínimo do frete)", "regulação normativa"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Atualização semestral obrigatória; insumos corrigidos por IPCA, diesel, preço dos veículos e remuneração do capital; impacto médio moderado de ≈ 1,00% a 1,56% nos coeficientes.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "0:34:31", "justificativa": "cumprir o comando legal de atualização semestral; previsibilidade regulatória", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "0:38:29", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "0:38:42", "confianca": "media"},
+        {"diretor": "Severino Medeiros", "voto": "acompanha o relator; relata visita a campo com caminhoneiros no ponto de parada de Pindamonhangaba na semana", "ts": "0:38:46", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; elogia a área técnica pelo cumprimento dos prazos da política", "ts": "0:39:47", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "0:40:00",
+      "processo": "50478.019/2025-34", "interessado": "EPR Via Mineira S.A. (BR-040/MG, edital 4/2023)",
+      "assunto": "11º termo aditivo: delimitar o conceito de veículos isentos no mecanismo de compartilhamento do risco de demanda (anexo 13)",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Ajuste interpretativo e redacional: isenções originais já estão na modelagem e ficam fora do cálculo; entram os isentos por decisão judicial ou administrativa superveniente e os evasores (risco da concessionária). Concessionária e Procuradoria concordam.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "0:40:40", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha", "ts": "0:43:38", "confianca": "media"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "0:43:58", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.3", "ts": "0:44:00",
+      "processo": "50500.043686/2022-27", "interessado": "Autopista Planalto Sul S.A.",
+      "assunto": "5º termo aditivo: nova obrigação de contratar verificador e verba específica para os serviços de verificação (Res. 6000/2022)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Origem em cautelares da SUROD que impuseram a contratação; adoção de minuta padrão para contratos sem previsão; concordância da concessionária; Procuradoria sem óbices.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "0:44:32", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "0:47:38", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "0:47:43", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "0:47:49", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.4", "ts": "0:48:00",
+      "processo": "50500.007744/2025-75", "interessado": "EPR Via Mineira S.A. (BR-040/MG)",
+      "assunto": "Primeira revisão extraordinária da TBP, cronograma de investimentos e coeficientes (K, CAA) e descontos de reequilíbrio",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "pedágio"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Três pleitos de reequilíbrio: manutenção de 38 equipamentos de controle de velocidade já instalados, implantação e operação de 75 controladores em 142 faixas e contratação do verificador com verba de verificação; dois fluxos de caixa marginal com TIR de 9,87% a.a.; nova TBP de R$ 0,21/km, válida se a revisão extraordinária for implementada junto com a ordinária (data-base 06/02/2026).",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "0:48:32", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "0:52:30", "confianca": "media"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "0:52:40", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [{"item": "1.2.5 — proc. 50500.017831/2025-14", "relator": "Lucas Asfor", "motivo": "retirado após ponderações de Felipe Queiroz; reincluído na RD 1025 (29/01/2026)", "ts": "0:18:41"}],
+  "limites_da_analise": ["Legenda automática: números de processo parciais.", "Nome do diretor grafado Severino Medeiros; confirmar.", "Votos de Alex e Severino em itens curtos têm ts aproximado e confiança media."]
+}
