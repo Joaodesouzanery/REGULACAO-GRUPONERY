@@ -1,0 +1,144 @@
+{
+  "meta": {"video_id": "d2BF6usx0p8", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~1:33); ts de votos de seguidores aproximados. O item sigiloso (FTL, 1.3.1) foi julgado em sessão reservada fora da transmissão", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1025", "data": "2026-01-29", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alex Azevedo", "Severino Medeiros"],
+    "ausentes": [],
+    "observacoes": ["Parte pública encerrada às 17h52 de 29/01/2026 (sessão de ≈ 3h20); início atrasado por problemas procedimentais.", "Item 1.3.1 (solicitação de solução consensual da FTL/Transnordestina, relator Lucas Asfor) tramita sob sigilo e foi julgado ao final em sessão reservada, sem transmissão (IN CGU 14/2018, art. 48 do RI).", "Uma sustentação oral (Expresso Satélite Norte, no item 1.2.3) e um pedido de vista coletivo; no item 1.3.3 houve um voto parcialmente vencido de Alex Azevedo."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "1:33:41",
+      "processo": "50500.020646/2022-64", "interessado": "Superintendência de Sustentabilidade, Pessoas e Inovação (SUSP)",
+      "assunto": "Referendo da Resolução 6075/2026 (12/01/2026), que alterou a Res. 5977/2022 (estrutura organizacional) para adequar cargos comissionados aos limites orçamentários de 2026 (Lei 15.141/2025; sistema CIOG)",
+      "tema": ["institucional"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — decisão ad referendum do DG referendada",
+      "resumo_voto": "Descompasso entre a estrutura de cargos e o orçamento de 2026 exigiu readequação e eventual extinção de cargos para preservar o equilíbrio fiscal; ato publicado em 13/01/2026 com base no art. 58 do RI.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, referenda", "ts": "1:33:41", "justificativa": "urgência e equilíbrio fiscal", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "1:38:13", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:38:19", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "1:38:26",
+      "processo": "50500.017692/2024", "interessado": "Superintendência de Infraestrutura Rodoviária (SUROD)",
+      "assunto": "Instrução normativa que institui a política e os instrumentos de gestão de crises (incidentes que comprometem a integridade ou disponibilidade dos serviços e ativos regulados); voto-vista de Felipe Queiroz sobre voto de Lucas Asfor (DLA 117; deliberação eletrônica 247, set/2025)",
+      "tema": ["institucional", "regulação normativa", "sustentabilidade / clima"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade (voto-vista com ajuste fino)",
+      "resumo_voto": "Felipe, revisor, ajusta a competência do art. 24: quem subsidia o Comitê Gestor de Crise com monitoramento de eventos climáticos e mapeamento de riscos é a SUESP (governança, estratégia e informações), conforme o art. 28, XXIV do RI atual, e não a SUSP; elogia o voto original de Lucas e a institucionalização do comitê (já ativo há cerca de dois anos).",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "voto-vista: acompanha o relator com ajuste do art. 24", "ts": "1:39:27", "justificativa": "descasamento temporal com a mudança do regimento; consultas às áreas", "tom": "cuidadoso, institucional", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "de acordo com o ajuste fino do revisor", "ts": "1:45:01", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "de acordo", "ts": "1:45:23", "confianca": "media"},
+        {"diretor": "Severino Medeiros", "voto": "de acordo com os votos convergentes", "ts": "1:45:46", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "1:45:50", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "1:45:50",
+      "processo": "50500.065991/2025-70", "interessado": "Transnordestina Logística S.A. (TLSA)",
+      "assunto": "Homologação da tabela tarifária de referência da TLSA (primeiro reajuste/tabela nos termos do contrato de 2014, sem operação até agora) para o trecho São Miguel do Fidalgo/PI–Iguatu e Missão Velha/CE",
+      "tema": ["ferrovias", "concessão ferroviária", "tarifa / modicidade"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Pleito de 03/09/2025; operação iminente após a autorização de comissionamento e testes; infraestrutura de 676 km, CCO em Salgueiro, 28 locomotivas e 467 vagões, terminais (Piauí, Trindade, Missão Velha, Iguatu); fluxo previsto de ≈ 20 mil t/mês de grãos, 3 mil t/mês de gesso e 10 mil t/mês de gipsita; Procuradoria regular, com complementação feita pela SUFER. Fundamento na cláusula 10ª, §1º do contrato.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, homologa com alegria", "ts": "1:46:22", "justificativa": "evolução da infraestrutura do Nordeste; início da operação da ferrovia", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:52:19", "justificativa": "desenvolvimento da infraestrutura e da economia do país", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha; orgulho de a diretoria ter três nordestinos", "ts": "1:53:10", "confianca": "alta"},
+        {"diretor": "Severino Medeiros", "voto": "acompanha o relator", "ts": "1:53:49", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "1:54:23", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.3", "ts": "1:54:23",
+      "processo": "50500.046167/2021-97", "interessado": "Rio Novo Transportes e Turismo Ltda.",
+      "assunto": "Emissão de termos de autorização (linhas interestaduais) em cumprimento a decisão judicial (ação 1121473-76.2025.4.01.3400) que manda analisar o pedido pelo art. 226 §6º da Res. 6033/2023, e anulação da Deliberação 450/2023; sustentação oral do advogado do Expresso Satélite Norte",
+      "tema": ["ônibus (transporte regular, TAR)", "judicializacao"],
+      "relator": "Felipe Queiroz", "resultado": "vista coletiva concedida a pedido de Lucas Asfor (sem decisão)",
+      "resumo_voto": "Relator vota por cumprir a decisão de primeiro grau: emitir os termos de autorização, anular a Deliberação 450/2023 e, acolhendo ponderação do advogado, enviar os autos à Procuradoria, que pode levar a rever a posição. Sustentação oral nega tratamento não isonômico (Satélite Norte operava em 2024 e foi enquadrada no regime transitório até 11/11/2024; Rio Novo só iniciou operação em 2025) e invoca decisão do STF em suspensão de segurança 5714 que teria cassado a outorga anterior; pede conversão em diligência.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, cumpre a decisão judicial e remete à Procuradoria", "ts": "2:09:22", "justificativa": "judicializado; preferiria que a casa reguladora decidisse; parecer de força executória da Procuradoria", "tom": "ponderado, institucional", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "pede vista", "ts": "2:14:53", "justificativa": "dúvida sobre a preponderância entre decisão do STF e decisão posterior de primeiro grau; consciência jurídica não permite seguir sem convicção", "tom": "cauteloso", "confianca": "alta"},
+        {"diretor": "Severino Medeiros", "voto": "pede para participar da vista (em bloco); inclinado a seguir o relator, pois entende que a decisão vigente é a de primeiro grau (sem repercussão geral no STF)", "ts": "2:17:29", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "reconhece a ponderação do relator e a vista coletiva; também com dúvida jurídica", "ts": "2:19:35", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.3.2", "ts": "2:21:27",
+      "processo": "50500.018158/2025-34", "interessado": "EPR5 Participações S.A. (Lote 4 Paraná)",
+      "assunto": "Emissão do ato de outorga do leilão das Rodovias Integradas do Paraná, Lote 4 (edital 3/2025)",
+      "tema": ["concessões rodoviárias", "leilão"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Vencedor: Consórcio Infraestrutura PR; SPE constituída e capital integralizado; garantias e apólices conformes (SUROD); nota informativa 99/2026 e relatório à diretoria 29/2026 favoráveis.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "2:21:27", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator; destaca a agenda de concessões", "ts": "2:25:30", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente", "ts": "2:26:02", "confianca": "alta"},
+        {"diretor": "Severino Medeiros", "voto": "sigo com o relator", "ts": "2:26:35", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "2:26:57", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.3", "ts": "2:26:57",
+      "processo": "50500.007831/2025", "interessado": "SUCON",
+      "assunto": "Adequação das minutas de edital, contrato e anexos ao plano de outorga alterado pelo Ministério dos Transportes para a concessão Rota 2 de Julho (BR-324 e BR-116/BA) e envio ao TCU; inclui vedação de participação de empresas com caducidade e de signatárias de solução consensual no TCU (e suas controladoras, controladas, coligadas ou consorciadas)",
+      "tema": ["concessões rodoviárias", "leilão", "solução consensual", "judicializacao"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por maioria quanto às razões; unânime quanto à remessa ao TCU — Alex Azevedo vencido nas suas razões; item havia sido retirado de pauta na sessão anterior por dúvida de Felipe Queiroz",
+      "resumo_voto": "AP 2/2025 já concluída; mudança na política de outorga durante a aprovação foi inédita e exigiu reavaliação pela área técnica e Procuradoria, que reconheceu a competência do Ministério e a impossibilidade de rediscussão. Empresa interessada (ex-controladora da concessionária que saiu por acordo) contestou a vedação, alegando que na negociação poderia participar. Felipe sugeriu orientar a SUCON a dar atenção ao ponto nas tratativas com a área técnica do TCU em vez de pedir manifestação do Tribunal. Alex acompanhou a remessa mas discordou da vedação por não estar escrita no acordo.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova e envia ao TCU", "ts": "2:26:57", "justificativa": "não há inovação discricionária da ANTT, só adequação ao plano de outorga do Ministério; risco moral", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator; sugere orientação residual à SUCON para tratar o ponto com o TCU; defende prever a vedação expressamente em acordos futuros", "ts": "2:31:54", "justificativa": "preservar o risco moral sem violar o que foi negociado; ponto novo de procedimento", "tom": "analítico, aprendizado institucional", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "aprova a remessa ao TCU, mas diverge da vedação à empresa que saiu, por não constar do acordo; propõe que o TCU sinalize claramente; vencido nessas razões", "ts": "2:35:29", "justificativa": "o que não está escrito no acordo não pode ser imposto depois; segurança do instituto da negociação", "tom": "divergente, cortês", "confianca": "alta"},
+        {"diretor": "Severino Medeiros", "voto": "acompanha o relator", "ts": "2:37:51", "justificativa": "o edital não pode ser previsto por acordo anterior sob pena de violar a lei de licitações; o TCU analisa tudo", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente o relator, sem o complemento de Alex; determina registro em ata da posição vencida", "ts": "2:42:12", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.4", "ts": "2:49:05",
+      "processo": "50500.097072/2022-1", "interessado": "Ouvidoria",
+      "assunto": "Audiência pública (45 dias; sessão híbrida em 03/03/2026 em Brasília) para adequar a Res. 35/2010 (SAC) ao Decreto 11.034/2022",
+      "tema": ["institucional", "regulação normativa", "participação social"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Incompatibilidades identificadas pela Ouvidoria entre a Res. 35/2010 e o decreto do SAC; participação de SUPAS, SUFIS, SUFER e SUROD; convite à sociedade para contribuir.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "2:50:34", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "2:55:01", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente; foco no usuário", "ts": "2:55:43", "confianca": "alta"},
+        {"diretor": "Severino Medeiros", "voto": "acompanha integralmente", "ts": "2:57:01", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; elogia a Ouvidoria e a transparência ativa da ANTT", "ts": "2:57:35", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.4.1", "ts": "2:58:00",
+      "processo": "50500.036680/2025-11", "interessado": "Ecorio Minas Concessionária de Rodovias S.A. (edital 1/2022)",
+      "assunto": "5º termo aditivo para aprimorar o acompanhamento e a fiscalização do Desconto de Usuário Frequente (DUF), com glosa mensal de diferenças a favor do poder concedente (subcláusula 19.5.2)",
+      "tema": ["concessões rodoviárias", "pedágio", "reequilíbrio contratual"],
+      "relator": "Severino Medeiros", "resultado": "aprovado por unanimidade (com recomendação de relatório trimestral à diretoria)",
+      "resumo_voto": "Iniciativa da ANTT (jan/2025); a concessionária resistiu mas aceitou após tratativas; precedente: 8º aditivo da Ecovias do Araguaia (18/12/2024); hoje diferenças em favor da concessionária são compensadas mês a mês e as em favor do poder concedente esperam a revisão ordinária; usa dados primários de tráfego do SIR. Recomenda que a SUROD envie à diretoria, via gabinete do DG, relatório trimestral sintético.",
+      "votos": [
+        {"diretor": "Severino Medeiros", "voto": "relator, aprova com recomendação", "ts": "3:00:12", "justificativa": "reduz assimetria informacional, mitiga judicialização e evita passivos represados", "tom": "cauteloso, gestão de risco", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator; elogia a análise de risco e a recomendação adicional", "ts": "3:06:56", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha; destaca a qualidade e a precisão do voto", "ts": "3:08:05", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente; valoriza que diretores deixem recomendações às superintendências", "ts": "3:08:25", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha integralmente", "ts": "3:10:38", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.4.2", "ts": "3:10:38",
+      "processo": "50500.022617/2022-58", "interessado": "Ecovias do Cerrado S.A. (edital 1/2019)",
+      "assunto": "Autorização para a concessionária elaborar o EVTEA do Anel Viário Airton Senna (LMG-749, ≈ 11,5 km, Uberlândia/MG) para avaliar sua inclusão no contrato; custos recompostos por revisão extraordinária",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual"],
+      "relator": "Severino Medeiros", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Pleito originou-se da Prefeitura de Uberlândia no levantamento de necessidades; obra de contorno urbano e de grande vulto (arts. 40 e 42 da Res. 6000/2022), ligação BR-050/BR-365, ação civil pública do MPF, demanda superior a R$ 70 milhões; orçamento do estudo de ≈ R$ 350 mil (tráfego) e R$ 1,85 milhão (viabilidade); prazo de 180 dias. A autorização não implica inclusão do trecho, a ser decidida na revisão quinquenal.",
+      "votos": [
+        {"diretor": "Severino Medeiros", "voto": "relator, autoriza o EVTEA", "ts": "3:11:21", "justificativa": "interesse público e mobilidade regional; sem prejulgar a inclusão no contrato", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "3:19:16", "confianca": "media"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "3:19:27", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "3:19:32", "confianca": "media"}
+      ]
+    }
+  ],
+  "limites_da_analise": ["Legenda automática: números de processo parciais; no item 1.3.3 vários falantes se alternam sem rótulo claro (a atribuição entre Severino Medeiros e Alex Azevedo foi inferida do conteúdo).", "O item sigiloso 1.3.1 (FTL) não aparece no vídeo; resultado desconhecido.", "ts de votos de seguidores aproximados."]
+}
