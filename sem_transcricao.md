@@ -2,24 +2,12 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **281** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2025/diretoria: 1; 2024/participativa: 1; 2024/diretoria: 24; 2023/participativa: 1; 2023/diretoria: 30; 2023/audiencia: 10; 2022/participativa: 3; 2022/diretoria: 31; 2022/audiencia: 12; 2021/diretoria: 41; 2021/audiencia: 9; 2020/participativa: 1; 2020/diretoria: 45; 2020/audiencia: 11; 2019/diretoria: 41; 2019/audiencia: 12; 2018/audiencia: 4
+Total: **269** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/participativa: 1; 2024/diretoria: 13; 2023/participativa: 1; 2023/diretoria: 30; 2023/audiencia: 10; 2022/participativa: 3; 2022/diretoria: 31; 2022/audiencia: 12; 2021/diretoria: 41; 2021/audiencia: 9; 2020/participativa: 1; 2020/diretoria: 45; 2020/audiencia: 11; 2019/diretoria: 41; 2019/audiencia: 12; 2018/audiencia: 4
 
 - 2026-09-28 · diretoria · Board Meeting No. 1042 - 09/28/2026 · https://www.youtube.com/watch?v=6A8-zT0Sipw · **transcrição sem fala útil (760 caracteres; só música/ruído)**
 - 2026-07-09 · audiencia · Audiência Pública nº 006/2019 · https://www.youtube.com/watch?v=zCaMJGMlTns · **legenda desativada/inexistente no YouTube**
 - 2026-03-17 · audiencia · Audiência Pública nº 04/2026 - 17/03/2026 - Pelotas/RS - Rota Portuária · https://www.youtube.com/watch?v=12S7PAizj9Y · **legenda desativada/inexistente no YouTube**
 - 2025-10-03 · workshop · Chamamento Público nº 01/2025 - 03/10/2025 · https://www.youtube.com/watch?v=Woej2nY5otQ · **legenda desativada/inexistente no YouTube**
-- 2025-09-02 · diretoria · 95ª Reunião Extraordinária de Diretoria - 2/9/2025 - Gravação · https://www.youtube.com/watch?v=_edCUoWtVP0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-10-17 · diretoria · 993ª Reunião de Diretoria - 17/10/2024 · https://www.youtube.com/watch?v=WVL5yNdky0U · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-10-03 · diretoria · 992ª Reunião de Diretoria - 3/10/2024 · https://www.youtube.com/watch?v=DgSc5QHQ8V8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-09-18 · diretoria · 991ª Reunião de Diretoria - 18/9/2024 · https://www.youtube.com/watch?v=ymhnvMkmbvY · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-09-05 · diretoria · 990ª Reunião de Diretoria - 5/9/2024 · https://www.youtube.com/watch?v=m6tfBRRgsEI · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-08-29 · diretoria · 84ª Reunião Extraordinária de Diretoria - 29/8/2024 · https://www.youtube.com/watch?v=sBRrfKA1-sk · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-08-22 · diretoria · 989ª Reunião de Diretoria - 22/8/2024 · https://www.youtube.com/watch?v=R90m21jbAVs · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-08-08 · diretoria · 988ª Reunião de Diretoria - 8/8/2024 · https://www.youtube.com/watch?v=Co3vAQ6QXVE · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-07-25 · diretoria · 987ª Reunião de Diretoria - 25/7/2024 · https://www.youtube.com/watch?v=4FZdVpmvWGk · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-07-22 · diretoria · 83ª Reunião Extraordinária de Diretoria - 22/7/2024 · https://www.youtube.com/watch?v=gcVJwfeNn2M · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-07-11 · diretoria · 986ª Reunião de Diretoria - 11/7/2024 · https://www.youtube.com/watch?v=bjTH-DbZqCk · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-06-27 · diretoria · 985ª Reunião de Diretoria - 27/6/2024 · https://www.youtube.com/watch?v=CEQTjLWoMYk · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-06-13 · diretoria · 984ª Reunião de Diretoria - 13/6/2024 · https://www.youtube.com/watch?v=xnPXGyrmU0c · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-05-29 · diretoria · 983ª Reunião de Diretoria - 29/5/2024 · https://www.youtube.com/watch?v=eeRiLhCPx2Q · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-05-16 · diretoria · 982ª Reunião de Diretoria - 16/5/2024 · https://www.youtube.com/watch?v=GEhAgYUoli0 · **ainda não baixado (rodar a coleta no Mac)**

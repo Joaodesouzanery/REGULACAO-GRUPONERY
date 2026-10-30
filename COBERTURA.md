@@ -11,11 +11,11 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 | 2026 | audiencia | 36 | 34 | 0 |
 | 2025 | workshop | 1 | 0 | 0 |
 | 2025 | participativa | 13 | 13 | 0 |
-| 2025 | diretoria | 38 | 37 | 3 |
+| 2025 | diretoria | 38 | 38 | 3 |
 | 2025 | audiencia | 12 | 12 | 0 |
 | 2024 | workshop | 2 | 2 | 0 |
 | 2024 | participativa | 13 | 12 | 0 |
-| 2024 | diretoria | 31 | 7 | 0 |
+| 2024 | diretoria | 31 | 18 | 0 |
 | 2024 | audiencia | 10 | 10 | 0 |
 | 2023 | participativa | 4 | 3 | 0 |
 | 2023 | diretoria | 30 | 0 | 0 |
@@ -48,6 +48,7 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 - 2025-10-08 · 1018ª Reunião de Diretoria - 08/10/2025 · `U4NrWpy5b6E`
 - 2025-09-26 · 1017ª Reunião de Diretoria - 26/09/2025 · `1gCCZmxLMYE`
 - 2025-09-11 · 1016ª Reunião de Diretoria - 11/09/2025 · `L7v7zskusEw`
+- 2025-09-02 · 95ª Reunião Extraordinária de Diretoria - 2/9/2025 - Gravação · `_edCUoWtVP0`
 - 2025-08-29 · 1015ª Reunião de Diretoria - 29/08/2025 · `AO9wlMZ_8p8`
 - 2025-08-15 · 1014ª Reunião de Diretoria - 15/08/2025 · `i65Q4DVJA6s`
 - 2025-08-01 · 1013ª Reunião de Diretoria - 1/8/2025 · `mUFBjDvQ9VM`
@@ -79,6 +80,17 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 - 2024-11-21 · 86ª Reunião Extraordinária de Diretoria - 21/11/2024 · `H16l_3mguto`
 - 2024-11-14 · 995ª Reunião de Diretoria - 14/11/2024 · `6IYxm2zAFbo`
 - 2024-10-31 · 994ª Reunião de Diretoria - 31/10/2024 · `VnHLaZxsXeY`
+- 2024-10-17 · 993ª Reunião de Diretoria - 17/10/2024 · `WVL5yNdky0U`
+- 2024-10-03 · 992ª Reunião de Diretoria - 3/10/2024 · `DgSc5QHQ8V8`
+- 2024-09-18 · 991ª Reunião de Diretoria - 18/9/2024 · `ymhnvMkmbvY`
+- 2024-09-05 · 990ª Reunião de Diretoria - 5/9/2024 · `m6tfBRRgsEI`
+- 2024-08-29 · 84ª Reunião Extraordinária de Diretoria - 29/8/2024 · `sBRrfKA1-sk`
+- 2024-08-22 · 989ª Reunião de Diretoria - 22/8/2024 · `R90m21jbAVs`
+- 2024-08-08 · 988ª Reunião de Diretoria - 8/8/2024 · `Co3vAQ6QXVE`
+- 2024-07-25 · 987ª Reunião de Diretoria - 25/7/2024 · `4FZdVpmvWGk`
+- 2024-07-22 · 83ª Reunião Extraordinária de Diretoria - 22/7/2024 · `gcVJwfeNn2M`
+- 2024-07-11 · 986ª Reunião de Diretoria - 11/7/2024 · `bjTH-DbZqCk`
+- 2024-06-27 · 985ª Reunião de Diretoria - 27/6/2024 · `CEQTjLWoMYk`
 - 2022-09-22 · 75ª Reunião Extraordinária de Diretoria · `Y1_YnBlXh00`
 - 2022-09-21 · Transmissão ao vivo da 940ª Reunião de Diretoria · `_4OA6Py0z3U`
 - 2021-06-22 · Transmissão ao vivo da 906ª Reunião de Diretoria da ANTT · `EdMj6bhyq-M`
