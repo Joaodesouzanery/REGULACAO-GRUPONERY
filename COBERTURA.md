@@ -19,7 +19,7 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 | 2024 | audiencia | 10 | 10 | 0 |
 | 2023 | participativa | 4 | 3 | 0 |
 | 2023 | diretoria | 30 | 29 | 0 |
-| 2023 | audiencia | 25 | 15 | 0 |
+| 2023 | audiencia | 25 | 21 | 0 |
 | 2022 | participativa | 5 | 2 | 0 |
 | 2022 | diretoria | 33 | 32 | 0 |
 | 2022 | audiencia | 28 | 17 | 0 |
@@ -29,7 +29,7 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 | 2020 | participativa | 2 | 1 | 0 |
 | 2020 | diretoria | 45 | 45 | 0 |
 | 2020 | audiencia | 14 | 3 | 0 |
-| 2019 | diretoria | 43 | 37 | 0 |
+| 2019 | diretoria | 43 | 43 | 0 |
 | 2019 | audiencia | 34 | 22 | 0 |
 | 2018 | participativa | 9 | 9 | 0 |
 | 2018 | audiencia | 15 | 12 | 0 |
@@ -288,5 +288,11 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 - 2019-05-07 · Transmissão da 809ª Reunião de Diretoria da ANTT - 07/05/19 · `E3TPE9LTUFE`
 - 2019-04-30 · Transmissão da 61ª Reunião Extraordinária de Diretoria da ANTT - 30/04 · `_fNM_kiMQlc`
 - 2019-04-23 · Transmissão da 808ª Reunião de Diretoria da ANTT - 23/04/19 · `hs8snDKlt_c`
+- 2019-04-16 · Transmissão da 807ª Reunião de Diretoria da ANTT - 16/04/19 · `DKDF4usY83A`
+- 2019-04-09 · Transmissão da 806ª Reunião de Diretoria da ANTT - 09/04/19 · `ly2oThPrSBs`
+- 2019-04-02 · Transmissão da 805ª Reunião de Diretoria da ANTT - 02/04/19 (completo) · `ss0AizFiKWA`
+- 2019-03-26 · Transmissão da 804ª Reunião de Diretoria da ANTT - 26/03/19 · `GHw9REZb1zA`
+- 2019-03-19 · Transmissão da 803ª Reunião de Diretoria da ANTT - 19/03/19 · `YDG6ljyGESM`
+- 2019-03-12 · Transmissão da 802ª Reunião de Diretoria da ANTT - 12/03/19 · `5ae0Rbnbnl4`
 
 Vídeos sem legenda registrados: 367 (ver `data/sem_legenda.jsonl`).

@@ -2,20 +2,14 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **77** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/participativa: 1; 2023/participativa: 1; 2023/diretoria: 1; 2023/audiencia: 10; 2022/participativa: 3; 2022/diretoria: 1; 2022/audiencia: 12; 2021/diretoria: 1; 2021/audiencia: 9; 2020/participativa: 1; 2020/audiencia: 11; 2019/diretoria: 6; 2019/audiencia: 12; 2018/audiencia: 4
+Total: **65** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/participativa: 1; 2023/participativa: 1; 2023/diretoria: 1; 2023/audiencia: 4; 2022/participativa: 3; 2022/diretoria: 1; 2022/audiencia: 12; 2021/diretoria: 1; 2021/audiencia: 9; 2020/participativa: 1; 2020/audiencia: 11; 2019/audiencia: 12; 2018/audiencia: 4
 
 - 2026-09-28 · diretoria · Board Meeting No. 1042 - 09/28/2026 · https://www.youtube.com/watch?v=6A8-zT0Sipw · **transcrição sem fala útil (760 caracteres; só música/ruído)**
 - 2026-07-09 · audiencia · Audiência Pública nº 006/2019 · https://www.youtube.com/watch?v=zCaMJGMlTns · **legenda desativada/inexistente no YouTube**
 - 2026-03-17 · audiencia · Audiência Pública nº 04/2026 - 17/03/2026 - Pelotas/RS - Rota Portuária · https://www.youtube.com/watch?v=12S7PAizj9Y · **legenda desativada/inexistente no YouTube**
 - 2025-10-03 · workshop · Chamamento Público nº 01/2025 - 03/10/2025 · https://www.youtube.com/watch?v=Woej2nY5otQ · **legenda desativada/inexistente no YouTube**
 - 2024-04-23 · participativa · Reunião Participativa nº 04/2024 - Sinop - MT -  23/4/2024 · https://www.youtube.com/watch?v=6EFb6nZ-3-Q · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-11-23 · audiencia · Audiência Pública nº 11/2023 · https://www.youtube.com/watch?v=upRCh-BoIf8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-11-21 · diretoria · 81ª Reunião de Diretoria Extraordinária - 21/11/2023 · https://www.youtube.com/watch?v=U3h5SQcZJYE · **legenda desativada/inexistente no YouTube**
-- 2023-10-02 · audiencia · Sobre a Audiência Pública nº 10/2023 · https://www.youtube.com/watch?v=rZj75GH0B5s · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-09-18 · audiencia · Audiência Pública nº 8/2023 - 18/9/2023 · https://www.youtube.com/watch?v=pCBGHIL-Yxk · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-08-29 · audiencia · Audiência Pública nº 7/2023 - 29/8/2023 · https://www.youtube.com/watch?v=IxbU5JGGJX0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-08-08 · audiencia · Audiência Pública nº 6/2023 - 8/8/2023 · https://www.youtube.com/watch?v=N2_2LdNEUPA · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-08-01 · audiencia · Audiência Pública nº 6/2022 - 1/8/2023 · https://www.youtube.com/watch?v=W5HT_Bdm46E · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-05-03 · audiencia · Audiência Pública nº 5/2023 - 3/5/2023 · https://www.youtube.com/watch?v=Jcxhs5RowD0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-04-27 · audiencia · Sobre a Audiência Pública nº 04/2023 · https://www.youtube.com/watch?v=xJ8BrHAN5pc · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-04-26 · audiencia · Audiência Pública nº 05/2023 - Sessão Pública Campo Grande/MS - 26/04/2023 · https://www.youtube.com/watch?v=9KqmMWSSyLg · **ainda não baixado (rodar a coleta no Mac)**
@@ -71,12 +65,6 @@ Total: **77** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/pa
 - 2019-08-07 · audiencia · Audiência Pública nº 010/2019 - Vitória (ES) 07/08/2019 · https://www.youtube.com/watch?v=FqZik9zWY54 · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-08-02 · audiencia · Audiência Pública nº 010/2019 - Belo Horizonte (MG) 02/08/2019 · https://www.youtube.com/watch?v=BDyS_PotE00 · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-08-01 · audiencia · Audiência Pública nº 010/2019 - Governador Valadares (MG) 01/08/2019 · https://www.youtube.com/watch?v=pzSJclD8_rY · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-04-16 · diretoria · Transmissão da 807ª Reunião de Diretoria da ANTT - 16/04/19 · https://www.youtube.com/watch?v=DKDF4usY83A · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-04-09 · diretoria · Transmissão da 806ª Reunião de Diretoria da ANTT - 09/04/19 · https://www.youtube.com/watch?v=ly2oThPrSBs · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-04-02 · diretoria · Transmissão da 805ª Reunião de Diretoria da ANTT - 02/04/19 (completo) · https://www.youtube.com/watch?v=ss0AizFiKWA · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-03-26 · diretoria · Transmissão da 804ª Reunião de Diretoria da ANTT - 26/03/19 · https://www.youtube.com/watch?v=GHw9REZb1zA · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-03-19 · diretoria · Transmissão da 803ª Reunião de Diretoria da ANTT - 19/03/19 · https://www.youtube.com/watch?v=YDG6ljyGESM · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-03-12 · diretoria · Transmissão da 802ª Reunião de Diretoria da ANTT - 12/03/19 · https://www.youtube.com/watch?v=5ae0Rbnbnl4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2018-09-25 · audiencia · Audiência Pública n°010/2018 - 25/09/2018 · https://www.youtube.com/watch?v=IMruO-Dh8N0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2018-09-19 · audiencia · Audiência Pública n°008/2018 · https://www.youtube.com/watch?v=f2Ip6KOIJv0 · **legenda desativada/inexistente no YouTube**
 - 2018-09-17 · audiencia · Audiência Pública n°009/2018 · https://www.youtube.com/watch?v=cA90PMm0dbg · **legenda desativada/inexistente no YouTube**
