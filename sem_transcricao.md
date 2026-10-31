@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **65** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/participativa: 1; 2023/participativa: 1; 2023/diretoria: 1; 2023/audiencia: 4; 2022/participativa: 3; 2022/diretoria: 1; 2022/audiencia: 12; 2021/diretoria: 1; 2021/audiencia: 9; 2020/participativa: 1; 2020/audiencia: 11; 2019/audiencia: 12; 2018/audiencia: 4
+Total: **53** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/participativa: 1; 2023/participativa: 1; 2023/diretoria: 1; 2022/participativa: 3; 2022/diretoria: 1; 2022/audiencia: 4; 2021/diretoria: 1; 2021/audiencia: 9; 2020/participativa: 1; 2020/audiencia: 11; 2019/audiencia: 12; 2018/audiencia: 4
 
 - 2026-09-28 · diretoria · Board Meeting No. 1042 - 09/28/2026 · https://www.youtube.com/watch?v=6A8-zT0Sipw · **transcrição sem fala útil (760 caracteres; só música/ruído)**
 - 2026-07-09 · audiencia · Audiência Pública nº 006/2019 · https://www.youtube.com/watch?v=zCaMJGMlTns · **legenda desativada/inexistente no YouTube**
@@ -10,24 +10,12 @@ Total: **65** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/pa
 - 2025-10-03 · workshop · Chamamento Público nº 01/2025 - 03/10/2025 · https://www.youtube.com/watch?v=Woej2nY5otQ · **legenda desativada/inexistente no YouTube**
 - 2024-04-23 · participativa · Reunião Participativa nº 04/2024 - Sinop - MT -  23/4/2024 · https://www.youtube.com/watch?v=6EFb6nZ-3-Q · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-11-21 · diretoria · 81ª Reunião de Diretoria Extraordinária - 21/11/2023 · https://www.youtube.com/watch?v=U3h5SQcZJYE · **legenda desativada/inexistente no YouTube**
-- 2023-05-03 · audiencia · Audiência Pública nº 5/2023 - 3/5/2023 · https://www.youtube.com/watch?v=Jcxhs5RowD0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-04-27 · audiencia · Sobre a Audiência Pública nº 04/2023 · https://www.youtube.com/watch?v=xJ8BrHAN5pc · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-04-26 · audiencia · Audiência Pública nº 05/2023 - Sessão Pública Campo Grande/MS - 26/04/2023 · https://www.youtube.com/watch?v=9KqmMWSSyLg · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-03-20 · audiencia · Sobre a Audiência Pública n⁰ 03/2023 · https://www.youtube.com/watch?v=2jcsEg1Ewtg · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-02-06 · participativa · Transmissão ao vivo da Reunião Participativa nº 6/2022 - 6/2/2023 · https://www.youtube.com/watch?v=vohcUmXSZHs · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-12-13 · audiencia · Audiência Pública nº 13/2022 · https://www.youtube.com/watch?v=MpYwrgLyIEE · **transcrição sem fala útil (391 caracteres; só música/ruído)**
-- 2022-09-02 · audiencia · Transmissão ao vivo da Audiência Pública nº 8/2022 - 2/9/2022 · https://www.youtube.com/watch?v=Sm94m8xBXRo · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-08-24 · participativa · Transmissão ao vivo da Reunião Participativa nº 5/2022 - 24/8/2022 · https://www.youtube.com/watch?v=cERu5np1i44 · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-08-23 · participativa · Transmissão ao vivo da Reunião Participativa nº 5/2022 - 23/8/2022 · https://www.youtube.com/watch?v=KrKYKyAX_x8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-08-22 · participativa · Transmissão ao vivo da Reunião Participativa nº 5/2022 - 22/8/2022 · https://www.youtube.com/watch?v=0QoZ2SnPVC8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-08-03 · audiencia · Transmissão ao vivo da Audiência Pública nº 7/2022  - 3/8/2022 · https://www.youtube.com/watch?v=mKP2VrIOR94 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-06-22 · audiencia · Transmissão ao vivo da Audiência Pública nº 4/2022 e nº 5/2022 - 22/06/2022 · https://www.youtube.com/watch?v=pguxaEDzPIs · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-06-02 · audiencia · Transmissão ao vivo da Audiência Pública nº 3/2022  - 2/6/2022 · https://www.youtube.com/watch?v=fa3U-03s2n0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-05-12 · diretoria · Transmissão ao vivo da 931ª Reunião de Diretoria da ANTT -  12/05/2022 · https://www.youtube.com/watch?v=5Ekrdu6K-4Y · **legenda desativada/inexistente no YouTube**
-- 2022-04-13 · audiencia · Transmissão ao vivo da Audiência Pública nº 2/2022 - Sandbox Regulatório - 13/04 · https://www.youtube.com/watch?v=7TtHQ7SLqjg · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-04-07 · audiencia · Transmissão ao vivo da Audiência Pública nº 1/2022 - 07/04/2022 · https://www.youtube.com/watch?v=FUONqZrTFsc · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-02-03 · audiencia · Transmissão ao vivo da Audiência Pública nº 12/2021 - 03/02/2022 · https://www.youtube.com/watch?v=MpPmQF4axW8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-01-28 · audiencia · Audiência Pública nº 10 e 11/2021 - Rondonópolis/MT - 28/01/2022 · https://www.youtube.com/watch?v=zglskphAYtU · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-01-26 · audiencia · Audiência Pública nº 10 e 11/2021 - Rio Verde/GO - 26/01/2022 · https://www.youtube.com/watch?v=xCa-beTAqKY · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-01-24 · audiencia · Audiência Pública nº 10 e 11/2021 - Goiânia/GO -  24/01/2022 · https://www.youtube.com/watch?v=vPyPU_nskZk · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-01-20 · audiencia · Live Stream of Public Hearing No. 10/2021 and No. 11/2021 - 01/20/2022 · https://www.youtube.com/watch?v=nvJJZzmL6YY · **ainda não baixado (rodar a coleta no Mac)**
