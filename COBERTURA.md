@@ -26,7 +26,7 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 | 2021 | participativa | 9 | 9 | 0 |
 | 2021 | diretoria | 42 | 41 | 0 |
 | 2021 | audiencia | 26 | 25 | 0 |
-| 2020 | participativa | 2 | 1 | 0 |
+| 2020 | participativa | 2 | 2 | 0 |
 | 2020 | diretoria | 45 | 45 | 0 |
 | 2020 | audiencia | 14 | 13 | 0 |
 | 2019 | diretoria | 43 | 43 | 0 |
