@@ -14,13 +14,13 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 | 2025 | diretoria | 38 | 38 | 3 |
 | 2025 | audiencia | 12 | 12 | 0 |
 | 2024 | workshop | 2 | 2 | 0 |
-| 2024 | participativa | 13 | 12 | 0 |
+| 2024 | participativa | 13 | 13 | 0 |
 | 2024 | diretoria | 31 | 31 | 0 |
 | 2024 | audiencia | 10 | 10 | 0 |
-| 2023 | participativa | 4 | 3 | 0 |
+| 2023 | participativa | 4 | 4 | 0 |
 | 2023 | diretoria | 30 | 29 | 0 |
 | 2023 | audiencia | 25 | 25 | 0 |
-| 2022 | participativa | 5 | 2 | 0 |
+| 2022 | participativa | 5 | 5 | 0 |
 | 2022 | diretoria | 33 | 32 | 0 |
 | 2022 | audiencia | 28 | 28 | 0 |
 | 2021 | participativa | 9 | 9 | 0 |
@@ -30,9 +30,9 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 | 2020 | diretoria | 45 | 45 | 0 |
 | 2020 | audiencia | 14 | 13 | 0 |
 | 2019 | diretoria | 43 | 43 | 0 |
-| 2019 | audiencia | 34 | 25 | 0 |
+| 2019 | audiencia | 34 | 31 | 0 |
 | 2018 | participativa | 9 | 9 | 0 |
-| 2018 | audiencia | 15 | 12 | 0 |
+| 2018 | audiencia | 15 | 13 | 0 |
 | 2017 | audiencia | 2 | 2 | 0 |
 
 ## Reuniões de diretoria transcritas e ainda sem análise
