@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **53** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/participativa: 1; 2023/participativa: 1; 2023/diretoria: 1; 2022/participativa: 3; 2022/diretoria: 1; 2022/audiencia: 4; 2021/diretoria: 1; 2021/audiencia: 9; 2020/participativa: 1; 2020/audiencia: 11; 2019/audiencia: 12; 2018/audiencia: 4
+Total: **42** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/participativa: 1; 2023/participativa: 1; 2023/diretoria: 1; 2022/participativa: 3; 2022/diretoria: 1; 2022/audiencia: 1; 2021/diretoria: 1; 2021/audiencia: 1; 2020/participativa: 1; 2020/audiencia: 11; 2019/audiencia: 12; 2018/audiencia: 4
 
 - 2026-09-28 · diretoria · Board Meeting No. 1042 - 09/28/2026 · https://www.youtube.com/watch?v=6A8-zT0Sipw · **transcrição sem fala útil (760 caracteres; só música/ruído)**
 - 2026-07-09 · audiencia · Audiência Pública nº 006/2019 · https://www.youtube.com/watch?v=zCaMJGMlTns · **legenda desativada/inexistente no YouTube**
@@ -16,22 +16,11 @@ Total: **53** · 2026/diretoria: 1; 2026/audiencia: 2; 2025/workshop: 1; 2024/pa
 - 2022-08-23 · participativa · Transmissão ao vivo da Reunião Participativa nº 5/2022 - 23/8/2022 · https://www.youtube.com/watch?v=KrKYKyAX_x8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-08-22 · participativa · Transmissão ao vivo da Reunião Participativa nº 5/2022 - 22/8/2022 · https://www.youtube.com/watch?v=0QoZ2SnPVC8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-05-12 · diretoria · Transmissão ao vivo da 931ª Reunião de Diretoria da ANTT -  12/05/2022 · https://www.youtube.com/watch?v=5Ekrdu6K-4Y · **legenda desativada/inexistente no YouTube**
-- 2022-01-26 · audiencia · Audiência Pública nº 10 e 11/2021 - Rio Verde/GO - 26/01/2022 · https://www.youtube.com/watch?v=xCa-beTAqKY · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-01-24 · audiencia · Audiência Pública nº 10 e 11/2021 - Goiânia/GO -  24/01/2022 · https://www.youtube.com/watch?v=vPyPU_nskZk · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-01-20 · audiencia · Live Stream of Public Hearing No. 10/2021 and No. 11/2021 - 01/20/2022 · https://www.youtube.com/watch?v=nvJJZzmL6YY · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-12-15 · audiencia · Transmissão ao vivo da Audiência Pública nº 9/2021 - 15/12/2021 · https://www.youtube.com/watch?v=IlVXPacWdlg · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-12-10 · audiencia · Transmissão ao vivo da Audiência Pública nº 07/2021 - 10/12/2021 · https://www.youtube.com/watch?v=jvFuyzRhDnc · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-12-09 · audiencia · Transmissão ao vivo da Audiência Pública nº 8/2021 - 09/12/2021 · https://www.youtube.com/watch?v=yfy2RUe0s60 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-08-26 · audiencia · Transmissão ao vivo da Audiência Pública nº 005/2021 - 26/08/2021 · https://www.youtube.com/watch?v=-rIxgI2GjPs · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-07-21 · audiencia · Transmissão ao vivo da Audiência Pública nº 004/2021 - 21/07/2021 · https://www.youtube.com/watch?v=pw01DzM6mjI · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-07-19 · audiencia · Transmissão ao vivo da Audiência Pública nº 6/2021 - 19/07/2021 · https://www.youtube.com/watch?v=JiG61ZIhrNo · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-07-19 · audiencia · Transmissão ao vivo da Audiência Pública nº 006/2021 - 19/07/2021 · https://www.youtube.com/watch?v=J22zdjLaszY · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-06-08 · diretoria · 904ª REUNIÃO DE DIRETORIA DA ANTT -  08/06/2021 · https://www.youtube.com/watch?v=tE0KRoC9JhA · **legenda desativada/inexistente no YouTube**
-- 2021-05-06 · audiencia · Transmissão ao vivo da Audiência Pública nº 003/2021 - 06/05/2021 · https://www.youtube.com/watch?v=yx-FaKozT2o · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-01-15 · audiencia · Transmissão ao vivo da Audiência Pública nº  11/2020 · https://www.youtube.com/watch?v=feBGYMfTeqw · **legenda desativada/inexistente no YouTube**
 - 2020-11-26 · participativa · Pílulas de Governança Regulatória - O que é uma Reunião Participativa · https://www.youtube.com/watch?v=YMfROIZwiIU · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-11-26 · audiencia · Pílulas de Governança Regulatória - O que é uma Consulta Pública · https://www.youtube.com/watch?v=SacXbDn_o98 · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-11-26 · audiencia · Pílulas de Governança Regulatória - O que é uma Audiência Pública · https://www.youtube.com/watch?v=0dNGuXsG_dc · **ainda não baixado (rodar a coleta no Mac)**
+- 2020-11-26 · audiencia · Pílulas de Governança Regulatória - O que é uma Audiência Pública · https://www.youtube.com/watch?v=0dNGuXsG_dc · **transcrição sem fala útil (378 caracteres; só música/ruído)**
 - 2020-07-29 · audiencia · Audiência Pública nº 001/2020 - 29/07/2020 · https://www.youtube.com/watch?v=yj-DmleUWF4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-06-25 · audiencia · Transmissão da Audiência Pública nº 2/2020 - 25/06/2020 · https://www.youtube.com/watch?v=26WlrkbGNKA · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-02-06 · audiencia · Transmissão da Audiência Pública nº 18/2019 - Guarulhos - 06/02/2020 · https://www.youtube.com/watch?v=_Y5fT_tB6FI · **ainda não baixado (rodar a coleta no Mac)**
