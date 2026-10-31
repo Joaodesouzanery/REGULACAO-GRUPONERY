@@ -28,9 +28,9 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 | 2021 | audiencia | 26 | 25 | 0 |
 | 2020 | participativa | 2 | 1 | 0 |
 | 2020 | diretoria | 45 | 45 | 0 |
-| 2020 | audiencia | 14 | 4 | 0 |
+| 2020 | audiencia | 14 | 13 | 0 |
 | 2019 | diretoria | 43 | 43 | 0 |
-| 2019 | audiencia | 34 | 22 | 0 |
+| 2019 | audiencia | 34 | 25 | 0 |
 | 2018 | participativa | 9 | 9 | 0 |
 | 2018 | audiencia | 15 | 12 | 0 |
 | 2017 | audiencia | 2 | 2 | 0 |
@@ -295,4 +295,4 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 - 2019-03-19 · Transmissão da 803ª Reunião de Diretoria da ANTT - 19/03/19 · `YDG6ljyGESM`
 - 2019-03-12 · Transmissão da 802ª Reunião de Diretoria da ANTT - 12/03/19 · `5ae0Rbnbnl4`
 
-Vídeos sem legenda registrados: 367 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 369 (ver `data/sem_legenda.jsonl`).
