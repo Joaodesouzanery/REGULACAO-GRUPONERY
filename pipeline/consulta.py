@@ -80,6 +80,9 @@ if __name__ == "__main__":
     elif a[0] == "trecho":
         tp = a[a.index("--tipo") + 1] if "--tipo" in a else None
         print(trecho(" ".join(w for i, w in enumerate(a[1:], 1) if w != "--tipo" and a[i - 1] != "--tipo"), tipo=tp))
+    elif a[0] == "falas":  # falas/menções do diretor em audiências, participativas e workshops
+        for r in c.execute("select f.*, v.titulo from falas_diretores f join videos v on v.id=f.video_id where f.diretor like ? order by f.video_id, f.t limit 40", (f"%{a[1]}%",)):
+            print(f"- {r['tipo_video']}: {r['titulo'][:60]} · [{r['t']//3600}:{r['t']%3600//60:02d}:{r['t']%60:02d}](https://www.youtube.com/watch?v={r['video_id']}&t={r['t']}s) — «{r['texto'][:260]}…»")
     elif a[0] == "mandatos":
         for m in c.execute("select * from mandatos"): print(f"- {m['diretor']} · {m['cargo']} · {m['inicio'] or '?'} → {m['fim'] or 'atual'} · {m['situacao']} · confiança {m['confianca']} · fonte: {m['fonte']}")
     elif a[0] == "busca": print(busca(" ".join(a[1:])))

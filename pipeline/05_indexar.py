@@ -102,4 +102,10 @@ for vid in vids:
             c.execute("INSERT INTO trechos(video_id,t,texto) VALUES(?,?,?)", (vid, t0, " ".join(buf))); n_tr += 1; buf, t0 = [], None
     if buf: c.execute("INSERT INTO trechos(video_id,t,texto) VALUES(?,?,?)", (vid, t0, " ".join(buf))); n_tr += 1
 c.execute("INSERT INTO trechos_fts(rowid, texto) SELECT id, texto FROM trechos")
+# falas/menções de diretores em audiências, participativas e workshops (não são votos): trechos em que o diretor é citado ou fala com o título de diretor
+c.execute("DROP TABLE IF EXISTS falas_diretores"); c.execute("CREATE TABLE falas_diretores(video_id TEXT, t INT, diretor TEXT, tipo_video TEXT, texto TEXT)")
+RX = re.compile(r"diretor(?:a)?(?:[- ]geral)?\s+(?:dr\.?\s+|doutor\s+)?(guilherme|alex|felipe|lucas|alessandro|marcelo|severino|amaral)", re.I)
+for tid, vid, t, txt, tv in c.execute("select t.id, t.video_id, t.t, t.texto, v.tipo from trechos t join videos v on v.id=t.video_id where v.tipo in ('audiencia','participativa','workshop')").fetchall():
+    for nome in {canon(m) for m in RX.findall(txt)} - {None}:
+        c.execute("INSERT INTO falas_diretores VALUES(?,?,?,?,?)", (vid, t, nome, tv, txt))
 c.commit(); print(n_tr, "trechos;", c.execute("select count(*) from reunioes").fetchone()[0], "reuniões,", n_it, "itens,", n_v, "votos")
