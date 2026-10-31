@@ -1,4 +1,4 @@
-# Cobertura da base (atualizado em 2026-10-30)
+# Cobertura da base (atualizado em 2026-10-31)
 
 Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/data').
 
