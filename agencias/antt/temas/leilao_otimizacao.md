@@ -1,5 +1,47 @@
 # Itens do tema «leilao_otimizacao» (todos os diretores)
 
+- **RD 949 (2023-02-02)**, 2.1.2 · relator **Davi Barreto** · Sexto termo aditivo ao contrato de concessão (Edital 3/2013, BR-163/MT): nova prorrogação de 60 dias do prazo do quarto termo aditivo (relicitação) pa → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=58YX4d-4chY&t=545s)
+- **RD 950 (2023-02-16)**, 2.2.5 · relator **Davi Barreto** · Abertura de audiência pública sobre minutas de edital, contrato, PER e estudos de viabilidade da concessão da BR-163/MS (Rota do Pantanal), da divisa  → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=1590s)
+- **RD 950 (2023-02-16)**, 2.4.1 · relator **Luciano Lourenço** · Terceiro termo aditivo ao contrato de concessão: alterar prazo do acordo previsto no segundo termo aditivo, prorrogar obrigações não financeiras (leva → aprovado por unanimidade
+  - votos: Luciano: relator; Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=2540s)
+- **RD 951 (2023-03-09)**, 2.2.1 · relator **Guilherme Sampaio** · Terceiro termo aditivo ao contrato de concessão (Edital 005/2013, BR-163/MS): prorrogação do prazo da relicitação, fixação de tarifa no novo período,  → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=_MSBVawM8Dc&t=497s)
+- **RD 953 (2023-03-30)**, 2.4.1 · relator **Lucas Asfor** · Abertura de audiência pública sobre minutas de edital e contrato e estudos de viabilidade da relicitação da Malha Oeste (1.973 km, SP e MS, de Mairinq → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=HNl8PagFcCc&t=2290s)
+- **RD 956 (2023-05-11)**, 2.2.1 · relator **Guilherme Sampaio** · Aprovação do edital de concessão das Rodovias Integradas do Paraná, Lote 1 (cerca de 473 km: BR-277, BR-373, BR-376, BR-476 e PR-418, PR-423, PR-427), → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=iczBBFrwdCU&t=1094s)
+- **RD 958 (2023-06-07)**, 1.2.1 · relator **Guilherme Sampaio** · Recurso contra a Deliberação 345/2022 (17/11/2022), que opinou pela inviabilidade técnica e jurídica do requerimento de relicitação da concessionária  → aprovado por unanimidade — recurso desprovido; mantida a inviabilidade da relicitação
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=6CjKqEHMaEU&t=673s)
+- **RD 958 (2023-06-07)**, 1.5.3 · relator **Lucas Asfor** · Aprovação do edital de concessão das Rodovias Integradas do Paraná, Lote 2 (trechos federais e estaduais; rodovias estaduais citadas na legenda, númer → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=6CjKqEHMaEU&t=4227s)
+- **RD 960 (2023-07-06)**, 1.2.6 · relator **Guilherme Sampaio** · Aprovação da publicação do edital de concessão da BR-381/MG (entroncamento BR-116/451, Gov. Valadares, ao entroncamento BR-262, Belo Horizonte; 303,46 → aprovado por unanimidade — autorizada a publicação do edital
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: outro; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=DwgBVKxy9Uw&t=1247s)
+- **RD 963 (2023-08-17)**, 1.3.2 · relator **Lucas Asfor** · Relatório final da Audiência Pública 9/2022 sobre o lote rodoviário BR-040 (Cristalina/GO a Belo Horizonte/MG) — «Rota dos Cristais» (minutas de edita → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=gHtXTxOWagI&t=1615s)
+- **RD 79ª Reunião Extraordinária (2023-08-29)**, 1.1.1 · relator **Guilherme Sampaio** · Terceiro termo aditivo ao contrato de concessão (edital 1/2011, BR-101/ES/BA) para estabelecer condições de prestação do serviço de manutenção, conser → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=-JMcN97p7fs&t=230s)
+- **RD 79ª Reunião Extraordinária (2023-08-29)**, 1.1.2 · relator **Guilherme Sampaio** · 9ª revisão ordinária, 10ª revisão extraordinária e 11ª revisão extraordinária e reajuste anual da tarifa básica de pedágio (BR-101/ES/BA, 475,9 km, se → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=-JMcN97p7fs&t=599s)
+- **RD 80 (extraordinária) (2023-09-06)**, 1.1 · relator **Guilherme Sampaio** · Novo plano de outorga da concessão do sistema rodoviário da BR-040/MG, trecho Belo Horizonte a Juiz de Fora (cerca de 231 km), após a separação do pro → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Lucas: acompanha; Felipe: acompanha · [vídeo](https://www.youtube.com/watch?v=gw2fw05g5Mc&t=921s)
+- **RD 965 (2023-09-14)**, 1.3.4 · relator **Felipe Queiroz** · Relatório final da Audiência Pública 12/2022 sobre minutas de edital e contrato, PER e estudos de viabilidade (TEA) para concessão da BR-262/MG entre  → aprovado por unanimidade (em bloco com o 1.3.5)
+  - votos: Felipe: relator; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=oXHjEvN4wz8&t=2101s)
+- **RD 965 (2023-09-14)**, 1.3.5 · relator **Felipe Queiroz** · Relatório final da Audiência Pública 14/2022 sobre concessão do lote BR-153/GO e BR-262/MG (Hidrolândia-divisa MG/SP e BR-262 até Uberaba); plano de o → aprovado por unanimidade (em bloco com o 1.3.4)
+  - votos: Felipe: relator; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=oXHjEvN4wz8&t=2152s)
+- **RD 968 (2023-10-26)**, extrapauta · relator **Lucas Asfor** · Homologação do resultado do leilão da concessão das Rodovias Integradas do Paraná, lote 1 (edital 1/2023; sessão na B3 em 25/08/2023) → aprovado por unanimidade — resultado homologado
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=jZZousurLsY&t=3002s)
+- **RD 969 (2023-11-09)**, extrapauta-inclusao · relator **Luciano Lourenço** · Inclusão em pauta, em caráter extrapauta, do processo de homologação do resultado do leilão do sistema rodoviário do Paraná (Lote 2) → inclusão aprovada por unanimidade
+  - votos: Guilherme: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=M_pRe8N6j9g&t=278s)
+- **RD 969 (2023-11-09)**, extrapauta · relator **Luciano Lourenço** · Homologação do resultado do leilão do sistema rodoviário do Paraná (Lote 2; BR-153, 277, 369 e PR-092, 151, 239, 407, 408, 411, 508, 804 e 855; Edital → aprovado por unanimidade — leilão homologado em favor do Consórcio Infraestrutura PR
+  - votos: Luciano: relator; Guilherme: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=M_pRe8N6j9g&t=2918s)
+- **RD 970 (2023-11-23)**, 1.1.1 · relator **Guilherme Sampaio** · Edital de concessão da BR-040/MG, trecho Belo Horizonte (entroncamento BR-356) a Juiz de Fora (início da interseção com antiga União e Indústria), 231 → aprovado por unanimidade, com condicionantes e determinações
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=30C4_7L7Qe4&t=586s)
+- **RD 970 (2023-11-23)**, 1.3.2 · relator **Felipe Queiroz** · Estudos da BR-040/MG-RJ, trecho Juiz de Fora a entroncamento com a BR-116 (Trevo das Missões, RJ), e encaminhamento do novo plano de outorga → aprovado por unanimidade — processo devolvido à SUCOM
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=30C4_7L7Qe4&t=2286s)
+- **RD 971 (2023-12-07)**, 1.1.2 · relator **Rafael Vitale** · Alteração da Res. 5.977/2022 (estrutura organizacional): reorganização das coordenações da SUCOM para atuarem por projeto em todas as etapas da conces → aprovado por unanimidade
+  - votos: Rafael: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=GE0Xxv-shHs&t=1638s)
 - **RD 975 (2024-02-08)**, 1.3.1 · relator **Lucas Asfor** · Relatórios finais das Audiências Públicas 10/2021 e 13/2021 e minutas dos planos de outorga das concessões dos lotes rodoviários Centro Norte 1 (BR-06 → aprovado por unanimidade
   - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=6ckhaVSoiUY&t=103s)
 - **RD 977 (2024-03-07)**, 1.2.1 · relator **Felipe Queiroz** · Abertura de audiência pública para concessão do sistema rodoviário composto pelas rodovias estaduais de Goiás GO-020, GO-060, GO-070 e GO-080 (≈ 572 k → aprovado por unanimidade

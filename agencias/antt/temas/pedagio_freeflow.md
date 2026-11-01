@@ -1,5 +1,31 @@
 # Itens do tema «pedagio_freeflow» (todos os diretores)
 
+- **RD 948 (2023-01-19)**, 2.2.1 · relator **Luciano Lourenço** · Abertura de audiência pública para revisão e atualização da Resolução 2.885/2008 (Vale-Pedágio obrigatório, habilitação de fornecedoras, modelos e sis → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZX8Rm7GspUY&t=606s)
+- **RD 949 (2023-02-02)**, 2.3.2 · relator **Luciano Lourenço** · Reajuste da tarifa básica de pedágio e início da cobrança nas praças P1 (Cláudia/MT) e P2 (Guarantã do Norte/MT) da BR-163/230 MT/PA → aprovado por unanimidade
+  - votos: Luciano: relator; Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=58YX4d-4chY&t=1298s)
+- **RD 950 (2023-02-16)**, 2.2.6 · relator **Davi Barreto** · Segunda revisão ordinária, segunda revisão extraordinária e reajuste da tarifa básica de pedágio (edital 1/2019; BR-364/365, GO/MG) → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=1902s)
+- **RD 950 (2023-02-16)**, 2.4.2 · relator **Luciano Lourenço** · Termo aditivo ao contrato de concessão (edital 3/2021) para regulamentar obrigações e efeitos do sandbox regulatório do pedágio em fluxo livre (free f → aprovado por unanimidade (votado em conjunto com 2.4.3)
+  - votos: Luciano: relator; Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=3058s)
+- **RD 950 (2023-02-16)**, 2.4.3 · relator **Luciano Lourenço** · Aprovação do termo de referência e plano de trabalho do ambiente regulatório experimental (sandbox) para teste de cobrança eletrônica em fluxo livre n → aprovado por unanimidade (votado em conjunto com 2.4.2)
+  - votos: Luciano: relator; Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=3113s)
+- **RD 955 (2023-04-27)**, 2.1.5 · relator **Luciano Lourenço** · Trabalhos iniciais da 1ª parcela do trecho de cobertura da praça 3 (TCP-3), reajuste da tarifa básica de pedágio e autorização do início da cobrança n → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Lucas: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=IPO0UDqZLhk&t=960s)
+- **RD 956 (2023-05-11)**, 2.2.1 · relator **Guilherme Sampaio** · Aprovação do edital de concessão das Rodovias Integradas do Paraná, Lote 1 (cerca de 473 km: BR-277, BR-373, BR-376, BR-476 e PR-418, PR-423, PR-427), → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=iczBBFrwdCU&t=1094s)
+- **RD 79ª Reunião Extraordinária (2023-08-29)**, 1.1.2 · relator **Guilherme Sampaio** · 9ª revisão ordinária, 10ª revisão extraordinária e 11ª revisão extraordinária e reajuste anual da tarifa básica de pedágio (BR-101/ES/BA, 475,9 km, se → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=-JMcN97p7fs&t=599s)
+- **RD 79ª Reunião Extraordinária (2023-08-29)**, 1.2.1 · relator **Lucas Asfor** · 1ª revisão ordinária e reajuste da tarifa básica de pedágio da BR-116/101 (RJ/SP) → retirado de pauta
+  - votos: Lucas: relator · [vídeo](https://www.youtube.com/watch?v=-JMcN97p7fs&t=911s)
+- **RD 966 (2023-09-28)**, extrapauta · relator **Guilherme Sampaio** · Primeira revisão ordinária e reajuste da tarifa básica de pedágio (BR-153/414/080, TO/GO) para restabelecer o equilíbrio econômico-financeiro; inclusã → inclusão e revisão aprovadas por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=fHz1cg_TFkA&t=2882s)
+- **RD 969 (2023-11-09)**, extrapauta · relator **Luciano Lourenço** · Homologação do resultado do leilão do sistema rodoviário do Paraná (Lote 2; BR-153, 277, 369 e PR-092, 151, 239, 407, 408, 411, 508, 804 e 855; Edital → aprovado por unanimidade — leilão homologado em favor do Consórcio Infraestrutura PR
+  - votos: Luciano: relator; Guilherme: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=M_pRe8N6j9g&t=2918s)
+- **RD 971 (2023-12-07)**, 1.3.6 · relator **Luciano Lourenço** · Início da cobrança de pedágio nas novas praças P7 (Magé/BR-116/RJ) e P8 (Guapimirim/BR-493/RJ) e reajuste da tarifa básica (edital 1/2022) → aprovado por unanimidade (voto ad hoc, extrapauta de fato, por prazos)
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=GE0Xxv-shHs&t=6758s)
+- **RD 972 (2023-12-21)**, 1.3.3 · relator **Luciano Lourenço** · Relatório final da Audiência Pública 4/2023 e aprovação da resolução que institui o RCR3 (terceira norma do Regulamento das Concessões Rodoviárias, eq → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=gHjCizk8PhQ&t=3757s)
 - **RD 84 (extraordinária) (2024-08-29)**, 1.1.1 · relator **Lucas Asfor** · Aprovação do edital de concessão do lote CN1 Rota Verde (BR-060/452/GO, Goiânia a Rio Verde e Itumbiara, com Contorno Sul de Goiânia), 452,7 km → aprovado por unanimidade
   - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=sBRrfKA1-sk&t=904s)
 - **RD 990 (2024-09-05)**, 1.1.2 · relator **Luciano Lourenço** · Aprovação do edital de concessão dos lotes 3 (BR-369, 373, 376; PR-090, 170, 323, 445) e 6 (BR-163, 277; PR-158, 180, 182, 280, 483) das Rodovias Inte → aprovado por unanimidade

@@ -1,0 +1,209 @@
+{
+  "meta": {"video_id": "DwgBVKxy9Uw", "fonte": "legenda automática do YouTube (qualidade baixa); falantes inferidos; ts = tempo do vídeo (a legenda só inicia em ~0:11:33); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "960", "data": "2023-07-06", "formato": "videoconferência, transmitida ao vivo no YouTube",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Luciano Lourenço", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Parte pública encerrada às 11h24. Procuradora-geral substituta: Roberta Negrão; ouvidor Robson Crepaldi; secretária-geral Renata.", "Itens 1.2.4 (proc. 50500.000422/2022) e 1.2.5 (proc. 50600.036952/2021-11), processos administrativos disciplinares da Corregedoria sob relatoria de Guilherme Sampaio, foram julgados em sessão reservada, sem conteúdo na transmissão.", "Itens retirados de pauta: 1.1.1 (alteração do Regimento Interno, pelo Diretor-Geral) e 1.4.1 a 1.4.5 (termos aditivos do Fator D / Acórdão TCU 1447/2018, por Felipe Queiroz, em razão de novos elementos juntados na semana).", "Marco: aprovação da publicação do edital da concessão da BR-381/MG (leilão em 24/11/2023 na B3), no dia seguinte ao acórdão final do TCU (ministro Antonio Anastasia)."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:13:01",
+      "processo": "50500.157790/2022-19 (parcial)", "interessado": "Superintendência de Governança e Gestão Estratégica de Pessoal (Suesp)",
+      "assunto": "Alteração da Resolução 5.976 de 7/04/2022 (Regimento Interno da ANTT)",
+      "tema": ["institucional"],
+      "relator": "Rafael Vitale", "resultado": "retirado de pauta pelo relator",
+      "resumo_voto": "O Diretor-Geral retira o item: mudanças de regimento exigem vista coletiva e tratamento mais concentrado; promete trazê-lo na reunião seguinte, com mais detalhamento.",
+      "votos": []
+    },
+    {
+      "id": "1.2.1", "ts": "0:14:13",
+      "processo": "50505.025103/2018-15", "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio (Concer)",
+      "assunto": "Recurso contra a decisão 123/2021 (Surod) que aplicou multa por sinalização horizontal com valores de retrorrefletância abaixo do mínimo do PER (art. 7º, VII, da Res. 4.071/2013)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — recurso conhecido e desprovido",
+      "resumo_voto": "A recorrente não apresentou fato novo; adota como razões de decidir as considerações técnicas da Surod (art. 50 §1º da Lei 9.784/99); multa mantida.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, conhece e nega provimento", "ts": "0:14:20", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:16:00", "confianca": "baixa"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:16:05", "confianca": "baixa"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:16:08", "confianca": "baixa"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:16:12", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "0:16:20",
+      "processo": "50500.021987/2022-3 (parcial)", "interessado": "Expresso Itamarati Transporte e Turismo Ltda.",
+      "assunto": "Processo administrativo ordinário: apresentação de documentos falsos e adulterados em requerimentos de habilitação de veículos (serviço regular e fretamento)",
+      "tema": ["ônibus (transporte regular, TAR)", "ônibus (fretamento)", "fiscalização e sanções"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — cassação",
+      "resumo_voto": "Com base no relatório final da comissão processante e na análise da Sufis, aplica a pena de cassação da autorização de serviço regular e da autorização de fretamento (art. 86, II, do Decreto 2.521/1998 c/c art. 78-H da Lei 10.233/2001).",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aplica cassação", "ts": "0:16:25", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:18:25", "confianca": "baixa"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:18:28", "confianca": "baixa"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:18:31", "confianca": "baixa"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:18:34", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.3", "ts": "0:18:43",
+      "processo": "50510.78/2021-42 (parcial)", "interessado": "Andréa Tur Transportes e Serviços Ltda. (nome conforme legenda)",
+      "assunto": "Resultado final da comissão de processo administrativo: uso indevido de licença intermunicipal em viagem na qual houve tombamento de veículo e seis mortes",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — arquivamento do processo",
+      "resumo_voto": "Acompanhando a conclusão da área técnica (coordenação de gestão de processos sancionadores) e do relatório final da comissão processante, o relator determina o arquivamento do processo administrativo.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, determina o arquivamento", "ts": "0:18:50", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:20:25", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:20:28", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:20:31", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:20:34", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.4", "ts": "0:20:36",
+      "processo": "50500.000422/2022-00", "interessado": "Corregedoria",
+      "assunto": "Processo administrativo disciplinar (acesso restrito)",
+      "tema": ["institucional"],
+      "relator": "Guilherme Sampaio", "resultado": "sigiloso — julgamento em sessão reservada, sem resultado na transmissão",
+      "resumo_voto": "Item sigiloso (art. 64, V, e 65, I, da IN 14/2018 e art. 48 §1º do Regimento Interno).",
+      "votos": []
+    },
+    {
+      "id": "1.2.5", "ts": "0:20:36",
+      "processo": "50600.036952/2021-11", "interessado": "Corregedoria",
+      "assunto": "Processo administrativo disciplinar (acesso restrito)",
+      "tema": ["institucional"],
+      "relator": "Guilherme Sampaio", "resultado": "sigiloso — julgamento em sessão reservada, sem resultado na transmissão",
+      "resumo_voto": "Item sigiloso (art. 48 §1º do Regimento Interno).",
+      "votos": []
+    },
+    {
+      "id": "1.2.6", "ts": "0:20:47",
+      "processo": "50500.074177/2023-83", "interessado": "Superintendência de Concessão da Infraestrutura (Sucon)",
+      "assunto": "Aprovação da publicação do edital de concessão da BR-381/MG (entroncamento BR-116/451, Gov. Valadares, ao entroncamento BR-262, Belo Horizonte; 303,46 km); leilão previsto para 24/11/2023 na B3",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "participação social", "institucional / TCU"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — autorizada a publicação do edital",
+      "resumo_voto": "Acórdão final do TCU no dia 5/07/2023 (ministro Antonio Anastasia) liberou a fase de leilão. Projeto com investimento adicional estimado em R$ 9,4 bilhões (R$ 6,2 bi capex e R$ 3,2 bi opex), 104 km de duplicação, 138 km de faixas adicionais, 12 km de vias marginais, 37 dispositivos, 36 passarelas e área de escape; ambulâncias, guinchos e viaturas; matriz de riscos moderna com compartilhamento de risco geotécnico; DBT 100% para cancela automática e desconto de usuário frequente; arbitragem; ESG; método de segurança viária. Audiência pública teve mais de 560 contribuições; mais de 7 mil empregos estimados. Edital a ser publicado em 07/07/2023.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, autoriza a publicação do edital", "ts": "0:21:10", "justificativa": "problema histórico da rodovia (tempo de viagem de 7 a 8 horas para 300 km), projeto maduro, esforço interinstitucional (ANTT, Infra S.A., Ministério dos Transportes, TCU, DNIT)", "tom": "celebratório, com agradecimentos a equipes e ao TCU", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha integralmente o relator", "ts": "0:33:00", "justificativa": "importância para Minas Gerais e fim da alcunha de «BR da Morte»", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "aprova; destaca a liderança de Guilherme Sampaio e do Diretor-Geral e o papel do DNIT nas obras de taludes e viaduto", "ts": "0:34:00", "justificativa": "projeto modernizado regulatoriamente, riscos equilibrados após leilões frustrados e adiamentos", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator com satisfação", "ts": "0:36:15", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator; destaca a sinergia governamental e a segurança para investidores", "ts": "0:37:01", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.7", "ts": "0:38:15",
+      "processo": "50500.176680/2023-73 (parcial)", "interessado": "Superintendência de Concessão da Infraestrutura (Sucon)",
+      "assunto": "Abertura de audiência pública sobre proposta de regulamentação do Comitê de Prevenção e Solução de Disputas (dispute board) em contratos de concessão rodoviária e ferroviária; alteração da Res. 5.845/2019; contribuições de 17/07 a 31/08/2023 e sessão presencial híbrida em 08/08/2023",
+      "tema": ["concessões rodoviárias", "ferrovias", "regulação normativa", "participação social", "reequilíbrio contratual"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Item da agenda regulatória 2023-2024; AIR e grupo de trabalho com Sucon, Surod, Sufer e a Procuradoria. O dispute board permite prevenir e solucionar disputas, com decisões que podem ser vinculativas, dando segurança jurídica e manutenção dos contratos.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova a abertura da audiência pública", "ts": "0:38:20", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha integralmente o relator; destaca maturidade de grupos transversais (sandbox do free flow)", "ts": "0:42:35", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "aprova; vê o dispute board como mais um instrumento da cesta de soluções regulatórias", "ts": "0:43:10", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:44:20", "confianca": "baixa"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:44:47", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "0:44:56",
+      "processo": "50500.361302/2022-84 (parcial)", "interessado": "Transporte Coletivo Brasil Ltda. (TCB)",
+      "assunto": "Pedido de reconsideração contra a deliberação 149 de 24/05/2023 que aplicou cassação do termo de autorização (art. 78-H da Lei 10.233/2001)",
+      "tema": ["ônibus (fretamento)", "fiscalização e sanções"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — reconsideração conhecida, sem efeito suspensivo, desprovida",
+      "resumo_voto": "Sem fato novo (Relatório à Diretoria 274 da Sufis); adota as razões do voto DLL 600/2023; cassação mantida.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, conhece, sem efeito suspensivo, nega provimento", "ts": "0:45:15", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "0:47:17", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:47:19", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:47:21", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:47:25", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.2", "ts": "0:47:32",
+      "processo": "50500.432132/2022-87 (parcial)", "interessado": "Concessionária do Sistema Rodoviário Rio–São Paulo S.A. (CCR RioSP)",
+      "assunto": "Sexto termo aditivo ao contrato de concessão (edital 3/2021): solução alternativa de faixas adicionais, em substituição às faixas reversíveis do km 217+940 ao km 231 da BR-116/SP (Dutra, RMSP, Guarulhos); ampliação de capacidade",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "regulação normativa"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Proposta da concessionária (maio/2022) avaliada como tecnicamente superior ao PER (gerência de engenharia, Surod e Procuradoria, Parecer 309/2022): melhor nível de serviço e capacidade, sem reflexo em encargos ou reequilíbrio. Risco de futura ampliação de capacidade recai sobre a concessionária, sem recomposição do equilíbrio; altera itens 3.2.1.1 (letra F), 3.2.5.1 e 3.2.1.3 do PER, com exceção quanto à classe 1A. A concessionária concordou com a minuta.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aprova o sexto termo aditivo", "ts": "0:47:50", "justificativa": "solução superior, vantajosa ao usuário e à administração; alocação de risco adequada", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "0:58:03", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "de acordo com o relator; parabeniza pela amplitude do voto", "ts": "0:58:06", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator; destaca que soluções melhores propostas por concessionária são o que se espera do parceiro privado e que a Surod analisou com bom senso (Pró-Rev)", "ts": "0:58:10", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:59:10", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.4.1", "ts": "1:00:21",
+      "processo": "50500.054673/2023-11", "interessado": "Autopista Planalto Sul S.A.",
+      "assunto": "Primeiro termo aditivo (edital 006/2007?): reprogramação de investimentos e desconto de reequilíbrio (Fator D), Acórdão TCU 1447/2018",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "institucional / TCU"],
+      "relator": "Felipe Queiroz", "resultado": "retirado de pauta pelo relator",
+      "resumo_voto": "Relator retira os itens 1.4.1 a 1.4.5 (Fator D) por novos elementos acostados durante a semana, para formar convicção sobre solução para os 10 anos remanescentes dos contratos; aprovados depois na RD 964.",
+      "votos": []
+    },
+    {
+      "id": "1.4.2", "ts": "1:01:13",
+      "processo": "", "interessado": "concessionária (não identificada na legenda; provável Autopista Régis Bittencourt)",
+      "assunto": "Termo aditivo, Fator D, Acórdão TCU 1447/2018",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "institucional / TCU"],
+      "relator": "Felipe Queiroz", "resultado": "retirado de pauta pelo relator",
+      "resumo_voto": "Retirado em bloco com 1.4.1.",
+      "votos": []
+    },
+    {
+      "id": "1.4.3", "ts": "1:01:13",
+      "processo": "", "interessado": "concessionária (não identificada na legenda)",
+      "assunto": "Termo aditivo, Fator D, Acórdão TCU 1447/2018",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "institucional / TCU"],
+      "relator": "Felipe Queiroz", "resultado": "retirado de pauta pelo relator",
+      "resumo_voto": "Retirado em bloco com 1.4.1.",
+      "votos": []
+    },
+    {
+      "id": "1.4.4", "ts": "1:01:13",
+      "processo": "", "interessado": "concessionária (não identificada na legenda)",
+      "assunto": "Termo aditivo, Fator D, Acórdão TCU 1447/2018",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "institucional / TCU"],
+      "relator": "Felipe Queiroz", "resultado": "retirado de pauta pelo relator",
+      "resumo_voto": "Retirado em bloco com 1.4.1.",
+      "votos": []
+    },
+    {
+      "id": "1.4.5", "ts": "1:01:13",
+      "processo": "", "interessado": "concessionária (não identificada na legenda)",
+      "assunto": "Termo aditivo, Fator D, Acórdão TCU 1447/2018",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "institucional / TCU"],
+      "relator": "Felipe Queiroz", "resultado": "retirado de pauta pelo relator",
+      "resumo_voto": "Retirado em bloco com 1.4.1.",
+      "votos": []
+    },
+    {
+      "id": "1.4.6", "ts": "1:01:26",
+      "processo": "50500.048993/2022-51", "interessado": "Superintendência de Serviços de Transporte Rodoviário de Passageiros (Sufis/Sutra)",
+      "assunto": "Reabertura da Audiência Pública 6/2022 (regulamentação do serviço regular de transporte rodoviário interestadual e internacional de passageiros sob regime de autorização), apenas quanto ao Capítulo 4 (das inviabilidades), de 14/07 a 12/08/2023",
+      "tema": ["ônibus (transporte regular, TAR)", "regulação normativa", "participação social"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "A Lei 14.298/2022 inseriu o art. 47-B na Lei 10.233 (critério de inviabilidade técnica, operacional e econômica para autorizações). A AP 6/2022 recebeu cerca de 580 contribuições; após parecer da Procuradoria, a minuta ganhou o Capítulo 4, que precisa de nova participação social, limitada a esse capítulo, dispensada a reabertura integral de 45 dias (Res. 5.624/2017). Inviabilidade deve ser aferida pela adequada prestação do serviço ao usuário, não pelo faturamento da operadora.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova a reabertura parcial da audiência pública", "ts": "1:01:40", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "1:04:59", "justificativa": "reconhece o trabalho técnico da Sufis (superintendente Juliano, gerente Anderson); menciona acórdão do TSE/TCU que reconheceu o trabalho técnico da agência (legenda confusa)", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "1:05:20", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:06:00", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha integralmente o relator; destaca o compromisso de aprovar o marco regulatório ainda em 2023 e o prazo pactuado com a justiça", "ts": "1:08:00", "tom": "elogioso ao esforço da equipe (Pró-Rev, revolução comportamental)", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"item": "1.1.1 — alteração do Regimento Interno da ANTT (Res. 5.976/2022)", "relator": "Rafael Vitale", "motivo": "necessidade de vista coletiva e tratamento concentrado das mudanças de regimento", "ts": "0:14:07"},
+    {"item": "1.4.1 a 1.4.5 — termos aditivos do Fator D (Acórdão TCU 1447/2018) para cinco concessionárias", "relator": "Felipe Queiroz", "motivo": "novos elementos juntados durante a semana; necessidade de mais prazo para solução dos 10 anos remanescentes", "ts": "1:00:21"}
+  ],
+  "limites_da_analise": ["Legenda automática de baixa qualidade; a transcrição só inicia em ~0:11:33 (pode haver abertura anterior não capturada).", "Muitos números de processo estão parciais ou distorcidos; nomes de empresas (ex.: Andréa Tur, Transporte Coletivo Brasil) conforme a legenda.", "Votos de seguidores: ts aproximados, sem separação clara por diretor nos itens 1.2.1 a 1.2.3, 1.3 e 1.4.6.", "Valores do edital da BR-381 (R$ 9,4 bi) e quantitativos de obras vêm da fala do relator via legenda; conferir no edital antes de citar.", "Itens 1.4.2 a 1.4.5: concessionárias não identificadas individualmente.", "Menção ao acórdão no 1.4.6 (TSE/TCU) é incerta na legenda."]
+}

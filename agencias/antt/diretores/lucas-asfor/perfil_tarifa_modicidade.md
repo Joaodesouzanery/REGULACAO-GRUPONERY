@@ -1,11 +1,11 @@
 # Perfil analítico — Lucas Asfor · tema: tarifa_modicidade
 
-**Amostra:** presente em 88 das 93 reuniões analisadas em que há registro de presença/ausência; 15 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 114 das 119 reuniões analisadas em que há registro de presença/ausência; 15 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
 **Votos:** acompanha o relator 13 (100% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 2/2 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 308/94; fiscalizacao_sancoes 221/70; onibus 125/33; leilao_otimizacao 99/37; onibus_regular 95/24; reequilibrio_contratual 91/18; participacao_social 86/25; regulacao_normativa 85/17; judicializacao 66/14; ferrovias 66/16; pedagio_freeflow 49/14; institucional 37/4; cargas 28/7; sandbox_inovacao 26/3; sustentabilidade 24/0; onibus_fretamento 20/8; tarifa_modicidade 15/2; onibus_semiurbano 6/1; outros 1/0
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 403/110; fiscalizacao_sancoes 362/112; onibus 214/65; onibus_regular 146/47; reequilibrio_contratual 125/21; regulacao_normativa 122/24; leilao_otimizacao 117/41; participacao_social 111/30; judicializacao 87/22; ferrovias 83/18; institucional 66/4; onibus_fretamento 58/17; pedagio_freeflow 57/15; cargas 39/12; sandbox_inovacao 30/3; sustentabilidade 27/0; tarifa_modicidade 15/2; onibus_semiurbano 7/1; outros 1/0
 
 ## Evidências (reunião · item · voto · justificativa)
 

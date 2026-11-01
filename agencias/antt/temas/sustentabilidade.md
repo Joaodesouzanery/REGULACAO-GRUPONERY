@@ -1,5 +1,11 @@
 # Itens do tema «sustentabilidade» (todos os diretores)
 
+- **RD 953 (2023-03-30)**, 2.2.1 · relator **Luciano Lourenço** · Instrução normativa sobre a inspeção de projetos, orçamentos e obras de engenharia por Organismos de Inspeção Acreditados (OIAs, Inmetro) nos contrato → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=HNl8PagFcCc&t=949s)
+- **RD 961 (2023-07-20)**, 1.2.1 · relator **Guilherme Sampaio** · Relatório final da Audiência Pública 10/2020 e resolução que regulamenta a destinação dos recursos para desenvolvimento tecnológico (RDT) e para prese → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: outro; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=zV1cOhU21bk&t=366s)
+- **RD 971 (2023-12-07)**, 1.2.5 · relator **Guilherme Sampaio** · 2º termo aditivo ao contrato (edital 1/2019) para regulamentar obrigações e efeitos da autorização para elaboração de estudos ambientais complementare → aprovado por unanimidade
+  - votos: Guilherme: relator; Rafael: acompanha; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=GE0Xxv-shHs&t=2893s)
 - **RD 983 (2024-05-29)**, 1.2.1 · relator **Felipe Queiroz** · Aprovação do relatório de AIR e abertura de participação e controle social (audiência pública) sobre a minuta de resolução do Plano de Sustentabilidad → aprovado por unanimidade
   - votos: Felipe: relator; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=eeRiLhCPx2Q&t=461s)
 - **RD 985 (2024-06-27)**, 1.3.1 · relator **Guilherme Sampaio** · Definição dos temas prioritários para destinação dos recursos de desenvolvimento tecnológico (RDT) e para preservação da memória ferroviária (RPMF), p → aprovado por unanimidade

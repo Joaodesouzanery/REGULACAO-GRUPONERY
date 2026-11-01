@@ -1,0 +1,430 @@
+{
+ "meta": {
+  "video_id": "HNl8PagFcCc",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:06); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "953",
+  "data": "2023-03-30",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Guilherme Sampaio",
+   "Luciano Lourenço",
+   "Felipe Queiroz",
+   "Lucas Asfor"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 16h53 de 30/03/2023.",
+   "Inversão de pauta a pedido de Guilherme Sampaio (2.1.2 antes de 2.1.1).",
+   "A secretária-geral Renata Cavalcante retornou de licença-maternidade.",
+   "Item 2.1.2: Rafael Vitale era o alvo da arguição de impedimento da Expresso JK e não participou do julgamento.",
+   "Todos os itens foram unânimes; no 2.4.2 o voto-vista de Lucas Asfor foi tratado como aprimoramento do voto do relator."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:06:18",
+   "processo": "—",
+   "interessado": "Diretoria Colegiada",
+   "assunto": "Aprovação da ata da reunião 952 (leitura dispensada)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Rafael Vitale (presidente)",
+   "resultado": "aprovada por unanimidade",
+   "resumo_voto": "Ata distribuída com 48 h de antecedência; leitura dispensada.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "0:06:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "de acordo",
+     "ts": "0:06:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "de acordo",
+     "ts": "0:06:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "de acordo",
+     "ts": "0:06:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo",
+     "ts": "0:06:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:07:12",
+   "processo": "50500.020185/2022-50",
+   "interessado": "Expresso JK Transportes Ltda.",
+   "assunto": "Recurso contra a Deliberação 333/2022 (3/11/2022) que julgou improcedente a arguição de suspeição/impedimento do Diretor-Geral e determinou o arquivamento (art. 64 do Regimento Interno); item invertido na pauta a pedido de Guilherme Sampaio",
+   "tema": [
+    "fiscalização e sanções",
+    "institucional",
+    "judicializacao",
+    "ônibus (fretamento)"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade dos que votaram — recurso conhecido e desprovido (Rafael Vitale não participou do julgamento)",
+   "resumo_voto": "Mantém-se a rejeição da arguição contra Rafael Vitale: inquérito policial não prova autoria nem materialidade; o inquérito foi arquivado a pedido do Ministério Público Federal e a decisão acolhida pela Justiça Federal; a recorrente não trouxe fatos novos, não fez prova oral que lhe cabia, e a ausência de sustentação oral não ofende a ampla defesa. O relator diz que a arguição configura tumulto processual e que o diretor-geral não deve ser afastado de processos da agência.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:07:30",
+     "justificativa": "inexistência de impedimento; inquérito arquivado; tentativa de tumulto processual",
+     "tom": "firme",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:11:56",
+     "justificativa": "parabeniza o arquivamento do inquérito; espera o fim dos tumultos processuais",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "de acordo com o relator",
+     "ts": "0:12:10",
+     "justificativa": "acaba com tentativas de tumulto perante a agência",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:12:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "não participa do julgamento (diretor-geral é o alvo da arguição); agradece a relatoria",
+     "ts": "0:12:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:13:00",
+   "processo": "50500.093206/2021-45",
+   "interessado": "Expresso JK Transportes Ltda.",
+   "assunto": "Pedido de reconsideração contra a Deliberação 336/2022 (3/11/2022) que aplicou a penalidade de cassação da autorização de fretamento",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade — mantida a cassação",
+   "resumo_voto": "A empresa usou a autorização para operar de forma irregular repetidas vezes; as medidas administrativas anteriores não bastaram e há autoria e materialidade; argumentos novos configuram inovação recursal. Conhece o recurso sem efeito suspensivo e nega provimento no mérito.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, conhece sem efeito suspensivo e nega provimento",
+     "ts": "0:13:10",
+     "justificativa": "reiteração; autoria e materialidade comprovadas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:14:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:14:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:14:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:15:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:15:49",
+   "processo": "50500.020254/2022-98",
+   "interessado": "ANTT (proposta de instrução normativa)",
+   "assunto": "Instrução normativa sobre a inspeção de projetos, orçamentos e obras de engenharia por Organismos de Inspeção Acreditados (OIAs, Inmetro) nos contratos de concessão e subconcessão de rodovias e ferrovias",
+   "tema": [
+    "regulação normativa",
+    "concessões rodoviárias",
+    "ferrovias",
+    "sustentabilidade / inovação"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Normatiza a certificação por OIAs prevista em contratos recentes (Nova Dutra, Vitória-Minas, Fico); a minuta foi ajustada após reuniões com o setor, a ABRAC, a ABCR e a NTF: retirado o capítulo de projetos de interesse de terceiros e os anexos de normas (que passam a portarias das áreas técnicas) e prevista regra de transição. O relator dispensa participação social e AIR por se tratar de ato que procedimentaliza dispositivos contratuais e normas superiores; o tema consta da agenda regulatória 2023-2024 para revisão posterior. Cita missão técnica à Itália em 2022 e o programa Pró-Rev lançado na semana.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, aprova a instrução normativa",
+     "ts": "0:16:00",
+     "justificativa": "padronização, redução do fardo regulatório, racionalização da fiscalização",
+     "tom": "entusiasmado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:25:40",
+     "justificativa": "elogia a liderança e as boas práticas internacionais; participou da missão técnica",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:27:04",
+     "justificativa": "parabeniza os diretores decanos pela ousadia e inovação",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:28:20",
+     "justificativa": "qualidade do voto",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:29:00",
+     "justificativa": "acelerar a certificação; articulação com o Ministério da Indústria e Inmetro",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:30:33",
+   "processo": "50500.048870/2017-02",
+   "interessado": "Rotas de Viação do Triângulo Ltda. (em recuperação judicial)",
+   "assunto": "Processo administrativo ordinário por seccionamento não autorizado em linhas regulares (Cuiabá-São Paulo, Ituiutaba-São Paulo, Porto Velho-São Paulo, Goiânia-Santos)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade — suspensão por 95 dias dos mercados, convertida em multa de R$ 20.596,47",
+   "resumo_voto": "A comissão propôs arquivar, mas o relator entende comprovado o seccionamento não autorizado como prática comum; acompanha em parte a SUFIS (suspensão de 95 dias dos mercados) e prefere converter em multa (art. 65 da Resolução 5.8xx/2016, conforme a legenda) para evitar prejuízo aos usuários, já que não há penalidades anteriores em última instância.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, aplica suspensão de 95 dias convertida em multa",
+     "ts": "0:30:50",
+     "justificativa": "evitar dano à sociedade com a suspensão dos mercados",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com o relator",
+     "ts": "0:34:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "de acordo com o relator",
+     "ts": "0:34:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "de acordo com o relator",
+     "ts": "0:34:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:34:18",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:34:28",
+   "processo": "50501.000396/2018-09",
+   "interessado": "Viação Nova Integração Ltda.",
+   "assunto": "Processo administrativo ordinário por 3.678 autos de infração (out/2016 a set/2017) em sete linhas: aplicação de cassação da autorização",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade — cassação",
+   "resumo_voto": "Não é possível delimitar a infração a mercados ou serviços, dada a diversidade de descumprimentos em toda a operação; cassação com base no art. 86, VI do Decreto 2.521/1998 e art. 78-H da Lei 10.233/2001; notificação dos interessados e remessa à Procuradoria para apresentação ao juízo competente.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, aplica cassação",
+     "ts": "0:34:50",
+     "justificativa": "diversidade e volume de infrações em toda a operação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:37:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:37:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:38:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:38:03",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.1",
+   "ts": "0:38:10",
+   "processo": "50500.072602/2023-09",
+   "interessado": "SUCON (Superintendência de Concessão da Infraestrutura)",
+   "assunto": "Abertura de audiência pública sobre minutas de edital e contrato e estudos de viabilidade da relicitação da Malha Oeste (1.973 km, SP e MS, de Mairinque a Corumbá)",
+   "tema": [
+    "ferrovias",
+    "leilão / otimização",
+    "participação social",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Rumo/Malha Oeste (relicitação requerida em 2020, qualificada no PPI em fev/2021); estudos concluídos em nov/2022 e nota técnica da SUCON de 23/03/2023. Inovações: premissas de sazonalidade e trens, novos indicadores de serviço, integralização de capital em marcos ao longo de 66 meses com fiança, meios de reequilíbrio (revisão da outorga, pagamento direto), revisão tarifária e prorrogação única de até 5 anos. A Procuradoria optou por não pedir vista e analisará após a participação social.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, aprova a audiência pública",
+     "ts": "0:38:30",
+     "justificativa": "projeto pronto para participação social; primeira relicitação ferroviária",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:44:40",
+     "justificativa": "destaca avanço nas concessões ferroviárias e rodoviárias",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:45:30",
+     "justificativa": "complexidade do processo; revolução ferroviária",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:46:30",
+     "justificativa": "pertinência da política pública; relicitação como instrumento recente",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:47:48",
+     "justificativa": "retomada do transporte ferroviário e escoamento de commodities; PPI",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.2",
+   "ts": "0:48:41",
+   "processo": "50500.154388/2022-19",
+   "interessado": "Autopista Fluminense S.A.",
+   "assunto": "Termo de ajustamento de conduta (TAC multas) para compensar o descumprimento do dever de pagar penalidades pecuniárias ainda não transitadas em julgado; voto-vista de Lucas Asfor ao voto DLR 25/2023 (DE 130, março/2023)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade — TAC celebrado com ajuste proposto no voto-vista",
+   "resumo_voto": "Voto-vista de Lucas Asfor concorda integralmente com a celebração do TAC (solução vantajosa) mas ajusta a minuta: a cláusula 2.2 previa sanções pelo descumprimento sem que outra cláusula as definisse (art. 11 da Resolução 5.823/2018, segundo a legenda) e esclareceu o índice de atualização do valor de referência; a concessionária concordou. Tratado como aprimoramento, não divergência.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, propõe o TAC; aceita o aprimoramento do voto-vista",
+     "ts": "0:49:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "voto-vista: concorda com o TAC e propõe ajustes na minuta",
+     "ts": "0:49:50",
+     "justificativa": "adequação do TAC à Resolução 5.823/2018",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o voto-vista",
+     "ts": "0:52:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o voto-vista",
+     "ts": "0:52:35",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o voto-vista",
+     "ts": "0:52:41",
+     "justificativa": "valoriza a revisão colegiada",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática com muitos erros; números de processos, resoluções (ex.: Res. 5.8xx/2016, Res. 233/2003, Res. 5.823/2018), valores e nomes de empresas devem ser conferidos.",
+  "Votos de seguidores têm ts aproximados e a atribuição por nome segue a ordem de votação lida na legenda; confiança baixa onde a ordem é incerta.",
+  "No 2.1.2 a posição de Rafael Vitale (não participação) é inferida do contexto da fala dele."
+ ]
+}

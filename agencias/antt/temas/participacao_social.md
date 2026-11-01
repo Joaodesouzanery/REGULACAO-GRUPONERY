@@ -1,5 +1,71 @@
 # Itens do tema «participacao_social» (todos os diretores)
 
+- **RD 948 (2023-01-19)**, 2.1.1 · relator **Guilherme Sampaio** · Abertura de audiência pública sobre a proposta de regulamentação das infrações, sanções e medidas administrativas aplicáveis aos serviços regulares de → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: outro; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZX8Rm7GspUY&t=183s)
+- **RD 948 (2023-01-19)**, 2.2.1 · relator **Luciano Lourenço** · Abertura de audiência pública para revisão e atualização da Resolução 2.885/2008 (Vale-Pedágio obrigatório, habilitação de fornecedoras, modelos e sis → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZX8Rm7GspUY&t=606s)
+- **RD 948 (2023-01-19)**, 2.3.3 · relator **Felipe Queiroz** · Relatório final da Audiência Pública 11/2022 e revisão do Anexo II da Resolução 5.867/2020 (regras gerais, metodologia e coeficientes dos pisos mínimo → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZX8Rm7GspUY&t=1818s)
+- **RD 950 (2023-02-16)**, 2.2.5 · relator **Davi Barreto** · Abertura de audiência pública sobre minutas de edital, contrato, PER e estudos de viabilidade da concessão da BR-163/MS (Rota do Pantanal), da divisa  → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=1590s)
+- **RD 950 (2023-02-16)**, 2.4.3 · relator **Luciano Lourenço** · Aprovação do termo de referência e plano de trabalho do ambiente regulatório experimental (sandbox) para teste de cobrança eletrônica em fluxo livre n → aprovado por unanimidade (votado em conjunto com 2.4.2)
+  - votos: Luciano: relator; Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=3113s)
+- **RD 952 (2023-03-16)**, 2.3.1 · relator **Lucas Asfor** · Abertura de audiência pública sobre a minuta da terceira norma do Regulamento das Concessões Rodoviárias (RCR 3): gestão econômico-financeira dos cont → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=dTg6ulnbBvM&t=1188s)
+- **RD 953 (2023-03-30)**, 2.4.1 · relator **Lucas Asfor** · Abertura de audiência pública sobre minutas de edital e contrato e estudos de viabilidade da relicitação da Malha Oeste (1.973 km, SP e MS, de Mairinq → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=HNl8PagFcCc&t=2290s)
+- **RD 78ª Reunião Extraordinária (2023-04-18)**, 1 · relator **Luciano Lourenço** · Cronograma para conclusão da Audiência Pública 6/2022 (novo marco regulatório do TRIP) e minuta de resolução com normas transitórias para análise dos  → aprovado por unanimidade (cronograma e resolução transitória)
+  - votos: Luciano: relator; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=rx-sNKQ90Jk&t=511s)
+- **RD 956 (2023-05-11)**, 2.2.1 · relator **Guilherme Sampaio** · Aprovação do edital de concessão das Rodovias Integradas do Paraná, Lote 1 (cerca de 473 km: BR-277, BR-373, BR-376, BR-476 e PR-418, PR-423, PR-427), → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=iczBBFrwdCU&t=1094s)
+- **RD 957 (2023-05-24)**, 2.2.3 · relator **Luciano Lourenço** · Abertura de audiência pública sobre proposta de revisão do processo de recebimento de reclamações → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=QkT0LtVw1qY&t=1118s)
+- **RD 960 (2023-07-06)**, 1.2.6 · relator **Guilherme Sampaio** · Aprovação da publicação do edital de concessão da BR-381/MG (entroncamento BR-116/451, Gov. Valadares, ao entroncamento BR-262, Belo Horizonte; 303,46 → aprovado por unanimidade — autorizada a publicação do edital
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: outro; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=DwgBVKxy9Uw&t=1247s)
+- **RD 960 (2023-07-06)**, 1.2.7 · relator **Guilherme Sampaio** · Abertura de audiência pública sobre proposta de regulamentação do Comitê de Prevenção e Solução de Disputas (dispute board) em contratos de concessão  → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: outro; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=DwgBVKxy9Uw&t=2295s)
+- **RD 960 (2023-07-06)**, 1.4.6 · relator **Felipe Queiroz** · Reabertura da Audiência Pública 6/2022 (regulamentação do serviço regular de transporte rodoviário interestadual e internacional de passageiros sob re → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=DwgBVKxy9Uw&t=3686s)
+- **RD 961 (2023-07-20)**, 1.1.1 · relator **Rafael Vitale** · Relatório final da Consulta Pública 1/2022 e proposta de resolução que substitui a Resolução 5.624/2017 sobre o processo de participação e controle so → aprovado por unanimidade
+  - votos: Rafael: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=zV1cOhU21bk&t=75s)
+- **RD 961 (2023-07-20)**, 1.1.2 · relator **Rafael Vitale** · Alteração da Resolução 5.976/2022 (Regimento Interno da ANTT) nos dispositivos sobre o processo de participação e controle social, consequência do 1.1 → vista coletiva (retorna na reunião de 3/8/2023)
+  - votos: Rafael: relator · [vídeo](https://www.youtube.com/watch?v=zV1cOhU21bk&t=75s)
+- **RD 961 (2023-07-20)**, 1.2.1 · relator **Guilherme Sampaio** · Relatório final da Audiência Pública 10/2020 e resolução que regulamenta a destinação dos recursos para desenvolvimento tecnológico (RDT) e para prese → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: outro; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=zV1cOhU21bk&t=366s)
+- **RD 961 (2023-07-20)**, 1.4.2 · relator **Lucas Asfor** · Abertura de audiência pública para revisão e atualização da regulação do transporte rodoviário internacional de cargas (Resoluções 5.583/2017 e 5.840/ → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=zV1cOhU21bk&t=2303s)
+- **RD 962 (2023-08-03)**, 1.1.1 · relator **Rafael Vitale** · Alteração da Resolução 5.976/2022 (Regimento Interno da ANTT) nos dispositivos sobre o processo de participação e controle social → aprovado por unanimidade
+  - votos: Rafael: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=VWrJuw_pj9c&t=181s)
+- **RD 962 (2023-08-03)**, 1.3.1 · relator **Luciano Lourenço** · Abertura de audiência pública sobre proposta de revisão do processo de recebimento e tratamento de reclamações de usuários contra empresas reguladas;  → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=VWrJuw_pj9c&t=698s)
+- **RD 962 (2023-08-03)**, 1.4.1 · relator **Lucas Asfor** · Relatório final da Audiência Pública 2/2023 e aprovação da minuta de resolução do Vale-Pedágio obrigatório (revisão da Res. 2.885/2008): habilitação d → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=VWrJuw_pj9c&t=1123s)
+- **RD 963 (2023-08-17)**, 1.2.4 · relator **Felipe Queiroz** · Relatório de AIR e abertura de audiência pública sobre proposta de alteração da Resolução 5.083/2016 (regulamento do processo administrativo sancionad → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=gHtXTxOWagI&t=1051s)
+- **RD 963 (2023-08-17)**, 1.3.2 · relator **Lucas Asfor** · Relatório final da Audiência Pública 9/2022 sobre o lote rodoviário BR-040 (Cristalina/GO a Belo Horizonte/MG) — «Rota dos Cristais» (minutas de edita → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=gHtXTxOWagI&t=1615s)
+- **RD 964 (2023-08-31)**, 1.2.7 · relator **Felipe Queiroz** · Abertura de audiência pública sobre o aprimoramento da metodologia e atualização do cálculo do WACC regulatório para ferrovias federais concedidas → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZFIKmP4URxc&t=2509s)
+- **RD 80 (extraordinária) (2023-09-06)**, 1.1 · relator **Guilherme Sampaio** · Novo plano de outorga da concessão do sistema rodoviário da BR-040/MG, trecho Belo Horizonte a Juiz de Fora (cerca de 231 km), após a separação do pro → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Lucas: acompanha; Felipe: acompanha · [vídeo](https://www.youtube.com/watch?v=gw2fw05g5Mc&t=921s)
+- **RD 965 (2023-09-14)**, 1.3.4 · relator **Felipe Queiroz** · Relatório final da Audiência Pública 12/2022 sobre minutas de edital e contrato, PER e estudos de viabilidade (TEA) para concessão da BR-262/MG entre  → aprovado por unanimidade (em bloco com o 1.3.5)
+  - votos: Felipe: relator; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=oXHjEvN4wz8&t=2101s)
+- **RD 965 (2023-09-14)**, 1.3.5 · relator **Felipe Queiroz** · Relatório final da Audiência Pública 14/2022 sobre concessão do lote BR-153/GO e BR-262/MG (Hidrolândia-divisa MG/SP e BR-262 até Uberaba); plano de o → aprovado por unanimidade (em bloco com o 1.3.4)
+  - votos: Felipe: relator; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=oXHjEvN4wz8&t=2152s)
+- **RD 966 (2023-09-28)**, 1.1.6 · relator **Guilherme Sampaio** · Reabertura da audiência pública para colher contribuições aos estudos da prorrogação do prazo de vigência contratual → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=fHz1cg_TFkA&t=1822s)
+- **RD 971 (2023-12-07)**, 1.2.1 · relator **Guilherme Sampaio** · Relatório final da Audiência Pública 5/2021 e resolução que regulamenta as operações acessórias no transporte ferroviário de cargas (agenda regulatóri → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=GE0Xxv-shHs&t=1945s)
+- **RD 972 (2023-12-21)**, 1.2.1 · relator **Guilherme Sampaio** · Abertura de audiência pública sobre a minuta do RCR4, quarta norma do Regulamento das Concessões Rodoviárias (fiscalização e penalidades), que inclui  → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=gHjCizk8PhQ&t=361s)
+- **RD 972 (2023-12-21)**, 1.2.3 · relator **Guilherme Sampaio** · Relatório final da Audiência Pública 13/2022 e aprovação do novo modelo de alocação de riscos para os contratos de concessão rodoviária → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=gHjCizk8PhQ&t=734s)
+- **RD 972 (2023-12-21)**, 1.3.3 · relator **Luciano Lourenço** · Relatório final da Audiência Pública 4/2023 e aprovação da resolução que institui o RCR3 (terceira norma do Regulamento das Concessões Rodoviárias, eq → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=gHjCizk8PhQ&t=3757s)
+- **RD 972 (2023-12-21)**, 1.3.7 · relator **Luciano Lourenço** · Novo marco regulatório do TRIP: regulamentação dos serviços regulares de transporte rodoviário coletivo interestadual de passageiros em regime de auto → aprovado por unanimidade — voto do relator com alterações propostas pelo Diretor-Geral Raf
+  - votos: Luciano: relator; Rafael: revisor_acompanha; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=gHjCizk8PhQ&t=5302s)
+- **RD 972 (2023-12-21)**, 1.4.2 · relator **Felipe Queiroz** · Recurso contra a Nota Técnica SEI 7322/2022 (Sufer) que indeferiu pedido cautelar da concessionária contra a obrigação de prestar transporte ferroviár → aprovado por unanimidade — recurso conhecido e desprovido
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=gHjCizk8PhQ&t=10708s)
 - **RD 973 (2024-01-18)**, 1.1.1 · relator **Guilherme Sampaio** · Relatório final da Audiência Pública 11/2023 e alteração da Resolução 5867/2020 (regras gerais, metodologia e coeficientes dos pisos mínimos de frete  → aprovado por unanimidade
   - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=LNSg-EtO5zg&t=121s)
 - **RD 973 (2024-01-18)**, 1.2.2 · relator **Felipe Queiroz** · Relatório final da Audiência Pública 10/2023 e aprovação da metodologia de avaliação do nível de risco e de estimativa do custo médio ponderado de cap → aprovado por unanimidade

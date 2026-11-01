@@ -1,0 +1,193 @@
+{
+  "meta": {"video_id": "p7zNI6qIpS4", "fonte": "legenda automática do YouTube (qualidade baixa); falantes inferidos; ts = tempo do vídeo (sessão começa ~0:05:23); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "950", "data": "2023-02-16", "formato": "videoconferência, transmitida ao vivo no YouTube",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Davi Barreto", "Guilherme Sampaio", "Luciano Lourenço"],
+    "ausentes": ["Felipe Queiroz (em férias)"],
+    "observacoes": ["Última reunião de Davi Barreto como diretor (cerca de quatro anos e mais de 100 reuniões); encerrada com homenagens de diretores, ouvidor Robson, procurador-geral Milton, secretária-geral substituta Débora, e salva de palmas também pelos 21 anos da ANTT (18/02/2023).", "A ata da 949ª reunião foi aprovada sem leitura.", "Itens marcantes: primeiro sandbox regulatório da ANTT e primeiro free flow em concessão rodoviária federal (CCR Rio–São Paulo, BR-101/RJ), votados em conjunto pelo relator Luciano Lourenço; audiência pública da BR-163/MS (Rota do Pantanal) como primeiro projeto com o novo WACC regulatório rodoviário.", "Todos os 13 itens deliberados foram unânimes, exceto o 2.2.4 retirado de pauta; o 2.2.7 foi aprovado nos termos do voto-vista (revisor) de Davi Barreto, com adesão do relator Guilherme Sampaio."]
+  },
+  "itens": [
+    {
+      "id": "2.1.1", "ts": "0:06:26",
+      "processo": "50500.268997/2022-54", "interessado": "Superintendência de Infraestrutura Rodoviária (Surod)",
+      "assunto": "Alteração da Resolução 5.977/2022 (estrutura organizacional): atribuições da coordenação de instrução processual para processo administrativo simplificado e restabelecimento da competência da Gefop para decidir em primeira instância",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções", "regulação normativa", "institucional"],
+      "relator": "Rafael Vitale", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "A descentralização anterior (decisão em primeira instância pelas coordenações regionais) gerou decisões díspares; restabelecer a Gefop como decisora harmoniza decisões e dá celeridade à conclusão dos processos.",
+      "votos": [
+        {"diretor": "Rafael Vitale", "voto": "relator, aprova", "ts": "0:06:30", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:08:00", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo", "ts": "0:08:04", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "de acordo", "ts": "0:08:08", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.2.1", "ts": "0:08:43",
+      "processo": "50500.238307/2017-75", "interessado": "Guerino Seiscento Transportes S.A. (nome conforme legenda)",
+      "assunto": "Processo administrativo ordinário por serviço não autorizado na linha Curitiba/PR–Penápolis/SP; sugestão de cassação, contraposta ao arquivamento proposto pela Sufis; multa por conversão",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Davi Barreto", "resultado": "aprovado por unanimidade — multa de R$ 25.386,62",
+      "resumo_voto": "Relator rejeita o arquivamento proposto pela Sufis (a empresa obteve autorização depois): a prática reiterada e a ineficácia das multas anteriores justificam a abertura; seria cabível cassação dos mercados que ligam as duas cidades, mas, pela qualidade do serviço e pela regularização, converte-se em multa (art. 65 da Res. 5.083/2016) de R$ 25.386,62.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "relator, aplica multa por conversão da cassação", "ts": "0:08:50", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "0:12:15", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:12:20", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha integralmente o relator", "ts": "0:12:25", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.2.2", "ts": "0:12:34",
+      "processo": "50500.012818/2022-6 (parcial)", "interessado": "Januária Transportes e Turismo Ltda.",
+      "assunto": "Processo administrativo ordinário por serviço regular não autorizado na linha Formosa/GO–Brasília via Planaltina; cassação do mercado",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Davi Barreto", "resultado": "aprovado por unanimidade — cassação do mercado Formosa/GO–Brasília/DF",
+      "resumo_voto": "Concorda com a materialidade apontada pela comissão, mas, seguindo a Procuradoria, a cassação deve recair sobre o mercado e não só sobre a linha (prefixo 12-03441-00), para ser efetiva. Rejeita converter em multa: a empresa não entrega dados operacionais, continuou a prática (constatada em fiscalização do ano) e teve todas as linhas suspensas por medida cautelar em fevereiro por insuficiência de frota. Sem prejuízo aos usuários: oito empresas atendem o mercado em 33 linhas.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "relator, aplica cassação do mercado sem conversão em multa", "ts": "0:12:49", "justificativa": "reiteração, ausência de dados operacionais e continuidade da infração; baixo risco de desassistência", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:16:15", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:16:18", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:16:22", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.2.3", "ts": "0:16:32",
+      "processo": "50500.116062/2021-11", "interessado": "Viação Esmeralda Transporte Ltda.",
+      "assunto": "Processo administrativo ordinário por serviços não autorizados, paralisação e incompatibilidade de frota; suspensão convolada em multa",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Davi Barreto", "resultado": "aprovado por unanimidade — multa por conversão de suspensão (valor ≈ R$ 23 mil, conforme Res. ANTT 233/2003)",
+      "resumo_voto": "Relator diverge da unidade técnica quanto ao processo único: fatos anteriores à Res. 4.770/2015 (autorização judicial) e posteriores (autorização administrativa) têm naturezas e regramentos distintos e não devem ser apurados em conjunto. Reconhece infração grave (art. 78-G da Lei 10.233/2001, suspensão), mas como a outorga judicial não existe mais, converte em multa (art. 65 da Res. 5.083/2016, dosimetria da Res. 233/2003). Recomenda que a Superintendência analise o plano de adequação apresentado pela empresa (Res. 5.823/2018) e apure em novo processo os fatos posteriores, preferencialmente após exame de viabilidade de termo de ajustamento de conduta.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "relator, aplica multa e diverge da proposta de processo único", "ts": "0:16:45", "justificativa": "princípio da tempus regit actum e natureza jurídica distinta dos serviços", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:22:20", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:22:24", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:22:28", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.2.4", "ts": "0:22:34",
+      "processo": "50501.34516/2020-46 (parcial)", "interessado": "Concessionária Vale (ferrovia); sustentação oral solicitada pelo advogado Felipe Alves Pacheco (Celulose Brasileira)",
+      "assunto": "Pedido de reconsideração contra a Nota Técnica 8840/2022 da Sufer, em processo de arbitramento entre concessionária e usuário; sustentação oral",
+      "tema": ["ferrovias", "judicializacao"],
+      "relator": "Davi Barreto", "resultado": "retirado de pauta pelo relator",
+      "resumo_voto": "Relator retira de pauta a pedido das partes: nota técnica não é ato decisório previsto no Regimento nem a Superintendência é competente para decidir o mérito do arbitramento, o que levaria a não conhecer do pedido e devolver o processo à área técnica; processo complexo (mais de dois anos, cautelar vigente, discussão sobre quem são as partes do contrato); há dúvida sobre sigilo dos documentos. Fará diligência à área técnica e à Procuradoria; novo relator poderá ser sorteado.",
+      "votos": []
+    },
+    {
+      "id": "2.2.5", "ts": "0:26:30",
+      "processo": "50500.022259/2023-43", "interessado": "Superintendência de Concessão da Infraestrutura (Sucon)",
+      "assunto": "Abertura de audiência pública sobre minutas de edital, contrato, PER e estudos de viabilidade da concessão da BR-163/MS (Rota do Pantanal), da divisa MS/MT (entroncamento BR-262) a Campo Grande, ≈ 379,6 km",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "participação social"],
+      "relator": "Davi Barreto", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Trecho da antiga concessão da Rodovia Sul-Mato-Grossense (qualificada para relicitação após devolução amigável em 2019); o lote original foi dividido em dois projetos. Projeto de 30 anos com 67 km de duplicação, 84 km de faixas adicionais, 2,5 km de vias marginais e travessias urbanas; primeiro projeto com o novo WACC regulatório rodoviário (nível de risco CR1), resultando em tarifa básica de pedágio de pista simples de cerca de R$ 12,20 por 100 km e deságio máximo previsto de cerca de 14,28%.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "relator, aprova abertura da audiência pública", "ts": "0:26:30", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:31:15", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator; destaca a importância de avançar rapidamente com a relicitação", "ts": "0:31:20", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "aprovado; parabeniza o voto", "ts": "0:31:30", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.2.6", "ts": "0:31:42",
+      "processo": "50500.118723/2022-15", "interessado": "Concessionária Ecovias do Cerrado",
+      "assunto": "Segunda revisão ordinária, segunda revisão extraordinária e reajuste da tarifa básica de pedágio (edital 1/2019; BR-364/365, GO/MG)",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "pedágio (tarifa)"],
+      "relator": "Davi Barreto", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Trazido à reunião presencial (em vez de deliberação eletrônica) para tornar os reajustes e revisões tempestivos. Reajuste pelo IPCA = +7,17%; com os componentes das revisões (fatores C, D etc.), resultado líquido de +3,85% na tarifa básica, de R$ 5,20 para R$ 5,40 (categoria 1); Ministério da Fazenda comunicado previamente (art. 24, VII, Lei 10.233/2001); Procuradoria favorável.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "relator, aprova revisões e reajuste", "ts": "0:31:50", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator; destaca diretriz de cumprir revisões anuais nas datas de aniversário dos contratos", "ts": "0:34:40", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:34:55", "confianca": "baixa"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:35:00", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.2.7", "ts": "0:35:11",
+      "processo": "50500.100049/2021-31", "interessado": "Viação Novo Horizonte Ltda.",
+      "assunto": "Processo administrativo ordinário (voto-vista): suspensão de autorização por 55 dias, sem aplicação cumulativa de multa",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — nos termos do voto-vista de Davi Barreto (suspensão de 55 dias, sem multa)",
+      "resumo_voto": "Voto TGS 121/2022 do relator, apresentado na RD 944 (17/11/2022), teve vista pedida por Davi Barreto, que apresentou o voto-vista DDB 001/2023. O revisor acompanha a materialidade e a suspensão, mas, após nova consulta à Procuradoria, concluiu que a multa proposta pela área técnica não pode ser aplicada cumulativamente com a suspensão, enquanto não há novo marco de penalidades. Relator adere ao voto-vista.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "voto-vista: acompanha parcialmente o relator; aplica só a suspensão de 55 dias, sem a multa", "ts": "0:35:47", "justificativa": "parecer da Procuradoria afasta a multa cumulativa com suspensão; aplicar apenas suspensão", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "relator, acompanha o voto-vista e retifica seu voto", "ts": "0:37:49", "justificativa": "aperfeiçoamento construtivo e dialógico; busca de estabilidade e segurança jurídica regulatória", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o voto de Davi Barreto; parabeniza os dois pela complementariedade", "ts": "0:38:20", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o voto revisor de Davi Barreto", "ts": "0:38:45", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.3.1", "ts": "0:39:03",
+      "processo": "50500.117653/2021-05", "interessado": "Superintendência de Transporte Ferroviário (Sufer)",
+      "assunto": "Alteração da Res. 5.818/2018 para delegar à Sufer a competência para aprovar revisões das taxas de depreciação e amortização e conduzir as revisões ordinárias dos contratos ferroviários",
+      "tema": ["ferrovias", "regulação normativa", "reequilíbrio contratual", "institucional"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Delegação possível pelo art. 12 da Lei 9.784/1999 (a matéria não se enquadra nas vedações do art. 13); Procuradoria e área técnica apontam conveniência; atende ao princípio da eficiência e à celeridade sem perder qualidade das decisões.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova a delegação", "ts": "0:39:10", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "acompanha integralmente", "ts": "0:42:00", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:42:05", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:42:08", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.4.1", "ts": "0:42:20",
+      "processo": "50500.248651/2023-01 (parcial)", "interessado": "Rumo Malha Oeste S.A.",
+      "assunto": "Terceiro termo aditivo ao contrato de concessão: alterar prazo do acordo previsto no segundo termo aditivo, prorrogar obrigações não financeiras (levantamento da base de ativos e passivos) e a vigência do segundo termo aditivo por 24 meses, no processo de relicitação (Lei 13.448/2017)",
+      "tema": ["ferrovias", "relicitação", "reequilíbrio contratual"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Relicitação qualificada pelo Decreto 10.633/2021; o acordo (180 dias) não foi assinado; o CPPI deliberou em 15/02/2023 prorrogar por 24 meses o processo a partir de 19/02/2023 (Deliberação CPPI 1/2023). Sufer e Procuradoria favoráveis. O segundo termo aditivo vencia em 18/02/2023, e o terceiro precisava ser assinado até essa data. Prorrogação por 12 meses da obrigação de levantamento de ativos e passivos (art. 65 da Lei 14.273/2021).",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aprova o terceiro termo aditivo", "ts": "0:42:30", "justificativa": "maior segurança jurídica e assertividade na modelagem, participação social e análise do TCU", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "acompanha o relator", "ts": "0:50:20", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:50:25", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator; agradece ao Ministério dos Transportes e à Secretaria do PPI", "ts": "0:50:30", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.4.2", "ts": "0:50:58",
+      "processo": "50500.276322/2022-89", "interessado": "Concessionária do Sistema Rodoviário Rio–São Paulo (CCR RioSP)",
+      "assunto": "Termo aditivo ao contrato de concessão (edital 3/2021) para regulamentar obrigações e efeitos do sandbox regulatório do pedágio em fluxo livre (free flow) na BR-101/RJ (praças de Itaguaí, Mangaratiba e Paraty; Rio de Janeiro a Ubatuba/SP)",
+      "tema": ["concessões rodoviárias", "pedágio free flow", "sandbox / inovação", "reequilíbrio contratual"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade (votado em conjunto com 2.4.3)",
+      "resumo_voto": "Primeiro free flow em concessão rodoviária federal. CCR protocolou a proposta em 31/08/2022 (substituir três praças de pedágio da BR-101 por pórticos eletrônicos) e a diretoria criou um GT com quatro frentes (regulação/sandbox, contrato e equilíbrio, infraestrutura e tecnologia, comunicação). Questões de acesso ao banco nacional de veículos (Senatran, LGPD) tratadas com o Ministério dos Transportes. Termo aditivo atende recomendações da Procuradoria; benefícios apontados: segurança, fluidez, menor custo, ganho ambiental, justiça tarifária (cobrança por quilômetro) e descontos com tag (acima de 70% para usuários frequentes).",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aprova o termo aditivo", "ts": "0:52:23", "justificativa": "inovação regulatória, comportamental e tecnológica (Pró-Rev); projeto replicável em outras concessões", "tom": "entusiástico", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "acompanha integralmente o relator nos dois votos; parabeniza a liderança de Luciano e a rapidez (cerca de seis meses, de agosto a fevereiro)", "ts": "1:12:55", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente o relator", "ts": "1:15:00", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha integralmente o relator; destaca a coragem da inovação e o programa de experiência internacional", "ts": "1:17:30", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.4.3", "ts": "0:51:53",
+      "processo": "50500.172066/2022-51", "interessado": "CCR Rio–São Paulo / Superintendência de Infraestrutura Rodoviária",
+      "assunto": "Aprovação do termo de referência e plano de trabalho do ambiente regulatório experimental (sandbox) para teste de cobrança eletrônica em fluxo livre na BR-101/RJ, nos termos da Res. 5.999/2022; portaria de constituição da comissão do sandbox",
+      "tema": ["pedágio free flow", "sandbox / inovação", "concessões rodoviárias", "participação social", "regulação normativa"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade (votado em conjunto com 2.4.2)",
+      "resumo_voto": "Primeiro sandbox regulatório da ANTT. Tomada de Subsídios 9/2022 recebeu contribuições com relatório simplificado (TS-009). O termo de referência tem 24 cláusulas; cláusula 7.4 ajustada para que a fiscalização da evasão de pedágio inicie três meses após o início da operação (período só de notificações e cobranças); início da cobrança condicionado às condições da cláusula 19.2 do contrato. Determina divulgação do termo de referência no site da ANTT.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aprova o termo de referência e o plano de trabalho", "ts": "0:52:23", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "acompanha integralmente o relator", "ts": "1:12:55", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente o relator", "ts": "1:15:00", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha integralmente o relator", "ts": "1:17:30", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "extrapauta", "ts": "1:20:17",
+      "processo": "50500.297138/2022-72", "interessado": "Superintendência de Serviços de Transporte Rodoviário de Passageiros (Sufis); Distrito Federal",
+      "assunto": "Referendo da Deliberação 35 de 03/02/2023, que aprovou a extinção do convênio de delegação 1/2020 denunciado pelo Distrito Federal e o encerramento do período de transição; a ANTT reassume em 14/02/2023 a gestão do transporte interestadual semiurbano na região integrada de desenvolvimento do DF e entorno (art. 26, I, da Lei 10.233/2001)",
+      "tema": ["ônibus (semiurbano)", "institucional"],
+      "relator": "Rafael Vitale", "resultado": "aprovado por unanimidade (inclusão extrapauta por concordância dos diretores)",
+      "resumo_voto": "Referendo da deliberação que encerrou o convênio de delegação com o Distrito Federal e o GT instituído pela Portaria DG 518/2022; a medida cumpre o prazo de transição.",
+      "votos": [
+        {"diretor": "Rafael Vitale", "voto": "relator, referenda a Deliberação 35", "ts": "1:20:20", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "1:21:10", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo", "ts": "1:21:13", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "de acordo", "ts": "1:21:16", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"item": "2.2.4 — pedido de reconsideração contra a NT 8840/2022 da Sufer (arbitramento de concessionária ferroviária e usuário, sustentação oral prevista)", "relator": "Davi Barreto", "motivo": "a pedido das partes e por dúvidas de competência (nota técnica não é ato decisório), sigilo e complexidade; diligência à área técnica e Procuradoria", "ts": "0:23:23"}
+  ],
+  "limites_da_analise": ["Legenda automática de baixa qualidade; números de processo parciais ou distorcidos (apenas os mais nítidos foram mantidos), valores como R$ 23 mil da Viação Esmeralda omitidos por incerteza.", "O nome Guerino Seiscento reflete a legenda ('Guerino 600'); o nome real da empresa pode diferir.", "Item 2.4.2 e 2.4.3 foram relatados e votados em conjunto; ts e justificativas dos votos de seguidores se aplicam aos dois e são aproximados (1:12 a 1:20).", "Identificação da empresa do item 2.2.4 (Vale) e do processo está incerta na legenda.", "Número de pauta do item extrapauta não existe; id 'extrapauta' adotado.", "Valores de tarifa e deságio da BR-163/MS e do reajuste da Ecovias do Cerrado vêm da legenda e devem ser conferidos."]
+}

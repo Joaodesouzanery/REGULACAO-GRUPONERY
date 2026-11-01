@@ -1,5 +1,19 @@
 # Itens do tema «sandbox_inovacao» (todos os diretores)
 
+- **RD 949 (2023-02-02)**, 2.3.3 · relator **Luciano Lourenço** · Recurso (pedido de reconsideração) contra a Deliberação 389/2022 que cassou a autorização de fretamento por circuito aberto e venda de bilhetes via pl → aprovado por unanimidade — conhecido, sem efeito suspensivo; não provido; com determinação
+  - votos: Luciano: relator; Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=58YX4d-4chY&t=2339s)
+- **RD 950 (2023-02-16)**, 2.4.2 · relator **Luciano Lourenço** · Termo aditivo ao contrato de concessão (edital 3/2021) para regulamentar obrigações e efeitos do sandbox regulatório do pedágio em fluxo livre (free f → aprovado por unanimidade (votado em conjunto com 2.4.3)
+  - votos: Luciano: relator; Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=3058s)
+- **RD 950 (2023-02-16)**, 2.4.3 · relator **Luciano Lourenço** · Aprovação do termo de referência e plano de trabalho do ambiente regulatório experimental (sandbox) para teste de cobrança eletrônica em fluxo livre n → aprovado por unanimidade (votado em conjunto com 2.4.2)
+  - votos: Luciano: relator; Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=3113s)
+- **RD 953 (2023-03-30)**, 2.2.1 · relator **Luciano Lourenço** · Instrução normativa sobre a inspeção de projetos, orçamentos e obras de engenharia por Organismos de Inspeção Acreditados (OIAs, Inmetro) nos contrato → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=HNl8PagFcCc&t=949s)
+- **RD 959 (2023-06-22)**, 1.2.2 · relator **Guilherme Sampaio** · 1º termo aditivo ao contrato (edital 1/2019, BR-364/365, GO/MG) para regulamentar as obrigações e efeitos da autorização temporária do ambiente regula → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=lDeW01HYX8Q&t=320s)
+- **RD 961 (2023-07-20)**, 1.2.1 · relator **Guilherme Sampaio** · Relatório final da Audiência Pública 10/2020 e resolução que regulamenta a destinação dos recursos para desenvolvimento tecnológico (RDT) e para prese → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: outro; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=zV1cOhU21bk&t=366s)
+- **RD 969 (2023-11-09)**, 1.2.2 · relator **Luciano Lourenço** · Pedido de reconsideração contra a Deliberação 320/2023 (28/09/2023) que cassou o TAF (autorização de fretamento) por circuito aberto; sustentação oral → aprovado por unanimidade — conhecido, sem efeito suspensivo; não provido
+  - votos: Luciano: relator; Guilherme: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=M_pRe8N6j9g&t=536s)
 - **RD 994 (2024-10-31)**, 1.2.1 · relator **Guilherme Sampaio** · Abertura de consulta pública sobre a proposta de readequação e otimização do contrato de concessão da BR-101/ES-BA (Eco 101), incluindo minutas de edi → aprovado por unanimidade
   - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=VnHLaZxsXeY&t=414s)
 - **RD 994 (2024-10-31)**, 1.2.2 · relator **Guilherme Sampaio** · Termo de referência de ambiente regulatório experimental (sandbox, Resolução 5.999/2022) para processo competitivo de transferência do controle acioná → aprovado por unanimidade

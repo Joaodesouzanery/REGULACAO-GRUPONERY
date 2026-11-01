@@ -1,5 +1,63 @@
 # Itens do tema «ferrovias» (todos os diretores)
 
+- **RD 948 (2023-01-19)**, 2.3.1 · relator **Felipe Queiroz** · Celebração de contrato de adesão para outorga, por autorização, de construção e exploração de estrada de ferro no município de Três Lagoas/MS (trecho  → aprovado por unanimidade (em bloco com 2.3.2)
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZX8Rm7GspUY&t=1205s)
+- **RD 948 (2023-01-19)**, 2.3.2 · relator **Felipe Queiroz** · Celebração de contrato de adesão para outorga, por autorização, de construção e exploração de estrada de ferro entre Três Lagoas/MS e Aparecida do Tab → aprovado por unanimidade (em bloco com 2.3.1)
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZX8Rm7GspUY&t=1205s)
+- **RD 948 (2023-01-19)**, 2.3.4 · relator **Felipe Queiroz** · Alteração da Resolução 5.819/2018 (procedimentos para requerimento de declaração de utilidade pública para projetos de investimento) para incluir as a → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZX8Rm7GspUY&t=2490s)
+- **RD 949 (2023-02-02)**, 2.3.1 · relator **Luciano Lourenço** · Alteração do art. 17 da Resolução 5.845/2019 (autocomposição e arbitragem na ANTT) para permitir o árbitro de emergência antes de recorrer ao Poder Ju → aprovado por unanimidade
+  - votos: Luciano: relator; Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=58YX4d-4chY&t=928s)
+- **RD 950 (2023-02-16)**, 2.2.4 · relator **Davi Barreto** · Pedido de reconsideração contra a Nota Técnica 8840/2022 da Sufer, em processo de arbitramento entre concessionária e usuário; sustentação oral → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=1354s)
+- **RD 950 (2023-02-16)**, 2.3.1 · relator **Guilherme Sampaio** · Alteração da Res. 5.818/2018 para delegar à Sufer a competência para aprovar revisões das taxas de depreciação e amortização e conduzir as revisões or → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=2343s)
+- **RD 950 (2023-02-16)**, 2.4.1 · relator **Luciano Lourenço** · Terceiro termo aditivo ao contrato de concessão: alterar prazo do acordo previsto no segundo termo aditivo, prorrogar obrigações não financeiras (leva → aprovado por unanimidade
+  - votos: Luciano: relator; Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=2540s)
+- **RD 953 (2023-03-30)**, 2.2.1 · relator **Luciano Lourenço** · Instrução normativa sobre a inspeção de projetos, orçamentos e obras de engenharia por Organismos de Inspeção Acreditados (OIAs, Inmetro) nos contrato → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=HNl8PagFcCc&t=949s)
+- **RD 953 (2023-03-30)**, 2.4.1 · relator **Lucas Asfor** · Abertura de audiência pública sobre minutas de edital e contrato e estudos de viabilidade da relicitação da Malha Oeste (1.973 km, SP e MS, de Mairinq → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=HNl8PagFcCc&t=2290s)
+- **RD 955 (2023-04-27)**, 2.1.2 · relator **Luciano Lourenço** · Alteração da Resolução 5.987/2022 (processo de requerimento de autorização para exploração de novas ferrovias, pátios e instalações acessórias) → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=IPO0UDqZLhk&t=375s)
+- **RD 955 (2023-04-27)**, 2.1.4 · relator **Luciano Lourenço** · Reclamações da subconcessionária sobre vícios ocultos em bens da ferrovia transferidos pela subcedente → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=IPO0UDqZLhk&t=905s)
+- **RD 956 (2023-05-11)**, 2.5.2 · relator **Lucas Asfor** · Aprovação do projeto executivo do trecho km 71+300 a km 104+500 da Ferrovia de Integração do Centro-Oeste (Fico), no investimento cruzado do 3º termo  → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=iczBBFrwdCU&t=4501s)
+- **RD 958 (2023-06-07)**, 1.3.1 · relator **Luciano Lourenço** · Alteração da Resolução 5.818/2018 (delegação de competências da Diretoria às superintendências) para restabelecer a delegação à SUFER de publicar extr → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=6CjKqEHMaEU&t=1486s)
+- **RD 960 (2023-07-06)**, 1.2.7 · relator **Guilherme Sampaio** · Abertura de audiência pública sobre proposta de regulamentação do Comitê de Prevenção e Solução de Disputas (dispute board) em contratos de concessão  → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: outro; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=DwgBVKxy9Uw&t=2295s)
+- **RD 961 (2023-07-20)**, 1.2.1 · relator **Guilherme Sampaio** · Relatório final da Audiência Pública 10/2020 e resolução que regulamenta a destinação dos recursos para desenvolvimento tecnológico (RDT) e para prese → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: outro; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=zV1cOhU21bk&t=366s)
+- **RD 962 (2023-08-03)**, 1.2.1 · relator **Guilherme Sampaio** · Celebração de contrato de adesão para outorga, por autorização, de construção e exploração de terminal ferroviário intermodal em Santa Gertrudes/SP (á → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=VWrJuw_pj9c&t=262s)
+- **RD 962 (2023-08-03)**, 1.2.3 · relator **Guilherme Sampaio** · Requerimento para inserir cláusula contratual sobre a falta de pagamento de parcelas de arrendamento e concessão → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=VWrJuw_pj9c&t=551s)
+- **RD 964 (2023-08-31)**, 1.1.2 · relator **Luciano Lourenço** · Pedido de reconsideração contra a deliberação 94 de 31/03/2023 que indeferiu o pedido de outorga por autorização para construir e explorar estrada de  → aprovado por unanimidade — reconsideração conhecida e desprovida
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZFIKmP4URxc&t=158s)
+- **RD 964 (2023-08-31)**, 1.2.7 · relator **Felipe Queiroz** · Abertura de audiência pública sobre o aprimoramento da metodologia e atualização do cálculo do WACC regulatório para ferrovias federais concedidas → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZFIKmP4URxc&t=2509s)
+- **RD 966 (2023-09-28)**, 1.1.6 · relator **Guilherme Sampaio** · Reabertura da audiência pública para colher contribuições aos estudos da prorrogação do prazo de vigência contratual → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=fHz1cg_TFkA&t=1822s)
+- **RD 968 (2023-10-26)**, 1.2.2 · relator **Luciano Lourenço** · Análise das reclamações da subconcessionária sobre vícios ocultos nos bens da ferrovia cuja posse foi transferida pela Valec; com sustentação oral do  → retirado de pauta pelo relator
+  - votos: Luciano: relator · [vídeo](https://www.youtube.com/watch?v=jZZousurLsY&t=830s)
+- **RD 969 (2023-11-09)**, 1.2.3 · relator **Luciano Lourenço** · Alteração da Resolução 5.819/2018 (procedimentos para requerimento de declaração de utilidade pública, DUP, em projetos de outorgas da ANTT) → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=M_pRe8N6j9g&t=1880s)
+- **RD 969 (2023-11-09)**, 1.2.5 · relator **Luciano Lourenço** · Aprovação do projeto executivo da via permanente no trecho km 116+460 a km 131+260 da Ferrovia de Integração Centro-Oeste (FICO), no acordo de investi → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=M_pRe8N6j9g&t=2683s)
+- **RD 971 (2023-12-07)**, 1.2.1 · relator **Guilherme Sampaio** · Relatório final da Audiência Pública 5/2021 e resolução que regulamenta as operações acessórias no transporte ferroviário de cargas (agenda regulatóri → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=GE0Xxv-shHs&t=1945s)
+- **RD 971 (2023-12-07)**, 1.3.3 · relator **Luciano Lourenço** · Análise das reclamações de vícios ocultos nos bens da FIOL (quatro pleitos: patologia nos dormentes, carbonatação em obras de arte especiais, falta de → pedido de vista (Lucas Asfor) após a sustentação oral
+  - votos: Luciano: relator; Lucas: vista; Felipe: outro; Guilherme: outro; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=GE0Xxv-shHs&t=3453s)
+- **RD 971 (2023-12-07)**, 1.3.5 · relator **Luciano Lourenço** · Recurso administrativo com pedido de efeito suspensivo contra a Decisão SUFER 52/2023 (14/04/2023), que fixou o início da contagem do prazo de 5 anos  → aprovada, por unanimidade, a preliminar de suspender o julgamento até conhecer o resultado
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=GE0Xxv-shHs&t=5244s)
+- **RD 972 (2023-12-21)**, 1.3.2 · relator **Luciano Lourenço** · Recurso com efeito suspensivo contra decisão da Sufer sobre o início da contagem do prazo de 5 anos das obrigações de investimento da Ferrovia de Inte → aprovado por unanimidade — recurso conhecido e desprovido
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=gHjCizk8PhQ&t=2711s)
+- **RD 972 (2023-12-21)**, 1.4.2 · relator **Felipe Queiroz** · Recurso contra a Nota Técnica SEI 7322/2022 (Sufer) que indeferiu pedido cautelar da concessionária contra a obrigação de prestar transporte ferroviár → aprovado por unanimidade — recurso conhecido e desprovido
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=gHjCizk8PhQ&t=10708s)
+- **RD 972 (2023-12-21)**, 1.4.3 · relator **Felipe Queiroz** · Requerimento para inserir cláusula contratual que faculte o pagamento antecipado das parcelas vincendas do arrendamento → retirado de pauta pelo relator
+  - votos: Felipe: relator; Guilherme: outro · [vídeo](https://www.youtube.com/watch?v=gHjCizk8PhQ&t=11537s)
 - **RD 973 (2024-01-18)**, 1.2.1 · relator **Felipe Queiroz** · Requerimento para inserir cláusula contratual que faculte a antecipação do pagamento de parcelas vincendas de arrendamento (e concessão) → aprovado por unanimidade — conhecido e negado provimento
   - votos: Felipe: relator; Guilherme: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=LNSg-EtO5zg&t=640s)
 - **RD 973 (2024-01-18)**, 1.2.2 · relator **Felipe Queiroz** · Relatório final da Audiência Pública 10/2023 e aprovação da metodologia de avaliação do nível de risco e de estimativa do custo médio ponderado de cap → aprovado por unanimidade

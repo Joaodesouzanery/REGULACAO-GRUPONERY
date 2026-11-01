@@ -1,11 +1,11 @@
 # Perfil analítico — Felipe Queiroz · tema: tarifa_modicidade
 
-**Amostra:** presente em 89 das 93 reuniões analisadas em que há registro de presença/ausência; 16 votos neste tema; 5 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 114 das 122 reuniões analisadas em que há registro de presença/ausência; 16 votos neste tema; 5 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
 **Votos:** acompanha o relator 11 (100% dos votos em que não era relator) · relator 5 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 5/5 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 322/92; fiscalizacao_sancoes 244/63; onibus 135/38; onibus_regular 104/30; leilao_otimizacao 101/21; reequilibrio_contratual 94/27; participacao_social 87/24; regulacao_normativa 84/27; ferrovias 70/21; judicializacao 69/21; pedagio_freeflow 51/17; institucional 40/5; sandbox_inovacao 29/12; cargas 29/7; sustentabilidade 23/13; onibus_fretamento 20/6; tarifa_modicidade 16/5; onibus_semiurbano 6/0; outros 1/1
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 412/120; fiscalizacao_sancoes 380/101; onibus 220/58; onibus_regular 153/41; reequilibrio_contratual 128/37; regulacao_normativa 119/35; leilao_otimizacao 117/24; participacao_social 112/31; judicializacao 88/24; ferrovias 87/27; institucional 66/13; pedagio_freeflow 58/17; onibus_fretamento 56/15; cargas 40/10; sandbox_inovacao 32/12; sustentabilidade 26/13; tarifa_modicidade 16/5; onibus_semiurbano 7/0; outros 1/1
 **Argumentos recorrentes nas justificativas registradas:** evidência/dados (2); governança/rito (1); segurança jurídica (1); transparência (1)
 **Tom (inferência da leitura, não métrica):** didático
 

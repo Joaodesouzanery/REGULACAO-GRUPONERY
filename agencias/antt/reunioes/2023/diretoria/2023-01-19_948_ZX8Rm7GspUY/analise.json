@@ -1,0 +1,125 @@
+{
+  "meta": {"video_id": "ZX8Rm7GspUY", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:02); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "948", "data": "2023-01-19", "formato": "videoconferência (retomada das sessões presenciais, segundo o relator do 2.1.1)",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Luciano Lourenço", "Felipe Queiroz"],
+    "ausentes": ["Davi Barreto (férias)"],
+    "observacoes": ["Primeira reunião pública de Felipe Queiroz como diretor e primeira reunião do ano; Luciano Lourenço o saúda.", "Ata da RD 947 aprovada; Davi Barreto (férias) e Felipe Queiroz (não participou da 947) não votaram.", "Itens 2.3.1 e 2.3.2 deliberados em bloco (art. 68, §2º do Regimento Interno).", "8 itens deliberados (ata + 7 processos), todos aprovados por unanimidade. Encerrada às 16h15."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:02:17",
+      "processo": "ata da RD 947", "interessado": "Diretoria Colegiada",
+      "assunto": "Aprovação da ata da 947ª Reunião de Diretoria (leitura dispensada)",
+      "tema": ["institucional"],
+      "relator": "Rafael Vitale", "resultado": "aprovada por unanimidade dos votantes",
+      "resumo_voto": "Davi Barreto (férias) e Felipe Queiroz (não participou da 947) não votam.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo", "ts": "0:02:40", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "de acordo", "ts": "0:02:43", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "de acordo", "ts": "0:02:46", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.1.1", "ts": "0:03:03",
+      "processo": "50500.265780/2022-92", "interessado": "Superintendência de Serviços de Transporte Rodoviário de Passageiros (SUPAS)",
+      "assunto": "Abertura de audiência pública sobre a proposta de regulamentação das infrações, sanções e medidas administrativas aplicáveis aos serviços regulares de TRIP (autorização)",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções", "participação social", "regulação normativa"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Defende espaço dialógico para usuários e impactados participarem da construção da norma, dado o caráter vinculativo e a relevância; revisita a regulamentação de infrações e sanções para garantir segurança e prestação satisfatória do serviço, preceitos inegociáveis.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova abertura da audiência pública", "ts": "0:03:39", "justificativa": "garantir participação de todos os interessados; adequação das sanções à segurança e qualidade do serviço", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "de acordo com o relator", "ts": "0:05:50", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "em consonância com o relator, aprova", "ts": "0:05:56", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:06:06", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.1.2", "ts": "0:06:14",
+      "processo": "50500.123742/2021-82", "interessado": "Empresa de Transportes Andorinha S.A.",
+      "assunto": "Processo administrativo ordinário por transporte de mercadoria sujeita a pena de perdimento (art. 35, II da Lei 10.833/2003) em viagem de passageiros",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — sem aplicação de multa; determinada apuração pela fiscalização",
+      "resumo_voto": "Concorda com a comissão processante que não houve prova suficiente para individualizar volumes e natureza das mercadorias nem indício (dimensão dos volumes) que justificasse a abertura das bagagens, portanto acolhe a defesa quanto ao art. 35, II. Observa que a comissão teria aplicado multa por cobrança de valores excedentes sem amparo regulamentar, mas essa decisão não constou da ata e não foi debatida na instrução, o que violaria ampla defesa e contraditório; por isso não aplica multa por essa infração (art. 1º, III da Res. 233/2003), a não ser que se observe o direito de defesa em nova oportunidade, e determina que a Superintendência de Fiscalização apure a infração constatada.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, não aplica multa e determina nova apuração com ampla defesa", "ts": "0:06:30", "justificativa": "ausência de provas; preservação do contraditório e da ampla defesa", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator na integralidade", "ts": "0:09:35", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:09:40", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator de maneira integral", "ts": "0:09:48", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.2.1", "ts": "0:10:06",
+      "processo": "50500.025441/2020-11", "interessado": "Superintendência de Serviços de Transporte Rodoviário e Multimodal de Cargas (SUROC)",
+      "assunto": "Abertura de audiência pública para revisão e atualização da Resolução 2.885/2008 (Vale-Pedágio obrigatório, habilitação de fornecedoras, modelos e sistemas operacionais, infrações e penalidades)",
+      "tema": ["transporte rodoviário de cargas (piso mínimo do frete/CIOT)", "pedágio free flow", "regulação normativa", "participação social"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Histórico do Vale-Pedágio (MP 2.0xx/2000, Lei 10.209/2001, Lei 10.561/2002 transferindo competência à ANTT). Atualização motivada pela Lei 14.157/2021 (free flow), pela lei do documento eletrônico de transporte (DT-e), portarias complementares e novas tecnologias. Tomada de Subsídios 4/2022 (27/06 a 05/08/2022) recebeu 126 manifestações; a SUROC visitou 22 sites de fornecedoras já homologadas e fez AIR, escolhendo reformular a norma por completo. Audiência pública de 26/01/2023 a 12/03/2023, com sessão híbrida em 13/02/2023 (14h às 18h).",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aprova abertura da audiência pública", "ts": "0:10:43", "justificativa": "atualizar a norma frente a mudanças legais e tecnológicas, com participação social", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente o relator", "ts": "0:17:30", "justificativa": "marco antigo; redução de entraves burocráticos e de custo regulatório; maior fluidez para autônomos, empresas e cooperativas", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:18:50", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:19:26", "justificativa": "revolução regulatória (um dos três pilares: regulatória, tecnológica e comportamental)", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.3.1", "ts": "0:20:05",
+      "processo": "50500.030405/2022-23", "interessado": "Suzano S.A.",
+      "assunto": "Celebração de contrato de adesão para outorga, por autorização, de construção e exploração de estrada de ferro no município de Três Lagoas/MS (trecho de cerca de 25 km, 99 anos)",
+      "tema": ["ferrovias", "autorização ferroviária"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade (em bloco com 2.3.2)",
+      "resumo_voto": "Voto DFQ 002/2023. Mesma fundamentação do 2.3.2: Lei 14.273/2021 (marco legal ferroviário), Res. ANTT 5.987/2022, contrato de adesão padronizado (Deliberação 257/2022), Decreto 11.245/2022; requerimento da Secretaria Nacional de Transportes Terrestres; convergência com a política pública; prazo de 99 anos sem óbice.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova", "ts": "0:22:00", "justificativa": "incremento de capacidade ferroviária; liberdade de empreender sem contrariar o interesse público", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "0:29:50", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:29:55", "confianca": "baixa"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator nos dois votos", "ts": "0:30:05", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.3.2", "ts": "0:20:05",
+      "processo": "50500.030xxx/2022-xx (número truncado pela legenda)", "interessado": "Suzano S.A.",
+      "assunto": "Celebração de contrato de adesão para outorga, por autorização, de construção e exploração de estrada de ferro entre Três Lagoas/MS e Aparecida do Taboado/MS (cerca de 102 km, 99 anos)",
+      "tema": ["ferrovias", "autorização ferroviária"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade (em bloco com 2.3.1)",
+      "resumo_voto": "Voto DFQ 001/2023. Requerimento encaminhado em 31/03/2022 pela Secretaria Nacional de Transportes Terrestres; aviso de requerimento publicado em 21/11/2022; Ministério da Infraestrutura confirmou em 01/12/2022 a convergência com a política do setor; documentação e regularidade fiscal e de idoneidade (certidão no TCU) atendidas. A MP 1.065/2021 caducou em 06/02/2022, mantida a autorização pela Lei 14.273/2021. Prazo de 99 anos aceito como compatível com a liberdade de empreender.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova", "ts": "0:22:00", "justificativa": "incremento de capacidade; segurança jurídica do instituto da autorização ferroviária", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "0:29:50", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:29:55", "confianca": "baixa"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator nos dois votos", "ts": "0:30:05", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.3.3", "ts": "0:30:18",
+      "processo": "50500.393248/2019-69", "interessado": "Superintendência de Serviços de Transporte Rodoviário e Multimodal de Cargas (SUROC)",
+      "assunto": "Relatório final da Audiência Pública 11/2022 e revisão do Anexo II da Resolução 5.867/2020 (regras gerais, metodologia e coeficientes dos pisos mínimos de frete)",
+      "tema": ["transporte rodoviário de cargas (piso mínimo do frete/CIOT)", "regulação normativa", "participação social"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Lei 13.703/2018 (política nacional de pisos mínimos) exige atualização em 20/01 e 20/07; a MP 1.117/2022 (Lei 14.451/2022) reduziu de 10% para 5% a variação do diesel que aciona o gatilho. Atualização apoiada em acordo técnico com a Fundação de Estudos Agrários (FEALQ/USP), metodologia em cinco categorias. AP 11/2022 de 28/10 a 11/12/2022. Dados de mercado de julho/2022 corrigidos pelo IPCA até novembro/2022; diesel S10 em R$ 6,47/litro (ANP, semana de 9 a 13/01/2023). Reajustes médios informados: tabela A 13,19 p.p., B 12,26 p.p., C 10,08 p.p., D 8,35 p.p. Aprova: dispensa de AIR (Res. 5.976/2022, art. 96), relatório da AP e divulgação do relatório final.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova", "ts": "0:30:30", "justificativa": "cumprir o calendário legal da tabela e aprimorar a metodologia com participação social", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "0:41:15", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:41:18", "confianca": "baixa"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:41:21", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.3.4", "ts": "0:41:30",
+      "processo": "50500.244825/2022-95", "interessado": "Superintendência de Transporte Ferroviário (SUFER)",
+      "assunto": "Alteração da Resolução 5.819/2018 (procedimentos para requerimento de declaração de utilidade pública para projetos de investimento) para incluir as autorizatárias ferroviárias",
+      "tema": ["ferrovias", "autorização ferroviária", "regulação normativa"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Voto DFQ 004/2023. A Lei 14.273/2021 alterou o Decreto-Lei 3.365/1941 para legitimar autorizatárias a promover desapropriações e o Decreto 11.245/2022 (art. 40) atribuiu à ANTT regulamentar a DUP nessas outorgas; a Res. 5.819/2018 só previa concessionárias. Dispensa de PPCS (Res. 5.624/2017, art. 7º, III, por cumprimento de determinação legal) e de AIR (Res. 5.976/2022, art. 96, §2º), com anuência da Procuradoria. Vigência a partir de 01/02/2023 (Decreto 10.139/2019, art. 4º).",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova", "ts": "0:41:45", "justificativa": "adequação imposta por lei e decreto; sem problema regulatório novo; elogia a SUFER", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "0:52:50", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:53:02", "justificativa": "passo importante na regulamentação da autorização ferroviária, tornando concreta a expansão de capacidade", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha (proclama aprovação)", "ts": "0:53:30", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática com muitos erros: números de processo do 2.3.2 truncados; os demais podem conter erros e devem ser conferidos no sistema.", "Percentuais de reajuste da tabela de frete, IPCA e preço do diesel foram lidos da legenda; conferir na deliberação antes de citar.", "Votos de Luciano Lourenço nos itens 2.3.1, 2.3.2 e 2.3.3 não aparecem nominalmente na legenda; presumido por unanimidade proclamada (confiança baixa).", "Ts de votos de seguidores e a fala de Rafael Vitale (inferida pela proclamação do resultado) são aproximados."]
+}

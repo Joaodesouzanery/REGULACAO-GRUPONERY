@@ -1,0 +1,28 @@
+{
+  "meta": {"video_id": "rx-sNKQ90Jk", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:08); ts de votos aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "78ª Reunião Extraordinária", "data": "2023-04-18", "formato": "videoconferência",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Luciano Lourenço", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": ["Guilherme Sampaio (férias, segundo a fala do relator)"],
+    "observacoes": ["Reunião extraordinária com um único item de pauta, relatado por Luciano Lourenço.", "Aprovado por unanimidade o cronograma e a norma transitória; dispensa de AIR e de audiência pública pela urgência."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:08:31",
+      "processo": "50500.xxx938/2023-66 (número truncado pela legenda)", "interessado": "Superintendência de Serviços de Transporte Rodoviário de Passageiros (SUPAS)",
+      "assunto": "Cronograma para conclusão da Audiência Pública 6/2022 (novo marco regulatório do TRIP) e minuta de resolução com normas transitórias para análise dos pleitos de novas autorizações pendentes, em complemento à Resolução 4.770/2015",
+      "tema": ["ônibus (transporte regular, TAR)", "regulação normativa", "participação social"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade (cronograma e resolução transitória)",
+      "resumo_voto": "Após a Lei 14.298/2022 (art. 47-B da Lei 10.233/2001, inviabilidade técnica e econômica) e parecer da Procuradoria, a minuta da AP 6/2022 exige ajustes e nova audiência; publicação do novo marco prevista para outubro de 2023. O Acórdão 230/2023 do TCU determinou deferimento de novas autorizações nos termos do art. 47-B. Norma transitória permite presumir viabilidade em mercados sem atendimento. O relator discorda da definição de mercado desatendido proposta pela área técnica (data do protocolo do pedido vs. data da resolução) e propõe critério ligado à inexistência de operadora com licença na data de publicação da resolução transitória; dispensa AIR e audiência pública por urgência (Decreto 10.411/2020, art. 4º, I; Res. 5.624/2017, art. 7º, I).",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aprova cronograma e resolução transitória", "ts": "0:08:40", "justificativa": "medida transitória e emergencial para mercados desatendidos, avanço regulatório; atender o usuário sem paralisar a agência; nova audiência pública posterior sobre o marco definitivo", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:16:55", "justificativa": "importância da medida e compromisso com regulamentação definitiva com transparência e controle social", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha integralmente o relator", "ts": "0:17:46", "justificativa": "elogia o voto; universalidade da oferta ao usuário; previsibilidade e segurança jurídica", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha integralmente o relator", "ts": "0:20:03", "justificativa": "previsibilidade e estabilidade do setor", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Número do processo truncado/incorreto na legenda; confirmar no sistema.", "Ausência de Guilherme Sampaio inferida da fala do relator (férias).", "Nomes de diretores nos votos de Lucas e Rafael inferidos pelo contexto das saudações; ts aproximados."]
+}

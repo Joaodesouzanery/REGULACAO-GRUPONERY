@@ -1,5 +1,7 @@
 # Itens do tema «tarifa_modicidade» (todos os diretores)
 
+- **RD 950 (2023-02-16)**, 2.2.6 · relator **Davi Barreto** · Segunda revisão ordinária, segunda revisão extraordinária e reajuste da tarifa básica de pedágio (edital 1/2019; BR-364/365, GO/MG) → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=1902s)
 - **RD 990 (2024-09-05)**, 1.1.3 · relator **Luciano Lourenço** · 14ª revisão ordinária, 15ª e 16ª revisões extraordinárias e reajuste da tarifa básica de pedágio (TBP) do contrato do Edital 7/2007; termo aditivo com → aprovado por unanimidade
   - votos: Luciano: relator; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=m6tfBRRgsEI&t=3689s)
 - **RD 998 (2024-12-19)**, 1.2.2 · relator **Luciano Lourenço** · 16ª revisão extraordinária, 16ª revisão ordinária, 17ª revisão extraordinária e reajuste da tarifa básica de pedágio (TBP); termo aditivo com obras de → aprovado por unanimidade

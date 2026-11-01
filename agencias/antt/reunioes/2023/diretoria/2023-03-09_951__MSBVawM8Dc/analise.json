@@ -1,0 +1,87 @@
+{
+  "meta": {"video_id": "_MSBVawM8Dc", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "951", "data": "2023-03-09", "formato": "videoconferência",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Luciano Lourenço", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Primeira reunião de Lucas Asfor como diretor; saudações de boas-vindas de Rafael Vitale, Luciano Lourenço, Guilherme Sampaio e Felipe Queiroz. Registro de que a diretoria está completa, com mandatos, pela primeira vez em anos.", "Ata da RD 950 aprovada: Felipe Queiroz estava de férias na 950 e Lucas Asfor não integrava o colegiado, ambos dispensados de voto.", "Leitura do voto dispensada no item administrativo 2.1.1 (art. 68, §5º do Regimento Interno).", "4 itens deliberados (ata + 3 processos), todos aprovados por unanimidade. Encerrada às 15h30."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:06:20",
+      "processo": "ata da RD 950", "interessado": "Diretoria Colegiada",
+      "assunto": "Aprovação da ata da 950ª Reunião de Diretoria (leitura dispensada, distribuída com antecedência)",
+      "tema": ["institucional"],
+      "relator": "Rafael Vitale", "resultado": "aprovada por unanimidade dos votantes",
+      "resumo_voto": "Felipe Queiroz (férias) e Lucas Asfor (não era membro) dispensados de votar.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo", "ts": "0:06:35", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "de acordo", "ts": "0:06:37", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "de acordo", "ts": "0:06:38", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.1.1", "ts": "0:06:50",
+      "processo": "50500.xxxxxx/2022-64 (número truncado pela legenda)", "interessado": "Superintendência de Governança, Planejamento e Articulação Institucional (SUGOV)",
+      "assunto": "Alteração da Resolução 5.977/2022 (estrutura organizacional da ANTT)",
+      "tema": ["institucional"],
+      "relator": "Rafael Vitale", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Tema administrativo de impacto interno; leitura do voto (DG 7/23) dispensada por decisão consensual com base no art. 68, §5º do Regimento Interno; aprova a alteração nos termos da minuta dos autos.",
+      "votos": [
+        {"diretor": "Rafael Vitale", "voto": "relator, aprova", "ts": "0:07:20", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo", "ts": "0:07:57", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "de acordo", "ts": "0:08:00", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "de acordo", "ts": "0:08:03", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "de acordo", "ts": "0:08:06", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.2.1", "ts": "0:08:17",
+      "processo": "50500.036900/2023-27", "interessado": "Concessionária de Rodovia Sul-Mato-Grossense S.A. (MS Via)",
+      "assunto": "Terceiro termo aditivo ao contrato de concessão (Edital 005/2013, BR-163/MS): prorrogação do prazo da relicitação, fixação de tarifa no novo período, transição dos ativos e indenização",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "relicitação"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Prazo da relicitação fixado em 24 meses a contar do Decreto 10.647/2021 (publicado em 12/03/2021); o primeiro termo aditivo (10/06/2021) disciplinou questões contratuais e vigorava até 12/03/2023. O terceiro termo prorroga esse prazo, com previsão no art. 20 da Lei 13.448/2017; cláusulas analisadas pela área técnica e pela Procuradoria. Voto pela celebração nos termos da minuta final.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova", "ts": "0:08:38", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator na integralidade", "ts": "0:10:48", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:10:55", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha (de acordo)", "ts": "0:10:58", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha (proclama aprovação)", "ts": "0:11:01", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2.3.1", "ts": "0:11:10",
+      "processo": "50500.xxxxxx/2017-09 (número truncado pela legenda)", "interessado": "Rotas de Viação Ouro e Prata S.A.",
+      "assunto": "Processo administrativo ordinário por transporte não autorizado e interrupção de linhas (Decreto 2.521/1998); comissão processante propôs cassação da autorização; originado em ofício do Ministério Público do Paraná (Palmas/PR)",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — cassação convertida em multa",
+      "resumo_voto": "Fiscalização constatou comercialização de viagens em trechos não autorizados, mantida após notificação; 121 autuações por transporte não autorizado entre 24/03/2018 e 22/02/2020. Reconhece a gravidade e a base da cassação (art. 78-H da Lei 10.233/2001; art. 86 do Decreto 2.521/1998), mas, excepcionalmente, converte a cassação em multa (art. 65 da Res. 5.083/2016 e art. 4º da Res. 233/2003), considerando os danos à população atendida caso houvesse cassação e a regularização parcial de mercados pela empresa; acolhe a dosimetria da Superintendência de Fiscalização.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aplica cassação e a converte em multa", "ts": "0:11:35", "justificativa": "evitar desassistir a população; conversão excepcional; dosimetria da área técnica aderente a razoabilidade e proporcionalidade", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:16:34", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:16:41", "justificativa": "parabeniza a solução: fiscalização assertiva com efeito didático, sem deixar a população desassistida", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:17:35", "justificativa": "endossa as palavras de Felipe Queiroz; solução adequada", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha (proclama aprovação)", "ts": "0:18:10", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2.3.2", "ts": "0:18:18",
+      "processo": "50500.xxxxxx/2022-58 (número truncado pela legenda)", "interessado": "Superintendência de Infraestrutura Rodoviária (SUROD)",
+      "assunto": "Instrução Normativa que disciplina o procedimento de reajuste e de revisões ordinárias e extraordinárias nos contratos de concessão de exploração de infraestrutura rodoviária federal (parte do RCR 3)",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "regulação normativa"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Relatoria por designação do DG em 18/11/2022. Antecede a tomada de subsídios 2/2022, contribuições da ABCR e duas diligências à SUROD; estrutura em seis capítulos (regras gerais, reajustes, revisões ordinárias, revisões extraordinárias, novos pleitos de equilíbrio, disposições finais) e três anexos (cronograma/fluxo, formulários padrão de reajuste/revisão ordinária e de pleito extraordinário). Vigência a partir de 20 de março de 2023, para eliminar atrasos nas revisões ordinárias. Insere-se no RCR (RCR1 = Res. 5.950; RCR2 = Res. 6.000 de 01/12/2022; RCR3 em curso).",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aprova", "ts": "0:18:30", "justificativa": "previsibilidade, padronização, fim dos atrasos nas revisões ordinárias, segurança jurídica", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:29:23", "justificativa": "elogia a liderança e o trabalho conjunto com a SUROD e a Procuradoria; norma antecede a solução definitiva do RCR 3", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha integralmente o relator", "ts": "0:29:44", "justificativa": "modernização de normativos; regulação responsiva", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha na íntegra", "ts": "0:30:22", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha integralmente o relator", "ts": "0:30:27", "justificativa": "revisão ordinária é ato essencial a cumprir na data de aniversário; compromisso de retirar atrasos; reconhece demanda da ABCR", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Números de processo de 2.1.1, 2.3.1 e 2.3.2 truncados/ilegíveis na legenda; confirmar no sistema.", "Valor da multa no 2.3.1 aparece inconsistente na legenda (aprox. R$ 31 mil / 731 mil); omitido.", "Votos de seguidores sem fala individual clara (ex.: Lucas Asfor e Rafael Vitale no 2.2.1 e 2.3.1) têm ts aproximado e confiança baixa/média.", "A saudação a Lucas Asfor aparece na legenda como «Lucas asper»; nome canônico mantido."]
+}

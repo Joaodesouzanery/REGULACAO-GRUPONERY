@@ -1,0 +1,537 @@
+{
+ "meta": {
+  "video_id": "oXHjEvN4wz8",
+  "fonte": "legenda automática do YouTube; falantes inferidos pela legenda (não confiáveis); ts = tempo do vídeo (sessão começa ~0:12); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "965",
+  "data": "2023-09-14",
+  "formato": "videoconferência (transmissão ao vivo no YouTube)",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Luciano Lourenço",
+   "Felipe Queiroz",
+   "Lucas Asfor"
+  ],
+  "ausentes": [
+   "Guilherme Sampaio (voo atrasado; voto no item 1.1.1 lido pelo Diretor-Geral)"
+  ],
+  "observacoes": [
+   "Encerrada às 15h de 14/09/2023.",
+   "11 itens deliberados, todos por unanimidade: 8 processos sancionadores (PAO) de transporte de cargas e de passageiros (6 cassações, 2 sanções em RNTRC), embargos da TCB e as audiências públicas das concessões BR-262/MG e BR-153/262 (itens 1.3.4 e 1.3.5, votados em bloco).",
+   "Guilherme Sampaio ausente; o Diretor-Geral leu seu voto no 1.1.1 e ele não votou nos demais itens.",
+   "Rafael Vitale registra pipeline de 35 leilões até o fim de 2026, 3 já abertos em 2023, meta de 9 a 10 para 2024."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1.1",
+   "ts": "0:12:53",
+   "processo": "50500.054375/2023-21",
+   "interessado": "José Bento Previatelli Rodrigues (transportador autônomo de cargas)",
+   "assunto": "PAO: relatório final da comissão processante; comprovantes de residência falsos para obter o RNTRC (ofício da polícia civil de SC)",
+   "tema": [
+    "transporte rodoviário de cargas (RNTRC)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade — multa de R$ 6.000, cancelamento do RNTRC e impedimento de novo registro por 2 anos",
+   "resumo_voto": "Voto DGS 067/2023 lido pelo Diretor-Geral por ausência de Guilherme Sampaio (voo atrasado; art. 66 do Regimento permite). Infração: informação falsa na inscrição (Res. 5.982/2022, art. 19). Comprovantes de residência (faturas telefônicas) tiveram a autenticidade negada pela concessionária de telecomunicações.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator ausente; voto lido pelo Diretor-Geral: aplica multa, cancela RNTRC e impede novo registro por 2 anos",
+     "ts": "0:13:30",
+     "justificativa": "prova documental de falsidade dos comprovantes",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:16:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:16:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:16:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:16:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.1",
+   "ts": "0:17:05",
+   "processo": "50500.237568/2022-35",
+   "interessado": "Lucretur Agência de Viagens e Turismo Ltda. (fretamento)",
+   "assunto": "PAO: relatório final da comissão processante; venda de passagens só de ida Campinas-Florianópolis em plataforma, descumprindo o circuito fechado",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade — cassação da autorização",
+   "resumo_voto": "Alegações finais intempestivas; histórico de autuações; sem fato novo. Cassação com base no art. 36 §5º do Decreto 2.521/1998 e art. 78-H da Lei 10.233/2001 (voto DLL 7/2023).",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, cassa a autorização",
+     "ts": "0:17:10",
+     "justificativa": "descumprimento reiterado da obrigatoriedade do circuito fechado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:19:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:19:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:19:58",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.2",
+   "ts": "0:20:09",
+   "processo": "50500.336132/2022-84 (número parcial)",
+   "interessado": "Transporte Coletivo Brasil Ltda. (TCB)",
+   "assunto": "Embargos de declaração contra deliberação que negou pedido de reconsideração e manteve a cassação da autorização (Deliberação 149/2023; Deliberação 206/2023 de 6/7/2023)",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade — embargos conhecidos e rejeitados; cassação mantida",
+   "resumo_voto": "Empresa alegava omissão sobre casos paradigmas e ofensa à isonomia (pedia converter cassação em multa). Relator: embargos visam rediscutir o mérito, o que foge ao escopo; o tema foi analisado (item 3.18 do voto DLL 60/2023); a cassação é decisão do colegiado considerando antecedentes: três declarações de inidoneidade anteriores, cassação anterior por Res. 5.364/2017, empresa que insiste em operar à margem das normas com risco à segurança dos passageiros.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, conhece dos embargos e os rejeita (mantém cassação)",
+     "ts": "0:20:15",
+     "justificativa": "empresa reincidente; segurança dos passageiros; embargos não apontam omissão ou contradição",
+     "tom": "firme",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:25:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:25:12",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:25:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.1",
+   "ts": "0:25:28",
+   "processo": "50500.043706/2023-06",
+   "interessado": "Rogério Rodrigues Witter (transportador autônomo de cargas)",
+   "assunto": "PAO: relatório final; RNTRC obtido de forma irregular (apurado pela polícia civil de SC; comprovante de residência inautêntico)",
+   "tema": [
+    "transporte rodoviário de cargas (RNTRC)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade — multa de R$ 6.000, cancelamento do RNTRC e impedimento por 2 anos",
+   "resumo_voto": "Registro suspenso cautelarmente por portaria da SUFIS (17/2023); CPA instaurada em 13/02/2023; endereço cadastrado divergente da Receita e comprovante rejeitado pela operadora. Aplica art. 19 da Res. 5.982/2022 e determina notificação do interessado.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, aplica multa de R$ 6.000, cancelamento e impedimento por 2 anos",
+     "ts": "0:25:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:30:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:30:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha; observa que o caso é similar ao primeiro julgado; proclama unanimidade",
+     "ts": "0:30:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.2",
+   "ts": "0:30:09",
+   "processo": "50500.095990/2022-06 (número parcial)",
+   "interessado": "Viação Mimo Ltda. (fretamento)",
+   "assunto": "Pedido de reconsideração contra a Deliberação 223/2023 (cassação, publicada em 21/06/2023)",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade — conhecido sem efeito suspensivo e não provido; cassação mantida",
+   "resumo_voto": "Empresa repetiu argumentos (falta de previsão legal, uso de plataformas digitais); não comprovado justo receio de dano para efeito suspensivo; pena prevista no art. 36 §5º do Decreto 2.521/1998 c/c art. 78-H da Lei 10.233/2001; uso de plataforma é irrelevante, a sanção decorre de viagens em circuito aberto em desacordo com as licenças.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, conhece sem efeito suspensivo e nega provimento",
+     "ts": "0:30:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha; reitera os fundamentos da fase instrutória",
+     "ts": "0:32:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:32:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha; proclama unanimidade",
+     "ts": "0:32:18",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.3.3",
+   "ts": "0:32:25",
+   "processo": "50500.084182/2022-24 (número parcial)",
+   "interessado": "MP Transporte, Viagens e Turismo Eireli (fretamento)",
+   "assunto": "PAO: relatório final; licenças de fretamento usadas para operar serviço regular em circuito aberto, só ida",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade — cassação da autorização",
+   "resumo_voto": "Devido processo legal observado; violação ao art. 36 §5º do Decreto 2.521/1998 c/c art. 78-H da Lei 10.233/2001.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, cassa a autorização",
+     "ts": "0:32:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:34:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:34:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha; proclama unanimidade",
+     "ts": "0:34:55",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.3.4",
+   "ts": "0:35:01",
+   "processo": "50500.140468/2022-97",
+   "interessado": "SUCON (Superintendência de Concessão de Infraestrutura) — BR-262/MG (Uberaba-Betim)",
+   "assunto": "Relatório final da Audiência Pública 12/2022 sobre minutas de edital e contrato, PER e estudos de viabilidade (TEA) para concessão da BR-262/MG entre Uberaba e Betim; aprovação do plano de outorga e envio ao Ministério dos Transportes (relatado em conjunto com 1.3.5)",
+   "tema": [
+    "concessões rodoviárias",
+    "participação social",
+    "leilão / otimização"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade (em bloco com o 1.3.5)",
+   "resumo_voto": "Trecho desmembrado da concessão Concebra (contrato de 2013/2014, 1.176 km, qualificado no PPI em 2021) em três trechos. BR-262/MG: 438,9 km, CAPEX de cerca de R$ 4,3 bi (R$ 1,6 bi em ampliação de capacidade e melhorias), OPEX de cerca de R$ 3,7 bi; 44,3 km de duplicação, 168 km de faixas adicionais; tarifa de 12,3 centavos/km (pista simples) e 16 centavos (pista dupla), seis praças (quatro da atual Concebra, duas novas). Audiência de 31/10 a 16/12/2022, sessão presencial em 1/12/2022; 55 contribuições. Inovações da 5ª etapa: desconto de usuário frequente com tag, dispute board, BIM, reclassificação tarifária, ODS/carbono zero, mecanismos de proteção cambial, matriz de riscos revisada. Prevista submissão ao TCU em 21/09/2023 e edital em fevereiro de 2024.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, aprova relatórios das AP 12/2022 e 14/2022, divulgação e envio dos planos de outorga ao Ministério",
+     "ts": "0:36:42",
+     "justificativa": "participação social, aprendizado com a Concebra e padrão da quinta etapa de concessões",
+     "tom": "entusiasmado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:52:30",
+     "justificativa": "elogia a separação do trecho extenso, que traz eficiência na execução e operação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:55:30",
+     "justificativa": "voto preciso, objetivo e técnico; novas diretrizes de política pública da SNTR",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:57:00",
+     "justificativa": "pipeline de leilões (35 até 2026, 3 abertos em 2023), deliberações em bloco para ganhar velocidade; quatro rodovias ANTT entre as dez melhores do país",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1.3.5",
+   "ts": "0:35:52",
+   "processo": "50500.072298/2022-42",
+   "interessado": "SUCON — BR-153/262 (GO/MG)",
+   "assunto": "Relatório final da Audiência Pública 14/2022 sobre concessão do lote BR-153/GO e BR-262/MG (Hidrolândia-divisa MG/SP e BR-262 até Uberaba); plano de outorga",
+   "tema": [
+    "concessões rodoviárias",
+    "participação social",
+    "leilão / otimização"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade (em bloco com o 1.3.4)",
+   "resumo_voto": "530,6 km; CAPEX de cerca de R$ 5,3 bi (R$ 1 bi em ampliação), OPEX de cerca de R$ 4 bi (total cerca de R$ 9,4 bi); 43,3 km de duplicações, 31,8 km de faixas adicionais, 4,9 km de marginais, contorno de Campo Florido; tarifa de 10,8 centavos/km (pista simples) e 14,1 centavos (dupla); cinco praças, todas da atual Concebra. Audiência de 2/1 a 16/2/2023, sessão em 31/1/2023; 24 contribuições.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, aprova (voto único com o 1.3.4)",
+     "ts": "0:36:42",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:52:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:55:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:59:55",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1.4.1",
+   "ts": "1:00:03",
+   "processo": "50500.237220/2022-71 (número parcial)",
+   "interessado": "Turispal Transportes e Turismo Ltda.",
+   "assunto": "PAO: relatório final; serviço não autorizado em circuito aberto e rol de irregularidades",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade — cassação da autorização",
+   "resumo_voto": "Voto em formato resumido (ementa), pela baixa complexidade; cerceamento de defesa alegado mas não constatado; pena mais branda seria ineficaz; acolhe a conclusão da CPA.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, cassa a autorização",
+     "ts": "1:00:10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "1:02:05",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "1:02:08",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "1:02:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.4.2",
+   "ts": "1:02:15",
+   "processo": "50500.001882/2022-59 (número parcial)",
+   "interessado": "Alfa Luz Viação Transportes Ltda.",
+   "assunto": "PAO: relatório final; abandono de mercado e falta de frota habilitada; empresa revel",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade — multa de 40.000 vezes o coeficiente tarifário (art. 78-F da Lei 10.233/2001)",
+   "resumo_voto": "Empresa não apresentou defesa nem alegações finais; a CPA propôs multa; a cassação seria cabível, mas o TAR da empresa já havia sido cassado, tornando inócua nova cassação; aplica a multa.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, aplica multa pecuniária",
+     "ts": "1:02:20",
+     "justificativa": "cassação inócua pois a autorização já foi cassada",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "1:04:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "1:04:52",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "1:04:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.4.3",
+   "ts": "1:04:58",
+   "processo": "50500.095840/2022-30 (número parcial)",
+   "interessado": "Servidor Transportes Ltda.",
+   "assunto": "PAO: relatório final; serviços não autorizados em circuito aberto e histórico de irregularidades",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade — cassação da autorização",
+   "resumo_voto": "Caso análogo ao 1.4.1, em voto resumido. Felipe Queiroz elogia o formato por reduzir o custo de transação com petições reiteradas e diz que adotará o modelo; Rafael Vitale faz apelo ao setor regulado por aderência regulatória (Pró-Rev), avisando que fiscalização e cassações continuarão.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, cassa a autorização",
+     "ts": "1:05:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "1:05:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha; elogia o formato do voto e pretende adotá-lo",
+     "ts": "1:05:40",
+     "justificativa": "reduz custo de transação e ineficiência processual",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "1:07:49",
+     "justificativa": "apelo por aderência regulatória; mínimo é cumprir contratos e resoluções",
+     "tom": "firme",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1.4.4",
+   "ts": "1:09:45",
+   "processo": "50500.084262/2022-71 (número parcial)",
+   "interessado": "Nativio Transportadora Turística Ltda.",
+   "assunto": "PAO: relatório final; serviços não autorizados e histórico de irregularidades",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade — cassação da autorização",
+   "resumo_voto": "Caso idêntico aos anteriores, em voto resumido.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, cassa a autorização",
+     "ts": "1:09:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "1:10:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator; mesmos destaques",
+     "ts": "1:11:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "1:11:25",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática com nomes de empresas e números de processos distorcidos (vários parciais); valores de CAPEX/OPEX, extensões e tarifas conforme a fala do relator, mas sujeitos a erro de transcrição.",
+  "Falantes inferidos errados; votos de acompanhamento sem fala clara têm ts aproximado e confiança baixa/media.",
+  "O ts do 1.3.3 foi estimado."
+ ]
+}

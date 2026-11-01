@@ -1,15 +1,18 @@
 # Perfil analítico — Rafael Vitale · tema: sustentabilidade
 
-**Amostra:** presente em 35 das 35 reuniões analisadas em que há registro de presença/ausência; 11 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 63 das 63 reuniões analisadas em que há registro de presença/ausência; 14 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 9 (100% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 12 (100% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 2/2 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 186/4; fiscalizacao_sancoes 183/10; onibus 57/1; onibus_regular 54/0; regulacao_normativa 46/6; reequilibrio_contratual 44/0; participacao_social 41/1; leilao_otimizacao 34/4; ferrovias 30/1; judicializacao 24/3; institucional 18/13; sustentabilidade 11/2; cargas 11/0; pedagio_freeflow 8/0; sandbox_inovacao 6/1; onibus_fretamento 3/1; tarifa_modicidade 2/0
+**Temas (nº de itens em que votou / relatorias):** fiscalizacao_sancoes 333/11; concessoes_rodoviarias 287/6; onibus 155/3; onibus_regular 112/0; regulacao_normativa 93/14; reequilibrio_contratual 82/0; participacao_social 71/4; institucional 55/25; leilao_otimizacao 54/5; ferrovias 53/1; judicializacao 48/4; onibus_fretamento 42/1; cargas 24/1; pedagio_freeflow 20/0; sustentabilidade 14/2; sandbox_inovacao 13/1; tarifa_modicidade 3/0; onibus_semiurbano 2/2
 **Argumentos recorrentes nas justificativas registradas:** sustentabilidade (1)
 
 ## Evidências (reunião · item · voto · justificativa)
 
+- **RD 953 (2023-03-30)**, item 2.2.1 — Instrução normativa sobre a inspeção de projetos, orçamentos e obras de engenharia por Organismos de Inspeção Acreditados (OIAs, Inmetro) no · voto: *acompanha integralmente o relator* (acompanha, conf. media) · «acelerar a certificação; articulação com o Ministério da Indústria e Inmetro» · [vídeo](https://www.youtube.com/watch?v=HNl8PagFcCc&t=1740s) · resultado: aprovado por unanimidade
+- **RD 961 (2023-07-20)**, item 1.2.1 — Relatório final da Audiência Pública 10/2020 e resolução que regulamenta a destinação dos recursos para desenvolvimento tecnológico (RDT) e  · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=zV1cOhU21bk&t=688s) · resultado: aprovado por unanimidade
+- **RD 971 (2023-12-07)**, item 1.2.5 — 2º termo aditivo ao contrato (edital 1/2019) para regulamentar obrigações e efeitos da autorização para elaboração de estudos ambientais com · voto: *acompanha o relator; proclama unanimidade* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=GE0Xxv-shHs&t=3010s) · resultado: aprovado por unanimidade
 - **RD 983 (2024-05-29)**, item 1.2.1 — Aprovação do relatório de AIR e abertura de participação e controle social (audiência pública) sobre a minuta de resolução do Plano de Suste · voto: *acompanha o relator; destaca que a agenda é da agência e a atuação na crise do Rio Grande do Sul* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=eeRiLhCPx2Q&t=1328s) · resultado: aprovado por unanimidade
 - **RD 985 (2024-06-27)**, item 1.3.1 — Definição dos temas prioritários para destinação dos recursos de desenvolvimento tecnológico (RDT) e para preservação da memória ferroviária · voto: *acompanha (aprovação anunciada sem manifestação explícita)* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=CEQTjLWoMYk&t=2046s) · resultado: aprovado por unanimidade
 - **RD 83 (extraordinária) (2024-07-22)**, item 1.1.2 — Aprovação do edital de concessão da BR-262/MG (Rota do Zebu, 438 km, Betim a Uberaba) e sobrestamento da publicação do projeto Rota Sertanej · voto: *acompanha o relator* (acompanha, conf. media) · «destaca o papel de Guilherme Sampaio, quarto leilão do ano e transferência maciça de ativos à iniciativa privada; fim de mais uma relicitação» · [vídeo](https://www.youtube.com/watch?v=gcVJwfeNn2M&t=1204s) · resultado: aprovado por unanimidade

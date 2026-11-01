@@ -1,0 +1,194 @@
+{
+  "meta": {"video_id": "fHz1cg_TFkA", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:15); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "966", "data": "2023-09-28", "formato": "videoconferência",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Luciano Lourenço", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Encerrada às 15h24 de 28/09/2023.", "Presentes a procuradora-geral substituta (Ana Caroline), a secretária-geral Renata Teixeira e o Ouvidor substituto Carlos Elias.", "O advogado da Lídia Turismo pediu sustentação oral no item 1.1.1 mas não se conectou; a reunião seguiu.", "Item 1.1.6 (Ferrovia Centro-Atlântica) retirado de pauta.", "Incluído extrapauta (primeira revisão ordinária da Ecovias do Araguaia) a pedido de Guilherme Sampaio, aprovado por unanimidade.", "Todos os itens deliberados foram unânimes; Guilherme Sampaio converteu cassação em multa nos itens 1.1.4 e 1.1.5, por impacto no atendimento de localidades."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:15:26",
+      "processo": "50500.237550/2022-33", "interessado": "Lídia Turismo Ltda.",
+      "assunto": "Processo administrativo ordinário (relatório final da comissão processante) por viagens em circuito aberto em desacordo com a autorização de fretamento (TAF)",
+      "tema": ["ônibus (fretamento)", "fiscalização e sanções"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — cassação da autorização",
+      "resumo_voto": "Infrações aos arts. 3º, II, e 36 §1º do Decreto 2.521/1998 e art. 3º, VI e VII, da Res. 4.777/2015; cassação com base no art. 36 §5º do Decreto 2.521/1998 e art. 78-H da Lei 10.233/2001, conforme proposta da comissão processante endossada pela SUFIS. Sanção mais severa para conduta grave. Notificação pela superintendência. A empresa pediu a sustentação oral mas não se conectou.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, cassa a autorização", "ts": "0:16:10", "justificativa": "circuito aberto contraria o compromisso assumido ao obter o TAF; conduta grave que justifica sanção severa", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:18:50", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:18:52", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:18:55", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:18:58", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.2", "ts": "0:19:01",
+      "processo": "50500.012727/2022-91", "interessado": "Agência de Viagens New World Ltda.",
+      "assunto": "Pedido de reconsideração contra a Deliberação 220/2023 (20/07/2023) que aplicou cassação",
+      "tema": ["ônibus (fretamento)", "fiscalização e sanções"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — conhecido, sem efeito suspensivo; não provido",
+      "resumo_voto": "Empresa autorizada para fretamento transportava passageiros de forma semelhante ao serviço regular, sem observar circuito fechado; relação com empresa de aplicativos é irrelevante, pois se apura a conduta da autorizada (Res. 4.777/2015).",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, nega provimento", "ts": "0:19:10", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:21:05", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:21:08", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator, mantendo a cassação", "ts": "0:21:10", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:21:15", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.3", "ts": "0:21:19",
+      "processo": "50500.41944/2018-1", "interessado": "Concessionária Rodovia Juiz de Fora - Rio (Concer)",
+      "assunto": "Recurso contra a Decisão 154/2021 (SUINF, 23/12/2021) que aplicou multa por não corrigir depressões, abaulamentos ou áreas exsudadas em 72 horas",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — recurso conhecido sem efeito suspensivo e não provido",
+      "resumo_voto": "Mantida multa de cerca de 310,5 URT por violação ao art. 6º, III, da Res. 4.071/2013, conforme proposta da SUINF. Número do processo e valor conforme legenda, incertos.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, nega provimento", "ts": "0:21:30", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:23:00", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:23:02", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "de acordo com o relator", "ts": "0:23:05", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "de acordo com o relator", "ts": "0:23:08", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.4", "ts": "0:23:13",
+      "processo": "50500.10049/2021-31", "interessado": "Viação Novo Horizonte Ltda.",
+      "assunto": "Pedido de reconsideração contra a Deliberação 41/2023 (16/02/2023) que suspendeu a autorização por 55 dias",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — provimento parcial: suspensão convertida em multa de R$ 200 mil",
+      "resumo_voto": "Infrações confirmadas pela SUFIS, mas empresa apresentou plano de ação (analisado após diligência) com providências para melhorar o serviço, e a área técnica admitiu pena alternativa de multa (art. 65 da Res. 5.083/2016; art. 4º da Res. 233/2003). Cerca de 90 ligações são atendidas apenas pela empresa e a suspensão deixaria pelo menos 8 localidades sem atendimento. Efeito suspensivo concedido. Multa de R$ 200.000 conforme legenda.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, dá provimento parcial (multa em lugar de suspensão)", "ts": "0:23:25", "justificativa": "plano de ação demonstra melhoria; proteção ao atendimento dos usuários", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "de acordo com o relator", "ts": "0:27:20", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "de acordo com o relator", "ts": "0:27:22", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "de acordo com o relator", "ts": "0:27:25", "justificativa": "elogia o equilíbrio de Guilherme Sampaio ao converter em multa pesada e significativa", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:27:35", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.5", "ts": "0:27:47",
+      "processo": "50500.12195/2021-35", "interessado": "Expresso Gardênia Ltda.",
+      "assunto": "Processo administrativo ordinário (relatório final da comissão processante) com proposta da SUFIS de cassação",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — multa em lugar de cassação",
+      "resumo_voto": "Infrações demonstradas, mas a área técnica admitiu pena alternativa de multa; a empresa apresentou plano de ação e a cassação deixaria pelo menos 15 localidades sem atendimento; não há decisão anterior de sanção que configure reincidência. Multa prevista em resolução da ANTT; o valor na legenda (algo como R$ 322 mil) é incerto.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aplica multa em vez de cassação", "ts": "0:28:00", "justificativa": "impacto no atendimento de localidades; ausência de reincidência; plano de ação", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:30:05", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:30:08", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:30:10", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:30:14", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.6", "ts": "0:30:22",
+      "processo": "50550.64660/2015-81", "interessado": "Ferrovia Centro-Atlântica S.A. (FCA)",
+      "assunto": "Reabertura da audiência pública para colher contribuições aos estudos da prorrogação do prazo de vigência contratual",
+      "tema": ["ferrovias", "participação social", "concessões ferroviárias (prorrogação)"],
+      "relator": "Guilherme Sampaio", "resultado": "retirado de pauta",
+      "resumo_voto": "Relator retira por necessidade de alinhamentos e ajustes com o Ministério dos Transportes, a Casa Civil e o PPI.",
+      "votos": []
+    },
+    {
+      "id": "1.2.1", "ts": "0:31:18",
+      "processo": "50500.231082/2022-93", "interessado": "Carvalho Turismo Expresso Ltda.",
+      "assunto": "Processo administrativo ordinário por habilitação insuficiente de veículos (SISAB) e operação durante suspensão cautelar (Portaria SUFIS 62/2022)",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — advertência",
+      "resumo_voto": "TAR 232 (vigência até 24/09/2024) sem veículo habilitado para os cinco serviços; SUFIS suspendeu todas as linhas em 09/08/2022; em 31/08/2022 a empresa foi flagrada operando Brasília - Itacarambi/MG. A frota foi regularizada (três veículos para duas linhas) e a área técnica opina pela retomada; aplica advertência (art. 78-A, I, da Lei 10.233/2001 e art. 56, I, da Res. 4.770/2015), de caráter educativo e dissuasório, com penas mais graves em reincidência. Voto DL 78/2023 integrado.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aplica advertência", "ts": "0:31:30", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:35:05", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:35:08", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "de acordo com o relator", "ts": "0:35:12", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "de acordo com o relator", "ts": "0:35:20", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "0:35:34",
+      "processo": "50500.199225/2010-3", "interessado": "Concessionária da Rodovia Osório-Porto Alegre S.A. (Concepa)",
+      "assunto": "Pedido de reconsideração contra a Deliberação 496/2020 (02/12/2020), que aprovou o valor parcial de reequilíbrio do contrato (cerca de R$ 141 milhões a preços de junho de 2020, em desfavor da concessionária)",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — conhecido e não provido",
+      "resumo_voto": "Contrato já extinto (antiga Freeway). Ajuste de contas iniciado em 24/08/2017; três pontos principais: correção do fluxo de caixa e do valor da quarta faixa, valores arrecadados indevidamente na vigência do 14º termo aditivo (custos operacionais) e vida útil de 8 anos do pavimento. Voto original de Davi Barreto (119/2020). Pedido de reconsideração de 04/01/2021 não traz fatos novos. Números conforme legenda.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, nega provimento", "ts": "0:35:50", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:39:25", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:39:28", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:39:30", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:39:38", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.4.1", "ts": "0:39:50",
+      "processo": "50505.01852/2017-76", "interessado": "Concessionária Rodovia Juiz de Fora - Rio (Concer)",
+      "assunto": "Recurso contra a Decisão 139/2020 (SUINF, 02/09/2021) que aplicou multa por não corrigir depressões, abaulamentos ou áreas exsudadas no prazo de 72 horas",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — recurso não provido, multa mantida",
+      "resumo_voto": "Voto sucinto e objetivo em razão da recorrência da matéria; infração constatada.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, nega provimento", "ts": "0:40:10", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:42:05", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "de acordo com o relator", "ts": "0:42:08", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "de acordo com o relator", "ts": "0:42:10", "justificativa": "enaltece a concisão de Lucas Asfor, que valoriza o tempo da Diretoria em processos recorrentes; cita casos similares de cassação por circuito aberto", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:42:45", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.4.2", "ts": "0:42:51",
+      "processo": "50500.31696/2016-1", "interessado": "Concessionária Rodovia Juiz de Fora - Rio (Concer)",
+      "assunto": "Recurso contra a Decisão 12/2021 (SUROD, 23/07/2021) que aplicou multa em processo administrativo ordinário por abandono de mercado e inexistência de frota habilitada",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — recurso não provido, multa mantida",
+      "resumo_voto": "Acolhe a conclusão da comissão processante; multa pecuniária de 40.000 vezes o coeficiente tarifário (serviço convencional com sanitário em piso pavimentado). A legenda atribui o processo à Concer, o que parece inconsistente com a matéria (abandono de mercado e frota de passageiros); identificação da interessada incerta.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, nega provimento", "ts": "0:43:00", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:44:50", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:45:15", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:45:25", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:45:33", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.4.3", "ts": "0:45:45",
+      "processo": "50500.18403/2026", "interessado": "Fornasa Transportes e Turismo Ltda.",
+      "assunto": "Pedido de reconsideração contra a Deliberação 254/2023 (17/08/2023) que aplicou cassação",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — efeito suspensivo indeferido; recurso não provido; cassação mantida",
+      "resumo_voto": "Recurso recebido como pedido de reconsideração (Res. 5.083/2016); sem nulidade por falta de fundamentação; prática comprovada de serviço não autorizado, cassação proporcional e razoável. Número do processo conforme legenda; provavelmente truncado.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, nega provimento", "ts": "0:46:00", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:47:25", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:47:30", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:47:33", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:47:38", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "extrapauta", "ts": "0:48:02",
+      "processo": "50500.092679/2023-97", "interessado": "Ecovias do Araguaia S.A.",
+      "assunto": "Primeira revisão ordinária e reajuste da tarifa básica de pedágio (BR-153/414/080, TO/GO) para restabelecer o equilíbrio econômico-financeiro; inclusão em pauta a pedido de Guilherme Sampaio para que o reajuste vigore a partir de 03/10",
+      "tema": ["concessões rodoviárias", "pedágio", "reequilíbrio contratual"],
+      "relator": "Guilherme Sampaio", "resultado": "inclusão e revisão aprovadas por unanimidade",
+      "resumo_voto": "Reajuste pelo IPCA (base de maio de 2019 a agosto de 2023) com acréscimo de cerca de 4,61% a vigorar no período do aniversário; fatores de reequilíbrio: D 0%, A e outro fator em 0%, fator C negativo (-0,092); média das variações entre tarifas ponderadas de 3,78%. Procuradoria não localizou decisões arbitrais ou do TCU que restrinjam a revisão. Publicação no DOU no dia seguinte para iniciar nova tarifa em 03/10. Números conforme legenda; confirmar.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova a primeira revisão ordinária", "ts": "0:49:30", "justificativa": "colocar em dia as obrigações contratuais da agência, com reajuste no aniversário do contrato", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha integralmente o relator", "ts": "0:51:25", "justificativa": "elogia o esforço para que as revisões ordinárias ocorram no aniversário", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:51:50", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:52:00", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:52:20", "justificativa": "agência zerou o atraso nas revisões ordinárias; agora intensificará a cobrança de deveres das concessionárias (aderência regulatória)", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["1.1.6 (FCA, reabertura da audiência pública sobre prorrogação contratual, retirado por Guilherme Sampaio)"],
+  "limites_da_analise": [
+    "Legenda automática: números de processo, valores e percentuais podem conter erros; processos 1.1.3, 1.3.1, 1.4.2 e 1.4.3 aparecem truncados ou inconsistentes.",
+    "Rótulos de falantes são inferidos; Diretor-Geral identificado como Rafael Vitale pelas saudações.",
+    "ts de votos de seguidores são aproximados.",
+    "No 1.4.2 houve instabilidade de conexão na votação e o voto de Guilherme Sampaio ficou parcialmente inaudível (confiança média).",
+    "No extrapauta (Ecovias do Araguaia) os fatores de reequilíbrio estão descritos de forma confusa na legenda."
+  ]
+}

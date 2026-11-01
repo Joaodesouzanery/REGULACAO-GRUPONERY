@@ -1,5 +1,31 @@
 # Itens do tema «cargas» (todos os diretores)
 
+- **RD 948 (2023-01-19)**, 2.2.1 · relator **Luciano Lourenço** · Abertura de audiência pública para revisão e atualização da Resolução 2.885/2008 (Vale-Pedágio obrigatório, habilitação de fornecedoras, modelos e sis → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZX8Rm7GspUY&t=606s)
+- **RD 948 (2023-01-19)**, 2.3.3 · relator **Felipe Queiroz** · Relatório final da Audiência Pública 11/2022 e revisão do Anexo II da Resolução 5.867/2020 (regras gerais, metodologia e coeficientes dos pisos mínimo → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZX8Rm7GspUY&t=1818s)
+- **RD 955 (2023-04-27)**, 2.3.2 · relator **Lucas Asfor** · Alteração do art. 25-B da Resolução 5.862/2019 (CIOT): prazo para instituições de pagamento eletrônico de frete comprovarem adesão ao arranjo de pagam → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=IPO0UDqZLhk&t=3659s)
+- **RD 956 (2023-05-11)**, 2.2.3 · relator **Guilherme Sampaio** · Alteração da Resolução 5.998/2022 (regulamento do transporte rodoviário de produtos perigosos) para correções materiais, harmonização com normas inter → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=iczBBFrwdCU&t=2170s)
+- **RD 956 (2023-05-11)**, 2.4.2 · relator **Felipe Queiroz** · Segundo termo aditivo ao Acordo de Cooperação Técnica 2/2021: prorrogação por 24 meses a partir de 12/5/2023 (RNTRC e transporte rodoviário de cargas) → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=iczBBFrwdCU&t=3304s)
+- **RD 959 (2023-06-22)**, 1.2.2 · relator **Guilherme Sampaio** · 1º termo aditivo ao contrato (edital 1/2019, BR-364/365, GO/MG) para regulamentar as obrigações e efeitos da autorização temporária do ambiente regula → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=lDeW01HYX8Q&t=320s)
+- **RD 961 (2023-07-20)**, 1.4.2 · relator **Lucas Asfor** · Abertura de audiência pública para revisão e atualização da regulação do transporte rodoviário internacional de cargas (Resoluções 5.583/2017 e 5.840/ → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=zV1cOhU21bk&t=2303s)
+- **RD 961 (2023-07-20)**, 1.4.3 · relator **Lucas Asfor** · Alteração do Anexo 2 da Resolução 5.867/2020: atualização dos coeficientes do piso mínimo de frete (IPCA e diesel S10/ANP) sem audiência pública nem A → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=zV1cOhU21bk&t=2726s)
+- **RD 962 (2023-08-03)**, 1.4.1 · relator **Lucas Asfor** · Relatório final da Audiência Pública 2/2023 e aprovação da minuta de resolução do Vale-Pedágio obrigatório (revisão da Res. 2.885/2008): habilitação d → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=VWrJuw_pj9c&t=1123s)
+- **RD 965 (2023-09-14)**, 1.1.1 · relator **Guilherme Sampaio** · PAO: relatório final da comissão processante; comprovantes de residência falsos para obter o RNTRC (ofício da polícia civil de SC) → aprovado por unanimidade — multa de R$ 6.000, cancelamento do RNTRC e impedimento de novo 
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=oXHjEvN4wz8&t=773s)
+- **RD 965 (2023-09-14)**, 1.3.1 · relator **Felipe Queiroz** · PAO: relatório final; RNTRC obtido de forma irregular (apurado pela polícia civil de SC; comprovante de residência inautêntico) → aprovado por unanimidade — multa de R$ 6.000, cancelamento do RNTRC e impedimento por 2 an
+  - votos: Felipe: relator; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=oXHjEvN4wz8&t=1528s)
+- **RD 969 (2023-11-09)**, 1.3.1 · relator **Lucas Asfor** · Alteração do art. 25-B da Resolução 5.862/2019 (CIOT): reabertura do prazo para instituições de pagamento comprovarem pedido de adesão ao arranjo Pix  → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=M_pRe8N6j9g&t=3121s)
+- **RD 972 (2023-12-21)**, 1.1.1 · relator **Rafael Vitale** · Segundo termo aditivo ao ACT 6/2019 entre ANTT e CNT: prorrogação por 24 meses a partir de 08/01/2024 (troca de informações, estudos, integração de si → aprovado por unanimidade
+  - votos: Rafael: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=gHjCizk8PhQ&t=226s)
 - **RD 973 (2024-01-18)**, 1.1.1 · relator **Guilherme Sampaio** · Relatório final da Audiência Pública 11/2023 e alteração da Resolução 5867/2020 (regras gerais, metodologia e coeficientes dos pisos mínimos de frete  → aprovado por unanimidade
   - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=LNSg-EtO5zg&t=121s)
 - **RD 975 (2024-02-08)**, 1.1.1 · relator **Guilherme Sampaio** · Relatório final da Audiência Pública 7/2023 e aprovação da revisão da regulamentação do transporte rodoviário internacional de cargas (TRIC), substitu → aprovado por unanimidade

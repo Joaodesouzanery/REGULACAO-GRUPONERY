@@ -1,5 +1,101 @@
 # Itens do tema «reequilibrio_contratual» (todos os diretores)
 
+- **RD 949 (2023-02-02)**, 2.1.2 · relator **Davi Barreto** · Sexto termo aditivo ao contrato de concessão (Edital 3/2013, BR-163/MT): nova prorrogação de 60 dias do prazo do quarto termo aditivo (relicitação) pa → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=58YX4d-4chY&t=545s)
+- **RD 950 (2023-02-16)**, 2.2.6 · relator **Davi Barreto** · Segunda revisão ordinária, segunda revisão extraordinária e reajuste da tarifa básica de pedágio (edital 1/2019; BR-364/365, GO/MG) → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=1902s)
+- **RD 950 (2023-02-16)**, 2.3.1 · relator **Guilherme Sampaio** · Alteração da Res. 5.818/2018 para delegar à Sufer a competência para aprovar revisões das taxas de depreciação e amortização e conduzir as revisões or → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=2343s)
+- **RD 950 (2023-02-16)**, 2.4.1 · relator **Luciano Lourenço** · Terceiro termo aditivo ao contrato de concessão: alterar prazo do acordo previsto no segundo termo aditivo, prorrogar obrigações não financeiras (leva → aprovado por unanimidade
+  - votos: Luciano: relator; Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=2540s)
+- **RD 950 (2023-02-16)**, 2.4.2 · relator **Luciano Lourenço** · Termo aditivo ao contrato de concessão (edital 3/2021) para regulamentar obrigações e efeitos do sandbox regulatório do pedágio em fluxo livre (free f → aprovado por unanimidade (votado em conjunto com 2.4.3)
+  - votos: Luciano: relator; Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=3058s)
+- **RD 951 (2023-03-09)**, 2.2.1 · relator **Guilherme Sampaio** · Terceiro termo aditivo ao contrato de concessão (Edital 005/2013, BR-163/MS): prorrogação do prazo da relicitação, fixação de tarifa no novo período,  → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=_MSBVawM8Dc&t=497s)
+- **RD 951 (2023-03-09)**, 2.3.2 · relator **Luciano Lourenço** · Instrução Normativa que disciplina o procedimento de reajuste e de revisões ordinárias e extraordinárias nos contratos de concessão de exploração de i → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=_MSBVawM8Dc&t=1098s)
+- **RD 952 (2023-03-16)**, 2.3.1 · relator **Lucas Asfor** · Abertura de audiência pública sobre a minuta da terceira norma do Regulamento das Concessões Rodoviárias (RCR 3): gestão econômico-financeira dos cont → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=dTg6ulnbBvM&t=1188s)
+- **RD 953 (2023-03-30)**, 2.4.1 · relator **Lucas Asfor** · Abertura de audiência pública sobre minutas de edital e contrato e estudos de viabilidade da relicitação da Malha Oeste (1.973 km, SP e MS, de Mairinq → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=HNl8PagFcCc&t=2290s)
+- **RD 953 (2023-03-30)**, 2.4.2 · relator **Luciano Lourenço** · Termo de ajustamento de conduta (TAC multas) para compensar o descumprimento do dever de pagar penalidades pecuniárias ainda não transitadas em julgad → aprovado por unanimidade — TAC celebrado com ajuste proposto no voto-vista
+  - votos: Luciano: revisor_acompanha; Lucas: revisor_acompanha; Guilherme: revisor_acompanha; Felipe: revisor_acompanha; Rafael: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=HNl8PagFcCc&t=2921s)
+- **RD 955 (2023-04-27)**, 2.1.4 · relator **Luciano Lourenço** · Reclamações da subconcessionária sobre vícios ocultos em bens da ferrovia transferidos pela subcedente → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=IPO0UDqZLhk&t=905s)
+- **RD 955 (2023-04-27)**, 2.1.5 · relator **Luciano Lourenço** · Trabalhos iniciais da 1ª parcela do trecho de cobertura da praça 3 (TCP-3), reajuste da tarifa básica de pedágio e autorização do início da cobrança n → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Lucas: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=IPO0UDqZLhk&t=960s)
+- **RD 957 (2023-05-24)**, 2.2.2 · relator **Luciano Lourenço** · Recurso contra a Decisão 354/2021 (SUINF) que manteve multa por atraso injustificado no cronograma de obras de 2017 (inclusive passarela) → aprovado por unanimidade — recurso conhecido e não provido
+  - votos: Luciano: relator; Rafael: acompanha; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=QkT0LtVw1qY&t=760s)
+- **RD 958 (2023-06-07)**, 1.2.1 · relator **Guilherme Sampaio** · Recurso contra a Deliberação 345/2022 (17/11/2022), que opinou pela inviabilidade técnica e jurídica do requerimento de relicitação da concessionária  → aprovado por unanimidade — recurso desprovido; mantida a inviabilidade da relicitação
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=6CjKqEHMaEU&t=673s)
+- **RD 958 (2023-06-07)**, 1.3.3 · relator **Luciano Lourenço** · Recurso contra a Deliberação 344/2022 (17/11/2022), que propôs à União a declaração de caducidade do contrato de concessão da BR-393/RJ (Edital 7/2007 → aprovado por unanimidade — recurso desprovido, caducidade mantida
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=6CjKqEHMaEU&t=2166s)
+- **RD 960 (2023-07-06)**, 1.2.7 · relator **Guilherme Sampaio** · Abertura de audiência pública sobre proposta de regulamentação do Comitê de Prevenção e Solução de Disputas (dispute board) em contratos de concessão  → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: outro; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=DwgBVKxy9Uw&t=2295s)
+- **RD 960 (2023-07-06)**, 1.3.2 · relator **Luciano Lourenço** · Sexto termo aditivo ao contrato de concessão (edital 3/2021): solução alternativa de faixas adicionais, em substituição às faixas reversíveis do km 21 → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=DwgBVKxy9Uw&t=2852s)
+- **RD 960 (2023-07-06)**, 1.4.1 · relator **Felipe Queiroz** · Primeiro termo aditivo (edital 006/2007?): reprogramação de investimentos e desconto de reequilíbrio (Fator D), Acórdão TCU 1447/2018 → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=DwgBVKxy9Uw&t=3621s)
+- **RD 960 (2023-07-06)**, 1.4.2 · relator **Felipe Queiroz** · Termo aditivo, Fator D, Acórdão TCU 1447/2018 → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=DwgBVKxy9Uw&t=3673s)
+- **RD 960 (2023-07-06)**, 1.4.3 · relator **Felipe Queiroz** · Termo aditivo, Fator D, Acórdão TCU 1447/2018 → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=DwgBVKxy9Uw&t=3673s)
+- **RD 960 (2023-07-06)**, 1.4.4 · relator **Felipe Queiroz** · Termo aditivo, Fator D, Acórdão TCU 1447/2018 → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=DwgBVKxy9Uw&t=3673s)
+- **RD 960 (2023-07-06)**, 1.4.5 · relator **Felipe Queiroz** · Termo aditivo, Fator D, Acórdão TCU 1447/2018 → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=DwgBVKxy9Uw&t=3673s)
+- **RD 962 (2023-08-03)**, 1.2.3 · relator **Guilherme Sampaio** · Requerimento para inserir cláusula contratual sobre a falta de pagamento de parcelas de arrendamento e concessão → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=VWrJuw_pj9c&t=551s)
+- **RD 79ª Reunião Extraordinária (2023-08-29)**, 1.1.1 · relator **Guilherme Sampaio** · Terceiro termo aditivo ao contrato de concessão (edital 1/2011, BR-101/ES/BA) para estabelecer condições de prestação do serviço de manutenção, conser → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=-JMcN97p7fs&t=230s)
+- **RD 79ª Reunião Extraordinária (2023-08-29)**, 1.1.2 · relator **Guilherme Sampaio** · 9ª revisão ordinária, 10ª revisão extraordinária e 11ª revisão extraordinária e reajuste anual da tarifa básica de pedágio (BR-101/ES/BA, 475,9 km, se → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=-JMcN97p7fs&t=599s)
+- **RD 79ª Reunião Extraordinária (2023-08-29)**, 1.2.1 · relator **Lucas Asfor** · 1ª revisão ordinária e reajuste da tarifa básica de pedágio da BR-116/101 (RJ/SP) → retirado de pauta
+  - votos: Lucas: relator · [vídeo](https://www.youtube.com/watch?v=-JMcN97p7fs&t=911s)
+- **RD 964 (2023-08-31)**, 1.2.1 · relator **Felipe Queiroz** · Primeiro termo aditivo ao contrato (edital 006/2007?): novo cronograma de investimentos reprogramados e desconto de reequilíbrio (Fator D) em atendime → aprovado por unanimidade (bloco 1.2.1 a 1.2.5)
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZFIKmP4URxc&t=1367s)
+- **RD 964 (2023-08-31)**, 1.2.2 · relator **Felipe Queiroz** · Segundo termo aditivo ao contrato (edital 001/2007): cronograma reprogramado e Fator D (Acórdão TCU 1447/2018) → aprovado por unanimidade (bloco)
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZFIKmP4URxc&t=1367s)
+- **RD 964 (2023-08-31)**, 1.2.3 · relator **Felipe Queiroz** · Termo aditivo ao contrato: cronograma reprogramado e Fator D (Acórdão TCU 1447/2018) → aprovado por unanimidade (bloco)
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZFIKmP4URxc&t=1367s)
+- **RD 964 (2023-08-31)**, 1.2.4 · relator **Felipe Queiroz** · Termo aditivo ao contrato (edital 006/2007?): cronograma reprogramado e Fator D (Acórdão TCU 1447/2018) → aprovado por unanimidade (bloco)
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZFIKmP4URxc&t=1367s)
+- **RD 964 (2023-08-31)**, 1.2.5 · relator **Felipe Queiroz** · Termo aditivo ao contrato: cronograma reprogramado e Fator D (Acórdão TCU 1447/2018) → aprovado por unanimidade (bloco)
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZFIKmP4URxc&t=1367s)
+- **RD 964 (2023-08-31)**, 1.2.6 · relator **Felipe Queiroz** · Alteração da Res. 5.818/2018 (delegação de competência da Diretoria à Superintendência) e da Instrução Normativa 18/2018, para delegar à Surod a aprov → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZFIKmP4URxc&t=2103s)
+- **RD 964 (2023-08-31)**, 1.2.7 · relator **Felipe Queiroz** · Abertura de audiência pública sobre o aprimoramento da metodologia e atualização do cálculo do WACC regulatório para ferrovias federais concedidas → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZFIKmP4URxc&t=2509s)
+- **RD 966 (2023-09-28)**, 1.3.1 · relator **Felipe Queiroz** · Pedido de reconsideração contra a Deliberação 496/2020 (02/12/2020), que aprovou o valor parcial de reequilíbrio do contrato (cerca de R$ 141 milhões  → aprovado por unanimidade — conhecido e não provido
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=fHz1cg_TFkA&t=2134s)
+- **RD 966 (2023-09-28)**, extrapauta · relator **Guilherme Sampaio** · Primeira revisão ordinária e reajuste da tarifa básica de pedágio (BR-153/414/080, TO/GO) para restabelecer o equilíbrio econômico-financeiro; inclusã → inclusão e revisão aprovadas por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=fHz1cg_TFkA&t=2882s)
+- **RD 968 (2023-10-26)**, 1.2.2 · relator **Luciano Lourenço** · Análise das reclamações da subconcessionária sobre vícios ocultos nos bens da ferrovia cuja posse foi transferida pela Valec; com sustentação oral do  → retirado de pauta pelo relator
+  - votos: Luciano: relator · [vídeo](https://www.youtube.com/watch?v=jZZousurLsY&t=830s)
+- **RD 971 (2023-12-07)**, 1.2.5 · relator **Guilherme Sampaio** · 2º termo aditivo ao contrato (edital 1/2019) para regulamentar obrigações e efeitos da autorização para elaboração de estudos ambientais complementare → aprovado por unanimidade
+  - votos: Guilherme: relator; Rafael: acompanha; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=GE0Xxv-shHs&t=2893s)
+- **RD 971 (2023-12-07)**, 1.3.3 · relator **Luciano Lourenço** · Análise das reclamações de vícios ocultos nos bens da FIOL (quatro pleitos: patologia nos dormentes, carbonatação em obras de arte especiais, falta de → pedido de vista (Lucas Asfor) após a sustentação oral
+  - votos: Luciano: relator; Lucas: vista; Felipe: outro; Guilherme: outro; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=GE0Xxv-shHs&t=3453s)
+- **RD 971 (2023-12-07)**, 1.3.5 · relator **Luciano Lourenço** · Recurso administrativo com pedido de efeito suspensivo contra a Decisão SUFER 52/2023 (14/04/2023), que fixou o início da contagem do prazo de 5 anos  → aprovada, por unanimidade, a preliminar de suspender o julgamento até conhecer o resultado
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=GE0Xxv-shHs&t=5244s)
+- **RD 972 (2023-12-21)**, 1.2.3 · relator **Guilherme Sampaio** · Relatório final da Audiência Pública 13/2022 e aprovação do novo modelo de alocação de riscos para os contratos de concessão rodoviária → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=gHjCizk8PhQ&t=734s)
+- **RD 972 (2023-12-21)**, 1.2.4 · relator **Guilherme Sampaio** · Instrução normativa conjunta que institui a Câmara de Negociação e Solução de Controvérsias (Compor) da ANTT e procedimentos de solução consensual com → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=gHjCizk8PhQ&t=1138s)
+- **RD 972 (2023-12-21)**, Extrapauta 1 · relator **Guilherme Sampaio** · 19ª revisão ordinária, 16ª revisão extraordinária, 20ª revisão ordinária e reajuste da TBP; 8º e 9º termos aditivos ao contrato de concessão (BR-116/R → aprovado por unanimidade (inclusão extrapauta aprovada por todos no início)
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=gHjCizk8PhQ&t=1848s)
+- **RD 972 (2023-12-21)**, 1.3.2 · relator **Luciano Lourenço** · Recurso com efeito suspensivo contra decisão da Sufer sobre o início da contagem do prazo de 5 anos das obrigações de investimento da Ferrovia de Inte → aprovado por unanimidade — recurso conhecido e desprovido
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=gHjCizk8PhQ&t=2711s)
+- **RD 972 (2023-12-21)**, 1.3.3 · relator **Luciano Lourenço** · Relatório final da Audiência Pública 4/2023 e aprovação da resolução que institui o RCR3 (terceira norma do Regulamento das Concessões Rodoviárias, eq → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=gHjCizk8PhQ&t=3757s)
+- **RD 972 (2023-12-21)**, 1.3.6 · relator **Luciano Lourenço** · 16ª revisão ordinária, 16ª e 17ª revisões extraordinárias e reajuste da TBP (BR-116/PR-SC) → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=gHjCizk8PhQ&t=4946s)
+- **RD 972 (2023-12-21)**, 1.3.8 · relator **Luciano Lourenço** · 13ª revisão ordinária, 16ª revisão extraordinária, desconto de reequilíbrio e reajuste da TBP (BR-324/BA e BA-526/528) → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=gHjCizk8PhQ&t=9670s)
+- **RD 972 (2023-12-21)**, 1.4.3 · relator **Felipe Queiroz** · Requerimento para inserir cláusula contratual que faculte o pagamento antecipado das parcelas vincendas do arrendamento → retirado de pauta pelo relator
+  - votos: Felipe: relator; Guilherme: outro · [vídeo](https://www.youtube.com/watch?v=gHjCizk8PhQ&t=11537s)
+- **RD 972 (2023-12-21)**, Extrapauta 2 · relator **Felipe Queiroz** · 16ª revisão ordinária, 16ª revisão extraordinária e reajuste da TBP da BR-381/MG-SP (praças P1 a P8) → aprovado por unanimidade (inclusão extrapauta aprovada por todos no início)
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=gHjCizk8PhQ&t=13040s)
 - **RD 973 (2024-01-18)**, 1.2.1 · relator **Felipe Queiroz** · Requerimento para inserir cláusula contratual que faculte a antecipação do pagamento de parcelas vincendas de arrendamento (e concessão) → aprovado por unanimidade — conhecido e negado provimento
   - votos: Felipe: relator; Guilherme: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=LNSg-EtO5zg&t=640s)
 - **RD 973 (2024-01-18)**, 1.2.2 · relator **Felipe Queiroz** · Relatório final da Audiência Pública 10/2023 e aprovação da metodologia de avaliação do nível de risco e de estimativa do custo médio ponderado de cap → aprovado por unanimidade

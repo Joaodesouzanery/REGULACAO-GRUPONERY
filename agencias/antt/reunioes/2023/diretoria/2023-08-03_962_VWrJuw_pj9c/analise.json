@@ -1,0 +1,108 @@
+{
+  "meta": {"video_id": "VWrJuw_pj9c", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:02); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "962", "data": "2023-08-03", "formato": "videoconferência",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Luciano Lourenço", "Lucas Asfor"],
+    "ausentes": ["Felipe Queiroz (férias)"],
+    "observacoes": ["Parte pública encerrada às 15h15 de 03/08/2023.", "O item 1.2.2 (processo administrativo disciplinar da Corregedoria, processo 50500.00042/2022-00, relator Guilherme Sampaio) tem acesso restrito e foi julgado ao final em sessão reservada, fora da transmissão; não consta na transcrição.", "Item 1.2.3 (Malha Oeste) retirado de pauta por Guilherme Sampaio.", "Todos os itens deliberados foram unânimes. A ata da reunião anterior não aparece como item na transcrição."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:03:01",
+      "processo": "50500.015779/2022-19", "interessado": "SUESP (Superintendência de Governança e Gestão Estratégica de Pessoal)",
+      "assunto": "Alteração da Resolução 5.976/2022 (Regimento Interno da ANTT) nos dispositivos sobre o processo de participação e controle social",
+      "tema": ["institucional", "participação social", "regulação normativa"],
+      "relator": "Rafael Vitale", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Apresentado na RD 961 (20/07/2023) com vista coletiva (art. 106, parágrafo único, do Regimento). Retorna para deliberação como ajuste pontual para adequar as regras de participação e controle social.",
+      "votos": [
+        {"diretor": "Rafael Vitale", "voto": "relator, aprova", "ts": "0:03:30", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo", "ts": "0:03:55", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "de acordo, acompanha o relator", "ts": "0:04:00", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "de acordo", "ts": "0:04:08", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:04:22",
+      "processo": "50500.203086/2022-81", "interessado": "99 Up Engenharia Ltda.",
+      "assunto": "Celebração de contrato de adesão para outorga, por autorização, de construção e exploração de terminal ferroviário intermodal em Santa Gertrudes/SP (área de influência de Cordeirópolis/SP), por 99 anos",
+      "tema": ["ferrovias", "autorização ferroviária (Lei 14.273/2021)"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Requerimento protocolado em 29/09/2022; ramal de 5,8 km conectado à malha paulista; investimento de cerca de R$ 43 milhões, início das operações previsto para 2026, demanda de 3.900 contêineres por mês da indústria cerâmica exportadora. Ministério dos Transportes se manifestou favoravelmente; a área técnica (SUFER) concluiu pela conformidade da documentação; minuta aderente ao parecer referencial da Procuradoria. Valores conforme a legenda.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova a celebração do contrato de adesão", "ts": "0:04:45", "justificativa": "convergência com a política pública ferroviária; investimento privado e equilíbrio da matriz de transporte de cargas", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:08:20", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:08:25", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:08:30", "justificativa": "lembra que o site da ANTT detalha os contratos de autorização ferroviária assinados, requerimentos em aberto e licenciamento ambiental, por transparência", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "0:02:42",
+      "processo": "50500.00042/2022-00", "interessado": "Corregedoria",
+      "assunto": "Processo administrativo disciplinar (acesso restrito; julgado ao final da transmissão)",
+      "tema": ["institucional"],
+      "relator": "Guilherme Sampaio", "resultado": "não consta (sessão reservada)",
+      "resumo_voto": "Pelos arts. 64, 65 da IN CGU 14/2018 e art. 48 §1º do Regimento Interno, o julgamento é restrito às partes e seu procurador e ocorre ao final, fora da transmissão pública.",
+      "votos": []
+    },
+    {
+      "id": "1.2.3", "ts": "0:09:11",
+      "processo": "50500.163211/2013-94", "interessado": "Malha Oeste S.A.",
+      "assunto": "Requerimento para inserir cláusula contratual sobre a falta de pagamento de parcelas de arrendamento e concessão",
+      "tema": ["ferrovias", "reequilíbrio contratual"],
+      "relator": "Guilherme Sampaio", "resultado": "retirado de pauta",
+      "resumo_voto": "Relator retira para aprofundar pontos e alinhar entendimentos técnicos com processo de relatoria de Felipe Queiroz.",
+      "votos": []
+    },
+    {
+      "id": "1.2.4", "ts": "0:09:59",
+      "processo": "50500.38480/2013-41", "interessado": "Concessionária Rodovia Juiz de Fora - Rio (Concer)",
+      "assunto": "Recurso contra a Decisão 293/2020 (SUROD) que aplicou multa de 1.005 URT por violação do art. 7º, VII, da Res. 4.071/2013 (segmento homogêneo com indicadores de qualidade fora do PER)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — recurso conhecido e não provido",
+      "resumo_voto": "Mantida a penalidade (infração do grupo 3), conforme proposta da superintendência; a transcrição diz com efeito suspensivo, mas o sentido é manter a multa. Números conforme a legenda.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, nega provimento", "ts": "0:10:10", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:11:20", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:11:25", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:11:30", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "0:11:38",
+      "processo": "50500.097075/2022-56", "interessado": "Ouvidoria",
+      "assunto": "Abertura de audiência pública sobre proposta de revisão do processo de recebimento e tratamento de reclamações de usuários contra empresas reguladas; aprovação do relatório de AIR",
+      "tema": ["participação social", "regulação normativa", "institucional"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Matéria de iniciativa da Ouvidoria, na agenda regulatória 2023-2024; processo iniciado em setembro de 2022 com AIR e consulta interna. AIR atende parcialmente o art. 6º do Decreto 10.411/2020 (falta incluir as contribuições da consulta interna), mas pode ser complementado após o controle social. Expectativa de reduzir em pelo menos 30% as reclamações de passageiros e concessões rodoviárias e ferroviárias até o fim de 2023. Aprova audiência pública e AIR sem prejuízo de complementos. Este item havia sido retirado de pauta na RD 957.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aprova a audiência pública e o AIR", "ts": "0:11:50", "justificativa": "ouvidoria é a voz do cidadão na agência; submeter a proposta à sociedade", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:16:35", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:16:38", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:16:42", "justificativa": "destaca contadores de segurança, fluidez e satisfação no site da ANTT e o papel da Ouvidoria e da transparência", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.4.1", "ts": "0:18:43",
+      "processo": "50500.025441/2020-11", "interessado": "SUROC (Superintendência de Serviços de Transporte Rodoviário e Multimodal de Cargas)",
+      "assunto": "Relatório final da Audiência Pública 2/2023 e aprovação da minuta de resolução do Vale-Pedágio obrigatório (revisão da Res. 2.885/2008): habilitação de empresas, modelos e sistemas operacionais, infrações e penalidades",
+      "tema": ["transporte rodoviário de cargas (piso mínimo do frete/CIOT)", "regulação normativa", "participação social"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Norma em vigor há mais de 14 anos; revisão na agenda regulatória 2021-2022 incorpora transformações tecnológicas e supera a antecipação do Vale-Pedágio por modelos físicos. Audiência pública de 26/01 a 12/03/2023; Procuradoria opinou pela juridicidade e sugeriu duas alterações de forma, acatadas pela SUROC.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova o relatório e a minuta", "ts": "0:19:10", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:24:00", "justificativa": "normativo adere a novas tecnologias; transição para transportadores, embarcadores, autônomos e cooperativas; elogia a SUROC", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha integralmente o relator", "ts": "0:24:50", "justificativa": "pauta antiga dos transportadores autônomos; revolução regulatória e tecnológica", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:25:30", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["1.2.3 (Malha Oeste, cláusula de pagamento de arrendamento)"],
+  "limites_da_analise": [
+    "Legenda automática: números de processo e valores podem conter erros.",
+    "Item 1.2.2 (PAD da Corregedoria) é sigiloso e julgado fora da transmissão; não há conteúdo nem votos na fonte.",
+    "Ata da RD 961 não é votada nesta reunião segundo a transcrição.",
+    "Rótulos de falantes inferidos; Diretor-Geral identificado como Rafael Vitale pelas saudações.",
+    "ts de votos de seguidores são aproximados."
+  ]
+}

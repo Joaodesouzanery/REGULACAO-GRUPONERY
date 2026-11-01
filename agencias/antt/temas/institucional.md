@@ -1,5 +1,109 @@
 # Itens do tema «institucional» (todos os diretores)
 
+- **RD 948 (2023-01-19)**, 1 · relator **Rafael Vitale** · Aprovação da ata da 947ª Reunião de Diretoria (leitura dispensada) → aprovada por unanimidade dos votantes
+  - votos: Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZX8Rm7GspUY&t=137s)
+- **RD 949 (2023-02-02)**, 1 · relator **Rafael Vitale** · Aprovação da ata da reunião de diretoria 948 → aprovada por unanimidade (Davi Barreto não vota)
+  - votos: Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=58YX4d-4chY&t=450s)
+- **RD 950 (2023-02-16)**, 2.1.1 · relator **Rafael Vitale** · Alteração da Resolução 5.977/2022 (estrutura organizacional): atribuições da coordenação de instrução processual para processo administrativo simplifi → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha; Luciano: acompanha · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=386s)
+- **RD 950 (2023-02-16)**, 2.3.1 · relator **Guilherme Sampaio** · Alteração da Res. 5.818/2018 para delegar à Sufer a competência para aprovar revisões das taxas de depreciação e amortização e conduzir as revisões or → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=2343s)
+- **RD 950 (2023-02-16)**, extrapauta · relator **Rafael Vitale** · Referendo da Deliberação 35 de 03/02/2023, que aprovou a extinção do convênio de delegação 1/2020 denunciado pelo Distrito Federal e o encerramento do → aprovado por unanimidade (inclusão extrapauta por concordância dos diretores)
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha; Luciano: acompanha · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=4817s)
+- **RD 951 (2023-03-09)**, 1 · relator **Rafael Vitale** · Aprovação da ata da 950ª Reunião de Diretoria (leitura dispensada, distribuída com antecedência) → aprovada por unanimidade dos votantes
+  - votos: Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=_MSBVawM8Dc&t=380s)
+- **RD 951 (2023-03-09)**, 2.1.1 · relator **Rafael Vitale** · Alteração da Resolução 5.977/2022 (estrutura organizacional da ANTT) → aprovado por unanimidade
+  - votos: Rafael: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=_MSBVawM8Dc&t=410s)
+- **RD 952 (2023-03-16)**, 1 · relator **Rafael Vitale** · Aprovação da ata da reunião de diretoria 951 → aprovada por unanimidade
+  - votos: Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=dTg6ulnbBvM&t=538s)
+- **RD 952 (2023-03-16)**, 2.3.2 · relator **Lucas Asfor** · Processo administrativo disciplinar (acesso restrito; julgado ao final da transmissão) → não consta (sessão reservada)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=dTg6ulnbBvM&t=538s)
+- **RD 953 (2023-03-30)**, 1 · relator **Rafael Vitale** · Aprovação da ata da reunião 952 (leitura dispensada) → aprovada por unanimidade
+  - votos: Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=HNl8PagFcCc&t=378s)
+- **RD 953 (2023-03-30)**, 2.1.2 · relator **Guilherme Sampaio** · Recurso contra a Deliberação 333/2022 (3/11/2022) que julgou improcedente a arguição de suspeição/impedimento do Diretor-Geral e determinou o arquivam → aprovado por unanimidade dos que votaram — recurso conhecido e desprovido (Rafael Vitale n
+  - votos: Guilherme: relator; Luciano: acompanha; Lucas: acompanha; Felipe: acompanha; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=HNl8PagFcCc&t=432s)
+- **RD 955 (2023-04-27)**, 0 · relator **Rafael Vitale** · Aprovação das atas da 954ª reunião ordinária e da 78ª extraordinária → aprovadas
+  - votos: Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=IPO0UDqZLhk&t=82s)
+- **RD 956 (2023-05-11)**, 1 · relator **Rafael Vitale** · Aprovação da ata da reunião 955 (leitura dispensada) → aprovada por unanimidade
+  - votos: Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=iczBBFrwdCU&t=887s)
+- **RD 956 (2023-05-11)**, 2.1.1 · relator **Rafael Vitale** · Alteração da Resolução 5.976/2022 (Regimento Interno da ANTT) após um ano de vigência da estrutura organizacional, para ajustar competências das unida → vista coletiva (retorna na reunião de 24/5/2023)
+  - votos: Rafael: relator · [vídeo](https://www.youtube.com/watch?v=iczBBFrwdCU&t=923s)
+- **RD 956 (2023-05-11)**, 2.4.2 · relator **Felipe Queiroz** · Segundo termo aditivo ao Acordo de Cooperação Técnica 2/2021: prorrogação por 24 meses a partir de 12/5/2023 (RNTRC e transporte rodoviário de cargas) → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=iczBBFrwdCU&t=3304s)
+- **RD 957 (2023-05-24)**, 1 · relator **Rafael Vitale** · Aprovação da ata da reunião de diretoria 956 → aprovada por unanimidade
+  - votos: Rafael: acompanha; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=QkT0LtVw1qY&t=182s)
+- **RD 957 (2023-05-24)**, 2.1.1 · relator **Rafael Vitale** · Alteração do anexo da Resolução 5.976/2022 (Regimento Interno da ANTT) → aprovado por unanimidade
+  - votos: Rafael: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=QkT0LtVw1qY&t=238s)
+- **RD 957 (2023-05-24)**, 2.1.2 · relator **Rafael Vitale** · Alteração da Resolução 5.977/2022 (estrutura organizacional da ANTT) → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=QkT0LtVw1qY&t=429s)
+- **RD 957 (2023-05-24)**, 2.2.3 · relator **Luciano Lourenço** · Abertura de audiência pública sobre proposta de revisão do processo de recebimento de reclamações → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=QkT0LtVw1qY&t=1118s)
+- **RD 958 (2023-06-07)**, 1.3.1 · relator **Luciano Lourenço** · Alteração da Resolução 5.818/2018 (delegação de competências da Diretoria às superintendências) para restabelecer a delegação à SUFER de publicar extr → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=6CjKqEHMaEU&t=1486s)
+- **RD 959 (2023-06-22)**, 1.5.1 · relator **Lucas Asfor** · Processo administrativo disciplinar (restrição de acesso; julgamento em sessão reservada ao final da transmissão) → sigiloso — julgamento em sessão reservada, sem informação na transmissão
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=lDeW01HYX8Q&t=40s)
+- **RD 959 (2023-06-22)**, 1.1.1 · relator **Rafael Vitale** · Alteração da Resolução 5.977/2022 (estrutura organizacional da ANTT) → aprovado por unanimidade
+  - votos: Rafael: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=lDeW01HYX8Q&t=73s)
+- **RD 960 (2023-07-06)**, 1.1.1 · relator **Rafael Vitale** · Alteração da Resolução 5.976 de 7/04/2022 (Regimento Interno da ANTT) → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=DwgBVKxy9Uw&t=781s)
+- **RD 960 (2023-07-06)**, 1.2.4 · relator **Guilherme Sampaio** · Processo administrativo disciplinar (acesso restrito) → sigiloso — julgamento em sessão reservada, sem resultado na transmissão
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=DwgBVKxy9Uw&t=1236s)
+- **RD 960 (2023-07-06)**, 1.2.5 · relator **Guilherme Sampaio** · Processo administrativo disciplinar (acesso restrito) → sigiloso — julgamento em sessão reservada, sem resultado na transmissão
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=DwgBVKxy9Uw&t=1236s)
+- **RD 960 (2023-07-06)**, 1.2.6 · relator **Guilherme Sampaio** · Aprovação da publicação do edital de concessão da BR-381/MG (entroncamento BR-116/451, Gov. Valadares, ao entroncamento BR-262, Belo Horizonte; 303,46 → aprovado por unanimidade — autorizada a publicação do edital
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: outro; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=DwgBVKxy9Uw&t=1247s)
+- **RD 960 (2023-07-06)**, 1.4.1 · relator **Felipe Queiroz** · Primeiro termo aditivo (edital 006/2007?): reprogramação de investimentos e desconto de reequilíbrio (Fator D), Acórdão TCU 1447/2018 → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=DwgBVKxy9Uw&t=3621s)
+- **RD 960 (2023-07-06)**, 1.4.2 · relator **Felipe Queiroz** · Termo aditivo, Fator D, Acórdão TCU 1447/2018 → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=DwgBVKxy9Uw&t=3673s)
+- **RD 960 (2023-07-06)**, 1.4.3 · relator **Felipe Queiroz** · Termo aditivo, Fator D, Acórdão TCU 1447/2018 → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=DwgBVKxy9Uw&t=3673s)
+- **RD 960 (2023-07-06)**, 1.4.4 · relator **Felipe Queiroz** · Termo aditivo, Fator D, Acórdão TCU 1447/2018 → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=DwgBVKxy9Uw&t=3673s)
+- **RD 960 (2023-07-06)**, 1.4.5 · relator **Felipe Queiroz** · Termo aditivo, Fator D, Acórdão TCU 1447/2018 → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=DwgBVKxy9Uw&t=3673s)
+- **RD 961 (2023-07-20)**, 1.1.1 · relator **Rafael Vitale** · Relatório final da Consulta Pública 1/2022 e proposta de resolução que substitui a Resolução 5.624/2017 sobre o processo de participação e controle so → aprovado por unanimidade
+  - votos: Rafael: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=zV1cOhU21bk&t=75s)
+- **RD 961 (2023-07-20)**, 1.1.2 · relator **Rafael Vitale** · Alteração da Resolução 5.976/2022 (Regimento Interno da ANTT) nos dispositivos sobre o processo de participação e controle social, consequência do 1.1 → vista coletiva (retorna na reunião de 3/8/2023)
+  - votos: Rafael: relator · [vídeo](https://www.youtube.com/watch?v=zV1cOhU21bk&t=75s)
+- **RD 962 (2023-08-03)**, 1.2.2 · relator **Guilherme Sampaio** · Processo administrativo disciplinar (acesso restrito; julgado ao final da transmissão) → não consta (sessão reservada)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=VWrJuw_pj9c&t=162s)
+- **RD 962 (2023-08-03)**, 1.1.1 · relator **Rafael Vitale** · Alteração da Resolução 5.976/2022 (Regimento Interno da ANTT) nos dispositivos sobre o processo de participação e controle social → aprovado por unanimidade
+  - votos: Rafael: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=VWrJuw_pj9c&t=181s)
+- **RD 962 (2023-08-03)**, 1.3.1 · relator **Luciano Lourenço** · Abertura de audiência pública sobre proposta de revisão do processo de recebimento e tratamento de reclamações de usuários contra empresas reguladas;  → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=VWrJuw_pj9c&t=698s)
+- **RD 963 (2023-08-17)**, 1.2.3 · relator **Felipe Queiroz** · Alteração da Resolução 5.818/2018 (delegação de competências da Diretoria a superintendências da ANTT) → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=gHtXTxOWagI&t=1016s)
+- **RD 964 (2023-08-31)**, 1.1.1 · relator **Luciano Lourenço** · Processo administrativo disciplinar (PAD), com acesso restrito; julgamento ao final da transmissão, restrito às partes e ao procurador → sigiloso — julgamento em sessão reservada, resultado não consta na transmissão
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=ZFIKmP4URxc&t=107s)
+- **RD 964 (2023-08-31)**, 1.2.1 · relator **Felipe Queiroz** · Primeiro termo aditivo ao contrato (edital 006/2007?): novo cronograma de investimentos reprogramados e desconto de reequilíbrio (Fator D) em atendime → aprovado por unanimidade (bloco 1.2.1 a 1.2.5)
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZFIKmP4URxc&t=1367s)
+- **RD 964 (2023-08-31)**, 1.2.2 · relator **Felipe Queiroz** · Segundo termo aditivo ao contrato (edital 001/2007): cronograma reprogramado e Fator D (Acórdão TCU 1447/2018) → aprovado por unanimidade (bloco)
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZFIKmP4URxc&t=1367s)
+- **RD 964 (2023-08-31)**, 1.2.3 · relator **Felipe Queiroz** · Termo aditivo ao contrato: cronograma reprogramado e Fator D (Acórdão TCU 1447/2018) → aprovado por unanimidade (bloco)
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZFIKmP4URxc&t=1367s)
+- **RD 964 (2023-08-31)**, 1.2.4 · relator **Felipe Queiroz** · Termo aditivo ao contrato (edital 006/2007?): cronograma reprogramado e Fator D (Acórdão TCU 1447/2018) → aprovado por unanimidade (bloco)
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZFIKmP4URxc&t=1367s)
+- **RD 964 (2023-08-31)**, 1.2.5 · relator **Felipe Queiroz** · Termo aditivo ao contrato: cronograma reprogramado e Fator D (Acórdão TCU 1447/2018) → aprovado por unanimidade (bloco)
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZFIKmP4URxc&t=1367s)
+- **RD 964 (2023-08-31)**, 1.2.6 · relator **Felipe Queiroz** · Alteração da Res. 5.818/2018 (delegação de competência da Diretoria à Superintendência) e da Instrução Normativa 18/2018, para delegar à Surod a aprov → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZFIKmP4URxc&t=2103s)
+- **RD 968 (2023-10-26)**, 1.2.3 · relator **Luciano Lourenço** · Relatório de AIR (versão 1.0) do projeto de adequação da política de redução do fardo regulatório aos instrumentos de melhoria regulatória; revogação  → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=jZZousurLsY&t=915s)
+- **RD 969 (2023-11-09)**, extrapauta-inclusao · relator **Luciano Lourenço** · Inclusão em pauta, em caráter extrapauta, do processo de homologação do resultado do leilão do sistema rodoviário do Paraná (Lote 2) → inclusão aprovada por unanimidade
+  - votos: Guilherme: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=M_pRe8N6j9g&t=278s)
+- **RD 970 (2023-11-23)**, 1.1.1 · relator **Guilherme Sampaio** · Edital de concessão da BR-040/MG, trecho Belo Horizonte (entroncamento BR-356) a Juiz de Fora (início da interseção com antiga União e Indústria), 231 → aprovado por unanimidade, com condicionantes e determinações
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=30C4_7L7Qe4&t=586s)
+- **RD 970 (2023-11-23)**, 1.3.2 · relator **Felipe Queiroz** · Estudos da BR-040/MG-RJ, trecho Juiz de Fora a entroncamento com a BR-116 (Trevo das Missões, RJ), e encaminhamento do novo plano de outorga → aprovado por unanimidade — processo devolvido à SUCOM
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=30C4_7L7Qe4&t=2286s)
+- **RD 971 (2023-12-07)**, 1.1.1 · relator **Rafael Vitale** · Revisão da Política de Segurança da Informação e Comunicações (POSIC) da ANTT, com revogação da Res. 5.854/2019 → aprovado por unanimidade
+  - votos: Rafael: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=GE0Xxv-shHs&t=1489s)
+- **RD 971 (2023-12-07)**, 1.1.2 · relator **Rafael Vitale** · Alteração da Res. 5.977/2022 (estrutura organizacional): reorganização das coordenações da SUCOM para atuarem por projeto em todas as etapas da conces → aprovado por unanimidade
+  - votos: Rafael: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=GE0Xxv-shHs&t=1638s)
+- **RD 972 (2023-12-21)**, 1.1.1 · relator **Rafael Vitale** · Segundo termo aditivo ao ACT 6/2019 entre ANTT e CNT: prorrogação por 24 meses a partir de 08/01/2024 (troca de informações, estudos, integração de si → aprovado por unanimidade
+  - votos: Rafael: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=gHjCizk8PhQ&t=226s)
+- **RD 972 (2023-12-21)**, 1.2.4 · relator **Guilherme Sampaio** · Instrução normativa conjunta que institui a Câmara de Negociação e Solução de Controvérsias (Compor) da ANTT e procedimentos de solução consensual com → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=gHjCizk8PhQ&t=1138s)
 - **RD 974 (2024-01-31)**, 1.3.2 · relator **Felipe Queiroz** · Processo administrativo disciplinar reservado, retirado de pauta por Felipe Queiroz → retirado de pauta
   - votos:  · [vídeo](https://www.youtube.com/watch?v=m2QSOFSYyqw&t=372s)
 - **RD 977 (2024-03-07)**, 1.1.2 · relator **Luciano Lourenço** · Processo administrativo disciplinar em grau de recurso, com restrição de acesso; julgamento reservado ao final da transmissão → julgamento reservado (sigiloso), sem registro na transmissão pública

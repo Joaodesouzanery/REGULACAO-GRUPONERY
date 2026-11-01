@@ -1,0 +1,128 @@
+{
+  "meta": {"video_id": "lDeW01HYX8Q", "fonte": "legenda automática do YouTube; falantes inferidos pela legenda (não confiáveis); ts = tempo do vídeo (sessão começa em ~0:00); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "959", "data": "2023-06-22", "formato": "videoconferência (transmissão ao vivo no YouTube)",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Luciano Lourenço", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Parte pública encerrada às 15h12 de 22/06/2023; depois sessão reservada para o PAD.", "7 itens públicos deliberados, todos por unanimidade, mais 1 processo administrativo disciplinar (1.5.1, Corregedoria, relator Lucas Asfor) tratado em sessão reservada, sem conteúdo na transmissão.", "O item 1.2.2 aprova o aditivo ao contrato da Ecovias do Cerrado para o sandbox regulatório de pesagem em movimento (HS-WIM), segundo sandbox da ANTT depois do free flow; todos os diretores elogiam o relator Guilherme Sampaio.", "Registros no encerramento: Luciano Lourenço destaca o ANTTD realizado em 21/06/2023; Rafael Vitale destaca a fiscalização responsiva (aderência regulatória)."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:01:13",
+      "processo": "50500.020646/2022-64", "interessado": "SUGEP (Superintendência de Gestão Estratégica e de Pessoal)",
+      "assunto": "Alteração da Resolução 5.977/2022 (estrutura organizacional da ANTT)",
+      "tema": ["institucional", "regulação normativa"],
+      "relator": "Rafael Vitale", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Relator solicita dispensa da leitura do Voto DG 27/2023 (art. 68 §5º do Regimento Interno) por tratar de tema interno; aprova a alteração da Res. 5.977 com base na racionalização do uso de recursos da ANTT, nos termos da minuta apresentada.",
+      "votos": [
+        {"diretor": "Rafael Vitale", "voto": "relator, aprova", "ts": "0:01:40", "justificativa": "racionalização do uso dos recursos da agência", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:02:35", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "de acordo", "ts": "0:02:38", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:02:42", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo (aprovação por unanimidade proclamada)", "ts": "0:02:40", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:02:56",
+      "processo": "50500.131274/2013-18", "interessado": "Concessionária da Rodovia Osório-Porto Alegre (Concepa)",
+      "assunto": "Recurso administrativo contra a Decisão 157/2020 da SUINF/superintendência de rodovias que aplicou multa por execução contratual do 12º ano de concessão (item 3.1.2, alargamento de obras de arte especiais para ampliação de capacidade)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — recurso conhecido e não provido, multa mantida",
+      "resumo_voto": "Recurso voluntário previsto na cláusula 25.4 do contrato; notas técnicas concluíram que não há fato novo; mantém multa de 832,8 URTs (valor conforme a legenda).",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, conhece e nega provimento", "ts": "0:03:00", "justificativa": "ausência de fato novo capaz de afastar a penalidade; segue a área técnica", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:05:05", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:05:08", "confianca": "baixa"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:05:10", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha; proclama unanimidade", "ts": "0:05:15", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "0:05:20",
+      "processo": "50500.129990/2023-07", "interessado": "Ecovias do Cerrado S.A.",
+      "assunto": "1º termo aditivo ao contrato (edital 1/2019, BR-364/365, GO/MG) para regulamentar as obrigações e efeitos da autorização temporária do ambiente regulatório experimental (sandbox regulatório, Res. 5.99x/2022) de pesagem em movimento (HS-WIM)",
+      "tema": ["sandbox / inovação", "concessões rodoviárias", "transporte rodoviário de cargas (excesso de peso)", "regulação normativa"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aditivo suspende obrigações contratuais, inclui novas obrigações decorrentes do sandbox por prazo determinado e trata dos reflexos na matriz de riscos e no equilíbrio econômico-financeiro. Segundo sandbox da ANTT (o primeiro é o free flow). Expectativa: testar a pesagem em movimento como forma eficiente de controle de peso, preservando pavimento e obras de arte, com mais fluidez, menos fraude e fuga de fiscalização, e combatendo a concorrência desleal de quem opera com excesso de peso. Grupo de trabalho coordenado pela SUROC; concessionária concordou; apontamentos da Procuradoria atendidos.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova o 1º termo aditivo", "ts": "0:05:25", "justificativa": "inovação regulatória, segurança viária, durabilidade da infraestrutura e eficiência fiscalizatória", "tom": "entusiasmado", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha integralmente o voto do relator", "ts": "0:10:30", "justificativa": "projeto de extrema importância para os pilares da revolução tecnológica e regulatória; pode revolucionar o transporte de carga", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha, aprova", "ts": "0:10:56", "justificativa": "mais eficiência, logística e segurança jurídica; elogia a condução e a viagem internacional do relator para conhecer boas práticas", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:12:48", "justificativa": "elogia a liderança do relator na condução do projeto", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator; proclama unanimidade", "ts": "0:13:15", "justificativa": "sandboxes (free flow e pesagem) resumem as três revoluções: regulatória, tecnológica e comportamental", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "0:14:18",
+      "processo": "50500.061785/2020-36", "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio (Concer)",
+      "assunto": "Recurso contra a Decisão 272/2022 da superintendência de rodovias que manteve multa de 180 URTs por ausência de tachas refletivas em prazo superior ao fixado pela fiscalização",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — recurso conhecido e não provido",
+      "resumo_voto": "Nota técnica 793/2023 não identificou fato novo; mantém a penalidade por violação do art. 20 da Res. 5.083/2016, art. 5º, IX da Res. 4.071/2013 e cláusulas do contrato PG-138/95-00. Antes do voto, relator destaca o ANTTD de 21/06/2023 como dia histórico de transparência.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, conhece e nega provimento", "ts": "0:15:30", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "de acordo com o relator", "ts": "0:18:08", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:18:10", "confianca": "baixa"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:18:12", "confianca": "baixa"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha; proclama unanimidade", "ts": "0:18:15", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.3.2", "ts": "0:18:22",
+      "processo": "50500.37113 (número parcial)", "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio (Concer)",
+      "assunto": "Recurso contra a Decisão 157/2022 que manteve multa de 385,56 URTs por atraso injustificado no cronograma de 2018 (item 2.4 do PER, recuperação de obras de arte especiais)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — recurso conhecido e não provido",
+      "resumo_voto": "Nota técnica 886/2023 sem fato novo; mantém a penalidade por infração às cláusulas 2.19 a 2.23 do contrato PG-138/95-00.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, conhece e nega provimento", "ts": "0:18:30", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo", "ts": "0:20:40", "confianca": "baixa"},
+        {"diretor": "Felipe Queiroz", "voto": "de acordo com o relator", "ts": "0:20:42", "confianca": "baixa"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:20:45", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha; proclama unanimidade", "ts": "0:20:50", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.4.1", "ts": "0:20:57",
+      "processo": "50500.357132/2022-45 (número parcial)", "interessado": "Santa Maria Turismo Ltda. (fretamento)",
+      "assunto": "Recurso contra a Deliberação 125/2023 (publicada em 28/04/2023) que aplicou cassação da autorização de fretamento por infração grave reincidente, inclusive após a instauração do processo",
+      "tema": ["ônibus (fretamento)", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — recurso conhecido sem efeito suspensivo e não provido; cassação mantida",
+      "resumo_voto": "Rejeita os argumentos da empresa (falta de previsão legal, desproporcionalidade e revogação do circuito fechado): a cassação está prevista no art. 36 §5º do Decreto 2.521/1998 e o circuito fechado consta do próprio decreto, não só de resoluções.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, conhece sem efeito suspensivo e nega provimento", "ts": "0:21:10", "justificativa": "infração grave reiterada; pena prevista no decreto", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "0:22:35", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:22:38", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:22:45", "justificativa": "infração grave de forma reiterada", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator; proclama unanimidade", "ts": "0:23:10", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.4.2", "ts": "0:23:25",
+      "processo": "50500.124519/2022-33 (número parcial)", "interessado": "Planalturismo Eireli",
+      "assunto": "Pedido de reconsideração/recurso contra a Deliberação 132/2023 (11/05/2023) que aplicou cassação por informações falsas e reiteradas práticas de serviço não autorizado (modalidade diversa da autorizada)",
+      "tema": ["ônibus (fretamento)", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — conhecido e não provido; cassação mantida",
+      "resumo_voto": "Recurso repete argumentos anteriores sem fato novo; a empresa foi flagrada 65 vezes operando trechos como linha regular sem autorização, 16 delas após a interposição do recurso, o que demonstra desprezo pela atuação da agência e justifica a pena mais gravosa (art. 36 §5º c/c art. 86 do Decreto 2.521/1998).",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, conhece e nega provimento", "ts": "0:23:30", "justificativa": "gravidade e reiteração, continuidade da irregularidade mesmo após o recurso", "tom": "firme", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo; elogia a objetividade e a qualidade dos votos da sessão", "ts": "0:25:30", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:25:40", "confianca": "baixa"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:25:42", "confianca": "baixa"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha; proclama unanimidade e destaca a fiscalização responsiva", "ts": "0:25:50", "justificativa": "empresas com aderência regulatória serão tratadas de forma diferente das que infringem reiteradamente; fiscalização mais pesada para quem se afasta da aderência", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.5.1", "ts": "0:00:40",
+      "processo": "50600.353820/2021-67 (número parcial)", "interessado": "Corregedoria",
+      "assunto": "Processo administrativo disciplinar (restrição de acesso; julgamento em sessão reservada ao final da transmissão)",
+      "tema": ["institucional"],
+      "relator": "Lucas Asfor", "resultado": "sigiloso — julgamento em sessão reservada, sem informação na transmissão",
+      "resumo_voto": "Pela IN CGU 14/2018 (arts. 64 §5º e 65 §1º) e art. 48 §1º do Regimento Interno, o PAD tem acesso restrito; julgado ao final, com participação só das partes e do procurador.",
+      "votos": []
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática com erros de nomes e números; processos 1.3.2, 1.4.1, 1.4.2 e 1.5.1 com numeração parcial/incerta; URTs aproximadas.", "A numeração dos itens pelo Diretor-Geral é inconsistente na fala (1.4.1 seguido de '1.5.1' e '1.5.2'); adotada a sequência 1.4.1/1.4.2.", "Falantes inferidos errados; os votos de acompanhamento têm ts aproximado e, em vários, confiança baixa/media. O voto do PAD 1.5.1 não consta da transmissão.", "O Concepa 1.2.1 e o sandbox 1.2.2 têm números de resolução/decisão potencialmente distorcidos pela legenda."]
+}

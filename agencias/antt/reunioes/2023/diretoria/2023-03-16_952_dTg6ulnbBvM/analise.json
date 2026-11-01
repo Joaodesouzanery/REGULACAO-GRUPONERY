@@ -1,0 +1,107 @@
+{
+  "meta": {"video_id": "dTg6ulnbBvM", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:08); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "952", "data": "2023-03-16", "formato": "videoconferência",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Luciano Lourenço", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Parte pública encerrada às 15h08 de 16/03/2023.", "O item 2.3.2 (processo administrativo disciplinar da Corregedoria, relator Lucas Asfor) tem acesso restrito e foi julgado ao final da transmissão, fora da parte pública.", "Retirados de pauta: 2.1.1 (revogação da Súmula 11) e 2.2.3 (Politur).", "Todos os itens deliberados foram unânimes."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:08:58",
+      "processo": "", "interessado": "Secretaria-Geral",
+      "assunto": "Aprovação da ata da reunião de diretoria 951",
+      "tema": ["institucional"],
+      "relator": "Rafael Vitale", "resultado": "aprovada por unanimidade",
+      "resumo_voto": "Ata distribuída com antecedência mínima de 48 horas; leitura dispensada.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo", "ts": "0:09:10", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "de acordo", "ts": "0:09:13", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "de acordo", "ts": "0:09:16", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "de acordo", "ts": "0:09:20", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "de acordo", "ts": "0:09:24", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.1.1", "ts": "0:10:28",
+      "processo": "50500.090221/2021-31", "interessado": "SUFIS (Superintendência de Fiscalização de Serviços de Transporte Rodoviário de Cargas e Passageiros)",
+      "assunto": "Revogação da Súmula 11/2021 (2 de dezembro de 2021) sobre a caracterização de transporte clandestino, para correta aplicação da Resolução 4.287/2014",
+      "tema": ["fiscalização e sanções", "regulação normativa", "ônibus (transporte regular, TAR)"],
+      "relator": "Luciano Lourenço", "resultado": "retirado de pauta",
+      "resumo_voto": "Apresentado na RD 943 (03/11/2022), com vista coletiva (art. 76, parágrafo único, do Regimento). Relator retira diante de fatos novos e do desejo de nova apreciação da proposta.",
+      "votos": []
+    },
+    {
+      "id": "2.2.1", "ts": "0:11:44",
+      "processo": "50500.97182/2022-1", "interessado": "TJ Agência de Viagens e Turismo Ltda.",
+      "assunto": "Pedido de reconsideração contra a Deliberação 403/2022 (22/12/2022) que aplicou cassação da autorização de fretamento",
+      "tema": ["ônibus (fretamento)", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — conhecido, sem efeito suspensivo; não provido",
+      "resumo_voto": "Comissão processante verificou descumprimento sistemático do regulamento do fretamento (circuito fechado, Res. 4.777/2015), com serviços de circuito aberto; enquadramento no §5º do art. 36 do Decreto 2.521/1998 (cadastro cassado imediatamente). Área técnica rebateu os argumentos da empresa. Número do processo e do TAF conforme a legenda, incertos.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, nega provimento", "ts": "0:11:55", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "0:15:10", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:15:13", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:15:20", "justificativa": "estava sem áudio por ter desligado o microfone", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:15:26", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.2.2", "ts": "0:15:35",
+      "processo": "50500.358984/2017", "interessado": "L. Os Coletivos e Cargas Ltda.",
+      "assunto": "Processo administrativo ordinário por seccionamento intermunicipal não autorizado na linha São Félix do Xingu/PA - Carazinho/RS",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — cassação da linha (mercado)",
+      "resumo_voto": "Comissão processante concluiu pela prática de seccionamentos não autorizados e propôs cassação dos mercados (prefixos 02002600 e 02002661); SUFIS endossou. Reincidência, falta de efeito pedagógico de multa alternativa (multa de outro processo de 2020 sem registro de pagamento) e usuários não ficariam isolados do serviço regulado. Aplica cassação da linha.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, cassa a linha", "ts": "0:15:45", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "de acordo com o relator", "ts": "0:18:15", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:18:18", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:18:22", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:18:20", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2.2.3", "ts": "0:18:36",
+      "processo": "50525.0005465446/2016-55", "interessado": "Politur Transporte e Agência de Turismo Ltda.",
+      "assunto": "Processo administrativo ordinário para apurar infrações à legislação de transporte rodoviário de passageiros",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "retirado de pauta",
+      "resumo_voto": "Relator retira em função de elementos novos juntados ao processo, para reapreciação com a devida instrução; Diretor-Geral observa que não é necessária concessão do colegiado.",
+      "votos": []
+    },
+    {
+      "id": "2.3.1", "ts": "0:19:48",
+      "processo": "50500.30241/2021-53", "interessado": "SUROD (Superintendência de Infraestrutura Rodoviária)",
+      "assunto": "Abertura de audiência pública sobre a minuta da terceira norma do Regulamento das Concessões Rodoviárias (RCR 3): gestão econômico-financeira dos contratos de concessão rodoviária; aprovação do relatório de AIR",
+      "tema": ["concessões rodoviárias", "participação social", "regulação normativa", "reequilíbrio contratual"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "RCR criado para padronizar contratos de concessão rodoviária (etapa 1: Res. 5.950/2021; etapa 2: Res. 6.000/2022; esta é a 3ª de cinco). Minuta com 15 capítulos, 2 anexos e 1 apêndice: capital social e estrutura societária, regime de reparação regulatória, financiamento, garantias, trabalhos iniciais, fluxo de recursos e estrutura tarifária, acordo tripartite, metodologia de classificação de obras e serviços e das concessionárias. AIR atende parcialmente o art. 6º do Decreto 10.411/2020; complemento pode vir após o controle social. Estimativa de redução do fardo regulatório de cerca de R$ 49 milhões. Proposta resultou de 449 contribuições da reunião participativa 5/2022.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova a audiência pública e o AIR", "ts": "0:20:00", "justificativa": "marco padronizado para contratos extremamente detalhados; legitimidade da participação social", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente o relator", "ts": "0:25:40", "justificativa": "RCR 3 é avanço na modernização da gestão e fiscalização dos contratos e da infraestrutura rodoviária", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha integralmente o relator", "ts": "0:26:30", "justificativa": "RCR 4 e 5 ainda por vir; relação comportamental com os regulados", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:27:05", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha integralmente o relator", "ts": "0:27:40", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.3.2", "ts": "0:08:58",
+      "processo": "50500.13056/2018", "interessado": "Corregedoria",
+      "assunto": "Processo administrativo disciplinar (acesso restrito; julgado ao final da transmissão)",
+      "tema": ["institucional"],
+      "relator": "Lucas Asfor", "resultado": "não consta (sessão reservada)",
+      "resumo_voto": "Pelos arts. 64, 65 da IN CGU 14/2018 e art. 48 §1º do Regimento, o julgamento é restrito à parte e seu procurador.",
+      "votos": []
+    }
+  ],
+  "retirados": ["2.1.1 (revogação da Súmula 11/2021)", "2.2.3 (Politur, PAO)"],
+  "limites_da_analise": [
+    "Legenda automática: números de processo, valores e nomes podem conter erros.",
+    "Item 2.3.2 (PAD da Corregedoria) é sigiloso e não consta na transmissão pública.",
+    "O voto de Guilherme Sampaio no 2.2.2 não aparece na transcrição com clareza (fala sobreposta); registrado com confiança baixa.",
+    "Rótulos de falantes inferidos; Diretor-Geral identificado como Rafael Vitale pelas saudações.",
+    "ts de votos de seguidores são aproximados."
+  ]
+}

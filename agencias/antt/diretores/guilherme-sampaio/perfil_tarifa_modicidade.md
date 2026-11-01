@@ -1,14 +1,15 @@
 # Perfil analítico — Guilherme Sampaio · tema: tarifa_modicidade
 
-**Amostra:** presente em 86 das 92 reuniões analisadas em que há registro de presença/ausência; 14 votos neste tema; 0 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 113 das 121 reuniões analisadas em que há registro de presença/ausência; 15 votos neste tema; 0 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 14 (100% dos votos em que não era relator) · relator 0 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 15 (100% dos votos em que não era relator) · relator 0 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 293/62; fiscalizacao_sancoes 228/40; onibus 121/20; onibus_regular 93/16; leilao_otimizacao 92/31; reequilibrio_contratual 88/14; regulacao_normativa 77/18; participacao_social 77/17; judicializacao 64/12; ferrovias 61/12; pedagio_freeflow 40/3; institucional 38/17; cargas 25/6; sandbox_inovacao 24/9; sustentabilidade 19/3; onibus_fretamento 17/2; tarifa_modicidade 14/0; onibus_semiurbano 6/2; outros 1/0
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 393/89; fiscalizacao_sancoes 369/69; onibus 210/35; onibus_regular 149/24; reequilibrio_contratual 127/25; regulacao_normativa 121/28; leilao_otimizacao 111/39; participacao_social 104/26; judicializacao 88/15; ferrovias 85/17; institucional 72/22; pedagio_freeflow 52/6; onibus_fretamento 49/10; cargas 37/9; sandbox_inovacao 31/11; sustentabilidade 22/5; tarifa_modicidade 15/0; onibus_semiurbano 8/2; outros 1/0
 **Argumentos recorrentes nas justificativas registradas:** transparência (2)
 
 ## Evidências (reunião · item · voto · justificativa)
 
+- **RD 950 (2023-02-16)**, item 2.2.6 — Segunda revisão ordinária, segunda revisão extraordinária e reajuste da tarifa básica de pedágio (edital 1/2019; BR-364/365, GO/MG) · voto: *acompanha o relator; destaca diretriz de cumprir revisões anuais nas datas de aniversário dos contratos* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=2080s) · resultado: aprovado por unanimidade
 - **RD 998 (2024-12-19)**, item 1.2.2 — 16ª revisão extraordinária, 16ª revisão ordinária, 17ª revisão extraordinária e reajuste da tarifa básica de pedágio (TBP); termo aditivo co · voto: *de acordo com o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=3KyK_89ogrM&t=1555s) · resultado: aprovado por unanimidade
 - **RD 1025 (2026-01-29)**, item 1.2.2 — Homologação da tabela tarifária de referência da TLSA (primeiro reajuste/tabela nos termos do contrato de 2014, sem operação até agora) para · voto: *acompanha; proclama unanimidade* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=d2BF6usx0p8&t=6863s) · resultado: aprovado por unanimidade
 - **RD 1026 (2026-02-12)**, item extra-pauta-RIDE-DF — Reajuste do coeficiente tarifário das autorizações especiais semiurbanas da RIDE/DF (ciclo 2026) · voto: *acompanha; agradece a inclusão extrapauta* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=5dRdxywub1g&t=7521s) · resultado: aprovado por unanimidade

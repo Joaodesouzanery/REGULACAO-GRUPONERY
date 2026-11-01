@@ -1,15 +1,18 @@
 # Perfil analítico — Luciano Lourenço · tema: sustentabilidade
 
-**Amostra:** presente em 31 das 35 reuniões analisadas em que há registro de presença/ausência; 10 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 59 das 64 reuniões analisadas em que há registro de presença/ausência; 12 votos neste tema; 3 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 8 (100% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
-**Como relator:** 2/2 relatorias aprovadas por unanimidade.
+**Votos:** acompanha o relator 9 (100% dos votos em que não era relator) · relator 3 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Como relator:** 3/3 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 162/49; fiscalizacao_sancoes 157/48; onibus 52/17; onibus_regular 49/15; regulacao_normativa 40/11; reequilibrio_contratual 40/14; participacao_social 39/10; leilao_otimizacao 29/2; ferrovias 26/4; judicializacao 22/4; institucional 12/1; sustentabilidade 10/2; cargas 9/2; pedagio_freeflow 8/5; sandbox_inovacao 6/2; onibus_fretamento 3/2; tarifa_modicidade 2/2
+**Temas (nº de itens em que votou / relatorias):** fiscalizacao_sancoes 302/83; concessoes_rodoviarias 260/74; onibus 148/42; onibus_regular 107/27; regulacao_normativa 81/25; reequilibrio_contratual 79/28; participacao_social 66/16; leilao_otimizacao 49/4; ferrovias 49/16; judicializacao 46/13; institucional 45/4; onibus_fretamento 40/15; pedagio_freeflow 20/13; cargas 20/3; sustentabilidade 12/3; sandbox_inovacao 12/7; tarifa_modicidade 3/2; onibus_semiurbano 2/0
 **Argumentos recorrentes nas justificativas registradas:** sustentabilidade (3); segurança viária (2); usuário (1); concorrência (1)
+**Tom (inferência da leitura, não métrica):** entusiasmado
 
 ## Evidências (reunião · item · voto · justificativa)
 
+- **RD 953 (2023-03-30)**, item 2.2.1 — Instrução normativa sobre a inspeção de projetos, orçamentos e obras de engenharia por Organismos de Inspeção Acreditados (OIAs, Inmetro) no · voto: *relator, aprova a instrução normativa* (relator, conf. alta) · «padronização, redução do fardo regulatório, racionalização da fiscalização» · [vídeo](https://www.youtube.com/watch?v=HNl8PagFcCc&t=960s) · resultado: aprovado por unanimidade
+- **RD 971 (2023-12-07)**, item 1.2.5 — 2º termo aditivo ao contrato (edital 1/2019) para regulamentar obrigações e efeitos da autorização para elaboração de estudos ambientais com · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=GE0Xxv-shHs&t=3013s) · resultado: aprovado por unanimidade
 - **RD 983 (2024-05-29)**, item 1.2.1 — Aprovação do relatório de AIR e abertura de participação e controle social (audiência pública) sobre a minuta de resolução do Plano de Suste · voto: *acompanha integralmente; parabeniza Felipe Queiroz como condutor da agenda ESG na ANTT* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=eeRiLhCPx2Q&t=1320s) · resultado: aprovado por unanimidade
 - **RD 985 (2024-06-27)**, item 1.3.1 — Definição dos temas prioritários para destinação dos recursos de desenvolvimento tecnológico (RDT) e para preservação da memória ferroviária · voto: *acompanha o voto revisor* (revisor_acompanha, conf. media) · «segurança viária e inovação tecnológica nas ferrovias; elogia os dois diretores e a SUFER» · [vídeo](https://www.youtube.com/watch?v=CEQTjLWoMYk&t=2038s) · resultado: aprovado por unanimidade
 - **RD 83 (extraordinária) (2024-07-22)**, item 1.1.2 — Aprovação do edital de concessão da BR-262/MG (Rota do Zebu, 438 km, Betim a Uberaba) e sobrestamento da publicação do projeto Rota Sertanej · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=gcVJwfeNn2M&t=1192s) · resultado: aprovado por unanimidade
