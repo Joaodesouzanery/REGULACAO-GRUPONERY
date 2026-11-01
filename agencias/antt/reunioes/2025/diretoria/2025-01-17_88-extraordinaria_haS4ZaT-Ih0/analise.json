@@ -1,0 +1,163 @@
+{
+ "meta": {
+  "video_id": "haS4ZaT-Ih0",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:35); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "88 (extraordinária)",
+  "data": "2025-01-17",
+  "formato": "presencial/transmitida pelo YouTube",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Guilherme Sampaio",
+   "Felipe Queiroz",
+   "Lucas Asfor"
+  ],
+  "ausentes": [
+   "Luciano Lourenço (férias)"
+  ],
+  "observacoes": [
+   "Reunião extraordinária curta (encerrada às 10h50), com 3 itens, todos aprovados por unanimidade.",
+   "Houve falha técnica momentânea de imagem do relator Guilherme Sampaio durante o voto do item 1.1.1; ele recapitulou.",
+   "Item 1.2.1 (edital BR-040/495 MG/RJ) tinha prazo judicial: sentença em ação civil pública do MPF exigia a publicação do edital com a obrigação da nova subida da Serra de Petrópolis até 20/01/2025."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1.1",
+   "ts": "0:01:05",
+   "processo": "50500.048416/2024",
+   "interessado": "Concessionária de Rodovia Nova 381 S.A. (SPE do 41 Fundo de Investimento em Participações em Infraestrutura)",
+   "assunto": "Emissão do ato de outorga em favor da concessionária vencedora do leilão da concessão do sistema rodoviário da BR-381/MG (Edital 1/2024), para posterior assinatura do contrato",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Leilão de 29/08/2024 teve duas propostas; o 41 FIP venceu com o maior desconto na tarifa básica; resultado homologado em 03/10/2024; prazo para condições prévias estendido pela comissão de outorga; documentos protocolados em 03/01/2025 e verificados em 14/01/2025 pela comissão de outorga com apoio da SUCON e da SUINF. Vota por emitir o ato de outorga e autorizar a assinatura do contrato, prevista para a semana seguinte, com assunção da rodovia na primeira semana de fevereiro.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aprova a emissão do ato de outorga",
+     "ts": "0:01:10",
+     "justificativa": "cumprimento da subcláusula 16.3 do edital e das verificações da comissão de outorga; transparência do leilão na B3; agradece às equipes e destaca melhorias de segurança viária e previsibilidade aos usuários em Minas Gerais",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:08:10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:08:14",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:08:17",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1.2.1",
+   "ts": "0:08:25",
+   "processo": "50500.031981/2023-46",
+   "interessado": "Superintendência de Concessões (SUCON)",
+   "assunto": "Aprovação do edital de concessão do sistema rodoviário BR-040/495 (Minas Gerais e Rio de Janeiro, Juiz de Fora ao Trevo das Missões, ramal da BR-495 até Itaipava; ≈ 218,9 km), incluindo a nova subida da Serra de Petrópolis",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização",
+    "judicializacao"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Projeto qualificado no PPI (2017) e incluído no PND (2019); EVTEA e audiência pública 7/2021; plano de outorgas aprovado pelo MT (Portaria 531/2024); aprovação do TCU em 27/11/2024 conforme IN 81/2018; PGE/Procuradoria opinou em urgência pela aprovação das minutas. Leilão na B3, critério menor tarifa básica de pedágio, com aporte obrigatório em conta vinculada proporcional ao deságio acima de 18%. Prazo de 30 anos; VDMA ≈ 58,5 mil veículos-eixo equivalentes; CAPEX ≈ R$ 5 bilhões concentrado nos seis primeiros anos; OPEX ≈ R$ 3,82 bilhões; receita esperada ≈ R$ 20,1 bilhões; TIR 11,17%; tarifa de pista dupla projetada ≈ R$ 3,5 por 100 km (leitura incerta). Vota por aprovar edital, contrato, PER e EVTEA, e a portaria da comissão de outorga.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, aprova",
+     "ts": "0:08:51",
+     "justificativa": "cumprir prazo da tutela judicial (20/01/2025) e entregar a nova subida da Serra de Petrópolis; segurança viária e integração Brasília–Rio",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:21:45",
+     "justificativa": "elogia a condução do processo, a construção conjunta com o Ministério dos Transportes, a Infra S.A., a SUCON e a Procuradoria",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:22:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:22:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.1",
+   "ts": "0:23:02",
+   "processo": "50500.158472/2024-73",
+   "interessado": "Consórcio Rota Verde Goiás (Superintendência de Concessões)",
+   "assunto": "Homologação do resultado do leilão da concessão do sistema rodoviário das rodovias BR-060 e BR-452/GO (Lote CN1, «Rota Verde», Edital 4/2024)",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Leilão em 12/12/2024 na B3 com quatro propostas; três classificadas para viva-voz; vencedor Consórcio Rota Verde Goiás com desconto de 18,07% (BTG Pactual Infraestrutura 3: 17,97%; Consórcio Rota Cerrado: 10,88%), com aporte de cerca de R$ 423 milhões (valor parcial na legenda). Comissão de outorga seguiu o edital e atestou os requisitos de qualificação.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, aprova a homologação",
+     "ts": "0:23:10",
+     "justificativa": "regularidade e transparência do procedimento e atendimento aos requisitos editalícios",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:27:36",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:27:40",
+     "justificativa": "destaca que, com a reunião ordinária anterior e esta extraordinária, a ANTT começa o ano com projetos em marcha",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:28:45",
+     "justificativa": "ANTT não parou e acelera entregas em infraestrutura",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: número do processo do item 1.1.1 truncado; falantes inferidos.",
+  "Presidência: a legenda cita “diretor geral Rafael Vitá/Vitali”; identificado como Rafael Vitale; confirmar.",
+  "Valores do item 1.2.1 (tarifa por 100 km, CAPEX) e aporte do item 1.3.1 vêm da legenda e podem estar imprecisos.",
+  "ts dos votos de seguidores aproximados."
+ ]
+}

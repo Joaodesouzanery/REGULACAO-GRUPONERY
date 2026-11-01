@@ -1,0 +1,64 @@
+# Itens do tema «cargas» (todos os diretores)
+
+- **RD 973 (2024-01-18)**, 1.1.1 · relator **Guilherme Sampaio** · Relatório final da Audiência Pública 11/2023 e alteração da Resolução 5867/2020 (regras gerais, metodologia e coeficientes dos pisos mínimos de frete  → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=LNSg-EtO5zg&t=121s)
+- **RD 975 (2024-02-08)**, 1.1.1 · relator **Guilherme Sampaio** · Relatório final da Audiência Pública 7/2023 e aprovação da revisão da regulamentação do transporte rodoviário internacional de cargas (TRIC), substitu → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=6ckhaVSoiUY&t=1066s)
+- **RD 977 (2024-03-07)**, 1.3.1 · relator **Lucas Asfor** · Abertura de audiência pública sobre a proposta de regulamento dos Pontos de Parada e Descanso (PPD) sob competência da ANTT → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=yO-d-f09vik&t=1270s)
+- **RD 983 (2024-05-29)**, 1.2.2 · relator **Felipe Queiroz** · Aprovação de AIR e abertura de audiência pública sobre aperfeiçoamento do regulamento de transporte rodoviário de produtos perigosos (alteração da Res → aprovado por unanimidade
+  - votos: Felipe: relator; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=eeRiLhCPx2Q&t=1544s)
+- **RD 985 (2024-06-27)**, 1.1.1 · relator **Guilherme Sampaio** · Alteração do prazo do art. 29 da Resolução 6.024/2023 (Vale-Pedágio obrigatório): regra de transição para as empresas fornecedoras habilitadas adequar → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=CEQTjLWoMYk&t=286s)
+- **RD 986 (2024-07-11)**, extra-2 · relator **Guilherme Sampaio** · Atualização pelo IPCA e pelo preço do diesel (ANP) dos coeficientes do piso mínimo de frete do Anexo 2 da Res. 5.867/2020 (art. 5º, §2º da Lei 13.703/ → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=bjTH-DbZqCk&t=2288s)
+- **RD 992 (2024-10-03)**, 1.3.3 · relator **Luciano Lourenço** · Descredenciamento da entidade aplicadora da prova eletrônica de conhecimentos do transportador autônomo de cargas (TAC), por indícios de fraude → aprovado por unanimidade — descredenciamento
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=DgSc5QHQ8V8&t=1588s)
+- **RD 993 (2024-10-17)**, 1.3.1 · relator **Felipe Queiroz** · Abertura de audiência pública sobre a revisão da Resolução 5.867/2020 (pisos mínimos do frete rodoviário, PNPM-TRC), com aprovação do relatório de AIR → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=WVL5yNdky0U&t=2715s)
+- **RD 994 (2024-10-31)**, 1.4.2 · relator **Lucas Asfor** · Relatório final da Audiência Pública 2/2024 e resolução do regulamento de implantação dos Pontos de Parada e Descanso (PPD) nas rodovias sob competênc → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=VnHLaZxsXeY&t=4027s)
+- **RD 996 (2024-11-28)**, 1.1.10 · relator **Guilherme Sampaio** · Relatório final da audiência pública 5/2024 e alteração da Resolução 5.998/2022 (regulamento do transporte rodoviário de produtos perigosos) → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=kTU_h6AhIS8&t=3218s)
+- **RD 87 (extraordinária) (2024-12-27)**, 1.1.1 · relator **Luciano Lourenço** · Revisão da Resolução 5.867/2020 (regras gerais, metodologia e coeficientes dos pisos mínimos de frete por quilômetro rodado por eixo carregado, PNPM)  → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=yC3psirpX8U&t=2515s)
+- **RD 1010 (2025-06-18)**, 1.1.2 · relator **Felipe Queiroz** · Alteração da Resolução 5.982/2022 (RNTRC) para incorporar os seguros obrigatórios do transporte rodoviário de cargas incluídos na Lei 11.442/2007 pela → pedido de vista de Lucas Asfor (sem deliberação)
+  - votos: Felipe: relator; Lucas: vista · [vídeo](https://www.youtube.com/watch?v=-ERkhRGYBT0&t=406s)
+- **RD 1012 (2025-07-17)**, 1.2.1 · relator **Felipe Queiroz** · Relatório de AIR versão 2.0 do projeto ESG Cargas (ambiental, social e governança no transporte rodoviário de cargas) e abertura de audiência pública  → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=n7-Sjejnzz0&t=887s)
+- **RD 1012 (2025-07-17)**, 1.3.3 · relator **Lucas Asfor** · Reajuste dos coeficientes do piso mínimo de frete (Anexo 2 da Resolução 5.867/2020) pelo IPCA e pelo preço do diesel S10 (ANP) → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=n7-Sjejnzz0&t=3384s)
+- **RD 1012 (2025-07-17)**, 1.3.5 · relator **Felipe Queiroz** · Alteração da Resolução 5.982/2022 (RNTRC) para incorporar os seguros obrigatórios do transporte rodoviário de cargas (Lei 11.442/2007, alterada pela L → aprovado por unanimidade — voto do relator com incorporação da divergência parcial do voto
+  - votos: Lucas: revisor_acompanha; Felipe: revisor_acompanha; Guilherme: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=n7-Sjejnzz0&t=3833s)
+- **RD 1019 (2025-10-23)**, 1.2.1 · relator **Felipe Queiroz** · Recurso contra a Resolução 6.068/2025 (17/07/2025) e a Deliberação 236/2025, que exigem dos TACs os seguros RCTRC, RCDC e RCV para inscrição e manuten → aprovado por unanimidade — recurso conhecido e improvido
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Amaral: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=CezCZuXfe5A&t=2239s)
+- **RD 1020 (2025-11-05)**, 1.3.4 · relator **Lucas Asfor** · Abertura de audiência pública híbrida para revisão ordinária dos coeficientes dos pisos mínimos de frete (Res. 5.867/2020, Lei 13.703/2018), com dispe → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: outro; Alex: acompanha; Amaral: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=KsteuYm_RoM&t=6068s)
+- **RD 1021 (2025-11-19)**, 1.2.1 · relator **Alex Azevedo** · Revogação da habilitação como instituição de pagamento eletrônico de frete (IPEF) → aprovado por unanimidade — habilitação revogada, mantidas obrigações residuais
+  - votos: Alex: relator; Felipe: acompanha; Lucas: acompanha; Amaral: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=EWukUD72NFw&t=5361s)
+- **RD 1021 (2025-11-19)**, 1.3.3 · relator **Amaral Filho** · Recurso contra a Deliberação 272/2025 (15/8/2025), que reabriu por 15 dias a Audiência Pública 10/2024 sobre a minuta de resolução do sistema de livre → aprovado por unanimidade — recurso conhecido e desprovido
+  - votos: Amaral: relator; Felipe: acompanha; Alex: acompanha; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=EWukUD72NFw&t=9353s)
+- **RD 1022 (2025-12-04)**, 1.3.4 · relator **Lucas Asfor** · Recurso contra a Deliberação 320/2025, que autorizou a publicação do edital do processo competitivo 4/2025 (alienação de 100% das ações da Autopista F → aprovado por unanimidade — recurso conhecido e desprovido
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Severino: outro; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=RtFPynve2ew&t=5380s)
+- **RD 1024 (2026-01-19)**, 1.2.1 · relator **Lucas Asfor** · Relatório final da AP 8/2025 e revisão ordinária (8º ciclo) da Res. 5867/2020: pisos mínimos de frete (PNPM-TRC) com data-base dezembro/2025 → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Severino: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=YRL6gBTlIMU&t=2030s)
+- **RD 1030 (2026-04-09)**, 1.1.1 · relator **Guilherme Sampaio** · Referendo de resoluções (6077 e 6078) e deliberações (86 e 87) de 24/03/2026, editadas ad referendum para regulamentar a MP 1.343/2026 («MP do frete», → aprovado por unanimidade — referendadas as decisões ad referendum
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alessandro: acompanha · [vídeo](https://www.youtube.com/watch?v=XoDEGEGQjAc&t=2588s)
+- **RD 1031 (2026-04-23)**, 1.1.1 · relator **Felipe Queiroz** · Reabertura da Audiência Pública 5/2025 (minuta de resolução do Selo ASG Cargas — ambiental, social e governança no transporte rodoviário de cargas), a → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Alessandro: acompanha · [vídeo](https://www.youtube.com/watch?v=Zyxhofbj7g0&t=1716s)
+- **RD 1031 (2026-04-23)**, 1.2.2 · relator **Alex Azevedo** · Segundo termo aditivo ao ACT 2/2022: prorrogação por 24 meses (desde 25/04/2026) da cooperação para inscrição e manutenção de transportadores autônomo → aprovado por unanimidade (voto-vista de Lucas Asfor convergente)
+  - votos: Alex: relator; Lucas: revisor_acompanha; Felipe: acompanha; Alessandro: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=Zyxhofbj7g0&t=2728s)
+- **RD 1032 (2026-05-07)**, 1.2.2 · relator **Alex Azevedo** · Audiência pública para atualizar a Res. 5998/2022 (transporte rodoviário de produtos perigosos) à 23ª edição do Orange Book da ONU → aprovado por unanimidade
+  - votos: Alex: relator; Lucas: acompanha; Alessandro: acompanha; Felipe: acompanha · [vídeo](https://www.youtube.com/watch?v=-dXOY2M37G4&t=4508s)
+- **RD 1033 (2026-05-21)**, 1.5.1 · relator **Alessandro Baumgarten** · Pedido de reconsideração da medida cautelar da Decisão SUROC 84/2026 que suspendeu a habilitação da Sem Parar para emitir CIOT por falta de adesão ao  → vista concedida a Alex Azevedo (sem decisão)
+  - votos: Alessandro: relator; Alex: vista; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=R_zbvJ8TXjs&t=7983s)
+- **RD 1035 (2026-06-18)**, 1.2.2 · relator **Alessandro Baumgarten** · Pedido de reconsideração contra a Decisão SUROC 84/2026 (cautelar que suspendeu a habilitação para emitir o CIOT, por não comprovar PIX junto ao Banco → aprovado por unanimidade — não conhecido por intempestividade; efeitos da decisão SUROC ma
+  - votos: Alex: revisor_acompanha; Alessandro: revisor_acompanha; Felipe: acompanha · [vídeo](https://www.youtube.com/watch?v=8J6vHk_yKSg&t=4802s)
+- **RD 1037 (2026-07-16)**, 1.3.1 · relator **Alex Azevedo** · Reajuste anual ordinário dos coeficientes dos pisos mínimos de frete (Res. 5867/2020; Lei 13.703/2018): IPCA de 3,54% (dez/2025–mai/2026) e diesel S10 → aprovado por unanimidade
+  - votos: Alex: relator; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=ixMkeB6vSIM&t=4879s)
+- **RD 1039 (2026-08-14)**, 1.2.1 · relator **Felipe Queiroz** · Relatório final da AP 5/2025 (24/07–06/09/2025; reaberta de 04–18/05/2026) e resolução que institui o Selo ESG Cargas para o transporte rodoviário rem → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=u4SXNQPR-XQ&t=1951s)
+- **RD 1043 (2026-10-08)**, 1.2.4 · relator **Lucas Asfor** · Acordo de cooperação para intercâmbio eletrônico de dados de seguros obrigatórios dos transportadores inscritos no RNTRC (Portaria SUROC 27/2025) → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=aVdLLQI1K-I&t=2078s)
+- **RD 1044 (2026-10-22)**, 1.3.1 · relator **Alex Azevedo** · Acordo de cooperação técnica ANTT–Infra para o programa Melhor Ar (Portaria MT 192/2025): compartilhar dados do RNTRC, integrar ao ONTL e produzir ind → aprovado por unanimidade
+  - votos: Alex: relator; Felipe: acompanha; Lucas: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=7902s)

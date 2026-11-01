@@ -1,0 +1,143 @@
+{
+  "meta": {"video_id": "m6tfBRRgsEI", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "990", "data": "2024-09-05", "formato": "videoconferência",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Luciano Lourenço", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": ["Guilherme Sampaio (motivos particulares)"],
+    "observacoes": ["Encerrada às 13h52 de 05/09/2024.", "Retirados de pauta: 1.3.7 (Lucas Asfor) e 1.2.5 (Felipe Queiroz; interessados Gontijo e JJ Turismo).", "Houve inversão de pauta (relatorias de Felipe Queiroz antes das de Luciano Lourenço), com concordância expressa dos diretores, porque a nova resolução do WACC regulatório já produziria efeito nos editais dos lotes paranaenses.", "Todos os itens deliberados foram aprovados por unanimidade dos quatro diretores presentes.", "Rafael Vitale celebra o fechamento dos blocos de leilões de 2024 e o ganho de qualidade e competição nos projetos."]
+  },
+  "itens": [
+    {
+      "id": "1.2.1", "ts": "0:05:47",
+      "processo": "50500.050988/2024-71", "interessado": "SUCOM (Superintendência de Concessão da Infraestrutura)",
+      "assunto": "Relatório final da Audiência Pública 3/2024 (24/05 a 24/06) e revisão das Resoluções 6.002/2022 e 6.003/2022 sobre o custo médio ponderado de capital regulatório (WACC) das rodovias federais concedidas",
+      "tema": ["concessões rodoviárias", "WACC / taxa de desconto regulatória", "regulação normativa", "participação social"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Audiência regular (sessão pública em 06/06; 41 contribuições respondidas, das quais 19 acolhidas: 4 totalmente, 4 parcialmente... conforme relato, 14 não acolhidas e 4 pedidos de esclarecimento). Mudanças de classificação de risco, com eficácia imediata: reformulação de atributos, exclusão de critérios sobre qualidade dos estudos, calibração das faixas, novo critério de risco por porte do capex, revisão dos efeitos do compartilhamento de risco em 3 de 8 atributos e nova distribuição das faixas de risco (de 45/10/45 para 40/20/40), com base em simulação de 16 projetos; mantém-se e aprimora-se a remuneração de obras por fluxo de caixa marginal (a minuta de AP previa exclusão), com data-base no início da cobrança do pedágio, por pedido da SUROD. Mudanças no cálculo do spread, com eficácia a partir do próximo triênio (previsto para janeiro de 2026): WACC passa a usar média trimestral da TLP com vigência semestral, custo de capital de terceiros pela série do Banco Central e nova distribuição de percentis. Resposta a pleito do setor e do Ministério de que os spreads não remuneravam bem os riscos, o que reduzia a atratividade internacional.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova o relatório final e a revisão das resoluções", "ts": "0:06:10", "justificativa": "aprimorar a atratividade dos projetos sem romper a estabilidade regulatória trienal; celeridade da SUCOM", "tom": "técnico e detalhado", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator; parabeniza Felipe e a SUCOM, que torna os projetos mais aderentes à realidade do mercado", "ts": "0:21:30", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:21:50", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator; parabeniza a liderança de Felipe na atualização do WACC, instrumento potente de viabilidade das novas concessões", "ts": "0:21:58", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.2 e 1.2.3 (bloco)", "ts": "0:22:18",
+      "processo": "50500.073937/2024-17 (1.2.2); 50500.07394x/2024-xx (1.2.3) (números parciais na legenda)", "interessado": "Concessionária Autopista Litoral Sul (1.2.2, Edital 3/2007) e Autopista Planalto Sul (1.2.3, Edital 6/2007)",
+      "assunto": "7º termo aditivo (Litoral Sul) e 3º termo aditivo (Planalto Sul): excluir a verba de aparelhamento da Polícia Rodoviária Federal e incluir obrigação de dispêndio com educação e segurança no trânsito",
+      "tema": ["concessões rodoviárias", "segurança viária", "termo aditivo"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Contratos da 2ª etapa do PROCROFE previam verba anual para aparelhar a PRF; a SUROD informou em ofício circular que a destinação não é mais possível, e a verba de educação e segurança no trânsito já consta do RC3 (Res. 6.032). Concessionárias concordaram com as minutas e a Procuradoria opinou favoravelmente. Aprova os aditivos, alinhados à segurança viária como prioridade (art. 74 do CTB; programa Inovar BR).",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova os termos aditivos", "ts": "0:23:30", "justificativa": "segurança viária como prioridade estratégica; parecer jurídico favorável", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:28:20", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:28:22", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:28:25", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.4", "ts": "0:28:40",
+      "processo": "50515.101579/2021-38", "interessado": "Transbrasiliana Concessionária de Rodovia S.A.",
+      "assunto": "Recurso à Diretoria contra multa de 371,3 URT por descumprimento contratual (auto de infração 610/2021; art. 8º, VII da Res. ANTT 4.071/2013)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — recurso desprovido",
+      "resumo_voto": "Defesa, recurso e embargos já afastados pela SUROD; sem fato novo. Mantida a multa de 371,3 URT.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, conhece e nega provimento", "ts": "0:29:20", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:31:40", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:31:42", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:31:45", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.6", "ts": "0:31:55",
+      "processo": "50500.364991/2023-98", "interessado": "Irmãos Nascimento Turismo Ltda.",
+      "assunto": "Encerramento da comissão processante: não envio de dados do Monitriip de jan. a jul. de 2023 (Res. 4.499/2014, 4.770/2015, 6.033/2023); cassação da linha Guajeru (BA)–São Caetano do Sul (SP)",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções", "Monitriip"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — cassação",
+      "resumo_voto": "Obrigação existe há quase dez anos e sua inobservância prejudica a boa prestação do serviço; cassação da outorga da linha e respectivos mercados com base no art. 78-H da Lei 10.233/2001.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aplica cassação", "ts": "0:32:30", "justificativa": "descumprimento reiterado de obrigação regulatória antiga e essencial", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:34:40", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:34:42", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:34:45", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.7 a 1.2.10 (bloco)", "ts": "0:34:58",
+      "processo": "50500.12550/2013-1x; 50500.187573/2013-07; 50500.055833/2014-59; 50505.101077/2020-10 (números parciais na legenda)", "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (Concer)",
+      "assunto": "Quatro recursos voluntários contra multas da SUROD no contrato PG-138/95: inexecução de rodovia inteligente (2013), obras do acesso a Seasa/Salvaterra (2013), alargamento de ponte sobre o Rio Santo Antônio (km 10,55; 2014) e não intervenção por mais de 1 ano e 5 meses em taludes de nível 3 (2019/2020)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — 3 recursos desprovidos e 1 provido parcialmente (proc. 50500.055833/2014-59)",
+      "resumo_voto": "No processo do alargamento da ponte aplica-se atenuante do art. 94 §1º, IV da Res. 442/2004 (inexistência de infração similar nos últimos 3 anos), com provimento parcial e multa reduzida para cerca de 327,5 URT (valor exato incerto na legenda). Nos demais, sem fato novo, mantêm-se as multas (por exemplo 612 e 610,2 URT, valores aproximados).",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, nega provimento a três e dá provimento parcial a um (atenuante)", "ts": "0:36:00", "justificativa": "aderência à decisão técnica da SUROD, com atenuante de ausência de reincidência em 3 anos em um dos casos", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator em todos os processos do bloco", "ts": "0:42:50", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator nos quatro processos", "ts": "0:42:55", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator nos quatro processos", "ts": "0:42:58", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.1.1", "ts": "0:43:16",
+      "processo": "50500.152913/2024-2x (número parcial na legenda)", "interessado": "AMBS Ltda. (contratada de apoio administrativo em MG e BA)",
+      "assunto": "Recurso contra a extinção unilateral do contrato administrativo 7/2024 (serviços contínuos de suporte e apoio administrativo em Minas Gerais e Bahia) por descumprimentos reiterados",
+      "tema": ["institucional", "contratos administrativos"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — recurso desprovido, com data de extinção fixada em 9/9/2024",
+      "resumo_voto": "A empresa concordou com a rescisão, mas pediu efeitos só em 15/09/2024. O recurso foi recebido com efeito suspensivo (art. 168 da Lei 14.133/2021), dando-lhe mais tempo; motoristas sem receber diárias e salários atrasados prejudicavam a fiscalização. Nega provimento por razoabilidade e interesse público; como o caso não pôde ser apreciado antes de 31/08, fixa 9 de setembro de 2024 como data da rescisão unilateral, dando tempo de comunicação.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, nega provimento e fixa 9/9/2024 como data da rescisão", "ts": "0:44:20", "justificativa": "interesse público; prejuízo às atividades de fiscalização; efeito suspensivo já deu prazo à empresa", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "0:46:30", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator (após esclarecer a data de efeitos)", "ts": "0:46:45", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:46:58", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.1.2", "ts": "0:47:07",
+      "processo": "não identificado com segurança na legenda", "interessado": "SUCOM",
+      "assunto": "Aprovação do edital de concessão dos lotes 3 (BR-369, 373, 376; PR-090, 170, 323, 445) e 6 (BR-163, 277; PR-158, 180, 182, 280, 483) das Rodovias Integradas do Paraná (PR Vias)",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "pedágio free flow", "participação social"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Minutas de edital, contrato, PER e EVTEA passaram por ampla participação social (AP 1/2021, relatório final pela Deliberação 353/2021; mais de 4,3 mil contribuições em todos os lotes), controle prévio do TCU (Acórdão 152/2022 Plenário) e parecer favorável da Procuradoria (Parecer 155/2024, Despacho 167/2024). Lote 3: cerca de 570 km, 7 praças (2 a implantar), 30 anos, 132 km de duplicação, tarifa de 0,146 R$/km (pista simples) e 0,243 (dupla), TIR de 10,74% (data-base abril/2023). Lote 6: pouco mais de 660 km, 9 praças (6 existentes), 30 anos, mais de 460 km de duplicação, CAPEX de 12,67 bi, OPEX de 7,43 bi, TIR de 10,64%, tarifa de 0,17 e 0,246 R$/km (data-base abril/2021). Alterações: parâmetros de desempenho para autorizar o início da cobrança em praças existentes; migração opcional para free flow; conectividade em 100% dos trechos. Leilões marcados para 12/12/2024 (lote 3, 14h, B3) e 19/12/2024 (lote 6, 10h).",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aprova o edital dos lotes 3 e 6", "ts": "0:47:20", "justificativa": "melhoria do nível de serviço, segurança e redução do custo logístico; esforço conjunto de governo federal, estadual e sociedade; manifestações técnicas e jurídicas favoráveis", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator; destaca a condução e a coordenação multiator de Luciano nas concessões paranaenses", "ts": "0:57:20", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator e ratifica os elogios à coordenação de Luciano", "ts": "0:58:30", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator; destaca que os blocos de leilões de 2024 aceleraram processos com qualidade, trazendo competição e novos players", "ts": "0:59:20", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.3", "ts": "1:01:29",
+      "processo": "50500.006702/2023-94 (parcial na legenda)", "interessado": "K Infra Rodovia do Aço (concessionária)",
+      "assunto": "14ª revisão ordinária, 15ª e 16ª revisões extraordinárias e reajuste da tarifa básica de pedágio (TBP) do contrato do Edital 7/2007; termo aditivo com novos investimentos do PER (controle de velocidade)",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "pedágio / tarifa"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "14ª revisão ordinária reduz a TBP em 0,44%; a 15ª extraordinária (decisões judiciais sobre isenção a moradores de Paraíba do Sul, compensação do TAC de multas de 2014, correção de erro material e cronograma do PER) reduz mais 4,68%; a 16ª extraordinária aplica desconto de reequilíbrio concentrado por 1 ano (fator D) em cumprimento ao Acórdão TCU 1.447/2018 (cerca de 36,13% no fluxo de caixa original e percentuais maiores nos marginais; valores da legenda incertos), com reajuste IPCA de 5,6%. Efeito líquido: queda de cerca de 44,6% na tarifa vigente (de ~R$ 6,50 para ~R$ 3,60, arredondados). Relator recorda a proposta de caducidade do contrato (voto do então diretor Davi Barreto e voto próprio) em análise no Ministério dos Transportes e alerta a SUROD para fiscalização reforçada do ativo. Pedidos não contemplados ficam prejudicados ou indeferidos.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aprova as revisões, o reajuste e o termo aditivo", "ts": "1:02:00", "justificativa": "interesse público; aplicação imediata do desconto de reequilíbrio concentrado (Acórdão TCU 1.447/2018); preocupação com caducidade em curso e preservação do ativo", "tom": "cauteloso", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "1:10:05", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:10:08", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "1:10:12", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.3.1 a 1.3.6 (bloco)", "ts": "1:10:28",
+      "processo": "50505.028038/2018-71; 50505.012293/2020-17; 50500.055838/2014-81; 50505.037325/2021-78; 50505.014134/2017-71; 50500.365597/2019-91", "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (Concer)",
+      "assunto": "Seis recursos voluntários contra multas da SUROD: parâmetros funcionais do pavimento, buracos e deformações, inexecução da passarela Carreteiro (2013), não intervenção em nove obras de arte especiais (2020), vegetação na faixa de domínio e atraso em cronogramas do PER",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — recursos desprovidos",
+      "resumo_voto": "Ausência de novos fatos e argumentos aptos a reformar as decisões: conhece e nega provimento a todos.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, conhece e nega provimento nos seis", "ts": "1:12:00", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator em todos os votos do bloco", "ts": "1:16:05", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator em todos os votos do bloco", "ts": "1:16:08", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator nos seis", "ts": "1:16:12", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"item": "1.3.7 — recurso de concessionária (proc. 50505.307778/...)", "relator": "Lucas Asfor", "motivo": "retirado de pauta pelo relator", "ts": "0:04:30"},
+    {"item": "1.2.5 — proc. 50500.191460/2022-43; interessados Gontijo e JJ Turismo", "relator": "Felipe Queiroz", "motivo": "retirado de pauta pelo relator", "ts": "0:05:00"}
+  ],
+  "limites_da_analise": ["Legenda automática: números de processo parciais ou distorcidos, nomes de empresas e valores (URT, tarifas, percentuais) podem estar errados; só foram citados valores razoavelmente claros.", "Ts dos votos dos seguidores e dos votos dentro do relato são aproximados; o ts de início de alguns itens (1.2.4, 1.1.1) é estimado.", "Nos itens 1.2.1 e 1.1.3 a contagem de contribuições e os percentuais da 16ª revisão extraordinária foram transcritos de forma imprecisa pela legenda.", "O processo do item 1.1.2 (edital dos lotes 3 e 6) não teve o número identificado na legenda."]
+}

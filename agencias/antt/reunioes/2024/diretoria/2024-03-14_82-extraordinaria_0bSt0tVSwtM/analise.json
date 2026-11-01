@@ -1,0 +1,28 @@
+{
+  "meta": {"video_id": "0bSt0tVSwtM", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "82 (extraordinária)", "data": "2024-03-14", "formato": "videoconferência",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Luciano Lourenço", "Lucas Asfor"],
+    "ausentes": ["Felipe Queiroz (ausência justificada: vistoria de trecho rodoviário e problemas de conectividade; quórum mantido com quatro diretores)"],
+    "observacoes": ["Reunião extraordinária de item único, encerrada às 12h36.", "Boas-vindas ao novo secretário-geral Maurício Uzeda; presentes a procuradora-geral substituta Roberta Negrão e o ouvidor Robson Crepalde.", "Marcelo Fonseca aparece nos falantes inferidos, mas é o superintendente de concessões agradecido pelo relator, não um voto."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:03:00",
+      "processo": "50500.048416/2024-2", "interessado": "Superintendência de Concessão da Infraestrutura (SUCOM)",
+      "assunto": "Aprovação dos estudos e documentos jurídicos atualizados da concessão da BR-381/MG (Entroncamento BR-116/451 em Governador Valadares ao entroncamento com a BR-262 em Belo Horizonte, ≈ 303 km), com revisão da metodologia do custo médio ponderado de capital e envio ao TCU",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "reequilíbrio contratual"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Reformulação do projeto após leilão frustrado de novembro de 2023: supressão dos lotes 8A e 8B (obras e desocupações passam ao DNIT), ajustes de engenharia e pavimento, 1% da receita bruta para infraestrutura resiliente, WACC elevado ao nível CR3 (11,97%), desconto de usuário frequente, banda de compartilhamento de risco de tráfego de 5% e fator de 80%, incorporação da variante de Santa Bárbara, prazo de 2 anos para levantamentos geotécnicos. Dispensada nova participação social por serem ajustes. Voto por aprovar a revisão do WACC, a atualização da modelagem e enviar ao TCU (ministro Antônio Anastasia).",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova", "ts": "0:13:27", "justificativa": "projeto prioritário, atualizado após ouvir o mercado, com maior atratividade ao investidor privado e segurança viária", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha integralmente o relator", "ts": "0:14:09", "justificativa": "parabeniza a modernização dos estudos, que tornam a modelagem mais consistente e atrativa para leilão breve", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha na íntegra o voto do relator", "ts": "0:15:30", "justificativa": "destaca a elevação do WACC como fator de atratividade e o trabalho conjunto de órgãos", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:17:46", "justificativa": "projeto cumpre o cronograma, espera sensibilidade do TCU para leilão no segundo semestre e fim da alcunha de rodovia da morte", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática com erros (nomes, números do processo e valores como 5,57 milhões de capex, que provavelmente são bilhões).", "Timestamps dos votos de Lucas Asfor aproximados.", "Número do processo transcrito como 50500 048 416 20242; formato 50500.048416/2024-2x incerto no dígito final."]
+}

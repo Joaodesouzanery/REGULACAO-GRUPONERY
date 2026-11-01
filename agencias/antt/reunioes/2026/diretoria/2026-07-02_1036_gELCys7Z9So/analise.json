@@ -1,0 +1,69 @@
+{
+  "meta": {"video_id": "gELCys7Z9So", "fonte": "legenda automática do YouTube (título em inglês: Board Meeting 1036); falantes inferidos; ts = tempo do vídeo (sessão começa ~0:20). A legenda tem uma lacuna entre ~0:42 e ~0:43: some o final do item extra-pauta do PSI, a votação e a abertura do item 1.3.2.", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1036", "data": "2026-07-02", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Alessandro Baumgarten"],
+    "ausentes": ["Lucas Asfor (férias)", "Alex Azevedo (missão oficial: inauguração de obra da Transnordestina)"],
+    "observacoes": ["Quórum com 3 diretores (incluindo o DG).", "Houve sustentação oral de advogado (Dr. Fernando Lobo) no item 1.3.2.", "Dois itens de ônibus: Buser (1.2.1) e a empresa de transporte interestadual do item 1.3.2; ambos mantiveram medidas cautelares por unanimidade."]
+  },
+  "itens": [
+    {
+      "id": "extra-PSI-nivel1", "ts": "0:20:49",
+      "processo": "50500.018844/2025-19 e 50500.018850/2025-68", "interessado": "SUSP",
+      "assunto": "Resultado preliminar do Nível 1 do PSI (sandbox de sustentabilidade): edital 3/2025 (rodovias) e 4/2025 (ferrovias); incluídos extra-pauta e relatados em bloco",
+      "tema": ["sandbox/inovação", "concessões rodoviárias", "ferrovias"],
+      "relator": "Felipe Queiroz", "resultado": "votação não captada na legenda (lacuna); resultado homologado depois (Deliberações 254/2026 rodovias e 255/2026 ferrovias, citadas na RD 1044)",
+      "resumo_voto": "Os comitês de desenvolvimento (4 membros do poder público e 4 do setor regulado: ABCR, ANTF, CNT, concessionárias) aprovaram o relatório em 10/06/2026. A agência faz verificação documental e de rito; o mérito das evidências é atestado por verificador independente ou organismo de inspeção acreditado. Pela legenda: 10 aptas sem pendências em um modo e 15 aptas + 6 com pendências no outro (os números da RD 1040 indicam 21 rodoviárias e 10 ferroviárias, então a legenda trocou os modais).",
+      "votos": [{"diretor": "Felipe Queiroz", "voto": "relator", "ts": "0:37:20", "confianca": "alta"}]
+    },
+    {
+      "id": "1.1.1", "ts": "0:23:13",
+      "processo": "50500.15779/2022-19 (parcial)", "interessado": "SUSP",
+      "assunto": "Alteração do regimento interno (Res. 5976/2022) para adequar a estrutura ao modelo CCE/FCE do decreto de 16/06/2026 — sem aumento de despesa",
+      "tema": ["institucional/governança"], "relator": "Guilherme Sampaio", "resultado": "apresentado; vista coletiva (art. 106 §1º do RI); deliberado na RD 1037",
+      "votos": [{"diretor": "Guilherme Sampaio", "voto": "relator, apresenta o voto e abre vista coletiva", "ts": "0:23:13", "confianca": "alta"}]
+    },
+    {
+      "id": "1.1.2", "ts": "0:23:13",
+      "processo": "50500.027626/2025-67", "interessado": "Superintendência de Sustentabilidade, Pessoas e Inovação",
+      "assunto": "Política de Inovação da ANTT (resolução de caráter interno; consulta interna 11/2025: 57 contribuições)",
+      "tema": ["institucional/governança", "inovação"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova", "ts": "0:23:13", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "0:28:59", "justificativa": "inovação como dimensão da estratégia; institucionalizar cultura de inovação em instituição pública sujeita a restrições orçamentárias e a grandes investimentos que exigem celeridade", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha (inferido)", "ts": "0:30:41", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:30:51",
+      "processo": "50500.136362/2025 (parcial)", "interessado": "Transportadora Buser Ltda. (plataforma de fretamento/transporte interestadual)",
+      "assunto": "Recurso, com pedido de efeito suspensivo, contra a Decisão SUFIS 3 (27/05/2026), que aplicou medida cautelar de suspensão do termo de autorização DF–SP (Brasília–Guarulhos)",
+      "tema": ["transporte rodoviário de passageiros (ônibus)", "fiscalização e sanções", "medida cautelar", "concorrência"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — recurso conhecido, sem efeito suspensivo, desprovido; suspensão cautelar mantida",
+      "resumo_voto": "Mérito limitado aos pressupostos da cautelar (art. 9º do anexo da Res. 5033/2016): a fiscalização apontou escalas e conexões meramente sistêmicas (virtuais/artificiais) para atender mercados não autorizados; risco à concorrência, ao sistema regulatório e ao usuário (assimetria de informação). Pressupostos de risco iminente de dano de difícil reparação presentes.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, nega provimento", "ts": "0:31:35", "justificativa": "proteção da concorrência, do sistema regulatório e do consumidor; não se julga o mérito, só a cautelar", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha completamente", "ts": "0:36:18", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "0:36:32", "confianca": "alta"}
+      ],
+      "obs": "A legenda atribui a fala do voto a 'Alessandro' em alguns trechos, mas o conteúdo e as saudações indicam Felipe como relator."
+    },
+    {
+      "id": "1.3.2", "ts": "0:43:31",
+      "processo": "não captado (decisão cautelar citada como SUFIS/SUPAS 842, de 27/05/2026)", "interessado": "Empresa de transporte rodoviário interestadual com mais de 80 anos (nome ilegível; legenda: «Guerino/Avelino»), representada pelo advogado Fernando Lobo",
+      "assunto": "Recurso contra medida cautelar de suspensão de termos de autorização, por uso de linhas interestaduais para operação materialmente intermunicipal (seccionamento sem autorização)",
+      "tema": ["transporte rodoviário de passageiros (ônibus)", "fiscalização e sanções", "medida cautelar", "concorrência", "competência União × Estados"],
+      "relator": "Alessandro Baumgarten", "resultado": "aprovado por unanimidade — recurso conhecido, sem efeito suspensivo, desprovido; cautelar mantida até a decisão do processo sancionador (avaliar cassação, arts. 78-A IV e 78-H da Lei 10.233)",
+      "resumo_voto": "Defesa (sustentação oral): decisão do STJ (SLS 3135) e liminares preservam a operação; processos arquivados reabertos por nota técnica; autos de infração equivocados (exemplos: TAR alterado em 2025, seção excluída em 2024); ausência de urgência; 500 e-mails de passageiros e ≈ 9.000 passagens vendidas nas férias de julho; empresa oferece TAC/consenso. Relator: padrão 'reiterado e contumaz' desde 2017 (mais de 50 denúncias; Monitriip identificou ≈ 450 mil bilhetes de seções não autorizadas em 11 meses em 2023; milhares de fiscalizações em 2024), restrição deliberada de venda nas seções autorizadas; pedidos de regularização sempre indeferidos; contraditório diferido garantido; decisões judiciais não reconheceram a regularidade; concorrência desleal, desequilíbrio federativo e risco aos usuários (equipamentos, seguro).",
+      "votos": [
+        {"diretor": "Alessandro Baumgarten", "voto": "relator, nega provimento e mantém a cautelar", "ts": "0:56:51", "justificativa": "desvio de finalidade dos atos de outorga; proporcionalidade; sem alternativa menos gravosa", "tom": "firme, baseado em dados da fiscalização", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "1:03:17", "justificativa": "elogia a sustentação oral e a ampla defesa; o processo segue e haverá nova oportunidade de apreciar os fatos", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente; proclama unanimidade", "ts": "1:04:12", "justificativa": "voto completo; acrescenta que o TRF-1 convalidou a posição da agência; elogia a sustentação do advogado, 'técnico, combativo, mas cordial'", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [{"item": "1.3.1", "assunto": "Recurso da Auto Viação Gadotti contra a Decisão SUPAS 861/2026 (inabilitação e cassação)", "relator": "Alessandro Baumgarten", "motivo": "retirado de pauta (decidido na RD 1039, com anulação da decisão)", "ts": "0:23:02"}],
+  "limites_da_analise": ["Lacuna na legenda: o fim do item extra-pauta do PSI, a votação e a abertura do item 1.3.2 (empresa, processo) não foram captados.", "Nome da empresa do item 1.3.2 e número do processo não confirmados.", "Votos de Alessandro no item 1.1.2 inferidos."]
+}

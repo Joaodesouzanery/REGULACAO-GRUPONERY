@@ -1,0 +1,60 @@
+{
+  "meta": {"video_id": "Lxo2sCqePJk", "fonte": "legenda automática do YouTube (título em inglês: Board Meeting No. 1029, 03/26/2026 = 26 de março; data confirmada no encerramento); falantes inferidos; ts = tempo do vídeo (sessão começa ~1:00); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1029", "data": "2026-03-26", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alex Azevedo", "Alessandro Baumgarten (como diretor; ex-superintendente da SUFER)"],
+    "ausentes": [],
+    "observacoes": ["Encerrada às 16h20 de 26/03/2026.", "Item extrapauta do Diretor-Geral incluído com a concordância dos demais.", "Lucas Asfor retirou de pauta os itens 1.2.1 (EPR Paraná S.A.) e 1.2.3 (Nova 381) para ouvir as áreas e dar mais segurança ao caso.", "3 deliberações, todas unânimes; debate relevante entre Alex Azevedo e Felipe Queiroz sobre quem arca com a inadimplência por fraude no free flow."]
+  },
+  "itens": [
+    {
+      "id": "extra-pauta-Motiva", "ts": "1:00:34",
+      "processo": "50500.033938/2025-18", "interessado": "Artéris S.A. (vendedora) e Motiva Infraestrutura de Mobilidade S.A. (compradora) — Autopista Fernão Dias, BR-381 MG/SP",
+      "assunto": "Autorização para o contrato de compra e venda de ações da Autopista Fernão Dias, com transferência do controle acionário da Artéris para a Motiva, no processo competitivo 4/2025",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "transferência de controle"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Leilão em 11/12/2025 (vencedora Motiva), homologado em janeiro/2026; em 05/03/2026 a compradora entregou a documentação das condições precedentes (aprovação do CADE, anuência de financiadores, carta de fiança, garantias, remuneração da B3, seguros). A vendedora também cumpriu as condições do termo de autocomposição (capitalização, patrimônio líquido mínimo, não contratar novas dívidas). Troca de controle prevista para início de abril; Artéris convocada a cumprir condições precedentes.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, autoriza", "ts": "1:06:08", "justificativa": "relevância e urgência da matéria", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "1:09:00", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "1:09:09", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.1", "ts": "1:09:30",
+      "processo": "50500.284423/2022-23", "interessado": "Superintendência de Infraestrutura Rodoviária (SUROD)",
+      "assunto": "Aprovação do relatório final da AP 10/2024 e da resolução do sistema de livre passagem (free flow) nas rodovias federais concedidas, vigência em 120 dias, e criação de grupo de trabalho para um sandbox regulatório sobre interoperabilidade (edital até 31/07/2026; experimento de 24 meses)",
+      "tema": ["pedágio free flow", "concessões rodoviárias", "regulação normativa", "sandbox / inovação", "participação social"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Processo de 2022 com ampla participação: 140 contribuições na consulta interna, 342 na reunião participativa 001 (43% acatadas), 517 na AP 10/2024 (31 entidades) e 167 na reabertura; 10ª versão do texto. Pagamento antes, durante ou após a passagem; opções de pagamento avulso disponibilizadas em até 2 h (90%) e 24 h (99%), 30 dias para pagar sem encargos e devolução em dobro de cobrança indevida em até 7 dias. Matriz de risco: fraude e inadimplência por fraude intencional com o poder concedente; evasão e inadimplência divididas 90% poder concedente e 10% concessionária; falhas do sistema integralmente da concessionária; conta de compensação vinculada, saldo excedente em 12 meses revertido à União; infrações específicas. Ajuste redacional pedido pela ABPAN para que concessionárias só recebam pagamento no âmbito da própria concessão. Evidência citada: free flow Rio–São Paulo (BR-101) reduziu o tempo de viagem em até 30%; inadimplência observada caiu de 11–12% para 8%, abaixo dos ≈ 30% de inadimplência de IPVA usada como argumento de risco.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova resolução e sandbox de interoperabilidade", "ts": "1:09:30", "justificativa": "tecnologia deve facilitar a vida do usuário; regulação baseada em evidência do sandbox do free flow; alocação de risco a quem pode geri-lo (poder de polícia é do Estado)", "tom": "didático, defensivo do desenho regulatório", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator, mantendo preocupação quanto a repassar ao poder concedente a inadimplência por fraude", "ts": "1:26:41", "justificativa": "a concessionária pode recorrer à Justiça; vê o sandbox de 24 meses como forma de sanar a dúvida; foco no benefício ao usuário", "tom": "questionador, cortês", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:35:29", "justificativa": "concorda com a preocupação de Alex mas considera o voto cuidadoso; importância do tema para o usuário", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator; defende free flow em todas as rodovias federais", "ts": "1:37:26", "justificativa": "modernização; estabilidade para abrir concorrência; critica discursos políticos que defendem isenção de multas e lembra que investimentos dependem do pagamento da tarifa", "tom": "assertivo", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "1:38:30", "justificativa": "escuta ativa e transparência; alinhamento com o Ministério dos Transportes e o Contran; agência avança, não retroage", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "1:40:00",
+      "processo": "50500.019002/2025-76", "interessado": "Superintendência de Transporte Ferroviário (SUFER)",
+      "assunto": "Abertura de audiência pública sobre a minuta do RSF1 (Regulamento de Serviços e Segurança Ferroviária nº 1: condições gerais de transporte ferroviário, direitos e garantias dos usuários e serviço adequado) e aprovação da AIR",
+      "tema": ["ferrovias", "regulação normativa", "participação social"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Consolida normas dispersas e regulamenta dispositivos da Lei 14.273/2021 (lei das ferrovias) para cargas em concessão e autorização: direitos e deveres dos usuários, serviço adequado, contratos de transporte, usuário dependente, investidor e operador multimodal, ATF e infrações. Procuradoria fará a análise jurídica após a participação social.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "1:40:00", "justificativa": "modernização do arcabouço ferroviário; transparência e legitimidade na participação social", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator; destaca a replicação da boa prática dos RCRs rodoviários no setor ferroviário", "ts": "1:47:38", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente; parabeniza Lucas e Alessandro", "ts": "1:48:42", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha integralmente; reforma é estratégica para eficiência e competitividade", "ts": "1:49:50", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "1:50:47", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"item": "1.2.1 — EPR Paraná S.A. (proc. 50500.012386/2026-87)", "relator": "Lucas Asfor", "motivo": "maior aprimoramento e escuta das áreas", "ts": "1:05:18"},
+    {"item": "1.2.3 — Concessionária Nova 381 S.A. (proc. 50500.0894/2026-12)", "relator": "Lucas Asfor", "motivo": "maior aprimoramento e escuta das áreas", "ts": "1:05:18"}
+  ],
+  "limites_da_analise": ["Legenda automática: números de processo parciais.", "ts de votos de seguidores aproximados."]
+}

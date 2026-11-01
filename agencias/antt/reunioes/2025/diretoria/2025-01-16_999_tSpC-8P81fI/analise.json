@@ -1,0 +1,126 @@
+{
+  "meta": {"video_id": "tSpC-8P81fI", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "999", "data": "2025-01-16", "formato": "videoconferência",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": ["Luciano Lourenço (férias)"],
+    "observacoes": ["Primeira reunião do ano; encerrada às 15h12 de 16/01/2025.", "Retirados de pauta: 1.1.1 (ajustes formais, por Rafael Vitale) e 1.3.1 (Viação Garcia, por Felipe Queiroz).", "Dispensa da leitura de votos (art. 68 §5º do Regimento) para os blocos 1.2.1/1.2.2 (Guilherme Sampaio) e 1.4.1/1.4.2 (Lucas Asfor), aprovada pelos diretores.", "Item 1.1.3 recebeu vista coletiva (art. 106, parágrafo único, do Regimento) e será deliberado em 30/01/2025.", "No encerramento o Diretor-Geral anuncia a agenda de 2025 (leilões, audiências públicas de ferrovia, regulação do transporte rodoviário de passageiros) e a indicação de Guilherme Sampaio para a diretoria-geral."]
+  },
+  "itens": [
+    {
+      "id": "1.1.2", "ts": "0:10:30",
+      "processo": "50500.186205/2022-96 (número incerto)", "interessado": "Ministério dos Transportes e vinculadas (DNIT, Infra S.A., ANTT) e Conselho Nacional de Justiça (CNJ)",
+      "assunto": "Acordo de cooperação técnica para ampliar a inserção profissional de pessoas privadas de liberdade e egressas do sistema prisional no setor de infraestrutura rodoviária e ferroviária",
+      "tema": ["institucional", "sustentabilidade"],
+      "relator": "Rafael Vitale", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Proposta do Ministério dos Transportes (ofício-circular 944, dez/2024); unidades técnicas (SUCON, SUFER, SUROC) não apresentaram contribuições que alterassem as minutas; Procuradoria concluiu pela viabilidade jurídica (parecer 6/2025), com recomendações atendidas.",
+      "votos": [
+        {"diretor": "Rafael Vitale", "voto": "relator, aprova", "ts": "0:13:00", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "0:13:24", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "de acordo com o relator", "ts": "0:13:30", "justificativa": "destaca a importância da reintegração de pessoas do sistema prisional e o protagonismo do Ministério e da Infra S.A. na agenda", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "de acordo", "ts": "0:14:10", "justificativa": "voto colhido depois, por cautela contra eventual nulidade", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.3", "ts": "0:14:25",
+      "processo": "50500.015779/2022-19", "interessado": "Superintendência de governança, gestão estratégica e de pessoal (SUGEP)",
+      "assunto": "Alteração do Regimento Interno da ANTT (Res. 5.976/2022): nova superintendência de informações, inteligência, governança e planejamento estratégico; nova superintendência de gestão de pessoas, sustentabilidade e inovação; auditoria interna como unidade de controle interno; Centro de Estudos Avançados em Regulação de Transportes Terrestres; assessoria especial de relacionamento e comunicação",
+      "tema": ["institucional", "regulação normativa"],
+      "relator": "Rafael Vitale", "resultado": "vista coletiva; deliberação na reunião de 30/01/2025",
+      "resumo_voto": "Procuradoria opinou pela viabilidade, com recomendações já ajustadas. Por se tratar de alteração do Regimento (art. 106, parágrafo único), foi aberta vista coletiva e dispensada a coleta de votos.",
+      "votos": [
+        {"diretor": "Rafael Vitale", "voto": "relator, abre vista coletiva", "ts": "0:19:30", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:19:46",
+      "processo": "50500.363594/2019-1 (número incerto)", "interessado": "Concessionária da Rodovia Osório–Porto Alegre (Concepa)",
+      "assunto": "Recurso contra a decisão 524/2023 da Superintendência de Rodovias (SUROD), em bloco com 1.2.2",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — recurso conhecido e desprovido, penalidade mantida",
+      "resumo_voto": "Voto lido sem detalhamento (leitura dispensada): conhece e nega provimento, mantendo a penalidade.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, conhece e nega provimento", "ts": "0:18:30", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:19:20", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:19:25", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator; proclama unanimidade", "ts": "0:19:35", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "0:19:46",
+      "processo": "50500.144823/2010-6 (número incerto)", "interessado": "Concessionária da Rodovia Osório–Porto Alegre (Concepa)",
+      "assunto": "Recurso contra a decisão 191/2023 da SUROD, em bloco com 1.2.1",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — recurso desprovido",
+      "resumo_voto": "Mesmo voto do item 1.2.1: conhece e nega provimento, mantendo a penalidade.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, conhece e nega provimento", "ts": "0:18:30", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:19:20", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:19:25", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha; unanimidade", "ts": "0:19:35", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.3", "ts": "0:19:46",
+      "processo": "50500.501804/2020-80 (número incerto)", "interessado": "Concessionária de Rodovias Juiz de Fora–Rio (Concer)",
+      "assunto": "Recurso contra a decisão 455/2023 da SUROD: multa de 500 URT",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — recurso desprovido",
+      "resumo_voto": "Não foi apresentado fato novo capaz de afastar a penalidade; mantida a multa.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, conhece e nega provimento", "ts": "0:20:18", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:20:35", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:20:37", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha; unanimidade", "ts": "0:20:40", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.4", "ts": "0:20:42",
+      "processo": "50512.740/2021-26 (número incerto)", "interessado": "Concessionária de Rodovias Juiz de Fora–Rio (Concer)",
+      "assunto": "Recurso contra a decisão 319/2022 da SUROD: multa de 78.750 URT",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — provimento parcial",
+      "resumo_voto": "Sem fato novo que afaste a penalidade, mas o valor deve respeitar o teto de R$ 10 milhões da Lei 10.233/2001 e o parecer da Procuradoria; multa corrigida para 787,50 URT (valor conforme legenda; conferir).",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, conhece e dá provimento parcial", "ts": "0:21:45", "justificativa": "limitação ao teto legal da multa", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:22:40", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:22:42", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha; unanimidade", "ts": "0:22:45", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.4.1", "ts": "0:23:00",
+      "processo": "50505.008924/2021-01 (número incerto)", "interessado": "Concessionária de Rodovias Juiz de Fora–Rio (Concer)",
+      "assunto": "Recurso contra a decisão 235/2023 da SUROD (em bloco com 1.4.2)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — recurso desprovido",
+      "resumo_voto": "Relator conhece dos recursos e nega provimento (leitura dos votos dispensada).",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, conhece e nega provimento", "ts": "0:23:40", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "0:24:30", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:24:33", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha; unanimidade", "ts": "0:24:35", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.4.2", "ts": "0:23:00",
+      "processo": "50505.023244/2022-71 (número incerto)", "interessado": "Concessionária de Rodovias Juiz de Fora–Rio (Concer)",
+      "assunto": "Recurso contra a decisão 303/2023 da SUROD (em bloco com 1.4.1)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — recurso desprovido",
+      "resumo_voto": "Mesmo voto do 1.4.1: conhece e nega provimento.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, conhece e nega provimento", "ts": "0:23:40", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "0:24:30", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:24:33", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha; unanimidade", "ts": "0:24:35", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"item": "1.1.1 — retirado para ajustes formais em ato anterior", "relator": "Rafael Vitale", "motivo": "ajustes formais", "ts": "0:08:44"},
+    {"item": "1.3.1 — processo de interesse da Viação Garcia (único item pautado por Felipe Queiroz)", "relator": "Felipe Queiroz", "motivo": "não informado", "ts": "0:08:20"}
+  ],
+  "limites_da_analise": ["Legenda automática; números de processo e de decisões da SUROD muito distorcidos (marcados como incertos); valor da multa corrigida do 1.2.4 conforme legenda («787 inteiros e 50 centésimos de URT»).", "Ts dos votos de seguidores aproximados; a ordem dos itens 1.2.x e 1.4.x vem do apregoamento na fala do Diretor-Geral.", "Rafael Vitale é o presidente da sessão e relator do 1.1.x; o nome é inferido do cumprimento «diretor Rafael» e da assinatura dos relatos."]
+}

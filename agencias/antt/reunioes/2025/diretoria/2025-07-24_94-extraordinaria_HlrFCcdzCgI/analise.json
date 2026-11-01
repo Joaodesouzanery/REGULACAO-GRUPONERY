@@ -1,0 +1,40 @@
+{
+  "meta": {"video_id": "HlrFCcdzCgI", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "94 (extraordinária)", "data": "2025-07-24", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Encerrada às 10h32 de 24/07/2025.", "2 itens deliberados, ambos unânimes: edital da Rota Sertaneja (BR-153/262) e sétimo termo aditivo da Rumo Malha Paulista (incluído por urgência, retirado da RD 24 desta semana por causa de prazo de pagamento em 28/07/2025).", "Primeira reunião do novo Procurador-Geral, Rafael Fortunato, recebido com boas-vindas; despedida de Carlos Alves, assessor de Guilherme, que vai para a Artemig (MG)."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:00:50",
+      "processo": "50500.02707/2025 (parcial)", "interessado": "Superintendência de Concessão da Infraestrutura (SUCON)",
+      "assunto": "Edital de concessão do sistema rodoviário BR-153/262 (GO/MG), Rota Sertaneja, 530 km (trechos hoje sob a Concebra, em relicitação)",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "pedágio free flow"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Projeto aprovado pelo TCU (acórdão 1062/2024, Plenário) e discutido na audiência pública 142; 30 anos, 5 praças, 42 km de duplicação, 31 km de faixa adicional. Capex de R$ 5,56 bi e opex de R$ 4,16 bi (cerca de R$ 10 bi); TKM de 0,13 (pista simples) e 0,17 (dupla). Custo de capital regulatório elevado de 9,21% para 10,91% (Res. 604/2024); padronização com os editais recentes; novos parâmetros para início da cobrança; regra para possível substituição por free flow; plano de 100 dias; índice de condição de manutenção; conectividade em 100% dos trechos. Leilão previsto para 06/11/2025 na B3. Procuradoria: mudanças não exigem nova submissão ao TCU.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova o edital", "ts": "0:00:50", "justificativa": "projeto discutido com a sociedade, aprovado pelo TCU e com processo competitivo transparente e isonômico", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha integralmente o relator", "ts": "0:09:14", "justificativa": "destaca a política de conectividade e as externalidades para comunidades lindeiras", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha integralmente o relator", "ts": "0:10:48", "justificativa": "relevância e celeridade do projeto", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:12:15",
+      "processo": "(número ilegível)", "interessado": "Rumo Malha Paulista S.A.",
+      "assunto": "Sétimo termo aditivo ao contrato de concessão (edital 2/1998): conta bancária vinculada, com movimentação sujeita à autorização da ANTT, para receber os valores de vantajosidade do termo de autocomposição (acórdão TCU de 2023), e contrato de administração de contas",
+      "tema": ["ferrovias", "reequilíbrio contratual", "institucional"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Proposta da SUFER, com parecer favorável da Procuradoria. Item retirado da RD 24 (28/07 a 01/08) porque o pagamento da segunda parcela da subcláusula 18.1 do sexto aditivo vence em 28/07/2025; por urgência foi incluído nesta extraordinária. Aprova as minutas do aditivo e do contrato de administração de contas e autoriza as assinaturas.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "0:13:20", "justificativa": "matéria apta, com manifestações técnica e jurídica favoráveis", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "0:16:05", "justificativa": "celeridade; a agência soluciona passivos históricos", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator; proclama unanimidade", "ts": "0:17:01", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática: números de processo ilegíveis ou parciais; valores de TKM sem unidade clara (provavelmente R$ por km).", "Há trechos confusos nas atribuições de falante; o ts do voto de Lucas Asfor no 1.1.1 é o início da fala dele e o voto no 1.2.1 como relator é aproximado.", "A legenda traz «Rumia Paulista» e «Concebra» com grafias variáveis; interpretados como Rumo Malha Paulista e Concebra."]
+}

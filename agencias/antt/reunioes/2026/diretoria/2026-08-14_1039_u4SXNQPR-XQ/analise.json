@@ -1,0 +1,146 @@
+{
+  "meta": {"video_id": "u4SXNQPR-XQ", "fonte": "legenda automática do YouTube (título em inglês: Board Meeting 1039); falantes inferidos; ts = tempo do vídeo (sessão começa ~0:07)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1039", "data": "2026-08-14", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral, relator de 3 itens)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alex Azevedo", "Alessandro Baumgarten"],
+    "ausentes": [],
+    "observacoes": ["Última reunião da amostra com Alessandro Baumgarten como diretor (Marcelo Fonseca assume na semana de 24/08).", "Todas as 9 deliberações foram unânimes; 1 item retirado (ROF 1).", "4 itens tratam de ônibus (transporte rodoviário interestadual/fretamento): 1.1.2, 1.2.2, 1.5.1, 1.5.2."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:10:16",
+      "processo": "50500.1142/2026 (parcial)", "interessado": "Ferrovia Centro-Atlântica S.A. (FCA)",
+      "assunto": "7º termo aditivo: extensão excepcional por até 24 meses (a partir de 31/08/2026) do prazo da concessão da Malha Centro-Leste, art. 32 da Lei 13.448/2017, enquanto a prorrogação antecipada tramita no TCU",
+      "tema": ["ferrovias", "concessão ferroviária", "prorrogação antecipada"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade, com determinações do relator à SUFER antes de formalizar",
+      "resumo_voto": "O relator aprova mas determina saneamentos: esclarecer 'contratos de transição'; fundamentar a antecipação de ≈ R$ 564 mi de investimentos (evitar duplicidade com o caderno de obrigações da prorrogação); apuração do valor de outorga por encontro de contas posterior (retirar menção a 'MEF referencial'); retirar cláusula de tarifa; corrigir texto sobre passivos ambientais (saneamento, não guarda) e devolução de 3 ferrovias (acórdãos TCU 136/2023 e 2216/2025); reescrever cláusula de bens móveis; ajustes redacionais.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova com determinações", "ts": "0:10:16", "tom": "minucioso, cauteloso", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "0:10:16", "justificativa": "desfecho da prorrogação, 'nem tão antecipada', da FCA", "confianca": "média"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha", "ts": "0:19:30", "confianca": "média"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente", "ts": "0:20:14", "justificativa": "elogia o cuidado: 'voto com recomendações, ajustes e determinações'", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha integralmente", "ts": "0:21:08", "justificativa": "minúcia necessária nessas matérias", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.2", "ts": "0:21:24",
+      "processo": "50505.066566/2024-77", "interessado": "Expresso Floriano Ltda. (recorrente) × Aviação 7 (beneficiária dos TAs; nome parcial na legenda)",
+      "assunto": "Recurso contra as Decisões SUPAS 1740–1745 (11/10/2024) que converteram em termos de autorização (TAR) linhas operadas sub judice por mora administrativa — transporte rodoviário interestadual de passageiros (ônibus)",
+      "tema": ["transporte rodoviário de passageiros (ônibus)", "autorizações de mercado (TAR) e novo marco regulatório"],
+      "relator": "Alex Azevedo (voto original, SDE 287); revisor: Guilherme Sampaio (vista, convergente)", "resultado": "aprovado por unanimidade — recurso não conhecido por intempestividade; decisões da SUPAS mantidas",
+      "resumo_voto": "Pedidos de outorga de 2020 travados por pandemia e cautelar do TCU (revogada em 2023); Justiça Federal reconheceu a mora; SUPAS converteu em autorização (Res. 6033/2023). Recurso protocolado ~8 meses após a publicação (prazo legal de 30 dias). Revisor confirma a intempestividade, afasta autotela por inexistir vício de legalidade e concorda que o critério da resolução é a vigência da licença publicada até a entrada da norma, não o início efetivo da operação.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator original: não conhecer por intempestividade (mantido)", "ts": "0:25:39", "justificativa": "comenta que pedido de vista é salutar, divergência não é problema e convergência confirma o caminho certo", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "voto-vista: acompanha integralmente o relator originário", "ts": "0:21:24", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com ambos (relator e revisor)", "ts": "0:25:26", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "na mesma linha, com relator e revisor", "ts": "0:25:29", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o revisor que acompanha o relator", "ts": "0:26:28", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.3", "ts": "0:26:33",
+      "processo": "50500.20646/2022-64 (parcial)", "interessado": "Superintendência de Sustentabilidade, Pessoas e Inovação (SUSP)",
+      "assunto": "Nova resolução da estrutura organizacional da ANTT (revoga a Res. 5977/2022), em vigor em 01/09/2026 junto com o novo regimento interno (Res. 6083, de 16/07/2026)",
+      "tema": ["institucional/governança"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Decorre da Deliberação 91/2026 (quadro de cargos comissionados) e do decreto de remanejamento; item havia sido retirado da reunião anterior para diálogo entre diretores.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova", "ts": "0:26:33", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "0:26:33", "justificativa": "dimensão do esforço para uma agência com servidores de Roraima ao extremo sul; item foi retirado antes para formar convicção melhor", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha", "ts": "0:31:08", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha na integralidade", "ts": "0:31:30", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "0:32:29", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:32:31",
+      "processo": "50500.1892/2022-25 (parcial)", "interessado": "Superintendência de Serviços de Transporte Rodoviário e Multimodal de Cargas (SUROC)",
+      "assunto": "Relatório final da AP 5/2025 (24/07–06/09/2025; reaberta de 04–18/05/2026) e resolução que institui o Selo ESG Cargas para o transporte rodoviário remunerado de cargas (TAC, ETC e cooperativas; adesão voluntária)",
+      "tema": ["sustentabilidade/ESG", "transporte rodoviário de cargas", "participação social"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Selo com fatores ambiental (descarbonização), social e de governança, com requisitos calibrados por categoria; regulação responsiva/incentivo, alinhada ao programa Melhor Ar (Infra S.A./Ministério dos Transportes); participação de CNT. Tema na agenda desde 2020-22 (índice de desempenho ambiental).",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova", "ts": "0:32:31", "justificativa": "'não fazemos PPCS para inglês ver': boa prática regulatória", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha", "ts": "0:42:40", "justificativa": "congruência com a política pública e construção participativa", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente", "ts": "0:42:58", "justificativa": "lembra visita ao BNDES com Felipe sobre um selo verde/ESG", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha integralmente", "ts": "0:44:30", "justificativa": "elogia a condução do tema de sustentabilidade e a SUROC", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "0:44:30", "confianca": "média"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "0:44:30",
+      "processo": "50500.42952/2025-02", "interessado": "Mário da Silva Lima & Filho Ltda. (fretamento — ônibus; nome parcial)",
+      "assunto": "Pedido de reconsideração cumulado com chamamento do feito à ordem contra a Deliberação 146/2026 (21/05/2026), que cassou a autorização de fretamento",
+      "tema": ["transporte rodoviário de passageiros (fretamento/ônibus)", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — chamamento do feito à ordem e reconsideração conhecidos e desprovidos",
+      "resumo_voto": "A empresa operava como serviço comercial (venda de bilhetes) amparada em termo de fretamento (circuito fechado). Relator verificou que todos os argumentos foram enfrentados (voto da Deliberação 146, relator Lucas Asfor), documento alegadamente inacessível era público desde 01/10/2025 e a empresa foi notificada; decisões invocadas não são vinculantes; penalidade proporcional; sem risco de dano irreparável para efeito suspensivo.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, nega provimento", "ts": "0:45:54", "justificativa": "contraditório e ampla defesa garantidos; reconhece o voto do Lucas na origem", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha na íntegra", "ts": "0:52:04", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "0:52:12", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "0:52:14", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.3", "ts": "0:52:14",
+      "processo": "50500.3406/2023 (parcial)", "interessado": "Superintendência de Serviços de Transporte Rodoviário de Passageiros (SUPAS)",
+      "assunto": "Resolução que consolida o marco regulatório do transporte rodoviário coletivo internacional de passageiros e relatório final da AP 6/2025 (28/07–11/09/2025; 8 contribuições)",
+      "tema": ["transporte rodoviário de passageiros (ônibus)", "transporte internacional", "regulação normativa"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Primeiro documento específico para o transporte internacional (antes aplicava-se o marco interestadual 'no que couber'; IN 15/2022 paliativa); acolhe acordos internacionais; melhorias na gestão de frequências e definição de linhas; possibilidade de transporte de encomendas dependente da Receita Federal.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova", "ts": "0:52:53", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha (inferido)", "ts": "0:58:00", "confianca": "baixa"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "0:58:21", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "0:58:23", "justificativa": "registra decisão do STF (Min. André Mendonça) no dia anterior reconsiderando liminar sobre a Janela Extraordinária e ratificando a validade dos atos regulatórios da ANTT", "confianca": "média"}
+      ]
+    },
+    {
+      "id": "1.4.1", "ts": "0:58:23",
+      "processo": "50500.1563/2026 (parcial)", "interessado": "SUCON",
+      "assunto": "Prorrogação do prazo de contribuições da AP 11/2026 sobre a concessão ferroviária da Malha Sul (corredores Mercosul, Rio Grande e Paraná–Santa Catarina; 4.248 km; ≈ R$ 53 bi) até 30/09/2026",
+      "tema": ["ferrovias", "participação social", "concessão ferroviária"],
+      "relator": "Alex Azevedo", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Voto de objetivo único: 'dar mais tempo à sociedade para falar'. A unidade condutora já usou os 15 dias que pode prorrogar sozinha; prazo original de 56 dias (mínimo legal 45); 4 sessões híbridas e 98 protocolos até 06/08; pedidos de mais prazo de ANTF, Codesul, municípios e MPF. Soma 107 dias.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, aprova", "ts": "1:00:36", "tom": "argumentativo, voltado à participação social", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com Alex", "ts": "1:07:14", "justificativa": "esteve na sessão de Curitiba: pleito legítimo; 'nove mulheres não fazem uma criança em um mês'", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha (inferido)", "ts": "1:07:55", "confianca": "baixa"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "1:08:04", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "1:08:10", "justificativa": "elogia a sensibilidade e a transparência de Alex", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.5.1", "ts": "1:08:10",
+      "processo": "50500.9180/2026-70 (parcial)", "interessado": "Autoviação Gadote Ltda. (nome parcial; ônibus interestadual)",
+      "assunto": "Recurso contra a Decisão SUPAS 861/2026 (01/06/2026), que inabilitou a empresa e cassou seus termos de autorização do serviço regular interestadual de passageiros",
+      "tema": ["transporte rodoviário de passageiros (ônibus)", "fiscalização e sanções", "devido processo legal"],
+      "relator": "Alessandro Baumgarten", "resultado": "aprovado por unanimidade — decisão da SUPAS anulada; efeitos das outorgas restituídos condicionados ao saneamento; reaberto o prazo remanescente de 15 dias úteis",
+      "resumo_voto": "A exigência de comprovar habilitação (Res. 6033/2023) é legítima, inclusive com intimação eletrônica pelo SEI; porém a decisão foi assinada no 5º dia útil de um prazo de 20 dias úteis, privando a empresa de influenciar a decisão (contraditório substancial). Documentos protocolados em 05/06 devem ser considerados (verdade material, boa-fé objetiva, art. 55 da Lei 9.784). Solução proporcional: devolver os 15 dias úteis em vez de anular toda a instrução.",
+      "votos": [
+        {"diretor": "Alessandro Baumgarten", "voto": "relator, anula a decisão e reabre prazo", "ts": "1:08:10", "justificativa": "vício temporal/procedimental, não de mérito; discorda da SUPAS ao tratar documentos pós-decisão como novo pedido", "tom": "técnico, garantista", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "de acordo com o relator", "ts": "1:16:49", "justificativa": "voto técnico, cauteloso, prioriza a verdade real dos fatos", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha (inferido)", "ts": "1:16:49", "confianca": "baixa"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente", "ts": "1:17:09", "justificativa": "voto técnico e prudente", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "1:17:21", "confianca": "média"}
+      ]
+    },
+    {
+      "id": "1.5.2", "ts": "1:17:21",
+      "processo": "50500.204399/2023 (parcial)", "interessado": "Rota Transportes Rodoviários Ltda. (linha Porto Seguro/BA–Recife/PE via Euclides da Cunha)",
+      "assunto": "Revogação da Deliberação 273/2025, que havia autorizado a linha em cumprimento de decisão judicial; relator original Felipe Queiroz (SDE 287); Alessandro Baumgarten pediu vista",
+      "tema": ["transporte rodoviário de passageiros (ônibus)", "autorizações de mercado (TAR) e novo marco regulatório", "judicialização"],
+      "relator": "Felipe Queiroz (originário); revisor: Alessandro Baumgarten (vista, convergente)", "resultado": "aprovado por unanimidade — deliberação 273/2025 revogada; pedido indeferido por inobservância dos arts. 230 e 231 da Res. 6033/2023",
+      "resumo_voto": "O pedido, anterior ao novo marco, enquadra-se na regra de transição do art. 230 e não nas janelas extraordinárias. Nova liminar em mandado de segurança (outras decisões SUPAS 1021/1026) não alcança este processo: ato distinto, eficácia provisória, sem direito adquirido. Linhas parecidas, mas com itinerários diferentes.",
+      "votos": [
+        {"diretor": "Alessandro Baumgarten", "voto": "revisor: acompanha integralmente o relator", "ts": "1:17:21", "justificativa": "vista pedida por nova decisão judicial surgida durante a votação eletrônica; confusão entre duas linhas semelhantes esclarecida", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "mantém o voto de relator", "ts": "1:22:25", "justificativa": "reconhece que a cautela do revisor traz mais segurança; na SDE ainda não havia parecer de força executória da decisão judicial", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha ambos (relator e revisor)", "ts": "1:22:21", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha ambas as proposições; proclama unanimidade", "ts": "1:23:26", "confianca": "média"}
+      ]
+    }
+  ],
+  "retirados": [{"item": "1.3.1", "assunto": "ROF 1 (regulamento de outorgas ferroviárias)", "relator": "Lucas Asfor", "motivo": "para melhor análise e entendimento com os demais diretores (aprovado como extra-pauta na RD 1040)", "ts": "0:10:16"}],
+  "limites_da_analise": ["Legenda automática: números de processo, valores e nomes de empresas parciais.", "Votos de Lucas Asfor em 1.2.3, 1.4.1 e 1.5.1 inferidos pela ordem de votação.", "Na legenda do item 1.4.1 aparece também 31/12; o voto conclui pelo prazo de 30/09/2026."]
+}

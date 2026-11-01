@@ -1,0 +1,27 @@
+{
+  "meta": {"video_id": "TPzfL2cbboc", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "92 (extraordinária)", "data": "2025-04-07", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Item único, encerrado às 18h34 de 07/04/2025.", "Houve problema técnico na transmissão e o relator releu o voto desde o início."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:01:00",
+      "processo": "50500.017831/2025-14", "interessado": "Superintendência de Concessão de Infraestrutura (SUCON)",
+      "assunto": "Abertura de audiência pública para as minutas de edital e contrato, programa de exploração da rodovia e estudos de viabilidade da concessão do lote BR-324/BA e BR-116/BA (de Feira de Santana ao entroncamento com a BR-116 e anel de Vitória da Conquista), 663 km, denominado Rota 2 de Julho",
+      "tema": ["concessões rodoviárias", "pedágio free flow", "participação social"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Estudos da Infra S.A. recebidos em março/2025 e verificados pela SUCON conforme diretrizes do Ministério dos Transportes (lote concebido por causa do histórico da concessionária Via Bahia). Capex de cerca de R$ 15,7 bilhões e Opex de cerca de R$ 8 bilhões; duplicação de cerca de 355 km, 96 km de faixas adicionais, vias marginais, 149 dispositivos de interseção, passarelas e passagens de fauna; cobertura de telefonia móvel obrigatória; free flow em 14 pontos; receita tarifária estimada em R$ 60,6 bilhões; tarifa quilométrica de cerca de 16 centavos (pista simples) e 21 centavos (pista dupla). Contribuições escritas de 15/04 a 29/05/2025; sessões presenciais em Salvador (5/5), Feira de Santana (6/5), Vitória da Conquista (8/5) e Brasília (16/5, presencial e remota). A Procuradoria tem opinado somente após a audiência.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova a abertura da audiência pública", "ts": "0:02:10", "justificativa": "estudos aderentes às diretrizes do MT e à legislação; ausência de óbices jurídicos; integra a estratégia federal de modernização da infraestrutura rodoviária", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:13:25", "justificativa": "parabeniza relator, equipe e área técnica pela pauta do processo", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator; proclama unanimidade", "ts": "0:14:00", "justificativa": "destaca o esforço concentrado e a SUCON, que cumpriu os ritos de governança em prazo exíguo", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática com números e nomes distorcidos; valores (capex, opex, receita, tarifa) conforme falados pelo relator, sem conferência com os documentos.", "ts da leitura do voto do relator é aproximado (voto relido após falha técnica)."]
+}

@@ -1,0 +1,205 @@
+{
+  "meta": {"video_id": "KsteuYm_RoM", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:32); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1020", "data": "2025-11-05", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alex Azevedo", "José Aires Amaral Filho"],
+    "ausentes": [],
+    "observacoes": ["Encerrada às 17h27 de 05/11/2025; quórum completo dos titulares após período de férias.", "Incluídos extrapauta, a pedido de Felipe Queiroz e com anuência do colegiado, o edital de sandbox do corredor logístico sustentável e o item da BR-262/MG (free flow), este antes previsto em sessão eletrônica e retirado para aperfeiçoamento.", "Retirados de pauta: 1.2.1 e 1.2.2 (Felipe Queiroz, sistema Rio-São Paulo/Dutra), 1.3.5 (metodologia dos insumos da pandemia de COVID, Lucas Asfor) e 1.3.9 (Rota dos Sertões, Lucas Asfor).", "Item 1.2.3 (Via Brasil BR-163, solicitação de solução consensual, Felipe Queiroz) é sigiloso e foi julgado em sessão reservada após o término da transmissão, sem conteúdo no vídeo.", "A sessão foi tratada pelo Diretor-Geral como dedicada a Lucas Asfor, relator dos principais processos; semana de abertura da COP 30."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:36:24",
+      "processo": "50500.016912/2025-12 (conforme legenda)", "interessado": "Concessionária Elovias S.A. (BR-040/495, MG/RJ)",
+      "assunto": "Referendo da Deliberação 385/2025 que autorizou o início da cobrança de pedágio nas praças P1 (Xerém), P2 (Areal) e P3 (Simão Pereira)",
+      "tema": ["concessões rodoviárias", "pedágio"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Contrato assinado em 30/09/2025 (218 km, 30 anos, investimentos de ≈ R$ 10 bilhões, com conclusão dos túneis da nova subida da Serra de Petrópolis); leilão em abril com deságio de 14%; comissão de trabalhos iniciais atestou capacidade operacional (nota técnica de 20/10/2025); IRT de 1,14374 (+14,37% sobre a TBP) para primeiro cálculo contratual; cobrança em até 10 dias do ato autorizativo (Del. 385, publicada em 24/10/2025).",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, referenda a Deliberação 385/2025", "ts": "0:37:30", "justificativa": "cumprimento da cláusula 18.1 do contrato e cálculo do reajuste pelo IRT", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:42:17", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:42:30", "confianca": "media"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o voto do relator", "ts": "0:42:57", "confianca": "alta"},
+        {"diretor": "José Aires Amaral Filho", "voto": "acompanha o relator", "ts": "0:43:00", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "1.2.4", "ts": "0:43:04",
+      "processo": "50500.070610/2025-34 (conforme legenda)", "interessado": "Concessionária Rodovia Nova 381 S.A. (BR-381/MG)",
+      "assunto": "Reajuste da tarifa básica de pedágio e início da cobrança por pedágio eletrônico em livre passagem (free flow) nas praças P3 (Jaguaraçu), P4 (Belo Oriente) e P5 (Governador Valadares)",
+      "tema": ["concessões rodoviárias", "pedágio free flow"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Primeiro termo aditivo (publicado em 01/07/2025) substituiu praças físicas por pórticos eletrônicos nas mesmas localizações e prazos; comissão de trabalhos iniciais atestou capacidade operacional e transparência de comunicação ao usuário; reajuste pelo índice de reajustamento tarifário de 13,95% sobre a TBP, mera recomposição inflacionária, sem reequilíbrio; cobrança em até 10 dias do ato autorizativo.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, autoriza o início da cobrança em free flow e o reajuste", "ts": "0:44:30", "justificativa": "requisitos de eficiência/acurácia do sistema e de transparência atestados; reajuste é efeito do tempo sobre a database", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:53:25", "confianca": "media"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha a relatoria", "ts": "0:53:30", "justificativa": "elogia a explanação técnica do relator", "confianca": "alta"},
+        {"diretor": "José Aires Amaral Filho", "voto": "acompanha o relator", "ts": "0:53:45", "confianca": "baixa"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:53:57", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "extra-1", "ts": "0:53:57",
+      "processo": "50500.015531/2025-0? (conforme legenda)", "interessado": "Concessionária da Rodovia BR-262 MG S.A. (Way 262)",
+      "assunto": "Extrapauta: reajuste da tarifa básica de pedágio e início da cobrança em free flow nas praças P2 (Nova Serrana) e P5 (Araxá), BR-262/MG",
+      "tema": ["concessões rodoviárias", "pedágio free flow"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Comissão dos trabalhos iniciais atestou cumprimento integral após vistoria em 1 a 5/09/2025, ofício com cronograma de correção e nova vistoria; testes operacionais e comunicação aos usuários cumpridos; reajuste de 6,70% sobre a TBP, recomposição inflacionária e não aumento ou reequilíbrio.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, autoriza o free flow e aprova as tarifas reajustadas e arredondadas", "ts": "0:55:30", "justificativa": "requisitos contratuais atendidos; reajuste apenas por efeito inflacionário", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "1:00:10", "justificativa": "elogia a clareza do relator ao explicar que se trata de correção monetária", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:00:15", "confianca": "baixa"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "1:00:20", "confianca": "baixa"},
+        {"diretor": "José Aires Amaral Filho", "voto": "acompanha o relator", "ts": "1:00:25", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "extra-2", "ts": "1:00:55",
+      "processo": "50500.025902/2025-03 (conforme legenda)", "interessado": "Superintendência de Sustentabilidade, Pessoas e Inovação (SUSP)",
+      "assunto": "Extrapauta: edital de sandbox regulatório para o projeto-piloto Corredor Logístico Sustentável de transporte intermodal (segurança viária, gestão ambiental, inclusão socioeconômica, desenvolvimento territorial sustentável e inovação tecnológica)",
+      "tema": ["sandbox / inovação", "sustentabilidade", "ferrovias", "concessões rodoviárias"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Sete linhas de ação (segurança viária, gestão ambiental/inclusão socioeconômica, eletromobilidade, participação de embarcadores e operadores intermodais, desenvolvimento territorial sustentável, combustíveis renováveis/baixo carbono, inovação tecnológica), alinhadas ao Programa de Sustentabilidade (Res. 6.057/2024); edital com pontuação e critérios de desempate; 60 dias para projetos; autorização do sandbox prevista para abril de 2026. Apoio de consultoria do Banco Mundial; transporte responde por ≈ 11% das emissões brasileiras e rodovias por ≈ 65% da matriz (números ditos pelo relator, conforme legenda).",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova minuta de edital e aviso de publicação", "ts": "1:02:03", "justificativa": "sustentabilidade, multimodalidade e inovação regulatória; sandbox testa soluções em ambiente controlado", "tom": "entusiasmado", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:14:37", "justificativa": "chama o voto de aula sobre o tema", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "aprova totalmente", "ts": "1:15:33", "justificativa": "demonstração de que a ANTT está antenada à COP 30", "confianca": "alta"},
+        {"diretor": "José Aires Amaral Filho", "voto": "acompanha o voto do relator", "ts": "1:16:52", "justificativa": "segurança viária, transição energética, infraestrutura resiliente, ODS 8, intermodalidade e condições de trabalho no transporte de cargas", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "1:18:00", "justificativa": "reconhece a liderança de Felipe Queiroz em sustentabilidade", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "1:22:24",
+      "processo": "50500.154607/2024-1? (conforme legenda)", "interessado": "Edenilson da Paz Fagundes Ltda. (atual Brasil Turismo e Transportadora Ltda., fretamento)",
+      "assunto": "Processo administrativo ordinário por suposto transporte irregular (Corumbá/MS a São Paulo) a partir de denúncia da Viação Andorinha",
+      "tema": ["ônibus (fretamento)", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — advertência",
+      "resumo_voto": "Veículo vinculado a autorização de fretamento; viagens entre MS e SP com valores incompatíveis com fretamento, mas só uma autuação de transporte regular (dez/2022 a dez/2023), sem habitualidade; acolhido o relatório da comissão: advertência (art. 78-A, I, Lei 10.233/2001) por proporcionalidade e caráter pedagógico.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aplica advertência", "ts": "1:23:00", "justificativa": "ausência de prática reiterada; proporcionalidade", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "1:29:24", "confianca": "media"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "1:29:27", "confianca": "baixa"},
+        {"diretor": "José Aires Amaral Filho", "voto": "acompanha o relator", "ts": "1:29:29", "confianca": "baixa"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "1:29:30", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.3.2", "ts": "1:29:40",
+      "processo": "50500.054655/2016-55 (conforme legenda)", "interessado": "Politur Transporte e Agência de Turismo Ltda.",
+      "assunto": "Pedido de revisão da sanção de cassação aplicada pela Deliberação 122/2023",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — pedido não conhecido",
+      "resumo_voto": "Cassação por descumprimento de requisitos da Res. 4.770/2015, com 16 autuações; reconsiderações negadas (Del. 253/2023 e 385/2023); a empresa não indicou fato novo no pedido de revisão (10/04/2025); preclusão administrativa, segurança jurídica e abuso do direito de petição.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, não conhece do pedido", "ts": "1:30:30", "justificativa": "ausência de fato novo; preclusão; abuso do direito de petição", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "com o relator", "ts": "1:33:45", "justificativa": "valoriza colegiado heterogêneo e a aula jurídica do relator", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha na integralidade", "ts": "1:34:25", "confianca": "alta"},
+        {"diretor": "José Aires Amaral Filho", "voto": "acompanha o relator", "ts": "1:34:37", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "1:34:46", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.3", "ts": "1:34:46",
+      "processo": "50500.169092/2024-64 (conforme legenda)", "interessado": "Rota de Viação do Triângulo Ltda.",
+      "assunto": "Processo administrativo ordinário por seccionamentos não autorizados (BH-Rio, Rio-Brasília), a partir de denúncia do Consórcio Guanabara",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — advertência",
+      "resumo_voto": "Fiscalização de 2021 constatou mercados não autorizados; sem novas autuações específicas após 2021 (afasta reincidência), mas expressivo número de autuações e multas não quitadas justifica advertência formal; acolhido relatório da comissão (art. 78-A, I, Lei 10.233/2001).",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aplica advertência", "ts": "1:35:21", "justificativa": "proporcionalidade, caráter pedagógico e preservação da continuidade do serviço", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "1:41:02", "confianca": "media"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "1:41:05", "confianca": "baixa"},
+        {"diretor": "José Aires Amaral Filho", "voto": "acompanha o relator", "ts": "1:41:06", "confianca": "baixa"},
+        {"diretor": "Guilherme Sampaio", "voto": "aprovado, acompanha", "ts": "1:41:08", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "1.3.4", "ts": "1:41:08",
+      "processo": "50500.093833/2025 (conforme legenda)", "interessado": "SUROC",
+      "assunto": "Abertura de audiência pública híbrida para revisão ordinária dos coeficientes dos pisos mínimos de frete (Res. 5.867/2020, Lei 13.703/2018), com dispensa de AIR",
+      "tema": ["transporte rodoviário de cargas (piso mínimo do frete/CIOT)", "participação social", "regulação normativa"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Oitavo ciclo de revisão; pesquisa de mercado de agosto/2025 com insumos corrigidos pelo IPCA até janeiro/2026 e reajuste médio inferior a 1,3%; dispensa de AIR por mera atualização de parâmetros; contribuições de 12/11 a 11/12/2025 (30 dias, em vez de 45) com sessão presencial e virtual em 24/11, para cumprir a publicação até 20/01/2026; PF sem objeção.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova a audiência pública", "ts": "1:41:50", "justificativa": "previsibilidade e transparência; prazo legal de publicação da tabela", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "com o relator", "ts": "1:47:23", "confianca": "media"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "1:47:38", "confianca": "baixa"},
+        {"diretor": "José Aires Amaral Filho", "voto": "acompanha o relator", "ts": "1:47:43", "confianca": "baixa"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "1:47:46", "justificativa": "conclama embarcadores, cooperativas, autônomos e transportadores a contribuírem", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.6", "ts": "1:48:40",
+      "processo": "50500.385900/2025-47 (conforme legenda)", "interessado": "SUROD",
+      "assunto": "Alteração da Resolução 6.053/2024 (RCR4) para corrigir erro material no parágrafo único do art. 61 (limites de 20% e 200% sobre o fator base da multa)",
+      "tema": ["concessões rodoviárias", "regulação normativa", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Erro material evidente gera distorções na aplicação das multas e viola proporcionalidade e razoabilidade; PF favorável à correção imediata e à dispensa de PPCS (alteração meramente formal e urgente, Res. 6.020/2023).",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova a correção", "ts": "1:49:29", "justificativa": "urgência e preservação da coerência do regime sancionador", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "1:51:56", "confianca": "media"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "1:52:08", "confianca": "baixa"},
+        {"diretor": "José Aires Amaral Filho", "voto": "acompanha o relator", "ts": "1:52:12", "confianca": "baixa"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "1:52:14", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.3.7", "ts": "1:52:14",
+      "processo": "50500.099?/2025-06 (conforme legenda)", "interessado": "Consórcio Rota Agrobrasil e E Concessões S.A. (leilão CN2 Rota Agro, BR-060/364, GO/MT, Edital 2/2025)",
+      "assunto": "Recursos administrativos contra a inabilitação da primeira colocada, Consórcio Rota Agrobrasil, no leilão da concessão CN2 (Rota Agro)",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "judicializacao"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — recursos conhecidos e desprovidos; mantida a inabilitação",
+      "resumo_voto": "Rota Agrobrasil venceu em 14/08/2025 (desconto de 19,70% e aporte de R$ 86,6 milhões, conforme legenda); consorciadas incluíam FIPs administrados e geridos por empresas do grupo Reag, investigado na Operação Carbono Oculto (28/08/2025). Comissão de outorga inabilitou por certidões trabalhistas positivas (só a Justiça do Trabalho pode atribuir efeito de negativa, CLT art. 642-A §2º) e por não manutenção das condições regulares do seguro garantia emitido pela Reag Seguradora, sob supervisão especial da SUSEP. Recurso da segunda colocada, E Concessões, por vício de representação, também negado. PF opinou pelo não provimento.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, conhece e nega provimento a ambos os recursos", "ts": "1:53:00", "justificativa": "certidões positivas descumprem o edital; fundado risco à exequibilidade do seguro garantia; sem vício de representação do administrador fiduciário", "tom": "firme", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha integralmente o relator", "ts": "2:09:26", "justificativa": "elogia o voto, a comissão de outorga e a PF", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente o relator", "ts": "2:11:05", "confianca": "alta"},
+        {"diretor": "José Aires Amaral Filho", "voto": "acompanha o relator, com sugestão", "ts": "2:11:40", "justificativa": "propõe oficiar a segunda colocada para apresentar documentos de qualificação em oito dias corridos, conforme decisão da comissão de outorga", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "2:13:42", "justificativa": "mensagem ao setor: a agência não admitirá aventureiros nem quem descumpra o edital", "tom": "firme", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.8", "ts": "2:15:00",
+      "processo": "50500.560340/2025-2? (conforme legenda)", "interessado": "Concessionária Autopista Régis Bittencourt (BR-116 SP/PR, 478 km)",
+      "assunto": "Abertura de consulta pública sobre a readaptação e otimização do contrato (solução consensual aprovada pelo TCU, CSC/SecexConsenso) com processo competitivo para novo controlador, e sandbox para receber contribuições aplicáveis a outros casos",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "reequilíbrio contratual", "participação social", "sandbox / inovação"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Acordo prevê alienação de 100% das ações da concessionária em processo competitivo supervisionado pela ANTT e pelo TCU; novo modelo econômico (reequilíbrio por fluxo de caixa marginal), capex de ≈ R$ 7,2 bilhões, opex de mais de R$ 4 bilhões, TIR de 11,41%, crescimento de tráfego de 1,55% ao ano, prazo de 15 anos; transição de 3 anos com verificador independente, vedação de dividendos e de transferência de controle, e possível extinção sem indenização prévia se metas descumpridas em mais de 20%. Contribuições de 13/11 a 12/12/2025, com sessões em Curitiba e São Paulo.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova a consulta pública", "ts": "2:17:35", "justificativa": "etapas observadas; sem óbice jurídico, com parecer da PF após as contribuições", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "2:22:59", "confianca": "media"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "2:23:05", "confianca": "baixa"},
+        {"diretor": "José Aires Amaral Filho", "voto": "acompanha o relator", "ts": "2:23:08", "confianca": "baixa"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "2:23:15", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.3.10", "ts": "2:24:00",
+      "processo": "50500.532391/2025-85 (conforme legenda)", "interessado": "W. A. Fonseca Ltda.",
+      "assunto": "Autorização da linha Porto Nacional/TO a Imperatriz/MA, em cumprimento a liminar em mandado de segurança (ausência de submissão à janela de abertura da Res. 6.033/2023); voto-vista de Lucas Asfor sobre a legalidade das janelas",
+      "tema": ["ônibus (transporte regular, TAR)", "judicializacao", "regulação normativa"],
+      "relator": "Alex Azevedo", "resultado": "aprovado por unanimidade quanto ao dispositivo (deferimento sub judice); razões de decidir do voto-vista por maioria",
+      "resumo_voto": "Apresentado na RDE 254 (20-24/10/2025) com vista de Lucas Asfor. Alex Azevedo (relator, Voto 6/2025) deferiu, mas entendeu que o sistema de janelas contraria o art. 47-B da Lei 10.233/2001, violando a hierarquia normativa. Lucas Asfor deferiu pelo cumprimento da decisão judicial, mas divergiu das razões: as janelas decorrem do processo seletivo público do §2º do art. 47-B e são legítimo ordenamento da entrada de operadores, não limite ao número de autorizações. Maioria aderiu às razões de Lucas.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator: defere sub judice; mantém divergência nas razões (janelas ilegais) e junta declaração de voto", "ts": "2:35:00", "justificativa": "resolução não pode inovar e criar restrição temporal onde a lei diz que não haverá limite; processo seletivo seria só para inviabilidade; contradição lógica: se as janelas fossem legais, o indeferimento seria legal e o mandado de segurança sem fundamento", "tom": "respeitoso", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "voto-vista: defere sub judice; diverge nas razões de decidir (legalidade das janelas)", "ts": "2:25:30", "justificativa": "art. 47-B §2º dá à ANTT a prerrogativa de processo seletivo; janelas organizam a abertura gradual; a resolução está dentro da legalidade e da competência; invoca TCU e STF", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "adere ao voto-vista de Lucas Asfor", "ts": "2:43:14", "justificativa": "preocupação com segurança jurídica e consistência regulatória, precedentes e pareceres; adequação do momento e do formato do debate", "confianca": "alta"},
+        {"diretor": "José Aires Amaral Filho", "voto": "adere às razões de decidir do voto-vista", "ts": "2:47:53", "justificativa": "a Res. 6.033/2023 já passou por STF e instâncias judiciais, que a validaram", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o voto-vista nas razões; dispositivo unânime", "ts": "2:51:00", "justificativa": "revisão da norma deve seguir rito próprio; a vitória é do usuário e do debate", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"itens": "1.2.1 e 1.2.2", "relator": "Felipe Queiroz", "motivo": "sistema rodoviário Rio-São Paulo (Dutra); ajustes considerados oportunos", "ts": "0:35:46"},
+    {"itens": "1.3.5", "processo": "50500.183176/2022-49", "relator": "Lucas Asfor", "motivo": "metodologia de cálculo de insumos da pandemia de COVID-19; melhor exame interno e com os pares", "ts": "0:34:46"},
+    {"itens": "1.3.9", "processo": "50500.439180/2025-47", "relator": "Lucas Asfor", "motivo": "Rota dos Sertões; melhor exame interno e com os pares", "ts": "0:34:46"},
+    {"itens": "1.2.3", "processo": "50500.184406/2024-59", "relator": "Felipe Queiroz", "motivo": "item sigiloso (solicitação de solução consensual da Via Brasil BR-163, Edital 2/2021), julgado em sessão reservada após a transmissão", "ts": "0:36:24"}
+  ],
+  "limites_da_analise": [
+    "Legenda automática: nomes, números de processo e valores (aporte do leilão, TIR, capex, percentuais) sujeitos a erro; marcados conforme legenda ou ?.",
+    "A sessão começa em ~0:32 do vídeo; o conteúdo do item sigiloso 1.2.3 não consta.",
+    "Votos de seguidores (Alex Azevedo, Amaral Filho) têm ts aproximado e confiança baixa/média, pois a legenda raramente separa os falantes; em 1.3.10 o voto de Guilherme Sampaio é inferido da proclamação do resultado.",
+    "A numeração de itens extrapauta (extra-1, extra-2) é nossa; a sessão não os numerou.",
+    "A ordem de leitura dos itens extrapauta no vídeo é: Elovias (1.1.1), BR-381 (1.2.4), BR-262 e sandbox; o ts de início de cada um é aproximado."
+  ]
+}

@@ -1,0 +1,60 @@
+# Itens do tema «sandbox_inovacao» (todos os diretores)
+
+- **RD 994 (2024-10-31)**, 1.2.1 · relator **Guilherme Sampaio** · Abertura de consulta pública sobre a proposta de readequação e otimização do contrato de concessão da BR-101/ES-BA (Eco 101), incluindo minutas de edi → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=VnHLaZxsXeY&t=414s)
+- **RD 994 (2024-10-31)**, 1.2.2 · relator **Guilherme Sampaio** · Termo de referência de ambiente regulatório experimental (sandbox, Resolução 5.999/2022) para processo competitivo de transferência do controle acioná → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=VnHLaZxsXeY&t=866s)
+- **RD 996 (2024-11-28)**, 1.2.1 · relator **Luciano Lourenço** · Abertura de audiência pública sobre a minuta de resolução que aprova o projeto de regulamentação do sistema de livre passagem (free flow) nas rodovias → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=kTU_h6AhIS8&t=3600s)
+- **RD 997 (2024-12-13)**, 1.1.1, 1.1.2, 1.1.4 e 1.1.5 (em bloco) · relator **Rafael Vitale** · Referendos das Deliberações 516, 517, 519 e 520/2024 (5 e 6/12/2024): assinatura do termo de referência de ambiente regulatório experimental (sandbox) → referendadas por unanimidade (4 itens em bloco, art. 68 §2º do Regimento)
+  - votos: Rafael: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=9YqBgdwm15U&t=740s)
+- **RD 997 (2024-12-13)**, 1.2.2 · relator **Guilherme Sampaio** · Sexto termo aditivo ao contrato (Edital 1/2011, BR-101/ES-BA): nova postergação, por 180 dias, do início da vigência do terceiro aditivo (relicitação/ → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=9YqBgdwm15U&t=1721s)
+- **RD 1000 (2025-01-30)**, 1.3.5 · relator **Luciano Lourenço** · Sandbox regulatório: edital para seleção de concessionárias de rodovias federais interessadas em ambiente experimental de inspeção de tráfego com tecn → aprovado por unanimidade, nos termos do voto do relator com o complemento de Felipe Queiro
+  - votos: Luciano: relator; Felipe: acompanha; Guilherme: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=Ej8aJh627Ak&t=1875s)
+- **RD 93 (extraordinária) (2025-07-15)**, 1.1.1 · relator **Guilherme Sampaio** · Abertura de consulta pública sobre a readaptação e otimização do contrato da BR-381 MG/SP (569 km) e, no sandbox regulatório, sobre documentos aplicáv → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=SZtglx45jNw&t=134s)
+- **RD 93 (extraordinária) (2025-07-15)**, 1.1.2 · relator **Guilherme Sampaio** · Termo de referência do ambiente regulatório experimental (Res. 5999/2022) para o processo competitivo de transferência do controle acionário da Autopi → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=SZtglx45jNw&t=481s)
+- **RD 1013 (2025-08-01)**, 1.2.7 · relator **Felipe Queiroz** · Novo termo de referência do ambiente regulatório experimental (sandbox, Res. 5.999/2022) para processo competitivo de eventual transferência de contro → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=mUFBjDvQ9VM&t=3870s)
+- **RD 95 (extraordinária) (2025-09-02)**, 1.1.1 · relator **Guilherme Sampaio** · Aprovação do relatório final da consulta pública 1/2025 e do edital do processo competitivo para a otimização/modernização do contrato de concessão da → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Amaral: acompanha · [vídeo](https://www.youtube.com/watch?v=_edCUoWtVP0&t=460s)
+- **RD 1020 (2025-11-05)**, extra-2 · relator **Felipe Queiroz** · Extrapauta: edital de sandbox regulatório para o projeto-piloto Corredor Logístico Sustentável de transporte intermodal (segurança viária, gestão ambi → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: outro; Amaral: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=KsteuYm_RoM&t=3655s)
+- **RD 1020 (2025-11-05)**, 1.3.8 · relator **Lucas Asfor** · Abertura de consulta pública sobre a readaptação e otimização do contrato (solução consensual aprovada pelo TCU, CSC/SecexConsenso) com processo compe → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Amaral: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=KsteuYm_RoM&t=8100s)
+- **RD 96 (extraordinária) (2025-11-12)**, 1.1.1 · relator **Felipe Queiroz** · Edital de seleção de concessionárias de rodovias federais para ambiente regulatório experimental (sandbox) de adesão voluntária ao Programa de Sustent → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Amaral: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=Hs3z2jog8Uo&t=1400s)
+- **RD 1022 (2025-12-04)**, 1.3.3 · relator **Lucas Asfor** · Termo de referência do ambiente regulatório experimental (sandbox, Res. 5999/2022) para processo competitivo de transferência do controle acionário (B → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Severino: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=RtFPynve2ew&t=4980s)
+- **RD 1023 (2025-12-17)**, 1.2.2 · relator **Felipe Queiroz** · Termo de referência do sandbox regulatório do projeto Corredor Logístico Sustentável de Transporte (Conexão Litoral) na BR-153/277/369 (PR), por manif → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Severino: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=x8QgM4O8I_Y&t=4670s)
+- **RD 1023 (2025-12-17)**, extrapauta-2 · relator **Felipe Queiroz** · Prorrogação da autorização temporária do sandbox regulatório de pedágio em fluxo livre (free flow) na BR-116/RJ (Rio de Janeiro ao entroncamento com a → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Severino: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=x8QgM4O8I_Y&t=6415s)
+- **RD 1027 (2026-02-27)**, 1.2.1 · relator **Felipe Queiroz** · 10º termo aditivo para disponibilizar conectividade 4G ao longo da BR-050 (GO/MG) → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=LEEd7sNRbY4&t=2070s)
+- **RD 1029 (2026-03-26)**, 1.1.1 · relator **Felipe Queiroz** · Aprovação do relatório final da AP 10/2024 e da resolução do sistema de livre passagem (free flow) nas rodovias federais concedidas, vigência em 120 d → aprovado por unanimidade
+  - votos: Felipe: relator; Alex: acompanha; Lucas: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=Lxo2sCqePJk&t=4170s)
+- **RD 99ª Extraordinária (2026-04-13)**, 1.2.1 · relator **Alex Azevedo** · Termo de referência do ambiente regulatório experimental (sandbox, Res. 5999/2022) para o processo competitivo de transferência de controle da concess → aprovado por unanimidade
+  - votos: Alex: relator; Felipe: acompanha; Lucas: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=J2D2nXHknIg&t=2751s)
+- **RD 1033 (2026-05-21)**, 1.3.3 · relator **Lucas Asfor** · Dispensa de AIR e audiência pública para aperfeiçoar a Resolução 5999/2022 (sandbox regulatório) → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Alessandro: acompanha · [vídeo](https://www.youtube.com/watch?v=R_zbvJ8TXjs&t=4832s)
+- **RD 1034 (2026-06-02)**, 1.2.2 · relator **Felipe Queiroz** · 19º termo aditivo (3º sobre o tema): encerra o sandbox do primeiro free flow do Brasil (3 pórticos na BR-101 RJ/SP, Mangaratiba–Ubatuba, em operação d → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=jmj1jyUxsuA&t=853s)
+- **RD 1036 (2026-07-02)**, extra-PSI-nivel1 · relator **Felipe Queiroz** · Resultado preliminar do Nível 1 do PSI (sandbox de sustentabilidade): edital 3/2025 (rodovias) e 4/2025 (ferrovias); incluídos extra-pauta e relatados → votação não captada na legenda (lacuna); resultado homologado depois (Deliberações 254/202
+  - votos: Felipe: relator · [vídeo](https://www.youtube.com/watch?v=gELCys7Z9So&t=1249s)
+- **RD 1036 (2026-07-02)**, 1.1.2 · relator **Guilherme Sampaio** · Política de Inovação da ANTT (resolução de caráter interno; consulta interna 11/2025: 57 contribuições) → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Alessandro: acompanha · [vídeo](https://www.youtube.com/watch?v=gELCys7Z9So&t=1393s)
+- **RD 1040 (2026-08-27)**, 1.2.1 · relator **Felipe Queiroz** · Edital complementar de admissão contínua ao Nível 1 do Programa de Sustentabilidade para Infraestrutura (PSI) — sandbox regulatório (rodovias e ferrov → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=8p1X1Nfk9Cs&t=2509s)
+- **RD 1040 (2026-08-27)**, 1.2.4 · relator **Felipe Queiroz** · Abertura de audiência pública sobre a minuta de edital de sandbox regulatório de interoperabilidade do sistema de livre passagem (free flow) nas conce → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=8p1X1Nfk9Cs&t=3205s)
+- **RD 101ª Extraordinária (2026-09-01)**, 1.1.1 · relator **Guilherme Sampaio** · Abertura de audiência pública, realizada concomitantemente à vigência do edital, sobre as minutas do edital do processo competitivo, termo aditivo (PE → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=Q8UGEXRy5vk&t=1307s)
+- **RD 101ª Extraordinária (2026-09-01)**, 1.1.2 · relator **Guilherme Sampaio** · Edital do processo competitivo 3/2026 para alienação de 100% das ações da Concebra (a ementa lida diz 5%, erro de legenda), Rota do Pequi — leilão pre → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=Q8UGEXRy5vk&t=1869s)
+- **RD 1041 (2026-09-10)**, 1.1.3 · relator **Guilherme Sampaio** · Termo de referência do ambiente regulatório experimental (sandbox, Res. 5999/2022) para processo competitivo de transferência do controle acionário da → aprovado por unanimidade
+  - votos: Felipe: acompanha · [vídeo](https://www.youtube.com/watch?v=DRpLm1FOHCA&t=698s)
+- **RD 1044 (2026-10-22)**, 1.1.1+1.1.2 · relator **Felipe Queiroz** · Homologação de resultados do PSI (sandbox de sustentabilidade): rodovias (edital 3/2025: resultado final complementar do Nível 1 e preliminar dos Níve → aprovados por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=5442s)

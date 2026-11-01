@@ -1,0 +1,50 @@
+# Itens do tema «sustentabilidade» (todos os diretores)
+
+- **RD 983 (2024-05-29)**, 1.2.1 · relator **Felipe Queiroz** · Aprovação do relatório de AIR e abertura de participação e controle social (audiência pública) sobre a minuta de resolução do Plano de Sustentabilidad → aprovado por unanimidade
+  - votos: Felipe: relator; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=eeRiLhCPx2Q&t=461s)
+- **RD 985 (2024-06-27)**, 1.3.1 · relator **Guilherme Sampaio** · Definição dos temas prioritários para destinação dos recursos de desenvolvimento tecnológico (RDT) e para preservação da memória ferroviária (RPMF), p → aprovado por unanimidade
+  - votos: Guilherme: revisor_acompanha; Felipe: revisor_acompanha; Luciano: revisor_acompanha; Lucas: revisor_acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=CEQTjLWoMYk&t=1513s)
+- **RD 83 (extraordinária) (2024-07-22)**, 1.1.2 · relator **Guilherme Sampaio** · Aprovação do edital de concessão da BR-262/MG (Rota do Zebu, 438 km, Betim a Uberaba) e sobrestamento da publicação do projeto Rota Sertaneja (BR-153/ → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=gcVJwfeNn2M&t=612s)
+- **RD 992 (2024-10-03)**, 1.4.1 · relator **Felipe Queiroz** · Reabertura da Audiência Pública 4/2024 (proposta de resolução do plano de sustentabilidade / agenda ESG nas concessões de rodovias e ferrovias), com c → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=DgSc5QHQ8V8&t=2000s)
+- **RD 994 (2024-10-31)**, 1.3.2 · relator **Luciano Lourenço** · Relatório final da Audiência Pública 12/2023 e resolução da quarta norma do Regulamento das Concessões Rodoviárias (RCR 4): fiscalização, infrações, p → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=VnHLaZxsXeY&t=4813s)
+- **RD 994 (2024-10-31)**, extrapauta · relator **Felipe Queiroz** · Homologação do resultado do leilão do Edital 2/2024 (Rota dos Cristais, BR-040 de Cristalina/GO a Belo Horizonte/MG) → aprovado por unanimidade — homologado
+  - votos: Felipe: relator; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=VnHLaZxsXeY&t=7306s)
+- **RD 995 (2024-11-14)**, 1.1.2 · relator **Rafael Vitale** · Plano de Diversidade, Equidade e Inclusão da ANTT → aprovado por unanimidade
+  - votos: Rafael: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=6IYxm2zAFbo&t=1240s)
+- **RD 996 (2024-11-28)**, 1.3.1 · relator **Felipe Queiroz** · Relatório final da audiência pública 4/2024 e minuta de resolução do Programa de Sustentabilidade para rodovias e ferrovias reguladas pela ANTT, regul → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=kTU_h6AhIS8&t=5492s)
+- **RD 998 (2024-12-19)**, 1.3.1 · relator **Felipe Queiroz** · Relatório final do procedimento de negociação e solução de controvérsias (COMPOR) nos termos da IN Conjunta 1/2023: termo de consenso sobre a substitu → aprovado por unanimidade — termo de consenso aprovado
+  - votos: Felipe: relator; Luciano: acompanha; Guilherme: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=3KyK_89ogrM&t=1983s)
+- **RD 999 (2025-01-16)**, 1.1.2 · relator **Rafael Vitale** · Acordo de cooperação técnica para ampliar a inserção profissional de pessoas privadas de liberdade e egressas do sistema prisional no setor de infraes → aprovado por unanimidade
+  - votos: Rafael: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=tSpC-8P81fI&t=630s)
+- **RD 1000 (2025-01-30)**, 1.3.5 · relator **Luciano Lourenço** · Sandbox regulatório: edital para seleção de concessionárias de rodovias federais interessadas em ambiente experimental de inspeção de tráfego com tecn → aprovado por unanimidade, nos termos do voto do relator com o complemento de Felipe Queiro
+  - votos: Luciano: relator; Felipe: acompanha; Guilherme: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=Ej8aJh627Ak&t=1875s)
+- **RD 1007 (2025-05-08)**, 1.1.2 · relator **Guilherme Sampaio** · Atualização das metas e ações do Plano Diretor de Logística Sustentável (PLS) da ANTT, vigência 2024–2027 → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=-Eo2vtdI2aM&t=399s)
+- **RD 1012 (2025-07-17)**, 1.2.1 · relator **Felipe Queiroz** · Relatório de AIR versão 2.0 do projeto ESG Cargas (ambiental, social e governança no transporte rodoviário de cargas) e abertura de audiência pública  → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=n7-Sjejnzz0&t=887s)
+- **RD 1012 (2025-07-17)**, 1.2.3 e 1.2.4 (em bloco) · relator **Felipe Queiroz** · Regimentos internos dos Comitês de Desenvolvimento de Sustentabilidade (CDS) de Ferrovias e de Rodovias, instituídos pela Resolução 6.057/2024 → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=n7-Sjejnzz0&t=1808s)
+- **RD 1020 (2025-11-05)**, extra-2 · relator **Felipe Queiroz** · Extrapauta: edital de sandbox regulatório para o projeto-piloto Corredor Logístico Sustentável de transporte intermodal (segurança viária, gestão ambi → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: outro; Amaral: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=KsteuYm_RoM&t=3655s)
+- **RD 96 (extraordinária) (2025-11-12)**, 1.1.1 · relator **Felipe Queiroz** · Edital de seleção de concessionárias de rodovias federais para ambiente regulatório experimental (sandbox) de adesão voluntária ao Programa de Sustent → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Amaral: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=Hs3z2jog8Uo&t=1400s)
+- **RD 1023 (2025-12-17)**, 1.1.4 · relator **Guilherme Sampaio** · Atualização dos estudos técnicos da Ferrogrão (EF-170, Sinop/MT a Itaituba/PA) após a ADI 6553 e envio ao TCU → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Severino: acompanha · [vídeo](https://www.youtube.com/watch?v=x8QgM4O8I_Y&t=3186s)
+- **RD 1023 (2025-12-17)**, 1.2.2 · relator **Felipe Queiroz** · Termo de referência do sandbox regulatório do projeto Corredor Logístico Sustentável de Transporte (Conexão Litoral) na BR-153/277/369 (PR), por manif → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Severino: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=x8QgM4O8I_Y&t=4670s)
+- **RD 1025 (2026-01-29)**, 1.2.1 · relator **Lucas Asfor** · Instrução normativa que institui a política e os instrumentos de gestão de crises (incidentes que comprometem a integridade ou disponibilidade dos ser → aprovado por unanimidade (voto-vista com ajuste fino)
+  - votos: Felipe: revisor_acompanha; Lucas: revisor_acompanha; Alex: acompanha; Severino: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=d2BF6usx0p8&t=5906s)
+- **RD 1031 (2026-04-23)**, 1.1.1 · relator **Felipe Queiroz** · Reabertura da Audiência Pública 5/2025 (minuta de resolução do Selo ASG Cargas — ambiental, social e governança no transporte rodoviário de cargas), a → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Alessandro: acompanha · [vídeo](https://www.youtube.com/watch?v=Zyxhofbj7g0&t=1716s)
+- **RD 1032 (2026-05-07)**, 1.2.2 · relator **Alex Azevedo** · Audiência pública para atualizar a Res. 5998/2022 (transporte rodoviário de produtos perigosos) à 23ª edição do Orange Book da ONU → aprovado por unanimidade
+  - votos: Alex: relator; Lucas: acompanha; Alessandro: acompanha; Felipe: acompanha · [vídeo](https://www.youtube.com/watch?v=-dXOY2M37G4&t=4508s)
+- **RD 1039 (2026-08-14)**, 1.2.1 · relator **Felipe Queiroz** · Relatório final da AP 5/2025 (24/07–06/09/2025; reaberta de 04–18/05/2026) e resolução que institui o Selo ESG Cargas para o transporte rodoviário rem → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=u4SXNQPR-XQ&t=1951s)
+- **RD 1040 (2026-08-27)**, 1.2.1 · relator **Felipe Queiroz** · Edital complementar de admissão contínua ao Nível 1 do Programa de Sustentabilidade para Infraestrutura (PSI) — sandbox regulatório (rodovias e ferrov → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=8p1X1Nfk9Cs&t=2509s)
+- **RD 1044 (2026-10-22)**, 1.3.1 · relator **Alex Azevedo** · Acordo de cooperação técnica ANTT–Infra para o programa Melhor Ar (Portaria MT 192/2025): compartilhar dados do RNTRC, integrar ao ONTL e produzir ind → aprovado por unanimidade
+  - votos: Alex: relator; Felipe: acompanha; Lucas: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=7902s)

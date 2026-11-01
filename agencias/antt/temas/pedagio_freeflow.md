@@ -1,0 +1,104 @@
+# Itens do tema «pedagio_freeflow» (todos os diretores)
+
+- **RD 84 (extraordinária) (2024-08-29)**, 1.1.1 · relator **Lucas Asfor** · Aprovação do edital de concessão do lote CN1 Rota Verde (BR-060/452/GO, Goiânia a Rio Verde e Itumbiara, com Contorno Sul de Goiânia), 452,7 km → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=sBRrfKA1-sk&t=904s)
+- **RD 990 (2024-09-05)**, 1.1.2 · relator **Luciano Lourenço** · Aprovação do edital de concessão dos lotes 3 (BR-369, 373, 376; PR-090, 170, 323, 445) e 6 (BR-163, 277; PR-158, 180, 182, 280, 483) das Rodovias Inte → aprovado por unanimidade
+  - votos: Luciano: relator; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=m6tfBRRgsEI&t=2827s)
+- **RD 990 (2024-09-05)**, 1.1.3 · relator **Luciano Lourenço** · 14ª revisão ordinária, 15ª e 16ª revisões extraordinárias e reajuste da tarifa básica de pedágio (TBP) do contrato do Edital 7/2007; termo aditivo com → aprovado por unanimidade
+  - votos: Luciano: relator; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=m6tfBRRgsEI&t=3689s)
+- **RD 994 (2024-10-31)**, 1.4.1 · relator **Lucas Asfor** · Aprovação do edital de concessão do lote CN5 Rota Agro Norte (BR-364/RO, 686,7 km) → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=VnHLaZxsXeY&t=3520s)
+- **RD 996 (2024-11-28)**, 1.2.1 · relator **Luciano Lourenço** · Abertura de audiência pública sobre a minuta de resolução que aprova o projeto de regulamentação do sistema de livre passagem (free flow) nas rodovias → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=kTU_h6AhIS8&t=3600s)
+- **RD 997 (2024-12-13)**, 1.3.3 · relator **Felipe Queiroz** · Oitavo termo aditivo ao contrato (Edital 1/2021, BR-153/414/080 TO/GO): aprimoramento do acompanhamento e fiscalização do Desconto de Usuário Frequent → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=9YqBgdwm15U&t=1975s)
+- **RD 998 (2024-12-19)**, 1.2.2 · relator **Luciano Lourenço** · 16ª revisão extraordinária, 16ª revisão ordinária, 17ª revisão extraordinária e reajuste da tarifa básica de pedágio (TBP); termo aditivo com obras de → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=3KyK_89ogrM&t=1218s)
+- **RD 1001 (2025-02-13)**, 1.2.6 · relator **Luciano Lourenço** · Minuta de deliberação e termo aditivo referencial para a migração opcional da cobrança de pedágio ao free flow nos novos contratos, substituindo praça → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=5q1TOuEcAD8&t=4860s)
+- **RD 90ª Extraordinária (2025-03 (aprox.; a confirmar))**, unico · relator **None** · Reajuste da tarifa básica de pedágio e início da cobrança nas praças existentes P1 Florestal, P3, P4 Campos Altos e P6 Perdizes (BR-262/MG, trecho ent → aprovado por unanimidade
+  - votos: Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=dIpQycne7g0&t=0s)
+- **RD 1004 (2025-03-27)**, 1.1.5 · relator **Lucas Asfor** · Aprovação do edital de concessão do lote CN2 Rota Agro-Norte: BR-364 entre Goiás e Mato Grosso, cerca de 409 km → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: outro; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=mayS8ij1N3w&t=1182s)
+- **RD 92 (extraordinária) (2025-04-07)**, 1 · relator **Lucas Asfor** · Abertura de audiência pública para as minutas de edital e contrato, programa de exploração da rodovia e estudos de viabilidade da concessão do lote BR → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=TPzfL2cbboc&t=60s)
+- **RD 1009 (2025-06-05)**, 1.2.3 · relator **Lucas Asfor** · 20ª revisão extraordinária da tarifa básica de pedágio (BR-116/376/PR e BR-101/SC, Curitiba–Florianópolis) → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=XmIUbYLQwhA&t=1817s)
+- **RD 94 (extraordinária) (2025-07-24)**, 1.1.1 · relator **Guilherme Sampaio** · Edital de concessão do sistema rodoviário BR-153/262 (GO/MG), Rota Sertaneja, 530 km (trechos hoje sob a Concebra, em relicitação) → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=HlrFCcdzCgI&t=50s)
+- **RD 1013 (2025-08-01)**, extrapauta 2 · relator **Felipe Queiroz** · Relatório final da Consulta Pública 2/2024 e publicação do edital do processo competitivo para readaptação e otimização do contrato da BR-101/RJ → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=mUFBjDvQ9VM&t=4527s)
+- **RD 1014 (2025-08-15)**, 1.3.2 · relator **Felipe Queiroz** · Reabertura da Audiência Pública 10/2024 para colher contribuições sobre a minuta de resolução que regulamenta a implantação dos sistemas de livre pass → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=i65Q4DVJA6s&t=781s)
+- **RD 1015 (2025-08-29)**, 1.2.5 · relator **Lucas Asfor** · Relatório final da audiência pública 2/2025 sobre minutas de edital e contrato, PER e EVTEA da concessão da BR-324 e BR-116 na Bahia («Rota 2 de Julho → aprovado por unanimidade — com ajustes incorporados (declaração de voto de Felipe Queiroz)
+  - votos: Lucas: relator; Felipe: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=AO9wlMZ_8p8&t=2070s)
+- **RD 1019 (2025-10-23)**, 1.2.4 · relator **Alex Azevedo** · Pedido de cancelamento da habilitação como fornecedora de vale-pedágio obrigatório; voto-vista de Felipe Queiroz → aprovado por unanimidade — cancelamento deferido
+  - votos: Felipe: revisor_acompanha; Lucas: revisor_acompanha; Amaral: revisor_acompanha; Alex: revisor_acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=CezCZuXfe5A&t=3657s)
+- **RD 1020 (2025-11-05)**, 1.1.1 · relator **Guilherme Sampaio** · Referendo da Deliberação 385/2025 que autorizou o início da cobrança de pedágio nas praças P1 (Xerém), P2 (Areal) e P3 (Simão Pereira) → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Amaral: acompanha · [vídeo](https://www.youtube.com/watch?v=KsteuYm_RoM&t=2184s)
+- **RD 1020 (2025-11-05)**, 1.2.4 · relator **Felipe Queiroz** · Reajuste da tarifa básica de pedágio e início da cobrança por pedágio eletrônico em livre passagem (free flow) nas praças P3 (Jaguaraçu), P4 (Belo Ori → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Amaral: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=KsteuYm_RoM&t=2584s)
+- **RD 1020 (2025-11-05)**, extra-1 · relator **Felipe Queiroz** · Extrapauta: reajuste da tarifa básica de pedágio e início da cobrança em free flow nas praças P2 (Nova Serrana) e P5 (Araxá), BR-262/MG → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Lucas: acompanha; Alex: acompanha; Amaral: acompanha · [vídeo](https://www.youtube.com/watch?v=KsteuYm_RoM&t=3237s)
+- **RD 1021 (2025-11-19)**, 1.3.3 · relator **Amaral Filho** · Recurso contra a Deliberação 272/2025 (15/8/2025), que reabriu por 15 dias a Audiência Pública 10/2024 sobre a minuta de resolução do sistema de livre → aprovado por unanimidade — recurso conhecido e desprovido
+  - votos: Amaral: relator; Felipe: acompanha; Alex: acompanha; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=EWukUD72NFw&t=9353s)
+- **RD 97 (extraordinária) (2025-11-25)**, 1.2.1 · relator **Felipe Queiroz** · 15º termo aditivo ao contrato de concessão (edital 3/2021, BR-116/SP–RJ, Dutra): altera o anexo 14 do PER (regras de gerenciamento de tráfego por pedá → aprovado por unanimidade (com complemento de voto de Alex Azevedo)
+  - votos: Felipe: relator; Alex: acompanha; Lucas: acompanha; Severino: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=jtCNyoMzyTc&t=1410s)
+- **RD 97 (extraordinária) (2025-11-25)**, 1.2.2 · relator **Felipe Queiroz** · Autorização para início da cobrança automática de pedágio free flow (fase 2) na BR-116/SP, km 205 ao km 230 (cerca de 25 km; segmentos SP1 a SP3 e RJ1 → aprovado por unanimidade (votado em bloco com 1.2.1)
+  - votos: Felipe: relator; Alex: acompanha; Lucas: acompanha; Severino: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=jtCNyoMzyTc&t=1410s)
+- **RD 1022 (2025-12-04)**, 1.3.4 · relator **Lucas Asfor** · Recurso contra a Deliberação 320/2025, que autorizou a publicação do edital do processo competitivo 4/2025 (alienação de 100% das ações da Autopista F → aprovado por unanimidade — recurso conhecido e desprovido
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Severino: outro; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=RtFPynve2ew&t=5380s)
+- **RD 1023 (2025-12-17)**, extrapauta-1 · relator **Felipe Queiroz** · Homologação do resultado do processo competitivo 3/2025 (alienação de 100% das ações da Autopista Fluminense, BR-101/RJ) → aprovado por unanimidade — homologação condicionada
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Severino: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=x8QgM4O8I_Y&t=6100s)
+- **RD 1023 (2025-12-17)**, extrapauta-2 · relator **Felipe Queiroz** · Prorrogação da autorização temporária do sandbox regulatório de pedágio em fluxo livre (free flow) na BR-116/RJ (Rio de Janeiro ao entroncamento com a → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Severino: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=x8QgM4O8I_Y&t=6415s)
+- **RD 1023 (2025-12-17)**, 1.5.1 · relator **Severino Medeiros** · Segundo termo aditivo ao contrato de concessão (Edital 5/2024): substituir a obrigação de construir três novas praças de pedágio (P1, P8, P9) por pórt → aprovado por unanimidade
+  - votos: Severino: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=x8QgM4O8I_Y&t=9267s)
+- **RD 1023 (2025-12-17)**, 1.5.2 · relator **Severino Medeiros** · Décimo termo aditivo ao contrato (Edital 4/2023): incluir no PER a obrigação de implantar, manter e operar 75 novos equipamentos de controle de veloci → aprovado por unanimidade
+  - votos: Severino: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=x8QgM4O8I_Y&t=9664s)
+- **RD 98ª Extraordinária (2025-12-30)**, 1.1.1 · relator **Lucas Asfor** · Reajuste da tarifa básica de pedágio e início da cobrança em free flow nas praças P1 a P7 da BR-364/RO (edital 6/2024) → aprovado por unanimidade
+  - votos: Lucas: relator; Alex: acompanha; Felipe: acompanha; Severino: outro · [vídeo](https://www.youtube.com/watch?v=AgCBr2p2u7I&t=2158s)
+- **RD 1024 (2026-01-19)**, 1.2.4 · relator **Lucas Asfor** · Primeira revisão extraordinária da TBP, cronograma de investimentos e coeficientes (K, CAA) e descontos de reequilíbrio → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha · [vídeo](https://www.youtube.com/watch?v=YRL6gBTlIMU&t=2880s)
+- **RD 1025 (2026-01-29)**, 1.4.1 · relator **Severino Medeiros** · 5º termo aditivo para aprimorar o acompanhamento e a fiscalização do Desconto de Usuário Frequente (DUF), com glosa mensal de diferenças a favor do po → aprovado por unanimidade (com recomendação de relatório trimestral à diretoria)
+  - votos: Severino: relator; Felipe: acompanha; Alex: acompanha; Guilherme: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=d2BF6usx0p8&t=10680s)
+- **RD 1026 (2026-02-12)**, 1.2.1 · relator **Felipe Queiroz** · Reajuste da TBP e início da cobrança em free flow nas praças P1 Lindoeste, P8 Ampére e P9 Pato Branco → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Severino: acompanha; Alex: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=5dRdxywub1g&t=3873s)
+- **RD 1027 (2026-02-27)**, 1.4.4 · relator **Alex Azevedo** · Audiência pública da concessão Rota Portuária do Sul (BR-116/RS entre Camaquã e Jaguarão e BR-392/RS; ≈ 459,6 km), sexta etapa de concessões → aprovado por unanimidade
+  - votos: Alex: relator; Felipe: acompanha; Lucas: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=LEEd7sNRbY4&t=7391s)
+- **RD 1028 (2026-03-12)**, 1.1.1 · relator **Guilherme Sampaio** · Reajuste da TBP e início da cobrança de pedágio nas praças P1 Piracanjuba, P2 Itumbiara, P3 Prata, P4 Fronteira e P5 Campo Florido (BR-153/262, GO/MG) → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: outro; Lucas: acompanha; Alex: acompanha; Alessandro: acompanha · [vídeo](https://www.youtube.com/watch?v=vCk-kiheM3s&t=1407s)
+- **RD 1029 (2026-03-26)**, 1.1.1 · relator **Felipe Queiroz** · Aprovação do relatório final da AP 10/2024 e da resolução do sistema de livre passagem (free flow) nas rodovias federais concedidas, vigência em 120 d → aprovado por unanimidade
+  - votos: Felipe: relator; Alex: acompanha; Lucas: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=Lxo2sCqePJk&t=4170s)
+- **RD 1031 (2026-04-23)**, 1.2.4 · relator **Lucas Asfor** · Reajuste da tarifa básica de pedágio e início da cobrança em free flow nas praças P5 Presidente Castelo Branco, P6 Mandaguari, P7 Arapongas e P8 Jatai → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alessandro: acompanha; Alex: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=Zyxhofbj7g0&t=4558s)
+- **RD 100ª Extraordinária (2026-05)**, 1.2.1 · relator **Lucas Asfor** · Reajuste da TBP e início da cobrança em free flow nas sete praças (P1 a P7) da BR-060/452 em Goiás (edital 4/2024) → aprovado por unanimidade
+  - votos: Lucas: relator; Alessandro: acompanha; Felipe: acompanha · [vídeo](https://www.youtube.com/watch?v=9Dph55ygnJE&t=1350s)
+- **RD 100ª Extraordinária (2026-05)**, 1.2.2 · relator **Lucas Asfor** · Reajuste da TBP e início da cobrança nas praças P3 Corbélia, P4 Mamborê (BR-369/PR) e P5 Floresta (PR-317) (edital 3/2025) → aprovado por unanimidade
+  - votos: Lucas: relator; Alessandro: acompanha; Felipe: acompanha · [vídeo](https://www.youtube.com/watch?v=9Dph55ygnJE&t=1920s)
+- **RD 1032 (2026-05-07)**, 1.1.2 · relator **Felipe Queiroz** · Reajuste da tarifa básica de pedágio e aplicação do primeiro degrau tarifário (D1) na BR-381 (8 praças, P1 a P8) → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Alessandro: acompanha · [vídeo](https://www.youtube.com/watch?v=-dXOY2M37G4&t=2765s)
+- **RD 1032 (2026-05-07)**, 1.2.1 · relator **Alex Azevedo** · Audiência pública para a concessão dos lotes 1 e 3 das rodovias de Santa Catarina (BR-153, 282, 470/480; 515,6 km e 166 km), sexta etapa de concessões → aprovado por unanimidade
+  - votos: Alex: relator; Lucas: acompanha; Alessandro: acompanha; Felipe: acompanha · [vídeo](https://www.youtube.com/watch?v=-dXOY2M37G4&t=3633s)
+- **RD 1033 (2026-05-21)**, 1.2.1 · relator **Felipe Queiroz** · Recebimento dos trabalhos iniciais com ressalvas e autorização para início da cobrança de pedágio nas novas praças P-02 Mauá da Serra e P-07 Londrina  → aprovado por unanimidade (com ressalvas e plano de ação)
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=R_zbvJ8TXjs&t=2560s)
+- **RD 1034 (2026-06-02)**, 1.2.2 · relator **Felipe Queiroz** · 19º termo aditivo (3º sobre o tema): encerra o sandbox do primeiro free flow do Brasil (3 pórticos na BR-101 RJ/SP, Mangaratiba–Ubatuba, em operação d → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=jmj1jyUxsuA&t=853s)
+- **RD 1035 (2026-06-18)**, 1.1.2 · relator **Alessandro Baumgarten** · 6ª revisão ordinária e reajuste da tarifa básica de pedágio; reconhecimento da excepcionalidade das enchentes do RS (maio/2024) e tratamento diferenci → aprovado por unanimidade — tarifa da categoria 1 de R$ 5,50 para R$ 6,60 nas praças P1–P7
+  - votos: Felipe: revisor_acompanha; Alessandro: relator; Alex: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=8J6vHk_yKSg&t=2538s)
+- **RD 1035 (2026-06-18)**, extra-pauta-RotaAgro · relator **Felipe Queiroz** · 1º termo aditivo: substituir a obrigação de construir praças de pedágio físicas pela implantação de pedágio eletrônico (free flow) nas 5 praças do PER → aprovado por unanimidade, com condicionante do relator
+  - votos: Felipe: relator; Alex: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=8J6vHk_yKSg&t=4080s)
+- **RD 1038 (2026-07-30)**, 1.2.1 · relator **Alex Azevedo** · 13ª revisão extraordinária da tarifa básica de pedágio: quatro eventos — elevador no posto da PRF de Araguari (ordem judicial), desapropriações (aprov → aprovado por unanimidade
+  - votos: Alex: relator; Felipe: acompanha; Lucas: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=ZBxIyiomges&t=2191s)
+- **RD 1040 (2026-08-27)**, 1.2.4 · relator **Felipe Queiroz** · Abertura de audiência pública sobre a minuta de edital de sandbox regulatório de interoperabilidade do sistema de livre passagem (free flow) nas conce → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=8p1X1Nfk9Cs&t=3205s)
+- **RD 1040 (2026-08-27)**, 1.3.1 · relator **Lucas Asfor** · Reajuste da tarifa básica de pedágio (IRT 1,10550 = +10,55%) e início da cobrança em sistema eletrônico de livre passagem (free flow) após recebimento → aprovado por unanimidade
+  - votos: Lucas: relator; Alex: acompanha; Felipe: acompanha; Marcelo: nao_captado · [vídeo](https://www.youtube.com/watch?v=8p1X1Nfk9Cs&t=4020s)
+- **RD 102ª Extraordinária (2026-09-03)**, 1.1.1 · relator **Felipe Queiroz** · 1ª revisão extraordinária da tarifa básica de pedágio para recompor o equilíbrio econômico-financeiro: 41 controladores de velocidade no tronco, 12 na → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=J5gkP2cLOm8&t=1788s)
+- **RD 102ª Extraordinária (2026-09-03)**, 1.2.1 · relator **Lucas Asfor** · Edital de concessão da BR-116/324 (BA) — Rota 2 de Julho, 653 km (Salvador–Feira de Santana–Vitória da Conquista–divisa MG) → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=J5gkP2cLOm8&t=2486s)
+- **RD 102ª Extraordinária (2026-09-03)**, 1.3.1 · relator **Alex Azevedo** · Relatório final da AP 4/2026 e proposição ao Ministério dos Transportes do plano de outorga da Rota Portuária Sul (BR-116/392, RS; 459 km → 465 km com → aprovado por unanimidade
+  - votos: Alex: relator; Felipe: acompanha; Lucas: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=J5gkP2cLOm8&t=3469s)
+- **RD 1044 (2026-10-22)**, 1.3.2 · relator **Alex Azevedo** · 2º termo aditivo: substituir a obrigação da praça de pedágio P3A (km 3+150, Comendador Levy Gasparian/RJ) por pórtico eletrônico free flow, deslocando → aprovado por unanimidade
+  - votos: Alex: relator; Felipe: acompanha; Marcelo: acompanha; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=8664s)

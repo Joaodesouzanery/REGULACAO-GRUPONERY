@@ -1,0 +1,122 @@
+{
+  "meta": {"video_id": "RtFPynve2ew", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (a transmissão perdeu os primeiros ~40 min por falha de conexão; a sessão começa em ~0:40); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1022", "data": "2025-12-04", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alex Azevedo", "Severino Medeiros"],
+    "ausentes": [],
+    "observacoes": ["Encerrada às 16h53 de 04/12/2025.", "7 itens deliberados, todos unânimes; 2 itens retirados de pauta (1.1.2 e 1.2.2).", "Primeiro voto como relator em sessão pública de Severino Medeiros (item 1.4.1).", "Nos itens 1.2.1 e 1.3.2 houve voto-vista de Lucas Asfor, tratado pelo relator como complementar e convergente (aperfeiçoando a modulação e o escopo do estudo).", "No encerramento: Lucas e Guilherme comentam a LDO que veda bloqueio e contingenciamento do orçamento das agências reguladoras (bloqueios de cerca de 34% no ano), com agradecimentos ao presidente do Senado; despedida da secretária-geral Lilian, que passa a chefiar a Superintendência de Gestão Estratégica (segunda superintendente mulher); Felipe cita o 12º leilão/processo competitivo do ano em 11/12."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:43:57",
+      "processo": "(parcial) 01032.040998", "interessado": "Aviação Mimo Ltda. (fretamento)",
+      "assunto": "Referendo da Deliberação 443/2025, que anulou a Deliberação 223/2023 e restabeleceu a vigência do termo de autorização de fretamento (TAF), em cumprimento de decisão judicial",
+      "tema": ["ônibus (fretamento)", "judicializacao", "fiscalização e sanções"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Decisão judicial de cumprimento imediato anulou a cassação (mantida em recurso) e a declaração de inidoneidade; diante da urgência, a Diretoria-Geral publicou ad referendum a Deliberação 443 em 17/11/2025.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, referenda", "ts": "0:43:57", "justificativa": "cumprimento de ordem judicial com urgência", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "0:46:49", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:46:53", "confianca": "media"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator (resposta não captada)", "ts": "0:46:58", "confianca": "baixa"},
+        {"diretor": "Severino Medeiros", "voto": "acompanha o relator (resposta não captada)", "ts": "0:47:02", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:47:13",
+      "processo": "(parcial) 50500.171451", "interessado": "Superintendência de Serviços de Transporte Rodoviário de Passageiros (SUPAS)",
+      "assunto": "Revogação das Súmulas ANTT 4 e 5, de 16/06/2020 (conversão de decisões judiciais em autorizações administrativas para o transporte interestadual de passageiros), com modulação de efeitos",
+      "tema": ["ônibus (transporte regular, TAR)", "judicializacao", "regulação normativa"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — súmulas revogadas, com modulação proposta no voto-vista de Lucas Asfor",
+      "resumo_voto": "Apresentado na RD 1015 e objeto de vista coletiva por causa da chegada de dois novos diretores; Felipe relê o voto. Com a Lei 14.298/2022 e a Res. 6033/2023 (art. 47-B da Lei 10.233: sem limite de autorizações, salvo inviabilidade técnica, operacional e econômica), a inclusão de operador por decisão judicial rompe a premissa do marco regulatório e as autorizações seguem sub judice. Propõe revogar as súmulas, mantendo os efeitos para requerimentos autorizados durante a vigência. Lucas, em voto-vista, acompanha a revogação e propõe: manter as decisões que já converteram mercados sub judice em autorizações; analisar excepcionalmente os requerimentos protocolados até a publicação da deliberação, por segurança jurídica e isonomia (precedente Tocantins Transporte e Turismo, Deliberação 284/2025, que aplicou a Súmula 4 em agosto); arquivar os protocolados depois. Felipe incorpora a modulação.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, revoga as súmulas; adere ao voto-vista complementar de Lucas", "ts": "0:47:58", "justificativa": "súmulas incompatíveis com o novo marco; decisões judiciais convertidas não viram decisão administrativa definitiva; segurança jurídica na modulação", "tom": "técnico, cauteloso", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "voto-vista: acompanha a revogação e propõe nova modulação (convergente)", "ts": "0:55:04", "justificativa": "súmulas abrem brechas, desequilibram a concorrência e estimulam a judicialização; revogação tácita pela Lei 14.298/2022; modulação protege ato jurídico perfeito, a isonomia e a credibilidade da ANTT", "tom": "doutrinário", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator com o voto-vista de Lucas Asfor", "ts": "1:07:00", "justificativa": "parabeniza os dois relatores; valoriza a segurança dos entendimentos já tomados", "confianca": "alta"},
+        {"diretor": "Severino Medeiros", "voto": "acompanha o voto-vista (revisor)", "ts": "1:08:22", "justificativa": "a modulação traz segurança jurídica e trata as empresas de forma igualitária", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator com o complemento do voto-vista; proclama unanimidade", "ts": "1:09:31", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "1:09:56",
+      "processo": "50500.031815/2025 (parcial)", "interessado": "Consórcio Infraestrutura PR e Rúa Rodovias Holding 2 S.A.",
+      "assunto": "Homologação do resultado dos leilões dos lotes 4 e 5 das Rodovias Integradas do Paraná (edital 3/2025)",
+      "tema": ["concessões rodoviárias", "leilão / otimização"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Lote 4: quatro proponentes; sessão de 23/10/2025 na B3, vitória do Consórcio Infraestrutura PR com maior desconto, de 21,30%, e aporte superior a R$ 8 milhões (valor incerto na legenda). Lote 5: duas proponentes; sessão de 30/10, vitória da Rúa Rodovias Holding 2 S.A. com desconto de 23,83% e aporte superior a R$ 399 milhões. Documentos de qualificação regulares e prazo recursal sem recursos.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, homologa", "ts": "1:10:24", "justificativa": "certame conduzido em estrita observância ao edital; vencedoras cumpriram os requisitos", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha integralmente o relator", "ts": "1:13:22", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator (resposta não captada)", "ts": "1:13:25", "confianca": "baixa"},
+        {"diretor": "Severino Medeiros", "voto": "acompanha o relator", "ts": "1:13:27", "confianca": "baixa"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator; proclama unanimidade", "ts": "1:13:28", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.2", "ts": "1:13:28",
+      "processo": "(parcial) 50500.03699", "interessado": "Concessionária Rodovia Nova 381 S.A.",
+      "assunto": "Autorização para elaborar estudo de viabilidade (EVTEA) sobre obras de aplicação de segurança viária na BR-381/MG entre Governador Valadares e Belo Oriente",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — voto original de Felipe com ajuste de escopo do voto-vista de Lucas Asfor",
+      "resumo_voto": "Apresentado na deliberação eletrônica 257 (10 a 14/11/2025), com vista de Lucas. O voto original delimitava o estudo à duplicação integral. O voto-vista amplia o escopo para soluções técnicas de segurança viária (faixas adicionais, geometria, barreiras, sinalização etc.), sem descartar a duplicação, para preservar o modelo do contrato (assinado em 22/01/2025) com duplicação condicionada a gatilhos volumétricos e o equilíbrio econômico-financeiro. O DG registra que a mortalidade no trecho caiu cerca de 50% com a concessão.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "voto-vista: aprova EVTEA de escopo ampliado, acompanhando parcialmente o relator", "ts": "1:14:20", "justificativa": "evitar que o estudo de viabilidade vire estudo de viabilização; foco em desempenho, não em solução única; duplicação em trechos complexos tem custo, prazo e impacto tarifário elevados", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "adere ao voto de Lucas (aperfeiçoa a redação do seu)", "ts": "1:18:32", "justificativa": "estudo deve buscar a solução mais eficiente para o nível de serviço", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o voto de Lucas Asfor", "ts": "1:20:35", "justificativa": "redação perfeita e prudente, com visão ampla", "confianca": "alta"},
+        {"diretor": "Severino Medeiros", "voto": "acompanha o relator Lucas Asfor", "ts": "1:22:09", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha ambos (voto original com o complemento); proclama unanimidade", "ts": "1:22:12", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.3", "ts": "1:23:00",
+      "processo": "50500.0019/2025 (parcial)", "interessado": "Concessionária Autopista Régis Bittencourt S.A.",
+      "assunto": "Termo de referência do ambiente regulatório experimental (sandbox, Res. 5999/2022) para processo competitivo de transferência do controle acionário (BR-116 SP/PR, 383,3 km)",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "sandbox / inovação"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Contrato de 2008 com mais de R$ 3 bi investidos (Serra do Cafezal: R$ 1,1 bi) e prejuízos acumulados (ativo estressado). O TCU aprovou condicionadamente a remodelagem em 24/09/2025. A solução de autocomposição prevê processo competitivo para oferta das ações do controlador. A concessionária cumpriu os critérios de elegibilidade e a SUCON se manifestou favoravelmente.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "1:23:51", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "1:29:33", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator (resposta não captada)", "ts": "1:29:35", "confianca": "baixa"},
+        {"diretor": "Severino Medeiros", "voto": "acompanha o relator", "ts": "1:29:37", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "1:29:39", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.4", "ts": "1:29:40",
+      "processo": "50500.0056/2025 (parcial)", "interessado": "Sindicato dos Transportadores Autônomos de Cargas de Guarulhos e Região (SINDAC-GRU)",
+      "assunto": "Recurso contra a Deliberação 320/2025, que autorizou a publicação do edital do processo competitivo 4/2025 (alienação de 100% das ações da Autopista Fernão Dias)",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "participação social", "pedágio free flow", "transporte rodoviário de cargas (pontos de parada e descanso)"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — recurso conhecido e desprovido",
+      "resumo_voto": "Sustentação oral do advogado do sindicato foi declinada por atraso. Recurso intempestivo (prazo até 15/09, protocolado em 02/10), mas o mérito foi analisado por cautela. Alegações rejeitadas: (1) free flow, pois a subcláusula 19.5 prevê estudos de vantajosidade e a Portaria MT 995/2023 trata o free flow como diretriz, sem violar a Lei 14.157/2021; (2) pontos de parada e descanso, regidos pela Res. 604/2024, com estudos locacionais na execução e dois PPDs previstos até o 24º mês; (3) descumprimento do parecer da Procuradoria, que opinou pela regularidade, sendo nova consulta pública mera faculdade (Res. 6020/2023); (4) ausência de AIR, que se aplica a atos normativos de caráter geral.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, conhece e nega provimento", "ts": "1:31:16", "justificativa": "intempestividade superada por cautela; sem respaldo técnico ou jurídico nas alegações; nova consulta pública traria atraso e afrontaria a eficiência", "tom": "minucioso", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha integralmente o relator", "ts": "1:47:09", "justificativa": "transparência convive com eficiência, economicidade e racionalidade; não cabe consulta pública a cada ajuste natural; o voto servirá de precedente", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente o relator", "ts": "1:49:36", "justificativa": "cautela de analisar o mérito mesmo com a intempestividade", "confianca": "media"},
+        {"diretor": "Severino Medeiros", "voto": "segue o relator", "ts": "1:49:57", "justificativa": "não houve ato administrativo sem publicidade; recurso intempestivo em mais do dobro do prazo, analisado por segurança jurídica", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "segue o relator; proclama unanimidade", "ts": "1:51:01", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.4.1", "ts": "1:51:16",
+      "processo": "50500.05624/2025 (parcial)", "interessado": "EcoRodovias Capixaba (ECO101 Concessionária de Rodovias S.A.)",
+      "assunto": "Declaração técnica para habilitação ao Regime Especial de Incentivos para o Desenvolvimento da Infraestrutura (Reidi), Portaria MT 105/2021, BR-101 ES/BA",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "incentivos fiscais"],
+      "relator": "Severino Medeiros", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Pedido protocolado em outubro de 2025 no Ministério dos Transportes; complementado em novembro. Investimentos de 2025 a 2030 aderentes ao PER; custos já consideram o desconto do Reidi (suspensão de PIS/Pasep e Cofins) na modelagem tarifária. Processo avocado por Alex Azevedo em 13/11/2025 pela relevância (art. 11 da Res. 5818/2018). Aprova a declaração técnica para envio ao Ministério.",
+      "votos": [
+        {"diretor": "Severino Medeiros", "voto": "relator, aprova a declaração técnica", "ts": "1:51:30", "justificativa": "aderência contratual dos investimentos e atendimento aos requisitos fiscais e regulatórios", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "1:56:24", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:57:02", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente o relator; explica que avocou pela relevância, não pelo mérito", "ts": "1:57:22", "justificativa": "decisões dessa magnitude (milhões não pagos em tributos e reinvestidos, com efeito positivo na tarifa) devem ser tomadas pelo colegiado", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator; proclama unanimidade", "ts": "1:59:41", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"item": "1.2.2 — homologação do processo competitivo de otimização da BR-101/RJ (Arteris Fluminense)", "relator": "Felipe Queiroz", "motivo": "decisões judiciais recentes; o colegiado avaliará impactos e alinhamentos para manter a segurança jurídica regulatória", "ts": "0:43:11"},
+    {"item": "1.1.2 — cartilha e portfólio estratégico do Plano de Gestão Anual (PGA) 2026", "relator": "Guilherme Sampaio", "motivo": "aperfeiçoamentos a fazer; volta na próxima sessão deliberativa", "ts": "0:43:57"}
+  ],
+  "limites_da_analise": ["Transmissão sem os primeiros ~40 min; o vídeo começa com a abertura da sessão.", "Legenda automática com falantes inferidos e muitos erros de nome (ex.: «Lucas Aço», «Severino Neto»); números de processo parciais; valores de aporte e porcentagens vieram truncados e estão sinalizados.", "Respostas de voto de Alex Azevedo e Severino Medeiros nos itens 1.1.1, 1.3.1 e 1.3.3 não foram captadas pela legenda; marcados com confiança baixa.", "O ts de abertura de 1.3.2, 1.3.3 e 1.3.4 e o de 1.4.1 do relator são aproximados.", "O encerramento cita «reunião número 102», cortado; o título e a abertura indicam 1022."]
+}

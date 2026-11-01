@@ -1,0 +1,44 @@
+# Itens do tema «onibus_fretamento» (todos os diretores)
+
+- **RD 974 (2024-01-31)**, 1.2.1 · relator **Luciano Lourenço** · Requerimento de aplicação de pena alternativa de multa e revogação da Deliberação 223 (20/7/2023) que cassou a autorização de fretamento por operar se → aprovado por unanimidade — requerimento não conhecido
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=m2QSOFSYyqw&t=1440s)
+- **RD 980 (2024-04-18)**, 1.1.1 · relator **Rafael Vitale** · Referendo da Deliberação 98/2024 (11/4/2024), que restabeleceu os efeitos da Deliberação 301/2023 (cassação da Lucretur Agência de Viagens e Turismo L → aprovado por unanimidade — referendada
+  - votos: Rafael: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=-DbIoSdQ4og&t=850s)
+- **RD 1001 (2025-02-13)**, 1.2.2 · relator **Luciano Lourenço** · Processo administrativo ordinário por operação em circuito aberto (venda de passagens avulsas) em fretamento → aprovado por unanimidade — cassação
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=5q1TOuEcAD8&t=2239s)
+- **RD 1006 (2025-04-24)**, 1.2.2 · relator **Felipe Queiroz** · Processo administrativo ordinário: sanção de cassação da autorização de fretamento por adulteração de licença de viagem → aprovado por unanimidade — cassação
+  - votos: Felipe: relator; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=bad9Ktg5Qlw&t=603s)
+- **RD 1007 (2025-05-08)**, 1.1.1 · relator **Guilherme Sampaio** · Referendo da Deliberação 146/2025 (24/04/2025), que suspendeu sub judice as Deliberações 336 e 403/2022 e 305 e 308/2023 (regras do fretamento em circ → aprovado por unanimidade — referendo
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=-Eo2vtdI2aM&t=160s)
+- **RD 1009 (2025-06-05)**, 1.2.2 · relator **Lucas Asfor** · Processo administrativo ordinário: cassação da autorização de fretamento por transporte irregular de passageiros em circuito aberto → aprovado por unanimidade — cassação
+  - votos: Lucas: relator; Felipe: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=XmIUbYLQwhA&t=1501s)
+- **RD 1010 (2025-06-18)**, 1.2.2 · relator **Lucas Asfor** · Processo administrativo ordinário por omissão de envio de dados ao Monitriip entre março/2023 e fevereiro/2024, originado de sinistro em viagem → aprovado por unanimidade — advertência
+  - votos: Lucas: relator; Felipe: outro; Guilherme: outro · [vídeo](https://www.youtube.com/watch?v=-ERkhRGYBT0&t=1227s)
+- **RD 1011 (2025-07-03)**, 1.1.1 · relator **Felipe Queiroz** · Pedido de reconsideração com efeito suspensivo contra a Deliberação 65/2025, que cassou a autorização de fretamento da empresa → aprovado por unanimidade — reconsideração conhecida, sem efeito suspensivo e desprovida
+  - votos: Felipe: relator; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=OvONQtZdzak&t=325s)
+- **RD 1013 (2025-08-01)**, 1.2.3 · relator **Felipe Queiroz** · Pedido de reconsideração da Deliberação 180 de 05/06/2025, que cassou a autorização de fretamento da empresa → aprovado por unanimidade — reconsideração conhecida e improvida
+  - votos: Felipe: relator; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=mUFBjDvQ9VM&t=2160s)
+- **RD 1014 (2025-08-15)**, 1.3.1 · relator **Felipe Queiroz** · Processo administrativo ordinário para apurar infrações à legislação de transporte rodoviário de passageiros (envio insuficiente de dados do Monitriip → aprovado por unanimidade — advertência
+  - votos: Felipe: relator; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=i65Q4DVJA6s&t=579s)
+- **RD 1014 (2025-08-15)**, 1.4.2 · relator **Lucas Asfor** · Alteração dos arts. 2º e 7º da Resolução 4.308/2014 para substituir o termo «índio» por «indígena» e «Fundação Nacional do Índio» por «Fundação Nacion → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=i65Q4DVJA6s&t=3270s)
+- **RD 1019 (2025-10-23)**, 1.3.3 · relator **Lucas Asfor** · Processo administrativo ordinário por reiterado transporte regular de passageiros sob licença de fretamento (circuito aberto) → aprovado por unanimidade — cassação
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Amaral: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=CezCZuXfe5A&t=5567s)
+- **RD 1020 (2025-11-05)**, 1.3.1 · relator **Lucas Asfor** · Processo administrativo ordinário por suposto transporte irregular (Corumbá/MS a São Paulo) a partir de denúncia da Viação Andorinha → aprovado por unanimidade — advertência
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Amaral: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=KsteuYm_RoM&t=4944s)
+- **RD 1022 (2025-12-04)**, 1.1.1 · relator **Guilherme Sampaio** · Referendo da Deliberação 443/2025, que anulou a Deliberação 223/2023 e restabeleceu a vigência do termo de autorização de fretamento (TAF), em cumprim → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Severino: acompanha · [vídeo](https://www.youtube.com/watch?v=RtFPynve2ew&t=2637s)
+- **RD 1031 (2026-04-23)**, 1.2.1 · relator **Lucas Asfor** · Encerramento da comissão processante: cassação da autorização de fretamento por operação em circuito aberto (venda de passagens avulsas) → aprovado por unanimidade — cassação
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Alessandro: acompanha · [vídeo](https://www.youtube.com/watch?v=Zyxhofbj7g0&t=2259s)
+- **RD 1033 (2026-05-21)**, 1.3.1 · relator **Lucas Asfor** · Encerramento da comissão processante (Portaria SUFIS 23/2025): cassação da autorização de fretamento por prática reiterada de infrações no transporte  → aprovado por unanimidade — cassação
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Alessandro: acompanha · [vídeo](https://www.youtube.com/watch?v=R_zbvJ8TXjs&t=4236s)
+- **RD 1033 (2026-05-21)**, 1.4.2 · relator **Alex Azevedo** · Encerramento da comissão processante (Portaria SUFIS 21/2025): cassação da autorização de fretamento por operar serviço regular disfarçado → aprovado por unanimidade — cassação
+  - votos: Alex: relator; Felipe: acompanha; Lucas: acompanha; Alessandro: acompanha · [vídeo](https://www.youtube.com/watch?v=R_zbvJ8TXjs&t=6678s)
+- **RD 1034 (2026-06-02)**, 1.2.1 · relator **Felipe Queiroz** · Referendar a Deliberação 137/2026 (ad referendum, 15/05/2026) que converteu em multa a cassação da autorização de fretamento aplicada pela Deliberação → aprovado por unanimidade — referendada a conversão da cassação em multa de R$ 5.500
+  - votos: Felipe: relator; Lucas: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=jmj1jyUxsuA&t=267s)
+- **RD 1035 (2026-06-18)**, 1.2.4 · relator **Alex Azevedo** · Pedido de reconsideração (com pedido subsidiário de TAC e solução consensual) contra a Deliberação 396/2025 (23/10/2025), que cassou a autorização de  → aprovado por unanimidade — reconsideração conhecida, sem efeito suspensivo, desprovida; ca
+  - votos: Alex: relator; Alessandro: acompanha; Felipe: acompanha · [vídeo](https://www.youtube.com/watch?v=8J6vHk_yKSg&t=5517s)
+- **RD 1039 (2026-08-14)**, 1.2.2 · relator **Felipe Queiroz** · Pedido de reconsideração cumulado com chamamento do feito à ordem contra a Deliberação 146/2026 (21/05/2026), que cassou a autorização de fretamento → aprovado por unanimidade — chamamento do feito à ordem e reconsideração conhecidos e despr
+  - votos: Felipe: relator; Lucas: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=u4SXNQPR-XQ&t=2670s)
+- **RD 1041 (2026-09-10)**, 1.2.2 · relator **Lucas Asfor** · Recurso (recebido como pedido de reconsideração) contra a Deliberação 150/2026 (21/05/2026) que aplicou cassação da autorização de serviço de fretamen → aprovado por unanimidade — reconsideração conhecida, provimento negado (cassação mantida n
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=DRpLm1FOHCA&t=2241s)

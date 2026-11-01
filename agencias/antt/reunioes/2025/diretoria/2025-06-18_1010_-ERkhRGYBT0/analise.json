@@ -1,0 +1,83 @@
+{
+  "meta": {"video_id": "-ERkhRGYBT0", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:01); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1010", "data": "2025-06-18", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Encerrada às 8h00 de 18/06/2025 (sessão de ≈ 25 minutos de vídeo), com registro de café da manhã da diretoria.", "Item 1.1.2 sofreu pedido de vista de Lucas Asfor, que prometeu retorno rápido (na RD 1011 o processo 50500.002983/2025 foi retirado de pauta).", "Ao final o Diretor-Geral registrou o início, no mesmo dia, das obras do contorno de Curitiba (Araucária) e chamou a concessão da BR-040/495 de Rota Imperial."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:01:19",
+      "processo": "50500.319816/2023 (conforme legenda)", "interessado": "Consórcio Nova Estrada Real",
+      "assunto": "Homologação do resultado do leilão da concessão da BR-040/495 (MG/RJ), Edital 1/2025",
+      "tema": ["concessões rodoviárias", "leilão / otimização"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Leilão em 30/04/2025 na B3 com três propostas; vencedor Consórcio Nova Estrada Real (Construcap, CCPS, Copasa? e OHL — conforme legenda), desconto de ≈ 14% na tarifa; EPR Participações 3,08% e Sacyr? 1%. Habilitação atestada pela comissão de outorga, sem recursos. Projeto prevê cerca de R$ 8 bilhões em investimentos, duplicação, faixas adicionais, vias marginais, três túneis, passarelas, ciclovias e passagens de fauna; contrato previsto para 15/08/2025.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, homologa o resultado", "ts": "0:02:00", "justificativa": "cumprimento das condições do edital atestado pela comissão de outorga", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:06:37", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:06:42", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.2", "ts": "0:06:46",
+      "processo": "50500.002983/2025-12 (conforme legenda)", "interessado": "SUROC (Superintendência de Serviços de Transporte Rodoviário e Multimodal de Cargas)",
+      "assunto": "Alteração da Resolução 5.982/2022 (RNTRC) para incorporar os seguros obrigatórios do transporte rodoviário de cargas incluídos na Lei 11.442/2007 pela Lei 14.599/2023, com dispensa de PPCS e de AIR",
+      "tema": ["transporte rodoviário de cargas (RNTRC)", "regulação normativa"],
+      "relator": "Felipe Queiroz", "resultado": "pedido de vista de Lucas Asfor (sem deliberação)",
+      "resumo_voto": "Relator propôs dispensar PPCS e AIR (Decreto 10.411/2020 e Res. 5.976/2022) e aprovar a minuta que altera o art. 4º da Res. 5.982/2022: a contratação de RCTRC e RC-DC (regulados pela Res. CNSP 472/2024) passa a requisito de inscrição e manutenção no RNTRC; PF confirmou a competência da ANTT e a dispensa. Tema na agenda regulatória 2025/2026.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova dispensas e minuta", "ts": "0:07:30", "justificativa": "seguros viram requisito do RNTRC; PF sem óbice", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "pede vista", "ts": "0:11:18", "justificativa": "precisa esclarecer alguns pontos; compromete-se a devolver o mais rápido possível", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.3", "ts": "0:11:31",
+      "processo": "50176.72068 (conforme legenda)", "interessado": "EPR Litoral Pioneiro S.A.",
+      "assunto": "Quinto termo aditivo ao contrato de concessão (Edital 2/2023): ajuste do apêndice D do anexo A do PER para descrever a implantação dos postos de pesagem fixos 1 a 6 (tabela 154)",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Postos herdados não atendem aos requisitos; a diretoria já aprovou novo enquadramento como postos novos (prazo de 24 meses, sem reequilíbrio) na Deliberação 71/2025; o aditivo apenas corrige a redação do PER para permitir fiscalização, conforme Res. 6.000/2022; PF (Parecer 225/2024) entendeu viável.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova o termo aditivo", "ts": "0:12:15", "justificativa": "ajuste redacional necessário à fiscalização; sem impacto econômico", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "de acordo com o relator", "ts": "0:16:08", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "0:16:12", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:16:18",
+      "processo": "50500.349060/2023-60 (conforme legenda)", "interessado": "SUCON",
+      "assunto": "Relatório final da Audiência Pública 12/2021 e plano de outorga do lote rodoviário CN3 (Rota Agrocentral, BR-070/364, RO/MT, 887,6 km)",
+      "tema": ["concessões rodoviárias", "participação social", "leilão / otimização"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Sessões públicas em fevereiro de 2022 (Brasília, Cuiabá, Vilhena, Porto Velho) com 126 contribuições; projeto ajustado (pavimento, travessias urbanas, vias marginais), adequado à quinta etapa de concessões (novo regramento de penalidades, matriz de riscos) e com exigência de plano de 100 dias; plano de outorga segue ao Ministério dos Transportes. PF favorável com recomendações acolhidas ou justificadas.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova o relatório final", "ts": "0:17:00", "justificativa": "contribuições incorporadas; manifestações técnicas e jurídicas favoráveis", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "com o relator", "ts": "0:20:15", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "com o relator", "ts": "0:20:20", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "0:20:27",
+      "processo": "50500.016488/2024-21 (conforme legenda)", "interessado": "Transbus Agência de Viagens Ltda. (fretamento)",
+      "assunto": "Processo administrativo ordinário por omissão de envio de dados ao Monitriip entre março/2023 e fevereiro/2024, originado de sinistro em viagem",
+      "tema": ["ônibus (fretamento)", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — advertência",
+      "resumo_voto": "Irregularidades do sinistro já autuadas à parte; sem sanção específica pela omissão do Monitriip. Acolhido o relatório da comissão processante: por proporcionalidade, penalidade de advertência (art. 78-A, I, da Lei 10.233/2001).",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aplica advertência", "ts": "0:21:00", "justificativa": "proporcionalidade; omissão compromete o monitoramento e a segurança", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "com o relator", "ts": "0:24:05", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "com o relator", "ts": "0:24:10", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Legenda automática: nomes de consorciadas, números de processo e percentuais de lance podem estar errados (marcados conforme legenda ou ?).",
+    "Votos de seguidores têm ts aproximado e confiança média, pois a legenda não separa os falantes.",
+    "A fala de abertura inclui o número da reunião de forma truncada; 1010 vem do título e do encerramento.",
+    "O motivo do pedido de vista no 1.1.2 é apenas genérico (esclarecer pontos)."
+  ]
+}

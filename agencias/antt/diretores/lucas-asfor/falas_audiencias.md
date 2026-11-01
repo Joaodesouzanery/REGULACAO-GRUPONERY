@@ -1,0 +1,1 @@
+- audiencia: AUDIÊNCIA PÚBLICA 007/24 · [0:12:00](https://www.youtube.com/watch?v=-sH6OO6YDtY&t=720s) — «afetos ao sistema de transporte Ferroviário sobre a matéria acho que gostaria também de além além da diretoria do nosso diretor agradecer o diretor Lucas ASF que é o relator da matéria e por meio de sua Assessoria mormente na pessoa da da Ana Cláudia contribuí…»

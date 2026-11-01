@@ -1,0 +1,304 @@
+{
+  "meta": {"video_id": "Ej8aJh627Ak", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:05); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1000", "data": "2025-01-30", "formato": "videoconferência",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Felipe Queiroz", "Luciano Lourenço", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Milésima reunião de diretoria colegiada da ANTT; registro institucional lido pelo Diretor-Geral na abertura e falas comemorativas de Rafael Vitale e Guilherme Sampaio ao final.", "Guilherme Sampaio retirou de pauta todos os seus processos (itens 1.2.1 a 1.2.22, 22 processos) para complemento procedimental.", "Dispensa de leitura de votos aprovada pelos diretores (art. 68 §5º do Regimento Interno) para os itens 1.3.1 a 1.3.4 (Luciano Lourenço) e 1.4.4 a 1.4.7 (Felipe Queiroz).", "Felipe Queiroz participou em deslocamento (celular) e teve queda momentânea de conexão durante a votação do sandbox; Rafael Vitale também teve falha de conexão no mesmo item.", "Encerrada ~16:46 de 30/01/2025 (sessão de ≈ 1h52 de vídeo).", "Rafael Vitale anunciou que a ANTT planeja abrir mais dois processos competitivos nas duas reuniões seguintes (um a cada 15 dias) e comentou a carteira de 15 leilões anunciada pelo Ministro dos Transportes para 2025."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:10:12",
+      "processo": "50500.015779/2022-19", "interessado": "Superintendência de Governança, Gestão Estratégica e de Pessoal (SUEST)",
+      "assunto": "Alteração do Regimento Interno da ANTT (Resolução 5.976/2022), com voto complementar criando o Centro de Estudos Avançados em Regulação do Transporte Terrestre (CEART) e renomeando a assessoria resultante da fusão de comunicação, relações parlamentares/institucionais e internacionais",
+      "tema": ["institucional", "regulação normativa"],
+      "relator": "Rafael Vitale", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Matéria apresentada na RD 999 com vista aos diretores; relator leu voto complementar (sugestão de Felipe Queiroz para desburocratizar o CEART) renomeando a Assessoria Especial de Relações Institucionais, Internacionais e de Comunicação e incluindo dispositivos sobre objetivos e condução do CEART.",
+      "votos": [
+        {"diretor": "Rafael Vitale", "voto": "relator, aprova", "ts": "0:11:50", "justificativa": "atualização do regimento alinhada ao planejamento estratégico; diálogo permanente com a academia por meio do CEART", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente o relator", "ts": "0:12:00", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha integralmente", "ts": "0:13:00", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:13:20", "justificativa": "estrutura mais aderente ao planejamento estratégico", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "de acordo com o relator", "ts": "0:14:40", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.2", "ts": "0:15:03",
+      "processo": "50500.026460/2022-4?", "interessado": "Superintendência de Governança, Gestão Estratégica e de Pessoal (SUEST)",
+      "assunto": "Alteração da Resolução 5.977/2022 (estrutura organizacional da ANTT) para adequá-la ao novo Regimento Interno",
+      "tema": ["institucional"],
+      "relator": "Rafael Vitale", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Criação do CEART e da assessoria de relações institucionais, internacionais e de comunicação; SUFIS passa a ter Gerência de Fiscalização e Gerência de Planejamento da Fiscalização (extinta a GEAP); nova coordenação de processamento de autos de trânsito (CTB); fusão de coordenações de análise de defesa em primeira instância; gerência de projetos de ferrovias na SUCON; coordenação de segurança viária e educação no trânsito. Relator defende ampliar a estrutura e orçamento da agência junto ao MGI, Fazenda, Ministério dos Transportes e Casa Civil.",
+      "votos": [
+        {"diretor": "Rafael Vitale", "voto": "relator, aprova", "ts": "0:16:00", "justificativa": "racionalização de recursos; crescimento de leilões, frota e ferrovias exige mais estrutura e cargos", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:21:30", "justificativa": "fortalecimento da SUCON, nova superintendência de sustentabilidade e inovação e coordenação de segurança viária", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha integralmente", "ts": "0:22:00", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:22:10", "justificativa": "processo construtivo de um ano; limitação de cargos", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:22:35", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.3", "ts": "0:22:41",
+      "processo": "50535.001700/2018-99", "interessado": "Superintendência de Infraestrutura Rodoviária (SUROD)",
+      "assunto": "Referendo da Deliberação 559/2024 (23/12/2024): postergação por 120 dias do início da vigência do RCR4 (Resolução 6.053/2024), para 2 de maio de 2025, por ausência do manual de procedimentos de fiscalização",
+      "tema": ["concessões rodoviárias", "regulação normativa", "fiscalização e sanções"],
+      "relator": "Rafael Vitale", "resultado": "pedido de vista de Luciano Lourenço (sem deliberação)",
+      "resumo_voto": "Relator votou por aprovar a minuta que altera o art. 14 e posterga o RCR4 para 2/5/2025, pois sem o manual de procedimentos de fiscalização (em estágio avançado, com reunião participativa recente) a norma não seria aplicável. Luciano Lourenço pediu vista para harmonizar o RCR4 com o RCR5 sob sua relatoria, comprometendo-se a trazer na reunião seguinte.",
+      "votos": [
+        {"diretor": "Rafael Vitale", "voto": "relator, aprova a postergação", "ts": "0:24:30", "justificativa": "segurança jurídica e uniformidade da fiscalização; manter 2/1/2025 inviabilizaria a aplicação da norma", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "pede vista", "ts": "0:27:18", "justificativa": "processo do RCR5 sob sua relatoria; harmonizar RCR4 e RCR5 e debater temas com procuradoria e área técnica", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "0:28:19",
+      "processo": "50505.122983/2021-64 (conforme legenda)", "interessado": "CONCER (Companhia de Concessão Rodoviária Juiz de Fora-Rio)",
+      "assunto": "Recurso contra penalidade aplicada pela Decisão SUROD 357/2023 (violação da Resolução ANTT 4.071/2013)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade (provimento parcial para corrigir erro material no valor da multa)",
+      "resumo_voto": "Votos dos itens 1.3.1 a 1.3.4 lidos em bloco sem leitura integral: recursos conhecidos e improvidos por ausência de fato novo, exceto neste, em que se dá parcial provimento apenas para sanar erro material do valor da multa.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, conhece e dá parcial provimento (erro material)", "ts": "0:29:30", "justificativa": "recorrente não trouxe fato novo; ajuste apenas do valor da multa", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:30:30", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:30:35", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:30:40", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:30:45", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.3.2", "ts": "0:28:19",
+      "processo": "50505.396358/2019-32 (conforme legenda)", "interessado": "CONCER",
+      "assunto": "Recurso contra penalidade aplicada pela Decisão SUROD 213/2022",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade (recurso conhecido e desprovido)",
+      "resumo_voto": "Sem fato novo capaz de alterar a penalidade; negado provimento (julgado em bloco com 1.3.1, 1.3.3 e 1.3.4).",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, nega provimento", "ts": "0:29:30", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:30:30", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:30:35", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:30:40", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:30:45", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.3.3", "ts": "0:28:19",
+      "processo": "50505.010548/2020-15 (conforme legenda)", "interessado": "CONCER",
+      "assunto": "Recurso contra penalidade aplicada pela Decisão 581 (SUROD)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade (recurso conhecido e desprovido)",
+      "resumo_voto": "Sem fato novo; negado provimento (julgado em bloco).",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, nega provimento", "ts": "0:29:30", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:30:30", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:30:35", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:30:40", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:30:45", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.3.4", "ts": "0:28:19",
+      "processo": "50505.022858/2021-55 (conforme legenda)", "interessado": "CONCER",
+      "assunto": "Recurso contra penalidade aplicada pela Decisão 594 (SUROD)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade (recurso conhecido e desprovido)",
+      "resumo_voto": "Sem fato novo; negado provimento (julgado em bloco).",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, nega provimento", "ts": "0:29:30", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:30:30", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:30:35", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:30:40", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:30:45", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.3.5", "ts": "0:31:15",
+      "processo": "50500.022598/2023-93 (conforme legenda)", "interessado": "Superintendência de Infraestrutura Rodoviária (SUROD); proposta originada em requerimento da Via Araguaia (Concessionária Rodovias do Araguaia)",
+      "assunto": "Sandbox regulatório: edital para seleção de concessionárias de rodovias federais interessadas em ambiente experimental de inspeção de tráfego com tecnologias inovadoras (descarbonização e segurança), em substituição parcial de viaturas",
+      "tema": ["sandbox / inovação", "concessões rodoviárias", "sustentabilidade"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade, nos termos do voto do relator com o complemento de Felipe Queiroz",
+      "resumo_voto": "Primeiro edital de sandbox regulatório da agência (Res. 5.999/2022): seleção competitiva de projetos de inspeção de tráfego em rodovias concedidas, com comissão de sandbox por portaria; participação social por reunião participativa e parecer da PF. Felipe Queiroz propôs ajustes de redação alinhando o edital à Res. 6.057/2024 (programa de sustentabilidade): descarbonização das operações, observância do comitê de sustentabilidade e do GHG Protocol, emergências ambientais e compensação por créditos de carbono certificados; relator aceitou.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aprova e aceita o complemento de Felipe Queiroz", "ts": "0:32:00", "justificativa": "testar modelos inovadores por concorrência; base comparativa para futuras concessões; agenda de tecnologia, sustentabilidade e segurança viária", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha, com complemento ao voto (voto convergente)", "ts": "0:35:31", "justificativa": "maior aderência do edital à Res. 6.057/2024 e ao GHG Protocol", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator com o complemento", "ts": "0:41:00", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator inclusive com o complemento", "ts": "0:43:30", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha (voto convergente)", "ts": "0:43:45", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.6", "ts": "0:44:40",
+      "processo": "50500.166235/2024-71 (conforme legenda)", "interessado": "Superintendência de Concessão da Infraestrutura (SUCON)",
+      "assunto": "Homologação do resultado do leilão (Edital 5/2024) das Rodovias Integradas do Paraná: Lote 3 (BR-369/373/376 e PRs) e Lote 6 (BR-163/277 e PRs)",
+      "tema": ["concessões rodoviárias", "leilão / otimização"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Lote 3: vencedora CCR S.A. (A.C. Cerrado, quatro proponentes, viva voz), desconto de 26,60% sobre a tarifa básica e aporte informado na legenda; Lote 6: proponente única, Consórcio Infra PR (EPR), desconto de 0,08%. Edital aprovado pela Del. 297/2024; leilões em 12/12/2024 (lote 3) e 19/12/2024 (lote 6) na B3; ata de qualificação em 10/01/2025; sem intercorrências.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, homologa", "ts": "0:45:00", "justificativa": "processo regular, transparente e sem intercorrências", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "0:49:40", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:49:45", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:49:50", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:49:55", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.7", "ts": "0:50:13",
+      "processo": "50500.056521/2021-90 (conforme legenda)", "interessado": "SUROD; Eco050 Concessionária de Rodovias (BR-050 GO/MG)",
+      "assunto": "Relatório final da Audiência Pública 11/2024 e aprovação da proposta final da revisão quinquenal nº 8 do contrato (Edital 1/2013) da Eco050",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "participação social"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade (julgado em bloco com 1.3.8)",
+      "resumo_voto": "Primeira revisão quinquenal da ANTT. Intervenções: canteiro central Delta-Uberaba, duplicação e adequação geométrica, conectividade 4G em toda a rodovia, pontos de parada e descanso, áreas de escape, retornos em nível (inclusive em Mata do Cachorro), iluminação em trechos urbanos, viaturas para a PRF e novos parâmetros de pavimento e operacionais, com investimentos da ordem de R$ 9,1 bilhões (valor conforme legenda). Determina à SUROD elaborar os termos aditivos, com atualização dos parâmetros operacionais condicionada à análise técnica prévia (parecer da PF admitiu a inclusão).",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aprova relatório final e proposta final", "ts": "0:57:00", "justificativa": "revisão quinquenal moderniza contratos, supera obsolescência e permite adaptação ao longo do prazo", "tom": "enfático", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "1:03:20", "justificativa": "primeira e segunda revisões quinquenais feitas em paralelo; importância para a sustentabilidade dos contratos", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "1:04:10", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha na íntegra", "ts": "1:05:30", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "1:06:10", "justificativa": "revisão quinquenal evita relicitação ou solução consensual; meta de cinco a seis revisões por ano", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.8", "ts": "0:50:13",
+      "processo": "50500.018322/2024-28 (conforme legenda)", "interessado": "SUCON; Concessionária Nova Rota do Oeste (BR-163/MT)",
+      "assunto": "Relatório final da Audiência Pública 12/2024 e proposta final da revisão quinquenal nº 10/2025 do contrato da Nova Rota do Oeste (Edital 3/2013)",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "participação social"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade (julgado em bloco com 1.3.7)",
+      "resumo_voto": "Conectividade 4G em toda a BR-163/MT, pontos de parada com espaços de atividade física, área de escape na Serra de São Vicente, complexo viário do Trevo do Lagarto, contorno de Lucas do Rio Verde, duplicação de 108 km, Trevão (BR-163/364), viaturas e aparelhamento da PRF, iluminação pública e novos parâmetros de pavimento/operacionais; investimentos da ordem de R$ 2,3 bilhões. Mesma determinação de aditivos condicionada à análise da SUROD.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aprova", "ts": "0:57:00", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator em ambos", "ts": "1:03:20", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "1:04:10", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha na íntegra", "ts": "1:05:30", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "1:06:10", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.4.1", "ts": "1:08:47",
+      "processo": "50500.122421/2024-13 (conforme legenda)", "interessado": "Concessionária de Rodovia Belo Horizonte-Cristalina S.A.",
+      "assunto": "Emissão do ato de outorga e autorização para assinatura do contrato de concessão da BR-040 GO/MG (Edital 2/2024), resultado do leilão",
+      "tema": ["concessões rodoviárias", "leilão / otimização"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Vencedora Aança Highways S.A.(nome conforme legenda) com desconto de 14,32% na tarifa; 54,8 km (km 95,7 da BR-040/GO ao Anel Rodoviário de BH), com 9,9 km de duplicação, faixas adicionais, 61,6 km de vias marginais e dispositivos de segurança para pedestres; comissão de outorga certificou o cumprimento do edital (garantia de execução, capital social, seguros, SPE etc.); assinatura prevista até 10/02/2025.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova a emissão do ato de outorga", "ts": "1:10:30", "justificativa": "cumprimento integral das condições do edital certificado pela comissão de outorga", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "1:18:35", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "1:18:40", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:19:00", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "1:19:10", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.4.2", "ts": "1:30:27",
+      "processo": "50500.003160/2022 (conforme legenda)", "interessado": "SUCON",
+      "assunto": "Abertura de audiência pública sobre minutas de edital e contrato e estudos de viabilidade para a concessão da FICO (Ferrovia de Integração Centro-Oeste) e da FIOL (Ferrovia de Integração Oeste-Leste), corredor ferroviário leste-oeste",
+      "tema": ["ferrovias", "participação social", "concessões"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Projeto de ≈ 2.700 km (FIOL 3 entre Correntina/BA e Mara Rosa/GO, ≈ 1.666 km a operar segundo legenda); investimento de cerca de R$ 12 bilhões na construção do trecho, mais valores em sistemas ferroviários, instalações, frota e equipamentos; fluxos principais de exportação de grãos e retorno de fertilizantes/derivados. Audiência por 45 dias (7/2 a 24/3/2025) com sessões em Brasília, Salvador e Cuiabá. Felipe elogiou a SUCON (Marcelo Fonseca) pela rapidez.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova abertura da audiência pública", "ts": "1:33:00", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "1:30:00", "justificativa": "parabeniza a qualidade do voto", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "1:30:05", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:30:10", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha na integralidade", "ts": "1:30:15", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.4.3", "ts": "1:31:36",
+      "processo": "50500.364999/2023-54 (conforme legenda)", "interessado": "Kavagi Eventos, Transportes e Turismo Ltda.",
+      "assunto": "Cassação do ato de outorga do direito de operação da linha (prefixo 12-9370-00, Taguatinga/DF a Trindade/GO e mercados) por não transmissão de dados ao Monitriip em jan-jul/2023",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — cassação",
+      "resumo_voto": "Empresa revel nos autos; infração configurada (Res. 4.499/2014 arts. 12 e 19, Res. 4.770/2015 art. 47, depois Res. 6.033/2023 art. 192); Monitriip é essencial à segurança viária e à fiscalização; obrigação consolidada, sem ineditismo; sanção do art. 78-H da Lei 10.233/2001.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, cassa a outorga", "ts": "1:32:00", "justificativa": "descumprimento reiterado do Monitriip; segurança dos passageiros", "tom": "lamenta a necessidade da sanção", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "com o relator", "ts": "1:38:15", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "1:38:20", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:38:25", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "1:38:30", "justificativa": "com desapontamento; setor em transição; fiscalização deve ser de orientação, com punição como último recurso", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.4.4", "ts": "1:39:07",
+      "processo": "50505.012772/2020-77 (conforme legenda)", "interessado": "CONCER",
+      "assunto": "Recurso contra a Decisão 523/2023 (SUROD) em processo sancionador",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade (recurso conhecido e desprovido)",
+      "resumo_voto": "Quatro recursos sancionatórios (1.4.4 a 1.4.7) votados em bloco sem leitura: conhecer e negar provimento.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, nega provimento", "ts": "1:40:20", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha em todos", "ts": "1:40:40", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha em todo o bloco", "ts": "1:40:45", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha na íntegra", "ts": "1:40:50", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha na íntegra", "ts": "1:40:55", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.4.5", "ts": "1:39:07",
+      "processo": "50505.022857/2021-19 (conforme legenda)", "interessado": "CONCER",
+      "assunto": "Recurso contra a Decisão 300/2023 (SUROD) em processo sancionador",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade (recurso conhecido e desprovido)",
+      "resumo_voto": "Conhecer e negar provimento (bloco 1.4.4 a 1.4.7).",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, nega provimento", "ts": "1:40:20", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha em todos", "ts": "1:40:40", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha em todo o bloco", "ts": "1:40:45", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha na íntegra", "ts": "1:40:50", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha na íntegra", "ts": "1:40:55", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.4.6", "ts": "1:39:07",
+      "processo": "50500.066824/2022-12 (conforme legenda)", "interessado": "CONCER",
+      "assunto": "Recurso contra a Decisão 429/2023 (SUROD) em processo sancionador",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade (recurso conhecido e desprovido)",
+      "resumo_voto": "Conhecer e negar provimento (bloco 1.4.4 a 1.4.7).",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, nega provimento", "ts": "1:40:20", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha em todos", "ts": "1:40:40", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha em todo o bloco", "ts": "1:40:45", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha na íntegra", "ts": "1:40:50", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha na íntegra", "ts": "1:40:55", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.4.7", "ts": "1:39:07",
+      "processo": "50500.363683/2016-9? (conforme legenda)", "interessado": "Concessionária da Rodovia Osório-Porto Alegre (Concepa)",
+      "assunto": "Recurso contra a decisão 532/2023 em processo sancionador",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade (recurso conhecido e desprovido)",
+      "resumo_voto": "Conhecer e negar provimento (bloco 1.4.4 a 1.4.7).",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, nega provimento", "ts": "1:40:20", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha em todos", "ts": "1:40:40", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha em todo o bloco", "ts": "1:40:45", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha na íntegra", "ts": "1:40:50", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha na íntegra", "ts": "1:40:55", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.5.1", "ts": "1:41:12",
+      "processo": "50500.188287/2024-17 (conforme legenda)", "interessado": "SUCON; Concessionária de Rodovia Sul-Matogrossense S.A. (MSVia), BR-163/MS",
+      "assunto": "Relatório final da Consulta Pública 3/2024 e publicação do edital de processo competitivo para readaptação e otimização do contrato de concessão da BR-163/MS (MSVia), por alienação de 100% das ações",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "participação social", "reequilíbrio contratual"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Origem no acórdão do TCU (solução consensual, TCU favorável à otimização, exigindo consulta pública). Consulta pública: sessão em Campo Grande em 17/12/2024, contribuições de 13/12/2024 a 13/1/2025, 24 protocolos (13 pelo sistema e 11 orais). Processo competitivo em 22/05/2025 na B3 (envelopes em 19/05/2025); critério de maior desconto na tarifa básica; a atual controladora pode participar do viva voz e é considerada previamente habilitada; sem proponentes, a controladora vence. PF sugeriu renomear a comissão (comissão de processo competitivo), acolhido.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova relatório e edital", "ts": "1:41:41", "justificativa": "processo competitivo transparente e isonômico valida as condições da solução consensual", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "1:46:40", "justificativa": "primeiro de três processos competitivos de repactuação (ativos estressados); parabeniza SUCON, relator e PF", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha integralmente o relator", "ts": "1:48:20", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "1:48:40", "justificativa": "decisão acertada da política pública de resolver ativos problemáticos", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "1:51:00", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"itens": "1.2.1 a 1.2.22", "relator": "Guilherme Sampaio", "motivo": "retirados de pauta pelo relator, para complemento de ordem procedimental (22 processos)", "ts": "0:08:03"}
+  ],
+  "limites_da_analise": [
+    "Legenda automática: nomes de empresas, números de processos e valores (ex.: aporte do lote 3 do Paraná, investimentos em R$ de cada revisão quinquenal, extensão da FIOL 3) estão sujeitos a erro; números de processo marcados como conforme legenda, e dígitos incertos como ?.",
+    "Votos de seguidores ('acompanha o relator') têm ts aproximados e confiança média, pois a legenda não separa os falantes.",
+    "Nos itens 1.3.1 a 1.3.4 e 1.4.4 a 1.4.7 não houve leitura de voto; o conteúdo vem apenas da fala sumária do relator e do Diretor-Geral, e a numeração de processos e decisões é incerta.",
+    "A ordem exata de manifestação em alguns itens (1.3.5, 1.3.7/1.3.8) é inferida.",
+    "Marcelo Fonseca aparece nos falantes inferidos, mas é superintendente da SUCON, não diretor."
+  ]
+}

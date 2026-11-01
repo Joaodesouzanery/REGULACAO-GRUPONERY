@@ -1,0 +1,128 @@
+{
+ "meta": {
+  "video_id": "gcVJwfeNn2M",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores e do relator aproximados (interpolados a partir do anúncio de aprovação)",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "83 (extraordinária)",
+  "data": "2024-07-22",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Luciano Lourenço",
+   "Guilherme Sampaio",
+   "Felipe Queiroz",
+   "Lucas Asfor"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 15h08 de 22/07/2024.",
+   "Dois processos de relatoria de Guilherme Sampaio, ambos aprovados por unanimidade.",
+   "No 1.1.2, Guilherme Sampaio agradece a SUCON, a PFE, a Infra S.A., ao Ministério dos Transportes e ao TCU (ministro relator citado na legenda como «de Alencar»; nome incerto); este é o quarto leilão do ano (31/10/2024)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1.1",
+   "ts": "0:05:15",
+   "processo": "50505.056525/2024-72 (parcial)",
+   "interessado": "EPR Minas Gerais S.A. (denominada Via Mineira)",
+   "assunto": "Reajuste da tarifa básica de pedágio (TBP) e início da cobrança nas praças P1 (Itabirito), P2 (Conselheiro Lafaiete) e P3 (Barbacena) da BR-040/MG entre Belo Horizonte e Juiz de Fora",
+   "tema": [
+    "concessões rodoviárias"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova o reajuste da TBP em 4,14% (IRT, subcláusula 19.5.4 do contrato), com início da cobrança em 06/08/2024 (assunção prevista para 05/08/2024) e tarifa de R$ 12,70 para a categoria 1; vistoria da comissão de trabalhos iniciais atestou a capacidade operacional; o Ministério da Fazenda foi comunicado em 18/07/2024.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aprova reajuste e início da cobrança",
+     "ts": "0:09:40",
+     "justificativa": "cumprimento da subcláusula 19.5.4 do contrato, vistoria favorável e art. 24, VII da Lei 10.233/2001",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:09:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:09:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "de acordo com o relator",
+     "ts": "0:09:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo com o relator",
+     "ts": "0:10:01",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.1.2",
+   "ts": "0:10:12",
+   "processo": "50500.156356/2024-1 (parcial)",
+   "interessado": "SUCON",
+   "assunto": "Aprovação do edital de concessão da BR-262/MG (Rota do Zebu, 438 km, Betim a Uberaba) e sobrestamento da publicação do projeto Rota Sertaneja (BR-153/GO/MG e BR-262), por pedido do Ministério dos Transportes enquanto a Infra S.A. avalia otimização parcial do contrato da Concebra",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização",
+    "sustentabilidade"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Autoriza a publicação do edital (disponível a partir de 23/07/2024; leilão em 31/10/2024 na B3), com concessão de 30 anos, TIR do projeto de 9,21%, 17 passarelas, 3 passagens de fauna, previsão de 1% da receita bruta para infraestrutura resiliente e programa de carbono neutro; projeto passou por TCU (Acórdão 1.062/2023) e participação social (AP 12/2022); sobresta o projeto Rota Sertaneja sujeito a nova deliberação diante de fatos novos.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, autoriza a publicação do edital e sobresta o projeto Rota Sertaneja",
+     "ts": "0:19:43",
+     "justificativa": "projeto maduro (quinta etapa de concessões rodoviárias), alinhado a ESG e a regulação por incentivo; solução de relicitação da Concebra",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:19:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:19:56",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "de acordo com o relator",
+     "ts": "0:20:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:20:04",
+     "justificativa": "destaca o papel de Guilherme Sampaio, quarto leilão do ano e transferência maciça de ativos à iniciativa privada; fim de mais uma relicitação",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: número de processo, valores de investimento («quase 10 milhões» é distorção; 4,5 bi em ampliações e 3,4 bi em operação) e nome do ministro do TCU incertos.",
+  "O ts dos votos de seguidores e do relator são interpolados."
+ ]
+}

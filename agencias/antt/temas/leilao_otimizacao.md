@@ -1,0 +1,220 @@
+# Itens do tema «leilao_otimizacao» (todos os diretores)
+
+- **RD 975 (2024-02-08)**, 1.3.1 · relator **Lucas Asfor** · Relatórios finais das Audiências Públicas 10/2021 e 13/2021 e minutas dos planos de outorga das concessões dos lotes rodoviários Centro Norte 1 (BR-06 → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=6ckhaVSoiUY&t=103s)
+- **RD 977 (2024-03-07)**, 1.2.1 · relator **Felipe Queiroz** · Abertura de audiência pública para concessão do sistema rodoviário composto pelas rodovias estaduais de Goiás GO-020, GO-060, GO-070 e GO-080 (≈ 572 k → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=yO-d-f09vik&t=535s)
+- **RD 82 (extraordinária) (2024-03-14)**, 1.1.1 · relator **Guilherme Sampaio** · Aprovação dos estudos e documentos jurídicos atualizados da concessão da BR-381/MG (Entroncamento BR-116/451 em Governador Valadares ao entroncamento  → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=0bSt0tVSwtM&t=180s)
+- **RD 982 (2024-05-16)**, 1.1.2 · relator **Guilherme Sampaio** · Aprovação do edital de concessão da BR-381/MG (Belo Horizonte/entr. BR-262 – Governador Valadares/entr. BR-116, 304 km) — nova tentativa de leilão → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=GEhAgYUoli0&t=892s)
+- **RD 983 (2024-05-29)**, 1.2.3 · relator **Felipe Queiroz** · Desestatização da BR-040/495 (trecho Juiz de Fora/MG – Rio de Janeiro/RJ): aprovação do plano de outorga e dos estudos, em atendimento à Deliberação 3 → aprovado por unanimidade
+  - votos: Felipe: relator; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=eeRiLhCPx2Q&t=1922s)
+- **RD 983 (2024-05-29)**, 1.2.4 · relator **Felipe Queiroz** · Desestatização da Rota dos Cristais (BR-040/GO-MG, Cristalina/GO – Belo Horizonte/MG, 594,8 km): aprovação de edital, contrato e estudos de viabilidad → aprovado por unanimidade
+  - votos: Felipe: relator; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=eeRiLhCPx2Q&t=2860s)
+- **RD 984 (2024-06-13)**, 1.3.4 · relator **Lucas Asfor** · Relatório final da Audiência Pública 11/2021 e plano de outorga do lote CN2 (BR-060/364/GO e BR-364/MT, 502,8 km) — concessão rodoviária da quinta eta → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=xnPXGyrmU0c&t=1844s)
+- **RD 986 (2024-07-11)**, 1.1.6 · relator **Rafael Vitale** · Referendo da Deliberação 185, de 04/07/2024, que emitiu o ato de outorga do sistema rodoviário da BR-040/MG (Belo Horizonte a Juiz de Fora, edital 4/2 → aprovado por unanimidade
+  - votos: Rafael: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=bjTH-DbZqCk&t=1153s)
+- **RD 83 (extraordinária) (2024-07-22)**, 1.1.2 · relator **Guilherme Sampaio** · Aprovação do edital de concessão da BR-262/MG (Rota do Zebu, 438 km, Betim a Uberaba) e sobrestamento da publicação do projeto Rota Sertaneja (BR-153/ → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=gcVJwfeNn2M&t=612s)
+- **RD 84 (extraordinária) (2024-08-29)**, 1.1.1 · relator **Lucas Asfor** · Aprovação do edital de concessão do lote CN1 Rota Verde (BR-060/452/GO, Goiânia a Rio Verde e Itumbiara, com Contorno Sul de Goiânia), 452,7 km → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=sBRrfKA1-sk&t=904s)
+- **RD 990 (2024-09-05)**, 1.1.2 · relator **Luciano Lourenço** · Aprovação do edital de concessão dos lotes 3 (BR-369, 373, 376; PR-090, 170, 323, 445) e 6 (BR-163, 277; PR-158, 180, 182, 280, 483) das Rodovias Inte → aprovado por unanimidade
+  - votos: Luciano: relator; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=m6tfBRRgsEI&t=2827s)
+- **RD 991 (2024-09-18)**, 1.1.29 (sigiloso) · relator **Guilherme Sampaio** · Procedimento de negociação e solução de controvérsias (IN conjunta ANTT/PF 1/2021) para solução consensual sobre multas administrativas judicializadas → deliberado em sessão reservada após o encerramento da transmissão (resultado não disponíve
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=ymhnvMkmbvY&t=368s)
+- **RD 992 (2024-10-03)**, Extrapauta · relator **Guilherme Sampaio** · Homologação do resultado do leilão da concessão do sistema rodoviário BR-381/MG (Edital 1/2024; trecho de 304 km entre Belo Horizonte e Governador Val → aprovado por unanimidade — resultado homologado
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=DgSc5QHQ8V8&t=857s)
+- **RD 993 (2024-10-17)**, 1.1.1 · relator **Rafael Vitale** · Referendo da Deliberação 390, de 4/10/2024, que autorizou a publicação da atualização do Edital de Concessão 4/2024 (Rota Verde, lote CN1, BR-060/452/ → aprovado por unanimidade (referendo)
+  - votos: Rafael: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=WVL5yNdky0U&t=759s)
+- **RD 994 (2024-10-31)**, 1.2.1 · relator **Guilherme Sampaio** · Abertura de consulta pública sobre a proposta de readequação e otimização do contrato de concessão da BR-101/ES-BA (Eco 101), incluindo minutas de edi → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=VnHLaZxsXeY&t=414s)
+- **RD 994 (2024-10-31)**, 1.2.2 · relator **Guilherme Sampaio** · Termo de referência de ambiente regulatório experimental (sandbox, Resolução 5.999/2022) para processo competitivo de transferência do controle acioná → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=VnHLaZxsXeY&t=866s)
+- **RD 994 (2024-10-31)**, 1.4.1 · relator **Lucas Asfor** · Aprovação do edital de concessão do lote CN5 Rota Agro Norte (BR-364/RO, 686,7 km) → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=VnHLaZxsXeY&t=3520s)
+- **RD 994 (2024-10-31)**, extrapauta · relator **Felipe Queiroz** · Homologação do resultado do leilão do Edital 2/2024 (Rota dos Cristais, BR-040 de Cristalina/GO a Belo Horizonte/MG) → aprovado por unanimidade — homologado
+  - votos: Felipe: relator; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=VnHLaZxsXeY&t=7306s)
+- **RD 86 (extraordinária) (2024-11-21)**, 1.1.1 · relator **Lucas Asfor** · Abertura de audiência pública sobre minutas de edital e contrato, PER e estudos de viabilidade da concessão do lote rodoviário BR-116/BA-PE e BR-324/B → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=H16l_3mguto&t=50s)
+- **RD 997 (2024-12-13)**, 1.1.1, 1.1.2, 1.1.4 e 1.1.5 (em bloco) · relator **Rafael Vitale** · Referendos das Deliberações 516, 517, 519 e 520/2024 (5 e 6/12/2024): assinatura do termo de referência de ambiente regulatório experimental (sandbox) → referendadas por unanimidade (4 itens em bloco, art. 68 §2º do Regimento)
+  - votos: Rafael: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=9YqBgdwm15U&t=740s)
+- **RD 997 (2024-12-13)**, 1.1.6 · relator **Rafael Vitale** · Proposta de instrução normativa que estabelece fluxograma, procedimentos e competências para solicitação de solução consensual perante o TCU no âmbito → retirado de pauta por pedido de vista de Felipe Queiroz (antes da votação)
+  - votos: Rafael: relator; Felipe: vista · [vídeo](https://www.youtube.com/watch?v=9YqBgdwm15U&t=1260s)
+- **RD 997 (2024-12-13)**, 1.2.1 · relator **Guilherme Sampaio** · Homologação do resultado do leilão da concessão do sistema rodoviário da BR-262/MG (Rota do Zebu), Edital 3/2024 → aprovado por unanimidade — leilão homologado
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=9YqBgdwm15U&t=1490s)
+- **RD 997 (2024-12-13)**, 1.2.2 · relator **Guilherme Sampaio** · Sexto termo aditivo ao contrato (Edital 1/2011, BR-101/ES-BA): nova postergação, por 180 dias, do início da vigência do terceiro aditivo (relicitação/ → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=9YqBgdwm15U&t=1721s)
+- **RD 998 (2024-12-19)**, 1.1.2 · relator **Guilherme Sampaio** · Abertura de audiência pública sobre minutas de edital, contrato, PER e estudos de viabilidade da concessão do lote rodoviário BR-116/251 (MG), cerca d → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=3KyK_89ogrM&t=417s)
+- **RD 998 (2024-12-19)**, 1.3.1 · relator **Felipe Queiroz** · Relatório final do procedimento de negociação e solução de controvérsias (COMPOR) nos termos da IN Conjunta 1/2023: termo de consenso sobre a substitu → aprovado por unanimidade — termo de consenso aprovado
+  - votos: Felipe: relator; Luciano: acompanha; Guilherme: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=3KyK_89ogrM&t=1983s)
+- **RD 998 (2024-12-19)**, 1.3.2 · relator **Felipe Queiroz** · Abertura de audiência pública sobre minutas de edital e contrato da concessão da infraestrutura da EF-118 (São João da Barra/RJ a Anchieta/ES) e do se → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=3KyK_89ogrM&t=3227s)
+- **RD 998 (2024-12-19)**, 1.4.1 · relator **Lucas Asfor** · Relatório final da audiência pública 5/2023 e aprovação do plano de outorga da concessão da malha Oeste ferroviária (extensão de ordem de centenas de  → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=3KyK_89ogrM&t=3804s)
+- **RD 87 (extraordinária) (2024-12-27)**, 1.2.1 · relator **Felipe Queiroz** · Sexto termo aditivo ao contrato da Estrada de Ferro Carajás (EFC) e sétimo termo aditivo ao contrato da Estrada de Ferro Vitória a Minas (EFVM), confo → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=yC3psirpX8U&t=2730s)
+- **RD 88 (extraordinária) (2025-01-17)**, 1.1.1 · relator **Guilherme Sampaio** · Emissão do ato de outorga em favor da concessionária vencedora do leilão da concessão do sistema rodoviário da BR-381/MG (Edital 1/2024), para posteri → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=haS4ZaT-Ih0&t=65s)
+- **RD 88 (extraordinária) (2025-01-17)**, 1.2.1 · relator **Felipe Queiroz** · Aprovação do edital de concessão do sistema rodoviário BR-040/495 (Minas Gerais e Rio de Janeiro, Juiz de Fora ao Trevo das Missões, ramal da BR-495 a → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=haS4ZaT-Ih0&t=505s)
+- **RD 88 (extraordinária) (2025-01-17)**, 1.3.1 · relator **Lucas Asfor** · Homologação do resultado do leilão da concessão do sistema rodoviário das rodovias BR-060 e BR-452/GO (Lote CN1, «Rota Verde», Edital 4/2024) → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=haS4ZaT-Ih0&t=1382s)
+- **RD 1000 (2025-01-30)**, 1.3.6 · relator **Luciano Lourenço** · Homologação do resultado do leilão (Edital 5/2024) das Rodovias Integradas do Paraná: Lote 3 (BR-369/373/376 e PRs) e Lote 6 (BR-163/277 e PRs) → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=Ej8aJh627Ak&t=2680s)
+- **RD 1000 (2025-01-30)**, 1.4.1 · relator **Felipe Queiroz** · Emissão do ato de outorga e autorização para assinatura do contrato de concessão da BR-040 GO/MG (Edital 2/2024), resultado do leilão → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=Ej8aJh627Ak&t=4127s)
+- **RD 1000 (2025-01-30)**, 1.5.1 · relator **Lucas Asfor** · Relatório final da Consulta Pública 3/2024 e publicação do edital de processo competitivo para readaptação e otimização do contrato de concessão da BR → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=Ej8aJh627Ak&t=6072s)
+- **RD 1001 (2025-02-13)**, extrapauta · relator **Guilherme Sampaio** · Emissão do ato de outorga à Rotas do Brasil S.A. para a concessão da BR-262/MG (Betim–Uberaba, 438 km), edital 3/2024, e autorização para assinar o co → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=5q1TOuEcAD8&t=1630s)
+- **RD 1002 (2025-02-26)**, extrapauta 2 · relator **Felipe Queiroz** · Autorização de início da cobrança de pedágio nas praças P1 a P7 da BR-040 (GO/MG) e reajuste da tarifa básica de pedágio → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=NP_h_5l7CZI&t=964s)
+- **RD 91 (extraordinária) (2025-03-17)**, 1 · relator **Guilherme Sampaio** · Relatório final da Consulta Pública 1/2024 e publicação do edital do processo competitivo para a troca de controle acionário da Eco 101 Concessionária → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=QqOm_wrYtxU&t=59s)
+- **RD 1004 (2025-03-27)**, 1.1.1 · relator **Lucas Asfor** · Relatório final da Audiência Pública 9/2024 e minuta de plano de outorga da concessão da BR-116/BA-PE (Salgueiro/PE a Feira de Santana/BA, 502 km) — R → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: outro; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=mayS8ij1N3w&t=354s)
+- **RD 1004 (2025-03-27)**, 1.1.3 · relator **Lucas Asfor** · Homologação do resultado do leilão (Edital 4/2024) e outorga da concessão das rodovias BR-060/452 em Goiás (lote CN1, Rota Verde), com autorização par → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=mayS8ij1N3w&t=865s)
+- **RD 1004 (2025-03-27)**, 1.1.5 · relator **Lucas Asfor** · Aprovação do edital de concessão do lote CN2 Rota Agro-Norte: BR-364 entre Goiás e Mato Grosso, cerca de 409 km → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: outro; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=mayS8ij1N3w&t=1182s)
+- **RD 1005 (2025-04-10)**, 1.2.1 · relator **Felipe Queiroz** · Emissão do ato de outorga do resultado dos leilões das concessões rodoviárias do Paraná, lotes 3 (PRVias S.A.) e 6 (EPR Iguaçu S.A.), Edital 5/2024, e → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=3MG208fUo44&t=284s)
+- **RD 1005 (2025-04-10)**, 1.2.2 · relator **Felipe Queiroz** · Juízo de admissibilidade de pedido de instauração de procedimento de negociação e solução de controvérsias (Compor/Câmara de Composição), nos termos d → aprovado por unanimidade — pedido admitido
+  - votos: Felipe: relator; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=3MG208fUo44&t=1003s)
+- **RD 1005 (2025-04-10)**, 1.3.1 · relator **Lucas Asfor** · Proposta de termo de consenso que estabelece a metodologia de cálculo dos impactos da pandemia de COVID-19 nos preços de insumos de obras rodoviárias, → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=3MG208fUo44&t=1757s)
+- **RD 1005 (2025-04-10)**, 1.3.2 · relator **Lucas Asfor** · Homologação do resultado do leilão da concessão do sistema rodoviário da BR-364/RO, Lote CN5, «Rota Agronorte» (Edital 6/2024) → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=3MG208fUo44&t=2234s)
+- **RD 1006 (2025-04-24)**, reservado · relator **Guilherme Sampaio** · Deliberação sobre o termo de autocomposição no âmbito da solução consensual da concessão da Autopista Fernão Dias (processo reservado, julgado ao fina → não consta na transmissão (sigiloso)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=bad9Ktg5Qlw&t=299s)
+- **RD 1008 (2025-05-22)**, 1.1.2 · relator **Felipe Queiroz** · Deliberação acerca do termo de autocomposição no âmbito da solução consensual (processo sigiloso, julgado na parte reservada) → não apreciado na parte pública (sigiloso)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=RYsj2wuUOxE&t=73s)
+- **RD 1008 (2025-05-22)**, 1.2.x · relator **Lucas Asfor** · Deliberação acerca do termo de autocomposição no âmbito da solução consensual (processo sigiloso, julgado na parte reservada) → não apreciado na parte pública (sigiloso)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=RYsj2wuUOxE&t=73s)
+- **RD 1008 (2025-05-22)**, 1.1.1 · relator **Felipe Queiroz** · Procedimento de negociação e solução de controvérsias (IN conjunta 1/2023) sobre parâmetros técnicos de custo das obras dos túneis 1, 2 e 3 do Contorn → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=RYsj2wuUOxE&t=170s)
+- **RD 1009 (2025-06-05)**, 1.1.1 · relator **Guilherme Sampaio** · Aprovação do relatório final da participação e controle social (consulta/audiência pública 13/2024) sobre minutas de edital, contrato, PER e EVTEA da  → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=XmIUbYLQwhA&t=209s)
+- **RD 1009 (2025-06-05)**, 1.2.1 · relator **Lucas Asfor** · Homologação do resultado do processo competitivo (Edital 1/2025) para alienação de 100% das ações da MS Via, no âmbito da otimização do contrato de co → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=XmIUbYLQwhA&t=1074s)
+- **RD 1010 (2025-06-18)**, 1.1.1 · relator **Felipe Queiroz** · Homologação do resultado do leilão da concessão da BR-040/495 (MG/RJ), Edital 1/2025 → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=-ERkhRGYBT0&t=79s)
+- **RD 1010 (2025-06-18)**, 1.2.1 · relator **Lucas Asfor** · Relatório final da Audiência Pública 12/2021 e plano de outorga do lote rodoviário CN3 (Rota Agrocentral, BR-070/364, RO/MT, 887,6 km) → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: outro; Guilherme: outro · [vídeo](https://www.youtube.com/watch?v=-ERkhRGYBT0&t=978s)
+- **RD 93 (extraordinária) (2025-07-15)**, 1.1.1 · relator **Guilherme Sampaio** · Abertura de consulta pública sobre a readaptação e otimização do contrato da BR-381 MG/SP (569 km) e, no sandbox regulatório, sobre documentos aplicáv → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=SZtglx45jNw&t=134s)
+- **RD 93 (extraordinária) (2025-07-15)**, 1.1.2 · relator **Guilherme Sampaio** · Termo de referência do ambiente regulatório experimental (Res. 5999/2022) para o processo competitivo de transferência do controle acionário da Autopi → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=SZtglx45jNw&t=481s)
+- **RD 93 (extraordinária) (2025-07-15)**, 1.2.1 · relator **Lucas Asfor** · Edital de concessão unificado dos lotes 4 e 5 das Rodovias Integradas do Paraná (PR Vias) → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=SZtglx45jNw&t=585s)
+- **RD 1012 (2025-07-17)**, 1.1.1 · relator **Guilherme Sampaio** · Homologação do resultado do processo competitivo (Edital 02/2025) de alienação de 100% das ações da Eco 101 (BR-101/ES-BA), no âmbito da otimização do → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=n7-Sjejnzz0&t=414s)
+- **RD 1012 (2025-07-17)**, 1.3.4 · relator **Lucas Asfor** · Emissão do ato de outorga e autorização para assinar o contrato do leilão da BR-364/RO (Edital 6/2024, Vilhena a Porto Velho) → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=n7-Sjejnzz0&t=3604s)
+- **RD 94 (extraordinária) (2025-07-24)**, 1.1.1 · relator **Guilherme Sampaio** · Edital de concessão do sistema rodoviário BR-153/262 (GO/MG), Rota Sertaneja, 530 km (trechos hoje sob a Concebra, em relicitação) → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=HlrFCcdzCgI&t=50s)
+- **RD 1013 (2025-08-01)**, 1.2.7 · relator **Felipe Queiroz** · Novo termo de referência do ambiente regulatório experimental (sandbox, Res. 5.999/2022) para processo competitivo de eventual transferência de contro → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=mUFBjDvQ9VM&t=3870s)
+- **RD 1013 (2025-08-01)**, extrapauta 2 · relator **Felipe Queiroz** · Relatório final da Consulta Pública 2/2024 e publicação do edital do processo competitivo para readaptação e otimização do contrato da BR-101/RJ → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=mUFBjDvQ9VM&t=4527s)
+- **RD 1013 (2025-08-01)**, extrapauta 3 · relator **Lucas Asfor** · Declaração de consumação do processo competitivo (Edital 1/2025) e autorização para assinar o termo aditivo ao contrato de concessão da BR-163/MS → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=mUFBjDvQ9VM&t=5428s)
+- **RD 1015 (2025-08-29)**, 1.2.5 · relator **Lucas Asfor** · Relatório final da audiência pública 2/2025 sobre minutas de edital e contrato, PER e EVTEA da concessão da BR-324 e BR-116 na Bahia («Rota 2 de Julho → aprovado por unanimidade — com ajustes incorporados (declaração de voto de Felipe Queiroz)
+  - votos: Lucas: relator; Felipe: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=AO9wlMZ_8p8&t=2070s)
+- **RD 95ª Extraordinária (2025-09-02)**, 1.1.1 · relator **Guilherme Sampaio** · Relatório final da consulta pública 1/2025 (87 contribuições; sessões em Guarulhos e Contagem) e edital do processo competitivo para a otimização da c → aprovado por unanimidade — leilão marcado para 11/12/2025 na B3
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Amaral: acompanha · [vídeo](https://www.youtube.com/watch?v=FL46A_ucbcI&t=389s)
+- **RD 95 (extraordinária) (2025-09-02)**, 1.1.1 · relator **Guilherme Sampaio** · Aprovação do relatório final da consulta pública 1/2025 e do edital do processo competitivo para a otimização/modernização do contrato de concessão da → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Amaral: acompanha · [vídeo](https://www.youtube.com/watch?v=_edCUoWtVP0&t=460s)
+- **RD 1017 (2025-09-26)**, 1.1.3 · relator **Felipe Queiroz** · Emissão do ato de outorga referente ao leilão da concessão da BR-040/495 (MG/RJ), Edital 1/2025 (Rota Imperial), com autorização para assinatura do co → aprovado por unanimidade
+  - votos: Felipe: relator; Alex: acompanha; Amaral: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=1gCCZmxLMYE&t=171s)
+- **RD 1018 (2025-10-08)**, 1.1.2 · relator **Guilherme Sampaio** · Complementação do relatório final da Consulta Pública 1/2025 (otimização/modernização do contrato da BR-381/MG-SP, edital de processo competitivo 4/20 → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Amaral: acompanha · [vídeo](https://www.youtube.com/watch?v=U4NrWpy5b6E&t=1653s)
+- **RD 1019 (2025-10-23)**, 1.1.2 (sigiloso) · relator **Guilherme Sampaio** · Minuta de termos de autocomposição e relatório da Comissão de Solução Consensual (TCU, TC 024.992/2024-0) sobre proposta de otimização do contrato do  → julgado em sessão restrita ao final da transmissão; resultado não disponível
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=CezCZuXfe5A&t=450s)
+- **RD 1019 (2025-10-23)**, 1.1.1 · relator **Guilherme Sampaio** · Solução consensual do COMPOR 6/2025: devolução do trecho Salgueiro/PE - Porto de Suape/PE (cerca de 522 km) e controvérsias do primeiro termo aditivo  → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Amaral: acompanha · [vídeo](https://www.youtube.com/watch?v=CezCZuXfe5A&t=480s)
+- **RD 1020 (2025-11-05)**, 1.3.7 · relator **Lucas Asfor** · Recursos administrativos contra a inabilitação da primeira colocada, Consórcio Rota Agrobrasil, no leilão da concessão CN2 (Rota Agro) → aprovado por unanimidade — recursos conhecidos e desprovidos; mantida a inabilitação
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Amaral: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=KsteuYm_RoM&t=6734s)
+- **RD 1020 (2025-11-05)**, 1.3.8 · relator **Lucas Asfor** · Abertura de consulta pública sobre a readaptação e otimização do contrato (solução consensual aprovada pelo TCU, CSC/SecexConsenso) com processo compe → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Amaral: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=KsteuYm_RoM&t=8100s)
+- **RD 1022 (2025-12-04)**, 1.3.1 · relator **Lucas Asfor** · Homologação do resultado dos leilões dos lotes 4 e 5 das Rodovias Integradas do Paraná (edital 3/2025) → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Severino: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=RtFPynve2ew&t=4196s)
+- **RD 1022 (2025-12-04)**, 1.3.3 · relator **Lucas Asfor** · Termo de referência do ambiente regulatório experimental (sandbox, Res. 5999/2022) para processo competitivo de transferência do controle acionário (B → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Severino: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=RtFPynve2ew&t=4980s)
+- **RD 1022 (2025-12-04)**, 1.3.4 · relator **Lucas Asfor** · Recurso contra a Deliberação 320/2025, que autorizou a publicação do edital do processo competitivo 4/2025 (alienação de 100% das ações da Autopista F → aprovado por unanimidade — recurso conhecido e desprovido
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Severino: outro; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=RtFPynve2ew&t=5380s)
+- **RD 1023 (2025-12-17)**, 1.1.2 · relator **Guilherme Sampaio** · Homologação do resultado do leilão da concessão BR-153/262 (GO/MG), Rota Sertaneja, Edital 4/2025 (530 km) → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Severino: nao_captado · [vídeo](https://www.youtube.com/watch?v=x8QgM4O8I_Y&t=2651s)
+- **RD 1023 (2025-12-17)**, 1.1.3 · relator **Guilherme Sampaio** · Aprovação do edital de concessão do sistema rodoviário BR-116/251 (MG), Rota das Gerais (734,9 km) → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Severino: acompanha · [vídeo](https://www.youtube.com/watch?v=x8QgM4O8I_Y&t=2814s)
+- **RD 1023 (2025-12-17)**, 1.2.1 · relator **Felipe Queiroz** · Relatório final da Audiência Pública 14/2024 (minutas de edital e contrato e estudos de viabilidade da EF-118, corredor ferroviário do Sudeste, São Jo → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Severino: outro; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=x8QgM4O8I_Y&t=3780s)
+- **RD 1023 (2025-12-17)**, extrapauta-1 · relator **Felipe Queiroz** · Homologação do resultado do processo competitivo 3/2025 (alienação de 100% das ações da Autopista Fluminense, BR-101/RJ) → aprovado por unanimidade — homologação condicionada
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Severino: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=x8QgM4O8I_Y&t=6100s)
+- **RD 1023 (2025-12-17)**, 1.3.1 · relator **Lucas Asfor** · Homologação do resultado do leilão da concessão das rodovias BR-060/364 (GO/MT), Rota Agro (lote CN2), Edital 2/2025 → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Severino: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=x8QgM4O8I_Y&t=6706s)
+- **RD 1023 (2025-12-17)**, 1.3.4 · relator **Lucas Asfor** · Sétimo termo aditivo ao contrato de concessão da Malha Sudeste, decorrente do termo de autocomposição firmado no processo de solução consensual do TCU → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Severino: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=x8QgM4O8I_Y&t=7882s)
+- **RD 1024 (2026-01-19)**, extra-pauta-Fernao · relator **Guilherme Sampaio** · Homologação do resultado do leilão do processo competitivo 4/2025 (alienação de 100% das ações da Autopista Fernão Dias, BR-381 MG/SP) → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Severino: acompanha · [vídeo](https://www.youtube.com/watch?v=YRL6gBTlIMU&t=1013s)
+- **RD 1025 (2026-01-29)**, 1.3.2 · relator **Lucas Asfor** · Emissão do ato de outorga do leilão das Rodovias Integradas do Paraná, Lote 4 (edital 3/2025) → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Severino: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=d2BF6usx0p8&t=8487s)
+- **RD 1025 (2026-01-29)**, 1.3.3 · relator **Lucas Asfor** · Adequação das minutas de edital, contrato e anexos ao plano de outorga alterado pelo Ministério dos Transportes para a concessão Rota 2 de Julho (BR-3 → aprovado por maioria quanto às razões; unânime quanto à remessa ao TCU — Alex Azevedo venc
+  - votos: Lucas: relator; Felipe: acompanha; Alex: vencido; Severino: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=d2BF6usx0p8&t=8817s)
+- **RD 1026 (2026-02-12)**, 1.1.1 · relator **Guilherme Sampaio** · Homologação de acordo e 2º termo aditivo ao contrato de permissão 001/2015 (edital 2/2014) para restabelecer o equilíbrio econômico-financeiro afetado → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: outro; Lucas: acompanha; Alex: acompanha; Severino: acompanha · [vídeo](https://www.youtube.com/watch?v=5dRdxywub1g&t=3198s)
+- **RD 1026 (2026-02-12)**, 1.3.1 · relator **Lucas Asfor** · Aprovação do edital da concessão Rota dos Sertões (BR-116 PE/BA e BR-324 BA; ≈ 502 km); leilão em 28/05/2026 na B3 → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: outro; Alex: acompanha; Severino: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=5dRdxywub1g&t=4420s)
+- **RD 1027 (2026-02-27)**, 1.1.1 · relator **Guilherme Sampaio** · Emissão do ato de outorga e assinatura do contrato de concessão da BR-153/262 GO/MG (Rota Sertaneja) → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Alessandro: acompanha · [vídeo](https://www.youtube.com/watch?v=LEEd7sNRbY4&t=1805s)
+- **RD 1027 (2026-02-27)**, 1.2.3 · relator **Felipe Queiroz** · Declaração de consumação do processo competitivo 3/2025 e assinatura do termo aditivo da Autopista Fluminense → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=LEEd7sNRbY4&t=3323s)
+- **RD 1027 (2026-02-27)**, 1.3.1 · relator **Lucas Asfor** · Emissão do ato de outorga e assinatura do contrato da concessão BR-060/364 GO/MT (Rota Agro), edital 2/2025 → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=LEEd7sNRbY4&t=3905s)
+- **RD 1027 (2026-02-27)**, 1.4.3 · relator **Alex Azevedo** · Audiência pública para a readaptação e otimização do contrato da BR-163 MT/PA e BR-230 PA (solução consensual no TCU, Acórdão 11/2026), com função adi → aprovado por unanimidade
+  - votos: Alex: relator; Felipe: acompanha; Lucas: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=LEEd7sNRbY4&t=5948s)
+- **RD 1027 (2026-02-27)**, 1.4.4 · relator **Alex Azevedo** · Audiência pública da concessão Rota Portuária do Sul (BR-116/RS entre Camaquã e Jaguarão e BR-392/RS; ≈ 459,6 km), sexta etapa de concessões → aprovado por unanimidade
+  - votos: Alex: relator; Felipe: acompanha; Lucas: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=LEEd7sNRbY4&t=7391s)
+- **RD 1028 (2026-03-12)**, 1.3.1 · relator **Lucas Asfor** · Emissão do ato de outorga e autorização para assinar o contrato de concessão do Lote 5 (BR-163/369/467 e PR-158/317/467/977/978), edital 3/2025 → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Alessandro: acompanha · [vídeo](https://www.youtube.com/watch?v=vCk-kiheM3s&t=2036s)
+- **RD 1029 (2026-03-26)**, extra-pauta-Motiva · relator **Guilherme Sampaio** · Autorização para o contrato de compra e venda de ações da Autopista Fernão Dias, com transferência do controle acionário da Artéris para a Motiva, no  → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Alessandro: acompanha · [vídeo](https://www.youtube.com/watch?v=Lxo2sCqePJk&t=3634s)
+- **RD 99ª Extraordinária (2026-04-13)**, 1.1.1 · relator **Lucas Asfor** · Relatório final da consulta pública 2/2025 (176 contribuições) e edital do processo competitivo para readaptação e otimização do contrato da BR-116 SP → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: outro; Alex: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=J2D2nXHknIg&t=2247s)
+- **RD 99ª Extraordinária (2026-04-13)**, 1.2.1 · relator **Alex Azevedo** · Termo de referência do ambiente regulatório experimental (sandbox, Res. 5999/2022) para o processo competitivo de transferência de controle da concess → aprovado por unanimidade
+  - votos: Alex: relator; Felipe: acompanha; Lucas: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=J2D2nXHknIg&t=2751s)
+- **RD 1032 (2026-05-07)**, 1.1.1 · relator **Felipe Queiroz** · Declaração de consumação do processo competitivo e assinatura do termo aditivo da BR-381 MG/SP (otimização, edital 04/2025) → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Alessandro: acompanha · [vídeo](https://www.youtube.com/watch?v=-dXOY2M37G4&t=2302s)
+- **RD 1032 (2026-05-07)**, 1.2.1 · relator **Alex Azevedo** · Audiência pública para a concessão dos lotes 1 e 3 das rodovias de Santa Catarina (BR-153, 282, 470/480; 515,6 km e 166 km), sexta etapa de concessões → aprovado por unanimidade
+  - votos: Alex: relator; Lucas: acompanha; Alessandro: acompanha; Felipe: acompanha · [vídeo](https://www.youtube.com/watch?v=-dXOY2M37G4&t=3633s)
+- **RD 1032 (2026-05-07)**, 1.3.3 · relator **Alessandro Baumgarten** · Primeiro chamamento público para autorização de exploração de infraestrutura ferroviária do corredor Minas–Rio (edital 01/2026; lote 1 de 625,8 km e l → aprovado por unanimidade
+  - votos: Alessandro: relator; Lucas: acompanha; Alex: acompanha; Felipe: acompanha · [vídeo](https://www.youtube.com/watch?v=-dXOY2M37G4&t=6376s)
+- **RD 1033 (2026-05-21)**, 1.1.1 · relator **Guilherme Sampaio** · Homologação do resultado do leilão da concessão das BR-116/251 (MG, 734 km), edital 5/2025 → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Alessandro: acompanha · [vídeo](https://www.youtube.com/watch?v=R_zbvJ8TXjs&t=2379s)
+- **RD 1033 (2026-05-21)**, 1.3.4 · relator **Lucas Asfor** · Estudos de viabilidade, minutas e plano de outorga para a licitação da Malha Oeste (Ferroeste, ≈ 1.625 km, Mairinque/SP–Corumbá/MS); envio ao TCU e ao → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=R_zbvJ8TXjs&t=5143s)
+- **RD 1034 (2026-06-02)**, 1.1.1 · relator **Guilherme Sampaio** · Ato de outorga e autorização para assinar o contrato da concessão BR-116/251 (MG) — Rota das Gerais (edital 5/2025); leilão homologado em 22/05/2026;  → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Alessandro: acompanha · [vídeo](https://www.youtube.com/watch?v=jmj1jyUxsuA&t=3s)
+- **RD 1037 (2026-07-16)**, 1.2.1 · relator **Lucas Asfor** · Homologação do resultado do leilão da concessão BR-116 (BA/PE) e BR-324 (BA) — Rota dos Sertões (edital 1/2026) → aprovado por unanimidade — vencedor Consórcio 116 Sertões (desconto de 19,6% na tarifa bás
+  - votos: Lucas: relator; Alex: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=ixMkeB6vSIM&t=4083s)
+- **RD 1037 (2026-07-16)**, 1.3.3 · relator **Alex Azevedo** · Relatório final da AP 3/2026 (110 manifestações) e edital do processo competitivo para alienação de 100% das ações da Via Brasil BR-163 (BR-163 MT/PA  → aprovado por unanimidade — leilão marcado para 12/11/2026
+  - votos: Alex: relator; Lucas: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=ixMkeB6vSIM&t=7275s)
+- **RD 1040 (2026-08-27)**, 1.5.1 · relator **Marcelo Fonseca** · Atendimento às determinações do Acórdão TCU 2209/2026-Plenário sobre o 1º chamamento público para autorização ferroviária do corredor Minas–Rio; edita → aprovado por unanimidade, com ajuste decidido em plenário
+  - votos: Marcelo: relator; Lucas: acompanha; Alex: acompanha; Felipe: acompanha · [vídeo](https://www.youtube.com/watch?v=8p1X1Nfk9Cs&t=6090s)
+- **RD 101ª Extraordinária (2026-09-01)**, 1.1.1 · relator **Guilherme Sampaio** · Abertura de audiência pública, realizada concomitantemente à vigência do edital, sobre as minutas do edital do processo competitivo, termo aditivo (PE → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=Q8UGEXRy5vk&t=1307s)
+- **RD 101ª Extraordinária (2026-09-01)**, 1.1.2 · relator **Guilherme Sampaio** · Edital do processo competitivo 3/2026 para alienação de 100% das ações da Concebra (a ementa lida diz 5%, erro de legenda), Rota do Pequi — leilão pre → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=Q8UGEXRy5vk&t=1869s)
+- **RD 102ª Extraordinária (2026-09-03)**, 1.2.1 · relator **Lucas Asfor** · Edital de concessão da BR-116/324 (BA) — Rota 2 de Julho, 653 km (Salvador–Feira de Santana–Vitória da Conquista–divisa MG) → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=J5gkP2cLOm8&t=2486s)
+- **RD 102ª Extraordinária (2026-09-03)**, 1.2.2 · relator **Lucas Asfor** · Edital de concessão das BR-070/174/364 (MT/RO) — Rota Agrocentral, 887 km → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=J5gkP2cLOm8&t=3026s)
+- **RD 1041 (2026-09-10)**, 1.1.3 · relator **Guilherme Sampaio** · Termo de referência do ambiente regulatório experimental (sandbox, Res. 5999/2022) para processo competitivo de transferência do controle acionário da → aprovado por unanimidade
+  - votos: Felipe: acompanha · [vídeo](https://www.youtube.com/watch?v=DRpLm1FOHCA&t=698s)
+- **RD 1041 (2026-09-10)**, 1.2.1 · relator **Lucas Asfor** · Homologação do resultado do leilão (edital de processo competitivo 1/2026) para alienação de 100% das ações da Autopista Régis Bittencourt (SP–PR) → aprovado por unanimidade — vencedora EPR Participações (desconto de 22,53% na tarifa básic
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=DRpLm1FOHCA&t=1839s)
+- **RD 1041 (2026-09-10)**, 1.3.1 · relator **Alex Azevedo** · Alterações no edital do processo competitivo 2/2026 (itens 2.2, 8.1, 10.7, 18.2 e novo 12.10A) e no anexo 10 (contrato de compra e venda de ações): pe → aprovado por unanimidade
+  - votos: Alex: relator; Felipe: acompanha; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=DRpLm1FOHCA&t=2576s)

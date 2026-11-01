@@ -1,0 +1,59 @@
+{
+  "meta": {"video_id": "jtCNyoMzyTc", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:15:50); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "97 (extraordinária)", "data": "2025-11-25", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alex Azevedo", "Severino Medeiros Neto"],
+    "ausentes": [],
+    "observacoes": ["Primeira sessão deliberativa de Severino Medeiros Neto; colegiado completo com cinco diretores sabatinados; boas-vindas de Guilherme Sampaio, Lucas Asfor, Alex Azevedo e Felipe Queiroz.", "Encerrada às 16h26 de 25/11/2025.", "Três processos em duas votações: 1.1.1 (embargos Bradesco BBI) e 1.2.1 e 1.2.2 (free flow da Dutra, relatados e votados em bloco, art. 68 §2º do Regimento Interno).", "Alex Azevedo apresentou complemento de voto (declaração de voto) aceito pelo relator Felipe Queiroz; a Secretaria-Geral deve integrar as duas manifestações na deliberação."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:20:41",
+      "processo": "50500.006517/2022-66", "interessado": "Banco Bradesco BBI S.A.",
+      "assunto": "Embargos de declaração contra a Deliberação 321/2025 (2/9/2025), que deferiu medida cautelar para preservar a análise prévia da ANTT (art. 27 da Lei de Concessões e art. 5º da Res. ANTT 5.927/2021) sobre atos de transferência de controle societário",
+      "tema": ["concessões rodoviárias", "judicializacao", "regulação normativa"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — embargos conhecidos e desprovidos",
+      "resumo_voto": "O Bradesco BBI pediu esclarecimento sobre se estaria proibido de consolidar as ações sem autorização da ANTT ou se só a alienação a terceiros dependeria de prévia anuência. Relator conhece dos embargos (cabíveis e tempestivos), mas nega provimento: não há omissão, contradição ou obscuridade; a decisão preservou a análise prévia da ANTT para qualquer ato que possa significar transferência de controle direto ou indireto.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, conhece e nega provimento aos embargos", "ts": "0:21:30", "justificativa": "ausência dos vícios apontados; decisão colegiada já preserva a análise prévia da ANTT", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:22:55", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "de acordo com o relator", "ts": "0:23:06", "confianca": "media"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator (voto integral)", "ts": "0:23:18", "confianca": "baixa"},
+        {"diretor": "Severino Medeiros Neto", "voto": "acompanha o relator (unanimidade proclamada)", "ts": "0:23:30", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:23:30",
+      "processo": "50500.006352/2025-81", "interessado": "Concessionária do Sistema Rodoviário Rio–São Paulo S.A. (Motiva)",
+      "assunto": "15º termo aditivo ao contrato de concessão (edital 3/2021, BR-116/SP–RJ, Dutra): altera o anexo 14 do PER (regras de gerenciamento de tráfego por pedágio eletrônico free flow) no trecho metropolitano",
+      "tema": ["concessões rodoviárias", "pedágio free flow", "reequilíbrio contratual", "regulação normativa"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade (com complemento de voto de Alex Azevedo)",
+      "resumo_voto": "Minuta aprimorada ao longo do processo; item retirado da pauta da 120ª reunião após pedido da concessionária e revisão pela Surod. Incorpora ao contrato as quatro fases de implementação do free flow (educativa, cobrança sem multa, etc.) e simplifica a estrutura tarifária: tarifa fixa programada, que varia por horário (pico mais alto), em lugar da tarifa dinâmica em tempo real, considerada de difícil gestão e compreensão; ao fim das fases 3 e 4 haverá avaliação técnica para manter ou voltar à tarifa dinâmica. Ajuste para evitar dupla cobrança: quem pagar na praça de Arujá fica isento da pista expressa e tem 2 horas de livre saída e retorno nas marginais.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova o 15º termo aditivo", "ts": "0:24:52", "justificativa": "simplificação regulatória bem-vinda; instrução técnica e jurídica completa; ajustes de tarifa dinâmica e de dupla cobrança em Arujá (justiça tarifária)", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator, com complemento de voto (declaração de voto)", "ts": "0:40:24", "justificativa": "a autorização do free flow desbloqueia a reavaliação de um novo acesso/saída da marginal para a pista expressa, antes julgado inviável pela GGI por causa de obras parciais e da ausência de free flow; dados da fase educativa (11/8 a 10/10/2025) servem à microssimulação; propõe estruturar proposta formal de reavaliação do acesso", "tom": "propositivo", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator e o complemento de Alex", "ts": "0:46:00", "confianca": "alta"},
+        {"diretor": "Severino Medeiros Neto", "voto": "acompanha o relator com o complemento de Alex", "ts": "0:50:38", "justificativa": "elogia a diligência e a precaução do relator", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator e o complemento; proclama unanimidade", "ts": "0:51:20", "justificativa": "determina à Secretaria-Geral integrar as duas manifestações na deliberação", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "0:23:30",
+      "processo": "50500.044581/2025", "interessado": "Concessionária do Sistema Rodoviário Rio–São Paulo S.A. (Motiva)",
+      "assunto": "Autorização para início da cobrança automática de pedágio free flow (fase 2) na BR-116/SP, km 205 ao km 230 (cerca de 25 km; segmentos SP1 a SP3 e RJ1 a RJ4), edital 3/2021",
+      "tema": ["concessões rodoviárias", "pedágio free flow"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade (votado em bloco com 1.2.1)",
+      "resumo_voto": "Fase 1 (educativa) iniciada em 11/8/2025 e estendida além do prazo contratual (cerca de 1,5 mês); em 15/9 a concessionária pediu o ato autorizativo para a fase 2. Vistorias apontaram pendências contratuais com plano de ação até 30/9; o item foi retirado da pauta anterior e, após diligência do relator à Surod, as pendências foram atestadas como sanadas, de modo que a autorização é concedida sem condicionantes. A fase 2 prevê cobrança de tarifa, mas ainda sem lavratura de multa por inadimplência; tarifas programadas por segmento e horário constam da minuta.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, autoriza o início da cobrança", "ts": "0:34:00", "justificativa": "todas as exigências contratuais cumpridas e atestadas nos autos", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "0:48:20", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:46:00", "confianca": "alta"},
+        {"diretor": "Severino Medeiros Neto", "voto": "acompanha o relator", "ts": "0:50:38", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "0:51:20", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática com falantes e números distorcidos; números de processo dos três itens reconstruídos e incertos (1.1.1 «505.006517/202266»; 1.2.1 «50500.6352/202581»; 1.2.2 «505.04 044581/2025»).", "No item 1.1.1 a legenda omite o voto de Severino Medeiros Neto e embaralha o de Alex Azevedo; votos registrados com confiança baixa a partir da proclamação de unanimidade.", "Ts dos votos de 1.2.2 são os da votação em bloco; ts do voto de Guilherme Sampaio estimado.", "Número da reunião ordinária citada pelo relator (120ª, 12ª) é ambíguo na legenda."]
+}

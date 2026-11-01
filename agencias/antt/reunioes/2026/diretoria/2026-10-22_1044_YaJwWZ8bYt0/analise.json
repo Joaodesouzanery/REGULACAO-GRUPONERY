@@ -1,0 +1,107 @@
+{
+  "meta": {"video_id": "YaJwWZ8bYt0", "fonte": "legenda automática do YouTube; falantes inferidos por contexto; ts = tempo do vídeo (sessão começa ~1:28)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1044", "data": "2026-10-22", "formato": "videoconferência, transmitida ao vivo",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alex Azevedo", "Marcelo Fonseca"],
+    "ausentes": [],
+    "outros_presentes": ["Procurador-chefe Rafael Fortunato", "Secretária-geral Renata Teixeira", "Ouvidora substituta Rafaela (Paiva)"],
+    "observacoes": [
+      "Processo sigiloso (relator Felipe Queiroz) julgado em sessão reservada após a parte pública — resultado não disponível. A legenda lê na abertura a ementa do item 1.1.4 (Transbrasiliana Concessionária de Rodovia S.A., procedimento de negociação/solução de controvérsias, IN conjunta PF-ANTT 1/2023); provável que seja o processo reservado, a confirmar.",
+      "Marcelo Fonseca pediu retirada de pauta do item 1.4.1 (voto-vista sobre requerimento de autorização ferroviária para terminal intermodal), alegando interações com a diretoria e risco de precedente na leitura da resolução.",
+      "Houve 1 deliberação não unânime (1.1.3): aprovado por maioria o voto-vista de Felipe Queiroz, vencido o relator Alex Azevedo."
+    ]
+  },
+  "itens": [
+    {
+      "id": "1.1.1+1.1.2", "ts": "1:30:42",
+      "processo": "50500.018844/2025-19 e 50500.018850/2025-68",
+      "interessado": "Superintendência de Sustentabilidade, Pessoas e Inovação",
+      "assunto": "Homologação de resultados do PSI (sandbox de sustentabilidade): rodovias (edital 3/2025: resultado final complementar do Nível 1 e preliminar dos Níveis 2 e 3) e ferrovias (edital 4/2025: resultado preliminar do Nível 2); relatados em bloco",
+      "tema": ["sandbox/inovação", "concessões rodoviárias", "ferrovias"],
+      "relator": "Felipe Queiroz", "resultado": "aprovados por unanimidade",
+      "resumo_voto": "Recurso da EcoRodovias Capixaba contra resultado preliminar do Nível 1 indeferido no mérito (só corrigir erro de CNPJ). Rodovias: 5 concessionárias aptas ao Nível 2 e 9 ao Nível 3; 3 com pendências documentais ficam para lote posterior. Ferrovias: MRS, Rumo Malha Paulista e Rumo Malha Central aptas ao Nível 2 (as duas da Rumo perto da nota de corte da faixa C). Agência verifica o rito e a correlação com o relatório do verificador independente, sem rever o mérito das evidências. Prazo de 15 dias para recursos.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, homologa", "ts": "1:32:23", "justificativa": "continuidade do PSI e ampla governança (comitês paritários + área técnica + diretoria)", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha (primeiro a votar)", "ts": "1:41:22", "confianca": "média"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "1:41:36", "confianca": "alta"},
+        {"diretor": "Marcelo Fonseca", "voto": "acompanha integralmente", "ts": "1:41:36", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente", "ts": "1:41:36", "confianca": "média"}
+      ]
+    },
+    {
+      "id": "1.1.3", "ts": "1:41:36",
+      "processo": "50505.009485/2025-51",
+      "interessado": "Expresso Guanabara Ltda., Empresa Gontijo de Transportes S.A. (recorrentes) e Expresso União Ltda. / Expresso São Luís (beneficiária da decisão)",
+      "assunto": "Recursos administrativos contra a Decisão SUPAS 327/2025 que deferiu mercados (TAR) pleiteados pela Expresso União/São Luís no transporte rodoviário interestadual de passageiros. Apresentado na RD 1033 (21/05/2026) pelo relator Alex Azevedo; Felipe Queiroz pediu vista",
+      "tema": ["transporte rodoviário de passageiros (ônibus)", "autorizações de mercado (TAR) e novo marco regulatório"],
+      "relator": "Alex Azevedo (voto original); revisor: Felipe Queiroz (voto-vista)",
+      "resultado": "aprovado POR MAIORIA o voto-vista de Felipe Queiroz: conhecer dos recursos e negar provimento, mantendo a Decisão SUPAS 327/2025",
+      "resumo_voto": "Divergência em dois pontos: (1) tempestividade do início de operação — Felipe verificou no recibo eletrônico que o protocolo foi no 30º dia (08/02/2024, 11:34), não no 31º, como entendia o relator; (2) regra de transição do art. 226 §3º da Res. 6033 (linhas com licença publicada antes da vigência, ainda sem operação, são consideradas ativas) — o DAR foi publicado em jan/2024, antes do novo marco (fev/2024). Felipe também aplica prazo de 30 dias (art. 68 §3º, Lei 10.233) e não de 10 dias para o recurso. Alinhado à área técnica.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "mantém o voto de relator (divergente da maioria) — VENCIDO", "ts": "1:52:23", "justificativa": "mantém entendimento; diz que a divergência é menor e não altera a linha da agência sobre prazos; respeita o voto de Felipe", "tom": "cordial, sem polêmica", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto-vista divergente do relator", "ts": "1:42:44", "justificativa": "prazo contado no 30º dia (prova documental), regra de transição do marco, aderência à área técnica", "tom": "técnico, elogia o debate com Alex", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "adere integralmente ao voto-vista (primeiro a votar)", "ts": "1:49:18", "justificativa": "pede vênia ao relator; adesão pela comprovação do 30º dia e pela regra de transição; conformidade com a área técnica", "confianca": "alta"},
+        {"diretor": "Marcelo Fonseca", "voto": "adere integralmente ao voto-vista", "ts": "1:53:31", "justificativa": "clareza processual e segurança para casos futuros", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o voto-vista; proclama resultado por maioria", "ts": "1:54:14", "justificativa": "divergências são poucas e previamente construídas; aqui é divergência de procedimento, não de mérito; recusa chamar o relator de “voto vencido”, fala em adesão a ponto divergente; destaca fundamentação e motivação de ambos os votos", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "1:54:14",
+      "processo": "50500.019002/2025-76",
+      "interessado": "Superintendência de Transporte Ferroviário (SUFER)",
+      "assunto": "Relatório final da AP 5/2026 (06/04–20/05/2026; 226 contribuições, 97 acolhidas e 51 parcialmente) e aprovação do RSF 1 (Regulamento de Serviço e Segurança Ferroviária) — direitos e garantias dos usuários e serviço adequado de transporte ferroviário de cargas (CGTF); sucede o ROF 1 (Res. 6088, de 27/08/2026)",
+      "tema": ["ferrovias", "direitos do usuário / serviço adequado", "tarifa"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Relator recompôs dispositivos que haviam se afastado da audiência: tarifa de serviços exclusivos com critérios objetivos e isonômicos; abastecimento isonômico; take or pay do usuário dependente mantido em 10% (rejeitada ampliação a 20% por falta de avaliação); transferência de capacidade ociosa com anuência da operadora; cassação/caducidade; comissões tripartites por maioria simples; vedação a parentes nos conselhos de usuários. Altera o art. 50 II do ROF 1: forma e prazo dos chamamentos para autorização passam a ser fixados no edital (nem 100 dias nem os 60 mínimos sugeridos pelo Ministério dos Transportes). Vigência do RSF 1 em 01/12/2026.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "1:57:22", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "sigo com o relator", "ts": "2:09:42", "justificativa": "elogia o enfrentamento ponto a ponto", "confianca": "média"},
+        {"diretor": "Marcelo Fonseca", "voto": "adesão integral", "ts": "2:10:05", "justificativa": "interoperabilidade, acesso equilibrado aos ATFs; norma de foco no usuário", "confianca": "média"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente", "ts": "2:11:36", "confianca": "média"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama aprovação", "ts": "2:11:42", "confianca": "média"}
+      ],
+      "obs": "Atribuição dos votos entre Alex e Marcelo é incerta por falhas de marcação na legenda."
+    },
+    {
+      "id": "1.3.1", "ts": "2:11:42",
+      "processo": "50505.68737/2026-12 (parcial)",
+      "interessado": "Infra S.A. (legenda também diz Infraero)",
+      "assunto": "Acordo de cooperação técnica ANTT–Infra para o programa Melhor Ar (Portaria MT 192/2025): compartilhar dados do RNTRC, integrar ao ONTL e produzir indicadores de desempenho ambiental do transporte rodoviário de cargas",
+      "tema": ["sustentabilidade/ESG", "transporte rodoviário de cargas (RNTRC)", "cooperação institucional"],
+      "relator": "Alex Azevedo", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Liga ao Selo ESG Cargas (Res. 6086, relator Felipe Queiroz): o Selo Melhor Ar comprova integralmente o fator ambiental. Dois pontos centrais: (1) autonomia regulatória — retirou da minuta a cláusula que comprometia a ANTT a editar normas para reduzir emissões, porque exigiria AIR, consulta pública e deliberação (Lei 13.848/2019), de acordo com a Procuradoria; (2) proteção de dados — salvaguardas LGPD (RNTRC inclui autônomos pessoas físicas). Sem transferência de recursos; vigência de 60 meses.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, aprova", "ts": "2:13:09", "justificativa": "autonomia regulatória e dados como evidência para AIR", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "sigo o relator", "ts": "2:22:03", "justificativa": "sustentabilidade como pauta estruturante da agência; país com 65% da matriz em caminhões", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha", "ts": "2:23:39", "confianca": "média"},
+        {"diretor": "Marcelo Fonseca", "voto": "acompanha integralmente", "ts": "2:23:56", "justificativa": "compartilhamento de dados e planejamento logístico", "confianca": "média"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "2:24:24", "justificativa": "elogia a linha do tempo (política pública, norma, acordo) e a transparência do voto", "confianca": "média"}
+      ]
+    },
+    {
+      "id": "1.3.2", "ts": "2:24:24",
+      "processo": "50500.043340/2026-18 (parcial)",
+      "interessado": "Concessionária da BR-040 RJ/MG (legenda: «Helovias»/EcoVias S.A.; contrato 01/2025, edital 01/2025)",
+      "assunto": "2º termo aditivo: substituir a obrigação da praça de pedágio P3A (km 3+150, Comendador Levy Gasparian/RJ) por pórtico eletrônico free flow, deslocando o ponto para o km 3+831 junto à divisa RJ/MG (dentro do limite de 5 km do PER)",
+      "tema": ["concessões rodoviárias", "tarifa/pedágio/free flow", "reequilíbrio contratual", "judicialização (MPF)"],
+      "relator": "Alex Azevedo", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Origem: inquérito civil e ação civil pública do MPF questionando a localização; em 06/08/2026 as partes concordaram com a nova localização na audiência (sem acordo judicial). Notas técnicas sobre viabilidade e risco (realocação de cunho coercitivo desloca o risco do regime ordinário); parecer PFE 21 recomendações atendidas; reequilíbrio pela diferença CAPEX/OPEX apurada na revisão ordinária; conta de compensação do free flow alimentada só por multas do CTB; prazo de 180 dias. A restrição de 5 km foi sugerida e aceita pela própria concessionária. Pórtico já em testes, sem cobrança.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, aprova", "ts": "2:26:16", "justificativa": "resposta institucional a questionamento judicial, protege receita e usuário; instrução com parecer jurídico, validação técnica e anuência da interessada", "tom": "didático, minucioso", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "2:37:58", "confianca": "alta"},
+        {"diretor": "Marcelo Fonseca", "voto": "acompanha integralmente", "ts": "2:38:03", "justificativa": "agência sensível às demandas dos usuários", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha", "ts": "2:37:58", "confianca": "baixa"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente; proclama unanimidade", "ts": "2:38:26", "justificativa": "elogia transparência/fundamentação; percorreu o trecho com Alex no início do ano", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"item": "1.4.1", "relator": "Marcelo Fonseca", "motivo": "retirada pelo relator para aprimorar entendimento do voto-vista (autorização ferroviária, terminal intermodal; risco de precedente)", "ts": "1:29:56"}
+  ],
+  "limites_da_analise": [
+    "Legenda automática: números de processo e nomes de empresas podem estar errados; falantes inferidos por contexto.",
+    "Voto original do relator Alex Azevedo em 1.1.3 não foi lido nesta sessão (já apresentado na RD 1033); conteúdo inferido do voto-vista.",
+    "Processo sigiloso julgado em sessão reservada não está na transcrição."
+  ]
+}

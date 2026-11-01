@@ -1,0 +1,148 @@
+{
+  "meta": {"video_id": "n7-Sjejnzz0", "fonte": "legenda automática do YouTube; falantes inferidos (rótulos da legenda frequentemente trocados); ts = tempo do vídeo, aproximado", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1012", "data": "2025-07-17", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Encerrada às 13h32 de 17/07/2025.", "Um item extrapauta (Viação Catarina, cumprimento de decisão judicial) incluído a pedido de Felipe Queiroz e relatado após os itens de pauta dele.", "Item 1.3.2 (Aviação Rio Doce, relatoria de Lucas Asfor) retirado de pauta para exame mais acurado de argumentos da empresa não plenamente enfrentados pela área técnica.", "Sessão com a última participação do Procurador-Geral Milton Carvalho Gomes, que se despediu (vai para a Presidência da República/Casa Civil) com homenagens dos três diretores e balanço de uma década (relicitações, consensualismo, CCT-TCU/SecexConsenso, COMPOR, SEJANTE, RCR, matriz de risco etc.).", "Todos os itens deliberados foram aprovados por unanimidade; no 1.3.5 houve voto-vista de Lucas Asfor com divergência parcial, acolhido por Felipe Queiroz."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:06:54",
+      "processo": "50500.177214/2024-96", "interessado": "Ecorodovias Concessões e Serviços S.A. / Eco 101 Concessionária de Rodovias S.A.",
+      "assunto": "Homologação do resultado do processo competitivo (Edital 02/2025) de alienação de 100% das ações da Eco 101 (BR-101/ES-BA), no âmbito da otimização do contrato de concessão",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "reequilíbrio contratual"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Sessão pública em 26/06/2025 na B3; única proponente foi a controladora Ecorodovias, com proposta tarifária de R$ 5,525 mil (legenda: 5.525) por quilômetro; sem outros interessados, ficaram suprimidas as etapas de troca de controle e recursos, mantendo a titularidade; assinatura do termo aditivo prevista para 12/09/2025. Processo amparado pela Portaria MT 848/2023 e pelo Acórdão TCU 1996/2024. Resultado é um contrato atualizado (quinta etapa) com mecanismos de enforcement e saída expedita da concessionária nos três primeiros anos se descumprir metas.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova a homologação", "ts": "0:07:30", "justificativa": "processo competitivo transparente e isonômico; contrato atualizado com tarifa compatível e ciclo de investimentos", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "0:12:30", "justificativa": "segundo processo competitivo de otimização concluído; resolve passivo regulatório antigo e viabiliza investimentos no Espírito Santo; parabeniza SUCON, Procuradoria e SUROD", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:14:43", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:14:47",
+      "processo": "50500.011892/2025 (número aproximado)", "interessado": "Superintendência de Serviços de Transporte Rodoviário e Multimodal de Cargas (SUROC)",
+      "assunto": "Relatório de AIR versão 2.0 do projeto ESG Cargas (ambiental, social e governança no transporte rodoviário de cargas) e abertura de audiência pública sobre a minuta de resolução do selo ESG Cargas",
+      "tema": ["transporte rodoviário de cargas", "sustentabilidade", "regulação normativa", "participação social"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Projeto previsto desde a agenda regulatória 2021-22, hoje ancorado na regulação responsiva (incentivo em vez de multas indiscriminadas) e na agenda de sustentabilidade; competência da ANTT na Lei 10.233/2001 e da SUROC na Resolução 5.977/2022; AIR 2.0 aprovada e aviso de audiência pública autorizado conforme Resolução 6.020, no eixo temático 5 da agenda 2025-26.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova AIR 2.0 e abertura de audiência pública", "ts": "0:15:36", "justificativa": "regulação responsiva e por incentivo; processo apto à audiência pública", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:22:39", "justificativa": "importância da agenda de sustentabilidade", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:23:09", "justificativa": "cumprimenta a SUROC e o superintendente José Aires Amaral Filho", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "0:24:35",
+      "processo": "50500.242181/2024 (número aproximado)", "interessado": "Viação Catarina Transportes de Passageiros Ltda.",
+      "assunto": "Análise de pedido de mercados novos (linha Brasília - Santos) em cumprimento de decisão judicial, com impugnações de outras empresas",
+      "tema": ["ônibus (transporte regular, TAR)", "judicializacao"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — deferido sub judice; impugnações improvidas",
+      "resumo_voto": "Decisão judicial manda analisar o pedido pela Resolução 4.770/2015 e afasta a Resolução 5.810/2023 (legenda: 603/2023), não restando discricionariedade; a SUPAS concluiu que o pleito atende à norma e afastou as impugnações. Defere a linha Brasília - Santos e suas seções na condição sub judice e nega provimento às impugnações de Eucatur, Gontijo e Viação Continental. Sustentação oral do advogado da empresa não ocorreu por impedimento pessoal, mas manifestações escritas já constavam dos autos.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, defere sub judice e nega provimento às impugnações", "ts": "0:25:26", "justificativa": "cumprimento de ordem judicial e atendimento aos requisitos da Res. 4.770/2015 segundo SUPAS", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:30:08", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:30:08", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.3 e 1.2.4 (em bloco)", "ts": "0:30:08",
+      "processo": "50500.085xxx/2025-68 (1.2.3) e 50500.188442/2025 (1.2.4) — números aproximados", "interessado": "Superintendência de Sustentabilidade, Pessoas e Inovação",
+      "assunto": "Regimentos internos dos Comitês de Desenvolvimento de Sustentabilidade (CDS) de Ferrovias e de Rodovias, instituídos pela Resolução 6.057/2024",
+      "tema": ["sustentabilidade", "regulação normativa", "institucional", "ferrovias", "concessões rodoviárias"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Minutas idênticas aprovadas pelos comitês em 07/05/2025 após reunião de 02/04 e contribuições até 16/04; Procuradoria indicou resolução (art. 105, I, do Regimento) e recomendações acatadas. Relator acrescenta parágrafo ao art. 13: decorridos 5 dias para assinatura, a ata aprovada produz efeitos mesmo sem assinatura de todos os membros (eficiência administrativa), além de ajustes de legística.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova com ajuste (aprovação tácita de ata)", "ts": "0:31:13", "justificativa": "governança colegiada e regulação responsiva; celeridade na aprovação de atas", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "de acordo com o relator", "ts": "0:40:50", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "0:40:57", "justificativa": "elogia a liderança de Felipe na pauta de sustentabilidade", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "extrapauta", "ts": "0:40:57",
+      "processo": "50500.060791/2024-08", "interessado": "Viação Catarina Transportes de Passageiros Ltda.",
+      "assunto": "Cumprimento de decisão judicial (ação de procedimento comum, 1ª Vara Federal Cível do DF): conversão da linha Brasília - Belo Horizonte de sub judice em administrativa; revogação da Decisão SUPAS 485/2025",
+      "tema": ["ônibus (transporte regular, TAR)", "judicializacao"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Liminar determinava concluir o requerimento em até 60 dias e depois cumprimento em 72 horas sob multa. SUPAS atestou o cumprimento dos requisitos da resolução, mas indeferira por falta de renúncia à ação judicial (Decisão 485 de 11/04/2025); a magistrada afastou o requisito prévio. Procuradoria opinou pelo imediato cumprimento. Voto: revogar a Decisão 485/2025, emitir o TAR DF-MG 02192 para a linha Brasília - Belo Horizonte, com validade condicionada ao peticionamento de renúncia à pretensão judicial depois da deliberação (requisito mantido, só deslocado cronologicamente).",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, revoga indeferimento e emite TAR condicionado", "ts": "0:41:40", "justificativa": "cumprimento de ordem judicial; requisito da renúncia mantido como condição posterior", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:49:01", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:49:11", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "0:49:11",
+      "processo": "50500.3406/2023 (número aproximado)", "interessado": "Superintendência de Serviço de Transporte Rodoviário de Passageiros (SUPAS)",
+      "assunto": "Abertura de audiência pública (28/07 a 11/09/2025) sobre a minuta de resolução de consolidação e aperfeiçoamento do marco regulatório do transporte rodoviário coletivo internacional de passageiros, com AIR",
+      "tema": ["ônibus (transporte regular, TAR)", "participação social", "regulação normativa"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Hoje só a IN 15/2022 consolida o tema, de caráter paliativo; objetivos: flexibilizar a prestação de serviços regulares internacionais, aumentar o interesse de transportadoras e reduzir a discricionariedade interna; acordos bilaterais e multilaterais com Argentina, Bolívia, Chile, Paraguai, Peru, Uruguai, Venezuela, Guiana e França prevalecem sobre resoluções da ANTT. Audiência híbrida; AIR aprovada.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova abertura de audiência pública", "ts": "0:49:54", "justificativa": "modernização de normativo obsoleto e maior segurança jurídica", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "0:55:05", "justificativa": "integração continental e agenda menos conhecida da agência", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:56:24", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.2", "ts": "0:06:54",
+      "processo": "50500.115819/2021-41", "interessado": "Aviação Rio Doce",
+      "assunto": "Processo de relatoria de Lucas Asfor retirado de pauta",
+      "tema": ["ônibus (transporte regular, TAR)"],
+      "relator": "Lucas Asfor", "resultado": "retirado de pauta",
+      "resumo_voto": "Retirado para examinar com mais acuidade argumentos da empresa que, a juízo do relator, não foram completamente enfrentados pela área técnica; sem antecipação de mérito. A legenda atribui a retirada ao relator.",
+      "votos": []
+    },
+    {
+      "id": "1.3.3", "ts": "0:56:24",
+      "processo": "50500.301825/2025-06 (número aproximado)", "interessado": "SUROC",
+      "assunto": "Reajuste dos coeficientes do piso mínimo de frete (Anexo 2 da Resolução 5.867/2020) pelo IPCA e pelo preço do diesel S10 (ANP)",
+      "tema": ["transporte rodoviário de cargas (piso mínimo do frete/CIOT)", "regulação normativa"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "IPCA acumulado de 3,28% (dez/2024 a mai/2025) e diesel S10 a R$ 6,2 por litro (semana de 15 a 21/06/2025); metodologia igual às revisões anteriores (art. 5º §2º da Lei 13.703/2018); impacto médio no piso de +0,82% (operações de alto desempenho só com veículo automotor) a +3,55% (carga lotação).",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "0:57:06", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "1:00:00", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "1:00:04", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.3.4", "ts": "1:00:04",
+      "processo": "50500.167981/2024-97 (número aproximado)", "interessado": "Concessionária de Rodovia Nova 364 S.A.",
+      "assunto": "Emissão do ato de outorga e autorização para assinar o contrato do leilão da BR-364/RO (Edital 6/2024, Vilhena a Porto Velho)",
+      "tema": ["concessões rodoviárias", "leilão / otimização"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Resultado homologado pela Deliberação 131 de 10/04/2025; a comissão de outorga, apoiada por SUCON e SUROD (apólices de seguro), atestou conformidade dos documentos prévios; aprova ato de outorga, assinatura do contrato e publicação do extrato no DOU. Concessionária já realiza trabalhos emergenciais em ponte antiga.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "1:00:30", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "1:03:22", "justificativa": "mais uma entrega; rota de escoamento do agro", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "1:03:53", "justificativa": "programa de concessões chega ao Norte (BR-163, BR-364, Via Brasil)", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.5", "ts": "1:03:53",
+      "processo": "50500.002983/2025-12 (número aproximado)", "interessado": "SUROC",
+      "assunto": "Alteração da Resolução 5.982/2022 (RNTRC) para incorporar os seguros obrigatórios do transporte rodoviário de cargas (Lei 11.442/2007, alterada pela Lei 14.599/2023) e dispensa de participação social e AIR; voto-vista de Lucas Asfor",
+      "tema": ["transporte rodoviário de cargas (piso mínimo do frete/CIOT)", "regulação normativa", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz (voto-vista: Lucas Asfor)", "resultado": "aprovado por unanimidade — voto do relator com incorporação da divergência parcial do voto-vista",
+      "resumo_voto": "Relator propunha exigir como requisito de inscrição e manutenção no RNTRC só os seguros RCTRC e RCDC (Resolução CNSP 472/2024), sem vincular o RC-V. Lucas Asfor, em vista na reunião de 18/06/2025, diverge parcialmente: a obrigação legal dos três seguros é cristalina e a fiscalização deve espelhá-la; propõe incluir o RC-V no art. 4º da Res. 5.982/2022.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "voto-vista: acompanha parcialmente o relator e inclui o seguro RC-V como requisito", "ts": "1:05:44", "justificativa": "rigor da lei, fiscalização plena e proteção a terceiros por danos na execução do transporte", "tom": "cordial", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "relator, acolhe integralmente o voto-vista e converge", "ts": "1:12:17", "justificativa": "eleva a segurança operacional do setor e dá mais garantia de enforcement; agradece a fidalguia de Lucas", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator originário com a incorporação do voto do revisor", "ts": "1:18:15", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"id": "1.3.2", "processo": "50500.115819/2021-41", "motivo": "retirado de pauta (Aviação Rio Doce) para melhor exame de argumentos da empresa"}
+  ],
+  "limites_da_analise": [
+    "Legenda automática com rótulos de falante frequentemente trocados e números de processo aproximados; atribuições de voto inferidas pelo contexto.",
+    "Proposta tarifária da Eco 101 ouvida como 5.525 por quilômetro; unidade e valor exatos não confirmados.",
+    "Resolução 5.810/2023 aparece na legenda como 603/2023; marcada como aproximada.",
+    "Despedidas do procurador-geral Milton Gomes (a partir de ~1:18) não são itens deliberativos e foram só resumidas em observações.",
+    "ts de votos de seguidores aproximados."
+  ]
+}

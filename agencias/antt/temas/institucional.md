@@ -1,0 +1,108 @@
+# Itens do tema «institucional» (todos os diretores)
+
+- **RD 974 (2024-01-31)**, 1.3.2 · relator **Felipe Queiroz** · Processo administrativo disciplinar reservado, retirado de pauta por Felipe Queiroz → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=m2QSOFSYyqw&t=372s)
+- **RD 977 (2024-03-07)**, 1.1.2 · relator **Luciano Lourenço** · Processo administrativo disciplinar em grau de recurso, com restrição de acesso; julgamento reservado ao final da transmissão → julgamento reservado (sigiloso), sem registro na transmissão pública
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=yO-d-f09vik&t=480s)
+- **RD 978 (2024-03-21)**, 1.1.1 · relator **None** · Processo administrativo disciplinar (restrição de acesso, IN CGU 14/2018 e art. 48 §1º do Regimento Interno); julgamento ao final da transmissão, com  → julgado em sessão reservada — resultado não disponível na transmissão
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=5SjbTRRDG-o&t=472s)
+- **RD 983 (2024-05-29)**, 1.1.1 · relator **Rafael Vitale** · Pedido de anulação de penalidade de impedimento de licitar e contratar com a União por 3 meses aplicada à empresa Office Service Terceirização de Mão  → aprovado por unanimidade — penalidade anulada
+  - votos: Rafael: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=eeRiLhCPx2Q&t=296s)
+- **RD 984 (2024-06-13)**, 1.1.1 · relator **Guilherme Sampaio** · Relatório final da Audiência Pública 8/2023 e proposta de resolução com critérios para registro e tratamento de reclamações dirigidas à Ouvidoria da A → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=xnPXGyrmU0c&t=209s)
+- **RD 986 (2024-07-11)**, 1.1.1 · relator **Rafael Vitale** · Recurso administrativo contra sanção de impedimento de licitar e contratar com a União por 4 meses, por não manter propostas em pregão eletrônico (sub → aprovado por unanimidade
+  - votos: Rafael: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=bjTH-DbZqCk&t=245s)
+- **RD 986 (2024-07-11)**, 1.1.2 · relator **Rafael Vitale** · Recurso administrativo contra multa de R$ 15.600 e impedimento de licitar e contratar com a União por 9 meses, por não entregar relatórios semestrais  → aprovado por unanimidade
+  - votos: Rafael: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=bjTH-DbZqCk&t=411s)
+- **RD 986 (2024-07-11)**, 1.1.3 · relator **Rafael Vitale** · Aprovação da Política de Proteção de Dados Pessoais (PPDP) da ANTT → aprovado por unanimidade
+  - votos: Rafael: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=bjTH-DbZqCk&t=582s)
+- **RD 988 (2024-08-08)**, 1.1.1 · relator **Rafael Vitale** · Novo Código de Ética e Conduta Profissional dos Agentes Públicos da ANTT, em substituição ao normativo de 2009 → aprovado por unanimidade
+  - votos: Rafael: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha · [vídeo](https://www.youtube.com/watch?v=Co3vAQ6QXVE&t=1050s)
+- **RD 988 (2024-08-08)**, 1.4.2 · relator **Felipe Queiroz** · Pedido de reconsideração contra sanções administrativas da Deliberação 48, de 22/02/2024 (pregão eletrônico 17/2017: impedimento de licitar e contrata → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=Co3vAQ6QXVE&t=3012s)
+- **RD 990 (2024-09-05)**, 1.1.1 · relator **Luciano Lourenço** · Recurso contra a extinção unilateral do contrato administrativo 7/2024 (serviços contínuos de suporte e apoio administrativo em Minas Gerais e Bahia)  → aprovado por unanimidade — recurso desprovido, com data de extinção fixada em 9/9/2024
+  - votos: Luciano: relator; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=m6tfBRRgsEI&t=2596s)
+- **RD 995 (2024-11-14)**, 1.1.1 · relator **Rafael Vitale** · Resolução que consolida e atualiza as normas sobre divulgação da agenda de compromissos públicos, recebimento de brindes e presentes, audiências conce → aprovado por unanimidade
+  - votos: Rafael: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=6IYxm2zAFbo&t=1079s)
+- **RD 995 (2024-11-14)**, 1.1.2 · relator **Rafael Vitale** · Plano de Diversidade, Equidade e Inclusão da ANTT → aprovado por unanimidade
+  - votos: Rafael: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=6IYxm2zAFbo&t=1240s)
+- **RD 995 (2024-11-14)**, 1.4.8 · relator **Felipe Queiroz** · Instrução normativa que estabelece procedimentos para execução de garantia contratual na modalidade seguro-garantia pelas unidades da ANTT → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=6IYxm2zAFbo&t=2991s)
+- **RD 997 (2024-12-13)**, 1.1.3 · relator **Rafael Vitale** · Referendo da Deliberação 518/2024: desativação do trecho ferroviário km 204+470 a km 220+780 (Campina Grande/PB, malha Nordeste) e aprovação do 13º te → referendada por unanimidade
+  - votos: Rafael: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=9YqBgdwm15U&t=1050s)
+- **RD 997 (2024-12-13)**, 1.1.6 · relator **Rafael Vitale** · Proposta de instrução normativa que estabelece fluxograma, procedimentos e competências para solicitação de solução consensual perante o TCU no âmbito → retirado de pauta por pedido de vista de Felipe Queiroz (antes da votação)
+  - votos: Rafael: relator; Felipe: vista · [vídeo](https://www.youtube.com/watch?v=9YqBgdwm15U&t=1260s)
+- **RD 87 (extraordinária) (2024-12-27)**, 1.2.1 · relator **Felipe Queiroz** · Sexto termo aditivo ao contrato da Estrada de Ferro Carajás (EFC) e sétimo termo aditivo ao contrato da Estrada de Ferro Vitória a Minas (EFVM), confo → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=yC3psirpX8U&t=2730s)
+- **RD 999 (2025-01-16)**, 1.1.2 · relator **Rafael Vitale** · Acordo de cooperação técnica para ampliar a inserção profissional de pessoas privadas de liberdade e egressas do sistema prisional no setor de infraes → aprovado por unanimidade
+  - votos: Rafael: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=tSpC-8P81fI&t=630s)
+- **RD 999 (2025-01-16)**, 1.1.3 · relator **Rafael Vitale** · Alteração do Regimento Interno da ANTT (Res. 5.976/2022): nova superintendência de informações, inteligência, governança e planejamento estratégico; n → vista coletiva; deliberação na reunião de 30/01/2025
+  - votos: Rafael: relator · [vídeo](https://www.youtube.com/watch?v=tSpC-8P81fI&t=865s)
+- **RD 1000 (2025-01-30)**, 1.1.1 · relator **Rafael Vitale** · Alteração do Regimento Interno da ANTT (Resolução 5.976/2022), com voto complementar criando o Centro de Estudos Avançados em Regulação do Transporte  → aprovado por unanimidade
+  - votos: Rafael: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=Ej8aJh627Ak&t=612s)
+- **RD 1000 (2025-01-30)**, 1.1.2 · relator **Rafael Vitale** · Alteração da Resolução 5.977/2022 (estrutura organizacional da ANTT) para adequá-la ao novo Regimento Interno → aprovado por unanimidade
+  - votos: Rafael: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=Ej8aJh627Ak&t=903s)
+- **RD 1002 (2025-02-26)**, sem número (alteração de estrutura organizacional) · relator **Guilherme Sampaio** · Alteração da resolução que dispõe sobre a estrutura organizacional da ANTT (norma de 30/01/2025) e adiamento da vigência de resoluções para 05/03/2025 → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=NP_h_5l7CZI&t=398s)
+- **RD 1003 (2025-03-13)**, 1.1.1 · relator **Guilherme Sampaio** · Referendo da Deliberação 86/2025, que adiou por 6 meses os efeitos da Deliberação 78/2025 (reajuste tarifário de 2,99% no serviço semiurbano interesta → aprovado por unanimidade — deliberação referendada
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=eoDx4_Me7cY&t=74s)
+- **RD 1004 (2025-03-27)**, 1.1.2 · relator **Lucas Asfor** · Processo de relatoria de Lucas Asfor retirado de pauta → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=mayS8ij1N3w&t=197s)
+- **RD 1006 (2025-04-24)**, reservado · relator **Guilherme Sampaio** · Deliberação sobre o termo de autocomposição no âmbito da solução consensual da concessão da Autopista Fernão Dias (processo reservado, julgado ao fina → não consta na transmissão (sigiloso)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=bad9Ktg5Qlw&t=299s)
+- **RD 1007 (2025-05-08)**, 1.1.2 · relator **Guilherme Sampaio** · Atualização das metas e ações do Plano Diretor de Logística Sustentável (PLS) da ANTT, vigência 2024–2027 → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=-Eo2vtdI2aM&t=399s)
+- **RD 1012 (2025-07-17)**, 1.2.3 e 1.2.4 (em bloco) · relator **Felipe Queiroz** · Regimentos internos dos Comitês de Desenvolvimento de Sustentabilidade (CDS) de Ferrovias e de Rodovias, instituídos pela Resolução 6.057/2024 → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=n7-Sjejnzz0&t=1808s)
+- **RD 94 (extraordinária) (2025-07-24)**, 1.2.1 · relator **Lucas Asfor** · Sétimo termo aditivo ao contrato de concessão (edital 2/1998): conta bancária vinculada, com movimentação sujeita à autorização da ANTT, para receber  → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=HlrFCcdzCgI&t=735s)
+- **RD 1013 (2025-08-01)**, 1.1.1 · relator **Guilherme Sampaio** · Alteração da Resolução 5.977/2022 para reestruturar a SUFER (gerências, coordenações e realocação de competências) → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=mUFBjDvQ9VM&t=1152s)
+- **RD 1013 (2025-08-01)**, 1.2.6 · relator **Felipe Queiroz** · Item de relatoria de Felipe Queiroz retirado de pauta → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=mUFBjDvQ9VM&t=1152s)
+- **RD 1013 (2025-08-01)**, extrapauta 1 · relator **Guilherme Sampaio** · Referendo da Deliberação 250 de 31/07/2025, que aprovou a proposta orçamentária da ANTT para 2026 e o marco orçamentário de médio prazo 2027-2029 → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: outro; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=mUFBjDvQ9VM&t=1310s)
+- **RD 1014 (2025-08-15)**, extrapauta-1 · relator **Guilherme Sampaio** · Extrapauta: alteração pontual da Resolução 5.977/2022 (7 de abril de 2022 na legenda), que dispõe sobre a estrutura organizacional da ANTT, para ajust → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=i65Q4DVJA6s&t=441s)
+- **RD 1014 (2025-08-15)**, 1.4.2 · relator **Lucas Asfor** · Alteração dos arts. 2º e 7º da Resolução 4.308/2014 para substituir o termo «índio» por «indígena» e «Fundação Nacional do Índio» por «Fundação Nacion → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=i65Q4DVJA6s&t=3270s)
+- **RD 95 (extraordinária) (2025-09-02)**, extrapauta · relator **Guilherme Sampaio** · Extrapauta: recurso administrativo do Bradesco BBI com pedido de efeito suspensivo contra decisão monocrática do Diretor-Geral (Despacho DG de 05/02/2 → aprovado por unanimidade — recurso conhecido e desprovido; mantida a medida cautelar
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Amaral: acompanha · [vídeo](https://www.youtube.com/watch?v=_edCUoWtVP0&t=1190s)
+- **RD 1018 (2025-10-08)**, 1.1.1 · relator **Guilherme Sampaio** · Instituição da Comissão de Acompanhamento de Avaliação e Desempenho (CAAD) e aprovação do seu regimento interno → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Amaral: acompanha · [vídeo](https://www.youtube.com/watch?v=U4NrWpy5b6E&t=1560s)
+- **RD 1019 (2025-10-23)**, 1.1.1 · relator **Guilherme Sampaio** · Solução consensual do COMPOR 6/2025: devolução do trecho Salgueiro/PE - Porto de Suape/PE (cerca de 522 km) e controvérsias do primeiro termo aditivo  → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Amaral: acompanha · [vídeo](https://www.youtube.com/watch?v=CezCZuXfe5A&t=480s)
+- **RD 1021 (2025-11-19)**, 1.3.4 · relator **Amaral Filho** · Processo administrativo disciplinar (PAD) instaurado pela Portaria COREG 21/2023 para apurar responsabilidades funcionais [item sigiloso] → não consta na transmissão pública (julgamento sigiloso após o encerramento da sessão)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=EWukUD72NFw&t=2070s)
+- **RD 1023 (2025-12-17)**, 1.1.1 · relator **Guilherme Sampaio** · Proposta de Plano Estratégico 2026/2029 da ANTT → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Severino: acompanha · [vídeo](https://www.youtube.com/watch?v=x8QgM4O8I_Y&t=2255s)
+- **RD 1024 (2026-01-19)**, 1.1.1 · relator **Felipe Queiroz** · Referendo da Deliberação 516/2025 (26/12/2025) que aprovou convênio com a GEAP para exames médicos periódicos dos servidores → aprovado por unanimidade — decisão ad referendum referendada
+  - votos: Felipe: relator; Lucas: outro; Alex: acompanha; Severino: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=YRL6gBTlIMU&t=1425s)
+- **RD 1025 (2026-01-29)**, 1.1.1 · relator **Guilherme Sampaio** · Referendo da Resolução 6075/2026 (12/01/2026), que alterou a Res. 5977/2022 (estrutura organizacional) para adequar cargos comissionados aos limites o → aprovado por unanimidade — decisão ad referendum do DG referendada
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=d2BF6usx0p8&t=5621s)
+- **RD 1025 (2026-01-29)**, 1.2.1 · relator **Lucas Asfor** · Instrução normativa que institui a política e os instrumentos de gestão de crises (incidentes que comprometem a integridade ou disponibilidade dos ser → aprovado por unanimidade (voto-vista com ajuste fino)
+  - votos: Felipe: revisor_acompanha; Lucas: revisor_acompanha; Alex: acompanha; Severino: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=d2BF6usx0p8&t=5906s)
+- **RD 1025 (2026-01-29)**, 1.3.4 · relator **Lucas Asfor** · Audiência pública (45 dias; sessão híbrida em 03/03/2026 em Brasília) para adequar a Res. 35/2010 (SAC) ao Decreto 11.034/2022 → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Severino: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=d2BF6usx0p8&t=10145s)
+- **RD 1031 (2026-04-23)**, 1.2.2 · relator **Alex Azevedo** · Segundo termo aditivo ao ACT 2/2022: prorrogação por 24 meses (desde 25/04/2026) da cooperação para inscrição e manutenção de transportadores autônomo → aprovado por unanimidade (voto-vista de Lucas Asfor convergente)
+  - votos: Alex: relator; Lucas: revisor_acompanha; Felipe: acompanha; Alessandro: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=Zyxhofbj7g0&t=2728s)
+- **RD 1036 (2026-07-02)**, 1.1.1 · relator **Guilherme Sampaio** · Alteração do regimento interno (Res. 5976/2022) para adequar a estrutura ao modelo CCE/FCE do decreto de 16/06/2026 — sem aumento de despesa → apresentado; vista coletiva (art. 106 §1º do RI); deliberado na RD 1037
+  - votos: Guilherme: relator · [vídeo](https://www.youtube.com/watch?v=gELCys7Z9So&t=1393s)
+- **RD 1036 (2026-07-02)**, 1.1.2 · relator **Guilherme Sampaio** · Política de Inovação da ANTT (resolução de caráter interno; consulta interna 11/2025: 57 contribuições) → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Alessandro: acompanha · [vídeo](https://www.youtube.com/watch?v=gELCys7Z9So&t=1393s)
+- **RD 1037 (2026-07-16)**, 1.1.1 · relator **Guilherme Sampaio** · Alteração do regimento interno (Res. 5976/2022) para adequar a estrutura aos cargos CCE/FCE do Decreto 3.029/2026; apresentado na RD 1036 (02/07/2026) → aprovado por unanimidade
+  - votos: Guilherme: relator; Lucas: acompanha; Alex: acompanha; Alessandro: acompanha · [vídeo](https://www.youtube.com/watch?v=ixMkeB6vSIM&t=3872s)
+- **RD 1038 (2026-07-30)**, 1.1.2 · relator **Guilherme Sampaio** · Ajustes no plano de outorga da prorrogação antecipada da concessão da Malha Centro-Leste, em atendimento à Portaria MT 344/2026 (18/05/2026): realocaç → aprovado por unanimidade — plano de outorga ajustado; unidade técnica deve consolidar ajus
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Alessandro: acompanha · [vídeo](https://www.youtube.com/watch?v=ZBxIyiomges&t=800s)
+- **RD 1039 (2026-08-14)**, 1.1.3 · relator **Guilherme Sampaio** · Nova resolução da estrutura organizacional da ANTT (revoga a Res. 5977/2022), em vigor em 01/09/2026 junto com o novo regimento interno (Res. 6083, de → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Alessandro: acompanha · [vídeo](https://www.youtube.com/watch?v=u4SXNQPR-XQ&t=1593s)
+- **RD 1040 (2026-08-27)**, extra-pauta-ROF1-inclusao · relator **None** · Inclusão extra-pauta do processo do ROF1 (pedido do diretor Lucas Asfor, urgência/relevância) → aprovada inclusão por unanimidade
+  - votos: Alex: acompanha; Marcelo: acompanha; Lucas: acompanha; Felipe: acompanha · [vídeo](https://www.youtube.com/watch?v=8p1X1Nfk9Cs&t=2379s)
+- **RD 1040 (2026-08-27)**, retirados · relator **None** · Itens retirados de pauta → 
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=8p1X1Nfk9Cs&t=2509s)
+- **RD 1041 (2026-09-10)**, 1.1.1 · relator **Guilherme Sampaio** · Revisão do Estatuto da Auditoria Interna da ANTT (IN SFC/CGU 13/2020; certificação nível 2 do IACM em 2025; diretrizes para uso de IA em auditoria) → aprovado por unanimidade
+  - votos: Felipe: acompanha · [vídeo](https://www.youtube.com/watch?v=DRpLm1FOHCA&t=517s)
+- **RD 1043 (2026-10-08)**, 1.2.4 · relator **Lucas Asfor** · Acordo de cooperação para intercâmbio eletrônico de dados de seguros obrigatórios dos transportadores inscritos no RNTRC (Portaria SUROC 27/2025) → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=aVdLLQI1K-I&t=2078s)
+- **RD 1044 (2026-10-22)**, 1.3.1 · relator **Alex Azevedo** · Acordo de cooperação técnica ANTT–Infra para o programa Melhor Ar (Portaria MT 192/2025): compartilhar dados do RNTRC, integrar ao ONTL e produzir ind → aprovado por unanimidade
+  - votos: Alex: relator; Felipe: acompanha; Lucas: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=7902s)

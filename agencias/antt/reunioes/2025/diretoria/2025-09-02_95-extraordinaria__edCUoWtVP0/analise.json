@@ -1,0 +1,141 @@
+{
+ "meta": {
+  "video_id": "_edCUoWtVP0",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:00:05); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "95 (extraordinária)",
+  "data": "2025-09-02",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+  "diretores_presentes": [
+   "Guilherme Sampaio",
+   "Felipe Queiroz",
+   "Lucas Asfor",
+   "Alex Azevedo",
+   "José Aires Amaral Filho"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Sessão noturna (encerrada às 19h de 02/09/2025), a primeira com Alex Azevedo (nomeado após sabatina junto com Guilherme Sampaio) e José Aires Amaral Filho (servidor de carreira, diretor substituto) e com Guilherme confirmado como Diretor-Geral.",
+   "Houve falha na transmissão do trecho inicial (boas-vindas); o presidente determinou à Secretaria-Geral e à área de tecnologia que recuperassem e republicassem essa parte.",
+   "Dois itens deliberados: 1.1.1 e um extrapauta de relatoria do Diretor-Geral, ambos aprovados por unanimidade.",
+   "Parte final dedicada a saudações de boas-vindas aos novos diretores e à confirmação de Guilherme Sampaio no cargo; Felipe Queiroz menciona posse formal prevista para o dia 16."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1.1",
+   "ts": "0:07:40",
+   "processo": "50500.003938/2025",
+   "interessado": "Autopista Fernão Dias S.A.",
+   "assunto": "Aprovação do relatório final da consulta pública 1/2025 e do edital do processo competitivo para a otimização/modernização do contrato de concessão da BR-381 MG/SP (569 km, Autopista Fernão Dias), incluindo termo aditivo, anexos, PER e modelo econômico-financeiro",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização",
+    "solução consensual / Compor",
+    "participação social",
+    "sandbox / inovação"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Sessões presenciais em Guarulhos/SP (07/08/2025) e Contagem/MG (08/08/2025); contribuições de 22/07 a 22/08/2025: 87 contribuições (30 pelo sistema e 57 orais), com obras em 23,2%, passarelas ≈ 12% e acessos 8,8%. Proposta consolidada em termo de autocomposição na SecexConsenso do TCU (IN TCU 91/2022); estimativa de R$ 9,4 bilhões de CAPEX e R$ 5,3 bilhões de OPEX (≈ R$ 14 bilhões). Processo competitivo para alienação de 100% das ações da concessionária; sessão pública prevista para 11/12/2025, 14h, na B3. No âmbito do sandbox regulatório, também recebeu contribuições aplicáveis aos demais processos de otimização submetidos à SecexConsenso.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aprova o relatório final e o edital",
+     "ts": "0:07:50",
+     "justificativa": "alternativa mais vantajosa ao interesse público ao superar impasses de forma consensual; cumprimento do cronograma de leilões; agradece SUCON, Procuradoria e assessorias",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha na íntegra o relator",
+     "ts": "0:13:44",
+     "justificativa": "importância do ativo que liga Belo Horizonte a São Paulo; boas-vindas aos novos diretores",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:15:41",
+     "justificativa": "registra a realização por sessão extraordinária para cumprir o cronograma de leilões",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alex Azevedo",
+     "voto": "acompanha integralmente",
+     "ts": "0:17:10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Aires Amaral Filho",
+     "voto": "acompanha integralmente",
+     "ts": "0:18:41",
+     "justificativa": "considera talvez a remodelagem mais importante já feita pela agência, eixo logístico Minas–São Paulo",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "extrapauta",
+   "ts": "0:19:50",
+   "processo": "50500.006517/2025",
+   "interessado": "Banco Bradesco BBI S.A. (recorrente); SUCE Participações S.A. e Cinco Participações S.A., ambas em recuperação judicial (recorridas)",
+   "assunto": "Extrapauta: recurso administrativo do Bradesco BBI com pedido de efeito suspensivo contra decisão monocrática do Diretor-Geral (Despacho DG de 05/02/2025) que concedeu medida cautelar para evitar transferência de controle indireto das concessionárias do grupo CCR ao banco, via execução de alienação fiduciária de ações (≈ 3,94% do capital da CCR), sem anuência prévia da ANTT",
+   "tema": [
+    "concessões rodoviárias",
+    "institucional",
+    "fiscalização e sanções",
+    "judicializacao"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade — recurso conhecido e desprovido; mantida a medida cautelar",
+   "resumo_voto": "Contrato de alienação fiduciária de 2020 entre CCR/CCP e Bradesco BBI (credor fiduciário). O banco recorreu em 20/02/2025 alegando que a cautelar visaria evitar obrigações contratuais; o atual DG havia concedido efeito suspensivo e remetido à SUROD, que se manifestou pela revogação. O relator entende que a autoridade da agência deve ser preservada (supremacia do interesse público): o banco declarou que pretende vender as ações para satisfazer seu crédito, o que exigiria anuência prévia da ANTT, e a execução da garantia poderia dar influência relevante na governança das concessionárias, afrontando os princípios licitatórios (art. 27 da Lei de Concessões, art. 5º da Resolução 5.927/2021 — data indicada de «2 de março de 2022» na legenda). Conhece o recurso e nega provimento.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, conhece e nega provimento (mantém a cautelar)",
+     "ts": "0:20:23",
+     "justificativa": "supremacia do interesse público, preservação da competência e da análise prévia da agência; divergindo da manifestação da SUROD pela revogação",
+     "confianca": "firme"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:25:12",
+     "justificativa": "a agência deve se debruçar sobre arranjos societários cada vez mais complexos; o mérito ainda não foi decidido, apenas a competência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:27:27",
+     "justificativa": "consonância com a legislação federal; destaca o trecho sobre autoridade da agência e supremacia do interesse público",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alex Azevedo",
+     "voto": "acompanha integralmente",
+     "ts": "0:28:30",
+     "justificativa": "preservação do interesse público e da competência da agência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Aires Amaral Filho",
+     "voto": "apoia o voto do relator",
+     "ts": "0:29:07",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: números de processo truncados (1.1.1 e extrapauta) e nomes distorcidos (SUCE Participações, Cinco Participações, Alex Antônio Azevedo Cruz).",
+  "O trecho inicial da transmissão (boas-vindas) falhou e foi repetido; a legenda contém duplicações.",
+  "Data de resolução citada («2 de março de 2022») e valores do item 1.1.1 vêm da legenda e podem estar imprecisos.",
+  "Ts de votos aproximados; a votação do extrapauta foi precedida de pergunta de concordância com a inclusão do item (Felipe Queiroz e José Aires Amaral Filho de acordo)."
+ ]
+}

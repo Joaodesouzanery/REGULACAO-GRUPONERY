@@ -1,0 +1,233 @@
+{
+ "meta": {
+  "video_id": "6ckhaVSoiUY",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "975",
+  "data": "2024-02-08",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Guilherme Sampaio",
+   "Luciano Lourenço",
+   "Felipe Queiroz",
+   "Lucas Asfor"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 15h55.",
+   "Inversão de pauta a pedido de Lucas Asfor (seu item 1.3.1 passou a ser o primeiro) por possível necessidade de ausentar-se, com anuência dos demais.",
+   "Houve queda de áudio de Guilherme Sampaio durante o voto do 1.1.1; retomou do ponto interrompido.",
+   "Registro de felicitações a Lucas Asfor pelo nascimento iminente do filho."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.3.1",
+   "ts": "0:01:43",
+   "processo": "50500.349532/2026-8",
+   "interessado": "Superintendência de Concessão da Infraestrutura (SUCOM)",
+   "assunto": "Relatórios finais das Audiências Públicas 10/2021 e 13/2021 e minutas dos planos de outorga das concessões dos lotes rodoviários Centro Norte 1 (BR-060/GO e BR-452/GO, contorno sul de Goiânia, 452,7 km) e Centro Norte 5 (BR-364/RO, Vilhena a Porto Velho, 729 km); item invertido na pauta a pedido do relator",
+   "tema": [
+    "concessões rodoviárias",
+    "participação social",
+    "leilão / otimização"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "CN1 recebeu 156 protocolos válidos e CN5, 121. Mudanças: leilão por menor tarifa sem limite de deságio e sem valor de outorga; documentos adequados à Quinta Etapa (novas penalidades, disputes board, matriz de riscos); data-base de out/2020 para jan/2023; TIR de 8,47% para 9,08%; recursos vinculados de 3% para 1%; novos percentuais de reclassificação tarifária (15% terceira faixa, 35% pista dupla com três faixas, 40% com quatro, 5% conclusão de melhorias, 10% obra de Porto Novo); verba de 1% para infraestrutura resiliente. Determina que a SUCOM, durante a análise do TCU, avalie banda menor no compartilhamento de risco de demanda para projetos sem histórico de tráfego, conforme diretriz do Ministério dos Transportes. Planos de outorga seguem ao Ministério.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, aprova",
+     "ts": "0:11:27",
+     "justificativa": "parabeniza SUCOM e BNDES; incorporou diretrizes do MT recebidas em cima da hora",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:12:40",
+     "justificativa": "elogia qualidade, concisão e diligência do voto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:14:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:14:50",
+     "justificativa": "destaca inovações da Quinta Etapa e a verba de resiliência climática",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:16:00",
+     "justificativa": "processo avança ao TCU; cita visita do senador Confúcio Moura sobre o projeto de Rondônia",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1.1.1",
+   "ts": "0:17:46",
+   "processo": "50500.088320/2021-53",
+   "interessado": "Superintendência de Serviços de Transporte Rodoviário e Multimodal de Cargas (SUROC)",
+   "assunto": "Relatório final da Audiência Pública 7/2023 e aprovação da revisão da regulamentação do transporte rodoviário internacional de cargas (TRIC), substituindo as Resoluções 5533/2017 e 5840/2019, com vigência a partir de 1º de março",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "regulação normativa",
+    "participação social"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "31 contribuições analisadas; harmonização de procedimentos conforme acordo de transporte internacional terrestre do Cone Sul; fim da cobrança de emolumentos graças ao processo eletrônico SEI; ajuste da fila de habilitação de veículos para o Peru, habilitação de veículo de apoio operacional, viagem ocasional, licença complementar de trânsito e flexibilização do apostilamento. Fecha o ciclo de revisão dos grandes marcos do TRC, reduzindo fardo regulatório.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aprova relatório e resolução",
+     "ts": "0:24:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:25:00",
+     "justificativa": "norma muito aguardada pelo setor",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:25:30",
+     "justificativa": "redução de estoque regulatório e regulação inteligente (Proreg)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:26:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:26:05",
+     "justificativa": "item da agenda regulatória cumprido; amplia comércio no Mercosul",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.1",
+   "ts": "0:26:20",
+   "processo": "50500.287095/2022-27",
+   "interessado": "Superintendência de Transporte Ferroviário (SUFER)",
+   "assunto": "Alterações na Resolução 4624/2015, que regulamenta a contratação e manutenção de seguros nas concessões ferroviárias (consulta pública 2/2022)",
+   "tema": [
+    "ferrovias",
+    "regulação normativa",
+    "participação social"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Norma rígida, prazos exíguos e fórmula paramétrica do limite máximo de garantia (LMG) distorcia prêmios; substituída por estudo de consultoria técnica especializada. Retira exigência de ANTT como cossegurada, amplia prazo para apólice, flexibiliza riscos mínimos, prevê meios alternativos de garantia, seguros pré-aprovados e centraliza penalidades. ANTF pediu em 2/2 ampliar profissionais habilitados a atestar valores; relator rejeitou por já ter havido ampla participação (35 contribuições) e urgência, sugerindo avaliar depois por análise de resultado regulatório.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, aprova a minuta de resolução",
+     "ts": "0:32:00",
+     "justificativa": "não acolhe sugestões tardias da ANTF; urgência e processo de participação já exaustivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:32:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:32:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:32:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:32:55",
+     "justificativa": "elogia a cautela do relator, que ouviu todas as partes",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.2",
+   "ts": "0:33:20",
+   "processo": "50500.025699/2024-33",
+   "interessado": "Concessionária Autopista Régis Bittencourt",
+   "assunto": "Terceiro termo aditivo ao contrato de concessão (edital 1/2007) para excluir o trecho km 268+900 a km 275+450 da BR-116/SP do PER, visando doação pelo DNIT ao município de Taboão da Serra",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Pedido da prefeitura de Taboão da Serra (processo 50500.249xxx/2022-18 sobre mérito e valor); DNIT e Ministério dos Transportes sem oposição (art. 4º do Decreto 8.376/2024, citação da legenda); trecho de 6,55 km equivale a 1,68% do sistema de 40,6 km (valores da legenda), na ponta da concessão, sem descontinuidade; município pode investir e gerir riscos do tráfego local.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, aprova o terceiro termo aditivo",
+     "ts": "0:38:47",
+     "justificativa": "interesse público de municípes e usuários; vantajosidade para a administração",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:39:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:39:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:39:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:39:50",
+     "justificativa": "elogia a articulação do relator entre ANTT, ministério e DNIT; problema antigo resolvido",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática com erros em nomes e números de processos; números reconstruídos podem estar incompletos.",
+  "ts dos votos de seguidores aproximados; ts do início de 1.3.1 e 1.2.2 inferidos.",
+  "Valores e extensões (6,55 km, 1,68%, 40,6 km) conforme legenda, não conferidos."
+ ]
+}

@@ -1,0 +1,168 @@
+{
+  "meta": {"video_id": "R_zbvJ8TXjs", "fonte": "legenda automática do YouTube; falantes inferidos pelo contexto; ts = tempo do vídeo (sessão começa ~0:38)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1033", "data": "2026-05-21", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alex Azevedo", "Alessandro Baumgarten (diretor interino)"],
+    "ausentes": [],
+    "observacoes": ["Encerrada às 12h36 de 21/05/2026.", "9 deliberações unânimes; 2 pedidos de vista (Felipe Queiroz no item 1.4.3; Alex Azevedo no item 1.5.1).", "Uma sustentação oral (Sem Parar, 15 min, art. 70 do RI)."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:39:39",
+      "processo": "50500.066329/2025-37", "interessado": "EcoRodovias Concessões e Serviços S.A.",
+      "assunto": "Homologação do resultado do leilão da concessão das BR-116/251 (MG, 734 km), edital 5/2025",
+      "tema": ["concessões rodoviárias", "leilão"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Leilão em 31/03/2026 na B3 com três proponentes; vencedora com desconto de 19% sobre a tarifa básica e aporte de recursos vinculados de ≈ R$ 73,37 milhões; sem recursos e sem óbices jurídicos.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, homologa", "ts": "0:39:39", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "0:42:05", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:42:10", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "0:42:15", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "0:42:20", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:42:40",
+      "processo": "50505.017853/2026-15", "interessado": "Concessionária de Rodovias PRVias S.A. (CCR)",
+      "assunto": "Recebimento dos trabalhos iniciais com ressalvas e autorização para início da cobrança de pedágio nas novas praças P-02 Mauá da Serra e P-07 Londrina (BR-369/373/376 e rodovias estaduais, PR), edital 5/2024",
+      "tema": ["concessões rodoviárias", "pedágio"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade (com ressalvas e plano de ação)",
+      "resumo_voto": "Cobrança autorizada com ressalvas, condicionada ao cumprimento de exigências e ao plano de ação aprovado pela SUROD; houve divergência entre manifestações técnicas sobre o início da cobrança. Felipe Queiroz buscou ponto de equilíbrio entre avanço da obra e cautela com o usuário.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova com ressalvas", "ts": "0:42:40", "justificativa": "equilíbrio entre cobrança e cumprimento de pendências; acompanhamento técnico continuado", "tom": "cauteloso, técnico", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha na íntegra", "ts": "0:57:39", "justificativa": "elogia a fundamentação, a cautela e o equilíbrio do voto", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha com as ressalvas", "ts": "1:00:44", "justificativa": "tinha considerações próprias (não classifica como divergência) já contempladas pelas ressalvas do relator", "confianca": "media"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "1:01:02", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "1:01:13", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "1:01:55",
+      "processo": "50000.275208/2023-12", "interessado": "Abiove (Associação Brasileira das Indústrias de Óleos Vegetais)",
+      "assunto": "Embargos de declaração contra a Deliberação 394/2025 (reclamação contra Rumo Malha Norte por precificação supostamente discriminatória por critério de origem da carga, trecho Rondonópolis–Santos)",
+      "tema": ["ferrovias", "tarifa / acesso de usuários", "judicializacao"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — embargos conhecidos e desprovidos",
+      "resumo_voto": "Alegada omissão sobre a compatibilidade do critério de origem com a isonomia; relator entende que o voto anterior e o voto-vista de Lucas Asfor já enfrentaram o ponto. Mantém integralmente o julgamento.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, nega provimento", "ts": "1:02:30", "justificativa": "tema já amplamente discutido; embargos não apontam omissão real", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:10:00", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "1:10:05", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "1:10:10", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "1:10:20", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "1:10:36",
+      "processo": "50500.042952/2025-02", "interessado": "Mário da Silva Lima Filho Ltda. (fretamento)",
+      "assunto": "Encerramento da comissão processante (Portaria SUFIS 23/2025): cassação da autorização de fretamento por prática reiterada de infrações no transporte rodoviário de passageiros",
+      "tema": ["ônibus (fretamento)", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — cassação",
+      "resumo_voto": "Acolhe integralmente o relatório da comissão; reiteração de infrações graves com risco à incolumidade dos passageiros; cassação com base no art. 36 §5º do Decreto 2.521/1998 e art. 78-H da Lei 10.233/2001.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, cassa a autorização", "ts": "1:10:44", "justificativa": "reiteração de infrações graves; risco aos passageiros", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "1:14:40", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "1:14:48", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "1:14:55", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.2", "ts": "1:15:07",
+      "processo": "50500.023316/2026-54", "interessado": "Ecovias do Araguaia S.A.",
+      "assunto": "Abertura de audiência pública sobre a proposta preliminar da primeira revisão quinquenal do contrato (BR-153 TO/GO, BR-080 e BR-414 GO), edital 001/2021",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "participação social"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Contribuições por 45 dias (15/06 a ~31/07/2026) e sessões presenciais em Gurupi/TO (07/07) e Anápolis/GO (09/07); fundamenta no controle social como legitimidade e transparência (Res. 6032/2023, RCR3).",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "1:15:12", "justificativa": "controle social como instrumento de legitimidade e transparência", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha", "ts": "1:20:10", "confianca": "media"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha", "ts": "1:20:15", "confianca": "media"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha", "ts": "1:20:20", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.3.3", "ts": "1:20:32",
+      "processo": "(parcial)", "interessado": "Superintendência de Governança, Gestão da Estratégia e Informações",
+      "assunto": "Dispensa de AIR e audiência pública para aperfeiçoar a Resolução 5999/2022 (sandbox regulatório)",
+      "tema": ["sandbox / inovação", "regulação normativa", "participação social"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Seis experimentos desde 2022 (pedágio eletrônico, pesagem em movimento etc.); sessão pública híbrida em 25/06/2026 em Brasília.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "1:20:38", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "1:25:25", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "voto com o relator", "ts": "1:25:30", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "1:25:33", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.4", "ts": "1:25:43",
+      "processo": "50500.072602/2023-109", "interessado": "Superintendência de Concessão da Infraestrutura (SUCON)",
+      "assunto": "Estudos de viabilidade, minutas e plano de outorga para a licitação da Malha Oeste (Ferroeste, ≈ 1.625 km, Mairinque/SP–Corumbá/MS); envio ao TCU e ao Ministério dos Transportes",
+      "tema": ["ferrovias", "concessão ferroviária", "leilão"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Ativo estratégico para a competitividade logística; cumpre cronograma acordado com o Ministério dos Transportes. O Diretor-Geral agradeceu o gabinete de Lucas Asfor, que trabalhou até altas horas.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "1:25:48", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha", "ts": "1:33:40", "confianca": "media"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha", "ts": "1:33:42", "confianca": "media"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha", "ts": "1:33:44", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "1:33:47", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.4.1", "ts": "1:33:59",
+      "processo": "50500.064556/2020-13", "interessado": "Superintendência de Infraestrutura Rodoviária (SUROD)",
+      "assunto": "Correção de erro material no RCR2 (Res. 6000/2022, art. 160) e supressão de lacuna no RCR3 (Res. 6032/2023) com inclusão de parágrafo único no art. 170 (ratificação pela Diretoria se a variação orçamentária da revisão quinquenal superar 30%)",
+      "tema": ["concessões rodoviárias", "regulação normativa", "reequilíbrio contratual"],
+      "relator": "Alex Azevedo", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Falha de consolidação normativa (erro material entre área técnica e Procuradoria) suprimiu mecanismo de controle de variações orçamentárias significativas; recomposição como dever de autotutela, sem inovação regulatória.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, aprova", "ts": "1:34:06", "justificativa": "autotutela; preservação da segurança jurídica e da integridade do modelo regulatório", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "1:50:50", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:50:55", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "1:51:00", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.4.2", "ts": "1:51:18",
+      "processo": "50500.042948/2025-36", "interessado": "Rio Transporte Terrestre Locadora Ltda. (fretamento)",
+      "assunto": "Encerramento da comissão processante (Portaria SUFIS 21/2025): cassação da autorização de fretamento por operar serviço regular disfarçado",
+      "tema": ["ônibus (fretamento)", "fiscalização e sanções"],
+      "relator": "Alex Azevedo", "resultado": "aprovado por unanimidade — cassação",
+      "resumo_voto": "13 autuações definitivas (cód. 401: transporte interestadual sem autorização, out/2021–abr/2023); empresa vendia passagens individuais de ida, simulando linha regular sob licença de fretamento, sem arcar com os ônus do regular; multas pagas com desconto foram absorvidas como custo e perderam função preventiva; cobertura da região assegurada por outras autorizatárias, sem impacto relevante aos usuários.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, cassa a autorização", "ts": "1:51:55", "justificativa": "concorrência desleal contra empresas regulares; sanções menos gravosas insuficientes; sem prejuízo ao usuário", "tom": "firme", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "1:57:15", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:57:20", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "1:57:25", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.4.3", "ts": "1:57:45",
+      "processo": "50505.009485/2025-51", "interessado": "Expresso Guanabara, Expresso Gontijo de Transportes e Expresso União/São Luís",
+      "assunto": "Recursos de Guanabara e Gontijo contra a Decisão SUPAS 327/2025 que outorgou à Expresso São Luís o mercado Salvador/BA–Natal/RN (TAR), originado de LOP judicial Sinop/MT–São Paulo adequada com base no art. 226 §6º da Res. 6033/2023",
+      "tema": ["ônibus (transporte regular, TAR)", "judicializacao"],
+      "relator": "Alex Azevedo", "resultado": "vista concedida a Felipe Queiroz (sem decisão)",
+      "resumo_voto": "Relator conhece o recurso da Guanabara (tempestivo), não conhece o da Gontijo (intempestivo) e, no mérito, dá provimento para anular a decisão SUPAS 327/2025 e o termo de autorização: a conversão de LOPs judiciais é exceção estrita, exige vigência e operação efetiva em 01/02/2024, o que não ocorreu (requerimento de início de operação com 31 dias; invalidade derivada). Invoca precedente do próprio colegiado (proc. 50500.176750/2024-74).",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, anula a outorga (dá provimento à Guanabara)", "ts": "1:57:54", "justificativa": "norma de exceção estrita; invalidade derivada; segurança jurídica e estabilidade das regras setoriais", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "pede vista", "ts": "2:12:11", "justificativa": "dúvida sobre o prazo e sobre repercussões em outros casos; quer avaliação mais escrutinada (já alinhado com o DG)", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.5.1", "ts": "2:13:03",
+      "processo": "50500.008470/2026-04", "interessado": "Sem Parar Instituição de Pagamento Ltda.",
+      "assunto": "Pedido de reconsideração da medida cautelar da Decisão SUROC 84/2026 que suspendeu a habilitação da Sem Parar para emitir CIOT por falta de adesão ao Pix (Res. 5862/2019, art. 25-B; Lei 12.442/2007)",
+      "tema": ["transporte rodoviário de cargas (CIOT)", "fiscalização e sanções", "judicializacao"],
+      "relator": "Alessandro Baumgarten", "resultado": "vista concedida a Alex Azevedo (sem decisão)",
+      "resumo_voto": "Relator vota por não conhecer o pedido (recebido como recurso por fungibilidade) por intempestividade (notificada em 12/02, protocolo em 24/02; prazo de 5 dias da Res. 5083/2016) e, a título complementar, declara a cautelar legal, necessária e proporcional; empresa estaria há dois anos sem adesão ao Pix; liminar do TRF-3 (que restabeleceu a habilitação) segue vigente e não é cassada por essa decisão. Recomenda à SUROC acompanhar o novo pedido de adesão ao Pix (14/05/2026). Sustentação oral da Sem Parar: ≈ 90 embarcadores e 3.300 transportadores afetados; falha apenas documental já sanada.",
+      "votos": [
+        {"diretor": "Alessandro Baumgarten", "voto": "relator, não conhece o pedido (intempestivo) e valida a cautelar", "ts": "2:32:02", "justificativa": "dois anos de desconformidade regulatória; risco de emitir CIOT sem Pix", "tom": "firme", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "pede vista", "ts": "2:33:01", "justificativa": "diante dos argumentos do advogado, quer estudar mais o processo e trazer considerações o mais breve possível", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "defere a vista; registra surpresa com dois anos sem regularização e pede à SUROC acompanhamento célere em ata", "ts": "2:33:30", "justificativa": "adesão ao Pix combate lavagem de dinheiro e crime organizado, além de facilitar usuários", "tom": "contundente", "confianca": "alta"}
+      ]
+    }
+  ],
+  "limites_da_analise": ["Legenda automática: nomes e números de processo parciais; vários ts de votos de seguidores são aproximados (a partir do fim da leitura do voto).", "Nomes do diretor Alessandro Baumgarten aparecem grafados de várias formas na legenda (Balga, Baltazar etc.).", "A sustentação oral da Sem Parar não é voto de diretor."]
+}

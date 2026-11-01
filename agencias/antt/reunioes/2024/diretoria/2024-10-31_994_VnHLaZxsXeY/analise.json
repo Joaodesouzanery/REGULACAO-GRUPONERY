@@ -1,0 +1,157 @@
+{
+  "meta": {"video_id": "VnHLaZxsXeY", "fonte": "legenda automática do YouTube; falantes inferidos (o rótulo «Marcelo Fonseca» na legenda é erro; trata-se de falante inexistente na sessão); ts = tempo do vídeo (sessão começa ~0:01:40); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "994", "data": "2024-10-31", "formato": "videoconferência",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio (saiu por deslocamento/conexão após o item 1.3.2)", "Luciano Lourenço", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Encerrada às 10h20 de 31/10/2024; todos os itens deliberados foram aprovados por unanimidade.", "Inversão de pauta: Guilherme Sampaio, Lucas Asfor, Luciano Lourenço e depois Felipe Queiroz (extrapauta).", "Extrapauta incluído por unanimidade: homologação do resultado do leilão do Edital 2/2024 (Rota dos Cristais, BR-040 GO/MG), relator Felipe Queiroz.", "Retirados de pauta: 1.1.1 (resolução de agenda, brindes e conflito de interesses, do Diretor-Geral, para ajustes sugeridos por colegas), 1.2.3 (IN de tutela do equilíbrio econômico-financeiro, de Guilherme Sampaio, para incorporar contribuições dos pares) e 1.3.15 (IN de parâmetros de pavimento, de Luciano Lourenço).", "Dispensa de leitura de votos de Luciano Lourenço nos recursos 1.3.3 a 1.3.14 (Concer).", "Duas sustentações orais: advogados da MRS Logística e da Cedro Participações (item 1.4.3) e advogado da ABCR (item 1.3.2, RCR 4).", "Guilherme Sampaio ficou desconectado a partir do bloco 1.3.3-1.3.14 e do extrapauta (tratado como ausente nesses itens).", "Aprovada a Resolução do RCR 4 (quarta norma do Regulamento das Concessões Rodoviárias), marco da pauta."]
+  },
+  "itens": [
+    {
+      "id": "1.2.1", "ts": "0:06:54",
+      "processo": "50500.177214/2024-96", "interessado": "Eco 101 Concessionária de Rodovias S.A.",
+      "assunto": "Abertura de consulta pública sobre a proposta de readequação e otimização do contrato de concessão da BR-101/ES-BA (Eco 101), incluindo minutas de edital de processo competitivo, termo aditivo, PER e modelo econômico-financeiro, e em sandbox regulatório",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "sandbox / inovação", "participação social", "leilão / otimização"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Contrato de 438,7 km considerado estressado. O TCU (Acórdão 1996/2024, ministro Antonio Anastasia na legenda: «Alto Alencar», nome incerto) deu parecer favorável à otimização, condicionada a consulta pública. O relator cita acórdão do dia anterior no caso da Autopista Fluminense, que também condicionou o termo de autocomposição a divulgação à sociedade, e propõe consulta em prazo mais célere por urgência. Submete a consulta também no âmbito de sandbox regulatório, para documentos aplicáveis a outros processos de otimização na SecexConsenso (IN TCU 91/2022). Constitui comissão de outorga.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova a abertura da consulta pública", "ts": "0:07:30", "justificativa": "dar transparência e colher contribuições, em linha com o TCU; urgência diante da incapacidade da concessionária de performar", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:13:20", "justificativa": "parabeniza a equipe e o processo de consensualismo", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:13:40", "justificativa": "avanço que trará soluções a contratos com dificuldade de performance", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:13:55", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator (presidente da sessão)", "ts": "0:14:05", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "0:14:26",
+      "processo": "50500.111194/2024-62", "interessado": "Eco 101 Concessionária de Rodovias S.A.",
+      "assunto": "Termo de referência de ambiente regulatório experimental (sandbox, Resolução 5.999/2022) para processo competitivo de transferência do controle acionário da Eco 101",
+      "tema": ["concessões rodoviárias", "sandbox / inovação", "leilão / otimização"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Complementa o item anterior e normatiza o processo competitivo simplificado, determinado no acordo do TCU, com transparência e para evitar risco moral. Testa a solução regulatória prevista no RCR 4/recuperação regulatória. Comissão de sandbox instituída pela Portaria DG 245/2024; Eco 101 e SUCON atestaram elegibilidade. Vigência de até 24 meses, prorrogável por 12. Parcela fixa negociada de R$ 320 milhões para refletir ativos intangíveis/imobilizados não amortizados; critério de seleção é o maior desconto na tarifa básica; entrega de documentos em 100 dias e sessão pública na B3 em até 104 dias; assinatura do termo aditivo em até 7 dias úteis após o resultado.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova o termo de referência", "ts": "0:15:00", "justificativa": "mais transparência e eficiência; reduzir risco moral e sistêmico; tornar o ativo remodelado disponível à sociedade e ao mercado", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha integralmente o relator", "ts": "0:21:00", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:21:15", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:21:20", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator (presidente da sessão)", "ts": "0:21:30", "justificativa": "dois importantes avanços da ANTT", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.4.3", "ts": "0:24:16",
+      "processo": "50500.278221/2023-23", "interessado": "Cedro Participações S.A. (requerente); MRS Logística S.A. (terceira interessada)",
+      "assunto": "Requerimento de outorga por autorização ferroviária para construção e exploração de ramal em Minas Gerais (Mário Campos a Mateus Leme, cerca de 26,47 km, 99 anos), com sustentações orais de MRS e Cedro",
+      "tema": ["ferrovias", "judicializacao"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — deferido",
+      "resumo_voto": "Processo aberto em 18/08/2022; sobrestado após alterações da Lei 14.273/2021 (derrubada de vetos); Resolução 5.987/2022 alterada em abril/2023 e novo contrato de adesão aprovado em outubro/2024. Até a conclusão da AP 7/2024, a SUFER considerou todo o território nacional como área de influência; concessionárias foram notificadas, com 15 dias prorrogados por mais 15 (30 no total). Três concessionárias manifestaram interesse em trechos; a MRS pediu 45 dias adicionais, negado por isonomia e porque teve ciência do traçado em 13/06/2024. Análise de adequação formal, competência, legitimidade, sobreposição de faixa e viabilidade locacional (ramal compatível com a MRS). Alinhado à política nacional de transportes. Aplica o art. 25 §6º da Lei das Ferrovias: cumpridas as exigências, a autorização só se nega por incompatibilidade com a política nacional ou motivo técnico relevante.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, defere o requerimento de autorização", "ts": "0:44:00", "justificativa": "prazo equilibrado e isonômico; viabilidade locacional atestada; ausência de impedimento legal ou técnico; investimento privado que reduz tráfego de carretas e emissões", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:55:00", "justificativa": "reconhece a qualidade técnica das sustentações, mas acompanha", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha integralmente o relator", "ts": "0:55:20", "justificativa": "todos os pontos suscitados foram abordados pelo relator", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:55:45", "justificativa": "argumentos da MRS lhe parecem intempestivos e processuais; espírito da lei é fomentar a infraestrutura ferroviária; a agência não deve se ancorar em argumentos processuais para frear o setor", "tom": "firme", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator (presidente da sessão)", "ts": "0:58:20", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.4.3-so", "ts": "0:27:47",
+      "processo": "50500.278221/2023-23 (sustentações orais do item 1.4.3)", "interessado": "MRS Logística S.A. (Dra. Tatiane Viana, legenda: «Vieira vidiano») e Cedro Participações S.A. (Dr. Eduardo Soares do Couto Filho)",
+      "assunto": "Sustentações orais em ordem: MRS pede que o processo não seja julgado; Cedro pede indeferimento dos pleitos da MRS e prosseguimento do pedido",
+      "tema": ["ferrovias", "judicializacao"],
+      "relator": "Lucas Asfor", "resultado": "sustentações ouvidas; item decidido como 1.4.3",
+      "resumo_voto": "MRS: seu direito de preferência (art. 67 da Lei 14.273) ainda não foi exercido, pois só obteve cópia integral do processo em 23/10/2024 e seu prazo iria até 6/11; impetrou mandado de segurança dois dias antes (liminar negada); alega tratamento anti-isonômico frente a outras concessionárias que apontaram interesse potencial; subsidiariamente pede abertura de prazo após o julgamento e análise da viabilidade locacional pelos terminais outorgados. Cedro: ramal para escoar minério de ferro da Serra Azul, reduzindo carretas e mais de 400 mortes em três anos nas rodovias; a MRS usou manobras e dilações sem justificativa, não demonstrou interesse real e o traçado pode ser ajustado.",
+      "votos": [],
+      "_obs": "item descritivo, sem voto de diretores (votos no item 1.4.3)"
+    },
+    {
+      "id": "1.4.1", "ts": "0:58:40",
+      "processo": "50500.167981/2024-97", "interessado": "SUCON (Superintendência de Concessão da Infraestrutura)",
+      "assunto": "Aprovação do edital de concessão do lote CN5 Rota Agro Norte (BR-364/RO, 686,7 km)",
+      "tema": ["concessões rodoviárias", "pedágio free flow", "leilão / otimização"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Mecanismo de compartilhamento de risco de demanda reduzido na banda de 10% para 5% e fator elevado de 50% para 80%, por a rota não ter histórico de pedágio. Free flow opcional e conectividade em 100% da rodovia desde o 36º mês, por orientação da diretoria. WACC atualizado conforme orientação do Ministério dos Transportes e normas da ANTT, em 11,17% ao ano. Investimentos superiores a R$ 10 bilhões em 30 anos (valor lido de forma incompleta pela legenda). Leilão em 27 de fevereiro de 2025 (a legenda diz 2024, erro evidente), 14h, na B3.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova o edital", "ts": "1:00:00", "justificativa": "conformidade dos trabalhos da SUCON e atendimento ao TCU", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "1:05:00", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "1:05:10", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "1:05:20", "justificativa": "cadência do ritmo de leilões, em alinhamento com o Ministério, dá previsibilidade ao setor", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator (presidente da sessão)", "ts": "1:06:40", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.4.2", "ts": "1:07:07",
+      "processo": "50500.284414/2022-32", "interessado": "SUROD (Superintendência de Infraestrutura Rodoviária)",
+      "assunto": "Relatório final da Audiência Pública 2/2024 e resolução do regulamento de implantação dos Pontos de Parada e Descanso (PPD) nas rodovias sob competência da ANTT",
+      "tema": ["concessões rodoviárias", "transporte rodoviário de cargas (piso mínimo do frete/CIOT)", "regulação normativa", "participação social"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Audiência com sessão presencial/virtual em 16/04/2024 e contribuições de 19/03 a 06/05/2024; 64 contribuições (incluindo ABCR, ABRATI, ANUT, ABQUIM e CNTA). Principais ajustes: prazos de implementação (3 anos no modelo de financiamento básico; 5 anos nos modelos com parceria ou empreendedor, contados do início da concessão); vedação ampla de comércio de bebidas alcoólicas no PPD; locais para órgãos públicos e sociedade civil e ações de saúde dos motoristas; melhores indicadores de utilização. PF opinou pela juridicidade.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova relatório final e resolução", "ts": "1:08:00", "justificativa": "considera experiência internacional e contribuições da sociedade; diretrizes do Ministério dos Transportes", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "1:13:30", "justificativa": "qualidade e concisão do voto; PPDs viraram referência e melhoram a vida dos trabalhadores do setor", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "1:14:10", "justificativa": "estatísticas apontam redução de sinistros com caminhões em rodovias com PPD", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "1:14:40", "justificativa": "agência como instrumento para materializar políticas públicas (Lei dos Caminhoneiros e Lei das Ferrovias)", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator (presidente da sessão)", "ts": "1:15:50", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "1:16:00",
+      "processo": "50500.367345/2023-82", "interessado": "Viação Robot Ltda. (legenda: «Rebot»/«rbot»; nome incerto)",
+      "assunto": "Processo administrativo ordinário por descumprimento do envio de dados do sistema Monitriip (Resolução 4.499/2014) entre jan. e jul. de 2023",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — advertência",
+      "resumo_voto": "A empresa foi paralisada por medida cautelar; depois regularizou o envio, com adequação progressiva a partir de fevereiro de 2024. A comissão reconheceu infração grave com atenuante, endossada pelo superintendente. O relator aplica advertência (art. 78-A da Lei 10.233/2001), por proporcionalidade, em vez de sanção que inviabilize a operação, ressalvando a necessidade de advertir a empresa pela operação irregular em 2023 (voto 77/24).",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aplica advertência", "ts": "1:17:00", "justificativa": "infração grave, mas correção posterior e proporcionalidade", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "1:19:40", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "1:19:45", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:19:50", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator (presidente da sessão)", "ts": "1:20:00", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.2", "ts": "1:20:13",
+      "processo": "50500.?01700/2019-9 (número truncado na legenda)", "interessado": "SUROD (Superintendência de Infraestrutura Rodoviária); sustentação oral da ABCR (Dr. Marco Aurélio, sobrenome incerto)",
+      "assunto": "Relatório final da Audiência Pública 12/2023 e resolução da quarta norma do Regulamento das Concessões Rodoviárias (RCR 4): fiscalização, infrações, penalidades, classificação das concessionárias e regime de recuperação regulatória",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções", "regulação normativa", "participação social", "sustentabilidade"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Norma de 17 capítulos e 4 anexos; revoga três resoluções. Antecedentes: consulta interna (set./2022), reunião participativa de 9/01 a 17/02/2023 (248 contribuições) e audiência pública de 12/01 a 29/02/2024 (mais de 400 contribuições). Inclui planejamento responsivo da fiscalização, medidas preventivas (alertas, termo de registro de ocorrência, aviso de não conformidade), sanções, denúncia espontânea, TAC, acordo substitutivo de multas, classificação das concessionárias (A a D) e regime de recuperação regulatória. Ajustes do relator: período de aplicação de instrumentos a concessionárias de classe C ampliado de 6 para 9 meses; retirada da culpa como critério para multar administradores; classificação passa de triênio para quadriênio e tabela de notas readequada; IDA (desenvolvimento ambiental) como bônus de 2,5% na pontuação; suspensão de obrigações e vedação de novos investimentos durante a recuperação regulatória; prazo de aplicação de verba de P&D de um para dois anos; fatores de classe C e D reduzidos (para 0,7 e 1,8, como lido) e fator do grupo C de infração de 1,5 para 1,0. Sustentação da ABCR pede: curva de aprendizado, redistribuição das notas (efeito areia movediça do nível D), IDS como bonificação e não obrigação, eliminação da culpa na sanção ao administrador, multa sobre receita líquida e prazo para solução definitiva das inconformidades graves; pede possível revisitação no RCR 5.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aprova relatório final e resolução", "ts": "1:51:00", "justificativa": "fiscalização moderna deve acompanhar a regulação moderna; equilíbrio entre regulador, regulado e usuários; incorpora parte dos argumentos da sustentação oral", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente o relator", "ts": "1:52:30", "justificativa": "RCR como exemplo de diálogo entre regulador e regulado, com olhar para o usuário", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "1:53:00", "justificativa": "marco para a regulação rodoviária federal; norma viva e passível de aprimoramento; não avançar traria letargia", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:57:00", "justificativa": "equilíbrio e lucidez das ponderações da ABCR; liderança do relator", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator (presidente da sessão)", "ts": "1:57:50", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.3 a 1.3.14", "ts": "2:00:16",
+      "processo": "Doze processos de recurso contra decisões da SUROD", "interessado": "Concessionária Rodovia Juiz de Fora-Rio (Concer)",
+      "assunto": "Bloco de recursos administrativos contra penalidades (leitura dos votos e dos números dos processos dispensada)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade (Guilherme Sampaio desconectado)",
+      "resumo_voto": "Leitura dispensada com base no art. 68 §§2º e 5º do Regimento; sentido do voto não detalhado na sessão, mas coerente com a prática do colegiado de conhecer e negar provimento. Não confirmado nesta transcrição.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator", "ts": "2:00:20", "confianca": "baixa"},
+        {"diretor": "Felipe Queiroz", "voto": "de acordo com todos os processos", "ts": "2:00:50", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "de acordo em todos os processos do bloco", "ts": "2:01:00", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha (presidente, aprova)", "ts": "2:01:20", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "extrapauta", "ts": "2:01:46",
+      "processo": "50500.122421/2024-13", "interessado": "SUCON (Superintendência de Concessão da Infraestrutura)",
+      "assunto": "Homologação do resultado do leilão do Edital 2/2024 (Rota dos Cristais, BR-040 de Cristalina/GO a Belo Horizonte/MG)",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "sustentabilidade"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — homologado",
+      "resumo_voto": "Edital aprovado em 29/05/2024 (Deliberação 139); leilão em 26/09/2024 na B3, com quatro propostas (Vancouver/Vanc Highways, Consórcio Nova BR-040, BTG Pactual Infraestrutura 3 e CCR). Vencedora: Vanc Highways, com desconto de 14,32% sobre a tarifa-teto do leilão. Ata de julgamento da documentação de qualificação em 11/10/2024 sem impugnações. Investimentos incluem duplicação de 9,9 km, 343 km de faixas adicionais, 62 km de vias marginais, passarelas, passagens de fauna e dois PPDs. Assinatura do contrato prevista para 30/12/2024; publicação da homologação na segunda-feira seguinte (4/11).",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, homologa o resultado do leilão", "ts": "2:02:30", "justificativa": "aderência completa à documentação do edital, ausência de impugnações e cumprimento das diretrizes do PND", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "2:09:20", "justificativa": "reconhece o esforço do relator em trazer o item extrapauta; compromisso da agência com leilões e novos contratos", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha integralmente o relator", "ts": "2:09:45", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator (presidente da sessão)", "ts": "2:09:55", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["1.1.1 — resolução que consolida normas de agenda de compromissos, brindes e presentes, audiências a particulares e conflito de interesses (50500.096452/2023-11), do Diretor-Geral; retirada para ajustes sugeridos por diretores, retornou na RD 995.", "1.2.3 — IN de tutela do equilíbrio econômico-financeiro dos contratos de concessão rodoviária (50500.158152/2024-63), de Guilherme Sampaio; retirada extemporânea durante a sessão para incorporar contribuições dos pares; havia compromisso com o setor de aprovar até o fim do mês; retornou na RD 995.", "1.3.15 — IN de parâmetros de desempenho de pavimento (50500.087268/2023-8), de Luciano Lourenço; retirada no início; retornou como extrapauta na RD 995."],
+  "limites_da_analise": ["Legenda automática: números de processo, nomes de empresas e sobrenomes de advogados podem estar errados (ex.: processo do 1.3.2 truncado; processo do 1.2.2 reconstruído; ministro do TCU citado de forma incerta; Viação «Robot/Rebot»).", "O item «1.4.3-so» é um registro descritivo das sustentações orais do 1.4.3 e não tem votos próprios.", "Ts de votos de seguidores aproximados. No bloco 1.3.3-1.3.14 o sentido de voto do relator não foi falado; confiança baixa/media.", "O rótulo «Marcelo Fonseca» na legenda não corresponde a diretor presente; Guilherme Sampaio saiu da conexão após o item 1.3.2.", "Valores como o capex do CN5 (acima de R$ 10 bilhões) e o total de investimento do BR-040 aparecem incompletos na legenda e foram omitidos ou citados com cautela.", "Alguns números de fator de classe foram lidos com ruído pela legenda («07 e 1.8»); confirmar no texto da resolução."]
+}

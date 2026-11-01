@@ -1,0 +1,245 @@
+{
+ "meta": {
+  "video_id": "LNSg-EtO5zg",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "973",
+  "data": "2024-01-18",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Guilherme Sampaio",
+   "Felipe Queiroz",
+   "Lucas Asfor"
+  ],
+  "ausentes": [
+   "Luciano Lourenço (férias, ausência justificada)"
+  ],
+  "observacoes": [
+   "Primeira reunião pública de 2024; encerrada às 15h24.",
+   "No 1.2.2 houve distribuição ad hoc a Felipe Queiroz, com Guilherme Sampaio abrindo mão da relatoria; Rafael Vitale foi elogiado por essa prática.",
+   "Quórum de quatro diretores."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1.1",
+   "ts": "0:02:01",
+   "processo": "50500.170554/2023-13",
+   "interessado": "Superintendência de Serviços de Transporte Rodoviário e Multimodal de Cargas (SUROC)",
+   "assunto": "Relatório final da Audiência Pública 11/2023 e alteração da Resolução 5867/2020 (regras gerais, metodologia e coeficientes dos pisos mínimos de frete por eixo carregado, política nacional de pisos mínimos, Lei 13.703/2018)",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "regulação normativa",
+    "participação social"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Sexta revisão ordinária, com estudos aprofundados e pesquisa de mercado, porque a atualização só pelo IPCA descolava a tabela dos valores praticados; tomada de subsídios 22/2023 (até 21/7/2023) e audiência pública entre novembro e dezembro; sem mudança de mérito da metodologia, apenas parâmetros, correção de erros materiais e adequação à alteração legal do gatilho de revisão por variação do diesel de 10% para 5%; impacto médio de +1,03% (alto desempenho) a +5,66% (carga lotação). Urgência: Lei 13.703 exige publicação até 20 de janeiro e 20 de julho; vigência na publicação.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aprova relatório e resolução",
+     "ts": "0:07:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:07:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:07:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:07:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.1.2",
+   "ts": "0:08:18",
+   "processo": "50510.075612/2016-1",
+   "interessado": "Transbrasiliana Concessionária de Rodovia S.A.",
+   "assunto": "Recurso contra a Decisão 1209/2022 da SUINF (22/2/2023) que manteve multa de 346,50 URT por deixar de prestar socorro mecânico conforme contrato/PER",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade — recurso conhecido, sem efeito suspensivo, desprovido",
+   "resumo_voto": "Área técnica não identificou fato novo; mantém a penalidade de 346,50 URT (art. 7º, I, da resolução, citação da legenda incerta).",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, conhece sem efeito suspensivo e nega provimento",
+     "ts": "0:09:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:10:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:10:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:10:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.1",
+   "ts": "0:10:40",
+   "processo": "50500.107389/2023-55",
+   "interessado": "Rumo Malha Sul S.A.",
+   "assunto": "Requerimento para inserir cláusula contratual que faculte a antecipação do pagamento de parcelas vincendas de arrendamento (e concessão)",
+   "tema": [
+    "ferrovias",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade — conhecido e negado provimento",
+   "resumo_voto": "Pedido de 24/4/2023; SUFER sugeriu indeferimento em 14/6/2023; item já retirado de pauta a pedido da concessionária; levantamento de passivos regulatórios enviado em 17/10/2023 e resposta só em 15/1/2024 (carta 001), com números divergentes. Argumento de isonomia afastado: contratos de MRS, Rumo Malha Paulista, EFC, EFVM e FNS Tramo Central com esse mecanismo são prorrogações antecipadas (ou mais recentes, com contraprestação TGA), diferentes dos contratos oriundos da extinta RFFSA; o mecanismo poderia ser negociado numa eventual prorrogação antecipada. Cláusula 18ª, III: só se apresenta pleito estando em dia com as obrigações contratuais. Concessionária deve sanar os passivos e depois poderá renovar o pleito.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:20:37",
+     "justificativa": "isonomia não se aplica no contexto atual; passivos regulatórios impedem o aditivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:21:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:21:30",
+     "justificativa": "elogia o detalhamento e a fundamentação do voto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:21:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.2",
+   "ts": "0:22:30",
+   "processo": "50500.039205/2023-17",
+   "interessado": "Superintendência de Concessão da Infraestrutura (SUCOM)",
+   "assunto": "Relatório final da Audiência Pública 10/2023 e aprovação da metodologia de avaliação do nível de risco e de estimativa do custo médio ponderado de capital regulatório (CMPC/WACC) e spreads para o setor ferroviário",
+   "tema": [
+    "ferrovias",
+    "regulação normativa",
+    "participação social",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Distribuição ad hoc a Felipe Queiroz (originalmente sorteado a Guilherme Sampaio, que abriu mão). Item da agenda regulatória 2023-2024 (Deliberação 358/2022); SUCOM fez reunião participativa, reuniões bilaterais e disponibilizou memória de cálculo e algoritmo; parecer PFE 2/2024. Mudanças: benchmark atualizado trimestralmente com validade semestral; exclusão do nível de risco CR0 (restam CR1 a CR3); alteração do ponto na curva de probabilidades, excluindo valores abaixo da média; ajuste das faixas de risco com distribuição simétrica (opção mais equilibrada entre três propostas pela SUCOM após contribuição tardia do setor). Atende recomendações do TCU e encerra ciclo iniciado no setor rodoviário; recomenda que a SUCOM avalie os mesmos aprimoramentos para o WACC rodoviário. Comando: aprovar relatório, aprovar a metodologia e recomendar a avaliação para rodovias.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, aprova",
+     "ts": "0:35:30",
+     "justificativa": "metodologia equilibra remuneração do investimento e captura de excedentes; mais previsibilidade e transparência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:36:53",
+     "justificativa": "elogia a qualidade técnica e o diálogo com atores públicos e privados; adere a reavaliar o modelo rodoviário",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:38:00",
+     "justificativa": "brilhantismo do voto e aderência às melhores práticas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:38:30",
+     "justificativa": "novo WACC ferroviário equilibra política pública, interesse do mercado e interesse público",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1.2.3",
+   "ts": "0:40:00",
+   "processo": "50515.005200/2024-1",
+   "interessado": "Transray Transportes em Geral Ltda. (representação da Alfândega da Receita Federal em São Paulo)",
+   "assunto": "Aplicação de pena de perdimento pela Receita Federal: vedação por dois anos de novas autorizações de transporte internacional (art. 75, §, da Lei 10.833/2003; Res. ANTT 5818/2018)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Ofício 27/2022 da Alfândega (21/2/2022); a sanção decorre objetivamente da lei e prescinde de contraditório na ANTT, exercido na Receita; cabe à diretoria cassar as autorizações existentes e vedar novas por 2 anos. Voto por vedar por 2 anos a expedição de autorizações de transporte internacional à empresa.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, veda por 2 anos",
+     "ts": "0:44:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:45:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:45:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:45:20",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática com erros em nomes e números de processos; vários números reconstruídos com dígitos incertos.",
+  "ts de início de itens e votos dos seguidores aproximados.",
+  "Empresa do 1.2.3 transcrita como Transay/Transrei; nome incerto.",
+  "Citações de artigos e resoluções (p. ex. 4471/2023, 4071/2013 no 1.1.2) estão inconsistentes na legenda e não foram confirmadas."
+ ]
+}

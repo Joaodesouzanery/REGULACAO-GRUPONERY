@@ -1,0 +1,76 @@
+{
+  "meta": {"video_id": "jmj1jyUxsuA", "fonte": "legenda automática do YouTube (título em inglês: Board Meeting 1034; a legenda lê 'sessão 1084' na abertura, erro de ASR); falantes inferidos; ts = tempo do vídeo (a gravação começa na abertura)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1034", "data": "2026-06-02", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral; também presidente do Comitê das Agências Reguladoras Federais)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alex Azevedo", "Alessandro Baumgarten"],
+    "ausentes": [],
+    "observacoes": ["4 deliberações, todas unânimes.", "Ao final, o DG leu a nota conjunta do Comitê das Agências Reguladoras Federais contra o bloqueio orçamentário linear de ≈ 18% (Decreto 12.990, de 29/05/2026) e listou impactos na ANTT.", "Marcelo Fonseca é citado como superintendente da SUCON (ainda não era diretor)."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:00:03",
+      "processo": "50500.066329/2025-37", "interessado": "EcoRodovias Concessões e Serviços S.A.",
+      "assunto": "Ato de outorga e autorização para assinar o contrato da concessão BR-116/251 (MG) — Rota das Gerais (edital 5/2025); leilão homologado em 22/05/2026; SPE Ecovias das Gerais",
+      "tema": ["concessões rodoviárias", "leilão", "ato de outorga"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Cumpridas as condições do item 16.3 do edital (capital social, recursos vinculados do deságio de 19%, garantia de execução, seguros, pagamentos à B3 e ao BNDES, termo de integridade, plano de transição). Investimentos superiores a R$ 13 bi (capex+opex) em 30 anos; cronograma de assinatura antecipado.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova", "ts": "0:00:03", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "0:03:52", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:03:58", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente", "ts": "0:04:04", "justificativa": "parabeniza pela conquista em Minas Gerais, estado do relator", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "0:04:23", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:04:27",
+      "processo": "00411.510106/2023-80 (parcial)", "interessado": "Elo Transportes e Fretamentos Ltda. (fretamento — ônibus)",
+      "assunto": "Referendar a Deliberação 137/2026 (ad referendum, 15/05/2026) que converteu em multa a cassação da autorização de fretamento aplicada pela Deliberação 389/2022, em cumprimento a acórdão do TRF-5",
+      "tema": ["transporte rodoviário de passageiros (fretamento/ônibus)", "fiscalização e sanções", "judicialização"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — referendada a conversão da cassação em multa de R$ 5.500",
+      "resumo_voto": "O TRF-5 manteve a materialidade da infração e a regularidade do processo sancionador, mas considerou a cassação excessivamente gravosa e desproporcional; prazo judicial vencia em 13/05/2026, por isso o ato foi ad referendum. Multa de R$ 5.500 calculada pela SUFIS (Res. 233/2003, art. 4º §3º); base legal arts. 78-A IV e 78-H da Lei 10.233.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, referenda", "ts": "0:05:17", "justificativa": "cumprimento de decisão judicial; destaca que a agência regula tanto o serviço regular (TAR) quanto o fretamento (TAF)", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha (inferido)", "ts": "0:14:08", "confianca": "baixa"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "0:14:10", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "0:14:13", "confianca": "média"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "0:14:13",
+      "processo": "50500.021169/2025-05", "interessado": "Concessionária do Sistema Rodoviário Rio–São Paulo (Motiva Rio–São Paulo, Via Dutra; edital 3/2021)",
+      "assunto": "19º termo aditivo (3º sobre o tema): encerra o sandbox do primeiro free flow do Brasil (3 pórticos na BR-101 RJ/SP, Mangaratiba–Ubatuba, em operação desde março/2023) e estabelece obrigações permanentes do pedágio eletrônico",
+      "tema": ["concessões rodoviárias", "tarifa/pedágio/free flow", "sandbox regulatório", "termo aditivo"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Relatório final do sandbox (mar/2025) comprovou maturidade: altas taxas de detecção, predominância de meios eletrônicos (tag, Pix), inadimplência ≈ 5,5% (contra ≈ 30% temida), menos acidentes e menos emissões. O aditivo adapta o modelo referencial (Del. 69 e 109/2025): suprime cláusulas de início de cobrança/testes, mantém obrigações de prestação de contas, apura capex de forma retrospectiva e incorpora a nova repartição de risco da resolução do free flow (90% da evasão no poder concedente se a concessionária provar diligência; 100% da fraude/má-fé comprovada). O reequilíbrio econômico-financeiro do período experimental fica para até 180 dias (cl. 6.6).",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova", "ts": "0:15:00", "justificativa": "regulação guiada por evidências; consolidar a melhor prática para o free flow; reconhece o debate com Alex sobre a repartição de risco", "tom": "didático", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha na íntegra", "ts": "0:36:12", "justificativa": "objetivos do sandbox plenamente atingidos; elogia a solução", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha na íntegra", "ts": "0:37:08", "justificativa": "valoriza a segurança jurídica dos 180 dias adicionais para o reequilíbrio", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "0:37:57", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente; proclama unanimidade", "ts": "0:38:05", "justificativa": "ANTT na vanguarda do pedágio eletrônico (justiça e equidade tarifária); primeiro sandbox da agência", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "0:38:05",
+      "processo": "50500.021563/2026-16", "interessado": "SUCON",
+      "assunto": "Abertura de audiência pública sobre as minutas de edital e contrato da nova concessão ferroviária Malha Sul (corredores Mercosul, Rio Grande e Paraná–Santa Catarina; 4.248,45 km)",
+      "tema": ["ferrovias", "concessão ferroviária", "participação social"],
+      "relator": "Alex Azevedo", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Contrato atual (Rumo Malha Sul) termina em fev/2027; GT do Ministério dos Transportes concluiu por nova licitação em 3 corredores; capex ≈ R$ 14,4 bi (PR–SC 6,87; RS 3,04; Mercosul 4,49), opex ≈ R$ 38,7 bi, TIR 14,08% (WACC CR2). Viabilidade 'de portfólio': 2% da receita bruta do corredor PR–SC (78% da carga) vão a contas vinculadas e financiam em parte os outros corredores (≈ R$ 4,94 bi de subsídio cruzado, concentrados em 9 anos; ≈ R$ 3 bi para reconstrução pós-enchentes de 2024 no RS). Critério de julgamento: maior aporte; garantias escalonadas (recursos privados de outros contratos, Orçamento da União, fundo FIDIS, fluxo de caixa marginal). Audiência híbrida: Brasília 16/07, Curitiba 27/07, Porto Alegre 29/07, Florianópolis 31/07; contribuições de 15/06 a 10/08/2026. Determina que a SUCON consolide as contribuições e submeta o resultado à diretoria antes do edital (Acórdão TCU 2057/2020).",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, aprova", "ts": "0:40:34", "justificativa": "'o direito da sociedade de ser ouvida antes de uma concessão'; abre a janela do diálogo público", "tom": "solene, retórico, detalhista", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "1:03:39", "justificativa": "transparência e participação social", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:04:06", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "1:04:12", "justificativa": "o corredor Mercosul, mesmo menos rentável, é essencial à integração nacional", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente; proclama unanimidade", "ts": "1:05:01", "justificativa": "convoca todos os stakeholders a contribuir; reconhece o trabalho da SUCON (superintendente Marcelo Fonseca, gaúcho)", "confianca": "alta"}
+      ]
+    }
+  ],
+  "pos_sessao": {
+    "ts": "1:06:58",
+    "resumo": "Guilherme Sampaio (como presidente do Comitê das Agências Reguladoras Federais) leu nota conjunta contra o bloqueio orçamentário linear de ≈ 18% (Decreto 12.990/2026) e o PLP 73/2025 em tramitação no Senado. Para a ANTT: redução de ≈ 40% em 5 anos, déficit de 40% de servidores, parque tecnológico deficitário; riscos para audiências públicas, projetos estruturantes e fiscalização do piso mínimo do frete. 'O fundo do poço tem subsolo.'"
+  },
+  "limites_da_analise": ["Legenda automática: nomes e números de processo parciais; o ano da nota ('junho de 2016') é erro de legenda para 2026.", "Votos de Lucas Asfor em 1.2.1 inferidos pela ordem de votação."]
+}

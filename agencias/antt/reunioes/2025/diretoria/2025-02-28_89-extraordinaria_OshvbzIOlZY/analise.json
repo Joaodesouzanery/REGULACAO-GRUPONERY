@@ -1,0 +1,27 @@
+{
+  "meta": {"video_id": "OshvbzIOlZY", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "89 (extraordinária)", "data": "2025-02-28", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Reunião extraordinária convocada pelo Diretor-Geral (Ofício Circular 719) por urgência e relevância; item único, aprovado por unanimidade.", "Encerrada às 8h19 de 28/02/2025 (sessão de ≈ 6 minutos)."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:50",
+      "processo": "50500.325611/2023-08", "interessado": "EPR Litoral Pioneiro S.A.",
+      "assunto": "Aprovação da conclusão dos trabalhos iniciais e autorização do início da cobrança de pedágio nas duas novas praças (P2 e P7, Guatiguá) do lote BR-153/277/369 e rodovias PR do Paraná (Contrato de Concessão 2/2023)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Comissão de trabalhos iniciais declarou o cumprimento, com ressalvas que não prejudicam a operação nem a segurança dos usuários; atendida a subcláusula 19.2.1 do contrato. Tarifa calculada nos termos da subcláusula 19.6.1 (TBP reajustada pelo IRT, acréscimo de cerca de 15,75%, valor conforme legenda). Urgência justificada pela conclusão antecipada dos trabalhos iniciais pela concessionária.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova conclusão dos trabalhos iniciais e autoriza cobrança nas praças P2 e P7", "ts": "0:01:40", "justificativa": "cumprimento com ressalvas não impeditivas; preserva planejamento inicial e sustentabilidade financeira da concessão", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:05:30", "justificativa": "parabeniza a diligência do relator e das áreas técnicas na etapa do contrato", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator; proclama unanimidade", "ts": "0:06:10", "justificativa": "destaca proatividade da agência no cumprimento e na fiscalização das obrigações do regulado", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática: o percentual de reajuste (15,75%) e os números de processo/rodovias podem estar distorcidos.", "Ts dos votos de Felipe Queiroz e Guilherme Sampaio aproximados."]
+}

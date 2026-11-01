@@ -1,0 +1,36 @@
+# Itens do tema «tarifa_modicidade» (todos os diretores)
+
+- **RD 990 (2024-09-05)**, 1.1.3 · relator **Luciano Lourenço** · 14ª revisão ordinária, 15ª e 16ª revisões extraordinárias e reajuste da tarifa básica de pedágio (TBP) do contrato do Edital 7/2007; termo aditivo com → aprovado por unanimidade
+  - votos: Luciano: relator; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=m6tfBRRgsEI&t=3689s)
+- **RD 998 (2024-12-19)**, 1.2.2 · relator **Luciano Lourenço** · 16ª revisão extraordinária, 16ª revisão ordinária, 17ª revisão extraordinária e reajuste da tarifa básica de pedágio (TBP); termo aditivo com obras de → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=3KyK_89ogrM&t=1218s)
+- **RD 90ª Extraordinária (2025-03 (aprox.; a confirmar))**, unico · relator **None** · Reajuste da tarifa básica de pedágio e início da cobrança nas praças existentes P1 Florestal, P3, P4 Campos Altos e P6 Perdizes (BR-262/MG, trecho ent → aprovado por unanimidade
+  - votos: Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=dIpQycne7g0&t=0s)
+- **RD 1025 (2026-01-29)**, 1.2.2 · relator **Felipe Queiroz** · Homologação da tabela tarifária de referência da TLSA (primeiro reajuste/tabela nos termos do contrato de 2014, sem operação até agora) para o trecho  → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Severino: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=d2BF6usx0p8&t=6350s)
+- **RD 1026 (2026-02-12)**, extra-pauta-RIDE-DF · relator **Alex Azevedo** · Reajuste do coeficiente tarifário das autorizações especiais semiurbanas da RIDE/DF (ciclo 2026) → aprovado por unanimidade
+  - votos: Alex: relator; Felipe: acompanha; Lucas: acompanha; Severino: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=5dRdxywub1g&t=6999s)
+- **RD 1026 (2026-02-12)**, 1.5.1 · relator **Severino Medeiros** · Reajuste do coeficiente tarifário dos serviços semiurbanos por autorização especial geridos diretamente pela ANTT (exceto RIDE/DF e Petrolina–Juazeiro → aprovado por unanimidade
+  - votos: Severino: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=5dRdxywub1g&t=7530s)
+- **RD 1026 (2026-02-12)**, extra-pauta-Taguatu · relator **Severino Medeiros** · Reajuste anual do coeficiente tarifário do contrato de permissão 001/2015 (variação de preços de 2025), somado ao efeito do acordo homologado no item  → aprovado por unanimidade
+  - votos: Severino: relator; Felipe: acompanha; Alex: acompanha; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=5dRdxywub1g&t=8030s)
+- **RD 1033 (2026-05-21)**, 1.2.2 · relator **Felipe Queiroz** · Embargos de declaração contra a Deliberação 394/2025 (reclamação contra Rumo Malha Norte por precificação supostamente discriminatória por critério de → aprovado por unanimidade — embargos conhecidos e desprovidos
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=R_zbvJ8TXjs&t=3715s)
+- **RD 1034 (2026-06-02)**, 1.2.2 · relator **Felipe Queiroz** · 19º termo aditivo (3º sobre o tema): encerra o sandbox do primeiro free flow do Brasil (3 pórticos na BR-101 RJ/SP, Mangaratiba–Ubatuba, em operação d → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=jmj1jyUxsuA&t=853s)
+- **RD 1035 (2026-06-18)**, 1.1.2 · relator **Alessandro Baumgarten** · 6ª revisão ordinária e reajuste da tarifa básica de pedágio; reconhecimento da excepcionalidade das enchentes do RS (maio/2024) e tratamento diferenci → aprovado por unanimidade — tarifa da categoria 1 de R$ 5,50 para R$ 6,60 nas praças P1–P7
+  - votos: Felipe: revisor_acompanha; Alessandro: relator; Alex: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=8J6vHk_yKSg&t=2538s)
+- **RD 1035 (2026-06-18)**, extra-pauta-RotaAgro · relator **Felipe Queiroz** · 1º termo aditivo: substituir a obrigação de construir praças de pedágio físicas pela implantação de pedágio eletrônico (free flow) nas 5 praças do PER → aprovado por unanimidade, com condicionante do relator
+  - votos: Felipe: relator; Alex: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=8J6vHk_yKSg&t=4080s)
+- **RD 1037 (2026-07-16)**, 1.3.1 · relator **Alex Azevedo** · Reajuste anual ordinário dos coeficientes dos pisos mínimos de frete (Res. 5867/2020; Lei 13.703/2018): IPCA de 3,54% (dez/2025–mai/2026) e diesel S10 → aprovado por unanimidade
+  - votos: Alex: relator; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=ixMkeB6vSIM&t=4879s)
+- **RD 1038 (2026-07-30)**, 1.2.1 · relator **Alex Azevedo** · 13ª revisão extraordinária da tarifa básica de pedágio: quatro eventos — elevador no posto da PRF de Araguari (ordem judicial), desapropriações (aprov → aprovado por unanimidade
+  - votos: Alex: relator; Felipe: acompanha; Lucas: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=ZBxIyiomges&t=2191s)
+- **RD 1040 (2026-08-27)**, 1.3.1 · relator **Lucas Asfor** · Reajuste da tarifa básica de pedágio (IRT 1,10550 = +10,55%) e início da cobrança em sistema eletrônico de livre passagem (free flow) após recebimento → aprovado por unanimidade
+  - votos: Lucas: relator; Alex: acompanha; Felipe: acompanha; Marcelo: nao_captado · [vídeo](https://www.youtube.com/watch?v=8p1X1Nfk9Cs&t=4020s)
+- **RD 102ª Extraordinária (2026-09-03)**, 1.1.1 · relator **Felipe Queiroz** · 1ª revisão extraordinária da tarifa básica de pedágio para recompor o equilíbrio econômico-financeiro: 41 controladores de velocidade no tronco, 12 na → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=J5gkP2cLOm8&t=1788s)
+- **RD 1044 (2026-10-22)**, 1.2.1 · relator **Lucas Asfor** · Relatório final da AP 5/2026 (06/04–20/05/2026; 226 contribuições, 97 acolhidas e 51 parcialmente) e aprovação do RSF 1 (Regulamento de Serviço e Segu → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Marcelo: acompanha; Alex: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=6854s)
+- **RD 1044 (2026-10-22)**, 1.3.2 · relator **Alex Azevedo** · 2º termo aditivo: substituir a obrigação da praça de pedágio P3A (km 3+150, Comendador Levy Gasparian/RJ) por pórtico eletrônico free flow, deslocando → aprovado por unanimidade
+  - votos: Alex: relator; Felipe: acompanha; Marcelo: acompanha; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=8664s)

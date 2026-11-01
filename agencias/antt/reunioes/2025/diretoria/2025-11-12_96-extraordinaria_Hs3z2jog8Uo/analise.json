@@ -1,0 +1,29 @@
+{
+  "meta": {"video_id": "Hs3z2jog8Uo", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:22:45)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "96 (extraordinária)", "data": "2025-11-12", "formato": "videoconferência (relator participando de Belém, durante a COP 30)",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alex Azevedo", "José Aires Amaral Filho"],
+    "ausentes": [],
+    "observacoes": ["Item único, aprovado por unanimidade. Felipe Queiroz relatou diretamente da COP 30, em Belém (terceiro dia da conferência).", "Encerrada às 11h15 de 12/11/2025. O cabeçalho do arquivo indica 2025-12-11, mas o título (12/11/2025), a COP 30 e a fala de encerramento indicam 12 de novembro."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:23:20",
+      "processo": "50500.5169x/2025-70 (número parcial)", "interessado": "Superintendência de Sustentabilidade, Pessoas e Inovação (SUSPI)",
+      "assunto": "Edital de seleção de concessionárias de rodovias federais para ambiente regulatório experimental (sandbox) de adesão voluntária ao Programa de Sustentabilidade para Infraestrutura de Rodovias e Ferrovias Federais (PSI, Res. 6.057/2024), e instituição das comissões temáticas de sandbox regulatório",
+      "tema": ["sustentabilidade", "sandbox / inovação", "concessões rodoviárias", "ferrovias", "regulação normativa", "participação social"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprova as minutas de resolução com o regimento interno dos comitês de desenvolvimento sustentável (rodovias e ferrovias) e o edital do sandbox regulatório do PSI; amplia o prazo de adesão de 90 para 120 dias (fim previsto em meados de março/2026, em vez de fevereiro) por causa do fim de ano e fechamento de balanços; determina à SUSPI ajustar o cronograma do Edital 2/2025 (sandbox do corredor logístico sustentável de transporte intermodal, que tinha prazo em 06/01/2026 e exige adesão ao PSI). Programa com nove parâmetros de desenvolvimento sustentável e cerca de 470 itens objetivos, índices ligados a incentivos regulatórios e reputacionais, apoio do Ministério dos Transportes e do BID; potencial de cerca de 16 bilhões de investimento; modelo de corregulação construído com o setor, após audiência, reunião participativa (11/2025) e consultas.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova o edital e as minutas, com ajuste de prazos", "ts": "0:24:15", "justificativa": "visão holística e pragmática de sustentabilidade; sandbox reduz a incerteza de contratos de 30 anos e permite aferir indicadores, metas e custos antes de aditivos; participação social ex ante", "tom": "entusiasmado", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha integralmente o relator", "ts": "0:38:40", "justificativa": "papel estratégico da ANTT na promoção de práticas sustentáveis em ativos que movimentam cerca de 70% do PIB", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "de acordo com o relator", "ts": "0:40:04", "justificativa": "parabeniza o relator e destaca a representatividade da agência no tema; registra que está se recuperando de virose", "confianca": "alta"},
+        {"diretor": "José Aires Amaral Filho", "voto": "acompanha integralmente o relator", "ts": "0:41:48", "justificativa": "compromisso da agência com a sustentabilidade; elogia a área técnica (SUSPI)", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente o relator; proclama unanimidade", "ts": "0:43:23", "justificativa": "agenda perene da ANTT; setor de transportes terrestres na vanguarda, com redução de emissões e projetos de neutralização de carbono", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática: número do processo truncado; siglas (SUSPI/SUSP, PDS, CERTAM) e valores podem estar distorcidos.", "A data do cabeçalho (2025-12-11) diverge do título e da COP 30; adotada 2025-11-12.", "As falas atribuídas ao Diretor-Geral e a Alex Azevedo seguem a ordem de votação."]
+}

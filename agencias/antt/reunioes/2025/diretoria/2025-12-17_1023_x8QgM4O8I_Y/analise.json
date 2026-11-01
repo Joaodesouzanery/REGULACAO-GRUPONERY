@@ -1,0 +1,875 @@
+{
+ "meta": {
+  "video_id": "x8QgM4O8I_Y",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:31); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "1023",
+  "data": "2025-12-17",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+  "diretores_presentes": [
+   "Guilherme Sampaio",
+   "Felipe Queiroz",
+   "Lucas Asfor",
+   "Alex Azevedo",
+   "Severino Medeiros"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Última reunião pública de 2025. Itens 1.1.x de relatoria do Diretor-Geral; 1.2.x de Felipe Queiroz; 1.3.x de Lucas Asfor; 1.4.x de Alex Azevedo; 1.5.x de Severino Medeiros.",
+   "Dois itens extrapauta de Felipe Queiroz (homologação do processo competitivo da Autopista Fluminense; prorrogação do sandbox free flow da CCR RioSP), votados logo após os itens ordinários dele a pedido do relator, que tinha voo.",
+   "Item 1.2.4 retirado por Felipe Queiroz. Todos os itens deliberados foram aprovados por unanimidade.",
+   "Encerrada às 17h37 de 17/12/2025; o Diretor-Geral faz balanço de 2025 (10 leilões rodoviários, cortes orçamentários de cerca de 25%, 9 leilões previstos em 2026, 397 operações de fiscalização).",
+   "O cabeçalho do arquivo indica 2025-12-18, mas a fala de encerramento e a referência à final do Flamengo indicam 17/12/2025."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1.1",
+   "ts": "0:37:35",
+   "processo": "50500.024317/2025-35",
+   "interessado": "Superintendência de Governança, Gestão da Estratégia e Informações (SUGEI)",
+   "assunto": "Proposta de Plano Estratégico 2026/2029 da ANTT",
+   "tema": [
+    "institucional",
+    "regulação normativa"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Quarto ciclo de planejamento estratégico (Lei 13.848/2019, art. 17), sobre o mapa estratégico 2024/2030 (17 objetivos em 4 perspectivas); 44 indicadores (26 mantidos e 18 novos), validados na 3ª reunião de avaliação da estratégia (06/10/2025); PROREV evolui para PROREV+ com cinco dimensões (pessoas, inovação, sustentabilidade, segurança e integridade); novo sistema de monitoramento.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aprova o plano estratégico",
+     "ts": "0:38:00",
+     "justificativa": "conformidade dos trabalhos da superintendência; processo participativo e transparente",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:43:01",
+     "justificativa": "busca contínua de aprimoramento; estratégia orientada a resultados; cita o recorde do 10º leilão do ano",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:43:49",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alex Azevedo",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:43:55",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Severino Medeiros",
+     "voto": "acompanha o relator",
+     "ts": "0:44:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.1.2",
+   "ts": "0:44:11",
+   "processo": "50500.270700/2022-54 (número parcial)",
+   "interessado": "EIXO / Concessões S.A. (vencedora; nome da SPE incerto na legenda)",
+   "assunto": "Homologação do resultado do leilão da concessão BR-153/262 (GO/MG), Rota Sertaneja, Edital 4/2025 (530 km)",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Leilão em 06/11/2025 na B3 com quatro propostas; vencedora com desconto de 24,80% sobre a tarifa básica de pedágio e aporte de recursos vinculados de cerca de R$ 1,94 bilhão (valor conforme legenda); comissão de outorga atestou todos os requisitos; sem recursos.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, homologa o resultado",
+     "ts": "0:44:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:46:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:46:35",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alex Azevedo",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:46:45",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Severino Medeiros",
+     "voto": "acompanha o relator (voto não captado; unanimidade proclamada)",
+     "ts": "0:46:48",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.1.3",
+   "ts": "0:46:54",
+   "processo": "50500.66329/2025-37 (número parcial)",
+   "interessado": "Superintendência de Concessão de Infraestrutura (SUINF)",
+   "assunto": "Aprovação do edital de concessão do sistema rodoviário BR-116/251 (MG), Rota das Gerais (734,9 km)",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização",
+    "participação social"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Projeto do PPI/PND, audiência pública 13/2024, anuência do Ministério dos Transportes e análise do TCU; 24 municípios, nove praças de pedágio, investimentos estimados em cerca de R$ 12 bilhões em 30 anos (186,6 km de duplicação, 160 km de faixa adicional, quase 100 obras de arte especiais); modelo de menor tarifa com curva de aporte, tarifas diferenciadas (pista simples e dupla), desconto ao usuário frequente, programa carbono zero. Leilão previsto para 31/03/2026 na B3, o primeiro de 2026.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aprova o edital e seus anexos",
+     "ts": "0:47:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:51:12",
+     "justificativa": "primeiro leilão de 2026 deixa o colegiado animado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:51:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alex Azevedo",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:51:40",
+     "justificativa": "parabeniza o corpo técnico e a agilidade dos leilões",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Severino Medeiros",
+     "voto": "acompanha o relator",
+     "ts": "0:52:43",
+     "justificativa": "time que está ganhando não se mexe",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.1.4",
+   "ts": "0:53:06",
+   "processo": "50500.036505/2016-15",
+   "interessado": "Superintendência de Concessão de Infraestrutura (SUINF)",
+   "assunto": "Atualização dos estudos técnicos da Ferrogrão (EF-170, Sinop/MT a Itaituba/PA) após a ADI 6553 e envio ao TCU",
+   "tema": [
+    "ferrovias",
+    "judicializacao",
+    "sustentabilidade"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Estudos revistos pelo grupo de trabalho do Ministério dos Transportes (demanda, engenharia, operação, meio ambiente, modelagem econômico-financeira, análises socioambientais e de emissões) após medida cautelar do STF (2021) e autorização de retomada (2023); encaminhamento ao TCU respeitando as condicionantes do STF, sobretudo ambientais e de povos originários.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aprova o envio dos estudos atualizados ao TCU",
+     "ts": "0:53:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:58:22",
+     "justificativa": "avanço do processo com maior segurança jurídica; antecipa a EF-118 como segundo ativo ferroviário do dia",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha na íntegra",
+     "ts": "0:59:27",
+     "justificativa": "robustez técnica e legitimidade procedimental para exame pelo TCU",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alex Azevedo",
+     "voto": "acompanha integralmente o relator",
+     "ts": "1:00:16",
+     "justificativa": "projeto vai escoar a produção para o Arco Norte",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Severino Medeiros",
+     "voto": "acompanha integralmente o relator",
+     "ts": "1:01:28",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1.2.1",
+   "ts": "1:03:00",
+   "processo": "50500.185130/2024-46 (número parcial)",
+   "interessado": "Superintendência de Concessão de Infraestrutura (SUINF)",
+   "assunto": "Relatório final da Audiência Pública 14/2024 (minutas de edital e contrato e estudos de viabilidade da EF-118, corredor ferroviário do Sudeste, São João da Barra/RJ a Anchieta/ES, 575 km) e proposta de plano de outorga ao Ministério dos Transportes",
+   "tema": [
+    "ferrovias",
+    "participação social",
+    "leilão / otimização"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Projeto qualificado no PPI/PND pelo Decreto 12.68/2025 (número conforme legenda), estudos do Porto do Açu validados pela Infra S.A.; 101 contribuições válidas em sessões híbridas (Brasília, Vitória, Rio); fase obrigatória São João da Barra–Santa Leopoldina (liga à EF Vitória-Minas) e fase condicional até Nova Iguaçu (liga à MRS); ramal de Anchieta por diretriz ministerial; o projeto não tem viabilidade econômico-financeira por si só e o Ministério indicou recursos de investimentos cruzados oriundos dos consensos com MRS e Rumo Malha Paulista, outorga livre da EFVM e, se preciso, recursos públicos com fonte orçamentária específica.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, aprova o relatório final e propõe o plano de outorga ao Ministério dos Transportes",
+     "ts": "1:04:30",
+     "justificativa": "projeto muito aguardado por ES e RJ; participou presencialmente das sessões",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "plenamente de acordo com o relator",
+     "ts": "1:13:14",
+     "justificativa": "superação dos desafios de financiabilidade é importante para a infraestrutura ferroviária",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alex Azevedo",
+     "voto": "acompanha o relator na integralidade",
+     "ts": "1:13:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Severino Medeiros",
+     "voto": "vota integralmente a favor do relatório",
+     "ts": "1:14:28",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator; proclama unanimidade e agradece à Procuradoria e às equipes",
+     "ts": "1:14:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.2",
+   "ts": "1:17:50",
+   "processo": "50500.545745/2025-00 (número parcial)",
+   "interessado": "Superintendência de Sustentabilidade, Pessoas e Inovação (SUSPI)",
+   "assunto": "Termo de referência do sandbox regulatório do projeto Corredor Logístico Sustentável de Transporte (Conexão Litoral) na BR-153/277/369 (PR), por manifestação de interesse da EPR Litoral Pioneiro",
+   "tema": [
+    "sandbox / inovação",
+    "sustentabilidade",
+    "concessões rodoviárias"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Modalidade de convocação direta (art. 17, parágrafo único, da Res. 99/2022) em contraste com o edital de chamamento do item de 11/2025; quatro eixos (meio ambiente, mobilidade e segurança viária, tecnologia e conectividade/ITS, resiliência na Serra do Mar km 31–46); participação voluntária que não gera por si só direito a reequilíbrio; custeio prioritário com verbas já existentes no contrato e reequilíbrio apenas excepcional, por termo aditivo específico, conforme parecer da Procuradoria.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, aprova a assinatura e publicação do termo de referência",
+     "ts": "1:18:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "de acordo com o relator",
+     "ts": "1:26:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alex Azevedo",
+     "voto": "acompanha o relator",
+     "ts": "1:26:34",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Severino Medeiros",
+     "voto": "acompanha o relator; registra ter estado em Curitiba no lançamento do trecho adicional da EPR Via Litoral",
+     "ts": "1:26:37",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator; elogia a liderança da agenda",
+     "ts": "1:27:17",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.3",
+   "ts": "1:27:30",
+   "processo": "50500.265780/2022-92",
+   "interessado": "Superintendência de Serviços de Transporte Rodoviário de Passageiros (SUPAS)",
+   "assunto": "Relatório final da AP 1/2023 e regulamentação de sanções e medidas administrativas para o serviço regular de transporte rodoviário interestadual de passageiros sob autorização (revisão da Res. 233/2003), com instrução normativa exemplificativa dos fatos geradores",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções",
+    "regulação normativa",
+    "participação social"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Revisão incluída na agenda regulatória; AIR com quatro alternativas por objetivo; cerca de 260 contribuições; regulação responsiva com monitoramento remoto de primeiro e segundo níveis; infrações classificadas por gravidade, com extrema gravidade para condutas que comprometem o equilíbrio do setor ou o controle regulatório. Aprova o relatório, a resolução e a IN.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, aprova relatório, resolução e instrução normativa",
+     "ts": "1:28:00",
+     "tom": "técnico",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha na íntegra",
+     "ts": "1:35:00",
+     "justificativa": "norma traz segurança jurídica, segurança ao passageiro e concorrência equilibrada",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alex Azevedo",
+     "voto": "acompanha integralmente o relator",
+     "ts": "1:36:13",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Severino Medeiros",
+     "voto": "de acordo com o relator",
+     "ts": "1:36:24",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator; elogia a SUPAS e a Procuradoria",
+     "ts": "1:36:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.4",
+   "ts": "0:34:14",
+   "processo": "não identificado na legenda",
+   "interessado": "não identificado",
+   "assunto": "Processo de relatoria de Felipe Queiroz com sustentações orais previstas, retirado de pauta",
+   "tema": [
+    "judicializacao"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "retirado de pauta",
+   "resumo_voto": "Retirado pelo relator em razão de petição que alegava fatos relevantes em julgado do STF no dia anterior, para esclarecer o teor e o impacto da decisão; a Secretaria-Geral avisou os procuradores para não ingressarem na sessão.",
+   "votos": []
+  },
+  {
+   "id": "1.2.5",
+   "ts": "1:37:14",
+   "processo": "50500.44xx/2025-7 (número parcial)",
+   "interessado": "EPR Via Mineira S.A.",
+   "assunto": "Nono termo aditivo ao contrato de concessão (Edital 4/2023): ampliar o escopo do verificador independente e incluir verba específica para os serviços de verificação",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Decorre de medida cautelar da SUROD que obrigou a concessionária a contratar verificador independente (art. 208 da Res. 6.000/2022); valor provisório estimado pela média de três parâmetros (contratos da 5ª etapa, dois contratos recentes da agência e orçamentos comerciais), a preços de agosto/2025, a ser confrontado com o valor real nos primeiros cinco anos.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, aprova o nono termo aditivo",
+     "ts": "1:37:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "1:41:25",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alex Azevedo",
+     "voto": "acompanha o relator",
+     "ts": "1:41:29",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Severino Medeiros",
+     "voto": "acompanha o relator",
+     "ts": "1:41:32",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "1:41:34",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "extrapauta-1",
+   "ts": "1:41:40",
+   "processo": "50500.183109/2024-96",
+   "interessado": "Arteris S.A.",
+   "assunto": "Homologação do resultado do processo competitivo 3/2025 (alienação de 100% das ações da Autopista Fluminense, BR-101/RJ)",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização",
+    "judicializacao",
+    "pedágio free flow"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade — homologação condicionada",
+   "resumo_voto": "Única proponente (Arteris), desconto de 0% sobre a tarifa básica de pedágio, sessão em 11/11/2025. O item saíra da pauta anterior por liminar que impedia o termo aditivo até a realocação dos pórticos de free flow em Taboão (Tanguá?); a Procuradoria recomendou homologar com condicionante e a cautelar foi revogada na véspera. Investimento estimado de cerca de R$ 10 bilhões (capex e opex) e duplicação de 49,55 km em até 10 anos (valores conforme legenda). Homologa em favor da Arteris, condicionando a celebração do termo aditivo ao cumprimento de eventuais determinações cautelares ou sua revogação.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, homologa o resultado com condicionante",
+     "ts": "1:42:14",
+     "justificativa": "cautela ao retirar o processo de pauta mostrou-se acertada; articulação institucional com o juízo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "de acordo com o relator",
+     "ts": "1:46:23",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alex Azevedo",
+     "voto": "acompanha o relator",
+     "ts": "1:46:27",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Severino Medeiros",
+     "voto": "de acordo com o relator; elogia a cautela",
+     "ts": "1:46:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator; agradece à Procuradoria pela reversão da decisão judicial",
+     "ts": "1:46:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "extrapauta-2",
+   "ts": "1:46:55",
+   "processo": "50500.055984/2023-06",
+   "interessado": "Concessionária do Sistema Rodoviário Rio–São Paulo S.A. (CCR RioSP)",
+   "assunto": "Prorrogação da autorização temporária do sandbox regulatório de pedágio em fluxo livre (free flow) na BR-116/RJ (Rio de Janeiro ao entroncamento com a BR-465/RJ-095 até Paraty/Ubatuba, conforme legenda)",
+   "tema": [
+    "pedágio free flow",
+    "sandbox / inovação",
+    "concessões rodoviárias"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Prorrogação por 120 dias contados da publicação, ou até a publicação do termo aditivo de substituição das praças por pedágio eletrônico (o que ocorrer primeiro); três pórticos implantados; o sandbox serve de referência para migrações de contratos ao free flow e para resolução geral que o colegiado deve deliberar em breve. Sete processos do relator na última sessão do ano.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, aprova a prorrogação",
+     "ts": "1:47:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha integralmente o relator",
+     "ts": "1:50:27",
+     "justificativa": "cautela é sempre prudente",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alex Azevedo",
+     "voto": "acompanha integralmente o relator",
+     "ts": "1:50:45",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Severino Medeiros",
+     "voto": "acompanha integralmente o relator",
+     "ts": "1:50:58",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator; agradece a objetividade e a completude dos votos",
+     "ts": "1:51:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.1",
+   "ts": "1:51:46",
+   "processo": "50500.99xx/2025-06 (número parcial)",
+   "interessado": "Concessões S.A. (segunda colocada; nome incerto na legenda)",
+   "assunto": "Homologação do resultado do leilão da concessão das rodovias BR-060/364 (GO/MT), Rota Agro (lote CN2), Edital 2/2025",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "A primeira colocada foi inabilitada por irregularidades na qualificação trabalhista e inconsistências no seguro-garantia (Deliberação 435/2025, 06/11/2025); a segunda colocada foi habilitada (relatório e ata de 24/11/2025) com desconto final de 19,60% sobre a tarifa básica de pedágio. A legenda cita 14/08/2024 como data da sessão do leilão, provável erro.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, homologa o resultado",
+     "ts": "1:52:17",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "1:56:01",
+     "justificativa": "o leilão é só o começo de uma série de etapas complementares",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alex Azevedo",
+     "voto": "acompanha integralmente o relator",
+     "ts": "1:56:54",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Severino Medeiros",
+     "voto": "acompanha integralmente o relator",
+     "ts": "1:57:16",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "1:57:33",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.2",
+   "ts": "1:57:45",
+   "processo": "50500.90001/2025-21 (número parcial)",
+   "interessado": "Superintendência de Transporte Ferroviário (SUFER)",
+   "assunto": "Abertura de audiência pública sobre a minuta de resolução das regras gerais das outorgas ferroviárias (ROF 1), parte do Regulamento das Condições Gerais de Transporte Ferroviário (CGTF)",
+   "tema": [
+    "ferrovias",
+    "regulação normativa",
+    "participação social"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Consolida em um único regulamento as normas dispersas, alinhando-as à Lei 14.273/2021 (Lei das Ferrovias): regime público (cláusulas essenciais, aditivos, garantias), regime privado (requerimento, chamamento público, EVTEA, extinção de autorizações) e autorregulação ferroviária, área de influência e informações para o art. 66; abre audiência pública com disponibilização da AIR e das notas técnicas no sistema Participantes.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, aprova a abertura de audiência pública",
+     "ts": "1:58:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "2:02:00",
+     "justificativa": "avanço da regulamentação ferroviária com o ROF 1",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alex Azevedo",
+     "voto": "acompanha na integralidade o relator",
+     "ts": "2:02:23",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Severino Medeiros",
+     "voto": "acompanha o relator",
+     "ts": "2:02:44",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator; parabeniza a SUFER",
+     "ts": "2:02:46",
+     "justificativa": "início da reforma regulatória no setor ferroviário, como no rodoviário",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.3",
+   "ts": "2:03:29",
+   "processo": "50500.183176/2022-9 (número parcial)",
+   "interessado": "Associação Brasileira de Concessionárias de Rodovias (ABCR)",
+   "assunto": "Alteração da Deliberação 130/2025 (metodologia de cálculo dos impactos da pandemia de COVID-19 nos preços de insumos de obras rodoviárias, para eventual recomposição do equilíbrio, IN 33/2024): ampliar o escopo e retirar a exigência de arrecadação de pedágio",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Altera o parágrafo único do art. 1º e o caput do art. 3º para incluir obras da fase de trabalhos iniciais, de implantação de praças e edificações operacionais, anteriores à cobrança de pedágio; não há correlação lógica entre arrecadação e variação de insumos, e a fase inicial é a de maior custo e risco sem receita; preserva isonomia entre contratos.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, aprova a alteração",
+     "ts": "2:04:02",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "2:10:54",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alex Azevedo",
+     "voto": "acompanha o relator",
+     "ts": "2:11:02",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Severino Medeiros",
+     "voto": "acompanha o relator",
+     "ts": "2:11:07",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "2:11:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.4",
+   "ts": "2:11:22",
+   "processo": "50500.05582/2022-53 (número parcial)",
+   "interessado": "MRS Logística S.A.",
+   "assunto": "Sétimo termo aditivo ao contrato de concessão da Malha Sudeste, decorrente do termo de autocomposição firmado no processo de solução consensual do TCU (Acórdão 2.186/2025-Plenário)",
+   "tema": [
+    "ferrovias",
+    "reequilíbrio contratual",
+    "solução consensual / autocomposição"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Atualiza o caderno de obrigações (anexo 1 do 4º termo aditivo), fixa valores devidos ao poder concedente (cerca de R$ 2,8 bilhões, incluindo adicional de vantajosidade e adiantamento da base de ativos e passivos, com parcelamento e vencimento antecipado) e cria a conta de aporte em banco depositário, com movimentação autorizada pela ANTT, para reinvestimento em projetos ferroviários definidos pelo Ministério dos Transportes; decisão do TCU de 17/09/2025, relator ministro Jorge Oliveira; obras na Baixada Santista, sinalização e segregação na região metropolitana de São Paulo. Parecer conclusivo da Procuradoria pela viabilidade.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, aprova o sétimo termo aditivo e dá ciência ao TCU",
+     "ts": "2:11:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "2:19:35",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alex Azevedo",
+     "voto": "acompanha o relator",
+     "ts": "2:19:42",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Severino Medeiros",
+     "voto": "acompanha o relator",
+     "ts": "2:19:48",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "2:19:49",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.4.1",
+   "ts": "2:19:52",
+   "processo": "50500.368xx/2025-40 (número parcial)",
+   "interessado": "Ferrovia Centro-Atlântica S.A. (FCA)",
+   "assunto": "Revisão das metas de produção da FCA para o exercício de 2026",
+   "tema": [
+    "ferrovias",
+    "reequilíbrio contratual",
+    "fiscalização e sanções"
+   ],
+   "relator": "Alex Azevedo",
+   "resultado": "aprovado por unanimidade — pedido deferido em parte",
+   "resumo_voto": "FCA pediu redução de cerca de 20% (3,35 bilhões de TKU) em 15 pleitos; com base no art. 16 da Res. 5.831/2018 (alteração de demanda alheia à vontade da concessionária) e no sistema SAF, acolhe integralmente CBA (bauxita, 1,08 bilhão de TKU) e AD Brasil (cal), e parcialmente a Caramuru (apenas Presidente Epitácio–Vitória, 240 mil t); rejeita os demais 12 (combustíveis por iniciativa da própria ferrovia, minério Bamin sem nexo, dados desatualizados, falta de prova, vedação do art. 9º para fluxos RMN). Redução total concedida de cerca de 1,6 bilhão de TKU. Contexto: metas descumpridas em 17 dos últimos 23 anos e em todos os seis últimos, com multas de cerca de R$ 60 milhões (R$ 30,2 milhões pagos).",
+   "votos": [
+    {
+     "diretor": "Alex Azevedo",
+     "voto": "relator, aprova parcialmente o pedido",
+     "ts": "2:20:40",
+     "tom": "didático",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha na íntegra o relator",
+     "ts": "2:31:20",
+     "justificativa": "relato claro dos casos que fundamentam o voto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "2:31:41",
+     "justificativa": "detalhamento e tecnicidade do voto facilitam a deliberação",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Severino Medeiros",
+     "voto": "de acordo com o relator",
+     "ts": "2:32:01",
+     "justificativa": "clareza sobre o que foi aprovado e rejeitado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "2:32:21",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.5.1",
+   "ts": "2:34:27",
+   "processo": "50505.254/2022-519 (número parcial)",
+   "interessado": "EPR Iguaçu S.A.",
+   "assunto": "Segundo termo aditivo ao contrato de concessão (Edital 5/2024): substituir a obrigação de construir três novas praças de pedágio (P1, P8, P9) por pórticos de free flow",
+   "tema": [
+    "pedágio free flow",
+    "concessões rodoviárias"
+   ],
+   "relator": "Severino Medeiros",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Lote de cerca de 662 km (BR-163/277/469 e PRs); pedido da concessionária de 12/09/2025 com base na Deliberação 69/2025; mesmas localizações e prazos do PER; projetos executivos e orçamentos em 180 dias e revisão dos custos operacionais após dois anos; Procuradoria usou parecer referencial por seguir minuta padronizada.",
+   "votos": [
+    {
+     "diretor": "Severino Medeiros",
+     "voto": "relator, aprova o termo aditivo e as minutas de extrato e deliberação",
+     "ts": "2:35:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "2:40:52",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "2:40:56",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alex Azevedo",
+     "voto": "acompanha integralmente o relator",
+     "ts": "2:40:59",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "2:41:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.5.2",
+   "ts": "2:41:04",
+   "processo": "50500.64137/2025-96 (número parcial)",
+   "interessado": "EPR Via Mineira S.A.",
+   "assunto": "Décimo termo aditivo ao contrato (Edital 4/2023): incluir no PER a obrigação de implantar, manter e operar 75 novos equipamentos de controle de velocidade (SCV) na BR-040/MG (232 km, Belo Horizonte–Juiz de Fora)",
+   "tema": [
+    "concessões rodoviárias",
+    "pedágio free flow",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Severino Medeiros",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Medida de segurança viária diante de histórico de alta acidentalidade por excesso de velocidade, com apoio de PRF e Ministério Público; enquadrada no art. 27-E do RCR1 (Res. 1.950); intervenção extra a ser tratada por reequilíbrio em revisão extraordinária; parecer 2001/2025 da Procuradoria condicionou: apenas 75 novos equipamentos (sem regularizar radares antigos) e reequilíbrio somente prospectivo; orçamento com glosa pontual pela engenharia.",
+   "votos": [
+    {
+     "diretor": "Severino Medeiros",
+     "voto": "relator, aprova o décimo termo aditivo e as minutas",
+     "ts": "2:41:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "2:47:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator; elogia a estrutura e a completude do voto",
+     "ts": "2:47:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alex Azevedo",
+     "voto": "acompanha integralmente o relator",
+     "ts": "2:48:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o relator; elogia a qualidade técnica dos votos do novo diretor",
+     "ts": "2:49:26",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "1.2.4 — processo de relatoria de Felipe Queiroz com sustentações orais (assunto não identificado na legenda)",
+   "relator": "Felipe Queiroz",
+   "motivo": "petição com alegados fatos relevantes em julgado do STF no dia anterior; necessidade de esclarecer o teor da decisão e seu impacto no processo",
+   "ts": "0:34:14"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo parciais ou truncados, nomes de empresas e valores distorcidos (ex.: nome da SPE vencedora da Rota Sertaneja e da Rota Agro, local do free flow em 'Taboão'/'Tanguá', Decreto 12.68/2025).",
+  "O nome do diretor Severino Medeiros aparece como 'Severino Medeiros' na legenda; mantido como na fala.",
+  "Atribuição de falas entre Lucas Asfor, Alex Azevedo e Severino Medeiros em votos curtos é inferida pela ordem de votação (marcada como confiança baixa/média); nos itens 1.1.2 e 1.2.2 alguns votos não foram captados.",
+  "Ts de votos de seguidores aproximados; o voto de Felipe Queiroz no 1.1.2 e a atribuição do ts 1:26:37 são incertos."
+ ]
+}

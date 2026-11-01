@@ -1,0 +1,104 @@
+{
+  "meta": {"video_id": "Zyxhofbj7g0", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:27); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1031", "data": "2026-04-23", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alex Azevedo", "Alessandro Baumgarten (diretor substituto)"],
+    "ausentes": [],
+    "observacoes": ["Encerrada às 17h40 de 23/04/2026 (sessão de ≈ 3 horas).", "Alessandro Baumgarten retirou de pauta seus dois processos (1.4.1 seguros obrigatórios no transporte de cargas e 1.4.2 revisão quinquenal EcoVias do Cerrado, que voltou na RD 1032).", "6 itens deliberados, todos unânimes; no 1.2.3 houve complemento de Felipe Queiroz incorporado ao voto; no 1.3.1 Lucas Asfor registrou ressalva de procedimento sobre colegialidade.", "No encerramento o Diretor-Geral comenta o primeiro processo competitivo de solução consensual: cautelar do TCU (ministro Bruno Dantas) sobre a troca de controle da SPE; o TCU arquivou e elogiou a atuação da ANTT."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:28:36",
+      "processo": "50500.011892/2022-25", "interessado": "SUROC",
+      "assunto": "Reabertura da Audiência Pública 5/2025 (minuta de resolução do Selo ASG Cargas — ambiental, social e governança no transporte rodoviário de cargas), apenas quanto ao art. 8º, por 15 dias",
+      "tema": ["transporte rodoviário de cargas", "sustentabilidade / ESG", "regulação normativa", "participação social"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "AIR versão 3.0 aprovada; mudança materialmente relevante pontual (art. 8º) após nota técnica da Infra S.A. e programa Melhorar (Portaria MT 192/2025) justifica nova audiência apenas sobre o dispositivo novo; comissão da AP mantida.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova reabertura", "ts": "0:30:45", "justificativa": "boa prática regulatória: mudança material exige nova participação, limitada ao ponto alterado", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha", "ts": "0:37:10", "confianca": "media"},
+        {"diretor": "Alex Azevedo", "voto": "de acordo, acompanha na íntegra", "ts": "0:37:17", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha", "ts": "0:37:35", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:37:39",
+      "processo": "50500.046711/2025-24", "interessado": "Expresso Real Tour Transporte Ltda. (fretamento)",
+      "assunto": "Encerramento da comissão processante: cassação da autorização de fretamento por operação em circuito aberto (venda de passagens avulsas)",
+      "tema": ["ônibus (fretamento)", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — cassação",
+      "resumo_voto": "11 autuações do código 401 entre set/2022 e out/2024; empresa sem TAR e sem habilitação para serviço regular; conduta fraudulenta e reiterada, concorrência desleal contra empresas regulares, sanções pecuniárias ineficazes; revelia na defesa. Cassação com base no art. 36 §5º do Decreto 2.521/1998 e art. 78-H da Lei 10.233/2001.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, cassa a autorização", "ts": "0:38:25", "justificativa": "reiteração; risco à incolumidade dos passageiros; concorrência desleal; efetividade da atuação regulatória", "tom": "firme", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:45:26", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "0:45:28", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "0:45:30", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "0:45:28",
+      "processo": "50500.007061/2021", "interessado": "Confederação Nacional dos Transportadores Autônomos (CNTA)",
+      "assunto": "Segundo termo aditivo ao ACT 2/2022: prorrogação por 24 meses (desde 25/04/2026) da cooperação para inscrição e manutenção de transportadores autônomos no RNTRC (sem transferência de recursos)",
+      "tema": ["transporte rodoviário de cargas", "institucional / cooperação"],
+      "relator": "Alex Azevedo", "resultado": "aprovado por unanimidade (voto-vista de Lucas Asfor convergente)",
+      "resumo_voto": "Relator (Alex, voto DLA/Voto 15/2026) propôs prorrogar; Lucas Asfor havia pedido vista na deliberação eletrônica 273 (23–27/03/2026) para avaliar suficiência da motivação diante da digitalização do RNTRC; conclui que não há vícios e acompanha, ressalvando monitoramento estruturado de resultados em futuras renovações.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, prorroga", "ts": "0:45:28", "justificativa": "continuidade de arranjo consolidado; convergência com a SUROC", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "voto-vista: acompanha o relator, com ressalva de monitoramento", "ts": "0:46:25", "justificativa": "pedido de vista foi por aprofundamento, sem objeção preliminar", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com ambos os relatores; reforça o alinhamento ao planejamento estratégico", "ts": "0:50:27", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator com as considerações do voto-vista", "ts": "0:53:41", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.3", "ts": "0:53:46",
+      "processo": "(parcial)", "interessado": "Viação Garcia Ltda.",
+      "assunto": "Pedido de reconsideração (Deliberação 253/2025, cassação de TARs das linhas Porecatu/PR–São Paulo e Porecatu–Presidente Prudente) e recurso contra decisão SUPAS 1610/2025 que negou TAC",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — cassação convertida em advertência; TAC negado; relatório de acompanhamento em 6 meses",
+      "resumo_voto": "Infração grave reconhecida (desvio de finalidade com interligação de linhas), mas a empresa regularizou a venda de bilhetes (Res. 6033/2023), sem novos autos desde 06/08/2025 e quitou > 99% das multas; conversão da cassação em advertência (art. 78-A, I da Lei 10.233) como medida proporcional; TAC negado por falta de requisitos (Res. 5823/2018). Decisão anterior estava suspensa por ordem judicial.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, converte em advertência; aceita o complemento de Felipe", "ts": "0:54:45", "justificativa": "histórico de cumprimento e adequação regulatória; proporcionalidade", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha e propõe complemento: SUFIS entrega relatório circunstanciado em até 6 meses sobre a eficácia da advertência", "ts": "1:00:32", "justificativa": "encontrar o ponto ótimo entre penalidade e custo regulatório; precedentes de 2024; fiscalização como indução de conformidade", "tom": "propositivo, foco em dosimetria", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha, com a ressalva conceitual de que decide sob condição de fiscalização, que é perene", "ts": "1:06:27", "justificativa": "passar de cassação a advertência é salto grande; pergunta se a diretoria voltará a decidir em 6 meses", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator com as considerações de Felipe", "ts": "1:14:54", "justificativa": "o acompanhamento mede a efetividade; se falhar, novo procedimento", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator com o complemento; proclama unanimidade", "ts": "1:15:58", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.4", "ts": "1:15:58",
+      "processo": "50505.012824/2026", "interessado": "EPR5 Participações S.A. (Lote 4 Paraná)",
+      "assunto": "Reajuste da tarifa básica de pedágio e início da cobrança em free flow nas praças P5 Presidente Castelo Branco, P6 Mandaguari, P7 Arapongas e P8 Jataizinho (edital 3/2025)",
+      "tema": ["concessões rodoviárias", "pedágio free flow"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Contrato assinado em 06/02/2026; substituição de praças físicas por free flow em 4 pontos (1º termo aditivo); testes mínimos de 30 dias e comunicação aos usuários; trabalhos iniciais cumpridos antecipadamente; reajuste de 2,02% (IPCA nov/2023–mar/2026); cobrança em até 10 dias do ato.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "1:16:30", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha", "ts": "1:25:15", "confianca": "media"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha o relator", "ts": "1:25:29", "confianca": "media"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "1:25:32", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "1:25:35", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "1:25:35",
+      "processo": "50500.037354/2023-20", "interessado": "Candango Transporte e Turismo Ltda.",
+      "assunto": "Pedido de reconsideração com efeito suspensivo contra as Deliberações 335/2025 e 376/2025 (cassação seletiva de 27 TARs em seis mercados, art. 78-A IV c/c 78-H da Lei 10.233) por envio de dados fictícios ao Monitrip e operação de seccionamentos não autorizados",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções", "judicializacao"],
+      "relator": "Alex Azevedo", "resultado": "aprovado por unanimidade — recurso conhecido e desprovido; mantida a cassação seletiva; efeito suspensivo provisório cassado",
+      "resumo_voto": "Redistribuído a Alex por impedimento superveniente de Lucas Asfor (relator originário). Provas: veículo em Salvador com três viagens simultâneas declaradas ao Monitrip; veículo autuado em São Paulo sem equipamento mas com viagem registrada a 950 km, com admissão do preposto; em 61 confrontos campo × Monitrip, linha coincidiu em 20% e motorista em 6%; 46,9% de 241 veículos sem viagem registrada; 23.179 bilhetes com seccionamentos não autorizados; 7.649 autuações (2018–2024), 762 inscritas na Serasa e 347 novas em 2025. Rejeita os oito argumentos da empresa (advertência, desproporcionalidade, IQT, isonomia, antecedentes, idoneidade do Monitrip, impacto em 815 empregados, instrumentalização pela Guanabara). Reconhece que o impacto social foi o argumento que mais pesou no efeito suspensivo concedido por ele em 13/04/2026, mas não reforma sanção por fraude comprovada. Determina operação especial de fiscalização, inativação dos 27 TARs no SIGMA, cadastro de inadimplentes e garantia de cancelamento a passageiros.",
+      "votos": [
+        {"diretor": "Alex Azevedo", "voto": "relator, nega provimento e cassa o efeito suspensivo que ele mesmo concedera", "ts": "1:25:35", "justificativa": "fraude sistêmica comprovada em campo; cassação seletiva é a única das três alternativas proporcional; integridade da fiscalização e confiança pública", "tom": "enfático, apoiado em dados", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator; vê convergência com o voto original de Lucas Asfor", "ts": "2:18:30", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha no mérito, mas registra reflexão: a análise do efeito suspensivo deveria ter sido do colegiado ou referendada com urgência, em respeito à colegialidade, após quase 6 meses de recurso", "ts": "2:21:07", "justificativa": "colegialidade como pilar de segurança jurídica; efetividade das decisões do colegiado", "tom": "cortês, ressalva institucional", "confianca": "alta"},
+        {"diretor": "Alessandro Baumgarten", "voto": "acompanha integralmente; destaca fiscalização especial nos demais mercados da empresa", "ts": "2:28:05", "justificativa": "indícios de que a fraude se estendia a toda a operação; defende o marco regulatório e a fiscalização da ANTT, confirmados pelo STJ e STF", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha; proclama unanimidade", "ts": "2:30:00", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"item": "1.4.1 — alteração da Res. 5.922/2022 para incluir infrações e penalidades por descumprimento de seguros obrigatórios (SUROC)", "relator": "Alessandro Baumgarten", "motivo": "necessita análise mais aprofundada; volta em prazo regimental", "ts": "0:28:36"},
+    {"item": "1.4.2 — audiência pública da revisão quinquenal EcoVias do Cerrado (proc. 50500.072352/2025-61)", "relator": "Alessandro Baumgarten", "motivo": "análise mais aprofundada; aprovado depois na RD 1032 (item 1.3.1)", "ts": "0:28:36"}
+  ],
+  "limites_da_analise": ["Legenda automática: números de processo parciais e nomes distorcidos; ts de votos de seguidores aproximados.", "No item 1.3.1 o ts do voto do Diretor-Geral é estimado.", "Alex menciona votos do relator original (DLA 132 e DLA 146, de Lucas Asfor) como base; a identidade dos votos de 11/09/2025 e 08/10/2025 confere com o descrito na RD."]
+}

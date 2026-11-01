@@ -1,0 +1,178 @@
+# Itens do tema «participacao_social» (todos os diretores)
+
+- **RD 973 (2024-01-18)**, 1.1.1 · relator **Guilherme Sampaio** · Relatório final da Audiência Pública 11/2023 e alteração da Resolução 5867/2020 (regras gerais, metodologia e coeficientes dos pisos mínimos de frete  → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=LNSg-EtO5zg&t=121s)
+- **RD 973 (2024-01-18)**, 1.2.2 · relator **Felipe Queiroz** · Relatório final da Audiência Pública 10/2023 e aprovação da metodologia de avaliação do nível de risco e de estimativa do custo médio ponderado de cap → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=LNSg-EtO5zg&t=1350s)
+- **RD 975 (2024-02-08)**, 1.3.1 · relator **Lucas Asfor** · Relatórios finais das Audiências Públicas 10/2021 e 13/2021 e minutas dos planos de outorga das concessões dos lotes rodoviários Centro Norte 1 (BR-06 → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=6ckhaVSoiUY&t=103s)
+- **RD 975 (2024-02-08)**, 1.1.1 · relator **Guilherme Sampaio** · Relatório final da Audiência Pública 7/2023 e aprovação da revisão da regulamentação do transporte rodoviário internacional de cargas (TRIC), substitu → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=6ckhaVSoiUY&t=1066s)
+- **RD 975 (2024-02-08)**, 1.2.1 · relator **Luciano Lourenço** · Alterações na Resolução 4624/2015, que regulamenta a contratação e manutenção de seguros nas concessões ferroviárias (consulta pública 2/2022) → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=6ckhaVSoiUY&t=1580s)
+- **RD 977 (2024-03-07)**, 1.2.1 · relator **Felipe Queiroz** · Abertura de audiência pública para concessão do sistema rodoviário composto pelas rodovias estaduais de Goiás GO-020, GO-060, GO-070 e GO-080 (≈ 572 k → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=yO-d-f09vik&t=535s)
+- **RD 977 (2024-03-07)**, 1.3.1 · relator **Lucas Asfor** · Abertura de audiência pública sobre a proposta de regulamento dos Pontos de Parada e Descanso (PPD) sob competência da ANTT → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=yO-d-f09vik&t=1270s)
+- **RD 979 (2024-04-04)**, 1.1.2 · relator **Guilherme Sampaio** · Regulamentação do Comitê de Prevenção e Solução de Disputas (Dispute Board) em contratos de concessão rodoviária e ferroviária: aprovação da AIR 2.0,  → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=uObNOgSCAVo&t=565s)
+- **RD 982 (2024-05-16)**, 1.3.1 · relator **Felipe Queiroz** · Aprovação de AIR e abertura de audiência pública sobre aprimoramento das resoluções da metodologia e atualização do cálculo do WACC regulatório para c → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=GEhAgYUoli0&t=2142s)
+- **RD 983 (2024-05-29)**, 1.2.1 · relator **Felipe Queiroz** · Aprovação do relatório de AIR e abertura de participação e controle social (audiência pública) sobre a minuta de resolução do Plano de Sustentabilidad → aprovado por unanimidade
+  - votos: Felipe: relator; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=eeRiLhCPx2Q&t=461s)
+- **RD 983 (2024-05-29)**, 1.2.2 · relator **Felipe Queiroz** · Aprovação de AIR e abertura de audiência pública sobre aperfeiçoamento do regulamento de transporte rodoviário de produtos perigosos (alteração da Res → aprovado por unanimidade
+  - votos: Felipe: relator; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=eeRiLhCPx2Q&t=1544s)
+- **RD 984 (2024-06-13)**, 1.1.1 · relator **Guilherme Sampaio** · Relatório final da Audiência Pública 8/2023 e proposta de resolução com critérios para registro e tratamento de reclamações dirigidas à Ouvidoria da A → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=xnPXGyrmU0c&t=209s)
+- **RD 984 (2024-06-13)**, 1.3.4 · relator **Lucas Asfor** · Relatório final da Audiência Pública 11/2021 e plano de outorga do lote CN2 (BR-060/364/GO e BR-364/MT, 502,8 km) — concessão rodoviária da quinta eta → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=xnPXGyrmU0c&t=1844s)
+- **RD 985 (2024-06-27)**, 1.2.2 · relator **Luciano Lourenço** · Abertura de audiência pública sobre a minuta do Regulamento das Concessões Rodoviárias, quinta norma (RCR5, extinção de contratos); contribuições escr → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=CEQTjLWoMYk&t=893s)
+- **RD 985 (2024-06-27)**, 1.4.8 · relator **Lucas Asfor** · Abertura de audiência pública sobre minutas de resolução, edital, contrato de autorização e caderno de obrigações do procedimento de chamamento públic → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=CEQTjLWoMYk&t=2612s)
+- **RD 989 (2024-08-22)**, 1.1.1 · relator **Guilherme Sampaio** · Reabertura da Audiência Pública 12/2020 sobre os estudos para prorrogação antecipada do contrato de concessão da FCA, após novas diretrizes de polític → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=R90m21jbAVs&t=1172s)
+- **RD 84 (extraordinária) (2024-08-29)**, 1.1.2 · relator **Lucas Asfor** · Reabertura da Audiência Pública 7/2024 (chamamento público para identificação e seleção de interessados em autorização ferroviária), apenas quanto a á → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=sBRrfKA1-sk&t=1660s)
+- **RD 990 (2024-09-05)**, 1.2.1 · relator **Felipe Queiroz** · Relatório final da Audiência Pública 3/2024 (24/05 a 24/06) e revisão das Resoluções 6.002/2022 e 6.003/2022 sobre o custo médio ponderado de capital  → aprovado por unanimidade
+  - votos: Felipe: relator; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=m6tfBRRgsEI&t=347s)
+- **RD 990 (2024-09-05)**, 1.1.2 · relator **Luciano Lourenço** · Aprovação do edital de concessão dos lotes 3 (BR-369, 373, 376; PR-090, 170, 323, 445) e 6 (BR-163, 277; PR-158, 180, 182, 280, 483) das Rodovias Inte → aprovado por unanimidade
+  - votos: Luciano: relator; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=m6tfBRRgsEI&t=2827s)
+- **RD 992 (2024-10-03)**, 1.4.1 · relator **Felipe Queiroz** · Reabertura da Audiência Pública 4/2024 (proposta de resolução do plano de sustentabilidade / agenda ESG nas concessões de rodovias e ferrovias), com c → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=DgSc5QHQ8V8&t=2000s)
+- **RD 993 (2024-10-17)**, 1.2.2 · relator **Guilherme Sampaio** · Relatório final da Audiência Pública 9/2023 e resolução que altera a Resolução 5.083/2016 (processo administrativo de apuração de infrações e aplicaçã → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=WVL5yNdky0U&t=1174s)
+- **RD 993 (2024-10-17)**, 1.3.1 · relator **Felipe Queiroz** · Abertura de audiência pública sobre a revisão da Resolução 5.867/2020 (pisos mínimos do frete rodoviário, PNPM-TRC), com aprovação do relatório de AIR → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=WVL5yNdky0U&t=2715s)
+- **RD 994 (2024-10-31)**, 1.2.1 · relator **Guilherme Sampaio** · Abertura de consulta pública sobre a proposta de readequação e otimização do contrato de concessão da BR-101/ES-BA (Eco 101), incluindo minutas de edi → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=VnHLaZxsXeY&t=414s)
+- **RD 994 (2024-10-31)**, 1.4.2 · relator **Lucas Asfor** · Relatório final da Audiência Pública 2/2024 e resolução do regulamento de implantação dos Pontos de Parada e Descanso (PPD) nas rodovias sob competênc → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=VnHLaZxsXeY&t=4027s)
+- **RD 994 (2024-10-31)**, 1.3.2 · relator **Luciano Lourenço** · Relatório final da Audiência Pública 12/2023 e resolução da quarta norma do Regulamento das Concessões Rodoviárias (RCR 4): fiscalização, infrações, p → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=VnHLaZxsXeY&t=4813s)
+- **RD 86 (extraordinária) (2024-11-21)**, 1.1.1 · relator **Lucas Asfor** · Abertura de audiência pública sobre minutas de edital e contrato, PER e estudos de viabilidade da concessão do lote rodoviário BR-116/BA-PE e BR-324/B → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=H16l_3mguto&t=50s)
+- **RD 996 (2024-11-28)**, 1.1.10 · relator **Guilherme Sampaio** · Relatório final da audiência pública 5/2024 e alteração da Resolução 5.998/2022 (regulamento do transporte rodoviário de produtos perigosos) → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=kTU_h6AhIS8&t=3218s)
+- **RD 996 (2024-11-28)**, 1.2.1 · relator **Luciano Lourenço** · Abertura de audiência pública sobre a minuta de resolução que aprova o projeto de regulamentação do sistema de livre passagem (free flow) nas rodovias → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=kTU_h6AhIS8&t=3600s)
+- **RD 996 (2024-11-28)**, extrapauta 1 · relator **Luciano Lourenço** · Abertura de audiência pública sobre a proposta preliminar de revisão quinquenal do contrato de concessão (Edital 1/2013) da Eco050 → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=kTU_h6AhIS8&t=4460s)
+- **RD 996 (2024-11-28)**, extrapauta 2 · relator **Luciano Lourenço** · Abertura de audiência pública sobre a proposta preliminar de revisão quinquenal do contrato de concessão (Edital 3/2013) da BR-163/MT → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=kTU_h6AhIS8&t=4968s)
+- **RD 996 (2024-11-28)**, 1.3.1 · relator **Felipe Queiroz** · Relatório final da audiência pública 4/2024 e minuta de resolução do Programa de Sustentabilidade para rodovias e ferrovias reguladas pela ANTT, regul → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=kTU_h6AhIS8&t=5492s)
+- **RD 997 (2024-12-13)**, 1.1.1, 1.1.2, 1.1.4 e 1.1.5 (em bloco) · relator **Rafael Vitale** · Referendos das Deliberações 516, 517, 519 e 520/2024 (5 e 6/12/2024): assinatura do termo de referência de ambiente regulatório experimental (sandbox) → referendadas por unanimidade (4 itens em bloco, art. 68 §2º do Regimento)
+  - votos: Rafael: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=9YqBgdwm15U&t=740s)
+- **RD 998 (2024-12-19)**, 1.1.2 · relator **Guilherme Sampaio** · Abertura de audiência pública sobre minutas de edital, contrato, PER e estudos de viabilidade da concessão do lote rodoviário BR-116/251 (MG), cerca d → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=3KyK_89ogrM&t=417s)
+- **RD 998 (2024-12-19)**, 1.3.2 · relator **Felipe Queiroz** · Abertura de audiência pública sobre minutas de edital e contrato da concessão da infraestrutura da EF-118 (São João da Barra/RJ a Anchieta/ES) e do se → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=3KyK_89ogrM&t=3227s)
+- **RD 998 (2024-12-19)**, 1.4.1 · relator **Lucas Asfor** · Relatório final da audiência pública 5/2023 e aprovação do plano de outorga da concessão da malha Oeste ferroviária (extensão de ordem de centenas de  → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=3KyK_89ogrM&t=3804s)
+- **RD 998 (2024-12-19)**, extrapauta 2 · relator **Lucas Asfor** · Relatório final da audiência pública 7/2024 e minuta de resolução do procedimento de chamamento público para exploração indireta de ferrovias federais → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=3KyK_89ogrM&t=4176s)
+- **RD 87 (extraordinária) (2024-12-27)**, 1.1.1 · relator **Luciano Lourenço** · Revisão da Resolução 5.867/2020 (regras gerais, metodologia e coeficientes dos pisos mínimos de frete por quilômetro rodado por eixo carregado, PNPM)  → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=yC3psirpX8U&t=2515s)
+- **RD 1000 (2025-01-30)**, 1.3.7 · relator **Luciano Lourenço** · Relatório final da Audiência Pública 11/2024 e aprovação da proposta final da revisão quinquenal nº 8 do contrato (Edital 1/2013) da Eco050 → aprovado por unanimidade (julgado em bloco com 1.3.8)
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=Ej8aJh627Ak&t=3013s)
+- **RD 1000 (2025-01-30)**, 1.3.8 · relator **Luciano Lourenço** · Relatório final da Audiência Pública 12/2024 e proposta final da revisão quinquenal nº 10/2025 do contrato da Nova Rota do Oeste (Edital 3/2013) → aprovado por unanimidade (julgado em bloco com 1.3.7)
+  - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=Ej8aJh627Ak&t=3013s)
+- **RD 1000 (2025-01-30)**, 1.4.2 · relator **Felipe Queiroz** · Abertura de audiência pública sobre minutas de edital e contrato e estudos de viabilidade para a concessão da FICO (Ferrovia de Integração Centro-Oest → aprovado por unanimidade
+  - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=Ej8aJh627Ak&t=5427s)
+- **RD 1000 (2025-01-30)**, 1.5.1 · relator **Lucas Asfor** · Relatório final da Consulta Pública 3/2024 e publicação do edital de processo competitivo para readaptação e otimização do contrato de concessão da BR → aprovado por unanimidade
+  - votos: Lucas: relator; Guilherme: acompanha; Luciano: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=Ej8aJh627Ak&t=6072s)
+- **RD 91 (extraordinária) (2025-03-17)**, 1 · relator **Guilherme Sampaio** · Relatório final da Consulta Pública 1/2024 e publicação do edital do processo competitivo para a troca de controle acionário da Eco 101 Concessionária → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=QqOm_wrYtxU&t=59s)
+- **RD 1004 (2025-03-27)**, 1.1.1 · relator **Lucas Asfor** · Relatório final da Audiência Pública 9/2024 e minuta de plano de outorga da concessão da BR-116/BA-PE (Salgueiro/PE a Feira de Santana/BA, 502 km) — R → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: outro; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=mayS8ij1N3w&t=354s)
+- **RD 92 (extraordinária) (2025-04-07)**, 1 · relator **Lucas Asfor** · Abertura de audiência pública para as minutas de edital e contrato, programa de exploração da rodovia e estudos de viabilidade da concessão do lote BR → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=TPzfL2cbboc&t=60s)
+- **RD 1009 (2025-06-05)**, 1.1.1 · relator **Guilherme Sampaio** · Aprovação do relatório final da participação e controle social (consulta/audiência pública 13/2024) sobre minutas de edital, contrato, PER e EVTEA da  → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=XmIUbYLQwhA&t=209s)
+- **RD 1009 (2025-06-05)**, extrapauta-1 · relator **Felipe Queiroz** · Extrapauta: submissão da proposta preliminar de revisão quinquenal do contrato (edital de concessão 001/2015, Ponte Rio–Niterói) ao processo de partic → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=XmIUbYLQwhA&t=485s)
+- **RD 1010 (2025-06-18)**, 1.2.1 · relator **Lucas Asfor** · Relatório final da Audiência Pública 12/2021 e plano de outorga do lote rodoviário CN3 (Rota Agrocentral, BR-070/364, RO/MT, 887,6 km) → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: outro; Guilherme: outro · [vídeo](https://www.youtube.com/watch?v=-ERkhRGYBT0&t=978s)
+- **RD 1011 (2025-07-03)**, 1.2.1 · relator **Lucas Asfor** · Abertura de audiência pública sobre a proposta preliminar de revisão quinquenal do contrato de concessão da BR-101/SC → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: outro; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=OvONQtZdzak&t=1272s)
+- **RD 93 (extraordinária) (2025-07-15)**, 1.1.1 · relator **Guilherme Sampaio** · Abertura de consulta pública sobre a readaptação e otimização do contrato da BR-381 MG/SP (569 km) e, no sandbox regulatório, sobre documentos aplicáv → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=SZtglx45jNw&t=134s)
+- **RD 1012 (2025-07-17)**, 1.2.1 · relator **Felipe Queiroz** · Relatório de AIR versão 2.0 do projeto ESG Cargas (ambiental, social e governança no transporte rodoviário de cargas) e abertura de audiência pública  → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=n7-Sjejnzz0&t=887s)
+- **RD 1012 (2025-07-17)**, 1.3.1 · relator **Lucas Asfor** · Abertura de audiência pública (28/07 a 11/09/2025) sobre a minuta de resolução de consolidação e aperfeiçoamento do marco regulatório do transporte ro → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=n7-Sjejnzz0&t=2951s)
+- **RD 1013 (2025-08-01)**, extrapauta 2 · relator **Felipe Queiroz** · Relatório final da Consulta Pública 2/2024 e publicação do edital do processo competitivo para readaptação e otimização do contrato da BR-101/RJ → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=mUFBjDvQ9VM&t=4527s)
+- **RD 1014 (2025-08-15)**, 1.3.2 · relator **Felipe Queiroz** · Reabertura da Audiência Pública 10/2024 para colher contribuições sobre a minuta de resolução que regulamenta a implantação dos sistemas de livre pass → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=i65Q4DVJA6s&t=781s)
+- **RD 1015 (2025-08-29)**, 1.2.5 · relator **Lucas Asfor** · Relatório final da audiência pública 2/2025 sobre minutas de edital e contrato, PER e EVTEA da concessão da BR-324 e BR-116 na Bahia («Rota 2 de Julho → aprovado por unanimidade — com ajustes incorporados (declaração de voto de Felipe Queiroz)
+  - votos: Lucas: relator; Felipe: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=AO9wlMZ_8p8&t=2070s)
+- **RD 95 (extraordinária) (2025-09-02)**, 1.1.1 · relator **Guilherme Sampaio** · Aprovação do relatório final da consulta pública 1/2025 e do edital do processo competitivo para a otimização/modernização do contrato de concessão da → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Amaral: acompanha · [vídeo](https://www.youtube.com/watch?v=_edCUoWtVP0&t=460s)
+- **RD 1018 (2025-10-08)**, 1.1.2 · relator **Guilherme Sampaio** · Complementação do relatório final da Consulta Pública 1/2025 (otimização/modernização do contrato da BR-381/MG-SP, edital de processo competitivo 4/20 → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Amaral: acompanha · [vídeo](https://www.youtube.com/watch?v=U4NrWpy5b6E&t=1653s)
+- **RD 1018 (2025-10-08)**, 1.4.1 · relator **Amaral Filho** · Abertura de audiência pública sobre a proposta preliminar da revisão quinquenal do contrato de concessão 1/2019 (BR-101, BR-290, BR-386 e BR-448/RS) → aprovado por unanimidade
+  - votos: Amaral: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=U4NrWpy5b6E&t=4247s)
+- **RD 1019 (2025-10-23)**, 1.2.1 · relator **Felipe Queiroz** · Recurso contra a Resolução 6.068/2025 (17/07/2025) e a Deliberação 236/2025, que exigem dos TACs os seguros RCTRC, RCDC e RCV para inscrição e manuten → aprovado por unanimidade — recurso conhecido e improvido
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Amaral: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=CezCZuXfe5A&t=2239s)
+- **RD 1020 (2025-11-05)**, 1.3.4 · relator **Lucas Asfor** · Abertura de audiência pública híbrida para revisão ordinária dos coeficientes dos pisos mínimos de frete (Res. 5.867/2020, Lei 13.703/2018), com dispe → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: outro; Alex: acompanha; Amaral: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=KsteuYm_RoM&t=6068s)
+- **RD 1020 (2025-11-05)**, 1.3.8 · relator **Lucas Asfor** · Abertura de consulta pública sobre a readaptação e otimização do contrato (solução consensual aprovada pelo TCU, CSC/SecexConsenso) com processo compe → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Amaral: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=KsteuYm_RoM&t=8100s)
+- **RD 96 (extraordinária) (2025-11-12)**, 1.1.1 · relator **Felipe Queiroz** · Edital de seleção de concessionárias de rodovias federais para ambiente regulatório experimental (sandbox) de adesão voluntária ao Programa de Sustent → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Amaral: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=Hs3z2jog8Uo&t=1400s)
+- **RD 1021 (2025-11-19)**, 1.3.3 · relator **Amaral Filho** · Recurso contra a Deliberação 272/2025 (15/8/2025), que reabriu por 15 dias a Audiência Pública 10/2024 sobre a minuta de resolução do sistema de livre → aprovado por unanimidade — recurso conhecido e desprovido
+  - votos: Amaral: relator; Felipe: acompanha; Alex: acompanha; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=EWukUD72NFw&t=9353s)
+- **RD 1022 (2025-12-04)**, 1.3.4 · relator **Lucas Asfor** · Recurso contra a Deliberação 320/2025, que autorizou a publicação do edital do processo competitivo 4/2025 (alienação de 100% das ações da Autopista F → aprovado por unanimidade — recurso conhecido e desprovido
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Severino: outro; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=RtFPynve2ew&t=5380s)
+- **RD 1023 (2025-12-17)**, 1.1.3 · relator **Guilherme Sampaio** · Aprovação do edital de concessão do sistema rodoviário BR-116/251 (MG), Rota das Gerais (734,9 km) → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Severino: acompanha · [vídeo](https://www.youtube.com/watch?v=x8QgM4O8I_Y&t=2814s)
+- **RD 1023 (2025-12-17)**, 1.2.1 · relator **Felipe Queiroz** · Relatório final da Audiência Pública 14/2024 (minutas de edital e contrato e estudos de viabilidade da EF-118, corredor ferroviário do Sudeste, São Jo → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Severino: outro; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=x8QgM4O8I_Y&t=3780s)
+- **RD 1023 (2025-12-17)**, 1.2.3 · relator **Felipe Queiroz** · Relatório final da AP 1/2023 e regulamentação de sanções e medidas administrativas para o serviço regular de transporte rodoviário interestadual de pa → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Severino: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=x8QgM4O8I_Y&t=5250s)
+- **RD 1023 (2025-12-17)**, 1.3.2 · relator **Lucas Asfor** · Abertura de audiência pública sobre a minuta de resolução das regras gerais das outorgas ferroviárias (ROF 1), parte do Regulamento das Condições Gera → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Severino: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=x8QgM4O8I_Y&t=7065s)
+- **RD 1025 (2026-01-29)**, 1.3.4 · relator **Lucas Asfor** · Audiência pública (45 dias; sessão híbrida em 03/03/2026 em Brasília) para adequar a Res. 35/2010 (SAC) ao Decreto 11.034/2022 → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Severino: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=d2BF6usx0p8&t=10145s)
+- **RD 1027 (2026-02-27)**, 1.2.2 · relator **Felipe Queiroz** · Audiência pública sobre os estudos e minutas do termo aditivo para prorrogação antecipada do contrato da FTC (vence em 01/02/2027) → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=LEEd7sNRbY4&t=2418s)
+- **RD 1027 (2026-02-27)**, 1.4.3 · relator **Alex Azevedo** · Audiência pública para a readaptação e otimização do contrato da BR-163 MT/PA e BR-230 PA (solução consensual no TCU, Acórdão 11/2026), com função adi → aprovado por unanimidade
+  - votos: Alex: relator; Felipe: acompanha; Lucas: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=LEEd7sNRbY4&t=5948s)
+- **RD 1027 (2026-02-27)**, 1.4.4 · relator **Alex Azevedo** · Audiência pública da concessão Rota Portuária do Sul (BR-116/RS entre Camaquã e Jaguarão e BR-392/RS; ≈ 459,6 km), sexta etapa de concessões → aprovado por unanimidade
+  - votos: Alex: relator; Felipe: acompanha; Lucas: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=LEEd7sNRbY4&t=7391s)
+- **RD 1029 (2026-03-26)**, 1.1.1 · relator **Felipe Queiroz** · Aprovação do relatório final da AP 10/2024 e da resolução do sistema de livre passagem (free flow) nas rodovias federais concedidas, vigência em 120 d → aprovado por unanimidade
+  - votos: Felipe: relator; Alex: acompanha; Lucas: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=Lxo2sCqePJk&t=4170s)
+- **RD 1029 (2026-03-26)**, 1.2.2 · relator **Lucas Asfor** · Abertura de audiência pública sobre a minuta do RSF1 (Regulamento de Serviços e Segurança Ferroviária nº 1: condições gerais de transporte ferroviário → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=Lxo2sCqePJk&t=6000s)
+- **RD 1030 (2026-04-09)**, 1.1.2 · relator **Guilherme Sampaio** · Relatório final da audiência pública (AP 12/2020, reaberta em 2024) e encerramento do processo de participação social da prorrogação antecipada do con → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alessandro: acompanha · [vídeo](https://www.youtube.com/watch?v=XoDEGEGQjAc&t=3067s)
+- **RD 99ª Extraordinária (2026-04-13)**, 1.1.1 · relator **Lucas Asfor** · Relatório final da consulta pública 2/2025 (176 contribuições) e edital do processo competitivo para readaptação e otimização do contrato da BR-116 SP → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: outro; Alex: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=J2D2nXHknIg&t=2247s)
+- **RD 1031 (2026-04-23)**, 1.1.1 · relator **Felipe Queiroz** · Reabertura da Audiência Pública 5/2025 (minuta de resolução do Selo ASG Cargas — ambiental, social e governança no transporte rodoviário de cargas), a → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Alessandro: acompanha · [vídeo](https://www.youtube.com/watch?v=Zyxhofbj7g0&t=1716s)
+- **RD 1032 (2026-05-07)**, 1.2.1 · relator **Alex Azevedo** · Audiência pública para a concessão dos lotes 1 e 3 das rodovias de Santa Catarina (BR-153, 282, 470/480; 515,6 km e 166 km), sexta etapa de concessões → aprovado por unanimidade
+  - votos: Alex: relator; Lucas: acompanha; Alessandro: acompanha; Felipe: acompanha · [vídeo](https://www.youtube.com/watch?v=-dXOY2M37G4&t=3633s)
+- **RD 1032 (2026-05-07)**, 1.3.1 · relator **Alessandro Baumgarten** · Proposta preliminar 25/2026 de revisão quinquenal do contrato (edital 001/2019, BR-364/365 MG/GO) e abertura de audiência pública → aprovado por unanimidade (com orientação à SUROD)
+  - votos: Alessandro: relator; Lucas: acompanha; Alex: acompanha; Felipe: acompanha · [vídeo](https://www.youtube.com/watch?v=-dXOY2M37G4&t=5365s)
+- **RD 1033 (2026-05-21)**, 1.3.2 · relator **Lucas Asfor** · Abertura de audiência pública sobre a proposta preliminar da primeira revisão quinquenal do contrato (BR-153 TO/GO, BR-080 e BR-414 GO), edital 001/20 → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Alessandro: acompanha · [vídeo](https://www.youtube.com/watch?v=R_zbvJ8TXjs&t=4507s)
+- **RD 1033 (2026-05-21)**, 1.3.3 · relator **Lucas Asfor** · Dispensa de AIR e audiência pública para aperfeiçoar a Resolução 5999/2022 (sandbox regulatório) → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Alessandro: acompanha · [vídeo](https://www.youtube.com/watch?v=R_zbvJ8TXjs&t=4832s)
+- **RD 1034 (2026-06-02)**, 1.3.1 · relator **Alex Azevedo** · Abertura de audiência pública sobre as minutas de edital e contrato da nova concessão ferroviária Malha Sul (corredores Mercosul, Rio Grande e Paraná– → aprovado por unanimidade
+  - votos: Alex: relator; Felipe: acompanha; Lucas: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=jmj1jyUxsuA&t=2285s)
+- **RD 1035 (2026-06-18)**, 1.3.1 · relator **Alessandro Baumgarten** · Abertura de audiência pública (45 dias, contribuições a partir de 26/06/2026) e AIR 2.0 sobre a revisão da metodologia do WACC regulatório das concess → aprovado por unanimidade
+  - votos: Alessandro: relator; Alex: acompanha; Felipe: acompanha · [vídeo](https://www.youtube.com/watch?v=8J6vHk_yKSg&t=6161s)
+- **RD 1037 (2026-07-16)**, 1.3.2 · relator **Alex Azevedo** · Abertura de audiência pública (45 dias) sobre a minuta de resolução da metodologia de classificação de mercados do transporte rodoviário interestadual → aprovado por unanimidade
+  - votos: Alex: relator; Lucas: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=ixMkeB6vSIM&t=6687s)
+- **RD 1039 (2026-08-14)**, 1.2.1 · relator **Felipe Queiroz** · Relatório final da AP 5/2025 (24/07–06/09/2025; reaberta de 04–18/05/2026) e resolução que institui o Selo ESG Cargas para o transporte rodoviário rem → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=u4SXNQPR-XQ&t=1951s)
+- **RD 1039 (2026-08-14)**, 1.4.1 · relator **Alex Azevedo** · Prorrogação do prazo de contribuições da AP 11/2026 sobre a concessão ferroviária da Malha Sul (corredores Mercosul, Rio Grande e Paraná–Santa Catarin → aprovado por unanimidade
+  - votos: Alex: relator; Felipe: acompanha; Lucas: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=u4SXNQPR-XQ&t=3503s)
+- **RD 1040 (2026-08-27)**, 1.2.4 · relator **Felipe Queiroz** · Abertura de audiência pública sobre a minuta de edital de sandbox regulatório de interoperabilidade do sistema de livre passagem (free flow) nas conce → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=8p1X1Nfk9Cs&t=3205s)
+- **RD 101ª Extraordinária (2026-09-01)**, 1.1.1 · relator **Guilherme Sampaio** · Abertura de audiência pública, realizada concomitantemente à vigência do edital, sobre as minutas do edital do processo competitivo, termo aditivo (PE → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=Q8UGEXRy5vk&t=1307s)
+- **RD 102ª Extraordinária (2026-09-03)**, 1.3.1 · relator **Alex Azevedo** · Relatório final da AP 4/2026 e proposição ao Ministério dos Transportes do plano de outorga da Rota Portuária Sul (BR-116/392, RS; 459 km → 465 km com → aprovado por unanimidade
+  - votos: Alex: relator; Felipe: acompanha; Lucas: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=J5gkP2cLOm8&t=3469s)

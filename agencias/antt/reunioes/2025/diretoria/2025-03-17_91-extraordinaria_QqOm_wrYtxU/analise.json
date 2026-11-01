@@ -1,0 +1,27 @@
+{
+  "meta": {"video_id": "QqOm_wrYtxU", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "91 (extraordinária)", "data": "2025-03-17", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Reunião extraordinária com item único, encerrada às 18h29 de 17/03/2025.", "O presidente da sessão é o relator do item (a legenda atribui a abertura a Felipe Queiroz, mas o texto indica o Diretor-Geral)."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:59",
+      "processo": "50500.017214/2022-96", "interessado": "Superintendência de Concessão de Infraestrutura (SUCON)",
+      "assunto": "Relatório final da Consulta Pública 1/2024 e publicação do edital do processo competitivo para a troca de controle acionário da Eco 101 Concessionária de Rodovias (BR-101 ES/BA), no âmbito da otimização/readequação do contrato de concessão",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "participação social"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Iniciativa decorre de determinação do TCU (acórdão favorável à otimização, com exigência de consulta pública); sessão pública presencial em Vitória (ES) em novembro/2024 e contribuições de 3/11 a 23/12/2024, com sugestões relevantes acolhidas. A Procuradoria opinou pela aprovação, com pequenos ajustes redacionais acolhidos. Previsão de cerca de R$ 10 bilhões em investimentos (aprox. 170 km de duplicações, 41 km de faixas adicionais, 15 km de contornos urbanos, 33 km de marginais, 40 passarelas, 6 km de ciclovia, 75 pontos de ônibus). Leilão (venda de 100% das ações da concessionária) marcado para 26/06/2025 na B3, em São Paulo; é o segundo processo competitivo da otimização, depois da MS Via (leilão em maio).",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova", "ts": "0:01:30", "justificativa": "conformidade dos trabalhos da SUCON; processo competitivo transparente e isonômico valida as condições da solução consensual; considera contribuições da sociedade e apontamentos da Procuradoria", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:05:44", "justificativa": "parabeniza área técnica, SUCON, Procuradoria e a SECEX Consenso; destaca a parceria com o TCU e o papel do Ministério dos Transportes na política pública que viabilizou a solução", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "de acordo, acompanha o relator", "ts": "0:06:31", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática com nomes e números distorcidos (número do processo reconstruído de «5050017214/22496»; vale conferir).", "O nome do órgão de solução consensual citado por Felipe Queiroz aparece truncado na legenda (provável SecexConsenso/TCU)."]
+}

@@ -1,0 +1,302 @@
+{
+  "meta": {"video_id": "DgSc5QHQ8V8", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:00:47); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "992", "data": "2024-10-03", "formato": "videoconferência",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Luciano Lourenço", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Encerrada às 17h04 de 03/10/2024 (sessão de cerca de 2h18 de vídeo).", "Inclusão extrapauta, com concordância unânime dos diretores, da homologação do resultado do leilão da BR-381/MG (relator Guilherme Sampaio).", "Retirados de pauta: 1.2.4 (alteração da Res. 5.083, penalidades; Guilherme Sampaio, volta em 15 dias) e 1.4.9 (Transbrasiliano Transportes e Turismo; Felipe Queiroz).", "Houve duas sustentações orais no item 1.5.1 (Rumo Malha Sul e ArcelorMittal Brasil), 15 minutos cada.", "Todos os itens deliberados foram aprovados por unanimidade; no 1.4.3 aprovado nos termos do voto-vista (revisor) de Felipe Queiroz, que complementou o voto do relator original Luciano Lourenço.", "Vários itens relatados em bloco (art. 68 §2º do Regimento): recursos da Concer e processos do Monitriip."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:02:56",
+      "processo": "50500.166526/2024-53", "interessado": "SUPAS (Superintendência de Serviços de Transporte Rodoviário de Passageiros)",
+      "assunto": "Referendo da Deliberação 356, de 26/09/2024, que aprovou o Comunicado de Abertura da Janela Extraordinária 1/2024 (Res. 6.033/2023, cap. 2, seção 2) para autorização do TRIP em mercados desatendidos, que deixaram de ser atendidos após a adequação dos TARs e mercados atendidos por apenas uma transportadora",
+      "tema": ["ônibus (transporte regular, TAR)", "janela extraordinária de mercados", "regulação normativa"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — deliberação referendada",
+      "resumo_voto": "A SUPAS demonstrou urgência e relevância; a publicação da deliberação e do comunicado no DOU em 27/09/2024 cumpriu o prazo, apesar de restrições orçamentárias e de pessoal. Referenda a deliberação, em linha com a abertura gradual e progressiva do mercado do novo marco do TRIP, com universalidade do atendimento. Elogia a equipe da SUPAS.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, referenda a deliberação", "ts": "0:03:10", "justificativa": "cumprimento do prazo e do marco regulatório do TRIP; segurança jurídica e defesa dos usuários", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator, inclusive nos cumprimentos às áreas técnicas", "ts": "0:06:20", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator; parabeniza os envolvidos", "ts": "0:06:30", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:06:40", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:06:45", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.1 a 1.2.3 (bloco)", "ts": "0:06:59",
+      "processo": "50500.122055/2013-81; 50505.030240/2020-1x; 50500.111884/2013-76 (números parciais na legenda)", "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (Concer)",
+      "assunto": "Recursos administrativos contra multas da SUROD por descumprimento do contrato PG-138/95",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade nos três processos — recursos desprovidos",
+      "resumo_voto": "Sem fato ou elemento novo; adotadas como razões de decidir as considerações técnicas (art. 50 §1º da Lei 9.784/99). Antes, o relator retirou de pauta o item 1.2.4 (alteração da Res. 5.083, penalidades) após questões levantadas pelas áreas técnicas durante a sessão, a voltar em 15 dias.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, conhece e nega provimento", "ts": "0:09:00", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator em todos os processos do bloco", "ts": "0:12:00", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:12:03", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator nos três processos", "ts": "0:12:06", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator nos três processos", "ts": "0:12:10", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.5", "ts": "0:12:30",
+      "processo": "50500.364992/2023-32", "interessado": "Real Maia Turismo e Cargas Ltda.",
+      "assunto": "Processo administrativo ordinário: não envio de dados do Monitriip (Res. 4.770/2015, art. 47); aplicação de advertência",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções", "Monitriip"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — advertência",
+      "resumo_voto": "Empresa deixou de informar dados de cerca de 2.315 viagens entre jan. e jul. de 2023 e de viagens não embarcadas entre março e julho; passou a se adequar a partir de agosto de 2023, com cumprimento mais satisfatório em 2024. A Diretoria chegou a questionar a eficácia da advertência e pediu à SUFIS avaliação de sanção mais rigorosa ou convolação em multa, mas, após reanálise, concluiu que a advertência é adequada (art. 78-A da Lei 10.233/2001; proporcionalidade e regulação responsiva).",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aplica advertência", "ts": "0:12:50", "justificativa": "proporcionalidade, interesse público, regulação responsiva e melhora de conformidade", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:14:05", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:14:07", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:14:09", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:14:12", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "Extrapauta", "ts": "0:14:17",
+      "processo": "50500.048416/2024-1x (número parcial na legenda)", "interessado": "Fundo de Investimento em Participações em Infraestrutura (FIP 41, vencedor do leilão)",
+      "assunto": "Homologação do resultado do leilão da concessão do sistema rodoviário BR-381/MG (Edital 1/2024; trecho de 304 km entre Belo Horizonte e Governador Valadares)",
+      "tema": ["concessões rodoviárias", "leilão / otimização"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — resultado homologado",
+      "resumo_voto": "Leilão realizado em 29/08/2024 com duas propostas; vencedor ofereceu o maior desconto na tarifa básica (0,94, valor conforme legenda). A comissão de outorga e a B3 analisaram a habilitação (jurídica, fiscal, econômico-financeira e técnica) e a Procuradoria atestou a observância dos trâmites. Próximos passos: comprovação das condições prévias até 20 de novembro, assinatura do contrato em 2 de dezembro e assunção da rodovia em 2 de janeiro de 2025.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, homologa o resultado", "ts": "0:15:00", "justificativa": "requisitos editalícios atendidos; parecer jurídico e relatório da comissão de outorga", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:18:25", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:18:27", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:18:29", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator; celebra o passo importante para uma concessão há muito esperada", "ts": "0:18:32", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "0:18:50",
+      "processo": "50515.026999/2018-2x (número parcial na legenda)", "interessado": "Transbrasiliana Concessionária de Rodovia S.A.",
+      "assunto": "Recurso contra multa por permitir deflexão característica do pavimento acima do previsto (BR-153/SP; art. 8º, XI da Res. 4.071/2013); decisão SUROD 130/2023 que rejeitou embargos",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — recurso desprovido",
+      "resumo_voto": "Auto de 2018; embargos protocolados mais de 4 anos depois. Não há atenuante: ter contratos de intervenção vigentes não comprova ação efetiva nem manutenção dos parâmetros de desempenho. Sem fato novo, mantém a multa.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, conhece e nega provimento", "ts": "0:19:20", "justificativa": "ausência de comprovação de atenuante; sem elementos novos", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:22:00", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:22:02", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:22:04", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:22:08", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.3.2 e 1.3.4 (bloco)", "ts": "0:22:12",
+      "processo": "50500.367360/2023-21 (1.3.2); 50500.364923/2023-29 (1.3.4)", "interessado": "Viação JLS Ltda. e Catani Sul Transportes e Turismo Ltda.",
+      "assunto": "Processos administrativos ordinários: não envio de dados do Monitriip de jan. a jul. de 2023 (Res. 4.499/2014), mesmo após cautelar de paralisação; cassação das outorgas",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções", "Monitriip"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — cassação das outorgas das duas empresas",
+      "resumo_voto": "As comissões concluíram que as empresas seguiram sem enviar os dados até os relatórios finais, descumprindo requisito essencial, insuperável e indispensável à operação, e não atenderam a solicitações da ANTT. Infração grave (art. 1º, II, a da Res. 233/2003); aplica cassação.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aplica cassação", "ts": "0:23:00", "justificativa": "Monitriip é requisito essencial; permanência da conduta infracional", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator nos dois processos", "ts": "0:26:10", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator nos dois processos", "ts": "0:26:13", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator em ambos", "ts": "0:26:16", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator nos dois processos", "ts": "0:26:20", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.3.3", "ts": "0:26:28",
+      "processo": "50500.261827/2022-49", "interessado": "Impacto Formação e Treinamento Profissional de Trânsito Ltda.",
+      "assunto": "Descredenciamento da entidade aplicadora da prova eletrônica de conhecimentos do transportador autônomo de cargas (TAC), por indícios de fraude",
+      "tema": ["transporte rodoviário de cargas (piso mínimo do frete/CIOT)", "fiscalização e sanções", "segurança viária"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — descredenciamento",
+      "resumo_voto": "Denúncia da CNTA de que um TAC recebeu certificado sem fazer a prova. A comissão permanente apontou 14.467 provas em 5 meses com apenas 4 colaboradores, 392 provas em um único dia e aplicação por 45 dias ininterruptos, inclusive fins de semana e feriados, incompatível com a estrutura declarada (2 salas, 7 computadores). Cautelar de suspensão (SUROC, 09/03/2023) e denúncia à Polícia Federal. Sem defesa que desconstitua a denúncia, aplica descredenciamento (edital de chamamento 1/2023; art. 155, X da Lei 14.133/2021). Destaca o papel da prova na segurança viária e no meio ambiente.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aplica descredenciamento", "ts": "0:27:00", "justificativa": "indícios fortes de fraude; risco de dano irreparável à segurança das vias", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:30:55", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:30:58", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:31:02", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:31:08", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.3.5", "ts": "0:31:14",
+      "processo": "50500.118825/2013-41", "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (Concer)",
+      "assunto": "Recurso contra multa de 900 URT por atraso injustificado nos cronogramas do PER (cláusula 2.19 do contrato); decisão SUROD 809/2022",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — recurso desprovido",
+      "resumo_voto": "Sem fato novo; adota a nota técnica da SUROD (art. 50 §1º da Lei 9.784/99). Mantida a multa.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, conhece e nega provimento", "ts": "0:31:40", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "0:33:05", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:33:08", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:33:10", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:33:14", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.4.1", "ts": "0:33:20",
+      "processo": "50500.058885/2024-64 (número parcial na legenda)", "interessado": "SUCOM",
+      "assunto": "Reabertura da Audiência Pública 4/2024 (proposta de resolução do plano de sustentabilidade / agenda ESG nas concessões de rodovias e ferrovias), com contribuições escritas de 14 a 25 de outubro de 2024",
+      "tema": ["sustentabilidade", "concessões rodoviárias", "ferrovias", "regulação normativa", "participação social"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Projeto previsto na Agenda Regulatória 2023/2024 (Deliberação 406/2023), com reunião participativa (25/03), consulta interna e primeira janela da AP 4/2024 (10/06 a 24/07). Reabertura necessária por fatos novos: Portaria MT 622/2024 (diretrizes de sustentabilidade em contratos rodoviários, com acréscimo tarifário de referência em torno de 1%, não automático) e Portaria 689/2024 (debêntures de infraestrutura, rodovias e ferrovias). O texto foi atualizado sem mudança estrutural; reabertura curta (cerca de 10-11 dias) por eficiência, dada a ampla participação anterior.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova a reabertura da audiência pública", "ts": "0:34:00", "justificativa": "transparência e participação diante de fatos novos, com prazo reduzido por eficiência", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:41:20", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:41:23", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:41:26", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:41:30", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.4.2", "ts": "0:41:45",
+      "processo": "50500.015915/2024-1x (número parcial na legenda)", "interessado": "SUFER (Superintendência de Transporte Ferroviário)",
+      "assunto": "Alteração da Res. 5.987/2022 (requerimento para exploração de novas ferrovias, pátios e instalações por autorização) e do contrato de adesão (Deliberação 257/2022), para refletir a derrubada de vetos à Lei das Ferrovias (Lei 14.273/2021) pelo Congresso; dispensa de AIR e de PPCS",
+      "tema": ["ferrovias", "regulação normativa", "segurança jurídica"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Quatro pontos da lei, após a promulgação de 11/10/2023: (1) obrigatoriedade do relatório executivo do EVTEA pelo interessado; (2) inclusão no contrato de adesão de informações de capacidade de transporte e condições técnicas para interconexão e interoperabilidade; (3) vedação à recusa injustificada de transporte de cargas, com lista de motivos admitidos (saturação da via, não atendimento às condições contratuais, indisponibilidade de material rodante etc.); (4) direito de preferência do concessionário existente quando houver pedido de autorização em sua área de influência. Dispensa AIR (art. 96, II do Regimento) e PPCS (art. 5º, III da Res. 6.020/2023), por serem alterações que apenas aplicam determinação legal.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova a minuta de resolução, a deliberação e o contrato de adesão, e dispensa AIR e PPCS", "ts": "0:42:30", "justificativa": "adequação à lei; segurança jurídica e estabilidade regulatória para o regime de autorizações", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator; elogia a qualidade técnica e a previsibilidade para o regime de autorizações", "ts": "0:52:50", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:53:30", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:53:45", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:54:00", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.4.3", "ts": "0:54:15",
+      "processo": "50500.122574/2024-92 (número parcial na legenda)", "interessado": "Concessionária Ecovias do Araguaia S.A.",
+      "assunto": "Voto-vista: redução do capital social da concessionária (de cerca de R$ 1,9 bilhão para valor mínimo de aproximadamente R$ 997,7 milhões, valores conforme legenda); processo apresentado na RDE 194 (29/07) pelo relator Luciano Lourenço (voto DLL 532/2024), com pedido de vista de Felipe Queiroz; retirado de pauta na RD 991",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "capital social / financiamento"],
+      "relator": "Luciano Lourenço (relator original); Felipe Queiroz (voto-vista)", "resultado": "aprovado por unanimidade nos termos do voto-vista, com complementos",
+      "resumo_voto": "Felipe acompanha Luciano e complementa. Primeiro caso de redução de capital social em concessão rodoviária. Diverge parcialmente da motivação da SUROD (comparação com o contrato Ecovias Rio–Minas), pois os escopos e ciclos de investimento diferem; sustenta a decisão pela eficiência contratual: o capital social mitiga risco de saúde financeira e financiabilidade, e esse risco foi superado (conclusão das obras iniciais, abertura das praças e fluxo de receita; financiamento de longo prazo de cerca de R$ 1 bilhão contratado; obrigações financeiras cumpridas). Reduzir o valor superestimado evita ineficiência. A redução não afeta o modelo de contas vinculadas. Complementos: (i) autorizar a readequação até o montante mínimo; (ii) novos pedidos de redução da Ecovias do Araguaia devem vir à Diretoria com proposta de termo aditivo fixando métricas objetivas, como nos contratos da Quinta Etapa e nas diretrizes do RC3; (iii) recomendar à SUROD, com a SUCOM, estudo de diretrizes para pedidos de redução de capital, em especial quando o contrato não traz parâmetros.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator original; acompanha o voto-vista, que apenas complementou o seu voto", "ts": "1:10:40", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto-vista: acompanha o relator com três complementos (aditivo com métricas para novos pedidos; diretrizes)", "ts": "0:55:00", "justificativa": "eficiência contratual; risco financeiro mitigado; segurança de contas vinculadas; novo caso exige diretrizes para análogos", "tom": "didático, assumidamente demorado", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o revisor (voto-vista)", "ts": "1:10:35", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator originário com os acréscimos do revisor", "ts": "1:10:50", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator com os acréscimos do revisor", "ts": "1:11:00", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.4.4", "ts": "1:11:31",
+      "processo": "50500.144810/2022-56 (número parcial na legenda)", "interessado": "Concessionária da Rodovia Osório–Porto Alegre (Concepa)",
+      "assunto": "Embargos de declaração contra a Deliberação 147/2023, que negou provimento ao recurso e manteve multa de 450 URT (valor conforme legenda)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — embargos rejeitados",
+      "resumo_voto": "Alegada omissão e falta de motivação do voto; a concessionária repete argumentos do recurso voluntário. Os embargos não buscam sanar obscuridade, contradição, omissão ou erro material, mas rediscutir o mérito, com caráter protelatório.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, rejeita os embargos", "ts": "1:11:50", "justificativa": "embargos de caráter protelatório; sem vício a sanar", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "1:13:50", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "1:13:53", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator (após breve falha de conexão)", "ts": "1:14:05", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "1:14:10", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.4.5 a 1.4.7 (bloco)", "ts": "1:14:30",
+      "processo": "50505.046248/2014-1x; 50500.365611/2019-56; 50505.016562/2021-03", "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (Concer)",
+      "assunto": "Três recursos contra multas da SUROD no contrato PG-138/95: inexecução de passarela (Parque Sul, km 801; 2014; 462 URT), deflexões do pavimento (2017; 675 URT) e falta de reposição de tachas, tachões e balizadores refletivos (2021; 180 URT)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — recursos desprovidos",
+      "resumo_voto": "Sem fato novo capaz de afastar as penalidades; mantidas as multas, nos termos das minutas de deliberação.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, conhece e nega provimento", "ts": "1:15:30", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "1:19:40", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "1:19:43", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator nos três processos", "ts": "1:19:46", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator nos três processos", "ts": "1:19:50", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.4.8", "ts": "1:19:58",
+      "processo": "50515.043275/2026-8x (número parcial/incerto na legenda)", "interessado": "Transbrasiliana Concessionária de Rodovia S.A.",
+      "assunto": "Recurso contra multa de cerca de 730 URT por permitir áreas afetadas por trincas interligadas acima do previsto no contrato e no PER; decisão 231/2023 que rejeitou embargos",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — recurso desprovido",
+      "resumo_voto": "Mera aplicação de regra contratual, importante para a performance e eficiência do contrato; a recorrente não trouxe fato novo. Mantida a multa.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, conhece e nega provimento", "ts": "1:20:30", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "1:24:10", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "1:24:13", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:24:16", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "1:24:20", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.5.1", "ts": "1:24:40",
+      "processo": "50500.011064/2024-8x (número parcial na legenda)", "interessado": "Rumo Malha Sul S.A. (recorrente) e ArcelorMittal Brasil S.A. (usuária dependente)",
+      "assunto": "Recurso administrativo contra a Decisão SUFER 65, de 10/07/2024, que confirmou a Portaria SUFER 5/2022 e a Deliberação 98/2022 e determinou à Rumo prestar o transporte ferroviário de produtos siderúrgicos de São Francisco do Sul (SC) a Araucária (PR) e para o estado de São Paulo, cobrando pelo teto tarifário (arbitramento, Res. 5.944/2021); com sustentações orais",
+      "tema": ["ferrovias", "usuário dependente / direito de passagem", "judicializacao", "regulação normativa"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — recurso conhecido, efeito suspensivo indeferido, desprovido no mérito",
+      "resumo_voto": "Rumo alegava nulidade por violação ao contraditório (petição com a resposta da CPTM sobre falta de capacidade ociosa foi juntada em outro processo e não apreciada) e ilegalidade, por a decisão alterar o fluxo da declaração de dependência (São Francisco do Sul–capital paulista) para um destino genérico no estado de São Paulo (arts. 27 §1º e 29 da Res. 5.944). Pedia subsidiariamente a exclusão da prestação imediata em SP e prazo para formalizar o contrato. ArcelorMittal sustentou postura não colaborativa e protelatória da Rumo desde 2022 (inclusive mandado de segurança, extinto por decadência e depois desistido) e urgência do atendimento. O relator concluiu que a petição foi juntada tanto ao arbitramento quanto à mediação e considerada na NT 6327/2024; a fiscalização da SUFER não constatou impedimento técnico ou operacional, e há alternativas de terminais (por exemplo Paulínia e Hortolândia); a declaração de dependência é ato unilateral que apenas abre a negociação, sem vincular o arbitramento. Indefere o efeito suspensivo e nega provimento.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, conhece, rejeita o efeito suspensivo e nega provimento", "ts": "1:50:00", "justificativa": "sem nulidade processual; sem ilegalidade, pois a declaração de dependência não é inflexível; viabilidade operacional constatada pela fiscalização", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente o relator; elogia as sustentações", "ts": "1:57:00", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha integralmente o relator", "ts": "1:57:40", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator; lamenta a demora e a falta de instrumentos de enforcement, defende um acordo em vez de litígio indefinido pelo custo Brasil, segurança viária e emissões", "ts": "1:58:20", "justificativa": "cargas poderiam estar no modal ferroviário; agência precisa de capacidade de resolver problemas", "tom": "crítico quanto à litigância e à lentidão", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator; cobra das concessionárias ferroviárias que ampliem o volume transportado e orienta a SUFER a ser mais diligente", "ts": "2:02:00", "justificativa": "meta estratégica de aumentar o transporte ferroviário", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.5.2", "ts": "2:02:43",
+      "processo": "50500.367303/2023-41", "interessado": "Maia e Durão Transportes e Turismo Ltda.",
+      "assunto": "Processo administrativo ordinário: Monitriip (Res. 4.499/2014); arquivamento",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções", "Monitriip"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — arquivamento",
+      "resumo_voto": "No período de apuração (jan. a jul. de 2023) a empresa estava baixada por extinção por liquidação voluntária e impossibilitada de operar; não é possível demonstrar o descumprimento da obrigação de enviar dados. Notificação por edital após tentativas sem êxito. Acolhe a área técnica e arquiva.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, arquiva o processo", "ts": "2:03:10", "justificativa": "empresa baixada e impossibilitada de operar no período", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "2:05:40", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "2:05:43", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "2:05:46", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "2:05:50", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.5.3", "ts": "2:06:05",
+      "processo": "50500.367333/2025-8x (número incerto na legenda)", "interessado": "Edson S. Santos Ltda.",
+      "assunto": "Pedido de reconsideração contra a Deliberação 249, de 08/08/2024, que cassou a outorga da linha Abaíra (BA)–Santos (SP) por não envio de dados do Monitriip; empresa pedia convolação em advertência e multa",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções", "Monitriip"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — reconsideração conhecida, sem efeito suspensivo, desprovida",
+      "resumo_voto": "Mesmo após oportunizado o retorno à operação, a empresa não adotou ações para transmitir dados de forma adequada e persistiu no descumprimento de requisito essencial; sem fatos novos. Mantém a cassação e não converte em multa.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, nega provimento e mantém a cassação", "ts": "2:06:30", "justificativa": "persistência no descumprimento; ausência de diligência", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "2:08:50", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "2:08:53", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "2:08:56", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "2:09:00", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.5.4", "ts": "2:09:12",
+      "processo": "50500.360012/2023-39 (número parcial na legenda)", "interessado": "JS Turismo Ltda.",
+      "assunto": "Processo administrativo ordinário: não envio de dados do Monitriip de jan. a jul. de 2023; advertência",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções", "Monitriip"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — advertência",
+      "resumo_voto": "Após cautelar (Portaria SUFIS 522/2023, depois suspensa), a empresa corrigiu a conduta e chegou a 100% de envio de dados em abril e maio de 2024; sanção gravosa seria desarrazoada. Acolhe a área técnica: advertência.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aplica advertência", "ts": "2:09:40", "justificativa": "evolução substancial e completa do envio de dados", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "2:12:00", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "2:12:03", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator; registra que o efeito pedagógico exige completude do envio (algo próximo de 100%, talvez em torno de 80% como patamar razoável) e não adesão parcial", "ts": "2:12:10", "justificativa": "mensagem ao setor regulado: dados incompletos não bastam para a advertência", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "2:12:50", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.5.5 a 1.5.8 (bloco)", "ts": "2:13:10",
+      "processo": "50500.120569/2015-1x; 50501.307418/2018-1x; 50500.188756/2013-31 (parcial); 50505.307778/2019-52 (números parciais na legenda)", "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (Concer)",
+      "assunto": "Quatro recursos contra multas da SUROD: inexecução em 2010 de adaptação de edificações para acessibilidade; atraso em obras adicionais de segurança na passarela (2016); inexecução da rodovia inteligente (2011); sinalização horizontal com retrorrefletância abaixo do mínimo",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — recursos desprovidos",
+      "resumo_voto": "Ausência de novos fatos e argumentos aptos a reformar as decisões: conhece e nega provimento.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, conhece e nega provimento", "ts": "2:15:00", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "2:18:05", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator em todos os processos do bloco", "ts": "2:18:08", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator em todos", "ts": "2:18:12", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator nos quatro processos", "ts": "2:18:15", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"item": "1.2.4 — alteração da Res. 5.083 (processo de penalidades)", "relator": "Guilherme Sampaio", "motivo": "questões levantadas pelas áreas técnicas durante a sessão; submeter na próxima reunião, em cerca de 15 dias", "ts": "0:08:13"},
+    {"item": "1.4.9 — Transbrasiliano Transportes e Turismo Ltda. (proc. 50500.364989/2023-19)", "relator": "Felipe Queiroz", "motivo": "retirado de pauta pelo relator", "ts": "0:02:21"}
+  ],
+  "limites_da_analise": ["Legenda automática: números de processo parciais ou distorcidos; valores (URT, capital social, percentuais, desconto de 0,94 no leilão) podem estar errados e só foram citados quando razoavelmente claros; o número do processo do item 1.4.8 aparece com ano incoerente (2026), provavelmente erro da legenda.", "Ts dos votos dos seguidores são aproximados, assim como o início de alguns itens dentro de blocos.", "A identificação das interessadas Viação JLS e Catani Sul no bloco 1.3.2/1.3.4 segue a legenda (a leitura menciona 1.3.3 e 1.3.4, mas o relator e a numeração posterior indicam 1.3.2 e 1.3.4).", "Os valores de capital social do item 1.4.3 estão confusos na legenda (aproximadamente R$ 1,9 bilhão para R$ 997,7 milhões)."]
+}

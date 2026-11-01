@@ -1,0 +1,27 @@
+{
+  "meta": {"video_id": "AgCBr2p2u7I", "fonte": "legenda automática do YouTube (título em inglês, sem data; data 30/12/2025 confirmada no encerramento); falantes inferidos; ts = tempo do vídeo (sessão começa ~0:36)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "98ª Extraordinária", "data": "2025-12-30", "formato": "videoconferência (sessão extraordinária)",
+    "presidente_da_sessao": "Felipe Queiroz (Diretor-Geral substituto; Guilherme Sampaio em férias)",
+    "diretores_presentes": ["Felipe Queiroz", "Lucas Asfor", "Alex Azevedo", "Severino Medeiros (diretor substituto; grafia da legenda)"],
+    "ausentes": ["Guilherme Sampaio (férias)"],
+    "observacoes": ["Sessão extraordinária de item único, convocada no penúltimo dia de 2025 para cumprir o prazo contratual de 10 dias para o ato autorizativo (cláusula 19.1.5 C).", "Encerrada às 10h43 de 30/12/2025.", "Diretores elogiam a disposição do relator em interromper o recesso; Felipe liga a pressa ao compromisso de parceria nas PPPs."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:35:58",
+      "processo": "50500.006744/2025-40", "interessado": "Concessionária de Rodovia Nova 364 S.A.",
+      "assunto": "Reajuste da tarifa básica de pedágio e início da cobrança em free flow nas praças P1 a P7 da BR-364/RO (edital 6/2024)",
+      "tema": ["concessões rodoviárias", "pedágio free flow"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Contrato de 18/07/2025; primeiro termo aditivo (Deliberação 477/2025) trocou praças físicas por free flow; vistorias de nov e dez/2025 atestaram os requisitos; reajuste de 9,55% da TBP para cobrança em jan/2026; acesso antecipado via ACT 38/2025 com o DNIT; concessionária já inicia licenciamento da Expresso Porto (acesso ao terminal portuário no Rio Madeira).",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "0:38:10", "justificativa": "cumprimento da cláusula contratual de 10 dias", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente", "ts": "0:46:20", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha integralmente; destaca o compromisso com celeridade e a infraestrutura", "ts": "0:46:34", "confianca": "alta"},
+        {"diretor": "Severino Medeiros", "voto": "segue integralmente o voto", "ts": "0:48:25", "confianca": "alta"}
+      ]
+    }
+  ],
+  "limites_da_analise": ["Legenda automática: nome do diretor substituto grafado como Severino Medeiros; confirmar.", "A ordem e o ts do voto de Alex Azevedo são aproximados."]
+}

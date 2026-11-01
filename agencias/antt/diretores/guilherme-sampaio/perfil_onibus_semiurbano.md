@@ -1,0 +1,18 @@
+# Perfil analítico — Guilherme Sampaio · tema: onibus_semiurbano
+
+**Amostra:** presente em 86 das 92 reuniões analisadas em que há registro de presença/ausência; 6 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+
+**Votos:** acompanha o relator 4 (100% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Como relator:** 2/2 relatorias aprovadas por unanimidade.
+
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 293/62; fiscalizacao_sancoes 228/40; onibus 121/20; onibus_regular 93/16; leilao_otimizacao 92/31; reequilibrio_contratual 88/14; regulacao_normativa 77/18; participacao_social 77/17; judicializacao 64/12; ferrovias 61/12; pedagio_freeflow 40/3; institucional 38/17; cargas 25/6; sandbox_inovacao 24/9; sustentabilidade 19/3; onibus_fretamento 17/2; tarifa_modicidade 14/0; onibus_semiurbano 6/2; outros 1/0
+**Argumentos recorrentes nas justificativas registradas:** usuário (1); interesse público (1)
+
+## Evidências (reunião · item · voto · justificativa)
+
+- **RD 1003 (2025-03-13)**, item 1.1.1 — Referendo da Deliberação 86/2025, que adiou por 6 meses os efeitos da Deliberação 78/2025 (reajuste tarifário de 2,99% no serviço semiurbano · voto: *relator, referenda* (relator, conf. alta) · «possibilidade jurídica do consórcio; vantagens de gestão integrada, subsídio e fiscalização mais próxima» · [vídeo](https://www.youtube.com/watch?v=eoDx4_Me7cY&t=74s) · resultado: aprovado por unanimidade — deliberação referendada
+- **RD 1015 (2025-08-29)**, item 1.2.1 e 1.2.2 — Processos administrativos ordinários para apurar infrações à legislação do transporte interestadual semiurbano de passageiros (fiscalização  · voto: *adere à sugestão e acompanha; proclama unanimidade* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=AO9wlMZ_8p8&t=1248s) · resultado: aprovado por unanimidade — advertência, com determinação adicional (co
+- **RD 1026 (2026-02-12)**, item 1.1.1 — Homologação de acordo e 2º termo aditivo ao contrato de permissão 001/2015 (edital 2/2014) para restabelecer o equilíbrio econômico-financei · voto: *relator, homologa o acordo* (relator, conf. alta) · «consensualismo como forma contemporânea de realizar o interesse público; vantajosidade para a administração e os usuários» · [vídeo](https://www.youtube.com/watch?v=5dRdxywub1g&t=3198s) · resultado: aprovado por unanimidade
+- **RD 1026 (2026-02-12)**, item extra-pauta-RIDE-DF — Reajuste do coeficiente tarifário das autorizações especiais semiurbanas da RIDE/DF (ciclo 2026) · voto: *acompanha; agradece a inclusão extrapauta* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=5dRdxywub1g&t=7521s) · resultado: aprovado por unanimidade
+- **RD 1026 (2026-02-12)**, item 1.5.1 — Reajuste do coeficiente tarifário dos serviços semiurbanos por autorização especial geridos diretamente pela ANTT (exceto RIDE/DF e Petrolin · voto: *acompanha; proclama unanimidade* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=5dRdxywub1g&t=8024s) · resultado: aprovado por unanimidade
+- **RD 1026 (2026-02-12)**, item extra-pauta-Taguatu — Reajuste anual do coeficiente tarifário do contrato de permissão 001/2015 (variação de preços de 2025), somado ao efeito do acordo homologad · voto: *acompanha; agradece os extrapautas sobre o semiurbano do entorno do DF* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=5dRdxywub1g&t=8385s) · resultado: aprovado por unanimidade
