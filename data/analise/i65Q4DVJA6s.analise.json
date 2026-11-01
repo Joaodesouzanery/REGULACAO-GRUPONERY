@@ -1,0 +1,289 @@
+{
+ "meta": {
+  "video_id": "i65Q4DVJA6s",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:00:37; início da abertura cortado); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "1014",
+  "data": "2025-08-15",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+  "diretores_presentes": [
+   "Guilherme Sampaio",
+   "Felipe Queiroz",
+   "Lucas Asfor"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 10h30 de 15/08/2025 (sexta-feira). A transmissão começa já na apresentação dos itens extrapauta (trecho de abertura não consta da legenda).",
+   "Dois itens extrapauta: alteração da estrutura da SUFER (relator Guilherme Sampaio) e requerimento da Rota Transportes Rodoviários (relator Lucas Asfor); o item 1.4.1 (Rota 2 de Julho, BR-324/116 BA) foi retirado de pauta pelo relator.",
+   "Sustentações orais no item 1.3.3 (Rumo Malha Norte e ABIOV); Lucas Asfor pediu vista.",
+   "Dr. Igor Alves dos Santos, advogado da Gontijo, estava ausente para sustentar nos itens 1.1.1 e 1.2.1."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1.1 e 1.2.1",
+   "ts": "0:03:38",
+   "processo": "50500.143375/2023-03 (parcial); 50500.032480/2022-57 e 50500.143329/2023-04 (parciais)",
+   "interessado": "Empresa Gontijo de Transportes S.A. (recorrente); Anjo Viação Ltda. (beneficiária das decisões)",
+   "assunto": "Recursos administrativos da Gontijo contra as Decisões SUPAS 56/2024 (23/01/2024) e 54/2024 (22/01/2024), que deferiram autorização de mercados e inclusão de mercados na licença operacional da Anjo Viação por força de decisão judicial (agravo de instrumento); votos-vista em bloco",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao"
+   ],
+   "relator": "Lucas Asfor (1.1.1, RDE 233, 26/05/2025) e Luciano Lourenço, ex-diretor (1.2.1, RDE 219, 17 a 21/02/2025); Guilherme Sampaio apresenta voto-vista",
+   "resultado": "aprovado por unanimidade — recursos julgados prejudicados por perda superveniente do objeto",
+   "resumo_voto": "Guilherme Sampaio (que havia pedido vista) constata que a Gontijo ajuizou ação ordinária na 4ª Vara Federal Cível do DF pedindo a anulação das mesmas decisões da SUPAS, e que a sentença de mérito julgou improcedentes os pedidos (art. 487, I, do CPC). Reconhece a perda superveniente do objeto dos recursos administrativos e os julga prejudicados. Sem sustentação oral (advogado ausente).",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "voto-vista: reconhece perda superveniente do objeto e julga prejudicados os recursos",
+     "ts": "0:04:00",
+     "justificativa": "sentença judicial de improcedência esgota o objeto dos recursos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "segue ambos os votos (original do relator com os ajustes do voto-vista)",
+     "ts": "0:07:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "de acordo com os complementos do voto-vista",
+     "ts": "0:07:14",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "extrapauta-1",
+   "ts": "0:07:21",
+   "processo": "50500.26326/2025-39 (parcial)",
+   "interessado": "Superintendência de Transporte Ferroviário (SUFER)",
+   "assunto": "Extrapauta: alteração pontual da Resolução 5.977/2022 (7 de abril de 2022 na legenda), que dispõe sobre a estrutura organizacional da ANTT, para ajustar competências da Superintendência de Transporte Ferroviário",
+   "tema": [
+    "institucional",
+    "regulação normativa",
+    "ferrovias"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "A Resolução 6.069/2025 (01/08/2025) modificou a estrutura da SUFER, mas por lapso algumas atribuições foram alocadas em unidades extintas e faltou alterar a designação de uma coordenação. Urgência justificada pelo risco de atribuições serem exercidas por áreas não designadas (art. 53 §4º do Regimento Interno).",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aprova a alteração",
+     "ts": "0:07:30",
+     "justificativa": "relevância e urgência de corrigir lapso de atribuições",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:09:34",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "de acordo com o relator",
+     "ts": "0:09:37",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1.3.1",
+   "ts": "0:09:39",
+   "processo": "50500.1636/2022-493 (parcial)",
+   "interessado": "Expresso Prudente Locação e Transporte Ltda. (fretamento)",
+   "assunto": "Processo administrativo ordinário para apurar infrações à legislação de transporte rodoviário de passageiros (envio insuficiente de dados do Monitriip)",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade — advertência",
+   "resumo_voto": "Processo originado em denúncia de empresa regulada; constatou-se envio de apenas cerca de 22% (leitura incerta) dos dados do Monitriip em determinado mês, em descumprimento da Resolução 4.777/2015 (art. 29); sem manifestação da interessada. Por ser fretamento e pelo histórico da empresa, aplica a sanção menos gravosa, com efeito pedagógico (art. 78-A, I, da Lei 10.233/2001).",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, aplica advertência",
+     "ts": "0:10:13",
+     "justificativa": "penalidade menos gravosa e pedagógica, dado o histórico e a modalidade de fretamento",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:13:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha; proclama unanimidade",
+     "ts": "0:13:01",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.2",
+   "ts": "0:13:01",
+   "processo": "50500.28442/2023-22 (parcial)",
+   "interessado": "Superintendência de Infraestrutura Rodoviária (SUROD)",
+   "assunto": "Reabertura da Audiência Pública 10/2024 para colher contribuições sobre a minuta de resolução que regulamenta a implantação dos sistemas de livre passagem (free flow) nas rodovias federais concedidas",
+   "tema": [
+    "pedágio free flow",
+    "participação social",
+    "regulação normativa",
+    "concessões rodoviárias"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Após AIR, reunião participativa 1/2024 e audiência pública 10/2024, a Procuradoria recomendou convergência com o RCR e com a minuta referencial de termo aditivo (Deliberação 69/2025) e a incorporação de lições do sandbox regulatório da Rio–Santos (BR-101/RJ, inadimplência e soluções técnicas). A SUROD apresentou a sexta minuta, com estrutura totalmente diversa: em vez de normativo específico, a regulamentação se dá por alterações nas resoluções do RCR, com nova sistemática de alocação de riscos e novo modelo de conta de compensação. Por ser mudança estrutural relevante, a Procuradoria apontou a necessidade de nova participação social; o relator concorda e vota pela reabertura da audiência pública.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, aprova a reabertura da audiência pública",
+     "ts": "0:13:30",
+     "justificativa": "transparência, participação e controle social como premissa da boa regulação; redução do estoque regulatório",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:23:29",
+     "justificativa": "respeito à transparência e à oitiva social; louva SUROD e Procuradoria",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:24:16",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.3",
+   "ts": "0:24:30",
+   "processo": "não identificado na legenda",
+   "interessado": "Rumo Malha Norte S.A. (representada) e Associação Brasileira das Indústrias de Óleos Vegetais (ABIOV, recorrente)",
+   "assunto": "Recurso administrativo da ABIOV contra decisão da SUFER em representação/reclamação administrativa contra a política tarifária da Rumo Malha Norte (diferenciação do frete por origem da carga no corredor Rondonópolis–Santos); sustentações orais",
+   "tema": [
+    "ferrovias",
+    "regulação normativa"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "pedido de vista (Lucas Asfor) após sustentações orais; relator votava por conhecer e negar provimento",
+   "resumo_voto": "Relator vota por conhecer do recurso e negar provimento. Reconhece que a Resolução 5.944 (art. 4º §3º) é a norma invocada pela ABIOV, mas afirma que a agência usou como critérios o preço teto (cap tarifário) e a dispersão tarifária por serem os instrumentos objetivos disponíveis, e que por esses critérios há convergência com a política da concessionária; sugere que o debate talvez extrapole a agência e que o critério pode evoluir. Sustentação da Rumo (Luís Felipe Valerim): política pública desde 2019, descontos em relação ao cap por praça, critérios objetivos (densidade e sazonalidade da carga, produtividade, antecedência), nenhum preço acima do cap, aumento de carga e redução do frete; 99,3% dos fretes dentro dos limites de dispersão. Sustentação da ABIOV (Francisco Todorov): única questão é se diferenciar preço pela origem da carga viola o art. 4º §3º da Res. 5.944, que só admite fatores intrínsecos à prestação (prazo, volume, sazonalidade, pagamento); aponta discriminação contra usuário cativo e pede resposta específica.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:48:34",
+     "justificativa": "agência chegou ao limite de apreciação com os instrumentos disponíveis; critérios de cap e dispersão tarifária são o estado da arte",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "pede vista",
+     "ts": "0:54:29",
+     "justificativa": "honestidade intelectual: após receber ambas as partes, hesita entre os argumentos e prefere se aprofundar",
+     "confianca": "reflexivo"
+    }
+   ]
+  },
+  {
+   "id": "1.4.2",
+   "ts": "0:54:30",
+   "processo": "50500.16102/2025-24 (parcial)",
+   "interessado": "Superintendência de Serviços de Transporte Rodoviário de Passageiros (SUPAS)",
+   "assunto": "Alteração dos arts. 2º e 7º da Resolução 4.308/2014 para substituir o termo «índio» por «indígena» e «Fundação Nacional do Índio» por «Fundação Nacional dos Povos Indígenas» (proposta oriunda da Câmara dos Deputados)",
+   "tema": [
+    "regulação normativa",
+    "institucional",
+    "ônibus (fretamento)"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Ajuste meramente terminológico, sem mudança de mérito, dispensado de audiência pública (art. 7º da Resolução 6.020/2023); em linha com a Lei 14.600/2023 e o Decreto 11.355/2023.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, aprova",
+     "ts": "0:57:41",
+     "justificativa": "terminologia inclusiva e respeitosa; alinhamento ao ordenamento",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "1:03:23",
+     "justificativa": "a mudança é mais relevante do que parece, gesto de reconhecimento de povos indígenas e minorias",
+     "confianca": "reflexivo"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha; proclama unanimidade",
+     "ts": "1:05:00",
+     "justificativa": "lembra que temas ESG já fazem parte dos normativos e da prática do setor",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "extrapauta-2",
+   "ts": "1:05:30",
+   "processo": "50500.204399/2022-38",
+   "interessado": "Rota Transportes Rodoviários Ltda.",
+   "assunto": "Extrapauta: requerimento de autorização para operar a linha Porto Seguro/BA–Recife/PE via Euclides da Cunha/BA, em cumprimento a decisão em agravo de instrumento (TRF1), na condição sub judice",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade — autorização sub judice",
+   "resumo_voto": "Pedido de mercados protocolado em 10/07/2023 (mercados desatendidos, Resolução 6.013/2023 conforme a legenda); a empresa recorreu ao TRF1 por mora e obteve ordem para a ANTT concluir a análise em 60 dias. A Procuradoria emitiu parecer de força executória; cumprimento possível em 01/08/2025 após a empresa apresentar a documentação. Defere a operação sub judice com as seções do anexo da deliberação.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, defere sub judice",
+     "ts": "1:06:00",
+     "justificativa": "cumprimento de ordem judicial",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "1:09:39",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha; proclama unanimidade",
+     "ts": "1:09:52",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "1.4.1 — Rota 2 de Julho (concessão BR-324/116 BA, audiência pública 2/2025); depois aprovado na RD 1015 (item 1.2.5)",
+   "relator": "Lucas Asfor",
+   "motivo": "retirado de pauta pelo relator (motivo não detalhado na legenda)",
+   "ts": "0:02:40"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática com perda do trecho inicial (abertura da sessão); falantes inferidos e frequentemente trocados.",
+  "Números de processo parciais ou distorcidos (todos os itens); o processo do item 1.3.3 não foi identificado.",
+  "No item 1.3.3, a identificação de Francisco Todorov como advogado da ABIOV e de Luís Felipe Valerim como advogado da Rumo vem da legenda; o recurso da ABIOV é inferido a partir das falas.",
+  "Percentual de dados do Monitriip (22%) e a ordem 60 dias no item extrapauta 2 vêm da legenda e podem estar imprecisos.",
+  "Ts dos votos de seguidores e do voto de Guilherme Sampaio no 1.4.2 são aproximados."
+ ]
+}

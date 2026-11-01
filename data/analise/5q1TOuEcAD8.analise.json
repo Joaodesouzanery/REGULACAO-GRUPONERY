@@ -1,0 +1,181 @@
+{
+  "meta": {"video_id": "5q1TOuEcAD8", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1001", "data": "2025-02-13", "formato": "videoconferência",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Luciano Lourenço", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Encerrada às 17h10 de 13/02/2025 (a legenda diz «número 100»; título e pauta indicam 1001).", "Última reunião de Rafael Vitale (Diretor-Geral) e de Luciano Lourenço, fim dos mandatos; Guilherme Sampaio assume a direção-geral. Despedidas longas de todos os diretores, do Procurador-Geral (Milton Carvalho Gomes) e do Ouvidor (Robson Crepalde).", "10 itens deliberados (um bloco de 22 processos, um extrapauta), todos unânimes, mais 1 item retirado de pauta (1.1.1).", "Duas sustentações orais: Dr. João Roberto Machado (Viação Águia Branca) no bloco 1.1.2 a 1.1.23 e Dr. Paulo Vinícius Fernandes (Bahia Ferrovias) no 1.2.5.", "Luciano Lourenço relata o RCR 5 (última norma do Regulamento das Concessões Rodoviárias) e o termo aditivo referencial do free flow como seus últimos votos."]
+  },
+  "itens": [
+    {
+      "id": "1.1.2 a 1.1.23", "ts": "0:05:30",
+      "processo": "22 recursos (ex.: 50500.166981/2024-36, 50500.176750/2024-74 e outros da mesma série)", "interessado": "Transportadora Turística Susano Ltda. (recorrente); Viação Águia Branca S.A. (recorrida)",
+      "assunto": "Bloco de 22 recursos contra a Decisão SUPAS 2601/2024 (a legenda traz 2631), que deferiu à Águia Branca termos de autorização (TAR) para diversas linhas interestaduais por conversão de decisão judicial (art. 226 §6º da Res. 6033/2023 e Súmula 5)",
+      "tema": ["ônibus (transporte regular, TAR)", "judicializacao", "regulação normativa"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — recursos providos; decisão SUPAS anulada com efeitos retroativos e termos de autorização desfeitos",
+      "resumo_voto": "A decisão judicial liminar mandou aplicar a Res. 4770/2015 e afastou a 6033, tornando incabível o art. 226 §6º e a Súmula 5. A Procuradoria concluiu por vício insanável de motivo (matéria de ordem pública). Rejeita as preliminares da sustentação (reunião dos autos de origem e questão de distribuição por prevenção), reconhece o interesse jurídico da recorrente, aponta que a liminar é precária e que os usuários não ficam desatendidos, e dá recado ao setor para cumprir as janelas e não buscar subterfúgios judiciais. Determina cumprimento imediato e garantias de cancelamento aos passageiros com bilhetes. Sustentação da Águia Branca: questão de ordem sobre a redistribuição (todos ao relator do primeiro sorteado), tese de regularização administrativa dentro do prazo por intimação da SUPAS, quebra de confiança, ilegitimidade da recorrente e pedido subsidiário de janela de transição, citando investimentos de R$ 19 mi em frota e R$ 1,13 mi em passagens vendidas.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, dá provimento aos recursos e anula a decisão SUPAS", "ts": "0:21:29", "justificativa": "vício de motivo insanável; segurança jurídica regulatória; consolidação do novo marco da Res. 6033", "tom": "firme", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha integralmente o relator em todos os processos do bloco", "ts": "0:26:30", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "0:26:45", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:26:50", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator; proclama unanimidade", "ts": "0:26:58", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "extrapauta", "ts": "0:27:10",
+      "processo": "50500.156356/2024 (parcial)", "interessado": "Superintendência de Concessão da Infraestrutura (SUCON) / Rotas do Brasil S.A.",
+      "assunto": "Emissão do ato de outorga à Rotas do Brasil S.A. para a concessão da BR-262/MG (Betim–Uberaba, 438 km), edital 3/2024, e autorização para assinar o contrato",
+      "tema": ["concessões rodoviárias", "leilão / otimização"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Leilão de 31/10/2024 com duas propostas; vencedora com desconto de 15,30% na tarifa; resultado homologado pela Deliberação 532/2024. A comissão de outorga confirmou a regularidade dos documentos. Mais de R$ 8 bi de capex e opex em 30 anos e mais de R$ 770 mi aos municípios lindeiros; 44 km de duplicações, 27 km de faixas adicionais, 100 pontos de ônibus, uma área de descanso para caminhoneiros. Assinatura do contrato em 14/02/2025 e assunção da rodovia em 17/03/2025.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, emite a outorga", "ts": "0:27:10", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:31:08", "justificativa": "satisfação com mais uma rodovia sob gestão da ANTT", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "0:31:20", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:31:24", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha; proclama unanimidade", "ts": "0:31:29", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:31:35",
+      "processo": "50500.369051/2023-95", "interessado": "Evolução Transporte e Turismo Ltda.",
+      "assunto": "Processo administrativo ordinário por falta de envio de dados ao Monitrip (Res. 4499/2014)",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — advertência",
+      "resumo_voto": "Empresa ficou sem enviar dados entre jan. e jul. de 2023 (cautelar de paralisação, depois suspensa por 120 dias pela Portaria SUFIS 57/2023). Infração grave, mas a empresa regularizou o envio, com adequação progressiva a partir de junho de 2024 após trocar de prestadora. Comissão sugeriu advertência (art. 78-A da Lei 10.233) em vez da cassação; o relator acolhe pela proporcionalidade, ressaltando que o Monitrip é requisito essencial.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aplica advertência", "ts": "0:31:39", "justificativa": "correção demonstrada; proporcionalidade", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:37:02", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "sigo com o relator", "ts": "0:37:07", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:37:10", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "sigo o relator; proclama unanimidade", "ts": "0:37:14", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "0:37:19",
+      "processo": "50500.156052/2024-52", "interessado": "Orleide da Silva Ribeiro Ltda. (fretamento)",
+      "assunto": "Processo administrativo ordinário por operação em circuito aberto (venda de passagens avulsas) em fretamento",
+      "tema": ["ônibus (fretamento)", "fiscalização e sanções"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — cassação",
+      "resumo_voto": "Quatro autuações em 2023 reconhecidas pela empresa (multas parceladas), oferta pública de passagens por internet e panfletos, resposta por aplicativo de mensagem com origens, destinos, dias e valores de bilhetes individuais; falhas no envio ao Monitrip e ausência de inscrição estadual em São Paulo. Cassação com base no art. 36 §5º do Decreto 2.521/1998 e no art. 78-H da Lei 10.233/2001.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, cassa a autorização", "ts": "0:37:39", "justificativa": "conduta contumaz em circuito aberto", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "0:41:00", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "de acordo", "ts": "0:41:04", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:41:08", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator; proclama unanimidade", "ts": "0:41:13", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.3", "ts": "0:41:15",
+      "processo": "50500.072293/2021-05", "interessado": "Superintendência de Infraestrutura Rodoviária (SUROD)",
+      "assunto": "Relatório final da Audiência Pública 6/2024 e minuta de resolução da quinta norma do Regulamento das Concessões Rodoviárias (RCR 5, extinção contratual)",
+      "tema": ["concessões rodoviárias", "regulação normativa", "reequilíbrio contratual"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "RCR 5 com 12 capítulos: modalidades e procedimentos de extinção, indenizações e contabilidade regulatória, prorrogação e alteração de prazo, intervenção, concessão de transição (inovação sugerida pela Procuradoria), alterações nos RCR 1 a 4 e disposições transitórias. Audiência pública de 08/07 a 21/08/2024 com cerca de 200 contribuições; ajustes após reuniões com a SUROD, a Procuradoria e a ABCR. Recomenda à SUROD iniciar a revisão dos cinco regulamentos. Conclui o ciclo do RCR, e o relator homenageia o superintendente Roger Bezerra e a gerente de regulação rodoviária Fernando Feitosa (a legenda cita Feitosa como gerência).",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aprova relatório final e minuta", "ts": "0:41:40", "tom": "satisfação de fim de mandato", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:49:35", "justificativa": "cumprimento da meta da agenda regulatória", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha integralmente o relator", "ts": "0:50:22", "justificativa": "melhor do que ter iniciativa é ter «acabativa»; conclusão de ciclo de 3 a 4 anos", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator na íntegra", "ts": "0:52:17", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "sigo com o relator; proclama unanimidade", "ts": "0:53:12", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.4", "ts": "0:54:05",
+      "processo": "50505.023885/2024-98", "interessado": "Superintendência de Infraestrutura Rodoviária (SUROD) / Concessionária Rodovias Integradas do Sul (Via Sul)",
+      "assunto": "Elaboração de projeto e orçamento de gradis de proteção nas alças da ponte móvel do Guaíba (BR-116) e em trechos sobre outras vias de Porto Alegre, em atendimento à Recomendação 66/2024 do MPF",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "segurança viária"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "O inquérito civil do MPF/RS tratou de arremesso de pedras contra veículos (houve homicídio). A recomendação pede estudos em até 90 dias e instalação dos gradis. A autorização é para a concessionária elaborar projeto executivo e orçamento, com observação do equilíbrio econômico-financeiro por revisão extraordinária e aceite do projeto pela ANTT.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, autoriza", "ts": "0:54:33", "justificativa": "grave problema de segurança pública e viária", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:59:28", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "sigo o relator", "ts": "0:59:33", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "de acordo com o relator", "ts": "0:59:39", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "de acordo; proclama unanimidade", "ts": "0:59:41", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.5", "ts": "1:00:05",
+      "processo": "50500.285600/2023-7 (parcial)", "interessado": "Bahia Ferrovias S.A. (subconcessionária da FIOL)",
+      "assunto": "Pedido de reconsideração, com pedido de efeito suspensivo, contra a Deliberação 499/2024 (primeiro termo aditivo que prorroga por 12 meses obrigações não financeiras, art. 65 da Lei 14.273/2021, com previsão de acréscimo de outorga caso os prazos originais sejam descumpridos, e possibilidade de assinatura unilateral)",
+      "tema": ["ferrovias", "reequilíbrio contratual", "judicializacao"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — conhecido; negado efeito suspensivo; desprovido",
+      "resumo_voto": "A relatoria originária foi de Lucas Asfor (RD de 09/2024). Sustentação oral da recorrente: o art. 65 não deixa margem de discricionariedade à ANTT, só a de formalizar a prorrogação; o acréscimo de outorga é cláusula econômica que só se discute na primeira revisão ordinária; na FIOL, sem receita tarifária até concluir os investimentos, não há desequilíbrio a favor do poder concedente; a assinatura unilateral seria juridicamente impossível; propõe remeter a discussão à primeira revisão ordinária. Voto: o efeito suspensivo é negado porque o aditivo não foi assinado e pode ser revisto; o acréscimo de outorga é mecanismo de reequilíbrio já previsto no contrato (não sanção) e cobrado só após o início da operação; a Procuradoria entende dever de cumprir a lei e que o aditivo não cria cláusula econômica. Mantém a decisão alinhado ao voto de Lucas Asfor.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, conhece, nega efeito suspensivo e nega provimento", "ts": "1:13:42", "justificativa": "sem elementos novos; acréscimo de outorga é reequilíbrio previsto no contrato; previsibilidade e segurança jurídica", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente o relator", "ts": "1:19:48", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "sigo com o relator", "ts": "1:20:04", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:20:10", "justificativa": "ausência de fatos novos capazes de reformar a decisão", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "sigo com o relator; proclama unanimidade", "ts": "1:20:30", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.6", "ts": "1:21:00",
+      "processo": "50500.188155/2024 (parcial)", "interessado": "Superintendência de Concessão da Infraestrutura (SUCON)",
+      "assunto": "Minuta de deliberação e termo aditivo referencial para a migração opcional da cobrança de pedágio ao free flow nos novos contratos, substituindo praças físicas previstas por pórticos até o fim do 3º ano de concessão",
+      "tema": ["concessões rodoviárias", "pedágio free flow", "reequilíbrio contratual", "regulação normativa"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Etapa inicial limitada à substituição física das praças, com base na Portaria MT 995/2023 e na Res. 6032/2023 (RCR 3), debatida na reunião participativa 21/2024; segue-se a resolução geral do free flow, em fase final. Aprovar o termo antes da resolução evita construir praças físicas que seriam substituídas. Relator destaca o pioneirismo da ANTT, o sandbox da BR-101 sem sinistros nos pórticos e os baixos índices de não pagamento.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aprova", "ts": "1:21:16", "tom": "último voto do mandato", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "1:29:40", "justificativa": "projeto revolucionário e dialogado com setor e usuários", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "de acordo com o relator", "ts": "1:30:15", "justificativa": "qualidade dos votos de Luciano; resolução do free flow virá em breve", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:31:16", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "de acordo; proclama unanimidade", "ts": "1:31:37", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "1:32:00",
+      "processo": "50500.188149/2024 (parcial)", "interessado": "EPR Minas Gerais S.A.",
+      "assunto": "Primeiro termo aditivo ao contrato do edital 4/2023: prorrogar de 12 para 24 meses o prazo (subcláusula 15.9, anexo 16) para obter a certificação ISO 37001 ou o selo Pró-Ética da CGU do programa de integridade",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "integridade / compliance"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "A concessionária enviou o programa de integridade em 15/10/2024 e pediu mais prazo; o selo Pró-Ética é bienal (inscrições dez/2024 a fev/2025, resultado em nov/2025), o que passaria o prazo do contrato. Alteração de parâmetro de desempenho exige termo aditivo; Procuradoria considerou possível, com ajustes acolhidos. SUROD recomendou que, concluída a certificação, a empresa fortaleça seus mecanismos de compliance.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova o termo aditivo", "ts": "1:32:43", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "1:38:10", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "1:38:14", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:38:17", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha; proclama unanimidade", "ts": "1:38:22", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.2", "ts": "1:38:26",
+      "processo": "50500.176720/2024 (parcial)", "interessado": "EPR Litoral Pioneiro S.A.",
+      "assunto": "Decisão administrativa para enquadrar a implantação dos postos de pesagem veicular existentes (subitem 3.4.6.1 do PER, edital 2/2023) como postos novos (subitem 3.4.6.2), com prazo de 24 meses",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "A concessionária informou que os postos sofreram furtos e depredação e não podem ser reativados nos parâmetros do PER. A SUROD (Nota Técnica 9191/2024) e a Procuradoria (Parecer 225/2024) entenderam que basta decisão administrativa do enquadramento, sem termo aditivo; mantido o quantitativo, as aprovações da agência e sem direito a reequilíbrio.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova o novo enquadramento", "ts": "1:38:30", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "1:44:25", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "1:44:29", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:44:31", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha; proclama unanimidade", "ts": "1:44:36", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.3", "ts": "1:44:39",
+      "processo": "50511.40623 (parcial)", "interessado": "Gontijo de Transportes Ltda. (recorrente) e JJ Turismo e Transporte Rodoviário Coletivo de Passageiros Ltda.",
+      "assunto": "Recurso da Gontijo contra a Decisão SUPAS 854/2023 (dez/2023), que deferiu a inclusão de mercados na LOP 225 da JJ Turismo após decisão judicial",
+      "tema": ["ônibus (transporte regular, TAR)", "judicializacao"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — recurso conhecido e desprovido; mantida a Decisão SUPAS 854/2023 (voto-vista complementar de Felipe Queiroz)",
+      "resumo_voto": "Votado na deliberação eletrônica 191 (8 a 12/07/2024), com vista de Felipe. O recurso é admissível, mas a empresa não trouxe elementos para reformar a decisão. Embora a liminar original tenha sido revogada no curso do processo, sobreveio sentença que julgou procedente o pedido da JJ Turismo, de modo que há ordem judicial válida para analisar o requerimento. Felipe apresenta voto complementar, e o DG o define como mais complementar do que revisor.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "voto-vista complementar: conhece e nega provimento ao recurso", "ts": "1:45:47", "justificativa": "decisão judicial válida que determina a análise do requerimento administrativo", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "relator; adere ao voto do revisor", "ts": "1:47:50", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha integralmente o relator e o complemento", "ts": "1:48:00", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha na íntegra, com o complemento de Felipe", "ts": "1:48:05", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "sigo com os demais; proclama unanimidade", "ts": "1:48:17", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"item": "1.1.1 — processo de relatoria de Guilherme Sampaio (assunto não anunciado na legenda)", "relator": "Guilherme Sampaio", "motivo": "retirado de pauta pelo relator, sem motivo declarado", "ts": "0:05:13"}
+  ],
+  "limites_da_analise": ["Legenda automática, em um único bloco de texto, com falantes inferidos e muitos erros de nome e número (ex.: «Rafael Vital/Vitali», «Lucio»).", "Os números de processo e valores do bloco 1.1.2 a 1.1.23 e de alguns itens são parciais; o nº da decisão SUPAS aparece como 2601 e 2631.", "O assunto do item 1.1.1 retirado não foi identificado.", "Os ts de votos de seguidores são aproximados, em geral com confiança média.", "As despedidas (cerca de 1:53 a 2:22) não são item deliberativo e foram resumidas em observações."]
+}
