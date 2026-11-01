@@ -1,0 +1,685 @@
+{
+ "meta": {
+  "video_id": "kTU_h6AhIS8",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:08); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "996",
+  "data": "2024-11-28",
+  "formato": "videoconferência, transmitida no YouTube",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Guilherme Sampaio",
+   "Luciano Lourenço",
+   "Felipe Queiroz",
+   "Lucas Asfor"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 9h50 (legenda) de 28/11/2024; sessão de cerca de 2h.",
+   "Inversão de pauta a pedido de Lucas Asfor (sustentação oral do advogado da BAFER, item 1.4.1) e inclusão de dois itens extrapauta de Luciano Lourenço (revisões quinquenais Eco050 e Nova Rota do Oeste).",
+   "Votos em bloco e dispensa de leitura: 1.1.1-1.1.4, 1.1.5-1.1.9, 1.3.2-1.3.5, 1.3.6-1.3.7, 1.4.5-1.4.10 e 1.4.11 (recursos Concer e Transbrasiliana).",
+   "Todos os itens deliberados foram aprovados por unanimidade."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.4.1",
+   "ts": "0:13:49",
+   "processo": "50500.285600/2023-10 (aprox.)",
+   "interessado": "Bahia Ferrovias S.A. (BAFER)",
+   "assunto": "Primeiro termo aditivo ao contrato de subconcessão do Trecho 1 da FIOL: prorrogação por 12 meses dos prazos das obrigações não financeiras (art. 65 da Lei 14.273/2021), com cálculo de acréscimo de outorga se os investimentos com prazo determinado não forem concluídos nos prazos originais. Inversão de pauta e sustentação oral do advogado Leonardo Coelho Ribeiro",
+   "tema": [
+    "ferrovias",
+    "reequilíbrio contratual",
+    "judicializacao"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade — duas minutas (consensual e unilateral) aprovadas, ambas com acréscimo de outorga",
+   "resumo_voto": "Sustentação oral (BAFER): o art. 65 é comando legal direto para mitigar efeitos da pandemia; contrato de concessão não operacional, sem caixa, e com cumprimento global em 5 anos (revisão ordinária só no 6º ano), de modo que não se pode presumir desequilíbrio a priori; propôs redação intermediária: a pertinência do acréscimo de outorga seria avaliada na primeira revisão ordinária; criticou a ideia de aditivo unilateral, que não foi submetida à concessionária. Voto do relator: acolhe a posição da SUFER e da Procuradoria — a prorrogação do art. 65 não afasta o reequilíbrio: o atraso nos investimentos desequilibra a equação econômica original, risco alocado à subconcessionária (cláusula 26.1); acréscimo de outorga é o mecanismo de restabelecimento, apurado ao constatar o descumprimento (5 anos da assunção) mas exigível só com o início da operação; aprova minuta consensual e alternativa unilateral pela União, ambas com o cálculo do acréscimo de outorga (Anexo 6).",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, aprova as minutas (consensual e unilateral) com acréscimo de outorga",
+     "ts": "0:30:50",
+     "confianca": "alta",
+     "justificativa": "art. 65 cria duas possibilidades; atraso sem acréscimo desequilibraria o contrato; BAFER teve oportunidade de se manifestar",
+     "tom": "técnico"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:41:52",
+     "confianca": "alta",
+     "justificativa": "elogia sustentação oral e voto, matéria bem instruída"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:42:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:42:45",
+     "confianca": "alta",
+     "justificativa": "assunto escrutinado há muito tempo pela agência, não decidido de rompante"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:44:17",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1.4.3",
+   "ts": "0:44:45",
+   "processo": "50500.367321/2023-23",
+   "interessado": "Verde Transportes Ltda. (em recuperação judicial)",
+   "assunto": "Pedido de reconsideração com pedido de efeito suspensivo contra a Deliberação 274/2024 (cassação das outorgas das linhas)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções",
+    "judicializacao"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade — recurso conhecido, sem efeito suspensivo, desprovido (cassação mantida)",
+   "resumo_voto": "Empresa alegou recuperação judicial, nulidade por falta de intimação e processos conexos já apurados. Relator reconhece impacto econômico mas diz que não afasta a necessidade de cumprir as regras do setor; empresa foi notificada em todas as fases e não apresentou defesa; cautelar da Portaria SUFIS 52/2023 não se confunde com a sanção da Deliberação 274/2024; sem fatos novos.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, conhece, sem efeito suspensivo, nega provimento",
+     "ts": "0:45:00",
+     "confianca": "alta",
+     "justificativa": "notificação regular, ausência de defesa, sanção distinta da cautelar"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:48:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:48:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:48:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:48:58",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.4.5 a 1.4.10 (em bloco)",
+   "ts": "0:49:03",
+   "processo": "seis processos (números não lidos)",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio (Concer)",
+   "assunto": "Seis recursos contra decisões da SUROD (leitura dispensada; votados em bloco)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovados por unanimidade — recursos conhecidos e desprovidos",
+   "resumo_voto": "Voto do relator sem detalhamento na sessão: conhecer e negar provimento.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:49:36",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator em todos",
+     "ts": "0:50:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:50:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator em todos",
+     "ts": "0:50:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:50:14",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.4.11",
+   "ts": "0:50:34",
+   "processo": "50500.352323/2016-99",
+   "interessado": "Transbrasiliana Concessionária de Rodovia S.A.",
+   "assunto": "Recurso contra decisão da SUROD (leitura dispensada)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade — conhecido e desprovido",
+   "resumo_voto": "Voto breve: conhecer e negar provimento.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:50:57",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "0:51:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "de acordo",
+     "ts": "0:51:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "de acordo",
+     "ts": "0:51:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo",
+     "ts": "0:51:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.1.1 a 1.1.4 (em bloco)",
+   "ts": "0:51:49",
+   "processo": "quatro processos (números não lidos)",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio (Concer)",
+   "assunto": "Quatro recursos contra decisões da SUROD (leitura dispensada; votados em bloco)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovados por unanimidade — negado provimento",
+   "resumo_voto": "Voto do relator: conhecer e negar provimento nos termos das minutas de deliberação.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:52:15",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator em todos",
+     "ts": "0:52:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator em todos",
+     "ts": "0:52:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:52:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:52:36",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.1.5 a 1.1.9 (em bloco)",
+   "ts": "0:52:45",
+   "processo": "cinco processos (números não lidos)",
+   "interessado": "Transbrasiliana Concessionária de Rodovia S.A.",
+   "assunto": "Cinco recursos contra decisões da SUROD (leitura dispensada; votados em bloco)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovados por unanimidade — conhecidos, efeito suspensivo negado, sem provimento",
+   "resumo_voto": "Voto do relator: conhecer, negar efeito suspensivo e negar provimento.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, conhece, nega efeito suspensivo e provimento",
+     "ts": "0:53:05",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:53:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:53:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator em todos",
+     "ts": "0:53:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:53:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.1.10",
+   "ts": "0:53:38",
+   "processo": "50500.362745/2023-00",
+   "interessado": "SUROC",
+   "assunto": "Relatório final da audiência pública 5/2024 e alteração da Resolução 5.998/2022 (regulamento do transporte rodoviário de produtos perigosos)",
+   "tema": [
+    "transporte rodoviário de cargas (produtos perigosos)",
+    "regulação normativa",
+    "participação social"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Projeto da agenda regulatória 2023/2024 para corrigir inconsistências formais e técnicas da resolução (originada da AP 3/2022). Audiência com sessão híbrida em 24/06/2024 e contribuições de 11/06 a 25/07/2024; 56 protocolos, 355 contribuições (a legenda diz «13 355»). Alterações de ordem técnica ou redacional: harmonização do art. 8º, tratamento igualitário de quantidade limitada por embalagem interna, inclusão dos números ONU 3480 e 3481, quantidade limitada nos casos de transporte conjunto. PFANTT favorável.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aprova o relatório final e a alteração da resolução",
+     "ts": "0:58:33",
+     "confianca": "alta",
+     "justificativa": "adequação normativa; elogia a SUROC e o alinhamento a práticas internacionais"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:59:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:59:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:59:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:59:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.1",
+   "ts": "1:00:00",
+   "processo": "50500.284423/2022-2",
+   "interessado": "SUROD",
+   "assunto": "Abertura de audiência pública sobre a minuta de resolução que aprova o projeto de regulamentação do sistema de livre passagem (free flow) nas rodovias federais concedidas",
+   "tema": [
+    "pedágio free flow",
+    "concessões rodoviárias",
+    "regulação normativa",
+    "participação social",
+    "sandbox / inovação"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Free flow como cobrança com identificação automática, sem praças, para maior justiça tarifária (pagar pelo trecho efetivamente percorrido), menos congestionamento, acidentes e poluição. Contexto: Lei 14.157/2021, Resolução Contran 984/2022 (revogada recentemente pela Res. Contran 1.03/2024 segundo a legenda), sandbox regulatório na BR-101/RJ iniciado em março de 2023 (pórticos em Paraty, Itaguaí e Mangaratiba). Reunião participativa (14/02 a 15/03/2024, sessão em 7/03) recebeu 342 contribuições, 43% acolhidas total ou parcialmente. O relator critica iniciativas legislativas que, segundo ele, ameaçam o free flow, e convida legisladores a contribuir na audiência.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, abre a audiência pública",
+     "ts": "1:06:29",
+     "confianca": "alta",
+     "justificativa": "projeto corretamente instruído; free flow como justiça tarifária e inovação; segurança jurídica e regulatória",
+     "tom": "firme"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "1:06:59",
+     "confianca": "alta",
+     "justificativa": "minuta madura após o sandbox; workshop na semana; elogia a liderança de Luciano"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "1:08:30",
+     "confianca": "alta",
+     "justificativa": "inovação via sandbox e revolução regulatória/comportamental; parceria com a ABCR"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "1:12:37",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "1:12:41",
+     "confianca": "alta",
+     "justificativa": "reforça convite a parlamentares para a audiência pública"
+    }
+   ]
+  },
+  {
+   "id": "extrapauta 1",
+   "ts": "1:14:20",
+   "processo": "50500.181143/2024-26",
+   "interessado": "SUROD / Eco050 Concessionária de Rodovias S.A.",
+   "assunto": "Abertura de audiência pública sobre a proposta preliminar de revisão quinquenal do contrato de concessão (Edital 1/2013) da Eco050",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "participação social"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Proposta preliminar apresentada pela concessionária em 18/11/2024 conforme a Res. 6.032/2023 (RC3). Tratamento equivalente à classe B, sem limite de valores; 49 pleitos analisados, 11 acolhidos (investimentos: conectividade 4G, áreas de escape e alteração de parâmetros de desempenho do pavimento nos termos da IN 34/2024, com 360 dias para adesão ao RCR). Procuradoria admitiu reduzir o prazo de contribuições de 45 para 15 dias, porque os investimentos já passaram por participação social e afetam segurança viária e fluidez.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, abre a audiência pública",
+     "ts": "1:14:25",
+     "confianca": "alta",
+     "justificativa": "investimentos essenciais para a segurança viária, já debatidos em reuniões participativas; prazo de 15 dias juridicamente viável"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "1:21:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "1:22:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "1:22:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "1:22:07",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "extrapauta 2",
+   "ts": "1:22:48",
+   "processo": "50500.183054/2024-1",
+   "interessado": "SUROD / Concessionária Nova Rota do Oeste S.A.",
+   "assunto": "Abertura de audiência pública sobre a proposta preliminar de revisão quinquenal do contrato de concessão (Edital 3/2013) da BR-163/MT",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "participação social"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Proposta apresentada em 21/11/2024; nove investimentos acolhidos (conectividade 4G na BR-163/MT, áreas de escape na Serra de São Vicente e alteração de parâmetros de pavimento, IN 34/2024), com tratamento equivalente à classe B; prazo de contribuições reduzido a 15 dias com anuência jurídica. Houve queda de conexão do relator durante a leitura.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, abre a audiência pública",
+     "ts": "1:23:20",
+     "confianca": "alta",
+     "justificativa": "mesmos fundamentos do item anterior"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "1:30:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "1:31:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "1:31:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "1:31:06",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.1",
+   "ts": "1:31:32",
+   "processo": "50500.581185/2024-6 (aprox.)",
+   "interessado": "SUCON",
+   "assunto": "Relatório final da audiência pública 4/2024 e minuta de resolução do Programa de Sustentabilidade para rodovias e ferrovias reguladas pela ANTT, regulamentando critérios de emissão de debêntures (art. 5º da Portaria MT 689/2024)",
+   "tema": [
+    "sustentabilidade",
+    "concessões rodoviárias",
+    "ferrovias",
+    "reequilíbrio contratual",
+    "regulação normativa",
+    "participação social"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Sustentabilidade passou a valor da agência e vincula objetivos estratégicos aos ODS. Resolução regulamenta as Portarias MT 622 (reequilíbrio rodoviário) e 689 (debêntures). Nove Parâmetros de Desempenho de Sustentabilidade (PDS), inclusive o novo PDS9 de adaptação e resiliência da infraestrutura, e Índice de Desenvolvimento de Sustentabilidade (IDS, evolução do IDA). Três níveis graduais: nível 1 (PDS1 e ao menos um PDS de comunidades, mais um de responsabilidade ambiental no rodoviário) dá elegibilidade para debêntures sem reequilíbrio; nível 2 (todos os PDS) prevê reequilíbrio equivalente a 2% no impacto tarifário; nível 3 (adicionalidade) com reequilíbrio calculado, respeitando modicidade tarifária. Em ferrovias, uso do saldo remanescente de outorga; autorizações não têm reequilíbrio. Adesão voluntária por termos aditivos. Dois comitês (rodoviário e ferroviário) de oito membros, quatro do poder concedente e quatro do setor regulado. AP 4/2024 teve 214 contribuições (52 acolhidas total ou parcialmente; 12 apenas esclarecimentos).",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, aprova o relatório final e a resolução",
+     "ts": "1:53:20",
+     "confianca": "alta",
+     "justificativa": "agenda pragmática de financiabilidade da infraestrutura e adaptação climática; cooperação com Ministério dos Transportes, ABCR, ANTF, Movinfra, CNT",
+     "tom": "entusiasta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o relator",
+     "ts": "1:53:54",
+     "confianca": "alta",
+     "justificativa": "dia simbólico (COP 29/COP 30 e evento Infra ESG na B3); fruto de diálogo com o setor"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "1:57:07",
+     "confianca": "alta",
+     "justificativa": "elogia liderança ESG de Felipe"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "1:58:05",
+     "confianca": "alta",
+     "justificativa": "norma doutrinária e vanguardista; efeitos práticos nos contratos"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "1:59:35",
+     "confianca": "alta",
+     "justificativa": "agradece liderança e parceria com o Ministério"
+    }
+   ]
+  },
+  {
+   "id": "1.3.2 a 1.3.5 (em bloco)",
+   "ts": "2:01:40",
+   "processo": "quatro processos (números não lidos)",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio (Concer)",
+   "assunto": "Quatro recursos contra decisões da SUROD (leitura dispensada; votados em bloco)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovados por unanimidade — recursos conhecidos e indeferidos",
+   "resumo_voto": "Voto similar em todos: conhecer os recursos e no mérito indeferir.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, conhece e indefere",
+     "ts": "2:02:38",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "2:02:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha todos os votos",
+     "ts": "2:03:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator na íntegra",
+     "ts": "2:03:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "2:03:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.6 e 1.3.7 (em bloco)",
+   "ts": "2:01:40",
+   "processo": "dois processos (números não lidos)",
+   "interessado": "Transbrasiliana Concessionária de Rodovia S.A.",
+   "assunto": "Dois recursos contra decisões da SUROD (leitura dispensada; votados em bloco)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovados por unanimidade — conhecidos e indeferidos",
+   "resumo_voto": "Mesmo voto do bloco anterior: conhecer e indeferir.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, conhece e indefere",
+     "ts": "2:02:38",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "2:02:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha todos os votos",
+     "ts": "2:03:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator na íntegra",
+     "ts": "2:03:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "2:03:10",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "1.4.2",
+   "relator": "Lucas Asfor",
+   "motivo": "audiência pública da malha Oeste; relator precisa analisar melhor",
+   "ts": "0:12:42"
+  },
+  {
+   "id": "1.4.4",
+   "relator": "Lucas Asfor",
+   "motivo": "erro material no extrato de publicação",
+   "ts": "0:13:00"
+  },
+  {
+   "id": "1.1.11",
+   "relator": "Guilherme Sampaio",
+   "motivo": "retirado de pauta pelo relator",
+   "ts": "0:13:18"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo de vários itens estão truncados ou incertos (marcados aprox.).",
+  "A legenda menciona também a «saída de pauta do item 1.1.1», mas o bloco 1.1.1 a 1.1.4 foi votado depois; interpretado como repetição de 1.1.11.",
+  "Processos dos blocos de recursos (Concer, Transbrasiliana) não tiveram números lidos nem conteúdo exposto; ts de votos são aproximados.",
+  "Percentuais e valores do item 1.3.1 (2% de reequilíbrio, 214 contribuições) seguem a fala do relator, mas a legenda pode errar números.",
+  "Resolução Contran citada em 1.2.1 aparece como 984 e «103/2024» na legenda; incerto."
+ ]
+}

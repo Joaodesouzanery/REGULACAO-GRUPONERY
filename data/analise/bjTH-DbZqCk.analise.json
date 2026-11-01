@@ -1,0 +1,1091 @@
+{
+ "meta": {
+  "video_id": "bjTH-DbZqCk",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores e do relator aproximados (interpolados a partir do anúncio de aprovação)",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "986",
+  "data": "2024-07-11",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Guilherme Sampaio",
+   "Felipe Queiroz",
+   "Lucas Asfor"
+  ],
+  "ausentes": [
+   "Luciano Lourenço"
+  ],
+  "observacoes": [
+   "Luciano Lourenço ausente por férias.",
+   "Encerrada às 15h51 de 11/07/2024.",
+   "Dois processos extrapauta incluídos por unanimidade: Nobre Transporte e Turismo (relator Felipe Queiroz, voto-vista de Rafael Vitale) e atualização do piso mínimo de frete (relator Guilherme Sampaio).",
+   "Todos os itens deliberados aprovados por unanimidade; 3 itens retirados de pauta.",
+   "Quintos termos aditivos de Carajás e Vitória-Minas (1.1.4 e 1.1.5): relator originário Felipe Queiroz, voto-vista de Rafael Vitale.",
+   "Felipe Queiroz faz manifestação sobre a paralisação dos servidores das agências em 04/07/2024 e a valorização das carreiras de infraestrutura, apoiada por Rafael Vitale."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1.1",
+   "ts": "0:04:05",
+   "processo": "50500.402963?/2010-8 (parcial na legenda)",
+   "interessado": "SEB Consultoria e Projetos Ltda (legenda: «S em»)",
+   "assunto": "Recurso administrativo contra sanção de impedimento de licitar e contratar com a União por 4 meses, por não manter propostas em pregão eletrônico (subitens 8.10 e 9.1 do edital)",
+   "tema": [
+    "institucional",
+    "fiscalização e sanções"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece e nega provimento: nota técnica 4217/2024 entende que as irregularidades no pregão não configuram fraude ou inidoneidade e a sanção de primeira instância (despacho DG de 30/11/2023) é adequada; as demais empresas não recorreram.",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:06:26",
+     "justificativa": "irregularidades não configuram fraude, mas justificam a sanção imposta",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com o relator",
+     "ts": "0:06:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "de acordo com o relator",
+     "ts": "0:06:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:06:43",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.1.2",
+   "ts": "0:06:51",
+   "processo": "50500.291364/2023",
+   "interessado": "Educa TV Produção Independente de Rádio e TV Ltda",
+   "assunto": "Recurso administrativo contra multa de R$ 15.600 e impedimento de licitar e contratar com a União por 9 meses, por não entregar relatórios semestrais de auditoria de imagem e de opinião (contrato 2/2022; despacho DG de 08/04/2024)",
+   "tema": [
+    "institucional",
+    "fiscalização e sanções"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece e nega provimento, mantendo a multa e os 9 meses de impedimento, aplicados com base na nota técnica 6376/2023 da SUEG.",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:09:15",
+     "justificativa": "descumprimento injustificado de obrigações contratuais",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com o relator",
+     "ts": "0:09:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:09:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:09:32",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.1.3",
+   "ts": "0:09:42",
+   "processo": "50500.368324/2023-84",
+   "interessado": "Encarregado pelo tratamento de dados pessoais",
+   "assunto": "Aprovação da Política de Proteção de Dados Pessoais (PPDP) da ANTT",
+   "tema": [
+    "institucional",
+    "regulação normativa"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova a PPDP elaborada pelo encarregado e avaliada pela Comissão de Apoio à Proteção de Dados Pessoais, alinhando a ANTT à LGPD, ao Decreto 10.641/2021 e à Portaria SGD/MGI 852/2023.",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, aprova a política",
+     "ts": "0:13:23",
+     "justificativa": "adequação à LGPD e às boas práticas de segurança e privacidade",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com o relator",
+     "ts": "0:13:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:13:36",
+     "justificativa": "destaca a relevância do tema com o lançamento do Passe Livre Digital, pelo volume de dados de cidadãos sob guarda da agência",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:13:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.1.4",
+   "ts": "0:13:54",
+   "processo": "50500.014219?/2024-1 (parcial)",
+   "interessado": "Vale S.A. (Estrada de Ferro Carajás)",
+   "assunto": "Celebração do quinto termo aditivo ao contrato de concessão da Estrada de Ferro Carajás para prorrogar prazos das obrigações não financeiras (art. 65 da Lei 14.273/2021); processo desdobrado em dois para deliberação separada",
+   "tema": [
+    "ferrovias",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Relator originário Felipe Queiroz (voto 91); Rafael Vitale havia pedido vista e acompanha integralmente as razões, propondo apenas o ajuste processual de deliberar os dois contratos em processos apartados, acolhido pelo relator.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, aprova o quinto termo aditivo e acolhe a sugestão do revisor",
+     "ts": "0:18:00",
+     "justificativa": "decisões em contratos de 30 anos exigem tempo de análise; ajuste dá segurança para atos futuros",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "voto-vista (revisor): acompanha integralmente o relator, com ajuste processual (dois processos)",
+     "ts": "0:18:49",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator originário, com o complemento do revisor",
+     "ts": "0:18:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha a sugestão do revisor e o relator",
+     "ts": "0:18:57",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.1.5",
+   "ts": "0:14:29",
+   "processo": "50500.01422?/2024 (parcial)",
+   "interessado": "Vale S.A. (Estrada de Ferro Vitória a Minas)",
+   "assunto": "Celebração do quinto termo aditivo ao contrato de concessão da Estrada de Ferro Vitória a Minas para prorrogar prazos das obrigações não financeiras (art. 65 da Lei 14.273/2021); processo desdobrado em dois para deliberação separada",
+   "tema": [
+    "ferrovias",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Relator originário Felipe Queiroz (voto 91); Rafael Vitale havia pedido vista e acompanha integralmente as razões, propondo apenas o ajuste processual de deliberar os dois contratos em processos apartados, acolhido pelo relator.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, aprova o quinto termo aditivo e acolhe a sugestão do revisor",
+     "ts": "0:18:00",
+     "justificativa": "decisões em contratos de 30 anos exigem tempo de análise; ajuste dá segurança para atos futuros",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "voto-vista (revisor): acompanha integralmente o relator, com ajuste processual (dois processos)",
+     "ts": "0:18:49",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator originário, com o complemento do revisor",
+     "ts": "0:18:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha a sugestão do revisor e o relator",
+     "ts": "0:18:57",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.1.6",
+   "ts": "0:19:13",
+   "processo": "50500.281729/2023-17",
+   "interessado": "EPR Minas Gerais S.A.",
+   "assunto": "Referendo da Deliberação 185, de 04/07/2024, que emitiu o ato de outorga do sistema rodoviário da BR-040/MG (Belo Horizonte a Juiz de Fora, edital 4/2023) e autorizou a assinatura do contrato, após reversão de liminar que impedia a assinatura",
+   "tema": [
+    "concessões rodoviárias",
+    "judicializacao",
+    "leilão / otimização"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Referenda a deliberação publicada em 05/07/2024 em regime de urgência; elogia as áreas técnicas e jurídicas que reverteram a liminar em poucos dias e agradece a Guilherme Sampaio, que liderou o projeto; assunção prevista em 06/08/2024.",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, referenda a Deliberação 185/2024",
+     "ts": "0:24:45",
+     "justificativa": "urgência para cumprir o cronograma do edital e garantir segurança jurídica",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha",
+     "ts": "0:24:54",
+     "justificativa": "agradece o trabalho conjunto de áreas finalísticas, PFE e alinhamento com Ministério dos Transportes e Infra S.A.; primeiro de cinco projetos em Minas Gerais",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha pela aprovação",
+     "ts": "0:24:58",
+     "justificativa": "parabeniza Guilherme Sampaio, a SUROD e a PFE",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:25:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "extra-1",
+   "ts": "0:25:16",
+   "processo": "50500.01401?/2021-47 (parcial; também lido como 04011/2021-47)",
+   "interessado": "Nobre Transporte e Turismo Ltda",
+   "assunto": "Inclusão de novos mercados em sua licença operacional (LOP 109) na condição de sub judice, por cumprimento de decisão em mandado de segurança",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Relator Felipe Queiroz (RDE 186, maio/2024); voto-vista de Rafael Vitale acompanha integralmente: autoriza os mercados sub judice em estrito cumprimento da decisão judicial, que impõe análise sem as novas regras da Res. 6.033/2023, em afronta à isonomia; a ANTT pediu efeito suspensivo da apelação e, se deferido, a outorga deve ser suspensa de imediato.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, aprova autorização dos mercados na condição sub judice",
+     "ts": "0:29:00",
+     "justificativa": "cumprimento de decisão judicial; crítica aos efeitos sistêmicos de decisões que comprometem a segurança jurídica e o marco do Monitriip",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "voto-vista (revisor): acompanha integralmente o relator",
+     "ts": "0:30:01",
+     "justificativa": "apelo ao Judiciário sobre os efeitos nocivos de decisões que afastam o novo marco regulatório",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:30:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:30:09",
+     "confianca": "media"
+    }
+   ],
+   "observacoes": "Processo extrapauta, inclusão aprovada por todos no início da sessão."
+  },
+  {
+   "id": "1.2.1",
+   "ts": "0:30:28",
+   "processo": "50500.36005?/2023-1 (parcial)",
+   "interessado": "Januária Transportes e Turismo Ltda",
+   "assunto": "Processo administrativo ordinário por não envio de dados do Monitriip; cassação do direito de operação da linha prefixo 12373 Cabeceiras (GO) – Brasília (DF) via Planaltina (GO)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aplica cassação: 122 viagens previstas sem envio de dados entre jan. e jul. de 2023; infração grave a requisito essencial de operação (art. 47 da Res. 4.770/2015).",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aplica cassação",
+     "ts": "0:32:40",
+     "justificativa": "requisito essencial e indispensável da operação; comissão processante e área técnica propuseram cassação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:32:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:32:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:32:57",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.3",
+   "ts": "0:33:11",
+   "processo": "50500.367356/2023-62",
+   "interessado": "Viação Teresópolis e Turismo Ltda",
+   "assunto": "Processo administrativo ordinário por não envio de dados do Monitriip; cassação da linha Teresópolis (RJ) – Além Paraíba (MG)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aplica cassação: 181 viagens previstas sem dados entre jan. e jul. de 2023.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aplica cassação",
+     "ts": "0:34:50",
+     "justificativa": "mesma violação do caso anterior; infração grave",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:34:59",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:35:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:35:07",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.4",
+   "ts": "0:35:14",
+   "processo": "50500.043693?/20?? (parcial na legenda)",
+   "interessado": "Expresso Jóia Transporte de Passageiros Ltda",
+   "assunto": "Processo administrativo ordinário por serviço não autorizado: uso de seção em Salto do Itararé (PR) para realizar transporte intermunicipal camuflado dentro de São Paulo, em prejuízo de transportadores com autorização estadual",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aplica multa de R$ 20.096,73 (art. 4º da Res. 233/2003), convertendo a cassação/suspensão de mercados a pedido da empresa, conforme precedentes do colegiado; infração ao art. 86, VI do Decreto 2.521/1998.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aplica multa em conversão de sanção",
+     "ts": "0:37:45",
+     "justificativa": "gravidade e aspectos concorrenciais; conversão em multa viável conforme precedentes",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:37:54",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:37:58",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:38:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "extra-2",
+   "ts": "0:38:08",
+   "processo": "50500.393248/2016-9 (parcial)",
+   "interessado": "SUROC",
+   "assunto": "Atualização pelo IPCA e pelo preço do diesel (ANP) dos coeficientes do piso mínimo de frete do Anexo 2 da Res. 5.867/2020 (art. 5º, §2º da Lei 13.703/2018)",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "regulação normativa"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova em regime de urgência a atualização das tabelas com IPCA acumulado de dez/2023 a maio/2024 (2,84%) e diesel de R$ 5,94/litro, mesma metodologia das resoluções 5.949/2021, 5.985/2022 e 6.022/2023; dispensa participação social e AIR.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aprova regime de urgência e dispensa de AIR e participação social",
+     "ts": "0:41:55",
+     "justificativa": "a lei autoriza a atualização por IPCA sem participação social; segue metodologia das revisões anteriores",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:42:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:42:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:42:12",
+     "confianca": "media"
+    }
+   ],
+   "observacoes": "Processo extrapauta, inclusão aprovada por todos no início da sessão."
+  },
+  {
+   "id": "1.3.1",
+   "ts": "0:42:52",
+   "processo": "50505.105490/2016-01 (parcial)",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (CONCER)",
+   "assunto": "Recurso voluntário da CONCER contra a decisão 306/2021 da SUROD que manteve multa por inexecução de obras e serviços obrigatórios do 10º ano de concessão (2013; ≈612,9 URT)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece do recurso e nega provimento: ausência de fatos novos ou argumentos aptos a elidir a penalidade.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:52:43",
+     "justificativa": "recorrente não apresenta fato novo; argumentos já analisados na defesa e no recurso administrativo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:52:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:52:56",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:53:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.2",
+   "ts": "0:42:52",
+   "processo": "50501.23084/2018-47 (parcial)",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (CONCER)",
+   "assunto": "Recurso voluntário da CONCER contra a decisão 37/2020 da SUROD que manteve multa por capital social subscrito e integralizado inferior a 20% dos investimentos (2018; ≈675 URT)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece do recurso e nega provimento: ausência de fatos novos ou argumentos aptos a elidir a penalidade.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:52:43",
+     "justificativa": "recorrente não apresenta fato novo; argumentos já analisados na defesa e no recurso administrativo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:52:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:52:56",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:53:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.3",
+   "ts": "0:42:52",
+   "processo": "50500.359600/2019-37",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (CONCER)",
+   "assunto": "Recurso voluntário da CONCER contra a decisão 493/2022 da SUROD que manteve multa por não entrega do relatório de monitoração no prazo (≈181,8 URT)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece do recurso e nega provimento: ausência de fatos novos ou argumentos aptos a elidir a penalidade.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:52:43",
+     "justificativa": "recorrente não apresenta fato novo; argumentos já analisados na defesa e no recurso administrativo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:52:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:52:56",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:53:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.4",
+   "ts": "0:42:52",
+   "processo": "50501.326326/2018-29",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (CONCER)",
+   "assunto": "Recurso voluntário da CONCER contra a decisão 263/2022 da SUROD que manteve multa por atraso no cronograma de 2017 (≈313 URT)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece do recurso e nega provimento: ausência de fatos novos ou argumentos aptos a elidir a penalidade.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:52:43",
+     "justificativa": "recorrente não apresenta fato novo; argumentos já analisados na defesa e no recurso administrativo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:52:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:52:56",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:53:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.5",
+   "ts": "0:42:52",
+   "processo": "50500.1?551/2013-59 (parcial)",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (CONCER)",
+   "assunto": "Recurso voluntário da CONCER contra a decisão 583/2023 da SUROD que manteve multa por atraso no cronograma de 2018 (≈440,1 URT)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece do recurso e nega provimento: ausência de fatos novos ou argumentos aptos a elidir a penalidade.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:52:43",
+     "justificativa": "recorrente não apresenta fato novo; argumentos já analisados na defesa e no recurso administrativo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:52:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:52:56",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:53:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.6",
+   "ts": "0:42:52",
+   "processo": "50505.00378/2021-70 (parcial)",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (CONCER)",
+   "assunto": "Recurso voluntário da CONCER contra a decisão 5?3/2023 da SUROD que manteve multa por inexecução de obras e serviços obrigatórios do 19º ano (≈189 URT)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece do recurso e nega provimento: ausência de fatos novos ou argumentos aptos a elidir a penalidade.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:52:43",
+     "justificativa": "recorrente não apresenta fato novo; argumentos já analisados na defesa e no recurso administrativo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:52:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:52:56",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:53:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.7",
+   "ts": "0:42:52",
+   "processo": "50500.371334/2019-11",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (CONCER)",
+   "assunto": "Recurso voluntário da CONCER contra a decisão 253/2022 da SUROD que manteve multa por atraso no cronograma de 2019 (≈385 URT)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece do recurso e nega provimento: ausência de fatos novos ou argumentos aptos a elidir a penalidade.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:52:43",
+     "justificativa": "recorrente não apresenta fato novo; argumentos já analisados na defesa e no recurso administrativo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:52:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:52:56",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:53:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.8",
+   "ts": "0:42:52",
+   "processo": "50500.371341/2019-12",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (CONCER)",
+   "assunto": "Recurso voluntário da CONCER contra a decisão 257/2022 da SUROD que manteve multa por atraso no cronograma de 2019 (≈192 URT)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece do recurso e nega provimento: ausência de fatos novos ou argumentos aptos a elidir a penalidade.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:52:43",
+     "justificativa": "recorrente não apresenta fato novo; argumentos já analisados na defesa e no recurso administrativo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:52:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:52:56",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:53:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.9",
+   "ts": "0:42:52",
+   "processo": "50500.041900/2020-04",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (CONCER)",
+   "assunto": "Recurso voluntário da CONCER contra a decisão 713/2022 da SUROD que manteve multa por atraso no cronograma de 2019 (≈22,8 URT)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece do recurso e nega provimento: ausência de fatos novos ou argumentos aptos a elidir a penalidade.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:52:43",
+     "justificativa": "recorrente não apresenta fato novo; argumentos já analisados na defesa e no recurso administrativo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:52:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:52:56",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:53:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.10",
+   "ts": "0:42:52",
+   "processo": "50500.041905/2020-29",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (CONCER)",
+   "assunto": "Recurso voluntário da CONCER contra a decisão 714/2022 da SUROD que manteve multa por não prestar informação solicitada pela ANTT (2021; ≈915 URT)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece do recurso e nega provimento: ausência de fatos novos ou argumentos aptos a elidir a penalidade.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:52:43",
+     "justificativa": "recorrente não apresenta fato novo; argumentos já analisados na defesa e no recurso administrativo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:52:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:52:56",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:53:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.4.1",
+   "ts": "0:58:39",
+   "processo": "50500.367295/2023-33",
+   "interessado": "Expresso Santa Marta",
+   "assunto": "Processo administrativo ordinário por não envio de dados do Monitriip; cassação da linha Barra do Garças (MT) – Anápolis (GO) e mercados",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aplica cassação: empresa não enviou dados, manteve falta de cooperação mesmo após a cautelar e tem reincidência genérica; medida extrema, mas necessária e proporcional.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, aplica cassação",
+     "ts": "1:00:54",
+     "justificativa": "contumácia no descumprimento de obrigação essencial; reincidência genérica",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "1:01:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "1:01:07",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "1:01:11",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.4.3",
+   "ts": "1:01:26",
+   "processo": "50500.055824/2016-8 (parcial)",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (CONCER)",
+   "assunto": "Recurso voluntário da CONCER contra a decisão 696/2014 (legenda) da SUROD que manteve multa por inexecução de obras em 2013 (recuperação de obras de arte especiais e alargamento de pontes e viadutos)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece do recurso e nega provimento: ausência de fatos novos ou argumentos aptos a elidir a penalidade.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "1:02:13",
+     "justificativa": "recorrente não apresenta fato novo; argumentos já analisados na defesa e no recurso administrativo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "1:02:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "1:02:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "1:02:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.4.4",
+   "ts": "1:02:35",
+   "processo": "50500.1220538/2013-166 (parcial)",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (CONCER)",
+   "assunto": "Recurso voluntário da CONCER contra a decisão 450/2022 da SUROD que manteve multa por inexecução de obras de 2010 (alargamento de pontes e viadutos)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece do recurso e nega provimento: ausência de fatos novos ou argumentos aptos a elidir a penalidade.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "1:03:23",
+     "justificativa": "recorrente não apresenta fato novo; argumentos já analisados na defesa e no recurso administrativo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "1:03:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "1:03:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "1:03:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.4.5",
+   "ts": "1:03:49",
+   "processo": "55008.779/2013-89 (parcial)",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (CONCER)",
+   "assunto": "Recurso voluntário da CONCER contra a decisão 79/2022 da SUROD que manteve multa por inexecução de obras de 2008 (acessos à cidade de Juiz de Fora)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece do recurso e nega provimento: ausência de fatos novos ou argumentos aptos a elidir a penalidade.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "1:04:39",
+     "justificativa": "recorrente não apresenta fato novo; argumentos já analisados na defesa e no recurso administrativo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "1:04:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "1:04:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "1:04:56",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "1.2.2 — Real Ma Cargas Ltda, Monitriip (proc. 50500.364992/2023-32)",
+   "relator": "Guilherme Sampaio",
+   "motivo": "retirado de pauta pelo relator (motivo não detalhado)",
+   "ts": "0:03:20"
+  },
+  {
+   "item": "1.3.11 — Autoviação Porto Rico Ltda (proc. 50500.364966/2023-12)",
+   "relator": "Felipe Queiroz",
+   "motivo": "retirado de pauta pelo relator (motivo não detalhado)",
+   "ts": "0:02:55"
+  },
+  {
+   "item": "1.4.2 — Viação Trans Araxá Ltda (proc. 50500.367313/2023-87)",
+   "relator": "Lucas Asfor",
+   "motivo": "retirado de pauta pelo relator (motivo não detalhado); voltou na RD 987",
+   "ts": "0:02:35"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo e valores de multa em URT parciais ou distorcidos; os rótulos «parcial» indicam isso.",
+  "Nos itens 1.3.1 a 1.3.10 a ligação entre cada processo e a respectiva infração/multa segue a ordem de leitura do relator e é inferida; os valores em URT são aproximados.",
+  "No piso mínimo do frete (extra-2) a legenda cita 2022 para a semana do preço do diesel (provavelmente 2024) e percentuais de impacto distorcidos (cerca de 1,6% a 1,8%); não registrados.",
+  "ts de votos de seguidores e do relator interpolados.",
+  "No extra-1 o processo é lido como 01401/2021-47 e 04011/2021-47; manter incerteza."
+ ]
+}
