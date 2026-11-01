@@ -1,0 +1,172 @@
+{
+ "meta": {
+  "video_id": "1eQGIHBQi-4",
+  "fonte": "legenda automática do YouTube; falantes inferidos pela legenda são imprecisos (a transcrição rotula o Diretor-Geral como «Guilherme Sampaio», mas o presidente da sessão é Rafael Vitale); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "934",
+  "data": "2022-06-23",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Davi Barreto",
+   "Guilherme Sampaio",
+   "Luciano Lourenço"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte pública encerrada às 15h06. Há um processo administrativo disciplinar (item 2.1.2, corregedoria, relatoria de Guilherme Sampaio) julgado ao final em sessão reservada, sem transmissão.",
+   "Voto-vista de Guilherme Sampaio no RNTRC acompanha quase integralmente o relator originário, com um acréscimo; Davi Barreto adere ao voto-vista."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1",
+   "ts": "0:00:42",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Aprovação da ata da reunião 933",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovada por unanimidade",
+   "resumo_voto": "Leitura dispensada.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:00:42",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "0:00:46",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "de acordo",
+     "ts": "0:00:48",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo",
+     "ts": "0:00:50",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:02:15",
+   "processo": "50500.048993/2022-51",
+   "interessado": "SUPAS",
+   "assunto": "Abertura de audiência pública da proposta de regulamentação do serviço regular de transporte rodoviário coletivo interestadual de passageiros sob o regime de autorização",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "regulação normativa",
+    "participação social"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Proposta de novo marco regulatório do serviço regular sob autorização, resultado de estudos desde 2018, com AIR (Res. 5.976/2022), tomada de subsídios 1/2022 e consolidação das normas em um único diploma; audiência pública de 08/07 a 22/08/2022.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aprova abertura da audiência",
+     "ts": "0:05:45",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo, acompanha o relator",
+     "ts": "0:06:05",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "de acordo",
+     "ts": "0:06:08",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo com o relator",
+     "ts": "0:06:10",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:12:15",
+   "processo": "50500.007093/2020-09 (parcial)",
+   "interessado": "Corregedoria",
+   "assunto": "Processo administrativo disciplinar (restrição de acesso)",
+   "tema": [
+    "institucional",
+    "processo disciplinar"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "julgado em sessão reservada, sem transmissão",
+   "resumo_voto": "Julgamento ao final da transmissão, com participação restrita à parte e ao seu procurador.",
+   "votos": []
+  },
+  {
+   "id": "2.1.3",
+   "ts": "0:06:54",
+   "processo": "50500.064598/2020-54 (parcial)",
+   "interessado": "SUROC",
+   "assunto": "Relatório final da AP 8/2020 e resolução sobre inscrição e manutenção do RNTRC; voto-vista de Guilherme Sampaio (DGS 001) ao voto DDD 108 de Davi Barreto (RD 922, 02/12/2021)",
+   "tema": [
+    "transporte rodoviário de cargas (RNTRC)",
+    "regulação normativa",
+    "fiscalização e sanções"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade nos termos do voto-vista",
+   "resumo_voto": "Guilherme, após diligências à SUFIS, à SUROC e à procuradoria, acompanhou o relator originário com um acréscimo e manteve a penalidade à pessoa física ou jurídica que contratar transporte remunerado de cargas de transportador não inscrito no RNTRC (inciso I do art. 19 da minuta), com vigência ajustada para adaptação do mercado. Davi aderiu integralmente ao voto-vista, abandonando sua proposta anterior.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator originário; adere ao voto-vista de Guilherme",
+     "ts": "0:11:45",
+     "justificativa": "construção jurídica trazida pelo voto-vista e pela procuradoria sustenta a manutenção da penalidade ao contratante",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "voto-vista: acompanha o relator com acréscimo de dispositivo, aprova",
+     "ts": "0:07:08",
+     "justificativa": "manutenção da penalidade ao contratante conforme parecer da procuradoria e manifestação da SUROC/SUFIS",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o voto-vista",
+     "ts": "0:12:01",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o voto-vista",
+     "ts": "0:12:05",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: números de processo, valores e nomes parciais ou distorcidos; os falantes são inferidos e o rótulo do Diretor-Geral na transcrição está errado.",
+  "O item 2.1.2 (PAD) é sigiloso: só se sabe a numeração e o processo, não há conteúdo nem resultado na parte pública; ts é o do encerramento da parte pública.",
+  "Ordem de leitura: 2.1.1, depois 2.1.3 (2.1.2 reservado); ts do 2.1.3 refere-se à abertura do voto-vista.",
+  "Votos de Luciano Lourenço e Rafael Vitale nos itens aprovados são do tipo acompanha o relator (confiança média).",
+  "Número de processo parcial na legenda."
+ ]
+}

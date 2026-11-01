@@ -1,8 +1,8 @@
 """Carrega data/analise/*.analise.json em data/regulacao.db (tabelas de schema2.sql) e normaliza diretores, temas e categorias de voto."""
 import json, glob, re, sqlite3, os
-DIRETORES = ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alex Azevedo", "Marcelo Fonseca", "Alessandro Baumgarten", "Amaral Filho", "Severino Medeiros", "Rafael Vitale", "Luciano Lourenço", "Davi Barreto"]
+DIRETORES = ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alex Azevedo", "Marcelo Fonseca", "Alessandro Baumgarten", "Amaral Filho", "Severino Medeiros", "Rafael Vitale", "Luciano Lourenço", "Davi Barreto", "Fábio Rogério", "Cristiano Della Giustina"]
 ALIAS = {"Amaral Filho": r"amaral", "Guilherme Sampaio": r"guilherme", "Felipe Queiroz": r"felipe", "Lucas Asfor": r"lucas",
-         "Alex Azevedo": r"alex", "Marcelo Fonseca": r"marcelo", "Alessandro Baumgarten": r"alessandro", "Severino Medeiros": r"severino", "Rafael Vitale": r"vital[eií]", "Luciano Lourenço": r"luciano", "Davi Barreto": r"davi"}
+         "Alex Azevedo": r"alex", "Marcelo Fonseca": r"marcelo", "Alessandro Baumgarten": r"alessandro", "Severino Medeiros": r"severino", "Rafael Vitale": r"vital[eií]", "Luciano Lourenço": r"luciano", "Davi Barreto": r"davi", "Fábio Rogério": r"f[áa]bio", "Cristiano Della Giustina": r"cristiano|giustina|justino"}
 def canon(s):
     s = (s or "").lower()
     for n, rx in ALIAS.items():

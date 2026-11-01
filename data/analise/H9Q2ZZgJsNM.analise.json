@@ -1,0 +1,69 @@
+{
+ "meta": {
+  "video_id": "H9Q2ZZgJsNM",
+  "fonte": "legenda automática do YouTube; falantes inferidos pela legenda são imprecisos (a transcrição rotula o Diretor-Geral como «Guilherme Sampaio», mas o presidente da sessão é Rafael Vitale); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "73ª extraordinária",
+  "data": "2022-07-11",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Guilherme Sampaio",
+   "Davi Barreto"
+  ],
+  "ausentes": [
+   "Luciano Lourenço (férias de 11 a 15/07/2022)"
+  ],
+  "observacoes": [
+   "Reunião extraordinária com um único item, encerrada às 17h29.",
+   "O Diretor-Geral é Rafael Vitale; o rótulo de falante «Guilherme Sampaio» na legenda inclui a fala de abertura do presidente."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1.1",
+   "ts": "0:00:55",
+   "processo": "50511.0150/2022-22 (parcial)",
+   "interessado": "SUINFRA Sul",
+   "assunto": "Abertura de audiência pública complementar sobre minutas de edital e contrato, PER e estudos de viabilidade da concessão da BR-381/MG (Governador Valadares - Belo Horizonte, ≈ 304 km)",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização",
+    "participação social"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Após o cancelamento do leilão em fev/2022 por decisão de política pública do Ministério da Infraestrutura, o trecho foi remodelado para ficar mais atrativo (só a BR-381 MG, 304 km), sem mudar as premissas jurídicas; audiência pública complementar e restrita às alterações, com prazo reduzido (18/07 a 08/08) e sessão presencial e virtual em Brasília em 03/08/2022.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aprova abertura da audiência complementar",
+     "ts": "0:06:50",
+     "justificativa": "modelagem ajustada torna a concessão mais atrativa; participação social limitada às mudanças",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:07:01",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:07:04",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: números de processo, valores e nomes parciais ou distorcidos; os falantes são inferidos e o rótulo do Diretor-Geral na transcrição está errado.",
+  "Número do processo e datas finais da audiência estão distorcidos pela legenda (a transcrição fala em 2002 por 2022); datas citadas conforme o texto.",
+  "Diretor Luciano Lourenço ausente por férias; ts de voto do relator é aproximado."
+ ]
+}

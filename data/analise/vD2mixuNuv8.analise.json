@@ -1,0 +1,386 @@
+{
+ "meta": {
+  "video_id": "vD2mixuNuv8",
+  "fonte": "legenda automática do YouTube; falantes inferidos pela legenda são imprecisos (a transcrição rotula o Diretor-Geral como «Guilherme Sampaio», mas o presidente da sessão é Rafael Vitale); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "927",
+  "data": "2022-03-10",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Davi Barreto",
+   "Guilherme Sampaio"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 16h35 (parte pública). Processos reservados julgados ao final em sessão restrita: 2.1.3 Yawa Transporte e 2.1.4 Interbrasil (PADs, relatoria do Diretor-Geral), 2.2.6 Global Tour (PAD, Davi Barreto) e 2.3.3 recurso da Autopista Fluminense (Guilherme Sampaio).",
+   "Atas das reuniões 926 e extraordinária 70 (22/02/2022) aprovadas por unanimidade.",
+   "Destaque: pedido de vista do Diretor-Geral no processo de outorga da BR-163/MT-PA (Via Brasil) e sustentação oral da OAB-MT na relicitação da Rota do Oeste."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1",
+   "ts": "0:00:54",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Aprovação das atas da reunião 926 e da reunião extraordinária 70",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovadas por unanimidade",
+   "resumo_voto": "Leitura dispensada.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:00:45",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "0:00:48",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo",
+     "ts": "0:00:50",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:02:36",
+   "processo": "50500.036029/2021-08 (parcial)",
+   "interessado": "SUINFRA Sul / Autopista Planalto Sul (Arteris)",
+   "assunto": "Abertura de audiência pública sobre a proposta de primeira e segunda revisões quinquenais do contrato de concessão (edital 6/2007, BR-116 PR/SC)",
+   "tema": [
+    "concessões rodoviárias",
+    "participação social",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Concessionária na faixa referencial N3 (nota global de qualificação ~32,5), o que limita a 30% do custo das obras o que entra na revisão; foram classificadas 19 das 32 obras propostas (duplicações, retornos, iluminação, radares), com impacto tarifário estimado de cerca de R$ 1,58 em jul/2007 (≈ R$ 3,61 atualizado, algo como 52% da TBP vigente, valores referenciais sujeitos a revisão após a audiência).",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, aprova abertura da audiência",
+     "ts": "0:07:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:07:55",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com o relator",
+     "ts": "0:08:00",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:08:10",
+   "processo": "50500.003753/2022-28",
+   "interessado": "SUDEG",
+   "assunto": "Referendo da Res. 5.961/2022, que revogou o art. 39 do anexo da Res. 5.918/2020 (programa de gestão remota de trabalho), e fim das unidades remotas de lotação",
+   "tema": [
+    "institucional",
+    "gestão de pessoas"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "referendada por unanimidade",
+   "resumo_voto": "Unidades remotas de lotação criadas na pandemia não têm previsão para a administração federal; revogou-se a portaria DG 395/2020 e o art. 39 que obrigava domicílio na região da unidade; a resolução, editada pelo Diretor-Geral, foi submetida a referendo (art. 7º do regimento interno).",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, referenda",
+     "ts": "0:11:15",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:11:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com o relator",
+     "ts": "0:11:22",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:11:32",
+   "processo": "50500.133325/2020-67 (parcial)",
+   "interessado": "SUINFRA / Via Brasil BR-163 Concessionária de Rodovias S.A.",
+   "assunto": "Edição de ato de outorga e autorização para assinatura do contrato de concessão da BR-163/230 (MT-PA)",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "vista concedida ao Diretor-Geral",
+   "resumo_voto": "Davi apresentou voto favorável: leilão de 08/07/2021, homologação pela Deliberação 319/2021, cumprimento das condições prévias (garantia, SPE, capital, seguros), sem decisão judicial impeditiva. O Diretor-Geral pediu vista para aprofundar a análise e comprometeu-se a devolver o mais breve possível.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova o ato de outorga",
+     "ts": "0:15:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "pede vista",
+     "ts": "0:15:30",
+     "justificativa": "necessidade de aprofundar a compreensão dos detalhes do processo; compromisso de devolver rapidamente",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "sem manifestação (processo suspenso por vista)",
+     "ts": "0:15:50",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:16:04",
+   "processo": "50500.012753/2016 (parcial)",
+   "interessado": "SUGEP/SUARTE",
+   "assunto": "Abertura de audiência pública sobre a minuta de resolução do sandbox regulatório (ambiente regulatório experimental)",
+   "tema": [
+    "sandbox / inovação",
+    "regulação normativa",
+    "participação social"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Proposta do planejamento estratégico e da agenda regulatória; consulta interna (set/2021), reuniões com ANEEL, Anatel, BCB, CVM e SUSEP e tomada de subsídios; ambiente em que regras são flexibilizadas para testar produtos e serviços inovadores; abertura de audiência pública sobre a minuta.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova abertura da audiência",
+     "ts": "0:21:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com o relator",
+     "ts": "0:21:20",
+     "justificativa": "a agência está na vanguarda ao tratar de experimentação regulatória",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:21:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3",
+   "ts": "0:21:50",
+   "processo": "50500.117653/2020-105 (parcial)",
+   "interessado": "SUINFRA, SUFER (diretoria colegiada)",
+   "assunto": "Alteração da Res. 5.818/2018 (delegação de competências a superintendências) e revogação das Deliberações 669 e 670/2019 (enquadramento em regime especial de incentivos e debêntures incentivadas)",
+   "tema": [
+    "regulação normativa",
+    "institucional"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Portarias do Ministério da Infraestrutura (105 e 106/2021) bastam para disciplinar a habilitação ao Reidi e a emissão de debêntures incentivadas, por isso revogam-se as deliberações da ANTT; amplia-se o rol de matérias delegadas (ex.: habilitação para vale-pedágio, declaração de utilidade pública, autorizações de fretamento e de serviço regular) para ganhar eficiência.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:26:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com o relator",
+     "ts": "0:26:40",
+     "justificativa": "considerou oportuna a revisão do rol de delegações",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:26:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.4",
+   "ts": "0:26:56",
+   "processo": "50500.116930/2021-21 (parcial)",
+   "interessado": "SUINFRA / Concessionária Rota do Oeste (BR-163/MT)",
+   "assunto": "Requerimento de qualificação da concessão para relicitação (Decreto 9.957/2019): viabilidade técnica e jurídica, encaminhamento ao Ministério da Infraestrutura; admissão da OAB-MT como amicus curiae. Com sustentação oral da OAB-MT",
+   "tema": [
+    "concessões rodoviárias",
+    "relicitação",
+    "participação social",
+    "fiscalização e sanções"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Atestada a inexecução contratual e a incapacidade de cumprir o contrato (RD 919 já instaurara a caducidade em 21/10/2021); procuradoria condicionara a viabilidade jurídica a reconhecer o descumprimento e a manter os serviços essenciais, cuja definição fica para o termo aditivo, como nos precedentes (Via 040, MS Via, Concebra, Autopista Fluminense). A caducidade segue em paralelo. Deferido o ingresso da OAB-MT como amicus curiae. A advogada Gisela Alves Cardoso defendeu a devolução amigável como caminho mais rápido, com preocupação com as vidas perdidas e com a manutenção da rodovia.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, atesta viabilidade técnica e jurídica da relicitação e admite a OAB-MT",
+     "ts": "0:47:50",
+     "justificativa": "descumprimento amplamente demonstrado; detalhamento dos serviços essenciais fica para o termo aditivo; urgência de retomar os investimentos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:49:05",
+     "justificativa": "cumprimentou a sustentação oral da OAB-MT",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:49:17",
+     "justificativa": "compromisso com celeridade, coerência e razoabilidade nas próximas fases, com condições mínimas de trafegabilidade",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.2.5",
+   "ts": "0:49:57",
+   "processo": "50500.016569/2021-67 (parcial)",
+   "interessado": "SUFER / SUARTE",
+   "assunto": "Resolução para aplicar as instruções complementares do regulamento de produtos perigosos ao transporte ferroviário, com dispensa de AIR e de audiência pública",
+   "tema": [
+    "ferrovias",
+    "regulação normativa",
+    "transporte de produtos perigosos"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "A consolidação normativa (Res. 5.947/2021) afastou a aplicação ao modal ferroviário; edita-se resolução transitória para restabelecer a fiscalização, e dispensa-se AIR/audiência pública por tratar-se de solução provisória até a revisão na agenda regulatória; procuradoria considerou a dispensa facultativa.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:53:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com o relator",
+     "ts": "0:53:55",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:54:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:54:11",
+   "processo": "50515.086475/2021-9 (parcial)",
+   "interessado": "SUPAS",
+   "assunto": "Obrigatoriedade de porte do quadro de tarifas nos veículos em serviço de transporte rodoviário interestadual de passageiros",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "regulação normativa"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Com o regime de liberdade de preços, a obrigação do quadro impresso (Decreto 2.521/1998) é obsoleta e sem razoabilidade; as informações (linha, seção, preço máximo) estão acessíveis por outros meios; resolução exclui a obrigatoriedade de porte da cópia do quadro de tarifas nos veículos.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aprova",
+     "ts": "0:58:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo, acompanha",
+     "ts": "0:58:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo com o relator",
+     "ts": "0:58:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:58:23",
+   "processo": "50503.185082/2016-74 (parcial)",
+   "interessado": "SUDEG / empresas de limpeza (Pregão Eletrônico 14/2016, regional RJ)",
+   "assunto": "Recursos de oito empresas contra penalidades aplicadas no Pregão 14/2016 (limpeza e conservação da unidade regional do Rio de Janeiro)",
+   "tema": [
+    "fiscalização e sanções",
+    "licitações e contratos"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "recursos providos parcialmente, por unanimidade",
+   "resumo_voto": "Reforma parcial da decisão: mantém impedimento de licitar e contratar apenas com a ANTT por três meses (art. 87, III, Lei 8.666/93) e multa em torno de R$ 8,9 mil; a nota técnica sugeria retirar as multas, mas o relator considerou razoáveis as sanções diante das condutas e da vinculação ao edital.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, reforma parcialmente a decisão",
+     "ts": "1:02:20",
+     "justificativa": "razoabilidade e proporcionalidade, vinculação ao instrumento convocatório",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "1:02:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "1:02:50",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: números de processo, valores e nomes parciais ou distorcidos; os falantes são inferidos e o rótulo do Diretor-Geral na transcrição está errado.",
+  "Resultados e votos dos processos reservados (2.1.3 Yawa, 2.1.4 Interbrasil, 2.2.6 Global Tour, 2.3.3 recurso da Autopista Fluminense) não aparecem na transmissão.",
+  "No 2.2.1 o voto de Guilherme Sampaio não foi registrado antes do pedido de vista; a retomada do processo (voto-vista) ocorre em reunião posterior.",
+  "Votos de Davi Barreto e Rafael Vitale nos itens sem manifestação individual são aproximados.",
+  "Processos e valores estão com numeração parcial; o ts dos votos de seguidores é estimado.",
+  "Luciano Lourenço e Fábio Rogério não são mencionados nesta reunião; presentes apenas três diretores."
+ ]
+}
