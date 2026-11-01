@@ -1,0 +1,40 @@
+{
+  "meta": {"video_id": "eoDx4_Me7cY", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1003", "data": "2025-03-13", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Encerrada às 14h50 de 13/03/2025.", "2 itens deliberados, ambos unânimes; no 1.1.2 houve voto-vista divergente de Guilherme Sampaio e o relator originário (Lucas Asfor) mudou seu voto para acompanhar a divergência.", "O Diretor-Geral destaca a harmonia do colegiado e a convergência construída entre os diretores."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:01:14",
+      "processo": "50500.012277/2025-53", "interessado": "Superintendência de Serviços de Transporte Rodoviário de Passageiros (SUPAS)",
+      "assunto": "Referendo da Deliberação 86/2025, que adiou por 6 meses os efeitos da Deliberação 78/2025 (reajuste tarifário de 2,99% no serviço semiurbano interestadual entre o DF e o Entorno)",
+      "tema": ["ônibus (semiurbano)", "reajuste tarifário", "institucional"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — deliberação referendada",
+      "resumo_voto": "A pedido do Ministério dos Transportes (22/02/2025), após solicitação de Goiás e do DF, o reajuste foi adiado por 6 meses (a contar de 23/02/2025) para criar consórcio interfederativo de gestão integrada do transporte no Entorno, com subsídio tarifário. Fundamentos: Lei 10.233/2001 (delegação por convênio) e LC 94/1998 (RIDE-DF). Condições da Procuradoria: caráter excepcional e temporário, sem precedente; reajuste aplicado ao fim do prazo ou antes, se o consórcio se mostrar inviável; cronograma com marcos intermediários e relatórios periódicos à diretoria.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, referenda", "ts": "0:01:14", "justificativa": "possibilidade jurídica do consórcio; vantagens de gestão integrada, subsídio e fiscalização mais próxima", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "0:08:48", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:08:52", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.2", "ts": "0:09:00",
+      "processo": "50505.0330132/2019-50 (legenda)", "interessado": "Transágua Turismo Ltda.",
+      "assunto": "Recurso contra a Decisão SUPAS 31/2024 (exclusão dos mercados São Paulo–Goiânia e São Paulo–Uberaba da LOP 10084) e possibilidade de convalidar a Portaria SUPAS 936/2020",
+      "tema": ["ônibus (transporte regular, TAR)", "regulação normativa", "judicializacao"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — recurso conhecido e desprovido; mantida a Decisão SUPAS 31/2024 (voto-vista de Guilherme Sampaio)",
+      "resumo_voto": "Em abril de 2024 o relator (Lucas) propôs convalidar a portaria e anular a decisão; Guilherme pediu vista quanto ao conhecimento e às preliminares. Voto-vista: concorda com o conhecimento mas diverge no mérito, pois os mercados foram outorgados em desacordo com os arts. 15 e 16 da Res. 4770/2015 (incompatíveis com a classe da empresa), vício de motivo, insanável e insuscetível de convalidação (Lei 9.784/1999, art. 55). Análise consequencialista: não haverá desatendimento (mercados com outros operadores; a empresa não envia dados desde abril de 2024) e manter o ato geraria insegurança regulatória no início do marco da Res. 6033/2023.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "voto-vista: conhece o recurso e nega provimento (diverge do relator no mérito)", "ts": "0:09:37", "justificativa": "vício de motivo não convalidável; segurança jurídica e regulatória; sem desatendimento ao interesse público", "tom": "técnico, doutrinário", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o voto-vista", "ts": "0:15:14", "justificativa": "reconhece o aprofundamento de ambos", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "relator originário; evolui e acompanha a divergência", "ts": "0:16:00", "justificativa": "o vício de motivo não se sana por novo ato; revê o voto inicial após debate interno", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática com muitos erros (números, siglas e nomes); número do processo do item 1.1.2 inconsistente.", "O reajuste do item 1.1.1 aparece como «2,99%» e também como «2,91%» na legenda; adotado 2,99%, que é o valor repetido.", "O ts do voto de Lucas Asfor no 1.1.2 é aproximado."]
+}

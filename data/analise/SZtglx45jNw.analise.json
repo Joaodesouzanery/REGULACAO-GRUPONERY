@@ -1,0 +1,53 @@
+{
+  "meta": {"video_id": "SZtglx45jNw", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "93 (extraordinária)", "data": "2025-07-15", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Encerrada às 17h39 de 15/07/2025 (terça-feira).", "3 itens deliberados, todos unânimes: consulta pública e termo de referência do sandbox para o processo competitivo da Autopista Fernão Dias (BR-381) e edital unificado dos lotes 4 e 5 do Paraná.", "No encerramento o Diretor-Geral registra que os dois editais do Paraná são o sexto e o sétimo do ano, com leilões previstos para 27 e 30 de outubro (a legenda também cita 23 e 30), e que a agência já iguala a média histórica do ano anterior."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:02:14",
+      "processo": "50500.033938/2025-18", "interessado": "Concessionária Autopista Fernão Dias S.A.",
+      "assunto": "Abertura de consulta pública sobre a readaptação e otimização do contrato da BR-381 MG/SP (569 km) e, no sandbox regulatório, sobre documentos aplicáveis a outros processos de otimização submetidos à SecexConsenso do TCU",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "sandbox / inovação", "participação social"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Decorre da aprovação pelo TCU (acórdão de 18/06/2025) do termo de autocomposição da Fernão Dias. O processo competitivo é a alienação de 100% do controle acionário da concessionária, não um leilão de outorga; a ANTT supervisiona e dá anuência prévia. Aproveita a experiência dos sandboxes anteriores (ECO101, MS Via, Autopista Fluminense). Submete a consulta pública as minutas de edital, termo aditivo, anexos, PER e modelo econômico-financeiro, e propõe comissão de outorga.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova", "ts": "0:02:14", "justificativa": "transparência e participação social antes do processo competitivo; aperfeiçoamento regulatório a partir dos sandboxes anteriores", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:07:35", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:07:43", "justificativa": "destaca a completude e a didática do voto", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.2", "ts": "0:08:01",
+      "processo": "50500.034540/2025-91", "interessado": "Concessionária Autopista Fernão Dias S.A.",
+      "assunto": "Termo de referência do ambiente regulatório experimental (Res. 5999/2022) para o processo competitivo de transferência do controle acionário da Autopista Fernão Dias",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "sandbox / inovação"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Com base na análise da comissão do sandbox, aprova a assinatura do termo de referência, em cumprimento às cláusulas do termo de autocomposição (com interveniência do TCU), para viabilizar o processo competitivo.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova", "ts": "0:08:01", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:09:30", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:09:35", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:09:45",
+      "processo": "50500.031815/2025", "interessado": "Superintendência de Concessão da Infraestrutura (SUCON)",
+      "assunto": "Edital de concessão unificado dos lotes 4 e 5 das Rodovias Integradas do Paraná (PR Vias)",
+      "tema": ["concessões rodoviárias", "leilão / otimização"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Lote 4: 627 km, 9 praças (4 existentes, 5 novas), mais de 230 km de duplicação, tarifas básicas de 0,16 (pista simples) e 0,23 (dupla), capex acima de R$ 10 bi e opex de R$ 7 bi. Lote 5: 432 km, 5 praças (3 existentes, 2 novas), mais de 230 km de duplicação, tarifas de 0,17 e 0,25, capex de R$ 6 bi e opex de R$ 5 bi. Conjunto acima de R$ 20 bi em 30 anos. Aprimoramentos decorrem de determinações do TCU e da Procuradoria, que opinou pela regularidade com ressalvas acolhidas ou justificadas. Leilões previstos para 27 e 30 de outubro de 2025 na B3.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova o edital", "ts": "0:10:06", "justificativa": "conformidade dos trabalhos da SUCON e da Procuradoria; desenvolvimento das regiões norte e oeste do Paraná", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:16:13", "justificativa": "parabeniza a agência pelo prazo exíguo e os gabinetes de Guilherme e Lucas", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator; proclama unanimidade", "ts": "0:17:40", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática com falantes inferidos e erros de nome (ex.: «Lucas Aço», «NTT» por ANTT); números de processo conferem apenas parcialmente.", "Os valores de tarifa dos lotes 4 e 5 estão sem unidade clara na legenda (provavelmente R$/km); mantidos como falados.", "As datas dos leilões aparecem como 27 e 30 de outubro no voto e 23 e 30 no fecho; não conciliado.", "Os ts dos votos de Felipe Queiroz e Lucas Asfor nos itens 1.1.1 e 1.1.2 são aproximados."]
+}

@@ -1,0 +1,252 @@
+{
+ "meta": {
+  "video_id": "XmIUbYLQwhA",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:01:26); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "1009",
+  "data": "2025-06-05",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+  "diretores_presentes": [
+   "Guilherme Sampaio",
+   "Felipe Queiroz",
+   "Lucas Asfor"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 10h37 de 05/06/2025.",
+   "2 itens extrapauta de relatoria de Felipe Queiroz incluídos com concordância dos diretores (Ecovias Ponte e Manoel Barbosa Lima), relatados após os itens pautados.",
+   "5 itens deliberados + 1 extrapauta duplo; todos unânimes.",
+   "Participaram também a procuradora-geral substituta Valesca, a secretária-geral Lília e o ouvidor interino Thales."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1.1",
+   "ts": "0:03:29",
+   "processo": "50186.0282448/? (parcial)",
+   "interessado": "Superintendência de Concessões de Infraestrutura (SUCON)",
+   "assunto": "Aprovação do relatório final da participação e controle social (consulta/audiência pública 13/2024) sobre minutas de edital, contrato, PER e EVTEA da concessão do lote rodoviário BR-116/251 (Minas Gerais, «Via Gerais», 774,9 km)",
+   "tema": [
+    "concessões rodoviárias",
+    "participação social",
+    "leilão / otimização"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Lote 1 do estudo do BNDES (BR-251 entre Montes Claros e entroncamento com a BR-116, e BR-116 entre Governador Valadares e divisa com a Bahia); alta sinistralidade da BR-251; obras previstas incluem duplicações, acostamentos, sinalização e passarelas. Contribuições relevantes foram acolhidas pela SUCON; a Procuradoria opinou favoravelmente com pequenas sugestões redacionais acolhidas. Vota por aprovar o relatório final (período de contribuições de 30/12 a 19/02, conforme a legenda).",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aprova o relatório final",
+     "ts": "0:03:40",
+     "justificativa": "processo competitivo transparente e isonômico; acolhimento de contribuições da sociedade",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:07:38",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:07:42",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "extrapauta-1",
+   "ts": "0:08:05",
+   "processo": "50500.026251/2025-30",
+   "interessado": "Concessionária Ecovias Ponte S.A.",
+   "assunto": "Extrapauta: submissão da proposta preliminar de revisão quinquenal do contrato (edital de concessão 001/2015, Ponte Rio–Niterói) ao processo de participação e controle social, com abertura de audiência pública (proposta preliminar 11/2025)",
+   "tema": [
+    "concessões rodoviárias",
+    "revisão quinquenal",
+    "participação social"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Proposta apresentada pela concessionária em 09/05/2025; SUROD verificou cumprimento da Resolução 6.023/2023; 119 pleitos identificados em reuniões participativas de set/2024, dos quais cinco investimentos foram considerados aptos (investimento ≈ R$ 70,6 milhões; impacto tarifário ≈ R$ 2,44, conforme a legenda), sem incluir o pleito de parâmetros de desempenho do pavimento. Extrapauta por causa do prazo de 5 dias úteis de antecedência exigido antes do início das contribuições (26/06/2025). Pleitos não incluídos podem ser reavaliados em futuras revisões ou acordos substitutivos.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, aprova a abertura da audiência pública",
+     "ts": "0:08:15",
+     "justificativa": "cumprimento do prazo da resolução de PPCS; cinco intervenções relevantes em 13,2 km de ponte",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "de acordo com o relator",
+     "ts": "0:15:21",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "aprova (proclama unanimidade)",
+     "ts": "0:15:24",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "extrapauta-2",
+   "ts": "0:16:00",
+   "processo": "50500.488952/2020-52",
+   "interessado": "Manoel Barbosa Lima Ltda.",
+   "assunto": "Extrapauta: cumprimento de decisão judicial (cumprimento de sentença) que determina a análise e outorga de novos mercados de transporte rodoviário de passageiros sob regime de autorização, na condição sub judice (Picos/PI–Fortaleza/CE, Teresina/PI–Fortaleza/CE, Teresina/PI–São Luís/MA)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade — outorga sub judice; impugnações conhecidas e desprovidas",
+   "resumo_voto": "Parecer da Procuradoria indicou expedir as autorizações nos trechos listados, nas seções do anexo da minuta, em cumprimento à decisão judicial; voto também por conhecer as impugnações apresentadas e negar-lhes provimento.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, aprova as autorizações sub judice e nega provimento às impugnações",
+     "ts": "0:16:58",
+     "justificativa": "cumprimento de ordem judicial",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "de acordo; cumprimento da decisão judicial",
+     "ts": "0:17:38",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "0:17:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.1",
+   "ts": "0:17:54",
+   "processo": "50500.183287/2022-17",
+   "interessado": "Concessionária de Rodovias Sul-Matogrossense S.A. (MS Via) / Motiva Infraestrutura de Mobilidade",
+   "assunto": "Homologação do resultado do processo competitivo (Edital 1/2025) para alienação de 100% das ações da MS Via, no âmbito da otimização do contrato de concessão",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização",
+    "solução consensual / Compor"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Sessão de 22/05/2025 na B3; proponente única (a atual controladora, Motiva, ex-CCR, via corretora Necto Investimentos), com proposta tarifária de 0,0752 por km (valor conforme legenda), mantendo-se titular das ações. Otimização seguiu a Portaria MT 848/2023 e teve parecer favorável do TCU (Acórdão 2.434/2024).",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, aprova a homologação",
+     "ts": "0:18:00",
+     "justificativa": "comissão seguiu o edital; respaldo do TCU",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:22:43",
+     "justificativa": "destaca ser o primeiro processo de otimização contratual quase concluído, política pública bem-sucedida; próximos: Eco101, Fernão Dias, Régis Bittencourt, Via Fluminense",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha; proclama unanimidade",
+     "ts": "0:24:13",
+     "justificativa": "processo de otimização é evolutivo; segundo processo em 26/06 (Ecovias)",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.2",
+   "ts": "0:25:01",
+   "processo": "50500.75097/2024-27 (parcial)",
+   "interessado": "AWC Turismo Ltda. (fretamento)",
+   "assunto": "Processo administrativo ordinário: cassação da autorização de fretamento por transporte irregular de passageiros em circuito aberto",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade — cassação",
+   "resumo_voto": "155 autuações entre 2019 e 2023 (quase quadruplicaram em 2022–2023), maioria no código 401; venda de passagens avulsas e embarques em locais distintos; mesma nota fiscal usada em viagens diferentes; reincidência específica. Cassação com base no art. 36 §5º do Decreto 2.521/1998 e art. 78-H da Lei 10.233/2001.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, cassa a autorização",
+     "ts": "0:25:10",
+     "justificativa": "conduta reiterada; modelo de penalização anterior não surtiu efeito corretivo",
+     "confianca": "firme"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:30:05",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:30:09",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.3",
+   "ts": "0:30:17",
+   "processo": "50500.091125/2020 (parcial)",
+   "interessado": "Autopista Litoral Sul S.A.",
+   "assunto": "20ª revisão extraordinária da tarifa básica de pedágio (BR-116/376/PR e BR-101/SC, Curitiba–Florianópolis)",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "pedágio / revisão tarifária"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Recomposição de desapropriações (9º e 13º anos), custos de notificações de autuação, manutenção da obra do PPD no km 220 da BR-101 (Palhoça), recuperação de terrapleno na BR-376 e sentença arbitral sobre o túnel 4 do contorno de Florianópolis. Eventos de revisão ordinária calculados no fluxo de caixa original (TIR ≈ 8%) e os extraordinários em fluxos de caixa marginais (FCM1 a FCM9, TIR entre 3,57% e 9,95%). Tarifa básica passa de cerca de R$ 2,0x para R$ 2,18, acréscimo de 7,03%. Resultados válidos só se implementados simultaneamente à 17ª revisão ordinária (database 22/02/2025), cuja aprovação foi adiada na RD anterior.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, aprova a 20ª revisão extraordinária",
+     "ts": "0:30:25",
+     "justificativa": "proposta motivada pela SUROD e com conformidade jurídica",
+     "confianca": "técnico"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:37:34",
+     "justificativa": "processo em otimização no TCU não suspende o fluxo ordinário nem autoriza descumprimento contratual; defende o regime de recuperação regulatória (novo instrumento ainda não utilizado)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha; proclama unanimidade",
+     "ts": "0:41:49",
+     "justificativa": "revisões ordinárias e extraordinárias da agência estão em dia; cumprir obrigações do poder concedente para exigir as do concessionário",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: números de processo truncados ou distorcidos (1.1.1, extrapauta 2, 1.2.2, 1.2.3).",
+  "Valores monetários e tarifários (R$ 70,6 milhões, R$ 2,44, 0,0752 por km, tarifa de R$ 2,18) vêm da legenda e podem estar imprecisos.",
+  "Nos itens extrapauta, o voto do Diretor-Geral não é explícito (proclamação de unanimidade); ts aproximados.",
+  "ts dos votos de seguidores aproximados."
+ ]
+}

@@ -1,0 +1,149 @@
+{
+  "meta": {"video_id": "mUFBjDvQ9VM", "fonte": "legenda automática do YouTube; falantes inferidos (rótulos frequentemente trocados); ts = tempo do vídeo, aproximado", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1013", "data": "2025-08-01", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Encerrada às 13h13 de 01/08/2025.", "Três processos extrapauta incluídos por relevância e urgência (referendo do orçamento 2026; relatório final da consulta pública 2/2024 e edital do processo competitivo da Autopista Fluminense; declaração de consumação do processo competitivo da MS Via/BR-163).", "Item 1.2.6, de relatoria de Felipe Queiroz, retirado de pauta por ele para apreciar com mais calma (assunto não detalhado na transcrição).", "Procuradora-Geral substituta Valesca; ouvidor em exercício Thales; secretária-geral Lilian Morais.", "Itens 1.2.4 e 1.2.5 tiveram sustentação oral do advogado Igor Alves dos Santos (Notável Expresso).", "Todos os itens deliberados foram aprovados por unanimidade; houve voto-vista de Felipe Queiroz no item 1.2.1, convergente com ajuste de fundamentação.", "Diretor-Geral registra o oitavo/nono edital de concessão rodoviária do ano e calendário de leilões (14/08, 23 e 30/10, 6 e 11/11)."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:19:12",
+      "processo": "50500.002026/2025-39 (número aproximado)", "interessado": "Superintendência de Transporte Ferroviário (SUFER)",
+      "assunto": "Alteração da Resolução 5.977/2022 para reestruturar a SUFER (gerências, coordenações e realocação de competências)",
+      "tema": ["institucional", "ferrovias", "regulação normativa"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Reestruturação consolidada na minuta de resolução (quadro geral de cargos no anexo I) sem impacto financeiro, pois não cria cargos comissionados; instrumento adequado conforme art. 105, I do Regimento; Procuradoria opinou pela viabilidade.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova", "ts": "0:19:40", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:21:30", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:21:48", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "extrapauta 1", "ts": "0:21:50",
+      "processo": "50500.037142/2025-26 (número aproximado)", "interessado": "Superintendência de Gestão Administrativa",
+      "assunto": "Referendo da Deliberação 250 de 31/07/2025, que aprovou a proposta orçamentária da ANTT para 2026 e o marco orçamentário de médio prazo 2027-2029",
+      "tema": ["institucional"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Ministério do Planejamento e Orçamento fixou o referencial monetário das despesas discricionárias de 2026; a captação no SIOP terminava em 31/07/2025 e as projeções de médio prazo em 07/08, o que exigiu a deliberação ad referendum (arts. 11 e 58 da Res. 5.976/2022). O valor do referencial na legenda é ilegível.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, referenda", "ts": "0:22:10", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "com o relator", "ts": "0:24:10", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:24:22", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:24:24",
+      "processo": "50500.029919/2023-5x (número aproximado)", "interessado": "CS VIP Log Transporte e Turismo Ltda.",
+      "assunto": "Recurso contra a Decisão SUPAS 221 de 03/06/2024, que indeferiu pedido de autorização para operar mercados; voto-vista de Felipe Queiroz",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Lucas Asfor (voto-vista: Felipe Queiroz)", "resultado": "aprovado por unanimidade — pedido de reconsideração parcialmente provido (decisão anulada) e pedido indeferido e arquivado por novo fundamento",
+      "resumo_voto": "A empresa havia sido indeferida por não se enquadrar no nível 1 do Monitrip; verificado que se enquadrava, a SUPAS reanalisou e deu 60 dias (art. 26 da Res. 4.770/2015) para sanar pendências, sem manifestação. Voto-vista ajusta apenas a fundamentação: anula a Decisão 221/2024, mas indefere e arquiva o pedido com base no art. 26 §1º da Res. 4.770/2015 (não manifestação no prazo); o resultado material não muda. Apresentado na reunião deliberativa eletrônica 238 (30/06 a 04/07/2025).",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, mantém o voto incorporando o ajuste de fundamentação do voto-vista", "ts": "0:30:55", "justificativa": "ajuste fino pertinente de Felipe", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto-vista: reconsideração parcialmente provida, ajusta fundamentação, indefere e arquiva", "ts": "0:25:13", "justificativa": "precedente: o fundamento do Monitrip não procede mais; fundamento correto é o não saneamento no prazo", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator com a incorporação do voto-vista", "ts": "0:30:55", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "0:31:00",
+      "processo": "50500.001255/2025-xx (número ilegível)", "interessado": "Viação Garcia Ltda.",
+      "assunto": "Processo administrativo ordinário por infrações: operação de trecho intermunicipal (Presidente Prudente a São Paulo) por meio de conexão de serviços interestaduais via Porecatu/PR",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — cassação",
+      "resumo_voto": "Processo nascido de denúncia de empresa regulada; observados contraditório e ampla defesa; incontroverso que a empresa opera serviço intermunicipal usando a outorga interestadual (dois bilhetes, intervalo de 20 minutos). Não se discute a legalidade da conexão em si, mas o desvio de finalidade do ato de autorização (TAR vale só para o interestadual). Infração grave: cassa a autorização dos trechos Porecatu - São Paulo, Porecatu - Presidente Prudente, com base nos arts. 78-A IV e 78-H da Lei 10.233/2001.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aplica cassação", "ts": "0:32:00", "justificativa": "desvio de finalidade do TAR, conduta grave e sanção proporcional", "tom": "firme", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:35:46", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:35:59", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.3", "ts": "0:36:00",
+      "processo": "50500.097xxx/2024-7x (número aproximado)", "interessado": "AWC Turismo Ltda.",
+      "assunto": "Pedido de reconsideração da Deliberação 180 de 05/06/2025, que cassou a autorização de fretamento da empresa",
+      "tema": ["ônibus (fretamento)", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — reconsideração conhecida e improvida",
+      "resumo_voto": "Empresa alegava desproporcionalidade (poucas infrações frente ao número de viagens), ausência de reincidência e possibilidade de TAC. Relator: a proporção correta seria em relação às fiscalizações sofridas, onde o número de autuações é expressivo; a cassação tem previsão no art. 36 §5º do Decreto 2.521/1998; o TAC (Res. 5.823/2018) exige proposta formulada pelo regulado, não feita. Mantém integralmente a Deliberação 180/2025.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, conhece e nega provimento", "ts": "0:36:30", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "de acordo com o relator", "ts": "0:40:03", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "0:40:05", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.4 e 1.2.5 (em bloco, com sustentação oral)", "ts": "0:40:05",
+      "processo": "50505.311253/2025 (1.2.4) e 50505.312517/2025 (1.2.5) — números aproximados", "interessado": "Notável Expresso e Turismo Ltda.",
+      "assunto": "Requerimentos de TAR para as linhas Osasco (SP) - Curitiba (PR) e Osasco (SP) - Rio de Janeiro (RJ), sem janela ordinária; decisões SUPAS 918 e 919 indeferiram; competência avocada pela Diretoria",
+      "tema": ["ônibus (transporte regular, TAR)", "judicializacao", "regulação normativa"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — pedidos de TAR indeferidos",
+      "resumo_voto": "Sustentação oral do advogado Igor Alves: acesso integral aos autos só após mandado de segurança; empresa habilitada em 29/08/2024 conforme cap. 2 da Res. 5.810/2023 (legenda: 603); outras empresas (1001, Expresso do Sul, Águia Branca, Rio Doce, Cometa, Andorinha, Eucatur, Catarinense) tiveram autorizações adequadas sem seleção pública, havendo violação de isonomia, impessoalidade e art. 37 da CF, concentração de mercado (grupo JCA) e protecionismo; pediu deferimento ou prazo para sanar pendências. Relator: o pedido nega a vigência da Res. 603 ao dispensar a janela de abertura (art. 15, §1º: a seção principal da linha deve ser mercado contemplado em janela); Osasco - Curitiba e Osasco - Rio não são mercados autorizados; pedidos infundados geram custo regulatório e ameaçam a segurança jurídica; cita Acórdão TCU 230/2023 e ADIs 5549 e 6270 do STF; ratifica a nota técnica 6232 da SUPAS.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, indefere os pedidos de TAR", "ts": "0:56:08", "justificativa": "descumprimento do art. 15 da Res. 603: seção principal fora de janela de abertura; custo regulatório e segurança jurídica", "tom": "firme", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha integralmente o relator nos dois processos", "ts": "1:03:54", "justificativa": "cumprimenta a sustentação oral do Dr. Igor Alves", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator nos itens 1.2.4 e 1.2.5", "ts": "1:04:15", "justificativa": "elogia a objetividade e cordialidade do advogado", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.6", "ts": "0:19:12",
+      "processo": "não informado", "interessado": "não informado",
+      "assunto": "Item de relatoria de Felipe Queiroz retirado de pauta",
+      "tema": ["institucional"],
+      "relator": "Felipe Queiroz", "resultado": "retirado de pauta pelo relator",
+      "resumo_voto": "Retirado para apreciar com mais calma.",
+      "votos": []
+    },
+    {
+      "id": "1.2.7", "ts": "1:04:30",
+      "processo": "50501.826342/2024-94 (número aproximado)", "interessado": "Superintendência de Concessão da Infraestrutura (SUCON) / Autopista Fluminense S.A.",
+      "assunto": "Novo termo de referência do ambiente regulatório experimental (sandbox, Res. 5.999/2022) para processo competitivo de eventual transferência de controle acionário da Autopista Fluminense (BR-101/RJ)",
+      "tema": ["concessões rodoviárias", "sandbox / inovação", "leilão / otimização", "reequilíbrio contratual"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprimora o termo aprovado pela Deliberação 517 de 05/12/2024, após o Acórdão TCU 2.318/2024 e o reconhecimento do cumprimento das condicionantes pelo Acórdão 1.495/2025. A ANTT passa a criar e manter o data room (em até 7 dias após o edital), adotar proteção de dados e contratar assessoria técnica; a concessionária deixa de criar o data room e fica proibida de prestar informações paralelas fora da diligência prévia (isonomia). Agradece SUCON (Marcelo Fonseca), Procuradoria (Valesca, Juliana) e destaca o arranjo institucional com a Secex Consenso/TCU.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova o novo termo de referência", "ts": "1:05:14", "justificativa": "maior clareza e equilíbrio entre as partes, redução de incerteza e ampliação da competitividade", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator na íntegra", "ts": "1:15:07", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "1:15:27", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "extrapauta 2", "ts": "1:15:27",
+      "processo": "50500.183109/2022-96 (número aproximado)", "interessado": "Autopista Fluminense S.A.",
+      "assunto": "Relatório final da Consulta Pública 2/2024 e publicação do edital do processo competitivo para readaptação e otimização do contrato da BR-101/RJ",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "participação social", "pedágio free flow", "reequilíbrio contratual"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Solução consensual debatida na Comissão de Solução Consensual do TCU (Acórdão 2.318/2024, de 30/10/2024, com condicionantes: ajustes na modelagem, participação social, processo competitivo para possível troca de controle). Novo MEF: CAPEX estimado de R$ 6,06 bilhões, OPEX de R$ 4,12 bilhões, TIR ajustada de 10,42%; duplicação de cerca de 49,55 km em 10 anos; seis pórticos free flow; elementos da quinta etapa (sustentabilidade, desempenho socioambiental); processo competitivo para validar valor de mercado e mitigar risco moral e sistêmico. Defende o interesse público acima do apego literal ao contrato. Sugere votar processos análogos em bloco no futuro.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova relatório final e edital", "ts": "1:15:50", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "voto com o relator, sem acréscimos", "ts": "1:23:59", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "voto com o relator", "ts": "1:24:10", "justificativa": "oitavo/nono edital de rodovia no ano; capacidade técnica e operacional da agência", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "extrapauta 3", "ts": "1:30:28",
+      "processo": "50500.183287/2024-17 (número aproximado)", "interessado": "Motiva Infraestrutura de Mobilidade S.A. (MS Via, BR-163/MS)",
+      "assunto": "Declaração de consumação do processo competitivo (Edital 1/2025) e autorização para assinar o termo aditivo ao contrato de concessão da BR-163/MS",
+      "tema": ["concessões rodoviárias", "leilão / otimização"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Processo competitivo para alienação de 100% das ações da concessionária MSV, realizado na B3 em 22/05/2025 com participação exclusiva da controladora Motiva; resultado homologado pela Deliberação 179 de 05/06/2025; documentos exigidos em até 45 dias (item 19.1 do edital) analisados pela Comissão Mista com SUCON e SUROD, que atestaram cumprimento integral; aprova a declaração de consumação e a assinatura do termo aditivo, com publicação do extrato no DOU.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "1:31:34", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "1:35:19", "justificativa": "primeiro dos processos competitivos de otimização a avançar nessa etapa", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "1:35:50", "justificativa": "primeiro processo competitivo homologado; obras previstas já no mês no Mato Grosso do Sul", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"id": "1.2.6", "processo": "não informado", "motivo": "retirado de pauta por Felipe Queiroz para apreciar com mais calma"}
+  ],
+  "limites_da_analise": [
+    "Legenda automática com muitos erros e rótulos de falante trocados; números de processo marcados como aproximados devem ser conferidos.",
+    "Assunto do item 1.2.6 não foi lido na transcrição.",
+    "Valor do referencial monetário da proposta orçamentária 2026 ilegível na legenda; omitido.",
+    "Cidades do item 1.2.2 (Porecatu/PR) transcritas como Porcatu; nome provável.",
+    "Resolução 603 citada na legenda corresponde provavelmente à Res. ANTT 5.810/2023; não confirmado.",
+    "Votos de seguidores têm ts aproximados."
+  ]
+}
