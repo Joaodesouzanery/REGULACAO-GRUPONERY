@@ -1,0 +1,185 @@
+{
+  "meta": {"video_id": "IPO0UDqZLhk", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:01); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "955", "data": "2023-04-27", "formato": "videoconferência",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Luciano Lourenço", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Aprovadas as atas da RD 954 e da 78ª Reunião Extraordinária (18/04/2023); um diretor (nome truncado na legenda, provavelmente Guilherme Sampaio) não votou a ata da extraordinária por estar de férias.", "13 itens de pauta: 11 deliberados (todos por unanimidade) e 1 retirado de pauta por Luciano Lourenço (Bahia Ferrovias/Valec/Infra S.A.).", "Encerrada às 10h17 de 27/04/2023.", "No 2.3.1 (Santa Maria Turismo), Guilherme Sampaio e Luciano Lourenço criticam a repetição de alegações de suspeição como expediente protelatório e Guilherme pede à Procuradoria verificar o status do tema; encaminhamento previsto para a reunião administrativa seguinte."]
+  },
+  "itens": [
+    {
+      "id": "0", "ts": "0:01:22",
+      "processo": "atas da RD 954 e da 78ª Reunião Extraordinária", "interessado": "Diretoria Colegiada",
+      "assunto": "Aprovação das atas da 954ª reunião ordinária e da 78ª extraordinária",
+      "tema": ["institucional"],
+      "relator": "Rafael Vitale", "resultado": "aprovadas",
+      "resumo_voto": "Todos de acordo com ambas as atas; um diretor ausente da extraordinária por férias.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "de acordo com ambas as atas", "ts": "0:01:30", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "de acordo com ambas as atas", "ts": "0:01:34", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "de acordo com ambas as atas", "ts": "0:01:38", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "de acordo", "ts": "0:01:42", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.1.1", "ts": "0:02:12",
+      "processo": "50500.12xxxx/2021-14 (número truncado pela legenda)", "interessado": "Live Tour Viagens e Turismo Ltda.",
+      "assunto": "Processo administrativo ordinário: passageiros com mercadorias importadas irregularmente em ônibus da empresa (Receita Federal, Ponta Porã/MS), após mandado de segurança",
+      "tema": ["ônibus (fretamento)", "fiscalização e sanções"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — multa",
+      "resumo_voto": "Apreensão de produtos avaliados em R$ 232.726 transportados como bagagem; licença de viagem emitida após o início da viagem (consulta ao sistema de monitoramento). A empresa, notificada, não apresentou defesa nem alegações finais; a comissão propôs apenas lavrar dois autos de infração, mas o relator entende que o rito da Res. 5.083/2016 foi cumprido e aplica multa de 40 mil vezes o coeficiente tarifário (art. 1º, IV da Res. 233/2003), considerando agravantes e o silêncio da empresa.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aplica multa de 40 mil vezes o coeficiente tarifário", "ts": "0:02:30", "justificativa": "rito cumprido; silêncio da empresa; agravantes", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:05:50", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "de acordo com o relator", "ts": "0:05:54", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:05:58", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:06:05", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.1.2", "ts": "0:06:15",
+      "processo": "50500.079945/2023-96", "interessado": "Superintendência de Transporte Ferroviário (SUFER)",
+      "assunto": "Alteração da Resolução 5.987/2022 (processo de requerimento de autorização para exploração de novas ferrovias, pátios e instalações acessórias)",
+      "tema": ["ferrovias", "autorização ferroviária", "regulação normativa"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Regulamenta o art. 25 da Lei 14.273/2021; tema na Agenda Regulatória 2023-24 (Deliberação 93/2023). Cinco meses após a entrada em vigor, a área técnica propôs prazo máximo de 60 dias contados da publicação do extrato do primeiro requerimento no DOU para novos pedidos concorrentes (hoje vai até a véspera da outorga, gerando insegurança), troca de «aviso de requerimento» por «extrato de requerimento», publicação também no site da ANTT e correção de erro material. Ato procedimental: AIR e PPCS dispensados, com anuência da Procuradoria.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aprova", "ts": "0:06:30", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:09:42", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:09:46", "confianca": "baixa"},
+        {"diretor": "Rafael Vitale", "voto": "de acordo com o relator", "ts": "0:09:52", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.1.3", "ts": "0:10:00",
+      "processo": "50500.01929/2022-15 (número truncado pela legenda)", "interessado": "Empresa Gontijo de Transportes Ltda.",
+      "assunto": "Processo administrativo ordinário por abandono dos mercados Eunápolis/BA, Itagimirim/BA e Porto Seguro/BA a Timóteo/MG",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — multa; afastada a vedação de atender os mercados",
+      "resumo_voto": "A comissão e a SUFIS propuseram a medida do art. 34, parágrafo único da Res. 4.770/2015 (impedir a empresa de atender os mercados e de solicitar novos por três anos) mais multa (art. 56, I, b). O relator reconhece a infração, mas afasta a medida: a Gontijo é a única empresa autorizada a operar esses mercados (linha Belo Horizonte–Porto Seguro desde 2016), logo a vedação deixaria Timóteo sem ligação e os usuários sem atendimento; nos últimos três anos não sofreu penalidade mais gravosa. Aplica multa de 40 mil vezes o coeficiente tarifário, com caráter pedagógico.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aplica multa e afasta a medida administrativa", "ts": "0:10:20", "justificativa": "razoabilidade; não deixar o usuário sem atendimento; caráter pedagógico", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:14:40", "confianca": "baixa"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:14:45", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:14:52", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.1.4", "ts": "0:15:05",
+      "processo": "50500.176345/2022-94", "interessado": "Bahia Ferrovias S.A. / Valec Engenharia (sucedida pela Infra S.A.)",
+      "assunto": "Reclamações da subconcessionária sobre vícios ocultos em bens da ferrovia transferidos pela subcedente",
+      "tema": ["ferrovias", "reequilíbrio contratual"],
+      "relator": "Luciano Lourenço", "resultado": "retirado de pauta pelo relator",
+      "resumo_voto": "Relator retirou o processo para aprofundar um detalhe técnico observado na elaboração do voto.",
+      "votos": []
+    },
+    {
+      "id": "2.1.5", "ts": "0:16:00",
+      "processo": "50500.096145/2023-30 (apenso 50500.086982/2021-99)", "interessado": "Via Brasil BR-163 Concessionária de Rodovias S.A.",
+      "assunto": "Trabalhos iniciais da 1ª parcela do trecho de cobertura da praça 3 (TCP-3), reajuste da tarifa básica de pedágio e autorização do início da cobrança na praça P3 (Pará) da BR-163/230 MT/PA",
+      "tema": ["concessões rodoviárias", "pedágio", "reequilíbrio contratual"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Contrato do Edital 2/2021 firmado em 01/04/2022; cobrança já autorizada em P1 e P2 (MT) pela Deliberação 21/2023. A concessionária entregou a 1ª parcela da TCP-3 (cerca de 375 km de 770,7 km). Parecer 4/2023 da comissão de trabalhos iniciais registrou ressalvas e exigiu plano de cura; o parecer 5/2023 apontou 258 de 259 apontamentos corrigidos (99,61%), com ressalvas residuais de pavimento e retrorrefletância atribuídas ao período chuvoso. Reajuste de 24,17% (IPCA da data-base da proposta a dez/2022) e tarifa de categoria 1 reajustada e arredondada de R$ 36,80 na P3 (veículos de categorias 1 a 5 e 11 isentos, só caminhões com quatro ou mais eixos de rodagem dupla pagam). Autoriza início da cobrança em 10 dias da expedição do ato, condicionado à verificação, até o penúltimo dia desse prazo, do saneamento das ressalvas, sob pena de suspensão.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, autoriza o início da cobrança com condicionante", "ts": "0:16:29", "justificativa": "BR-163 é a rota principal de escoamento da safra de grãos de MT; dificuldades de execução na chuva; qualidade verificada em visita ao trecho (30/03 a 02/04); condicionante de saneamento", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente o relator", "ts": "0:34:41", "justificativa": "regulação responsiva: agência parceira, mas vigilante no cumprimento das obrigações", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha integralmente o relator", "ts": "0:36:00", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:36:40", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha integralmente o relator", "ts": "0:37:20", "justificativa": "sucesso da concessão é o sucesso da agência; apoio e orientação aos regulados", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.2.1", "ts": "0:38:21",
+      "processo": "50500.005446/2016-55", "interessado": "Politur Transporte e Agência de Turismo Ltda.",
+      "assunto": "Processo administrativo ordinário por operação irregular das linhas Luís Correia/PI–Caruaru/PE (via Recife e via Campina Grande), mantidas por decisão judicial",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções", "judicializacao"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — cassação",
+      "resumo_voto": "Processo pautado em 09/03/2023 foi retirado quando a empresa propôs TAC (fato novo); a Superintendência recomendou rejeitá-lo. Linhas obtidas por decisão judicial, o que não isenta a empresa do cumprimento das resoluções; operação parcial a partir de Fortaleza, linha via Campina Grande não operada, sem venda de bilhetes no guichê de Fortaleza. Multas ineficazes: 1.032 registros de autuações no sistema de multas e 568 em outro sistema. Aplica cassação (art. 78-H da Lei 10.233/2001; Res. 4.770/2015), determina notificação e encaminhamento à Procuradoria para apresentar os achados ao juízo competente.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aplica cassação", "ts": "0:38:40", "justificativa": "descumprimento sistemático mesmo sob autorização judicial; ineficácia das multas", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:43:15", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:43:20", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:43:22", "confianca": "baixa"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha (proclama aprovação)", "ts": "0:43:25", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2.2.2", "ts": "0:43:33",
+      "processo": "50500.012818/2022-26", "interessado": "Januária Transporte e Turismo Ltda.",
+      "assunto": "Pedido de reconsideração contra a Deliberação 37/2023 (16/02/2023), que aplicou cassação do mercado Formosa/GO–Brasília/DF",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — reconsideração conhecida, sem efeito suspensivo, e desprovida",
+      "resumo_voto": "O pedido visa só a convolação da cassação em multa. A decisão original (voto do então diretor Davi Barreto) fundamentou que a cassação do mercado traz prejuízo limitado aos usuários, pois oito empresas atendem o mesmo mercado em 33 linhas; a falta de dados operacionais afetou apenas o cálculo de eventual multa, não a convicção da Diretoria. Argumentos insuficientes para alterar o entendimento.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, conhece e nega provimento", "ts": "0:43:50", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:46:50", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:46:52", "confianca": "baixa"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:46:54", "confianca": "baixa"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha (proclama aprovação)", "ts": "0:46:56", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2.2.3", "ts": "0:47:08",
+      "processo": "50501.3366/2018-68 (número truncado pela legenda)", "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (Concer)",
+      "assunto": "Recurso contra a Decisão 308/2020, que aplicou multa por não contratar fiança bancária de garantia de execução contratual (Res. 4.071/2013, art. 8º, XXI; Res. 255/2008, art. 15)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — recurso conhecido e desprovido; multa mantida em 1.000 URT",
+      "resumo_voto": "Infração do grupo 4 (750 URT), com agravantes de 100% e atenuantes de 10% chegando a 1.350 URT, reduzida a 1.000 URT pelo limite contratual. Concessionária não apresentou fato novo (nota técnica de 21/03/2023 e relatório da SUROD 91/2023); tempestividade, competência e legitimidade atendidas (art. 61 da Res. 5.083/2016).",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, conhece e nega provimento", "ts": "0:47:20", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:53:30", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "de acordo com o relator", "ts": "0:53:38", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:53:45", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:53:57", "justificativa": "elogia o voto esclarecedor", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.3.1", "ts": "0:54:24",
+      "processo": "50500.xxxxxx/2022-45 (número truncado pela legenda)", "interessado": "Santa Maria Turismo Ltda. (fretamento)",
+      "assunto": "Processo administrativo ordinário por fretamento em circuito aberto; alegação de suspeição e pedido de suspensão por inquérito policial",
+      "tema": ["ônibus (fretamento)", "fiscalização e sanções", "judicializacao"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — cassação",
+      "resumo_voto": "A alegação de suspeição da agência (por inquérito policial) é idêntica à já julgada improcedente pela Deliberação 334/2022, portanto afastada sem análise de mérito, sem suspender o rito. Rito da Res. 5.083/2016 observado; prática de circuito aberto caracterizada; infração grave e reincidente, com dano ao serviço e vantagem indevida; aplica cassação conforme a comissão e a área técnica.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aplica cassação", "ts": "0:54:40", "justificativa": "infração grave e reincidente; coerência com precedente sobre a suspeição", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:57:50", "justificativa": "mantém precedentes e colegialidade; pede à Procuradoria verificar o status do tema do abuso de direito, pois mesmo advogado repete os mesmos argumentos", "tom": "crítico", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:59:50", "justificativa": "endossa as críticas de Guilherme Sampaio: expedientes que só visam relatório oneram as equipes técnicas", "tom": "crítico", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "1:00:30", "confianca": "baixa"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator na íntegra", "ts": "1:00:40", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.3.2", "ts": "1:00:59",
+      "processo": "50500.112749/2021-xx (número parcial na legenda)", "interessado": "Superintendência de Serviços de Transporte Rodoviário e Multimodal de Cargas (SUROC)",
+      "assunto": "Alteração do art. 25-B da Resolução 5.862/2019 (CIOT): prazo para instituições de pagamento eletrônico de frete comprovarem adesão ao arranjo de pagamentos instantâneos (Pix) do Banco Central",
+      "tema": ["transporte rodoviário de cargas (piso mínimo do frete/CIOT)", "regulação normativa"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Prazo atual terminava em 30/06/2023; o Banco Central informou nova alteração do cronograma de autorização de instituições de pagamento e que a análise da adesão ao arranjo leva em média um ano. A proposta adia o prazo (legenda diz 31 de junho, data inexistente; provavelmente 30/06 de ano seguinte, conferir) e aceita o protocolo do pedido como comprovação de adesão. Procuradoria entende caber dispensa de AIR e PPCS.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "1:01:10", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha (aprovado por unanimidade)", "ts": "1:04:10", "confianca": "baixa"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha (aprovado por unanimidade)", "ts": "1:04:10", "confianca": "baixa"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha (aprovado por unanimidade)", "ts": "1:04:10", "confianca": "baixa"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha (aprovado por unanimidade)", "ts": "1:04:12", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2.3.3", "ts": "1:04:19",
+      "processo": "50500.358984/2017-xx (número truncado pela legenda)", "interessado": "Hélio Coletivos e Cargas Eireli (em recuperação judicial)",
+      "assunto": "Pedido de reconsideração contra a Deliberação 73/2023 (16/03/2023), que cassou duas linhas (São Félix do Xingu/PA e Carazinho/RS)",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções", "judicializacao"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — reconsideração conhecida, com efeito suspensivo, e parcialmente provida",
+      "resumo_voto": "A empresa alega recuperação judicial e que as linhas cassadas representam 60% do faturamento. Atribui efeito suspensivo por risco de dano de difícil reparação (art. 59, parágrafo único da Res. 5.083/2016) e, no mérito, dá provimento parcial: a cassação passa a incidir apenas nos mercados Santo Antônio do Sudoeste/PR–São José do Rio Preto/SP e Porangatu/GO–São José do Rio Preto/SP.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, conhece com efeito suspensivo e dá provimento parcial", "ts": "1:04:30", "justificativa": "risco de dano de difícil reparação à empresa em recuperação judicial", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "1:06:20", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "1:06:28", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha (aprovado por unanimidade)", "ts": "1:06:32", "confianca": "baixa"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha (aprovado por unanimidade)", "ts": "1:06:32", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": ["2.1.4 Bahia Ferrovias S.A. / Valec / Infra S.A. – vícios ocultos nos bens da subconcessão (Luciano Lourenço, para aprofundar detalhe técnico)"],
+  "limites_da_analise": ["Muitos números de processo estão truncados ou incorretos na legenda; os do 2.1.1, 2.1.3, 2.2.3, 2.3.1, 2.3.2 e 2.3.3 devem ser conferidos.", "A numeração da legenda traz «2.4» e «2.5» onde o contexto indica 2.1.4 e fim das relatorias de Luciano; adotei 2.1.4.", "Valores: multa do 2.1.3 aparece ilegível e foi omitida; o novo prazo do CIOT no 2.3.2 aparece como «31 de junho» (inexistente) e deve ser conferido; a tarifa de R$ 36,80 e o reajuste de 24,17% no 2.1.5 foram lidos da legenda.", "Ts de votos de seguidores aproximados e, quando só se ouve a proclamação de unanimidade, o voto de cada diretor é presumido (confiança baixa). A ordem entre Lucas Asfor e Felipe Queiroz no 2.1.5 é incerta.", "A ata da extraordinária foi votada com ressalva de ausência por férias de um diretor cujo nome está truncado na legenda."]
+}

@@ -1,0 +1,457 @@
+{
+ "meta": {
+  "video_id": "zV1cOhU21bk",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:01); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "961",
+  "data": "2023-07-20",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Guilherme Sampaio",
+   "Felipe Queiroz",
+   "Lucas Asfor"
+  ],
+  "ausentes": [
+   "Luciano Lourenço (férias)"
+  ],
+  "observacoes": [
+   "Rafael Vitale relatou, como diretor-geral, os itens 1.1.1 e 1.1.2 em conjunto (participação e controle social e regimento interno).",
+   "1.1.2 ficou em vista coletiva para a reunião de 3 de agosto de 2023; os demais itens deliberados foram unânimes.",
+   "Três itens retirados de pauta (1.3.2 Malha Sul, 1.4.5 Viação Mota, 1.4.6 Rota dos Cristais). Muitos itens de fiscalização e sanções (fretamento em circuito aberto, multas da Concer)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1.1",
+   "ts": "0:01:15",
+   "processo": "50500.014642/2022-47",
+   "interessado": "Superintendência de Governança e Gestão Estratégica e de Pessoal (SUGEP)",
+   "assunto": "Relatório final da Consulta Pública 1/2022 e proposta de resolução que substitui a Resolução 5.624/2017 sobre o processo de participação e controle social (PPCS) da ANTT; relatado em conjunto com o 1.1.2",
+   "tema": [
+    "participação social",
+    "regulação normativa",
+    "institucional"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Atualização da norma de participação social para compatibilizá-la com a LGPD (Lei 13.709/2018) e com os procedimentos e recursos tecnológicos do manual de PPCS (Deliberação 434/2021); projeto da agenda regulatória 2023-2024. Aprova a proposta de resolução e o relatório final da CP 1/2022.",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, aprova",
+     "ts": "0:01:40",
+     "justificativa": "adequação à LGPD e aos novos recursos tecnológicos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com o relator",
+     "ts": "0:05:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "de acordo com o relator",
+     "ts": "0:05:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "de acordo com o relator",
+     "ts": "0:05:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.1.2",
+   "ts": "0:01:15",
+   "processo": "50500.057790/2022-19",
+   "interessado": "SUGEP",
+   "assunto": "Alteração da Resolução 5.976/2022 (Regimento Interno da ANTT) nos dispositivos sobre o processo de participação e controle social, consequência do 1.1.1",
+   "tema": [
+    "participação social",
+    "institucional",
+    "regulação normativa"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "vista coletiva (retorna na reunião de 3/8/2023)",
+   "resumo_voto": "Alterações pontuais no regimento para adequá-lo à nova norma de PPCS. Conforme o art. 106, parágrafo único, do regimento, o relator abriu vista coletiva, devendo ser deliberado na reunião seguinte (3 de agosto de 2023).",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, propõe aprovação e abre vista coletiva",
+     "ts": "0:05:00",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1.2.1",
+   "ts": "0:06:06",
+   "processo": "50500.129591/2020-95",
+   "interessado": "Superintendência de Transporte Ferroviário (SUFER)",
+   "assunto": "Relatório final da Audiência Pública 10/2020 e resolução que regulamenta a destinação dos recursos para desenvolvimento tecnológico (RDT) e para preservação da memória ferroviária (RPMF)",
+   "tema": [
+    "ferrovias",
+    "regulação normativa",
+    "participação social",
+    "sustentabilidade / inovação"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "RDT e RPMF são previstos em contratos de concessão e subconcessão, mas a falta de norma impedia a aplicação, gerando acréscimo de saldo. A proposta passou por audiência pública, foi impactada pela Lei das Ferrovias (MP 1.065/2021, Lei 14.273/2021) e recebeu novas contribuições (Webtech, ANTF) que o relator e a SUFER incorporaram; a Procuradoria opinou duas vezes pela legalidade. Aprova relatório e deliberação.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aprova",
+     "ts": "0:06:30",
+     "justificativa": "norma aperfeiçoada com o setor, aplicação imediata",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "aprova",
+     "ts": "0:10:15",
+     "justificativa": "parabeniza a condução e a SUFER (superintendente Ismael); dia relevante para o setor",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:11:25",
+     "justificativa": "cautela justificada para a regra correta",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:11:28",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.1",
+   "ts": "0:12:30",
+   "processo": "50500.127270/2022-91",
+   "interessado": "Agência de Viagens New World Ltda. (fretamento)",
+   "assunto": "Processo administrativo ordinário: fretamento em circuito aberto; proposta de cassação, com sustentação oral da advogada Mayara Franco",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade — cassação",
+   "resumo_voto": "Defesa (sustentação oral): empresa pequena (31 anos, 4 ônibus e 1 van), primeira comissão recomendara arquivar; criação de nova comissão sem previsão legal, nulidade só após intimação, pede pena diversa da cassação (vedação de pena perpétua), atenuantes e petição prévia. Voto: processo regular (Res. 5.083/2016); a empresa emitiu licença de circuito fechado mas foi flagrada em circuito aberto, e há anúncios de viagens só de ida. Cassação com base no art. 36 §5º do Decreto 2.521/1998 e art. 78-H da Lei 10.233/2001.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, cassa a autorização",
+     "ts": "0:19:00",
+     "justificativa": "circuito aberto comprovado, em violação ao art. 36 §5º do Decreto 2.521/1998",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:21:27",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:21:45",
+     "justificativa": "não haveria outro caminho diante da prática evidente de circuito aberto",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:21:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.3",
+   "ts": "0:22:56",
+   "processo": "50501.054210/2018-42",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio (Concer)",
+   "assunto": "Recurso contra a Decisão 115/2021 da SUROD que aplicou multa por flechas nas trilhas de roda superiores a 5 mm na BR-040 (descumprimento dos parâmetros de desempenho)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade — recurso desprovido, multa de 450 URTs mantida",
+   "resumo_voto": "Auto de infração 1457/2018; defesa e recursos indeferidos; sem elementos novos que afastem a responsabilidade. Multa de 450 URTs por violação do art. 7º, XIV da Resolução 4.071/2013 (conforme a legenda). O relator corrigiu a numeração do processo durante o voto.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:23:10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com o relator",
+     "ts": "0:27:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:27:16",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:27:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.4",
+   "ts": "0:27:26",
+   "processo": "50500.004621/2017-14",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio (Concer)",
+   "assunto": "Recurso contra a Decisão 60/2021 da SUROD que aplicou multa por deformações plásticas (escorregamento de massa asfáltica) em km 109, 121 e 123 da BR-040",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade — recurso desprovido, multa de 351 URTs mantida",
+   "resumo_voto": "Auto de infração 1674/2016 por não atendimento aos registros de ocorrência no prazo; recursos improcedentes; sem elementos novos. Multa de 351 URTs por violação do art. 6º, III da Resolução 4.071/2013 (conforme a legenda).",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:27:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:30:35",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:30:38",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:30:42",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.4.1",
+   "ts": "0:30:58",
+   "processo": "50500.095990/2022-06",
+   "interessado": "Viação Mimo Ltda. (fretamento)",
+   "assunto": "Encerramento da comissão processante: cassação da autorização de fretamento por circuito aberto",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade — cassação",
+   "resumo_voto": "Venda de viagens em circuito aberto por plataforma de busca, com licenças de viagem de fretamento emitidas por preposto da empresa com login e senha pessoais, para mascarar a operação; empresa continuou sendo flagrada após a instauração do processo; postura indiferente aos regulamentos, e sanção menos gravosa não alteraria a conduta. Cassação com base no art. 36 §5º do Decreto 2.521/1998 e art. 78-H da Lei 10.233/2001.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, cassa a autorização",
+     "ts": "0:31:20",
+     "justificativa": "gravidade da conduta, reiteração e postura indiferente aos regulamentos",
+     "tom": "firme",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:36:36",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:36:45",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:37:00",
+     "justificativa": "aderência regulatória e Prorrev; regras valem independentemente do tamanho da empresa",
+     "tom": "firme",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.4.2",
+   "ts": "0:38:23",
+   "processo": "50500.088320/2021-33",
+   "interessado": "SUROC (Superintendência de Serviços de Transporte Rodoviário e Multimodal de Cargas)",
+   "assunto": "Abertura de audiência pública para revisão e atualização da regulação do transporte rodoviário internacional de cargas (Resoluções 5.583/2017 e 5.840/2019, TRIC)",
+   "tema": [
+    "transporte rodoviário de cargas",
+    "regulação normativa",
+    "participação social",
+    "redução de fardo regulatório"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Unificação de duas normas de habilitação (Brasil-Peru e demais mercados), redução do fardo regulatório, adequação a acordos do Cone Sul e preparação para sistema de informação de habilitações. Passou por reunião participativa 3/2022, tomada de subsídios 5/2022, relatório de ARR e AIR (9 problemas regulatórios). A Procuradoria optou por analisar depois.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, aprova a audiência pública",
+     "ts": "0:38:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:42:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:42:15",
+     "justificativa": "cumprimenta a SUROC e a equipe pela revolução normativa",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:43:54",
+     "justificativa": "importância do TRIC, SGT5 do Mercosul e ALADI; transporte moderno e desburocratizado",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.4.3",
+   "ts": "0:45:26",
+   "processo": "50500.393248/2019-69",
+   "interessado": "SUROC",
+   "assunto": "Alteração do Anexo 2 da Resolução 5.867/2020: atualização dos coeficientes do piso mínimo de frete (IPCA e diesel S10/ANP) sem audiência pública nem AIR",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "regulação normativa"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Atualização semestral (art. 5º da Lei 13.703/2018) apenas pelas variações de IPCA acumulado (3,59% entre dez/2022 e maio/2023) e do diesel S10 (R$ 5,40/litro na semana de 25/6 a 1/7/2023); reajustes médios de 0,24% (automotor) a 1,17% (carga lotação). Dispensa audiência pública, já que a metodologia passou por ciclo recente, e AIR, por cumprir norma hierarquicamente superior.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, aprova",
+     "ts": "0:45:45",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:50:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:50:18",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:50:21",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.4.4",
+   "ts": "0:50:31",
+   "processo": "50501.253169/2018-25",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio (Concer)",
+   "assunto": "Recurso contra a Decisão 82/2020 da SUROD que aplicou multa por não implantar o plano de contas padrão da ANTT",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade — recurso desprovido",
+   "resumo_voto": "Voto sucinto (apenas a ementa): infração evidenciada, sem fatos novos no recurso; decisão mantida. Os colegas elogiam a objetividade: dez a doze processos análogos da Concer em reuniões recentes; Rafael Vitale lembra que o regulamento de concessões rodoviárias (RCR) separará contraditório de proteção processual.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, nega provimento",
+     "ts": "0:51:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:51:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:51:47",
+     "justificativa": "elogia o voto sucinto diante de processos recorrentes da Concer",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:52:47",
+     "justificativa": "tratamento no RCR de penalização e contraditório",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "1.3.2 — Malha Sul S.A. (proc. 50500.107389/2023-5): requerimento para inserir cláusula contratual sobre pagamento das parcelas vencidas de arrendamento",
+   "relator": "Felipe Queiroz",
+   "motivo": "retirado de pauta: concessionária juntou memoriais aos autos e é preciso tempo para análise",
+   "ts": "0:22:35"
+  },
+  {
+   "item": "1.4.5 — Viação Mota Ltda. (proc. 50151.3558/…): recurso contra a Deliberação 274/2022 (20/9/2022) que aplicou penalidade",
+   "relator": "Lucas Asfor",
+   "motivo": "retirado de pauta pelo relator, sem motivo declarado",
+   "ts": "0:54:10"
+  },
+  {
+   "item": "1.4.6 — SUCON, proc. 50500.185601/2022-34: relatório final da Audiência Pública 9/2022 (BR-040 GO/MG, Cristalina a Belo Horizonte, a «Rota dos Cristais», inauguração da quinta etapa de concessões rodoviárias)",
+   "relator": "Lucas Asfor",
+   "motivo": "retirado de pauta porque a instrução chegou apenas no dia anterior; ajustes com o Ministério dos Transportes e diretrizes de política pública",
+   "ts": "0:54:16"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática com muitos erros: números de processos, resoluções, valores em URT e nomes de empresas devem ser conferidos (ex.: processo do 1.3.2 e do 1.4.5 truncados).",
+  "Votos de seguidores têm ts aproximados; a ordem Guilherme, Felipe, Lucas, Rafael foi inferida e a atribuição de comentários (principalmente em 1.4.1 e 1.4.2) tem confiança baixa.",
+  "O horário de encerramento aparece confuso na legenda (3h35 / 4h35).",
+  "Os ids 1.3.3 e 1.3.4 seguem a fala do presidente; houve confusão de numeração no preâmbulo do 1.3.3."
+ ]
+}
