@@ -1,0 +1,203 @@
+{
+  "meta": {"video_id": "QkT0LtVw1qY", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "957", "data": "2023-05-24", "formato": "videoconferência",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Luciano Lourenço", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Encerrada às 11h02 de 24/05/2023.", "Aprovada a ata da reunião 956 por unanimidade.", "Dois processos retirados de pauta (2.1.2 estrutura organizacional; 2.2.3 audiência pública da Ouvidoria).", "Todos os itens deliberados foram unânimes; Lucas Asfor relatou cinco processos e foi elogiado pelo Diretor-Geral e por Guilherme Sampaio."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:03:02",
+      "processo": "", "interessado": "Secretaria-Geral",
+      "assunto": "Aprovação da ata da reunião de diretoria 956",
+      "tema": ["institucional"],
+      "relator": "Rafael Vitale", "resultado": "aprovada por unanimidade",
+      "resumo_voto": "Ata distribuída com antecedência mínima de 48 horas; leitura dispensada.",
+      "votos": [
+        {"diretor": "Rafael Vitale", "voto": "de acordo", "ts": "0:03:30", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo", "ts": "0:03:40", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "de acordo", "ts": "0:03:42", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "de acordo", "ts": "0:03:44", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "de acordo", "ts": "0:03:46", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.1.1", "ts": "0:03:58",
+      "processo": "50500.015779/2022-19", "interessado": "SUESP (Superintendência de Governança e Gestão Estratégica de Pessoal)",
+      "assunto": "Alteração do anexo da Resolução 5.976/2022 (Regimento Interno da ANTT)",
+      "tema": ["institucional", "regulação normativa"],
+      "relator": "Rafael Vitale", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Processo apresentado na RD 956 (11/05/2023) com vista coletiva; apenas Luciano Lourenço trouxe ponderações redacionais pontuais, acatadas e já juntadas. Relator vota pela aprovação da minuta com os ajustes. Há GT para aperfeiçoamento contínuo do Regimento.",
+      "votos": [
+        {"diretor": "Rafael Vitale", "voto": "relator, aprova com ajustes de Luciano Lourenço", "ts": "0:05:20", "justificativa": "análise técnica e jurídica favorável; incorpora as sugestões redacionais", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:05:50", "justificativa": "destaca o GT de aperfeiçoamento constante do Regimento", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:06:05", "justificativa": "suas contribuições eram apenas de texto; parabeniza a SUESP; mudança traz mais eficiência frente às competências da ANTT", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:06:40", "justificativa": "ajustar estrutura e dinâmica da agência às demandas e à melhor performance dos ativos", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:07:00", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.1.2", "ts": "0:07:09",
+      "processo": "50500.020646/2022-64", "interessado": "SUESP",
+      "assunto": "Alteração da Resolução 5.977/2022 (estrutura organizacional da ANTT)",
+      "tema": ["institucional"],
+      "relator": "Rafael Vitale", "resultado": "retirado de pauta",
+      "resumo_voto": "Relator retira para acertos finais de modo a compatibilizar com o novo Regimento; retorna na reunião seguinte (7 de junho).",
+      "votos": []
+    },
+    {
+      "id": "2.2.1", "ts": "0:08:19",
+      "processo": "50500.179236/2014-19", "interessado": "Concessionária Rodovia Juiz de Fora - Rio (Concer)",
+      "assunto": "Recurso contra a Decisão 1/2021 (SUINF) que aplicou multa por não enviar estudo técnico do alargamento de viaduto (km 89,15 BR-040/RJ), projeto executivo do retorno operacional km 46 e da adequação geométrica de ponte",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — recurso conhecido e não provido",
+      "resumo_voto": "Mantida multa de 300 URT (grupo 2, inciso XIV do art. 6º da Res. 4.071/2013). Tipificação correta; projeto estava no planejamento anual de 2014 proposto pela própria concessionária; prazo de 10 dias não era surpresa; atenuantes analisadas no parecer técnico 21/2019. Valor de URT conforme a legenda (303) é incerto.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, nega provimento", "ts": "0:08:30", "justificativa": "concessionária não trouxe elementos novos; inércia diante de obrigação já prevista", "tom": "técnico", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:12:30", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:12:32", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:12:34", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:12:36", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.2.2", "ts": "0:12:40",
+      "processo": "50501.326304/2018-69", "interessado": "Concessionária Rodovia Juiz de Fora - Rio (Concer)",
+      "assunto": "Recurso contra a Decisão 354/2021 (SUINF) que manteve multa por atraso injustificado no cronograma de obras de 2017 (inclusive passarela)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções", "reequilíbrio contratual"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — recurso conhecido e não provido",
+      "resumo_voto": "Mantida multa de 257,98 URT (cláusula 22.3 do contrato PG-138/95-00). Rejeita pedido de reunião de processos (recursos genéricos e protelatórios), alegação de desequilíbrio econômico-financeiro (continuidade do serviço; não cabe suspensão unilateral de obrigações; riscos assumidos na cláusula 19), efeitos da crise de 2016 e a falta de posse da área da passarela (desapropriação aprovada em 2016, obra prevista desde 2015).",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, nega provimento", "ts": "0:13:00", "justificativa": "recursos sem fato novo; intuito protelatório", "tom": "firme", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:17:45", "justificativa": "destaca que o novo Regimento permite à Diretoria coibir abusos de peticionamento administrativo e judicial", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:17:46", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:17:47", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:17:48", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.2.3", "ts": "0:18:38",
+      "processo": "50500.097075/2022-56", "interessado": "Ouvidoria",
+      "assunto": "Abertura de audiência pública sobre proposta de revisão do processo de recebimento de reclamações",
+      "tema": ["participação social", "regulação normativa", "institucional"],
+      "relator": "Luciano Lourenço", "resultado": "retirado de pauta",
+      "resumo_voto": "Relator elogia a iniciativa da Ouvidoria, mas na elaboração do voto viu necessidade de complemento na instrução e retirou o processo.",
+      "votos": []
+    },
+    {
+      "id": "2.3.1", "ts": "0:19:20",
+      "processo": "50500.148102/2014-56", "interessado": "Concessionária da Rodovia Osório-Porto Alegre S.A. (Concepa)",
+      "assunto": "Recurso contra a Decisão 42/2018 (SUINF) que aplicou multa por não conformidades de sinalização (parâmetros de desempenho) na BR-290/RS, constatadas em junho de 2014",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — recurso conhecido e não provido",
+      "resumo_voto": "Mantida multa de 450 URT (inciso VII do art. 7º da Res. 4.071/2013), já reduzida de 500 URT pela SUINF; argumentos da recorrente não afastam a responsabilidade.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, nega provimento", "ts": "0:19:30", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:23:00", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:23:05", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:23:10", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:23:14", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.3.2", "ts": "0:23:20",
+      "processo": "50500.056420/2020", "interessado": "Expresso Metrópoles Transportes e Viagens Ltda.",
+      "assunto": "Extinção, por cassação, do termo de autorização de serviços regulares (TAR 144 e licença operacional) por perda das condições exigidas, sem atualização cadastral trienal (art. 24 da Res. 4.770/2015)",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — extinção por cassação",
+      "resumo_voto": "Empresa não atualizou documentação após comunicação da SUPAS (jun/2022, prazo de 10 dias) e pediu paralisação temporária da linha Campinas/SP - Ouro Fino/MG, negada (só cabe paralisação permanente). Venda de bilhetes suspensa pela Deliberação 230/2022. Determina notificar a interessada.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, extingue por cassação", "ts": "0:23:25", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:26:20", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:26:25", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:26:30", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:26:35", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.4.1", "ts": "0:26:50",
+      "processo": "50500.033613/2022-84", "interessado": "Transporte Coletivo Brasil Ltda.",
+      "assunto": "Processo administrativo ordinário: aplicação de penalidade por documentos fiscais (BP-e) inidôneos, alto índice de irregularidades e serviços não autorizados",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — cassação do termo de autorização",
+      "resumo_voto": "Acolhe o relatório da comissão processante: cassação com base no art. 78-H da Lei 10.233/2001 e art. 103 do anexo da Res. 5.083/2016. Afasta cerceamento de defesa e nega direito a TAC (faculdade da Administração). Fazendas de RS e SC atestaram impedimento de emitir documentos após 30/06/2020; mais de 6 mil autos (170 em SC), índice de autuação de 390% contra 24,5% em SC; três declarações de inidoneidade anteriores; empresa opera por decisões judiciais e só com veículos de terceiros. Indícios de falsidade documental (art. 298 do Código Penal): encaminhar à Procuradoria para ofício ao Ministério Público. Números conforme a legenda; podem conter erro.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, cassa a autorização", "ts": "0:27:00", "justificativa": "histórico reiterado de descumprimento; sanção razoável e proporcional", "tom": "firme", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:34:40", "justificativa": "empresa atua à margem da legalidade; elogia a fiscalização e as determinações do voto", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:35:30", "justificativa": "processos de histórico não trivial; área técnica e Diretoria conseguem dar bom andamento em benefício da boa prestação de serviço", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:36:20", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:36:30", "justificativa": "quem requer autorização para transportar passageiros assume deveres; segurança e direito do consumidor", "tom": "firme", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.4.2", "ts": "0:37:00",
+      "processo": "50502.5419/2017-18", "interessado": "Concessionária Rodovia Juiz de Fora - Rio (Concer)",
+      "assunto": "Recurso contra a Decisão 152/2020 que aplicou multa por vegetação na faixa de domínio comprometendo a visibilidade da sinalização vertical (BR-040/RJ)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — recurso conhecido e não provido",
+      "resumo_voto": "Mantida multa de 70 URT (reduzida de 100 pela SUINF em respeito à individualização da pena). TRO não é exigível quando não há prazo em regulamento ou contrato; desequilíbrio econômico-financeiro não justifica suspensão unilateral de deveres.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, nega provimento", "ts": "0:37:30", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:40:25", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:40:28", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:40:32", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:40:36", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.4.3", "ts": "0:40:45",
+      "processo": "50500.365617/2019-23", "interessado": "Concessionária Rodovia Juiz de Fora - Rio (Concer)",
+      "assunto": "Recurso contra a Decisão 381/2021 sobre auto de infração por inexecução de obras de segurança nas passarelas Hermógenes Silva e Art da Silveira (km 28,9 e 79,2 da BR-040/RJ) no 2º ano de concessão",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — recurso conhecido e não provido",
+      "resumo_voto": "Mantida multa de 232,47 URT; recorrente sem fato novo. Nomes e quilometragens conforme a legenda.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, nega provimento", "ts": "0:41:00", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:42:35", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:42:38", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:42:40", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:42:42", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.4.4", "ts": "0:42:50",
+      "processo": "50500.349939/2019-25", "interessado": "Expresso Maia Ltda.",
+      "assunto": "Pedido de reconsideração, com efeito suspensivo, contra a Deliberação 111/2023 que cassou o mercado São Luís de Montes Belos/GO - Várzea Grande/MT",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções", "judicializacao"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — recurso conhecido, sem efeito suspensivo, e não provido",
+      "resumo_voto": "Empresa não demonstrou impacto operacional ou financeiro e mantém autorização em outros 163 mercados; sem cerceamento de defesa; sanção considera extenso histórico de infrações, com multas na dívida ativa. A denúncia partiu da Expresso São Luiz.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, nega provimento", "ts": "0:43:10", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:46:30", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:46:40", "justificativa": "elogia a quantidade e a qualidade dos votos de Lucas Asfor, chamado de relator geral da sessão", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:47:20", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:47:50", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.4.5", "ts": "0:49:40",
+      "processo": "50500.015467/2021-24", "interessado": "Viação Catarina Transporte de Passageiros Ltda.",
+      "assunto": "Pedido de novos mercados (Brasília e Luziânia para Patos de Minas, Paracatu e João Pinheiro, MG) na licença operacional 227, em cumprimento de decisão judicial; sustentação oral; avocação da competência delegada à SUPAS (Res. 5.818)",
+      "tema": ["ônibus (transporte regular, TAR)", "judicializacao", "regulação normativa"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — indeferido o requerimento, com determinação de reanálise dos pleitos pendentes à luz da Res. 6.013/2023",
+      "resumo_voto": "Pedido protocolado em 23/02/2021; sentença mandou analisar em 30 dias. Cautelar do TCU suspendeu; Acórdão 230/2023 a revogou, mas exige observar o art. 47-B da Lei 10.233/2001 (inviabilidade técnica, operacional e econômica) mesmo para pedidos pendentes. Nota técnica da SUPAS apenas atestou os requisitos da Res. 4.770/2015; Procuradoria concordou que a análise não considerou o art. 47-B. Pela Res. 6.013/2023 (norma transitória de 18/04/2023) só se deferem mercados desatendidos; a SUPAS informou que todos os mercados pedidos já têm atendimento. Voto: indeferir e determinar que pleitos de novos mercados, inclusive os analisados por ordem judicial antes dessa deliberação, observem a Res. 6.013/2023. Fica prejudicada a impugnação da empresa São Cristóvão.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, indefere o pedido", "ts": "1:20:00", "justificativa": "art. 47-B da Lei 10.233 e Acórdão 230/2023 do TCU; mercados não são desatendidos; tratamento isonômico", "tom": "técnico", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "1:22:50", "justificativa": "agradece a sustentação do advogado; elogia a qualidade do voto sobre matéria importante", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha integralmente o relator", "ts": "1:23:10", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha integralmente o relator", "ts": "1:23:40", "justificativa": "elogia a explicação cronológica das razões de cada decisão", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "1:24:34", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": ["2.1.2 (Res. 5.977/2022, estrutura organizacional)", "2.2.3 (audiência pública da Ouvidoria sobre reclamações)"],
+  "limites_da_analise": [
+    "Legenda automática: números de processo, URT, quilômetros e nomes de empresas podem conter erros.",
+    "Os rótulos de falantes da transcrição são inferidos e erram em alguns trechos (por exemplo, atribuem fala de Rafael Vitale ao nome Alessandro Baumgarten); aqui o presidente da sessão foi identificado como Rafael Vitale pelas saudações.",
+    "ts de votos de seguidores são aproximados.",
+    "Sustentação oral do advogado Lucas Turquino (Viação Catarina) em 0:50:30 a 1:06:00: pede deferimento, alega isonomia com Trans Turismo e Expresso Adamantina e ausência de óbice após revogação da cautelar do TCU.",
+    "No fim do 2.4.5 um diretor pediu esclarecimento sobre se o requerimento seria indeferido ou ficaria aguardando as novas normas; o relator confirmou indeferimento, com texto no DOU no dia seguinte (autoria da pergunta incerta)."
+  ]
+}

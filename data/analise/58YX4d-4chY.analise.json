@@ -1,0 +1,121 @@
+{
+  "meta": {"video_id": "58YX4d-4chY", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:07); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "949", "data": "2023-02-02", "formato": "videoconferência",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Luciano Lourenço", "Davi Barreto"],
+    "ausentes": ["Felipe Queiroz (férias)"],
+    "observacoes": ["Encerrada às 16h08 de 02/02/2023.", "Quatro diretores votaram em todos os itens; Lucas Asfor não é mencionado nem vota (ausência não declarada na sessão).", "Davi Barreto não votou a ata da RD 948 por estar de férias naquela reunião.", "Dois processos retirados de pauta (2.1.1 e 2.3.4), ambos de processos administrativos ordinários de passageiros análogos, para buscar entendimento homogêneo.", "No 2.3.3 (Elo Transporte de Fretamento) houve sustentação oral com exceção de suspeição contra o Diretor-Geral; Guilherme Sampaio propôs e foi aprovada determinação sobre abuso de peticionamento."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:07:30",
+      "processo": "", "interessado": "Secretaria-Geral",
+      "assunto": "Aprovação da ata da reunião de diretoria 948",
+      "tema": ["institucional"],
+      "relator": "Rafael Vitale", "resultado": "aprovada por unanimidade (Davi Barreto não vota)",
+      "resumo_voto": "Ata distribuída com 48 horas de antecedência; Davi Barreto não vota por estar de férias na reunião anterior.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo", "ts": "0:07:50", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "de acordo", "ts": "0:07:55", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "de acordo", "ts": "0:07:58", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.1.1", "ts": "0:08:04",
+      "processo": "50500.238307/2017", "interessado": "empresa de transportes S.A. (nome não captado pela legenda)",
+      "assunto": "Processo administrativo ordinário para apurar infrações à legislação de transporte rodoviário de passageiros",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Davi Barreto", "resultado": "retirado de pauta",
+      "resumo_voto": "Relator pede retirada por ser processo análogo ao de Luciano Lourenço (2.3.4), com diferenças de entendimento; busca-se deliberação homogênea do colegiado.",
+      "votos": []
+    },
+    {
+      "id": "2.1.2", "ts": "0:09:05",
+      "processo": "50500.264957/2022-33", "interessado": "Concessionária Rota do Oeste (CRO)",
+      "assunto": "Sexto termo aditivo ao contrato de concessão (Edital 3/2013, BR-163/MT): nova prorrogação de 60 dias do prazo do quarto termo aditivo (relicitação) para concluir as condições de eficácia do TAC",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "leilão / otimização"],
+      "relator": "Davi Barreto", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "A RD extraordinária 76 aprovou dois instrumentos (TAC com troca de controle acionário e retomada de investimentos; e aditivo de relicitação amigável nos termos da Lei 13.448/2017); nenhum produzindo efeitos ainda. Agência e TCU entendem que o melhor cenário é prevalecer o TAC; há engajamento das partes. Com base nas áreas técnicas e na Procuradoria, prorroga por mais 60 dias (já havia prorrogação pela Deliberação 363/2022).",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "relator, aprova prorrogação de 60 dias", "ts": "0:09:20", "justificativa": "preservar o TAC como melhor solução para a rodovia", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:11:45", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha integralmente o relator", "ts": "0:11:50", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:11:55", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.2.1", "ts": "0:12:16",
+      "processo": "50500.096771/2021-64", "interessado": "Trans Santana Transportes Rodoviários Ltda.",
+      "assunto": "Pedido de reconsideração (embargos de declaração com efeito infringente) contra a Deliberação 309/2022, que aplicou seis multas (cerca de R$ 30 mil)",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções", "judicializacao"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — conhecido, sem efeito suspensivo; não provido",
+      "resumo_voto": "Empresa alegava omissão por estarem as multas em execução fiscal na 12ª Vara Federal de Porto Alegre; Procuradoria esclareceu que os débitos foram baixados da dívida ativa da ANTT em 29/06/2012 (data conforme a legenda). Empresa será notificada a pagar; se não, nova inscrição em dívida ativa.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, nega provimento", "ts": "0:12:30", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "acompanha o relator", "ts": "0:15:05", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:15:10", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:15:15", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.3.1", "ts": "0:15:28",
+      "processo": "50500.194016/2022-25", "interessado": "Gabinete da Diretoria-Geral / Procuradoria (superintendências de rodovias e ferrovias consultadas)",
+      "assunto": "Alteração do art. 17 da Resolução 5.845/2019 (autocomposição e arbitragem na ANTT) para permitir o árbitro de emergência antes de recorrer ao Poder Judiciário",
+      "tema": ["regulação normativa", "judicializacao", "concessões rodoviárias", "ferrovias"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Procuradoria: a restrição ao Judiciário para medidas cautelares antes da instituição do tribunal arbitral não consta da Lei 9.307/1996; árbitro de emergência dá soluções mais ágeis e técnicas. Dispensa AIR e consulta/audiência por ser alteração que reduz exigências (art. 96, V, do Regimento), sem prejuízo de reforma mais ampla futura com participação social.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aprova", "ts": "0:15:45", "justificativa": "adequado à lei de arbitragem e às boas práticas regulatórias; ajuste pontual", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "de acordo com o relator", "ts": "0:21:05", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "0:21:10", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:21:15", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.3.2", "ts": "0:21:38",
+      "processo": "50500.271748/2022-46", "interessado": "Via Brasil BR-163 Concessionária de Rodovias S.A.",
+      "assunto": "Reajuste da tarifa básica de pedágio e início da cobrança nas praças P1 (Cláudia/MT) e P2 (Guarantã do Norte/MT) da BR-163/230 MT/PA",
+      "tema": ["concessões rodoviárias", "pedágio"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Contrato de 01/04/2022 (leilão de 08/07/2021, deságio de 8,09%), trecho de cerca de 1.009 km. Comissão de trabalhos iniciais aprovou (pareceres de 30/12/2022, 18/01/2023 e parecer 3 sobre o plano de ação de sinalização e pavimento). Reajuste de 24,17% (IPCA mai/2019 a dez/2022): tarifa quilométrica de R$ 7,867 para R$ 9,768 por 100 km conforme a legenda; categoria 1 em R$ 9,80 nas duas praças. Cobrança inicia em 10 dias. Relator havia retirado o item da deliberação eletrônica de 23-27/01/2023 para aprofundar a instrução. Valores segundo a legenda; confirmar.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, autoriza início da cobrança e reajuste", "ts": "0:22:00", "justificativa": "importância da rodovia para escoamento de grãos ao Arco Norte; entregas dos trabalhos iniciais; transição para fase de recuperação e manutenção", "tom": "entusiasmado", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "acompanha integralmente o relator", "ts": "0:36:10", "justificativa": "trecho estratégico para o agronegócio; elogia a comissão de fiscalização em campo", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente o relator", "ts": "0:37:05", "justificativa": "voto minucioso; concessões rodoviárias avançam para o Norte e trazem externalidades positivas", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:37:55", "justificativa": "marco em que as entregas da concessão passam a valer para a sociedade; fiscalização conjunta com a concessionária; viagem ao trecho no dia seguinte", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.3.3", "ts": "0:38:59",
+      "processo": "50500.087372/2022-1", "interessado": "Elo Transporte de Fretamento Ltda.",
+      "assunto": "Recurso (pedido de reconsideração) contra a Deliberação 389/2022 que cassou a autorização de fretamento por circuito aberto e venda de bilhetes via plataforma de fretamento colaborativo; sustentação oral do advogado Felipe Rodrigues",
+      "tema": ["ônibus (fretamento)", "fiscalização e sanções", "judicializacao", "inovação / plataformas"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — conhecido, sem efeito suspensivo; não provido; com determinação adicional proposta por Guilherme Sampaio sobre abuso de peticionamento",
+      "resumo_voto": "Empresa usava licença de fretamento eventual em serviço regular Recife - João Pessoa/Natal/Maceió/Campina Grande, em circuito aberto, vendendo bilhetes por plataforma. Cassação com base nos arts. 78-A, IV, e 78-H da Lei 10.233/2001 e art. 36 §5º do Decreto 2.521/1998; circuito fechado previsto na Res. 477/2015. Exceção de suspeição idêntica a outra já julgada improcedente (Deliberação 334/2022); recurso não é meio de alterar norma; sem interesse público em converter em multa. Registra erro formal na pauta (assunto), sem nulidade.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, nega provimento", "ts": "0:50:20", "justificativa": "empresa foi alertada por ofícios do risco de cassação; todos os argumentos já enfrentados no voto DDD 109/2022", "tom": "firme", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "acompanha o relator", "ts": "0:57:20", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator e propõe encaminhamento adicional", "ts": "0:57:40", "justificativa": "argumentos da sustentação foram exaustivamente enfrentados em outros casos; lei admite cassação; estudo da Fiac/Seae não vincula a agência; propõe que a Procuradoria apure abuso de peticionamento e tumulto processual", "tom": "crítico", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator, com o parágrafo proposto por Guilherme Sampaio", "ts": "1:01:40", "justificativa": "caso concreto deve avaliar intenção de tumultuar (suspeição arguida 1-2 horas antes da sessão); sugere avaliar incluir a matéria na revisão da Res. 5.083; encaminhar à Procuradoria para eventual infração ao OAB; agência atua sem posição a favor ou contra empresas", "tom": "firme", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.3.4", "ts": "1:06:13",
+      "processo": "50515.016061/2017-09", "interessado": "Viação Ouro e Prata S.A.",
+      "assunto": "Processo administrativo ordinário para apurar infrações à legislação de transporte rodoviário de passageiros",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Luciano Lourenço", "resultado": "retirado de pauta",
+      "resumo_voto": "Retirado por similitude com processo da relatoria de Davi Barreto (2.1.1), buscando convergência interpretativa sobre a norma aplicada.",
+      "votos": []
+    }
+  ],
+  "retirados": ["2.1.1 (PAO de empresa de transportes S.A., processo 50500.238307/2017, relator Davi Barreto)", "2.3.4 (PAO Viação Ouro e Prata, relator Luciano Lourenço)"],
+  "limites_da_analise": [
+    "Legenda automática: números de processo, valores de tarifa e nomes podem conter erros; o processo do 2.3.3 está truncado na legenda.",
+    "Presença de Lucas Asfor não confirmada: ele não é citado e não vota em nenhum item; a ausência de Felipe Queiroz foi declarada (férias).",
+    "ts de votos de seguidores aproximados (especialmente no 2.3.2 e 2.3.3).",
+    "No 2.3.3 o advogado Felipe Rodrigues pediu adiamento por erro da pauta, apreciação da exceção de suspeição contra o Diretor-Geral (inquérito da Polícia Federal noticiado na mídia) e inaplicabilidade da cassação; o Diretor-Geral negou a retirada de pauta e afirmou que a suspeição já foi decidida e que não é indiciado.",
+    "Quem pronunciou cada fala no debate final do 2.3.3 foi inferido pelo contexto (propostas de Guilherme Sampaio e Rafael Vitale)."
+  ]
+}

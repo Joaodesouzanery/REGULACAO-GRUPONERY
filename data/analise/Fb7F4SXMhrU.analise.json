@@ -1,0 +1,115 @@
+{
+  "meta": {"video_id": "Fb7F4SXMhrU", "fonte": "legenda automática do YouTube (de baixa qualidade); falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "954", "data": "2023-04-12", "formato": "presencial com transmissão ao vivo no YouTube",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Luciano Lourenço", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Ata da 953ª reunião aprovada sem leitura (distribuída com 48h de antecedência), com concordância de todos.", "Luciano Lourenço justifica saída ao final da reunião para representar a ANTT no início de obras da travessia urbana de Cristalina (GO).", "6 itens deliberados, todos por unanimidade; item 2.2.4 (Concer, decisão 221/2020) retirado de pauta por Felipe Queiroz.", "Encerrada às 9h51 (sessão de ≈ 36 min)."]
+  },
+  "itens": [
+    {
+      "id": "2.1.1", "ts": "0:00:44",
+      "processo": "50500.xxxxxx (ilegível na legenda)", "interessado": "Guerino Seiscento Transportes (CSA)",
+      "assunto": "Pedido de reconsideração contra a deliberação 36 de 16/02/2023 que aplicou multa de R$ 25.386,62 por operar mercado sem autorização (Assis/SP a Curitiba/PR), art. 65 da Res. 5.083/2016",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — reconsideração conhecida, sem efeito suspensivo, desprovida",
+      "resumo_voto": "Pedido tempestivo e por parte legítima; a empresa não requereu efeito suspensivo. Alegação de violação da isonomia (comparação com o processo da Princesa do Norte) rejeitada, pois aquele processo não fora apreciado quando da deliberação 36; argumentos já analisados pela comissão processante e pela diretoria, sem elementos novos.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, conhece, sem efeito suspensivo, nega provimento", "ts": "0:01:40", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:05:10", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:05:18", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator; pondera que não cabe analisar efeito suspensivo quando a parte sequer o requereu", "ts": "0:05:22", "justificativa": "ponderação de procedimento sobre ausência de pedido específico de efeito suspensivo", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator e concorda com a ponderação de Lucas Asfor", "ts": "0:05:50", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.1.2", "ts": "0:06:03",
+      "processo": "50500.114424/2018-25", "interessado": "Princesa do Norte S.A.",
+      "assunto": "Processo administrativo ordinário por exploração de mercado não autorizado (Assis/SP a Curitiba/PR); proposta de cassação convertida em multa",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — multa de R$ 23.877,59",
+      "resumo_voto": "Fiscalização comprovou operação sem outorga, mesmo após notificação; a empresa admitiu operar por anos sem autorização. A sugestão da comissão (declaração de inidoneidade) é inaplicável segundo a Procuradoria; a Sufis sugeriu arquivar porque o mercado foi autorizado depois (Portaria 488/2020), mas o relator discorda (irretroatividade da norma penal benigna na esfera administrativa; autorização posterior não é indulto). Seria cabível cassação (art. 78-H), porém, dado o serviço de qualidade e a regularização, converte-se a penalidade em multa (art. 65 da Res. 5.083/2016), pela dosimetria da Sufis.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aplica multa por conversão da cassação", "ts": "0:06:08", "justificativa": "infração grave reconhecida pela própria empresa, mas qualidade do serviço e regularização justificam convolação em multa", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:10:46", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:10:49", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:10:51", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:10:53", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.2.1", "ts": "0:11:05",
+      "processo": "50511.0878/2021-22 (parcial na legenda)", "interessado": "Planalto Transporte Ltda.",
+      "assunto": "Aplicação de suspensão dos mercados Curitiba/PR–Concórdia/SC e São Mateus do Sul/PR–São Paulo por 105 dias, convolada em multa (cerca de R$ 31 mil)",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — suspensão aplicada e convolada em multa",
+      "resumo_voto": "Denúncias de 2017 e 2019 (linha intermunicipal Curitiba–União da Vitória–Erechim–São Paulo; venda de bilhetes Itapema–São Paulo) confirmadas em fiscalização. A empresa depois obteve autorização para dois seccionamentos, mas a infração permanece. Aplica suspensão de 105 dias (art. 14 §2º da Lei 10.233/2001; art. 78-A, III e 78-G) e a convola em multa (art. 65 da Res. 5.083/2016 e art. 4º da Res. 233/2003) conforme alternativa da área técnica.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aplica suspensão convolada em multa", "ts": "0:11:20", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:15:05", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:15:07", "confianca": "baixa"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:15:09", "confianca": "baixa"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:15:11", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2.2.2", "ts": "0:15:16",
+      "processo": "50500.349939/2019-25 (parcial)", "interessado": "empresa de transporte (nome ilegível na legenda; prefixo 12-016100, linha São Luís de Montes Belos/GO – Porto Velho/RO)",
+      "assunto": "Processo administrativo ordinário: cassação de mercado (São Luís de Montes Belos/GO – Várzea Grande/MT) por reincidência em serviço não autorizado Goiânia–Cuiabá",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — cassação do mercado",
+      "resumo_voto": "Denúncia de outubro de 2017 levou a fiscalização em Cuiabá constatando serviço não autorizado Goiânia–Cuiabá; a Resolução 5.754/2018 já havia cassado o serviço São Luís de Montes Belos–Porto Velho e não foi eficaz, pois a empresa seguiu ofertando serviços não autorizados. Cassação com base no art. 86, VI, do Decreto 2.521/1998 e art. 78-H da Lei 10.233/2001.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aplica cassação do mercado", "ts": "0:15:30", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:17:20", "confianca": "baixa"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:17:22", "confianca": "baixa"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:17:25", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:17:28", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2.2.3", "ts": "0:17:34",
+      "processo": "50505.310158/2019-09", "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio (Concer)",
+      "assunto": "Recurso voluntário contra a decisão 296/2020 (Surod) que manteve multa de 90 URTs por não repor tachas, tachões e balizadores refletivos em 72h na BR-040 (km 773 MG a km 125 RJ); art. 5º, IX, da Res. 4.071/2013",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — recurso conhecido e desprovido",
+      "resumo_voto": "Concer alegou bis in idem, atipicidade, impossibilidade de usar o relatório de monitoração como instrumento sancionatório, desequilíbrio contratual pela suspensão parcial do 12º termo aditivo pelo TCU e desproporção. A concessionária não trouxe elementos novos; mantida a multa de 90 URTs (Relatório à Diretoria 11/2023).",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, conhece e nega provimento", "ts": "0:17:50", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:26:10", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:26:13", "confianca": "baixa"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:26:16", "confianca": "baixa"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:26:19", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2.2.4", "ts": "0:26:28",
+      "processo": "50503.11882/2017-81 (parcial)", "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio (Concer)",
+      "assunto": "Recurso contra a decisão 221/2020 (Surod) que aplicou multa",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "retirado de pauta pelo relator",
+      "resumo_voto": "Relator informa que retira o item de pauta, sem justificar na gravação.",
+      "votos": []
+    },
+    {
+      "id": "2.3.1", "ts": "0:27:11",
+      "processo": "50505.105327/2016-30", "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio (Concer)",
+      "assunto": "Recurso contra a decisão 28/2020 (Surod) que aplicou multa por descumprir cronograma de manutenção e conservação do viaduto da Reduc (auto de infração 1667/2016)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — recurso conhecido e parcialmente provido (multa reduzida a 3.220 URTs)",
+      "resumo_voto": "Pena inicial de 3.484,50 URTs, reduzida a 3.450; a coordenação de instrução propôs reenquadramento na cláusula 223 (4 URTs/dia, quadro 9B) com atenuante de 10% (4.140 URTs). Lucas reconhece violação à tipicidade da cláusula original, mas mantém a multa moratória por reenquadramento; rejeita o uso do relatório de monitoramento como vício, o desequilíbrio do 12º termo aditivo (Parecer PFE 379/2018) e a tese de limite de mil unidades (cláusula 225; Parecer 388/2022). Aplica atenuante de 10% (ausência de infrações julgadas nos 3 anos anteriores) e mais 20% por reparos parciais antes da decisão (art. 67 §1º, II e III, Res. 5.083/2016), chegando a 3.220 URTs.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, conhece e dá parcial provimento (3.220 URTs)", "ts": "0:27:30", "justificativa": "tipicidade ajustada por reenquadramento; atenuantes de 10% e 20% reduzem a pena", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:35:13", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha integralmente o relator", "ts": "0:35:18", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:35:24", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:35:29", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"item": "2.2.4 — Concer, recurso contra a decisão 221/2020 (Surod)", "relator": "Felipe Queiroz", "motivo": "retirado de pauta pelo relator, sem justificativa audível", "ts": "0:26:53"}
+  ],
+  "limites_da_analise": ["Legenda automática de baixa qualidade: nomes de empresas, números de processo e valores (ex.: multa de Planalto 'cerca de R$ 31 mil') distorcidos ou truncados; valores omitidos quando incertos.", "Falantes e ts dos votos de seguidores aproximados; muitos votos 'com o relator' sem identificação clara do diretor.", "Item 2.2.2: nome da empresa e processo ilegíveis; item 2.2.1: número de processo parcial.", "Guerino 'Seiscento' é leitura provável da legenda ('Guerino 600'); nome real pode diferir."]
+}

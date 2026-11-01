@@ -1,0 +1,28 @@
+{
+  "meta": {"video_id": "gw2fw05g5Mc", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:06)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "80 (extraordinária)", "data": "2023-09-06", "formato": "presencial/transmitida ao vivo (microfone aberto, indício de participação remota de algum diretor)",
+    "presidente_da_sessao": "não identificado com segurança na legenda (quem presidiu leu a pauta e encerrou a sessão)",
+    "diretores_presentes": ["Guilherme Sampaio", "Luciano Lourenço", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Reunião extraordinária curta (encerrada às 13h19), com um único item: novo plano de outorga da BR-040/MG (Belo Horizonte a Juiz de Fora), aprovado por unanimidade.", "O projeto Rio-BH, já analisado pelo TCU (Acórdão 752/2023), foi dividido em dois lotes por diretriz do Ministério dos Transportes (Ofício 953, de 17/08/2023)."]
+  },
+  "itens": [
+    {
+      "id": "1.1", "ts": "0:15:21",
+      "processo": "50500.281729/2023-17", "interessado": "SUCON (Superintendência de Concessão da Infraestrutura)",
+      "assunto": "Novo plano de outorga da concessão do sistema rodoviário da BR-040/MG, trecho Belo Horizonte a Juiz de Fora (cerca de 231 km), após a separação do projeto BH-Rio em dois lotes; encaminhamento ao Ministério dos Transportes",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "participação social"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Por diretriz do Ministério dos Transportes (Ofício 953/2023, com base em nota técnica da Infra S.A.), o projeto BH-Rio foi dividido em BH a Juiz de Fora e Juiz de Fora ao Rio, o que melhora o equilíbrio dos investimentos, as condições de financiamento e permite antecipar obras. Os ajustes não alteram estruturalmente o objeto: a audiência pública de 2021 colheu mais de 400 contribuições, em grande parte incorporadas, e não há alteração do escopo de obras; por isso o relator entende desnecessária nova participação e controle social (Resolução 6/2013 da ANTT, conforme a legenda). Investimentos de cerca de R$ 9 bilhões em 30 anos, mais de 45 mil empregos, 164 km de duplicações, 43 km de faixas adicionais, entre outras obras e equipamentos operacionais.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova o novo plano de outorga", "ts": "0:15:30", "justificativa": "atende à diretriz de política pública e ao interesse da sociedade; antecipação de investimentos; participação social já realizada torna desnecessário novo processo", "tom": "técnico, com agradecimentos às equipes", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha na íntegra o relator", "ts": "0:22:28", "justificativa": "destaca a importância do leilão e a maior vantajosidade nos investimentos", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha na íntegra o relator", "ts": "0:23:52", "confianca": "baixa"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha integralmente o relator", "ts": "0:24:38", "justificativa": "celeridade para o leilão da BR-040, que encerra a primeira relicitação da agência; trecho de tráfego intenso e caminhões pesados da mineração; elogia o tratamento dado à participação social", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["A legenda não identifica os falantes: a atribuição dos votos dos 2º e 3º diretores a se manifestarem (0:23:52 e 0:24:38) entre Lucas Asfor e Felipe Queiroz é inferida e incerta, assim como quem presidiu a sessão.", "Menções a Marcelo Fonseca na legenda referem-se ao superintendente de concessões, não a diretor votante.", "A referência à resolução sobre participação e controle social (6/2013) saiu como “620 213” na legenda; é interpretação.", "Os números de investimento e de obras foram lidos da legenda automática e podem conter erros."]
+}

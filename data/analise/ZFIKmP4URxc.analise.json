@@ -1,0 +1,174 @@
+{
+  "meta": {"video_id": "ZFIKmP4URxc", "fonte": "legenda automática do YouTube (qualidade baixa); falantes inferidos; ts = tempo do vídeo (sessão começa ~0:00:47); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "964", "data": "2023-08-31", "formato": "videoconferência, transmitida ao vivo no YouTube",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Luciano Lourenço", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Parte pública encerrada às 9h13 (nesta transcrição, ≈ 0:55:36 de vídeo). Procuradora presente: Dra. Valesca; secretária-geral: Renata.", "Item 1.1.1 (processo administrativo disciplinar da Corregedoria, relator Luciano Lourenço) tem acesso restrito e foi julgado em sessão reservada, sem conteúdo na transmissão.", "Sustentação oral do advogado Leonardo Coelho Ribeiro (Rumo S.A.) no item 1.1.2.", "Lucas Asfor retirou de pauta os três processos administrativos ordinários de sua relatoria (1.3.1, 1.3.2, 1.3.3).", "Itens 1.2.1 a 1.2.5 (termos aditivos de cinco concessionárias, cumprimento do Acórdão TCU 1447/2018-Plenário) relatados em bloco por Felipe Queiroz e aprovados por unanimidade."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:01:47",
+      "processo": "50500.036770/2021-82", "interessado": "Corregedoria",
+      "assunto": "Processo administrativo disciplinar (PAD), com acesso restrito; julgamento ao final da transmissão, restrito às partes e ao procurador",
+      "tema": ["institucional"],
+      "relator": "Luciano Lourenço", "resultado": "sigiloso — julgamento em sessão reservada, resultado não consta na transmissão",
+      "resumo_voto": "Item sigiloso (art. 64, V, e 65 da Instrução Normativa 14/2018 e art. 48 §1º do Regimento Interno); sem deliberação pública.",
+      "votos": []
+    },
+    {
+      "id": "1.1.2", "ts": "0:02:38",
+      "processo": "50500.030705/2022-11", "interessado": "Rumo S.A.",
+      "assunto": "Pedido de reconsideração contra a deliberação 94 de 31/03/2023 que indeferiu o pedido de outorga por autorização para construir e explorar estrada de ferro entre Cubatão, Santos e Guarujá (SP); sustentação oral",
+      "tema": ["ferrovias", "autorizações ferroviárias", "judicializacao"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — reconsideração conhecida e desprovida",
+      "resumo_voto": "Sustentação oral (Dr. Leonardo Coelho, Rumo): pedido iniciado na vigência da MP 1.065/2021 e retomado sob a Lei 14.273 e a Res. ANTT 5.987; após a NT 783/2023 apontar incompatibilidade locacional com ferrovia existente, deveria ter sido dado o prazo de 60 dias (art. 7º da Res. 5.987) para soluções; o ofício de 2021 (prazo de 15 dias) foi só pedido de esclarecimentos; pede nulidade da Del. 94/2023. Voto do relator: o ofício já apontava conflito com a infraestrutura da MRS; a análise ocorreu sob a MP, cuja Portaria MInfra 131/2021 também previa 60 dias; a Rumo apresentou soluções em dois protocolos (um fora do prazo de 15 dias), nunca alegou prejuízo nem pediu prorrogação, e nulidade exige prejuízo (STF); nada impede novo requerimento com nova solução técnica.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, conhece e nega provimento", "ts": "0:14:04", "justificativa": "ausência de prejuízo demonstrado, instrução completa e inexistência de fato novo; guardião do regulamento", "tom": "técnico, cordial com o advogado", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente o relator", "ts": "0:20:20", "justificativa": "foi relator do voto originário; os pontos procedimentais e de mérito foram enfrentados", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:20:56", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:21:05", "justificativa": "sustentação tecnicamente boa, mas sem fato novo", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:21:58", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:22:47",
+      "processo": "50500.054673/2023-11", "interessado": "Autopista Planalto Sul S.A.",
+      "assunto": "Primeiro termo aditivo ao contrato (edital 006/2007?): novo cronograma de investimentos reprogramados e desconto de reequilíbrio (Fator D) em atendimento ao Acórdão TCU 1447/2018-Plenário (item 9.3.9)",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "institucional / TCU"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade (bloco 1.2.1 a 1.2.5)",
+      "resumo_voto": "Voto em bloco: aprova termos aditivos que incluem novo cronograma de investimentos não executados ou em atraso e novo mecanismo de reequilíbrio (desconto de reequilíbrio, Fator D), em cumprimento ao Acórdão 1447/2018 do TCU; TCU autorizou a modulação dos efeitos da determinação, permitindo processo negocial de cerca de um ano com todas as concessionárias.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova o termo aditivo", "ts": "0:24:21", "justificativa": "reprogramação executável, transparência no processo e atendimento ao TCU", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:30:54", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator; elogia a objetividade do voto e o trabalho das áreas", "ts": "0:31:20", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha plenamente o relator", "ts": "0:32:00", "justificativa": "trabalho complexo, transparente e de grande repercussão sobre os contratos", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator; agradece ao TCU pela modulação", "ts": "0:32:44", "justificativa": "processo negocial com concessionárias, contratos mais aderentes às boas práticas e cronogramas previsíveis para usuários", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "0:22:47",
+      "processo": "50500.056485/2023-28", "interessado": "Autopista Régis Bittencourt S.A.",
+      "assunto": "Segundo termo aditivo ao contrato (edital 001/2007): cronograma reprogramado e Fator D (Acórdão TCU 1447/2018)",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "institucional / TCU"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade (bloco)",
+      "resumo_voto": "Mesma fundamentação do bloco (item 1.2.1).",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova o termo aditivo", "ts": "0:24:21", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:30:54", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:31:20", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:32:00", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:32:44", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.3", "ts": "0:22:47",
+      "processo": "50500.056486/2023-72", "interessado": "Autopista Litoral Sul S.A.",
+      "assunto": "Termo aditivo ao contrato: cronograma reprogramado e Fator D (Acórdão TCU 1447/2018)",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "institucional / TCU"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade (bloco)",
+      "resumo_voto": "Mesma fundamentação do bloco (item 1.2.1).",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova o termo aditivo", "ts": "0:24:21", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:30:54", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:31:20", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:32:00", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:32:44", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.4", "ts": "0:22:47",
+      "processo": "50500.056489/2023-14", "interessado": "Autopista Fernão Dias S.A.",
+      "assunto": "Termo aditivo ao contrato (edital 006/2007?): cronograma reprogramado e Fator D (Acórdão TCU 1447/2018)",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "institucional / TCU"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade (bloco)",
+      "resumo_voto": "Mesma fundamentação do bloco (item 1.2.1).",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova o termo aditivo", "ts": "0:24:21", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:30:54", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:31:20", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:32:00", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:32:44", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.5", "ts": "0:22:47",
+      "processo": "50500.056490/2023-31", "interessado": "Transbrasiliana Concessionária de Rodovias S.A.",
+      "assunto": "Termo aditivo ao contrato: cronograma reprogramado e Fator D (Acórdão TCU 1447/2018)",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "institucional / TCU"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade (bloco)",
+      "resumo_voto": "Mesma fundamentação do bloco (item 1.2.1).",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova o termo aditivo", "ts": "0:24:21", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:30:54", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:31:20", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:32:00", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:32:44", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.6", "ts": "0:35:03",
+      "processo": "50500.087271/2023-01", "interessado": "Superintendência de Infraestrutura Rodoviária (Surod)",
+      "assunto": "Alteração da Res. 5.818/2018 (delegação de competência da Diretoria à Superintendência) e da Instrução Normativa 18/2018, para delegar à Surod a aprovação de reajustes tarifários e revisões ordinárias em concessões rodoviárias; eficácia a partir de outubro de 2023",
+      "tema": ["concessões rodoviárias", "regulação normativa", "reequilíbrio contratual", "institucional"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Procuradoria concordou com a dispensa de participação social e AIR; delegação segue o modelo já adotado para ferrovias (Res. 6.116/2023); relator entende que a Surod deve aprovar também o reajuste da tarifa básica de pedágio junto com a revisão ordinária, em nome da celeridade e desburocratização; eficácia em outubro de 2023 (Decreto 10.139/2019).",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova a delegação", "ts": "0:35:20", "justificativa": "celeridade, previsibilidade e menos burocracia", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:40:06", "justificativa": "pela primeira vez as revisões ordinárias terão regularidade e previsibilidade", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:40:20", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:40:35", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:40:46", "justificativa": "mais dinamismo e eficiência na relação contratual", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.7", "ts": "0:41:49",
+      "processo": "50500.039205/2017", "interessado": "Superintendência de Concessão da Infraestrutura (Sucon)",
+      "assunto": "Abertura de audiência pública sobre o aprimoramento da metodologia e atualização do cálculo do WACC regulatório para ferrovias federais concedidas",
+      "tema": ["ferrovias", "regulação normativa", "participação social", "reequilíbrio contratual"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Item da agenda regulatória 2023-2024 (Del. 358/2022). WACC regulatório vigente (Res. 5.925/2021): 10,85% a.a. até 31/12/2023; nova taxa para 2024-2026. Nova metodologia usa a TLP e diferencia o risco do projeto em quatro bandas (CR0 a CR3), com prêmios que somam à TLP de cerca de 1,53 a 7,28 pontos percentuais; exemplo com TLP de 5% a.a. (ago/2023) resulta em WACC de 6,84% a 12,59%. Houve reunião participativa, relatório de AIR e três minutas de resolução; a Procuradoria preferiu analisar após a audiência.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova abertura de audiência pública e as minutas", "ts": "0:42:00", "justificativa": "previsibilidade, segurança jurídica, resposta a apontamentos de TCU, PFE e auditoria interna; taxa vigente expira em 31/12/2023", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:51:50", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:51:53", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator; elogia a completude e fundamentação técnica do voto", "ts": "0:51:58", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:52:20", "justificativa": "maturidade da governança e controle social ampliado; aprimoramento da regulação sem aumentar o fardo regulatório", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "0:54:05",
+      "processo": "50502376022/2022-71 (provável)", "interessado": "Turispal Transportes e Turismo Ltda. (conforme legenda 'Spawn')",
+      "assunto": "Processo administrativo ordinário para apurar infrações na legislação de transporte rodoviário de passageiros",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "retirado de pauta",
+      "resumo_voto": "Relator retira o item e os itens 1.3.2 e 1.3.3 de pauta, sem explicar o motivo.",
+      "votos": []
+    },
+    {
+      "id": "1.3.2", "ts": "0:54:50",
+      "processo": "", "interessado": "não identificado na legenda",
+      "assunto": "Processo administrativo ordinário (infrações na legislação de transporte rodoviário de passageiros)",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "retirado de pauta",
+      "resumo_voto": "Retirado de pauta pelo relator.",
+      "votos": []
+    },
+    {
+      "id": "1.3.3", "ts": "0:54:50",
+      "processo": "", "interessado": "não identificado na legenda",
+      "assunto": "Processo administrativo ordinário (infrações na legislação de transporte rodoviário de passageiros)",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "retirado de pauta",
+      "resumo_voto": "Retirado de pauta pelo relator.",
+      "votos": []
+    }
+  ],
+  "retirados": [
+    {"item": "1.3.1 — processo administrativo ordinário (transporte rodoviário de passageiros)", "relator": "Lucas Asfor", "motivo": "não declarado", "ts": "0:54:50"},
+    {"item": "1.3.2 — processo administrativo ordinário (transporte rodoviário de passageiros)", "relator": "Lucas Asfor", "motivo": "não declarado", "ts": "0:54:50"},
+    {"item": "1.3.3 — processo administrativo ordinário (transporte rodoviário de passageiros)", "relator": "Lucas Asfor", "motivo": "não declarado", "ts": "0:54:50"}
+  ],
+  "limites_da_analise": ["Legenda automática de baixa qualidade: nomes (ex.: 'Spawn', Turispal), números de processo, valores e editais (006/2007) distorcidos; só números nítidos foram mantidos.", "Itens 1.2.1 a 1.2.5 votados em bloco: ts e justificativas dos seguidores são comuns ao bloco e aproximados; o número de aditivo de cada concessionária é incerto na legenda (menção a segundo termo para Régis Bittencourt e primeiro para Planalto Sul).", "Item 1.1.1 (PAD da Corregedoria) é sigiloso, sem resultado disponível.", "Valores do WACC (faixas CR0 a CR3) vêm da legenda; conferir na nota técnica antes de citar."]
+}

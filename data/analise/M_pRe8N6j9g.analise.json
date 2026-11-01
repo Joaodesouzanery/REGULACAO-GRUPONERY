@@ -1,0 +1,149 @@
+{
+  "meta": {"video_id": "M_pRe8N6j9g", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:04); ts de votos de seguidores aproximados; transcrição disponível termina em 0:59:20, no meio do item 1.3.2", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "969", "data": "2023-11-09", "formato": "videoconferência",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Luciano Lourenço", "Lucas Asfor"],
+    "ausentes": ["Felipe Queiroz (ausência justificada)"],
+    "observacoes": ["A transcrição disponível termina em 0:59:20, durante o relato do item 1.3.2 (Politur); a reunião provavelmente continuou, mas o restante não está na fonte.", "Incluído extrapauta (homologação do leilão do Lote 2 do Paraná) por urgência, com concordância de todos os diretores.", "Retirado de pauta o item 1.2.1 (Concer, recurso contra decisão de 2020).", "Todos os itens deliberados até o corte foram unânimes."]
+  },
+  "itens": [
+    {
+      "id": "extrapauta-inclusao", "ts": "0:04:38",
+      "processo": "50500.234565/2022-40", "interessado": "SUCON (Superintendência de Concessão da Infraestrutura)",
+      "assunto": "Inclusão em pauta, em caráter extrapauta, do processo de homologação do resultado do leilão do sistema rodoviário do Paraná (Lote 2)",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "institucional"],
+      "relator": "Luciano Lourenço", "resultado": "inclusão aprovada por unanimidade",
+      "resumo_voto": "Diretor-Geral justifica relevância e urgência; os diretores concordam com a inclusão.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com a inclusão", "ts": "0:05:10", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "de acordo com a inclusão", "ts": "0:05:12", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "de acordo com a inclusão", "ts": "0:05:14", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.1", "ts": "0:06:19",
+      "processo": "50500.012713/2022-77", "interessado": "CMW Transportes Ltda.",
+      "assunto": "Pedido de reconsideração contra a Deliberação 255/2023 (17/08/2023) que aplicou cassação da autorização de fretamento",
+      "tema": ["ônibus (fretamento)", "fiscalização e sanções"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — conhecido, sem efeito suspensivo; não provido",
+      "resumo_voto": "Cassação com base no art. 36 §5º do Decreto 2.521/1998 e art. 78-A/78-H da Lei 10.233/2001, por prestação de serviço não autorizado (modalidade diversa da autorizada); área técnica opinou pela improcedência dos argumentos; sem razões para efeito suspensivo.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, nega provimento", "ts": "0:06:40", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:08:30", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:08:34", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:08:41", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:05:40",
+      "processo": "50500.118805/2023", "interessado": "Concessionária Rodovia Juiz de Fora - Rio (Concer)",
+      "assunto": "Recurso contra a Decisão 3/2020 que aplicou penalidade à concessionária",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Luciano Lourenço", "resultado": "retirado de pauta",
+      "resumo_voto": "Relator registra a retirada de pauta no início da reunião (sem justificativa expressa na transcrição). Número do processo conforme a legenda; incerto.",
+      "votos": []
+    },
+    {
+      "id": "1.2.2", "ts": "0:08:56",
+      "processo": "50500.237550/2022-33", "interessado": "Lídia Turismo Ltda.",
+      "assunto": "Pedido de reconsideração contra a Deliberação 320/2023 (28/09/2023) que cassou o TAF (autorização de fretamento) por circuito aberto; sustentação oral do advogado Marcos Rivaldo Fernandes Plácido",
+      "tema": ["ônibus (fretamento)", "fiscalização e sanções", "inovação / plataformas", "judicializacao"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — conhecido, sem efeito suspensivo; não provido",
+      "resumo_voto": "Empresa alegou desconhecer o processo (notificações assinadas por ex-funcionária), falha de acesso ao link da sustentação, pauta sem antecedência e que cedeu ônibus à Buser (63% das viagens). Relator: intimação por e-mail e AR (assinados em 28/11/2022 e posteriormente) é válida; a pauta cumpre a Lei 9.784 art. 66; a reunião iniciou às 14h45 sem notificação de admissão da empresa; a responsabilidade pela viagem é de quem emite a licença (art. 6º da Res. 4.777/2015, vedada a subautorização); plataformas tecnológicas são lícitas se empresas cumprem a regra; cassação não foi meio coercitivo de cobrança de multas impeditivas. Efeitos da Deliberação 320 estão suspensos por mandado de segurança. TAF válido até 13/09/2026. Número de processo e normas conforme a legenda.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, nega provimento", "ts": "0:25:00", "justificativa": "empresa ciente do risco de cassação; reiteração do circuito aberto; ausência de fatos novos; voto DL 90/2023 integrado", "tom": "técnico", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:29:00", "justificativa": "cumprimenta o advogado; elogia fundamentação técnica e histórico processual", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:29:50", "justificativa": "voto com apego ao arcabouço normativo e às provas", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:30:41", "justificativa": "voto é uma aula sobre a regulamentação do fretamento", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.3", "ts": "0:31:20",
+      "processo": "50500.066938/2023-2", "interessado": "SUROD e SUFER",
+      "assunto": "Alteração da Resolução 5.819/2018 (procedimentos para requerimento de declaração de utilidade pública, DUP, em projetos de outorgas da ANTT)",
+      "tema": ["regulação normativa", "concessões rodoviárias", "ferrovias"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Três ajustes: (i) revogar §§2º e 3º do art. 1º sobre autorização legislativa para desapropriação de bens públicos (gera expectativas indevidas no Legislativo; bens da União são inexpropriáveis); (ii) exigir nível de anteprojeto (normas da ANTT ou ABNT) no art. 3º; (iii) revogar arts. 14 e 15 que citam a Res. 2.695/2008, já revogada pela Res. 5.956/2021. Norma de baixo impacto: dispensa agenda regulatória, AIR e participação social; Procuradoria sem óbice. Relator destaca que, com a delegação, a DUP sai em cerca de 15 dias contra 2 a 5 anos quando era decreto presidencial.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aprova", "ts": "0:31:30", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:36:00", "justificativa": "celeridade da DUP frente ao trâmite moroso anterior", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:36:15", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:36:20", "justificativa": "Luciano Lourenço tem experiência em desapropriação", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.4", "ts": "0:36:37",
+      "processo": "50500.033613/2022-84", "interessado": "Transporte Coletivo Brasil Ltda. (TCB)",
+      "assunto": "Embargos de declaração contra a Deliberação 302/2023 (14/09/2023), em processo administrativo ordinário com pena de cassação",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções", "judicializacao"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — embargos não conhecidos",
+      "resumo_voto": "Segundos embargos: apontam omissão por violação à isonomia, mas apenas rediscutem o mérito já analisado nos votos DL 60 e DL 73 (convolação da cassação em multa é faculdade da Diretoria, considerando antecedentes e reincidência). Reconhece o direito de petição como não absoluto e vê abuso e má-fé processual da embargante. Voto DL 92/2023 integrado.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, não conhece os embargos", "ts": "0:36:50", "justificativa": "recurso protelatório; direito de petição tem limites; dever de lealdade e boa-fé", "tom": "firme", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator, com encaminhamento", "ts": "0:41:30", "justificativa": "voto servirá de paradigma; pede à Secretaria-Geral levantar o status do procedimento e do parecer da Procuradoria sobre penalidade por abuso de peticionamento, inclusive oficiar o órgão de classe do advogado", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:43:00", "justificativa": "sugere refletir sobre aplicar litigância de má-fé (CPC e Lei 9.784) com multa em casos reiterados", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:43:40", "justificativa": "levará o tema a uma reunião de diretoria administrativa; lamenta a falta de aderência regulatória dos regulados", "tom": "frustrado", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.5", "ts": "0:44:43",
+      "processo": "50500.141498/2023-00", "interessado": "Vale S.A. (concessionária da EFVM)",
+      "assunto": "Aprovação do projeto executivo da via permanente no trecho km 116+460 a km 131+260 da Ferrovia de Integração Centro-Oeste (FICO), no acordo de investimentos do anexo 9 do 3º termo aditivo da EFVM",
+      "tema": ["ferrovias", "concessões ferroviárias (subsídio cruzado)"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Projeto e certificado de inspeção submetidos em 25/05/2023; Infra S.A. concordou com rampa máxima compensada de 0,25% nos pátios; checklist formal atendido, matéria técnica sem necessidade de nova análise da Procuradoria. Relator destaca a inspeção acreditada como ganho de segurança e fala de visitas à obra com o Diretor-Geral.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aprova o projeto executivo", "ts": "0:45:20", "justificativa": "obra a todo vapor; política pública do subsídio cruzado dando certo", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:47:30", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:47:35", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:47:38", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "extrapauta", "ts": "0:48:38",
+      "processo": "50500.234565/2022-40", "interessado": "SUCON",
+      "assunto": "Homologação do resultado do leilão do sistema rodoviário do Paraná (Lote 2; BR-153, 277, 369 e PR-092, 151, 239, 407, 408, 411, 508, 804 e 855; Edital 2/2023)",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "pedágio"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — leilão homologado em favor do Consórcio Infraestrutura PR",
+      "resumo_voto": "Edital aprovado pela Deliberação 171/2023 (07/06/2023); comissão de outorga designada pela Portaria 4/2023 da SUCON. Proponente única: Consórcio Infraestrutura PR (EPR, Equipav, Perfin). Sessão pública na B3 em 29/09/2023 (14h25) com desconto de 8% sobre a tarifa de pedágio; ata de análise e julgamento divulgada em 11/10/2023. Processo sem intercorrências, atos publicados no DOU e no portal.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, homologa o resultado", "ts": "0:48:55", "justificativa": "lisura e transparência do certame; importância do lote para o estado e o país", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:51:35", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:51:40", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:51:45", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "0:52:01",
+      "processo": "50500.112749/2021-79", "interessado": "SUROC (Superintendência de Serviços de Transporte Rodoviário e Multimodal de Cargas)",
+      "assunto": "Alteração do art. 25-B da Resolução 5.862/2019 (CIOT): reabertura do prazo para instituições de pagamento comprovarem pedido de adesão ao arranjo Pix e adequação à nova redação do art. 22-B da Lei 11.442/2007",
+      "tema": ["transporte rodoviário de cargas (piso mínimo do frete/CIOT)", "regulação normativa"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Prazo anterior (31/07/2023) vencido; das 33 instituições habilitadas até 22/12/2022 só 6% comprovaram participação no Pix e 39% demonstraram ter pedido adesão ao Banco Central; consultas formais ao BC pendentes; objetivo é reduzir risco de concentração de mercado. Lei 11.442/2007 alterada em junho de 2023. Procuradoria sem óbice; dispensa AIR e participação social por baixo impacto.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova com dispensa de AIR e PPCS", "ts": "0:52:20", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:56:30", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:56:38", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:56:44", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.2", "ts": "0:56:50",
+      "processo": "50525.005446655", "interessado": "Politur Transporte e Agência de Turismo Ltda.",
+      "assunto": "Recurso (requerimento de 11/10/2023) contra a Deliberação 253/2023 (17/08/2023), que manteve a cassação da Deliberação 122/2023 (27/04/2023) por descumprimento dos requisitos mínimos da Res. 4.770/2015",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "não consta (transcrição interrompida durante o relato)",
+      "resumo_voto": "Até o corte o relator indica que a Deliberação 253/2023 é decisão definitiva da Diretoria e, pelo regramento do processo de apuração de infrações e pela Instrução Normativa 5/2021, não caberia recurso administrativo; começava a considerar a possibilidade de tratar o pedido de outra forma quando o texto termina.",
+      "votos": []
+    }
+  ],
+  "retirados": ["1.2.1 (Concer, recurso contra a Decisão 3/2020)"],
+  "limites_da_analise": [
+    "A transcrição termina em 0:59:20, no meio do voto do item 1.3.2; resultado, votos dos demais diretores e eventuais itens seguintes não estão na fonte.",
+    "Legenda automática: números de processo (principalmente 1.2.1, 1.2.3 e 1.3.2) e valores podem conter erros.",
+    "Rótulos de falantes são inferidos; Diretor-Geral identificado como Rafael Vitale pelas saudações.",
+    "ts de votos de seguidores são aproximados.",
+    "O item 1.2.1 aparece antes do 1.1.1 no texto porque foi retirado de pauta na abertura; o ts é aproximado."
+  ]
+}

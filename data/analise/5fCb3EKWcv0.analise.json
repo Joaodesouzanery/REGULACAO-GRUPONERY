@@ -1,0 +1,104 @@
+{
+  "meta": {"video_id": "5fCb3EKWcv0", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (a gravação começa já no meio do voto do item 1.1.2, ~0:02:00); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "977", "data": "2023-11-10", "formato": "presencial/transmitida pelo YouTube (a gravação disponível cobre apenas o trecho final da sessão)",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Luciano Lourenço", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Título do vídeo indica '967th Board Meeting - 10/11/2023'; na fala de encerramento o Diretor-Geral diz reunião número 977, encerrada às 14h53. A data do título (10/11/2023) pode ser formato dia/mês (10 de novembro) — as deliberações citam decisões de 14/09/2023 e a liminar de 6 de outubro, o que é compatível com novembro de 2023. Data adotada: 2023-11-10 (incerta).", "Vídeo curto (~24 min) e iniciado no meio do item 1.1.2; os itens anteriores da pauta não aparecem na gravação.", "Todos os 6 itens do trecho foram aprovados por unanimidade; Felipe Queiroz registra desconforto com recursos reiterados da Concer sem fatos novos (três ocorrências na reunião)."]
+  },
+  "itens": [
+    {
+      "id": "1.1.2", "ts": "0:02:00",
+      "processo": "", "interessado": "Master Serviços de Transporte Ltda. (fretamento)",
+      "assunto": "Processo sancionador em rito simplificado por operação em circuito aberto (serviço não autorizado); advertência",
+      "tema": ["ônibus (fretamento)", "fiscalização e sanções"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — advertência",
+      "resumo_voto": "Sem autuações posteriores às notícias infracionais, a empresa ainda não pode ser tratada como infratora contumaz; em consonância com a comissão processante e a Sufis, aplica pena de advertência (art. 78-A, I, da Lei 10.233/2001 e art. 68 da Res. 4.777/2015), com função educativa e dissuasória; reincidência poderá ensejar penas mais gravosas. Adota as razões do voto DLL 83/2023.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aplica advertência", "ts": "0:02:00", "justificativa": "conduta irregular indicada pelos autos, mas sem decisões definitivas anteriores; advertência dissuasória e educativa", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:05:40", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:05:54", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:06:00", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator; registra que a regulação responsiva aplica advertência onde cabe e penas mais intensas (multa, cassação) quando necessário", "ts": "0:06:03", "justificativa": "agentes regulados devem aderir a normas e contratos; devido processo legal e ampla defesa", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:07:30",
+      "processo": "50501326294/2018-61", "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio (Concer)",
+      "assunto": "Recurso contra a decisão 196/2022 (Surod) que aplicou multa por atraso no cronograma de obras de arte especiais (BR-040, MG/RJ)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — recurso conhecido e desprovido",
+      "resumo_voto": "Auto de infração de setembro/2018 por descumprimento de prazos do PER na recuperação de obras de arte especiais; multa moratória de 276,21 URTs mantida, pois o recurso não traz argumentação nova.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, conhece e nega provimento", "ts": "0:08:13", "justificativa": "sem fatos novos que afastem a responsabilidade", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:10:50", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:11:01", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:11:04", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:11:08", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "0:11:13",
+      "processo": "50502376022/2022-71", "interessado": "Turispal Transportes e Turismo Ltda.",
+      "assunto": "Recurso contra a deliberação 308 de 14/09/2023 que aplicou cassação da autorização (TA); pedido de efeito suspensivo",
+      "tema": ["ônibus (fretamento)", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — recurso conhecido, sem efeito suspensivo",
+      "resumo_voto": "Voto resumido (economia processual para casos recorrentes): não há fatos novos, a proporcionalidade da pena foi justificada na decisão recorrida e não há comprovação para atribuir efeito suspensivo.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, conhece e não atribui efeito suspensivo", "ts": "0:11:50", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:12:42", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:12:46", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:12:49", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:12:52", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.3", "ts": "0:13:04",
+      "processo": "50500.041831/2021-10", "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio (Concer)",
+      "assunto": "Recurso contra a decisão 1192/2022 (Surod, de 06/01/2023) que aplicou multa por atraso na implantação de barreiras rígidas no km 102 da BR-040",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — recurso conhecido e desprovido",
+      "resumo_voto": "Auto de infração de maio/2021 por atraso no cronograma do PER (dispositivos de segurança, barreiras rígidas); multa moratória de 129,6 URTs mantida, sem argumentação nova.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, conhece e nega provimento", "ts": "0:13:30", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:16:30", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:16:34", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:16:38", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:16:44", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "0:16:56",
+      "processo": "50502376568/2022-35", "interessado": "Lucritur Agência de Viagens e Turismo Ltda. (fretamento)",
+      "assunto": "Recurso/pedido de reconsideração contra a deliberação 301 de 14/09/2023 que cassou a autorização por circuito aberto; efeito suspensivo; liminar judicial de 06/10/2023",
+      "tema": ["ônibus (fretamento)", "fiscalização e sanções", "judicializacao"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — afastado o efeito suspensivo; nega provimento (cassação mantida)",
+      "resumo_voto": "Prática de circuito aberto em quantidade significativa, não negada e continuada mesmo após o recurso; gravidade e reiteração só comportam a pena mais gravosa. A liminar judicial que suspendeu a cassação vale até a decisão administrativa sobre o efeito suspensivo, que é tomada neste ato; cassação produz efeitos a partir da publicação.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, conhece, afasta efeito suspensivo e nega provimento", "ts": "0:17:16", "justificativa": "reiteração, gravidade e desrespeito à atuação da agência", "tom": "firme", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:19:50", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:20:06", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:20:10", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:20:14", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.2", "ts": "0:20:24",
+      "processo": "50500.063458/2021-40", "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio (Concer)",
+      "assunto": "Recurso contra a decisão 981/2022 (Surod, de 03/11/2022), decorrente do auto de infração 453/2021, por descumprimento da regra de capital social subscrito e integralizado (item 307 do contrato; mínimo de 20% dos investimentos)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — recurso conhecido e desprovido",
+      "resumo_voto": "A Concer repete argumentos já refutados na decisão 981/2022; sem fatos novos (NT ANTT 5720 e Relatório à Diretoria 447), penalidade mantida (item 225, II, do contrato PG-138/95-00).",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, conhece e nega provimento", "ts": "0:20:44", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:22:43", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:22:50", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator e registra desconforto com recursos reiterados sem fatos novos", "ts": "0:22:54", "justificativa": "ampla defesa deve ser garantida, mas recursos sem elementos novos alongam prazos, geram custo de transação e não contribuem para a entrega de serviços; sugere atenção a essa estratégia (três ocorrências na reunião)", "tom": "crítico, institucional", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator; endossa a observação de Felipe Queiroz", "ts": "0:24:05", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática: nomes e números de processo distorcidos (ex.: Lucritur/Lucretur, 50502376022/2022-71 provável); ts de votos de seguidores aproximados.", "A gravação começa no meio do voto do item 1.1.2: processo e demais dados desse item, e quaisquer itens anteriores, não aparecem.", "Número da reunião (967 no título, 977 na fala de encerramento) e data (10/11 vs. 11/10/2023) são incertos; adotado 977 e 2023-11-10.", "Falante do voto do Diretor-Geral inferido (Rafael Vitale, presidente da sessão)."]
+}

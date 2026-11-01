@@ -1,0 +1,328 @@
+{
+ "meta": {
+  "video_id": "bQ54HSJ5Vlg",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:00); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "967",
+  "data": "2023-10-11",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Guilherme Sampaio",
+   "Luciano Lourenço",
+   "Felipe Queiroz",
+   "Lucas Asfor"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 14h53; na legenda o número da reunião aparece como 967 na abertura e 977 no encerramento (erro de legenda).",
+   "Item 1.1.1 (Concebra, análise de defesa técnica quanto ao relatório de transição da comissão de encerramento do contrato) foi retirado de pauta por Luciano Lourenço por questões judiciais; havia sustentação oral agendada (advogada Carla Mota).",
+   "Todos os itens deliberados foram unânimes, majoritariamente sanções e recursos de concessionária e empresas de fretamento."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1.2",
+   "ts": "0:02:02",
+   "processo": "50500.009597/2022-17",
+   "interessado": "Master Serviços de Transporte Ltda. (fretamento)",
+   "assunto": "Relatório final da comissão processante: apuração de infrações por operar circuito aberto em serviço de fretamento (transporte rodoviário de passageiros)",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade — advertência",
+   "resumo_voto": "Empresa autuada três vezes em três anos por transporte sem autorização, mas nenhum auto transitou em julgado; não se configura reincidência específica (art. 67 da Resolução 83/2016, conforme a legenda) nem se pode inferir o desvio de circuito fechado para aberto. Aplica-se advertência (art. 78-A da Lei 10.233/2001 e art. 68 da Resolução 4.777/2015), de função educativa e dissuasória; reincidência poderá levar a penas mais graves.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, aplica advertência",
+     "ts": "0:02:30",
+     "justificativa": "pena educativa e dissuasória; respeito ao trânsito em julgado e ao rito sancionador",
+     "tom": "técnico",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:05:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:05:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:05:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:05:18",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.1",
+   "ts": "0:06:45",
+   "processo": "50501.003262/2016-94",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio (Concer)",
+   "assunto": "Recurso contra a Decisão 196/2022 da SUROD que aplicou multa por atraso no cronograma de obras (recuperação de obras de arte especiais) na BR-040/MG-RJ",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade — recurso conhecido, desprovido, multa mantida",
+   "resumo_voto": "Auto de infração de setembro/2018; defesa prévia e recurso administrativo rejeitados; no recurso voluntário não há argumentação nova que afaste a responsabilidade. Mantida a multa (valor lido na legenda como 276,21 URTs, incerto) por descumprimento dos itens 2.19 e 2.23 do contrato (conforme a legenda).",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:07:32",
+     "justificativa": "ausência de fatos novos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:10:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:10:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:10:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:10:24",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.2",
+   "ts": "0:10:31",
+   "processo": "50500.237602/2022-71",
+   "interessado": "Turis Pálal Transportes e Turismo Ltda.",
+   "assunto": "Recurso contra a Deliberação 308/2023 (14/09/2023) que aplicou a pena de cassação",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade — recurso conhecido, sem efeito suspensivo, mantida a cassação",
+   "resumo_voto": "Exposição resumida por economia processual; sem fatos novos, proporcionalidade da pena justificada na decisão recorrida; sem fundamento para atribuir efeito suspensivo. Voto por conhecer e não atribuir efeito suspensivo; resultado de mérito tratado como manutenção da penalidade (legenda confusa).",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, conhece sem efeito suspensivo",
+     "ts": "0:10:53",
+     "justificativa": "sem fatos novos; proporcionalidade justificada",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:12:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:12:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:12:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:12:12",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.3",
+   "ts": "0:12:25",
+   "processo": "50500.008310/2021",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio (Concer)",
+   "assunto": "Recurso contra a Decisão 1.112/2022 da SUROD (6/1/2023) que aplicou multa por atraso na implantação de barreiras rígidas (km 102 da BR-040)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade — recurso conhecido, desprovido, multa mantida",
+   "resumo_voto": "Caso muito parecido com o 1.2.1: auto de maio/2021 por atraso injustificado no cronograma de obras (dispositivos de segurança); defesa e recurso rejeitados; sem argumentos novos. Mantida a multa (129,6 URTs conforme a legenda, valor incerto), itens 2.19/2.23 do contrato.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:12:40",
+     "justificativa": "ausência de elementos novos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:15:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:15:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:15:56",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:16:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.1",
+   "ts": "0:16:18",
+   "processo": "50500.237568/2022-35",
+   "interessado": "Lucrutur Agência de Viagens e Turismo Ltda.",
+   "assunto": "Recurso (pedido de reconsideração) contra a Deliberação 301/2023 (14/09/2023) que aplicou cassação por circuito aberto, com pedido de efeito suspensivo; liminar judicial de 6/10 suspendeu a cassação",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções",
+    "judicializacao"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade — afastado o efeito suspensivo, desprovido, cassação válida desde a publicação",
+   "resumo_voto": "Prática de circuito aberto em quantidade significativa, não negada pela recorrente, que continuou operando mesmo após o recurso; gravidade e reiteração só comportam a pena mais gravosa. A liminar vale até decisão administrativa sobre o efeito suspensivo, que é tomada neste ato; a cassação passa a produzir efeitos desde a publicação.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, conhece, afasta efeito suspensivo e nega provimento",
+     "ts": "0:16:50",
+     "justificativa": "gravidade, reiteração e desrespeito à atuação da agência",
+     "tom": "firme",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:19:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:19:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:19:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:19:34",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.2",
+   "ts": "0:19:45",
+   "processo": "50500.063458/2021-40",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio (Concer)",
+   "assunto": "Recurso contra a Decisão 981/2022 da SUROD (3/11/2022) que aplicou multa por descumprimento da cláusula do capital social subscrito e integralizado (mínimo de 20% dos investimentos realizados)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade — recurso conhecido e desprovido",
+   "resumo_voto": "Concer repete argumentos já refutados na decisão da superintendência; sem fatos novos (Nota Técnica e Relatório à Diretoria 447). Mantida a penalidade (item 2.25 do contrato, conforme a legenda). Lucas Asfor registra desconforto: recursos reiterados sem fatos novos sugerem estratégia protelatória que alonga passivos regulatórios; foi acompanhado pelos colegas no sentimento.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:20:10",
+     "justificativa": "sem fatos novos; registra crítica à estratégia protelatória",
+     "tom": "crítico",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:22:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:22:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:22:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:23:30",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "1.1.1 — Concebra (proc. 50500.011240/2023-1…): análise de defesa técnica frente ao relatório inicial de transição da comissão de encerramento do contrato; sustentação oral da advogada Carla Mota dispensada",
+   "relator": "Luciano Lourenço",
+   "motivo": "retirado de pauta pelo relator por questões judiciais",
+   "ts": "0:01:34"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: nomes de empresas (Turis Pálal, Lucrutur), números de processos, de decisões e valores em URT podem estar errados; o número do processo do item 1.1.1 está truncado.",
+  "Votos dos diretores seguidores marcados com confiança média e ts aproximados (ordem: Guilherme Sampaio, Luciano Lourenço, Felipe Queiroz, Lucas Asfor, Rafael Vitale conforme a leitura da legenda).",
+  "No item 1.2.2 a legenda não deixa claro o dispositivo de mérito; registrado como manutenção da cassação.",
+  "Falantes inferidos pelo contexto; sem identificação confirmada por áudio."
+ ]
+}

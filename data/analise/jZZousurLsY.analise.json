@@ -1,0 +1,625 @@
+{
+ "meta": {
+  "video_id": "jZZousurLsY",
+  "fonte": "legenda automática do YouTube; falantes inferidos pela legenda (não confiáveis); ts = tempo do vídeo (sessão começa ~0:02); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "968",
+  "data": "2023-10-26",
+  "formato": "videoconferência (transmissão ao vivo no YouTube)",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Guilherme Sampaio",
+   "Luciano Lourenço",
+   "Felipe Queiroz",
+   "Lucas Asfor"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 15h38 de 26/10/2023.",
+   "14 itens deliberados (13 por unanimidade, 1 retirado de pauta) e 1 extrapauta (homologação do leilão Rodovias Integradas do Paraná, lote 1).",
+   "Itens 1.3.1 e 1.3.2 (Concer) lidos e votados em bloco a pedido do relator; sustentações orais: Bahia Ferrovias (1.2.2, processo retirado antes da fala) e Expresso São Luiz (1.3.4, indeferimento).",
+   "Participou como procurador-geral Milton Gomes e secretária-geral substituta (Lívia)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1.1",
+   "ts": "0:02:25",
+   "processo": "50500.018418/2022-24",
+   "interessado": "MP Transporte, Viagens e Turismo Eireli (fretamento)",
+   "assunto": "Pedido de reconsideração contra a Deliberação 305/2023 (14/09/2023) que aplicou cassação da autorização",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade — conhecido sem efeito suspensivo e não provido; cassação mantida",
+   "resumo_voto": "Infração grave de serviço não autorizado (modalidade diversa da autorizada); cassação prevista no art. 36 §5º do Decreto 2.521/1998 c/c art. 78-H da Lei 10.233/2001; sem argumentos suficientes para efeito suspensivo.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, conhece sem efeito suspensivo e nega provimento",
+     "ts": "0:02:30",
+     "justificativa": "infração grave e ausência de fundamentos novos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:04:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:04:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:04:41",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:04:47",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.1.2",
+   "ts": "0:04:54",
+   "processo": "50500.502567/2016-2 (número parcial)",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio (Concer)",
+   "assunto": "Recurso contra a Decisão 209/2020 da superintendência de rodovias que aplicou multa de 351 URTs por violação do art. 7º, VII da Res. 4.071/2013",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade — recurso conhecido e não provido, multa mantida",
+   "resumo_voto": "Recurso administrativo interposto em 2018; nota técnica sem fato novo; adota as razões técnicas (art. 50 §1º da Lei 9.784/1999).",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:05:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:06:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:06:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:06:41",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:06:47",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.1.3",
+   "ts": "0:06:51",
+   "processo": "50500.118076-8 (número parcial)",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio (Concer)",
+   "assunto": "Recurso contra a Decisão 4/2021 da superintendência de rodovias que aplicou multa de 714 URTs por violação da cláusula 2.23 do contrato de concessão",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade — recurso conhecido e não provido, multa mantida",
+   "resumo_voto": "Recurso interposto em 02/06/2022; sem fato novo; adota as razões técnicas.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:06:55",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:08:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:08:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:08:36",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:08:42",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.1.4",
+   "ts": "0:08:47",
+   "processo": "50500.095840/2022-30 (número parcial)",
+   "interessado": "Servidor Transportes Ltda. (legenda: «Previdor»; fretamento)",
+   "assunto": "Pedido de reconsideração contra a Deliberação 310/2023 (14/09/2023) que aplicou cassação",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade — conhecido sem efeito suspensivo e não provido; cassação mantida",
+   "resumo_voto": "Infração grave de serviço não autorizado em modalidade diversa da autorizada; sem argumentos para efeito suspensivo. É o mesmo processo da cassação do item 1.4.3 da RD 965 (nome da empresa distorcido na legenda).",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, conhece sem efeito suspensivo e nega provimento",
+     "ts": "0:08:55",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:10:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:10:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:10:41",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:10:47",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.1",
+   "ts": "0:10:56",
+   "processo": "50500.333/2016-1 (número parcial)",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio (Concer)",
+   "assunto": "Recurso contra a Decisão 251/2020 da superintendência de rodovias que aplicou multa de 907,5 URTs por deflexão característica do pavimento acima do previsto no contrato e no PER",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade — recurso conhecido e não provido, multa mantida",
+   "resumo_voto": "Nota técnica sem fato novo; mantém a penalidade por violação do art. 8º, V da Res. 4.071/2013.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:11:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:13:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:13:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:13:36",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:13:42",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.2",
+   "ts": "0:13:50",
+   "processo": "50500.176345/2022-94",
+   "interessado": "Subconcessionária Bahia Ferrovias S.A. (Bafer) / interveniente Valec",
+   "assunto": "Análise das reclamações da subconcessionária sobre vícios ocultos nos bens da ferrovia cuja posse foi transferida pela Valec; com sustentação oral do advogado Leonardo Coelho Ribeiro",
+   "tema": [
+    "ferrovias",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "Com o advogado convocado para a sustentação oral, o relator anunciou a retirada do processo para melhor esclarecimento processual; o advogado agradecido e dispensado, devendo retornar quando o processo voltar à pauta.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, retira o processo de pauta",
+     "ts": "0:14:40",
+     "justificativa": "melhor esclarecimento processual",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1.2.3",
+   "ts": "0:15:15",
+   "processo": "50500.032858/2017-9 (número parcial)",
+   "interessado": "SUGEP (Superintendência de Governança, Gestão Estratégica e de Pessoal)",
+   "assunto": "Relatório de AIR (versão 1.0) do projeto de adequação da política de redução do fardo regulatório aos instrumentos de melhoria regulatória; revogação da Res. 5.874/2020 e do manual de cálculo do fardo regulatório (Deliberação 119/2020)",
+   "tema": [
+    "regulação normativa",
+    "institucional"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "A política da Res. 5.874/2020 perdeu utilidade com o Decreto 10.411/2020 (AIR) e não produziu efeitos concretos; revogação evita redundância e sobreposição normativa. Relator dispensa audiência/consulta pública por afetar apenas a organização interna (art. 8º da Res. 6.020/2023) e propõe revogar expressamente o manual da Deliberação 119/2020.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, aprova o AIR e a revogação",
+     "ts": "0:15:25",
+     "justificativa": "revogar o que não trouxe o benefício esperado, no âmbito do Pró-Rev",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:19:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:19:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:19:11",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:19:17",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.1",
+   "ts": "0:20:00",
+   "processo": "50500.041812/2021-85",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio (Concer)",
+   "assunto": "Recurso contra a Decisão 1099/2022 que aplicou multa por atraso no cronograma de investimentos (auto de infração 275; item 2.5 do quadro do PER, alargamento de obras de arte especiais, pontes sobre o Rio Saracuruna) — votado em bloco com o 1.3.2",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade (em bloco com o 1.3.2) — conhecido e não provido",
+   "resumo_voto": "Multa de 129,6 URTs por auto, mantida; infração à cláusula 2.19 do contrato; recurso sem elementos novos que afastem a responsabilidade.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, conhece e nega provimento (voto FQ 77/2023)",
+     "ts": "0:20:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:26:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:26:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:26:56",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:27:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.2",
+   "ts": "0:20:00",
+   "processo": "50500.041808/2021-17",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio (Concer)",
+   "assunto": "Recurso contra a Decisão 985/2022 que aplicou multa por atraso no cronograma de investimentos (auto de infração 276; item 3.1.6, passarela Mabel, km 120+050 da BR-040) — votado em bloco com o 1.3.1",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade (em bloco com o 1.3.1) — conhecido e não provido",
+   "resumo_voto": "Multa de 129,6 URTs mantida; mesmos fundamentos do 1.3.1 (voto FQ 78/2023).",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, conhece e nega provimento (voto FQ 78/2023)",
+     "ts": "0:20:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:26:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:26:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:26:56",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:27:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.3",
+   "ts": "0:27:10",
+   "processo": "50500.5011/2012-0 (número parcial)",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio (Concer)",
+   "assunto": "Recurso contra a Decisão 1102/2022 que aplicou multa de 540 URTs por não corrigir defeitos no pavimento rígido em 48 horas (auto de infração 01672, de 23/12/2016)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade — conhecido e não provido, multa mantida",
+   "resumo_voto": "Infração ao art. 6º, VII da Res. 4.071/2013; recurso sem elementos novos.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:27:15",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:31:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:31:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "0:31:41",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:31:47",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.4",
+   "ts": "0:31:54",
+   "processo": "50500.106684/2020-41 (número parcial)",
+   "interessado": "Expresso São Luiz Ltda.",
+   "assunto": "Pedido de autorização para operar novos mercados (TRIP interestadual), apreciado em cumprimento de decisão judicial; com sustentação oral do advogado Albert (Walbert) Luna",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao",
+    "regulação normativa"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade — pedido indeferido (Res. 6.013/2023)",
+   "resumo_voto": "Advogado pediu diligência para análise pela Res. 4.770 em cumprimento de sentença da 6ª Vara Federal do DF (liminar do TRF1 de 2022), alegando eficácia contida do art. 47-B da Lei 10.233, isonomia com a Transporte Santa Maria e que a única consequência de não optar pela Res. 6.013/2023 seria permanecer na fila. Relator, respeitando os argumentos, segue a Deliberação 153/2023 (voto de Lucas Asfor), que manda observar o arcabouço normativo vigente, deferindo só os pedidos que atendam à Res. 6.013/2023, inclusive nos casos judicializados; a SUPAS identificou ausência dos requisitos. Indefere.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, indefere o pedido por inobservância da Res. 6.013/2023",
+     "ts": "0:34:30",
+     "justificativa": "precedente da Deliberação 153/2023; decisão judicial exige apenas apreciar o pedido sob a norma vigente",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:43:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:43:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha; parabeniza o advogado pela sustentação e o relator por enfrentar os argumentos",
+     "ts": "0:44:03",
+     "justificativa": "segue a linha adotada pela agência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:44:30",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1.4.1",
+   "ts": "0:44:52",
+   "processo": "50500.018444/2022-52",
+   "interessado": "Angramar Transportadora Turística Ltda. (fretamento)",
+   "assunto": "PAO: relatório final da comissão processante; serviço não autorizado em circuito aberto",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade — advertência",
+   "resumo_voto": "Serviço não autorizado em circuito aberto, mas sem reincidência específica nem decisões definitivas (notificações de penalidade anteriores não entregues, sem trânsito em julgado). Acolhe a CPA e aplica advertência, pela função dissuasória e educativa, dado que a empresa manteve a conduta e questiona as regras do fretamento; pede à SUFIS acompanhamento fiscalizatório.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, aplica advertência",
+     "ts": "0:45:00",
+     "justificativa": "pena educativa e dissuasória; ausência de reincidência específica",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:49:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:49:18",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:49:21",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:49:27",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "extrapauta",
+   "ts": "0:50:02",
+   "processo": "50500.232688/2022-46 (número divergente entre diretores; confirmado pela secretaria)",
+   "interessado": "SUCON — Rodovias Integradas do Paraná, lote 1 (BR-373/376/476/PR e PR-418/423/427)",
+   "assunto": "Homologação do resultado do leilão da concessão das Rodovias Integradas do Paraná, lote 1 (edital 1/2023; sessão na B3 em 25/08/2023)",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade — resultado homologado",
+   "resumo_voto": "Inclusão em extrapauta aprovada por todos os diretores. Duas propostas: vencedora Infraestrutura Brasil Road 21 S.A. (desconto na tarifa de pedágio e aporte de R$ 25 milhões, conforme a fala; percentual não legível na legenda); segunda colocada, consórcio Infraestrutura PR, ofertou desconto de 8,3%. Comissão de outorga cumpriu o rito, com ampla divulgação; revertida a decisão que suspendera os efeitos do leilão; qualificação da primeira colocada atestada.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, homologa o resultado do leilão",
+     "ts": "0:51:30",
+     "justificativa": "trâmites do leilão seguidos com transparência; qualificação atestada",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha; concorda com a inclusão em extrapauta",
+     "ts": "0:51:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha; concorda com a inclusão em extrapauta",
+     "ts": "0:55:35",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha; concorda com a inclusão (confere o número do processo)",
+     "ts": "0:55:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha; proclama unanimidade",
+     "ts": "0:55:50",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "1.2.2 — análise de reclamações da subconcessionária Bahia Ferrovias (Bafer) sobre vícios ocultos nos bens da ferrovia (proc. 50500.176345/2022-94)",
+   "relator": "Luciano Lourenço",
+   "motivo": "melhor esclarecimento processual; sustentação oral do advogado Leonardo Coelho Ribeiro não ocorreu",
+   "ts": "0:14:40"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática com erros de nomes e números; números de processo parciais ou aproximados; nome da empresa do item 1.1.4 distorcido.",
+  "Falantes inferidos errados; votos de acompanhamento têm ts aproximados e confiança media/baixa.",
+  "No extrapauta, o desconto da proponente vencedora não está legível na legenda e foi omitido; houve divergência sobre o número do processo, confirmada pela secretaria.",
+  "Os ts do extrapauta para Guilherme e Lucas são aproximados."
+ ]
+}

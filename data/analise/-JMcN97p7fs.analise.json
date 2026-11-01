@@ -1,0 +1,57 @@
+{
+  "meta": {"video_id": "-JMcN97p7fs", "fonte": "legenda automática do YouTube; falantes inferidos pela legenda (não confiáveis); ts aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "79ª Reunião Extraordinária", "data": "2023-08-29", "formato": "videoconferência (transmissão ao vivo no YouTube)",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Felipe Queiroz", "Luciano Lourenço", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Encerrada às 12h51 de 29/08/2023.", "2 itens de pauta: 1 aprovado por unanimidade (3º termo aditivo Eco 101) e 1 retirado de pauta (CCR Rio-São Paulo).", "No 1.1.1 o diretor Luciano Lourenço fez o destaque sobre a Portaria 848 do Ministério e a relicitação; o item 1.1.2 (revisões Eco 101) foi aprovado por unanimidade após elogios ao trabalho da área técnica."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:03:50",
+      "processo": "50500.155651/2023-78", "interessado": "Eco 101 Concessionária de Rodovias S.A.",
+      "assunto": "Terceiro termo aditivo ao contrato de concessão (edital 1/2011, BR-101/ES/BA) para estabelecer condições de prestação do serviço de manutenção, conservação, operação, monitoração e execução dos investimentos essenciais durante a relicitação",
+      "tema": ["concessões rodoviárias", "relicitação", "reequilíbrio contratual"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Trecho qualificado no PPI pelo Decreto 11.5xx/2023 para relicitação; o aditivo disciplina as obrigações da concessionária nesse período. Parecer da Procuradoria favorável com recomendações incorporadas, salvo as justificadamente excluídas. A concessionária concordou, com ressalva à cláusula 12.2; o relator acolheu a emenda para permitir resolver o impasse antes da vigência, incluindo cláusula segundo a qual, sem solução consensual, vale a disposição original. Competência da ANTT com base na Lei 8.987/1995 (art. 29, IV) e Lei 10.233/2001 (art. 24, V).",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova a celebração do 3º termo aditivo com a emenda à cláusula 12.2", "ts": "0:05:30", "justificativa": "caráter consensual do ajuste; cláusula de salvaguarda caso não haja solução consensual", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:08:40", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:08:45", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:08:50", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha; proclama unanimidade e destaca o ajuste do relator", "ts": "0:09:00", "justificativa": "ajuste prudente diante da Portaria 848 do Ministério, que pode alterar o futuro da relicitação; elogia a diligência do relator, que recebeu o processo com prazo exíguo", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.2", "ts": "0:09:59",
+      "processo": "50500.120571/2021-30", "interessado": "Eco 101 Concessionária de Rodovias S.A.",
+      "assunto": "9ª revisão ordinária, 10ª revisão extraordinária e 11ª revisão extraordinária e reajuste anual da tarifa básica de pedágio (BR-101/ES/BA, 475,9 km, sete praças)",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "pedágio", "relicitação"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprova a 9ª revisão ordinária, a 10ª e a 11ª revisões extraordinárias e o reajuste da tarifa básica, e a aplicação do desconto de reequilíbrio na 11ª revisão em atendimento ao Acórdão 1457/2018 do TCU. Com base em subsídios da área técnica, a concessionária concordou em considerar os efeitos da 11ª revisão em vez de implementação imediata, reduzindo a variação da tarifa final. Os percentuais citados na legenda (reajuste, Fator X, descontos) estão distorcidos.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova", "ts": "0:10:00", "justificativa": "recomposição do equilíbrio econômico-financeiro; cautela e aprendizado regulatório; agradece assessoria e área técnica", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:14:20", "confianca": "baixa"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:14:30", "confianca": "baixa"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:14:40", "confianca": "baixa"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha; destaca zelo, maturidade regulatória e senso de urgência; proclama unanimidade", "ts": "0:14:50", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:15:11",
+      "processo": "50500.086234/2023-78", "interessado": "Concessionária do Sistema Rodoviário Rio-São Paulo (CCR Rio-São Paulo)",
+      "assunto": "1ª revisão ordinária e reajuste da tarifa básica de pedágio da BR-116/101 (RJ/SP)",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "pedágio"],
+      "relator": "Lucas Asfor", "resultado": "retirado de pauta",
+      "resumo_voto": "Relator retirou o processo por ausência de elementos a serem fornecidos pelo Ministério, considerados essenciais, que ainda não chegaram à relatoria.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, retira de pauta", "ts": "0:15:20", "justificativa": "aguarda informações do Ministério dos Transportes", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"item": "1.2.1 — 1ª revisão ordinária CCR Rio-São Paulo (proc. 50500.086234/2023-78)", "relator": "Lucas Asfor", "motivo": "aguarda elementos do Ministério", "ts": "0:15:20"}
+  ],
+  "limites_da_analise": ["Legenda automática com muitos erros; falantes inferidos errados (a abertura e o encerramento são do Diretor-Geral Rafael Vitale).", "Votos de acompanhamento sem fala clara na legenda, com ts aproximados e confiança baixa/media.", "Números do processo 1.1.2 e percentuais tarifários não confiáveis, por isso omitidos."]
+}
