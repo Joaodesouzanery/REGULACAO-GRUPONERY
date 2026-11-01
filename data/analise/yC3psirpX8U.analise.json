@@ -1,0 +1,47 @@
+{
+  "meta": {"video_id": "yC3psirpX8U", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:40); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "87 (extraordinária)", "data": "2024-12-27", "formato": "presencial/transmissão ao vivo (parte pública); processo sigiloso julgado ao final, sem transmissão",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Felipe Queiroz", "Luciano Lourenço"],
+    "ausentes": ["Lucas Asfor (motivos pessoais)"],
+    "observacoes": ["Reunião extraordinária curta (≈ 20 min na parte pública); encerrada às 15h01 de 27/12/2024 segundo a legenda.", "Dois itens deliberados na parte pública, ambos por unanimidade.", "Havia um item sigiloso (1.3.1, relatoria de Lucas Asfor, ausente: remodelação do contrato da malha Oeste e comissão de solução consensual no TCU) a ser julgado ao final, fora da transmissão; não consta da legenda."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:41:55",
+      "processo": "50500.150568/2024-93", "interessado": "SUROC",
+      "assunto": "Revisão da Resolução 5.867/2020 (regras gerais, metodologia e coeficientes dos pisos mínimos de frete por quilômetro rodado por eixo carregado, PNPM) — 7º ciclo de revisão ordinária; aprovação do relatório final da audiência pública e da minuta de resolução",
+      "tema": ["transporte rodoviário de cargas (piso mínimo do frete/CIOT)", "regulação normativa", "participação social", "fiscalização e sanções"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Processo iniciado com a tomada de subsídios 3/2024 (encerrada em 28/06/2024) e pesquisas de mercado para atualizar insumos, pois a atualização só por IPCA pode descolar os valores de referência dos praticados. Audiência pública realizada de 23/10 a 22/11/2024 (a legenda cita 22/12). Duas alterações principais: inclusão de infração administrativa por não declarar nos documentos fiscais o valor do frete pago, declarar zero ou abaixo do piso (multa de R$ 550 segundo a legenda) e atualização dos coeficientes dos pisos mínimos. Voto por aprovar o relatório final e a minuta.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aprova relatório final e minuta de resolução", "ts": "0:42:30", "justificativa": "estudos e pesquisas de mercado justificam atualização de coeficientes; nova infração para coibir frete declarado abaixo do piso", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:45:06", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:45:09", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:45:13", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:45:30",
+      "processo": "50500.188947/2024", "interessado": "SUFER (Superintendência de Transporte Ferroviário) / Vale (EFC e EFVM)",
+      "assunto": "Sexto termo aditivo ao contrato da Estrada de Ferro Carajás (EFC) e sétimo termo aditivo ao contrato da Estrada de Ferro Vitória a Minas (EFVM), conforme diretrizes da SNTF/Ministério dos Transportes",
+      "tema": ["ferrovias", "reequilíbrio contratual", "solução consensual / TCU", "institucional"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Diretrizes da SNTF de 20/12/2024 em quatro pontos: (1) ajuste do Índice de Saturação da Ferrovia (ISF) com média móvel de 36 meses; (2) cláusula de ajuste regulatório preliminar com pagamento antecipado, pela Vale, de R$ 4 bilhões (sem reconhecimento de dívida e sem tratar-se de parcela incontroversa da apuração da base de ativos); (3) possibilidade de compensação, até o limite do valor antecipado, de valores devidos pela concessionária (multas, indenizações etc.) se o termo de solução consensual definitiva no TCU não for celebrado até o fim de novembro de 2025, observada a regularidade jurídica e a autonomia regulatória da ANTT; (4) limite de cerca de R$ 11 bilhões para discussões na comissão de solução consensual, condição acordada entre Ministério e Vale. Relator seguiu a área técnica (SUFER) nos pontos 2 e 3, não acolheu o ponto 4 por ser matéria entre Ministério e Vale (a ANTT não é parte), e no ISF adotou média ponderada por segmento mas com janela de 12 meses (em vez de 36), vinculando a ratificação por cláusula resolutiva ao que for discutido na comissão de consenso; se não houver consenso, volta o texto original. Propôs ainda que a SUFER inicie estudo amplo de revisão da metodologia do ISF para todo o setor.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova as minutas dos termos aditivos", "ts": "0:45:38", "justificativa": "alinhamento à análise técnica da SUFER e à política pública do Ministério; ISF em 12 meses reflete melhor a realidade operacional; cláusula resolutiva protege a agência; estudo geral do ISF como proposta própria da relatoria", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente o relator", "ts": "0:56:28", "justificativa": "elogia dedicação da diretoria, da SUFER e da Procuradoria para dar aplicabilidade à política pública do Ministério dos Transportes", "tom": "elogioso", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha integralmente o relator", "ts": "0:59:16", "justificativa": "ratifica as palavras de Guilherme e parabeniza relator, equipe e Rafael Vitale", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:59:18", "justificativa": "agradece o relator por aceitar a missão em curto prazo e destaca a mobilização da Procuradoria e da SUFER; pauta ferroviária avança para 2025", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "O item 1.3.1 (sigiloso, relator Lucas Asfor, ausente): remodelação do contrato da malha Oeste e comissão de solução consensual no TCU, processo 50500.178854/2024; foi julgado ao final fora da transmissão e não consta da transcrição, portanto não há voto nem resultado registrados.",
+    "A legenda automática erra números: multa de R$ 550, datas da audiência pública (23/10 a 22/11 ou 22/12) e o valor de 11 bilhões do teto da comissão de consenso estão truncados/incertos; o processo da 1.2.1 aparece como 50500.188947/2024 e pode estar incompleto.",
+    "Na 1.2.1 a legenda também confunde 4 bilhões com 4 milhões em uma passagem; o valor correto do adiantamento é R$ 4 bilhões pelo contexto.",
+    "A identificação de Rafael Vitale como presidente da sessão baseia-se nos cumprimentos de Felipe Queiroz e Guilherme Sampaio a «diretor geral Rafael Vitale»; os votos dos seguidores têm ts aproximados."
+  ]
+}

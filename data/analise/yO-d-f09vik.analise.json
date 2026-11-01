@@ -1,0 +1,55 @@
+{
+  "meta": {"video_id": "yO-d-f09vik", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "977", "data": "2024-03-07", "formato": "videoconferência",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Luciano Lourenço", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Parte pública encerrada às 15h23.", "Guilherme Sampaio comunicou que o plenário do CADE arquivou procedimento que questionava o processo regulatório do novo marco do TAR (transporte rodoviário de passageiros), reconhecendo a competência da ANTT; Lucas Asfor e Rafael Vitale fizeram coro, citando também TCU e STF.", "Despedida da secretária-geral Renata Cruz após 13 anos na Secretaria-Geral.", "Rafael Vitale destacou que a abertura da AP das rodovias de Goiás é o primeiro processo no novo formato em que um diretor acompanha a SUCOM e o ministério desde a fase inicial."]
+  },
+  "itens": [
+    {
+      "id": "1.2.1", "ts": "0:08:55",
+      "processo": "50500.035261/2023-03", "interessado": "Superintendência de Concessão da Infraestrutura (SUCOM)",
+      "assunto": "Abertura de audiência pública para concessão do sistema rodoviário composto pelas rodovias estaduais de Goiás GO-020, GO-060, GO-070 e GO-080 (≈ 572 km, radiais a partir de Goiânia), delegadas à União por convênio entre o Estado de Goiás e o Ministério dos Transportes",
+      "tema": ["concessões rodoviárias", "participação social", "leilão / otimização"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "EVTEA elaborado pelo BNDES por contrato do Estado de Goiás e entregue à ANTT no fim de 2023; nota técnica da SUCOM avalia estudos e PER; projeto com todos os documentos para audiência pública, ainda passível de ajustes. Três recomendações para a redação final: (1) cuidado contratual com atribuições da União no convênio (obras do governo estadual durante o contrato, consulta ao estado em alterações do PER); (2) avaliar incentivos análogos aos das rodovias federais (reclassificação tarifária por faixa adicional, obras de grande vulto como contornos); (3) uniformizar padrões de desempenho com os federais.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova abertura da audiência pública", "ts": "0:16:15", "justificativa": "projeto completo para ir à participação social; ressalvas a serem tratadas depois", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:19:30", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:19:34", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:19:38", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:19:42", "justificativa": "elogia o novo formato com diretor acompanhando o processo desde o início, que trouxe celeridade", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "0:21:10",
+      "processo": "50500.284414/2022-3", "interessado": "Superintendência de Infraestrutura Rodoviária (SUINF)",
+      "assunto": "Abertura de audiência pública sobre a proposta de regulamento dos Pontos de Parada e Descanso (PPD) sob competência da ANTT",
+      "tema": ["concessões rodoviárias", "regulação normativa", "participação social", "transporte rodoviário de cargas (piso mínimo do frete/CIOT)"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Tema na agenda regulatória 2023-2024 (eixo 2); reunião participativa com entidades de motoristas profissionais recebeu 94 contribuições (48 acatadas, 25 não acatadas, 21 parcialmente), incluindo consulta a entidades de usuários sobre estudos locacionais das concessionárias; contribuições de movimentos de caminhoneiras e da SUROC incorporadas. Audiência pública necessária porque o regulamento afeta direitos de agentes e usuários; PFE optou por parecer após a audiência.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova abertura da audiência pública", "ts": "0:24:51", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:25:19", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha integralmente o relator", "ts": "0:25:40", "justificativa": "política pública de melhores condições de trabalho dos caminhoneiros e segurança viária, fomentada pelo Ministério dos Transportes", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator na íntegra", "ts": "0:26:20", "justificativa": "PPDs são o instrumento material da política pública de condições de trabalho dos caminhoneiros", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:27:10", "justificativa": "dois PPDs já em uso nas concessões com ocupação plena; novos previstos em Florianópolis (Arteris Litoral Sul) e na Dutra (Pindamonhangaba) em abril", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.1.2", "ts": "0:08:00",
+      "processo": "50500.090221/2021-31", "interessado": "Corregedoria (processo administrativo disciplinar, em grau de recurso)",
+      "assunto": "Processo administrativo disciplinar em grau de recurso, com restrição de acesso; julgamento reservado ao final da transmissão",
+      "tema": ["institucional"],
+      "relator": "Luciano Lourenço", "resultado": "julgamento reservado (sigiloso), sem registro na transmissão pública",
+      "resumo_voto": "Tratado em sessão reservada conforme IN CGU 14/2018 e art. 48 §1º do Regimento Interno; sem conteúdo na transmissão.",
+      "votos": []
+    }
+  ],
+  "retirados": [
+    {"id": "1.1.1", "processo": "50500.090221/2021-31", "interessado": "Superintendência de Fiscalização (SUFIS)", "assunto": "Revogação/alteração da Súmula 11 de 2 de dezembro de 2021", "retirado_por": "Luciano Lourenço", "motivo": "questões judiciais", "ts": "0:05:20"}
+  ],
+  "limites_da_analise": ["Legenda automática com erros em nomes e números de processos (números do processo de Goiás e do PPD reconstruídos da legenda).", "O número 50500.090221/2021-31 aparece tanto no item retirado quanto no PAD reservado na legenda; pode ser confusão da legenda.", "ts dos votos de seguidores e início dos itens aproximados.", "Item 1.1.2 reservado: sem conteúdo nem resultado na parte pública."]
+}

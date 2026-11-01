@@ -1,0 +1,113 @@
+{
+  "meta": {"video_id": "6IYxm2zAFbo", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:15:10); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "995", "data": "2024-11-14", "formato": "videoconferência",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Luciano Lourenço", "Lucas Asfor"],
+    "ausentes": ["Felipe Queiroz (missão internacional; depois, dificuldade técnica de conexão; seu voto do item 1.4.8 foi lido pelo presidente)"],
+    "observacoes": ["Encerrada às 15h38 de 14/11/2024.", "Incluído extrapauta (IN de parâmetros de desempenho de pavimento, relator Luciano Lourenço) com concordância de todos.", "Dispensa de leitura de votos de Luciano Lourenço nos blocos 1.3.1 a 1.3.5 (Concer) e 1.3.6 a 1.3.13 (Transbrasiliana), com base no art. 68 §§2º e 5º do Regimento Interno.", "Itens de relatoria de Felipe Queiroz retirados de pauta, exceto o 1.4.8, mantido a pedido dele e votado com leitura do voto pelo presidente (art. 66 do RI).", "Todos os itens deliberados foram aprovados por unanimidade.", "Rafael Vitale registra que o TCU arquivou a auditoria sobre o reequilíbrio da covid-19 nas concessões rodoviárias."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:17:59",
+      "processo": "50500.096452/2023-11", "interessado": "Gabinete do Diretor-Geral",
+      "assunto": "Resolução que consolida e atualiza as normas sobre divulgação da agenda de compromissos públicos, recebimento de brindes e presentes, audiências concedidas a particulares e tratamento de conflito de interesses",
+      "tema": ["institucional", "regulação normativa"],
+      "relator": "Rafael Vitale", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Consolida as Resoluções 5742/2018 (agenda), 5903/2020 (brindes e presentes) e 5931 (audiências a particulares), revoga portaria da comissão de ética e regulamenta o tratamento de conflito de interesses, em razão do Decreto 10.889/2021 (regulamenta a Lei 12.813/2013). Base: nota técnica 6243.",
+      "votos": [
+        {"diretor": "Rafael Vitale", "voto": "relator, aprova", "ts": "0:19:30", "justificativa": "atualização dos normativos diante do Decreto 10.889/2021", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo", "ts": "0:20:20", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "de acordo", "ts": "0:20:22", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:20:25", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.2", "ts": "0:20:40",
+      "processo": "50500.166215/2024-13", "interessado": "Superintendência de Governança, Gestão de Processos e de Pessoal",
+      "assunto": "Plano de Diversidade, Equidade e Inclusão da ANTT",
+      "tema": ["institucional", "sustentabilidade"],
+      "relator": "Rafael Vitale", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Plano elaborado por grupo de trabalho (benchmark, análise documental, pesquisa interna e consulta pública), alinhado ao PREV, ao mapa estratégico 2024-2030 e ao ciclo ESG. Seis eixos: gênero, raça e etnia, pessoa com deficiência, orientação sexual, crença e religião, e idade; institui comissão gestora com ciclos de 2 anos.",
+      "votos": [
+        {"diretor": "Rafael Vitale", "voto": "relator, aprova", "ts": "0:22:50", "justificativa": "fortalece o ciclo ESG e o PREV; promoção de igualdade e ambiente saudável", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:23:05", "justificativa": "iniciativa do PREV; olhar interno para servidores e terceirizados", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:23:50", "justificativa": "fortalecimento do ciclo ESG", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:24:10", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:24:50",
+      "processo": "50500.158152/2024-63", "interessado": "SUROD (Superintendência de Infraestrutura Rodoviária)",
+      "assunto": "Instrução normativa sobre procedimento para tutela do equilíbrio econômico-financeiro dos contratos de concessão rodoviária e medidas mitigadoras de desequilíbrio (reequilíbrio parcial cautelar e por evidência), com dispensa de AIR",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "regulação normativa"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Fruto de grupo de trabalho da PF/ANTT (Portaria PF 6/2024). Reequilíbrio parcial cautelar para necessidade urgente de mitigar impactos ao fluxo de caixa e por evidência quando o direito for incontroverso, inspirados no CPC. Garantia de ressarcimento do erário: valores antecipados atualizados e devolvidos na próxima revisão tarifária, com possibilidade de exigir garantia. Admissibilidade em até 60 dias e análise técnica e decisão da diretoria em até 180 dias. Houve reunião participativa; dispensa de AIR com base no art. 4º, III, do Decreto 10.411/2020 e no art. 96, III, da Resolução 5.973/2022.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova a instrução normativa com dispensa de AIR", "ts": "0:26:00", "justificativa": "ambiente estável, previsível e seguro; clareza dos mecanismos evita desincentivo ao cumprimento e atrasos; benefícios de transparência e segurança jurídica", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:31:20", "justificativa": "norma muda o panorama; parabeniza equipe e procuradoria", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:31:50", "justificativa": "proposta de grupo de trabalho alinhada com a SUROD e debatida com concessionárias em reunião participativa", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator (presidente da sessão)", "ts": "0:32:40", "justificativa": "destaca arquivamento pelo TCU da auditoria do reequilíbrio covid-19; novo instrumento moderno para manter a capacidade das concessionárias de cumprir contratos", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.1 a 1.3.5", "ts": "0:36:00",
+      "processo": "50500.005380/2018-01 e outros quatro (recursos contra decisões 208/2022, 210/2022, 579/2023, 301/2023 e 120/2023 da CPR/SUROD)", "interessado": "Concessionária Concer (Companhia de Concessão Rodoviária Juiz de Fora-Rio)",
+      "assunto": "Bloco de cinco recursos administrativos contra penalidades aplicadas pela SUROD (processos administrativos simplificados)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — recursos conhecidos e desprovidos",
+      "resumo_voto": "Em todos, a recorrente não apresentou fato novo capaz de alterar as penalidades; voto por conhecer os recursos e negar provimento no mérito. Leitura dos votos dispensada.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, conhece e nega provimento", "ts": "0:37:10", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator em todos", "ts": "0:37:30", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator em todos", "ts": "0:37:35", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator em todos", "ts": "0:37:40", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.6 a 1.3.13", "ts": "0:38:04",
+      "processo": "Oito processos de recurso (entre eles 50515.044968/2012 e 50515.043025/2020-28) contra decisões da CPR/SUROD (252/2023, 149/2022, 937/2022, 821/2023, 835/2023, 496/2023, 498/2023 e outra)", "interessado": "Transbrasiliana Concessionária de Rodovia S.A.",
+      "assunto": "Bloco de oito recursos administrativos contra penalidades aplicadas pela SUROD (processos administrativos simplificados)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — recursos conhecidos e desprovidos",
+      "resumo_voto": "Sem fato novo capaz de alterar as penas anteriores; recursos conhecidos e improvidos no mérito. Leitura dos votos dispensada.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, conhece e nega provimento", "ts": "0:39:20", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator em todos", "ts": "0:40:00", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator nos oito processos", "ts": "0:40:05", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator nos oito processos", "ts": "0:40:10", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "extrapauta", "ts": "0:40:38",
+      "processo": "50500.087268/2023-8", "interessado": "SUROD (Superintendência de Infraestrutura Rodoviária)",
+      "assunto": "Instrução normativa que estabelece parâmetros de desempenho de pavimento para contratos de concessão rodoviária que aderirem ao RCR, que os incorporarem por termo aditivo da revisão quinquenal e para a modelagem de novos contratos",
+      "tema": ["concessões rodoviárias", "regulação normativa", "reequilíbrio contratual"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Estudo com consultoria técnica a partir de proposta aprovada na 34ª reunião administrativa; workshop em 29/11/2023 e reunião setorial. Dispensa de AIR e de audiência/consulta pública com base no art. 96 do Regimento (norma consolidada e baixo impacto, com participação via workshop e reunião participativa). Em reunião de 12/11/2024 entre diretoria, SUROD e procuradoria, ficou alinhada a incorporação dos parâmetros por termo aditivo resultante de revisão quinquenal, aplicável a revisões em estágio avançado; reduz subjetividade da fiscalização e incorpora o estado da arte em ensaios.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aprova", "ts": "0:41:00", "justificativa": "padronizar e modernizar parâmetros; mais conforto e segurança ao usuário; menos subjetividade na fiscalização; aplicação célere aos contratos vigentes", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:47:00", "justificativa": "antecipa matéria prevista no RCR; unificação da fiscalização e gestão contratual; regulação responsiva", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:47:40", "justificativa": "robustez do voto; mais eficiência aos contratos", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator (presidente da sessão)", "ts": "0:48:10", "justificativa": "item de extrema relevância para modernização dos contratos; espera ressonância entre as concessionárias; já pode ser usado nas revisões quinquenais em andamento", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.4.8", "ts": "0:49:51",
+      "processo": "00773.004779/2023-96", "interessado": "Procuradoria Federal junto à ANTT",
+      "assunto": "Instrução normativa que estabelece procedimentos para execução de garantia contratual na modalidade seguro-garantia pelas unidades da ANTT",
+      "tema": ["institucional", "regulação normativa", "concessões rodoviárias"],
+      "relator": "Felipe Queiroz (ausente; voto lido pelo presidente Rafael Vitale)", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Minuta da PF/ANTT revisada após alterações da Lei 10.522/2002 (Cadin) e da Lei 14.973/2024. Voto do relator, lido pelo presidente, pela aprovação conforme art. 66 do RI.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator ausente; voto lido pelo presidente, aprova", "ts": "0:50:10", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:53:23", "justificativa": "preenche lacuna de instrumentalização da matéria na agência", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:53:45", "justificativa": "resolve problema histórico; destaca a procuradora Margarete como idealizadora do projeto", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:54:30", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator (presidente da sessão)", "ts": "0:54:35", "justificativa": "equilíbrio das decisões: apoia concessionárias e robustece garantias de cumprimento contratual", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["Itens de relatoria de Felipe Queiroz da seção 1.4 (exceto 1.4.8), incluindo o 1.4.1 e os dois blocos de recursos de Concer e Transbrasiliana, retirados de pauta por ausência/dificuldade técnica de conexão do relator."],
+  "limites_da_analise": ["Legenda automática: números de processo e de decisões podem estar truncados ou errados (ex.: 50500.087268/2023-8, 50500.096452/2023-11 e 50500.158152/2024-63 reconstruídos; processos dos blocos 1.3.x parcialmente listados).", "Ts de votos de seguidores aproximados; ts de 1.1.1, 1.1.2, 1.2.1, extrapauta e 1.4.8 derivados de marcas aproximadas da legenda.", "Rafael Vitale identificado como relator dos itens 1.1.1 e 1.1.2 e presidente da sessão pelo contexto (Guilherme o cumprimenta como Diretor-Geral)."]
+}

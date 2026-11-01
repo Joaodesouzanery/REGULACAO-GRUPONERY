@@ -1,0 +1,44 @@
+{
+  "meta": {"video_id": "sBRrfKA1-sk", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:14:40); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "84 (extraordinária)", "data": "2024-08-29", "formato": "videoconferência",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Luciano Lourenço", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Dois itens, ambos de relatoria de Lucas Asfor, aprovados por unanimidade; encerrada às 8h33.", "No mesmo dia ocorria o leilão da BR-381 na B3; o Diretor-Geral (Rafael Vitale) destaca ser o quinto edital de leilão de 2024."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:15:04",
+      "processo": "50500.158472/2024-73", "interessado": "SUCON (Superintendência de Concessão da Infraestrutura)",
+      "assunto": "Aprovação do edital de concessão do lote CN1 Rota Verde (BR-060/452/GO, Goiânia a Rio Verde e Itumbiara, com Contorno Sul de Goiânia), 452,7 km",
+      "tema": ["concessões rodoviárias", "pedágio free flow", "leilão / otimização"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Projetos CN1 e CN5 foram enviados juntos ao TCU, mas os leilões foram separados, começando pelo CN1. Inclui cláusula opcional de livre passagem (free flow) e exigência de conectividade em 100% da rodovia a partir do 36º mês, incluída por orientação da diretoria. Procuradoria opinou pela aprovação com recomendações acolhidas ou justificadas. Investimentos de quase R$ 7 bilhões em 30 anos. Leilão previsto para 12/12/2024, 14h, na B3 em São Paulo.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova o edital", "ts": "0:16:00", "justificativa": "conformidade dos trabalhos da SUCON, atendimento às determinações do TCU e aos ajustes pedidos ao BNDES", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:23:26", "justificativa": "marco simbólico (quinto edital do ano); cita o free flow como tema liderado por Luciano Lourenço", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha integralmente o relator", "ts": "0:24:00", "justificativa": "conectividade e free flow trazem benefícios aos usuários", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator, aprova com louvor", "ts": "0:24:24", "justificativa": "ativo conecta o Mato Grosso ao Sudeste e melhora a logística do agro; alinhamento ao planejamento estratégico", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator (presidente da sessão)", "ts": "0:25:00", "justificativa": "mais um leilão de 2024; reforça o pacote do agronegócio com o BNDES e destaca os próximos lotes do CN", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.1.2", "ts": "0:27:40",
+      "processo": "50500.153595/2024-1", "interessado": "SUFER (Superintendência de Transporte Ferroviário)",
+      "assunto": "Reabertura da Audiência Pública 7/2024 (chamamento público para identificação e seleção de interessados em autorização ferroviária), apenas quanto a área de influência e direito de preferência",
+      "tema": ["ferrovias", "regulação normativa", "participação social"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Pedido da ANTF e da Move Infra; prazo inicial encerrado em 22/08. Reabertura exclusivamente para os dispositivos sobre área de influência e direito de preferência, de 7/9 a 7/10/2024 (30 dias).",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova reabertura", "ts": "0:28:00", "justificativa": "temas complexos que merecem mais prazo para contribuições", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:30:00", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:30:10", "justificativa": "agência em sintonia com o mercado; espera que as associações apresentem boas propostas", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:31:00", "justificativa": "transparência e participação social alinhadas ao Proreg", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator (presidente da sessão)", "ts": "0:31:50", "justificativa": "regulamentação da Lei 14.273 muito esperada; chamamento público pode endereçar a malha ociosa", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Presidente da sessão identificado como Rafael Vitale pelo contexto (relator saúda Guilherme, Luciano e Felipe como pares e o último voto é de quem preside); a legenda atribui falantes de forma imprecisa.", "Legenda automática: número do processo do item 1.1.2 truncado na legenda (50500.153595/2024-1..); dígito verificador não confirmado.", "Ts de votos e das falas de Guilherme/Luciano/Felipe aproximados (interpolados) ; ts da votação do item 1.1.2 estimados."]
+}

@@ -1,0 +1,134 @@
+{
+  "meta": {"video_id": "WVL5yNdky0U", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:07:50); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "993", "data": "2024-10-17", "formato": "videoconferência",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Luciano Lourenço", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Encerrada às 8h47 de 17/10/2024; todos os itens deliberados foram aprovados por unanimidade.", "Retirados de pauta: 1.3.2 (IN de execução de seguro-garantia, de Felipe Queiroz, por fatos novos que exigem atualizar a instrução) e 1.4.4 (de Lucas Asfor, após receber memorial de parte interessada).", "Dispensa de leitura de votos dos recursos 1.3.3 e 1.3.4 (Transbrasiliana) e 1.4.1 a 1.4.3 (Concer), com base no art. 68 §§2º e 5º do Regimento Interno; Felipe Queiroz explica que os recursos repetem argumentos e decisões há anos.", "O item 1.2.3 (solução consensual com a CRT) estava anunciado como reservado, mas foi decidido em sessão pública por acordo entre os diretores, com apoio da procuradoria e da secretaria-geral.", "Felipe Queiroz relata que havia dúvidas sobre o 1.2.3 quando ele constou de pauta duas reuniões antes como sigiloso; Guilherme Sampaio o retirou para saná-las, em vez de usar pedido de vista."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:12:39",
+      "processo": "50500.158472/2024-73", "interessado": "SUCON (Superintendência de Concessão da Infraestrutura)",
+      "assunto": "Referendo da Deliberação 390, de 4/10/2024, que autorizou a publicação da atualização do Edital de Concessão 4/2024 (Rota Verde, lote CN1, BR-060/452/GO)",
+      "tema": ["concessões rodoviárias", "leilão / otimização"],
+      "relator": "Rafael Vitale (ad referendum; Lucas Asfor era o relator original)", "resultado": "aprovado por unanimidade (referendo)",
+      "resumo_voto": "Edital publicado em 30/08/2024. Em 25/09/2024 a SNTR do Ministério dos Transportes enviou diretriz para revisar o edital e padronizar a metodologia de cálculo do WACC com os demais editais, conforme Resolução 6048/2024. A comissão de outorga pediu deliberação urgente; a Deliberação 390 foi publicada no DOU em 7/10. Cronograma do edital readequado para contribuições e análise; leilão mantido em 12/12/2024.",
+      "votos": [
+        {"diretor": "Rafael Vitale", "voto": "relator, referenda a deliberação", "ts": "0:15:15", "justificativa": "segurança jurídica do certame e uniformidade da avaliação econômico-financeira; WACC correto é crucial para atratividade e competitividade", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "0:15:40", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:15:45", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:15:50", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:15:55", "justificativa": "relator original, compreendeu a urgência (agradecimento do presidente)", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:16:25",
+      "processo": "50500.367324/2026-7", "interessado": "Viação Amarelinho Transportes de Passageiros Ltda.",
+      "assunto": "Encerramento da comissão processante de processo administrativo ordinário por não envio de dados do sistema Monitriip (585 viagens entre jan. e jul. de 2023); comissão propôs cassação, relator converte em multa",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — multa em substituição à cassação",
+      "resumo_voto": "Infração ao art. 47 da Resolução 4.770/2015. A comissão e a área técnica entendiam pela cassação, mas o relator teve dúvidas sobre a eficácia da sanção: em 2023 a empresa adotou medidas para melhorar o serviço e não havia sanção anterior pelo mesmo fato. A empresa pediu em memoriais a conversão em multa, com precedentes do colegiado. Aplica multa alternativa do art. 4º §1º da Resolução 2/2003 no valor de R$ 20.280.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aplica multa em lugar da cassação", "ts": "0:17:30", "justificativa": "melhoria da prestação do serviço demonstrada; ausência de sanções anteriores pelo mesmo fato gerador; precedentes do colegiado", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:19:00", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:19:05", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:19:10", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator (presidente da sessão)", "ts": "0:19:20", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "0:19:34",
+      "processo": "50500.189507/2023-35", "interessado": "SUGEP (Superintendência de Governança e Gestão Estratégica de Pessoal / SUES)",
+      "assunto": "Relatório final da Audiência Pública 9/2023 e resolução que altera a Resolução 5.083/2016 (processo administrativo de apuração de infrações e aplicação de penalidades)",
+      "tema": ["fiscalização e sanções", "regulação normativa", "participação social"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Revisão iniciada em 2021 na agenda regulatória, com AIR e audiência pública ampla. Objetivos: reduzir o estoque de autos de infração, dar segurança jurídica, padronizar regras, responsabilizar gestores de empresas e fixar prazos nos procedimentos simplificados. A PF sugeriu reavaliar o momento de instauração do processo contra o administrador controlador, para evitar morosidade e prescrição. Prazo de defesa prévia revisado (art. 41); notificação prévia para corrigir irregularidades contratuais (art. 17 §4º); inversão do cálculo da multa, com agravantes antes das atenuantes (art. 67); avaliação dos resultados após 3 anos.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova relatório final e resolução", "ts": "0:21:00", "justificativa": "regulação responsiva, segurança jurídica e redução de litígios, com avaliação futura de resultado regulatório conforme boas práticas da OCDE", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:25:00", "justificativa": "disciplina das penalidades em busca de melhor serviço ao usuário", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:25:20", "justificativa": "três inovações conduzidas pelo relator, entre elas a positivação do prazo de 30 dias", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:25:50", "justificativa": "mais segurança jurídica e melhores práticas regulatórias", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator (presidente da sessão)", "ts": "0:26:20", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.3", "ts": "0:27:27",
+      "processo": "50500.008512/2024-1", "interessado": "Concessionária Rio-Teresópolis S.A. (CRT)",
+      "assunto": "Procedimento de negociação e solução de controvérsias (IN Conjunta ANTT/PF 1/2023): aprovação de termo de consenso sobre cálculo de multas administrativas com base na tarifa calculada (URT) e homologação judicial em sete ações",
+      "tema": ["concessões rodoviárias", "judicializacao", "fiscalização e sanções", "reequilíbrio contratual"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "A CRT ajuizou sete ações para anular multas calculadas sobre a tarifa majorada pela recomposição de equilíbrio (fechamento de praças). A ANTT já reconhecera, em voto anterior (processo 50500.098260/2021-87, TAC), que a URT deve usar a tarifa calculada e não a praticada; processos transitados em julgado ou com execução fiscal não puderam entrar no TAC. No acordo, a CRT aceita a nova decisão, renuncia a recursos, à discussão judicial e à prescrição, arca com custas e honorários de sucumbência dos procuradores, e paga as multas via GRU em até 30 dias; as ações são extintas com homologação judicial. Aprovado nos termos do art. 40 da IN Conjunta 1/2023 (relatório final e minuta de termo de consenso).",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova a solução consensual", "ts": "0:28:30", "justificativa": "vantajosidade: uniformidade, segurança jurídica, duração do processo, prescrição e tempo de pagamento; reduz estoque e litígios no Judiciário", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:35:20", "justificativa": "eixos do PREV (revolução comportamental e regulatória); diminuição do fardo regulatório", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:36:00", "justificativa": "acordo possível e eficiente em vez de discutir tese; destaca a deliberação em sessão pública e que dúvidas foram resolvidas internamente, sem pedido de vista", "tom": "elogioso", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:38:20", "justificativa": "composição é bem-vinda desde que respeitadas as premissas e atingidos os objetivos", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator (presidente da sessão)", "ts": "0:39:00", "justificativa": "destaca a competência da ANTT e da procuradoria em arbitragens", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.4", "ts": "0:41:19",
+      "processo": "50500.064198/2024-72", "interessado": "SUFER (Superintendência de Transporte Ferroviário)",
+      "assunto": "Alteração do art. 7º da Resolução 5.818/2018 para delegar à SUFER a competência de autorizar investimentos obrigatórios com prazo determinado nos contratos de concessão ferroviária",
+      "tema": ["ferrovias", "regulação normativa"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Hoje o fluxo tem duas etapas e passa pela diretoria colegiada; a delegação elimina etapas, dá celeridade e reduz o risco de autorizações fora do prazo. Decisões da SUFER ficam sujeitas a vista dos diretores (art. 10 §1º da Resolução 5.218/2018) e à avocação (art. 11).",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova a delegação de competência", "ts": "0:41:50", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:44:00", "justificativa": "pequenos ajustes pontuais geram ganho de eficiência para o setor regulado, concessionárias, ANTT e usuários", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:44:40", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:44:50", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator (presidente da sessão)", "ts": "0:45:00", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "0:45:15",
+      "processo": "50500.150568/2024-93", "interessado": "SUCAR (Superintendência de Serviços de Transporte Rodoviário e Multimodal de Cargas)",
+      "assunto": "Abertura de audiência pública sobre a revisão da Resolução 5.867/2020 (pisos mínimos do frete rodoviário, PNPM-TRC), com aprovação do relatório de AIR",
+      "tema": ["transporte rodoviário de cargas (piso mínimo do frete/CIOT)", "regulação normativa", "participação social"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Precedida pela Tomada de Subsídios 3/2024 (encerrada em 28/06/2024). Propõe alterações textuais para mais clareza e eficiência, além da atualização de índices; item do eixo temático 5 da agenda regulatória 2023-2024. Voto por aprovar o relatório de AIR e autorizar o aviso de audiência pública no DOU.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova abertura da audiência pública", "ts": "0:46:00", "justificativa": "transparência e previsibilidade da agenda regulatória; elogia a superintendência", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:51:00", "justificativa": "piso mínimo é referência de balizas e valores do segmento, independentemente da obrigatoriedade", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:51:50", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:52:00", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator (presidente da sessão)", "ts": "0:52:10", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.3 e 1.3.4", "ts": "0:52:28",
+      "processo": "50500.392707/2019-97 e 50500.033171/2017-17 (recursos contra as decisões 176/2023 e 181/2023 da CPR/SUROD)", "interessado": "Transbrasiliana Concessionária de Rodovia S.A.",
+      "assunto": "Recursos administrativos contra penalidades (julgados em bloco, leitura de voto dispensada)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — recursos conhecidos e desprovidos",
+      "resumo_voto": "Felipe Queiroz explica a dispensa de leitura: recursos previstos em contratos antigos geram grande volume, com argumentos e decisões repetidos e raras oportunidades de aplicar atenuantes; a repetição não justifica o tempo da reunião. Voto por conhecer e negar provimento.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, conhece e nega provimento", "ts": "0:53:30", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator em ambos", "ts": "0:55:50", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:55:55", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator nos dois processos", "ts": "0:56:00", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator nos dois processos", "ts": "0:56:10", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.4.1 a 1.4.3", "ts": "0:56:45",
+      "processo": "50500.029362/2022-93, 50500.391455/2019-39 e 50500.033891/2022-91 (recursos contra decisões 695/2023, 228/2023 e 699/2023 da CPR/SUROD)", "interessado": "Concessionária Rodovia Juiz de Fora-Rio (Concer)",
+      "assunto": "Três recursos administrativos contra penalidades (julgados em bloco, leitura de voto dispensada)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — recursos conhecidos e desprovidos",
+      "resumo_voto": "Voto por conhecer dos recursos e negar-lhes provimento.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, conhece e nega provimento", "ts": "0:57:30", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator nos três processos", "ts": "0:58:00", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator em todos", "ts": "0:58:05", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator nos três processos", "ts": "0:58:10", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator nos três processos", "ts": "0:58:15", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": ["1.3.2 — IN de procedimentos para execução de garantia contratual na modalidade seguro-garantia (Felipe Queiroz retirou para atualizar a instrução diante de fatos novos).", "1.4.4 — recurso/processo de Lucas Asfor retirado após receber memorial de parte interessada com supostos aprimoramentos."],
+  "limites_da_analise": ["Legenda automática: números de processo truncados ou duvidosos (o do item 1.2.1 aparece como 50500.367324/2026-7, ano impossível para reunião de 2024; o do 1.2.3 como 50500.00851/2024-1; confirmar).", "Ts de votos de seguidores aproximados (interpolados entre marcas da legenda).", "Dados de decisões e números de recursos dos blocos 1.3.3/1.3.4 e 1.4.1-1.4.3 transcritos como ouvidos; presidente também comentou numeração duplicada de decisão no item 1.4.2."]
+}

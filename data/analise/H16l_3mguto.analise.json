@@ -1,0 +1,29 @@
+{
+  "meta": {"video_id": "H16l_3mguto", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "86 (extraordinária)", "data": "2024-11-21", "formato": "videoconferência",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Luciano Lourenço", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Reunião extraordinária com um único item; encerrada às 8h47.", "Aprovado por unanimidade; o Diretor-Geral (Rafael Vitale) cita a intenção de levar o projeto a leilão em 2025."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:00:50",
+      "processo": "50500.069769/2024-65", "interessado": "SUCON (Superintendência de Concessão da Infraestrutura)",
+      "assunto": "Abertura de audiência pública sobre minutas de edital e contrato, PER e estudos de viabilidade da concessão do lote rodoviário BR-116/BA-PE e BR-324/BA (502 km, de Salgueiro/PE a Feira de Santana/BA), denominado Rota dos Sertões",
+      "tema": ["concessões rodoviárias", "participação social", "leilão / otimização"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Projeto qualificado no PPI e no PND, estruturado pelo BNDES e adequado pela SUCON conforme premissas do Ministério dos Transportes (excluídos investimentos coincidentes com duplicações do DNIT nos lotes 4, 5 e 6; suprimido trecho do anel viário de Feira de Santana que integra a concessão da Via Bahia). Capex de cerca de R$ 3,5 bilhões; cinco praças de pedágio; contribuições escritas de 29/11/2024 a 12/01/2025; sessões públicas em Feira de Santana (9/12), Salgueiro (11/12) e Brasília (13/12, presencial e remota). Sugere o nome Rota dos Sertões em alusão a Euclides da Cunha. Procuradoria optou por emitir parecer somente após a audiência.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova abertura da audiência pública", "ts": "0:01:53", "justificativa": "SUCON seguiu os passos adequados; sem óbices jurídicos; audiência apresenta o projeto à sociedade e colhe contribuições", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:08:03", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:08:06", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:08:10", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator (presidente da sessão)", "ts": "0:08:20", "justificativa": "pretende levar o projeto a leilão em 2025; agradece a explicação do relator", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Presidente da sessão identificado como Rafael Vitale pelo contexto (relator saúda Guilherme, Luciano e Felipe como pares e o último voto é de quem preside); a legenda atribui falantes de forma imprecisa.", "Legenda automática: número do processo (50500.069769/2024-65) reconstruído de transcrição truncada; confirmar. Valor de opex citado no voto aparece ilegível na legenda (omitido). Tarifa inicial citada de forma truncada (omitida).", "Ts dos votos de Luciano e Felipe aproximados."]
+}

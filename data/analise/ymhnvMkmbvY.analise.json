@@ -1,0 +1,208 @@
+{
+  "meta": {"video_id": "ymhnvMkmbvY", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "991", "data": "2024-09-18", "formato": "videoconferência",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Luciano Lourenço", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Sessão pública encerrada às 14h08 de 18/09/2024; seguiu-se sessão reservada para o item sigiloso 1.1.29.", "Guilherme Sampaio retirou de pauta os itens 1.1.1, 1.1.2 e 1.1.4; Felipe Queiroz retirou o 1.3.1 (redução de capital social da Eco Araguaia).", "Itens análogos foram relatados em bloco (art. 68 §2º do Regimento Interno): recursos da Concer, da Concepa e processos do Monitriip.", "Todos os itens deliberados em sessão pública foram aprovados por unanimidade, exceto que Luciano Lourenço teve falha de conexão nos itens 1.4.1 e 1.4.2 (registrada a ausência no voto; depois declarou acompanhar o relator, a ser consignado pelo secretário-geral).", "Rafael Vitale registra recado ao mercado: a fiscalização é cada vez mais eletrônica e a ANTT quer educar o setor, mas exige conformidade mínima."]
+  },
+  "itens": [
+    {
+      "id": "1.1.3 a 1.1.28 (bloco, exceto retirados e 1.1.5, 1.1.6, 1.1.12, 1.1.19, 1.1.25, 1.1.26)", "ts": "0:07:35",
+      "processo": "diversos (bloco de recursos administrativos)", "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (Concer)",
+      "assunto": "Recursos administrativos contra multas aplicadas pela SUROD por descumprimento do contrato de concessão PG-138/95 (atrasos no cronograma do PER e infrações da Res. ANTT 4.071/2013)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — recursos conhecidos e desprovidos",
+      "resumo_voto": "A concessionária não apresentou fato ou elemento novo capaz de afastar as penalidades de multa (em URT); adotam-se como razões de decidir as considerações técnicas dos autos (art. 50 §1º da Lei 9.784/99). Conhecer e negar provimento.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, conhece e nega provimento", "ts": "0:08:00", "justificativa": "ausência de fato novo; adoção da motivação técnica (art. 50 §1º Lei 9.784/99)", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:12:20", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:12:22", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:12:25", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator; proclama unanimidade", "ts": "0:12:30", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.1.5", "ts": "0:12:42",
+      "processo": "50500.364996/2023-11", "interessado": "Nacional Expresso Ltda. (em recuperação judicial)",
+      "assunto": "Processo administrativo ordinário: cassação da outorga de linhas por não envio de dados do Monitriip (art. 47 da Res. ANTT 4.770/2015)",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções", "Monitriip"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — cassação",
+      "resumo_voto": "Empresa não informou dados de 988 viagens previstas entre jan. e jul. de 2023, nem enviou dados do sistema embarcado; infração grave e descumprimento de requisito essencial à operação. Aplica-se cassação do ato de outorga das linhas indicadas (Araguari–Foz do Iguaçu, São José do Rio Preto–Foz, Goiânia–Curitiba etc.) e respectivos mercados, com base no art. 78-H da Lei 10.233/2001; comissão e área técnica convergiram.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aplica cassação", "ts": "0:13:30", "justificativa": "gravidade e ausência de elementos fáticos ou jurídicos novos; requisito essencial insuperável à operação", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:15:30", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:15:32", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:15:34", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:15:36", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.1.6", "ts": "0:15:43",
+      "processo": "50500.364971/2023-1x (número parcial na legenda)", "interessado": "Sidão Transporte e Turismo Ltda.",
+      "assunto": "Processo administrativo ordinário: não envio de dados do Monitriip (480 viagens entre jan. e jul. de 2023)",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções", "Monitriip"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — advertência",
+      "resumo_voto": "Mesma infração do processo anterior, mas a empresa passou a se adequar a partir de março de 2024; a comissão considerou desarrazoada sanção gravosa; aplica-se advertência (art. 78-A, I da Lei 10.233/2001).",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aplica advertência", "ts": "0:16:30", "justificativa": "regularidade superveniente e manutenção do serviço; razoabilidade", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:18:10", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:18:12", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:18:14", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:18:16", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.1.12, 1.1.19 e 1.1.26 (bloco)", "ts": "0:18:31",
+      "processo": "50500.131269/2013-1x; 50500.363663/2019-98; 50520.036320/2018-7x (números parciais na legenda)", "interessado": "Concessionária da Rodovia Osório–Porto Alegre S.A. (Concepa)",
+      "assunto": "Recursos administrativos contra multas aplicadas pela SUROD por descumprimento do contrato de concessão PG-016/97 e da Res. ANTT 4.071/2013",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade nos três processos — recursos desprovidos",
+      "resumo_voto": "Sem fato novo; mantidas as multas em URT, adotando-se a motivação técnica (art. 50 §1º Lei 9.784/99).",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, conhece e nega provimento", "ts": "0:19:20", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:20:50", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:20:52", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator nos três processos", "ts": "0:20:54", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator nos três processos", "ts": "0:20:58", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.1.25", "ts": "0:21:30",
+      "processo": "50510.145332/2018-4x (número parcial na legenda)", "interessado": "Transbrasiliana Concessionária de Rodovia S.A.",
+      "assunto": "Recurso contra penalidade de advertência por deixar meios-fios danificados, deteriorados ou ausentes por prazo superior a 72 horas (art. 49, VII da Res. ANTT 4.071/2013)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — recurso desprovido",
+      "resumo_voto": "Sem fato novo; mantida a advertência com base na motivação técnica dos autos.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, conhece e nega provimento", "ts": "0:22:00", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:23:10", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:23:12", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:23:14", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:23:16", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:23:22",
+      "processo": "50500.007899/2024-54", "interessado": "SUPAS (Superintendência de Serviços de Transporte Rodoviário de Passageiros)",
+      "assunto": "Alteração do art. 233 da Res. ANTT 6.033/2023 (autorização do TRIP): início do recebimento de solicitações da janela extraordinária de mercados 30 dias após a publicação do comunicado; sexta revisão extraordinária da Agenda Regulatória 2023/2024; dispensa de AIR e de participação social",
+      "tema": ["ônibus (transporte regular, TAR)", "regulação normativa", "janela extraordinária de mercados"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Persistem limitações de sistemas que impedem a publicação da relação de mercados atendidos por uma só transportadora; a SUPAS ainda finaliza o sistema para receber informações das autorizatárias. Adia-se o início das solicitações para 30 dias após o comunicado (prorrogável por igual período, com prazo mínimo de 30 dias para pedidos), sem prejuízo aos interessados. Propõe ainda, por paralelismo de formas, que o edital/comunicado do processo seletivo (art. 62) seja submetido à Diretoria Colegiada e não aprovado apenas pela SUPAS. Aprova inclusão na Agenda Regulatória (fase conclusiva) e dispensa AIR e PPCS nos termos do art. 7º §2º da Res. 6.020/2023 e art. 96 da Res. 5.976/2020.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aprova a minuta e dispensa AIR e PPCS", "ts": "0:23:40", "justificativa": "impossibilidade técnica temporária dos sistemas; mudança procedimental sem prejuízo ao mercado; transparência da agenda regulatória; paralelismo de formas no edital", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:30:30", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:30:32", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:30:34", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator; agradece a relatoria e destaca a prioridade da janela extraordinária, que deve ser feita com todos os cuidados", "ts": "0:30:40", "justificativa": "boa governança, transparência e assertividade do processo", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "0:31:06",
+      "processo": "50500.367385/2023-24", "interessado": "Viação Esmeralda Transportes Ltda.",
+      "assunto": "Encerramento da comissão processante: não envio de dados do Monitriip (Res. ANTT 4.499/2014) de jan. a jul. de 2023",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções", "Monitriip"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — advertência",
+      "resumo_voto": "Medida cautelar de paralisação suspensa em novembro de 2023; de janeiro a abril de 2024 a empresa passou a transmitir dados progressivamente. Acolhe-se a comissão: advertência (art. 78-A, I da Lei 10.233/2001), sem prejuízo da lavratura dos autos de infração pelo não envio no período.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aplica advertência", "ts": "0:31:30", "justificativa": "a ação da SUFIS surtiu efeito; adequação progressiva da empresa", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:33:35", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:33:37", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:33:39", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:33:41", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.3.2 e 1.3.3 (relatados em conjunto)", "ts": "0:33:58",
+      "processo": "50500.367328/2023-45; 50500.364978/2023-39 (número parcial na legenda)", "interessado": "Viação Montes Belos Ltda. (1.3.2) e Empresa Moreira Ltda. (1.3.3)",
+      "assunto": "Encerramento de comissões processantes: não envio de dados do Monitriip de jan. a jul. de 2023 (arts. 12 e 19 da Res. 4.499/2015; art. 47 da Res. 4.770/2015; art. 192 da Res. 6.033/2023)",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções", "Monitriip"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — advertência para ambas",
+      "resumo_voto": "Obrigação existe há quase dez anos; o Monitriip (velocidade, tempo, localização, paradas) é essencial para uma regulação responsiva. Após a cautelar, Montes Belos subiu do nível 3 ao nível 1 de aderência; Moreira atingiu o nível 1 em jun.-jul. de 2024, embora com queda de aderência no último período. Pelo princípio da razoabilidade e pela boa-fé demonstrada, propõe a pena menos gravosa, advertência (art. 78-A da Lei 10.233/2001), sem prejuízo das multas da Res. 233/2003; alerta que a fiscalização é contínua.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aplica advertência às duas empresas", "ts": "0:34:30", "justificativa": "razoabilidade, boa-fé e diligência na adequação; alerta sobre degradação da aderência", "tom": "didático, com alerta ao setor regulado", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:43:15", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator", "ts": "0:43:17", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator nos dois processos", "ts": "0:43:19", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator; parabeniza o voto e reforça que a vontade da ANTT é educar o mercado, mas as empresas devem manter conformidade, pois a fiscalização é cada vez mais eletrônica", "ts": "0:43:25", "justificativa": "educar o mercado sem abrir mão do mínimo de conformidade; prestação de bom serviço à sociedade", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.4 a 1.3.10 (bloco)", "ts": "0:44:35",
+      "processo": "50001.087561/2013-74; 50001.005189/2014-78; 50001.0051xx/2014 (obras da nova subida da Serra de Petrópolis); 50001.004129/2016-2x; 50001.025312/2018-72; 50501.030741/2018-4x; 50501.030742/2018-23 (números parciais na legenda)", "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (Concer)",
+      "assunto": "Sete recursos voluntários contra multas da SUROD no contrato PG-138/95: inexecução de obras do PER (passarela, segurança viária, nova subida da Serra de Petrópolis), TROs de pavimento, infração do item 3.07 e atraso em cronogramas de investimento",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — recursos desprovidos",
+      "resumo_voto": "Em todos os casos a recorrente reapresentou argumentos já enfrentados, sem fato novo. O relator detalhou, cronologicamente, os atos de infração (de 2013 a 2018) e as multas em URT (por exemplo 671,2 URT, 540 URT, 675 URT e 99,9 URT; demais valores incertos na legenda). Conhece e nega provimento.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, conhece e nega provimento", "ts": "0:45:30", "justificativa": "ausência de fato novo; argumentos já enfrentados; transparência na apresentação de quadro com os sete processos", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator em todos os itens", "ts": "0:52:10", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator em todos os processos do bloco", "ts": "0:52:13", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator nos sete processos", "ts": "0:52:18", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator nos sete processos", "ts": "0:52:22", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.4.1", "ts": "0:52:29",
+      "processo": "50510.490490/2020-91 (número parcial na legenda)", "interessado": "Transbrasiliana Concessionária de Rodovia S.A.",
+      "assunto": "Recurso à Diretoria contra decisão da SUROD: advertência por deixar meios-fios danificados, deteriorados ou ausentes por mais de 72 horas",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado pelos diretores presentes (Luciano Lourenço sem conexão no momento; depois declarou acompanhar)",
+      "resumo_voto": "Ausência de novos fatos e argumentos aptos a reformar a decisão: conhece e nega provimento.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, conhece e nega provimento", "ts": "0:53:10", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:53:45", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "ausente na votação por falha de conexão; posteriormente declarou acompanhar o relator, a ser consignado pelo secretário-geral", "ts": "0:59:50", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:53:50", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:53:55", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.4.2", "ts": "0:54:56",
+      "processo": "50510.152290/2018-54 (número parcial na legenda)", "interessado": "Transbrasiliana Concessionária de Rodovia S.A.",
+      "assunto": "Recurso à Diretoria contra decisão da SUROD: multa por deixar de prover socorro mecânico conforme o contrato de concessão e o PER",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado pelos diretores presentes (Luciano Lourenço sem conexão no momento; depois declarou acompanhar)",
+      "resumo_voto": "Ausência de novos fatos e argumentos: conhece e nega provimento.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, conhece e nega provimento", "ts": "0:55:20", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:55:55", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "ausente na votação por falha de conexão; posteriormente declarou acompanhar o relator", "ts": "0:59:50", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:55:58", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:56:02", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.4.3", "ts": "0:56:13",
+      "processo": "50500.364958/2023-68 (número parcial na legenda)", "interessado": "Matriz Transportes Ltda.",
+      "assunto": "Processo administrativo ordinário: não envio de dados do Monitriip embarcado de jan. a jul. de 2023",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções", "Monitriip"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — advertência",
+      "resumo_voto": "A omissão compromete a capacidade de monitoramento e a segurança e qualidade do serviço; houve cautelar (Portaria SUFIS 522/2023) depois suspensa. Desde janeiro de 2024 a empresa apresentou evolução substancial; sanção gravosa seria desarrazoada. Acolhe a área técnica: advertência.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aplica advertência", "ts": "0:56:40", "justificativa": "evolução substancial no atendimento ao Monitriip; manutenção dos serviços", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "0:59:20", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:59:25", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha o relator (e registra concordância também nos itens 1.4.1 e 1.4.2)", "ts": "0:59:40", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "0:59:45", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.1.29 (sigiloso)", "ts": "0:06:08",
+      "processo": "50500.000851/2024-1x (número parcial na legenda)", "interessado": "Concessionária Rio–Teresópolis (CRT)",
+      "assunto": "Procedimento de negociação e solução de controvérsias (IN conjunta ANTT/PF 1/2021) para solução consensual sobre multas administrativas judicializadas; item sigiloso julgado em sessão reservada",
+      "tema": ["concessões rodoviárias", "solução consensual", "judicializacao", "fiscalização e sanções"],
+      "relator": "Guilherme Sampaio", "resultado": "deliberado em sessão reservada após o encerramento da transmissão (resultado não disponível)",
+      "resumo_voto": "Apenas o anúncio na parte pública (restrição de acesso conforme IN CGU 14/2018 e art. 48 §1º do Regimento); sem voto ou conteúdo na transmissão.",
+      "votos": []
+    }
+  ],
+  "retirados": [
+    {"item": "1.1.1 — SUFER: delegação de competências", "relator": "Guilherme Sampaio", "motivo": "temas em troca de informações com o colegiado; trazer mais maduro na próxima sessão", "ts": "0:04:00"},
+    {"item": "1.1.2 — recurso de concessionária ferroviária", "relator": "Guilherme Sampaio", "motivo": "idem", "ts": "0:04:00"},
+    {"item": "1.1.4 — Mart Transportes (pedido de reconsideração, proc. 50500.367280/2023-75)", "relator": "Guilherme Sampaio", "motivo": "retirado de pauta", "ts": "0:04:00"},
+    {"item": "1.3.1 — redução de capital social da Eco Araguaia", "relator": "Felipe Queiroz", "motivo": "retirado de pauta pelo relator", "ts": "0:05:10"}
+  ],
+  "limites_da_analise": ["Legenda automática: números de processo parciais ou distorcidos; nomes de empresas podem estar errados (por exemplo Sidão, Matriz).", "Os ts dos votos dos seguidores são aproximados; a identificação de cada ítem dentro dos blocos (1.1.3 a 1.1.28) não é completa, pois o Diretor-Geral leu a numeração de forma confusa e a legenda a distorce.", "Valores de URT do bloco 1.3.4 a 1.3.10 só parcialmente legíveis.", "Item 1.1.29 foi julgado em sessão reservada; sem conteúdo."]
+}
