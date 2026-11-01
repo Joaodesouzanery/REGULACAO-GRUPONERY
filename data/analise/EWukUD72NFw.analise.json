@@ -1,0 +1,435 @@
+{
+ "meta": {
+  "video_id": "EWukUD72NFw",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:32); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "1021",
+  "data": "2025-11-19",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+  "diretores_presentes": [
+   "Guilherme Sampaio",
+   "Felipe Queiroz",
+   "Lucas Asfor",
+   "Alex Azevedo",
+   "José Aires Amaral Filho"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte pública encerrada às 18h03 de 19/11/2025.",
+   "Dois itens extrapauta incluídos com concordância dos diretores: embargos do Bradesco BBI (relator Guilherme Sampaio) e Cedro Participações (relator Amaral Filho). O primeiro foi retirado após pedido de vista anunciado por Felipe Queiroz.",
+   "Três sustentações orais: Rumo Malha Central e FNS Tramo Norte (1.1.2), Rio Novo (1.3.2) e SINDAC GRU (1.3.3); nos dois últimos houve troca de acusações com os advogados e registro dos diretores sobre o uso da tribuna.",
+   "Última sessão pública de José Aires Amaral Filho como diretor substituto (cerca de dois meses e meio); recebeu homenagens de Guilherme Sampaio, Felipe Queiroz, Lucas Asfor e Alex Azevedo.",
+   "Item 1.3.4 (PAD da Corregedoria) é sigiloso e foi julgado após a transmissão, sem registro público do resultado."
+  ]
+ },
+ "itens": [
+  {
+   "id": "extrapauta-1",
+   "ts": "0:34:30",
+   "processo": "50500.006517/2025-66 (número incerto)",
+   "interessado": "Banco Bradesco BBI S.A.",
+   "assunto": "Embargos de declaração contra a Deliberação 321/2025 (2/9/2025), que deferiu cautelar para preservar a análise prévia da ANTT sobre transferência de controle societário (art. 27 da Lei de Concessões e art. 5º da Res. 5.927/2021) [item extrapauta]",
+   "tema": [
+    "concessões rodoviárias",
+    "judicializacao"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "retirado de pauta após pedido de vista anunciado por Felipe Queiroz",
+   "resumo_voto": "Relator conhece dos embargos e nega provimento (ausência de omissão, contradição ou obscuridade). Felipe Queiroz, ao ser chamado a votar, anunciou pedido de vista por não ter conseguido analisar os autos (item extrapauta); o Diretor-Geral retirou o item para discussão no colegiado e nova inclusão em sessão posterior. O item foi deliberado e rejeitado na RD seguinte (ver reunião 97 extraordinária de 25/11/2025).",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, conhece e nega provimento aos embargos",
+     "ts": "0:35:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "pede vista (extrapauta; não conseguiu acompanhar o racional nem analisar os autos)",
+     "ts": "0:38:04",
+     "justificativa": "cautela por ser extrapauta",
+     "tom": "cortês",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1.1.1",
+   "ts": "0:38:37",
+   "processo": "50500.016676/2025-19",
+   "interessado": "Marte Transportes Ltda.",
+   "assunto": "Recurso contra a decisão SUPAS 879/2025 (6/6/2025) que indeferiu a habilitação para solicitar TAR no transporte rodoviário interestadual regular de passageiros em regime de autorização",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade — recurso conhecido e desprovido",
+   "resumo_voto": "Grupo Marte está em recuperação judicial (Salvador) e foi dispensado de certidões negativas de caráter econômico-financeiro, mas a dispensa não alcança a certidão negativa criminal federal e estadual dos administradores, que estava vencida; exigência autônoma que visa a idoneidade de quem presta serviço de interesse público. Decisão da ANTT não descumpre a ordem judicial; a empresa pode apresentar novo pedido quando regularizar.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:39:30",
+     "justificativa": "a dispensa judicial não abrange a certidão criminal dos administradores",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:45:47",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alex Azevedo",
+     "voto": "acompanha o relator",
+     "ts": "0:46:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "José Aires Amaral Filho",
+     "voto": "acompanha o relator",
+     "ts": "0:46:05",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha; proclama unanimidade",
+     "ts": "0:46:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.1.2",
+   "ts": "0:46:15",
+   "processo": "50500.387216/2023-19",
+   "interessado": "Rumo Malha Central S.A. (e Ferrovia Norte-Sul Tramo Norte, parte contrária)",
+   "assunto": "Recurso contra a decisão SUFER 64/2025 (8/4/2025), que determinou que a subconcessão do trecho da FNS Tramo Central opere com padrão de 32,5 toneladas por eixo, sem investimentos adicionais nem reequilíbrio; sustentações orais de Eduardo Jordão (Rumo) e Mariana Magalhães (FNS)",
+   "tema": [
+    "ferrovias",
+    "reequilíbrio contratual",
+    "judicializacao"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade — recurso conhecido e desprovido, com determinação de processo de apuração de eventual desequilíbrio",
+   "resumo_voto": "Rumo sustenta o limite contratual de 30 t/eixo e pede anulação das decisões SUFER 64 e 97/2025 (subsidiariamente, reequilíbrio); a FNS Tramo Norte sustenta o parâmetro de 32,5 t/eixo dos estudos da Infra S.A. Relator: recurso tempestivo; sem nulidade (Rumo notificada desde 2022, participou da controvérsia por mais de 3 anos, diligência confirmou o contraditório); a ferrovia foi projetada para 32,5 t/eixo e não há laudo independente que comprove risco à superestrutura; decisão alinha-se ao interesse público e à padronização da malha. Mantém a decisão SUFER 64/2025 e determina que a SUFER instaure processo específico para apurar se a manutenção da decisão gera desequilíbrio no contrato da Rumo Malha Central.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, conhece e nega provimento; determina apuração de desequilíbrio",
+     "ts": "1:14:20",
+     "justificativa": "sem cerceamento de defesa; padrão 32,5 t/eixo é o do projeto; reequilíbrio deve ser aprofundado em processo próprio",
+     "tom": "equilibrado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "1:21:19",
+     "justificativa": "qualifica o voto de equilibrado e destaca a relevância da compatibilização do peso por eixo para a interoperabilidade; análise adicional pode complementar eventual direito de reequilíbrio",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alex Azevedo",
+     "voto": "acompanha o relator",
+     "ts": "1:23:20",
+     "justificativa": "não se podem criar trechos com parâmetros distintos na malha (futura interligação com a FICO/FIOL); afasta violação ao contraditório",
+     "confianca": "media"
+    },
+    {
+     "diretor": "José Aires Amaral Filho",
+     "voto": "acompanha o relator",
+     "ts": "1:26:31",
+     "justificativa": "considera boa a medida de apuração técnica de eventual reequilíbrio",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o relator; proclama unanimidade",
+     "ts": "1:27:30",
+     "justificativa": "voto «salomônico»: mantém a decisão técnica e atende ao pedido subsidiário da Rumo",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.1",
+   "ts": "1:29:21",
+   "processo": "50500.028132/2025-08 (número incerto)",
+   "interessado": "Trivale Instituição de Pagamento Ltda.",
+   "assunto": "Revogação da habilitação como instituição de pagamento eletrônico de frete (IPEF)",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Alex Azevedo",
+   "resultado": "aprovado por unanimidade — habilitação revogada, mantidas obrigações residuais",
+   "resumo_voto": "Descumprimento do requisito legal de disponibilizar o arranjo de pagamento instantâneo Pix (art. 22-B da Lei 11.442/2007); perda superveniente de condição essencial confirmada pela exclusão do cadastro pelo Banco Central; devido processo legal observado, empresa notificada para defesa e alegações finais e permaneceu inerte.",
+   "votos": [
+    {
+     "diretor": "Alex Azevedo",
+     "voto": "relator, revoga a habilitação",
+     "ts": "1:30:08",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "1:33:12",
+     "justificativa": "brinca que só não pediria vista porque o relator esclareceu a deferência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha integralmente o relator",
+     "ts": "1:34:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Aires Amaral Filho",
+     "voto": "acompanha integralmente o relator",
+     "ts": "1:34:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha; proclama unanimidade",
+     "ts": "1:34:34",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.1",
+   "ts": "1:34:34",
+   "processo": "50500.367333/2023-58 (número incerto)",
+   "interessado": "Edson Santos Ltda. (linha Abaíba/BA–Santos/SP)",
+   "assunto": "Pedido de revisão/convolação de pena contra a Deliberação 249/2024 (cassação da outorga da linha e mercados, art. 78-H da Lei 10.233/2001), mantida pela Deliberação 383/2024 (pedido de reconsideração desprovido)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções"
+   ],
+   "relator": "José Aires Amaral Filho",
+   "resultado": "aprovado por unanimidade — pedido de revisão não conhecido (conforme sugestão da área técnica)",
+   "resumo_voto": "Origem na cautelar da SUFIS (Portaria 52/2023) sobre dados do Monitriip e no PAO instaurado em 2023. A revisão (art. 101 da Res. 5.083/2016) exige fato novo ou circunstância relevante, ausente no pedido protocolado em 2/9/2025; decisão colegiada em recurso é definitiva (art. 62). Acolhe a conclusão da SUFIS de não conhecer do pedido (texto da legenda cortado antes do dispositivo).",
+   "votos": [
+    {
+     "diretor": "José Aires Amaral Filho",
+     "voto": "relator, não conhece do pedido de revisão",
+     "ts": "1:35:29",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "1:42:50",
+     "justificativa": "homenageia o colega Amaral Filho pela competência e leveza",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "1:44:48",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alex Azevedo",
+     "voto": "acompanha o relator",
+     "ts": "1:45:06",
+     "justificativa": "exalta a passagem de Amaral pela diretoria",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente; proclama unanimidade",
+     "ts": "1:47:36",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.2",
+   "ts": "1:48:02",
+   "processo": "50500.016721/2021-97 (número incerto)",
+   "interessado": "Rio Novo Transportes e Turismo Ltda.",
+   "assunto": "Suspensão dos efeitos das Deliberações 216 a 221/2025 (3/7/2025) e restabelecimento da decisão SUPAS 219/2024, em cumprimento à suspensão de segurança 5714/DF (STF); sustentação oral do advogado Lucas Sarrão Turquino",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao",
+    "fiscalização e sanções"
+   ],
+   "relator": "José Aires Amaral Filho",
+   "resultado": "aprovado por unanimidade — com complemento de voto sugerido por Felipe Queiroz",
+   "resumo_voto": "Em cumprimento à decisão do então presidente do STF (Barroso) na SS 5714/DF, suspende os efeitos das deliberações que autorizaram a Rio Novo e indefere o pedido, por não atender o art. 226 §6º da Res. 633/2023 (regime de transição restrito a situações amparadas por decisões anteriores a 1/2/2024; a decisão judicial da empresa é de 12/8/2024 e as autorizações de julho/2025). Notícia nova liminar da 17ª Vara Federal/DF, cumprida em 24 horas com reativação das linhas. Determina à SUPAS a instrução dos recursos pendentes de Expresso Satélite Norte e Gontijo contra as deliberações 216 e 221 para posterior deliberação. A defesa alegou perseguição e uso de empresas «laranjas» para eliminar concorrência e dois pesos e duas medidas na área técnica.",
+   "votos": [
+    {
+     "diretor": "José Aires Amaral Filho",
+     "voto": "relator, suspende os efeitos das deliberações e determina instrução dos recursos pendentes",
+     "ts": "2:13:43",
+     "justificativa": "cumprimento de decisão judicial; segurança jurídica e contraditório quanto aos recursos pendentes",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator, com complemento: consignar no comando final o esclarecimento sobre a análise técnica",
+     "ts": "2:19:18",
+     "justificativa": "registra que o ponto dos «dois pesos e duas medidas» não pode ficar sem resposta pública; sem endossar a tese da defesa",
+     "tom": "cortês, ressalva institucional",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator com o complemento",
+     "ts": "2:24:14",
+     "justificativa": "relator enfrentou todas as questões; acusações graves de «laranjas» devem ser provadas no foro adequado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alex Azevedo",
+     "voto": "acompanha o relator",
+     "ts": "2:25:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o relator com o complemento; proclama unanimidade",
+     "ts": "2:32:45",
+     "justificativa": "decisão judicial se cumpre; denúncias devem ir à Ouvidoria e Procuradoria; lamenta uso do Judiciário para constranger servidores (pareceres de força executória da PFE)",
+     "tom": "firme",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1.3.3",
+   "ts": "2:35:53",
+   "processo": "50500.047166/2025-93",
+   "interessado": "Sindicato dos Transportadores Autônomos de Cargas de Guarulhos e Região (SINDAC GRU)",
+   "assunto": "Recurso contra a Deliberação 272/2025 (15/8/2025), que reabriu por 15 dias a Audiência Pública 10/2024 sobre a minuta de resolução do sistema de livre passagem (free flow); sustentação oral do advogado Edson Silva",
+   "tema": [
+    "pedágio free flow",
+    "participação social",
+    "regulação normativa",
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)"
+   ],
+   "relator": "José Aires Amaral Filho",
+   "resultado": "aprovado por unanimidade — recurso conhecido e desprovido",
+   "resumo_voto": "Recorrente alegou prazo insuficiente (pediu 60 dias por suposto impacto no comércio internacional, ou 45), falta de publicidade de documentos técnicos e relatório incompleto à diretoria; 13 entidades ingressaram como terceiros interessados. Relator: foram recebidas 167 contribuições; somados os 46 dias iniciais (9/11 a 24/12/2024) e os 15 dias de reabertura (16/8 a 10/9/2025) houve 61 dias de participação; a reabertura foi complementar, sem mudança substancial de conteúdo (inserção da disciplina no RCR), justificando rito sumário (art. 9º §2º da Lei 13.848/2019); o free flow não é matéria de comércio exterior, o efeito é indireto. Mantém a Deliberação 272/2025.",
+   "votos": [
+    {
+     "diretor": "José Aires Amaral Filho",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "2:54:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "3:00:08",
+     "justificativa": "rebate as acusações do advogado como levianas; explica o compartilhamento de risco do free flow como prática regulatória que evita pressão tarifária sobre o usuário",
+     "tom": "firme",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alex Azevedo",
+     "voto": "acompanha o relator, com o complemento de Felipe",
+     "ts": "3:10:03",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "3:10:38",
+     "justificativa": "a diretoria recebe quem pede audiência; 15 dias a mais é prazo suficiente para um sindicato do porte do recorrente mobilizar participantes",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "3:12:08",
+     "justificativa": "registra desconforto, como advogado licenciado, com o uso da tribuna com palavras ásperas, e menciona a possibilidade de oficiar a OAB",
+     "tom": "firme",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "extrapauta-2",
+   "ts": "3:14:06",
+   "processo": "50500.021865/2025-63",
+   "interessado": "Cedro Participações S.A.",
+   "assunto": "Contrato de adesão para autorização ferroviária de construção e exploração de terminal ferroviário em Itabirito (MG), cerca de 8 km, prazo de 99 anos (Lei 14.273/2021) [item extrapauta]",
+   "tema": [
+    "ferrovias"
+   ],
+   "relator": "José Aires Amaral Filho",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Pedido instruído pela SUFER (Lei das Ferrovias, Decreto 11.245/2022, Res. 5.987/2022); direito de preferência consultado: MRS manifestou desinteresse e FCA e EFVM permaneceram silentes (preclusão); sem óbice técnico-operacional; Ministério dos Transportes reconheceu a aderência à política pública; minuta segue o modelo padrão e não houve nova manifestação da Procuradoria por existirem pareceres referenciais.",
+   "votos": [
+    {
+     "diretor": "José Aires Amaral Filho",
+     "voto": "relator, aprova o contrato de adesão",
+     "ts": "3:16:01",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "3:21:03",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alex Azevedo",
+     "voto": "acompanha integralmente o relator",
+     "ts": "3:21:09",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "acompanha o relator",
+     "ts": "3:21:21",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente; proclama unanimidade",
+     "ts": "3:21:23",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1.3.4",
+   "ts": "0:34:30",
+   "processo": "50500.104614/2023-00 (número incerto)",
+   "interessado": "Corregedoria",
+   "assunto": "Processo administrativo disciplinar (PAD) instaurado pela Portaria COREG 21/2023 para apurar responsabilidades funcionais [item sigiloso]",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "José Aires Amaral Filho",
+   "resultado": "não consta na transmissão pública (julgamento sigiloso após o encerramento da sessão)",
+   "resumo_voto": "Apreciado a portas fechadas, com participação restrita às partes e ao Procurador, nos termos da IN CGU 14/2018 (arts. 64 V e 65 I) e art. 48 §1º do Regimento.",
+   "votos": []
+  }
+ ],
+ "retirados": [
+  {
+   "item": "Extrapauta: embargos de declaração do Bradesco BBI (proc. 50500.006517/2025-66)",
+   "relator": "Guilherme Sampaio",
+   "motivo": "pedido de vista anunciado por Felipe Queiroz por ser extrapauta; retirado para discussão no colegiado e nova inclusão",
+   "ts": "0:38:37"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática com nomes e números de processo distorcidos (marcados como incertos).",
+  "Atribuição de falas muito instável nos votos; várias posições de Alex Azevedo e Amaral Filho têm confiança baixa/média e ts estimados.",
+  "No item 1.3.1 o texto da legenda corta antes do dispositivo; o resultado (não conhecimento) deriva da sugestão da SUFIS citada no voto.",
+  "No item 1.3.2 o voto de Alex Azevedo não aparece na legenda; registrado como acompanhamento pela proclamação de unanimidade.",
+  "Os votos do item sigiloso 1.3.4 não foram transmitidos."
+ ]
+}

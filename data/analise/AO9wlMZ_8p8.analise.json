@@ -1,0 +1,231 @@
+{
+ "meta": {
+  "video_id": "AO9wlMZ_8p8",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:06:36); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "1015",
+  "data": "2025-08-29",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+  "diretores_presentes": [
+   "Guilherme Sampaio",
+   "Felipe Queiroz",
+   "Lucas Asfor"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 10h28 de 29/08/2025 (sexta-feira). Colegiado com apenas três diretores; os dois novos diretores tomaram posse na semana seguinte (RD 95, de 02/09/2025).",
+   "Felipe Queiroz retirou os itens 1.1.1 e 1.1.2 de pauta (sem informar o objeto); no item 1.1.3 foi aberta vista coletiva.",
+   "Lucas Asfor relatou em bloco os itens 1.2.1 e 1.2.2 (art. 68 §2º do RI).",
+   "Instabilidade de internet de Felipe Queiroz durante a declaração de voto do item 1.2.5; ele repetiu o trecho final."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1.3",
+   "ts": "0:07:47",
+   "processo": "50500.171451/2024",
+   "interessado": "Superintendência de Serviços de Transporte Rodoviário de Passageiros (SUPAS)",
+   "assunto": "Proposta de revogação das Súmulas 4 e 5 de 16/06/2020 (regularização de licenças operacionais obtidas por decisão judicial no serviço de transporte rodoviário interestadual de passageiros)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao",
+    "regulação normativa"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "vista coletiva (art. 106 par. único do RI); deliberação na próxima reunião com todos os diretores",
+   "resumo_voto": "Sob a Resolução 4.770/2015 a licença operacional era deferida por mero requerimento, e as súmulas permitiam regularizar licenças ordenadas judicialmente. Após a Lei 14.296/2022 (art. 47-B da Lei 10.233/2001: sem limite de autorizações salvo inviabilidade técnica, operacional e econômica) e o novo marco regulatório do TRIP, a inclusão de operador por ordem judicial rompe premissa do marco. Voto pela revogação das Súmulas 4 e 5 e pela manutenção dos efeitos delas nos requerimentos já autorizados por decisões judiciais durante a vigência.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, propõe revogação das súmulas 4 e 5 (mantendo efeitos nos casos já autorizados)",
+     "ts": "0:08:24",
+     "justificativa": "incompatibilidade com o novo marco regulatório e a Lei 14.296/2022",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "abre vista coletiva",
+     "ts": "0:12:23",
+     "justificativa": "rito regimental de duas sessões",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "vista coletiva (sem manifestação de mérito)",
+     "ts": "0:12:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.2.1 e 1.2.2",
+   "ts": "0:12:30",
+   "processo": "50500.166208/2024; 50500.166220/2024-25 (parciais)",
+   "interessado": "Rota do Sol Transporte e Turismo Ltda.; Central Expresso Transporte Ltda.",
+   "assunto": "Processos administrativos ordinários para apurar infrações à legislação do transporte interestadual semiurbano de passageiros (fiscalização de frota e condições operacionais entre 01/01/2023 e 14/06/2024), julgados em bloco",
+   "tema": [
+    "ônibus (semiurbano)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade — advertência, com determinação adicional (complemento de Felipe Queiroz)",
+   "resumo_voto": "Acolhe o relatório da comissão processante, que considerou desarrazoada pena diversa de advertência (proporcionalidade, caráter pedagógico, continuidade do serviço e função social das empresas, sem prejuízo de outras infrações pontuais). Sanção com base no art. 78-A, I, da Lei 10.233/2001. Por sugestão de Felipe Queiroz, incorporou-se determinação para que a SUFIS acompanhe as empresas e encaminhe à diretoria, em até seis meses, relatório sobre a efetividade da advertência (infrações de acessibilidade, como falta de equipamento para cadeirantes).",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, aplica advertência às duas empresas",
+     "ts": "0:13:30",
+     "justificativa": "proporcionalidade e caráter pedagógico",
+     "confianca": "sucinto"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha com complemento: SUFIS acompanhar a efetividade da advertência e reportar em até seis meses",
+     "ts": "0:18:15",
+     "justificativa": "reflexão sobre efetividade das medidas em casos análogos de acessibilidade; avalia eventual TAC ou medida de enforcement adicional",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "adere à sugestão e acompanha; proclama unanimidade",
+     "ts": "0:20:48",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.3",
+   "ts": "0:20:48",
+   "processo": "50500.14584/2023-65 (parcial)",
+   "interessado": "Viação 7 Ltda. (Aviação 7)",
+   "assunto": "Pedido de reconsideração do ofício que negou a retificação da Decisão SUPAS 3049/2024 (27/12/2024) para incluir, na condição sub judice, o mercado Teresina/PI–Barão do Grajaú/MA na linha Timon/MA–Campo Alegre de Lurdes/BA; voto-vista",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade — voto-vista divergente de Lucas Asfor vence; recurso provido",
+   "resumo_voto": "Relator (RDE 238, 30/06 a 04/07/2025) acompanhava a área técnica: conhecer e negar provimento, pois o mercado não constou do esquema operacional exigido pela revogada Resolução 4.770/2015, aplicada por decisão judicial. Lucas Asfor pediu vista e diverge: a área técnica reconheceu o mercado no pedido inicial e a possível interpretação equivocada das orientações no cenário de transição (Resolução 6.033/2023, migração SGP para SIGMA); formalismo excessivo não pode desconstituir direito reconhecido por ato administrativo e judicial anterior. Conhece e dá provimento, incluindo o mercado sub judice.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "voto-vista, diverge do relator; dá provimento",
+     "ts": "0:21:50",
+     "justificativa": "formalidades são meios, não fins; transição normativa; reconhecimento do mercado pela área técnica",
+     "confianca": "ponderado"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o voto-vista (converge, abandonando o voto original)",
+     "ts": "0:27:01",
+     "justificativa": "reflete sobre tradição ibérica do formalismo versus a visão trazida por Lucas (que estudou em Portugal); acolhe no caso concreto",
+     "confianca": "cordial"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "adere ao voto-vista; proclama unanimidade",
+     "ts": "0:28:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.4",
+   "ts": "0:28:10",
+   "processo": "50500.14587/2023-49 (parcial)",
+   "interessado": "Viação 7 Ltda. (Aviação 7)",
+   "assunto": "Pedido de reconsideração do ofício que negou a retificação da Decisão SUPAS 3051/2024 (27/12/2024) para incluir, sub judice, o mercado Teresina/PI–Barão do Grajaú/MA (linha Timon/MA–Mansidão/BA, conforme legenda)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade — recurso provido",
+   "resumo_voto": "Mesmo objeto e fundamentos do item 1.2.3; Lucas Asfor releu integralmente as razões por respeito ao rito, conhecendo o recurso e dando provimento para incluir o mercado sub judice.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, conhece e dá provimento",
+     "ts": "0:28:30",
+     "justificativa": "mesmos fundamentos do 1.2.3",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:34:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator; proclama unanimidade",
+     "ts": "0:34:11",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.5",
+   "ts": "0:34:30",
+   "processo": "50500.17831/2025-14 (parcial)",
+   "interessado": "Superintendência de Concessões de Infraestrutura (SUCON)",
+   "assunto": "Relatório final da audiência pública 2/2025 sobre minutas de edital e contrato, PER e EVTEA da concessão da BR-324 e BR-116 na Bahia («Rota 2 de Julho», 163 km), e submissão do plano de outorga ao Ministério dos Transportes",
+   "tema": [
+    "concessões rodoviárias",
+    "participação social",
+    "pedágio free flow",
+    "leilão / otimização"
+   ],
+   "relator": "Lucas Asfor",
+   "resultado": "aprovado por unanimidade — com ajustes incorporados (declaração de voto de Felipe Queiroz)",
+   "resumo_voto": "Sessões em Salvador, Feira de Santana, Vitória da Conquista (05, 06 e 08/05/2025) e Brasília (20/05/2025); 52 contribuições (a legenda também cita outros números). Melhorias: passarelas, acessos, retornos, interseções, marginais, drenagem, passagem de fauna, iluminação, ajuste de cronograma com três frentes de obra; adequação à quinta etapa de concessões (nova matriz de risco, regramento de penalidades e desconto de reequilíbrio) e plano de 100 dias. Ponto de atenção: risco de evasão e inadimplência do free flow; recomenda que a SUROD acompanhe sistematicamente os indicadores e avalie ajustes com a diretoria. Procuradoria opinou favoravelmente com recomendações acolhidas ou justificadas pela SUCON.",
+   "votos": [
+    {
+     "diretor": "Lucas Asfor",
+     "voto": "relator, aprova o relatório final",
+     "ts": "0:35:00",
+     "justificativa": "contribuições aprimoraram substancialmente o projeto; cautela com inadimplência do free flow em região insatisfeita com a concessão anterior",
+     "confianca": "técnico"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha, com declaração de voto (art. 105, XII, do RI): ajustar o projeto à quinta etapa de concessões rodoviárias antes do envio ao Ministério/TCU",
+     "ts": "0:40:22",
+     "justificativa": "preservar coerência regulatória e segurança jurídica; mudanças só pontuais e incrementais (ex.: plano de 100 dias, já praticado na Rota dos Cristais); aprimoramentos maiores devem ir para uma sexta etapa, precedida de agenda regulatória, AIR e participação social; considerar o impacto na fiscalização (cerca de 41 contratos previstos)",
+     "confianca": "analítico, institucional"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha; concorda com os ajustes concomitantes ao envio ao TCU para não perder a janela de celeridade; proclama unanimidade",
+     "ts": "0:51:47",
+     "justificativa": "projeto prioritário para o Nordeste após a saída da concessionária anterior; trabalho coordenado com Ministério dos Transportes, PPI e TCU",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "1.1.1 — retirado de pauta (objeto não identificado na legenda)",
+   "relator": "Felipe Queiroz",
+   "motivo": "não informado",
+   "ts": "0:07:31"
+  },
+  {
+   "item": "1.1.2 — retirado de pauta (objeto não identificado na legenda)",
+   "relator": "Felipe Queiroz",
+   "motivo": "não informado",
+   "ts": "0:07:31"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo truncados (1.1.3, 1.2.1 a 1.2.5) e nomes distorcidos (Viação 7/Aviação 7, SUFIS/SUFIS).",
+  "O objeto dos itens 1.1.1 e 1.1.2 não consta da transcrição.",
+  "Mercados e linhas dos itens 1.2.3 e 1.2.4 (Timon, Campo Alegre de Lurdes, Mansidão) vêm da legenda e podem estar imprecisos.",
+  "No item 1.2.5, o número de contribuições (52) e as datas das audiências vêm da legenda; a fala de Felipe Queiroz foi interrompida e repetida.",
+  "Nos itens 1.1.3, 1.2.3 e 1.2.4, ts de votos dos diretores sem fala própria são aproximados."
+ ]
+}
