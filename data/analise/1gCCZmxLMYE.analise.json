@@ -1,0 +1,59 @@
+{
+  "meta": {"video_id": "1gCCZmxLMYE", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1017", "data": "2025-09-26", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Alex Azevedo", "José Aires Amaral Filho"],
+    "ausentes": ["Lucas Asfor (férias)"],
+    "observacoes": ["3 itens deliberados, todos por unanimidade; Felipe Queiroz retirou de pauta os itens 1.1.1 e 1.1.2 (Concessionária do Sistema Rodoviário Rio–São Paulo, CCR RioSP, BR-116/SP Dutra).", "Encerrada às 9h40 de 26/09/2025 (sessão de ≈ 23 min); o item final é numerado 1.1.5 na fala."]
+  },
+  "itens": [
+    {
+      "id": "1.1.3", "ts": "0:02:51",
+      "processo": "50500.319816/2023-46", "interessado": "Concessionária Elovias S.A.",
+      "assunto": "Emissão do ato de outorga referente ao leilão da concessão da BR-040/495 (MG/RJ), Edital 1/2025 (Rota Imperial), com autorização para assinatura do contrato",
+      "tema": ["concessões rodoviárias", "leilão / otimização"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Leilão em 30/04/2025 na B3 teve como vencedor o consórcio Nova Estrada Real (desconto de 14%); resultado homologado pela Deliberação 198 (18/06/2025); SPE Elovias constituída em 04/07/2025; a comissão de outorga atestou o cumprimento das condições prévias (Nota Informativa 970/2025). Emite o ato de outorga e autoriza a assinatura do contrato.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, emite o ato de outorga e autoriza a assinatura do contrato", "ts": "0:03:20", "justificativa": "todos os requisitos editalícios cumpridos, confirmados pela comissão de outorga", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "0:09:07", "confianca": "alta"},
+        {"diretor": "José Aires Amaral Filho", "voto": "acompanha o relator", "ts": "0:09:13", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator; proclama unanimidade", "ts": "0:09:16", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.1.4", "ts": "0:09:21",
+      "processo": "50500.166223/2024", "interessado": "Amazônia Interturismo Ltda.",
+      "assunto": "Processo administrativo ordinário para apurar infrações à legislação de transporte rodoviário de passageiros",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — advertência",
+      "resumo_voto": "Entre 11/04/2024 e 13/04/2025: 584 fiscalizações e 345 autos de infração; IQT inicial 3,60 (ruim) subiu para 6,98 (bom) após ações da agência; aplicada a sanção de advertência como medida menos gravosa e pedagógica, considerando a melhora.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aplica advertência", "ts": "0:09:40", "justificativa": "enforcement regulatório não é fim em si mesmo; melhora do IQT mostra efeito pedagógico e custo regulatório adequado", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "0:13:52", "confianca": "alta"},
+        {"diretor": "José Aires Amaral Filho", "voto": "acompanha o relator", "ts": "0:14:01", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator; proclama unanimidade", "ts": "0:14:05", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.1.5", "ts": "0:14:10",
+      "processo": "50500.168305/2024-31", "interessado": "Candango Transporte e Turismo Ltda.",
+      "assunto": "Processo administrativo ordinário para apurar infrações à legislação de transporte rodoviário de passageiros",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — advertência com acompanhamento de 180 dias",
+      "resumo_voto": "Fiscalizações subiram de 230 (2023, 65 autuações, 28,26%) para 334 (2024, 166 autuações, 49,7%), com infrações sobretudo de acessibilidade, equipamentos obrigatórios e supressão de viagens; IQT 5,75 (regular). Advertência para evitar desassistir usuários; a SUFIS deve acompanhar a empresa e apresentar relatório da frota e condições operacionais em 180 dias, podendo a diretoria agravar a sanção se não houver melhora.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aplica advertência e determina acompanhamento de 180 dias pela SUFIS", "ts": "0:14:37", "justificativa": "medida proporcional que mantém o serviço e testa a melhora; coerência com o voto anterior", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "0:21:39", "confianca": "alta"},
+        {"diretor": "José Aires Amaral Filho", "voto": "acompanha o relator; reforça o acompanhamento pela fiscalização", "ts": "0:21:42", "justificativa": "defeito em equipamento obrigatório exige acompanhamento próximo pela segurança do usuário; se não corrigido, nova gradação da sanção", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator; proclama unanimidade", "ts": "0:22:39", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"item": "1.1.1 — 15º termo aditivo ao contrato de concessão (Edital 3/2021) da Concessionária do Sistema Rodoviário Rio–São Paulo, alterando o Anexo 14 do PER (regras do free flow no trecho metropolitano)", "relator": "Felipe Queiroz", "motivo": "retirado pelo relator, sem motivo declarado", "ts": "0:01:37"},
+    {"item": "1.1.2 — autorização para início da cobrança de pedágio em free flow na BR-116/SP (Contrato 3/2021, CCR RioSP)", "relator": "Felipe Queiroz", "motivo": "retirado pelo relator, sem motivo declarado", "ts": "0:01:37"}
+  ],
+  "limites_da_analise": ["Legenda automática: o item final é chamado 1.1.5 mas sequência 1.1.3/1.1.4 sugere erro de numeração; números de processo parciais.", "Atribuição das falas de voto entre Alex Azevedo e José Aires Amaral Filho no item 1.1.3 inferida pela ordem de votação.", "Ts dos votos de seguidores aproximados."]
+}

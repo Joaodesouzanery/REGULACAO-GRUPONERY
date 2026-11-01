@@ -1,0 +1,58 @@
+{
+  "meta": {"video_id": "RYsj2wuUOxE", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1008", "data": "2025-05-22", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Parte pública com 1 item da pauta e 1 extrapauta; os dois processos sigilosos (MRS Logística e Autopista Régis Bittencourt) foram julgados na parte reservada, fora da transmissão.", "Encerrada a parte pública às 10h50 (legenda)."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:02:50",
+      "processo": "50500.126007/2022-73", "interessado": "Autopista Litoral Sul S.A.",
+      "assunto": "Procedimento de negociação e solução de controvérsias (IN conjunta 1/2023) sobre parâmetros técnicos de custo das obras dos túneis 1, 2 e 3 do Contorno de Florianópolis (ciclos de escavação e mão de obra especializada)",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "solução consensual / autocomposição"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprova o termo de consenso (art. 28 da IN conjunta 1/2023) do Procedimento 4/2024: após oito reuniões da comissão de negociação, contratação da FGV para análise técnica independente, com custos integralmente antecipados e suportados pela concessionária (afastado o compartilhamento inicial). A aprovação não encerra o procedimento: seguem análise do especialista, pleito da concessionária, análise da superintendência e deliberação final da diretoria.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova o termo de consenso", "ts": "0:03:40", "justificativa": "solução juridicamente válida e no interesse público; consensualismo traz caminho mais célere; evita morosidade; custo da FGV não onera o usuário", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:10:40", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator; proclama unanimidade", "ts": "0:10:46", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "extrapauta", "ts": "0:11:00",
+      "processo": "50500.012776/2020", "interessado": "Rotas de Viação do Triângulo Ltda.",
+      "assunto": "Cumprimento de decisão judicial (mandado de segurança, 8ª Vara Federal do DF): autorização, sub judice, para operar a linha Cuiabá (MT) – São Paulo (SP)",
+      "tema": ["ônibus (transporte regular, TAR)", "judicializacao"],
+      "relator": "Felipe Queiroz (relatoria original; voto-vista de Guilherme Sampaio)", "resultado": "aprovado por unanimidade — cumprimento da decisão judicial (sub judice)",
+      "resumo_voto": "Guilherme Sampaio, que pedira vista dos autos na reunião anterior (legenda cita reunião 228, possivelmente deliberação eletrônica), concluiu que o relator analisou em detalhe a nota técnica e acompanha o voto para cumprir a decisão judicial, que deferiu a autorização da empresa para operar a linha, condicionada e sub judice. Incluído extrapauta com anuência dos demais diretores por causa do prazo judicial.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "voto-vista: acompanha o relator (cumpre a decisão judicial)", "ts": "0:12:50", "justificativa": "cumprimento de ordem judicial com prazo; análise do relator considerada adequada", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova", "ts": "0:13:28", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:13:34", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.1.2", "ts": "0:01:13",
+      "processo": "50500.167441/2024-11", "interessado": "MRS Logística S.A.",
+      "assunto": "Deliberação acerca do termo de autocomposição no âmbito da solução consensual (processo sigiloso, julgado na parte reservada)",
+      "tema": ["ferrovias", "solução consensual / autocomposição"],
+      "relator": "Felipe Queiroz", "resultado": "não apreciado na parte pública (sigiloso)",
+      "resumo_voto": "Julgamento ao final da transmissão, com participação restrita à parte e seu procurador; conteúdo indisponível.",
+      "votos": []
+    },
+    {
+      "id": "1.2.x", "ts": "0:01:13",
+      "processo": "50500.016036/2024-89", "interessado": "Autopista Régis Bittencourt S.A.",
+      "assunto": "Deliberação acerca do termo de autocomposição no âmbito da solução consensual (processo sigiloso, julgado na parte reservada)",
+      "tema": ["concessões rodoviárias", "solução consensual / autocomposição"],
+      "relator": "Lucas Asfor", "resultado": "não apreciado na parte pública (sigiloso)",
+      "resumo_voto": "Julgamento ao final da transmissão, com participação restrita; conteúdo indisponível.",
+      "votos": []
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática: números de processo parciais e nomes distorcidos (Autopista 'Rispa'/'Régis Bittencourt' e 'AOPISA' inferidos).", "Na extrapauta, o nome do diretor que pediu vista e a ordem dos votos são inferidos do contexto (a fala é do Diretor-Geral presidindo); o ts do voto é aproximado.", "Itens sigilosos sem conteúdo disponível; o id do segundo sigiloso é desconhecido."]
+}

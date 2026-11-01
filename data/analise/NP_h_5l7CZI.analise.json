@@ -1,0 +1,98 @@
+{
+  "meta": {"video_id": "NP_h_5l7CZI", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (aproximado, por trecho de legenda)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1002", "data": "2025-02-26", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral em exercício)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor"],
+    "ausentes": [],
+    "observacoes": ["Primeira reunião de diretoria conduzida por Guilherme Sampaio como Diretor-Geral, sucedendo Rafael Vitale; boas-vindas à nova secretária-geral Lilian Morais.", "Colegiado de três diretores; todos os 6 itens deliberados por unanimidade.", "Dois processos extrapauta de relatoria de Felipe Queiroz (Guerino Seiscento e reajuste tarifário da BR-040 Via Cristais) foram incluídos por relevância e urgência.", "Leitura de voto dispensada (art. 68 §5º do Regimento Interno) nos itens 1.1.1, 1.1.2 e 1.2.1.", "Procurador-Geral Milton Gomes e Ouvidor Robson Crepalde presentes; houve queda de conexão do Diretor-Geral durante a leitura do primeiro voto."]
+  },
+  "itens": [
+    {
+      "id": "sem número (alteração de estrutura organizacional)", "ts": "0:06:38",
+      "processo": "50500.020646/2022 (número parcialmente ilegível na legenda)", "interessado": "Diretoria Colegiada",
+      "assunto": "Alteração da resolução que dispõe sobre a estrutura organizacional da ANTT (norma de 30/01/2025) e adiamento da vigência de resoluções para 05/03/2025",
+      "tema": ["institucional", "regulação normativa"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Ao lançar a nova estrutura no SIORG verificou-se saldo financeiro negativo, porque a Medida Provisória que reajustou os cargos comissionados elevou o custo e reduziu o limite autorizado; propõe-se reduzir cargos comissionados no gabinete da Diretoria-Geral (assistente técnico e técnico de processo administrativo) para não afetar as áreas finalísticas, e deslocar a vigência das resoluções de 03/03 para 05/03/2025 por causa do carnaval (sem publicação no DOU em 3 e 4/03).",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova", "ts": "0:07:30", "justificativa": "adequar a estrutura ao limite financeiro e garantir publicidade e eficácia normativa", "confianca": "media"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "0:11:05", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:11:10", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:11:44",
+      "processo": "50500.3694/2019-89 (número aproximado, legenda confusa)", "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio (CONCER)",
+      "assunto": "Recurso à Diretoria contra a Decisão 640/2023 da CPROD, de 24/08/2023",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — recurso conhecido e improvido",
+      "resumo_voto": "Matéria corriqueira; voto lido de forma dispensada; relator conhece o recurso e, no mérito, nega provimento (mantém a decisão recorrida).",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, conhece e nega provimento", "ts": "0:12:30", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:13:24", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:13:24", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "extrapauta 1", "ts": "0:13:47",
+      "processo": "50500.079390/2021-11", "interessado": "Guerino Seiscento Transportes S.A.",
+      "assunto": "Pedido de autorização para operar a linha Campo Grande (MS) - Santos (SP), mercado novo, em cumprimento de decisão judicial",
+      "tema": ["ônibus (transporte regular, TAR)", "judicializacao"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade — deferido na condição sub judice",
+      "resumo_voto": "A empresa obteve decisão judicial para que o pleito fosse concluído em até 30 dias; a SUPAS atestou o cumprimento dos requisitos; voto por cumprir a decisão e deferir a autorização, com as seções indicadas no anexo da deliberação, sob condição sub judice.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, defere (sub judice)", "ts": "0:14:20", "justificativa": "requisitos cumpridos conforme SUPAS; cumprimento de decisão judicial", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:15:29", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:15:30", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "extrapauta 2", "ts": "0:16:04",
+      "processo": "50500.003381/2025-32 (número aproximado)", "interessado": "Concessionária da Rodovia Belo Horizonte-Cristalina S.A. (Via Cristais)",
+      "assunto": "Autorização de início da cobrança de pedágio nas praças P1 a P7 da BR-040 (GO/MG) e reajuste da tarifa básica de pedágio",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "leilão / otimização"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Contrato do Edital 02/2024 (leilão em 26/09/2024 na B3; resultado homologado pela Deliberação 422 de 31/10/2024); concluída a vistoria conjunta (DNIT, concessionária, ANTT) e o termo de vistoria pela comissão de trabalhos iniciais; aplicado reajuste pelo IPCA entre a data-base (julho/2023) e o início da cobrança (março/2025), da ordem de 6,7% (valor exato incerto na legenda); autoriza cobrança nas praças P1 a P7 com tarifas reajustadas e arredondadas, a iniciar em 10 dias do ato (cláusula 45.6 do contrato); Ministério da Fazenda comunicado com 15 dias de antecedência.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, autoriza início da cobrança", "ts": "0:21:30", "justificativa": "cumprimento dos requisitos editalícios e contratuais; destaque ao trabalho da SUROD (inclusive em fim de semana) para cumprir prazos", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator, voto bem embasado", "ts": "0:21:51", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:22:04", "justificativa": "reconhece o esforço de Felipe Queiroz para trazer o processo extrapauta e a importância de cumprir ritos contratuais para não ficar em mora; cita o leilão do dia seguinte (Rota Agro Norte, CN5)", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.1", "ts": "0:24:25",
+      "processo": "50500.118808/2013-11", "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio (CONCER)",
+      "assunto": "Recurso contra a Decisão 1101/2022 CSUROD (07/11/2022): multa por inexecução de investimentos de 2019 em obras de arte especiais (trecho Missões, km 124,5 da BR-040/RJ)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — recurso conhecido e improvido",
+      "resumo_voto": "Processo administrativo simplificado; ausência de fatos e argumentos novos aptos a reformar a decisão recorrida; conhece e nega provimento.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, conhece e nega provimento", "ts": "0:25:30", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "0:26:45", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "voto com o relator", "ts": "0:26:50", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.1.2", "ts": "0:27:19",
+      "processo": "50500.0033 18/2022-53 (número aproximado)", "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio (CONCER)",
+      "assunto": "Recurso contra a Decisão 312/2023 CPROD/SUROD (16/05/2023): multa por descumprimento do cronograma de manutenção do pavimento flexível",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade — recurso parcialmente provido",
+      "resumo_voto": "Em razão da ausência de reincidência, afasta-se o agravante e reduz-se o valor da multa; conhece e dá parcial provimento.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, dá parcial provimento", "ts": "0:27:40", "justificativa": "ausência de reincidência", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "voto com o relator", "ts": "0:28:10", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "voto com o relator", "ts": "0:28:12", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Legenda automática com muitos erros (nomes, números de processo e de resoluções); números de processo marcados como aproximados devem ser conferidos.",
+    "Percentual exato do reajuste da tarifa da Via Cristais ilegível (6,70% ou 6,78%): não afirmado.",
+    "Quantidades de cargos comissionados reduzidas no gabinete da Diretoria-Geral e número exato da resolução alterada não confirmados.",
+    "ts de votos dos seguidores são aproximados (início do trecho de legenda).",
+    "Horário de encerramento citado na legenda é inconsistente; não registrado."
+  ]
+}

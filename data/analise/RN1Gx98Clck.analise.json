@@ -1,0 +1,27 @@
+{
+  "meta": {"video_id": "RN1Gx98Clck", "fonte": "legenda automática do YouTube; falantes inferidos; transcrição começa já no meio da leitura do voto (sem ementa)", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "90 (extraordinária)", "data": "2025-03-07", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral) — inferido",
+    "diretores_presentes": ["Felipe Queiroz", "Lucas Asfor", "Guilherme Sampaio"],
+    "ausentes": [],
+    "observacoes": ["Trecho curto (≈ 4 min) e sem a abertura; item único, aprovado por unanimidade.", "Encerrada às 8h13 de 07/03/2025."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:00",
+      "processo": null, "interessado": "Concessionária Way-262 (BR-262/MG, Rota do Zebu)",
+      "assunto": "Autorização do início da cobrança de pedágio nas praças existentes (P1 Florestal, P3, P4 Campos Altos e P6 Perdizes) da BR-262/MG após a assinatura do contrato (14/02/2025), com assunção da rodovia a partir de 0h de 21/03/2025",
+      "tema": ["concessões rodoviárias"],
+      "relator": "não identificado na legenda (provavelmente o Diretor-Geral Guilherme Sampaio, que preside e lê o item)", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Termo de vistoria atesta a capacidade da concessionária para operar o sistema rodoviário (trecho entre o km 360 e o km 790, entre entroncamento com a BR-381 e Uberaba, conforme legenda); requisitos do contrato e do edital atendidos; concessionária deve divulgar tarifas, descontos e serviço de atendimento ao usuário; agradecimentos às equipes da SUINF, escritório regional de MG, Procuradoria, DNIT, Ministério dos Transportes e concessionária.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator (inferido), aprova a autorização de início da cobrança", "ts": "0:00:00", "justificativa": "termo de vistoria e pareceres técnicos atestam capacidade da concessionária; requisitos do edital cumpridos", "confianca": "baixa"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:03:07", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:03:10", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Transcrição sem a abertura e sem a ementa: número do processo e identificação do relator não constam; relator inferido.", "Legenda muito distorcida: quilometragem, nomes de praças (P3 'Luz') e demais números são incertos."]
+}
