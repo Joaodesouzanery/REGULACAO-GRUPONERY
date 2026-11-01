@@ -1,0 +1,866 @@
+{
+ "meta": {
+  "video_id": "Co3vAQ6QXVE",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores e do relator aproximados (interpolados a partir do anúncio de aprovação)",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "988",
+  "data": "2024-08-08",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Guilherme Sampaio",
+   "Luciano Lourenço",
+   "Felipe Queiroz"
+  ],
+  "ausentes": [
+   "Lucas Asfor"
+  ],
+  "observacoes": [
+   "Encerrada às 8h56 de 08/08/2024 (reunião de manhã). A gravação começa com o final da leitura do voto do código de ética (o início está truncado na transmissão).",
+   "Lucas Asfor não aparece nas saudações nem nas votações; motivo da ausência não informado na parte transcrita.",
+   "Todos os itens aprovados por unanimidade; um item retirado (1.3.2).",
+   "Aprovado o novo Código de Ética (voto relido por falha de áudio) e uma série de cassações, advertências e arquivamentos por não envio de dados do Monitriip, além de 13 recursos da CONCER negados."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1.1",
+   "ts": "0:17:30",
+   "processo": "50500.078205/2024-13 (conforme a RD 987)",
+   "interessado": "Comissão de Ética",
+   "assunto": "Novo Código de Ética e Conduta Profissional dos Agentes Públicos da ANTT, em substituição ao normativo de 2009",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova o novo código, que atualiza regras de 2009 (baseadas em proposições de 1994) para redes sociais e novas formas de trabalho, reforçando moralidade, integridade, legalidade, transparência, imparcialidade e neutralidade político-partidária; o voto foi relido por falha de áudio na transmissão.",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, aprova o novo código",
+     "ts": "0:20:39",
+     "justificativa": "normativo anterior não contempla as mudanças de trabalho e comunicação; uso inadequado de redes sociais compromete a imagem institucional",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:20:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:20:52",
+     "justificativa": "processo de extrema importância: ações da ANTT devem ser pautadas pela ética",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "de acordo com o relator",
+     "ts": "0:20:56",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.1",
+   "ts": "0:21:20",
+   "processo": "50500.120552/2013-111 (parcial)",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (CONCER)",
+   "assunto": "Recurso voluntário da CONCER contra a decisão 455/2022 da SUROD que manteve multa por descumprimento do cronograma físico das obras (quadros 9A e 9B da proposta de tarifa); multa ≈540 URT",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece do recurso e nega provimento: recursos não trazem elemento capaz de alterar as decisões anteriores. Afasta prescrição intercorrente, tese de conduta diversa por desequilíbrio econômico-financeiro, força maior e desproporcionalidade da multa; entende que a unificação de execuções em grupos de obras e a dosimetria da SUROD são adequadas.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:26:36",
+     "justificativa": "ausência de fato novo; fundamentos adotados das manifestações técnicas e jurídicas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:26:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:26:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "sigo o relator nos três processos",
+     "ts": "0:26:53",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.2",
+   "ts": "0:21:20",
+   "processo": "50500.187547/2013-71 (parcial)",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (CONCER)",
+   "assunto": "Recurso voluntário da CONCER contra a decisão 825/2022 da SUROD que manteve multa por inexecução do cronograma de 2011 (contenção no km 38,8); multa ≈793 URT",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece do recurso e nega provimento: recursos não trazem elemento capaz de alterar as decisões anteriores. Afasta prescrição intercorrente, tese de conduta diversa por desequilíbrio econômico-financeiro, força maior e desproporcionalidade da multa; entende que a unificação de execuções em grupos de obras e a dosimetria da SUROD são adequadas.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:26:36",
+     "justificativa": "ausência de fato novo; fundamentos adotados das manifestações técnicas e jurídicas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:26:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:26:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "sigo o relator nos três processos",
+     "ts": "0:26:53",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.3",
+   "ts": "0:21:20",
+   "processo": "50505.008910/2017-84 (parcial)",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (CONCER)",
+   "assunto": "Recurso voluntário da CONCER contra a decisão 393/2021 da SUROD que manteve multa por manter pavimento com placas quebradas (art. 6º, VII da Res. 4.071/2013); multa ≈62,9 URT",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece do recurso e nega provimento: recursos não trazem elemento capaz de alterar as decisões anteriores. Afasta prescrição intercorrente, tese de conduta diversa por desequilíbrio econômico-financeiro, força maior e desproporcionalidade da multa; entende que a unificação de execuções em grupos de obras e a dosimetria da SUROD são adequadas.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:26:36",
+     "justificativa": "ausência de fato novo; fundamentos adotados das manifestações técnicas e jurídicas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:26:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:26:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "sigo o relator nos três processos",
+     "ts": "0:26:53",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.4",
+   "ts": "0:27:08",
+   "processo": "50500.367333/2023-58",
+   "interessado": "Edson S. Santos Ltda",
+   "assunto": "Processo administrativo ordinário por não envio de dados do Monitriip (Portaria SUFIS 88/2023); cassação da outorga da linha Bahia – Santos (SP)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aplica cassação: empresa deixou de enviar dados do Monitriip em jan.-jul. de 2023 (art. 47 da Res. 4.770/2015); infração grave; art. 78-A, H da Lei 10.233/2001.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aplica cassação",
+     "ts": "0:28:55",
+     "justificativa": "infração grave a requisito de operação de mercados",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:29:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:29:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:29:12",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.5",
+   "ts": "0:29:19",
+   "processo": "50500.3648?/2023 (parcial)",
+   "interessado": "Transbrasiliana Transporte e Turismo Ltda (em recuperação judicial)",
+   "assunto": "Processo administrativo ordinário por não envio de dados do Monitriip (Portaria SUFIS 87/2023); cassação da linha Belém (PA) – Brasília (DF)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aplica cassação: 19.209 viagens previstas sem envio de dados entre jan. e jul. de 2023; infração grave.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aplica cassação",
+     "ts": "0:30:57",
+     "justificativa": "mesma violação do caso anterior",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:31:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:31:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:31:14",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.1",
+   "ts": "0:31:25",
+   "processo": "50500.367338/2023-81",
+   "interessado": "Colitur Transportes Rodoviários Ltda",
+   "assunto": "Processo administrativo ordinário por não envio de dados do Monitriip de jan. a jul. de 2023",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aplica advertência: embora tenha cometido infração grave, a empresa regularizou o envio após a cautelar, contratando outro prestador habilitado, o que atenua a pena (art. 67, §1º, III do anexo da Res. 5.083/2016); parabeniza a SUFIS pelas cautelares que depuram o mercado.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, aplica advertência",
+     "ts": "0:36:32",
+     "justificativa": "regularização da conduta; proporcionalidade",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:36:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:36:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:36:49",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.3",
+   "ts": "0:37:09",
+   "processo": "50505.323356/2019-2 (parcial)",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (CONCER)",
+   "assunto": "Recurso voluntário da CONCER contra a decisão 323/2021 da SUROD que manteve multa por inexecuções contratuais entre 2008 e 2019, descumprimento do PER e falta de informações solicitadas pela ANTT (contrato PG-138/95; Res. 4.071/2013)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece do recurso e nega provimento: recursos não trazem elemento capaz de alterar as decisões anteriores.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:41:30",
+     "justificativa": "ausência de fato novo; fundamentos adotados das manifestações técnicas e jurídicas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha na íntegra o relator",
+     "ts": "0:41:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:41:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator em todos os processos",
+     "ts": "0:41:47",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.4",
+   "ts": "0:37:09",
+   "processo": "50500.1020567/2016-1 (parcial)",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (CONCER)",
+   "assunto": "Recurso voluntário da CONCER contra a decisão 459/2022 da SUROD que manteve multa por inexecuções contratuais entre 2008 e 2019, descumprimento do PER e falta de informações solicitadas pela ANTT (contrato PG-138/95; Res. 4.071/2013)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece do recurso e nega provimento: recursos não trazem elemento capaz de alterar as decisões anteriores.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:41:30",
+     "justificativa": "ausência de fato novo; fundamentos adotados das manifestações técnicas e jurídicas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha na íntegra o relator",
+     "ts": "0:41:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:41:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator em todos os processos",
+     "ts": "0:41:47",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.5",
+   "ts": "0:37:09",
+   "processo": "50505.10780/2020-44 (parcial)",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (CONCER)",
+   "assunto": "Recurso voluntário da CONCER contra a decisão 568/2023 da SUROD que manteve multa por inexecuções contratuais entre 2008 e 2019, descumprimento do PER e falta de informações solicitadas pela ANTT (contrato PG-138/95; Res. 4.071/2013)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece do recurso e nega provimento: recursos não trazem elemento capaz de alterar as decisões anteriores.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:41:30",
+     "justificativa": "ausência de fato novo; fundamentos adotados das manifestações técnicas e jurídicas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha na íntegra o relator",
+     "ts": "0:41:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:41:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator em todos os processos",
+     "ts": "0:41:47",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.6",
+   "ts": "0:37:09",
+   "processo": "50500.041041/2017 (parcial)",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (CONCER)",
+   "assunto": "Recurso voluntário da CONCER contra a decisão 715/2022 da SUROD que manteve multa por inexecuções contratuais entre 2008 e 2019, descumprimento do PER e falta de informações solicitadas pela ANTT (contrato PG-138/95; Res. 4.071/2013)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece do recurso e nega provimento: recursos não trazem elemento capaz de alterar as decisões anteriores.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:41:30",
+     "justificativa": "ausência de fato novo; fundamentos adotados das manifestações técnicas e jurídicas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha na íntegra o relator",
+     "ts": "0:41:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:41:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator em todos os processos",
+     "ts": "0:41:47",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.7",
+   "ts": "0:37:09",
+   "processo": "50505.040371/2015-9",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (CONCER)",
+   "assunto": "Recurso voluntário da CONCER contra a decisão 476/2022 da SUROD que manteve multa por inexecuções contratuais entre 2008 e 2019, descumprimento do PER e falta de informações solicitadas pela ANTT (contrato PG-138/95; Res. 4.071/2013)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece do recurso e nega provimento: recursos não trazem elemento capaz de alterar as decisões anteriores.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:41:30",
+     "justificativa": "ausência de fato novo; fundamentos adotados das manifestações técnicas e jurídicas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha na íntegra o relator",
+     "ts": "0:41:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:41:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator em todos os processos",
+     "ts": "0:41:47",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.8",
+   "ts": "0:37:09",
+   "processo": "50500.187575/2013-98",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (CONCER)",
+   "assunto": "Recurso voluntário da CONCER contra a decisão 831/2022 da SUROD que manteve multa por inexecuções contratuais entre 2008 e 2019, descumprimento do PER e falta de informações solicitadas pela ANTT (contrato PG-138/95; Res. 4.071/2013)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece do recurso e nega provimento: recursos não trazem elemento capaz de alterar as decisões anteriores.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:41:30",
+     "justificativa": "ausência de fato novo; fundamentos adotados das manifestações técnicas e jurídicas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha na íntegra o relator",
+     "ts": "0:41:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:41:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator em todos os processos",
+     "ts": "0:41:47",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.9",
+   "ts": "0:37:09",
+   "processo": "50500.12545/2013-188 (parcial)",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (CONCER)",
+   "assunto": "Recurso voluntário da CONCER contra a decisão 451/2022 da SUROD que manteve multa por inexecuções contratuais entre 2008 e 2019, descumprimento do PER e falta de informações solicitadas pela ANTT (contrato PG-138/95; Res. 4.071/2013)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece do recurso e nega provimento: recursos não trazem elemento capaz de alterar as decisões anteriores.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:41:30",
+     "justificativa": "ausência de fato novo; fundamentos adotados das manifestações técnicas e jurídicas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha na íntegra o relator",
+     "ts": "0:41:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:41:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator em todos os processos",
+     "ts": "0:41:47",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.10",
+   "ts": "0:37:09",
+   "processo": "50500.111881/2015-9 (parcial)",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (CONCER)",
+   "assunto": "Recurso voluntário da CONCER contra a decisão 281/2022 da SUROD que manteve multa por inexecuções contratuais entre 2008 e 2019, descumprimento do PER e falta de informações solicitadas pela ANTT (contrato PG-138/95; Res. 4.071/2013)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece do recurso e nega provimento: recursos não trazem elemento capaz de alterar as decisões anteriores.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:41:30",
+     "justificativa": "ausência de fato novo; fundamentos adotados das manifestações técnicas e jurídicas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha na íntegra o relator",
+     "ts": "0:41:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:41:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator em todos os processos",
+     "ts": "0:41:47",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.11",
+   "ts": "0:37:09",
+   "processo": "50500.11843/2013-2 (parcial)",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (CONCER)",
+   "assunto": "Recurso voluntário da CONCER contra a decisão 811/2022 da SUROD que manteve multa por inexecuções contratuais entre 2008 e 2019, descumprimento do PER e falta de informações solicitadas pela ANTT (contrato PG-138/95; Res. 4.071/2013)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece do recurso e nega provimento: recursos não trazem elemento capaz de alterar as decisões anteriores.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:41:30",
+     "justificativa": "ausência de fato novo; fundamentos adotados das manifestações técnicas e jurídicas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha na íntegra o relator",
+     "ts": "0:41:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:41:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator em todos os processos",
+     "ts": "0:41:47",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.12",
+   "ts": "0:37:09",
+   "processo": "50500.371342/2016-7 (parcial)",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (CONCER)",
+   "assunto": "Recurso voluntário da CONCER contra a decisão 258/2022 da SUROD que manteve multa por inexecuções contratuais entre 2008 e 2019, descumprimento do PER e falta de informações solicitadas pela ANTT (contrato PG-138/95; Res. 4.071/2013)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece do recurso e nega provimento: recursos não trazem elemento capaz de alterar as decisões anteriores.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:41:30",
+     "justificativa": "ausência de fato novo; fundamentos adotados das manifestações técnicas e jurídicas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha na íntegra o relator",
+     "ts": "0:41:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:41:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator em todos os processos",
+     "ts": "0:41:47",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.13",
+   "ts": "0:42:02",
+   "processo": "50500.364981/2023-52",
+   "interessado": "Transportes Rainha Nordeste Ltda",
+   "assunto": "Processo administrativo ordinário por não envio de dados do Monitriip",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "arquivamento aprovado por unanimidade",
+   "resumo_voto": "Arquiva o processo: não se comprova que a empresa tenha operado serviço interestadual em 2023 (TAR sem validade na época; decisão judicial que permitia operar perdeu eficácia desde 2016), logo não há como imputar o descumprimento do Monitriip.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, arquivamento",
+     "ts": "0:45:06",
+     "justificativa": "impossibilidade de comprovar autoria: empresa paralisada e sem autorização válida para operar no período",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:45:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "acompanha o relator",
+     "ts": "0:45:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:45:23",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.4.1",
+   "ts": "0:45:31",
+   "processo": "50500.364966/2023-1x (parcial)",
+   "interessado": "Autoviação Porto Rico Ltda",
+   "assunto": "Processo administrativo ordinário por inobservância do Monitriip (Portaria SUFIS 66/2023; medida cautelar Portaria SUFIS 52/2023)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aplica advertência, com base no art. 78-A da Lei 10.233/2001, em nome da razoabilidade e da didática regulatória; reforça a importância do Monitriip (Res. 4.499/2014, arts. 12 e 19; Res. 4.770/2015) e endossa a fala de Luciano Lourenço.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, aplica advertência",
+     "ts": "0:49:48",
+     "justificativa": "razoabilidade e didática da regulação, para promover convergência das empresas ao Monitriip",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:49:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:50:01",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:50:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.4.2",
+   "ts": "0:50:12",
+   "processo": "50500.387153/2017-44",
+   "interessado": "FDS Logística e Terceirização EIRELI",
+   "assunto": "Pedido de reconsideração contra sanções administrativas da Deliberação 48, de 22/02/2024 (pregão eletrônico 17/2017: impedimento de licitar e contratar com a União por 4 meses e multa de 10%)",
+   "tema": [
+    "institucional",
+    "fiscalização e sanções"
+   ],
+   "relator": "Felipe Queiroz",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece (ainda que intempestivo) e nega provimento ao pedido, mantendo a Deliberação 48/2024: a empresa não encaminhou proposta atualizada e documentos de habilitação no prazo; área técnica não encontrou elementos novos.",
+   "votos": [
+    {
+     "diretor": "Felipe Queiroz",
+     "voto": "relator, nega provimento ao recurso",
+     "ts": "0:52:51",
+     "justificativa": "sem elementos novos além dos já avaliados",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:53:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:53:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:53:08",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "1.3.2 — processo de relatoria de Luciano Lourenço",
+   "relator": "Luciano Lourenço",
+   "motivo": "retirado de pauta pelo relator, anunciado no início da reunião (motivo não detalhado)",
+   "ts": "0:36:55"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo e valores de multa parciais ou distorcidos (marcados como parcial).",
+  "Transcrição começa em 0:17:30, no meio do voto de Rafael Vitale sobre o código de ética; a abertura da sessão não está disponível.",
+  "Nos blocos de recursos CONCER a ligação processo-decisão-infração segue a ordem de leitura; as multas de 1.2.1 a 1.2.3 (≈540, ≈793 e ≈62,9 URT) são aproximadas.",
+  "A origem de 1.2.4 («Edson S. Santos») e o prefixo da linha estão distorcidos.",
+  "No 1.3.13 o prazo de validade do TAR da empresa («5/08/29») é impreciso na legenda; não utilizado.",
+  "ts de votos de seguidores e do relator interpolados."
+ ]
+}
