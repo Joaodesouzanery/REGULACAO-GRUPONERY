@@ -1,0 +1,243 @@
+{
+ "meta": {
+  "video_id": "D4UlNAV41VU",
+  "fonte": "legenda automática do YouTube; falantes inferidos (a atribuição automática de falantes é pouco confiável); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "939",
+  "data": "2022-09-01",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Guilherme Sampaio (conduziu a sessão na ausência do Diretor-Geral)",
+  "diretores_presentes": [
+   "Guilherme Sampaio",
+   "Luciano Lourenço",
+   "Cristiano Della Giustina (diretor substituto)"
+  ],
+  "ausentes": [
+   "Rafael Vitale (Diretor-Geral, em férias)",
+   "Davi Barreto"
+  ],
+  "observacoes": [
+   "Sessão curta (≈ 27 min), encerrada às 15h34 de 01/09/2022.",
+   "Dois itens retirados de pauta (Andorinha e Expresso Adamantina/Viação São Luiz) e três deliberados, todos por unanimidade; os itens ferroviários 2.2.2 e 2.2.3 foram deliberados em bloco (art. 68 §2º do Regimento Interno)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:01:04",
+   "processo": "—",
+   "interessado": "—",
+   "assunto": "Aprovação da ata da reunião 938 (leitura dispensada)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovada por unanimidade",
+   "resumo_voto": "Ata distribuída com 48 h de antecedência; leitura dispensada.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "de acordo",
+     "ts": "0:01:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristiano Della Giustina",
+     "voto": "de acordo",
+     "ts": "0:01:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo, declara aprovada",
+     "ts": "0:01:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:01:23",
+   "processo": "50500.009145/2016-41 (conforme legenda)",
+   "interessado": "Concessionária da Rodovia Osório–Porto Alegre (Concepa)",
+   "assunto": "Recurso contra decisão que aplicou multa por não atendimento aos parâmetros de desempenho do pavimento (PER)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade — recurso conhecido, sem efeito suspensivo, desprovido, com agravamento da penalidade",
+   "resumo_voto": "Sem fatos novos que justifiquem rever a decisão; acolhe a proposta da coordenação de instrução processual e da SUROD de aplicar a Resolução ANTT 442/2004, agravando a penalidade por considerar que não há atenuante e que a concessionária tem outro processo punitivo já transitado em julgado. Nega provimento e mantém/agrava a multa nos termos da minuta de deliberação.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, nega provimento e agrava a penalidade",
+     "ts": "0:03:00",
+     "justificativa": "ausência de fatos novos; inexistência de atenuantes; reincidência (outro processo punitivo transitado)",
+     "tom": "firme",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "de acordo com o relator",
+     "ts": "0:03:25",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Cristiano Della Giustina",
+     "voto": "de acordo com a proposta do relator",
+     "ts": "0:03:35",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:03:46",
+   "processo": "50500.123742/2021-82 (conforme legenda)",
+   "interessado": "Empresa de Transporte Andorinha S.A.",
+   "assunto": "Processo administrativo ordinário para apurar infrações à legislação de transporte rodoviário de passageiros",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "Retirado por fato novo implementado pela área técnica que exige diligência.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, retira de pauta",
+     "ts": "0:04:10",
+     "justificativa": "necessidade de diligência após ponto novo da área técnica",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.1.3",
+   "ts": "0:04:24",
+   "processo": "50500.105202/2021-16 (conforme legenda)",
+   "interessado": "SUCON — concessão da BR-040/RJ-MG e BR-495/RJ",
+   "assunto": "Relatório da Audiência Pública 7/2021 (minutas de edital, contrato, PER e estudos de viabilidade da concessão da BR-040 Rio–Belo Horizonte e BR-495) e proposta de plano de outorga ao Ministério da Infraestrutura",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização",
+    "pedágio free flow",
+    "participação social",
+    "regulação normativa"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Audiência (nov/2021 a 10/01/2022) com sessões em Brasília, Belo Horizonte, Juiz de Fora e Rio; 419 protocolos válidos e 968 contribuições analisadas. Por ofício do Ministério da Infraestrutura (06/07/2022) a BR-495 foi retirada do escopo, exceto ~100 m para interconexão em Itaipava; sistema final com ~451 km (a legenda cita 482 km no escopo da audiência), 25 municípios e mais de 6,1 milhões de habitantes. Modelo baseado em concessão recente (legenda: «Valadares»); prevê cobrança free flow na região metropolitana do RJ (km 102–123), desconto para usuário frequente e metodologia de segurança viária (legenda: «airwap», provavelmente iRAP); compartilhamento de riscos de condicionantes ambientais e da nova subida da Serra de Petrópolis, considerado juridicamente viável pela Procuradoria. Aprova o relatório, determina divulgação e propõe o plano de outorga ao Ministério.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aprova relatório e propõe o plano de outorga ao Ministério",
+     "ts": "0:14:00",
+     "justificativa": "processo de participação social regular; modernização do eixo BH–Rio; free flow e desconto para usuário frequente",
+     "tom": "tom institucional",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "de acordo com o relator",
+     "ts": "0:14:10",
+     "justificativa": "parabeniza a amplitude do voto; enaltece mais um leilão e o evento da ABCR realizado no dia anterior",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Cristiano Della Giustina",
+     "voto": "de acordo com o relator",
+     "ts": "0:14:30",
+     "justificativa": "parabeniza o voto detalhado; mais uma concessão preparada para a iniciativa privada",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:14:46",
+   "processo": "50500.099610/2022 (conforme legenda)",
+   "interessado": "Expresso Adamantina Ltda. e Viação São Luiz Eireli",
+   "assunto": "Processo administrativo ordinário para apurar infrações à legislação de transporte rodoviário de passageiros",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "Após discussão com a equipe técnica, restou ponto jurídico sobre a penalidade que precisa de esclarecimento da área técnica.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, retira de pauta",
+     "ts": "0:15:20",
+     "justificativa": "ponto jurídico sobre a penalidade pendente de esclarecimento",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2 e 2.2.3",
+   "ts": "0:15:39",
+   "processo": "50500.060812/2012-65 (conforme legenda; ano possivelmente 2022)",
+   "interessado": "SUFER — autorizações ferroviárias",
+   "assunto": "Relatórios finais das Audiências Públicas 4/2022 (minuta de contrato de adesão para autorização de novas ferrovias, pátios e instalações) e 5/2022 (regulamentação do art. 25 da Lei 14.273/2021), com aprovação da minuta de resolução e do contrato de adesão; deliberados em bloco",
+   "tema": [
+    "ferrovias",
+    "regulação normativa",
+    "participação social"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Contexto: MP 1.065/2021 caducou em fev/2022 e a Lei 14.273/2021 (Lei das Ferrovias) transferiu à ANTT o processo de autorização; segundo o relator, até 01/07/2022 o Ministério recebera 76 requerimentos (19 UFs, ~19 mil km, previsão de mais de R$ 224 bilhões em investimentos), restando 52 pendentes de análise. AP 4/2022: 146 contribuições (5 orais, 141 escritas); AP 5/2022: 133 (8 orais, 125 escritas); período 04/06 a 19/07/2022 e sessão pública em 22/06. Inovações: mecanismo de solução para requerimentos que se sobrepõem à faixa de domínio de ferrovia ainda não outorgada (acordo amigável ou, sem acordo, leilão de outorga pelo maior valor); aproveitamento dos requerimentos feitos na vigência da MP; resolução em vigor na data da publicação; ANTT como parte (não interveniente) nos contratos de adesão. Aprova relatórios, resolução e minuta de contrato e autoriza a ANTT a celebrar os contratos como representante da União. Relator convida para webinar da SUFER em 05/09.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, aprova relatórios, resolução e contrato de adesão",
+     "ts": "0:25:30",
+     "justificativa": "segurança jurídica e previsibilidade para investimentos; equilíbrio da matriz de transporte",
+     "tom": "tom técnico",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:25:45",
+     "justificativa": "elogia a clareza do voto e o processo regulatório participativo da SUFER; destaca previsibilidade, segurança regulatória e estabilidade",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Cristiano Della Giustina",
+     "voto": "de acordo integralmente com o relator",
+     "ts": "0:26:50",
+     "justificativa": "destaca o trabalho técnico da SUFER e a independência técnica",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "2.1.2 — processo administrativo ordinário contra Empresa de Transporte Andorinha S.A.",
+   "relator": "Guilherme Sampaio",
+   "motivo": "ponto novo implementado pela área técnica exige diligência",
+   "ts": "0:03:46"
+  },
+  {
+   "item": "2.2.1 — processo administrativo ordinário contra Expresso Adamantina Ltda. e Viação São Luiz Eireli",
+   "relator": "Luciano Lourenço",
+   "motivo": "ponto jurídico sobre a penalidade a esclarecer pela área técnica",
+   "ts": "0:14:46"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo parciais ou distorcidos; o ano do processo das audiências ferroviárias aparece como 2012 na legenda (o texto do voto indica audiências 4 e 5 de 2022).",
+  "O Diretor-Geral Rafael Vitale e Davi Barreto estavam ausentes; o falante inicial (rotulado Guilherme Sampaio) conduz a sessão. O sobrenome de Cristiano (Della Giustina) é inferido da legenda da RD 946 («pela Justina»), pois nesta reunião ele aparece só como «Cristiano»; atua como diretor substituto.",
+  "Extensão do sistema BR-040 citada como 482 km (audiência) e 451 km (após retirada da BR-495): números conforme a legenda.",
+  "Os ts dos votos de seguidores são aproximados."
+ ]
+}

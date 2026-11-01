@@ -1,0 +1,44 @@
+{
+  "meta": {"video_id": "eZvF7JwAVRQ", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:12:29); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "76 (extraordinária)", "data": "2022-10-04", "formato": "videoconferência",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Davi Barreto", "Guilherme Sampaio", "Luciano Lourenço", "Cristiano Della Giustina"],
+    "ausentes": [],
+    "observacoes": ["Dois itens, ambos aprovados por unanimidade, ligados à BR-163/MT (Rota do Oeste): TAC com troca de controle para a MT Par e quarto termo aditivo de relicitação; encerrada por volta das 12h de 04/10/2022 (ts de fim 0:59:31 no vídeo).", "O prazo de 90 dias do Decreto 11.122/2022 para assinar o termo aditivo de relicitação vencia em 05/10/2022, motivo da urgência.", "O TCU, no Acórdão 2139/2022 (28/09/2022), concluiu pela não oposição à celebração do TAC e fez recomendações incorporadas à minuta.", "Votos de seguidores exaltam o caso como histórico e paradigma de regulação consensual."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:13:20",
+      "processo": "50500.161397/2022-66", "interessado": "Concessionária Rota do Oeste S.A. (BR-163/MT; edital 3/2013), sócios CRO/Grupo ATP e MT Par (MT Participações e Projetos)",
+      "assunto": "Termo de Ajustamento de Conduta (TAC) para mitigar riscos de concorrência ferroviária, estender prazo da concessão e cronograma de obras, renúncia a créditos arbitrais, sobrestamento de fator D, excedente tarifário e multas até cumprimento integral, e transferência do controle acionário para a MT Par",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "judicializacao", "ferrovias"],
+      "relator": "Davi Barreto", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Contexto: concessão de 2014 previa duplicação de mais de 850 km em cinco anos e investimentos de R$ 6,8 bilhões; após 8 anos só 26% das duplicações e 17% de recuperação; passivo regulatório (multas e fator D) próximo de R$ 1 bilhão em discussão arbitral; tentativa anterior de TAC em 2021 não prosperou. Nova proposta de 23/08/2022 envolve transferência do controle para a MT Par, sociedade de economia mista do governo de Mato Grosso: aporte do novo controlador de cerca de R$ 1,2 bilhão, equalização das dívidas com bancos, retomada imediata de obras por criticidade (inclusive trecho 174 e Serra da Caixa Furada), saída do grupo atual sem ganho e com perda do capital investido (mais de R$ 1 bilhão), vedação de retorno do controlador e renúncia definitiva a pretensões arbitrais. Prazo para sanear inadimplementos passa de quatro para oito anos; suspensão (e não anulação) de processos e passivo regulatório, com extinção só se o TAC for cumprido; termo aditivo em até um ano com prorrogação do contrato por cinco anos, alocação de riscos de ferrovias concorrentes e destinação de eventual ganho da MT Par numa futura venda a investimentos de infraestrutura em Mato Grosso. Alternativas pior: caducidade (processo de relicitação sobrestado, risco de continuidade) e relicitação, com tarifa tendente a subir (taxa de retorno de 9,88% nos últimos projetos). Cita Acórdão TCU 2139/2022 e pareceres da SUROD e da PF.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "relator, aprova a celebração do TAC", "ts": "0:13:28", "justificativa": "solução consensual que retoma investimentos imediatos, penaliza o controlador inadimplente sem risco moral, preserva modicidade tarifária e salva vidas; agradece SUROD, PF, ouvidoria, TCU, governo de MT e sociedade civil", "tom": "enfático, histórico, com agradecimentos", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente; elogia o relator e as áreas", "ts": "0:32:49", "justificativa": "caso paradigmático de direito administrativo pragmático e boas práticas de regulação e governança", "tom": "elogioso", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha integralmente", "ts": "0:35:00", "justificativa": "dia histórico para MT, logística do país, ANTT e poder público; regulação proativa e preditiva; salvará vidas", "tom": "entusiasmado", "confianca": "alta"},
+        {"diretor": "Cristiano Della Giustina", "voto": "acompanha integralmente", "ts": "0:37:33", "justificativa": "solução inovadora para entregar serviço adequado ao usuário; maturidade regulatória; parceiros externos (Ministério, TCU, governo de MT) alinhados", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha integralmente; proclama unanimidade", "ts": "0:39:23", "justificativa": "trabalho de equipe inédito no poder público; esperança, eficiência logística e vidas salvas", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "0:41:30",
+      "processo": "50500.148614/2022 (parcial)", "interessado": "Concessionária Rota do Oeste S.A. (BR-163/MT, divisa MT/MS ao entroncamento com a MT-220)",
+      "assunto": "Quarto termo aditivo ao contrato (edital 3/2013) para estabelecer as obrigações da relicitação, nos termos da qualificação no PPI (Decreto 11.122/2022)",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "leilão / otimização"],
+      "relator": "Cristiano Della Giustina", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Requerimento de relicitação de 09/12/2021 (art. 3º do Decreto 9.957/2019); Deliberação 102/2022 (março), compatibilidade declarada pelo Ministério (Portaria 24/2022), CPPI (Res. 235/2022) e qualificação por decreto em julho de 2022, com 90 dias para assinar o termo (até 05/10/2022). Autos distribuídos em 30/09/2022. Tarifa calculada do período de relicitação e tarifa praticada definidas pela NT da GGF/SUROD, com valores por praça (categoria 1) lidos na legenda de forma ruidosa (entre R$ 4,40 e R$ 6,80). PF emitiu o Parecer 292/2022 pela juridicidade, atendendo ao Decreto 9.957/2019 e à Res. 5.926/2021. A minuta inclui cláusula resolutiva: o aditivo se extingue se se efetivarem as condições do TAC do item 1.1.1 (troca de controle), e entra em vigor 60 dias após a publicação do extrato; ajustes tarifários posteriores poderão ser feitos em revisão ou acerto final. Funciona como plano B ao TAC.",
+      "votos": [
+        {"diretor": "Cristiano Della Giustina", "voto": "relator, aprova o quarto termo aditivo de relicitação", "ts": "0:42:17", "justificativa": "continuidade do serviço diante da incapacidade da concessionária; juridicidade atestada pela PF; conexão com o TAC (cláusula resolutiva)", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "acompanha integralmente", "ts": "0:53:31", "justificativa": "destaca o esforço técnico e jurídico de construir um plano B (relicitação) caso o TAC não prospere, ainda melhor do que a caducidade", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:55:10", "justificativa": "reconhece a atuação do relator e a liderança do Diretor-Geral; solução construída com todos os atores", "confianca": "media"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha completamente o relator", "ts": "0:56:20", "justificativa": "plano B demonstra responsabilidade de gestores públicos; cita oração de São Francisco de Assis", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha integralmente o relator; proclama unanimidade", "ts": "0:57:32", "justificativa": "harmonia entre diretoria, área técnica e procuradoria acelera a solução de problemas pendentes", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática: números de processo parciais no item 1.2.1; valores das tarifas por praça no aditivo estão distorcidos (confira a minuta); datas do decreto aparecem como 6 de junho e 6 de julho de 2022, publicado em 7/7.", "Rótulos de falante automáticos estão incorretos; falas atribuídas por contexto e saudações; ts dos votos de Luciano, Cristiano (1.1.1) e Guilherme/Luciano (1.2.1) aproximados.", "Percentuais e valores (R$ 1,2 bilhão, R$ 1 bilhão, 26%, 17%) conforme falado pelo relator.", "O fim da fala do relator Davi sobre trechos (174, Serra da Caixa Furada) está truncado na legenda."]
+}

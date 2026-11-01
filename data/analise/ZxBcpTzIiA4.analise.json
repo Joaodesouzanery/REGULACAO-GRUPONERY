@@ -1,0 +1,68 @@
+{
+ "meta": {
+  "video_id": "ZxBcpTzIiA4",
+  "fonte": "legenda automática do YouTube; falantes inferidos (o rótulo automático «Guilherme Sampaio» no cabeçalho do .md se refere, na fala de abertura/encerramento, ao Diretor-Geral Rafael Vitale); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "70 (extraordinária)",
+  "data": "2022-02-22",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Davi Barreto",
+   "Guilherme Sampaio"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Reunião extraordinária com item único (relator Davi Barreto), que reúne dois processos: início da cobrança de pedágio/reajuste da CCR Rio–São Paulo e implementação da política pública de uso do saldo da conta vinculada da Nova Dutra para modicidade tarifária.",
+   "Encerrada às ~10h23 (fala de encerramento); duração ≈ 22 min."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1.1",
+   "ts": "0:00:22",
+   "processo": "dois processos 50500.xxxxxx/2022 (números ilegíveis na legenda)",
+   "interessado": "Concessionária do Sistema Rodoviário Rio–São Paulo S.A. (BR-116/RJ/SP) e Nova Dutra",
+   "assunto": "Autorização do início da cobrança de pedágio nas praças existentes (a partir da data de assunção, 1º/03/2022), reajuste da tarifa básica pelo IPCA, desconto de 10% por até 18 meses com uso de recursos da conta vinculada do saldo tarifário da Nova Dutra, e três termos aditivos (10º TA Nova Dutra, 1º TA ao contrato de custódia, 1º TA ao contrato do edital 3/2021); indeferimento de pedido de concessionária contrária à diretriz",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "regulação normativa",
+    "judicializacao"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade, nos termos do voto do relator",
+   "resumo_voto": "Termo de vistoria de 04/02 atesta a capacidade da concessionária para operar; reajuste IPCA (ago/2019–jan/2022) de cerca de 17,6% sobre a tarifa do leilão; Portaria MInfra 149/2022 e despachos da SNTT/SPPI determinam usar o excedente tarifário da concessão anterior em favor dos usuários do novo contrato, com redução de 10% na tarifa por até 18 meses (exceto praça de Viúva Graça). Saldo da conta vinculada citado: ~R$ 650 milhões; ~R$ 172 milhões estimados para a compensação nos 18 meses. Tarifas efetivas citadas (cat. 1): Moreira César R$ 13,00; Itatiaia R$ 11,10; Viúva Graça R$ 12,90; Arujá R$ 3,40; Jacareí R$ 6,20. Aumento final de 5,89% sobre a tarifa nominal do leilão. Pedido de uma concessionária para que a ANTT não implementasse a diretriz foi indeferido por total improcedência dos argumentos.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:00:47",
+     "justificativa": "cumprimento das cláusulas do contrato, cálculo do reajuste (NT 854/2022) e implementação da política pública do Ministério; indefere pedido contrário da concessionária",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:21:54",
+     "justificativa": "elogia a solução técnica e o enfrentamento; excedente tarifário destinado a quem tem direito, o usuário",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:22:00",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "A legenda automática erra nomes, números e siglas; valores só foram registrados quando legíveis. Votos de diretores que apenas acompanham o relator têm ts aproximado e confiança media.",
+  "Números dos processos, a identidade exata da concessionária que contestou a diretriz (a legenda diz 'corretor rios concessões e serviços s.a.') e o percentual preciso do reajuste (17,6x%) estão incertos. As tarifas em reais foram lidas da fala do relator e podem conter erro de legenda. O terceiro diretor que acompanha após Davi foi identificado como Guilherme Sampaio pela fala; o DG vota em seguida."
+ ]
+}
