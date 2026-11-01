@@ -1,17 +1,16 @@
 # Perfil analítico — Alex Azevedo · tema: participacao_social
 
-**Amostra:** presente em 33 das 37 reuniões analisadas em que há registro de presença/ausência; 33 votos neste tema; 7 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 32 das 36 reuniões analisadas em que há registro de presença/ausência; 32 votos neste tema; 7 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 26 (100% dos votos em que não era relator) · relator 7 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 25 (100% dos votos em que não era relator) · relator 7 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 7/7 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 96/12; onibus 45/11; leilao_otimizacao 44/6; reequilibrio_contratual 39/5; fiscalizacao_sancoes 38/9; pedagio_freeflow 33/5; participacao_social 33/7; onibus_regular 30/6; ferrovias 30/6; judicializacao 29/6; regulacao_normativa 26/4; sandbox_inovacao 16/1; tarifa_modicidade 14/4; cargas 14/5; institucional 13/2; sustentabilidade 10/2; onibus_fretamento 8/2; onibus_semiurbano 4/1
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 94/12; onibus 45/11; leilao_otimizacao 43/6; reequilibrio_contratual 39/5; fiscalizacao_sancoes 37/9; pedagio_freeflow 33/5; participacao_social 32/7; onibus_regular 30/6; ferrovias 30/6; judicializacao 28/6; regulacao_normativa 26/4; sandbox_inovacao 15/1; tarifa_modicidade 14/4; cargas 14/5; institucional 12/2; sustentabilidade 10/2; onibus_fretamento 8/2; onibus_semiurbano 4/1
 **Argumentos recorrentes nas justificativas registradas:** participação social (5); usuário (3); governança/rito (1); eficiência/celeridade (1); TCU/controle externo (1); sustentabilidade (1)
 **Tom (inferência da leitura, não métrica):** técnico, detalhista | questionador, cortês | solene, retórico, detalhista | argumentativo, voltado à participação social | enfático, numérico
 
 ## Evidências (reunião · item · voto · justificativa)
 
-- **RD 95 (extraordinária) (2025-09-02)**, item 1.1.1 — Aprovação do relatório final da consulta pública 1/2025 e do edital do processo competitivo para a otimização/modernização do contrato de co · voto: *acompanha integralmente* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=_edCUoWtVP0&t=1030s) · resultado: aprovado por unanimidade
 - **RD 1018 (2025-10-08)**, item 1.1.2 — Complementação do relatório final da Consulta Pública 1/2025 (otimização/modernização do contrato da BR-381/MG-SP, edital de processo compet · voto: *acompanha o relator* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=U4NrWpy5b6E&t=1878s) · resultado: aprovado por unanimidade
 - **RD 1018 (2025-10-08)**, item 1.4.1 — Abertura de audiência pública sobre a proposta preliminar da revisão quinquenal do contrato de concessão 1/2019 (BR-101, BR-290, BR-386 e BR · voto: *acompanha o relator* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=U4NrWpy5b6E&t=4760s) · resultado: aprovado por unanimidade
 - **RD 1019 (2025-10-23)**, item 1.2.1 — Recurso contra a Resolução 6.068/2025 (17/07/2025) e a Deliberação 236/2025, que exigem dos TACs os seguros RCTRC, RCDC e RCV para inscrição · voto: *voto com o relator* (acompanha, conf. alta) · «não viu nenhuma irregularidade» · [vídeo](https://www.youtube.com/watch?v=CezCZuXfe5A&t=3285s) · resultado: aprovado por unanimidade — recurso conhecido e improvido

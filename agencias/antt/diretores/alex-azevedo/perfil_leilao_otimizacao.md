@@ -1,18 +1,17 @@
 # Perfil analítico — Alex Azevedo · tema: leilao_otimizacao
 
-**Amostra:** presente em 33 das 37 reuniões analisadas em que há registro de presença/ausência; 44 votos neste tema; 6 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 32 das 36 reuniões analisadas em que há registro de presença/ausência; 43 votos neste tema; 6 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 37 (97% dos votos em que não era relator) · relator 6 · vista pedida 0 · voto-vista divergente 0 · vencido 1 · outros/não captado 0
+**Votos:** acompanha o relator 36 (97% dos votos em que não era relator) · relator 6 · vista pedida 0 · voto-vista divergente 0 · vencido 1 · outros/não captado 0
 **Como relator:** 6/6 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 96/12; onibus 45/11; leilao_otimizacao 44/6; reequilibrio_contratual 39/5; fiscalizacao_sancoes 38/9; pedagio_freeflow 33/5; participacao_social 33/7; onibus_regular 30/6; ferrovias 30/6; judicializacao 29/6; regulacao_normativa 26/4; sandbox_inovacao 16/1; tarifa_modicidade 14/4; cargas 14/5; institucional 13/2; sustentabilidade 10/2; onibus_fretamento 8/2; onibus_semiurbano 4/1
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 94/12; onibus 45/11; leilao_otimizacao 43/6; reequilibrio_contratual 39/5; fiscalizacao_sancoes 37/9; pedagio_freeflow 33/5; participacao_social 32/7; onibus_regular 30/6; ferrovias 30/6; judicializacao 28/6; regulacao_normativa 26/4; sandbox_inovacao 15/1; tarifa_modicidade 14/4; cargas 14/5; institucional 12/2; sustentabilidade 10/2; onibus_fretamento 8/2; onibus_semiurbano 4/1
 **Argumentos recorrentes nas justificativas registradas:** governança/rito (2); usuário (2); TCU/controle externo (2); participação social (2); concorrência (2); eficiência/celeridade (1)
 **Tom (inferência da leitura, não métrica):** divergente, cortês | técnico, detalhista | detalhado, jurídico-procedimental | questionador, cordial | enfático e argumentativo
 
 ## Evidências (reunião · item · voto · justificativa)
 
 - **RD 95ª Extraordinária (2025-09-02)**, item 1.1.1 — Relatório final da consulta pública 1/2025 (87 contribuições; sessões em Guarulhos e Contagem) e edital do processo competitivo para a otimi · voto: *acompanha integralmente (primeiro voto)* (acompanha, conf. alta) · «desenvolvimento da infraestrutura logística do país» · [vídeo](https://www.youtube.com/watch?v=FL46A_ucbcI&t=1026s) · resultado: aprovado por unanimidade — leilão marcado para 11/12/2025 na B3
-- **RD 95 (extraordinária) (2025-09-02)**, item 1.1.1 — Aprovação do relatório final da consulta pública 1/2025 e do edital do processo competitivo para a otimização/modernização do contrato de co · voto: *acompanha integralmente* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=_edCUoWtVP0&t=1030s) · resultado: aprovado por unanimidade
 - **RD 1017 (2025-09-26)**, item 1.1.3 — Emissão do ato de outorga referente ao leilão da concessão da BR-040/495 (MG/RJ), Edital 1/2025 (Rota Imperial), com autorização para assina · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=1gCCZmxLMYE&t=547s) · resultado: aprovado por unanimidade
 - **RD 1018 (2025-10-08)**, item 1.1.2 — Complementação do relatório final da Consulta Pública 1/2025 (otimização/modernização do contrato da BR-381/MG-SP, edital de processo compet · voto: *acompanha o relator* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=U4NrWpy5b6E&t=1878s) · resultado: aprovado por unanimidade
 - **RD 1019 (2025-10-23)**, item 1.1.1 — Solução consensual do COMPOR 6/2025: devolução do trecho Salgueiro/PE - Porto de Suape/PE (cerca de 522 km) e controvérsias do primeiro term · voto: *acompanha integralmente* (acompanha, conf. alta) · «o Nordeste volta ao mapa dos trilhos com a Transnordestina» · [vídeo](https://www.youtube.com/watch?v=CezCZuXfe5A&t=2200s) · resultado: aprovado por unanimidade

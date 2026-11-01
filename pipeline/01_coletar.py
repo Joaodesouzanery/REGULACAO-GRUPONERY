@@ -70,6 +70,9 @@ for v in vistos.values():
 for grupo in por_num.values():
     grupo.sort(key=lambda v: bool(re.search(r"board|extraordinary", v["titulo"], re.I)))  # PT primeiro
     for v in grupo[1:]: v["duplicata_de"] = grupo[0]["id"]
+if os.path.exists("data/duplicatas_manuais.json"):  # duplicatas confirmadas à mão (mesma reunião em dois vídeos)
+    for k, alvo in json.load(open("data/duplicatas_manuais.json")).items():
+        if k in vistos: vistos[k]["duplicata_de"] = alvo
 with open("data/videos.jsonl", "w") as f:
     for v in vistos.values(): f.write(json.dumps(v, ensure_ascii=False) + "\n")
 from collections import Counter

@@ -3,7 +3,7 @@ Uso:
   consulta.py perfil "Alex Azevedo" [--tema onibus]
   consulta.py busca "empresa de ônibus cassação"
   consulta.py temas | diretores | mandatos | trecho <texto> [--tipo audiencia|participativa|diretoria|workshop]"""
-import sqlite3, sys, re, collections
+import json, sqlite3, sys, re, collections
 c = sqlite3.connect("data/regulacao.db"); c.row_factory = sqlite3.Row
 def segs(ts):
     if not ts: return None
@@ -84,7 +84,14 @@ if __name__ == "__main__":
         for r in c.execute("select f.*, v.titulo from falas_diretores f join videos v on v.id=f.video_id where f.diretor like ? order by f.video_id, f.t limit 40", (f"%{a[1]}%",)):
             print(f"- {r['tipo_video']}: {r['titulo'][:60]} · [{r['t']//3600}:{r['t']%3600//60:02d}:{r['t']%60:02d}](https://www.youtube.com/watch?v={r['video_id']}&t={r['t']}s) — «{r['texto'][:260]}…»")
     elif a[0] == "mandatos":
-        for m in c.execute("select * from mandatos"): print(f"- {m['diretor']} · {m['cargo']} · {m['inicio'] or '?'} → {m['fim'] or 'atual'} · {m['situacao']} · confiança {m['confianca']} · fonte: {m['fonte']}")
-    elif a[0] == "busca": print(busca(" ".join(a[1:])))
-    elif a[0] == "temas": print([tuple(r) for r in c.execute("select tema, count(*) from item_temas group by 1 order by 2 desc")])
+        import datetime
+        d = lambda x: datetime.date.fromisoformat(x[:10]) if x and len(x) >= 10 else None
+        hoje = datetime.date.today()
+        for m in c.execute("select * from mandatos"):
+            i, f = d(m["inicio"]), d(m["fim"]) or hoje
+            dias = f"{(f - i).days} dias (≈ {(f - i).days/365:.1f} anos)" if i else "início anterior a 2023"
+            print(f"- {m['diretor']} · {m['cargo']} · {m['inicio'] or '?'} → {m['fim'] or 'atual'} · {m['situacao']} · {dias} · confiança {m['confianca']} · {m['fonte']}")
+        print("\nVacâncias de cadeira titular (estimadas):")
+        for v in json.load(open("data/vacancias.json")):
+            print(f"- {v['periodo']}: {v['cadeiras_vagas']} cadeira(s) vaga(s) · {v['motivo']} · confiança {v['confianca']}")
     elif a[0] == "diretores": print([r[0] for r in c.execute("select distinct diretor from votos")])

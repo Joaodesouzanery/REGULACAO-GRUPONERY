@@ -1,17 +1,16 @@
 # Perfil analítico — Amaral Filho
 
-**Amostra:** presente em 9 das 9 reuniões analisadas em que há registro de presença/ausência; 54 votos; 5 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 8 das 8 reuniões analisadas em que há registro de presença/ausência; 52 votos; 5 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 49 (100% dos votos em que não era relator) · relator 5 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 47 (100% dos votos em que não era relator) · relator 5 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 5/5 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 21/1; onibus 20/2; onibus_regular 18/2; fiscalizacao_sancoes 18/2; judicializacao 12/1; regulacao_normativa 9/1; reequilibrio_contratual 9/1; ferrovias 9/1; participacao_social 8/2; leilao_otimizacao 7/0; pedagio_freeflow 5/1; sandbox_inovacao 4/0; cargas 4/1; institucional 3/0; sustentabilidade 2/0; onibus_fretamento 2/0
+**Temas (nº de itens em que votou / relatorias):** onibus 20/2; concessoes_rodoviarias 19/1; onibus_regular 18/2; fiscalizacao_sancoes 17/2; judicializacao 11/1; regulacao_normativa 9/1; reequilibrio_contratual 9/1; ferrovias 9/1; participacao_social 7/2; leilao_otimizacao 6/0; pedagio_freeflow 5/1; cargas 4/1; sandbox_inovacao 3/0; sustentabilidade 2/0; onibus_fretamento 2/0; institucional 2/0
 **Argumentos recorrentes nas justificativas registradas:** transparência (1); concorrência (1); usuário (1); segurança viária (1); sustentabilidade (1); segurança jurídica (1)
 
 ## Evidências (reunião · item · voto · justificativa)
 
 - **RD 95ª Extraordinária (2025-09-02)**, item 1.1.1 — Relatório final da consulta pública 1/2025 (87 contribuições; sessões em Guarulhos e Contagem) e edital do processo competitivo para a otimi · voto: *acompanha integralmente* (acompanha, conf. alta) · «considera a remodelagem mais importante já feita pela agência para um eixo logístico» · [vídeo](https://www.youtube.com/watch?v=FL46A_ucbcI&t=1117s) · resultado: aprovado por unanimidade — leilão marcado para 11/12/2025 na B3
-- **RD 95 (extraordinária) (2025-09-02)**, item 1.1.1 — Aprovação do relatório final da consulta pública 1/2025 e do edital do processo competitivo para a otimização/modernização do contrato de co · voto: *acompanha integralmente* (acompanha, conf. alta) · «considera talvez a remodelagem mais importante já feita pela agência, eixo logístico Minas–São Paulo» · [vídeo](https://www.youtube.com/watch?v=_edCUoWtVP0&t=1121s) · resultado: aprovado por unanimidade
 - **RD 1016 (2025-09-11)**, item 1.2.1 — Incorporação da Buscop (Sociedade de Transporte Rodoviário de Passageiros, Serviços e Tecnologia) pela Empresa de Ônibus Nossa Senhora da Pe · voto: *acompanha o voto do revisor* (revisor_acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=L7v7zskusEw&t=1882s) · resultado: aprovado por unanimidade — voto-vista de Lucas Asfor acompanha o relat
 - **RD 1016 (2025-09-11)**, item 1.2.8 — Modificação de termo de autorização (TAR) da linha Lago da Pedra/MA–Brasília/DF com implantação de seções intermediárias em Goiás; voto-vist · voto: *acompanha o revisor* (revisor_acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=L7v7zskusEw&t=2464s) · resultado: aprovado por unanimidade — deferido
 - **RD 1016 (2025-09-11)**, item 1.2.9 — Processo administrativo ordinário para apurar infrações (Monitriip: não envio de dados, manipulação/dados fictícios, operação de linhas com  · voto: *acompanha o relator* (acompanha, conf. institucional) · «como ex-servidor e fiscal, valoriza a mensagem contra condutas que dificultam a fiscalização (transparência e concorrência)» · [vídeo](https://www.youtube.com/watch?v=L7v7zskusEw&t=3240s) · resultado: aprovado por unanimidade — agrava a sanção: cassação de mercados (a co

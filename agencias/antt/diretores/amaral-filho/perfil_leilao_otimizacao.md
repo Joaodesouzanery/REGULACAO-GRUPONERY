@@ -1,15 +1,14 @@
 # Perfil analítico — Amaral Filho · tema: leilao_otimizacao
 
-**Amostra:** presente em 9 das 9 reuniões analisadas em que há registro de presença/ausência; 7 votos neste tema; 0 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 8 das 8 reuniões analisadas em que há registro de presença/ausência; 6 votos neste tema; 0 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 7 (100% dos votos em que não era relator) · relator 0 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 6 (100% dos votos em que não era relator) · relator 0 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 21/1; onibus 20/2; onibus_regular 18/2; fiscalizacao_sancoes 18/2; judicializacao 12/1; regulacao_normativa 9/1; reequilibrio_contratual 9/1; ferrovias 9/1; participacao_social 8/2; leilao_otimizacao 7/0; pedagio_freeflow 5/1; sandbox_inovacao 4/0; cargas 4/1; institucional 3/0; sustentabilidade 2/0; onibus_fretamento 2/0
+**Temas (nº de itens em que votou / relatorias):** onibus 20/2; concessoes_rodoviarias 19/1; onibus_regular 18/2; fiscalizacao_sancoes 17/2; judicializacao 11/1; regulacao_normativa 9/1; reequilibrio_contratual 9/1; ferrovias 9/1; participacao_social 7/2; leilao_otimizacao 6/0; pedagio_freeflow 5/1; cargas 4/1; sandbox_inovacao 3/0; sustentabilidade 2/0; onibus_fretamento 2/0; institucional 2/0
 
 ## Evidências (reunião · item · voto · justificativa)
 
 - **RD 95ª Extraordinária (2025-09-02)**, item 1.1.1 — Relatório final da consulta pública 1/2025 (87 contribuições; sessões em Guarulhos e Contagem) e edital do processo competitivo para a otimi · voto: *acompanha integralmente* (acompanha, conf. alta) · «considera a remodelagem mais importante já feita pela agência para um eixo logístico» · [vídeo](https://www.youtube.com/watch?v=FL46A_ucbcI&t=1117s) · resultado: aprovado por unanimidade — leilão marcado para 11/12/2025 na B3
-- **RD 95 (extraordinária) (2025-09-02)**, item 1.1.1 — Aprovação do relatório final da consulta pública 1/2025 e do edital do processo competitivo para a otimização/modernização do contrato de co · voto: *acompanha integralmente* (acompanha, conf. alta) · «considera talvez a remodelagem mais importante já feita pela agência, eixo logístico Minas–São Paulo» · [vídeo](https://www.youtube.com/watch?v=_edCUoWtVP0&t=1121s) · resultado: aprovado por unanimidade
 - **RD 1017 (2025-09-26)**, item 1.1.3 — Emissão do ato de outorga referente ao leilão da concessão da BR-040/495 (MG/RJ), Edital 1/2025 (Rota Imperial), com autorização para assina · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=1gCCZmxLMYE&t=553s) · resultado: aprovado por unanimidade
 - **RD 1018 (2025-10-08)**, item 1.1.2 — Complementação do relatório final da Consulta Pública 1/2025 (otimização/modernização do contrato da BR-381/MG-SP, edital de processo compet · voto: *acompanha o relator* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=U4NrWpy5b6E&t=1880s) · resultado: aprovado por unanimidade
 - **RD 1019 (2025-10-23)**, item 1.1.1 — Solução consensual do COMPOR 6/2025: devolução do trecho Salgueiro/PE - Porto de Suape/PE (cerca de 522 km) e controvérsias do primeiro term · voto: *acompanha integralmente o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=CezCZuXfe5A&t=2236s) · resultado: aprovado por unanimidade

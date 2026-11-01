@@ -1,12 +1,12 @@
 # Perfil analítico — Lucas Asfor · tema: institucional
 
-**Amostra:** presente em 114 das 119 reuniões analisadas em que há registro de presença/ausência; 66 votos neste tema; 4 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 112 das 117 reuniões analisadas em que há registro de presença/ausência; 65 votos neste tema; 4 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 61 (98% dos votos em que não era relator) · relator 4 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
+**Votos:** acompanha o relator 60 (98% dos votos em que não era relator) · relator 4 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
 **Como relator:** 4/4 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 403/110; fiscalizacao_sancoes 362/112; onibus 214/65; onibus_regular 146/47; reequilibrio_contratual 125/21; regulacao_normativa 122/24; leilao_otimizacao 117/41; participacao_social 111/30; judicializacao 87/22; ferrovias 83/18; institucional 66/4; onibus_fretamento 58/17; pedagio_freeflow 57/15; cargas 39/12; sandbox_inovacao 30/3; sustentabilidade 27/0; tarifa_modicidade 15/2; onibus_semiurbano 7/1; outros 1/0
-**Argumentos recorrentes nas justificativas registradas:** transparência (1); interesse público (1); governança/rito (1)
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 400/110; fiscalizacao_sancoes 361/112; onibus 214/65; onibus_regular 146/47; reequilibrio_contratual 125/21; regulacao_normativa 122/24; leilao_otimizacao 116/41; participacao_social 110/30; judicializacao 86/22; ferrovias 83/18; institucional 65/4; onibus_fretamento 58/17; pedagio_freeflow 56/15; cargas 39/12; sandbox_inovacao 29/3; sustentabilidade 27/0; tarifa_modicidade 14/2; onibus_semiurbano 7/1; outros 1/0
+**Argumentos recorrentes nas justificativas registradas:** transparência (1); governança/rito (1)
 
 ## Evidências (reunião · item · voto · justificativa)
 
@@ -61,7 +61,6 @@
 - **RD 1013 (2025-08-01)**, item extrapauta 1 — Referendo da Deliberação 250 de 31/07/2025, que aprovou a proposta orçamentária da ANTT para 2026 e o marco orçamentário de médio prazo 2027 · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=mUFBjDvQ9VM&t=1462s) · resultado: aprovado por unanimidade
 - **RD 1014 (2025-08-15)**, item extrapauta-1 — Extrapauta: alteração pontual da Resolução 5.977/2022 (7 de abril de 2022 na legenda), que dispõe sobre a estrutura organizacional da ANTT,  · voto: *de acordo com o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=i65Q4DVJA6s&t=577s) · resultado: aprovado por unanimidade
 - **RD 1014 (2025-08-15)**, item 1.4.2 — Alteração dos arts. 2º e 7º da Resolução 4.308/2014 para substituir o termo «índio» por «indígena» e «Fundação Nacional do Índio» por «Funda · voto: *relator, aprova* (relator, conf. alta) · «terminologia inclusiva e respeitosa; alinhamento ao ordenamento» · [vídeo](https://www.youtube.com/watch?v=i65Q4DVJA6s&t=3461s) · resultado: aprovado por unanimidade
-- **RD 95 (extraordinária) (2025-09-02)**, item extrapauta — Extrapauta: recurso administrativo do Bradesco BBI com pedido de efeito suspensivo contra decisão monocrática do Diretor-Geral (Despacho DG  · voto: *acompanha o relator* (acompanha, conf. alta) · «consonância com a legislação federal; destaca o trecho sobre autoridade da agência e supremacia do interesse público» · [vídeo](https://www.youtube.com/watch?v=_edCUoWtVP0&t=1647s) · resultado: aprovado por unanimidade — recurso conhecido e desprovido; mantida a m
 - **RD 1018 (2025-10-08)**, item 1.1.1 — Instituição da Comissão de Acompanhamento de Avaliação e Desempenho (CAAD) e aprovação do seu regimento interno · voto: *de acordo com o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=U4NrWpy5b6E&t=1640s) · resultado: aprovado por unanimidade
 - **RD 1019 (2025-10-23)**, item 1.1.1 — Solução consensual do COMPOR 6/2025: devolução do trecho Salgueiro/PE - Porto de Suape/PE (cerca de 522 km) e controvérsias do primeiro term · voto: *acompanha o relator* (acompanha, conf. alta) · «voto completo e objetivo; o consenso, respeitados os requisitos, é sempre o melhor caminho» · [vídeo](https://www.youtube.com/watch?v=CezCZuXfe5A&t=2157s) · resultado: aprovado por unanimidade
 - **RD 1023 (2025-12-17)**, item 1.1.1 — Proposta de Plano Estratégico 2026/2029 da ANTT · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=x8QgM4O8I_Y&t=2629s) · resultado: aprovado por unanimidade

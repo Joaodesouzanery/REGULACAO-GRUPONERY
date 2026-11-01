@@ -168,8 +168,6 @@
   - votos: Lucas: relator; Felipe: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=AO9wlMZ_8p8&t=2070s)
 - **RD 95ª Extraordinária (2025-09-02)**, 1.1.1 · relator **Guilherme Sampaio** · Relatório final da consulta pública 1/2025 (87 contribuições; sessões em Guarulhos e Contagem) e edital do processo competitivo para a otimização da c → aprovado por unanimidade — leilão marcado para 11/12/2025 na B3
   - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Amaral: acompanha · [vídeo](https://www.youtube.com/watch?v=FL46A_ucbcI&t=389s)
-- **RD 95 (extraordinária) (2025-09-02)**, 1.1.1 · relator **Guilherme Sampaio** · Aprovação do relatório final da consulta pública 1/2025 e do edital do processo competitivo para a otimização/modernização do contrato de concessão da → aprovado por unanimidade
-  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Amaral: acompanha · [vídeo](https://www.youtube.com/watch?v=_edCUoWtVP0&t=460s)
 - **RD 1017 (2025-09-26)**, 1.1.3 · relator **Felipe Queiroz** · Emissão do ato de outorga referente ao leilão da concessão da BR-040/495 (MG/RJ), Edital 1/2025 (Rota Imperial), com autorização para assinatura do co → aprovado por unanimidade
   - votos: Felipe: relator; Alex: acompanha; Amaral: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=1gCCZmxLMYE&t=171s)
 - **RD 1018 (2025-10-08)**, 1.1.2 · relator **Guilherme Sampaio** · Complementação do relatório final da Consulta Pública 1/2025 (otimização/modernização do contrato da BR-381/MG-SP, edital de processo competitivo 4/20 → aprovado por unanimidade

@@ -170,8 +170,6 @@
   - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=i65Q4DVJA6s&t=441s)
 - **RD 1014 (2025-08-15)**, 1.4.2 · relator **Lucas Asfor** · Alteração dos arts. 2º e 7º da Resolução 4.308/2014 para substituir o termo «índio» por «indígena» e «Fundação Nacional do Índio» por «Fundação Nacion → aprovado por unanimidade
   - votos: Lucas: relator; Felipe: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=i65Q4DVJA6s&t=3270s)
-- **RD 95 (extraordinária) (2025-09-02)**, extrapauta · relator **Guilherme Sampaio** · Extrapauta: recurso administrativo do Bradesco BBI com pedido de efeito suspensivo contra decisão monocrática do Diretor-Geral (Despacho DG de 05/02/2 → aprovado por unanimidade — recurso conhecido e desprovido; mantida a medida cautelar
-  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Amaral: acompanha · [vídeo](https://www.youtube.com/watch?v=_edCUoWtVP0&t=1190s)
 - **RD 1018 (2025-10-08)**, 1.1.1 · relator **Guilherme Sampaio** · Instituição da Comissão de Acompanhamento de Avaliação e Desempenho (CAAD) e aprovação do seu regimento interno → aprovado por unanimidade
   - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Amaral: acompanha · [vídeo](https://www.youtube.com/watch?v=U4NrWpy5b6E&t=1560s)
 - **RD 1019 (2025-10-23)**, 1.1.1 · relator **Guilherme Sampaio** · Solução consensual do COMPOR 6/2025: devolução do trecho Salgueiro/PE - Porto de Suape/PE (cerca de 522 km) e controvérsias do primeiro termo aditivo  → aprovado por unanimidade

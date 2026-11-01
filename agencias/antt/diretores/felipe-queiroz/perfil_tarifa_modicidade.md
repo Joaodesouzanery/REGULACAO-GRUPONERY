@@ -1,11 +1,11 @@
 # Perfil analítico — Felipe Queiroz · tema: tarifa_modicidade
 
-**Amostra:** presente em 114 das 122 reuniões analisadas em que há registro de presença/ausência; 16 votos neste tema; 5 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 112 das 120 reuniões analisadas em que há registro de presença/ausência; 15 votos neste tema; 5 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 11 (100% dos votos em que não era relator) · relator 5 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 10 (100% dos votos em que não era relator) · relator 5 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 5/5 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 412/120; fiscalizacao_sancoes 380/101; onibus 220/58; onibus_regular 153/41; reequilibrio_contratual 128/37; regulacao_normativa 119/35; leilao_otimizacao 117/24; participacao_social 112/31; judicializacao 88/24; ferrovias 87/27; institucional 66/13; pedagio_freeflow 58/17; onibus_fretamento 56/15; cargas 40/10; sandbox_inovacao 32/12; sustentabilidade 26/13; tarifa_modicidade 16/5; onibus_semiurbano 7/0; outros 1/1
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 409/120; fiscalizacao_sancoes 379/101; onibus 220/58; onibus_regular 153/41; reequilibrio_contratual 128/37; regulacao_normativa 119/35; leilao_otimizacao 116/24; participacao_social 111/31; judicializacao 87/24; ferrovias 87/27; institucional 65/13; pedagio_freeflow 57/17; onibus_fretamento 56/15; cargas 40/10; sandbox_inovacao 31/12; sustentabilidade 26/13; tarifa_modicidade 15/5; onibus_semiurbano 7/0; outros 1/1
 **Argumentos recorrentes nas justificativas registradas:** evidência/dados (2); governança/rito (1); segurança jurídica (1); transparência (1)
 **Tom (inferência da leitura, não métrica):** didático
 
@@ -13,7 +13,6 @@
 
 - **RD 990 (2024-09-05)**, item 1.1.3 — 14ª revisão ordinária, 15ª e 16ª revisões extraordinárias e reajuste da tarifa básica de pedágio (TBP) do contrato do Edital 7/2007; termo a · voto: *voto com o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=m6tfBRRgsEI&t=4205s) · resultado: aprovado por unanimidade
 - **RD 998 (2024-12-19)**, item 1.2.2 — 16ª revisão extraordinária, 16ª revisão ordinária, 17ª revisão extraordinária e reajuste da tarifa básica de pedágio (TBP); termo aditivo co · voto: *de acordo com o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=3KyK_89ogrM&t=1558s) · resultado: aprovado por unanimidade
-- **RD 90ª Extraordinária (2025-03 (aprox.; a confirmar))**, item unico — Reajuste da tarifa básica de pedágio e início da cobrança nas praças existentes P1 Florestal, P3, P4 Campos Altos e P6 Perdizes (BR-262/MG,  · voto: *voto com o relator* (acompanha, conf. média) · [vídeo](https://www.youtube.com/watch?v=dIpQycne7g0&t=210s) · resultado: aprovado por unanimidade
 - **RD 1025 (2026-01-29)**, item 1.2.2 — Homologação da tabela tarifária de referência da TLSA (primeiro reajuste/tabela nos termos do contrato de 2014, sem operação até agora) para · voto: *relator, homologa com alegria* (relator, conf. alta) · «evolução da infraestrutura do Nordeste; início da operação da ferrovia» · [vídeo](https://www.youtube.com/watch?v=d2BF6usx0p8&t=6382s) · resultado: aprovado por unanimidade
 - **RD 1026 (2026-02-12)**, item extra-pauta-RIDE-DF — Reajuste do coeficiente tarifário das autorizações especiais semiurbanas da RIDE/DF (ciclo 2026) · voto: *voto com o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=5dRdxywub1g&t=7503s) · resultado: aprovado por unanimidade
 - **RD 1026 (2026-02-12)**, item 1.5.1 — Reajuste do coeficiente tarifário dos serviços semiurbanos por autorização especial geridos diretamente pela ANTT (exceto RIDE/DF e Petrolin · voto: *voto com o relator; elogia a sugestão de melhoria processual de prazos que Severino e Alex fazem* (acompanha, conf. alta) · «olhar de governança além da legalidade e do mérito» · [vídeo](https://www.youtube.com/watch?v=5dRdxywub1g&t=7857s) · resultado: aprovado por unanimidade

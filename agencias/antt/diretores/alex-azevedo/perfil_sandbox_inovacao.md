@@ -1,17 +1,16 @@
 # Perfil analítico — Alex Azevedo · tema: sandbox_inovacao
 
-**Amostra:** presente em 33 das 37 reuniões analisadas em que há registro de presença/ausência; 16 votos neste tema; 1 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 32 das 36 reuniões analisadas em que há registro de presença/ausência; 15 votos neste tema; 1 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 14 (93% dos votos em que não era relator) · relator 1 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
+**Votos:** acompanha o relator 13 (92% dos votos em que não era relator) · relator 1 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
 **Como relator:** 1/1 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 96/12; onibus 45/11; leilao_otimizacao 44/6; reequilibrio_contratual 39/5; fiscalizacao_sancoes 38/9; pedagio_freeflow 33/5; participacao_social 33/7; onibus_regular 30/6; ferrovias 30/6; judicializacao 29/6; regulacao_normativa 26/4; sandbox_inovacao 16/1; tarifa_modicidade 14/4; cargas 14/5; institucional 13/2; sustentabilidade 10/2; onibus_fretamento 8/2; onibus_semiurbano 4/1
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 94/12; onibus 45/11; leilao_otimizacao 43/6; reequilibrio_contratual 39/5; fiscalizacao_sancoes 37/9; pedagio_freeflow 33/5; participacao_social 32/7; onibus_regular 30/6; ferrovias 30/6; judicializacao 28/6; regulacao_normativa 26/4; sandbox_inovacao 15/1; tarifa_modicidade 14/4; cargas 14/5; institucional 12/2; sustentabilidade 10/2; onibus_fretamento 8/2; onibus_semiurbano 4/1
 **Argumentos recorrentes nas justificativas registradas:** usuário (2); segurança jurídica (2); concorrência (1); participação social (1); TCU/controle externo (1)
 **Tom (inferência da leitura, não métrica):** questionador, cortês
 
 ## Evidências (reunião · item · voto · justificativa)
 
-- **RD 95 (extraordinária) (2025-09-02)**, item 1.1.1 — Aprovação do relatório final da consulta pública 1/2025 e do edital do processo competitivo para a otimização/modernização do contrato de co · voto: *acompanha integralmente* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=_edCUoWtVP0&t=1030s) · resultado: aprovado por unanimidade
 - **RD 1020 (2025-11-05)**, item extra-2 — Extrapauta: edital de sandbox regulatório para o projeto-piloto Corredor Logístico Sustentável de transporte intermodal (segurança viária, g · voto: *aprova totalmente* (outro, conf. alta) · «demonstração de que a ANTT está antenada à COP 30» · [vídeo](https://www.youtube.com/watch?v=KsteuYm_RoM&t=4533s) · resultado: aprovado por unanimidade
 - **RD 1020 (2025-11-05)**, item 1.3.8 — Abertura de consulta pública sobre a readaptação e otimização do contrato (solução consensual aprovada pelo TCU, CSC/SecexConsenso) com proc · voto: *acompanha o relator* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=KsteuYm_RoM&t=8585s) · resultado: aprovado por unanimidade
 - **RD 96 (extraordinária) (2025-11-12)**, item 1.1.1 — Edital de seleção de concessionárias de rodovias federais para ambiente regulatório experimental (sandbox) de adesão voluntária ao Programa  · voto: *de acordo com o relator* (acompanha, conf. alta) · «parabeniza o relator e destaca a representatividade da agência no tema; registra que está se recuperando de virose» · [vídeo](https://www.youtube.com/watch?v=Hs3z2jog8Uo&t=2404s) · resultado: aprovado por unanimidade

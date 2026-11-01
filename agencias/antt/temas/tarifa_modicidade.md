@@ -6,8 +6,6 @@
   - votos: Luciano: relator; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=m6tfBRRgsEI&t=3689s)
 - **RD 998 (2024-12-19)**, 1.2.2 · relator **Luciano Lourenço** · 16ª revisão extraordinária, 16ª revisão ordinária, 17ª revisão extraordinária e reajuste da tarifa básica de pedágio (TBP); termo aditivo com obras de → aprovado por unanimidade
   - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=3KyK_89ogrM&t=1218s)
-- **RD 90ª Extraordinária (2025-03 (aprox.; a confirmar))**, unico · relator **None** · Reajuste da tarifa básica de pedágio e início da cobrança nas praças existentes P1 Florestal, P3, P4 Campos Altos e P6 Perdizes (BR-262/MG, trecho ent → aprovado por unanimidade
-  - votos: Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=dIpQycne7g0&t=0s)
 - **RD 1025 (2026-01-29)**, 1.2.2 · relator **Felipe Queiroz** · Homologação da tabela tarifária de referência da TLSA (primeiro reajuste/tabela nos termos do contrato de 2014, sem operação até agora) para o trecho  → aprovado por unanimidade
   - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Severino: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=d2BF6usx0p8&t=6350s)
 - **RD 1026 (2026-02-12)**, extra-pauta-RIDE-DF · relator **Alex Azevedo** · Reajuste do coeficiente tarifário das autorizações especiais semiurbanas da RIDE/DF (ciclo 2026) → aprovado por unanimidade

@@ -1,17 +1,16 @@
 # Perfil analítico — Lucas Asfor · tema: tarifa_modicidade
 
-**Amostra:** presente em 114 das 119 reuniões analisadas em que há registro de presença/ausência; 15 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 112 das 117 reuniões analisadas em que há registro de presença/ausência; 14 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 13 (100% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 12 (100% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 2/2 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 403/110; fiscalizacao_sancoes 362/112; onibus 214/65; onibus_regular 146/47; reequilibrio_contratual 125/21; regulacao_normativa 122/24; leilao_otimizacao 117/41; participacao_social 111/30; judicializacao 87/22; ferrovias 83/18; institucional 66/4; onibus_fretamento 58/17; pedagio_freeflow 57/15; cargas 39/12; sandbox_inovacao 30/3; sustentabilidade 27/0; tarifa_modicidade 15/2; onibus_semiurbano 7/1; outros 1/0
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 400/110; fiscalizacao_sancoes 361/112; onibus 214/65; onibus_regular 146/47; reequilibrio_contratual 125/21; regulacao_normativa 122/24; leilao_otimizacao 116/41; participacao_social 110/30; judicializacao 86/22; ferrovias 83/18; institucional 65/4; onibus_fretamento 58/17; pedagio_freeflow 56/15; cargas 39/12; sandbox_inovacao 29/3; sustentabilidade 27/0; tarifa_modicidade 14/2; onibus_semiurbano 7/1; outros 1/0
 
 ## Evidências (reunião · item · voto · justificativa)
 
 - **RD 990 (2024-09-05)**, item 1.1.3 — 14ª revisão ordinária, 15ª e 16ª revisões extraordinárias e reajuste da tarifa básica de pedágio (TBP) do contrato do Edital 7/2007; termo a · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=m6tfBRRgsEI&t=4208s) · resultado: aprovado por unanimidade
 - **RD 998 (2024-12-19)**, item 1.2.2 — 16ª revisão extraordinária, 16ª revisão ordinária, 17ª revisão extraordinária e reajuste da tarifa básica de pedágio (TBP); termo aditivo co · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=3KyK_89ogrM&t=1562s) · resultado: aprovado por unanimidade
-- **RD 90ª Extraordinária (2025-03 (aprox.; a confirmar))**, item unico — Reajuste da tarifa básica de pedágio e início da cobrança nas praças existentes P1 Florestal, P3, P4 Campos Altos e P6 Perdizes (BR-262/MG,  · voto: *acompanha o relator* (acompanha, conf. média) · [vídeo](https://www.youtube.com/watch?v=dIpQycne7g0&t=220s) · resultado: aprovado por unanimidade
 - **RD 1025 (2026-01-29)**, item 1.2.2 — Homologação da tabela tarifária de referência da TLSA (primeiro reajuste/tabela nos termos do contrato de 2014, sem operação até agora) para · voto: *acompanha o relator* (acompanha, conf. alta) · «desenvolvimento da infraestrutura e da economia do país» · [vídeo](https://www.youtube.com/watch?v=d2BF6usx0p8&t=6739s) · resultado: aprovado por unanimidade
 - **RD 1026 (2026-02-12)**, item extra-pauta-RIDE-DF — Reajuste do coeficiente tarifário das autorizações especiais semiurbanas da RIDE/DF (ciclo 2026) · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=5dRdxywub1g&t=7514s) · resultado: aprovado por unanimidade
 - **RD 1026 (2026-02-12)**, item 1.5.1 — Reajuste do coeficiente tarifário dos serviços semiurbanos por autorização especial geridos diretamente pela ANTT (exceto RIDE/DF e Petrolin · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=5dRdxywub1g&t=8001s) · resultado: aprovado por unanimidade

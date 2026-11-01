@@ -1,0 +1,28 @@
+{
+  "meta": {"video_id": "Y1_YnBlXh00", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "75 (extraordinária)", "data": "2022-09-22", "formato": "videoconferência",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Luciano Lourenço", "Davi Barreto", "Cristiano Della Giustina"],
+    "ausentes": ["Guilherme Sampaio (férias)"],
+    "observacoes": ["Reunião extraordinária com item único, encerrada às 12h43 de 22/09/2022.", "Relator Luciano Lourenço destaca vistoria à rodovia no fim de agosto, mais de 23 mil atendimentos médicos e mecânicos entre 8/4 e 14/9/2022 e dois PPDs (pontos de parada e descanso) em operação."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:01:44",
+      "processo": "50500.181279/2022-74 (parcial)", "interessado": "Ecovias do Araguaia S.A. (BR-153/414/080, TO/GO; edital 1/2021)",
+      "assunto": "Autorização para início da cobrança de pedágio nas 9 praças e reajuste da tarifa básica de pedágio (TBP) pelo IPCA desde a data-base de maio de 2019",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Concessão de 30 anos, 850,7 km, vencida pelo consórcio Eco153 com deságio de 16,25% no leilão de 29/04/2021; termo de arrolamento de bens em 08/10/2021. Comissão de fiscalização emitiu o Parecer 15/2022 atestando a conclusão dos trabalhos iniciais (subcláusula 18.1.6). Reajuste de 22,54% (IPCA) sobre a TBP quilométrica, que passa da tarifa ofertada no leilão para a de 12,521 (em centésimos de milésimos de real); NT SEI da SUROD de 16/09/2022. Cobrança autorizada a partir de 0h de 03/10/2022. Tarifas categoria 1 após arredondamento: R$ 8,30 (P1 Aliança do Tocantins), R$ 11,40 (P2 Alvorada), R$ 11,00 (P3 Porangatu), R$ 10,60 (P4 Estrela do Norte), R$ 13,10 (P5 Campinorte, P6 Hidrolina, P8 Santa Rita do Novo Destino e P9 Corumbá de Goiás) e R$ 14,20 (P7 Jaraguá).",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aprova início da cobrança e reajuste", "ts": "0:01:44", "justificativa": "conclusão dos trabalhos iniciais atestada; reajuste conforme subcláusula 18.5.1; benefícios já entregues aos usuários (recuperação de pista, defensas, sinalização, PPDs)", "tom": "entusiasmado, com balanço de obras", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "de acordo, acompanha o relator", "ts": "0:12:20", "confianca": "media"},
+        {"diretor": "Cristiano Della Giustina", "voto": "de acordo; parabeniza o relator pelo voto extenso, completo e preciso", "ts": "0:12:26", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "de acordo com a proposta do relator; proclama unanimidade", "ts": "0:12:44", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática: número do processo parcial, valores e nomes de praças podem conter erros; tarifa quilométrica anotada como falada (10,18 e 12,521 em centésimos de milésimos de real).", "Nome do diretor Cristiano inferido pelas saudações (Cristiano Della Giustina); ordem exata dos votos de seguidores e ts aproximados.", "Os rótulos de falante automáticos estão incorretos (tudo atribuído a Guilherme Sampaio); falas atribuídas por contexto."]
+}

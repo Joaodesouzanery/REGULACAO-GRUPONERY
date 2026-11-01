@@ -3,10 +3,14 @@
 {
  "diretor": "Luciano Lourenço",
  "cargo": "Diretor",
- "inicio": null,
- "fim": "2025-02",
  "situacao": "titular",
- "fonte": "votos em reunioes de 2025 ate o fim do mandato (fev/2025, substituido por Alex Azevedo)",
- "confianca": "baixa",
- "verificar": "datas oficiais"
+ "nomeacao_dou": null,
+ "senado": null,
+ "inicio": null,
+ "fim": "2025-02-13",
+ "inicio_tipo": "anterior a 2023",
+ "fim_tipo": "estimado: último voto em 13/02/2025; Agência iNFRA: mandato terminou em fev/2025 (vaga ocupada depois por Alex Azevedo)",
+ "fonte": "votos nas transcrições; Agência iNFRA",
+ "confianca": "media",
+ "verificar": "DOU"
 }

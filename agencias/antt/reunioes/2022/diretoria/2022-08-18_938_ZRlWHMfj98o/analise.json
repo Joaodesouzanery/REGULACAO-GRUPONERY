@@ -1,0 +1,72 @@
+{
+  "meta": {"video_id": "ZRlWHMfj98o", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:07:52); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "938", "data": "2022-08-18", "formato": "videoconferência",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Davi Barreto", "Luciano Lourenço", "Guilherme Sampaio", "Cristiano Della Giustina"],
+    "ausentes": [],
+    "observacoes": ["Abertura com boas-vindas ao novo diretor Cristiano Della Giustina, servidor da casa desde 2007 (especialista em regulação).", "Encerrada às 18h04 de 18/08/2022.", "Item 2.2.1 (Concessionária Rio-Teresópolis) retirado de pauta pelo relator, o que esvaziou a sustentação oral já agendada (advogados Arthur e Carlos Eduardo)."]
+  },
+  "itens": [
+    {
+      "id": "2.1.1", "ts": "0:11:14",
+      "processo": "50500.0031xx/2022-12 (parcial)", "interessado": "Ecorodovias Concessões e Serviços S.A. / Eco Rio Minas Concessionária de Rodovias S.A. (BR-116/465/493 RJ–MG; edital 1/2022)",
+      "assunto": "Homologação do resultado do leilão, emissão do ato de outorga e autorização para assinatura do contrato de concessão da BR-116/465/493 (Rio de Janeiro–Minas Gerais)",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "reequilíbrio contratual"],
+      "relator": "Davi Barreto", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Leilão realizado em maio de 2022 com vitória da Ecorodovias; resultado adjudicado pela diretoria em julho; cumpridas as condições prévias da subcláusula 16.3 do edital (garantia de execução, SPE, integralização de capital, apólices, estrutura societária), conforme a comissão de outorga. A atual concessionária (CRT, Rio–Teresópolis) pediu em 17/08/2022 a retirada de pauta, alegando que a reversão dos bens só poderia ocorrer após a recomposição do equilíbrio econômico-financeiro do contrato; o relator rejeitou a tese: a reversão é imediata ao término da concessão, a indenização por investimentos não amortizados é devida mas não condiciona a reversão, e o acolhimento poria em risco a continuidade da licitação e os usuários.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "relator, homologa e emite ato de outorga em favor da Eco Rio Minas; autoriza assinatura do contrato", "ts": "0:11:39", "justificativa": "todas as condições prévias cumpridas; pedido da CRT sem respaldo técnico ou jurídico; risco à continuidade do certame e aos usuários", "tom": "técnico e firme", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente; destaca a legalidade do processo e o interesse do usuário", "ts": "0:17:38", "justificativa": "legalidade atendida; acolher o pleito contrariaria o interesse público e investimentos e inovações previstos", "confianca": "baixa"},
+        {"diretor": "Luciano Lourenço", "voto": "acompanha integralmente", "ts": "0:18:00", "confianca": "baixa"},
+        {"diretor": "Cristiano Della Giustina", "voto": "acompanha; parabeniza Davi pelo voto claro e transparente", "ts": "0:18:14", "justificativa": "transparência e retidão dos atos da agência", "confianca": "baixa"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha integralmente o relator; proclama unanimidade", "ts": "0:18:44", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.2.1", "ts": "0:19:37",
+      "processo": "50510.316444/2018-29 (parcial)", "interessado": "Concessionária Rio-Teresópolis S.A. (CRT)",
+      "assunto": "Pedido de reconsideração contra a Deliberação 193/2021 (de 25/05/2021); sustentação oral solicitada pela concessionária",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "fiscalização e sanções"],
+      "relator": "Guilherme Sampaio", "resultado": "retirado de pauta pelo relator",
+      "resumo_voto": "O relator informa que o processo tem questões que exigem análise mais detida e acurada e, com base no regimento, retira de pauta; a sustentação oral perde o objeto neste momento e será feita quando o item voltar.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, retira de pauta", "ts": "0:20:14", "justificativa": "necessidade de análise mais aprofundada do processo", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.2.2", "ts": "0:20:54",
+      "processo": "50520.060518/2015-96 (parcial)", "interessado": "Autopista Litoral Sul S.A.",
+      "assunto": "Recurso à diretoria contra decisão da SUROD sobre auto de infração por fila de 9 km decorrente de obra de pavimentação em horário de alto tráfego (desacordo com o PER e normas técnicas); alegação de prescrição intercorrente",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade — recurso conhecido, efeito suspensivo negado e desprovido; multa mantida",
+      "resumo_voto": "A PF/ANTT concluiu que o processo não ficou paralisado por mais de três anos, afastando a prescrição intercorrente. Agravante por violação do art. 7º, inc. VII, da Res. ANTT 4.071/2013; multa fixada em 177,75 URT após reduções (valor conforme falado). Recurso conhecido, efeito suspensivo negado, mérito improvido.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, conhece, nega efeito suspensivo e nega provimento", "ts": "0:21:30", "justificativa": "parecer da PF afasta a prescrição intercorrente; argumentos da concessionária improcedentes", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "de acordo com o relator", "ts": "0:24:40", "confianca": "baixa"},
+        {"diretor": "Luciano Lourenço", "voto": "de acordo com o relator", "ts": "0:24:45", "confianca": "baixa"},
+        {"diretor": "Cristiano Della Giustina", "voto": "de acordo com o relator", "ts": "0:24:49", "confianca": "baixa"},
+        {"diretor": "Rafael Vitale", "voto": "de acordo com o relator; proclama unanimidade", "ts": "0:24:53", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.3.1", "ts": "0:25:04",
+      "processo": "50500.050180/2017-02 (parcial)", "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (Concer)",
+      "assunto": "Recurso contra a decisão 146/2020 da SUROD (22/12/2020) que manteve multa por não recomposição de cercas limítrofes à faixa de domínio junto à balança móvel no km 104 da BR-040 (RJ)",
+      "tema": ["concessões rodoviárias", "fiscalização e sanções"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade — recurso conhecido e desprovido; multa de 70 URT mantida",
+      "resumo_voto": "Autuação em 13/02/2017; multa-base de 100 URT reduzida a 70 URT por atenuantes (Res. 5.083/2016). Recurso tempestivo e por parte legítima, mas sem elemento que afaste a responsabilidade; atenuante adicional de 10% pleiteada não existe em regulamento da agência. Infração do art. 5º, inc. XIV, da Res. 4.071/2013.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, conhece e nega provimento; mantém multa de 70 URT", "ts": "0:25:30", "justificativa": "ausência de elementos que afastem a responsabilidade; atenuante pedida sem previsão regulamentar", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "de acordo com o relator", "ts": "0:29:20", "confianca": "baixa"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "0:29:28", "confianca": "baixa"},
+        {"diretor": "Cristiano Della Giustina", "voto": "de acordo com o relator", "ts": "0:29:34", "confianca": "baixa"},
+        {"diretor": "Rafael Vitale", "voto": "de acordo; proclama unanimidade", "ts": "0:29:42", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"item": "2.2.1 — pedido de reconsideração da Concessionária Rio-Teresópolis contra a Deliberação 193/2021", "relator": "Guilherme Sampaio", "motivo": "análise mais detida pelo relator; sustentação oral adiada", "ts": "0:20:14"}
+  ],
+  "limites_da_analise": ["Legenda automática: números de processo parciais (conferir nos autos); datas e números de edital (ex.: dito edital 1/2002 e leilão em 2.002) corrigidos por contexto como 2022; valor da multa 177,75 URT falado com ruído.", "Rótulos de falante automáticos estão incorretos; falas atribuídas por contexto. A ordem e a autoria dos votos de seguidores nos itens 2.1.1, 2.2.2 e 2.3.1 são inferidas (confiança baixa).", "Na legenda o nome do novo diretor aparece como Cristiano (Della Giustina) e Jean Della Justina; adotado Cristiano Della Giustina.", "Quem pediu a retirada de pauta no 2.1.1 foi a CRT (17/08); o relator rejeitou e o plenário concordou."]
+}

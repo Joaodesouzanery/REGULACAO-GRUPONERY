@@ -1,17 +1,16 @@
 # Perfil analítico — Alex Azevedo · tema: fiscalizacao_sancoes
 
-**Amostra:** presente em 33 das 37 reuniões analisadas em que há registro de presença/ausência; 38 votos neste tema; 9 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 32 das 36 reuniões analisadas em que há registro de presença/ausência; 37 votos neste tema; 9 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 28 (96% dos votos em que não era relator) · relator 9 · vista pedida 1 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 27 (96% dos votos em que não era relator) · relator 9 · vista pedida 1 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 9/9 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 96/12; onibus 45/11; leilao_otimizacao 44/6; reequilibrio_contratual 39/5; fiscalizacao_sancoes 38/9; pedagio_freeflow 33/5; participacao_social 33/7; onibus_regular 30/6; ferrovias 30/6; judicializacao 29/6; regulacao_normativa 26/4; sandbox_inovacao 16/1; tarifa_modicidade 14/4; cargas 14/5; institucional 13/2; sustentabilidade 10/2; onibus_fretamento 8/2; onibus_semiurbano 4/1
-**Argumentos recorrentes nas justificativas registradas:** interesse público (2); usuário (2); transparência (2); evidência/dados (2); proporcionalidade (2); concorrência (2)
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 94/12; onibus 45/11; leilao_otimizacao 43/6; reequilibrio_contratual 39/5; fiscalizacao_sancoes 37/9; pedagio_freeflow 33/5; participacao_social 32/7; onibus_regular 30/6; ferrovias 30/6; judicializacao 28/6; regulacao_normativa 26/4; sandbox_inovacao 15/1; tarifa_modicidade 14/4; cargas 14/5; institucional 12/2; sustentabilidade 10/2; onibus_fretamento 8/2; onibus_semiurbano 4/1
+**Argumentos recorrentes nas justificativas registradas:** usuário (2); transparência (2); evidência/dados (2); proporcionalidade (2); concorrência (2); governança/rito (1)
 **Tom (inferência da leitura, não métrica):** didático | propositivo, estruturante | cuidadoso, exige evidência | enfático, apoiado em dados | firme | firme, normativo | firme, argumentação baseada em números e histórico
 
 ## Evidências (reunião · item · voto · justificativa)
 
-- **RD 95 (extraordinária) (2025-09-02)**, item extrapauta — Extrapauta: recurso administrativo do Bradesco BBI com pedido de efeito suspensivo contra decisão monocrática do Diretor-Geral (Despacho DG  · voto: *acompanha integralmente* (acompanha, conf. alta) · «preservação do interesse público e da competência da agência» · [vídeo](https://www.youtube.com/watch?v=_edCUoWtVP0&t=1710s) · resultado: aprovado por unanimidade — recurso conhecido e desprovido; mantida a m
 - **RD 1016 (2025-09-11)**, item 1.1.1 — Recurso administrativo contra a Decisão 31/2025 CIPR/SUROD (que manteve a multa após a Decisão 115 da GEFOP/SUROD) · voto: *acompanha o relator* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=L7v7zskusEw&t=1650s) · resultado: aprovado por unanimidade — recurso conhecido e desprovido
 - **RD 1016 (2025-09-11)**, item 1.1.2 — Recurso administrativo contra a Decisão 21/2025 CIPR/SUROD e a Decisão 454/2024 GEFOP/SUROD (contrato PG 138/95) · voto: *acompanha o relator* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=L7v7zskusEw&t=1650s) · resultado: aprovado por unanimidade — recurso conhecido e desprovido
 - **RD 1016 (2025-09-11)**, item 1.2.2 a 1.2.6 — Cinco recursos administrativos contra decisões da SUROD (Decisões 61/2025, 40/2025, 14/2025, 47/2025 e 15/2025), julgados em bloco com dispe · voto: *de acordo na integralidade* (acompanha, conf. alta) · «chama atenção para a quantidade de multas sobre a mesma concessionária em uma só reunião» · [vídeo](https://www.youtube.com/watch?v=L7v7zskusEw&t=2038s) · resultado: aprovado por unanimidade — recursos conhecidos e desprovidos

@@ -1,11 +1,11 @@
 # Perfil analítico — Alex Azevedo · tema: reequilibrio_contratual
 
-**Amostra:** presente em 33 das 37 reuniões analisadas em que há registro de presença/ausência; 39 votos neste tema; 5 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 32 das 36 reuniões analisadas em que há registro de presença/ausência; 39 votos neste tema; 5 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
 **Votos:** acompanha o relator 34 (100% dos votos em que não era relator) · relator 5 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 5/5 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 96/12; onibus 45/11; leilao_otimizacao 44/6; reequilibrio_contratual 39/5; fiscalizacao_sancoes 38/9; pedagio_freeflow 33/5; participacao_social 33/7; onibus_regular 30/6; ferrovias 30/6; judicializacao 29/6; regulacao_normativa 26/4; sandbox_inovacao 16/1; tarifa_modicidade 14/4; cargas 14/5; institucional 13/2; sustentabilidade 10/2; onibus_fretamento 8/2; onibus_semiurbano 4/1
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 94/12; onibus 45/11; leilao_otimizacao 43/6; reequilibrio_contratual 39/5; fiscalizacao_sancoes 37/9; pedagio_freeflow 33/5; participacao_social 32/7; onibus_regular 30/6; ferrovias 30/6; judicializacao 28/6; regulacao_normativa 26/4; sandbox_inovacao 15/1; tarifa_modicidade 14/4; cargas 14/5; institucional 12/2; sustentabilidade 10/2; onibus_fretamento 8/2; onibus_semiurbano 4/1
 **Argumentos recorrentes nas justificativas registradas:** transparência (3); evidência/dados (2); segurança jurídica (2); governança/rito (1); segurança viária (1); usuário (1)
 **Tom (inferência da leitura, não métrica):** propositivo | didático | cuidadoso, transparência | didático e narrativo, dirigido ao público | didático, minucioso
 

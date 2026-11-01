@@ -736,8 +736,6 @@
   - votos: Felipe: relator; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=i65Q4DVJA6s&t=579s)
 - **RD 1015 (2025-08-29)**, 1.2.1 e 1.2.2 · relator **Lucas Asfor** · Processos administrativos ordinários para apurar infrações à legislação do transporte interestadual semiurbano de passageiros (fiscalização de frota e → aprovado por unanimidade — advertência, com determinação adicional (complemento de Felipe 
   - votos: Lucas: relator; Felipe: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=AO9wlMZ_8p8&t=750s)
-- **RD 95 (extraordinária) (2025-09-02)**, extrapauta · relator **Guilherme Sampaio** · Extrapauta: recurso administrativo do Bradesco BBI com pedido de efeito suspensivo contra decisão monocrática do Diretor-Geral (Despacho DG de 05/02/2 → aprovado por unanimidade — recurso conhecido e desprovido; mantida a medida cautelar
-  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Amaral: acompanha · [vídeo](https://www.youtube.com/watch?v=_edCUoWtVP0&t=1190s)
 - **RD 1016 (2025-09-11)**, 1.1.1 · relator **Felipe Queiroz** · Recurso administrativo contra a Decisão 31/2025 CIPR/SUROD (que manteve a multa após a Decisão 115 da GEFOP/SUROD) → aprovado por unanimidade — recurso conhecido e desprovido
   - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Amaral: acompanha · [vídeo](https://www.youtube.com/watch?v=L7v7zskusEw&t=1437s)
 - **RD 1016 (2025-09-11)**, 1.1.2 · relator **Felipe Queiroz** · Recurso administrativo contra a Decisão 21/2025 CIPR/SUROD e a Decisão 454/2024 GEFOP/SUROD (contrato PG 138/95) → aprovado por unanimidade — recurso conhecido e desprovido

@@ -32,8 +32,6 @@
   - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=SZtglx45jNw&t=481s)
 - **RD 1013 (2025-08-01)**, 1.2.7 · relator **Felipe Queiroz** · Novo termo de referência do ambiente regulatório experimental (sandbox, Res. 5.999/2022) para processo competitivo de eventual transferência de contro → aprovado por unanimidade
   - votos: Felipe: relator; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=mUFBjDvQ9VM&t=3870s)
-- **RD 95 (extraordinária) (2025-09-02)**, 1.1.1 · relator **Guilherme Sampaio** · Aprovação do relatório final da consulta pública 1/2025 e do edital do processo competitivo para a otimização/modernização do contrato de concessão da → aprovado por unanimidade
-  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Amaral: acompanha · [vídeo](https://www.youtube.com/watch?v=_edCUoWtVP0&t=460s)
 - **RD 1020 (2025-11-05)**, extra-2 · relator **Felipe Queiroz** · Extrapauta: edital de sandbox regulatório para o projeto-piloto Corredor Logístico Sustentável de transporte intermodal (segurança viária, gestão ambi → aprovado por unanimidade
   - votos: Felipe: relator; Lucas: acompanha; Alex: outro; Amaral: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=KsteuYm_RoM&t=3655s)
 - **RD 1020 (2025-11-05)**, 1.3.8 · relator **Lucas Asfor** · Abertura de consulta pública sobre a readaptação e otimização do contrato (solução consensual aprovada pelo TCU, CSC/SecexConsenso) com processo compe → aprovado por unanimidade

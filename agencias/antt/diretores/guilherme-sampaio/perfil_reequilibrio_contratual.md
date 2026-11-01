@@ -1,11 +1,11 @@
 # Perfil analítico — Guilherme Sampaio · tema: reequilibrio_contratual
 
-**Amostra:** presente em 113 das 121 reuniões analisadas em que há registro de presença/ausência; 127 votos neste tema; 25 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 112 das 120 reuniões analisadas em que há registro de presença/ausência; 127 votos neste tema; 25 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
 **Votos:** acompanha o relator 100 (98% dos votos em que não era relator) · relator 25 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 2
 **Como relator:** 24/25 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 393/89; fiscalizacao_sancoes 369/69; onibus 210/35; onibus_regular 149/24; reequilibrio_contratual 127/25; regulacao_normativa 121/28; leilao_otimizacao 111/39; participacao_social 104/26; judicializacao 88/15; ferrovias 85/17; institucional 72/22; pedagio_freeflow 52/6; onibus_fretamento 49/10; cargas 37/9; sandbox_inovacao 31/11; sustentabilidade 22/5; tarifa_modicidade 15/0; onibus_semiurbano 8/2; outros 1/0
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 391/87; fiscalizacao_sancoes 368/68; onibus 210/35; onibus_regular 149/24; reequilibrio_contratual 127/25; regulacao_normativa 121/28; leilao_otimizacao 110/38; participacao_social 103/25; judicializacao 87/14; ferrovias 85/17; institucional 71/21; pedagio_freeflow 52/6; onibus_fretamento 49/10; cargas 37/9; sandbox_inovacao 30/10; sustentabilidade 22/5; tarifa_modicidade 15/0; onibus_semiurbano 8/2; outros 1/0
 **Argumentos recorrentes nas justificativas registradas:** TCU/controle externo (5); transparência (5); segurança jurídica (3); usuário (3); sustentabilidade (3); eficiência/celeridade (2)
 **Tom (inferência da leitura, não métrica):** elogioso
 

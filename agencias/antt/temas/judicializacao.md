@@ -136,8 +136,6 @@
   - votos: Lucas: revisor_diverge; Felipe: revisor_acompanha; Guilherme: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=AO9wlMZ_8p8&t=1248s)
 - **RD 1015 (2025-08-29)**, 1.2.4 · relator **Lucas Asfor** · Pedido de reconsideração do ofício que negou a retificação da Decisão SUPAS 3051/2024 (27/12/2024) para incluir, sub judice, o mercado Teresina/PI–Bar → aprovado por unanimidade — recurso provido
   - votos: Lucas: relator; Felipe: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=AO9wlMZ_8p8&t=1690s)
-- **RD 95 (extraordinária) (2025-09-02)**, extrapauta · relator **Guilherme Sampaio** · Extrapauta: recurso administrativo do Bradesco BBI com pedido de efeito suspensivo contra decisão monocrática do Diretor-Geral (Despacho DG de 05/02/2 → aprovado por unanimidade — recurso conhecido e desprovido; mantida a medida cautelar
-  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Amaral: acompanha · [vídeo](https://www.youtube.com/watch?v=_edCUoWtVP0&t=1190s)
 - **RD 1016 (2025-09-11)**, 1.2.10 · relator **Felipe Queiroz** · Suspensão dos efeitos da Deliberação 88/2025 (26/02/2025) em cumprimento a decisão judicial em agravo de instrumento, que suspendeu a liminar que auto → aprovado por unanimidade
   - votos: Lucas: revisor_acompanha; Felipe: revisor_acompanha; Alex: revisor_acompanha; Amaral: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=L7v7zskusEw&t=3390s)
 - **RD 1018 (2025-10-08)**, 1.2.1 · relator **Felipe Queiroz** · Autorização para operar as linhas Campo Grande (MS)–Brasília (DF) via São José do Rio Preto (SP) e via Uberaba (MG), por decisão judicial (mandado de  → aprovado por unanimidade — deferido em cumprimento de decisão judicial, condição sub judic

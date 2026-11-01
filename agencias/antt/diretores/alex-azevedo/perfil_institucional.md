@@ -1,16 +1,15 @@
 # Perfil analítico — Alex Azevedo · tema: institucional
 
-**Amostra:** presente em 33 das 37 reuniões analisadas em que há registro de presença/ausência; 13 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 32 das 36 reuniões analisadas em que há registro de presença/ausência; 12 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 11 (100% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 10 (100% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 2/2 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 96/12; onibus 45/11; leilao_otimizacao 44/6; reequilibrio_contratual 39/5; fiscalizacao_sancoes 38/9; pedagio_freeflow 33/5; participacao_social 33/7; onibus_regular 30/6; ferrovias 30/6; judicializacao 29/6; regulacao_normativa 26/4; sandbox_inovacao 16/1; tarifa_modicidade 14/4; cargas 14/5; institucional 13/2; sustentabilidade 10/2; onibus_fretamento 8/2; onibus_semiurbano 4/1
-**Argumentos recorrentes nas justificativas registradas:** interesse público (1); governança/rito (1); eficiência/celeridade (1); evidência/dados (1)
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 94/12; onibus 45/11; leilao_otimizacao 43/6; reequilibrio_contratual 39/5; fiscalizacao_sancoes 37/9; pedagio_freeflow 33/5; participacao_social 32/7; onibus_regular 30/6; ferrovias 30/6; judicializacao 28/6; regulacao_normativa 26/4; sandbox_inovacao 15/1; tarifa_modicidade 14/4; cargas 14/5; institucional 12/2; sustentabilidade 10/2; onibus_fretamento 8/2; onibus_semiurbano 4/1
+**Argumentos recorrentes nas justificativas registradas:** governança/rito (1); eficiência/celeridade (1); evidência/dados (1)
 
 ## Evidências (reunião · item · voto · justificativa)
 
-- **RD 95 (extraordinária) (2025-09-02)**, item extrapauta — Extrapauta: recurso administrativo do Bradesco BBI com pedido de efeito suspensivo contra decisão monocrática do Diretor-Geral (Despacho DG  · voto: *acompanha integralmente* (acompanha, conf. alta) · «preservação do interesse público e da competência da agência» · [vídeo](https://www.youtube.com/watch?v=_edCUoWtVP0&t=1710s) · resultado: aprovado por unanimidade — recurso conhecido e desprovido; mantida a m
 - **RD 1018 (2025-10-08)**, item 1.1.1 — Instituição da Comissão de Acompanhamento de Avaliação e Desempenho (CAAD) e aprovação do seu regimento interno · voto: *de acordo com o relator* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=U4NrWpy5b6E&t=1645s) · resultado: aprovado por unanimidade
 - **RD 1019 (2025-10-23)**, item 1.1.1 — Solução consensual do COMPOR 6/2025: devolução do trecho Salgueiro/PE - Porto de Suape/PE (cerca de 522 km) e controvérsias do primeiro term · voto: *acompanha integralmente* (acompanha, conf. alta) · «o Nordeste volta ao mapa dos trilhos com a Transnordestina» · [vídeo](https://www.youtube.com/watch?v=CezCZuXfe5A&t=2200s) · resultado: aprovado por unanimidade
 - **RD 1023 (2025-12-17)**, item 1.1.1 — Proposta de Plano Estratégico 2026/2029 da ANTT · voto: *acompanha integralmente o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=x8QgM4O8I_Y&t=2635s) · resultado: aprovado por unanimidade

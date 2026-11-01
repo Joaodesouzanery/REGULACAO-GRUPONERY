@@ -174,8 +174,6 @@
   - votos: Felipe: relator; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=i65Q4DVJA6s&t=781s)
 - **RD 1015 (2025-08-29)**, 1.2.5 · relator **Lucas Asfor** · Relatório final da audiência pública 2/2025 sobre minutas de edital e contrato, PER e EVTEA da concessão da BR-324 e BR-116 na Bahia («Rota 2 de Julho → aprovado por unanimidade — com ajustes incorporados (declaração de voto de Felipe Queiroz)
   - votos: Lucas: relator; Felipe: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=AO9wlMZ_8p8&t=2070s)
-- **RD 95 (extraordinária) (2025-09-02)**, 1.1.1 · relator **Guilherme Sampaio** · Aprovação do relatório final da consulta pública 1/2025 e do edital do processo competitivo para a otimização/modernização do contrato de concessão da → aprovado por unanimidade
-  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Amaral: acompanha · [vídeo](https://www.youtube.com/watch?v=_edCUoWtVP0&t=460s)
 - **RD 1018 (2025-10-08)**, 1.1.2 · relator **Guilherme Sampaio** · Complementação do relatório final da Consulta Pública 1/2025 (otimização/modernização do contrato da BR-381/MG-SP, edital de processo competitivo 4/20 → aprovado por unanimidade
   - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Amaral: acompanha · [vídeo](https://www.youtube.com/watch?v=U4NrWpy5b6E&t=1653s)
 - **RD 1018 (2025-10-08)**, 1.4.1 · relator **Amaral Filho** · Abertura de audiência pública sobre a proposta preliminar da revisão quinquenal do contrato de concessão 1/2019 (BR-101, BR-290, BR-386 e BR-448/RS) → aprovado por unanimidade

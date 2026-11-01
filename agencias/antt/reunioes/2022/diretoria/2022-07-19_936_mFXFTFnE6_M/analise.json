@@ -1,0 +1,40 @@
+{
+  "meta": {"video_id": "mFXFTFnE6_M", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "936", "data": "2022-07-19", "formato": "videoconferência",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Guilherme Sampaio", "Luciano Lourenço"],
+    "ausentes": ["Davi Barreto (férias)"],
+    "observacoes": ["Gravação começa na aprovação da ata da RD 935 (o início da sessão não está na transmissão capturada).", "Dois itens, ambos aprovados por unanimidade; encerrada às 10h50 de 19/07/2022.", "No piso mínimo do frete, a MP 1.117/2022 reduziu de 10% para 5% o gatilho de variação do diesel para nova publicação."]
+  },
+  "itens": [
+    {
+      "id": "2.1.1", "ts": "0:00:24",
+      "processo": "50500.041883/2019-66 (parcial)", "interessado": "SUFER — Superintendência de Ferrovias",
+      "assunto": "Agenda regulatória 2021/22: alteração da norma do transporte ferroviário de produtos perigosos (primeira etapa), adaptando-a à Lei 14.273/2021 (Lei das Ferrovias), com dispensa de AIR e de PPCS",
+      "tema": ["ferrovias", "regulação normativa"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Alterações pontuais para adequar o regulamento (Res. 2.748/2008) ao art. 54 da Lei 14.273, que manda o transporte de produtos perigosos seguir a legislação ambiental, o regulador ferroviário ou, na ausência, as normas da ABNT. PF/ANTT deu parecer pela correção jurídica; remissão a normas ABNT é prática comum da agência, de contratos já examinados pelo TCU e de outras agências (ANAC, DNIT); a ANTT tem acesso às normas por contrato com a ABNT. Dispensa de AIR e de PPCS por se tratar de consolidação de normas, com manifestação favorável da PF; proposta foi publicizada às entidades do setor ferroviário.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova dispensa de AIR e de PPCS e a minuta de resolução", "ts": "0:00:50", "justificativa": "adequação à Lei 14.273/2021; segurança jurídica e técnica da remissão às normas ABNT; promoção da segurança e estímulo à ampliação do transporte ferroviário de produtos perigosos", "confianca": "alta"},
+        {"diretor": "Luciano Lourenço", "voto": "de acordo com o relator", "ts": "0:06:12", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "de acordo com o relator; proclama unanimidade", "ts": "0:06:15", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.2.1", "ts": "0:06:27",
+      "processo": "50500.393248/2019-69 (parcial)", "interessado": "SUROC — Superintendência de Cargas",
+      "assunto": "Alteração da Res. 5.867/2020: atualização dos coeficientes dos pisos mínimos de frete por quilômetro rodado por eixo (IPCA e diesel S10), com publicação até 20/07/2022",
+      "tema": ["transporte rodoviário de cargas (piso mínimo do frete/CIOT)", "regulação normativa"],
+      "relator": "Luciano Lourenço", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Reajuste obrigatório (Lei 13.703/2018, art. 5º, com a redação da MP 1.117/2022): IPCA acumulado de 6,26% (dez/21 a jun/22) e diesel S10 a R$ 7,583/litro (ANP, semana de 10 a 16/07/2022) aplicados sobre os coeficientes da Portaria ANTT 210/2022. Impacto médio entre 0,87% (operação de alto desempenho, só veículo automotor) e 1,96% (lotação, tabela A); tabela A de lotação, só veículo automotor, 1,51%; lotação de alto desempenho, 1,3%. Dispensa de AIR e de PPCS por decorrer de determinação legal, sem discricionariedade. Revisão da Res. 5.867 (incluindo a metodologia da PNPM e o novo gatilho de 5%) prevista até 20/01/2023, com pesquisa de insumos conduzida pela EPL com a ANTT, de 11 a 20/07/2022.",
+      "votos": [
+        {"diretor": "Luciano Lourenço", "voto": "relator, aprova reajuste e dispensas", "ts": "0:06:56", "justificativa": "cumprimento do prazo legal (publicação até 20/07/2022) e uso dos índices mais recentes", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "0:14:05", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "de acordo com o relator; proclama unanimidade", "ts": "0:14:12", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática: números de processo parciais e normas citadas com erros (ex.: a resolução alterada no item 2.1.1 foi dita de forma ambígua; a Lei 14.273 aparece grafada de várias formas).", "Os percentuais por tabela do piso (0,87%, 1,96%, 1,51%, 1,3%) foram ditos com ruído; confira a nota técnica antes de citar.", "Rótulos de falante automáticos estão incorretos; falas atribuídas por contexto.", "Davi Barreto ausente: a legenda diz diretor «da vista» está de férias, interpretado como Davi."]
+}

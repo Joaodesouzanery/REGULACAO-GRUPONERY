@@ -3,12 +3,14 @@
 {
  "diretor": "Marcelo Fonseca",
  "cargo": "Diretor substituto",
+ "situacao": "substituto",
+ "nomeacao_dou": null,
+ "senado": null,
  "inicio": "2026-08-27",
  "fim": null,
- "situacao": "substituto",
- "fonte": "primeira reunião analisada com ele: 27/08/2026",
+ "inicio_tipo": "primeiro voto (27/08/2026); Agência iNFRA noticia convocação para substituir diretor",
+ "fim_tipo": "em exercício na última reunião analisada (22/10/2026)",
+ "fonte": "votos; Agência iNFRA",
  "confianca": "baixa",
- "verificar": "datas exatas e nome",
- "confirmado": "nao",
- "obs": "sem fonte oficial localizada; Severino Medeiros e Marcelo Fonseca tiveram indicação/convocação noticiadas pela Agência iNFRA (verificar no DOU)"
+ "verificar": "portaria"
 }

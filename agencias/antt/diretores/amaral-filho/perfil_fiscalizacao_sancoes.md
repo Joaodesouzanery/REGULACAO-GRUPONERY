@@ -1,16 +1,15 @@
 # Perfil analítico — Amaral Filho · tema: fiscalizacao_sancoes
 
-**Amostra:** presente em 9 das 9 reuniões analisadas em que há registro de presença/ausência; 18 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 8 das 8 reuniões analisadas em que há registro de presença/ausência; 17 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 16 (100% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 15 (100% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 2/2 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 21/1; onibus 20/2; onibus_regular 18/2; fiscalizacao_sancoes 18/2; judicializacao 12/1; regulacao_normativa 9/1; reequilibrio_contratual 9/1; ferrovias 9/1; participacao_social 8/2; leilao_otimizacao 7/0; pedagio_freeflow 5/1; sandbox_inovacao 4/0; cargas 4/1; institucional 3/0; sustentabilidade 2/0; onibus_fretamento 2/0
+**Temas (nº de itens em que votou / relatorias):** onibus 20/2; concessoes_rodoviarias 19/1; onibus_regular 18/2; fiscalizacao_sancoes 17/2; judicializacao 11/1; regulacao_normativa 9/1; reequilibrio_contratual 9/1; ferrovias 9/1; participacao_social 7/2; leilao_otimizacao 6/0; pedagio_freeflow 5/1; cargas 4/1; sandbox_inovacao 3/0; sustentabilidade 2/0; onibus_fretamento 2/0; institucional 2/0
 **Argumentos recorrentes nas justificativas registradas:** transparência (1); concorrência (1); usuário (1); segurança jurídica (1); governança/rito (1)
 
 ## Evidências (reunião · item · voto · justificativa)
 
-- **RD 95 (extraordinária) (2025-09-02)**, item extrapauta — Extrapauta: recurso administrativo do Bradesco BBI com pedido de efeito suspensivo contra decisão monocrática do Diretor-Geral (Despacho DG  · voto: *apoia o voto do relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=_edCUoWtVP0&t=1747s) · resultado: aprovado por unanimidade — recurso conhecido e desprovido; mantida a m
 - **RD 1016 (2025-09-11)**, item 1.1.1 — Recurso administrativo contra a Decisão 31/2025 CIPR/SUROD (que manteve a multa após a Decisão 115 da GEFOP/SUROD) · voto: *acompanha o relator* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=L7v7zskusEw&t=1655s) · resultado: aprovado por unanimidade — recurso conhecido e desprovido
 - **RD 1016 (2025-09-11)**, item 1.1.2 — Recurso administrativo contra a Decisão 21/2025 CIPR/SUROD e a Decisão 454/2024 GEFOP/SUROD (contrato PG 138/95) · voto: *acompanha o relator* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=L7v7zskusEw&t=1655s) · resultado: aprovado por unanimidade — recurso conhecido e desprovido
 - **RD 1016 (2025-09-11)**, item 1.2.2 a 1.2.6 — Cinco recursos administrativos contra decisões da SUROD (Decisões 61/2025, 40/2025, 14/2025, 47/2025 e 15/2025), julgados em bloco com dispe · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=L7v7zskusEw&t=2113s) · resultado: aprovado por unanimidade — recursos conhecidos e desprovidos

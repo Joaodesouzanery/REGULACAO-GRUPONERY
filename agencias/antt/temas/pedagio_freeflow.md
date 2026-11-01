@@ -42,8 +42,6 @@
   - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=3KyK_89ogrM&t=1218s)
 - **RD 1001 (2025-02-13)**, 1.2.6 · relator **Luciano Lourenço** · Minuta de deliberação e termo aditivo referencial para a migração opcional da cobrança de pedágio ao free flow nos novos contratos, substituindo praça → aprovado por unanimidade
   - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=5q1TOuEcAD8&t=4860s)
-- **RD 90ª Extraordinária (2025-03 (aprox.; a confirmar))**, unico · relator **None** · Reajuste da tarifa básica de pedágio e início da cobrança nas praças existentes P1 Florestal, P3, P4 Campos Altos e P6 Perdizes (BR-262/MG, trecho ent → aprovado por unanimidade
-  - votos: Felipe: acompanha; Lucas: acompanha · [vídeo](https://www.youtube.com/watch?v=dIpQycne7g0&t=0s)
 - **RD 1004 (2025-03-27)**, 1.1.5 · relator **Lucas Asfor** · Aprovação do edital de concessão do lote CN2 Rota Agro-Norte: BR-364 entre Goiás e Mato Grosso, cerca de 409 km → aprovado por unanimidade
   - votos: Lucas: relator; Felipe: outro; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=mayS8ij1N3w&t=1182s)
 - **RD 92 (extraordinária) (2025-04-07)**, 1 · relator **Lucas Asfor** · Abertura de audiência pública para as minutas de edital e contrato, programa de exploração da rodovia e estudos de viabilidade da concessão do lote BR → aprovado por unanimidade

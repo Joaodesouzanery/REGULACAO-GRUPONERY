@@ -1,11 +1,11 @@
 # Perfil analítico — Lucas Asfor · tema: onibus_regular
 
-**Amostra:** presente em 114 das 119 reuniões analisadas em que há registro de presença/ausência; 146 votos neste tema; 47 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 112 das 117 reuniões analisadas em que há registro de presença/ausência; 146 votos neste tema; 47 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
 **Votos:** acompanha o relator 95 (95% dos votos em que não era relator) · relator 47 · vista pedida 1 · voto-vista divergente 2 · vencido 0 · outros/não captado 1
 **Como relator:** 46/47 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 403/110; fiscalizacao_sancoes 362/112; onibus 214/65; onibus_regular 146/47; reequilibrio_contratual 125/21; regulacao_normativa 122/24; leilao_otimizacao 117/41; participacao_social 111/30; judicializacao 87/22; ferrovias 83/18; institucional 66/4; onibus_fretamento 58/17; pedagio_freeflow 57/15; cargas 39/12; sandbox_inovacao 30/3; sustentabilidade 27/0; tarifa_modicidade 15/2; onibus_semiurbano 7/1; outros 1/0
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 400/110; fiscalizacao_sancoes 361/112; onibus 214/65; onibus_regular 146/47; reequilibrio_contratual 125/21; regulacao_normativa 122/24; leilao_otimizacao 116/41; participacao_social 110/30; judicializacao 86/22; ferrovias 83/18; institucional 65/4; onibus_fretamento 58/17; pedagio_freeflow 56/15; cargas 39/12; sandbox_inovacao 29/3; sustentabilidade 27/0; tarifa_modicidade 14/2; onibus_semiurbano 7/1; outros 1/0
 **Argumentos recorrentes nas justificativas registradas:** segurança jurídica (5); proporcionalidade (5); evidência/dados (4); governança/rito (2); TCU/controle externo (2); interesse público (2)
 **Tom (inferência da leitura, não métrica):** firme | técnico | doutrinário | cauteloso | cauteloso e institucional | cortês, ressalva institucional
 
