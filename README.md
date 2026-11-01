@@ -22,3 +22,6 @@ Limites: legenda automática erra nomes e números; falantes são inferidos pelo
 
 ## Reconstruir do zero
 `python3 pipeline/03_preparar.py` (gera os .md lidos pelo analista) → análise (`*.analise.json`, validar com `pipeline/validar.py`) → `python3 pipeline/05_indexar.py`.
+
+## Estrutura organizada (para qualquer pessoa/ferramenta que conectar o repositório)
+`agencias/antt/` — veja `agencias/antt/README.md`: reuniões por ano/tipo, diretores (perfil, votos, mandato), temas e exportações (CSV, trechos, banco). `data/` é a fonte de trabalho dos scripts; depois de cada atualização rode `python3 pipeline/05_indexar.py && python3 pipeline/organizar.py antt`.
