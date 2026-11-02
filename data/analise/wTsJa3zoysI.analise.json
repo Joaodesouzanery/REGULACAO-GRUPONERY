@@ -1,0 +1,775 @@
+{
+ "meta": {
+  "video_id": "wTsJa3zoysI",
+  "fonte": "legenda automática do YouTube; falantes inferidos pela legenda (rótulo inicial errado); ts = tempo do vídeo; ts de votos aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "820",
+  "data": "2019-07-30",
+  "formato": "presencial",
+  "presidente_da_sessao": "Mário Rodrigues Junior (Diretor-Geral)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Elisabeth Braga",
+   "Davi Barreto",
+   "Mário Rodrigues Junior"
+  ],
+  "ausentes": [
+   "Weber Ciloni (férias)"
+  ],
+  "observacoes": [
+   "Encerrada às 16h43. A legenda anuncia o número da reunião de modo confuso; o título do vídeo indica 820ª.",
+   "Ata da 819ª aprovada sem leitura.",
+   "Item 2.3.5 teve preferência de julgamento por causa da sustentação oral do advogado do Consórcio Guanabara; terminou em pedido de vista e retirada de pauta."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.3.5",
+   "ts": "0:06:55",
+   "processo": "50500.130457/2018-52 (número lido pela legenda: 50 500 1 304 577 2018 52; incerto)",
+   "interessado": "Consórcio Guanabara de Transportes / Real Expresso Ltda.",
+   "assunto": "Anuência prévia para transferência de mercados (linhas) do Consórcio Guanabara para a Real Expresso, com sustentação oral do advogado do consórcio; discussão sobre exigir ausência de multas impeditivas da empresa receptora (art. 51 da Resolução 4.770/2015)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções",
+    "judicializacao",
+    "regulação normativa"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "pedido de vista; sem decisão na sessão",
+   "resumo_voto": "Relatora expôs que a SUFIS apontou multas impeditivas da receptora (despacho de 15/07) e que, por orientação da Procuradoria (Despacho 10.880/2019), a regularidade é exigida da empresa receptora. Advogado sustentou que a Res. 4.770 não exige certidão negativa de multas, que a empresa parcela execuções fiscais e invocou decisões judiciais/súmula do STF contra sanção política. Relatora reconheceu que a agência vinha concedendo transferências sem consultar multas impeditivas e abriu a discussão; houve pedido de vista e o processo foi retirado da pauta para nova análise.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator; expõe o caso e submete a questão à discussão dos demais diretores (sem voto conclusivo registrado)",
+     "ts": "0:21:30",
+     "justificativa": "a questão virou interpretação jurídica do art. 51 da Res. 4.770; a agência vinha tratando casos anteriores sem consultar multas impeditivas e convém firmar entendimento válido daqui em diante",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Diretor não identificado (provável Davi Barreto)",
+     "voto": "pede vista",
+     "ts": "0:21:49",
+     "justificativa": "quer estudar melhor o tema por uma ou duas semanas, ouvir a Procuradoria sobre súmula vinculante/execução fiscal e pede que nenhum processo análogo seja pautado antes do entendimento",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "sem voto registrado (processo retirado de pauta)",
+     "ts": "0:23:42",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "sem voto registrado (processo retirado de pauta)",
+     "ts": "0:23:42",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:23:57",
+   "processo": "50500.350442/2019-50",
+   "interessado": "Superintendência de Gestão (SUGES)",
+   "assunto": "Referendo da Deliberação 757/2019 que autorizou afastamento de servidor para doutorado em políticas públicas (cumprimento de decisão judicial em mandado de segurança)",
+   "tema": [
+    "institucional",
+    "judicializacao"
+   ],
+   "relator": "Mário Rodrigues Junior",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Servidor obteve decisão judicial para afastamento de 24 meses para doutorado; a área optou por não recorrer; referendo nos termos da Lei 8.112/1990, art. 95, com ônus limitado para a ANTT.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:27:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:27:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:27:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "relator, aprova",
+     "ts": "0:27:25",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:27:50",
+   "processo": "50500.300534/2019-46",
+   "interessado": "Gomes Turismo e L&P (empresa de ônibus)",
+   "assunto": "Processo administrativo ordinário: indícios de falsificação de CRLV apresentado para habilitar veículo; constituição de comissão",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "DETRAN-PI informou que o CRLV apresentado não conferia com o cadastro; a empresa reapresentou outro CRLV com observações diferentes no mesmo dia de emissão. Voto por instaurar comissão de processo administrativo.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:30:18",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:30:18",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:30:18",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:30:18",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:30:36",
+   "processo": "50500.081552/2016-13",
+   "interessado": "SUFER (Superintendência de Infraestrutura e Serviços de Transporte Ferroviário de Cargas)",
+   "assunto": "Abertura de audiência pública: resolução sobre transporte ferroviário de cargas por operador ferroviário independente (OFI), revogação da Res. 4.348/2014 e revisão da Res. 3.695/2011 (agenda regulatória 2019/2020, eixo 4)",
+   "tema": [
+    "ferrovias",
+    "regulação normativa",
+    "participação social"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Adequação normativa à revogação do Decreto 8.129/2013 (afastou a Valec da gestão da capacidade operacional); Procuradoria favorável (Despacho 10.846/2019).",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:33:17",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:33:17",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:33:17",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:33:17",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3",
+   "ts": "0:33:37",
+   "processo": "50500.130752/2018-82",
+   "interessado": "Secretaria da Fazenda do Estado da Bahia (SEFAZ-BA)",
+   "assunto": "Acordo de cooperação técnica para o sistema Canal Verde Brasil (fiscalização inteligente do transporte rodoviário de cargas e passageiros), sem ônus e sem delegação de competências",
+   "tema": [
+    "fiscalização e sanções",
+    "transporte rodoviário de cargas",
+    "institucional"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Pareceres favoráveis da SUFIS e da Procuradoria; compartilhamento de soluções de fiscalização com o estado.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:35:21",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:35:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:35:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:35:21",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.4 a 2.2.6 (bloco)",
+   "ts": "0:35:49",
+   "processo": "50500.338582/2019-50; 50500.332942/2019-26; 50500.352785/2019-30 (números lidos pela legenda; incertos)",
+   "interessado": "Nossa Senhora da Penha; Risoul Riso Transporte de Fretamento; A.T. Ferreira Transportes",
+   "assunto": "Alteração de licença operacional e termos de autorização de fretamento, deliberados em bloco",
+   "tema": [
+    "ônibus (fretamento)",
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovados por unanimidade (em bloco)",
+   "resumo_voto": "Processos de rotina votados em bloco.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:37:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:37:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:37:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:37:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:37:07",
+   "processo": "50501.321793/2018-62 (legenda; incerto)",
+   "interessado": "Diretoria Colegiada",
+   "assunto": "Alteração da Deliberação 661/2018 (delegação de competência aos diretores para supervisão técnica das superintendências): supervisão da SUFER passa ao diretor Davi Barreto, sucessor de Sérgio de Assis Lobo, e simplificação do rito",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Mandato do ex-diretor expirou e Davi Barreto assumiu a vaga; altera arts. 3º e seguintes e dispensa envio prévio dos autos à supervisão, para evitar burocratização.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:40:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:40:15",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:40:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:40:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:40:27",
+   "processo": "50500.300494/2019-85",
+   "interessado": "Gomes Turismo e L&P",
+   "assunto": "Processo administrativo ordinário por adulteração de CRLV (infração da Res. 233/2003 e Decreto 2.521/1998, sujeita a declaração de inidoneidade/cassação)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Autoriza converter em processo administrativo ordinário com comissão. Marcelo Vinaud sugeriu, ao final da apuração, avaliar encaminhamento a Polícia Federal e outros órgãos para coibir a prática.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, aprova",
+     "ts": "0:40:27",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acordo, com observação",
+     "ts": "0:43:00",
+     "justificativa": "ao final do processo avaliar encaminhar o resultado a órgãos como a Polícia Federal para coibir esse tipo de prática",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha a relatora",
+     "ts": "0:43:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha a relatora",
+     "ts": "0:43:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.3",
+   "ts": "0:43:32",
+   "processo": "50151.329979/2018-60 (legenda; incerto)",
+   "interessado": "Viação Ouro e Prata S/A e Viação Motta Ltda.",
+   "assunto": "Anuência prévia para transferência de mercados",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "deferido por unanimidade",
+   "resumo_voto": "Receptora (Motta) atende requisitos do título 2 da Res. 4.770; áreas técnicas (SUPAS e SUFIS) favoráveis.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:44:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:44:57",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:44:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:44:57",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.4",
+   "ts": "0:45:16",
+   "processo": "50500.351328/2018-56",
+   "interessado": "Expresso Vila Rica Ltda. e Viação Expresso Planaltina",
+   "assunto": "Anuência prévia para transferência de mercados",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "indeferido por unanimidade",
+   "resumo_voto": "Receptora não apresentou forma de operação, itinerário, quadro de horários, infraestrutura, pontos de venda, inscrição estadual (GO e MG) nem frota; requisitos da Res. 4.770 não cumpridos.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:47:44",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:47:44",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:47:44",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:47:44",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.6",
+   "ts": "0:48:01",
+   "processo": "50500.332989/2019-73 (legenda; incerto)",
+   "interessado": "Real Maia Transportes Terrestres",
+   "assunto": "Pedido de implantação de seção/linha Luís Eduardo Magalhães (BA) - Timon (MA) - Corrente (PI); mercados operados por decisão judicial",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "indeferido por unanimidade",
+   "resumo_voto": "Quem opera por decisão judicial só pode alterar mercados se o juiz determinar (entendimento da Procuradoria, Nota 610/2018); indeferimento nos termos das Res. 4.770/2015 e 5.285/2017.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:51:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:51:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:51:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:51:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.7",
+   "ts": "0:51:50",
+   "processo": "50500.332964/2019-57 (legenda; incerto)",
+   "interessado": "Real Maia Transportes Terrestres",
+   "assunto": "Pedido de implantação da linha Teresina (PI) - Palmas (TO) via Balsas (MA), mercados operados por decisão judicial",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "indeferido por unanimidade",
+   "resumo_voto": "Mesma fundamentação do item anterior.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:53:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:53:57",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:53:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:53:57",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.8",
+   "ts": "0:54:13",
+   "processo": "50500.327683/2019-60 (legenda; incerto)",
+   "interessado": "Lopes de Oliveira Transporte e Turismo Ltda.",
+   "assunto": "Implantação de linhas Carazinho (RS) - Primavera do Leste (MT) via Chapecó e Carazinho - Querência (MT)",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "indeferido por unanimidade",
+   "resumo_voto": "Empresa não é detentora de autorização para operar os mercados (consulta ao SGP; art. 14 da Res. 5.285/2017).",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:56:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:56:22",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:56:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:56:22",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.9 e 2.3.10",
+   "ts": "0:56:38",
+   "processo": "50500.308703/2019-39; 50500.308702/2019-94 (legenda; incertos)",
+   "interessado": "Era Transporte e Turismo",
+   "assunto": "Pedidos de implantação de mercado: Brasília - Januária - Montes Claros e Pirapora - Luziânia/Goiânia",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "indeferidos por unanimidade",
+   "resumo_voto": "Empresa não detém autorização para operar os mercados solicitados.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:58:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:58:15",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:58:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:58:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.11",
+   "ts": "0:58:46",
+   "processo": "50500.348178/2018-11 (legenda; incerto)",
+   "interessado": "Superintendência Executiva (SUEXE)",
+   "assunto": "Abertura de audiência pública: resolução com diretrizes para o procedimento preparatório e o processo sancionador de caducidade em contratos de concessão e permissão",
+   "tema": [
+    "regulação normativa",
+    "participação social",
+    "fiscalização e sanções",
+    "concessões rodoviárias"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Grupo de trabalho com representante da Procuradoria; AIR realizada; Nota 189/2019 favorável. Relatora destaca regramento transversal para todas as áreas.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "1:01:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "1:01:55",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "1:01:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "1:01:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.12 a 2.3.17 (bloco)",
+   "ts": "1:02:10",
+   "processo": "vários (legenda incerta)",
+   "interessado": "Nossa Senhora da Penha; Macaubense; Real Expresso; Viação Cometa; Gontijo; Agência de Viagens Daldegan",
+   "assunto": "Alteração de licença operacional, recadastramento de termos de autorização de fretamento, deliberados em bloco",
+   "tema": [
+    "ônibus (fretamento)",
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovados por unanimidade (em bloco)",
+   "resumo_voto": "Processos de rotina votados em bloco.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "1:03:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "1:03:55",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "1:03:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "1:03:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.1",
+   "ts": "1:04:08",
+   "processo": "50500.349644/2019-59",
+   "interessado": "SUINF (Superintendência de Exploração de Infraestrutura Rodoviária)",
+   "assunto": "Abertura de audiência pública: programa de exploração e estudos de viabilidade da concessão da BR-153/414/080 TO/GO (cerca de 850 km, duplicação, investimento da ordem de R$ 7 bilhões segundo a legenda)",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização",
+    "participação social",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Terceira etapa, caducidade decretada; modelo inclui julgamento híbrido (menor tarifa e maior outorga), outorga variável, proteção cambial, tarifa diferenciada pista simples/dupla, índice de desempenho, acordo tripartite e regras para extinção antecipada. Procuradoria sem óbice.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "1:08:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "1:08:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "1:08:13",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "1:08:13",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.2 e 2.4.3 (bloco)",
+   "ts": "1:08:39",
+   "processo": "50500.300800/2019-83 (legenda; incerto); 50500.232576/2018-17",
+   "interessado": "Viação Progresso e Turismo S/A; Pluma Conforto e Turismo",
+   "assunto": "Alteração de licença operacional, em bloco",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovados por unanimidade (em bloco)",
+   "resumo_voto": "Processos de rotina.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "1:09:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "1:09:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "1:09:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "1:09:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "Assuntos gerais",
+   "ts": "1:09:20",
+   "processo": "50500.357164/2019-61",
+   "interessado": "Comissão de Ética",
+   "assunto": "Ofício sobre o plano de trabalho do segundo semestre de 2019 da Comissão de Ética",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Mário Rodrigues Junior",
+   "resultado": "apresentado; sem deliberação",
+   "resumo_voto": "Nenhum diretor fez observação.",
+   "votos": []
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: nomes de empresas, números de processo e valores podem estar errados; números de processo marcados como incertos.",
+  "Votos de quem apenas acompanha o relator têm ts aproximado (confiança media).",
+  "No item 2.3.5 a autoria do pedido de vista é incerta na legenda (provável Davi Barreto); o desfecho exato (retirada de pauta) também é inferido.",
+  "Davi Barreto aparece na legenda como «da abih/da viva/da via» (erros de reconhecimento); Marcelo Vinaud aparece como «Marcelo»; rótulo {Marcelo Fonseca} do início do .md é incorreto."
+ ]
+}
