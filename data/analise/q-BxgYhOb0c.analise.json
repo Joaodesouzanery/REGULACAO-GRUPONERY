@@ -1,0 +1,717 @@
+{
+ "meta": {
+  "video_id": "q-BxgYhOb0c",
+  "fonte": "legenda automática do YouTube; falantes inferidos (a atribuição automática de falantes é pouco confiável); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "924",
+  "data": "2022-01-20",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Davi Barreto",
+   "Guilherme Sampaio"
+  ],
+  "ausentes": [
+   "Fábio Rogério Carvalho (de férias)"
+  ],
+  "observacoes": [
+   "Encerrada às 15h52 de 20/01/2022 (sessão de ≈ 1h12).",
+   "Reunião com três diretores. Itens ferroviários (compatibilidade locacional de autorizações ferroviárias, MP 1.065/2021) em bloco: 5 na pauta e 8 extrapauta.",
+   "Retirados de pauta: Catarinense de Rodovias (antiga ponte de Laguna), Política de Classificação da Informação e afastamento de servidora para mestrado.",
+   "Item 2.3.1: o processo havia sido apresentado por Guilherme Sampaio na reunião deliberativa eletrônica 75 (13 a 17/12/2021); houve abstenção de Davi, levando à deliberação nesta reunião (art. 93 §1º do Regimento)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:20",
+   "processo": "—",
+   "interessado": "—",
+   "assunto": "Aprovação da ata da reunião 923",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Leitura dispensada.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:00:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "0:00:45",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo",
+     "ts": "0:00:50",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:00:52",
+   "processo": "50200.004503/2014-67 (conforme legenda)",
+   "interessado": "Autopista Planalto Sul S.A.",
+   "assunto": "Recurso contra a Decisão SUINF 46/2020, que manteve multa por trincas interligadas de classe 3 no pavimento (Res. 4.071/2013 e PER item 4.1.3)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovado por unanimidade — recurso conhecido, sem efeito suspensivo, desprovido",
+   "resumo_voto": "Recurso tempestivo; nega efeito suspensivo (não cabe execução provisória da multa); a alegação sobre a metodologia da fiscalização (norma DNIT 007/2003-PRO) já foi enfrentada pela área técnica e não há fato novo. Mantém a multa de 333,70 URTs.",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, conhece, nega efeito suspensivo e provimento",
+     "ts": "0:04:20",
+     "justificativa": "ausência de fato novo; metodologia já enfrentada",
+     "tom": "firme",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:04:45",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo, acompanha o relator",
+     "ts": "0:04:55",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:05:40",
+   "processo": "50500.4215/2021 (conforme legenda)",
+   "interessado": "Concessionária Catarinense de Rodovias S.A.",
+   "assunto": "Recurso contra indeferimento de recomposição do equilíbrio econômico-financeiro pela inclusão de segmento viário não previsto (antiga ponte de Laguna)",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "Após reuniões internas, relator entende necessário aprofundar a conformação do voto.",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, retira de pauta",
+     "ts": "0:06:09",
+     "justificativa": "aprofundar o voto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo com a retirada",
+     "ts": "0:06:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com a retirada",
+     "ts": "0:06:25",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.1.3",
+   "ts": "0:06:34",
+   "processo": "50500.070262/2021-90",
+   "interessado": "Concessionária do Sistema Rodoviário Rio–São Paulo S.A. (CCR)",
+   "assunto": "Ato de outorga e assinatura do contrato da concessão da BR-116/101 Rio–São Paulo (edital 3/2021)",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Licitação homologada em 03/12/2021 com CCR vencedora; comissão de outorga verificou o cumprimento das condições prévias; Procuradoria sem óbice. Emite o ato de outorga e autoriza a assinatura do contrato.",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, emite o ato de outorga",
+     "ts": "0:08:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:09:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "0:09:10",
+     "justificativa": "mais um passo importante da concessão",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.1.4 a 2.1.8",
+   "ts": "0:09:26",
+   "processo": "50500.089148/2021-55; 50500.122342/2021; 50500.123070/2021-13; 50500.002190/2022; 50500.002203/2022-91 (conforme legenda)",
+   "interessado": "Ministério da Infraestrutura (Rumo, VLI, Enfer, Suzano)",
+   "assunto": "Compatibilidade locacional de cinco requerimentos de autorização ferroviária (Cubatão–Santos; Bom Jesus do Araguaia–Água Boa; Ribeirão Cascalheira–Figueirópolis; Boa Vista–Bonfim/RR; Ribas do Rio Pardo–Inocência), em bloco",
+   "tema": [
+    "ferrovias",
+    "autorização ferroviária",
+    "regulação normativa"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Com base na MP 1.065/2021 e na Portaria MInfra 131/2021, SUFER concluiu pela compatibilidade locacional (sem conflito com infraestruturas implantadas ou outorgadas); para Cubatão–Santos (VLI, 9 km) só o cenário 2 é compatível. Prazo de 99 anos nos pedidos; extensões entre 9 e 560 km. Dispensada análise jurídica por ser matéria técnica.",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, declara a compatibilidade locacional",
+     "ts": "0:16:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator nos cinco processos",
+     "ts": "0:16:45",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "0:16:55",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:17:05",
+   "processo": "50500.105682/2021-16",
+   "interessado": "SUCON — AP 7/2021 (BR-040/BR-495)",
+   "assunto": "Alteração da comissão da Audiência Pública 7/2021 (substituição da suplente do secretário, nomeada para a ANA): designa Núbia Fernandes Nava",
+   "tema": [
+    "concessões rodoviárias",
+    "participação social"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Ajuste de composição da comissão da audiência.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, designa nova suplente",
+     "ts": "0:18:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "0:18:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo",
+     "ts": "0:18:50",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:19:05",
+   "processo": "50500.027628/2021-22",
+   "interessado": "Concessionária Rota do Oeste S.A. (CRO)",
+   "assunto": "Relatório final da AP 6/2021 e minutas de TAC (plano de ação e multas); sobrestamento do processo",
+   "tema": [
+    "concessões rodoviárias",
+    "solução consensual",
+    "relicitação",
+    "caducidade"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade — relatório aprovado e processo sobrestado",
+   "resumo_voto": "Item retirado em 21/10/2021 após sustentação oral da CRO e da OAB-MT. A concessionária pediu mudanças nos TACs e pleiteou devolução amigável (formalizada em 09/12/2021); relicitação é irretratável, o que poderia levar ao arquivamento do TAC. AIR mostrou vantagem do TAC frente à caducidade; já corre processo de caducidade desde 21/10/2021. Relator aprova o relatório final e, seguindo recomendação da Procuradoria, sobresta o processo até a decisão sobre a qualificação da relicitação no PPI; se não qualificada, o TAC poderá ser rediscutido.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova o relatório e sobresta o processo",
+     "ts": "0:23:42",
+     "justificativa": "evitar que reste só a caducidade (pior alternativa); preservar o TAC caso a relicitação não seja qualificada",
+     "tom": "tom ponderado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com o relator",
+     "ts": "0:23:55",
+     "justificativa": "cumprimenta Procuradoria e relator pelo sobrestamento",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "segue integralmente o relator",
+     "ts": "0:24:10",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3",
+   "ts": "0:24:22",
+   "processo": "50500.4817/2011 (conforme legenda)",
+   "interessado": "Planalto Transportadora Turística Ltda.",
+   "assunto": "Revogação do art. 2º da Deliberação 84/2020 (processo contra administradores e controladores, art. 78-E da Lei 10.233/2001)",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (fretamento)",
+    "regulação normativa"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Empresa declarada inidônea por apresentar CRLV adulterado; falta norma infralegal que dê efetividade ao art. 78-E (Procuradoria; Res. 5.083/2016 a complementar; item na agenda regulatória), o que prejudica a responsabilização de administradores. Revoga o art. 2º.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, revoga o art. 2º",
+     "ts": "0:27:00",
+     "justificativa": "segurança jurídica: sem norma procedimental",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com o relator",
+     "ts": "0:27:45",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "segue o relator",
+     "ts": "0:27:50",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.2.4",
+   "ts": "0:28:03",
+   "processo": "50500.413928/2018-91 (conforme legenda)",
+   "interessado": "Autopista Fluminense S.A.",
+   "assunto": "Recurso contra multa de 288,75 URTs por não recuperar a rampa sul e estabilizar o pilar da passarela de pedestres na BR-101/RJ",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade — recurso desprovido, multa reduzida para 202,125 URTs",
+   "resumo_voto": "Nega efeito suspensivo; afasta a alegação de força maior (greve dos caminhoneiros), pois as cartas eram genéricas e protocoladas após o prazo do TRO. Reconhece, por interpretação extensiva, atenuante de 20% (adoção de acesso provisório, art. 67 §1º, II da Res. 5.083) e reduz a multa.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, nega provimento e reduz a multa para 202,125 URTs",
+     "ts": "0:35:00",
+     "justificativa": "cartas genéricas e tardias; atenuante pela medida provisória adotada",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "0:35:10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "segue o relator",
+     "ts": "0:35:15",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.2.5",
+   "ts": "0:35:24",
+   "processo": "50500.093742/2021-4 (conforme legenda)",
+   "interessado": "SUROC",
+   "assunto": "Relatório final da Consulta Pública 1/2021 e minuta que atualiza a Res. 5.867/2020 (pisos mínimos de frete por eixo carregado)",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "participação social",
+    "regulação normativa"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "CP de 02/11 a 02/12/2021 recebeu 15 contribuições. Atualização por Pareto: combustível, mão de obra, pneus/recauchutagem e depreciação (80,3% do custo); demais itens corrigidos pelo IPCA; carga aquecida equiparada à frigorificada.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova relatório e atualização",
+     "ts": "0:40:10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo, voto com o relator",
+     "ts": "0:40:19",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "segue o relator",
+     "ts": "0:40:25",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:40:29",
+   "processo": "50500.014094/2021-74",
+   "interessado": "Superintendência de Tecnologia da Informação",
+   "assunto": "Revisão e atualização da Política de Classificação da Informação",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "Ajuste em consonância com a medida provisória vigente e pequena adaptação normativa.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, retira de pauta",
+     "ts": "0:41:15",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:41:40",
+     "justificativa": "agradece o ajuste",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo com a retirada",
+     "ts": "0:41:50",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:41:57",
+   "processo": "50510.035315/2021",
+   "interessado": "Servidora Eline Verde Coutinho de Souza",
+   "assunto": "Afastamento para mestrado em geotecnia e transportes (UFMG)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "Processo saneado, mas exige ajuste do cronograma de atividades da área.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, retira de pauta",
+     "ts": "0:42:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:42:35",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo",
+     "ts": "0:42:40",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.3.3",
+   "ts": "0:42:44",
+   "processo": "50520.012257/2021",
+   "interessado": "Concessionária de Rodovia Sul-Mato-Grossense (MS Via)",
+   "assunto": "Segundo termo aditivo ao contrato (edital 5/2013) para alterar os anexos 1 (PER) e 2 (transição) do aditivo de relicitação da BR-163/MS",
+   "tema": [
+    "concessões rodoviárias",
+    "relicitação",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Ajusta o escopo de recuperação (só conservação e manutenção, sem novos investimentos) e amplia em um mês o prazo do relatório de transição; MS Via concorda; Procuradoria viu discricionariedade técnica e viabilidade jurídica.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aprova o segundo aditivo",
+     "ts": "0:48:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:48:10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo",
+     "ts": "0:48:14",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.3.4",
+   "ts": "0:48:16",
+   "processo": "50500.247/2021 (conforme legenda)",
+   "interessado": "SUROD",
+   "assunto": "Manual de procedimentos de fiscalização e recebimento dos trabalhos iniciais e autorização para início da cobrança de pedágio",
+   "tema": [
+    "concessões rodoviárias",
+    "regulação normativa",
+    "participação social"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Padroniza a fiscalização da fase de trabalhos iniciais; passou por consulta interna e tomada de subsídios 4/2021 (com contribuições de concessionárias e ABCR); Procuradoria sem óbice.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aprova o manual",
+     "ts": "0:52:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo, acompanha",
+     "ts": "0:52:15",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo; destaca que a procedimentalização dá clareza a servidores e regulados",
+     "ts": "0:52:25",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.3.5",
+   "ts": "0:52:31",
+   "processo": "50500.100621/2021-62",
+   "interessado": "Concessionária Rota do Oeste S.A.",
+   "assunto": "Substituição de membros da comissão processante do processo de caducidade (BR-163/MT)",
+   "tema": [
+    "concessões rodoviárias",
+    "caducidade"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Dois membros integravam a equipe de fiscalização da concessionária; substituição para resguardar a imparcialidade. Sem nulidade (não houve ato deliberativo ou de mérito).",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aprova a substituição",
+     "ts": "0:54:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:54:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:54:25",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.3.6",
+   "ts": "0:54:32",
+   "processo": "50501.3251/2018 (conforme legenda)",
+   "interessado": "Hélios Coletivos e Cargas Eireli",
+   "assunto": "Revogação do art. 2º da Deliberação de 07/04/2020 (processo contra administradores e controladores, art. 78-E)",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (transporte regular, TAR)",
+    "regulação normativa"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Empresa executou serviços não autorizados (Londrina–São Paulo); apuração contra o sócio prejudicada pela ausência de norma (voto DDB 76/2020, Deliberação 316/2020, Parecer PF 186/2020).",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, revoga o art. 2º",
+     "ts": "0:57:15",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:57:25",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "segue o relator",
+     "ts": "0:57:30",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.3.7",
+   "ts": "0:57:37",
+   "processo": "50500.31483/2019 (conforme legenda)",
+   "interessado": "Gomes Turismo Eireli",
+   "assunto": "Pedido de reconsideração contra a Deliberação 183/2020 (inidoneidade por 5 anos, cassação e processo contra administradores)",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (fretamento)"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade — provimento parcial",
+   "resumo_voto": "Sem argumentos novos sobre a suspeita de CRLV adulterado; mantém a cassação, mas revoga a instauração de processo contra administradores (falta de norma do art. 78-E).",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, conhece e dá provimento parcial",
+     "ts": "1:01:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "1:02:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "1:02:05",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "assuntos gerais",
+   "ts": "1:02:12",
+   "processo": "—",
+   "interessado": "—",
+   "assunto": "Dois pedidos de prorrogação de 30 dias de prazo em despachos de Davi Barreto (art. 66 §§2º e 4º do Regimento)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovados",
+   "resumo_voto": "Prorrogação de prazo em dois processos.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "1:02:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "pede a prorrogação (autor dos despachos)",
+     "ts": "1:02:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo",
+     "ts": "1:02:45",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "extra",
+   "ts": "1:02:56",
+   "processo": "8 processos (50500.018682/2022; 50500.022012/2022; 50500.022120/2022; 50500.040862/2022; 50500.038402/2022; 50500.022720/2022; 50500.022520/2022; 50500.116392/2021 — números conforme legenda)",
+   "interessado": "Ministério da Infraestrutura (Rumo, Suzano, Petrocítio, Vale, Porto do Açu, Morro do Pilar)",
+   "assunto": "Extrapauta: compatibilidade locacional de oito requerimentos de autorização ferroviária (ex.: Figueirópolis–Barreiras; Três Lagoas; Unaí–Campos Verdes; Caeté; São João da Barra; Santa Rita do Trivelato–Sinop; Primavera do Leste–Ribeirão Cascalheira; Colatina–Linhares)",
+   "tema": [
+    "ferrovias",
+    "autorização ferroviária",
+    "regulação normativa"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovado por unanimidade — inclusão extrapauta e compatibilidade declarada",
+   "resumo_voto": "Mesmo fundamento do bloco 2.1.4 a 2.1.8 (MP 1.065/2021 e Portaria 131/2021); sem conflito de traçados; prazo de 99 anos; extensões de 11 a 530 km.",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, declara a compatibilidade locacional",
+     "ts": "1:11:00",
+     "justificativa": "relevância e urgência da matéria",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo, acompanha o relator",
+     "ts": "1:11:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com o relator",
+     "ts": "1:11:40",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "2.1.2 — recurso da Concessionária Catarinense de Rodovias (antiga ponte de Laguna)",
+   "relator": "Rafael Vitale",
+   "motivo": "aprofundar o voto",
+   "ts": "0:06:09"
+  },
+  {
+   "item": "2.3.1 — Política de Classificação da Informação (STI)",
+   "relator": "Guilherme Sampaio",
+   "motivo": "ajuste à MP vigente e adaptação normativa",
+   "ts": "0:41:15"
+  },
+  {
+   "item": "2.3.2 — afastamento de servidora para mestrado",
+   "relator": "Guilherme Sampaio",
+   "motivo": "ajuste do cronograma da área",
+   "ts": "0:42:20"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática (com pontuação): nomes, números de processo e valores distorcidos; muitos números de processo são aproximados.",
+  "Fábio Rogério Carvalho ausente (férias, registrado aos 0:05:11); Luciano Lourenço ainda não integrava a diretoria. Votos e ts de seguidores aproximados, estimados pela posição na transcrição.",
+  "Falante inicial rotulado Guilherme Sampaio, mas a sessão é presidida por Rafael Vitale (relator dos itens 2.1.x).",
+  "Em 2.2.2, a data de retirada anterior (21/10/2021) e a devolução amigável de 09/12/2021 seguem a fala do relator."
+ ]
+}
