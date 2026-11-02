@@ -1,0 +1,133 @@
+{
+ "meta": {
+  "video_id": "FlDaU_ciwQM",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "870",
+  "data": "2020-09-01",
+  "formato": "videoconferência transmitida no YouTube",
+  "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral em exercício)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Weber Ciloni",
+   "Alexandre Porto",
+   "Eduardo Marra"
+  ],
+  "ausentes": [
+   "Davi Barreto (férias)"
+  ],
+  "observacoes": [
+   "Encerrada às 16h15.",
+   "Marcelo Vinaud não participou da votação da ata porque não estava na reunião anterior.",
+   "Item extrapauta de relatoria de Alexandre Porto incluído por relevância e urgência."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.2 / 2.2.1 (reservados)",
+   "ts": "0:01:30",
+   "processo": "50500.317105/2016-16 (número do recurso ilegível)",
+   "interessado": "Corregedoria (PAD); Concessionária Autopista Planalto Sul S.A. (recurso em aplicação de penalidade)",
+   "assunto": "Processo administrativo disciplinar e recurso sancionador reservados, julgados ao final da transmissão",
+   "tema": [
+    "fiscalização e sanções",
+    "concessões rodoviárias"
+   ],
+   "relator": "Weber Ciloni (2.2.1, inferido)",
+   "resultado": "sigiloso – julgamento fora da transmissão",
+   "resumo_voto": "Sem conteúdo público.",
+   "votos": []
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:02:49",
+   "processo": "50500.076019/2011-25 (parcial)",
+   "interessado": "Caruana S.A. Sociedade de Crédito, Financiamento e Investimento (instituição de pagamento eletrônico de frete)",
+   "assunto": "Pedido de cancelamento da habilitação como instituição de pagamento eletrônico de frete (IPEF) e do respectivo meio de pagamento",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "regulação normativa"
+   ],
+   "relator": "Marcelo Vinaud (inferido)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "A resolução de 2019 (nº 5.862, segundo a legenda) não prevê a revogação da habilitação nem obrigações de saída; com aval da procuradoria, determina-se termo de encerramento com a empresa, que assume compromisso com o art. 17 (manutenção de dados e registros).",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:04:00",
+     "justificativa": "falta de regra de saída supre-se por termo de encerramento com compromissos do art. 17",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:04:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:04:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:04:38",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "Extrapauta",
+   "ts": "0:04:46",
+   "processo": "50500.389513/2019-12 (parcial)",
+   "interessado": "Concessionária BR-040 (Via 040)",
+   "assunto": "Prorrogação do prazo do art. 3º da Deliberação 329/2020 (45 dias, expirado em 31/08/2020) para assinatura do primeiro termo aditivo da relicitação, por 15 dias automaticamente prorrogáveis enquanto o TCU não indeferir medida cautelar",
+   "tema": [
+    "concessões rodoviárias",
+    "relicitação",
+    "judicializacao"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Fatos novos no acompanhamento do TCU (indícios de irregularidade apontados pela área técnica da corte e alerta da ministra relatora) impedem concluir no prazo; prorroga-se para dar segurança jurídica e evitar retrocesso.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, aprova",
+     "ts": "0:07:30",
+     "justificativa": "fatos novos no TCU; segurança jurídica na assinatura do termo aditivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:08:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:08:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:08:15",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: «siloni/simone» como Weber Ciloni; «marra» como Eduardo Marra.",
+  "Relator do 2.1.1 inferido pela ordem de votação.",
+  "Números de processo parciais; itens reservados sem conteúdo."
+ ]
+}

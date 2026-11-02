@@ -1,0 +1,150 @@
+{
+  "meta": {"video_id": "QSiJxkgnNRE", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:00); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "855", "data": "2020-05-12", "formato": "videoconferência (gravada e divulgada depois no site)",
+    "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral em exercício)",
+    "diretores_presentes": ["Marcelo Vinaud", "Weber Ciloni", "Davi Barreto", "Alexandre Porto", "Menezes"],
+    "ausentes": [],
+    "observacoes": ["Parte pública encerrada às 16h54; duração do vídeo cerca de 18 minutos.", "Todos os itens deliberados por unanimidade; destaque para a aprovação da alteração do Regimento Interno (Resolução 5.810/2018), relatada por Menezes, com elogios de Davi Barreto e de Marcelo Vinaud ao relator e ao chefe de gabinete.", "Processos reservados: 2.2.1 (PAD da Corregedoria, relator Weber Ciloni) e 2.3.2 (Autopista Fluminense, recurso em processo administrativo simplificado, relator Alexandre Porto, corrigido durante a sessão); julgados em parte reservada, fora do vídeo."]
+  },
+  "itens": [
+    {
+      "id": "2.1.1", "ts": "0:02:54",
+      "processo": "50501.331935/2018-08", "interessado": "Rota Transportes Rodoviários Ltda. e Gontijo de Transportes Ltda. (recorrentes); Candango Transportes e Turismo Ltda. (impugnada)",
+      "assunto": "Recursos contra a implantação da linha Recife - São Paulo, resultante do seccionamento da linha Apodi (RN) - São Bernardo do Campo (SP), autorizada pela Deliberação 66/2019",
+      "tema": ["ônibus (transporte regular, TAR)", "judicializacao", "regulação normativa"],
+      "relator": "Marcelo Vinaud", "resultado": "aprovado por unanimidade - recursos conhecidos e desprovidos",
+      "resumo_voto": "As recorrentes alegavam que a Candango, por operar originalmente por decisão judicial, não seria agente regular e não poderia pleitear mercado na regra de transição da Res. 4.770/2015. A Procuradoria entendeu possível a participação na transição de empresas com decisão judicial não transitada em julgado, desde que haja renúncia em juízo ao direito da ação, condição atendida. Demais alegações (falta de estudo de viabilidade operacional, ausência de aproveitamento médio de 60%) não se aplicam ao caso. Voto por conhecer e negar provimento, mantendo a Deliberação 66/2019.",
+      "votos": [
+        {"diretor": "Marcelo Vinaud", "voto": "relator, conhece e nega provimento", "ts": "0:04:57", "justificativa": "renúncia judicial exigida foi atendida; a implantação da nova linha não gera impactos que justifiquem reverter a deliberação", "confianca": "alta"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo com a manutenção da deliberação", "ts": "0:05:00", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:05:03", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "0:05:05", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "de acordo", "ts": "0:05:08", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.1.2", "ts": "0:05:33",
+      "processo": "50501.024230/2000 (número lido de forma incerta)", "interessado": "Alfa Luz Transportes Ltda. (nome incerto) e outra empresa",
+      "assunto": "Convalidação das portarias 33/2019, 34/2019 e 115/2019 da superintendência (29/10/2019) que não conheceram e arquivaram pedidos de autorização para operar mercados por inobservância do art. 4º da Deliberação 134/2018 (vício de competência apontado pela Procuradoria)",
+      "tema": ["ônibus (transporte regular, TAR)", "regulação normativa"],
+      "relator": "Marcelo Vinaud", "resultado": "aprovado por unanimidade - portarias convalidadas",
+      "resumo_voto": "A Procuradoria apontou vício de competência das portarias. Com a Resolução 5.881/2020, que delegou à superintendência a competência sobre novos mercados, o relator propõe convalidar as portarias.",
+      "votos": [
+        {"diretor": "Marcelo Vinaud", "voto": "relator, convalida as portarias", "ts": "0:07:01", "justificativa": "a Resolução 5.881/2020 delegou a competência sobre mercados à superintendência, sanando o vício de competência", "confianca": "alta"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo", "ts": "0:07:23", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:07:26", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "0:07:29", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "de acordo", "ts": "0:07:32", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.1.3", "ts": "0:08:05",
+      "processo": "50500.332951/2016-58", "interessado": "Auto Viação Catarinense Ltda.; impugnante: Viação Esmeralda de Transportes Ltda.",
+      "assunto": "Pedido de autorização para operar novos mercados (transporte rodoviário interestadual de passageiros)",
+      "tema": ["ônibus (transporte regular, TAR)", "regulação normativa"],
+      "relator": "Marcelo Vinaud", "resultado": "aprovado por unanimidade - pedido indeferido; impugnação prejudicada",
+      "resumo_voto": "Pela análise da superintendência, a empresa não se enquadra no nível 1 de implantação do município nem preenche os requisitos vigentes (art. 4º da Deliberação 134/2018). Indefere o pedido e não conhece da impugnação da Viação Esmeralda por perda de objeto. (O mesmo processo havia sido retirado de pauta na reunião 853.)",
+      "votos": [
+        {"diretor": "Marcelo Vinaud", "voto": "relator, indefere o pedido", "ts": "0:08:55", "justificativa": "empresa não se enquadra no nível 1 de implantação do município e não preenche os requisitos do art. 4º da Deliberação 134/2018", "confianca": "alta"},
+        {"diretor": "Weber Ciloni", "voto": "acompanha o relator", "ts": "0:09:21", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:09:25", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "0:09:28", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "de acordo", "ts": "0:09:31", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.1.4 a 2.1.6", "ts": "0:09:45",
+      "processo": "50530.170/2016 (2.1.4, número parcial); 50500.041431/2013 (2.1.5, número lido de forma incerta); 50500.xx6665/2012-32 (2.1.6)", "interessado": "CCR ViaSul (2.1.4); Aguimar Pereira Evangelho e outras (2.1.5, fretamento); Expresso (nome incerto) (2.1.6)",
+      "assunto": "Bloco: declaração de utilidade pública para desapropriação de áreas da passarela na BR-101/RS, em Terra de Areia (2.1.4); termo de autorização de fretamento (2.1.5); supressão de linha com paralisação de mercado (2.1.6)",
+      "tema": ["concessões rodoviárias", "ônibus (fretamento)", "ônibus (transporte regular, TAR)"],
+      "relator": "Marcelo Vinaud", "resultado": "aprovados em bloco por unanimidade",
+      "resumo_voto": "Votos disponibilizados antes da reunião; deliberados em bloco sem discussão.",
+      "votos": [
+        {"diretor": "Marcelo Vinaud", "voto": "relator, aprova em bloco", "ts": "0:09:45", "confianca": "media"},
+        {"diretor": "Weber Ciloni", "voto": "acompanha os votos em bloco do relator", "ts": "0:10:50", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:10:53", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "0:10:56", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "de acordo", "ts": "0:10:59", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.3.1", "ts": "0:11:24",
+      "processo": "50501.531407/2015-78 (número lido de forma incerta)", "interessado": "Concessionária de Rodovias Integradas do Sul (CCR ViaSul)",
+      "assunto": "Declaração de utilidade pública para desapropriação de áreas necessárias à interconexão na BR-290/RS, em Gravataí",
+      "tema": ["concessões rodoviárias"],
+      "relator": "Alexandre Porto", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Processo deliberado em bloco, com voto previamente disponibilizado.",
+      "votos": [
+        {"diretor": "Alexandre Porto", "voto": "relator, aprova", "ts": "0:11:24", "confianca": "media"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo", "ts": "0:11:56", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:11:59", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "de acordo", "ts": "0:12:02", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo", "ts": "0:12:05", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.4.1", "ts": "0:12:18",
+      "processo": "50581.279/2018-98 (número lido de forma incerta)", "interessado": "Diretoria Colegiada",
+      "assunto": "Alteração do anexo da Resolução 5.810/2018 (Regimento Interno da ANTT) - nova estrutura organizacional; apresentada na reunião 854 e votada agora com vista coletiva (art. 109 do Regimento)",
+      "tema": ["institucional", "regulação normativa"],
+      "relator": "Menezes", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Pelo rito do art. 109 do Regimento, o voto do relator foi lido na reunião 854 e, após vista coletiva, a matéria foi votada na reunião seguinte. O relator não acrescentou nada. Davi Barreto parabenizou o relator e as equipes envolvidas pela proposta de uma estrutura mais moderna para a agência; Marcelo Vinaud agradeceu ao chefe de gabinete do relator.",
+      "votos": [
+        {"diretor": "Menezes", "voto": "relator, aprova a alteração regimental", "ts": "0:13:20", "confianca": "media"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo", "ts": "0:13:52", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "de acordo com a proposta do relator, com elogio ao trabalho", "ts": "0:14:03", "justificativa": "parabeniza o relator, o gabinete e a Procuradoria; a nova estrutura é um avanço para a agência", "confianca": "alta"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "0:14:40", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo, corrobora os elogios e agradece ao chefe de gabinete do relator", "ts": "0:14:48", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.4.2", "ts": "0:15:11",
+      "processo": "50500.03554/2011-21 (número lido de forma incerta)", "interessado": "Concessionária das Rodovias Integradas do Sul (CCR ViaSul)",
+      "assunto": "Declaração de utilidade pública para desapropriação de áreas da interconexão na BR-290/RS (km 0+32 a 170 m, Santo Antônio da Patrulha)",
+      "tema": ["concessões rodoviárias"],
+      "relator": "Menezes", "resultado": "aprovado por unanimidade (em bloco)",
+      "resumo_voto": "Processo deliberado em bloco com voto previamente disponibilizado.",
+      "votos": [
+        {"diretor": "Menezes", "voto": "relator, aprova", "ts": "0:15:11", "confianca": "media"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo com os projetos em bloco", "ts": "0:15:42", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:15:45", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "0:15:48", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo", "ts": "0:15:51", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3.1", "ts": "0:16:08",
+      "processo": "50500.035439/2011 (número parcial)", "interessado": "Despachos DG/SEI (7 de maio de 2020)",
+      "assunto": "Pedido de cancelamento de distribuição de processo (art. 67 do Regimento Interno)",
+      "tema": ["institucional"],
+      "relator": "Marcelo Vinaud", "resultado": "cancelamento aprovado por unanimidade",
+      "resumo_voto": "O Diretor-Geral esclareceu que o cancelamento ocorreu porque, com a delegação de competências às superintendências, o processo (em que a empresa não completou a documentação em 60 dias) subiu indevidamente à Diretoria; a superintendência foi orientada a não enviar mais processos desse tipo e a considerar o pedido prejudicado por perda de objeto.",
+      "votos": [
+        {"diretor": "Marcelo Vinaud", "voto": "relator, pede o cancelamento e esclarece a delegação de competência", "ts": "0:16:30", "justificativa": "com a delegação, a superintendência pode considerar o pedido prejudicado se a empresa não cumpre a documentação exigida", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:17:40", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "0:17:44", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "de acordo", "ts": "0:17:48", "confianca": "media"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo", "ts": "0:17:52", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "reservados", "ts": "0:02:15",
+      "processo": "50500.307112/2018-63 (2.2.1, PAD da Corregedoria); 50500.441994/2016-23 (2.3.2, Autopista Fluminense)", "interessado": "Corregedoria (processo administrativo disciplinar); Autopista Fluminense S.A.",
+      "assunto": "Processos reservados: PAD da Corregedoria (relator Weber Ciloni) e recurso em processo administrativo simplificado da Autopista Fluminense (relator Alexandre Porto; correção feita durante a sessão, pois a leitura inicial atribuíra a relatoria a Weber Ciloni)",
+      "tema": ["fiscalização e sanções", "concessões rodoviárias", "institucional"],
+      "relator": "Weber Ciloni (2.2.1); Alexandre Porto (2.3.2)", "resultado": "julgados em parte reservada; resultado não consta do vídeo",
+      "resumo_voto": "Itens sigilosos (art. 78-B da Lei 10.233/2001 e art. 71 §1º do Regimento Interno).",
+      "votos": []
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Legenda automática muito ruidosa: nomes dos diretores distorcidos («Weber Silone», «Marcelo Vinor/Virou/Tinoco», «Alexandre Porto/Curto», «Menezes» com variantes como «Cristiano/Machado Menezes»). Grafias canônicas adotadas pelas saudações e lista de diretores da época.",
+    "O diretor «Menezes» tem prenome incerto; mantido só o sobrenome. Não confirmado se é Mário Rodrigues Junior.",
+    "Números de processo, nomes de empresas (por exemplo «Alfa Luz», «Aguimar Pereira Evangelho») e nomes de rodovias estão distorcidos ou truncados na legenda; marcados como incertos.",
+    "Votos de quem só acompanha o relator têm minutos aproximados (confiança média/baixa).",
+    "O voto de Weber Ciloni no item 3.1 é inferido da fala «de acordo» sem identificação clara do falante.",
+    "Os processos reservados 2.2.1 e 2.3.2 não constam do vídeo."
+  ]
+}
