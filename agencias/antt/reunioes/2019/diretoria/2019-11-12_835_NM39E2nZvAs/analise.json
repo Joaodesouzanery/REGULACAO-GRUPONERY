@@ -1,0 +1,405 @@
+{
+ "meta": {
+  "video_id": "NM39E2nZvAs",
+  "fonte": "legenda automática do YouTube; falantes inferidos (o rótulo de falante do .md é pouco confiável; quem abre a sessão é o Diretor-Geral Mário Rodrigues Junior); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "835",
+  "data": "2019-11-12",
+  "formato": "presencial (transmissão YouTube)",
+  "presidente_da_sessao": "Mário Rodrigues Junior (Diretor-Geral)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Elisabeth Braga",
+   "Weber Ciloni",
+   "Davi Barreto",
+   "Mário Rodrigues Junior"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Cinco diretores presentes (colegiado completo).",
+   "Processos reservados: 2.1.3 Concepa, 2.1.4 MG de Moura Turismo (Marcelo Vinaud); 2.2.5 e 2.2.6 (Elisabeth Braga); 2.3.2 CCR Ponte, 2.3.5 Irmãos Amce Lago (Davi Barreto). Julgados após a transmissão.",
+   "Item 2.1.1 MS Via: sustentação oral; Weber Ciloni pediu vista com argumentos sobre o Fator C e a lei dos caminhoneiros.",
+   "Extrapauta: restabelecimento da Res. 5.849/2019 (piso mínimo do frete)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "reservados",
+   "ts": "0:00:00",
+   "processo": "vários",
+   "interessado": "Concepa (Concessionária da Rodovia Osório–Porto Alegre), MG de Moura Turismo, empresas de turismo, CCR Ponte (Rio-Niterói), Irmãos Amce Lago",
+   "assunto": "Seis processos sigilosos (PAS/PAO/recurso) julgados ao final da transmissão, sessão restrita às partes; havia pedidos de sustentação oral",
+   "tema": [
+    "fiscalização e sanções"
+   ],
+   "relator": "Marcelo Vinaud (2), Elisabeth Braga (2), Davi Barreto (2)",
+   "resultado": "julgados em sessão reservada (sem registro)",
+   "resumo_voto": "Conteúdo e votos não transmitidos.",
+   "votos": []
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:06:28",
+   "processo": "50151.303777/2018-04",
+   "interessado": "MS Via — Concessionária de Rodovias Sul-Matogrossense S/A (BR-163/MS)",
+   "assunto": "Quarta revisão ordinária, sexta revisão extraordinária e reajuste da tarifa básica de pedágio, com sustentação oral da concessionária (redução média de cerca de 3,94% em relação à anterior)",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "pedágio"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "vista concedida a Weber Ciloni (votação interrompida)",
+   "resumo_voto": "Sustentação oral: pede diluir o Fator C ao longo da concessão, rebate a aplicação do plano de negócio/custo médio gerencial do DNIT (Acórdão TCU 2.175) e alega ilegalidade no cálculo da tolerância de peso. Após a vista, comentários de diretores (voz não identificada na legenda) apoiam a ponderação do prazo de parcelamento.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, propõe aprovar a 4ª revisão ordinária, 6ª extraordinária e reajuste (aplicação integral do Fator C)",
+     "ts": "0:06:28",
+     "justificativa": "aplicação integral do montante da conta/Fator C em um único ano, conforme decisão da DMV; reajuste de 3,22% (IPCA jul/2018–jul/2019)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "pede vista",
+     "ts": "0:19:49",
+     "justificativa": "Tirar todos os efeitos da lei dos caminhoneiros nos preços de referência do DNIT em todos os contratos até concluir os estudos (razão ao TCU); incerteza do deságio sem plano de investimento na modelagem; parcelamento de 25 anos é exagero, mas deve haver proporcionalidade (3 a 6 parcelas como na SUINF) para evitar volatilidade",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:25:13",
+   "processo": "50500.312803/2018-79",
+   "interessado": "Transbrasiliana Concessionária de Rodovias S/A",
+   "assunto": "Décima primeira revisão ordinária, décima primeira revisão extraordinária e reajuste da TBP (praças Onda Verde, José Bonifácio, Marília etc.)",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "pedágio"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Atraso na vigência será equilibrado na próxima revisão ordinária; futuros equipamentos só na revisão quinquenal.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, mantém a tarifa de pedágio (R$ 5,20) com vigência a definir",
+     "ts": "0:25:13",
+     "justificativa": "excluídas as 17 novas unidades de monitoração eletrônica de velocidade (aumento superior a 100% do parque, impacto na tarifa; PF sugeriu não incluir em revisão extraordinária; Res. Contran 396/2011); 11ª ordinária −0,07%, 11ª extraordinária −5,14%, reajuste +4,45%",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:29:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:29:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:29:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:29:39",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:29:43",
+   "processo": "50500.?636/2017-72",
+   "interessado": "SUINF e SUFER",
+   "assunto": "Alteração da Res. 2.493/2007 (comprovação de regularidade fiscal de concessionárias rodoviárias e ferroviárias)",
+   "tema": [
+    "regulação normativa",
+    "concessões rodoviárias",
+    "ferrovias"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Maior previsibilidade sobre os documentos exigidos.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, aprova a alteração",
+     "ts": "0:29:43",
+     "justificativa": "racionaliza documentos e certidões, especificando entes federativos; mantém o mecanismo de incentivo regulatório; dispensa audiência pública por não restringir direitos; PF/ANTT sem óbice",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:32:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:32:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:32:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:32:23",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:32:27",
+   "processo": "50151.320125/2018-18",
+   "interessado": "Auto Viação Catarinense, Unisul Transporte e Planalto Transportes",
+   "assunto": "Transferência de mercados",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "retirado de pauta",
+   "resumo_voto": "Retirada pela relatora.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, retira de pauta",
+     "ts": "0:32:27",
+     "justificativa": "documentação adicional apresentada na manhã da sessão exige nova análise; o voto será apresentado na próxima reunião",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3 e 2.2.4",
+   "ts": "0:33:28",
+   "processo": "2 processos (50540.376/2019-53; 50500.393565/2019)",
+   "interessado": "Auto Viação Progresso; ERA Transporte e Turismo e outras",
+   "assunto": "Bloco: alteração de LO e termo de autorização de fretamento",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Processos de rotina votados em bloco; conteúdo não detalhado na transmissão.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova (voto em bloco)",
+     "ts": "0:33:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:34:29",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:34:29",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:34:29",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:34:29",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:34:33",
+   "processo": "50500.364?/2019-11",
+   "interessado": "Rumo Malha Paulista S/A",
+   "assunto": "Execução de projeto de interesse próprio: duplicação entre pátios (km 118+161 a 130+753, trecho Cordeirópolis–Rio Claro/SP)",
+   "tema": [
+    "ferrovias"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Autorizada a execução da obra pela concessionária.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, autoriza",
+     "ts": "0:34:33",
+     "justificativa": "obra de duplicação elimina gargalos e melhora a prestação do serviço; não há indício de ônus ao poder público; concessionária com pendências contratuais mas pleito é obra de interesse da ferrovia",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:36:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:36:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o relator, considerando as características operacionais",
+     "ts": "0:36:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:36:46",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.3 e 2.3.4",
+   "ts": "0:36:50",
+   "processo": "2 processos (50500.399751/2019-28; 50500.400?118/2019-24)",
+   "interessado": "2RS Transportes Turísticos e Logística; Viação Amarelinho",
+   "assunto": "Bloco: termo de autorização e recadastramento de fretamento",
+   "tema": [
+    "ônibus (fretamento)"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Processos de rotina votados em bloco; conteúdo não detalhado na transmissão.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova (voto em bloco)",
+     "ts": "0:36:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:36:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:36:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:36:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:36:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.1",
+   "ts": "0:37:39",
+   "processo": "3 despachos",
+   "interessado": "Marcelo Vinaud (2) e Davi Barreto (1)",
+   "assunto": "Pedidos de cancelamento de distribuição de processos (art. 4º Del. 955/2019; art. 67 Res. 5.810/2018; Nota Jurídica 01754/2019)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "(não identificado)",
+   "resultado": "aprovado por unanimidade (com registro de que os cancelamentos se tornaram repetitivos)",
+   "resumo_voto": "Um diretor (voz não identificada) observa que as áreas estão sobrecarregadas e que as diligências demoram.",
+   "votos": []
+  },
+  {
+   "id": "EXTRA-1",
+   "ts": "0:39:26",
+   "processo": "50500.302?/2019",
+   "interessado": "SUROC",
+   "assunto": "Extrapauta: restabelecimento da Res. 5.849/2019 (pisos mínimos do frete), suspensa cautelarmente pela Res. 5.851/2019 a pedido do Ministério da Infraestrutura",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "regulação normativa",
+    "judicializacao"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Relatório à Diretoria 798/2019; NT SEI 6218/2019 da SUROC; nota informativa do MInfra de 11/11/2019.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, aprova o restabelecimento da Res. 5.849/2019 com ajustes",
+     "ts": "0:39:26",
+     "justificativa": "o MInfra, após reuniões com o setor, informou que manter a suspensão geraria risco de dano de difícil reparação; PF concorda; ajustes redacionais para esclarecer que lucro, movimentação logística complementar e despesas adicionais são negociados à parte e que o pedágio é pago além do piso mínimo (Lei 10.209/2001)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:44:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:44:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:44:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:44:30",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "2.2.2 — transferência de mercados Auto Viação Catarinense / Unisul / Planalto (50151.320125/2018-18)",
+   "relator": "Elisabeth Braga",
+   "motivo": "documentação adicional protocolada na manhã da sessão",
+   "ts": "0:32:45"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda: abertura rotulada «Guilherme Sampaio, Marcelo Fonseca»: falha; quem preside é o DG Mário Rodrigues Junior.",
+  "Sustentação oral no 2.1.1: o falante diz não ser advogado; menciona o doutor Cláudio, do escritório Wald; nomes incertos.",
+  "Após o pedido de vista de Weber Ciloni há falas de outros diretores (sobre prazo de parcelamento e proporcionalidade) que a legenda não permite atribuir com segurança.",
+  "Números de resolução/deliberação e valores (Res. 5.849, 5.851, 5.820; 3,22%; 5,14%) conforme legenda; verificar na fonte.",
+  "Itens reservados sem voto registrado."
+ ]
+}

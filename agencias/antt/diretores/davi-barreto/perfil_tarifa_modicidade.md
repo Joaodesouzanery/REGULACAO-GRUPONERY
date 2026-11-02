@@ -1,15 +1,16 @@
 # Perfil analítico — Davi Barreto · tema: tarifa_modicidade
 
-**Amostra:** presente em 67 das 76 reuniões analisadas em que há registro de presença/ausência; 14 votos neste tema; 5 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 137 das 151 reuniões analisadas em que há registro de presença/ausência; 15 votos neste tema; 5 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 8 (88% dos votos em que não era relator) · relator 5 · vista pedida 0 · voto-vista divergente 1 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 9 (90% dos votos em que não era relator) · relator 5 · vista pedida 0 · voto-vista divergente 1 · vencido 0 · outros/não captado 0
 **Como relator:** 4/5 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 155/56; regulacao_normativa 121/38; fiscalizacao_sancoes 92/29; institucional 83/15; reequilibrio_contratual 74/31; ferrovias 74/19; onibus 73/23; participacao_social 69/27; judicializacao 50/20; leilao_otimizacao 49/20; pedagio_freeflow 46/18; onibus_regular 46/17; cargas 25/9; onibus_fretamento 15/4; tarifa_modicidade 14/5; onibus_semiurbano 11/1; sandbox_inovacao 5/1; sustentabilidade 4/0
+**Temas (nº de itens em que votou / relatorias):** onibus 306/66; concessoes_rodoviarias 298/89; regulacao_normativa 255/62; institucional 215/31; onibus_regular 210/45; ferrovias 171/39; fiscalizacao_sancoes 159/43; reequilibrio_contratual 157/49; participacao_social 143/41; judicializacao 135/40; onibus_fretamento 100/27; pedagio_freeflow 93/28; leilao_otimizacao 79/28; cargas 68/16; onibus_semiurbano 21/2; tarifa_modicidade 15/5; sandbox_inovacao 7/1; sustentabilidade 5/0
 **Tom (inferência da leitura, não métrica):** firme/técnico
 
 ## Evidências (reunião · item · voto · justificativa)
 
+- **RD 819 (2019-07-23)**, item 2.2.1 — Fusão das tabelas tarifárias de gasolina e óleo diesel em tabela única «combustíveis» · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=aN2OZHj7G1c&t=365s) · resultado: aprovado por unanimidade
 - **RD 891 (2021-03-09)**, item 2.4.1 — Reajuste da tarifa básica de pedágio e autorização de início da cobrança nas praças P3 (Ituiutaba), P4 (Santa Vitória) e P5 (Paranaiguara) · voto: *de acordo* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=avr7ZpONzto&t=1645s) · resultado: aprovado por unanimidade
 - **RD 896 (2021-04-13)**, item 2.3.2 — 13ª revisão ordinária, 13ª revisão extraordinária e reajuste anual da tarifa básica de pedágio · voto: *de acordo* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=NjSTSz_qmS0&t=1821s) · resultado: aprovado por unanimidade
 - **RD 907 (2021-06-29)**, item 1.1 — Quinta revisão ordinária, sétima revisão extraordinária e reajuste da tarifa básica de pedágio da Ecoponte (BR-101/RJ, acesso à Ponte Presid · voto: *de acordo* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=blOL4WURQD0&t=220s) · resultado: aprovado por unanimidade

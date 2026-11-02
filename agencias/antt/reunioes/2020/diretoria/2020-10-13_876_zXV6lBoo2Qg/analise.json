@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "video_id": "zXV6lBoo2Qg",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "876",
+  "data": "2020-10-13",
+  "formato": "videoconferência transmitida no YouTube",
+  "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Weber Ciloni",
+   "Davi Barreto",
+   "Alexandre Porto",
+   "Eduardo Marra"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 15h55.",
+   "Reunião muito curta: único item público (retirado de pauta) e um PAD reservado."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1 (reservado)",
+   "ts": "0:02:15",
+   "processo": "50500.334968/2019-92 (parcial)",
+   "interessado": "Processo administrativo disciplinar (recurso)",
+   "assunto": "PAD em grau de recurso, de relatoria de Weber Ciloni, julgado ao final da transmissão",
+   "tema": [
+    "fiscalização e sanções",
+    "institucional"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "sigiloso – julgamento fora da transmissão",
+   "resumo_voto": "Sem conteúdo público.",
+   "votos": []
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:02:39",
+   "processo": "50500.017557/2020-79 (parcial)",
+   "interessado": "Concessionária das Rodovias Centrais do Brasil (Concebra)",
+   "assunto": "Revisão ordinária, revisão extraordinária e reajuste da tarifa básica de pedágio",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "pedágio"
+   ],
+   "relator": "Eduardo Marra",
+   "resultado": "retirado de pauta (aprovado por unanimidade)",
+   "resumo_voto": "Relator pediu retirada para análise mais aprofundada, não só do fator discutido nos autos mas de outros fatores que julga importantes avaliar em conjunto.",
+   "votos": [
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "pede retirada de pauta",
+     "ts": "0:03:11",
+     "justificativa": "análise mais aprofundada e conjunta de outros fatores",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com a retirada",
+     "ts": "0:03:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:03:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:03:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:03:45",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "2.2.1 — Concebra",
+   "relator": "Eduardo Marra",
+   "motivo": "análise mais aprofundada",
+   "ts": "0:03:11"
+  }
+ ],
+ "limites_da_analise": [
+  "A legenda diz «reunião nº 866 876»; título e ata anterior (875) confirmam 876.",
+  "Nomes distorcidos («veber/web» = Weber Ciloni); concessionária identificada como Concebra por inferência do nome «Rodovias Centrais do Brasil».",
+  "Número de processo parcial; item reservado sem conteúdo."
+ ]
+}

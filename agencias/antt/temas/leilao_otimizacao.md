@@ -1,5 +1,79 @@
 # Itens do tema «leilao_otimizacao» (todos os diretores)
 
+- **RD 804 (2019-03-26)**, EP-1 · relator **Marcelo Vinaud** · Extrapauta — Relatório da Audiência Pública 13/2018 (concessão da BR-101/SC, trecho Paulo Lopes km 244,68 a divisa com o RS km 465) → aprovado por unanimidade
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=GHw9REZb1zA&t=3140s)
+- **RD 804 (2019-03-26)**, EP-2 · relator **Elisabeth Braga** · Extrapauta — Plano de Outorga da concessão da BR-101/SC (trecho Sul) para envio ao Ministério da Infraestrutura (Portaria MInfra 106/2013) → aprovado por unanimidade
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=GHw9REZb1zA&t=3353s)
+- **RD 61 (extraordinária) (2019-04-30)**, 1.2.4 · relator **Elisabeth Braga** · Homologação do resultado do leilão da subconcessão (Edital 02/2018; Porto Nacional-TO a Estrela d'Oeste-SP) → aprovado por unanimidade
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=_fNM_kiMQlc&t=1310s)
+- **RD 813 (2019-06-04)**, 2.3.4 · relator **Elisabeth Braga** · Aprovação do edital de concessão da BR-364/365 (GO/MG), trecho entre o entroncamento com a BR-060 e o contorno oeste de Uberlândia, com contrato e PER → aprovado por unanimidade
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=ydYYojzjVn4&t=1810s)
+- **RD 818 (2019-07-16)**, 2.1.9 · relator **Elisabeth Braga** · Abertura de audiência pública para a concessão da BR-381/262 MG/ES (minutas de edital e contrato, PER e estudos); sessões em Brasília, Vitória, Govern → aprovada abertura da AP; unanimidade
+  - votos: Elisabeth: relator; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=Ve-A2CB2qb4&t=1297s)
+- **RD 820 (2019-07-30)**, 2.4.1 · relator **Davi Barreto** · Abertura de audiência pública: programa de exploração e estudos de viabilidade da concessão da BR-153/414/080 TO/GO (cerca de 850 km, duplicação, inve → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: acompanha; Davi: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=wTsJa3zoysI&t=3848s)
+- **RD 824 (2019-08-27)**, 2.2.7 · relator **Elisabeth Braga** · Solicitação para operar novos mercados oriundos do processo seletivo público (sorteio eletrônico): 53 dos 54 mercados autorizados → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: relator; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=_1ekxBesJpo&t=1760s)
+- **RD 824 (2019-08-27)**, 2.4.2 · relator **Davi Barreto** · Abertura de audiência pública: minutas de edital e contrato, PER e EVTEA da concessão da BR-163/230/MT-PA (Sinop - Miritituba) → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Davi: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=_1ekxBesJpo&t=2205s)
+- **RD 825 (2019-09-03)**, 2.1.1 · relator **Marcelo Vinaud** · Referendo à Deliberação do Diretor-Geral Substituto (22/8/2019; número lido como 860 ou 1862) que validou as alterações do Comunicado Relevante nº 2/2 → aprovado por unanimidade — referendo
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=MeEnP05i-aI&t=98s)
+- **RD 832 (2019-10-22)**, 2.2.2 · relator **Elisabeth Braga** · Homologação do resultado do leilão da concessão da BR-364/365 GO/MG (Edital 01/2019; entre Jataí e o contorno oeste de Uberlândia) → homologado; unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=tDrIVnhMZBo&t=248s)
+- **RD 832 (2019-10-22)**, 2.4.2 · relator **Davi Barreto** · Estudos técnicos e jurídicos da subconcessão da FIOL (minutas finais de edital e contrato) → retirado de pauta por uma semana; sem objeção
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=tDrIVnhMZBo&t=930s)
+- **RD 833 (2019-10-30)**, 2.3.2 · relator **Davi Barreto** · Estudos técnicos e jurídicos da subconcessão da FIOL (Ferrovia de Integração Oeste-Leste), trecho Ilhéus - Caetité (BA) → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Weber: acompanha; Davi: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=Ie5Fnfu5VQI&t=2702s)
+- **RD 834 (2019-11-05)**, 2.4.1 · relator **Davi Barreto** · Aprovação do edital da concessão do lote da BR-101/SC (da ponte sobre o rio Mampituba à divisa com o RS... trecho de cerca de 220 km, já duplicado) → aprovado por unanimidade
+  - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jtaSxDPBkcE&t=1660s)
+- **RD 837 (2019-11-26)**, 2.3.2 · relator **Elisabeth Braga** · Requerimento de relicitação da concessão da BR-040 DF/GO/MG (Edital 6/2013) nos termos da Lei 13.448/2017 e do Decreto 9.957/2019 → aprovado; remessa ao Ministério da Infraestrutura; unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=3O5viqLvwtg&t=823s)
+- **RD 840 (2019-12-17)**, 2.3.2 · relator **Weber Ciloni** · Transferência de mercados; voto-vista de Weber Ciloni (voto da relatora apresentado na RD 838, 03/12/2019) → vista concedida ao Diretor-Geral Mário Rodrigues Junior (sem conclusão)
+  - votos: Weber: revisor_acompanha; Mário: vista · [vídeo](https://www.youtube.com/watch?v=g9pWxYnVrPA&t=849s)
+- **RD 840 (2019-12-17)**, 2.1.4 · relator **Marcelo Vinaud** · Abertura de audiência pública sobre minutas de edital, contrato, programa de exploração e estudos de viabilidade da concessão do sistema rodoviário Ri → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=g9pWxYnVrPA&t=1492s)
+- **RD 840 (2019-12-17)**, 2.2.2 · relator **Elisabeth Braga** · Emissão do ato de outorga da concessão da BR-364/365/GO-MG (trecho Jataí/GO–Uberlândia/MG, 437 km; edital 12/2019) → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=g9pWxYnVrPA&t=2006s)
+- **RD 844 (2020-02-04)**, 2.3.2 · relator **Weber Ciloni** · Audiência Pública 12/2019: aprovação do relatório e envio do plano de outorga ao Ministério da Infraestrutura para a concessão do lote rodoviário da B → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5H2Ghxo8L9k&t=2341s)
+- **RD 851 (2020-04-07)**, 2.2.2 · relator **Weber Ciloni** · Audiência Pública 12/2019: minutas de edital, contrato e Programa de Exploração da Rodovia para a concessão da BR-153/414/080 (Tocantins/Goiás) → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=185j9FgJSfw&t=2355s)
+- **RD 851 (2020-04-07)**, 2.4.1 · relator **Alexandre Porto** · Homologação do resultado do leilão da BR-101/SC (Paulo Lopes a divisa com o RS), vencido por CCR S.A. com tarifa básica de R$ 1,97 → aprovado por unanimidade
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=185j9FgJSfw&t=3393s)
+- **RD 854 (2020-05-05)**, 2.4.2 · relator **Alexandre Porto** · Relatório da Audiência Pública nº 15/2019 e encaminhamento ao Ministério da Infraestrutura do plano de outorga para concessão do Sistema Rodoviário BR → aprovado por unanimidade
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=5Wuych4chNY&t=1874s)
+- **RD 859 (2020-06-09)**, 2.1.1 · relator **Marcelo Vinaud** · Aprovação do relatório da Audiência Pública 10/2019 e dos novos minutas de edital e contrato da concessão da BR-381/262 MG/ES, com envio ao Ministério → retirado de pauta pelo relator, aprovado por unanimidade
+  - votos: Marcelo: relator; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=05mc2Fg9l18&t=153s)
+- **RD 862 (2020-06-30)**, 2.1.1 · relator **Marcelo Vinaud** · Pedido da CCR de inclusão de cláusula na minuta do contrato de concessão da BR-101/SC que atribuísse ao poder concedente os riscos da pandemia de COVI → aprovado por unanimidade — pedido indeferido
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=WkYsadnFmNU&t=198s)
+- **RD 862 (2020-06-30)**, 2.1.2 · relator **Marcelo Vinaud** · Emissão do ato de outorga e autorização para assinar o contrato do Edital nº 2/2019 (BR-101/SC, km 244+680 a divisa SC/RS), com desconto de 62,04% na  → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=WkYsadnFmNU&t=497s)
+- **RD 862 (2020-06-30)**, 2.3.1 · relator **Davi Barreto** · Estudos técnicos e jurídicos para concessão da ferrovia Mato Grosso–Itaituba (EF-170 Ferrogrão) → retirado de pauta (aprovado por unanimidade)
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=WkYsadnFmNU&t=1130s)
+- **RD 864 (2020-07-14)**, 2.5.2 · relator **None** · Celebração do primeiro termo aditivo ao contrato de concessão (Edital 06/2013) para adequar à relicitação (Lei 13.448/2017, Decreto 9.957/2019; empree → aprovado por unanimidade (com ressalva de procedimento)
+  - votos: Davi: acompanha; Weber: acompanha; Eduardo: outro; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=_RSg6WUtZj0&t=2380s)
+- **RD 865 (2020-07-21)**, 2.2.3 · relator **Davi Barreto** · Qualificação do contrato de concessão da BR-163/MS para relicitação (Lei 13.448/2017; Decreto 9.957/2019) → aprovado por unanimidade
+  - votos: Davi: relator; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=EFqrNJhKrSo&t=1002s)
+- **RD 867 (2020-08-04)**, 2.1.1 · relator **None** · Aprovação do relatório da Audiência Pública nº 10/2019 (minutas de edital, contrato, PER e estudos de viabilidade) para concessão da BR-381/MG e BR-26 → aprovado por unanimidade
+  - votos: Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=Y2XuL68vXN4&t=788s)
+- **RD 870 (2020-09-01)**, Extrapauta · relator **Alexandre Porto** · Prorrogação do prazo do art. 3º da Deliberação 329/2020 (45 dias, expirado em 31/08/2020) para assinatura do primeiro termo aditivo da relicitação, po → aprovado por unanimidade
+  - votos: Alexandre: relator; Weber: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=FlDaU_ciwQM&t=286s)
+- **RD 877 (2020-10-27)**, 2.4.1 · relator **Eduardo Marra** · Relatório final da Audiência Pública 018/2019 — plano de outorga e documentos jurídicos da concessão da rodovia entre São Paulo e Rio de Janeiro (Via  → aprovado por unanimidade
+  - votos: Eduardo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=GAtL0jed_ZU&t=3466s)
+- **RD 877 (2020-10-27)**, EP-1 · relator **Marcelo Vinaud** · Extra-pauta: viabilidade técnica e jurídica do requerimento de relicitação do contrato de concessão da Malha Oeste (Lei 13.448/2017, Decreto 9.957/201 → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=GAtL0jed_ZU&t=3913s)
+- **RD 879 (2020-11-10)**, 2.1.2 · relator **Weber Ciloni** · Abertura de audiência pública sobre minuta de resolução com diretrizes para encerramento e relicitação de contratos de concessão rodoviária (transição → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=B-NPl1jUYE0&t=585s)
+- **RD 879 (2020-11-10)**, EP-1 · relator **Davi Barreto** · Extrapauta: primeiro termo aditivo ao contrato de concessão para a relicitação da BR-040 (qualificação no PPI, Decreto 10.248/2020), após revogação de → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=B-NPl1jUYE0&t=1330s)
+- **RD 883 (2020-12-08)**, 2.3.3 · relator **Alexandre Porto** · Abertura de audiência pública sobre edital, contrato, PER e EVTEA da concessão do sistema rodoviário Rio de Janeiro – Governador Valadares (MG), exten → aprovado por unanimidade
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=ZulDOW-0648&t=1736s)
+- **RD 884 (2020-12-15)**, 2.4.2 · relator **Alexandre Porto** · Edital de subconcessão nº 1/2020 da Ferrovia de Integração Oeste-Leste, trecho de 537 km entre Ilhéus e Caetité, e constituição da comissão de outorga → aprovado por unanimidade
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=SIaolRUffls&t=4202s)
+- **RD 886 (2021-01-28)**, 2.2.2 · relator **Weber Ciloni** · Aprovação do edital de concessão do sistema rodoviário BR-153 (Tocantins/Goiás) e BR-080/414 (Goiás), integrante do PPI → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=3LVmgqbrUNY&t=1270s)
+- **RD 886 (2021-01-28)**, 2.3.1 · relator **Davi Barreto** · Abertura de audiência pública sobre minutas de edital, contrato, PER e estudos de viabilidade para concessão de seis lotes do sistema rodoviário do Pa → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=3LVmgqbrUNY&t=1496s)
 - **RD 889 (2021-02-23)**, 2.2.1 · relator **Davi Barreto** · 13º termo aditivo ao contrato: extensão do prazo por 12 meses (prorrogável por períodos de 6 meses, máximo 24) por não conclusão da licitação da nova  → aprovado por maioria (vencido Weber Ciloni)
   - votos: Davi: relator; Weber: vencido; Eduardo: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=Ry_MleO7hwU&t=1003s)
 - **RD 892 (2021-03-16)**, 2.2.2 · relator **Eduardo Marra** · Edital de concessão do sistema rodoviário das BR-163/230 (MT-PA) - retirado de pauta → retirado de pauta (unânime)

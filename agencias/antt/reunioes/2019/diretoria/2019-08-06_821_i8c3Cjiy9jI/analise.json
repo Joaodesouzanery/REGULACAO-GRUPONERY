@@ -1,0 +1,359 @@
+{
+ "meta": {
+  "video_id": "i8c3Cjiy9jI",
+  "fonte": "legenda automática do YouTube (texto corrido sem marcadores internos); falantes do .md não confiáveis; ts = tempo do vídeo, obtido por busca de frases em data/transcricoes; ts de quem só acompanha o relator são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "821",
+  "data": "2019-08-06",
+  "formato": "presencial (transmissão ao vivo)",
+  "presidente_da_sessao": "Mário Rodrigues Junior (Diretor-Geral)",
+  "diretores_presentes": [
+   "Elisabeth Braga",
+   "Weber Ciloni",
+   "Davi Barreto",
+   "Mário Rodrigues Junior"
+  ],
+  "ausentes": [
+   "Marcelo Vinaud"
+  ],
+  "observacoes": [
+   "Marcelo Vinaud ausente em ciclo internacional de desenvolvimento de executivos nos EUA; quatro diretores aptos a deliberar.",
+   "Encerrada às 17h31."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1 (sigiloso)",
+   "ts": "0:01:30",
+   "processo": "50500.525158/2017-81",
+   "interessado": "Corregedoria",
+   "assunto": "Processo administrativo disciplinar, acesso restrito, julgado ao final da transmissão",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "julgado em sessão reservada",
+   "resumo_voto": "Apenas anunciado.",
+   "votos": []
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:07:37",
+   "processo": "50500.273991/2017-31",
+   "interessado": "Malha Paulista S.A. (Rumo)",
+   "assunto": "Pedido de reconsideração das deliberações ANTT 536 e 537 (metas de segurança e de produção, quinquênio 2018-2022)",
+   "tema": [
+    "ferrovias",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "conhecido; reconsideração improcedente; unanimidade",
+   "resumo_voto": "Metas de produção: direito de passagem e tráfego mútuo computados na produção da concessionária; metas de segurança com redução de 3,2% ao ano, baseadas na série histórica de acidentes (modelo estatístico da nota técnica); concessionária não trouxe fatos novos.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:10:00",
+     "justificativa": "critérios da Res. 3.696/2011 e série histórica de acidentes; sem fatos novos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:10:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:10:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:10:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.3 a 2.1.7",
+   "ts": "0:10:40",
+   "processo": null,
+   "interessado": "Auto Viação Progresso, JBL Turismo, Consórcio Guanabara, Pássaro Marron, Viação Ouro e Prata",
+   "assunto": "Alterações de licença operacional e processos em bloco",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade, em bloco",
+   "resumo_voto": "Rotina.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:11:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:11:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:11:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:11:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1 (sigiloso)",
+   "ts": "0:11:50",
+   "processo": "50500.317104/2016-63",
+   "interessado": "Corregedoria",
+   "assunto": "Processo administrativo disciplinar reservado",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "julgado em sessão reservada",
+   "resumo_voto": "Apenas anunciado.",
+   "votos": []
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:10:14",
+   "processo": "50500.212371/2017-91",
+   "interessado": "TS Viagens e Turismo Ltda.",
+   "assunto": "Processo administrativo ordinário: transporte de mercadorias de origem estrangeira irregular; sugestão de declaração de inidoneidade",
+   "tema": [
+    "fiscalização e sanções"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aplicada inidoneidade por 3 anos; unanimidade",
+   "resumo_voto": "Rito cumprido segundo a Procuradoria; Davi Barreto voto por aplicar a pena de declaração de inidoneidade por três anos.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:12:00",
+     "justificativa": "comissão processante e Procuradoria atestam o cumprimento do rito",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:12:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:12:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:12:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3",
+   "ts": "0:12:23",
+   "processo": "50500.327846/2017-88",
+   "interessado": "Senir Luís André Teta (empresa)",
+   "assunto": "Processo administrativo ordinário: mercadoria estrangeira; comissão sugeriu arquivamento",
+   "tema": [
+    "fiscalização e sanções"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "arquivado; unanimidade",
+   "resumo_voto": "Sem elementos que comprovem infração; Procuradoria concorda.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:12:35",
+     "justificativa": "ausência de elementos que comprovem infração",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:12:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:12:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:12:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.4 e 2.2.5",
+   "ts": "0:13:13",
+   "processo": "50500.002544/2019-61 e 50500.002386/2019 (aprox.)",
+   "interessado": "Gontijo Transportes Ltda. (impugnantes) contra Real Expresso (seção São José do Rio Preto na linha Goiânia-Rio) e Guanabara (linha Fortaleza-Aracaju)",
+   "assunto": "Impugnações contra implantação de seções (modificação operacional) em linhas",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "regulação normativa"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "conhecidas; improvidas; mantidas as Deliberações 334 e 335; unanimidade",
+   "resumo_voto": "Modificação operacional (seção) não exige estudo de demanda; art. 47-B da Lei 10.233 e Res. 4.770/2015: inviabilidade operacional só se avalia na entrada de novo operador; em autorização há livre e aberta competição (art. 43).",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:14:30",
+     "justificativa": "modificação operacional não é entrada de novo agente; art. 43 e 47-B da Lei 10.233",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:16:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:17:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:17:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.6",
+   "ts": "0:17:12",
+   "processo": "50500.324287/2018",
+   "interessado": "Companhia Brasileira de Alumínio (CBA) / Ferrovia Centro-Atlântica",
+   "assunto": "Prorrogação de prazo para apresentação de contrato de transporte ferroviário de cargas (bauxita Poços de Caldas a Alumínio-SP)",
+   "tema": [
+    "ferrovias"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "provimento parcial; novo prazo de 30 dias; unanimidade",
+   "resumo_voto": "Área técnica propunha novo ato declaratório de 180 dias (pleito intempestivo); relator entende que a Res. 3.694/2011 (art. 28, §2º) não veda prorrogação e que o usuário demonstrou continuar negociando.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova (provimento parcial)",
+     "ts": "0:20:00",
+     "justificativa": "Res. 3.694/2011 não veda prorrogação de prazo vencido; usuário segue negociando",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:20:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator, após pedir esclarecimento sobre contagem do prazo",
+     "ts": "0:20:50",
+     "justificativa": "perguntou se o prazo contaria dos 19 dias; relator respondeu 30 dias a partir de agora",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:21:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.7 e 2.2.8",
+   "ts": "0:21:28",
+   "processo": "50500.341924/2019-19; 50500.343546/2019 (aprox.)",
+   "interessado": "JC Turismo e Fretamento; Caburaí Transporte",
+   "assunto": "Recadastramento de termo de autorização de serviço regular",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade, em bloco",
+   "resumo_voto": "Rotina.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:21:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:21:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:21:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:21:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.x (assuntos gerais)",
+   "ts": "0:22:33",
+   "processo": "50500.332987/2009-84 (aprox.)",
+   "interessado": "Despacho de cancelamento de distribuição",
+   "assunto": "Cancelamento de distribuição de processo; sem objeção",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "diretoria",
+   "resultado": "aprovado",
+   "resumo_voto": "Sem objeção dos diretores.",
+   "votos": []
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Nomes de diretores na legenda saem muito deturpados (ex.: Vinaud como virou/dominou/minou; Ciloni como simone/cyclone/silom); atribuição por contexto e pela lista de presentes.",
+  "Números de processo, valores e datas da legenda podem estar errados; datas como 2009/2019 e 1900 costumam ser erro de transcrição de 2019/2018.",
+  "Itens apreciados em bloco aparecem sem detalhe individual de voto; ts de votos de quem apenas acompanha são aproximados.",
+  "Processos sigilosos (PADs e processos sancionadores) são julgados ao final da transmissão com participação restrita; sem conteúdo no vídeo.",
+  "A fala do relator em 2.2.4/2.2.5 mistura os dois pleitos; números de processo incertos."
+ ]
+}

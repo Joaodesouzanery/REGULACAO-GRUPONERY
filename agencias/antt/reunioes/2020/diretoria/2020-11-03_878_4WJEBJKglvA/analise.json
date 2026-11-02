@@ -1,0 +1,91 @@
+{
+  "meta": {"video_id": "4WJEBJKglvA", "fonte": "legenda automática do YouTube (transmissão ao vivo; a versão EXLPisbnhWQ é duplicata curta); falantes inferidos; ts = tempo do vídeo (sessão começa ~0:00); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "878", "data": "2020-11-03", "formato": "videoconferência com transmissão ao vivo no YouTube",
+    "presidente_da_sessao": "Weber Ciloni (Diretor-Geral substituto; o Diretor-Geral Marcelo Vinaud estava de férias)",
+    "diretores_presentes": ["Weber Ciloni", "Davi Barreto", "Alexandre Porto", "Eduardo Marra"],
+    "ausentes": ["Marcelo Vinaud (férias)"],
+    "observacoes": ["Reunião curta (cerca de 30 minutos), encerrada às 16h30.", "O item principal foi a 4ª revisão ordinária e 6ª extraordinária da Ecoponte (Ponte Rio-Niterói), com voto-vista de Weber Ciloni que ficou alinhado ao relator Davi Barreto e acrescentou determinações sobre os fatores C e X.", "Na tarifa da Ecovias do Cerrado houve inclusão de processo extrapauta (início da cobrança de pedágio nas praças P1 e P2 da BR-364/365).", "Eduardo Marra retirou de pauta a proposta de súmula sobre requisitos de admissibilidade de pedidos de reanálise em revisões tarifárias.", "A transmissão não mostra presença de Menezes nesta data."]
+  },
+  "itens": [
+    {
+      "id": "2.1.1", "ts": "0:01:42",
+      "processo": "50500.020439/2020-48 (número lido de forma incerta)", "interessado": "Concessionária Ponte Rio-Niterói S.A. (Ecoponte)",
+      "assunto": "4ª revisão ordinária, 6ª revisão extraordinária e reajuste da tarifa básica de pedágio (voto-vista de Weber Ciloni; relator Davi Barreto)",
+      "tema": ["concessões rodoviárias", "pedágio", "reequilíbrio contratual", "fator C / fator X (desempenho)"],
+      "relator": "Davi Barreto (voto 85/2020); voto-vista de Weber Ciloni", "resultado": "aprovado por unanimidade - voto do relator com as determinações complementares do voto-vista",
+      "resumo_voto": "O processo foi apresentado na reunião 875 (06/10/2020), quando Weber Ciloni pediu vista. Weber considera que sua vista perdeu o objeto: o fator C (desempenho) foi amplamente debatido nas três últimas revisões tarifárias, e a colegialidade deve prevalecer sobre sua posição minoritária anterior, além da isonomia entre concessionárias. Aprova o voto do relator, que altera a TBP (valor após arredondamento de cerca de R$ 4,30 para R$ 4,60, conforme a legenda, incerto), e acrescenta determinações: elaborar a instrução normativa sobre os fatores C e X com antecedência à agenda regulatória; incluir no apoio técnico do pregão 14/2019 a auditoria de dados das concessionárias; evitar ônus da verba de aparelhamento da PRF para as concessionárias (parecer da Procuradoria); manter os investimentos em tecnologia até a ativação do link do Pregão 07/2020 (CNS, pesagem remota, CFTV). Se a futura normativa tiver interpretação diferente, as três revisões podem ser revistas.",
+      "votos": [
+        {"diretor": "Weber Ciloni", "voto": "voto-vista: aprova o voto do relator com determinações complementares", "ts": "0:02:25", "justificativa": "a colegialidade e a isonomia exigem aplicar o fator C como nas demais revisões já deliberadas; acrescenta determinações para acelerar a instrução normativa dos fatores C e X", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "de acordo com o voto-vista e com as sugestões incorporadas", "ts": "0:11:50", "justificativa": "as determinações são pertinentes; ressalva preocupação com eventuais efeitos retrospectivos de ajustes metodológicos, a discutir na revisão do marco regulatório", "confianca": "alta"},
+        {"diretor": "Alexandre Porto", "voto": "acompanha o relator", "ts": "0:13:02", "justificativa": "em questão de ordem, observa que não apresentou vista nesta revisão e pede que a Suinf apresente cronograma, antecipando o tratamento do fator X dentro da agenda regulatória", "confianca": "media"},
+        {"diretor": "Eduardo Marra", "voto": "de acordo com o voto-vista que acompanhou o relator", "ts": "0:14:18", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.1.2", "ts": "0:14:53",
+      "processo": "50500.082993/2019-32 (número lido de forma incerta)", "interessado": "Ecorodovias: Ecosul, Ecovias do Cerrado, Ecoponte e Eco101",
+      "assunto": "Comunicação de ajustes na estrutura societária do grupo Ecorodovias, apresentada para aprovação prévia da agência; proposta de súmula sobre o tema",
+      "tema": ["concessões rodoviárias", "institucional", "regulação normativa"],
+      "relator": "Weber Ciloni (inferência pela ordem de leitura)", "resultado": "vista coletiva concedida; deliberação em reunião seguinte",
+      "resumo_voto": "A reestruturação societária não implica transferência de titularidade das outorgas e não há previsão legal que exija aprovação do colegiado; o relatório sugere que a Diretoria apenas tome conhecimento, comunicando às concessionárias a inexistência de óbice, e propõe súmula (art. 121 do Regimento Interno) com esse entendimento. O processo fora retirado de pauta na reunião deliberativa eletrônica 22 (26 a 29/10/2020). Foi concedida vista coletiva.",
+      "votos": [
+        {"diretor": "Weber Ciloni", "voto": "relator, propõe tomar conhecimento e editar súmula", "ts": "0:15:10", "justificativa": "operação societária interna ao grupo não transfere a titularidade das outorgas; desnecessário submeter ao colegiado", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.2.1", "ts": "0:17:54",
+      "processo": "50500.10315x/2020-96 (número lido de forma incerta)", "interessado": "Núcleo de acompanhamento, monitoramento e articulação de assuntos estratégicos",
+      "assunto": "Proposta de súmula sobre requisitos de admissibilidade nos processos de revisão ordinária e extraordinária das concessões rodoviárias federais e sobre pedidos sucessivos de reanálise de questões já decididas pela Diretoria",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "regulação normativa"],
+      "relator": "Eduardo Marra", "resultado": "retirado de pauta (unanimidade)",
+      "resumo_voto": "O relator pediu a retirada para melhor análise da matéria.",
+      "votos": [
+        {"diretor": "Eduardo Marra", "voto": "relator, pede retirada de pauta", "ts": "0:18:59", "justificativa": "necessidade de análise mais aprofundada da matéria", "confianca": "alta"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo com a retirada", "ts": "0:19:10", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo com a retirada", "ts": "0:19:14", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "de acordo com a retirada", "ts": "0:19:18", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.2.2", "ts": "0:19:29",
+      "processo": "50500.017557/2020-79 (número lido de forma incerta)", "interessado": "Concessionária das Rodovias Centrais do Brasil (Concebra; a legenda traz «Concebra/Conserva»)",
+      "assunto": "5ª revisão ordinária, 9ª revisão extraordinária e reajuste da tarifa básica de pedágio",
+      "tema": ["concessões rodoviárias", "pedágio", "reequilíbrio contratual", "fator C / fator X (desempenho)", "judicializacao"],
+      "relator": "Eduardo Marra", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "O processo foi retirado de pauta na reunião 876 (13/10/2020) e reincluído. Com a aplicação integral do fator C a média das tarifas cairia de forma muito expressiva (da ordem de 44%, segundo a legenda); a Suinf sugeriu parcelar o fator C em três vezes, cenário que resultou em variação média de -2,49% nas tarifas arredondadas (considerando liminar judicial que proíbe reduzir a tarifa anteriormente vigente). A Procuradoria emitiu parecer reconhecendo respaldo contratual para não usar o montante integral da conta no fator C, evitando grande oscilação tarifária (impacto superior a 40%). O relator observou que o pedido de retirada de pauta feito pela concessionária não foi atendido, pois não havia impedimento jurídico.",
+      "votos": [
+        {"diretor": "Eduardo Marra", "voto": "relator, aprova", "ts": "0:23:22", "justificativa": "instruções técnica e jurídica; parcelamento do fator C em três vezes evita choque tarifário e respeita liminar", "confianca": "alta"},
+        {"diretor": "Weber Ciloni", "voto": "acompanha o relator", "ts": "0:23:55", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "0:24:01", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:24:05", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "extrapauta", "ts": "0:24:22",
+      "processo": "50500.092135/2020-82 (número lido de forma incerta)", "interessado": "Concessionária Ecovias do Cerrado S.A.",
+      "assunto": "Autorização para início da cobrança de pedágio nas praças P1 (Uberlândia) e P2 (Monte Alegre de Minas), BR-364/365 (MG/GO), e reajuste da tarifa básica de pedágio (extrapauta por urgência)",
+      "tema": ["concessões rodoviárias", "pedágio", "reajuste tarifário"],
+      "relator": "Eduardo Marra", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Após vistoria por comissão (pendências sanadas: elementos de proteção, auto de vistoria do Corpo de Bombeiros), a Suinf atestou a capacidade da concessionária. O contrato assegura o primeiro reajuste na data de início da cobrança: IPCA acumulado de 15,33%, que leva a tarifa da categoria 1 a R$ 4,90 após arredondamento, com cobrança prevista a partir de novembro de 2020.",
+      "votos": [
+        {"diretor": "Eduardo Marra", "voto": "relator, aprova início da cobrança e reajuste", "ts": "0:28:39", "justificativa": "requisitos de início da cobrança atestados pela área técnica; reajuste contratual pelo IPCA", "confianca": "alta"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo conforme exposto pelo relator", "ts": "0:29:14", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "0:29:21", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:29:25", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"id": "2.2.1", "relator": "Eduardo Marra", "motivo": "melhor análise da proposta de súmula de admissibilidade em revisões tarifárias"}
+  ],
+  "limites_da_analise": [
+    "Legenda automática muito ruidosa neste vídeo: nomes distorcidos («Weber Silone/Ciloni», «Eduardo marra», «Davi Barreto»). O marcador de falantes inferidos cita Marcelo Fonseca e Alessandro Baumgarten, nomes que não pertencem à época e foram ignorados.",
+    "Quem preside a sessão não é dito de forma inequívoca; a legenda indica que o Diretor-Geral Marcelo Vinaud estava de férias e fala em «diretor-geral substituto» (identificado como Weber Ciloni por inferência).",
+    "O relator do 2.1.2 não aparece nomeado na legenda; a atribuição a Weber Ciloni é inferência pela sequência de leitura dos itens.",
+    "Números de processo e valores de tarifa (Ecoponte R$ 4,30 para R$ 4,60; queda de cerca de 44% na Concebra) estão distorcidos pela legenda e devem ser conferidos.",
+    "Nomes de concessionárias («Conserva/Concebra») são incertos; o voto-vista cita três revisões recentes cujos nomes a legenda não registra.",
+    "Minutos dos votos de quem só acompanha o relator são aproximados (confiança média).",
+    "O vídeo EXLPisbnhWQ (305 s) é uma duplicata parcial desta reunião."
+  ]
+}

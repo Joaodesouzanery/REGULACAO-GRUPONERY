@@ -1,5 +1,7 @@
 # Itens do tema «sustentabilidade» (todos os diretores)
 
+- **RD 886 (2021-01-28)**, 2.1.1 · relator **Marcelo Vinaud** · Referendo da Resolução 5.922, de 16/01/2021, que flexibiliza por 90 dias obrigações regulatórias do transporte doméstico e internacional de oxigênio h → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=3LVmgqbrUNY&t=917s)
 - **RD 911 (2021-08-03)**, 1.4 · relator **Alexandre Porto** · Segundo termo aditivo ao contrato de subconcessão e primeira revisão extraordinária: transferência à Rumo do plantio compensatório / compensação ambie → aprovado por unanimidade (Fábio Rogério declarou depois impedimento e pediu que seu voto f
   - votos: Alexandre: relator; Guilherme: acompanha; Davi: acompanha; Fábio: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=aMM9bZSp6XI&t=1499s)
 - **RD 913 (2021-08-17)**, 2.4.1 · relator **Fábio Rogério** · Aprovação do edital de concessão do Sistema Rodoviário BR-116/RJ-SP (Nova Dutra) e BR-101/RJ-SP (Rio de Janeiro–Ubatuba), 625,8 km: critério híbrido ( → aprovado por unanimidade

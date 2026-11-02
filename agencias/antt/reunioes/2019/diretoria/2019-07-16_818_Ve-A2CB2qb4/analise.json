@@ -1,0 +1,381 @@
+{
+ "meta": {
+  "video_id": "Ve-A2CB2qb4",
+  "fonte": "legenda automática do YouTube (texto corrido sem marcadores internos); falantes do .md não confiáveis; ts = tempo do vídeo, obtido por busca de frases em data/transcricoes; ts de quem só acompanha o relator são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "818",
+  "data": "2019-07-16",
+  "formato": "presencial (transmissão ao vivo)",
+  "presidente_da_sessao": "Mário Rodrigues Junior (Diretor-Geral)",
+  "diretores_presentes": [
+   "Elisabeth Braga",
+   "Davi Barreto",
+   "Mário Rodrigues Junior"
+  ],
+  "ausentes": [
+   "Marcelo Vinaud",
+   "Weber Ciloni"
+  ],
+  "observacoes": [
+   "Marcelo Vinaud e Weber Ciloni ausentes (férias); três diretores aptos a deliberar.",
+   "Encerrada às 16h23.",
+   "O item 2.1.8 foi lido duas vezes por engano do secretário (repetição na legenda)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1",
+   "ts": "0:01:38",
+   "processo": "50500.344218/2018-38",
+   "interessado": "Edson Agência de Viagens e Turismo; Elma Turismo e Cargas",
+   "assunto": "Anuência prévia para transferência do mercado Vitória da Conquista-BA / São Paulo-SP",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "indeferido; unanimidade",
+   "resumo_voto": "Cedente não possui autorização para operar o mercado (art. 51 da Res. 4.770/2015).",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, indefere",
+     "ts": "0:02:30",
+     "justificativa": "cedente sem autorização para o mercado, contrariando o art. 51 da Res. 4.770/2015",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:03:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:03:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:03:51",
+   "processo": "50500.308722/2018 (aprox.)",
+   "interessado": "Viação Nova Integração; Solimões Transportes",
+   "assunto": "Transferência de mercados",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "retirado de pauta pela relatora",
+   "resumo_voto": "Retirado pois a empresa apresentou novo documento retirando/alterando o pedido.",
+   "votos": []
+  },
+  {
+   "id": "2.1.3 e 2.1.4",
+   "ts": "0:04:27",
+   "processo": "50151.346390/2018-26; 50500.3x/2018-45",
+   "interessado": "Consórcio Federal de Transportes e Real Expresso; Viação Salutaris e Turismo e Viação Águia Branca",
+   "assunto": "Transferências de mercado",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "indeferidas; unanimidade",
+   "resumo_voto": "Procuradoria alertou que as autorizatárias têm multas impeditivas, o que impede a transferência.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, indefere",
+     "ts": "0:04:50",
+     "justificativa": "multas impeditivas das empresas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:05:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:05:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.5",
+   "ts": "0:06:20",
+   "processo": "50500.300796/2018 (aprox.)",
+   "interessado": "Cooperativa de Transporte Complementar Interestadual (Cotrans)",
+   "assunto": "Conversão em processo administrativo ordinário: CRLV com indícios de adulteração (resposta do Detran-SP)",
+   "tema": [
+    "fiscalização e sanções"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "convertido em PAO; unanimidade",
+   "resumo_voto": "Adulteração de documento obrigatório é infração grave (possível inidoneidade).",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:06:30",
+     "justificativa": "indícios de autoria e materialidade de adulteração de documento",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:08:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:08:54",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.6",
+   "ts": "0:08:59",
+   "processo": "50500.049716/2015-37",
+   "interessado": "SUPAS",
+   "assunto": "Abertura de audiência pública: minuta de resolução sobre esquema operacional e modificação do serviço regular interestadual semiurbano",
+   "tema": [
+    "ônibus (semiurbano)",
+    "participação social",
+    "regulação normativa"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovada abertura da AP; unanimidade",
+   "resumo_voto": "Preenche lacuna normativa; inclui fórmula de frequência mínima; exclui semiurbano internacional (autorização mais flexível, acordos Mercosul).",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:09:10",
+     "justificativa": "lacuna normativa; agenda regulatória",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:12:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:12:34",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.7",
+   "ts": "0:12:40",
+   "processo": "50500.309982/2019-41",
+   "interessado": "SUROC (Superintendência de cargas)",
+   "assunto": "Relatório da AP 02/2019 e resolução sobre metodologia e coeficientes dos pisos mínimos de frete (PNPM-TRC)",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "participação social"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado; unanimidade",
+   "resumo_voto": "Procuradoria exigiu ajuste do art. 9º (documento do contrato de frete); a área propôs substituí-lo diante do Documento Eletrônico de Transporte do Ministério da Infraestrutura.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:13:30",
+     "justificativa": "Lei 13.703/2018 e ajuste da Procuradoria",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:17:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:17:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.8",
+   "ts": "0:17:11",
+   "processo": "50500.200870/2016-24",
+   "interessado": "SUINF",
+   "assunto": "Relatório da AP 01/2019 e resolução sobre procedimentos de reequilíbrio econômico-financeiro dos contratos de concessão de rodovias",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "participação social"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado; unanimidade",
+   "resumo_voto": "Contribuições da ABCR e ANUT acolhidas parcialmente; Procuradoria recomendou excluir o fator proporcional (art. 2º) e ajustar redação para respeitar contratos vigentes; acatado pela área.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:17:30",
+     "justificativa": "parecer da Procuradoria acatado: respeito aos contratos vigentes",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:21:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:21:24",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.9",
+   "ts": "0:21:37",
+   "processo": "50500.316231/2018 (aprox.)",
+   "interessado": "SUINF",
+   "assunto": "Abertura de audiência pública para a concessão da BR-381/262 MG/ES (minutas de edital e contrato, PER e estudos); sessões em Brasília, Vitória, Governador Valadares e Belo Horizonte",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização",
+    "participação social"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovada abertura da AP; unanimidade",
+   "resumo_voto": "Procuradoria sem óbice jurídico.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:22:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:24:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:24:14",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.10 a 2.1.16",
+   "ts": "0:24:18",
+   "processo": null,
+   "interessado": "Pereira Transportes e outros (fretamento); Trans Águia Turismo e Brisa Ônibus (autorização); alterações de LO: Guerino 600, Via Energia, Nossa Senhora da Penha, Puma Conforto, Gontijo",
+   "assunto": "Recadastramentos e alterações de licença operacional em bloco",
+   "tema": [
+    "ônibus (fretamento)",
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade, em bloco",
+   "resumo_voto": "Rotina.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:24:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:26:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:26:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:26:30",
+   "processo": "50500.348607/2019-23",
+   "interessado": "Superintendência de Gestão (pedido do Gabinete do Diretor-Geral)",
+   "assunto": "Alteração do quantitativo de cargos comissionados (assessorias, assistências e técnicos, FCPE), revogando a Deliberação 406/2019",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado; unanimidade",
+   "resumo_voto": "Ajustes numéricos entre cargos (ex.: assessorias nível 3 de 13 para 16; assistências de 10 para 8); fundamento no art. 114 da Lei 9.986.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:27:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:27:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:27:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.1",
+   "ts": "0:28:00",
+   "processo": "50151.299876/2018-68",
+   "interessado": "Despacho de cancelamento de distribuição",
+   "assunto": "Cancelamento de distribuição de processo; sem objeção",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "diretoria",
+   "resultado": "aprovado",
+   "resumo_voto": "Sem objeção.",
+   "votos": []
+  }
+ ],
+ "retirados": [
+  {
+   "id": "2.1.2",
+   "motivo": "retirado pela relatora Elisabeth Braga: empresa enviou novo documento sobre o pedido"
+  }
+ ],
+ "limites_da_analise": [
+  "Nomes de diretores na legenda saem muito deturpados (ex.: Vinaud como virou/dominou/minou; Ciloni como simone/cyclone/silom); atribuição por contexto e pela lista de presentes.",
+  "Números de processo, valores e datas da legenda podem estar errados; datas como 2009/2019 e 1900 costumam ser erro de transcrição de 2019/2018.",
+  "Itens apreciados em bloco aparecem sem detalhe individual de voto; ts de votos de quem apenas acompanha são aproximados.",
+  "Processos sigilosos (PADs e processos sancionadores) são julgados ao final da transmissão com participação restrita; sem conteúdo no vídeo.",
+  "Item 2.1.4 (Salutaris/Águia Branca) com número de processo ilegível."
+ ]
+}

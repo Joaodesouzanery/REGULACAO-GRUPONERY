@@ -1,0 +1,450 @@
+{
+ "meta": {
+  "video_id": "4qQrSJA_XaM",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulos de falante da legenda não são confiáveis); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "829",
+  "data": "2019-10-01",
+  "formato": "presencial (5 diretores)",
+  "presidente_da_sessao": "Mário Rodrigues Junior (Diretor-Geral) — inferido",
+  "diretores_presentes": [
+   "Mário Rodrigues Junior",
+   "Marcelo Vinaud",
+   "Elisabeth Braga",
+   "Weber Ciloni",
+   "Davi Barreto"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada a transmissão às 16h40 de 01/10/2019.",
+   "Dois processos reservados/sigilosos (2.3.1 SKF Viagens, relator Weber Ciloni; 2.4.1 Concer, relator Davi Barreto) julgados em sessão restrita após a transmissão.",
+   "Um item retirado de pauta (2.2.2, sistema de cobrança semiautomática de pedágio) a pedido da relatora após ofício da ABCR.",
+   "Assuntos gerais: impasse com a ViaBahia e prazo de sete dias."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:50",
+   "processo": "",
+   "interessado": "Ata da 828ª reunião",
+   "assunto": "Aprovação da ata da reunião nº 828",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "",
+   "resultado": "aprovada por unanimidade",
+   "resumo_voto": "Leitura dispensada.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:01:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:01:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:01:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:01:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:01:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1 (reservado)",
+   "ts": "0:01:16",
+   "processo": "50500.327770/2017-91",
+   "interessado": "SKF Viagens Ltda.",
+   "assunto": "Pedido de reconsideração — processo reservado (sigiloso, art. 78-B da Lei 10.233 e art. 71 §1º do Regimento); julgado ao final da transmissão, sem acesso público",
+   "tema": [
+    "fiscalização e sanções"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "não transmitido (julgamento em sessão restrita)",
+   "resumo_voto": "Processo administrativo sancionador em sigilo até a decisão final; sem conteúdo na transmissão.",
+   "votos": []
+  },
+  {
+   "id": "2.4.1 (reservado)",
+   "ts": "0:01:16",
+   "processo": "50500.130642/2008-94 (incerto)",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora–Rio (Concer)",
+   "assunto": "Processo administrativo ordinário — reservado (sigiloso); julgado em sessão restrita",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "não transmitido (julgamento em sessão restrita)",
+   "resumo_voto": "Sigiloso até a decisão final; sem conteúdo na transmissão.",
+   "votos": []
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:02:30",
+   "processo": "50500.323049/1993 (incerto)",
+   "interessado": "Rumo Malha Oeste S.A.",
+   "assunto": "Pedido de reconsideração contra a Deliberação 432/2019 (inadimplemento contratual e prazo para correção; Lei 8.987/1995), alterada pela Deliberação 676/2019",
+   "tema": [
+    "ferrovias",
+    "reequilíbrio contratual",
+    "fiscalização e sanções"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade — pedido conhecido e negado; embargos não conhecidos",
+   "resumo_voto": "Concessionária pedia revisão das obrigações por suposto desequilíbrio causado pela agência, atestado de cumprimento e retorno à área técnica; relator rejeita: não houve desequilíbrio ampliado por morosidade e não cabe atestar o cumprimento.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, nega o pedido de reconsideração",
+     "ts": "0:06:20",
+     "justificativa": "desequilíbrio alegado improcedente; inexistência de atestado de cumprimento",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:06:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:06:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:06:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:06:32",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:06:34",
+   "processo": "50500.381325/2019-38 (incerto)",
+   "interessado": "MS Transportes e Turismo (e outra)",
+   "assunto": "Recadastramento de termo de autorização (serviço regular), em bloco",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Item de rotina; voto disponibilizado antes da reunião.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:07:10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:07:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:07:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:07:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:07:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:07:18",
+   "processo": "50500.397870/2019-11",
+   "interessado": "Rumo Malha Paulista S.A.",
+   "assunto": "Execução de projeto de interesse próprio: duplicação ferroviária entre pátios no trecho Jundiaí–Colômbia (km 158+535 a 168+337, Rio Claro–Itirapina/SP; ≈ 9,8 km)",
+   "tema": [
+    "ferrovias",
+    "investimento"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Gargalo: capacidade de 24,3 pares de trem/dia contra demanda de 17,1 (saturação ≈ 70%); após o projeto, 27 pares e saturação ≈ 63%. Documentação da Res. 2.695/2008 apresentada; obra não enquadrada no art. 15 do Comunicado SUFER 1/2018.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:11:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:11:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:11:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:11:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:11:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:11:07",
+   "processo": "50500.398303/2017-81",
+   "interessado": "SUINF",
+   "assunto": "Proposta de resolução sobre padronização, implementação e operação do sistema semiautomático de arrecadação de pedágio (cobrança eletrônica) nas rodovias federais concedidas — retirado de pauta pela relatora",
+   "tema": [
+    "concessões rodoviárias",
+    "pedágio",
+    "regulação normativa"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "retirado de pauta",
+   "resumo_voto": "A ABCR enviou ofício pedindo reunião; a relatora nota que a associação não enviou contribuições na audiência pública, mas retira para dar prazo de discussão; diretores concordaram.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, retira de pauta",
+     "ts": "0:11:37",
+     "justificativa": "ABCR pediu reunião e prazo; relatora observou que a entidade não comentou na audiência pública",
+     "tom": "cautela",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:12:29",
+   "processo": "50515.330203/2019-08 (incerto)",
+   "interessado": "Viação Sertaneja Ltda.",
+   "assunto": "Alteração de licença operacional, em bloco",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Item de rotina; voto disponibilizado antes da reunião.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:12:55",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:12:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:12:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:12:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:12:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.2",
+   "ts": "0:13:05",
+   "processo": "50500.320243/2018-26 (incerto)",
+   "interessado": "ECO101 Concessionária de Rodovias S.A. (legenda: «ex101»)",
+   "assunto": "Sexta revisão ordinária, sétima revisão extraordinária e reajuste anual da tarifa básica de pedágio",
+   "tema": [
+    "concessões rodoviárias",
+    "pedágio",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito da 6ª revisão ordinária: -7,31%; da 7ª extraordinária: +1,55%; efeito conjunto -5,77%. Reajuste por inflação com fator X (4,31% como lido), desconto de reequilíbrio aplicado conforme a Res. 5.850/2019; variação final da tarifa de -11,72%.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:14:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:14:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:14:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo, parabenizando o relator pelo voto simples e explicativo",
+     "ts": "0:14:59",
+     "justificativa": "clareza e didatismo do voto",
+     "tom": "elogio",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:15:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.3 a 2.4.5 (em bloco)",
+   "ts": "0:15:22",
+   "processo": "50500.316253/2019 (incerto), 50500.381262/2019, 50500.381331/2019",
+   "interessado": "Real Expresso; Agência de Viagens e Turismo Cantur (e outras); Cooperativa de Transporte Rodoviário de Passageiros",
+   "assunto": "Alteração de licença operacional, recadastramento de TAF (fretamento) e termo de autorização de serviço regular, em bloco",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "ônibus (fretamento)"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovados em bloco por unanimidade",
+   "resumo_voto": "Itens de rotina; votos disponibilizados antes da reunião.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:16:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:16:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:16:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:16:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:16:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.1",
+   "ts": "0:16:56",
+   "processo": "",
+   "interessado": "Concessionária ViaBahia",
+   "assunto": "Assuntos gerais — memorando circular informa que a ViaBahia se negou a atender pedidos de técnicos da SUINF; proposta de fixar prazo de sete dias para a concessionária rever sua posição, sob pena de a fiscalização abrir processo de apuração de descumprimento contratual",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "",
+   "resultado": "proposta acolhida por unanimidade (sem votação formal)",
+   "resumo_voto": "Quem propõe não é identificado com segurança na legenda; sete dias seriam prazo razoável antes de abrir processo de descumprimento contratual.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:18:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo (inferido)",
+     "ts": "0:18:25",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "2.2.2",
+   "motivo": "retirado pela relatora Elisabeth Braga após ofício da ABCR pedindo reunião e prazo"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: Marcelo Vinaud aparece como marcelo virou/bueno/lino; Weber Ciloni como veb/vê esse lone/velho e simone; Davi Barreto como da viva rio/de barreto.",
+  "Itens sigilosos (2.3.1 e 2.4.1) sem conteúdo no vídeo: não há análise.",
+  "Quem presidiu: inferido como DG Mário Rodrigues Junior.",
+  "Número de processo reconstruído e incerto quando marcado; número da reunião na ata anterior lido como 1828 (828).",
+  "Percentuais da ECO101 podem estar errados na legenda (fator X, desconto de reequilíbrio).",
+  "Item 3.1: autor da proposta dos sete dias não identificado; votos formais ausentes.",
+  "Votos de seguidores aproximados (confiança média); item 2.1.1 início estimado."
+ ]
+}

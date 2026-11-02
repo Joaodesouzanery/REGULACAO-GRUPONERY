@@ -1,0 +1,414 @@
+{
+ "meta": {
+  "video_id": "t5HV1ZgSFw4",
+  "fonte": "legenda automática do YouTube; falantes da legenda são inferidos e frequentemente errados (o presidente da sessão é rotulado Marcelo Fonseca); ts = tempo do vídeo, aproximados para quem só vota de acordo",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "880",
+  "data": "2020-11-18",
+  "formato": "videoconferência (transmitida no YouTube)",
+  "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Weber Ciloni",
+   "Davi Barreto",
+   "Alexandre Porto",
+   "Eduardo Marra"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Sessão de ~24 min, encerrada ~0:24:07.",
+   "O DG fala duas vezes como relator/revisor: 2.1.1 (retirada) e voto-vista em 2.1.2 (altera o voto do relator original)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:01:02",
+   "processo": "",
+   "interessado": "Secretaria da reunião",
+   "assunto": "Aprovação da ata da 879ª reunião",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "—",
+   "resultado": "aprovada",
+   "resumo_voto": "Eduardo Marra esteve de férias na semana anterior (não vota a ata).",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:01:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:01:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:01:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo (consta que não participou da 879ª)",
+     "ts": "0:01:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:01:35",
+   "processo": "50501.348178/2018-01",
+   "interessado": "SUGOV",
+   "assunto": "Reabertura da Audiência Pública 14/2019: proposta de resolução sobre o processo administrativo de extinção de contratos de concessão rodoviária por inadimplência (art. 38, §2º, Lei 8.987/1995)",
+   "tema": [
+    "concessões rodoviárias",
+    "participação social",
+    "regulação normativa"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "retirado de pauta",
+   "resumo_voto": "Relator retira para diligência na Superintendência após questões levantadas pela área técnica e por outros diretores; pretende retornar na próxima reunião.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, pede retirada de pauta",
+     "ts": "0:02:25",
+     "justificativa": "esclarecimentos pendentes da Superintendência, levantados pela área técnica e por outros diretores",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com a retirada",
+     "ts": "0:03:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:03:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:03:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:03:09",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:03:12",
+   "processo": "50500.087875/2020-15",
+   "interessado": "SUGAD (Superintendência de Gestão Administrativa)",
+   "assunto": "Plano anual de aquisição de veículos 2020 (13 veículos para fiscalização); voto-vista do DG nº 006/2020 após voto do relator Alexandre Porto na RDE nº 20 (13 a 16/10/2020)",
+   "tema": [
+    "institucional",
+    "fiscalização e sanções"
+   ],
+   "relator": "Alexandre Porto (voto original); Marcelo Vinaud (voto-vista)",
+   "resultado": "aprovado por unanimidade (acolhido o voto-vista)",
+   "resumo_voto": "Relator original propusera não aprovar o plano diante das restrições orçamentárias e para priorizar outros investimentos; o DG (voto-vista) propõe aprovar: pente-fino reduziu de 17 para 13 veículos, a aprovação apenas autoriza o uso do orçamento, está no PAC 2020, e a diretoria será informada da destinação da frota pela fiscalização.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "voto-vista, aprova o plano com 13 veículos",
+     "ts": "0:04:00",
+     "justificativa": "complementa a fiscalização, previsto no PAC 2020, não obriga a compra; transparência com detalhamento da destinação pela SUFIS",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o voto-vista",
+     "ts": "0:07:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo com o voto-vista",
+     "ts": "0:07:24",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "acolhe o voto-vista (altera seu voto original)",
+     "ts": "0:07:30",
+     "justificativa": "considerações do revisor",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo com o voto-vista",
+     "ts": "0:07:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:08:34",
+   "processo": "50500.032840/2020-21",
+   "interessado": "Comissão Processante; Rumo Malha Oeste S.A.",
+   "assunto": "Prorrogação por 120 dias do prazo de conclusão do processo administrativo ordinário contra a Rumo Malha Oeste",
+   "tema": [
+    "ferrovias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conclusão estava prevista para 27/11/2020; prazos processuais foram suspensos por MP e resoluções 5.878/2020; concessionária apresentou defesa em 21/10; comissão pede mais 120 dias.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova a prorrogação",
+     "ts": "0:09:30",
+     "justificativa": "suspensão de prazos processuais durante a pandemia e pouco tempo para análise da defesa",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:10:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:10:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:10:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:10:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:10:55",
+   "processo": "50500.110264/2020-53",
+   "interessado": "SUROC",
+   "assunto": "Alteração da Resolução 5.583/2017 (cadastro de veículos de frota para transporte rodoviário internacional de cargas Brasil-Peru): substituir o Manifesto Internacional de Cargas por documento aduaneiro ou outro meio hábil",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "regulação normativa"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Dispensa de consulta/audiência pública (art. 7º, Res. 5.624/2017) e de AIR (baixo impacto, art. 4º III e IV, Decreto 10.411/2020); sem nova obrigação; vigência na publicação; ARR em dois anos.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:11:30",
+     "justificativa": "muda só a forma de comprovação, sem ônus adicional; dispensa de AIR por baixo impacto; prevê ARR em 2 anos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo, destacando a melhoria na conferência documental com verificação da viagem",
+     "ts": "0:15:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:15:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:15:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:15:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:15:47",
+   "processo": "50500.024462/2020-10",
+   "interessado": "SUFER",
+   "assunto": "Abertura de audiência pública sobre a resolução de reversibilidade de bens em concessões e subconcessões ferroviárias",
+   "tema": [
+    "ferrovias",
+    "participação social",
+    "regulação normativa"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "retirado de pauta",
+   "resumo_voto": "Relator retira para melhor avaliar questão trazida pela Assessoria.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, pede retirada de pauta",
+     "ts": "0:16:00",
+     "justificativa": "questão trazida pela Assessoria",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:16:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:16:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:16:36",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:17:00",
+   "processo": "50505.075225/2020-69",
+   "interessado": "Concessionária da Ponte Rio-Niterói S.A. (Ecoponte)",
+   "assunto": "Alteração da restrição de tráfego de veículos de carga na Ponte Presidente Costa e Silva e acessos (Resolução 2.294/2007), em caráter temporário e experimental de 90 dias",
+   "tema": [
+    "concessões rodoviárias",
+    "regulação normativa",
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Retorno da atividade econômica e do fluxo; dois acidentes com cargas em outubro/2020; concessionária favorável a retomar restrições; medida temporária e revisável por 90 dias, com oitiva da PRF; dispensadas audiência pública e AIR.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, aprova",
+     "ts": "0:18:00",
+     "justificativa": "retomar restrições por segurança e fluidez, com abastecimento garantido; medida temporária",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo; acredita que vai funcionar melhor que a forma anterior",
+     "ts": "0:20:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:20:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo (comentou-se falha de áudio)",
+     "ts": "0:20:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:20:42",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.4.1",
+   "ts": "0:20:57",
+   "processo": "50500.012284/2019-32",
+   "interessado": "SUGOV",
+   "assunto": "Abertura de audiência pública sobre regulamentação das comissões tripartites na ANTT; encerramento da Consulta Pública 2/2018 (conselhos de usuários)",
+   "tema": [
+    "participação social",
+    "regulação normativa",
+    "institucional"
+   ],
+   "relator": "Eduardo Marra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Escopo readequado (sem conselhos de usuários); nova minuta e audiência pública (Lei 8.987/1995 art. 30-A; Decreto 10.200 / 2020); CP 2/2018 encerrada e relatório final arquivado.",
+   "votos": [
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "relator, aprova",
+     "ts": "0:21:30",
+     "justificativa": "conselhos de usuários excluídos; matéria de interesse geral exige audiência pública",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:23:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:23:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:23:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:23:48",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "2.1.1 Audiência Pública 14/2019 (extinção de contratos por inadimplência)",
+   "relator": "Marcelo Vinaud",
+   "motivo": "diligência na Superintendência",
+   "ts": "0:02:25"
+  },
+  {
+   "item": "2.3.1 Reversibilidade de bens ferroviários",
+   "relator": "Alexandre Porto",
+   "motivo": "questão trazida pela Assessoria",
+   "ts": "0:16:00"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda diz 'reunião nº 884' na abertura; título e ata anterior (879) indicam 880.",
+  "Legenda: Weber Ciloni aparece como 'Vellone/Silone/Simone'; DG como 'Marcelo Fonseca/virou'. Números de processo aproximados (legenda).",
+  "Em 2.1.2 o relator original (Alexandre Porto) é identificado pelo texto; o voto dele na votação ('voto pelo voto à vista') é interpretado como acolhimento.",
+  "Votos 'de acordo' têm ts aproximado; no 2.3.2 há menção a falha de áudio de um diretor."
+ ]
+}

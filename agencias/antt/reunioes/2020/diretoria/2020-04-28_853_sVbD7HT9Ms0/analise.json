@@ -1,0 +1,238 @@
+{
+  "meta": {"video_id": "sVbD7HT9Ms0", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:00); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "853", "data": "2020-04-28", "formato": "videoconferência (transmissão ao vivo suspensa pela pandemia; gravação divulgada depois)",
+    "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral em exercício)",
+    "diretores_presentes": ["Marcelo Vinaud", "Weber Ciloni", "Davi Barreto", "Alexandre Porto", "Menezes"],
+    "ausentes": [],
+    "observacoes": ["Reunião por videoconferência, com a parte pública gravada e a parte reservada (processos sancionadores) deliberada à parte.", "Davi Barreto pediu vista de três processos de transferência/inclusão de mercados (2.1.2 a 2.1.4) por dúvida sobre a aplicação do art. 27 da Res. 4.770/2015; Weber Ciloni retirou de pauta um processo do seu bloco pelo mesmo motivo (2.3.5 foi retirado por Davi Barreto).", "Os dois votos-vista de Davi Barreto (caducidade, 2.3.1; norma da Corregedoria, 2.3.2) foram aprovados por unanimidade, o primeiro devolvendo os autos à área técnica.", "Alexandre Porto declarou-se impedido no recurso das concessionárias do grupo Rumo (2.5.2) por ter conduzido o processo como superintendente e participado da comissão da audiência pública em 2011.", "Dois processos reservados (2.1.7, relator Marcelo Vinaud, e 2.4.2, relator Alexandre Porto, PAD da Corregedoria) foram tratados em parte reservada, fora do vídeo."]
+  },
+  "itens": [
+    {
+      "id": "2.1.1", "ts": "0:02:48",
+      "processo": "50500.332951/2016-58", "interessado": "Auto Viação Catarinense Ltda.",
+      "assunto": "Pedido de autorização para operar novos mercados (transporte rodoviário interestadual de passageiros)",
+      "tema": ["ônibus (transporte regular, TAR)"],
+      "relator": "Marcelo Vinaud", "resultado": "retirado de pauta (unanimidade)",
+      "resumo_voto": "O relator pediu a retirada para esclarecer dúvida sobre a citação de um artigo na deliberação e promete reapresentar na reunião seguinte.",
+      "votos": [
+        {"diretor": "Marcelo Vinaud", "voto": "relator, pede retirada de pauta", "ts": "0:03:04", "justificativa": "dúvida sobre citação de artigo da minuta de deliberação", "confianca": "alta"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo com a retirada", "ts": "0:03:21", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "de acordo com a retirada", "ts": "0:03:24", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo com a retirada", "ts": "0:03:26", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "de acordo com a retirada", "ts": "0:03:28", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.1.2 a 2.1.4", "ts": "0:03:40",
+      "processo": "50500.xx1656/2020-47 (2.1.2); 50500.315332/2018-41 (2.1.3, número parcial); 2.1.4 número ilegível", "interessado": "Expresso Satélite Norte Ltda. (2.1.2 e 2.1.4); Nordeste Transportes Ltda. (2.1.3)",
+      "assunto": "Inclusão de mercados em licença operacional (transporte rodoviário interestadual de passageiros) - bloco de relatoria de Marcelo Vinaud",
+      "tema": ["ônibus (transporte regular, TAR)", "regulação normativa"],
+      "relator": "Marcelo Vinaud", "resultado": "pedido de vista (Davi Barreto) - não deliberados",
+      "resumo_voto": "Davi Barreto pediu vista de 2.1.2 a 2.1.4 por dúvida sobre a aplicação do art. 27 da Resolução 4.770 (impugnações de terceiros); pretende analisar o tema em conjunto e trazer à Diretoria uma proposta sobre os demais processos. Weber Ciloni e Alexandre Porto concordaram com o pedido.",
+      "votos": [
+        {"diretor": "Weber Ciloni", "voto": "de acordo", "ts": "0:05:15", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "pede vista", "ts": "0:05:22", "justificativa": "dúvida sobre a aplicação do art. 27 da Res. 4.770/2015 quando há impugnações; quer analisar em conjunto e propor tratamento geral", "confianca": "alta"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo, concorda com o pedido de vista", "ts": "0:05:50", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "de acordo com o pedido de vista", "ts": "0:05:55", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "relator, aceita a vista", "ts": "0:06:00", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2.1.5 e 2.1.6", "ts": "0:06:04",
+      "processo": "50500.xx5523/2015 (2.1.5, número parcial); 50500.030182/2020-88 (2.1.6)", "interessado": "Rota do Mar Viagens Ltda. (supressão de linha com paralisação de mercados); Veículos Transportes e outros (termo de autorização de fretamento)",
+      "assunto": "2.1.5 alteração de licença operacional - supressão de linha com paralisação de mercado; 2.1.6 termo de autorização de fretamento",
+      "tema": ["ônibus (transporte regular, TAR)", "ônibus (fretamento)"],
+      "relator": "Marcelo Vinaud", "resultado": "aprovados por unanimidade",
+      "resumo_voto": "Itens remanescentes do bloco, votados após o pedido de vista dos demais.",
+      "votos": [
+        {"diretor": "Marcelo Vinaud", "voto": "relator, aprova", "ts": "0:06:04", "confianca": "media"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo", "ts": "0:06:27", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:06:30", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "0:06:35", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "de acordo", "ts": "0:06:47", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.2.1", "ts": "0:06:57",
+      "processo": "50500.039706/2005-51 (número lido de forma incerta)", "interessado": "Superintendência de Gestão (Sudeg)",
+      "assunto": "Alteração do quantitativo de cargos comissionados da agência: redução de um CGE e criação de dois cargos",
+      "tema": ["institucional"],
+      "relator": "Weber Ciloni", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Fundamento no art. 14 da Lei 9.986/2000; a criação não acarreta aumento de despesa, pois compensa a exoneração de um cargo de nível superior (Portaria DG 136/2020). O relator alertou que, com a reforma do regimento e da estrutura em curso, deveria haver pausa em novas alterações pontuais; o Diretor-Geral explicou que este caso decorre da necessidade imediata de nomear o coordenador do passe livre do Ministério dos Transportes e que as demais alterações serão seguradas para o ajuste geral.",
+      "votos": [
+        {"diretor": "Weber Ciloni", "voto": "relator, aprova", "ts": "0:07:02", "justificativa": "sem aumento de despesa; recomenda interromper novas alterações de cargos até a reforma regimental e da estrutura", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:08:30", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "0:08:33", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "de acordo", "ts": "0:08:36", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo, com esclarecimento sobre a urgência da nomeação", "ts": "0:08:40", "justificativa": "necessidade imediata de nomear o coordenador do passe livre; as demais mudanças serão agrupadas na reforma regimental", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.2.2 a 2.2.7", "ts": "0:10:18",
+      "processo": "50500.xx934/2015-35 (2.2.2); 50500.001731/2015-61 (2.2.3); 50500.410517/2019-69 (2.2.4); 2.2.5 a 2.2.7 números parciais", "interessado": "Auto Viação Progresso; Expresso Guanabara S.A. (2.2.3 e 2.2.4); Expresso São Bento; Nordeste Transportes (2.2.6 e 2.2.7)",
+      "assunto": "Bloco: supressão de linha com paralisação de mercados (2.2.2 a 2.2.4) e inclusão de mercados em licença operacional (2.2.5 a 2.2.7)",
+      "tema": ["ônibus (transporte regular, TAR)"],
+      "relator": "Weber Ciloni", "resultado": "um item retirado de pauta pelo relator; os demais aprovados por unanimidade",
+      "resumo_voto": "Weber Ciloni explicou que, assim como Davi Barreto, tinha preocupação com a aplicação do art. 27 da Res. 4.770 diante de impugnações; num dos seus processos a Superintendência já havia analisado as impugnações, e em outro não, então retirou este de pauta (a legenda sugere o 2.2.4) para fazer voto mais amplo e discutir na Diretoria a abrangência das impugnações. Os itens remanescentes foram votados.",
+      "votos": [
+        {"diretor": "Weber Ciloni", "voto": "relator, retira um item de pauta e aprova os demais", "ts": "0:12:41", "justificativa": "preocupação com a aplicação do art. 27 da Res. 4.770/2015 diante de impugnações; deseja voto mais amplo e discussão na Diretoria", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:13:40", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "0:13:45", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "de acordo", "ts": "0:13:50", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo", "ts": "0:13:55", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.3.1", "ts": "0:14:19",
+      "processo": "50501.348178/2018-01", "interessado": "Superintendência Executiva (Suex)",
+      "assunto": "Audiência Pública 14/2019: relatório e minuta de resolução sobre diretrizes e procedimento preparatório e sancionador de caducidade dos contratos de concessão e permissão (voto-vista)",
+      "tema": ["regulação normativa", "fiscalização e sanções", "concessões rodoviárias", "participação social"],
+      "relator": "Marcelo Vinaud (relator original); voto-vista de Davi Barreto", "resultado": "aprovado por unanimidade o voto-vista - retorno dos autos à área técnica",
+      "resumo_voto": "O processo foi pautado na 64ª reunião extraordinária (19/12/2019); Davi Barreto pediu vista. Após diligências e grupo de trabalho, restou dúvida jurídica sobre o aparente conflito entre a Lei 8.987/95 (decreto do poder concedente) e a Lei 10.233/2001 (poderes da ANTT). A Procuradoria opinou que, pelo princípio da especialidade, a Lei 10.233 afasta a regra geral e compete à ANTT declarar a caducidade em sua esfera; onde o contrato for expresso (por exemplo, recomendação ao Poder Executivo) deve prevalecer o contrato; e é possível separar o momento da declaração da caducidade da extinção efetiva, para preservar a continuidade do serviço. Diante desse novo entendimento, o voto-vista propõe reavaliar a função regulatória, fazer nova AIR e eventualmente nova consulta/audiência, e devolver os autos à Suex.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "voto-vista: devolve os autos à Suex para nova análise e nova AIR", "ts": "0:15:06", "justificativa": "a minuta não está madura diante do novo parecer da Procuradoria sobre a competência da ANTT para a caducidade; sugere nova AIR e possível nova participação social", "confianca": "alta"},
+        {"diretor": "Weber Ciloni", "voto": "corrobora o voto-vista", "ts": "0:19:21", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo com o voto-vista", "ts": "0:19:29", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "acompanha o voto-vista", "ts": "0:19:36", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo com o voto-vista (relator original)", "ts": "0:19:42", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.3.2", "ts": "0:19:56",
+      "processo": "50500.332875/2019-69 (número lido de forma incerta)", "interessado": "Corregedoria (Coreg)",
+      "assunto": "Aprovação da norma administrativa interna da Corregedoria sobre instalação, execução e julgamento de procedimentos correcionais (voto-vista)",
+      "tema": ["institucional", "regulação normativa"],
+      "relator": "Marcelo Vinaud (relator original); voto-vista de Davi Barreto", "resultado": "aprovado por unanimidade - conteúdo aprovado, veiculado como resolução",
+      "resumo_voto": "Davi Barreto concorda com o mérito do relator; a vista serviu para um ajuste formal: o decreto de 2019 sobre atos normativos impede novas «normas administrativas» e determina espécie normativa de resolução com anexo. Aprova o conteúdo proposto pela Coreg, veiculado integralmente em resolução.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "voto-vista: aprova o conteúdo, em forma de resolução com anexo", "ts": "0:20:44", "justificativa": "concorda com o mérito; ajuste formal porque decreto de 2019 impede norma administrativa e exige resolução", "confianca": "alta"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo com o relator, sobretudo quanto à adequação da espécie normativa", "ts": "0:22:15", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "0:22:35", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "de acordo", "ts": "0:22:40", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo com o relator", "ts": "0:22:45", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.3.3", "ts": "0:22:53",
+      "processo": "07.48.0110/63/2019 (número lido de forma incerta)", "interessado": "Rumo Malha Paulista S.A. / União (AGU)",
+      "assunto": "Retificação de informações do voto 046/2020 (14/04/2020) que aprovou proposta de acordo entre ANTT, União e Rumo Malha Paulista para encerrar litígios, como etapa da prorrogação antecipada do contrato",
+      "tema": ["ferrovias", "judicializacao", "reequilíbrio contratual"],
+      "relator": "Davi Barreto", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "A Procuradoria informou que, por falha de sincronização entre o sistema da AGU e o SEI, a minuta de acordo nos autos diferia da validada pela AGU: a diferença é a inclusão de créditos apontados pela Malha Paulista referentes a obras realizadas desde 2005 (valor da ordem de R$ 148 mil, segundo a legenda, valor incerto). Voto por corrigir as informações do voto 046/2020 e manter a aprovação.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "relator, aprova a retificação", "ts": "0:23:50", "justificativa": "correção de divergência entre minuta nos autos e a validada pela AGU, sem mudar a essência do acordo", "confianca": "alta"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo conforme proposto pelo relator", "ts": "0:25:00", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "0:25:05", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "de acordo", "ts": "0:25:10", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo", "ts": "0:25:15", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.3.4 a 2.3.6", "ts": "0:25:34",
+      "processo": "50500.152577/2018-61 (2.3.4, número parcial); 50500.xx6882/2019-70 (2.3.5); 50500.152489/2019-61 (2.3.6, número parcial)", "interessado": "Alta Express Transportes Ltda. (parcelamento de débitos); Nordeste Transportes Ltda. (2.3.6); 2.3.5 empresa não identificada",
+      "assunto": "Bloco: 2.3.4 parcelamento de débitos; 2.3.5 e 2.3.6 alteração de licença operacional com inclusão de mercados",
+      "tema": ["ônibus (transporte regular, TAR)", "fiscalização e sanções"],
+      "relator": "Davi Barreto", "resultado": "2.3.5 retirado de pauta pelo relator; 2.3.4 e 2.3.6 aprovados por unanimidade",
+      "resumo_voto": "Davi Barreto retirou o 2.3.5 para analisar a aplicação do art. 27 da Res. 4.770 e as impugnações nos processos remanescentes; os demais foram votados.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "relator, retira o 2.3.5 e aprova os demais", "ts": "0:26:22", "justificativa": "analisar aspectos do art. 27 da Res. 4.770 e impugnações nos processos remanescentes", "confianca": "alta"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo", "ts": "0:26:50", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "0:26:55", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "de acordo", "ts": "0:27:00", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo", "ts": "0:27:05", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.4.1", "ts": "0:27:48",
+      "processo": "50500.xx258/2020-45 (número parcial)", "interessado": "Allelos (nome incerto: «alelos de ouro») Transportes Ltda.",
+      "assunto": "Proposta de parcelamento de débitos",
+      "tema": ["fiscalização e sanções", "ônibus (transporte regular, TAR)"],
+      "relator": "Alexandre Porto", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Processo deliberado em bloco, com voto previamente disponibilizado.",
+      "votos": [
+        {"diretor": "Alexandre Porto", "voto": "relator, aprova", "ts": "0:27:48", "confianca": "media"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo", "ts": "0:28:10", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:28:13", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "de acordo", "ts": "0:28:16", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo", "ts": "0:28:20", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.5.1", "ts": "0:28:32",
+      "processo": "número ilegível na legenda", "interessado": "Superintendência de Exploração de Infraestrutura Rodoviária (Suinf); Ecoponte (concessionária)",
+      "assunto": "Prorrogação por no mínimo 60 dias (ou até cessarem as razões de saúde pública) da suspensão da proibição de tráfego de veículos de carga na Ponte Rio-Niterói e acessos (BR-101/RJ), prevista na Resolução 22 de 2007 e suspensa pela Res. 5.880/2020 (número lido de forma incerta)",
+      "tema": ["concessões rodoviárias", "transporte rodoviário de cargas", "covid-19"],
+      "relator": "Menezes", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "A PRF do Rio de Janeiro, com base em decreto estadual de isolamento, solicitou manter livre circulação para insumos, alimentos e material hospitalar; a Ecoponte concordou. Mantêm-se as restrições a cargas e veículos especiais e produtos perigosos. Voto por prorrogar a suspensão por 60 dias ou até cessarem as razões de saúde pública.",
+      "votos": [
+        {"diretor": "Menezes", "voto": "relator, aprova a prorrogação", "ts": "0:29:50", "justificativa": "pedido da PRF/RJ para garantir abastecimento durante o isolamento; concessionária de acordo", "confianca": "alta"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo com a prorrogação proposta", "ts": "0:30:20", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:30:25", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "0:30:30", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo", "ts": "0:30:35", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.5.2", "ts": "0:31:08",
+      "processo": "50500.125170/2011-02", "interessado": "Rumo Malha Norte, Rumo Malha Paulista, Rumo Malha Sul e Rumo Malha Oeste (concessionárias do grupo Rumo)",
+      "assunto": "Recurso administrativo contra as deliberações 15 a 18/2020 (atualização das tabelas tarifárias ferroviárias da revisão decorrente da Consulta Pública 1/2011)",
+      "tema": ["ferrovias", "reequilíbrio contratual", "judicializacao"],
+      "relator": "Menezes", "resultado": "aprovado por maioria dos votantes - recurso conhecido e improcedente; efeitos das deliberações suspensos de ofício (Alexandre Porto impedido)",
+      "resumo_voto": "As resoluções de 2012 foram suspensas por liminar; sentença de agosto de 2019 favorável à ANTT afastou o fundamento e as tabelas foram republicadas em janeiro de 2020. As concessionárias recorreram pedindo efeito suspensivo e nulidade. A Procuradoria entendeu que a sentença absorve a liminar e que não houve memória de cálculo de prejuízo; porém, diante de nova decisão judicial que concedeu efeito suspensivo a recurso especial da Rumo Malha Paulista, recomendou suspender de ofício os efeitos das deliberações. Voto por conhecer, negar provimento no mérito e suspender de ofício os efeitos em cumprimento à decisão judicial.",
+      "votos": [
+        {"diretor": "Menezes", "voto": "relator, conhece, nega provimento e suspende de ofício os efeitos", "ts": "0:32:00", "justificativa": "argumentos das recorrentes insubsistentes (sentença absorve liminar; sem memória de cálculo), mas a decisão judicial posterior exige suspender os efeitos", "confianca": "media"},
+        {"diretor": "Weber Ciloni", "voto": "acompanha o relator, com ressalva sobre a necessidade de estudo mais aprofundado", "ts": "0:37:25", "justificativa": "o tema é recorrente e judicializado; sugere aprofundar o estudo, talvez com nova audiência pública, pois as audiências são de 2012 e a realidade mudou", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:37:50", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "declara-se impedido", "ts": "0:38:01", "justificativa": "participou da comissão da audiência pública de 2011 e, como superintendente, exarou decisão no processo; invoca o art. 33 do Regimento Interno e o parecer 98 da Procuradoria", "confianca": "alta"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo", "ts": "0:38:20", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.5.3 a 2.5.5", "ts": "0:38:47",
+      "processo": "50500.363435/2019-99 (2.5.3); 50500.342316/2019-21 (2.5.4); 2.5.5 número ilegível", "interessado": "Viação Salutaris e Turismo S.A. (2.5.3); Rota do Mar Viagens Ltda. (2.5.4); 2.5.5 não identificado",
+      "assunto": "Bloco: alteração de licença operacional - supressão de linha com paralisação de mercados",
+      "tema": ["ônibus (transporte regular, TAR)"],
+      "relator": "Menezes", "resultado": "aprovados em bloco por unanimidade",
+      "resumo_voto": "Votos disponibilizados antes da reunião; deliberados em bloco sem discussão.",
+      "votos": [
+        {"diretor": "Menezes", "voto": "relator, aprova em bloco", "ts": "0:38:47", "confianca": "media"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo", "ts": "0:39:20", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:39:25", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "0:39:30", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo", "ts": "0:39:35", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.1.7", "ts": "0:41:38",
+      "processo": "50500.328511/2017-87", "interessado": "Rápido Viagem Turismo Ltda. (nome lido de forma incerta)",
+      "assunto": "Processo administrativo ordinário sancionador - proposta de aplicação de penalidade (item reservado)",
+      "tema": ["fiscalização e sanções", "ônibus (transporte regular, TAR)"],
+      "relator": "Marcelo Vinaud", "resultado": "tratado em parte reservada; resultado não consta do vídeo",
+      "resumo_voto": "Processo reservado (art. 78-B da Lei 10.233/2001 e art. 71 do Regimento Interno); votação em gravação à parte.",
+      "votos": []
+    },
+    {
+      "id": "2.4.2", "ts": "0:41:38",
+      "processo": "50501.329885/2018-91", "interessado": "Corregedoria (processo administrativo disciplinar)",
+      "assunto": "Processo administrativo disciplinar (item reservado, relator Alexandre Porto), citado numa questão de ordem por ter sido omitido na leitura inicial dos reservados",
+      "tema": ["institucional", "fiscalização e sanções"],
+      "relator": "Alexandre Porto", "resultado": "tratado em parte reservada; resultado não consta do vídeo",
+      "resumo_voto": "Em questão de ordem, ficou registrado que os dois processos reservados (2.1.7 e 2.4.2) seriam votados na parte reservada, gravada à parte.",
+      "votos": []
+    }
+  ],
+  "retirados": [
+    {"id": "2.1.1", "relator": "Marcelo Vinaud", "motivo": "dúvida sobre citação de artigo na deliberação; volta na reunião seguinte"},
+    {"id": "2.2.x (provavelmente 2.2.4)", "relator": "Weber Ciloni", "motivo": "dúvida sobre aplicação do art. 27 da Res. 4.770 diante de impugnações; voto mais amplo"},
+    {"id": "2.3.5", "relator": "Davi Barreto", "motivo": "mesma questão do art. 27 da Res. 4.770"}
+  ],
+  "limites_da_analise": [
+    "Legenda automática muito ruidosa: nomes dos diretores aparecem como «Weber Silone», «Alexandre Porto/Posto», «Marcelo minor/novo»; grafias canônicas adotadas pelas saudações e lista de diretores da época.",
+    "O diretor chamado «Menezes» na legenda (grafias «Manchel/Manchego de Menezes») tem prenome incerto; foi mantido apenas o sobrenome. Não foi possível confirmar se corresponde a Mário Rodrigues Junior (que votava em fevereiro de 2020) ou a outro diretor.",
+    "Quase todos os números de processo, nomes de empresas de ônibus e valores estão truncados ou distorcidos; foram omitidos ou marcados como parciais.",
+    "Qual dos processos do bloco 2.2 foi retirado por Weber Ciloni não é inequívoco; a lista de votados sugere o 2.2.4.",
+    "Minutos de votos de quem apenas acompanha o relator são aproximados (confiança média/baixa).",
+    "Os processos reservados 2.1.7 e 2.4.2 foram deliberados em parte reservada e não constam do vídeo."
+  ]
+}

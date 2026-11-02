@@ -1,5 +1,427 @@
 # Itens do tema «institucional» (todos os diretores)
 
+- **RD 802 (2019-03-12)**, 1 · relator **None** · Aprovação da ata da reunião nº 801 → aprovada por unanimidade
+  - votos: Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=5ae0Rbnbnl4&t=65s)
+- **RD 802 (2019-03-12)**, 2.1.1 · relator **Marcelo Vinaud** · Revogação/alteração da Deliberação 004/2012: Programa de Concessão de Bolsas de Estudo em Idiomas (PCI), ampliado a empregados públicos federais e com → aprovado por unanimidade
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=5ae0Rbnbnl4&t=100s)
+- **RD 802 (2019-03-12)**, 2.2.2 · relator **Elisabeth Braga** · Primeiro termo aditivo ao Acordo de Cooperação Técnica 001/2017 (coleta de dados para regulação do transporte rodoviário de cargas); prorroga prazo qu → aprovado por unanimidade
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=5ae0Rbnbnl4&t=1379s)
+- **RD 802 (2019-03-12)**, 2.3.1 · relator **Weber Ciloni** · Plano Anual de Gestão de Riscos 2019 → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=5ae0Rbnbnl4&t=2103s)
+- **RD 802 (2019-03-12)**, EP-1 · relator **Marcelo Vinaud** · Extrapauta — segundo termo aditivo ao Acordo de Cooperação Técnica 001/2015 → aprovado por unanimidade
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=5ae0Rbnbnl4&t=3043s)
+- **RD 803 (2019-03-19)**, 1 · relator **None** · Aprovação da ata da RD 802 → aprovada por unanimidade
+  - votos: Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=YDG6ljyGESM&t=40s)
+- **RD 804 (2019-03-26)**, 1 · relator **None** · Aprovação da ata da reunião de diretoria nº 803 → aprovada por unanimidade (leitura dispensada)
+  - votos: Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=GHw9REZb1zA&t=82s)
+- **RD 804 (2019-03-26)**, 2.2.2 · relator **Elisabeth Braga** · Relatório de Gestão da ANTT, exercício 2018 → aprovado por unanimidade
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=GHw9REZb1zA&t=965s)
+- **RD 804 (2019-03-26)**, 2.3.1 · relator **Weber Ciloni** · Termo aditivo ao Acordo de Cooperação Técnica 002/2015 (prorroga por 24 meses; cadastro/monitoramento de pontos de parada e descanso) → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=GHw9REZb1zA&t=2340s)
+- **RD 804 (2019-03-26)**, EP-3 · relator **Weber Ciloni** · Extrapauta — Acordo de cooperação técnica para compartilhar o transporte coletivo de servidores contratado pela ANTT (Planalto Transportadora Turístic → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=GHw9REZb1zA&t=3543s)
+- **RD 805 (2019-04-02)**, 3.1 · relator **Marcelo Vinaud** · Cancelamento/devolução de pedido de reconsideração: serviço Três Lagoas (MS)-Andradina (SP), tratado como semiurbano → devolvido à SUPAS (sem objeção)
+  - votos: Marcelo: relator · [vídeo](https://www.youtube.com/watch?v=ss0AizFiKWA&t=3807s)
+- **RD 806 (2019-04-09)**, 1 · relator **None** · Aprovação da ata da reunião nº 805 → aprovada por unanimidade
+  - votos: Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=ly2oThPrSBs&t=100s)
+- **RD 807 (2019-04-16)**, COM · relator **Mário Rodrigues Junior** · Comunicado do DG sobre portaria que implementa melhorias para mitigar causas sistêmicas de fraude e corrupção na SUINF (relatório de auditoria do TCU  → comunicado, sem deliberação
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=DKDF4usY83A&t=0s)
+- **RD 807 (2019-04-16)**, 2.2 · relator **Marcelo Vinaud** · Alteração do quantitativo de cargos comissionados da ANTT e revogação da Del. 208/2019 → aprovado por unanimidade
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=DKDF4usY83A&t=660s)
+- **RD 807 (2019-04-16)**, 2.2.1 · relator **Elisabeth Braga** · Aprovação do Plano de Atuação Internacional 2019 → aprovado por unanimidade
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=DKDF4usY83A&t=913s)
+- **RD 807 (2019-04-16)**, 3.1 a 3.3 · relator **None** · Três pedidos de cancelamento da distribuição de processos → aprovado por unanimidade (anuência verbal)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=DKDF4usY83A&t=2296s)
+- **RD 808 (2019-04-23)**, 3.1 · relator **Mário Rodrigues Junior** · Cancelamento de distribuição de processo (despacho de 12/04/2019) → aprovado (diretores de acordo)
+  - votos: Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=hs8snDKlt_c&t=610s)
+- **RD 809 (2019-05-07)**, 1 · relator **None** · Aprovação da ata da RD 808 → aprovada por unanimidade
+  - votos: Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=E3TPE9LTUFE&t=61s)
+- **RD 809 (2019-05-07)**, extrapauta · relator **Elisabeth Braga** · Planejamento Anual de Contratações 2019/2020 (IN 1/2019 da Secretaria de Gestão do Ministério da Economia; Norma Administrativa 03/2018, Deliberação 7 → aprovado por unanimidade
+  - votos: Elisabeth: relator; Mário: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=E3TPE9LTUFE&t=1463s)
+- **RD 809 (2019-05-07)**, 3.2 e 3.3 · relator **None** · Dois pedidos de cancelamento de distribuição de processo → aprovados por unanimidade
+  - votos: Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=E3TPE9LTUFE&t=1959s)
+- **RD 810 (2019-05-14)**, 2.3.1 · relator **Weber Ciloni** · Plano de Dados Abertos (PDA) da ANTT para o biênio 2019-2021 (Lei 12.527/2011, Decreto 8.777/2016, Res. CGU 3/2017) → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=aZwuAPZ66J0&t=2180s)
+- **RD 810 (2019-05-14)**, 3.1 · relator **None** · Relatório anual de ouvidoria 2018 (art. 30, VI, Res. 5.810/2018), em assuntos gerais → apresentado, sem deliberação
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=aZwuAPZ66J0&t=2996s)
+- **RD 811 (2019-05-21)**, 2.1.4 · relator **Marcelo Vinaud** · Alteração da Resolução 4308/2014 (identificação de passageiros): menores de 16 anos em viagem fora da comarca, adequação ao art. 83 do ECA → aprovado por unanimidade
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=Epr61yDCvnY&t=345s)
+- **RD 811 (2019-05-21)**, 3.1 · relator **Mário Rodrigues Junior** · Cancelamento de distribuição de processo → aprovado (sem objeções)
+  - votos: Mário: outro · [vídeo](https://www.youtube.com/watch?v=Epr61yDCvnY&t=2920s)
+- **RD 812 (2019-05-28)**, 3.1 · relator **None** · Pedido de cancelamento de distribuição de processo → submetido (resultado não explícito)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=dr2WCpJwvEM&t=1646s)
+- **RD 812 (2019-05-28)**, 3.2 · relator **Mário Rodrigues Junior** · Revogação da Deliberação 214/2019 (Reunião 799, 12/02/2019) que designou Elisabeth Braga como diretora-geral substituta; indicação de Marcelo Vinaud p → aprovado por unanimidade (conforme fala de concordância na legenda)
+  - votos: Mário: outro; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=dr2WCpJwvEM&t=1698s)
+- **RD 814 (2019-06-11)**, 2.2.6 · relator **Weber Ciloni** · Procedimentos para declarações técnicas do REIDI e de debêntures incentivadas, com delegação de competência → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=OiiVU2kqVK4&t=945s)
+- **RD 814 (2019-06-11)**, 3.1 · relator **Weber Ciloni** · Cancelamento de distribuição de processo de outorga de mercados autorizados (seletivo); documentação entregue fora do prazo → aprovado (de acordo)
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=OiiVU2kqVK4&t=1500s)
+- **RD 814 (2019-06-11)**, 3.2 · relator **None** · Acordo de cooperação com a AMT (Autoridade da Mobilidade e dos Transportes de Portugal) para o programa de intercâmbio Trainee Chip 2019 → aprovado (de acordo)
+  - votos: Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=OiiVU2kqVK4&t=1548s)
+- **RD 815 (2019-06-18)**, 1 · relator **None** · Aprovação da ata da RD 814 → aprovada por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=AhItQBZ9-D4&t=43s)
+- **RD 815 (2019-06-18)**, 2.1.2 · relator **Marcelo Vinaud** · Revogação da Deliberação 433/2019, que prorrogou por cinco anos o convênio de delegação 01/2014 com o ICMBio → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=AhItQBZ9-D4&t=728s)
+- **RD 815 (2019-06-18)**, 2.1.11 · relator **Marcelo Vinaud** · Alteração do quantitativo de cargos comissionados (CCT) para as coordenações regionais de exploração de infraestrutura rodoviária (SP, RS, RJ) → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=AhItQBZ9-D4&t=1730s)
+- **RD 815 (2019-06-18)**, 2.2.4 · relator **Elisabeth Braga** · Processo disciplinar com restrição de acesso, julgado ao final da transmissão → decisão não divulgada (sigilo)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=AhItQBZ9-D4&t=2444s)
+- **RD 815 (2019-06-18)**, 2.3.5 · relator **Weber Ciloni** · Acordo de Cooperação Técnica: sistemas inteligentes de controle de tráfego, programa Canal Vivo (fiscalização responsiva do transporte de cargas e pas → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=AhItQBZ9-D4&t=3078s)
+- **RD 815 (2019-06-18)**, 2.3.7 · relator **Weber Ciloni** · Alteração da Deliberação 182/2009 para delegar às coordenações regionais de exploração de infraestrutura rodoviária o julgamento em primeira instância → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=AhItQBZ9-D4&t=3292s)
+- **RD 817 (2019-07-09)**, 2.1.2 · relator **Elisabeth Braga** · Aprovação da 5ª edição do Manual de Procedimentos da Agenda Regulatória → aprovado por unanimidade
+  - votos: Elisabeth: relator; Mário: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=S6thCF9q-3Q&t=266s)
+- **RD 817 (2019-07-09)**, 3.1 · relator **None** · Despacho pedindo cancelamento da distribuição de processo → submetido aos diretores presentes (resultado não claro na legenda)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=S6thCF9q-3Q&t=775s)
+- **RD 818 (2019-07-16)**, 2.2.1 · relator **Davi Barreto** · Alteração do quantitativo de cargos comissionados (assessorias, assistências e técnicos, FCPE), revogando a Deliberação 406/2019 → aprovado; unanimidade
+  - votos: Davi: relator; Elisabeth: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=Ve-A2CB2qb4&t=1590s)
+- **RD 818 (2019-07-16)**, 3.1 · relator **None** · Cancelamento de distribuição de processo; sem objeção → aprovado
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=Ve-A2CB2qb4&t=1680s)
+- **RD 819 (2019-07-23)**, 1 · relator **None** · Aprovação da ata da reunião nº 818 → aprovada por unanimidade
+  - votos: Elisabeth: acompanha; Davi: acompanha; Mário: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=aN2OZHj7G1c&t=60s)
+- **RD 819 (2019-07-23)**, 3.1 · relator **Elisabeth Braga** · Assuntos gerais — Despacho 1.079/2019 (17/7/2019): cancelamento de distribuição de processo → aprovado por unanimidade
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=aN2OZHj7G1c&t=1585s)
+- **RD 820 (2019-07-30)**, 2.1.1 · relator **Mário Rodrigues Junior** · Referendo da Deliberação 757/2019 que autorizou afastamento de servidor para doutorado em políticas públicas (cumprimento de decisão judicial em manda → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: relator · [vídeo](https://www.youtube.com/watch?v=wTsJa3zoysI&t=1437s)
+- **RD 820 (2019-07-30)**, 2.2.3 · relator **Marcelo Vinaud** · Acordo de cooperação técnica para o sistema Canal Verde Brasil (fiscalização inteligente do transporte rodoviário de cargas e passageiros), sem ônus e → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=wTsJa3zoysI&t=2017s)
+- **RD 820 (2019-07-30)**, 2.3.1 · relator **Elisabeth Braga** · Alteração da Deliberação 661/2018 (delegação de competência aos diretores para supervisão técnica das superintendências): supervisão da SUFER passa ao → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: relator; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=wTsJa3zoysI&t=2227s)
+- **RD 820 (2019-07-30)**, Assuntos gerais · relator **Mário Rodrigues Junior** · Ofício sobre o plano de trabalho do segundo semestre de 2019 da Comissão de Ética → apresentado; sem deliberação
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=wTsJa3zoysI&t=4160s)
+- **RD 821 (2019-08-06)**, 2.1.1 (sigiloso) · relator **Elisabeth Braga** · Processo administrativo disciplinar, acesso restrito, julgado ao final da transmissão → julgado em sessão reservada
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=i8c3Cjiy9jI&t=90s)
+- **RD 821 (2019-08-06)**, 2.2.1 (sigiloso) · relator **Davi Barreto** · Processo administrativo disciplinar reservado → julgado em sessão reservada
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=i8c3Cjiy9jI&t=710s)
+- **RD 821 (2019-08-06)**, 3.x (assuntos gerais) · relator **None** · Cancelamento de distribuição de processo; sem objeção → aprovado
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=i8c3Cjiy9jI&t=1353s)
+- **RD 822 (2019-08-13)**, 2.3.2 · relator **Weber Ciloni** · Abertura de processo administrativo ordinário por indícios de abandono do mercado Sete Lagoas (MG) - Petrópolis (RJ); sugestão de mudança de delegação → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kMGgTtubwtU&t=1130s)
+- **RD 822 (2019-08-13)**, 3.1 (assuntos gerais) · relator **Mário Rodrigues Junior** · Pedidos de cancelamento de distribuição de processos e pedido de Davi Barreto de prorrogação de prazo para inclusão de matéria em pauta (art. 77 do Re → aprovado (todos de acordo)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=kMGgTtubwtU&t=1935s)
+- **RD 823 (2019-08-20)**, 1 · relator **None** · Aprovação da ata da reunião de diretoria nº 822 → aprovada por unanimidade (leitura dispensada)
+  - votos: Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=6pNMwNpnAP8&t=40s)
+- **RD 823 (2019-08-20)**, 2.2.5 · relator **Marcelo Vinaud** · Política de Gestão de Pessoas da ANTT e criação do Comitê de Gestão de Pessoas (CGP) → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=6pNMwNpnAP8&t=1135s)
+- **RD 823 (2019-08-20)**, 2.3.1 · relator **Elisabeth Braga** · Homologação do resultado final do Prêmio por Excelência Funcional 2019 → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=6pNMwNpnAP8&t=1405s)
+- **RD 824 (2019-08-27)**, 2.1.3 · relator **Marcelo Vinaud** · Aprovação do Estatuto da Auditoria Interna da ANTT → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=_1ekxBesJpo&t=630s)
+- **RD 824 (2019-08-27)**, 2.1.4 · relator **Marcelo Vinaud** · Alteração do quantitativo de cargos comissionados (CCT) a pedido da Auditoria Interna → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=_1ekxBesJpo&t=725s)
+- **RD 824 (2019-08-27)**, 2.2.5 · relator **Elisabeth Braga** · Tornar sem efeito a publicação do extrato do 1º termo aditivo ao acordo de cooperação técnica 01/2014 → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: relator; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=_1ekxBesJpo&t=1391s)
+- **RD 824 (2019-08-27)**, 2.2.6 · relator **Elisabeth Braga** · Proposta orçamentária da ANTT para 2020 → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: relator; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=_1ekxBesJpo&t=1620s)
+- **RD 825 (2019-09-03)**, 1 · relator **None** · Aprovação da ata da reunião nº 824 → aprovada por unanimidade
+  - votos: Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=MeEnP05i-aI&t=60s)
+- **RD 825 (2019-09-03)**, 2.3.2 · relator **Weber Ciloni** · Proposta de termo de execução descentralizada (TED) — retirado de pauta pelo relator → retirado de pauta
+  - votos: Weber: relator; Elisabeth: acompanha; Davi: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=MeEnP05i-aI&t=618s)
+- **RD 826 (2019-09-10)**, 2.3.2 · relator **Davi Barreto** · Aprovação da Política de Segurança da Informação e Comunicações (POSIC), revogando a vigente → aprovado por unanimidade
+  - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=sO5JXVa1a_4&t=461s)
+- **RD 826 (2019-09-10)**, extrapauta · relator **Davi Barreto** · Afastamento de servidor para mestrado (LL.M.) na Universidade de Illinois a partir de 11/09/2019; processo seletivo da ENAP; inclusão extrapauta aprov → aprovado por unanimidade
+  - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=sO5JXVa1a_4&t=597s)
+- **RD 826 (2019-09-10)**, 3.x (assuntos gerais) · relator **None** · Cancelamento de distribuição de processo e pedido para conceder cópia de processos a diretor → aprovado, sem objeção; autorização de cópias e recomendação de rever o regimento interno
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=sO5JXVa1a_4&t=716s)
+- **RD 827 (2019-09-17)**, 1 · relator **None** · Aprovação da ata da RD 826 → aprovada por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kH8jsop2XDs&t=40s)
+- **RD 827 (2019-09-17)**, 2.1.2 · relator **Marcelo Vinaud** · Criação de Juntas Administrativas de Recursos de Infrações (JARI) nas unidades regionais de Minas Gerais e Santa Catarina → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kH8jsop2XDs&t=292s)
+- **RD 827 (2019-09-17)**, 2.2.5 · relator **Elisabeth Braga** · Revisão da Deliberação 74/2016 (norma administrativa sobre telefonia móvel da ANTT): transfere gestão à SUTEC e passa o ato a resolução → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kH8jsop2XDs&t=649s)
+- **RD 827 (2019-09-17)**, AG · relator **None** · Pedido de cancelamento de distribuição de processo, feito por Davi Barreto, em assuntos gerais → acolhido (sem objeção)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=kH8jsop2XDs&t=1605s)
+- **RD 828 (2019-09-24)**, 1 · relator **None** · Aprovação da ata da RD 827 → aprovada por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uhDA6l45fTk&t=39s)
+- **RD 828 (2019-09-24)**, 2.2.1 · relator **Elisabeth Braga** · Alteração de quantitativos de cargos comissionados (transformação de 27 cargos CCT, com aumento de despesa) → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uhDA6l45fTk&t=509s)
+- **RD 828 (2019-09-24)**, 2.3.1 · relator **Weber Ciloni** · Termo de Execução Descentralizada (TED) com a Universidade Federal de Santa Catarina para estudos sobre o Acordo de Alcance Parcial de transporte terr → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uhDA6l45fTk&t=906s)
+- **RD 829 (2019-10-01)**, 1 · relator **None** · Aprovação da ata da reunião nº 828 → aprovada por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=4qQrSJA_XaM&t=50s)
+- **RD 830 (2019-10-08)**, 2.1.1 · relator **Elisabeth Braga** · Revogação de resoluções do estoque regulatório da ANTT consideradas ineficazes do ponto de vista jurídico → aprovado por unanimidade
+  - votos: Elisabeth: relator; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=NBtijM4b-LE&t=131s)
+- **RD 830 (2019-10-08)**, EXTRA-1 · relator **Elisabeth Braga** · Extrapauta: aprovação de memorando de entendimento ANTT–ERA (cooperação por prazo indeterminado) → aprovado por unanimidade
+  - votos: Elisabeth: relator; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=NBtijM4b-LE&t=695s)
+- **RD 830 (2019-10-08)**, 3.1 · relator **None** · Assuntos gerais: 15 pedidos de cancelamento de distribuição de processos, disponibilizados previamente → aprovado por unanimidade (anuência dos diretores presentes)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=NBtijM4b-LE&t=835s)
+- **RD 831 (2019-10-15)**, 2.2.3 · relator **Weber Ciloni** · Segundo termo aditivo ao convênio de delegação 001/2016: gestão, regulação e fiscalização do serviço rodoviário interestadual semiurbano Timon (MA) -  → aprovado por unanimidade
+  - votos: Elisabeth: acompanha; Weber: relator; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=usWpMZO6DMc&t=1002s)
+- **RD 831 (2019-10-15)**, 2.2.4 · relator **Weber Ciloni** · Termo de execução descentralizada (TED) para treinamento técnico e gerencial dos servidores da ANTT (cerca de R$ 19,5 mil, segundo a legenda) → aprovado por unanimidade
+  - votos: Elisabeth: acompanha; Weber: relator; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=usWpMZO6DMc&t=1145s)
+- **RD 831 (2019-10-15)**, 3 (assuntos gerais) · relator **Mário Rodrigues Junior** · Treze pedidos de cancelamento de distribuição de processos (um do diretor Marcelo Vinaud, ausente, e doze da diretora Elisabeth Braga) → sem deliberação registrada
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=usWpMZO6DMc&t=1381s)
+- **RD 832 (2019-10-22)**, 3.x · relator **None** · Três cancelamentos de distribuição de processos → aprovados
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=tDrIVnhMZBo&t=1820s)
+- **RD 833 (2019-10-30)**, 3.1 (assuntos gerais) · relator **Mário Rodrigues Junior** · Despacho sobre cancelamento de distribuição de processo e ratificação/retificação de deliberações → ratificado (sem discussão relevante registrada)
+  - votos: Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: relator · [vídeo](https://www.youtube.com/watch?v=Ie5Fnfu5VQI&t=3042s)
+- **RD 834 (2019-11-05)**, 3.1 (assuntos gerais) · relator **Mário Rodrigues Junior** · Pedidos de cancelamento de distribuição de processos e comunicação à Diretoria de intenção da SUFIS de abrir processo administrativo ordinário (Res. 5 → aprovado (todos de acordo)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=jtaSxDPBkcE&t=2307s)
+- **RD 835 (2019-11-12)**, 3.1 · relator **None** · Pedidos de cancelamento de distribuição de processos (art. 4º Del. 955/2019; art. 67 Res. 5.810/2018; Nota Jurídica 01754/2019) → aprovado por unanimidade (com registro de que os cancelamentos se tornaram repetitivos)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=NM39E2nZvAs&t=2259s)
+- **RD 836 (2019-11-21)**, 2.3.2 · relator **Weber Ciloni** · Alteração do quantitativo de cargos comissionados (art. 14 da Lei 9.986/2000) → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: acompanha; Weber: relator; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=mCZnsrgrMFE&t=320s)
+- **RD 836 (2019-11-21)**, 3.1 a 3.4 (assuntos gerais) · relator **Mário Rodrigues Junior** · Despachos de cancelamento de distribuição de processos; um quinto item foi retirado para reavaliação. Houve observação sobre a ordem de apresentação d → aprovados (todos de acordo)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=mCZnsrgrMFE&t=696s)
+- **RD 837 (2019-11-26)**, 2.4.2 · relator **Weber Ciloni** · Revogação da Deliberação 1.038/2018 (procedimentos de licença para capacitação), em razão de novo decreto → vista concedida a Davi Barreto
+  - votos: Weber: relator; Davi: vista · [vídeo](https://www.youtube.com/watch?v=3O5viqLvwtg&t=1229s)
+- **RD 838 (2019-12-03)**, 1 · relator **None** · Aprovação da ata da RD 837 → aprovada por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uvRp5oExIss&t=50s)
+- **RD 838 (2019-12-03)**, 2.1.2 · relator **Marcelo Vinaud** · Termo de Execução Descentralizada (TED) para estruturar o Escritório de Processos da ANTT (gestão por processos, cadeia de valor) → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uvRp5oExIss&t=241s)
+- **RD 838 (2019-12-03)**, 2.2.3 · relator **Elisabeth Braga** · Termo de cessão de uso da licença do sistema participativo de audiências públicas (código-fonte e documentação), originário do SISAP cedido pela ANTAQ → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uvRp5oExIss&t=1131s)
+- **RD 838 (2019-12-03)**, extrapauta-1 · relator **Weber Ciloni** · Convênio com a GEAP para exames médicos periódicos dos servidores das unidades regionais (R$ 232.818,10 em 2019) → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uvRp5oExIss&t=2442s)
+- **RD 838 (2019-12-03)**, extrapauta-2 · relator **Davi Barreto** · Voto-vista na RD 837 (de outro diretor; nome incerto) sobre proposta de revogação da Deliberação 1.038/2018 (capacitação/vagas, edital); urgência de p → aprovado por unanimidade
+  - votos: Davi: revisor_acompanha; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uvRp5oExIss&t=2623s)
+- **RD 838 (2019-12-03)**, AG · relator **None** · Dois pedidos de cancelamento de distribuição de processo (incl. despacho de Davi Barreto) → acolhidos sem objeção
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=uvRp5oExIss&t=2729s)
+- **RD 839 (2019-12-11)**, 2.2.3 · relator **Marcelo Vinaud** · Plano de Gestão Anual (metas) para 2020 → vista concedida (pedido de Davi Barreto)
+  - votos: Davi: vista; Marcelo: relator · [vídeo](https://www.youtube.com/watch?v=7gL6wMFBa0w&t=1176s)
+- **RD 839 (2019-12-11)**, 2.4.1-2.4.2 · relator **Weber Ciloni** · Declaração de utilidade pública (desapropriação) para as concessionárias → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=7gL6wMFBa0w&t=1700s)
+- **RD 839 (2019-12-11)**, 2.5.1 · relator **Davi Barreto** · Alteração do quantitativo de cargos comissionados da ANTT (CCT 72: 27 para 26; 63: 21 para 22; 64: 49 para 48; 65: 117 para 103) e revogação da Delibe → aprovado por unanimidade
+  - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=7gL6wMFBa0w&t=1775s)
+- **RD 839 (2019-12-11)**, 2.5.2 · relator **Davi Barreto** · Proposta de acordo de cooperação técnica - retirado de pauta pelo relator para ajuste final, retorno previsto para o dia 17 → retirado de pauta
+  - votos: Davi: relator; Mário: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=7gL6wMFBa0w&t=1845s)
+- **RD 839 (2019-12-11)**, 2.5.3 · relator **Davi Barreto** · Plano Anual de Atividades de Auditoria Interna (PAINT) de 2020 → aprovado por unanimidade
+  - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=7gL6wMFBa0w&t=1879s)
+- **RD 839 (2019-12-11)**, extrapauta-1 · relator **Davi Barreto** · Segundo termo aditivo ao Acordo de Cooperação Técnica (prorrogação de 12 meses ou até o fim do chamamento público) → aprovado por unanimidade (com ajuste de cláusula e prazo de 60 dias para plano de ação)
+  - votos: Davi: relator; Weber: acompanha; Marcelo: acompanha; Elisabeth: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=7gL6wMFBa0w&t=2065s)
+- **RD 839 (2019-12-11)**, 3.1 · relator **Davi Barreto** · Cancelamento de distribuição de processo → aprovado (nenhuma objeção)
+  - votos: Davi: relator · [vídeo](https://www.youtube.com/watch?v=7gL6wMFBa0w&t=2305s)
+- **RD 840 (2019-12-17)**, reservados · relator **Marcelo Vinaud** · Seis processos sigilosos julgados ao final da transmissão, em sessão restrita às partes → julgados em sessão reservada (sem registro)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=g9pWxYnVrPA&t=0s)
+- **RD 840 (2019-12-17)**, 2.4.1 · relator **Davi Barreto** · Revisão da Del. 53/2006 (penalidade de impedimento de licitar e contratar com a União na ANTT) → aprovado por unanimidade
+  - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=g9pWxYnVrPA&t=2565s)
+- **RD 840 (2019-12-17)**, 2.4.3 · relator **Davi Barreto** · Plano de Gestão Anual 2020 da ANTT → aprovado por unanimidade
+  - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=g9pWxYnVrPA&t=3005s)
+- **RD 840 (2019-12-17)**, 2.4.4 · relator **Davi Barreto** · Acordo de cooperação técnica ANTT–CNT (apoio ao RNTRC) → aprovado por unanimidade
+  - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=g9pWxYnVrPA&t=3135s)
+- **RD 840 (2019-12-17)**, EXTRA-2 · relator **Elisabeth Braga** · Extrapauta: formação de lista tríplice de substituição de cargo de diretor em caso de vacância → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=g9pWxYnVrPA&t=3372s)
+- **RD 840 (2019-12-17)**, 3.1 · relator **None** · Assuntos gerais: 3.1 prorrogação de prazo de diligência; 3.2 metodologia de mensuração da maturidade de inovação (dado conhecimento) → sem objeção dos diretores
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=g9pWxYnVrPA&t=3657s)
+- **RD 64 (extraordinária) (2019-12-19)**, (sigiloso) · relator **Marcelo Vinaud** · Processo administrativo disciplinar reservado, julgado ao final → julgado em sessão reservada
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=5Pdwi_izh8Q&t=46s)
+- **RD 64 (extraordinária) (2019-12-19)**, 1.2.2 · relator **Elisabeth Braga** · 3ª e última revisão do Plano Anual de Contratações (PAC) 2020 → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5Pdwi_izh8Q&t=875s)
+- **RD 64 (extraordinária) (2019-12-19)**, assuntos gerais · relator **None** · Cancelamento de distribuição de processo; sem objeção; agradecimentos de fim de ano → aprovado
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=5Pdwi_izh8Q&t=3172s)
+- **RD 841 (2020-01-14)**, 1 · relator **None** · Aprovação da ata da reunião anterior → aprovada
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=bJMyPYl26qE&t=50s)
+- **RD 841 (2020-01-14)**, 2.3.1 · relator **Elisabeth Braga** · Plano de Integridade 2020/2021 da ANTT (continuidade do programa de integridade, Decreto 9.203/2017) → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=bJMyPYl26qE&t=1499s)
+- **RD 841 (2020-01-14)**, 2.3.2 · relator **Elisabeth Braga** · Plano anual de gestão de riscos 2020 (Deliberação 087/2017, política de gestão de riscos) → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=bJMyPYl26qE&t=1616s)
+- **RD 841 (2020-01-14)**, 2.4.2 · relator **Mário Rodrigues Junior** · Acordos de cooperação técnica com a Polícia Rodoviária Federal para aparelhamento (verba de aparelhamento da PRF), após recomendação do MPF para exclu → aprovado por unanimidade
+  - votos: Mário: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=bJMyPYl26qE&t=2206s)
+- **RD 841 (2020-01-14)**, 2.4.3 · relator **Mário Rodrigues Junior** · Prorrogação do TED 04/2018 (planejamento estratégico) até 22/04/2020, sem alteração de valor, com ajuste do plano de trabalho → aprovado por unanimidade
+  - votos: Mário: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=bJMyPYl26qE&t=2500s)
+- **RD 841 (2020-01-14)**, 3.1-3.2 · relator **None** · Pedidos de cancelamento de distribuição de processos (despachos de assuntos gerais) → aprovado (sem debate)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=bJMyPYl26qE&t=3357s)
+- **RD 842 (2020-01-21)**, 2.4.1 · relator **Weber Ciloni** · Política de atuação internacional da ANTT → retirado de pauta pelo relator
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=AQtsEWWAzts&t=1728s)
+- **RD 842 (2020-01-21)**, 3.1 e 3.2 · relator **None** · Assuntos gerais: dois pedidos de cancelamento de distribuição de processos (art. 67 §3º do Regimento Interno) → aprovados (de acordo) pelos diretores
+  - votos: Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=AQtsEWWAzts&t=2148s)
+- **RD 844 (2020-02-04)**, 2.2.3 · relator **Elisabeth Braga** · Consulta Pública 2/2018: relatório final e minuta de resolução que criaria conselhos da agência com comissões tripartites → retirado de pauta (devolvido à área técnica)
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5H2Ghxo8L9k&t=727s)
+- **RD 844 (2020-02-04)**, 3.1 a 3.4 · relator **Marcelo Vinaud** · Assuntos gerais: pedidos de cancelamento de distribuição de processos, entre eles o relativo às propostas de alteração das competências fiscalizatória → sem objeção dos diretores - cancelamentos aceitos
+  - votos: Marcelo: outro; Elisabeth: outro; Weber: outro; Davi: outro; Mário: outro · [vídeo](https://www.youtube.com/watch?v=5H2Ghxo8L9k&t=3034s)
+- **RD 847 (2020-03-03)**, 1 · relator **None** · Aprovação da ata da 846ª reunião → aprovada
+  - votos: Weber: acompanha; Davi: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=YHufn0EJk5g&t=85s)
+- **RD 847 (2020-03-03)**, 2.2.3 · relator **Weber Ciloni** · Proposta de política de atuação internacional da ANTT → retirado de pauta
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=YHufn0EJk5g&t=393s)
+- **RD 847 (2020-03-03)**, 2.2.4 · relator **Weber Ciloni** · Proposta de aprovação da política de inovação da ANTT (ciclo 2020) → vista concedida (Davi Barreto)
+  - votos: Weber: relator; Davi: vista; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=YHufn0EJk5g&t=467s)
+- **RD 847 (2020-03-03)**, 3.2 · relator **None** · Pedido de cancelamento de distribuição (art. 67 do regimento interno) → apenas apresentado (sem deliberação audível)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=YHufn0EJk5g&t=900s)
+- **RD 847 (2020-03-03)**, 3.3 · relator **None** · Plano de trabalho da Comissão de Ética da ANTT 2020 → apenas apresentado (sem deliberação audível)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=YHufn0EJk5g&t=930s)
+- **RD 848 (2020-03-10)**, 2.1.4 · relator **Marcelo Vinaud** · Relatório final da AP 016/2019, resolução que institui a política de redução do fardo regulatório na ANTT e manual de cálculo do fardo regulatório → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: outro; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=h231NmlBFOE&t=1481s)
+- **RD 848 (2020-03-10)**, 2.3.2 · relator **Davi Barreto** · Alteração da Res. 5.818/2018 (delegação de competências da Diretoria Colegiada às superintendências) — retirado de pauta → retirado de pauta (a pedido do relator)
+  - votos: Davi: relator; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=h231NmlBFOE&t=2799s)
+- **RD 849 (2020-03-24)**, QO-1 · relator **Marcelo Vinaud** · Questão de ordem: retirada de pauta em bloco dos processos reservados/sigilosos, porque a reunião passou a ser por videoconferência gravada e sem tran → aprovado por unanimidade — retirados de pauta
+  - votos: Marcelo: outro; Weber: outro; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=0TNHuq9u9XE&t=220s)
+- **RD 849 (2020-03-24)**, 2.1.2 · relator **Marcelo Vinaud** · Revogação da Deliberação 661/2018, que delegava a cada diretor a supervisão técnica de superintendências e unidades → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=0TNHuq9u9XE&t=595s)
+- **RD 849 (2020-03-24)**, 2.3.1 · relator **Davi Barreto** · Alteração da Res. 5.818/2018 (delegação de competências às superintendências): delegar à SUPAS a aprovação de TAR e TAF e licenças operacionais; alter → vista coletiva (art. 109 RI); deliberação na reunião seguinte
+  - votos: Davi: relator · [vídeo](https://www.youtube.com/watch?v=0TNHuq9u9XE&t=1302s)
+- **RD 849 (2020-03-24)**, 2.5.2 · relator **Menezes (nome incerto)** · Aprovação do relatório de gestão da ANTT do exercício de 2019 (prestação de contas ao TCU até 31/03/2020) → aprovado por unanimidade
+  - votos: Menezes: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=0TNHuq9u9XE&t=3537s)
+- **RD 849 (2020-03-24)**, 3.1/3.2 · relator **Weber Ciloni** · Assuntos gerais: pedidos de cancelamento de distribuição de processos (art. 67 RI) → dado conhecimento
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=0TNHuq9u9XE&t=3710s)
+- **RD 850 (2020-03-31)**, 1 · relator **Marcelo Vinaud** · Aprovação da ata da RD 849 → aprovada por unanimidade
+  - votos: Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=DqfYKnR7JBg&t=220s)
+- **RD 850 (2020-03-31)**, 2.1.4 · relator **Marcelo Vinaud** · Norma administrativa interna da Corregedoria sobre instrumentos de atuação na instauração, execução e julgamento de procedimentos correcionais (IN CGU → sem resultado claro na legenda (voto de Weber: acompanha)
+  - votos: Marcelo: relator; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=DqfYKnR7JBg&t=933s)
+- **RD 850 (2020-03-31)**, 3.1 · relator **Marcelo Vinaud** · Pedido de cancelamento da distribuição → sem registro de votação na legenda
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=DqfYKnR7JBg&t=2276s)
+- **RD 850 (2020-03-31)**, Enc · relator **Marcelo Vinaud** · Agradecimentos finais de diretores aos servidores e pedido de relatórios diários de pontos de apoio a caminhoneiros nas regionais → sem deliberação
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=DqfYKnR7JBg&t=2300s)
+- **RD 851 (2020-04-07)**, 1 · relator **None** · Aprovação da ata da 850ª reunião → aprovada
+  - votos: Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=185j9FgJSfw&t=58s)
+- **RD 851 (2020-04-07)**, 2.1.5 · relator **Marcelo Vinaud** · Proposta de norma e procedimento de ciência de particulares na ANTT → vista concedida (Alexandre Porto)
+  - votos: Marcelo: relator; Alexandre: vista · [vídeo](https://www.youtube.com/watch?v=185j9FgJSfw&t=1329s)
+- **RD 852 (2020-04-14)**, 2.1.1 · relator **Marcelo Vinaud** · Manual de procedimentos de ação ordinária de auditoria, modalidade avaliação (3ª edição) → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=cgsrOI4Uxoo&t=195s)
+- **RD 852 (2020-04-14)**, 2.3.2 · relator **Weber Ciloni** · Política de inovação da ANTT (relator Weber Ciloni; voto-vista de Davi Barreto, apresentado na reunião 847) → aprovado por unanimidade o voto-vista - devolução à área para ampliar a política
+  - votos: Davi: revisor_acompanha; Weber: relator; Alexandre: revisor_acompanha; Menezes: revisor_acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=cgsrOI4Uxoo&t=699s)
+- **RD 852 (2020-04-14)**, 3.1 e 3.2 · relator **Marcelo Vinaud** · Assuntos gerais: pedido de cancelamento de distribuição de processo conforme o art. 67 do Regimento Interno (3.1) e outro condicionado à Súmula 2 de 3 → aceitos, sem manifestação contrária
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=cgsrOI4Uxoo&t=1320s)
+- **RD 853 (2020-04-28)**, 2.2.1 · relator **Weber Ciloni** · Alteração do quantitativo de cargos comissionados da agência: redução de um CGE e criação de dois cargos → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=sVbD7HT9Ms0&t=417s)
+- **RD 853 (2020-04-28)**, 2.3.2 · relator **Marcelo Vinaud** · Aprovação da norma administrativa interna da Corregedoria sobre instalação, execução e julgamento de procedimentos correcionais (voto-vista) → aprovado por unanimidade - conteúdo aprovado, veiculado como resolução
+  - votos: Davi: revisor_acompanha; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: relator · [vídeo](https://www.youtube.com/watch?v=sVbD7HT9Ms0&t=1196s)
+- **RD 853 (2020-04-28)**, 2.4.2 · relator **Alexandre Porto** · Processo administrativo disciplinar (item reservado, relator Alexandre Porto), citado numa questão de ordem por ter sido omitido na leitura inicial do → tratado em parte reservada; resultado não consta do vídeo
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=sVbD7HT9Ms0&t=2498s)
+- **RD 854 (2020-05-05)**, 1 · relator **Marcelo Vinaud** · Aprovação da ata da RD 853 → aprovada por unanimidade
+  - votos: Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=5Wuych4chNY&t=50s)
+- **RD 854 (2020-05-05)**, 2.1.3 · relator **Marcelo Vinaud** · Manual de governança estratégica da ANTT → retirado de pauta (aprovado por unanimidade)
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=5Wuych4chNY&t=430s)
+- **RD 854 (2020-05-05)**, 2.2.x · relator **Weber Ciloni** · Regulamentação interna dos requisitos para ocupação de cargos em comissão → retirado de pauta (aprovado por unanimidade)
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=5Wuych4chNY&t=562s)
+- **RD 854 (2020-05-05)**, 2.4.1 · relator **Alexandre Porto** · Diretrizes e regras para audiências presenciais ou virtuais com particulares (agentes públicos da ANTT); voto-vista de Alexandre Porto (Voto-vista nº  → aprovado por unanimidade — diligências
+  - votos: Alexandre: revisor_acompanha; Weber: acompanha; Menezes: acompanha; Marcelo: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=5Wuych4chNY&t=1716s)
+- **RD 854 (2020-05-05)**, 2.5.1 · relator **Menezes (nome incerto)** · Alteração do anexo da Res. 5.810/2018: novo Regimento Interno da ANTT e deliberação sobre estrutura gerencial das superintendências → vista coletiva concedida (art. 109 do RI); deliberação na próxima reunião
+  - votos: Menezes: relator; Marcelo: outro · [vídeo](https://www.youtube.com/watch?v=5Wuych4chNY&t=2370s)
+- **RD 854 (2020-05-05)**, 3.1 · relator **Davi Barreto** · Prorrogação de prazo para inclusão em pauta de processos administrativos ordinários (Res. 5.083/2016), a pedido do relator Davi Barreto → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=5Wuych4chNY&t=2790s)
+- **RD 855 (2020-05-12)**, reservados · relator **Weber Ciloni** · Processos reservados: PAD da Corregedoria (relator Weber Ciloni) e recurso em processo administrativo simplificado da Autopista Fluminense (relator Al → julgados em parte reservada; resultado não consta do vídeo
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=QSiJxkgnNRE&t=135s)
+- **RD 855 (2020-05-12)**, 2.4.1 · relator **Menezes (nome incerto)** · Alteração do anexo da Resolução 5.810/2018 (Regimento Interno da ANTT) - nova estrutura organizacional; apresentada na reunião 854 e votada agora com  → aprovado por unanimidade
+  - votos: Menezes: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=QSiJxkgnNRE&t=738s)
+- **RD 855 (2020-05-12)**, 3.1 · relator **Marcelo Vinaud** · Pedido de cancelamento de distribuição de processo (art. 67 do Regimento Interno) → cancelamento aprovado por unanimidade
+  - votos: Marcelo: relator; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=QSiJxkgnNRE&t=968s)
+- **RD 856 (2020-05-19)**, 1 · relator **Marcelo Vinaud** · Aprovação da ata da RD 855 → aprovada por unanimidade
+  - votos: Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=mjm6V4571wA&t=60s)
+- **RD 856 (2020-05-19)**, EP-1 · relator **Marcelo Vinaud** · Extrapauta: alteração do quantitativo de cargos comissionados (CGE/CD/CA/CGT) da ANTT, nos termos do art. 14 da Lei 9.986/2000, sem aumento de despesa → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=mjm6V4571wA&t=533s)
+- **RD 856 (2020-05-19)**, 3.1 · relator **Marcelo Vinaud** · Pedido de cancelamento de distribuição de processo (art. 67 do RI); Menezes registra que fará diligência quanto ao art. 27 da resolução sobre mercados → aprovado
+  - votos: Menezes: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=mjm6V4571wA&t=726s)
+- **RD 857 (2020-05-26)**, 2.2.3 · relator **Davi Barreto** · Plano anual de contratações da ANTT para o exercício de 2021 → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=L75bt3Bz3xU&t=3475s)
+- **RD 857 (2020-05-26)**, 3.1 · relator **Marcelo Vinaud** · Pedido de cancelamento de distribuição de processo (art. 55 do Regimento Interno) → cancelamento aceito sem objeção
+  - votos: Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=L75bt3Bz3xU&t=4618s)
+- **RD 859 (2020-06-09)**, 2.2.1 · relator **Davi Barreto** · Alteração do quantitativo de cargos comissionados da ANTT para adequar à nova estrutura do Regimento Interno, revogando a Deliberação 2729/2020 (númer → aprovado por unanimidade
+  - votos: Davi: relator; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=05mc2Fg9l18&t=242s)
+- **RD 860 (2020-06-16)**, 1 · relator **None** · Aprovação da ata da 859ª reunião → aprovada
+  - votos: Weber: outro; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=3V5151Nospo&t=70s)
+- **RD 860 (2020-06-16)**, 2.2.1 · relator **Alexandre Porto** · 3ª edição do Manual de AIR da ANTT, com AIR nível 2 e Avaliação de Resultado Regulatório (ARR) → vista concedida (Davi Barreto)
+  - votos: Alexandre: relator; Davi: vista · [vídeo](https://www.youtube.com/watch?v=3V5151Nospo&t=309s)
+- **RD 861 (2020-06-23)**, 2.3.1 · relator **Alexandre Porto** · Celebração de convênio de delegação ao GDF da regulação e fiscalização do transporte rodoviário interestadual semiurbano coletivo de passageiros na RI → aprovado por unanimidade
+  - votos: Alexandre: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=mBKYTdfpNH0&t=741s)
+- **RD 862 (2020-06-30)**, 1 · relator **Marcelo Vinaud** · Aprovação da ata da RD 861 → aprovada por unanimidade
+  - votos: Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=WkYsadnFmNU&t=56s)
+- **RD 863 (2020-07-07)**, 2.1.1 · relator **Weber Ciloni** · Norma administrativa que institui o kit de fiscalização e os procedimentos de solicitação, entrega, uso e guarda dos itens (revisão da norma de unifor → pedido de vista (voto-vista só em reunião posterior; ver RD 868)
+  - votos: Weber: relator; Davi: vista · [vídeo](https://www.youtube.com/watch?v=5tKzpDjUXM4&t=180s)
+- **RD 863 (2020-07-07)**, 2.4.2 · relator **Eduardo Marra** · Convênio de delegação ao consórcio da gestão, regulação e fiscalização do transporte rodoviário interestadual semiurbano de passageiros entre Mafra (S → aprovado por unanimidade
+  - votos: Eduardo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=5tKzpDjUXM4&t=3249s)
+- **RD 864 (2020-07-14)**, 2.3.1 · relator **Weber Ciloni** · Norma administrativa do kit de fiscalização e procedimentos de solicitação, entrega, uso e guarda; voto-vista de Davi Barreto sobre a espécie normativ → retirado de pauta (aprovado por unanimidade)
+  - votos: Davi: revisor_acompanha; Weber: relator; Eduardo: acompanha; Marcelo: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=_RSg6WUtZj0&t=644s)
+- **RD 865 (2020-07-21)**, 1 · relator **None** · Aprovação da ata da 864ª reunião → aprovada
+  - votos: Davi: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=EFqrNJhKrSo&t=309s)
+- **RD 865 (2020-07-21)**, 2.4.1 · relator **Menezes (nome incerto)** · Critérios para recebimento e aceitação de brindes e presentes e participação em atividades externas pelos servidores (recomendação do TCU, Acórdão 3.7 → aprovado por unanimidade
+  - votos: Menezes: relator; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=EFqrNJhKrSo&t=2319s)
+- **RD 865 (2020-07-21)**, 3.1 · relator **Alexandre Porto** · Alteração na gestão e fiscalização do contrato 029/2018 entre ANTT e FGV (despacho de Alexandre Porto) → aprovado por unanimidade
+  - votos: Davi: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=EFqrNJhKrSo&t=2831s)
+- **RD 866 (2020-07-28)**, 2.x (assuntos) · relator **None** · Pedido de ampliação por mais 30 dias do prazo para levar a matéria à diretoria (art. 66 do Regimento Interno) → aprovado por unanimidade
+  - votos: Davi: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=p37M8AcTHkc&t=450s)
+- **RD 866 (2020-07-28)**, IND-1 · relator **Marcelo Vinaud** · Manifestação dos diretores sobre indicações do Diretor-Geral para superintendências: André Luís (nome incompleto na legenda; procurador federal/AGU, n → dado conhecimento / sem votação
+  - votos: Marcelo: outro; Davi: outro · [vídeo](https://www.youtube.com/watch?v=p37M8AcTHkc&t=519s)
+- **RD 866 (2020-07-28)**, 3.1 · relator **Weber Ciloni** · Assuntos gerais: despacho de cancelamento de distribuição (art. 65 §4º RI) de processos relacionados → aprovado por unanimidade
+  - votos: Davi: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=p37M8AcTHkc&t=873s)
+- **RD 867 (2020-08-04)**, 2.1.2 / 2.3.1 (sigilosos) · relator **None** · Processos administrativos disciplinares (Corregedoria) com restrição de acesso, julgados ao final da transmissão → sigiloso – julgamento fora da transmissão
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=Y2XuL68vXN4&t=754s)
+- **RD 867 (2020-08-04)**, 2.2.1 · relator **None** · Inclusão de quatro itens no Plano Anual de Contratações (PAC) 2020: consultoria para estruturação de escritório de processos (≈ R$ 1 milhão), monitore → aprovado por unanimidade
+  - votos: Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=Y2XuL68vXN4&t=1206s)
+- **RD 868 (2020-08-11)**, 2.2.1 · relator **Weber Ciloni** · Norma administrativa do kit de fiscalização: voto-vista de Davi Barreto (nº 14/2020), com revogação expressa da Res. 5.745/2018 → aprovado por unanimidade conforme o voto-vista
+  - votos: Davi: revisor_acompanha; Weber: revisor_acompanha; Alexandre: revisor_acompanha; Eduardo: revisor_acompanha; Marcelo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=OwXT6_HIJz0&t=502s)
+- **RD 868 (2020-08-11)**, 3.2 · relator **None** · Pedido de cancelamento de distribuição (art. 67 do Regimento Interno) → aprovado por unanimidade
+  - votos: Davi: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=OwXT6_HIJz0&t=3525s)
+- **RD 869 (2020-08-25)**, 2.1.2 · relator **None** · Resolução sobre atos públicos de liberação de atividades econômicas, sua classificação de risco e prazos máximos de análise, nos termos do Decreto 10. → pedido de vista (adiado); prazo do decreto vence no começo de setembro
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=exs-8j77hXY&t=327s)
+- **RD 869 (2020-08-25)**, 2.2.3 e 2.2.4 · relator **Alexandre Porto** · Retirada de pauta de dois processos já votados na reunião eletrônica, para análise com todos os diretores → retirados de pauta por unanimidade
+  - votos: Alexandre: relator; Davi: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=exs-8j77hXY&t=1377s)
+- **RD 871 (2020-09-08)**, 2.3.1 · relator **Alexandre Porto** · Revogação da Deliberação 85/2016 e aprovação da 3ª edição do Manual de AIR e de Avaliação de Resultado Regulatório; voto-vista nº 17/2020 → aprovado por unanimidade (conforme o voto-vista)
+  - votos: Alexandre: revisor_acompanha; Weber: acompanha; Eduardo: revisor_acompanha; Marcelo: revisor_acompanha; Davi: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=zjfsRZ00kT4&t=880s)
+- **RD 871 (2020-09-08)**, 3.1 · relator **Davi Barreto** · Assuntos gerais: pedido de cancelamento da distribuição (art. 67 do Regimento Interno) de processo apresentado na reunião deliberativa eletrônica nº 1 → aprovado por unanimidade
+  - votos: Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=zjfsRZ00kT4&t=1304s)
+- **RD 872 (2020-09-15)**, 2.3.1 · relator **Weber Ciloni** · Resolução sobre atos públicos de liberação de atividades econômicas, classificação de risco e prazos máximos de análise (Lei 13.874/2019 e Decreto 10. → aprovado por unanimidade (acompanharam o voto-vista)
+  - votos: Davi: revisor_acompanha; Weber: revisor_acompanha; Alexandre: revisor_acompanha; Eduardo: revisor_acompanha; Marcelo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=zuksv7XVCg8&t=1237s)
+- **RD 872 (2020-09-15)**, 3.1 · relator **Weber Ciloni** · Cancelamento de distribuição de processo cuja retirada de pauta foi pedida por Weber Ciloni na reunião eletrônica 14 (art. 66 do regimento) → aprovado
+  - votos: Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=zuksv7XVCg8&t=2967s)
+- **RD 872 (2020-09-15)**, 3.2 · relator **Weber Ciloni** · Cancelamento de distribuição de processo cuja retirada de pauta foi pedida por Weber Ciloni na reunião eletrônica 14 → aprovado
+  - votos: Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=zuksv7XVCg8&t=3042s)
+- **RD 872 (2020-09-15)**, 3.3 · relator **Alexandre Porto** · Pedido de Alexandre Porto de registro em ata de que as atividades de gestão do contrato de concessão e acompanhamento dos trabalhos devem ser feitas p → aprovado por unanimidade
+  - votos: Alexandre: outro; Davi: acompanha; Eduardo: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=zuksv7XVCg8&t=3095s)
+- **RD 874 (2020-09-29)**, 3.1 · relator **None** · Despacho de redistribuição de processo (condicionada ao regimento interno) → aprovado por unanimidade
+  - votos: Weber: acompanha; Davi: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=mfKf63OfUW4&t=250s)
+- **RD 874 (2020-09-29)**, 3.2 · relator **Marcelo Vinaud** · Despacho sobre plano de ação em atendimento a determinação do TCU → retirado de pauta (aprovado por unanimidade)
+  - votos: Marcelo: outro; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=mfKf63OfUW4&t=274s)
+- **RD 875 (2020-10-06)**, 1 · relator **None** · Aprovação da ata da 874ª reunião → aprovada
+  - votos: Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=yeArWUIUNCw&t=1004s)
+- **RD 875 (2020-10-06)**, 3.1 · relator **None** · Pedido de cancelamento de distribuição (art. 66, §4º, regimento interno): processo perdeu o objeto após julgamento anterior e questões levantadas pelo → aprovado (cancelamento de distribuição)
+  - votos: Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=yeArWUIUNCw&t=3359s)
+- **RD 876 (2020-10-13)**, 2.1.1 (reservado) · relator **Weber Ciloni** · PAD em grau de recurso, de relatoria de Weber Ciloni, julgado ao final da transmissão → sigiloso – julgamento fora da transmissão
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=zXV6lBoo2Qg&t=135s)
+- **RD 877 (2020-10-27)**, 2.1.2 · relator **Marcelo Vinaud** · Interrupção de afastamento por interesse da administração em curso de mestrado → aprovado por unanimidade
+  - votos: Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=GAtL0jed_ZU&t=840s)
+- **RD 877 (2020-10-27)**, 2.2.1 · relator **Weber Ciloni** · Alteração do anexo da Deliberação 1.080/2019, que aprova o Plano de Gestão Anual (PGA) 2020, após o novo Regimento Interno → aprovado
+  - votos: Weber: relator; Alexandre: acompanha; Marcelo: acompanha; Davi: outro; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=GAtL0jed_ZU&t=1367s)
+- **RD 877 (2020-10-27)**, 3.1 · relator **None** · Assuntos gerais: plano de ação referente ao Acórdão TCU 1022/2019 (despacho de 15/10/2020) → dado conhecimento
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=GAtL0jed_ZU&t=4140s)
+- **RD 877 (2020-10-27)**, 3.2 · relator **None** · Assuntos gerais: ampliação por mais 30 dias do prazo para apresentar a matéria ao colegiado (art. 66 RI) → aprovado por unanimidade
+  - votos: Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=GAtL0jed_ZU&t=4170s)
+- **RD 877 (2020-10-27)**, 3.3 · relator **None** · Assuntos gerais: plano de gestão estratégica e transformação institucional (PGT) do programa Transformagov (NT SEI 4896/2020) → aprovado por unanimidade
+  - votos: Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=GAtL0jed_ZU&t=4241s)
+- **RD 877 (2020-10-27)**, 3.4 · relator **None** · Assuntos gerais: termo aditivo ao Termo de Execução Descentralizada nº 001/2019 com a Universidade Federal de Santa Catarina → aprovado por unanimidade
+  - votos: Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=GAtL0jed_ZU&t=4299s)
+- **RD 878 (2020-11-03)**, 2.1.2 · relator **Weber Ciloni** · Comunicação de ajustes na estrutura societária do grupo Ecorodovias, apresentada para aprovação prévia da agência; proposta de súmula sobre o tema → vista coletiva concedida; deliberação em reunião seguinte
+  - votos: Weber: relator · [vídeo](https://www.youtube.com/watch?v=4WJEBJKglvA&t=893s)
+- **RD 879 (2020-11-10)**, 1 · relator **None** · Aprovação da ata da RD 878 → aprovada por unanimidade
+  - votos: Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=B-NPl1jUYE0&t=250s)
+- **RD 879 (2020-11-10)**, 2.3.1 · relator **Eduardo Marra** · Abertura de audiência pública para colher subsídios à minuta de resolução que regulamenta a atuação de comissões tripartites na ANTT → retirado de pauta para diligências (aprovado por unanimidade)
+  - votos: Eduardo: relator; Weber: acompanha; Alexandre: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=B-NPl1jUYE0&t=1261s)
+- **RD 879 (2020-11-10)**, 3.1 · relator **None** · Pedido de cancelamento de distribuição de processo → retirado de pauta
+  - votos: Alexandre: acompanha; Weber: acompanha; Davi: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=B-NPl1jUYE0&t=1744s)
+- **RD 880 (2020-11-18)**, 1 · relator **None** · Aprovação da ata da 879ª reunião → aprovada
+  - votos: Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=t5HV1ZgSFw4&t=62s)
+- **RD 880 (2020-11-18)**, 2.1.2 · relator **Alexandre Porto** · Plano anual de aquisição de veículos 2020 (13 veículos para fiscalização); voto-vista do DG nº 006/2020 após voto do relator Alexandre Porto na RDE nº → aprovado por unanimidade (acolhido o voto-vista)
+  - votos: Marcelo: revisor_acompanha; Weber: revisor_acompanha; Davi: revisor_acompanha; Alexandre: revisor_acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=t5HV1ZgSFw4&t=192s)
+- **RD 880 (2020-11-18)**, 2.4.1 · relator **Eduardo Marra** · Abertura de audiência pública sobre regulamentação das comissões tripartites na ANTT; encerramento da Consulta Pública 2/2018 (conselhos de usuários) → aprovado por unanimidade
+  - votos: Eduardo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=t5HV1ZgSFw4&t=1257s)
+- **RD 881 (2020-11-24)**, 2.2.2 · relator **Weber Ciloni** · Implantação do Programa de Gestão Remota do Trabalho (PGRT) na ANTT, com monitoramento por chefia, relatório gerencial e comissão especial permanente → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=b5hpEOiXfbs&t=830s)
+- **RD 881 (2020-11-24)**, 2.4.1 · relator **Eduardo Marra** · Proposta de alteração do anexo da Resolução 5.888/2020 (Regimento Interno da ANTT) → retirado de pauta (aprovado por unanimidade)
+  - votos: Eduardo: outro; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=b5hpEOiXfbs&t=1169s)
+- **RD 881 (2020-11-24)**, 2.4.2 · relator **Eduardo Marra** · Primeira etapa do projeto de revisão e consolidação dos atos normativos da ANTT: revogação integral de 9 resoluções e parcial de uma (Decreto 10.139/2 → aprovado por unanimidade
+  - votos: Eduardo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=b5hpEOiXfbs&t=1233s)
+- **RD 881 (2020-11-24)**, 3.1 · relator **Marcelo Vinaud** · Pedido de cancelamento de distribuição de processo → aprovado por unanimidade
+  - votos: Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=b5hpEOiXfbs&t=1867s)
+- **RD 881 (2020-11-24)**, 3.2 · relator **Davi Barreto** · Pedido de cancelamento de distribuição de processo → aprovado por unanimidade
+  - votos: Weber: acompanha; Alexandre: acompanha; Marcelo: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=b5hpEOiXfbs&t=1905s)
+- **RD 882 (2020-12-02)**, EP-2 · relator **Alexandre Porto** · Extra-pauta: inclusão de novo item no Plano Anual de Contratações (PAC) 2020 para contratar serviços técnicos de engenharia de apoio à análise de proj → aprovado por unanimidade
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=sDWtLtsoPCU&t=1480s)
+- **RD 883 (2020-12-08)**, 2.3.2 · relator **Alexandre Porto** · Aprovação do Plano de Gestão Anual (PGA) — retirado de pauta → retirado de pauta
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=ZulDOW-0648&t=1669s)
+- **RD 884 (2020-12-15)**, 1 · relator **Marcelo Vinaud** · Aprovação da ata da RD 883 → aprovada por unanimidade
+  - votos: Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=SIaolRUffls&t=333s)
+- **RD 884 (2020-12-15)**, 2.1.2 · relator **Marcelo Vinaud** · Interrupção de afastamento para curso de doutorado/pós-graduação em políticas públicas, a partir de 31/12/2020 → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=SIaolRUffls&t=622s)
+- **RD 884 (2020-12-15)**, 2.2.3 · relator **Weber Ciloni** · Programa de gestão e melhoria da qualidade da atividade de auditoria interna da ANTT → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=SIaolRUffls&t=734s)
+- **RD 884 (2020-12-15)**, 2.4.1 · relator **Alexandre Porto** · Plano de Gestão Anual (PGA) 2021 da ANTT → aprovado por unanimidade
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=SIaolRUffls&t=4031s)
+- **RD 884 (2020-12-15)**, 3.1 e 3.2 · relator **Marcelo Vinaud** · Pedidos de cancelamento de distribuição de processos (despachos de 4 e 8/12/2020) → aprovados
+  - votos: Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=SIaolRUffls&t=6621s)
+- **RD 884 (2020-12-15)**, 3.3 · relator **Marcelo Vinaud** · Ofício da SUDEG sobre tratativas do aluguel da sede da ANTT em Brasília: DG determina estudo de redução do uso do imóvel com base no teletrabalho, arq → informe / determinação do DG, sem votação
+  - votos: Marcelo: outro · [vídeo](https://www.youtube.com/watch?v=SIaolRUffls&t=6708s)
+- **RD 884 (2020-12-15)**, Enc · relator **Marcelo Vinaud** · Encerramento do ano de 2020: agradecimentos do Diretor-Geral (em exercício) à diretoria, ao corpo técnico, à Procuradoria e servidores de fiscalização → sem deliberação
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=SIaolRUffls&t=6987s)
 - **RD 885 (2021-01-18)**, 2.2.1 · relator **Eduardo Marra** · Proposta de acordo de cooperação técnica ANTT–OCB para apoio ao cadastro de transportadores no RNTRC (cargas) e sistemas de passageiros (integração de → vista (pedido de vista por Davi Barreto; ver RD 895)
   - votos: Eduardo: relator; Davi: vista · [vídeo](https://www.youtube.com/watch?v=KFIPj15oozg&t=353s)
 - **RD 888 (2021-02-09)**, 3.1 · relator **Marcelo Vinaud** · Assuntos gerais: pedido de cancelamento de distribuição de processo → aprovado (sem manifestações)

@@ -1,0 +1,105 @@
+{
+ "meta": {
+  "video_id": "ifXiMh49mdg",
+  "fonte": "legenda automática do YouTube; falantes inferidos (o rótulo de falante do .md é pouco confiável; quem abre a sessão é o Diretor-Geral Mário Rodrigues Junior); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "62 (extraordinária)",
+  "data": "2019-06-13",
+  "formato": "presencial (transmissão YouTube)",
+  "presidente_da_sessao": "Mário Rodrigues Junior (Diretor-Geral)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Weber Ciloni",
+   "Mário Rodrigues Junior"
+  ],
+  "ausentes": [
+   "Elisabeth Braga"
+  ],
+  "observacoes": [
+   "Elisabeth Braga ausente (Cúpula Global de Transporte Público 2019, Estocolmo).",
+   "Três diretores aptos a deliberar; encerrada às 16h02.",
+   "Sessão curta: dois itens, ambos unânimes."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1.1",
+   "ts": "0:01:08",
+   "processo": "50500.323?/1993 (parcial)",
+   "interessado": "Rumo Malha Oeste S/A",
+   "assunto": "Embargos de declaração contra a Deliberação 432/2019 (legenda diz 2009 e 2018: erro material alegado pela embargante quanto ao ano)",
+   "tema": [
+    "ferrovias",
+    "judicializacao",
+    "fiscalização e sanções"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade — embargos parcialmente providos, sem efeito suspensivo",
+   "resumo_voto": "Embargos tempestivos; reconhece omissão (dois processos administrativos com liminar e depósito de garantia não deveriam caracterizar inadimplência) e erro material na numeração; altera a deliberação para retirar os dois processos do rol do anexo I e fixa a vigência a partir da publicação no DOU; nega efeito suspensivo por ausência de perigo de dano irreparável.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, conhece dos embargos sem efeito suspensivo e dá parcial provimento com efeitos infringentes",
+     "ts": "0:01:08",
+     "justificativa": "erro material (ano da deliberação) e omissão quanto a processos com decisão judicial favorável",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:05:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:05:11",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.1",
+   "ts": "0:05:15",
+   "processo": "50500.338105/2001-94 (parcial)",
+   "interessado": "SUPAS",
+   "assunto": "Abertura de audiência pública sobre minuta de resolução que regulamenta a inviabilidade operacional e altera a Res. 4.770/2015 (ônibus em regime de autorização)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "regulação normativa",
+    "participação social"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Propõe conceituar a inviabilidade operacional (concorrência ruinosa ou restrições de infraestrutura) usando o aproveitamento do mercado como parâmetro; submeter a minuta a audiência pública.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, autoriza abertura de audiência pública",
+     "ts": "0:05:15",
+     "justificativa": "regulamentar conceito de inviabilidade operacional (concorrência ruinosa ou restrição de infraestrutura) com uso do aproveitamento do mercado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:07:18",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:07:18",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Relatoria do item 1.1.1 atribuída a Marcelo Vinaud pela fala de abertura do item (legenda confusa: «diretor marcelo»); relator do 1.2.1 (Weber Ciloni) deduzido de «diretor ... disse lonnie» na leitura; confiança média.",
+  "Números de processo parciais/errados na legenda."
+ ]
+}

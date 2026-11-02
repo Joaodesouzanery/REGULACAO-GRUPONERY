@@ -1,5 +1,13 @@
 # Itens do tema «sandbox_inovacao» (todos os diretores)
 
+- **RD 815 (2019-06-18)**, 2.3.5 · relator **Weber Ciloni** · Acordo de Cooperação Técnica: sistemas inteligentes de controle de tráfego, programa Canal Vivo (fiscalização responsiva do transporte de cargas e pas → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=AhItQBZ9-D4&t=3078s)
+- **RD 840 (2019-12-17)**, 3.1 · relator **None** · Assuntos gerais: 3.1 prorrogação de prazo de diligência; 3.2 metodologia de mensuração da maturidade de inovação (dado conhecimento) → sem objeção dos diretores
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=g9pWxYnVrPA&t=3657s)
+- **RD 847 (2020-03-03)**, 2.2.4 · relator **Weber Ciloni** · Proposta de aprovação da política de inovação da ANTT (ciclo 2020) → vista concedida (Davi Barreto)
+  - votos: Weber: relator; Davi: vista; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=YHufn0EJk5g&t=467s)
+- **RD 852 (2020-04-14)**, 2.3.2 · relator **Weber Ciloni** · Política de inovação da ANTT (relator Weber Ciloni; voto-vista de Davi Barreto, apresentado na reunião 847) → aprovado por unanimidade o voto-vista - devolução à área para ampliar a política
+  - votos: Davi: revisor_acompanha; Weber: relator; Alexandre: revisor_acompanha; Menezes: revisor_acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=cgsrOI4Uxoo&t=699s)
 - **RD 927 (2022-03-10)**, 2.2.2 · relator **Davi Barreto** · Abertura de audiência pública sobre a minuta de resolução do sandbox regulatório (ambiente regulatório experimental) → aprovado por unanimidade
   - votos: Davi: relator; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=vD2mixuNuv8&t=964s)
 - **RD 943 (2022-11-03)**, 2.4.1 · relator **Luciano Lourenço** · Relatório final da Audiência Pública 2/2022 e aprovação da minuta de resolução do ambiente regulatório experimental (sandbox regulatório) → aprovado por unanimidade

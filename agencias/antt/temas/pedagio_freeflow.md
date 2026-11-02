@@ -1,5 +1,111 @@
 # Itens do tema «pedagio_freeflow» (todos os diretores)
 
+- **RD 804 (2019-03-26)**, 2.2.6 · relator **Elisabeth Braga** · Recurso — multa por não liberar cancelas quando fila ultrapassou 300 m (fila de 350 m, praça com 3 cabines de cinco) → aprovado por unanimidade — multa mantida (163,35)
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=GHw9REZb1zA&t=1647s)
+- **RD 810 (2019-05-14)**, 2.3.2 · relator **Weber Ciloni** · 8ª revisão ordinária, 11ª revisão extraordinária e reajuste da tarifa básica de pedágio (vigência prevista 18/05/2019) → pedido de vista (Marcelo Vinaud) e vista também concedida a Elisabeth Braga; votação suspe
+  - votos: Weber: relator; Marcelo: vista; Elisabeth: vista; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=aZwuAPZ66J0&t=2373s)
+- **RD 811 (2019-05-21)**, extrapauta-2 · relator **Elisabeth Braga** · 8ª revisão ordinária, 11ª extraordinária e reajuste da tarifa básica de pedágio, com discussão do desconto de reequilíbrio e da curva de tráfego → pedido de vista (autoria incerta na legenda; processo seria redistribuído)
+  - votos: Elisabeth: relator; Marcelo: vista · [vídeo](https://www.youtube.com/watch?v=Epr61yDCvnY&t=2378s)
+- **RD 822 (2019-08-13)**, 2.2.3 · relator **Elisabeth Braga** · 11ª revisão ordinária, 11ª revisão extraordinária e reajuste da tarifa básica de pedágio (BR-101/RJ) → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: relator; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kMGgTtubwtU&t=839s)
+- **RD 823 (2019-08-20)**, 2.1.1 · relator **Mário Rodrigues Junior** · Voto-vista do Diretor-Geral — quarta revisão ordinária, oitava extraordinária e reajuste da tarifa básica de pedágio (TBP) → aprovado por unanimidade — com aplicação parcial do fator C
+  - votos: Mário: revisor_acompanha; Marcelo: revisor_acompanha; Elisabeth: revisor_acompanha; Weber: revisor_acompanha; Davi: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=6pNMwNpnAP8&t=74s)
+- **RD 823 (2019-08-20)**, 2.2.2 · relator **Marcelo Vinaud** · Voto-vista — oitava revisão ordinária, 11ª revisão extraordinária, desconto de reequilíbrio e reajuste da TBP → aprovado por unanimidade
+  - votos: Marcelo: revisor_acompanha; Elisabeth: revisor_acompanha; Weber: revisor_acompanha; Davi: revisor_acompanha; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=6pNMwNpnAP8&t=691s)
+- **RD 824 (2019-08-27)**, 2.1.2 · relator **Marcelo Vinaud** · 3ª revisão ordinária, 5ª revisão extraordinária e reajuste da tarifa básica de pedágio (BR-101/RJ, Ponte Rio-Niterói) → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=_1ekxBesJpo&t=270s)
+- **RD 825 (2019-09-03)**, 2.4.1 · relator **Davi Barreto** · Décima segunda revisão extraordinária da tarifa básica de pedágio — retirado de pauta pelo relator → retirado de pauta
+  - votos: Davi: relator; Elisabeth: acompanha; Weber: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=MeEnP05i-aI&t=734s)
+- **RD 827 (2019-09-17)**, 2.2.3 · relator **Elisabeth Braga** · 23ª revisão ordinária, 9ª revisão extraordinária e reajuste da TBP → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kH8jsop2XDs&t=413s)
+- **RD 828 (2019-09-24)**, 2.1.1 · relator **Marcelo Vinaud** · 11ª revisão ordinária, 13ª revisão extraordinária e reajuste da TBP (BR-116/PR, BR-376/PR e BR-101/SC, Curitiba–Florianópolis) → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uhDA6l45fTk&t=151s)
+- **RD 828 (2019-09-24)**, 2.2.2 · relator **Elisabeth Braga** · 10ª revisão ordinária, 11ª revisão extraordinária e reajuste da TBP (edital 07/2007; praça P3 de R$ 7,00 para R$ 6,20, queda de ~11,4%) → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uhDA6l45fTk&t=603s)
+- **RD 829 (2019-10-01)**, 2.2.2 · relator **Elisabeth Braga** · Proposta de resolução sobre padronização, implementação e operação do sistema semiautomático de arrecadação de pedágio (cobrança eletrônica) nas rodov → retirado de pauta
+  - votos: Elisabeth: relator · [vídeo](https://www.youtube.com/watch?v=4qQrSJA_XaM&t=667s)
+- **RD 829 (2019-10-01)**, 2.4.2 · relator **Davi Barreto** · Sexta revisão ordinária, sétima revisão extraordinária e reajuste anual da tarifa básica de pedágio → aprovado por unanimidade
+  - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=4qQrSJA_XaM&t=785s)
+- **RD 832 (2019-10-22)**, 2.3.2 · relator **Weber Ciloni** · 4ª revisão ordinária, 6ª extraordinária e reajuste da tarifa básica de pedágio → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=tDrIVnhMZBo&t=588s)
+- **RD 833 (2019-10-30)**, 2.1.5 · relator **Marcelo Vinaud** · 25ª revisão ordinária, 13ª revisão extraordinária e reajuste da tarifa básica de pedágio; atualização dos aportes da nova subida da Serra de Petrópoli → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=Ie5Fnfu5VQI&t=1682s)
+- **RD 833 (2019-10-30)**, 2.1.6 · relator **Marcelo Vinaud** · 4ª revisão ordinária, 8ª revisão extraordinária e reajuste da tarifa básica de pedágio; manutenção da tarifa por tutela de urgência em ação cautelar a → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=Ie5Fnfu5VQI&t=1920s)
+- **RD 834 (2019-11-05)**, 2.3.4 · relator **Weber Ciloni** · 4ª revisão ordinária, 6ª revisão extraordinária e reajuste anual (IPCA 4,66%) da tarifa básica de pedágio; redução da tarifa de categoria 1 para R$ 2, → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: acompanha; Weber: relator; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jtaSxDPBkcE&t=1426s)
+- **RD 834 (2019-11-05)**, extrapauta · relator **Marcelo Vinaud** · Referendo da Deliberação 971/2019 (tornou sem efeito a redução tarifária da Deliberação 963/2019) e nova aprovação da 25ª revisão ordinária, 13ª extra → aprovado por unanimidade; inclusão extrapauta aceita por todos
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jtaSxDPBkcE&t=2100s)
+- **RD 835 (2019-11-12)**, 2.1.1 · relator **Marcelo Vinaud** · Quarta revisão ordinária, sexta revisão extraordinária e reajuste da tarifa básica de pedágio, com sustentação oral da concessionária (redução média d → vista concedida a Weber Ciloni (votação interrompida)
+  - votos: Marcelo: relator; Weber: vista · [vídeo](https://www.youtube.com/watch?v=NM39E2nZvAs&t=388s)
+- **RD 835 (2019-11-12)**, 2.1.2 · relator **Marcelo Vinaud** · Décima primeira revisão ordinária, décima primeira revisão extraordinária e reajuste da TBP (praças Onda Verde, José Bonifácio, Marília etc.) → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=NM39E2nZvAs&t=1513s)
+- **RD 837 (2019-11-26)**, 2.1.1 · relator **Mário Rodrigues Junior** · Referendo da Deliberação 1001/2019 e aprovação da 4ª revisão ordinária, 6ª extraordinária e reajuste da tarifa básica de pedágio, com observação de su → aprovado por unanimidade
+  - votos: Mário: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=3O5viqLvwtg&t=145s)
+- **RD 837 (2019-11-26)**, extra-2 · relator **Weber Ciloni** · Voto-vista de Weber Ciloni sobre 4ª revisão ordinária, 6ª extraordinária e reajuste da TBP (proposta de Marcelo Vinaud com aplicação integral do monta → aprovada a revisão com a metodologia da SUINF; prazo de 30 dias (prorrogável por 30) para 
+  - votos: Weber: revisor_acompanha; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=3O5viqLvwtg&t=2590s)
+- **RD 838 (2019-12-03)**, 2.1.1 · relator **Marcelo Vinaud** · Habilitação como fornecedora de vale-pedágio obrigatório e aprovação de modelos e sistemas operacionais (Res. 2.885/2008) → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uvRp5oExIss&t=153s)
+- **RD 838 (2019-12-03)**, 2.3.1 · relator **Weber Ciloni** · Cumprimento de decisão judicial: suspensão dos efeitos da Deliberação 911/2019, que aprovou a 10ª revisão ordinária e 11ª extraordinária (tarifa da BR → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uvRp5oExIss&t=1271s)
+- **RD 838 (2019-12-03)**, 2.4.1 · relator **Davi Barreto** · 12ª revisão extraordinária da TBP, efeitos a partir de 1º/01/2020, em cumprimento ao Acórdão TCU 1.930/2018 (impacto da MP dos caminhoneiros/aumento d → aprovado por unanimidade
+  - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uvRp5oExIss&t=1445s)
+- **RD 839 (2019-12-11)**, 2.3.1 · relator **Elisabeth Braga** · 4ª revisão ordinária, 7ª revisão extraordinária e reajuste da tarifa básica de pedágio (ciclo 06/09/2019 a 05/09/2020), com manutenção das tarifas vig → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=7gL6wMFBa0w&t=1321s)
+- **RD 64 (extraordinária) (2019-12-19)**, 1.3.3 · relator **Weber Ciloni** · 24ª revisão ordinária, 15ª extraordinária e reajuste da tarifa básica de pedágio (vigência 23/12/2019); debate sobre pedido de sustentação oral intemp → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5Pdwi_izh8Q&t=1955s)
+- **RD 842 (2020-01-21)**, 2.1.1 · relator **Mário Rodrigues Junior** · Referendo da Deliberação 1.123 (23/12/2019 — numeração incerta), que suspendeu parcialmente os efeitos da Del. 813/2009 (11ª revisão ordinária, 11ª ex → aprovado por unanimidade
+  - votos: Mário: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=AQtsEWWAzts&t=1001s)
+- **RD 842 (2020-01-21)**, 2.1.2 · relator **Mário Rodrigues Junior** · Referendo da Deliberação 1.111 (23/12/2019), que suspendeu a Del. 1.093 (24ª revisão ordinária, 15ª extraordinária e reajuste da TBP da BR-116/RJ-SP)  → aprovado por unanimidade
+  - votos: Mário: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=AQtsEWWAzts&t=1170s)
+- **RD 842 (2020-01-21)**, 2.2.3 · relator **Marcelo Vinaud** · Suspensão da Deliberação 1.025 (26/11/2019), que aprovou a 4ª revisão ordinária, a 6ª extraordinária e o reajuste da TBP, por decisão judicial, a part → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=AQtsEWWAzts&t=1559s)
+- **RD 844 (2020-02-04)**, 2.3.1 · relator **Weber Ciloni** · 24ª revisão ordinária, 15ª revisão extraordinária e reajuste anual da tarifa básica de pedágio (vigência prevista 08/02/2020); matéria já aprovada ant → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5H2Ghxo8L9k&t=996s)
+- **RD 849 (2020-03-24)**, 2.4.1 · relator **Alexandre Porto** · Habilitação como empresa fornecedora do Vale-Pedágio Obrigatório e aprovação de modelos e sistemas operacionais → aprovado por unanimidade
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=0TNHuq9u9XE&t=2421s)
+- **RD 851 (2020-04-07)**, 2.4.1 · relator **Alexandre Porto** · Homologação do resultado do leilão da BR-101/SC (Paulo Lopes a divisa com o RS), vencido por CCR S.A. com tarifa básica de R$ 1,97 → aprovado por unanimidade
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=185j9FgJSfw&t=3393s)
+- **RD 851 (2020-04-07)**, 2.5.1 · relator **Menezes (nome incerto)** · Habilitação como fornecedora do vale-pedágio obrigatório em âmbito nacional (Lei 10.209/2001; Res. 2.885/2008) → aprovado por unanimidade
+  - votos: Menezes: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=185j9FgJSfw&t=3560s)
+- **RD 857 (2020-05-26)**, 2.2.1 · relator **Davi Barreto** · 9ª revisão ordinária, 12ª revisão extraordinária e reajuste da tarifa básica de pedágio, com sustentação oral da concessionária → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=L75bt3Bz3xU&t=1219s)
+- **RD 65 (extraordinária) (2020-06-25)**, 1.1.1 · relator **Davi Barreto** · Proposta de revogação do art. 3º da Deliberação nº 964/2019 (30/10/2019), de modo a implementar a redução tarifária de pedágio, em cumprimento à ordem → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=cfXPqy10OBk&t=62s)
+- **RD 863 (2020-07-07)**, 2.1.2 · relator **Weber Ciloni** · 16ª revisão ordinária, 13ª revisão extraordinária e reajuste da tarifa básica de pedágio (TBP) da Ecosul (BR-392/RS e acessos ao porto de Rio Grande), → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=5tKzpDjUXM4&t=340s)
+- **RD 864 (2020-07-14)**, 2.5.1 · relator **None** · 11ª revisão ordinária, 12ª revisão extraordinária e reajuste da tarifa básica de pedágio; procuradoria recomendou excluir novos investimentos do fluxo → aprovado por unanimidade
+  - votos: Weber: acompanha; Davi: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=_RSg6WUtZj0&t=2150s)
+- **RD 865 (2020-07-21)**, 2.2.2 · relator **Davi Barreto** · 12ª revisão ordinária, 12ª extraordinária e reajuste da tarifa básica de pedágio → aprovado por unanimidade
+  - votos: Davi: relator; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=EFqrNJhKrSo&t=749s)
+- **RD 865 (2020-07-21)**, 2.3.2 · relator **Alexandre Porto** · 12ª revisão ordinária, 12ª extraordinária e reajuste anual da tarifa básica de pedágio → aprovado por unanimidade
+  - votos: Alexandre: relator; Davi: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=EFqrNJhKrSo&t=1806s)
+- **RD 867 (2020-08-04)**, 2.2.3 · relator **None** · Autorização para cobrança bidirecional de pedágio nas praças P2 e P3 após cumprimento da cláusula 17.3 do contrato 01/2019 (alterações nas praças em a → aprovado por unanimidade
+  - votos: Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=Y2XuL68vXN4&t=1477s)
+- **RD 867 (2020-08-04)**, 2.2.4 · relator **Davi Barreto** · 12ª revisão ordinária, 14ª revisão extraordinária e reajuste da tarifa básica de pedágio; termos aditivos para inclusão do Contorno de Florianópolis ( → aprovado por maioria (um voto divergente/ressalvas)
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=Y2XuL68vXN4&t=1661s)
+- **RD 874 (2020-09-29)**, 2.1.1 · relator **Marcelo Vinaud** · 12ª revisão ordinária, 12ª revisão extraordinária e reajuste da tarifa básica de pedágio → retirado de pauta (aprovado por unanimidade)
+  - votos: Marcelo: outro; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=mfKf63OfUW4&t=171s)
+- **RD 875 (2020-10-06)**, 2.1.1 · relator **Weber Ciloni** · 5ª revisão ordinária, revisão extraordinária e reajuste da tarifa básica de pedágio (Fator Q / acidentes; verba de aparelhamento da PRF; livros de com → vista (Alexandre Porto)
+  - votos: Weber: relator; Alexandre: vista; Davi: outro; Eduardo: outro; Marcelo: outro · [vídeo](https://www.youtube.com/watch?v=yeArWUIUNCw&t=1036s)
+- **RD 875 (2020-10-06)**, 2.2.1 · relator **Davi Barreto** · 4ª revisão ordinária, 6ª revisão extraordinária e reajuste da tarifa básica de pedágio (aplicação do Fator Q) → vista coletiva (Weber Ciloni e Alexandre Porto)
+  - votos: Davi: relator; Weber: vista; Alexandre: vista; Eduardo: outro; Marcelo: outro · [vídeo](https://www.youtube.com/watch?v=yeArWUIUNCw&t=2424s)
+- **RD 876 (2020-10-13)**, 2.2.1 · relator **Eduardo Marra** · Revisão ordinária, revisão extraordinária e reajuste da tarifa básica de pedágio → retirado de pauta (aprovado por unanimidade)
+  - votos: Eduardo: outro; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=zXV6lBoo2Qg&t=159s)
+- **RD 877 (2020-10-27)**, 2.3.1 · relator **Weber Ciloni** · 5ª revisão ordinária, 9ª extraordinária e reajuste da tarifa básica de pedágio. Voto do relator Weber Ciloni (voto 120/2020, RD 875, 06/10/2020); voto → aprovado por maioria — voto-vista (revisor) prevaleceu; Weber Ciloni vencido
+  - votos: Weber: relator; Alexandre: revisor_acompanha; Davi: revisor_acompanha; Eduardo: revisor_acompanha; Marcelo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=GAtL0jed_ZU&t=1566s)
+- **RD 878 (2020-11-03)**, 2.1.1 · relator **Davi Barreto** · 4ª revisão ordinária, 6ª revisão extraordinária e reajuste da tarifa básica de pedágio (voto-vista de Weber Ciloni; relator Davi Barreto) → aprovado por unanimidade - voto do relator com as determinações complementares do voto-vis
+  - votos: Weber: revisor_acompanha; Davi: revisor_acompanha; Alexandre: acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=4WJEBJKglvA&t=102s)
+- **RD 878 (2020-11-03)**, 2.2.2 · relator **Eduardo Marra** · 5ª revisão ordinária, 9ª revisão extraordinária e reajuste da tarifa básica de pedágio → aprovado por unanimidade
+  - votos: Eduardo: relator; Weber: acompanha; Alexandre: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=4WJEBJKglvA&t=1169s)
+- **RD 878 (2020-11-03)**, extrapauta · relator **Eduardo Marra** · Autorização para início da cobrança de pedágio nas praças P1 (Uberlândia) e P2 (Monte Alegre de Minas), BR-364/365 (MG/GO), e reajuste da tarifa básic → aprovado por unanimidade
+  - votos: Eduardo: relator; Weber: acompanha; Alexandre: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=4WJEBJKglvA&t=1462s)
+- **RD 881 (2020-11-24)**, 2.2.1 · relator **Weber Ciloni** · 12ª revisão ordinária, 12ª revisão extraordinária e reajuste da tarifa básica de pedágio (processo retirado de pauta anteriormente por liminar; nova a → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=b5hpEOiXfbs&t=443s)
+- **RD 884 (2020-12-15)**, 2.3.1 · relator **Davi Barreto** · Recurso contra decisão da SUINFRA (4/12/2020) de não conformidade dos trabalhos iniciais nos subtrechos das praças de pedágio P6 e P7, com pedido de a → aprovado por unanimidade — recurso conhecido e provimento negado
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=SIaolRUffls&t=1048s)
+- **RD 886 (2021-01-28)**, 2.3.1 · relator **Davi Barreto** · Abertura de audiência pública sobre minutas de edital, contrato, PER e estudos de viabilidade para concessão de seis lotes do sistema rodoviário do Pa → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=3LVmgqbrUNY&t=1496s)
 - **RD 887 (2021-02-02)**, 2.3.1 · relator **Alexandre Porto** · 11ª revisão ordinária, 12ª revisão extraordinária e reajuste da tarifa básica de pedágio (BR-393/RJ); sustentação oral do advogado Robson Barreirinhas → aprovado (votos de acordo; a legenda não registra a proclamação do resultado)
   - votos: Alexandre: relator; Davi: acompanha; Weber: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=hOUJ7tu8IOM&t=760s)
 - **RD 889 (2021-02-23)**, 2.2.1 · relator **Davi Barreto** · 13º termo aditivo ao contrato: extensão do prazo por 12 meses (prorrogável por períodos de 6 meses, máximo 24) por não conclusão da licitação da nova  → aprovado por maioria (vencido Weber Ciloni)

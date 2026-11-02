@@ -1,7 +1,345 @@
 # Itens do tema «regulacao_normativa» (todos os diretores)
 
+- **RD 802 (2019-03-12)**, 2.3.4 · relator **Weber Ciloni** · Relatório da Audiência Pública nº 16/2017 (documento eletrônico de transporte, DT-e, no transporte rodoviário de cargas) — aprovação e arquivamento → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=5ae0Rbnbnl4&t=2504s)
+- **RD 803 (2019-03-19)**, 2.3.4 · relator **Weber Ciloni** · Agenda Regulatória 2019-2020 → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=YDG6ljyGESM&t=2046s)
+- **RD 804 (2019-03-26)**, 2.1.1 · relator **Marcelo Vinaud** · Relatório da Audiência Pública nº 008/2016 (fiscalização remota de excesso de peso) e ratificação da publicação da Resolução 5.339/2017 → aprovado por unanimidade
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=GHw9REZb1zA&t=115s)
+- **RD 805 (2019-04-02)**, extrapauta-1 · relator **Marcelo Vinaud** · Abertura de audiência pública sobre regras gerais, metodologia e indicadores dos pisos mínimos por quilômetro rodado (PNPM-TRC, Lei 13.703/2018) → aprovado por unanimidade
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=ss0AizFiKWA&t=3530s)
+- **RD 808 (2019-04-23)**, 2.1.1 · relator **Mário Rodrigues Junior** · Referendo da Deliberação 900/2018 e da Resolução 5833/2018 (ambas de 8/11/2018; piso mínimo do frete) - retirado de pauta pelo relator → retirado de pauta por unanimidade
+  - votos: Mário: acompanha; Elisabeth: acompanha; Weber: acompanha; Marcelo: outro · [vídeo](https://www.youtube.com/watch?v=hs8snDKlt_c&t=70s)
+- **RD 808 (2019-04-23)**, 2.3.2 · relator **Weber Ciloni** · Prorrogação das autorizações especiais do serviço semiurbano interestadual de passageiros e revogação das Resoluções 5836/2018 e 5837/2018 (legenda: 5 → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=hs8snDKlt_c&t=420s)
+- **RD 808 (2019-04-23)**, 3.2 · relator **Mário Rodrigues Junior** · Regulamentação do fluxo de caixa da Transnordestina (cópias entregues previamente aos diretores) → sem deliberação formal clara na legenda; diretores de acordo/cientes
+  - votos: Mário: outro; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=hs8snDKlt_c&t=660s)
+- **RD 808 (2019-04-23)**, extrapauta-1 · relator **Mário Rodrigues Junior** · Reajuste dos pisos mínimos do frete (Lei 13.703/2018, art. 5º, III) em razão de oscilação do diesel superior a 10% (legenda: 10 de junho - incerto) → aprovado por unanimidade
+  - votos: Mário: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=hs8snDKlt_c&t=800s)
+- **RD 61 (extraordinária) (2019-04-30)**, 1.1 · relator **Mário Rodrigues Junior** · Referendo da Deliberação 914/2018 (relatório da AP 12/2018) e da Resolução 5833/2018 (art. 3º-B da Res. 5820/2018: multas e responsabilidade de embarc → aprovado por unanimidade (voto-vista)
+  - votos: Marcelo: revisor_acompanha; Mário: revisor_acompanha; Elisabeth: revisor_acompanha; Weber: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=_fNM_kiMQlc&t=45s)
+- **RD 61 (extraordinária) (2019-04-30)**, 1.2.2 · relator **Elisabeth Braga** · Recadastramento: revogação da Deliberação 414/2019, que tratou por engano como autorização regular, e aprovação como fretamento → aprovado por unanimidade
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=_fNM_kiMQlc&t=750s)
+- **RD 61 (extraordinária) (2019-04-30)**, 1.2.3 · relator **Mário Rodrigues Junior** · Abertura de audiência pública (45 dias) sobre procedimentos e critérios de alteração contratual nas revisões quinquenais das concessões rodoviárias fe → vista concedida (pedido de vista por diretor da casa)
+  - votos: Weber: vista; Mário: relator · [vídeo](https://www.youtube.com/watch?v=_fNM_kiMQlc&t=887s)
+- **RD 809 (2019-05-07)**, 2.1.2 · relator **Elisabeth Braga** · Abertura de audiência pública sobre minuta de resolução com metodologia de cálculo de investimentos não amortizados em bens reversíveis na extinção an → aprovado por unanimidade
+  - votos: Elisabeth: relator; Mário: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=E3TPE9LTUFE&t=317s)
+- **RD 810 (2019-05-14)**, 2.1.1 · relator **Marcelo Vinaud** · Convalidação de deliberações de parcelamento e reparcelamento de débitos de multas (Res. 3.561/2010, após vigência da Res. 5.830/2018); revogação da D → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=aZwuAPZ66J0&t=84s)
+- **RD 810 (2019-05-14)**, 2.2.1 · relator **Elisabeth Braga** · Relatório final da AP 04/2018 e resolução sobre autocomposição e arbitragem na ANTT → aprovado; unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=aZwuAPZ66J0&t=1392s)
+- **RD 811 (2019-05-21)**, 2.1.4 · relator **Marcelo Vinaud** · Alteração da Resolução 4308/2014 (identificação de passageiros): menores de 16 anos em viagem fora da comarca, adequação ao art. 83 do ECA → aprovado por unanimidade
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=Epr61yDCvnY&t=345s)
+- **RD 811 (2019-05-21)**, 2.1.5 · relator **Marcelo Vinaud** · Abertura de audiência pública (30 dias) para revisar a regulação do pagamento eletrônico de frete (Res. 3658/2011), compatibilizando com a política de → aprovado por unanimidade
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=Epr61yDCvnY&t=608s)
+- **RD 811 (2019-05-21)**, 2.2.1 · relator **Elisabeth Braga** · Transferência de mercado Capim Grosso (BA)-Petrolina (PE) (Res. 4770/2015) → aprovado por unanimidade
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=Epr61yDCvnY&t=1030s)
+- **RD 811 (2019-05-21)**, 2.3.2 · relator **Weber Ciloni** · Audiência pública para normatizar alterações contratuais nas revisões quinquenais das concessões rodoviárias (inclusão, exclusão e reprogramação de ob → aprovado por unanimidade (voto-vista)
+  - votos: Weber: revisor_acompanha; Mário: acompanha; Marcelo: acompanha; Elisabeth: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=Epr61yDCvnY&t=1495s)
+- **RD 811 (2019-05-21)**, 2.3.4 · relator **Weber Ciloni** · Abertura de audiência pública para revisão da Resolução 1431/2006 (comunicação de acidentes ferroviários) → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=Epr61yDCvnY&t=1776s)
+- **RD 811 (2019-05-21)**, extrapauta-1 · relator **Marcelo Vinaud** · Alteração da Resolução 4799/2015 (RNTRC): nova penalidade (multa de R$ 550, base mínima legal, legenda) para obstrução da fiscalização no lugar da mul → aprovado por unanimidade
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=Epr61yDCvnY&t=2105s)
+- **RD 813 (2019-06-04)**, 2.4.3 · relator **Weber Ciloni** · Audiência Pública 16/2018: relatório final sobre nova metodologia tarifária para o semiurbano e revisão tarifária (Taguatur) → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=ydYYojzjVn4&t=2365s)
+- **RD 814 (2019-06-11)**, 2.2.6 · relator **Weber Ciloni** · Procedimentos para declarações técnicas do REIDI e de debêntures incentivadas, com delegação de competência → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=OiiVU2kqVK4&t=945s)
+- **RD 62 (extraordinária) (2019-06-13)**, 1.2.1 · relator **Weber Ciloni** · Abertura de audiência pública sobre minuta de resolução que regulamenta a inviabilidade operacional e altera a Res. 4.770/2015 (ônibus em regime de au → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ifXiMh49mdg&t=315s)
+- **RD 815 (2019-06-18)**, 2.1.10 · relator **Marcelo Vinaud** · Revogação de habilitação como instituição de pagamento eletrônico de frete (Res. 3.940/2012) → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=AhItQBZ9-D4&t=1626s)
+- **RD 816 (2019-06-25)**, EXTRA-1 · relator **Marcelo Vinaud** · Extrapauta: relatório final da Audiência Pública 15/2018 e minuta de resolução do regulamento do transporte rodoviário de produtos perigosos → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=F6Iun8IyLgw&t=2936s)
+- **RD 817 (2019-07-09)**, 2.1.1 · relator **Elisabeth Braga** · Primeira revisão extraordinária da Agenda Regulatória 2019-2020: troca do nome do projeto para «definição dos procedimentos de revisão tarifária» dos  → aprovado por unanimidade
+  - votos: Elisabeth: relator; Mário: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=S6thCF9q-3Q&t=111s)
+- **RD 817 (2019-07-09)**, 2.1.2 · relator **Elisabeth Braga** · Aprovação da 5ª edição do Manual de Procedimentos da Agenda Regulatória → aprovado por unanimidade
+  - votos: Elisabeth: relator; Mário: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=S6thCF9q-3Q&t=266s)
+- **RD 818 (2019-07-16)**, 2.1.6 · relator **Elisabeth Braga** · Abertura de audiência pública: minuta de resolução sobre esquema operacional e modificação do serviço regular interestadual semiurbano → aprovada abertura da AP; unanimidade
+  - votos: Elisabeth: relator; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=Ve-A2CB2qb4&t=539s)
+- **RD 63 (extraordinária) (2019-07-22)**, 2.1.1 · relator **Davi Barreto** · Suspensão cautelar da Resolução 5.849, de 16/07/2019 (metodologia e pisos mínimos do frete no transporte rodoviário de cargas), a pedido do Ministério → aprovado por unanimidade
+  - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=tVr3sqGXaIg&t=58s)
+- **RD 820 (2019-07-30)**, 2.3.5 · relator **Elisabeth Braga** · Anuência prévia para transferência de mercados (linhas) do Consórcio Guanabara para a Real Expresso, com sustentação oral do advogado do consórcio; di → pedido de vista; sem decisão na sessão
+  - votos: Elisabeth: relator; Davi: vista; Marcelo: outro; Mário: outro · [vídeo](https://www.youtube.com/watch?v=wTsJa3zoysI&t=415s)
+- **RD 820 (2019-07-30)**, 2.2.2 · relator **Marcelo Vinaud** · Abertura de audiência pública: resolução sobre transporte ferroviário de cargas por operador ferroviário independente (OFI), revogação da Res. 4.348/2 → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=wTsJa3zoysI&t=1836s)
+- **RD 820 (2019-07-30)**, 2.3.11 · relator **Elisabeth Braga** · Abertura de audiência pública: resolução com diretrizes para o procedimento preparatório e o processo sancionador de caducidade em contratos de conces → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: relator; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=wTsJa3zoysI&t=3526s)
+- **RD 821 (2019-08-06)**, 2.2.4 e 2.2.5 · relator **Davi Barreto** · Impugnações contra implantação de seções (modificação operacional) em linhas → conhecidas; improvidas; mantidas as Deliberações 334 e 335; unanimidade
+  - votos: Davi: relator; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=i8c3Cjiy9jI&t=793s)
+- **RD 822 (2019-08-13)**, 2.4.11 · relator **Davi Barreto** · Pedido de implantação de mercados no Sul (Chapecó/Xaxim/Xanxerê/Itajaí/Porto União/Mafra para Curitiba, como seções), retirado do bloco; três requerim → aprovado por unanimidade (voto do relator, divergindo da sugestão da área técnica)
+  - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kMGgTtubwtU&t=1523s)
+- **RD 823 (2019-08-20)**, 2.2.1 · relator **Marcelo Vinaud** · Alteração da Resolução 4.282/2014 (bilhete de passagem eletrônico e documento auxiliar — BP-e/DABPe): esclarecimentos sobre impressão → aprovado por unanimidade
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=6pNMwNpnAP8&t=528s)
+- **RD 824 (2019-08-27)**, 2.4.1 · relator **Davi Barreto** · Aprovação do manual de operação do sistema Participa ANTT (participação pública) → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Davi: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=_1ekxBesJpo&t=2120s)
+- **RD 826 (2019-09-10)**, 2.2.1 · relator **Weber Ciloni** · Pedido de reconsideração contra a Deliberação 98/2019 (metas de produção 2019) e pedido de revisão das metas anuais de produção por trecho 2019/2020 → não conhecido o pedido de reconsideração (intempestivo); revisão das metas julgada improce
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=sO5JXVa1a_4&t=250s)
+- **RD 826 (2019-09-10)**, 2.3.2 · relator **Davi Barreto** · Aprovação da Política de Segurança da Informação e Comunicações (POSIC), revogando a vigente → aprovado por unanimidade
+  - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=sO5JXVa1a_4&t=461s)
+- **RD 827 (2019-09-17)**, 2.3.2 · relator **Weber Ciloni** · Prorrogação do prazo (por 180 dias) de habilitação para apresentar contrato de transporte ferroviário de cargas (Deliberação 41/2019) → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kH8jsop2XDs&t=975s)
+- **RD 827 (2019-09-17)**, extrapauta · relator **Weber Ciloni** · Prorrogação por 45 dias da Audiência Pública 13/2019 (revisão das Resoluções 4.348/2014 e 3.695/2011); contribuições até 4/11/2019 às 18h → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kH8jsop2XDs&t=1433s)
+- **RD 829 (2019-10-01)**, 2.2.2 · relator **Elisabeth Braga** · Proposta de resolução sobre padronização, implementação e operação do sistema semiautomático de arrecadação de pedágio (cobrança eletrônica) nas rodov → retirado de pauta
+  - votos: Elisabeth: relator · [vídeo](https://www.youtube.com/watch?v=4qQrSJA_XaM&t=667s)
+- **RD 830 (2019-10-08)**, 2.1.1 · relator **Elisabeth Braga** · Revogação de resoluções do estoque regulatório da ANTT consideradas ineficazes do ponto de vista jurídico → aprovado por unanimidade
+  - votos: Elisabeth: relator; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=NBtijM4b-LE&t=131s)
+- **RD 830 (2019-10-08)**, 2.3.2 · relator **Davi Barreto** · Abertura de audiência pública sobre minuta de resolução que institui a Política de Redução do Fardo Regulatório (PRR) na ANTT → aprovado por unanimidade
+  - votos: Davi: relator; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=NBtijM4b-LE&t=503s)
+- **RD 832 (2019-10-22)**, 2.4.4 a 2.4.7 · relator **Davi Barreto** · Quatro pedidos de reconsideração de indeferimentos de transferência de mercado; voto-vista de Davi Barreto → provimento parcial: nova redação do art. 51 da Res. 4.770/2015 e revogação de normas restr
+  - votos: Davi: revisor_acompanha; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=tDrIVnhMZBo&t=1095s)
+- **RD 833 (2019-10-30)**, 2.1.7 · relator **Marcelo Vinaud** · Impugnação à autorização de terminal adicional em Tijucas (SC) para a Nossa Senhora da Penha (art. 17, §4º, da Res. 5.285/2017), com sustentação oral; → retirado de pauta pelo relator para refazer o voto
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=Ie5Fnfu5VQI&t=241s)
+- **RD 833 (2019-10-30)**, 2.2.2 · relator **Weber Ciloni** · Alteração da Resolução 1.692/2006 (Estatuto do Idoso no transporte interestadual) para cumprir sentença transitada em julgado em ação civil pública: i → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Weber: relator; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=Ie5Fnfu5VQI&t=2260s)
+- **RD 833 (2019-10-30)**, 2.2.3 · relator **Weber Ciloni** · Abertura de audiência pública: obrigatoriedade de inspeção técnica veicular para frota cadastrada no RNTRC → retirado de pauta pelo relator
+  - votos: Weber: relator; Marcelo: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=Ie5Fnfu5VQI&t=2431s)
+- **RD 834 (2019-11-05)**, 2.3.3 · relator **Weber Ciloni** · Homologação do Sistema de Custos Referenciais Ferroviários (SICFER), contratado com a Fundação Getulio Vargas, para subsidiar orçamentos de projetos e → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: acompanha; Weber: relator; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jtaSxDPBkcE&t=1250s)
+- **RD 835 (2019-11-12)**, 2.2.1 · relator **Elisabeth Braga** · Alteração da Res. 2.493/2007 (comprovação de regularidade fiscal de concessionárias rodoviárias e ferroviárias) → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=NM39E2nZvAs&t=1783s)
+- **RD 835 (2019-11-12)**, EXTRA-1 · relator **Elisabeth Braga** · Extrapauta: restabelecimento da Res. 5.849/2019 (pisos mínimos do frete), suspensa cautelarmente pela Res. 5.851/2019 a pedido do Ministério da Infrae → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=NM39E2nZvAs&t=2366s)
+- **RD 836 (2019-11-21)**, 2.3.1 · relator **Weber Ciloni** · Audiência Pública 004/2019: aprovação do relatório final e da minuta de resolução (transporte rodoviário de cargas) → retirado de pauta pelo relator
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=mCZnsrgrMFE&t=191s)
+- **RD 837 (2019-11-26)**, 2.2.1 · relator **Marcelo Vinaud** · Alteração da Res. 5.624/2017 (processo de participação e controle social), em particular o art. 25 sobre divulgação da identificação de quem faz pergu → retirado de pauta pelo relator; todos de acordo
+  - votos: Marcelo: outro; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=3O5viqLvwtg&t=445s)
+- **RD 837 (2019-11-26)**, 2.3.1 · relator **Elisabeth Braga** · Pedido de reconsideração da Deliberação 525/2019 (indeferiu implantação de mercados; empresa alega estar no nível 1 do UNITRIP) → provimento parcial: revogada a Del. 525; autos voltam à superintendência para análise sob 
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=3O5viqLvwtg&t=566s)
+- **RD 837 (2019-11-26)**, 2.4.2 · relator **Weber Ciloni** · Revogação da Deliberação 1.038/2018 (procedimentos de licença para capacitação), em razão de novo decreto → vista concedida a Davi Barreto
+  - votos: Weber: relator; Davi: vista · [vídeo](https://www.youtube.com/watch?v=3O5viqLvwtg&t=1229s)
+- **RD 838 (2019-12-03)**, 2.2.2 · relator **Elisabeth Braga** · Audiência Pública 05/2019: aprovação do relatório final e da minuta de resolução sobre critérios de inclusão, exclusão e reprogramação de obras/serviç → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uvRp5oExIss&t=767s)
+- **RD 838 (2019-12-03)**, 2.4.2 · relator **Davi Barreto** · Audiência Pública 03/2019: relatório final e resolução com a metodologia de cálculo de indenização por investimentos não amortizados em bens reversíve → aprovado por unanimidade
+  - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uvRp5oExIss&t=1742s)
+- **RD 838 (2019-12-03)**, extrapauta-2 · relator **Davi Barreto** · Voto-vista na RD 837 (de outro diretor; nome incerto) sobre proposta de revogação da Deliberação 1.038/2018 (capacitação/vagas, edital); urgência de p → aprovado por unanimidade
+  - votos: Davi: revisor_acompanha; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uvRp5oExIss&t=2623s)
+- **RD 839 (2019-12-11)**, 2.2.1 · relator **Marcelo Vinaud** · Audiência Pública 11/2019: aprovação do relatório e da resolução sobre esquema operacional e regras de modificação do serviço regular semiurbano inter → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=7gL6wMFBa0w&t=945s)
+- **RD 839 (2019-12-11)**, 2.2.2 · relator **Marcelo Vinaud** · Transferência de mercado e modificação das LOPs 54 e 52 → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=7gL6wMFBa0w&t=1040s)
+- **RD 839 (2019-12-11)**, 2.2.3 · relator **Marcelo Vinaud** · Plano de Gestão Anual (metas) para 2020 → vista concedida (pedido de Davi Barreto)
+  - votos: Davi: vista; Marcelo: relator · [vídeo](https://www.youtube.com/watch?v=7gL6wMFBa0w&t=1176s)
+- **RD 839 (2019-12-11)**, 2.5.3 · relator **Davi Barreto** · Plano Anual de Atividades de Auditoria Interna (PAINT) de 2020 → aprovado por unanimidade
+  - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=7gL6wMFBa0w&t=1879s)
+- **RD 840 (2019-12-17)**, 2.3.1 · relator **Weber Ciloni** · Audiência Pública 04/2019: relatório final e minuta de resolução do CIOT e meios de pagamento do frete (impugnações de IPEF, CNT, NTC rejeitadas confo → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=g9pWxYnVrPA&t=265s)
+- **RD 840 (2019-12-17)**, 2.2.3 · relator **Elisabeth Braga** · Alteração do art. 86 da Res. 5.083/2016 (desconto de 30% da multa por pagamento antecipado = renúncia tácita ao recurso) → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=g9pWxYnVrPA&t=2242s)
+- **RD 840 (2019-12-17)**, 2.4.2 · relator **Davi Barreto** · Revisão das taxas de depreciação de vagões e componentes (Res. 4.540/2004? alterada pela 5.9?/2016) → aprovado por unanimidade
+  - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=g9pWxYnVrPA&t=2656s)
+- **RD 64 (extraordinária) (2019-12-19)**, 1.1.1 · relator **Marcelo Vinaud** · Novas regras para acordos de cooperação técnica de inscrição e manutenção no RNTRC; revoga Deliberação 186/2016 → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5Pdwi_izh8Q&t=117s)
+- **RD 64 (extraordinária) (2019-12-19)**, 1.1.2 · relator **Marcelo Vinaud** · Relatório da AP 14/2019 e minuta de resolução → pedido de vista (Davi Barreto)
+  - votos: Marcelo: relator; Elisabeth: acompanha; Davi: vista · [vídeo](https://www.youtube.com/watch?v=5Pdwi_izh8Q&t=329s)
+- **RD 841 (2020-01-14)**, 2.1.1 · relator **Elisabeth Braga** · Transferência de mercados entre as empresas; voto-vista (DG e Weber Ciloni, voto-vista nº 003/2019) sobre a deliberação → aprovado por unanimidade (deferimento integral)
+  - votos: Marcelo: revisor_acompanha; Weber: revisor_acompanha; Elisabeth: revisor_acompanha; Davi: revisor_acompanha; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=bJMyPYl26qE&t=288s)
+- **RD 841 (2020-01-14)**, 2.2.1 · relator **None** · Alteração da Res. 5.624/2017 (processo de participação e controle social) para adequar à Lei Geral das Agências (Lei 13.848/2019), ao sistema eletrôni → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=bJMyPYl26qE&t=1015s)
+- **RD 841 (2020-01-14)**, 2.5.1 · relator **Davi Barreto** · Audiência Pública 17/2019: relatório final e minuta de resolução do piso mínimo do frete (quilômetro rodado; coeficientes; Política Nacional de Pisos  → aprovado por unanimidade
+  - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=bJMyPYl26qE&t=2992s)
+- **RD 842 (2020-01-21)**, 2.2.1 · relator **Marcelo Vinaud** · Habilitação como fornecedora do Vale-Pedágio obrigatório e aprovação de modelos e sistemas → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=AQtsEWWAzts&t=1375s)
+- **RD 844 (2020-02-04)**, 2.1.1 · relator **Marcelo Vinaud** · Anuência prévia para transferência do mercado Ouro Fino (MG) - Campinas (SP) no transporte rodoviário interestadual de passageiros em regime de autori → aprovado por unanimidade - indeferida a transferência
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5H2Ghxo8L9k&t=292s)
+- **RD 844 (2020-02-04)**, 2.2.3 · relator **Elisabeth Braga** · Consulta Pública 2/2018: relatório final e minuta de resolução que criaria conselhos da agência com comissões tripartites → retirado de pauta (devolvido à área técnica)
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5H2Ghxo8L9k&t=727s)
+- **RD 844 (2020-02-04)**, 2.4.1 · relator **Davi Barreto** · Embargos de declaração contra a Deliberação 955/2019 e pedido de anuência prévia à transferência de mercados (passageiros interestadual) entre Consórc → aprovado por unanimidade - embargos conhecidos e rejeitados; transferência anuída
+  - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5H2Ghxo8L9k&t=2644s)
+- **RD 845 (2020-02-11)**, 2.1.1 · relator **Mário Rodrigues Junior** · Referendo da Resolução 5.869/2020 (30/01/2020), que alterou a Res. 5.862/2019 (CIOT / pagamento eletrônico de frete): dispensa de pessoa física que co → aprovado por unanimidade — referendo
+  - votos: Mário: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=NJFwst6GRTI&t=277s)
+- **RD 845 (2020-02-11)**, 2.4.1 · relator **Weber Ciloni** · Abertura de audiência pública sobre minuta de resolução que atualiza e simplifica as Res. 2.309/2007 e 2.310/2007 (anuência prévia em transferência de → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=NJFwst6GRTI&t=629s)
+- **RD 845 (2020-02-11)**, 2.5.1 · relator **Weber Ciloni** · Abertura de audiência pública sobre alteração da Res. 4.936/2015 — procedimentos de cobrança da taxa de fiscalização do transporte rodoviário interest → aprovado por unanimidade
+  - votos: Davi: revisor_diverge; Marcelo: acompanha; Elisabeth: outro; Weber: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=NJFwst6GRTI&t=944s)
+- **RD 846 (2020-02-18)**, 2.1.2 · relator **Mário Rodrigues Junior** · Referendo da Resolução 5.870 (11/02/2020), que suspendeu por 240 dias a Res. 5.862/2019 (CIOT / cadastro de operação de transporte e meios de pagament → aprovado por unanimidade (com ressalva de Weber Ciloni)
+  - votos: Mário: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=U0XA7rHQ4tw&t=464s)
+- **RD 847 (2020-03-03)**, 2.2.1 · relator **Weber Ciloni** · Transferência de mercados (Jordânia/MG para Vitória da Conquista, Itapetinga, Itarantim etc./BA) entre empresas autorizatárias → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=YHufn0EJk5g&t=137s)
+- **RD 848 (2020-03-10)**, 2.1.4 · relator **Marcelo Vinaud** · Relatório final da AP 016/2019, resolução que institui a política de redução do fardo regulatório na ANTT e manual de cálculo do fardo regulatório → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: outro; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=h231NmlBFOE&t=1481s)
+- **RD 848 (2020-03-10)**, 2.2.1 · relator **Weber Ciloni** · Revogação das Deliberações 101/2012 (03/05/2012) e outra de 2016, sobre envio de informações de concessionárias ferroviárias, consideradas fardo regul → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=h231NmlBFOE&t=1834s)
+- **RD 848 (2020-03-10)**, 2.3.2 · relator **Davi Barreto** · Alteração da Res. 5.818/2018 (delegação de competências da Diretoria Colegiada às superintendências) — retirado de pauta → retirado de pauta (a pedido do relator)
+  - votos: Davi: relator; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=h231NmlBFOE&t=2799s)
+- **RD 848 (2020-03-10)**, EP-1 · relator **Menezes (nome incerto)** · Extra-pauta: nova alteração da Res. 5.862/2019 (CIOT) para estender o prazo de adequação dos sistemas das instituições de pagamento eletrônico de fret → aprovado por unanimidade
+  - votos: Menezes: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=h231NmlBFOE&t=3364s)
+- **RD 849 (2020-03-24)**, 2.3.1 · relator **Davi Barreto** · Alteração da Res. 5.818/2018 (delegação de competências às superintendências): delegar à SUPAS a aprovação de TAR e TAF e licenças operacionais; alter → vista coletiva (art. 109 RI); deliberação na reunião seguinte
+  - votos: Davi: relator · [vídeo](https://www.youtube.com/watch?v=0TNHuq9u9XE&t=1302s)
+- **RD 849 (2020-03-24)**, 2.3.2 · relator **Davi Barreto** · Alteração da Res. 5.857/2019 (regularidade fiscal das concessionárias de rodovias e ferrovias): prorrogação em 2020 do prazo de entrega das certidões → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=0TNHuq9u9XE&t=1631s)
+- **RD 849 (2020-03-24)**, 2.4.2 · relator **Alexandre Porto** · Alteração da data de entrega do relatório anual de acompanhamento do contrato de subconcessão da Ferrovia Norte-Sul (30 de março para 30 de outubro, a → pedido de vista (Weber Ciloni)
+  - votos: Alexandre: relator; Weber: vista · [vídeo](https://www.youtube.com/watch?v=0TNHuq9u9XE&t=2707s)
+- **RD 849 (2020-03-24)**, 2.5.1 · relator **Menezes (nome incerto)** · Abertura de audiência pública para revisão da metodologia e dos coeficientes dos pisos mínimos do frete (PNPM-TRC), alterando a Res. 5.867/2020; novos → aprovado por unanimidade
+  - votos: Menezes: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=0TNHuq9u9XE&t=2984s)
+- **RD 850 (2020-03-31)**, 2.3.1 · relator **Davi Barreto** · Alteração da Res. 5.818/2018 (delegação de competências às superintendências, ampliando o rol delegado à SUPAS) e edição de duas súmulas; processo ret → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=DqfYKnR7JBg&t=1233s)
+- **RD 851 (2020-04-07)**, 2.1.2 · relator **Marcelo Vinaud** · Referendo da Resolução 5.878, de 26/03/2020: suspensão por 90 dias corridos dos prazos processuais nos processos sancionadores (Res. 5.083/2016), ajus → referendado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=185j9FgJSfw&t=441s)
+- **RD 851 (2020-04-07)**, 2.1.3 · relator **Marcelo Vinaud** · Referendo da Resolução 5.879, de 26/03/2020 (flexibilização de prazos de obrigações contratuais e regulatórias por causa do coronavírus em ferrovias d → referendado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=185j9FgJSfw&t=651s)
+- **RD 851 (2020-04-07)**, 2.1.5 · relator **Marcelo Vinaud** · Proposta de norma e procedimento de ciência de particulares na ANTT → vista concedida (Alexandre Porto)
+  - votos: Marcelo: relator; Alexandre: vista · [vídeo](https://www.youtube.com/watch?v=185j9FgJSfw&t=1329s)
+- **RD 851 (2020-04-07)**, 2.2.1 · relator **Alexandre Porto** · Alteração da data de entrega do relatório anual de acompanhamento (contrato de subconcessão da Ferrovia Norte-Sul, Porto Nacional/TO a Estrela d'Oeste → aprovado por unanimidade
+  - votos: Weber: revisor_acompanha; Davi: revisor_acompanha; Alexandre: relator; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=185j9FgJSfw&t=2018s)
+- **RD 851 (2020-04-07)**, 2.3.1 · relator **Davi Barreto** · 2ª revisão extraordinária da Agenda Regulatória 2019/2020: incluir regulamentação da plataforma consumidor.gov.br (Decreto 10.197/2020) → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=185j9FgJSfw&t=2910s)
+- **RD 851 (2020-04-07)**, 2.3.2 · relator **Davi Barreto** · Rescisão de parcelamento de débitos e alteração da Resolução 5.830/2018: decisões de rescisão e indeferimento de parcelamento passam à superintendênci → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=185j9FgJSfw&t=3065s)
+- **RD 853 (2020-04-28)**, 2.1.2 a 2.1.4 · relator **Marcelo Vinaud** · Inclusão de mercados em licença operacional (transporte rodoviário interestadual de passageiros) - bloco de relatoria de Marcelo Vinaud → pedido de vista (Davi Barreto) - não deliberados
+  - votos: Weber: acompanha; Davi: vista; Alexandre: acompanha; Menezes: acompanha; Marcelo: relator · [vídeo](https://www.youtube.com/watch?v=sVbD7HT9Ms0&t=220s)
+- **RD 853 (2020-04-28)**, 2.3.1 · relator **Marcelo Vinaud** · Audiência Pública 14/2019: relatório e minuta de resolução sobre diretrizes e procedimento preparatório e sancionador de caducidade dos contratos de c → aprovado por unanimidade o voto-vista - retorno dos autos à área técnica
+  - votos: Davi: revisor_acompanha; Weber: revisor_acompanha; Alexandre: revisor_acompanha; Menezes: revisor_acompanha; Marcelo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=sVbD7HT9Ms0&t=859s)
+- **RD 853 (2020-04-28)**, 2.3.2 · relator **Marcelo Vinaud** · Aprovação da norma administrativa interna da Corregedoria sobre instalação, execução e julgamento de procedimentos correcionais (voto-vista) → aprovado por unanimidade - conteúdo aprovado, veiculado como resolução
+  - votos: Davi: revisor_acompanha; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: relator · [vídeo](https://www.youtube.com/watch?v=sVbD7HT9Ms0&t=1196s)
+- **RD 854 (2020-05-05)**, 2.1.2 · relator **Marcelo Vinaud** · Alteração da Res. 5.624/2017 (participação e controle social) para admitir processo de participação à distância e dispensa de consulta/audiência públi → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=5Wuych4chNY&t=313s)
+- **RD 854 (2020-05-05)**, 2.3.8 · relator **Davi Barreto** · Alteração de licença operacional: inclusão de novos mercados; impugnações de Auto Viação Catarinense, Viação Cometa, Expresso Guanabara, Expresso Bras → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=5Wuych4chNY&t=1360s)
+- **RD 855 (2020-05-12)**, 2.1.1 · relator **Marcelo Vinaud** · Recursos contra a implantação da linha Recife - São Paulo, resultante do seccionamento da linha Apodi (RN) - São Bernardo do Campo (SP), autorizada pe → aprovado por unanimidade - recursos conhecidos e desprovidos
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=QSiJxkgnNRE&t=174s)
+- **RD 855 (2020-05-12)**, 2.1.2 · relator **Marcelo Vinaud** · Convalidação das portarias 33/2019, 34/2019 e 115/2019 da superintendência (29/10/2019) que não conheceram e arquivaram pedidos de autorização para op → aprovado por unanimidade - portarias convalidadas
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=QSiJxkgnNRE&t=333s)
+- **RD 855 (2020-05-12)**, 2.1.3 · relator **Marcelo Vinaud** · Pedido de autorização para operar novos mercados (transporte rodoviário interestadual de passageiros) → aprovado por unanimidade - pedido indeferido; impugnação prejudicada
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=QSiJxkgnNRE&t=485s)
+- **RD 855 (2020-05-12)**, 2.4.1 · relator **Menezes (nome incerto)** · Alteração do anexo da Resolução 5.810/2018 (Regimento Interno da ANTT) - nova estrutura organizacional; apresentada na reunião 854 e votada agora com  → aprovado por unanimidade
+  - votos: Menezes: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=QSiJxkgnNRE&t=738s)
+- **RD 857 (2020-05-26)**, 2.2.2 · relator **Davi Barreto** · Alteração do Anexo 2 da Resolução 5.867/2020: atualização dos coeficientes dos pisos mínimos de frete por quilômetro rodado e eixo carregado, em razão → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=L75bt3Bz3xU&t=3154s)
+- **RD 857 (2020-05-26)**, 2.3.1 · relator **Menezes (nome incerto)** · Resolução que institui videoconferência e outros meios eletrônicos em substituição às sessões presenciais de audiências públicas e reuniões participat → aprovado por unanimidade
+  - votos: Menezes: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=L75bt3Bz3xU&t=3631s)
+- **RD 857 (2020-05-26)**, 2.3.2 · relator **Menezes (nome incerto)** · Resolução que posterga a cobrança da verba de fiscalização das concessionárias rodoviárias federais (competências de maio a julho de 2020) em razão da → aprovado por maioria (Weber Ciloni divergiu)
+  - votos: Menezes: relator; Weber: outro; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=L75bt3Bz3xU&t=3775s)
+- **RD 858 (2020-06-02)**, 2.1.1 · relator **Marcelo Vinaud** · Resolução com medidas para enfrentamento da emergência de saúde pública da covid-19 nos serviços de transporte rodoviário interestadual e internaciona → aprovado por unanimidade
+  - votos: Marcelo: relator; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=HdygP6lpAeU&t=87s)
+- **RD 858 (2020-06-02)**, 2.2.1 · relator **Menezes (nome incerto)** · Audiência Pública 6/2019: relatório final e minutas de deliberação e resolução sobre o procedimento de comunicação de acidentes e interrupções temporá → pedido de vista (Alexandre Porto)
+  - votos: Menezes: relator; Alexandre: vista · [vídeo](https://www.youtube.com/watch?v=HdygP6lpAeU&t=298s)
+- **RD 859 (2020-06-09)**, 2.3.1 · relator **Alexandre Porto** · Pedido de regularização administrativa das linhas judiciais Umuarama–Florianópolis e Cianorte–Florianópolis; propostas de duas súmulas sobre classific → vista coletiva; deliberação adiada para a próxima reunião
+  - votos: Alexandre: relator; Marcelo: outro; Davi: outro; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=05mc2Fg9l18&t=368s)
+- **RD 859 (2020-06-09)**, extrapauta-1 · relator **Marcelo Vinaud** · Extrapauta: alteração da Res. 5.893/2020 (medidas de enfrentamento da covid-19 no transporte rodoviário interestadual e ferroviário de passageiros): p → aprovado por unanimidade
+  - votos: Marcelo: relator; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=05mc2Fg9l18&t=867s)
+- **RD 860 (2020-06-16)**, 2.1.1 · relator **Weber Ciloni** · Retomada da Audiência Pública 02/2020: minuta que altera a Resolução 4.936/2015 (taxa de fiscalização do transporte rodoviário interestadual e interna → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=3V5151Nospo&t=91s)
+- **RD 860 (2020-06-16)**, 2.2.1 · relator **Alexandre Porto** · 3ª edição do Manual de AIR da ANTT, com AIR nível 2 e Avaliação de Resultado Regulatório (ARR) → vista concedida (Davi Barreto)
+  - votos: Alexandre: relator; Davi: vista · [vídeo](https://www.youtube.com/watch?v=3V5151Nospo&t=309s)
+- **RD 860 (2020-06-16)**, 2.3.1 · relator **Menezes (nome incerto)** · Pedidos de reconsideração/recursos contra a Deliberação 955/2019 (abertura de mercado no transporte rodoviário de passageiros) → recursos conhecidos como reconsideração e julgados improcedentes, por unanimidade
+  - votos: Menezes: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=3V5151Nospo&t=728s)
+- **RD 861 (2020-06-23)**, 2.3.1 · relator **Alexandre Porto** · Celebração de convênio de delegação ao GDF da regulação e fiscalização do transporte rodoviário interestadual semiurbano coletivo de passageiros na RI → aprovado por unanimidade
+  - votos: Alexandre: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=mBKYTdfpNH0&t=741s)
+- **RD 861 (2020-06-23)**, Extrapauta · relator **Alexandre Porto** · Alteração da Resolução 5.879/2020 (flexibilização de prazos por causa da covid-19), prorrogando até 31/07/2020 a extensão das obrigações da Res. 4.799 → aprovado por unanimidade
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=mBKYTdfpNH0&t=1194s)
+- **RD 864 (2020-07-14)**, 2.1.1 · relator **Marcelo Vinaud** · Alteração da Resolução ANTT 4.799/2015 (registro nacional de transportadores rodoviários de cargas, RNTRC) para adequar ao módulo de contrato de arren → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=_RSg6WUtZj0&t=220s)
+- **RD 864 (2020-07-14)**, 2.1.2 · relator **Marcelo Vinaud** · Aprovação do relatório da Consulta Pública 01/2020 e da minuta que altera o anexo 2 da Resolução 5.867/2020 (coeficientes do piso mínimo por quilômetr → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=_RSg6WUtZj0&t=454s)
+- **RD 864 (2020-07-14)**, 2.3.1 · relator **Weber Ciloni** · Norma administrativa do kit de fiscalização e procedimentos de solicitação, entrega, uso e guarda; voto-vista de Davi Barreto sobre a espécie normativ → retirado de pauta (aprovado por unanimidade)
+  - votos: Davi: revisor_acompanha; Weber: relator; Eduardo: acompanha; Marcelo: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=_RSg6WUtZj0&t=644s)
+- **RD 865 (2020-07-21)**, 2.2.1 · relator **Davi Barreto** · Alteração da Resolução 5.879/2020: prorrogação por 60 dias das medidas de flexibilização de prazos por causa da pandemia (ferrovias, cargas e passagei → aprovado por unanimidade
+  - votos: Davi: relator; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=EFqrNJhKrSo&t=538s)
+- **RD 865 (2020-07-21)**, 2.3.1 · relator **Alexandre Porto** · Audiência Pública 6/2019: relatório final e minuta de resolução sobre apuração e comunicação de acidentes ferroviários e interrupções temporárias de t → aprovado por unanimidade
+  - votos: Alexandre: revisor_acompanha; Davi: revisor_acompanha; Menezes: revisor_acompanha; Marcelo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=EFqrNJhKrSo&t=1581s)
+- **RD 865 (2020-07-21)**, 2.3.3 · relator **Alexandre Porto** · Súmula sobre interpretação do Decreto 99.704/1990 (transporte rodoviário internacional de cargas): possibilidade de o transportador internacional usar → vista coletiva concedida (art. 109 do RI)
+  - votos: Alexandre: vista; Marcelo: outro · [vídeo](https://www.youtube.com/watch?v=EFqrNJhKrSo&t=2115s)
+- **RD 865 (2020-07-21)**, 2.4.2 · relator **Menezes (nome incerto)** · Retomada da Audiência Pública 01/2020: atualização e simplificação das Resoluções 2.309 e 2.310/2007 (transferência de concessão e de controle em conc → aprovado por unanimidade
+  - votos: Menezes: relator; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=EFqrNJhKrSo&t=2499s)
+- **RD 866 (2020-07-28)**, 2.2.1 · relator **Alexandre Porto** · Interpretação do Decreto 99.704/1990 (transporte rodoviário internacional/multimodal de cargas) — retorno após vista coletiva concedida pelo DG na reu → aprovado por unanimidade
+  - votos: Alexandre: relator; Davi: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=p37M8AcTHkc&t=346s)
+- **RD 867 (2020-08-04)**, 2.2.2 · relator **None** · Norma administrativa que institui o kit de fiscalização e os procedimentos para solicitação, uso e guarda dos itens; já passou pela RD 863 (07/07/2020 → retirado de pauta (aprovado por unanimidade o pedido de retirada)
+  - votos: Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=Y2XuL68vXN4&t=1378s)
+- **RD 868 (2020-08-11)**, 2.2.1 · relator **Weber Ciloni** · Norma administrativa do kit de fiscalização: voto-vista de Davi Barreto (nº 14/2020), com revogação expressa da Res. 5.745/2018 → aprovado por unanimidade conforme o voto-vista
+  - votos: Davi: revisor_acompanha; Weber: revisor_acompanha; Alexandre: revisor_acompanha; Eduardo: revisor_acompanha; Marcelo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=OwXT6_HIJz0&t=502s)
+- **RD 868 (2020-08-11)**, 2.3.1 · relator **Marcelo Vinaud** · Pedido de inclusão de novos mercados (matéria delegada à SUPAS e avocada pela diretoria); voto-vista nº 003/2020 de Alexandre Porto propõe instrução n → aprovado — devolução à SUPAS e instrução normativa (a legenda não traz o placar completo)
+  - votos: Alexandre: revisor_acompanha; Weber: revisor_acompanha; Davi: revisor_acompanha; Marcelo: nao_captado; Eduardo: nao_captado · [vídeo](https://www.youtube.com/watch?v=OwXT6_HIJz0&t=1380s)
+- **RD 869 (2020-08-25)**, 2.1.2 · relator **None** · Resolução sobre atos públicos de liberação de atividades econômicas, sua classificação de risco e prazos máximos de análise, nos termos do Decreto 10. → pedido de vista (adiado); prazo do decreto vence no começo de setembro
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=exs-8j77hXY&t=327s)
+- **RD 869 (2020-08-25)**, 2.1.3 · relator **None** · Alteração da Res. 5.893/2020: prorroga por 90 dias, até 31/08/2020 (legenda), as medidas de enfrentamento da covid-19 nos serviços rodoviário interest → aprovado por unanimidade
+  - votos: Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=exs-8j77hXY&t=753s)
+- **RD 869 (2020-08-25)**, 2.2.1 · relator **Marcelo Vinaud** · Revogação das Resoluções 5.878/2020 e 5.882/2020 (suspensão de prazos processuais em processos administrativos sancionadores durante a covid-19, Res.  → aprovado por unanimidade
+  - votos: Marcelo: relator; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=exs-8j77hXY&t=1018s)
+- **RD 870 (2020-09-01)**, 2.1.1 · relator **Marcelo Vinaud** · Pedido de cancelamento da habilitação como instituição de pagamento eletrônico de frete (IPEF) e do respectivo meio de pagamento → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=FlDaU_ciwQM&t=169s)
+- **RD 871 (2020-09-08)**, 2.1.1 · relator **Marcelo Vinaud** · Alteração da Res. 5.624/2017 (processo de participação e controle social): manifestação da Procuradoria passa a ser obrigatória ao final do PPCS (ajus → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=zjfsRZ00kT4&t=194s)
+- **RD 871 (2020-09-08)**, 2.2.1 · relator **Weber Ciloni** · Regulamentação da cláusula terceira do contrato de concessão da TLSA (regime de apuração e controle do saldo de capital a retornar e da taxa de retorn → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=zjfsRZ00kT4&t=379s)
+- **RD 871 (2020-09-08)**, 2.3.1 · relator **Alexandre Porto** · Revogação da Deliberação 85/2016 e aprovação da 3ª edição do Manual de AIR e de Avaliação de Resultado Regulatório; voto-vista nº 17/2020 → aprovado por unanimidade (conforme o voto-vista)
+  - votos: Alexandre: revisor_acompanha; Weber: acompanha; Eduardo: revisor_acompanha; Marcelo: revisor_acompanha; Davi: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=zjfsRZ00kT4&t=880s)
+- **RD 872 (2020-09-15)**, 2.2.2 · relator **Weber Ciloni** · Matéria regulatória (instrução normativa) retirada de pauta junto com o 2.2.1 → retirado de pauta (aprovado por unanimidade)
+  - votos: Weber: outro; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=zuksv7XVCg8&t=690s)
+- **RD 872 (2020-09-15)**, 2.2.3 · relator **Weber Ciloni** · Recurso: transferência de mercados da Salutaris para a Águia Branca (protocolo de 24/04/2018; Deliberação 955 e Res. 4.770; mercados incluem Salvador– → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=zuksv7XVCg8&t=744s)
+- **RD 872 (2020-09-15)**, 2.2.4 · relator **Weber Ciloni** · Anuência prévia para transferência de controle societário para Francisco Luiz Dantas da Silva (Res. 4.700; análise por analogia à Res. 3.076, pois a A → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=zuksv7XVCg8&t=933s)
+- **RD 872 (2020-09-15)**, 2.3.1 · relator **Weber Ciloni** · Resolução sobre atos públicos de liberação de atividades econômicas, classificação de risco e prazos máximos de análise (Lei 13.874/2019 e Decreto 10. → aprovado por unanimidade (acompanharam o voto-vista)
+  - votos: Davi: revisor_acompanha; Weber: revisor_acompanha; Alexandre: revisor_acompanha; Eduardo: revisor_acompanha; Marcelo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=zuksv7XVCg8&t=1237s)
+- **RD 872 (2020-09-15)**, 2.3.3 · relator **Weber Ciloni** · Pedido de inclusão de novos mercados (sete novas linhas, como Brasília–Ponta Porã via Rio Verde e Brasília–Rio Quente via Caldas Novas); voto-vista de → aprovado (DG hesita entre «maioria» e «unanimidade»)
+  - votos: Davi: revisor_acompanha; Weber: revisor_acompanha; Eduardo: revisor_acompanha; Marcelo: revisor_acompanha; Alexandre: outro · [vídeo](https://www.youtube.com/watch?v=zuksv7XVCg8&t=1718s)
+- **RD 872 (2020-09-15)**, 2.3.4 · relator **Weber Ciloni** · Pedido de inclusão de novos mercados (linha Ijuí/RS – Canarana/MT, licença operacional 98); voto-vista de Davi Barreto (VOTO-VISTA DB 016/2020) → aprovado por unanimidade
+  - votos: Davi: revisor_acompanha; Weber: revisor_acompanha; Eduardo: revisor_acompanha; Marcelo: revisor_acompanha; Alexandre: outro · [vídeo](https://www.youtube.com/watch?v=zuksv7XVCg8&t=1991s)
+- **RD 873 (2020-09-22)**, 2.4.1 · relator **Eduardo Marra** · Alteração da Resolução 5.869/2020 (flexibilização de prazos para cumprimento de obrigações contratuais e regulatórias durante a emergência da covid-19 → aprovado (a legenda diz «por maioria»; votos audíveis todos de acordo)
+  - votos: Eduardo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=P0ETqLY7UsE&t=201s)
+- **RD 875 (2020-10-06)**, 2.1.2 · relator **Weber Ciloni** · 4ª revisão extraordinária da Agenda Regulatória 2019/2020 (eixos temáticos 2 e 4: regulamento geral das concessões rodoviárias; RDT e RPMF ferroviário → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=yeArWUIUNCw&t=1872s)
+- **RD 875 (2020-10-06)**, 2.3.1 · relator **Eduardo Marra** · Audiência Pública 02/2020: relatório final e minuta de resolução alterando a Res. 4.936/2015 (procedimento de cobrança da taxa de fiscalização do tran → aprovado por unanimidade
+  - votos: Eduardo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=yeArWUIUNCw&t=2164s)
+- **RD 878 (2020-11-03)**, 2.1.2 · relator **Weber Ciloni** · Comunicação de ajustes na estrutura societária do grupo Ecorodovias, apresentada para aprovação prévia da agência; proposta de súmula sobre o tema → vista coletiva concedida; deliberação em reunião seguinte
+  - votos: Weber: relator · [vídeo](https://www.youtube.com/watch?v=4WJEBJKglvA&t=893s)
+- **RD 878 (2020-11-03)**, 2.2.1 · relator **Eduardo Marra** · Proposta de súmula sobre requisitos de admissibilidade nos processos de revisão ordinária e extraordinária das concessões rodoviárias federais e sobre → retirado de pauta (unanimidade)
+  - votos: Eduardo: relator; Weber: acompanha; Alexandre: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=4WJEBJKglvA&t=1074s)
+- **RD 879 (2020-11-10)**, 2.1.1 · relator **Weber Ciloni** · Comunicação de ajustes na estrutura societária do grupo de controle das concessionárias da Ecorodovias e proposta de súmula sobre anuência prévia em o → aprovado conforme voto do relator no caso concreto; proposta de súmula não apreciada (indi
+  - votos: Weber: relator; Davi: revisor_acompanha; Alexandre: revisor_acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=B-NPl1jUYE0&t=290s)
+- **RD 879 (2020-11-10)**, 2.1.2 · relator **Weber Ciloni** · Abertura de audiência pública sobre minuta de resolução com diretrizes para encerramento e relicitação de contratos de concessão rodoviária (transição → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=B-NPl1jUYE0&t=585s)
+- **RD 879 (2020-11-10)**, 2.2.2 · relator **Alexandre Porto** · Abertura de audiência pública sobre propostas de regulamentação do serviço regular de transporte rodoviário interestadual de passageiros sob regime de → aprovado por unanimidade
+  - votos: Alexandre: relator; Weber: acompanha; Eduardo: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=B-NPl1jUYE0&t=1010s)
+- **RD 880 (2020-11-18)**, 2.1.1 · relator **Marcelo Vinaud** · Reabertura da Audiência Pública 14/2019: proposta de resolução sobre o processo administrativo de extinção de contratos de concessão rodoviária por in → retirado de pauta
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=t5HV1ZgSFw4&t=95s)
+- **RD 880 (2020-11-18)**, 2.2.2 · relator **Davi Barreto** · Alteração da Resolução 5.583/2017 (cadastro de veículos de frota para transporte rodoviário internacional de cargas Brasil-Peru): substituir o Manifes → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=t5HV1ZgSFw4&t=655s)
+- **RD 880 (2020-11-18)**, 2.3.1 · relator **Alexandre Porto** · Abertura de audiência pública sobre a resolução de reversibilidade de bens em concessões e subconcessões ferroviárias → retirado de pauta
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=t5HV1ZgSFw4&t=947s)
+- **RD 880 (2020-11-18)**, 2.3.2 · relator **Alexandre Porto** · Alteração da restrição de tráfego de veículos de carga na Ponte Presidente Costa e Silva e acessos (Resolução 2.294/2007), em caráter temporário e exp → aprovado por unanimidade
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=t5HV1ZgSFw4&t=1020s)
+- **RD 880 (2020-11-18)**, 2.4.1 · relator **Eduardo Marra** · Abertura de audiência pública sobre regulamentação das comissões tripartites na ANTT; encerramento da Consulta Pública 2/2018 (conselhos de usuários) → aprovado por unanimidade
+  - votos: Eduardo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=t5HV1ZgSFw4&t=1257s)
+- **RD 881 (2020-11-24)**, 2.1.1 · relator **Marcelo Vinaud** · Aprovação da revisão nº 2 da 3ª edição do Manual de Contabilidade do serviço público de transporte ferroviário de cargas e passageiros: novas contas p → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=b5hpEOiXfbs&t=251s)
+- **RD 881 (2020-11-24)**, 2.4.1 · relator **Eduardo Marra** · Proposta de alteração do anexo da Resolução 5.888/2020 (Regimento Interno da ANTT) → retirado de pauta (aprovado por unanimidade)
+  - votos: Eduardo: outro; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=b5hpEOiXfbs&t=1169s)
+- **RD 881 (2020-11-24)**, 2.4.2 · relator **Eduardo Marra** · Primeira etapa do projeto de revisão e consolidação dos atos normativos da ANTT: revogação integral de 9 resoluções e parcial de uma (Decreto 10.139/2 → aprovado por unanimidade
+  - votos: Eduardo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=b5hpEOiXfbs&t=1233s)
+- **RD 881 (2020-11-24)**, 2.4.3 · relator **Eduardo Marra** · Abertura de audiência pública sobre minuta de resolução que altera regras de reequilíbrio contratual (Res. 3.651/2011 e Res. 5.859/2019) e aperfeiçoa  → aprovado por unanimidade
+  - votos: Eduardo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=b5hpEOiXfbs&t=1385s)
+- **RD 881 (2020-11-24)**, Extrapauta · relator **Alexandre Porto** · Prorrogação das medidas de enfrentamento da covid-19 no transporte rodoviário interestadual, internacional e semiurbano de passageiros (flexibilização → aprovado por unanimidade
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=b5hpEOiXfbs&t=1645s)
+- **RD 882 (2020-12-02)**, 2.1.1 · relator **Marcelo Vinaud** · Abertura de audiência pública sobre minuta de resolução que regulamenta inscrição e manutenção no RNTRC (Registro Nacional de Transportadores Rodoviár → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=sDWtLtsoPCU&t=264s)
+- **RD 882 (2020-12-02)**, 2.2.1 · relator **Weber Ciloni** · Proposta de edição de súmula para orientar a interpretação de cláusula dos contratos de concessão ferroviária que condiciona a apresentação de pleitos → vista coletiva concedida; deliberação em 08/12/2020 (RD 883)
+  - votos: Weber: relator; Marcelo: outro · [vídeo](https://www.youtube.com/watch?v=sDWtLtsoPCU&t=444s)
+- **RD 882 (2020-12-02)**, 2.3.1 · relator **Davi Barreto** · Proposta de edição de súmula sobre o poder fiscalizatório da ANTT e o dever das concessionárias de rodovias de dar acesso a informações, sistemas e da → vista coletiva concedida; deliberação em 08/12/2020 (RD 883)
+  - votos: Davi: relator; Marcelo: outro · [vídeo](https://www.youtube.com/watch?v=sDWtLtsoPCU&t=687s)
+- **RD 882 (2020-12-02)**, 2.4.1 · relator **Alexandre Porto** · Abertura de audiência pública sobre minuta de resolução que regulamenta a reversibilidade de bens nas concessões e subconcessões ferroviárias (contrib → aprovado por unanimidade
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=sDWtLtsoPCU&t=1130s)
+- **RD 882 (2020-12-02)**, EP-1 · relator **Marcelo Vinaud** · Extra-pauta: abertura de audiência pública sobre minuta de resolução que regulamenta a destinação dos recursos para desenvolvimento tecnológico e para → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=sDWtLtsoPCU&t=1315s)
+- **RD 883 (2020-12-08)**, 2.1.1 · relator **Weber Ciloni** · Súmula sobre interpretação da cláusula que condiciona pleitos das concessionárias ferroviárias ao cumprimento das obrigações contratuais (retorno após → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=ZulDOW-0648&t=144s)
+- **RD 883 (2020-12-08)**, 2.2.1 · relator **Davi Barreto** · Súmula sobre acesso às informações das concessões rodoviárias pela ANTT (retorno após vista coletiva) → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=ZulDOW-0648&t=256s)
+- **RD 883 (2020-12-08)**, 2.4.1 · relator **Eduardo Marra** · Súmula sobre requisito de pré-admissibilidade em revisões ordinárias e extraordinárias de concessões rodoviárias: pleitos de equilíbrio já analisados  → vista coletiva (art. 121 RI); deliberação na reunião seguinte
+  - votos: Eduardo: relator; Marcelo: outro · [vídeo](https://www.youtube.com/watch?v=ZulDOW-0648&t=1947s)
+- **RD 884 (2020-12-15)**, 2.1.1 · relator **Marcelo Vinaud** · Reabertura da Audiência Pública nº 14/2019 sobre a proposta de resolução que regulamenta o processo administrativo de extinção de contratos de concess → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=SIaolRUffls&t=442s)
+- **RD 884 (2020-12-15)**, 2.3.3 · relator **Davi Barreto** · Audiência Pública nº 13/2019 (legenda diz 03/2019): relatório final e resolução que regulamenta o serviço de transporte ferroviário de cargas não asso → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=SIaolRUffls&t=3131s)
+- **RD 884 (2020-12-15)**, 2.5.1 · relator **Eduardo Marra** · Proposta de edição de súmula sobre requisitos de admissibilidade nas revisões ordinárias e extraordinárias de concessões rodoviárias, a respeito de re → vista coletiva prorrogada até a primeira reunião de 2021
+  - votos: Eduardo: relator; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=SIaolRUffls&t=4775s)
 - **RD 885 (2021-01-18)**, 2.2.2 · relator **Eduardo Marra** · Atualização do anexo 2 da Resolução 5.867/2020 (coeficientes do piso mínimo do frete por quilômetro rodado/eixo carregado, PNPM-TRC): reajuste pelo IP → aprovado por unanimidade
   - votos: Eduardo: relator; Weber: acompanha; Davi: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=KFIPj15oozg&t=503s)
+- **RD 886 (2021-01-28)**, 2.1.1 · relator **Marcelo Vinaud** · Referendo da Resolução 5.922, de 16/01/2021, que flexibiliza por 90 dias obrigações regulatórias do transporte doméstico e internacional de oxigênio h → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=3LVmgqbrUNY&t=917s)
+- **RD 886 (2021-01-28)**, 2.4.1 · relator **Eduardo Marra** · Edição de súmula sobre requisito de pré-admissibilidade em processos de revisão ordinária e extraordinária de concessões rodoviárias federais (evitar  → aprovado por unanimidade
+  - votos: Eduardo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=3LVmgqbrUNY&t=1847s)
 - **RD 887 (2021-02-02)**, 2.2.1 · relator **Davi Barreto** · Audiência Pública 5/2020: aprovação do relatório final e da minuta de resolução sobre encerramento, relicitação e extensão dos contratos de concessão  → aprovado por unanimidade
   - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=hOUJ7tu8IOM&t=323s)
 - **RD 889 (2021-02-23)**, 2.1.1 · relator **Weber Ciloni** · Proposta de alteração do Regimento Interno (Res. 5.888/2020) → retirado de pauta pelo relator

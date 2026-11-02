@@ -1,0 +1,787 @@
+{
+ "meta": {
+  "video_id": "DqfYKnR7JBg",
+  "fonte": "legenda automática do YouTube; falantes inferidos pelas saudações; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "850",
+  "data": "2020-03-31",
+  "formato": "videoconferência (gravada, sem transmissão ao vivo)",
+  "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral em exercício)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Weber Ciloni",
+   "Davi Barreto",
+   "Alexandre Porto",
+   "Menezes"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Reunião virtual durante a pandemia (primeiras semanas).",
+   "Dois pedidos de sustentação oral em processos sancionadores reservados.",
+   "Extrapauta urgente: suspensão da proibição de tráfego de cargas na ponte Rio-Niterói por causa da COVID-19.",
+   "Weber Ciloni registrou ressalva (disse ser a sexta suspensão referendada) às suspensões judiciais da Res. 5.862/2019 (CIOT)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:03:40",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Aprovação da ata da RD 849",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Marcelo Vinaud (DG em exercício)",
+   "resultado": "aprovada por unanimidade",
+   "resumo_voto": "Antes da pauta, o DG agradeceu em nome da diretoria o esforço dos servidores na crise da COVID-19.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:04:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:04:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:04:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:04:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:04:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "reservados",
+   "ts": "0:03:00",
+   "processo": "50500.465/2019-08 e 50525.400/2020-17 (legenda, muito incertos)",
+   "interessado": "Partes não identificadas",
+   "assunto": "Processos administrativos sancionadores reservados com dois pedidos de sustentação oral por advogados (julgamento ao final da transmissão)",
+   "tema": [
+    "fiscalização e sanções",
+    "sigilo"
+   ],
+   "relator": "Marcelo Vinaud (indicado como relator de um deles; não confirmado)",
+   "resultado": "sigiloso — sem resultado público",
+   "resumo_voto": "Somente anunciado: sustentação oral em processo reservado.",
+   "votos": []
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:06:15",
+   "processo": "50473.008932/2054 (legenda, incerto)",
+   "interessado": "SUROC / Sindicato das empresas de transporte de cargas do Estado de Mato Grosso",
+   "assunto": "Referendo da Deliberação nº 135/2020 (18-19/03/2020) que suspendeu por 240 dias, só para filiados do sindicato do MT, a vigência da Res. 5.862/2019 (cadastro da operação de transporte, CIOT e meios de pagamento do frete), em cumprimento a liminar da 3ª Vara Federal de MT",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "judicialização",
+    "pandemia"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Liminar de 10/03/2020 com prazo de 15 dias para cumprimento; a norma regulamentava o CIOT e prazo de 15 dias para adaptação das IPEFs, ampliado para 60 e 90 dias pela Res. 5.873/2020.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, referenda",
+     "ts": "0:07:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o referendo, com ressalva",
+     "ts": "0:08:08",
+     "justificativa": "é a sexta suspensão que a diretoria referenda; pede apresentação do panorama de ações judiciais e das defesas da ANTT, pois o CIOT/pagamento eletrônico é ferramenta importante de fiscalização do piso mínimo; defende derrubar as suspensões com presteza",
+     "tom": "alta",
+     "confianca": "crítico das liminares, pede acompanhamento jurídico"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:10:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:10:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:10:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:10:34",
+   "processo": "50062.002517/2020-78 (legenda)",
+   "interessado": "SUROC / Sindicato das empresas de transporte de cargas e logística de Santa Rosa (RS)",
+   "assunto": "Referendo da Deliberação nº 136/2020 que suspende a vigência da Res. 5.862/2019 para filiados do sindicato de Santa Rosa/RS (liminar da 1ª Vara Federal de Santa Rosa de 04/03/2020, até que seja possível optar pelas IPEFs ou pelo sistema integrado)",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "judicialização",
+    "pandemia"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Mesma lógica do 2.1.1.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, referenda",
+     "ts": "0:11:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo, com a mesma observação do item anterior",
+     "ts": "0:12:05",
+     "justificativa": "reitera a ressalva sobre as suspensões judiciais",
+     "tom": "alta",
+     "confianca": "crítico das liminares"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:12:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:12:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:12:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.3",
+   "ts": "0:13:01",
+   "processo": "50500.338183/2019-99",
+   "interessado": "Empresas Reunidas Paulista de Transportes Ltda. e Expresso Adamantina Ltda.",
+   "assunto": "Transferência do mercado Três Lagoas/MS–Ilha Solteira/SP e modificação das licenças operacionais",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "transferência de mercados"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Pedido de 13/06/2019 analisado pela regra anterior (Del. 905/2019); requisitos documentais e operacionais atendidos e empresas confirmaram o interesse.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, defere",
+     "ts": "0:13:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:14:55",
+     "justificativa": "as empresas se manifestaram oportunamente pela continuidade da transferência",
+     "tom": "alta",
+     "confianca": "técnico"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:15:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "acompanha o relator",
+     "ts": "0:15:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "acompanha o relator",
+     "ts": "0:15:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.4",
+   "ts": "0:15:33",
+   "processo": "50500.332885/2019-69",
+   "interessado": "Corregedoria",
+   "assunto": "Norma administrativa interna da Corregedoria sobre instrumentos de atuação na instauração, execução e julgamento de procedimentos correcionais (IN CGU nº 14/2018)",
+   "tema": [
+    "institucional",
+    "corregedoria"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "sem resultado claro na legenda (voto de Weber: acompanha)",
+   "resumo_voto": "Procuradoria atestou a proposta; relator vota por aprovar a norma e a resolução. Weber acompanha o relator; trecho seguinte da legenda aparenta registro de um pedido de vista de outro diretor, mas está truncado.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova a norma",
+     "ts": "0:16:42",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:17:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.5",
+   "ts": "0:17:27",
+   "processo": "50500.026262/2020-93 (legenda)",
+   "interessado": "AGC Fretamento e Turismo Ltda. e outras",
+   "assunto": "Cadastramento de termo de autorização para fretamento (bloco)",
+   "tema": [
+    "ônibus (fretamento)",
+    "autorização"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade (em bloco)",
+   "resumo_voto": "",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova em bloco",
+     "ts": "0:17:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo (em bloco)",
+     "ts": "0:18:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo (em bloco)",
+     "ts": "0:18:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo (em bloco)",
+     "ts": "0:18:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo (em bloco)",
+     "ts": "0:18:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1 e 2.2.2",
+   "ts": "0:18:56",
+   "processo": "50500.026202/2020-71 (legenda); 50501.014976/2005-59 (legenda)",
+   "interessado": "Parceria Serviços de Transportes Ltda. e outras; Autopista Fluminense (BR-101/RJ)",
+   "assunto": "Termo de autorização de fretamento (TAF) e declaração de utilidade pública para melhorias de interseções no km 293+300 da BR-101/RJ (bloco)",
+   "tema": [
+    "ônibus (fretamento)",
+    "concessões rodoviárias",
+    "desapropriação / DUP"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovados por unanimidade (em bloco)",
+   "resumo_voto": "Weber levantou questão de ordem sobre dispensa de leitura de voto que já passou por vista coletiva.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova em bloco",
+     "ts": "0:19:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo (em bloco)",
+     "ts": "0:20:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo (em bloco)",
+     "ts": "0:20:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo (em bloco)",
+     "ts": "0:20:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo (em bloco)",
+     "ts": "0:20:08",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:20:33",
+   "processo": "50500.372261/2019-10",
+   "interessado": "SUPAS",
+   "assunto": "Alteração da Res. 5.818/2018 (delegação de competências às superintendências, ampliando o rol delegado à SUPAS) e edição de duas súmulas; processo retornou de vista coletiva (RD 849)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "regulação normativa",
+    "delegação de competências"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Mantém o voto pela ampliação do rol de competências delegadas à SUPAS e aprovação de duas súmulas; nenhum diretor apresentou alteração na vista coletiva.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova ampliação da delegação e duas súmulas",
+     "ts": "0:21:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:22:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:22:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:22:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:22:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:22:51",
+   "processo": "1982... (legenda ilegível)",
+   "interessado": "Subconcessionária da Ferrovia Norte-Sul (FNS)",
+   "assunto": "Reajuste das tarifas de referência do transporte ferroviário de cargas da FNS (índice de preços de 2019, legenda ilegível), com reajuste de 7,68%",
+   "tema": [
+    "ferrovias",
+    "reajuste tarifário",
+    "processo administrativo de adimplência"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova o reajuste e determina abertura de processo administrativo para avaliar se a subconcessionária está em dia com as obrigações contratuais, pré-condição contratual para pleitos de retorno financeiro e reajuste.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova reajuste e instaura processo administrativo",
+     "ts": "0:23:30",
+     "justificativa": "cláusula que condiciona pleitos à adimplência contratual",
+     "tom": "alta",
+     "confianca": "técnico"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o reajuste e a instauração do processo",
+     "ts": "0:24:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:24:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:24:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:24:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.1",
+   "ts": "0:25:24",
+   "processo": "50500.1521694/2015-16 (legenda)",
+   "interessado": "Rumo Certo Locadora de Veículos Ltda. (fretamento)",
+   "assunto": "Renúncia do termo de autorização de fretamento (TAF nº 35/2142) por extinção de atividade",
+   "tema": [
+    "ônibus (fretamento)",
+    "autorização"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Pedido de renúncia por extinção das atividades.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, aprova",
+     "ts": "0:25:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:26:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:26:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "acompanha o relator",
+     "ts": "0:26:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:26:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.2",
+   "ts": "0:26:41",
+   "processo": "50500.025003/2001 (legenda)",
+   "interessado": "Company Tur Transportes Ltda.",
+   "assunto": "Renúncia do TAF nº 00224 por extinção da atividade",
+   "tema": [
+    "ônibus (fretamento)",
+    "autorização"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "aprovado (voto dos diretores)",
+   "resumo_voto": "",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, aprova",
+     "ts": "0:27:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:28:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:28:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "acompanha o relator",
+     "ts": "0:28:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:28:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.3",
+   "ts": "0:28:22",
+   "processo": "50500.101513/2019-65",
+   "interessado": "Brasil Sul Linhas Rodoviárias Ltda.",
+   "assunto": "Organização administrativa / processo administrativo (cadastro) com voto-vista; Alexandre pede retirada para consultar a Procuradoria sobre postura de atualização administrativa",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "retirado de pauta (aprovado por unanimidade)",
+   "resumo_voto": "Retirada para consulta à Procuradoria sobre o tema, tendo em vista o voto-vista.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, pede retirada",
+     "ts": "0:28:45",
+     "justificativa": "necessidade de consultar a Procuradoria",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com a retirada",
+     "ts": "0:29:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo com a retirada",
+     "ts": "0:29:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo com a retirada",
+     "ts": "0:29:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com a retirada",
+     "ts": "0:29:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.4 e 2.4.5",
+   "ts": "0:29:50",
+   "processo": "50500.066047/2020-92; 50501.2003/2020-94 (legenda)",
+   "interessado": "SUPAS (serviço regular); CCR ViaSul (BR-290/RS)",
+   "assunto": "Bloco: pedido de autorização para serviço regular de passageiros; DUP para interconexão na BR-290 (Gravataí/RS)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "concessões rodoviárias",
+    "desapropriação / DUP"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "aprovados por unanimidade (em bloco)",
+   "resumo_voto": "",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, aprova em bloco",
+     "ts": "0:30:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:30:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:30:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "acompanha o relator",
+     "ts": "0:30:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:30:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.5.x",
+   "ts": "0:30:50",
+   "processo": "50500.0496/2019; 50500.026117/2020-11; 50500.0242229/2001-29; 50500.431192/2019-58 (legenda)",
+   "interessado": "Auto Viação Progresso S.A.; Salone Transporte e Turismo Eireli; CCR ViaSul (BR-290/RS); Valec (FICO)",
+   "assunto": "Bloco: paralisação de linha, TAR, DUP casa de pedágio B2 na BR-290 (Santo Antônio da Patrulha/RS) e DUP Ferrovia de Integração Centro-Oeste (GO/MT)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "concessões rodoviárias",
+    "ferrovias",
+    "desapropriação / DUP"
+   ],
+   "relator": "Menezes",
+   "resultado": "aprovados por unanimidade (em bloco)",
+   "resumo_voto": "",
+   "votos": [
+    {
+     "diretor": "Menezes",
+     "voto": "relator, aprova em bloco",
+     "ts": "0:31:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:32:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:32:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "acompanha o relator",
+     "ts": "0:32:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:32:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "EP-1",
+   "ts": "0:33:39",
+   "processo": "50500.029896/2017-06",
+   "interessado": "SUINFRA / Ecoponte (Ponte Rio–Niterói)",
+   "assunto": "Extrapauta: suspensão, até 30/04/2020, da proibição de tráfego de veículos de carga na Ponte Presidente Costa e Silva e acessos à BR-101 (Res. 2.294/2007), a pedido da PRF",
+   "tema": [
+    "concessões rodoviárias",
+    "transporte rodoviário de cargas",
+    "pandemia",
+    "extrapauta"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Medida urgente de natureza cautelar (art. 76 do RI); PRF alegou necessidade de circulação rápida de insumos em tempo de COVID-19 e segurança dos motoristas que esperam pelo horário de passagem; Ecoponte concordou desde que respeitados limites de peso e dimensões e mantida a restrição a cargas perigosas. Sorteio extraordinário às 17h de 30/03.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova suspensão até 30/04",
+     "ts": "0:34:40",
+     "justificativa": "urgência sanitária, circulação de insumos e segurança dos caminhoneiros; concordância da concessionária",
+     "tom": "alta",
+     "confianca": "técnico-urgente"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com a suspensão",
+     "ts": "0:36:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:36:35",
+     "justificativa": "parabeniza Davi Barreto pela agilidade",
+     "tom": "alta",
+     "confianca": "elogio"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:36:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:36:55",
+     "justificativa": "pede publicação no DOU de amanhã para efeito imediato",
+     "tom": "alta",
+     "confianca": "operacional"
+    }
+   ]
+  },
+  {
+   "id": "3.1",
+   "ts": "0:37:56",
+   "processo": "50500.001217/2007-20 (legenda)",
+   "interessado": "Despacho do DG",
+   "assunto": "Pedido de cancelamento da distribuição",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "sem registro de votação na legenda",
+   "resumo_voto": "",
+   "votos": []
+  },
+  {
+   "id": "Enc",
+   "ts": "0:38:20",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Agradecimentos finais de diretores aos servidores e pedido de relatórios diários de pontos de apoio a caminhoneiros nas regionais",
+   "tema": [
+    "institucional",
+    "pandemia"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "sem deliberação",
+   "resumo_voto": "Diretores elogiam a resposta rápida (ex.: SUINFRA na Ponte Rio-Niterói). Um diretor (Menezes ou Alexandre Porto, não identificado) pede relatório sobre ações em todas as regionais e pontos de apoio.",
+   "votos": []
+  }
+ ],
+ "retirados": [
+  {
+   "item": "2.4.3 — Brasil Sul Linhas Rodoviárias (processo administrativo, cadastro)",
+   "relator": "Alexandre Porto",
+   "motivo": "consulta à Procuradoria sobre postura de atualização administrativa",
+   "ts": "0:28:45"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo, valores e nomes de empresas distorcidos; números marcados (legenda) são parciais e podem estar errados.",
+  "Os turnos atribuem tudo ao secretário (Marcelo Fonseca); falantes reais foram reconstruídos pelas saudações. O DG em exercício aparece como Marcelo de novo/venor/renor: Marcelo Vinaud.",
+  "Weber Ciloni aparece como vai/velho Simone/Selene; Menezes como Menezes/Chineses/Tomou chineses: grafia do nome incerta.",
+  "Relatores inferidos pela ordem de leitura por diretor. No 2.1.3 e 2.1.4 o relator é o DG em exercício (inferido).",
+  "2.1.4 (Corregedoria): a legenda termina com trecho truncado sobre vista; resultado não confirmado.",
+  "2.3.2: nome da subconcessionária e o número do processo ilegíveis; índice de reajuste 7,68% vem da legenda.",
+  "Ts de votos de seguidores aproximados.",
+  "Processos sancionadores reservados: sem detalhes."
+ ]
+}

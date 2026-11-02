@@ -1,0 +1,399 @@
+{
+ "meta": {
+  "video_id": "B-NPl1jUYE0",
+  "fonte": "legenda automática do YouTube; falantes inferidos pelas saudações; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "879",
+  "data": "2020-11-10",
+  "formato": "videoconferência (transmitida ao vivo no YouTube)",
+  "presidente_da_sessao": "diretor-geral substituto (não identificado; Marcelo Vinaud de férias)",
+  "diretores_presentes": [
+   "Weber Ciloni",
+   "Davi Barreto",
+   "Alexandre Porto",
+   "Eduardo Marra"
+  ],
+  "ausentes": [
+   "Marcelo Vinaud (férias)",
+   "Menezes (não votou; grafia incerta)"
+  ],
+  "observacoes": [
+   "Reunião curta (≈ 30 min).",
+   "Duas aberturas de audiência pública (relicitação rodoviária; regulamentação do TAR) aprovadas por unanimidade.",
+   "Três itens retirados de pauta.",
+   "Extrapauta: primeiro termo aditivo de relicitação da BR-040 após revogação de cautelar do TCU."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:04:10",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Aprovação da ata da RD 878",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "diretor-geral substituto",
+   "resultado": "aprovada por unanimidade",
+   "resumo_voto": "",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:04:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:04:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:04:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:04:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:04:50",
+   "processo": "50500.082993/2019-32 (legenda)",
+   "interessado": "Ecosul, Ecovias do Cerrado, Ecoponte e Eco101 (Grupo Ecorodovias)",
+   "assunto": "Comunicação de ajustes na estrutura societária do grupo de controle das concessionárias da Ecorodovias e proposta de súmula sobre anuência prévia em operações societárias; voto-vista de Davi Barreto",
+   "tema": [
+    "concessões rodoviárias",
+    "transferência de controle / reorganização societária",
+    "súmula / regulação normativa"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado conforme voto do relator no caso concreto; proposta de súmula não apreciada (indicado pelo voto-vista; resultado da súmula incerto na legenda)",
+   "resumo_voto": "Davi Barreto (revisor) concorda integralmente com o voto do relator quanto ao caso concreto (anuência da operação), mas vota por não apreciar a proposta de súmula agora, porque o tema é objeto da Audiência Pública 11/2020 (nova regulamentação em elaboração); sugere deliberar só o caso concreto. Weber esclarece que a ANTT se manifestará via delegação de competência da superintendência.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova o caso concreto e propõe a súmula",
+     "ts": "0:05:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "voto-vista: concorda no caso concreto; não apreciar a súmula",
+     "ts": "0:06:13",
+     "justificativa": "a matéria está em audiência pública (AP 11/2020) e será regulamentada por resolução; proposta de súmula inoportuna",
+     "tom": "alta",
+     "confianca": "técnico, cauteloso quanto à edição de súmula"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo (provável: com o voto-vista de Davi)",
+     "ts": "0:08:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo (com o voto-vista de Davi)",
+     "ts": "0:09:07",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:09:45",
+   "processo": "50507.11807/2020-66 (legenda)",
+   "interessado": "SUINFRA",
+   "assunto": "Abertura de audiência pública sobre minuta de resolução com diretrizes para encerramento e relicitação de contratos de concessão rodoviária (transição operacional, plano de desmobilização, termo de transferência de bens, apuração de haveres), por 30 dias, virtual",
+   "tema": [
+    "concessões rodoviárias",
+    "relicitação",
+    "regulação normativa",
+    "participação social"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "A Lei 13.448/2017 trata de relicitação e extensão de prazos, mas a Lei 8.987/1995 é lacônica sobre transição e transferência de ativos; três contratos da primeira etapa vencem entre fev. e mar. de 2021 sem editais publicados; urgência justifica o normativo; AIR precedeu a minuta.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova abertura da audiência",
+     "ts": "0:10:30",
+     "justificativa": "urgência pela proximidade do fim dos contratos da 1ª etapa (fev./mar. 2021)",
+     "tom": "alta",
+     "confianca": "técnico, preocupado com continuidade do serviço"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:15:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:15:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:15:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:15:10",
+   "processo": "50503.7292/2019-41 (legenda)",
+   "interessado": "K-Infra Rodovia do Aço (BR-393)",
+   "assunto": "Décima primeira revisão ordinária, 12ª revisão extraordinária e reajuste da tarifa básica de pedágio; sustentação oral do advogado Robson Barreirinhas",
+   "tema": [
+    "concessões rodoviárias",
+    "revisão tarifária / reajuste",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "retirado de pauta (aprovado por unanimidade)",
+   "resumo_voto": "Alexandre Porto retira de pauta por ter recebido memoriais da concessionária no dia anterior, com pontos a avaliar. Sustentação oral prejudicada, a ser feita quando o processo voltar.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, pede retirada de pauta",
+     "ts": "0:15:35",
+     "justificativa": "memoriais recebidos na véspera com pontos a avaliar",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com a retirada",
+     "ts": "0:16:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo com a retirada",
+     "ts": "0:16:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo com a retirada",
+     "ts": "0:16:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:16:50",
+   "processo": "50500.099251/2020-22 (legenda)",
+   "interessado": "SUPAS",
+   "assunto": "Abertura de audiência pública sobre propostas de regulamentação do serviço regular de transporte rodoviário interestadual de passageiros sob regime de autorização (contribuições de 23/11/2020 a 23/01/2021)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "regulação normativa",
+    "participação social",
+    "regime de autorização"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Matéria em discussão desde 2018; tomada de subsídios em julho/2020 recebeu 216 contribuições de 30 atores; proposta incorpora princípios do Decreto 10.157/2019 (livre concorrência, liberdade de preço, itinerário e frequência, defesa do consumidor, redução do custo regulatório), Lei de Liberdade Econômica e revisão do estoque regulatório; AIR realizada.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, autoriza abertura da audiência",
+     "ts": "0:17:30",
+     "justificativa": "princípios do Decreto 10.157/2019: livre concorrência e liberdade de preço/itinerário/frequência",
+     "tom": "alta",
+     "confianca": "pró-liberdade econômica"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:20:00",
+     "justificativa": "parabeniza a equipe da SUPAS: trabalho muito bem elaborado",
+     "tom": "alta",
+     "confianca": "elogio"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:20:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:20:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:21:01",
+   "processo": "50500.012284/2019-32 (legenda)",
+   "interessado": "SUGEPLAN",
+   "assunto": "Abertura de audiência pública para colher subsídios à minuta de resolução que regulamenta a atuação de comissões tripartites na ANTT",
+   "tema": [
+    "institucional",
+    "participação social",
+    "comissões tripartites"
+   ],
+   "relator": "Eduardo Marra",
+   "resultado": "retirado de pauta para diligências (aprovado por unanimidade)",
+   "resumo_voto": "Relator quer diligenciar a SUGEPLAN sobre abrangência da norma considerando características específicas dos mercados.",
+   "votos": [
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "relator, pede retirada de pauta para diligência",
+     "ts": "0:21:15",
+     "justificativa": "avaliar abrangência da norma conforme mercados abrangidos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com a retirada",
+     "ts": "0:21:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo com a retirada",
+     "ts": "0:21:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo com a retirada",
+     "ts": "0:21:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "EP-1",
+   "ts": "0:22:10",
+   "processo": "50500.389532/2019-12 (legenda)",
+   "interessado": "Concessionária BR-040 S.A. (Via 040; BR-040 DF/GO/MG, Brasília–Juiz de Fora)",
+   "assunto": "Extrapauta: primeiro termo aditivo ao contrato de concessão para a relicitação da BR-040 (qualificação no PPI, Decreto 10.248/2020), após revogação de cautelar do TCU; indeferimento de pleito da concessionária de nova subcláusula",
+   "tema": [
+    "concessões rodoviárias",
+    "relicitação",
+    "judicialização",
+    "extrapauta",
+    "TCU"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Termo aditivo já aprovado pela Del. 329/2020; o TCU suspendera por cautelar (Acórdão 2611/2020?), houve agravo provido (nov./2020) que revogou a cautelar por ausência de periculum in mora; ajustes: inclusão da taxa de desconto do fluxo de caixa marginal na atualização do superávit tarifário, nova subcláusula sobre reversão ao poder concedente de valor tarifário superior à amortização de bens e data-base abril/2020; atualização dos anexos de PER e transição; rejeita pedido da concessionária de nova subcláusula e a taxa de desconto, em harmonia com a área técnica; prazo para assinatura do aditivo até 20/11/2020.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, indefere pleito da concessionária e aprova o primeiro termo aditivo",
+     "ts": "0:23:30",
+     "justificativa": "área técnica já tratou a controvérsia em cláusula específica; ajustes por determinações do TCU",
+     "tom": "alta",
+     "confianca": "técnico-jurídico"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:28:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:28:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:28:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.1",
+   "ts": "0:29:04",
+   "processo": "50500.311513/2019-07 (legenda)",
+   "interessado": "Despacho do DG nº 44 (4/11/2020)",
+   "assunto": "Pedido de cancelamento de distribuição de processo",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "diretor-geral substituto",
+   "resultado": "retirado de pauta",
+   "resumo_voto": "Um diretor (não identificado) observa que o despacho só tem assinatura da assessoria, sem assinatura do diretor ausente (de férias), e o processo envolve discussão judicial; propõe retirar de pauta e voltar na próxima reunião; os demais concordam.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo com a retirada",
+     "ts": "0:30:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:30:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:30:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:30:25",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "2.2.1 — K-Infra Rodovia do Aço: 11ª revisão ordinária e 12ª extraordinária, reajuste de pedágio",
+   "relator": "Alexandre Porto",
+   "motivo": "memoriais da concessionária recebidos na véspera",
+   "ts": "0:15:35"
+  },
+  {
+   "item": "2.3.1 — Audiência pública sobre comissões tripartites (SUGEPLAN)",
+   "relator": "Eduardo Marra",
+   "motivo": "diligência sobre abrangência da norma",
+   "ts": "0:21:15"
+  },
+  {
+   "item": "3.1 — Cancelamento de distribuição (despacho do DG nº 44)",
+   "relator": "diretor-geral substituto",
+   "motivo": "despacho sem assinatura do diretor ausente",
+   "ts": "0:29:04"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: nomes, números e valores distorcidos; números de processo marcados (legenda) são parciais.",
+  "Os turnos atribuem tudo ao secretário (Marcelo Fonseca); falantes reais reconstruídos. O diretor-geral em exercício (Marcelo Vinaud) estava de férias; o diretor-geral substituto que preside não é identificado pela legenda.",
+  "Diretor Menezes não aparece nas votações (provavelmente ausente; grafia do nome incerta).",
+  "2.1.1: legenda confusa sobre o resultado da súmula; o voto-vista de Davi propõe não apreciá-la; votos de Alexandre Porto e Eduardo Marra (de acordo, provavelmente com o voto-vista) com confiança baixa.",
+  "Extrapauta BR-040: número do acórdão do TCU da cautelar incerto na legenda (acórdão 2611/2020?).",
+  "Ts de votos de seguidores aproximados."
+ ]
+}

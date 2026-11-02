@@ -1,0 +1,742 @@
+{
+ "meta": {
+  "video_id": "zuksv7XVCg8",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "872",
+  "data": "2020-09-15",
+  "formato": "videoconferência, transmitida no YouTube (covid-19)",
+  "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral em exercício)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Davi Barreto",
+   "Weber Ciloni",
+   "Alexandre Porto",
+   "Eduardo Marra"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 17h06.",
+   "Ata da reunião anterior aprovada por todos.",
+   "Processos 2.1.3 e 2.5 (aplicação de penalidade) julgados reservadamente.",
+   "Vários itens eram votos-vista de Davi Barreto sobre relatorias de Weber Ciloni; Alexandre Porto não votou nos itens 2.3.3 e 2.3.4 por substituir vaga cujo ocupante anterior já votara."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.3 / 2.5 (sigilosos)",
+   "ts": "0:04:30",
+   "processo": "50500.065148/2017-33 (Companhia de Concessão Rodoviária Juiz de Fora-Rio) e 50500.160097/2016 (Autopista Litoral Sul) — parciais",
+   "interessado": "Concessionária Juiz de Fora-Rio e Autopista Litoral Sul",
+   "assunto": "Recursos em processos de aplicação de penalidade, com acesso restrito, julgados ao final da transmissão (art. 61 §1º do regimento interno)",
+   "tema": [
+    "fiscalização e sanções",
+    "concessões rodoviárias"
+   ],
+   "relator": "Weber Ciloni (um deles, segundo a leitura; incerto)",
+   "resultado": "sigiloso – julgamento fora da transmissão",
+   "resumo_voto": "Sem conteúdo público.",
+   "votos": []
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:06:24",
+   "processo": "50500.078393/2015-56",
+   "interessado": "JJ Tur Transporte",
+   "assunto": "Pedido de adesão a parcelamento de débitos de infrações no transporte rodoviário interestadual de passageiros (34 autos de infração, ≈ R$ 400 mil, 60 parcelas; Res. 5.623/2018 – número incerto)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Marcelo Vinaud (inferido; já aprovado em reunião eletrônica por Ciloni e Porto)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deferimento do parcelamento conforme memória de cálculo da área técnica, por atender aos requisitos de admissibilidade.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova (deferimento do parcelamento)",
+     "ts": "0:07:48",
+     "justificativa": "requerimento atende aos requisitos da regulação",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha (já aprovado na reunião eletrônica 14)",
+     "ts": "0:08:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:08:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "acompanha (já aprovado na reunião eletrônica 14)",
+     "ts": "0:08:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:08:18",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:08:23",
+   "processo": "50500.424709/2015-53 (parcial)",
+   "interessado": "Irmãos Nascimento Turismo Ltda.",
+   "assunto": "Referendo da Deliberação nº 379/2020 (18/08/2020), que suspendeu, por decisão judicial, os efeitos da Deliberação nº 361/2019 (declaração de inidoneidade por 3 anos)",
+   "tema": [
+    "judicializacao",
+    "fiscalização e sanções",
+    "ônibus (fretamento)"
+   ],
+   "relator": "Marcelo Vinaud (inferido)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Referenda-se a suspensão dos efeitos da pena de inidoneidade em cumprimento de decisão judicial favorável à empresa (pedidos de reconsideração anteriores não foram conhecidos por intempestivos).",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova o referendo",
+     "ts": "0:09:50",
+     "justificativa": "cumprimento de decisão judicial",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:10:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:10:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "aprovou na reunião eletrônica 14",
+     "ts": "0:08:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "aprovou na reunião eletrônica 14",
+     "ts": "0:08:40",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:10:41",
+   "processo": "não legível",
+   "interessado": "Transbrasiliana Concessionária de Rodovia S.A.",
+   "assunto": "Processo retirado de pauta por força de liminar judicial",
+   "tema": [
+    "judicializacao",
+    "concessões rodoviárias"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "retirado de pauta (aprovado por unanimidade)",
+   "resumo_voto": "Retirada solicitada pelo relator em função de liminar, junto com o 2.2.2.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "pede retirada de pauta",
+     "ts": "0:11:30",
+     "justificativa": "decisão judicial (liminar)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:12:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:12:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:12:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:12:12",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:11:30",
+   "processo": "não legível",
+   "interessado": "SUINF/SUROC (instrução normativa)",
+   "assunto": "Matéria regulatória (instrução normativa) retirada de pauta junto com o 2.2.1",
+   "tema": [
+    "regulação normativa"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "retirado de pauta (aprovado por unanimidade)",
+   "resumo_voto": "Retirada sem justificativa detalhada na legenda.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "pede retirada de pauta",
+     "ts": "0:11:40",
+     "justificativa": "não detalhada",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:12:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:12:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:12:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:12:12",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3",
+   "ts": "0:12:24",
+   "processo": "50500.940372/2018-45 (parcial)",
+   "interessado": "Viação Salutaris e Turismo S.A. e Viação Águia Branca S.A.",
+   "assunto": "Recurso: transferência de mercados da Salutaris para a Águia Branca (protocolo de 24/04/2018; Deliberação 955 e Res. 4.770; mercados incluem Salvador–Petrolina, Vitória–Uberlândia, Vitória–Comodoro e Vitória–Porto Velho) e alteração das licenças operacionais",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "regulação normativa"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece o recurso e dá provimento: as empresas cumpriram os requisitos da Res. 4.770; a Águia Branca está regular quanto a multas, único óbice apontado pela procuradoria.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova (conhece e dá provimento)",
+     "ts": "0:14:13",
+     "justificativa": "requisitos cumpridos e regularidade em multas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:15:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:15:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:15:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:15:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.4",
+   "ts": "0:15:33",
+   "processo": "70510.195/2001-95 (parcial)",
+   "interessado": "Caburaí Transportes Ltda.",
+   "assunto": "Anuência prévia para transferência de controle societário para Francisco Luiz Dantas da Silva (Res. 4.700; análise por analogia à Res. 3.076, pois a ANTT não editou resolução específica para o novo modelo de outorga)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "regulação normativa"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Concede a anuência prévia: análise concorrencial sem preocupações (mercado contestável); procuradoria não apontou dúvida jurídica; competência passou à SUPAS pelo novo regimento.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:19:39",
+     "justificativa": "sem preocupação concorrencial; instrução técnica suficiente",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:20:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:20:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:20:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:20:27",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:20:37",
+   "processo": "50500.004628/2013-73",
+   "interessado": "SUGEPI/SUARTE",
+   "assunto": "Resolução sobre atos públicos de liberação de atividades econômicas, classificação de risco e prazos máximos de análise (Lei 13.874/2019 e Decreto 10.178/2019). Voto-vista de Davi Barreto (VOTO-VISTA DB 018/2020) sobre a aplicabilidade aos atos de outorga de serviço público",
+   "tema": [
+    "regulação normativa",
+    "institucional"
+   ],
+   "relator": "Weber Ciloni (relator original); voto-vista de Davi Barreto",
+   "resultado": "aprovado por unanimidade (acompanharam o voto-vista)",
+   "resumo_voto": "Davi Barreto, após ouvir a procuradoria, entende que não se aplicam as regras de aprovação tácita por decurso de prazo às outorgas de serviço público: excluir da resolução atos como licença originária e complementar para transporte internacional de passageiros, licenças operacionais do serviço regular interestadual, autorizações no regime de autorização e autorizações de transporte ferroviário de cargas não associado; demais atos mantidos; dispensa de participação social e AIR por mera aplicação de norma legal.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "voto-vista: aprova com exclusões de atos de outorga",
+     "ts": "0:22:00",
+     "justificativa": "atos de outorga de serviço público não se enquadram na liberdade econômica; recomendações de procedimento",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o voto-vista (relator original)",
+     "ts": "0:25:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo com o voto-vista",
+     "ts": "0:25:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo com o voto-vista",
+     "ts": "0:25:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com o voto-vista",
+     "ts": "0:25:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:25:39",
+   "processo": "50500.541812/2015-02 (parcial)",
+   "interessado": "SUFER (Superintendência de Infraestrutura Ferroviária)",
+   "assunto": "Abertura de consulta pública sobre a atualização do cálculo do WACC regulatório (taxa de retorno do fluxo de caixa marginal) para concessões ferroviárias; contribuições de 17/09/2020 a 01/11/2020 (após tomada de subsídios 2020)",
+   "tema": [
+    "ferrovias",
+    "participação social",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Abre consulta pública para dar transparência e participação após a tomada de subsídios (27/04 a 11/05/2020); atualiza empresas de referência do cálculo.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:26:30",
+     "justificativa": "tema relevante exige consulta pública formal",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o relator",
+     "ts": "0:28:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:28:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:28:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:28:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.3",
+   "ts": "0:28:38",
+   "processo": "50500.006898/2019 (parcial)",
+   "interessado": "Rotas de Viação do Triângulo Ltda.",
+   "assunto": "Pedido de inclusão de novos mercados (sete novas linhas, como Brasília–Ponta Porã via Rio Verde e Brasília–Rio Quente via Caldas Novas); voto-vista de Davi Barreto (VOTO-VISTA DB 015/2020) sobre enquadramento na Instrução Normativa 01/2020 (fila de processamento)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "regulação normativa"
+   ],
+   "relator": "Relator original: Weber Ciloni (inferido); voto-vista de Davi Barreto",
+   "resultado": "aprovado (DG hesita entre «maioria» e «unanimidade»)",
+   "resumo_voto": "O voto-vista não discute o mérito do relator, mas o enquadramento: apenas as linhas Brasília–Ponta Porã e Brasília–Rio Quente integram a exceção do parágrafo único do art. 2º da Deliberação 305/2020 (número incerto); as demais entram na fila de processamento da IN 01/2020 com prazo para a empresa manifestar interesse; impugnações não conhecidas. Alexandre Porto não vota porque o relator já votou ocupando a vaga hoje exercida por Porto (substituição de vaga).",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "voto-vista: defere parte e remete o restante à fila da IN 01/2020",
+     "ts": "0:30:30",
+     "justificativa": "enquadramento na IN 01/2020 e na exceção do art. 2º",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o revisor (legenda ambígua)",
+     "ts": "0:32:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo com o voto-vista",
+     "ts": "0:33:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com o voto-vista",
+     "ts": "0:33:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "não vota (impedido: vaga já votada pelo relator)",
+     "ts": "0:31:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.4",
+   "ts": "0:33:11",
+   "processo": "50500.021312/2001-46 (parcial)",
+   "interessado": "Viação Ouro e Prata S.A.",
+   "assunto": "Pedido de inclusão de novos mercados (linha Ijuí/RS – Canarana/MT, licença operacional 98); voto-vista de Davi Barreto (VOTO-VISTA DB 016/2020)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "regulação normativa"
+   ],
+   "relator": "Relator original: Weber Ciloni; voto-vista de Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Processo consolida mercados de três processos anteriores, empresa cumpriu a resposta à convocação da SUPAS e a Res. 4.015/2015 (número incerto); enquadra-se no parágrafo único do art. 2º da deliberação, defere inclusão e arquiva o processo remanescente; impugnações não conhecidas. Porto não vota pelo mesmo motivo do item anterior.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "voto-vista: defere",
+     "ts": "0:34:30",
+     "justificativa": "processo integralmente contido nos autos; empresa cumpriu requisitos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o revisor",
+     "ts": "0:36:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo com o voto-vista",
+     "ts": "0:36:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com o voto-vista",
+     "ts": "0:36:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "não vota (impedido)",
+     "ts": "0:35:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.5",
+   "ts": "0:37:01",
+   "processo": "50500.005563/2015-03 (parcial)",
+   "interessado": "Paracel SP Celulose Ltda. (recurso)",
+   "assunto": "Recurso contra decisão da SUFER que indeferiu a expedição de ato de usuário dependente do transporte ferroviário (Res. 3.694/2011) para negociar com MRS, Malha Paulista e Malha Oeste; voto-vista de Davi Barreto (VOTO-VISTA DB 019/2020)",
+   "tema": [
+    "ferrovias",
+    "judicializacao"
+   ],
+   "relator": "Relator original: Weber Ciloni (propôs prazo de 30 dias); voto-vista de Davi Barreto",
+   "resultado": "aprovado por unanimidade (provimento parcial)",
+   "resumo_voto": "Davi Barreto concorda com a procuradoria que a dependência é do modo ferroviário, não de uma concessionária única, mas exige a indicação dos fluxos para cada concessionária (art. 27 do regulamento): dá provimento parcial para novo prazo de apresentação dos fluxos, devolvendo à área técnica.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "voto-vista: provimento parcial do recurso",
+     "ts": "0:44:47",
+     "justificativa": "interpretação da procuradoria sobre usuário dependente; exigência de fluxos por concessionária",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o revisor",
+     "ts": "0:45:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo com o voto-vista",
+     "ts": "0:45:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo com o voto-vista",
+     "ts": "0:45:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com o voto-vista",
+     "ts": "0:45:37",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.1",
+   "ts": "0:45:46",
+   "processo": "50500.574116/2001-74 (parcial)",
+   "interessado": "Companhia Siderúrgica Nacional (CSN)",
+   "assunto": "Pedido de registro de usuário dependente: clínquer de Arcos/MG a Volta Redonda/RJ pela Ferrovia Centro-Atlântica",
+   "tema": [
+    "ferrovias"
+   ],
+   "relator": "Alexandre Porto (inferido)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Contrato de transporte apresentado não tem prazo mínimo de cinco anos; emite-se ato declaratório de usuário dependente com validade de 180 dias, prorrogável, para negociar contrato que cumpra o prazo mínimo.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, aprova",
+     "ts": "0:46:30",
+     "justificativa": "área técnica e procuradoria recomendam ato declaratório de 180 dias",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:49:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:49:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "aprovou na reunião eletrônica 14",
+     "ts": "0:45:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "aprovou na reunião eletrônica 14",
+     "ts": "0:45:55",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3.1",
+   "ts": "0:49:27",
+   "processo": "50500.426085/2019-16 (parcial)",
+   "interessado": "Despacho (pedido de retirada de pauta e cancelamento de distribuição)",
+   "assunto": "Cancelamento de distribuição de processo cuja retirada de pauta foi pedida por Weber Ciloni na reunião eletrônica 14 (art. 66 do regimento)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado",
+   "resumo_voto": "Sem detalhes do mérito.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:50:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:50:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:50:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:50:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.2",
+   "ts": "0:50:42",
+   "processo": "50500.05837/2018 (parcial)",
+   "interessado": "Despacho (pedido de cancelamento de distribuição)",
+   "assunto": "Cancelamento de distribuição de processo cuja retirada de pauta foi pedida por Weber Ciloni na reunião eletrônica 14",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado",
+   "resumo_voto": "Davi Barreto estava de férias; votam os demais.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:51:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:51:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:51:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.3",
+   "ts": "0:51:35",
+   "processo": "50500.159.../2016 (ilegível)",
+   "interessado": "Despacho sobre competências das superintendências (concessão rodoviária; processo ligado a Vale/rodoviário, legenda confusa)",
+   "assunto": "Pedido de Alexandre Porto de registro em ata de que as atividades de gestão do contrato de concessão e acompanhamento dos trabalhos devem ser feitas pela SUINF e pelas áreas competentes (esclarecer competências organizacionais)",
+   "tema": [
+    "institucional",
+    "concessões rodoviárias"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Registro em ata solicitado por Porto para deixar claras as competências das superintendências.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "solicita registro em ata",
+     "ts": "0:52:30",
+     "justificativa": "clareza de competências",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:53:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:53:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:53:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:53:12",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "2.2.1 e 2.2.2",
+   "relator": "Weber Ciloni",
+   "motivo": "liminar judicial (2.2.1) e matéria regulatória a rever (2.2.2)",
+   "ts": "0:11:30"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática com nomes distorcidos: «Siloni/Silonio/Simone/Sidnei» interpretado como Weber Ciloni; «Marra/mar/amarra» como Eduardo Marra; «achar curto/acham/Porto» como Alexandre Porto; «Marcelo Renor/Minor/novo» como Marcelo Vinaud.",
+  "Relatores de 2.1.1, 2.1.2 e 2.4.1 foram inferidos pela ordem de votação e pelas aprovações eletrônicas; confiança baixa.",
+  "Números de processo e valores estão parciais ou distorcidos; ts dos votos de seguidores são aproximados.",
+  "Em 2.3.3 a legenda não deixa claro se houve divergência (o DG diz «maioria... ou unanimidade»).",
+  "Itens 2.1.3 e 2.5 sigilosos; 3.3 tem número de processo ilegível."
+ ]
+}

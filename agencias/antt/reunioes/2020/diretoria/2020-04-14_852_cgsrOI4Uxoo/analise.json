@@ -1,0 +1,177 @@
+{
+  "meta": {"video_id": "cgsrOI4Uxoo", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:00); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "852", "data": "2020-04-14", "formato": "videoconferência (gravada e divulgada depois no site)",
+    "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral em exercício)",
+    "diretores_presentes": ["Marcelo Vinaud", "Weber Ciloni", "Davi Barreto", "Alexandre Porto", "Menezes"],
+    "ausentes": [],
+    "observacoes": ["Encerrada às 16h00 (parte aberta de cerca de 24 minutos).", "Principais itens: acordo ANTT-União-Rumo Malha Paulista para encerrar litígios (R$ 1,6 bilhão de recuperação para a União), política de inovação devolvida à área técnica por voto-vista de Davi Barreto, e retirada de pauta da prorrogação antecipada da Malha Paulista por Weber Ciloni.", "Três processos reservados (Via Energia, Andorinha/Viação Motta, Sulamérica Transportes) foram julgados em parte reservada e não constam do vídeo."]
+  },
+  "itens": [
+    {
+      "id": "2.1.1", "ts": "0:03:15",
+      "processo": "50500.260419/2020-81 (número lido de forma incerta)", "interessado": "Auditoria Interna (Audit)",
+      "assunto": "Manual de procedimentos de ação ordinária de auditoria, modalidade avaliação (3ª edição)",
+      "tema": ["institucional"],
+      "relator": "Marcelo Vinaud", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Atualização do manual para incorporar as novas instruções normativas da CGU e práticas como a contabilização de benefícios (Portaria Audit 1/2019), tornando o procedimento de auditoria uniforme e eficiente.",
+      "votos": [
+        {"diretor": "Marcelo Vinaud", "voto": "relator, aprova a 3ª edição do manual", "ts": "0:04:35", "confianca": "alta"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo conforme proposto", "ts": "0:04:51", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:05:00", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "0:05:05", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "de acordo", "ts": "0:05:10", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.1.2", "ts": "0:05:20",
+      "processo": "50500.429659/2019-01 (número lido de forma incerta)", "interessado": "Rota do Mar Viagens Ltda.",
+      "assunto": "Alteração de licença operacional - pedido de paralisação de linha (transporte rodoviário interestadual de passageiros)",
+      "tema": ["ônibus (transporte regular, TAR)"],
+      "relator": "Marcelo Vinaud", "resultado": "aprovado por unanimidade (em bloco)",
+      "resumo_voto": "Processo deliberado em bloco com voto previamente disponibilizado.",
+      "votos": [
+        {"diretor": "Marcelo Vinaud", "voto": "relator, aprova", "ts": "0:05:20", "confianca": "media"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo com os votos pautados em bloco", "ts": "0:05:50", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:05:54", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "0:05:58", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "de acordo", "ts": "0:06:02", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.2.1", "ts": "0:06:15",
+      "processo": "50500.210500/2015-80 (número lido de forma incerta)", "interessado": "Rumo Malha Paulista S.A.",
+      "assunto": "Prorrogação antecipada do contrato de concessão da Malha Paulista",
+      "tema": ["ferrovias", "reequilíbrio contratual"],
+      "relator": "Weber Ciloni", "resultado": "retirado de pauta (unanimidade)",
+      "resumo_voto": "O relator pediu licença ao colegiado para retirar o item porque tomou conhecimento de um e-mail da Sufer sobre instrução técnica e quis mais tempo para apreciar a matéria. (O item voltou e foi aprovado na reunião 857, de 26/05/2020.)",
+      "votos": [
+        {"diretor": "Weber Ciloni", "voto": "relator, pede retirada de pauta", "ts": "0:06:30", "justificativa": "e-mail da Sufer sobre instrução técnica exige mais tempo de apreciação", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "de acordo com a retirada", "ts": "0:06:46", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo com a retirada", "ts": "0:06:50", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "de acordo com a retirada", "ts": "0:06:54", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo com a retirada", "ts": "0:06:58", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.3.1", "ts": "0:07:19",
+      "processo": "50500.007480/2019 (número parcial)", "interessado": "Rumo Malha Paulista S.A.; União",
+      "assunto": "Proposta de acordo entre ANTT, União e Rumo Malha Paulista para encerrar litígios administrativos e judiciais do contrato de concessão, como etapa da prorrogação antecipada",
+      "tema": ["ferrovias", "judicializacao", "reequilíbrio contratual"],
+      "relator": "Davi Barreto", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Cumpre o item 9.3.4 do Acórdão 2.876/2019 do TCU e a Lei 13.448/2017. O acordo resolve pagamentos trimestrais de arrendamento e concessão, sanções administrativas e receitas alternativas não recolhidas. Segundo a área técnica, resultará em recuperação de cerca de R$ 1,6 bilhão em favor da União e na retomada dos pagamentos trimestrais (arrecadação estimada de quase R$ 140 milhões em 2021, valor lido de forma incerta). A Procuradoria destacou o compromisso de pagamento mais sério e o encerramento de ações judiciais; há autorização do Advogado-Geral da União e do Ministro da Infraestrutura (Tarcísio Gomes de Freitas) para o acordo.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "relator, aprova a celebração do acordo", "ts": "0:10:55", "justificativa": "vantajoso para a União (recuperação de R$ 1,6 bi e retomada de pagamentos), com pareceres técnico e jurídico favoráveis e autorização da AGU", "confianca": "alta"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo com a aprovação do acordo", "ts": "0:11:20", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "0:11:25", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "de acordo", "ts": "0:11:30", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo", "ts": "0:11:35", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.3.2", "ts": "0:11:39",
+      "processo": "50500.002831/2019 (número parcial)", "interessado": "Assessoria de Gestão Estratégica e Inovação",
+      "assunto": "Política de inovação da ANTT (relator Weber Ciloni; voto-vista de Davi Barreto, apresentado na reunião 847)",
+      "tema": ["sandbox / inovação", "institucional"],
+      "relator": "Weber Ciloni (voto 03/2020); voto-vista de Davi Barreto (05/2020)", "resultado": "aprovado por unanimidade o voto-vista - devolução à área para ampliar a política",
+      "resumo_voto": "A política de inovação proposta (princípios, diretrizes, proteção de ativos intelectuais e transferência de tecnologia) teve ajustes no voto do relator, que previu comitê de inovação. Davi Barreto concorda com o mérito, mas entende que a política deve ser mais ampla: abranger incentivo à inovação e pesquisa científica e tecnológica (Lei 10.973/2004, Marco Legal da CT&I, Decreto 9.283/2018) e a inovação institucional (Decreto 9.739/2019, Sistema de Organização e Inovação Institucional do governo federal, SIORG); os autos não ouviram as diversas unidades da agência; recomenda consulta a públicos nacionais e internacionais (art. 3º de resolução de 2017) e análise jurídica da Procuradoria antes de nova submissão. Voto por devolver à área para promover a análise da abrangência e envolver todas as unidades.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "voto-vista: devolve os autos para ampliar a política de inovação", "ts": "0:12:05", "justificativa": "política deve cobrir inovação científica e institucional, ouvir as áreas da agência, fazer consulta e passar pela Procuradoria", "confianca": "alta"},
+        {"diretor": "Weber Ciloni", "voto": "corrobora plenamente a devolução (relator)", "ts": "0:15:42", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo com o voto-vista de Davi Barreto", "ts": "0:15:46", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "de acordo com o voto-vista", "ts": "0:15:50", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo", "ts": "0:15:54", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.3.3 a 2.3.5", "ts": "0:16:16",
+      "processo": "50500.0171x/2020-90 (2.3.3, número parcial); 2.3.4 e 2.3.5 números ilegíveis", "interessado": "Empresas de ônibus (nomes não identificados na legenda)",
+      "assunto": "Bloco: alteração de licença operacional - supressão de linha com paralisação de mercado",
+      "tema": ["ônibus (transporte regular, TAR)"],
+      "relator": "Davi Barreto", "resultado": "aprovados em bloco por unanimidade",
+      "resumo_voto": "Weber Ciloni perguntou por que esses processos chegam à Diretoria se as supressões estão delegadas às superintendências; foi explicado que isso ocorre enquanto os sistemas da ANTT não são atualizados quanto ao protocolo. Votos aprovados.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "relator, aprova em bloco", "ts": "0:16:16", "confianca": "media"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo, com pergunta sobre a delegação às superintendências", "ts": "0:16:45", "justificativa": "questiona por que as supressões de linha, delegadas às superintendências, ainda vão à Diretoria; resposta: pendência de atualização dos sistemas da ANTT", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "0:17:25", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "de acordo", "ts": "0:17:30", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo", "ts": "0:17:35", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.4.1, 2.4.2 e 2.4.6", "ts": "0:17:56",
+      "processo": "50500.342317/2019-76 (2.4.1); 50500.400977/2019-43 (2.4.2, número parcial); 50500.02xx13/2020-29 (2.4.6)", "interessado": "Empresas de ônibus (2.4.2 Viação Santa Cruz Ltda.; 2.4.6 Ação Sertaneja Ltda., segundo a legenda)",
+      "assunto": "Bloco: supressão de linha com paralisação de mercado (2.4.1); paralisação de mercados e linhas (2.4.2); supressão de linha (2.4.6)",
+      "tema": ["ônibus (transporte regular, TAR)"],
+      "relator": "Alexandre Porto", "resultado": "aprovados por unanimidade",
+      "resumo_voto": "Itens remanescentes do bloco após a retirada de três processos.",
+      "votos": [
+        {"diretor": "Alexandre Porto", "voto": "relator, aprova", "ts": "0:17:56", "confianca": "media"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo", "ts": "0:20:00", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:20:03", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "de acordo", "ts": "0:20:06", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo", "ts": "0:20:09", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.4.3 a 2.4.5", "ts": "0:19:23",
+      "processo": "50500.306898/2019-10 (2.4.3); 50500.244192/2019-84 (2.4.4); 50500.003989/2009-77 (2.4.5) - números lidos de forma incerta", "interessado": "Nordeste Transportes Ltda. e outras empresas de ônibus",
+      "assunto": "Alteração de licença operacional - inclusão de mercados (bloco)",
+      "tema": ["ônibus (transporte regular, TAR)"],
+      "relator": "Alexandre Porto", "resultado": "retirados de pauta (unanimidade)",
+      "resumo_voto": "O relator pediu a retirada de 2.4.3, 2.4.4 e 2.4.5 para melhor analisar os autos em função dos pedidos de impugnação.",
+      "votos": [
+        {"diretor": "Alexandre Porto", "voto": "relator, pede retirada de pauta", "ts": "0:19:23", "justificativa": "necessidade de melhor analisar os autos diante de pedidos de impugnação", "confianca": "alta"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo com a retirada", "ts": "0:19:51", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "de acordo com a retirada", "ts": "0:19:54", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "de acordo com a retirada", "ts": "0:19:57", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo com a retirada", "ts": "0:20:00", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.5.1", "ts": "0:20:29",
+      "processo": "50500.429660/2009 (número parcial; provável 2019-24)", "interessado": "Rota do Mar Viagens Ltda.",
+      "assunto": "Alteração de licença operacional - proposta de paralisação de linha",
+      "tema": ["ônibus (transporte regular, TAR)"],
+      "relator": "Menezes", "resultado": "aprovado por unanimidade (em bloco)",
+      "resumo_voto": "Processo deliberado em bloco com voto previamente disponibilizado.",
+      "votos": [
+        {"diretor": "Menezes", "voto": "relator, aprova", "ts": "0:20:29", "confianca": "media"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo com os votos do relator", "ts": "0:20:45", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:20:48", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "0:20:50", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo", "ts": "0:20:52", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3.1 e 3.2", "ts": "0:22:00",
+      "processo": "50500.004628/2013-73 (3.1); 50500.029061/2001 (3.2, número lido de forma incerta)", "interessado": "Pedidos de cancelamento de distribuição (despachos DG/SEI)",
+      "assunto": "Assuntos gerais: pedido de cancelamento de distribuição de processo conforme o art. 67 do Regimento Interno (3.1) e outro condicionado à Súmula 2 de 31/03/2020 (3.2)",
+      "tema": ["institucional"],
+      "relator": "Marcelo Vinaud", "resultado": "aceitos, sem manifestação contrária",
+      "resumo_voto": "O secretário leu os despachos e o Diretor-Geral encerrou a parte aberta sem objeções.",
+      "votos": []
+    },
+    {
+      "id": "reservados", "ts": "0:01:44",
+      "processo": "50500.313663/2018 (Via Energia); 50515.000035/2017-73 (Andorinha/Motta); 50500.325516/2019-10 (Sulamérica)", "interessado": "Via Energia Ltda.; Empresa de Transportes Andorinha S.A. e Viação Motta Ltda.; administradores da Sulamérica Transportes Ltda.",
+      "assunto": "Processos administrativos sancionadores reservados (aplicação de penalidade), de relatoria de Weber Ciloni (Via Energia), Alexandre Porto (Andorinha/Motta) e Menezes (Sulamérica)",
+      "tema": ["fiscalização e sanções"],
+      "relator": "Weber Ciloni; Alexandre Porto; Menezes", "resultado": "julgados em parte reservada; resultado não consta do vídeo",
+      "resumo_voto": "Itens sigilosos (art. 78-B da Lei 10.233/2001 e art. 71 §1º do Regimento Interno), julgados com participação restrita às partes e procuradores.",
+      "votos": []
+    }
+  ],
+  "retirados": [
+    {"id": "2.2.1", "relator": "Weber Ciloni", "motivo": "e-mail da Sufer sobre instrução técnica; mais tempo para apreciação (Rumo Malha Paulista)"},
+    {"id": "2.4.3 a 2.4.5", "relator": "Alexandre Porto", "motivo": "pedidos de impugnação exigem melhor análise dos autos"}
+  ],
+  "limites_da_analise": [
+    "Legenda automática muito ruidosa: nomes distorcidos («Weber Silone/Cilonio», «Davi Barreto», «Marcelo Vinor/Virou», «Menezes» com variantes como «Moisés/Rogério Menezes»). Grafias canônicas adotadas pelas saudações e lista de diretores da época.",
+    "O diretor «Menezes» tem prenome incerto na legenda; mantido só o sobrenome. Não confirmado se é Mário Rodrigues Junior.",
+    "Números de processo e nomes de empresas de ônibus estão distorcidos ou truncados; foram omitidos ou marcados como parciais.",
+    "Os votos de quem só acompanha o relator têm minutos aproximados (confiança média).",
+    "Os processos reservados não constam do vídeo. A atribuição de relatoria aos blocos 2.2 (Weber), 2.3 (Davi), 2.4 (Porto) e 2.5 (Menezes) segue a sequência de leitura dos itens.",
+    "Valores do acordo da Malha Paulista (R$ 1,6 bilhão; quase R$ 140 milhões) vêm da legenda e podem conter erro."
+  ]
+}

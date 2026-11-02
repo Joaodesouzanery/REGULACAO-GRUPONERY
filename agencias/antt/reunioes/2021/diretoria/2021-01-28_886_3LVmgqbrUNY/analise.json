@@ -1,0 +1,280 @@
+{
+ "meta": {
+  "video_id": "3LVmgqbrUNY",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "886",
+  "data": "2021-01-28",
+  "formato": "videoconferência transmitida no YouTube",
+  "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Weber Ciloni",
+   "Davi Barreto",
+   "Alexandre Porto",
+   "Eduardo Marra"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 16h21.",
+   "ATENÇÃO: o título/arquivo indica 28/01/2020, mas o conteúdo (Res. 5.922 de 16/01/2021, edital 01/2021, RD 883 de 08/12/2020 e RD 885 anterior) mostra que a reunião ocorreu em 28/01/2021; a legenda diz «nº 866», provável erro de reconhecimento de 886."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.2.3, 2.2.4, 2.4.2 (reservados)",
+   "ts": "0:12:50",
+   "processo": "50500.004616/2017-01; 50500.004619/2017-37; 50501.114427/2018-59 (parciais)",
+   "interessado": "Companhia de Concessão Rodoviária Juiz de Fora-Rio S.A.",
+   "assunto": "Recursos contra decisões da SUINF (nº 39/2020, 58/2020 e 37/2020), processos reservados (2.4.2 de relatoria de Eduardo Marra), julgados ao final da transmissão",
+   "tema": [
+    "fiscalização e sanções",
+    "concessões rodoviárias"
+   ],
+   "relator": "Eduardo Marra (2.4.2); demais não identificados",
+   "resultado": "sigiloso – julgamento fora da transmissão",
+   "resumo_voto": "Sem conteúdo público.",
+   "votos": []
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:15:17",
+   "processo": "50500.003868/2021-31 (parcial)",
+   "interessado": "SUROC/SUCAR (cargas)",
+   "assunto": "Referendo da Resolução 5.922, de 16/01/2021, que flexibiliza por 90 dias obrigações regulatórias do transporte doméstico e internacional de oxigênio hospitalar para o Amazonas (covid-19)",
+   "tema": [
+    "transporte rodoviário de cargas (RNTRC)",
+    "regulação normativa",
+    "sustentabilidade"
+   ],
+   "relator": "Marcelo Vinaud (inferido)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Referenda a resolução publicada em 16/01/2021 diante do desabastecimento de oxigênio no Amazonas, facilitando o transporte rodoviário nacional e internacional.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova (referendo)",
+     "ts": "0:16:55",
+     "justificativa": "emergência de desabastecimento de oxigênio no Amazonas",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo (sem áudio no início)",
+     "ts": "0:17:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:17:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:17:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:17:54",
+   "processo": "50500.041812/2020-02 (parcial)",
+   "interessado": "SUCON / Gerência de Estudos (ferrovias)",
+   "assunto": "Relatório final da Consulta Pública 02/2020 e atualização do WACC regulatório para contratos de concessão ferroviária (Res. 5.337/2017)",
+   "tema": [
+    "ferrovias",
+    "participação social",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Sobre a distribuição de frequência das taxas, adota-se o percentil 75, o que leva a um WACC regulatório de ≈ 10,85% ao ano (faixa de 9,96% a 11,83% entre 60% e 80% da distribuição); a legenda também cita 11,4% e vigência até 31/12/2024, sem clareza. Procuradoria considerou legal, recomendando formalizar por resolução.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:20:20",
+     "justificativa": "contribuições recebidas e análise técnica levam ao percentil 75",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:21:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:21:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:21:08",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:21:10",
+   "processo": "50500.130935/2017 (parcial)",
+   "interessado": "SUCON (concessão BR-153 TO/GO e BR-080/414 GO)",
+   "assunto": "Aprovação do edital de concessão do sistema rodoviário BR-153 (Tocantins/Goiás) e BR-080/414 (Goiás), integrante do PPI",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova o edital 01/2021 e autoriza divulgação dos avisos; ajustes atenderam recomendações do TCU e solicitações da procuradoria; benefícios: integração do Meio-Norte, segurança e redução de custo logístico.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:23:00",
+     "justificativa": "estudos ajustados às recomendações do TCU; benefícios de integração e segurança",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:24:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:24:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:24:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:24:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:24:56",
+   "processo": "50500.004185/2021-100 (parcial)",
+   "interessado": "SUCON (Programa de Concessões Rodoviárias do Paraná – seis lotes)",
+   "assunto": "Abertura de audiência pública sobre minutas de edital, contrato, PER e estudos de viabilidade para concessão de seis lotes do sistema rodoviário do Paraná (≈ 3.382 km, rodovias federais e estaduais, estudos da EPL)",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização",
+    "participação social",
+    "pedágio"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Investimentos de ≈ R$ 42 bilhões em 30 anos, duplicações (≈ 1.700 km, valor a conferir), redução de tarifas de 25% a 67% conforme a praça; leilão em modelo híbrido (menor tarifa com deságio máximo e, em empate, maior outorga); audiência virtual por videoconferência.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:29:34",
+     "justificativa": "audiência pública legitima a ação regulatória; projeto relevante para a recuperação econômica",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:30:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:30:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:30:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo (após problema de áudio)",
+     "ts": "0:30:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.1",
+   "ts": "0:30:47",
+   "processo": "50500.103155/2020-96 (parcial)",
+   "interessado": "NUMAE",
+   "assunto": "Edição de súmula sobre requisito de pré-admissibilidade em processos de revisão ordinária e extraordinária de concessões rodoviárias federais (evitar reanálise de questões já decididas); processo apresentado na RD 883 (08/12/2020), com vista coletiva prorrogada pelo Diretor-Geral",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "regulação normativa"
+   ],
+   "relator": "Eduardo Marra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Weber Ciloni questiona se a súmula reduz retrabalho, pois fatos novos exigem nova análise e o resultado fica subjetivo; o relator responde que a súmula não impede pedidos de revisão e apenas deixa claro o que já foi decidido, orientando as concessionárias.",
+   "votos": [
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "relator, aprova",
+     "ts": "0:31:40",
+     "justificativa": "racionalizar e orientar sobre matérias já decididas",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:33:30",
+     "justificativa": "questionou o ganho de eficiência e a subjetividade; aceita a explicação",
+     "tom": "questionador, cooperativo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:34:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "acompanha o relator",
+     "ts": "0:34:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:34:40",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Data do título (28/01/2020) parece errada: pelo conteúdo é 28/01/2021. Corrigir em videos.jsonl se for o caso.",
+  "Legenda automática: «Siloni/cilloni/Weber» como Weber Ciloni; «Eduardo Marra/Mar/Maha» como Eduardo Marra; «Marcelo Rennó/Minor» como Marcelo Vinaud.",
+  "Relator do 2.1.1 inferido; Alexandre Porto não aparece na votação do 2.1.1 e na do 2.2.1 (legenda omite).",
+  "Valores (WACC, investimentos, percentuais de tarifa) podem estar distorcidos pela legenda.",
+  "Processos reservados (Juiz de Fora-Rio) sem conteúdo."
+ ]
+}

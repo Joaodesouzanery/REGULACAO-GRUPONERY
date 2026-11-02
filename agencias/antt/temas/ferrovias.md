@@ -1,7 +1,269 @@
 # Itens do tema «ferrovias» (todos os diretores)
 
+- **RD 803 (2019-03-19)**, extrapauta · relator **Weber Ciloni** · Prorrogação por 120 dias do prazo da comissão do processo administrativo ordinário (Deliberação 422/2018) que apura descumprimento continuado de metas → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=YDG6ljyGESM&t=2570s)
+- **RD 808 (2019-04-23)**, 3.2 · relator **Mário Rodrigues Junior** · Regulamentação do fluxo de caixa da Transnordestina (cópias entregues previamente aos diretores) → sem deliberação formal clara na legenda; diretores de acordo/cientes
+  - votos: Mário: outro; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=hs8snDKlt_c&t=660s)
+- **RD 61 (extraordinária) (2019-04-30)**, 1.2.4 · relator **Elisabeth Braga** · Homologação do resultado do leilão da subconcessão (Edital 02/2018; Porto Nacional-TO a Estrela d'Oeste-SP) → aprovado por unanimidade
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=_fNM_kiMQlc&t=1310s)
+- **RD 809 (2019-05-07)**, 3.1 · relator **None** · Pedido da SUFER para rever a obrigação de relatórios semanais de acompanhamento do processo administrativo ordinário da Transnordestina → sem deliberação formal; posição registrada
+  - votos: Mário: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=E3TPE9LTUFE&t=1728s)
+- **RD 811 (2019-05-21)**, 2.3.4 · relator **Weber Ciloni** · Abertura de audiência pública para revisão da Resolução 1431/2006 (comunicação de acidentes ferroviários) → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=Epr61yDCvnY&t=1776s)
+- **RD 813 (2019-06-04)**, 2.1.1 · relator **Mário Rodrigues Junior** · Referendo da Deliberação 607/2019 (29/05/2019), que rejeitou nova sessão presencial da AP em Itaituba (PA), diante de audiência de conciliação judicia → aprovado por unanimidade
+  - votos: Mário: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=ydYYojzjVn4&t=60s)
+- **RD 813 (2019-06-04)**, extrapauta-1 · relator **Mário Rodrigues Junior** · Abertura de audiência pública (3 a 29/06/2019) sobre estudos técnicos da prorrogação antecipada do prazo contratual da concessão → aprovado por unanimidade
+  - votos: Mário: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=ydYYojzjVn4&t=2971s)
+- **RD 814 (2019-06-11)**, 2.1.1 · relator **Marcelo Vinaud** · Registro como usuário dependente do transporte ferroviário de cargas (cimento ensacado de Rio Branco do Sul-PR a Maringá, Londrina e Cascavel; concess → aprovado por unanimidade
+  - votos: Marcelo: relator; Mário: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=OiiVU2kqVK4&t=70s)
+- **RD 814 (2019-06-11)**, extrapauta-1 · relator **Weber Ciloni** · Suspensão da Deliberação 76/2019 e realização de sessão presencial em Itaituba (PA) por decisão judicial em ação civil pública → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=OiiVU2kqVK4&t=1310s)
+- **RD 62 (extraordinária) (2019-06-13)**, 1.1.1 · relator **Marcelo Vinaud** · Embargos de declaração contra a Deliberação 432/2019 (legenda diz 2009 e 2018: erro material alegado pela embargante quanto ao ano) → aprovado por unanimidade — embargos parcialmente providos, sem efeito suspensivo
+  - votos: Marcelo: relator; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ifXiMh49mdg&t=68s)
+- **RD 815 (2019-06-18)**, 2.1.1 · relator **Marcelo Vinaud** · Instauração de processo administrativo ordinário e comissão (3 servidores, 120 dias prorrogáveis) para apurar eventual declaração de caducidade da con → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=AhItQBZ9-D4&t=181s)
+- **RD 815 (2019-06-18)**, 2.1.8 · relator **Marcelo Vinaud** · Audiência Pública 08/2018: relatório final sobre estudos e minuta de aditivo para prorrogação antecipada da concessão da Estrada de Ferro Vitória–Mina → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=AhItQBZ9-D4&t=1441s)
+- **RD 815 (2019-06-18)**, 2.1.9 · relator **Marcelo Vinaud** · Audiência Pública 09/2018: relatório final sobre prorrogação antecipada da concessão da Estrada de Ferro Carajás (EFC) → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=AhItQBZ9-D4&t=1541s)
+- **RD 815 (2019-06-18)**, extrapauta-1 · relator **Marcelo Vinaud** · Aprovação dos estudos técnicos e documentos jurídicos consolidados após a AP 09/2018 sobre prorrogação antecipada da concessão da EFC, com envio ao Mi → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=AhItQBZ9-D4&t=3471s)
+- **RD 815 (2019-06-18)**, extrapauta-2 · relator **Elisabeth Braga** · Aprovação dos estudos técnicos e documentos jurídicos sobre prorrogação antecipada da concessão da EFVM (Portaria MT 399/2015; Res. 4.975/2015; Lei 13 → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=AhItQBZ9-D4&t=3620s)
+- **RD 816 (2019-06-25)**, 2.2.1 · relator **Elisabeth Braga** · Embargos de declaração contra a Del. 434/2019 (retomada das obras da ferrovia e aporte de recursos públicos; Acórdão TCU 1.627/2017?) → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=F6Iun8IyLgw&t=2012s)
+- **RD 816 (2019-06-25)**, 2.3.1 · relator **Weber Ciloni** · Recurso administrativo contra decisão da SUFER sobre a Declaração de Rede 2018 → aprovado por unanimidade — parcial provimento
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=F6Iun8IyLgw&t=2495s)
+- **RD 816 (2019-06-25)**, 2.3.2 · relator **Weber Ciloni** · Ajuste das metas de produção por trecho para 2019 após impactos da ruptura da barragem de Brumadinho → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=F6Iun8IyLgw&t=2635s)
+- **RD 816 (2019-06-25)**, EXTRA-2 · relator **Elisabeth Braga** · Extrapauta: recurso contra a Portaria SUFER 86/2019 que determinou a retomada do transporte ferroviário de combustíveis (Alto Taquari? /Replan/Brasíli → aprovado por unanimidade — recurso improcedente
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=F6Iun8IyLgw&t=3072s)
+- **RD 819 (2019-07-23)**, 2.1.1 · relator **Marcelo Vinaud** · Ajuste das metas de produção por trecho para o exercício de 2019 (altera o anexo I da Deliberação 1.039/2018) → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=aN2OZHj7G1c&t=79s)
+- **RD 819 (2019-07-23)**, 2.2.1 · relator **Elisabeth Braga** · Fusão das tabelas tarifárias de gasolina e óleo diesel em tabela única «combustíveis» → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=aN2OZHj7G1c&t=360s)
+- **RD 819 (2019-07-23)**, 2.3.1 · relator **Davi Barreto** · Prorrogação do prazo da Audiência Pública nº 7/2019 (prorrogação do contrato da MRS Logística) por mais 45 dias, até 3/9/2019 às 18h → aprovado por unanimidade
+  - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=aN2OZHj7G1c&t=1312s)
+- **RD 820 (2019-07-30)**, 2.2.2 · relator **Marcelo Vinaud** · Abertura de audiência pública: resolução sobre transporte ferroviário de cargas por operador ferroviário independente (OFI), revogação da Res. 4.348/2 → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=wTsJa3zoysI&t=1836s)
+- **RD 821 (2019-08-06)**, 2.1.2 · relator **Elisabeth Braga** · Pedido de reconsideração das deliberações ANTT 536 e 537 (metas de segurança e de produção, quinquênio 2018-2022) → conhecido; reconsideração improcedente; unanimidade
+  - votos: Elisabeth: relator; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=i8c3Cjiy9jI&t=457s)
+- **RD 821 (2019-08-06)**, 2.2.6 · relator **Davi Barreto** · Prorrogação de prazo para apresentação de contrato de transporte ferroviário de cargas (bauxita Poços de Caldas a Alumínio-SP) → provimento parcial; novo prazo de 30 dias; unanimidade
+  - votos: Davi: relator; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=i8c3Cjiy9jI&t=1032s)
+- **RD 822 (2019-08-13)**, 2.2.2 · relator **Elisabeth Braga** · Pedido de reconsideração da Deliberação 432/2019 (obrigações e prazos para corrigir inadimplementos contratuais da malha oeste): apreciação preliminar → efeito suspensivo negado por unanimidade; mérito a ser julgado depois
+  - votos: Marcelo: acompanha; Elisabeth: relator; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kMGgTtubwtU&t=553s)
+- **RD 823 (2019-08-20)**, 2.2.4 · relator **Marcelo Vinaud** · Processo administrativo (ferrovia) — retirado de pauta pelo relator → retirado de pauta
+  - votos: Marcelo: relator · [vídeo](https://www.youtube.com/watch?v=6pNMwNpnAP8&t=1110s)
+- **RD 824 (2019-08-27)**, 2.2.2 · relator **Elisabeth Braga** · Pedido de revisão das metas de segurança e de produção por trecho para 2020 → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: relator; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=_1ekxBesJpo&t=900s)
+- **RD 824 (2019-08-27)**, 2.2.3 · relator **Elisabeth Braga** · Ajuste das metas anuais de produção por trecho (2019 a 2022) e pedido de reconsideração da Deliberação 3/2019 → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: relator; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=_1ekxBesJpo&t=1088s)
+- **RD 825 (2019-09-03)**, 2.3.1 · relator **Weber Ciloni** · Pedido de reconsideração da Deliberação 119/2019 (metas de produção 2018-2022) e revisão das metas de produção por trecho para 2019 e 2020 → aprovado por unanimidade — reconsideração negada; revisão das metas parcialmente aprovada
+  - votos: Weber: relator; Elisabeth: acompanha; Davi: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=MeEnP05i-aI&t=396s)
+- **RD 826 (2019-09-10)**, 2.2.1 · relator **Weber Ciloni** · Pedido de reconsideração contra a Deliberação 98/2019 (metas de produção 2019) e pedido de revisão das metas anuais de produção por trecho 2019/2020 → não conhecido o pedido de reconsideração (intempestivo); revisão das metas julgada improce
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=sO5JXVa1a_4&t=250s)
+- **RD 827 (2019-09-17)**, 2.1.1 · relator **Marcelo Vinaud** · Desativação do ramal Desembargador Drumond–Piçarrão e desvinculação da prestação do serviço público de transporte ferroviário de cargas → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kH8jsop2XDs&t=154s)
+- **RD 827 (2019-09-17)**, 2.3.2 · relator **Weber Ciloni** · Prorrogação do prazo (por 180 dias) de habilitação para apresentar contrato de transporte ferroviário de cargas (Deliberação 41/2019) → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kH8jsop2XDs&t=975s)
+- **RD 827 (2019-09-17)**, extrapauta · relator **Weber Ciloni** · Prorrogação por 45 dias da Audiência Pública 13/2019 (revisão das Resoluções 4.348/2014 e 3.695/2011); contribuições até 4/11/2019 às 18h → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kH8jsop2XDs&t=1433s)
+- **RD 828 (2019-09-24)**, 2.3.2 · relator **Weber Ciloni** · Anuência prévia para dação em garantia real de 368 vagões em financiamento junto ao FINAME → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uhDA6l45fTk&t=1237s)
+- **RD 829 (2019-10-01)**, 2.1.1 · relator **Marcelo Vinaud** · Pedido de reconsideração contra a Deliberação 432/2019 (inadimplemento contratual e prazo para correção; Lei 8.987/1995), alterada pela Deliberação 67 → aprovado por unanimidade — pedido conhecido e negado; embargos não conhecidos
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=4qQrSJA_XaM&t=150s)
+- **RD 829 (2019-10-01)**, 2.2.1 · relator **Elisabeth Braga** · Execução de projeto de interesse próprio: duplicação ferroviária entre pátios no trecho Jundiaí–Colômbia (km 158+535 a 168+337, Rio Claro–Itirapina/SP → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=4qQrSJA_XaM&t=438s)
+- **RD 830 (2019-10-08)**, EXTRA-1 · relator **Elisabeth Braga** · Extrapauta: aprovação de memorando de entendimento ANTT–ERA (cooperação por prazo indeterminado) → aprovado por unanimidade
+  - votos: Elisabeth: relator; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=NBtijM4b-LE&t=695s)
+- **RD 831 (2019-10-15)**, 2.1.2 · relator **Elisabeth Braga** · Atendimento às condicionantes da Res. 3.728/2011 e da deliberação de 2013 para autorizações de implantação de obras (nova linha/duplicação da EFC) → aprovado por unanimidade
+  - votos: Elisabeth: relator; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=usWpMZO6DMc&t=150s)
+- **RD 832 (2019-10-22)**, 2.1.1 e 2.2.1 (sigilosos) · relator **Marcelo Vinaud** · Julgamentos já realizados em sessão reservada → julgados em sessão reservada
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=tDrIVnhMZBo&t=155s)
+- **RD 832 (2019-10-22)**, 2.4.1 · relator **Davi Barreto** · Relatório da AP 10/2018 sobre estudos da subconcessão da Ferrovia de Integração Oeste-Leste (FIOL), trecho Ilhéus-Caetité (BA) → aprovado; unanimidade
+  - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=tDrIVnhMZBo&t=811s)
+- **RD 832 (2019-10-22)**, 2.4.2 · relator **Davi Barreto** · Estudos técnicos e jurídicos da subconcessão da FIOL (minutas finais de edital e contrato) → retirado de pauta por uma semana; sem objeção
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=tDrIVnhMZBo&t=930s)
+- **RD 833 (2019-10-30)**, 2.3.2 · relator **Davi Barreto** · Estudos técnicos e jurídicos da subconcessão da FIOL (Ferrovia de Integração Oeste-Leste), trecho Ilhéus - Caetité (BA) → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Weber: acompanha; Davi: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=Ie5Fnfu5VQI&t=2702s)
+- **RD 834 (2019-11-05)**, 2.1.2 · relator **Marcelo Vinaud** · Pedido de revisão das metas de produção de 2020 (Res. 5.831/2018) em razão da instabilidade da demanda de minério de ferro após o rompimento da barrag → deferido por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jtaSxDPBkcE&t=450s)
+- **RD 834 (2019-11-05)**, 2.2.3 · relator **Elisabeth Braga** · Reajuste das tarifas de referência do transporte ferroviário de cargas (período de 2018) → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: relator; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jtaSxDPBkcE&t=915s)
+- **RD 834 (2019-11-05)**, 2.3.1 · relator **Weber Ciloni** · Reajuste das tarifas de referência do transporte ferroviário de cargas (1º/07/2017 a 30/06/2019) → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: acompanha; Weber: relator; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jtaSxDPBkcE&t=1110s)
+- **RD 834 (2019-11-05)**, 2.3.2 · relator **Weber Ciloni** · Reajuste das tarifas de referência do transporte ferroviário de cargas (mesmo período do item anterior) → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: acompanha; Weber: relator; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jtaSxDPBkcE&t=1179s)
+- **RD 834 (2019-11-05)**, 2.3.3 · relator **Weber Ciloni** · Homologação do Sistema de Custos Referenciais Ferroviários (SICFER), contratado com a Fundação Getulio Vargas, para subsidiar orçamentos de projetos e → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: acompanha; Weber: relator; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jtaSxDPBkcE&t=1250s)
+- **RD 835 (2019-11-12)**, 2.2.1 · relator **Elisabeth Braga** · Alteração da Res. 2.493/2007 (comprovação de regularidade fiscal de concessionárias rodoviárias e ferroviárias) → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=NM39E2nZvAs&t=1783s)
+- **RD 835 (2019-11-12)**, 2.3.1 · relator **Davi Barreto** · Execução de projeto de interesse próprio: duplicação entre pátios (km 118+161 a 130+753, trecho Cordeirópolis–Rio Claro/SP) → aprovado por unanimidade
+  - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=NM39E2nZvAs&t=2073s)
+- **RD 836 (2019-11-21)**, 2.4.1 e 2.4.2 (bloco) · relator **Davi Barreto** · Declaração de utilidade pública para ampliação do pátio de Matão (SP); recadastramento de termo de autorização de serviço regular → aprovados por unanimidade (bloco)
+  - votos: Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Davi: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=mCZnsrgrMFE&t=460s)
+- **RD 837 (2019-11-26)**, 2.4.3 · relator **Weber Ciloni** · Decisão judicial sobre ação contra resoluções homologatórias da revisão tarifária (consulta pública 001/2011) → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=3O5viqLvwtg&t=1515s)
+- **RD 837 (2019-11-26)**, extra-1 · relator **Elisabeth Braga** · Proposta de acordo judicial para encerrar ações civis públicas sobre indenização por degradação de trechos devolvidos, cumprida a Res. 4.131/2013 → aprovado; unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=3O5viqLvwtg&t=2258s)
+- **RD 840 (2019-12-17)**, reservados · relator **Marcelo Vinaud** · Seis processos sigilosos julgados ao final da transmissão, em sessão restrita às partes → julgados em sessão reservada (sem registro)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=g9pWxYnVrPA&t=0s)
+- **RD 840 (2019-12-17)**, 2.1.1 · relator **Marcelo Vinaud** · Abertura ao tráfego público ferroviário de cargas dos segmentos de via duplicados da linha-tronco da EFC → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=g9pWxYnVrPA&t=1146s)
+- **RD 840 (2019-12-17)**, 2.1.3 · relator **Marcelo Vinaud** · Pedido de reconsideração da Del. 1.045/2018 (metas de produção 2018–2022) → retirado de pauta
+  - votos: Marcelo: relator · [vídeo](https://www.youtube.com/watch?v=g9pWxYnVrPA&t=1413s)
+- **RD 840 (2019-12-17)**, 2.4.2 · relator **Davi Barreto** · Revisão das taxas de depreciação de vagões e componentes (Res. 4.540/2004? alterada pela 5.9?/2016) → aprovado por unanimidade
+  - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=g9pWxYnVrPA&t=2656s)
+- **RD 841 (2020-01-14)**, 2.2.2 · relator **None** · Anuência prévia para garantia real (234 vagões, cerca de R$ 80,5 milhões) em cédula de crédito bancário de R$ 100 milhões para aquisição de material r → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=bJMyPYl26qE&t=1161s)
+- **RD 841 (2020-01-14)**, 2.2.3 · relator **None** · Autorização de projeto de interesse compartilhado: nova linha de acesso ao ramal de combustíveis do pátio (São Luís/MA), ampliando a capacidade de 60  → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=bJMyPYl26qE&t=1296s)
+- **RD 841 (2020-01-14)**, 2.3.3 · relator **Elisabeth Braga** · Declaração de independência: habilitação da ArcelorMittal para negociar por 180 dias o fluxo de transporte ferroviário de produtos siderúrgicos com a  → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=bJMyPYl26qE&t=1749s)
+- **RD 841 (2020-01-14)**, 2.4.1 · relator **Mário Rodrigues Junior** · Cumprimento de decisão judicial: atualização das resoluções homologatórias da revisão tarifária (Resoluções 3.888/2012 a 3.891/2012) conforme data-bas → aprovado por unanimidade
+  - votos: Mário: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=bJMyPYl26qE&t=2008s)
+- **RD 842 (2020-01-21)**, 2.4.2 · relator **Weber Ciloni** · Pedido de revisão das metas anuais de produção do quinquênio 2019–2022 (Del. 305/2018), com sustentação oral do advogado da concessionária → retirado de pauta (diligência) pelo relator
+  - votos: Weber: relator; Mário: outro; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=AQtsEWWAzts&t=179s)
+- **RD 842 (2020-01-21)**, 2.4.4 (reservado) · relator **Weber Ciloni** · Processo reservado: processo administrativo ordinário → julgado na parte reservada; sem transcrição
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=AQtsEWWAzts&t=180s)
+- **RD 842 (2020-01-21)**, 2.2.2 · relator **Marcelo Vinaud** · Homologação das tarifas de referência do transporte ferroviário de cargas (reajuste de 5,26% para dez/2018–nov/2019, a partir de IGP-DI de 5,86% — val → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=AQtsEWWAzts&t=1442s)
+- **RD 845 (2020-02-11)**, RES-1 · relator **Elisabeth Braga** · Processos reservados/sigilosos julgados ao final, fora da transmissão: 2.3.2 aplicação de penalidade (pedido de reconsideração) — Irmãos Nascimento (r → sigiloso — resultado não divulgado
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=NJFwst6GRTI&t=180s)
+- **RD 845 (2020-02-11)**, 2.4.1 · relator **Weber Ciloni** · Abertura de audiência pública sobre minuta de resolução que atualiza e simplifica as Res. 2.309/2007 e 2.310/2007 (anuência prévia em transferência de → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=NJFwst6GRTI&t=629s)
+- **RD 846 (2020-02-18)**, 2.3 (reservado) · relator **Mário Rodrigues Junior** · Processo reservado: embargos de declaração contra a Deliberação 947 (23/10/2019), com sustentação oral de advogados da concessionária → julgado na parte reservada; sem transcrição
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=U0XA7rHQ4tw&t=180s)
+- **RD 846 (2020-02-18)**, 2.3.1 · relator **Weber Ciloni** · Pedido de revisão das metas anuais de produção 2019–2022 (Del. 35/2018 — legenda), após retirada de pauta na RD 842; sustentação oral → aprovado por unanimidade — recurso conhecido e provido em parte
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=U0XA7rHQ4tw&t=878s)
+- **RD 846 (2020-02-18)**, 2.3.2 · relator **Weber Ciloni** · Registro de usuário dependente do transporte ferroviário de cargas para fluxos de bauxita (Brasília/DF e Poços de Caldas/MG a Alumínio/SP) → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=U0XA7rHQ4tw&t=1526s)
+- **RD 847 (2020-03-03)**, 2.3.1 · relator **Davi Barreto** · Reajuste das tarifas de referência do transporte ferroviário de cargas (cláusula nona, item 9.1, do contrato de subconcessão) → retirado de pauta
+  - votos: Davi: relator; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=YHufn0EJk5g&t=712s)
+- **RD 848 (2020-03-10)**, RES-1 · relator **Weber Ciloni** · Processos reservados/sigilosos: 2.2.? PAD da Corregedoria (relator Weber Ciloni); 2.3.3 Viação Araguarina, aplicação de penalidade (Davi Barreto); 2.3 → sigiloso — resultado não divulgado
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=h231NmlBFOE&t=180s)
+- **RD 848 (2020-03-10)**, 2.2.1 · relator **Weber Ciloni** · Revogação das Deliberações 101/2012 (03/05/2012) e outra de 2016, sobre envio de informações de concessionárias ferroviárias, consideradas fardo regul → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=h231NmlBFOE&t=1834s)
+- **RD 849 (2020-03-24)**, 2.1.4 · relator **Marcelo Vinaud** · Pedido de reconsideração contra a Deliberação 10/2020 (14/01/2020), que habilitou a empresa a negociar fluxo de transporte com a Rumo — retirado de pa → retirado de pauta
+  - votos: Marcelo: outro; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=0TNHuq9u9XE&t=991s)
+- **RD 849 (2020-03-24)**, 2.3.2 · relator **Davi Barreto** · Alteração da Res. 5.857/2019 (regularidade fiscal das concessionárias de rodovias e ferrovias): prorrogação em 2020 do prazo de entrega das certidões → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=0TNHuq9u9XE&t=1631s)
+- **RD 849 (2020-03-24)**, 2.4.2 · relator **Alexandre Porto** · Alteração da data de entrega do relatório anual de acompanhamento do contrato de subconcessão da Ferrovia Norte-Sul (30 de março para 30 de outubro, a → pedido de vista (Weber Ciloni)
+  - votos: Alexandre: relator; Weber: vista · [vídeo](https://www.youtube.com/watch?v=0TNHuq9u9XE&t=2707s)
+- **RD 850 (2020-03-31)**, 2.3.2 · relator **Davi Barreto** · Reajuste das tarifas de referência do transporte ferroviário de cargas da FNS (índice de preços de 2019, legenda ilegível), com reajuste de 7,68% → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=DqfYKnR7JBg&t=1371s)
+- **RD 850 (2020-03-31)**, 2.5.x · relator **Menezes (nome incerto)** · Bloco: paralisação de linha, TAR, DUP casa de pedágio B2 na BR-290 (Santo Antônio da Patrulha/RS) e DUP Ferrovia de Integração Centro-Oeste (GO/MT) → aprovados por unanimidade (em bloco)
+  - votos: Menezes: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=DqfYKnR7JBg&t=1850s)
+- **RD 851 (2020-04-07)**, sigilosos · relator **None** · Processos reservados (art. 78 da Lei 10.233/2001): aplicação de penalidades, embargos de declaração e processo administrativo disciplinar da corregedo → sigiloso (não transmitido)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=185j9FgJSfw&t=93s)
+- **RD 851 (2020-04-07)**, 2.1.3 · relator **Marcelo Vinaud** · Referendo da Resolução 5.879, de 26/03/2020 (flexibilização de prazos de obrigações contratuais e regulatórias por causa do coronavírus em ferrovias d → referendado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=185j9FgJSfw&t=651s)
+- **RD 851 (2020-04-07)**, 2.1.6 · relator **Marcelo Vinaud** · Pedido de reconsideração contra a Deliberação 10/2020, que habilitou a ArcelorMittal a negociar o fluxo de transporte por declaração de independência → reconsideração conhecida, sem efeito suspensivo, e improvida por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=185j9FgJSfw&t=1438s)
+- **RD 851 (2020-04-07)**, 2.1.7 · relator **Marcelo Vinaud** · Recurso administrativo contra decisão da SUFER que declarou descumpridos os prazos das medidas corretivas (Deliberação 432/2018) e sugeriu abertura de → recurso conhecido e improvido, por maioria (Alexandre Porto impedido)
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: outro; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=185j9FgJSfw&t=1631s)
+- **RD 851 (2020-04-07)**, 2.2.1 · relator **Alexandre Porto** · Alteração da data de entrega do relatório anual de acompanhamento (contrato de subconcessão da Ferrovia Norte-Sul, Porto Nacional/TO a Estrela d'Oeste → aprovado por unanimidade
+  - votos: Weber: revisor_acompanha; Davi: revisor_acompanha; Alexandre: relator; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=185j9FgJSfw&t=2018s)
+- **RD 852 (2020-04-14)**, 2.2.1 · relator **Weber Ciloni** · Prorrogação antecipada do contrato de concessão da Malha Paulista → retirado de pauta (unanimidade)
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=cgsrOI4Uxoo&t=375s)
+- **RD 852 (2020-04-14)**, 2.3.1 · relator **Davi Barreto** · Proposta de acordo entre ANTT, União e Rumo Malha Paulista para encerrar litígios administrativos e judiciais do contrato de concessão, como etapa da  → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=cgsrOI4Uxoo&t=439s)
+- **RD 853 (2020-04-28)**, 2.3.3 · relator **Davi Barreto** · Retificação de informações do voto 046/2020 (14/04/2020) que aprovou proposta de acordo entre ANTT, União e Rumo Malha Paulista para encerrar litígios → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=sVbD7HT9Ms0&t=1373s)
+- **RD 853 (2020-04-28)**, 2.5.2 · relator **Menezes (nome incerto)** · Recurso administrativo contra as deliberações 15 a 18/2020 (atualização das tabelas tarifárias ferroviárias da revisão decorrente da Consulta Pública  → aprovado por maioria dos votantes - recurso conhecido e improcedente; efeitos das delibera
+  - votos: Menezes: relator; Weber: acompanha; Davi: acompanha; Alexandre: outro; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=sVbD7HT9Ms0&t=1868s)
+- **RD 854 (2020-05-05)**, 2.3.1 · relator **Davi Barreto** · Revogação da Deliberação nº 29/2016, que regulava a contabilização da indenização por bens devolvidos (Res. 4.131/2013), em razão de acordo judicial h → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=5Wuych4chNY&t=682s)
+- **RD 857 (2020-05-26)**, 2.1.1 · relator **Weber Ciloni** · Prorrogação antecipada do contrato de concessão da Malha Paulista (vigência de 2028 a 2058): estudos técnicos e documentos jurídicos para assinatura d → aprovado (4 votos favoráveis; Alexandre Porto impedido)
+  - votos: Weber: relator; Davi: acompanha; Alexandre: outro; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=L75bt3Bz3xU&t=86s)
+- **RD 858 (2020-06-02)**, 2.1.1 · relator **Marcelo Vinaud** · Resolução com medidas para enfrentamento da emergência de saúde pública da covid-19 nos serviços de transporte rodoviário interestadual e internaciona → aprovado por unanimidade
+  - votos: Marcelo: relator; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=HdygP6lpAeU&t=87s)
+- **RD 858 (2020-06-02)**, 2.2.1 · relator **Menezes (nome incerto)** · Audiência Pública 6/2019: relatório final e minutas de deliberação e resolução sobre o procedimento de comunicação de acidentes e interrupções temporá → pedido de vista (Alexandre Porto)
+  - votos: Menezes: relator; Alexandre: vista · [vídeo](https://www.youtube.com/watch?v=HdygP6lpAeU&t=298s)
+- **RD 859 (2020-06-09)**, 2.3.2 · relator **Alexandre Porto** · Celebração do 5º termo aditivo ao contrato de concessão da Malha Centro-Leste para incorporar o acordo judicial com a União e o MPF (28/11/2019) → aprovado por unanimidade
+  - votos: Alexandre: relator; Davi: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=05mc2Fg9l18&t=690s)
+- **RD 859 (2020-06-09)**, extrapauta-1 · relator **Marcelo Vinaud** · Extrapauta: alteração da Res. 5.893/2020 (medidas de enfrentamento da covid-19 no transporte rodoviário interestadual e ferroviário de passageiros): p → aprovado por unanimidade
+  - votos: Marcelo: relator; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=05mc2Fg9l18&t=867s)
+- **RD 861 (2020-06-23)**, 2.1.1 · relator **Marcelo Vinaud** · Recurso administrativo contra os estudos técnicos da Audiência Pública 14/2017 para a concessão da Ferrogrão (EF-170, Sinop/MT a Itaituba/PA), com ped → aprovado por unanimidade (indeferimento do recurso)
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: outro; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=mBKYTdfpNH0&t=216s)
+- **RD 862 (2020-06-30)**, 2.2.1 · relator **Weber Ciloni** · Manifestação da concessionária sobre a suspensão do transporte de combustíveis (Alto Paraopeba/Pirapora–Montes Claros, entre outros) e análise do cump → aprovado por unanimidade (Alexandre Porto impedido)
+  - votos: Weber: relator; Davi: acompanha; Alexandre: outro; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=WkYsadnFmNU&t=716s)
+- **RD 862 (2020-06-30)**, 2.3.1 · relator **Davi Barreto** · Estudos técnicos e jurídicos para concessão da ferrovia Mato Grosso–Itaituba (EF-170 Ferrogrão) → retirado de pauta (aprovado por unanimidade)
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=WkYsadnFmNU&t=1130s)
+- **RD 863 (2020-07-07)**, 2.4.1 · relator **Eduardo Marra** · Revogação da Res. 2.702/2008, que registrou a Vetorial como usuária com elevado grau de dependência do transporte ferroviário de cargas → aprovado por unanimidade
+  - votos: Eduardo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=5tKzpDjUXM4&t=3069s)
+- **RD 863 (2020-07-07)**, 2.4.3 · relator **Eduardo Marra** · Aprovação do apêndice 4 (PS4) do relatório da Audiência Pública 14/2017 sobre estudos da concessão da Ferrogrão → aprovado por unanimidade (com declaração de impedimento)
+  - votos: Eduardo: relator; Weber: acompanha; Davi: acompanha; Alexandre: outro; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=5tKzpDjUXM4&t=3796s)
+- **RD 863 (2020-07-07)**, 2.2.1 · relator **Davi Barreto** · Aprovação dos estudos técnicos e jurídicos e do plano de outorgas da Ferrogrão (EF-170), trecho Sinop/MT–Miritituba/Itaituba/PA (~933 km), com envio a → aprovado por maioria
+  - votos: Davi: relator; Weber: acompanha; Alexandre: outro; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=5tKzpDjUXM4&t=4137s)
+- **RD 864 (2020-07-14)**, 2.2.1 · relator **Weber Ciloni** · Recurso contra decisão da SUFER sobre ato de usuário dependente do transporte ferroviário; segundo a RD 872, apresentado nesta reunião pelo relator We → pedido de vista de Davi Barreto (inferido da RD 872)
+  - votos: Davi: vista · [vídeo](https://www.youtube.com/watch?v=_RSg6WUtZj0&t=175s)
+- **RD 865 (2020-07-21)**, 2.1.1 · relator **Marcelo Vinaud** · Revogação da Resolução 5.130/2016 (tabela tarifária da Rumo Malha Paulista) com a vigência do 2º termo aditivo ao contrato de concessão → aprovado por unanimidade
+  - votos: Marcelo: relator; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=EFqrNJhKrSo&t=383s)
+- **RD 865 (2020-07-21)**, 2.2.1 · relator **Davi Barreto** · Alteração da Resolução 5.879/2020: prorrogação por 60 dias das medidas de flexibilização de prazos por causa da pandemia (ferrovias, cargas e passagei → aprovado por unanimidade
+  - votos: Davi: relator; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=EFqrNJhKrSo&t=538s)
+- **RD 865 (2020-07-21)**, 2.3.1 · relator **Alexandre Porto** · Audiência Pública 6/2019: relatório final e minuta de resolução sobre apuração e comunicação de acidentes ferroviários e interrupções temporárias de t → aprovado por unanimidade
+  - votos: Alexandre: revisor_acompanha; Davi: revisor_acompanha; Menezes: revisor_acompanha; Marcelo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=EFqrNJhKrSo&t=1581s)
+- **RD 865 (2020-07-21)**, 2.4.2 · relator **Menezes (nome incerto)** · Retomada da Audiência Pública 01/2020: atualização e simplificação das Resoluções 2.309 e 2.310/2007 (transferência de concessão e de controle em conc → aprovado por unanimidade
+  - votos: Menezes: relator; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=EFqrNJhKrSo&t=2499s)
+- **RD 866 (2020-07-28)**, 2.1.11 · relator **None** · Primeiro reajuste tarifário do contrato de subconcessão da Ferrovia Norte-Sul (trecho Porto Nacional/TO – Estrela d'Oeste/SP): reajuste de cerca de 1, → aprovado por unanimidade
+  - votos: Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=p37M8AcTHkc&t=180s)
+- **RD 868 (2020-08-11)**, 2.2.2 · relator **Davi Barreto** · Recurso administrativo contra a Deliberação 314/2020, que aprovou o apêndice 4 do relatório da AP 14/2017 (Ferrogrão); pede nulidade e efeito suspensi → aprovado por unanimidade — recurso conhecido e improvido
+  - votos: Davi: relator; Weber: acompanha; Eduardo: acompanha; Marcelo: acompanha; Alexandre: nao_captado · [vídeo](https://www.youtube.com/watch?v=OwXT6_HIJz0&t=936s)
+- **RD 869 (2020-08-25)**, 2.1.3 · relator **None** · Alteração da Res. 5.893/2020: prorroga por 90 dias, até 31/08/2020 (legenda), as medidas de enfrentamento da covid-19 nos serviços rodoviário interest → aprovado por unanimidade
+  - votos: Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=exs-8j77hXY&t=753s)
+- **RD 871 (2020-09-08)**, 2.2.1 · relator **Weber Ciloni** · Regulamentação da cláusula terceira do contrato de concessão da TLSA (regime de apuração e controle do saldo de capital a retornar e da taxa de retorn → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=zjfsRZ00kT4&t=379s)
+- **RD 871 (2020-09-08)**, extrapauta-1 · relator **Marcelo Vinaud** · Extrapauta: 1º termo aditivo ao contrato de subconcessão da Rumo Malha Central (antecipação de pagamento de parcelas vincendas na cláusula 20 e prazo  → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=zjfsRZ00kT4&t=1127s)
+- **RD 872 (2020-09-15)**, 2.3.2 · relator **Davi Barreto** · Abertura de consulta pública sobre a atualização do cálculo do WACC regulatório (taxa de retorno do fluxo de caixa marginal) para concessões ferroviár → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=zuksv7XVCg8&t=1539s)
+- **RD 872 (2020-09-15)**, 2.3.5 · relator **Weber Ciloni** · Recurso contra decisão da SUFER que indeferiu a expedição de ato de usuário dependente do transporte ferroviário (Res. 3.694/2011) para negociar com M → aprovado por unanimidade (provimento parcial)
+  - votos: Davi: revisor_acompanha; Weber: revisor_acompanha; Alexandre: revisor_acompanha; Eduardo: revisor_acompanha; Marcelo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=zuksv7XVCg8&t=2221s)
+- **RD 872 (2020-09-15)**, 2.4.1 · relator **Alexandre Porto** · Pedido de registro de usuário dependente: clínquer de Arcos/MG a Volta Redonda/RJ pela Ferrovia Centro-Atlântica → aprovado por unanimidade
+  - votos: Alexandre: relator; Davi: acompanha; Eduardo: acompanha; Weber: outro; Marcelo: outro · [vídeo](https://www.youtube.com/watch?v=zuksv7XVCg8&t=2746s)
+- **RD 875 (2020-10-06)**, 2.1.2 · relator **Weber Ciloni** · 4ª revisão extraordinária da Agenda Regulatória 2019/2020 (eixos temáticos 2 e 4: regulamento geral das concessões rodoviárias; RDT e RPMF ferroviário → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=yeArWUIUNCw&t=1872s)
+- **RD 877 (2020-10-27)**, 2.1.1 · relator **Marcelo Vinaud** · Declaração de utilidade pública para desapropriação de área para implantar um triângulo de reversão em Laguna (SC) (apresentado na Reunião Deliberativ → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=GAtL0jed_ZU&t=659s)
+- **RD 877 (2020-10-27)**, EP-1 · relator **Marcelo Vinaud** · Extra-pauta: viabilidade técnica e jurídica do requerimento de relicitação do contrato de concessão da Malha Oeste (Lei 13.448/2017, Decreto 9.957/201 → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=GAtL0jed_ZU&t=3913s)
+- **RD 880 (2020-11-18)**, 2.2.1 · relator **Davi Barreto** · Prorrogação por 120 dias do prazo de conclusão do processo administrativo ordinário contra a Rumo Malha Oeste → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=t5HV1ZgSFw4&t=514s)
+- **RD 880 (2020-11-18)**, 2.3.1 · relator **Alexandre Porto** · Abertura de audiência pública sobre a resolução de reversibilidade de bens em concessões e subconcessões ferroviárias → retirado de pauta
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=t5HV1ZgSFw4&t=947s)
+- **RD 881 (2020-11-24)**, 2.3.1 (reservado) · relator **Davi Barreto** · Detalhamento de descumprimentos contratuais e prazo para correção de irregularidades (processo reservado, relatoria de Davi Barreto), julgado ao final → sigiloso – julgamento fora da transmissão
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=b5hpEOiXfbs&t=230s)
+- **RD 881 (2020-11-24)**, 2.1.1 · relator **Marcelo Vinaud** · Aprovação da revisão nº 2 da 3ª edição do Manual de Contabilidade do serviço público de transporte ferroviário de cargas e passageiros: novas contas p → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=b5hpEOiXfbs&t=251s)
+- **RD 882 (2020-12-02)**, 2.2.1 · relator **Weber Ciloni** · Proposta de edição de súmula para orientar a interpretação de cláusula dos contratos de concessão ferroviária que condiciona a apresentação de pleitos → vista coletiva concedida; deliberação em 08/12/2020 (RD 883)
+  - votos: Weber: relator; Marcelo: outro · [vídeo](https://www.youtube.com/watch?v=sDWtLtsoPCU&t=444s)
+- **RD 882 (2020-12-02)**, 2.4.1 · relator **Alexandre Porto** · Abertura de audiência pública sobre minuta de resolução que regulamenta a reversibilidade de bens nas concessões e subconcessões ferroviárias (contrib → aprovado por unanimidade
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=sDWtLtsoPCU&t=1130s)
+- **RD 882 (2020-12-02)**, EP-1 · relator **Marcelo Vinaud** · Extra-pauta: abertura de audiência pública sobre minuta de resolução que regulamenta a destinação dos recursos para desenvolvimento tecnológico e para → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=sDWtLtsoPCU&t=1315s)
+- **RD 883 (2020-12-08)**, 2.1.1 · relator **Weber Ciloni** · Súmula sobre interpretação da cláusula que condiciona pleitos das concessionárias ferroviárias ao cumprimento das obrigações contratuais (retorno após → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=ZulDOW-0648&t=144s)
+- **RD 884 (2020-12-15)**, 2.3.3 · relator **Davi Barreto** · Audiência Pública nº 13/2019 (legenda diz 03/2019): relatório final e resolução que regulamenta o serviço de transporte ferroviário de cargas não asso → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=SIaolRUffls&t=3131s)
+- **RD 884 (2020-12-15)**, 2.4.2 · relator **Alexandre Porto** · Edital de subconcessão nº 1/2020 da Ferrovia de Integração Oeste-Leste, trecho de 537 km entre Ilhéus e Caetité, e constituição da comissão de outorga → aprovado por unanimidade
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=SIaolRUffls&t=4202s)
+- **RD 884 (2020-12-15)**, 2.4.3 · relator **Alexandre Porto** · Reclamações da concessionária sobre vícios ocultos nos bens da ferrovia (12 processos): reconhecimento parcial → aprovado por unanimidade
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=SIaolRUffls&t=4504s)
+- **RD 884 (2020-12-15)**, 2.5.2 · relator **Eduardo Marra** · Atualização das taxas de depreciação de ativos → aprovado por unanimidade
+  - votos: Eduardo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=SIaolRUffls&t=4901s)
+- **RD 884 (2020-12-15)**, 2.5.3 · relator **Eduardo Marra** · Abertura de audiência pública sobre os estudos de prorrogação antecipada do contrato de concessão e minuta de termo aditivo (Lei 13.448/2017) → aprovado por unanimidade
+  - votos: Eduardo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=SIaolRUffls&t=5091s)
+- **RD 884 (2020-12-15)**, 2.5.4 · relator **Eduardo Marra** · Abertura ao tráfego, em caráter definitivo, do ramal ferroviário de acesso ao Porto Sudeste (Itaguaí/RJ) → aprovado por unanimidade
+  - votos: Eduardo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=SIaolRUffls&t=5284s)
+- **RD 884 (2020-12-15)**, EP-1 · relator **Marcelo Vinaud** · Extrapauta: estudos técnicos e documentos jurídicos para assinatura do termo aditivo de prorrogação antecipada do contrato da EFC (Lei 13.448/2017; Ac → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=SIaolRUffls&t=5805s)
+- **RD 884 (2020-12-15)**, EP-2 · relator **Marcelo Vinaud** · Extrapauta: estudos e documentos jurídicos para assinatura do termo aditivo de prorrogação antecipada da EFVM (Acórdão TCU 1947/2020-Plenário) → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=SIaolRUffls&t=6065s)
 - **RD 885 (2021-01-18)**, 2.1.1 · relator **Weber Ciloni** · Homologação do reajuste das tarifas de referência do transporte ferroviário de cargas da FCA, ≈ 30,06% (IGP-DI/FGV; legenda diz «30 e 1,06 por cento»  → aprovado por unanimidade
   - votos: Weber: relator; Davi: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=KFIPj15oozg&t=191s)
+- **RD 886 (2021-01-28)**, 2.2.1 · relator **Weber Ciloni** · Relatório final da Consulta Pública 02/2020 e atualização do WACC regulatório para contratos de concessão ferroviária (Res. 5.337/2017) → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=3LVmgqbrUNY&t=1074s)
 - **RD 887 (2021-02-02)**, 2.1.1 · relator **Weber Ciloni** · Homologação do reajuste das tarifas de referência do transporte ferroviário de cargas da MRS, período 1/12/2019 a 30/11/2020, pela variação do IGP-M/F → aprovado por unanimidade
   - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=hOUJ7tu8IOM&t=142s)
 - **RD 888 (2021-02-09)**, 2.3.1 · relator **Alexandre Porto** · Pedido de reconsideração contra a Deliberação 523/2020, que deu provimento parcial a 2 das 12 reclamações de vícios ocultos na malha ferroviária (FNS, → aprovado por unanimidade — nega provimento

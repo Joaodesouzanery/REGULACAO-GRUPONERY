@@ -1,13 +1,21 @@
 # Perfil analítico — Menezes (nome incerto) · tema: pedagio_freeflow
 
-**Amostra:** presente em 15 das 15 reuniões analisadas em que há registro de presença/ausência; 10 votos neste tema; 0 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 32 das 34 reuniões analisadas em que há registro de presença/ausência; 17 votos neste tema; 1 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 10 (100% dos votos em que não era relator) · relator 0 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 16 (100% dos votos em que não era relator) · relator 1 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Como relator:** 1/1 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 32/4; regulacao_normativa 26/6; institucional 25/2; participacao_social 16/5; reequilibrio_contratual 14/0; ferrovias 13/5; pedagio_freeflow 10/0; onibus 10/1; leilao_otimizacao 8/2; fiscalizacao_sancoes 8/2; onibus_regular 7/0; judicializacao 5/0; cargas 5/1; tarifa_modicidade 3/0; onibus_semiurbano 3/1
+**Temas (nº de itens em que votou / relatorias):** onibus 71/7; concessoes_rodoviarias 63/11; regulacao_normativa 58/14; institucional 56/6; onibus_regular 53/6; ferrovias 37/9; participacao_social 31/9; reequilibrio_contratual 29/2; judicializacao 26/2; fiscalizacao_sancoes 22/3; cargas 19/6; onibus_fretamento 18/1; pedagio_freeflow 17/1; leilao_otimizacao 15/2; onibus_semiurbano 6/1; tarifa_modicidade 3/0; sandbox_inovacao 1/0
 
 ## Evidências (reunião · item · voto · justificativa)
 
+- **RD 849 (2020-03-24)**, item 2.4.1 — Habilitação como empresa fornecedora do Vale-Pedágio Obrigatório e aprovação de modelos e sistemas operacionais · voto: *de acordo* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=0TNHuq9u9XE&t=2556s) · resultado: aprovado por unanimidade
+- **RD 851 (2020-04-07)**, item 2.4.1 — Homologação do resultado do leilão da BR-101/SC (Paulo Lopes a divisa com o RS), vencido por CCR S.A. com tarifa básica de R$ 1,97 · voto: *de acordo* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=185j9FgJSfw&t=3544s) · resultado: aprovado por unanimidade
+- **RD 851 (2020-04-07)**, item 2.5.1 — Habilitação como fornecedora do vale-pedágio obrigatório em âmbito nacional (Lei 10.209/2001; Res. 2.885/2008) · voto: *relator, aprova a habilitação* (relator, conf. alta) · «requisitos regulamentares atendidos» · [vídeo](https://www.youtube.com/watch?v=185j9FgJSfw&t=3580s) · resultado: aprovado por unanimidade
+- **RD 857 (2020-05-26)**, item 2.2.1 — 9ª revisão ordinária, 12ª revisão extraordinária e reajuste da tarifa básica de pedágio, com sustentação oral da concessionária · voto: *de acordo* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=L75bt3Bz3xU&t=3117s) · resultado: aprovado por unanimidade
+- **RD 65 (extraordinária) (2020-06-25)**, item 1.1.1 — Proposta de revogação do art. 3º da Deliberação nº 964/2019 (30/10/2019), de modo a implementar a redução tarifária de pedágio, em cumprimen · voto: *de acordo* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=cfXPqy10OBk&t=241s) · resultado: aprovado por unanimidade
+- **RD 865 (2020-07-21)**, item 2.2.2 — 12ª revisão ordinária, 12ª extraordinária e reajuste da tarifa básica de pedágio · voto: *de acordo* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=EFqrNJhKrSo&t=983s) · resultado: aprovado por unanimidade
+- **RD 865 (2020-07-21)**, item 2.3.2 — 12ª revisão ordinária, 12ª extraordinária e reajuste anual da tarifa básica de pedágio · voto: *de acordo* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=EFqrNJhKrSo&t=2093s) · resultado: aprovado por unanimidade
 - **RD 891 (2021-03-09)**, item 2.4.1 — Reajuste da tarifa básica de pedágio e autorização de início da cobrança nas praças P3 (Ituiutaba), P4 (Santa Vitória) e P5 (Paranaiguara) · voto: *de acordo* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=avr7ZpONzto&t=1650s) · resultado: aprovado por unanimidade
 - **RD 892 (2021-03-16)**, item 2.1.1 — 24ª revisão ordinária, 10ª revisão extraordinária e reajuste da tarifa básica de pedágio da CRT (BR-116/RJ, Além Paraíba–Teresópolis) · voto: *de acordo* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=_slnrK0MRSw&t=888s) · resultado: aprovado por unanimidade
 - **RD 892 (2021-03-16)**, item 2.1.2 — Minuta de termo aditivo de extensão do prazo contratual da CRT por 18 meses (Lei 13.448, art. 32; Portaria MInfra 3/2021; Res. 5.926/2021),  · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=_slnrK0MRSw&t=2700s) · resultado: aprovado por maioria (voto contrário de Weber Ciloni)

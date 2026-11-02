@@ -1,0 +1,980 @@
+{
+ "meta": {
+  "video_id": "bJMyPYl26qE",
+  "fonte": "legenda automática do YouTube; falantes da legenda são inferidos e frequentemente errados (o presidente da sessão é rotulado Marcelo Fonseca); ts = tempo do vídeo, aproximados para quem só vota de acordo",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "841",
+  "data": "2020-01-14",
+  "formato": "transmissão ao vivo (presencial)",
+  "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Elisabeth Braga",
+   "Weber Ciloni",
+   "Davi Barreto",
+   "Mário Rodrigues Junior"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 16h58; sessão de ~57 min.",
+   "Julgamento de seis processos sigilosos de penalidades ao final da transmissão.",
+   "Elisabeth Braga relata quatro itens (plano de integridade, riscos, ArcelorMittal, fretamentos)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:50",
+   "processo": "",
+   "interessado": "Secretaria da reunião",
+   "assunto": "Aprovação da ata da reunião anterior",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "—",
+   "resultado": "aprovada",
+   "resumo_voto": "Leitura dispensada.",
+   "votos": []
+  },
+  {
+   "id": "sigilosos",
+   "ts": "0:01:16",
+   "processo": "50500.?/2019; 50500.026?/2019; 50500.33?/2017; 50500.32379/2010",
+   "interessado": "Verde Branco Transportes; empresas diversas (Longa e Cia; Conceição; Matriz Transporte; Destaque e Publicidade Transporte)",
+   "assunto": "Seis processos reservados de aplicação de penalidades (art. 78 da Lei 10.233/2001), julgados ao final da transmissão, com sustentação oral da advogada de uma das empresas",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Elisabeth Braga e outros (não identificados na legenda)",
+   "resultado": "sigiloso (não transmitido)",
+   "resumo_voto": "Julgamento reservado, com participação restrita às partes e procuradores; sem conteúdo no vídeo.",
+   "votos": []
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:04:48",
+   "processo": "50500.?/2018 (legenda: 50503...)",
+   "interessado": "Auto Viação Catarinense Ltda., Unesul Transporte Ltda. e Planalto Transportes Ltda.",
+   "assunto": "Transferência de mercados entre as empresas; voto-vista (DG e Weber Ciloni, voto-vista nº 003/2019) sobre a deliberação",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "regulação normativa"
+   ],
+   "relator": "Elisabeth Braga (relatora original); Weber Ciloni (voto-vista); Marcelo Vinaud (alinha-se)",
+   "resultado": "aprovado por unanimidade (deferimento integral)",
+   "resumo_voto": "A relatora original não aprovava na íntegra; após vista, Weber Ciloni propôs o deferimento integral da transferência; o DG, que também pedira vista, alinha-se integralmente ao voto-vista.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o voto-vista de Weber Ciloni (defere integralmente)",
+     "ts": "0:05:10",
+     "justificativa": "alinhamento com o voto-vista de Weber quanto ao deferimento integral",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "voto-vista, defere integralmente a transferência",
+     "ts": "0:05:00",
+     "justificativa": "autor do voto-vista nº 003/2019; defere o pedido na íntegra",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com o voto-vista",
+     "ts": "0:06:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo com o voto-vista",
+     "ts": "0:06:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o voto-vista",
+     "ts": "0:06:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:07:05",
+   "processo": "50500.?/2019",
+   "interessado": "SUPAS",
+   "assunto": "Referendo da Deliberação 1.063, de 13/12/2019 (transferência de mercados da Viação Araguarina para Rápido Federal, por decisão judicial: Brasília, Goiânia, Anápolis, Alexânia, Nerópolis, Paracatu)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Decisão da 4ª Vara Cível de Goiânia (recuperação judicial) ordenou a transferência em 3 dias, com multa de R$ 50 mil por dia; análise concorrencial sem impactos; publicada no DOU em 16/12/2019.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, propõe referendar",
+     "ts": "0:07:05",
+     "justificativa": "urgência por ordem judicial com multa diária; sem impacto concorrencial",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:11:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:11:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:11:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:11:42",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.3",
+   "ts": "0:12:08",
+   "processo": "50500.3?33/2019",
+   "interessado": "SUPAS",
+   "assunto": "Referendo da Deliberação 1.064, de 13/12/2019 (transferência de mercado Brasília-Goiânia da Viação Goiânia para Rápido Federal, por decisão judicial)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Mesma base do 2.1.2 (leilão judicial, ordem da 4ª Vara Cível de Goiânia, multa diária).",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, propõe referendar",
+     "ts": "0:12:08",
+     "justificativa": "urgência por ordem judicial",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:16:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:16:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:16:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:16:22",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:16:55",
+   "processo": "50500.38?6/2019",
+   "interessado": "Superintendência de Governança Regulatória",
+   "assunto": "Alteração da Res. 5.624/2017 (processo de participação e controle social) para adequar à Lei Geral das Agências (Lei 13.848/2019), ao sistema eletrônico SEI e ao sistema próprio de participação social",
+   "tema": [
+    "participação social",
+    "regulação normativa"
+   ],
+   "relator": "não identificado (provável Weber Ciloni)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Três motivos: sistema que consolida a participação social, SEI eliminando processos físicos e Lei 13.848/2019; dispensa de agenda e AIR.",
+   "votos": [
+    {
+     "diretor": "Relator (não identificado)",
+     "voto": "aprova",
+     "ts": "0:17:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:19:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:19:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:19:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:19:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:19:12",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:19:21",
+   "processo": "50500.402744/2019",
+   "interessado": "MRS Logística S.A. e FINAME/BNDES",
+   "assunto": "Anuência prévia para garantia real (234 vagões, cerca de R$ 80,5 milhões) em cédula de crédito bancário de R$ 100 milhões para aquisição de material rodante",
+   "tema": [
+    "ferrovias"
+   ],
+   "relator": "não identificado (provável Weber Ciloni)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Área técnica concluiu pela viabilidade; empresa regular contratualmente; anuência para garantia de R$ 80.509.281,60 em 234 vagões.",
+   "votos": [
+    {
+     "diretor": "Relator (não identificado)",
+     "voto": "aprova",
+     "ts": "0:19:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:21:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:21:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:21:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:21:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:21:22",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3",
+   "ts": "0:21:36",
+   "processo": "50500.38?502/2019",
+   "interessado": "Ferrovia Transnordestina Logística S.A. e Ferrovia Norte-Sul S.A.",
+   "assunto": "Autorização de projeto de interesse compartilhado: nova linha de acesso ao ramal de combustíveis do pátio (São Luís/MA), ampliando a capacidade de 60 para 80 vagões/dia",
+   "tema": [
+    "ferrovias"
+   ],
+   "relator": "não identificado (provável Weber Ciloni)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Elimina gargalo operacional; atende aspectos técnicos; Procuradoria favorável.",
+   "votos": [
+    {
+     "diretor": "Relator (não identificado)",
+     "voto": "aprova",
+     "ts": "0:21:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:23:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:23:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:23:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:23:29",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:23:32",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.4-2.2.5",
+   "ts": "0:23:47",
+   "processo": "50500.340981/2019; 50500.4?653/2019",
+   "interessado": "Águia Transporte e outras; empresas de fretamento",
+   "assunto": "Termos de autorização do serviço regular (2.2.4) e de fretamento (2.2.5) interestaduais/internacionais de passageiros, em bloco",
+   "tema": [
+    "ônibus (fretamento)",
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovado por unanimidade (em bloco)",
+   "resumo_voto": "Deliberado em bloco, votos antecipados.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:24:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:24:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:24:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:24:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:24:42",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:24:59",
+   "processo": "50500.41565/2019-89",
+   "interessado": "AGEST",
+   "assunto": "Plano de Integridade 2020/2021 da ANTT (continuidade do programa de integridade, Decreto 9.203/2017)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Ações de sensibilização e treinamento para prevenção de fraude e corrupção, alinhadas à CGU.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, aprova",
+     "ts": "0:25:10",
+     "justificativa": "dar continuidade ao programa de integridade",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:26:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:26:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:26:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:26:42",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:26:56",
+   "processo": "50500.41565/2019-56",
+   "interessado": "AGEST",
+   "assunto": "Plano anual de gestão de riscos 2020 (Deliberação 087/2017, política de gestão de riscos)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Continuidade do processo de gestão de riscos e priorização dos projetos estratégicos (Deliberação 072/2019).",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, aprova",
+     "ts": "0:27:10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:28:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:28:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:28:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:28:52",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.3",
+   "ts": "0:29:09",
+   "processo": "50500.?/2019",
+   "interessado": "ArcelorMittal Brasil S.A. e Rumo Malha Sul S.A.",
+   "assunto": "Declaração de independência: habilitação da ArcelorMittal para negociar por 180 dias o fluxo de transporte ferroviário de produtos siderúrgicos com a Rumo Malha Sul",
+   "tema": [
+    "ferrovias"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Documentação completa (apresentada em 23/10/2019); Procuradoria sem óbice; habilitada a negociar por 180 dias.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, aprova",
+     "ts": "0:29:20",
+     "justificativa": "documentação atende à legislação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:30:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo, ressaltando que espera mais celeridade na negociação",
+     "ts": "0:30:32",
+     "justificativa": "expansão econômica e compartilhamento de infraestrutura",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:30:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:30:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.4",
+   "ts": "0:31:05",
+   "processo": "50500.21299/2019",
+   "interessado": "Ação Via Brasil Fretamento e Turismo Ltda.",
+   "assunto": "Revogação de termo de autorização por renúncia da empresa",
+   "tema": [
+    "ônibus (fretamento)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Pedido de renúncia apresentado pelo sócio-proprietário, requisitos cumpridos.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, aprova",
+     "ts": "0:31:15",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:32:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:32:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:32:29",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:32:32",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.5",
+   "ts": "0:32:44",
+   "processo": "50500.?/2019",
+   "interessado": "Águia Locação de Veículos Ltda. e outras",
+   "assunto": "Termos de autorização de fretamento interestadual/internacional (em bloco)",
+   "tema": [
+    "ônibus (fretamento)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade (em bloco)",
+   "resumo_voto": "Deliberado em bloco.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, aprova (em bloco)",
+     "ts": "0:32:44",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:33:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:33:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:33:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:33:22",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.1",
+   "ts": "0:33:28",
+   "processo": "50500.12/2011-02",
+   "interessado": "Concessionárias do Grupo 1 (Rumo Malha Sul, Oeste e Paulista)",
+   "assunto": "Cumprimento de decisão judicial: atualização das resoluções homologatórias da revisão tarifária (Resoluções 3.888/2012 a 3.891/2012) conforme data-base de maio de 2019",
+   "tema": [
+    "ferrovias",
+    "reequilíbrio contratual",
+    "judicializacao"
+   ],
+   "relator": "Mário Rodrigues Junior",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Decisão de 14/08/2019 tornou possível aplicar os atos; SUFER atualizou tabelas pelas datas-base mais recentes; Rumo Malha Norte/Central sem tabela homologada; retirado da RD 837 (26/11) para analisar manifestações das concessionárias; Procuradoria confirmou eficácia da decisão e inexistência de ordens judiciais suspensivas.",
+   "votos": [
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "relator, aprova",
+     "ts": "0:34:00",
+     "justificativa": "cumprir decisão judicial; Procuradoria confirma a eficácia da decisão",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:36:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:36:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:36:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:36:09",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.2",
+   "ts": "0:36:46",
+   "processo": "50500.?/2009",
+   "interessado": "DNIT / PRF e concessionárias de rodovias federais",
+   "assunto": "Acordos de cooperação técnica com a Polícia Rodoviária Federal para aparelhamento (verba de aparelhamento da PRF), após recomendação do MPF para excluir a verba dos próximos editais",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções",
+    "institucional"
+   ],
+   "relator": "Mário Rodrigues Junior",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Contratos já previam as verbas, sem ônus novo ao usuário; Procuradoria considerou possível juridicamente com recomendações; importância do combate a furto e roubo de carga.",
+   "votos": [
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "relator, aprova celebrar os acordos",
+     "ts": "0:37:30",
+     "justificativa": "contratos já previam as verbas; sem novo ônus ao usuário; segurança da via",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:40:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo, ressaltando acompanhamento da prestação de contas",
+     "ts": "0:40:15",
+     "justificativa": "morosidade no acompanhamento das prestações de contas dos convênios",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo (comentário: PRF terá de repensar seus convênios, pois haverá contratos novos sem verba)",
+     "ts": "0:40:50",
+     "justificativa": "convênios têm prazo e podem acabar",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:41:20",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.4.3",
+   "ts": "0:41:40",
+   "processo": "50500.135498/2018-77",
+   "interessado": "Universidade Federal Fluminense (UFF)",
+   "assunto": "Prorrogação do TED 04/2018 (planejamento estratégico) até 22/04/2020, sem alteração de valor, com ajuste do plano de trabalho",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Mário Rodrigues Junior",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Procuradoria fez recomendações acatadas; prorrogação para concluir produtos finais.",
+   "votos": [
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "relator, aprova",
+     "ts": "0:41:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:43:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:43:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:43:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:43:39",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.4",
+   "ts": "0:44:00",
+   "processo": "50500.135602/1980? (legenda)",
+   "interessado": "Expresso Transporte e Turismo Ltda.",
+   "assunto": "Pedido de regularização administrativa de linha judicial (Res. 5.5?/2018)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao"
+   ],
+   "relator": "Mário Rodrigues Junior",
+   "resultado": "indeferido por unanimidade (mantida a autorização da Deliberação 988/2018)",
+   "resumo_voto": "SUPAS: a autorização da linha Palace-SP derivou de ato administrativo autônomo (Deliberação 988, 04/12/2018), logo o pedido perdeu o objeto; relator indefere e mantém a autorização, evitando descontinuidade do serviço.",
+   "votos": [
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "relator, indefere o pedido e mantém a autorização",
+     "ts": "0:44:20",
+     "justificativa": "a empresa já tinha autorização administrativa; suspender seria contrassenso e causaria descontinuidade",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo (reforça que as regras de saída do mercado aberto devem ser agilizadas)",
+     "ts": "0:47:04",
+     "justificativa": "grupo de trabalho deve concluir regras de saída para monitorar novos entrantes e antigos",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:47:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:47:53",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:47:56",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.4.5",
+   "ts": "0:48:35",
+   "processo": "50500.426604/2019-38",
+   "interessado": "Júlio César Viagens Ltda. e outras",
+   "assunto": "Termos de autorização de fretamento (em bloco)",
+   "tema": [
+    "ônibus (fretamento)"
+   ],
+   "relator": "Mário Rodrigues Junior",
+   "resultado": "aprovado por unanimidade (em bloco)",
+   "resumo_voto": "Deliberado em bloco.",
+   "votos": [
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "relator, aprova (em bloco)",
+     "ts": "0:48:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:49:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:49:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:49:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:49:19",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.5.1",
+   "ts": "0:49:52",
+   "processo": "50500.393248/2019",
+   "interessado": "SUROC",
+   "assunto": "Audiência Pública 17/2019: relatório final e minuta de resolução do piso mínimo do frete (quilômetro rodado; coeficientes; Política Nacional de Pisos Mínimos do TRC)",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "participação social",
+    "regulação normativa"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Fim do ciclo regulatório, vigência a partir de 20/01/2020 (Lei 13.703/2018); atualização de preços dos insumos, incorporação de custos, tempo de carga e descarga de cinco horas para veículos de dois eixos e três horas na categoria de operação de transporte; discussões sobre velocidade média, mediana versus primeiro quartil, salários e vida útil; metodologia seguirá sendo aperfeiçoada.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:50:30",
+     "justificativa": "atualização dos insumos e dos coeficientes com base na audiência pública; ciclo anual exigido por lei",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:51:45",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:51:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Diretor não identificado",
+     "voto": "de acordo, mas questiona o escopo da resolução sobre tempos de carga e descarga (parâmetros usados no cálculo do piso, sem fixar tempos)",
+     "ts": "0:53:34",
+     "justificativa": "resolução não deve extrapolar o âmbito legal da agência; tempos mínimos e máximos são premissas de cálculo",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:54:10",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.5.2-2.5.4",
+   "ts": "0:54:34",
+   "processo": "50500.430767/2019; 50500.000421/2020; 50500.415082/2019-49",
+   "interessado": "J. Vidotti e Cia. e outras; Campo Belo Viagens e Turismo e outras; Concessionária das Rodovias Integradas do Sul S.A.",
+   "assunto": "Recadastramento de fretamento (2.5.2 e 2.5.3) e declaração de utilidade pública de bens para base operacional e SAU na BR-101, Dom Pedro de Alcântara/RS (2.5.4), em bloco",
+   "tema": [
+    "ônibus (fretamento)",
+    "concessões rodoviárias"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade (em bloco)",
+   "resumo_voto": "Deliberado em bloco.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova (em bloco)",
+     "ts": "0:54:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:55:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:55:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:55:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:55:42",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.1-3.2",
+   "ts": "0:55:57",
+   "processo": "50500.134639/2018-26; 50500.30923/2019-64",
+   "interessado": "—",
+   "assunto": "Pedidos de cancelamento de distribuição de processos (despachos de assuntos gerais)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "—",
+   "resultado": "aprovado (sem debate)",
+   "resumo_voto": "Assuntos gerais.",
+   "votos": []
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática de qualidade muito baixa nesta reunião; nomes dos diretores distorcidos (Weber Ciloni como 'Simone/Tomar/tabet', Elisabeth Braga como 'Elizabeth Murad/Braga', Mário Rodrigues Junior como 'marido/Mário/vértice nome'). Identidade por contexto e hipótese; Mário Rodrigues Junior e Elisabeth Braga marcados com confiança menor.",
+  "Relatores dos itens 2.2.x e atribuições de falas de comentário (2.4.2, 2.4.4, 2.5.1) são inferidas; confiança baixa.",
+  "Números de processo muito incompletos (marcados com ?). O ts das votações 'de acordo' é aproximado.",
+  "Itens sigilosos (aplicações de penalidade) julgados após a transmissão, sem conteúdo; os nomes das empresas na legenda estão corrompidos.",
+  "Valores (R$ 80,5 milhões, 234 vagões, 5 horas de carga/descarga) são da legenda e podem estar errados."
+ ]
+}

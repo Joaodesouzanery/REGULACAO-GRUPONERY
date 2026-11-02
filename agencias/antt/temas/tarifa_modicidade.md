@@ -1,5 +1,7 @@
 # Itens do tema «tarifa_modicidade» (todos os diretores)
 
+- **RD 819 (2019-07-23)**, 2.2.1 · relator **Elisabeth Braga** · Fusão das tabelas tarifárias de gasolina e óleo diesel em tabela única «combustíveis» → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=aN2OZHj7G1c&t=360s)
 - **RD 891 (2021-03-09)**, 2.4.1 · relator **Eduardo Marra** · Reajuste da tarifa básica de pedágio e autorização de início da cobrança nas praças P3 (Ituiutaba), P4 (Santa Vitória) e P5 (Paranaiguara) → aprovado por unanimidade
   - votos: Eduardo: relator; Weber: acompanha; Davi: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=avr7ZpONzto&t=1380s)
 - **RD 896 (2021-04-13)**, 2.3.2 · relator **Eduardo Marra** · 13ª revisão ordinária, 13ª revisão extraordinária e reajuste anual da tarifa básica de pedágio → aprovado por unanimidade

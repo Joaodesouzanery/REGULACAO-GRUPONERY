@@ -1,14 +1,21 @@
 # Perfil analítico — Menezes (nome incerto) · tema: leilao_otimizacao
 
-**Amostra:** presente em 15 das 15 reuniões analisadas em que há registro de presença/ausência; 8 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 32 das 34 reuniões analisadas em que há registro de presença/ausência; 15 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 6 (100% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 13 (100% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 2/2 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 32/4; regulacao_normativa 26/6; institucional 25/2; participacao_social 16/5; reequilibrio_contratual 14/0; ferrovias 13/5; pedagio_freeflow 10/0; onibus 10/1; leilao_otimizacao 8/2; fiscalizacao_sancoes 8/2; onibus_regular 7/0; judicializacao 5/0; cargas 5/1; tarifa_modicidade 3/0; onibus_semiurbano 3/1
+**Temas (nº de itens em que votou / relatorias):** onibus 71/7; concessoes_rodoviarias 63/11; regulacao_normativa 58/14; institucional 56/6; onibus_regular 53/6; ferrovias 37/9; participacao_social 31/9; reequilibrio_contratual 29/2; judicializacao 26/2; fiscalizacao_sancoes 22/3; cargas 19/6; onibus_fretamento 18/1; pedagio_freeflow 17/1; leilao_otimizacao 15/2; onibus_semiurbano 6/1; tarifa_modicidade 3/0; sandbox_inovacao 1/0
 
 ## Evidências (reunião · item · voto · justificativa)
 
+- **RD 851 (2020-04-07)**, item 2.2.2 — Audiência Pública 12/2019: minutas de edital, contrato e Programa de Exploração da Rodovia para a concessão da BR-153/414/080 (Tocantins/Goi · voto: *de acordo* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=185j9FgJSfw&t=2548s) · resultado: aprovado por unanimidade
+- **RD 851 (2020-04-07)**, item 2.4.1 — Homologação do resultado do leilão da BR-101/SC (Paulo Lopes a divisa com o RS), vencido por CCR S.A. com tarifa básica de R$ 1,97 · voto: *de acordo* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=185j9FgJSfw&t=3544s) · resultado: aprovado por unanimidade
+- **RD 854 (2020-05-05)**, item 2.4.2 — Relatório da Audiência Pública nº 15/2019 e encaminhamento ao Ministério da Infraestrutura do plano de outorga para concessão do Sistema Rod · voto: *de acordo* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=5Wuych4chNY&t=2205s) · resultado: aprovado por unanimidade
+- **RD 862 (2020-06-30)**, item 2.1.1 — Pedido da CCR de inclusão de cláusula na minuta do contrato de concessão da BR-101/SC que atribuísse ao poder concedente os riscos da pandem · voto: *de acordo* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=WkYsadnFmNU&t=476s) · resultado: aprovado por unanimidade — pedido indeferido
+- **RD 862 (2020-06-30)**, item 2.1.2 — Emissão do ato de outorga e autorização para assinar o contrato do Edital nº 2/2019 (BR-101/SC, km 244+680 a divisa SC/RS), com desconto de  · voto: *de acordo* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=WkYsadnFmNU&t=710s) · resultado: aprovado por unanimidade
+- **RD 862 (2020-06-30)**, item 2.3.1 — Estudos técnicos e jurídicos para concessão da ferrovia Mato Grosso–Itaituba (EF-170 Ferrogrão) · voto: *de acordo com a retirada* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=WkYsadnFmNU&t=1180s) · resultado: retirado de pauta (aprovado por unanimidade)
+- **RD 865 (2020-07-21)**, item 2.2.3 — Qualificação do contrato de concessão da BR-163/MS para relicitação (Lei 13.448/2017; Decreto 9.957/2019) · voto: *de acordo* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=EFqrNJhKrSo&t=1553s) · resultado: aprovado por unanimidade
 - **RD 892 (2021-03-16)**, item 2.2.2 — Edital de concessão do sistema rodoviário das BR-163/230 (MT-PA) - retirado de pauta · voto: *de acordo* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=_slnrK0MRSw&t=3088s) · resultado: retirado de pauta (unânime)
 - **RD 894 (2021-03-30)**, item extrapauta — Extrapauta (inclusão aprovada por unanimidade por relevância e urgência): aprovação do edital de concessão das BR-163/230 (Mato Grosso–Pará) · voto: *de acordo* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=ZrX6XBJsIXo&t=2673s) · resultado: aprovado por unanimidade
 - **RD 901 (2021-05-18)**, item 2.1.1 — Primeiro termo aditivo ao contrato de concessão (edital 5/2013) para obrigações da relicitação do trecho da BR-163/MS, conforme qualificação · voto: *de acordo* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=LlN-qKuCLyE&t=306s) · resultado: aprovado por unanimidade

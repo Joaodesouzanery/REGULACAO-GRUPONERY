@@ -1,0 +1,309 @@
+{
+ "meta": {
+  "video_id": "zjfsRZ00kT4",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "871",
+  "data": "2020-09-08",
+  "formato": "videoconferência (transmitida ao vivo no YouTube)",
+  "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral em exercício)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Weber Ciloni",
+   "Davi Barreto",
+   "Alexandre Porto",
+   "Eduardo Marra"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Barreto não votou a ata da reunião 870 por ter estado de férias naquela reunião.",
+   "Parte pública encerrada às 16h13 (legenda); em seguida julgamento dos três processos reservados, não transcritos.",
+   "Na 2.2.1 o relator Weber Ciloni cita pedidos de retirada de pauta e de sobrestamento da TLSA, ambos negados."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1",
+   "ts": "0:03:14",
+   "processo": "50500.075856/2007-51",
+   "interessado": "Superintendência de Governança, Planejamento e Articulação Institucional (SUGOV)",
+   "assunto": "Alteração da Res. 5.624/2017 (processo de participação e controle social): manifestação da Procuradoria passa a ser obrigatória ao final do PPCS (ajuste de erro material do art. 26 §6º diante do novo Regimento Interno)",
+   "tema": [
+    "participação social",
+    "regulação normativa"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Alinha a Res. 5.624/2017 ao art. 20 do Regimento Interno, que tornou conclusiva a manifestação jurídica em propostas normativas; antes da consulta/audiência pública a manifestação continua facultativa. Procuradoria viu possibilidade jurídica e sugeriu aperfeiçoamentos, acatados.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:05:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:05:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:05:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:05:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:06:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:06:19",
+   "processo": "50500.316553/2017-37",
+   "interessado": "Superintendência de ferrovias (gerência financeira, nome incerto); concessionária Transnordestina Logística S.A. (TLSA)",
+   "assunto": "Regulamentação da cláusula terceira do contrato de concessão da TLSA (regime de apuração e controle do saldo de capital a retornar e da taxa de retorno de 6,75% a.a. sobre o capital próprio), atendendo acórdão do TCU",
+   "tema": [
+    "ferrovias",
+    "regulação normativa",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Relator rejeita os pedidos da TLSA de retirada de pauta (prazo já concedido aos novos diretores da empresa) e de sobrestamento até o fim do grupo de trabalho externo (a norma pode ser alterada depois). Contrato prorrogado até 2057, extinguindo-se ao atingir 6,75% a.a. de retorno; norma disciplina relatório auxiliar da TLSA, auditoria independente, prazo de 60 dias da ANTT para comunicar o saldo. Propõe regulamentar por deliberação e recomenda provocação da Corregedoria sobre o atraso da regulamentação.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:13:00",
+     "justificativa": "atender acórdão do TCU; assimetria de informação entre regulador, concessionária e acionistas; instrumento (deliberação) adequado conforme art. 121 do Regimento Interno",
+     "tom": "firme",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:14:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:14:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:14:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:14:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:14:40",
+   "processo": "50500.045572/2015-?? (parcial na legenda)",
+   "interessado": "SUGOV",
+   "assunto": "Revogação da Deliberação 85/2016 e aprovação da 3ª edição do Manual de AIR e de Avaliação de Resultado Regulatório; voto-vista nº 17/2020",
+   "tema": [
+    "regulação normativa",
+    "institucional"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "aprovado por unanimidade (conforme o voto-vista)",
+   "resumo_voto": "Processo sorteado a Alexandre Porto (voto eletrônico nº 039/2020 em junho); na reunião 860 houve pedido de vista. O voto-vista incorpora ajustes após o Decreto 10.411 (30/06/2020, regulamenta a AIR) e correções formais; metodologias do art. 7º do decreto (razoabilidade do impacto econômico) ficam para edições futuras, pois a lista é exemplificativa. Concorda com a minuta da área técnica e revoga a Deliberação 85/2016.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator original, acompanha voto-vista",
+     "ts": "0:17:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo, conforme o relator",
+     "ts": "0:17:56",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo com o voto-vista",
+     "ts": "0:18:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com o voto-vista",
+     "ts": "0:18:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "autor/apresenta o voto-vista (identificação incerta)",
+     "ts": "0:15:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "extrapauta-1",
+   "ts": "0:18:47",
+   "processo": "50500.041387/2011-20 (número incerto)",
+   "interessado": "Concessionária Rumo Malha Central S.A. (subconcessão Ferrovia Norte-Sul)",
+   "assunto": "Extrapauta: 1º termo aditivo ao contrato de subconcessão da Rumo Malha Central (antecipação de pagamento de parcelas vincendas na cláusula 20 e prazo do relatório anual de acompanhamento na subcláusula 3.11)",
+   "tema": [
+    "ferrovias",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Proposta de assumir compensação ambiental e plantio compensatório nos trechos Porto Nacional–Anápolis e Ouro Verde–Estrela d Oeste foi excluída: Procuradoria entendeu inadequada a apreciação pela diretoria; mantidas apenas a possibilidade de pagamento antecipado de parcelas (a pedido da Rumo, julho/2020) e a alteração do prazo do relatório anual.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:21:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:21:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo com a inclusão e o mérito",
+     "ts": "0:21:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:21:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:21:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.1",
+   "ts": "0:21:44",
+   "processo": "50500.332951/2016-58",
+   "interessado": "Despacho/Deliberação 873 de 19/08/2020 (reunião eletrônica nº 13)",
+   "assunto": "Assuntos gerais: pedido de cancelamento da distribuição (art. 67 do Regimento Interno) de processo apresentado na reunião deliberativa eletrônica nº 13 por Davi Barreto",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Cancelamento de distribuição de processo apresentado em reunião eletrônica (21 a 28/08/2020) em que houve abstenção; pautado na presencial.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:22:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:22:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:22:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:22:24",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2 (reservado)",
+   "ts": "0:23:53",
+   "processo": "50500.471346/2016-00",
+   "interessado": "Concessionária da Ponte Rio-Niterói S.A.",
+   "assunto": "Processo reservado: recurso administrativo, aplicação de penalidade",
+   "tema": [
+    "fiscalização e sanções",
+    "concessões rodoviárias"
+   ],
+   "relator": "não identificado (item do Diretor-Geral em exercício)",
+   "resultado": "julgado após a transmissão (parte reservada); sem transcrição",
+   "resumo_voto": "Julgamento sigiloso fora da gravação (art. 78-B da Lei 10.233/2001 e art. 71 §1º do Regimento).",
+   "votos": []
+  },
+  {
+   "id": "2.2.2 (reservado)",
+   "ts": "0:23:53",
+   "processo": "50500.290?92/2013-91",
+   "interessado": "Concessionária da Rodovia Osório–Porto Alegre",
+   "assunto": "Processo reservado: recurso administrativo, aplicação de penalidade",
+   "tema": [
+    "fiscalização e sanções",
+    "concessões rodoviárias"
+   ],
+   "relator": "não identificado",
+   "resultado": "julgado após a transmissão (parte reservada); sem transcrição",
+   "resumo_voto": "Julgamento sigiloso fora da gravação.",
+   "votos": []
+  },
+  {
+   "id": "2.2.3 (reservado)",
+   "ts": "0:23:53",
+   "processo": "50500.031287/2015-41",
+   "interessado": "Concessionária Rio–Teresópolis (CRT)",
+   "assunto": "Processo reservado: recurso administrativo, aplicação de penalidade",
+   "tema": [
+    "fiscalização e sanções",
+    "concessões rodoviárias"
+   ],
+   "relator": "não identificado",
+   "resultado": "julgado após a transmissão (parte reservada); sem transcrição",
+   "resumo_voto": "Julgamento sigiloso fora da gravação.",
+   "votos": []
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Os nomes dos diretores na legenda saem muito distorcidos (ex.: «Vera Simone», «deve silonio» = Weber Ciloni; «Menezes», «amarra», «mancha de menezes» = provavelmente Eduardo Marra; «Marcelo vinor/renovo» = Marcelo Vinaud); atribuição por contexto e pela ordem das votações.",
+  "O rótulo de falante {Marcelo Fonseca} no .md é erro da inferência automática: quem preside é o Diretor-Geral em exercício Marcelo Vinaud.",
+  "A legenda não traz número de item de forma confiável; ids seguem o que se ouve na leitura da secretaria.",
+  "Item 2.2.1: números de processo, o termo «Superintendência» da área técnica e valores percentuais estão confusos na legenda; interessada: TLSA.",
+  "Item 2.3.1: não é possível afirmar com certeza quem foi o relator original e quem apresentou o voto-vista nº 17/2020; atribuído a Alexandre Porto o sorteio, e a Davi Barreto a apresentação do voto-vista, com confiança baixa; Barreto não aparece na lista de votantes.",
+  "Relatores de 2.1.1 e do extrapauta (Vinaud) deduzidos por ele presidir e não aparecer na lista de votos.",
+  "Processos reservados: só número parcial e partes, sem votos."
+ ]
+}

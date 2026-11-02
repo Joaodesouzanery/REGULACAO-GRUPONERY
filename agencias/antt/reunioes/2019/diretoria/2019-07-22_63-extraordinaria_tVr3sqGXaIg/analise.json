@@ -1,0 +1,28 @@
+{
+  "meta": {"video_id": "tVr3sqGXaIg", "fonte": "legenda automática do YouTube; falantes inferidos (o rótulo automático «Marcelo Fonseca» é equivocado para 2019); ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "63 (extraordinária)", "data": "2019-07-22", "formato": "presencial",
+    "presidente_da_sessao": "Mário Rodrigues Junior (Diretor-Geral) — inferido; a abertura não traz o nome na legenda",
+    "diretores_presentes": ["Mário Rodrigues Junior", "Marcelo Vinaud", "Davi Barreto", "Elisabeth Braga"],
+    "ausentes": ["um diretor em gozo de férias (nome ininteligível na legenda)"],
+    "observacoes": ["Reunião extraordinária com um único item: suspensão cautelar da Resolução 5.849/2019 (piso mínimo do frete), a pedido do Ministério da Infraestrutura (Ofício 4/2019), diante de risco de nova greve de caminhoneiros.", "Quatro diretores aptos a deliberar; encerrada às 17h45."]
+  },
+  "itens": [
+    {
+      "id": "2.1.1", "ts": "0:00:58",
+      "processo": "50500.309522/2019-41 (número incerto na legenda)", "interessado": "SUROC (Superintendência de Serviços de Transporte Rodoviário e Multimodal de Cargas)",
+      "assunto": "Suspensão cautelar da Resolução 5.849, de 16/07/2019 (metodologia e pisos mínimos do frete no transporte rodoviário de cargas), a pedido do Ministério da Infraestrutura",
+      "tema": ["transporte rodoviário de cargas (piso mínimo do frete/CIOT)", "regulação normativa", "judicializacao"],
+      "relator": "Davi Barreto", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Relator vota por suspender cautelarmente a Resolução 5.849/2019 até nova deliberação da Diretoria, mantendo vigente a Resolução 5.820/2018. Fundamentos: poder geral de cautela (Lei 9.784, art. 45; teoria dos poderes implícitos); fumaça do bom direito (art. 3º pode gerar confusão entre valor do frete e piso mínimo, p.ex. exclusão do pedágio do cálculo e ausência de margem de lucro para autônomos); perigo da demora (ameaça de paralisação e insatisfação de parcela dos agentes).",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "relator, aprova suspensão cautelar", "ts": "0:10:57", "justificativa": "poder geral de cautela; possíveis falhas de redação no art. 3º (pedágio, lucro) e risco de nova greve de caminhoneiros", "confianca": "alta"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo com o relator", "ts": "0:11:26", "confianca": "media"},
+        {"diretor": "Elisabeth Braga", "voto": "de acordo com o relator", "ts": "0:11:30", "confianca": "media"},
+        {"diretor": "Mário Rodrigues Junior", "voto": "de acordo com o relator", "ts": "0:11:32", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática muito ruidosa: número do processo, nomes e números de resoluções aproximados.", "Nome «Marcelo Vinaud» legendado como “marcelo noll”; o diretor ausente por férias não é identificável na legenda.", "Quem presidiu a sessão é inferido (Diretor-Geral na época)."]
+}

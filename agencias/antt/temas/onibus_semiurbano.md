@@ -1,5 +1,33 @@
 # Itens do tema «onibus_semiurbano» (todos os diretores)
 
+- **RD 802 (2019-03-12)**, 2.3.3 · relator **Weber Ciloni** · Pedido de reconsideração — manutenção do mercado Andradina–Três Lagoas (SP/MS) → aprovado por unanimidade — pedido negado
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=5ae0Rbnbnl4&t=2359s)
+- **RD 805 (2019-04-02)**, 3.1 · relator **Marcelo Vinaud** · Cancelamento/devolução de pedido de reconsideração: serviço Três Lagoas (MS)-Andradina (SP), tratado como semiurbano → devolvido à SUPAS (sem objeção)
+  - votos: Marcelo: relator · [vídeo](https://www.youtube.com/watch?v=ss0AizFiKWA&t=3807s)
+- **RD 808 (2019-04-23)**, 2.3.2 · relator **Weber Ciloni** · Prorrogação das autorizações especiais do serviço semiurbano interestadual de passageiros e revogação das Resoluções 5836/2018 e 5837/2018 (legenda: 5 → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=hs8snDKlt_c&t=420s)
+- **RD 813 (2019-06-04)**, 2.4.3 · relator **Weber Ciloni** · Audiência Pública 16/2018: relatório final sobre nova metodologia tarifária para o semiurbano e revisão tarifária (Taguatur) → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=ydYYojzjVn4&t=2365s)
+- **RD 818 (2019-07-16)**, 2.1.6 · relator **Elisabeth Braga** · Abertura de audiência pública: minuta de resolução sobre esquema operacional e modificação do serviço regular interestadual semiurbano → aprovada abertura da AP; unanimidade
+  - votos: Elisabeth: relator; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=Ve-A2CB2qb4&t=539s)
+- **RD 831 (2019-10-15)**, 2.2.3 · relator **Weber Ciloni** · Segundo termo aditivo ao convênio de delegação 001/2016: gestão, regulação e fiscalização do serviço rodoviário interestadual semiurbano Timon (MA) -  → aprovado por unanimidade
+  - votos: Elisabeth: acompanha; Weber: relator; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=usWpMZO6DMc&t=1002s)
+- **RD 839 (2019-12-11)**, 2.2.1 · relator **Marcelo Vinaud** · Audiência Pública 11/2019: aprovação do relatório e da resolução sobre esquema operacional e regras de modificação do serviço regular semiurbano inter → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=7gL6wMFBa0w&t=945s)
+- **RD 848 (2020-03-10)**, 2.1.1 · relator **Marcelo Vinaud** · Referendo da Deliberação 104/2020 (20/02/2020): reajuste do coeficiente tarifário dos serviços semiurbanos interestaduais e internacionais de passagei → aprovado por unanimidade — referendo
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=h231NmlBFOE&t=1048s)
+- **RD 848 (2020-03-10)**, 2.1.2 · relator **Marcelo Vinaud** · Referendo da Deliberação 105/2020: reajuste do coeficiente tarifário dos serviços semiurbanos do Contrato de Permissão nº 01/2015 (cerca de 6,9%) → aprovado por unanimidade — referendo
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=h231NmlBFOE&t=1220s)
+- **RD 856 (2020-05-19)**, 2.1.1b · relator **Davi Barreto** · Alteração da Res. 5.879/2020 (flexibilização de prazos para cumprimento de obrigações contratuais e regulatórias por causa da pandemia) para prorrogar → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=mjm6V4571wA&t=286s)
+- **RD 861 (2020-06-23)**, 2.3.1 · relator **Alexandre Porto** · Celebração de convênio de delegação ao GDF da regulação e fiscalização do transporte rodoviário interestadual semiurbano coletivo de passageiros na RI → aprovado por unanimidade
+  - votos: Alexandre: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=mBKYTdfpNH0&t=741s)
+- **RD 863 (2020-07-07)**, 2.4.2 · relator **Eduardo Marra** · Convênio de delegação ao consórcio da gestão, regulação e fiscalização do transporte rodoviário interestadual semiurbano de passageiros entre Mafra (S → aprovado por unanimidade
+  - votos: Eduardo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=5tKzpDjUXM4&t=3249s)
+- **RD 869 (2020-08-25)**, 2.1.3 · relator **None** · Alteração da Res. 5.893/2020: prorroga por 90 dias, até 31/08/2020 (legenda), as medidas de enfrentamento da covid-19 nos serviços rodoviário interest → aprovado por unanimidade
+  - votos: Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=exs-8j77hXY&t=753s)
+- **RD 881 (2020-11-24)**, Extrapauta · relator **Alexandre Porto** · Prorrogação das medidas de enfrentamento da covid-19 no transporte rodoviário interestadual, internacional e semiurbano de passageiros (flexibilização → aprovado por unanimidade
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=b5hpEOiXfbs&t=1645s)
 - **RD 889 (2021-02-23)**, 2.1.3 · relator **Weber Ciloni** · Reajuste de 1,033% (IPCA) sobre o coeficiente tarifário do serviço semiurbano interestadual, vigência a partir de 28/2/2021 → aprovado por unanimidade
   - votos: Weber: relator; Davi: acompanha; Eduardo: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=Ry_MleO7hwU&t=642s)
 - **RD 889 (2021-02-23)**, 2.1.4 · relator **Weber Ciloni** · Reajuste de 4,14% sobre o coeficiente tarifário dos serviços semiurbano interestadual e internacional operados por autorização especial; vigência a pa → aprovado por unanimidade

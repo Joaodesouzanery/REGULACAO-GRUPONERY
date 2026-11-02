@@ -6,10 +6,12 @@
 3. **O que viaja com o repositório:** transcrições, análises, banco, perfis, scripts, instruções, estado e pendências. **O que NÃO viaja:** a memória da conversa, as permissões do seu Mac, e a tarefa agendada semanal (pertence à sua conta: recriar com «crie uma tarefa semanal de monitoramento» + o texto em `docs/tarefa_semanal.txt`).
 4. O download de transcrições novas continua sendo no Mac (veja `CLAUDE.md`).
 
-## Estado (atualize ao fim de cada sessão)
-- Atualizado em 01/11/2026. Fonte da verdade do estado: `COBERTURA.md` (publicado × transcrito × analisado) e `sem_transcricao.md`.
-- ANTT: reuniões de diretoria analisadas de jan/2023 a out/2026 (120 reuniões, ≈ 3.800 votos). Em andamento: 2022, depois 2021, 2020, 2019 (limite: 2019). Audiências, participativas e workshops: indexados como fala literal e menções a diretores; sem análise item a item.
-- Pendências conhecidas: datas oficiais de posse/término (ver `data/mandatos.json`, `verificar`); itens sigilosos sem votos; RD 1042 (28/09/2026) só tem música.
+## Estado (atualizado em 02/11/2026)
+- Fonte da verdade do estado: `COBERTURA.md` (publicado × transcrito × analisado) e `sem_transcricao.md`.
+- ANTT: **todas** as reuniões de diretoria com transcrição estão analisadas, de 2019 a out/2026: 281 reuniões, ≈ 2.350 itens, ≈ 9.250 votos de 20 diretores/substitutos. Única de diretoria sem análise: RD 1042 (28/09/2026), só música.
+- Audiências (202), participativas (66), workshops (6) e romeiros (1): transcritos e indexados como fala literal (`consulta.py trecho`) e menções a diretores (`consulta.py falas`); **sem análise item a item** (próximo passo possível).
+- Pendências: datas oficiais de posse/término (ver `data/mandatos.json`, campo `verificar`); nomes incertos de 2019–2021 («Menezes», grafias de Weber Ciloni, Eduardo Marra) a confirmar no DOU; itens sigilosos sem votos; conferência por amostra das análises (feitas em paralelo por agentes, com campo de confiança).
+- Monitoramento: tarefa semanal na nuvem (texto em `docs/tarefa_semanal.txt`) + agendamento no Mac (`pipeline/instalar_agendamento_mac.sh`).
 
 ## Comandos
 ```

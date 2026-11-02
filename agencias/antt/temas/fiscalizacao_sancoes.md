@@ -1,5 +1,429 @@
 # Itens do tema «fiscalizacao_sancoes» (todos os diretores)
 
+- **RD 802 (2019-03-12)**, 2.1.3 · relator **Marcelo Vinaud** · Recurso — multa por não prestar socorro mecânico (PER BR-381 MG/SP); multa de 484 URT → aprovado por unanimidade — multa de 484 URT mantida
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=5ae0Rbnbnl4&t=335s)
+- **RD 802 (2019-03-12)**, 2.1.4 · relator **Marcelo Vinaud** · Recurso — multa de 272,2 URT por socorro mecânico fora do padrão do PER → aprovado por unanimidade — multa mantida
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=5ae0Rbnbnl4&t=500s)
+- **RD 802 (2019-03-12)**, 2.1.5 · relator **Marcelo Vinaud** · Recurso — multa de 272,2 URT por socorro mecânico → aprovado por unanimidade — multa mantida
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=5ae0Rbnbnl4&t=612s)
+- **RD 802 (2019-03-12)**, 2.1.6 · relator **Marcelo Vinaud** · Recurso — multa por não apresentar projeto executivo de obras de arte especiais; multa reduzida a 90 URT → aprovado por unanimidade — multa fixada em 90 URT
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=5ae0Rbnbnl4&t=762s)
+- **RD 802 (2019-03-12)**, 2.2.1 · relator **Elisabeth Braga** · Processo administrativo ordinário — descumprimento de TAC (autorizações de viagem de fretamento turístico em trecho único); comissão propôs inidoneida → aprovado por unanimidade — multa alternativa (cerca de R$ 50 mil, valor a confirmar)
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=5ae0Rbnbnl4&t=1048s)
+- **RD 802 (2019-03-12)**, 2.2.3 · relator **Elisabeth Braga** · Processo administrativo ordinário — representação da Receita Federal (mercadoria estrangeira apreendida em ônibus de linha intermunicipal PR); propost → aprovado por unanimidade — arquivamento
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=5ae0Rbnbnl4&t=1515s)
+- **RD 803 (2019-03-19)**, 2.1.1 · relator **Marcelo Vinaud** · Recurso contra multa por não adotar providências para proteger a faixa de domínio (acessos irregulares e ocupações), art. 8º, VII, Res. 4.071/2013 → recurso conhecido, com efeito suspensivo, e desprovido por unanimidade
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=YDG6ljyGESM&t=82s)
+- **RD 803 (2019-03-19)**, 2.1.2 · relator **Marcelo Vinaud** · Recurso contra multa por segmento da BR-116/SP-PR com indicadores de desempenho abaixo do PER → recurso conhecido, com efeito suspensivo, e desprovido por unanimidade
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=YDG6ljyGESM&t=278s)
+- **RD 803 (2019-03-19)**, 2.1.3 · relator **Marcelo Vinaud** · Recurso contra multa por entregar relatório de monitoramento fora do prazo/incompleto (art. 6º, XXIII, Res. 4.071/2013) → recurso conhecido, com efeito suspensivo, e desprovido por unanimidade
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=YDG6ljyGESM&t=426s)
+- **RD 803 (2019-03-19)**, 2.1.4 · relator **Marcelo Vinaud** · Recurso contra multa por tempo máximo de atendimento a ocorrência médica de emergência (art. 9º, I, Res. 4.071/2013) → recurso conhecido, com efeito suspensivo, e desprovido por unanimidade
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=YDG6ljyGESM&t=611s)
+- **RD 803 (2019-03-19)**, 2.1.5 · relator **Marcelo Vinaud** · Processo administrativo ordinário: declaração de inidoneidade por transporte de mercadoria estrangeira apreendida pela Receita Federal sem prova de im → aprovado por unanimidade
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=YDG6ljyGESM&t=777s)
+- **RD 803 (2019-03-19)**, 2.1.6 · relator **Marcelo Vinaud** · Processo administrativo ordinário: inidoneidade por mercadoria estrangeira apreendida → aprovado por unanimidade
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=YDG6ljyGESM&t=898s)
+- **RD 803 (2019-03-19)**, 2.2.1 · relator **Elisabeth Braga** · Processo administrativo ordinário: apreensão de mercadoria estrangeira; relatório da comissão sugeria inidoneidade → aprovado por unanimidade
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=YDG6ljyGESM&t=1130s)
+- **RD 803 (2019-03-19)**, 2.3.1 · relator **Weber Ciloni** · Recurso contra multa por entregar relatório de monitoramento fora do prazo/incompleto → recurso conhecido, com efeito suspensivo, e desprovido por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=YDG6ljyGESM&t=1467s)
+- **RD 803 (2019-03-19)**, 2.3.2 · relator **Weber Ciloni** · Recurso contra multa por não prover socorro mecânico na forma do contrato (art. 7º, I, Res. 4.071/2013) → recurso conhecido, com efeito suspensivo, e desprovido por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=YDG6ljyGESM&t=1696s)
+- **RD 803 (2019-03-19)**, 2.3.3 · relator **Weber Ciloni** · Recurso contra multa por socorro mecânico/emergência fora do prazo (art. 7º, II, Res. 4.071/2013) → recurso conhecido, com efeito suspensivo, e desprovido por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=YDG6ljyGESM&t=1896s)
+- **RD 803 (2019-03-19)**, 2.3.5 · relator **Weber Ciloni** · Pedido de licença operacional (mercados sem processo seletivo) → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=YDG6ljyGESM&t=2202s)
+- **RD 803 (2019-03-19)**, extrapauta · relator **Weber Ciloni** · Prorrogação por 120 dias do prazo da comissão do processo administrativo ordinário (Deliberação 422/2018) que apura descumprimento continuado de metas → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=YDG6ljyGESM&t=2570s)
+- **RD 804 (2019-03-26)**, 2.1.1 · relator **Marcelo Vinaud** · Relatório da Audiência Pública nº 008/2016 (fiscalização remota de excesso de peso) e ratificação da publicação da Resolução 5.339/2017 → aprovado por unanimidade
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=GHw9REZb1zA&t=115s)
+- **RD 804 (2019-03-26)**, 2.2.3 · relator **Elisabeth Braga** · Recurso administrativo — multa por não prover socorro mecânico no prazo (AI de 22/1/2015) → aprovado por unanimidade — multa mantida (282,25, unidade da legenda: URT)
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=GHw9REZb1zA&t=1104s)
+- **RD 804 (2019-03-26)**, 2.2.4 · relator **Elisabeth Braga** · Recurso — multa por socorro mecânico fora do prazo; recorrente pediu suspensão até manual de fiscalização ou advertência → aprovado por unanimidade — multa mantida (282,25)
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=GHw9REZb1zA&t=1255s)
+- **RD 804 (2019-03-26)**, 2.2.5 · relator **Elisabeth Braga** · Recurso — multa por socorro mecânico fora do prazo → aprovado por unanimidade — multa mantida (282,25)
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=GHw9REZb1zA&t=1430s)
+- **RD 804 (2019-03-26)**, 2.2.6 · relator **Elisabeth Braga** · Recurso — multa por não liberar cancelas quando fila ultrapassou 300 m (fila de 350 m, praça com 3 cabines de cinco) → aprovado por unanimidade — multa mantida (163,35)
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=GHw9REZb1zA&t=1647s)
+- **RD 804 (2019-03-26)**, 2.2.7 · relator **Elisabeth Braga** · Recurso — multa por não prover comunicado/socorro na forma do PER (AI de 3/2015) → aprovado por unanimidade — multa mantida (282,25)
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=GHw9REZb1zA&t=1917s)
+- **RD 804 (2019-03-26)**, 2.2.8 · relator **Elisabeth Braga** · Processo administrativo — empresa sem autorização de fretamento que transportava mercadoria estrangeira apreendida pela Receita (sujeita a perdimento) → aprovado por unanimidade — declaração de inidoneidade por 3 anos
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=GHw9REZb1zA&t=2099s)
+- **RD 804 (2019-03-26)**, 2.3.3 · relator **Weber Ciloni** · Recurso — multa por não prover socorro médico de emergência → aprovado por unanimidade — multa mantida
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=GHw9REZb1zA&t=2653s)
+- **RD 804 (2019-03-26)**, 2.3.4 · relator **Weber Ciloni** · Recurso — multa de 272,5 por socorro médico de emergência → aprovado por unanimidade — multa mantida
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=GHw9REZb1zA&t=2800s)
+- **RD 804 (2019-03-26)**, 3.1.1 · relator **None** · Assuntos gerais — autorização para acordo judicial (fiscalização e divulgação das gratuidades/descontos para pessoas com deficiência e idosos de baixa → diretoria concordou com a transação
+  - votos: Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=GHw9REZb1zA&t=3729s)
+- **RD 805 (2019-04-02)**, 2.1.2 · relator **Marcelo Vinaud** · Recurso administrativo contra multa de 450 URs por descumprir parâmetros de desempenho do pavimento → aprovado por unanimidade (conhecido, efeito suspensivo desde a interposição; negado provim
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=ss0AizFiKWA&t=249s)
+- **RD 805 (2019-04-02)**, 2.1.3 · relator **Marcelo Vinaud** · PAO: cessão irregular de linha Guajeru (BA)-São Caetano do Sul (SP) (denúncia da Gontijo) → aprovado por unanimidade
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=ss0AizFiKWA&t=389s)
+- **RD 805 (2019-04-02)**, 2.2.2 · relator **Elisabeth Braga** · Pedido de revisão em processo administrativo simplificado (autos de infração por trincas interligadas no pavimento) → aprovado por unanimidade (conhecido; improcedente)
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=ss0AizFiKWA&t=2180s)
+- **RD 805 (2019-04-02)**, 2.3.1 · relator **Weber Ciloni** · Recurso administrativo contra penalidade - retirado de pauta pelo relator → retirado de pauta
+  - votos: Weber: relator; Mário: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=ss0AizFiKWA&t=2831s)
+- **RD 805 (2019-04-02)**, 2.3.2 · relator **Weber Ciloni** · Recurso contra multa de 272,25 (unidade incerta na legenda) por não prover socorro mecânico → aprovado por unanimidade (conhecido, efeito suspensivo desde a interposição; negado provim
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: outro · [vídeo](https://www.youtube.com/watch?v=ss0AizFiKWA&t=2880s)
+- **RD 806 (2019-04-09)**, 2.1.1 · relator **Marcelo Vinaud** · Reabertura de comissão de processo administrativo (denúncia da ABRATI sobre empresas operando mercados além da decisão judicial) → aprovado por unanimidade — reaberta a comissão; cópia à Corregedoria
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=ly2oThPrSBs&t=125s)
+- **RD 806 (2019-04-09)**, 2.1.2 · relator **Marcelo Vinaud** · Processo administrativo ordinário — representação da Receita Federal (mercadoria estrangeira apreendida em 22/5/2015) → aprovado por unanimidade — declaração de inidoneidade por 3 anos
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=ly2oThPrSBs&t=337s)
+- **RD 806 (2019-04-09)**, 2.2.1 · relator **Elisabeth Braga** · Processo administrativo ordinário — representação da Receita Federal (mercadoria estrangeira apreendida; veículo alegadamente já vendido) → aprovado por unanimidade — multa alternativa de R$ 6.000
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=ly2oThPrSBs&t=579s)
+- **RD 806 (2019-04-09)**, 2.2.2 · relator **Elisabeth Braga** · Conversão em processo administrativo ordinário — CRLV com anotações adulteradas no campo de observações (divergência confirmada pelo Detran-MS) → aprovado por unanimidade — convertido em PAO com comissão processante
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=ly2oThPrSBs&t=742s)
+- **RD 806 (2019-04-09)**, 2.3.2 · relator **Weber Ciloni** · Recurso — multa por não manter sinalização vertical e horizontal (três autos de infração da mesma natureza, no mesmo dia) → aprovado por unanimidade — penas unificadas em uma multa de 136,125 URT (valor como lido)
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=ly2oThPrSBs&t=1050s)
+- **RD 806 (2019-04-09)**, 2.3.6 · relator **Weber Ciloni** · Recurso — multa de 148,50 URT por entregar relatório de elementos da rodovia fora do prazo e incompleto → aprovado por unanimidade — multa mantida
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=ly2oThPrSBs&t=1685s)
+- **RD 807 (2019-04-16)**, COM · relator **Mário Rodrigues Junior** · Comunicado do DG sobre portaria que implementa melhorias para mitigar causas sistêmicas de fraude e corrupção na SUINF (relatório de auditoria do TCU  → comunicado, sem deliberação
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=DKDF4usY83A&t=0s)
+- **RD 807 (2019-04-16)**, 2.2.2 · relator **Elisabeth Braga** · PAO — mercadoria estrangeira sem prova de introdução regular apreendida pela Receita Federal → aprovado por unanimidade — multa de R$ 5.000 em vez de inidoneidade
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=DKDF4usY83A&t=1021s)
+- **RD 807 (2019-04-16)**, 2.3.2 · relator **Weber Ciloni** · Pedido de reconsideração de multa → aprovado por unanimidade — multa mantida
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=DKDF4usY83A&t=1949s)
+- **RD 807 (2019-04-16)**, 2.3.3 · relator **Weber Ciloni** · Abertura de PAO por adulteração de CRLV (anotação de acessibilidade) → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=DKDF4usY83A&t=2045s)
+- **RD 808 (2019-04-23)**, 2.2.1 · relator **Elisabeth Braga** · Instauração de processo administrativo ordinário por suposta adulteração de CRLV apresentado no sistema de habilitação → aprovado por unanimidade
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=hs8snDKlt_c&t=150s)
+- **RD 808 (2019-04-23)**, 2.3.1 · relator **Weber Ciloni** · Recurso contra multa de R$ 272,25 (legenda) por não prover socorro mecânico de emergência → aprovado por unanimidade (negado provimento)
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=hs8snDKlt_c&t=280s)
+- **RD 61 (extraordinária) (2019-04-30)**, 1.1 · relator **Mário Rodrigues Junior** · Referendo da Deliberação 914/2018 (relatório da AP 12/2018) e da Resolução 5833/2018 (art. 3º-B da Res. 5820/2018: multas e responsabilidade de embarc → aprovado por unanimidade (voto-vista)
+  - votos: Marcelo: revisor_acompanha; Mário: revisor_acompanha; Elisabeth: revisor_acompanha; Weber: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=_fNM_kiMQlc&t=45s)
+- **RD 809 (2019-05-07)**, 2.1.1 · relator **Elisabeth Braga** · Recurso administrativo contra penalidade: início de obras (controle de velocidade) sem autorização da ANTT, auto de infração de 10/01/2013 (art. 8º, R → aprovado por unanimidade
+  - votos: Elisabeth: relator; Mário: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=E3TPE9LTUFE&t=85s)
+- **RD 810 (2019-05-14)**, 2.1.1 · relator **Marcelo Vinaud** · Convalidação de deliberações de parcelamento e reparcelamento de débitos de multas (Res. 3.561/2010, após vigência da Res. 5.830/2018); revogação da D → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=aZwuAPZ66J0&t=84s)
+- **RD 810 (2019-05-14)**, 2.1.2 · relator **Marcelo Vinaud** · Recurso administrativo contra penalidade por cerca danificada (autos de infração unificados por continuidade delitiva); multa única → recurso conhecido; efeito suspensivo concedido; mérito indeferido; autos anulados e decisã
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=aZwuAPZ66J0&t=408s)
+- **RD 811 (2019-05-21)**, 2.1.6 · relator **Marcelo Vinaud** · PAO: representação da Receita Federal: mercadoria estrangeira sem prova de introdução regular → aprovado por unanimidade
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=Epr61yDCvnY&t=750s)
+- **RD 811 (2019-05-21)**, 2.2.2 · relator **Elisabeth Braga** · Parcelamento de débitos de multas (RNTRC, pagamento eletrônico de frete, produtos perigosos, passageiros) em até 60 meses → aprovado por unanimidade
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=Epr61yDCvnY&t=1165s)
+- **RD 811 (2019-05-21)**, 2.3.3 · relator **Weber Ciloni** · PAO: representação da Receita Federal: mercadoria estrangeira sem prova de introdução regular; revelia; reincidência → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=Epr61yDCvnY&t=1650s)
+- **RD 811 (2019-05-21)**, 2.3.4 · relator **Weber Ciloni** · Abertura de audiência pública para revisão da Resolução 1431/2006 (comunicação de acidentes ferroviários) → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=Epr61yDCvnY&t=1776s)
+- **RD 811 (2019-05-21)**, extrapauta-1 · relator **Marcelo Vinaud** · Alteração da Resolução 4799/2015 (RNTRC): nova penalidade (multa de R$ 550, base mínima legal, legenda) para obstrução da fiscalização no lugar da mul → aprovado por unanimidade
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=Epr61yDCvnY&t=2105s)
+- **RD 812 (2019-05-28)**, 2.1.1 · relator **Marcelo Vinaud** · Pedido de reconsideração da Del. 144/2019 que declarou a inidoneidade da empresa por transporte de mercadorias como bagagem → aprovado por unanimidade — mantida a declaração de inidoneidade
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=dr2WCpJwvEM&t=116s)
+- **RD 812 (2019-05-28)**, 2.2.3 · relator **Elisabeth Braga** · PAO — proposta de aplicação de penalidade por apólices de seguro falsificadas → aprovado por unanimidade — inidoneidade por 3 anos a contar de 02/02/2018 (conforme legend
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=dr2WCpJwvEM&t=758s)
+- **RD 812 (2019-05-28)**, 2.2.4 · relator **Elisabeth Braga** · PAO — proposta de penalidade por transporte de mercadoria estrangeira apreendida (representação da Receita Federal) → aprovado por unanimidade — multa de R$ 4.000 em vez de inidoneidade
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=dr2WCpJwvEM&t=939s)
+- **RD 812 (2019-05-28)**, 2.2.5 · relator **Elisabeth Braga** · PAO — penalidade por transporte de mercadoria de procedência estrangeira sem prova de introdução regular → aprovado por unanimidade — inidoneidade por 3 anos
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=dr2WCpJwvEM&t=1064s)
+- **RD 812 (2019-05-28)**, 2.2.6 · relator **Elisabeth Braga** · PAO — penalidade por transporte de mercadoria estrangeira sem prova de introdução regular → aprovado por unanimidade — inidoneidade por 4 anos
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=dr2WCpJwvEM&t=1165s)
+- **RD 813 (2019-06-04)**, 2.2.2 · relator **Marcelo Vinaud** · PAO: representação da Receita Federal: mercadoria estrangeira sem prova de introdução regular (Foz do Iguaçu) → aprovado por unanimidade
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=ydYYojzjVn4&t=369s)
+- **RD 813 (2019-06-04)**, 2.2.3 · relator **Marcelo Vinaud** · PAO: semirreboque com placa de outro veículo (Epitaciolândia-AC); perdimento do veículo sem impugnação → aprovado por unanimidade
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=ydYYojzjVn4&t=470s)
+- **RD 813 (2019-06-04)**, 2.2.4 · relator **Marcelo Vinaud** · PAO: representação da Receita Federal: mercadoria estrangeira sem prova de introdução regular; condutor era o sócio da empresa; reincidência → aprovado por unanimidade (revotado após retificação)
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=ydYYojzjVn4&t=598s)
+- **RD 813 (2019-06-04)**, 2.3.1 · relator **Elisabeth Braga** · PAO: representação da Receita Federal: mercadoria estrangeira sem prova de introdução regular (fiscalização de 24/10/2016); multa tributária paga e ve → aprovado por unanimidade
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=ydYYojzjVn4&t=1286s)
+- **RD 813 (2019-06-04)**, 2.3.2 · relator **Elisabeth Braga** · PAO: representação da Receita Federal: mercadoria estrangeira sem prova de introdução regular (fiscalização de 16/03/2018) → aprovado por unanimidade
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=ydYYojzjVn4&t=1435s)
+- **RD 813 (2019-06-04)**, 2.4.1 · relator **Weber Ciloni** · PAO: transporte de mercadoria sem documentação legal; sem antecedentes → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=ydYYojzjVn4&t=2145s)
+- **RD 813 (2019-06-04)**, 2.4.2 · relator **Weber Ciloni** · PAO: mercadoria sem documentação; reincidente (inidônea por 3 anos na Res. 4698/2015, legenda) → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=ydYYojzjVn4&t=2266s)
+- **RD 813 (2019-06-04)**, 2.4.7 (reservado) · relator **Weber Ciloni** · Julgamento ao final da transmissão, com participação restrita à parte e seu procurador → não transmitido (sigilo)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=ydYYojzjVn4&t=2685s)
+- **RD 814 (2019-06-11)**, 2.1.2 · relator **Marcelo Vinaud** · PAO: proposta de aplicação de penalidade - Receita Federal: mercadoria estrangeira sem prova de internação regular → aprovado por unanimidade
+  - votos: Marcelo: relator; Mário: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=OiiVU2kqVK4&t=155s)
+- **RD 814 (2019-06-11)**, 2.1.3 · relator **Marcelo Vinaud** · PAO: Receita Federal: mercadoria estrangeira sem prova de internação regular (transporte rodoviário internacional de cargas) → aprovado por unanimidade
+  - votos: Marcelo: relator; Mário: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=OiiVU2kqVK4&t=237s)
+- **RD 814 (2019-06-11)**, 2.1.4 · relator **Marcelo Vinaud** · PAO: Receita Federal: mercadoria estrangeira sem prova de internação regular → aprovado por unanimidade
+  - votos: Marcelo: relator; Mário: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=OiiVU2kqVK4&t=300s)
+- **RD 814 (2019-06-11)**, 2.2.1 · relator **Weber Ciloni** · PAO: Receita Federal: mercadoria estrangeira sem prova de internação regular; empresa não autorizada pela ANTT; multa já paga → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=OiiVU2kqVK4&t=472s)
+- **RD 814 (2019-06-11)**, 2.2.2 · relator **Weber Ciloni** · PAO: Receita Federal: mercadoria estrangeira sem prova de internação regular → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=OiiVU2kqVK4&t=570s)
+- **RD 814 (2019-06-11)**, 2.2.3 · relator **Weber Ciloni** · PAO: reincidente (já punida pela Deliberação 55 de 21/05); Receita Federal: mercadoria estrangeira sem prova de internação regular → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=OiiVU2kqVK4&t=655s)
+- **RD 814 (2019-06-11)**, 2.2.4 · relator **Weber Ciloni** · PAO: Receita Federal: mercadoria estrangeira sem prova de internação regular → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=OiiVU2kqVK4&t=750s)
+- **RD 62 (extraordinária) (2019-06-13)**, 1.1.1 · relator **Marcelo Vinaud** · Embargos de declaração contra a Deliberação 432/2019 (legenda diz 2009 e 2018: erro material alegado pela embargante quanto ao ano) → aprovado por unanimidade — embargos parcialmente providos, sem efeito suspensivo
+  - votos: Marcelo: relator; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ifXiMh49mdg&t=68s)
+- **RD 815 (2019-06-18)**, 2.1.1 · relator **Marcelo Vinaud** · Instauração de processo administrativo ordinário e comissão (3 servidores, 120 dias prorrogáveis) para apurar eventual declaração de caducidade da con → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=AhItQBZ9-D4&t=181s)
+- **RD 815 (2019-06-18)**, 2.1.2 · relator **Marcelo Vinaud** · Revogação da Deliberação 433/2019, que prorrogou por cinco anos o convênio de delegação 01/2014 com o ICMBio → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=AhItQBZ9-D4&t=728s)
+- **RD 815 (2019-06-18)**, 2.1.4 · relator **Marcelo Vinaud** · Processo sancionador ordinário: mercadoria estrangeira apreendida pela Receita; comissão sugeria inidoneidade → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=AhItQBZ9-D4&t=979s)
+- **RD 815 (2019-06-18)**, 2.1.5 · relator **Marcelo Vinaud** · Processo sancionador ordinário: veículo apreendido pela Receita com mercadoria estrangeira; multa paga e veículo restituído → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=AhItQBZ9-D4&t=1117s)
+- **RD 815 (2019-06-18)**, 2.1.6 · relator **Marcelo Vinaud** · Descumprimento parcial do TAC (Deliberação 219/2013) por baixa execução de obras de melhoramentos: determina apuração e instauração de comissão de pro → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=AhItQBZ9-D4&t=1221s)
+- **RD 815 (2019-06-18)**, 2.2.1 · relator **Elisabeth Braga** · Processo sancionador ordinário: mercadoria estrangeira apreendida (Foz do Iguaçu); empresa não apresentou defesa → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=AhItQBZ9-D4&t=1920s)
+- **RD 815 (2019-06-18)**, 2.2.2 · relator **Elisabeth Braga** · Parcelamento de débitos de infrações (RNTRC, transporte internacional, produtos perigosos e passageiros) superiores a R$ 50 mil (cargas) ou R$ 80 mil  → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=AhItQBZ9-D4&t=2164s)
+- **RD 815 (2019-06-18)**, 2.3.5 · relator **Weber Ciloni** · Acordo de Cooperação Técnica: sistemas inteligentes de controle de tráfego, programa Canal Vivo (fiscalização responsiva do transporte de cargas e pas → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=AhItQBZ9-D4&t=3078s)
+- **RD 815 (2019-06-18)**, 2.3.6 · relator **Weber Ciloni** · Instauração de comissão de processo administrativo (CPA) por indícios de falsificação de documentação veicular → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=AhItQBZ9-D4&t=3198s)
+- **RD 815 (2019-06-18)**, 2.3.7 · relator **Weber Ciloni** · Alteração da Deliberação 182/2009 para delegar às coordenações regionais de exploração de infraestrutura rodoviária o julgamento em primeira instância → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=AhItQBZ9-D4&t=3292s)
+- **RD 816 (2019-06-25)**, 2.1.1 · relator **Marcelo Vinaud** · Pedido de revisão de processo administrativo: multa por falta de envio de relatórios de monitoração (notificação de infração de fevereiro de 2012); TA → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=F6Iun8IyLgw&t=646s)
+- **RD 816 (2019-06-25)**, 2.1.3 · relator **Marcelo Vinaud** · Recurso (PAS) contra a Decisão SUINF 18/2017 (Notificação de Infração 070/2015) → aprovado por unanimidade — multa mantida; execução da caução se não paga em 30 dias
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=F6Iun8IyLgw&t=984s)
+- **RD 816 (2019-06-25)**, 2.2.2 · relator **Elisabeth Braga** · Abertura de PAO por indício de adulteração de CRLV → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=F6Iun8IyLgw&t=2266s)
+- **RD 816 (2019-06-25)**, EXTRA-2 · relator **Elisabeth Braga** · Extrapauta: recurso contra a Portaria SUFER 86/2019 que determinou a retomada do transporte ferroviário de combustíveis (Alto Taquari? /Replan/Brasíli → aprovado por unanimidade — recurso improcedente
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=F6Iun8IyLgw&t=3072s)
+- **RD 817 (2019-07-09)**, 2.1.3 · relator **Elisabeth Braga** · Conversão em processo administrativo ordinário por apresentação de CRLV com anotação divergente (indício de adulteração) → aprovado por unanimidade — instaura comissão de processo administrativo
+  - votos: Elisabeth: relator; Mário: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=S6thCF9q-3Q&t=365s)
+- **RD 818 (2019-07-16)**, 2.1.5 · relator **Elisabeth Braga** · Conversão em processo administrativo ordinário: CRLV com indícios de adulteração (resposta do Detran-SP) → convertido em PAO; unanimidade
+  - votos: Elisabeth: relator; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=Ve-A2CB2qb4&t=380s)
+- **RD 819 (2019-07-23)**, 2.2.3 · relator **Elisabeth Braga** · Recurso — multa de 148,50 URT (infração apurada pela decisão 069/2016 da SUINF) → aprovado por unanimidade — multa mantida
+  - votos: Elisabeth: relator; Marcelo: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=aN2OZHj7G1c&t=722s)
+- **RD 820 (2019-07-30)**, 2.3.5 · relator **Elisabeth Braga** · Anuência prévia para transferência de mercados (linhas) do Consórcio Guanabara para a Real Expresso, com sustentação oral do advogado do consórcio; di → pedido de vista; sem decisão na sessão
+  - votos: Elisabeth: relator; Davi: vista; Marcelo: outro; Mário: outro · [vídeo](https://www.youtube.com/watch?v=wTsJa3zoysI&t=415s)
+- **RD 820 (2019-07-30)**, 2.2.1 · relator **Marcelo Vinaud** · Processo administrativo ordinário: indícios de falsificação de CRLV apresentado para habilitar veículo; constituição de comissão → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=wTsJa3zoysI&t=1670s)
+- **RD 820 (2019-07-30)**, 2.2.3 · relator **Marcelo Vinaud** · Acordo de cooperação técnica para o sistema Canal Verde Brasil (fiscalização inteligente do transporte rodoviário de cargas e passageiros), sem ônus e → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=wTsJa3zoysI&t=2017s)
+- **RD 820 (2019-07-30)**, 2.3.2 · relator **Elisabeth Braga** · Processo administrativo ordinário por adulteração de CRLV (infração da Res. 233/2003 e Decreto 2.521/1998, sujeita a declaração de inidoneidade/cassaç → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: outro; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=wTsJa3zoysI&t=2427s)
+- **RD 820 (2019-07-30)**, 2.3.11 · relator **Elisabeth Braga** · Abertura de audiência pública: resolução com diretrizes para o procedimento preparatório e o processo sancionador de caducidade em contratos de conces → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: relator; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=wTsJa3zoysI&t=3526s)
+- **RD 821 (2019-08-06)**, 2.2.2 · relator **Davi Barreto** · Processo administrativo ordinário: transporte de mercadorias de origem estrangeira irregular; sugestão de declaração de inidoneidade → aplicada inidoneidade por 3 anos; unanimidade
+  - votos: Davi: relator; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=i8c3Cjiy9jI&t=614s)
+- **RD 821 (2019-08-06)**, 2.2.3 · relator **Davi Barreto** · Processo administrativo ordinário: mercadoria estrangeira; comissão sugeriu arquivamento → arquivado; unanimidade
+  - votos: Davi: relator; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=i8c3Cjiy9jI&t=743s)
+- **RD 822 (2019-08-13)**, 2.1.1 a 2.1.3 (bloco) · relator **Marcelo Vinaud** · Parcelamento de débitos e termos de autorização de fretamento, em bloco → aprovados por unanimidade (bloco)
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kMGgTtubwtU&t=329s)
+- **RD 822 (2019-08-13)**, 2.2.1 · relator **Elisabeth Braga** · Processo administrativo ordinário: instauração de comissão por indícios de abandono do mercado Patos (PB) - São José do Egito (PE) e inexistência de g → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: relator; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kMGgTtubwtU&t=408s)
+- **RD 822 (2019-08-13)**, 2.2.2 · relator **Elisabeth Braga** · Pedido de reconsideração da Deliberação 432/2019 (obrigações e prazos para corrigir inadimplementos contratuais da malha oeste): apreciação preliminar → efeito suspensivo negado por unanimidade; mérito a ser julgado depois
+  - votos: Marcelo: acompanha; Elisabeth: relator; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kMGgTtubwtU&t=553s)
+- **RD 822 (2019-08-13)**, 2.3.2 · relator **Weber Ciloni** · Abertura de processo administrativo ordinário por indícios de abandono do mercado Sete Lagoas (MG) - Petrópolis (RJ); sugestão de mudança de delegação → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kMGgTtubwtU&t=1130s)
+- **RD 822 (2019-08-13)**, 2.4.1 · relator **Davi Barreto** · Pedido de reconsideração da Deliberação 122/2019, que declarou a inidoneidade da empresa por três anos (CRLV adulterado) → reconsideração conhecida; efeito suspensivo e mérito negados por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Davi: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kMGgTtubwtU&t=1357s)
+- **RD 823 (2019-08-20)**, 2.2.3 · relator **Marcelo Vinaud** · Penalidade — apresentação de CRLV adulterado/documentos supostamente falsos → aprovado por unanimidade — declaração de inidoneidade por 3 anos
+  - votos: Marcelo: relator; Mário: acompanha; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=6pNMwNpnAP8&t=1007s)
+- **RD 823 (2019-08-20)**, 2.2.4 · relator **Marcelo Vinaud** · Processo administrativo (ferrovia) — retirado de pauta pelo relator → retirado de pauta
+  - votos: Marcelo: relator · [vídeo](https://www.youtube.com/watch?v=6pNMwNpnAP8&t=1110s)
+- **RD 823 (2019-08-20)**, 2.3.2 · relator **Elisabeth Braga** · Penalidade — apreensão de mercadoria estrangeira (Receita Federal, Foz do Iguaçu, 18/6/2016); empresa sem defesa e sem TAF → aprovado por unanimidade — declaração de inidoneidade
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=6pNMwNpnAP8&t=1754s)
+- **RD 823 (2019-08-20)**, 2.3.3 · relator **Elisabeth Braga** · Pedido de parcelamento de débitos (transporte de passageiros, dívida acima de R$ 80 mil exige decisão da diretoria — Res. 5.830/2018) → aprovado por unanimidade — parcelamento indeferido
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=6pNMwNpnAP8&t=1928s)
+- **RD 823 (2019-08-20)**, 2.3.4 · relator **Elisabeth Braga** · Pedido de parcelamento de débitos (RNTRC, transporte rodoviário de cargas) → aprovado por unanimidade — parcelamento indeferido
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=6pNMwNpnAP8&t=2129s)
+- **RD 823 (2019-08-20)**, 2.4.1 · relator **Weber Ciloni** · Instauração de processo administrativo ordinário por descumprimento reiterado (operação sem documentação, serviço intermunicipal/parcial em RO e MT) → aprovado por unanimidade — instaurado
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=6pNMwNpnAP8&t=2458s)
+- **RD 823 (2019-08-20)**, 3.1 · relator **None** · Assuntos gerais — um diretor (não identificado na legenda) chama atenção para o Canal Verde (pórticos eletrônicos de fiscalização em fronteiras/portos → sem deliberação (assunto geral)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=6pNMwNpnAP8&t=3097s)
+- **RD 824 (2019-08-27)**, 2.1.1 · relator **Marcelo Vinaud** · Processo administrativo ordinário: aplicação de pena de declaração de inidoneidade por transporte de mercadorias estrangeiras sem comprovação de intro → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=_1ekxBesJpo&t=105s)
+- **RD 824 (2019-08-27)**, 2.2.1 · relator **Elisabeth Braga** · Recurso administrativo → retirado de pauta pela relatora
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=_1ekxBesJpo&t=830s)
+- **RD 824 (2019-08-27)**, 2.2.4 · relator **Elisabeth Braga** · Rescisão de parcelamento de débitos de multas por inadimplência (art. 30 da Res. 5.830/2018) → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=_1ekxBesJpo&t=1230s)
+- **RD 826 (2019-09-10)**, 1.2 (sigilosos) · relator **Marcelo Vinaud** · Propostas de aplicação de penalidade em processos sigilosos (art. 78-B da Lei 10.233/2001), julgados ao final da transmissão, sem participação pública → julgados em sessão reservada (resultado não divulgado no vídeo)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=sO5JXVa1a_4&t=180s)
+- **RD 827 (2019-09-17)**, sigilosos · relator **Elisabeth Braga** · Processos sancionadores reservados (reconsideração de deliberação 835/2019; proposta de aplicação de penalidade), julgados ao final da transmissão → decisão não divulgada (sigilo)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=kH8jsop2XDs&t=80s)
+- **RD 827 (2019-09-17)**, 2.1.2 · relator **Marcelo Vinaud** · Criação de Juntas Administrativas de Recursos de Infrações (JARI) nas unidades regionais de Minas Gerais e Santa Catarina → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kH8jsop2XDs&t=292s)
+- **RD 827 (2019-09-17)**, 2.3.4 · relator **Weber Ciloni** · Rescisão de parcelamento de débitos inscritos em dívida ativa (Deliberação 965/2011) → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kH8jsop2XDs&t=1100s)
+- **RD 828 (2019-09-24)**, sigiloso · relator **Davi Barreto** · Proposta de aplicação de penalidade (processo sancionador reservado, art. 78 da Lei 10.233 e art. 71 do Regimento); julgado antecipadamente com susten → decisão não divulgada (sigilo até decisão final)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=uhDA6l45fTk&t=80s)
+- **RD 829 (2019-10-01)**, 2.3.1 (reservado) · relator **Weber Ciloni** · Pedido de reconsideração — processo reservado (sigiloso, art. 78-B da Lei 10.233 e art. 71 §1º do Regimento); julgado ao final da transmissão, sem ace → não transmitido (julgamento em sessão restrita)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=4qQrSJA_XaM&t=76s)
+- **RD 829 (2019-10-01)**, 2.4.1 (reservado) · relator **Davi Barreto** · Processo administrativo ordinário — reservado (sigiloso); julgado em sessão restrita → não transmitido (julgamento em sessão restrita)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=4qQrSJA_XaM&t=76s)
+- **RD 829 (2019-10-01)**, 2.1.1 · relator **Marcelo Vinaud** · Pedido de reconsideração contra a Deliberação 432/2019 (inadimplemento contratual e prazo para correção; Lei 8.987/1995), alterada pela Deliberação 67 → aprovado por unanimidade — pedido conhecido e negado; embargos não conhecidos
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=4qQrSJA_XaM&t=150s)
+- **RD 829 (2019-10-01)**, 3.1 · relator **None** · Assuntos gerais — memorando circular informa que a ViaBahia se negou a atender pedidos de técnicos da SUINF; proposta de fixar prazo de sete dias para → proposta acolhida por unanimidade (sem votação formal)
+  - votos: Marcelo: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=4qQrSJA_XaM&t=1016s)
+- **RD 830 (2019-10-08)**, 2.3.1 (reservado) · relator **Davi Barreto** · Proposta de aplicação de penalidade — processo administrativo sigiloso (art. 78-B Lei 10.233/2001; art. 71 §1º RI) → julgado ao final da transmissão, em sessão restrita às partes (sem registro)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=NBtijM4b-LE&t=901s)
+- **RD 832 (2019-10-22)**, 2.1.1 e 2.2.1 (sigilosos) · relator **Marcelo Vinaud** · Julgamentos já realizados em sessão reservada → julgados em sessão reservada
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=tDrIVnhMZBo&t=155s)
+- **RD 832 (2019-10-22)**, 2.3.1 · relator **Weber Ciloni** · Recurso contra decisão de aplicação de penalidade (cláusula contratual) → recurso conhecido, provimento negado; unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=tDrIVnhMZBo&t=484s)
+- **RD 833 (2019-10-30)**, 2.1.4 · relator **Marcelo Vinaud** · Recurso à Diretoria contra a Decisão 122/2019 da SUINF: multa por descumprimento do cronograma de investimentos do 20º ano de concessão → recurso conhecido, com efeito suspensivo desde a interposição; mérito negado; multa mantid
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=Ie5Fnfu5VQI&t=1526s)
+- **RD 833 (2019-10-30)**, 2.3.1 · relator **Davi Barreto** · Recurso à Diretoria contra a Decisão 003/2019 da SUINF: responsabilidade pela construção de passarela → recurso conhecido com efeito suspensivo; mérito negado por unanimidade
+  - votos: Marcelo: acompanha; Weber: acompanha; Davi: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=Ie5Fnfu5VQI&t=2565s)
+- **RD 834 (2019-11-05)**, 3.1 (assuntos gerais) · relator **Mário Rodrigues Junior** · Pedidos de cancelamento de distribuição de processos e comunicação à Diretoria de intenção da SUFIS de abrir processo administrativo ordinário (Res. 5 → aprovado (todos de acordo)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=jtaSxDPBkcE&t=2307s)
+- **RD 835 (2019-11-12)**, reservados · relator **Marcelo Vinaud** · Seis processos sigilosos (PAS/PAO/recurso) julgados ao final da transmissão, sessão restrita às partes; havia pedidos de sustentação oral → julgados em sessão reservada (sem registro)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=NM39E2nZvAs&t=0s)
+- **RD 836 (2019-11-21)**, extrapauta · relator **Elisabeth Braga** · Parcelamento de débitos não inscritos em dívida ativa (386 autos de infração, total de cerca de R$ 1,685 milhão, valor da legenda), em parcelas mensai → aprovado por unanimidade; inclusão extrapauta aceita por todos
+  - votos: Marcelo: acompanha; Elisabeth: relator; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=mCZnsrgrMFE&t=534s)
+- **RD 837 (2019-11-26)**, 2.5.1 (sigiloso) · relator **Davi Barreto** · Processo administrativo ordinário sigiloso, com sustentação oral do advogado Alziro da Mota Santos Filho, julgado ao final da transmissão → julgado em sessão reservada
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=3O5viqLvwtg&t=111s)
+- **RD 838 (2019-12-03)**, sigilosos · relator **None** · Processos sancionadores reservados: pedido de recurso (item 2.2.14) e proposta de penalidade (2.3.3), julgados ao final da transmissão → decisão não divulgada (sigilo)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=uvRp5oExIss&t=85s)
+- **RD 838 (2019-12-03)**, 2.2.1 · relator **Elisabeth Braga** · Anuência para transferência de mercados entre as empresas (Res. 4.770/2015; regra transitória do art. 3º, §3º da Deliberação 955/2019, pedidos protoco → pedido de vista (Weber Ciloni); julgamento adiado
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: vista; Davi: outro; Mário: outro · [vídeo](https://www.youtube.com/watch?v=uvRp5oExIss&t=460s)
+- **RD 839 (2019-12-11)**, 2.2.6 (reservado) · relator **Marcelo Vinaud** · Processo reservado: proposta de aplicação de penalidade (julgado ao final, com participação restrita à parte e ao procurador) → não transmitido (sigilo até a decisão final)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=7gL6wMFBa0w&t=564s)
+- **RD 839 (2019-12-11)**, 2.3.5 (reservado) · relator **Elisabeth Braga** · Processo reservado: proposta de aplicação de penalidade → não transmitido (sigilo até a decisão final)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=7gL6wMFBa0w&t=564s)
+- **RD 839 (2019-12-11)**, 2.1.5.5 (reservado) · relator **Davi Barreto** · Processo reservado: pedido de reconsideração em aplicação de penalidade → não transmitido (sigilo até a decisão final)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=7gL6wMFBa0w&t=610s)
+- **RD 840 (2019-12-17)**, reservados · relator **Marcelo Vinaud** · Seis processos sigilosos julgados ao final da transmissão, em sessão restrita às partes → julgados em sessão reservada (sem registro)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=g9pWxYnVrPA&t=0s)
+- **RD 840 (2019-12-17)**, 2.2.3 · relator **Elisabeth Braga** · Alteração do art. 86 da Res. 5.083/2016 (desconto de 30% da multa por pagamento antecipado = renúncia tácita ao recurso) → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=g9pWxYnVrPA&t=2242s)
+- **RD 840 (2019-12-17)**, 2.2.4 · relator **Elisabeth Braga** · Propostas de parcelamento de débitos → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=g9pWxYnVrPA&t=2507s)
+- **RD 840 (2019-12-17)**, 2.4.1 · relator **Davi Barreto** · Revisão da Del. 53/2006 (penalidade de impedimento de licitar e contratar com a União na ANTT) → aprovado por unanimidade
+  - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=g9pWxYnVrPA&t=2565s)
+- **RD 64 (extraordinária) (2019-12-19)**, 1.3.4 · relator **Weber Ciloni** · Abertura de audiência pública (20 dias, 23/12 a 12/01) sobre processo administrativo fiscal para cobrança da taxa de fiscalização (altera Res. 4.936/2 → pedido de vista (Marcelo Vinaud)
+  - votos: Weber: relator; Marcelo: vista · [vídeo](https://www.youtube.com/watch?v=5Pdwi_izh8Q&t=2746s)
+- **RD 841 (2020-01-14)**, sigilosos · relator **Elisabeth Braga** · Seis processos reservados de aplicação de penalidades (art. 78 da Lei 10.233/2001), julgados ao final da transmissão, com sustentação oral da advogada → sigiloso (não transmitido)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=bJMyPYl26qE&t=76s)
+- **RD 841 (2020-01-14)**, 2.4.2 · relator **Mário Rodrigues Junior** · Acordos de cooperação técnica com a Polícia Rodoviária Federal para aparelhamento (verba de aparelhamento da PRF), após recomendação do MPF para exclu → aprovado por unanimidade
+  - votos: Mário: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=bJMyPYl26qE&t=2206s)
+- **RD 842 (2020-01-21)**, 2.3.1 (reservado) · relator **Elisabeth Braga** · Processo reservado: pedido de reconsideração da Deliberação 992/2019 (12/11/2019) → julgado na parte reservada; sem transcrição
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=AQtsEWWAzts&t=180s)
+- **RD 842 (2020-01-21)**, 2.4.4 (reservado) · relator **Weber Ciloni** · Processo reservado: processo administrativo ordinário → julgado na parte reservada; sem transcrição
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=AQtsEWWAzts&t=180s)
+- **RD 844 (2020-02-04)**, 2.1.5 · relator **Marcelo Vinaud** · Recurso contra a decisão 043/2018 em processo administrativo sancionador (item reservado) → julgado em sigilo após a transmissão; resultado não disponível no vídeo
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=5H2Ghxo8L9k&t=267s)
+- **RD 845 (2020-02-11)**, RES-1 · relator **Elisabeth Braga** · Processos reservados/sigilosos julgados ao final, fora da transmissão: 2.3.2 aplicação de penalidade (pedido de reconsideração) — Irmãos Nascimento (r → sigiloso — resultado não divulgado
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=NJFwst6GRTI&t=180s)
+- **RD 845 (2020-02-11)**, 2.5.1 · relator **Weber Ciloni** · Abertura de audiência pública sobre alteração da Res. 4.936/2015 — procedimentos de cobrança da taxa de fiscalização do transporte rodoviário interest → aprovado por unanimidade
+  - votos: Davi: revisor_diverge; Marcelo: acompanha; Elisabeth: outro; Weber: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=NJFwst6GRTI&t=944s)
+- **RD 846 (2020-02-18)**, 2.1.1 · relator **Mário Rodrigues Junior** · Referendo da Deliberação 1.027? (28/11/2019 — numeração incerta): inclusão da linha Guarantã do Norte (MT)–Imperatriz (MA) e alteração da LOP por deci → aprovado por unanimidade (com condicionante)
+  - votos: Mário: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=U0XA7rHQ4tw&t=142s)
+- **RD 846 (2020-02-18)**, 2.3 (reservado) · relator **Mário Rodrigues Junior** · Processo reservado: embargos de declaração contra a Deliberação 947 (23/10/2019), com sustentação oral de advogados da concessionária → julgado na parte reservada; sem transcrição
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=U0XA7rHQ4tw&t=180s)
+- **RD 848 (2020-03-10)**, RES-1 · relator **Weber Ciloni** · Processos reservados/sigilosos: 2.2.? PAD da Corregedoria (relator Weber Ciloni); 2.3.3 Viação Araguarina, aplicação de penalidade (Davi Barreto); 2.3 → sigiloso — resultado não divulgado
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=h231NmlBFOE&t=180s)
+- **RD 848 (2020-03-10)**, 2.5.2 · relator **Menezes (nome incerto)** · Rescisão de parcelamento de débitos de multas → aprovado por unanimidade
+  - votos: Menezes: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=h231NmlBFOE&t=3153s)
+- **RD 849 (2020-03-24)**, QO-1 · relator **Marcelo Vinaud** · Questão de ordem: retirada de pauta em bloco dos processos reservados/sigilosos, porque a reunião passou a ser por videoconferência gravada e sem tran → aprovado por unanimidade — retirados de pauta
+  - votos: Marcelo: outro; Weber: outro; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=0TNHuq9u9XE&t=220s)
+- **RD 849 (2020-03-24)**, 2.3.3 · relator **Davi Barreto** · Rescisão de parcelamento de débitos inscritos em dívida ativa (Deliberação 307/2016) → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=0TNHuq9u9XE&t=1906s)
+- **RD 850 (2020-03-31)**, reservados · relator **Marcelo Vinaud** · Processos administrativos sancionadores reservados com dois pedidos de sustentação oral por advogados (julgamento ao final da transmissão) → sigiloso — sem resultado público
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=DqfYKnR7JBg&t=180s)
+- **RD 850 (2020-03-31)**, 2.4.3 · relator **Alexandre Porto** · Organização administrativa / processo administrativo (cadastro) com voto-vista; Alexandre pede retirada para consultar a Procuradoria sobre postura de → retirado de pauta (aprovado por unanimidade)
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=DqfYKnR7JBg&t=1702s)
+- **RD 851 (2020-04-07)**, sigilosos · relator **None** · Processos reservados (art. 78 da Lei 10.233/2001): aplicação de penalidades, embargos de declaração e processo administrativo disciplinar da corregedo → sigiloso (não transmitido)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=185j9FgJSfw&t=93s)
+- **RD 851 (2020-04-07)**, 2.1.2 · relator **Marcelo Vinaud** · Referendo da Resolução 5.878, de 26/03/2020: suspensão por 90 dias corridos dos prazos processuais nos processos sancionadores (Res. 5.083/2016), ajus → referendado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=185j9FgJSfw&t=441s)
+- **RD 851 (2020-04-07)**, 2.1.7 · relator **Marcelo Vinaud** · Recurso administrativo contra decisão da SUFER que declarou descumpridos os prazos das medidas corretivas (Deliberação 432/2018) e sugeriu abertura de → recurso conhecido e improvido, por maioria (Alexandre Porto impedido)
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: outro; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=185j9FgJSfw&t=1631s)
+- **RD 851 (2020-04-07)**, 2.3.2 · relator **Davi Barreto** · Rescisão de parcelamento de débitos e alteração da Resolução 5.830/2018: decisões de rescisão e indeferimento de parcelamento passam à superintendênci → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=185j9FgJSfw&t=3065s)
+- **RD 852 (2020-04-14)**, reservados · relator **Weber Ciloni** · Processos administrativos sancionadores reservados (aplicação de penalidade), de relatoria de Weber Ciloni (Via Energia), Alexandre Porto (Andorinha/M → julgados em parte reservada; resultado não consta do vídeo
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=cgsrOI4Uxoo&t=104s)
+- **RD 853 (2020-04-28)**, 2.3.1 · relator **Marcelo Vinaud** · Audiência Pública 14/2019: relatório e minuta de resolução sobre diretrizes e procedimento preparatório e sancionador de caducidade dos contratos de c → aprovado por unanimidade o voto-vista - retorno dos autos à área técnica
+  - votos: Davi: revisor_acompanha; Weber: revisor_acompanha; Alexandre: revisor_acompanha; Menezes: revisor_acompanha; Marcelo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=sVbD7HT9Ms0&t=859s)
+- **RD 853 (2020-04-28)**, 2.3.4 a 2.3.6 · relator **Davi Barreto** · Bloco: 2.3.4 parcelamento de débitos; 2.3.5 e 2.3.6 alteração de licença operacional com inclusão de mercados → 2.3.5 retirado de pauta pelo relator; 2.3.4 e 2.3.6 aprovados por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=sVbD7HT9Ms0&t=1534s)
+- **RD 853 (2020-04-28)**, 2.4.1 · relator **Alexandre Porto** · Proposta de parcelamento de débitos → aprovado por unanimidade
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=sVbD7HT9Ms0&t=1668s)
+- **RD 853 (2020-04-28)**, 2.1.7 · relator **Marcelo Vinaud** · Processo administrativo ordinário sancionador - proposta de aplicação de penalidade (item reservado) → tratado em parte reservada; resultado não consta do vídeo
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=sVbD7HT9Ms0&t=2498s)
+- **RD 853 (2020-04-28)**, 2.4.2 · relator **Alexandre Porto** · Processo administrativo disciplinar (item reservado, relator Alexandre Porto), citado numa questão de ordem por ter sido omitido na leitura inicial do → tratado em parte reservada; resultado não consta do vídeo
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=sVbD7HT9Ms0&t=2498s)
+- **RD 854 (2020-05-05)**, 2.3.9 (reservado) · relator **Davi Barreto** · Processo administrativo ordinário sancionador (acesso restrito, julgado ao final da transmissão) → sigiloso — sem resultado público
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=5Wuych4chNY&t=111s)
+- **RD 854 (2020-05-05)**, 2.2.1 e 2.2.2 · relator **Weber Ciloni** · Parcelamento de débitos não inscritos em dívida ativa (votados em bloco) → aprovados por unanimidade (em bloco)
+  - votos: Davi: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha; Weber: relator · [vídeo](https://www.youtube.com/watch?v=5Wuych4chNY&t=622s)
+- **RD 854 (2020-05-05)**, 2.3.5 a 2.3.7 · relator **Davi Barreto** · Parcelamento de débitos não inscritos em dívida ativa (bloco) → aprovados por unanimidade (em bloco)
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=5Wuych4chNY&t=1647s)
+- **RD 854 (2020-05-05)**, 3.1 · relator **Davi Barreto** · Prorrogação de prazo para inclusão em pauta de processos administrativos ordinários (Res. 5.083/2016), a pedido do relator Davi Barreto → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=5Wuych4chNY&t=2790s)
+- **RD 855 (2020-05-12)**, reservados · relator **Weber Ciloni** · Processos reservados: PAD da Corregedoria (relator Weber Ciloni) e recurso em processo administrativo simplificado da Autopista Fluminense (relator Al → julgados em parte reservada; resultado não consta do vídeo
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=QSiJxkgnNRE&t=135s)
+- **RD 856 (2020-05-19)**, 2.3.1 (reservado) · relator **Menezes (nome incerto)** · Processo administrativo ordinário sancionador sob relatoria de Menezes (acesso restrito, julgado ao final) → sigiloso — sem resultado público
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=mjm6V4571wA&t=120s)
+- **RD 856 (2020-05-19)**, 2.1.1 · relator **Marcelo Vinaud** · Postergação em caráter excepcional da cobrança da taxa de fiscalização (TFAT, Res. 4.936/2015) devida pelas empresas de transporte coletivo interestad → retirado de pauta (aprovado por unanimidade)
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=mjm6V4571wA&t=148s)
+- **RD 861 (2020-06-23)**, 2.2.2 a 2.2.5, 2.3.2, 2.3.3 (reservados) · relator **Davi Barreto** · Processos sancionadores e pedidos de reconsideração com restrição de acesso, julgados ao final da transmissão (relatorias de Davi Barreto e Alexandre  → sigiloso – julgamento fora da transmissão
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=mBKYTdfpNH0&t=114s)
+- **RD 862 (2020-06-30)**, 2.3.2 e 2.3.3 (reservados) · relator **Davi Barreto** · Recursos contra decisões da SUINFRA em processos de aplicação de penalidade (acesso restrito, julgados ao final) → sigiloso — sem resultado público
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=WkYsadnFmNU&t=89s)
+- **RD 862 (2020-06-30)**, 2.4.1 (reservado) · relator **None** · Processo administrativo ordinário - proposta de aplicação de penalidade (acesso restrito) → sigiloso — sem resultado público
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=WkYsadnFmNU&t=113s)
+- **RD 862 (2020-06-30)**, 2.2.1 · relator **Weber Ciloni** · Manifestação da concessionária sobre a suspensão do transporte de combustíveis (Alto Paraopeba/Pirapora–Montes Claros, entre outros) e análise do cump → aprovado por unanimidade (Alexandre Porto impedido)
+  - votos: Weber: relator; Davi: acompanha; Alexandre: outro; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=WkYsadnFmNU&t=716s)
+- **RD 863 (2020-07-07)**, 2.1.1 · relator **Weber Ciloni** · Norma administrativa que institui o kit de fiscalização e os procedimentos de solicitação, entrega, uso e guarda dos itens (revisão da norma de unifor → pedido de vista (voto-vista só em reunião posterior; ver RD 868)
+  - votos: Weber: relator; Davi: vista · [vídeo](https://www.youtube.com/watch?v=5tKzpDjUXM4&t=180s)
+- **RD 863 (2020-07-07)**, 2.3.1 · relator **Alexandre Porto** · Pedido de inclusão de novos mercados (ônibus interestadual, regime de autorização) e impugnações de concorrentes → aprovado por unanimidade — indeferido
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=5tKzpDjUXM4&t=2830s)
+- **RD 863 (2020-07-07)**, 2.2.2 (reservado) · relator **Davi Barreto** · Processo reservado: aplicação de penalidade → julgado na parte reservada; sem transcrição
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=5tKzpDjUXM4&t=4434s)
+- **RD 863 (2020-07-07)**, 2.2.3 (reservado) · relator **Davi Barreto** · Processo reservado: processo administrativo ordinário, proposta de aplicação de penalidade → julgado na parte reservada; sem transcrição
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=5tKzpDjUXM4&t=4434s)
+- **RD 863 (2020-07-07)**, 2.3.2 (reservado) · relator **Alexandre Porto** · Processo reservado: pedido de recurso em processo administrativo simplificado → julgado na parte reservada; sem transcrição
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=5tKzpDjUXM4&t=4434s)
+- **RD 864 (2020-07-14)**, 2.1.3 / 2.2.2 (reservados) · relator **None** · Processos sancionadores com restrição de acesso, julgados ao final da transmissão → sigiloso – julgamento fora da transmissão
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=_RSg6WUtZj0&t=120s)
+- **RD 864 (2020-07-14)**, 2.3.1 · relator **Weber Ciloni** · Norma administrativa do kit de fiscalização e procedimentos de solicitação, entrega, uso e guarda; voto-vista de Davi Barreto sobre a espécie normativ → retirado de pauta (aprovado por unanimidade)
+  - votos: Davi: revisor_acompanha; Weber: relator; Eduardo: acompanha; Marcelo: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=_RSg6WUtZj0&t=644s)
+- **RD 865 (2020-07-21)**, sigiloso (2.4.2 da pauta reservada) · relator **None** · Aplicação de penalidades (processo administrativo sancionador, julgamento reservado ao final da transmissão) → sigiloso (não transmitido)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=EFqrNJhKrSo&t=329s)
+- **RD 866 (2020-07-28)**, RES-1 · relator **Alexandre Porto** · Processos reservados/sigilosos tratados na parte restrita: prorrogações de prazo para conclusão de processos administrativos (2.1.2 e 2.1.3) e process → sigiloso — fora da transmissão
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=p37M8AcTHkc&t=105s)
+- **RD 867 (2020-08-04)**, 2.2.2 · relator **None** · Norma administrativa que institui o kit de fiscalização e os procedimentos para solicitação, uso e guarda dos itens; já passou pela RD 863 (07/07/2020 → retirado de pauta (aprovado por unanimidade o pedido de retirada)
+  - votos: Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=Y2XuL68vXN4&t=1378s)
+- **RD 868 (2020-08-11)**, 2.1.1 · relator **Marcelo Vinaud** · Recurso contra o auto de infração nº 48 (25/10/2017): execução parcial/total de obras sem cumprir cronograma (art. 19 da Res. 4.071/2013) → aprovado por unanimidade — recurso conhecido e improvido
+  - votos: Marcelo: relator; Davi: acompanha; Eduardo: acompanha; Weber: nao_captado; Alexandre: nao_captado · [vídeo](https://www.youtube.com/watch?v=OwXT6_HIJz0&t=339s)
+- **RD 868 (2020-08-11)**, 2.2.3 (reservado) · relator **Davi Barreto** · Processo reservado: aplicação de penalidade → julgado na parte reservada; sem transcrição
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=OwXT6_HIJz0&t=3600s)
+- **RD 868 (2020-08-11)**, 2.3.3 (reservado) · relator **Alexandre Porto** · Processo reservado: processo administrativo ordinário, proposta de aplicação de penalidade → julgado na parte reservada; sem transcrição
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=OwXT6_HIJz0&t=3600s)
+- **RD 869 (2020-08-25)**, 2.2.1 · relator **Marcelo Vinaud** · Revogação das Resoluções 5.878/2020 e 5.882/2020 (suspensão de prazos processuais em processos administrativos sancionadores durante a covid-19, Res.  → aprovado por unanimidade
+  - votos: Marcelo: relator; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=exs-8j77hXY&t=1018s)
+- **RD 870 (2020-09-01)**, 2.1.2 / 2.2.1 (reservados) · relator **Weber Ciloni** · Processo administrativo disciplinar e recurso sancionador reservados, julgados ao final da transmissão → sigiloso – julgamento fora da transmissão
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=FlDaU_ciwQM&t=90s)
+- **RD 871 (2020-09-08)**, 2.1.2 (reservado) · relator **None** · Processo reservado: recurso administrativo, aplicação de penalidade → julgado após a transmissão (parte reservada); sem transcrição
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=zjfsRZ00kT4&t=1433s)
+- **RD 871 (2020-09-08)**, 2.2.2 (reservado) · relator **None** · Processo reservado: recurso administrativo, aplicação de penalidade → julgado após a transmissão (parte reservada); sem transcrição
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=zjfsRZ00kT4&t=1433s)
+- **RD 871 (2020-09-08)**, 2.2.3 (reservado) · relator **None** · Processo reservado: recurso administrativo, aplicação de penalidade → julgado após a transmissão (parte reservada); sem transcrição
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=zjfsRZ00kT4&t=1433s)
+- **RD 872 (2020-09-15)**, 2.1.3 / 2.5 (sigilosos) · relator **Weber Ciloni** · Recursos em processos de aplicação de penalidade, com acesso restrito, julgados ao final da transmissão (art. 61 §1º do regimento interno) → sigiloso – julgamento fora da transmissão
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=zuksv7XVCg8&t=270s)
+- **RD 872 (2020-09-15)**, 2.1.1 · relator **Marcelo Vinaud** · Pedido de adesão a parcelamento de débitos de infrações no transporte rodoviário interestadual de passageiros (34 autos de infração, ≈ R$ 400 mil, 60  → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=zuksv7XVCg8&t=384s)
+- **RD 872 (2020-09-15)**, 2.1.2 · relator **Marcelo Vinaud** · Referendo da Deliberação nº 379/2020 (18/08/2020), que suspendeu, por decisão judicial, os efeitos da Deliberação nº 361/2019 (declaração de inidoneid → aprovado por unanimidade
+  - votos: Marcelo: relator; Davi: acompanha; Eduardo: acompanha; Weber: outro; Alexandre: outro · [vídeo](https://www.youtube.com/watch?v=zuksv7XVCg8&t=503s)
+- **RD 873 (2020-09-22)**, reservados · relator **Marcelo Vinaud** · Processos reservados: recursos de concessionárias contra decisões da Suinf de aplicação de penalidades (2.1.1 relator Marcelo Vinaud; 2.2.1 relator We → julgados em parte reservada; resultado não consta do vídeo
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=P0ETqLY7UsE&t=110s)
+- **RD 874 (2020-09-29)**, 2.2.1 (reservado) · relator **Alexandre Porto** · Recurso contra decisão (aplicação de penalidades), reservado → sigiloso – julgamento fora da transmissão
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=mfKf63OfUW4&t=100s)
+- **RD 875 (2020-10-06)**, 2.1.1 · relator **Weber Ciloni** · 5ª revisão ordinária, revisão extraordinária e reajuste da tarifa básica de pedágio (Fator Q / acidentes; verba de aparelhamento da PRF; livros de com → vista (Alexandre Porto)
+  - votos: Weber: relator; Alexandre: vista; Davi: outro; Eduardo: outro; Marcelo: outro · [vídeo](https://www.youtube.com/watch?v=yeArWUIUNCw&t=1036s)
+- **RD 876 (2020-10-13)**, 2.1.1 (reservado) · relator **Weber Ciloni** · PAD em grau de recurso, de relatoria de Weber Ciloni, julgado ao final da transmissão → sigiloso – julgamento fora da transmissão
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=zXV6lBoo2Qg&t=135s)
+- **RD 880 (2020-11-18)**, 2.1.2 · relator **Alexandre Porto** · Plano anual de aquisição de veículos 2020 (13 veículos para fiscalização); voto-vista do DG nº 006/2020 após voto do relator Alexandre Porto na RDE nº → aprovado por unanimidade (acolhido o voto-vista)
+  - votos: Marcelo: revisor_acompanha; Weber: revisor_acompanha; Davi: revisor_acompanha; Alexandre: revisor_acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=t5HV1ZgSFw4&t=192s)
+- **RD 880 (2020-11-18)**, 2.2.1 · relator **Davi Barreto** · Prorrogação por 120 dias do prazo de conclusão do processo administrativo ordinário contra a Rumo Malha Oeste → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=t5HV1ZgSFw4&t=514s)
+- **RD 881 (2020-11-24)**, 2.3.1 (reservado) · relator **Davi Barreto** · Detalhamento de descumprimentos contratuais e prazo para correção de irregularidades (processo reservado, relatoria de Davi Barreto), julgado ao final → sigiloso – julgamento fora da transmissão
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=b5hpEOiXfbs&t=230s)
+- **RD 882 (2020-12-02)**, RES-1 · relator **Marcelo Vinaud** · Processo reservado/sigiloso 2.1.2: recurso em processo de aplicação de penalidade (relator Marcelo Vinaud), julgado ao final fora da transmissão → sigiloso — resultado não divulgado
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=sDWtLtsoPCU&t=225s)
+- **RD 882 (2020-12-02)**, 2.3.1 · relator **Davi Barreto** · Proposta de edição de súmula sobre o poder fiscalizatório da ANTT e o dever das concessionárias de rodovias de dar acesso a informações, sistemas e da → vista coletiva concedida; deliberação em 08/12/2020 (RD 883)
+  - votos: Davi: relator; Marcelo: outro · [vídeo](https://www.youtube.com/watch?v=sDWtLtsoPCU&t=687s)
+- **RD 883 (2020-12-08)**, 2.2.1 · relator **Davi Barreto** · Súmula sobre acesso às informações das concessões rodoviárias pela ANTT (retorno após vista coletiva) → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=ZulDOW-0648&t=256s)
+- **RD 884 (2020-12-15)**, 2.1 e 2.2.2 (reservados) · relator **Weber Ciloni** · Recursos contra decisões de superintendência em processos administrativos sancionadores (itens com acesso restrito, julgados ao final da transmissão,  → sigiloso — resultado não público no vídeo
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=SIaolRUffls&t=384s)
+- **RD 884 (2020-12-15)**, 2.3.1 · relator **Davi Barreto** · Recurso contra decisão da SUINFRA (4/12/2020) de não conformidade dos trabalhos iniciais nos subtrechos das praças de pedágio P6 e P7, com pedido de a → aprovado por unanimidade — recurso conhecido e provimento negado
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=SIaolRUffls&t=1048s)
+- **RD 886 (2021-01-28)**, 2.2.3, 2.2.4, 2.4.2 (reservados) · relator **Eduardo Marra** · Recursos contra decisões da SUINF (nº 39/2020, 58/2020 e 37/2020), processos reservados (2.4.2 de relatoria de Eduardo Marra), julgados ao final da tr → sigiloso – julgamento fora da transmissão
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=3LVmgqbrUNY&t=770s)
 - **RD 887 (2021-02-02)**, 2.1.2 · relator **Weber Ciloni** · Recurso contra decisão da SUINF de 8/3/2019 (item reservado; julgado ao final da transmissão, sem acesso público) → reservado — sem conteúdo na transmissão
   - votos:  · [vídeo](https://www.youtube.com/watch?v=hOUJ7tu8IOM&t=90s)
 - **RD 887 (2021-02-02)**, 2.3.2 · relator **Alexandre Porto** · Recurso contra ofício da ANTT de 21/8/2019 (item reservado) → reservado — sem conteúdo na transmissão

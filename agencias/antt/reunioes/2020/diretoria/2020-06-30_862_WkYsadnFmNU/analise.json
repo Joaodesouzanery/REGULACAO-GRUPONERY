@@ -1,0 +1,313 @@
+{
+ "meta": {
+  "video_id": "WkYsadnFmNU",
+  "fonte": "legenda automática do YouTube; falantes inferidos pelas saudações; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "862",
+  "data": "2020-06-30",
+  "formato": "videoconferência (gravada, sem transmissão ao vivo)",
+  "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral em exercício)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Weber Ciloni",
+   "Davi Barreto",
+   "Alexandre Porto",
+   "Menezes"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Reunião curta (≈ 20 min).",
+   "Alexandre Porto declarou-se impedido no 2.2.1 (FCA) por ter decidido a cautelar como superintendente.",
+   "Reconhecimento da pandemia como força maior, mas sem repasse imediato de riscos ao contrato da BR-101/SC."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:56",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Aprovação da ata da RD 861",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Marcelo Vinaud (DG em exercício)",
+   "resultado": "aprovada por unanimidade",
+   "resumo_voto": "",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:01:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:01:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:01:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:01:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:01:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2 e 2.3.3 (reservados)",
+   "ts": "0:01:29",
+   "processo": "50500.024639/2014-17 (CRT); 50500.317844/2018-51 (Conserva/Osório)",
+   "interessado": "Concessionária Rio–Teresópolis (CRT); Concessionária da Rodovia Osório–Porto Alegre (Conserva)",
+   "assunto": "Recursos contra decisões da SUINFRA em processos de aplicação de penalidade (acesso restrito, julgados ao final)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções",
+    "sigilo"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "sigiloso — sem resultado público",
+   "resumo_voto": "",
+   "votos": []
+  },
+  {
+   "id": "2.4.1 (reservado)",
+   "ts": "0:01:53",
+   "processo": "50500.329168/2019-50",
+   "interessado": "Parte não identificada",
+   "assunto": "Processo administrativo ordinário - proposta de aplicação de penalidade (acesso restrito)",
+   "tema": [
+    "fiscalização e sanções",
+    "sigilo"
+   ],
+   "relator": "não identificado",
+   "resultado": "sigiloso — sem resultado público",
+   "resumo_voto": "",
+   "votos": []
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:03:18",
+   "processo": "50500.003367/2015-15 (legenda)",
+   "interessado": "CCR S.A. (vencedora do Leilão nº 2/2019 — BR-101/SC)",
+   "assunto": "Pedido da CCR de inclusão de cláusula na minuta do contrato de concessão da BR-101/SC que atribuísse ao poder concedente os riscos da pandemia de COVID-19 (leilão de fev./2020; assinatura adiada de 25/06/2020)",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / concessões",
+    "pandemia",
+    "reequilíbrio contratual",
+    "força maior"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade — pedido indeferido",
+   "resumo_voto": "Indefere a inclusão contratual e declara que a pandemia configura força maior, mas os efeitos extraordinários sobre o equilíbrio econômico-financeiro serão apurados nas revisões contratuais, com parâmetro nas condições vigentes na entrega das propostas (17/02/2020, quando os efeitos eram imprevisíveis). Um diretor (não identificado) pede incluir o conceito de força maior da Procuradoria no voto e na nota técnica (comparando à greve dos caminhoneiros); o relator reformula o voto.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, indefere o pedido de cláusula e reconhece a pandemia como força maior",
+     "ts": "0:04:10",
+     "justificativa": "efeitos futuros imprevisíveis; reequilíbrio será tratado nas revisões contratuais",
+     "tom": "alta",
+     "confianca": "técnico, cauteloso quanto a precedentes"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o indeferimento",
+     "ts": "0:07:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:07:52",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:07:54",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:07:56",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:08:17",
+   "processo": "50500.379582/2018 (legenda)",
+   "interessado": "Concessionária Catarinense de Rodovias S.A. (CCR) — BR-101/SC",
+   "assunto": "Emissão do ato de outorga e autorização para assinar o contrato do Edital nº 2/2019 (BR-101/SC, km 244+680 a divisa SC/RS), com desconto de 62,04% na tarifa básica de pedágio (legenda)",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / concessões",
+    "ato de outorga"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Três proponentes (CCR, Ecorodovias e consórcio); menor tarifa da CCR (62,04% de desconto); sem recursos; documentação de condições prévias apresentada; comissão de outorga entende suficiente.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova ato de outorga",
+     "ts": "0:09:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:11:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:11:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:11:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:11:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:11:56",
+   "processo": "50500.314377/2019-57",
+   "interessado": "Ferrovia Centro-Atlântica (FCA)",
+   "assunto": "Manifestação da concessionária sobre a suspensão do transporte de combustíveis (Alto Paraopeba/Pirapora–Montes Claros, entre outros) e análise do cumprimento da decisão da diretoria; improcedência dos argumentos; determina retomada sob pena de multa mensal; revoga a Portaria nº 86",
+   "tema": [
+    "ferrovias",
+    "fiscalização e sanções",
+    "transporte de combustíveis",
+    "obrigação contratual"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade (Alexandre Porto impedido)",
+   "resumo_voto": "FCA suspendeu em abril/2019 transporte de combustíveis alegando inadequação da via; a ANTT determinou continuidade; recurso negado (Del. 241/2019), vistoria de julho/2019 constatou continuidade da interrupção; FCA não apresentou plano de contingência; retomou só parcialmente; relator julga improcedentes os argumentos, determina retorno do fluxo (origem Replan, destino estação pública) sob pena de multa mensal (cláusula 13 §14 c/c cláusula 9 do contrato) e revoga a Portaria 86.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, julga improcedentes os argumentos da FCA e determina a retomada",
+     "ts": "0:13:50",
+     "justificativa": "a suspensão do transporte só pode ocorrer com autorização do poder concedente; obrigação contratual (cláusulas 9 e 13)",
+     "tom": "alta",
+     "confianca": "firme, técnico-contratual"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:18:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "impedido",
+     "ts": "0:18:13",
+     "justificativa": "atuou como superintendente na decisão cautelar questionada pela empresa; declara-se impedido nos termos do RI",
+     "tom": "alta",
+     "confianca": "declaração de impedimento"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:18:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:18:50",
+   "processo": "50536.5/2017-15 (legenda)",
+   "interessado": "SUCON",
+   "assunto": "Estudos técnicos e jurídicos para concessão da ferrovia Mato Grosso–Itaituba (EF-170 Ferrogrão)",
+   "tema": [
+    "ferrovias",
+    "leilão / concessões",
+    "Ferrogrão"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "retirado de pauta (aprovado por unanimidade)",
+   "resumo_voto": "Retirado para ser deliberado em conjunto com o processo da audiência pública do ministério (outra relatoria), que precisa vir antes ou junto.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, pede retirada de pauta",
+     "ts": "0:19:05",
+     "justificativa": "deliberar em conjunto com o processo relacionado à audiência pública",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com a retirada",
+     "ts": "0:19:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo com a retirada",
+     "ts": "0:19:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo com a retirada",
+     "ts": "0:19:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com a retirada",
+     "ts": "0:19:40",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "2.3.1 — Estudos de concessão da Ferrogrão (Mato Grosso–Itaituba/PA)",
+   "relator": "Davi Barreto",
+   "motivo": "deliberar junto com o processo da audiência pública do ministério",
+   "ts": "0:19:05"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: nomes, números e valores distorcidos; números de processo parciais; percentual de desconto 62,04% vem da legenda.",
+  "Os turnos atribuem tudo ao secretário (Marcelo Fonseca); falantes reais reconstruídos. O DG em exercício aparece como Marcelo Venom/Vinor: Marcelo Vinaud.",
+  "Weber Ciloni aparece como vai/velho/selecione; Menezes como Menezes/Chineses: grafia incerta.",
+  "O diretor que fez a observação sobre força maior no 2.1.1 não é identificável na legenda.",
+  "2.1.1 e 2.1.2: votos de seguidores têm ts aproximados e confiança baixa; no 2.2.1 o voto de Menezes não aparece na legenda e o de Davi Barreto é inferido.",
+  "Relatores do bloco reservado inferidos pela leitura (itens 2.3.x de Davi Barreto; 2.4.1 de diretor não identificado).",
+  "Eduardo Marra não aparece nas votações desta reunião."
+ ]
+}

@@ -1,10 +1,10 @@
 # Perfil analítico — Alexandre Porto · tema: tarifa_modicidade
 
-**Amostra:** presente em 19 das 21 reuniões analisadas em que há registro de presença/ausência; 2 votos neste tema; 0 relatorias. ⚠️ n < 5: tratar como indício, não como perfil.
+**Amostra:** presente em 58 das 61 reuniões analisadas em que há registro de presença/ausência; 2 votos neste tema; 0 relatorias. ⚠️ n < 5: tratar como indício, não como perfil.
 
 **Votos:** acompanha o relator 2 (100% dos votos em que não era relator) · relator 0 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 38/7; institucional 29/10; regulacao_normativa 28/9; reequilibrio_contratual 28/5; ferrovias 20/5; pedagio_freeflow 16/3; participacao_social 16/3; onibus 16/4; judicializacao 16/3; leilao_otimizacao 11/1; fiscalizacao_sancoes 10/2; onibus_regular 9/3; onibus_semiurbano 6/1; cargas 4/0; tarifa_modicidade 2/0; sustentabilidade 2/1
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 114/19; regulacao_normativa 109/21; institucional 100/16; onibus 98/21; ferrovias 76/13; onibus_regular 73/16; reequilibrio_contratual 67/9; judicializacao 58/7; participacao_social 57/8; pedagio_freeflow 37/6; fiscalizacao_sancoes 36/5; leilao_otimizacao 29/6; cargas 28/5; onibus_fretamento 19/3; onibus_semiurbano 13/3; tarifa_modicidade 2/0; sustentabilidade 2/1; sandbox_inovacao 2/0
 
 ## Evidências (reunião · item · voto · justificativa)
 

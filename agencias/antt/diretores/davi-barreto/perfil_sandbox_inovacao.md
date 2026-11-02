@@ -1,16 +1,18 @@
 # Perfil analítico — Davi Barreto · tema: sandbox_inovacao
 
-**Amostra:** presente em 67 das 76 reuniões analisadas em que há registro de presença/ausência; 5 votos neste tema; 1 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 137 das 151 reuniões analisadas em que há registro de presença/ausência; 7 votos neste tema; 1 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 4 (100% dos votos em que não era relator) · relator 1 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 5 (83% dos votos em que não era relator) · relator 1 · vista pedida 1 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 1/1 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 155/56; regulacao_normativa 121/38; fiscalizacao_sancoes 92/29; institucional 83/15; reequilibrio_contratual 74/31; ferrovias 74/19; onibus 73/23; participacao_social 69/27; judicializacao 50/20; leilao_otimizacao 49/20; pedagio_freeflow 46/18; onibus_regular 46/17; cargas 25/9; onibus_fretamento 15/4; tarifa_modicidade 14/5; onibus_semiurbano 11/1; sandbox_inovacao 5/1; sustentabilidade 4/0
+**Temas (nº de itens em que votou / relatorias):** onibus 306/66; concessoes_rodoviarias 298/89; regulacao_normativa 255/62; institucional 215/31; onibus_regular 210/45; ferrovias 171/39; fiscalizacao_sancoes 159/43; reequilibrio_contratual 157/49; participacao_social 143/41; judicializacao 135/40; onibus_fretamento 100/27; pedagio_freeflow 93/28; leilao_otimizacao 79/28; cargas 68/16; onibus_semiurbano 21/2; tarifa_modicidade 15/5; sandbox_inovacao 7/1; sustentabilidade 5/0
 **Argumentos recorrentes nas justificativas registradas:** evidência/dados (1)
 **Tom (inferência da leitura, não métrica):** favorável
 
 ## Evidências (reunião · item · voto · justificativa)
 
+- **RD 847 (2020-03-03)**, item 2.2.4 — Proposta de aprovação da política de inovação da ANTT (ciclo 2020) · voto: *pede vista* (vista, conf. alta) · [vídeo](https://www.youtube.com/watch?v=YHufn0EJk5g&t=619s) · resultado: vista concedida (Davi Barreto)
+- **RD 852 (2020-04-14)**, item 2.3.2 — Política de inovação da ANTT (relator Weber Ciloni; voto-vista de Davi Barreto, apresentado na reunião 847) · voto: *voto-vista: devolve os autos para ampliar a política de inovação* (revisor_acompanha, conf. alta) · «política deve cobrir inovação científica e institucional, ouvir as áreas da agência, fazer consulta e passar pela Procuradoria» · [vídeo](https://www.youtube.com/watch?v=cgsrOI4Uxoo&t=725s) · resultado: aprovado por unanimidade o voto-vista - devolução à área para ampliar 
 - **RD 927 (2022-03-10)**, item 2.2.2 — Abertura de audiência pública sobre a minuta de resolução do sandbox regulatório (ambiente regulatório experimental) · voto: *relator, aprova abertura da audiência* (relator, conf. alta) · [vídeo](https://www.youtube.com/watch?v=vD2mixuNuv8&t=1260s) · resultado: aprovado por unanimidade
 - **RD 943 (2022-11-03)**, item 2.4.1 — Relatório final da Audiência Pública 2/2022 e aprovação da minuta de resolução do ambiente regulatório experimental (sandbox regulatório) · voto: *de acordo integral* (acompanha, conf. alta) · «marco na forma de regular; regulação baseada em evidência e prototipação; free flow na BR-101» · [vídeo](https://www.youtube.com/watch?v=MamI8NVrbBs&t=4573s) · resultado: aprovado por unanimidade
 - **RD 949 (2023-02-02)**, item 2.3.3 — Recurso (pedido de reconsideração) contra a Deliberação 389/2022 que cassou a autorização de fretamento por circuito aberto e venda de bilhe · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=58YX4d-4chY&t=3440s) · resultado: aprovado por unanimidade — conhecido, sem efeito suspensivo; não provi

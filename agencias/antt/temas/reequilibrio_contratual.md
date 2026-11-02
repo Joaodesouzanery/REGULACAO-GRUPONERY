@@ -1,5 +1,217 @@
 # Itens do tema «reequilibrio_contratual» (todos os diretores)
 
+- **RD 806 (2019-04-09)**, 2.3.4 · relator **Weber Ciloni** · Recurso — negativa de anuência para reduzir capital social subscrito e integralizado (cláusula 30.7 do contrato: mínimo de 20% dos investimentos) → aprovado por unanimidade — recurso não conhecido (intempestivo)
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha; Elisabeth: acompanha · [vídeo](https://www.youtube.com/watch?v=ly2oThPrSBs&t=1321s)
+- **RD 61 (extraordinária) (2019-04-30)**, 1.2.3 · relator **Mário Rodrigues Junior** · Abertura de audiência pública (45 dias) sobre procedimentos e critérios de alteração contratual nas revisões quinquenais das concessões rodoviárias fe → vista concedida (pedido de vista por diretor da casa)
+  - votos: Weber: vista; Mário: relator · [vídeo](https://www.youtube.com/watch?v=_fNM_kiMQlc&t=887s)
+- **RD 809 (2019-05-07)**, 2.1.2 · relator **Elisabeth Braga** · Abertura de audiência pública sobre minuta de resolução com metodologia de cálculo de investimentos não amortizados em bens reversíveis na extinção an → aprovado por unanimidade
+  - votos: Elisabeth: relator; Mário: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=E3TPE9LTUFE&t=317s)
+- **RD 809 (2019-05-07)**, 3.4 · relator **None** · Proposta de acordo judicial (ação do município de Palhoça/SC; PGR/MPF): prazo até 21/11/2019 para publicar a revisão extraordinária; 30 dias para anál → Diretoria concorda com a celebração do acordo
+  - votos: Mário: outro; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=E3TPE9LTUFE&t=2033s)
+- **RD 810 (2019-05-14)**, 2.3.2 · relator **Weber Ciloni** · 8ª revisão ordinária, 11ª revisão extraordinária e reajuste da tarifa básica de pedágio (vigência prevista 18/05/2019) → pedido de vista (Marcelo Vinaud) e vista também concedida a Elisabeth Braga; votação suspe
+  - votos: Weber: relator; Marcelo: vista; Elisabeth: vista; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=aZwuAPZ66J0&t=2373s)
+- **RD 811 (2019-05-21)**, 2.3.2 · relator **Weber Ciloni** · Audiência pública para normatizar alterações contratuais nas revisões quinquenais das concessões rodoviárias (inclusão, exclusão e reprogramação de ob → aprovado por unanimidade (voto-vista)
+  - votos: Weber: revisor_acompanha; Mário: acompanha; Marcelo: acompanha; Elisabeth: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=Epr61yDCvnY&t=1495s)
+- **RD 811 (2019-05-21)**, extrapauta-2 · relator **Elisabeth Braga** · 8ª revisão ordinária, 11ª extraordinária e reajuste da tarifa básica de pedágio, com discussão do desconto de reequilíbrio e da curva de tráfego → pedido de vista (autoria incerta na legenda; processo seria redistribuído)
+  - votos: Elisabeth: relator; Marcelo: vista · [vídeo](https://www.youtube.com/watch?v=Epr61yDCvnY&t=2378s)
+- **RD 812 (2019-05-28)**, 2.2.2 · relator **Elisabeth Braga** · Revisão ordinária (a legenda diz «oitava/quarta») e revisão extraordinária e reajuste da tarifa básica de pedágio → aprovado por unanimidade
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=dr2WCpJwvEM&t=718s)
+- **RD 813 (2019-06-04)**, 2.3.3 · relator **Elisabeth Braga** · Revogação da Deliberação 1.187/2016 (legenda) e de incisos da Resolução 5142/2016 (3ª revisão extraordinária): obras do viaduto de ligação ao aeroport → aprovado por unanimidade
+  - votos: Elisabeth: relator; Mário: acompanha; Marcelo: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=ydYYojzjVn4&t=1590s)
+- **RD 813 (2019-06-04)**, extrapauta-1 · relator **Mário Rodrigues Junior** · Abertura de audiência pública (3 a 29/06/2019) sobre estudos técnicos da prorrogação antecipada do prazo contratual da concessão → aprovado por unanimidade
+  - votos: Mário: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=ydYYojzjVn4&t=2971s)
+- **RD 814 (2019-06-11)**, 2.2.7 · relator **Weber Ciloni** · Abertura de audiência pública com consulta pública sobre a metodologia da taxa de retorno do fluxo de caixa marginal (art. 5º da Res. 4.075/2013) → aprovado por unanimidade
+  - votos: Weber: relator; Mário: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=OiiVU2kqVK4&t=1121s)
+- **RD 815 (2019-06-18)**, extrapauta-1 · relator **Marcelo Vinaud** · Aprovação dos estudos técnicos e documentos jurídicos consolidados após a AP 09/2018 sobre prorrogação antecipada da concessão da EFC, com envio ao Mi → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=AhItQBZ9-D4&t=3471s)
+- **RD 815 (2019-06-18)**, extrapauta-2 · relator **Elisabeth Braga** · Aprovação dos estudos técnicos e documentos jurídicos sobre prorrogação antecipada da concessão da EFVM (Portaria MT 399/2015; Res. 4.975/2015; Lei 13 → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=AhItQBZ9-D4&t=3620s)
+- **RD 816 (2019-06-25)**, 2.3.2 · relator **Weber Ciloni** · Ajuste das metas de produção por trecho para 2019 após impactos da ruptura da barragem de Brumadinho → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=F6Iun8IyLgw&t=2635s)
+- **RD 817 (2019-07-09)**, 2.1.1 · relator **Elisabeth Braga** · Primeira revisão extraordinária da Agenda Regulatória 2019-2020: troca do nome do projeto para «definição dos procedimentos de revisão tarifária» dos  → aprovado por unanimidade
+  - votos: Elisabeth: relator; Mário: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=S6thCF9q-3Q&t=111s)
+- **RD 818 (2019-07-16)**, 2.1.8 · relator **Elisabeth Braga** · Relatório da AP 01/2019 e resolução sobre procedimentos de reequilíbrio econômico-financeiro dos contratos de concessão de rodovias → aprovado; unanimidade
+  - votos: Elisabeth: relator; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=Ve-A2CB2qb4&t=1031s)
+- **RD 820 (2019-07-30)**, 2.4.1 · relator **Davi Barreto** · Abertura de audiência pública: programa de exploração e estudos de viabilidade da concessão da BR-153/414/080 TO/GO (cerca de 850 km, duplicação, inve → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: acompanha; Davi: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=wTsJa3zoysI&t=3848s)
+- **RD 821 (2019-08-06)**, 2.1.2 · relator **Elisabeth Braga** · Pedido de reconsideração das deliberações ANTT 536 e 537 (metas de segurança e de produção, quinquênio 2018-2022) → conhecido; reconsideração improcedente; unanimidade
+  - votos: Elisabeth: relator; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=i8c3Cjiy9jI&t=457s)
+- **RD 822 (2019-08-13)**, 2.2.3 · relator **Elisabeth Braga** · 11ª revisão ordinária, 11ª revisão extraordinária e reajuste da tarifa básica de pedágio (BR-101/RJ) → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: relator; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kMGgTtubwtU&t=839s)
+- **RD 823 (2019-08-20)**, 2.1.1 · relator **Mário Rodrigues Junior** · Voto-vista do Diretor-Geral — quarta revisão ordinária, oitava extraordinária e reajuste da tarifa básica de pedágio (TBP) → aprovado por unanimidade — com aplicação parcial do fator C
+  - votos: Mário: revisor_acompanha; Marcelo: revisor_acompanha; Elisabeth: revisor_acompanha; Weber: revisor_acompanha; Davi: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=6pNMwNpnAP8&t=74s)
+- **RD 823 (2019-08-20)**, 2.2.2 · relator **Marcelo Vinaud** · Voto-vista — oitava revisão ordinária, 11ª revisão extraordinária, desconto de reequilíbrio e reajuste da TBP → aprovado por unanimidade
+  - votos: Marcelo: revisor_acompanha; Elisabeth: revisor_acompanha; Weber: revisor_acompanha; Davi: revisor_acompanha; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=6pNMwNpnAP8&t=691s)
+- **RD 824 (2019-08-27)**, 2.1.2 · relator **Marcelo Vinaud** · 3ª revisão ordinária, 5ª revisão extraordinária e reajuste da tarifa básica de pedágio (BR-101/RJ, Ponte Rio-Niterói) → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=_1ekxBesJpo&t=270s)
+- **RD 825 (2019-09-03)**, 2.4.1 · relator **Davi Barreto** · Décima segunda revisão extraordinária da tarifa básica de pedágio — retirado de pauta pelo relator → retirado de pauta
+  - votos: Davi: relator; Elisabeth: acompanha; Weber: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=MeEnP05i-aI&t=734s)
+- **RD 827 (2019-09-17)**, 2.2.3 · relator **Elisabeth Braga** · 23ª revisão ordinária, 9ª revisão extraordinária e reajuste da TBP → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kH8jsop2XDs&t=413s)
+- **RD 827 (2019-09-17)**, 2.2.4 · relator **Elisabeth Braga** · 10ª revisão ordinária, 11ª revisão extraordinária e reajuste da TBP → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=kH8jsop2XDs&t=583s)
+- **RD 828 (2019-09-24)**, 2.1.1 · relator **Marcelo Vinaud** · 11ª revisão ordinária, 13ª revisão extraordinária e reajuste da TBP (BR-116/PR, BR-376/PR e BR-101/SC, Curitiba–Florianópolis) → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uhDA6l45fTk&t=151s)
+- **RD 828 (2019-09-24)**, 2.2.2 · relator **Elisabeth Braga** · 10ª revisão ordinária, 11ª revisão extraordinária e reajuste da TBP (edital 07/2007; praça P3 de R$ 7,00 para R$ 6,20, queda de ~11,4%) → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uhDA6l45fTk&t=603s)
+- **RD 829 (2019-10-01)**, 2.1.1 · relator **Marcelo Vinaud** · Pedido de reconsideração contra a Deliberação 432/2019 (inadimplemento contratual e prazo para correção; Lei 8.987/1995), alterada pela Deliberação 67 → aprovado por unanimidade — pedido conhecido e negado; embargos não conhecidos
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=4qQrSJA_XaM&t=150s)
+- **RD 829 (2019-10-01)**, 2.4.2 · relator **Davi Barreto** · Sexta revisão ordinária, sétima revisão extraordinária e reajuste anual da tarifa básica de pedágio → aprovado por unanimidade
+  - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=4qQrSJA_XaM&t=785s)
+- **RD 832 (2019-10-22)**, 2.3.2 · relator **Weber Ciloni** · 4ª revisão ordinária, 6ª extraordinária e reajuste da tarifa básica de pedágio → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=tDrIVnhMZBo&t=588s)
+- **RD 832 (2019-10-22)**, 2.4.3 · relator **Davi Barreto** · 12ª revisão extraordinária da tarifa básica de pedágio → retirado de pauta por uma semana
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=tDrIVnhMZBo&t=1022s)
+- **RD 833 (2019-10-30)**, 2.1.5 · relator **Marcelo Vinaud** · 25ª revisão ordinária, 13ª revisão extraordinária e reajuste da tarifa básica de pedágio; atualização dos aportes da nova subida da Serra de Petrópoli → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=Ie5Fnfu5VQI&t=1682s)
+- **RD 833 (2019-10-30)**, 2.1.6 · relator **Marcelo Vinaud** · 4ª revisão ordinária, 8ª revisão extraordinária e reajuste da tarifa básica de pedágio; manutenção da tarifa por tutela de urgência em ação cautelar a → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=Ie5Fnfu5VQI&t=1920s)
+- **RD 834 (2019-11-05)**, 2.1.2 · relator **Marcelo Vinaud** · Pedido de revisão das metas de produção de 2020 (Res. 5.831/2018) em razão da instabilidade da demanda de minério de ferro após o rompimento da barrag → deferido por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jtaSxDPBkcE&t=450s)
+- **RD 834 (2019-11-05)**, 2.2.3 · relator **Elisabeth Braga** · Reajuste das tarifas de referência do transporte ferroviário de cargas (período de 2018) → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: relator; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jtaSxDPBkcE&t=915s)
+- **RD 834 (2019-11-05)**, 2.3.1 · relator **Weber Ciloni** · Reajuste das tarifas de referência do transporte ferroviário de cargas (1º/07/2017 a 30/06/2019) → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: acompanha; Weber: relator; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jtaSxDPBkcE&t=1110s)
+- **RD 834 (2019-11-05)**, 2.3.2 · relator **Weber Ciloni** · Reajuste das tarifas de referência do transporte ferroviário de cargas (mesmo período do item anterior) → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: acompanha; Weber: relator; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jtaSxDPBkcE&t=1179s)
+- **RD 834 (2019-11-05)**, 2.3.4 · relator **Weber Ciloni** · 4ª revisão ordinária, 6ª revisão extraordinária e reajuste anual (IPCA 4,66%) da tarifa básica de pedágio; redução da tarifa de categoria 1 para R$ 2, → aprovado por unanimidade
+  - votos: Marcelo: acompanha; Elisabeth: acompanha; Weber: relator; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jtaSxDPBkcE&t=1426s)
+- **RD 834 (2019-11-05)**, extrapauta · relator **Marcelo Vinaud** · Referendo da Deliberação 971/2019 (tornou sem efeito a redução tarifária da Deliberação 963/2019) e nova aprovação da 25ª revisão ordinária, 13ª extra → aprovado por unanimidade; inclusão extrapauta aceita por todos
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jtaSxDPBkcE&t=2100s)
+- **RD 835 (2019-11-12)**, 2.1.1 · relator **Marcelo Vinaud** · Quarta revisão ordinária, sexta revisão extraordinária e reajuste da tarifa básica de pedágio, com sustentação oral da concessionária (redução média d → vista concedida a Weber Ciloni (votação interrompida)
+  - votos: Marcelo: relator; Weber: vista · [vídeo](https://www.youtube.com/watch?v=NM39E2nZvAs&t=388s)
+- **RD 835 (2019-11-12)**, 2.1.2 · relator **Marcelo Vinaud** · Décima primeira revisão ordinária, décima primeira revisão extraordinária e reajuste da TBP (praças Onda Verde, José Bonifácio, Marília etc.) → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=NM39E2nZvAs&t=1513s)
+- **RD 837 (2019-11-26)**, 2.1.1 · relator **Mário Rodrigues Junior** · Referendo da Deliberação 1001/2019 e aprovação da 4ª revisão ordinária, 6ª extraordinária e reajuste da tarifa básica de pedágio, com observação de su → aprovado por unanimidade
+  - votos: Mário: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=3O5viqLvwtg&t=145s)
+- **RD 837 (2019-11-26)**, 2.3.2 · relator **Elisabeth Braga** · Requerimento de relicitação da concessão da BR-040 DF/GO/MG (Edital 6/2013) nos termos da Lei 13.448/2017 e do Decreto 9.957/2019 → aprovado; remessa ao Ministério da Infraestrutura; unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=3O5viqLvwtg&t=823s)
+- **RD 837 (2019-11-26)**, 2.4.3 · relator **Weber Ciloni** · Decisão judicial sobre ação contra resoluções homologatórias da revisão tarifária (consulta pública 001/2011) → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=3O5viqLvwtg&t=1515s)
+- **RD 837 (2019-11-26)**, extra-1 · relator **Elisabeth Braga** · Proposta de acordo judicial para encerrar ações civis públicas sobre indenização por degradação de trechos devolvidos, cumprida a Res. 4.131/2013 → aprovado; unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=3O5viqLvwtg&t=2258s)
+- **RD 837 (2019-11-26)**, extra-2 · relator **Weber Ciloni** · Voto-vista de Weber Ciloni sobre 4ª revisão ordinária, 6ª extraordinária e reajuste da TBP (proposta de Marcelo Vinaud com aplicação integral do monta → aprovada a revisão com a metodologia da SUINF; prazo de 30 dias (prorrogável por 30) para 
+  - votos: Weber: revisor_acompanha; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=3O5viqLvwtg&t=2590s)
+- **RD 838 (2019-12-03)**, 2.2.2 · relator **Elisabeth Braga** · Audiência Pública 05/2019: aprovação do relatório final e da minuta de resolução sobre critérios de inclusão, exclusão e reprogramação de obras/serviç → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uvRp5oExIss&t=767s)
+- **RD 838 (2019-12-03)**, 2.3.1 · relator **Weber Ciloni** · Cumprimento de decisão judicial: suspensão dos efeitos da Deliberação 911/2019, que aprovou a 10ª revisão ordinária e 11ª extraordinária (tarifa da BR → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uvRp5oExIss&t=1271s)
+- **RD 838 (2019-12-03)**, 2.4.1 · relator **Davi Barreto** · 12ª revisão extraordinária da TBP, efeitos a partir de 1º/01/2020, em cumprimento ao Acórdão TCU 1.930/2018 (impacto da MP dos caminhoneiros/aumento d → aprovado por unanimidade
+  - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uvRp5oExIss&t=1445s)
+- **RD 838 (2019-12-03)**, 2.4.2 · relator **Davi Barreto** · Audiência Pública 03/2019: relatório final e resolução com a metodologia de cálculo de indenização por investimentos não amortizados em bens reversíve → aprovado por unanimidade
+  - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uvRp5oExIss&t=1742s)
+- **RD 839 (2019-12-11)**, 2.3.1 · relator **Elisabeth Braga** · 4ª revisão ordinária, 7ª revisão extraordinária e reajuste da tarifa básica de pedágio (ciclo 06/09/2019 a 05/09/2020), com manutenção das tarifas vig → aprovado por unanimidade
+  - votos: Elisabeth: relator; Marcelo: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=7gL6wMFBa0w&t=1321s)
+- **RD 840 (2019-12-17)**, 2.1.3 · relator **Marcelo Vinaud** · Pedido de reconsideração da Del. 1.045/2018 (metas de produção 2018–2022) → retirado de pauta
+  - votos: Marcelo: relator · [vídeo](https://www.youtube.com/watch?v=g9pWxYnVrPA&t=1413s)
+- **RD 840 (2019-12-17)**, 2.4.2 · relator **Davi Barreto** · Revisão das taxas de depreciação de vagões e componentes (Res. 4.540/2004? alterada pela 5.9?/2016) → aprovado por unanimidade
+  - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=g9pWxYnVrPA&t=2656s)
+- **RD 64 (extraordinária) (2019-12-19)**, 1.1.3 · relator **Marcelo Vinaud** · Relatório da AP 08/2019 e revisão da metodologia da taxa de desconto (WACC) do fluxo de caixa marginal para recomposição do equilíbrio de contratos de → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5Pdwi_izh8Q&t=536s)
+- **RD 64 (extraordinária) (2019-12-19)**, 1.3.3 · relator **Weber Ciloni** · 24ª revisão ordinária, 15ª extraordinária e reajuste da tarifa básica de pedágio (vigência 23/12/2019); debate sobre pedido de sustentação oral intemp → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5Pdwi_izh8Q&t=1955s)
+- **RD 841 (2020-01-14)**, 2.4.1 · relator **Mário Rodrigues Junior** · Cumprimento de decisão judicial: atualização das resoluções homologatórias da revisão tarifária (Resoluções 3.888/2012 a 3.891/2012) conforme data-bas → aprovado por unanimidade
+  - votos: Mário: relator; Marcelo: acompanha; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=bJMyPYl26qE&t=2008s)
+- **RD 842 (2020-01-21)**, 2.4.2 · relator **Weber Ciloni** · Pedido de revisão das metas anuais de produção do quinquênio 2019–2022 (Del. 305/2018), com sustentação oral do advogado da concessionária → retirado de pauta (diligência) pelo relator
+  - votos: Weber: relator; Mário: outro; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=AQtsEWWAzts&t=179s)
+- **RD 842 (2020-01-21)**, 2.1.1 · relator **Mário Rodrigues Junior** · Referendo da Deliberação 1.123 (23/12/2019 — numeração incerta), que suspendeu parcialmente os efeitos da Del. 813/2009 (11ª revisão ordinária, 11ª ex → aprovado por unanimidade
+  - votos: Mário: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Weber: acompanha · [vídeo](https://www.youtube.com/watch?v=AQtsEWWAzts&t=1001s)
+- **RD 842 (2020-01-21)**, 2.1.2 · relator **Mário Rodrigues Junior** · Referendo da Deliberação 1.111 (23/12/2019), que suspendeu a Del. 1.093 (24ª revisão ordinária, 15ª extraordinária e reajuste da TBP da BR-116/RJ-SP)  → aprovado por unanimidade
+  - votos: Mário: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=AQtsEWWAzts&t=1170s)
+- **RD 842 (2020-01-21)**, 2.2.2 · relator **Marcelo Vinaud** · Homologação das tarifas de referência do transporte ferroviário de cargas (reajuste de 5,26% para dez/2018–nov/2019, a partir de IGP-DI de 5,86% — val → aprovado por unanimidade
+  - votos: Marcelo: relator; Elisabeth: acompanha; Weber: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=AQtsEWWAzts&t=1442s)
+- **RD 844 (2020-02-04)**, 2.3.1 · relator **Weber Ciloni** · 24ª revisão ordinária, 15ª revisão extraordinária e reajuste anual da tarifa básica de pedágio (vigência prevista 08/02/2020); matéria já aprovada ant → aprovado por unanimidade
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5H2Ghxo8L9k&t=996s)
+- **RD 846 (2020-02-18)**, 2.3.1 · relator **Weber Ciloni** · Pedido de revisão das metas anuais de produção 2019–2022 (Del. 35/2018 — legenda), após retirada de pauta na RD 842; sustentação oral → aprovado por unanimidade — recurso conhecido e provido em parte
+  - votos: Weber: relator; Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=U0XA7rHQ4tw&t=878s)
+- **RD 847 (2020-03-03)**, 2.3.1 · relator **Davi Barreto** · Reajuste das tarifas de referência do transporte ferroviário de cargas (cláusula nona, item 9.1, do contrato de subconcessão) → retirado de pauta
+  - votos: Davi: relator; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=YHufn0EJk5g&t=712s)
+- **RD 851 (2020-04-07)**, 2.1.4 · relator **Marcelo Vinaud** · Acordo judicial na Ação Civil Pública do Município de Palhoça contra a ANTT e a concessionária: definição do procedimento para revisão do contrato (ed → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=185j9FgJSfw&t=936s)
+- **RD 851 (2020-04-07)**, 2.1.6 · relator **Marcelo Vinaud** · Pedido de reconsideração contra a Deliberação 10/2020, que habilitou a ArcelorMittal a negociar o fluxo de transporte por declaração de independência → reconsideração conhecida, sem efeito suspensivo, e improvida por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=185j9FgJSfw&t=1438s)
+- **RD 852 (2020-04-14)**, 2.2.1 · relator **Weber Ciloni** · Prorrogação antecipada do contrato de concessão da Malha Paulista → retirado de pauta (unanimidade)
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=cgsrOI4Uxoo&t=375s)
+- **RD 852 (2020-04-14)**, 2.3.1 · relator **Davi Barreto** · Proposta de acordo entre ANTT, União e Rumo Malha Paulista para encerrar litígios administrativos e judiciais do contrato de concessão, como etapa da  → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=cgsrOI4Uxoo&t=439s)
+- **RD 853 (2020-04-28)**, 2.3.3 · relator **Davi Barreto** · Retificação de informações do voto 046/2020 (14/04/2020) que aprovou proposta de acordo entre ANTT, União e Rumo Malha Paulista para encerrar litígios → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=sVbD7HT9Ms0&t=1373s)
+- **RD 853 (2020-04-28)**, 2.5.2 · relator **Menezes (nome incerto)** · Recurso administrativo contra as deliberações 15 a 18/2020 (atualização das tabelas tarifárias ferroviárias da revisão decorrente da Consulta Pública  → aprovado por maioria dos votantes - recurso conhecido e improcedente; efeitos das delibera
+  - votos: Menezes: relator; Weber: acompanha; Davi: acompanha; Alexandre: outro; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=sVbD7HT9Ms0&t=1868s)
+- **RD 857 (2020-05-26)**, 2.1.1 · relator **Weber Ciloni** · Prorrogação antecipada do contrato de concessão da Malha Paulista (vigência de 2028 a 2058): estudos técnicos e documentos jurídicos para assinatura d → aprovado (4 votos favoráveis; Alexandre Porto impedido)
+  - votos: Weber: relator; Davi: acompanha; Alexandre: outro; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=L75bt3Bz3xU&t=86s)
+- **RD 857 (2020-05-26)**, 2.2.1 · relator **Davi Barreto** · 9ª revisão ordinária, 12ª revisão extraordinária e reajuste da tarifa básica de pedágio, com sustentação oral da concessionária → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=L75bt3Bz3xU&t=1219s)
+- **RD 857 (2020-05-26)**, 2.3.2 · relator **Menezes (nome incerto)** · Resolução que posterga a cobrança da verba de fiscalização das concessionárias rodoviárias federais (competências de maio a julho de 2020) em razão da → aprovado por maioria (Weber Ciloni divergiu)
+  - votos: Menezes: relator; Weber: outro; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=L75bt3Bz3xU&t=3775s)
+- **RD 859 (2020-06-09)**, 2.3.2 · relator **Alexandre Porto** · Celebração do 5º termo aditivo ao contrato de concessão da Malha Centro-Leste para incorporar o acordo judicial com a União e o MPF (28/11/2019) → aprovado por unanimidade
+  - votos: Alexandre: relator; Davi: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=05mc2Fg9l18&t=690s)
+- **RD 65 (extraordinária) (2020-06-25)**, 1.1.1 · relator **Davi Barreto** · Proposta de revogação do art. 3º da Deliberação nº 964/2019 (30/10/2019), de modo a implementar a redução tarifária de pedágio, em cumprimento à ordem → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=cfXPqy10OBk&t=62s)
+- **RD 862 (2020-06-30)**, 2.1.1 · relator **Marcelo Vinaud** · Pedido da CCR de inclusão de cláusula na minuta do contrato de concessão da BR-101/SC que atribuísse ao poder concedente os riscos da pandemia de COVI → aprovado por unanimidade — pedido indeferido
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=WkYsadnFmNU&t=198s)
+- **RD 863 (2020-07-07)**, 2.1.2 · relator **Weber Ciloni** · 16ª revisão ordinária, 13ª revisão extraordinária e reajuste da tarifa básica de pedágio (TBP) da Ecosul (BR-392/RS e acessos ao porto de Rio Grande), → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=5tKzpDjUXM4&t=340s)
+- **RD 864 (2020-07-14)**, 2.5.1 · relator **None** · 11ª revisão ordinária, 12ª revisão extraordinária e reajuste da tarifa básica de pedágio; procuradoria recomendou excluir novos investimentos do fluxo → aprovado por unanimidade
+  - votos: Weber: acompanha; Davi: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=_RSg6WUtZj0&t=2150s)
+- **RD 865 (2020-07-21)**, 2.1.1 · relator **Marcelo Vinaud** · Revogação da Resolução 5.130/2016 (tabela tarifária da Rumo Malha Paulista) com a vigência do 2º termo aditivo ao contrato de concessão → aprovado por unanimidade
+  - votos: Marcelo: relator; Davi: acompanha; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=EFqrNJhKrSo&t=383s)
+- **RD 865 (2020-07-21)**, 2.2.2 · relator **Davi Barreto** · 12ª revisão ordinária, 12ª extraordinária e reajuste da tarifa básica de pedágio → aprovado por unanimidade
+  - votos: Davi: relator; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=EFqrNJhKrSo&t=749s)
+- **RD 865 (2020-07-21)**, 2.3.2 · relator **Alexandre Porto** · 12ª revisão ordinária, 12ª extraordinária e reajuste anual da tarifa básica de pedágio → aprovado por unanimidade
+  - votos: Alexandre: relator; Davi: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=EFqrNJhKrSo&t=1806s)
+- **RD 867 (2020-08-04)**, 2.2.4 · relator **Davi Barreto** · 12ª revisão ordinária, 14ª revisão extraordinária e reajuste da tarifa básica de pedágio; termos aditivos para inclusão do Contorno de Florianópolis ( → aprovado por maioria (um voto divergente/ressalvas)
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=Y2XuL68vXN4&t=1661s)
+- **RD 871 (2020-09-08)**, 2.2.1 · relator **Weber Ciloni** · Regulamentação da cláusula terceira do contrato de concessão da TLSA (regime de apuração e controle do saldo de capital a retornar e da taxa de retorn → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=zjfsRZ00kT4&t=379s)
+- **RD 871 (2020-09-08)**, extrapauta-1 · relator **Marcelo Vinaud** · Extrapauta: 1º termo aditivo ao contrato de subconcessão da Rumo Malha Central (antecipação de pagamento de parcelas vincendas na cláusula 20 e prazo  → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=zjfsRZ00kT4&t=1127s)
+- **RD 872 (2020-09-15)**, 2.3.2 · relator **Davi Barreto** · Abertura de consulta pública sobre a atualização do cálculo do WACC regulatório (taxa de retorno do fluxo de caixa marginal) para concessões ferroviár → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=zuksv7XVCg8&t=1539s)
+- **RD 874 (2020-09-29)**, 2.1.1 · relator **Marcelo Vinaud** · 12ª revisão ordinária, 12ª revisão extraordinária e reajuste da tarifa básica de pedágio → retirado de pauta (aprovado por unanimidade)
+  - votos: Marcelo: outro; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=mfKf63OfUW4&t=171s)
+- **RD 875 (2020-10-06)**, 2.1.1 · relator **Weber Ciloni** · 5ª revisão ordinária, revisão extraordinária e reajuste da tarifa básica de pedágio (Fator Q / acidentes; verba de aparelhamento da PRF; livros de com → vista (Alexandre Porto)
+  - votos: Weber: relator; Alexandre: vista; Davi: outro; Eduardo: outro; Marcelo: outro · [vídeo](https://www.youtube.com/watch?v=yeArWUIUNCw&t=1036s)
+- **RD 875 (2020-10-06)**, 2.2.1 · relator **Davi Barreto** · 4ª revisão ordinária, 6ª revisão extraordinária e reajuste da tarifa básica de pedágio (aplicação do Fator Q) → vista coletiva (Weber Ciloni e Alexandre Porto)
+  - votos: Davi: relator; Weber: vista; Alexandre: vista; Eduardo: outro; Marcelo: outro · [vídeo](https://www.youtube.com/watch?v=yeArWUIUNCw&t=2424s)
+- **RD 876 (2020-10-13)**, 2.2.1 · relator **Eduardo Marra** · Revisão ordinária, revisão extraordinária e reajuste da tarifa básica de pedágio → retirado de pauta (aprovado por unanimidade)
+  - votos: Eduardo: outro; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=zXV6lBoo2Qg&t=159s)
+- **RD 877 (2020-10-27)**, 2.3.1 · relator **Weber Ciloni** · 5ª revisão ordinária, 9ª extraordinária e reajuste da tarifa básica de pedágio. Voto do relator Weber Ciloni (voto 120/2020, RD 875, 06/10/2020); voto → aprovado por maioria — voto-vista (revisor) prevaleceu; Weber Ciloni vencido
+  - votos: Weber: relator; Alexandre: revisor_acompanha; Davi: revisor_acompanha; Eduardo: revisor_acompanha; Marcelo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=GAtL0jed_ZU&t=1566s)
+- **RD 877 (2020-10-27)**, EP-1 · relator **Marcelo Vinaud** · Extra-pauta: viabilidade técnica e jurídica do requerimento de relicitação do contrato de concessão da Malha Oeste (Lei 13.448/2017, Decreto 9.957/201 → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=GAtL0jed_ZU&t=3913s)
+- **RD 878 (2020-11-03)**, 2.1.1 · relator **Davi Barreto** · 4ª revisão ordinária, 6ª revisão extraordinária e reajuste da tarifa básica de pedágio (voto-vista de Weber Ciloni; relator Davi Barreto) → aprovado por unanimidade - voto do relator com as determinações complementares do voto-vis
+  - votos: Weber: revisor_acompanha; Davi: revisor_acompanha; Alexandre: acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=4WJEBJKglvA&t=102s)
+- **RD 878 (2020-11-03)**, 2.2.1 · relator **Eduardo Marra** · Proposta de súmula sobre requisitos de admissibilidade nos processos de revisão ordinária e extraordinária das concessões rodoviárias federais e sobre → retirado de pauta (unanimidade)
+  - votos: Eduardo: relator; Weber: acompanha; Alexandre: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=4WJEBJKglvA&t=1074s)
+- **RD 878 (2020-11-03)**, 2.2.2 · relator **Eduardo Marra** · 5ª revisão ordinária, 9ª revisão extraordinária e reajuste da tarifa básica de pedágio → aprovado por unanimidade
+  - votos: Eduardo: relator; Weber: acompanha; Alexandre: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=4WJEBJKglvA&t=1169s)
+- **RD 879 (2020-11-10)**, 2.2.1 · relator **Alexandre Porto** · Décima primeira revisão ordinária, 12ª revisão extraordinária e reajuste da tarifa básica de pedágio; sustentação oral do advogado Robson Barreirinhas → retirado de pauta (aprovado por unanimidade)
+  - votos: Alexandre: relator; Weber: acompanha; Eduardo: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=B-NPl1jUYE0&t=910s)
+- **RD 881 (2020-11-24)**, 2.2.1 · relator **Weber Ciloni** · 12ª revisão ordinária, 12ª revisão extraordinária e reajuste da tarifa básica de pedágio (processo retirado de pauta anteriormente por liminar; nova a → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=b5hpEOiXfbs&t=443s)
+- **RD 881 (2020-11-24)**, 2.4.3 · relator **Eduardo Marra** · Abertura de audiência pública sobre minuta de resolução que altera regras de reequilíbrio contratual (Res. 3.651/2011 e Res. 5.859/2019) e aperfeiçoa  → aprovado por unanimidade
+  - votos: Eduardo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=b5hpEOiXfbs&t=1385s)
+- **RD 882 (2020-12-02)**, 2.2.1 · relator **Weber Ciloni** · Proposta de edição de súmula para orientar a interpretação de cláusula dos contratos de concessão ferroviária que condiciona a apresentação de pleitos → vista coletiva concedida; deliberação em 08/12/2020 (RD 883)
+  - votos: Weber: relator; Marcelo: outro · [vídeo](https://www.youtube.com/watch?v=sDWtLtsoPCU&t=444s)
+- **RD 882 (2020-12-02)**, 2.3.2 · relator **Davi Barreto** · Ajuste parcial de contas do encerramento do contrato de concessão da BR-290/RS (contrato encerrado em 03/07/2018 após prorrogação de 12 meses), com sa → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=sDWtLtsoPCU&t=868s)
+- **RD 883 (2020-12-08)**, 2.1.1 · relator **Weber Ciloni** · Súmula sobre interpretação da cláusula que condiciona pleitos das concessionárias ferroviárias ao cumprimento das obrigações contratuais (retorno após → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=ZulDOW-0648&t=144s)
+- **RD 883 (2020-12-08)**, 2.2.2 · relator **Davi Barreto** · 12ª revisão ordinária, 14ª extraordinária e reajuste da tarifa básica de pedágio (BR-116/PR e BR-101/SC, Curitiba–Florianópolis); 2º e 3º termos aditi → aprovado por unanimidade — Weber Ciloni com ressalvas
+  - votos: Davi: relator; Weber: outro; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=ZulDOW-0648&t=335s)
+- **RD 883 (2020-12-08)**, 2.4.1 · relator **Eduardo Marra** · Súmula sobre requisito de pré-admissibilidade em revisões ordinárias e extraordinárias de concessões rodoviárias: pleitos de equilíbrio já analisados  → vista coletiva (art. 121 RI); deliberação na reunião seguinte
+  - votos: Eduardo: relator; Marcelo: outro · [vídeo](https://www.youtube.com/watch?v=ZulDOW-0648&t=1947s)
+- **RD 884 (2020-12-15)**, 2.3.4 · relator **Davi Barreto** · Quinta revisão ordinária, sétima revisão extraordinária e reajuste da tarifa básica de pedágio → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=SIaolRUffls&t=3834s)
+- **RD 884 (2020-12-15)**, 2.4.3 · relator **Alexandre Porto** · Reclamações da concessionária sobre vícios ocultos nos bens da ferrovia (12 processos): reconhecimento parcial → aprovado por unanimidade
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=SIaolRUffls&t=4504s)
+- **RD 884 (2020-12-15)**, 2.5.1 · relator **Eduardo Marra** · Proposta de edição de súmula sobre requisitos de admissibilidade nas revisões ordinárias e extraordinárias de concessões rodoviárias, a respeito de re → vista coletiva prorrogada até a primeira reunião de 2021
+  - votos: Eduardo: relator; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=SIaolRUffls&t=4775s)
+- **RD 886 (2021-01-28)**, 2.2.1 · relator **Weber Ciloni** · Relatório final da Consulta Pública 02/2020 e atualização do WACC regulatório para contratos de concessão ferroviária (Res. 5.337/2017) → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=3LVmgqbrUNY&t=1074s)
+- **RD 886 (2021-01-28)**, 2.4.1 · relator **Eduardo Marra** · Edição de súmula sobre requisito de pré-admissibilidade em processos de revisão ordinária e extraordinária de concessões rodoviárias federais (evitar  → aprovado por unanimidade
+  - votos: Eduardo: relator; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=3LVmgqbrUNY&t=1847s)
 - **RD 887 (2021-02-02)**, 2.2.1 · relator **Davi Barreto** · Audiência Pública 5/2020: aprovação do relatório final e da minuta de resolução sobre encerramento, relicitação e extensão dos contratos de concessão  → aprovado por unanimidade
   - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=hOUJ7tu8IOM&t=323s)
 - **RD 887 (2021-02-02)**, 2.3.1 · relator **Alexandre Porto** · 11ª revisão ordinária, 12ª revisão extraordinária e reajuste da tarifa básica de pedágio (BR-393/RJ); sustentação oral do advogado Robson Barreirinhas → aprovado (votos de acordo; a legenda não registra a proclamação do resultado)

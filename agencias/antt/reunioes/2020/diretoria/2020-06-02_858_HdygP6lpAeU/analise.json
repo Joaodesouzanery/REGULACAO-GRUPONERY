@@ -1,0 +1,47 @@
+{
+  "meta": {"video_id": "HdygP6lpAeU", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:00); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "858", "data": "2020-06-02", "formato": "videoconferência (gravada e divulgada depois no site)",
+    "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral em exercício)",
+    "diretores_presentes": ["Marcelo Vinaud", "Davi Barreto", "Alexandre Porto", "Menezes"],
+    "ausentes": ["Weber Ciloni (férias)"],
+    "observacoes": ["Reunião curta (cerca de 7 minutos de vídeo), encerrada às 16h31.", "Aprovada a resolução de medidas de enfrentamento da covid-19 nos serviços de transporte rodoviário interestadual e internacional de passageiros e de transporte ferroviário de passageiros.", "Alexandre Porto pediu vista da revisão da resolução sobre comunicação de acidentes ferroviários (AP 6/2019)."]
+  },
+  "itens": [
+    {
+      "id": "2.1.1", "ts": "0:01:27",
+      "processo": "50500.026254/2020-47 (número lido de forma incerta)", "interessado": "Superintendência de Serviços de Transporte Rodoviário de Passageiros (Sufis/Susp)",
+      "assunto": "Resolução com medidas para enfrentamento da emergência de saúde pública da covid-19 nos serviços de transporte rodoviário interestadual e internacional de passageiros e de transporte ferroviário de passageiros",
+      "tema": ["ônibus (transporte regular, TAR)", "ferrovias", "covid-19", "regulação normativa"],
+      "relator": "Marcelo Vinaud", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "A resolução se aplica a todos os serviços regulados: observância de higienização e das normas da Anvisa; suspensão das viagens internacionais; no regular interestadual, flexibilização da operação (frequência, comercialização de bilhetes) e ajuste no indicador de nível de implantação; no serviço semiurbano, flexibilização; no ferroviário, suspensão das autorizações de operação não regular com finalidade turística, histórico-cultural e comemorativa. Também torna sem efeito autos de infração emitidos desde 18 de maio de 2020 por dispositivos de resoluções específicas (números lidos de forma incerta) e revoga o art. 5º da Resolução 5.879, de 26 de março de 2020.",
+      "votos": [
+        {"diretor": "Marcelo Vinaud", "voto": "relator, aprova a resolução", "ts": "0:04:09", "justificativa": "medidas emergenciais para mitigar riscos às atividades reguladas durante a pandemia", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:04:35", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "0:04:38", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "de acordo", "ts": "0:04:42", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.2.1", "ts": "0:04:58",
+      "processo": "50500.391236/2019-08 (número lido de forma incerta)", "interessado": "Superintendência de Infraestrutura e do Transporte Ferroviário de Cargas (Sufer)",
+      "assunto": "Audiência Pública 6/2019: relatório final e minutas de deliberação e resolução sobre o procedimento de comunicação de acidentes e interrupções temporárias de tráfego na infraestrutura ferroviária federal (revisão da Resolução ANTT 1.431/2006)",
+      "tema": ["ferrovias", "regulação normativa", "participação social"],
+      "relator": "Menezes", "resultado": "pedido de vista (Alexandre Porto)",
+      "resumo_voto": "O relator propõe atualizar a norma de 2006 para dar clareza, transparência e eficácia; pelos estudos, a melhor opção era ajustar as lacunas e exigir dados detalhados de acidentes graves por laudo pericial. Alexandre Porto pediu vista para corrigir pontos de redação e entender melhor a questão envolvendo suicídios (legenda).",
+      "votos": [
+        {"diretor": "Menezes", "voto": "relator, aprova o relatório da AP 6/2019 e as minutas", "ts": "0:06:31", "justificativa": "trâmites seguidos e manifestações técnicas e jurídicas favoráveis; ajusta lacunas da resolução e exige laudo pericial em acidentes graves", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "pede vista", "ts": "0:06:44", "justificativa": "correções de redação e esclarecer a questão dos suicídios nos acidentes ferroviários (legenda imprecisa)", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Legenda automática: nomes distorcidos («Marcelo Vinor/Renor», «Alexandre Porto/Chave», «Menezes» com variantes). Grafias canônicas adotadas pelas saudações e lista de diretores da época.",
+    "O diretor «Menezes» tem prenome incerto; mantido só o sobrenome. Não confirmado se é Mário Rodrigues Junior.",
+    "Números de processo e de resoluções citadas (por exemplo, quais dispositivos tiveram autos de infração anulados) estão distorcidos; foram omitidos ou marcados como incertos.",
+    "A razão exata do pedido de vista de Alexandre Porto (menção a suicídios) é incerta pela legenda; o resultado da votação do 2.2.1 após o pedido de vista não aparece.",
+    "Votos de quem só acompanha o relator têm minutos aproximados (confiança média).",
+    "Weber Ciloni estava de férias e não participou."
+  ]
+}

@@ -1,0 +1,681 @@
+{
+ "meta": {
+  "video_id": "7gL6wMFBa0w",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulo do .md pode estar errado, ex.: «Marcelo Fonseca» na abertura é o DG Mário Rodrigues Junior); ts = tempo do vídeo; ts de votos de seguidores aproximados; transmissão inicia em ~0:07:50",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "839",
+  "data": "2019-12-11",
+  "formato": "presencial (Sede da ANTT)",
+  "presidente_da_sessao": "Mário Rodrigues Junior (Diretor-Geral)",
+  "diretores_presentes": [
+   "Mário Rodrigues Junior",
+   "Marcelo Vinaud",
+   "Elisabeth Braga",
+   "Weber Ciloni",
+   "Davi Barreto"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Ata da 838 aprovada; encerrada às 16h53.",
+   "Três processos reservados (sigilo, art. 78-B da Lei 10.233/2001) foram julgados ao final sem transmissão.",
+   "Pedido de vista de Davi Barreto no Plano de Gestão Anual 2020 (AGEST); retirada do acordo com a CNT."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1",
+   "ts": "0:10:10",
+   "processo": "50500.024103/2000-66 (legenda)",
+   "interessado": "Expresso Brasileiro Transporte Rodoviário e Turismo Ltda. (SUPAS)",
+   "assunto": "Referendo da Deliberação 1.028/2019 (28/11/2019) que expediu a LOP 169 (linha Pires do Rio-GO a São Luís-MA) por decisão judicial, com condicionamento da validade à apresentação de documentos pendentes",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao"
+   ],
+   "relator": "Mário Rodrigues Junior",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Liminar determinou a expedição da LOP sob multa diária de R$ 500, prazo até 29/11/2019; a empresa entregou parte dos documentos, restam pendências sobre requisitos não afastados pela decisão. Referenda a Del. 1.028/2019 acrescentando dispositivo que condiciona a validade da LOP à apresentação da documentação, sob pena de anulação.",
+   "votos": [
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "relator, referenda com condicionante",
+     "ts": "0:14:00",
+     "justificativa": "cumprir decisão judicial sem dispensar requisitos que ela não afastou",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "sem voto audível na legenda (provável de acordo)",
+     "ts": "0:15:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo conforme exposto pelo relator",
+     "ts": "0:15:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:15:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:15:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:15:45",
+   "processo": "50500.049716/2015-37",
+   "interessado": "SUPAS",
+   "assunto": "Audiência Pública 11/2019: aprovação do relatório e da resolução sobre esquema operacional e regras de modificação do serviço regular semiurbano interestadual de passageiros",
+   "tema": [
+    "ônibus (semiurbano)",
+    "participação social",
+    "regulação normativa"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "40 contribuições (manifestações eletrônicas e presenciais) analisadas pela SUPAS; relatório ajustado após recomendações da Procuradoria; aprova relatório e resolução.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:15:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com o relator",
+     "ts": "0:16:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:17:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:17:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:17:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:17:20",
+   "processo": "50500.346407/2018-45 (legenda: 51 346 407)",
+   "interessado": "Real Expresso Ltda. e Consórcio Federal de Transportes",
+   "assunto": "Transferência de mercado e modificação das LOPs 54 e 52",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "regulação normativa"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Pendências documentais sanadas; requisitos da Res. 470/2015 cumpridos; análise concorrencial e de concentração de mercado da área competente informou que não há óbice; defere a transferência.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:17:25",
+     "justificativa": "requisitos da Res. 470 atendidos e sem óbice concorrencial",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:19:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:19:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:19:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:19:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3",
+   "ts": "0:19:36",
+   "processo": "50500.402982/2019-45 (legenda)",
+   "interessado": "AGEST (Assessoria de Gestão Estratégica e Inovação)",
+   "assunto": "Plano de Gestão Anual (metas) para 2020",
+   "tema": [
+    "institucional",
+    "regulação normativa"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "vista concedida (pedido de Davi Barreto)",
+   "resumo_voto": "O relator informa que conversou antes com Davi Barreto, que pediu vista porque a assessoria dele ainda quer debater pontos (incluindo projeto citado na legenda de modo ininteligível); o relator concorda e lembra o prazo legal para enviar o plano ao Congresso ainda neste ano.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "pede vista",
+     "ts": "0:20:00",
+     "justificativa": "assessoria precisa debater algumas questões antes da votação",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aceita a vista e lembra prazo legal de envio ao Congresso em 2019",
+     "ts": "0:19:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.4-2.2.5",
+   "ts": "0:20:25",
+   "processo": "50500.413457/2009 (legenda); 50500.415867/1954 (legenda)",
+   "interessado": "Vate Transporte Rodoviário; Altamiro José da Silveira e outras",
+   "assunto": "Autorização de serviço regular e recadastramento de termo de fretamento",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "ônibus (fretamento)"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Processos deliberados em bloco (votos disponibilizados antes da reunião); sem detalhamento na legenda.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova em bloco",
+     "ts": "0:20:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:21:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:21:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:22:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:21:58",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:22:01",
+   "processo": "50500.239211/2018-03 (legenda: 50 500 1 239 211 2018 03)",
+   "interessado": "Concessionária Rota do Oeste S.A. (legenda: Rota do Leste/Oeste)",
+   "assunto": "4ª revisão ordinária, 7ª revisão extraordinária e reajuste da tarifa básica de pedágio (ciclo 06/09/2019 a 05/09/2020), com manutenção das tarifas vigentes por decisão judicial",
+   "tema": [
+    "concessões rodoviárias",
+    "pedágio",
+    "reequilíbrio contratual",
+    "judicializacao"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "A SUINF/SUROD concluiu que as revisões reduzem a tarifa média em cerca de 47,96% (legenda), em função do fator D (29,80%, descumprimentos de ampliação e manutenção) e outros ajustes, com IPCA de 3,22% (mar/2018-mar/2019). Procuradoria vê possibilidade jurídica, mas liminar favorável à concessionária impede penalidades e descontos tarifários e manda manter as condições vigentes até a revisão quinquenal (pedida em nov/2018) ou deliberação do juízo arbitral. Aprova a revisão nos termos da minuta mas mantém as tarifas da Del. 828/2018.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, aprova revisões e mantém tarifas vigentes",
+     "ts": "0:22:10",
+     "justificativa": "decisão judicial impede aplicar descontos e penalidades",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:26:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo conforme exposto pela relatora",
+     "ts": "0:26:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:27:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:27:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2-2.3.4",
+   "ts": "0:26:50",
+   "processo": "50500.412778/2019 (legenda); 50500.410583/2000-39 (legenda); 50500.400428/2009-74 (legenda)",
+   "interessado": "Ati Pans Transportes e Turismo; Albatroz Transportes e Empreendimentos; MPM Locadora de Veículos e outros",
+   "assunto": "Recadastramento de termos de autorização de fretamento",
+   "tema": [
+    "ônibus (fretamento)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Processos deliberados em bloco (votos disponibilizados antes da reunião); sem detalhamento na legenda.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova em bloco",
+     "ts": "0:27:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:28:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:28:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:28:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:28:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.1-2.4.2",
+   "ts": "0:28:20",
+   "processo": "50500.382052/1949 (legenda); 50500.400203/1979 (legenda)",
+   "interessado": "Rodovias Integradas do Sul S.A. (legenda: Concessionária das Rodovias Integradas do Sul); Autopista Litoral Sul S.A.",
+   "assunto": "Declaração de utilidade pública (desapropriação) para as concessionárias",
+   "tema": [
+    "concessões rodoviárias",
+    "institucional"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Processos deliberados em bloco (votos disponibilizados antes da reunião); sem detalhamento na legenda.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova em bloco",
+     "ts": "0:28:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:29:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:29:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:29:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:29:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.5.1",
+   "ts": "0:29:35",
+   "processo": "50500.419344/2019 (legenda)",
+   "interessado": "SUDEC / auditoria e corregedoria",
+   "assunto": "Alteração do quantitativo de cargos comissionados da ANTT (CCT 72: 27 para 26; 63: 21 para 22; 64: 49 para 48; 65: 117 para 103) e revogação da Deliberação 1007/2019",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Solicitação da auditoria e da corregedoria; proposta tem amparo legal e regulamentar.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:29:50",
+     "justificativa": "pedido da auditoria e corregedoria; amparo legal",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:30:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:30:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo conforme exposto pelo relator",
+     "ts": "0:30:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:30:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.5.2",
+   "ts": "0:30:45",
+   "processo": "50500.334943/1999 (legenda)",
+   "interessado": "Confederação Nacional do Transporte (CNT)",
+   "assunto": "Proposta de acordo de cooperação técnica - retirado de pauta pelo relator para ajuste final, retorno previsto para o dia 17",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "retirado de pauta",
+   "resumo_voto": "O relator pede a retirada ao identificar pontos que merecem ajuste final; trará de volta em 17/12.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, retira de pauta",
+     "ts": "0:30:50",
+     "justificativa": "pontos do acordo a ajustar",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:31:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:31:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.5.3",
+   "ts": "0:31:19",
+   "processo": "50500.387870/2009-47 (legenda)",
+   "interessado": "Auditoria Interna (AUDIT)",
+   "assunto": "Plano Anual de Atividades de Auditoria Interna (PAINT) de 2020",
+   "tema": [
+    "institucional",
+    "regulação normativa"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Atende à IN CGU/SFC 2018; matriz de risco com 20 temas sorteados das áreas técnicas; cada área com tema entre os 20 será avaliada em 1 a 2 temas, deixando para o fim da fila temas avaliados recentemente.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:31:30",
+     "justificativa": "atende normas da CGU e prioriza por risco",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:33:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:33:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo conforme exposto pelo relator",
+     "ts": "0:33:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:33:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.5.4",
+   "ts": "0:33:40",
+   "processo": "50500.412695/2009-24 (legenda)",
+   "interessado": "Etufor Transportes Ltda. e outras",
+   "assunto": "Termo de autorização de fretamento",
+   "tema": [
+    "ônibus (fretamento)"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Processos deliberados em bloco (votos disponibilizados antes da reunião); sem detalhamento na legenda.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova em bloco",
+     "ts": "0:33:45",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:34:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:34:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:34:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:34:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "extrapauta-1",
+   "ts": "0:34:25",
+   "processo": "50500.480102/2017-21 e 50500.419523/2019 (legenda)",
+   "interessado": "SEST e SENAT",
+   "assunto": "Segundo termo aditivo ao Acordo de Cooperação Técnica (prorrogação de 12 meses ou até o fim do chamamento público)",
+   "tema": [
+    "institucional",
+    "participação social"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade (com ajuste de cláusula e prazo de 60 dias para plano de ação)",
+   "resumo_voto": "A vigência do acordo está próxima do fim e o chamamento público de 2018 não foi concluído; prorroga por 12 meses, mas o relator exige que SEST/SENAT apresente em 60 dias plano/cronograma para concluir o chamamento, evitando nova prorrogação. Weber Ciloni sugere cláusula resolutiva para o término antecipado quando o chamamento estiver consolidado; o relator se compromete a incluí-la ou tratar na proposta seguinte.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova prorrogação com prazo de 60 dias para plano de ação",
+     "ts": "0:35:20",
+     "justificativa": "falta de conclusão do chamamento há mais de um ano; evitar prorrogações sucessivas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo, propõe cláusula resolutiva no termo aditivo",
+     "ts": "0:36:50",
+     "justificativa": "a prorrogação não precisaria ser integral se o chamamento for consolidado antes",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:36:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com o relator",
+     "ts": "0:36:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:38:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.1",
+   "ts": "0:38:25",
+   "processo": "50500.419470/2019-86 (legenda)",
+   "interessado": "Despacho do Diretor Davi Barreto (de 5/12/2019)",
+   "assunto": "Cancelamento de distribuição de processo",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado (nenhuma objeção)",
+   "resumo_voto": "Pedido de cancelamento de distribuição pautado em assuntos gerais.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator",
+     "ts": "0:38:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.6 (reservado)",
+   "ts": "0:09:24",
+   "processo": "50500.184815/2013-01 (legenda)",
+   "interessado": "Santo Antônio Transportes e Turismo Ltda.",
+   "assunto": "Processo reservado: proposta de aplicação de penalidade (julgado ao final, com participação restrita à parte e ao procurador)",
+   "tema": [
+    "fiscalização e sanções"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "não transmitido (sigilo até a decisão final)",
+   "resumo_voto": "Pauta cita o item; o julgamento não consta da transmissão.",
+   "votos": []
+  },
+  {
+   "id": "2.3.5 (reservado)",
+   "ts": "0:09:24",
+   "processo": "50500.503395/2017-91 (legenda)",
+   "interessado": "P&G Turismo Ltda. (legenda: nome incerto)",
+   "assunto": "Processo reservado: proposta de aplicação de penalidade",
+   "tema": [
+    "fiscalização e sanções"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "não transmitido (sigilo até a decisão final)",
+   "resumo_voto": "Pauta cita o item; o julgamento não consta da transmissão.",
+   "votos": []
+  },
+  {
+   "id": "2.1.5.5 (reservado)",
+   "ts": "0:10:10",
+   "processo": "50500.503308/2017-04 (legenda)",
+   "interessado": "Trans Araruama Transportadora Ltda. e outros (legenda)",
+   "assunto": "Processo reservado: pedido de reconsideração em aplicação de penalidade",
+   "tema": [
+    "fiscalização e sanções"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "não transmitido (sigilo até a decisão final)",
+   "resumo_voto": "Pauta cita o item; o julgamento não consta da transmissão.",
+   "votos": []
+  }
+ ],
+ "retirados": [
+  {
+   "id": "2.5.2",
+   "motivo": "retirado pelo relator para ajuste final do acordo com a CNT"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática com muitos erros de nomes e números; a grafia de «Weber Ciloni» (legenda: Werner/Weber Simone, Peter Simone) e «Marcelo Vinaud» (legenda: Marcelo de Novo, Dominou, Veni) é inferida das saudações e pode estar incorreta.",
+  "Minutos dos votos de quem só acompanha o relator são aproximados (confiança média).",
+  "Transmissão começa em ~0:07:50 (início da sessão).",
+  "Números de processo e nomes de empresas imprecisos na legenda.",
+  "Itens em bloco sem conteúdo detalhado; itens reservados sem votos por não terem sido transmitidos.",
+  "No item 2.1.1 não há voto audível de Elisabeth Braga na legenda."
+ ]
+}
