@@ -1,0 +1,67 @@
+{
+ "meta": {
+  "video_id": "9h87ZNIUz8s",
+  "fonte": "legenda automática do YouTube; sem marcadores de falante confiáveis; ts = tempo do vídeo (cronometragem por busca no texto); ts de votos de quem só concorda são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "903",
+  "data": "2021-06-01",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Diretor-Geral (inferido: Alexandre Porto; baixa confiança)",
+  "diretores_presentes": [
+   "Davi Barreto",
+   "presidente da sessão"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Reunião curta: 1 item deliberativo, aprovado por unanimidade; encerrada às 14h44.",
+   "A legenda não registra a lista completa de presentes nem identifica o relator."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1",
+   "ts": "0:02:41",
+   "processo": "50500.165692/2021-67 (legenda)",
+   "interessado": "Diretoria Colegiada / SUGPA",
+   "assunto": "Revisão e adequação dos atos referentes aos temas 5 e 6 (transporte ferroviário de cargas; fiscalização de transporte rodoviário de cargas e passageiros) da 3ª etapa do projeto de revisão e consolidação dos atos normativos (Decreto 10.139/2019; IN ANTT 2/2020)",
+   "tema": [
+    "regulação normativa",
+    "ferrovias",
+    "fiscalização e sanções"
+   ],
+   "relator": "não identificado pela legenda",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "55 normas analisadas (32 resoluções, 11 deliberações, 2 portarias, 10 comunicados): revogação expressa de 2 resoluções e 10 comunicados e revisão de 19 resoluções e 2 deliberações; PFE favorável, sem necessidade de AIR e com consulta pública facultativa; 6 minutas de resolução, 1 de deliberação e 1 de IN. Etapa concluída no prazo.",
+   "votos": [
+    {
+     "diretor": "Relator (não identificado)",
+     "voto": "relator, aprova",
+     "ts": "0:04:10",
+     "justificativa": "Decreto 10.139/2019 e IN 2/2020",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo (consultado na votação)",
+     "ts": "0:05:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Presidente da sessão",
+     "voto": "de acordo",
+     "ts": "0:05:28",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Votos de Davi Barreto e do presidente captados; os demais diretores presentes não ficam claros na legenda («diretor Davi Barreto, o Jacob a e eu tomo chá de Menezes…»).",
+  "Nomes de diretores na legenda são muito distorcidos (ex.: «Weber Ciloni» aparece como «Velho esse nome», «Vélo Simone», «Cilloni»; «Menezes» como «tomou chá de Menezes»); a identificação segue a ordem de votação e as saudações. O rótulo de falante «Marcelo Fonseca»/«Guilherme Sampaio» nas partes inferidas do .md é errado nestas reuniões.",
+  "Relator não identificado ('diretor motion chinesa' na legenda); números de processo e de normas da legenda podem estar errados.",
+  "Votos de Davi e do presidente: a legenda mostra que foram consultados na votação final; ts aproximados."
+ ]
+}

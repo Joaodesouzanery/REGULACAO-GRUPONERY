@@ -1,0 +1,331 @@
+{
+ "meta": {
+  "video_id": "M3Oooch06TQ",
+  "fonte": "legenda automática do YouTube; sem marcadores de falante confiáveis; ts = tempo do vídeo (cronometragem por busca no texto); ts de votos de quem só concorda são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "913",
+  "data": "2021-08-17",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Davi Barreto",
+   "Guilherme Sampaio",
+   "Fábio Rogério",
+   "Alexandre Porto"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada a parte pública às 15h47; as sessões reservadas (processos sancionadores e recursos) não estão na transcrição.",
+   "Última reunião de Alexandre Porto: anunciou saída para a iniciativa privada e licença de 3 anos (a partir de 23/08/2021); recebeu homenagens de Davi Barreto, Fábio Rogério, Guilherme Sampaio, da procuradora-geral Priscila e de Rafael Vitale.",
+   "Aprovação do edital da concessão da Nova Dutra (BR-116/RJ-SP e BR-101/RJ-SP, 625,8 km): maior concessão da história da ANTT, segundo o relator.",
+   "Davi Barreto cancelou a distribuição por sorteio de 3 processos por erro no procedimento de sorteio (MRS e outros)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1",
+   "ts": "0:03:15",
+   "processo": "50500.06048/2021-64 (legenda)",
+   "interessado": "Diretoria Colegiada",
+   "assunto": "Revisão e adequação dos atos da 4ª etapa do projeto de revisão e consolidação dos atos normativos (tema 7: matérias transversais): 34 normas (23 resoluções, 5 deliberações, 6 portarias)",
+   "tema": [
+    "regulação normativa",
+    "institucional"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Manutenção de 23 normativos, revogação expressa de 4 e revisão/consolidação de 7; alterações de mérito seguem rito da agenda regulatória (AIR e participação social); PFE favorável.",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, aprova",
+     "ts": "0:05:30",
+     "justificativa": "cumprimento do Decreto 10.139/2019 e IN 2/2020",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:05:51",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:05:54",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fábio Rogério",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:05:57",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:06:00",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:06:13",
+   "processo": "50500.060465/2021-90 (legenda); outros: 50500.099251/2020 e 50500.105?/2021-22",
+   "interessado": "MRS Logística S.A.",
+   "assunto": "Pedido de revisão da meta anual de produção por trecho (2022); questão preliminar do relator: regularidade do sorteio público de 05/08/2021 para a distribuição do processo e de outros dois",
+   "tema": [
+    "ferrovias",
+    "institucional",
+    "judicializacao"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "preliminar aprovada por unanimidade: cancelada a distribuição dos 3 processos e refazimento do sorteio",
+   "resumo_voto": "Relator entende que houve erro manifesto no sorteio (inobservância do art. 50 do RI) e propõe cancelar a distribuição (art. 55 I), refazer o sorteio e orientar a Secretaria-Geral a propor ato normativo dos procedimentos de sorteio; consultou a PFE, que se manifestou em 16/08.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, cancela a distribuição (preliminar)",
+     "ts": "0:09:30",
+     "justificativa": "erro manifesto no procedimento do sorteio; segurança jurídica das distribuições",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com o voto do relator",
+     "ts": "0:09:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fábio Rogério",
+     "voto": "de acordo com a preliminar",
+     "ts": "0:09:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:10:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo; anuncia alinhamento com a Secretaria-Geral para normatizar os sorteios",
+     "ts": "0:10:05",
+     "justificativa": "reduzir erros formais futuros",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:10:56",
+   "processo": "50500.124760/2020-9? (legenda)",
+   "interessado": "Valec Engenharia, Construções e Ferrovias S.A.; Bahia Mineração S.A. (BAMIN)",
+   "assunto": "Pagamento do valor de outorga fixa à Valec e contratação de seguros relacionados à subconcessão do trecho da EF-334 (FIOL), Ilhéus/BA–Caetité/BA (Edital de concorrência internacional 1/2020)",
+   "tema": [
+    "ferrovias",
+    "leilão / otimização",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Dois pontos: (1) seguros: ferrovia greenfield em fase pré-operacional; seguro de riscos operacionais (RO) inaplicável enquanto não houver operação; RCG com limite mínimo (valor ≈ R$ 8,8 milhões na legenda, incerto); (2) outorga fixa à Valec: PFE condicionou à decisão do poder concedente (Ministério da Infraestrutura) por plano de outorga; voto autoriza o pagamento condicionado à retificação do plano de outorga.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova (condicionado à retificação do plano de outorga)",
+     "ts": "0:19:40",
+     "justificativa": "Lei 10.233/2001 não obriga que toda a outorga vá à ANTT; poder concedente pode destinar parte à Valec; analogia com FNS tramo central",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com o voto do relator",
+     "ts": "0:20:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fábio Rogério",
+     "voto": "de acordo com o voto do relator",
+     "ts": "0:20:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:20:27",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:20:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.1",
+   "ts": "0:20:39",
+   "processo": "50500.070262/2021-90 (legenda)",
+   "interessado": "SUCON",
+   "assunto": "Aprovação do edital de concessão do Sistema Rodoviário BR-116/RJ-SP (Nova Dutra) e BR-101/RJ-SP (Rio de Janeiro–Ubatuba), 625,8 km: critério híbrido (maior deságio sobre tarifa-teto, em 15,31% segundo a legenda, e outorga), isenção de pedágio para motocicletas, proteção cambial, conta centralizadora, free flow, desconto de usuário frequente",
+   "tema": [
+    "concessões rodoviárias",
+    "pedágio free flow",
+    "leilão / otimização",
+    "reequilíbrio contratual",
+    "sustentabilidade"
+   ],
+   "relator": "Fábio Rogério",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Capex ≈ R$ 14,83 bi em 30 anos e Opex ≈ R$ 10,99 bi (valores da legenda); contrato vigente expira em 28/02/2022; Acórdão TCU 1.766 (legalidade) com poucas determinações; diretriz tarifária de isenção de motos do Ministério da Infraestrutura (Portaria 101) considerada política tarifária legítima, sem subordinação da agência; pedidos de reequilíbrio por essa isenção devem ser rechaçados; primeiro free flow do país; estimada redução de ≈ 30% nas tarifas.",
+   "votos": [
+    {
+     "diretor": "Fábio Rogério",
+     "voto": "relator, aprova o edital",
+     "ts": "0:42:30",
+     "justificativa": "relevância e urgência (continuidade do serviço, ≈ 420 atendimentos/dia na Nova Dutra); maturidade do processo (TCU, PFE, audiência pública 18/2019); contrato moderno com incentivos corretos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo com o voto do relator",
+     "ts": "0:44:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo; elogia equipe técnica e a modelagem (free flow, equidade tarifária)",
+     "ts": "0:45:10",
+     "justificativa": "alinhamento com o Ministério; justiça e equidade tarifária",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:45:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo",
+     "ts": "0:45:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.1",
+   "ts": "0:45:46",
+   "processo": "50500.5390/2021-7 (legenda)",
+   "assunto": "Despacho: concessão de prazo adicional de 30 dias para inclusão de processo em pauta (art. 54 §2º do RI) ao relator Davi Barreto",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "",
+   "resultado": "aprovado por unanimidade (prazo de 30 dias concedido)",
+   "resumo_voto": "Prazo concedido.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "0:46:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fábio Rogério",
+     "voto": "de acordo",
+     "ts": "0:46:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:46:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo",
+     "ts": "0:46:08",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:01:39",
+   "processo": "50500.029332/2021-28 (legenda)",
+   "interessado": "Buser Brasil Tecnologia Ltda. (legenda: Bzer/Usei)",
+   "assunto": "Recurso contra entendimento firmado no item 3 do Ofício SEI 12654/2021 da Corregedoria (19/05/2021)",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (fretamento)"
+   ],
+   "relator": "Rafael Vitale (relatoria)",
+   "resultado": "julgamento na parte reservada da reunião (não transmitida); sem conteúdo na transcrição",
+   "resumo_voto": "Item reservado; apenas lido na abertura.",
+   "votos": []
+  },
+  {
+   "id": "2.1.3",
+   "ts": "0:02:00",
+   "processo": "50500.011509/2021-58 (legenda)",
+   "interessado": "Buser Brasil Tecnologia Ltda.",
+   "assunto": "Recurso contra entendimento do item 3 do Ofício SEI 13152/2021 da Corregedoria (14/05/2021)",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (fretamento)"
+   ],
+   "relator": "Rafael Vitale (relatoria)",
+   "resultado": "julgamento na parte reservada da reunião (não transmitida); sem conteúdo na transcrição",
+   "resumo_voto": "Item reservado; apenas lido na abertura.",
+   "votos": []
+  },
+  {
+   "id": "2.2.3",
+   "ts": "0:02:20",
+   "processo": "50500.030279/2018? (legenda)",
+   "interessado": "Cooperativa de Transporte Complementar Interestadual (Cotranscon; legenda)",
+   "assunto": "Recurso contra a Deliberação 316/2020 (07/07/2020), que aplicou a penalidade de cassação",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "julgamento na parte reservada da reunião (não transmitida); sem conteúdo na transcrição",
+   "resumo_voto": "Item reservado; apenas lido na abertura.",
+   "votos": []
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:02:40",
+   "processo": "50500.024300/2021-54 (legenda)",
+   "interessado": "Buser Brasil Tecnologia Ltda.",
+   "assunto": "Recurso contra entendimento firmado no item 3 do Ofício SEI 12661/2021 da Corregedoria (19/05/2021)",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (fretamento)"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "julgamento na parte reservada da reunião (não transmitida); sem conteúdo na transcrição",
+   "resumo_voto": "Item reservado; apenas lido na abertura.",
+   "votos": []
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Cronometragem por busca no texto; ts de votos 'de acordo' aproximados (confiança alta onde o vídeo cita o nome do diretor).",
+  "Nomes de diretores na legenda são muito distorcidos (ex.: «Weber Ciloni» aparece como «Velho esse nome», «Vélo Simone», «Cilloni»; «Menezes» como «tomou chá de Menezes»); a identificação segue a ordem de votação e as saudações. O rótulo de falante «Marcelo Fonseca»/«Guilherme Sampaio» nas partes inferidas do .md é errado nestas reuniões.",
+  "A legenda desta reunião tem formato diferente (com pontuação), mas o rótulo de falante «Guilherme Sampaio» no .md é errado: a fala de abertura e condução é de Rafael Vitale.",
+  "Números de processo, valores (capex, opex, deságio, limite de seguro) vêm da legenda e podem estar errados.",
+  "Itens reservados (2.1.2, 2.1.3, 2.2.3, 2.3.1) apenas listados; julgamento ocorreu em sessão não transmitida (ids 2.2.3/2.3.1 são os citados na leitura).",
+  "Ordem/ids dos itens 2.2.1 e 2.2.2 (Davi Barreto) não foram lidos explicitamente; numeração atribuída pela sequência."
+ ]
+}
