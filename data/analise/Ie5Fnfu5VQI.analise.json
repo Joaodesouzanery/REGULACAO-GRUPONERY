@@ -1,0 +1,520 @@
+{
+ "meta": {
+  "video_id": "Ie5Fnfu5VQI",
+  "fonte": "legenda automática do YouTube; falantes inferidos pela legenda (rótulo inicial {Marcelo Fonseca} não confiável); ts = tempo do vídeo; ts de votos aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "833",
+  "data": "2019-10-30",
+  "formato": "presencial",
+  "presidente_da_sessao": "Mário Rodrigues Junior (Diretor-Geral)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Weber Ciloni",
+   "Davi Barreto",
+   "Mário Rodrigues Junior"
+  ],
+  "ausentes": [
+   "Elisabeth Braga (férias)"
+  ],
+  "observacoes": [
+   "Encerrada a transmissão às 10h31 (segundo a legenda).",
+   "Processos sancionadores reservados (2.1.1 BPR Transporte, 2.1.2 José Vieira da Silva Bernardes, 2.2.1 empresa de turismo) foram julgados ao final, fora da transmissão, em sigilo (art. 78 da Lei 10.233/2001); não há conteúdo no vídeo.",
+   "Item 2.1.7 teve preferência por sustentação oral de advogada da Auto Viação Catarinense; sustentação sobre outro item (recurso 2.1.3) tratou da transferência de linhas da Eucatur e disputa no STJ."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.7",
+   "ts": "0:04:01",
+   "processo": "50500.336722/2015-21 (legenda; incerto)",
+   "interessado": "Auto Viação Catarinense Ltda. e Viação Cometa S/A (impugnação) x Empresa de Ônibus Nossa Senhora da Penha",
+   "assunto": "Impugnação à autorização de terminal adicional em Tijucas (SC) para a Nossa Senhora da Penha (art. 17, §4º, da Res. 5.285/2017), com sustentação oral; discute-se também a política de entrada de operadores no mercado",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "regulação normativa"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "retirado de pauta pelo relator para refazer o voto",
+   "resumo_voto": "A área técnica manteve o indeferimento da impugnação (terminal adicional permitido onde os mercados são distintos dos já autorizados a outra empresa). Após a sustentação oral, o relator disse ter recebido memorial e que o pedido final (conceder para as duas empresas) faz sentido à luz do novo marco regulatório; retirou o processo para refazer o voto na semana seguinte. Na discussão, diretores debateram se mercado saturado obriga a processo seletivo ou se se deve deixar o mercado regular entrada e saída (autoria das falas incerta na legenda).",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator; retira de pauta para refazer o voto",
+     "ts": "0:18:33",
+     "justificativa": "à luz do novo marco regulatório não faz sentido esse tipo de restrição; acolhe em parte o argumento da empresa",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com a retirada de pauta",
+     "ts": "0:19:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo com a retirada de pauta",
+     "ts": "0:19:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com a retirada de pauta; participa do debate sobre processo seletivo",
+     "ts": "0:19:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.1.3",
+   "ts": "0:24:06",
+   "processo": "50500.330253/2016-61 (legenda; incerto)",
+   "interessado": "Auto Viação 1001, Auto Viação Catarinense e Viação Cometa",
+   "assunto": "Recurso contra o Ofício 9.354/2019 (SUPAS)",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "recurso conhecido e provido por unanimidade",
+   "resumo_voto": "Relator leu apenas a conclusão: conhecer o recurso e, no mérito, dar provimento, em linha com o voto da semana anterior (Deliberação 955/2019).",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:25:03",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:25:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:25:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:25:03",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.4",
+   "ts": "0:25:26",
+   "processo": "50500.029111/2014-49",
+   "interessado": "CCR Ponte S/A (Concessionária da Ponte Rio-Niterói)",
+   "assunto": "Recurso à Diretoria contra a Decisão 122/2019 da SUINF: multa por descumprimento do cronograma de investimentos do 20º ano de concessão",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "recurso conhecido, com efeito suspensivo desde a interposição; mérito negado; multa mantida (249 URTs), por unanimidade",
+   "resumo_voto": "Multa reenquadrada pelos itens 1.75 e 1.79 do contrato (249 unidades de referência de tarifa, segundo a legenda); Procuradoria concordou com a área técnica.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:28:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:28:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:28:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:28:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.5",
+   "ts": "0:28:02",
+   "processo": "50505.308356/2019-02 (legenda; incerto)",
+   "interessado": "Concer (Companhia de Concessão Rodoviária Juiz de Fora - Rio), BR-040 MG/RJ",
+   "assunto": "25ª revisão ordinária, 13ª revisão extraordinária e reajuste da tarifa básica de pedágio; atualização dos aportes da nova subida da Serra de Petrópolis",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "pedágio"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Reajuste de 3,37% (IPC) e redução da tarifa de categoria 1 de R$ 11,60 para R$ 9,60 (valores lidos pela legenda). Um diretor pediu registro no voto de que os valores dos aportes são provisórios até haver projetos executivos (observação já feita no voto do ano anterior).",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:28:02",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo, com observação sobre provisoriedade do valor dos aportes (autoria incerta)",
+     "ts": "0:31:30",
+     "justificativa": "aportes só terão valor final com projetos executivos e insumos técnicos",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:31:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:31:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.6",
+   "ts": "0:32:00",
+   "processo": "50500.159382/2018-80 (legenda; incerto)",
+   "interessado": "Concessionária das Rodovias Centrais do Brasil S/A (Concebra), BR-060/153/262",
+   "assunto": "4ª revisão ordinária, 8ª revisão extraordinária e reajuste da tarifa básica de pedágio; manutenção da tarifa por tutela de urgência em ação cautelar arbitral",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "pedágio",
+    "judicializacao"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Reajuste de 4,94% e fator de redução levariam a redução tarifária, mas tutela de urgência da cautelar proposta pela concessionária veda redução; Procuradoria opinou que a Agência se submete à decisão judicial e a tarifa do ano anterior é mantida. Relator menciona ofício do DENATRAN sobre controladores de velocidade (Res. Contran 396/2011); a área técnica disse tratar-se de atualização de valores de equipamentos.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:36:04",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:36:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:36:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:36:04",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.8 (bloco)",
+   "ts": "0:36:26",
+   "processo": "50500.383782/2019-07 (legenda; incerto)",
+   "interessado": "Única Petrópolis Ltda. e outros",
+   "assunto": "Recadastramento de termos de autorização de serviço regular, em bloco",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovados por unanimidade (bloco)",
+   "resumo_voto": "Processos de rotina.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:37:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:37:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:37:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:37:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:37:40",
+   "processo": "50500.324902/2019-03 (legenda; incerto)",
+   "interessado": "SUPAS",
+   "assunto": "Alteração da Resolução 1.692/2006 (Estatuto do Idoso no transporte interestadual) para cumprir sentença transitada em julgado em ação civil pública: idosos nas duas vagas gratuitas não pagam taxa de embarque nem pedágio",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao",
+    "regulação normativa"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Parecer da Procuradoria (2019) entendeu que a decisão não alcança o desconto de 50%, apenas as vagas gratuitas; alteração do parágrafo único do art. 6º dispensa audiência pública por não criar exigências novas.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:40:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:40:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:40:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:40:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3",
+   "ts": "0:40:31",
+   "processo": "50500.383110/2019-51",
+   "interessado": "SUROC",
+   "assunto": "Abertura de audiência pública: obrigatoriedade de inspeção técnica veicular para frota cadastrada no RNTRC",
+   "tema": [
+    "transporte rodoviário de cargas",
+    "regulação normativa",
+    "participação social"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "Relator considerou o projeto excelente, mas pediu retirada para enxugar atribuições que conflitam com outras ações internas (resolução de terminais em andamento) e devolver à área técnica.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator; retira de pauta",
+     "ts": "0:40:48",
+     "justificativa": "necessita revisão e enxugamento de atribuições; conflito com outra resolução em andamento",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:42:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:42:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:42:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:42:45",
+   "processo": "50500.131276/2013-15 (legenda; incerto)",
+   "interessado": "Concepa (Concessionária da Rodovia Osório-Porto Alegre), RS",
+   "assunto": "Recurso à Diretoria contra a Decisão 003/2019 da SUINF: responsabilidade pela construção de passarela",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "recurso conhecido com efeito suspensivo; mérito negado por unanimidade",
+   "resumo_voto": "Resolução não prevê recurso à Diretoria após segunda instância, mas cláusula do contrato da concessionária permite; prescrição, segurança jurídica, proporcionalidade, retroatividade e reformatio in pejus já analisados e repetidos; mantém decisão da SUINF.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:44:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:44:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:44:46",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:44:46",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:45:02",
+   "processo": "50500.277515/2018-71",
+   "interessado": "SUFER",
+   "assunto": "Estudos técnicos e jurídicos da subconcessão da FIOL (Ferrovia de Integração Oeste-Leste), trecho Ilhéus - Caetité (BA)",
+   "tema": [
+    "ferrovias",
+    "concessões ferroviárias",
+    "leilão / otimização"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Trecho de mais de 1.500 km em três trechos; primeiro trecho Ilhéus-Caetité; prazo de 35 anos, licitação por concorrência internacional, maior valor de outorga; investimento da ordem de R$ 3,4 bilhões e outorga esperada de R$ 143 milhões (valores da legenda); novos indicadores de desempenho; recomendações da Procuradoria parcialmente incorporadas.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:49:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:49:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:49:10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:49:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.3 e 2.3.4 (bloco)",
+   "ts": "0:49:31",
+   "processo": "50500.393762/2019-39 (legenda; incerto); 50500.319652/2019-71",
+   "interessado": "Locadora e Transporte; Expresso Satélite Norte",
+   "assunto": "Recadastramento de fretamento e alteração de licença operacional, em bloco",
+   "tema": [
+    "ônibus (fretamento)"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovados por unanimidade (bloco)",
+   "resumo_voto": "Processos de rotina.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:50:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:50:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:50:21",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:50:21",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.1 (assuntos gerais)",
+   "ts": "0:50:42",
+   "processo": "50500.466330/2016-77",
+   "interessado": "Diretoria",
+   "assunto": "Despacho sobre cancelamento de distribuição de processo e ratificação/retificação de deliberações",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Mário Rodrigues Junior",
+   "resultado": "ratificado (sem discussão relevante registrada)",
+   "resumo_voto": "Sem detalhes na legenda.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:51:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:51:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:51:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "relator, aprova",
+     "ts": "0:51:00",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: números de processo, valores e nomes de empresas podem estar errados.",
+  "Quem fala em cada trecho do debate do item 2.1.7 e na observação do item 2.1.5 não é identificável com segurança; votos de quem acompanha o relator têm ts aproximado.",
+  "Itens sigilosos 2.1.1, 2.1.2 e 2.2.1 (penalidades) não estão registrados em itens por não haver deliberação no vídeo."
+ ]
+}

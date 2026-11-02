@@ -1,0 +1,556 @@
+{
+ "meta": {
+  "video_id": "DKDF4usY83A",
+  "fonte": "legenda automática do YouTube; falantes inferidos (o rótulo de falante do .md é pouco confiável; quem abre a sessão é o Diretor-Geral Mário Rodrigues Junior); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "807",
+  "data": "2019-04-16",
+  "formato": "presencial (transmissão YouTube)",
+  "presidente_da_sessao": "Mário Rodrigues Junior (Diretor-Geral)",
+  "diretores_presentes": [
+   "Mário Rodrigues Junior",
+   "Marcelo Vinaud",
+   "Elisabeth Braga",
+   "Weber Ciloni"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quatro diretores presentes. Antes da abertura, o DG leu comunicado sobre portaria de mitigação de fraude e corrupção na SUINF.",
+   "Dois itens em bloco retirados: Real Expresso (2.1.5, prejudicado por pedido de arquivamento) e Expresso Guanabara (2.3.6, desistência).",
+   "Todos os itens unânimes; encerrada por volta das 16h."
+  ]
+ },
+ "itens": [
+  {
+   "id": "COM",
+   "ts": "0:00:00",
+   "processo": "—",
+   "interessado": "Diretor-Geral",
+   "assunto": "Comunicado do DG sobre portaria que implementa melhorias para mitigar causas sistêmicas de fraude e corrupção na SUINF (relatório de auditoria do TCU sobre exposição da administração pública a fraude e corrupção; concessões rodoviárias)",
+   "tema": [
+    "concessões rodoviárias",
+    "institucional",
+    "fiscalização e sanções"
+   ],
+   "relator": "Mário Rodrigues Junior",
+   "resultado": "comunicado, sem deliberação",
+   "resumo_voto": "Diretrizes da portaria: priorizar processos de caducidade (a partir de 2017) e de aplicação de penalidade; contratar supervisoras independentes; descentralizar a decisão sobre defesa prévia; aprimorar transparência de dados sobre contratos, monitoração e reajustes; considerar só revisões ordinárias de tarifa até definir método para novos investimentos (salvo segurança); plano de ação com resultados à diretoria a cada 30 dias; força-tarefa na SUINF. O DG pede ofício ao BNDES (laudos supostamente falsos de empresa de engenharia) e alerta para sobrecarga de áreas e realocação de pessoal. Outros diretores (voz não identificada) elogiam a iniciativa.",
+   "votos": []
+  },
+  {
+   "id": "2.1",
+   "ts": "0:08:07",
+   "processo": "50500.003602/2002-26",
+   "interessado": "Visa do Brasil Empreendimentos Ltda.",
+   "assunto": "Revogação, a pedido, da habilitação como fornecedora do Vale-Pedágio Obrigatório (Res. 107/2002)",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "SUROC favorável; PF/ANTT concorda.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, revoga a habilitação a pedido",
+     "ts": "0:08:07",
+     "justificativa": "renúncia da Visa; emissoras participantes do produto Visa Vale-Pedágio passaram a se habilitar diretamente na ANTT como FVP até 31/12/2016, tornando desnecessária a habilitação da Visa",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:10:56",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:10:56",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:10:56",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2",
+   "ts": "0:11:00",
+   "processo": "50500.0?9505/2009-92",
+   "interessado": "Gabinete do Diretor-Geral / SUGES",
+   "assunto": "Alteração do quantitativo de cargos comissionados da ANTT e revogação da Del. 208/2019",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Sem aumento de despesa; publicação de novo quadro de quantitativos.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator (inferido), aprova",
+     "ts": "0:11:00",
+     "justificativa": "reduz 64 CCT? e cria 65 sem aumento de despesa, art. 14 da Lei 9.986/2000: CA 14→13, CCT 53→52, CGE? 111→113 (valores conforme legenda)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:13:02",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:13:02",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:13:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.3 a 2.1.5",
+   "ts": "0:13:06",
+   "processo": "3 processos",
+   "interessado": "Viação Unipar (LO); Rota do Mar (indeferimento); Real Expresso (retirado)",
+   "assunto": "Bloco: alteração de LO e indeferimento de novos mercados; item Real Expresso retirado de pauta",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Processos de rotina votados em bloco; conteúdo não detalhado na transmissão.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova (voto em bloco)",
+     "ts": "0:13:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:15:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:15:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:15:09",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:15:13",
+   "processo": "50500.352504/2018-77",
+   "interessado": "Superintendência Executiva (SUEXE)",
+   "assunto": "Aprovação do Plano de Atuação Internacional 2019",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Define diretrizes e objetivos da atuação internacional a partir da cadeia de valor.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, aprova",
+     "ts": "0:15:13",
+     "justificativa": "primeiro plano de atuação internacional da agência (2019), alinhado ao planejamento estratégico; sujeito à disponibilidade orçamentária; PF/ANTT favorável com recomendações sanadas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:16:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:16:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:16:57",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:17:01",
+   "processo": "50500.131211/2014-34",
+   "interessado": "Disney? Oliveira Soares Turismo (nome distorcido)",
+   "assunto": "PAO — mercadoria estrangeira sem prova de introdução regular apreendida pela Receita Federal",
+   "tema": [
+    "fiscalização e sanções"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade — multa de R$ 5.000 em vez de inidoneidade",
+   "resumo_voto": "Segue a área técnica, contra a proposta da comissão.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, aplica multa de R$ 5.000 (pena alternativa)",
+     "ts": "0:17:01",
+     "justificativa": "área técnica considera inidoneidade inadequada por ser medida extrema",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:19:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:19:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:19:13",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3",
+   "ts": "0:19:17",
+   "processo": "50500.334788/2015-41",
+   "interessado": "Viação Rio Grande Ltda.",
+   "assunto": "Proposta de anulação do TAR 142 (serviço regular de passageiros em autorização)",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade — arquivamento (convalidação do ato)",
+   "resumo_voto": "PF/ANTT recomendou avaliar convalidação; interessado agiu de boa-fé.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, arquiva a proposta de anulação",
+     "ts": "0:19:17",
+     "justificativa": "o TA foi concedido com capital social integralizado menor que o exigido, mas a ANTT depois deu prazo e a empresa regularizou; anular seria comportamento contraditório e violaria a boa-fé; falha de análise, não da empresa",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:23:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:23:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:23:06",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.4",
+   "ts": "0:23:10",
+   "processo": "50500.310488/2018-18",
+   "interessado": "Viação São Bento Ltda. (contra Expresso União, linha Passos/MG–Ribeirão Preto/SP)",
+   "assunto": "Pedido de revisão da Del. 881/2018 (implantação de linha Passos–Ribeirão Preto operada pela Expresso União)",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Mantém a autorização da linha.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, conhece e nega provimento",
+     "ts": "0:23:10",
+     "justificativa": "Portarias SUPAS 249/258 e Res. 5.629/2017 não se aplicam a mercados já operados pela empresa; Lei 10.233 art. 47-B: sem limite de autorizações salvo inviabilidade operacional; argumentos genéricos sem dados técnicos; ANTT pode ajustar se houver desequilíbrio",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:28:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:28:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:28:22",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.5 a 2.2.10",
+   "ts": "0:28:26",
+   "processo": "6 processos",
+   "interessado": "Gontijo? ; Expresso Guanabara; outras",
+   "assunto": "Bloco: alterações de LO, recadastramentos de fretamento e de autorização regular, indeferimentos de novos mercados",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Processos de rotina votados em bloco; conteúdo não detalhado na transmissão.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova (voto em bloco)",
+     "ts": "0:28:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:30:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:30:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:30:49",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:30:53",
+   "processo": "50500.338132/2018-31",
+   "interessado": "Viação Xavante Ltda.",
+   "assunto": "Pedido de implantação da linha Brasília/DF–Barra do Garças/MT",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade — indeferido",
+   "resumo_voto": "Reitera o encaminhamento inicial.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, indefere",
+     "ts": "0:30:53",
+     "justificativa": "a requerente não possui autorização para operar os mercados Brasília–Barra do Garças; retirado de pauta anteriormente a pedido do interessado, que invocou a Portaria SUPAS 249/2018",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:32:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:32:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:32:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:32:29",
+   "processo": "50500.327101/2017",
+   "interessado": "Alva Turismo Ltda.",
+   "assunto": "Pedido de reconsideração de multa",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade — multa mantida",
+   "resumo_voto": "Cálculo conforme resolução.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, mantém a multa de R$ 6.500",
+     "ts": "0:32:29",
+     "justificativa": "multa pela Res. 233/2003: R$ 3.000 base + R$ 500 por veículo cadastrado (7 veículos) = R$ 6.500; interessado pedia conversão para R$ 4.000",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:34:01",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:34:01",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:34:01",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.3",
+   "ts": "0:34:05",
+   "processo": "50500.026618/1995? (parcial)",
+   "interessado": "empresa de fretamento (nome distorcido: «Paraná? e Cia Ltda.»)",
+   "assunto": "Abertura de PAO por adulteração de CRLV (anotação de acessibilidade)",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Instaurar processo para definição da sanção.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, autoriza conversão em PAO",
+     "ts": "0:34:05",
+     "justificativa": "consulta ao Detran confirmou que a anotação de acessibilidade nunca constou no CRLV original — fraude evidenciada",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:35:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:35:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:35:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.4 a 2.3.7",
+   "ts": "0:35:59",
+   "processo": "4 processos",
+   "interessado": "Turma com Funk? Turismo; Consórcio Guanabara; Expresso Guanabara (retirado por desistência); Rota do Mar",
+   "assunto": "Bloco: alteração de LO e indeferimentos; item 2.3.6 retirado",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Processos de rotina votados em bloco; conteúdo não detalhado na transmissão.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova (voto em bloco)",
+     "ts": "0:35:59",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:38:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:38:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:38:12",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.1 a 3.3",
+   "ts": "0:38:16",
+   "processo": "50500.9538?/2015; 50500.336238/2015-10; 50500.0036162/2015",
+   "interessado": "despachos de 5 e 8 de abril",
+   "assunto": "Três pedidos de cancelamento da distribuição de processos",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "(não identificado)",
+   "resultado": "aprovado por unanimidade (anuência verbal)",
+   "resumo_voto": "Item de assuntos gerais.",
+   "votos": []
+  }
+ ],
+ "retirados": [
+  {
+   "item": "2.1.5 — Real Expresso Ltda. (processo 50500.335224/2018-16)",
+   "relator": "Marcelo Vinaud",
+   "motivo": "pedido de arquivamento protocolado pela empresa; objeto prejudicado",
+   "ts": "0:00:00"
+  },
+  {
+   "item": "2.3.6 — Expresso Guanabara (processo 50513.?/2018)",
+   "relator": "Weber Ciloni",
+   "motivo": "empresa desistiu do pleito por ofício",
+   "ts": "0:00:00"
+  }
+ ],
+ "limites_da_analise": [
+  "A legenda mostra a abertura como «Marcelo Fonseca»; quem preside é o DG Mário Rodrigues Junior.",
+  "Relator do item 2.2 (cargos comissionados) inferido pela sequência de leitura.",
+  "Ts dos retirados e do comunicado aproximados.",
+  "Valores, números de processos e nomes de empresas podem estar distorcidos pela legenda; vários itens em bloco sem detalhe."
+ ]
+}

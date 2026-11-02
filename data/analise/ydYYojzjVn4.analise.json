@@ -1,0 +1,872 @@
+{
+ "meta": {
+  "video_id": "ydYYojzjVn4",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulo do .md pode estar errado, ex.: «Marcelo Fonseca» na abertura é o DG Mário Rodrigues Junior); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "813",
+  "data": "2019-06-04",
+  "formato": "presencial (Sede da ANTT)",
+  "presidente_da_sessao": "Mário Rodrigues Junior (Diretor-Geral)",
+  "diretores_presentes": [
+   "Mário Rodrigues Junior",
+   "Marcelo Vinaud",
+   "Elisabeth Braga",
+   "Weber Ciloni"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quatro diretores; ata da 812 aprovada; encerrada às 16h35.",
+   "Referendo da rejeição de nova sessão pública em Itaituba (Ferrogrão), retirada de dois itens de transferência de mercado por Weber Ciloni, aprovação do edital da BR-364/365 (GO/MG) e abertura de AP sobre prorrogação da MRS."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1",
+   "ts": "0:01:00",
+   "processo": "50500.541000.382/2019-72 (legenda: 00 54 1 000 382)",
+   "interessado": "SUFER / audiência pública 10/2017 (Ferrogrão)",
+   "assunto": "Referendo da Deliberação 607/2019 (29/05/2019), que rejeitou nova sessão presencial da AP em Itaituba (PA), diante de audiência de conciliação judicial marcada para 4/6/2019",
+   "tema": [
+    "ferrovias",
+    "participação social",
+    "judicializacao"
+   ],
+   "relator": "Mário Rodrigues Junior",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Em ação civil pública, decisão judicial pediu que a agência levasse à diretoria a possibilidade de nova sessão em Itaituba. A área técnica e a Procuradoria afirmam a legalidade da AP e a nova sessão atrasaria cerca de um ano e meio a política pública; reitera a rejeição.",
+   "votos": [
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "relator, referenda rejeição de nova sessão",
+     "ts": "0:01:10",
+     "justificativa": "legalidade da AP e risco de atraso de cerca de 1,5 ano",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:04:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:04:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo, por rejeitar a realização de sessão pública em Itaituba",
+     "ts": "0:04:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:04:37",
+   "processo": "50500.017375/2019-xx",
+   "interessado": "Viação São Luiz Ltda.",
+   "assunto": "Pedido de implantação da linha Campo Grande (MS)-Birigui (SP)",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade (indeferido)",
+   "resumo_voto": "A empresa já opera os mercados por LOP, mas a linha proposta é operada como seção por outra empresa; indeferido conforme a Portaria 258/2018.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:04:45",
+     "justificativa": "linha operada como seção por outra empresa; Portaria 258/2018",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:05:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com o relator",
+     "ts": "0:05:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o relator",
+     "ts": "0:06:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:06:09",
+   "processo": "50500.326108/2009-85",
+   "interessado": "Bailante e Ribeiro Ltda.",
+   "assunto": "PAO: representação da Receita Federal: mercadoria estrangeira sem prova de introdução regular (Foz do Iguaçu)",
+   "tema": [
+    "fiscalização e sanções"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Empresa não autorizada ao TRIC; veda por dois anos a expedição de autorizações.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:06:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:07:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com o relator",
+     "ts": "0:07:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o relator",
+     "ts": "0:07:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3",
+   "ts": "0:07:50",
+   "processo": "50500.xxxxxx (ilegível)",
+   "interessado": "Transporte Pesado 30 de Maio SRL (empresa boliviana)",
+   "assunto": "PAO: semirreboque com placa de outro veículo (Epitaciolândia-AC); perdimento do veículo sem impugnação",
+   "tema": [
+    "fiscalização e sanções"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Cancela a autorização de TRIC e veda por dois anos novas autorizações, após parecer da Procuradoria e análise técnica.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:08:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:09:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com o relator",
+     "ts": "0:09:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o relator",
+     "ts": "0:09:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.4",
+   "ts": "0:09:58",
+   "processo": "50500.327706/2017-xx",
+   "interessado": "Empresa de turismo (nome ilegível: «... Turismo e Viagens Ltda.»)",
+   "assunto": "PAO: representação da Receita Federal: mercadoria estrangeira sem prova de introdução regular; condutor era o sócio da empresa; reincidência",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (fretamento)"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade (revotado após retificação)",
+   "resumo_voto": "Infração do art. 73 do Decreto 2.521/1998 e do art. 61 IX da Res. ANTT 4.777/2015; pena anterior de 3 anos (Res. 5658/2018), ampliada para 5 anos por reincidência (art. 67, Res. 5033/2016); determina à SUPAS abrir processo específico sobre a conduta dos sócios (art. 68). Weber Ciloni questiona se a votação cobria a pena e a abertura do processo contra o sócio; o relator esclarece que a pena de cinco anos e o novo processo (contra pessoa física) estão ambos na proposição e reabre a votação.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, cassação/inidoneidade por 5 anos e processo contra os sócios",
+     "ts": "0:10:10",
+     "justificativa": "reincidência e indício de dolo do sócio, que dirigia o veículo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:12:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com o relator",
+     "ts": "0:13:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo; questiona o alcance da proposição (pena e processo contra o sócio) e, após retificação, de acordo",
+     "ts": "0:13:05",
+     "justificativa": "quer clareza sobre punição da empresa e abertura de processo contra o sócio",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.5",
+   "ts": "0:13:46",
+   "processo": "50500.176806/2017-61",
+   "interessado": "Reunidas Transportes S.A.",
+   "assunto": "Alteração da LOP 16 por decisão judicial: Florianópolis-Passo Fundo (BR-282/BR-470), Florianópolis-Santo Ângelo e Florianópolis-Argentina",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Liminar determinou a análise dos pedidos; nota técnica concluiu que a empresa cumpriu os requisitos; autoriza os mercados.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:13:55",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:15:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com o relator",
+     "ts": "0:15:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o relator",
+     "ts": "0:15:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.6",
+   "ts": "0:15:18",
+   "processo": "50500.328181/2019-47",
+   "interessado": "Empresa de turismo (legenda: «Sky/Skype Turismo Ltda.»)",
+   "assunto": "Revogação do termo de autorização (TAF 42 6424?) por renúncia da empresa (Deliberação 837/2018)",
+   "tema": [
+    "ônibus (fretamento)"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Empresa renunciou; revoga-se o termo de autorização.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:15:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:16:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com o relator",
+     "ts": "0:16:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o relator",
+     "ts": "0:16:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.7-2.2.14",
+   "ts": "0:16:50",
+   "processo": "vários (50500.367318/2016-81 etc.)",
+   "interessado": "Nossa Senhora da Glória; Coletivos (nome ilegível); Viação Cometa/Ouro e Prata; Gontijo; Rápido Federal; Cooperativa de condutores da Paraíba; Autopista Litoral Sul",
+   "assunto": "Indeferimentos de novos mercados, alterações de LOP, autorização de fretamento e declaração de utilidade pública",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "ônibus (fretamento)",
+    "concessões rodoviárias"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deliberados em bloco; sem detalhamento na legenda.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova em bloco",
+     "ts": "0:16:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:19:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:19:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:19:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:21:26",
+   "processo": "50500.326054/2009-58",
+   "interessado": "Transportes Cristo Vencedor Ltda.",
+   "assunto": "PAO: representação da Receita Federal: mercadoria estrangeira sem prova de introdução regular (fiscalização de 24/10/2016); multa tributária paga e veículo devolvido",
+   "tema": [
+    "fiscalização e sanções"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Empresa não autorizada ao TRIC; não cabe cassação; veda por dois anos novas autorizações. Weber Ciloni elogia a consulta feita à Receita Federal sobre o trânsito em julgado.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, veda por 2 anos",
+     "ts": "0:21:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:23:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:23:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo, parabenizando a relatora pelo procedimento de consulta à Receita",
+     "ts": "0:24:00",
+     "justificativa": "consulta à Receita ajuda a esclarecer o caso",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:23:55",
+   "processo": "50500.326049/2009-45",
+   "interessado": "Empresa «Shine/Jain Transportes» (nome ilegível)",
+   "assunto": "PAO: representação da Receita Federal: mercadoria estrangeira sem prova de introdução regular (fiscalização de 16/03/2018)",
+   "tema": [
+    "fiscalização e sanções"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Mesma fundamentação do item anterior; veda por dois anos.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:24:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:26:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com o relator",
+     "ts": "0:26:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o relator",
+     "ts": "0:26:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.3",
+   "ts": "0:26:30",
+   "processo": "50500.148402/2014-35",
+   "interessado": "Concessionária (legenda: «Conserva... Rodovias»; provável Concebra)",
+   "assunto": "Revogação da Deliberação 1.187/2016 (legenda) e de incisos da Resolução 5142/2016 (3ª revisão extraordinária): obras do viaduto de ligação ao aeroporto de Goiânia, contorno rodoviário de Campo Florido (MG) e contorno de Goiânia (BR-153)",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "judicializacao"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Diretoria decidira suspender a execução das obras incluídas na revisão enquanto o TCU apura supostas irregularidades na inclusão de obras (processo TCU 1036 417/2016-5, legenda); revoga os dispositivos.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:26:45",
+     "justificativa": "TCU apura inclusão de obras; suspensão imediata até apreciação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:29:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com o relator",
+     "ts": "0:30:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o relator",
+     "ts": "0:30:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.4",
+   "ts": "0:30:10",
+   "processo": "50500.329282/2014 (legenda)",
+   "interessado": "SUINF",
+   "assunto": "Aprovação do edital de concessão da BR-364/365 (GO/MG), trecho entre o entroncamento com a BR-060 e o contorno oeste de Uberlândia, com contrato e PER",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização",
+    "participação social"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Estudos e minutas passaram por audiência pública 5/2017; TCU aprovou o primeiro estágio (Acórdão 1.096/2019); SUINF e Procuradoria concluíram pela possibilidade de aprovação.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:30:50",
+     "justificativa": "instruções técnicas e jurídicas favoráveis; TCU aprovou 1º estágio",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:32:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com o relator",
+     "ts": "0:32:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o relator",
+     "ts": "0:32:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.5-2.3.10",
+   "ts": "0:32:40",
+   "processo": "vários",
+   "interessado": "Expresso Transporte Turístico; Conservação; Expresso Transportes e Turismo de Eventos; Rota (legenda); Para Vans; Agência de Viagens e Turismo Marketing; Expresso Nordeste; Borges Transportes",
+   "assunto": "Alteração de LOP, indeferimentos e termos de autorização/recadastramento de fretamento",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "ônibus (fretamento)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deliberados em bloco; sem detalhamento na legenda.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova em bloco",
+     "ts": "0:32:45",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:35:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:35:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:35:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.1",
+   "ts": "0:35:45",
+   "processo": "50500.146783/2016-44",
+   "interessado": "São Mateus (Bady Bassitt) Transportes e Turismo Ltda.",
+   "assunto": "PAO: transporte de mercadoria sem documentação legal; sem antecedentes",
+   "tema": [
+    "fiscalização e sanções"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Segue Procuradoria: pena alternativa de multa de R$ 5.500.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:36:30",
+     "justificativa": "empresa sem antecedentes; pena mais grave desproporcional",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:37:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com o relator",
+     "ts": "0:37:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com o relator",
+     "ts": "0:37:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.2",
+   "ts": "0:37:46",
+   "processo": "50500.130484/2014-26",
+   "interessado": "Empresa de turismo (nome ilegível)",
+   "assunto": "PAO: mercadoria sem documentação; reincidente (inidônea por 3 anos na Res. 4698/2015, legenda)",
+   "tema": [
+    "fiscalização e sanções"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Inidoneidade por quatro anos.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:38:20",
+     "justificativa": "reincidência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:39:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com o relator",
+     "ts": "0:39:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com o relator",
+     "ts": "0:39:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.3",
+   "ts": "0:39:25",
+   "processo": "50500.350357/2018 (legenda)",
+   "interessado": "SUPAS",
+   "assunto": "Audiência Pública 16/2018: relatório final sobre nova metodologia tarifária para o semiurbano e revisão tarifária (Taguatur)",
+   "tema": [
+    "ônibus (semiurbano)",
+    "participação social",
+    "regulação normativa"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "A SUPAS reviu a posição: a revisão da Taguatur já foi aprovada pela Del. 215/2019; revisões das autorizações especiais continuam por resolução e a agência deve priorizar licitações; o procedimento perdeu o objeto sem ação regulatória; Procuradoria sem óbices.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:39:45",
+     "justificativa": "foco em licitar os serviços; perda de objeto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:41:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com o relator",
+     "ts": "0:41:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com o relator",
+     "ts": "0:42:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.4",
+   "ts": "0:42:24",
+   "processo": "50500.001600/1989 (legenda)",
+   "interessado": "Viação Santa Cruz x Edson Agência de Viagens e Turismo",
+   "assunto": "Pedido de reconsideração contra decisão que autorizou a Edson a operar mercados",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade (conhecido; negado provimento)",
+   "resumo_voto": "Santa Cruz alegava mercados de classe 2 operados por empresa classe 1 e linhas sem autorização; SUPAS corrigiu a compatibilidade de classe e parte dos mercados decorre de decisão judicial; negado provimento por perda do objeto.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:42:40",
+     "justificativa": "perda do objeto; decisão judicial",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:43:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com o relator",
+     "ts": "0:43:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com o relator",
+     "ts": "0:44:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.5",
+   "ts": "0:44:10",
+   "processo": "50500.15 1334722/2018 (legenda)",
+   "interessado": "Expresso Itamarati (legenda)",
+   "assunto": "Transferência de mercado - retirado de pauta para reanálise",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "retirado de pauta",
+   "resumo_voto": "Retirado a pedido do diretor para reanálise, junto com o 2.4.6.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "retira de pauta para reanálise",
+     "ts": "0:44:00",
+     "justificativa": "reanálise",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.6",
+   "ts": "0:44:10",
+   "processo": "50500.301209/2018-52 (legenda)",
+   "interessado": "JS Serviços de Logística e Auto Viação Cruzeiro",
+   "assunto": "Transferência de mercado - retirado de pauta para reanálise",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "retirado de pauta",
+   "resumo_voto": "Retirado a pedido do diretor para reanálise.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "retira de pauta para reanálise",
+     "ts": "0:44:00",
+     "justificativa": "reanálise",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.7 (reservado)",
+   "ts": "0:44:45",
+   "processo": "50500.577832/2017-11",
+   "interessado": "Processo administrativo disciplinar com restrição de acesso",
+   "assunto": "Julgamento ao final da transmissão, com participação restrita à parte e seu procurador",
+   "tema": [
+    "fiscalização e sanções"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "não transmitido (sigilo)",
+   "resumo_voto": "Pauta cita; julgamento não consta da transmissão.",
+   "votos": []
+  },
+  {
+   "id": "2.4.8-2.4.22",
+   "ts": "0:45:29",
+   "processo": "vários",
+   "interessado": "Planalto, Cantando, Viação Ouro e Prata, São Cristóvão, Santa Cruz, Amatur, Progresso, Gontijo, Rota do Mar, Jean Jóia e outras",
+   "assunto": "Indeferimentos de novos mercados e recadastramentos de autorização",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "ônibus (fretamento)"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deliberados em bloco; sem detalhamento na legenda.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova em bloco",
+     "ts": "0:46:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:49:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:49:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:49:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "extrapauta-1",
+   "ts": "0:49:31",
+   "processo": "sem número na legenda",
+   "interessado": "MRS Logística (concessionária ferroviária)",
+   "assunto": "Abertura de audiência pública (3 a 29/06/2019) sobre estudos técnicos da prorrogação antecipada do prazo contratual da concessão",
+   "tema": [
+    "ferrovias",
+    "participação social",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Mário Rodrigues Junior",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "O DG propõe submeter a controle social, via audiência pública, os estudos sobre prorrogação da vigência do contrato da MRS.",
+   "votos": [
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "relator, propõe abertura de AP",
+     "ts": "0:50:00",
+     "justificativa": "participação e controle social sobre prorrogação contratual",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:50:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:50:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:50:45",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "2.4.5",
+   "motivo": "retirado pelo relator para reanálise"
+  },
+  {
+   "id": "2.4.6",
+   "motivo": "retirado pelo relator para reanálise"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática com muitos erros de nomes e números; a grafia de «Weber Ciloni» (legenda: Werner/Weber Simone, Peter Simone) e «Marcelo Vinaud» (legenda: Marcelo de Novo, Dominou, Veni) é inferida das saudações e pode estar incorreta.",
+  "Minutos dos votos de quem só acompanha o relator são aproximados (confiança média).",
+  "Muitos números de processo e nomes de empresas ilegíveis na legenda.",
+  "Item 2.2.4: o texto confuso sugere que a votação foi reaberta após retificação do relator.",
+  "Item 2.3.3: concessionária identificada só por inferência (Concebra).",
+  "Itens em bloco sem detalhamento; o PAD reservado 2.4.7 não consta da transmissão."
+ ]
+}

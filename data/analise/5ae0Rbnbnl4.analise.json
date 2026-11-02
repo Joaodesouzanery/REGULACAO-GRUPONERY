@@ -1,0 +1,932 @@
+{
+ "meta": {
+  "video_id": "5ae0Rbnbnl4",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulos de falante da legenda não são confiáveis); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "802",
+  "data": "2019-03-12",
+  "formato": "presencial; primeira reunião transmitida ao vivo e primeiro uso do SEI",
+  "presidente_da_sessao": "Mário Rodrigues Junior (Diretor-Geral) — inferido",
+  "diretores_presentes": [
+   "Mário Rodrigues Junior",
+   "Marcelo Vinaud",
+   "Elisabeth Braga",
+   "Weber Ciloni"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 16h18 de 12/03/2019.",
+   "Abertura anuncia a primeira reunião de diretoria ao vivo e o sistema eletrônico de informação (SEI).",
+   "Dois processos de mercados retirados por desistência das empresas (Amatur e Viação Garcia) e dois do relator Weber Ciloni (2.3.6 e 2.3.7) retirados por ele para reanálise.",
+   "Ao final, o DG convida para o leilão de portos de 22/03/2019 (B3).",
+   "Tudo aprovado por unanimidade."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:01:05",
+   "processo": "",
+   "interessado": "Ata da 801ª reunião",
+   "assunto": "Aprovação da ata da reunião nº 801",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "",
+   "resultado": "aprovada por unanimidade",
+   "resumo_voto": "Leitura dispensada.",
+   "votos": [
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:01:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:01:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:01:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:01:26",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:01:40",
+   "processo": "50500.012517/2010-5 (incerto)",
+   "interessado": "Superintendência de Gestão (SUGES)",
+   "assunto": "Revogação/alteração da Deliberação 004/2012: Programa de Concessão de Bolsas de Estudo em Idiomas (PCI), ampliado a empregados públicos federais e comissionados",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Amplia o PCI, restrito ao quadro efetivo, para empregados públicos federais e detentores de cargos comissionados em exercício na ANTT.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:03:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:03:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:03:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:03:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:03:35",
+   "processo": "50500.138330/2016-1 (incerto)",
+   "interessado": "Via Bahia Concessionária de Rodovias S.A.",
+   "assunto": "Terceiro termo aditivo ao contrato (edital 001/2008) para incluir cláusula arbitral",
+   "tema": [
+    "concessões rodoviárias",
+    "arbitragem"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Minuta negociada entre SUINF, concessionária e Procuradoria; introduz resolução de controvérsias por arbitragem.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:05:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:05:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:05:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:05:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.3",
+   "ts": "0:05:35",
+   "processo": "50510.029188/2015-81 (incerto)",
+   "interessado": "Autopista Fernão Dias S.A.",
+   "assunto": "Recurso — multa por não prestar socorro mecânico (PER BR-381 MG/SP); multa de 484 URT",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade — multa de 484 URT mantida",
+   "resumo_voto": "Multa inicial de 550 URT reduzida para 484 em segunda instância; conhece o recurso, concede efeito suspensivo desde a interposição e nega provimento.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:07:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:07:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:07:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo, por considerar correta a dosimetria",
+     "ts": "0:07:50",
+     "justificativa": "dosimetria corretamente aplicada",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.1.4",
+   "ts": "0:08:20",
+   "processo": "50510.008348/2015-8 (incerto)",
+   "interessado": "Autopista Fernão Dias S.A.",
+   "assunto": "Recurso — multa de 272,2 URT por socorro mecânico fora do padrão do PER",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade — multa mantida",
+   "resumo_voto": "Multa inicial de 275 URT reduzida a 272,2. Um dos diretores seguidores (autoria incerta na legenda) pediu que processos similares passem a informar as datas das instaurações, pela quantidade de recursos protelatórios.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:09:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:09:47",
+     "justificativa": "pediu que os próximos processos similares tragam as datas de instauração, diante de recursos protelatórios (autoria da fala incerta: Mário, Elisabeth ou Weber)",
+     "tom": "propositivo",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:09:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:09:58",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.1.5",
+   "ts": "0:10:12",
+   "processo": "50510.007198/2015-73",
+   "interessado": "Autopista Fernão Dias S.A.",
+   "assunto": "Recurso — multa de 272,2 URT por socorro mecânico",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade — multa mantida",
+   "resumo_voto": "Mesmo padrão: multa de 275 URT reduzida a 272,2; efeito suspensivo concedido, mérito negado.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:12:35",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:12:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:12:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:12:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.6",
+   "ts": "0:12:42",
+   "processo": "50515.051853/2014-91 (incerto)",
+   "interessado": "Autopista Régis Bittencourt S.A.",
+   "assunto": "Recurso — multa por não apresentar projeto executivo de obras de arte especiais; multa reduzida a 90 URT",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade — multa fixada em 90 URT",
+   "resumo_voto": "Multa de 100 URT em primeira instância, 165 em segunda; área técnica reconheceu atenuante e sugeriu 90 URT.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:15:15",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:15:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:15:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:15:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.7 a 2.1.13 (em bloco)",
+   "ts": "0:15:23",
+   "processo": "vários",
+   "interessado": "Viação União Santa Cruz, Real Expresso, Expresso Guanabara, Lopes e Oliveira, Rápido Federal, Expresso Maringá (e outros)",
+   "assunto": "Solicitações de mercados, termos de autorização e alterações de licença operacional, em bloco",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovados em bloco por unanimidade",
+   "resumo_voto": "Processos de rotina do relator.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:17:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:17:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:17:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:17:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.0",
+   "ts": "0:17:45",
+   "processo": "",
+   "interessado": "Amatur Amazônia Turismo; Viação Garcia",
+   "assunto": "Retirada de pauta de dois processos (2.2.5 e 2.2.8, solicitações de mercados) por desistência das empresas, com cancelamento da distribuição",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "retirada aprovada por unanimidade",
+   "resumo_voto": "Empresas desistiram dos mercados solicitados.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, propõe retirar",
+     "ts": "0:17:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:17:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:17:58",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:18:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:17:28",
+   "processo": "50515.009937/2014-31 (incerto)",
+   "interessado": "Viação Cometa S.A.",
+   "assunto": "Processo administrativo ordinário — descumprimento de TAC (autorizações de viagem de fretamento turístico em trecho único); comissão propôs inidoneidade, área técnica propôs multa",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (fretamento)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade — multa alternativa (cerca de R$ 50 mil, valor a confirmar)",
+   "resumo_voto": "Comissão concluiu pela inidoneidade (art. 86 do Decreto 2.521/1998), mas a relatora aplica a pena alternativa de multa (art. 78-F da Lei 10.233/2001, fórmula do art. 4º da Resolução 5.233? — número incerto): a empresa opera 74 linhas, tem TAF, não possui histórico de inidoneidade; PF viu possibilidade de conversão.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, aprova multa alternativa à inidoneidade",
+     "ts": "0:22:00",
+     "justificativa": "inidoneidade é medida extrema; empresa apta a operar 74 linhas e sem histórico de pena de inidoneidade; área técnica e PF admitem conversão em multa",
+     "tom": "moderação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha a relatora",
+     "ts": "0:22:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha a relatora",
+     "ts": "0:22:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com a pena alternativa",
+     "ts": "0:22:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:22:59",
+   "processo": "50500.467688/2016-94 (incerto)",
+   "interessado": "Associação Nacional do Transporte de Cargas e Logística (NTC&Logística)",
+   "assunto": "Primeiro termo aditivo ao Acordo de Cooperação Técnica 001/2017 (coleta de dados para regulação do transporte rodoviário de cargas); prorroga prazo que vence em 3/4/2019",
+   "tema": [
+    "transporte rodoviário de cargas",
+    "institucional"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Vigência de 24 meses; benefícios decorrem da capacidade já instalada da NTC.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:25:05",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:25:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:25:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:25:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3",
+   "ts": "0:25:15",
+   "processo": "50500.327718/2017-34",
+   "interessado": "Catânia Sul Transportes e Turismo Ltda.",
+   "assunto": "Processo administrativo ordinário — representação da Receita Federal (mercadoria estrangeira apreendida em ônibus de linha intermunicipal PR); proposta de arquivamento",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade — arquivamento",
+   "resumo_voto": "PF recomendou arquivar por incompetência da ANTT (transporte intermunicipal). Weber pediu oficiar a Receita Federal do arquivamento.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, propõe arquivamento",
+     "ts": "0:28:20",
+     "justificativa": "ANTT não tem competência sobre transporte intermunicipal",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha a relatora",
+     "ts": "0:28:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha a relatora",
+     "ts": "0:28:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo, com observação de oficiar a Receita Federal",
+     "ts": "0:28:30",
+     "justificativa": "dar ciência do arquivamento à Receita por fugir ao âmbito da ANTT",
+     "tom": "propositivo",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.2.4",
+   "ts": "0:28:33",
+   "processo": "50515.067893/2018-9 (incerto)",
+   "interessado": "Viação Pernambucana de Transporte e Turismo",
+   "assunto": "Pedido de supressão da linha Juazeiro do Norte (CE)–Juazeiro (BA) via Milagres",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade — pleito indeferido",
+   "resumo_voto": "Dois dos onze mercados ficariam sem atendimento; empresa não respondeu ao ofício 1523/2018; indeferimento nos termos das Res. 4.770/2015 e 5.285/2017.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:31:25",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:31:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:31:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:31:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.5 a 2.2.11 (em bloco)",
+   "ts": "0:31:31",
+   "processo": "vários",
+   "interessado": "Expresso Guanabara, Consórcio Federal de Transportes, Adit Turismo, Viação Goiânia/Transbrasiliana (e outros)",
+   "assunto": "Solicitações de mercados e termos de autorização, em bloco",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovados em bloco por unanimidade",
+   "resumo_voto": "Processos de rotina da relatora; 2.2.5 e 2.2.8 já haviam sido retirados.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:33:55",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:33:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:33:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:33:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.0",
+   "ts": "0:34:04",
+   "processo": "",
+   "interessado": "Itens 2.3.6 e 2.3.7",
+   "assunto": "Retirada de pauta de dois processos pelo relator (para melhor análise, em razão do excesso de indeferimentos alegado)",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "retirada aprovada",
+   "resumo_voto": "O relator quer dar uma vista melhor aos processos, por motivos alegados de excesso de indeferimentos.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, retira de pauta",
+     "ts": "0:34:04",
+     "justificativa": "quer reanalisar os processos diante do excesso de indeferimentos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:34:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:34:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:34:54",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:35:03",
+   "processo": "50500.2876/2014-8 (incerto)",
+   "interessado": "Assessoria de Gestão Estratégica e Inovação (AGEST)",
+   "assunto": "Plano Anual de Gestão de Riscos 2019",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Primeiro plano anual de gestão de riscos da agência; baseado em metodologia aprovada pelo colegiado.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:36:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:36:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:36:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo, destaca o dia histórico (primeira reunião ao vivo)",
+     "ts": "0:36:50",
+     "justificativa": "o plano de gestão de riscos, o primeiro da agência, melhora governança, transparência e ética",
+     "tom": "elogio",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:37:30",
+   "processo": "50500.104140/2012-35",
+   "interessado": "Rodofrete Pagamentos Eletrônicos de Frete Eireli",
+   "assunto": "Recurso contra a Deliberação 924/2018 que revogou a habilitação como instituição de pagamento eletrônico de frete",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade — habilitação mantida",
+   "resumo_voto": "Empresa mudou de endereço e não iniciou operação; relator mantém a habilitação, revoga a deliberação e exige novo requerimento para operar, por desburocratização.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:39:10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:39:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:39:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:39:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.3",
+   "ts": "0:39:19",
+   "processo": "50500.336192/2015-85 (incerto)",
+   "interessado": "Reunidas Paulista de Transportes Ltda.",
+   "assunto": "Pedido de reconsideração — manutenção do mercado Andradina–Três Lagoas (SP/MS)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "ônibus (semiurbano)"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade — pedido negado",
+   "resumo_voto": "Mercado classificado como semiurbano; não cabe em linhas interestaduais regidas pela Res. 4.770/2015; revoga-se a deliberação.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:41:35",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:41:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:41:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:41:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.4",
+   "ts": "0:41:44",
+   "processo": "50500.002937/2019-75",
+   "interessado": "SUROC",
+   "assunto": "Relatório da Audiência Pública nº 16/2017 (documento eletrônico de transporte, DT-e, no transporte rodoviário de cargas) — aprovação e arquivamento",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "regulação normativa",
+    "participação social"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "A Lei 13.703/2018 (piso mínimo do frete) trouxe novos aspectos; está em andamento a tomada de subsídios 19/2018; aprova-se o relatório e arquiva-se, para nova audiência adequada à lei.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:44:45",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:44:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:44:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:44:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.5",
+   "ts": "0:44:51",
+   "processo": "50501.301819/2015-6 (incerto)",
+   "interessado": "Carvalho Turismo Ltda.",
+   "assunto": "Regularização administrativa da linha Itacarambi (MG)–Brasília (DF)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicialização"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade — indeferido",
+   "resumo_voto": "Empresa não tinha licença operacional nem pediu tempestivamente; Res. 5.629/2017 exige LOP obtida por decisão judicial dentro do período previsto.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:47:55",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:47:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:47:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:47:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.8 a 2.3.14 (em bloco)",
+   "ts": "0:48:04",
+   "processo": "vários",
+   "interessado": "Expresso Guanabara, Viação Nossa Senhora Aparecida, Consórcio Federal, Real Expresso, Rota do Mar e outras",
+   "assunto": "Solicitações de mercados e termos de autorização (fretamento), em bloco",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "ônibus (fretamento)"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovados em bloco por unanimidade",
+   "resumo_voto": "Processos de rotina do relator.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:49:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:49:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:49:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:49:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "EP-1",
+   "ts": "0:50:43",
+   "processo": "50500.044049/2014-5 (incerto)",
+   "interessado": "Associação Brasileira da Indústria Química (ABIQUIM)",
+   "assunto": "Extrapauta — segundo termo aditivo ao Acordo de Cooperação Técnica 001/2015",
+   "tema": [
+    "transporte rodoviário de cargas",
+    "institucional"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Urgência pelo vencimento do prazo; recomendações da Procuradoria já atendidas.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:51:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:52:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:52:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:52:36",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "2.2.5 e 2.2.8",
+   "motivo": "desistência das empresas (Amatur Amazônia Turismo; Viação Garcia)"
+  },
+  {
+   "id": "2.3.6 e 2.3.7",
+   "motivo": "retirados pelo relator Weber Ciloni para reanálise (excesso de indeferimentos)"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática com falantes inferidos (rótulo Marcelo Fonseca na abertura é erro; a fala é do Diretor-Geral).",
+  "Quem presidiu: inferido como Mário Rodrigues Junior (DG), pela menção ao diretor-geral na fala de Elisabeth Braga.",
+  "Nomes da legenda: Marcelo Vinaud aparece como vinou/vin; Weber Ciloni como Weber.",
+  "Números de processo reconstruídos e incertos quando marcados.",
+  "Item 2.1.4: autoria da fala sobre datas de instauração/recursos protelatórios não identificável.",
+  "Valor da multa a Viação Cometa (cerca de R$ 50 mil) e número da resolução da fórmula mal captados.",
+  "Ids 2.2.0 e 2.3.0 são rótulos meus para retiradas de pauta; ids dos blocos conforme a legenda.",
+  "Votos de seguidores aproximados (confiança média)."
+ ]
+}

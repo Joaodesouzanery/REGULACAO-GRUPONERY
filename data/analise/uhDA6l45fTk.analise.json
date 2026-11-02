@@ -1,0 +1,481 @@
+{
+ "meta": {
+  "video_id": "uhDA6l45fTk",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulo automático «Marcelo Fonseca» é equivocado para 2019); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "828",
+  "data": "2019-09-24",
+  "formato": "presencial",
+  "presidente_da_sessao": "Mário Rodrigues Junior (Diretor-Geral) — inferido",
+  "diretores_presentes": [
+   "Mário Rodrigues Junior",
+   "Marcelo Vinaud",
+   "Davi Barreto",
+   "Weber Ciloni",
+   "Elisabeth Braga"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Cinco diretores aptos a deliberar; encerrada às 16h56.",
+   "Ata da RD 827 aprovada sem leitura.",
+   "Processo sancionador sigiloso (Edson Agência de Viagens e Turismo, relator Davi Barreto) julgado antes da transmissão, com sustentação oral; decisão a ser publicada.",
+   "Todos os itens deliberados foram unânimes; item 2.4.2 (ECO101) retirado por Davi Barreto por erro de cálculo da área técnica.",
+   "No encerramento o Diretor-Geral convida para o leilão da rodovia (BR-364/365) na B3, sexta-feira às 10h, com três grupos interessados."
+  ]
+ },
+ "itens": [
+  {
+   "id": "sigiloso",
+   "ts": "0:01:20",
+   "processo": "50500.327646/2019-17 (número incerto)",
+   "interessado": "Edson Agência de Viagens e Turismo Ltda.",
+   "assunto": "Proposta de aplicação de penalidade (processo sancionador reservado, art. 78 da Lei 10.233 e art. 71 do Regimento); julgado antecipadamente com sustentação oral",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (fretamento)"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "decisão não divulgada (sigilo até decisão final)",
+   "resumo_voto": "Sem detalhes públicos; a decisão será publicada depois.",
+   "votos": []
+  },
+  {
+   "id": "1",
+   "ts": "0:00:39",
+   "processo": "—",
+   "interessado": "Diretoria",
+   "assunto": "Aprovação da ata da RD 827",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "—",
+   "resultado": "aprovada por unanimidade",
+   "resumo_voto": "Leitura dispensada; ata distribuída com 48h de antecedência.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:00:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:00:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:00:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:01:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:01:03",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:02:31",
+   "processo": "50500.412092/2019-41 (número incerto)",
+   "interessado": "Autopista Litoral Sul S.A.",
+   "assunto": "11ª revisão ordinária, 13ª revisão extraordinária e reajuste da TBP (BR-116/PR, BR-376/PR e BR-101/SC, Curitiba–Florianópolis)",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "pedágio"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Reajuste de 3,78% (IPC) combinado com as revisões mantém a tarifa em R$ 2,70 (categoria 1). Entre os eventos da revisão extraordinária, 50 novos controladores de velocidade (acréscimo de ~63% sobre os 79 previstos no PER), baseados em pontos críticos de acidentes; a Procuradoria confirmou que investimentos assim, em regra via revisão quinquenal, podem entrar em revisão extraordinária se houver urgência comprovada. Houve consulta ao ofício do Denatran sobre a Resolução Contran 396/2011.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:07:00",
+     "justificativa": "fundamento: pontos críticos de acidentes justificam inclusão excepcional dos controladores de velocidade; parecer da Procuradoria",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com o relator",
+     "ts": "0:07:17",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o relator",
+     "ts": "0:07:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo com o relator",
+     "ts": "0:07:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:07:22",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:07:52",
+   "processo": "50500.386733/2019-78 (número incerto)",
+   "interessado": "GM Turismo Ltda.",
+   "assunto": "Termo de autorização de fretamento (em bloco, junto a outros)",
+   "tema": [
+    "ônibus (fretamento)"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade (em bloco)",
+   "resumo_voto": "Pautado em bloco; sem discussão registrada.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova em bloco",
+     "ts": "0:07:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:08:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:08:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:08:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:08:21",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:08:29",
+   "processo": "50500.383844/2019-22 (número incerto)",
+   "interessado": "Superintendência de Gestão / SUPAS",
+   "assunto": "Alteração de quantitativos de cargos comissionados (transformação de 27 cargos CCT, com aumento de despesa)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Autoriza as transformações de cargos comissionados, com acréscimo de despesa, conforme a legislação; ajustes pedidos pela SUPAS (números exatos incertos na legenda).",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, aprova",
+     "ts": "0:09:45",
+     "justificativa": "instruções técnicas e legislação em vigor",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:09:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:09:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:09:54",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:09:56",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:10:03",
+   "processo": "50500.095152/2018-0 (número incerto)",
+   "interessado": "Concessionária CAEM/Rodovia do Aço S.A.",
+   "assunto": "10ª revisão ordinária, 11ª revisão extraordinária e reajuste da TBP (edital 07/2007; praça P3 de R$ 7,00 para R$ 6,20, queda de ~11,4%)",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "pedágio"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova a revisão e o reajuste (índice de ~1,9%); com os reequilíbrios, a tarifa da praça P3 cai de R$ 7,00 para R$ 6,20 após arredondamento (-11,43%).",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, aprova",
+     "ts": "0:13:20",
+     "justificativa": "instruções técnicas e jurídicas da SUINF e da Procuradoria",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:13:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:13:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:13:27",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:13:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3 a 2.2.5",
+   "ts": "0:13:51",
+   "processo": "50500.005019/2019 e outros",
+   "interessado": "Auto Viação Progresso; AVL Turismo; Expresso Satélite Norte",
+   "assunto": "Em bloco: indeferimento de novos mercados, recadastramento de fretamento, alteração de licença operacional",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "ônibus (fretamento)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade (em bloco)",
+   "resumo_voto": "Pautados em bloco; sem discussão.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, aprova em bloco",
+     "ts": "0:13:51",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:14:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:14:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:14:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:14:57",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:15:06",
+   "processo": "50500.151359/2018-09 (número incerto)",
+   "interessado": "ATIC (assessoria de transporte internacional) / UFSC",
+   "assunto": "Termo de Execução Descentralizada (TED) com a Universidade Federal de Santa Catarina para estudos sobre o Acordo de Alcance Parcial de transporte terrestre internacional (Cone Sul)",
+   "tema": [
+    "institucional",
+    "transporte internacional"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Dispensa de processo seletivo justificada pela expertise da UFSC, experiência anterior (sistema SITRI, base da Resolução Mercosul 34/2019 e do manual de fiscalização), recursos compatíveis e há disponibilidade orçamentária; parecer favorável da Procuradoria.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova celebração do TED",
+     "ts": "0:20:25",
+     "justificativa": "expertise da UFSC, resultados anteriores e economia processual",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:20:29",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:20:31",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:20:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:20:37",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:20:37",
+   "processo": "50500.336912/2019-72 (número incerto)",
+   "interessado": "Vale S.A. / Estrada de Ferro Carajás / FINAME",
+   "assunto": "Anuência prévia para dação em garantia real de 368 vagões em financiamento junto ao FINAME",
+   "tema": [
+    "ferrovias",
+    "concessões ferroviárias"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Anuência concedida: a garantia não prejudica a prestação do serviço. Relator não acompanhou a sugestão da Procuradoria de abrir processo por descumprimento contratual (contrato assinado antes da anuência), pois só houve abertura de crédito, sem liberação de recursos nem constituição da garantia.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova anuência",
+     "ts": "0:23:50",
+     "justificativa": "não houve descumprimento: só abertura de crédito, garantia só na liberação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:23:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:23:58",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:24:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:24:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.3 e 2.4.4",
+   "ts": "0:25:27",
+   "processo": "50500.377684/2019-91; 50500.380407/2019",
+   "interessado": "Kern Transportes e Turismo Ltda.; Vacaria Transporte e Turismo Ltda.",
+   "assunto": "Em bloco: recadastramento de fretamento; termo de autorização de serviço regular (TAR) interestadual",
+   "tema": [
+    "ônibus (fretamento)",
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade (em bloco)",
+   "resumo_voto": "Pautados em bloco; sem discussão.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova em bloco",
+     "ts": "0:25:27",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:26:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:26:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:26:18",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:26:22",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "2.4.2",
+   "ts": "0:24:13",
+   "processo": "50500.151320/2018-26 (número incerto)",
+   "interessado": "ECO101 Concessionária de Rodovias S.A.",
+   "assunto": "6ª revisão ordinária, 7ª revisão extraordinária e reajuste da TBP",
+   "relator": "Davi Barreto",
+   "motivo": "Retirado de pauta pelo relator (Davi Barreto): erro de conta da própria área técnica, que pode impactar o resultado; processo volta para nova análise. Diretores concordaram."
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática ruidosa: números de processos, valores e nomes de empresas aproximados.",
+  "Nomes dos diretores muito deturpados na legenda: «werner simone» = Weber Ciloni; «marcelo dominou/virou» = Marcelo Vinaud; «david barreto» = Davi Barreto (grafia a confirmar).",
+  "Votos de seguidores têm ts aproximado (confiança media).",
+  "Itens em bloco: sem discussão registrada; processo sigiloso sem decisão pública.",
+  "O ts do item sigiloso é o da explicação da mesa; julgamento ocorreu antes da transmissão."
+ ]
+}

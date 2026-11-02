@@ -1,0 +1,408 @@
+{
+ "meta": {
+  "video_id": "tDrIVnhMZBo",
+  "fonte": "legenda automática do YouTube (texto corrido sem marcadores internos); falantes do .md não confiáveis; ts = tempo do vídeo, obtido por busca de frases em data/transcricoes; ts de quem só acompanha o relator são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "832",
+  "data": "2019-10-22",
+  "formato": "presencial (transmissão ao vivo)",
+  "presidente_da_sessao": "Mário Rodrigues Junior (Diretor-Geral)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Elisabeth Braga",
+   "Weber Ciloni",
+   "Davi Barreto",
+   "Mário Rodrigues Junior"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Ata da 830ª aprovada; encerrada às 11h24 (legenda; horário possivelmente 17h24).",
+   "Dois pedidos de sustentação oral em processos sigilosos já atendidos antes.",
+   "Três retiradas de pauta pelos relatores (2.3.2, 2.4.2, 2.4.3)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1 e 2.2.1 (sigilosos)",
+   "ts": "0:02:35",
+   "processo": null,
+   "interessado": "Transar? (transportadora, aprox.) – Marcelo Vinaud; Transnordestina Logística S.A. (PAO, com sustentação oral) – Elisabeth Braga",
+   "assunto": "Julgamentos já realizados em sessão reservada",
+   "tema": [
+    "fiscalização e sanções",
+    "ferrovias"
+   ],
+   "relator": "Marcelo Vinaud; Elisabeth Braga",
+   "resultado": "julgados em sessão reservada",
+   "resumo_voto": "Apenas anunciados.",
+   "votos": []
+  },
+  {
+   "id": "2.1.2 e 2.1.3",
+   "ts": "0:03:00",
+   "processo": null,
+   "interessado": "AES Transportadora? e Colar Transportes e Turismo (aprox.)",
+   "assunto": "Termos de autorização de fretamento, em bloco",
+   "tema": [
+    "ônibus (fretamento)"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade, em bloco",
+   "resumo_voto": "Rotina.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:03:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:03:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:03:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:04:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:04:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:04:08",
+   "processo": "50500.329272/2019 (aprox.)",
+   "interessado": "Ecorodovias Concessões e Serviços S.A.",
+   "assunto": "Homologação do resultado do leilão da concessão da BR-364/365 GO/MG (Edital 01/2019; entre Jataí e o contorno oeste de Uberlândia)",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "homologado; unanimidade",
+   "resumo_voto": "Leilão em 27/09/2019 na B3; critério de menor tarifa básica; deságio de cerca de 33,14% (legenda); habilitação aprovada; sem recursos; parecer da Procuradoria favorável.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:06:00",
+     "justificativa": "menor tarifa, habilitação sem recursos e parecer jurídico favorável",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:07:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:07:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:07:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:07:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:08:04",
+   "processo": "50500.131266/2013-63",
+   "interessado": "Concessionária da Rodovia Osório-Porto Alegre (Concepa)",
+   "assunto": "Recurso contra decisão de aplicação de penalidade (cláusula contratual)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "recurso conhecido, provimento negado; unanimidade",
+   "resumo_voto": "Sem fatos novos; Procuradoria concorda.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:08:20",
+     "justificativa": "ausência de fatos novos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:09:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:09:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:09:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:09:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:09:48",
+   "processo": "50500.309631/2019-47",
+   "interessado": "Concessionária Via 040 (BR-040)",
+   "assunto": "4ª revisão ordinária, 6ª extraordinária e reajuste da tarifa básica de pedágio",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "pedágio"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "Novas recomendações da Procuradoria ainda não analisadas pela área técnica; voltaria à pauta como referendo/aprovação na 837ª reunião.",
+   "votos": []
+  },
+  {
+   "id": "2.3.3",
+   "ts": "0:11:16",
+   "processo": "50500.393242/2019 (aprox.)",
+   "interessado": "SUROC",
+   "assunto": "Abertura de audiência pública sobre metodologia e indicadores dos pisos mínimos de frete por quilômetro rodado (PNPM-TRC)",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "participação social"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovada abertura; unanimidade",
+   "resumo_voto": "Procuradoria pode pedir vista em até cinco dias; regra do art. 5º e Res. 5.624/2017.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:12:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:13:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:13:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:13:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:13:14",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.1",
+   "ts": "0:13:31",
+   "processo": "AP 10/2018",
+   "interessado": "SUFER",
+   "assunto": "Relatório da AP 10/2018 sobre estudos da subconcessão da Ferrovia de Integração Oeste-Leste (FIOL), trecho Ilhéus-Caetité (BA)",
+   "tema": [
+    "ferrovias",
+    "concessões rodoviárias",
+    "participação social"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado; unanimidade",
+   "resumo_voto": "AP de 29/08 a 15/10/2018 com mais de 300 contribuições; Procuradoria analisou; trecho inicial Ilhéus-Caetité como corredor de escoamento de minério.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:14:50",
+     "justificativa": "AP cumpriu objetivo de participação social",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:15:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:15:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:15:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:15:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.2",
+   "ts": "0:15:30",
+   "processo": "50500.277515/2018-71",
+   "interessado": "SUFER",
+   "assunto": "Estudos técnicos e jurídicos da subconcessão da FIOL (minutas finais de edital e contrato)",
+   "tema": [
+    "ferrovias",
+    "leilão / otimização"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "retirado de pauta por uma semana; sem objeção",
+   "resumo_voto": "Sugestões da Procuradoria ainda não incorporadas; envio ao Ministério e ao TCU após ajustes.",
+   "votos": []
+  },
+  {
+   "id": "2.4.3",
+   "ts": "0:17:02",
+   "processo": "50500.004636/2018-86 (aprox.)",
+   "interessado": "Concessionária de Rodovias do Sul (Ecosul)",
+   "assunto": "12ª revisão extraordinária da tarifa básica de pedágio",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "judicializacao"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "retirado de pauta por uma semana",
+   "resumo_voto": "Processo complexo (greve dos caminhoneiros, TCU, passagem de concessão estadual para federal); efeitos só em janeiro; relator prefere esgotar contraditório para evitar judicialização.",
+   "votos": []
+  },
+  {
+   "id": "2.4.4 a 2.4.7",
+   "ts": "0:18:15",
+   "processo": "50151.346390/2018-26 e outros (Expresso Sul/Trans Turismo; Guanabara/Real Expresso; Via Energia/Transbrasil)",
+   "interessado": "Consórcio Federal de Transportes e Real Expresso e outras empresas",
+   "assunto": "Quatro pedidos de reconsideração de indeferimentos de transferência de mercado; voto-vista de Davi Barreto",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "regulação normativa",
+    "judicializacao"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "provimento parcial: nova redação do art. 51 da Res. 4.770/2015 e revogação de normas restritivas; unanimidade",
+   "resumo_voto": "Davi considera o art. 51 (transferência) e a limitação de autorizações sem eficácia após o prazo de 5 anos do art. 4º da Lei 12.996/2014 (legenda grafa 19/06/2019 como marco); invoca Lei de Liberdade Econômica (13.874/2019), Res. CPPI 71/2019 e parecer da Procuradoria: restrição a mercado só por limite de infraestrutura (art. 47-B da Lei 10.233), não por concorrência ruinosa. Propõe nova data-marco, revogar dispositivos restritivos em portarias e deliberações, e prazo de 60 dias para a superintendência analisar o estoque de pedidos.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator do voto-vista, dá provimento parcial",
+     "ts": "0:20:00",
+     "justificativa": "prazo do art. 4º da Lei 12.996/2014 expirou; Lei de Liberdade Econômica; Res. CPPI 71/2019; fim das restrições de mercado e reserva de mercado",
+     "tom": "firme, favorável à liberdade de entrada no mercado (inferência)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:28:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com o voto do relator",
+     "ts": "0:28:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator e corrobora as revogações e a data-limite",
+     "ts": "0:28:20",
+     "justificativa": "livre escolha dos transportadores quanto ao melhor posicionamento de mercado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:29:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.x",
+   "ts": "0:30:20",
+   "processo": null,
+   "interessado": "Despachos de Elisabeth Braga",
+   "assunto": "Três cancelamentos de distribuição de processos",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "diretoria",
+   "resultado": "aprovados",
+   "resumo_voto": "Sem objeção.",
+   "votos": []
+  }
+ ],
+ "retirados": [
+  {
+   "id": "2.3.2",
+   "motivo": "Weber Ciloni: novas recomendações da Procuradoria ainda não analisadas"
+  },
+  {
+   "id": "2.4.2",
+   "motivo": "Davi Barreto: ajustes das sugestões da Procuradoria; volta em uma semana"
+  },
+  {
+   "id": "2.4.3",
+   "motivo": "Davi Barreto: complexidade, contraditório e risco de judicialização"
+  }
+ ],
+ "limites_da_analise": [
+  "Nomes de diretores na legenda saem muito deturpados (ex.: Vinaud como virou/dominou/minou; Ciloni como simone/cyclone/silom); atribuição por contexto e pela lista de presentes.",
+  "Números de processo, valores e datas da legenda podem estar errados; datas como 2009/2019 e 1900 costumam ser erro de transcrição de 2019/2018.",
+  "Itens apreciados em bloco aparecem sem detalhe individual de voto; ts de votos de quem apenas acompanha são aproximados.",
+  "Processos sigilosos (PADs e processos sancionadores) são julgados ao final da transmissão com participação restrita; sem conteúdo no vídeo.",
+  "No voto-vista sobre transferências de mercado, datas (19/06/2019 x 2009) e numeração das deliberações estão incertas; leitura por contexto."
+ ]
+}

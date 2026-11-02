@@ -1,0 +1,920 @@
+{
+ "meta": {
+  "video_id": "GHw9REZb1zA",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulos de falante da legenda não são confiáveis); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "804",
+  "data": "2019-03-26",
+  "formato": "presencial (4 diretores)",
+  "presidente_da_sessao": "não identificado com segurança (abertura feita por quem convida os diretores para o leilão da Ferrovia Norte-Sul; rótulo de falante da legenda é pouco confiável)",
+  "diretores_presentes": [
+   "Mário Rodrigues Junior",
+   "Marcelo Vinaud",
+   "Elisabeth Braga",
+   "Weber Ciloni"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 16h30 de 26/03/2019.",
+   "Abertura convida os diretores ao leilão da Ferrovia Norte-Sul na B3 (quinta-feira, 14h30).",
+   "Todos os itens aprovados por unanimidade; três processos extrapauta (BR-101/SC, plano de outorga, acordo ISC/TCU) e um assunto geral (acordo na ACP do MPF).",
+   "Relatorias: Marcelo Vinaud (2.1.x), Elisabeth Braga (2.2.x), Weber Ciloni (2.3.x)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:01:22",
+   "processo": "",
+   "interessado": "Ata da 803ª reunião",
+   "assunto": "Aprovação da ata da reunião de diretoria nº 803",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "",
+   "resultado": "aprovada por unanimidade (leitura dispensada)",
+   "resumo_voto": "Ata distribuída com 48 h de antecedência; leitura dispensada.",
+   "votos": [
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:01:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:01:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:01:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:01:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:01:55",
+   "processo": "50500.015617/2016-83 (numeração conforme legenda, incerta)",
+   "interessado": "Superintendência de Fiscalização (SUFIS)",
+   "assunto": "Relatório da Audiência Pública nº 008/2016 (fiscalização remota de excesso de peso) e ratificação da publicação da Resolução 5.339/2017",
+   "tema": [
+    "fiscalização e sanções",
+    "regulação normativa",
+    "transporte rodoviário de cargas"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "A diretoria aprovara em 2017 a minuta de resolução, mas esqueceu de aprovar o relatório da AP 8/2016; saneia-se aprovando o relatório e ratificando a publicação da Resolução 5.339 de 5/7/2017.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:03:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:03:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:03:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:03:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2 a 2.1.11 (em bloco)",
+   "ts": "0:04:10",
+   "processo": "vários (ex.: 50500.004227/2000-..., 50500.136611/2018-18)",
+   "interessado": "Planalto Transportes, Antônio Pedro da Silva, Expresso Guanabara, Consórcio Guanabara, Serra Azul, Viação Cometa, Nossa Senhora da Penha, Real Expresso",
+   "assunto": "Deferimento de solicitações de operação de novos mercados, recadastramento de termo de autorização, alteração de licença operacional (TAR autorização)",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovados em bloco por unanimidade",
+   "resumo_voto": "Processos de rotina do relator votados em bloco.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:06:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:06:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:06:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:06:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:07:37",
+   "processo": "50500.194485/2017-41",
+   "interessado": "Expresso do Sul S/A e Viação Cometa S/A",
+   "assunto": "Anuência prévia para transferência de controle societário (parte das ações do Expresso do Sul para a Viação Cometa)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "regulação econômica / concorrência"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade — indeferimento da anuência",
+   "resumo_voto": "Operação concentraria quatro mercados relevantes; SUPAS/PF sugeriram abrir vagas antes da transferência, mas a metodologia de avaliação de mercados só fica pronta em junho de 2019 e não é possível abrir vagas antes; relatora indefere.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, indefere a anuência",
+     "ts": "0:11:00",
+     "justificativa": "concentração de quatro mercados relevantes sem possibilidade de abertura prévia de vagas; aguardar estudo/metodologia prevista para junho/2019",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha a relatora",
+     "ts": "0:11:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha a relatora",
+     "ts": "0:11:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha a relatora após questionar a Procuradoria",
+     "ts": "0:11:17",
+     "justificativa": "perguntou se a ausência de metodologia poderia ser razão para decidir; a discussão (autoria dos argumentos incerta na legenda) concluiu que sim, em linha com a LINDB, e que o indeferimento mantém o status quo até o estudo de viabilidade",
+     "tom": "questionador",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:16:05",
+   "processo": "50500.300162/2019-09",
+   "interessado": "Superintendência de Gestão",
+   "assunto": "Relatório de Gestão da ANTT, exercício 2018",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Primeiro ano cheio da nova metodologia do TCU focada em resultados; prazo de entrega ao TCU em 31 de março via e-Contas, após o ministro da Infraestrutura.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, aprova",
+     "ts": "0:17:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha a relatora",
+     "ts": "0:18:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha a relatora",
+     "ts": "0:18:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha a relatora",
+     "ts": "0:18:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3",
+   "ts": "0:18:24",
+   "processo": "50510.007327/2015-15",
+   "interessado": "Autopista Fernão Dias S.A.",
+   "assunto": "Recurso administrativo — multa por não prover socorro mecânico no prazo (AI de 22/1/2015)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções",
+    "recurso administrativo"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade — multa mantida (282,25, unidade da legenda: URT)",
+   "resumo_voto": "Conhece o recurso, concede efeito suspensivo desde a interposição, nega provimento; sem fato novo.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:20:15",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:20:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:20:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:20:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.4",
+   "ts": "0:20:55",
+   "processo": "50510.037953/2014-55",
+   "interessado": "Autopista Fernão Dias S.A.",
+   "assunto": "Recurso — multa por socorro mecânico fora do prazo; recorrente pediu suspensão até manual de fiscalização ou advertência",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade — multa mantida (282,25)",
+   "resumo_voto": "Dosimetria com atenuante de 10% por ter prestado o socorro, embora fora do prazo; nega provimento, com efeito suspensivo.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:23:15",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:23:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:23:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:23:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.5",
+   "ts": "0:23:50",
+   "processo": "50500.150020/2015-15 (incerto)",
+   "interessado": "Autopista Régis Bittencourt",
+   "assunto": "Recurso — multa por socorro mecânico fora do prazo",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade — multa mantida (282,25)",
+   "resumo_voto": "Argumento da concessionária de possível alteração de parâmetros na revisão não afasta a sanção; nega provimento.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:27:05",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:27:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:27:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:27:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.6",
+   "ts": "0:27:27",
+   "processo": "50520.043532/2015-25 (incerto)",
+   "interessado": "Autopista Litoral Sul S.A.",
+   "assunto": "Recurso — multa por não liberar cancelas quando fila ultrapassou 300 m (fila de 350 m, praça com 3 cabines de cinco)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções",
+    "pedágio"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade — multa mantida (163,35)",
+   "resumo_voto": "Fila causada pela própria concessionária ao não manter cabines suficientes; em caso de não pagamento em 30 dias, execução da caução.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:31:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:31:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:31:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:31:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.7",
+   "ts": "0:31:57",
+   "processo": "50510.011969/2015-19",
+   "interessado": "Autopista Fernão Dias S.A.",
+   "assunto": "Recurso — multa por não prover comunicado/socorro na forma do PER (AI de 3/2015)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade — multa mantida (282,25)",
+   "resumo_voto": "Sem fato novo; efeito suspensivo concedido, mérito negado.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:34:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:34:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:34:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:34:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.8",
+   "ts": "0:34:59",
+   "processo": "50500.327712/2017-67",
+   "interessado": "LHM Transporte e Locação Ltda.",
+   "assunto": "Processo administrativo — empresa sem autorização de fretamento que transportava mercadoria estrangeira apreendida pela Receita (sujeita a perdimento); sem defesa prévia",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (fretamento)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade — declaração de inidoneidade por 3 anos",
+   "resumo_voto": "Comissão processante concluiu pela inidoneidade (art. 78-A e 79 da Lei 10.233); empresa sem TAF; sem atenuantes.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:37:10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:37:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:37:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:37:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.9 a 2.2.12 (em bloco)",
+   "ts": "0:37:30",
+   "processo": "vários",
+   "interessado": "Planalto Transportes, Expresso Transportes Turismo e Eventos, M. A. de Carvalho Transportes e Turismo, Real Expresso",
+   "assunto": "Indeferimento de solicitações de operação de novos mercados",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovados em bloco por unanimidade",
+   "resumo_voto": "Pedidos indeferidos em bloco pela relatora.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, indefere",
+     "ts": "0:38:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha a relatora",
+     "ts": "0:38:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha a relatora",
+     "ts": "0:38:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha a relatora",
+     "ts": "0:38:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:39:00",
+   "processo": "50500.287682/2014-04",
+   "interessado": "Confederação Nacional dos Transportadores Autônomos (CNTA)",
+   "assunto": "Termo aditivo ao Acordo de Cooperação Técnica 002/2015 (prorroga por 24 meses; cadastro/monitoramento de pontos de parada e descanso)",
+   "tema": [
+    "transporte rodoviário de cargas",
+    "institucional"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Prorrogação com atenção às observações da Procuradoria (cumprimento do plano de trabalho, maior rigor de acompanhamento). Elisabeth sugeriu relatório anual à diretoria sobre acordos de cooperação; o relator citou 28 pontos cadastrados, 553 operadores e 41 reclamações/notificações, e a necessidade de acompanhamento fiscal.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:40:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:40:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:40:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo, com sugestão de relatório anual de acompanhamento dos acordos",
+     "ts": "0:41:00",
+     "justificativa": "acordos de cooperação com confederações precisam de mecanismo de acompanhamento; propôs ao menos um relatório anual à diretoria",
+     "tom": "propositivo",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:42:37",
+   "processo": "50500.355441/2018-19 (incerto)",
+   "interessado": "Januária Transportes Rodoviários e Turismo / M. A. de Carvalho Turismo",
+   "assunto": "Transferência de mercado",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade — indeferido",
+   "resumo_voto": "Compradora não apresentou pontos de venda, inscrição estadual (GO, MG) e infraestrutura; pendências não sanadas.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:43:55",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:43:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:43:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:43:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.3",
+   "ts": "0:44:13",
+   "processo": "50510.030590/2014-38 (incerto)",
+   "interessado": "Autopista Fernão Dias S.A.",
+   "assunto": "Recurso — multa por não prover socorro médico de emergência",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade — multa mantida",
+   "resumo_voto": "Relator reitera que pedir novos parâmetros não afasta a regra atual; efeito suspensivo concedido, mérito negado.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:46:25",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:46:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:46:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:46:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.4",
+   "ts": "0:46:40",
+   "processo": "50510.037951/2014-66",
+   "interessado": "Autopista Fernão Dias S.A.",
+   "assunto": "Recurso — multa de 272,5 por socorro médico de emergência",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade — multa mantida",
+   "resumo_voto": "Mesmas alegações de sempre; sem fatos novos.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:48:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:48:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:48:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:48:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.5",
+   "ts": "0:48:32",
+   "processo": "50500.340628/2018-18",
+   "interessado": "Brasil Sul Linhas Rodoviárias Ltda.",
+   "assunto": "Pedido de implantação e supressão de seções (linha com origem judicial, Maringá)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicialização"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade — indeferido",
+   "resumo_voto": "Entendimento consolidado: mercados oriundos de decisão judicial não admitem modificações operacionais.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:50:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:50:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:50:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:50:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.6",
+   "ts": "0:50:11",
+   "processo": "50500.014213/2009-74",
+   "interessado": "Princesa do Norte S/A",
+   "assunto": "Pedido de implantação de seções (Uberlândia/MG a Florianópolis/SC)",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade — indeferido",
+   "resumo_voto": "Empresa não detém autorização dos mercados e não cumpre a Resolução 5285/2017.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:51:25",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:51:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:51:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:51:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "EP-1",
+   "ts": "0:52:20",
+   "processo": "50500.313013/2018-19 (incerto)",
+   "interessado": "SUINF",
+   "assunto": "Extrapauta — Relatório da Audiência Pública 13/2018 (concessão da BR-101/SC, trecho Paulo Lopes km 244,68 a divisa com o RS km 465)",
+   "tema": [
+    "concessões rodoviárias",
+    "participação social",
+    "leilão / otimização"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Contribuições aceitas incorporadas às minutas de edital e contrato e aos estudos; sessões em Florianópolis, Porto Alegre(?) e Brasília em outubro/2018; extensão de 220,42 km; Procuradoria concordou.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:55:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:55:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:55:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:55:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "EP-2",
+   "ts": "0:55:53",
+   "processo": "50500.301899/2019-31 (incerto)",
+   "interessado": "SUINF",
+   "assunto": "Extrapauta — Plano de Outorga da concessão da BR-101/SC (trecho Sul) para envio ao Ministério da Infraestrutura (Portaria MInfra 106/2013)",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Projeto qualificado no PPI; participação social concluída (AP 13/2018); Procuradoria considerou o plano apto.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, aprova",
+     "ts": "0:58:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha a relatora",
+     "ts": "0:58:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha a relatora",
+     "ts": "0:58:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha a relatora",
+     "ts": "0:58:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "EP-3",
+   "ts": "0:59:03",
+   "processo": "50500.247959/2017-09",
+   "interessado": "Instituto Serzedello Corrêa (TCU)",
+   "assunto": "Extrapauta — Acordo de cooperação técnica para compartilhar o transporte coletivo de servidores contratado pela ANTT (Planalto Transportadora Turística) com até 27 servidores do ISC",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aproveita capacidade ociosa dos ônibus, sem custo adicional à ANTT; servidores do ISC embarcam no mesmo ponto; PF alertou para custos e objeto.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "1:01:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "1:01:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "1:01:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "1:01:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.1.1",
+   "ts": "1:02:09",
+   "processo": "ACP MPF nº 1143-38.2018.4.01.3601 (grafia incerta)",
+   "interessado": "Ministério Público Federal x empresas de ônibus e ANTT",
+   "assunto": "Assuntos gerais — autorização para acordo judicial (fiscalização e divulgação das gratuidades/descontos para pessoas com deficiência e idosos de baixa renda)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicialização",
+    "fiscalização e sanções"
+   ],
+   "relator": "Procurador-Geral (exposição)",
+   "resultado": "diretoria concordou com a transação",
+   "resumo_voto": "Procuradoria-Geral expôs que o acordo consiste em fiscalizar o cumprimento e divulgar nos guichês os direitos; SUPAS já admitiu viabilidade técnica e a PF a jurídica; submetido por exigência do art. 28 V do Regimento Interno.",
+   "votos": [
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "1:03:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "1:03:45",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "1:03:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "1:03:55",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: nomes e números errados; Weber Ciloni aparece como werner/web simone/silom; Marcelo Vinaud como marcelo minou/nou/dominou; Mário Rodrigues Junior como mário rodrigo; Elisabeth Braga como elizabete branco.",
+  "Números de processo reconstruídos da legenda; os marcados incertos podem estar errados.",
+  "Valores de multa (282,25; 163,35) em unidade lida como URT, não confirmada.",
+  "Votos de seguidores são aproximados no tempo; confiança média.",
+  "No item 2.2.1 o debate entre diretores não tem autoria segura na legenda; só se afirma que Weber Ciloni levantou a dúvida sobre metodologia e que todos votaram com a relatora.",
+  "Quem presidiu a sessão não está claro."
+ ]
+}

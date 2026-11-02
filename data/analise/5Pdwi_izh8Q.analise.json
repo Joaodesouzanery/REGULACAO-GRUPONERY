@@ -1,0 +1,648 @@
+{
+ "meta": {
+  "video_id": "5Pdwi_izh8Q",
+  "fonte": "legenda automática do YouTube (texto corrido sem marcadores internos); falantes do .md não confiáveis; ts = tempo do vídeo, obtido por busca de frases em data/transcricoes; ts de quem só acompanha o relator são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "64 (extraordinária)",
+  "data": "2019-12-19",
+  "formato": "presencial (reunião extraordinária, transmissão ao vivo)",
+  "presidente_da_sessao": "Mário Rodrigues Junior (Diretor-Geral)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Elisabeth Braga",
+   "Weber Ciloni",
+   "Davi Barreto",
+   "Mário Rodrigues Junior"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Legenda diz quatro diretores aptos, mas votam cinco; encerrada às 10h21 (legenda).",
+   "Duas vistas (1.1.2 por Davi Barreto; 1.3.4 por Marcelo Vinaud).",
+   "Debate sobre sustentação oral da NovaDutra pedida fora do prazo."
+  ]
+ },
+ "itens": [
+  {
+   "id": "(sigiloso)",
+   "ts": "0:00:46",
+   "processo": "50500.373403/2017-02",
+   "interessado": "Corregedoria",
+   "assunto": "Processo administrativo disciplinar reservado, julgado ao final",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "julgado em sessão reservada",
+   "resumo_voto": "Apenas anunciado.",
+   "votos": []
+  },
+  {
+   "id": "1.1.1",
+   "ts": "0:01:57",
+   "processo": "50500.425275/2019-16",
+   "interessado": "SUROC",
+   "assunto": "Novas regras para acordos de cooperação técnica de inscrição e manutenção no RNTRC; revoga Deliberação 186/2016",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "regulação normativa"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Acordos passam a ser celebrados com confederações (representantes das federações), reduzindo cerca de 21 interlocutores; simplifica gestão e acompanha novo sistema que entra em teste em janeiro.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:04:00",
+     "justificativa": "reduzir fardo regulatório e centralizar a gestão nas confederações",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:05:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:05:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:05:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:05:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.1.2",
+   "ts": "0:05:29",
+   "processo": "50500.348178/2018-01",
+   "interessado": "SUEXE",
+   "assunto": "Relatório da AP 14/2019 e minuta de resolução",
+   "tema": [
+    "participação social",
+    "regulação normativa"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "pedido de vista (Davi Barreto)",
+   "resumo_voto": "Relator aprovou o processo; Davi pediu vista para esclarecer dúvida e trazer na próxima sessão.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:06:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:07:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "pede vista",
+     "ts": "0:07:26",
+     "justificativa": "tirar dúvida sobre dois pontos do processo",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1.1.3",
+   "ts": "0:08:56",
+   "processo": "50151.338298/2018-92",
+   "interessado": "Sureg",
+   "assunto": "Relatório da AP 08/2019 e revisão da metodologia da taxa de desconto (WACC) do fluxo de caixa marginal para recomposição do equilíbrio de contratos de concessão rodoviária (Res. 3.651/2011, nota técnica nova substituindo a de 2015)",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "participação social"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Metodologia WACC com estrutura de capital entre 70 e 80% e prática de reguladores internacionais; reflete fim das concessões da 1ª etapa e inadimplência na 3ª etapa.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:10:00",
+     "justificativa": "taxa condizente com a realidade atual do setor e custo de oportunidade do concessionário",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:11:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:11:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:11:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:11:42",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.1",
+   "ts": "0:11:59",
+   "processo": "50500.006906/2019 (aprox.)",
+   "interessado": "Real Sul Transportes e Turismo; Viação Rebote",
+   "assunto": "Transferência do mercado Brasília-Formosa (GO)",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "deferida; unanimidade",
+   "resumo_voto": "Pedido protocolado antes de 18/06, tratado pelas regras da época conforme art. 3º, §3º da Del. 955/2019; requisitos fiscais atendidos; sem multas impeditivas.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, defere",
+     "ts": "0:13:00",
+     "justificativa": "protocolo anterior a 18/06/2019 e requisitos atendidos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:14:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:14:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:14:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:14:32",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.2",
+   "ts": "0:14:35",
+   "processo": "50500.019785/2019-12",
+   "interessado": "Superintendência de Gestão",
+   "assunto": "3ª e última revisão do Plano Anual de Contratações (PAC) 2020",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Previsão de déficit de cerca de R$ 76 milhões ajustado após priorização do comitê; PAC em torno de R$ 366 milhões (valores aproximados da legenda); margem de tolerância para licitações.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, aprova",
+     "ts": "0:17:00",
+     "justificativa": "compatibilidade com a proposta orçamentária e determinação do Ministério da Economia",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:18:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo, ressalvando o dilema recorrente de fechar o PAC",
+     "ts": "0:18:10",
+     "justificativa": "observa que o balanceamento ao final do ano cobre diferenças",
+     "tom": "crítico leve ao dilema do planejamento (inferência)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:18:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:18:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.3",
+   "ts": "0:19:08",
+   "processo": "50500.336686/2015-04",
+   "interessado": "Real Maia Transporte Terrestre Ltda.",
+   "assunto": "Cumprimento de decisão judicial: pedido de autorização de linhas Aparecida de Goiânia-Novo Acordo (TO) e Anápolis",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "indeferido; unanimidade",
+   "resumo_voto": "Empresa nunca teve autorização e não se enquadra no nível 1 do UNITRIP exigido pelo art. 5º da Del. 955/2019; decisão será comunicada ao juízo.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, indefere",
+     "ts": "0:21:30",
+     "justificativa": "não enquadrada no nível 1 do UNITRIP (Del. 955/2019); operação irregular",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:22:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:22:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo, com ressalva",
+     "ts": "0:22:37",
+     "justificativa": "pediu registro em ata para a diretoria geral e a superintendência avaliarem a data de vigência do UNITRIP e a competência para arquivar pedidos, pois cerca de 420 processos foram arquivados pela superintendência, com risco de 420 judicializações",
+     "tom": "cauteloso, preocupado com segurança jurídica (inferência)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:24:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.1",
+   "ts": "0:24:00",
+   "processo": "50500.4x/2019-36 (aprox.)",
+   "interessado": "Real Maia Transporte Terrestre Ltda.",
+   "assunto": "Decisão judicial: linha João Pessoa-Palmas (TO) e seções",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "indeferido; unanimidade",
+   "resumo_voto": "Empresa não está no nível 1 do UNITRIP (Del. 955/2019); Weber determina à superintendência reestudo em janeiro dos conflitos de interpretação entre normas.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:26:00",
+     "justificativa": "cumprimento da decisão judicial com indeferimento pelas regras vigentes; reestudo para dirimir conflitos normativos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:28:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:28:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:28:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:28:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.2",
+   "ts": "0:28:50",
+   "processo": "50500.318139/2015-39",
+   "interessado": "Nobre Turismo; impugnantes Expresso Itamarati, Empresas Reunidas Paulista e Guerino 600",
+   "assunto": "Impugnações à Deliberação 427/2019 (implantação de linhas Anápolis-Goiânia-Campo Grande por decisão judicial)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "impugnações conhecidas e improvidas; unanimidade",
+   "resumo_voto": "Sem limite de autorizações pela Del. 955/2019, inviabilidade operacional só por restrição de infraestrutura; manutenção não significa regularização administrativa da linha.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:30:00",
+     "justificativa": "fim da concorrência ruinosa como limitação; natureza judicial da linha",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:32:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:32:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:32:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:32:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.3",
+   "ts": "0:32:35",
+   "processo": "50500.307072/2019-41 (aprox.)",
+   "interessado": "Concessionária da Rodovia Presidente Dutra (NovaDutra)",
+   "assunto": "24ª revisão ordinária, 15ª extraordinária e reajuste da tarifa básica de pedágio (vigência 23/12/2019); debate sobre pedido de sustentação oral intempestivo",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "pedágio"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Variações tarifárias (valores da legenda): redução de cerca de 5,26% sobre a tarifa reajustada de 2018 e tarifas de cerca de R$ 14,40 em Moreira César/Itatiaia e R$ 6,30 em Jacareí; discussão sobre Lei dos Caminhoneiros e rádio-via. Colegiado debateu aceitar sustentação oral protocolada às vésperas (pauta extraordinária publicada no fim do dia); a concessionária não estava presente.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:44:00",
+     "justificativa": "houve oportunidade de manifestação técnica; entende o pedido de sustentação oral como intempestivo mas aceitaria por prudência",
+     "tom": "firme (inferência)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:44:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:44:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:44:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:44:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.4",
+   "ts": "0:45:46",
+   "processo": "50500.194893/2015-77",
+   "interessado": "SUPAS",
+   "assunto": "Abertura de audiência pública (20 dias, 23/12 a 12/01) sobre processo administrativo fiscal para cobrança da taxa de fiscalização (altera Res. 4.936/2015)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções",
+    "participação social"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "pedido de vista (Marcelo Vinaud)",
+   "resumo_voto": "Risco de prescrição do crédito tributário de 2015; Marcelo sugere que a audiência não ocorra no período de dezembro-janeiro.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:47:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "pede vista",
+     "ts": "0:47:30",
+     "justificativa": "prefere audiência fora do período de dezembro e janeiro",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1.3.5 e 1.3.6",
+   "ts": "0:49:24",
+   "processo": null,
+   "interessado": "Barraca Turismo e outras (fretamento); Concessionária Autopista Litoral Sul (declaração de utilidade pública)",
+   "assunto": "Recadastramento e DUP em bloco",
+   "tema": [
+    "ônibus (fretamento)",
+    "concessões rodoviárias"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade, em bloco",
+   "resumo_voto": "Rotina.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:49:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:49:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:49:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:49:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:49:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.4.1",
+   "ts": "0:50:00",
+   "processo": "50500.013674/2019",
+   "interessado": "Viação São Luiz; Expresso Adamantina",
+   "assunto": "Anuência para transferência de mercado",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "deferida; unanimidade",
+   "resumo_voto": "Pedido protocolado antes do marco da Del. 955/2019; requisitos da Res. 4.770/2015 atendidos.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, defere",
+     "ts": "0:50:30",
+     "justificativa": "requisitos atendidos antes do marco temporal",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:51:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:51:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:51:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:51:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.4.2 a 1.4.4",
+   "ts": "0:51:30",
+   "processo": null,
+   "interessado": "Breda Transportes e Serviços; agências de viagens (fretamento); Autopista Litoral Sul (DUP)",
+   "assunto": "Itens em bloco",
+   "tema": [
+    "ônibus (fretamento)",
+    "concessões rodoviárias"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade, em bloco",
+   "resumo_voto": "Rotina.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:51:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:52:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:52:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:52:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:52:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "assuntos gerais",
+   "ts": "0:52:52",
+   "processo": "50565.130/2017 (aprox.)",
+   "interessado": "Despacho de cancelamento de distribuição",
+   "assunto": "Cancelamento de distribuição de processo; sem objeção; agradecimentos de fim de ano",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "diretoria",
+   "resultado": "aprovado",
+   "resumo_voto": "Sem objeção.",
+   "votos": []
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Nomes de diretores na legenda saem muito deturpados (ex.: Vinaud como virou/dominou/minou; Ciloni como simone/cyclone/silom); atribuição por contexto e pela lista de presentes.",
+  "Números de processo, valores e datas da legenda podem estar errados; datas como 2009/2019 e 1900 costumam ser erro de transcrição de 2019/2018.",
+  "Itens apreciados em bloco aparecem sem detalhe individual de voto; ts de votos de quem apenas acompanha são aproximados.",
+  "Processos sigilosos (PADs e processos sancionadores) são julgados ao final da transmissão com participação restrita; sem conteúdo no vídeo.",
+  "Item 1.3.4: só o pedido de vista de Marcelo Vinaud aparece com clareza; votos dos demais não registrados."
+ ]
+}

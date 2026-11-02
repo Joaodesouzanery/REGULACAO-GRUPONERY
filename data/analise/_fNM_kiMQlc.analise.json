@@ -1,0 +1,275 @@
+{
+ "meta": {
+  "video_id": "_fNM_kiMQlc",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulo do .md pode estar errado, ex.: «Marcelo Fonseca» na abertura é o DG Mário Rodrigues Junior); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "61 (extraordinária)",
+  "data": "2019-04-30",
+  "formato": "presencial (Sede da ANTT)",
+  "presidente_da_sessao": "Mário Rodrigues Junior (Diretor-Geral)",
+  "diretores_presentes": [
+   "Mário Rodrigues Junior",
+   "Marcelo Vinaud",
+   "Elisabeth Braga",
+   "Weber Ciloni"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Reunião extraordinária com quatro diretores.",
+   "Voto-vista de Marcelo Vinaud sobre o referendo da Res. 5833/2018 (piso mínimo do frete) aprovado por unanimidade.",
+   "Pedido de vista na audiência pública sobre alterações contratuais em revisões quinquenais rodoviárias.",
+   "Homologação do leilão da Norte-Sul (Rumo, ágio 100,92%)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1",
+   "ts": "0:00:45",
+   "processo": "50500.132268/2018-71 (legenda: 50 500 1 322 685 2018 71)",
+   "interessado": "SUROC",
+   "assunto": "Referendo da Deliberação 914/2018 (relatório da AP 12/2018) e da Resolução 5833/2018 (art. 3º-B da Res. 5820/2018: multas e responsabilidade de embarcador x transportador) com alterações do voto-vista",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "fiscalização e sanções",
+    "regulação normativa"
+   ],
+   "relator": "Mário Rodrigues Junior (voto DG 15/2018); voto-vista de Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade (voto-vista)",
+   "resumo_voto": "Em 20/12/2018 foi concedida vista; o voto-vista (DMV 01/2019) propõe referendar Res. 5833 e Del. 914, mas alterar o art. 3º-B da Res. 5820/2018: o desenho atual aplica ao transportador sanções idênticas às do embarcador, o que desestimula denúncias (fugas de fiscalização, alteração de horários de viagem); área de fiscalização consultada.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "voto-vista com alterações",
+     "ts": "0:01:40",
+     "justificativa": "desenho regulatório atual desmotiva denúncias de transportadores e reduz efetividade da fiscalização",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o revisor quanto à alteração",
+     "ts": "0:04:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o voto do revisor",
+     "ts": "0:04:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "mantém Res. 5833 com as modificações do revisor",
+     "ts": "0:04:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2",
+   "ts": "0:05:26",
+   "processo": "50500.300139/2015-39",
+   "interessado": "Nova Turismo Ltda.",
+   "assunto": "Alteração de LOP: implantação dos serviços Anápolis (GO)-Campo Grande (MS) via Jataí e via BR-153 (tutela antecipada, Res. 470/2015)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao"
+   ],
+   "relator": "Marcelo Vinaud (inferido)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "SUPAS revisou entendimento: o SGP mostra as seções ativas antes de 30/06/2015, então o pleito atende à legislação; aprova-se deliberação alterando a LOP e deferindo a implantação.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:05:30",
+     "justificativa": "área técnica reviu: seções constavam ativas antes de 30/06/2015",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:09:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com o relator",
+     "ts": "0:09:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o relator, tendo em vista a data de 30/07/2015 comprovada",
+     "ts": "0:09:55",
+     "justificativa": "seções comprovadas na data de corte",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.1",
+   "ts": "0:10:10",
+   "processo": "50500.313338/2000-xx",
+   "interessado": "Feliciano de Freitas Cia. Ltda. e outras (fretamento)",
+   "assunto": "Recadastramento do termo de autorização de fretamento interestadual e internacional",
+   "tema": [
+    "ônibus (fretamento)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Documentação analisada sem pendências; recadastramento por mais três anos nas condições já outorgadas.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, aprova",
+     "ts": "0:10:15",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com a relatora",
+     "ts": "0:11:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:11:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:11:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.2",
+   "ts": "0:12:30",
+   "processo": "50500.306xxx/2000-xx",
+   "interessado": "Goiano Viagens e outras três (anexo da deliberação)",
+   "assunto": "Recadastramento: revogação da Deliberação 414/2019, que tratou por engano como autorização regular, e aprovação como fretamento",
+   "tema": [
+    "ônibus (fretamento)",
+    "regulação normativa"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Documentação sem pendências; houve erro de enquadramento (autorização regular x fretamento); regulariza-se revogando a Del. 414/2019 e recadastrando como fretamento.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, aprova",
+     "ts": "0:12:35",
+     "justificativa": "corrigir aplicação equivocada do conceito pela área técnica",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:14:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:14:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com as regularizações",
+     "ts": "0:14:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.3",
+   "ts": "0:14:47",
+   "processo": "50500.299381/2018-31",
+   "interessado": "SUEXE (Superintendência Executiva)",
+   "assunto": "Abertura de audiência pública (45 dias) sobre procedimentos e critérios de alteração contratual nas revisões quinquenais das concessões rodoviárias federais (inclusão, exclusão, reprogramação de obras e serviços)",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "participação social",
+    "regulação normativa"
+   ],
+   "relator": "Mário Rodrigues Junior (inferido)",
+   "resultado": "vista concedida (pedido de vista por diretor da casa)",
+   "resumo_voto": "Proposta de metodologia multicritério de capacidade técnica e financeira das concessionárias para novos investimentos, fruto de GT de 2018 com apresentações a TCU, CGU e Ministério da Infraestrutura, parecer favorável da Procuradoria. Relator defende levar à AP já que ajustes cabem nessa fase. O diretor que pede vista alega dúvidas após reunião da semana anterior e notícias da imprensa, quer nova apresentação da área técnica com as diretrizes novas (MPU, TCU, Ministério) antes da AP.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "pede vista (identificação inferida)",
+     "ts": "0:14:55",
+     "justificativa": "dúvidas de interpretação após reunião e imprensa; diretrizes novas de TCU/MPU/Ministério devem ser incorporadas antes da AP; não participava da agência quando o trabalho foi apresentado",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "relator; aceita o pedido e agenda nova apresentação para quinta-feira",
+     "ts": "0:16:20",
+     "justificativa": "não vê problema em ajustes na fase de AP, mas aceita",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.4",
+   "ts": "0:21:50",
+   "processo": "50500.176102/2017-99",
+   "interessado": "SUFER / Ferrovia Norte-Sul Tramo Central (FNSTC)",
+   "assunto": "Homologação do resultado do leilão da subconcessão (Edital 02/2018; Porto Nacional-TO a Estrela d'Oeste-SP)",
+   "tema": [
+    "ferrovias",
+    "leilão / otimização",
+    "concessões rodoviárias"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Leilão em 28/03/2019 na B3; vencedora Rumo S.A. com ágio de 100,92% (valor da outorga na legenda: cerca de R$ 2,7 bilhões; confirmar). Habilitação regular, nenhum recurso, parecer da Procuradoria favorável; homologa-se.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, aprova homologação",
+     "ts": "0:22:35",
+     "justificativa": "edital cumprido, sem recursos, parecer jurídico favorável",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com a relatora",
+     "ts": "0:25:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:25:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:25:50",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática com muitos erros de nomes e números; a grafia de «Weber Ciloni» (legenda: Werner/Weber Simone, Peter Simone) e «Marcelo Vinaud» (legenda: Marcelo de Novo, Dominou, Veni) é inferida das saudações e pode estar incorreta.",
+  "Minutos dos votos de quem só acompanha o relator são aproximados (confiança média).",
+  "A transcrição termina logo após os votos de homologação do leilão; pode haver itens posteriores não cobertos pela legenda disponível.",
+  "Quem pediu vista no item 1.2.3 não é identificado na legenda; Weber Ciloni é inferência fraca.",
+  "Relatoria do item 1.2 inferida (Marcelo Vinaud).",
+  "Valores do leilão e números de processo conforme legenda; podem estar errados."
+ ]
+}

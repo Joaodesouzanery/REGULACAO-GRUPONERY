@@ -1,0 +1,869 @@
+{
+ "meta": {
+  "video_id": "6pNMwNpnAP8",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulos de falante da legenda não são confiáveis); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "823",
+  "data": "2019-08-20",
+  "formato": "presencial (5 diretores)",
+  "presidente_da_sessao": "Mário Rodrigues Junior (Diretor-Geral)",
+  "diretores_presentes": [
+   "Mário Rodrigues Junior",
+   "Marcelo Vinaud",
+   "Elisabeth Braga",
+   "Weber Ciloni",
+   "Davi Barreto"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 11h34 de 20/08/2019.",
+   "Itens: voto-vista do DG sobre pedágio MGO; voto-vista de Marcelo Vinaud sobre ViaBahia; um processo retirado (Rumo Malha Sul); política de gestão de pessoas; premiação funcional; várias sanções e blocos de rotina.",
+   "Todos os itens deliberados aprovados por unanimidade."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:40",
+   "processo": "",
+   "interessado": "Ata da 822ª reunião",
+   "assunto": "Aprovação da ata da reunião de diretoria nº 822",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "",
+   "resultado": "aprovada por unanimidade (leitura dispensada)",
+   "resumo_voto": "Ata distribuída com 48 h; leitura dispensada.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:01:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:01:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:01:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:01:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:01:12",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:01:14",
+   "processo": "50500.001634/2019-35 (incerto)",
+   "interessado": "Concessionária Minas Gerais Goiás S.A. (MGO)",
+   "assunto": "Voto-vista do Diretor-Geral — quarta revisão ordinária, oitava extraordinária e reajuste da tarifa básica de pedágio (TBP)",
+   "tema": [
+    "concessões rodoviárias",
+    "pedágio",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Mário Rodrigues Junior",
+   "resultado": "aprovado por unanimidade — com aplicação parcial do fator C",
+   "resumo_voto": "Após pedido de vista na 812ª reunião (maio/2019), o processo voltou à SUINF para adequar a proposta à Resolução 5.850/2019 (fator C só sobre tarifa de leilão revisada, eventos a preços correntes, retificação de receitas extraordinárias). Montante da conta C negativo (≈ R$ 21,6 milhões); contrato (anexo 6, item 2.3) permite parcelamento para evitar oscilação. Mário vota pela aprovação com aplicação parcial (parcelada em três vezes) do fator C; redução média da TBP de 11,84% com aplicação integral versus menor redução com parcelamento (valores exatos pouco legíveis na legenda).",
+   "votos": [
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "voto-vista: aprova a revisão com aplicação parcial do fator C",
+     "ts": "0:01:30",
+     "justificativa": "a aplicação integral ou parcial do montante da conta C é decisão da ANTT e o parcelamento evita grandes oscilações tarifárias, já que o fator C se inverte na revisão seguinte",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o voto-vista",
+     "ts": "0:07:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o voto-vista",
+     "ts": "0:07:44",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o voto-vista",
+     "ts": "0:07:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o voto-vista",
+     "ts": "0:07:52",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:08:48",
+   "processo": "50500.307054/2019-59 (incerto)",
+   "interessado": "Viação Águia Branca S/A / SUPAS",
+   "assunto": "Alteração da Resolução 4.282/2014 (bilhete de passagem eletrônico e documento auxiliar — BP-e/DABPe): esclarecimentos sobre impressão",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "regulação normativa"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Bilhete eletrônico não tem existência física; menções a impressão devem ser entendidas como relativas a outros documentos; altera artigos 2º, 9º, 10º e 22º da Res. 4.282/2014 para evitar interpretações equivocadas.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:11:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:11:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:11:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:11:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:11:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:11:31",
+   "processo": "50500.963615/2018-21 (incerto)",
+   "interessado": "ViaBahia Concessionária de Rodovias S.A.",
+   "assunto": "Voto-vista — oitava revisão ordinária, 11ª revisão extraordinária, desconto de reequilíbrio e reajuste da TBP",
+   "tema": [
+    "concessões rodoviárias",
+    "pedágio",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Eventos tratados incluem correção do índice de reajuste, arredondamento, tráfego real, eixos suspensos, atraso na abertura de praças, evasão e PIS/Cofins; efeito da 8ª ordinária ≈ -0,05% e da 11ª extraordinária ≈ -10,64% na TBP (valores como lidos da legenda); desconto de reequilíbrio aplicado conforme Res. 5.850/2019; reajuste IPCA de 4,56%. Tarifas das praças P1 e P2 passam de R$ 2,88 para ≈ R$ 2,60 após arredondamento.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "voto-vista: aprova",
+     "ts": "0:16:10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o voto-vista",
+     "ts": "0:16:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o voto-vista",
+     "ts": "0:16:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o voto-vista",
+     "ts": "0:16:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o voto-vista",
+     "ts": "0:16:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3",
+   "ts": "0:16:47",
+   "processo": "50500.330066/2018-96 (incerto)",
+   "interessado": "Gomes Turismo Eireli",
+   "assunto": "Penalidade — apresentação de CRLV adulterado/documentos supostamente falsos",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (fretamento)"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade — declaração de inidoneidade por 3 anos",
+   "resumo_voto": "Comissão sugeriu cassação e inidoneidade; área técnica (nota técnica da SUPAS) entendeu suficiente a inidoneidade.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:18:25",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:18:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:18:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:18:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:18:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.4",
+   "ts": "0:18:30",
+   "processo": "50500.295844/2018-93",
+   "interessado": "Rumo Malha Sul S.A.",
+   "assunto": "Processo administrativo (ferrovia) — retirado de pauta pelo relator",
+   "tema": [
+    "ferrovias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "retirado de pauta",
+   "resumo_voto": "Relator retira porque a concessionária se comprometeu a apresentar naquela semana fatos novos que poderiam mudar a análise do voto.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, retira de pauta",
+     "ts": "0:18:46",
+     "justificativa": "concessionária prometeu fatos novos na semana",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.2.5",
+   "ts": "0:18:55",
+   "processo": "50500.385331/2019-30",
+   "interessado": "Superintendência de Gestão (SUGES)",
+   "assunto": "Política de Gestão de Pessoas da ANTT e criação do Comitê de Gestão de Pessoas (CGP)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Estabelece princípios e diretrizes de desenvolvimento, reconhecimento e qualidade de vida no trabalho; institui o CGP para assessorar a gerência e a diretoria.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:20:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo, parabeniza a SUGES",
+     "ts": "0:20:41",
+     "justificativa": "ganho para a governança de gestão de pessoas",
+     "tom": "elogio",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo, com recomendação de estudar novas formas de contratação",
+     "ts": "0:21:06",
+     "justificativa": "a nova legislação trabalhista permite novas formas de contratação no serviço público e a agência deveria estudar modernização para enxugar a folha, cujo gasto é alto",
+     "tom": "propositivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:21:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:21:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.6 a 2.2.10 (em bloco)",
+   "ts": "0:22:13",
+   "processo": "vários (ex.: 50500.339/..., 50500.347.../1986, 50500.343974/...)",
+   "interessado": "Santa Isabel Transportes e Turismo; Concessionária das Rodovias Integradas do Sul (Ecosul) — declaração de utilidade pública",
+   "assunto": "Alteração de licença operacional e declarações de utilidade pública; relator retirou um dos itens do bloco sem objeção",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "concessões rodoviárias"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovados em bloco por unanimidade (um item retirado)",
+   "resumo_voto": "Itens de rotina votados em bloco; a legenda não permite identificar com segurança qual item foi retirado.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:23:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:23:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:23:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:23:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:23:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:23:25",
+   "processo": "50500.019292/2019-18 (incerto)",
+   "interessado": "Superintendência de Gestão (SUGES)",
+   "assunto": "Homologação do resultado final do Prêmio por Excelência Funcional 2019",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Comissão designada pela Portaria 207/2019; categorias fiscalização/regulação e desenvolvimento institucional. 1º lugar fiscalização: projeto de operação remota dos postos de pedágio; 2º: metodologia para avaliação de dormentes de concreto (ferrovias); 3º: avaliação de resposta à política de preços mínimos do transporte rodoviário de cargas. Prêmios incluem medalhas e critério de desempate para progressão acelerada.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, aprova",
+     "ts": "0:28:10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo, destaca a qualidade dos projetos",
+     "ts": "0:28:24",
+     "justificativa": "qualidade dos projetos percebida por avaliadores internos e externos; parabeniza os servidores pela busca de inovação",
+     "tom": "elogio",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:28:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:28:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:29:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:29:14",
+   "processo": "50500.327856/2017-13",
+   "interessado": "Tonietto Turismo Ltda.",
+   "assunto": "Penalidade — apreensão de mercadoria estrangeira (Receita Federal, Foz do Iguaçu, 18/6/2016); empresa sem defesa e sem TAF",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (fretamento)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade — declaração de inidoneidade",
+   "resumo_voto": "Comissão concluiu pela inidoneidade; empresa não tem TAF; infração do art. 86 do Decreto 2.521/1998 e art. 78-A da Lei 10.233/2001.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:31:55",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:31:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:31:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:31:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:31:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.3",
+   "ts": "0:32:08",
+   "processo": "50159.137519/2019-66 (incerto)",
+   "interessado": "Transbrasil Ltda.",
+   "assunto": "Pedido de parcelamento de débitos (transporte de passageiros, dívida acima de R$ 80 mil exige decisão da diretoria — Res. 5.830/2018)",
+   "tema": [
+    "fiscalização e sanções"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade — parcelamento indeferido",
+   "resumo_voto": "Requisitos de admissibilidade (art. 10 §§ 1º-2º) não cumpridos: documentação incompleta, sem manifestação sobre ação judicial. Marcelo Vinaud votou de acordo e pediu que a área técnica evite retrabalho, arquivando pedidos não instruídos antes de levá-los à diretoria.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, indefere",
+     "ts": "0:34:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo, com observação sobre eficiência",
+     "ts": "0:34:57",
+     "justificativa": "pedidos sem documentação de admissibilidade poderiam ter sido arquivados na área técnica, evitando retrabalho e perda de tempo",
+     "tom": "propositivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo, elogia a observação",
+     "ts": "0:35:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:35:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:35:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.4",
+   "ts": "0:35:29",
+   "processo": "50159.049142/2019 (incerto)",
+   "interessado": "Transgobbi Transportes Rodoviários Ltda.",
+   "assunto": "Pedido de parcelamento de débitos (RNTRC, transporte rodoviário de cargas)",
+   "tema": [
+    "fiscalização e sanções",
+    "transporte rodoviário de cargas"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade — parcelamento indeferido",
+   "resumo_voto": "Empresa informou ação judicial mas a petição de desistência foi protocolada fora do prazo da diligência (Res. 5.830/2018).",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:37:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:37:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:37:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:37:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:37:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.5",
+   "ts": "0:37:59",
+   "processo": "50500.338502/2019-66",
+   "interessado": "Auto Viação Catarinense Ltda.",
+   "assunto": "Supressão de seções (Foz do Iguaçu–Rio de Janeiro e outras)",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade — deferido",
+   "resumo_voto": "Mercados já atendidos por outras empresas; cumpridos art. 11 da Res. 5.285/2017 e arts. 45 e 50 da Res. 4.770/2015.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:40:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:40:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:40:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:40:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:40:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.6",
+   "ts": "0:40:45",
+   "processo": "50500.360702/2019-03",
+   "interessado": "Empresas de fretamento (recadastramento de TAF)",
+   "assunto": "Recadastramento do termo de autorização de fretamento, em bloco",
+   "tema": [
+    "ônibus (fretamento)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Item único em bloco.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:40:55",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:40:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:40:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:40:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:40:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.1",
+   "ts": "0:40:58",
+   "processo": "50551.179/2017-52 (incerto)",
+   "interessado": "Viação Juína Ltda.",
+   "assunto": "Instauração de processo administrativo ordinário por descumprimento reiterado (operação sem documentação, serviço intermunicipal/parcial em RO e MT)",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade — instaurado",
+   "resumo_voto": "Indícios de autoria e materialidade; relator lembra que a Res. 5.833 delega a instauração à superintendência.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:43:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:43:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:43:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:43:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:43:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.2",
+   "ts": "0:43:10",
+   "processo": "50530.002023/2018-76 (incerto)",
+   "interessado": "Rota do Mar Viagens Ltda.",
+   "assunto": "Regularização administrativa da linha São Luís (MA)–Altamira (PA), antes operada por decisão judicial",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicialização"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade — deferido, com recomendação à SUPAS",
+   "resumo_voto": "Houve morosidade da ANTT na verificação; não há outra autorizatária no mercado; continuidade do serviço. Recomenda à SUPAS propor esclarecimento do art. 5º, item 3, da Res. 5.629/2017 sobre a exigência de monitoramento (sistema) em linhas judiciais. Elisabeth Braga pediu que recomendações registradas em ata sejam encaminhadas pelo gabinete do Diretor-Geral às áreas técnicas e acompanhadas.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, defere com recomendação",
+     "ts": "0:46:00",
+     "justificativa": "demora da ANTT causou prejuízo à empresa e aos usuários e princípio da continuidade do serviço",
+     "tom": "propositivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:46:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo, pede acompanhamento das recomendações",
+     "ts": "0:46:35",
+     "justificativa": "recomendações registradas em ata não têm retorno; sugere documento do gabinete do DG às áreas técnicas",
+     "tom": "propositivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:47:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:47:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.3",
+   "ts": "0:47:45",
+   "processo": "50500.363309/2019 (incerto)",
+   "interessado": "Ana Lúcia Zanatelli e outras",
+   "assunto": "Termo de autorização de fretamento, em bloco",
+   "tema": [
+    "ônibus (fretamento)"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Item em bloco.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:48:15",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:48:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:48:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:48:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:48:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.5.1 a 2.5.11 (em bloco)",
+   "ts": "0:48:22",
+   "processo": "vários",
+   "interessado": "Real Maia, União Santa Cruz, Rio Doce, Santa Cruz, Expresso Brasileiro, Macaubense, Real Expresso, Unisul, Mariano, Antônio Pedro da Silva, Sidão e outras",
+   "assunto": "Alteração de licença operacional e recadastramento de termos de autorização (fretamento e serviço regular)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "ônibus (fretamento)"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovados em bloco por unanimidade",
+   "resumo_voto": "Processos de rotina do relator votados em bloco.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:51:25",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator",
+     "ts": "0:51:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:51:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:51:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:51:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.1",
+   "ts": "0:51:37",
+   "processo": "",
+   "interessado": "Canal Verde / CNIT",
+   "assunto": "Assuntos gerais — um diretor (não identificado na legenda) chama atenção para o Canal Verde (pórticos eletrônicos de fiscalização em fronteiras/portos) e pede reprogramação das concessões para retomar a implantação dos 20 pórticos faltantes",
+   "tema": [
+    "fiscalização e sanções",
+    "concessões rodoviárias"
+   ],
+   "relator": "",
+   "resultado": "sem deliberação (assunto geral)",
+   "resumo_voto": "Foram implantados 55 pórticos; faltam cerca de 20 por falta de recursos, na circunscrição de quatro estados com maior volume de carga e passageiros; pede atenção do gabinete para reprogramar.",
+   "votos": []
+  }
+ ],
+ "retirados": [
+  {
+   "id": "2.2.4",
+   "motivo": "retirado pelo relator Marcelo Vinaud (Rumo Malha Sul) — concessionária anunciou fatos novos"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: nomes e números errados (Weber Ciloni aparece como werner simone/web se longe/werber simone; Marcelo Vinaud como marcelo virou/finou/nou/dominou; Davi Barreto como da viva rio/barcelona; relatores às vezes escritos no feminino por erro).",
+  "Número 823 lido da abertura (legenda traz 1 823); numeração dos processos reconstruída e incerta quando marcada.",
+  "Valores de tarifa e percentuais (fator C, ViaBahia) podem estar errados na legenda; confirmar no relatório à diretoria.",
+  "Votos de seguidores aproximados (confiança média).",
+  "Item 3.1: o diretor que fala sobre o Canal Verde não está identificado; item 2.2.6-2.2.10: item retirado do bloco não identificado."
+ ]
+}

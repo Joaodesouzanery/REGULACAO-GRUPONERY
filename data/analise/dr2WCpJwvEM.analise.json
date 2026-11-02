@@ -1,0 +1,500 @@
+{
+ "meta": {
+  "video_id": "dr2WCpJwvEM",
+  "fonte": "legenda automática do YouTube; falantes inferidos (o rótulo de falante do .md é pouco confiável; quem abre a sessão é o Diretor-Geral Mário Rodrigues Junior); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "812",
+  "data": "2019-05-28",
+  "formato": "presencial (transmissão YouTube)",
+  "presidente_da_sessao": "Mário Rodrigues Junior (Diretor-Geral)",
+  "diretores_presentes": [
+   "Mário Rodrigues Junior",
+   "Marcelo Vinaud",
+   "Elisabeth Braga"
+  ],
+  "ausentes": [
+   "Weber Ciloni"
+  ],
+  "observacoes": [
+   "Weber Ciloni ausente por participar do 9º Congresso Rodoviário Português; pelo art. 79 do RI, seus dois processos (recadastramento de fretamento, em bloco) foram votados mesmo assim pelos três presentes.",
+   "Encerrada às 16h45.",
+   "Todos os itens unânimes. Elisabeth Braga: três inidoneidades (3, 3 e 4 anos) e uma multa alternativa de R$ 4.000 por mercadoria estrangeira apreendida.",
+   "No assunto geral 3.2 a diretora Elisabeth Braga pediu, por motivos pessoais, reversão da designação como DG substituta; indicado Marcelo Vinaud."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1",
+   "ts": "0:01:56",
+   "processo": "50500.212358/2017? (parcial)",
+   "interessado": "empresa de ônibus (ML ... Turismo Ltda.; nome distorcido)",
+   "assunto": "Pedido de reconsideração da Del. 144/2019 que declarou a inidoneidade da empresa por transporte de mercadorias como bagagem",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade — mantida a declaração de inidoneidade",
+   "resumo_voto": "Infração do art. 36 VI do Decreto 2.521/1998 e art. 78-A da Lei 10.233/2001 caracterizada; SUPAS entende regular o procedimento.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:01:56",
+     "justificativa": "fotos mostram embrulhos com formato de mercadorias (comércio) e não bagagem pessoal; cabe ao preposto da empresa negar o embarque (art. 61 Res. 4.777/2015); empresa já sofreu inidoneidade de 3 anos em processo de mesmo teor",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:04:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:04:09",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:04:13",
+   "processo": "50500.1354?/2018-16",
+   "interessado": "Real Expresso Ltda. e Consórcio Federal de Transporte",
+   "assunto": "Transferência do mercado Uberaba/MG–Campinas/SP da Real Expresso para o Consórcio Federal de Transporte, com alteração das licenças operacionais",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Defere a transferência.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, defere",
+     "ts": "0:04:13",
+     "justificativa": "requisitos regulatórios e concorrenciais observados; cedente com LOP; receptora com tempo de atuação conforme Res. 5.030/2016",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:06:01",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:06:01",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.3",
+   "ts": "0:06:05",
+   "processo": "50500.146865/2017-13",
+   "interessado": "J&J Tur Transporte e Viagens Ltda.",
+   "assunto": "Revogação, a pedido, do termo de autorização de fretamento (TAF 28/15?)",
+   "tema": [
+    "ônibus (fretamento)"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Renúncia apresentada pela sócia-administradora.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova a revogação",
+     "ts": "0:06:05",
+     "justificativa": "pedido de renúncia da própria empresa; nada a opor",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:07:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:07:23",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.4 a 2.1.11",
+   "ts": "0:07:27",
+   "processo": "8 processos",
+   "interessado": "Reunidas, Gontijo, MS Transporte, Auto Viação Progresso, Graciosa, Macaubense, Viação Progresso e Turismo, Viação Ouro e Prata (2)",
+   "assunto": "Bloco de indeferimentos de solicitação para operação de novos mercados",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Processos de rotina votados em bloco; conteúdo não detalhado na transmissão.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova (voto em bloco)",
+     "ts": "0:07:27",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:09:29",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:09:29",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:09:33",
+   "processo": "50500.011475/1987? (parcial)",
+   "interessado": "Princesa do Norte S/A",
+   "assunto": "Pedido de implantação de mercados na linha Uberlândia/MG–Florianópolis/SC (seções Uberaba, Araraquara, Bauru–Joinville, Balneário Camboriú, Itapema etc.)",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade — indeferido",
+   "resumo_voto": "Sem autorização nos mercados solicitados, não se pode implantar seção.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, indefere",
+     "ts": "0:09:33",
+     "justificativa": "a empresa não é detentora de autorização para operar os mercados citados (art. 9º Res. 5.285/2017: nova seção só em mercado já autorizado; NT 762/2019 e consulta ao SGP)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:11:54",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:11:54",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:11:58",
+   "processo": "50500.0016?/2019-35",
+   "interessado": "Concessionária MGO (Minas Gerais Goiás S/A)",
+   "assunto": "Revisão ordinária (a legenda diz «oitava/quarta») e revisão extraordinária e reajuste da tarifa básica de pedágio",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Voto sem leitura (dado como lido); detalhes não disponíveis na legenda.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora (legenda incerta), aprova",
+     "ts": "0:11:58",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:12:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:12:34",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3",
+   "ts": "0:12:38",
+   "processo": "50500.210222/2014-80",
+   "interessado": "JP Rodrigues Turismo Ltda.",
+   "assunto": "PAO — proposta de aplicação de penalidade por apólices de seguro falsificadas",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade — inidoneidade por 3 anos a contar de 02/02/2018 (conforme legenda)",
+   "resumo_voto": "Acolhe relatório final da comissão e parecer da PF/ANTT.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, aplica declaração de inidoneidade por 3 anos",
+     "ts": "0:12:38",
+     "justificativa": "três apólices de seguro: uma falsificada e duas canceladas antes do protocolo; empresa intimada por edital e não respondeu; adulteração de documento de porte obrigatório (Res. 233/2003; Decreto 2.521/1998)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:15:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:15:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.4",
+   "ts": "0:15:39",
+   "processo": "50500.0?526/2014-30",
+   "interessado": "Waldemar Carvalho e Cia Ltda.",
+   "assunto": "PAO — proposta de penalidade por transporte de mercadoria estrangeira apreendida (representação da Receita Federal)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade — multa de R$ 4.000 em vez de inidoneidade",
+   "resumo_voto": "Segue sugestão da área técnica contra a comissão e a PF, que propunham declaração de inidoneidade (Res. 5.083/2016).",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, aplica multa de R$ 4.000 (pena alternativa)",
+     "ts": "0:15:39",
+     "justificativa": "área técnica considera inidoneidade pena inadequada e excessiva (medida extrema) para mercadoria estrangeira sem prova de introdução regular apreendida pela Receita Federal",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:17:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:17:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.5",
+   "ts": "0:17:44",
+   "processo": "50500.503350/2017-17",
+   "interessado": "empresa de turismo (nome ilegível: «Gold e Tu Transporte Turismo»)",
+   "assunto": "PAO — penalidade por transporte de mercadoria de procedência estrangeira sem prova de introdução regular",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade — inidoneidade por 3 anos",
+   "resumo_voto": "Acolhe comissão e PF/ANTT.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, aplica declaração de inidoneidade por 3 anos",
+     "ts": "0:17:44",
+     "justificativa": "mercadoria estrangeira apreendida; empresa não apresentou defesa e não tem termo de autorização de fretamento; sem elementos para atenuar",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:19:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:19:21",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.6",
+   "ts": "0:19:25",
+   "processo": "50500.503354/2017-03",
+   "interessado": "empresa de viagens e turismo (nome ilegível: «De Ti Viagens e Turismo Ltda.»)",
+   "assunto": "PAO — penalidade por transporte de mercadoria estrangeira sem prova de introdução regular",
+   "tema": [
+    "fiscalização e sanções"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade — inidoneidade por 4 anos",
+   "resumo_voto": "Prazo maior pela reincidência.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, aplica declaração de inidoneidade por 4 anos (reincidência)",
+     "ts": "0:19:25",
+     "justificativa": "mercadoria estrangeira apreendida; sem defesa; reincidência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:21:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:21:16",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.7 a 2.2.27",
+   "ts": "0:21:20",
+   "processo": "21 processos",
+   "interessado": "Santo Anjo da Guarda, Gontijo, Consórcio Guanabara, Reunidas, Viação Ouro e Prata, Rota do Mar, outras; Concessionária Rio-Teresópolis",
+   "assunto": "Bloco: alterações de LO, indeferimentos de novos mercados, recadastramento de fretamento e de autorização regular, declaração de utilidade pública (Viação Transagachar? e Concessionária Rio-Teresópolis)",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Processos de rotina votados em bloco; conteúdo não detalhado na transmissão.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova (voto em bloco)",
+     "ts": "0:21:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:26:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:26:04",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1 e 2.3.2",
+   "ts": "0:26:08",
+   "processo": "2 processos (50500.316159/2017; 50500.325002?/2016)",
+   "interessado": "empresas de fretamento (HP Viagens e Turismo e outras)",
+   "assunto": "Recadastramento de fretamento — relatoria de Weber Ciloni, ausente; votos lidos em bloco por previsão do art. 79 do RI",
+   "tema": [
+    "ônibus (fretamento)"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade (relator ausente; votação dos três presentes)",
+   "resumo_voto": "Processos de rotina votados em bloco; conteúdo não detalhado na transmissão.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova (voto em bloco)",
+     "ts": "0:26:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:26:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:26:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:26:08",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.1",
+   "ts": "0:27:26",
+   "processo": "50500.327617/2015-25 e 50500.359535/2019",
+   "interessado": "ofício do gabinete de diretor",
+   "assunto": "Pedido de cancelamento de distribuição de processo",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "(não identificado)",
+   "resultado": "submetido (resultado não explícito)",
+   "resumo_voto": "Item de assuntos gerais.",
+   "votos": []
+  },
+  {
+   "id": "3.2",
+   "ts": "0:28:18",
+   "processo": "50500.326831/2019-64? (ofício DG)",
+   "interessado": "Diretor-Geral (ofício) / Elisabeth Braga",
+   "assunto": "Revogação da Deliberação 214/2019 (Reunião 799, 12/02/2019) que designou Elisabeth Braga como diretora-geral substituta; indicação de Marcelo Vinaud para a substituição",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Mário Rodrigues Junior",
+   "resultado": "aprovado por unanimidade (conforme fala de concordância na legenda)",
+   "resumo_voto": "Os três diretores presentes concordam.",
+   "votos": [
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "propõe a reversão",
+     "ts": "0:28:42",
+     "justificativa": "pedido da própria diretora por motivos pessoais; indica Marcelo Vinaud como Diretor-Geral substituto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:28:42",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:28:42",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Atribuição do falante da abertura a «Marcelo Fonseca» na legenda é falha; quem preside é o DG Mário Rodrigues Junior.",
+  "Votos de seguidores: tempo aproximado (fim do item).",
+  "Item 2.2.2 (MGO): conteúdo do voto não aparece na legenda.",
+  "Números de processo e valores (R$ 4.000, prazos) conforme legenda automática; podem conter erros.",
+  "Item 3.2: ofício atribuído à Diretoria (sigla na legenda «tev/DMV»); atribuição à fala do DG é inferência."
+ ]
+}
