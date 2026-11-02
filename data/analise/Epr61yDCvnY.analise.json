@@ -1,0 +1,739 @@
+{
+ "meta": {
+  "video_id": "Epr61yDCvnY",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulo do .md pode estar errado, ex.: «Marcelo Fonseca» na abertura é o DG Mário Rodrigues Junior); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "811",
+  "data": "2019-05-21",
+  "formato": "presencial (Sede da ANTT)",
+  "presidente_da_sessao": "Mário Rodrigues Junior (Diretor-Geral)",
+  "diretores_presentes": [
+   "Mário Rodrigues Junior",
+   "Marcelo Vinaud",
+   "Elisabeth Braga",
+   "Weber Ciloni"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quatro diretores; ata da 810 aprovada; encerrada às 16h48.",
+   "Voto-vista de Weber Ciloni sobre a AP das alterações contratuais em revisões quinquenais (segue o DG com ajuste de redação).",
+   "Extrapauta: simplificação do RNTRC e multa por obstrução da fiscalização; Via Bahia com pedido de vista.",
+   "Assuntos gerais: Mário aprova plano de ação da SUINF e prazos para cronograma, após a Portaria DG de 17 de abril; Elisabeth Braga registra a aprovação do PL das agências em comissão do Senado."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1",
+   "ts": "0:01:10",
+   "processo": "50500.xxxxxx/2019-xx",
+   "interessado": "Princesa do Norte S.A.",
+   "assunto": "Pedido de implantação de seções na linha Brasília (DF)-Curitiba (PR)",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade (indeferido)",
+   "resumo_voto": "Pela Nota Técnica 747/2019 a empresa não detém autorização para operar os mercados solicitados no SGP.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:01:20",
+     "justificativa": "requisitos não cumpridos (sem autorização para os mercados)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:02:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com o relator",
+     "ts": "0:02:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o relator",
+     "ts": "0:02:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:02:40",
+   "processo": "50500.026211/xxxx",
+   "interessado": "Unisul de Transportes Ltda.",
+   "assunto": "Pedido de implantação da linha Passo Fundo (RS)-Chapecó (SC) via Vieira (legenda)",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade (indeferido)",
+   "resumo_voto": "Mercados já operados pela empresa (LOP 96), mas a linha é operada como seção secundária de linhas de outra empresa (Nota Técnica 634/2019).",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:02:50",
+     "justificativa": "seção secundária de outra empresa",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:04:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com o relator",
+     "ts": "0:04:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o relator",
+     "ts": "0:04:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.3",
+   "ts": "0:04:15",
+   "processo": "50500.xxxxxx/2019",
+   "interessado": "Viação Nacional S.A.",
+   "assunto": "Pedido de implantação da linha Salvador (BA)-Jequitinhonha (MG) e seções",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade (indeferido)",
+   "resumo_voto": "Nota Técnica 754/2019: mercados já operados (LOP 31), mas a linha é seção de outras empresas e a viabilidade operacional deve ser comprovada após os estudos da Tomada de Subsídios 10 e resolução decorrente.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:04:25",
+     "justificativa": "aguardar a tomada de subsídios e a resolução",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:05:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com o relator",
+     "ts": "0:05:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o relator",
+     "ts": "0:05:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.4",
+   "ts": "0:05:45",
+   "processo": "50500.302825/2019",
+   "interessado": "SUPAS",
+   "assunto": "Alteração da Resolução 4308/2014 (identificação de passageiros): menores de 16 anos em viagem fora da comarca, adequação ao art. 83 do ECA",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "regulação normativa",
+    "institucional"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "A alteração do ECA estendeu aos adolescentes menores de 16 anos as restrições antes só aplicáveis a crianças; novo art. 5º exige acompanhamento ou autorização judicial, com exceções (comarca contígua, mesma região metropolitana, acompanhado de ascendente ou colateral até o 3º grau, ou de pessoa autorizada). Procuradoria aprovou a minuta.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:06:00",
+     "justificativa": "adequação ao ECA e parecer jurídico favorável",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:09:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com o relator",
+     "ts": "0:10:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o relator",
+     "ts": "0:10:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.5",
+   "ts": "0:10:08",
+   "processo": "50500.322836/2019",
+   "interessado": "SUROC",
+   "assunto": "Abertura de audiência pública (30 dias) para revisar a regulação do pagamento eletrônico de frete (Res. 3658/2011), compatibilizando com a política de pisos mínimos (Lei 13.703/2018, art. 7º)",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "participação social",
+    "regulação normativa"
+   ],
+   "relator": "Marcelo Vinaud (inferido)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Prazo de 30 dias em vez de 45 por tratar de alterações pontuais e por já haver consulta anterior; incorpora evolução dos meios de pagamento.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova abertura de AP por 30 dias",
+     "ts": "0:10:30",
+     "justificativa": "alterações pontuais; 30 dias suficientes para contribuições",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o voto do relator",
+     "ts": "0:12:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com a abertura da AP",
+     "ts": "0:12:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo e concorda com o prazo reduzido",
+     "ts": "0:12:30",
+     "justificativa": "prazo adequado em função da lei citada",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.6",
+   "ts": "0:12:30",
+   "processo": "50500.132597/2014-xx",
+   "interessado": "MR Turismo Ltda.",
+   "assunto": "PAO: representação da Receita Federal: mercadoria estrangeira sem prova de introdução regular",
+   "tema": [
+    "fiscalização e sanções"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Segue a área técnica e a Procuradoria: declaração de inidoneidade por três anos.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:12:45",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:13:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com o relator",
+     "ts": "0:14:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o relator",
+     "ts": "0:14:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.7-2.1.18",
+   "ts": "0:14:43",
+   "processo": "vários (50500.018311/1981 etc.)",
+   "interessado": "Transportes Coletivos (nome ilegível), Venâncio Aires, Planalto, Viação São Luiz, JBR Turismo, Viação Ouro e Prata, Auto Viação Progresso, Rota Viagens e outros",
+   "assunto": "Indeferimentos de solicitações para operação de novos mercados",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deliberados em bloco; sem detalhamento na legenda.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova em bloco",
+     "ts": "0:14:45",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:17:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:17:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:17:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:17:10",
+   "processo": "50500.350443/2018-77",
+   "interessado": "Expresso Guanabara S.A. e Consórcio Federal de Transportes",
+   "assunto": "Transferência de mercado Capim Grosso (BA)-Petrolina (PE) (Res. 4770/2015)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "regulação normativa"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "SUPAS concluiu que os requisitos foram cumpridos; SUREG (governança regulatória) não vê óbice concorrencial.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:17:25",
+     "justificativa": "requisitos cumpridos e sem impacto concorrencial",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:19:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com o relator",
+     "ts": "0:19:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o relator",
+     "ts": "0:19:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:19:25",
+   "processo": "50500.320343/2019",
+   "interessado": "Viação Pernambucana de Transporte e Turismo e outras (SUPAS/SUROC)",
+   "assunto": "Parcelamento de débitos de multas (RNTRC, pagamento eletrônico de frete, produtos perigosos, passageiros) em até 60 meses",
+   "tema": [
+    "fiscalização e sanções",
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Débitos acima de R$ 50 mil (cargas) ou R$ 80 mil (passageiros) exigem autorização da Diretoria (Res. 5830/2018); defere parcelamento em parcelas mensais de no mínimo R$ 1.000.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:19:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:21:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com o relator",
+     "ts": "0:21:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o relator",
+     "ts": "0:21:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3",
+   "ts": "0:21:45",
+   "processo": "50500.004975/2019",
+   "interessado": "Empresa «Brasileiro/Bom» (nome ilegível)",
+   "assunto": "Indeferimento de solicitação de mercado (processo em bloco unitário)",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Votação sem detalhamento na legenda.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, aprova",
+     "ts": "0:21:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:22:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com o relator",
+     "ts": "0:22:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o relator",
+     "ts": "0:22:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:22:29",
+   "processo": "50500.024443/2018-61",
+   "interessado": "Real Maior Turismo Ltda.",
+   "assunto": "Pedido de reconsideração contra a Deliberação 801/2018 (negou regularização administrativa de mercados da Real Maior)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade (conhecido; negado provimento)",
+   "resumo_voto": "Mercados não contemplados em decisões judiciais; a Portaria 24/2017 limitou a LOP aos serviços ativos em 30/07/2015 (Res. 470/2015 e 5629/2017); empresa apresentou quadros de horário em juízo mas ficou comprovado que não estavam ativos; mantém a Del. 801/2018.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:22:45",
+     "justificativa": "serviços comprovadamente não ativos em 30/07/2015",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:24:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com o relator",
+     "ts": "0:25:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com o relator",
+     "ts": "0:25:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:24:55",
+   "processo": "50500.299381/2018-31",
+   "interessado": "SUEXE",
+   "assunto": "Audiência pública para normatizar alterações contratuais nas revisões quinquenais das concessões rodoviárias (inclusão, exclusão e reprogramação de obras) - voto-vista sobre o Voto DG 149/2019",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "participação social",
+    "regulação normativa"
+   ],
+   "relator": "Weber Ciloni (voto-vista); relator original Mário Rodrigues Junior",
+   "resultado": "aprovado por unanimidade (voto-vista)",
+   "resumo_voto": "Esclarecidas as questões que motivaram a vista, acompanha integralmente o voto do DG, recomendando apenas precisar na redação do art. 1º da minuta o objeto da audiência (proposta de resolução sobre as revisões quinquenais em decorrência de inclusão, exclusão e reprogramação de obras).",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "voto-vista: acompanha integralmente o voto do DG, com ajuste de redação do art. 1º",
+     "ts": "0:25:40",
+     "justificativa": "questões levantadas esclarecidas; ajuste para definir melhor o objeto da audiência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o voto do relator",
+     "ts": "0:27:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:27:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com o voto-vista",
+     "ts": "0:27:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.3",
+   "ts": "0:27:30",
+   "processo": "50500.12xxxx/2018-95",
+   "interessado": "Empresa de turismo (nome ilegível)",
+   "assunto": "PAO: representação da Receita Federal: mercadoria estrangeira sem prova de introdução regular; revelia; reincidência",
+   "tema": [
+    "fiscalização e sanções"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Empresa intimada não apresentou defesa; comissão e Procuradoria (Parecer 1874/2018) propõem inidoneidade com agravante de reincidência; quatro anos.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:27:50",
+     "justificativa": "revelia e reincidência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:29:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com o relator",
+     "ts": "0:29:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com o relator",
+     "ts": "0:29:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.4",
+   "ts": "0:29:36",
+   "processo": "50500.152126/2007-11 (legenda)",
+   "interessado": "SUFER",
+   "assunto": "Abertura de audiência pública para revisão da Resolução 1431/2006 (comunicação de acidentes ferroviários)",
+   "tema": [
+    "ferrovias",
+    "participação social",
+    "regulação normativa",
+    "fiscalização e sanções"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Na agenda regulatória 2019-2020: baixa qualidade dos dados de acidentes por falta de definições, de lista completa de causas, de informações mínimas, de prazo para acidentes não graves e de incentivos; propõe modernizar a comunicação via sistema, prever penalidades específicas e preencher lacunas.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:30:25",
+     "justificativa": "melhorar qualidade dos dados de acidentes ferroviários",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o relator",
+     "ts": "0:31:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com o relator",
+     "ts": "0:32:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com o relator",
+     "ts": "0:32:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.5-2.3.12",
+   "ts": "0:32:10",
+   "processo": "vários",
+   "interessado": "Reunidas Turismo, Viação Ouro e Prata, A. Alves Rocha e Silva, Transacreana, Viação Piracicabana, Expresso Metrópoles e outros",
+   "assunto": "Indeferimentos de mercados, termos de autorização e recadastramentos",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "ônibus (fretamento)"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deliberados em bloco; sem detalhamento na legenda.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova em bloco",
+     "ts": "0:32:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:34:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:35:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com os votos em bloco",
+     "ts": "0:35:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "extrapauta-1",
+   "ts": "0:35:05",
+   "processo": "50500.315144/2019-13",
+   "interessado": "SUROC",
+   "assunto": "Alteração da Resolução 4799/2015 (RNTRC): nova penalidade (multa de R$ 550, base mínima legal, legenda) para obstrução da fiscalização no lugar da multa de R$ 5.000, e fim do adesivo de identificação do RNTRC",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "fiscalização e sanções",
+    "regulação normativa"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "A multa de R$ 5.000 por dificultar a fiscalização estava gerando judicialização e reação do mercado e do Legislativo (projeto de decreto legislativo); propõe penalidade mais adequada; extingue o adesivo (art. 18 e alínea d do inciso V do art. 86), já que 98% da fiscalização é eletrônica, reduzindo custo do transportador.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:36:30",
+     "justificativa": "multa desproporcional gerava judicialização; desburocratização e redução de custo regulatório",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo com o voto do relator",
+     "ts": "0:38:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:39:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o voto do relator",
+     "ts": "0:39:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "extrapauta-2",
+   "ts": "0:39:38",
+   "processo": "50500.973615/2018-21 (legenda)",
+   "interessado": "Concessionária Via Bahia S.A.",
+   "assunto": "8ª revisão ordinária, 11ª extraordinária e reajuste da tarifa básica de pedágio, com discussão do desconto de reequilíbrio e da curva de tráfego",
+   "tema": [
+    "concessões rodoviárias",
+    "pedágio",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "pedido de vista (autoria incerta na legenda; processo seria redistribuído)",
+   "resumo_voto": "A relatora apresenta voto após diligência (art. 66 do Regimento): reformulação do cálculo do desconto de reequilíbrio (incidindo sobre o fluxo de caixa original e não sobre a tarifa toda) e manutenção da curva de tráfego original, em linha com o TCU e com a controvérsia jurídica interna; recomenda aguardar a audiência pública em análise sobre regulamento geral antes de mudar metodologia, aprovando a revisão tarifária sem alterar a metodologia. Impactos percentuais citados na legenda estão corrompidos (tarifas P1/P2 de 2,90 para 2,50?; P3-P5 de 5,10 para 4,40?).",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relatora, voto pela aprovação da revisão sem mudar a metodologia",
+     "ts": "0:47:30",
+     "justificativa": "segurança jurídica e regulatória; esperar regulamento geral e posição do TCU",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud (provável)",
+     "voto": "pede vista (autoria inferida; processo redistribuído a ele)",
+     "ts": "0:48:15",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3.1",
+   "ts": "0:48:40",
+   "processo": "50500.xxxxxx",
+   "interessado": "Despacho 1028 (legenda)",
+   "assunto": "Cancelamento de distribuição de processo",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Mário Rodrigues Junior",
+   "resultado": "aprovado (sem objeções)",
+   "resumo_voto": "Pautado em assuntos gerais.",
+   "votos": [
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "submete",
+     "ts": "0:48:50",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática com muitos erros de nomes e números; a grafia de «Weber Ciloni» (legenda: Werner/Weber Simone, Peter Simone) e «Marcelo Vinaud» (legenda: Marcelo de Novo, Dominou, Veni) é inferida das saudações e pode estar incorreta.",
+  "Minutos dos votos de quem só acompanha o relator são aproximados (confiança média).",
+  "Autoria do pedido de vista na Via Bahia (extrapauta 2) não identificada com segurança (inferido: Marcelo Vinaud).",
+  "Percentuais de impacto tarifário na legenda estão corrompidos e foram omitidos.",
+  "Números de processo e empresas dos blocos ilegíveis."
+ ]
+}
