@@ -1,0 +1,348 @@
+{
+ "meta": {
+  "video_id": "sDWtLtsoPCU",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "882",
+  "data": "2020-12-02",
+  "formato": "videoconferência, transmitida no YouTube",
+  "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Weber Ciloni",
+   "Davi Barreto",
+   "Alexandre Porto",
+   "Eduardo Marra"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 17:30 de 02/12/2020.",
+   "Duas súmulas (ferrovias e acesso a dados das concessões rodoviárias) tiveram vista coletiva concedida e voltaram na RD 883 (08/12/2020).",
+   "Dois itens extra-pauta aprovados."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1",
+   "ts": "0:04:24",
+   "processo": "50500.064598/2020-54",
+   "interessado": "SUROC",
+   "assunto": "Abertura de audiência pública sobre minuta de resolução que regulamenta inscrição e manutenção no RNTRC (Registro Nacional de Transportadores Rodoviários de Cargas)",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "regulação normativa",
+    "participação social"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Alinhada à Declaração de Direitos de Liberdade Econômica (Lei 13.874/2019); elimina entraves e incorpora a experiência de cinco anos da norma original: requisitos de cadastro, manutenção, penalidades; analisada pela Procuradoria.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova abertura de AP",
+     "ts": "0:05:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:06:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:06:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:06:56",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:06:59",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:07:24",
+   "processo": "50500.095105/2020-28",
+   "interessado": "SUFER",
+   "assunto": "Proposta de edição de súmula para orientar a interpretação de cláusula dos contratos de concessão ferroviária que condiciona a apresentação de pleitos das concessionárias ao cumprimento de suas obrigações contratuais",
+   "tema": [
+    "ferrovias",
+    "regulação normativa",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "vista coletiva concedida; deliberação em 08/12/2020 (RD 883)",
+   "resumo_voto": "A cláusula gerou divergência interpretativa, inclusive questionada por Davi Barreto ao relatar o reajuste da Ferrovia Norte-Sul. A SUFER propõe súmula: o inadimplemento não impede a admissibilidade de pedidos de autorização de obras, obra de terceiros (Res. 2.695), reajuste e revisão de tarifas e outras hipóteses de interesse demonstrado; Procuradoria reconhece a competência da agência e sugere a súmula (art. 120 RI).",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator; propõe aprovar a súmula",
+     "ts": "0:07:40",
+     "justificativa": "uniformizar interpretação, não bloquear pleitos de obras, reajuste e revisão por inadimplência de obrigações",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "concede vista coletiva",
+     "ts": "0:10:49",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:11:27",
+   "processo": "50500.101061/2020-08",
+   "interessado": "NAMAE (núcleo de acompanhamento, monitoramento e articulação de assuntos estratégicos)",
+   "assunto": "Proposta de edição de súmula sobre o poder fiscalizatório da ANTT e o dever das concessionárias de rodovias de dar acesso a informações, sistemas e dados das concessões dentro e fora do Centro de Controle, sem implicar alteração da matriz de risco contratual",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções",
+    "regulação normativa"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "vista coletiva concedida; deliberação em 08/12/2020 (RD 883)",
+   "resumo_voto": "Procuradoria entende que o acesso irrestrito está amparado na Lei de Concessões, na lei de criação da agência e nos contratos, sem retribuição financeira adicional; súmula pelo art. 120 do RI.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator; propõe aprovar a súmula",
+     "ts": "0:13:20",
+     "justificativa": "a agência precisa dos instrumentos para a função fiscalizatória; acesso livre a dados não altera a matriz de risco",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "concede vista coletiva",
+     "ts": "0:14:15",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:14:28",
+   "processo": "50500.192251/2017-03",
+   "interessado": "Concepa (Concessionária da Rodovia Osório–Porto Alegre)",
+   "assunto": "Ajuste parcial de contas do encerramento do contrato de concessão da BR-290/RS (contrato encerrado em 03/07/2018 após prorrogação de 12 meses), com saldo negativo de cerca de R$ 141 milhões a preços de junho de 2020, em desfavor da concessionária",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "judicializacao"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Ajuste parcial por risco de prescrição da pretensão executória; permanecem pendentes 35 autos de infração, vida útil remanescente do pavimento e sinalização vertical. Itens do ajuste incluem arredondamentos tarifários, perdas de receita por eixo suspenso, 13º termo aditivo, convênio PRF, uso de acostamento/4ª faixa e greve dos caminhoneiros. Procuradoria conclui pela possibilidade do ajuste parcial com recomendações. Valor exato incerto na legenda.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova ajuste parcial",
+     "ts": "0:15:00",
+     "justificativa": "evitar prescrição da pretensão executória; ajuste parcial sem prejuízo de apuração posterior",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo conforme o relator",
+     "ts": "0:18:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:18:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:18:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:18:32",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.1",
+   "ts": "0:18:50",
+   "processo": "50500.024462/2020-10",
+   "interessado": "SUFER",
+   "assunto": "Abertura de audiência pública sobre minuta de resolução que regulamenta a reversibilidade de bens nas concessões e subconcessões ferroviárias (contribuições de 15/12/2020 a 29/01/2021)",
+   "tema": [
+    "ferrovias",
+    "regulação normativa",
+    "participação social"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Tema já passou por tomada de subsídios (2013) e integra a agenda regulatória; considera Decreto 10.061/2019 e a prorrogação antecipada; AIR apresentada; a regra reduz lacunas e aumenta a segurança jurídica nos contratos ferroviários.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, aprova abertura de AP",
+     "ts": "0:19:07",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o relator",
+     "ts": "0:21:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:21:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:21:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:21:29",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "EP-1",
+   "ts": "0:21:55",
+   "processo": "50501.105648/2020-61 (incerto)",
+   "interessado": "SUFER",
+   "assunto": "Extra-pauta: abertura de audiência pública sobre minuta de resolução que regulamenta a destinação dos recursos para desenvolvimento tecnológico e para preservação da memória ferroviária",
+   "tema": [
+    "ferrovias",
+    "regulação normativa",
+    "participação social"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Os recursos estão previstos nos contratos de concessão; a norma visa viabilizar projetos de modernização do setor e preservar o patrimônio histórico das ferrovias federais; AIR realizada. Diretores aprovaram a inclusão extra-pauta.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova abertura de AP",
+     "ts": "0:22:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo (inclusão e mérito)",
+     "ts": "0:24:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:24:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:24:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo (inclusão)",
+     "ts": "0:24:29",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "EP-2",
+   "ts": "0:24:40",
+   "processo": "50500.011975/2019-12",
+   "interessado": "SUGAD (gestão administrativa)",
+   "assunto": "Extra-pauta: inclusão de novo item no Plano Anual de Contratações (PAC) 2020 para contratar serviços técnicos de engenharia de apoio à análise de projetos de concessão",
+   "tema": [
+    "institucional",
+    "concessões rodoviárias"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Com o novo regimento, a nova superintendência de construção da infraestrutura absorveu competências; a equipe é insuficiente para a celeridade exigida pelos programas do governo federal; demanda imprevisível na época do PAC.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, aprova inclusão",
+     "ts": "0:25:20",
+     "justificativa": "celeridade nos projetos de concessão; demanda não prevista na elaboração do PAC",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o relator",
+     "ts": "0:26:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:26:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:26:56",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:26:59",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "RES-1",
+   "ts": "0:03:45",
+   "processo": "50500.024687/2014-10 (incerto)",
+   "interessado": "Concessionária Rio-Teresópolis (CRT)",
+   "assunto": "Processo reservado/sigiloso 2.1.2: recurso em processo de aplicação de penalidade (relator Marcelo Vinaud), julgado ao final fora da transmissão",
+   "tema": [
+    "fiscalização e sanções",
+    "concessões rodoviárias"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "sigiloso — resultado não divulgado",
+   "resumo_voto": "Sem conteúdo na transmissão.",
+   "votos": []
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática; falantes inferidos {Marcelo Fonseca} são falsos.",
+  "Grafias: Weber Ciloni (legenda: «web esse nononi», «vai ver silone», «Zone»), Marcelo Vinaud («Venom», «Minor», «Renó»), Eduardo Marra («marra»), Davi Barreto, Alexandre Porto; o DG fala as aberturas e vota por último.",
+  "Em 2.3.2 e 2.4.1 a legenda registra que o áudio de Weber Ciloni falhou; seu voto ficou de acordo.",
+  "O voto de Eduardo Marra no extra-pauta EP-1 não foi captado com clareza; os de seguidores têm ts aproximados.",
+  "Valor do ajuste da Concepa: 141 milhões (centavos incertos). Números de processo muito distorcidos; marcados como incertos quando duvidosos.",
+  "Item sigiloso (CRT) sem conteúdo."
+ ]
+}

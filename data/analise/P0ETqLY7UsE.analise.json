@@ -1,0 +1,45 @@
+{
+  "meta": {"video_id": "P0ETqLY7UsE", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:00); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "873", "data": "2020-09-22", "formato": "videoconferência com transmissão ao vivo no YouTube",
+    "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral)",
+    "diretores_presentes": ["Marcelo Vinaud", "Weber Ciloni", "Davi Barreto", "Alexandre Porto", "Eduardo Marra"],
+    "ausentes": [],
+    "observacoes": ["Parte pública curta (cerca de 7 minutos), encerrada às 15h45; um único item aberto.", "Cinco processos reservados (recursos de concessionárias contra penalidades) foram julgados ao final da transmissão, fora do vídeo.", "A legenda registra o resultado como «aprovada por maioria», mas todos os votos audíveis são de acordo; ver limites_da_analise."]
+  },
+  "itens": [
+    {
+      "id": "2.4.1", "ts": "0:03:21",
+      "processo": "50500.156797/2020-45 (número lido de forma incerta)", "interessado": "Superintendência de Governança, Planejamento e Articulação (Sugpa/«suart») e superintendências de passageiros e de cargas",
+      "assunto": "Alteração da Resolução 5.869/2020 (flexibilização de prazos para cumprimento de obrigações contratuais e regulatórias durante a emergência da covid-19 nos serviços de infraestrutura, transporte aéreo/rodoviário de cargas e de passageiros)",
+      "tema": ["covid-19", "ônibus (transporte regular, TAR)", "transporte rodoviário de cargas (piso mínimo do frete/CIOT)", "regulação normativa"],
+      "relator": "Eduardo Marra", "resultado": "aprovado (a legenda diz «por maioria»; votos audíveis todos de acordo)",
+      "resumo_voto": "Os prazos prorrogados por resoluções anteriores para validade de habilitações e autorizações venciam em 20 de setembro de 2020, e os de postergação de obrigações em 30 de setembro (prazos fixados pela Res. 5.921, de julho de 2020). A superintendência de passageiros e outra área manifestaram necessidade de nova prorrogação; a Sufer informou que não era necessária. Tratando-se de matéria urgente, o relator aplicou a dispensa regimental de participação social e de AIR e votou por aprovar a alteração.",
+      "votos": [
+        {"diretor": "Eduardo Marra", "voto": "relator, aprova a alteração com dispensa de AIR e de participação social", "ts": "0:05:55", "justificativa": "urgência: os prazos prorrogados venciam em 20 e 30 de setembro de 2020", "confianca": "alta"},
+        {"diretor": "Weber Ciloni", "voto": "acompanha o relator", "ts": "0:06:17", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:06:21", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "0:06:24", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo", "ts": "0:06:28", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "reservados", "ts": "0:01:50",
+      "processo": "50520.000421/2015-62 (2.1.1); 50501.579233/2000 (2.2.1, número parcial); 50500.166025/2014-16 (2.3.1); 50520.025636/2015-58 (2.3.2); 50520.160514/2015-16 (2.3.3)", "interessado": "Autopista Planalto Sul (2.1.1 e 2.3.2); Concessionária de Rodovias Juiz de Fora-Rio (Concer) (2.2.1); Autopista Régis Bittencourt (2.3.1); Autopista Litoral Sul (2.3.3)",
+      "assunto": "Processos reservados: recursos de concessionárias contra decisões da Suinf de aplicação de penalidades (2.1.1 relator Marcelo Vinaud; 2.2.1 relator Weber Ciloni; 2.3.1 a 2.3.3 relator Davi Barreto)",
+      "tema": ["fiscalização e sanções", "concessões rodoviárias"],
+      "relator": "Marcelo Vinaud; Weber Ciloni; Davi Barreto", "resultado": "julgados em parte reservada; resultado não consta do vídeo",
+      "resumo_voto": "Itens sigilosos (art. 71 §1º do Regimento Interno e art. 78-B da Lei 10.233/2001), julgados ao final da transmissão com participação restrita às partes.",
+      "votos": []
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Legenda automática ruidosa: nomes distorcidos («Weber Silone», «Eduardo Marra» às vezes «Marra/Marro», «Marcelo de nó»). Grafias canônicas adotadas pelas saudações.",
+    "O resultado é descrito na legenda como «aprovada por maioria», mas não há voto contrário audível; pode ser erro do secretário ou da legenda. O voto de Weber Ciloni aparece truncado («coloca o olha o relator») e foi lido como acompanhamento.",
+    "Menezes não aparece mais nesta data; Eduardo Marra integra a Diretoria.",
+    "Números de processo e de resoluções (5.869/2020, 5.921/2020) estão distorcidos pela legenda e devem ser conferidos.",
+    "Votos de quem só acompanha o relator têm minutos aproximados.",
+    "Os cinco processos reservados não constam do vídeo."
+  ]
+}
