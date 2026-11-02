@@ -1,0 +1,178 @@
+{
+  "meta": {"video_id": "FNnvj8A4Zjo", "fonte": "legenda automática do YouTube; falantes parcialmente inferidos (rótulo inicial «Guilherme Sampaio» é erro: presidia Rafael Vitale); ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "921", "data": "2021-11-18", "formato": "videoconferência",
+    "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+    "diretores_presentes": ["Rafael Vitale", "Davi Barreto", "Guilherme Sampaio", "Fábio Rogério"],
+    "ausentes": [],
+    "observacoes": ["Parte pública encerrada às 16h59.", "Item central: o novo marco regulatório do TRIP (transporte rodoviário interestadual de passageiros sob autorização). O relator Davi Barreto apresentou voto de cerca de 500 páginas; o Diretor-Geral divergiu e propôs devolver o processo à SUPAS; houve empate 2 x 2 e o DG desempatou, prevalecendo a devolução.", "Súmulas (2.1.2 e 2.3.3) receberam vista coletiva e serão deliberadas na reunião seguinte.", "Demais itens aprovados por unanimidade."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:01:20",
+      "assunto": "Aprovação da ata da reunião anterior (RD 920)",
+      "tema": ["institucional"], "relator": "Rafael Vitale", "resultado": "aprovada",
+      "resumo_voto": "Ata distribuída com 48 horas de antecedência; leitura dispensada.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:01:50", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo", "ts": "0:01:53", "confianca": "media"},
+        {"diretor": "Fábio Rogério", "voto": "de acordo", "ts": "0:01:56", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "de acordo", "ts": "0:01:58", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.1.1", "ts": "0:02:22",
+      "processo": "50500.045390/2021-17", "interessado": "CONFAZ / Secretarias de Fazenda dos estados e DF; SUROC",
+      "assunto": "Acordo de Cooperação Técnica entre a ANTT e as Sefaz para disponibilização de informação sobre MDF-e não encerrados de veículos de carga em rodovias concedidas (controle da isenção de tarifa de pedágio para eixo suspenso, Lei 13.103/2015)",
+      "tema": ["transporte rodoviário de cargas", "concessões rodoviárias", "pedágio", "fiscalização e sanções"],
+      "relator": "Davi Barreto (originário); voto-vista de Rafael Vitale (legenda diz «revisor-redator Fábio», provável erro)",
+      "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Apresentado na RDE 64 (27/09 a 01/10/2021) por Davi Barreto (voto 99/2021); o voto-vista pediu manifestação de SUINF e SUTEC, que não viram óbice e descreveram como os dados do ACT complementam o CNS e o sistema de informações rodoviárias na apuração do eixo suspenso para as revisões tarifárias; o vistista acompanhou o relator.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "relator originário, aprova o ACT", "ts": "0:02:30", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "pede vista na RDE 64 e vota acompanhando integralmente o relator", "ts": "0:06:26", "justificativa": "ouvir as demais superintendências sobre como os dados serão usados no controle da isenção; aprimora fiscalização e gestão dos contratos", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator e com o voto-vista", "ts": "0:07:00", "confianca": "media"},
+        {"diretor": "Fábio Rogério", "voto": "de acordo", "ts": "0:07:10", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.1.2", "ts": "0:07:37",
+      "processo": "50500.090221/2021-31 (número parcial)", "interessado": "SUFIS",
+      "assunto": "Proposta de súmula que define transporte clandestino para aplicação da Res. 4.287/2014",
+      "tema": ["fiscalização e sanções", "ônibus (fretamento)", "ônibus (transporte regular, TAR)", "regulação normativa"],
+      "relator": "Rafael Vitale", "resultado": "vista coletiva (súmula, art. 121 do Regimento); deliberação na próxima reunião",
+      "resumo_voto": "Clandestino é o transporte feito sem qualquer autorização da ANTT: no serviço regular, sem TAR válido e LOP; no fretamento, sem ATAF; a licença de viagem (LV) é ato declaratório do autorizatário. Entendimento firmado com parecer da PGF.",
+      "votos": [
+        {"diretor": "Rafael Vitale", "voto": "relator, propõe a súmula", "ts": "0:08:06", "justificativa": "caracterizar o transporte clandestino como o realizado sem ato de outorga válido, para dar uniformidade à aplicação da Res. 4.287/2014", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.1.3 a 2.1.7", "ts": "0:11:32",
+      "processo": "50500.093694/2021-91; 50500.089110/2021-82 (e outros); números parciais", "interessado": "Macro Desenvolvimento Ltda.; Estrada de Ferro Paraná Oeste S.A. (Ferroeste); Petrocity Ferrovias Ltda.; Grão-Pará Multimodal S.A.; Planalto Piauí Participações e Empreendimentos S.A.",
+      "assunto": "Cinco declarações de compatibilidade locacional de pedidos de autorização ferroviária (MP 1.065/2021, Portaria MInfra 13/2021): (2.1.3) Presidente Kennedy/ES a Conceição do Mato Dentro/MG e Sete Lagoas/MG, 610 km; (2.1.4) Cascavel/PR a Chapecó/SC, 286 km; (2.1.5) Barra de São Francisco/ES a Brasília/DF, 1.108 km; (2.1.6) Alcântara/MA a Açailândia/MA, 520 km; (2.1.7) Ipojuca/PE a Curral Novo do Piauí/PI, cerca de 700 km",
+      "tema": ["ferrovias", "autorizações ferroviárias", "regulação normativa"],
+      "relator": "Rafael Vitale", "resultado": "aprovados por unanimidade (votação conjunta)",
+      "resumo_voto": "A SUFER não identificou conflito de traçado com infraestruturas implantadas ou outorgadas em nenhum dos cinco pedidos; análise jurídica dispensada pela PGF por ser matéria eminentemente técnica; ANTT declara a compatibilidade locacional ao Ministério da Infraestrutura (prazo de 45 dias prorrogáveis).",
+      "votos": [
+        {"diretor": "Rafael Vitale", "voto": "relator, declara a compatibilidade locacional dos cinco pedidos", "ts": "0:14:02", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "acompanha o relator (observa que não há trechos conflitantes)", "ts": "0:19:20", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "0:19:45", "confianca": "media"},
+        {"diretor": "Fábio Rogério", "voto": "de acordo com o relator, com ressalva de expectativa", "ts": "0:20:22", "justificativa": "se a outorga for confirmada pelo ministério, os autorizatários devem fazer jus à confiança estatal e desenvolver de fato infraestrutura e serviço, sem tratar o título como mero título para negociação futura", "tom": "cobrança de entrega efetiva, sem divergência", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.1.8", "ts": "0:21:11",
+      "processo": "50500.056568/2021-16 (número parcial)", "interessado": "SUCON",
+      "assunto": "Abertura de audiência pública sobre minutas de edital, contrato, PER e estudos de viabilidade para a concessão da BR-040/MG-RJ e BR-495/RJ (443 km), incluindo trecho devolvido pela Via 040; sessões presenciais com transmissão em Brasília, Rio de Janeiro, Juiz de Fora e Belo Horizonte",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "participação social"],
+      "relator": "Rafael Vitale", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Projeto qualificado no PPI e incluído no PND; concessão do Procofe (contrato de 1995) com ligação Rio-BH; estudos incorporam avanços regulatórios de processos anteriores; PGF considerou o processo apto. Recomenda à SUGOV revisar a resolução sobre participação social (a legenda cita 5.891, provável erro) para deliberação da diretoria.",
+      "votos": [
+        {"diretor": "Rafael Vitale", "voto": "relator, aprova abertura da audiência pública", "ts": "0:21:31", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "acompanha o relator", "ts": "0:25:10", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:25:13", "confianca": "media"},
+        {"diretor": "Fábio Rogério", "voto": "de acordo com o relator", "ts": "0:25:16", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.2.1", "ts": "0:25:36",
+      "processo": "50500.092501/2020-22 (número parcial)", "interessado": "SUPAS - novo marco regulatório do TRIP",
+      "assunto": "Relatório final da Audiência Pública 4/2020 e minuta de resolução sobre a prestação do serviço regular de transporte rodoviário coletivo interestadual de passageiros sob regime de autorização (novo marco do TRIP, substitui a Res. 4.770/2015), com ajuste na delegação de competência",
+      "tema": ["ônibus (transporte regular, TAR)", "regulação normativa", "participação social", "abertura de mercado", "segurança viária", "judicializacao"],
+      "relator": "Davi Barreto",
+      "resultado": "VENCIDO o relator: por empate (2 x 2) o Diretor-Geral desempatou e prevaleceu a divergência de Rafael Vitale, que devolve o processo à SUPAS (análise em até 180 dias, consulta interna a servidores, nova audiência pública e AIR sobre segurança e capacidade de fiscalização)",
+      "resumo_voto": "Relator (voto de cerca de 500 páginas, apresentado com slides): marco consolida a abertura de mercado da Lei 12.996/2014 e do Decreto 10.157/2019; estrutura em habilitação, cadastros e termo de autorização com objeto definido (linhas/pares de microrregiões, cerca de 1.800 outorgas em vez de 220 mil mercados e 4 mil linhas, segundo a legenda); idade máxima da frota de 15 anos e média de 10; indicadores mensais de desempenho (regularidade, qualidade, segurança, transparência) com perda da autorização; vedação de concentração acima de 30 mil viagens substituída por anuência prévia; vigência apenas em 01/04/2022 e período de adequação de 120 a 180 dias; processo teria 431 contribuições, quase 70% total ou parcialmente acolhidas. Divergência do DG: devolver à SUPAS para nova versão, nova audiência e AIR antes de implementar o marco.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "relator, aprova relatório e resolução do marco regulatório (mantém o voto após as objeções)", "ts": "0:25:42", "justificativa": "processo mais debatido da história da agência (tomada de subsídios, audiência pública, reunião participativa); abertura reduziu preço (-9%), idade média da frota (-15%) e aumentou empresas e municípios atendidos (dados da legenda); migração para regulação por resultado e controle a posteriori; transição segura; fiscalização do TRIP não deve ser pretexto para paralisar a norma, já que outros setores também têm limites de fiscalização", "tom": "técnico, defende rigor do processo e rejeita personalização; discorda da tese de incapacidade fiscalizatória", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "diverge do relator: devolve à SUPAS (até 180 dias) com consulta interna a servidores, nova audiência pública sobre a versão final e AIR demonstrando segurança do usuário e capacidade de fiscalizar", "ts": "1:26:34", "justificativa": "fragilidades de governança e de procedimento (processo reaberto e minutado em poucas horas em julho; mudanças do relator sem consulta à SUPAS; contribuições de servidores alterando a minuta sem passar pela sociedade); ressalvas da própria SUPAS em nota técnica (microrregiões, terminal coordenado, viabilidade operacional, tempo mínimo, gratuidades, art. 155 sobre concentração); dados de 6.316 acidentes e 1.254 mortes (2008-2020, segundo a legenda); auditoria operacional e denúncia no TCU sobre precarização e capacidade fiscalizatória da ANTT; reunião participativa 5/2021 revelou falha de governança regulatória; relata troca da chefia da SUPAS e acusações de interferência política", "tom": "enfático e de desabafo institucional; relata fatos como se fosse «deslealdade institucional»", "confianca": "alta"},
+        {"diretor": "Fábio Rogério", "voto": "acompanha o relator (favorável ao marco como veio), sem prejuízo de ajustes por voto-vista futuro", "ts": "1:44:17", "justificativa": "histórico de ampla discussão; se a cada tema polêmico o processo retorna, a evolução regulatória não acompanha o mercado; há período de adaptação para ajustes; cogitou pedir vista (inclusive para tratar autorização e fretamento em conjunto) mas decidiu votar; regulador não deve ter medo do controlador", "tom": "conciliador, de posição de princípio (simples, correto, bem feito)", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha a proposta de encaminhamento do Diretor-Geral (diverge do relator)", "ts": "2:02:12", "justificativa": "matéria de grande densidade e serviço essencial; voto do relator ficou pronto pouco antes da reunião; prudente retornar à área técnica para saneamento geral e evitar questionamentos posteriores", "tom": "cauteloso", "confianca": "alta"},
+        {"diretor": "Fábio Rogério", "voto": "reafirma o voto com o relator após as duas propostas em mesa", "ts": "2:03:34", "justificativa": "melhor ter um marco com transição e aprimoramentos ao longo do caminho do que reiniciar o processo e gerar insegurança jurídica que constrange investimentos e fiscalização", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "voto de desempate (voto de qualidade) pela divergência", "ts": "2:05:41", "justificativa": "empate entre as duas propostas; o DG desempatou com a própria proposta", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.3.1", "ts": "2:06:22",
+      "processo": "50500.108019/2014-44 (número parcial)", "interessado": "Renildo Pedro Allen Bichoff e Companhia Ltda. (microempresa, fretamento)",
+      "assunto": "Processo administrativo ordinário: aplicação de penalidade por uso de autorização de fretamento para transporte de mercadorias de procedência estrangeira apreendidas (fiscalização de 12/12/2013) e por transportar encomendas em condições indevidas",
+      "tema": ["ônibus (fretamento)", "fiscalização e sanções"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Infração enquadrada no art. 36, par. 1º e 5º, do Decreto 2.521/98 (cassação possível); sem auto de infração anterior ou histórico gravoso, o relator converte a cassação em multa alternativa de R$ 4.000 (Res. 5.083/2016 art. 65) e aplica também a multa da Res. 233/2003 para a segunda infração; empresa não apresentou defesa nem alegações finais.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aplica multa em lugar da cassação", "ts": "2:06:30", "justificativa": "ausência de gravidade suficiente e de histórico gravoso; proporcionalidade; PGF admite a cumulação de multas", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "acompanha o relator", "ts": "2:09:35", "confianca": "media"},
+        {"diretor": "Fábio Rogério", "voto": "de acordo com o relator", "ts": "2:09:40", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha", "ts": "2:09:45", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.3.2", "ts": "2:10:19",
+      "processo": "50500.064556/2020-13", "interessado": "SUINF - Regulamento das Concessões Rodoviárias (RCR), segunda norma (R2)",
+      "assunto": "Abertura de audiência pública (45 dias, de 26/11/2021 a 11/01/2022, com sessão presencial em 09/12) sobre minuta de resolução da segunda norma do RCR: bens, obras e serviços e adequação dos procedimentos de execução",
+      "tema": ["concessões rodoviárias", "regulação normativa", "participação social"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Após reunião participativa 3/2021 (julho) e análise de impacto regulatório, a norma R2 traz maior segurança jurídica, menos custo regulatório, transparência na fiscalização e recebimento de obras e na gestão dos contratos; contratos já celebrados migram por adesão, com regras mínimas.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova abertura da audiência pública", "ts": "2:10:29", "justificativa": "etapa do projeto de reformulação do marco das rodovias concedidas, com ampla participação social", "tom": "elogioso à equipe da SUINF", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "acompanha o relator, com elogios ao voto e à equipe", "ts": "2:15:44", "justificativa": "regulação rodoviária evolui incorporando lições aprendidas e participação social", "tom": "elogioso", "confianca": "alta"},
+        {"diretor": "Fábio Rogério", "voto": "acompanha o relator", "ts": "2:17:07", "justificativa": "contratos relacionais e mecanismos que privilegiam resultados; audiência como ato preparatório", "tom": "elogioso", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha (inferido da proclamação de unanimidade)", "ts": "2:17:10", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.3.3", "ts": "2:17:16",
+      "processo": "50500.098684/2021-41 (número parcial)", "interessado": "SUPAS - Rota das Emoções (MA, PI, CE)",
+      "assunto": "Proposta de súmula: transporte turístico em veículos off-road (categoria M1) cadastrados no Ministério do Turismo e autorizados por órgãos estaduais não configura transporte coletivo de passageiros e não se sujeita à regulação da ANTT (Res. 4.777/2015)",
+      "tema": ["ônibus (transporte turístico)", "regulação normativa", "turismo"],
+      "relator": "Guilherme Sampaio", "resultado": "vista coletiva (súmula); deliberação na próxima reunião",
+      "resumo_voto": "Reconhece a importância socioeconômica da Rota das Emoções, mas veículos M1 são transporte individual remunerado privado e fora da competência da ANTT, que regula transporte coletivo (categorias M2 e M3).",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, propõe a súmula", "ts": "2:17:28", "justificativa": "segurança jurídica e uniformidade de decisões futuras; ANTT não tem competência legal sobre transporte individual", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.3.4", "ts": "2:20:26",
+      "processo": "50500.096066/2021-67 (número parcial)", "interessado": "SUFER - futuras autorizatárias ferroviárias (Ministério da Infraestrutura)",
+      "assunto": "Minuta de contrato de adesão para exploração indireta de serviço de transporte ferroviário por autorização, com a ANTT como interveniente",
+      "tema": ["ferrovias", "autorizações ferroviárias", "regulação normativa"],
+      "relator": "Davi Barreto; voto-vista de Guilherme Sampaio", "resultado": "aprovado por unanimidade nos termos do relator",
+      "resumo_voto": "Apresentado na RD 919 (21/10/2021) por Davi Barreto, com vista de Guilherme Sampaio, que registra que a Rumo S.A. pediu ingresso como interessado e que o Ministério Público junto ao TCU questionou o tema; após parecer da PGF sem impedimento e risco considerado ordinário, o vistista acompanhou o relator integralmente (a questão dos critérios de desempate estaria prejudicada, pois a ANTT só avalia compatibilidade técnica).",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "relator, aprova a minuta do contrato de adesão", "ts": "2:20:40", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "voto-vista: acompanha integralmente o relator", "ts": "2:21:13", "justificativa": "diligenciou a PGF e a SUFER, que não viram impedimento; risco igual ao ordinário de atos sujeitos a controle externo", "confianca": "alta"},
+        {"diretor": "Fábio Rogério", "voto": "de acordo com o relator", "ts": "2:24:50", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "2:24:55", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.4.1", "ts": "2:25:20",
+      "processo": "50501.311650/2018-42 (número parcial)", "interessado": "Rota do Mar Viagens Ltda. e Viação Ouro e Prata S.A.",
+      "assunto": "Pedido de anuência prévia para transferência de mercados (linha São Luís/MA a Altamira/PA), operados por força de decisão judicial",
+      "tema": ["ônibus (transporte regular, TAR)", "judicializacao", "regulação normativa"],
+      "relator": "Fábio Rogério", "resultado": "pedido indeferido, aprovado por unanimidade",
+      "resumo_voto": "Os mercados haviam sido autorizados por decisão judicial sem cumprir os requisitos da Res. 4.770; o período mínimo de atendimento de 12 meses não foi cumprido (serviço paralisado, segundo o sistema), e a PGF (parecer 463) rejeitou os argumentos da empresa; relator acompanha a PGF e indefere.",
+      "votos": [
+        {"diretor": "Fábio Rogério", "voto": "relator, indefere o pedido de transferência", "ts": "2:25:47", "justificativa": "descumprimento de requisitos essenciais da Res. 4.770 (período mínimo de atendimento) e acolhimento do parecer da PGF", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "acompanha o relator", "ts": "2:28:00", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "2:28:05", "confianca": "media"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha o relator", "ts": "2:28:10", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.4.2", "ts": "2:28:28",
+      "processo": "50500.150539/2017-01 (número parcial)", "interessado": "Via Bahia Concessionária de Rodovias S.A.",
+      "assunto": "Abertura de audiência pública sobre a proposta da primeira e segunda revisões quinquenais do contrato de concessão (edital 1/2008); preliminar: pedido da concessionária (carta de 16/11/2021) de retirada de pauta por suposto fato novo (sentença da 6ª Vara Federal) e alegações de ausência de notificação e necessidade de refazer o cálculo da nota global",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "judicializacao", "participação social"],
+      "relator": "Fábio Rogério", "resultado": "preliminar de retirada de pauta indeferida; audiência pública aprovada por unanimidade",
+      "resumo_voto": "A carta de novembro repete quase integralmente a de 23/08/2021, já analisada pela área técnica e pela PGF; a discussão é sobre a metodologia da revisão quinquenal prevista em resolução de 2019 (validada socialmente), não traz fato novo e a audiência é apenas ato preparatório de transparência. Relator critica comportamento «oportunista, protelatório e atípico» da concessionária.",
+      "votos": [
+        {"diretor": "Fábio Rogério", "voto": "relator, indefere a preliminar e abre a audiência pública", "ts": "2:34:23", "justificativa": "agência reguladora não é instrumento de validação de pleitos da concessionária; segurança jurídica não se confunde com comportamento protelatório; processo existe desde 2016 e foi reanalisado", "tom": "enfático contra a concessionária", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "acompanha integralmente o relator", "ts": "2:36:00", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente o relator", "ts": "2:36:20", "justificativa": "processo bem instruído, saneado, diligenciado com idas e vindas; defende segurança jurídica a regulados de boa-fé mas aqui vê bom senso", "confianca": "alta"},
+        {"diretor": "Rafael Vitale", "voto": "acompanha integralmente o relator", "ts": "2:36:53", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática com muitos erros: nomes de empresas, números de processos (parciais) e dados (viagens, mercados, acidentes, percentuais) devem ser conferidos nos autos; a legenda confunde falantes (rótulo inicial atribui a abertura a Guilherme Sampaio, mas presidia Rafael Vitale).", "Item 2.1.1: a legenda cita o vistista como «revisor redator Fábio»; pelo contexto (pedido de vista na RDE 64 por quem conduzia a leitura dos itens) assumiu-se Rafael Vitale; verificar na ata.", "No item 2.2.1 as falas de Davi (resposta ao DG), de Fábio (dois momentos) e de Guilherme foram atribuídas pelo conteúdo e ordem; ts aproximados. O resultado (empate 2 x 2, voto de desempate do DG, processo devolvido à SUPAS) vem da fala do presidente aos 2:05; o voto vencedor será consubstanciado nos autos.", "Itens 2.1.3-2.1.7 votados em bloco; ts dos votos de seguidores aproximados.", "Parte reservada (processos sigilosos) não consta na transmissão."]
+}

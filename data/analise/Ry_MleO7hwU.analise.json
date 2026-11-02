@@ -1,0 +1,339 @@
+{
+ "meta": {
+  "video_id": "Ry_MleO7hwU",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "889",
+  "data": "2021-02-23",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Alexandre Porto (diretor-geral em exercício — inferido pelo padrão das RDs 887/909; baixa confiança)",
+  "diretores_presentes": [
+   "Weber Ciloni",
+   "Davi Barreto",
+   "Eduardo Marra",
+   "Marcelo Fonseca",
+   "Alexandre Porto"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 16h30 de 23/2/2021.",
+   "Reunião marcada pelo 13º aditivo da Nova Dutra, com prazo apertado (contrato terminava em 28/2/2021): primeiro voto vencido do período (Weber Ciloni).",
+   "Aprovação da ata das RDs 888 e extraordinária 66 no início."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1",
+   "ts": "0:06:19",
+   "processo": "50500.022208/2020-79",
+   "interessado": "SUGAD (gestão administrativa)",
+   "assunto": "Proposta de alteração do Regimento Interno (Res. 5.888/2020)",
+   "tema": [
+    "institucional",
+    "regulação normativa"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "Relator pediu retirada para esclarecer pontos técnicos e jurídicos (dúvidas sobre impactos contratuais) antes de decidir.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, pede retirada de pauta",
+     "ts": "0:06:30",
+     "justificativa": "dúvidas jurídicas e técnicas a esclarecer",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo com a retirada",
+     "ts": "0:06:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:06:58",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Fonseca",
+     "voto": "de acordo",
+     "ts": "0:07:02",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:07:06",
+     "justificativa": "presidente da sessão (inferido)",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:07:36",
+   "processo": "50500.139121/2020 (parcial)",
+   "interessado": "Ferrovia Norte-Sul (Rumo Malha Norte/VLI — concessionária; nome parcial na legenda)",
+   "assunto": "Reajuste das tarifas de referência do transporte ferroviário de cargas, período 1/1/2020 a 31/12/2020, variação do IGP-DI/FGV (23,07% segundo a legenda)",
+   "tema": [
+    "ferrovias",
+    "reajuste tarifário"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Reajuste pelo índice FGV conforme contrato; procuradoria sem óbice; concessionária adimplente.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:10:00",
+     "justificativa": "cálculo contratual, sem óbice jurídico",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:10:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:10:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Fonseca",
+     "voto": "de acordo",
+     "ts": "0:10:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo com o relator",
+     "ts": "0:10:30",
+     "justificativa": "presidente (inferido)",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.1.3",
+   "ts": "0:10:42",
+   "processo": "50500.005843/2002-172 (parcial)",
+   "interessado": "SUPAS — contrato de permissão 1/2015 (Taguá Transporte e Turismo, semiurbano interestadual)",
+   "assunto": "Reajuste de 1,033% (IPCA) sobre o coeficiente tarifário do serviço semiurbano interestadual, vigência a partir de 28/2/2021",
+   "tema": [
+    "ônibus (semiurbano)",
+    "reajuste tarifário"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Reajuste pelo IPCA/IBGE dos 12 meses anteriores (Res. 4.768/2015); novo coeficiente 0,114602 por passageiro-km (legenda); procuradoria favorável.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:13:00",
+     "justificativa": "cálculo conforme resolução; vigência ajustada ao calendário de reuniões",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:13:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:13:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Fonseca",
+     "voto": "de acordo",
+     "ts": "0:13:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:13:28",
+     "justificativa": "presidente (inferido)",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.1.4",
+   "ts": "0:13:44",
+   "processo": "50500.005454/2021-47",
+   "interessado": "SUPAS — autorização especial (semiurbano, Barueri etc.)",
+   "assunto": "Reajuste de 4,14% sobre o coeficiente tarifário dos serviços semiurbano interestadual e internacional operados por autorização especial; vigência a partir de 28/2/2021",
+   "tema": [
+    "ônibus (semiurbano)",
+    "reajuste tarifário"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Reajuste pela fórmula das Res. 2.130/2007 (alterada pelas Res. 774/2008 e 4.768/2015); novo coeficiente 0,118293 (legenda).",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:16:10",
+     "justificativa": "cálculo conforme resoluções",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:16:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:16:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Fonseca",
+     "voto": "de acordo",
+     "ts": "0:16:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:16:31",
+     "justificativa": "presidente (inferido)",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:16:43",
+   "processo": "50500.127986/2025 (número distorcido na legenda; processo de 2020/2021)",
+   "interessado": "Concessionária da Rodovia Presidente Dutra (Nova Dutra) — sustentação oral de associação de usuários (advogado Edson Araújo da Silva)",
+   "assunto": "13º termo aditivo ao contrato: extensão do prazo por 12 meses (prorrogável por períodos de 6 meses, máximo 24) por não conclusão da licitação da nova concessão (art. 32 da Lei 13.448/2017; Res. 5.926/2021)",
+   "tema": [
+    "concessões rodoviárias",
+    "pedágio",
+    "reequilíbrio contratual",
+    "judicializacao",
+    "leilão / otimização"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por maioria (vencido Weber Ciloni)",
+   "resumo_voto": "Aditivo prevê tarifa praticada (valor cobrado do usuário, igual à vigente) e tarifa calculada (só o necessário para custos de manutenção, conservação e operação), com a diferença depositada em conta vinculada que a concessionária não movimenta (anexo 2). Base: Portaria 3/2021 do Minfra (política tarifária da primeira etapa), art. 20 da Res. 5.926/2021, pareceres técnicos e jurídicos. Usuários alegaram afronta à modicidade tarifária, tarifa superestimada em relação ao novo estudo de viabilidade (≈ R$ 400 mi vs R$ 204 mi) e questionamento no TCU.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova o termo aditivo",
+     "ts": "0:34:45",
+     "justificativa": "legalidade (Lei 13.448 art. 32, Res. 5.926 art. 20 + Portaria 3/2021 do Minfra); risco de redução tarifária de cerca de 60% desviar tráfego da Ayrton Senna e comprometer a operação; conta vinculada impede ganho da concessionária; não há manifestação do TCU contra o aditivo, apenas representação da unidade técnica; cautelar não concedida antes de ouvir a ANTT",
+     "tom": "técnico-jurídico, rebate ponto a ponto a sustentação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "vencido — vota contra a minuta na forma apresentada",
+     "ts": "0:48:00",
+     "justificativa": "dúvidas: tarifa praticada parte de valor fixado sob liminar unilateral da concessionária (sem redutor); conta vinculada sem transparência e legislação específica, com ar de informalidade; sem tempo hábil para diligência dado o prazo curto; favorável ao aditivo se melhorado; concorda que o usuário deve pagar o que recebe de serviço",
+     "tom": "cauteloso, registra falta de tempo para instrução",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo com o relator",
+     "ts": "0:51:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Fonseca",
+     "voto": "de acordo com o relator",
+     "ts": "0:51:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "acompanha o relator",
+     "ts": "0:51:30",
+     "justificativa": "política pública devidamente motivada, amparo na Lei 10.233, cálculos técnicos e pareceres, conta vinculada permite gestão da ANTT",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:52:18",
+   "processo": "50500.025493/2020-80 (parcial)",
+   "interessado": "Concessionária da Rodovia Presidente Dutra",
+   "assunto": "25ª revisão ordinária, 16ª revisão extraordinária e reajuste da tarifa básica de pedágio da BR-116 (RJ-SP)",
+   "tema": [
+    "concessões rodoviárias",
+    "pedágio",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Davi Barreto (relator inferido pela numeração 2.2.x)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Revisão resulta em variação de -3,40% e reajuste IPCA de +2,13% (legenda); mantém no fluxo de caixa os valores de antecipação de projetos executivos por estarem suspensos judicialmente (decisão da 5ª Vara Federal de São Paulo, 24ª revisão); tarifas finais por praça citadas na legenda (ex.: R$ 14,20; R$ 3,50; R$ 6,20) com incerteza.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:57:36",
+     "justificativa": "acolhe análise da área técnica e orientação da procuradoria; tarifa para a extensão é a tarifa praticada nos termos do aditivo",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator no aspecto da revisão",
+     "ts": "0:57:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:57:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Fonseca",
+     "voto": "de acordo",
+     "ts": "0:57:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo com o relator",
+     "ts": "0:57:57",
+     "justificativa": "presidente (inferido)",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "2.1.1 — alteração do Regimento Interno (Res. 5.888/2020), SUGAD",
+   "relator": "Weber Ciloni",
+   "motivo": "dúvidas técnicas e jurídicas sobre impactos contratuais; retirado pelo próprio relator",
+   "ts": "0:06:19"
+  }
+ ],
+ "limites_da_analise": [
+  "Nomes dos diretores vêm das saudações da legenda (muito distorcidos): «Web Silone/Celoni» = Weber Ciloni; «Eduardo Marra»; «Mostra/Mochi/Muschi de Menezes» e «Marcelo Simão/Denor» tratados como Marcelo Fonseca (identificação incerta).",
+  "Votos de quem apenas «acompanha o relator» têm minuto aproximado (chamada nominal logo após o voto do relator).",
+  "Quem relatou o item 2.2.2 não é nítido na legenda; atribuído a Davi Barreto pela sequência de itens (2.2.x), com a ressalva de que o texto cita «o diretor Davi» em 3ª pessoa.",
+  "Papel do presidente da sessão e voto final (Alexandre Porto) inferidos; pode ser outro diretor.",
+  "Valores de tarifa e percentuais vêm da legenda automática e podem estar errados; número do processo 2.2.1 e da associação de usuários distorcidos.",
+  "Boa parte da longa exposição do relator e da sustentação oral foi resumida, não transcrita."
+ ]
+}

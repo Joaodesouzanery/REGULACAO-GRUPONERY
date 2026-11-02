@@ -1,0 +1,347 @@
+{
+ "meta": {
+  "video_id": "qTKOq7Jx1os",
+  "fonte": "legenda automática do YouTube; sem marcadores de falante confiáveis; ts = tempo do vídeo (cronometragem por busca no texto); ts de votos de quem só concorda são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "898",
+  "data": "2021-04-27",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Diretor-Geral (inferido: Alexandre Porto; relator do item 2.1.1)",
+  "diretores_presentes": [
+   "Weber Ciloni",
+   "Davi Barreto",
+   "Eduardo Marra",
+   "Menezes",
+   "Alexandre Porto"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Início do vídeo com ≈ 17 min de espera; sessão efetiva ≈ 0:17–0:59; encerrada às 15h39.",
+   "Abertura de vista coletiva do processo de alteração do Regimento (2.2.1), deliberado na RD 899.",
+   "Na ata anterior (RD 897) a abstenção de Weber é mencionada porque ele não estava presente."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1",
+   "ts": "0:18:52",
+   "processo": "50500.011445/2019-?? (nº incerto)",
+   "interessado": "SUGEA",
+   "assunto": "Aprovação do Plano Anual de Contratações (PAC) 2022 da ANTT",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "PAC inicial somava ≈ R$ 437 milhões com ≈ 98,5% comprometido (legenda); corte de ≈ 122 para ≈ 50 milhões em comitê, e novo corte (serviços de apoio eletrônico à fiscalização) após contingenciamento de ≈ R$ 41 milhões; previsão de superávit ≈ R$ 100 milhões (valores aproximados, legenda).",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, aprova",
+     "ts": "0:22:30",
+     "justificativa": "responsabilidade fiscal diante do orçamento de ≈ R$ 330 milhões e do contingenciamento",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:23:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:23:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:23:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:23:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:24:03",
+   "processo": "50500.006041/2020-81 (legenda)",
+   "interessado": "Gabinete do diretor Weber Ciloni / SUGEA",
+   "assunto": "Alteração do Regimento Interno (Res. 5.888/2020): recriação do CEDOC/gestão documental subordinado ao Diretor-Geral e subordinação da Secretaria-Geral à Diretoria Colegiada; vista coletiva (art. 121 RI)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "vista coletiva; deliberação na RD 899",
+   "resumo_voto": "Relator conclui, com parecer da PFE, que a mudança de competências é ato discricionário da diretoria; a estrutura atual não surtiu os efeitos desejados; propõe recriar o CEDOC.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, apresenta voto e propõe recriação do CEDOC",
+     "ts": "0:24:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "abre vista coletiva (art. 121 do RI)",
+     "ts": "0:31:26",
+     "justificativa": "processo será deliberado na próxima reunião",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:31:40",
+   "processo": "50500.134718/2018-01 (legenda)",
+   "interessado": "SUGPA / SUINF",
+   "assunto": "Audiência Pública 14/2019: relatório final e resolução do processo administrativo de extinção por caducidade de contratos de concessão rodoviária (art. 38 §2º, Lei 8.987/1995); revisão, voto do revisor Davi Barreto e requerimento de associação de usuários de rodovias concedidas",
+   "tema": [
+    "concessões rodoviárias",
+    "regulação normativa",
+    "participação social",
+    "fiscalização e sanções"
+   ],
+   "relator": "Menezes (relator); Davi Barreto (revisor)",
+   "resultado": "aprovado por unanimidade; requerimento da associação de usuários conhecido e desprovido",
+   "resumo_voto": "Davi acompanha o relator com três aprimoramentos (inciso VIII do art. 2º compatibilizado à Res. 5.927/2021; parágrafo 2º do art. 13 prevendo recurso à decisão final da Diretoria; ajuste do art. 19 remetendo à Res. 5.083/2016); rejeita as alegações da associação (questão de ordem protocolada em 14/04/2021).",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "voto-vista/revisor: acompanha o relator com 3 ajustes; nega provimento ao requerimento da associação",
+     "ts": "0:32:30",
+     "justificativa": "caducidade é extinção contratual técnica, não penalidade; participação social já ocorreu na audiência",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator (e o revisor)",
+     "ts": "0:35:00",
+     "justificativa": "preocupação com amplitude da divulgação; sugere ampla divulgação ao público de apurações de caducidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo com o revisor",
+     "ts": "0:39:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "relator, de acordo",
+     "ts": "0:39:50",
+     "justificativa": "aderiu às alterações do revisor",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:40:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:40:41",
+   "processo": "50500.013254/2020-33 (legenda)",
+   "interessado": "Concessionária Ponte Rio-Niterói (Ecoponte)",
+   "assunto": "Alteração da Res. 1.713/2006 para estender a restrição de tráfego de produtos perigosos à nova Avenida Portuária (viaduto elevado, trecho de acesso ao Porto do Rio)",
+   "tema": [
+    "concessões rodoviárias",
+    "regulação normativa"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Relator concorda com o mérito da SUINF mas entende que o instrumento correto é alterar a resolução (não uma deliberação interpretativa); risco de acidente em viaduto de pista simples com moradias próximas; urgência justifica dispensar AIR, participação social e período de vacância.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova (alterando a resolução, não por deliberação)",
+     "ts": "0:45:20",
+     "justificativa": "risco de acidente com inflamáveis em viaduto, moradias próximas, obra prestes a ser inaugurada",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:45:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:45:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:45:58",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:46:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.3",
+   "ts": "0:46:08",
+   "interessado": "SUPAS",
+   "assunto": "Alteração da estrutura gerencial da Superintendência de Serviços de Transporte Rodoviário de Passageiros (Deliberação 270/2020): gerências por processos, sem criar novas gerências",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "institucional"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Reorganização sem custo adicional: centralizar formação/revisão de marcos regulatórios do TRIP (regular, fretamento, semiurbano) e monitoramento com dados.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:48:30",
+     "justificativa": "melhoria de processos; monitoramento mais robusto na abertura de mercado",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo, com perguntas",
+     "ts": "0:49:00",
+     "justificativa": "dúvida sobre gerência com assuntos distintos; cobrou agilidade na conclusão dos grupos de trabalho (fretamento/semiurbano)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:53:59",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:54:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:54:06",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.4.1",
+   "ts": "0:54:21",
+   "processo": "50500.047751/2020-89",
+   "interessado": "Autopista Fernão Dias S.A.",
+   "assunto": "13ª revisão ordinária, 13ª revisão extraordinária e reajuste da tarifa básica de pedágio (BR-381 MG/SP): tarifa reajustada de R$ 2,27 para R$ 2,28; arredondada e mantida em R$ 2,30, vigência a partir de 19/12/2020",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "reajuste tarifário"
+   ],
+   "relator": "Eduardo Marra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Análises da GEFIR e GEEF; PFE favorável; efeitos combinados mantêm a tarifa em R$ 2,30.",
+   "votos": [
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "relator, aprova",
+     "ts": "0:56:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:56:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:56:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:56:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:56:45",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3.1",
+   "ts": "0:57:04",
+   "processo": "50500.112392/2013-19",
+   "assunto": "Despacho: pedido de prazo adicional de 30 dias para conclusão de diligência (art. 54 §2º RI); processo de 2017, terceira prorrogação",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "",
+   "resultado": "aprovado por unanimidade (concedido)",
+   "resumo_voto": "Prazo concedido com ressalva de pedir mais celeridade.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo, com ressalva",
+     "ts": "0:58:28",
+     "justificativa": "terceira prorrogação de processo de 2017; pede maior celeridade e encerramento",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:58:42",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:58:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:58:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:58:54",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Primeiros 17 minutos do vídeo sem conteúdo (espera).",
+  "Nomes de diretores na legenda são muito distorcidos (ex.: «Weber Ciloni» aparece como «Velho esse nome», «Vélo Simone», «Cilloni»; «Menezes» como «tomou chá de Menezes»); a identificação segue a ordem de votação e as saudações. O rótulo de falante «Marcelo Fonseca»/«Guilherme Sampaio» nas partes inferidas do .md é errado nestas reuniões.",
+  "Presidente inferido (Alexandre Porto), baixa confiança; Menezes foi apresentado como relator do 2.3.1 pelo presidente e por Davi (sobrenome Menezes captado; prenome incerto).",
+  "Números de processo e valores (PAC 2022: R$ 437 mi, 98,5%, cortes, superávit R$ 100 mi; tarifa R$ 2,27/2,28/2,30) vêm da legenda e podem conter erros.",
+  "Quem fez a observação sobre divulgação ampla/transparência da caducidade no 2.3.1 é incerto (atribuída a Weber com baixa confiança)."
+ ]
+}

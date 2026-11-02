@@ -1,0 +1,148 @@
+{
+ "meta": {
+  "video_id": "KFIPj15oozg",
+  "fonte": "legenda automática do YouTube; sem marcadores de falante confiáveis; ts = tempo do vídeo (cronometragem por busca no texto); ts de votos de quem só concorda são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "885",
+  "data": "2021-01-18",
+  "formato": "videoconferência (pandemia, Lei 13.979/2020)",
+  "presidente_da_sessao": "Diretor-Geral (nome não captado; provável Marcelo Vinaud, baixa confiança)",
+  "diretores_presentes": [
+   "Weber Ciloni",
+   "Davi Barreto",
+   "Eduardo Marra",
+   "Marcelo Vinaud"
+  ],
+  "ausentes": [
+   "Alexandre Porto (férias, informado na abertura)"
+  ],
+  "observacoes": [
+   "Primeira reunião de 2021; encerrada às 15h54. 3 itens deliberativos além da ata (RD 884, aprovada).",
+   "Davi Barreto pediu vista do acordo de cooperação com a OCB (2.2.1); o voto-vista foi apresentado na RD 895 (06/04/2021)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1",
+   "ts": "0:03:11",
+   "processo": "50500.117347/2020-80 (nº incerto na legenda)",
+   "interessado": "Ferrovia Centro-Atlântica S.A. (FCA)",
+   "assunto": "Homologação do reajuste das tarifas de referência do transporte ferroviário de cargas da FCA, ≈ 30,06% (IGP-DI/FGV; legenda diz «30 e 1,06 por cento» / «30 e dar os seis»), período 01/09/2017 a 31/08/2020, conforme cláusula 8.1 do contrato",
+   "tema": [
+    "ferrovias",
+    "reajuste tarifário"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Superintendência constatou adimplência da concessionária; cálculo via NT com variação do IGP; homologação nos termos da minuta de deliberação.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova a homologação",
+     "ts": "0:03:50",
+     "justificativa": "concessionária adimplente; reajuste previsto em contrato (IGP)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:05:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:05:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:05:38",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:05:53",
+   "processo": "50500.025645/2020-44",
+   "interessado": "Organização das Cooperativas Brasileiras (OCB)",
+   "assunto": "Proposta de acordo de cooperação técnica ANTT–OCB para apoio ao cadastro de transportadores no RNTRC (cargas) e sistemas de passageiros (integração de sistemas e validação de cooperativas)",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "ônibus (transporte regular, TAR)",
+    "institucional"
+   ],
+   "relator": "Eduardo Marra",
+   "resultado": "vista (pedido de vista por Davi Barreto; ver RD 895)",
+   "resumo_voto": "Relator: acordo ajuda a ANTT a cumprir competências, permite interligar sistemas e validar o registro de cooperativas; voto pela aprovação da minuta e do plano de trabalho.",
+   "votos": [
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "relator, aprova o acordo",
+     "ts": "0:06:30",
+     "justificativa": "melhor organização do mercado e eficiência do RNTRC",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "pede vista",
+     "ts": "0:08:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:08:23",
+   "processo": "50500.039324/2019 (nº incerto)",
+   "interessado": "SUROC",
+   "assunto": "Atualização do anexo 2 da Resolução 5.867/2020 (coeficientes do piso mínimo do frete por quilômetro rodado/eixo carregado, PNPM-TRC): reajuste pelo IPCA acumulado e pelo preço do diesel S-10",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "regulação normativa"
+   ],
+   "relator": "Eduardo Marra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Reajuste decorre de obrigação legal (art. 5º, §1º, Lei 13.703/2018; publicação até 20 de janeiro); parceria com a USP encerrada em 2020 e nova só em março; AIR e participação social dispensadas por se tratar de aplicação de lei.",
+   "votos": [
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "relator, aprova o reajuste",
+     "ts": "0:12:40",
+     "justificativa": "ato vinculado à Lei 13.703/2018, sem discricionariedade técnica; AIR/participação social desnecessárias",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:13:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:13:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:13:52",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Cronometragem: ts de itens por busca no texto; ts dos votos aproximados.",
+  "Nomes de diretores na legenda são muito distorcidos (ex.: «Weber Ciloni» aparece como «Velho esse nome», «Vélo Simone», «Cilloni»; «Menezes» como «tomou chá de Menezes»); a identificação segue a ordem de votação e as saudações. O rótulo de falante «Marcelo Fonseca»/«Guilherme Sampaio» nas partes inferidas do .md é errado nestas reuniões.",
+  "Presidente da sessão não nomeado na legenda; a abertura informa que Alexandre Porto está em férias, portanto o presidente é outro diretor (suposição: Marcelo Vinaud, baixa confiança).",
+  "Valores e números de processo da legenda são pouco confiáveis (reajuste da FCA ≈ 30,06%; período 2017–2020).",
+  "Voto de Davi Barreto no 2.2.1 é pedido de vista, não voto de mérito."
+ ]
+}

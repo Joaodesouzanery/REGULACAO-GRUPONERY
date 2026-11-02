@@ -1,0 +1,147 @@
+{
+ "meta": {
+  "video_id": "L0gqTrnmc4w",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "900",
+  "data": "2021-05-11",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Alexandre Porto (diretor-geral em exercício — inferido; baixa confiança)",
+  "diretores_presentes": [
+   "Alexandre Porto",
+   "Weber Ciloni",
+   "Davi Barreto",
+   "Eduardo Marra",
+   "Marcelo Fonseca"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 15h17 (parte pública); fala de abertura começa em 0:07.",
+   "Última reunião de Weber Ciloni na diretoria; cerca de metade do vídeo é de despedida.",
+   "Pauta pública com um único processo deliberativo (cargos comissionados); 2 itens reservados."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1",
+   "ts": "0:10:22",
+   "processo": "50500.015235/2020-95 (parcial)",
+   "interessado": "SUGEP (gestão de pessoas)",
+   "assunto": "Resolução interna: requisitos e procedimentos para ocupação de cargos comissionados (Decretos 9.727/2019 e 9.916/2019) e alocação de cargos de Chefe de Projetos Especiais",
+   "tema": [
+    "institucional",
+    "regulação normativa"
+   ],
+   "relator": "Alexandre Porto (presidente; inferido)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Norma aprimora a minuta da área de pessoas: amplia a exigência de nível superior, define condições para coordenador/gerente/superintendente, admite equiparação entre carreiras do serviço público e da iniciativa privada, processo seletivo como opção e ajusta percentuais por função.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, aprova",
+     "ts": "0:13:31",
+     "justificativa": "governança pública e conformidade com os Decretos 9.727/2019",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:13:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:13:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:13:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Fonseca",
+     "voto": "de acordo",
+     "ts": "0:14:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:09:37",
+   "processo": "50500.306425/2018-94 (parcial)",
+   "interessado": "proposta de aplicação de penalidade (reservado)",
+   "assunto": "Processo administrativo sancionador com pedido de vista da diretoria-geral (reservado; julgado ao final)",
+   "tema": [
+    "fiscalização e sanções"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "reservado — sem conteúdo na transmissão",
+   "resumo_voto": "Julgamento reservado.",
+   "votos": []
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:09:50",
+   "processo": "50500.024694/2014 (parcial)",
+   "interessado": "pedido de recurso contra decisão 126 (reservado)",
+   "assunto": "Recurso reservado",
+   "tema": [
+    "fiscalização e sanções"
+   ],
+   "relator": "não identificado",
+   "resultado": "reservado — sem conteúdo na transmissão",
+   "resumo_voto": "Julgamento reservado.",
+   "votos": []
+  },
+  {
+   "id": "despedida",
+   "ts": "0:14:36",
+   "processo": "—",
+   "interessado": "Diretor Weber Ciloni",
+   "assunto": "Despedida do diretor Weber Ciloni (saída da diretoria) e homenagens",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "—",
+   "resultado": "sem deliberação",
+   "resumo_voto": "Weber agradeceu, disse ter atuado sem postura subserviente e com respeito ao regime especial da autarquia; Alexandre Porto, Davi Barreto, Marcelo Fonseca, Eduardo Marra, secretária-geral e procuradora o homenagearam: elogiam franqueza, divergência técnica e respeito.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "despedida",
+     "ts": "0:14:36",
+     "justificativa": "sucesso não é o fim; sempre colocou os interesses da agência e dos usuários em primeiro lugar",
+     "tom": "emotivo, firme",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "homenagem",
+     "ts": "0:19:00",
+     "justificativa": "destaca divergências sempre francas e honestas que convergem para um bem comum",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "homenagem",
+     "ts": "0:21:30",
+     "justificativa": "chama Weber de professor de coragem e franqueza; trouxe o bom combate",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Nomes dos diretores vêm das saudações da legenda (muito distorcidos): «Web Silone/Celoni» = Weber Ciloni; «Eduardo Marra»; «Mostra/Mochi/Muschi de Menezes» e «Marcelo Simão/Denor» tratados como Marcelo Fonseca (identificação incerta).",
+  "Votos de quem apenas «acompanha o relator» têm minuto aproximado (chamada nominal logo após o voto do relator).",
+  "Presidente da sessão inferido (Alexandre Porto).",
+  "Reunião curta, sem conteúdo regulatório relevante além do item interno de cargos comissionados."
+ ]
+}
