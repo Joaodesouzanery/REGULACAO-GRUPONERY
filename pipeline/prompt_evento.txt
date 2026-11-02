@@ -1,0 +1,17 @@
+Você analisa EVENTOS PÚBLICOS da agência (audiência pública, reunião participativa, workshop, «Caminho dos Romeiros») para o repositório /home/user/REGULACAO-GRUPONERY (não faça git commit/push; só escreva os arquivos pedidos). Objetivo: registrar o que os DIRETORES da agência disseram e fizeram, com evidência literal e minuto, para perfis analíticos por diretor e tema.
+Para cada video_id da sua lista:
+1) Leia data/analise_eventos/<id>.md (resumo: abertura, janelas em torno de menções a diretores, encerramento; marcadores [h:mm:ss]). Se for grande (Read limita ~25k tokens), divida: python3 -I pipeline/split.py data/analise_eventos/<id>.md /tmp/evt_partes/<id> 40000 e leia as partes. Para achar o minuto exato de uma frase use data/transcricoes/<id>.json (lista de {t,d,x}; t em segundos) com python -I.
+2) Escreva data/analise_eventos/<id>.evento.json com este esquema (JSON válido; NUNCA aspas duplas dentro de strings: use « » ou aspas simples):
+{"meta":{"video_id":"<id>","fonte":"legenda automática do YouTube","versao_esquema":1},
+ "evento":{"tipo":"audiencia|participativa|workshop|romeiros","numero":"ex.: 04/2026","titulo":"...","data":"AAAA-MM-DD","local":"cidade/UF ou virtual/híbrido","objeto":"o que está em debate (projeto, norma, concessão, contrato)","processo":"número se citado, senão null","tema":["etiquetas livres em português, ex.: concessões rodoviárias, pedágio free flow, ônibus (fretamento), ferrovias, transporte de cargas, regulação normativa, sandbox / inovação, participação social, sustentabilidade, fiscalização e sanções"],
+   "presidiu":"nome de quem presidiu/conduziu a sessão (cargo)","diretores_presentes":["nomes canônicos de diretores/diretor-geral que aparecem como presentes ou falantes (não servidores/superintendentes)"],
+   "participantes_externos":["entidades/empresas/órgãos que se manifestaram (nome curto)"],
+   "resumo":"3-6 frases: o que foi apresentado e debatido",
+   "posicoes":[{"quem":"entidade ou pessoa","posicao":"o que defendeu/criticou","ts":"h:mm:ss"}],
+   "encaminhamentos":["compromissos, prazos, próximos passos anunciados"]},
+ "falas_diretores":[{"diretor":"nome canônico","ts":"h:mm:ss","tema":["..."],"tipo":"abertura|esclarecimento|resposta|compromisso|crítica|encerramento|outro","resumo":"o que disse, em 1-2 frases","trecho":"citação literal curta (≤ 300 caracteres) copiada da transcrição","confianca":"alta|media|baixa"}],
+ "limites_da_analise":["incertezas: nomes de falantes inferidos, trechos ilegíveis, partes não cobertas"]}
+Regras: só registre como fala de DIRETOR quem for diretor/diretor-geral/diretor substituto da agência na época (superintendentes, procuradores, ouvidores e gerentes NÃO são diretores: se importarem, coloque em participantes_externos ou no resumo, com o cargo). Diretores em 2026: Guilherme Sampaio (Diretor-Geral), Felipe Queiroz, Lucas Asfor, Alex Azevedo, e substitutos Severino Medeiros, Alessandro Baumgarten, Marcelo Fonseca (a partir de 27/08/2026), Amaral Filho (2025). A legenda é automática e não identifica falantes: infira por saudações, apresentações e contexto, com confiança baixa quando incerto. Não invente: se o diretor não aparece, falas_diretores = [] e explique em limites_da_analise. Mantenha trecho literal fiel à legenda (pode ter erros de ASR).
+3) Valide: python3 -I pipeline/validar_evento.py 2>&1 | grep -v '^ok' (corrija até sumirem os erros dos seus arquivos). Não rode 05_indexar.py.
+No final responda em 3 linhas: ids concluídos, nº de falas de diretores por evento, dúvidas.
+Sua lista de video_ids:
