@@ -1,0 +1,165 @@
+{
+ "meta": {
+  "video_id": "blOL4WURQD0",
+  "fonte": "legenda automática do YouTube; falantes inferidos (sem marcação de falante); ts de votos de quem só concorda aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "907",
+  "data": "2021-06-29",
+  "formato": "videoconferência (pandemia)",
+  "presidente_da_sessao": "Presidente da sessão (não identificado)",
+  "diretores_presentes": [
+   "Davi Barreto",
+   "Eduardo Marra",
+   "Menezes (nome incerto)",
+   "Presidente da sessão (não identificado)"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Reunião curta (encerrada às 14h42): ata da RD 906 aprovada por unanimidade (Davi Barreto, Eduardo Marra, Menezes e o presidente da sessão).",
+   "Dois itens deliberados (1.1 Ecoponte e 2.2.1 Transnordestina, ambos unânimes) e um retirado de pauta pelo relator (2.3.1, RNTRC)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1",
+   "ts": "0:01:00",
+   "processo": "não legível na legenda",
+   "interessado": "Concessionária Ponte Rio-Niterói (Ecoponte)",
+   "assunto": "Quinta revisão ordinária, sétima revisão extraordinária e reajuste da tarifa básica de pedágio da Ecoponte (BR-101/RJ, acesso à Ponte Presidente Costa e Silva)",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "pedágio / tarifa"
+   ],
+   "relator": "Presidente da sessão (não identificado)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Relator (presidente da sessão, “itens de minha relatoria”) expõe análises de fiscalização (nota técnica 2616) e econômico-financeira (notas 1456 e 2520; relatório 283), parecer favorável da Procuradoria; conclui por reajuste de 6,52% na tarifa, de R$ 4,60 para R$ 4,90 (já arredondado).",
+   "votos": [
+    {
+     "diretor": "Presidente da sessão (não identificado)",
+     "voto": "relator, aprova",
+     "ts": "0:01:00",
+     "justificativa": "parecer técnico (SUROD) e jurídico favoráveis; reajuste de 6,52% (R$ 4,60 para R$ 4,90)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:03:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:03:43",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Menezes (nome incerto)",
+     "voto": "de acordo",
+     "ts": "0:03:46",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:03:55",
+   "processo": "50500.137537/2020-13 (legenda; incerto)",
+   "interessado": "Ferrovia Transnordestina Logística S.A. (FTL) / Rumo Malha Central (direito de passagem)",
+   "assunto": "Reajuste das tarifas de referência de frete ferroviário da FTL (períodos 2015 a nov/2020) e do direito de passagem na malha Central (jan/2017 a nov/2020), por IPCA",
+   "tema": [
+    "ferrovias",
+    "reajuste tarifário"
+   ],
+   "relator": "Eduardo Marra",
+   "resultado": "aprovado por unanimidade — homologação da nova tabela tarifária",
+   "resumo_voto": "Com base na súmula 07/2020 da Diretoria e parecer da Procuradoria (prescrição do período anterior a 2015; reajustes de concessões ferroviárias homologados de ofício), a área técnica calculou reajuste pelo IPCA/IBGE; percentuais ouvidos na legenda: 36,9% (dez/2015 a nov/2020, 1º TA) e 14,8% (direito de passagem, jan/2017 a nov/2020, 3º TA) — números incertos. Relator vota por homologar a tabela.",
+   "votos": [
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "relator, homologa",
+     "ts": "0:04:20",
+     "justificativa": "súmula 07/2020, parecer da Procuradoria e cálculo por IPCA",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:07:37",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Menezes (nome incerto)",
+     "voto": "de acordo",
+     "ts": "0:07:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Presidente da sessão (não identificado)",
+     "voto": "de acordo",
+     "ts": "0:07:45",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:07:52",
+   "processo": "50500.064598/2020-54 (legenda; incerto)",
+   "interessado": "SUROC / SUROD (RNTRC)",
+   "assunto": "Audiência Pública 8/2020: relatório final e minuta de resolução sobre inscrição e manutenção no RNTRC",
+   "tema": [
+    "transporte rodoviário de cargas",
+    "regulação normativa",
+    "participação social"
+   ],
+   "relator": "Menezes (nome incerto)",
+   "resultado": "retirado de pauta pelo relator (aprovada a retirada por unanimidade)",
+   "resumo_voto": "Relator pede retirada de pauta porque surgiu «argumento novo» que quer estudar antes de recolocar o processo para deliberação.",
+   "votos": [
+    {
+     "diretor": "Menezes (nome incerto)",
+     "voto": "relator, pede retirada de pauta",
+     "ts": "0:08:23",
+     "justificativa": "surgiu argumento novo a estudar",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo com a retirada",
+     "ts": "0:08:39",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo com a retirada",
+     "ts": "0:08:42",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Presidente da sessão (não identificado)",
+     "voto": "de acordo com a retirada",
+     "ts": "0:08:45",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "2.3.1 — AP 8/2020, relatório final e minuta sobre RNTRC",
+   "relator": "Menezes (nome incerto)",
+   "motivo": "argumento novo a estudar antes de nova deliberação",
+   "ts": "0:08:23"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática sem marcação de falante; nomes de diretores distorcidos (Davi Barreto, «Eduardo Marra» e «Menezes» ouvidos assim; a identidade real de Marra e Menezes e a do presidente da sessão não foram confirmadas).",
+  "Números de processo e percentuais da Transnordestina parciais/incertos.",
+  "Item 2.2.1: legenda mistura «frete rodoviário» e ferroviário; interpretado como ferroviário pelo contexto (FTL, direito de passagem malha Central).",
+  "Ts dos votos de seguidores aproximados (sequência de «de acordo» ao final de cada item)."
+ ]
+}
