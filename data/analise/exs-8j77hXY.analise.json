@@ -1,0 +1,215 @@
+{
+ "meta": {
+  "video_id": "exs-8j77hXY",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "869",
+  "data": "2020-08-25",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "não claro: Diretor-Geral em exercício estava ausente (legenda registra «marcelo ... não está presente»); sessão conduzida por outro diretor",
+  "diretores_presentes": [
+   "Davi Barreto",
+   "Alexandre Porto",
+   "Eduardo Marra"
+  ],
+  "ausentes": [
+   "Marcelo Vinaud (Diretor-Geral em exercício)"
+  ],
+  "observacoes": [
+   "Encerrada às 16h11 (legenda).",
+   "Reunião curta (~24 min); trecho inicial (0:00–0:05:27) não está na legenda disponível.",
+   "A legenda mostra apenas 3 diretores votando; Weber Ciloni não aparece."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.2",
+   "ts": "0:05:27",
+   "processo": "50500.0?4?/2020-73 (parcial na legenda)",
+   "interessado": "Superintendência de Governança, Planejamento e Articulação Institucional (SUGOV)",
+   "assunto": "Resolução sobre atos públicos de liberação de atividades econômicas, sua classificação de risco e prazos máximos de análise, nos termos do Decreto 10.178/2019 (MP da Liberdade Econômica)",
+   "tema": [
+    "regulação normativa",
+    "institucional"
+   ],
+   "relator": "não identificado na legenda",
+   "resultado": "pedido de vista (adiado); prazo do decreto vence no começo de setembro",
+   "resumo_voto": "Relator lê voto aprovando a minuta de resolução: Procuradoria entendeu que a aprovação tácita e a definição de atos públicos valem para autorizações de livre iniciativa e para atos conexos; classificação em risco nível 1 (baixo), 2 (médio) e 3 (alto); prazos fixados pelas áreas técnicas; dispensa de AIR e de participação social por tratar de simplificação (Decreto 10.411, art. 4º, VII). Um diretor pede vista por dúvida sobre enquadrar as autorizações do art. 21 da Constituição como atividade econômica.",
+   "votos": []
+  },
+  {
+   "id": "2.1.3",
+   "ts": "0:12:33",
+   "processo": "50500.026234/2007-?? (parcial)",
+   "interessado": "SUPAS e Superintendência de Transporte Ferroviário",
+   "assunto": "Alteração da Res. 5.893/2020: prorroga por 90 dias, até 31/08/2020 (legenda), as medidas de enfrentamento da covid-19 nos serviços rodoviário interestadual e ferroviário de passageiros; inclui parágrafo sobre atualização de quadros de horários do semiurbano",
+   "tema": [
+    "ônibus (semiurbano)",
+    "ônibus (transporte regular, TAR)",
+    "ferrovias",
+    "regulação normativa"
+   ],
+   "relator": "não identificado com segurança (diretor-relator)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Mantém as condições que motivaram a resolução; obriga atualização do quadro de horários do serviço semiurbano mais perto da alteração, pois muitas empresas atualizam sem a celeridade necessária (Res. 5.161/2019 prevê antecedência de 10 a 15 dias). Dispensa AIR e participação social.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:16:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:16:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:16:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo / provável relator",
+     "ts": "0:16:15",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:16:58",
+   "processo": "50500.027869/2016-?? (parcial)",
+   "interessado": "SUGOV",
+   "assunto": "Revogação das Resoluções 5.878/2020 e 5.882/2020 (suspensão de prazos processuais em processos administrativos sancionadores durante a covid-19, Res. 5.083/2016)",
+   "tema": [
+    "fiscalização e sanções",
+    "regulação normativa"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "As resoluções se baseavam na MP 928/2020, que não foi convertida em lei e perdeu vigência em 20/07/2020; áreas técnicas apontam necessidade de revogação, com efeitos a partir da publicação.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:18:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:18:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:18:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:18:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:19:55",
+   "processo": "50500.152827/2015-05 (parcial)",
+   "interessado": "Via Sul Concessionária das Rodovias Integradas do Sul S.A. (Viasul)",
+   "assunto": "Aplicação de escritura pública para desapropriação das áreas necessárias às obras do acesso à BR-386/RS (Montenegro/RS)",
+   "tema": [
+    "concessões rodoviárias"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Processo já aprovado em reunião eletrônica, mas faltou assinatura de um voto; por questão de ordem a leitura é dispensada. Votos de acordo, inclusive Eduardo Marra.",
+   "votos": [
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:20:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:20:35",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:20:38",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3 e 2.2.4",
+   "ts": "0:22:57",
+   "processo": "50500.006898/2019-?? (2.2.3); Viação Ouro e Prata S.A. (2.2.4)",
+   "interessado": "Processos de eletrônica (incluem Viação Ouro e Prata S.A.)",
+   "assunto": "Retirada de pauta de dois processos já votados na reunião eletrônica, para análise com todos os diretores",
+   "tema": [
+    "institucional",
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Alexandre Porto (provável: autor do pedido)",
+   "resultado": "retirados de pauta por unanimidade",
+   "resumo_voto": "Relator pede retirada porque (1) a pauta eletrônica coincidiu com a nova norma que determina ordem cronológica e eram centenas de pedidos; (2) o Diretor-Geral em exercício estava ausente e mudanças nas diretorias podem gerar problema na votação, pois o voto do diretor já estava dado no eletrônico. Voltam na próxima reunião com diretoria completa.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, pede retirada de pauta",
+     "ts": "0:22:00",
+     "justificativa": "tempo para analisar; composição incompleta da diretoria",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:23:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:23:35",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "2.2.3 — processo sobre pedido do tipo 500.006898/2019 (retirado após pedido do relator)",
+   "relator": "Alexandre Porto (provável)",
+   "motivo": "ordem cronológica nova + ausência do DG em exercício; mudanças na diretoria",
+   "ts": "0:22:57"
+  },
+  {
+   "item": "2.2.4 — Viação Ouro e Prata S.A.",
+   "relator": "idem",
+   "motivo": "idem",
+   "ts": "0:23:15"
+  }
+ ],
+ "limites_da_analise": [
+  "Os nomes dos diretores na legenda saem muito distorcidos (ex.: «Vera Simone», «deve silonio» = Weber Ciloni; «Menezes», «amarra», «mancha de menezes» = provavelmente Eduardo Marra; «Marcelo vinor/renovo» = Marcelo Vinaud); atribuição por contexto e pela ordem das votações.",
+  "O rótulo de falante {Marcelo Fonseca} no .md é erro da inferência automática: quem preside é o Diretor-Geral em exercício Marcelo Vinaud.",
+  "A legenda não traz número de item de forma confiável; ids seguem o que se ouve na leitura da secretaria.",
+  "Esta é a transmissão com id exs-8j77hXY; o id 4UzP7r_IPVA é duplicata (curta, 810 s).",
+  "Os 5 primeiros minutos não têm legenda; identificação dos relatores e das numerações dos itens é fraca. Confiança baixa para relator dos itens 2.1.2, 2.1.3 e 2.2.2.",
+  "Falantes identificados apenas por saudações «de acordo» (Barreto, Porto, Marra); o pedido de vista do 2.1.2 não indica nome."
+ ]
+}

@@ -1,0 +1,324 @@
+{
+ "meta": {
+  "video_id": "Y2XuL68vXN4",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "867",
+  "data": "2020-08-04",
+  "formato": "videoconferência (Teams) transmitida no YouTube, por causa da covid-19",
+  "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral em exercício)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Davi Barreto",
+   "Weber Ciloni",
+   "Alexandre Porto",
+   "Eduardo Marra"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Ata da reunião anterior aprovada por todos.",
+   "Dois processos disciplinares da Corregedoria (2.1.2 e 2.3.1 na leitura) foram julgados reservadamente ao final.",
+   "Aprovação do relatório da AP da BR-381/262 e do reequilíbrio da Autopista Litoral Sul (Contorno de Florianópolis) foram os itens centrais; o último foi aprovado por maioria."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1",
+   "ts": "0:13:08",
+   "processo": "50500.316231/2019-98 (número parcial na legenda)",
+   "interessado": "SUINF / Ministério da Infraestrutura",
+   "assunto": "Aprovação do relatório da Audiência Pública nº 10/2019 (minutas de edital, contrato, PER e estudos de viabilidade) para concessão da BR-381/MG e BR-262/MG/ES (≈ 686 km, 30 anos) e encaminhamento do plano de outorga ao Ministério da Infraestrutura",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização",
+    "participação social"
+   ],
+   "relator": "Relator não identificado com segurança na legenda (aparece como “diretor-relator”)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Relatório da AP aprovado e plano de outorga enviado ao ministério; estudos revisados após questionamentos do TCU e efeitos da covid-19 (projeção de PIB e tráfego); reclassificação tarifária de 30% para 40% em pista dupla; mecanismo de mitigação de receita no primeiro ciclo de investimentos; critério de leilão híbrido (menor tarifa com deságio limitado e maior outorga), outorga variável sobre receita bruta, proteção cambial e acordo tripartite.",
+   "votos": [
+    {
+     "diretor": "Relator (não identificado)",
+     "voto": "relator, aprova",
+     "ts": "0:13:23",
+     "justificativa": "voto por aprovar o relatório da AP e encaminhar o plano de outorga",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:19:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:19:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:19:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:19:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:20:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:20:06",
+   "processo": "50500.0197175/2019 (número parcial)",
+   "interessado": "SUDER (Superintendência de Gestão Administrativa)",
+   "assunto": "Inclusão de quatro itens no Plano Anual de Contratações (PAC) 2020: consultoria para estruturação de escritório de processos (≈ R$ 1 milhão), monitores para videoconferência (≈ R$ 129 mil), item técnico de vídeo (≈ R$ 50 mil) e investigações complementares na região de subsidência da BR-040/RJ (≈ R$ 1,5 milhão)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Relator não identificado (legenda)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Inclusão autorizada com base no art. 11 da IN SEGES/ME 11/2019, pois a demanda não era previsível quando o PAC foi elaborado; atualização no sítio da agência.",
+   "votos": [
+    {
+     "diretor": "Relator (não identificado)",
+     "voto": "relator, aprova",
+     "ts": "0:21:00",
+     "justificativa": "demanda imprevisível na elaboração do PAC; art. 11 da IN 11/2019",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:22:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:22:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:22:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:22:45",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:22:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:22:58",
+   "processo": "50500.374162/2019-42 (parcial)",
+   "interessado": "SUINF/SUROC (Norma Administrativa do kit de fiscalização)",
+   "assunto": "Norma administrativa que institui o kit de fiscalização e os procedimentos para solicitação, uso e guarda dos itens; já passou pela RD 863 (07/07/2020) e RD 864 (voto-vista)",
+   "tema": [
+    "fiscalização e sanções",
+    "regulação normativa"
+   ],
+   "relator": "Relator não identificado (legenda)",
+   "resultado": "retirado de pauta (aprovado por unanimidade o pedido de retirada)",
+   "resumo_voto": "O relator pediu retirada porque o Diretor-Geral levantou considerações e, como não cabe novo pedido de vista, quer reexaminar o assunto e trazê-lo na próxima reunião.",
+   "votos": [
+    {
+     "diretor": "Relator (não identificado)",
+     "voto": "pede retirada de pauta",
+     "ts": "0:23:20",
+     "justificativa": "trazer o tema na próxima reunião após considerações do Diretor-Geral",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:23:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:23:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:23:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:24:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:24:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3",
+   "ts": "0:24:37",
+   "processo": "50500.051449/2025 (número distorcido pela legenda)",
+   "interessado": "Concessionária das Rodovias Integradas do Sul (Via Sul)",
+   "assunto": "Autorização para cobrança bidirecional de pedágio nas praças P2 e P3 após cumprimento da cláusula 17.3 do contrato 01/2019 (alterações nas praças em até 18 meses da assunção, 15/02/2019)",
+   "tema": [
+    "concessões rodoviárias",
+    "pedágio"
+   ],
+   "relator": "Relator não identificado (legenda)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Autoriza a Via Sul a iniciar a partir de 15/08/2020 a cobrança bidirecional nas praças P2 e P3; tarifa da P2 cai de R$ 9,20 para cerca de R$ 4 e a antiga praça deve ser desativada; tarifas são as da primeira revisão ordinária.",
+   "votos": [
+    {
+     "diretor": "Relator (não identificado)",
+     "voto": "relator, aprova",
+     "ts": "0:25:00",
+     "justificativa": "concessionária atestou cumprimento das disposições contratuais",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:27:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:27:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:27:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:27:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:27:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.4",
+   "ts": "0:27:41",
+   "processo": "50500.308472/2019-28 e processos relacionados (50500.388851/2018-29, 50500.071096/2000, 50500.048445/2000; números parciais)",
+   "interessado": "Autopista Litoral Sul S.A. (BR-116/376/PR e BR-101/SC)",
+   "assunto": "12ª revisão ordinária, 14ª revisão extraordinária e reajuste da tarifa básica de pedágio; termos aditivos para inclusão do Contorno de Florianópolis (trecho sul, três túneis duplos, orçamento validado ≈ R$ 940 milhões a preços de jan/2020), da terceira faixa Palhoça-Biguaçu (≈ R$ 448 milhões) e da obra de arte especial sobre o rio Camboriú (≈ R$ 10 milhões); inclui apresentação do futuro superintendente de infraestrutura rodoviária (André Freire)",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "pedágio",
+    "judicializacao"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por maioria (um voto divergente/ressalvas)",
+   "resumo_voto": "Davi Barreto relata: orçamento revisto com o Labtrans/UFSC (de ≈ R$ 1,6 bilhão para ≈ R$ 940 milhões, -42%); fato da administração e emergência (acórdão TCU e ação civil pública) justificam a revisão extraordinária; impacto tarifário imediato (exceção ao parágrafo único do art. 2º da Res. 3.651/2011, com base no art. 22 da LINDB) contrabalançado por salvaguardas (desconto de reequilíbrio, renúncia ao prazo de cura, cronograma fiscalizado, seguros, performance bond, multa moratória maior). Efeitos tarifários citados: revisão ordinária com variação não legível na legenda, extraordinária de ≈ R$ 1,43 para ≈ R$ 1,95 (+35%), tarifa reajustada de R$ 2,70 para R$ 3,90 (valores sujeitos a erro de legenda).",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "1:13:24",
+     "justificativa": "fato da administração, emergencialidade confirmada pelo TCU, orçamento validado pelo Labtrans, salvaguardas contratuais e aplicação do art. 22 da LINDB para antecipar o reequilíbrio",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Diretor com ressalvas (não identificado com segurança; possivelmente Weber Ciloni)",
+     "voto": "diverge / não acompanha o relator (aprovação sujeita à finalização de outros processos)",
+     "ts": "1:14:17",
+     "justificativa": "elogia a equipe e a procuradoria, mas lembra atrasos da concessionária na entrega do projeto (2018-2019), questiona a ampliação do prazo e a não aplicação da Res. 5859/2019 (número incerto), cita processos do TCU em curso e sugere esperar relatórios finais/auditoria antes de aprovar aditivo; afirma não ser contra o contorno e menciona alternativa de licitação autônoma",
+     "tom": "crítico, mas elogioso quanto ao trabalho técnico",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "acompanha o relator",
+     "ts": "1:24:28",
+     "justificativa": "orçamento bem estudado, não aplicação do art. 2º da Res. 3.651 tem respaldo jurídico da procuradoria",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "acompanha o relator",
+     "ts": "1:26:04",
+     "justificativa": "corrobora as palavras do diretor Alexandre Porto; sugere nota técnica específica para responder às dúvidas levantadas",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator (de acordo com o voto do diretor Davi Barreto)",
+     "ts": "1:26:50",
+     "justificativa": "registra aprovação por maioria",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2 / 2.3.1 (sigilosos)",
+   "ts": "0:12:34",
+   "processo": "50500.112407/2018-53 e 50500.317105/2016-16 (processos administrativos disciplinares, parciais)",
+   "interessado": "Corregedoria",
+   "assunto": "Processos administrativos disciplinares (Corregedoria) com restrição de acesso, julgados ao final da transmissão",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "não identificado",
+   "resultado": "sigiloso – julgamento fora da transmissão",
+   "resumo_voto": "Julgamento reservado ao final da transmissão ao vivo; sem conteúdo público.",
+   "votos": []
+  }
+ ],
+ "retirados": [
+  {
+   "item": "2.2.2 — norma administrativa do kit de fiscalização",
+   "relator": "não identificado",
+   "motivo": "Diretor-Geral levantou considerações; sem possibilidade de novo pedido de vista; volta na próxima reunião",
+   "ts": "0:23:20"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática muito ruidosa: o texto vem em bloco único sem separação de falantes; atribuição de votos aos diretores por inferência a partir das saudações.",
+  "Grafias incertas: «Simone/Silonio/Siloni» interpretado como Weber Ciloni; «Alexandre Porto» aparece como «porto/corpo/achar e posto»; «chineses/menezes/marra» interpretado como Eduardo Marra (incerto); Davi Barreto como «barretos/das barreto».",
+  "Relatores dos itens 2.1.1, 2.2.1, 2.2.2 e 2.2.3 não estão claros na legenda; votos dos seguidores têm ts aproximado.",
+  "O diretor que apresentou ressalvas no 2.2.4 (fala que começa em 1:14:17) não pôde ser identificado com segurança.",
+  "Números de processo, valores e percentuais podem estar errados na legenda (ex.: tarifas, 1,6 bi vs 940 mi).",
+  "Itens sigilosos (Corregedoria) não têm conteúdo público."
+ ]
+}

@@ -1,0 +1,317 @@
+{
+ "meta": {
+  "video_id": "yeArWUIUNCw",
+  "fonte": "legenda automática do YouTube; falantes da legenda são inferidos e frequentemente errados (o presidente da sessão é rotulado Marcelo Fonseca); ts = tempo do vídeo, aproximados para quem só vota de acordo",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "875",
+  "data": "2020-10-06",
+  "formato": "videoconferência (transmitida no YouTube)",
+  "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Weber Ciloni",
+   "Davi Barreto",
+   "Alexandre Porto",
+   "Eduardo Marra"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "O vídeo começa ~0:16:00 com a abertura; encerrada às 16h31 (~0:58:46).",
+   "O Fator Q (qualidade/redução de acidentes nas concessões) dominou a sessão: Weber Ciloni (2.1.1) e Alexandre Porto pediram vista, e a Ecoponte (2.2.1) teve vista coletiva.",
+   "Houve inversão de ordem: o item 2.3.1 foi lido antes do 2.2.1 por engano da secretaria."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:16:44",
+   "processo": "",
+   "interessado": "Secretaria da reunião",
+   "assunto": "Aprovação da ata da 874ª reunião",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "—",
+   "resultado": "aprovada",
+   "resumo_voto": "Dispensada a leitura.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:17:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:17:02",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:17:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:17:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:17:08",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:17:16",
+   "processo": "50500.365909/2019-66; 50500.415136/2019-76; 50500.025152/2020-12",
+   "interessado": "Concessionária Minas Gerais Goiás S.A. (BR-050)",
+   "assunto": "5ª revisão ordinária, revisão extraordinária e reajuste da tarifa básica de pedágio (Fator Q / acidentes; verba de aparelhamento da PRF; livros de comunicação/SCM)",
+   "tema": [
+    "concessões rodoviárias",
+    "pedágio",
+    "reequilíbrio contratual",
+    "fiscalização e sanções"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "vista (Alexandre Porto)",
+   "resumo_voto": "Relator vota por aprovar a revisão e o reajuste (tarifa passa de 4,035 para 3,95 sem alterar o valor arredondado, R$ 4,00; variação de -0,42%), mas NÃO aplicar o Fator Q (0%) até haver marco regulatório (resolução) sobre método de aferição, validação de dados da concessionária e conciliação das cláusulas; critica a área técnica (melhor resultado histórico de acidentes) e a proposta de súmula; efeitos financeiros poderão ser aplicados depois; manter investimentos em livros de comunicação até o pregão e excluir a verba de aparelhamento da PRF.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova a revisão com Fator Q em 0% e recomenda resolução sobre o fator",
+     "ts": "0:18:30",
+     "justificativa": "dados de acidentes só fornecidos pela concessionária; interpretação do melhor resultado histórico não condiz com a condicionante contratual; falta de regulamentação específica; só deve contar a redução atribuível a ações da concessionária",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "pede vista (para melhor avaliar a aplicação do Fator Q)",
+     "ts": "0:30:46",
+     "justificativa": "aplicação do fator Q; mencionou depois ter pedido vista neste processo",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "não explicita voto; aceita a vista",
+     "ts": "0:30:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "não explicita voto",
+     "ts": "0:31:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "concorda com a vista",
+     "ts": "0:31:05",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:31:12",
+   "processo": "50500.132579/2018-97",
+   "interessado": "SUGOV",
+   "assunto": "4ª revisão extraordinária da Agenda Regulatória 2019/2020 (eixos temáticos 2 e 4: regulamento geral das concessões rodoviárias; RDT e RPMF ferroviários)",
+   "tema": [
+    "regulação normativa",
+    "concessões rodoviárias",
+    "ferrovias"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Inclui temas do eixo 2 (regulamento das concessões rodoviárias; acórdão 1771/2017-TCU: regras de reequilíbrio e partes relacionadas) e do eixo 4 (RDT e RPMF dos contratos Rumo Malha Central e Malha Paulista); sem oposição, mas relator pede cumprimento de prazos e priorização para que o regulamento geral não atrase temas específicos (revisões tarifárias anuais, Fator Q).",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:35:05",
+     "justificativa": "cumprir cronogramas e priorizar temas urgentes (fator Q) durante a elaboração do regulamento das concessões rodoviárias",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:35:44",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:35:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:35:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:35:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:36:04",
+   "processo": "50500.194893/2015-77",
+   "interessado": "SUPAS",
+   "assunto": "Audiência Pública 02/2020: relatório final e minuta de resolução alterando a Res. 4.936/2015 (procedimento de cobrança da taxa de fiscalização do transporte rodoviário interestadual e internacional de passageiros)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "participação social",
+    "regulação normativa"
+   ],
+   "relator": "Eduardo Marra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Resolução 4.936/2015 tinha lacuna quanto à cobrança da taxa (Lei 12.996/2014); sessão pública virtual em 25/06/2020; Procuradoria concluiu pela regularidade e recomendações de legalidade foram atendidas.",
+   "votos": [
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "relator, aprova o relatório final e as minutas",
+     "ts": "0:38:50",
+     "justificativa": "sanar lacuna na cobrança da taxa de fiscalização; regularidade atestada pela Procuradoria",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:40:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:40:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:40:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:40:28",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:40:24",
+   "processo": "50500.0?243/2024? (legenda)",
+   "interessado": "Concessionária da Ponte Rio-Niterói S.A. (Ecoponte)",
+   "assunto": "4ª revisão ordinária, 6ª revisão extraordinária e reajuste da tarifa básica de pedágio (aplicação do Fator Q)",
+   "tema": [
+    "concessões rodoviárias",
+    "pedágio",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "vista coletiva (Weber Ciloni e Alexandre Porto)",
+   "resumo_voto": "Relator propõe aplicar o Fator Q conforme o contrato (3% nesta revisão, diferindo o saldo de 7,21% para revisões seguintes) e notificar a concessionária para rever a metodologia do fator; entende que a metodologia contratual gera incongruências (redução de acidentes ~12% versus impacto tarifário ~10%), mas por segurança jurídica e por estar a Ecoponte dentro dos cinco anos iniciais não se deve alterar regra agora; tarifa passa de 4,00 para 4,60 aproximadamente (efeito combinado +6,98%, após arredondamento); defende resolução específica em vez da súmula.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova a revisão aplicando Fator Q escalonado (3%) e notificando a concessionária para revisar a metodologia",
+     "ts": "0:42:00",
+     "justificativa": "segurança jurídica e confiança legítima: ajustes metodológicos respeitam marcos temporais do contrato (primeiros cinco anos); resolução específica para uniformizar contratos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "pede vista",
+     "ts": "0:50:49",
+     "justificativa": "reclamações na Ouvidoria sobre segurança, multas altas por falhas de socorro, dúvidas sobre a redução de acidentes e dados da concessionária; assunto não pacificado; propõe reunião com a área técnica",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "pede vista (coletiva)",
+     "ts": "0:52:30",
+     "justificativa": "quer esclarecer a aplicação do Fator Q, como no processo anterior",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "sem manifestação registrada",
+     "ts": "0:55:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "sem manifestação registrada",
+     "ts": "0:55:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3.1",
+   "ts": "0:55:59",
+   "processo": "50500.038953/2019-12",
+   "interessado": "—",
+   "assunto": "Pedido de cancelamento de distribuição (art. 66, §4º, regimento interno): processo perdeu o objeto após julgamento anterior e questões levantadas pelo TCU sobre prazos (10 dias prorrogáveis por mais 10) para ouvir a concessionária e novo termo aditivo",
+   "tema": [
+    "institucional",
+    "concessões rodoviárias",
+    "judicializacao"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovado (cancelamento de distribuição)",
+   "resumo_voto": "Proponente explica que cancela porque a área técnica precisa dizer se haverá novo termo aditivo ou se mantém o anterior, após relatório do TCU, com contraditório da concessionária.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:57:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:57:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:57:54",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:57:56",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática muito ruidosa: Weber Ciloni aparece como 'Silone/Heber/Zé', Marcelo Vinaud como 'Marcelo Fonseca'; 'Fator Q' está transcrito como 'fator que'.",
+  "Quem pediu vista em 2.1.1 é inferido: Alexandre Porto diz depois ter pedido vista 'no anterior'; resultado marcado como vista com confiança média. Valores de tarifa (R$ 4,00 / 4,60) e percentuais (6,98%, 7,21%) são da legenda e podem estar errados.",
+  "Número do processo da Ecoponte ilegível; processo do 3.1 e 2.1.1 parciais. O proponente do 3.1 não é identificável; a legenda cita termos desencontrados (TCU, aditivo) que podem não corresponder à rodovia citada.",
+  "Em 2.2.1 as falas de Weber e Alexandre aparecem sem rótulos confiáveis; atribuições por contexto. ts dos votos 'de acordo' aproximados."
+ ]
+}

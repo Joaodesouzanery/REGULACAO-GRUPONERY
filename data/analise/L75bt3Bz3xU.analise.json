@@ -1,0 +1,125 @@
+{
+  "meta": {"video_id": "L75bt3Bz3xU", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:00); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "857", "data": "2020-05-26", "formato": "videoconferência (gravada e divulgada depois no site)",
+    "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral)",
+    "diretores_presentes": ["Marcelo Vinaud", "Weber Ciloni", "Davi Barreto", "Alexandre Porto", "Menezes"],
+    "ausentes": [],
+    "observacoes": ["Encerrada às 17h17 de 26/05/2020 (sessão de cerca de 1h30).", "Item histórico: aprovada a prorrogação antecipada do contrato da Rumo Malha Paulista (primeira prorrogação antecipada sob a Lei 13.448/2017), com Alexandre Porto impedido de votar por ter sido superintendente de Ferrovias e presidente da comissão de outorga que emitiu pareceres no processo.", "Na verba de fiscalização (2.3.2), Weber Ciloni divergiu e abriu mão do direito de vista porque entraria em férias; o item foi aprovado por maioria.", "Após a parte deliberativa o senador Wellington Fagundes (presidente da Frente Parlamentar de Logística e Infraestrutura) falou aos diretores sobre a malha Paulista, pediu a instalação de uma unidade da ANTT em Mato Grosso e foi respondido pelo Diretor-Geral."]
+  },
+  "itens": [
+    {
+      "id": "2.1.1", "ts": "0:01:26",
+      "processo": "50500.310500/2015-89 (número lido de forma incerta)", "interessado": "Rumo Malha Paulista S.A.",
+      "assunto": "Prorrogação antecipada do contrato de concessão da Malha Paulista (vigência de 2028 a 2058): estudos técnicos e documentos jurídicos para assinatura do termo aditivo",
+      "tema": ["ferrovias", "reequilíbrio contratual", "judicializacao"],
+      "relator": "Weber Ciloni", "resultado": "aprovado (4 votos favoráveis; Alexandre Porto impedido)",
+      "resumo_voto": "Investimento de cerca de R$ 6 bilhões em cinco anos (pátios de cruzamento, duplicações, modernização da via, conflitos urbanos), ampliando a capacidade de cerca de 30-35 para 75 milhões de toneladas até o sexto ano. O processo, iniciado em 2015, incorporou determinações do Acórdão 2.876/2019 do TCU (ministro Augusto Nardes concluiu que não houve descumprimento): avaliação da capacidade da concessionária, quitação de multas e de receitas alternativas, inclusão dos investimentos em conflitos urbanos na base da garantia, exclusão de contas do opex, cláusulas sobre uso compartilhado da ferrovia por operadores independentes, metas de velocidade média, análise da essencialidade dos bens, outorga como mecanismo de reequilíbrio. A Procuradoria atestou o cumprimento da Lei 13.448. O relator destacou que o trabalho servirá de base para Vitória-Minas e Carajás (cerca de R$ 30 bilhões).",
+      "votos": [
+        {"diretor": "Weber Ciloni", "voto": "relator, aprova", "ts": "0:11:39", "justificativa": "vantajosidade confirmada pelo TCU e pela Procuradoria, investimentos relevantes e atendimento às determinações do Acórdão 2.876/2019", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "acompanha o relator integralmente", "ts": "0:12:25", "justificativa": "benefícios públicos: R$ 6 bi de investimento, quase R$ 1 bi de outorga e acordo com a AGU, multas pagas (cerca de R$ 80 milhões), novas cláusulas de desempenho; destaca o trabalho da Sufer", "confianca": "alta"},
+        {"diretor": "Alexandre Porto", "voto": "declara-se impedido", "ts": "0:15:56", "justificativa": "como superintendente e presidente da comissão de outorga assinou diversos pareceres no processo; invoca o art. 74 do Regimento Interno e o parecer 98 da Procuradoria (art. 134 do CPC)", "confianca": "alta"},
+        {"diretor": "Menezes", "voto": "de acordo com o relator", "ts": "0:16:17", "justificativa": "elogia a equipe técnica e destaca o papel de Alexandre Porto na condução do projeto", "confianca": "alta"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo com o relator", "ts": "0:17:10", "justificativa": "acompanhou o processo desde 2015; enfatiza a vantajosidade (corredor de exportação para o arco Norte) e a curva de aprendizado para novas concessões e renovações", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.2.1", "ts": "0:20:19",
+      "processo": "50500.368304/2019-27 (número lido de forma incerta)", "interessado": "Concessionária Via Bahia (rodovia BR-324/BR-116, nome lido como «sa»)",
+      "assunto": "9ª revisão ordinária, 12ª revisão extraordinária e reajuste da tarifa básica de pedágio, com sustentação oral da concessionária",
+      "tema": ["concessões rodoviárias", "pedágio", "reequilíbrio contratual", "judicializacao"],
+      "relator": "Davi Barreto", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "A advogada da concessionária (Letícia Queiroz de Andrade, segundo a legenda) sustentou que a Gefir ignorou documentos comprobatórios apresentados no prazo (troca de anexos ao reapresentar a manifestação no SEI), configurando excesso de formalismo e cerceamento de defesa. O relator rejeitou a preliminar: não houve violação ao contraditório, os argumentos foram reanalisados, e eventuais pontos podem ser tratados na revisão seguinte (em julho). No mérito: recusou a inclusão de nova passarela (km 446), dado que as quatro últimas passarelas inseridas nem foram iniciadas; manteve o desconto de reequilíbrio (fator D) de cerca de 10,9%, por descumprimento quase integral dos parâmetros de desempenho; a 12ª extraordinária tem impacto de cerca de -2,65% e as tarifas resultantes ficam abaixo das anteriores. Ressalva: a ANTT não pode alterar a tarifa praticada em razão de decisão judicial obtida pela concessionária (sem redução tarifária).",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "relator, aprova as revisões e o reajuste, rejeitando a preliminar", "ts": "0:48:33", "justificativa": "não houve violação ao contraditório; concessionária descumpre obras e desempenho; nenhuma nova obra deve ser inserida; ressalva sobre a decisão judicial que mantém a tarifa", "confianca": "alta"},
+        {"diretor": "Weber Ciloni", "voto": "refuta o argumento de excesso de formalismo e acompanha o relator", "ts": "0:48:58", "justificativa": "a equipe técnica da Suinf aplica estritamente a lei e o contrato; o rótulo de excesso de formalismo não procede", "confianca": "alta"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "0:51:52", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "de acordo", "ts": "0:51:57", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo, parabeniza o relator pela acurácia do voto", "ts": "0:52:05", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.2.2", "ts": "0:52:34",
+      "processo": "50500.393xxx/2019-69 (número parcial)", "interessado": "Superintendência de Serviços de Transporte Rodoviário e Multimodal de Cargas (Surok/Suroc)",
+      "assunto": "Alteração do Anexo 2 da Resolução 5.867/2020: atualização dos coeficientes dos pisos mínimos de frete por quilômetro rodado e eixo carregado, em razão da variação do diesel S10",
+      "tema": ["transporte rodoviário de cargas (piso mínimo do frete/CIOT)", "regulação normativa"],
+      "relator": "Davi Barreto", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "A Lei 13.703/2018 manda reajustar os pisos quando o diesel varia mais de 10%. A ANP divulgou em 20 de abril variação acumulada de 10,08% em relação ao valor de referência da Res. 5.867/2020 (R$ 3,799/litro), nova referência de R$ 3,461/litro. O impacto nos pisos varia entre cerca de -4,13% e -5,03%, conforme tipo de carga, eixos, distância e operação. A área justificou a dispensa de AIR e de participação social, acolhidas pelo relator: o reajuste é determinação legal sem juízo de discricionariedade técnica.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "relator, aprova com dispensa de AIR e de participação social", "ts": "0:56:43", "justificativa": "gatilho legal de variação superior a 10% do diesel torna a atualização obrigatória, sem margem de escolha da agência", "confianca": "alta"},
+        {"diretor": "Weber Ciloni", "voto": "acompanha o relator", "ts": "0:57:20", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "0:57:30", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "de acordo", "ts": "0:57:35", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo", "ts": "0:57:40", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.2.3", "ts": "0:57:55",
+      "processo": "50500.021xxx/2020-38 (número parcial)", "interessado": "Superintendência de Gestão (Sueg)",
+      "assunto": "Plano anual de contratações da ANTT para o exercício de 2021",
+      "tema": ["institucional"],
+      "relator": "Davi Barreto", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Plano consolidado pelo comitê de análise prévia, compatível com a previsão orçamentária atualizada por IPCA, distinguindo novas contratações e manutenção de contratos; pode ser revisto em marcos legais (1 a 30 de setembro, 16 a 30 de novembro e após a LOA). O relator fez ajustes de redação.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "relator, aprova", "ts": "0:59:56", "confianca": "alta"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo, conforme exposto pelo relator", "ts": "1:00:10", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "1:00:14", "confianca": "media"},
+        {"diretor": "Menezes", "voto": "de acordo", "ts": "1:00:17", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo", "ts": "1:00:20", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.3.1", "ts": "1:00:31",
+      "processo": "50500.040720/2020-05 (número lido de forma incerta)", "interessado": "Superintendência de Governança Regulatória (Sureg)",
+      "assunto": "Resolução que institui videoconferência e outros meios eletrônicos em substituição às sessões presenciais de audiências públicas e reuniões participativas durante a emergência de saúde pública da covid-19",
+      "tema": ["participação social", "regulação normativa", "covid-19"],
+      "relator": "Menezes", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "A pandemia paralisou os processos de participação e controle social; o uso de ferramentas tecnológicas pode ampliar a participação por não depender de locais físicos.",
+      "votos": [
+        {"diretor": "Menezes", "voto": "relator, aprova", "ts": "1:02:10", "justificativa": "distanciamento social impede sessões presenciais; ferramentas eletrônicas ampliam a participação", "confianca": "alta"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo", "ts": "1:02:40", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "1:02:44", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "1:02:46", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo", "ts": "1:02:48", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.3.2", "ts": "1:02:55",
+      "processo": "50500.037227/2020 (número parcial)", "interessado": "Superintendência de Exploração de Infraestrutura Rodoviária (Suinf); pleito da ABCR e de concessionárias",
+      "assunto": "Resolução que posterga a cobrança da verba de fiscalização das concessionárias rodoviárias federais (competências de maio a julho de 2020) em razão da calamidade pública da covid-19",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "covid-19", "regulação normativa"],
+      "relator": "Menezes", "resultado": "aprovado por maioria (Weber Ciloni divergiu)",
+      "resumo_voto": "Pleito da ABCR: a Sueg informou que a medida é mera postergação, não renúncia de receita; o Parecer 152/2020 da Procuradoria admite suspensão por prazo definido, desde que a quitação ocorra no mesmo exercício, e recomendou norma horizontal. Proposta: postergar as parcelas de maio, junho e julho de 2020 e cobrá-las com correção nas parcelas de agosto a novembro, com reavaliação da Suinf a cada 30 dias e limite de diferimento de 90 dias. Sem impacto para a sustentabilidade financeira da ANTT.",
+      "votos": [
+        {"diretor": "Menezes", "voto": "relator, aprova a postergação", "ts": "1:06:10", "justificativa": "pandemia gera queda de tráfego; medida horizontal respaldada pela Procuradoria e sem impacto financeiro para a ANTT", "confianca": "alta"},
+        {"diretor": "Weber Ciloni", "voto": "diverge do relator; abre mão da vista", "ts": "1:07:12", "justificativa": "falta de planilhas contrato a contrato para comprovar perda de capacidade contributiva; a taxa tem natureza de receita corrente (art. 77 da Lei da ANTT) e deveria passar pelo Ministério da Economia; moratória sobre créditos futuros exigiria medida provisória; faltam minutas e garantias (art. 153 do CTN); teme precedente na arrecadação da União", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "acompanha o relator", "ts": "1:12:05", "justificativa": "não é reequilíbrio contratual e sim medida de fôlego de caixa; a verba tem natureza contratual, não tributária (CTN não se aplica); problema horizontal (tráfego caiu cerca de 20% em pesados e 40% em leves em meados de abril), com análise contrato a contrato inviável", "confianca": "alta"},
+        {"diretor": "Alexandre Porto", "voto": "acompanha o relator", "ts": "1:16:04", "justificativa": "área técnica e Procuradoria afirmam que não há renúncia de receita; a queda de receita das concessões justifica aplicação horizontal, por custo regulatório", "confianca": "alta"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo", "ts": "1:16:35", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3.1", "ts": "1:16:58",
+      "processo": "50501.354981/2021-77 (número lido de forma incerta)", "interessado": "Despacho DG/SEI 3437611 de 18/05/2020",
+      "assunto": "Pedido de cancelamento de distribuição de processo (art. 55 do Regimento Interno)",
+      "tema": ["institucional"],
+      "relator": "Marcelo Vinaud", "resultado": "cancelamento aceito sem objeção",
+      "resumo_voto": "O secretário leu o despacho; todos os diretores concordaram com o cancelamento.",
+      "votos": [
+        {"diretor": "Weber Ciloni", "voto": "de acordo com o cancelamento", "ts": "1:17:42", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "1:17:45", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo", "ts": "1:17:48", "confianca": "baixa"},
+        {"diretor": "Menezes", "voto": "de acordo", "ts": "1:17:51", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Legenda automática: nomes dos diretores distorcidos («Weber Silone», «Dav Barreto», «Marcelo vinou», «machel/manchel Menezes»). Grafia canônica adotada a partir da lista de diretores da época.",
+    "O diretor «Menezes» tem prenome incerto na legenda; mantido só o sobrenome. Não foi possível confirmar se é o mesmo diretor Mário Rodrigues Junior citado em reuniões anteriores.",
+    "Números de processo (todos os itens), valores de tarifa e nome da advogada da Via Bahia (Letícia Queiroz de Andrade) estão distorcidos na legenda; valores de tarifa foram omitidos. A concessionária Via Bahia aparece na legenda como «Via Bahia concessionária de rodovias sa»; a rodovia (BR-324/BR-116) é inferência.",
+    "A sigla do órgão de cargas aparece como «Surok/Suroc» (provavelmente Suroc).",
+    "Minutos de votos de quem apenas acompanha o relator são aproximados (confiança média/baixa); a legenda omite alguns votos nominais.",
+    "Na votação do 3.1, o voto de Marcelo Vinaud (presidente) não é nominal."
+  ]
+}

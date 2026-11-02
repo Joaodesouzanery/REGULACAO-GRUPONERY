@@ -1,0 +1,361 @@
+{
+ "meta": {
+  "video_id": "OwXT6_HIJz0",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "868",
+  "data": "2020-08-11",
+  "formato": "videoconferência (aplicativo Teams, transmitida ao vivo no YouTube)",
+  "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral em exercício)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Weber Ciloni",
+   "Davi Barreto",
+   "Alexandre Porto",
+   "Eduardo Marra"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte pública encerrada às 16h37 (legenda: «16 horas e 37 minutos»).",
+   "Abertura com homenagem a servidor escalado para o gabinete de crise na Casa Civil e condolências pela perda de familiar por covid.",
+   "Debate longo (~25 min) no item 2.3.1 sobre ordem cronológica de análise de novos mercados; participação da Procuradoria registrada.",
+   "Processos reservados julgados depois, não transcritos."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1",
+   "ts": "0:05:39",
+   "processo": "50500.555914/2017-05",
+   "interessado": "Autopista Litoral Sul S.A.",
+   "assunto": "Recurso contra o auto de infração nº 48 (25/10/2017): execução parcial/total de obras sem cumprir cronograma (art. 19 da Res. 4.071/2013)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade — recurso conhecido e improvido",
+   "resumo_voto": "Auto de infração anterior foi anulado por erro de enquadramento (um auto por subtrecho); recorrente não apresentou fato novo; mantém a anulação do auto nº 48 e nega provimento aos argumentos da concessionária.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:07:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:07:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:07:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo (não captado)",
+     "ts": "0:07:58",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo (não captado)",
+     "ts": "0:08:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:08:22",
+   "processo": "50500.374562/2019-42",
+   "interessado": "SUDEG",
+   "assunto": "Norma administrativa do kit de fiscalização: voto-vista de Davi Barreto (nº 14/2020), com revogação expressa da Res. 5.745/2018",
+   "tema": [
+    "institucional",
+    "regulação normativa"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade conforme o voto-vista",
+   "resumo_voto": "Histórico: relator original Weber Ciloni (RD 863, voto nº 81/2020) propôs resolução; Barreto pediu vista, apresentou voto-vista na RD 864 e retirou de pauta na RD 867 para consultar a Procuradoria. A Nota 202/2020 esclareceu que, desde o Regimento anterior (Res. 5.810/2018, art. 106), não existe mais a espécie «norma administrativa», que a Res. 5.745/2018 deve ser expressamente revogada e que se aplica a norma vigente na prática do ato (Res. 5.888/2020). Voto-vista: aprovar manual de procedimentos por deliberação e revogar expressamente a Res. 5.745/2018. Weber, relator original, aceita o novo entendimento e recomenda que a SUDEG reveja todos os atos normativos vigentes.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "voto-vista: manual de procedimentos por deliberação, revoga Res. 5.745/2018",
+     "ts": "0:09:00",
+     "justificativa": "nova nota da Procuradoria; Regimento Interno atual; Decreto 10.139 exige revogação expressa de normas já revogadas tacitamente",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o voto-vista",
+     "ts": "0:14:50",
+     "justificativa": "revisou sua posição original à luz do novo parecer",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo com o voto-vista",
+     "ts": "0:15:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo com o voto-vista",
+     "ts": "0:15:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com o voto-vista",
+     "ts": "0:15:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:15:36",
+   "processo": "50500.068747/2015-4? (parcial)",
+   "interessado": "Sindicato dos Transportadores Rodoviários Autônomos de Bens do Mato Grosso (SINDICAM-MT)",
+   "assunto": "Recurso administrativo contra a Deliberação 314/2020, que aprovou o apêndice 4 do relatório da AP 14/2017 (Ferrogrão); pede nulidade e efeito suspensivo, remessa ao Ministério da Infraestrutura",
+   "tema": [
+    "ferrovias",
+    "participação social",
+    "judicializacao"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade — recurso conhecido e improvido",
+   "resumo_voto": "Sindicato alega descumprimento da Res. 5.624/2017 e falta de divulgação das contribuições antes da deliberação. Relator, com área técnica e Procuradoria: as contribuições foram disponibilizadas em 24/06/2020, antes da deliberação de 07/07/2020; o prazo de 10 dias é próprio da administração e não gera preclusão; não há hierarquia entre agência e ministério, logo não cabe remessa nem efeito suspensivo. Nega provimento. Um diretor destaca que o voto realça a autonomia da ANTT pela nova lei das agências.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator (atribuição por contexto), conhece e nega provimento",
+     "ts": "0:18:30",
+     "justificativa": "publicidade das contribuições antes da deliberação; ausência de hierarquia com o Ministério",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo conforme relator",
+     "ts": "0:21:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:21:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:21:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo (não captado)",
+     "ts": "0:21:55",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:23:00",
+   "processo": "50500.158393/2020-31 (parcial)",
+   "interessado": "Viação Xavante Ltda.",
+   "assunto": "Pedido de inclusão de novos mercados (matéria delegada à SUPAS e avocada pela diretoria); voto-vista nº 003/2020 de Alexandre Porto propõe instrução normativa para análise em ordem cronológica e devolução dos processos à SUPAS",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "regulação normativa"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado — devolução à SUPAS e instrução normativa (a legenda não traz o placar completo)",
+   "resumo_voto": "Relator original (Vinaud, voto 69/2020 em reunião eletrônica) e Porto (voto-vista) constataram que a empresa cumpre requisitos, mas a ordem cronológica de convocação e análise não foi respeitada: cerca de 123 protocolos prontos para deferimento (16 anteriores ao analisado) e 87 protocolos desde abril. Porto cita o PDL 752/2019 (sustar o Decreto 10.157/2019 e a Deliberação 955/2019) e propõe minuta de instrução normativa, devolvendo à SUPAS os processos não deliberados (exceto os do art. 4º da Del. 955). Debate: Weber discorda de instrução normativa (natureza administrativa exige manual/deliberação, conforme voto do próprio dia e risco de generalizar o caso) e propõe retirada de pauta; outro diretor pondera que os indeferimentos imediatos não seguem cronologia e que o problema é sistêmico (projeto de tempos e movimentos); Barreto defende instrução normativa por envolver expectativas de terceiros, alerta para risco de judicialização se se furar fila e cita 130 novas autorizações em curso; o relator do voto-vista recusa retirada de pauta (art. 67: só relator/revisor pode propor).",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "voto-vista: instrução normativa e devolução à SUPAS",
+     "ts": "0:27:50",
+     "justificativa": "transparência e impessoalidade; evitar privilégio a alguns players; contexto do PDL no Senado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "inicialmente contra a IN; ao final de acordo com o voto-vista",
+     "ts": "0:52:25",
+     "justificativa": "reviu posição por concordar com a correção da cronologia, apesar de ter achado o voto de última hora",
+     "tom": "crítico mas conciliador",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o voto-vista (revisor)",
+     "ts": "0:52:40",
+     "justificativa": "convergência entre relator e revisor; instrução normativa dá segurança a quem tem expectativa de direito",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "voto não captado na legenda (provável de acordo, já que o resultado foi aprovado)",
+     "ts": "0:52:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "voto não captado na legenda",
+     "ts": "0:52:55",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:53:33",
+   "processo": "50500.008561/2014-?? (parcial)",
+   "interessado": "Expresso Satélite Norte Ltda.",
+   "assunto": "Pedido de inclusão de novos mercados: restituição dos autos à SUPAS para reorganizar a fila em ordem cronológica (art. 4º, §1º, Del. 955/2019)",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "aprovado — restituído à área técnica",
+   "resumo_voto": "Caso semelhante ao anterior: a empresa cumpre requisitos, mas há 87 protocolos mais antigos em análise e a ordem cronológica não foi obedecida; restitui os autos à SUPAS.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, restitui à SUPAS",
+     "ts": "0:55:10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com a restituição e organização cronológica",
+     "ts": "0:56:58",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:57:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:57:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.1",
+   "ts": "0:57:33",
+   "processo": "50500.311094/2019-03",
+   "interessado": "SUROC (cargas)",
+   "assunto": "Publicação mensal, em transparência ativa e dados abertos, de lista de transportadores do RNTRC",
+   "tema": [
+    "transporte rodoviário de cargas (RNTRC)",
+    "participação social"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Divulgação mensal de transportadores cadastrados no RNTRC no portal de dados abertos.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:58:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:58:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:58:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.2",
+   "ts": "0:58:45",
+   "processo": "50500.015235/2095 (parcial)",
+   "interessado": "Despacho de cancelamento de distribuição",
+   "assunto": "Pedido de cancelamento de distribuição (art. 67 do Regimento Interno)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "não identificado",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Cancelamento de distribuição.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:59:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:59:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3 (reservado)",
+   "ts": "1:00:00",
+   "processo": "50500.248593/2014-?? (parcial)",
+   "interessado": "Cascavel União de Transporte Turismo Ltda.",
+   "assunto": "Processo reservado: aplicação de penalidade",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (fretamento)"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "julgado na parte reservada; sem transcrição",
+   "resumo_voto": "Julgamento sigiloso.",
+   "votos": []
+  },
+  {
+   "id": "2.3.3 (reservado)",
+   "ts": "1:00:00",
+   "processo": "50500.329168/2019-50",
+   "interessado": "Viação Itapemirim S.A.",
+   "assunto": "Processo reservado: processo administrativo ordinário, proposta de aplicação de penalidade",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "julgado na parte reservada; sem transcrição",
+   "resumo_voto": "Julgamento sigiloso.",
+   "votos": []
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Os nomes dos diretores na legenda saem muito distorcidos (ex.: «Vera Simone», «deve silonio» = Weber Ciloni; «Menezes», «amarra», «mancha de menezes» = provavelmente Eduardo Marra; «Marcelo vinor/renovo» = Marcelo Vinaud); atribuição por contexto e pela ordem das votações.",
+  "O rótulo de falante {Marcelo Fonseca} no .md é erro da inferência automática: quem preside é o Diretor-Geral em exercício Marcelo Vinaud.",
+  "A legenda não traz número de item de forma confiável; ids seguem o que se ouve na leitura da secretaria.",
+  "Os votos de vários diretores nos itens 2.1.1 e 2.2.2 estão truncados na legenda; confiança baixa para os que não aparecem explicitamente.",
+  "No 2.3.1 o placar final não é audível; o resultado «aprovado» vem do tom da sequência e da mesma lógica do 2.3.2 (devolução à SUPAS); Vinaud e Marra não têm voto captado.",
+  "Atribuição dos oradores do debate do 2.3.1 é incerta, exceto Weber Ciloni (contra IN), Barreto (a favor) e Porto (voto-vista).",
+  "O 2.2.2 foi atribuído a Davi Barreto pelo agrupamento da pauta; Marra relatou a Deliberação 314 na RD 863, o que pode indicar relatoria diferente."
+ ]
+}

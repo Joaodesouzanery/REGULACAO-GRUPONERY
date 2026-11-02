@@ -1,0 +1,344 @@
+{
+ "meta": {
+  "video_id": "mjm6V4571wA",
+  "fonte": "legenda automática do YouTube; falantes inferidos pelas saudações; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "856",
+  "data": "2020-05-19",
+  "formato": "videoconferência (gravada, sem transmissão ao vivo)",
+  "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral em exercício)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Weber Ciloni",
+   "Davi Barreto",
+   "Alexandre Porto",
+   "Menezes"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Reunião curta (≈ 14 min).",
+   "Um processo retirado de pauta (Transmargoo)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:01:00",
+   "processo": "",
+   "interessado": "",
+   "assunto": "Aprovação da ata da RD 855",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Marcelo Vinaud (DG em exercício)",
+   "resultado": "aprovada por unanimidade",
+   "resumo_voto": "",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:01:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:01:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:01:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:01:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:01:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1 (reservado)",
+   "ts": "0:02:00",
+   "processo": "50550.355587/2018-56 (legenda)",
+   "interessado": "Parte não identificada",
+   "assunto": "Processo administrativo ordinário sancionador sob relatoria de Menezes (acesso restrito, julgado ao final)",
+   "tema": [
+    "fiscalização e sanções",
+    "sigilo"
+   ],
+   "relator": "Menezes",
+   "resultado": "sigiloso — sem resultado público",
+   "resumo_voto": "",
+   "votos": []
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:02:28",
+   "processo": "50500.311129/2001-59 (legenda)",
+   "interessado": "Transmargoo Turismo e Fretamento Eireli",
+   "assunto": "Postergação em caráter excepcional da cobrança da taxa de fiscalização (TFAT, Res. 4.936/2015) devida pelas empresas de transporte coletivo interestadual de passageiros",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "taxa de fiscalização",
+    "regime especial",
+    "pandemia"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "retirado de pauta (aprovado por unanimidade)",
+   "resumo_voto": "Relator retira para verificar o regime especial e o impacto sobre as demais empresas; pretende trazer na semana seguinte.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, pede retirada",
+     "ts": "0:03:30",
+     "justificativa": "verificar a situação das empresas e o regime especial",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com a retirada",
+     "ts": "0:03:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo com a retirada",
+     "ts": "0:03:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo com a retirada",
+     "ts": "0:03:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo com a retirada",
+     "ts": "0:03:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.1b",
+   "ts": "0:04:46",
+   "processo": "50500.028770/2001-48 (legenda)",
+   "interessado": "ANTT (SUROC/SUPAS/SUFER)",
+   "assunto": "Alteração da Res. 5.879/2020 (flexibilização de prazos para cumprimento de obrigações contratuais e regulatórias por causa da pandemia) para prorrogar os prazos de entrega de demonstrativos contábeis (até 15 de maio) e certidões fiscais (até 30 de abril) das prestadoras do serviço interestadual e semiurbano de passageiros (Res. 3.524/2010 e 832/2018)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "ônibus (semiurbano)",
+    "pandemia",
+    "flexibilização regulatória"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Empresas pediram prorrogação por dificuldades de obter documentos durante o isolamento; SUREG sustenta tratar-se de hipótese de flexibilização; Procuradoria atesta validade; dispensa de AIR e audiência pública; medida transitória que não afasta as regras, só dilata prazos.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova alteração",
+     "ts": "0:05:30",
+     "justificativa": "medida razoável, transitória e excepcional no atual contexto",
+     "tom": "alta",
+     "confianca": "técnico"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:07:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:07:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:07:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:07:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:07:45",
+   "processo": "50153.7732/2020-44 (legenda)",
+   "interessado": "CCR ViaSul (BR-101/RS)",
+   "assunto": "Declaração de utilidade pública de áreas complementares e obras de setor nos operacionais e vias locais da praça de pedágio de Três Cachoeiras/RS (bloco)",
+   "tema": [
+    "concessões rodoviárias",
+    "desapropriação / DUP"
+   ],
+   "relator": "Menezes",
+   "resultado": "aprovado por unanimidade (em bloco)",
+   "resumo_voto": "Voto disponibilizado com antecedência.",
+   "votos": [
+    {
+     "diretor": "Menezes",
+     "voto": "relator, aprova em bloco",
+     "ts": "0:07:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo (em bloco)",
+     "ts": "0:08:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo (em bloco)",
+     "ts": "0:08:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo (em bloco)",
+     "ts": "0:08:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo (em bloco)",
+     "ts": "0:08:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "EP-1",
+   "ts": "0:08:53",
+   "processo": "50500.048206/2018 (legenda)",
+   "interessado": "SUDEG",
+   "assunto": "Extrapauta: alteração do quantitativo de cargos comissionados (CGE/CD/CA/CGT) da ANTT, nos termos do art. 14 da Lei 9.986/2000, sem aumento de despesa",
+   "tema": [
+    "institucional",
+    "gestão de pessoas",
+    "extrapauta"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Redistribuição de quantitativos de cargos comissionados, sem aumento de despesa; quadro numérico na legenda ilegível.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:09:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:11:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:11:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:11:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:11:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.1",
+   "ts": "0:12:06",
+   "processo": "50500.008561/2020-46 (legenda)",
+   "interessado": "Despacho do DG",
+   "assunto": "Pedido de cancelamento de distribuição de processo (art. 67 do RI); Menezes registra que fará diligência quanto ao art. 27 da resolução sobre mercados",
+   "tema": [
+    "institucional",
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado",
+   "resumo_voto": "Menezes observa que não conseguiu abrir o arquivo no seu resumo e fará diligência quanto ao art. 27 (divulgação de mercados); concorda com o cancelamento.",
+   "votos": [
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo com o cancelamento, com observação",
+     "ts": "0:12:20",
+     "justificativa": "registro: diligência sobre o art. 27",
+     "tom": "media",
+     "confianca": "observação"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:13:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:13:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:13:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:13:10",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "2.1.1 — Transmargoo Turismo e Fretamento: postergação da taxa de fiscalização",
+   "relator": "Marcelo Vinaud",
+   "motivo": "verificar regime especial e impacto",
+   "ts": "0:03:30"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: nomes, números e valores distorcidos; números de processo parciais.",
+  "Os turnos atribuem tudo ao secretário (Marcelo Fonseca); falantes reais reconstruídos pelas saudações. O DG em exercício aparece como Marcelo Velloso/Vinor: Marcelo Vinaud.",
+  "Weber Ciloni aparece como web/ver silonio; Menezes como Machado/Manchas de Menezes: grafia do nome incerta.",
+  "Relatoria do extrapauta de cargos comissionados inferida como o DG em exercício; voto de Weber no 3.1 não aparece claramente.",
+  "A numeração 2.1.1b foi criada por haver dois itens com o mesmo número no vídeo.",
+  "Quadro numérico de cargos comissionados ilegível.",
+  "Eduardo Marra não aparece nas votações desta reunião."
+ ]
+}

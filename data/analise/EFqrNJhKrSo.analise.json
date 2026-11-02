@@ -1,0 +1,487 @@
+{
+ "meta": {
+  "video_id": "EFqrNJhKrSo",
+  "fonte": "legenda automática do YouTube; falantes da legenda são inferidos e frequentemente errados (o presidente da sessão é rotulado Marcelo Fonseca); ts = tempo do vídeo, aproximados para quem só vota de acordo",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "865",
+  "data": "2020-07-21",
+  "formato": "videoconferência (Teams) transmitida no YouTube",
+  "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Davi Barreto",
+   "Alexandre Porto",
+   "Menezes"
+  ],
+  "ausentes": [
+   "Weber Ciloni (férias)"
+  ],
+  "observacoes": [
+   "O vídeo começa ~0:04:11 com a abertura; sessão ~45 min.",
+   "Quatro revisões/reajustes ou qualificação de concessões rodoviárias (Fernão Dias, Planalto Sul, MS Via/BR-163); MS Via aprovada para relicitação.",
+   "Weber Ciloni ausente por férias.",
+   "Vista coletiva em 2.3.3 (súmula do transporte internacional de cargas)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:05:09",
+   "processo": "",
+   "interessado": "Secretaria da reunião",
+   "assunto": "Aprovação da ata da 864ª reunião",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "—",
+   "resultado": "aprovada",
+   "resumo_voto": "Leitura dispensada.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:05:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:05:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:05:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:05:26",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:06:23",
+   "processo": "50500.051817/2015-35",
+   "interessado": "SUFER",
+   "assunto": "Revogação da Resolução 5.130/2016 (tabela tarifária da Rumo Malha Paulista) com a vigência do 2º termo aditivo ao contrato de concessão",
+   "tema": [
+    "ferrovias",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "A tabela tarifária da Res. 5.130/2016 ficou defasada e incompatível com as autorizações regulatórias (direito de passagem) do aditivo, cujo anexo 4 traz a nova tabela; Procuradoria favorável.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova a revogação",
+     "ts": "0:06:40",
+     "justificativa": "tabela superada e defasada pelo 2º termo aditivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:08:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:08:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:08:36",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:08:58",
+   "processo": "50500.156379/2011-45",
+   "interessado": "SUGOV",
+   "assunto": "Alteração da Resolução 5.879/2020: prorrogação por 60 dias das medidas de flexibilização de prazos por causa da pandemia (ferrovias, cargas e passageiros), inclusão de licenças complementares e apostilamento de licença originária no transporte rodoviário internacional de cargas",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "ferrovias",
+    "regulação normativa"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Dispensa participação social e AIR por urgência; extensão a licenças complementares (prática de outros países e do Brasil no transporte de passageiros); apostilamento sem afastar a licença originária.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:10:00",
+     "justificativa": "emergência sanitária; flexibilização temporária e compatível com o decreto 8.660/2016",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:12:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:12:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:12:06",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:12:29",
+   "processo": "50500.325534/2017-90",
+   "interessado": "Autopista Fernão Dias S.A.",
+   "assunto": "12ª revisão ordinária, 12ª extraordinária e reajuste da tarifa básica de pedágio",
+   "tema": [
+    "concessões rodoviárias",
+    "pedágio",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Relator, após diligências, não inclui investimentos em rede de fibra óptica (comunicação já suprida pela SUTEC), nem novos controladores de velocidade (recomendação, não determinação do MP; requisitos da resolução não demonstrados), e não antecipa valores por projetos executivos até que a Diretoria uniformize a regra; efeito combinado -6,49% mais reajuste IPCA de 2,58%; tarifa de R$ 2,40 para R$ 2,30 (-4,17%).",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:13:30",
+     "justificativa": "excluir fibra óptica, novos controladores de velocidade e antecipação de projetos executivos por falta de requisitos/uniformização",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:16:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:16:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:16:26",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3",
+   "ts": "0:16:42",
+   "processo": "50500.429595/2009-37",
+   "interessado": "Concessionária de Rodovia Sul-Mato-Grossense (MS Via)",
+   "assunto": "Qualificação do contrato de concessão da BR-163/MS para relicitação (Lei 13.448/2017; Decreto 9.957/2019)",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização",
+    "judicializacao"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Leilão em 2013 com deságio de 52,7%; contrato de 12/03/2014 (30 anos); paralisação de investimentos desde 2017; notificação de caducidade em 2019; ações judiciais e arbitragem; de ~850 km previstos para duplicação só cerca de 140 km entregues. Procuradoria apontou inviabilidade jurídica, com três recomendações; o relator acolhe a área técnica, entende atendido o art. 3º do Decreto 9.957 e recomenda aprovar a viabilidade técnica e jurídica da qualificação, sem condição resolutiva de prazo (conveniência do Ministério e do PPI).",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova a qualificação para relicitação",
+     "ts": "0:18:00",
+     "justificativa": "alto nível de inadimplemento (apenas ~140 km duplicados dos mais de 800 km), associação do deságio elevado com riscos materializados, serviços essenciais preservados; descontar da indenização os efeitos tarifários",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:25:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:25:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:25:56",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:26:21",
+   "processo": "50500.356589/2009-53",
+   "interessado": "SUFER",
+   "assunto": "Audiência Pública 6/2019: relatório final e minuta de resolução sobre apuração e comunicação de acidentes ferroviários e interrupções temporárias de tráfego (revisão da Res. 431/2006); voto-vista nº 02/2020",
+   "tema": [
+    "ferrovias",
+    "regulação normativa",
+    "participação social"
+   ],
+   "relator": "Alexandre Porto (voto-vista); relator original: Menezes (na 858ª)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Em vista na 858ª, o diretor Alexandre Porto promoveu diligência: a área técnica acolheu parcialmente argumentos de interessado (flexibiliza o envio de relatório fotográfico em meio eletrônico) e rejeitou os demais; ajustes de redação; sugere estudo específico sobre a questão do suicídio nas linhas férreas.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "voto-vista, aprova o relatório final e a minuta",
+     "ts": "0:27:00",
+     "justificativa": "incorporar a flexibilização aceita pela área técnica; recomendar estudo estatístico e de práticas internacionais sobre suicídio em ferrovias",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o voto-vista (legenda diz 'não acompanha o voto do revisor', provavelmente falha)",
+     "ts": "0:29:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo com o voto-vista",
+     "ts": "0:29:53",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com o voto-vista",
+     "ts": "0:29:58",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:30:06",
+   "processo": "50500.310311/2019-30",
+   "interessado": "Autopista Planalto Sul S.A.",
+   "assunto": "12ª revisão ordinária, 12ª extraordinária e reajuste anual da tarifa básica de pedágio",
+   "tema": [
+    "concessões rodoviárias",
+    "pedágio",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Fibra óptica e antecipação de projetos executivos excluídos (como na Fernão Dias); efeito combinado de +8,11% da revisão e +2,58% do reajuste (IPCA); a tarifa cai 4,62%, de R$ 6,50 para R$ 6,20, com vigência prevista de 19/12/2019 e atraso a compensar na próxima revisão ordinária.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, aprova",
+     "ts": "0:31:30",
+     "justificativa": "isonomia: antecipação de projetos só se solicitada após a Portaria 161; fibra óptica deixou de ser necessária",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:34:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:34:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:34:56",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.3",
+   "ts": "0:35:15",
+   "processo": "50500.028701/2015-48",
+   "interessado": "SUROC",
+   "assunto": "Súmula sobre interpretação do Decreto 99.704/1990 (transporte rodoviário internacional de cargas): possibilidade de o transportador internacional usar transportador regular (RNTRC) para movimentação dentro do território nacional",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "regulação normativa"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "vista coletiva concedida (art. 109 do RI)",
+   "resumo_voto": "Em vez de alterar a Res. 5.879, a SUROC propõe súmula; Procuradoria (nota 153) e assessoria internacional concordam; relator vota por editar a súmula e pede vista coletiva ao DG para deliberação na próxima reunião.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, propõe aprovar a súmula e pede vista coletiva",
+     "ts": "0:36:30",
+     "justificativa": "pacificar interpretação do decreto para o transportador internacional durante a pandemia",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "concede vista coletiva (DG)",
+     "ts": "0:38:23",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.1",
+   "ts": "0:38:39",
+   "processo": "50500.032015/2020-88",
+   "interessado": "Comissão de Ética",
+   "assunto": "Critérios para recebimento e aceitação de brindes e presentes e participação em atividades externas pelos servidores (recomendação do TCU, Acórdão 3.7?/2019)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Menezes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Ato normativo para proteger imagem da agência e evitar conflito de interesses; Procuradoria aprovou com ressalvas atendidas.",
+   "votos": [
+    {
+     "diretor": "Menezes",
+     "voto": "relator, aprova",
+     "ts": "0:39:20",
+     "justificativa": "atender recomendação do TCU e evitar conflito de interesses",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:41:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:41:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:41:06",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.2",
+   "ts": "0:41:39",
+   "processo": "50500.132425/2018-74",
+   "interessado": "SUGOV",
+   "assunto": "Retomada da Audiência Pública 01/2020: atualização e simplificação das Resoluções 2.309 e 2.310/2007 (transferência de concessão e de controle em concessionárias de ferrovias e rodovias); sessão por videoconferência em 29/07/2020; contribuições até 07/08/2020",
+   "tema": [
+    "regulação normativa",
+    "participação social",
+    "concessões rodoviárias",
+    "ferrovias"
+   ],
+   "relator": "Menezes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Suspensa em março pela pandemia; Res. 5.891/2020 permite sessões por videoconferência; nova data de sessão e novo prazo de contribuições.",
+   "votos": [
+    {
+     "diretor": "Menezes",
+     "voto": "relator, aprova a retomada",
+     "ts": "0:42:30",
+     "justificativa": "adequar a audiência ao rito eletrônico da Res. 5.891",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:46:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:46:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:46:06",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.1",
+   "ts": "0:47:11",
+   "processo": "50500.156813/2013",
+   "interessado": "Fundação Getúlio Vargas (FGV)",
+   "assunto": "Alteração na gestão e fiscalização do contrato 029/2018 entre ANTT e FGV (despacho de Alexandre Porto)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Alteração de gestão e fiscalização do contrato.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:47:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:47:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:47:46",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "sigiloso (2.4.2 da pauta reservada)",
+   "ts": "0:05:29",
+   "processo": "50500.1?/2019-93",
+   "interessado": "Cooperativa de Transporte Complementar Interestadual (Cotrans)",
+   "assunto": "Aplicação de penalidades (processo administrativo sancionador, julgamento reservado ao final da transmissão)",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "não informado",
+   "resultado": "sigiloso (não transmitido)",
+   "resumo_voto": "Processo reservado (art. 78 da Lei 10.233/2001); julgado após o fim da transmissão; sem conteúdo no vídeo.",
+   "votos": []
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática muito ruidosa; DG grafado Marcelo Fonseca/Marcelo de Novo; o diretor 'Menezes' aparece como 'Mocha/Meses' (nome completo e grafia incertos).",
+  "Votos 'de acordo' têm ts aproximados; a legenda não distingue claramente os nomes na votação.",
+  "Em 2.3.1 a legenda diz que Davi 'não acompanha' o voto-vista, o que contradiz a unanimidade registrada: voto marcado com baixa confiança.",
+  "Quem é o relator de 2.4.1 e 2.4.2 (Menezes) é inferido por contexto; números de processo parciais; o item sigiloso (Cotrans) só aparece no aviso inicial; valores de tarifas e percentuais são da legenda."
+ ]
+}

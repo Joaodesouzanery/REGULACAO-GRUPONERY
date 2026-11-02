@@ -1,0 +1,207 @@
+{
+  "meta": {"video_id": "5H2Ghxo8L9k", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:02:35); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "844", "data": "2020-02-04", "formato": "presencial, com transmissão ao vivo pelo YouTube",
+    "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral)",
+    "diretores_presentes": ["Marcelo Vinaud", "Elizabeth Braga", "Weber Ciloni", "Davi Barreto", "Mário Rodrigues Junior"],
+    "ausentes": [],
+    "observacoes": ["Encerrada às 16h59 (transmissão ao vivo).", "Alexandre Porto não aparece nas votações desta reunião (a legenda não registra a presença dele).", "O processo reservado 2.1.5 (Concessionária da Rodovia Osório-Porto Alegre, recurso contra decisão de 2018, relator Marcelo Vinaud) correu em sigilo ao final da transmissão e não consta do vídeo.", "Itens em bloco (votos disponibilizados antes da reunião) foram aprovados por unanimidade sem discussão registrada.", "Principal item de mérito: 24ª revisão ordinária e 15ª extraordinária da Nova Dutra, com sustentação oral da concessionária."]
+  },
+  "itens": [
+    {
+      "id": "2.1.1", "ts": "0:04:52",
+      "processo": "50500.321976/2019-79", "interessado": "Expresso Metrópolis Transportes e Viagens Ltda. (cedente) e Expresso Fênix Viação Ltda. (receptora)",
+      "assunto": "Anuência prévia para transferência do mercado Ouro Fino (MG) - Campinas (SP) no transporte rodoviário interestadual de passageiros em regime de autorização",
+      "tema": ["ônibus (transporte regular, TAR)", "regulação normativa"],
+      "relator": "Marcelo Vinaud", "resultado": "aprovado por unanimidade - indeferida a transferência",
+      "resumo_voto": "Após a Deliberação 955/2019 (que alterou o art. 51 da Res. 4.770/2015) as empresas manifestaram interesse em seguir, mas não completaram a documentação: a cedente não informou como operaria os mercados remanescentes; a receptora não apresentou cadastro, inscrição estadual em MG e SP, esquema operacional, quadro de horários nem frota compatível. Sem condições de análise adequada, indefere.",
+      "votos": [
+        {"diretor": "Marcelo Vinaud", "voto": "relator, indefere", "ts": "0:06:27", "justificativa": "documentação obrigatória não apresentada pelas duas empresas, inviabilizando a análise", "confianca": "alta"},
+        {"diretor": "Elizabeth Braga", "voto": "de acordo com o relator", "ts": "0:06:40", "confianca": "media"},
+        {"diretor": "Weber Ciloni", "voto": "acompanha o relator pelo indeferimento", "ts": "0:06:47", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "acompanha", "ts": "0:06:52", "confianca": "media"},
+        {"diretor": "Mário Rodrigues Junior", "voto": "de acordo", "ts": "0:06:55", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.1.2 a 2.1.4", "ts": "0:07:06",
+      "processo": "50500.340539/2019-54; 50500.006440/2020-60; 50500.007754/2020-80", "interessado": "Ecosul (declaração de utilidade pública); Ailton Mendes de Souza Filho Eireli (fretamento); THS Transportes Eireli (serviço regular em autorização)",
+      "assunto": "Bloco: 2.1.2 declaração de utilidade pública das obras da base operacional e SAU na BR-392/RS (Rio Grande) pela Ecosul; 2.1.3 termo de autorização de fretamento; 2.1.4 termo de autorização de serviço regular de passageiros",
+      "tema": ["concessões rodoviárias", "ônibus (fretamento)", "ônibus (transporte regular, TAR)"],
+      "relator": "Marcelo Vinaud", "resultado": "aprovados em bloco por unanimidade",
+      "resumo_voto": "Votos disponibilizados aos diretores antes da reunião; deliberados em bloco sem discussão registrada.",
+      "votos": [
+        {"diretor": "Marcelo Vinaud", "voto": "relator, aprova em bloco", "ts": "0:07:06", "confianca": "media"},
+        {"diretor": "Elizabeth Braga", "voto": "de acordo", "ts": "0:08:20", "confianca": "media"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo com os votos em bloco", "ts": "0:08:28", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "acompanha", "ts": "0:08:33", "confianca": "media"},
+        {"diretor": "Mário Rodrigues Junior", "voto": "acompanha", "ts": "0:08:35", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.1.5", "ts": "0:04:27",
+      "processo": "50520.026890/2017-68 (número lido de forma incerta)", "interessado": "Concessionária da Rodovia Osório-Porto Alegre S.A. (Concepa)",
+      "assunto": "Recurso contra a decisão 043/2018 em processo administrativo sancionador (item reservado)",
+      "tema": ["fiscalização e sanções", "concessões rodoviárias", "judicializacao"],
+      "relator": "Marcelo Vinaud", "resultado": "julgado em sigilo após a transmissão; resultado não disponível no vídeo",
+      "resumo_voto": "Processo reservado (art. 78-B da Lei 10.233/2001 e art. 71 §1º do Regimento Interno): julgamento ao final da transmissão, com participação restrita às partes e procuradores.",
+      "votos": []
+    },
+    {
+      "id": "2.2.1", "ts": "0:08:45",
+      "processo": "50501.355386/2018-59", "interessado": "Edson Agência de Viagem do Expresso Turismo Ltda. e Expresso Adamantina Ltda.",
+      "assunto": "Transferência de mercado (passageiros interestadual)",
+      "tema": ["ônibus (transporte regular, TAR)"],
+      "relator": "Elizabeth Braga", "resultado": "retirado de pauta",
+      "resumo_voto": "A relatora pediu a retirada porque a empresa protocolou no mesmo dia pedido de desistência da transferência.",
+      "votos": []
+    },
+    {
+      "id": "2.2.2", "ts": "0:09:26",
+      "processo": "50500.xxx607/2019-45 (número parcial na legenda)", "interessado": "Viação Santa Cruz Ltda. (receptora) e Fábio Viagens e Turismo Mococa Ltda. (cedente)",
+      "assunto": "Anuência prévia para transferência de mercados de passageiros interestadual em regime de autorização",
+      "tema": ["ônibus (transporte regular, TAR)"],
+      "relator": "Elizabeth Braga", "resultado": "aprovado por unanimidade - transferência autorizada",
+      "resumo_voto": "Pedido protocolado antes de 18/06/2019, logo apreciado pelas regras anteriores (art. 51 da Res. 4.770/2015, conforme a Deliberação 955/2019); receptora sem multas impeditivas e em situação regular; instruções técnica e jurídica favoráveis.",
+      "votos": [
+        {"diretor": "Elizabeth Braga", "voto": "relatora, aprova", "ts": "0:09:46", "justificativa": "pedido anterior ao marco de 18/06/2019 e receptora regular, sem multas impeditivas", "confianca": "alta"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo", "ts": "0:11:52", "confianca": "media"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo conforme proposto pela relatora", "ts": "0:11:56", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:12:00", "confianca": "media"},
+        {"diretor": "Mário Rodrigues Junior", "voto": "de acordo", "ts": "0:12:01", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.2.3", "ts": "0:12:07",
+      "processo": "50500.022742/2019-32 (número lido de forma incerta)", "interessado": "Superintendência de Governança Regulatória (Sureg)",
+      "assunto": "Consulta Pública 2/2018: relatório final e minuta de resolução que criaria conselhos da agência com comissões tripartites",
+      "tema": ["institucional", "participação social", "regulação normativa"],
+      "relator": "Elizabeth Braga", "resultado": "retirado de pauta (devolvido à área técnica)",
+      "resumo_voto": "A relatora pediu a retirada: a proposta (vários conselhos com comissões tripartites, em consulta desde 2018) ainda não fora debatida na Diretoria e exigiria estrutura adequada de controle; sugeriu debater mais e devolver à área técnica. Os demais diretores concordaram.",
+      "votos": [
+        {"diretor": "Elizabeth Braga", "voto": "relatora, pede retirada de pauta", "ts": "0:12:33", "justificativa": "proposta de conselhos tripartites ainda não discutida na Diretoria; exige estrutura de controle", "confianca": "alta"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo com a retirada", "ts": "0:13:10", "confianca": "baixa"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo com a retirada", "ts": "0:13:12", "confianca": "baixa"},
+        {"diretor": "Davi Barreto", "voto": "de acordo com a retirada", "ts": "0:13:14", "confianca": "baixa"},
+        {"diretor": "Mário Rodrigues Junior", "voto": "de acordo com a retirada", "ts": "0:13:14", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2.2.4 a 2.2.7", "ts": "0:13:30",
+      "processo": "50500.388253/2016-15; 50500.410612/2019-62; 50500.410842/2019-21; 50500.007572/2020-38", "interessado": "Viação Novo (nome incerto); Expresso Guanabara S.A. (2.2.5 e 2.2.6); locadora (fretamento, nome incerto)",
+      "assunto": "Bloco: 2.2.4 alteração de licença operacional com inclusão de mercados; 2.2.5 pedido de paralisação de linha; 2.2.6 pedido de supressão de linha; 2.2.7 termo de autorização de fretamento",
+      "tema": ["ônibus (transporte regular, TAR)", "ônibus (fretamento)"],
+      "relator": "Elizabeth Braga", "resultado": "aprovados em bloco por unanimidade",
+      "resumo_voto": "Votos disponibilizados antes da reunião; deliberados em bloco sem discussão.",
+      "votos": [
+        {"diretor": "Elizabeth Braga", "voto": "relatora, aprova em bloco", "ts": "0:13:30", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo", "ts": "0:14:35", "confianca": "media"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo", "ts": "0:14:38", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:14:40", "confianca": "media"},
+        {"diretor": "Mário Rodrigues Junior", "voto": "de acordo", "ts": "0:14:42", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.3.1", "ts": "0:16:36",
+      "processo": "50500.307xxx/2019 (número parcial na legenda)", "interessado": "Concessionária da Rodovia Presidente Dutra S.A. (Nova Dutra)",
+      "assunto": "24ª revisão ordinária, 15ª revisão extraordinária e reajuste anual da tarifa básica de pedágio (vigência prevista 08/02/2020); matéria já aprovada anteriormente (deliberação suspensa por decisão judicial)",
+      "tema": ["concessões rodoviárias", "pedágio", "reequilíbrio contratual", "judicializacao"],
+      "relator": "Weber Ciloni", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Eventos analisados: correção do índice de reajuste provisório, tráfego real em vez do projetado, eixo suspenso (Lei 13.103), cronograma de obras, reversão por verbas não utilizadas (RDT e PRF), receitas extraordinárias; na 15ª extraordinária, isenção aos veículos de Resende na praça de Itatiaia (cautelar judicial, parecer da Procuradoria reconhece a vigência da isenção em 2018) e correção de erro material. Efeito: a tarifa cai cerca de 5,26% sobre a de 2018 após arredondamento (valor da categoria 1 na casa de R$ 14,40 em praças da Dutra, conforme a legenda). Sustentação oral: a concessionária defendeu (a) a manutenção do reequilíbrio parcial dos projetos executivos pela Portaria 161/2017 e Resolução 5.393/2017 (segurança jurídica, norma procedimental, isonomia, interesse público - contrato termina em cerca de um ano) e (b) a manutenção do reequilíbrio da rádio própria aprovada em 2011 (confiança legítima, irretroatividade). O relator votou por aprovar as revisões e o reajuste.",
+      "votos": [
+        {"diretor": "Weber Ciloni", "voto": "relator, aprova revisões e reajuste", "ts": "0:37:47", "justificativa": "instruções técnicas e jurídicas favoráveis; necessidade de recompor o equilíbrio econômico-financeiro", "confianca": "alta"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo com o relator", "ts": "0:38:17", "confianca": "media"},
+        {"diretor": "Elizabeth Braga", "voto": "acompanha o relator", "ts": "0:38:20", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "acompanha o relator", "ts": "0:38:22", "confianca": "media"},
+        {"diretor": "Mário Rodrigues Junior", "voto": "acompanha o relator", "ts": "0:38:23", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.3.2", "ts": "0:39:01",
+      "processo": "50500.349644/2019-59", "interessado": "Superintendência de Exploração de Infraestrutura Rodoviária (Suinf)",
+      "assunto": "Audiência Pública 12/2019: aprovação do relatório e envio do plano de outorga ao Ministério da Infraestrutura para a concessão do lote rodoviário da BR-153 (TO/GO)",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "participação social"],
+      "relator": "Weber Ciloni", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Audiência com contribuições eletrônicas e sessões em Brasília, Anápolis, Palmas e Gurupi; contribuições aceitas serão incorporadas às minutas de edital e contrato e ao PER (por exemplo, valores do Sicro/DNIT como parâmetro de orçamento de pavimentação e de custos operacionais); recomendações da Procuradoria acolhidas, com nova análise jurídica após as alterações.",
+      "votos": [
+        {"diretor": "Weber Ciloni", "voto": "relator, aprova", "ts": "0:42:05", "confianca": "alta"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo", "ts": "0:42:29", "confianca": "media"},
+        {"diretor": "Elizabeth Braga", "voto": "acompanha", "ts": "0:42:33", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "acompanha", "ts": "0:42:36", "confianca": "media"},
+        {"diretor": "Mário Rodrigues Junior", "voto": "acompanha", "ts": "0:42:38", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.3.3 a 2.3.7", "ts": "0:42:46",
+      "processo": "50500.410566/2019-00; 50500.410652/2019-12; 50500.410677/2019-72; 50500.381968/2019-81; 50500.371952/2019-61", "interessado": "Expresso Guanabara S.A. (2.3.3 a 2.3.5); Viação Araguarina (2.3.6); Expresso União Ltda. (2.3.7)",
+      "assunto": "Bloco: alteração de licença operacional, pedidos de supressão de linhas e paralisação de mercados",
+      "tema": ["ônibus (transporte regular, TAR)"],
+      "relator": "Weber Ciloni", "resultado": "aprovados em bloco por unanimidade",
+      "resumo_voto": "Votos disponibilizados antes da reunião; deliberados em bloco sem discussão.",
+      "votos": [
+        {"diretor": "Weber Ciloni", "voto": "relator, aprova em bloco", "ts": "0:42:46", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo", "ts": "0:43:47", "confianca": "media"},
+        {"diretor": "Elizabeth Braga", "voto": "de acordo com os votos em bloco", "ts": "0:43:50", "confianca": "media"},
+        {"diretor": "Davi Barreto", "voto": "acompanha", "ts": "0:43:55", "confianca": "baixa"},
+        {"diretor": "Mário Rodrigues Junior", "voto": "acompanha", "ts": "0:43:58", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2.4.1", "ts": "0:44:04",
+      "processo": "50501.346390/2018-26", "interessado": "Consórcio Federal de Transportes e Real Expresso Ltda.; embargante: Real Maia Turismo e Cargas Ltda.",
+      "assunto": "Embargos de declaração contra a Deliberação 955/2019 e pedido de anuência prévia à transferência de mercados (passageiros interestadual) entre Consórcio Federal de Transportes e Real Expresso",
+      "tema": ["ônibus (transporte regular, TAR)", "regulação normativa"],
+      "relator": "Davi Barreto", "resultado": "aprovado por unanimidade - embargos conhecidos e rejeitados; transferência anuída",
+      "resumo_voto": "Os embargos de Real Maia buscavam rediscutir o mérito sem apontar contradição, obscuridade ou omissão. O relator esclareceu que a Diretoria não entendeu que deixou de existir a figura do «vai operacional» (verificação de impacto competitivo); a Del. 955 apenas deixou de exigir verificação a priori, que será feita caso a caso, a posteriori, se houver evidência. Quanto ao pedido de transferência: protocolado antes do marco temporal da Del. 955, empresas manifestaram interesse, receptora cumpre os requisitos (parecer da Superintendência).",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "relator, conhece e rejeita os embargos; anui à transferência", "ts": "0:48:25", "justificativa": "embargos reabrem o mérito sem vício; pedido de transferência cumpre as regras da época do protocolo", "confianca": "alta"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo", "ts": "0:48:40", "confianca": "media"},
+        {"diretor": "Elizabeth Braga", "voto": "de acordo", "ts": "0:48:42", "confianca": "media"},
+        {"diretor": "Weber Ciloni", "voto": "acompanha o relator", "ts": "0:48:45", "confianca": "media"},
+        {"diretor": "Mário Rodrigues Junior", "voto": "acompanha", "ts": "0:48:50", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.4.2 a 2.4.4", "ts": "0:48:58",
+      "processo": "50500.005381/2020-11; 50500.006417/2020-75; 50500.415298/2019 (número parcial)", "interessado": "4S Transportes Ltda. e outros; Adriano Borges de Lima Eireli e outros (recadastramento de termos de autorização de fretamento); Concessionária das Rodovias Integradas do Sul (Ecovias do Sul)",
+      "assunto": "Bloco: recadastramento de termos de autorização de fretamento (2.4.2 e 2.4.3) e declaração de utilidade pública para retornos operacionais e vias locais da praça P1 na BR-101/RS, em Três Cachoeiras (2.4.4)",
+      "tema": ["ônibus (fretamento)", "concessões rodoviárias"],
+      "relator": "Davi Barreto", "resultado": "aprovados em bloco por unanimidade",
+      "resumo_voto": "Votos disponibilizados antecipadamente; deliberados em bloco sem discussão.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "relator, aprova em bloco", "ts": "0:48:58", "confianca": "media"},
+        {"diretor": "Marcelo Vinaud", "voto": "de acordo", "ts": "0:49:55", "confianca": "media"},
+        {"diretor": "Elizabeth Braga", "voto": "de acordo", "ts": "0:50:00", "confianca": "media"},
+        {"diretor": "Weber Ciloni", "voto": "de acordo com os votos em bloco", "ts": "0:50:05", "confianca": "media"},
+        {"diretor": "Mário Rodrigues Junior", "voto": "de acordo com os votos do relator", "ts": "0:50:15", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3.1 a 3.4", "ts": "0:50:34",
+      "processo": "50500.007388/2020-81 (3.1); 50501.358192/2018-13 (3.2); 50500.041057/2015-91 (3.3); outro (3.4)", "interessado": "Pedidos de cancelamento de distribuição (art. 67 do Regimento Interno)",
+      "assunto": "Assuntos gerais: pedidos de cancelamento de distribuição de processos, entre eles o relativo às propostas de alteração das competências fiscalizatórias da ANTT",
+      "tema": ["institucional"],
+      "relator": "Marcelo Vinaud", "resultado": "sem objeção dos diretores - cancelamentos aceitos",
+      "resumo_voto": "O secretário leu os despachos; o Diretor-Geral perguntou se havia objeção e nenhum diretor se opôs.",
+      "votos": [
+        {"diretor": "Marcelo Vinaud", "voto": "sem objeção", "ts": "0:51:40", "confianca": "baixa"},
+        {"diretor": "Elizabeth Braga", "voto": "sem objeção", "ts": "0:51:45", "confianca": "baixa"},
+        {"diretor": "Weber Ciloni", "voto": "sem objeção", "ts": "0:51:50", "confianca": "baixa"},
+        {"diretor": "Davi Barreto", "voto": "sem objeção", "ts": "0:51:55", "confianca": "baixa"},
+        {"diretor": "Mário Rodrigues Junior", "voto": "sem objeção", "ts": "0:52:00", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"id": "2.2.1", "relator": "Elizabeth Braga", "motivo": "empresa desistiu da transferência no mesmo dia"},
+    {"id": "2.2.3", "relator": "Elizabeth Braga", "motivo": "proposta de conselhos tripartites não debatida na Diretoria; devolvida à área técnica"}
+  ],
+  "limites_da_analise": [
+    "Legenda automática: nomes de diretores variam (Marcelo Vinaud aparece como «Marcelo minor/novo/venoso»; Weber Ciloni como «Weber Silone/Velho esse longe»; Elizabeth Braga pode ser Elizabete Braga). Grafia canônica adotada a partir das saudações e da lista de diretores da época.",
+    "Os minutos das votações de quem apenas acompanha o relator são aproximados (confiança média/baixa); a legenda omite muitos votos individuais, sobretudo os de Elizabeth Braga, Davi Barreto e Mário Rodrigues Junior.",
+    "Números de processo, valores de tarifa e nomes de empresas (Viação Novo..., locadora de fretamento, advogada Helena/Eliana Cunha) estão distorcidos na legenda e foram omitidos ou marcados como incertos.",
+    "O processo reservado 2.1.5 (Concepa) foi julgado em sigilo e não está no vídeo.",
+    "Alexandre Porto não aparece nesta reunião; não foi possível confirmar se estava ausente ou se foi apenas omitido pela legenda.",
+    "O item 3 (assuntos gerais) é descrito como quatro processos, mas a legenda lista apenas três despachos com clareza."
+  ]
+}

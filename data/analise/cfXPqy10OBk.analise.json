@@ -1,0 +1,84 @@
+{
+ "meta": {
+  "video_id": "cfXPqy10OBk",
+  "fonte": "legenda automática do YouTube; falantes inferidos pelas saudações; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "65 (extraordinária)",
+  "data": "2020-06-25",
+  "formato": "videoconferência (gravada)",
+  "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral em exercício, inferido)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Weber Ciloni",
+   "Davi Barreto",
+   "Alexandre Porto",
+   "Menezes"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Reunião extraordinária com um único item.",
+   "A reunião ordinal da RD é a 65ª Extraordinária; encerrada às 18h05."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1.1",
+   "ts": "0:01:02",
+   "processo": "50500.015938/2009-80 (legenda)",
+   "interessado": "Concessionária das Rodovias Centrais do Brasil S.A. (Concebra)",
+   "assunto": "Proposta de revogação do art. 3º da Deliberação nº 964/2019 (30/10/2019), de modo a implementar a redução tarifária de pedágio, em cumprimento à ordem processual de 17/06/2020 no procedimento arbitral na CCI, que revogou a tutela cautelar da 3ª Vara Federal do DF que impedia a redução",
+   "tema": [
+    "concessões rodoviárias",
+    "pedágio / redução tarifária",
+    "arbitragem",
+    "judicialização",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Tribunal arbitral revogou a cautelar judicial e determinou que a ANTT implemente em 10 dias a nova tarifa; relator vota por promover a redução prevista na Del. 964/2019, com vigência a partir de 0h do dia 28/06/2020. Parecer da Procuradoria acolhido parcialmente.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova revogação do art. 3º e redução tarifária a partir de 28/06",
+     "ts": "0:01:15",
+     "justificativa": "cumprir a ordem do tribunal arbitral (CCI) e os pareceres técnico-jurídicos",
+     "tom": "alta",
+     "confianca": "técnico, de cumprimento"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:03:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:03:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:04:01",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:04:05",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: nomes distorcidos (Concebe/Cebra = Concebra); número de processo parcial.",
+  "O voto de Weber Ciloni (legenda: Pedra Simone) e de Menezes (legenda: Menezes) são inferidos pela ordem de votação.",
+  "Reunião extraordinária curta (1 item); presidida pelo DG em exercício; secretário-geral e procuradora-geral presentes."
+ ]
+}

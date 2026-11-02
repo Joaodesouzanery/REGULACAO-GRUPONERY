@@ -1,0 +1,245 @@
+{
+ "meta": {
+  "video_id": "mBKYTdfpNH0",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "861",
+  "data": "2020-06-23",
+  "formato": "videoconferência; nesta reunião as transmissões ao vivo seguem suspensas (vídeo gravado e disponibilizado depois)",
+  "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral em exercício)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Davi Barreto",
+   "Weber Ciloni",
+   "Alexandre Porto",
+   "Eduardo Marra"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 16h24.",
+   "Item extrapauta de relatoria de Alexandre Porto incluído por relevância e urgência.",
+   "Alexandre Porto declarou-se impedido no recurso da Ferrogrão."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.2.2 a 2.2.5, 2.3.2, 2.3.3 (reservados)",
+   "ts": "0:01:54",
+   "processo": "vários (parciais)",
+   "interessado": "Montana Express Transportes (2.2.2); administradores da Sul América Transportes (2.2.3); Viagens e Turismo (2.2.4); Princesa dos Campos Turismo (2.2.5); Viva Turismo (2.3.2, reconsideração da Deliberação 996/2019); Paloma e Cia (2.3.3, reconsideração da Deliberação de 14/01/2020)",
+   "assunto": "Processos sancionadores e pedidos de reconsideração com restrição de acesso, julgados ao final da transmissão (relatorias de Davi Barreto e Alexandre Porto)",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Davi Barreto (2.2.x); Alexandre Porto (2.3.x)",
+   "resultado": "sigiloso – julgamento fora da transmissão",
+   "resumo_voto": "Sem conteúdo público.",
+   "votos": []
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:03:36",
+   "processo": "50500.037806/2020-42 (parcial)",
+   "interessado": "Associação Brasileira de Transportadores de Cargas e Pessoas do Brasil",
+   "assunto": "Recurso administrativo contra os estudos técnicos da Audiência Pública 14/2017 para a concessão da Ferrogrão (EF-170, Sinop/MT a Itaituba/PA), com pedido de efeito suspensivo",
+   "tema": [
+    "ferrovias",
+    "participação social",
+    "judicializacao"
+   ],
+   "relator": "Marcelo Vinaud (inferido)",
+   "resultado": "aprovado por unanimidade (indeferimento do recurso)",
+   "resumo_voto": "Indefere o recurso e segue com a licitação da EF-170: SUCON e SUFER rejeitam as alegações; sem risco ao processo licitatório nem lesão ao patrimônio público que justifique efeito suspensivo; procuradoria informou não haver ação judicial correlata. Na votação houve correção de redação (nota técnica citava que documentos «não foram amplamente discutidos com a coletividade»).",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova (indeferimento)",
+     "ts": "0:08:01",
+     "justificativa": "área técnica e SUCON rejeitam; sem lesão ao patrimônio público",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:08:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:08:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "impedido de votar",
+     "ts": "0:08:23",
+     "justificativa": "declarou impedimento por ter sido superintendente envolvido, conforme regimento e procuradoria",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:08:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:08:48",
+   "processo": "50500.397035/2019-58 (parcial)",
+   "interessado": "Eucatur – Empresa União Cascavel de Transporte e Turismo Ltda.",
+   "assunto": "Solicitação de instalação de procedimento administrativo de arbitragem para liquidação e apuração de lucros cessantes de ≈ R$ 2,6 bilhões decorrentes de atos administrativos anulados judicialmente",
+   "tema": [
+    "judicializacao",
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade (indeferimento)",
+   "resumo_voto": "Indefere a arbitragem: há ação rescisória no STJ que pode alterar o título judicial; procuradoria vê impossibilidade jurídica de confundir jurisdição arbitral com a estatal; sem previsão normativa para arbitragem administrativa de liquidação; autos seguem à AGU para apreciar pedido de recuperação judicial.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova (indeferimento)",
+     "ts": "0:11:05",
+     "justificativa": "interesse da ANTT depende da decisão do STJ; arbitragem sem previsão normativa e juridicamente impossível",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:11:52",
+     "justificativa": "reconhece que o pedido de arbitragem seria cabível em tese («direito de pedir»), mas acompanha",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:12:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:12:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:12:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:12:21",
+   "processo": "50500.410936/2009-09 (parcial)",
+   "interessado": "Governo do Distrito Federal (GDF)",
+   "assunto": "Celebração de convênio de delegação ao GDF da regulação e fiscalização do transporte rodoviário interestadual semiurbano coletivo de passageiros na RIDE-DF e entorno (vigência 15 anos, sem desembolso da ANTT)",
+   "tema": [
+    "ônibus (semiurbano)",
+    "regulação normativa",
+    "institucional"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Convênio e plano de trabalho elaborados por grupo de trabalho; GDF deve observar as normas gerais e as regras da ANTT, implantar sistemas informatizados com envio periódico de informações e franquear acesso a documentos e instalações. Debate: proposta de grupo de trabalho com representante da diretoria para acompanhar a delegação e de integrar o Monitriip, e lembrança de que o voto não indica o gestor do convênio.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, aprova",
+     "ts": "0:15:11",
+     "justificativa": "eliminar conflitos de normas entre esferas e aproximar planejamento do serviço à realidade do DF",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo; sugere grupo de trabalho com representante da diretoria e monitoramento (Monitriip)",
+     "ts": "0:15:49",
+     "justificativa": "acompanhamento próximo e gestor do convênio bem escolhido",
+     "tom": "construtivo",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:17:50",
+     "justificativa": "parabeniza pelo desfecho esperado pelo GDF",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:18:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:18:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "Extrapauta",
+   "ts": "0:19:54",
+   "processo": "50500.002870/2015-48 (parcial)",
+   "interessado": "SUROC / SUCAR",
+   "assunto": "Alteração da Resolução 5.879/2020 (flexibilização de prazos por causa da covid-19), prorrogando até 31/07/2020 a extensão das obrigações da Res. 4.799 (RNTRC) e a flexibilização do cadastro de novos transportadores (arts. 6º e 7º)",
+   "tema": [
+    "transporte rodoviário de cargas (RNTRC)",
+    "regulação normativa"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Prorroga os prazos dos arts. 6º e 7º da Res. 5.879 porque o prazo de 90 dias estava para expirar e a emergência de saúde pública persiste. Incluído em pauta por relevância e urgência pelo Diretor-Geral.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, aprova",
+     "ts": "0:22:01",
+     "justificativa": "emergência de saúde pública persiste; prazo de 90 dias prestes a expirar",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:22:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:22:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:22:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:22:55",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática com nomes distorcidos: «cilloni/siloni/simone» interpretado como Weber Ciloni; «chineses/menezes» como Eduardo Marra (incerto); «Marcelo de novo» como Marcelo Vinaud; «porto/achar» como Alexandre Porto.",
+  "Relator do 2.1.1 inferido (leitura pelo Diretor-Geral em exercício); autor das sugestões no 2.3.1 (grupo de trabalho/Monitriip) inferido como Diretor-Geral, confiança baixa.",
+  "Números de processo e valores parciais ou distorcidos; ts dos votos de seguidores aproximados.",
+  "Itens reservados sem conteúdo."
+ ]
+}

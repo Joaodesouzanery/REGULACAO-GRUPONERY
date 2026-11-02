@@ -1,0 +1,927 @@
+{
+ "meta": {
+  "video_id": "185j9FgJSfw",
+  "fonte": "legenda automática do YouTube; falantes da legenda são inferidos e frequentemente errados (o presidente da sessão é rotulado Marcelo Fonseca); ts = tempo do vídeo, aproximados para quem só vota de acordo",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "851",
+  "data": "2020-04-07",
+  "formato": "videoconferência (gravada e disponibilizada depois)",
+  "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral em exercício)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Weber Ciloni",
+   "Davi Barreto",
+   "Alexandre Porto",
+   "Menezes"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 17h41 (~1:03:09).",
+   "Primeira reunião em videoconferência após a pandemia; referendos das Resoluções 5.878 e 5.879 (suspensão de prazos sancionadores e flexibilização de prazos).",
+   "Alexandre Porto declarou-se impedido em 2.1.7 (Rumo Malha Oeste); vista de Alexandre Porto em 2.1.5.",
+   "Homologação do leilão da BR-101/SC (CCR, R$ 1,97)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:58",
+   "processo": "",
+   "interessado": "Secretaria da reunião",
+   "assunto": "Aprovação da ata da 850ª reunião",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "—",
+   "resultado": "aprovada",
+   "resumo_voto": "Leitura dispensada.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:01:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:01:18",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:01:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:01:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:01:27",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "sigilosos",
+   "ts": "0:01:33",
+   "processo": "50500.145/2019 (embargos); 50500.327800/2017; 50500.301483/2019-12; 50500.004817/2019-11; 50500.330482/2019-85; 50500.551179/2017-52; 50500.334968/2018-92; 50501.325151/2018-31",
+   "interessado": "Ferrovia Transnordestina Logística S.A. (embargos de declaração à Deliberação 947/2019); Terra Santa Turismo; Planalto Transportadora Turística; +X Turismo Empreendimento; Viação Juína; Helios Coletivos e Cargas; corregedoria (PAD)",
+   "assunto": "Processos reservados (art. 78 da Lei 10.233/2001): aplicação de penalidades, embargos de declaração e processo administrativo disciplinar da corregedoria; com pedido de sustentação oral pela advogada da Transnordestina",
+   "tema": [
+    "fiscalização e sanções",
+    "ferrovias",
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "MV (2.1.9 a 2.1.12); Weber Ciloni (2.2.7, 2.2.8); Alexandre Porto (2.4.2); Menezes (2.5.4)",
+   "resultado": "sigiloso (não transmitido)",
+   "resumo_voto": "Julgados em sessão reservada; sem conteúdo no vídeo.",
+   "votos": []
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:02:21",
+   "processo": "50501.355070/77-2018-89",
+   "interessado": "Guerino Seiscentos Transportes S.A. e outras",
+   "assunto": "Referendo da Deliberação 116/2020 (negou provimento às impugnações das empresas Reunidas Paulista, Expresso de Prata, Viação Motta, Cometa, São Luiz e convalidou a Deliberação 898/2019, mantendo alteração da licença operacional por decisão judicial para inclusão de mercados)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Cumprimento de decisão judicial; mercados pedidos pela Guerino foram analisados nos termos da legislação; a SUPAS recomendou referendo pelo DG.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, referenda",
+     "ts": "0:02:21",
+     "justificativa": "atendimento à decisão judicial e à legislação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:06:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:06:44",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:06:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo (microfone desligado na votação)",
+     "ts": "0:06:55",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:07:21",
+   "processo": "—",
+   "interessado": "SUFIS",
+   "assunto": "Referendo da Resolução 5.878, de 26/03/2020: suspensão por 90 dias corridos dos prazos processuais nos processos sancionadores (Res. 5.083/2016), ajustada à MP 928/2020 (suspensão enquanto durar o estado de calamidade, Decreto Legislativo 6/2020)",
+   "tema": [
+    "fiscalização e sanções",
+    "regulação normativa"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Procuradoria sem óbice: a prorrogação amplia o contraditório e a ampla defesa; relator propõe alterar o artigo 1º para vincular a suspensão ao estado de calamidade pública.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, referenda com ajuste (suspensão enquanto durar a calamidade)",
+     "ts": "0:07:21",
+     "justificativa": "a suspensão garante maior prazo ao contraditório; harmonização com a MP 928/2020",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o referendo",
+     "ts": "0:10:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:10:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:10:18",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:10:22",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.3",
+   "ts": "0:10:51",
+   "processo": "50500.028701/2015-48",
+   "interessado": "Superintendência de Exploração da Infraestrutura Rodoviária (legenda)",
+   "assunto": "Referendo da Resolução 5.879, de 26/03/2020 (flexibilização de prazos de obrigações contratuais e regulatórias por causa do coronavírus em ferrovias de cargas e transporte rodoviário de cargas e passageiros), com alteração do art. 4º",
+   "tema": [
+    "ferrovias",
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "regulação normativa"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Dispensa de AIR (guia da Casa Civil) e de participação social por analogia à Lei 13.979/2020; ajuste do art. 4º para ferrovias; Resolução 5.869/2020 revogou a 5.876.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, referenda e altera o art. 4º",
+     "ts": "0:10:51",
+     "justificativa": "urgência da emergência de saúde pública; dispensa de AIR e consulta",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o voto na íntegra",
+     "ts": "0:14:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:14:54",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:14:58",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:15:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.4",
+   "ts": "0:15:36",
+   "processo": "50500.5920/2019-22",
+   "interessado": "Concessionária Autopista Litoral Sul S.A. (Palhoça/SC)",
+   "assunto": "Acordo judicial na Ação Civil Pública do Município de Palhoça contra a ANTT e a concessionária: definição do procedimento para revisão do contrato (edital 003/2007) quanto ao Contorno de Florianópolis e à 3ª faixa da BR-101/SC (km 200,450 a 216)",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "judicializacao"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "O acordo trata só do cronograma da revisão (45 dias para a área técnica, 60 dias para proposta à Diretoria) sem reconhecer culpa nem aprovar a revisão tarifária; Procuradoria favorável.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova o acordo",
+     "ts": "0:15:36",
+     "justificativa": "apenas fixa cronograma; não implica análise final do mérito da revisão",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator, destacando que o acordo versa só sobre cronograma e não reconhece culpa",
+     "ts": "0:20:50",
+     "justificativa": "parecer da Procuradoria: notas técnicas não vinculantes; acordo não implica procedência do pedido",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:21:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:21:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:21:28",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.5",
+   "ts": "0:22:09",
+   "processo": "50500.389217/2019-11",
+   "interessado": "AGEST",
+   "assunto": "Proposta de norma e procedimento de ciência de particulares na ANTT",
+   "tema": [
+    "institucional",
+    "regulação normativa"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "vista concedida (Alexandre Porto)",
+   "resumo_voto": "Alexandre Porto se manifestou preliminarmente pedindo vista; dispensada a leitura do voto.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, concede/propõe a vista",
+     "ts": "0:22:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "pede vista",
+     "ts": "0:22:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.6",
+   "ts": "0:23:58",
+   "processo": "50500.345641/2017-27",
+   "interessado": "Rumo Malha Sul S.A. e ArcelorMittal Brasil S.A.",
+   "assunto": "Pedido de reconsideração contra a Deliberação 10/2020, que habilitou a ArcelorMittal a negociar o fluxo de transporte por declaração de independência",
+   "tema": [
+    "ferrovias",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "reconsideração conhecida, sem efeito suspensivo, e improvida por unanimidade",
+   "resumo_voto": "Alegação de nulidade por falta de motivação rejeitada: a declaração de independência é ato declaratório que apenas habilita a negociar por 180 dias; a análise pormenorizada dos fluxos só ocorre em eventual arbitramento; argumento de que a siderúrgica atua no rodoviário não afasta o direito.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:24:20",
+     "justificativa": "declaração de independência é mero ato declaratório; análise aprofundada só em eventual arbitramento (art. 30)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o indeferimento",
+     "ts": "0:26:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:26:44",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:26:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:26:52",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.7",
+   "ts": "0:27:11",
+   "processo": "50500.121802/2018-93",
+   "interessado": "Rumo Malha Oeste S.A.",
+   "assunto": "Recurso administrativo contra decisão da SUFER que declarou descumpridos os prazos das medidas corretivas (Deliberação 432/2018) e sugeriu abertura de processo administrativo ordinário por inadimplência",
+   "tema": [
+    "ferrovias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "recurso conhecido e improvido, por maioria (Alexandre Porto impedido)",
+   "resumo_voto": "Alegação de ofensa ao contraditório rejeitada: a decisão da SUFER é procedimento preliminar; o contraditório será pleno no processo administrativo ordinário já instaurado pela Deliberação 38/2020 (21/01/2020); pedido de efeito suspensivo prejudicado.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:27:30",
+     "justificativa": "decisão preliminar; contraditório e ampla defesa serão assegurados no processo ordinário já instaurado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o indeferimento",
+     "ts": "0:30:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:30:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "declara-se impedido (foi superintendente na época, art. 85 do RI; parecer da Procuradoria cita art. 144 do CPC)",
+     "ts": "0:30:32",
+     "justificativa": "impedimento por ter proferido a decisão como superintendente",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:30:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.8",
+   "ts": "0:31:07",
+   "processo": "50503.144/2019-95",
+   "interessado": "Reunidas Transportes S.A.",
+   "assunto": "Alteração de licença operacional: manutenção da linha Santa Rosa/RS - Joinville/SC por decisão judicial transitada em julgado (STF, Min. Gilmar Mendes)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Decisão mantém o direito de operar mas obriga a cumprir a legislação federal; área técnica solicitou documentos, e a linha ganha prefixo administrativo.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova a manutenção da linha",
+     "ts": "0:31:07",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:33:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:33:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:33:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:33:12",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:33:38",
+   "processo": "50500.387111/2019-75",
+   "interessado": "Rumo Malha Central S.A.",
+   "assunto": "Alteração da data de entrega do relatório anual de acompanhamento (contrato de subconcessão da Ferrovia Norte-Sul, Porto Nacional/TO a Estrela d'Oeste/SP) para 30 de outubro; voto do relator Alexandre Porto nº 007/2020 (RD 849, 24/03/2020) e voto-vista de Weber Ciloni nº 01/2020",
+   "tema": [
+    "ferrovias",
+    "regulação normativa"
+   ],
+   "relator": "Alexandre Porto (relator original); Weber Ciloni (voto-vista)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "A SUFER não vê prejuízo para a fiscalização; relator aprovara por deliberação com formalização futura por termo aditivo; em vista, Weber diligenciou a área técnica, que confirmou ausência de prejuízo e sem contratos análogos de rodovias; inclui no art. 2º que a área notifique a concessionária para formalizar a alteração contratual; Procuradoria considerou suficiente.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "voto-vista, aprova o pedido com a minuta ajustada (notificar a concessionária para formalizar a alteração contratual)",
+     "ts": "0:34:00",
+     "justificativa": "atende ao aprimoramento recomendado pelo TCU nos mecanismos de acompanhamento; segurança jurídica por termo aditivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o voto-vista",
+     "ts": "0:38:53",
+     "justificativa": "pergunta se o relatório final tem mudança; acompanha o voto-vista",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo (relator original)",
+     "ts": "0:38:58",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:39:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:39:02",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:39:15",
+   "processo": "50500.349644/2009-05",
+   "interessado": "SUINF (exploração de infraestrutura rodoviária)",
+   "assunto": "Audiência Pública 12/2019: minutas de edital, contrato e Programa de Exploração da Rodovia para a concessão da BR-153/414/080 (Tocantins/Goiás)",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização",
+    "participação social"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Em fevereiro a Diretoria aprovou o relatório da AP e o plano de outorga (Deliberações 75 e 76); após inconsistências nos estudos apontadas pela área e comunicação ao Ministério da Infraestrutura, a Procuradoria analisou os documentos ajustados e suas recomendações foram acolhidas.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova as minutas",
+     "ts": "0:39:30",
+     "justificativa": "documentos ajustados após inconsistências; manifestações técnicas e jurídicas favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:42:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:42:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:42:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:42:32",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3",
+   "ts": "0:42:50",
+   "processo": "50500.008055/2019-13",
+   "interessado": "Irmãos Miguel Miotti e Cia. Ltda.",
+   "assunto": "Linha Santa Rosa/RS - Itajaí/SC: autorização por decisão judicial (sem a expressão «em cumprimento»)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Decisão judicial manda analisar o pedido sem afastar exigências técnico-operacionais; empresa no nível 1; a autorização deve ser administrativa e não judicial (precedente de voto-vista); a área técnica informará os juízos.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, autoriza a linha",
+     "ts": "0:43:10",
+     "justificativa": "serviço autorizado não deve ser caracterizado como judicial quando cumpridas as exigências administrativas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:46:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:46:44",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:46:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:46:52",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.4-2.2.6",
+   "ts": "0:47:11",
+   "processo": "50500.508640/2015-73; 50500.?529504/2001; 50500.027903/20-27",
+   "interessado": "Abre-Campo Transportes e outras; Cooperativa Pouso-Alegrense e outras; empresas de fretamento",
+   "assunto": "Termos de autorização e recadastramento de fretamento interestadual/internacional de passageiros, em bloco",
+   "tema": [
+    "ônibus (fretamento)"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade (em bloco)",
+   "resumo_voto": "Deliberados em bloco.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova (em bloco)",
+     "ts": "0:47:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:48:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:48:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:48:18",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:48:22",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:48:30",
+   "processo": "50501.325792/2018-97",
+   "interessado": "SUREG (governança regulatória)",
+   "assunto": "2ª revisão extraordinária da Agenda Regulatória 2019/2020: incluir regulamentação da plataforma consumidor.gov.br (Decreto 10.197/2020)",
+   "tema": [
+    "regulação normativa",
+    "participação social"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Órgãos com plataformas próprias de atendimento devem migrar até 31/12/2020; empresas reguladas serão informadas e a obrigatoriedade plena depende de normativo da ANTT.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:48:50",
+     "justificativa": "cumprir o decreto e prever normativo com obrigação e mecanismos de sanção",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:50:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:50:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:50:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:50:47",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:51:05",
+   "processo": "50500.996454/2018-44",
+   "interessado": "Aliança de Ouro Transportes e Turismo Ltda.",
+   "assunto": "Rescisão de parcelamento de débitos e alteração da Resolução 5.830/2018: decisões de rescisão e indeferimento de parcelamento passam à superintendência, independentemente do valor",
+   "tema": [
+    "fiscalização e sanções",
+    "regulação normativa"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Três parcelas consecutivas não pagas (art. 13 da Res. 5.830/2018); atos de ofício sem margem de discricionariedade; mantém-se o recurso à Diretoria; tema já debatido na RD 823.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, rescinde o parcelamento e altera a resolução",
+     "ts": "0:51:30",
+     "justificativa": "economia processual: rescisão e indeferimento são atos vinculados, de ofício, sem prejuízo de recurso à Diretoria",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo; sugere que o termo de parcelamento já preveja a suspensão automática de ofício",
+     "ts": "0:54:30",
+     "justificativa": "simplificar: cláusula no termo de formalização do parcelamento",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:55:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:55:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:55:18",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.3",
+   "ts": "0:55:48",
+   "processo": "50500.027783/2008-68",
+   "interessado": "empresa de viagens (fretamento)",
+   "assunto": "Termo de autorização de fretamento, em bloco",
+   "tema": [
+    "ônibus (fretamento)"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade (em bloco)",
+   "resumo_voto": "Deliberado em bloco.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova (em bloco)",
+     "ts": "0:55:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:56:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:56:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:56:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:56:19",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.1",
+   "ts": "0:56:33",
+   "processo": "50500.079182/2019",
+   "interessado": "Comissão de Outorga do Edital 02/2019",
+   "assunto": "Homologação do resultado do leilão da BR-101/SC (Paulo Lopes a divisa com o RS), vencido por CCR S.A. com tarifa básica de R$ 1,97",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização",
+    "pedágio"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Edital publicado em 07/11/2019 (Deliberação 987); leilão em 21/02/2020 com três propostas; critério menor tarifa; Comissão e Procuradoria sem óbice.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, aprova a homologação",
+     "ts": "0:56:41",
+     "justificativa": "requisitos atendidos; sem óbice jurídico",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo (superado período de vista)",
+     "ts": "0:58:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:59:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo",
+     "ts": "0:59:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:59:08",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.5.1",
+   "ts": "0:59:20",
+   "processo": "50500.?27/2020",
+   "interessado": "Sistema Informática Empresarial Ltda.",
+   "assunto": "Habilitação como fornecedora do vale-pedágio obrigatório em âmbito nacional (Lei 10.209/2001; Res. 2.885/2008)",
+   "tema": [
+    "pedágio",
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)"
+   ],
+   "relator": "Menezes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Documentos exigidos juntados; nota técnica da SUROC favorável.",
+   "votos": [
+    {
+     "diretor": "Menezes",
+     "voto": "relator, aprova a habilitação",
+     "ts": "0:59:40",
+     "justificativa": "requisitos regulamentares atendidos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "1:01:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "1:01:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "1:01:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "1:01:12",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.5.2-2.5.3",
+   "ts": "1:01:25",
+   "processo": "50500.?; 50525.900/2008-59",
+   "interessado": "Univale (Coronel Barbosa Lima); Via Sul Concessionária das Rodovias Integradas",
+   "assunto": "Termo de autorização de serviço regular (2.5.2) e desapropriação de áreas para praça de pedágio em Gravataí/RS (2.5.3), em bloco",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "concessões rodoviárias"
+   ],
+   "relator": "Menezes",
+   "resultado": "aprovado por unanimidade (em bloco)",
+   "resumo_voto": "Deliberado em bloco.",
+   "votos": [
+    {
+     "diretor": "Menezes",
+     "voto": "relator, aprova (em bloco)",
+     "ts": "1:01:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "1:02:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "1:02:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "1:02:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "1:02:32",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: DG grafado Marcelo Fonseca/Marcelo do Prado; Weber Ciloni como 'Silonio/Simone/Silone'; o diretor Menezes aparece como 'Rocha/Mancha/Matt Menezes' (nome completo e grafia incertos).",
+  "Numeração: legenda grafa 2.1.9 a 2.1.12, 2.2.7-2.2.8, 2.4.2 e 2.5.4 como sigilosos (agrupados em item único); 2.1.6 e 2.5.1 inferidos pela sequência.",
+  "Números de processo parciais (legenda); votos 'de acordo' têm ts aproximados e, em 2.1.1, o microfone de um diretor estava desligado.",
+  "2.2.1: a atribuição de Weber como autor do voto-vista nº 01/2020 vem do cabeçalho lido pela secretária; o 'voto do diretor Davi' ('acompanha o voto-vista') é lido de forma aproximada.",
+  "Valores como R$ 1,97 e datas de leilão vêm da legenda e podem conter erros."
+ ]
+}

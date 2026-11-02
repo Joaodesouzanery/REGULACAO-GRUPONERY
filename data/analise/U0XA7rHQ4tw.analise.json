@@ -1,0 +1,379 @@
+{
+ "meta": {
+  "video_id": "U0XA7rHQ4tw",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "846",
+  "data": "2020-02-18",
+  "formato": "presencial (sede ANTT), transmitida ao vivo no YouTube",
+  "presidente_da_sessao": "Mário Rodrigues Junior (Diretor-Geral)",
+  "diretores_presentes": [
+   "Mário Rodrigues Junior",
+   "Marcelo Vinaud",
+   "Elizabete Braga",
+   "Weber Ciloni",
+   "Davi Barreto"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 17h22 (legenda).",
+   "Última reunião de Mário Rodrigues Junior (DG) e de Elizabete Braga: despedidas dos colegas entre ~0:32:44 e ~0:49:00 (Elizabete cita 11 anos e meio de ANTT e 1.003 processos relatados em 3,5 anos de diretoria, ~16 por reunião).",
+   "Barreto menciona ter menos de oito meses na diretoria.",
+   "Processo reservado (embargos da TLSA) julgado ao final, após sustentação oral."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1",
+   "ts": "0:02:22",
+   "processo": "50500.380?15/2016-16",
+   "interessado": "Viação Xavante Ltda.",
+   "assunto": "Referendo da Deliberação 1.027? (28/11/2019 — numeração incerta): inclusão da linha Guarantã do Norte (MT)–Imperatriz (MA) e alteração da LOP por decisão judicial",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao",
+    "fiscalização e sanções"
+   ],
+   "relator": "Mário Rodrigues Junior",
+   "resultado": "aprovado por unanimidade (com condicionante)",
+   "resumo_voto": "Mandado de segurança por demora na análise; SUPAS indeferia por a empresa não estar no nível 1 do MONITRIIP (art. 4º da Del. 955/2019). Decisão judicial mandou examinar em 30 dias e, depois, comprovar o cumprimento em cinco dias sob multa diária de R$ 1 mil. Deliberação publicada e referendada; a empresa só poderá operar após enviar e ter analisada a documentação exigida pela Res. 4.770/2015 (60 dias) e ativação no sistema, sob pena de autuação — condicionante incluída no referendo.",
+   "votos": [
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "relator, referenda com condicionante",
+     "ts": "0:06:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:07:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elizabete Braga",
+     "voto": "de acordo com a proposta do relator",
+     "ts": "0:07:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o referendo e a condicionante",
+     "ts": "0:07:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:07:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:07:44",
+   "processo": "006560.00906/2020-71 (parcial)",
+   "interessado": "Sindicato da Indústria da Extração do Sal e Sindicato da Indústria de Moagem e Refino de Sal do RN",
+   "assunto": "Referendo da Resolução 5.870 (11/02/2020), que suspendeu por 240 dias a Res. 5.862/2019 (CIOT / cadastro de operação de transporte e meios de pagamento do frete) por tutela antecipada em ação dos sindicatos",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "judicializacao",
+    "regulação normativa"
+   ],
+   "relator": "Mário Rodrigues Junior",
+   "resultado": "aprovado por unanimidade (com ressalva de Weber Ciloni)",
+   "resumo_voto": "Procuradoria limitou os efeitos da decisão aos filiados dos sindicatos na data da ação. Weber Ciloni questiona se a decisão e a suspensão do STF (ministro Fux) sobre processos da tabela de frete afetariam a regulação; conclui que são matérias distintas e vota de acordo, com a ressalva de que a ANTT deveria consultar o STF sobre ações dessa natureza.",
+   "votos": [
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "relator, referenda",
+     "ts": "0:08:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:09:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elizabete Braga",
+     "voto": "de acordo",
+     "ts": "0:09:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com ressalva (consulta ao STF)",
+     "ts": "0:10:50",
+     "justificativa": "dúvida se a ordem do STF sobre tabela de frete se relaciona ao CIOT; objetos distintos; fiscalização fica difícil",
+     "tom": "questionador",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:11:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1 e 2.2.2",
+   "ts": "0:12:04",
+   "processo": "50500.010488/2020-72; 50500.012206/2020-71",
+   "interessado": "Arujá (cooperativa) e outras; Agência de Transportes Litoral Norte Ltda. e outras",
+   "assunto": "Termos de autorização de fretamento (em bloco)",
+   "tema": [
+    "ônibus (fretamento)"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade (em bloco)",
+   "resumo_voto": "Votação em bloco.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator (em bloco)",
+     "ts": "0:12:10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elizabete Braga",
+     "voto": "de acordo com os votos",
+     "ts": "0:12:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:12:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:12:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:12:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:14:38",
+   "processo": "50500.386?/2019 (parcial)",
+   "interessado": "Ferrovia Transnordestina Logística S.A. (FTL/TLSA)",
+   "assunto": "Pedido de revisão das metas anuais de produção 2019–2022 (Del. 35/2018 — legenda), após retirada de pauta na RD 842; sustentação oral",
+   "tema": [
+    "ferrovias",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade — recurso conhecido e provido em parte",
+   "resumo_voto": "Após diligência, a SUFER reviu entendimento: considera parcialmente procedente, alterando fluxos de cimento (2019), produtos siderúrgicos e celulose (2019 a 2022) e fluxos em direito de passagem (Vale e Ferrovia Norte-Sul). A concessionária pede acesso à nova manifestação da área técnica (alega não ter sido ouvida); o relator responde que a nota técnica atende exatamente o que foi documentado e vota por conhecer e dar parcial provimento, alterando as metas conforme tabelas anexas.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, conhece e dá parcial provimento",
+     "ts": "0:23:50",
+     "justificativa": "nova documentação e reanálise técnica; metas ajustadas conforme planilhas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator; defende que casos parecidos tenham condições de avançar",
+     "ts": "0:24:05",
+     "justificativa": "celeridade para processos semelhantes",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elizabete Braga",
+     "voto": "de acordo",
+     "ts": "0:24:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:24:18",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:24:22",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:25:26",
+   "processo": "50555.324257/2018-19 (parcial)",
+   "interessado": "Companhia Brasileira de Alumínio (CBA) e Ferrovia Centro-Atlântica S.A.",
+   "assunto": "Registro de usuário dependente do transporte ferroviário de cargas para fluxos de bauxita (Brasília/DF e Poços de Caldas/MG a Alumínio/SP)",
+   "tema": [
+    "ferrovias"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Autorizada a negociação por 180 dias (Del. 1.808? de 6/8/2019); contrato de transporte entre CBA e FCA apresentado; SUFER conclui que atende ao regulamento (art. 29 do Regulamento dos Usuários, Res. 3.694/2009 — grafia incerta); propõe expedir o registro.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, expede o registro",
+     "ts": "0:29:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:30:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elizabete Braga",
+     "voto": "de acordo",
+     "ts": "0:30:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:30:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:30:07",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.3 e 2.3.4",
+   "ts": "0:30:31",
+   "processo": "50500.011230/2020-93; 50540.265?7/1991",
+   "interessado": "Caio dos Transportes e outras; Transbrasiliana Concessionária de Rodovias S.A.",
+   "assunto": "Termo de autorização de fretamento e declaração de utilidade pública (em bloco)",
+   "tema": [
+    "ônibus (fretamento)",
+    "concessões rodoviárias"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado em bloco",
+   "resumo_voto": "Votação em bloco.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator (em bloco)",
+     "ts": "0:30:35",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:31:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elizabete Braga",
+     "voto": "de acordo",
+     "ts": "0:31:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:31:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:31:09",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.1 e 2.4.2",
+   "ts": "0:31:39",
+   "processo": "50500.012164/2020-79; 50500.010465/2020-68",
+   "interessado": "Expresso Itamarati e Santos e Silva Transportes; América Gente? Transportadora Turística",
+   "assunto": "Termos de autorização: regular (TAR) e recadastramento de fretamento (em bloco)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "ônibus (fretamento)"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade (em bloco)",
+   "resumo_voto": "Votação em bloco.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator (em bloco)",
+     "ts": "0:31:45",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:32:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elizabete Braga",
+     "voto": "de acordo",
+     "ts": "0:32:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:32:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Rodrigues Junior",
+     "voto": "de acordo",
+     "ts": "0:32:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3 (reservado)",
+   "ts": "0:03:00",
+   "processo": "50500.400405/2019-08",
+   "interessado": "Ferrovia Transnordestina Logística S.A.",
+   "assunto": "Processo reservado: embargos de declaração contra a Deliberação 947 (23/10/2019), com sustentação oral de advogados da concessionária",
+   "tema": [
+    "ferrovias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Mário Rodrigues Junior",
+   "resultado": "julgado na parte reservada; sem transcrição",
+   "resumo_voto": "Julgamento sigiloso; mais um processo reservado de relatoria do DG; houve discussão de logística para receber advogados sem expor processo sigiloso.",
+   "votos": []
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Os nomes dos diretores na legenda saem distorcidos (ex.: «web siloni/werner» = Weber Ciloni; «marcelo vinor/hinor/jabur» = Marcelo Vinaud; «elizabeth/elisabete brasil/branco» = Elizabete Braga; «mário de gusmão/rodrigues junho» = Mário Rodrigues Junior); atribuição por contexto.",
+  "O rótulo de falante {Marcelo Fonseca} no .md é erro da inferência automática.",
+  "A legenda não traz número de item confiável; ids seguem a leitura da secretaria.",
+  "Números de processo e de deliberações citados são parciais e podem estar errados.",
+  "Uma discussão sobre ordem dos itens (inverter pauta para o item reservado) acontece em 0:12:50–0:14:30 e não é registrada como item.",
+  "Rótulo de falante da primeira linha do .md inclui Felipe Queiroz por erro de inferência."
+ ]
+}
