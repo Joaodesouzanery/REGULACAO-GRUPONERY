@@ -8,5 +8,6 @@
  "fim": "2023-01",
  "fonte": "Agência iNFRA: nomeado no lugar de Weber Ciloni; saiu quando Felipe Queiroz assumiu (jan/2023)",
  "confianca": "media",
- "verificar": "DOU"
+ "verificar": "DOU",
+ "confirmado": "nao"
 }

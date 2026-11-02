@@ -12,5 +12,6 @@
  "fim_tipo": "estimado: início + 5 anos (mandato de 5 anos, sem recondução)",
  "fonte": "Agência iNFRA; transcrição da RD 948",
  "confianca": "media",
- "verificar": "data de posse no DOU/gov.br"
+ "verificar": "data de posse no DOU/gov.br",
+ "confirmado": "nao"
 }

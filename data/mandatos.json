@@ -4,14 +4,16 @@
   "cargo": "Diretor-Geral",
   "situacao": "titular",
   "nomeacao_dou": null,
-  "senado": null,
+  "senado": "2021-07-07",
   "inicio": "2021-08-03",
-  "fim": "2025-02-13",
+  "fim": "2025-02-18",
   "inicio_tipo": "estimado: primeira reunião como DG (RD 911, 03/08/2021); aprovado pelo Senado em jul/2021; cerimônia de posse noticiada em ago/2021",
-  "fim_tipo": "estimado: último voto em 13/02/2025; notícias indicam fim de mandato em fev/2025",
+  "fim_tipo": "mandato de 5 anos terminado em 18/02/2025 (Senado Notícias/Agência iNFRA, via busca)",
   "fonte": "votos nas transcrições; Agência iNFRA (mandato do DG terminou em fev/2025)",
   "confianca": "media",
-  "verificar": "DOU: nomeação e término"
+  "verificar": "data de posse e DOU",
+  "confirmado": "parcial",
+  "fonte_url": "https://www12.senado.leg.br/noticias/materias/2021/07/07/confirmados-em-plenario-dois-diretores-para-a-antt"
  },
  {
   "diretor": "Luciano Lourenço",
@@ -25,7 +27,8 @@
   "fim_tipo": "estimado: último voto em 13/02/2025; Agência iNFRA: mandato terminou em fev/2025 (vaga ocupada depois por Alex Azevedo)",
   "fonte": "votos nas transcrições; Agência iNFRA",
   "confianca": "media",
-  "verificar": "DOU"
+  "verificar": "DOU",
+  "confirmado": "nao"
  },
  {
   "diretor": "Davi Barreto",
@@ -39,7 +42,8 @@
   "fim_tipo": "estimado: última reunião em 16/02/2023; cadeira ocupada por Lucas Asfor",
   "fonte": "votos nas transcrições; Agência iNFRA (Lucas Asfor ocupa a cadeira de Davi Barreto em fev/2023)",
   "confianca": "media",
-  "verificar": "DOU"
+  "verificar": "DOU",
+  "confirmado": "nao"
  },
  {
   "diretor": "Felipe Queiroz",
@@ -53,7 +57,8 @@
   "fim_tipo": "estimado: início + 5 anos (mandato de 5 anos, sem recondução)",
   "fonte": "Agência iNFRA; transcrição da RD 948",
   "confianca": "media",
-  "verificar": "data de posse no DOU/gov.br"
+  "verificar": "data de posse no DOU/gov.br",
+  "confirmado": "nao"
  },
  {
   "diretor": "Lucas Asfor",
@@ -67,7 +72,8 @@
   "fim_tipo": "estimado: início + 5 anos",
   "fonte": "Agência iNFRA; transcrição da RD 951",
   "confianca": "media",
-  "verificar": "data de posse"
+  "verificar": "data de posse",
+  "confirmado": "nao"
  },
  {
   "diretor": "Guilherme Sampaio",
@@ -81,8 +87,10 @@
   "fim_tipo": "estimado: 5 anos como DG; AGU e Senado divergiram sobre o limite (AGU: fim em fev/2026; Senado: 5 anos cheios)",
   "fonte": "Agência iNFRA; Senado",
   "confianca": "baixa",
-  "verificar": "DOU; posição final sobre o término",
-  "obs": "Nomeado diretor em jul/2021 na vaga de Marcelo Vinaud (mandato até 18/02/2026, segundo Agência iNFRA); nomeado Diretor-Geral em 29/08/2025."
+  "verificar": "posse como DG e término",
+  "obs": "Diretor desde 2021 (Senado 07/07/2021; mandato até 18/02/2026 na Diretoria 4); DG interino desde fev/2025; aprovado DG em 20/08/2025 (55x1x2); AGU×Senado divergem sobre o limite de mandato como DG.",
+  "confirmado": "parcial",
+  "fonte_url": "https://www12.senado.leg.br/noticias/materias/2025/08/20/aprovada-indicacao-de-guilherme-sampaio-para-a-diretoria-geral-da-antt"
  },
  {
   "diretor": "Alex Azevedo",
@@ -96,7 +104,9 @@
   "fim_tipo": "estimado: início + 5 anos",
   "fonte": "Agência iNFRA; transcrição da 95ª Ext.",
   "confianca": "media",
-  "verificar": "data de posse"
+  "verificar": "posse (≈ 01/09/2025) e término (≈ 2030)",
+  "confirmado": "parcial",
+  "fonte_url": "https://www12.senado.leg.br/noticias/materias/2025/08/20/ci-aprova-novos-diretores-para-a-antt-e-cobra-modernizacao-da-agencia"
  },
  {
   "diretor": "José Aires Amaral Filho",
@@ -110,49 +120,56 @@
   "fim_tipo": "última reunião com voto (RD 1021); elogiado pela passagem na mesma reunião",
   "fonte": "votos nas transcrições",
   "confianca": "media",
-  "verificar": "portarias de designação"
+  "verificar": "portarias de designação",
+  "confirmado": "nao"
  },
  {
   "diretor": "Severino Medeiros",
-  "cargo": "Diretor substituto",
-  "situacao": "substituto",
+  "cargo": "Diretor titular (Severino Medeiros Ramos Neto), Diretoria 4",
+  "situacao": "titular",
   "nomeacao_dou": null,
-  "senado": null,
+  "senado": "2025-11-12",
   "inicio": "2025-11-25",
-  "fim": "2026-02-27",
+  "fim": "2026-02-18",
   "inicio_tipo": "primeiro voto (97ª Ext., 25/11/2025); Agência iNFRA noticia aprovação do Senado para o cargo (verificar se titular ou substituto)",
-  "fim_tipo": "último voto (RD 1027, 27/02/2026); substituído por Alessandro Baumgarten",
-  "fonte": "votos; Agência iNFRA",
-  "confianca": "baixa",
-  "verificar": "se foi titular indicado ou substituto; DOU"
+  "fim_tipo": "mandato restante da vaga, até 18/02/2026 (gov.br via busca)",
+  "fonte": "Senado/imprensa; votos nas transcrições (1º voto 25/11/2025)",
+  "confianca": "media",
+  "verificar": "data de posse",
+  "confirmado": "parcial",
+  "fonte_url": "https://www.dgabc.com.br/Noticia/4269085/senado-aprova-severino-neto-para-diretoria-da-antt"
  },
  {
   "diretor": "Alessandro Baumgarten",
-  "cargo": "Diretor substituto (ex-superintendente da SUFER)",
+  "cargo": "Diretor substituto, Diretoria 4 (Alessandro Baumgartner)",
   "situacao": "substituto",
   "nomeacao_dou": null,
   "senado": null,
-  "inicio": "2026-02-23",
-  "fim": "2026-08-14",
-  "inicio_tipo": "assumiu na segunda-feira anterior à RD 1027 (27/02/2026)",
-  "fim_tipo": "último voto (14/08/2026)",
+  "inicio": "2026-02-20",
+  "fim": "2026-08-21",
+  "inicio_tipo": "Portaria DG nº 35 de 20/02/2026 (ANTTlegis, via busca)",
+  "fim_tipo": "término 21/08/2026 (limite de 180 dias, gov.br via busca)",
   "fonte": "transcrição da RD 1027; votos",
   "confianca": "media",
-  "verificar": "portaria"
+  "verificar": "portaria",
+  "confirmado": "parcial",
+  "fonte_url": "https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=abrirTextoAto&link=S&tipo=CNV&numeroAto=00000035&seqAto=PDG&valorAno=2026&orgao=DG/ANTT/MT&cod_modulo=161&cod_menu=7804"
  },
  {
   "diretor": "Marcelo Fonseca",
-  "cargo": "Diretor substituto",
+  "cargo": "Diretor substituto, Diretoria 4 (Marcelo Cardoso Fonseca)",
   "situacao": "substituto",
   "nomeacao_dou": null,
   "senado": null,
-  "inicio": "2026-08-27",
-  "fim": null,
-  "inicio_tipo": "primeiro voto (27/08/2026); Agência iNFRA noticia convocação para substituir diretor",
-  "fim_tipo": "em exercício na última reunião analisada (22/10/2026)",
+  "inicio": "2026-08-24",
+  "fim": "2027-02-20",
+  "inicio_tipo": "Portaria DG nº 190 de 20/08/2026, publicada em 24/08/2026 (gov.br via busca)",
+  "fim_tipo": "até 20/02/2027 ou até nomeação de novo titular",
   "fonte": "votos; Agência iNFRA",
-  "confianca": "baixa",
-  "verificar": "portaria"
+  "confianca": "media",
+  "verificar": "DOU",
+  "confirmado": "parcial",
+  "fonte_url": "https://agenciainfra.com/blog/marcelo-fonseca-e-convocado-para-substituir-diretor-na-antt/"
  },
  {
   "diretor": "Marcelo Vinaud",
@@ -162,7 +179,8 @@
   "fim": "2021-02-18",
   "fonte": "Agência iNFRA: deixou a direção-geral em fev/2021 com o fim do mandato (18/02/2021); nomes na legenda variam (Rennó/Vinor)",
   "confianca": "media",
-  "verificar": "DOU"
+  "verificar": "DOU",
+  "confirmado": "nao"
  },
  {
   "diretor": "Alexandre Porto",
@@ -172,7 +190,8 @@
   "fim": "2025-02-18",
   "fonte": "Agência iNFRA: Alexandre Porto Mendes de Souza, DG interino em 2021 e nomeado diretor com mandato até 18/02/2025 (vaga de Elisabeth Braga)",
   "confianca": "baixa",
-  "verificar": "DOU; não aparece nas reuniões de 2023 em diante"
+  "verificar": "DOU; não aparece nas reuniões de 2023 em diante",
+  "confirmado": "nao"
  },
  {
   "diretor": "Weber Ciloni",
@@ -182,17 +201,20 @@
   "fim": "2021-06",
   "fonte": "Agência iNFRA: renunciou; substituído por Fábio Rogério; despedida na RD 900 (11/05/2021)",
   "confianca": "media",
-  "verificar": "DOU"
+  "verificar": "DOU",
+  "confirmado": "nao"
  },
  {
   "diretor": "Eduardo Marra",
   "cargo": "Diretor",
-  "situacao": "titular",
+  "situacao": "substituto (provável)",
   "inicio": null,
   "fim": "2021-08",
   "fonte": "relatório anual 2021 da ANTT lista como diretor em exercício; Guilherme Sampaio ocupou sua vaga segundo a RD 912",
   "confianca": "baixa",
-  "verificar": "nome completo e datas"
+  "verificar": "nome completo e datas",
+  "obs": "Aparece em reuniões de 2020–2021 sem registro de nomeação como titular nas buscas; possivelmente diretor substituto convocado durante vagas. Nome incerto na legenda.",
+  "confirmado": "nao"
  },
  {
   "diretor": "Fábio Rogério",
@@ -202,17 +224,20 @@
   "fim": "2023-01",
   "fonte": "Agência iNFRA: nomeado no lugar de Weber Ciloni; saiu quando Felipe Queiroz assumiu (jan/2023)",
   "confianca": "media",
-  "verificar": "DOU"
+  "verificar": "DOU",
+  "confirmado": "nao"
  },
  {
   "diretor": "Menezes (nome incerto)",
   "cargo": "Diretor (identidade incerta)",
-  "situacao": "titular",
+  "situacao": "substituto (provável)",
   "inicio": null,
   "fim": null,
   "fonte": "legenda de 2021 cita «Menezes» sem prenome; pode ser distorção de outro nome (Alexandre Porto Mendes de Souza?)",
   "confianca": "baixa",
-  "verificar": "conferir no áudio/DOU e mesclar"
+  "verificar": "conferir no áudio/DOU e mesclar",
+  "obs": "Aparece em reuniões de 2020–2021 sem registro de nomeação como titular nas buscas; possivelmente diretor substituto convocado durante vagas. Nome incerto na legenda.",
+  "confirmado": "nao"
  },
  {
   "diretor": "Mário Rodrigues Junior",
@@ -222,7 +247,9 @@
   "fim": "2020-02-18",
   "fonte": "Agência iNFRA: DG, mandato terminou; despedida na RD 846 (18/02/2020)",
   "confianca": "media",
-  "verificar": "DOU"
+  "verificar": "DOU",
+  "confirmado": "nao",
+  "obs": "Agência iNFRA: Vitale nomeado DG na vaga de Mário Rodrigues Junior"
  },
  {
   "diretor": "Elisabeth Braga",
@@ -232,6 +259,16 @@
   "fim": "2020-02-18",
   "fonte": "Agência iNFRA: vaga ocupada depois por Alexandre Porto (mandato até 18/02/2025); despedida na RD 846",
   "confianca": "media",
-  "verificar": "DOU"
+  "verificar": "DOU",
+  "confirmado": "nao"
+ },
+ {
+  "diretor": "Amaral Filho",
+  "cargo": "Diretor substituto (José Aires Amaral Filho, 1º da lista tríplice de 2025)",
+  "situacao": "substituto",
+  "fim": "2025-11-19",
+  "confirmado": "parcial",
+  "fonte_url": "https://diariodotransporte.com.br/2025/07/15/decretos-de-lula-definem-lista-triplice-para-diretores-substitutos-da-antt/",
+  "fonte": "lista tríplice (decretos de jul/2025): Amaral 1º, Alessandro 2º, Marcelo 3º; saída em 19/11/2025 segundo gov.br via busca"
  }
 ]

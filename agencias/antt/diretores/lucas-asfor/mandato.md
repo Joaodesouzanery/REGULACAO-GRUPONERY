@@ -12,5 +12,6 @@
  "fim_tipo": "estimado: início + 5 anos",
  "fonte": "Agência iNFRA; transcrição da RD 951",
  "confianca": "media",
- "verificar": "data de posse"
+ "verificar": "data de posse",
+ "confirmado": "nao"
 }

@@ -69,4 +69,5 @@ Gerado por `pipeline/organizar.py` a partir de `data/` (fonte de trabalho). Não
 - `exportacoes/` — CSV (reuniões, itens, votos, falas em audiências), `trechos.jsonl.gz` (fala literal com link e minuto), `regulacao.db` (SQLite com busca).
 - `inventario.jsonl`, `COBERTURA.md`, `sem_transcricao.md` (o que NÃO temos e por quê), `mandatos.json`.
 """)
+subprocess.run([sys.executable, "-I", "pipeline/vacancias.py", ag])
 print(n, "reuniões com transcrição organizadas;", len(temas), "temas;", len(os.listdir(f"{R}/diretores")), "diretores")

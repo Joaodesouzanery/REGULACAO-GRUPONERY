@@ -12,6 +12,8 @@
  "fim_tipo": "estimado: 5 anos como DG; AGU e Senado divergiram sobre o limite (AGU: fim em fev/2026; Senado: 5 anos cheios)",
  "fonte": "Agência iNFRA; Senado",
  "confianca": "baixa",
- "verificar": "DOU; posição final sobre o término",
- "obs": "Nomeado diretor em jul/2021 na vaga de Marcelo Vinaud (mandato até 18/02/2026, segundo Agência iNFRA); nomeado Diretor-Geral em 29/08/2025."
+ "verificar": "posse como DG e término",
+ "obs": "Diretor desde 2021 (Senado 07/07/2021; mandato até 18/02/2026 na Diretoria 4); DG interino desde fev/2025; aprovado DG em 20/08/2025 (55x1x2); AGU×Senado divergem sobre o limite de mandato como DG.",
+ "confirmado": "parcial",
+ "fonte_url": "https://www12.senado.leg.br/noticias/materias/2025/08/20/aprovada-indicacao-de-guilherme-sampaio-para-a-diretoria-geral-da-antt"
 }

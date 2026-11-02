@@ -12,5 +12,7 @@
  "fim_tipo": "estimado: início + 5 anos",
  "fonte": "Agência iNFRA; transcrição da 95ª Ext.",
  "confianca": "media",
- "verificar": "data de posse"
+ "verificar": "posse (≈ 01/09/2025) e término (≈ 2030)",
+ "confirmado": "parcial",
+ "fonte_url": "https://www12.senado.leg.br/noticias/materias/2025/08/20/ci-aprova-novos-diretores-para-a-antt-e-cobra-modernizacao-da-agencia"
 }

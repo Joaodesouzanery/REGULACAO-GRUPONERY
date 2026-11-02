@@ -12,5 +12,6 @@
  "fim_tipo": "estimado: última reunião em 16/02/2023; cadeira ocupada por Lucas Asfor",
  "fonte": "votos nas transcrições; Agência iNFRA (Lucas Asfor ocupa a cadeira de Davi Barreto em fev/2023)",
  "confianca": "media",
- "verificar": "DOU"
+ "verificar": "DOU",
+ "confirmado": "nao"
 }

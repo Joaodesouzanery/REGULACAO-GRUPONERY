@@ -12,5 +12,6 @@
  "fim_tipo": "última reunião com voto (RD 1021); elogiado pela passagem na mesma reunião",
  "fonte": "votos nas transcrições",
  "confianca": "media",
- "verificar": "portarias de designação"
+ "verificar": "portarias de designação",
+ "confirmado": "nao"
 }

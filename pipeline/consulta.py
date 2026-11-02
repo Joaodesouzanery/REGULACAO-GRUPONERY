@@ -93,5 +93,5 @@ if __name__ == "__main__":
             print(f"- {m['diretor']} · {m['cargo']} · {m['inicio'] or '?'} → {m['fim'] or 'atual'} · {m['situacao']} · {dias} · confiança {m['confianca']} · {m['fonte']}")
         print("\nVacâncias de cadeira titular (estimadas):")
         for v in json.load(open("data/vacancias.json")):
-            print(f"- {v['periodo']}: {v['cadeiras_vagas']} cadeira(s) vaga(s) · {v['motivo']} · confiança {v['confianca']}")
+            print(f"- {v['inicio']} a {v['fim'] or 'em aberto'} · {v['cadeira']} · preenchida por: {v['preenchida_por']} · interinos: {v['interinos']} · confiança {v['confianca']}")
     elif a[0] == "diretores": print([r[0] for r in c.execute("select distinct diretor from votos")])

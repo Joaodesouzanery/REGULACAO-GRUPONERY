@@ -12,5 +12,6 @@
  "fim_tipo": "estimado: último voto em 13/02/2025; Agência iNFRA: mandato terminou em fev/2025 (vaga ocupada depois por Alex Azevedo)",
  "fonte": "votos nas transcrições; Agência iNFRA",
  "confianca": "media",
- "verificar": "DOU"
+ "verificar": "DOU",
+ "confirmado": "nao"
 }

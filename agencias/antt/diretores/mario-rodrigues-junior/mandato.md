@@ -8,5 +8,7 @@
  "fim": "2020-02-18",
  "fonte": "Agência iNFRA: DG, mandato terminou; despedida na RD 846 (18/02/2020)",
  "confianca": "media",
- "verificar": "DOU"
+ "verificar": "DOU",
+ "confirmado": "nao",
+ "obs": "Agência iNFRA: Vitale nomeado DG na vaga de Mário Rodrigues Junior"
 }
