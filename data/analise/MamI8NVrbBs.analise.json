@@ -1,0 +1,450 @@
+{
+ "meta": {
+  "video_id": "MamI8NVrbBs",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulos automáticos de falante são pouco confiáveis); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "943",
+  "data": "2022-11-03",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral); Guilherme Sampaio preside os itens de suspeição (DG arguido)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Davi Barreto",
+   "Guilherme Sampaio",
+   "Luciano Lourenço",
+   "Cristiano Della Giustina"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 16h30; sessão de ~1h30 de vídeo (início ~0:07).",
+   "Aprovadas as atas da 942ª e da 77ª extraordinária; Davi Barreto não votou a ata da 77ª por não ter participado.",
+   "Duas arguições de suspeição contra o DG Rafael Vitale (por Expresso JK e Interbrasil), baseadas em suposto inquérito policial noticiado na imprensa, foram rejeitadas em bloco; o DG não votou.",
+   "Duas sustentações orais do advogado Felipe Rodrigues (Interbrasil e Expresso JK); cassação mantida nos dois casos por unanimidade; Guilherme Sampaio informa que a revisão da regra do circuito fechado do fretamento está na agenda regulatória 2023/24.",
+   "Item 2.4.2 (revogação da Súmula 11/2021) sofreu vista coletiva e voltará na próxima reunião.",
+   "Aprovado o sandbox regulatório; citado o primeiro projeto: trecho de rodovia federal 100% free flow (BR-101). DG convida para o 1º Seminário de Tecnologia da ANTT (8 a 10/11/2022)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:07:44",
+   "processo": null,
+   "interessado": "Secretaria-Geral",
+   "assunto": "Aprovação das atas da 942ª reunião e da 77ª reunião extraordinária",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovadas por unanimidade",
+   "resumo_voto": "Davi Barreto não vota a ata da 77ª por ausência.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo (ata 942); não vota a ata da 77ª",
+     "ts": "0:08:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "0:08:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "de acordo",
+     "ts": "0:08:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristiano Della Giustina",
+     "voto": "de acordo",
+     "ts": "0:08:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo",
+     "ts": "0:08:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:09:24",
+   "processo": "50500.162588/2022-45",
+   "interessado": "SUGEP / Superintendência de Governança, Gestão Estratégica e de Pessoal",
+   "assunto": "Alteração do art. 11 da Res. 5.830/2018 para elevar a alçada e delegar à superintendência o deferimento de parcelamento de débitos não inscritos em dívida ativa (multas de cargas e passageiros), independentemente do valor",
+   "tema": [
+    "fiscalização e sanções",
+    "regulação normativa"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovado (resultado não dito expressamente na legenda; sem divergência)",
+   "resumo_voto": "Só 3% dos parcelamentos dos últimos dois anos foram à Diretoria, e o tempo médio de deferimento nesses casos foi três vezes maior; delegação total à área técnica traz celeridade e economia processual.",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, aprova",
+     "ts": "0:10:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha (inferido)",
+     "ts": "0:11:17",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha (inferido)",
+     "ts": "0:11:20",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1 e 2.3.1 (suspeição)",
+   "ts": "0:12:05",
+   "processo": "50500.093206/2021-45 e 50500.093207/2021-90",
+   "interessado": "Expresso JK Transportes Ltda. e Interbrasil Transportes, Turismo e Eventos Eireli",
+   "assunto": "Arguições de suspeição do DG Rafael Vitale (pelas duas empresas), com base em suposto inquérito policial noticiado na imprensa; julgadas em bloco (art. 68, par. 2º, RI) com inversão de pauta (art. 64, par. 2º, RI)",
+   "tema": [
+    "institucional",
+    "fiscalização e sanções",
+    "ônibus (fretamento)"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "improcedentes; arquivadas por unanimidade (DG não vota)",
+   "resumo_voto": "Art. 20 da Lei 9.784/99 exige amizade íntima ou inimizade notória; a mera existência de inquérito não prova a suspeição; matéria jornalística é o único elemento; denunciante seria membro da associação de servidores, cujo recurso já fora rejeitado; ônus da prova (CPC arts. 146 e 373); indefere diligências requeridas (itens B, C e D); arquivamento (art. 64, par. 5º, RI).",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator (DG substituto), julga improcedentes, indefere diligências e arquiva",
+     "ts": "0:13:00",
+     "justificativa": "inexistência de provas; art. 20 da Lei 9.784 e arts. 145-146 do CPC",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha integralmente",
+     "ts": "0:19:33",
+     "justificativa": "parabeniza o voto «completo e excelente»",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:19:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristiano Della Giustina",
+     "voto": "de acordo integral com a proposta do relator",
+     "ts": "0:19:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "não vota (arguido)",
+     "ts": "0:19:28",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:20:12",
+   "processo": "50500.093207/2021-90",
+   "interessado": "Interbrasil Transportes, Turismo e Eventos Eireli",
+   "assunto": "Recurso contra a Deliberação 188/2022 (25/05/2022) que aplicou cassação da autorização de fretamento interestadual/internacional; sustentação oral de Felipe Rodrigues",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções",
+    "judicializacao"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "cassação mantida; aprovado por unanimidade",
+   "resumo_voto": "Empresa operava fora do circuito fechado em mais de nove verificações em 20 meses; comissão processante apurou autoria e materialidade; Decreto 2.521/98 (art. 36, par. 5º) e art. 78-H da Lei 10.233/2001 sustentam a cassação; apreensões anteriores não bastaram; nega provimento sem efeito suspensivo. A defesa sustentou ausência de lei que autorize cassação de autorização, regra anacrônica e proporcionalidade.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, nega provimento e mantém a cassação",
+     "ts": "0:24:00",
+     "justificativa": "reiteração da infração; apreensões anteriores não foram suficientes; ampla defesa garantida",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:32:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "de acordo com o relator",
+     "ts": "0:32:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristiano Della Giustina",
+     "voto": "de acordo com o relator",
+     "ts": "0:32:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "também com o relator",
+     "ts": "0:32:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:33:13",
+   "processo": "50500.093206/2021-45",
+   "interessado": "Expresso JK Transportes Ltda.",
+   "assunto": "Processo administrativo ordinário: transporte em circuito aberto em diversas viagens (art. 36, par. 5º, Decreto 2.521/98); cassação da autorização de fretamento; sustentação oral de Felipe Rodrigues",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções",
+    "judicializacao"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "cassação aplicada; aprovado por unanimidade",
+   "resumo_voto": "Há base legal (art. 78-A, IV, c/c 78-H da Lei 10.233/2001); a regra do circuito fechado é decretada, cabendo à agência cumpri-la; a empresa foi autuada cerca de 10 vezes pela mesma infração; cassação é proporcional, necessária e adequada. A defesa sustentou: só o art. 48 autorizaria cassação, regra anacrônica e anticoncorrencial (pediu AIR), e violação da proporcionalidade.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aplica cassação com fundamento nos arts. 78-A, IV e 78-H da Lei 10.233/2001",
+     "ts": "0:41:30",
+     "justificativa": "a agência deve cumprir a regra do decreto; reiteração; proporcionalidade atendida",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente",
+     "ts": "0:47:30",
+     "justificativa": "elogia a técnica jurídica de Davi; informa que a revisão da regra de fretamento está na agenda regulatória 2023/24",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "de acordo integral com o relator",
+     "ts": "0:49:00",
+     "justificativa": "a ANTT está no caminho correto de cumprir a legislação e agir de forma isonômica",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Cristiano Della Giustina",
+     "voto": "acompanha o relator",
+     "ts": "0:49:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:50:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:50:46",
+   "processo": "50500.017488/2021-84",
+   "interessado": "SUROC / Superintendência de Serviços de Transporte Rodoviário e Multimodal de Cargas",
+   "assunto": "Relatório final da Audiência Pública 3/2022 e aprovação da resolução que revisa a Res. 5.947/2021 (transporte rodoviário de produtos perigosos)",
+   "tema": [
+    "transporte rodoviário de cargas",
+    "regulação normativa",
+    "participação social"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "112 contribuições, 68% acolhidas; incorpora prescrições do Orange Book da ONU e do ADR 2021, ajusta o texto e revisa infrações e penalidades; norma é referência para o setor.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aprova relatório final e a resolução",
+     "ts": "0:51:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:56:36",
+     "justificativa": "parabeniza a SUROC",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha (inferido)",
+     "ts": "0:56:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Cristiano Della Giustina",
+     "voto": "acompanha o relator",
+     "ts": "0:56:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator de maneira integral",
+     "ts": "0:57:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:57:18",
+   "processo": "50520.068306/2010-42 (grafia parcial)",
+   "interessado": "Transporte Coletivo Brasil Ltda. (TCB)",
+   "assunto": "Pedido de reconsideração da Resolução 5.364/2017, que aplicou cassação da autorização (art. 78-A, IV, e 78-H da Lei 10.233/2001)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções",
+    "judicializacao"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "reconsideração conhecida e negada; cassação mantida; aprovado por unanimidade",
+   "resumo_voto": "Rejeita perda de objeto, prescrição, inadequação do enquadramento (33 infrações, cerca de 70% graves ou gravíssimas), nulidade por ausência de TAC e conversão em multa; empresa já acumulava mais de 17 mil multas (>R$ 70 milhões, segundo a legenda); proporcionalidade preservada; sem fatos novos (art. 101 da Res. 5.083).",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:58:18",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente",
+     "ts": "1:07:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "de acordo com a proposta do relator",
+     "ts": "1:08:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristiano Della Giustina",
+     "voto": "de acordo com o relator",
+     "ts": "1:08:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "1:08:20",
+     "justificativa": "as regras existem e precisam ser cumpridas",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.1",
+   "ts": "1:09:04",
+   "processo": "50500.102546/2021-74 (grafia parcial)",
+   "interessado": "SUGEP / Superintendência de Governança, Gestão Estratégica e de Pessoal",
+   "assunto": "Relatório final da Audiência Pública 2/2022 e aprovação da minuta de resolução do ambiente regulatório experimental (sandbox regulatório)",
+   "tema": [
+    "sandbox / inovação",
+    "regulação normativa",
+    "participação social",
+    "pedágio free flow"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "AP 2/2022 (21/03 a 04/05/2022): 31 contribuições escritas e 2 orais; AIR escolheu a alternativa mais ampla (testes de produtos/serviços e de soluções regulatórias); ajustes de legística pelo relator; projeto pioneiro: trecho de rodovia federal 100% free flow, amparado pelo sandbox.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, aprova relatório e resolução",
+     "ts": "1:09:20",
+     "justificativa": "sandbox reduz incertezas e permite testar regras antes de consolidá-las",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo integral",
+     "ts": "1:16:13",
+     "justificativa": "marco na forma de regular; regulação baseada em evidência e prototipação; free flow na BR-101",
+     "tom": "favorável",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente",
+     "ts": "1:17:58",
+     "justificativa": "«gol de placa»; vanguarda regulatória",
+     "tom": "favorável",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Cristiano Della Giustina",
+     "voto": "de acordo com a proposta",
+     "ts": "1:19:00",
+     "justificativa": "agenda regulatória cumprida dá previsibilidade",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "aprova",
+     "ts": "1:20:00",
+     "justificativa": "cita uso potencial do sandbox para autorizações ferroviárias e outros projetos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.2",
+   "ts": "1:21:35",
+   "processo": "50500.090221/2021-31",
+   "interessado": "SUFIS / Superintendência de Fiscalização dos Serviços de Transporte Rodoviário de Cargas e Passageiros",
+   "assunto": "Revogação da Súmula 11, de 02/12/2021 (caracterização de transporte clandestino para fins da Res. 4.287/2014)",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (fretamento)",
+    "ônibus (transporte regular, TAR)",
+    "regulação normativa"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "vista coletiva (voltará na próxima reunião)",
+   "resumo_voto": "A súmula não gerou os benefícios esperados: desmotivou fiscais, gerou incompreensão e procedimentos mais desgastantes (transbordo); a SUFIS publicou a Portaria 27/2022 (objeto de ações judiciais); recomenda revogar a súmula e a portaria e atualizar manual de fiscalização e resolução de penalidades.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, vota por revogar a Súmula 11",
+     "ts": "1:22:00",
+     "justificativa": "a súmula gerou desestabilidade; o conceito de transporte clandestino já está claro na Res. 4.287/2014",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "abre vista coletiva (art. 106, parágrafo único, RI)",
+     "ts": "1:29:18",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: números de processo, valores e nomes distorcidos; só foram registrados dados que aparecem com clareza.",
+  "Rótulo de falante do início ({Guilherme Sampaio, Felipe Queiroz}) é errado: a sessão é presidida por Rafael Vitale. «Cristiano» identificado como Cristiano Della Giustina.",
+  "Nos itens de suspeição, Guilherme Sampaio preside como DG substituto; Rafael Vitale declara que não vota.",
+  "Item 2.1.1: a legenda não registra os votos nem o resultado; marcados como inferidos, baixa confiança.",
+  "Em 2.3.2 o voto de Luciano Lourenço não é audível (inferido).",
+  "Ids repetidos (2.2.1 e 2.3.1 aparecem como suspeição e como mérito), como na pauta lida.",
+  "Número do processo de 2.2.2 e de 2.4.1 está parcial; sustentações orais do advogado Felipe Rodrigues resumidas.",
+  "Ts dos votos de seguidores são aproximados."
+ ]
+}

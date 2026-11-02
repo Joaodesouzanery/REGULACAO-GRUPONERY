@@ -1,0 +1,571 @@
+{
+ "meta": {
+  "video_id": "y4r8H6490-4",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulos de falante do .md não são confiáveis); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "947",
+  "data": "2022-12-22",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Davi Barreto",
+   "Guilherme Sampaio",
+   "Luciano Lourenço",
+   "Cristiano Della Giustina"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Ata da RD 946 aprovada. 10 itens deliberados (2.4.5 e 2.4.6 em bloco), todos por unanimidade; 4 retirados de pauta.",
+   "Última reunião de Cristiano Della Giustina como diretor substituto (cerca de 4 meses na função) e primeira participação de Felipe Queiroz, que o sucede, ainda sem voto; despedidas e agradecimentos de Davi, Guilherme, Luciano, Procurador-Geral Milton Gomes, Ouvidor Robson Crepaldi e do próprio Cristiano.",
+   "Balanço do DG: prêmios internacionais (concessão Nova Dutra/Via Dutra) e honraria da Câmara dos Deputados; free flow com testes previstos para o final de janeiro de 2023; sandbox regulatório; 'três revoluções' (regulatória, tecnológica e comportamental).",
+   "Encerrada às 17h08."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1",
+   "ts": "0:04:51",
+   "processo": "50500.096771/2021-64",
+   "interessado": "Trans Santana Transportes Rodoviários Ltda.",
+   "assunto": "Embargos de declaração contra a Deliberação 309/2022 (20/10/2022), que aplicou multa à empresa",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade — embargos conhecidos e rejeitados",
+   "resumo_voto": "Embargos tempestivos, mas os créditos tratados já haviam sido baixados da dívida ativa em 29/06/2022 (informação da PF); não há omissão na decisão. Conhece e rejeita.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, conhece e rejeita os embargos",
+     "ts": "0:06:21",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator (voto individual não captado na legenda; unanimidade proclamada)",
+     "ts": "0:07:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:07:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristiano Della Giustina",
+     "voto": "acompanha o relator (voto individual não captado na legenda; unanimidade proclamada)",
+     "ts": "0:07:34",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:07:38",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.4",
+   "ts": "0:09:23",
+   "processo": "50500.110203/2022-64",
+   "interessado": "Superintendência de Concessão da Infraestrutura (SUCON)",
+   "assunto": "Relatório final da AP 8/2022 e aprovação da metodologia de avaliação do nível de risco das concessões rodoviárias e da metodologia do WACC regulatório (e valores de spread) para rodovias federais",
+   "tema": [
+    "concessões rodoviárias",
+    "WACC / taxa de desconto",
+    "regulação normativa",
+    "participação social"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "AP de 05/08 a 19/09/2022 (sessão híbrida em 02/09). Transparência inédita: acesso aos dados e às linhas de código dos cálculos. Nova abordagem classifica os projetos em quatro níveis de risco (tráfego, licenças ambientais, desapropriações, cronograma) com retorno compatível, e usa prêmio sobre referencial variável de mercado (juros de longo prazo), capturando oscilações. Duas resoluções distintas: metodologia de nível de risco e metodologia do WACC.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:10:30",
+     "justificativa": "reduz assimetria informacional e torna os projetos mais atrativos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:14:56",
+     "justificativa": "o PPCS na ANTT não é pro forma; é dialógico e transparente",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:15:36",
+     "justificativa": "avanço que torna os projetos mais viáveis e atrativos; parabeniza a SUCON",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Cristiano Della Giustina",
+     "voto": "acompanha o relator (voto individual não captado na legenda; unanimidade proclamada)",
+     "ts": "0:16:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "sigo integralmente o relator",
+     "ts": "0:17:16",
+     "justificativa": "avanço regulatório, transparência e revolução comportamental",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.1.5",
+   "ts": "0:17:31",
+   "processo": "50500.008737/2022-1x",
+   "interessado": "Elo Transportes e Turismo Ltda. (fretamento)",
+   "assunto": "Processo administrativo ordinário por operação de fretamento em circuito aberto (23 viagens entre jan e out/2021)",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade — cassação",
+   "resumo_voto": "Empresa emitiu licenças de viagem declarando circuito fechado (destino igual à origem) para mascarar a operação em circuito aberto; flagrada 23 vezes em menos de um ano; infração grave (art. 36 §5º do Decreto 2.521/1998; art. 78-A, IV e 78-H da Lei 10.233/2001); cassação da autorização de fretamento.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aplica a cassação",
+     "ts": "0:18:00",
+     "justificativa": "descumprimento sistemático e desvirtuamento da boa-fé perante o poder público",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator (voto individual não captado na legenda; unanimidade proclamada)",
+     "ts": "0:22:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator (voto individual não captado na legenda; unanimidade proclamada)",
+     "ts": "0:22:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Cristiano Della Giustina",
+     "voto": "de acordo; parabeniza a fiscalização",
+     "ts": "0:22:58",
+     "justificativa": "a revolução tecnológica da fiscalização permitiu identificar as 23 ocorrências",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:23:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:23:46",
+   "processo": "50500.102298/2022-42",
+   "interessado": "Superintendência de Concessão da Infraestrutura (SUCON)",
+   "assunto": "Abertura de audiência pública sobre minutas de edital, contrato e PER e estudos de viabilidade do lote BR-153/GO-MG e BR-262/MG (530,6 km)",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização",
+    "participação social"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Lote desmembrado da relicitação da concessão Triunfo Concebra (BR-060/153/262). Inovações: regramento de penalidades, nova matriz de risco, acordo direto, estabilidade tarifária, alavancagem financeira, recalibragem do mecanismo de risco de receita, ajuste de obras condicionadas ao tráfego, padrões ESG e relatório anual de situação regulatória. Contribuições de 02/01/2023 a 16/02/2023; sessão pública em Brasília em 31/01/2023. A legenda cita OPEX e CAPEX da ordem de bilhões (3,6 e 5,6 bi) sem confirmação.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aprova a abertura da AP",
+     "ts": "0:24:04",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:30:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:30:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristiano Della Giustina",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:30:20",
+     "justificativa": "alegria ao abrir a audiência e consciência do desafio de gerir novos ativos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "sigo integralmente o relator",
+     "ts": "0:30:39",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:30:56",
+   "processo": "50500.159164/2022-01",
+   "interessado": "Superintendência de Transporte Ferroviário (SUFER) / Transnordestina Logística S.A.",
+   "assunto": "Primeiro termo aditivo ao contrato de concessão da Transnordestina: cronograma dos investimentos obrigatórios, retirada do trecho Salgueiro-Porto de Suape e novas sanções",
+   "tema": [
+    "ferrovias",
+    "contratos de concessão",
+    "TCU"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Atende ao acórdão 1708/2022 do TCU (acordo em 120 dias) e autorizado pelo acórdão do TCU de 13/12/2022, com diretrizes do MInfra e concordância da concessionária e da CSN. Devolução do trecho Salgueiro-Suape; ajuste dos investimentos, prazos, garantias (5% do orçamento regulatório), responsabilidades de desapropriação e penalidades; a ferrovia chegará ao Porto do Pecém. Agradece ao ministro relator no TCU, Otto Alencar (nome conforme legenda).",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aprova o termo aditivo",
+     "ts": "0:31:09",
+     "justificativa": "solução de problema histórico da infraestrutura brasileira; trabalho conjunto com SUFER, PF, TCU, MInfra e a concessionária",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:38:11",
+     "justificativa": "Guilherme liderou a solução do orçamento regulatório; cronograma factível com base em estudos robustos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:40:03",
+     "justificativa": "geração de emprego e desenvolvimento do Nordeste",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Cristiano Della Giustina",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:42:16",
+     "justificativa": "um dos problemas regulatórios mais complexos; TCU como parceiro na construção da solução",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "fico com o relator",
+     "ts": "0:43:30",
+     "justificativa": "revolução comportamental: agente regulado e TCU participaram da construção da solução",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:44:51",
+   "processo": "50500.112749/2021-79",
+   "interessado": "Superintendência de Serviços de Transporte Rodoviário e Multimodal de Cargas (SUROC)",
+   "assunto": "Alteração da Res. 5.862/2019 (CIOT e meios de pagamento do frete) para adequá-la à Lei 14.206/2021 (Documento Eletrônico de Transporte, DT-e)",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "regulação normativa"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Revoga os dispositivos sobre pagamento eletrônico de frete: a ANTT deixa de regular o meio de pagamento (conta de depósito ou conta de pagamento pré-paga de livre escolha do transportador autônomo, no âmbito do Banco Central); IPEFs migram para o regime do BC. Mantém o CIOT em regime de transição até a regulamentação do DT-e. Dispensados PPCS (art. 7º, III e §1º da Res. 5.624/2017) e AIR (art. 96, II do RI) por se tratar de cumprimento de determinação legal; PF concorda.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, aprova dispensa de PPCS/AIR e a minuta",
+     "ts": "0:46:13",
+     "justificativa": "adequação a determinação legal; continuidade da fiscalização sem tumulto ao setor; reconhece a importância dos caminhoneiros",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:52:05",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator (voto individual não captado na legenda; unanimidade proclamada)",
+     "ts": "0:52:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Cristiano Della Giustina",
+     "voto": "acompanha o relator (voto individual não captado na legenda; unanimidade proclamada)",
+     "ts": "0:52:12",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:52:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.1",
+   "ts": "0:52:35",
+   "processo": "50500.087182/2022-03",
+   "interessado": "Transcione Transportes Turísticos Eireli",
+   "assunto": "Pedido de reconsideração contra a Deliberação 347/2022 (17/11/2022), que aplicou cassação",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Cristiano Della Giustina",
+   "resultado": "aprovado por unanimidade — reconsideração conhecida e desprovida",
+   "resumo_voto": "Pedido tempestivo, sem efeito suspensivo. Rejeita as alegações: houve intimações regulares e oportunidade de defesa (a empresa não pediu vista nem apresentou defesa prévia ou alegações finais); o sigilo do art. 78-B da Lei 10.233 não impediu acesso; a competência da ANTT decorre da Lei 10.233/2001, sendo infração à regulação do transporte interestadual de passageiros (não trânsito); penalidade resulta de processo com contraditório e ampla defesa.",
+   "votos": [
+    {
+     "diretor": "Cristiano Della Giustina",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:53:06",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:58:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:59:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:59:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:59:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.2",
+   "ts": "0:59:20",
+   "processo": "50500.09718x/2022-1x",
+   "interessado": "TJ Agência de Viagens e Turismo Ltda. (fretamento)",
+   "assunto": "Processo administrativo ordinário por operação em circuito aberto de fretamento",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Cristiano Della Giustina",
+   "resultado": "aprovado por unanimidade — cassação",
+   "resumo_voto": "Empresa notificada não se manifestou; 37 registros de código 401 (serviço não autorizado) em situações com decisão definitiva; usava os sistemas da ANTT para emitir licenças de viagem fechadas enquanto praticava circuito aberto. Multas anteriores insuficientes; cassação com base no art. 36 §5º do Decreto 2.521/1998 e arts. 78-A, IV e 78-H da Lei 10.233/2001, com efeitos do art. 78-J.",
+   "votos": [
+    {
+     "diretor": "Cristiano Della Giustina",
+     "voto": "relator, aplica a cassação",
+     "ts": "1:00:57",
+     "justificativa": "gravidade e reiteração; medidas anteriores não induziram o cumprimento; proporcionalidade",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator (voto individual não captado na legenda; unanimidade proclamada)",
+     "ts": "1:04:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com o relator; processo similar a outro da pauta",
+     "ts": "1:04:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator (voto individual não captado na legenda; unanimidade proclamada)",
+     "ts": "1:04:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "1:04:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.3",
+   "ts": "1:04:59",
+   "processo": "(não identificado)",
+   "interessado": "Superintendência de Concessão da Infraestrutura (SUCON)",
+   "assunto": "Reabertura do prazo de contribuições da Audiência Pública 10/2022 (concessão do lote BR-116/158/290/392, RS, 674 km), até 31/01/2023",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização",
+    "participação social"
+   ],
+   "relator": "Cristiano Della Giustina",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "AP aprovada pela Del. 289/2022 com contribuições de 17/10 a 01/12/2022; a SUCON propôs ampliar o prazo diante do grande número de manifestações de sociedade e parlamentares e do período de transição do Governo Federal.",
+   "votos": [
+    {
+     "diretor": "Cristiano Della Giustina",
+     "voto": "relator, aprova a reabertura do prazo",
+     "ts": "1:05:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator (voto individual não captado na legenda; unanimidade proclamada)",
+     "ts": "1:08:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator (voto individual não captado na legenda; unanimidade proclamada)",
+     "ts": "1:08:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "fico com o relator",
+     "ts": "1:08:20",
+     "justificativa": "eficácia do controle social e extensão do prazo",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "1:08:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.5",
+   "ts": "1:09:59",
+   "processo": "50501.139/2021-17 (parcial)",
+   "interessado": "Superintendência de Infraestrutura Rodoviária (SUINF)",
+   "assunto": "Edição de súmula sobre a verificação do tempo de atendimento do socorro mecânico pelas concessionárias da segunda etapa",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções",
+    "súmulas"
+   ],
+   "relator": "não confirmado (itens 2.4.x são de relatoria de Cristiano Della Giustina; a legenda cita «relator Guilherme»)",
+   "resultado": "aprovado por unanimidade (votado em bloco com 2.4.6)",
+   "resumo_voto": "Súmulas apresentadas em bloco na RD 946 (15/12/2022) com vista coletiva; votadas aqui nos termos do parágrafo único do art. 106 do RI. Resultado de aproximação com o setor regulado e de solução negocial.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha a proposta do relator",
+     "ts": "1:10:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha inteiramente o relator; parabeniza a área técnica",
+     "ts": "1:11:20",
+     "justificativa": "diálogo com o setor regulado para entender dificuldades e buscar soluções para o usuário",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "sigo o relator; proclama aprovação",
+     "ts": "1:12:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.6",
+   "ts": "1:09:59",
+   "processo": "50505.105920/2021-43",
+   "interessado": "Superintendência de Infraestrutura Rodoviária (SUINF)",
+   "assunto": "Edição de súmula sobre os parâmetros de tempo de atendimento médico (concessões rodoviárias)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções",
+    "súmulas"
+   ],
+   "relator": "não confirmado (ver item 2.4.5)",
+   "resultado": "aprovado por unanimidade (votado em bloco com 2.4.5)",
+   "resumo_voto": "Mesma votação em bloco das súmulas apresentadas na RD 946.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha a proposta do relator",
+     "ts": "1:10:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha inteiramente o relator",
+     "ts": "1:11:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "sigo o relator",
+     "ts": "1:12:00",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "2.1.2 — Viação Itapemirim S.A., extinção do termo de autorização de serviços regulares (proc. 50515.301591/2019-26)",
+   "relator": "Davi Barreto",
+   "motivo": "resistência judicial no processo de recuperação judicial; notificação recebida no dia anterior",
+   "ts": "0:07:48"
+  },
+  {
+   "item": "2.1.3 — Viação Kaissara (processo de recuperação judicial)",
+   "relator": "Davi Barreto",
+   "motivo": "mesma resistência judicial da recuperação judicial",
+   "ts": "0:07:48"
+  },
+  {
+   "item": "2.1.6 — Viação Esmeralda",
+   "relator": "Davi Barreto",
+   "motivo": "memorial recebido no gabinete com considerações a avaliar antes de trazer de novo à deliberação",
+   "ts": "0:08:02"
+  },
+  {
+   "item": "2.4.4 — Polly Tour Transporte e Agência de Turismo Ltda., processo administrativo ordinário (proc. 50525.005446/2016-55)",
+   "relator": "Cristiano Della Giustina",
+   "motivo": "necessidade de aprofundar a análise para uma medida regulatória adequada à instrução",
+   "ts": "1:08:56"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo parciais ou incertos, nomes e valores distorcidos; ts de votos de seguidores aproximados.",
+  "Rótulo de falante do .md (Guilherme/Felipe Queiroz) como presidente é erro da inferência; sessão presidida pelo DG Rafael Vitale.",
+  "Processos 2.1.5, 2.4.1 e 2.4.2 têm dígitos incompletos ou duvidosos na legenda; 2.4.3 sem número; 2.4.5 só parcial.",
+  "Em vários itens a legenda omite votos individuais (Guilherme, Cristiano, Luciano); registrados com confiança baixa a partir da unanimidade proclamada.",
+  "Item 2.2.1: no texto aparece br-163 e valores de CAPEX/OPEX incertos; confiro como BR-153/GO-MG e BR-262/MG pelo contexto.",
+  "Itens 2.4.5/2.4.6: relator não identificado com segurança; Cristiano e Guilherme não aparecem votando na legenda.",
+  "Nome do ministro do TCU citado na legenda (Otto Alencar) conferir; acórdão 1708/2022 também incerto."
+ ]
+}
