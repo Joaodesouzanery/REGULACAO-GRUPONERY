@@ -1,0 +1,64 @@
+{
+  "meta": {"video_id": "aFnFR7eFh6o", "fonte": "legenda automática do YouTube (sem falantes inferidos); ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "905", "data": "2021-06-15", "formato": "videoconferência (Lei 13.979, pandemia)",
+    "presidente_da_sessao": "não identificado na legenda (chamado de «Alexandre» pelo relator; provável Alexandre Porto; baixa confiança)",
+    "diretores_presentes": ["Moacir Menezes (grafia incerta)", "Eduardo Marra (grafia incerta)", "presidente da sessão (não nomeado)"],
+    "ausentes": ["Davi Barreto (curso de capacitação de 14 a 18/06/2021)"],
+    "observacoes": ["Encerrada às 15h09. Três itens deliberados (mais a ata), todos por unanimidade.", "No encerramento o presidente destaca que a reunião foi conduzida só por três diretores servidores de carreira, substitutos da lista tríplice da nova lei das agências, que mantêm a continuidade da agência.", "O presidente e Eduardo Marra elogiaram a área técnica e o relator (Moacir Menezes) em vários itens."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:50",
+      "assunto": "Aprovação da ata da reunião anterior (RD 904)",
+      "tema": ["institucional"], "relator": "presidente da sessão", "resultado": "aprovada",
+      "resumo_voto": "Ata distribuída com 48 horas de antecedência; leitura dispensada.",
+      "votos": [
+        {"diretor": "Moacir Menezes", "voto": "de acordo", "ts": "0:01:10", "confianca": "media"},
+        {"diretor": "Eduardo Marra", "voto": "de acordo", "ts": "0:01:12", "confianca": "media"},
+        {"diretor": "Presidente da sessão (Alexandre Porto, inferido)", "voto": "de acordo", "ts": "0:01:14", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2.1.1", "ts": "0:01:22",
+      "processo": "50500.129643/2021-23 (número parcial)", "interessado": "SUFER",
+      "assunto": "Abertura de audiência pública (45 dias) sobre proposta de regulamentação das operações acessórias no transporte ferroviário de cargas (agenda regulatória 2021-2022, eixo 4)",
+      "tema": ["ferrovias", "regulação normativa", "participação social"],
+      "relator": "Moacir Menezes", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Assimetria de informação nas operações acessórias distorce a negociação entre provedores e usuários; alternativa escolhida: regulamentação à luz da regulação responsiva, com mais transparência e competição; audiência pública de 45 dias por impactar direitos dos agentes econômicos.",
+      "votos": [
+        {"diretor": "Moacir Menezes", "voto": "relator, aprova abertura da audiência pública", "ts": "0:01:40", "justificativa": "falta de transparência e precisão nas informações sobre operações acessórias; regulação responsiva", "confianca": "alta"},
+        {"diretor": "Eduardo Marra", "voto": "de acordo com o relator, com elogio à área técnica", "ts": "0:04:44", "justificativa": "resposta regulatória importante após a revisão tarifária de 2011/2012 em que o tema ganhou evidência; processo participativo e transparente", "tom": "elogioso", "confianca": "alta"},
+        {"diretor": "Presidente da sessão (Alexandre Porto, inferido)", "voto": "de acordo com o relator", "ts": "0:05:00", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2.1.2", "ts": "0:05:40",
+      "processo": "50500.041920/2021-58 (número parcial)", "interessado": "Distrito Federal / SUPAS (RIDE-DF)",
+      "assunto": "Transferência ao Distrito Federal das outorgas de autorização especial, autorização judicial e permissão do transporte semiurbano delegado, e termo aditivo de sub-rogação do contrato de permissão 1/2015 (convênio de delegação 1/2020, vigência da transferência a partir de 08/07/2021)",
+      "tema": ["ônibus (semiurbano)", "regulação normativa", "institucional"],
+      "relator": "Moacir Menezes", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Serviço atual somaria 428 linhas (46 linhas de autorização especial, 15 de autorização judicial e um contrato de permissão com 67 linhas, segundo a legenda); PGF opinou pela viabilidade jurídica da transferência e da juridicidade das minutas.",
+      "votos": [
+        {"diretor": "Moacir Menezes", "voto": "relator, aprova", "ts": "0:05:55", "justificativa": "formalizar a sub-rogação do contrato de permissão ao GDF conforme o convênio de delegação", "confianca": "alta"},
+        {"diretor": "Eduardo Marra", "voto": "de acordo, com elogio ao relator e às áreas técnicas", "ts": "0:08:43", "justificativa": "aproxima a regulação do usuário do DF; ganho para a sociedade; processo de anos concluído", "tom": "elogioso", "confianca": "alta"},
+        {"diretor": "Presidente da sessão (Alexandre Porto, inferido)", "voto": "de acordo", "ts": "0:09:25", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2.1.3", "ts": "0:09:39",
+      "processo": "50500.124068/2020-72 (número parcial)", "interessado": "SUCON / concessão BR-116/465/493 RJ-MG (Rio de Janeiro - Governador Valadares)",
+      "assunto": "Relatório da Audiência Pública 11/2020 (189 manifestações, 657 contribuições) e plano de outorga para a concessão do sistema rodoviário BR-116/RJ-MG, BR-465/RJ e BR-493/RJ, a ser submetido ao Ministério da Infraestrutura com minutas de edital e contrato",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "participação social"],
+      "relator": "Moacir Menezes", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Audiência realizada de 17/12/2020 a 05/02/2021; minutas ajustadas após as contribuições e acórdãos do TCU; aprova o relatório e o plano de outorga nos termos do art. 24, III, da Lei 10.233.",
+      "votos": [
+        {"diretor": "Moacir Menezes", "voto": "relator, aprova", "ts": "0:09:50", "confianca": "alta"},
+        {"diretor": "Eduardo Marra", "voto": "de acordo", "ts": "0:13:30", "confianca": "media"},
+        {"diretor": "Presidente da sessão (Alexandre Porto, inferido)", "voto": "enaltece o trabalho da SUCON e acompanha", "ts": "0:13:00", "tom": "elogioso (cronogramas apertados, alta carteira de projetos)", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda sem separação de falantes e com muitos erros; nomes (Moacir Menezes, Eduardo Marra) e a identidade do presidente da sessão são inferidos; confirmar na ata/DOU.", "Ts dos votos de acompanhamento aproximados; datas, números de linhas e de processo podem conter erros da legenda."]
+}

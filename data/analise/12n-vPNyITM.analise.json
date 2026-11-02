@@ -1,0 +1,220 @@
+{
+ "meta": {
+  "video_id": "12n-vPNyITM",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "893",
+  "data": "2021-03-23",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral; inferido)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Weber Ciloni",
+   "Davi Barreto",
+   "Eduardo Marra",
+   "Alexandre Porto (legenda: «Menezes»)"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada a parte pública às 16h05.",
+   "Havia processo reservado (sigiloso) de relatoria de Weber Ciloni: Companhia de Concessão Rodoviária de Juiz de Fora (processo administrativo ordinário com proposta de penalidade), julgado ao final sem transmissão.",
+   "Súmula 3 rejeitada pelo relator e súmula 4 proposta com vista coletiva."
+  ]
+ },
+ "itens": [
+  {
+   "id": "reservado",
+   "ts": "0:05:00",
+   "processo": "50501.306/2018-94 (legenda)",
+   "interessado": "Companhia de Concessão Rodoviária de Juiz de Fora",
+   "assunto": "Processo reservado (sigiloso): processo administrativo ordinário com proposta de aplicação de penalidade; julgamento ao final, sem transmissão",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "sigiloso – sem transmissão",
+   "resumo_voto": "Não há conteúdo público do julgamento.",
+   "votos": []
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:05:39",
+   "processo": "50500.006906/2020-97",
+   "interessado": "Via Sul – Concessionária das Rodovias Integradas do Sul (BR-101/290/386/448, RS)",
+   "assunto": "Segunda revisão ordinária e reajuste da tarifa básica de pedágio",
+   "tema": [
+    "concessões rodoviárias",
+    "pedágio / reajuste tarifário",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Reajuste de 4,52% (IPCA defasado 2 meses; data-base 15/02); fator D (redutor) de 1,67% por desempenho e atraso de obras; fator C com efeitos de provisão e receitas; pleito da concessionária por impacto da pandemia só será apreciado na próxima revisão ordinária.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova",
+     "ts": "0:05:39",
+     "justificativa": "recomposição do equilíbrio econômico-financeiro; fator D redutor aplicado; pandemia fica para a próxima revisão",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:09:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:09:28",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:09:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:09:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2a",
+   "ts": "0:10:08",
+   "processo": "50500.031987/2001 (legenda, número incerto)",
+   "interessado": "Superintendência de Infraestrutura Rodoviária (SUINF)",
+   "assunto": "Proposta de edição de súmulas: nº 3 (multa moratória conta atraso mesmo com reprogramação de cronograma) e nº 4 (sanções do contrato de concessão prevalecem sobre as da regulamentação)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções",
+    "regulação normativa"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "vista coletiva (art. 121 RI); deliberação na próxima reunião",
+   "resumo_voto": "Súmula 4: voto pela aprovação (princípio pacta sunt servanda; PF/ANTT viu viabilidade). Súmula 3: voto por rejeitar, por mudar posicionamento anterior da agência sem entendimento pacífico, e recomenda debater o tema na audiência pública do regulamento das concessões rodoviárias.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator: aprova súmula 4; rejeita súmula 3; abre vista coletiva",
+     "ts": "0:10:08",
+     "justificativa": "súmula deve refletir entendimento pacífico, o que não há quanto à multa moratória; tema deve ir à participação social; sanções contratuais prevalecem por coerência com o contrato",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2b",
+   "ts": "0:14:37",
+   "processo": "50500.321614/2019-88",
+   "interessado": "Concessionária Rota do Oeste (BR-163/MT, edital 03/2013)",
+   "assunto": "Levantamento de falhas e transgressões; aplicação do art. 38 da Lei 8.987/95 (notificação para correção sob pena de caducidade)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções",
+    "caducidade"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Comunica a concessionária dos descumprimentos listados em anexo, que devem ser corrigidos nos prazos indicados sob pena de processo de caducidade; exige plano de trabalho em 30 dias com cronograma mensal ponderado; mantém instrumento do art. 38 em vez de TAC, por entender protelatórias as tratativas anteriores.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:14:37",
+     "justificativa": "tratativas de TAC não avançaram e tinham caráter protelatório; necessário fiscalizar o cumprimento do contrato",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:22:24",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:22:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo com o relator",
+     "ts": "0:22:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:22:37",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:22:53",
+   "processo": "50500.017557/2020-79",
+   "interessado": "Concessionária das Rodovias Centrais do Brasil (Concer)",
+   "assunto": "Anulação da Deliberação 455 de 03/11/2020 (5ª revisão ordinária, 9ª extraordinária e reajuste da tarifa) para cumprir Ordem Processual 15/2021 do tribunal arbitral",
+   "tema": [
+    "concessões rodoviárias",
+    "judicializacao",
+    "arbitragem",
+    "reequilíbrio contratual",
+    "pedágio / reajuste tarifário"
+   ],
+   "relator": "Eduardo Marra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Tribunal arbitral considerou que a publicação da Del. 455 descumpriu ordem anterior (OP 3) e determinou anulá-la; relator entende não haver alternativa senão cumprir exatamente a decisão arbitral.",
+   "votos": [
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "relator, aprova anulação",
+     "ts": "0:22:53",
+     "justificativa": "cumprimento da ordem do tribunal arbitral",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:28:07",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:28:12",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo com o relator",
+     "ts": "0:28:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:28:17",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Ata da 892ª aprovada por unanimidade (0:04:18).",
+  "Nomes de diretores pela legenda automática (ex.: «Eduardo Marra», «Menezes») são incertos; atribuição de «Menezes» a Alexandre Porto é inferência pela composição do colegiado.",
+  "Na votação do 2.1.1 houve um lapso do falante (confundiu a matéria com a «vista coletiva») e retomou; votos de quem só acompanha têm ts aproximado.",
+  "Número do processo das súmulas e do reservado confuso na legenda."
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "video_id": "68OpguLY34k",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "897",
+  "data": "2021-04-20",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral; nome pela legenda: «Rennó/Renor/Vinor»)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Davi Barreto",
+   "Eduardo Marra",
+   "Alexandre Porto"
+  ],
+  "ausentes": [
+   "Weber Ciloni (férias)"
+  ],
+  "observacoes": [
+   "Encerrada às 15h47; sessão curta (≈10 min de vídeo), 2 itens, ambos unânimes.",
+   "Item 2.1.1 é referendo de deliberação em cumprimento de decisão judicial; item extrapauta de relatoria de Alexandre Porto (início da cobrança de pedágio BR-101/SC)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1",
+   "ts": "0:02:06",
+   "processo": "50500.018284/2021",
+   "interessado": "Transbrasiliana Concessionária de Rodovia S.A.",
+   "assunto": "Referendo da Deliberação 134 de 14/04/2021, que suspendeu os efeitos da Deliberação 113/2021 (notificação para regularizar tarifa de pedágio reajustada unilateralmente) e sustou o auto de infração 206, em cumprimento de liminar do TRF-1",
+   "tema": [
+    "concessões rodoviárias",
+    "judicializacao",
+    "fiscalização e sanções",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade (referendo)",
+   "resumo_voto": "Deliberação 113 (31/03/2021) mandava a concessionária voltar à tarifa básica anterior sob pena de caducidade (art. 38 §3º Lei 8.987) e apurar infração; liminar do TRF-1 (14/04) suspendeu; referendo exigido pelo art. 70 do Regimento (até a 2ª reunião ordinária seguinte).",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator, aprova referendo",
+     "ts": "0:02:06",
+     "justificativa": "cumprir decisão judicial; ato de urgência precisa ser confirmado pela diretoria colegiada (art. 70 RI)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:06:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:06:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:06:17",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "extrapauta",
+   "ts": "0:06:34",
+   "processo": "50500.002968/2021-22",
+   "interessado": "Concessionária Catarinense de Rodovias S.A. (BR-101/SC, edital 02/2019)",
+   "assunto": "Extrapauta: reajuste da tarifa básica de pedágio e início da cobrança nas praças P1 a P4 do trecho concedido da BR-101 em Santa Catarina",
+   "tema": [
+    "concessões rodoviárias",
+    "pedágio / reajuste tarifário"
+   ],
+   "relator": "Alexandre Porto (legenda: «Menezes»)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Concessionária cumpriu requisitos da fase de trabalhos iniciais (praça de pedágio, capital social integralizado, programa de redução de acidentes, cadastro de passivo ambiental); reajuste de 8,83% pelo IPCA defasado 2 meses; tarifa de R$ 2,10 (valor lido pela legenda, sujeito a erro); aprova início da cobrança.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, aprova início da cobrança",
+     "ts": "0:07:39",
+     "justificativa": "requisitos da cláusula 17.1.1 do contrato atendidos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:10:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:10:37",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:10:42",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Aprovação da ata da 896ª aprovada por unanimidade (0:01:44) – não é item deliberativo de mérito.",
+  "Nomes de diretores pela legenda automática (ex.: «Eduardo Marra», «Menezes») são incertos; atribuição de «Menezes» a Alexandre Porto é inferência pela composição do colegiado.",
+  "Valores (R$ 2,10; 8,83%; datas de deliberações) vêm da legenda e podem estar errados.",
+  "Falante do relator no 2.1.1 inferido: o presidente da sessão lê itens «de minha relatoria»; identidade (Marcelo Vinaud) inferida da reunião 888 onde a legenda o chama de diretor-geral."
+ ]
+}
