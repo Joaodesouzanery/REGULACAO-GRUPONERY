@@ -1,5 +1,9 @@
 # Itens do tema «sandbox_inovacao» (todos os diretores)
 
+- **RD 927 (2022-03-10)**, 2.2.2 · relator **Davi Barreto** · Abertura de audiência pública sobre a minuta de resolução do sandbox regulatório (ambiente regulatório experimental) → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=vD2mixuNuv8&t=964s)
+- **RD 943 (2022-11-03)**, 2.4.1 · relator **Luciano Lourenço** · Relatório final da Audiência Pública 2/2022 e aprovação da minuta de resolução do ambiente regulatório experimental (sandbox regulatório) → aprovado por unanimidade
+  - votos: Luciano: relator; Davi: acompanha; Guilherme: acompanha; Cristiano: acompanha; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=MamI8NVrbBs&t=4144s)
 - **RD 949 (2023-02-02)**, 2.3.3 · relator **Luciano Lourenço** · Recurso (pedido de reconsideração) contra a Deliberação 389/2022 que cassou a autorização de fretamento por circuito aberto e venda de bilhetes via pl → aprovado por unanimidade — conhecido, sem efeito suspensivo; não provido; com determinação
   - votos: Luciano: relator; Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=58YX4d-4chY&t=2339s)
 - **RD 950 (2023-02-16)**, 2.4.2 · relator **Luciano Lourenço** · Termo aditivo ao contrato de concessão (edital 3/2021) para regulamentar obrigações e efeitos do sandbox regulatório do pedágio em fluxo livre (free f → aprovado por unanimidade (votado em conjunto com 2.4.3)

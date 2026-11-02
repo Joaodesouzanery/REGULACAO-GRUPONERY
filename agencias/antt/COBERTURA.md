@@ -1,4 +1,4 @@
-# Cobertura da base (atualizado em 2026-11-01)
+# Cobertura da base (atualizado em 2026-11-02)
 
 Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/data').
 
@@ -21,10 +21,10 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 | 2023 | diretoria | 30 | 29 | 29 |
 | 2023 | audiencia | 25 | 25 | 0 |
 | 2022 | participativa | 5 | 5 | 0 |
-| 2022 | diretoria | 33 | 32 | 3 |
+| 2022 | diretoria | 33 | 32 | 32 |
 | 2022 | audiencia | 28 | 28 | 0 |
 | 2021 | participativa | 9 | 9 | 0 |
-| 2021 | diretoria | 42 | 41 | 0 |
+| 2021 | diretoria | 42 | 41 | 41 |
 | 2021 | audiencia | 26 | 25 | 0 |
 | 2020 | participativa | 2 | 2 | 0 |
 | 2020 | diretoria | 45 | 45 | 0 |
@@ -38,76 +38,6 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 ## Reuniões de diretoria transcritas e ainda sem análise
 
 - 2026-09-28 · Board Meeting No. 1042 - 09/28/2026 · `6A8-zT0Sipw`
-- 2022-12-22 · Transmissão ao vivo da 947ª Reunião de Diretoria da ANTT - 22/12/2022 · `y4r8H6490-4`
-- 2022-12-15 · Transmissão ao vivo da 946ª Reunião de Diretoria da ANTT - 15/12/2022 · `j8wblcVarbU`
-- 2022-12-01 · Transmissão ao vivo da 945ª Reunião de Diretoria da ANTT - 1/12/2022 · `aLImLnDA8UQ`
-- 2022-11-17 · Transmissão ao vivo da 944ª Reunião de Diretoria da ANTT - 17/11/2022 · `CT35ZXZmZ3c`
-- 2022-11-03 · Transmissão ao vivo da 943ª Reunião de Diretoria da ANTT - 3/11/2022 · `MamI8NVrbBs`
-- 2022-10-25 · Transmissão ao vivo da 77ª Reunião Extraordinária de Diretoria - 25/10 · `oxH5SFMhY7Y`
-- 2022-10-25 · Transmissão ao vivo da 77ª Reunião Extraordinária de Diretoria - 25/10 · `FDwUZ2Tz8g8`
-- 2022-10-20 · Transmissão ao vivo da 942ª Reunião de Diretoria da ANTT - 20/10/2022 · `6v_1vNFnIH0`
-- 2022-10-06 · Transmissão ao vivo da 941ª Reunião de Diretoria da ANTT - 6/10/2022 · `uprQ3zi71jA`
-- 2022-10-04 · Transmissão ao vivo da 76ª Reunião Extraordinária de Diretoria - 4/10/ · `eZvF7JwAVRQ`
-- 2022-09-21 · Transmissão ao vivo da 940ª Reunião de Diretoria · `_4OA6Py0z3U`
-- 2022-09-01 · Transmissão ao vivo da 939ª Reunião de Diretoria da ANTT - 1/9/2022 · `D4UlNAV41VU`
-- 2022-08-04 · Transmissão ao vivo da 937ª Reunião de Diretoria da ANTT - 4/8/2022 · `BHgWHDyFqu0`
-- 2022-07-27 · Transmissão ao vivo da 74ª Reunião Extraordinária de Diretoria - 27/7/ · `iVR1FA_ukNc`
-- 2022-07-11 · Transmissão ao vivo da 73ª Reunião Extraordinária de Diretoria - 11/7/ · `H9Q2ZZgJsNM`
-- 2022-07-07 · Transmissão ao vivo da 935ª Reunião de Diretoria da ANTT - 7/7/2022 · `Ns5dptQ7XkE`
-- 2022-06-23 · Transmissão ao vivo da 934ª Reunião de Diretoria da ANTT - 23/6/2022 · `1eQGIHBQi-4`
-- 2022-06-15 · Transmissão ao vivo da 72ª Reunião Extraordinária de Diretoria - 15/06 · `rbtOUcIEzKs`
-- 2022-06-09 · Transmissão ao vivo da 933ª Reunião de Diretoria da ANTT - 09/06/2022 · `JdxV62knDD0`
-- 2022-05-25 · Transmissão ao vivo da 932ª Reunião de Diretoria da ANTT - 25/05/2022 · `NoErqGw5nsc`
-- 2022-04-28 · Transmissão ao vivo da 930ª Reunião de Diretoria da ANTT -  28/04/2022 · `Cz5UdpIyrK8`
-- 2022-04-07 · Transmissão ao vivo da 929ª Reunião de Diretoria da ANTT -  07/04/2022 · `1K0RRpACKrE`
-- 2022-03-31 · Transmissão ao vivo da 71ª Reunião Extraordinária de Diretoria da ANTT · `1o0qu7INXQM`
-- 2022-03-21 · Transmissão ao vivo da 928ª Reunião de Diretoria da ANTT -  21/03/2022 · `UyiMgSyX3iI`
-- 2022-03-10 · Transmissão ao vivo da 927ª Reunião de Diretoria da ANTT -  10/03/2022 · `vD2mixuNuv8`
-- 2022-02-22 · Transmissão ao vivo da 70ª Reunião Extraordinária de Diretoria - 22/02 · `ZxBcpTzIiA4`
-- 2022-02-17 · Transmissão ao vivo da 926ª Reunião de Diretoria da ANTT -  17/02/2022 · `ewq82LPWw2E`
-- 2022-02-03 · Transmissão ao vivo da 925ª Reunião de Diretoria da ANTT -  03/02/2022 · `pKYkK69QnQE`
-- 2022-01-20 · Transmissão ao vivo da 924ª Reunião de Diretoria da ANTT -  20/01/2022 · `q-BxgYhOb0c`
-- 2021-12-22 · Transmissão ao vivo da 69ª Reunião Extraordinária de Diretoria - 22/12 · `lWjXLAY4HKI`
-- 2021-12-16 · Transmissão ao vivo da 923ª Reunião de Diretoria da ANTT -  16/12/2021 · `MNr3gvJ5hlQ`
-- 2021-12-08 · Transmissão ao vivo da 68ª Reunião Extraordinária de Diretoria - 8/12/ · `7dl5V2BurH8`
-- 2021-12-02 · Transmissão ao vivo da 922ª Reunião de Diretoria da ANTT -  2/12/2021 · `IwLYFZ4veDo`
-- 2021-11-18 · Transmissão ao vivo da 921ª Reunião de Diretoria da ANTT - 18/11/2021 · `FNnvj8A4Zjo`
-- 2021-11-04 · Transmissão ao vivo da 920ª Reunião de Diretoria da ANTT - 4/11/2021 · `VZD-U2Sl7sU`
-- 2021-10-21 · Transmissão ao vivo da 919ª Reunião de Diretoria da ANTT - 21/10/2021 · `_OwMqo23vHw`
-- 2021-10-07 · Transmissão ao vivo da 918ª Reunião de Diretoria da ANTT - 7/10/2021 · `Fsfq1tp3R00`
-- 2021-09-22 · Transmissão ao vivo da 917ª Reunião de Diretoria da ANTT - 22/09/2021 · `OTcyf2Er7IU`
-- 2021-09-09 · Transmissão ao vivo da 916ª Reunião de Diretoria da ANTT - 09/09/2021 · `qBHo290jUds`
-- 2021-08-31 · Transmissão ao vivo da 915ª Reunião de Diretoria da ANTT - 31/08/2021 · `MjnHHA-UHiw`
-- 2021-08-24 · Transmissão ao vivo da 914ª Reunião de Diretoria da ANTT -  24/08/2021 · `vO71AMKlMQ0`
-- 2021-08-17 · Transmissão ao vivo da 913ª Reunião de Diretoria da ANTT -  17/08/2021 · `M3Oooch06TQ`
-- 2021-08-10 · Transmissão ao vivo da 912ª Reunião de Diretoria da ANTT -  10/08/2021 · `iZ2_qX-t-6Q`
-- 2021-08-03 · Transmissão ao vivo da 911ª Reunião de Diretoria da ANTT -  03/08/2021 · `aMM9bZSp6XI`
-- 2021-07-20 · 910ª REUNIÃO DE DIRETORIA DA ANTT -  20/07/2021 · `_8kPx2qM4kg`
-- 2021-07-13 · 909ª REUNIÃO DE DIRETORIA DA ANTT -  13/07/2021 · `oBi-J784BDA`
-- 2021-07-06 · 908ª REUNIÃO DE DIRETORIA DA ANTT -  06/07/2021 · `Mtl4FThOTr8`
-- 2021-06-29 · 907ª REUNIÃO DE DIRETORIA DA ANTT -  29/06/2021 · `blOL4WURQD0`
-- 2021-06-22 · Transmissão ao vivo da 906ª Reunião de Diretoria da ANTT · `EdMj6bhyq-M`
-- 2021-06-15 · 905ª REUNIÃO DE DIRETORIA DA ANTT -  15/06/2021 · `aFnFR7eFh6o`
-- 2021-06-01 · 903ª REUNIÃO DE DIRETORIA DA ANTT -  01/06/2021 · `9h87ZNIUz8s`
-- 2021-05-25 · 902ª REUNIÃO DE DIRETORIA DA ANTT -  25/05/2021 · `PsO2Rk6k2Cc`
-- 2021-05-18 · 901ª REUNIÃO DE DIRETORIA DA ANTT -  18/05/2021 · `LlN-qKuCLyE`
-- 2021-05-11 · 900ª REUNIÃO DE DIRETORIA DA ANTT -  11/05/2021 · `L0gqTrnmc4w`
-- 2021-05-04 · 899ª REUNIÃO DE DIRETORIA DA ANTT -  04/05/2021 · `kU4TfhacKO0`
-- 2021-04-27 · 898ª REUNIÃO DE DIRETORIA DA ANTT -  27/04/2021 · `qTKOq7Jx1os`
-- 2021-04-20 · 897ª REUNIÃO DE DIRETORIA DA ANTT -  20/04/2021 · `68OpguLY34k`
-- 2021-04-13 · 896ª REUNIÃO DE DIRETORIA DA ANTT -  13/04/2021 · `NjSTSz_qmS0`
-- 2021-04-06 · 895ª REUNIÃO DE DIRETORIA DA ANTT -  06/04/2021 · `ZqU-qL1jNnk`
-- 2021-03-31 · 67ª REUNIÃO EXTRAORDINÁRIA DE DIRETORIA - 31/03/2021 · `8LEQ2qPrIg0`
-- 2021-03-30 · 894ª Reunião de Diretoria da ANTT - 30/03/2021 · `ZrX6XBJsIXo`
-- 2021-03-23 · 893ª Reunião de Diretoria da ANTT - 23/03/2021 · `12n-vPNyITM`
-- 2021-03-16 · 892ª Reunião de Diretoria da ANTT - 16/03/2021 · `_slnrK0MRSw`
-- 2021-03-09 · 891ª Reunião de Diretoria da ANTT - 09/03/2021 · `avr7ZpONzto`
-- 2021-03-02 · 890ª Reunião de Diretoria da ANTT - 02/03/2021 · `SusSGEjO_BE`
-- 2021-02-23 · 889ª Reunião de Diretoria da ANTT - 23/02/2021 · `Ry_MleO7hwU`
-- 2021-02-18 · 66ª Reunião Extraordinária de Diretoria da ANTT - 18/02/2021 · `42M9M5YiRRY`
-- 2021-02-09 · 888ª Reunião de Diretoria da ANTT - 09/02/2021 · `VsOaNcaVs4Y`
-- 2021-02-02 · 887ª Reunião de Diretoria da ANTT - 02/02/2021 · `hOUJ7tu8IOM`
-- 2021-01-18 · 885ª Reunião de Diretoria da ANTT - 18/01/2021 · `KFIPj15oozg`
 - 2020-12-15 · 884ª Reunião de Diretoria da ANTT - 15/12/2020 · `SIaolRUffls`
 - 2020-12-08 · 883ª Reunião de Diretoria da ANTT - 08/12/2020 · `ZulDOW-0648`
 - 2020-12-02 · 882ª Reunião de Diretoria da ANTT - 02/12/2020 · `sDWtLtsoPCU`

@@ -1,6 +1,6 @@
 # Perfil analítico — Marcelo Fonseca · tema: pedagio_freeflow
 
-**Amostra:** presente em 5 das 6 reuniões analisadas em que há registro de presença/ausência; 5 votos neste tema; 0 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 10 das 11 reuniões analisadas em que há registro de presença/ausência; 5 votos neste tema; 0 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
 **Votos:** acompanha o relator 4 (80% dos votos em que não era relator) · relator 0 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
 

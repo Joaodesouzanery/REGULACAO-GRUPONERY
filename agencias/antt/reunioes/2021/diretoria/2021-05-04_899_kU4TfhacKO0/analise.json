@@ -1,0 +1,375 @@
+{
+ "meta": {
+  "video_id": "kU4TfhacKO0",
+  "fonte": "legenda automática do YouTube; sem marcadores de falante confiáveis; ts = tempo do vídeo (cronometragem por busca no texto); ts de votos de quem só concorda são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "899",
+  "data": "2021-05-04",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Diretor-Geral (inferido: Alexandre Porto; relator dos itens 2.1.x)",
+  "diretores_presentes": [
+   "Weber Ciloni",
+   "Davi Barreto",
+   "Eduardo Marra",
+   "Menezes",
+   "Alexandre Porto"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 15h15. 6 itens deliberados: 4 aprovados por unanimidade e 2 retirados de pauta (2.2.2 e 2.3.2), mais despacho 3.1.",
+   "No 2.2.1, a vista coletiva (aberta na RD 898) foi devolvida em voto-vista do presidente, que sugeriu juntar o processo a outro estudo de revisão do Regimento.",
+   "No 2.3.1 a presidência comentou que no mesmo dia foi lançado o Conselho de Usuários da ANTT e a ouvidoria."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1",
+   "ts": "0:04:04",
+   "processo": "50500.016207/2020-95",
+   "interessado": "Basílio Basílio Ltda. (empresa de ônibus; nome conforme legenda)",
+   "assunto": "Referendo da Deliberação 149/2021 (19/04/2021) que deferiu pedido de novos mercados da empresa por decisão judicial (9ª Vara Federal Cível/DF), com efeitos suspensos enquanto vigorar a cautelar do TCU que proíbe novas outorgas do TRIP interestadual",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao",
+    "regulação normativa"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "SUPAS indeferira por causa da cautelar do TCU; o relator concorda com o mérito técnico (empresa cumpriu requisitos) e entende que deferir com efeitos suspensos evita descumprir a ordem judicial; PFE concordou. Debate sobre procedimento transitório: continuar análise em ordem cronológica, notificar deficiências documentais para evitar acúmulo de processos e não criar falsa expectativa.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, referenda",
+     "ts": "0:09:00",
+     "justificativa": "cumprimento da ordem judicial com multa diária e respeito à cautelar do TCU",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator, com pergunta/sugestão procedimental",
+     "ts": "0:09:40",
+     "justificativa": "pediu que se notifique a empresa se houver deficiência documental e se evite acúmulo de pedidos aguardando o TCU",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha, apoiando a sugestão procedimental",
+     "ts": "0:10:30",
+     "justificativa": "evitar inércia administrativa e acúmulo; indeferidos podem recorrer",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "acompanha o relator",
+     "ts": "0:14:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:14:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:14:54",
+   "processo": "50500.075225/2020-69 (legenda)",
+   "interessado": "Ecoponte (Ponte Rio-Niterói)",
+   "assunto": "Alteração por prazo indeterminado da restrição de tráfego de veículos de carga na Ponte Presidente Costa e Silva e acessos (Res. 2.294/2007; mantém modelo da Res. 5.914/2020: horários de restrição para veículos com 3 ou mais eixos)",
+   "tema": [
+    "concessões rodoviárias",
+    "regulação normativa"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Restrição de horário mostrou-se eficaz (fluidez, conforto, segurança) e não houve reclamações na ouvidoria; pode ser revista; não altera regras de carga especial e produtos perigosos.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, aprova",
+     "ts": "0:17:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:18:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:18:17",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:18:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:18:23",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:18:36",
+   "processo": "50500.006041/2021-80 (legenda)",
+   "interessado": "Gabinete de Weber Ciloni / SUGEA",
+   "assunto": "Alteração do Regimento Interno (Res. 5.888/2020) para recriar o CEDOC (gestão documental) e reposicionar a Secretaria-Geral; voto-vista do presidente sugere anexar o processo ao processo 50500.133996/2018 (estudo de atualização geral do Regimento, Decreto 10.139/2019 e IN TCU)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Weber Ciloni (relator); presidente da sessão (voto-vista)",
+   "resultado": "aprovado por unanimidade o voto-vista (juntada ao outro processo de revisão do Regimento)",
+   "resumo_voto": "Presidente: há outras propostas de alteração regimental em estudo; devem ser reunidas para análise única e sistemática; propõe anexar este processo ao outro. Relator aceita, o mérito será analisado em conjunto.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "voto-vista: junta o processo ao estudo geral do Regimento",
+     "ts": "0:20:10",
+     "justificativa": "unificar propostas regimentais; Decreto 10.139/2019 e normativos do TCU",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, de acordo com o voto-vista",
+     "ts": "0:21:30",
+     "justificativa": "aceita juntada e análise conjunta de mérito",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo com o voto-vista",
+     "ts": "0:22:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo com o voto-vista",
+     "ts": "0:22:18",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:22:22",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:22:36",
+   "processo": "50500.022008/2020-79 (legenda)",
+   "assunto": "Outra proposta de alteração do Regimento Interno; relator retirou de pauta para tratá-la junto com o mesmo processo de estudo geral do Regimento",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "retirado de pauta pelo relator (aprovado por unanimidade)",
+   "resumo_voto": "Retirada solicitada pelo relator em razão da autuação do processo geral de reforma regimental.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, pede retirada de pauta",
+     "ts": "0:22:45",
+     "justificativa": "tratar com o processo geral de reforma regimental",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo com a retirada",
+     "ts": "0:23:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo com a retirada",
+     "ts": "0:23:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo com a retirada",
+     "ts": "0:23:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo com a retirada",
+     "ts": "0:23:32",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:23:46",
+   "processo": "50500.129850/2018 (legenda)",
+   "interessado": "SUPAS / SUINF / SUFER / SUGPA",
+   "assunto": "Audiência Pública 6/2020: relatório final e resolução que regulamenta (art. 30, parágrafo único, Lei 8.987/1995) as comissões tripartites (ANTT, usuários e empresas delegatárias) de acompanhamento da fiscalização de TRIP, rodovias e ferrovias; prazo de 180 dias para criação",
+   "tema": [
+    "participação social",
+    "regulação normativa",
+    "ônibus (transporte regular, TAR)",
+    "concessões rodoviárias",
+    "ferrovias"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Comissões acompanham a fiscalização, sem exercer poder de polícia nem aplicar sanções (competência exclusiva da ANTT); composição paritária; 180 dias para criação e data certa de vigência (Decreto 10.139/2019).",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:31:40",
+     "justificativa": "controle social previsto na Lei 8.987/1995; ajuste de prazo e vigência",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator; questiona o prazo de 180 dias (prorrogação?)",
+     "ts": "0:26:30",
+     "justificativa": "prazo razoável, mas perguntou se seria prorrogável",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "acompanha; elogia o voto",
+     "ts": "0:28:00",
+     "justificativa": "dia importante: lançamento do Conselho de Usuários e da comissão tripartite como pilares de governança, transparência e participação social",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:32:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:32:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:32:25",
+   "processo": "50500.071582/2017 (legenda)",
+   "assunto": "Audiência Pública 7/2020: relatório final e resolução sobre regras de reequilíbrio contratual e governança de partes relacionadas (concessões rodoviárias)",
+   "tema": [
+    "reequilíbrio contratual",
+    "concessões rodoviárias",
+    "regulação normativa",
+    "participação social"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "retirado de pauta pelo relator (aprovado por unanimidade)",
+   "resumo_voto": "Relator pede licença para retirar porque ficou com dúvida sobre duas mudanças feitas pela área técnica após a audiência pública; traz na próxima reunião. Weber sugeriu escalonamento por conclusão de obras, análogo a outros processos.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, pede retirada de pauta",
+     "ts": "0:32:40",
+     "justificativa": "dúvida sobre duas alterações pós-audiência feitas pela área técnica",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com a retirada, com sugestão",
+     "ts": "0:33:00",
+     "justificativa": "recomendou tratar escalonamento conforme obras sejam concluídas (como em outros processos da ANTT)",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo com a retirada",
+     "ts": "0:33:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "de acordo com a retirada",
+     "ts": "0:33:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo com a retirada",
+     "ts": "0:34:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3.1",
+   "ts": "0:34:56",
+   "processo": "50534.043702/2019-39 (legenda)",
+   "assunto": "Despacho: pedido de cancelamento de distribuição (art. 55 III do RI)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Cancelamento da distribuição do processo.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:35:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:35:18",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:35:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "acompanha o relator (de acordo)",
+     "ts": "0:35:24",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "2.2.2",
+   "assunto": "Segunda proposta de alteração do Regimento Interno",
+   "motivo": "retirada pelo relator para juntar ao processo geral de reforma regimental"
+  },
+  {
+   "id": "2.3.2",
+   "assunto": "AP 7/2020 reequilíbrio contratual e partes relacionadas",
+   "motivo": "dúvida do relator sobre duas mudanças pós-audiência"
+  }
+ ],
+ "limites_da_analise": [
+  "Cronometragem por busca no texto; votos de seguidores aproximados.",
+  "Nomes de diretores na legenda são muito distorcidos (ex.: «Weber Ciloni» aparece como «Velho esse nome», «Vélo Simone», «Cilloni»; «Menezes» como «tomou chá de Menezes»); a identificação segue a ordem de votação e as saudações. O rótulo de falante «Marcelo Fonseca»/«Guilherme Sampaio» nas partes inferidas do .md é errado nestas reuniões.",
+  "Atribuições por voz (quem perguntou/comentou) são inferidas: a legenda não identifica o falante; várias falas de Weber e do presidente no 2.1.1, 2.2.1 e 2.3.1 foram atribuídas por contexto, com baixa/media confiança.",
+  "Presidente inferido como Alexandre Porto (baixa/media).",
+  "No 2.2.1 não está claro se a vista foi apresentada pelo presidente ou por outro diretor; o texto aponta o presidente (DG).",
+  "Números de processo vêm da legenda e podem estar errados."
+ ]
+}

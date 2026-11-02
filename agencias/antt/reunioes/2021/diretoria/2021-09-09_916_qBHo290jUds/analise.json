@@ -1,0 +1,227 @@
+{
+ "meta": {
+  "video_id": "qBHo290jUds",
+  "fonte": "legenda automática do YouTube; sem marcadores de falante confiáveis; ts = tempo do vídeo (cronometragem por busca no texto); ts de votos de quem só concorda são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "916",
+  "data": "2021-09-09",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Davi Barreto",
+   "Guilherme Sampaio",
+   "Fábio Rogério"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte pública encerrada às 15h04; sessão reservada em seguida.",
+   "Davi e Fábio retiraram de pauta os processos reservados 2.2.1 e 2.3.1 até que a PFE responda sobre os impactos da MP 1.065 (art. 78-B... da Lei 10.233 e art. 60 do RI) nas reuniões públicas e reservadas.",
+   "Ata da RD 915 aprovada sem voto de Davi Barreto, que estava de férias naquela reunião.",
+   "Principal item público: viabilidade técnica e jurídica de relicitação da Autopista Fluminense (BR-101/RJ-ES), primeiro caso por incapacidade financeira de adimplir."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1",
+   "ts": "0:07:50",
+   "processo": "50500.053299/2020-94 (legenda)",
+   "interessado": "Corregedoria",
+   "assunto": "Processo administrativo disciplinar (reservado) de relatoria de Rafael Vitale",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "julgamento na parte reservada; sem conteúdo na transcrição",
+   "resumo_voto": "Apenas listado na leitura da pauta.",
+   "votos": []
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:08:20",
+   "processo": "50500.145075/2014-60 (legenda)",
+   "interessado": "Matriz Transportes Ltda.",
+   "assunto": "Arquivamento de processo administrativo (art. 19 II da Res. 5.083/2016; art. 52 da Lei 9.784/1999) (reservado)",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "retirado de pauta (a pedido do relator; ver limites)",
+   "resumo_voto": "Davi Barreto pediu retirada de pauta até a PFE responder sobre os efeitos da MP 1.065 no art. 60 do RI e na sistemática de reuniões públicas/reservadas; Fábio, Guilherme e Rafael concordaram.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, pede retirada de pauta",
+     "ts": "0:10:30",
+     "justificativa": "MP 1.065 altera a lei das agências; consulta à PFE pendente sobre publicidade das reuniões",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fábio Rogério",
+     "voto": "de acordo com a retirada",
+     "ts": "0:11:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com a retirada",
+     "ts": "0:11:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo com a retirada",
+     "ts": "0:11:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:08:50",
+   "processo": "50500.0?/2021 (legenda)",
+   "interessado": "Buser Brasil Tecnologia Ltda. (legenda: Usei/Búzios)",
+   "assunto": "Recurso contra o entendimento do item 3 do Ofício SEI 12654/2021 da Corregedoria (reservado)",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (fretamento)"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "julgamento na parte reservada; sem conteúdo na transcrição",
+   "resumo_voto": "Apenas listado.",
+   "votos": []
+  },
+  {
+   "id": "2.2.3",
+   "ts": "0:09:00",
+   "interessado": "Buser Brasil Tecnologia Ltda.",
+   "assunto": "Recurso contra o entendimento do item 3 do Ofício SEI 13152/2021 (reservado)",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (fretamento)"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "julgamento na parte reservada; sem conteúdo na transcrição",
+   "resumo_voto": "Apenas listado.",
+   "votos": []
+  },
+  {
+   "id": "2.2.4",
+   "ts": "0:09:15",
+   "processo": "50500.024302/2021-54 (legenda)",
+   "interessado": "Buser Brasil Tecnologia Ltda.",
+   "assunto": "Recurso contra o entendimento do item 3 do Ofício SEI 12661/2021 (reservado)",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (fretamento)"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "julgamento na parte reservada; sem conteúdo na transcrição",
+   "resumo_voto": "Apenas listado.",
+   "votos": []
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:09:30",
+   "processo": "50500.019869/2017 (legenda)",
+   "interessado": "Regina Martins Barbosa Faria",
+   "assunto": "Processo administrativo ordinário (reservado), relatoria de Fábio Rogério",
+   "tema": [
+    "fiscalização e sanções"
+   ],
+   "relator": "Fábio Rogério",
+   "resultado": "retirado de pauta (a pedido do relator; ver limites)",
+   "resumo_voto": "Fábio Rogério pediu retirada pelo mesmo motivo apresentado por Davi (MP 1.065 e consulta à PFE).",
+   "votos": [
+    {
+     "diretor": "Fábio Rogério",
+     "voto": "relator, pede retirada de pauta",
+     "ts": "0:10:50",
+     "justificativa": "mesmo motivo do 2.2.1",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com a retirada",
+     "ts": "0:11:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo com a retirada",
+     "ts": "0:11:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:11:40",
+   "processo": "50500.049085/2021-13",
+   "interessado": "Concessionária Autopista Fluminense S.A. (Arteris)",
+   "assunto": "Verificação da viabilidade técnica e jurídica do requerimento de relicitação do contrato de concessão da BR-101 (divisa RJ/ES até a Ponte Presidente Costa e Silva; Edital 4/2007), nos termos do art. 4º, caput, do Decreto 9.957/2019",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "judicializacao",
+    "fiscalização e sanções"
+   ],
+   "relator": "Fábio Rogério",
+   "resultado": "aprovado por unanimidade (admissibilidade; envio ao Ministério da Infraestrutura)",
+   "resumo_voto": "AIR mostrou restrições de caixa e descasamento entre geração de caixa e demanda de investimento; três alternativas (nada, caducidade, relicitação) e conclusão de que a relicitação é a mais efetiva e célere; PFE (Parecer 96) condicionou à manifestação técnica sobre a capacidade de adimplir, que a SUINF atestou item a item; primeiro caso de incapacidade financeira (art. 13 da Lei 13.448/2017); alerta ao risco para outros contratos e acompanhamento do processo análogo no TCU (aeroporto de São Gonçalo do Amarante, leading case).",
+   "votos": [
+    {
+     "diretor": "Fábio Rogério",
+     "voto": "relator, aprova o prosseguimento e envio ao Ministério da Infraestrutura",
+     "ts": "0:22:40",
+     "justificativa": "evitar deterioração do serviço, multas e caducidade; consequências práticas e segurança jurídica; evitar trivializar o instituto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha na íntegra",
+     "ts": "0:22:55",
+     "justificativa": "voto denso e cuidadoso; primeiro caso de incapacidade financeira; aderência legal e momento processual claros",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha; endossa o voto",
+     "ts": "0:23:58",
+     "justificativa": "voto trouxe clareza e simplicidade; dúvidas discutidas até a véspera foram superadas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo",
+     "ts": "0:24:40",
+     "justificativa": "concorda plenamente com as colocações",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "2.2.1",
+   "processo": "50500.145075/2014-60",
+   "assunto": "Matriz Transportes: arquivamento (reservado)",
+   "motivo": "consulta à PFE sobre MP 1.065 e art. 60 do RI"
+  },
+  {
+   "id": "2.3.1",
+   "assunto": "Regina Martins Barbosa Faria: processo administrativo ordinário (reservado)",
+   "motivo": "mesmo motivo"
+  }
+ ],
+ "limites_da_analise": [
+  "Cronometragem por busca no texto; ts dos itens reservados (2.1.1 a 2.2.4) são aproximados (leitura da pauta ≈ 0:07–0:10).",
+  "Rótulo de falante «Guilherme Sampaio» no .md é a voz do presidente Rafael Vitale; a legenda ASR distorce muitos nomes («Davi» aparece como «Vick»).",
+  "Itens reservados apenas listados; mérito não transmitido.",
+  "Números de processo e referências legais (MP 1.065; art. 78-B?) vêm da legenda e podem estar errados.",
+  "O resultado das retiradas depende de consulta à PFE; o retorno não consta desta reunião."
+ ]
+}

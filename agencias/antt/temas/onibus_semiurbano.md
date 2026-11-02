@@ -1,5 +1,27 @@
 # Itens do tema «onibus_semiurbano» (todos os diretores)
 
+- **RD 889 (2021-02-23)**, 2.1.3 · relator **Weber Ciloni** · Reajuste de 1,033% (IPCA) sobre o coeficiente tarifário do serviço semiurbano interestadual, vigência a partir de 28/2/2021 → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Eduardo: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=Ry_MleO7hwU&t=642s)
+- **RD 889 (2021-02-23)**, 2.1.4 · relator **Weber Ciloni** · Reajuste de 4,14% sobre o coeficiente tarifário dos serviços semiurbano interestadual e internacional operados por autorização especial; vigência a pa → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Eduardo: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=Ry_MleO7hwU&t=824s)
+- **RD 895 (2021-04-06)**, 2.1.1 · relator **Alexandre Porto** · 1º termo aditivo ao convênio de delegação (semiurbano Mafra–Rio Negro): arrecadação e cobrança da taxa de fiscalização (R$ 1.800 por ônibus/ano) passa → aprovado por unanimidade
+  - votos: Alexandre: relator; Davi: acompanha; Eduardo: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=ZqU-qL1jNnk&t=152s)
+- **RD 901 (2021-05-18)**, 2.3.1 · relator **Eduardo Marra** · Flexibilização de prazos para envio de informações financeiras (Res. 3.524/2010) e comprovação de regularidade tributária, trabalhista e previdenciári → aprovado por unanimidade
+  - votos: Eduardo: relator; Davi: acompanha; Menezes: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=LlN-qKuCLyE&t=644s)
+- **RD 905 (2021-06-15)**, 2.1.2 · relator **Menezes (nome incerto)** · Transferência ao Distrito Federal das outorgas de autorização especial, autorização judicial e permissão do transporte semiurbano delegado, e termo ad → aprovado por unanimidade
+  - votos: Menezes: relator; Eduardo: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=aFnFR7eFh6o&t=340s)
+- **RD 912 (2021-08-10)**, 1.2 · relator **Fábio Rogério** · Minuta de edital / plano geral de outorgas do serviço interestadual semiurbano Timon–Teresina, para aprovação pelo Ministério da Infraestrutura antes  → pedido de vista de Davi Barreto (concedido)
+  - votos: Fábio: relator; Davi: vista; Guilherme: revisor_acompanha; Alexandre: revisor_acompanha; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=iZ2_qX-t-6Q&t=1171s)
+- **RD 920 (2021-11-04)**, 2.1.3 · relator **Fábio Rogério** · Plano geral de outorgas para licitação do serviço semiurbano interestadual de passageiros Timon–Teresina, a ser enviado ao Ministério da Infraestrutur → aprovado por unanimidade (nos termos do voto-vista)
+  - votos: Fábio: revisor_acompanha; Davi: revisor_acompanha; Guilherme: revisor_acompanha; Rafael: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=VZD-U2Sl7sU&t=948s)
+- **RD 923 (2021-12-16)**, 2.4.1 · relator **Fábio Rogério** · Cobrança da verba de fiscalização do contrato de permissão 01/2015 (semiurbano, DF/Goiás): regras de recolhimento, incluindo valores anteriores devido → aprovado por unanimidade
+  - votos: Fábio: relator; Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=MNr3gvJ5hlQ&t=3631s)
+- **RD 926 (2022-02-17)**, 2.1.1 · relator **Rafael Vitale** · Reajuste do coeficiente tarifário do serviço interestadual e internacional semiurbano de passageiros operado em autorização especial, a partir de 27/0 → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=ewq82LPWw2E&t=80s)
+- **RD 930 (2022-04-28)**, 2.2.1 · relator **Davi Barreto** · Alteração da Res. 5.917/2020 para retomar a exigência de frequência mínima nos serviços regulares interestaduais sob autorização (art. 33 da Res. 4.77 → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=Cz5UdpIyrK8&t=1309s)
+- **RD 940 (2022-09-21)**, 2.3.2 · relator **Luciano Lourenço** · Processo administrativo ordinário: linha semiurbana interestadual Cruzeiro do Sul (AC) - Guajará (AM) não operada pela autorizada; transporte feito po → aprovado por unanimidade — cassação da linha e multa
+  - votos: Luciano: relator; Davi: acompanha; Guilherme: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=_4OA6Py0z3U&t=1958s)
 - **RD 950 (2023-02-16)**, extrapauta · relator **Rafael Vitale** · Referendo da Deliberação 35 de 03/02/2023, que aprovou a extinção do convênio de delegação 1/2020 denunciado pelo Distrito Federal e o encerramento do → aprovado por unanimidade (inclusão extrapauta por concordância dos diretores)
   - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha; Luciano: acompanha · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=4817s)
 - **RD 958 (2023-06-07)**, 1.1.1 · relator **Rafael Vitale** · Referendo da Deliberação 140/2023 (16/5/2023), que revogou a Deliberação 76/2023 e restabeleceu a eficácia da Deliberação 58/2023 (reajuste de 12% no  → aprovado por unanimidade — deliberação referendada

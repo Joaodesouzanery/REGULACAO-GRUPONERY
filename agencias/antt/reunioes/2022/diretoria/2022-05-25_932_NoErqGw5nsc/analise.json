@@ -1,0 +1,279 @@
+{
+ "meta": {
+  "video_id": "NoErqGw5nsc",
+  "fonte": "legenda automática do YouTube; falantes inferidos (o rótulo automático «Guilherme Sampaio» no cabeçalho do .md se refere, na fala de abertura/encerramento, ao Diretor-Geral Rafael Vitale); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "932",
+  "data": "2022-05-25",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Davi Barreto",
+   "Guilherme Sampaio",
+   "Luciano Lourenço"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às ~15h13; sessão de ≈ 32 min, com ata, cinco itens e todos aprovados por unanimidade.",
+   "Davi Barreto relatou quatro itens (2.1.1 a 2.1.3 e o voto-vista do 2.1.4); Guilherme Sampaio relatou o 2.2.1; o item 2.1.4 era de relatoria do DG, com voto-vista de Davi.",
+   "Os diretores citaram a visita recente a portos do Maranhão (Ponta da Madeira) ao defender a regulação ferroviária."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:01:13",
+   "processo": "",
+   "interessado": "Ata da RD 931",
+   "assunto": "Aprovação da ata da reunião de diretoria nº 931",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "",
+   "resultado": "aprovada por unanimidade",
+   "resumo_voto": "Ata dispensada de leitura (distribuída com 48 h de antecedência).",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:01:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "0:01:44",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "de acordo",
+     "ts": "0:01:48",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo",
+     "ts": "0:01:52",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:02:06",
+   "processo": "50500.049426/2021-31",
+   "interessado": "Rumo Malha Paulista S.A.",
+   "assunto": "Primeira revisão ordinária do 2º termo aditivo (valor de outorga) e 4º termo aditivo ao contrato de concessão",
+   "tema": [
+    "ferrovias",
+    "reequilíbrio contratual",
+    "regulação normativa"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Revisão ordinária (cláusula 19.2.1): acréscimo de outorga de R$ 2.504.184,27 (preços de março/2020) a ser acrescido às parcelas trimestrais 9 a 155. 4º TA corrige erro material na fórmula do acréscimo (termo de compartilhamento de receita), altera investimentos com prazo determinado (supressão de desativação de passagem em nível e passarela no pátio de Matão/Bueno de Andrade por oposição da prefeitura, e correção de localização de outro investimento) e cria tarifa teto para contêiner de 53 pés cheio e vazio, estimada por modelo linear generalizado a partir de dados do SAF.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova revisão e 4º termo aditivo",
+     "ts": "0:02:39",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:11:04",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "de acordo com o relator",
+     "ts": "0:11:06",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo integralmente com o relator",
+     "ts": "0:11:10",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:11:20",
+   "processo": "50500.0?6/2021-11 (número truncado na legenda)",
+   "interessado": "Viação São Luiz Ltda.",
+   "assunto": "Extinção por cassação (art. 48 da Lei 10.233/2001) do termo de autorização de serviço regular, por perda das condições indispensáveis ao cumprimento do objeto (irregularidade trabalhista e situação cadastral na Receita)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Empresa mantinha a autorização por decisão judicial que afastava a exigência de regularidade trabalhista; extinto o processo judicial sem mérito, a ANTT exigiu a comprovação, a empresa não comprovou (art. 12 da Res. 4.770/2015) e sua situação cadastral na Receita estava irregular desde janeiro de 2022. SUPAS aplicou medida cautelar suspendendo a venda de bilhetes e, após 30 dias, o rito de extinção. O relator diferencia essa extinção da penalidade de cassação e cita as diretrizes fixadas pela Diretoria em processo anterior.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, extingue a autorização",
+     "ts": "0:11:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:14:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "de acordo com o relator",
+     "ts": "0:14:59",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo com o relator",
+     "ts": "0:15:05",
+     "justificativa": "transporte de passageiros é transporte de vidas: regras precisam ser cumpridas; elogia a diligência da agência",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.1.3",
+   "ts": "0:15:31",
+   "processo": "50500.011820/2022-88 (número aproximado)",
+   "interessado": "SUFER (Superintendência de Transporte Ferroviário)",
+   "assunto": "Abertura de audiência pública sobre a minuta do contrato de adesão para formalização de outorgas por autorização de exploração de ferrovias (novo marco legal das ferrovias, Lei 14.273/2021)",
+   "tema": [
+    "ferrovias",
+    "participação social",
+    "regulação normativa"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Matéria de competência da Diretoria Colegiada (Regimento Interno). A minuta aperfeiçoa o modelo de contrato de adesão já usado no Ministério da Infraestrutura e passa a ter a ANTT como protagonista; ajustes da PF foram integralmente acatados pela SUFER. Aprova-se a audiência pública para colher subsídios, em paralelo à audiência sobre a resolução de autorizações (item 2.2.1).",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova abertura da audiência pública",
+     "ts": "0:15:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:19:05",
+     "justificativa": "registra considerações finais sobre o trabalho da SUFER",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "de acordo com o relator",
+     "ts": "0:19:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo com o relator",
+     "ts": "0:19:30",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.1.4",
+   "ts": "0:19:46",
+   "processo": "50500.090181/2021-28 e 50500.093207/2021-90 (números aproximados)",
+   "interessado": "Interbrasil Transportes, Turismo e Eventos Eireli",
+   "assunto": "Processo administrativo ordinário: descumprimento de regulamentos de fretamento; cassação da autorização de fretamento; processo apresentado pelo DG na RD 927 (10/03/2022), com pedido de vista de Davi Barreto",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Rafael Vitale (relator); Davi Barreto (voto-vista)",
+   "resultado": "aprovado por unanimidade, nos termos do voto do relator com as sugestões do revisor",
+   "resumo_voto": "Davi pediu vista para examinar os efeitos da cassação do TAF sobre o termo de autorização de serviço regular (TAR 208) da mesma empresa; a PF orientou que não há vinculação imediata, sendo necessário processo específico. Davi acompanha o relator, sugere ajustar a fundamentação legal para o art. 78-H da Lei 10.233/2001 (cassação) e que a SUPAS instaure processo específico para avaliar os efeitos sobre o TAR (art. 78-J). Cassação da autorização de fretamento aprovada.",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, cassação da autorização de fretamento",
+     "ts": "0:19:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "voto-vista: acompanha o relator com ajuste de fundamentação e processo específico sobre o TAR",
+     "ts": "0:20:23",
+     "justificativa": "separação entre cassação do fretamento e efeitos sobre o serviço regular; segurança jurídica",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o voto-vista convergente",
+     "ts": "0:23:40",
+     "justificativa": "concorda com as observações do revisor",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "de acordo com o relator e com o revisor",
+     "ts": "0:23:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:24:20",
+   "processo": "50500.018372/2022-43 (número aproximado)",
+   "interessado": "SUFER",
+   "assunto": "Abertura de audiência pública (45 dias) sobre a proposta de resolução que disciplina os requerimentos de autorização para exploração de ferrovias, pátios e instalações acessórias (art. 25 da Lei 14.273/2021)",
+   "tema": [
+    "ferrovias",
+    "participação social",
+    "regulação normativa"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "AIR e avaliação de resultado regulatório providenciadas; PF (Parecer 74/2022) recomendou participação social. O novo marco legal dá à ANTT a instrução e análise dos requerimentos que antes cabiam ao Ministério (Portaria 131/2021 perde sentido). Implementa mais um passo da autorização ferroviária para equilibrar a matriz de transporte e estimular a intermodalidade.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, submete à audiência pública de 45 dias",
+     "ts": "0:24:43",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:31:00",
+     "justificativa": "visita a portos no Maranhão reforçou a necessidade de investir em ferrovias e acelerar as autorizações",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator (unanimidade proclamada; voto não audível na legenda)",
+     "ts": "0:32:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "integralmente de acordo com o relator",
+     "ts": "0:32:05",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "A legenda automática erra nomes, números e siglas; valores só foram registrados quando legíveis. Votos de diretores que apenas acompanham o relator têm ts aproximado e confiança media.",
+  "Números de processo desta reunião estão aproximados/truncados pela legenda (marcados como tal). A numeração dita pelo DG para os itens 2.1.2/2.1.3 é confusa na legenda ('2.1.4 6 2021 11'); aqui foi organizada na ordem cronológica. As falas de Guilherme e Luciano nos itens 2.1.4 e 2.2.1 foram atribuídas por contexto. No 2.2.1 o voto de Luciano Lourenço não aparece na legenda; foi registrado pela proclamação de unanimidade."
+ ]
+}

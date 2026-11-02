@@ -1,5 +1,95 @@
 # Itens do tema «pedagio_freeflow» (todos os diretores)
 
+- **RD 887 (2021-02-02)**, 2.3.1 · relator **Alexandre Porto** · 11ª revisão ordinária, 12ª revisão extraordinária e reajuste da tarifa básica de pedágio (BR-393/RJ); sustentação oral do advogado Robson Barreirinhas → aprovado (votos de acordo; a legenda não registra a proclamação do resultado)
+  - votos: Alexandre: relator; Davi: acompanha; Weber: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=hOUJ7tu8IOM&t=760s)
+- **RD 889 (2021-02-23)**, 2.2.1 · relator **Davi Barreto** · 13º termo aditivo ao contrato: extensão do prazo por 12 meses (prorrogável por períodos de 6 meses, máximo 24) por não conclusão da licitação da nova  → aprovado por maioria (vencido Weber Ciloni)
+  - votos: Davi: relator; Weber: vencido; Eduardo: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=Ry_MleO7hwU&t=1003s)
+- **RD 889 (2021-02-23)**, 2.2.2 · relator **Davi Barreto** · 25ª revisão ordinária, 16ª revisão extraordinária e reajuste da tarifa básica de pedágio da BR-116 (RJ-SP) → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Eduardo: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=Ry_MleO7hwU&t=3138s)
+- **RD 891 (2021-03-09)**, 2.4.1 · relator **Eduardo Marra** · Reajuste da tarifa básica de pedágio e autorização de início da cobrança nas praças P3 (Ituiutaba), P4 (Santa Vitória) e P5 (Paranaiguara) → aprovado por unanimidade
+  - votos: Eduardo: relator; Weber: acompanha; Davi: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=avr7ZpONzto&t=1380s)
+- **RD 892 (2021-03-16)**, 2.1.1 · relator **Davi Barreto** · 24ª revisão ordinária, 10ª revisão extraordinária e reajuste da tarifa básica de pedágio da CRT (BR-116/RJ, Além Paraíba–Teresópolis) → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Eduardo: acompanha; Menezes: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=_slnrK0MRSw&t=590s)
+- **RD 892 (2021-03-16)**, 2.1.2 · relator **Davi Barreto** · Minuta de termo aditivo de extensão do prazo contratual da CRT por 18 meses (Lei 13.448, art. 32; Portaria MInfra 3/2021; Res. 5.926/2021), até a assu → aprovado por maioria (voto contrário de Weber Ciloni)
+  - votos: Davi: relator; Weber: outro; Eduardo: acompanha; Menezes: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=_slnrK0MRSw&t=903s)
+- **RD 892 (2021-03-16)**, 2.2.1 · relator **Eduardo Marra** · 7ª revisão ordinária, 8ª revisão extraordinária, desconto de reequilíbrio e reajuste da tarifa básica de pedágio da Eco101 (Edital 1/2011) e 1º termo  → aprovado por unanimidade
+  - votos: Eduardo: relator; Weber: acompanha; Davi: acompanha; Menezes: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=_slnrK0MRSw&t=2736s)
+- **RD 893 (2021-03-23)**, 2.1.1 · relator **Marcelo Vinaud** · Segunda revisão ordinária e reajuste da tarifa básica de pedágio → aprovado por unanimidade
+  - votos: Marcelo: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=12n-vPNyITM&t=339s)
+- **RD 893 (2021-03-23)**, 2.3.1 · relator **Eduardo Marra** · Anulação da Deliberação 455 de 03/11/2020 (5ª revisão ordinária, 9ª extraordinária e reajuste da tarifa) para cumprir Ordem Processual 15/2021 do trib → aprovado por unanimidade
+  - votos: Eduardo: relator; Davi: acompanha; Weber: acompanha; Alexandre: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=12n-vPNyITM&t=1373s)
+- **RD 894 (2021-03-30)**, 2.3.1 · relator **Eduardo Marra** · Alteração parcial da modelagem contratual da BR-116/101 RJ-SP (Nova Dutra): incorporação temporária do trecho Viúva Graça (46,6 km, RJ–Seropédica, com → aprovado por unanimidade
+  - votos: Eduardo: relator; Weber: acompanha; Davi: acompanha; Menezes: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ZrX6XBJsIXo&t=1522s)
+- **RD 67 (extraordinária) (2021-03-31)**, 1.1.1 · relator **Davi Barreto** · Proposta de medida cautelar de restabelecimento da tarifa básica de pedágio (e categoria 1) nas praças P1 (Onda Verde), P2 (José Bonifácio), P3 e P4 ( → aprovado por unanimidade (deliberação notificando a concessionária)
+  - votos: Davi: relator; Eduardo: acompanha; Menezes: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=8LEQ2qPrIg0&t=43s)
+- **RD 896 (2021-04-13)**, 2.3.2 · relator **Eduardo Marra** · 13ª revisão ordinária, 13ª revisão extraordinária e reajuste anual da tarifa básica de pedágio → aprovado por unanimidade
+  - votos: Eduardo: relator; Davi: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=NjSTSz_qmS0&t=1588s)
+- **RD 897 (2021-04-20)**, extrapauta · relator **Alexandre Porto** · Extrapauta: reajuste da tarifa básica de pedágio e início da cobrança nas praças P1 a P4 do trecho concedido da BR-101 em Santa Catarina → aprovado por unanimidade
+  - votos: Alexandre: relator; Davi: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=68OpguLY34k&t=394s)
+- **RD 902 (2021-05-25)**, 2.1.1 · relator **Alexandre Porto** · Aprovação do valor de aporte para reequilíbrio do contrato em razão do fechamento da praça de pedágio de Três Córregos (km 71) e da não implantação da → aprovado por unanimidade
+  - votos: Alexandre: relator; Davi: acompanha; Eduardo: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=PsO2Rk6k2Cc&t=72s)
+- **RD 907 (2021-06-29)**, 1.1 · relator **None** · Quinta revisão ordinária, sétima revisão extraordinária e reajuste da tarifa básica de pedágio da Ecoponte (BR-101/RJ, acesso à Ponte Presidente Costa → aprovado por unanimidade
+  - votos: Davi: acompanha; Eduardo: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=blOL4WURQD0&t=60s)
+- **RD 908 (2021-07-06)**, 2.2.1 · relator **Davi Barreto** · 13ª revisão ordinária, 15ª revisão extraordinária e reajuste da tarifa básica de pedágio (BR-116/376 e BR-101, Curitiba–Florianópolis) → aprovado por unanimidade
+  - votos: Davi: relator; Alexandre: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=Mtl4FThOTr8&t=219s)
+- **RD 909 (2021-07-13)**, 2.2.1 · relator **Eduardo Marra** · 10ª revisão ordinária, 13ª revisão extraordinária, desconto de reequilíbrio e reajuste da tarifa básica de pedágio → pedido de vista (Davi Barreto)
+  - votos: Eduardo: relator; Davi: vista · [vídeo](https://www.youtube.com/watch?v=oBi-J784BDA&t=898s)
+- **RD 911 (2021-08-03)**, 1.1 · relator **Davi Barreto** · 17ª revisão ordinária, 14ª revisão extraordinária e reajuste da tarifa básica de pedágio da Ecosul (com sustentação oral da concessionária) → retirado de pauta (aprovado por unanimidade) após sustentação oral e nova decisão judicial
+  - votos: Davi: relator; Guilherme: acompanha; Fábio: acompanha; Alexandre: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=aMM9bZSp6XI&t=278s)
+- **RD 912 (2021-08-10)**, 1.1 · relator **Eduardo Marra** · 10ª revisão ordinária, 13ª revisão extraordinária, aplicação do desconto de reequilíbrio e reajuste anual da tarifa básica de pedágio (voto-vista de D → aprovado por maioria conforme o voto-vista de Davi Barreto
+  - votos: Eduardo: vencido; Davi: revisor_diverge; Guilherme: revisor_acompanha; Fábio: revisor_acompanha; Alexandre: revisor_acompanha; Rafael: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=iZ2_qX-t-6Q&t=378s)
+- **RD 913 (2021-08-17)**, 2.4.1 · relator **Fábio Rogério** · Aprovação do edital de concessão do Sistema Rodoviário BR-116/RJ-SP (Nova Dutra) e BR-101/RJ-SP (Rio de Janeiro–Ubatuba), 625,8 km: critério híbrido ( → aprovado por unanimidade
+  - votos: Fábio: relator; Davi: acompanha; Guilherme: acompanha; Alexandre: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=M3Oooch06TQ&t=1239s)
+- **RD 914 (2021-08-24)**, 2.1.2 · relator **Davi Barreto** · 17ª revisão ordinária, 14ª revisão extraordinária e reajuste da tarifa básica de pedágio → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=vO71AMKlMQ0&t=467s)
+- **RD 914 (2021-08-24)**, 2.1.3 · relator **Davi Barreto** · Segundo termo aditivo (correção de erro material na fórmula do fator C) e 6ª revisão ordinária, 10ª revisão extraordinária e reajuste da tarifa básica → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=vO71AMKlMQ0&t=743s)
+- **RD 915 (2021-08-31)**, 2.1.3 · relator **Guilherme Sampaio** · Edital de concessão 4/2021 do sistema rodoviário BR-381/MG e BR-262/MG-ES (670 km), leilão híbrido, deságio máximo 15,5% na tarifa → aprovado por unanimidade
+  - votos: Guilherme: relator; Fábio: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=MjnHHA-UHiw&t=961s)
+- **RD 915 (2021-08-31)**, EXTRA · relator **Rafael Vitale** · Extrapauta: não referendar a deliberação 274/2021 e restabelecer a eficácia da deliberação 261/2021 (10ª revisão ordinária, 13ª extraordinária, descon → aprovado por unanimidade
+  - votos: Rafael: relator; Fábio: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=MjnHHA-UHiw&t=2252s)
+- **RD 919 (2021-10-21)**, 2.2.4 · relator **Davi Barreto** · Habilitação nacional como fornecedor de vale-pedágio obrigatório e aprovação de modelos e sistemas operacionais (Res. ANTT 2.885/2008) → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=_OwMqo23vHw&t=6360s)
+- **RD 920 (2021-11-04)**, 2.1.4 · relator **Davi Barreto** · Relatório final da AP 3/2021 e resolução sobre a metodologia de cálculo dos impactos da pandemia de covid-19 e recomposição do equilíbrio econômico-fi → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Fábio: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=VZD-U2Sl7sU&t=1468s)
+- **RD 920 (2021-11-04)**, 2.2.2 · relator **Guilherme Sampaio** · 13ª revisão ordinária, 13ª revisão extraordinária e reajuste da tarifa básica de pedágio da BR-101 (divisa RJ/ES–Ponte Presidente Costa e Silva) e ter → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Fábio: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=VZD-U2Sl7sU&t=2279s)
+- **RD 921 (2021-11-18)**, 2.1.1 · relator **Davi Barreto** · Acordo de Cooperação Técnica entre a ANTT e as Sefaz para disponibilização de informação sobre MDF-e não encerrados de veículos de carga em rodovias c → aprovado por unanimidade
+  - votos: Davi: relator; Rafael: vista; Guilherme: revisor_acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=FNnvj8A4Zjo&t=142s)
+- **RD 923 (2021-12-16)**, 2.2.1 · relator **Davi Barreto** · Primeiro reajuste da tarifa básica de pedágio do 1º termo aditivo (IPCA de +10,25%; tarifa vai a R$ 5,80, categoria 1) → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Fábio: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=MNr3gvJ5hlQ&t=2613s)
+- **RD 926 (2022-02-17)**, 2.1.2 · relator **Rafael Vitale** · Segundo termo aditivo ao contrato de concessão (BR-060/153/262, DF/GO/MG) para estabelecer as obrigações da relicitação, com prazo de assinatura até 2 → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=ewq82LPWw2E&t=385s)
+- **RD 926 (2022-02-17)**, 2.1.3 · relator **Rafael Vitale** · Aprovação do edital de concessão do sistema rodoviário Rio de Janeiro - Governador Valadares (BR-116 RJ/MG e BR-465/493 RJ), cerca de 727 km → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=ewq82LPWw2E&t=1728s)
+- **RD 926 (2022-02-17)**, 2.1.4 · relator **Rafael Vitale** · 13ª revisão ordinária, 14ª revisão extraordinária e reajuste da tarifa básica de pedágio (BR-116 SP/PR) → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=ewq82LPWw2E&t=2217s)
+- **RD 926 (2022-02-17)**, 2.2.3 · relator **Davi Barreto** · Reajuste da tarifa básica de pedágio e início da cobrança do pedágio da nova concessão → retirado de pauta pelo relator
+  - votos: Davi: relator; Rafael: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=ewq82LPWw2E&t=2819s)
+- **RD 926 (2022-02-17)**, 2.3.1 · relator **Guilherme Sampaio** · 14ª revisão ordinária, 14ª revisão extraordinária e reajuste da tarifa de pedágio (BR-116 PR/SC) → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ewq82LPWw2E&t=3029s)
+- **RD 926 (2022-02-17)**, 2.3.2 · relator **Guilherme Sampaio** · 1ª revisão ordinária, 1ª revisão extraordinária e reajuste da tarifa básica de pedágio → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ewq82LPWw2E&t=3282s)
+- **RD 71 (extraordinária) (2022-03-31)**, 1.1.2 · relator **Rafael Vitale** · Alterações nos documentos do edital 1/2022 (concessão do sistema rodoviário Rio de Janeiro–Governador Valadares: BR-116, BR-465 e BR-493/RJ/MG), com l → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=1o0qu7INXQM&t=586s)
+- **RD 939 (2022-09-01)**, 2.1.3 · relator **Guilherme Sampaio** · Relatório da Audiência Pública 7/2021 (minutas de edital, contrato, PER e estudos de viabilidade da concessão da BR-040 Rio–Belo Horizonte e BR-495) e → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Cristiano: acompanha · [vídeo](https://www.youtube.com/watch?v=D4UlNAV41VU&t=264s)
+- **RD 940 (2022-09-21)**, 2.4.2 · relator **Cristiano Della Giustina** · Reajuste da tarifa básica de pedágio e início da cobrança nas praças existentes P1, P2 e P3 (BR-116/RJ) → aprovado por unanimidade
+  - votos: Cristiano: relator; Davi: acompanha; Guilherme: acompanha; Luciano: acompanha; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=_4OA6Py0z3U&t=2719s)
+- **RD 941 (2022-10-06)**, 2.1.2 · relator **Davi Barreto** · Abertura de audiência pública sobre as minutas de edital e contrato, PER e estudos de viabilidade para a concessão do lote da BR-040 (Cristalina/GO a  → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=uprQ3zi71jA&t=433s)
+- **RD 941 (2022-10-06)**, 2.2.1 · relator **Guilherme Sampaio** · Pedido de reconsideração/recurso contra a Deliberação 193/2021 (valor de aporte reconhecido como crédito da CRT na apuração de haveres e deveres no en → aprovado por unanimidade (pedido conhecido, negado provimento; mantida a Deliberação 193/2
+  - votos: Guilherme: relator; Rafael: acompanha; Davi: acompanha; Luciano: acompanha; Cristiano: acompanha · [vídeo](https://www.youtube.com/watch?v=uprQ3zi71jA&t=755s)
+- **RD 941 (2022-10-06)**, 2.2.3 · relator **Guilherme Sampaio** · Abertura de audiência pública sobre minutas de edital e contrato, PER e estudos do lote BR-116, BR-158, BR-290 e BR-392 (Rio Grande do Sul, 674 km), a → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=uprQ3zi71jA&t=2748s)
+- **RD 942 (2022-10-20)**, 2.2.3 · relator **Davi Barreto** · Audiência pública sobre minutas de edital e contrato, PER e estudos da concessão da BR-262/MG (Uberaba - Betim, ≈ 438,9 km) - Rota Zebu → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=6v_1vNFnIH0&t=1257s)
+- **RD 943 (2022-11-03)**, 2.4.1 · relator **Luciano Lourenço** · Relatório final da Audiência Pública 2/2022 e aprovação da minuta de resolução do ambiente regulatório experimental (sandbox regulatório) → aprovado por unanimidade
+  - votos: Luciano: relator; Davi: acompanha; Guilherme: acompanha; Cristiano: acompanha; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=MamI8NVrbBs&t=4144s)
+- **RD 945 (2022-12-01)**, 2.1.1 · relator **Rafael Vitale** · Referendo da Deliberação 359/2022 (25/11/2022) que aprovou o reajuste da tarifa de pedágio em cumprimento de decisões judiciais → aprovado por unanimidade (referendo)
+  - votos: Rafael: relator; Davi: acompanha; Luciano: acompanha; Cristiano: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=aLImLnDA8UQ&t=169s)
+- **RD 946 (2022-12-15)**, 2.2.2 · relator **Davi Barreto** · Segundo reajuste da tarifa básica de pedágio praticada (3º termo aditivo, edital 6/2013) e determinação de processo específico para apurar em 60 dias  → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=j8wblcVarbU&t=951s)
 - **RD 948 (2023-01-19)**, 2.2.1 · relator **Luciano Lourenço** · Abertura de audiência pública para revisão e atualização da Resolução 2.885/2008 (Vale-Pedágio obrigatório, habilitação de fornecedoras, modelos e sis → aprovado por unanimidade
   - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZX8Rm7GspUY&t=606s)
 - **RD 949 (2023-02-02)**, 2.3.2 · relator **Luciano Lourenço** · Reajuste da tarifa básica de pedágio e início da cobrança nas praças P1 (Cláudia/MT) e P2 (Guarantã do Norte/MT) da BR-163/230 MT/PA → aprovado por unanimidade

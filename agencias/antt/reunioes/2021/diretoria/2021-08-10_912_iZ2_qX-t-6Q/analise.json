@@ -1,0 +1,159 @@
+{
+ "meta": {
+  "video_id": "iZ2_qX-t-6Q",
+  "fonte": "legenda automática do YouTube; falantes inferidos (sem marcação de falante); ts de votos de quem só concorda aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "912",
+  "data": "2021-08-10",
+  "formato": "videoconferência (pandemia)",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Davi Barreto",
+   "Guilherme Sampaio",
+   "Fábio Rogério",
+   "Alexandre Porto"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte pública encerrada às 15h11; duas matérias públicas e quatro processos reservados.",
+   "Via Bahia: o relator original era Eduardo Marra (RD 909, 06/07/2021), cuja cadeira passou a Guilherme Sampaio; por isso Sampaio não votou. Prevaleceu o voto-vista de Davi Barreto.",
+   "Item Timon–Teresina: Davi Barreto pediu vista."
+  ]
+ },
+ "itens": [
+  {
+   "id": "R",
+   "ts": "0:04:21",
+   "processo": "vários (reservados; legenda incerta)",
+   "interessado": "Brasil Tecnologia e Transporte (recursos), Gontijo de Transportes / Edson Agência de Viagens (pedido de reconsideração da Deliberação 919/2019), Concer (processo sancionador)",
+   "assunto": "Processos reservados: recursos de Brasil Tecnologia (relator Davi Barreto), pedido de reconsideração e revisão de deliberação de 24/09/2019 (Fábio Rogério) e processo administrativo ordinário de penalidade da Companhia de Concessão Rodoviária Juiz de Fora–Rio (Alexandre Porto)",
+   "tema": [
+    "fiscalização e sanções"
+   ],
+   "relator": "Davi Barreto, Fábio Rogério e Alexandre Porto (por processo)",
+   "resultado": "julgamento em sessão reservada (não transmitido)",
+   "resumo_voto": "Apenas listados na parte pública.",
+   "votos": []
+  },
+  {
+   "id": "1.1",
+   "ts": "0:06:18",
+   "processo": "50500.089357/2020-18",
+   "interessado": "Via Bahia Concessionária de Rodovias S.A. (BR-116/324/526, BA)",
+   "assunto": "10ª revisão ordinária, 13ª revisão extraordinária, aplicação do desconto de reequilíbrio e reajuste anual da tarifa básica de pedágio (voto-vista de Davi Barreto sobre voto do relator original Eduardo Marra, RD 909 de 06/07/2021)",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "pedágio / tarifa",
+    "judicialização"
+   ],
+   "relator": "Eduardo Marra (relator original); Davi Barreto (voto-vista)",
+   "resultado": "aprovado por maioria conforme o voto-vista de Davi Barreto",
+   "resumo_voto": "Davi Barreto: a concessionária pediu anular decisões e recalcular desconsiderando obrigações suspensas por agravo de instrumento; Davi entende que a cautelar antiga que travava os efeitos das revisões de 2018 e 2019 foi revogada (ordem processual 5 do procedimento arbitral) e que a decisão atual só suspende a obrigatoriedade de executar obras e serviços, não o cálculo da justa remuneração, o fluxo de caixa marginal e o desconto de reequilíbrio, que não são sanção. Refaz os cálculos considerando a não execução, suprime o art. 3º da minuta e restabelece efeitos tarifários de 2018 a 2019. Efeitos (legenda): 10ª ordinária -0,06%; 13ª extraordinária -5,41%; desconto de reequilíbrio 14,8252%; reajuste 3,92%; tarifas P1/P2 de R$ 2,90 para 2,40 e P3 a P7 de R$ 5,10 para 4,30. Pedido de anulação de penalidades vai a autos apartados.",
+   "votos": [
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "relator original (voto 041 apresentado na RD 909); vencido",
+     "ts": "0:06:35",
+     "justificativa": "conteúdo do voto original não detalhado nesta sessão",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "voto-vista: diverge do relator e redefine cálculo; aprova",
+     "ts": "0:08:00",
+     "justificativa": "decisão judicial atual não impede mecanismos de equilíbrio nem o cálculo da remuneração; exceção do contrato não cumprido; consistente com a Res. 5.926",
+     "tom": "firme/técnico",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "não vota (ocupa a vaga do relator original); elogia o voto-vista",
+     "ts": "0:17:55",
+     "justificativa": "cumprimenta Davi por voto «bem esclarecedor» com aspectos conceituais de grande relevância",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fábio Rogério",
+     "voto": "acompanha o voto-vista",
+     "ts": "0:18:05",
+     "justificativa": "há distinção entre suspender penalidades/obrigações e aplicar os mecanismos de equilíbrio econômico-financeiro; efeitos tarifários apenas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "acompanha o voto-vista",
+     "ts": "0:18:45",
+     "justificativa": "não confundir equilíbrio econômico-financeiro com inadimplemento; parabeniza o voto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o voto-vista",
+     "ts": "0:19:20",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1.2",
+   "ts": "0:19:31",
+   "processo": "50501.343686/2018-91 (legenda; incerto)",
+   "interessado": "Consórcio Intermunicipal de Mobilidade Urbana (CIM) — Timon (MA)–Teresina (PI)",
+   "assunto": "Minuta de edital / plano geral de outorgas do serviço interestadual semiurbano Timon–Teresina, para aprovação pelo Ministério da Infraestrutura antes de audiência pública prévia à licitação",
+   "tema": [
+    "ônibus (semiurbano)",
+    "regulação normativa",
+    "participação social"
+   ],
+   "relator": "Fábio Rogério",
+   "resultado": "pedido de vista de Davi Barreto (concedido)",
+   "resumo_voto": "Fábio Rogério explica o regime sui generis: permissão (Lei 8.987), convênio de delegação ANTT–consórcio, PGO analisado pela ANTT e depois pelo Minfra; Parecer 908/2018 da Procuradoria define o rito. A ANTT não aprova o edital agora; só submete o PGO ao Minfra (que decide sobre PPI e TCU) e, já aprovado, autoriza abrir audiência pública, por economia processual. Davi Barreto, depois de elogiar a clareza do voto, pede vista por dúvidas: possibilidade de critério de menor preço frente à lei específica da agência (Lei 10.233), contas de compensação (detalhamento das contas vinculadas) e memórias de cálculo.",
+   "votos": [
+    {
+     "diretor": "Fábio Rogério",
+     "voto": "relator, aprova submissão do PGO ao Minfra e autoriza AP depois",
+     "ts": "0:20:00",
+     "justificativa": "regime de permissão e convênio de delegação; economia processual",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "pede vista",
+     "ts": "0:30:09",
+     "justificativa": "dúvidas sobre critério de menor preço, contas de compensação e memórias de cálculo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "aceita aguardar o voto-vista",
+     "ts": "0:30:31",
+     "justificativa": "simplificação e celeridade processual, mas contribuições de Davi serão úteis",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "aceita aguardar o voto-vista",
+     "ts": "0:30:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "concede a vista",
+     "ts": "0:30:45",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática; rótulo de falante do .md incorreto (presidente da sessão é Rafael Vitale).",
+  "Item 1.1: números de processo e percentuais da legenda podem estar errados; o voto do relator original (Marra) não foi detalhado, só sabemos que Davi o divergiu; resultado dito «por maioria» pelo presidente embora todos os votantes presentes acompanhem o voto-vista.",
+  "Item 1.2: processo parcial; no pedido de vista os votos de Alexandre Porto e do presidente são inferidos da fala final.",
+  "Reservados: sem conteúdo."
+ ]
+}

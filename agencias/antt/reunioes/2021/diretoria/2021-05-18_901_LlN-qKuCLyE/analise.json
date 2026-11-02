@@ -1,0 +1,95 @@
+{
+  "meta": {"video_id": "LlN-qKuCLyE", "fonte": "legenda automática do YouTube (sem falantes inferidos); ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "901", "data": "2021-05-18", "formato": "videoconferência (Lei 13.979, pandemia)",
+    "presidente_da_sessao": "não identificado na legenda (provável Alexandre Porto; baixa confiança)",
+    "diretores_presentes": ["Davi Barreto", "Eduardo Marra (grafia incerta)", "Moacir Menezes (grafia incerta)", "presidente da sessão (não nomeado)"],
+    "ausentes": [],
+    "observacoes": ["Encerrada às 15h. Cinco itens deliberados, todos por unanimidade, sem divergência registrada.", "Ata da RD 900 aprovada.", "No item 2.4.1 o presidente da sessão elogiou a diligência do relator e das áreas técnicas pela rapidez na análise da carta da Rumo Malha Oeste."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:50",
+      "assunto": "Aprovação da ata da reunião anterior (RD 900)",
+      "tema": ["institucional"], "relator": "presidente da sessão", "resultado": "aprovada",
+      "resumo_voto": "Ata distribuída com 48 horas de antecedência; leitura dispensada.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:01:05", "confianca": "media"},
+        {"diretor": "Eduardo Marra", "voto": "de acordo", "ts": "0:01:08", "confianca": "media"},
+        {"diretor": "Moacir Menezes", "voto": "de acordo", "ts": "0:01:10", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.1.1", "ts": "0:01:19",
+      "processo": "50500.429595/2019-37 (número parcial na legenda)", "interessado": "MS Via (concessionária da BR-163/MS, edital 5/2013)",
+      "assunto": "Primeiro termo aditivo ao contrato de concessão (edital 5/2013) para obrigações da relicitação do trecho da BR-163/MS, conforme qualificação pelo Decreto 10.647/2021 (prazo de 90 dias sob pena de perda da eficácia da qualificação)",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "relicitação"],
+      "relator": "presidente da sessão (relatoria própria)", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprova a minuta final do termo aditivo e anexos (programa de exploração da rodovia e transição operacional), com prazo até 10/06/2021 para assinatura; vencido o prazo, a SUROD adota providências para propor a desqualificação no PPI; PGF (parecer 127) concluiu pela juridicidade.",
+      "votos": [
+        {"diretor": "Presidente da sessão (Alexandre Porto, inferido)", "voto": "relator, aprova", "ts": "0:01:35", "justificativa": "cumprimento das diretrizes da Res. 5.926 e do Decreto 9.957/2019; manifestações técnicas e jurídicas favoráveis", "confianca": "baixa"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:05:00", "confianca": "media"},
+        {"diretor": "Eduardo Marra", "voto": "de acordo", "ts": "0:05:03", "confianca": "media"},
+        {"diretor": "Moacir Menezes", "voto": "de acordo", "ts": "0:05:06", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.2.1", "ts": "0:05:21",
+      "processo": "50500.071582/2017 (número parcial)", "interessado": "SUROD / SUINF (concessões rodoviárias)",
+      "assunto": "Relatório final da Audiência Pública 7/2020 e minuta de resolução que altera regras de recomposição do equilíbrio contratual na inclusão de novos investimentos (art. 2º da Res. 3.651/2011) e fixa normas sobre transações com partes relacionadas nas concessões rodoviárias",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "regulação normativa", "participação social", "governança / partes relacionadas"],
+      "relator": "Davi Barreto", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Permite diferentes formas de recomposição (antecipação, parcelamento) conforme materialidade do investimento e histórico de desempenho, com salvaguardas (desconto de reequilíbrio, redução tarifária, multa moratória, renúncia a período de cura para caducidade); estende às demais concessões a regra de partes relacionadas já usada desde a 4ª etapa; alinha-se ao programa de modernização de rodovias (Portaria MInfra 512). Incorporou ajustes pontuais e sugestões da ABCR.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "relator, aprova relatório e resolução", "ts": "0:05:40", "justificativa": "caso Autopista Litoral Sul (trecho Florianópolis) mostrou a necessidade de regra mais precisa; acórdão do TCU admitiu o aumento tarifário antes da conclusão da obra; salvaguardas ao cumprimento das obrigações", "confianca": "alta"},
+        {"diretor": "Eduardo Marra", "voto": "de acordo", "ts": "0:10:30", "confianca": "media"},
+        {"diretor": "Moacir Menezes", "voto": "de acordo", "ts": "0:10:33", "confianca": "media"},
+        {"diretor": "Presidente da sessão (Alexandre Porto, inferido)", "voto": "de acordo", "ts": "0:10:36", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2.3.1", "ts": "0:10:44",
+      "processo": "50500.038499/2021-06 (número parcial)", "interessado": "SUPAS - operadoras do transporte interestadual semiurbano",
+      "assunto": "Flexibilização de prazos para envio de informações financeiras (Res. 3.524/2010) e comprovação de regularidade tributária, trabalhista e previdenciária (Res. 5.832/2018) pelas operadoras do transporte semiurbano, postergados para 06/08/2021 (a legenda diz 2020, provável erro)",
+      "tema": ["ônibus (semiurbano)", "pandemia", "regulação normativa"],
+      "relator": "Eduardo Marra", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Os motivos das prorrogações de 2020 (pandemia) persistem em 2021; matéria idêntica já passou pela PGF com parecer favorável; medidas de flexibilização tratadas como urgentes.",
+      "votos": [
+        {"diretor": "Eduardo Marra", "voto": "relator, aprova postergação", "ts": "0:10:50", "justificativa": "impactos da pandemia; justificativa técnica e social; precedente jurídico favorável", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:14:15", "confianca": "media"},
+        {"diretor": "Moacir Menezes", "voto": "de acordo", "ts": "0:14:18", "confianca": "media"},
+        {"diretor": "Presidente da sessão (Alexandre Porto, inferido)", "voto": "de acordo", "ts": "0:14:21", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2.4.1", "ts": "0:14:33",
+      "processo": "50500.072265/2020-07 (número parcial)", "interessado": "Rumo Malha Oeste S.A.",
+      "assunto": "Segundo termo aditivo ao contrato de concessão da Malha Oeste para obrigações da relicitação, conforme qualificação (Decreto 10.633, de fevereiro de 2021)",
+      "tema": ["ferrovias", "leilão / otimização", "relicitação"],
+      "relator": "Moacir Menezes", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Versão final do termo aditivo após ajustes decorrentes de carta da concessionária (03/05/2021), com concordância da PGF; cumpre o fluxo para continuidade da relicitação.",
+      "votos": [
+        {"diretor": "Moacir Menezes", "voto": "relator, aprova", "ts": "0:14:40", "confianca": "alta"},
+        {"diretor": "Presidente da sessão (Alexandre Porto, inferido)", "voto": "elogia a diligência do relator, da área técnica e da PGF e acompanha", "ts": "0:17:42", "justificativa": "análise célere da carta da concessionária", "tom": "elogioso", "confianca": "baixa"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:18:00", "confianca": "media"},
+        {"diretor": "Eduardo Marra", "voto": "de acordo", "ts": "0:18:03", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.4.2", "ts": "0:18:24",
+      "processo": "50500.034572/2021-62 (número parcial)", "interessado": "Rumo Malha Central (Ferrovia Norte-Sul, trecho sul)",
+      "assunto": "Abertura ao tráfego ferroviário público de cargas, em regime de comissionamento, do trecho entre Pátio de São Simão e Santa Helena (GO), extremo sul da FNS",
+      "tema": ["ferrovias", "fiscalização e sanções"],
+      "relator": "Moacir Menezes", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Fiscalização remota (pandemia) concluiu pela possibilidade de início do tráfego em regime de comissionamento, observadas as restrições operacionais até condições de operação normal.",
+      "votos": [
+        {"diretor": "Moacir Menezes", "voto": "relator, autoriza", "ts": "0:18:30", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:20:30", "confianca": "media"},
+        {"diretor": "Eduardo Marra", "voto": "de acordo", "ts": "0:20:33", "confianca": "media"},
+        {"diretor": "Presidente da sessão (Alexandre Porto, inferido)", "voto": "de acordo", "ts": "0:20:36", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda sem separação de falantes e com muitos erros; nomes dos diretores (Eduardo Marra, Moacir Menezes) e a identidade do presidente da sessão (relator do 2.1.1) são inferidos; confirmar na ata/DOU.", "Os votos de acompanhamento têm ts aproximados (o procedimento de votação foi lido em sequência).", "Números de processo parciais; datas e valores podem conter erros da legenda (ex.: ano 2020 em vez de 2021 no item 2.3.1)."]
+}

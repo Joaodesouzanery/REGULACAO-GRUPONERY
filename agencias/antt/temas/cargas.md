@@ -1,5 +1,57 @@
 # Itens do tema «cargas» (todos os diretores)
 
+- **RD 885 (2021-01-18)**, 2.2.1 · relator **Eduardo Marra** · Proposta de acordo de cooperação técnica ANTT–OCB para apoio ao cadastro de transportadores no RNTRC (cargas) e sistemas de passageiros (integração de → vista (pedido de vista por Davi Barreto; ver RD 895)
+  - votos: Eduardo: relator; Davi: vista · [vídeo](https://www.youtube.com/watch?v=KFIPj15oozg&t=353s)
+- **RD 885 (2021-01-18)**, 2.2.2 · relator **Eduardo Marra** · Atualização do anexo 2 da Resolução 5.867/2020 (coeficientes do piso mínimo do frete por quilômetro rodado/eixo carregado, PNPM-TRC): reajuste pelo IP → aprovado por unanimidade
+  - votos: Eduardo: relator; Weber: acompanha; Davi: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=KFIPj15oozg&t=503s)
+- **RD 895 (2021-04-06)**, 2.2.1 · relator **Eduardo Marra** · Acordo de cooperação técnica para apoio ao cadastro RNTRC (voto-vista de Davi Barreto; relator Eduardo Marra; item visto na RD 885) → aprovado por unanimidade, com o voto-vista
+  - votos: Davi: revisor_acompanha; Eduardo: revisor_acompanha; Menezes: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ZqU-qL1jNnk&t=686s)
+- **RD 895 (2021-04-06)**, 2.3.1 · relator **Eduardo Marra** · Acordo de cooperação técnica CNTA–ANTT para apoio à inscrição e manutenção do cadastro RNTRC; sustentação oral de Edson Araújo da Silva pedindo retira → aprovado por unanimidade
+  - votos: Eduardo: relator; Davi: acompanha; Menezes: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ZqU-qL1jNnk&t=1211s)
+- **RD 896 (2021-04-13)**, 2.2.1 · relator **Davi Barreto** · Medidas de enfrentamento da covid-19: ampliar a todo o país as flexibilizações para o transporte de oxigênio hospitalar (alteração da Res. 5.922/2021) → aprovado por unanimidade
+  - votos: Davi: relator; Eduardo: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=NjSTSz_qmS0&t=1224s)
+- **RD 896 (2021-04-13)**, 3.1 · relator **Weber Ciloni** · Despacho de cancelamento de distribuição: processo (Lei 13.103/2015) que ficou com abstenção na 39ª reunião deliberativa eletrônica (29/03 a 01/04/202 → retirado de pauta até o retorno do relator (aprovado por unanimidade)
+  - votos: Davi: outro; Eduardo: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=NjSTSz_qmS0&t=2782s)
+- **RD 907 (2021-06-29)**, 2.3.1 · relator **Menezes (nome incerto)** · Audiência Pública 8/2020: relatório final e minuta de resolução sobre inscrição e manutenção no RNTRC → retirado de pauta pelo relator (aprovada a retirada por unanimidade)
+  - votos: Menezes: relator; Davi: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=blOL4WURQD0&t=472s)
+- **RD 909 (2021-07-13)**, 2.2.2 · relator **Eduardo Marra** · Alteração do anexo 2 da Res. 5.867/2020: reajuste dos coeficientes do piso mínimo do frete pelo IPCA acumulado e atualização do preço do diesel S-10 → aprovado por unanimidade
+  - votos: Eduardo: relator; Davi: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=oBi-J784BDA&t=2273s)
+- **RD 914 (2021-08-24)**, 2.1.1 · relator **Davi Barreto** · Instrução normativa com diretrizes para elaboração do plano anual de fiscalização da SUFIS e das coordenações de fiscalização; voto complementar do re → aprovado (a legenda diz «por maioria»; sem divergência registrada)
+  - votos: Davi: relator; Alexandre: acompanha; Fábio: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=vO71AMKlMQ0&t=150s)
+- **RD 917 (2021-09-22)**, 2.4.1 · relator **Fábio Rogério** · Atualização do manual de procedimentos de fiscalização do transporte rodoviário internacional de cargas → retirado de pauta por pedido do relator
+  - votos: Fábio: relator; Davi: acompanha; Guilherme: acompanha; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=OTcyf2Er7IU&t=1981s)
+- **RD 919 (2021-10-21)**, 2.1.3 · relator **Rafael Vitale** · Consulta pública para atualizar parâmetros e coeficientes dos pisos mínimos de frete (Res. 5.867/2020, alterada pela 5.949/2021), com prazo reduzido d → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=_OwMqo23vHw&t=2030s)
+- **RD 919 (2021-10-21)**, 2.2.4 · relator **Davi Barreto** · Habilitação nacional como fornecedor de vale-pedágio obrigatório e aprovação de modelos e sistemas operacionais (Res. ANTT 2.885/2008) → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=_OwMqo23vHw&t=6360s)
+- **RD 920 (2021-11-04)**, 2.1.1 · relator **Davi Barreto** · Relatório final da AP 8/2020 e minuta de resolução sobre inscrição e manutenção no RNTRC - retirado de pauta → retirado de pauta (unânime)
+  - votos: Davi: relator; Guilherme: acompanha; Fábio: acompanha; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=VZD-U2Sl7sU&t=253s)
+- **RD 920 (2021-11-04)**, 2.3.2 · relator **Fábio Rogério** · Primeira edição do Manual de Fiscalização do Transporte Rodoviário Internacional de Cargas (acordo ATIT/Tratado de Montevidéu, Decreto 99.704/1990) → aprovado por unanimidade
+  - votos: Fábio: relator; Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=VZD-U2Sl7sU&t=2545s)
+- **RD 921 (2021-11-18)**, 2.1.1 · relator **Davi Barreto** · Acordo de Cooperação Técnica entre a ANTT e as Sefaz para disponibilização de informação sobre MDF-e não encerrados de veículos de carga em rodovias c → aprovado por unanimidade
+  - votos: Davi: relator; Rafael: vista; Guilherme: revisor_acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=FNnvj8A4Zjo&t=142s)
+- **RD 922 (2021-12-02)**, 2.2.2 · relator **Davi Barreto** · Relatório final da AP 8/2020 e resolução que regulamenta a inscrição e manutenção no RNTRC (revisão da Res. 799/2015), incluindo o prazo do certificad → pedido de vista (Guilherme Sampaio); retorna na última reunião do ano
+  - votos: Davi: relator; Guilherme: vista; Fábio: outro; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=IwLYFZ4veDo&t=1483s)
+- **RD 924 (2022-01-20)**, 2.2.5 · relator **Davi Barreto** · Relatório final da Consulta Pública 1/2021 e minuta que atualiza a Res. 5.867/2020 (pisos mínimos de frete por eixo carregado) → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=q-BxgYhOb0c&t=2124s)
+- **RD 929 (2022-04-07)**, 2.2.5 · relator **Davi Barreto** · Acordo de Cooperação Técnica e plano de trabalho com a CNTA para inscrição e manutenção de transportadores no RNTRC; sustentação oral de Edson Araújo  → aprovado por unanimidade — pedido de retirada de pauta rejeitado
+  - votos: Davi: relator; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=1K0RRpACKrE&t=2238s)
+- **RD 930 (2022-04-28)**, 2.1.1 · relator **Rafael Vitale** · Abertura de audiência pública para colher subsídios à revisão da Res. 5.947/2021 (regulamento do transporte rodoviário de produtos perigosos) → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha; Luciano: acompanha · [vídeo](https://www.youtube.com/watch?v=Cz5UdpIyrK8&t=613s)
+- **RD 934 (2022-06-23)**, 2.1.3 · relator **Davi Barreto** · Relatório final da AP 8/2020 e resolução sobre inscrição e manutenção do RNTRC; voto-vista de Guilherme Sampaio (DGS 001) ao voto DDD 108 de Davi Barr → aprovado por unanimidade nos termos do voto-vista
+  - votos: Davi: revisor_acompanha; Guilherme: revisor_acompanha; Luciano: revisor_acompanha; Rafael: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=1eQGIHBQi-4&t=414s)
+- **RD 936 (2022-07-19)**, 2.2.1 · relator **Luciano Lourenço** · Alteração da Res. 5.867/2020: atualização dos coeficientes dos pisos mínimos de frete por quilômetro rodado por eixo (IPCA e diesel S10), com publicaç → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=mFXFTFnE6_M&t=387s)
+- **RD 942 (2022-10-20)**, 2.2.2 · relator **Davi Barreto** · Processo administrativo ordinário por infrações da legislação de transporte rodoviário de cargas (evasão à fiscalização), instaurado após decisão judi → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=6v_1vNFnIH0&t=911s)
+- **RD 942 (2022-10-20)**, 2.3.1 · relator **Guilherme Sampaio** · Audiência pública (45 dias) sobre a revisão do anexo 2 da Res. 5.867/2020 (coeficientes dos pisos mínimos de frete por eixo carregado), com dispensa d → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=6v_1vNFnIH0&t=1624s)
+- **RD 942 (2022-10-20)**, 2.4.1 · relator **Cristiano Della Giustina** · Internalização da Resolução GMC 28/2021 do Mercosul (ficha de emergência para transporte de produtos perigosos), com dispensa de AIR e de audiência/co → aprovado por unanimidade
+  - votos: Cristiano: relator; Davi: acompanha; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=6v_1vNFnIH0&t=1912s)
+- **RD 943 (2022-11-03)**, 2.3.2 · relator **Guilherme Sampaio** · Relatório final da Audiência Pública 3/2022 e aprovação da resolução que revisa a Res. 5.947/2021 (transporte rodoviário de produtos perigosos) → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=MamI8NVrbBs&t=3046s)
+- **RD 947 (2022-12-22)**, 2.3.1 · relator **Luciano Lourenço** · Alteração da Res. 5.862/2019 (CIOT e meios de pagamento do frete) para adequá-la à Lei 14.206/2021 (Documento Eletrônico de Transporte, DT-e) → aprovado por unanimidade
+  - votos: Luciano: relator; Davi: acompanha; Guilherme: nao_captado; Cristiano: nao_captado; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=y4r8H6490-4&t=2691s)
 - **RD 948 (2023-01-19)**, 2.2.1 · relator **Luciano Lourenço** · Abertura de audiência pública para revisão e atualização da Resolução 2.885/2008 (Vale-Pedágio obrigatório, habilitação de fornecedoras, modelos e sis → aprovado por unanimidade
   - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZX8Rm7GspUY&t=606s)
 - **RD 948 (2023-01-19)**, 2.3.3 · relator **Felipe Queiroz** · Relatório final da Audiência Pública 11/2022 e revisão do Anexo II da Resolução 5.867/2020 (regras gerais, metodologia e coeficientes dos pisos mínimo → aprovado por unanimidade

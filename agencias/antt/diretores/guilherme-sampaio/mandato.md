@@ -12,5 +12,6 @@
  "fim_tipo": "estimado: 5 anos como DG; AGU e Senado divergiram sobre o limite (AGU: fim em fev/2026; Senado: 5 anos cheios)",
  "fonte": "Agência iNFRA; Senado",
  "confianca": "baixa",
- "verificar": "DOU; posição final sobre o término"
+ "verificar": "DOU; posição final sobre o término",
+ "obs": "Nomeado diretor em jul/2021 na vaga de Marcelo Vinaud (mandato até 18/02/2026, segundo Agência iNFRA); nomeado Diretor-Geral em 29/08/2025."
 }

@@ -1,5 +1,171 @@
 # Itens do tema «ferrovias» (todos os diretores)
 
+- **RD 885 (2021-01-18)**, 2.1.1 · relator **Weber Ciloni** · Homologação do reajuste das tarifas de referência do transporte ferroviário de cargas da FCA, ≈ 30,06% (IGP-DI/FGV; legenda diz «30 e 1,06 por cento»  → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=KFIPj15oozg&t=191s)
+- **RD 887 (2021-02-02)**, 2.1.1 · relator **Weber Ciloni** · Homologação do reajuste das tarifas de referência do transporte ferroviário de cargas da MRS, período 1/12/2019 a 30/11/2020, pela variação do IGP-M/F → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=hOUJ7tu8IOM&t=142s)
+- **RD 888 (2021-02-09)**, 2.3.1 · relator **Alexandre Porto** · Pedido de reconsideração contra a Deliberação 523/2020, que deu provimento parcial a 2 das 12 reclamações de vícios ocultos na malha ferroviária (FNS, → aprovado por unanimidade — nega provimento
+  - votos: Alexandre: relator; Weber: acompanha; Eduardo: acompanha; Davi: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=VsOaNcaVs4Y&t=687s)
+- **RD 889 (2021-02-23)**, 2.1.2 · relator **Weber Ciloni** · Reajuste das tarifas de referência do transporte ferroviário de cargas, período 1/1/2020 a 31/12/2020, variação do IGP-DI/FGV (23,07% segundo a legend → aprovado por unanimidade
+  - votos: Weber: relator; Davi: acompanha; Eduardo: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=Ry_MleO7hwU&t=456s)
+- **RD 890 (2021-03-02)**, 2.1.1 · relator **Davi Barreto** · Aprovação do relatório final da Audiência Pública 1/2020 e da resolução sobre anuência prévia em transferência de concessão/controle societário (cisão → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Eduardo: acompanha; Menezes: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=SusSGEjO_BE&t=149s)
+- **RD 890 (2021-03-02)**, 2.1.3 · relator **Davi Barreto** · Pedido de abertura ao tráfego público ferroviário de cargas em regime de comissionamento, trecho entre pátio de São Simão e início do ramal de ligação → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Eduardo: acompanha; Menezes: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=SusSGEjO_BE&t=1217s)
+- **RD 891 (2021-03-09)**, 2.5.1 · relator **Menezes (nome incerto)** · Acordo de cooperação técnica com o MBC para subsidiar tecnicamente a análise de estudos e projetos do setor ferroviário (PPI), no contexto das prorrog → aprovado por unanimidade (com recomendação de Weber Ciloni registrada em ata)
+  - votos: Menezes: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=avr7ZpONzto&t=1668s)
+- **RD 894 (2021-03-30)**, 2.4.1 · relator **Menezes (nome incerto)** · Alteração da Res. 5.857/2019: prorrogação até 30/06/2021 do prazo de comprovação da regularidade fiscal das concessionárias de rodovias e ferrovias → aprovado por unanimidade
+  - votos: Menezes: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ZrX6XBJsIXo&t=2260s)
+- **RD 896 (2021-04-13)**, 2.3.1 · relator **Eduardo Marra** · Reajuste da tarifa de direito de passagem do 2º termo aditivo (acesso ao Porto de Santos, Perequê–Conceiçãozinha e Perequê–Valongo): 40,31% (IGP-DI) p → aprovado por unanimidade — homologação
+  - votos: Eduardo: relator; Davi: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=NjSTSz_qmS0&t=1406s)
+- **RD 899 (2021-05-04)**, 2.3.1 · relator **Davi Barreto** · Audiência Pública 6/2020: relatório final e resolução que regulamenta (art. 30, parágrafo único, Lei 8.987/1995) as comissões tripartites (ANTT, usuár → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=kU4TfhacKO0&t=1426s)
+- **RD 901 (2021-05-18)**, 2.4.1 · relator **Menezes (nome incerto)** · Segundo termo aditivo ao contrato de concessão da Malha Oeste para obrigações da relicitação, conforme qualificação (Decreto 10.633, de fevereiro de 2 → aprovado por unanimidade
+  - votos: Menezes: relator; Alexandre: acompanha; Davi: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=LlN-qKuCLyE&t=873s)
+- **RD 901 (2021-05-18)**, 2.4.2 · relator **Menezes (nome incerto)** · Abertura ao tráfego ferroviário público de cargas, em regime de comissionamento, do trecho entre Pátio de São Simão e Santa Helena (GO), extremo sul d → aprovado por unanimidade
+  - votos: Menezes: relator; Davi: acompanha; Eduardo: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=LlN-qKuCLyE&t=1104s)
+- **RD 902 (2021-05-25)**, 2.1.2 · relator **Alexandre Porto** · Abertura de audiência pública sobre a revisão das normas (Res. 2.695) de autorização de obras pelas concessionárias na malha ferroviária concedida → aprovado por unanimidade
+  - votos: Alexandre: relator; Davi: acompanha; Eduardo: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=PsO2Rk6k2Cc&t=424s)
+- **RD 902 (2021-05-25)**, 2.2.1 · relator **Davi Barreto** · Homologação do resultado do leilão (Edital 1/2020) da subconcessão da FIOL, EF-334, Ilhéus–Caetité (BA), e prorrogação de prazo para obrigações prévia → aprovado por unanimidade
+  - votos: Davi: relator; Eduardo: acompanha; Menezes: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=PsO2Rk6k2Cc&t=702s)
+- **RD 903 (2021-06-01)**, 2.1.1 · relator **None** · Revisão e adequação dos atos referentes aos temas 5 e 6 (transporte ferroviário de cargas; fiscalização de transporte rodoviário de cargas e passageir → aprovado por unanimidade
+  - votos: Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=9h87ZNIUz8s&t=161s)
+- **RD 905 (2021-06-15)**, 2.1.1 · relator **Menezes (nome incerto)** · Abertura de audiência pública (45 dias) sobre proposta de regulamentação das operações acessórias no transporte ferroviário de cargas (agenda regulató → aprovado por unanimidade
+  - votos: Menezes: relator; Eduardo: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=aFnFR7eFh6o&t=82s)
+- **RD 907 (2021-06-29)**, 2.2.1 · relator **Eduardo Marra** · Reajuste das tarifas de referência de frete ferroviário da FTL (períodos 2015 a nov/2020) e do direito de passagem na malha Central (jan/2017 a nov/20 → aprovado por unanimidade — homologação da nova tabela tarifária
+  - votos: Eduardo: relator; Davi: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=blOL4WURQD0&t=235s)
+- **RD 908 (2021-07-06)**, extrapauta · relator **Alexandre Porto** · Extrapauta: 3º termo aditivo ao contrato de concessão para extinguir o contrato de arrendamento 47/98 (Lei 13.448 e Decreto 10.161) e termo de cessão  → aprovado por unanimidade (inclusão extrapauta também unânime)
+  - votos: Alexandre: relator; Davi: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=Mtl4FThOTr8&t=446s)
+- **RD 909 (2021-07-13)**, 2.1.2 · relator **Alexandre Porto** · Formalização do distrato dos termos de compromisso de 2006 e seus correspondentes aditivos, tornados sem sentido após a prorrogação antecipada → aprovado por unanimidade
+  - votos: Alexandre: relator; Davi: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=oBi-J784BDA&t=739s)
+- **RD 909 (2021-07-13)**, 2.2.3 · relator **Eduardo Marra** · Validação das alterações de traçado/variantes e do orçamento do empreendimento da Ferrovia Transnordestina para fins regulatórios (acórdão 6.667/2017- → aprovado por unanimidade
+  - votos: Eduardo: relator; Alexandre: outro; Davi: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=oBi-J784BDA&t=2509s)
+- **RD 911 (2021-08-03)**, 1.2 · relator **Davi Barreto** · Primeira revisão ordinária do valor de outorga do contrato de subconcessão (período 31/07/2019 a 30/07/2020) → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Fábio: acompanha; Alexandre: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=aMM9bZSp6XI&t=1039s)
+- **RD 911 (2021-08-03)**, 1.4 · relator **Alexandre Porto** · Segundo termo aditivo ao contrato de subconcessão e primeira revisão extraordinária: transferência à Rumo do plantio compensatório / compensação ambie → aprovado por unanimidade (Fábio Rogério declarou depois impedimento e pediu que seu voto f
+  - votos: Alexandre: relator; Guilherme: acompanha; Davi: acompanha; Fábio: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=aMM9bZSp6XI&t=1499s)
+- **RD 913 (2021-08-17)**, 2.2.1 · relator **Davi Barreto** · Pedido de revisão da meta anual de produção por trecho (2022); questão preliminar do relator: regularidade do sorteio público de 05/08/2021 para a dis → preliminar aprovada por unanimidade: cancelada a distribuição dos 3 processos e refaziment
+  - votos: Davi: relator; Guilherme: acompanha; Fábio: acompanha; Alexandre: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=M3Oooch06TQ&t=373s)
+- **RD 913 (2021-08-17)**, 2.2.2 · relator **Davi Barreto** · Pagamento do valor de outorga fixa à Valec e contratação de seguros relacionados à subconcessão do trecho da EF-334 (FIOL), Ilhéus/BA–Caetité/BA (Edit → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Fábio: acompanha; Alexandre: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=M3Oooch06TQ&t=656s)
+- **RD 914 (2021-08-24)**, 2.4.1 · relator **Guilherme Sampaio** · Alteração da Resolução 5.920/2020 (transporte ferroviário de cargas por operadora ferroviária independente, OFI): correções de inconsistências materia → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=vO71AMKlMQ0&t=1451s)
+- **RD 915 (2021-08-31)**, 2.1.1 · relator **Guilherme Sampaio** · Emissão do ato de outorga e autorização do contrato de subconcessão da Ferrovia de Integração Oeste-Leste (EF-334), trecho Ilhéus–Caetité (BA) → aprovado por unanimidade
+  - votos: Guilherme: relator; Fábio: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=MjnHHA-UHiw&t=587s)
+- **RD 915 (2021-08-31)**, 2.2.2 · relator **Fábio Rogério** · Prorrogação do prazo de contribuições escritas da Audiência Pública 5/2021 (operações acessórias no transporte ferroviário de cargas): 45 dias, até 18 → aprovado por unanimidade
+  - votos: Fábio: relator; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=MjnHHA-UHiw&t=2056s)
+- **RD 917 (2021-09-22)**, 2.4.3 · relator **Fábio Rogério** · Parâmetros de fiscalização dos investimentos na implantação da infraestrutura e superestrutura da Ferrovia de Integração Centro-Oeste (FICO, EF-354),  → aprovado por unanimidade
+  - votos: Fábio: relator; Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=OTcyf2Er7IU&t=2313s)
+- **RD 919 (2021-10-21)**, 2.1.2 · relator **Rafael Vitale** · Declaração de compatibilidade locacional (MP 1.065/2021 e Portaria MInfra 131/2021) de quatro requerimentos de autorização ferroviária: VLI Multimodal → vista concedida a Guilherme Sampaio
+  - votos: Rafael: relator; Guilherme: vista; Davi: outro · [vídeo](https://www.youtube.com/watch?v=_OwMqo23vHw&t=480s)
+- **RD 919 (2021-10-21)**, 2.2.3 · relator **Davi Barreto** · Interveniência da ANTT em contratos de adesão de autorizações ferroviárias (modelo de minuta de contrato padrão) → vista concedida a Guilherme Sampaio
+  - votos: Davi: relator; Guilherme: vista; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=_OwMqo23vHw&t=6011s)
+- **RD 919 (2021-10-21)**, 2.3.4 · relator **Guilherme Sampaio** · Aprovação do relatório da Audiência Pública 7/2019 sobre estudos para prorrogação antecipada do contrato (30 anos), incluindo integração com ferrovia  → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=_OwMqo23vHw&t=6923s)
+- **RD 921 (2021-11-18)**, 2.1.3 a 2.1.7 · relator **Rafael Vitale** · Cinco declarações de compatibilidade locacional de pedidos de autorização ferroviária (MP 1.065/2021, Portaria MInfra 13/2021): (2.1.3) Presidente Ken → aprovados por unanimidade (votação conjunta)
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=FNnvj8A4Zjo&t=692s)
+- **RD 921 (2021-11-18)**, 2.3.4 · relator **Davi Barreto** · Minuta de contrato de adesão para exploração indireta de serviço de transporte ferroviário por autorização, com a ANTT como interveniente → aprovado por unanimidade nos termos do relator
+  - votos: Davi: relator; Guilherme: revisor_acompanha; Fábio: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=FNnvj8A4Zjo&t=8426s)
+- **RD 922 (2021-12-02)**, 2.1.3 a 2.1.6 · relator **Rafael Vitale** · Compatibilidade locacional (MP 1.065/2021; Portaria MInfra 131/2021) de quatro pedidos de autorização ferroviária: Ferroeste Maracaju–Dourados (MS, 17 → aprovado por unanimidade (em bloco)
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=IwLYFZ4veDo&t=707s)
+- **RD 922 (2021-12-02)**, 2.2.1 · relator **Davi Barreto** · Relatório final da AP 4/2021 e resolução sobre procedimentos para as concessionárias obterem autorização para executar projetos em áreas de concessão  → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Fábio: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=IwLYFZ4veDo&t=1196s)
+- **RD 68ª reunião extraordinária (2021-12-08)**, 1.1.1 · relator **Rafael Vitale** · Voto-vista: declaração de compatibilidade locacional de 4 requerimentos de autorização ferroviária (Água Boa–Lucas do Rio Verde MT; Uberlândia–Chavesl → aprovado por unanimidade nos termos do voto-vista
+  - votos: Guilherme: revisor_acompanha; Davi: revisor_acompanha; Fábio: revisor_acompanha; Rafael: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=7dl5V2BurH8&t=194s)
+- **RD 68ª reunião extraordinária (2021-12-08)**, 1.2.1 e 1.2.2 · relator **Rafael Vitale** · Compatibilidade locacional das ferrovias Uberlândia–Chaveslândia (MG; ≈ 276,5 km) e Água Boa–Lucas do Rio Verde (MT; ≈ 508 km), autorização por 99 ano → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=7dl5V2BurH8&t=556s)
+- **RD 68ª reunião extraordinária (2021-12-08)**, 1.2.3 e 1.2.4 · relator **Rafael Vitale** · Compatibilidade locacional de dois requerimentos de autorização ferroviária; 99 anos → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=7dl5V2BurH8&t=918s)
+- **RD 923 (2021-12-16)**, 2.1.5 · relator **Rafael Vitale** · Aprovação do projeto executivo dos 30 km iniciais da Ferrovia de Integração do Centro-Oeste (FICO/EF-354), obrigação do 3º termo aditivo da prorrogaçã → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=MNr3gvJ5hlQ&t=2022s)
+- **RD 923 (2021-12-16)**, 2.1.6–2.1.9 · relator **Rafael Vitale** · Quatro declarações de compatibilidade locacional de ferrovias requeridas por autorização (Ipatinga/MG–São Mateus/ES 410 km; Três Lagoas–Aparecida do T → aprovados por unanimidade (4 processos)
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=MNr3gvJ5hlQ&t=2195s)
+- **RD 923 (2021-12-16)**, 2.2.3 · relator **Davi Barreto** · Autorização para contrato de mútuo de R$ 100 milhões, prazo de 24 meses, com a controladora VLI Multimodal → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Fábio: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=MNr3gvJ5hlQ&t=3139s)
+- **RD 923 (2021-12-16)**, 2.4.2 · relator **Fábio Rogério** · Republicação e atualização das tabelas tarifárias da revisão tarifária da CP 1/2011 e revogação expressa de resoluções e deliberações correlatas → aprovado por unanimidade
+  - votos: Fábio: relator; Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=MNr3gvJ5hlQ&t=4060s)
+- **RD 923 (2021-12-16)**, 2.4.3 · relator **Fábio Rogério** · Metodologia para levantamento detalhado das bases de ativos e passivos e apuração de empreendimentos de materialidade relevante (cláusula 7ª do 3º ter → aprovado por unanimidade
+  - votos: Fábio: relator; Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=MNr3gvJ5hlQ&t=4372s)
+- **RD 923 (2021-12-16)**, 2.4.4 · relator **Fábio Rogério** · Declaração de utilidade pública de duas áreas em Catiguá/SP para implantação de viaduto rodoviário sobre a ferrovia (km 152+070, Araraquara–Marco Inic → aprovado por unanimidade
+  - votos: Fábio: relator; Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=MNr3gvJ5hlQ&t=4908s)
+- **RD 924 (2022-01-20)**, 2.1.4 a 2.1.8 · relator **Rafael Vitale** · Compatibilidade locacional de cinco requerimentos de autorização ferroviária (Cubatão–Santos; Bom Jesus do Araguaia–Água Boa; Ribeirão Cascalheira–Fig → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=q-BxgYhOb0c&t=566s)
+- **RD 924 (2022-01-20)**, extra · relator **Rafael Vitale** · Extrapauta: compatibilidade locacional de oito requerimentos de autorização ferroviária (ex.: Figueirópolis–Barreiras; Três Lagoas; Unaí–Campos Verdes → aprovado por unanimidade — inclusão extrapauta e compatibilidade declarada
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=q-BxgYhOb0c&t=3776s)
+- **RD 925 (2022-02-03)**, 2.1.1 · relator **Rafael Vitale** · Compatibilidade locacional: estrada de ferro entre Marabá/PA e Parauapebas/PA (99 anos, 61 km) → aprovado por unanimidade (julgado em bloco com os demais itens de compatibilidade locacion
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=pKYkK69QnQE&t=66s)
+- **RD 925 (2022-02-03)**, 2.1.2 · relator **Rafael Vitale** · Compatibilidade locacional: ferrovia entre Lucas do Rio Verde/MT e Sinop/MT (99 anos, cerca de 146,7 km) → aprovado por unanimidade (julgado em bloco com os demais itens de compatibilidade locacion
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=pKYkK69QnQE&t=66s)
+- **RD 925 (2022-02-03)**, 2.1.3 · relator **Rafael Vitale** · Compatibilidade locacional: ferrovia entre Nova Mutum/MT e Campo Novo dos Parecis/MT (99 anos, 230 km) → aprovado por unanimidade (julgado em bloco com os demais itens de compatibilidade locacion
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=pKYkK69QnQE&t=66s)
+- **RD 925 (2022-02-03)**, 2.1.4 · relator **Rafael Vitale** · Compatibilidade locacional: ferrovia entre Lucas do Rio Verde/MT e Sinop/MT (99 anos, cerca de 153 km) → aprovado por unanimidade (julgado em bloco com os demais itens de compatibilidade locacion
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=pKYkK69QnQE&t=66s)
+- **RD 925 (2022-02-03)**, extrapauta E1 · relator **Rafael Vitale** · Extrapauta — compatibilidade locacional de autorização ferroviária: Unaí/MG–Pirapora/MG (302 km) → aprovado por unanimidade (bloco extrapauta, inclusão aprovada por Davi Barreto e Guilherme
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=pKYkK69QnQE&t=1868s)
+- **RD 925 (2022-02-03)**, extrapauta E2 · relator **Rafael Vitale** · Extrapauta — compatibilidade locacional de autorização ferroviária: Varginha/MG–Andrelândia/MG (143 km) → aprovado por unanimidade (bloco extrapauta, inclusão aprovada por Davi Barreto e Guilherme
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=pKYkK69QnQE&t=1868s)
+- **RD 925 (2022-02-03)**, extrapauta E3 · relator **Rafael Vitale** · Extrapauta — compatibilidade locacional de autorização ferroviária: Curionópolis/PA (17 km) → aprovado por unanimidade (bloco extrapauta, inclusão aprovada por Davi Barreto e Guilherme
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=pKYkK69QnQE&t=1868s)
+- **RD 925 (2022-02-03)**, extrapauta E4 · relator **Rafael Vitale** · Extrapauta — compatibilidade locacional de autorização ferroviária: Corumbá de Goiás/GO–Anápolis/GO (52 km) → aprovado por unanimidade (bloco extrapauta, inclusão aprovada por Davi Barreto e Guilherme
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=pKYkK69QnQE&t=1868s)
+- **RD 925 (2022-02-03)**, extrapauta E5 · relator **Rafael Vitale** · Extrapauta — compatibilidade locacional de autorização ferroviária: Caravelas/BA–Araçuaí/MG, com ramal até Teixeira de Freitas/BA e Mucuri/BA (cerca d → aprovado por unanimidade (bloco extrapauta, inclusão aprovada por Davi Barreto e Guilherme
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=pKYkK69QnQE&t=1868s)
+- **RD 927 (2022-03-10)**, 2.2.5 · relator **Davi Barreto** · Resolução para aplicar as instruções complementares do regulamento de produtos perigosos ao transporte ferroviário, com dispensa de AIR e de audiência → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=vD2mixuNuv8&t=2997s)
+- **RD 928 (2022-03-21)**, 2.2.2 · relator **Guilherme Sampaio** · Proposta de alteração da Resolução ANTT sobre pactuação de metas de produção e segurança nas concessões ferroviárias (dispensa para contratos com inve → aprovado por unanimidade, nos termos do voto do revisor
+  - votos: Davi: revisor_acompanha; Guilherme: revisor_acompanha; Rafael: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=UyiMgSyX3iI&t=1167s)
+- **RD 929 (2022-04-07)**, 2.1.2 · relator **Rafael Vitale** · Recurso contra a decisão da SUFER de 20/01/2022 que negou medida cautelar em pedido de arbitramento sobre a tarifa de direito de passagem no Porto de  → aprovado por unanimidade — recurso conhecido e desprovido
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=1K0RRpACKrE&t=476s)
+- **RD 929 (2022-04-07)**, 2.1.5 · relator **Rafael Vitale** · Terceiro termo aditivo ao contrato de concessão para extinguir o contrato de arrendamento 72/96, com compensação de débitos por obras no perímetro urb → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=1K0RRpACKrE&t=1290s)
+- **RD 929 (2022-04-07)**, 2.2.2 · relator **Davi Barreto** · Primeiro termo aditivo ao contrato de concessão para extinguir o contrato de arrendamento 5/97 → retirado de pauta pelo relator
+  - votos: Davi: relator; Guilherme: acompanha; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=1K0RRpACKrE&t=1903s)
+- **RD 930 (2022-04-28)**, 2.2.2 · relator **Davi Barreto** · Primeiro termo aditivo ao contrato de concessão para extinguir o contrato de arrendamento nº 5/97, incorporar valores devidos ao poder concedente deco → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=Cz5UdpIyrK8&t=1680s)
+- **RD 932 (2022-05-25)**, 2.1.1 · relator **Davi Barreto** · Primeira revisão ordinária do 2º termo aditivo (valor de outorga) e 4º termo aditivo ao contrato de concessão → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=NoErqGw5nsc&t=126s)
+- **RD 932 (2022-05-25)**, 2.1.3 · relator **Davi Barreto** · Abertura de audiência pública sobre a minuta do contrato de adesão para formalização de outorgas por autorização de exploração de ferrovias (novo marc → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=NoErqGw5nsc&t=931s)
+- **RD 932 (2022-05-25)**, 2.2.1 · relator **Guilherme Sampaio** · Abertura de audiência pública (45 dias) sobre a proposta de resolução que disciplina os requerimentos de autorização para exploração de ferrovias, pát → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=NoErqGw5nsc&t=1460s)
+- **RD 935 (2022-07-07)**, 2.2.1 · relator **Guilherme Sampaio** · Declaração de utilidade pública (DUP) dos trechos da FIOL (FIOL II, Caetité-Barreiras/BA, e FIOL III, Barreiras/BA-Figueirópolis/TO) e revogação da Re → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=Ns5dptQ7XkE&t=617s)
+- **RD 935 (2022-07-07)**, 2.3.2 · relator **Luciano Lourenço** · Reedição da DUP da FIOL I (Caetité-Ilhéus/BA) → aprovado por unanimidade
+  - votos: Luciano: relator; Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=Ns5dptQ7XkE&t=1136s)
+- **RD 936 (2022-07-19)**, 2.1.1 · relator **Guilherme Sampaio** · Agenda regulatória 2021/22: alteração da norma do transporte ferroviário de produtos perigosos (primeira etapa), adaptando-a à Lei 14.273/2021 (Lei da → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=mFXFTFnE6_M&t=24s)
+- **RD 74 (extraordinária) (2022-07-27)**, 1.1.1 · relator **Davi Barreto** · Estudos técnicos e documentos jurídicos para o termo aditivo de prorrogação antecipada do contrato de concessão, e acordo extrajudicial entre ANTT, Un → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=iVR1FA_ukNc&t=75s)
+- **RD 939 (2022-09-01)**, 2.2.2 e 2.2.3 · relator **Luciano Lourenço** · Relatórios finais das Audiências Públicas 4/2022 (minuta de contrato de adesão para autorização de novas ferrovias, pátios e instalações) e 5/2022 (re → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Cristiano: acompanha · [vídeo](https://www.youtube.com/watch?v=D4UlNAV41VU&t=939s)
+- **RD 940 (2022-09-21)**, 2.2.1 · relator **Guilherme Sampaio** · Regulamentação da operação do agente transportador ferroviário de cargas (ATFC) no subsistema ferroviário federal; institui o Registro Nacional do ATF → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=_4OA6Py0z3U&t=777s)
+- **RD 76 (extraordinária) (2022-10-04)**, 1.1.1 · relator **Davi Barreto** · Termo de Ajustamento de Conduta (TAC) para mitigar riscos de concorrência ferroviária, estender prazo da concessão e cronograma de obras, renúncia a c → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=eZvF7JwAVRQ&t=800s)
+- **RD 941 (2022-10-06)**, 2.3.2 · relator **Luciano Lourenço** · Recurso/pedido de reconsideração contra a Deliberação 185/2022 (primeira revisão ordinária e acréscimo de outorga de R$ 2,5 milhões), com sustentação  → aprovado por unanimidade (recurso recebido como pedido de reconsideração; negado proviment
+  - votos: Luciano: relator; Davi: acompanha; Guilherme: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=uprQ3zi71jA&t=3978s)
+- **RD 942 (2022-10-20)**, 2.1.2 · relator **Rafael Vitale** · Referendo da Deliberação 298/2022 (aviso de requerimento da Rumo para autorização ferroviária Santa Rita do Trivelato - Sinop/MT, ≈ 250 km, 99 anos) e → referendado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha; Luciano: acompanha; Cristiano: acompanha · [vídeo](https://www.youtube.com/watch?v=6v_1vNFnIH0&t=455s)
+- **RD 942 (2022-10-20)**, 2.2.1 · relator **Davi Barreto** · Alteração da Res. 2.748/2008 (procedimentos para transporte ferroviário de produtos perigosos) e revogação da Res. 5.964/2022, com dispensa de AIR e d → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=6v_1vNFnIH0&t=624s)
+- **RD 77ª extraordinária (2022-10-25)**, 1.1.1 · relator **Luciano Lourenço** · Contrato de adesão para outorga por autorização ferroviária: Primavera do Leste - Ribeirão Cascalheira/MT (≈ 500 km, 99 anos) → aprovado por unanimidade (em bloco 1.1.1 a 1.1.3)
+  - votos: Luciano: relator; Guilherme: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=oxH5SFMhY7Y&t=115s)
+- **RD 77ª extraordinária (2022-10-25)**, 1.1.2 · relator **Luciano Lourenço** · Contrato de adesão para autorização ferroviária: Corumbá de Goiás - Anápolis/GO (≈ 68 km, 99 anos) → aprovado por unanimidade (em bloco)
+  - votos: Luciano: relator; Guilherme: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=oxH5SFMhY7Y&t=115s)
+- **RD 77ª extraordinária (2022-10-25)**, 1.1.3 · relator **Luciano Lourenço** · Contrato de adesão para autorização ferroviária: Riachão das Neves - São Desidério/BA (≈ 140 km, 99 anos) → aprovado por unanimidade (em bloco)
+  - votos: Luciano: relator; Guilherme: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=oxH5SFMhY7Y&t=115s)
+- **RD 77 (extraordinária) (2022-10-25)**, 1.1 (1.1.1 a 1.1.3) · relator **Luciano Lourenço** · Celebração de contratos de adesão para outorga por autorização ferroviária: (1.1.1) Rumo, Primavera do Leste a Ribeirão Cascalheira (MT), cerca de 500 → aprovado por unanimidade
+  - votos: Luciano: relator; Guilherme: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=FDwUZ2Tz8g8&t=241s)
+- **RD 77ª extraordinária (2022-10-25)**, 1.2.1 · relator **Cristiano Della Giustina** · Contrato de adesão para autorização ferroviária: Santa Rita do Trivelato - Sinop/MT (≈ 250 km, 99 anos) → aprovado por unanimidade (em bloco 1.2.1 e 1.2.2)
+  - votos: Cristiano: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=oxH5SFMhY7Y&t=725s)
+- **RD 77ª extraordinária (2022-10-25)**, 1.2.2 · relator **Cristiano Della Giustina** · Contrato de adesão para autorização ferroviária: Correntina - Formosa do Rio Preto (Barreiras, 'Rojolândia' na legenda)/BA (≈ 83 km, 99 anos) → aprovado por unanimidade (em bloco)
+  - votos: Cristiano: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=oxH5SFMhY7Y&t=725s)
+- **RD 77 (extraordinária) (2022-10-25)**, 1.2 (1.2.1 e 1.2.2) · relator **Cristiano Della Giustina** · Contratos de adesão para outorga por autorização ferroviária: (1.2.1) Rumo, Santa Rita do Trivelato a Sinop (MT), investimento ~R$ 3,8 bi (a partir de → aprovado por unanimidade
+  - votos: Cristiano: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=FDwUZ2Tz8g8&t=931s)
+- **RD 946 (2022-12-15)**, 2.4.1 · relator **Cristiano Della Giustina** · Abertura de consulta pública sobre a revisão da Resolução 4.624/2015 (contratação e manutenção de seguros nas concessões ferroviárias), com dispensa d → aprovado por unanimidade
+  - votos: Cristiano: relator; Davi: acompanha; Luciano: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=j8wblcVarbU&t=1430s)
+- **RD 947 (2022-12-22)**, 2.2.2 · relator **Guilherme Sampaio** · Primeiro termo aditivo ao contrato de concessão da Transnordestina: cronograma dos investimentos obrigatórios, retirada do trecho Salgueiro-Porto de S → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=y4r8H6490-4&t=1856s)
 - **RD 948 (2023-01-19)**, 2.3.1 · relator **Felipe Queiroz** · Celebração de contrato de adesão para outorga, por autorização, de construção e exploração de estrada de ferro no município de Três Lagoas/MS (trecho  → aprovado por unanimidade (em bloco com 2.3.2)
   - votos: Felipe: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZX8Rm7GspUY&t=1205s)
 - **RD 948 (2023-01-19)**, 2.3.2 · relator **Felipe Queiroz** · Celebração de contrato de adesão para outorga, por autorização, de construção e exploração de estrada de ferro entre Três Lagoas/MS e Aparecida do Tab → aprovado por unanimidade (em bloco com 2.3.1)

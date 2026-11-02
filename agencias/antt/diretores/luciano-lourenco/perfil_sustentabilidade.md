@@ -1,11 +1,11 @@
 # Perfil analítico — Luciano Lourenço · tema: sustentabilidade
 
-**Amostra:** presente em 59 das 64 reuniões analisadas em que há registro de presença/ausência; 12 votos neste tema; 3 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 82 das 88 reuniões analisadas em que há registro de presença/ausência; 12 votos neste tema; 3 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
 **Votos:** acompanha o relator 9 (100% dos votos em que não era relator) · relator 3 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 3/3 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** fiscalizacao_sancoes 302/83; concessoes_rodoviarias 260/74; onibus 148/42; onibus_regular 107/27; regulacao_normativa 81/25; reequilibrio_contratual 79/28; participacao_social 66/16; leilao_otimizacao 49/4; ferrovias 49/16; judicializacao 46/13; institucional 45/4; onibus_fretamento 40/15; pedagio_freeflow 20/13; cargas 20/3; sustentabilidade 12/3; sandbox_inovacao 12/7; tarifa_modicidade 3/2; onibus_semiurbano 2/0
+**Temas (nº de itens em que votou / relatorias):** fiscalizacao_sancoes 340/92; concessoes_rodoviarias 303/83; onibus 174/47; onibus_regular 122/31; regulacao_normativa 120/35; reequilibrio_contratual 93/31; participacao_social 89/20; ferrovias 72/23; leilao_otimizacao 65/5; institucional 65/4; judicializacao 62/17; onibus_fretamento 50/16; pedagio_freeflow 29/14; cargas 28/5; sandbox_inovacao 13/8; sustentabilidade 12/3; tarifa_modicidade 4/2; onibus_semiurbano 4/1
 **Argumentos recorrentes nas justificativas registradas:** sustentabilidade (3); segurança viária (2); usuário (1); concorrência (1)
 **Tom (inferência da leitura, não métrica):** entusiasmado
 

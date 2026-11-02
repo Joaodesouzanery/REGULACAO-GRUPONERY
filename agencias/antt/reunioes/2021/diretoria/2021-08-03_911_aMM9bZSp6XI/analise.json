@@ -1,0 +1,349 @@
+{
+ "meta": {
+  "video_id": "aMM9bZSp6XI",
+  "fonte": "legenda automática do YouTube; falantes inferidos (sem marcação de falante); ts de votos de quem só concorda aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "911",
+  "data": "2021-08-03",
+  "formato": "videoconferência (pandemia)",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Davi Barreto",
+   "Guilherme Sampaio",
+   "Fábio Rogério",
+   "Alexandre Porto"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Primeira reunião de Rafael Vitale como Diretor-Geral e de Fábio Rogério e Guilherme Sampaio como diretores; Alexandre Porto passa de interino a titular (diretoria completa). Encerrada a parte pública às 15h30; atraso no início.",
+   "Sustentação oral da Ecosul (André Luiz Freire) levou à retirada do item 17ª revisão ordinária; Davi Barreto também retirou o item da Via Bahia por nova decisão judicial/mandado de segurança.",
+   "Fábio Rogério declarou impedimento retroativo no processo da Rumo Malha Central (2º TA/Valec), por ter atuado nele no Ministério da Infraestrutura, e pediu que seu voto fosse desconsiderado.",
+   "Pauta reservada: cinco processos sancionadores/recursos julgados em sessão não transmitida."
+  ]
+ },
+ "itens": [
+  {
+   "id": "R",
+   "ts": "0:02:14",
+   "processo": "vários (50572.293321/2021?, 50500.010509/2021, 50500.146812/2021, 50500.296712/2021?, 50500.248593/2014 — legenda; incertos)",
+   "interessado": "Brasil Tecnologia e Transporte Ltda. (recursos contra entendimento da Corregedoria, 3 processos) e União Cascavel Transportes (recurso contra a Deliberação 371 de 11/08/2020, que aplicou cassação de autorização especial)",
+   "assunto": "Processos reservados (restrição de acesso, art. 60 §1º do Regimento): recursos e processo de penalidade julgados ao final da transmissão, com participação restrita às partes",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Davi Barreto e Rafael Vitale (Diretor-Geral) — atribuição por processo incerta na legenda",
+   "resultado": "julgamento em sessão reservada (não transmitido)",
+   "resumo_voto": "Apenas listados na parte pública; sem conteúdo deliberativo disponível.",
+   "votos": []
+  },
+  {
+   "id": "1.1",
+   "ts": "0:04:38",
+   "processo": "50500.089187/2020-71 (legenda)",
+   "interessado": "Concessionária de Rodovias do Sul S.A. (Ecosul) — BR-116/392 RS (Pelotas)",
+   "assunto": "17ª revisão ordinária, 14ª revisão extraordinária e reajuste da tarifa básica de pedágio da Ecosul (com sustentação oral da concessionária)",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "pedágio / tarifa",
+    "judicialização"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "retirado de pauta (aprovado por unanimidade) após sustentação oral e nova decisão judicial",
+   "resumo_voto": "Relatório de Davi: proposta da Ecosul de 24/08/2020; liminar de 11/06/2021 sobre percentuais de execução de obras; Davi manteve os cálculos da área técnica e pautou. Na sustentação oral (André Luiz Freire, Ecosul) a concessionária informa decisão da véspera rejeitando embargos da ANTT e multa diária de R$ 500 mil em caso de descumprimento. A Procuradoria diz que a intimação formal ainda não foi recebida; Davi, em «boa-fé processual», prefere retirar de pauta, reavaliar com a Procuradoria e voltar. Os demais concordam.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, propõe retirada de pauta",
+     "ts": "0:15:20",
+     "justificativa": "boa-fé e lealdade processual; evitar decidir e depois rever por decisão judicial; juntar parecer da Procuradoria sobre a nova decisão",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com a retirada",
+     "ts": "0:16:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fábio Rogério",
+     "voto": "de acordo com a retirada",
+     "ts": "0:16:44",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo com a retirada",
+     "ts": "0:16:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo com a retirada",
+     "ts": "0:16:56",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1.2",
+   "ts": "0:17:19",
+   "processo": "50500.049422/2021-53 (legenda; incerto)",
+   "interessado": "Rumo Malha Central S.A. (subconcessão ex-Valec)",
+   "assunto": "Primeira revisão ordinária do valor de outorga do contrato de subconcessão (período 31/07/2019 a 30/07/2020)",
+   "tema": [
+    "ferrovias",
+    "reequilíbrio contratual",
+    "fiscalização e sanções"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Acréscimo de outorga por descumprimento no 1º ano: não destinou recursos de P&D (RDT) e de memória ferroviária e atrasou duas obras (lote 3 e lote 5 da extensão Sul). Acréscimo de ≈ R$ 204 mil por parcela trimestral (parcelas 9 a 120, preços de maio/2019; valor aproximado pela legenda). Determina à SUFER abrir procedimento para termo aditivo corrigindo erro material nas fórmulas 7 e 8 do Anexo 6, com concordância da concessionária.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:17:40",
+     "justificativa": "descumprimento de obrigações no 1º ano do contrato; correção de erro material das fórmulas por aditivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "0:21:55",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fábio Rogério",
+     "voto": "de acordo",
+     "ts": "0:21:58",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:22:02",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo",
+     "ts": "0:22:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3",
+   "ts": "0:22:23",
+   "processo": "50500.150539/2017-01 (legenda)",
+   "interessado": "Via Bahia Concessionária de Rodovias S.A.",
+   "assunto": "Abertura de audiência pública sobre a primeira e segunda revisões quinquenais do contrato (edital 1/2008)",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual",
+    "judicialização",
+    "participação social"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "retirado de pauta pelo relator (aprovado por unanimidade)",
+   "resumo_voto": "Davi Barreto informa que a Procuradoria-Geral comunicou decisão judicial (mandado de segurança cível) determinando que a ANTT se abstenha de prosseguir; retira para aguardar manifestação formal nos autos.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, pede retirada de pauta",
+     "ts": "0:22:30",
+     "justificativa": "nova decisão judicial em mandado de segurança; aguardar manifestação formal da Procuradoria",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com a retirada",
+     "ts": "0:23:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fábio Rogério",
+     "voto": "de acordo com a retirada",
+     "ts": "0:23:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo com a retirada",
+     "ts": "0:23:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo com a retirada",
+     "ts": "0:23:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.4",
+   "ts": "0:24:59",
+   "processo": "50500.041387/2020-43 (legenda)",
+   "interessado": "Rumo Malha Central S.A. e Valec Engenharia, Construções e Ferrovias",
+   "assunto": "Segundo termo aditivo ao contrato de subconcessão e primeira revisão extraordinária: transferência à Rumo do plantio compensatório / compensação ambiental da Valec, com reequilíbrio (aumento das parcelas do valor de outorga)",
+   "tema": [
+    "ferrovias",
+    "reequilíbrio contratual",
+    "sustentabilidade",
+    "prorrogação / aditivo contratual"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "aprovado por unanimidade (Fábio Rogério declarou depois impedimento e pediu que seu voto fosse desconsiderado)",
+   "resumo_voto": "Origem em diretriz do Ministério da Infraestrutura (Ofício 342) ante a dificuldade da Valec; Porto verifica valor do reequilíbrio, forma de recomposição, vantajosidade ao poder concedente e interveniência da Valec; instrução da SUFER e da gerência econômico-financeira elogiada; Procuradoria e Valec favoráveis. Vota por aprovar o 2º TA e a 1ª revisão extraordinária, aumentando as parcelas do valor de outorga.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, aprova",
+     "ts": "0:26:15",
+     "justificativa": "política pública do Minfra; instrução técnica robusta; vantajosidade ao poder concedente",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "0:30:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo; elogia a instrução do processo",
+     "ts": "0:30:25",
+     "justificativa": "a manifestação técnica da SUFER e a jurídica corroboram a minuta",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fábio Rogério",
+     "voto": "de acordo (depois declara impedimento e retira o voto)",
+     "ts": "0:30:35",
+     "justificativa": "registrou depois que atuou no processo no Ministério da Infraestrutura",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo",
+     "ts": "0:30:44",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.5",
+   "ts": "0:32:24",
+   "processo": "50500.131187/2018-39 (legenda)",
+   "interessado": "Viação União Santa Cruz Ltda. x Auto Viação Catarinense Ltda.",
+   "assunto": "Tornar sem efeito as Deliberações 480/2020 e 504/2020 para cumprir decisão judicial (parecer de força executória), restabelecendo a Deliberação 748/2018: linha Curitiba–Santa Maria e mercados da Auto Viação Catarinense",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicialização"
+   ],
+   "relator": "Fábio Rogério",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Disputa judicial desde 2018 entre as empresas sobre mercados e linha Curitiba–Santa Maria; nova decisão (parecer de força executória, ofício 3963 da Procuradoria, recebido em 29/07/2021) manda a Catarinense operar os mercados; Fábio propõe a «repristinação regulatória». Registra ainda preocupação com a recorrência de decisões judiciais que obrigam a Diretoria a editar e reeditar deliberações e convida a avaliar com Procuradoria e área técnica um procedimento mais célere de suspensão de eficácia sem deliberação do colegiado (sem efeito sobre o voto).",
+   "votos": [
+    {
+     "diretor": "Fábio Rogério",
+     "voto": "relator, aprova",
+     "ts": "0:33:40",
+     "justificativa": "cumprimento de decisão judicial com parecer de força executória; propõe procedimento mais célere para casos futuros",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:37:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "0:37:44",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:37:48",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo; endossa reflexão sobre celeridade processual",
+     "ts": "0:37:59",
+     "justificativa": "busca de eficiência e de evitar retrabalho",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.1",
+   "ts": "0:38:46",
+   "processo": "50500.089357/2018 (legenda; incerto)",
+   "interessado": "não informado",
+   "assunto": "Despacho de Davi Barreto: concessão de prazo adicional para inclusão do processo em pauta (Regimento Interno), até 17/08/2021",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade — prazo concedido até 17/08/2021",
+   "resumo_voto": "Prazo regimental de 15 dias; votação nominal.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "0:39:47",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fábio Rogério",
+     "voto": "de acordo",
+     "ts": "0:39:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:39:53",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo",
+     "ts": "0:39:56",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "1.1 — 17ª rev. ordinária / 14ª extraordinária / reajuste Ecosul",
+   "relator": "Davi Barreto",
+   "motivo": "nova decisão judicial (rejeição de embargos, multa diária R$ 500 mil) conhecida na véspera; reavaliar com a Procuradoria",
+   "ts": "0:17:01"
+  },
+  {
+   "item": "1.3 — AP das revisões quinquenais da Via Bahia",
+   "relator": "Davi Barreto",
+   "motivo": "decisão em mandado de segurança determinando abstenção da ANTT",
+   "ts": "0:23:56"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática; rótulos de falante do .md não confiáveis (o presidente da sessão é Rafael Vitale, não Guilherme Sampaio).",
+  "Itens reservados: números de processo e relatoria por processo incertos; nada sobre o mérito.",
+  "Números de processo e valores parciais; valor de outorga do item 1.2 aproximado (legenda).",
+  "Item 1.4: Fábio Rogério votou de acordo e só depois registrou impedimento retroativo; mantido como voto de confiança média e descrito na observação.",
+  "Ts de votos de seguidores aproximados."
+ ]
+}

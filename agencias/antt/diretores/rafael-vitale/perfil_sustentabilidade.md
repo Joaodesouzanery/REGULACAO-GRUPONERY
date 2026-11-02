@@ -1,15 +1,19 @@
 # Perfil analítico — Rafael Vitale · tema: sustentabilidade
 
-**Amostra:** presente em 63 das 63 reuniões analisadas em que há registro de presença/ausência; 14 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 108 das 109 reuniões analisadas em que há registro de presença/ausência; 18 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 12 (100% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 16 (100% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 2/2 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** fiscalizacao_sancoes 333/11; concessoes_rodoviarias 287/6; onibus 155/3; onibus_regular 112/0; regulacao_normativa 93/14; reequilibrio_contratual 82/0; participacao_social 71/4; institucional 55/25; leilao_otimizacao 54/5; ferrovias 53/1; judicializacao 48/4; onibus_fretamento 42/1; cargas 24/1; pedagio_freeflow 20/0; sustentabilidade 14/2; sandbox_inovacao 13/1; tarifa_modicidade 3/0; onibus_semiurbano 2/2
+**Temas (nº de itens em que votou / relatorias):** fiscalizacao_sancoes 409/23; concessoes_rodoviarias 397/28; onibus 204/10; regulacao_normativa 188/41; onibus_regular 142/5; reequilibrio_contratual 128/9; participacao_social 124/11; ferrovias 114/22; institucional 105/34; leilao_otimizacao 96/13; judicializacao 83/8; onibus_fretamento 57/3; pedagio_freeflow 46/6; cargas 41/3; sustentabilidade 18/2; sandbox_inovacao 15/1; tarifa_modicidade 13/3; onibus_semiurbano 8/3
 **Argumentos recorrentes nas justificativas registradas:** sustentabilidade (1)
 
 ## Evidências (reunião · item · voto · justificativa)
 
+- **RD 911 (2021-08-03)**, item 1.4 — Segundo termo aditivo ao contrato de subconcessão e primeira revisão extraordinária: transferência à Rumo do plantio compensatório / compens · voto: *de acordo* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=aMM9bZSp6XI&t=1844s) · resultado: aprovado por unanimidade (Fábio Rogério declarou depois impedimento e 
+- **RD 913 (2021-08-17)**, item 2.4.1 — Aprovação do edital de concessão do Sistema Rodoviário BR-116/RJ-SP (Nova Dutra) e BR-101/RJ-SP (Rio de Janeiro–Ubatuba), 625,8 km: critério · voto: *de acordo* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=M3Oooch06TQ&t=2740s) · resultado: aprovado por unanimidade
+- **RD 920 (2021-11-04)**, item 2.2.1 — Assinatura do termo de acordo na ação civil pública (Rio de Janeiro) sobre condicionantes ambientais na duplicação da BR-101 (fauna da Reser · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=VZD-U2Sl7sU&t=2268s) · resultado: aprovado por unanimidade
+- **RD 923 (2021-12-16)**, item 2.4.3 — Metodologia para levantamento detalhado das bases de ativos e passivos e apuração de empreendimentos de materialidade relevante (cláusula 7ª · voto: *de acordo / acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=MNr3gvJ5hlQ&t=1300s) · resultado: aprovado por unanimidade
 - **RD 953 (2023-03-30)**, item 2.2.1 — Instrução normativa sobre a inspeção de projetos, orçamentos e obras de engenharia por Organismos de Inspeção Acreditados (OIAs, Inmetro) no · voto: *acompanha integralmente o relator* (acompanha, conf. media) · «acelerar a certificação; articulação com o Ministério da Indústria e Inmetro» · [vídeo](https://www.youtube.com/watch?v=HNl8PagFcCc&t=1740s) · resultado: aprovado por unanimidade
 - **RD 961 (2023-07-20)**, item 1.2.1 — Relatório final da Audiência Pública 10/2020 e resolução que regulamenta a destinação dos recursos para desenvolvimento tecnológico (RDT) e  · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=zV1cOhU21bk&t=688s) · resultado: aprovado por unanimidade
 - **RD 971 (2023-12-07)**, item 1.2.5 — 2º termo aditivo ao contrato (edital 1/2019) para regulamentar obrigações e efeitos da autorização para elaboração de estudos ambientais com · voto: *acompanha o relator; proclama unanimidade* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=GE0Xxv-shHs&t=3010s) · resultado: aprovado por unanimidade

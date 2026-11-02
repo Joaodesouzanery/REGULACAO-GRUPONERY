@@ -1,5 +1,107 @@
 # Itens do tema «onibus_regular» (todos os diretores)
 
+- **RD 885 (2021-01-18)**, 2.2.1 · relator **Eduardo Marra** · Proposta de acordo de cooperação técnica ANTT–OCB para apoio ao cadastro de transportadores no RNTRC (cargas) e sistemas de passageiros (integração de → vista (pedido de vista por Davi Barreto; ver RD 895)
+  - votos: Eduardo: relator; Davi: vista · [vídeo](https://www.youtube.com/watch?v=KFIPj15oozg&t=353s)
+- **RD 888 (2021-02-09)**, 2.2.1 · relator **Davi Barreto** · Voto-vista: referendo das Deliberações 533/534 de 23/12/2020 (revogaram autorização de transferência de mercados da Edson para a Expresso Adamantina), → aprovado por unanimidade (julgado em conjunto com 2.2.2)
+  - votos: Davi: revisor_acompanha; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=VsOaNcaVs4Y&t=177s)
+- **RD 888 (2021-02-09)**, 2.2.2 · relator **Davi Barreto** · Voto-vista: referendo da Deliberação 534/2020 (revogou Del. 152/2018, transferência de mercados Edson→Real Maia); mesmo mérito do 2.2.1 → aprovado por unanimidade
+  - votos: Davi: revisor_acompanha; Weber: acompanha; Alexandre: outro; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=VsOaNcaVs4Y&t=578s)
+- **RD 891 (2021-03-09)**, 2.3.1 · relator **Davi Barreto** · Alteração da Resolução 5.917/2020 (medidas da pandemia no transporte rodoviário interestadual e internacional de passageiros) → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Eduardo: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=avr7ZpONzto&t=1002s)
+- **RD 894 (2021-03-30)**, 2.1.3 · relator **Alexandre Porto** · Recurso contra a Decisão SUPAS 278/2020 que arquivou o pedido de mercados novos por vencimento do termo de autorização (TAR); sustentação oral do advo → aprovado por unanimidade (recurso conhecido e provido parcialmente; Decisão SUPAS 278/2020
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=ZrX6XBJsIXo&t=492s)
+- **RD 895 (2021-04-06)**, 2.2.2 · relator **Eduardo Marra** · Pedido de sobrestamento dos pedidos de mercado do TRIP interestadual convocados pelo Ofício-Circular SEI 10/2021, em razão da discussão do novo marco  → pedido indeferido; aprovado por unanimidade
+  - votos: Davi: revisor_acompanha; Eduardo: revisor_acompanha; Menezes: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ZqU-qL1jNnk&t=923s)
+- **RD 896 (2021-04-13)**, 2.3.4 · relator **Eduardo Marra** · Inclusão de mercados na licença operacional (LOP) e análise de impugnações (ônibus interestadual) → aprovado por unanimidade — indeferido o pedido da Viação Marli; impugnação não conhecida p
+  - votos: Eduardo: relator; Davi: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=NjSTSz_qmS0&t=2039s)
+- **RD 898 (2021-04-27)**, 2.3.3 · relator **Davi Barreto** · Alteração da estrutura gerencial da Superintendência de Serviços de Transporte Rodoviário de Passageiros (Deliberação 270/2020): gerências por process → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Eduardo: acompanha; Menezes: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=qTKOq7Jx1os&t=2768s)
+- **RD 899 (2021-05-04)**, 2.1.1 · relator **Alexandre Porto** · Referendo da Deliberação 149/2021 (19/04/2021) que deferiu pedido de novos mercados da empresa por decisão judicial (9ª Vara Federal Cível/DF), com ef → aprovado por unanimidade
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=kU4TfhacKO0&t=244s)
+- **RD 899 (2021-05-04)**, 2.3.1 · relator **Davi Barreto** · Audiência Pública 6/2020: relatório final e resolução que regulamenta (art. 30, parágrafo único, Lei 8.987/1995) as comissões tripartites (ANTT, usuár → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=kU4TfhacKO0&t=1426s)
+- **RD 909 (2021-07-13)**, 1.1.1 · relator **Alexandre Porto** · Referendo da deliberação 225 (1/7/2021; legenda diz 220/225) que revogou deliberações e portarias de outorga de novos mercados, em cumprimento a caute → aprovado por unanimidade (referendo)
+  - votos: Alexandre: relator; Davi: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=oBi-J784BDA&t=484s)
+- **RD 910 (2021-07-20)**, 2.1.2 · relator **Marcelo Fonseca** · Recurso contra a deliberação 193/2020 que declarou inidoneidade por 3 anos (item reservado) → reservado — sem conteúdo na transmissão
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=_8kPx2qM4kg&t=434s)
+- **RD 910 (2021-07-20)**, 2.1.3 · relator **None** · Recurso contra a deliberação 370/2020 que cassou a autorização especial (item reservado; legenda numera «1.3») → reservado — sem conteúdo na transmissão
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=_8kPx2qM4kg&t=440s)
+- **RD 911 (2021-08-03)**, R · relator **Rafael Vitale** · Processos reservados (restrição de acesso, art. 60 §1º do Regimento): recursos e processo de penalidade julgados ao final da transmissão, com particip → julgamento em sessão reservada (não transmitido)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=aMM9bZSp6XI&t=134s)
+- **RD 911 (2021-08-03)**, 1.5 · relator **Fábio Rogério** · Tornar sem efeito as Deliberações 480/2020 e 504/2020 para cumprir decisão judicial (parecer de força executória), restabelecendo a Deliberação 748/20 → aprovado por unanimidade
+  - votos: Fábio: relator; Davi: acompanha; Guilherme: acompanha; Alexandre: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=aMM9bZSp6XI&t=1944s)
+- **RD 913 (2021-08-17)**, 2.2.3 · relator **Davi Barreto** · Recurso contra a Deliberação 316/2020 (07/07/2020), que aplicou a penalidade de cassação → julgamento na parte reservada da reunião (não transmitida); sem conteúdo na transcrição
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=M3Oooch06TQ&t=140s)
+- **RD 914 (2021-08-24)**, 2.3.2 · relator **Fábio Rogério** · Pedido de reconsideração e revisão da Deliberação 911/2019 (processo reservado, julgado ao final sem transmissão) → julgamento reservado, não transmitido
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=vO71AMKlMQ0&t=67s)
+- **RD 916 (2021-09-09)**, 2.2.1 · relator **Davi Barreto** · Arquivamento de processo administrativo (art. 19 II da Res. 5.083/2016; art. 52 da Lei 9.784/1999) (reservado) → retirado de pauta (a pedido do relator; ver limites)
+  - votos: Davi: relator; Fábio: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=qBHo290jUds&t=500s)
+- **RD 917 (2021-09-22)**, 2.2.1 · relator **Davi Barreto** · Pedido de reconsideração contra a Deliberação 125/2020 (cassação da autorização) → aprovado por unanimidade — nega provimento
+  - votos: Davi: relator; Guilherme: acompanha; Fábio: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=OTcyf2Er7IU&t=768s)
+- **RD 917 (2021-09-22)**, 2.2.2 · relator **Davi Barreto** · Proposta de extinção de termo de autorização de serviços regulares por não atualização documental (art. 24 da Res. 4.770/2015); superintendência propu → aprovado por unanimidade — retorna à superintendência (diligência) e fixa procedimento
+  - votos: Davi: relator; Guilherme: acompanha; Rafael: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=OTcyf2Er7IU&t=1083s)
+- **RD 918 (2021-10-07)**, 2.1.1 · relator **Davi Barreto** · Proposta de arquivamento de processo administrativo ordinário por suposta adulteração de apólices de seguro de responsabilidade civil juntadas em requ → aprovado por unanimidade (arquivamento)
+  - votos: Davi: relator; Guilherme: acompanha; Fábio: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=Fsfq1tp3R00&t=979s)
+- **RD 919 (2021-10-21)**, 2.1.1 · relator **Rafael Vitale** · Pedido de reconsideração contra a Deliberação 339/2020 que aplicou a penalidade de cassação (art. 78-H Lei 10.233) → aprovado por unanimidade — nega provimento
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=_OwMqo23vHw&t=140s)
+- **RD 919 (2021-10-21)**, 2.3.3 · relator **Guilherme Sampaio** · Proposta de arquivamento e aplicação de penalidade → retirado de pauta a pedido do relator
+  - votos: Guilherme: relator; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=_OwMqo23vHw&t=6872s)
+- **RD 920 (2021-11-04)**, 2.3.3 · relator **Fábio Rogério** · Processo administrativo ordinário por suposta adulteração de CRLV apresentado em pedido de alteração de capacidade de passageiros: proposta de arquiva → aprovado por unanimidade (arquivamento)
+  - votos: Fábio: relator; Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=VZD-U2Sl7sU&t=2869s)
+- **RD 921 (2021-11-18)**, 2.1.2 · relator **Rafael Vitale** · Proposta de súmula que define transporte clandestino para aplicação da Res. 4.287/2014 → vista coletiva (súmula, art. 121 do Regimento); deliberação na próxima reunião
+  - votos: Rafael: relator · [vídeo](https://www.youtube.com/watch?v=FNnvj8A4Zjo&t=457s)
+- **RD 921 (2021-11-18)**, 2.2.1 · relator **Davi Barreto** · Relatório final da Audiência Pública 4/2020 e minuta de resolução sobre a prestação do serviço regular de transporte rodoviário coletivo interestadual → VENCIDO o relator: por empate (2 x 2) o Diretor-Geral desempatou e prevaleceu a divergênci
+  - votos: Davi: relator; Rafael: outro; Fábio: revisor_acompanha; Guilherme: acompanha; Fábio: acompanha; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=FNnvj8A4Zjo&t=1536s)
+- **RD 921 (2021-11-18)**, 2.4.1 · relator **Fábio Rogério** · Pedido de anuência prévia para transferência de mercados (linha São Luís/MA a Altamira/PA), operados por força de decisão judicial → pedido indeferido, aprovado por unanimidade
+  - votos: Fábio: relator; Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=FNnvj8A4Zjo&t=8720s)
+- **RD 922 (2021-12-02)**, 2.1.1 · relator **Rafael Vitale** · Súmula que caracteriza o termo transporte clandestino para a aplicação correta da Res. 4.287/2014 → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=IwLYFZ4veDo&t=501s)
+- **RD 922 (2021-12-02)**, 2.1.2 · relator **Rafael Vitale** · Referendo da Resolução 5.955/2021 (11/11/2021), que revogou o art. 5 da Res. 5.917/2020 sobre medidas de enfrentamento da covid-19 no transporte inter → retirado de pauta (unânime), volta em 16/12/2021
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=IwLYFZ4veDo&t=574s)
+- **RD 923 (2021-12-16)**, 2.1.4 · relator **Rafael Vitale** · Referendo da Resolução 5.955/2021, que revogou o art. 5º da Res. 5.917/2020 (covid-19 no transporte internacional de passageiros), com ajuste do art.  → aprovado por unanimidade — referendada e alterada
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=MNr3gvJ5hlQ&t=1703s)
+- **RD 924 (2022-01-20)**, 2.3.6 · relator **Guilherme Sampaio** · Revogação do art. 2º da Deliberação de 07/04/2020 (processo contra administradores e controladores, art. 78-E) → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=q-BxgYhOb0c&t=3272s)
+- **RD 927 (2022-03-10)**, 2.3.1 · relator **Guilherme Sampaio** · Obrigatoriedade de porte do quadro de tarifas nos veículos em serviço de transporte rodoviário interestadual de passageiros → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=vD2mixuNuv8&t=3251s)
+- **RD 930 (2022-04-28)**, 2.2.1 · relator **Davi Barreto** · Alteração da Res. 5.917/2020 para retomar a exigência de frequência mínima nos serviços regulares interestaduais sob autorização (art. 33 da Res. 4.77 → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=Cz5UdpIyrK8&t=1309s)
+- **RD 930 (2022-04-28)**, 2.3.1 · relator **Guilherme Sampaio** · Pedido de reconsideração da Deliberação 385/2021 (rejeição, em 18/11/2021, do relatório final da AP 4/2020 e da proposta de marco regulatório do trans → não conhecido (unanimidade)
+  - votos: Guilherme: relator; Davi: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=Cz5UdpIyrK8&t=1987s)
+- **RD 930 (2022-04-28)**, 2.3.2 · relator **Guilherme Sampaio** · Processo administrativo ordinário por apresentação de documentação adulterada (autorização de uso de veículos de terceiros): penalidade à empresa e ar → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=Cz5UdpIyrK8&t=3562s)
+- **RD 932 (2022-05-25)**, 2.1.2 · relator **Davi Barreto** · Extinção por cassação (art. 48 da Lei 10.233/2001) do termo de autorização de serviço regular, por perda das condições indispensáveis ao cumprimento d → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=NoErqGw5nsc&t=680s)
+- **RD 934 (2022-06-23)**, 2.1.1 · relator **Guilherme Sampaio** · Abertura de audiência pública da proposta de regulamentação do serviço regular de transporte rodoviário coletivo interestadual de passageiros sob o re → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=1eQGIHBQi-4&t=135s)
+- **RD 937 (2022-08-04)**, 2.2.1 · relator **Luciano Lourenço** · Cumprimento de decisão judicial (agravo de instrumento, TRF-1, 6ª Turma) que suspendeu os efeitos da Deliberação 955/2019 (que revogou regras de estud → aprovado por unanimidade
+  - votos: Luciano: relator; Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=BHgWHDyFqu0&t=838s)
+- **RD 939 (2022-09-01)**, 2.1.2 · relator **Guilherme Sampaio** · Processo administrativo ordinário para apurar infrações à legislação de transporte rodoviário de passageiros → retirado de pauta pelo relator
+  - votos: Guilherme: relator · [vídeo](https://www.youtube.com/watch?v=D4UlNAV41VU&t=226s)
+- **RD 939 (2022-09-01)**, 2.2.1 · relator **Luciano Lourenço** · Processo administrativo ordinário para apurar infrações à legislação de transporte rodoviário de passageiros → retirado de pauta pelo relator
+  - votos: Luciano: relator · [vídeo](https://www.youtube.com/watch?v=D4UlNAV41VU&t=886s)
+- **RD 940 (2022-09-21)**, 2.2.3 · relator **Guilherme Sampaio** · Processo administrativo ordinário (Portaria 109/2019): transporte de mercadorias de procedência estrangeira sem prova de introdução regular, em veícul → aprovado por unanimidade — multa
+  - votos: Guilherme: relator; Davi: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=_4OA6Py0z3U&t=1258s)
+- **RD 941 (2022-10-06)**, 2.1.1 · relator **Davi Barreto** · Processo administrativo ordinário por infrações à legislação de transporte rodoviário de passageiros → retirado de pauta
+  - votos: Davi: relator · [vídeo](https://www.youtube.com/watch?v=uprQ3zi71jA&t=381s)
+- **RD 941 (2022-10-06)**, 2.2.2 · relator **Guilherme Sampaio** · Pedido de reconsideração contra a Portaria SUPAS 1130/2020 que incluiu mercados na licença operacional da Primar (linha Frutal/MG–Rio de Janeiro) → aprovado por unanimidade (parcialmente procedente)
+  - votos: Guilherme: relator; Davi: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=uprQ3zi71jA&t=3025s)
+- **RD 941 (2022-10-06)**, 2.3.3 · relator **Luciano Lourenço** · Processo administrativo ordinário por subtração de serviços e uso irregular de veículos em linha interestadual Campo Grande/MS–Araçatuba/SP; arquivame → aprovado por unanimidade, nos termos do voto do relator
+  - votos: Luciano: relator; Davi: acompanha; Guilherme: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=uprQ3zi71jA&t=5941s)
+- **RD 943 (2022-11-03)**, 2.2.2 · relator **Davi Barreto** · Pedido de reconsideração da Resolução 5.364/2017, que aplicou cassação da autorização (art. 78-A, IV, e 78-H da Lei 10.233/2001) → reconsideração conhecida e negada; cassação mantida; aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=MamI8NVrbBs&t=3438s)
+- **RD 943 (2022-11-03)**, 2.4.2 · relator **Luciano Lourenço** · Revogação da Súmula 11, de 02/12/2021 (caracterização de transporte clandestino para fins da Res. 4.287/2014) → vista coletiva (voltará na próxima reunião)
+  - votos: Luciano: relator; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=MamI8NVrbBs&t=4895s)
+- **RD 944 (2022-11-17)**, 2.1.4 · relator **Davi Barreto** · Recurso contra a Decisão SUPAS 297/2021, que deferiu a Expresso Adamantina a implantação da linha São Paulo–Belo Horizonte → aprovado por unanimidade — recurso conhecido e desprovido
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=CT35ZXZmZ3c&t=3204s)
+- **RD 944 (2022-11-17)**, 2.2.1 · relator **Guilherme Sampaio** · Processo administrativo ordinário por infrações à legislação de transporte rodoviário de passageiros → retirado de pauta pelo relator
+  - votos: Guilherme: relator · [vídeo](https://www.youtube.com/watch?v=CT35ZXZmZ3c&t=3397s)
+- **RD 944 (2022-11-17)**, 2.4.1 · relator **Cristiano Della Giustina** · Processo administrativo ordinário por infrações à legislação de transporte rodoviário interestadual de passageiros (TAR nº 79) → aprovado por unanimidade — cassação
+  - votos: Cristiano: relator; Davi: acompanha; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=CT35ZXZmZ3c&t=3672s)
+- **RD 946 (2022-12-15)**, 2.3.1 · relator **Guilherme Sampaio** · Processo administrativo ordinário por infrações à legislação de transporte rodoviário de passageiros (segurança e condições veiculares) → vista concedida a Davi Barreto
+  - votos: Guilherme: relator; Davi: vista · [vídeo](https://www.youtube.com/watch?v=j8wblcVarbU&t=1230s)
+- **RD 947 (2022-12-22)**, 2.1.1 · relator **Davi Barreto** · Embargos de declaração contra a Deliberação 309/2022 (20/10/2022), que aplicou multa à empresa → aprovado por unanimidade — embargos conhecidos e rejeitados
+  - votos: Davi: relator; Guilherme: nao_captado; Luciano: acompanha; Cristiano: nao_captado; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=y4r8H6490-4&t=291s)
 - **RD 948 (2023-01-19)**, 2.1.1 · relator **Guilherme Sampaio** · Abertura de audiência pública sobre a proposta de regulamentação das infrações, sanções e medidas administrativas aplicáveis aos serviços regulares de → aprovado por unanimidade
   - votos: Guilherme: relator; Luciano: acompanha; Felipe: outro; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZX8Rm7GspUY&t=183s)
 - **RD 948 (2023-01-19)**, 2.1.2 · relator **Guilherme Sampaio** · Processo administrativo ordinário por transporte de mercadoria sujeita a pena de perdimento (art. 35, II da Lei 10.833/2003) em viagem de passageiros → aprovado por unanimidade — sem aplicação de multa; determinada apuração pela fiscalização

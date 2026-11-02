@@ -1,0 +1,237 @@
+{
+ "meta": {
+  "video_id": "_slnrK0MRSw",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "892",
+  "data": "2021-03-16",
+  "formato": "videoconferência (pandemia, Lei 13.979)",
+  "presidente_da_sessao": "Alexandre Porto (presidente da sessão; nome conforme saudações e referência do advogado na RD 894; cargo de Diretor-Geral a confirmar)",
+  "diretores_presentes": [
+   "Alexandre Porto",
+   "Davi Barreto",
+   "Eduardo Marra",
+   "Weber Ciloni",
+   "Menezes (nome distorcido na legenda)"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 15h33; o vídeo traz ≈ 8 min de espera antes da abertura (0:08:31).",
+   "4 itens: 1 unânime (CRT revisão), 1 aprovado por maioria com voto contrário de Weber Ciloni (aditivo de extensão da CRT, com sustentação oral da entidade de usuários), 1 unânime (Eco101) e 1 retirado de pauta (edital BR-163/230 MT-PA).",
+   "Weber Ciloni aparece na legenda como «Web esse nononi», «Herbert Lom»; identificação inferida pelo contexto (fala igual a de voto contrário na Nova Dutra)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1",
+   "ts": "0:09:50",
+   "processo": "50500.037859/2020-63 (parcial)",
+   "interessado": "Concessionária Rio-Teresópolis (CRT)",
+   "assunto": "24ª revisão ordinária, 10ª revisão extraordinária e reajuste da tarifa básica de pedágio da CRT (BR-116/RJ, Além Paraíba–Teresópolis)",
+   "tema": [
+    "concessões rodoviárias",
+    "pedágio",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Revisões reduzem a tarifa básica em cerca de 2,5% e o reajuste (IPCA/índice contratual, jul/19 a jun/20) aplica +2,13%; categoria 1 fica em R$ 18,80 (praça principal) e R$ 13,10 (auxiliares), valores conforme legenda. Pontos ainda sem conclusão técnica ficam para novas deliberações, sem prejuízo da apuração de haveres e deveres no encerramento.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:10:05",
+     "justificativa": "manifestações técnicas e jurídicas; fatores como eixos suspensos, tráfego realizado e cronograma do PER",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:14:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:14:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes (nome distorcido na legenda)",
+     "voto": "de acordo",
+     "ts": "0:14:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo com o relator",
+     "ts": "0:14:52",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:15:03",
+   "processo": "50500.012799/2000 e 2008 (parcial; contrato PG-156/95)",
+   "interessado": "Concessionária Rio-Teresópolis (CRT)",
+   "assunto": "Minuta de termo aditivo de extensão do prazo contratual da CRT por 18 meses (Lei 13.448, art. 32; Portaria MInfra 3/2021; Res. 5.926/2021), até a assunção por novo concessionário. Sustentação oral de Edson Araújo da Silva (entidade de usuários, grafia da legenda «Usuvias»)",
+   "tema": [
+    "concessões rodoviárias",
+    "pedágio",
+    "reequilíbrio contratual",
+    "participação social",
+    "judicializacao"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por maioria (voto contrário de Weber Ciloni)",
+   "resumo_voto": "Extensão necessária porque a nova licitação não ficará pronta a tempo (contrato vencia no domingo seguinte). Na versão final a concessionária se apropria imediatamente de toda a receita tarifária, com mecanismo de conta vinculada somente se o reequilíbrio vier a ser menor que o excedente tarifário (estimativa citada de cerca de R$ 750 milhões de desequilíbrio, saldo negativo preliminar de cerca de R$ 240 milhões após descontos, custo de capital de 17,98% ao ano; valores conforme legenda). Relator afirmou que o TCU não adotou medida cautelar sobre a Nova Dutra, apenas oitiva da agência.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:31:59",
+     "justificativa": "solução consensual possível: sem a assinatura da concessionária não há extensão e haveria risco de descontinuidade do serviço; o desequilíbrio já reconhecido superaria o excedente tarifário; juros do reequilíbrio crescem como bola de neve",
+     "tom": "tom: técnico, com resposta direta às objeções dos usuários",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "voto contrário",
+     "ts": "0:44:30",
+     "justificativa": "por coerência com seu voto na Nova Dutra, mantém as mesmas razões e vota contra a celebração nos termos da minuta",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo com o voto do relator",
+     "ts": "0:44:54",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Menezes (nome distorcido na legenda)",
+     "voto": "acompanha o relator",
+     "ts": "0:45:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "acompanha o relator",
+     "ts": "0:45:03",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:45:36",
+   "processo": "50500.406276/2019-53 (parcial)",
+   "interessado": "Eco101 Concessionária de Rodovias S.A.",
+   "assunto": "7ª revisão ordinária, 8ª revisão extraordinária, desconto de reequilíbrio e reajuste da tarifa básica de pedágio da Eco101 (Edital 1/2011) e 1º termo aditivo (postagem de notificações de autuações de controladores de velocidade; alteração da obrigação de manter livro ou totem na base de serviço operacional)",
+   "tema": [
+    "concessões rodoviárias",
+    "pedágio",
+    "reequilíbrio contratual",
+    "fiscalização e sanções"
+   ],
+   "relator": "Eduardo Marra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeitos combinados reduzem a tarifa média arredondada em cerca de 3,60%, com vigência a partir de 18/05/2020 (conforme legenda); desconto de reequilíbrio aplicado só sobre a tarifa básica do fluxo de caixa original (Res. 5.850).",
+   "votos": [
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "relator, aprova",
+     "ts": "0:45:36",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:50:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:50:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes (nome distorcido na legenda)",
+     "voto": "de acordo",
+     "ts": "0:50:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo com o relator",
+     "ts": "0:50:26",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:50:34",
+   "processo": "50500.133325/2020-67 (parcial)",
+   "interessado": "Superintendência de Concessão da Infraestrutura",
+   "assunto": "Edital de concessão do sistema rodoviário das BR-163/230 (MT-PA) - retirado de pauta",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização"
+   ],
+   "relator": "Eduardo Marra",
+   "resultado": "retirado de pauta (unânime)",
+   "resumo_voto": "Relator pediu a retirada porque a área técnica protocolou pedido de retirada para complementação técnica.",
+   "votos": [
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "relator, pede retirada de pauta",
+     "ts": "0:50:40",
+     "justificativa": "pedido da área técnica para complementação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com a retirada",
+     "ts": "0:51:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:51:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes (nome distorcido na legenda)",
+     "voto": "de acordo",
+     "ts": "0:51:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:51:31",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "2.2.2 — edital de concessão BR-163/230 MT-PA (SUCON)",
+   "relator": "Eduardo Marra",
+   "motivo": "complementação técnica solicitada pela área",
+   "ts": "0:50:34"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: nomes «Web esse nononi/Herbert Lom» (Weber Ciloni) e «Menezes» distorcidos; números de processo parciais.",
+  "Valores monetários, percentuais e tarifas vêm da legenda e devem ser conferidos.",
+  "Votos de seguidores têm ts aproximado; a ordem de votação foi Weber Ciloni, demais diretores, DG.",
+  "A fala da sustentação oral é de representante de entidade de usuários; nome da entidade incerto na legenda."
+ ]
+}

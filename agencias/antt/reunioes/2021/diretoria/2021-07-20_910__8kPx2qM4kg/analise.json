@@ -1,0 +1,119 @@
+{
+ "meta": {
+  "video_id": "_8kPx2qM4kg",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "910",
+  "data": "2021-07-20",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Marcelo Fonseca (presidindo na ausência do diretor-geral em exercício Alexandre Porto, em férias — inferência a partir do texto; baixa confiança)",
+  "diretores_presentes": [
+   "Marcelo Fonseca",
+   "Davi Barreto",
+   "Eduardo Marra"
+  ],
+  "ausentes": [
+   "Alexandre Porto (férias)"
+  ],
+  "observacoes": [
+   "Encerrada às 15h09 (parte pública).",
+   "Apenas um item público: regulamento das concessões rodoviárias (AP 2/2021), com apresentação técnica da SUINF.",
+   "Itens reservados (recursos Juína e Eucatur e assunto geral) fora da transmissão."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1",
+   "ts": "0:08:29",
+   "processo": "50500.000991/2020-10 (parcial)",
+   "interessado": "SUINF (Superintendência de Infraestrutura Rodoviária)",
+   "assunto": "Audiência Pública 2/2021: relatório final e minuta de resolução do regulamento das concessões rodoviárias (primeira norma da reforma regulatória: diretrizes gerais)",
+   "tema": [
+    "concessões rodoviárias",
+    "regulação normativa",
+    "participação social"
+   ],
+   "relator": "Marcelo Fonseca (a legenda grafa «Mochi/Muschi de Menezes»)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Superintendente André Freire apresentou a reforma em 5 normas (diretrizes gerais; bens/obras/serviços; econômico-financeiro; fiscalização e penalidades; encerramento e controvérsias) e a participação social (reuniões participativas em 5/3, 89 contribuições válidas, 3 orais). Norma tem 5 capítulos, princípio da contratualidade, previsão de multa por abuso de direito de petição e avaliação de resultado regulatório em 3 anos; acompanhada de «norma comentada» artigo por artigo.",
+   "votos": [
+    {
+     "diretor": "Marcelo Fonseca",
+     "voto": "relator, aprova relatório e minuta",
+     "ts": "0:24:46",
+     "justificativa": "processo bem instruído, inovador; acolhe contribuições na minuta",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo, com sugestões",
+     "ts": "0:25:12",
+     "justificativa": "elogia o processo como benchmark de participação social (regulação negociada + audiência) e a norma comentada, que deveria ser replicada; sugere nova rodada participativa após a audiência pública, antes da versão final",
+     "tom": "elogioso e propositivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:28:22",
+     "justificativa": "destaca a transparência de ter a área técnica na reunião e a avaliação de resultado regulatório em 3 anos",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:07:14",
+   "processo": "50500.055179/2017-52",
+   "interessado": "Viação Juína Transportes Eireli",
+   "assunto": "Recurso contra a deliberação 193/2020 que declarou inidoneidade por 3 anos (item reservado)",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Marcelo Fonseca",
+   "resultado": "reservado — sem conteúdo na transmissão",
+   "resumo_voto": "Julgamento reservado ao final da transmissão.",
+   "votos": []
+  },
+  {
+   "id": "2.1.3",
+   "ts": "0:07:20",
+   "processo": "50500.248593/2014-34",
+   "interessado": "Eucatur (Empresa União Cascavel de Transporte e Turismo Ltda.)",
+   "assunto": "Recurso contra a deliberação 370/2020 que cassou a autorização especial (item reservado; legenda numera «1.3»)",
+   "tema": [
+    "fiscalização e sanções",
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "não identificado",
+   "resultado": "reservado — sem conteúdo na transmissão",
+   "resumo_voto": "Julgamento reservado.",
+   "votos": []
+  },
+  {
+   "id": "3.1",
+   "ts": "0:07:30",
+   "processo": "50501.304425/2018-94",
+   "interessado": "DG (assuntos gerais)",
+   "assunto": "Atendimento à recomendação da Procuradoria-Geral Federal (nota PGF) — extrapauta reservado",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "não identificado",
+   "resultado": "reservado — sem conteúdo na transmissão",
+   "resumo_voto": "Item reservado.",
+   "votos": []
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Nomes dos diretores vêm das saudações da legenda (muito distorcidos): «Web Silone/Celoni» = Weber Ciloni; «Eduardo Marra»; «Mostra/Mochi/Muschi de Menezes» e «Marcelo Simão/Denor» tratados como Marcelo Fonseca (identificação incerta).",
+  "Votos de quem apenas «acompanha o relator» têm minuto aproximado (chamada nominal logo após o voto do relator).",
+  "Identidade do relator/presidente é inferida: a legenda grafa «Mochi/Muschi/Mostrar de Menezes».",
+  "Número do processo da AP 2/2021 parcial.",
+  "Vozes do relator no item 2.1.1: o voto e a leitura são do presidente da sessão; a atribuição é inferida."
+ ]
+}

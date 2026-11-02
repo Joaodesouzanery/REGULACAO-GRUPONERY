@@ -1,0 +1,351 @@
+{
+ "meta": {
+  "video_id": "UyiMgSyX3iI",
+  "fonte": "legenda automática do YouTube; falantes inferidos (o rótulo automático «Guilherme Sampaio» no cabeçalho do .md se refere, na fala de abertura/encerramento, ao Diretor-Geral Rafael Vitale); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "928",
+  "data": "2022-03-21",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Davi Barreto",
+   "Guilherme Sampaio"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte pública encerrada às ~16h03 (≈ 54 min de transmissão); item sigiloso (PAD da Corregedoria, 2.2.5) julgado após o fim da transmissão.",
+   "Itens deliberados: Via Bahia (arquivamento da caducidade), novo Regimento Interno (vista coletiva), metas ferroviárias (voto-vista de Davi Barreto), ajuste final de contas da Concepa, recurso da Autopista Fernão Dias, Helena Avelino Silva Eireli, 5ª etapa da consolidação de atos normativos e, extrapauta, a 3ª revisão ordinária da Via Sul.",
+   "Pelas votações lidas, estiveram presentes o DG e dois diretores (Davi Barreto e Guilherme Sampaio)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:07:13",
+   "processo": "",
+   "interessado": "Ata da RD 927",
+   "assunto": "Aprovação da ata da reunião de diretoria nº 927",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "",
+   "resultado": "aprovada por unanimidade",
+   "resumo_voto": "Leitura dispensada.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:07:25",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "0:07:28",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo",
+     "ts": "0:07:30",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.2.5",
+   "ts": "0:08:13",
+   "processo": "50502.246817/2017-13 (número aproximado pela legenda)",
+   "interessado": "Corregedoria (COREG)",
+   "assunto": "Processo administrativo disciplinar de acesso restrito (art. 64, V, e art. 65, XI, da IN CGU 14/2018), julgado ao final da sessão, sem transmissão",
+   "tema": [
+    "institucional",
+    "fiscalização e sanções"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "julgamento reservado (sem conteúdo público)",
+   "resumo_voto": "DG informa que o julgamento ocorre após o encerramento da transmissão ao vivo, com participação restrita a parte e procurador.",
+   "votos": []
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:08:28",
+   "processo": "50511.89520/2021-59 (número aproximado)",
+   "interessado": "Via Bahia Concessionária de Rodovias S.A. (BR-116/324/BA)",
+   "assunto": "Processo administrativo ordinário de caducidade (inadimplência de multas): arquivamento por perda de objeto",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovado por unanimidade, nos termos do voto do relator",
+   "resumo_voto": "A caducidade foi instalada pela Deliberação 424 (dezembro de 2021) por não pagamento de cinco multas transitadas em julgado; decisão judicial suspendeu o procedimento enquanto exigibilidade suspensa, mas em 12/01/2022 a concessionária pagou as multas e a Coordenação de Arrecadação atestou. A comissão processante propôs arquivar por perda de objeto; PF (Nota 230) concordou. O relator reconhece que houve mora, mas sanada ainda na fase inicial, e entende suficiente para encerrar o processo e manter o contrato.",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, arquivamento por perda de objeto",
+     "ts": "0:08:50",
+     "justificativa": "mora sanada em fase inicial; cumprimento da obrigação suficiente para a continuidade do contrato",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo com o relator",
+     "ts": "0:11:44",
+     "justificativa": "parecer jurídico e técnico",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:11:50",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:12:05",
+   "processo": "50500.015779/2022-19",
+   "interessado": "Diretoria Colegiada / SUGOV",
+   "assunto": "Proposta de novo Regimento Interno da ANTT (em substituição ao aprovado pela Resolução de 12/05/2020; número lido como 588 pela legenda)",
+   "tema": [
+    "institucional",
+    "regulação normativa"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "vista coletiva (art. 121 do RI); deliberação na próxima reunião",
+   "resumo_voto": "Relator apresenta a proposta: reestruturação (gerência de autos de infração e apoio para a Superintendência de Gestão Administrativa; gestão de pessoas e gestão documental reorganizadas; superintendência passa a se chamar de governança, gestão estratégica e de pessoal), criação de assessorias especiais ligadas à Diretoria-Geral, delimitação da Secretaria Executiva da Comissão de Ética, competência das superintendências para instaurar PAO, distribuição de processos até o fim de mandatos, reunião deliberativa eletrônica com publicação antes do término quando unânime, reunião administrativa da Diretoria, vigência conjunta com a resolução da nova estrutura. Voto pela aprovação; o DG aplica a vista coletiva e o processo será deliberado na próxima reunião.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova a proposta de novo Regimento Interno",
+     "ts": "0:12:10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "concede vista coletiva (art. 121 do RI)",
+     "ts": "0:19:15",
+     "justificativa": "processo será liberado na próxima reunião de diretoria",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:19:27",
+   "processo": "50500.117561/2021-17",
+   "interessado": "SUFER",
+   "assunto": "Proposta de alteração da Resolução ANTT sobre pactuação de metas de produção e segurança nas concessões ferroviárias (dispensa para contratos com investimentos pré-determinados e indicadores de prestação), com dispensa de AIR e de audiência pública (voto-vista)",
+   "tema": [
+    "ferrovias",
+    "regulação normativa"
+   ],
+   "relator": "Guilherme Sampaio (relator original); Davi Barreto (voto-vista/revisor)",
+   "resultado": "aprovado por unanimidade, nos termos do voto do revisor",
+   "resumo_voto": "Proposta apresentada na RDE 78 (31/01 a 04/02) por Guilherme Sampaio; Davi pediu vista. Concorda no mérito: os contratos prorrogados antecipadamente a partir de 2019 trazem investimentos obrigatórios e indicadores (ISF, acidentes graves, velocidade média, idade da frota), tornando inadequada a pactuação de metas. Propõe que a mudança se dê por alteração da própria resolução (e não por deliberação ad hoc), com dispensa de AIR e de audiência pública, por ser ajuste de normas já submetido ao TCU/PF, e fixa vigência em 1º/04/2022.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "voto-vista: concorda com o mérito, altera a forma (alteração da resolução) e a vigência (1º/04/2022)",
+     "ts": "0:20:03",
+     "justificativa": "segurança jurídica, alinhamento às normas e à orientação da PF",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o voto do revisor",
+     "ts": "0:27:51",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o voto do revisor",
+     "ts": "0:28:13",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3",
+   "ts": "0:28:20",
+   "processo": "50500.192251/2017-03 (número aproximado)",
+   "interessado": "Concessionária da Rodovia Osório–Porto Alegre (Concepa) – BR-290/RS",
+   "assunto": "Ajuste final de haveres e deveres do contrato encerrado em 03/07/2018 (extensão pelo 14º TA), complementar à Deliberação 496/2020 (ajuste parcial)",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade, nos termos do voto do relator",
+   "resumo_voto": "Conclui a apuração de haveres e deveres: a Deliberação 496/2020 aprovara ajuste parcial em desfavor da concessionária (valor da ordem de R$ 141 milhões); itens pendentes, incluindo os apontados pelo TCU em processo de tomada de contas especial (indício de superfaturamento), foram analisados nas NT 3267/2021 e 859/2022. Inclui multas definitivamente constituídas (≈ R$ 1,9 milhão). Preliminar: todos os pontos da concessionária foram enfrentados e o requisito da comunicação prévia da Res. 675/2004 foi cumprido. O valor final consta na minuta de deliberação (legenda ilegível).",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova o ajuste final em desfavor da concessionária",
+     "ts": "0:28:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com o relator",
+     "ts": "0:35:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo integralmente com o relator",
+     "ts": "0:35:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.4",
+   "ts": "0:36:55",
+   "processo": "",
+   "interessado": "Autopista Fernão Dias S.A.",
+   "assunto": "Recurso contra a Decisão 32/2019 (SUINF) que manteve multa por infração ao art. 7º, VII, da Res. ANTT 4.071/2013 (sinalização horizontal com refletância inferior ao mínimo em 55 trechos monitorados)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade, nos termos do voto do relator",
+   "resumo_voto": "Recurso conhecido (tempestividade, competência e cabimento); efeito suspensivo indeferido (execução da multa só após trânsito em julgado administrativo); no mérito, a concessionária não afastou sua responsabilidade; mantida a multa com agravante de 1% por reincidência.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, conhece, nega efeito suspensivo e nega provimento",
+     "ts": "0:37:43",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com o relator",
+     "ts": "0:40:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo com o relator",
+     "ts": "0:40:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:41:05",
+   "processo": "50500.06180/2020-31 (número aproximado)",
+   "interessado": "Helena Avelino Silva Eireli (fretamento)",
+   "assunto": "Processo administrativo ordinário por apresentação de CRLV com indícios de adulteração; arquivamento quanto à administradora, comunicação ao Ministério Público",
+   "tema": [
+    "ônibus (fretamento)",
+    "fiscalização e sanções",
+    "judicializacao"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade, nos termos do voto do relator",
+   "resumo_voto": "Com base no Parecer PF 321/2021 e em precedente do colegiado, não há norma que permita sancionar a pessoa física administradora da empresa; arquiva-se o processo contra ela. Mas, como a infração restou configurada (já houve declaração de inidoneidade e cassação do TAF da empresa), o relator revoga um artigo da deliberação anterior e determina comunicar o Ministério Público por indícios de falsificação de documento (art. 297 do Código Penal).",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, arquiva contra a administradora e notifica o MP",
+     "ts": "0:41:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo com o relator",
+     "ts": "0:42:35",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo com o relator",
+     "ts": "0:42:40",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:44:44",
+   "processo": "50500.0975?/2021-37 (número parcial)",
+   "interessado": "Superintendência de governança e articulação institucional",
+   "assunto": "5ª etapa do projeto de revisão e consolidação dos atos normativos da ANTT (Decreto 10.139/2019 e IN ANTT 2/2020)",
+   "tema": [
+    "regulação normativa",
+    "institucional"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade, nos termos do voto do relator",
+   "resumo_voto": "Triagem de 79 atos (transporte rodoviário de passageiros, infraestrutura rodoviária, ferroviário de passageiros e transversais): revogação expressa de 3 resoluções e 2 portarias, e revisão/consolidação sem alteração de mérito de 10 resoluções, 1 deliberação e 1 portaria. PF considerou facultativa a consulta/audiência e avaliou a regularidade; dispensa de AIR (art. 3º, §2º, VI, Decreto 10.411/2020) justificada por não haver alteração de mérito. Mudanças de mérito do Decreto 10.776 ficam para os projetos da agenda regulatória.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aprova os produtos da 5ª etapa",
+     "ts": "0:44:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:49:35",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:49:42",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "extrapauta",
+   "ts": "0:50:16",
+   "processo": "50500.100281/2021-71",
+   "interessado": "Concessionária de Rodovias Integradas do Sul (Via Sul) – BR-101/290/386/448/RS",
+   "assunto": "Terceira revisão ordinária e reajuste da tarifa básica de pedágio (edital 1/2018), incluída extrapauta a pedido do relator por relevância e urgência",
+   "tema": [
+    "concessões rodoviárias",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade, nos termos do voto do relator",
+   "resumo_voto": "Revisão altera a TBP considerando correção do IRT, arredondamento, verba de segurança viária, desenvolvimento tecnológico e receitas extraordinárias, frentes de recuperação/manutenção, ampliação e serviços operacionais; reajuste do período de cerca de 10,06%; tarifa de R$ 4,70 para R$ 5,20 (+10,64% após arredondamento), vigente a partir de 28/03/2022. PF sem decisões judiciais impeditivas. Davi destaca que a revisão ordinária passa a ser diretriz da Diretoria, a ser feita tempestivamente nas datas dos contratos.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova a revisão e o reajuste",
+     "ts": "0:50:47",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com o relator",
+     "ts": "0:53:05",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo com o relator, registra que a revisão ordinária tem significado especial e é diretriz da Diretoria",
+     "ts": "0:53:13",
+     "justificativa": "tempestividade das revisões nas datas corretas dos contratos",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "A legenda automática erra nomes, números e siglas; valores só foram registrados quando legíveis. Votos de diretores que apenas acompanham o relator têm ts aproximado e confiança media.",
+  "Item 2.2.1 (Regimento Interno): a legenda registra uma interrupção de áudio ('sem som') e a leitura do voto foi só em parte compreensível; o número da resolução de 2020 é incerto. Valores finais do ajuste de contas da Concepa (item 2.2.3) e várias numerações de processos estão ilegíveis. O item 2.2.5 (PAD) é sigiloso e não foi transmitido. Nomes dos votantes são inferidos pelo contexto: os rótulos de falantes do .md são automáticos. Guilherme Sampaio vota após Davi Barreto, e o DG por último."
+ ]
+}

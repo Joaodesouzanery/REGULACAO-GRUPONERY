@@ -1,0 +1,122 @@
+{
+  "meta": {"video_id": "vO71AMKlMQ0", "fonte": "legenda automática do YouTube; falantes parcialmente inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "914", "data": "2021-08-24", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (na sessão referiu-se a si como diretor-geral; provável exercício interino)",
+    "diretores_presentes": ["Guilherme Sampaio", "Davi Barreto", "Fábio Rogério"],
+    "ausentes": [],
+    "observacoes": ["Parte pública encerrada às 15h18; dois processos reservados (2.3.1 e 2.3.2, relator Fábio Rogério) foram julgados ao final, em sessão restrita sem transmissão.", "Voto antecipado de Alexandre Porto (que já não compõe a diretoria) foi contado como favorável no item 2.1.1.", "Todos os itens públicos aprovados sem divergência; o 2.1.1 vinha de reunião deliberativa eletrônica (RDE 57, 9 a 13/08/2021) em que Guilherme Sampaio (DG) e Fábio Rogério se abstiveram, o que levou o processo à pauta presencial."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:50",
+      "assunto": "Aprovação da ata da reunião anterior (RD 913)",
+      "tema": ["institucional"], "relator": "Guilherme Sampaio", "resultado": "aprovada",
+      "resumo_voto": "Ata distribuída com 48 horas de antecedência; leitura dispensada.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:01:00", "confianca": "media"},
+        {"diretor": "Fábio Rogério", "voto": "de acordo", "ts": "0:01:03", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo", "ts": "0:01:06", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.1.1", "ts": "0:02:30",
+      "processo": "50500.105279/2021-54 (número parcial)", "interessado": "SUFIS (Superintendência de Fiscalização)",
+      "assunto": "Instrução normativa com diretrizes para elaboração do plano anual de fiscalização da SUFIS e das coordenações de fiscalização; voto complementar do relator incorporou sugestões de outros diretores",
+      "tema": ["fiscalização e sanções", "regulação normativa", "transporte rodoviário de cargas e passageiros"],
+      "relator": "Davi Barreto", "resultado": "aprovado (a legenda diz «por maioria»; sem divergência registrada)",
+      "resumo_voto": "Após abstenções de Guilherme Sampaio e Fábio Rogério na RDE 57, houve reunião com a SUFIS e as assessorias; o voto complementar incorporou: priorização de ações integradas em nível regional e nacional, redução de 15 para 10 ações por servidor por mês (exceções autorizáveis), metas mensais de auditoria em prestadores de TRIP e TRC, delimitação das responsabilidades da ANTT sobre infrações de trânsito e regras sobre imagens coletadas em fiscalização.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "relator, aprova com voto complementar", "ts": "0:03:00", "justificativa": "estabelecer regras e procedimentos para o plano de fiscalização; incorporou todas as contribuições dos diretores", "confianca": "alta"},
+        {"diretor": "Alexandre Porto", "voto": "favorável (voto antecipado, acompanhando o voto original; já não integra a diretoria)", "ts": "0:06:30", "confianca": "alta"},
+        {"diretor": "Fábio Rogério", "voto": "acompanha o relator, aprova a nova versão", "ts": "0:06:58", "justificativa": "objetivo era aprimorar a norma; agradece a assessoria do relator pela revisão que esclareceu pontos importantes", "tom": "cordial", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator, aprova (mudou da abstenção na RDE 57)", "ts": "0:07:33", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.1.2", "ts": "0:07:47",
+      "processo": "50500.089187/2020-71", "interessado": "Concessionária de Rodovias do Sul S.A. (Ecosul) - Polo Pelotas/RS, contrato 030/2000-MT",
+      "assunto": "17ª revisão ordinária, 14ª revisão extraordinária e reajuste da tarifa básica de pedágio",
+      "tema": ["concessões rodoviárias", "pedágio", "reequilíbrio contratual", "judicializacao"],
+      "relator": "Davi Barreto", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Processo retirado de pauta na RD 911 após sustentação oral informar decisão judicial que impedia a revisão nos termos propostos; PGF concluiu que a decisão tinha força executória e a ANTT deixou de aplicar a redução tarifária da forma proposta. Nova nota técnica: revisões resultam em -2,89%; reajuste +7,39%; efeito combinado leva a TBP de 12,30 para 12,90 após arredondamento (+4,88%, valores conforme legenda).",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "relator, aprova", "ts": "0:08:00", "justificativa": "ajustes: correção do fator, substituição do percentual de estudos projetado por real (Lei 13.103/2015), tráfego real nos fluxos marginais, receitas extraordinárias, deliberação do TCU, correção de erros materiais", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "0:11:55", "confianca": "media"},
+        {"diretor": "Fábio Rogério", "voto": "de acordo com o relator", "ts": "0:12:04", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.1.3", "ts": "0:12:23",
+      "processo": "50500.000478/2021-18", "interessado": "Concessionária de Rodovias Minas Gerais Goiás S.A. (Eco050), BR-050",
+      "assunto": "Segundo termo aditivo (correção de erro material na fórmula do fator C) e 6ª revisão ordinária, 10ª revisão extraordinária e reajuste da tarifa básica de pedágio",
+      "tema": ["concessões rodoviárias", "pedágio", "reequilíbrio contratual"],
+      "relator": "Davi Barreto", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Relator manteve o parcelamento do saldo do fator Q/C (Deliberação 444/2020) após avaliar duas simulações, para mitigar tarifa excessiva no ciclo seguinte (expectativa de incremento elevado em 2021/2022, com duplo cômputo de fatores devido ao atraso da pandemia); variação média tarifária para a categoria 1 de +5,50% conforme a legenda; aprova o termo aditivo corrigindo o erro matemático.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "relator, aprova termo aditivo, revisões e reajuste", "ts": "0:12:30", "justificativa": "mitigar impacto tarifário futuro; correção do erro na fórmula já aplicada nesta revisão; PGF não identificou impedimento judicial", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "0:17:38", "confianca": "media"},
+        {"diretor": "Fábio Rogério", "voto": "de acordo com a proposta do relator", "ts": "0:17:45", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.1.4", "ts": "0:18:04",
+      "processo": "50500.103628/2020-55", "interessado": "Concessionária BR-040 S.A. (Via 040)",
+      "assunto": "Pedido de reconsideração das ressalvas dos arts. 2º, 3º e 4º da Deliberação 119-A/2021 (anuência ao início da eficácia da cessão fiduciária de direitos creditórios com suspensão do penhor), no contexto da relicitação",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "relicitação", "garantias / financiamento"],
+      "relator": "Davi Barreto", "resultado": "aprovado por unanimidade (nova deliberação)",
+      "resumo_voto": "Acolhe a exclusão das ressalvas dos arts. 2º e 3º, mantendo a ressalva do art. 4º (valor excedente da receita tarifária, condicionado ao fim da relicitação, como redutor de indenização), seguindo a PGF e a área técnica; mérito da cessão fiduciária já decidido na Deliberação 119/2021.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "relator, aprova reconsideração parcial e nova deliberação", "ts": "0:18:15", "justificativa": "condição suspensiva exigida pelos bancos fiadores; cláusulas contratuais já impedem comprometimento da continuidade do serviço", "confianca": "alta"},
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo com o relator", "ts": "0:23:40", "confianca": "media"},
+        {"diretor": "Fábio Rogério", "voto": "de acordo", "ts": "0:23:48", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2.4.1", "ts": "0:24:11",
+      "processo": "50503.006187/2019-52 (número parcial)", "interessado": "SUFER",
+      "assunto": "Alteração da Resolução 5.920/2020 (transporte ferroviário de cargas por operadora ferroviária independente, OFI): correções de inconsistências materiais, com dispensa de participação social e AIR",
+      "tema": ["ferrovias", "regulação normativa"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Ajustes meramente materiais após a publicação; acatadas as recomendações da PGF; afasta formalidades do processo regulatório (participação social e AIR) com base nos arts. 98 e 115 do Regimento Interno e no relatório de diretoria 424/21.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova", "ts": "0:24:20", "justificativa": "correção de inconsistências; dispensa de participação social para ajustes meramente materiais", "confianca": "alta"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:27:25", "confianca": "media"},
+        {"diretor": "Fábio Rogério", "voto": "de acordo", "ts": "0:27:30", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3.1", "ts": "0:27:46",
+      "processo": "50500.013785/2021-91 (número parcial)", "interessado": "Assuntos gerais (despacho do DG)",
+      "assunto": "Cancelamento de distribuição de processo, por solicitação com base no art. 66, par. 4º, do Regimento Interno; processo retorna à Superintendência",
+      "tema": ["institucional"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado (distribuição cancelada)",
+      "resumo_voto": "Sem detalhes na legenda sobre o mérito.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "de acordo", "ts": "0:28:05", "confianca": "baixa"},
+        {"diretor": "Fábio Rogério", "voto": "de acordo", "ts": "0:28:10", "confianca": "baixa"},
+        {"diretor": "Davi Barreto", "voto": "de acordo", "ts": "0:28:15", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2.3.1", "ts": "0:01:07",
+      "processo": "50500.024580/2014-38 (número parcial)", "interessado": "Concessionária Rio-Teresópolis S.A. (CRT)",
+      "assunto": "Recurso contra a Decisão 111/2020 (processo reservado, julgado ao final sem transmissão)",
+      "tema": ["fiscalização e sanções", "concessões rodoviárias", "sigilo"],
+      "relator": "Fábio Rogério", "resultado": "julgamento reservado, não transmitido",
+      "resumo_voto": "Sem conteúdo na transmissão pública (art. 60, par. 1º do Regimento Interno).",
+      "votos": []
+    },
+    {
+      "id": "2.3.2", "ts": "0:01:07",
+      "processo": "50500.327643/2017-91 (número parcial)", "interessado": "Gontijo de Transportes Ltda. e Edson Agência de Viagens e Turismo",
+      "assunto": "Pedido de reconsideração e revisão da Deliberação 911/2019 (processo reservado, julgado ao final sem transmissão)",
+      "tema": ["fiscalização e sanções", "ônibus (transporte regular, TAR)", "sigilo"],
+      "relator": "Fábio Rogério", "resultado": "julgamento reservado, não transmitido",
+      "resumo_voto": "Sem conteúdo na transmissão pública (art. 60, par. 1º do Regimento Interno).",
+      "votos": []
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática com erros em nomes e números (percentuais e valores de tarifa devem ser conferidos nas deliberações).", "Falantes só parcialmente rotulados; ts de votos de acompanhamento aproximados.", "No 2.1.1 a legenda diz «por maioria», mas todos os diretores presentes votaram a favor; manteve-se aprovado.", "Processos reservados (2.3.1 e 2.3.2) sem conteúdo disponível.", "Quem presidiu: Guilherme Sampaio abre a sessão e se refere ao «diretor-geral eu»; verificar se era DG interino (Rafael Vitale aparece como DG na RD 921)."]
+}

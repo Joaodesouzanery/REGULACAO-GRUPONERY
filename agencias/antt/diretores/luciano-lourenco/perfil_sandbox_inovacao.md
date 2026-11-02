@@ -1,16 +1,17 @@
 # Perfil analítico — Luciano Lourenço · tema: sandbox_inovacao
 
-**Amostra:** presente em 59 das 64 reuniões analisadas em que há registro de presença/ausência; 12 votos neste tema; 7 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 82 das 88 reuniões analisadas em que há registro de presença/ausência; 13 votos neste tema; 8 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 5 (100% dos votos em que não era relator) · relator 7 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
-**Como relator:** 7/7 relatorias aprovadas por unanimidade.
+**Votos:** acompanha o relator 5 (100% dos votos em que não era relator) · relator 8 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Como relator:** 8/8 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** fiscalizacao_sancoes 302/83; concessoes_rodoviarias 260/74; onibus 148/42; onibus_regular 107/27; regulacao_normativa 81/25; reequilibrio_contratual 79/28; participacao_social 66/16; leilao_otimizacao 49/4; ferrovias 49/16; judicializacao 46/13; institucional 45/4; onibus_fretamento 40/15; pedagio_freeflow 20/13; cargas 20/3; sustentabilidade 12/3; sandbox_inovacao 12/7; tarifa_modicidade 3/2; onibus_semiurbano 2/0
+**Temas (nº de itens em que votou / relatorias):** fiscalizacao_sancoes 340/92; concessoes_rodoviarias 303/83; onibus 174/47; onibus_regular 122/31; regulacao_normativa 120/35; reequilibrio_contratual 93/31; participacao_social 89/20; ferrovias 72/23; leilao_otimizacao 65/5; institucional 65/4; judicializacao 62/17; onibus_fretamento 50/16; pedagio_freeflow 29/14; cargas 28/5; sandbox_inovacao 13/8; sustentabilidade 12/3; tarifa_modicidade 4/2; onibus_semiurbano 4/1
 **Argumentos recorrentes nas justificativas registradas:** segurança jurídica (1); segurança viária (1); sustentabilidade (1); concorrência (1)
 **Tom (inferência da leitura, não métrica):** firme | entusiástico | entusiasmado | técnico
 
 ## Evidências (reunião · item · voto · justificativa)
 
+- **RD 943 (2022-11-03)**, item 2.4.1 — Relatório final da Audiência Pública 2/2022 e aprovação da minuta de resolução do ambiente regulatório experimental (sandbox regulatório) · voto: *relator, aprova relatório e resolução* (relator, conf. alta) · «sandbox reduz incertezas e permite testar regras antes de consolidá-las» · [vídeo](https://www.youtube.com/watch?v=MamI8NVrbBs&t=4160s) · resultado: aprovado por unanimidade
 - **RD 949 (2023-02-02)**, item 2.3.3 — Recurso (pedido de reconsideração) contra a Deliberação 389/2022 que cassou a autorização de fretamento por circuito aberto e venda de bilhe · voto: *relator, nega provimento* (relator, conf. alta) · «empresa foi alertada por ofícios do risco de cassação; todos os argumentos já enfrentados no voto DDD 109/2022» · [vídeo](https://www.youtube.com/watch?v=58YX4d-4chY&t=3020s) · resultado: aprovado por unanimidade — conhecido, sem efeito suspensivo; não provi
 - **RD 950 (2023-02-16)**, item 2.4.2 — Termo aditivo ao contrato de concessão (edital 3/2021) para regulamentar obrigações e efeitos do sandbox regulatório do pedágio em fluxo liv · voto: *relator, aprova o termo aditivo* (relator, conf. alta) · «inovação regulatória, comportamental e tecnológica (Pró-Rev); projeto replicável em outras concessões» · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=3143s) · resultado: aprovado por unanimidade (votado em conjunto com 2.4.3)
 - **RD 950 (2023-02-16)**, item 2.4.3 — Aprovação do termo de referência e plano de trabalho do ambiente regulatório experimental (sandbox) para teste de cobrança eletrônica em flu · voto: *relator, aprova o termo de referência e o plano de trabalho* (relator, conf. alta) · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=3143s) · resultado: aprovado por unanimidade (votado em conjunto com 2.4.2)

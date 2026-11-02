@@ -1,0 +1,19 @@
+# Perfil analítico — Menezes (nome incerto) · tema: fiscalizacao_sancoes
+
+**Amostra:** presente em 15 das 15 reuniões analisadas em que há registro de presença/ausência; 8 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+
+**Votos:** acompanha o relator 6 (100% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Como relator:** 2/2 relatorias aprovadas por unanimidade.
+
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 32/4; regulacao_normativa 26/6; institucional 25/2; participacao_social 16/5; reequilibrio_contratual 14/0; ferrovias 13/5; pedagio_freeflow 10/0; onibus 10/1; leilao_otimizacao 8/2; fiscalizacao_sancoes 8/2; onibus_regular 7/0; judicializacao 5/0; cargas 5/1; tarifa_modicidade 3/0; onibus_semiurbano 3/1
+
+## Evidências (reunião · item · voto · justificativa)
+
+- **RD 891 (2021-03-09)**, item 2.1.1 — Proposição de edição de súmulas: multas moratórias e sanções previstas em contrato de concessão prevalecem sobre as da regulamentação normat · voto: *de acordo com a retirada* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=avr7ZpONzto&t=680s) · resultado: retirado de pauta pelo relator (retirada aprovada; legenda diz «por ma
+- **RD 892 (2021-03-16)**, item 2.2.1 — 7ª revisão ordinária, 8ª revisão extraordinária, desconto de reequilíbrio e reajuste da tarifa básica de pedágio da Eco101 (Edital 1/2011) e · voto: *de acordo* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=_slnrK0MRSw&t=3023s) · resultado: aprovado por unanimidade
+- **RD 894 (2021-03-30)**, item 2.1.2 — Edição de súmulas sobre aplicação de multa moratória e sanções administrativas previstas em contrato de concessão · voto: *de acordo* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=ZrX6XBJsIXo&t=481s) · resultado: aprovado por unanimidade (após vista coletiva em 23/03/2021)
+- **RD 67 (extraordinária) (2021-03-31)**, item 1.1.1 — Proposta de medida cautelar de restabelecimento da tarifa básica de pedágio (e categoria 1) nas praças P1 (Onda Verde), P2 (José Bonifácio), · voto: *de acordo com o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=8LEQ2qPrIg0&t=690s) · resultado: aprovado por unanimidade (deliberação notificando a concessionária)
+- **RD 896 (2021-04-13)**, item 2.3.4 — Inclusão de mercados na licença operacional (LOP) e análise de impugnações (ônibus interestadual) · voto: *de acordo* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=NjSTSz_qmS0&t=2359s) · resultado: aprovado por unanimidade — indeferido o pedido da Viação Marli; impugn
+- **RD 898 (2021-04-27)**, item 2.3.1 — Audiência Pública 14/2019: relatório final e resolução do processo administrativo de extinção por caducidade de contratos de concessão rodov · voto: *relator, de acordo* (relator, conf. baixa) · «aderiu às alterações do revisor» · [vídeo](https://www.youtube.com/watch?v=qTKOq7Jx1os&t=2390s) · resultado: aprovado por unanimidade; requerimento da associação de usuários conhe
+- **RD 901 (2021-05-18)**, item 2.4.2 — Abertura ao tráfego ferroviário público de cargas, em regime de comissionamento, do trecho entre Pátio de São Simão e Santa Helena (GO), ext · voto: *relator, autoriza* (relator, conf. alta) · [vídeo](https://www.youtube.com/watch?v=LlN-qKuCLyE&t=1110s) · resultado: aprovado por unanimidade
+- **RD 906 (2021-06-22)**, item 2.1.1 — Abertura de audiência pública sobre minutas de TAC (plano de ação e TAC multas) para correção de descumprimentos contratuais apurados no pro · voto: *de acordo* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=EdMj6bhyq-M&t=184s) · resultado: aprovado por unanimidade

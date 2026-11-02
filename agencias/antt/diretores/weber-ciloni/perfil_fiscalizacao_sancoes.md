@@ -1,0 +1,18 @@
+# Perfil analítico — Weber Ciloni · tema: fiscalizacao_sancoes
+
+**Amostra:** presente em 13 das 16 reuniões analisadas em que há registro de presença/ausência; 6 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+
+**Votos:** acompanha o relator 4 (100% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Como relator:** 1/2 relatorias aprovadas por unanimidade.
+
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 27/2; regulacao_normativa 19/2; institucional 16/4; reequilibrio_contratual 13/0; pedagio_freeflow 10/0; onibus 9/2; ferrovias 9/3; participacao_social 8/0; onibus_regular 7/0; judicializacao 7/0; fiscalizacao_sancoes 6/2; leilao_otimizacao 3/0; onibus_semiurbano 2/2; tarifa_modicidade 1/0; cargas 1/0
+**Argumentos recorrentes nas justificativas registradas:** participação social (1)
+
+## Evidências (reunião · item · voto · justificativa)
+
+- **RD 891 (2021-03-09)**, item 2.1.1 — Proposição de edição de súmulas: multas moratórias e sanções previstas em contrato de concessão prevalecem sobre as da regulamentação normat · voto: *de acordo com a retirada* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=avr7ZpONzto&t=668s) · resultado: retirado de pauta pelo relator (retirada aprovada; legenda diz «por ma
+- **RD 892 (2021-03-16)**, item 2.2.1 — 7ª revisão ordinária, 8ª revisão extraordinária, desconto de reequilíbrio e reajuste da tarifa básica de pedágio da Eco101 (Edital 1/2011) e · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=_slnrK0MRSw&t=3013s) · resultado: aprovado por unanimidade
+- **RD 893 (2021-03-23)**, item 2.1.2a — Proposta de edição de súmulas: nº 3 (multa moratória conta atraso mesmo com reprogramação de cronograma) e nº 4 (sanções do contrato de conc · voto: *relator: aprova súmula 4; rejeita súmula 3; abre vista coletiva* (relator, conf. alta) · «súmula deve refletir entendimento pacífico, o que não há quanto à multa moratória; tema deve ir à participação social; sanções contratuais prevalecem por coerência com o contrato» · [vídeo](https://www.youtube.com/watch?v=12n-vPNyITM&t=608s) · resultado: vista coletiva (art. 121 RI); deliberação na próxima reunião
+- **RD 893 (2021-03-23)**, item 2.1.2b — Levantamento de falhas e transgressões; aplicação do art. 38 da Lei 8.987/95 (notificação para correção sob pena de caducidade) · voto: *relator, aprova* (relator, conf. alta) · «tratativas de TAC não avançaram e tinham caráter protelatório; necessário fiscalizar o cumprimento do contrato» · [vídeo](https://www.youtube.com/watch?v=12n-vPNyITM&t=877s) · resultado: aprovado por unanimidade
+- **RD 894 (2021-03-30)**, item 2.1.2 — Edição de súmulas sobre aplicação de multa moratória e sanções administrativas previstas em contrato de concessão · voto: *de acordo* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=ZrX6XBJsIXo&t=472s) · resultado: aprovado por unanimidade (após vista coletiva em 23/03/2021)
+- **RD 898 (2021-04-27)**, item 2.3.1 — Audiência Pública 14/2019: relatório final e resolução do processo administrativo de extinção por caducidade de contratos de concessão rodov · voto: *acompanha o relator (e o revisor)* (revisor_acompanha, conf. media) · «preocupação com amplitude da divulgação; sugere ampla divulgação ao público de apurações de caducidade» · [vídeo](https://www.youtube.com/watch?v=qTKOq7Jx1os&t=2100s) · resultado: aprovado por unanimidade; requerimento da associação de usuários conhe

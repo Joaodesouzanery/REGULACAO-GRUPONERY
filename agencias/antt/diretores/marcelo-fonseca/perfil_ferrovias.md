@@ -1,6 +1,6 @@
 # Perfil analítico — Marcelo Fonseca · tema: ferrovias
 
-**Amostra:** presente em 5 das 6 reuniões analisadas em que há registro de presença/ausência; 4 votos neste tema; 1 relatorias. ⚠️ n < 5: tratar como indício, não como perfil.
+**Amostra:** presente em 10 das 11 reuniões analisadas em que há registro de presença/ausência; 4 votos neste tema; 1 relatorias. ⚠️ n < 5: tratar como indício, não como perfil.
 
 **Votos:** acompanha o relator 3 (100% dos votos em que não era relator) · relator 1 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 1/1 relatorias aprovadas por unanimidade.

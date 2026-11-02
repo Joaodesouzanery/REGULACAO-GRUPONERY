@@ -1,0 +1,28 @@
+{
+  "meta": {"video_id": "8LEQ2qPrIg0", "fonte": "legenda automática do YouTube (sem falantes inferidos); ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "67 (extraordinária)", "data": "2021-03-31", "formato": "videoconferência (Lei 13.979, pandemia)",
+    "presidente_da_sessao": "não identificado na legenda (provável Alexandre Porto; baixa confiança)",
+    "diretores_presentes": ["Davi Barreto", "Eduardo Marra (grafia incerta)", "Moacir Menezes (grafia incerta)", "presidente da sessão (não nomeado)"],
+    "ausentes": [],
+    "observacoes": ["Reunião extraordinária com um único item (cautelar/notificação à Transbrasiliana). Encerrada às 16h22.", "Relatoria sorteada em sorteio extraordinário no mesmo dia; reunião convocada com base no art. 59 do Regimento por urgência."]
+  },
+  "itens": [
+    {
+      "id": "1.1.1", "ts": "0:00:43",
+      "processo": "50500.018284/2021-61", "interessado": "Transbrasiliana Concessionária de Rodovia S.A. (Triunfo)",
+      "assunto": "Proposta de medida cautelar de restabelecimento da tarifa básica de pedágio (e categoria 1) nas praças P1 (Onda Verde), P2 (José Bonifácio), P3 e P4 (Marília), conforme Deliberação 989/2019, e apuração de infração; concessionária passou a cobrar R$ 7,70 a partir de 06/03/2021 invocando decisão em mandado de segurança",
+      "tema": ["concessões rodoviárias", "pedágio", "judicializacao", "fiscalização e sanções", "reequilíbrio contratual"],
+      "relator": "Davi Barreto", "resultado": "aprovado por unanimidade (deliberação notificando a concessionária)",
+      "resumo_voto": "A concessionária aplicou unilateralmente a tarifa da Res. 4.973/2015 (obras do lote 1 e travessia de São José do Rio Preto) com base em decisão judicial; PGF/ANTT viu interpretação teratológica e ato de maior gravidade. O relator entendeu que a decisão judicial não autoriza o aumento imediato (obras diferentes, valores aprovados pela ANTT são cerca de metade, reajuste só concomitante à execução), mas, como a cautelar caberia à Diretoria Colegiada e não à Superintendência, votou por deliberação que notifica a concessionária a restabelecer imediatamente a tarifa vigente, sob pena de processo de caducidade.",
+      "votos": [
+        {"diretor": "Davi Barreto", "voto": "relator, aprova notificação para restabelecer a tarifa imediatamente, sob pena de caducidade", "ts": "0:02:20", "justificativa": "sem respaldo para alteração unilateral de tarifa; decisão judicial é mandamental e condiciona o reajuste à execução concomitante das obras; risco de dano irreparável aos usuários (pagando 7,70 em vez de 5,20 segundo a legenda); conduta gravíssima", "tom": "enfático (diz que em dois anos na agência nunca viu comportamento assim: «algo espantoso»)", "confianca": "alta"},
+        {"diretor": "Eduardo Marra", "voto": "de acordo com o relator", "ts": "0:11:25", "confianca": "media"},
+        {"diretor": "Moacir Menezes", "voto": "de acordo com o relator", "ts": "0:11:30", "confianca": "media"},
+        {"diretor": "Alexandre Porto", "voto": "de acordo com o relator (presidente da sessão; identidade inferida)", "ts": "0:11:40", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda sem separação de falantes e com muitos erros; nomes dos diretores (Eduardo Marra, Moacir Menezes) e do presidente da sessão são inferidos e podem estar errados; verificar no DOU/ata.", "Valores de tarifa (R$ 7,70; 5,20) e números de processos/ações judiciais vêm da legenda e podem estar incorretos.", "Ts dos votos de acompanhamento aproximados."]
+}

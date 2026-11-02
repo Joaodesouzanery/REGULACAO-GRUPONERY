@@ -1,16 +1,18 @@
 # Perfil analítico — Guilherme Sampaio · tema: sandbox_inovacao
 
-**Amostra:** presente em 112 das 120 reuniões analisadas em que há registro de presença/ausência; 30 votos neste tema; 10 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 158 das 167 reuniões analisadas em que há registro de presença/ausência; 32 votos neste tema; 10 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 20 (100% dos votos em que não era relator) · relator 10 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 22 (100% dos votos em que não era relator) · relator 10 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 10/10 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 391/87; fiscalizacao_sancoes 368/68; onibus 210/35; onibus_regular 149/24; reequilibrio_contratual 127/25; regulacao_normativa 121/28; leilao_otimizacao 110/38; participacao_social 103/25; judicializacao 87/14; ferrovias 85/17; institucional 71/21; pedagio_freeflow 52/6; onibus_fretamento 49/10; cargas 37/9; sandbox_inovacao 30/10; sustentabilidade 22/5; tarifa_modicidade 15/0; onibus_semiurbano 8/2; outros 1/0
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 502/120; fiscalizacao_sancoes 445/94; onibus 262/53; regulacao_normativa 215/47; onibus_regular 180/35; reequilibrio_contratual 174/34; participacao_social 158/43; leilao_otimizacao 154/52; ferrovias 148/25; institucional 123/30; judicializacao 121/19; pedagio_freeflow 80/13; onibus_fretamento 62/16; cargas 55/11; sandbox_inovacao 32/10; sustentabilidade 26/6; tarifa_modicidade 25/2; onibus_semiurbano 14/2; outros 1/0
 **Argumentos recorrentes nas justificativas registradas:** transparência (4); eficiência/celeridade (2); TCU/controle externo (2); segurança viária (1); participação social (1); concorrência (1)
-**Tom (inferência da leitura, não métrica):** crítico | entusiasmado
+**Tom (inferência da leitura, não métrica):** favorável | crítico | entusiasmado
 
 ## Evidências (reunião · item · voto · justificativa)
 
+- **RD 927 (2022-03-10)**, item 2.2.2 — Abertura de audiência pública sobre a minuta de resolução do sandbox regulatório (ambiente regulatório experimental) · voto: *de acordo com o relator* (acompanha, conf. alta) · «a agência está na vanguarda ao tratar de experimentação regulatória» · [vídeo](https://www.youtube.com/watch?v=vD2mixuNuv8&t=1280s) · resultado: aprovado por unanimidade
+- **RD 943 (2022-11-03)**, item 2.4.1 — Relatório final da Audiência Pública 2/2022 e aprovação da minuta de resolução do ambiente regulatório experimental (sandbox regulatório) · voto: *acompanha integralmente* (acompanha, conf. alta) · ««gol de placa»; vanguarda regulatória» · [vídeo](https://www.youtube.com/watch?v=MamI8NVrbBs&t=4678s) · resultado: aprovado por unanimidade
 - **RD 949 (2023-02-02)**, item 2.3.3 — Recurso (pedido de reconsideração) contra a Deliberação 389/2022 que cassou a autorização de fretamento por circuito aberto e venda de bilhe · voto: *acompanha o relator e propõe encaminhamento adicional* (acompanha, conf. alta) · «argumentos da sustentação foram exaustivamente enfrentados em outros casos; lei admite cassação; estudo da Fiac/Seae não vincula a agência; propõe que a Procuradoria apure abuso de peticionamento e tumulto processual» · [vídeo](https://www.youtube.com/watch?v=58YX4d-4chY&t=3460s) · resultado: aprovado por unanimidade — conhecido, sem efeito suspensivo; não provi
 - **RD 950 (2023-02-16)**, item 2.4.2 — Termo aditivo ao contrato de concessão (edital 3/2021) para regulamentar obrigações e efeitos do sandbox regulatório do pedágio em fluxo liv · voto: *acompanha integralmente o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=4500s) · resultado: aprovado por unanimidade (votado em conjunto com 2.4.3)
 - **RD 950 (2023-02-16)**, item 2.4.3 — Aprovação do termo de referência e plano de trabalho do ambiente regulatório experimental (sandbox) para teste de cobrança eletrônica em flu · voto: *acompanha integralmente o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=4500s) · resultado: aprovado por unanimidade (votado em conjunto com 2.4.2)

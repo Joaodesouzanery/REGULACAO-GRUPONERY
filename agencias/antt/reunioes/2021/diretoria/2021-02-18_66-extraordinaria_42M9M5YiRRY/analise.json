@@ -1,0 +1,147 @@
+{
+ "meta": {
+  "video_id": "42M9M5YiRRY",
+  "fonte": "legenda automática do YouTube; falantes inferidos (sem marcação de falante); ts de votos de quem só concorda aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "66 (extraordinária)",
+  "data": "2021-02-18",
+  "formato": "videoconferência (pandemia)",
+  "presidente_da_sessao": "Presidente da sessão (não identificado)",
+  "diretores_presentes": [
+   "Weber Ciloni",
+   "Davi Barreto",
+   "Marcelo Vinaud",
+   "Presidente da sessão (não identificado)"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Reunião extraordinária curta (encerrada às 14h41), com um item retirado de pauta e dois despachos de cancelamento de distribuição.",
+   "Última reunião do diretor Marcelo (ouvido como «Marcelo virou/renor»; provavelmente Marcelo Vinaud, ex-diretor-geral em 2020). Homenagens de Weber Ciloni, Davi Barreto, da procuradora Priscila e do presidente da sessão; Marcelo recorda ter assumido a direção-geral em 2020 e deixa a agência."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1.1",
+   "ts": "0:18:50",
+   "processo": "50500.127986/2020-53",
+   "interessado": "Concessionária da Rodovia Presidente Dutra S.A. (CCR NovaDutra)",
+   "assunto": "Proposta de celebração do 13º termo aditivo ao contrato de concessão (edital PG-137/95) — extensão contratual",
+   "tema": [
+    "concessões rodoviárias",
+    "prorrogação / aditivo contratual"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "retirado de pauta pelo relator (aprovada a retirada por unanimidade); recolocado para 23/02/2021",
+   "resumo_voto": "Davi Barreto pede retirada: só nesta data chegou a versão final do parecer jurídico com recomendações; prefere ajustar a minuta antes de votar. Reconhece a urgência (contrato vence em 28/02) e se compromete a trazer na reunião de 23/02, a tempo de assinar antes do termo final.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, pede retirada de pauta",
+     "ts": "0:19:16",
+     "justificativa": "analisar com cuidado as recomendações do parecer jurídico final e ajustar a minuta; compromisso de pautar em 23/02",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com a retirada",
+     "ts": "0:20:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com a retirada",
+     "ts": "0:20:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Presidente da sessão (não identificado)",
+     "voto": "de acordo com a retirada",
+     "ts": "0:20:03",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1",
+   "ts": "0:20:31",
+   "processo": "50500.090850/2012 (legenda; incerto)",
+   "interessado": "não informado",
+   "assunto": "Despacho de cancelamento de distribuição de processo (assuntos gerais)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "não informado",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Pedido de cancelamento de distribuição aprovado sem debate.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:20:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:20:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:20:58",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2",
+   "ts": "0:21:09",
+   "processo": "50500.015235/2012 (legenda; incerto)",
+   "interessado": "não informado",
+   "assunto": "Despacho de cancelamento de distribuição de processo (assuntos gerais)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "não informado",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Pedido de cancelamento de distribuição aprovado sem debate.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:21:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:21:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:21:40",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "1.1.1 — 13º termo aditivo da concessão da Rodovia Presidente Dutra",
+   "relator": "Davi Barreto",
+   "motivo": "parecer jurídico final com recomendações chegou no dia; ajustes na minuta; volta em 23/02/2021 (contrato vence em 28/02)",
+   "ts": "0:19:16"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática sem marcação de falante; os rótulos de falante do .md (ex.: Marcelo Fonseca) são heurística e não valem para esta reunião.",
+  "Identidade do presidente da sessão não confirmada; «Marcelo» (diretor que se despede) tratado como Marcelo Vinaud por inferência; «Weber Ciloni» inferido da legenda (deve Sillones/Cilloni).",
+  "Números de processo dos despachos 2.1 e 2.2 incertos.",
+  "Homenagens ao final (≈ 0:21:53 a 0:34:20) sem conteúdo deliberativo."
+ ]
+}

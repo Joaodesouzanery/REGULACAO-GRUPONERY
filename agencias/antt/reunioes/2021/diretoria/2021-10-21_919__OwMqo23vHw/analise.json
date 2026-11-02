@@ -1,0 +1,444 @@
+{
+ "meta": {
+  "video_id": "_OwMqo23vHw",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "919",
+  "data": "2021-10-21",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Davi Barreto",
+   "Guilherme Sampaio"
+  ],
+  "ausentes": [
+   "Fábio Rogério (férias)"
+  ],
+  "observacoes": [
+   "Encerrada às 16h54 (2h06 de vídeo).",
+   "Pedidos de vista de Guilherme Sampaio nos itens 2.1.2 (compatibilidade locacional de autorizações ferroviárias, Rumo × Vale/VLI) e 2.2.3 (contrato de adesão das autorizações ferroviárias).",
+   "Rota do Oeste (BR-163/MT): TAC retirado de pauta pelo relator para nova versão; processo de caducidade instaurado por unanimidade.",
+   "Itens retirados de pauta por Guilherme Sampaio: 2.3.1 (manual de participação social) e 2.3.3 (Eucatur)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1",
+   "ts": "0:02:20",
+   "processo": "50530.3035/2019-53 (legenda)",
+   "interessado": "Cooperativa de Transporte Complementar Interestadual (Cotrams)",
+   "assunto": "Pedido de reconsideração contra a Deliberação 339/2020 que aplicou a penalidade de cassação (art. 78-H Lei 10.233)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovado por unanimidade — nega provimento",
+   "resumo_voto": "Conhece o recurso sem efeito suspensivo (não demonstrado risco); mérito: sem fatos novos, penalidade alinhada à legislação, titular da autorização é a cooperativa e não cada cooperado.",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:02:20",
+     "justificativa": "sem elementos novos; titular do termo é a cooperativa",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:05:41",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "0:05:44",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:08:00",
+   "processo": "50500.097019/2021-42",
+   "interessado": "Ministério da Infraestrutura / Rumo, VLI e Fazenda Campo Grande",
+   "assunto": "Declaração de compatibilidade locacional (MP 1.065/2021 e Portaria MInfra 131/2021) de quatro requerimentos de autorização ferroviária: VLI Multimodal (Água Boa–Lucas do Rio Verde/MT, 508 km; Uberlândia–Chaveslândia/MG, 276,5 km; Porto Franco–Balsas/MA, 230 km) e desvios ferroviários da Fazenda Campo Grande (MRS, Santo André/SP); com sustentação oral do Dr. Leonardo Coelho Ribeiro (Rumo)",
+   "tema": [
+    "ferrovias",
+    "autorizações ferroviárias",
+    "concorrência",
+    "sustentação oral"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "vista concedida a Guilherme Sampaio",
+   "resumo_voto": "SUFER concluiu pela compatibilidade geométrica/locacional sem conflito de traçados; relator votou por declarar compatibilidade (art. 2º-3º da MP 1.065 e art. 7º §1º da Portaria 131). Rumo pediu retirada de pauta e análise concomitante dos pleitos concorrentes (Uberlândia e Água Boa), alegando prioridade retroativa ilegal da portaria, risco de violação de isonomia, representação do MPTCU e monopólio natural das ferrovias; relator manteve o voto por entender que a análise atende às normas vigentes.",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, declara compatibilidade locacional",
+     "ts": "0:30:40",
+     "justificativa": "análise atende às normas vigentes (MP 1.065, Portaria 131), apesar das ponderações da Rumo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "pede vista",
+     "ts": "0:33:19",
+     "justificativa": "coerência com análise conjunta com os demais processos de autorização ferroviária",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "sem manifestação registrada",
+     "ts": "0:33:20",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.1.3",
+   "ts": "0:33:50",
+   "processo": "50500.093742/2021-41",
+   "interessado": "SUROC / Superintendência de cargas",
+   "assunto": "Consulta pública para atualizar parâmetros e coeficientes dos pisos mínimos de frete (Res. 5.867/2020, alterada pela 5.949/2021), com prazo reduzido de 30 dias (2/11 a 2/12/2021) e dispensa de AIR",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "participação social",
+    "regulação normativa"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Metodologia consolidada; falta atualizar insumos além do IPCA, como nas duas últimas revisões; pesquisa de preços para a revisão de 20/01/2022; abertura de consulta pública com 30 dias e dispensa de AIR por justificativa da área técnica.",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, aprova consulta pública de 30 dias",
+     "ts": "0:33:50",
+     "justificativa": "necessidade de publicar novos coeficientes em janeiro de 2022",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:38:17",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "0:38:22",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:43:48",
+   "processo": "50500.027628/2021-22",
+   "interessado": "Concessionária Rota do Oeste S.A. (BR-163/MT; edital 03/2013)",
+   "assunto": "Aprovação do relatório final da Audiência Pública 6/2021 e das minutas de TAC (plano de ação e multas); sustentações orais de OAB-MT (amicus curiae, Dr. Ronilson) e da concessionária (Dr. Luiz Henrique Baeta)",
+   "tema": [
+    "concessões rodoviárias",
+    "termo de ajustamento de conduta",
+    "participação social",
+    "caducidade",
+    "sustentação oral"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "retirado de pauta a pedido do relator",
+   "resumo_voto": "Davi retira o processo para ajustes após fato novo trazido pela concessionária (troca de controle, novo investidor, ferrovia estadual autorizada em MT sobreposta à BR-163, arbitragem, valor de multas e garantia), sem mudar o texto do TAC; compromete-se a trazê-lo de volta na próxima reunião (≈ 4 de novembro) e a deliberar em paralelo a abertura da caducidade.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, retira de pauta",
+     "ts": "1:19:08",
+     "justificativa": "fato novo apresentado na véspera/sustentação; não há como ajustar depois porque decisão do TAC é irrecorrível; quer deliberar com cautela mas com urgência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com a retirada",
+     "ts": "1:19:15",
+     "justificativa": "manter senso de urgência e celeridade, com abertura ao diálogo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo; concede a retirada",
+     "ts": "1:19:20",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "1:20:13",
+   "processo": "50500.321614/2019-88",
+   "interessado": "Concessionária Rota do Oeste S.A.",
+   "assunto": "Instauração de processo administrativo de caducidade (art. 38 Lei 8.987/95; Res. ANTT 5.935/2021) por descumprimento da Del. 105/2021; sustentação oral da OAB-MT (Dr. Ronilson) e declaração final da concessionária",
+   "tema": [
+    "concessões rodoviárias",
+    "caducidade",
+    "fiscalização e sanções",
+    "sustentação oral"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Falhas e transgressões não foram corrigidas no prazo de 6 meses (fiscalização da regional RS); PF viu juridicidade; gravidade e extensão do inadimplemento (mais de 300 km de duplicação e de recuperação pendentes; 25 dispositivos); comissão processante de servidores efetivos; prazo de 180 dias; segue em paralelo a busca de TAC. Concessionária informa que adota governança para eventual devolução amigável.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova instauração do processo de caducidade",
+     "ts": "1:20:13",
+     "justificativa": "gravidade e extensão do inadimplemento; resposta necessária à sociedade de MT; processo corre em paralelo ao TAC",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "1:38:22",
+     "justificativa": "dar resposta ao inadimplemento sem prejuízo do diálogo; elogia trabalho do relator",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "1:39:22",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3",
+   "ts": "1:40:11",
+   "processo": "50500.960662/2021-67",
+   "interessado": "SUFER / Ministério da Infraestrutura",
+   "assunto": "Interveniência da ANTT em contratos de adesão de autorizações ferroviárias (modelo de minuta de contrato padrão)",
+   "tema": [
+    "ferrovias",
+    "autorizações ferroviárias",
+    "regulação normativa"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "vista concedida a Guilherme Sampaio",
+   "resumo_voto": "Relator vota por aprovar a minuta padrão e autorizar a ANTT a atuar como interveniente; refuta pedido da Rumo de sobrestamento por considerar que a minuta padrão independe da análise locacional.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova minuta de contrato de adesão",
+     "ts": "1:40:11",
+     "justificativa": "minuta já ajustada às propostas da SUFER e analisada pela PF; matéria não se mistura à compatibilidade locacional",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "pede vista",
+     "ts": "1:45:33",
+     "justificativa": "coerência com o pedido de vista do 2.1.2",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "concede vista",
+     "ts": "1:45:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.4",
+   "ts": "1:46:00",
+   "processo": "50500.079967/2021-94",
+   "interessado": "Multisat Sistema de Gerenciamento de Riscos Ltda.",
+   "assunto": "Habilitação nacional como fornecedor de vale-pedágio obrigatório e aprovação de modelos e sistemas operacionais (Res. ANTT 2.885/2008)",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "vale-pedágio"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Empresa atendeu requisitos após sanar pendências; sustentação oral dispensada.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova habilitação",
+     "ts": "1:46:00",
+     "justificativa": "requisitos da Res. 2.885 atendidos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "1:48:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo",
+     "ts": "1:48:25",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "1:49:07",
+   "processo": "50500.049314/2021-81",
+   "interessado": "SUGAP",
+   "assunto": "Aprovação da 2ª edição do manual do processo de participação e controle social",
+   "tema": [
+    "participação social",
+    "institucional"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "retirado de pauta a pedido do relator",
+   "resumo_voto": "Relator solicita retirada para aperfeiçoamentos com a área; Davi sem objeção.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, pede retirada de pauta",
+     "ts": "1:49:07",
+     "justificativa": "carece de aperfeiçoamentos junto à área",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo com a retirada",
+     "ts": "1:49:46",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "1:49:54",
+   "processo": "50520.100300/2013-11",
+   "interessado": "Autopista Planalto Sul S.A.",
+   "assunto": "Recurso contra a Decisão 277/2020 da SUINF que manteve multa por trechos com indicadores de qualidade abaixo do parâmetro de desempenho (80,80 URs)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade — nega provimento",
+   "resumo_voto": "Sem efeito suspensivo (arts. 61 Lei 9.784 e 59 Res. 6.083); recorrente não trouxe fato novo; regularidade processual atestada pela PF; mantém sanção.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "1:49:54",
+     "justificativa": "sem fato novo; ampla defesa e contraditório respeitados",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "1:54:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo",
+     "ts": "1:54:24",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.3.3",
+   "ts": "1:54:32",
+   "processo": "50500.364/2018-73 (legenda)",
+   "interessado": "Nair Ventorin Gurgacz / Eucatur – Empresa União Cascavel de Transporte e Turismo",
+   "assunto": "Proposta de arquivamento e aplicação de penalidade",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "retirado de pauta a pedido do relator",
+   "resumo_voto": "Relator quer análise mais acurada e nova manifestação da PF.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, pede retirada de pauta",
+     "ts": "1:54:32",
+     "justificativa": "necessita nova manifestação da procuradoria",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo com a retirada",
+     "ts": "1:55:00",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.3.4",
+   "ts": "1:55:23",
+   "processo": "50515.063990/2015-50 (legenda)",
+   "interessado": "MRS Logística S.A.",
+   "assunto": "Aprovação do relatório da Audiência Pública 7/2019 sobre estudos para prorrogação antecipada do contrato (30 anos), incluindo integração com ferrovia interna do Porto de Santos (Fipe/ferradura) e direito de passagem",
+   "tema": [
+    "ferrovias",
+    "concessões ferroviárias",
+    "prorrogação antecipada",
+    "participação social",
+    "portos"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Prorrogação antecipada (Lei 13.448/2017) mediante investimentos e melhorias, compartilhamento da malha, tarifa máxima de direito de passagem; duas AIRs; modelo de integração em quatro fases com o Porto de Santos; estimativa de capex ≈ R$ 16 bi (legenda) e 256 mil empregos diretos e indiretos; aprova o relatório da AP 7/2019 (13/06 a 03/09/2019).",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, aprova relatório da audiência pública",
+     "ts": "1:55:23",
+     "justificativa": "vantajosidade comprovada da prorrogação, investimentos em segurança e capacidade, compartilhamento e competição intramodal",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo, elogia a qualidade do voto",
+     "ts": "2:05:50",
+     "justificativa": "contribui para o programa de concessões; parabeniza técnicos e PF",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator, endossa palavras do Davi",
+     "ts": "2:06:12",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "2.2.1 Rota do Oeste (TAC)",
+   "motivo": "retirado de pauta por Davi Barreto",
+   "ts": "1:19:08"
+  },
+  {
+   "item": "2.3.1 Manual de participação social",
+   "motivo": "retirado de pauta por Guilherme Sampaio",
+   "ts": "1:49:07"
+  },
+  {
+   "item": "2.3.3 Eucatur",
+   "motivo": "retirado de pauta por Guilherme Sampaio",
+   "ts": "1:54:32"
+  }
+ ],
+ "limites_da_analise": [
+  "Ata da 918ª aprovada (0:02:01).",
+  "Números de processos e valores (capex, empregos, URs) vêm da legenda e podem estar errados.",
+  "O voto do relator em 2.1.2 é proferido após a sustentação oral da Rumo (~0:30:40); Davi não registra manifestação audível antes do pedido de vista.",
+  "Tempos de votos de seguidores aproximados.",
+  "Nomes de diretores pela legenda automática (ex.: «Eduardo Marra», «Menezes») são incertos; atribuição de «Menezes» a Alexandre Porto é inferência pela composição do colegiado.",
+  "Falantes das sustentações orais: Leonardo Coelho Ribeiro (Rumo), Ronilson (OAB-MT, amicus curiae), Luiz Henrique Baeta (Rota do Oeste)."
+ ]
+}

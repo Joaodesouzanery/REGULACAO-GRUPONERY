@@ -1,5 +1,13 @@
 # Itens do tema «sustentabilidade» (todos os diretores)
 
+- **RD 911 (2021-08-03)**, 1.4 · relator **Alexandre Porto** · Segundo termo aditivo ao contrato de subconcessão e primeira revisão extraordinária: transferência à Rumo do plantio compensatório / compensação ambie → aprovado por unanimidade (Fábio Rogério declarou depois impedimento e pediu que seu voto f
+  - votos: Alexandre: relator; Guilherme: acompanha; Davi: acompanha; Fábio: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=aMM9bZSp6XI&t=1499s)
+- **RD 913 (2021-08-17)**, 2.4.1 · relator **Fábio Rogério** · Aprovação do edital de concessão do Sistema Rodoviário BR-116/RJ-SP (Nova Dutra) e BR-101/RJ-SP (Rio de Janeiro–Ubatuba), 625,8 km: critério híbrido ( → aprovado por unanimidade
+  - votos: Fábio: relator; Davi: acompanha; Guilherme: acompanha; Alexandre: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=M3Oooch06TQ&t=1239s)
+- **RD 920 (2021-11-04)**, 2.2.1 · relator **Guilherme Sampaio** · Assinatura do termo de acordo na ação civil pública (Rio de Janeiro) sobre condicionantes ambientais na duplicação da BR-101 (fauna da Reserva Biológi → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Fábio: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=VZD-U2Sl7sU&t=2061s)
+- **RD 923 (2021-12-16)**, 2.4.3 · relator **Fábio Rogério** · Metodologia para levantamento detalhado das bases de ativos e passivos e apuração de empreendimentos de materialidade relevante (cláusula 7ª do 3º ter → aprovado por unanimidade
+  - votos: Fábio: relator; Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=MNr3gvJ5hlQ&t=4372s)
 - **RD 953 (2023-03-30)**, 2.2.1 · relator **Luciano Lourenço** · Instrução normativa sobre a inspeção de projetos, orçamentos e obras de engenharia por Organismos de Inspeção Acreditados (OIAs, Inmetro) nos contrato → aprovado por unanimidade
   - votos: Luciano: relator; Guilherme: acompanha; Felipe: acompanha; Lucas: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=HNl8PagFcCc&t=949s)
 - **RD 961 (2023-07-20)**, 1.2.1 · relator **Guilherme Sampaio** · Relatório final da Audiência Pública 10/2020 e resolução que regulamenta a destinação dos recursos para desenvolvimento tecnológico (RDT) e para prese → aprovado por unanimidade

@@ -1,0 +1,106 @@
+{
+ "meta": {
+  "video_id": "1o0qu7INXQM",
+  "fonte": "legenda automática do YouTube; falantes inferidos (o rótulo automático «Guilherme Sampaio» no cabeçalho do .md se refere, na fala de abertura/encerramento, ao Diretor-Geral Rafael Vitale); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "71 (extraordinária)",
+  "data": "2022-03-31",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Davi Barreto",
+   "Guilherme Sampaio"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Sessão curta (≈ 14 min de deliberação), aberta às ~9h e encerrada às 9h23 (horário da fala de encerramento).",
+   "Dois itens, ambos aprovados por unanimidade: emissão do ato de outorga da BR-163/MT/PA (voto-vista do DG) e ajustes no edital do lote Rio de Janeiro–Governador Valadares (BR-116/465/493).",
+   "Os nomes dos diretores votantes foram inferidos pelas saudações (Davi Barreto, Guilherme Sampaio); a legenda embaralha vários trechos."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1.1",
+   "ts": "0:02:29",
+   "processo": "50500.133325/2021 (número parcial pela legenda)",
+   "interessado": "Via Brasil BR-163 Concessionária de Rodovias S.A.",
+   "assunto": "Emissão do ato de outorga da BR-163/230/MT/PA e autorização para assinatura do contrato de concessão (voto-vista do Diretor-Geral; processo apresentado por Davi Barreto na RD 927 de 10/03/2022)",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização",
+    "judicializacao"
+   ],
+   "relator": "Davi Barreto (relator); Rafael Vitale (voto-vista)",
+   "resultado": "aprovado por unanimidade, nos termos do voto do relator",
+   "resumo_voto": "O DG pediu vista na RD 927 por querer aprofundar a análise; em 24/03 foi protocolado ofício contra a assinatura do contrato questionando a capacidade técnica e econômico-financeira do consórcio e as condicionantes ambientais. A comissão de outorga respondeu em nota informativa de 30/03: o consórcio cumpriu o anexo 10 do edital (carta de capacidade financeira), concessões estaduais anteriores das empresas não se confundem com a SPE federal, e os riscos/condicionantes ambientais eram públicos e alocados na matriz de risco. O TCU, na véspera, indeferiu a cautelar em denúncia sobre o edital. O DG conclui que todos os requisitos foram cumpridos e acompanha integralmente o relator.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, propõe emissão do ato de outorga",
+     "ts": "0:02:49",
+     "justificativa": "voto original apresentado na RD 927; aqui apenas agradece as considerações do voto-vista",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "voto-vista: acompanha integralmente o relator",
+     "ts": "0:03:27",
+     "justificativa": "após esclarecimentos da comissão de outorga e decisão do TCU, sem óbice à assinatura do contrato",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator (aprovação por unanimidade)",
+     "ts": "0:09:35",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.1.2",
+   "ts": "0:09:46",
+   "processo": "50500.00316/2022-12 (número aproximado pela legenda)",
+   "interessado": "SUCOM (Superintendência de Concessão da Infraestrutura)",
+   "assunto": "Alterações nos documentos do edital 1/2022 (concessão do sistema rodoviário Rio de Janeiro–Governador Valadares: BR-116, BR-465 e BR-493/RJ/MG), com leilão mantido para 20/05/2022",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização",
+    "pedágio free flow",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Após ofício conjunto da SPPI/Ministério (23/03) sugerindo inovações, aprova-se: atualização dos valores para data-base mais recente; apuração do compartilhamento de risco de preço de insumos passa a ser anual (não mais nas revisões quinquenais); cláusulas de risco geológico semelhantes às do edital BR-116/101 Rio–São Paulo; abertura gradual das praças de pedágio; supressão da subcláusula de compensação social por desocupação da faixa de domínio; ajuste do prazo e recursos para implantação do free flow. Cronograma de esclarecimentos/garantias ajustado, sem alterar a data do leilão. PF sem óbice.",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, aprova as alterações",
+     "ts": "0:09:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:15:02",
+     "justificativa": "cumprimenta SUCOM e procuradoria; atualização do ciclo e do compartilhamento anual de risco de insumos tornam a precificação mais realista e sem prejudicar a data do leilão",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:16:28",
+     "justificativa": "cumprimenta o trabalho técnico e a dedicação para o avanço dos certames",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "A legenda automática erra nomes, números e siglas; valores só foram registrados quando legíveis. Votos de diretores que apenas acompanham o relator têm ts aproximado e confiança media.",
+  "Número do processo do item 1.1.1 (e do 1.1.2) vem truncado/ambíguo na legenda. Os votos de Davi Barreto e Guilherme Sampaio no 1.1.1 não foram ditos individualmente: a unanimidade foi proclamada pelo DG (voto de Davi ts de relator já apresentado na RD 927). O voto de Guilherme no 1.1.2 foi atribuído pelo contexto (fala logo antes do encerramento); a legenda grafa 'Guilherme' e 'diretor da vida' (Davi)."
+ ]
+}

@@ -1,0 +1,17 @@
+# Perfil analítico — Menezes (nome incerto) · tema: onibus_regular
+
+**Amostra:** presente em 15 das 15 reuniões analisadas em que há registro de presença/ausência; 7 votos neste tema; 0 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+
+**Votos:** acompanha o relator 7 (100% dos votos em que não era relator) · relator 0 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 32/4; regulacao_normativa 26/6; institucional 25/2; participacao_social 16/5; reequilibrio_contratual 14/0; ferrovias 13/5; pedagio_freeflow 10/0; onibus 10/1; leilao_otimizacao 8/2; fiscalizacao_sancoes 8/2; onibus_regular 7/0; judicializacao 5/0; cargas 5/1; tarifa_modicidade 3/0; onibus_semiurbano 3/1
+
+## Evidências (reunião · item · voto · justificativa)
+
+- **RD 891 (2021-03-09)**, item 2.3.1 — Alteração da Resolução 5.917/2020 (medidas da pandemia no transporte rodoviário interestadual e internacional de passageiros) · voto: *de acordo* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=avr7ZpONzto&t=1348s) · resultado: aprovado por unanimidade
+- **RD 894 (2021-03-30)**, item 2.1.3 — Recurso contra a Decisão SUPAS 278/2020 que arquivou o pedido de mercados novos por vencimento do termo de autorização (TAR); sustentação or · voto: *de acordo* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=ZrX6XBJsIXo&t=2195s) · resultado: aprovado por unanimidade (recurso conhecido e provido parcialmente; De
+- **RD 895 (2021-04-06)**, item 2.2.2 — Pedido de sobrestamento dos pedidos de mercado do TRIP interestadual convocados pelo Ofício-Circular SEI 10/2021, em razão da discussão do n · voto: *acompanha o relator (de acordo)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=ZqU-qL1jNnk&t=1135s) · resultado: pedido indeferido; aprovado por unanimidade
+- **RD 896 (2021-04-13)**, item 2.3.4 — Inclusão de mercados na licença operacional (LOP) e análise de impugnações (ônibus interestadual) · voto: *de acordo* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=NjSTSz_qmS0&t=2359s) · resultado: aprovado por unanimidade — indeferido o pedido da Viação Marli; impugn
+- **RD 898 (2021-04-27)**, item 2.3.3 — Alteração da estrutura gerencial da Superintendência de Serviços de Transporte Rodoviário de Passageiros (Deliberação 270/2020): gerências p · voto: *acompanha o relator (de acordo)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=qTKOq7Jx1os&t=3243s) · resultado: aprovado por unanimidade
+- **RD 899 (2021-05-04)**, item 2.1.1 — Referendo da Deliberação 149/2021 (19/04/2021) que deferiu pedido de novos mercados da empresa por decisão judicial (9ª Vara Federal Cível/D · voto: *acompanha o relator (de acordo)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=kU4TfhacKO0&t=880s) · resultado: aprovado por unanimidade
+- **RD 899 (2021-05-04)**, item 2.3.1 — Audiência Pública 6/2020: relatório final e resolução que regulamenta (art. 30, parágrafo único, Lei 8.987/1995) as comissões tripartites (A · voto: *acompanha o relator (de acordo)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=kU4TfhacKO0&t=1930s) · resultado: aprovado por unanimidade

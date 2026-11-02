@@ -1,0 +1,300 @@
+{
+ "meta": {
+  "video_id": "BHgWHDyFqu0",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulos automáticos de falante são pouco confiáveis); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "937",
+  "data": "2022-08-04",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Davi Barreto",
+   "Guilherme Sampaio",
+   "Luciano Lourenço"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 15h29 (~35 min de sessão).",
+   "Aprovadas as atas da 936ª reunião e das reuniões extraordinárias 73 (11/07) e 74 (27/07).",
+   "Cinco processos julgados, quatro deles recursos de concessionárias rodoviárias contra multas (todos desprovidos por unanimidade), mais o cumprimento de decisão judicial no caso Gontijo; um item retirado de pauta pelo relator, com base no novo Regimento Interno (art. 55)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:02:00",
+   "processo": null,
+   "interessado": "Secretaria-Geral",
+   "assunto": "Aprovação das atas das reuniões de diretoria 936 (19/07) e extraordinárias 73 (11/07) e 74 (27/07)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovadas",
+   "resumo_voto": "Distribuídas com 48 horas de antecedência; leitura dispensada.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:03:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "0:03:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "de acordo",
+     "ts": "0:03:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo",
+     "ts": "0:03:09",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:03:09",
+   "processo": "50520.026224/2015-35 (grafia parcial)",
+   "interessado": "Autopista Litoral Sul S.A.",
+   "assunto": "Recurso contra decisão que manteve multa (333,704 URT) por trincas interligadas classe 3 no km 181 da pista norte da BR-101 (SC), violando art. 8º, inc. V, da Res. 4.071/2013",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Recurso tempestivo, mas sem efeito suspensivo (multa só é executável após o trânsito em julgado administrativo); no mérito nega provimento, mantendo a multa com agravante de 1% (reincidência genérica) e atenuante de 20% (infração cessada e regularizada no prazo); autoriza execução da garantia se a multa não for paga.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, nega provimento",
+     "ts": "0:03:50",
+     "justificativa": "concessionária não apresentou elemento que afaste a responsabilidade; acolhe o parecer técnico",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com o relator",
+     "ts": "0:07:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "de acordo com o relator",
+     "ts": "0:07:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo com o relator",
+     "ts": "0:07:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:07:34",
+   "processo": "50505.004087/2017-21 (grafia parcial)",
+   "interessado": "Concessionária Rodovia do Aço S.A.",
+   "assunto": "Recurso contra decisão que manteve multa (90 URT) por operação do circuito fechado de TV em desconformidade com o programa de exploração (80% das câmeras inoperantes), art. 5º, inc. XX, da Res. 4.071/2013",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Sem vício de motivação nem ofensa ao contraditório; materialidade clara; multa prevista em contrato e norma, sem espaço para outros atenuantes; nega provimento e mantém a multa, sem efeito suspensivo.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, nega provimento",
+     "ts": "0:08:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o relator",
+     "ts": "0:12:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "de acordo com o voto do relator",
+     "ts": "0:12:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo com o voto do relator",
+     "ts": "0:12:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.3",
+   "ts": "0:13:09",
+   "processo": "50545.024815/2016-71 (grafia parcial)",
+   "interessado": "Autopista Litoral Sul S.A.",
+   "assunto": "Recurso contra decisão de dezembro de 2018 (multa)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "retirado de pauta",
+   "resumo_voto": "O relator solicitou a retirada de pauta para análise adicional pela área técnica; o DG esclarece que, pelo art. 55 do novo Regimento, o diretor pode retirar sem anuência dos demais.",
+   "votos": []
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:13:58",
+   "processo": "50500.085744/2022-47 (grafia parcial)",
+   "interessado": "Empresa Gontijo de Transportes Ltda.",
+   "assunto": "Cumprimento de decisão judicial (agravo de instrumento, TRF-1, 6ª Turma) que suspendeu os efeitos da Deliberação 955/2019 (que revogou regras de estudo de viabilidade e procedimentos de mercados da Res. 4.770/2015) em favor da autora",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao",
+    "regulação normativa"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Suspende, para a Gontijo, os efeitos da Deliberação 955/2019 por ato formal, para eliminar dúvidas sobre o cumprimento do julgado; a agência já não autorizava novos mercados desde a cautelar do TCU (março de 2021, Acórdão 559/2021 do Plenário); alcance restrito à empresa (art. 506 do CPC), sem criar direitos ou deveres.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, suspende os efeitos da Deliberação 955/2019 para a Gontijo",
+     "ts": "0:14:20",
+     "justificativa": "ato formal elimina qualquer dúvida de descumprimento; a agência não concede novos mercados por força de determinação do TCU",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo com o relator",
+     "ts": "0:22:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:22:30",
+     "justificativa": "cumprimenta pela clareza do voto",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:22:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:23:35",
+   "processo": "50515.022456/2016-74 (grafia parcial)",
+   "interessado": "Autopista Fernão Dias S.A.",
+   "assunto": "Recurso contra multa (115,50 URT) por não corrigir depressões/abaulamentos em 72 horas, art. 6º, inc. III, da Res. 4.071/2013",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Indefere efeito suspensivo; argumento de novos danos por eventos climáticos sem comprovação; e-mail de conclusão não equivale a aceitação; motivação por remissão é válida (art. 50, par. 1º, Lei 9.784/99); mantém a multa.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, nega provimento",
+     "ts": "0:24:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo com o relator",
+     "ts": "0:29:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:29:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:29:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3",
+   "ts": "0:29:58",
+   "processo": "50503.008013/2016-61 (grafia parcial)",
+   "interessado": "Autopista Régis Bittencourt S.A.",
+   "assunto": "Recurso contra multa por relatório de monitoração do sistema de drenagem (OAC) do 1º semestre do 7º ano entregue de forma incompleta, art. 6º, inc. XXIII, da Res. 4.071/2013",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Luciano Lourenço",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Multa reduzida de 165 para 148,5 URT pela aplicação de atenuante de 10% (individualização da pena); indefere efeito suspensivo, suspensão do processo e conversão da multa em obras (não requerida formalmente); mantém a penalidade no patamar de 148,5 URT.",
+   "votos": [
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "relator, nega provimento e mantém multa de 148,5 URT",
+     "ts": "0:30:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:35:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:35:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:35:20",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "2.1.3 - recurso da Autopista Litoral Sul (decisão de dez/2018)",
+   "relator": "Davi Barreto",
+   "motivo": "solicitação de nova análise pela área técnica; retirada pelo relator conforme art. 55 do novo Regimento",
+   "ts": "0:13:09"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo, valores e nomes distorcidos; só foram registrados dados que aparecem com clareza.",
+  "A legenda registra «diretor Guilherme» como quarto diretor; identificado como Guilherme Sampaio.",
+  "Numeração de processos, valores (URT) e alguns artigos de resoluções estão distorcidos pela legenda (ex.: «Res. 4071/2003» ditada, correto 2013); o valor da multa em 2.1.1 é citado como 333,704 URT.",
+  "O resultado do item 2.2.1 é dito «2.1.1» pelo presidente por engano, mas contexto indica 2.2.1.",
+  "Votos de quem apenas acompanha o relator têm ts aproximado."
+ ]
+}

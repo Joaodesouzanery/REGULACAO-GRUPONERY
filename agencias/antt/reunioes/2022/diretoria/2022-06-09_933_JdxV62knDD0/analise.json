@@ -1,0 +1,191 @@
+{
+ "meta": {
+  "video_id": "JdxV62knDD0",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulos automáticos de falante são pouco confiáveis); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "933",
+  "data": "2022-06-09",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Guilherme Sampaio",
+   "Luciano Lourenço"
+  ],
+  "ausentes": [
+   "Davi Barreto (missão internacional)"
+  ],
+  "observacoes": [
+   "Sessão pública curta (~16 min), encerrada às 15h20; parte reservada ao final para um processo administrativo disciplinar sigiloso.",
+   "Boas-vindas ao novo procurador-geral da ANTT, Dr. Mauro, que fala ao final da sessão; presentes também a secretária-geral Renata.",
+   "Homologado o resultado do leilão da BR-116/465/493 RJ/MG (Rio-Valadares, Edital 1/2022) em favor da EcoRodovias, com deságio de 3,11% sobre a tarifa básica; investimentos > R$ 11 bi e despesas operacionais > R$ 9 bi segundo o relator.",
+   "Três diretores presentes: nos votos o presidente inclui-se na contagem."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:02:30",
+   "processo": null,
+   "interessado": "Secretaria-Geral",
+   "assunto": "Aprovação da ata da 932ª reunião de diretoria",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovada",
+   "resumo_voto": "Ata distribuída com antecedência mínima de 48 horas; leitura dispensada.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "0:03:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "de acordo",
+     "ts": "0:03:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo",
+     "ts": "0:03:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:03:20",
+   "processo": "50500.002064/2022 (grafia parcial)",
+   "interessado": "SUGEP / Superintendência de Governança, Gestão Estratégica e de Pessoal",
+   "assunto": "Referendo da Resolução 5.980, de 1º de junho de 2022, que alterou a Res. 5.977/2022 (estrutura organizacional da ANTT) para corrigir incorreções formais (divergência no quantitativo de cargos entre anexo e corpo da norma), necessárias para regularizar a distribuição de cargos e a folha dos servidores no sistema do Ministério da Economia",
+   "tema": [
+    "institucional",
+    "regulação normativa"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Ajustes urgentes para viabilizar a distribuição de cargos no sistema e regularizar servidores nomeados; propõe referendar a resolução.",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, aprova o referendo",
+     "ts": "0:04:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com o relator",
+     "ts": "0:05:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "de acordo com o relator",
+     "ts": "0:05:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:05:20",
+   "processo": "50500.044199/2016-45 (grafia parcial)",
+   "interessado": "Concessionária Autopista Fluminense",
+   "assunto": "Recurso contra decisão da SUINF que aplicou multa por inexecução contratual (obrigações das fases de recuperação)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece o recurso, sem efeito suspensivo; no mérito nega provimento, mantendo a multa com agravante por outras penalidades; recorrente não trouxe argumento novo capaz de afastar a inexecução, já enfrentada nas instâncias anteriores.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, nega provimento",
+     "ts": "0:05:30",
+     "justificativa": "área técnica demonstrou as irregularidades; nenhum argumento novo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "acompanha o relator",
+     "ts": "0:07:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:07:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3",
+   "ts": "0:08:07",
+   "processo": "50500.000316/2022-12 (grafia parcial)",
+   "interessado": "EcoRodovias Concessões e Serviços S.A.",
+   "assunto": "Homologação do resultado do leilão da concessão do sistema rodoviário BR-116/465 e BR-493 (Rio de Janeiro e Minas Gerais), Edital 1/2022 (leilão Rio-Valadares)",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "homologado por unanimidade",
+   "resumo_voto": "Processo tramitou adequadamente; EcoRodovias apresentou deságio de 3,11% sobre a tarifa básica de pedágio; renunciou ao direito de recurso contra a decisão da comissão de outorga; PFE informou inexistência de decisão judicial impeditiva. Escopo: 309 km de duplicação, 245 km de faixas adicionais, 61 km de vias marginais, passarelas, passagens de fauna, atendimento ao usuário; inovações como tarifa diferenciada para pista simples, desconto para pagamento eletrônico, ponto de parada para caminhoneiros. Investimentos > R$ 11 bi e despesas operacionais > R$ 9 bi.",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, homologa o resultado em favor da EcoRodovias",
+     "ts": "0:08:30",
+     "justificativa": "lisura e transparência do certame; importância estratégica da rota (única alternativa para contornar a Baía de Guanabara)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luciano Lourenço",
+     "voto": "favorável, acompanha o relator",
+     "ts": "0:13:30",
+     "justificativa": "parabeniza a equipe da ANTT e a Procuradoria pela manutenção do leilão",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator",
+     "ts": "0:14:15",
+     "justificativa": "parabeniza o grupo Eco pelo lote arrematado",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "PAD (sigiloso)",
+   "ts": "0:03:18",
+   "processo": "50500.2468/2017-13 (grafia parcial)",
+   "interessado": "Corregedoria / processo administrativo disciplinar",
+   "assunto": "Processo administrativo disciplinar com restrição de acesso (IN de 14/11/2018), relatoria de Guilherme Sampaio, a ser julgado em sessão reservada ao final da transmissão",
+   "tema": [
+    "institucional",
+    "processo sigiloso"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "sem informação (julgado em sessão reservada)",
+   "resumo_voto": "Não houve exposição pública.",
+   "votos": []
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: números de processo, valores e nomes distorcidos; só foram registrados dados que aparecem com clareza.",
+  "A legenda confunde o rótulo de falante: o texto atribui a relatoria dos itens 2.2.x a «diretor Guilherme Sampaio»; o relator de 2.2.1 e 2.2.3 abre cumprimentando o DG Rafael Vitale e o diretor Luciano Lourenço, logo não é nenhum dos dois, o que confirma Guilherme Sampaio.",
+  "Em 2.1.1 a legenda atribui a relatoria ao DG (item «de minha relatoria»); mantido Rafael Vitale.",
+  "O número do processo do PAD está truncado; o item 2.2.2 não aparece na pauta lida (numeração salta de 2.2.1 para 2.2.3).",
+  "Valores e dados do leilão (deságio de 3,11%, R$ 11 bi) vêm da fala do relator e podem ter erro de legenda; a legenda também grafa o novo procurador-geral como «Mauro» (sobrenome não identificado)."
+ ]
+}

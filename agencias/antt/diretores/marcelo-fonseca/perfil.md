@@ -1,6 +1,6 @@
 # Perfil analítico — Marcelo Fonseca
 
-**Amostra:** presente em 5 das 6 reuniões analisadas em que há registro de presença/ausência; 21 votos; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 10 das 11 reuniões analisadas em que há registro de presença/ausência; 21 votos; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
 **Votos:** acompanha o relator 18 (94% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
 **Como relator:** 2/2 relatorias aprovadas por unanimidade.

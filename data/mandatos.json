@@ -5,9 +5,9 @@
   "situacao": "titular",
   "nomeacao_dou": null,
   "senado": null,
-  "inicio": null,
+  "inicio": "2021-08-03",
   "fim": "2025-02-13",
-  "inicio_tipo": "anterior a 2023 (fora da janela de vídeos analisada)",
+  "inicio_tipo": "estimado: primeira reunião como DG (RD 911, 03/08/2021); aprovado pelo Senado em jul/2021; cerimônia de posse noticiada em ago/2021",
   "fim_tipo": "estimado: último voto em 13/02/2025; notícias indicam fim de mandato em fev/2025",
   "fonte": "votos nas transcrições; Agência iNFRA (mandato do DG terminou em fev/2025)",
   "confianca": "media",
@@ -19,9 +19,9 @@
   "situacao": "titular",
   "nomeacao_dou": null,
   "senado": null,
-  "inicio": null,
+  "inicio": "2022-04-28",
   "fim": "2025-02-13",
-  "inicio_tipo": "anterior a 2023",
+  "inicio_tipo": "estimado: primeiro voto em 28/04/2022",
   "fim_tipo": "estimado: último voto em 13/02/2025; Agência iNFRA: mandato terminou em fev/2025 (vaga ocupada depois por Alex Azevedo)",
   "fonte": "votos nas transcrições; Agência iNFRA",
   "confianca": "media",
@@ -35,7 +35,7 @@
   "senado": null,
   "inicio": null,
   "fim": "2023-02-16",
-  "inicio_tipo": "anterior a 2023",
+  "inicio_tipo": "anterior a jan/2021 (primeira reunião analisada: 18/01/2021)",
   "fim_tipo": "estimado: última reunião em 16/02/2023; cadeira ocupada por Lucas Asfor",
   "fonte": "votos nas transcrições; Agência iNFRA (Lucas Asfor ocupa a cadeira de Davi Barreto em fev/2023)",
   "confianca": "media",
@@ -81,7 +81,8 @@
   "fim_tipo": "estimado: 5 anos como DG; AGU e Senado divergiram sobre o limite (AGU: fim em fev/2026; Senado: 5 anos cheios)",
   "fonte": "Agência iNFRA; Senado",
   "confianca": "baixa",
-  "verificar": "DOU; posição final sobre o término"
+  "verificar": "DOU; posição final sobre o término",
+  "obs": "Nomeado diretor em jul/2021 na vaga de Marcelo Vinaud (mandato até 18/02/2026, segundo Agência iNFRA); nomeado Diretor-Geral em 29/08/2025."
  },
  {
   "diretor": "Alex Azevedo",
@@ -152,5 +153,65 @@
   "fonte": "votos; Agência iNFRA",
   "confianca": "baixa",
   "verificar": "portaria"
+ },
+ {
+  "diretor": "Marcelo Vinaud",
+  "cargo": "Diretor-Geral",
+  "situacao": "titular",
+  "inicio": null,
+  "fim": "2021-02-18",
+  "fonte": "Agência iNFRA: deixou a direção-geral em fev/2021 com o fim do mandato (18/02/2021); nomes na legenda variam (Rennó/Vinor)",
+  "confianca": "media",
+  "verificar": "DOU"
+ },
+ {
+  "diretor": "Alexandre Porto",
+  "cargo": "Diretor-Geral interino (2021) e diretor",
+  "situacao": "titular",
+  "inicio": "2021-02-18",
+  "fim": "2025-02-18",
+  "fonte": "Agência iNFRA: Alexandre Porto Mendes de Souza, DG interino em 2021 e nomeado diretor com mandato até 18/02/2025 (vaga de Elisabeth Braga)",
+  "confianca": "baixa",
+  "verificar": "DOU; não aparece nas reuniões de 2023 em diante"
+ },
+ {
+  "diretor": "Weber Ciloni",
+  "cargo": "Diretor",
+  "situacao": "titular",
+  "inicio": null,
+  "fim": "2021-06",
+  "fonte": "Agência iNFRA: renunciou; substituído por Fábio Rogério; despedida na RD 900 (11/05/2021)",
+  "confianca": "media",
+  "verificar": "DOU"
+ },
+ {
+  "diretor": "Eduardo Marra",
+  "cargo": "Diretor",
+  "situacao": "titular",
+  "inicio": null,
+  "fim": "2021-08",
+  "fonte": "relatório anual 2021 da ANTT lista como diretor em exercício; Guilherme Sampaio ocupou sua vaga segundo a RD 912",
+  "confianca": "baixa",
+  "verificar": "nome completo e datas"
+ },
+ {
+  "diretor": "Fábio Rogério",
+  "cargo": "Diretor",
+  "situacao": "titular",
+  "inicio": "2021-08",
+  "fim": "2023-01",
+  "fonte": "Agência iNFRA: nomeado no lugar de Weber Ciloni; saiu quando Felipe Queiroz assumiu (jan/2023)",
+  "confianca": "media",
+  "verificar": "DOU"
+ },
+ {
+  "diretor": "Menezes (nome incerto)",
+  "cargo": "Diretor (identidade incerta)",
+  "situacao": "titular",
+  "inicio": null,
+  "fim": null,
+  "fonte": "legenda de 2021 cita «Menezes» sem prenome; pode ser distorção de outro nome (Alexandre Porto Mendes de Souza?)",
+  "confianca": "baixa",
+  "verificar": "conferir no áudio/DOU e mesclar"
  }
 ]

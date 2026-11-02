@@ -1,0 +1,364 @@
+{
+ "meta": {
+  "video_id": "ZrX6XBJsIXo",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "894",
+  "data": "2021-03-30",
+  "formato": "videoconferência (pandemia, Lei 13.979)",
+  "presidente_da_sessao": "Alexandre Porto (presidente da sessão; nome conforme saudações e advogado; cargo de Diretor-Geral a confirmar)",
+  "diretores_presentes": [
+   "Alexandre Porto",
+   "Davi Barreto",
+   "Eduardo Marra",
+   "Weber Ciloni",
+   "Menezes (nome distorcido na legenda)"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada às 15h58 (parte pública); 7 itens (inclui 1 extrapauta), todos aprovados por unanimidade.",
+   "Sustentação oral no recurso da Inter Brasil teve queda de conexão e o item foi suspenso para votar os seguintes (2.2.1 e 2.3.1) antes de ser retomado.",
+   "Weber Ciloni aparece na legenda como «Web esse nononi», «Cléber Simone», «Herbert Lom»; identificação inferida."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1",
+   "ts": "0:03:21",
+   "processo": "50500.047443/2020-53 (parcial)",
+   "interessado": "Superintendência de Governança, Planejamento e Articulação Institucional (SUGPI)",
+   "assunto": "2ª etapa da revisão e consolidação dos atos normativos da ANTT (Decreto 10.139/2019; IN 2/2020): revogação expressa de atos normativos sem efeitos",
+   "tema": [
+    "regulação normativa",
+    "institucional"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Revoga atos de órgãos extintos, normativos inferiores a resolução e normas sobre quitação de débitos; dispensa AIR e participação social (IN 2/2020, art. 11); Procuradoria favorável.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, aprova",
+     "ts": "0:03:21",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:06:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:06:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:06:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes (nome distorcido na legenda)",
+     "voto": "de acordo",
+     "ts": "0:06:46",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:06:57",
+   "processo": "50500.031987/2001 (parcial)",
+   "interessado": "Superintendência de Infraestrutura Rodoviária (SUROD)",
+   "assunto": "Edição de súmulas sobre aplicação de multa moratória e sanções administrativas previstas em contrato de concessão",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções",
+    "regulação normativa"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "aprovado por unanimidade (após vista coletiva em 23/03/2021)",
+   "resumo_voto": "Processo apresentado na reunião de 23/03/2021, com vista coletiva (art. 121, parágrafo único, do Regimento); retorna para deliberação sem debate registrado.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, aprova",
+     "ts": "0:06:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:07:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:07:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:07:58",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes (nome distorcido na legenda)",
+     "voto": "de acordo",
+     "ts": "0:08:01",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.3",
+   "ts": "0:08:12",
+   "processo": "50500.041756/2019-34 (parcial)",
+   "interessado": "Inter Brasil Transporte, Turismo e Eventos Ltda.",
+   "assunto": "Recurso contra a Decisão SUPAS 278/2020 que arquivou o pedido de mercados novos por vencimento do termo de autorização (TAR); sustentação oral do advogado Albert (grafia da legenda)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "participação social",
+    "recurso administrativo"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "aprovado por unanimidade (recurso conhecido e provido parcialmente; Decisão SUPAS 278/2020 revogada)",
+   "resumo_voto": "Relator, com base em parecer da PF-ANTT em caso análogo (aproveitamento dos atos processuais, razoabilidade, eficiência e art. 49 do CPC por analogia), entendeu que a empresa já estava regular um dia antes da decisão e que analisar separadamente o pedido e a publicação da portaria do TAR (diferença de poucos dias) a prejudicou; refazer o pedido levaria a mesma conclusão após mais um ano. O advogado sustentou eficácia do ato desde a comunicação por e-mail (art. 121 do Regimento) e formalidade mitigada.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, conhece e dá parcial provimento",
+     "ts": "0:35:30",
+     "justificativa": "princípios da razoabilidade e da eficiência; aproveitamento dos atos processuais; empresa pequena sem outras linhas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:36:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:36:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:36:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes (nome distorcido na legenda)",
+     "voto": "de acordo",
+     "ts": "0:36:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:18:47",
+   "processo": "50500.381717/2019-11 (parcial)",
+   "interessado": "SUGPI",
+   "assunto": "Diretrizes e regras para audiências presenciais ou virtuais concedidas a particulares ou agentes políticos (Decreto 4.334/2002; Plano de Integridade)",
+   "tema": [
+    "institucional",
+    "regulação normativa",
+    "integridade / transparência"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Norma de organização interna; consulta pública não obrigatória (Regimento art. 98, IV). Relator apontou que uma tomada de subsídios teria dado mais transparência e sugeriu criar rito administrativo de publicidade para atos normativos internos de interesse de terceiros; vigência a partir de 03/05/2021; sugeriu formulário de solicitação de audiência.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova com ressalvas de redação",
+     "ts": "0:18:47",
+     "justificativa": "norma cumpre rito; defende mais transparência em normas internas que afetam o mercado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o relator",
+     "ts": "0:24:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:25:02",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes (nome distorcido na legenda)",
+     "voto": "de acordo",
+     "ts": "0:25:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo com o relator",
+     "ts": "0:25:09",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:25:22",
+   "processo": "50500.079751/2020-48 (parcial)",
+   "interessado": "Ministério da Infraestrutura / Concessionária Nova Dutra",
+   "assunto": "Alteração parcial da modelagem contratual da BR-116/101 RJ-SP (Nova Dutra): incorporação temporária do trecho Viúva Graça (46,6 km, RJ–Seropédica, com praça de pedágio) ao contrato da Dutra, enquanto a licitação do lote da CRT segue",
+   "tema": [
+    "concessões rodoviárias",
+    "pedágio",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Eduardo Marra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Estágio dos novos projetos de concessão (Nova Dutra e CRT) não permitiria conclusão antes do fim dos contratos; após avaliação jurídica da PF-ANTT e da SUCON, a alternativa viável é incluir a operação provisória do trecho no contrato da Dutra.",
+   "votos": [
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "relator, aprova",
+     "ts": "0:25:22",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:28:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:28:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes (nome distorcido na legenda)",
+     "voto": "de acordo",
+     "ts": "0:28:44",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:28:47",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.1",
+   "ts": "0:37:40",
+   "processo": "(número ilegível na legenda; final /2007-72)",
+   "interessado": "Associação Nacional dos Transportadores Ferroviários (ANTF) / SUROD",
+   "assunto": "Alteração da Res. 5.857/2019: prorrogação até 30/06/2021 do prazo de comprovação da regularidade fiscal das concessionárias de rodovias e ferrovias",
+   "tema": [
+    "concessões rodoviárias",
+    "ferrovias",
+    "regulação normativa"
+   ],
+   "relator": "Menezes (nome distorcido na legenda)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "ANTF pediu prorrogação por agravamento da pandemia (restrições em municípios dificultam o atendimento nas fazendas estaduais e municipais); SUFER e SUROD favoráveis; PF-ANTT pela legalidade.",
+   "votos": [
+    {
+     "diretor": "Menezes (nome distorcido na legenda)",
+     "voto": "relator, aprova",
+     "ts": "0:37:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:40:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:40:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:40:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:40:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "extrapauta",
+   "ts": "0:40:30",
+   "processo": "50500.133325/2020-67",
+   "interessado": "Superintendência de Concessão da Infraestrutura (SUCON)",
+   "assunto": "Extrapauta (inclusão aprovada por unanimidade por relevância e urgência): aprovação do edital de concessão das BR-163/230 (Mato Grosso–Pará), 1.009,52 km entre Itaituba (PA) e Sinop (MT)",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização"
+   ],
+   "relator": "Eduardo Marra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Projeto prioritário do PPI/PND; investimentos de cerca de R$ 1,87 bilhão em 10 anos contra despesas de cerca de R$ 1,2 bilhão (valores conforme legenda); estudos discutidos com a sociedade e órgãos de controle; Procuradoria atestou a viabilidade jurídica.",
+   "votos": [
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "relator, aprova",
+     "ts": "0:41:34",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "conforme o relator",
+     "ts": "0:44:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:44:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes (nome distorcido na legenda)",
+     "voto": "de acordo",
+     "ts": "0:44:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:44:36",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: nomes dos diretores distorcidos («Menezes», Weber Ciloni) e números de processo parciais; número do processo do item 2.4.1 ilegível.",
+  "Valores e quilometragens vêm da legenda.",
+  "Em 2.1.3, o ts do voto do relator é o da conclusão do voto; os demais votos são aproximados.",
+  "O edital das BR-163/230 foi retirado de pauta na RD 892 (16/03/2021) e retorna aqui como extrapauta."
+ ]
+}

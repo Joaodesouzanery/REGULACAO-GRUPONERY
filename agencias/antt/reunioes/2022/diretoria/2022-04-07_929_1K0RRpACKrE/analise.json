@@ -1,0 +1,488 @@
+{
+ "meta": {
+  "video_id": "1K0RRpACKrE",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:03:59); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "929",
+  "data": "2022-04-07",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Rafael Vitale (Diretor-Geral)",
+  "diretores_presentes": [
+   "Rafael Vitale",
+   "Davi Barreto",
+   "Guilherme Sampaio"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Apenas três diretores aparecem votando; a legenda não menciona ausências.",
+   "Inversão de pauta (art. 64 do RI): o item 2.1.6 (reestruturação) foi lido após o 2.3.1.",
+   "Duas sustentações orais: 2.2.5 (Edson Araújo da Silva) e 2.1.6 (Ednailson Silva Rodrigues), ambas com pedido de retirada de pauta rejeitado.",
+   "O DG retirou de pauta o item 2.1.7 (alteração da Res. 5.624/2017, processos de participação e controle social); Davi Barreto retirou os itens 2.2.2 e 2.2.4.",
+   "Encerrada às 16h18 de 07/04/2022; a legenda grafa 900, mas é a RD 929."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1",
+   "ts": "0:04:53",
+   "processo": "50500.100621/2020-62 (parcial)",
+   "interessado": "Concessionária Rota do Oeste S.A. (BR-163/MT)",
+   "assunto": "Prorrogação por 180 dias do prazo da comissão processante do processo de caducidade do contrato (Deliberação 346/2021, alterada pela 15/2022)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Fase atual: alegações finais da concessionária em 20 dias (Res. 5.935/2021), depois 45 dias para o relatório final da comissão e 20 dias para plano de transição; os 180 dias iniciais não bastam, e a resolução admite prorrogação por igual período. Minuta de deliberação do DG.",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, prorroga por 180 dias",
+     "ts": "0:05:00",
+     "justificativa": "prazo necessário ultrapassa os 180 dias iniciais",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo com o relator",
+     "ts": "0:07:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "0:07:36",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "0:07:56",
+   "processo": "50500.003768/2022-96 (parcial)",
+   "interessado": "Ferrovia Norte-Sul S.A. (FNS; grafada FMS/SMS na legenda) contra a FTL",
+   "assunto": "Recurso contra a decisão da SUFER de 20/01/2022 que negou medida cautelar em pedido de arbitramento sobre a tarifa de direito de passagem no Porto de Itaqui (São Luís/MA)",
+   "tema": [
+    "ferrovias",
+    "judicializacao",
+    "regulação normativa"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovado por unanimidade — recurso conhecido e desprovido",
+   "resumo_voto": "A FNS alegou desproporção e abuso de posição dominante da FTL na tarifa de direito de passagem (a mais alta do Brasil, cerca de 30% acima do que a Vale paga no mesmo trecho) e pediu cautelar fixando R$ 5,50/t (ou, subsidiariamente, no máximo R$ 2,13/t por tonelada útil) e proibição de medidas contra sua operação de fertilizantes. A SUFER entendeu que não há fumus boni iuris nem periculum in mora: os valores seguem o contrato operacional vigente desde 2014, a regulação setorial não fixa teto tarifário, a ANTT não vê recusa da FTL em manter as operações, e eventual intervenção por tema concorrencial cabe ao CADE (ANTT apenas comunica indícios, arts. 26 e 27 da Lei 13.848/2019). Recurso tempestivo (art. 56 da Lei 9.784/1999) mas sem novos argumentos.",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:08:10",
+     "justificativa": "adota a análise técnica; sem teto regulatório e sem cabimento de intervenção cautelar; matéria concorrencial é do CADE",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo com a proposta do relator",
+     "ts": "0:15:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com o relator",
+     "ts": "0:15:58",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.3",
+   "ts": "0:16:10",
+   "processo": "50500.004185/2020 (parcial)",
+   "interessado": "SUINF (Superintendência de infraestrutura rodoviária); audiência pública 1/2021 (6 lotes rodoviários do Paraná)",
+   "assunto": "Aditamento ao relatório final da AP 1/2021 para incluir a contribuição escrita (protocolo de ouvidoria 6907154) do deputado estadual do Paraná Homero Marchese",
+   "tema": [
+    "concessões rodoviárias",
+    "participação social",
+    "leilão / otimização"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "A AP 1/2021 recebeu 4.349 protocolos já respondidos no relatório final (Deliberação 353/2021). A contribuição do deputado foi complementada em razoabilidade: integrada ao anexo 3 e respondida no anexo 5. Os estudos, o plano de outorga e os documentos jurídicos, em análise no TCU, não foram afetados; os pontos acatados já estavam contemplados por outras contribuições.",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, aprova o aditamento ao relatório final",
+     "ts": "0:16:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:18:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:19:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.4",
+   "ts": "0:19:09",
+   "processo": "50500.003602/2022-08 (parcial)",
+   "interessado": "SUINF — revisão quinquenal da Autopista Planalto Sul (AP 1/2022)",
+   "assunto": "Referendo da Deliberação 136/2022 (de 29/03/2022), que complementa a Deliberação 99/2022 e comunica locais e datas das sessões públicas da AP 1/2022 (Curitiba/PR e Lages/SC; 12 e 14 de abril)",
+   "tema": [
+    "concessões rodoviárias",
+    "participação social",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovado por unanimidade (referendo)",
+   "resumo_voto": "Pedido de urgência da SUINF pela proximidade das sessões; art. 70 do Regimento Interno. A deliberação autoriza o presidente da audiência a ajustar datas e horários, e-mail ou telefone, locais, plataforma da sessão virtual e publicação do material de fundamentação.",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, referenda",
+     "ts": "0:19:30",
+     "justificativa": "urgência e relevância; art. 70 do RI",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:21:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha o relator",
+     "ts": "0:21:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.5",
+   "ts": "0:21:30",
+   "processo": "50500.004576/2020-35 (parcial)",
+   "interessado": "MRS Logística S.A. (interveniência do DNIT)",
+   "assunto": "Terceiro termo aditivo ao contrato de concessão para extinguir o contrato de arrendamento 72/96, com compensação de débitos por obras no perímetro urbano de Barra Mansa/RJ, e termo de cessão de uso de bens imóveis",
+   "tema": [
+    "ferrovias",
+    "reequilíbrio contratual",
+    "concessões rodoviárias"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Em obediência à Lei 13.448/2017 (art. 25, §3º) e ao Decreto 10.161/2019, a SUFER revisou a relação de bens arrendados (alguns bens reversíveis ao fim da concessão ficam fora da extinção). Valores a compor a concessão, conforme falados: 18 parcelas (valor de cada uma na casa de R$ 6,9 milhões) como parcela de concessão e cerca de R$ 132 milhões de parcela de arrendamento. Acordo com o DNIT compensa débitos com obras de adequação de Barra Mansa e Rio de Janeiro; sobra saldo de pouco mais de R$ 2 milhões a pagar ao DNIT. PF não opôs obstáculo.",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, aprova o terceiro termo aditivo e a cessão de uso",
+     "ts": "0:22:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:25:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com a proposta do relator",
+     "ts": "0:25:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:27:16",
+   "processo": "50500.005792/2022-19 (parcial)",
+   "interessado": "Diretoria Colegiada",
+   "assunto": "Proposta de novo Regimento Interno da ANTT (substitui a Res. 5.888/2020), voltada após vista coletiva concedida na RD 928",
+   "tema": [
+    "institucional",
+    "regulação normativa"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Mudanças na estrutura: gestão estratégica de pessoas passa a integrar a SUGEPAI (SUARTE na legenda) e criação de assessores especiais da diretoria-geral; aperfeiçoamentos na dinâmica de deliberação com recomendações da PF; criação da reunião administrativa para matérias estritamente administrativas. Contribuições do gabinete do DG recebidas durante a vista foram incorporadas integralmente.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova o novo Regimento Interno",
+     "ts": "0:27:40",
+     "justificativa": "incorpora sugestões dos gabinetes; maior celeridade em matérias administrativas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente; elogia a construção consensual e a modernização iniciada pela DG",
+     "ts": "0:30:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator; destaca a harmonia entre diretoria, procuradoria e superintendências",
+     "ts": "0:31:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:31:43",
+   "processo": "50500.004548/2020-55 (parcial)",
+   "interessado": "Rumo Malha Sul S.A.",
+   "assunto": "Primeiro termo aditivo ao contrato de concessão para extinguir o contrato de arrendamento 5/97",
+   "tema": [
+    "ferrovias",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "Relator pede retirada para nova diligência à área técnica e ajuste na minuta de termo aditivo; os demais diretores concordam.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, retira de pauta",
+     "ts": "0:31:43",
+     "justificativa": "nova diligência e ajuste da minuta",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo com a retirada",
+     "ts": "0:32:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "autoriza a retirada",
+     "ts": "0:33:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.4",
+   "ts": "0:32:22",
+   "processo": "50500.019446/2022-69 (parcial)",
+   "interessado": "Ecovias do Araguaia S.A.",
+   "assunto": "Segundo termo aditivo para alterar a localização do posto de parada e descanso para caminhoneiros (PPD) e das bases de serviços operacionais das praças de pedágio",
+   "tema": [
+    "concessões rodoviárias"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "retirado de pauta pelo relator (por economia processual, junto com o 2.2.2)",
+   "resumo_voto": "Também retirado para nova diligência.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, retira de pauta",
+     "ts": "0:32:22",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "de acordo",
+     "ts": "0:32:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "autoriza a retirada",
+     "ts": "0:33:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3",
+   "ts": "0:33:20",
+   "processo": "50500.086195/2021-47 (parcial)",
+   "interessado": "Secretaria-Geral (SECGE)",
+   "assunto": "Instrução normativa sobre os procedimentos de distribuição de processos aos diretores (sorteio)",
+   "tema": [
+    "institucional",
+    "regulação normativa"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Fundamento nos incisos II e VIII do art. 15 da lei da agência e no art. 120 do RI; o relator ajusta a redação e a topologia da minuta para harmonizar com o novo Regimento e a nova ferramenta de sorteio. Vigência com o RI (2 de maio de 2022), nos termos do art. 4º do Decreto 10.139/2019.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova a instrução normativa com ajustes de redação",
+     "ts": "0:34:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente; destaca avanço na gestão de processos",
+     "ts": "0:36:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "proclama unanimidade",
+     "ts": "0:37:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.5",
+   "ts": "0:37:18",
+   "processo": "50500.007061/2021-16",
+   "interessado": "Confederação Nacional dos Transportadores Autônomos (CNTA)",
+   "assunto": "Acordo de Cooperação Técnica e plano de trabalho com a CNTA para inscrição e manutenção de transportadores no RNTRC; sustentação oral de Edson Araújo da Silva, que pediu retirada de pauta",
+   "tema": [
+    "transporte rodoviário de cargas (piso mínimo do frete/CIOT)",
+    "institucional",
+    "participação social"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade — pedido de retirada de pauta rejeitado",
+   "resumo_voto": "O ACT substitui o ACT 2/2015 (termina em 29/04/2022); o RNTRC é digital desde agosto de 2020, mas o atendimento presencial segue necessário. O sustentante alegou que a recomendação da PF (itens 32 e 33 do parecer) de justificativa concreta para dispensar chamamento público não foi atendida, citou processo semelhante em análise no TCU (12522/2021) e risco de erro grosseiro. O relator rejeitou: Res. 5.864/2019 prevê ACT com todas as confederações habilitadas, o que dispensa chamamento (sem competição nem escolha), o despacho da SUROC motivou a prescindibilidade, não há repasse de recursos, e observaram-se a Lei 13.019/2014 e o Decreto 8.726/2016.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova o ACT e rejeita a retirada de pauta",
+     "ts": "0:52:56",
+     "justificativa": "Res. 5.864/2019 padroniza os ACTs com todas as confederações; recomendações da PF atendidas pelo despacho da SUROC; sem recursos financeiros",
+     "tom": "técnico, em resposta ao sustentante",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o relator, os pareceres da PF e da área técnica",
+     "ts": "0:58:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "acompanha o relator; agradece a participação do sustentante",
+     "ts": "1:00:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:58:50",
+   "processo": "50510.021232/2014-23 (parcial)",
+   "interessado": "Autopista Fernão Dias S.A.",
+   "assunto": "Recurso contra decisão da SUINF de 06/03/2019 que aplicou multa (valor falado ~181,150 URT) por entregar relatório de monitoramento da rodovia incompleto ou fora do prazo (art. 6º, XXIII, Res. 4.071/2013)",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Guilherme Sampaio",
+   "resultado": "aprovado por unanimidade — recurso conhecido sem efeito suspensivo, provimento parcial para revisar a agravante",
+   "resumo_voto": "Recurso conhecido (tempestivo, legítimo); sem efeito suspensivo por falta de prejuízo de difícil reparação; sem fato novo quanto à infração; revisa-se só o agravante de reincidência genérica, que passa a 1% sobre a pena-base, reduzindo a multa (valor final falado como 166,165 URT).",
+   "votos": [
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "relator, conhece e dá provimento parcial",
+     "ts": "1:01:00",
+     "justificativa": "sem fato novo, mas ajuste do percentual de reincidência genérica",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "1:04:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "de acordo com o relator; proclama unanimidade",
+     "ts": "1:04:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.6",
+   "ts": "1:04:51",
+   "processo": "50500.020646/2022-64 (parcial)",
+   "interessado": "SUGEPAI (Superintendência de Governança, Planejamento e Articulação Institucional); sustentação oral de Ednailson (Nailton) Silva Rodrigues, em nome da associação de servidores",
+   "assunto": "Resolução que complementa o novo Regimento Interno com a estrutura e as competências de gerências, coordenações, assessorias especiais, coordenações regionais, escritórios de fiscalização e postos de pesagem veicular (reestruturação organizacional da ANTT)",
+   "tema": [
+    "institucional",
+    "regulação normativa",
+    "fiscalização e sanções"
+   ],
+   "relator": "Rafael Vitale",
+   "resultado": "aprovado por unanimidade — pedido de retirada de pauta/consulta interna rejeitado (item invertido na pauta)",
+   "resumo_voto": "Revoga 28 normativos dispersos e concentra a estrutura no Regimento. GGE de pessoas vai para a SUGEPAI; a gerência de processamento de autos de infração vai para a SUGAD; criação do Centro Nacional de Supervisão Operacional e de gerência de fiscalização de contratos na SUINF; escritórios de fiscalização em todas as capitais mais outras localidades (42 para cargas/passageiros, incluindo fronteira em Foz do Iguaçu e Uruguaiana), 24 de infraestrutura rodoviária (31 com a extinção dos PPVs, que passam a operar remotamente em até 6 meses) e 16 ferroviários; mais cargos comissionados. Sustentação oral: processo iniciado como restrito (09/03), servidores souberam por vazamento (11/03), sem estudo de impacto nem custo-benefício, sem consulta interna, erros de contagem (regionais 9 para 11 versus 8; 31 versus 32 coordenações) e preocupação com a unidade do Rio Grande do Sul; pediu retirada de pauta, grupo de trabalho e consulta interna. O relator respondeu que a viabilidade foi analisada, o processo foi amplamente divulgado, com e-mail e página dedicada, e a consulta interna é faculdade; garantiu transparência, tratamento isonômico, PGRT e concurso de remoção.",
+   "votos": [
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "relator, aprova a proposta e rejeita a retirada de pauta",
+     "ts": "1:04:51",
+     "justificativa": "fortalecer a presença da agência, a fiscalização e a capilaridade; transparência na lotação de servidores",
+     "tom": "explicativo, conciliador",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator; sugere ajustes adicionais nas normas de lotação em diálogo com a associação",
+     "ts": "1:27:52",
+     "justificativa": "não vê mácula formal (restrição inicial ou ausência de consulta interna); pontos positivos: fortalecimento da fiscalização e novos cargos; escolhas de localização são qualitativas; reestruturação não deve remover ninguém de ofício",
+     "tom": "ponderado, reconhece as preocupações dos servidores",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Sampaio",
+     "voto": "acompanha integralmente o diretor-geral",
+     "ts": "1:34:54",
+     "justificativa": "a estrutura permite presença mais efetiva (inclusive RS); compromete-se a minimizar impacto nos servidores",
+     "tom": "elogioso e conciliador",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Rafael Vitale",
+     "voto": "proclama unanimidade; compromete-se com concurso e recomposição da força de trabalho",
+     "ts": "1:36:50",
+     "justificativa": "diálogo e consenso nas lotações; novo concurso e expansão de cargos de chefia; Rio Grande do Sul não será esquecido",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "2.1.7 — proposta de alteração da Res. 5.624/2017 sobre processo de participação e controle social (PPCS), da SUGEPAI",
+   "relator": "Rafael Vitale",
+   "motivo": "situação que exige maior detalhamento; volta na próxima reunião, conforme prerrogativa do relator no novo Regimento",
+   "ts": "0:25:58"
+  },
+  {
+   "item": "2.2.2 — primeiro termo aditivo, Rumo Malha Sul (extinção do arrendamento 5/97)",
+   "relator": "Davi Barreto",
+   "motivo": "nova diligência e ajuste da minuta",
+   "ts": "0:31:43"
+  },
+  {
+   "item": "2.2.4 — segundo termo aditivo, Ecovias do Araguaia (localização de PPD e bases)",
+   "relator": "Davi Barreto",
+   "motivo": "nova diligência, por economia processual",
+   "ts": "0:32:22"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática com muitos erros: números de processo parciais ou aproximados; nomes de interessados distorcidos (FNS/FMS/SMS; ‘Ednailson/Nailton’); valores de multa e do arrendamento ditos com ruído.",
+  "Votos de seguidores têm ts aproximados e confiança media. Rótulos de falante estão incorretos; falas atribuídas por contexto.",
+  "Não fica claro se Luciano Lourenço ou outro diretor estava presente; só três diretores votam.",
+  "O interessado e a entidade do sustentante do item 2.2.5 ficam incertos na legenda; do 2.1.6, a associação de servidores não é nomeada com clareza."
+ ]
+}

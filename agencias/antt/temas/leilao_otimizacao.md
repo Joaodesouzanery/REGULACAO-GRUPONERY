@@ -1,5 +1,111 @@
 # Itens do tema «leilao_otimizacao» (todos os diretores)
 
+- **RD 889 (2021-02-23)**, 2.2.1 · relator **Davi Barreto** · 13º termo aditivo ao contrato: extensão do prazo por 12 meses (prorrogável por períodos de 6 meses, máximo 24) por não conclusão da licitação da nova  → aprovado por maioria (vencido Weber Ciloni)
+  - votos: Davi: relator; Weber: vencido; Eduardo: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=Ry_MleO7hwU&t=1003s)
+- **RD 892 (2021-03-16)**, 2.2.2 · relator **Eduardo Marra** · Edital de concessão do sistema rodoviário das BR-163/230 (MT-PA) - retirado de pauta → retirado de pauta (unânime)
+  - votos: Eduardo: relator; Weber: acompanha; Davi: acompanha; Menezes: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=_slnrK0MRSw&t=3034s)
+- **RD 894 (2021-03-30)**, extrapauta · relator **Eduardo Marra** · Extrapauta (inclusão aprovada por unanimidade por relevância e urgência): aprovação do edital de concessão das BR-163/230 (Mato Grosso–Pará), 1.009,52 → aprovado por unanimidade
+  - votos: Eduardo: relator; Weber: outro; Davi: acompanha; Menezes: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ZrX6XBJsIXo&t=2430s)
+- **RD 901 (2021-05-18)**, 2.1.1 · relator **None** · Primeiro termo aditivo ao contrato de concessão (edital 5/2013) para obrigações da relicitação do trecho da BR-163/MS, conforme qualificação pelo Decr → aprovado por unanimidade
+  - votos: Alexandre: outro; Davi: acompanha; Eduardo: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=LlN-qKuCLyE&t=79s)
+- **RD 901 (2021-05-18)**, 2.4.1 · relator **Menezes (nome incerto)** · Segundo termo aditivo ao contrato de concessão da Malha Oeste para obrigações da relicitação, conforme qualificação (Decreto 10.633, de fevereiro de 2 → aprovado por unanimidade
+  - votos: Menezes: relator; Alexandre: acompanha; Davi: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=LlN-qKuCLyE&t=873s)
+- **RD 902 (2021-05-25)**, 2.2.1 · relator **Davi Barreto** · Homologação do resultado do leilão (Edital 1/2020) da subconcessão da FIOL, EF-334, Ilhéus–Caetité (BA), e prorrogação de prazo para obrigações prévia → aprovado por unanimidade
+  - votos: Davi: relator; Eduardo: acompanha; Menezes: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=PsO2Rk6k2Cc&t=702s)
+- **RD 905 (2021-06-15)**, 2.1.3 · relator **Menezes (nome incerto)** · Relatório da Audiência Pública 11/2020 (189 manifestações, 657 contribuições) e plano de outorga para a concessão do sistema rodoviário BR-116/RJ-MG,  → aprovado por unanimidade
+  - votos: Menezes: relator; Eduardo: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=aFnFR7eFh6o&t=579s)
+- **RD 906 (2021-06-22)**, 2.1.1 · relator **Alexandre Porto** · Abertura de audiência pública sobre minutas de TAC (plano de ação e TAC multas) para correção de descumprimentos contratuais apurados no processo admi → aprovado por unanimidade
+  - votos: Alexandre: relator; Davi: acompanha; Eduardo: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=EdMj6bhyq-M&t=57s)
+- **RD 906 (2021-06-22)**, 2.3.1 · relator **Eduardo Marra** · Viabilidade técnica e jurídica do requerimento de relicitação da BR-060/153/262 (DF-GO-MG), Edital 4/2013, e envio do processo ao Ministério da Infrae → aprovado por unanimidade
+  - votos: Eduardo: relator; Davi: acompanha; Menezes: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=EdMj6bhyq-M&t=603s)
+- **RD 913 (2021-08-17)**, 2.2.2 · relator **Davi Barreto** · Pagamento do valor de outorga fixa à Valec e contratação de seguros relacionados à subconcessão do trecho da EF-334 (FIOL), Ilhéus/BA–Caetité/BA (Edit → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Fábio: acompanha; Alexandre: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=M3Oooch06TQ&t=656s)
+- **RD 913 (2021-08-17)**, 2.4.1 · relator **Fábio Rogério** · Aprovação do edital de concessão do Sistema Rodoviário BR-116/RJ-SP (Nova Dutra) e BR-101/RJ-SP (Rio de Janeiro–Ubatuba), 625,8 km: critério híbrido ( → aprovado por unanimidade
+  - votos: Fábio: relator; Davi: acompanha; Guilherme: acompanha; Alexandre: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=M3Oooch06TQ&t=1239s)
+- **RD 914 (2021-08-24)**, 2.1.4 · relator **Davi Barreto** · Pedido de reconsideração das ressalvas dos arts. 2º, 3º e 4º da Deliberação 119-A/2021 (anuência ao início da eficácia da cessão fiduciária de direito → aprovado por unanimidade (nova deliberação)
+  - votos: Davi: relator; Guilherme: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=vO71AMKlMQ0&t=1084s)
+- **RD 915 (2021-08-31)**, 2.1.1 · relator **Guilherme Sampaio** · Emissão do ato de outorga e autorização do contrato de subconcessão da Ferrovia de Integração Oeste-Leste (EF-334), trecho Ilhéus–Caetité (BA) → aprovado por unanimidade
+  - votos: Guilherme: relator; Fábio: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=MjnHHA-UHiw&t=587s)
+- **RD 915 (2021-08-31)**, 2.1.3 · relator **Guilherme Sampaio** · Edital de concessão 4/2021 do sistema rodoviário BR-381/MG e BR-262/MG-ES (670 km), leilão híbrido, deságio máximo 15,5% na tarifa → aprovado por unanimidade
+  - votos: Guilherme: relator; Fábio: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=MjnHHA-UHiw&t=961s)
+- **RD 915 (2021-08-31)**, 2.2.1 · relator **Fábio Rogério** · Aprovação da minuta do contrato de custódia de recursos financeiros (conta de aporte) e prazo adicional de 10 dias para assinatura do contrato (edital → aprovado por unanimidade
+  - votos: Fábio: relator; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=MjnHHA-UHiw&t=1783s)
+- **RD 917 (2021-09-22)**, 2.1.1 · relator **Rafael Vitale** · Homologação do resultado do leilão de concessão da BR-163/230/MT-PA (leilão de 08/07/2021, B3) → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=OTcyf2Er7IU&t=526s)
+- **RD 917 (2021-09-22)**, 2.3.1 · relator **Guilherme Sampaio** · Ato de outorga e autorização da assinatura do contrato de concessão da BR-153/414/080 TO-GO → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Fábio: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=OTcyf2Er7IU&t=1574s)
+- **RD 918 (2021-10-07)**, 2.1.2 · relator **Davi Barreto** · Recomendação ao Conselho do PPI de prorrogação do prazo do 1º termo aditivo (relicitação) do contrato do Edital 6/2013, BR-040 DF-GO-MG → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Fábio: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=Fsfq1tp3R00&t=1406s)
+- **RD 920 (2021-11-04)**, 2.1.2 · relator **Davi Barreto** · Relatório final da AP 1/2021 e plano de outorga das concessões de 6 lotes rodoviários do Paraná (cerca de 3.300 km), para envio ao Ministério da Infra → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Fábio: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=VZD-U2Sl7sU&t=341s)
+- **RD 920 (2021-11-04)**, 2.1.3 · relator **Fábio Rogério** · Plano geral de outorgas para licitação do serviço semiurbano interestadual de passageiros Timon–Teresina, a ser enviado ao Ministério da Infraestrutur → aprovado por unanimidade (nos termos do voto-vista)
+  - votos: Fábio: revisor_acompanha; Davi: revisor_acompanha; Guilherme: revisor_acompanha; Rafael: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=VZD-U2Sl7sU&t=948s)
+- **RD 921 (2021-11-18)**, 2.1.8 · relator **Rafael Vitale** · Abertura de audiência pública sobre minutas de edital, contrato, PER e estudos de viabilidade para a concessão da BR-040/MG-RJ e BR-495/RJ (443 km), i → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=FNnvj8A4Zjo&t=1271s)
+- **RD 922 (2021-12-02)**, 2.2.3 · relator **Davi Barreto** · Homologação do resultado do leilão da concessão da BR-116/101 Rio de Janeiro–São Paulo (Edital 3/2021, Nova Dutra), realizado em 29/10/2021 → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Fábio: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=IwLYFZ4veDo&t=1705s)
+- **RD 923 (2021-12-16)**, 2.3.1 · relator **Guilherme Sampaio** · Abertura de quatro audiências públicas (uma por lote) sobre minutas de edital, contrato, PER e estudos de viabilidade da concessão de lotes rodoviário → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Fábio: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=MNr3gvJ5hlQ&t=3271s)
+- **RD 69 (reunião extraordinária; legenda diz «nº 79») (2021-12-22)**, 1.1.1 · relator **Guilherme Sampaio** · Aprovação de ajustes nos documentos do edital de concessão do sistema rodoviário BR-262/381 (BH–Viana); reabertura de prazo e novo cronograma → aprovado por unanimidade
+  - votos: Guilherme: relator; Fábio: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=lWjXLAY4HKI&t=455s)
+- **RD 924 (2022-01-20)**, 2.1.3 · relator **Rafael Vitale** · Ato de outorga e assinatura do contrato da concessão da BR-116/101 Rio–São Paulo (edital 3/2021) → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=q-BxgYhOb0c&t=394s)
+- **RD 924 (2022-01-20)**, 2.2.2 · relator **Davi Barreto** · Relatório final da AP 6/2021 e minutas de TAC (plano de ação e multas); sobrestamento do processo → aprovado por unanimidade — relatório aprovado e processo sobrestado
+  - votos: Davi: relator; Guilherme: acompanha; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=q-BxgYhOb0c&t=1145s)
+- **RD 924 (2022-01-20)**, 2.3.3 · relator **Guilherme Sampaio** · Segundo termo aditivo ao contrato (edital 5/2013) para alterar os anexos 1 (PER) e 2 (transição) do aditivo de relicitação da BR-163/MS → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=q-BxgYhOb0c&t=2564s)
+- **RD 925 (2022-02-03)**, 2.2.1 · relator **Davi Barreto** · Terceiro termo aditivo ao contrato de concessão da Via 040: prorrogação por mais 18 meses do primeiro termo aditivo (serviços essenciais e responsabil → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=pKYkK69QnQE&t=487s)
+- **RD 926 (2022-02-17)**, 2.1.2 · relator **Rafael Vitale** · Segundo termo aditivo ao contrato de concessão (BR-060/153/262, DF/GO/MG) para estabelecer as obrigações da relicitação, com prazo de assinatura até 2 → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=ewq82LPWw2E&t=385s)
+- **RD 926 (2022-02-17)**, 2.1.3 · relator **Rafael Vitale** · Aprovação do edital de concessão do sistema rodoviário Rio de Janeiro - Governador Valadares (BR-116 RJ/MG e BR-465/493 RJ), cerca de 727 km → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=ewq82LPWw2E&t=1728s)
+- **RD 926 (2022-02-17)**, extra.1 · relator **Rafael Vitale** · Cancelamento do leilão e suspensão do processo de contratação da concessão da BR-381/262 (ES/MG), edital 4/2021, a pedido do Ministério da Infraestrut → aprovado por unanimidade (extrapauta, por relevância e urgência)
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=ewq82LPWw2E&t=4200s)
+- **RD 927 (2022-03-10)**, 2.2.1 · relator **Davi Barreto** · Edição de ato de outorga e autorização para assinatura do contrato de concessão da BR-163/230 (MT-PA) → vista concedida ao Diretor-Geral
+  - votos: Davi: relator; Rafael: vista; Guilherme: outro · [vídeo](https://www.youtube.com/watch?v=vD2mixuNuv8&t=692s)
+- **RD 927 (2022-03-10)**, 2.2.4 · relator **Davi Barreto** · Requerimento de qualificação da concessão para relicitação (Decreto 9.957/2019): viabilidade técnica e jurídica, encaminhamento ao Ministério da Infra → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=vD2mixuNuv8&t=1616s)
+- **RD 71 (extraordinária) (2022-03-31)**, 1.1.1 · relator **Davi Barreto** · Emissão do ato de outorga da BR-163/230/MT/PA e autorização para assinatura do contrato de concessão (voto-vista do Diretor-Geral; processo apresentad → aprovado por unanimidade, nos termos do voto do relator
+  - votos: Davi: relator; Rafael: revisor_acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=1o0qu7INXQM&t=149s)
+- **RD 71 (extraordinária) (2022-03-31)**, 1.1.2 · relator **Rafael Vitale** · Alterações nos documentos do edital 1/2022 (concessão do sistema rodoviário Rio de Janeiro–Governador Valadares: BR-116, BR-465 e BR-493/RJ/MG), com l → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=1o0qu7INXQM&t=586s)
+- **RD 929 (2022-04-07)**, 2.1.3 · relator **Rafael Vitale** · Aditamento ao relatório final da AP 1/2021 para incluir a contribuição escrita (protocolo de ouvidoria 6907154) do deputado estadual do Paraná Homero  → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=1K0RRpACKrE&t=970s)
+- **RD 933 (2022-06-09)**, 2.2.3 · relator **Guilherme Sampaio** · Homologação do resultado do leilão da concessão do sistema rodoviário BR-116/465 e BR-493 (Rio de Janeiro e Minas Gerais), Edital 1/2022 (leilão Rio-V → homologado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=JdxV62knDD0&t=487s)
+- **RD 72 (extraordinária) (2022-06-15)**, 1.1.1 · relator **Guilherme Sampaio** · Segundo termo aditivo ao contrato de concessão da Autopista Fluminense para a relicitação (devolução amigável) do trecho da BR-101/RJ entre a divisa c → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=rbtOUcIEzKs&t=206s)
+- **RD 73ª extraordinária (2022-07-11)**, 1.1.1 · relator **Guilherme Sampaio** · Abertura de audiência pública complementar sobre minutas de edital e contrato, PER e estudos de viabilidade da concessão da BR-381/MG (Governador Vala → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=H9Q2ZZgJsNM&t=55s)
+- **RD 938 (2022-08-18)**, 2.1.1 · relator **Davi Barreto** · Homologação do resultado do leilão, emissão do ato de outorga e autorização para assinatura do contrato de concessão da BR-116/465/493 (Rio de Janeiro → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZRlWHMfj98o&t=674s)
+- **RD 939 (2022-09-01)**, 2.1.3 · relator **Guilherme Sampaio** · Relatório da Audiência Pública 7/2021 (minutas de edital, contrato, PER e estudos de viabilidade da concessão da BR-040 Rio–Belo Horizonte e BR-495) e → aprovado por unanimidade
+  - votos: Guilherme: relator; Luciano: acompanha; Cristiano: acompanha · [vídeo](https://www.youtube.com/watch?v=D4UlNAV41VU&t=264s)
+- **RD 940 (2022-09-21)**, 2.2.5 · relator **Guilherme Sampaio** · Relatório final da Audiência Pública 7/2022 (minutas de edital, contrato e PER; estudos de viabilidade da BR-381/MG, Belo Horizonte a Governador Valad → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=_4OA6Py0z3U&t=1461s)
+- **RD 76 (extraordinária) (2022-10-04)**, 1.2.1 · relator **Cristiano Della Giustina** · Quarto termo aditivo ao contrato (edital 3/2013) para estabelecer as obrigações da relicitação, nos termos da qualificação no PPI (Decreto 11.122/2022 → aprovado por unanimidade
+  - votos: Cristiano: relator; Davi: acompanha; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=eZvF7JwAVRQ&t=2490s)
+- **RD 941 (2022-10-06)**, 2.1.2 · relator **Davi Barreto** · Abertura de audiência pública sobre as minutas de edital e contrato, PER e estudos de viabilidade para a concessão do lote da BR-040 (Cristalina/GO a  → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=uprQ3zi71jA&t=433s)
+- **RD 941 (2022-10-06)**, 2.2.3 · relator **Guilherme Sampaio** · Abertura de audiência pública sobre minutas de edital e contrato, PER e estudos do lote BR-116, BR-158, BR-290 e BR-392 (Rio Grande do Sul, 674 km), a → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=uprQ3zi71jA&t=2748s)
+- **RD 942 (2022-10-20)**, 2.2.3 · relator **Davi Barreto** · Audiência pública sobre minutas de edital e contrato, PER e estudos da concessão da BR-262/MG (Uberaba - Betim, ≈ 438,9 km) - Rota Zebu → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=6v_1vNFnIH0&t=1257s)
+- **RD 944 (2022-11-17)**, 2.1.2 · relator **Davi Barreto** · Viabilidade técnica e jurídica do requerimento de relicitação (devolução amigável) da concessão da BR-393/RJ, com sustentação oral da concessionária → aprovado por unanimidade — não atestada a viabilidade técnica e jurídica da relicitação
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Cristiano: outro; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=CT35ZXZmZ3c&t=1949s)
+- **RD 945 (2022-12-01)**, 2.3.1 · relator **Guilherme Sampaio** · Requerimento de qualificação da concessão para relicitação (Lei 13.448/2017, Decreto 9.957/2019) e envio ao Ministério da Infraestrutura → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=aLImLnDA8UQ&t=391s)
+- **RD 945 (2022-12-01)**, 2.4.2 · relator **Luciano Lourenço** · Quinto termo aditivo: prorrogar por 60 dias o início da vigência do quarto termo aditivo (relicitação), que passa a 120 dias, com assinatura até 05/12 → aprovado por unanimidade
+  - votos: Luciano: relator; Davi: acompanha; Guilherme: acompanha; Cristiano: acompanha; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=aLImLnDA8UQ&t=1755s)
+- **RD 946 (2022-12-15)**, 2.2.1 · relator **Davi Barreto** · Anuência prévia para transferência do controle societário da CRO (BR-163/MT e MT-407) para a MT Participações e Projetos → aprovado por unanimidade (com duas condicionantes)
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=j8wblcVarbU&t=466s)
+- **RD 946 (2022-12-15)**, 2.2.2 · relator **Davi Barreto** · Segundo reajuste da tarifa básica de pedágio praticada (3º termo aditivo, edital 6/2013) e determinação de processo específico para apurar em 60 dias  → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=j8wblcVarbU&t=951s)
+- **RD 947 (2022-12-22)**, 2.2.1 · relator **Guilherme Sampaio** · Abertura de audiência pública sobre minutas de edital, contrato e PER e estudos de viabilidade do lote BR-153/GO-MG e BR-262/MG (530,6 km) → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=y4r8H6490-4&t=1426s)
+- **RD 947 (2022-12-22)**, 2.4.3 · relator **Cristiano Della Giustina** · Reabertura do prazo de contribuições da Audiência Pública 10/2022 (concessão do lote BR-116/158/290/392, RS, 674 km), até 31/01/2023 → aprovado por unanimidade
+  - votos: Cristiano: relator; Davi: nao_captado; Guilherme: nao_captado; Luciano: outro; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=y4r8H6490-4&t=3899s)
 - **RD 949 (2023-02-02)**, 2.1.2 · relator **Davi Barreto** · Sexto termo aditivo ao contrato de concessão (Edital 3/2013, BR-163/MT): nova prorrogação de 60 dias do prazo do quarto termo aditivo (relicitação) pa → aprovado por unanimidade
   - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=58YX4d-4chY&t=545s)
 - **RD 950 (2023-02-16)**, 2.2.5 · relator **Davi Barreto** · Abertura de audiência pública sobre minutas de edital, contrato, PER e estudos de viabilidade da concessão da BR-163/MS (Rota do Pantanal), da divisa  → aprovado por unanimidade

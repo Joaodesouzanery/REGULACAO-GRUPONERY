@@ -1,16 +1,18 @@
 # Perfil analítico — Rafael Vitale · tema: sandbox_inovacao
 
-**Amostra:** presente em 63 das 63 reuniões analisadas em que há registro de presença/ausência; 13 votos neste tema; 1 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 108 das 109 reuniões analisadas em que há registro de presença/ausência; 15 votos neste tema; 1 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 12 (100% dos votos em que não era relator) · relator 1 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 13 (92% dos votos em que não era relator) · relator 1 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
 **Como relator:** 1/1 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** fiscalizacao_sancoes 333/11; concessoes_rodoviarias 287/6; onibus 155/3; onibus_regular 112/0; regulacao_normativa 93/14; reequilibrio_contratual 82/0; participacao_social 71/4; institucional 55/25; leilao_otimizacao 54/5; ferrovias 53/1; judicializacao 48/4; onibus_fretamento 42/1; cargas 24/1; pedagio_freeflow 20/0; sustentabilidade 14/2; sandbox_inovacao 13/1; tarifa_modicidade 3/0; onibus_semiurbano 2/2
+**Temas (nº de itens em que votou / relatorias):** fiscalizacao_sancoes 409/23; concessoes_rodoviarias 397/28; onibus 204/10; regulacao_normativa 188/41; onibus_regular 142/5; reequilibrio_contratual 128/9; participacao_social 124/11; ferrovias 114/22; institucional 105/34; leilao_otimizacao 96/13; judicializacao 83/8; onibus_fretamento 57/3; pedagio_freeflow 46/6; cargas 41/3; sustentabilidade 18/2; sandbox_inovacao 15/1; tarifa_modicidade 13/3; onibus_semiurbano 8/3
 **Argumentos recorrentes nas justificativas registradas:** participação social (1); TCU/controle externo (1)
 **Tom (inferência da leitura, não métrica):** firme
 
 ## Evidências (reunião · item · voto · justificativa)
 
+- **RD 927 (2022-03-10)**, item 2.2.2 — Abertura de audiência pública sobre a minuta de resolução do sandbox regulatório (ambiente regulatório experimental) · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=vD2mixuNuv8&t=1290s) · resultado: aprovado por unanimidade
+- **RD 943 (2022-11-03)**, item 2.4.1 — Relatório final da Audiência Pública 2/2022 e aprovação da minuta de resolução do ambiente regulatório experimental (sandbox regulatório) · voto: *aprova* (outro, conf. media) · «cita uso potencial do sandbox para autorizações ferroviárias e outros projetos» · [vídeo](https://www.youtube.com/watch?v=MamI8NVrbBs&t=4800s) · resultado: aprovado por unanimidade
 - **RD 949 (2023-02-02)**, item 2.3.3 — Recurso (pedido de reconsideração) contra a Deliberação 389/2022 que cassou a autorização de fretamento por circuito aberto e venda de bilhe · voto: *acompanha o relator, com o parágrafo proposto por Guilherme Sampaio* (acompanha, conf. alta) · «caso concreto deve avaliar intenção de tumultuar (suspeição arguida 1-2 horas antes da sessão); sugere avaliar incluir a matéria na revisão da Res. 5.083; encaminhar à Procuradoria para eventual infração ao OAB; agência atua sem posição a favor ou contra empresas» · [vídeo](https://www.youtube.com/watch?v=58YX4d-4chY&t=3700s) · resultado: aprovado por unanimidade — conhecido, sem efeito suspensivo; não provi
 - **RD 950 (2023-02-16)**, item 2.4.2 — Termo aditivo ao contrato de concessão (edital 3/2021) para regulamentar obrigações e efeitos do sandbox regulatório do pedágio em fluxo liv · voto: *acompanha integralmente o relator; destaca a coragem da inovação e o programa de experiência internacional* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=4650s) · resultado: aprovado por unanimidade (votado em conjunto com 2.4.3)
 - **RD 950 (2023-02-16)**, item 2.4.3 — Aprovação do termo de referência e plano de trabalho do ambiente regulatório experimental (sandbox) para teste de cobrança eletrônica em flu · voto: *acompanha integralmente o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=4650s) · resultado: aprovado por unanimidade (votado em conjunto com 2.4.2)

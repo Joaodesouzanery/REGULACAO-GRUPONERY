@@ -1,5 +1,49 @@
 # Itens do tema «onibus_fretamento» (todos os diretores)
 
+- **RD 913 (2021-08-17)**, 2.1.2 · relator **Rafael Vitale** · Recurso contra entendimento firmado no item 3 do Ofício SEI 12654/2021 da Corregedoria (19/05/2021) → julgamento na parte reservada da reunião (não transmitida); sem conteúdo na transcrição
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=M3Oooch06TQ&t=99s)
+- **RD 913 (2021-08-17)**, 2.1.3 · relator **Rafael Vitale** · Recurso contra entendimento do item 3 do Ofício SEI 13152/2021 da Corregedoria (14/05/2021) → julgamento na parte reservada da reunião (não transmitida); sem conteúdo na transcrição
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=M3Oooch06TQ&t=120s)
+- **RD 913 (2021-08-17)**, 2.3.1 · relator **Guilherme Sampaio** · Recurso contra entendimento firmado no item 3 do Ofício SEI 12661/2021 da Corregedoria (19/05/2021) → julgamento na parte reservada da reunião (não transmitida); sem conteúdo na transcrição
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=M3Oooch06TQ&t=160s)
+- **RD 916 (2021-09-09)**, 2.2.2 · relator **Rafael Vitale** · Recurso contra o entendimento do item 3 do Ofício SEI 12654/2021 da Corregedoria (reservado) → julgamento na parte reservada; sem conteúdo na transcrição
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=qBHo290jUds&t=530s)
+- **RD 916 (2021-09-09)**, 2.2.3 · relator **Rafael Vitale** · Recurso contra o entendimento do item 3 do Ofício SEI 13152/2021 (reservado) → julgamento na parte reservada; sem conteúdo na transcrição
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=qBHo290jUds&t=540s)
+- **RD 916 (2021-09-09)**, 2.2.4 · relator **Rafael Vitale** · Recurso contra o entendimento do item 3 do Ofício SEI 12661/2021 (reservado) → julgamento na parte reservada; sem conteúdo na transcrição
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=qBHo290jUds&t=555s)
+- **RD 921 (2021-11-18)**, 2.1.2 · relator **Rafael Vitale** · Proposta de súmula que define transporte clandestino para aplicação da Res. 4.287/2014 → vista coletiva (súmula, art. 121 do Regimento); deliberação na próxima reunião
+  - votos: Rafael: relator · [vídeo](https://www.youtube.com/watch?v=FNnvj8A4Zjo&t=457s)
+- **RD 921 (2021-11-18)**, 2.3.1 · relator **Guilherme Sampaio** · Processo administrativo ordinário: aplicação de penalidade por uso de autorização de fretamento para transporte de mercadorias de procedência estrange → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Fábio: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=FNnvj8A4Zjo&t=7582s)
+- **RD 924 (2022-01-20)**, 2.2.3 · relator **Davi Barreto** · Revogação do art. 2º da Deliberação 84/2020 (processo contra administradores e controladores, art. 78-E da Lei 10.233/2001) → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=q-BxgYhOb0c&t=1462s)
+- **RD 924 (2022-01-20)**, 2.3.7 · relator **Guilherme Sampaio** · Pedido de reconsideração contra a Deliberação 183/2020 (inidoneidade por 5 anos, cassação e processo contra administradores) → aprovado por unanimidade — provimento parcial
+  - votos: Guilherme: relator; Davi: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=q-BxgYhOb0c&t=3457s)
+- **RD 928 (2022-03-21)**, 2.3.1 · relator **Guilherme Sampaio** · Processo administrativo ordinário por apresentação de CRLV com indícios de adulteração; arquivamento quanto à administradora, comunicação ao Ministéri → aprovado por unanimidade, nos termos do voto do relator
+  - votos: Guilherme: relator; Davi: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=UyiMgSyX3iI&t=2465s)
+- **RD 932 (2022-05-25)**, 2.1.4 · relator **Rafael Vitale** · Processo administrativo ordinário: descumprimento de regulamentos de fretamento; cassação da autorização de fretamento; processo apresentado pelo DG n → aprovado por unanimidade, nos termos do voto do relator com as sugestões do revisor
+  - votos: Rafael: relator; Davi: revisor_acompanha; Guilherme: revisor_acompanha; Luciano: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=NoErqGw5nsc&t=1186s)
+- **RD 943 (2022-11-03)**, 2.2.1 e 2.3.1 (suspeição) · relator **Guilherme Sampaio** · Arguições de suspeição do DG Rafael Vitale (pelas duas empresas), com base em suposto inquérito policial noticiado na imprensa; julgadas em bloco (art → improcedentes; arquivadas por unanimidade (DG não vota)
+  - votos: Guilherme: relator; Davi: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=MamI8NVrbBs&t=725s)
+- **RD 943 (2022-11-03)**, 2.3.1 · relator **Guilherme Sampaio** · Recurso contra a Deliberação 188/2022 (25/05/2022) que aplicou cassação da autorização de fretamento interestadual/internacional; sustentação oral de  → cassação mantida; aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=MamI8NVrbBs&t=1212s)
+- **RD 943 (2022-11-03)**, 2.2.1 · relator **Davi Barreto** · Processo administrativo ordinário: transporte em circuito aberto em diversas viagens (art. 36, par. 5º, Decreto 2.521/98); cassação da autorização de  → cassação aplicada; aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=MamI8NVrbBs&t=1993s)
+- **RD 943 (2022-11-03)**, 2.4.2 · relator **Luciano Lourenço** · Revogação da Súmula 11, de 02/12/2021 (caracterização de transporte clandestino para fins da Res. 4.287/2014) → vista coletiva (voltará na próxima reunião)
+  - votos: Luciano: relator; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=MamI8NVrbBs&t=4895s)
+- **RD 944 (2022-11-17)**, 2.1.1 · relator **Davi Barreto** · Processo administrativo ordinário por infrações à legislação de transporte rodoviário de passageiros (fretamento) → retirado de pauta pelo relator
+  - votos: Davi: relator · [vídeo](https://www.youtube.com/watch?v=CT35ZXZmZ3c&t=83s)
+- **RD 944 (2022-11-17)**, 2.2.2 · relator **Guilherme Sampaio** · Processo administrativo ordinário: uso de licença de viagem de fretamento para operar circuito aberto e vender passagens → aprovado por unanimidade — cassação
+  - votos: Guilherme: relator; Luciano: acompanha; Davi: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=CT35ZXZmZ3c&t=3449s)
+- **RD 944 (2022-11-17)**, 2.4.2 · relator **Cristiano Della Giustina** · Processo administrativo ordinário: operação de fretamento em circuito aberto (21 flagrantes; 77 registros do código 401) → aprovado por unanimidade — cassação
+  - votos: Cristiano: relator; Davi: acompanha; Guilherme: outro; Luciano: acompanha; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=CT35ZXZmZ3c&t=4011s)
+- **RD 947 (2022-12-22)**, 2.1.5 · relator **Davi Barreto** · Processo administrativo ordinário por operação de fretamento em circuito aberto (23 viagens entre jan e out/2021) → aprovado por unanimidade — cassação
+  - votos: Davi: relator; Guilherme: nao_captado; Luciano: nao_captado; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=y4r8H6490-4&t=1051s)
+- **RD 947 (2022-12-22)**, 2.4.1 · relator **Cristiano Della Giustina** · Pedido de reconsideração contra a Deliberação 347/2022 (17/11/2022), que aplicou cassação → aprovado por unanimidade — reconsideração conhecida e desprovida
+  - votos: Cristiano: relator; Davi: acompanha; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=y4r8H6490-4&t=3155s)
+- **RD 947 (2022-12-22)**, 2.4.2 · relator **Cristiano Della Giustina** · Processo administrativo ordinário por operação em circuito aberto de fretamento → aprovado por unanimidade — cassação
+  - votos: Cristiano: relator; Davi: nao_captado; Guilherme: acompanha; Luciano: nao_captado; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=y4r8H6490-4&t=3560s)
 - **RD 949 (2023-02-02)**, 2.3.3 · relator **Luciano Lourenço** · Recurso (pedido de reconsideração) contra a Deliberação 389/2022 que cassou a autorização de fretamento por circuito aberto e venda de bilhetes via pl → aprovado por unanimidade — conhecido, sem efeito suspensivo; não provido; com determinação
   - votos: Luciano: relator; Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=58YX4d-4chY&t=2339s)
 - **RD 952 (2023-03-16)**, 2.2.1 · relator **Felipe Queiroz** · Pedido de reconsideração contra a Deliberação 403/2022 (22/12/2022) que aplicou cassação da autorização de fretamento → aprovado por unanimidade — conhecido, sem efeito suspensivo; não provido

@@ -1,0 +1,230 @@
+{
+ "meta": {
+  "video_id": "VsOaNcaVs4Y",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "888",
+  "data": "2021-02-09",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Weber Ciloni",
+   "Davi Barreto",
+   "Alexandre Porto",
+   "Eduardo Marra"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Encerrada a parte pública às 14h54.",
+   "Processo reservado (sigiloso) de relatoria do DG: recurso da Concepa (Rodovia Osório–Porto Alegre) contra decisão de 2018.",
+   "Dois votos-vista de Davi Barreto sobre referendos judiciais de transferência de mercados (Gontijo × Edson/Expresso Adamantina e Real Maia), julgados em conjunto.",
+   "Sustentação oral da Rumo Malha Central (vícios ocultos, subconcessão da FNS)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "reservado",
+   "ts": "0:02:21",
+   "processo": "50520.026896/2017-11 (legenda)",
+   "interessado": "Concepa – Concessionária da Rodovia Osório–Porto Alegre S.A.",
+   "assunto": "Processo reservado: recurso contra decisão de 13/07/2018 (provável infração); julgamento sem transmissão",
+   "tema": [
+    "concessões rodoviárias",
+    "fiscalização e sanções"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "sigiloso – sem transmissão",
+   "resumo_voto": "Sem conteúdo público.",
+   "votos": []
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:02:57",
+   "processo": "50500.321770/2018-68",
+   "interessado": "Empresa Gontijo de Transportes; Viação Continental; Edson Agência de Viagens e Turismo; Expresso Adamantina",
+   "assunto": "Voto-vista: referendo das Deliberações 533/534 de 23/12/2020 (revogaram autorização de transferência de mercados da Edson para a Expresso Adamantina), em cumprimento de decisão judicial do TRF-1 (ação da Gontijo e Viação Continental)",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao",
+    "transferência de mercados"
+   ],
+   "relator": "Davi Barreto (voto-vista)",
+   "resultado": "aprovado por unanimidade (julgado em conjunto com 2.2.2)",
+   "resumo_voto": "Davi acompanha o diretor-geral quanto a referendar as deliberações 533/534 (decisão judicial alcançou também as transferências de mercado; embargos rejeitados em 14/01/2021), ajusta o art. 1º trocando «revogar» por «suspender», e entende que os recursos das empresas não devem ser conhecidos, pois a Nota PF 32/2020 não admite recurso administrativo contra ato da diretoria que cumpre decisão judicial.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "voto-vista: acompanha o DG, com ajuste de redação (suspender) e não conhecimento dos recursos",
+     "ts": "0:05:15",
+     "justificativa": "decisão judicial alcança as transferências; recurso administrativo incabível contra ato de cumprimento de decisão judicial",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o relator (ajuste revogar→suspender)",
+     "ts": "0:09:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:09:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:09:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo (autor do voto original, acompanha o voto-vista)",
+     "ts": "0:09:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "0:09:38",
+   "processo": "50500.466582/2016-04",
+   "interessado": "Gontijo; Viação Continental; Edson; Real Maia Turismo e Cargas",
+   "assunto": "Voto-vista: referendo da Deliberação 534/2020 (revogou Del. 152/2018, transferência de mercados Edson→Real Maia); mesmo mérito do 2.2.1",
+   "tema": [
+    "ônibus (transporte regular, TAR)",
+    "judicializacao",
+    "transferência de mercados"
+   ],
+   "relator": "Davi Barreto (voto-vista)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Idêntico ao 2.2.1; votação conjunta.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "voto-vista: mesmo sentido do 2.2.1",
+     "ts": "0:09:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com o relator",
+     "ts": "0:10:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "compõe o voto do relator",
+     "ts": "0:11:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:11:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:11:13",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:11:27",
+   "processo": "50500.003860/2017-75 (legenda)",
+   "interessado": "Rumo Malha Central S.A.",
+   "assunto": "Pedido de reconsideração contra a Deliberação 523/2020, que deu provimento parcial a 2 das 12 reclamações de vícios ocultos na malha ferroviária (FNS, subconcessão); com sustentação oral do Dr. Robson Barreirinhas",
+   "tema": [
+    "ferrovias",
+    "concessões ferroviárias",
+    "reequilíbrio contratual",
+    "sustentação oral"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "aprovado por unanimidade — nega provimento",
+   "resumo_voto": "Mantém integralmente a Del. 523/2020: a maior parte dos defeitos não é vício oculto (conhecidos ou inventariados no anexo do contrato, risco alocado à concessionária; desgaste de operação); apenas soldas defeituosas no Tramo Sul e tensões residuais seguem reconhecidas, com processos para apurar valores de reequilíbrio.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:11:27",
+     "justificativa": "distinguir vício oculto de defeito construtivo conhecido; riscos já alocados à concessionária com inventário no contrato; transparência prévia ao leilão",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator; reforça distinção vício/desconformidade e especificação de solda",
+     "ts": "0:30:20",
+     "justificativa": "vício oculto depende da condição de operação e especificação de solda por tipo de carregamento",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:31:12",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:31:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:31:18",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3.1",
+   "ts": "0:31:42",
+   "processo": "50500.103628/2020-55",
+   "interessado": "Despacho DG SEI 5183095 (03/02/2021)",
+   "assunto": "Assuntos gerais: pedido de cancelamento de distribuição de processo",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado (sem manifestações)",
+   "resumo_voto": "Cancelamento de distribuição apreciado por votação nominal.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:32:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:32:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Marra",
+     "voto": "de acordo",
+     "ts": "0:32:18",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Ata da 887ª aprovada (0:01:20).",
+  "Nomes de diretores pela legenda automática (ex.: «Eduardo Marra», «Menezes») são incertos; atribuição de «Menezes» a Alexandre Porto é inferência pela composição do colegiado.",
+  "Entre os votos de 2.2.1/2.2.2 há trecho de discussão procedimental (relatar em conjunto) pouco legível.",
+  "Na sustentação oral da Rumo (≈15 min), argumentos resumidos: reclamação dentro de 1 ano da assunção; visitas técnicas curtas; vícios de soldas, trilhos, dormentes; acórdão TCU 1103/2013.",
+  "Votos de seguidores têm ts aproximados; o voto de Weber Ciloni no 2.3.1 tem comentário técnico (~0:30:00) lido da legenda truncada."
+ ]
+}

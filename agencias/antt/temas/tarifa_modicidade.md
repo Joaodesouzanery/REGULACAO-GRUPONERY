@@ -1,5 +1,31 @@
 # Itens do tema «tarifa_modicidade» (todos os diretores)
 
+- **RD 891 (2021-03-09)**, 2.4.1 · relator **Eduardo Marra** · Reajuste da tarifa básica de pedágio e autorização de início da cobrança nas praças P3 (Ituiutaba), P4 (Santa Vitória) e P5 (Paranaiguara) → aprovado por unanimidade
+  - votos: Eduardo: relator; Weber: acompanha; Davi: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=avr7ZpONzto&t=1380s)
+- **RD 896 (2021-04-13)**, 2.3.2 · relator **Eduardo Marra** · 13ª revisão ordinária, 13ª revisão extraordinária e reajuste anual da tarifa básica de pedágio → aprovado por unanimidade
+  - votos: Eduardo: relator; Davi: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=NjSTSz_qmS0&t=1588s)
+- **RD 907 (2021-06-29)**, 1.1 · relator **None** · Quinta revisão ordinária, sétima revisão extraordinária e reajuste da tarifa básica de pedágio da Ecoponte (BR-101/RJ, acesso à Ponte Presidente Costa → aprovado por unanimidade
+  - votos: Davi: acompanha; Eduardo: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=blOL4WURQD0&t=60s)
+- **RD 911 (2021-08-03)**, 1.1 · relator **Davi Barreto** · 17ª revisão ordinária, 14ª revisão extraordinária e reajuste da tarifa básica de pedágio da Ecosul (com sustentação oral da concessionária) → retirado de pauta (aprovado por unanimidade) após sustentação oral e nova decisão judicial
+  - votos: Davi: relator; Guilherme: acompanha; Fábio: acompanha; Alexandre: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=aMM9bZSp6XI&t=278s)
+- **RD 912 (2021-08-10)**, 1.1 · relator **Eduardo Marra** · 10ª revisão ordinária, 13ª revisão extraordinária, aplicação do desconto de reequilíbrio e reajuste anual da tarifa básica de pedágio (voto-vista de D → aprovado por maioria conforme o voto-vista de Davi Barreto
+  - votos: Eduardo: vencido; Davi: revisor_diverge; Guilherme: revisor_acompanha; Fábio: revisor_acompanha; Alexandre: revisor_acompanha; Rafael: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=iZ2_qX-t-6Q&t=378s)
+- **RD 923 (2021-12-16)**, 2.2.1 · relator **Davi Barreto** · Primeiro reajuste da tarifa básica de pedágio do 1º termo aditivo (IPCA de +10,25%; tarifa vai a R$ 5,80, categoria 1) → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Fábio: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=MNr3gvJ5hlQ&t=2613s)
+- **RD 926 (2022-02-17)**, 2.1.2 · relator **Rafael Vitale** · Segundo termo aditivo ao contrato de concessão (BR-060/153/262, DF/GO/MG) para estabelecer as obrigações da relicitação, com prazo de assinatura até 2 → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=ewq82LPWw2E&t=385s)
+- **RD 926 (2022-02-17)**, 2.1.3 · relator **Rafael Vitale** · Aprovação do edital de concessão do sistema rodoviário Rio de Janeiro - Governador Valadares (BR-116 RJ/MG e BR-465/493 RJ), cerca de 727 km → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=ewq82LPWw2E&t=1728s)
+- **RD 926 (2022-02-17)**, 2.1.4 · relator **Rafael Vitale** · 13ª revisão ordinária, 14ª revisão extraordinária e reajuste da tarifa básica de pedágio (BR-116 SP/PR) → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=ewq82LPWw2E&t=2217s)
+- **RD 926 (2022-02-17)**, 2.2.3 · relator **Davi Barreto** · Reajuste da tarifa básica de pedágio e início da cobrança do pedágio da nova concessão → retirado de pauta pelo relator
+  - votos: Davi: relator; Rafael: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=ewq82LPWw2E&t=2819s)
+- **RD 926 (2022-02-17)**, 2.3.1 · relator **Guilherme Sampaio** · 14ª revisão ordinária, 14ª revisão extraordinária e reajuste da tarifa de pedágio (BR-116 PR/SC) → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ewq82LPWw2E&t=3029s)
+- **RD 926 (2022-02-17)**, 2.3.2 · relator **Guilherme Sampaio** · 1ª revisão ordinária, 1ª revisão extraordinária e reajuste da tarifa básica de pedágio → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ewq82LPWw2E&t=3282s)
+- **RD 942 (2022-10-20)**, 2.2.3 · relator **Davi Barreto** · Audiência pública sobre minutas de edital e contrato, PER e estudos da concessão da BR-262/MG (Uberaba - Betim, ≈ 438,9 km) - Rota Zebu → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=6v_1vNFnIH0&t=1257s)
 - **RD 950 (2023-02-16)**, 2.2.6 · relator **Davi Barreto** · Segunda revisão ordinária, segunda revisão extraordinária e reajuste da tarifa básica de pedágio (edital 1/2019; BR-364/365, GO/MG) → aprovado por unanimidade
   - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=p7zNI6qIpS4&t=1902s)
 - **RD 990 (2024-09-05)**, 1.1.3 · relator **Luciano Lourenço** · 14ª revisão ordinária, 15ª e 16ª revisões extraordinárias e reajuste da tarifa básica de pedágio (TBP) do contrato do Edital 7/2007; termo aditivo com → aprovado por unanimidade

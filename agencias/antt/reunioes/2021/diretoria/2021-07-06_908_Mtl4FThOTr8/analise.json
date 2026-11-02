@@ -1,0 +1,140 @@
+{
+ "meta": {
+  "video_id": "Mtl4FThOTr8",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "908",
+  "data": "2021-07-06",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Alexandre Porto (presidente da sessão; nome conforme saudações e referência do advogado na RD 894; cargo de Diretor-Geral a confirmar)",
+  "diretores_presentes": [
+   "Alexandre Porto",
+   "Davi Barreto",
+   "Menezes (nome distorcido na legenda)"
+  ],
+  "ausentes": [
+   "Eduardo Marra"
+  ],
+  "observacoes": [
+   "Eduardo Marra ausente por comunicado prévio; quórum de três diretores.",
+   "Reunião curta (≈ 12 min, encerrada às 14h57); 3 itens, todos aprovados por unanimidade, um deles extrapauta."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1",
+   "ts": "0:01:16",
+   "processo": "50500.012281/2021-21 (parcial)",
+   "interessado": "ANTT (área administrativa)",
+   "assunto": "Edição de instrução normativa sobre concessão de diárias e passagens, em substituição à norma administrativa interna nº 3",
+   "tema": [
+    "institucional",
+    "regulação normativa"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Atualiza a norma interna (Deliberação 134/2010) ao Decreto 10.193/2019, que fixou limites e governança para gastos com diárias e passagens; agiliza o fluxo de aprovação de viagens sem reduzir controles; instrumento validado pela Procuradoria.",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, aprova",
+     "ts": "0:01:16",
+     "justificativa": "agilizar o fluxo de aprovação de viagens mantendo segurança e controle; adequação ao Decreto 10.193/2019",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:03:25",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Menezes (nome distorcido na legenda)",
+     "voto": "de acordo",
+     "ts": "0:03:28",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:03:39",
+   "processo": "50500.044238/2020-36",
+   "interessado": "Autopista Litoral Sul",
+   "assunto": "13ª revisão ordinária, 15ª revisão extraordinária e reajuste da tarifa básica de pedágio (BR-116/376 e BR-101, Curitiba–Florianópolis)",
+   "tema": [
+    "concessões rodoviárias",
+    "pedágio",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito combinado de 5,98% sobre a tarifa a partir da data-base; reajuste IPCA de 4,56%; tarifa da categoria 1 passa de R$ 3,90 para R$ 4,10 nas praças P1 a P5 (valores conforme legenda). Revisão considera eixos suspensos (Lei 13.103/2015), substituição do tráfego previsto pelo realizado, receitas extraordinárias, cronograma do PER e atualização das curvas de tráfego.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:03:39",
+     "justificativa": "manifestações técnicas e jurídicas favoráveis; concorda com o caminho proposto pela área técnica",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "de acordo",
+     "ts": "0:07:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes (nome distorcido na legenda)",
+     "voto": "de acordo",
+     "ts": "0:07:14",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "extrapauta",
+   "ts": "0:07:26",
+   "processo": "50500.045487/2020-49",
+   "interessado": "Rumo Malha Paulista",
+   "assunto": "Extrapauta: 3º termo aditivo ao contrato de concessão para extinguir o contrato de arrendamento 47/98 (Lei 13.448 e Decreto 10.161) e termo de cessão de uso de bens imóveis entre DNIT e concessionária, com interveniência da ANTT",
+   "tema": [
+    "ferrovias",
+    "concessões ferroviárias",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Alexandre Porto",
+   "resultado": "aprovado por unanimidade (inclusão extrapauta também unânime)",
+   "resumo_voto": "Inclusão pedida por urgência da concessionária (contrato com empresa de limpeza/corte de material ao longo da linha). Procuradoria favorável (Parecer 188; Nota 047 junto ao DNIT).",
+   "votos": [
+    {
+     "diretor": "Alexandre Porto",
+     "voto": "relator, aprova",
+     "ts": "0:07:26",
+     "justificativa": "urgência alegada pela concessionária; matéria regulamentada pela Lei 13.448 e Decreto 10.161",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:12:02",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Menezes (nome distorcido na legenda)",
+     "voto": "de acordo",
+     "ts": "0:12:04",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: nome do diretor «Menezes» aparece como «Mostra/Almoço de Menezes»; nome próprio não confirmado.",
+  "Números de processo e de deliberação parciais.",
+  "O presidente da sessão é chamado de «Alexandre» na legenda e de «Alexandre Porto» pelo advogado na RD 894; não confirmado se era o Diretor-Geral nesta data."
+ ]
+}

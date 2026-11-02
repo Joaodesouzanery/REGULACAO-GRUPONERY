@@ -1,7 +1,7 @@
 """Carrega data/analise/*.analise.json em data/regulacao.db (tabelas de schema2.sql) e normaliza diretores, temas e categorias de voto."""
 import json, glob, re, sqlite3, os
-DIRETORES = ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alex Azevedo", "Marcelo Fonseca", "Alessandro Baumgarten", "Amaral Filho", "Severino Medeiros", "Rafael Vitale", "Luciano Lourenço", "Davi Barreto", "Fábio Rogério", "Cristiano Della Giustina"]
-ALIAS = {"Amaral Filho": r"amaral", "Guilherme Sampaio": r"guilherme", "Felipe Queiroz": r"felipe", "Lucas Asfor": r"lucas",
+DIRETORES = ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alex Azevedo", "Marcelo Fonseca", "Alessandro Baumgarten", "Amaral Filho", "Severino Medeiros", "Rafael Vitale", "Luciano Lourenço", "Davi Barreto", "Fábio Rogério", "Cristiano Della Giustina", "Alexandre Porto", "Marcelo Vinaud", "Weber Ciloni", "Eduardo Marra", "Menezes (nome incerto)"]
+ALIAS = {"Alexandre Porto": r"alexandre|\bporto\b", "Marcelo Vinaud": r"vinaud|vinor|renn[óo]r?\b", "Weber Ciloni": r"weber|ciloni|cilloni", "Eduardo Marra": r"marra", "Menezes (nome incerto)": r"menezes", "Amaral Filho": r"amaral", "Guilherme Sampaio": r"guilherme", "Felipe Queiroz": r"felipe", "Lucas Asfor": r"lucas",
          "Alex Azevedo": r"alex", "Marcelo Fonseca": r"marcelo", "Alessandro Baumgarten": r"alessandro", "Severino Medeiros": r"severino", "Rafael Vitale": r"vital[eií]", "Luciano Lourenço": r"luciano", "Davi Barreto": r"davi", "Fábio Rogério": r"f[áa]bio", "Cristiano Della Giustina": r"cristiano|giustina|justino"}
 def canon(s):
     s = (s or "").lower()
@@ -60,10 +60,10 @@ for f in sorted(glob.glob("data/analise/*.analise.json")):
         if dn in pres: c.execute("INSERT INTO presenca VALUES(?,?,1)", (rid, dn))
         elif dn in aus: c.execute("INSERT INTO presenca VALUES(?,?,0)", (rid, dn))
     for it in d["itens"]:
-        rel_txt = it.get("relator", "")
+        rel_txt = it.get("relator") or ""
         rel = canon(rel_txt.split(";")[0].split("(")[0]) if rel_txt else None
         rev = canon(rel_txt.split("revisor:")[1]) if "revisor:" in rel_txt else None
-        res = it.get("resultado", "")
+        res = it.get("resultado") or ""
         unan = 1 if "unanim" in res.lower() else 0
         cur = c.execute("INSERT INTO itens(reuniao_id,item,ts,processo,interessado,assunto,relator,relator_texto,revisor,resultado,unanime,resumo) VALUES(?,?,?,?,?,?,?,?,?,?,?,?)",
             (rid, it["id"], it.get("ts"), it.get("processo"), it.get("interessado"), it["assunto"], rel, rel_txt, rev, res, unan, it.get("resumo_voto")))
@@ -73,6 +73,7 @@ for f in sorted(glob.glob("data/analise/*.analise.json")):
         for v in it.get("votos", []):
             dn = canon(v["diretor"])
             if not dn: continue
+            if dn == "Marcelo Fonseca" and str(r["data"]) < "2026-08": continue  # antes de ago/2026 era superintendente, não diretor votante
             cat = categoria(v, rel)
             c.execute("INSERT INTO votos(item_id,diretor,voto,categoria,ts,justificativa,tom,confianca,eh_relator) VALUES(?,?,?,?,?,?,?,?,?)",
                 (iid, dn, v["voto"], cat, v.get("ts"), v.get("justificativa"), v.get("tom"), v.get("confianca"), 1 if dn == rel and cat == "relator" else 0))

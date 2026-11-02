@@ -1,5 +1,193 @@
 # Itens do tema «institucional» (todos os diretores)
 
+- **RD 885 (2021-01-18)**, 2.2.1 · relator **Eduardo Marra** · Proposta de acordo de cooperação técnica ANTT–OCB para apoio ao cadastro de transportadores no RNTRC (cargas) e sistemas de passageiros (integração de → vista (pedido de vista por Davi Barreto; ver RD 895)
+  - votos: Eduardo: relator; Davi: vista · [vídeo](https://www.youtube.com/watch?v=KFIPj15oozg&t=353s)
+- **RD 888 (2021-02-09)**, 3.1 · relator **Marcelo Vinaud** · Assuntos gerais: pedido de cancelamento de distribuição de processo → aprovado (sem manifestações)
+  - votos: Weber: acompanha; Davi: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=VsOaNcaVs4Y&t=1902s)
+- **RD 66 (extraordinária) (2021-02-18)**, 2.1 · relator **None** · Despacho de cancelamento de distribuição de processo (assuntos gerais) → aprovado por unanimidade
+  - votos: Weber: acompanha; Davi: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=42M9M5YiRRY&t=1231s)
+- **RD 66 (extraordinária) (2021-02-18)**, 2.2 · relator **None** · Despacho de cancelamento de distribuição de processo (assuntos gerais) → aprovado por unanimidade
+  - votos: Weber: acompanha; Davi: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=42M9M5YiRRY&t=1269s)
+- **RD 889 (2021-02-23)**, 2.1.1 · relator **Weber Ciloni** · Proposta de alteração do Regimento Interno (Res. 5.888/2020) → retirado de pauta pelo relator
+  - votos: Weber: relator; Davi: acompanha; Eduardo: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=Ry_MleO7hwU&t=379s)
+- **RD 891 (2021-03-09)**, 2.2.1 · relator **Weber Ciloni** · Instituição e regulamentação do programa de incentivo à pós-graduação dos servidores da ANTT → aprovado (legenda confusa entre «maioria» e «unanimidade»; todos os votos registrados são 
+  - votos: Weber: relator; Davi: acompanha; Eduardo: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=avr7ZpONzto&t=706s)
+- **RD 891 (2021-03-09)**, 2.5.1 · relator **Menezes (nome incerto)** · Acordo de cooperação técnica com o MBC para subsidiar tecnicamente a análise de estudos e projetos do setor ferroviário (PPI), no contexto das prorrog → aprovado por unanimidade (com recomendação de Weber Ciloni registrada em ata)
+  - votos: Menezes: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=avr7ZpONzto&t=1668s)
+- **RD 894 (2021-03-30)**, 2.1.1 · relator **Alexandre Porto** · 2ª etapa da revisão e consolidação dos atos normativos da ANTT (Decreto 10.139/2019; IN 2/2020): revogação expressa de atos normativos sem efeitos → aprovado por unanimidade
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=ZrX6XBJsIXo&t=201s)
+- **RD 894 (2021-03-30)**, 2.2.1 · relator **Davi Barreto** · Diretrizes e regras para audiências presenciais ou virtuais concedidas a particulares ou agentes políticos (Decreto 4.334/2002; Plano de Integridade) → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Eduardo: acompanha; Menezes: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ZrX6XBJsIXo&t=1127s)
+- **RD 895 (2021-04-06)**, 2.1.1 · relator **Alexandre Porto** · 1º termo aditivo ao convênio de delegação (semiurbano Mafra–Rio Negro): arrecadação e cobrança da taxa de fiscalização (R$ 1.800 por ônibus/ano) passa → aprovado por unanimidade
+  - votos: Alexandre: relator; Davi: acompanha; Eduardo: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=ZqU-qL1jNnk&t=152s)
+- **RD 895 (2021-04-06)**, 2.1.2 · relator **Alexandre Porto** · Referendo da Resolução 5.929/2021 (decisão ad referendum, art. 70 do RI) que suspendeu restrições de tráfego de veículos com oxigênio medicinal (produ → aprovado por unanimidade
+  - votos: Alexandre: relator; Davi: acompanha; Eduardo: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=ZqU-qL1jNnk&t=383s)
+- **RD 895 (2021-04-06)**, 2.1.3 · relator **Alexandre Porto** · Regulamentação interna dos requisitos para ocupação de cargos em comissão (Decretos 9.727/2019 e 9.916; política de gestão de pessoas) → retirado de pauta pelo relator
+  - votos: Alexandre: relator; Davi: acompanha; Eduardo: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=ZqU-qL1jNnk&t=603s)
+- **RD 895 (2021-04-06)**, 2.2.1 · relator **Eduardo Marra** · Acordo de cooperação técnica para apoio ao cadastro RNTRC (voto-vista de Davi Barreto; relator Eduardo Marra; item visto na RD 885) → aprovado por unanimidade, com o voto-vista
+  - votos: Davi: revisor_acompanha; Eduardo: revisor_acompanha; Menezes: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ZqU-qL1jNnk&t=686s)
+- **RD 895 (2021-04-06)**, 2.3.1 · relator **Eduardo Marra** · Acordo de cooperação técnica CNTA–ANTT para apoio à inscrição e manutenção do cadastro RNTRC; sustentação oral de Edson Araújo da Silva pedindo retira → aprovado por unanimidade
+  - votos: Eduardo: relator; Davi: acompanha; Menezes: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ZqU-qL1jNnk&t=1211s)
+- **RD 896 (2021-04-13)**, 2.1.1 · relator **None** · Segundo termo aditivo ao TED 03/2018 (UFSC): prorrogação por cinco meses para apoio técnico a estudos de engenharia (objeto 8; até set/2021) → aprovado por unanimidade
+  - votos: Davi: acompanha; Eduardo: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=NjSTSz_qmS0&t=738s)
+- **RD 896 (2021-04-13)**, 3.1 · relator **Weber Ciloni** · Despacho de cancelamento de distribuição: processo (Lei 13.103/2015) que ficou com abstenção na 39ª reunião deliberativa eletrônica (29/03 a 01/04/202 → retirado de pauta até o retorno do relator (aprovado por unanimidade)
+  - votos: Davi: outro; Eduardo: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=NjSTSz_qmS0&t=2782s)
+- **RD 898 (2021-04-27)**, 2.1.1 · relator **Alexandre Porto** · Aprovação do Plano Anual de Contratações (PAC) 2022 da ANTT → aprovado por unanimidade
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=qTKOq7Jx1os&t=1132s)
+- **RD 898 (2021-04-27)**, 2.2.1 · relator **Weber Ciloni** · Alteração do Regimento Interno (Res. 5.888/2020): recriação do CEDOC/gestão documental subordinado ao Diretor-Geral e subordinação da Secretaria-Geral → vista coletiva; deliberação na RD 899
+  - votos: Weber: relator; Alexandre: outro · [vídeo](https://www.youtube.com/watch?v=qTKOq7Jx1os&t=1443s)
+- **RD 898 (2021-04-27)**, 2.3.3 · relator **Davi Barreto** · Alteração da estrutura gerencial da Superintendência de Serviços de Transporte Rodoviário de Passageiros (Deliberação 270/2020): gerências por process → aprovado por unanimidade
+  - votos: Davi: relator; Weber: acompanha; Eduardo: acompanha; Menezes: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=qTKOq7Jx1os&t=2768s)
+- **RD 898 (2021-04-27)**, 3.1 · relator **None** · Despacho: pedido de prazo adicional de 30 dias para conclusão de diligência (art. 54 §2º RI); processo de 2017, terceira prorrogação → aprovado por unanimidade (concedido)
+  - votos: Weber: acompanha; Davi: acompanha; Eduardo: acompanha; Menezes: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=qTKOq7Jx1os&t=3424s)
+- **RD 899 (2021-05-04)**, 2.2.1 · relator **Weber Ciloni** · Alteração do Regimento Interno (Res. 5.888/2020) para recriar o CEDOC (gestão documental) e reposicionar a Secretaria-Geral; voto-vista do presidente  → aprovado por unanimidade o voto-vista (juntada ao outro processo de revisão do Regimento)
+  - votos: Alexandre: revisor_acompanha; Weber: revisor_acompanha; Davi: revisor_acompanha; Eduardo: revisor_acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=kU4TfhacKO0&t=1116s)
+- **RD 899 (2021-05-04)**, 2.2.2 · relator **Weber Ciloni** · Outra proposta de alteração do Regimento Interno; relator retirou de pauta para tratá-la junto com o mesmo processo de estudo geral do Regimento → retirado de pauta pelo relator (aprovado por unanimidade)
+  - votos: Weber: relator; Davi: acompanha; Eduardo: acompanha; Menezes: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=kU4TfhacKO0&t=1356s)
+- **RD 899 (2021-05-04)**, 3.1 · relator **None** · Despacho: pedido de cancelamento de distribuição (art. 55 III do RI) → aprovado por unanimidade
+  - votos: Davi: acompanha; Eduardo: acompanha; Menezes: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=kU4TfhacKO0&t=2096s)
+- **RD 900 (2021-05-11)**, 2.1.1 · relator **Alexandre Porto** · Resolução interna: requisitos e procedimentos para ocupação de cargos comissionados (Decretos 9.727/2019 e 9.916/2019) e alocação de cargos de Chefe d → aprovado por unanimidade
+  - votos: Alexandre: relator; Weber: acompanha; Davi: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=L0gqTrnmc4w&t=622s)
+- **RD 900 (2021-05-11)**, despedida · relator **None** · Despedida do diretor Weber Ciloni (saída da diretoria) e homenagens → sem deliberação
+  - votos: Weber: outro; Davi: outro; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=L0gqTrnmc4w&t=876s)
+- **RD 901 (2021-05-18)**, 1 · relator **None** · Aprovação da ata da reunião anterior (RD 900) → aprovada
+  - votos: Davi: acompanha; Eduardo: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=LlN-qKuCLyE&t=50s)
+- **RD 901 (2021-05-18)**, 2.2.1 · relator **Davi Barreto** · Relatório final da Audiência Pública 7/2020 e minuta de resolução que altera regras de recomposição do equilíbrio contratual na inclusão de novos inve → aprovado por unanimidade
+  - votos: Davi: relator; Eduardo: acompanha; Menezes: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=LlN-qKuCLyE&t=321s)
+- **RD 902 (2021-05-25)**, 2.2.2 · relator **Davi Barreto** · Envio ao Ministério da Economia de solicitação de autorização de novo concurso público para 412 vagas de cargos efetivos da ANTT → aprovado por unanimidade
+  - votos: Davi: relator; Alexandre: acompanha; Eduardo: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=PsO2Rk6k2Cc&t=993s)
+- **RD 905 (2021-06-15)**, 1 · relator **None** · Aprovação da ata da reunião anterior (RD 904) → aprovada
+  - votos: Menezes: acompanha; Eduardo: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=aFnFR7eFh6o&t=50s)
+- **RD 905 (2021-06-15)**, 2.1.2 · relator **Menezes (nome incerto)** · Transferência ao Distrito Federal das outorgas de autorização especial, autorização judicial e permissão do transporte semiurbano delegado, e termo ad → aprovado por unanimidade
+  - votos: Menezes: relator; Eduardo: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=aFnFR7eFh6o&t=340s)
+- **RD 906 (2021-06-22)**, 2.1.2 · relator **Alexandre Porto** · Primeira revisão do Estatuto da Unidade de Auditoria Interna (Res. 5.853/2019), por força das IN 13/2020 e 19 da Secretaria Federal de Controle/CGU → aprovado por unanimidade
+  - votos: Alexandre: relator; Davi: acompanha; Eduardo: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=EdMj6bhyq-M&t=222s)
+- **RD 906 (2021-06-22)**, 2.2.1 · relator **Davi Barreto** · Alteração dos quantitativos de cargos comissionados (equiparar assessorias das diretorias e distribuir cargos técnicos às superintendências, com chefe → aprovado por unanimidade
+  - votos: Davi: relator; Eduardo: acompanha; Menezes: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=EdMj6bhyq-M&t=426s)
+- **RD 908 (2021-07-06)**, 2.1.1 · relator **Alexandre Porto** · Edição de instrução normativa sobre concessão de diárias e passagens, em substituição à norma administrativa interna nº 3 → aprovado por unanimidade
+  - votos: Alexandre: relator; Davi: acompanha; Menezes: acompanha · [vídeo](https://www.youtube.com/watch?v=Mtl4FThOTr8&t=76s)
+- **RD 909 (2021-07-13)**, 1.1.1 · relator **Alexandre Porto** · Referendo da deliberação 225 (1/7/2021; legenda diz 220/225) que revogou deliberações e portarias de outorga de novos mercados, em cumprimento a caute → aprovado por unanimidade (referendo)
+  - votos: Alexandre: relator; Davi: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=oBi-J784BDA&t=484s)
+- **RD 909 (2021-07-13)**, 2.1.2 · relator **Alexandre Porto** · Formalização do distrato dos termos de compromisso de 2006 e seus correspondentes aditivos, tornados sem sentido após a prorrogação antecipada → aprovado por unanimidade
+  - votos: Alexandre: relator; Davi: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=oBi-J784BDA&t=739s)
+- **RD 910 (2021-07-20)**, 3.1 · relator **None** · Atendimento à recomendação da Procuradoria-Geral Federal (nota PGF) — extrapauta reservado → reservado — sem conteúdo na transmissão
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=_8kPx2qM4kg&t=450s)
+- **RD 911 (2021-08-03)**, 3.1 · relator **Davi Barreto** · Despacho de Davi Barreto: concessão de prazo adicional para inclusão do processo em pauta (Regimento Interno), até 17/08/2021 → aprovado por unanimidade — prazo concedido até 17/08/2021
+  - votos: Guilherme: acompanha; Fábio: acompanha; Alexandre: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=aMM9bZSp6XI&t=2326s)
+- **RD 913 (2021-08-17)**, 2.1.1 · relator **Rafael Vitale** · Revisão e adequação dos atos da 4ª etapa do projeto de revisão e consolidação dos atos normativos (tema 7: matérias transversais): 34 normas (23 resol → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha; Fábio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=M3Oooch06TQ&t=195s)
+- **RD 913 (2021-08-17)**, 2.2.1 · relator **Davi Barreto** · Pedido de revisão da meta anual de produção por trecho (2022); questão preliminar do relator: regularidade do sorteio público de 05/08/2021 para a dis → preliminar aprovada por unanimidade: cancelada a distribuição dos 3 processos e refaziment
+  - votos: Davi: relator; Guilherme: acompanha; Fábio: acompanha; Alexandre: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=M3Oooch06TQ&t=373s)
+- **RD 913 (2021-08-17)**, 3.1 · relator **None** · Despacho: concessão de prazo adicional de 30 dias para inclusão de processo em pauta (art. 54 §2º do RI) ao relator Davi Barreto → aprovado por unanimidade (prazo de 30 dias concedido)
+  - votos: Guilherme: acompanha; Fábio: acompanha; Alexandre: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=M3Oooch06TQ&t=2746s)
+- **RD 914 (2021-08-24)**, 1 · relator **Guilherme Sampaio** · Aprovação da ata da reunião anterior (RD 913) → aprovada
+  - votos: Davi: acompanha; Fábio: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=vO71AMKlMQ0&t=50s)
+- **RD 914 (2021-08-24)**, 3.1 · relator **Guilherme Sampaio** · Cancelamento de distribuição de processo, por solicitação com base no art. 66, par. 4º, do Regimento Interno; processo retorna à Superintendência → aprovado (distribuição cancelada)
+  - votos: Guilherme: acompanha; Fábio: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=vO71AMKlMQ0&t=1666s)
+- **RD 916 (2021-09-09)**, 2.1.1 · relator **Rafael Vitale** · Processo administrativo disciplinar (reservado) de relatoria de Rafael Vitale → julgamento na parte reservada; sem conteúdo na transcrição
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=qBHo290jUds&t=470s)
+- **RD 917 (2021-09-22)**, 2.4.2 · relator **Fábio Rogério** · Recurso de equipe participante e homologação do resultado final da Premiação por Excelência Funcional 2021 (Del. 38/2017) → aprovado por unanimidade — não acolhe recurso
+  - votos: Fábio: relator; Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=OTcyf2Er7IU&t=2091s)
+- **RD 918 (2021-10-07)**, 2.1.4 · relator **Davi Barreto** · Recurso contra a rescisão unilateral do contrato administrativo 32/2015 (apoio à fiscalização eletrônica do transporte rodoviário de cargas e passagei → aprovado por unanimidade (recurso conhecido, sem efeito suspensivo, e desprovido)
+  - votos: Davi: relator; Guilherme: acompanha; Fábio: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=Fsfq1tp3R00&t=1671s)
+- **RD 918 (2021-10-07)**, 2.3.1 · relator **Fábio Rogério** · Instrução normativa que altera o anexo da Res. 588/2020 para estabelecer regras de distribuição de processos aos diretores - retirada de pauta e cance → retirado de pauta (unânime)
+  - votos: Fábio: relator; Rafael: acompanha; Guilherme: acompanha; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=Fsfq1tp3R00&t=2713s)
+- **RD 918 (2021-10-07)**, assuntos gerais · relator **None** · Assuntos gerais: concessão de prazo adicional de 30 dias para inclusão do processo em pauta (Regimento, art. 54, par. 2) → aprovado por unanimidade
+  - votos: Davi: acompanha; Fábio: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=Fsfq1tp3R00&t=2838s)
+- **RD 919 (2021-10-21)**, 2.3.1 · relator **Guilherme Sampaio** · Aprovação da 2ª edição do manual do processo de participação e controle social → retirado de pauta a pedido do relator
+  - votos: Guilherme: relator; Davi: acompanha · [vídeo](https://www.youtube.com/watch?v=_OwMqo23vHw&t=6547s)
+- **RD 920 (2021-11-04)**, 2.3.1 · relator **Fábio Rogério** · Item sigiloso: solicitação de conversão de penalidade de suspensão em multa (art. 130, par. 2, da Lei 8.112/1990), julgado ao final, fora da transmiss → sigiloso (não transmitido)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=VZD-U2Sl7sU&t=228s)
+- **RD 921 (2021-11-18)**, 1 · relator **Rafael Vitale** · Aprovação da ata da reunião anterior (RD 920) → aprovada
+  - votos: Davi: acompanha; Guilherme: acompanha; Fábio: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=FNnvj8A4Zjo&t=80s)
+- **RD 923 (2021-12-16)**, 2.1.3 · relator **Rafael Vitale** · Homologação do resultado final do Programa de Pós-Graduação da ANTT (PPG 2021/2022) → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=MNr3gvJ5hlQ&t=1526s)
+- **RD 923 (2021-12-16)**, 2.3.2 · relator **Guilherme Sampaio** · Aprovação da 2ª edição do Manual do Processo de Participação e Controle Social → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Fábio: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=MNr3gvJ5hlQ&t=3481s)
+- **RD 924 (2022-01-20)**, 1 · relator **Rafael Vitale** · Aprovação da ata da reunião 923 → aprovado por unanimidade
+  - votos: Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=q-BxgYhOb0c&t=20s)
+- **RD 924 (2022-01-20)**, 2.3.1 · relator **Guilherme Sampaio** · Revisão e atualização da Política de Classificação da Informação → retirado de pauta pelo relator
+  - votos: Guilherme: relator; Davi: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=q-BxgYhOb0c&t=2429s)
+- **RD 924 (2022-01-20)**, 2.3.2 · relator **Guilherme Sampaio** · Afastamento para mestrado em geotecnia e transportes (UFMG) → retirado de pauta pelo relator
+  - votos: Guilherme: relator; Davi: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=q-BxgYhOb0c&t=2517s)
+- **RD 924 (2022-01-20)**, assuntos gerais · relator **Rafael Vitale** · Dois pedidos de prorrogação de 30 dias de prazo em despachos de Davi Barreto (art. 66 §§2º e 4º do Regimento) → aprovados
+  - votos: Guilherme: acompanha; Davi: outro; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=q-BxgYhOb0c&t=3732s)
+- **RD 925 (2022-02-03)**, 2.2.2 · relator **Davi Barreto** · Alteração da Res. 5.845/2019 (regras de autocomposição e arbitragem na ANTT) em atendimento ao Acórdão 4036/2020-TCU; dispensa de AIR e de audiência p → aprovado por unanimidade (com divergência do relator em ponto da proposta técnica)
+  - votos: Davi: relator; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=pKYkK69QnQE&t=830s)
+- **RD 926 (2022-02-17)**, 1.1 · relator **Rafael Vitale** · Aprovação da ata da reunião 925 → aprovada por unanimidade
+  - votos: Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ewq82LPWw2E&t=52s)
+- **RD 926 (2022-02-17)**, 2.2.2 · relator **Davi Barreto** · Revisão ordinária da agenda regulatória do biênio 2021/2022 → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ewq82LPWw2E&t=2625s)
+- **RD 926 (2022-02-17)**, 2.3.3 · relator **Guilherme Sampaio** · Revisão e atualização da política de classificação da informação (resolução), com vigência em 02/03/2022 → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ewq82LPWw2E&t=3533s)
+- **RD 926 (2022-02-17)**, 2.3.4 · relator **Guilherme Sampaio** · Afastamento de servidora (Elaine Verde Coutinho Souza) para mestrado em geotecnia e transportes na UFMG até 01/09/2022; fixação de entendimento sobre  → aprovado por unanimidade
+  - votos: Guilherme: relator; Davi: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ewq82LPWw2E&t=3699s)
+- **RD 927 (2022-03-10)**, 1.1 · relator **Rafael Vitale** · Aprovação das atas da reunião 926 e da reunião extraordinária 70 → aprovadas por unanimidade
+  - votos: Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=vD2mixuNuv8&t=54s)
+- **RD 927 (2022-03-10)**, 2.1.2 · relator **Rafael Vitale** · Referendo da Res. 5.961/2022, que revogou o art. 39 do anexo da Res. 5.918/2020 (programa de gestão remota de trabalho), e fim das unidades remotas de → referendada por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=vD2mixuNuv8&t=490s)
+- **RD 927 (2022-03-10)**, 2.2.3 · relator **Davi Barreto** · Alteração da Res. 5.818/2018 (delegação de competências a superintendências) e revogação das Deliberações 669 e 670/2019 (enquadramento em regime espe → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=vD2mixuNuv8&t=1310s)
+- **RD 928 (2022-03-21)**, 1 · relator **None** · Aprovação da ata da reunião de diretoria nº 927 → aprovada por unanimidade
+  - votos: Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=UyiMgSyX3iI&t=433s)
+- **RD 928 (2022-03-21)**, 2.2.5 · relator **Davi Barreto** · Processo administrativo disciplinar de acesso restrito (art. 64, V, e art. 65, XI, da IN CGU 14/2018), julgado ao final da sessão, sem transmissão → julgamento reservado (sem conteúdo público)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=UyiMgSyX3iI&t=493s)
+- **RD 928 (2022-03-21)**, 2.2.1 · relator **Davi Barreto** · Proposta de novo Regimento Interno da ANTT (em substituição ao aprovado pela Resolução de 12/05/2020; número lido como 588 pela legenda) → vista coletiva (art. 121 do RI); deliberação na próxima reunião
+  - votos: Davi: relator; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=UyiMgSyX3iI&t=725s)
+- **RD 928 (2022-03-21)**, 2.3.2 · relator **Guilherme Sampaio** · 5ª etapa do projeto de revisão e consolidação dos atos normativos da ANTT (Decreto 10.139/2019 e IN ANTT 2/2020) → aprovado por unanimidade, nos termos do voto do relator
+  - votos: Guilherme: relator; Davi: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=UyiMgSyX3iI&t=2684s)
+- **RD 929 (2022-04-07)**, 2.2.1 · relator **Davi Barreto** · Proposta de novo Regimento Interno da ANTT (substitui a Res. 5.888/2020), voltada após vista coletiva concedida na RD 928 → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=1K0RRpACKrE&t=1636s)
+- **RD 929 (2022-04-07)**, 2.2.3 · relator **Davi Barreto** · Instrução normativa sobre os procedimentos de distribuição de processos aos diretores (sorteio) → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=1K0RRpACKrE&t=2000s)
+- **RD 929 (2022-04-07)**, 2.2.5 · relator **Davi Barreto** · Acordo de Cooperação Técnica e plano de trabalho com a CNTA para inscrição e manutenção de transportadores no RNTRC; sustentação oral de Edson Araújo  → aprovado por unanimidade — pedido de retirada de pauta rejeitado
+  - votos: Davi: relator; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=1K0RRpACKrE&t=2238s)
+- **RD 929 (2022-04-07)**, 2.1.6 · relator **Rafael Vitale** · Resolução que complementa o novo Regimento Interno com a estrutura e as competências de gerências, coordenações, assessorias especiais, coordenações r → aprovado por unanimidade — pedido de retirada de pauta/consulta interna rejeitado (item in
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=1K0RRpACKrE&t=3891s)
+- **RD 930 (2022-04-28)**, 1 · relator **Rafael Vitale** · Aprovação da ata da 929ª reunião e da 1ª reunião extraordinária de 31/03/2022 → aprovadas
+  - votos: Davi: acompanha; Guilherme: acompanha; Rafael: acompanha; Luciano: outro · [vídeo](https://www.youtube.com/watch?v=Cz5UdpIyrK8&t=298s)
+- **RD 930 (2022-04-28)**, 2.1.5 · relator **Rafael Vitale** · Proposta de resolução com critérios e procedimentos para remoção de servidores e concurso de remoção na ANTT, revogando normas anteriores; vigência em → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha; Luciano: acompanha · [vídeo](https://www.youtube.com/watch?v=Cz5UdpIyrK8&t=1146s)
+- **RD 930 (2022-04-28)**, 2.3.0 (suspeição) · relator **Rafael Vitale** · Arguição de suspeição do diretor Guilherme Sampaio, relatada pelo DG (art. 76, par. 2º do RI) → improcedente; arquivada por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Luciano: acompanha; Guilherme: outro · [vídeo](https://www.youtube.com/watch?v=Cz5UdpIyrK8&t=1842s)
+- **RD 930 (2022-04-28)**, 2.3.1 · relator **Guilherme Sampaio** · Pedido de reconsideração da Deliberação 385/2021 (rejeição, em 18/11/2021, do relatório final da AP 4/2020 e da proposta de marco regulatório do trans → não conhecido (unanimidade)
+  - votos: Guilherme: relator; Davi: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=Cz5UdpIyrK8&t=1987s)
+- **RD 932 (2022-05-25)**, 1 · relator **None** · Aprovação da ata da reunião de diretoria nº 931 → aprovada por unanimidade
+  - votos: Davi: acompanha; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=NoErqGw5nsc&t=73s)
+- **RD 933 (2022-06-09)**, 1 · relator **Rafael Vitale** · Aprovação da ata da 932ª reunião de diretoria → aprovada
+  - votos: Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=JdxV62knDD0&t=150s)
+- **RD 933 (2022-06-09)**, PAD (sigiloso) · relator **Guilherme Sampaio** · Processo administrativo disciplinar com restrição de acesso (IN de 14/11/2018), relatoria de Guilherme Sampaio, a ser julgado em sessão reservada ao f → sem informação (julgado em sessão reservada)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=JdxV62knDD0&t=198s)
+- **RD 933 (2022-06-09)**, 2.1.1 · relator **Rafael Vitale** · Referendo da Resolução 5.980, de 1º de junho de 2022, que alterou a Res. 5.977/2022 (estrutura organizacional da ANTT) para corrigir incorreções forma → aprovado por unanimidade
+  - votos: Rafael: relator; Guilherme: acompanha; Luciano: acompanha · [vídeo](https://www.youtube.com/watch?v=JdxV62knDD0&t=200s)
+- **RD 934 (2022-06-23)**, 1.1 · relator **Rafael Vitale** · Aprovação da ata da reunião 933 → aprovada por unanimidade
+  - votos: Davi: acompanha; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=1eQGIHBQi-4&t=42s)
+- **RD 934 (2022-06-23)**, 2.1.2 · relator **Guilherme Sampaio** · Processo administrativo disciplinar (restrição de acesso) → julgado em sessão reservada, sem transmissão
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=1eQGIHBQi-4&t=735s)
+- **RD 935 (2022-07-07)**, 2.1.1 · relator **Davi Barreto** · Revogação de 18 resoluções e 8 portarias editadas durante a emergência de saúde pública (Covid-19) → aprovado por unanimidade
+  - votos: Davi: relator; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=Ns5dptQ7XkE&t=375s)
+- **RD 937 (2022-08-04)**, 1 · relator **Rafael Vitale** · Aprovação das atas das reuniões de diretoria 936 (19/07) e extraordinárias 73 (11/07) e 74 (27/07) → aprovadas
+  - votos: Davi: acompanha; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=BHgWHDyFqu0&t=120s)
+- **RD 939 (2022-09-01)**, 1 · relator **Guilherme Sampaio** · Aprovação da ata da reunião 938 (leitura dispensada) → aprovada por unanimidade
+  - votos: Luciano: acompanha; Cristiano: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=D4UlNAV41VU&t=64s)
+- **RD 941 (2022-10-06)**, 1 · relator **None** · Aprovação da ata da reunião de diretoria nº 940 → aprovada por unanimidade
+  - votos: Davi: acompanha; Guilherme: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=uprQ3zi71jA&t=357s)
+- **RD 942 (2022-10-20)**, 1.1 · relator **Rafael Vitale** · Aprovação da ata da reunião 941 → aprovada por unanimidade
+  - votos: Davi: acompanha; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=6v_1vNFnIH0&t=318s)
+- **RD 942 (2022-10-20)**, 2.1.1 · relator **Rafael Vitale** · Alteração da Res. 5.977/2022 (estrutura organizacional da ANTT) → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha; Luciano: acompanha; Cristiano: acompanha · [vídeo](https://www.youtube.com/watch?v=6v_1vNFnIH0&t=340s)
+- **RD 943 (2022-11-03)**, 1 · relator **Rafael Vitale** · Aprovação das atas da 942ª reunião e da 77ª reunião extraordinária → aprovadas por unanimidade
+  - votos: Davi: acompanha; Guilherme: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=MamI8NVrbBs&t=464s)
+- **RD 943 (2022-11-03)**, 2.2.1 e 2.3.1 (suspeição) · relator **Guilherme Sampaio** · Arguições de suspeição do DG Rafael Vitale (pelas duas empresas), com base em suposto inquérito policial noticiado na imprensa; julgadas em bloco (art → improcedentes; arquivadas por unanimidade (DG não vota)
+  - votos: Guilherme: relator; Davi: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: outro · [vídeo](https://www.youtube.com/watch?v=MamI8NVrbBs&t=725s)
+- **RD 944 (2022-11-17)**, 1 · relator **Rafael Vitale** · Aprovação da ata da reunião 943 (leitura dispensada) → aprovado por unanimidade
+  - votos: Davi: acompanha; Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=CT35ZXZmZ3c&t=58s)
+- **RD 945 (2022-12-01)**, 2.5.1 · relator **Cristiano Della Giustina** · Consulta pública sobre a revisão da Res. 5.624/2017 (processos de participação e controle social da ANTT): aprovação do relatório de AIR versão 2.0 e  → aprovado por unanimidade
+  - votos: Cristiano: relator; Davi: acompanha; Luciano: acompanha; Guilherme: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=aLImLnDA8UQ&t=2145s)
+- **RD 946 (2022-12-15)**, 1 · relator **Rafael Vitale** · Aprovação da ata da reunião 945 (leitura dispensada) → aprovada por unanimidade
+  - votos: Davi: acompanha; Guilherme: acompanha; Luciano: acompanha; Cristiano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=j8wblcVarbU&t=320s)
+- **RD 946 (2022-12-15)**, 2.1.1 · relator **Rafael Vitale** · Primeira revisão do Planejamento Estratégico 2022-2025 e proposta de portfólio de projetos para o Plano de Gestão Anual (PGA) 2023 → aprovado por unanimidade
+  - votos: Rafael: relator; Davi: acompanha; Guilherme: acompanha; Luciano: acompanha; Cristiano: acompanha · [vídeo](https://www.youtube.com/watch?v=j8wblcVarbU&t=360s)
 - **RD 948 (2023-01-19)**, 1 · relator **Rafael Vitale** · Aprovação da ata da 947ª Reunião de Diretoria (leitura dispensada) → aprovada por unanimidade dos votantes
   - votos: Guilherme: acompanha; Luciano: acompanha; Rafael: acompanha · [vídeo](https://www.youtube.com/watch?v=ZX8Rm7GspUY&t=137s)
 - **RD 949 (2023-02-02)**, 1 · relator **Rafael Vitale** · Aprovação da ata da reunião de diretoria 948 → aprovada por unanimidade (Davi Barreto não vota)
