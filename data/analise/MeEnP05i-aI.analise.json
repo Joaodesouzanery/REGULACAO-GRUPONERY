@@ -1,0 +1,364 @@
+{
+ "meta": {
+  "video_id": "MeEnP05i-aI",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulos de falante da legenda não são confiáveis); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "825",
+  "data": "2019-09-03",
+  "formato": "presencial (4 diretores)",
+  "presidente_da_sessao": "Marcelo Vinaud (Diretor-Geral substituto, na ausência do DG Mário Rodrigues Junior)",
+  "diretores_presentes": [
+   "Marcelo Vinaud",
+   "Elisabeth Braga",
+   "Weber Ciloni",
+   "Davi Barreto"
+  ],
+  "ausentes": [
+   "Mário Rodrigues Junior (férias)"
+  ],
+  "observacoes": [
+   "Encerrada às 16h03 de 03/09/2019.",
+   "Abertura informa que o Diretor-Geral Mário Rodrigues Junior está em férias; Marcelo Vinaud atua como DG substituto.",
+   "Dois itens retirados de pauta pelos relatores (2.3.2 ASTEC/TED e 2.4.1 Ecosul); os demais aprovados por unanimidade."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:01:00",
+   "processo": "",
+   "interessado": "Ata da 824ª reunião",
+   "assunto": "Aprovação da ata da reunião nº 824",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "",
+   "resultado": "aprovada por unanimidade",
+   "resumo_voto": "Leitura dispensada.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo",
+     "ts": "0:01:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo",
+     "ts": "0:01:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo",
+     "ts": "0:01:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo",
+     "ts": "0:01:19",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:01:38",
+   "processo": "50500.368459/2019-63 (incerto)",
+   "interessado": "Comissão de Outorga do Edital 01/2019 (BR-364/365 GO/MG)",
+   "assunto": "Referendo à Deliberação do Diretor-Geral Substituto (22/8/2019; número lido como 860 ou 1862) que validou as alterações do Comunicado Relevante nº 2/2019 (cláusulas 5.2.2, 7.1 e 7.2 do edital: concessionária responsável pelas licenças de instalação; poder concedente só pela licença prévia; reequilíbrio para ressarcimento da LI)",
+   "tema": [
+    "concessões rodoviárias",
+    "leilão / otimização"
+   ],
+   "relator": "Marcelo Vinaud",
+   "resultado": "aprovado por unanimidade — referendo",
+   "resumo_voto": "Alteração não muda a matriz de risco nem exige reabrir prazo das propostas econômicas; Procuradoria recomendou avaliação interna das redações; ata de respostas divulgada em 23/8/2019; referendo com base no art. 81 do Regimento Interno.",
+   "votos": [
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "relator (Diretor-Geral Substituto), propõe referendar",
+     "ts": "0:05:10",
+     "justificativa": "alterações afastam eventual desequilíbrio e mantêm a notação de risco; sem necessidade de reabrir prazo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:05:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:05:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:05:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "0:05:53",
+   "processo": "50500.367646/2019-96 (incerto)",
+   "interessado": "Série Locações de Vans e outras",
+   "assunto": "Termo de autorização de fretamento, em bloco",
+   "tema": [
+    "ônibus (fretamento)"
+   ],
+   "relator": "Elisabeth Braga",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Item de rotina; voto disponibilizado antes da reunião.",
+   "votos": [
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "relator, aprova",
+     "ts": "0:06:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:06:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:06:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:06:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "0:06:36",
+   "processo": "50500.344255/2019-37",
+   "interessado": "Vale S.A. — Estrada de Ferro Vitória a Minas (EFVM)",
+   "assunto": "Pedido de reconsideração da Deliberação 119/2019 (metas de produção 2018-2022) e revisão das metas de produção por trecho para 2019 e 2020",
+   "tema": [
+    "ferrovias"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade — reconsideração negada; revisão das metas parcialmente aprovada",
+   "resumo_voto": "Contratos de direito de passagem e tráfego mútuo existentes devem ser computados nas metas (Res. 3.694/2011 e 5.318/2018?, números como lidos); fluxos de outras concessionárias no plano de negócios têm caráter referencial; aceito apenas o ajuste do volume de fertilizantes pela média histórica; demais argumentos recusados.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:10:10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:10:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:10:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:10:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "0:10:18",
+   "processo": "50500.359494/2018-09",
+   "interessado": "Assessoria Técnica para o Transporte Internacional de Cargas e Passageiros (ASTEC)",
+   "assunto": "Proposta de termo de execução descentralizada (TED) — retirado de pauta pelo relator",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "retirado de pauta",
+   "resumo_voto": "Relator pede retirada para diligenciar pontos que não ficaram claros (escopo e cronograma) e debatê-los com a área; diretores concordaram.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, retira de pauta",
+     "ts": "0:10:43",
+     "justificativa": "escopo e cronograma pouco claros no processo; quer debater com a área",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com a retirada",
+     "ts": "0:11:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "de acordo com a retirada",
+     "ts": "0:11:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com a retirada",
+     "ts": "0:11:16",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.3",
+   "ts": "0:11:43",
+   "processo": "50500.367442/2019-66 (incerto)",
+   "interessado": "Gladiadora Transportes e outras",
+   "assunto": "Recadastramento de termo de autorização de fretamento, em bloco",
+   "tema": [
+    "ônibus (fretamento)"
+   ],
+   "relator": "Weber Ciloni",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Item de rotina.",
+   "votos": [
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "relator, aprova",
+     "ts": "0:12:10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:12:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Davi Barreto",
+     "voto": "acompanha o relator",
+     "ts": "0:12:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:12:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.1",
+   "ts": "0:12:14",
+   "processo": "50500.004636/2018 (incerto)",
+   "interessado": "Concessionária das Rodovias Integradas do Sul S.A. (Ecosul)",
+   "assunto": "Décima segunda revisão extraordinária da tarifa básica de pedágio — retirado de pauta pelo relator",
+   "tema": [
+    "concessões rodoviárias",
+    "pedágio",
+    "reequilíbrio contratual"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "retirado de pauta",
+   "resumo_voto": "Relator traz elementos novos não formalizados pela equipe técnica (impacto para caminhoneiros e custos); como o efeito da tarifa solicitada só ocorre em janeiro, retira para reanálise e traz o item o mais cedo possível.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, retira de pauta",
+     "ts": "0:12:37",
+     "justificativa": "elementos novos e o efeito da revisão só em janeiro permitem reanálise",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "de acordo com a retirada",
+     "ts": "0:13:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "de acordo com a retirada",
+     "ts": "0:13:18",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "de acordo com a retirada",
+     "ts": "0:13:21",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.4.2 e 2.4.3 (em bloco)",
+   "ts": "0:13:34",
+   "processo": "50500.339481/2019-04 (incerto); 50500.365015/..",
+   "interessado": "Rota do Mar Viagens; Empresa de Ônibus Pássaro Marron",
+   "assunto": "Alteração de licença operacional, em bloco",
+   "tema": [
+    "ônibus (transporte regular, TAR)"
+   ],
+   "relator": "Davi Barreto",
+   "resultado": "aprovados em bloco por unanimidade",
+   "resumo_voto": "Itens de rotina.",
+   "votos": [
+    {
+     "diretor": "Davi Barreto",
+     "voto": "relator, aprova",
+     "ts": "0:14:10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Elisabeth Braga",
+     "voto": "acompanha o relator",
+     "ts": "0:14:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Weber Ciloni",
+     "voto": "acompanha o relator",
+     "ts": "0:14:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Marcelo Vinaud",
+     "voto": "acompanha o relator",
+     "ts": "0:14:10",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "2.3.2",
+   "motivo": "retirado pelo relator Weber Ciloni para diligências"
+  },
+  {
+   "id": "2.4.1",
+   "motivo": "retirado pelo relator Davi Barreto para reanálise"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: Marcelo Vinaud aparece como marcelo de novo/zanotti/daemon; Weber Ciloni como werber/b simone; Davi Barreto como da vila/da abih barreto.",
+  "Número da deliberação referendada (lido como 860 e 1862) e das resoluções do item 2.3.1 incertos.",
+  "Números de processo reconstruídos e incertos quando marcados.",
+  "Item 2.4.1: motivo da retirada reconstruído de fala muito truncada; confiança média.",
+  "Votos de seguidores aproximados (confiança média)."
+ ]
+}
