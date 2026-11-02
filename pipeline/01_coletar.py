@@ -73,6 +73,9 @@ for grupo in por_num.values():
 if os.path.exists("data/duplicatas_manuais.json"):  # duplicatas confirmadas à mão (mesma reunião em dois vídeos)
     for k, alvo in json.load(open("data/duplicatas_manuais.json")).items():
         if k in vistos: vistos[k]["duplicata_de"] = alvo
+if os.path.exists("data/datas_manuais.json"):  # datas corrigidas à mão (título errado)
+    for k, dt in json.load(open("data/datas_manuais.json")).items():
+        if k in vistos: vistos[k]["data"] = dt
 with open("data/videos.jsonl", "w") as f:
     for v in vistos.values(): f.write(json.dumps(v, ensure_ascii=False) + "\n")
 from collections import Counter
