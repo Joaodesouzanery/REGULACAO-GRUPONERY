@@ -14,17 +14,20 @@ for v in vids:
     tr = f"data/transcricoes/{v['id']}.json"
     if v["tipo"] == "outro" or v.get("duplicata_de") or not os.path.exists(tr): continue
     an = f"data/analise/{v['id']}.analise.json"; d = None; num = None
+    ev = f"data/analise_eventos/{v['id']}.evento.json"
     if os.path.exists(an):
         r = json.load(open(an))["reuniao"]; d = r.get("data"); num = r.get("numero")
+    elif os.path.exists(ev):
+        r = json.load(open(ev))["evento"]; d = r.get("data"); num = r.get("numero")
     d = d or v.get("data") or "sem-data"
     ano = d[:4] if re.match(r"\d{4}", d) else "sem-data"
     m = re.search(r"(?:n[ºo°]\.?|no\.?)\s*(\d{1,4})|(\d{1,4})ª", v["titulo"], re.I)
     num = num or (m and (m[1] or m[2])) or v["titulo"]
     pasta = f"{R}/reunioes/{ano}/{v['tipo']}/{d}_{slug(str(num))}_{v['id']}"; os.makedirs(pasta)
     shutil.copy(tr, f"{pasta}/transcricao.json")
-    for src, dst in ((f"data/analise/{v['id']}.md", "leitura.md"), (an, "analise.json")):
+    for src, dst in ((f"data/analise/{v['id']}.md", "leitura.md"), (an, "analise.json"), (ev, "evento.json"), (f"data/analise_eventos/{v['id']}.md", "leitura_evento.md")):
         if os.path.exists(src): shutil.copy(src, f"{pasta}/{dst}")
-    json.dump({**v, "data_resolvida": d, "link": f"https://www.youtube.com/watch?v={v['id']}", "analisada": os.path.exists(an)}, open(f"{pasta}/meta.json", "w"), ensure_ascii=False, indent=1)
+    json.dump({**v, "data_resolvida": d, "link": f"https://www.youtube.com/watch?v={v['id']}", "analisada": os.path.exists(an) or os.path.exists(ev)}, open(f"{pasta}/meta.json", "w"), ensure_ascii=False, indent=1)
     n += 1
 for f in ("COBERTURA.md", "sem_transcricao.md"):
     if os.path.exists(f): shutil.copy(f, f"{R}/{f}")

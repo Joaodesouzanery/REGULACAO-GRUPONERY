@@ -1,0 +1,16 @@
+# Audiência Pública nº 01/2026 — 2026-03-04 — audiencia — 3BGJQiicPTs
+duração aproximada: 1:06:48; janelas: abertura, menções a diretores (n=0), encerramento
+
+
+--- trecho 0:00:00 a 0:15:00 ---
+
+[0:09:58] É.
+
+--- trecho 1:01:48 a 1:06:48 ---
+
+[1:01:50] empresa, é, e de cada setor regulado, né? De empresa não, digo, de cada setor regulado. E isso é muito importante para nós em função dessas características do serviço, de ter um relacionamento muito próximo ao cliente, que é, resolve suas demandas, é, diretamente com a empresa, né? Durante a própria execução da viagem, né? Então, isso será muito importante para que as características do freta, fretamento sejam, é, respeitadas nessa regulamentação. Essa seria o meu destaque e nós vamos encaminhar as contribuições do setor através da, do do site, do canal indicado para isso. Obrigada. 
+[1:03:09] Tentou se manifestar agora há pouco. Quer fazer uso da palavra? Boa tarde, pessoal. Boa tarde. Senhor Paulo? Isso, boa tarde. Sou eu, o Paulo. Pode fazer uso da palavra, senhor Paulo. Cinco minutos, por favor. É, eu queria queria falar um pouco sobre a questão dos 60 segundos. É, como está funcionando aqui, seria o tempo médio de atendimento, é. E eu acho que eu acho que é um número um pouco abaixo, devido à quantidade de usuários. 
+[1:03:56] E é algo que pode impactar na operação de forma geral. Apenas isso, pessoal. Manifestações sobre o tempo de, de atendimento. A, por se tratar de uma, de uma, de uma proposta de alteração normativa, eu recomendo que esses pedidos, esses ajustes, eventuais sugestões de, de, de alteração do, do, do prazo na, na norma vindoura, isso seja registrado no sistema participante, 
+[1:04:43] para que façamos a, a análise do ponto de vista regulatório e do, do, do ponto de vista, é, legal também, e, e mercadológico, que é justamente o que vocês têm colocado. E a equipe da, da, da comissão vai fazer a análise de todas as manifestações, em especial as que forem detalhadas no, no participante, mas também aquelas que foram registradas aqui nessa audiência pública. Eu vou passar a palavra agora para as considerações finais, porque chegamos ao final da, da lista, para a presidente da, da audiência pública, senhora Rafaela Brandão. 
+[1:05:29] Bom, pessoal, como o Thales já manifestou, a gente agradece a participação de vocês virtualmente nessa sessão. Mas é muito importante, ressaltando o que ele falou, que os senhores registrem por escrito as contribuições de vocês no formulário do participante, apresentando os argumentos de forma bastante consistente, de preferência, se houver, como um dos participantes comentou a respeito dos 60 segundos, se há práticas no mercado que divirjam desses 60 segundos, se puderem nos indicar e mostrar como está sendo feita essa prática, certamente a comissão vai analisar cuidadosamente cada uma das contribuições dos senhores, que são muito importantes. Vocês trazem o olhar 
+[1:06:17] do mercado para definição dessa norma. Então, por gentileza, nos ajudem nesse sentido, trazendo o máximo de elementos que possam subsidiar essa mudança normativa. Muito obrigado, Rafaela. Senhores e senhoras, em nome da ANTT, agradeço a participação de todos. Declaro encerrada a sessão pública realizada hoje, dia 3 de março de 2026, na cidade de Brasília. Desejamos a todos uma excelente tarde.
