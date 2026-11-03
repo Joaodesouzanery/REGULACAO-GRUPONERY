@@ -1,0 +1,59 @@
+{
+ "meta": {
+  "video_id": "B0fCDen933c",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "audiencia",
+  "numero": "04/2026",
+  "titulo": "Audiência Pública nº 04/2026 - sessão Brasília - Rota Portuária do Sul (BR-116/392 RS)",
+  "data": "2026-03-12",
+  "local": "Brasília/DF (híbrido)",
+  "objeto": "Minutas de edital, contrato, PER e EVTEA da concessão do lote BR-116/392 no RS (cerca de 459,6 km), anteriormente operado pela EcoSul, contrato encerrado em 03/03/2026",
+  "processo": null,
+  "tema": [
+   "concessões rodoviárias",
+   "pedágio / free flow",
+   "rodovias gaúchas",
+   "porto de Rio Grande",
+   "contas vinculadas",
+   "participação social"
+  ],
+  "presidiu": "Thales Cavalcante (ouvidor em exercício, presidente da sessão); Marcelo Fonseca (superintendente de concessão da infraestrutura, presidente da audiência)",
+  "diretores_presentes": [],
+  "participantes_externos": [
+   "Infra S.A. (Redson Vieira Piedade)",
+   "Deputados e lideranças do RS",
+   "PRF (citada)",
+   "Ministério dos Transportes",
+   "Tribunal de Contas (citado)"
+  ],
+  "resumo": "Sessão híbrida de Brasília da audiência sobre a Rota Portuária do Sul. O superintendente de concessões apresentou o contexto da nova concessão após o fim do contrato da EcoSul, com expectativa quanto a tarifas e obras. Na longa rodada de manifestações, as demandas principais foram a localização dos pórticos 9 e 10 entre Pelotas e Rio Grande, a antecipação das obras do porto e a duplicação da BR-392. Ao final, a mesa explicou o limite de 0,5% da tarifa para investimentos da PRF e a governança das contas vinculadas. Próximas sessões em Porto Alegre (16/03) e Pelotas (17/03).",
+  "posicoes": [
+   {
+    "quem": "ANTT (Marcelo Fonseca, superintendente)",
+    "posicao": "Busca atender expectativas sobre nível tarifário e obras; lembra 19 leilões em três anos no modelo de quinta etapa",
+    "ts": "0:54:56"
+   },
+   {
+    "quem": "Infra S.A. (Redson)",
+    "posicao": "Investimentos da PRF limitados a 0,5% da tarifa, por diretriz do Ministério dos Transportes; avaliará pórticos 9 e 10 e antecipação de obras do porto",
+    "ts": "5:36:34"
+   }
+  ],
+  "encaminhamentos": [
+   "Sessões em Porto Alegre (16/03) e Pelotas (17/03)",
+   "Simulações sobre localização dos pórticos 9 e 10",
+   "Avaliar antecipação das obras do porto e duplicação da BR-392",
+   "Resolução de governança das contas vinculadas na agenda regulatória",
+   "Contribuições escritas até 22/04/2026"
+  ]
+ },
+ "falas_diretores": [],
+ "limites_da_analise": [
+  "Nenhum diretor da ANTT identificado: mesa com ouvidoria, superintendente de concessões (Marcelo Fonseca, que só vira diretor substituto em 27/08/2026) e Infra S.A.",
+  "A audiência tem 5h39; foram lidos abertura, encerramento e janelas de menções, não a íntegra das manifestações externas.",
+  "O título do metadado menciona 12/03/2026; a legenda cita aviso do DOU como «2 de maio» (provável erro de ASR)."
+ ]
+}

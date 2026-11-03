@@ -104,9 +104,28 @@ for vid in vids:
     if buf: c.execute("INSERT INTO trechos(video_id,t,texto) VALUES(?,?,?)", (vid, t0, " ".join(buf))); n_tr += 1
 c.execute("INSERT INTO trechos_fts(rowid, texto) SELECT id, texto FROM trechos")
 # falas/menções de diretores em audiências, participativas e workshops (não são votos): trechos em que o diretor é citado ou fala com o título de diretor
-c.execute("DROP TABLE IF EXISTS falas_diretores"); c.execute("CREATE TABLE falas_diretores(video_id TEXT, t INT, diretor TEXT, tipo_video TEXT, texto TEXT)")
+c.execute("DROP TABLE IF EXISTS falas_diretores"); c.execute("CREATE TABLE falas_diretores(video_id TEXT, t INT, diretor TEXT, tipo_video TEXT, texto TEXT, resumo TEXT, fonte TEXT, confianca TEXT)")
 RX = re.compile(r"diretor(?:a)?(?:[- ]geral)?\s+(?:dr\.?\s+|doutor\s+)?(guilherme|alex|felipe|lucas|alessandro|marcelo|severino|amaral)", re.I)
 for tid, vid, t, txt, tv in c.execute("select t.id, t.video_id, t.t, t.texto, v.tipo from trechos t join videos v on v.id=t.video_id where v.tipo in ('audiencia','participativa','workshop')").fetchall():
     for nome in {canon(m) for m in RX.findall(txt)} - {None}:
-        c.execute("INSERT INTO falas_diretores VALUES(?,?,?,?,?)", (vid, t, nome, tv, txt))
+        c.execute("INSERT INTO falas_diretores VALUES(?,?,?,?,?,NULL,'heuristica',NULL)", (vid, t, nome, tv, txt))
 c.commit(); print(n_tr, "trechos;", c.execute("select count(*) from reunioes").fetchone()[0], "reuniões,", n_it, "itens,", n_v, "votos")
+
+# eventos analisados (audiências, participativas, workshops, romeiros): análise estruturada + falas dos diretores com minuto
+c.execute("DROP TABLE IF EXISTS eventos"); c.execute("DROP TABLE IF EXISTS evento_posicoes")
+c.execute("CREATE TABLE eventos(video_id TEXT PRIMARY KEY, tipo TEXT, numero TEXT, titulo TEXT, data TEXT, local TEXT, objeto TEXT, processo TEXT, temas TEXT, presidiu TEXT, diretores_presentes TEXT, participantes TEXT, resumo TEXT, encaminhamentos TEXT)")
+c.execute("CREATE TABLE evento_posicoes(video_id TEXT, quem TEXT, posicao TEXT, ts TEXT)")
+n_ev = n_fa = 0
+def sec(x):
+    h = [int(i) for i in (x or "0:0:0").split(":")][-3:]; return sum(a * b for a, b in zip(reversed(h), (1, 60, 3600)))
+for f in sorted(glob.glob("data/analise_eventos/*.evento.json")):
+    d = json.load(open(f)); e = d["evento"]; vid = d["meta"]["video_id"]
+    c.execute("INSERT OR REPLACE INTO eventos VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?)", (vid, e.get("tipo"), e.get("numero"), e.get("titulo"), e.get("data"), e.get("local"), e.get("objeto"), e.get("processo"), "; ".join(e.get("tema", [])), e.get("presidiu"), "; ".join(e.get("diretores_presentes", [])), "; ".join(e.get("participantes_externos", [])), e.get("resumo"), " | ".join(e.get("encaminhamentos", []))))
+    for p_ in e.get("posicoes", []): c.execute("INSERT INTO evento_posicoes VALUES(?,?,?,?)", (vid, p_.get("quem"), p_.get("posicao"), p_.get("ts")))
+    c.execute("DELETE FROM falas_diretores WHERE video_id=? AND fonte='heuristica'", (vid,))
+    for x in d.get("falas_diretores", []):
+        dn = canon(x["diretor"])
+        if not dn: continue
+        c.execute("INSERT INTO falas_diretores VALUES(?,?,?,?,?,?,'estruturada',?)", (vid, sec(x["ts"]), dn, e.get("tipo"), x.get("trecho"), x.get("resumo"), x.get("confianca"))); n_fa += 1
+    n_ev += 1
+c.commit(); print(n_ev, "eventos analisados;", n_fa, "falas estruturadas de diretores")
