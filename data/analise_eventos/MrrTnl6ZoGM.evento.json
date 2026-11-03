@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "video_id": "MrrTnl6ZoGM",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "audiencia",
+  "numero": "014/2024",
+  "titulo": "Audiência Pública 014/24 - EF-118 (Anel Ferroviário do Sudeste), sessão Brasília",
+  "data": "2025-01-27",
+  "local": "Brasília/DF (híbrido)",
+  "objeto": "Minutas de edital e contrato e estudos da concessão da EF-118 (trecho São João da Barra a Anchieta; operação de Santa Leopoldina a Nova Iguaçu), 50 anos, leilão previsto no 1º trimestre de 2026",
+  "processo": null,
+  "tema": [
+   "ferrovias",
+   "concessões ferroviárias",
+   "EF-118",
+   "sustentabilidade",
+   "seguro garantia",
+   "matriz de risco"
+  ],
+  "presidiu": "Robson Crepaldi (ouvidor)",
+  "diretores_presentes": [
+   "Felipe Queiroz"
+  ],
+  "participantes_externos": [
+   "Ministério dos Transportes (Secretaria Nacional de Transporte Ferroviário, Leonardo Ribeiro)",
+   "Infra S.A.",
+   "Firjan",
+   "Porto do Açu",
+   "FenSeg",
+   "ICMBio",
+   "Associação Mico-Leão-Dourado",
+   "UENF",
+   "parlamentares"
+  ],
+  "resumo": "Primeira sessão presencial da audiência da EF-118, com abertura do diretor Felipe Queiroz (relator) e apresentação do superintendente Marcelo Fonseca. Participantes apoiaram o projeto e levantaram preocupações ambientais com o trecho sul (unidades de conservação, mico-leão-dourado), pedidos de compromisso com o ramal de Anchieta, seguro garantia e câmbio. A ANTT disse que o traçado ainda é ajustável nos projetos executivos e que levará slide de sustentabilidade às sessões de Vitória e Rio.",
+  "posicoes": [
+   {
+    "quem": "Leonardo Ribeiro (MT)",
+    "posicao": "Apoia modelo inédito de leilão e parceria com a ANTT",
+    "ts": "0:47:16"
+   },
+   {
+    "quem": "FenSeg (Rafaela)",
+    "posicao": "Defende manter cláusulas de riscos excluídos nas apólices de seguro garantia",
+    "ts": "2:47:27"
+   },
+   {
+    "quem": "ICMBio e pesquisadores UENF",
+    "posicao": "Pedem desvio do trecho sul para evitar unidades de conservação",
+    "ts": "2:56:02"
+   }
+  ],
+  "encaminhamentos": [
+   "Sessões em Vitória (29/01) e Rio de Janeiro (31/01)",
+   "Contribuições formais pelo sistema Participante até 12/02/2025",
+   "Slide sobre agenda de sustentabilidade da ANTT nas próximas sessões",
+   "Projeto estratégico em 2025 sobre matriz de risco e securitização",
+   "TCU até 3º tri/2025, edital no 4º tri e leilão no 1º tri/2026"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Felipe Queiroz",
+   "ts": "0:43:23",
+   "tema": [
+    "concessões ferroviárias",
+    "participação social"
+   ],
+   "tipo": "abertura",
+   "resumo": "Abre a sessão como relator do processo, destaca a importância estratégica da ferrovia e diz que a agência colhe contribuições de fato, não apenas cumpre exigência legal; avisa que não ficará a sessão toda.",
+   "trecho": "a agência leva esse esse trabalho de ppcs muito a sério não é uma etapa para inglês v a gente não tá aqui só cumprindo dispositivo legal a gente tá de fato eh colhendo contribuições",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Felipe Queiroz",
+   "ts": "2:52:20",
+   "tema": [
+    "seguro garantia",
+    "matriz de risco",
+    "participação social"
+   ],
+   "tipo": "compromisso",
+   "resumo": "Pede que as contribuições orais sejam enviadas formalmente por escrito e informa projeto estratégico em 2025 sobre matriz de risco e securitização.",
+   "trecho": "a gente até tem no nosso planejamento para 2025 um projeto estratégico que vai discutir justamente Nossa Matriz de risco olhando para questões relacionadas à securitização",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Felipe Queiroz",
+   "ts": "2:53:42",
+   "tema": [
+    "sustentabilidade",
+    "EF-118"
+   ],
+   "tipo": "compromisso",
+   "resumo": "Reconhece a importância da agenda ambiental e anuncia slide sobre sustentabilidade nas sessões de Vitória e Rio de Janeiro.",
+   "trecho": "a gente já tá ajustando aqui paraas nas sessões públicas nas próximas eh Vitória mas sobretudo Rio de Janeiro vitó espírito santo",
+   "confianca": "media"
+  }
+ ],
+ "limites_da_analise": [
+  "Data ditada como 27/01/2025 (metadado do vídeo indica 28/01)",
+  "Minutos de Felipe Queiroz aproximados; durante o evento ele avisa que sairia, então só aparece na abertura e no meio da tarde",
+  "Trechos 0:15 a 0:41 e meio da sessão não lidos; legenda sem pontuação e com erros de ASR"
+ ]
+}
