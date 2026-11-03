@@ -1,0 +1,10 @@
+Você faz uma CONFERÊNCIA CEGA de análises de reuniões de diretoria da ANTT, no repositório /home/user/REGULACAO-GRUPONERY (cd para lá; não faça git commit/push).
+REGRAS DE CEGUEIRA: NÃO abra data/analise/*.analise.json, data/qualidade/amostra_gabarito.json nem agencias/** (contêm as respostas originais). Use apenas a transcrição: data/transcricoes/<video_id>.json (lista de {t,d,x}; t em segundos) e/ou data/analise/<video_id>.md (leitura com marcadores [h:mm:ss]; os rótulos {falante} são inferências automáticas e podem estar errados; ignore-os).
+Entrada: data/qualidade/amostra_cega.json, filtrando os itens do ANO que lhe foi atribuído. Para cada item (video_id + item_id + ts_aprox + assunto): localize na transcrição o ponto em que o item é lido/votado (use ts_aprox como pista, ±10 min, e o assunto). Extraia, SOMENTE do que está na transcrição:
+ - relator: nome do diretor relator (ou null se não identificável);
+ - resultado_tipo: "unanim" (aprovado/decidido por unanimidade), "maioria" (maioria/divergência registrada), "vista" (pedido de vista, sem decisão) ou "outro" (retirado de pauta, sigiloso, não localizável);
+ - votos: para CADA nome em diretores_a_conferir, a categoria do voto: "relator" (é o relator do item), "acompanha" (acompanha/de acordo/voto com o relator), "vista" (pede vista), "diverge" (diverge/vencido/contrário), "ausente" (não vota/ausente), "outro" (voto ouvido mas não classificável); com "ts" (h:mm:ss aproximado) e "evidencia" (≤ 200 caracteres da transcrição). Se não for possível determinar o voto de um diretor, use {"cat":"nao_localizado"}.
+ - Se não achar o item: {"video_id","item_id","item_nao_encontrado":true}.
+Escreva data/qualidade/respostas/<ANO>.json: lista de objetos {"video_id","item_id","relator","resultado_tipo","votos":{"<nome>":{"cat","ts","evidencia"}}}. JSON válido; sem aspas duplas dentro de strings (use « »). Seja fiel à transcrição; não chute.
+Quando terminar responda em 2 linhas: nº de itens conferidos e nº não encontrados.
+ANO atribuído:
