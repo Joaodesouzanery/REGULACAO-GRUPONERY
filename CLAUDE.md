@@ -10,7 +10,8 @@
 3. Nada de rótulos sem base («raivoso», «problemático»): use contagens (acompanha, diverge, vista, vencido), argumentos recorrentes e tom registrado como inferência.
 4. A legenda do YouTube é automática: nomes, números e valores podem estar errados; minuto de quem só «acompanha o relator» é aproximado. Avise isso quando relevante.
 5. Diga o que **não** temos: `sem_transcricao.md`, itens sigilosos, anos ainda não analisados (ver `COBERTURA.md`).
-6. Mandatos/vacâncias: `data/mandatos.json`, `data/vacancias.json` (estimativas, com fonte e confiança).
+6. Qualidade: conferência por amostra cega (108 itens, 2019–2024; `agencias/antt/qualidade/conferencia_amostra.md`): concordância de ≈ 93% em relator, resultado e voto por diretor (89–99% por ano). Cite essa taxa ao responder sobre anos antigos, lembrando que mede consistência, não verdade absoluta.
+7. Mandatos/vacâncias: `data/mandatos.json`, `data/vacancias.json` (estimativas, com fonte e confiança).
 
 ## Mapa
 - `data/` = fonte de trabalho dos scripts (transcricoes/, analise/*.analise.json, videos.jsonl, mandatos.json, regulacao.db).

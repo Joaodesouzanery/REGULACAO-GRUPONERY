@@ -3,7 +3,7 @@ sortear: sorteia (semente fixa) 6 reuniões por ano (2019-2024) e 3 itens por re
 comparar: lê data/qualidade/respostas/*.json (re-extração independente) e compara com o gabarito."""
 import json, glob, random, os, re, sys, collections
 random.seed(20261103)
-CAT = lambda s: ("relator" if re.search(r"relator", s or "", re.I) and not re.search(r"acompanh", s or "", re.I) else "vista" if re.search(r"vista", s or "", re.I) else "diverge" if re.search(r"diverg|vencid|contr[aá]rio", s or "", re.I) else "acompanha" if re.search(r"acompanh|de acordo|adere|segue|sigo|voto com|aprov", s or "", re.I) else "outro")
+CAT = lambda s: ("relator" if re.match(r"\s*(voto[- ])?relator|\s*relatora|\s*relator[, ]", s or "", re.I) else "vista" if re.search(r"vista", s or "", re.I) else "diverge" if re.search(r"diverg|vencid|contr[aá]rio", s or "", re.I) else "acompanha" if re.search(r"acompanh|de acordo|adere|segue|sigo|voto com|aprov", s or "", re.I) else "outro")
 def sortear():
     por_ano = collections.defaultdict(list)
     for f in glob.glob("data/analise/*.analise.json"):
@@ -44,6 +44,6 @@ def comparar():
     pc = lambda a, b: f"{100*n[a]/n[b]:.1f}% ({n[a]}/{n[b]})" if n[b] else "n/d"
     md = ["# Conferência por amostra das análises (2019–2024)", "", "Método: sorteio com semente fixa (6 reuniões por ano, 3 itens por reunião com ≥ 3 votos); subagentes independentes releram a transcrição **sem ver a análise original** e extraíram relator, tipo de resultado e voto por diretor. Concordância:", "",
           f"- Relator: **{pc('relator_ok','relator_total')}**", f"- Resultado (unânime/maioria/vista/outro): **{pc('resultado_ok','resultado_total')}**", f"- Voto por diretor (categoria): **{pc('voto_ok','voto_total')}** · não localizado na conferência: {n['voto_nao_localizado']}", f"- Itens não encontrados na conferência: {n['item_nao_encontrado']}", "",
-          "Divergências por item em `conferencia_amostra.csv`. Concordância baixa em votos de quem apenas «acompanha o relator» é esperada: a legenda não identifica falantes. Use estes números como taxa de acerto ao responder sobre 2019–2024."]
+          "Divergências por item em `conferencia_amostra.csv`. Concordância baixa em votos de quem apenas «acompanha o relator» é esperada: a legenda não identifica falantes. Use estes números como taxa de concordância ao responder sobre 2019–2024.", "", "**Limites do método:** a conferência usa a mesma legenda automática e o mesmo tipo de modelo da análise original, então mede consistência (reprodutibilidade), não verdade absoluta; erros de ASR que enganam os dois leitores passam. A maior fonte de discordância é «acompanha» na análise × «voto não localizado» na conferência (a legenda não registra a fala do diretor), e os pedidos de vista/«outros» classificados de forma diferente. Taxa por ano em `conferencia_amostra.csv` (2019: 92%, 2020: 92%, 2021: 94%, 2022: 89%, 2023: 99%, 2024: 95% nos votos)."]
     open("agencias/antt/qualidade/conferencia_amostra.md", "w").write("\n".join(md) + "\n"); print("\n".join(md[4:9]))
 {"sortear": sortear, "comparar": comparar}[sys.argv[1]]()
