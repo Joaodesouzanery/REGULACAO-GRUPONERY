@@ -1,0 +1,70 @@
+{
+ "meta": {
+  "video_id": "26WlrkbGNKA",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "audiencia",
+  "numero": "002/2020",
+  "titulo": "Transmissão da Audiência Pública nº 2/2020 (virtual)",
+  "data": "2020-06-25",
+  "local": "virtual",
+  "objeto": "Proposta de resolução que altera a Res. 4.936/2015, sobre pagamento da taxa de fiscalização no transporte rodoviário interestadual e internacional de passageiros",
+  "processo": null,
+  "tema": [
+   "ônibus (passageiros interestadual)",
+   "taxa de fiscalização",
+   "participação social"
+  ],
+  "presidiu": "Leonardo Mesquita Cavalcante (ouvidor substituto)",
+  "diretores_presentes": [],
+  "participantes_externos": [
+   "empresas e associações de transporte rodoviário de passageiros",
+   "Fetrabus / federações (CEFET-BA citado)",
+   "AVIESP"
+  ],
+  "resumo": "Primeira audiência pública virtual da ANTT (pandemia). Diretor Menezes (nome grafado de forma incerta pela legenda) abriu a sessão destacando o compromisso com a participação social. Gerente de estudos de passageiros apresentou a proposta. Participantes pediram parcelamento, isenção ou redução da taxa em 2020 e questionaram a base legal da cobrança; a ANTT respondeu que o valor é fixado em lei.",
+  "posicoes": [
+   {
+    "quem": "CEFET-BA (presidente)",
+    "posicao": "Sugere parcelamento, taxa proporcional aos meses de cadastro do veículo e flexibilização em 2020 pela pandemia",
+    "ts": "1:37:08"
+   },
+   {
+    "quem": "AVIESP (presidente)",
+    "posicao": "Questiona o amparo legal e a contraprestação de serviço da taxa",
+    "ts": "1:37:55"
+   },
+   {
+    "quem": "ANTT (área técnica)",
+    "posicao": "O valor da taxa é definido em lei; só a lei pode alterá-lo",
+    "ts": "1:49:43"
+   }
+  ],
+  "encaminhamentos": [
+   "Contribuições individuais respondidas no relatório final",
+   "Contribuições escritas até 07/07/2020 no sistema de participação pública"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Menezes (nome inferido; legenda grafa «michelle menezes»)",
+   "ts": "0:33:48",
+   "tema": [
+    "participação social",
+    "taxa de fiscalização",
+    "ônibus (passageiros interestadual)"
+   ],
+   "tipo": "abertura",
+   "resumo": "Fez a abertura institucional da primeira audiência pública virtual, destacando o compromisso da agência com a participação social e a resolução em debate. Fala parcialmente ilegível na legenda.",
+   "trecho": "gostaria de chamar agora o diretor michelle menezes que vai nos fazer uma pronunciamento",
+   "confianca": "baixa"
+  }
+ ],
+ "limites_da_analise": [
+  "Nome do diretor não confiável: a legenda grafa «michelle menezes» e depois «diretor ... menezes»; não se presumiu nome canônico.",
+  "A fala do diretor é quase ininteligível na legenda; o trecho citado é a chamada do mediador.",
+  "Janela 0:44 a 1:37 não coberta no resumo."
+ ]
+}
