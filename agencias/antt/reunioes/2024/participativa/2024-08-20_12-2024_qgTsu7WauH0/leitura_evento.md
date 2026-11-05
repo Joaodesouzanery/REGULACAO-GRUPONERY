@@ -1,4 +1,4 @@
-# Reunião participativa 12/24- Inspeção de tráfego e descarbonização. — 2026-07-09 — participativa — qgTsu7WauH0
+# Reunião participativa 12/24- Inspeção de tráfego e descarbonização. — 2024-08-20 — participativa — qgTsu7WauH0
 duração aproximada: 0:52:54; janelas: abertura, menções a diretores (n=9), encerramento
 
 

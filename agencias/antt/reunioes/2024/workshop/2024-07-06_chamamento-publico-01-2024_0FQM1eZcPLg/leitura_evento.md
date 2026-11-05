@@ -1,0 +1,12 @@
+# Chamamento Público Itumbiara (GO) - Araporã (MG) — 2024-07-06 — workshop — 0FQM1eZcPLg
+duração aproximada: 0:04:21; janelas: abertura, menções a diretores (n=1), encerramento
+
+
+--- trecho 0:00:00 a 0:04:21 ---
+
+[0:00:26] Obrigado Alô tudo bem Boa tarde tudo bem Alô senhoras e senhores boa tarde boa tarde também a vocês que estão nos acompanhando no canal Ant pelo YouTube os ente da comissão do chamamento público 01 2024 supas ntt já ocupam seus lugares na mesa diretora o presidente da Comissão sor 
+[0:01:13] André Ricardo Rodrigues os componentes Leandro Paiva de Oliveira e Carlos Gustavo Santos rubel com a palavra o presidente da Comissão Senor André senhoras e senhores Boa tarde Boa tarde a vocês que estão nos acompanhando pelo canal da ntp no YouTube Meu nome é André Ricardo Rodrigues fui designado presidente da Comissão do chamamento público número 1 2024 supas ntt apresento os membros da comissão formada pelos servidores Leandro Paiva de Oliveira e Carlos Gustavo Santos rú a agência nacional de transportes 
+[0:02:00] terrestre publicou no Diário Oficial da União no dia 21 de Maio página 127 sessão 3 o aviso de chamamento público número 1 2024 com o objetivo de autorizar empresa a prestar o serviço regular de transporte rodoviário semiurbano inter estadual de passageiros operado com ônibus urbano entre as localidades de Itumbiara Goiás e Araporã Minas Gerais sob o regime de autorização especial até a finalização do processo licitatório o aviso de chamamento público foi divulgado no portal e LinkedIn da ntt histories do Instagram e 
+[0:02:47] Facebook da ntt no dia 23 de Maio e no Jornal de Itumbiara o regional no dia 24 de Maio em 21 de Junho foi instituída por meio da portaria supas número 3 de 2024 a comissão responsável pela Condução do chamamento público número 1 de 2024 de acordo com o edital do chamamento a manifestação de interesse e os documentos de habilitação deveriam ser endereçados à superintendência de serviços de transporte rodoviário de passageiros da ntt mediante envelope fechado entre o dia 22 de Maio e 4 de julho até 
+[0:03:34] às 17 horas durante esse período não recebemos envelopes de proponentes considerando que não houve interessados no processo de chamamento público damos por encerrada esta sessão pública sendo assim em nome da ntt agradeço a participação de todos e de Clara encerrada esta sessão pública realizada hoje no dia 5 de Julho de 2024 na cidade de Brasília Distrito Federal Desejamos a todos uma ótima 
+[0:04:21] tarde valeu
