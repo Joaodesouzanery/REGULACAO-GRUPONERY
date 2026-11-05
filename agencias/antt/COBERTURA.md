@@ -1,4 +1,4 @@
-# Cobertura da base (atualizado em 2026-11-02)
+# Cobertura da base (atualizado em 2026-11-05)
 
 Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/data').
 
@@ -6,7 +6,7 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 |---|---|---|---|---|
 | 2026 | workshop | 3 | 3 | 0 |
 | 2026 | romeiros | 1 | 1 | 0 |
-| 2026 | participativa | 11 | 11 | 0 |
+| 2026 | participativa | 10 | 10 | 0 |
 | 2026 | diretoria | 25 | 25 | 24 |
 | 2026 | audiencia | 36 | 34 | 0 |
 | 2025 | workshop | 1 | 0 | 0 |
@@ -14,7 +14,7 @@ Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/d
 | 2025 | diretoria | 36 | 36 | 36 |
 | 2025 | audiencia | 12 | 12 | 0 |
 | 2024 | workshop | 2 | 2 | 0 |
-| 2024 | participativa | 13 | 13 | 0 |
+| 2024 | participativa | 14 | 14 | 0 |
 | 2024 | diretoria | 31 | 31 | 31 |
 | 2024 | audiencia | 10 | 10 | 0 |
 | 2023 | participativa | 4 | 4 | 0 |

@@ -1,0 +1,122 @@
+{
+ "meta": {
+  "video_id": "7JTQLco_5z0",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "audiencia",
+  "numero": "14/2017",
+  "titulo": "Transmissão da Audiência Pública nº 14/2017 (sessão presencial em Brasília)",
+  "data": "2017-12-18",
+  "local": "Brasília/DF",
+  "objeto": "Estudos de viabilidade, minuta de edital e contrato da concessão da Ferrovia de Integração Centro-Oeste (EF-170 / Ferrogrão), Sinop/MT a Miritituba/PA",
+  "processo": null,
+  "tema": [
+   "ferrovias",
+   "concessões ferroviárias",
+   "Ferrogrão",
+   "participação social",
+   "consulta a povos indígenas",
+   "meio ambiente"
+  ],
+  "presidiu": "Alexandre Porto (presidente da sessão presencial, conforme a própria fala); o Diretor-Geral Jorge Bastos abriu a participação das comunidades",
+  "diretores_presentes": [
+   "Jorge Bastos (Diretor-Geral)",
+   "Sérgio Lobo (diretor, citado como acompanhante do Diretor-Geral)"
+  ],
+  "participantes_externos": [
+   "comunidades indígenas (Kayapó e outras)",
+   "Instituto Kabu",
+   "ABIFER",
+   "ANTF",
+   "Aprosoja / Movimento Pró-Logística",
+   "FETTREMAT",
+   "prefeitura de Novo Progresso",
+   "CDL Itaituba",
+   "cooperativa de Caracol",
+   "lideranças e manifestantes da BR-163 (Pará)"
+  ],
+  "resumo": "A sessão em Brasília começou com protesto de lideranças locais e indígenas da região da BR-163 contra a Ferrogrão, exigindo consulta prévia (OIT 169) e a suspensão das audiências. O Diretor-Geral recebeu as comunidades, afirmou que nada será decidido sem ouvi-las e que os estudos serão aprofundados. Houve apresentação técnica dos estudos de demanda (potencial de 41 milhões de toneladas de exportação de Mato Grosso). Em seguida, os inscritos se manifestaram: apoio da indústria ferroviária, oposição de comunidades e lideranças do Pará, e defesa das prorrogações antecipadas pela ANTF. O encerramento registrou compromissos de comunicado relevante e nova reunião em Novo Progresso.",
+  "posicoes": [
+   {
+    "quem": "Comunidades indígenas e lideranças do Pará",
+    "posicao": "exigem consulta prévia antes de qualquer decisão e a suspensão das audiências",
+    "ts": "0:12:22"
+   },
+   {
+    "quem": "ABIFER (Vicente Abate)",
+    "posicao": "apoio total à Ferrogrão e às renovações antecipadas",
+    "ts": "1:50:51"
+   },
+   {
+    "quem": "Prefeitura de Novo Progresso",
+    "posicao": "pede estação de transbordo em Novo Progresso como condicionante e garantias do governo",
+    "ts": "3:04:24"
+   },
+   {
+    "quem": "ANTF (Régis)",
+    "posicao": "apoia novas concessões desde que legais e com oitiva da sociedade, mas prioriza as prorrogações antecipadas",
+    "ts": "3:13:58"
+   },
+   {
+    "quem": "Alexandre Porto (ANTT, presidente da sessão)",
+    "posicao": "estudos só irão ao TCU depois das consultas prévias exigidas pela OIT",
+    "ts": "1:28:36"
+   }
+  ],
+  "encaminhamentos": [
+   "aprofundar os estudos antes de enviar ao TCU",
+   "consulta às comunidades indígenas e tradicionais",
+   "comunicado relevante escrito com o compromisso, no site da ANTT",
+   "reunião participativa em Novo Progresso/PA",
+   "relatório final com resposta escrita às contribuições"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Jorge Bastos",
+   "ts": "1:03:14",
+   "tema": [
+    "Ferrogrão",
+    "participação social",
+    "consulta a povos indígenas"
+   ],
+   "tipo": "compromisso",
+   "resumo": "Como Diretor-Geral, recebe a comunidade indígena e afirma que a ANTT não tomará atitude sem ouvi-la.",
+   "trecho": "nós não vamos tomar nenhuma atitude em relação a isso sem que as comunidades indígenas sejam ouvidos neste processo",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Jorge Bastos",
+   "ts": "1:09:06",
+   "tema": [
+    "Ferrogrão",
+    "participação social"
+   ],
+   "tipo": "compromisso",
+   "resumo": "Reafirma que os estudos serão aprofundados e que ouvir a comunidade indígena é prioridade antes de seguir.",
+   "trecho": "vamos aprofundar os estudos antes que existe isso aconteceu ok ouvir a comunidade indígena foi a primeira coisa que eu falei aqui antes de tudo",
+   "confianca": "media"
+  },
+  {
+   "diretor": "Jorge Bastos",
+   "ts": "3:00:04",
+   "tema": [
+    "participação social",
+    "consulta a povos indígenas"
+   ],
+   "tipo": "encerramento",
+   "resumo": "Em fala de encerramento, agradece a participação dos indígenas em nome da diretoria; autoria inferida do contexto.",
+   "trecho": "agradecesse aos índios na participação que nós da diretoria passa ele não estou muito satisfeito com a participação de vocês",
+   "confianca": "baixa"
+  }
+ ],
+ "limites_da_analise": [
+  "Nomes de diretores vêm da fala do mestre de cerimônias e da legenda automática: Jorge Bastos como Diretor-Geral e Sérgio Lobo como diretor; Sérgio Lobo não aparece falando.",
+  "A legenda não identifica falantes; as falas atribuídas a Jorge Bastos em 1:09 e 3:00 são inferidas, com confiança média e baixa.",
+  "Há trechos ilegíveis na legenda; o início (0:00 a 0:19) é protesto de manifestantes, não de diretores.",
+  "Só janelas do resumo foram lidas, não toda a sessão de 3h16; falas adicionais de diretores podem existir fora delas.",
+  "A legenda cita 12 de dezembro, mas o vídeo é de 2017-12-18; mantida a data do vídeo."
+ ]
+}

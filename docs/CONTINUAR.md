@@ -6,11 +6,15 @@
 3. **O que viaja com o repositório:** transcrições, análises, banco, perfis, scripts, instruções, estado e pendências. **O que NÃO viaja:** a memória da conversa, as permissões do seu Mac, e a tarefa agendada semanal (pertence à sua conta: recriar com «crie uma tarefa semanal de monitoramento» + o texto em `docs/tarefa_semanal.txt`).
 4. O download de transcrições novas continua sendo no Mac (veja `CLAUDE.md`).
 
-## Estado (atualizado em 02/11/2026)
+## Estado (atualizado em 05/11/2026)
 - Fonte da verdade do estado: `COBERTURA.md` (publicado × transcrito × analisado) e `sem_transcricao.md`.
 - ANTT: **todas** as reuniões de diretoria com transcrição estão analisadas, de 2019 a out/2026: 281 reuniões, ≈ 2.350 itens, ≈ 9.250 votos de 20 diretores/substitutos. Única de diretoria sem análise: RD 1042 (28/09/2026), só música.
-- Audiências (202), participativas (66), workshops (6) e romeiros (1): transcritos e indexados como fala literal (`consulta.py trecho`) e menções a diretores (`consulta.py falas`); **sem análise item a item** (próximo passo possível).
-- Pendências: datas oficiais de posse/término (ver `data/mandatos.json`, campo `verificar`); nomes incertos de 2019–2021 («Menezes», grafias de Weber Ciloni, Eduardo Marra) a confirmar no DOU; itens sigilosos sem votos; conferência por amostra das análises (feitas em paralelo por agentes, com campo de confiança).
+- Eventos (audiências, participativas, workshops, romeiros): **265 analisados** em `data/analise_eventos/<id>.evento.json` (2017–2026), com resumo, posições, encaminhamentos e falas de diretores (71 falas estruturadas, com minuto e trecho literal). Ficaram sem análise os ≈13 vídeos sem legenda utilizável (ver `sem_transcricao.md`). **Achado:** na grande maioria das audiências quem fala são ouvidores, superintendentes e gerentes; fala de diretor é rara (concentrada em 2024–2026). Ausência de fala de diretor ≠ ausência do diretor: a análise lê as janelas do resumo (abertura, menções, encerramento), não a sessão inteira. A data usada é a falada no encerramento quando difere do título. Falas de diretores pré-2019 (ex.: Jorge Bastos, DG em 2017) estão nos JSON mas não entram no banco (fora da lista de diretores).
+- Qualidade: conferência cega de 108 itens (2019–2024) ≈ 93% de concordância (`agencias/antt/qualidade/conferencia_amostra.md`); NÃO cobre 2025–2026 nem os eventos.
+- Mandatos/vacância: `data/mandatos.json`, `data/vacancias.json`, `agencias/antt/mandatos/` (9 vacâncias: média 211 d, mediana 191 d); datas oficiais do DOU de 2019–2022 não confirmadas.
+- Banco: `agencias/antt/exportacoes/regulacao.db.gz` (compactado, 27 MB); `data/regulacao.db` é regenerado por `05_indexar.py`.
+- Levar para outra conta: `docs/LEVAR_PARA_OUTRA_CONTA.md` e `docs/HISTORICO_E_DECISOES.md`.
+- Pendências: datas oficiais de posse/término (ver `data/mandatos.json`, campo `verificar`); nomes incertos de 2019–2021 («Menezes», grafias de Weber Ciloni, Eduardo Marra) a confirmar no DOU; itens sigilosos sem votos; ampliar a conferência por amostra a 2025–2026 e a eventos; Whisper para as 4 reuniões de diretoria sem texto (precisa de aprovação); outras agências.
 - Monitoramento: tarefa semanal na nuvem (texto em `docs/tarefa_semanal.txt`) + agendamento no Mac (`pipeline/instalar_agendamento_mac.sh`).
 
 ## Comandos

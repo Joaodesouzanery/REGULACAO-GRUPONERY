@@ -13,6 +13,8 @@
 6. Qualidade: conferência por amostra cega (108 itens, 2019–2024; `agencias/antt/qualidade/conferencia_amostra.md`): concordância de ≈ 93% em relator, resultado e voto por diretor (89–99% por ano). Cite essa taxa ao responder sobre anos antigos, lembrando que mede consistência, não verdade absoluta.
 7. Mandatos/vacâncias: `data/mandatos.json`, `data/vacancias.json` (estimativas, com fonte e confiança).
 
+8. Eventos (audiências/participativas/workshops): `data/analise_eventos/*.evento.json`; `consulta.py falas <diretor>` e `consulta.py trecho`. Diga que a maioria das audiências não tem fala de diretor e que a análise cobre janelas do resumo, não a sessão inteira.
+
 ## Mapa
 - `data/` = fonte de trabalho dos scripts (transcricoes/, analise/*.analise.json, videos.jsonl, mandatos.json, regulacao.db).
 - `agencias/<agencia>/` = árvore organizada gerada (`python3 pipeline/organizar.py antt`): reuniões por ano/tipo, diretores, temas, exportações CSV.

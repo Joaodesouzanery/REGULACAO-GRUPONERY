@@ -1,3 +1,4 @@
+import os
 """Gera a árvore organizada agencias/<agencia>/ a partir de data/ (fonte de trabalho). Idempotente: apaga e recria.
 Uso: python3 pipeline/organizar.py [antt]   (rodar depois de 05_indexar.py)
 Estrutura: reunioes/<ano>/<tipo>/<data>_<numero>_<id>/ · diretores/<nome>/ · temas/ · exportacoes/ (csv, trechos, banco)"""
@@ -45,7 +46,10 @@ csvdump("falas_audiencias", "select f.*, v.titulo from falas_diretores f join vi
 with gzip.open(f"{R}/exportacoes/trechos.jsonl.gz", "wt") as f:
     for r in c.execute("select t.video_id, t.t, t.texto, v.tipo from trechos t join videos v on v.id=t.video_id"):
         f.write(json.dumps({"video_id": r[0], "t": r[1], "tipo": r[3], "link": f"https://www.youtube.com/watch?v={r[0]}&t={r[1]}s", "texto": r[2]}, ensure_ascii=False) + "\n")
-shutil.copy("data/regulacao.db", f"{R}/exportacoes/regulacao.db")
+import gzip
+with open("data/regulacao.db","rb") as _a, gzip.open(f"{R}/exportacoes/regulacao.db.gz","wb",compresslevel=9) as _b:
+    shutil.copyfileobj(_a,_b)
+if os.path.exists(f"{R}/exportacoes/regulacao.db"): os.remove(f"{R}/exportacoes/regulacao.db")
 def cons(*a): return subprocess.run([sys.executable, "-I", "pipeline/consulta.py", *a], capture_output=True, text=True).stdout
 temas = [r[0] for r in c.execute("select tema from item_temas group by 1 having count(*)>=3 order by count(*) desc")]
 for t in temas: open(f"{R}/temas/{t}.md", "w").write(cons("tema", t))
@@ -69,7 +73,7 @@ Gerado por `pipeline/organizar.py` a partir de `data/` (fonte de trabalho). Não
 - `reunioes/<ano>/<tipo>/<data>_<numero>_<video_id>/` — `transcricao.json` (legenda com tempos), `leitura.md`, `analise.json` (itens, votos, justificativas), `meta.json` (link do vídeo). Tipos: diretoria, audiencia, participativa, workshop, romeiros.
 - `diretores/<nome>/` — `perfil.md`, `perfil_<tema>.md`, `votos.csv` (com link no minuto), `mandato.md`, `falas_audiencias.md`.
 - `temas/<tema>.md` — itens por tema, todos os diretores.
-- `exportacoes/` — CSV (reuniões, itens, votos, falas em audiências), `trechos.jsonl.gz` (fala literal com link e minuto), `regulacao.db` (SQLite com busca).
+- `exportacoes/` — CSV (reuniões, itens, votos, falas em audiências), `trechos.jsonl.gz` (fala literal com link e minuto), `regulacao.db.gz` (SQLite compactado; descompacte com gunzip, ou regenere com `python3 pipeline/05_indexar.py`).
 - `inventario.jsonl`, `COBERTURA.md`, `sem_transcricao.md` (o que NÃO temos e por quê), `mandatos.json`.
 """)
 subprocess.run([sys.executable, "-I", "pipeline/vacancias.py", ag])
