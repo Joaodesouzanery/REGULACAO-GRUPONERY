@@ -11,7 +11,7 @@ Tudo que importa está neste repositório (dados, scripts, instruções, estado)
 
 ## Passo 2 — conectar no Claude da outra conta
 1. Em claude.ai/code (ou Claude Code no terminal), conecte o GitHub da outra conta e instale o app do Claude no repositório (https://github.com/apps/claude/installations/select_target).
-2. Crie uma sessão escolhendo o repositório e o branch `claude/director-profile-analysis-jnfixz` (ou o branch principal, depois de mesclar: pedir ao Claude «faça merge do branch na principal», sem abrir PR se não quiser).
+2. Crie uma sessão escolhendo o repositório e o branch `claude/antt-directors-speeches-analysis-93r9hi` (ou o branch principal, depois de mesclar: pedir ao Claude «faça merge do branch na principal», sem abrir PR se não quiser).
 3. O Claude lê `CLAUDE.md` sozinho. **Primeiro prompt para colar:**
 > Leia CLAUDE.md, docs/CONTINUAR.md, docs/HISTORICO_E_DECISOES.md e COBERTURA.md. Rode `python3 pipeline/05_indexar.py` e me diga o estado atual (reuniões, eventos, pendências). Depois continue as pendências listadas em «Pendências» de docs/CONTINUAR.md.
 

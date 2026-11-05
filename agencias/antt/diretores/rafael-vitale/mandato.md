@@ -4,7 +4,7 @@
  "diretor": "Rafael Vitale",
  "cargo": "Diretor-Geral",
  "situacao": "titular",
- "nomeacao_dou": null,
+ "nomeacao_dou": "2021-07-20",
  "senado": "2021-07-07",
  "inicio": "2021-08-03",
  "fim": "2025-02-18",
@@ -14,5 +14,13 @@
  "confianca": "media",
  "verificar": "data de posse e DOU",
  "confirmado": "parcial",
- "fonte_url": "https://www12.senado.leg.br/noticias/materias/2021/07/07/confirmados-em-plenario-dois-diretores-para-a-antt"
+ "fonte_url": "https://www12.senado.leg.br/noticias/materias/2021/07/07/confirmados-em-plenario-dois-diretores-para-a-antt",
+ "nome_completo": "Rafael Vitale Rodrigues",
+ "fim_legal": "2025-02-18",
+ "fim_legal_tipo": "legal",
+ "fontes_pesquisa_2026_11": [
+  "https://diariodotransporte.com.br/2021/07/20/bolsonaro-nomeia-nova-diretoria-da-antt/",
+  "https://www12.senado.leg.br/noticias/materias/2021/07/07/confirmados-em-plenario-dois-diretores-para-a-antt"
+ ],
+ "obs_pesquisa": "Plenário 07/07 (Agência Senado) ou 08/07 (busca)."
 }

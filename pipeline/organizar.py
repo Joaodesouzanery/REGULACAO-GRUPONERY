@@ -1,11 +1,16 @@
 import os
-"""Gera a árvore organizada agencias/<agencia>/ a partir de data/ (fonte de trabalho). Idempotente: apaga e recria.
+"""Gera a árvore organizada agencias/<agencia>/ a partir de data/ (fonte de trabalho). Idempotente: apaga e recria (exceto agencias/<ag>/qualidade/).
 Uso: python3 pipeline/organizar.py [antt]   (rodar depois de 05_indexar.py)
 Estrutura: reunioes/<ano>/<tipo>/<data>_<numero>_<id>/ · diretores/<nome>/ · temas/ · exportacoes/ (csv, trechos, banco)"""
 import json, os, re, shutil, sqlite3, subprocess, sys, csv, gzip, unicodedata
 ag = sys.argv[1] if len(sys.argv) > 1 else "antt"
 R = f"agencias/{ag}"
-if os.path.exists(R): shutil.rmtree(R)
+PRESERVAR = {"qualidade"}  # pastas mantidas à mão (não geradas aqui)
+if os.path.exists(R):
+    for x in os.listdir(R):
+        if x in PRESERVAR: continue
+        y = f"{R}/{x}"
+        shutil.rmtree(y) if os.path.isdir(y) else os.remove(y)
 for d in ("reunioes", "diretores", "temas", "exportacoes"): os.makedirs(f"{R}/{d}")
 def slug(s): return re.sub(r"[^a-z0-9]+", "-", unicodedata.normalize("NFKD", s or "").encode("ascii", "ignore").decode().lower()).strip("-")[:40] or "sem-numero"
 vids = [json.loads(l) for l in open("data/videos.jsonl")]
@@ -73,8 +78,9 @@ Gerado por `pipeline/organizar.py` a partir de `data/` (fonte de trabalho). Não
 - `reunioes/<ano>/<tipo>/<data>_<numero>_<video_id>/` — `transcricao.json` (legenda com tempos), `leitura.md`, `analise.json` (itens, votos, justificativas), `meta.json` (link do vídeo). Tipos: diretoria, audiencia, participativa, workshop, romeiros.
 - `diretores/<nome>/` — `perfil.md`, `perfil_<tema>.md`, `votos.csv` (com link no minuto), `mandato.md`, `falas_audiencias.md`.
 - `temas/<tema>.md` — itens por tema, todos os diretores.
-- `exportacoes/` — CSV (reuniões, itens, votos, falas em audiências), `trechos.jsonl.gz` (fala literal com link e minuto), `regulacao.db.gz` (SQLite compactado; descompacte com gunzip, ou regenere com `python3 pipeline/05_indexar.py`).
+- `exportacoes/` — `votos_diretores.xlsx` (planilha: resumo por diretor, diretor × tema, todos os votos com link no minuto, divergências, falas em eventos, mandatos, vacâncias), CSV (reuniões, itens, votos, falas em audiências), `trechos.jsonl.gz` (fala literal com link e minuto), `regulacao.db.gz` (SQLite compactado; descompacte com gunzip, ou regenere com `python3 pipeline/05_indexar.py`).
 - `inventario.jsonl`, `COBERTURA.md`, `sem_transcricao.md` (o que NÃO temos e por quê), `mandatos.json`.
 """)
 subprocess.run([sys.executable, "-I", "pipeline/vacancias.py", ag])
+if ag == "antt": subprocess.run([sys.executable, "-I", "pipeline/planilha_votos.py", f"{R}/exportacoes/votos_diretores.xlsx"])
 print(n, "reuniões com transcrição organizadas;", len(temas), "temas;", len(os.listdir(f"{R}/diretores")), "diretores")

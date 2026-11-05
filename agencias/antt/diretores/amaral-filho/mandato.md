@@ -13,5 +13,12 @@
  "fonte": "votos nas transcrições",
  "confianca": "media",
  "verificar": "portarias de designação",
- "confirmado": "nao"
+ "confirmado": "nao",
+ "nome_completo": "José Aires Amaral Filho",
+ "fim_legal": null,
+ "fim_legal_tipo": "estimado",
+ "fontes_pesquisa_2026_11": [
+  "https://agenciainfra.com/blog/governo-federal-publica-lista-triplice-de-diretores-substitutos-da-antt/"
+ ],
+ "obs_pesquisa": "1º da lista tríplice de substitutos."
 }

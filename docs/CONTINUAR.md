@@ -1,7 +1,7 @@
 # Como continuar o trabalho em outro chat
 
 ## Para o usuário (conectar este repositório em outro chat do Claude)
-1. Abra um chat/sessão do Claude Code conectado ao repositório `Joaodesouzanery/REGULACAO-GRUPONERY` (branch `claude/director-profile-analysis-jnfixz`, ou o branch principal depois de mesclar).
+1. Abra um chat/sessão do Claude Code conectado ao repositório `Joaodesouzanery/REGULACAO-GRUPONERY` (branch `claude/antt-directors-speeches-analysis-93r9hi` — o mais recente; `claude/director-profile-analysis-jnfixz` é a versão anterior).
 2. O Claude lê `CLAUDE.md` automaticamente. Diga: «leia docs/CONTINUAR.md e continue de onde paramos» ou faça diretamente suas perguntas.
 3. **O que viaja com o repositório:** transcrições, análises, banco, perfis, scripts, instruções, estado e pendências. **O que NÃO viaja:** a memória da conversa, as permissões do seu Mac, e a tarefa agendada semanal (pertence à sua conta: recriar com «crie uma tarefa semanal de monitoramento» + o texto em `docs/tarefa_semanal.txt`).
 4. O download de transcrições novas continua sendo no Mac (veja `CLAUDE.md`).
@@ -10,11 +10,12 @@
 - Fonte da verdade do estado: `COBERTURA.md` (publicado × transcrito × analisado) e `sem_transcricao.md`.
 - ANTT: **todas** as reuniões de diretoria com transcrição estão analisadas, de 2019 a out/2026: 281 reuniões, ≈ 2.350 itens, ≈ 9.250 votos de 20 diretores/substitutos. Única de diretoria sem análise: RD 1042 (28/09/2026), só música.
 - Eventos (audiências, participativas, workshops, romeiros): **265 analisados** em `data/analise_eventos/<id>.evento.json` (2017–2026), com resumo, posições, encaminhamentos e falas de diretores (71 falas estruturadas, com minuto e trecho literal). Ficaram sem análise os ≈13 vídeos sem legenda utilizável (ver `sem_transcricao.md`). **Achado:** na grande maioria das audiências quem fala são ouvidores, superintendentes e gerentes; fala de diretor é rara (concentrada em 2024–2026). Ausência de fala de diretor ≠ ausência do diretor: a análise lê as janelas do resumo (abertura, menções, encerramento), não a sessão inteira. A data usada é a falada no encerramento quando difere do título. Falas de diretores pré-2019 (ex.: Jorge Bastos, DG em 2017) estão nos JSON mas não entram no banco (fora da lista de diretores).
-- Qualidade: conferência cega de 108 itens (2019–2024) ≈ 93% de concordância (`agencias/antt/qualidade/conferencia_amostra.md`); NÃO cobre 2025–2026 nem os eventos.
-- Mandatos/vacância: `data/mandatos.json`, `data/vacancias.json`, `agencias/antt/mandatos/` (9 vacâncias: média 211 d, mediana 191 d); datas oficiais do DOU de 2019–2022 não confirmadas.
+- Qualidade: conferência cega em 3 rodadas + eventos (`agencias/antt/qualidade/README.md`): votos ≈ 93–94% (2019–2026), relator/resultado 93–100%, eventos 100% (trechos e falantes). `organizar.py` agora preserva `qualidade/`.
+- Planilha: `agencias/antt/exportacoes/votos_diretores.xlsx` (resumo por diretor, diretor × tema, 9.251 votos com link no minuto, divergências/vistas, falas em eventos, mandatos, vacâncias).
+- Mandatos/vacância: `data/mandatos.json`, `data/vacancias.json`, `agencias/antt/mandatos/` (9 vacâncias: média 211 d, mediana 191 d); nome completo, Senado e DOU confirmados por notícias/Senado para a maioria (pesquisa de 05/11/2026, com URLs em `fontes_pesquisa_2026_11`); posses NÃO confirmadas; Felipe Queiroz corrigido para fim legal 18/02/2027.
 - Banco: `agencias/antt/exportacoes/regulacao.db.gz` (compactado, 27 MB); `data/regulacao.db` é regenerado por `05_indexar.py`.
 - Levar para outra conta: `docs/LEVAR_PARA_OUTRA_CONTA.md` e `docs/HISTORICO_E_DECISOES.md`.
-- Pendências: datas oficiais de posse/término (ver `data/mandatos.json`, campo `verificar`); nomes incertos de 2019–2021 («Menezes», grafias de Weber Ciloni, Eduardo Marra) a confirmar no DOU; itens sigilosos sem votos; ampliar a conferência por amostra a 2025–2026 e a eventos; Whisper para as 4 reuniões de diretoria sem texto (precisa de aprovação); outras agências.
+- Pendências: datas oficiais de posse/término (ver `data/mandatos.json`, campo `verificar`); nomes incertos de 2019–2021 («Menezes», grafias de Weber Ciloni, Eduardo Marra) a confirmar no DOU; itens sigilosos sem votos; Whisper para as 4 reuniões de diretoria sem texto: script pronto `pipeline/whisper_mac.sh` (rodar no Mac, com aprovação); outras agências: aguardando escolha do cliente (`docs/OUTRAS_AGENCIAS.md`); identificar «Menezes» e «Eduardo Marra»; datas de posse e de renúncia (Ciloni, Porto).
 - Monitoramento: tarefa semanal na nuvem (texto em `docs/tarefa_semanal.txt`) + agendamento no Mac (`pipeline/instalar_agendamento_mac.sh`).
 
 ## Comandos
@@ -26,6 +27,9 @@ python3 pipeline/organizar.py antt          # regenera agencias/antt/
 python3 pipeline/consulta.py perfil "Alex Azevedo" [--tema onibus]
 python3 pipeline/consulta.py trecho "pagamento avulso" [--tipo audiencia]
 python3 pipeline/consulta.py falas Felipe | mandatos | temas | diretores | tema <tema> | busca <texto>
+python3 pipeline/planilha_votos.py          # planilha xlsx de votos por diretor
+python3 pipeline/amostra.py comparar 2025_2026  # conferência por amostra (rodadas: 2019_2024, 2019_2024_b, 2025_2026)
+bash pipeline/whisper_mac.sh                # (no Mac) transcrição por áudio das reuniões sem legenda
 python3 pipeline/03_preparar.py             # gera data/analise/<id>.md (leitura) das transcrições novas
 ```
 
