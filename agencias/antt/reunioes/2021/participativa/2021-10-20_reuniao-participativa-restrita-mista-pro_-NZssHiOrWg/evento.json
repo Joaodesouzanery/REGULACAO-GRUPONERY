@@ -1,0 +1,81 @@
+{
+ "evento": {
+  "tipo": "participativa",
+  "numero": null,
+  "titulo": "Reunião Participativa restrita mista - Projeto Sandbox Regulatório - transporte rodoviário de cargas",
+  "data": "2021-10-20",
+  "local": "virtual (Microsoft Teams)",
+  "objeto": "Norma geral de sandbox regulatório da ANTT, ouvida a cadeia do transporte rodoviário de cargas",
+  "processo": null,
+  "tema": [
+   "sandbox / inovação",
+   "transporte de cargas",
+   "regulação normativa",
+   "participação social",
+   "produtos perigosos"
+  ],
+  "presidiu": "Condução técnica pela Superintendência de Articulação e Governança (Menezes e equipe); abertura por diretor da ANTT chamado Guilherme",
+  "diretores_presentes": [
+   "Guilherme Sampaio"
+  ],
+  "participantes_externos": [
+   "ANUT",
+   "CNT",
+   "Associação Brasileira dos distribuidores de produtos químicos e petroquímicos",
+   "Ministério da Infraestrutura (citado)"
+  ],
+  "resumo": "Reunião de encerramento do ciclo de oitivas do sandbox (rodovias e ferrovias na segunda, passageiros e cargas no dia). Um diretor abriu falando em nome da diretoria colegiada sobre participação social efetiva; a equipe apresentou a literatura, o cronograma e as diretrizes de uma norma-guarda-chuva. Entidades pediram atualização de normas de produtos perigosos e esclarecimentos sobre uso do sandbox. Previsto audiência pública em janeiro/fevereiro de 2022.",
+  "posicoes": [
+   {
+    "quem": "Associação de distribuidores de produtos químicos",
+    "posicao": "quer mais agilidade na atualização da regulação de produtos perigosos e esclarecimentos sobre o documento único",
+    "ts": "0:43:43"
+   },
+   {
+    "quem": "ANUT",
+    "posicao": "vê o sandbox como modernização e busca de futuro; precisa consultar associados",
+    "ts": "0:53:29"
+   }
+  ],
+  "encaminhamentos": [
+   "Contribuições escritas até 27/10/2021",
+   "Audiência pública sobre a minuta em fevereiro de 2022",
+   "Projeto a concluir até meados de 2022"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Guilherme Sampaio",
+   "ts": "0:04:46",
+   "tema": [
+    "sandbox / inovação",
+    "participação social"
+   ],
+   "tipo": "abertura",
+   "resumo": "Abre a reunião em nome da diretoria colegiada, afirmando que a participação social na ANTT não é para inglês ver e que o objetivo é ouvir setor regulado e usuários.",
+   "trecho": "eu falo em nome da diretoria colegiada muito mais de uma visão institucional",
+   "confianca": "media"
+  },
+  {
+   "diretor": "Guilherme Sampaio",
+   "ts": "0:06:17",
+   "tema": [
+    "sandbox / inovação"
+   ],
+   "tipo": "outro",
+   "resumo": "Explica que o sandbox concede autorizações temporárias para testar modelos de negócio inovadores e fomentar a inovação, citando regulação responsiva e AIR.",
+   "trecho": "autorizações temporárias para testar modelos de negócio inovadores e atividades no mercado de transportes terrestres",
+   "confianca": "media"
+  }
+ ],
+ "limites_da_analise": [
+  "Orador identificado apenas como «Guilherme» e como diretor pela própria fala; sobrenome atribuído por inferência externa ao texto, confiança media.",
+  "O ASR grafa «mousse de Menezes» para o superintendente que conduz; não é tratado como diretor aqui (na reunião de 22/07/2021 um «Murched Menezes» foi apresentado como diretor-geral em exercício: possível homônimo ou erro de cargo/ASR).",
+  "Resumo do .md cobre janelas; miolo não lido integralmente."
+ ],
+ "meta": {
+  "video_id": "-NZssHiOrWg",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ }
+}
