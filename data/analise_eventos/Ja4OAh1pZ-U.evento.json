@@ -1,0 +1,64 @@
+{
+ "evento": {
+  "tipo": "participativa",
+  "numero": "01/2023",
+  "titulo": "Reunião Participativa nº 1/2023",
+  "data": "2023-06-03",
+  "local": "Brasília/DF (híbrida)",
+  "objeto": "Proposta de metodologia de taxa de WACC para investimentos ferroviários",
+  "processo": null,
+  "tema": [
+   "ferrovias",
+   "WACC",
+   "concessões ferroviárias",
+   "participação social"
+  ],
+  "presidiu": "Paulo Roberto de Oliveira Júnior (gerente de modelagem econômico-financeira) conduziu; abertura pelo diretor Felipe Queiroz",
+  "diretores_presentes": [
+   "Felipe Queiroz"
+  ],
+  "participantes_externos": [
+   "ANTF"
+  ],
+  "resumo": "O diretor Felipe Queiroz abriu a reunião destacando transparência, participação social e previsibilidade na definição do WACC ferroviário a vigorar em 2024. Paulo Roberto apresentou a metodologia e resultados preliminares. A ANTF elogiou a abertura, pediu prazo maior que 10 dias e alertou para simulações de redução de até quatro pontos no WACC. O assessor André Ludolfo encerrou em nome do diretor.",
+  "posicoes": [
+   {
+    "quem": "ANTF (Fernando Paes)",
+    "posicao": "preocupada com prazos e com redução de até quatro pontos no WACC; pede prazo maior que 10 dias",
+    "ts": "1:12:23"
+   }
+  ],
+  "encaminhamentos": [
+   "Possível prorrogação do prazo de contribuições (até 12/6)",
+   "Outras reuniões se necessário",
+   "Audiência pública a seguir"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Felipe Queiroz",
+   "ts": "0:15:17",
+   "tema": [
+    "ferrovias",
+    "WACC",
+    "participação social"
+   ],
+   "tipo": "abertura",
+   "resumo": "Abriu a reunião, destacou a importância do modo ferroviário e do WACC, reforçou compromisso com transparência e participação social e a diretriz de responder todas as contribuições.",
+   "trecho": "o compromisso da agência com transparência com participação social com previsibilidade que em última análise endereço a segurança jurídica do setor",
+   "confianca": "media"
+  }
+ ],
+ "limites_da_analise": [
+  "Identificação de Felipe Queiroz como falante inferida da apresentação de Paulo Roberto («diretor da ANTT Senhor Felipe Queiroz») e da saudação logo após; legenda não marca falantes.",
+  "Intro (0:15:17) menciona «assessor da diretoria Senhor Felipe Queiroz», provável erro de ASR.",
+  "André Ludolfo (assessor) fala em nome do diretor no encerramento; não é diretor.",
+  "Data do metadado 2023-06-03; a fala de encerramento diz 2 de junho.",
+  "Trechos 0:22 a 1:11 e 1:14 a 1:34 não cobertos."
+ ],
+ "meta": {
+  "video_id": "Ja4OAh1pZ-U",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ }
+}
