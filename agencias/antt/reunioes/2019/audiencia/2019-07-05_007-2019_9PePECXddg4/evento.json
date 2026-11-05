@@ -1,0 +1,60 @@
+{
+ "meta": {
+  "video_id": "9PePECXddg4",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "audiencia",
+  "numero": "007/2019",
+  "titulo": "Audiência Pública nº 7/2019 - sessão de Belo Horizonte (MG)",
+  "data": "2019-07-05",
+  "local": "Belo Horizonte/MG",
+  "objeto": "Estudos para prorrogação antecipada do prazo de vigência do contrato de concessão da MRS Logística (ferrovia)",
+  "tema": [
+   "ferrovias",
+   "prorrogação antecipada de concessão",
+   "participação social",
+   "transporte de cargas"
+  ],
+  "presidiu": "Ouvidor da ANTT (legenda: Caio Nogueira); presidente da audiência: Alexandre Porto (superintendente)",
+  "participantes_externos": [
+   "MRS Logística (Gustavo Bonini)",
+   "prefeitos de Conselheiro Lafaiete, Carandaí e outros",
+   "deputados e Assembleia Legislativa de MG",
+   "DNIT (unidade ferroviária de Juiz de Fora)",
+   "IPHAN-MG",
+   "Superintendência de transporte ferroviário"
+  ],
+  "resumo": "Sessão com exposição do superintendente sobre o histórico do processo (Lei 13.448, PPI) e diagnóstico da MRS. Prefeitos e a MRS defenderam a prorrogação; parlamentares estaduais, falando pelo presidente da Assembleia, ameaçaram judicializar e pediram retorno à mesa, criticando a realização em hotel e a falta de transporte de passageiros e de concorrência. A MRS prometeu abertura ao diálogo.",
+  "posicoes": [
+   {
+    "quem": "Prefeitos e MRS",
+    "posicao": "apoio à prorrogação; investimentos em segurança e passagens em nível",
+    "ts": "1:11:18"
+   },
+   {
+    "quem": "Parlamentar estadual (Assembleia de MG)",
+    "posicao": "contra a antecipação da renovação; ameaça de judicialização; pede mais concorrência e trem de passageiros",
+    "ts": "1:36:58"
+   },
+   {
+    "quem": "MRS (Gustavo Bonini)",
+    "posicao": "plano de 40 anos, terminais intermodais e disposição ao diálogo",
+    "ts": "2:50:10"
+   }
+  ],
+  "encaminhamentos": [
+   "Contribuições escritas até 29/07/2019",
+   "Sessões seguintes: São Paulo, Rio de Janeiro e Brasília"
+  ],
+  "processo": null,
+  "diretores_presentes": []
+ },
+ "falas_diretores": [],
+ "limites_da_analise": [
+  "Nenhum diretor da ANTT aparece como presente ou falante nos trechos lidos (abertura, janelas em torno de menções, encerramento); a mesa foi composta por ouvidor, superintendência/gerência e representantes de ministério e EPL/procuradoria.",
+  "A data aparece como 2009 na legenda em vários trechos (erro de ASR); usada a data do catálogo.",
+  "A legenda automática erra nomes, datas (ex.: 2009 no lugar de 2019) e números."
+ ]
+}
