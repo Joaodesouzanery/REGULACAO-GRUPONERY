@@ -10,7 +10,7 @@
 3. Nada de rótulos sem base («raivoso», «problemático»): use contagens (acompanha, diverge, vista, vencido), argumentos recorrentes e tom registrado como inferência.
 4. A legenda do YouTube é automática: nomes, números e valores podem estar errados; minuto de quem só «acompanha o relator» é aproximado. Avise isso quando relevante.
 5. Diga o que **não** temos: `sem_transcricao.md`, itens sigilosos, anos ainda não analisados (ver `COBERTURA.md`).
-6. Qualidade: conferência por amostra cega (`agencias/antt/qualidade/README.md`): votos por diretor ≈ 93–94% de concordância em 2019–2026 (2019 é o ano mais fraco: 75–92%); relator e resultado entre 93% e 100%; eventos: 100% dos trechos literais encontrados (95% a até 2 min do minuto citado). Cite essa taxa e lembre que mede consistência, não verdade absoluta.
+6. Qualidade: conferência por amostra cega (`agencias/antt/qualidade/README.md`): votos por diretor ≈ 94–95% de concordância em 2019–2026 (2019 é o ano mais fraco: 75–92%); relator e resultado entre 93% e 100%; eventos: 100% dos trechos literais encontrados (95% a até 2 min do minuto citado). Cite essa taxa e lembre que mede consistência, não verdade absoluta.
 7. Mandatos/vacâncias: `data/mandatos.json` (nome completo, Senado, DOU, fim legal, fontes), `data/vacancias.json`, `agencias/antt/mandatos/README.md`. Posse ainda não confirmada no DOU: diga isso.
 9. Planilha: `agencias/antt/exportacoes/votos_diretores.xlsx` (gerada por `pipeline/planilha_votos.py`; `organizar.py` regenera).
 
@@ -26,3 +26,6 @@ O YouTube bloqueia IPs de nuvem: **baixar transcrições** só funciona no Mac (
 
 ## Commits
 Sempre commit e push no branch de trabalho; não abra PR sem pedido. Não versione o banco a cada lote (engorda o `.git`): só em marcos.
+
+## Skills (usar sempre)
+`.claude/skills/`: **resposta-com-evidencia** (toda pergunta sobre diretor → `consulta.py ficha`, formato fixo com trecho literal e link no minuto), **cuidados-pipeline** (antes de todo commit: `python3 pipeline/checar_integridade.py`), **vacancia-agencia** (`vacancias.py`), **relatorio-cliente** (`pipeline/relatorio.py`; `clientes/` nunca vai ao GitHub). Produto: `docs/PRODUTO_CONSULTORIA.md`.

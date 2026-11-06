@@ -18,6 +18,15 @@
 - Pendências: datas oficiais de posse/término (ver `data/mandatos.json`, campo `verificar`); nomes incertos de 2019–2021 («Menezes», grafias de Weber Ciloni, Eduardo Marra) a confirmar no DOU; itens sigilosos sem votos; Whisper para as 4 reuniões de diretoria sem texto: script pronto `pipeline/whisper_mac.sh` (rodar no Mac, com aprovação); outras agências: aguardando escolha do cliente (`docs/OUTRAS_AGENCIAS.md`); identificar «Menezes» e «Eduardo Marra»; datas de posse e de renúncia (Ciloni, Porto).
 - Monitoramento: tarefa semanal na nuvem (texto em `docs/tarefa_semanal.txt`) + agendamento no Mac (`pipeline/instalar_agendamento_mac.sh`).
 
+## Skills (.claude/skills/)
+- `cuidados-pipeline` (checklist antes de commit + `pipeline/checar_integridade.py`) · `resposta-com-evidencia` (ficha fixa: `consulta.py ficha`) · `vacancia-agencia` (`vacancias.py` + `agencias/VACANCIA_AGENCIAS.md`) · `relatorio-cliente` (`pipeline/relatorio.py`, pasta `clientes/` fora do git; ver `docs/PRODUTO_CONSULTORIA.md`).
+- Todo voto tem `trecho` literal (legenda a partir do minuto) e `trecho_tipo` (`fala_no_minuto` ou `janela_do_item`).
+
+## No Mac (o que só ele faz)
+1. Ficar no branch certo: `git fetch origin && git checkout claude/antt-directors-speeches-analysis-93r9hi && git pull`.
+2. Whisper (aprovado para as 4 reuniões sem legenda): `brew install ffmpeg` (uma vez) e `caffeinate -i bash pipeline/whisper_mac.sh`.
+3. DOU (posses): seguir `docs/BAIXAR_DOU_NO_MAC.md`.
+
 ## Comandos
 ```
 python3 pipeline/validar.py                 # valida data/analise/*.analise.json

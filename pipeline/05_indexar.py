@@ -45,6 +45,25 @@ def categoria(v, relator):
     if re.search(r"mant[ée]m o voto", s): return "relator"
     if re.search(r"acompanh|de acordo|adere|ades[ãa]o|sigo|voto com|vota pelo|apoia|proclama", s): return "acompanha"
     return "outro"
+_TR = {}
+def _segs(vid):
+    if vid not in _TR:
+        f = f"data/transcricoes/{vid}.json"; _TR[vid] = json.load(open(f)) if os.path.exists(f) else []
+    return _TR[vid]
+def _seg(ts):
+    p = [int(x) for x in re.findall(r"\d+", ts or "")][-3:]
+    if not p: return None
+    while len(p) < 3: p.insert(0, 0)
+    return p[0] * 3600 + p[1] * 60 + p[2]
+FALA = {"relator", "vencido", "vista", "revisor_diverge", "revisor_acompanha"}
+def trecho_literal(vid, ts, cat, item_ts=None):
+    """Frase literal da transcrição a partir do minuto do voto (≈ 3 s antes a 30 s depois).
+    trecho_tipo: fala_no_minuto (categorias em que o diretor fala: relator, vista, voto-vista, vencido) ou janela_do_item (quem só acompanha: o minuto é aproximado)."""
+    t0 = _seg(ts) if ts else _seg(item_ts)
+    S = _segs(vid)
+    if t0 is None or not S: return None, None, None
+    txt = " ".join(x["x"] for x in S if t0 - 3 <= x["t"] <= t0 + 30).strip()
+    return (txt[:600] or None), ("fala_no_minuto" if cat in FALA and ts else "janela_do_item"), t0
 db = "data/regulacao.db"
 if os.path.exists(db): os.remove(db)
 c = sqlite3.connect(db); c.executescript(open("pipeline/schema2.sql").read())
@@ -75,8 +94,9 @@ for f in sorted(glob.glob("data/analise/*.analise.json")):
             if not dn: continue
             if dn == "Marcelo Fonseca" and str(r["data"]) < "2026-08": continue  # antes de ago/2026 era superintendente, não diretor votante
             cat = categoria(v, rel)
-            c.execute("INSERT INTO votos(item_id,diretor,voto,categoria,ts,justificativa,tom,confianca,eh_relator) VALUES(?,?,?,?,?,?,?,?,?)",
-                (iid, dn, v["voto"], cat, v.get("ts"), v.get("justificativa"), v.get("tom"), v.get("confianca"), 1 if dn == rel and cat == "relator" else 0))
+            tr, trt, trt0 = trecho_literal(d["meta"]["video_id"], v.get("ts"), cat, it.get("ts"))
+            c.execute("INSERT INTO votos(item_id,diretor,voto,categoria,ts,justificativa,tom,confianca,eh_relator,trecho,trecho_tipo,trecho_t) VALUES(?,?,?,?,?,?,?,?,?,?,?,?)",
+                (iid, dn, v["voto"], cat, v.get("ts"), v.get("justificativa"), v.get("tom"), v.get("confianca"), 1 if dn == rel and cat == "relator" else 0, tr, trt, trt0))
             n_v += 1; just.append(f"{dn}: {v.get('justificativa') or ''}")
         c.execute("INSERT INTO busca VALUES(?,?)", (iid, " ".join(filter(None, [it["assunto"], it.get("interessado"), it.get("resumo_voto"), " ".join(just)]))))
 # trechos literais (janelas de ~30 s) de todas as reuniões de diretoria com transcrição, para citar a frase exata com link no minuto

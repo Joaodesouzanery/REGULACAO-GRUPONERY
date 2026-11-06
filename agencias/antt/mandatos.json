@@ -106,11 +106,11 @@
   "confirmado": "nao",
   "nome_completo": "Lucas Asfor Rocha Lima",
   "fim_legal": "2028-02-18",
-  "fim_legal_tipo": "estimado",
+  "fim_legal_tipo": "legal",
   "fontes_pesquisa_2026_11": [
    "https://www25.senado.leg.br/web/atividade/materias/-/materia/155166"
   ],
-  "obs_pesquisa": "MSF 81/2022, vaga de Davi Barreto."
+  "obs_pesquisa": "MSF 81/2022, vaga de Davi Barreto. | 06/11: MSF 81/2022: mandato a partir de 19/02/2023 até 18/02/2028 (busca; texto literal não lido)."
  },
  {
   "diretor": "Guilherme Sampaio",
@@ -129,14 +129,15 @@
   "confirmado": "parcial",
   "fonte_url": "https://www12.senado.leg.br/noticias/materias/2025/08/20/aprovada-indicacao-de-guilherme-sampaio-para-a-diretoria-geral-da-antt",
   "nome_completo": "Guilherme Theo Rodrigues da Rocha Sampaio",
-  "fim_legal": "2030-08",
-  "fim_legal_tipo": "estimado",
+  "fim_legal": "2030-02-18",
+  "fim_legal_tipo": "inferido",
   "fontes_pesquisa_2026_11": [
    "https://www12.senado.leg.br/noticias/materias/2025/08/20/aprovada-indicacao-de-guilherme-sampaio-para-a-diretoria-geral-da-antt",
    "https://www25.senado.leg.br/web/atividade/materias/-/materia/169909",
-   "https://diariodotransporte.com.br/2021/07/20/bolsonaro-nomeia-nova-diretoria-da-antt/"
+   "https://diariodotransporte.com.br/2021/07/20/bolsonaro-nomeia-nova-diretoria-da-antt/",
+   "https://agenciainfra.com/blog/planalto-viabiliza-mandato-de-5-anos-para-guilherme-sampaio-na-antt/"
   ],
-  "obs_pesquisa": "Diretor: DOU 20/07/2021, mandato até 18/02/2026 (vaga de Vinaud); DG interino desde fev/2025; DG: MSF 53/2025, DOU 29/08/2025; controvérsia AGU x Senado sobre o prazo."
+  "obs_pesquisa": "Diretor: DOU 20/07/2021, mandato até 18/02/2026 (vaga de Vinaud); DG interino desde fev/2025; DG: MSF 53/2025, DOU 29/08/2025; controvérsia AGU x Senado sobre o prazo. | 06/11: AGU defendia que os 5 anos contam a permanência total (DG terminaria em fev/2026); Planalto enviou mensagem substitutiva na vaga de Rafael Vitale com 5 anos; plenário 20/08/2025. Término provável fev/2030 (inferência)."
  },
  {
   "diretor": "Alex Azevedo",
@@ -154,13 +155,14 @@
   "confirmado": "parcial",
   "fonte_url": "https://www12.senado.leg.br/noticias/materias/2025/08/20/ci-aprova-novos-diretores-para-a-antt-e-cobra-modernizacao-da-agencia",
   "nome_completo": "Alex Antonio de Azevedo Cruz",
-  "fim_legal": "2030-02-18",
-  "fim_legal_tipo": "estimado",
+  "fim_legal": null,
+  "fim_legal_tipo": "não confirmado",
   "fontes_pesquisa_2026_11": [
    "https://agenciainfra.com/blog/alex-antonio-de-azevedo-cruz-e-indicado-para-diretoria-da-antt-em-substituicao-a-luciano-lourenco/",
-   "https://www12.senado.leg.br/noticias/materias/2025/08/20/ci-aprova-novos-diretores-para-a-antt-e-cobra-modernizacao-da-agencia"
+   "https://www12.senado.leg.br/noticias/materias/2025/08/20/ci-aprova-novos-diretores-para-a-antt-e-cobra-modernizacao-da-agencia",
+   "https://www25.senado.leg.br/web/atividade/materias/-/materia/169594"
   ],
-  "obs_pesquisa": "Vaga de Luciano Lourenço; fim 18/02/2030 (escalonado) ou 5 anos da posse."
+  "obs_pesquisa": "Vaga de Luciano Lourenço; fim 18/02/2030 (escalonado) ou 5 anos da posse. | 06/11: MSF 38/2025 (indicação DOU 13/06/2025; CI 20/08/2025; nomeação DOU 29/08/2025). Término literal não lido: notícia sugere «fevereiro do ano seguinte» (18/02/2026?) mas ele segue votando em out/2026 — conflito em aberto."
  },
  {
   "diretor": "José Aires Amaral Filho",
@@ -290,9 +292,10 @@
   "fim_legal_tipo": "renuncia",
   "fontes_pesquisa_2026_11": [
    "https://diariodotransporte.com.br/2021/07/20/bolsonaro-nomeia-nova-diretoria-da-antt/",
-   "https://www25.senado.leg.br/web/atividade/materias/-/materia/152590"
+   "https://www25.senado.leg.br/web/atividade/materias/-/materia/152590",
+   "https://www25.senado.leg.br/web/atividade/materias/-/materia/152590/pdf"
   ],
-  "obs_pesquisa": "Renunciou antes de abr/2022; vaga foi para Luciano Lourenço. Plenário 07 ou 08/07/2021."
+  "obs_pesquisa": "Renunciou antes de abr/2022; vaga foi para Luciano Lourenço. Plenário 07 ou 08/07/2021. | 06/11: renúncia por volta de ago/2021 (dia não confirmado); Luciano Lourenço entrou na vaga «decorrente da renúncia»."
  },
  {
   "diretor": "Weber Ciloni",
@@ -308,28 +311,30 @@
   "fim_legal": "2022-02-18",
   "fim_legal_tipo": "renuncia",
   "fontes_pesquisa_2026_11": [
-   "https://www25.senado.leg.br/web/atividade/materias/-/materia/133193"
+   "https://www25.senado.leg.br/web/atividade/materias/-/materia/133193",
+   "https://www25.senado.leg.br/web/atividade/materias/-/materia/149013"
   ],
-  "obs_pesquisa": "MSF 31/2018, mandato legal até 18/02/2022; renunciou (~mai/2021)."
+  "obs_pesquisa": "MSF 31/2018, mandato legal até 18/02/2022; renunciou (~mai/2021). | 06/11: saída em 2021 antes do fim (18/02/2022); não confirmado se foi renúncia; vaga para Fábio Rogério (MSF 30/2021)."
  },
  {
   "diretor": "Eduardo Marra",
-  "cargo": "Diretor",
+  "cargo": "3º diretor substituto (lista de jan/2020)",
   "situacao": "substituto (provável)",
   "inicio": null,
   "fim": "2021-08",
   "fonte": "relatório anual 2021 da ANTT lista como diretor em exercício; Guilherme Sampaio ocupou sua vaga segundo a RD 912",
-  "confianca": "baixa",
+  "confianca": "media",
   "verificar": "nome completo e datas",
   "obs": "Aparece em reuniões de 2020–2021 sem registro de nomeação como titular nas buscas; possivelmente diretor substituto convocado durante vagas. Nome incerto na legenda.",
   "confirmado": "nao",
-  "nome_completo": "Eduardo José Marra (?)",
+  "nome_completo": "Eduardo José Marra",
   "fim_legal": null,
   "fim_legal_tipo": "estimado",
   "fontes_pesquisa_2026_11": [
-   "https://www.gov.br/antt/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/prestacao-de-contas-anuais/2020/relatorio-anual-de-atividades-2020.pdf/@@download/file"
+   "https://www.gov.br/antt/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/prestacao-de-contas-anuais/2020/relatorio-anual-de-atividades-2020.pdf/@@download/file",
+   "https://www.poder360.com.br/governo/bolsonaro-nomeia-diretores-na-anac-antt-e-anvisa/"
   ],
-  "obs_pesquisa": "Aparece como Eduardo José Marra (em exercício) no relatório anual 2020."
+  "obs_pesquisa": "Aparece como Eduardo José Marra (em exercício) no relatório anual 2020. | 06/11: 3º substituto na lista de 2020."
  },
  {
   "diretor": "Fábio Rogério",
@@ -353,22 +358,23 @@
  },
  {
   "diretor": "Menezes (nome incerto)",
-  "cargo": "Diretor (identidade incerta)",
+  "cargo": "2º diretor substituto (lista de jan/2020; então Superintendente Executivo)",
   "situacao": "substituto (provável)",
   "inicio": null,
   "fim": null,
   "fonte": "legenda de 2021 cita «Menezes» sem prenome; pode ser distorção de outro nome (Alexandre Porto Mendes de Souza?)",
-  "confianca": "baixa",
+  "confianca": "media",
   "verificar": "conferir no áudio/DOU e mesclar",
   "obs": "Aparece em reuniões de 2020–2021 sem registro de nomeação como titular nas buscas; possivelmente diretor substituto convocado durante vagas. Nome incerto na legenda.",
   "confirmado": "nao",
-  "nome_completo": null,
+  "nome_completo": "Murshed Menezes Ali",
   "fim_legal": null,
   "fim_legal_tipo": "estimado",
   "fontes_pesquisa_2026_11": [
-   "https://agenciainfra.com/blog/conheca-os-substitutos-que-vao-compor-as-diretorias-vagas-das-agencias-de-transportes/"
+   "https://agenciainfra.com/blog/conheca-os-substitutos-que-vao-compor-as-diretorias-vagas-das-agencias-de-transportes/",
+   "https://www.poder360.com.br/governo/bolsonaro-nomeia-diretores-na-anac-antt-e-anvisa/"
   ],
-  "obs_pesquisa": "Identidade não confirmada (eventos grafam Murched Menezes)."
+  "obs_pesquisa": "Identidade não confirmada (eventos grafam Murched Menezes). | 06/11: identificado por notícia (Poder360/Agência iNFRA) como 2º substituto; legendas grafam «Murched/michelle Menezes»."
  },
  {
   "diretor": "Mário Rodrigues Junior",

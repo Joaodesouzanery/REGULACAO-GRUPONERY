@@ -14,7 +14,8 @@
  "fim_legal": "2022-02-18",
  "fim_legal_tipo": "renuncia",
  "fontes_pesquisa_2026_11": [
-  "https://www25.senado.leg.br/web/atividade/materias/-/materia/133193"
+  "https://www25.senado.leg.br/web/atividade/materias/-/materia/133193",
+  "https://www25.senado.leg.br/web/atividade/materias/-/materia/149013"
  ],
- "obs_pesquisa": "MSF 31/2018, mandato legal até 18/02/2022; renunciou (~mai/2021)."
+ "obs_pesquisa": "MSF 31/2018, mandato legal até 18/02/2022; renunciou (~mai/2021). | 06/11: saída em 2021 antes do fim (18/02/2022); não confirmado se foi renúncia; vaga para Fábio Rogério (MSF 30/2021)."
 }

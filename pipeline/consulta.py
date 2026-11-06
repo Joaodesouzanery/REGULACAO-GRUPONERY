@@ -1,6 +1,7 @@
 """Consulta a base: perfil por diretor/tema, busca de texto e lista de itens com citação (link do YouTube no minuto).
 Uso:
   consulta.py perfil "Alex Azevedo" [--tema onibus]
+  consulta.py ficha "Lucas Asfor" [--tema onibus]   ← FORMATO PADRÃO DE RESPOSTA (ficha fixa com trechos literais)
   consulta.py busca "empresa de ônibus cassação"
   consulta.py temas | diretores | mandatos | trecho <texto> [--tipo audiencia|participativa|diretoria|workshop]"""
 import json, sqlite3, sys, re, collections
@@ -49,6 +50,37 @@ def perfil(d, tema=None):
         out.append(f"- **RD {r['numero']} ({r['data']})**, item {r['item']} — {r['assunto'][:140]} · voto: *{r['voto']}* ({r['categoria']}, conf. {r['confianca']})"
                    + (f" · «{r['justificativa']}»" if r["justificativa"] else "") + f" · [vídeo]({link(r['video_id'], r['ts'])}) · resultado: {r['resultado'][:70]}")
     return "\n".join(out)
+QUAL = "conferência cega: ≈ 94–95% de concordância nos votos por diretor (2019–2026; 2019 é o ano mais fraco); mede consistência, não verdade absoluta (agencias/antt/qualidade/README.md)"
+def ficha(d, tema=None, n_ev=5):
+    """Ficha fixa: 1 resposta curta · 2 números · 3 evidências com trecho literal · 4 contra-exemplos · 5 falas em eventos · 6 confiança e lacunas."""
+    q = "select v.*, i.item, i.assunto, i.resultado, i.unanime, i.relator, i.ts its, r.numero, r.data, r.video_id from votos v join itens i on i.id=v.item_id join reunioes r on r.id=i.reuniao_id where v.diretor=?"
+    a = [d]
+    if tema: q += " and v.item_id in (select item_id from item_temas where tema=?)"; a.append(tema)
+    rows = c.execute(q + " order by r.data, i.ts", a).fetchall()
+    if not rows: return f"Sem votos de «{d}»" + (f" no tema {tema}" if tema else "") + ". Diretores: " + ", ".join(r[0] for r in c.execute("select distinct diretor from votos"))
+    n = len(rows); cat = collections.Counter(r["categoria"] for r in rows); rel = [r for r in rows if r["eh_relator"]]
+    acomp = cat["acompanha"] + cat["revisor_acompanha"]; nao_rel = max(n - len(rel), 1)
+    div = [r for r in rows if r["categoria"] in ("vista", "vencido", "revisor_diverge", "outro")]
+    tot = c.execute("select count(*) from votos where diretor=?", (d,)).fetchone()[0]
+    per = f"{rows[0]['data']} a {rows[-1]['data']}"
+    L = [f"# {d}" + (f" · tema «{tema}»" if tema else ""), "",
+         "**1. Resposta curta:** " + (f"envolve-se ativamente como relator ({len(rel)} relatorias, {100*len(rel)//n}% dos votos no tema)" if len(rel) >= 0.15 * n else f"participa sobretudo votando ({len(rel)} relatorias em {n} votos)")
+         + f"; acompanha o relator em {100*acomp//nao_rel}% dos votos em que não relata; {len(div)} votos fora do padrão (vista, vencido, divergência, outro). [Completar com o padrão de mérito lido nas evidências.]", "",
+         f"**2. Números:** n = {n} votos" + (f" no tema (de {tot} no total)" if tema else "") + f" · período {per} · relator {len(rel)} (unânimes {sum(r['unanime'] for r in rel)}) · acompanha {acomp} · vista {cat['vista']} · voto-vista divergente {cat['revisor_diverge']} · vencido {cat['vencido']} · outro/não captado {cat['outro'] + cat['nao_captado']}", "",
+         "**3. Evidências** (relatorias e votos justificados; trecho literal da legenda automática):"]
+    ev = [r for r in rows if r["eh_relator"] and r["justificativa"]] or [r for r in rows if r["justificativa"]] or rows
+    passo = max(len(ev) // n_ev, 1)
+    for r in ev[::passo][:n_ev]:
+        L.append(f"- **RD {r['numero']} ({r['data']}), item {r['item']}** — {r['assunto'][:150]} · voto: *{r['voto']}* · justificativa: «{r['justificativa'] or '—'}» · resultado: {r['resultado'][:80]}"
+                 + f"\n  - trecho ({r['trecho_tipo']}): «{(r['trecho'] or '—')[:280]}…» · [vídeo no minuto]({link(r['video_id'], r['ts'] or r['its'])})")
+    L += ["", "**4. Contra-exemplos / fora do padrão:**"]
+    for r in div[-n_ev:] or []:
+        L.append(f"- RD {r['numero']} ({r['data']}), item {r['item']} · {r['categoria']}: *{r['voto']}* · «{r['justificativa'] or '—'}» · [vídeo]({link(r['video_id'], r['ts'] or r['its'])})")
+    if not div: L.append("- nenhum voto de vista, vencido ou divergente neste recorte.")
+    fal = c.execute("select f.*, v.titulo from falas_diretores f join videos v on v.id=f.video_id where f.diretor like ? and f.fonte='estruturada' order by f.video_id, f.t limit 4", (f"%{d.split()[-1]}%",)).fetchall()
+    L += ["", "**5. Falas em eventos (audiências/participativas):**"] + ([f"- {f['titulo'][:70]} · [{f['t']//60} min](https://www.youtube.com/watch?v={f['video_id']}&t={f['t']}s): {f['resumo'] or ''} «{(f['texto'] or '')[:200]}»" for f in fal] or ["- nenhuma fala estruturada (a maioria das audiências não tem fala de diretor; a análise cobre janelas do resumo)."])
+    L += ["", f"**6. Confiança e lacunas:** {QUAL}. Legenda automática (nomes/valores podem estar errados); trecho «janela_do_item» = minuto do item, não necessariamente a fala do diretor; itens sigilosos e 4 reuniões sem texto fora da base (sem_transcricao.md); voto escrito completo fica no SEI, não no vídeo."]
+    return "\n".join(L)
 def tema(t):
     out = [f"# Itens do tema «{t}» (todos os diretores)\n"]
     for i in c.execute("select i.*, r.numero, r.data, r.video_id from itens i join reunioes r on r.id=i.reuniao_id where i.id in (select item_id from item_temas where tema=?) order by r.data, i.ts", (t,)):
@@ -80,6 +112,8 @@ if __name__ == "__main__":
     elif a[0] == "trecho":
         tp = a[a.index("--tipo") + 1] if "--tipo" in a else None
         print(trecho(" ".join(w for i, w in enumerate(a[1:], 1) if w != "--tipo" and a[i - 1] != "--tipo"), tipo=tp))
+    elif a[0] == "ficha":
+        print(ficha(a[1], a[a.index("--tema") + 1] if "--tema" in a else None))
     elif a[0] == "falas":  # falas/menções do diretor em audiências, participativas e workshops
         for r in c.execute("select f.*, v.titulo from falas_diretores f join videos v on v.id=f.video_id where f.diretor like ? order by (f.fonte='estruturada') desc, f.video_id, f.t limit 40", (f"%{a[1]}%",)):
             print(f"- {r['tipo_video']}: {r['titulo'][:60]} · [{r['t']//3600}:{r['t']%3600//60:02d}:{r['t']%60:02d}](https://www.youtube.com/watch?v={r['video_id']}&t={r['t']}s) — {('**'+r['resumo']+'** ') if r['resumo'] else ''}«{(r['texto'] or '')[:260]}…» ({r['fonte']})")

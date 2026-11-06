@@ -31,7 +31,7 @@ def aba(nome, cab, linhas, larg=None, links=()):
 temas_item = collections.defaultdict(list)
 for iid, t in c.execute("select item_id, tema from item_temas"): temas_item[iid].append(t)
 V = c.execute("""select v.diretor, r.data, r.numero, r.video_id, i.id, i.item, i.processo, i.interessado, i.assunto, i.relator, i.resultado, i.unanime,
-  v.voto, v.categoria, v.justificativa, v.tom, v.ts, i.ts, v.confianca from votos v join itens i on i.id=v.item_id join reunioes r on r.id=i.reuniao_id order by r.data, r.numero, i.id""").fetchall()
+  v.voto, v.categoria, v.justificativa, v.tom, v.ts, i.ts, v.confianca, v.trecho, v.trecho_tipo from votos v join itens i on i.id=v.item_id join reunioes r on r.id=i.reuniao_id order by r.data, r.numero, i.id""").fetchall()
 mand = {m["diretor"]: m for m in json.load(open("data/mandatos.json"))}
 # Leia-me
 ws = wb.active; ws.title = "Leia-me"
@@ -39,7 +39,7 @@ for l in ["Votos dos diretores da ANTT em reuniões públicas de diretoria (YouT
           f"Base: {len({v[3] for v in V})} reuniões, {len({v[4] for v in V})} itens, {len(V)} votos, de {min(v[1] for v in V if v[1])} a {max(v[1] for v in V if v[1])}.",
           "Fonte: legenda AUTOMÁTICA do YouTube, lida e estruturada por IA. Nomes, números e valores podem conter erros de transcrição.",
           "Categorias de voto: relator (relatou o item); acompanha (votou com o relator); revisor_acompanha / revisor_diverge; vista (pediu vista); vencido (voto vencido); outro (abstenção, impedimento, ressalva etc.); nao_captado.",
-          "Quem só «acompanha» raramente fala: o minuto do link é o do item, aproximado.",
+          "Quem só «acompanha» raramente fala: o minuto do link é o do item, aproximado.", "Trecho literal: frase da legenda a partir do minuto do voto (até 30 s). Tipo «fala_no_minuto» = relator/vista/voto-vista/vencido (o diretor fala ali); «janela_do_item» = quem só acompanha (o trecho é do momento do item, não necessariamente a fala dele).",
           "Qualidade (conferência cega): 2019–2024 ≈ 93% de concordância em relator, resultado e voto; ver agencias/antt/qualidade/ para 2025–2026 e eventos. Mede consistência, não verdade absoluta.",
           "Itens sigilosos e reuniões sem legenda não estão aqui (ver sem_transcricao.md). Mandatos: datas estimadas quando não confirmadas (coluna confiança).",
           "Gerado por pipeline/planilha_votos.py; regenere após cada atualização da base."]:
@@ -66,9 +66,9 @@ for v in V:
 rows = [[d, t, k["votos"], k["relator"], k["acompanha"] + k["revisor_acompanha"], k["vista"], k["vencido"] + k["revisor_diverge"], k["outro"], pct(k["vista"] + k["vencido"] + k["revisor_diverge"], k["votos"])] for (d, t), k in sorted(dt.items())]
 aba("Diretor x Tema", ["Diretor", "Tema", "Votos", "Relatorias", "Acompanha", "Vistas", "Vencido/diverge", "Outro", "% vista+vencido+diverge"], rows, {"Diretor": 26, "Tema": 26})
 # Votos
-cab = ["Data", "Reunião", "Item", "Diretor", "Categoria", "Voto (texto)", "Justificativa", "Tom (inferido)", "Relator", "Resultado", "Unânime", "Temas", "Processo", "Interessado", "Assunto", "Confiança", "Link (minuto)"]
-lin = [[v[1], v[2], v[5], v[0], v[13], v[12], v[14], v[15], v[9], v[10], {1: "sim", 0: "não"}.get(v[11]), ", ".join(temas_item[v[4]]), v[6], v[7], v[8], v[18], link(v[3], v[16] or v[17])] for v in V]
-aba("Votos", cab, lin, {"Voto (texto)": 40, "Justificativa": 50, "Assunto": 60, "Resultado": 40, "Interessado": 30, "Link (minuto)": 45, "Diretor": 22}, links=["Link (minuto)"])
+cab = ["Data", "Reunião", "Item", "Diretor", "Categoria", "Voto (texto)", "Justificativa", "Tom (inferido)", "Relator", "Resultado", "Unânime", "Temas", "Processo", "Interessado", "Assunto", "Confiança", "Trecho literal (transcrição)", "Tipo do trecho", "Link (minuto)"]
+lin = [[v[1], v[2], v[5], v[0], v[13], v[12], v[14], v[15], v[9], v[10], {1: "sim", 0: "não"}.get(v[11]), ", ".join(temas_item[v[4]]), v[6], v[7], v[8], v[18], v[19], v[20], link(v[3], v[16] or v[17])] for v in V]
+aba("Votos", cab, lin, {"Voto (texto)": 40, "Justificativa": 50, "Assunto": 60, "Resultado": 40, "Interessado": 30, "Link (minuto)": 45, "Diretor": 22, "Trecho literal (transcrição)": 70}, links=["Link (minuto)"])
 aba("Divergências e vistas", cab, [l for l, v in zip(lin, V) if v[13] in DIV or v[11] == 0], {"Voto (texto)": 40, "Justificativa": 50, "Assunto": 60, "Resultado": 40, "Link (minuto)": 45, "Diretor": 22}, links=["Link (minuto)"])
 # Falas em eventos
 F2 = c.execute("select e.data, f.tipo_video, e.titulo, f.diretor, f.resumo, f.texto, f.confianca, f.video_id, f.t from falas_diretores f left join eventos e on e.video_id=f.video_id order by e.data").fetchall()

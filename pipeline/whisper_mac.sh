@@ -8,6 +8,7 @@ cd "$(dirname "$0")/.." || exit 1
 UV="$HOME/.local/bin/uv"; [ -x "$UV" ] || UV="$(command -v uv)"
 [ -z "$UV" ] && { echo "uv não encontrado. Rode: curl -LsSf https://astral.sh/uv/install.sh | sh"; exit 1; }
 IDS=("$@"); [ ${#IDS[@]} -eq 0 ] && IDS=(tE0KRoC9JhA 5Ekrdu6K-4Y U3h5SQcZJYE 6A8-zT0Sipw)
+command -v ffmpeg >/dev/null || { echo "ffmpeg não encontrado. Rode: brew install ffmpeg"; exit 1; }
 MOD="${WHISPER_MODELO:-small}"; TMP="$(mktemp -d)"; BR="$(git branch --show-current)"
 for id in "${IDS[@]}"; do
   echo "=== $id: baixando áudio ==="

@@ -4,7 +4,8 @@ import json, sys, os, csv, datetime, statistics
 ag = sys.argv[1] if len(sys.argv) > 1 else "antt"
 hoje = datetime.date.today()
 d = lambda s: datetime.date.fromisoformat(s)
-V = json.load(open("data/vacancias.json"))
+BASE = "data" if ag == "antt" else f"data/{ag}"  # ANTT (piloto) fica em data/; demais agências em data/<sigla>/
+V = json.load(open(f"{BASE}/vacancias.json"))
 for v in V:
     v["dias"] = ((d(v["fim"]) if v["fim"] else hoje) - d(v["inicio"])).days + 1; v["aberta"] = v["fim"] is None
 os.makedirs(f"agencias/{ag}/mandatos", exist_ok=True)
@@ -26,6 +27,17 @@ for v in V: md.append(f"| {v['id']} | {v['cadeira']} | {v['inicio']} | {v['fim']
 md += ["", "## Mandatos (resumo)", "", "Ver `data/mandatos.json` (campos: nomeação no DOU, aprovação no Senado, início/fim estimados, confirmado, fonte). Mandato de diretor da ANTT: 5 anos, sem recondução (Lei 13.848/2019; antes, 4 anos com término escalonado em 18/02); substituto convocado por até 180 dias ou até a nomeação de novo titular.", "",
        "| Diretor | Nome completo | Cargo | Senado (plenário) | Nomeação DOU | Posse | 1º voto/início | Fim legal | Fim efetivo (último voto/estimado) | Confiança | Fontes |", "|---|---|---|---|---|---|---|---|---|---|---|"] + [
        f"| {m['diretor']} | {m.get('nome_completo') or ''} | {m.get('cargo') or ''} | {m.get('senado') or '—'} | {m.get('nomeacao_dou') or '—'} | {m.get('posse') or 'não confirmada'} | {m.get('inicio') or '—'} | {m.get('fim_legal') or '—'} | {m.get('fim') or '—'} | {m.get('confianca')} | " + " ".join(f"[{i+1}]({u})" for i, u in enumerate(m.get('fontes_pesquisa_2026_11') or ([m['fonte_url']] if m.get('fonte_url') else []))) + " |"
-       for m in json.load(open("data/mandatos.json") if ag == "antt" else open(f"data/{ag}/mandatos.json"))] + ["",
+       for m in json.load(open(f"{BASE}/mandatos.json"))] + ["",
        "", "## Para outras agências", "Repita com `data/<agencia>/vacancias.json` no mesmo formato e rode `python3 pipeline/vacancias.py <agencia>`; a média de vacância por agência fica em `agencias/<agencia>/mandatos/README.md`."]
 open(f"agencias/{ag}/mandatos/README.md", "w").write("\n".join(md) + "\n"); print("\n".join(md[4:9]))
+
+# Comparativo entre agências (todas com data/[<sigla>/]vacancias.json): agencias/VACANCIA_AGENCIAS.md
+linhas = ["# Vacância de diretoria por agência (comparativo)", "", f"Atualizado em {hoje} (vacâncias em aberto contam até hoje). Gerado por `pipeline/vacancias.py`.", "",
+          "| Agência | Vacâncias | Média (dias) | Mediana | Máx | Em aberto hoje | % dias-cadeira vagos desde 2023 |", "|---|---|---|---|---|---|---|"]
+for sig in sorted({"antt"} | {x for x in os.listdir("data") if os.path.exists(f"data/{x}/vacancias.json")}):
+    VV = json.load(open("data/vacancias.json" if sig == "antt" else f"data/{sig}/vacancias.json"))
+    for v in VV: v["dias"] = ((d(v["fim"]) if v["fim"] else hoje) - d(v["inicio"])).days + 1
+    ds = [v["dias"] for v in VV]; rr = [v for v in VV if v["inicio"] >= "2023-01-01"]
+    vg = sum(((d(v["fim"]) if v["fim"] else hoje) - max(d(v["inicio"]), ini)).days + 1 for v in rr)
+    linhas.append(f"| {sig.upper()} | {len(ds)} | {statistics.mean(ds):.0f} | {statistics.median(ds):.0f} | {max(ds)} | {sum(1 for v in VV if not v['fim'])} | {100*vg/tot:.1f}% |")
+open("agencias/VACANCIA_AGENCIAS.md", "w").write("\n".join(linhas) + "\n")

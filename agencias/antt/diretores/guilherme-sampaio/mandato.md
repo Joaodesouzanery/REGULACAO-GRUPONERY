@@ -17,12 +17,13 @@
  "confirmado": "parcial",
  "fonte_url": "https://www12.senado.leg.br/noticias/materias/2025/08/20/aprovada-indicacao-de-guilherme-sampaio-para-a-diretoria-geral-da-antt",
  "nome_completo": "Guilherme Theo Rodrigues da Rocha Sampaio",
- "fim_legal": "2030-08",
- "fim_legal_tipo": "estimado",
+ "fim_legal": "2030-02-18",
+ "fim_legal_tipo": "inferido",
  "fontes_pesquisa_2026_11": [
   "https://www12.senado.leg.br/noticias/materias/2025/08/20/aprovada-indicacao-de-guilherme-sampaio-para-a-diretoria-geral-da-antt",
   "https://www25.senado.leg.br/web/atividade/materias/-/materia/169909",
-  "https://diariodotransporte.com.br/2021/07/20/bolsonaro-nomeia-nova-diretoria-da-antt/"
+  "https://diariodotransporte.com.br/2021/07/20/bolsonaro-nomeia-nova-diretoria-da-antt/",
+  "https://agenciainfra.com/blog/planalto-viabiliza-mandato-de-5-anos-para-guilherme-sampaio-na-antt/"
  ],
- "obs_pesquisa": "Diretor: DOU 20/07/2021, mandato até 18/02/2026 (vaga de Vinaud); DG interino desde fev/2025; DG: MSF 53/2025, DOU 29/08/2025; controvérsia AGU x Senado sobre o prazo."
+ "obs_pesquisa": "Diretor: DOU 20/07/2021, mandato até 18/02/2026 (vaga de Vinaud); DG interino desde fev/2025; DG: MSF 53/2025, DOU 29/08/2025; controvérsia AGU x Senado sobre o prazo. | 06/11: AGU defendia que os 5 anos contam a permanência total (DG terminaria em fev/2026); Planalto enviou mensagem substitutiva na vaga de Rafael Vitale com 5 anos; plenário 20/08/2025. Término provável fev/2030 (inferência)."
 }

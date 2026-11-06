@@ -16,9 +16,9 @@
  "confirmado": "nao",
  "nome_completo": "Lucas Asfor Rocha Lima",
  "fim_legal": "2028-02-18",
- "fim_legal_tipo": "estimado",
+ "fim_legal_tipo": "legal",
  "fontes_pesquisa_2026_11": [
   "https://www25.senado.leg.br/web/atividade/materias/-/materia/155166"
  ],
- "obs_pesquisa": "MSF 81/2022, vaga de Davi Barreto."
+ "obs_pesquisa": "MSF 81/2022, vaga de Davi Barreto. | 06/11: MSF 81/2022: mandato a partir de 19/02/2023 até 18/02/2028 (busca; texto literal não lido)."
 }

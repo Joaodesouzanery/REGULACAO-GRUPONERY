@@ -17,8 +17,8 @@ ano,video_id,item,campo,original,conferencia
 2024,r93budWD4NU,1.2.1,resultado,vista,vista
 2024,r93budWD4NU,1.2.1,voto:Lucas Asfor,relator,relator
 2024,r93budWD4NU,1.2.1,voto:Guilherme Sampaio,vista,vista
-2024,r93budWD4NU,1.2.1,voto:Luciano Lourenço,vista,outro
-2024,r93budWD4NU,1.2.1,voto:Felipe Queiroz,vista,outro
+2024,r93budWD4NU,1.2.1,voto:Luciano Lourenço,acompanha,outro
+2024,r93budWD4NU,1.2.1,voto:Felipe Queiroz,acompanha,outro
 2024,LNSg-EtO5zg,1.1.1,relator,Guilherme Sampaio,Guilherme Sampaio
 2024,LNSg-EtO5zg,1.1.1,resultado,unanim,unanim
 2024,LNSg-EtO5zg,1.1.1,voto:Guilherme Sampaio,relator,relator
@@ -74,11 +74,11 @@ ano,video_id,item,campo,original,conferencia
 2024,bNHmEBzvMns,1.1.4,voto:Lucas Asfor,acompanha,acompanha
 2024,bNHmEBzvMns,1.1.7,relator,Luciano Lourenço (voto-vista: Rafael Vitale),Luciano Lourenço
 2024,bNHmEBzvMns,1.1.7,resultado,unanim,unanim
-2024,bNHmEBzvMns,1.1.7,voto:Rafael Vitale,vista,outro
+2024,bNHmEBzvMns,1.1.7,voto:Rafael Vitale,acompanha,outro
 2024,bNHmEBzvMns,1.1.7,voto:Guilherme Sampaio,acompanha,acompanha
 2024,bNHmEBzvMns,1.1.7,voto:Luciano Lourenço,relator,relator
 2024,bNHmEBzvMns,1.1.7,voto:Felipe Queiroz,acompanha,acompanha
-2024,bNHmEBzvMns,1.1.7,voto:Lucas Asfor,vista,acompanha
+2024,bNHmEBzvMns,1.1.7,voto:Lucas Asfor,acompanha,acompanha
 2024,3KyK_89ogrM,1.1.2,relator,Guilherme Sampaio,Guilherme Sampaio
 2024,3KyK_89ogrM,1.1.2,resultado,unanim,unanim
 2024,3KyK_89ogrM,1.1.2,voto:Guilherme Sampaio,relator,relator
@@ -307,10 +307,10 @@ ano,video_id,item,campo,original,conferencia
 2020,4WJEBJKglvA,2.2.1,voto:Davi Barreto,acompanha,acompanha
 2020,4WJEBJKglvA,2.1.1,relator,Davi Barreto (voto 85/2020); voto-vista de Weber Ciloni,Davi Barreto
 2020,4WJEBJKglvA,2.1.1,resultado,unanim,unanim
-2020,4WJEBJKglvA,2.1.1,voto:Weber Ciloni,vista,acompanha
-2020,4WJEBJKglvA,2.1.1,voto:Davi Barreto,vista,relator
+2020,4WJEBJKglvA,2.1.1,voto:Weber Ciloni,acompanha,acompanha
+2020,4WJEBJKglvA,2.1.1,voto:Davi Barreto,acompanha,relator
 2020,4WJEBJKglvA,2.1.1,voto:Alexandre Porto,acompanha,acompanha
-2020,4WJEBJKglvA,2.1.1,voto:Eduardo Marra,vista,acompanha
+2020,4WJEBJKglvA,2.1.1,voto:Eduardo Marra,acompanha,acompanha
 2020,4WJEBJKglvA,extrapauta,relator,Eduardo Marra,Eduardo Marra
 2020,4WJEBJKglvA,extrapauta,resultado,unanim,unanim
 2020,4WJEBJKglvA,extrapauta,voto:Eduardo Marra,relator,relator
@@ -368,9 +368,9 @@ ano,video_id,item,campo,original,conferencia
 2022,1eQGIHBQi-4,2.1.3,relator,Davi Barreto,Davi Barreto
 2022,1eQGIHBQi-4,2.1.3,resultado,unanim,unanim
 2022,1eQGIHBQi-4,2.1.3,voto:Davi Barreto,relator,acompanha
-2022,1eQGIHBQi-4,2.1.3,voto:Guilherme Sampaio,vista,outro
-2022,1eQGIHBQi-4,2.1.3,voto:Luciano Lourenço,vista,acompanha
-2022,1eQGIHBQi-4,2.1.3,voto:Rafael Vitale,vista,acompanha
+2022,1eQGIHBQi-4,2.1.3,voto:Guilherme Sampaio,acompanha,outro
+2022,1eQGIHBQi-4,2.1.3,voto:Luciano Lourenço,acompanha,acompanha
+2022,1eQGIHBQi-4,2.1.3,voto:Rafael Vitale,acompanha,acompanha
 2022,1eQGIHBQi-4,1.1,relator,Rafael Vitale,
 2022,1eQGIHBQi-4,1.1,resultado,unanim,unanim
 2022,1eQGIHBQi-4,1.1,voto:Davi Barreto,acompanha,acompanha
@@ -560,7 +560,7 @@ ano,video_id,item,campo,original,conferencia
 2021,ZqU-qL1jNnk,2.1.2,voto:Menezes,acompanha,acompanha
 2021,ZqU-qL1jNnk,2.2.2,relator,Eduardo Marra (relator); Davi Barreto (voto-vista),Eduardo Marra
 2021,ZqU-qL1jNnk,2.2.2,resultado,unanim,unanim
-2021,ZqU-qL1jNnk,2.2.2,voto:Davi Barreto,vista,outro
+2021,ZqU-qL1jNnk,2.2.2,voto:Davi Barreto,acompanha,outro
 2021,ZqU-qL1jNnk,2.2.2,voto:Eduardo Marra,relator,relator
 2021,ZqU-qL1jNnk,2.2.2,voto:Menezes,acompanha,acompanha
 2021,ZqU-qL1jNnk,2.2.2,voto:Alexandre Porto,acompanha,acompanha
