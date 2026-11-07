@@ -1,0 +1,321 @@
+{
+ "meta": {
+  "video_id": "q5ChZa95GEI",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:21); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "33 (extraordinária)",
+  "data": "2025-10-15",
+  "formato": "reunião extraordinária pública (videoconferência)",
+  "presidente_da_sessao": "Mauro Sousa (Diretor-Geral); Tasso Mendonça preside durante a relatoria do DG",
+  "diretores_presentes": [
+   "Mauro Sousa",
+   "Tasso Mendonça",
+   "Roger Cabral",
+   "José Fernando Gomes"
+  ],
+  "ausentes": [
+   "Caio Seabra (afastamento compulsório por decisão judicial; sem vacância, não há substituto)"
+  ],
+  "observacoes": [
+   "Itens 2.1.1 a 2.1.8 (recursos da Eliane Revestimentos Cerâmicos, relator Tasso) retirados por liminar no MS 1120726-xx.2025.4.01.3400 (4ª Vara Federal Cível do DF), recebida minutos antes.",
+   "Diretoria decidiu em reunião administrativa redistribuir os processos do gabinete de Caio Seabra; com 4 diretores, o DG tem voto de desempate.",
+   "ANM não participará da Exposibran 2025 por falta de orçamento para deslocamentos.",
+   "Três resoluções aprovadas no mesmo dia (209 alterada, nova barragens, nova sanções) relatadas por Roger Cabral.",
+   "Secretário-geral: Caio Azevedo; procurador-chefe Thiago."
+  ]
+ },
+ "itens": [
+  {
+   "id": "3.1.1",
+   "ts": "0:32:03",
+   "processo": "48.051.001387/2025 (número incompleto)",
+   "interessado": "Superintendência de Fiscalização (SFI); recomendação 12/2025 do MPF/PR-AM",
+   "assunto": "Alteração da Resolução ANM 209/2025 (apreensão, perdimento e destinação de bens minerais e equipamentos de lavra ilegal): veda alienação direta ao infrator e sua participação (e de vinculados e parentes até 3º grau) em leilões; mantém alienação pelo infrator via TAC com valor revertido à ANM",
+   "tema": [
+    "fiscalização e sanções",
+    "lavra ilegal / bens apreendidos",
+    "regulação normativa",
+    "MPF / controle externo",
+    "garimpo"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Atende recomendação do MPF e nota PFE 321/2025: moralidade, impessoalidade, efeito dissuasório do perdimento; corrige numeração do art. 16; prioridade para leilão; dispensa de AIR e consulta pública por urgência (leilões ANM/Caixa suspensos). DG acrescentou envio à 3ª Câmara de Coordenação e Revisão do MPF.",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, aprova minuta",
+     "ts": "0:47:00",
+     "justificativa": "infrator não pode readquirir produto de atividade ilícita; leilões suspensos geram prejuízo à arrecadação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "de acordo com o relator",
+     "ts": "0:51:17",
+     "justificativa": "atende órgãos de controle; dará agilidade à alienação; TAC só em situações excepcionais (área remota, preço justo)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Fernando Gomes",
+     "voto": "acompanha o relator",
+     "ts": "0:59:17",
+     "justificativa": "evita que o infrator seja beneficiado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha, com ressalvas e adendo",
+     "ts": "0:59:50",
+     "justificativa": "recomendação do MPF deve ser lida como recomendação, não ordem; questiona quem decidiu suspender leilões; vê contradição na lei ao permitir alienação pelo próprio infrator (risco de manipulação de valor)",
+     "tom": "questionador",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3.3.1",
+   "ts": "1:01:56",
+   "processo": "48.051.006673/2024 (número incompleto)",
+   "interessado": "Superintendência de Segurança de Barragens e Pilhas de Mineração",
+   "assunto": "Revisão ampla da Resolução ANM 95/2022 (disciplina das barragens de mineração): adequação à Resolução CNRH 241/2024 (prazo legal 21/10/2025), Lei 14.514/2022 (rejeitos nucleares), NBR 13028/2024 e 17188/2024",
+   "tema": [
+    "barragens e segurança de barragens",
+    "regulação normativa (AIR, agenda regulatória)",
+    "minerais nucleares",
+    "participação social"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "AIR com método AHP escolheu revisão ampla; audiência pública 01/2025 com 474 contribuições válidas (73 acolhidas, 40 parcialmente); revisão periódica por equipe externa independente (referência MAC/Canadá); áreas de lavra, beneficiamento e pilhas de estéril não são estruturas associadas (parecer PFE 156/2025); material orientativo e avaliação de resultado em 2 anos.",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, aprova minuta",
+     "ts": "1:22:30",
+     "justificativa": "cumprimento do prazo da CNRH 241/2024; independência na revisão periódica",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "de acordo",
+     "ts": "1:26:30",
+     "justificativa": "tema sensível que exige atualização constante",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "aprova integralmente",
+     "ts": "1:24:20",
+     "justificativa": "rigor técnico, conformidade jurídica e intensa participação social",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Fernando Gomes",
+     "voto": "acompanha o relator",
+     "ts": "1:25:49",
+     "justificativa": "prazo cumprido; regula barragens de rejeito nuclear",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3.2.1",
+   "ts": "1:28:12",
+   "processo": "48.051.001272/2022 (número incompleto)",
+   "interessado": "Superintendência de Fiscalização (SFI)",
+   "assunto": "Revisão da Resolução ANM 122/2022 (apuração de infrações, sanções e valores de multa por descumprimento da legislação minerária): nova resolução que revoga a 122",
+   "tema": [
+    "fiscalização e sanções (multa, caducidade)",
+    "regulação normativa (AIR dispensada, agenda regulatória)",
+    "sistema Firmina"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Gravidade da multa baseada no dano, depois parametrizada pelo porte; dupla metodologia de cálculo (pequeno e grande empreendedor) automatizada pelo sistema Firmina; caducidade exige parecer com laudo técnico; AIR dispensada (urgência e norma superior), avaliação de resultado em 3 anos; plano de monitoramento pela SFI.",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, aprova minuta",
+     "ts": "1:48:00",
+     "justificativa": "resolução de 2022 quase não foi aplicada (renúncia involuntária de receita); multa pelo dano e não pelo porte; proteção ao pequeno empreendedor",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "de acordo",
+     "ts": "1:55:52",
+     "justificativa": "revisão reclamada desde 2022; razoabilidade e proporcionalidade",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "totalmente de acordo",
+     "ts": "1:52:58",
+     "justificativa": "sanção primeiro educativa e depois punitiva; norma será revista como 'recall'",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Fernando Gomes",
+     "voto": "acompanha o relator",
+     "ts": "1:54:37",
+     "justificativa": "critérios claros e automação pela plataforma Firmina",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1.1.1",
+   "ts": "1:59:52",
+   "processo": "48.051.03872/2025 (número incompleto)",
+   "interessado": "Gerência Regional do Rio Grande do Sul; Assembleia Legislativa do RS (ofício 113/2025)",
+   "assunto": "Referendo de ato do Diretor-Geral: Resolução ANM 217/2025, que prorroga prazos de processos e títulos minerários na circunscrição da gerência do RS de 9/9/2025 a 5/12/2025 (calamidade pública por chuvas)",
+   "tema": [
+    "regulação normativa",
+    "calamidade pública / RS",
+    "outorga de títulos minerários (prazos)",
+    "institucional"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Decreto estadual 58.359/2025 prorrogou a calamidade por 90 dias; nota técnica 3467/2025 favorável; confirmação exigida pelo art. 38 do regimento.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, confirma o ato",
+     "ts": "2:06:30",
+     "justificativa": "continuidade das prorrogações desde a Res. 162/2024; novas chuvas em 2025",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "2:07:46",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Fernando Gomes",
+     "voto": "acompanha o relator",
+     "ts": "2:07:57",
+     "justificativa": "solidariedade ao RS",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha (presidindo)",
+     "ts": "2:08:17",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "2:10:44",
+   "processo": "866.705/2015 ou 93.705/2015 (número incerto na legenda)",
+   "interessado": "Serra da Borda Mineração e Metalurgia (cedente); Mineração Apoena (cessionária)",
+   "assunto": "Recurso contra homologação (GE-MT, 2022) da desistência do direito de requerer a lavra (ouro, MT) apresentada pela cedente após cessão total de direitos com assentimento do CDN, antes da averbação",
+   "tema": [
+    "outorga de títulos minerários (cessão de direitos, renúncia)",
+    "recursos administrativos",
+    "ouro",
+    "faixa de fronteira / CDN"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado por unanimidade, com adendo: unidade regional analisa e saneia o pedido de averbação e a prorrogação do prazo de lavra",
+   "resumo_voto": "Dar provimento: renúncia mal instruída (sem contrato social que comprove poderes de quem outorgou a procuração); averbação da cessão tinha prioridade (art. 247 Portaria 155/2016); morosidade da administração não pode prejudicar o administrado; anular homologação. Por sugestão do DG, em vez de anuir e averbar diretamente, a regional analisa, com possibilidade de exigências.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, dá provimento (acata adendo do DG)",
+     "ts": "2:28:00",
+     "justificativa": "insegurança jurídica se cedentes pudessem desistir livremente de cessões em análise; análise de renúncias costuma ser superficial quanto a poderes de representação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "de acordo, com adendo",
+     "ts": "2:28:30",
+     "justificativa": "não suprimir instância: regional deve analisar documentação da averbação; processo poderia ter sido saneado antes",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "de acordo com o relator",
+     "ts": "2:32:11",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Fernando Gomes",
+     "voto": "de acordo com o relator e sugestões do DG",
+     "ts": "2:33:21",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3.4.1",
+   "ts": "2:35:40",
+   "processo": "850.66x/1996 (número incerto)",
+   "interessado": "Vale S.A.",
+   "assunto": "Voto-vista de Roger Cabral em recurso contra indeferimento (2007) da 2ª prorrogação do alvará de pesquisa 5448/1998 (PA); relator original Caio Seabra (voto CS 530/2025: não conhecer o pedido), revisor Mauro Sousa (voto DG 2/2025: conhecer e negar)",
+   "tema": [
+    "outorga de títulos minerários",
+    "recursos administrativos",
+    "disponibilidade de área / leilão de áreas"
+   ],
+   "relator": "Caio Seabra (relator original; diretor afastado)",
+   "resultado": "sobrestado por pedido de vista de Tasso Mendonça",
+   "resumo_voto": "Roger acompanha na íntegra o voto do DG: conhecer e negar provimento, mantendo indeferimento; relatório parcial idêntico ao de 2001; pedido de desistência da Vale durante o julgamento sem eficácia; área à oferta pública/leilão.",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "voto-vista: acompanha o voto revisor do DG (conhecer e negar)",
+     "ts": "2:42:00",
+     "justificativa": "legalidade e direito de petição; não rever situação consolidada há 20 anos; pareceres PFE 582/2019 e SFI 216/2024",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "revisor (voto DG 2/2025, sessão anterior): conhece e nega provimento",
+     "ts": "2:35:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "pede vista",
+     "ts": "2:43:02",
+     "justificativa": "tem dois ou três processos em linha parecida e precisa adequar seu voto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Fernando Gomes",
+     "voto": "não votou (deliberação sobrestada)",
+     "ts": "2:43:49",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "2.1.1 a 2.1.8 — recursos da Eliane Revestimentos Cerâmicos",
+   "relator": "Tasso Mendonça",
+   "motivo": "liminar em mandado de segurança (4ª Vara Federal Cível/DF)",
+   "ts": "0:21:12"
+  },
+  {
+   "item": "3.5.1",
+   "relator": "Roger Cabral",
+   "motivo": "relator precisa de mais tempo",
+   "ts": "2:34:40"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo incompletos (prefixo 48.051 inferido) e nomes de empresas podem estar distorcidos.",
+  "Ordem de votação de José Fernando e Tasso no 1.1.1 inferida pelo conteúdo; falante {Caio Seabra} corresponde ao secretário-geral, não ao diretor afastado.",
+  "No 3.4.1 o voto de Mauro Sousa foi proferido em sessão anterior (voto DG 2/2025) e o de Caio Seabra (relator) também; nenhum foi tomado nesta sessão.",
+  "No 2.2.1 a legenda diz 'dar improvimento', mas o dispositivo (anular homologação) indica provimento."
+ ]
+}

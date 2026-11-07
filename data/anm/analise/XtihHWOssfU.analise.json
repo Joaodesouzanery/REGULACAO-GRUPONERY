@@ -1,0 +1,821 @@
+{
+ "meta": {
+  "video_id": "XtihHWOssfU",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "82ª Reunião Ordinária Pública",
+  "data": "2026-02-23",
+  "formato": "videoconferência / híbrida",
+  "presidente_da_sessao": "Mauro Sousa (Diretor-Geral); José Fernando Gomes presidiu durante os votos do DG",
+  "diretores_presentes": [
+   "Mauro Sousa",
+   "Luiz Paniago",
+   "José Fernando Gomes",
+   "Fábio Borges (diretor substituto)"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Quatro sustentações orais (1.1.3 Serra Grande/AngloGold; 1.2.1 Calipo Rocha Firme; 3.5.1 Vale; 4.1.6 Salobo), todas com votos unânimes.",
+   "Aprovada súmula administrativa sobre dedução de ICMS/PIS/Cofins na base da CFEM (encontro de contas) — relator Luiz Paniago.",
+   "DG critica a demora da casa (disponibilidade antiga de 2009; registro de licença parado 13 anos) e sugere súmula sobre inabilitação por documentos não exigidos na Portaria 268/2008.",
+   "No 1.5 o DG pede apuração de responsabilidade por perda de arrecadação (cobrança dirigida ao arrendante subsidiário).",
+   "No 3.3.1 o DG acompanhou com ressalva, mantendo posição de que o MME não é instância revisora após a criação da ANM; procurador Thiago expôs posição da PFE.",
+   "Secretário-geral Caio Seabra conduz e proclama resultados."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1.3",
+   "ts": "0:13:21",
+   "processo": "831.223/2005",
+   "interessado": "Cintia Nara Guedes Ávila; AngloGold Ashanti Brasil Mineração (hoje Mineração Serra Grande)",
+   "assunto": "Recurso contra inabilitação em procedimento de disponibilidade (edital 5/2009 DNPM-MG), com sustentação oral da advogada Geovana Carvalho",
+   "tema": [
+    "outorga de títulos minerários",
+    "disponibilidade de área / leilão de áreas",
+    "recursos administrativos",
+    "ouro"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovado por unanimidade (provimento)",
+   "resumo_voto": "Inabilitação por documentos não exigidos na Portaria 268/2008 (identidade do signatário, atos societários) fere legalidade; Lei 8.666 não se aplica subsidiariamente (TCU, PFE); torna sem efeito as decisões de 15/09/2022 e devolve à comissão julgadora.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, dá provimento",
+     "ts": "0:13:21",
+     "justificativa": "legalidade; norma específica; autotutela; critica demora em disponibilidade antiga",
+     "confianca": "alta",
+     "tom": "incomodado com a demora da agência em resolver disponibilidades antigas"
+    },
+    {
+     "diretor": "Fábio Borges",
+     "voto": "acompanha o relator",
+     "ts": "0:27:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luiz Paniago",
+     "voto": "acompanha o relator",
+     "ts": "0:27:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "José Fernando Gomes",
+     "voto": "acompanha o relator",
+     "ts": "0:28:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.1",
+   "ts": "0:28:44",
+   "processo": "896.920/2006",
+   "interessado": "Petrus Comércio de Rochas Ornamentais Ltda.; Calipo Rocha Firme",
+   "assunto": "Recurso contra resultado de procedimento de disponibilidade (edital 6/2014 DNPM-ES; rochas ornamentais), com sustentação oral do advogado de Calipo Rocha Firme",
+   "tema": [
+    "outorga de títulos minerários",
+    "disponibilidade de área / leilão de áreas",
+    "recursos administrativos",
+    "rochas ornamentais"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovado por unanimidade (negado provimento)",
+   "resumo_voto": "Pontuação técnica (20 x 18) confirmada por todas as instâncias; recurso subjetivo; mantém prioridade de Calipo Rocha Firme e encerra a esfera administrativa.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, nega provimento",
+     "ts": "0:34:34",
+     "justificativa": "acompanha análise técnica da comissão julgadora",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luiz Paniago",
+     "voto": "acompanha o relator",
+     "ts": "0:38:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fábio Borges",
+     "voto": "acompanha o relator",
+     "ts": "0:38:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "José Fernando Gomes",
+     "voto": "acompanha o relator",
+     "ts": "0:38:34",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.5.1",
+   "ts": "0:39:51",
+   "processo": "950.788/2017 (proc. minerário 818.153/1971)",
+   "interessado": "Vale S.A.",
+   "assunto": "Recurso contra débito de CFEM (manganês, Parauapebas-PA, 2010–2016; ≈ R$ 24,7 milhões ajustados segundo a legenda), com sustentação oral do advogado André",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos",
+    "manganês"
+   ],
+   "relator": "Fábio Borges",
+   "resultado": "aprovado por unanimidade (negado provimento)",
+   "resumo_voto": "IN 6/2000 legal (Súmula 5); prazo decenal (Súmula 1); perícia desnecessária (Súmula 2); deduções de transporte e tributos não comprovadas; encargos (Súmula 11).",
+   "votos": [
+    {
+     "diretor": "Fábio Borges",
+     "voto": "relator, nega provimento",
+     "ts": "0:48:17",
+     "justificativa": "súmulas 1, 2, 5 e 11 da ANM; parecer 79/2025 e decisão SAR",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Fernando Gomes",
+     "voto": "acompanha o relator",
+     "ts": "0:51:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luiz Paniago",
+     "voto": "acompanha o relator",
+     "ts": "0:51:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "0:51:54",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.1.6",
+   "ts": "0:52:58",
+   "processo": "48059.50567/2016 (proc. minerário 807.426/1974)",
+   "interessado": "Salobo Metais S.A.",
+   "assunto": "Recurso contra cobrança de CFEM (cobre, ouro e prata, Marabá-PA, 2012–2015), com sustentação oral do advogado André",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos",
+    "cobre"
+   ],
+   "relator": "José Fernando Gomes",
+   "resultado": "aprovado por unanimidade (negado provimento)",
+   "resumo_voto": "IN 6/2000 legal (Súmula 5); frete sem destaque em campo próprio (ON 4/2012); perícia (Súmula 2); encargos (Súmula 11); sem prescrição intercorrente (Súmula 3).",
+   "votos": [
+    {
+     "diretor": "José Fernando Gomes",
+     "voto": "relator, nega provimento",
+     "ts": "0:59:56",
+     "justificativa": "manifestações técnicas; súmulas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luiz Paniago",
+     "voto": "acompanha o relator",
+     "ts": "1:11:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fábio Borges",
+     "voto": "acompanha o relator",
+     "ts": "1:11:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "1:11:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.1",
+   "ts": "1:13:30",
+   "processo": "não identificado",
+   "interessado": "SAR (proposta de súmula)",
+   "assunto": "Proposta de súmula administrativa: até a MP 789/2017, dedução de ICMS/PIS/Cofins não cumulativos na base da CFEM é o resultado do encontro de contas crédito/débito no mês",
+   "tema": [
+    "regulação normativa",
+    "súmula",
+    "CFEM / arrecadação / TAH"
+   ],
+   "relator": "Luiz Paniago",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Processo herdado de Tasso Mendonça; cinco casos paradigma; parecer PFE 239/2024 sem óbice; IN 15/2023 cumprida.",
+   "votos": [
+    {
+     "diretor": "Luiz Paniago",
+     "voto": "relator, aprova súmula",
+     "ts": "1:13:30",
+     "justificativa": "matéria pacificada; recomendações técnicas e jurídicas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Fernando Gomes",
+     "voto": "acompanha o relator",
+     "ts": "1:16:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fábio Borges",
+     "voto": "acompanha o relator",
+     "ts": "1:16:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "1:16:26",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.1.1, 1.1.2, 1.1.4",
+   "ts": "1:17:18",
+   "processo": "877.199 (aprox.); 831.095/2026 (?); 873.238/2007",
+   "interessado": "Vânia Casagrande Duarte / R Mineração; AngloGold Ashanti Córrego do Sítio / Empresa Brasileira de Quartzo; Zeus Mineração / Cabral Mineração",
+   "assunto": "Recursos contra inabilitação em procedimentos de disponibilidade (Portaria 268/2008)",
+   "tema": [
+    "outorga de títulos minerários",
+    "disponibilidade de área / leilão de áreas",
+    "recursos administrativos"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovado por unanimidade (provimento)",
+   "resumo_voto": "Mesma tese do 1.1.3; DG observa que a matéria, antes com posições contrárias na composição anterior, está se pacificando e sugere súmula.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, dá provimento",
+     "ts": "1:17:18",
+     "justificativa": "legalidade; Portaria 268/2008 taxativa",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luiz Paniago",
+     "voto": "acompanha o relator",
+     "ts": "1:30:37",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fábio Borges",
+     "voto": "acompanha o relator",
+     "ts": "1:30:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "José Fernando Gomes",
+     "voto": "acompanha o relator",
+     "ts": "1:30:46",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.1",
+   "ts": "1:17:18",
+   "processo": "867.129/2011",
+   "interessado": "David Balbinot (?) Filho",
+   "assunto": "Recurso contra indeferimento de requerimento de registro de licença (Sorriso/Sinop-MT) parado 13 anos",
+   "tema": [
+    "outorga de títulos minerários",
+    "registro de licença",
+    "recursos administrativos",
+    "institucional"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovado por unanimidade (provimento)",
+   "resumo_voto": "Processo sem análise de 2011 a 2024; licenças juntadas antes do indeferimento; motivo legal incorreto; DG pede desculpas ao interessado e critica superintendência que não assume o ônus de decidir.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, dá provimento",
+     "ts": "1:17:18",
+     "justificativa": "razoabilidade; autotutela; motivação incorreta",
+     "confianca": "alta",
+     "tom": "crítico à gestão interna; pede desculpas ao administrado"
+    },
+    {
+     "diretor": "Luiz Paniago",
+     "voto": "acompanha o relator",
+     "ts": "1:30:37",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fábio Borges",
+     "voto": "acompanha o relator",
+     "ts": "1:30:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "José Fernando Gomes",
+     "voto": "acompanha o relator",
+     "ts": "1:30:46",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.5.1–1.5.3",
+   "ts": "1:17:18",
+   "processo": "933.537/2015; 933.560/2015; 933.562/2015",
+   "interessado": "Codemig; Companhia Mineradora do Pirocloro de Araxá; Arafértil S.A.; Vale Fosfatados S.A.",
+   "assunto": "Recursos contra cobrança de CFEM dirigida à arrendante (Codemig)",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos",
+    "fosfato",
+    "nióbio"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovado por unanimidade (provimento; NFLDPs anuladas)",
+   "resumo_voto": "Divergindo parcialmente da área técnica e seguindo nota PFE 489/2025: arrendante era responsável subsidiária (Portaria 439/2003); cobrança deveria ser contra arrendatária; anulação e decadência impedem nova cobrança; recomenda apurar responsabilidade pela perda de arrecadação.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, dá provimento",
+     "ts": "1:17:18",
+     "justificativa": "responsabilidade subsidiária do arrendante; nota PFE 489/2025",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luiz Paniago",
+     "voto": "acompanha o relator",
+     "ts": "1:30:37",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fábio Borges",
+     "voto": "acompanha o relator",
+     "ts": "1:30:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "José Fernando Gomes",
+     "voto": "acompanha o relator",
+     "ts": "1:30:46",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "1:33:11",
+   "processo": "815.567/2021",
+   "interessado": "Mix (?) Mineração e Comércio",
+   "assunto": "Voto-vista (vista de Tasso Mendonça, assumida por Paniago) em recurso contra não aprovação de relatório final de pesquisa; relator original Caio Seabra (voto 402, 29ª RE de 08/11/2024)",
+   "tema": [
+    "outorga de títulos minerários",
+    "relatório final de pesquisa",
+    "recursos administrativos",
+    "voto-vista"
+   ],
+   "relator": "Caio Seabra (original); voto-vista Luiz Paniago",
+   "resultado": "aprovado por unanimidade (voto do relator original, negado provimento)",
+   "resumo_voto": "Paniago acompanha na íntegra o voto 402; deficiências técnicas não sanadas. José Fernando não vota (gabinete de Guilherme, que já votara acompanhando).",
+   "votos": [
+    {
+     "diretor": "Luiz Paniago",
+     "voto": "voto-vista: acompanha relator original, nega provimento",
+     "ts": "1:33:11",
+     "justificativa": "responsável técnico não apresentou dados exigidos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fábio Borges",
+     "voto": "acompanha o voto-vista",
+     "ts": "1:36:43",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator original",
+     "ts": "1:37:03",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator original (2024), nega provimento",
+     "ts": "1:33:11",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "1:37:51",
+   "processo": "896.443/2000",
+   "interessado": "Paulo César do Amaral (?)",
+   "assunto": "Voto-vista em recurso contra negativa de aprovação de relatório final de pesquisa (granito, Rio Novo do Sul-ES); relator original Caio Seabra (voto 448)",
+   "tema": [
+    "outorga de títulos minerários",
+    "relatório final de pesquisa",
+    "recursos administrativos",
+    "granito",
+    "voto-vista"
+   ],
+   "relator": "Caio Seabra (original); voto-vista Luiz Paniago",
+   "resultado": "aprovado por unanimidade (voto do relator original, negado provimento)",
+   "resumo_voto": "Acompanha voto 448; José Fernando não vota.",
+   "votos": [
+    {
+     "diretor": "Luiz Paniago",
+     "voto": "voto-vista: acompanha relator original",
+     "ts": "1:37:51",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fábio Borges",
+     "voto": "acompanha o relator original",
+     "ts": "1:40:02",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator original",
+     "ts": "1:40:09",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator original (2024), nega provimento",
+     "ts": "1:37:51",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.1",
+   "ts": "1:40:44",
+   "processo": "826.207/2013 (aprox.)",
+   "interessado": "Denir Limer (?)",
+   "assunto": "Recurso contra negativa de aprovação de relatório final de pesquisa de água mineral (Guarapuava-PR)",
+   "tema": [
+    "outorga de títulos minerários",
+    "relatório final de pesquisa",
+    "água mineral",
+    "recursos administrativos"
+   ],
+   "relator": "Luiz Paniago",
+   "resultado": "aprovado por unanimidade (negado provimento)",
+   "resumo_voto": "Acompanha recomendações técnicas; conhece e nega provimento.",
+   "votos": [
+    {
+     "diretor": "Luiz Paniago",
+     "voto": "relator, nega provimento",
+     "ts": "1:40:44",
+     "justificativa": "recomendação técnica; sem ilegalidade",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Fernando Gomes",
+     "voto": "acompanha o relator",
+     "ts": "1:44:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fábio Borges",
+     "voto": "acompanha o relator",
+     "ts": "1:44:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "1:44:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.5.1",
+   "ts": "1:40:44",
+   "processo": "944.086/2018",
+   "interessado": "Abritex (?) Minerações Ltda.",
+   "assunto": "Recurso contra cobrança de CFEM (granito, Rio Largo-AL; NFLDP 28/2018)",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos",
+    "granito"
+   ],
+   "relator": "Luiz Paniago",
+   "resultado": "aprovado por unanimidade (negado provimento)",
+   "resumo_voto": "Acompanha recomendações técnicas; conhece e nega provimento.",
+   "votos": [
+    {
+     "diretor": "Luiz Paniago",
+     "voto": "relator, nega provimento",
+     "ts": "1:40:44",
+     "justificativa": "recomendação técnica; sem ilegalidade",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Fernando Gomes",
+     "voto": "acompanha o relator",
+     "ts": "1:44:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fábio Borges",
+     "voto": "acompanha o relator",
+     "ts": "1:44:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "1:44:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.1.1–3.1.2",
+   "ts": "1:45:27",
+   "processo": "930.736/2022 e 930.737/2022",
+   "interessado": "MIB (?) Mineração",
+   "assunto": "Pedidos de reconsideração contra multas (autos 912 e 913/2022): poluição de curso d água por erosão do pit e suspensão de lavra sem comunicação (Brumadinho-MG)",
+   "tema": [
+    "fiscalização e sanções",
+    "ambiental / fechamento de mina",
+    "recursos administrativos"
+   ],
+   "relator": "Fábio Borges",
+   "resultado": "aprovado por unanimidade (negado provimento)",
+   "resumo_voto": "Nexo causal configurado (drenagem subdimensionada); chuvas não são força maior; suspensão sem comunicação prévia.",
+   "votos": [
+    {
+     "diretor": "Fábio Borges",
+     "voto": "relator",
+     "ts": "1:45:27",
+     "justificativa": "nexo causal; ausência de força maior",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Fernando Gomes",
+     "voto": "acompanha o relator",
+     "ts": "2:07:37",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luiz Paniago",
+     "voto": "acompanha o relator",
+     "ts": "2:07:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "2:07:46",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.2.1",
+   "ts": "1:45:27",
+   "processo": "846.149/2022",
+   "interessado": "F N da Silva Locações",
+   "assunto": "Recurso contra indeferimento de prorrogação de registro de licença de areia (PB) por apresentação intempestiva de licenças municipais",
+   "tema": [
+    "outorga de títulos minerários",
+    "registro de licença",
+    "agregados para construção civil",
+    "recursos administrativos"
+   ],
+   "relator": "Fábio Borges",
+   "resultado": "aprovado por unanimidade (negado provimento)",
+   "resumo_voto": "Prazos da Portaria 155/2016 taxativos; licença ambiental vencida; área segue para disponibilidade.",
+   "votos": [
+    {
+     "diretor": "Fábio Borges",
+     "voto": "relator",
+     "ts": "1:45:27",
+     "justificativa": "legalidade; prazos taxativos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Fernando Gomes",
+     "voto": "acompanha o relator",
+     "ts": "2:07:37",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luiz Paniago",
+     "voto": "acompanha o relator",
+     "ts": "2:07:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "2:07:46",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.3.1",
+   "ts": "1:45:27",
+   "processo": "833.257/2015",
+   "interessado": "Zeus Mineração Ltda.",
+   "assunto": "Recurso hierárquico contra decisão do DG do DNPM (2018) que manteve indeferimento de requerimento de pesquisa (ouro e calcário, Buenópolis-MG)",
+   "tema": [
+    "outorga de títulos minerários",
+    "requerimento de pesquisa",
+    "recursos administrativos",
+    "institucional"
+   ],
+   "relator": "Fábio Borges",
+   "resultado": "aprovado por unanimidade, com ressalva do DG",
+   "resumo_voto": "Recurso protocolado antes da instalação da ANM (05/12/2018): encaminha ao MME como recurso hierárquico impróprio (parecer PFE 109/2019; precedente ROP 78).",
+   "votos": [
+    {
+     "diretor": "Fábio Borges",
+     "voto": "relator",
+     "ts": "1:45:27",
+     "justificativa": "marco temporal de instalação da ANM; parecer PFE",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Fernando Gomes",
+     "voto": "acompanha o relator",
+     "ts": "2:07:37",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luiz Paniago",
+     "voto": "acompanha o relator",
+     "ts": "2:07:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha com ressalva: mantém posição de que não cabe remessa ao MME após a criação da ANM",
+     "ts": "2:07:46",
+     "justificativa": "precedente Luz Mineração, em que a diretoria negou recurso ao MME",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3.4.1",
+   "ts": "1:45:27",
+   "processo": "840.313/2014",
+   "interessado": "Ipar (?) Participações",
+   "assunto": "Recurso contra indeferimento de requerimento de pesquisa de granito para revestimento (Moreno-PE)",
+   "tema": [
+    "outorga de títulos minerários",
+    "requerimento de pesquisa",
+    "granito",
+    "recursos administrativos"
+   ],
+   "relator": "Fábio Borges",
+   "resultado": "aprovado por unanimidade (provimento)",
+   "resumo_voto": "Indeferimento baseado em vistoria de um ponto e presunção de má-fé; outros alvarás para granito revestimento na região; isonomia; segue para alvará.",
+   "votos": [
+    {
+     "diretor": "Fábio Borges",
+     "voto": "relator",
+     "ts": "1:45:27",
+     "justificativa": "boa-fé, isonomia, segurança jurídica",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Fernando Gomes",
+     "voto": "acompanha o relator",
+     "ts": "2:07:37",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luiz Paniago",
+     "voto": "acompanha o relator",
+     "ts": "2:07:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "2:07:46",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.6.1",
+   "ts": "1:45:27",
+   "processo": "803.475/2013",
+   "interessado": "B C Reibel (?)",
+   "assunto": "Pedido de reconsideração contra renovação de guia de utilização com volume e prazo inferiores ao pedido (5 mil t/ano de atapulgita, 1 ano, Guadalupe-PI)",
+   "tema": [
+    "outorga de títulos minerários",
+    "guia de utilização",
+    "recursos administrativos"
+   ],
+   "relator": "Fábio Borges",
+   "resultado": "aprovado por unanimidade (negado provimento)",
+   "resumo_voto": "Guia é excepcional e precária; ~5 anos já sob guia; licença de operação vencida; prioridade para análise do requerimento de lavra.",
+   "votos": [
+    {
+     "diretor": "Fábio Borges",
+     "voto": "relator",
+     "ts": "1:45:27",
+     "justificativa": "caráter excepcional da guia de utilização",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Fernando Gomes",
+     "voto": "acompanha o relator",
+     "ts": "2:07:37",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Luiz Paniago",
+     "voto": "acompanha o relator",
+     "ts": "2:07:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "2:07:46",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.1.1–4.1.5",
+   "ts": "2:09:58",
+   "processo": "NFLDPs 107/2009; 52/2013; 386/2010; 5137/2009; 3867/2011",
+   "interessado": "Água Mineral Litorânea Ltda.; Imperial Brasil Indústria e Comércio Ltda.; Calcário Ipê (?) Agromineração Ltda.; Ercal Empresa Reunida de Calcário Ltda. (dois processos)",
+   "assunto": "Recursos contra cobranças de CFEM (água mineral e calcário)",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos",
+    "água mineral",
+    "calcário"
+   ],
+   "relator": "José Fernando Gomes",
+   "resultado": "aprovado por unanimidade (negado provimento)",
+   "resumo_voto": "Prazo decadencial de 10 anos (ON 12 e Súmula 1); perícia desnecessária; deduções não comprovadas; inscrições no Cadin não vinculadas aos processos.",
+   "votos": [
+    {
+     "diretor": "José Fernando Gomes",
+     "voto": "relator, nega provimento",
+     "ts": "2:09:58",
+     "justificativa": "manifestações técnicas; súmulas 1, 8 e 11",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Luiz Paniago",
+     "voto": "acompanha o relator",
+     "ts": "2:24:42",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fábio Borges",
+     "voto": "acompanha o relator",
+     "ts": "2:25:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "2:25:19",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "1.4.1–1.4.6 (recursos contra arquivamento de processos vinculados)",
+   "relator": "Mauro Sousa",
+   "motivo": "audiência com empresa contendora marcada para a tarde",
+   "ts": "1:17:18"
+  },
+  {
+   "item": "2.2.1 (bloco de 11 processos de recursos de CFEM)",
+   "relator": "Luiz Paniago",
+   "motivo": "novo superintendente da SAR pediu análise técnica de documentos novos; volta na próxima ROP",
+   "ts": "1:31:52"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: nomes de interessados e números de processo distorcidos (marcados com «?» ou «aprox.»); valores podem estar errados.",
+  "Luiz Paniago é diretor fora da lista canônica do prompt; nome conforme saudações.",
+  "Falante inferido «Caio Seabra» na sessão = secretário-geral Dr. Caio (não vota); o Caio Seabra diretor aparece só como relator original de 2024 nos votos-vista 2.3.x.",
+  "Ts de votos de seguidores aproximados; atribuição de quem disse cada «acompanho» é incerta em alguns blocos.",
+  "Pedido de sustentação oral do item 2.2.1 foi indeferido; item retirado."
+ ]
+}
