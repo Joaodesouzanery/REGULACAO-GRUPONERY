@@ -1,0 +1,64 @@
+{
+ "meta": {"video_id": "9mdYU4s88zI", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de quem só acompanha é aproximado", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "12ª Reunião Extraordinária Pública",
+  "data": "2020-08-31",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Victor Bicca (Diretor-Geral); Tomás Filho presidiu o item 1, relatado por Bicca",
+  "diretores_presentes": ["Victor Bicca", "Tasso Mendonça", "Eduardo Leão", "Tomás Filho", "Debora Puccini"],
+  "ausentes": [],
+  "observacoes": [
+   "Bicca chamou a reunião de 'histórica': primeiro edital de disponibilidade de áreas (oferta pública e leilão eletrônico) desde cerca de 2016, e prorrogação de títulos pela pandemia.",
+   "Pauta com 3 itens; o item 3 (prorrogação da suspensão de prazos da Res. 28/2020, relator Tasso Mendonça) foi incorporado ao voto de Eduardo Leão no item 2 e não teve votação separada.",
+   "Procurador-chefe em exercício: Dr. Márcio. Sustentações: Sandro Mabel (Conselho Temático de Mineração da CNI — COMIN), Luiz (COMIN/CNI, ABPM) e Leonardo (Vale).",
+   "Edital com previsão de publicação na quinta-feira, 03/09/2020; o sistema de leilão foi desenvolvido pela própria ANM após tentativa frustrada com a Receita Federal; projeto qualificado no PPI."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:14:41",
+   "processo": "48051.003642/2020 (número lido pela legenda)",
+   "interessado": "Superintendência de Pesquisa e Recursos Minerais (SPM) da ANM; setor mineral",
+   "assunto": "Aprovação do edital da 1ª oferta pública de áreas em disponibilidade (Res. ANM 24/2020; consulta pública 2/2020), com leilão eletrônico",
+   "tema": ["outorga de títulos minerários (disponibilidade de área / leilão de áreas)", "regulação normativa", "participação social"],
+   "relator": "Victor Bicca",
+   "resultado": "aprovado por unanimidade, com ajustes",
+   "resumo_voto": "Aprova o edital com alterações: prazo de resposta a esclarecimentos de até 5 dias úteis; impugnação em até 10 dias úteis após o extrato no DOU; leilão em modalidade fechada (sem conhecer lances nem participantes); limite de manifestações de interesse elevado de 10 para 50 áreas por participante; suspensão de 2 a 5 anos estendida ao grupo econômico. Taxa de participação sugerida pela CNI não adotada neste primeiro edital, que tem caráter experimental.",
+   "votos": [
+    {"diretor": "Victor Bicca", "voto": "relator, aprova com alterações", "ts": "0:28:17", "justificativa": "edital passou por todas as superintendências, consulta pública e aprovação da PFE; país ávido por investimentos", "confianca": "alta"},
+    {"diretor": "Eduardo Leão", "voto": "acompanha o relator", "ts": "0:35:17", "justificativa": "primeiro edital é teste do sistema; limite de áreas e punição ao grupo econômico contra especulação e laranjas; sistema fechado sem manipulação", "confianca": "alta"},
+    {"diretor": "Debora Puccini", "voto": "acompanha o relator", "ts": "0:39:25", "justificativa": "modalidade fechada protege o leilão; limite de áreas visa evitar o especulador que onera áreas; edital experimental", "confianca": "alta"},
+    {"diretor": "Tasso Mendonça", "voto": "acompanha o relator", "ts": "0:42:16", "justificativa": "caráter experimental; taxa anti-especulação pode vir em próximos editais; limite força o minerador a selecionar áreas", "confianca": "alta"},
+    {"diretor": "Tomás Filho", "voto": "aprova na integralidade o relatório", "ts": "0:45:03", "justificativa": "classificação de áreas em editais paralelos em estudo; taxa de participação pode ser imposta futuramente; disponibilidade não isenta de taxas e emolumentos", "confianca": "alta"}
+   ]
+  },
+  {
+   "id": "2 (com o item 3 incorporado)",
+   "ts": "0:54:20",
+   "processo": "48051.003542/2020 (número lido pela legenda)",
+   "interessado": "Confederação Nacional da Indústria (CNI) — carta de 03/08/2020; setor mineral (COMIN, ABPM, Vale)",
+   "assunto": "Prorrogação da vigência de títulos minerários (alvarás de pesquisa, guias de utilização, PLG, registros de licença), do prazo para requerer lavra e do cumprimento de exigências pela pandemia; extensão da suspensão da Res. 28/2020 (item 3, relator Tasso Mendonça, incorporado)",
+   "tema": ["outorga de títulos minerários (alvará, requerimento de lavra, PLG)", "regulação normativa (resolução)", "CFEM / arrecadação / TAH", "Covid-19 / suspensão de prazos", "institucional"],
+   "relator": "Eduardo Leão",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Mantém a suspensão da Res. 28/2020 até 31/12/2020, incluindo os títulos minerários (crédito do período de suspensão, cerca de 8–9 meses, a todos os títulos, vencendo ou não em 2020), com entrega voluntária de documentos e possibilidade de o titular pedir a retomada; TAH continua devida; revoga o inciso I do art. 1º (redação da Res. 29/2020) para destravar cobranças de CFEM/TAH e repasses a estados e municípios; ficam fora o edital de disponibilidade e o Processo Kimberley. Base: produtividade da ANM em ~50% de 2019, 39% dos ~750 servidores com mais de 60 anos, ~12 mil títulos vencendo entre mar e dez/2020, benchmark de ANA, Anvisa, Inema-BA, Fepam-RS.",
+   "votos": [
+    {"diretor": "Eduardo Leão", "voto": "relator, aprova (alternativa 2: suspensão incluindo títulos até 31/12/2020)", "ts": "1:22:03", "justificativa": "alternativa de prorrogação automática seria inviável nos sistemas arcaicos; caso a caso sobrecarregaria servidores; tratar todos de forma igual", "confianca": "alta"},
+    {"diretor": "Debora Puccini", "voto": "acompanha o relator", "ts": "1:49:13", "justificativa": "compromisso de publicar no site explicação didática de suspensão vs prorrogação", "confianca": "alta"},
+    {"diretor": "Tasso Mendonça", "voto": "acompanha o relator, pelo consenso", "ts": "1:50:18", "justificativa": "voto incorpora o item 3 (suspensão de prazos) que ele relataria", "confianca": "alta"},
+    {"diretor": "Tomás Filho", "voto": "acompanha o relator", "ts": "1:50:30", "justificativa": "destaca a possibilidade de o regulado sair da suspensão e retomar seu processo; prazo previsível até 31/12", "confianca": "media"},
+    {"diretor": "Victor Bicca", "voto": "acompanha o relator", "ts": "1:51:11", "justificativa": "titular continua responsável pela TAH; quem quiser pode pedir prorrogação do alvará (art. 24 do Decreto 9.406)", "confianca": "alta"}
+   ]
+  }
+ ],
+ "retirados": [
+  {"item": "3 — prorrogação da suspensão de prazos da Res. 28/2020", "relator": "Tasso Mendonça", "motivo": "incorporado ao voto do item 2 (Eduardo Leão), sem votação separada", "ts": "1:47:26"}
+ ],
+ "limites_da_analise": [
+  "O cabeçalho lista Ronaldo Lima entre os falantes, mas ele não aparece na sessão; presentes os cinco diretores titulares de 2020.",
+  "Números de processos e de normas (Res. 24/2020, 28/2020, 29/2020; Portaria 135/2020) vêm da legenda automática.",
+  "Nomes dos sustentantes (Sandro Mabel, Luiz, Leonardo) e entidades (COMIN/CNI, ABPM, Vale) conforme ouvidos; sobrenomes incertos.",
+  "ts do voto de Tomás Filho no item 2 e do registro do item 3 são aproximados."
+ ]
+}
