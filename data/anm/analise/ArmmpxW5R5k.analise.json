@@ -1,0 +1,99 @@
+{
+ "meta": {"video_id": "ArmmpxW5R5k", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "10ª Reunião Extraordinária Pública",
+  "data": "2020-07-07",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Victor Bicca (Diretor-Geral) na abertura; Tomás Filho presidiu a partir do item 1, porque Bicca era relator dos itens 1 e 2",
+  "diretores_presentes": ["Victor Bicca", "Tasso Mendonça", "Eduardo Leão", "Tomás Filho", "Debora Puccini"],
+  "ausentes": [],
+  "observacoes": [
+   "Reunião convocada extraordinariamente a pedido de Debora Puccini (e por sugestão de reunião administrativa).",
+   "Itens 2 e 3 (processo 872.093/1996, Maurício Brito Marcelino da Silva, fosfato, Alagoinhas-BA; cumprimento de decisão judicial e reclamação no STJ, ministro Napoleão Nunes Maia) foram julgados em conjunto por sugestão de Eduardo Leão.",
+   "Sustentações orais: Dr. Carlos Vilhena (HNK BR / Heineken, ex-Schincariol) e Dr. Alisson (advogado de Maurício Brito Marcelino); manifestação do procurador-chefe Dr. Maurício, para quem cumprimento de decisão judicial não cabe deliberação colegiada.",
+   "Debate longo sobre a preliminar de perda de objeto do item 2 suscitada por Tomás Filho; Bicca fez apelo lembrando que a decisão de jan/2019 foi tomada um dia antes de Brumadinho, quando a agência estava em implantação.",
+   "Tasso Mendonça pediu vista do item 2; votação concluída na 11ª RE (aTSDB6xXLyg). Recesso de cerca de 20 minutos por queda de conexão de Bicca (reinício às 17:13)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:03:52",
+   "processo": "48051.000385/2020",
+   "interessado": "ANM — Serviço de Atendimento ao Usuário / Núcleo de Gestão Documental e Protocolo",
+   "assunto": "Referendo da Resolução ANM 39/2020 (ad referendum do DG), que alterou a Res. 28/2020 e prorrogou até 31/07/2020 a suspensão de prazos processuais e materiais pela pandemia de Covid-19",
+   "tema": ["regulação normativa (resolução)", "institucional", "Covid-19 / suspensão de prazos"],
+   "relator": "Victor Bicca",
+   "resultado": "referendado (todos acompanharam; o presidente da sessão falou em 'aprovado por maioria', mas não houve voto divergente)",
+   "resumo_voto": "Urgência e tendência crescente da pandemia justificaram a avocação pelo DG (art. 8º do Regimento Interno); referendo da prorrogação até 31/07/2020.",
+   "votos": [
+    {"diretor": "Victor Bicca", "voto": "relator, pede referendo", "ts": "0:03:52", "justificativa": "estado de calamidade e recomendação da Secretaria-Geral (despacho SEI 13.117/2020)", "confianca": "alta"},
+    {"diretor": "Debora Puccini", "voto": "acompanha o relator", "ts": "0:07:20", "justificativa": "ressalta que suspensão de prazos não suspende os direitos dos títulos nem as obrigações/aplicações da ANM", "confianca": "alta"},
+    {"diretor": "Eduardo Leão", "voto": "acompanha o relator", "ts": "0:08:25", "confianca": "media"},
+    {"diretor": "Tasso Mendonça", "voto": "acompanha o relator", "ts": "0:08:40", "justificativa": "ao menos 30% dos estados ainda têm restrições ao funcionamento de atividades econômicas", "confianca": "alta"},
+    {"diretor": "Tomás Filho", "voto": "acompanha o relator", "ts": "0:08:21", "justificativa": "pede que a Secretaria-Geral consolide decretos estaduais para decidir sobre retomada de prazos em agosto (reunião de 22/07)", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "2 — preliminar de perda de objeto",
+   "ts": "0:12:00",
+   "processo": "872.093/1996",
+   "interessado": "Maurício Brito Marcelino da Silva",
+   "assunto": "Preliminar suscitada por Tomás Filho: perda de objeto do referendo do despacho do DG de jan/2019, pois a decisão não atendeu ao Judiciário e foi superada pela decisão posterior (item 3)",
+   "tema": ["judicialização", "institucional", "outorga de títulos minerários (requerimento de pesquisa)"],
+   "relator": "Tomás Filho (suscitante)",
+   "resultado": "preliminar abandonada: em vez de votá-la, o colegiado aceitou a proposta de Eduardo Leão de julgar os itens 2 e 3 em conjunto",
+   "resumo_voto": "Tomás: decisão monocrática do DG deveria ter vindo ao colegiado em 30 dias (art. 8º do RI) e perdeu o objeto; procurador-chefe: cumprimento de decisão judicial não se delibera; Tasso: prazo de 30 dias é autoimposto e declarar perda de objeto poderia reavivar multa judicial.",
+   "votos": [
+    {"diretor": "Tomás Filho", "voto": "suscita perda de objeto", "ts": "0:12:00", "justificativa": "cabe ao colegiado decidir o cumprimento; ato monocrático nunca trazido a referendo; decisão do item 3 se sobrepõe", "tom": "firme, discorda do procurador-chefe", "confianca": "alta"},
+    {"diretor": "Debora Puccini", "voto": "favorável à perda de objeto (com dúvida)", "ts": "0:30:46", "justificativa": "'cumpra-se ou não se cumpra'; decisão foi superada pela segunda decisão", "confianca": "media"},
+    {"diretor": "Eduardo Leão", "voto": "favorável à perda de objeto; propõe julgamento conjunto", "ts": "0:31:25", "justificativa": "o ato existiu, mas a decisão do item 3 o supera", "confianca": "media"},
+    {"diretor": "Tasso Mendonça", "voto": "contra a perda de objeto", "ts": "0:32:05", "justificativa": "não entende os riscos; prazo de 30 dias é autoimposto; poderia ressuscitar multa judicial", "confianca": "alta"},
+    {"diretor": "Victor Bicca", "voto": "contra a perda de objeto (decisão cumpriu a sentença)", "ts": "0:25:56", "justificativa": "decisão foi aceita pela Justiça; não há descumprimento; contexto de Brumadinho e implantação da agência", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:39:03",
+   "processo": "872.093/1996",
+   "interessado": "Maurício Brito Marcelino da Silva; HNK BR Indústria de Bebidas (terceira interessada)",
+   "assunto": "Ciência/referendo do despacho 13/2019 do Diretor-Geral (DOU 24/01/2019) que anulou o ato de aprovação do parecer PROGE 07/97 (indeferimento de pesquisa de fosfato em Alagoinhas-BA), em cumprimento de sentença da 7ª Vara Federal/DF com multa diária",
+   "tema": ["judicialização", "outorga de títulos minerários (requerimento de pesquisa)", "fosfato", "água mineral"],
+   "relator": "Victor Bicca",
+   "resultado": "pedido de vista de Tasso Mendonça; votação concluída na 11ª RE (aprovado por maioria)",
+   "resumo_voto": "Bicca: cumprimento de decisão judicial, interpretado por parecer de força executória da PGF, é imperativo e não se submete a deliberação colegiada; subsidiariamente pede ratificação, pois a perda de eficácia exporia a diretoria a multa.",
+   "votos": [
+    {"diretor": "Victor Bicca", "voto": "relator: ciência; subsidiariamente ratificação do despacho 13/2019", "ts": "2:12:50", "justificativa": "art. 5º da Lei 13.575/2017 (representação pelo DG); parecer de força executória; sentença só tem efeito constitutivo negativo e não garante a pesquisa", "confianca": "alta"},
+    {"diretor": "Debora Puccini", "voto": "diverge, não reconhece o despacho", "ts": "2:16:44", "justificativa": "o STJ reiterou pela terceira vez que a solução não foi proferida; cumprir a sentença por completo devolvendo a área, excluída só a zona de expansão urbana", "confianca": "alta"},
+    {"diretor": "Eduardo Leão", "voto": "diverge, acompanha Debora", "ts": "2:20:41", "justificativa": "a anulação não teve sequência na outorga do alvará: 'cumpre mas não cumpre'", "confianca": "alta"},
+    {"diretor": "Tasso Mendonça", "voto": "pede vista", "ts": "2:23:33", "justificativa": "não entende o alcance e os impactos da não convalidação para a União e para terceiros", "confianca": "alta"},
+    {"diretor": "Tomás Filho", "voto": "acompanha parcialmente o relator (anulação cumprida, mas pendente a concretização dos efeitos: reanálise com inclusão das áreas do TRF-1)", "ts": "2:29:38", "justificativa": "item 10 da ordem do ministro Napoleão (02/10/2019): 'outra solução logicamente deverá ser proferida'", "confianca": "alta"}
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:51:22",
+   "processo": "872.093/1996",
+   "interessado": "Maurício Brito Marcelino da Silva; HNK BR Indústria de Bebidas; titulares de argila, areia e água mineral na poligonal",
+   "assunto": "Referendo do despacho SEI 1091/SG/2020 (fev/2020) de Tasso Mendonça como DG substituto, que mandou estudar interferências da poligonal original e propôs mediação no STJ",
+   "tema": ["judicialização", "outorga de títulos minerários (requerimento de pesquisa / alvará)", "fosfato", "água mineral", "conflito entre agentes / mediação"],
+   "relator": "Tasso Mendonça",
+   "resultado": "votação iniciada; concluída na 11ª RE (aprovada por unanimidade, com três votos parcialmente favoráveis)",
+   "resumo_voto": "Tasso relata o histórico (Schincariol, poço do governo da Bahia, parecer CONJUR/MME 219/97, alvará 4.107 vencido sem relatório final, 8 títulos de terceiros na área) e vota por confirmar a anulação como correta mas insuficiente, prosseguir com mediação no STJ e informar ao ministro os afetados.",
+   "votos": [
+    {"diretor": "Tasso Mendonça", "voto": "relator, aprova", "ts": "1:21:27", "justificativa": "outorga pura do alvará afetaria terceiros que já pesquisam ou lavram; necessidade de intimação e contraditório", "confianca": "alta"},
+    {"diretor": "Debora Puccini", "voto": "acompanha parcialmente (concluir pela outorga da área, excluída a zona de expansão urbana)", "ts": "2:16:44", "justificativa": "acordo ou desdobramentos ficam para depois; agora é cumprir a sentença", "confianca": "alta"},
+    {"diretor": "Eduardo Leão", "voto": "acompanha parcialmente, com Debora, incluindo os 4 ha do poço; notificar demais interessados", "ts": "2:20:41", "confianca": "alta"},
+    {"diretor": "Tomás Filho", "voto": "acompanha parcialmente, com Debora e Eduardo", "ts": "2:29:38", "confianca": "alta"},
+    {"diretor": "Victor Bicca", "voto": "aguarda (sobrestado pelo pedido de vista); voto dado na 11ª RE", "ts": "2:26:03", "justificativa": "vê convergência e considera oportuna a vista para afinar com a PFE o alcance do comando judicial", "confianca": "media"}
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Cabeçalho do vídeo indica 2020-07-08, mas a abertura diz 'hoje terça-feira, sete de julho' e a 11ª RE se refere à 10ª como de terça, 7 de julho; adotada 2020-07-07.",
+  "Número do processo (872.093/1996) e do processo SEI do item 1 vêm de legenda automática e podem ter erros; nomes de advogados (Carlos Vilhena, Alisson) incertos.",
+  "Na preliminar, a posição de Bicca e os ts de Debora/Bicca são aproximados; a preliminar não foi formalmente votada.",
+  "Votos de Debora/Eduardo/Tomás tratam conjuntamente itens 2 e 3; a separação por item segue o resumo feito por Tomás Filho ao fim e na 11ª RE."
+ ]
+}
