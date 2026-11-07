@@ -1,0 +1,44 @@
+{
+  "meta": {"video_id": "itMZRZ-4ufA", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "21ª Reunião Extraordinária Pública", "data": "2022-02-07", "formato": "videoconferência com transmissão no YouTube",
+    "presidente_da_sessao": "Victor Bicca (Diretor-Geral); conduziu o item 1.1 Guilherme Gomes enquanto Bicca relatava",
+    "diretores_presentes": ["Victor Bicca", "Guilherme Gomes", "Ronaldo Lima", "Roger Cabral (diretor interino)", "Júlio Rodrigues (diretor interino)"],
+    "ausentes": [],
+    "observacoes": ["Abertura: o DG diz 'segunda-feira, dia sete de fevereiro de 2022, 14:43'; o cabeçalho do arquivo indica 2022-02-08 (adotada a data falada).", "O DG anuncia que em matérias de cunho regulatório não será mais concedido o contraditório (sustentação oral) por já ter havido participação social extensa.", "Pauta curta: resolução de consolidação dos atos normativos de segurança de barragens (relator Ronaldo Lima) e dois pedidos de guia de utilização de fosfato (relator Victor Bicca), ambos aprovados por unanimidade.", "No encerramento, o procurador-chefe Maurício e os diretores dão boas-vindas a Roger Cabral e Júlio Rodrigues, recém-designados diretores interinos; o DG anuncia que a resolução de recursos e reservas está praticamente pronta e menciona a Semana de Mineração com o ministro Bento Albuquerque."]
+  },
+  "itens": [
+    {
+      "id": "2.1", "ts": "0:08:23",
+      "processo": "não identificado com segurança na legenda", "interessado": "Gerência de Segurança de Barragens de Mineração; Superintendência de Regulação e Governança Regulatória; Superintendência de Produção Mineral",
+      "assunto": "Resolução que consolida os atos normativos sobre segurança de barragens de mineração e atualiza procedimentos à Lei 14.066/2020 (altera a Lei 12.334/2010); revoga Portaria DNPM 70.389/2017 e Resoluções ANM 13/2019, 32/2020, 40/2020, 51/2021 e 56/2021",
+      "tema": ["barragens e segurança de barragens", "regulação normativa (resolução, agenda regulatória, AIR)", "participação social"],
+      "relator": "Ronaldo Lima", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Aprova a minuta de resolução após AIR e cinco ações de participação social (tomada de subsídios, reunião participativa, consulta pública e duas audiências públicas). Por orientação da PF, retirados os dispositivos de multas e de credenciamento de pessoas habilitadas a atestar segurança, pendentes de decreto (arts. 17-A e 18-B da Lei 12.334). Três alterações do relator: interpretação de que a vedação de trabalhadores na zona de autossalvamento (art. 18-A §2º) vale para barragens a implantar, definindo como estruturas associadas lavra/beneficiamento/disposição de empreendimentos já outorgados e implantados (art. 56 §1º); obrigação do empreendedor de atender critérios do art. 54 §5º quando houver trabalhadores na ZAS (art. 56 §2º); vigência em 22/02/2022 (art. 81). Recomenda ofício urgente ao MME e à Casa Civil cobrando o decreto regulamentador e reunião de alinhamento.",
+      "votos": [
+        {"diretor": "Ronaldo Lima", "voto": "relator, aprova", "ts": "0:27:35", "justificativa": "aumentar a segurança de comunidades e trabalhadores (fator de segurança ≥ 1,5, borda livre ≥ 1 m, centro de monitoramento 24h), sem fechar atividade já instalada; interpretação literal do art. 18-A para barragens futuras", "tom": "institucional, agradece equipe técnica e PF", "confianca": "alta"},
+        {"diretor": "Guilherme Gomes", "voto": "acompanha o relator", "ts": "0:38:51", "justificativa": "voto de extrema relevância; caminho de responsabilidade com população, trabalhadores e continuidade da produção (cita experiência de Minas Gerais)", "confianca": "alta"},
+        {"diretor": "Roger Cabral", "voto": "acompanha o relator", "ts": "0:38:58", "justificativa": "responsabiliza o regulado sem inviabilizar projetos existentes, dando condições de transição (participou de perto do primeiro acidente)", "confianca": "alta"},
+        {"diretor": "Júlio Rodrigues", "voto": "acompanha o relator", "ts": "0:39:05", "justificativa": "elogia a ampla participação social e a proximidade com o setor", "confianca": "alta"},
+        {"diretor": "Victor Bicca", "voto": "acompanha o relator", "ts": "0:39:10", "justificativa": "destaca a transitoriedade: daqui para frente não se aceitam novos empreendimentos com estruturas na ZAS, mas os existentes migram caso a caso para não paralisar o setor", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.1", "ts": "0:40:59",
+      "processo": "48405.850045/2007 e 48405.851184/2008 (números aproximados pela legenda)", "interessado": "empresa de mineração do Pará (nome ilegível na legenda, algo como 'Visual Mineração Indústria e Comércio'); advogado Alexandre Sion em sustentação oral",
+      "assunto": "Guias de utilização para fosfato (e caulim) em processos com relatório de pesquisa aprovado em 2013 e requerimento de lavra pendente",
+      "tema": ["outorga de títulos minerários (guia de utilização, requerimento de lavra)", "fosfato", "caulim", "agronegócio / fertilizantes"],
+      "relator": "Victor Bicca", "resultado": "aprovado por unanimidade (acolhimento parcial da área técnica)",
+      "resumo_voto": "1) emite guia de utilização de fosfato no processo 850045/2007 (até 120 mil t/ano, 3 anos); 2) prorroga a GU 35/2019 no processo 851184/2008 (até 170 mil t/ano de fosfato, 3 anos), pois a renovação foi pedida tempestivamente; 3) indefere GU para caulim (substância sem jazida aprovada no relatório de pesquisa; precedente de voto do próprio relator na 21ª ROP); 4) indefere nova GU de fosfato de 2021, porque o Decreto 9.406/2018 admite só uma autorização e uma prorrogação. Questão sobre a leitura da SRG (Res. 37/2020) enviada à PF; pede celeridade no requerimento de lavra de 2013/2014 e apelo a Roger Cabral (SPM) para priorizar casos semelhantes.",
+      "votos": [
+        {"diretor": "Victor Bicca", "voto": "relator, aprova parcialmente (2 deferimentos, 2 indeferimentos)", "ts": "0:56:55", "justificativa": "Decreto 9.406/2018 art. 24 limita a uma GU com uma prorrogação; GU é excepcional, o aproveitamento deve vir pela concessão de lavra", "confianca": "alta"},
+        {"diretor": "Ronaldo Lima", "voto": "acompanha o relator", "ts": "0:59:08", "confianca": "alta"},
+        {"diretor": "Júlio Rodrigues", "voto": "acompanha o relator", "ts": "0:59:11", "confianca": "alta"},
+        {"diretor": "Roger Cabral", "voto": "acompanha o relator", "ts": "0:59:22", "confianca": "alta"},
+        {"diretor": "Guilherme Gomes", "voto": "acompanha o relator (presidindo o item)", "ts": "0:59:25", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Reunião lida inteira.", "Número da resolução aprovada e nº do processo SEI do item 2.1 não identificáveis na legenda.", "Nome da empresa do item 1.1 e números de processo/guia vêm da legenda automática e podem estar errados.", "Data: fala de abertura diz 7/2/2022; cabeçalho diz 8/2/2022."]
+}

@@ -1,0 +1,2469 @@
+{
+ "meta": {
+  "video_id": "nqVyPAM43j0",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "51",
+  "data": "2023-07-07",
+  "formato": "híbrida / videoconferência",
+  "presidente_da_sessao": "Mauro Sousa (Diretor-Geral); Roger Cabral presidiu durante a relatoria do DG",
+  "diretores_presentes": [
+   "Mauro Sousa",
+   "Roger Cabral",
+   "Guilherme Gomes",
+   "Tasso Mendonça",
+   "Caio Seabra"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Reunião retomada após adiamentos devido à paralisação/greve dos servidores da ANM.",
+   "Nova sistemática: atas passam a ser aprovadas na reunião pública; ata da 50ª aprovada ao final.",
+   "11 pedidos de sustentação oral; a maioria dos processos com sustentação foi retirada de pauta pelos relatores após as falas (União Balsa Nova, Mineração Bacana, Ciplan, Mineração Rio do Norte, Salobo, Gerdau); único deliberado foi o 4.1.2.",
+   "Sessão de cerca de 6h37 ('sessão histórica pelo tempo').",
+   "Mauro pediu vista de muitos itens (3.1.1–3.1.4, 3.8.1, 2.3.1, 2.5.1, 5.2.1, 5.4.1, 5.7.1, 5.8.1, 5.10.1–5.10.4, 5.11.1–5.11.3), criticando uso excessivo de princípios (razoabilidade/proporcionalidade) e defendendo respeito ao regimento e aos precedentes.",
+   "Debate recorrente sobre guias de utilização de manganês e revisão dos limites da Resolução 37/2020."
+  ]
+ },
+ "itens": [
+  {
+   "id": "4.1.2",
+   "ts": "0:41:07",
+   "processo": "83057/2021 (número incerto)",
+   "interessado": "Carlos Gabriel Olinto de Arruda Vilaça; advogado Cláudio da Silveira Faria (sustentação)",
+   "assunto": "Guia de utilização de 450 mil t/ano de granito para brita por 2 anos (Extrema-MG, APA), rocha retirada para galpões industriais",
+   "tema": [
+    "guia de utilização",
+    "agregados para construção civil",
+    "ambiental / licenciamento"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova conforme parecer 227/2022 da gerência de MG.",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, aprova",
+     "ts": "0:47:30",
+     "confianca": "media",
+     "justificativa": "parecer técnico favorável; solução ambiental para material que iria a depósito"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "de acordo",
+     "ts": "0:49:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "0:48:43",
+     "justificativa": "urge rever as quantidades da Resolução 37 (brita, ferro, manganês)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "de acordo",
+     "ts": "0:49:20",
+     "justificativa": "guias com projeto e documentação completos deveriam ser aprovadas na unidade, sem discricionariedade; regras precisam de revisão",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "de acordo",
+     "ts": "0:49:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.1.1-1.1.3",
+   "ts": "1:44:30",
+   "processo": "Resolução ANM 122/2022 (número incerto); processo de mineradora (barragem); processo da Mineração Batalha (nome incerto)",
+   "interessado": "ANM; mineradoras não identificadas com segurança",
+   "assunto": "Referendo de atos do Diretor-Geral: prorrogação de prazos da resolução de multas em revisão; autorização de disposição de rejeitos em barragem com DCE negativa (art. 79 Res. 95/2022); anulação de caducidade do direito de requerer lavra por decisão judicial",
+   "tema": [
+    "institucional",
+    "barragens e segurança de barragens",
+    "regulação normativa",
+    "judicialização"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Urgência das medidas.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, propõe referendo",
+     "ts": "1:44:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator (presidia)",
+     "ts": "1:49:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "de acordo com o relator",
+     "ts": "1:49:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:49:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "1:49:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.1-1.2.4",
+   "ts": "1:45:17",
+   "processo": "não captados",
+   "interessado": "Massa Falida de Britadora Contagem; Belém Águas (grafia incerta); Baróide Comercial Ltda; Pedras Morro Grande",
+   "assunto": "Recursos contra cobrança de CFEM",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "provimento parcial (abate pagamentos comprovados)",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, provimento parcial (abate pagamentos comprovados)",
+     "ts": "1:45:17",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator (presidia)",
+     "ts": "2:01:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "2:01:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "2:01:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "2:01:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.4.1-1.4.2",
+   "ts": "1:49:31",
+   "processo": "não captados",
+   "interessado": "BRX Mineração Ltda; Cooperativa de Trabalho de Garimpeiros (São Francisco — nome incerto)",
+   "assunto": "Recursos contra indeferimento de registro de licença por interferência (UC de proteção integral estadual de 1975 e área em disponibilidade)",
+   "tema": [
+    "registro de licença",
+    "ambiental / unidades de conservação",
+    "garimpo / PLG",
+    "recursos administrativos"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, nega provimento",
+     "ts": "1:49:31",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator (presidia)",
+     "ts": "2:01:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "2:01:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "2:01:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "2:01:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.5.2-1.5.4",
+   "ts": "1:51:14",
+   "processo": "não captados",
+   "interessado": "Wagner Cavalcante dos Santos; José Leônidas de Freitas Martins Costa; Ferreira Areia e Cascalho Ltda",
+   "assunto": "Recursos contra indeferimento por não cumprimento de exigências (superficiário, licenciamento)",
+   "tema": [
+    "outorga de títulos minerários",
+    "registro de licença",
+    "recursos administrativos"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, nega provimento",
+     "ts": "1:51:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator (presidia)",
+     "ts": "2:01:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "2:01:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "2:01:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "2:01:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.6.1",
+   "ts": "1:53:27",
+   "processo": "não captado",
+   "interessado": "Vânia Oliveira Lima Silva",
+   "assunto": "Recurso contra inabilitação em disponibilidade por ART sem identificação do processo/edital",
+   "tema": [
+    "disponibilidade de área / leilão de áreas",
+    "recursos administrativos"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, nega provimento",
+     "ts": "1:53:27",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator (presidia)",
+     "ts": "2:01:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "2:01:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "2:01:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "2:01:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.7.1",
+   "ts": "1:56:05",
+   "processo": "não captado",
+   "interessado": "Sérgio Vinícius São Leopoldo dos Santos (grafia incerta)",
+   "assunto": "Recurso contra baixa de alvará por não apresentação de relatório de pesquisa",
+   "tema": [
+    "relatório final de pesquisa",
+    "outorga de títulos minerários",
+    "recursos administrativos"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, nega provimento",
+     "ts": "1:56:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator (presidia)",
+     "ts": "2:01:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "2:01:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "2:01:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "2:01:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.8.1-1.8.4",
+   "ts": "1:58:33",
+   "processo": "não captados",
+   "interessado": "Diogo Antônio Feijó Neto; Valter Vitor de Oliveira; MC4 Minerações Ltda",
+   "assunto": "Recursos contra multas por falta de pagamento de TAH",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "fiscalização e sanções (multa, caducidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, nega provimento",
+     "ts": "1:58:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator (presidia)",
+     "ts": "2:01:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "2:01:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "2:01:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "2:01:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.1.3",
+   "ts": "2:13:58",
+   "processo": "940.185/2018",
+   "interessado": "Mineração Aurora Ltda",
+   "assunto": "Recurso contra cobrança de CFEM",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos"
+   ],
+   "relator": "Guilherme Gomes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento",
+   "votos": [
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "relator, nega provimento",
+     "ts": "2:13:58",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator, exceto 2.3.1 e 2.5.1 (vista)",
+     "ts": "2:24:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "2:29:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "2:29:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "2:29:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.5",
+   "ts": "2:14:38",
+   "processo": "964.048/2017",
+   "interessado": "Mineradora Bruno Ltda",
+   "assunto": "Recurso contra cobrança de CFEM (voto lido com erro de redação a corrigir: não conhecer x conhecer e negar)",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos"
+   ],
+   "relator": "Guilherme Gomes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "não conhece / nega provimento",
+   "votos": [
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "relator, não conhece / nega provimento",
+     "ts": "2:14:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator, exceto 2.3.1 e 2.5.1 (vista)",
+     "ts": "2:24:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "2:29:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "2:29:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "2:29:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.6",
+   "ts": "2:16:00",
+   "processo": "915.837/2009",
+   "interessado": "não identificado",
+   "assunto": "Recurso contra cobrança de CFEM",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos"
+   ],
+   "relator": "Guilherme Gomes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento",
+   "votos": [
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "relator, nega provimento",
+     "ts": "2:16:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator, exceto 2.3.1 e 2.5.1 (vista)",
+     "ts": "2:24:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "2:29:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "2:29:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "2:29:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.8-2.1.11",
+   "ts": "2:13:00",
+   "processo": "não lidos em sessão",
+   "interessado": "não identificados",
+   "assunto": "Recursos contra cobrança de CFEM (votos apenas disponibilizados na pasta, proclamados como aprovados)",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos"
+   ],
+   "relator": "Guilherme Gomes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento (presumido)",
+   "votos": [
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "relator, nega provimento (presumido)",
+     "ts": "2:13:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator, exceto 2.3.1 e 2.5.1 (vista)",
+     "ts": "2:24:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "2:29:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "2:29:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "2:29:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.17",
+   "ts": "2:17:19",
+   "processo": "962.195/2010",
+   "interessado": "Indaiatuba Turismo Ltda (grafia incerta)",
+   "assunto": "Pedido de reconsideração contra decisão da diretoria em cobrança de CFEM",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos"
+   ],
+   "relator": "Guilherme Gomes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento",
+   "votos": [
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "relator, nega provimento",
+     "ts": "2:17:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator, exceto 2.3.1 e 2.5.1 (vista)",
+     "ts": "2:24:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "2:29:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "2:29:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "2:29:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1",
+   "ts": "2:18:09",
+   "processo": "831.424/2007",
+   "interessado": "não identificado (MG)",
+   "assunto": "Recurso contra multa",
+   "tema": [
+    "fiscalização e sanções (multa, caducidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Guilherme Gomes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento",
+   "votos": [
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "relator, nega provimento",
+     "ts": "2:18:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator, exceto 2.3.1 e 2.5.1 (vista)",
+     "ts": "2:24:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "2:29:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "2:29:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "2:29:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.2",
+   "ts": "2:19:14",
+   "processo": "833.486/2003",
+   "interessado": "Pinto Indústria Cerâmica Ltda (grafia incerta)",
+   "assunto": "Recurso contra multa",
+   "tema": [
+    "fiscalização e sanções (multa, caducidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Guilherme Gomes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento",
+   "votos": [
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "relator, nega provimento",
+     "ts": "2:19:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator, exceto 2.3.1 e 2.5.1 (vista)",
+     "ts": "2:24:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "2:29:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "2:29:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "2:29:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.3",
+   "ts": "2:19:41",
+   "processo": "815.060/98 (SC)",
+   "interessado": "SBM Sul Brasileiro de Mineração Ltda",
+   "assunto": "Recurso contra multa",
+   "tema": [
+    "fiscalização e sanções (multa, caducidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Guilherme Gomes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento",
+   "votos": [
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "relator, nega provimento",
+     "ts": "2:19:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator, exceto 2.3.1 e 2.5.1 (vista)",
+     "ts": "2:24:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "2:29:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "2:29:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "2:29:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.1",
+   "ts": "2:20:30",
+   "processo": "não captado",
+   "interessado": "não identificado",
+   "assunto": "Item proclamado como aprovado; conteúdo não identificado na legenda",
+   "tema": [
+    "recursos administrativos"
+   ],
+   "relator": "Guilherme Gomes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "não captado",
+   "votos": [
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "relator, não captado",
+     "ts": "2:20:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator, exceto 2.3.1 e 2.5.1 (vista)",
+     "ts": "2:24:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "2:29:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "2:29:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "2:29:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "2:18:40",
+   "processo": "035.101/1946",
+   "interessado": "Codemig — Companhia de Desenvolvimento Econômico de Minas Gerais",
+   "assunto": "Recurso contra auto de infração 470/2017",
+   "tema": [
+    "fiscalização e sanções (multa, caducidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Guilherme Gomes",
+   "resultado": "pedido de vista de Mauro Sousa",
+   "resumo_voto": "Relator dá provimento: vício no embasamento legal do auto; anula auto e multa.",
+   "votos": [
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "relator, dá provimento",
+     "ts": "2:18:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "pede vista",
+     "ts": "2:24:28",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2.5.1",
+   "ts": "2:21:21",
+   "processo": "864.236/2018",
+   "interessado": "Bolt Mineração",
+   "assunto": "Voto-vista de Guilherme Gomes sobre guia de utilização de 80 mil t/ano de manganês (TO), relator Tasso Mendonça",
+   "tema": [
+    "guia de utilização",
+    "manganês",
+    "fiscalização e sanções (multa, caducidade)"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "pedido de vista de Mauro Sousa (Tasso e Caio acompanham)",
+   "resumo_voto": "Guilherme acompanha Tasso, recomendando fiscalização in loco pela gerência do TO após emissão da guia; debate sobre guias de manganês usadas para 'esquentar' minério de outra origem.",
+   "votos": [
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "voto-vista: acompanha o relator, com recomendação de fiscalização",
+     "ts": "2:21:21",
+     "justificativa": "recebeu a Bolt e entendeu o processo; o problema recorrente é quem pega guia, não produz e esquenta minério de outro lugar; não travar quem está regular",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "pede vista",
+     "ts": "2:24:28",
+     "justificativa": "sugere geoprocessamento para verificar se a área está intacta",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, aprova",
+     "ts": "2:28:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "2:29:10",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3.1.1-3.1.4",
+   "ts": "2:31:45",
+   "processo": "870.298/1984, 870.129/1990 (incerto), 871.706/1988, 871.956/2003",
+   "interessado": "Vegas Mineração Ltda; Jacobina Mineração e Comércio Ltda; GM Geologia Online Ltda (Jacobina-BA, ouro)",
+   "assunto": "Recursos contra decisões em processos de disponibilidade: inabilitação da Jacobina por falta de documento de identidade do signatário e de comprovação dos outorgantes da procuração; classificação Jacobina x GM",
+   "tema": [
+    "disponibilidade de área / leilão de áreas",
+    "recursos administrativos"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "pedido de vista de Mauro Sousa",
+   "resumo_voto": "Relator: mantém inabilitação da Jacobina (envelope deve vir completo; Lei 8.666 subsidiária; acórdão TCU) e mantém Jacobina vencedora contra a GM (22 x 19 pontos).",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, nega provimento",
+     "ts": "2:31:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "pede vista",
+     "ts": "3:40:03",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3.2.1",
+   "ts": "3:04:37",
+   "processo": "831.54x/2009",
+   "interessado": "Companhia Mineira de Diamantes (Diamantina-MG)",
+   "assunto": "Recurso contra indeferimento de terceira prorrogação de alvará de pesquisa",
+   "tema": [
+    "outorga de títulos minerários",
+    "diamante",
+    "recursos administrativos"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "pedido de vista de Guilherme Gomes",
+   "resumo_voto": "Relator nega: legislação permite uma única prorrogação (art. 21 Decreto 9.406/2018).",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, nega provimento",
+     "ts": "3:04:37",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "pede vista",
+     "ts": "3:40:03",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3.3.1",
+   "ts": "3:07:28",
+   "processo": "868.46x/2005",
+   "interessado": "Planalto Extração de Areia (GO)",
+   "assunto": "Recurso contra negativa de nova prorrogação de prazo para licenciamento ambiental (seis prorrogações desde 2010)",
+   "tema": [
+    "requerimento de lavra",
+    "ambiental / licenciamento",
+    "recursos administrativos"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, nega provimento",
+     "ts": "3:07:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "3:40:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "3:41:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "3:41:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "3:41:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.4.1",
+   "ts": "3:12:19",
+   "processo": "não captado",
+   "interessado": "Vulcão Minérios (Canguçu-RS)",
+   "assunto": "Recurso contra indeferimento de registro de licença por licença municipal vencida",
+   "tema": [
+    "registro de licença",
+    "recursos administrativos"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, nega provimento",
+     "ts": "3:12:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "3:40:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "3:41:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "3:41:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "3:41:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.5.1",
+   "ts": "3:14:22",
+   "processo": "830.037/2021",
+   "interessado": "Telhas Salinas Produtos Cerâmicos",
+   "assunto": "Recurso contra indeferimento de registro de licença por exigência não cumprida no prazo",
+   "tema": [
+    "registro de licença",
+    "recursos administrativos"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, nega provimento",
+     "ts": "3:14:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "3:40:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "3:41:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "3:41:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "3:41:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.6.1",
+   "ts": "3:17:00",
+   "processo": "3.609/2014 (incerto)",
+   "interessado": "Infraenias Investimentos e Participações (grafia incerta)",
+   "assunto": "Recurso contra cobrança de TAH decorrente de prorrogação indevida de alvará",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "dá provimento; cancela cobrança e nulidade, retorna para análise das exigências",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, dá provimento; cancela cobrança e nulidade, retorna para análise das exigências",
+     "ts": "3:17:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "3:40:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "3:41:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "3:41:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "3:41:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.8.1",
+   "ts": "3:20:04",
+   "processo": "832.507/1984",
+   "interessado": "Empresa de Mineração Esperança S.A. (massa falida recuperada); recorrentes interessados no edital 140/2004",
+   "assunto": "Recursos contra decisão da 45ª reunião que anulou caducidade do direito de requerer lavra e o edital de disponibilidade 140/2004 (falência e arresto judicial)",
+   "tema": [
+    "disponibilidade de área / leilão de áreas",
+    "judicialização",
+    "requerimento de lavra",
+    "recursos administrativos"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "pedido de vista de Mauro Sousa",
+   "resumo_voto": "Relator nega recursos e mantém decisão unânime da 45ª reunião (arresto judicial e falência impediam a caducidade).",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, nega os recursos",
+     "ts": "3:20:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "pede vista",
+     "ts": "3:40:03",
+     "confianca": "alta",
+     "justificativa": "procuradora observou que a PFE não se manifesta sobre o processo desde 2004"
+    }
+   ]
+  },
+  {
+   "id": "4.1.1",
+   "ts": "3:44:07",
+   "processo": "846.490/2012",
+   "interessado": "Mineração JDR Jucurutu Ltda (BA)",
+   "assunto": "Guia de utilização de 30 mil t/ano de barita por 3 anos",
+   "tema": [
+    "guia de utilização",
+    "recursos administrativos"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "aprova",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, aprova",
+     "ts": "3:44:07",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "4:07:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "4:07:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "4:07:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "4:07:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.1.3",
+   "ts": "3:45:31",
+   "processo": "831.755/2004",
+   "interessado": "Doca Transporte e Locação de Máquinas Ltda (Igarapé-MG)",
+   "assunto": "Guia de utilização de filito para uso industrial por 3 anos, eficaz com licença ambiental",
+   "tema": [
+    "guia de utilização",
+    "recursos administrativos"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "aprova",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, aprova",
+     "ts": "3:45:31",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "4:07:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "4:07:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "4:07:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "4:07:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.2.1",
+   "ts": "3:47:10",
+   "processo": "866.045/2013",
+   "interessado": "João Eurípedes Alves e Silva (MT)",
+   "assunto": "Recurso contra indeferimento de registro de licença sem aviso de recebimento da exigência nos autos",
+   "tema": [
+    "registro de licença",
+    "recursos administrativos"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "dá provimento (provável; legenda truncada)",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, dá provimento (provável; legenda truncada)",
+     "ts": "3:47:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "4:07:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "4:07:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "4:07:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "4:07:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.3.1",
+   "ts": "3:48:43",
+   "processo": "832.171/2021",
+   "interessado": "Prefeitura Municipal de Guarani-MG",
+   "assunto": "Recurso contra indeferimento de registro de extração por exigência cumprida fora do prazo",
+   "tema": [
+    "registro de extração",
+    "recursos administrativos"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, nega provimento",
+     "ts": "3:48:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "4:07:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "4:07:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "4:07:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "4:07:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.4.1",
+   "ts": "3:50:49",
+   "processo": "910.097/2020",
+   "interessado": "Joinville Mineração Ltda",
+   "assunto": "Recurso contra multa por TAH não paga (tese do Decreto 10.965/2022)",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "fiscalização e sanções (multa, caducidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, nega provimento",
+     "ts": "3:50:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "4:07:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "4:07:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "4:07:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "4:07:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.5.1-4.5.3",
+   "ts": "3:53:49",
+   "processo": "946.742/2010; 964.092/2017; 964.093/2017",
+   "interessado": "Santo Antônio Vilar Campos EIRELI; Ormando Brito Alves",
+   "assunto": "Recursos contra cobrança de CFEM (defesas intempestivas; pedido de parcelamento)",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, nega provimento",
+     "ts": "3:53:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "4:07:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "4:07:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "4:07:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "4:07:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.8.1-4.8.2",
+   "ts": "4:00:35",
+   "processo": "896.010/2023 e outro",
+   "interessado": "Aero Científica Serviços Aéreos Especializados Ltda (aerolevantamento para a Vale, ES)",
+   "assunto": "Homologação de desistência de requerimentos de reconhecimento geológico",
+   "tema": [
+    "reconhecimento geológico",
+    "recursos administrativos"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "homologa",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, homologa",
+     "ts": "4:00:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "4:07:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "4:07:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "4:07:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "4:07:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.9.1",
+   "ts": "4:01:56",
+   "processo": "896.667/2003",
+   "interessado": "Grand Siena do Brasil Ltda (ES)",
+   "assunto": "Recurso contra não aprovação de RFP",
+   "tema": [
+    "relatório final de pesquisa",
+    "recursos administrativos"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, nega provimento",
+     "ts": "4:01:56",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "4:07:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "4:07:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "4:07:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "4:07:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.9.2",
+   "ts": "4:04:57",
+   "processo": "811.429/2014",
+   "interessado": "Alexandre José Oliveira Toledo (RS)",
+   "assunto": "Recurso intempestivo contra não aprovação de RFP",
+   "tema": [
+    "relatório final de pesquisa",
+    "recursos administrativos"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "não conhece",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, não conhece",
+     "ts": "4:04:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "4:07:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "4:07:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "4:07:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "4:07:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.1.1",
+   "ts": "4:09:03",
+   "processo": "não captado",
+   "interessado": "Pavão Rochas Ornamentais Ltda",
+   "assunto": "Guia de utilização de 200 mil t/ano de granito para brita",
+   "tema": [
+    "guia de utilização",
+    "agregados para construção civil",
+    "recursos administrativos"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "aprova",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator, aprova",
+     "ts": "4:09:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha nos demais (fora as vistas)",
+     "ts": "5:40:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "5:40:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator, inclusive no 5.7.1 (voto antecipado em ata)",
+     "ts": "5:40:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "5:40:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.1.2",
+   "ts": "4:09:58",
+   "processo": "não captado",
+   "interessado": "Minerais Capital Intermediação e Consultoria (Poços de Caldas-MG)",
+   "assunto": "Guia de utilização de 60 mil t/ano de bauxita? (substância incerta) para uso industrial",
+   "tema": [
+    "guia de utilização",
+    "recursos administrativos"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "aprova",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator, aprova",
+     "ts": "4:09:58",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha nos demais (fora as vistas)",
+     "ts": "5:40:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "5:40:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator, inclusive no 5.7.1 (voto antecipado em ata)",
+     "ts": "5:40:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "5:40:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.2.2",
+   "ts": "4:12:46",
+   "processo": "não captado",
+   "interessado": "Construtora Deocil Ltda (ES)",
+   "assunto": "Pedido de reconsideração contra indeferimento de prorrogação de registro de licença de areia (contrato com superficiário vencido)",
+   "tema": [
+    "registro de licença",
+    "recursos administrativos"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "indefere reconsideração",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator, indefere reconsideração",
+     "ts": "4:12:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha nos demais (fora as vistas)",
+     "ts": "5:40:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "5:40:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator, inclusive no 5.7.1 (voto antecipado em ata)",
+     "ts": "5:40:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "5:40:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.3.1",
+   "ts": "4:14:30",
+   "processo": "não captado",
+   "interessado": "Indústria de Calcários Caçapava Ltda",
+   "assunto": "Recurso contra cobrança de CFEM 1991–2008",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator, nega provimento",
+     "ts": "4:14:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha nos demais (fora as vistas)",
+     "ts": "5:40:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "5:40:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator, inclusive no 5.7.1 (voto antecipado em ata)",
+     "ts": "5:40:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "5:40:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.3.3",
+   "ts": "4:15:30",
+   "processo": "820.990/1996",
+   "interessado": "indústria brasileira de bebidas S.A. (nome incerto; água mineral)",
+   "assunto": "Recurso contra cobrança de CFEM de cerca de R$ 20 milhões (1998–2006; valor da legenda)",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "água mineral",
+    "recursos administrativos"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator, nega provimento",
+     "ts": "4:15:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha nos demais (fora as vistas)",
+     "ts": "5:40:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "5:40:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator, inclusive no 5.7.1 (voto antecipado em ata)",
+     "ts": "5:40:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "5:40:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.3.4",
+   "ts": "4:16:28",
+   "processo": "não captado",
+   "interessado": "Minério Sul Ind. e Com. de Agregados Ltda e Concreto Sul Ltda",
+   "assunto": "Recurso contra cobrança de CFEM 2002–2010",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "provimento parcial",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator, provimento parcial",
+     "ts": "4:16:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha nos demais (fora as vistas)",
+     "ts": "5:40:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "5:40:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator, inclusive no 5.7.1 (voto antecipado em ata)",
+     "ts": "5:40:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "5:40:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.3.5",
+   "ts": "4:18:00",
+   "processo": "não captado",
+   "interessado": "Empresa Brasileira de Quartzo Ltda (grafia incerta)",
+   "assunto": "Recurso contra cobrança de CFEM 2005",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "provimento parcial",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator, provimento parcial",
+     "ts": "4:18:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha nos demais (fora as vistas)",
+     "ts": "5:40:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "5:40:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator, inclusive no 5.7.1 (voto antecipado em ata)",
+     "ts": "5:40:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "5:40:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.3.7",
+   "ts": "4:20:14",
+   "processo": "não captado",
+   "interessado": "Vale S.A.",
+   "assunto": "Recurso contra cobrança de CFEM mar/2016–jun/2017",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator, nega provimento",
+     "ts": "4:20:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha nos demais (fora as vistas)",
+     "ts": "5:40:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "5:40:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator, inclusive no 5.7.1 (voto antecipado em ata)",
+     "ts": "5:40:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "5:40:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.3.8",
+   "ts": "4:21:00",
+   "processo": "não captado",
+   "interessado": "Mineradora Bruno Ltda ME",
+   "assunto": "Recurso contra cobrança de CFEM 2007–2012",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "não conhece",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator, não conhece",
+     "ts": "4:21:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha nos demais (fora as vistas)",
+     "ts": "5:40:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "5:40:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator, inclusive no 5.7.1 (voto antecipado em ata)",
+     "ts": "5:40:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "5:40:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.3.10",
+   "ts": "4:22:05",
+   "processo": "814.599/1972",
+   "interessado": "Tronox Pigmentos Brasil S.A. (Mataraca-PB, ilmenita)",
+   "assunto": "Recurso contra cobrança de CFEM 2011–2017 (tese do ICMS na base de cálculo)",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator, nega provimento",
+     "ts": "4:22:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha nos demais (fora as vistas)",
+     "ts": "5:40:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "5:40:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator, inclusive no 5.7.1 (voto antecipado em ata)",
+     "ts": "5:40:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "5:40:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.5.1",
+   "ts": "4:25:00",
+   "processo": "não captado",
+   "interessado": "BRX Mineração Ltda (Charqueadas e Triunfo-RS)",
+   "assunto": "Recurso contra indeferimento de requerimento de pesquisa (areia e cascalho) por interferência total",
+   "tema": [
+    "requerimento de pesquisa",
+    "recursos administrativos"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator, nega provimento",
+     "ts": "4:25:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha nos demais (fora as vistas)",
+     "ts": "5:40:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "5:40:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator, inclusive no 5.7.1 (voto antecipado em ata)",
+     "ts": "5:40:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "5:40:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.6.1",
+   "ts": "4:26:52",
+   "processo": "não captado",
+   "interessado": "Tiago Honório",
+   "assunto": "Recurso contra indeferimento de prorrogação de alvará requerida 4 dias antes do vencimento (prazo de 60 dias)",
+   "tema": [
+    "outorga de títulos minerários",
+    "recursos administrativos"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator, nega provimento",
+     "ts": "4:26:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha nos demais (fora as vistas)",
+     "ts": "5:40:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "5:40:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator, inclusive no 5.7.1 (voto antecipado em ata)",
+     "ts": "5:40:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "5:40:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.9.1-5.9.6",
+   "ts": "4:47:00",
+   "processo": "vários",
+   "interessado": "Minas S.A. (nome incompleto); Tapetinga Agroindustrial S.A.; Mina Água Mineral Ltda; Araguaia Ltda; LJD Transportes Ltda; BRX Mineração Ltda",
+   "assunto": "Recursos contra multas (suspensão de lavra sem comunicação, documentos fora do RAL web, não entrega de RFP, TAH)",
+   "tema": [
+    "fiscalização e sanções (multa, caducidade)",
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator, nega provimento",
+     "ts": "4:47:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha nos demais (fora as vistas)",
+     "ts": "5:40:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "5:40:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator, inclusive no 5.7.1 (voto antecipado em ata)",
+     "ts": "5:40:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "5:40:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.9.8-5.9.11",
+   "ts": "4:55:00",
+   "processo": "vários",
+   "interessado": "indústria cerâmica (SC); Companhia Riograndense de Mineração (barragem P1, carvão); Áurea Indústria e Comércio Ltda; outro",
+   "assunto": "Recursos contra multas (exigência atendida fora do prazo, não apresentação de DCE de barragem, TAH)",
+   "tema": [
+    "fiscalização e sanções (multa, caducidade)",
+    "barragens e segurança de barragens",
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator, nega provimento",
+     "ts": "4:55:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha nos demais (fora as vistas)",
+     "ts": "5:40:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "5:40:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator, inclusive no 5.7.1 (voto antecipado em ata)",
+     "ts": "5:40:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "5:40:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.10.5",
+   "ts": "5:09:32",
+   "processo": "não captado",
+   "interessado": "Indústria de Tijolos (nome incompleto, MG)",
+   "assunto": "Recurso contra indeferimento de registro de licença de argila por documentação fora do prazo",
+   "tema": [
+    "registro de licença",
+    "recursos administrativos"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "nega provimento",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator, nega provimento",
+     "ts": "5:09:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha nos demais (fora as vistas)",
+     "ts": "5:40:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "5:40:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator, inclusive no 5.7.1 (voto antecipado em ata)",
+     "ts": "5:40:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "5:40:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.2.1",
+   "ts": "4:11:04",
+   "processo": "27220.896.124/2003-06",
+   "interessado": "Mineração Rio Claro Ltda (Barra de São Francisco-ES, granito)",
+   "assunto": "Pedido de reconsideração contra decisão da diretoria que manteve indeferimento de requerimento de lavra (exigência cumprida antes de decisão)",
+   "tema": [
+    "recursos administrativos",
+    "outorga de títulos minerários"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "pedido de vista de Mauro Sousa",
+   "resumo_voto": "relator dá provimento (formalismo moderado; sem prejuízo à administração)",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator, relator dá provimento (formalismo moderado; sem prejuízo à administração)",
+     "ts": "4:11:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "pede vista",
+     "ts": "5:21:00",
+     "confianca": "alta",
+     "justificativa": "PFE (Maria Cristina) suscitou questão de ordem: regimento só admite reconsideração de decisão em instância única"
+    }
+   ]
+  },
+  {
+   "id": "5.4.1",
+   "ts": "4:23:30",
+   "processo": "não captado",
+   "interessado": "Cisne Ribas Ferreira Ltda / Brasil Campos Gerais (nome incerto)",
+   "assunto": "Recurso contra auto de paralisação 7/2017 (guia de utilização vencida com renovação pedida 47 dias antes; greve)",
+   "tema": [
+    "recursos administrativos",
+    "outorga de títulos minerários"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "pedido de vista de Mauro Sousa",
+   "resumo_voto": "relator dá provimento conforme PFE",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator, relator dá provimento conforme PFE",
+     "ts": "4:23:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "pede vista",
+     "ts": "5:21:00",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "5.7.1",
+   "ts": "4:27:51",
+   "processo": "27209.896.227/1996-36",
+   "interessado": "Douglas Leal Braga de Andrade (ES)",
+   "assunto": "Recurso contra não aprovação de RFP após negativa de segunda prorrogação; mandado de segurança com prazo de 30 dias (cessão de direitos)",
+   "tema": [
+    "recursos administrativos",
+    "outorga de títulos minerários"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "pedido de vista de Mauro Sousa",
+   "resumo_voto": "relator dá provimento (pedido de prorrogação tempestivo; razoabilidade)",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator, relator dá provimento (pedido de prorrogação tempestivo; razoabilidade)",
+     "ts": "4:27:51",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "pede vista",
+     "ts": "5:21:00",
+     "confianca": "alta",
+     "justificativa": "prazo judicial já esgotado; Mauro determina envio à PFE; Guilherme e outros anteciparam voto com o relator"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "antecipa voto: acompanha o relator (consignado em ata)",
+     "ts": "5:40:00",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "5.8.1",
+   "ts": "4:29:39",
+   "processo": "não captado",
+   "interessado": "Mineração Machado Ltda (Colatina-ES, areia)",
+   "assunto": "Recurso contra indeferimento de requerimento de lavra por falta de justificativa na primeira prorrogação",
+   "tema": [
+    "recursos administrativos",
+    "outorga de títulos minerários"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "pedido de vista de Mauro Sousa",
+   "resumo_voto": "relator dá provimento (primeira prorrogação não exige justificativa)",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator, relator dá provimento (primeira prorrogação não exige justificativa)",
+     "ts": "4:29:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "pede vista",
+     "ts": "5:21:00",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "5.10.1-5.10.4",
+   "ts": "4:59:00",
+   "processo": "vários",
+   "interessado": "mesmo titular (mudança de regime após MP 790/2017); José Eurípedes Ferreira dos Santos EPP; outro (RS)",
+   "assunto": "Recursos contra indeferimento de mudança de regime e de registros de licença (licença ambiental fora do prazo)",
+   "tema": [
+    "recursos administrativos",
+    "outorga de títulos minerários"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "pedido de vista de Mauro Sousa",
+   "resumo_voto": "relator dá provimento / autotutela (razoabilidade, interesse público primário, precedente da 35ª reunião)",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator, relator dá provimento / autotutela (razoabilidade, interesse público primário, precedente da 35ª reunião)",
+     "ts": "4:59:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "pede vista",
+     "ts": "5:21:00",
+     "confianca": "alta",
+     "justificativa": "Mauro: cuidado para não banalizar princípios; quer previsibilidade e respeito aos precedentes"
+    }
+   ]
+  },
+  {
+   "id": "5.11.1-5.11.3",
+   "ts": "5:10:32",
+   "processo": "vários",
+   "interessado": "Jari Celulose S.A. (Almeirim-PA, cascalho); Jandira de Andrade Barbosa (areia, MG); transportadora de Santa Bárbara-MG",
+   "assunto": "Recursos contra indeferimento de prorrogação de registro de licença por licença municipal entregue fora do prazo",
+   "tema": [
+    "recursos administrativos",
+    "outorga de títulos minerários"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "pedido de vista de Mauro Sousa",
+   "resumo_voto": "relator dá provimento (culpa do município; empreendimentos ativos; interesse público)",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator, relator dá provimento (culpa do município; empreendimentos ativos; interesse público)",
+     "ts": "5:10:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "pede vista",
+     "ts": "5:21:00",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "1.5.1 Anselmo Xavier Davi (Mauro Sousa; documentos novos)",
+  "Processos de Guilherme Gomes com sustentação (Mineração São João, Ciplan/Sementes do Brasil — nomes incertos) e 2.1.1, 2.1.2, 2.1.4, 2.1.7, 2.1.12, 2.1.15, 2.2.2–2.2.4, 2.2.6, 2.2.7, 2.3.4, 2.4.2, 2.6.1, 2.7.1, 2.7.2",
+  "3.7.1 e 3.7.2 Mineração União Balsa Nova (Tasso Mendonça; retirado após sustentação para consulta à PFE e julgamento conjunto); 3.1.5",
+  "4.3.2 Mineração Bacana/Bastante Ltda (Roger Cabral; após sustentação); 4.6.1, 4.7.1, 4.10.1",
+  "5.3.2 Ciplan Cimento Planalto, 5.3.6 Mineração Rio do Norte (bauxita, frete/secagem), 5.3.9 Salobo Metais (cobre, dedução de frete), 5.9.7 Gerdau Açominas (força maior, manifesto de mina) — Caio Seabra, após sustentações"
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo e nomes incertos.",
+  "Data: a abertura diz 7 de julho de 2023; cabeçalho diz 2023-07-08; usado 07/07 (confirmado pela 52ª, que cita a 51ª em 07/07/2023).",
+  "Itens 2.1.8–2.1.11 e 2.4.1 foram proclamados sem leitura em sessão.",
+  "Numeração de alguns itens de Caio está confusa na legenda (5.7/5.8/5.9); ids conforme proclamação final.",
+  "Votos de quem só acompanha têm ts aproximado; no bloco de Mauro, Roger presidia.",
+  "Reunião lida integralmente."
+ ]
+}
