@@ -9,7 +9,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2026 | diretoria | 11 | 11 | 0 |
 | 2026 | audiencia | 2 | 0 | 0 |
 | 2025 | participativa | 2 | 0 | 0 |
-| 2025 | diretoria | 14 | 1 | 0 |
+| 2025 | diretoria | 14 | 13 | 0 |
 | 2025 | audiencia | 2 | 0 | 0 |
 | 2024 | participativa | 1 | 0 | 0 |
 | 2024 | diretoria | 20 | 0 | 0 |
@@ -40,3 +40,15 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2026-02-23 · 82ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `XtihHWOssfU`
 - 2026-01-28 · 81ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `HZSw38UR_ZE`
 - 2025-12-17 · 80ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `47nlOlfELSQ`
+- 2025-11-26 · 79ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `uTZCHK8PV6E`
+- 2025-11-19 · 34ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `D7uaOkpVFTI`
+- 2025-10-24 · 78ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `fjfNiebo4Ok`
+- 2025-10-15 · 33ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `q5ChZa95GEI`
+- 2025-09-29 · 77ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `7EbKt320oyU`
+- 2025-08-22 · 76ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `-5vYB_XFzgY`
+- 2025-07-31 · 75ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `NRrkimmQohg`
+- 2025-07-16 · 32ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `Ibgk84neu6g`
+- 2025-05-26 · 74ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `v18z8zLNXFk`
+- 2025-04-23 · 73ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `ll1hSALLcFg`
+- 2025-03-26 · 72ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `DMEFirMUjdI`
+- 2025-02-25 · 71ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `2Aq6IIxfqu0`
