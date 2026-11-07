@@ -18,9 +18,9 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2023 | diretoria | 12 | 12 | 0 |
 | 2023 | audiencia | 3 | 0 | 0 |
 | 2022 | participativa | 1 | 0 | 0 |
-| 2022 | diretoria | 16 | 15 | 0 |
+| 2022 | diretoria | 16 | 16 | 0 |
 | 2022 | audiencia | 3 | 0 | 0 |
-| 2021 | diretoria | 17 | 0 | 0 |
+| 2021 | diretoria | 17 | 11 | 0 |
 | 2021 | audiencia | 6 | 0 | 0 |
 | 2020 | diretoria | 22 | 0 | 0 |
 | 2020 | audiencia | 1 | 0 | 0 |
@@ -100,3 +100,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2022-03-07 · 19ª Reunião Ordinária Pública da Diretoria Colegiada da ANM - áudio in · `ro0VxnsCfuQ`
 - 2022-02-24 · 37ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `vip9HNOV1IA`
 - 2022-02-08 · 21ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `itMZRZ-4ufA`
+- 2022-01-27 · 36ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `xiUGQlCtGDw`
+- 2021-12-16 · 35ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `GjzI6PQFCH4`
+- 2021-12-02 · 20ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `ExyrFG2xQXI`
+- 2021-11-25 · 34ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `_gJ3LyVOb64`
+- 2021-10-21 · 33ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `-kSt1hHHT4o`
+- 2021-09-23 · 32ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `MvAqlzzmDR4`
+- 2021-08-24 · 19ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `S56a2orKNSc`
+- 2021-07-22 · 30ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `68PBR4uvQGg`
+- 2021-06-24 · 29ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `JhjBUQ1wgxg`
+- 2021-06-10 · 18ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `t7x0qWSr-pU`
+- 2021-05-27 · 28ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `7PICL_r4uQY`
+- 2021-04-29 · 27ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `46t59aGfl6M`
+
+Vídeos sem legenda registrados: 1 (ver `data/sem_legenda.jsonl`).
