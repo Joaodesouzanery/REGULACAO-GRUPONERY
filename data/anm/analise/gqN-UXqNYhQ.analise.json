@@ -1,0 +1,1058 @@
+{
+ "meta": {
+  "video_id": "gqN-UXqNYhQ",
+  "fonte": "legenda automática do YouTube (qualidade muito ruim, áudio de sala); falantes inferidos; ts = tempo do vídeo",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "7ª Ordinária",
+  "data": "2019-08",
+  "formato": "presencial",
+  "presidente_da_sessao": "Victor Bicca (Diretor-Geral)",
+  "diretores_presentes": [
+   "Victor Bicca",
+   "Tasso Mendonça",
+   "Eduardo Leão",
+   "Tomás Filho",
+   "Debora Puccini"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Data não dita; abertura cita a Resolução ANM 13/2019 publicada 'agora no último dia doze de agosto' (2019), e a 9ª ordinária foi em 15/10/2019; logo agosto ou setembro de 2019 (o videos.jsonl traz 2020-12-18, data de upload).",
+   "Debora Puccini saiu antes do fim (itens finais relatados pelo DG).",
+   "Recorrente: diretores reclamam de processos simples subindo ao colegiado e propõem delegação de competência à SPM/regionais; também sobreposição de competência ANM x MME (calcário para cal, areia em área de PLG).",
+   "Sessão longa (~3h10) encerrada à noite."
+  ]
+ },
+ "itens": [
+  {
+   "id": "D1",
+   "ts": "0:02:53",
+   "processo": "6 processos (815.486/2017 a 815.490/2017 e processo original)",
+   "interessado": "titular não identificado (areia marinha)",
+   "assunto": "Recurso (tratado como pedido de reconsideração) contra não aprovação de relatório final de pesquisa de areia no mar de Balneário Camboriú (SC), em conflito com obra de alargamento da faixa de praia da Prefeitura",
+   "tema": [
+    "recursos administrativos",
+    "relatório final de pesquisa",
+    "agregados para construção civil",
+    "mineração marinha"
+   ],
+   "relator": "Debora Puccini",
+   "resultado": "não provido; áreas à disponibilidade (art. 26 do Código)",
+   "resumo_voto": "Seis furos de sondagem para ~50 ha: pesquisa insuficiente; tentativa de regularizar fornecimento à obra da praia; interesse social (art. 42 do Código). Bicca corrigiu a natureza processual (recurso ao colegiado, não reconsideração).",
+   "votos": [
+    {
+     "diretor": "Debora Puccini",
+     "voto": "relatora, nega provimento",
+     "ts": "0:06:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "0:06:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "0:06:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "0:06:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "0:06:40",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "D2",
+   "ts": "0:13:43",
+   "processo": "850.38x/... (número ilegível)",
+   "interessado": "não identificado",
+   "assunto": "Pedido de reconsideração contra indeferimento de requerimento de pesquisa por interferência total (opção de área remanescente feita depois do requerimento)",
+   "tema": [
+    "recursos administrativos",
+    "requerimento de pesquisa"
+   ],
+   "relator": "Debora Puccini",
+   "resultado": "não provido",
+   "resumo_voto": "Interessada requereu antes de formalizar a opção pela área remanescente; não cabe à agência escolher área pelo titular.",
+   "votos": [
+    {
+     "diretor": "Debora Puccini",
+     "voto": "relatora, nega provimento",
+     "ts": "0:20:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "0:20:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "0:20:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "0:20:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "0:20:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "E1",
+   "ts": "0:22:01",
+   "processo": "não citado (Caçapava do Sul/RS)",
+   "interessado": "Referencial Geologia, Mineração e Meio Ambiente",
+   "assunto": "Prorrogação de prazo para requerer lavra (cobre), art. 31 do Código",
+   "tema": [
+    "outorga de títulos minerários",
+    "prorrogação de prazo",
+    "cobre"
+   ],
+   "relator": "Eduardo Leão",
+   "resultado": "deferido; debate sobre competência (deveria ser decidido pela SPM/regional; sugerida delegação)",
+   "resumo_voto": "Parecer técnico favorável e prazos observados. Debate: colegiado pode decidir («quem pode mais pode menos»), mas processos simples sobrecarregam o colegiado; necessidade de portaria de delegação.",
+   "votos": [
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "relator, defere",
+     "ts": "0:31:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha",
+     "ts": "0:32:18",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha; registra fluxo processual inadequado",
+     "ts": "0:32:18",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha (implícito)",
+     "ts": "0:32:18",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "acompanha (implícito)",
+     "ts": "0:32:18",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "E2",
+   "ts": "0:32:41",
+   "processo": "894.009/2012 (grafia incerta)",
+   "interessado": "Pedreira Vila Real Ltda",
+   "assunto": "Pedido de servidão mineral sobre a poligonal de portaria de lavra (saibro, São Gonçalo/RJ)",
+   "tema": [
+    "outorga de títulos minerários",
+    "servidão mineral"
+   ],
+   "relator": "Eduardo Leão",
+   "resultado": "pedido negado",
+   "resumo_voto": "Área é da própria empresa (superficiária) e não se demonstrou necessidade; debate com procurador sobre servidão dentro da poligonal e hipótese de cessão futura.",
+   "votos": [
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "relator, nega a servidão",
+     "ts": "0:37:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "0:37:38",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "0:37:38",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "0:37:38",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "0:37:38",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "E3",
+   "ts": "0:38:59",
+   "processo": "868.239/2016 (grafia incerta)",
+   "interessado": "HS Empreendimentos e Participações Ltda",
+   "assunto": "Requerimento de lavra de calcário (Corumbá/MS) vencedor de disponibilidade, com uso para brita e para cal; exigências (licença ambiental, faixa de fronteira, INCRA) não cumpridas",
+   "tema": [
+    "outorga de títulos minerários",
+    "indeferimento de requerimento de lavra",
+    "competência ANM x MME",
+    "calcário"
+   ],
+   "relator": "Eduardo Leão",
+   "resultado": "encaminhado ao MME para decisão (uso múltiplo do calcário); recomendada delegação à SPM e portaria/parecer pacificando competência",
+   "resumo_voto": "Indeferiria se fosse competência exclusiva da ANM; uso para cal é do MME. Debate sobre sobreposição de competências (areia x ouro em PLG etc.).",
+   "votos": [
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "relator, encaminha ao MME",
+     "ts": "0:43:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "0:43:38",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "0:43:38",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "0:43:38",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "0:43:38",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "E4",
+   "ts": "0:49:12",
+   "processo": "831.359/1996? e 831.57?/2002 (grafia incerta)",
+   "interessado": "Lenita (ou Elenita) Silva Ferrão ME",
+   "assunto": "Requerimento de lavra de areia (Conceição das Alagoas/MG) com proposta de indeferimento por licença ambiental fora do prazo (apresentada 3,5 anos depois)",
+   "tema": [
+    "outorga de títulos minerários",
+    "licenciamento ambiental",
+    "agregados para construção civil"
+   ],
+   "relator": "Eduardo Leão",
+   "resultado": "autos devolvidos à SPM para revisão e melhor instrução",
+   "resumo_voto": "Fato novo (licença juntada em 18/01/2019), art. 31 do Decreto 9.406/2018, razoabilidade e inércia da própria administração; experiência do relator no COEMA/PA. Procurador destacou dever do administrado de manter informação atualizada.",
+   "votos": [
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "relator, devolve à SPM para reavaliação",
+     "ts": "0:55:01",
+     "confianca": "media",
+     "justificativa": "razoabilidade; administração também demorou; regularização deve valer a pena"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "0:55:01",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "0:55:01",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "0:55:01",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "0:55:01",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "E5",
+   "ts": "1:00:19",
+   "processo": "não citado",
+   "interessado": "Cristiano José da Silva Luna",
+   "assunto": "Recurso contra indeferimento (pelo DG em 2018) de prorrogação do prazo para requerer lavra",
+   "tema": [
+    "recursos administrativos",
+    "prorrogação de prazo"
+   ],
+   "relator": "Eduardo Leão",
+   "resultado": "não provido; segue para caducidade do direito de requerer lavra",
+   "resumo_voto": "Justificativa (capitalizar via guia de utilização de substância distinta, sem licença) insatisfatória; ampla defesa garantida.",
+   "votos": [
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "relator, nega o recurso",
+     "ts": "1:05:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "1:05:09",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "1:05:09",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "1:05:09",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "1:05:09",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "E6",
+   "ts": "1:08:41",
+   "processo": "bloco: 820.130/1995; 868.029/1999; 868.093/1999 e outros",
+   "interessado": "Sabioni Engenharia Indústria e Comércio Ltda ME",
+   "assunto": "Indeferimento em bloco de requerimentos de lavra de areia e cascalho no leito do Rio Paranapanema (Santa Rita do Pardo/MS) por não apresentação de licença ambiental",
+   "tema": [
+    "outorga de títulos minerários",
+    "indeferimento de requerimento de lavra",
+    "agregados para construção civil",
+    "licenciamento ambiental"
+   ],
+   "relator": "Eduardo Leão",
+   "resultado": "indeferido; áreas à disponibilidade após fase recursal; sugerida delegação à SPM",
+   "resumo_voto": "Só ficha de caracterização no IBAMA em 2017, sem prosseguimento nem pedido de prorrogação (art. 31 §3º do Decreto 9.406).",
+   "votos": [
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "relator, indefere",
+     "ts": "1:12:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "1:12:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "1:12:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "1:12:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "1:12:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "X1",
+   "ts": "1:13:38",
+   "processo": "830.519/2010 e 830.367/2014 (grafia incerta)",
+   "interessado": "Geraldo Gomes Mourão ME",
+   "assunto": "Recurso contra nulidade do registro de licença 4606/2016 (areia, sul de MG) por declaração de propriedade inverídica",
+   "tema": [
+    "recursos administrativos",
+    "registro de licença",
+    "agregados para construção civil"
+   ],
+   "relator": "relator não identificado (provável Tasso Mendonça ou Tomás Filho)",
+   "resultado": "não provido; nulidade mantida",
+   "resumo_voto": "Requerente era proprietário só de parte da área e não tinha assentimento dos demais (art. 164 III e 192 da Portaria 155/2016).",
+   "votos": [
+    {
+     "diretor": "relator não identificado (provável Tasso Mendonça ou Tomás Filho)",
+     "voto": "relator, nega provimento",
+     "ts": "1:15:54",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "1:15:54",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "1:15:54",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "1:15:54",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "1:15:54",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "1:15:54",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "X2",
+   "ts": "1:18:33",
+   "processo": "850.209/2011 e 850.220/2011 (e processos administrativos 950.xxx)",
+   "interessado": "Pedro Eliane (ou Viana) Ltda",
+   "assunto": "Recurso contra nulidade dos registros de licença 11/2014 e 12/2014 (PA) por interferência com títulos prioritários",
+   "tema": [
+    "recursos administrativos",
+    "registro de licença",
+    "direito de prioridade"
+   ],
+   "relator": "relator não identificado (provável Tasso Mendonça ou Tomás Filho)",
+   "resultado": "não provido; nulidades mantidas",
+   "resumo_voto": "Direito de prioridade (art. 11 do Código; art. 7º do Decreto 9.406); parecer PFE 27/2018.",
+   "votos": [
+    {
+     "diretor": "relator não identificado (provável Tasso Mendonça ou Tomás Filho)",
+     "voto": "relator, nega provimento",
+     "ts": "1:22:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "1:22:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "1:22:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "1:22:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "1:22:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "1:22:15",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "X3",
+   "ts": "1:23:54",
+   "processo": "8xx.937/... (grafia incerta) e 378/2004",
+   "interessado": "Areal Ter... Ltda (nome incompleto)",
+   "assunto": "Anulação do edital de disponibilidade 59/2009 (DNPM-RJ) publicado antes de decidido o pedido de reconsideração da caducidade",
+   "tema": [
+    "disponibilidade de área / leilão de áreas",
+    "recursos administrativos",
+    "fiscalização e sanções (multa, caducidade)"
+   ],
+   "relator": "relator não identificado (provável Tasso Mendonça ou Tomás Filho)",
+   "resultado": "edital anulado; novo procedimento de disponibilidade",
+   "resumo_voto": "Disponibilidade só após trânsito em julgado administrativo (art. 26 do Código; art. 265 da Portaria 155); empresa impedida de participar. Debora: ressalva para que eventuais proponentes sejam intimados.",
+   "votos": [
+    {
+     "diretor": "relator não identificado (provável Tasso Mendonça ou Tomás Filho)",
+     "voto": "relator, anula o edital",
+     "ts": "1:27:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha com ressalva: intimar os interessados da anulação (ampla defesa)",
+     "ts": "1:31:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha; prazo de 1 ano após aprovação do relatório independe de notificação",
+     "ts": "1:30:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha (implícito)",
+     "ts": "1:31:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "X4",
+   "ts": "1:34:31",
+   "processo": "bloco de pedidos de bloqueio (KL Serviços de Engenharia, Assu/RN; Energia Goiás Transmissão; CPFL Renováveis; consórcio intermunicipal; Santa Maria; Interligação Elétrica de Tibagi; Industrial e Agrícola Rio Verde; Fonte da Vida Águas Minerais etc.)",
+   "interessado": "empresas de geração e transmissão de energia",
+   "assunto": "Pedidos de bloqueio de áreas para empreendimentos de geração/transmissão de energia (art. 42 do Código; parecer PROGE 500/2008)",
+   "tema": [
+    "bloqueio de áreas",
+    "infraestrutura / energia",
+    "outorga de títulos minerários"
+   ],
+   "relator": "relator não identificado (provável Tasso Mendonça ou Tomás Filho)",
+   "resultado": "resultado não claro na legenda: voto de indeferimento por ausência de requisito essencial; debate extenso e aparente pedido para examinar melhor (possível vista)",
+   "resumo_voto": "Relator: bloqueio é medida extrema; exige demonstrar incompatibilidade e superação do interesse mineral caso a caso; listou procedimentos de coexistência (PAE, relatório final, distâncias de segurança). Outro diretor objetou que o voto parecia «manual de procedimento» e criaria precedente sem norma; sugeriu resolução.",
+   "votos": [
+    {
+     "diretor": "relator não identificado (provável Tasso Mendonça ou Tomás Filho)",
+     "voto": "relator, indefere por ausência de requisito essencial",
+     "ts": "1:54:31",
+     "confianca": "media",
+     "justificativa": "coexistência de atividades; rigidez locacional das jazidas"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "questiona alcance e precedente; sugere regulamentação (falante incerto)",
+     "ts": "1:55:32",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "X5",
+   "ts": "2:22:20",
+   "processo": "407.8131/2001? (grafia incerta)",
+   "interessado": "Fonte da Vida Indústria e Comércio de Águas Minerais e Bebidas",
+   "assunto": "Aprovação de novo PAE (água mineral, Camaçari/Dias d’Ávila, BA)",
+   "tema": [
+    "outorga de títulos minerários",
+    "plano de aproveitamento econômico",
+    "água mineral"
+   ],
+   "relator": "relator não identificado (provável Tasso Mendonça ou Tomás Filho)",
+   "resultado": "aprovado",
+   "resumo_voto": "Força-tarefa da SPM favorável. Relator criticou trâmite desnecessário pelo gabinete do DG.",
+   "votos": [
+    {
+     "diretor": "relator não identificado (provável Tasso Mendonça ou Tomás Filho)",
+     "voto": "relator, aprova o PAE",
+     "ts": "2:25:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "2:25:41",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "2:25:41",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "2:25:41",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "2:25:41",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "2:25:41",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "X6",
+   "ts": "2:26:21",
+   "processo": "48412.866177/2014",
+   "interessado": "Vitória Régia (água mineral, MT)",
+   "assunto": "Aprovação de novo PAE (água mineral)",
+   "tema": [
+    "plano de aproveitamento econômico",
+    "água mineral"
+   ],
+   "relator": "relator não identificado (provável Tasso Mendonça ou Tomás Filho)",
+   "resultado": "aprovado",
+   "resumo_voto": "Parecer regional e força-tarefa favoráveis.",
+   "votos": [
+    {
+     "diretor": "relator não identificado (provável Tasso Mendonça ou Tomás Filho)",
+     "voto": "relator, aprova o PAE",
+     "ts": "2:27:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "2:27:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "2:27:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "2:27:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "2:27:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "2:27:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "X7",
+   "ts": "2:28:10",
+   "processo": "48403.812554/1970 (apensos 832.352/2009 e 930.180/2018 não deliberados)",
+   "interessado": "Mineração Fazenda do Bosque",
+   "assunto": "Aprovação de novo PAE (calcário, Pedro Leopoldo/MG)",
+   "tema": [
+    "plano de aproveitamento econômico",
+    "calcário"
+   ],
+   "relator": "relator não identificado (provável Tasso Mendonça ou Tomás Filho)",
+   "resultado": "aprovado",
+   "resumo_voto": "Relatório de reavaliação de 2003 só agora gerou PAE: demora administrativa (observação de um diretor).",
+   "votos": [
+    {
+     "diretor": "relator não identificado (provável Tasso Mendonça ou Tomás Filho)",
+     "voto": "relator, aprova o PAE",
+     "ts": "2:30:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "2:30:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "2:30:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "2:30:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "2:30:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "2:30:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "X8",
+   "ts": "2:32:33",
+   "processo": "48422.806166/2010; 48422.806038/2010 e 48422.803052/2011",
+   "interessado": "Civilsan Empresas Associadas de Engenharia; DJ Fernando (?)",
+   "assunto": "Recursos contra não aprovação de relatório final de pesquisa: processos devolvidos à Superintendência de Pesquisa para manifestação técnica (instrução incompleta)",
+   "tema": [
+    "recursos administrativos",
+    "relatório final de pesquisa"
+   ],
+   "relator": "relator não identificado (provável Tasso Mendonça ou Tomás Filho)",
+   "resultado": "baixados em diligência à SPRM",
+   "resumo_voto": "Falta manifestação da superintendência exigida pelo regimento.",
+   "votos": [
+    {
+     "diretor": "relator não identificado (provável Tasso Mendonça ou Tomás Filho)",
+     "voto": "relator, devolve para instrução",
+     "ts": "2:33:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "2:33:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "2:33:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "2:33:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "2:33:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "2:33:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "X9",
+   "ts": "2:37:04",
+   "processo": "48403.001387/1935 (grafia incerta)",
+   "interessado": "titular do Manifesto de Mina 400",
+   "assunto": "Relocação da poligonal do Manifesto de Mina nº 400 (deslocamento em relação à base, confirmado por GNSS)",
+   "tema": [
+    "outorga de títulos minerários",
+    "manifesto de mina",
+    "retificação de título"
+   ],
+   "relator": "relator não identificado (provável Tasso Mendonça ou Tomás Filho)",
+   "resultado": "reconhecido o deslocamento; autos ao MME para autorizar averbação",
+   "resumo_voto": "Competência do MME; parecer PFE 2/2014: averbação, não retificação de manifesto.",
+   "votos": [
+    {
+     "diretor": "relator não identificado (provável Tasso Mendonça ou Tomás Filho)",
+     "voto": "relator, acata a sugestão e encaminha ao MME",
+     "ts": "2:42:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "2:42:06",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "2:42:06",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "2:42:06",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "2:42:06",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "acompanha o relator (implícito ou breve)",
+     "ts": "2:42:06",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "B1",
+   "ts": "2:46:38",
+   "processo": "811.462/2014",
+   "interessado": "Pedro Dias Voz (?) e Cia Ltda",
+   "assunto": "Recurso contra baixa da transcrição de registro de licença (RS) por pedido de prorrogação fora da vigência",
+   "tema": [
+    "recursos administrativos",
+    "registro de licença",
+    "agregados para construção civil"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "não provido",
+   "resumo_voto": "Pedido protocolado após vencimento (arts. 182 e 196 da Consolidação).",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, nega provimento",
+     "ts": "2:51:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha (implícito)",
+     "ts": "2:51:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha (implícito)",
+     "ts": "2:51:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "acompanha (implícito)",
+     "ts": "2:51:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "B2",
+   "ts": "2:52:10",
+   "processo": "830.642/2008 (grafia incerta)",
+   "interessado": "Indústria Cerâmica Rezende Ltda",
+   "assunto": "Recurso contra indeferimento de registro de licença (Patos de Minas/MG) por interferência total",
+   "tema": [
+    "recursos administrativos",
+    "registro de licença",
+    "agregados para construção civil"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "não provido",
+   "resumo_voto": "Vale a data de expedição da licença municipal, não do pedido à prefeitura (art. 18 do Código).",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, nega provimento",
+     "ts": "2:55:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha (implícito)",
+     "ts": "2:55:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha (implícito)",
+     "ts": "2:55:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "acompanha (implícito)",
+     "ts": "2:55:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "B3",
+   "ts": "2:56:36",
+   "processo": "800.143/2015",
+   "interessado": "Horizonte Indústria e Comércio de Cerâmica Ltda",
+   "assunto": "Recurso contra indeferimento de registro de licença (CE): nova licença municipal fora dos 30 dias",
+   "tema": [
+    "recursos administrativos",
+    "registro de licença",
+    "agregados para construção civil"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "não provido",
+   "resumo_voto": "Arts. 165 e 167 da Consolidação.",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, nega provimento",
+     "ts": "3:00:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha (implícito)",
+     "ts": "3:00:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha (implícito)",
+     "ts": "3:00:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "acompanha (implícito)",
+     "ts": "3:00:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "B4",
+   "ts": "3:01:05",
+   "processo": "8xx.395/2018 (grafia incerta)",
+   "interessado": "Cerâmica Foz Ltda",
+   "assunto": "Recurso contra indeferimento de plano de registro de licença (SC): licença de município errado",
+   "tema": [
+    "recursos administrativos",
+    "registro de licença",
+    "agregados para construção civil"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "não conhecido (intempestivo) e não provido",
+   "resumo_voto": "Base cartográfica do IBGE prevalece; cabe ao proprietário corrigir registro do imóvel.",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, não conhece",
+     "ts": "3:03:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha (implícito)",
+     "ts": "3:03:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha (implícito)",
+     "ts": "3:03:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "acompanha (implícito)",
+     "ts": "3:03:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "B5",
+   "ts": "3:03:38",
+   "processo": "834.../2016 (grafia incerta)",
+   "interessado": "Maria Rosário Cardoso Cançado Figueiredo",
+   "assunto": "Recurso contra indeferimento de registro de licença (MG) por exigência de constituir empresa",
+   "tema": [
+    "recursos administrativos",
+    "registro de licença",
+    "agregados para construção civil"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "provido",
+   "resumo_voto": "Exigência sem base legal (pessoa física pode requerer licenciamento); ofício sem justificativa e ato assinado por autoridade não identificada.",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, dá provimento",
+     "ts": "3:08:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha (implícito)",
+     "ts": "3:08:16",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha (implícito)",
+     "ts": "3:08:16",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "acompanha (implícito)",
+     "ts": "3:08:16",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda de qualidade muito ruim (áudio de sala): nomes, números e falantes muito incertos; a lista de falantes do cabeçalho do .md (Ronaldo Lima, Fábio Borges) é inferência automática errada para 2019.",
+  "Relator dos itens X1 a X9 não identificado com segurança (entre Tasso Mendonça e Tomás Filho).",
+  "Votos dos seguidores quase todos implícitos; ts aproximados.",
+  "Resultado do bloco de pedidos de bloqueio (X4) não ficou claro.",
+  "Data só com ano e mês."
+ ]
+}
