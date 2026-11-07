@@ -22,7 +22,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2022 | audiencia | 3 | 0 | 0 |
 | 2021 | diretoria | 17 | 16 | 0 |
 | 2021 | audiencia | 6 | 0 | 0 |
-| 2020 | diretoria | 22 | 7 | 0 |
+| 2020 | diretoria | 22 | 19 | 0 |
 | 2020 | audiencia | 1 | 0 | 0 |
 | 2019 | diretoria | 7 | 0 | 0 |
 
@@ -124,5 +124,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2020-11-19 · 22ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `Qq7qMQ7_rfc`
 - 2020-11-12 · 14ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `a2q8c-bCJvs`
 - 2020-11-04 · 13ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `wdeylnWC4Wk`
+- 2020-10-22 · 21ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `YZuPzUTCFK0`
+- 2020-09-17 · 20ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `_I172abmDgk`
+- 2020-08-31 · 12ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `9mdYU4s88zI`
+- 2020-07-22 · 18ª Reunião Oridinária Pública da Diretoria Colegiada da ANM · `rDHG2v6FECg`
+- 2020-07-16 · 11ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `aTSDB6xXLyg`
+- 2020-07-08 · 10ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `ArmmpxW5R5k`
+- 2020-06-17 · 17ª Reunião Oridinária Pública da Diretoria Colegiada da ANM · `y9MYTRVPaqk`
+- 2020-05-27 · 9ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `XgYPPYFL8T0`
+- 2020-05-26 · 1ª Reunião Extraordinária Pública da Diretoria Colegiada (2019) · `VY_K3xq1i1U`
+- 2020-05-26 · 10ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `EIRqAKSjmWc`
+- 2020-05-25 · 6ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `MGhW4TEoNZI`
+- 2020-05-20 · 16ª Reunião Oridinária Pública da Diretoria Colegiada da ANM · `lbQcuLZy28Y`
 
 Vídeos sem legenda registrados: 1 (ver `data/sem_legenda.jsonl`).
