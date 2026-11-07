@@ -15,10 +15,10 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2024 | diretoria | 20 | 20 | 0 |
 | 2024 | audiencia | 3 | 0 | 0 |
 | 2023 | participativa | 7 | 0 | 0 |
-| 2023 | diretoria | 12 | 3 | 0 |
+| 2023 | diretoria | 12 | 12 | 0 |
 | 2023 | audiencia | 3 | 0 | 0 |
 | 2022 | participativa | 1 | 0 | 0 |
-| 2022 | diretoria | 16 | 0 | 0 |
+| 2022 | diretoria | 16 | 3 | 0 |
 | 2022 | audiencia | 3 | 0 | 0 |
 | 2021 | diretoria | 17 | 0 | 0 |
 | 2021 | audiencia | 6 | 0 | 0 |
@@ -76,3 +76,15 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2023-12-08 · 57ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `AG_dkOZrjSA`
 - 2023-11-23 · 56ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `0Ck4xPkfL6Q`
 - 2023-10-31 · 55ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `JhJ9GBR6aWE`
+- 2023-10-12 · 54ª Reunião Ordinária Pública da Diretoria Colegiada da ANM - parte 2 · `JlETWgT1mkk`
+- 2023-10-11 · 54ª Reunião Ordinária Pública da Diretoria Colegiada da ANM - parte 1 · `kv-mpApDoJU`
+- 2023-09-05 · 53ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `S2GK8_S3FH4`
+- 2023-07-26 · 52ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `IwnZqOz8Rz8`
+- 2023-07-08 · 51ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `nqVyPAM43j0`
+- 2023-05-11 · 50ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `KLQlh87VtiU`
+- 2023-03-28 · 49ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `OKRmfILwpWY`
+- 2023-02-23 · 48ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `OebsMtBiF7o`
+- 2023-01-25 · 47ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `UfKJpb9ZVZA`
+- 2022-12-14 · 46ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `cXfuSmk0BVs`
+- 2022-11-29 · 24ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `dSqoG-5ZkDo`
+- 2022-11-24 · 45ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `M-AvUArsvls`
