@@ -18,7 +18,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2023 | diretoria | 12 | 12 | 0 |
 | 2023 | audiencia | 3 | 0 | 0 |
 | 2022 | participativa | 1 | 0 | 0 |
-| 2022 | diretoria | 16 | 3 | 0 |
+| 2022 | diretoria | 16 | 15 | 0 |
 | 2022 | audiencia | 3 | 0 | 0 |
 | 2021 | diretoria | 17 | 0 | 0 |
 | 2021 | audiencia | 6 | 0 | 0 |
@@ -88,3 +88,15 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2022-12-14 · 46ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `cXfuSmk0BVs`
 - 2022-11-29 · 24ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `dSqoG-5ZkDo`
 - 2022-11-24 · 45ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `M-AvUArsvls`
+- 2022-10-20 · 44ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `MeEMbwfvLJo`
+- 2022-09-01 · 43ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `Zze8E9AIy2I`
+- 2022-07-28 · 42ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `qNoGxBv5WKY`
+- 2022-06-30 · 41ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `nhJ0ZIPshI4`
+- 2022-05-26 · 40ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `SbPNijlkM18`
+- 2022-04-28 · 39ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `Y-jJDsaPHKU`
+- 2022-04-14 · 23ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `kRdgQR2qanY`
+- 2022-03-31 · 38ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `dGwZYiw_lh0`
+- 2022-03-17 · 22ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `nGQWChUBrZw`
+- 2022-03-07 · 19ª Reunião Ordinária Pública da Diretoria Colegiada da ANM - áudio in · `ro0VxnsCfuQ`
+- 2022-02-24 · 37ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `vip9HNOV1IA`
+- 2022-02-08 · 21ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `itMZRZ-4ufA`
