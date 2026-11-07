@@ -1,0 +1,58 @@
+{
+ "meta": {"video_id": "chQHqLzOYLM", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "67ª Reunião Ordinária Pública (Parte 01)",
+  "data": "2024-11-04",
+  "formato": "híbrido / transmissão ao vivo",
+  "presidente_da_sessao": "Mauro Sousa (Diretor-Geral)",
+  "diretores_presentes": ["Mauro Sousa", "Guilherme Gomes", "Tasso Mendonça", "Roger Cabral", "Caio Seabra"],
+  "ausentes": [],
+  "observacoes": [
+   "Título do vídeo traz 2024-11-05, mas na abertura o presidente diz 4 de novembro de 2024; adotada a data falada.",
+   "Ata da 66ª reunião ordinária aprovada por unanimidade (~0:17:42).",
+   "Parte 01 cobre apenas as sustentações orais dos processos do diretor Guilherme Gomes: item 2.1.1 (Res. ANM 85/2021, vista de Caio Seabra) e início do 2.6.9 (Atlantic Nickel, CFEM); o vídeo termina durante a leitura do voto do 2.6.9. Continuação na Parte 02 (EpUH2BErxWU).",
+   "Discussão sobre ordem regimental do pedido de vista: Caio Seabra, último a votar, entendia que pediria vista por último; Mauro Sousa cedeu o pedido."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1.1",
+   "ts": "0:18:07",
+   "processo": "",
+   "interessado": "IBRAM (Instituto Brasileiro de Mineração); sustentações orais de Cíntia (IBRAM) e Thiago Matos (IBDM)",
+   "assunto": "Proposta de alteração da Resolução ANM 85/2021 (aproveitamento de rejeitos e estéreis) — parágrafo único do art. 2º, que exige servidão minerária para rejeitos/estéreis depositados fora da área titulada; IBRAM pediu esclarecimento (2022) e agora a revogação",
+   "tema": ["regulação normativa", "rejeitos e estéreis / aproveitamento", "servidão minerária", "participação social"],
+   "relator": "Guilherme Gomes",
+   "resultado": "sobrestado por pedido de vista de Caio Seabra",
+   "resumo_voto": "Relator vota por não aprovar a nova redação proposta pela SPM/SRG nem a revogação pedida pelo IBRAM: a prévia constituição de servidão minerária, registrada em matrícula, é requisito de dominialidade de pilhas e barragens fora da poligonal (pareceres PFE 245/2017, Conjur 465/2020, PFE 206/2021); devolve os autos à SRG. Antes do voto, cogitou retirar de pauta; diretores debateram modulação de efeitos.",
+   "votos": [
+    {"diretor": "Guilherme Gomes", "voto": "relator, não aprova a alteração (mantém o parágrafo único do art. 2º)", "ts": "0:59:16", "justificativa": "servidão prévia é o vínculo indubitável da massa fora da área ao título; facultar sua constituição a qualquer momento geraria insegurança e permitiria retomar material abandonado", "confianca": "alta"},
+    {"diretor": "Mauro Sousa", "voto": "anunciou pedido de vista, cedido depois a Caio Seabra", "ts": "0:59:22", "justificativa": "tema complexo; questões suscitadas merecem reflexão mais detida", "confianca": "alta"},
+    {"diretor": "Tasso Mendonça", "voto": "aguarda vista; fará contribuição", "ts": "1:00:11", "justificativa": "foi relator da Res. 85/2021, que não pretendia esgotar o assunto; defende desburocratização sem perder rastreabilidade, para evitar judicialização", "confianca": "media"},
+    {"diretor": "Roger Cabral", "voto": "aguarda vista de Caio Seabra", "ts": "1:02:53", "justificativa": "concorda parcialmente; defende desburocratizar (ex.: dispensar servidão quando o minerador é proprietário do solo), cita caso de pilhas com novas substâncias como lítio", "confianca": "media"},
+    {"diretor": "Caio Seabra", "voto": "pede vista", "ts": "1:05:00", "justificativa": "revogação simples não resolve; propõe trabalhar modulação de efeitos e solução definitiva em reunião conjunta", "confianca": "alta"}
+   ]
+  },
+  {
+   "id": "2.6.9",
+   "ts": "1:07:57",
+   "processo": "",
+   "interessado": "Atlantic Nickel Mineração (sustentação oral do advogado Rodrigo Henrique Pires)",
+   "assunto": "Recurso contra manutenção da NFLD nº 59 (ANM/BA) — cobrança de CFEM de fev/2012 a mai/2016; alegações: dedução de tributos incidentes (ICMS, PIS/Cofins), despesa de 2011 alocada em 2012, compensação de pagamento a maior (jul–set/2015, art. 66 da Lei 8.383)",
+   "tema": ["CFEM / arrecadação / TAH", "recursos administrativos", "fiscalização e sanções"],
+   "relator": "Guilherme Gomes",
+   "resultado": "não concluído neste vídeo (continua na Parte 02)",
+   "resumo_voto": "Relator lê voto por conhecer o recurso e negar-lhe provimento, mantendo a cobrança, acompanhando parecer 140/2023 da coordenação de contencioso e a Portaria DNPM 389/2010; o vídeo termina durante a leitura.",
+   "votos": [
+    {"diretor": "Guilherme Gomes", "voto": "relator, nega provimento (leitura em curso)", "ts": "1:13:25", "justificativa": "argumentos já refutados pela área técnica; débito comprovado por auditoria", "confianca": "media"}
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Vídeo termina em ~1:32 durante a leitura do voto do 2.6.9; votos dos demais diretores não aparecem aqui.",
+  "Números de processo não ditos; valor da NFLD ilegível na legenda (omitido).",
+  "Falantes inferidos: a fala que concorda com o diretor Caio (~0:34) não tem autor claro (possivelmente Roger Cabral ou Tasso Mendonça); não registrada como voto.",
+  "Nome da representante do IBRAM (Cíntia) sem sobrenome; Thiago Matos representa o IBDM (grafia incerta)."
+ ]
+}

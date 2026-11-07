@@ -78,10 +78,16 @@ for l in open(f"{P}/perguntas.md"):
 ROM = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII", "XIII", "XIV", "XV", "XVI", "XVII", "XVIII", "XIX", "XX"]
 hoje = datetime.date.today().strftime("%d/%m/%Y")
 pag = []
+CAP_SETOR = next((t.get("setor") for _, t in perg if setor_img(t.get("setor"))), None)
+CRED = ""
+if CAP_SETOR and os.path.exists("docs/marca/setores/CREDITOS.md"):
+    for l in open("docs/marca/setores/CREDITOS.md"):
+        c_ = [x.strip() for x in l.split("|")]
+        if len(c_) > 5 and c_[1].startswith(CAP_SETOR + "."): CRED = f"{c_[2]} — {c_[3]} ({c_[4]}), Wikimedia Commons"
 cap_img = next((setor_img(t.get("setor")) for _, t in perg if setor_img(t.get("setor"))), None)
 pag.append(f'''<section class="pg capa"><div class="faixa" style="{f"background-image:linear-gradient(160deg,rgba(27,42,74,.92),rgba(31,122,107,.75),rgba(95,207,159,.55)),url({cap_img})" if cap_img else ""}"><span class="c1"></span><span class="c2"></span></div>
 <div class="capa-txt">{f'<img class="logo" src="{LOGO}">' if LOGO else ""}<h1>{E(tit)}</h1><div class="sub">{E(AG.upper())} · Perfil decisório de diretores</div>
-<div class="meta">Cliente: <b>{E(cliente)}</b><br>Período: {E(semana)} · Emitido em {hoje}</div><div class="conf">Confidencial — uso exclusivo do cliente</div></div></section>''')
+<div class="meta">Cliente: <b>{E(cliente)}</b><br>Período: {E(semana)} · Emitido em {hoje}</div><div class="conf">Confidencial — uso exclusivo do cliente</div>{f'<div class="cred">Foto da capa: {E(CRED)}</div>' if CRED else ""}</div></section>''')
 cols = "".join(f'<div class="item"><div class="rom">{ROM[i]}</div><h3>{E(q[:90])}</h3><p>{E(" · ".join(v for k, v in t.items() if k in ("diretor", "tema")))}</p></div>' for i, (q, t) in enumerate(perg[:6]))
 mais = f'<p class="mais">+ {len(perg)-6} perguntas</p>' if len(perg) > 6 else ""
 pag.append(f'<section class="pg"><header>{f"<img class=logo-s src={LOGO}>" if LOGO else ""}</header><h2>Conteúdo</h2><div class="kicker">PERGUNTAS DESTE RELATÓRIO</div><div class="conteudo">{cols}</div>{mais}</section>')
@@ -122,7 +128,7 @@ h3{color:#1F7A6B;font-size:13pt;margin:3mm 0}h4{color:#1B2A4A;font-size:13pt;mar
 .capa{display:flex;padding:0;background:#fff}.faixa{width:95mm;height:100%;background:linear-gradient(160deg,#1B2A4A 0%,#1F7A6B 55%,#4FB98A 100%);background-size:cover;background-position:center;position:relative}
 .c1,.c2{position:absolute;border-radius:50%;border:16mm solid #fff}.c1{width:70mm;height:70mm;left:-38mm;top:-38mm}.c2{width:70mm;height:70mm;right:-35mm;bottom:-35mm}
 .capa-txt{flex:1;padding:22mm 18mm;position:relative}.capa .logo{height:13mm;position:absolute;right:14mm;top:10mm}.capa h1{color:#1F7A6B;font-size:36pt;margin:38mm 0 4mm}
-.sub{font-size:15pt;color:#1B2A4A;font-weight:600}.meta{margin-top:18mm;font-size:12pt;line-height:1.6}.conf{position:absolute;bottom:14mm;font-size:9pt;color:#8A93A8}
+.sub{font-size:15pt;color:#1B2A4A;font-weight:600}.meta{margin-top:18mm;font-size:12pt;line-height:1.6}.conf{position:absolute;bottom:14mm;font-size:9pt;color:#8A93A8}.cred{position:absolute;bottom:9mm;font-size:7pt;color:#8A93A8}
 .conteudo{display:flex;gap:8mm;justify-content:space-around;text-align:center}.item{flex:1}.rom{font-size:40pt;font-weight:800;color:#1B2A4A;letter-spacing:.08em}.item p{font-size:10pt}
 .rom-s{position:absolute;left:16mm;top:6mm;font-weight:800;color:#1B2A4A;font-size:12pt}.lead{font-size:13pt;line-height:1.45;max-width:250mm;margin-bottom:5mm}
 .kpis{display:flex;gap:6mm;margin-bottom:6mm}.kpi{flex:1;background:#fff;border:1px solid #DCE3EA;border-radius:4mm;padding:4mm 5mm;box-shadow:0 1mm 2mm rgba(0,0,0,.04)}

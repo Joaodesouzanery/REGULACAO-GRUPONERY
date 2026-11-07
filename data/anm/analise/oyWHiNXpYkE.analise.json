@@ -1,0 +1,126 @@
+{
+ "meta": {
+  "video_id": "oyWHiNXpYkE",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de quem só acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "31ª Reunião Extraordinária Pública",
+  "data": "2024-12-06",
+  "formato": "videoconferência (Tasso Mendonça em Palmas, em evento de mineração)",
+  "presidente_da_sessao": "Mauro Sousa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Mauro Sousa",
+   "Tasso Mendonça",
+   "Roger Cabral",
+   "Caio Seabra"
+  ],
+  "ausentes": [
+   "Guilherme Gomes"
+  ],
+  "observacoes": [
+   "Reunião convocada por medida judicial liminar recebida na segunda-feira e pela urgência em concluir os recursos da CFEM de municípios afetados antes do fim do ano.",
+   "Resultados proclamados por Caio Azevedo (secretário-geral).",
+   "Tasso Mendonça teve falha de bateria; parte final do seu voto-vista foi lida pelo DG Mauro Sousa.",
+   "Único voto divergente: Roger Cabral no item 3.1.1 (seguiu Guilherme Gomes, ausente)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "extrapauta CFEM afetados",
+   "ts": "0:17:52",
+   "processo": "00?.3300/2024-57 (número incompleto na legenda)",
+   "interessado": "11 municípios recorrentes: Itagibá (BA), Verdejante (PE), Pedra Branca do Amapari (AP), Niquelândia (GO), Conceição do Araguaia (PA), Lagoa Nova (RN), Jucurutu (RN), Maracás (BA), Caetité (BA), Pissarra/Piçarra (PA), Cruzeta (RN); empresas citadas: Mina Tucano, DEV Mineração, Promine Participações, Largo Vanádio de Maracás",
+   "assunto": "Recursos em segunda instância contra a lista de municípios afetados por estruturas de mineração para repasse da CFEM (ciclo maio/2024–abril/2025; Resoluções ANM 143/2022 e 173/2024), com sustentações orais (André Luís Abrão Júnior, Fernanda de Paula, Iúri do Lago Nogueira Cavalcante Reis; Luciana Mourão inscrita)",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos",
+    "municípios afetados por estruturas de mineração",
+    "participação social"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovado por unanimidade: provimento a Jucurutu e Maracás; provimento parcial a Piçarra; negado aos demais 8",
+   "resumo_voto": "Acompanha integralmente a SAR: a partir da Resolução 173/2024 não se presume estrutura pela simples produção ou recolhimento de CFEM, é preciso declaração no RAL; Lagoa Nova mantida com peso de 30% (recolhimento em jan/2024 de competência 2023 não aceito, sob risco de rever toda a lista); Caetité não receberia como afetado por ser produtor. Urgência: fim de ano e prefeituras sem repasse há ~8 meses.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, conhece e acompanha integralmente a SAR",
+     "ts": "1:12:55",
+     "justificativa": "princípio da legalidade; nova resolução exige declaração de estruturas no RAL; reconhece dificuldades de pessoal e orçamento, mas defende atuação da agência ante críticas de demora",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "1:16:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "1:16:12",
+     "justificativa": "elogia geoprocessamento e SAR",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha integralmente o relator (presidindo a deliberação)",
+     "ts": "1:16:51",
+     "justificativa": "estruturas tecnológicas da agência geram esses problemas; mais apoio tecnológico",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3.1.1",
+   "ts": "1:18:32",
+   "processo": "851.331/2013 (alvará de pesquisa 10.455/2013)",
+   "interessado": "Luz Mineração (recorrente); Avanco Resources (sucessora da Falconbridge, processo 850.825/2005) e Ferro Brasil Mineração (cessionária, 851.210/2021); interferentes Largo do Brasil e LBR Mineração",
+   "assunto": "Voto-vista em pedido de reconsideração contra a declaração de nulidade do alvará de pesquisa da Luz Mineração (área onerada); sustentações orais de Raquel Mendonça (Luz) e Isabela Mora (Ferro Brasil)",
+   "tema": [
+    "outorga de títulos minerários",
+    "requerimento de pesquisa / direito de prioridade",
+    "recursos administrativos",
+    "judicialização"
+   ],
+   "relator": "Mauro Sousa (relator do pedido de reconsideração, voto MS 349/2024); voto-vista Tasso Mendonça",
+   "resultado": "aprovado por maioria: mantida a nulidade do alvará da Luz; sem remessa ao MME; envio à Superintendência de Fiscalização de documento sobre suposta lavra ilegal",
+   "resumo_voto": "Tasso acompanha o voto MS 349 do DG e rebate o voto GG 889 de Guilherme Gomes: eventuais vícios do requerimento da Falconbridge (contrato social, plano único de pesquisa, número de registro) seriam sanáveis por exigência (art. 17, §1º, do Código); não cabe recurso hierárquico impróprio ao MME (independência decisória da ANM); questões penais de sócio não afetam prioridade. Roger Cabral seguiu o voto de Guilherme Gomes (divergente).",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "voto-vista: acompanha o relator, nega provimento à reconsideração",
+     "ts": "1:42:01",
+     "justificativa": "processo passou por seis reuniões e quatro relatores; vícios alegados eram sanáveis por exigência; decisões finais da ANM não sujeitas a controle hierárquico do MME",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "diverge: acompanha o voto do diretor Guilherme Gomes (restabelecer alvará da Luz) — vencido",
+     "ts": "2:21:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o voto-vista",
+     "ts": "2:21:08",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, mantém voto originário com aditamentos do voto-vista",
+     "ts": "2:21:15",
+     "justificativa": "voto de Guilherme incluiu elementos alheios ao debate",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: número do processo da CFEM, nomes de municípios (Caetité, Piçarra) e empresas incertos.",
+  "O que foi feito com a medida judicial liminar citada na abertura não ficou claro na transcrição.",
+  "Roger Cabral disse apenas «acompanho o voto Dr Guilherme»; leitura como divergência baseada no resultado «por maioria».",
+  "ts de votos de seguidores aproximados."
+ ]
+}
