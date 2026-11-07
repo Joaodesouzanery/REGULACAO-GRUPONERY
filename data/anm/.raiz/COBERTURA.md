@@ -12,10 +12,10 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2025 | diretoria | 14 | 14 | 0 |
 | 2025 | audiencia | 2 | 0 | 0 |
 | 2024 | participativa | 1 | 0 | 0 |
-| 2024 | diretoria | 20 | 11 | 0 |
+| 2024 | diretoria | 20 | 20 | 0 |
 | 2024 | audiencia | 3 | 0 | 0 |
 | 2023 | participativa | 7 | 0 | 0 |
-| 2023 | diretoria | 12 | 0 | 0 |
+| 2023 | diretoria | 12 | 3 | 0 |
 | 2023 | audiencia | 3 | 0 | 0 |
 | 2022 | participativa | 1 | 0 | 0 |
 | 2022 | diretoria | 16 | 0 | 0 |
@@ -64,3 +64,15 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2024-08-26 · 65ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `GM7THmHd4zU`
 - 2024-07-31 · 64ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `_IeZwId2D0w`
 - 2024-07-08 · 63ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `8Fj3c7cQucw`
+- 2024-06-17 · 28th Extraordinary Public Meeting of the Board of Directors 20240617 0 · `LISmtK_TpXw`
+- 2024-05-28 · 62ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `FMURCcvbgzk`
+- 2024-05-17 · 27ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `PYq7NyYv0zk`
+- 2024-04-30 · 61ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `GN7qzOa9SPg`
+- 2024-04-16 · 26ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `YVwESJZD0sk`
+- 2024-03-27 · 60ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `QfacqmQ-2WI`
+- 2024-02-26 · 59ª Reunião Ordinária Pública da Diretoria Colegiada da ANM - parte 2 · `62SVN9LlBoM`
+- 2024-02-26 · 59ª Reunião Ordinária Pública da Diretoria Colegiada da ANM - parte 1 · `Yel7b4hMP7Y`
+- 2024-01-25 · 58ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `96WWdF-Y2IA`
+- 2023-12-08 · 57ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `AG_dkOZrjSA`
+- 2023-11-23 · 56ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `0Ck4xPkfL6Q`
+- 2023-10-31 · 55ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `JhJ9GBR6aWE`
