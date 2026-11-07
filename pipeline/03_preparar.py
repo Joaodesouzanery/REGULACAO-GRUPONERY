@@ -10,6 +10,8 @@ ALIAS = {  # nome canônico -> regex de variações de ASR (legenda automática 
     "Lucas Asfor": r"lucas\s+a[a-zç]+|\blucas\b",
     "Alessandro Baumgarten": r"alessandro|balgart\w*|baumgart\w*",
 }
+if os.path.exists("data/config_agencia.json"): ALIAS = json.load(open("data/config_agencia.json"))["alias"]  # outras agências (pipeline/ag.sh)
+
 PAUTA = re.compile(r"\bitem\s+\d+(?:\.\d+)*|autos?\s+n[úu]mero|processo\s+n[úu]mero|pedido\s+de\s+vista|retir\w+\s+de\s+pauta|"
                    r"aprovad[oa]|por\s+unanimidade|voto\s+vencid\w*|acompanho\s+o\s+relator|diverg\w+|ressalva|"
                    r"declaro\s+aberta|encerrad[oa]\s+a\s+sess", re.I)
