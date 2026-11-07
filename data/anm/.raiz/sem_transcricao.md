@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **51** · sem /diretoria: 7; 2026/participativa: 1; 2026/audiencia: 2; 2025/participativa: 2; 2025/audiencia: 2; 2024/participativa: 1; 2024/audiencia: 3; 2023/participativa: 7; 2023/audiencia: 3; 2022/participativa: 1; 2022/audiencia: 3; 2021/diretoria: 1; 2021/audiencia: 6; 2020/diretoria: 4; 2020/audiencia: 1; 2019/diretoria: 7
+Total: **44** · sem /diretoria: 7; 2026/participativa: 1; 2026/audiencia: 2; 2025/participativa: 2; 2025/audiencia: 2; 2024/participativa: 1; 2024/audiencia: 3; 2023/participativa: 7; 2023/audiencia: 3; 2022/participativa: 1; 2022/audiencia: 3; 2021/diretoria: 1; 2021/audiencia: 6; 2020/diretoria: 1; 2020/audiencia: 1; 2019/diretoria: 3
 
 - 2026-10-08 · participativa · Open Participatory Meeting No. 03/2026 - Regulatory Sandbox in the Mineral Secto · https://www.youtube.com/watch?v=Aw6lgA7K1hU · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-09-11 · audiencia · Audiência Pública ANM nº 2/2026 - Segurança de Pilhas de Mineração · https://www.youtube.com/watch?v=HXhNiNtHUNA · **ainda não baixado (rodar a coleta no Mac)**
@@ -38,20 +38,13 @@ Total: **51** · sem /diretoria: 7; 2026/participativa: 1; 2026/audiencia: 2; 20
 - 2021-03-24 · audiencia · Audiência Pública - 3ª Rodada de Disponibilidade de Áreas · https://www.youtube.com/watch?v=eF_ZYVqC5Q8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-12-16 · audiencia · Audiência Pública - 2º Edital de Disponibilidade de Áreas · https://www.youtube.com/watch?v=GNWFDrBtano · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-05-25 · diretoria · 6ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · https://www.youtube.com/watch?v=MGhW4TEoNZI · **transcrição sem fala útil (1135 caracteres; só música/ruído)**
-- 2020-05-08 · diretoria · 8ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · https://www.youtube.com/watch?v=dg4nZ5dOb-A · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-04-15 · diretoria · 15ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · https://www.youtube.com/watch?v=lfr2P7uMVeA · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-04-01 · diretoria · 14ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · https://www.youtube.com/watch?v=LrMidsf_ZrQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-07-22 · diretoria · 5ª Reunião Ordinária Pública da Diretoria Colegiada - ANM · https://www.youtube.com/watch?v=FXfLbXGSHSM · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-07-22 · diretoria · 3ª Reunião Ordinária Pública da Diretoria Colegiada da ANM (1) · https://www.youtube.com/watch?v=8A8BYpBAOPM · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-07-22 · diretoria · 2ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · https://www.youtube.com/watch?v=gI6Jtv59bYY · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-07-22 · diretoria · 1ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM (12/2018). · https://www.youtube.com/watch?v=sFSwaGLNeLM · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-06-24 · diretoria · 4ª Reunião Ordinária Pública - Diretoria Colegiada ANM · https://www.youtube.com/watch?v=cv5RTjpyQbM · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-02-19 · diretoria · 1ª Reunião Ordinária Pública da Diretoria Colegiada da ANM - 19/02/2019 - parte  · https://www.youtube.com/watch?v=GU7nGhRMt2k · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-02-19 · diretoria · 1ª Reunião Ordinária Pública da Diretoria Colegiada da ANM - 19/02/2019 - parte  · https://www.youtube.com/watch?v=5J8KRHW6hFQ · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · NA · https://www.youtube.com/watch?v=yR6GkbJfAUI · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · NA · https://www.youtube.com/watch?v=lRgOSOxqLMo · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · NA · https://www.youtube.com/watch?v=0hV4jkrqIgA · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · NA · https://www.youtube.com/watch?v=dpf6isne5HM · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · diretoria · NA · https://www.youtube.com/watch?v=cLAaJNsU5r8 · **ainda não baixado (rodar a coleta no Mac)**
+- 2019-07-22 · diretoria · 1ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM (12/2018). · https://www.youtube.com/watch?v=sFSwaGLNeLM · **transcrição sem fala útil (1339 caracteres; só música/ruído)**
+- 2019-02-19 · diretoria · 1ª Reunião Ordinária Pública da Diretoria Colegiada da ANM - 19/02/2019 - parte  · https://www.youtube.com/watch?v=GU7nGhRMt2k · **transcrição sem fala útil (294 caracteres; só música/ruído)**
+- 2019-02-19 · diretoria · 1ª Reunião Ordinária Pública da Diretoria Colegiada da ANM - 19/02/2019 - parte  · https://www.youtube.com/watch?v=5J8KRHW6hFQ · **transcrição sem fala útil (254 caracteres; só música/ruído)**
+- s/data · diretoria · NA · https://www.youtube.com/watch?v=yR6GkbJfAUI · **bloqueio temporário do YouTube (tentar de novo)**
+- s/data · diretoria · NA · https://www.youtube.com/watch?v=lRgOSOxqLMo · **bloqueio temporário do YouTube (tentar de novo)**
+- s/data · diretoria · NA · https://www.youtube.com/watch?v=0hV4jkrqIgA · **bloqueio temporário do YouTube (tentar de novo)**
+- s/data · diretoria · NA · https://www.youtube.com/watch?v=dpf6isne5HM · **bloqueio temporário do YouTube (tentar de novo)**
+- s/data · diretoria · NA · https://www.youtube.com/watch?v=cLAaJNsU5r8 · **bloqueio temporário do YouTube (tentar de novo)**
 - s/data · diretoria · NA · https://www.youtube.com/watch?v=I6qZ0ZgQJis · **ainda não baixado (rodar a coleta no Mac)**
 - s/data · diretoria · NA · https://www.youtube.com/watch?v=qRtmuUU4veQ · **ainda não baixado (rodar a coleta no Mac)**
