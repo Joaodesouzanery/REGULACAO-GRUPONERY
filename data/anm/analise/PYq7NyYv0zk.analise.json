@@ -1,0 +1,29 @@
+{
+  "meta": {"video_id": "PYq7NyYv0zk", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "27ª Extraordinária", "data": "2024-05-17", "formato": "videoconferência / híbrida",
+    "presidente_da_sessao": "Mauro Sousa (Diretor-Geral)",
+    "diretores_presentes": ["Mauro Sousa", "Guilherme Gomes", "Tasso Mendonça", "Roger Cabral", "Caio Seabra"],
+    "ausentes": [],
+    "observacoes": ["Item único: edital da 8ª rodada de disponibilidade de áreas (oferta pública e leilão eletrônico), relator Guilherme Gomes; aprovado por unanimidade.", "Mauro Sousa cita mais de 75.000 áreas disponíveis ao fim do ano anterior e ausência de leilões em 2023; ênfase na urgência.", "Tasso Mendonça votou sem câmera; menciona possível acordo com a B3 anunciado pelo diretor Caio e cooperação para automatizar leilões."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:01:36",
+      "processo": "48051.007646/2023-43 (número incerto na legenda)", "interessado": "ANM (Comissão de Procedimento de Disponibilidade); requerimento de Legaliza Direito Minerário Ambiental Ltda.",
+      "assunto": "Aprovação do Edital nº 1/2024 da 8ª rodada de disponibilidade de áreas, modalidade oferta pública e leilão eletrônico com proposta fechada, critérios de seleção de áreas e cronograma; indeferimento de pedido da Legaliza sobre regra de rumos verdadeiros",
+      "tema": ["outorga de títulos minerários", "disponibilidade de área / leilão de áreas", "regulação normativa", "participação social"],
+      "relator": "Guilherme Gomes", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Rito regulatório satisfatório (PFE, Audiência Pública 1/2024); aprova edital, critérios de seleção de áreas e cronograma, com urgência para publicar ainda em maio; pedido da Legaliza improcedente porque o edital já remete expressamente à Portaria de consolidação normativa 155.",
+      "votos": [
+        {"diretor": "Guilherme Gomes", "voto": "relator, aprova", "ts": "0:01:36", "justificativa": "rito regulatório alinhado às boas práticas; previsibilidade aos regulados; urgência no cronograma", "confianca": "alta"},
+        {"diretor": "Tasso Mendonça", "voto": "acompanha o relator, com louvor", "ts": "0:13:15", "justificativa": "retomada das ofertas públicas após descaminho; áreas em poder da União sem acesso a investidores; defende automação (B3, cooperação)", "tom": "entusiasmado (inferência)", "confianca": "alta"},
+        {"diretor": "Roger Cabral", "voto": "acompanha o relator, de acordo", "ts": "0:13:00", "justificativa": "endossa a urgência", "confianca": "media"},
+        {"diretor": "Caio Seabra", "voto": "acompanha o relator, com sugestão", "ts": "0:16:11", "justificativa": "sugere apresentação pública ao vivo do passo a passo do sistema de ofertas (SOPLE) para usuários", "confianca": "alta"},
+        {"diretor": "Mauro Sousa", "voto": "acompanha o relator", "ts": "0:18:07", "justificativa": "estoque de mais de 75 mil áreas; estimular o mercado e investimentos", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Transcrição com um único marcador de tempo; ts obtidos do JSON da legenda.", "Número do processo e documentos SEI conforme legenda automática, podem estar errados.", "O 'Dr Tao/táo' da legenda foi interpretado como Tasso Mendonça; Guilherme Gomes era diretor em 2024 (não está na lista de falantes inferidos)."]
+}
