@@ -1,0 +1,21 @@
+# Perfil analítico — Debora Puccini · tema: minerais_criticos
+
+**Amostra:** presente em 36 das 36 reuniões analisadas em que há registro de presença/ausência; 10 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+
+**Votos:** acompanha o relator 8 (100% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Como relator:** 1/2 relatorias aprovadas por unanimidade.
+
+**Temas (nº de itens em que votou / relatorias):** outorga_titulos 440/70; recursos_recursais 271/32; agregados_construcao 128/18; fiscalizacao_sancoes 109/15; cfem_arrecadacao 79/7; garimpo_pla 54/10; ambiental_social 43/5; regulacao_normativa 40/5; institucional 40/5; judicializacao 26/2; outros 23/5; barragens_seguranca 16/1; participacao_social 11/2; minerais_criticos 10/2
+
+## Evidências (reunião · item · voto · justificativa)
+
+- **RD 1ª Reunião Extraordinária Pública (2019-09-06)**, item 1 — Requerimento de concessão de lavra de 1981 com PAE desatualizado; pedido de prorrogação/alvará de pesquisa complementar; novo relatório de r · voto: *acompanha (inferido)* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=VY_K3xq1i1U&t=1059s) · resultado: aprovado (unanimidade inferida)
+- **RD 9ª Ordinária (2019-10-15)**, item 6 — Aprovação de relatório final de pesquisa de cobre com redução de área (Canaã dos Carajás, PA) · voto: *relatora, aprova* (relator, conf. alta) · [vídeo](https://www.youtube.com/watch?v=lqrKYTzyL0M&t=3542s) · resultado: aprovado
+- **RD 14ª Ordinária (2020-04-01)**, item 1.4.11 — Prorrogação de prazos por um ano (mudança de rota de beneficiamento; falta de autorização local para unidade industrial) · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=LrMidsf_ZrQ&t=10440s) · resultado: aprovado por unanimidade
+- **RD 15ª Ordinária (2020-04-15)**, item 1.5.a — Recurso contra decaimento parcial de alvará de pesquisa de grafite (Salto da Divisa/MG, Guaratinga/BA) por interferência com Parque Nacional · voto: *acompanha o relator* (acompanha, conf. media) · «lembrou plano de manejo e zoneamento da UC» · [vídeo](https://www.youtube.com/watch?v=lfr2P7uMVeA&t=4566s) · resultado: aprovado por unanimidade: autos devolvidos para instauração de procedi
+- **RD 15ª Ordinária (2020-04-15)**, item 1.4.d — Guia de utilização para 60 mil t de minério de manganês · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=lfr2P7uMVeA&t=9480s) · resultado: aprovado por unanimidade
+- **RD 16ª Ordinária (2020-05-20)**, item 1.3.12 — Prorrogação do prazo para requerer lavra · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=lbQcuLZy28Y&t=11240s) · resultado: aprovado por unanimidade
+- **RD 18ª Reunião Ordinária Pública (2020-07-22)**, item 1.2.1 — Retificação de voto anterior (reavaliação de reservas; tantalita, espodumênio/quartzo em Itinga-MG) — alvará de pesquisa complementar e enca · voto: *relator, aprova* (relator, conf. alta) · [vídeo](https://www.youtube.com/watch?v=rDHG2v6FECg&t=3900s) · resultado: aprovado por unanimidade
+- **RD 15ª Extraordinária (2020-12-18)**, item 3.1 — Outorga de 17 portarias de lavra (areia, cascalho, arenito, argila, basalto, calcário, charnockito, quartzito) e encaminhamento ao MME de 1  · voto: *de acordo em todos os itens* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=D6YYWHku_rk&t=4615s) · resultado: aprovado por unanimidade
+- **RD 15ª Extraordinária (2020-12-18)**, item 4.36 — Guia de utilização acima dos volumes do anexo V da Portaria 155 (300 mil t/ano de manganês, 100 mil t/ano de cobre, 100 mil t/ano de minério · voto: *de acordo* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=D6YYWHku_rk&t=8005s) · resultado: aprovado por unanimidade
+- **RD 32ª Ordinária (2021-09-23)**, item 3.2 — Emissão de guias de utilização acima do Anexo IV (calcário; manganês em projeto de 48,6 ha) · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=10196s) · resultado: aprova por unanimidade

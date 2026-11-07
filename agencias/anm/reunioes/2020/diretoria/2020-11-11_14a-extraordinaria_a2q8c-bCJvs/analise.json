@@ -1,0 +1,231 @@
+{
+ "meta": {
+  "video_id": "a2q8c-bCJvs",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "14ª Extraordinária",
+  "data": "2020-11-11",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Victor Bicca (Diretor-Geral)",
+  "diretores_presentes": [
+   "Victor Bicca",
+   "Tasso Mendonça",
+   "Eduardo Leão",
+   "Tomás Filho",
+   "Debora Puccini"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Data inferida: marcada na 13ª extraordinária para quarta 11/11; ao final se convoca a ordinária de 'quarta-feira dia 18' (upload em 12/11).",
+   "Principal debate da sessão: alcance do limite de 50 ha após a Lei 13.975/2020; Tomás isolado na emenda (4 a 1).",
+   "Informes: 1ª rodada de disponibilidade — 502 áreas, mais de 300 sem interessado, ~100 com um interessado, 82 para leilão até 25/11; Tomás relatou trabalho com a OCDE (peer review Chile e Austrália) para redução de fardo regulatório; Tasso anunciou resolução de declaração de recursos e reservas (padrão CBRR) no prelo.",
+   "Eduardo anunciou retificação da Res. 46 (prorrogação de prazos covid) para a ordinária de 18/11; Tasso, a resolução de cooperação com estados e municípios."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:02:39",
+   "processo": "48051.000163/2020 (voto 258/2020)",
+   "interessado": "ANM (regulação normativa)",
+   "assunto": "Regulamentação da Lei 13.975/2020 (que incluiu argilas para indústrias diversas, rochas ornamentais e de revestimento e carbonatos de cálcio e magnésio na Lei 6.567/78): alteração dos arts. 42 e 43 da Portaria 155/2016 — limite de 50 ha só para o regime de licenciamento; autorização/concessão seguem a Portaria 155 (rochas ornamentais até 1.000 ha); AIR dispensada por urgência (~26 mil processos sobrestados)",
+   "tema": [
+    "regulação normativa",
+    "agregados para construção civil",
+    "rochas ornamentais",
+    "outorga de títulos minerários",
+    "participação social"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado (4 votos com o relator; Tomás parcialmente favorável); emenda de Tomás rejeitada por 4 a 1",
+   "resumo_voto": "Relator: cabe à ANM fixar áreas máximas (art. 25 do Código); a Lei 6.567 hoje trata só do licenciamento (50 ha, art. 5º parágrafo único); tomada de subsídios 6/2020 não justificou redução geral de áreas; minuta da GPR/SRG com ajustes da PFE. Tomás propôs emenda para apenas revogar a alínea a do inciso II do art. 42 (sem incluir novas alíneas com limite de 50 ha) e suprimir o §3º, por isonomia entre substâncias do mesmo rol; Debora, Eduardo, Tasso e Bicca preferiram manter o texto e rever áreas máximas depois, junto com a tabela de substâncias. PFE (Maurício) alinhada ao relator.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, aprova a minuta com pequenas alterações",
+     "ts": "0:23:16",
+     "confianca": "alta",
+     "justificativa": "competência da ANM para áreas máximas; separação licenciamento x autorização/concessão; urgência"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "parcialmente favorável; propõe emenda (revogar alínea a do art. 42 II sem novas restrições; suprimir §3º); vencido na emenda",
+     "ts": "0:30:13",
+     "confianca": "alta",
+     "justificativa": "isonomia entre substâncias do rol da Lei 6.567; criar restrição exige processo regulatório próprio; redução de fardo regulatório e ambiente de negócios",
+     "tom": "argumentativo"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator; contra a emenda",
+     "ts": "1:10:56",
+     "confianca": "alta",
+     "justificativa": "espírito da Lei 6.567 é agregados da construção civil; manter status quo e rever áreas em resolução específica com a tabela de substâncias, para evitar monopólio e especulação"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator; contra a emenda",
+     "ts": "1:11:05",
+     "confianca": "alta",
+     "justificativa": "mais estudo; resolver junto com a tabela de substâncias"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator (votou antes); contra a emenda, adere às palavras de Debora",
+     "ts": "1:24:08",
+     "confianca": "alta",
+     "justificativa": "consenso no mérito, divergência só no momento"
+    }
+   ]
+  },
+  {
+   "id": "1-emenda",
+   "ts": "1:20:40",
+   "processo": "48051.000163/2020",
+   "interessado": "ANM",
+   "assunto": "Emenda de Tomás Filho à minuta (revogação simples da alínea a do art. 42 II e supressão do §3º)",
+   "tema": [
+    "regulação normativa",
+    "rochas ornamentais",
+    "agregados para construção civil"
+   ],
+   "relator": "Tomás Filho",
+   "resultado": "rejeitada por 4 a 1",
+   "resumo_voto": "Maioria entendeu que a alínea a não cria nova restrição e que ampliações de área devem vir em resolução própria.",
+   "votos": [
+    {
+     "diretor": "Tomás Filho",
+     "voto": "autor da emenda, favorável",
+     "ts": "1:19:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "contra a emenda (mantém texto original)",
+     "ts": "1:20:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "contra a emenda",
+     "ts": "1:21:47",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "contra a emenda",
+     "ts": "1:23:35",
+     "confianca": "alta",
+     "justificativa": "não vê restrição nova nem ganho"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "contra a emenda",
+     "ts": "1:24:08",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "extra-1",
+   "ts": "1:25:04",
+   "processo": "não se aplica",
+   "interessado": "servidores do GT da Lei 13.975 (11 servidores de 10 estados)",
+   "assunto": "Menção de agradecimento na ficha funcional dos servidores do grupo técnico (proposta de Debora Puccini)",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Debora Puccini",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Reconhecimento a servidores que trabalharam inclusive em fins de semana.",
+   "votos": [
+    {
+     "diretor": "Debora Puccini",
+     "voto": "propõe",
+     "ts": "1:25:04",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "aprova (sem objeção dos demais)",
+     "ts": "1:27:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "sem objeção",
+     "ts": "1:27:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "sem objeção",
+     "ts": "1:27:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "sem objeção",
+     "ts": "1:27:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:30:23",
+   "processo": "6 processos",
+   "interessado": "Britagem Posa (?) Ltda (SC); JK Comércio de Materiais para Construção Ltda (MG); Mineração Serra do Carimbado Ltda (MG, quartzito); Antônio Rabelo Filho ME (MG); Jazida Soares Ltda (SC); Cerâmica Belém (SC, argila industrial)",
+   "assunto": "Outorga de seis portarias de lavra (cascalho, areia, quartzito para revestimento, argila industrial)",
+   "tema": [
+    "outorga de títulos minerários",
+    "portaria de lavra",
+    "agregados para construção civil",
+    "plano Lavra"
+   ],
+   "relator": "Eduardo Leão",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprovados pelas superintendências e regionais, licenças ambientais conformes; prioridade do plano Lavra.",
+   "votos": [
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "relator, outorga",
+     "ts": "1:32:18",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "vota com o relator",
+     "ts": "1:32:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "vota com o relator",
+     "ts": "1:32:35",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "vota integralmente com o relator",
+     "ts": "1:32:42",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "vota com o relator",
+     "ts": "1:32:50",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "ts do voto de Tomás aproximado (fala longa a partir de ~0:31).",
+  "Nomes de empresas do item 2 sujeitos a erro da legenda; números de processo não lidos.",
+  "Item 'extra-1' é deliberação administrativa sem número de pauta."
+ ]
+}

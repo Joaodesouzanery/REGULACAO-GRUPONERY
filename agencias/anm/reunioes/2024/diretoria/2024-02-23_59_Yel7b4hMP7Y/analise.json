@@ -1,0 +1,729 @@
+{
+ "meta": {
+  "video_id": "Yel7b4hMP7Y",
+  "fonte": "legenda automática do YouTube; falantes inferidos (pouco confiáveis); ts = tempo do vídeo; ts de quem só acompanha são aproximados; vídeo é a parte 1",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "59",
+  "data": "2024-02-23",
+  "formato": "reunião ordinária pública (videoconferência; parte 1 da gravação)",
+  "presidente_da_sessao": "Mauro Sousa (Diretor-Geral); Roger Cabral presidiu durante os itens do DG",
+  "diretores_presentes": [
+   "Mauro Sousa",
+   "Guilherme Gomes",
+   "Tasso Mendonça",
+   "Roger Cabral",
+   "Caio Seabra"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Abertura diz «sexta-feira, 23 de fevereiro de 2024»; o título do vídeo traz 2024-02-26 (provável data de publicação).",
+   "Secretário-geral: Dr. Felipe; procurador-chefe presente (Dr. Thiago).",
+   "Retirados no início: 2.2.1 e 2.3.1 (Guilherme; vista ao titular não concedida), 3.2.1-3.2.2 (Tasso, terras indígenas, parecer novo), 3.7.2-3.7.3, 5.6.1-5.6.4 (Caio), 4.5.1 (Roger).",
+   "Divergências: 1.3.1 (Mauro vencido; Guilherme, Tasso, Caio e Roger mantêm inabilitação por falta de documento do signatário); 1.9.1-1.9.3 (Mauro vencido em voto-vista).",
+   "2.4.1: longo debate Guilherme x Mauro sobre Parecer 525/2010 (decaimento em UC de proteção integral); consenso pela proposta de Tasso.",
+   "Diretores comentam que parte da sessão não estava sendo transmitida ao vivo.",
+   "Gravação termina durante o voto de Tasso no 3.3.1."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1.1",
+   "ts": "0:06:09",
+   "processo": "48051.001369/2024 (grafia incerta)",
+   "interessado": "ANM",
+   "assunto": "Resolução que atualiza pelo IPCA (4,62%) os valores de emolumentos, TAH, multas e demais serviços da ANM a partir de 1/3/2024 (não se confunde com a revisão da Resolução 122)",
+   "tema": [
+    "regulação normativa (resolução)",
+    "CFEM / arrecadação / TAH"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Art. 80 do Decreto 9.406/2018 manda reajuste anual pelo IPCA; PFE sem óbice, sugestão redacional incorporada.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, aprova",
+     "ts": "0:11:30",
+     "confianca": "alta",
+     "justificativa": "cumprimento do art. 80 do regulamento do Código"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "0:12:17",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "0:12:19",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "0:12:21",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator (presidia)",
+     "ts": "0:12:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.1",
+   "ts": "0:14:14",
+   "processo": "48051.000714/2023 (grafia incerta)",
+   "interessado": "ANM; municípios de Ferreira Gomes-AP, Laranjal do Jari-AP; Piatã-BA e Santa Bárbara de Goiás-GO (Dra. Fernanda de Paula em sustentação oral)",
+   "assunto": "Referendo de decisão ad referendum do Diretor-Geral que negou recursos sobre a lista de municípios afetados por estruturas de mineração (CFEM, ciclo 2023-2024; Resolução 143/2022 e Decreto 11.659/2023)",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "municípios afetados",
+    "institucional",
+    "recursos administrativos"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "pedido de vista (Caio Seabra); deliberação sobrestada",
+   "resumo_voto": "Relator confirma a decisão e não conhece petições de pagamento retroativo e de inclusão como limítrofe. Sustentação pede o Cadastro Nacional de Estruturas de Mineração (declarações do RAL incompletas).",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, confirma a decisão (nega recursos)",
+     "ts": "0:29:00",
+     "confianca": "alta",
+     "justificativa": "prazo exíguo para operacionalizar ainda em 2023; ciclos passados encerrados; limítrofe apurado com dados do IBGE"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "questiona ausência dos valores por município nos autos",
+     "ts": "0:29:50",
+     "confianca": "media",
+     "justificativa": "quis saber quanto cada município recebe"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "pede vista",
+     "ts": "0:30:33",
+     "confianca": "alta",
+     "justificativa": "esclarecer as questões levantadas por Guilherme; decisão ad referendum já produziu efeitos"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "não votou (vista)",
+     "ts": "0:31:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "não votou (vista; presidia)",
+     "ts": "0:31:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.3.1",
+   "ts": "0:32:09",
+   "processo": "27203.001186/1940 (grafia incerta; edital 639/2015 DNPM-MG)",
+   "interessado": "Rio Abaeté Minerais Ltda. (Dra. Amanda Silvano em sustentação oral); Vale S.A.; Embramine (Empresa Brasileira de Perfurações e Sondagens); Gilberto Transportes Ltda.",
+   "assunto": "Recursos contra inabilitação em procedimento de disponibilidade por falta de documentos que comprovem poderes do signatário",
+   "tema": [
+    "outorga de títulos minerários",
+    "disponibilidade de área / leilão de áreas",
+    "recursos administrativos"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovada por maioria a divergência de Guilherme Gomes, complementada por Tasso Mendonça (negado provimento; mantida a inabilitação); relator Mauro Sousa vencido",
+   "resumo_voto": "Mauro, com a PFE, queria anular a inabilitação: Portaria 268/2008 não exige tais documentos, Lei 8.666 não se aplica subsidiariamente, Lei de Liberdade Econômica. Maioria seguiu as comissões técnicas.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, dá provimento aos recursos; vencido",
+     "ts": "0:54:41",
+     "confianca": "alta",
+     "justificativa": "exigência não prevista no edital nem na portaria; PFE (notas 148 e 667/2023); Lei 13.874/2019; servidores técnicos rebaixados a agentes cartoriais; critica incoerência com exigências em cessões de direitos",
+     "tom": "crítico à posição majoritária"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "diverge, nega provimento",
+     "ts": "0:55:11",
+     "confianca": "alta",
+     "justificativa": "coerente com seus votos em disponibilidades da modalidade antiga; segue análises técnicas da comissão julgadora e da SOD"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "diverge (complementa Guilherme)",
+     "ts": "0:56:02",
+     "confianca": "alta",
+     "justificativa": "Lei 8.666 recepcionada para alienação de bens minerais; portaria exige procuração devidamente formalizada; sistema concorrencial premia quem foi diligente",
+     "tom": "enfático"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha a divergência",
+     "ts": "0:57:45",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha a divergência",
+     "ts": "0:57:55",
+     "confianca": "alta",
+     "justificativa": "concorda com Tasso"
+    }
+   ]
+  },
+  {
+   "id": "4.1.1-4.1.4",
+   "ts": "1:04:49",
+   "processo": "946.456/2014 e outros 3 (processo minerário 002.627/1934)",
+   "interessado": "CCB Cimentos do Brasil S.A. / InterCement (Dr. João Raso em sustentação oral)",
+   "assunto": "Recursos contra cobrança de CFEM 1991–2004 (calcário e argila; cerca de R$ 2 milhões no primeiro): prescrição intercorrente, decadência, incidência de IPI na farinha, juros e Selic",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "aprovado por unanimidade (negado provimento)",
+   "resumo_voto": "Parecer 57/2023 da Cocon: não há prescrição intercorrente em receitas patrimoniais (Parecer 228/2016), decadência já reconhecida até 1999, ponto de incidência antes do IPI sem prova documental; Selic pela Lei 11.941/2009.",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, nega provimento",
+     "ts": "1:22:21",
+     "confianca": "alta",
+     "justificativa": "argumentos refutados pelo Parecer 57/2023; os quatro processos têm a mesma fundamentação"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "1:23:05",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:23:10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "1:23:14",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha",
+     "ts": "1:23:18",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.4.1",
+   "ts": "1:25:25",
+   "processo": "48068.608xxx/2016 (número incerto)",
+   "interessado": "Alir Vieira da Silva (grafia incerta)",
+   "assunto": "Recurso contra não conhecimento de pedido de prorrogação de alvará de pesquisa (protocolo um dia após o prazo de 60 dias)",
+   "tema": [
+    "outorga de títulos minerários",
+    "recursos administrativos"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovado por unanimidade (provimento)",
+   "resumo_voto": "Resolução 46/2020 (covid) estendeu o vencimento para 22/11/2021, tornando tempestivo o pedido.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator",
+     "ts": "1:25:25",
+     "confianca": "alta",
+     "justificativa": "legalidade e autotutela"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "1:47:04",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:47:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "1:47:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "1:48:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.5.1",
+   "ts": "1:27:37",
+   "processo": "48415.846127/2016 (grafia incerta)",
+   "interessado": "Sérgio Ricardo Silva Martins",
+   "assunto": "Recurso contra indeferimento de requerimento de pesquisa de areia e argila (292,6 ha) por suposto uso de substância extra para ampliar a área",
+   "tema": [
+    "outorga de títulos minerários",
+    "recursos administrativos",
+    "agregados para construção civil"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovado por unanimidade (provimento)",
+   "resumo_voto": "Presunção de boa-fé; técnico devia examinar o plano de pesquisa.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator",
+     "ts": "1:27:37",
+     "confianca": "alta",
+     "justificativa": "não se presume conduta ardilosa sem materialidade"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "1:47:04",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:47:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "1:47:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "1:48:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.6.1",
+   "ts": "1:29:29",
+   "processo": "48406.860158/2013 (grafia incerta)",
+   "interessado": "Luís Fernando C. de Aguiar",
+   "assunto": "Recurso contra não aprovação de relatório final de pesquisa (incongruências técnicas)",
+   "tema": [
+    "outorga de títulos minerários",
+    "recursos administrativos"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovado por unanimidade (negado provimento)",
+   "resumo_voto": "Falhas de mapa, topografia e cubagem não se sanam por exigência.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator",
+     "ts": "1:29:29",
+     "confianca": "alta",
+     "justificativa": "insuficiência dos trabalhos"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "1:47:04",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:47:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "1:47:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "1:48:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.7.1",
+   "ts": "1:31:25",
+   "processo": "48054.831622/2020 (grafia incerta)",
+   "interessado": "Abel Polino Transportes e Extração de Areia (grafia incerta)",
+   "assunto": "Recurso contra indeferimento de requerimento de licenciamento (área de 0,13 ha; exigências de viabilidade econômica)",
+   "tema": [
+    "outorga de títulos minerários",
+    "recursos administrativos",
+    "agregados para construção civil"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovado por unanimidade (provimento)",
+   "resumo_voto": "Exigência de viabilidade econômica é própria da autorização de pesquisa; presumir invasão de áreas vizinhas é condenar sem crime.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator",
+     "ts": "1:31:25",
+     "confianca": "alta",
+     "justificativa": "presunção de boa-fé"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "1:47:04",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:47:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "1:47:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "1:48:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.8.1",
+   "ts": "1:33:36",
+   "processo": "48062.871437/... (número incerto)",
+   "interessado": "não legível (sócio Amorim Barreto; grafia incerta)",
+   "assunto": "Recurso contra indeferimento de plano de registro de licença por falta de licença específica municipal (licença ambiental unificada não a substitui)",
+   "tema": [
+    "outorga de títulos minerários",
+    "recursos administrativos",
+    "agregados para construção civil"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovado por unanimidade (negado provimento)",
+   "resumo_voto": "Licença específica (Lei 6.567/1978) e licença ambiental têm finalidades distintas.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator",
+     "ts": "1:33:36",
+     "confianca": "alta",
+     "justificativa": "acolhe manifestação técnica"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "1:47:04",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:47:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "1:47:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "1:48:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.9.1-1.9.3",
+   "ts": "1:36:04",
+   "processo": "27203.830129/2005; 27205.855959/2001; 48403.832325/2005 (grafia incerta)",
+   "interessado": "Aparecida Jandira de Andrade Barbosa; Jair ... (nome incerto); Florália Transportes Ltda. (grafia incerta)",
+   "assunto": "Voto-vista: recursos contra indeferimento de prorrogação de registro de licença sem licença municipal vigente",
+   "tema": [
+    "outorga de títulos minerários",
+    "recursos administrativos",
+    "agregados para construção civil"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "aprovado por maioria o voto do relator original Caio Seabra (provimento, prorrogar os registros); Mauro Sousa (voto-vista) vencido",
+   "resumo_voto": "Mauro divergiu: conhecer dois recursos e não conhecer o intempestivo, negar provimento por falta de licença municipal e ambiental (norma cogente). Maioria manteve o voto original de razoabilidade.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "voto-vista: diverge, nega provimento; vencido",
+     "ts": "1:46:09",
+     "confianca": "alta",
+     "justificativa": "licença municipal fora do prazo ou inexistente leva ao indeferimento; acessório segue o principal; ANM não pode obrigar município"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator original",
+     "ts": "1:47:04",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator original",
+     "ts": "1:47:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator original",
+     "ts": "1:47:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator original, mantém o voto",
+     "ts": "1:47:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.1",
+   "ts": "1:51:14",
+   "processo": "860.910/2002 (edital de disponibilidade 42/2015)",
+   "interessado": "Bioforte Mineração e Empreendimentos (recorrente); Luiz Aílton Nunes (vencedor); Cristian Alves Martins",
+   "assunto": "Recurso contra resultado de procedimento de disponibilidade",
+   "tema": [
+    "outorga de títulos minerários",
+    "disponibilidade de área / leilão de áreas",
+    "recursos administrativos",
+    "judicialização"
+   ],
+   "relator": "Guilherme Gomes",
+   "resultado": "aprovado por unanimidade (negado provimento)",
+   "resumo_voto": "Parecer PFE 162: alegações desabonadoras extrapolam o edital; área retificada por decisão judicial de cessão.",
+   "votos": [
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "relator, nega provimento",
+     "ts": "1:54:40",
+     "confianca": "alta",
+     "justificativa": "acompanha SOD e PFE"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "2:34:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "2:34:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "2:34:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "2:34:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.1",
+   "ts": "1:54:54",
+   "processo": "830.291/1989 (alvará 6540/2002)",
+   "interessado": "Mineração Belocal Ltda. (sustentação oral inscrita não ocorreu)",
+   "assunto": "Recurso contra não aprovação de relatório final de pesquisa positivo para dolomito (Santa Bárbara-MG) em área 86% sobreposta ao Parque Nacional da Serra do Gandarela; decaimento parcial pendente",
+   "tema": [
+    "outorga de títulos minerários",
+    "ambiental / fechamento de mina",
+    "unidades de conservação",
+    "recursos administrativos"
+   ],
+   "relator": "Guilherme Gomes",
+   "resultado": "aprovado por unanimidade após reforma do voto do relator: mantida a não aprovação do relatório e prosseguimento do decaimento parcial (nota técnica 02B / Parecer 525/2010)",
+   "resumo_voto": "Guilherme propunha anular de ofício a negativa (ato posterior à criação do parque) e decair; após longo debate com Mauro e Tasso, adotou a proposta de Tasso: manter a negativa, decair a parte no parque e mandar à disponibilidade os cerca de 6 ha remanescentes.",
+   "votos": [
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "relator, reformou o voto: mantém negativa e decaimento parcial",
+     "ts": "2:32:50",
+     "confianca": "alta",
+     "justificativa": "centenas de atos praticados em processos que deveriam ter decaído pelo Parecer 525; inércia da ANM afronta segurança jurídica e prevenção ambiental; indenização, se houver, é judicial",
+     "tom": "enfático no debate"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha a solução final",
+     "ts": "2:34:00",
+     "confianca": "alta",
+     "justificativa": "negativa do relatório e decaimento são questões distintas; sem pesquisa consistente não há título nem indenização; indenização seria do ICMBio",
+     "tom": "debate acalorado"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "propõe manter a negativa e decair só a área do parque",
+     "ts": "2:31:41",
+     "confianca": "alta",
+     "justificativa": "a parte fora do parque segue para disponibilidade; aprovar relatório é direito da administração"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha Tasso",
+     "ts": "2:33:20",
+     "confianca": "alta",
+     "justificativa": "parte sem parque segue a legislação e vai à disponibilidade"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator e Tasso",
+     "ts": "2:34:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.1.1",
+   "ts": "2:35:50",
+   "processo": "896.227/1996 (cessionários 896.3xx/2003 e 896.514/2003)",
+   "interessado": "Douglas Bragas Leal de Andrade (grafia incerta)",
+   "assunto": "Segundo voto-vista: recurso contra não aprovação de relatório de pesquisa (areia, ES) e negativa de prorrogação de exigência; cessão parcial pendente há 21 anos e mandado de segurança",
+   "tema": [
+    "outorga de títulos minerários",
+    "recursos administrativos",
+    "judicialização"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "aprovado por unanimidade o voto-vista de Tasso Mendonça (provimento por motivação admissível da segunda prorrogação)",
+   "resumo_voto": "Original de Caio (CS 18/2023) deu provimento por razoabilidade; vista de Mauro (MS 176) negou; Tasso mostrou que o laboratório recusou a primeira amostra e o titular nunca perdeu prazo. Todos, inclusive Caio e Mauro, aderiram.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "segundo voto-vista: dá provimento",
+     "ts": "2:55:30",
+     "confianca": "alta",
+     "justificativa": "titular cumpriu 9 de 11 exigências, nunca perdeu prazo em 22 anos; laboratório recusou amostra com argila; IN 1/1983 permite renovar exigência"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o voto-vista de Tasso",
+     "ts": "2:56:44",
+     "confianca": "alta",
+     "justificativa": "houve diligência; quem negou não leu o processo"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o voto-vista de Tasso",
+     "ts": "2:58:07",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator original, modifica e acompanha Tasso",
+     "ts": "2:58:16",
+     "confianca": "alta",
+     "justificativa": "não tinha ciência do problema do laboratório"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "primeiro voto-vista, reforma e acompanha Tasso",
+     "ts": "2:58:50",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3.3.1",
+   "ts": "2:59:30",
+   "processo": "871.718/2023 e 871.716/2023",
+   "interessado": "Denv... Mineração (grafia incerta)",
+   "assunto": "Recurso contra indeferimento de requerimentos de pesquisa por sobreposição total ao Parque Nacional do Boqueirão da Onça (unidade de proteção integral)",
+   "tema": [
+    "outorga de títulos minerários",
+    "unidades de conservação",
+    "ambiental / fechamento de mina",
+    "recursos administrativos"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "pedido de vista (Mauro Sousa) registrado na parte 2 (62SVN9LlBoM); deliberação sobrestada",
+   "resumo_voto": "Relator nega provimento com base na Lei 9.985/2000, mas registra discordância pessoal da proibição de conhecer o subsolo.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, nega provimento",
+     "ts": "3:02:27",
+     "confianca": "alta",
+     "justificativa": "Lei do SNUC proíbe; pessoalmente acha que a lei deveria permitir alguma pesquisa sem guia nem trincheiras",
+     "tom": "ressalva pessoal"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "2.2.1",
+   "motivo": "retirado por Guilherme Gomes (matéria regulatória)"
+  },
+  {
+   "id": "2.3.1",
+   "motivo": "retirado por Guilherme Gomes (PLG; vista ao titular não concedida)"
+  },
+  {
+   "id": "3.2.1-3.2.2",
+   "motivo": "retirado por Tasso Mendonça (bloqueio em terras indígenas/UC; parecer novo)"
+  },
+  {
+   "id": "3.7.2-3.7.3",
+   "motivo": "retirados por Tasso Mendonça"
+  },
+  {
+   "id": "5.6.1-5.6.4",
+   "motivo": "retirados por Caio Seabra"
+  },
+  {
+   "id": "4.5.1",
+   "motivo": "retirado por Roger Cabral"
+  }
+ ],
+ "limites_da_analise": [
+  "Este vídeo é só a parte 1: termina no voto do 3.3.1; votação do 3.3.1, demais itens de Tasso, todos os itens de Caio (5.x) e restantes de Roger (4.x) não estão neste vídeo (procurar parte 2).",
+  "Legenda automática: números de processos e nomes distorcidos (grafia incerta).",
+  "Numeração dos itens retirados de Tasso (3.2 e 37.2/37.3) confusa na legenda; registrado como 3.2.1-3.2.2 e 3.7.2-3.7.3.",
+  "Em 1.9.1-1.9.3 a legenda mostra Tasso e Roger acompanhando o relator original com exceções mal transcritas; resultado conforme proclamação (por maioria, Mauro vencido).",
+  "Guilherme Gomes era diretor em 2024 (prompt o lista como ex-diretor).",
+  "ts de votos de seguidores aproximados."
+ ]
+}

@@ -1,0 +1,18 @@
+# Perfil analítico — Tomás Filho · tema: participacao_social
+
+**Amostra:** presente em 15 das 17 reuniões analisadas em que há registro de presença/ausência; 5 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+
+**Votos:** acompanha o relator 0 (0% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 1 · outros/não captado 2
+**Como relator:** 1/2 relatorias aprovadas por unanimidade.
+
+**Temas (nº de itens em que votou / relatorias):** outorga_titulos 180/36; recursos_recursais 108/22; agregados_construcao 76/5; fiscalizacao_sancoes 57/9; garimpo_pla 30/8; cfem_arrecadacao 28/8; ambiental_social 23/7; regulacao_normativa 19/3; institucional 16/3; outros 12/4; judicializacao 10/0; barragens_seguranca 8/0; participacao_social 5/2; minerais_criticos 5/1
+**Argumentos recorrentes nas justificativas registradas:** participação social (1)
+**Tom (inferência da leitura, não métrica):** argumentativo
+
+## Evidências (reunião · item · voto · justificativa)
+
+- **RD 15ª Ordinária (2020-04-15)**, item 1.5.6 — Recurso contra indeferimento de renovação de PLG por falta de licença ambiental; memorial da advogada Cíntia Coelho invoca TAC com o Estado  · voto: *relator, conhece e nega provimento* (relator, conf. alta) · «quarta manifestação após decisões finais do DG do DNPM; TAC de 05/12/2019 é posterior; relativizar decisões finais gera insegurança e precedente» · [vídeo](https://www.youtube.com/watch?v=lfr2P7uMVeA&t=5400s) · resultado: pedido de vista de Tasso Mendonça
+- **RD 9ª Reunião Extraordinária Pública (2020-05-27)**, item 5.1 — Revisão normativa dos arts. 102 a 122 da Portaria DNPM 155/2016 (guia de utilização): emissão como ato vinculado, eficácia condicionada à li · voto: *relator, aprova a revisão normativa* (relator, conf. alta) · «reduzir subjetividade, desburocratizar e acelerar retomada pós-covid; licença ambiental continua obrigatória, mas como condição suspensiva de eficácia da guia; GU não é título, o título é o alvará» · [vídeo](https://www.youtube.com/watch?v=XgYPPYFL8T0&t=440s) · resultado: aprovado por unanimidade
+- **RD 12ª Reunião Extraordinária Pública (2020-08-31)**, item 1 — Aprovação do edital da 1ª oferta pública de áreas em disponibilidade (Res. ANM 24/2020; consulta pública 2/2020), com leilão eletrônico · voto: *aprova na integralidade o relatório* (outro, conf. alta) · «classificação de áreas em editais paralelos em estudo; taxa de participação pode ser imposta futuramente; disponibilidade não isenta de taxas e emolumentos» · [vídeo](https://www.youtube.com/watch?v=9mdYU4s88zI&t=2703s) · resultado: aprovado por unanimidade, com ajustes
+- **RD 21ª Ordinária (2020-10-21)**, item 1.9 — Requerimento de bloqueio de área em meio à malha urbana · voto: *vota com o relator em todos os itens (conduzindo)* (outro, conf. alta) · [vídeo](https://www.youtube.com/watch?v=YZuPzUTCFK0&t=4842s) · resultado: indeferido (unanimidade)
+- **RD 14ª Extraordinária (2020-11-11)**, item 1 — Regulamentação da Lei 13.975/2020 (que incluiu argilas para indústrias diversas, rochas ornamentais e de revestimento e carbonatos de cálcio · voto: *parcialmente favorável; propõe emenda (revogar alínea a do art. 42 II sem novas restrições; suprimir §3º); vencido na emenda* (vencido, conf. alta) · «isonomia entre substâncias do rol da Lei 6.567; criar restrição exige processo regulatório próprio; redução de fardo regulatório e ambiente de negócios» · [vídeo](https://www.youtube.com/watch?v=a2q8c-bCJvs&t=1813s) · resultado: aprovado (4 votos com o relator; Tomás parcialmente favorável); emenda

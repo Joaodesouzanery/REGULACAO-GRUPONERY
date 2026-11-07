@@ -6,145 +6,28 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 |---|---|---|---|---|
 | sem data | diretoria | 7 | 0 | 0 |
 | 2026 | participativa | 1 | 0 | 0 |
-| 2026 | diretoria | 11 | 11 | 0 |
+| 2026 | diretoria | 11 | 11 | 11 |
 | 2026 | audiencia | 2 | 0 | 0 |
 | 2025 | participativa | 2 | 0 | 0 |
-| 2025 | diretoria | 14 | 14 | 0 |
+| 2025 | diretoria | 14 | 14 | 14 |
 | 2025 | audiencia | 2 | 0 | 0 |
 | 2024 | participativa | 1 | 0 | 0 |
-| 2024 | diretoria | 20 | 20 | 0 |
+| 2024 | diretoria | 20 | 20 | 20 |
 | 2024 | audiencia | 3 | 0 | 0 |
 | 2023 | participativa | 7 | 0 | 0 |
-| 2023 | diretoria | 12 | 12 | 0 |
+| 2023 | diretoria | 12 | 12 | 12 |
 | 2023 | audiencia | 3 | 0 | 0 |
 | 2022 | participativa | 1 | 0 | 0 |
-| 2022 | diretoria | 16 | 16 | 0 |
+| 2022 | diretoria | 16 | 16 | 16 |
 | 2022 | audiencia | 3 | 0 | 0 |
-| 2021 | diretoria | 17 | 16 | 0 |
+| 2021 | diretoria | 17 | 16 | 16 |
 | 2021 | audiencia | 6 | 0 | 0 |
-| 2020 | diretoria | 22 | 22 | 0 |
+| 2020 | diretoria | 22 | 22 | 21 |
 | 2020 | audiencia | 1 | 0 | 0 |
-| 2019 | diretoria | 7 | 7 | 0 |
+| 2019 | diretoria | 7 | 7 | 7 |
 
 ## Reuniões de diretoria transcritas e ainda sem análise
 
-- 2026-11-04 · 90ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `yDyiIP9UJiM`
-- 2026-10-15 · Launch of the Critical and Strategic Minerals Portal · `CdY9mP5Bcx4`
-- 2026-09-30 · 89ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `hZP6lChllO8`
-- 2026-08-19 · 88ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `hTNOHwVJjN0`
-- 2026-07-29 · 87ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `WujJjvjzafI`
-- 2026-06-30 · 86ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `1-hle_rf12Y`
-- 2026-05-27 · 85ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `cJ4QPb_jVZs`
-- 2026-04-29 · 84ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `z3tOX4s9Y_0`
-- 2026-03-25 · 83ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `iiNV2edIFTw`
-- 2026-02-23 · 82ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `XtihHWOssfU`
-- 2026-01-28 · 81ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `HZSw38UR_ZE`
-- 2025-12-17 · 80ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `47nlOlfELSQ`
-- 2025-11-26 · 79ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `uTZCHK8PV6E`
-- 2025-11-19 · 34ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `D7uaOkpVFTI`
-- 2025-10-24 · 78ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `fjfNiebo4Ok`
-- 2025-10-15 · 33ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `q5ChZa95GEI`
-- 2025-09-29 · 77ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `7EbKt320oyU`
-- 2025-08-22 · 76ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `-5vYB_XFzgY`
-- 2025-07-31 · 75ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `NRrkimmQohg`
-- 2025-07-16 · 32ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `Ibgk84neu6g`
-- 2025-05-26 · 74ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `v18z8zLNXFk`
-- 2025-04-23 · 73ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `ll1hSALLcFg`
-- 2025-03-26 · 72ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `DMEFirMUjdI`
-- 2025-02-25 · 71ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `2Aq6IIxfqu0`
-- 2025-01-30 · 70ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `hETIUYUx-48`
-- 2024-12-18 · 69ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `PPaw9lNsgZo`
-- 2024-12-06 · 31ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `oyWHiNXpYkE`
-- 2024-12-02 · 68ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `gcl-4SBqMu0`
-- 2024-11-23 · 30ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `x_q7U7MZEZQ`
-- 2024-11-08 · 29ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `GVCVhAj980Y`
-- 2024-11-05 · 67ª Reunião Ordinária Pública da Diretoria Colegiada da ANM - Parte 01 · `chQHqLzOYLM`
-- 2024-11-04 · 67ª Reunião Ordinária Pública da Diretoria Colegiada da ANM - Parte 02 · `EpUH2BErxWU`
-- 2024-10-07 · 66ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `R2yoGhSB0kM`
-- 2024-08-26 · 65ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `GM7THmHd4zU`
-- 2024-07-31 · 64ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `_IeZwId2D0w`
-- 2024-07-08 · 63ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `8Fj3c7cQucw`
-- 2024-06-17 · 28th Extraordinary Public Meeting of the Board of Directors 20240617 0 · `LISmtK_TpXw`
-- 2024-05-28 · 62ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `FMURCcvbgzk`
-- 2024-05-17 · 27ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `PYq7NyYv0zk`
-- 2024-04-30 · 61ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `GN7qzOa9SPg`
-- 2024-04-16 · 26ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `YVwESJZD0sk`
-- 2024-03-27 · 60ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `QfacqmQ-2WI`
-- 2024-02-26 · 59ª Reunião Ordinária Pública da Diretoria Colegiada da ANM - parte 2 · `62SVN9LlBoM`
-- 2024-02-26 · 59ª Reunião Ordinária Pública da Diretoria Colegiada da ANM - parte 1 · `Yel7b4hMP7Y`
-- 2024-01-25 · 58ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `96WWdF-Y2IA`
-- 2023-12-08 · 57ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `AG_dkOZrjSA`
-- 2023-11-23 · 56ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `0Ck4xPkfL6Q`
-- 2023-10-31 · 55ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `JhJ9GBR6aWE`
-- 2023-10-12 · 54ª Reunião Ordinária Pública da Diretoria Colegiada da ANM - parte 2 · `JlETWgT1mkk`
-- 2023-10-11 · 54ª Reunião Ordinária Pública da Diretoria Colegiada da ANM - parte 1 · `kv-mpApDoJU`
-- 2023-09-05 · 53ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `S2GK8_S3FH4`
-- 2023-07-26 · 52ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `IwnZqOz8Rz8`
-- 2023-07-08 · 51ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `nqVyPAM43j0`
-- 2023-05-11 · 50ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `KLQlh87VtiU`
-- 2023-03-28 · 49ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `OKRmfILwpWY`
-- 2023-02-23 · 48ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `OebsMtBiF7o`
-- 2023-01-25 · 47ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `UfKJpb9ZVZA`
-- 2022-12-14 · 46ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `cXfuSmk0BVs`
-- 2022-11-29 · 24ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `dSqoG-5ZkDo`
-- 2022-11-24 · 45ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `M-AvUArsvls`
-- 2022-10-20 · 44ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `MeEMbwfvLJo`
-- 2022-09-01 · 43ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `Zze8E9AIy2I`
-- 2022-07-28 · 42ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `qNoGxBv5WKY`
-- 2022-06-30 · 41ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `nhJ0ZIPshI4`
-- 2022-05-26 · 40ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `SbPNijlkM18`
-- 2022-04-28 · 39ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `Y-jJDsaPHKU`
-- 2022-04-14 · 23ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `kRdgQR2qanY`
-- 2022-03-31 · 38ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `dGwZYiw_lh0`
-- 2022-03-17 · 22ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `nGQWChUBrZw`
-- 2022-03-07 · 19ª Reunião Ordinária Pública da Diretoria Colegiada da ANM - áudio in · `ro0VxnsCfuQ`
-- 2022-02-24 · 37ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `vip9HNOV1IA`
-- 2022-02-08 · 21ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `itMZRZ-4ufA`
-- 2022-01-27 · 36ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `xiUGQlCtGDw`
-- 2021-12-16 · 35ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `GjzI6PQFCH4`
-- 2021-12-02 · 20ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `ExyrFG2xQXI`
-- 2021-11-25 · 34ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `_gJ3LyVOb64`
-- 2021-10-21 · 33ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `-kSt1hHHT4o`
-- 2021-09-23 · 32ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `MvAqlzzmDR4`
-- 2021-08-24 · 19ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `S56a2orKNSc`
-- 2021-07-22 · 30ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `68PBR4uvQGg`
-- 2021-06-24 · 29ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `JhjBUQ1wgxg`
-- 2021-06-10 · 18ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `t7x0qWSr-pU`
-- 2021-05-27 · 28ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `7PICL_r4uQY`
-- 2021-04-29 · 27ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `46t59aGfl6M`
-- 2021-04-24 · 17ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `HHat5fD8HD8`
-- 2021-03-31 · 16ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `wYAFipSXc7c`
-- 2021-03-25 · 26ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `LX-5lXLbJqo`
-- 2021-02-25 · 25ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `74ccp5IarUk`
-- 2021-01-21 · 24ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `odUdOGtUxJs`
-- 2020-12-19 · 15ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `D6YYWHku_rk`
-- 2020-12-18 · 7ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `gqN-UXqNYhQ`
-- 2020-12-10 · 23ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `rak_IMbQ02w`
-- 2020-11-28 · 9ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `lqrKYTzyL0M`
-- 2020-11-19 · 22ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `Qq7qMQ7_rfc`
-- 2020-11-12 · 14ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `a2q8c-bCJvs`
-- 2020-11-04 · 13ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `wdeylnWC4Wk`
-- 2020-10-22 · 21ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `YZuPzUTCFK0`
-- 2020-09-17 · 20ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `_I172abmDgk`
-- 2020-08-31 · 12ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `9mdYU4s88zI`
-- 2020-07-22 · 18ª Reunião Oridinária Pública da Diretoria Colegiada da ANM · `rDHG2v6FECg`
-- 2020-07-16 · 11ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `aTSDB6xXLyg`
-- 2020-07-08 · 10ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `ArmmpxW5R5k`
 - 2020-06-17 · 17ª Reunião Oridinária Pública da Diretoria Colegiada da ANM · `y9MYTRVPaqk`
-- 2020-05-27 · 9ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `XgYPPYFL8T0`
-- 2020-05-26 · 1ª Reunião Extraordinária Pública da Diretoria Colegiada (2019) · `VY_K3xq1i1U`
-- 2020-05-26 · 10ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `EIRqAKSjmWc`
-- 2020-05-25 · 6ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `MGhW4TEoNZI`
-- 2020-05-20 · 16ª Reunião Oridinária Pública da Diretoria Colegiada da ANM · `lbQcuLZy28Y`
-- 2020-05-08 · 8ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · `dg4nZ5dOb-A`
-- 2020-04-15 · 15ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `lfr2P7uMVeA`
-- 2020-04-01 · 14ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `LrMidsf_ZrQ`
-- 2019-07-22 · 5ª Reunião Ordinária Pública da Diretoria Colegiada - ANM · `FXfLbXGSHSM`
-- 2019-07-22 · 3ª Reunião Ordinária Pública da Diretoria Colegiada da ANM (1) · `8A8BYpBAOPM`
-- 2019-07-22 · 2ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · `gI6Jtv59bYY`
-- 2019-07-22 · 1ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM (12/20 · `sFSwaGLNeLM`
-- 2019-06-24 · 4ª Reunião Ordinária Pública - Diretoria Colegiada ANM · `cv5RTjpyQbM`
-- 2019-02-19 · 1ª Reunião Ordinária Pública da Diretoria Colegiada da ANM - 19/02/201 · `GU7nGhRMt2k`
-- 2019-02-19 · 1ª Reunião Ordinária Pública da Diretoria Colegiada da ANM - 19/02/201 · `5J8KRHW6hFQ`
 
 Vídeos sem legenda registrados: 6 (ver `data/sem_legenda.jsonl`).

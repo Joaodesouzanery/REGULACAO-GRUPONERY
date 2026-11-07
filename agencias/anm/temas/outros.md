@@ -1,0 +1,160 @@
+# Itens do tema «outros» (todos os diretores)
+
+- **RD 7ª Ordinária (2019-08)**, X6 · relator **None** · Aprovação de novo PAE (água mineral) → aprovado
+  - votos: Victor: acompanha; Tasso: acompanha; Debora: acompanha; Eduardo: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=gqN-UXqNYhQ&t=8781s)
+- **RD 15ª Ordinária (2020-04-15)**, 1.1.5 · relator **Victor Bicca** · Desbloqueio de área (bloqueio provisório de 2015 para linha de transmissão não implantada) → aprovado por unanimidade
+  - votos: Victor: relator; Tasso: acompanha; Eduardo: acompanha; Tomás: acompanha; Debora: outro · [vídeo](https://www.youtube.com/watch?v=lfr2P7uMVeA&t=1876s)
+- **RD 15ª Ordinária (2020-04-15)**, 1.4.c · relator **Tasso Mendonça** · Nova guia de utilização (≈48 mil t, três anos) de rocha ornamental → aprovado por unanimidade
+  - votos: Tasso: relator; Victor: acompanha; Eduardo: acompanha; Tomás: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=lfr2P7uMVeA&t=9241s)
+- **RD 16ª Ordinária (2020-05-20)**, 1.2.12 · relator **Debora Puccini** · Aprovação de novo PAE (inclusão de embalagens lata e longa vida) → aprovado por unanimidade
+  - votos: Debora: relator; Victor: acompanha; Tasso: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=lbQcuLZy28Y&t=1694s)
+- **RD 16ª Ordinária (2020-05-20)**, 1.1.2 · relator **Victor Bicca** · Referendo de guias de utilização emitidas ad referendum pelo DG em abril/2020 → referendado por unanimidade
+  - votos: Victor: relator; Tasso: acompanha; Eduardo: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=lbQcuLZy28Y&t=5840s)
+- **RD 16ª Ordinária (2020-05-20)**, 1.1.3 · relator **Victor Bicca** · Referendo de anuências prévias e averbações de cessão de direitos minerários decididas ad referendum → referendado por unanimidade
+  - votos: Victor: relator; Tasso: acompanha; Eduardo: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=lbQcuLZy28Y&t=6255s)
+- **RD 9ª Reunião Extraordinária Pública (2020-05-27)**, 2.7 · relator **Debora Puccini** · Aprovação de relatório de reavaliação de reservas de granito (ES), motivado por cessão parcial a «Liocel» Mineração → aprovado (unanimidade)
+  - votos: Debora: relator; Victor: acompanha; Tasso: acompanha; Eduardo: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=XgYPPYFL8T0&t=7362s)
+- **RD 9ª Reunião Extraordinária Pública (2020-05-27)**, 2.9 · relator **Debora Puccini** · Referendo de instituição de servidão e aprovação de relatório de reavaliação de reservas → referendado (unanimidade)
+  - votos: Debora: relator; Victor: acompanha; Tasso: acompanha; Eduardo: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=XgYPPYFL8T0&t=7720s)
+- **RD 9ª Reunião Extraordinária Pública (2020-05-27)**, 4.9-4.11 · relator **Tasso Mendonça** · Aprovação de relatório final de pesquisa com redução de área (retifica publicações anteriores que aprovaram reavaliação de reserva ou RFP sem redução) → aprovado (unanimidade)
+  - votos: Tasso: relator; Victor: acompanha; Eduardo: acompanha; Tomás: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=XgYPPYFL8T0&t=15965s)
+- **RD 21ª Ordinária (2020-10-21)**, 1.5 · relator **Victor Bicca** · Prorrogação do prazo para requerer lavra (pauta trazia caducidade por erro) → prorrogado por 1 ano (unanimidade)
+  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: outro · [vídeo](https://www.youtube.com/watch?v=YZuPzUTCFK0&t=4290s)
+- **RD 21ª Ordinária (2020-10-21)**, 2.4 · relator **Debora Puccini** · Aprovação de novo PAE para ferro após aprovação de relatório de reavaliação de reservas → aprovado (unanimidade)
+  - votos: Debora: relator; Tomás: outro; Eduardo: acompanha; Tasso: outro; Victor: outro · [vídeo](https://www.youtube.com/watch?v=YZuPzUTCFK0&t=5026s)
+- **RD 21ª Ordinária (2020-10-21)**, 5.6 · relator **Tomás Filho** · Prorrogação do prazo de início de lavra → negada; 180 dias para início (unanimidade)
+  - votos: Tomás: relator; Tasso: acompanha; Eduardo: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=YZuPzUTCFK0&t=9391s)
+- **RD 21ª Ordinária (2020-10-21)**, 5.8 · relator **Tomás Filho** · Prorrogação do prazo para requerer lavra → negada (unanimidade)
+  - votos: Tomás: relator; Tasso: acompanha; Eduardo: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=YZuPzUTCFK0&t=9428s)
+- **RD 22ª Ordinária (2020-11-18)**, 5.3.1 · relator **Tomás Filho** · Prorrogação de início de lavra (... Extração e Comércio de Areia Ltda) → negada; 180 dias para início da lavra (unanimidade)
+  - votos: Tomás: relator; Tasso: acompanha; Debora: acompanha; Eduardo: acompanha; Victor: outro · [vídeo](https://www.youtube.com/watch?v=Qq7qMQ7_rfc&t=5063s)
+- **RD 22ª Ordinária (2020-11-18)**, 5.3.2 · relator **Tomás Filho** · Prorrogação de início de lavra → deferida por 1 ano (unanimidade)
+  - votos: Tomás: relator; Tasso: acompanha; Debora: acompanha; Eduardo: acompanha; Victor: outro · [vídeo](https://www.youtube.com/watch?v=Qq7qMQ7_rfc&t=5105s)
+- **RD 27 (2021-04-29)**, 5.3 · relator **Aline (substituta, sobrenome a confirmar)** · Bloqueio provisório para gasoduto (art. 42 do Código; Parecer 500/2008) → aprovado por unanimidade
+  - votos: Aline: relator; Tasso: acompanha; Carlos: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=12234s)
+- **RD 29ª Ordinária (2021-06-23)**, 5.2 · relator **Aline (substituta, sobrenome a confirmar)** · Retificação de guia de utilização → aprova por unanimidade
+  - votos: Aline: relator; Tasso: acompanha; Carlos: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=JhjBUQ1wgxg&t=11320s)
+- **RD 32ª Ordinária (2021-09-23)**, 1.5 · relator **Victor Bicca** · Emissão de guia de utilização → aprova por unanimidade
+  - votos: Victor: relator; Guilherme: acompanha; Ronaldo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=5309s)
+- **RD 32ª Ordinária (2021-09-23)**, 1.13 · relator **Victor Bicca** · Retificação de guia de utilização para ampliar limite a 50 mil t/ano → aprova por unanimidade
+  - votos: Victor: relator; Guilherme: acompanha; Ronaldo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=6110s)
+- **RD 33ª Ordinária (2021-10-21)**, 1.5 · relator **Victor Bicca** · Autorização para importar e comercializar água mineral francesa (Portaria 159/1996) → aprova por unanimidade dos presentes
+  - votos: Victor: relator; Guilherme: acompanha; Ronaldo: acompanha; Debora: acompanha; Tasso: outro · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=8111s)
+- **RD 33ª Ordinária (2021-10-21)**, 2.6 · relator **Debora Puccini** · Retificação de guia de utilização 84/2020 (12.571 t/ano de pegmatito para revestimento e 49.500 t/ano a granel) → aprova por unanimidade
+  - votos: Debora: relator; Tasso: acompanha; Guilherme: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=9519s)
+- **RD 33ª Ordinária (2021-10-21)**, 3.2 · relator **Tasso Mendonça** · Guias de utilização acima do Anexo IV → aprova por unanimidade
+  - votos: Tasso: relator; Guilherme: acompanha; Debora: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=9930s)
+- **RD 33ª Ordinária (2021-10-21)**, 4.2.2 · relator **Ronaldo Lima** · Retificação de guia para incluir 12 mil t/ano de xisto → aprova por unanimidade
+  - votos: Ronaldo: relator; Guilherme: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=10616s)
+- **RD 46 (2022-12-14)**, 1.1.1-1.1.3, 1.1.6 · relator **Mauro Sousa** · Processos devolvidos à origem por não exigirem deliberação colegiada → retirados de pauta
+  - votos: Mauro: relator · [vídeo](https://www.youtube.com/watch?v=cXfuSmk0BVs&t=6120s)
+- **RD 46 (2022-12-14)**, 2.3 · relator **Guilherme Gomes** · Pedido de revisão contra decisão do DG do DNPM → retirado de pauta
+  - votos: Guilherme: relator · [vídeo](https://www.youtube.com/watch?v=cXfuSmk0BVs&t=6750s)
+- **RD 46 (2022-12-14)**, 3.4 · relator **Tasso Mendonça** · Recurso contra indeferimento de mudança de regime → retirado de pauta pelo relator
+  - votos: Tasso: relator · [vídeo](https://www.youtube.com/watch?v=cXfuSmk0BVs&t=9810s)
+- **RD 46 (2022-12-14)**, 3.13-3.14 · relator **Tasso Mendonça** · Caducidade de concessão de lavra e retificação de poligonal → retirados de pauta
+  - votos: Tasso: relator · [vídeo](https://www.youtube.com/watch?v=cXfuSmk0BVs&t=12810s)
+- **RD 47 (2023-01-25)**, 3.2 · relator **Tasso Mendonça** · Recurso contra arquivamento definitivo → retirado de pauta pelo relator
+  - votos: Tasso: relator · [vídeo](https://www.youtube.com/watch?v=UfKJpb9ZVZA&t=10608s)
+- **RD 47 (2023-01-25)**, 4.2.1 · relator **Roger Cabral** · Recurso contra indeferimento de requerimento de pesquisa por interferência total → retirado de pauta pelo relator
+  - votos: Roger: relator · [vídeo](https://www.youtube.com/watch?v=UfKJpb9ZVZA&t=12330s)
+- **RD 48 (2023-02-22)**, 2.4.1/2.4.2 · relator **Guilherme Gomes** · Processos de titularidade da Vale (assunto não lido) → retirados de pauta pelo relator
+  - votos: Guilherme: relator · [vídeo](https://www.youtube.com/watch?v=OebsMtBiF7o&t=5408s)
+- **RD 48 (2023-02-22)**, 5.3.1 · relator **Júlio Rodrigues** · não detalhado → retirado de pauta pelo relator
+  - votos: Júlio: relator · [vídeo](https://www.youtube.com/watch?v=OebsMtBiF7o&t=8490s)
+- **RD 53ª Reunião Ordinária Pública (2023-09-05)**, 3.3.x · relator **Tasso Mendonça** · Ampliação volumétrica de guia de utilização de minério de ferro para 1 milhão t/ano (Pará; acima do Anexo IV da Portaria 155) → aprovado por unanimidade
+  - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Mauro: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=S2GK8_S3FH4&t=11651s)
+- **RD 57 (2023-12-08)**, 3.1.1 · relator **Tasso Mendonça** · Item de Tasso Mendonça retirado (fatos novos) → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=AG_dkOZrjSA&t=11514s)
+- **RD 57 (2023-12-08)**, 3.3.1 · relator **Tasso Mendonça** · Item de Tasso Mendonça retirado (voto não encontrado por problema técnico) → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=AG_dkOZrjSA&t=12240s)
+- **RD 57 (2023-12-08)**, 3.6.1 · relator **Tasso Mendonça** · Item de Tasso Mendonça retirado (guia de utilização) → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=AG_dkOZrjSA&t=12930s)
+- **RD 57 (2023-12-08)**, 5.3.1 · relator **Yuri Moraes** · Item de Yuri Moraes retirado → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=AG_dkOZrjSA&t=17190s)
+- **RD 57 (2023-12-08)**, 5.4.1 · relator **Yuri Moraes** · Item de Yuri Moraes retirado (despacho apontou possível equívoco no pagamento da dívida) → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=AG_dkOZrjSA&t=17210s)
+- **RD 58 (2024-01-24)**, 3.5.1 · relator **Tasso Mendonça** · Voto-vista (Tasso Mendonça) → retirado de pauta (voto conciliador a apresentar)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=96WWdF-Y2IA&t=19230s)
+- **RD 58 (2024-01-24)**, 4.11.1 · relator **Roger Cabral** · não informado → retirado de pauta (novos dados)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=96WWdF-Y2IA&t=21240s)
+- **RD 58 (2024-01-24)**, 5.5.2 · relator **Caio Seabra** · não informado → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=96WWdF-Y2IA&t=24720s)
+- **RD 58 (2024-01-24)**, 5.9.1 · relator **Caio Seabra** · não informado → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=96WWdF-Y2IA&t=25080s)
+- **RD 70 (2025-01-30)**, 3.4.2 · relator **Tasso Mendonça** · Item retirado de pauta pelo relator → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=hETIUYUx-48&t=2187s)
+- **RD 70 (2025-01-30)**, 3.9.1 · relator **Tasso Mendonça** · Item retirado de pauta pelo relator → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=hETIUYUx-48&t=2187s)
+- **RD 70 (2025-01-30)**, 4.1.1-4.1.2 · relator **Roger Cabral** · Itens retirados de pauta pelo relator → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=hETIUYUx-48&t=6240s)
+- **RD 70 (2025-01-30)**, 4.3.1 · relator **Roger Cabral** · Item retirado de pauta pelo relator → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=hETIUYUx-48&t=6240s)
+- **RD 70 (2025-01-30)**, 5.1.1 · relator **Caio Seabra** · Item retirado de pauta pelo relator → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=hETIUYUx-48&t=9920s)
+- **RD 70 (2025-01-30)**, 5.2.1 · relator **Caio Seabra** · Item retirado de pauta pelo relator → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=hETIUYUx-48&t=9920s)
+- **RD 70 (2025-01-30)**, 5.4.1 · relator **Caio Seabra** · Item retirado de pauta pelo relator → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=hETIUYUx-48&t=9970s)
+- **RD 71 (2025-02-25)**, 1.1.1 · relator **Mauro Sousa** · Proposta regulatória da relatoria do Diretor-Geral, retirada de pauta para a próxima reunião → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=2Aq6IIxfqu0&t=4069s)
+- **RD 71 (2025-02-25)**, 1.9.1 · relator **Mauro Sousa** · Item retirado de pauta pelo relator → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=2Aq6IIxfqu0&t=4860s)
+- **RD 71 (2025-02-25)**, 2.4.1 · relator **Tasso Mendonça** · Item retirado de pauta pelo relator → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=2Aq6IIxfqu0&t=14310s)
+- **RD 71 (2025-02-25)**, 2.6.1 · relator **Tasso Mendonça** · Item retirado de pauta pelo relator (2.6.1, 2.6.2 e 2.8.1 tinham sustentação oral deferida) → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=2Aq6IIxfqu0&t=14310s)
+- **RD 71 (2025-02-25)**, 2.6.2 · relator **Tasso Mendonça** · Item retirado de pauta pelo relator (2.6.1, 2.6.2 e 2.8.1 tinham sustentação oral deferida) → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=2Aq6IIxfqu0&t=14310s)
+- **RD 71 (2025-02-25)**, 2.7.1 · relator **Tasso Mendonça** · Item retirado de pauta pelo relator → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=2Aq6IIxfqu0&t=14310s)
+- **RD 71 (2025-02-25)**, 2.8.1 · relator **Tasso Mendonça** · Item retirado de pauta pelo relator (2.6.1, 2.6.2 e 2.8.1 tinham sustentação oral deferida) → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=2Aq6IIxfqu0&t=14310s)
+- **RD 71 (2025-02-25)**, 2.9.1 · relator **Tasso Mendonça** · Item retirado de pauta pelo relator → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=2Aq6IIxfqu0&t=14310s)
+- **RD 71 (2025-02-25)**, 2.9.3 · relator **Tasso Mendonça** · Item retirado de pauta pelo relator → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=2Aq6IIxfqu0&t=14310s)
+- **RD 71 (2025-02-25)**, 2.10.2 · relator **Tasso Mendonça** · Item retirado de pauta pelo relator → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=2Aq6IIxfqu0&t=14310s)
+- **RD 71 (2025-02-25)**, 2.12.2 · relator **Tasso Mendonça** · Item retirado de pauta pelo relator → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=2Aq6IIxfqu0&t=14310s)
+- **RD 71 (2025-02-25)**, 2.15.1 · relator **Tasso Mendonça** · Item retirado de pauta pelo relator → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=2Aq6IIxfqu0&t=14310s)
+- **RD 71 (2025-02-25)**, 4.9.1 · relator **Caio Seabra** · Item retirado de pauta pelo relator → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=2Aq6IIxfqu0&t=20560s)
+- **RD 71 (2025-02-25)**, 5.2.5 · relator **Luís Paniago** · Item retirado de pauta pelo relator (processos 848.236/2021 e 870.255/2024 retirados) → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=2Aq6IIxfqu0&t=20910s)
+- **RD 71 (2025-02-25)**, 5.4.2 · relator **Luís Paniago** · Item retirado de pauta pelo relator → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=2Aq6IIxfqu0&t=20910s)
+- **RD 72 (2025-03-26)**, 2.2.2 · relator **Tasso Mendonça** · Item retirado de pauta pelo relator (2.2.2 Votorantim/cimentos, 2.2.3 Pedreira Pedra Negra, 2.2.4 Carpenedo, 2.3.1 ICAL; grafias incertas) → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=DMEFirMUjdI&t=2504s)
+- **RD 72 (2025-03-26)**, 2.2.3 · relator **Tasso Mendonça** · Item retirado de pauta pelo relator (2.2.2 Votorantim/cimentos, 2.2.3 Pedreira Pedra Negra, 2.2.4 Carpenedo, 2.3.1 ICAL; grafias incertas) → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=DMEFirMUjdI&t=2504s)
+- **RD 72 (2025-03-26)**, 2.2.4 · relator **Tasso Mendonça** · Item retirado de pauta pelo relator (2.2.2 Votorantim/cimentos, 2.2.3 Pedreira Pedra Negra, 2.2.4 Carpenedo, 2.3.1 ICAL; grafias incertas) → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=DMEFirMUjdI&t=2504s)
+- **RD 72 (2025-03-26)**, 2.3.1 · relator **Tasso Mendonça** · Item retirado de pauta pelo relator (2.2.2 Votorantim/cimentos, 2.2.3 Pedreira Pedra Negra, 2.2.4 Carpenedo, 2.3.1 ICAL; grafias incertas) → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=DMEFirMUjdI&t=2504s)
+- **RD 73 (2025-04-23)**, 4.8.1 · relator **Caio Seabra** · Recurso intempestivo contra não aprovação de RFP de diamante → aprovado por unanimidade
+  - votos: Caio: relator; Tasso: acompanha; Roger: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=20014s)
+- **RD 73 (2025-04-23)**, 4.8.2 · relator **Caio Seabra** · Recurso contra não aprovação de RFP de granito para rocha ornamental → aprovado por unanimidade
+  - votos: Caio: relator; Tasso: acompanha; Roger: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=20075s)
+- **RD 73 (2025-04-23)**, 4.8.3 · relator **Caio Seabra** · Recurso contra não aprovação de RFP de granito (exigências não cumpridas) → aprovado por unanimidade
+  - votos: Caio: relator; Tasso: acompanha; Roger: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=20105s)
+- **RD 73 (2025-04-23)**, 5.7.1 · relator **Luís Paniago** · Nova guia de utilização de 42,5 mil t/ano de quartzo industrial (acima do Anexo 4) → aprovado por unanimidade
+  - votos: Luís: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=22992s)
+- **RD 73 (2025-04-23)**, 5.7.2 · relator **Luís Paniago** · Prorrogação da guia de utilização 48/2022-MG de 675 mil t/ano de minério de ferro (Guanhães/MG) por 3 anos → aprovado por unanimidade
+  - votos: Luís: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=23139s)
+- **RD 73 (2025-04-23)**, 5.11.2 · relator **Luís Paniago** · Recurso contra não aprovação de RFP de mármore (PR) → aprovado por unanimidade
+  - votos: Luís: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=23732s)
+- **RD 73 (2025-04-23)**, 5.11.3 · relator **Luís Paniago** · Recurso contra não aprovação de RFP (AL) → aprovado por unanimidade
+  - votos: Luís: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=23825s)
+- **RD 74 (2025-05-26)**, 1.3.1 · relator **Mauro Sousa** · Prorrogação de guia de utilização 169/2021-MG por 3 anos (quartzo para revestimento 16 mil t/ano e quartzo industrial 50 mil t/ano) → aprovado por unanimidade dos presentes
+  - votos: Mauro: relator; Roger: acompanha; Caio: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=v18z8zLNXFk&t=7854s)
+- **RD 74 (2025-05-26)**, 3.6.1 · relator **Roger Cabral** · Prorrogação de guia de utilização de pegmatito (revestimento e uso industrial; Frei Gaspar e São José do Divino/MG) por 3 anos → aprovado por maioria — vencido Mauro Sousa
+  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=v18z8zLNXFk&t=22312s)
+- **RD 75 (2025-07-31)**, 3.9.2 · relator **Roger Cabral** · Guia de utilização acima do limite: feldspato e caulim, 18.000 t/ano (Paraíba) → aprovado por unanimidade (retificado na 76ª ROP)
+  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=NRrkimmQohg&t=8926s)
+- **RD 76 (2025-08-22)**, 3.1.1 · relator **Roger Cabral** · Retificação do voto RC 599/2025 (75ª ROP) sobre guia de utilização: requerimento era só de caulim, com pedido de 300.000 t em 3 anos → aprovado por unanimidade
+  - votos: Roger: relator; Tasso: acompanha; Cláudio: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=-5vYB_XFzgY&t=11027s)
+- **RD 77 (2025-09-29)**, 2.9.1 · relator **Tasso Mendonça** · Ampliação da guia de utilização 6/2024 de 20 mil para 300 mil t/ano de gipsita (Riachão-MA) → aprovado por unanimidade
+  - votos: Tasso: relator; Roger: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=7EbKt320oyU&t=12690s)

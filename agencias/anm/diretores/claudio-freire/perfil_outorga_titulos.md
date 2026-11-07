@@ -1,0 +1,21 @@
+# Perfil analítico — Cláudio Freire · tema: outorga_titulos
+
+**Amostra:** presente em 1 das 1 reuniões analisadas em que há registro de presença/ausência; 10 votos neste tema; 4 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+
+**Votos:** acompanha o relator 5 (83% dos votos em que não era relator) · relator 4 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
+**Como relator:** 3/4 relatorias aprovadas por unanimidade.
+
+**Temas (nº de itens em que votou / relatorias):** recursos_recursais 10/2; outorga_titulos 10/4; cfem_arrecadacao 9/1; judicializacao 4/1; ambiental_social 3/1; agregados_construcao 3/2; garimpo_pla 2/1; regulacao_normativa 1/0; outros 1/0; minerais_criticos 1/1; fiscalizacao_sancoes 1/0
+
+## Evidências (reunião · item · voto · justificativa)
+
+- **RD 76 (2025-08-22)**, item 1.2.1 — Voto-vista do DG sobre recurso contra indeferimento (2007) de 2ª prorrogação de alvará de pesquisa; relator original Caio Seabra (voto CS 53 · voto: *aguarda a vista* (outro, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=-5vYB_XFzgY&t=9387s) · resultado: deliberação sobrestada (pedido de vista de Roger Cabral)
+- **RD 76 (2025-08-22)**, item 1.3.1 — Recurso contra instauração de procedimento de arquivamento de RFP aprovado (São Gabriel da Cachoeira-AM) por sobreposição com Parque Naciona · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=-5vYB_XFzgY&t=10818s) · resultado: aprovado por unanimidade
+- **RD 76 (2025-08-22)**, item 4.3.1 — Pedido de reconsideração contra decisão colegiada (voto 524/2025) que manteve negativa de 2ª prorrogação de alvará (sem métodos diretos de p · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=-5vYB_XFzgY&t=12119s) · resultado: aprovado por unanimidade
+- **RD 76 (2025-08-22)**, item 4.5.1-4.5.4 — Pedidos de reconsideração contra nulidades ex officio de alvarás por não pagamento da TAH · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=-5vYB_XFzgY&t=12119s) · resultado: aprovado por unanimidade
+- **RD 76 (2025-08-22)**, item 4.6.1 — Recurso contra indeferimento de concessão de lavra por não comprovar semestralmente o licenciamento (art. 31 §4º do Decreto 9.406) · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=-5vYB_XFzgY&t=12119s) · resultado: aprovado por unanimidade
+- **RD 76 (2025-08-22)**, item 5.1.1 — Referendo da decisão ad referendum de Luiz Paniago (relação 57/2025) que tornou sem efeito o voto GG 897/2024 e retirou a área 1582 da 8ª ro · voto: *relator, referenda* (relator, conf. alta) · «integridade do certame; isonomia» · [vídeo](https://www.youtube.com/watch?v=-5vYB_XFzgY&t=12323s) · resultado: referendado por unanimidade
+- **RD 76 (2025-08-22)**, item 5.3.1 — Recurso contra inabilitação em procedimento de disponibilidade por falta de documentos de identificação/poderes do signatário · voto: *relator, provimento parcial e mantém inabilitação* (relator, conf. alta) · [vídeo](https://www.youtube.com/watch?v=-5vYB_XFzgY&t=12619s) · resultado: aprovado por maioria (divergência do Diretor-Geral)
+- **RD 76 (2025-08-22)**, item 5.4.1 — Recurso contra negativa de prorrogação de prazo para apresentar licença ambiental em requerimento de lavra · voto: *relator, parcial provimento* (relator, conf. alta) · [vídeo](https://www.youtube.com/watch?v=-5vYB_XFzgY&t=12749s) · resultado: aprovado por unanimidade
+- **RD 76 (2025-08-22)**, item 5.5.1 — Recurso contra indeferimento de mudança de regime de autorização de pesquisa para PLG com poligonal unida por corredores · voto: *relator, nega provimento* (relator, conf. alta) · [vídeo](https://www.youtube.com/watch?v=-5vYB_XFzgY&t=12976s) · resultado: aprovado por unanimidade
+- **RD 76 (2025-08-22)**, item 2.1.1 — Voto-vista de Tasso sobre recurso da HNK BR contra o despacho 1753/2025 da SOT (anulação do alvará da Schincariol em Alagoinhas-BA, cumprime · voto: *acompanha o relator* (acompanha, conf. media) · «questão de suspeição levantada depois de votar; colegiado afastou impedimento» · [vídeo](https://www.youtube.com/watch?v=-5vYB_XFzgY&t=17130s) · resultado: aprovado por maioria o voto do relator Roger Cabral (nega provimento);

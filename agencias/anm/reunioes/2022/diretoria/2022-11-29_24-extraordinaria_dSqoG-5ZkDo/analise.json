@@ -1,0 +1,169 @@
+{
+ "meta": {
+  "video_id": "dSqoG-5ZkDo",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "24 (extraordinária)",
+  "data": "2022-11-29",
+  "formato": "extraordinária pública, videoconferência",
+  "presidente_da_sessao": "Victor Bicca (Diretor-Geral); Guilherme Gomes (DG substituto) presidiu durante as relatorias de Bicca",
+  "diretores_presentes": [
+   "Victor Bicca",
+   "Guilherme Gomes",
+   "Tasso Mendonça",
+   "Ronaldo Lima",
+   "Roger Cabral"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Última reunião pública de Victor Bicca como Diretor-Geral e de Ronaldo Lima (mandato encerrando; recondução pendente no Senado).",
+   "Mauro Sousa acompanhou como futuro Diretor-Geral (posse prevista para a segunda-feira seguinte), sem votar.",
+   "Bicca: 45 reuniões ordinárias e 24 extraordinárias públicas desde a criação da agência.",
+   "Três itens: resolução de sanções (aprovada), nulidade do alvará da Luz (vista de Guilherme) e referendo da guia 370/2021 da Ferro Brasil (referendado)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1",
+   "ts": "0:26:50",
+   "processo": "48051.001278/2022",
+   "interessado": "Agência Nacional de Mineração (GT Sanções); manifestação do Ibram (Cíntia Rodrigues)",
+   "assunto": "Resolução sobre procedimentos de apuração de infrações, sanções e valores de multas por descumprimento da legislação minerária (Decretos 10.965/2022 e 11.197/2022; Lei 14.066/2020; multas de R$ 2 mil a R$ 1 bilhão)",
+   "tema": [
+    "regulação normativa (resolução)",
+    "fiscalização e sanções (multa, caducidade)",
+    "participação social"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova a minuta (70 artigos, 12 tipos de sanção, 8 grupos e 5 níveis de gravidade; base de cálculo no orçamento de pesquisa ou valor da produção autodeclarados); audiência pública com 231 contribuições (28 acolhidas, 53 parcialmente, 130 não); prazo de 30/11/2022 imposto por decreto; seis meses de redução das multas de menor gravidade e avaliação de resultado regulatório em 18 meses. Ibram criticou falta de transparência, prazo de menos de 10 dias para 124 páginas e desproporção de multas administrativas (ex.: TAH paga fora do prazo podendo passar de R$ 1 milhão).",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, aprova",
+     "ts": "0:55:17",
+     "confianca": "alta",
+     "justificativa": "norma necessária para preservar o poder fiscalizatório; não cria sanções, só identifica as já previstas em lei (mais de 1.100)"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha, com ressalvas",
+     "ts": "0:57:56",
+     "confianca": "media",
+     "justificativa": "concorda que duas ou três multas administrativas não são proporcionais; revisão possível nos seis meses"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha",
+     "ts": "1:00:30",
+     "confianca": "media",
+     "justificativa": "critérios internos de autuação devem ser transparentes; rever a norma o quanto antes"
+    },
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "acompanha o relator, com recomendação de priorizar revisão das multas administrativas",
+     "ts": "1:03:08",
+     "confianca": "media",
+     "justificativa": "rever base de cálculo das sanções administrativas"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha (presidindo durante a relatoria do DG)",
+     "ts": "1:04:18",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.2",
+   "ts": "1:06:10",
+   "processo": "48405.851331/2013 e 48059.000428/2022",
+   "interessado": "Luz Mineração Ltda. (adv. Alexandre Vidigal); Avanco Resources Mineração (adv. Samanta Monteiro); Ferro Brasil Mineração (adv. Isabela Mattar)",
+   "assunto": "Nulidade do alvará de pesquisa 10.455/2013 da Luz Mineração (ouro; Pará) por sobreposição ao processo prioritário 850825/2005 da Avanco; cumprimento de decisão judicial",
+   "tema": [
+    "outorga de títulos minerários (alvará, requerimento de pesquisa)",
+    "judicialização",
+    "recursos administrativos"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "pedido de vista (Guilherme Gomes)",
+   "resumo_voto": "Relator declara a nulidade: prioridade do 850825/2005 já decidida (DG em 2015 e colegiado em 2020, votos VB 25 e PP 366/2021); vícios formais alegados pela Luz (procuração sem firma, plano único) não estão no art. 16 e seriam supríveis; gerência do Pará se eximiu de decidir. Advogada da Avanco acusou o gerente regional do Pará de ter sido procurador da Luz; DG informou envio de questões correcionais à corregedoria.",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, declara a nulidade do alvará",
+     "ts": "1:52:14",
+     "confianca": "alta",
+     "justificativa": "prioridade já decidida duas vezes; garantido o contraditório à Luz"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "pede vista",
+     "ts": "1:53:46",
+     "confianca": "alta",
+     "justificativa": "dúvida sobre como dar devido processo legal sem restabelecer um alvará sobre outro, dada a regra da prioridade"
+    }
+   ]
+  },
+  {
+   "id": "2.1",
+   "ts": "2:06:30",
+   "processo": "48051.851210/2021 (legenda; 851210/2021)",
+   "interessado": "Ferro Brasil Mineração Ltda. (adv. Isabela Mattar); Luz Mineração Ltda. (adv. Alexandre Vidigal); Avanco (adv. Samanta Monteiro)",
+   "assunto": "Referendo de ato do DG que deu efeito suspensivo à defesa da Ferro Brasil e tornou sem efeito a suspensão da guia de utilização 370/2021 (minério de ferro, Pará) determinada pelo gerente regional",
+   "tema": [
+    "outorga de títulos minerários (guia de utilização, alvará)",
+    "judicialização",
+    "ferro"
+   ],
+   "relator": "Tasso Mendonça (voto-vista; relator original Victor Bicca)",
+   "resultado": "referendado (4 votos pelo referendo integral e Guilherme Gomes pelo referendo parcial); preliminar de caducidade do ato ad referendum julgada preclusa",
+   "resumo_voto": "Voto-vista de Tasso acompanha Bicca: alvará 9.381 da Ferro Brasil ativo, logo a guia vale; Luz arguiu que o ato ad referendum perdera eficácia após 60 dias (art. 13 §2º do Regimento); procurador Maurício: matéria já submetida e debatida; colegiado declarou preclusa a petição. Guilherme manteve voto-vista anterior (referendo parcial, com suspensão da guia até decisão sobre a Luz).",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "voto-vista: referenda o ato do DG (mantém a guia)",
+     "ts": "2:33:05",
+     "confianca": "alta",
+     "justificativa": "assunto exaustivamente discutido pela PFE; trata apenas da guia"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator original, referenda",
+     "ts": "2:33:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "referenda parcialmente (voto-vista anterior: guia deveria ficar suspensa)",
+     "ts": "2:47:04",
+     "confianca": "media",
+     "justificativa": "proposta de preclusão da petição da Luz; mantém posição da 43ª reunião"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator original e Tasso",
+     "ts": "2:47:52",
+     "confianca": "alta",
+     "justificativa": "decisão puramente técnica"
+    },
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "acompanha o relator",
+     "ts": "2:48:51",
+     "confianca": "alta",
+     "justificativa": "Guilherme deve dar celeridade ao processo ligado, pois as substâncias podem estar geologicamente interligadas"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: nomes dos advogados (Isabela Mattar/Mattari) e números de processos incertos.",
+  "No 2.1 o placar foi descrito pelo secretário como 4 a 1 e pelo DG como unanimidade com referendo parcial de Guilherme; registramos ambos.",
+  "Votos de Tasso e Guilherme no 1.1 inferidos pela ordem de fala; Guilherme presidia a sessão naquele momento.",
+  "ts do voto de Bicca no 2.1 é aproximado (voto proferido em reunião anterior, 41ª ROP)."
+ ]
+}

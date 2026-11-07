@@ -1,0 +1,18 @@
+# Perfil analítico — Aline (substituta, sobrenome a confirmar) · tema: regulacao_normativa
+
+**Amostra:** presente em 8 das 8 reuniões analisadas em que há registro de presença/ausência; 8 votos neste tema; 0 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+
+**Votos:** acompanha o relator 7 (87% dos votos em que não era relator) · relator 0 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
+
+**Temas (nº de itens em que votou / relatorias):** outorga_titulos 99/20; recursos_recursais 65/22; cfem_arrecadacao 25/12; agregados_construcao 22/5; fiscalizacao_sancoes 20/4; garimpo_pla 9/6; ambiental_social 9/0; regulacao_normativa 8/0; institucional 7/1; judicializacao 6/0; outros 2/2; barragens_seguranca 2/0; participacao_social 1/0
+
+## Evidências (reunião · item · voto · justificativa)
+
+- **RD 17 (extraordinária) (2021-04-24)**, item 1 — Resolução do Plano de Fechamento de Mina (PFM), eixo temático 2 da Agenda Regulatória 2020/2021; revoga as NRM 20.4 e 20.5 (Portaria DNPM 23 · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=HHat5fD8HD8&t=2785s) · resultado: aprovado por unanimidade, com ajuste da vigência (primeiro dia útil do
+- **RD 27 (2021-04-29)**, item 3.1.1 — Nova resolução substituindo a Resolução ANM 79/2021 sobre acordos de cooperação técnica com estados, DF e municípios: equipe técnica mínima  · voto: *de acordo* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=945s) · resultado: aprovado por unanimidade
+- **RD 27 (2021-04-29)**, item 3.10.1 — Recurso contra indeferimento de requerimentos de pesquisa em áreas cujo relatório final não foi apresentado na vigência da MP 790/2017 (apli · voto: *não votou (vista)* (outro, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=11220s) · resultado: pedido de vista (Debora Puccini)
+- **RD 28 (2021-05-27)**, item 1.1 — Resolução que revoga expressamente 29 atos normativos da ANM com efeitos exauridos ou obsoletos (Decreto 10.139/2019; revisão do estoque reg · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=7PICL_r4uQY&t=1840s) · resultado: aprovado por unanimidade
+- **RD 18ª Extraordinária (2021-06-10)**, item 2 — Aprovação da minuta do edital da 4ª rodada de disponibilidade de áreas (áreas exclusivamente para pesquisa), oferta pública seguida de leilã · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=t7x0qWSr-pU&t=1574s) · resultado: aprovado por unanimidade
+- **RD 30ª Ordinária (2021-07-21)**, item 1.1 — Referendo da Resolução ANM 76/2021 (prorroga até 30/09/2021 a suspensão de prazos processuais e materiais pela covid-19, altera Resoluções 2 · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=68PBR4uvQGg&t=4914s) · resultado: referenda por unanimidade
+- **RD 35ª Reunião Ordinária Pública (2021-12-16)**, item 1.1.1 — Voto-vista sobre a resolução de oferta de títulos e direitos minerários como garantia em financiamentos e condições de transferência de titu · voto: *acompanha o voto-vista* (revisor_acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=GjzI6PQFCH4&t=6135s) · resultado: aprovado por unanimidade conforme voto-vista (acolhe parcialmente o vo
+- **RD 36ª Reunião Ordinária Pública (2022-01-26)**, item 3.1 — Referendo da Resolução ANM 92/2022 (ato do DG substituto, DOU de 14/01/2022): inclui na Portaria 155/2016 a declaração de dispensa de título · voto: *de acordo* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=xiUGQlCtGDw&t=2920s) · resultado: referendado por unanimidade

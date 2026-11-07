@@ -1,0 +1,26 @@
+# Perfil analítico — Mauro Sousa · tema: outros
+
+**Amostra:** presente em 57 das 59 reuniões analisadas em que há registro de presença/ausência; 14 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+
+**Votos:** acompanha o relator 11 (91% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
+**Como relator:** 1/2 relatorias aprovadas por unanimidade.
+
+**Temas (nº de itens em que votou / relatorias):** recursos_recursais 1326/233; outorga_titulos 1031/190; cfem_arrecadacao 448/78; agregados_construcao 398/80; fiscalizacao_sancoes 299/48; garimpo_pla 140/12; ambiental_social 111/21; regulacao_normativa 87/20; judicializacao 86/23; institucional 78/20; minerais_criticos 55/7; barragens_seguranca 51/10; participacao_social 16/3; outros 14/2
+**Argumentos recorrentes nas justificativas registradas:** sustentabilidade (1)
+
+## Evidências (reunião · item · voto · justificativa)
+
+- **RD 46 (2022-12-14)**, item 1.1.1-1.1.3, 1.1.6 — Processos devolvidos à origem por não exigirem deliberação colegiada · voto: *relator, retira de pauta* (relator, conf. media) · [vídeo](https://www.youtube.com/watch?v=cXfuSmk0BVs&t=6120s) · resultado: retirados de pauta
+- **RD 53ª Reunião Ordinária Pública (2023-09-05)**, item 3.3.x — Ampliação volumétrica de guia de utilização de minério de ferro para 1 milhão t/ano (Pará; acima do Anexo IV da Portaria 155) · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=S2GK8_S3FH4&t=13650s) · resultado: aprovado por unanimidade
+- **RD 73 (2025-04-23)**, item 4.8.1 — Recurso intempestivo contra não aprovação de RFP de diamante · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=21004s) · resultado: aprovado por unanimidade
+- **RD 73 (2025-04-23)**, item 4.8.2 — Recurso contra não aprovação de RFP de granito para rocha ornamental · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=21004s) · resultado: aprovado por unanimidade
+- **RD 73 (2025-04-23)**, item 4.8.3 — Recurso contra não aprovação de RFP de granito (exigências não cumpridas) · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=21004s) · resultado: aprovado por unanimidade
+- **RD 73 (2025-04-23)**, item 5.7.1 — Nova guia de utilização de 42,5 mil t/ano de quartzo industrial (acima do Anexo 4) · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=24929s) · resultado: aprovado por unanimidade
+- **RD 73 (2025-04-23)**, item 5.7.2 — Prorrogação da guia de utilização 48/2022-MG de 675 mil t/ano de minério de ferro (Guanhães/MG) por 3 anos · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=24929s) · resultado: aprovado por unanimidade
+- **RD 73 (2025-04-23)**, item 5.11.2 — Recurso contra não aprovação de RFP de mármore (PR) · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=24929s) · resultado: aprovado por unanimidade
+- **RD 73 (2025-04-23)**, item 5.11.3 — Recurso contra não aprovação de RFP (AL) · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=24929s) · resultado: aprovado por unanimidade
+- **RD 74 (2025-05-26)**, item 1.3.1 — Prorrogação de guia de utilização 169/2021-MG por 3 anos (quartzo para revestimento 16 mil t/ano e quartzo industrial 50 mil t/ano) · voto: *relator, aprova a prorrogação* (relator, conf. alta) · «acolhe manifestação técnica» · [vídeo](https://www.youtube.com/watch?v=v18z8zLNXFk&t=7854s) · resultado: aprovado por unanimidade dos presentes
+- **RD 74 (2025-05-26)**, item 3.6.1 — Prorrogação de guia de utilização de pegmatito (revestimento e uso industrial; Frei Gaspar e São José do Divino/MG) por 3 anos · voto: *diverge* (outro, conf. alta) · «contraria o art. 24 parágrafo único do Dec. 9.406/2018: já houve prorrogação em 2021, possibilidade esgotada; mantém posição após esclarecimento» · [vídeo](https://www.youtube.com/watch?v=v18z8zLNXFk&t=23859s) · resultado: aprovado por maioria — vencido Mauro Sousa
+- **RD 75 (2025-07-31)**, item 3.9.2 — Guia de utilização acima do limite: feldspato e caulim, 18.000 t/ano (Paraíba) · voto: *acompanha (exceto divergência)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=NRrkimmQohg&t=9539s) · resultado: aprovado por unanimidade (retificado na 76ª ROP)
+- **RD 76 (2025-08-22)**, item 3.1.1 — Retificação do voto RC 599/2025 (75ª ROP) sobre guia de utilização: requerimento era só de caulim, com pedido de 300.000 t em 3 anos · voto: *acompanha* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=-5vYB_XFzgY&t=11689s) · resultado: aprovado por unanimidade
+- **RD 77 (2025-09-29)**, item 2.9.1 — Ampliação da guia de utilização 6/2024 de 20 mil para 300 mil t/ano de gipsita (Riachão-MA) · voto: *acompanha o relator* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=7EbKt320oyU&t=13509s) · resultado: aprovado por unanimidade

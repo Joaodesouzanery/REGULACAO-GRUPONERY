@@ -1,0 +1,383 @@
+{
+ "meta": {
+  "video_id": "nGQWChUBrZw",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "22ª Extraordinária",
+  "data": "2022-03-17",
+  "formato": "videoconferência / híbrida",
+  "presidente_da_sessao": "Victor Bicca (Diretor-Geral); Guilherme Gomes presidiu durante o item 1.1",
+  "diretores_presentes": [
+   "Victor Bicca",
+   "Guilherme Gomes",
+   "Ronaldo Lima",
+   "Roger Cabral",
+   "Júlio Rodrigues (diretor substituto; gabinete antes ocupado por Carlos Cordeiro)"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Inversão de pauta: Ronaldo Lima relatou primeiro e saiu para reunião com secretários estaduais de meio ambiente (licenciamento ambiental); não votou os demais itens.",
+   "Três pedidos de vista: Roger Cabral na resolução da guia de utilização (1.1) e Guilherme Gomes nos itens 5.3 (Vale/RPPN Serra Leste) e 5.4.",
+   "Demais itens unânimes."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.1",
+   "ts": "0:03:16",
+   "processo": "8 processos de concessão de lavra",
+   "interessado": "GR Extração de Areia; Mineração e Transportes Zouk (incerto); VMRX Mineração; Mineração e Transportes N. Sra. Aparecida; Minerfal (incerto); Guarani Siderurgia e Mineração; Marco Rogério Alves Varjão; mineradora de calcário da Paraíba",
+   "assunto": "Outorga de 8 portarias de lavra (areia para construção civil PR/GO/BA, quartzito/revestimento MG, granito para brita PE, calcário PB)",
+   "tema": [
+    "outorga de títulos minerários (portaria de lavra)",
+    "agregados para construção civil"
+   ],
+   "relator": "Ronaldo Lima",
+   "resultado": "aprovado por unanimidade (diretores presentes)",
+   "resumo_voto": "Requerimentos adequadamente instruídos; aprova (relatoria antecipada por inversão de pauta, pois Ronaldo representaria a ANM em fórum de secretários estaduais de meio ambiente).",
+   "votos": [
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "relator, aprova",
+     "ts": "0:05:40",
+     "justificativa": "instrução adequada",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "de acordo com o relator",
+     "ts": "0:05:55",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Júlio Rodrigues",
+     "voto": "de acordo com o relator",
+     "ts": "0:06:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "de acordo",
+     "ts": "0:06:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "de acordo com o relator",
+     "ts": "0:06:06",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.1",
+   "ts": "0:07:47",
+   "processo": "48051.002157/2021 (incerto)",
+   "interessado": "ANM",
+   "assunto": "Resolução que altera os arts. 102 a 122 da Consolidação Normativa (Portaria DNPM 155/2016) sobre guia de utilização: volta a exigir licença ambiental prévia (revendo a Res. ANM 37/2020), permite regularizar lavra ilegal após apuração, distingue lavra ilegal de irregular, análise documental mais célere, aplicação a requerimentos pendentes",
+   "tema": [
+    "regulação normativa (resolução)",
+    "outorga de títulos minerários (guia de utilização)",
+    "ambiental / fechamento de mina",
+    "fiscalização e sanções"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "pedido de vista de Roger Cabral; decisão adiada para a reunião de 30/03",
+   "resumo_voto": "Bicca propõe minuta com ajustes próprios (art. 104, 105 §§3º-6º, 107 §3º, 110 §5º, 112 §3º, art. 3º). Roger pede vista por haver interface com outras resoluções, como a de fechamento de mina; Bicca considera o pedido oportuno.",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, aprova minuta com ajustes",
+     "ts": "0:34:00",
+     "justificativa": "licença ambiental é imprescindível (parecer PFE); não se deve impedir a formalização de lavra ilegal após apuração; celeridade e fiscalização posterior",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "pede vista",
+     "ts": "0:35:13",
+     "justificativa": "precisa estudar consonância com outras resoluções, como a de fechamento de mina; tema delicado",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3.1",
+   "ts": "0:39:33",
+   "processo": "2 processos (2014)",
+   "interessado": "mineradora (nome ilegível)",
+   "assunto": "Recurso contra indeferimento de prorrogação de alvará de pesquisa / não aprovação de relatório final",
+   "tema": [
+    "outorga de títulos minerários (requerimento de pesquisa)",
+    "recursos administrativos"
+   ],
+   "relator": "Guilherme Gomes",
+   "resultado": "recurso provido por unanimidade (diretores presentes)",
+   "resumo_voto": "Vícios na análise processual; torna sem efeito a decisão e manda publicar a prorrogação.",
+   "votos": [
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "relator, aprova",
+     "ts": "0:40:00",
+     "justificativa": "vícios na análise",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "de acordo",
+     "ts": "0:41:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio Rodrigues",
+     "voto": "de acordo",
+     "ts": "0:41:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "de acordo com o relator",
+     "ts": "0:41:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.2",
+   "ts": "0:40:17",
+   "processo": "864.530/2011 (incerto)",
+   "interessado": "minerador (TO)",
+   "assunto": "Recurso contra indeferimento de guia de utilização",
+   "tema": [
+    "outorga de títulos minerários (guia de utilização)",
+    "recursos administrativos"
+   ],
+   "relator": "Guilherme Gomes",
+   "resultado": "recurso negado por unanimidade (diretores presentes)",
+   "resumo_voto": "Mantém indeferimento conforme áreas técnica e jurídica; determina prosseguimento urgente do requerimento de lavra.",
+   "votos": [
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "relator, aprova",
+     "ts": "0:40:50",
+     "justificativa": "conclusões técnicas e jurídicas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "de acordo",
+     "ts": "0:41:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio Rodrigues",
+     "voto": "de acordo",
+     "ts": "0:41:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "de acordo com o relator",
+     "ts": "0:41:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.1",
+   "ts": "0:42:25",
+   "processo": "6 processos",
+   "interessado": "Votorantim Cimentos (PB, 2 processos); Mineração Balsa Nova; Areal Rogalsky; Baraldi Rodrigues e Cia; Cerâmica Branca (MG)",
+   "assunto": "Outorga de concessão de lavra",
+   "tema": [
+    "outorga de títulos minerários (concessão de lavra)",
+    "agregados para construção civil",
+    "calcário / cimento"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "aprovado por unanimidade (diretores presentes)",
+   "resumo_voto": "Processos instruídos e com licenças ambientais; outorga.",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, aprova",
+     "ts": "0:44:00",
+     "justificativa": "instrução e licenças",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "de acordo",
+     "ts": "0:44:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio Rodrigues",
+     "voto": "acompanha o relator",
+     "ts": "0:44:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "0:44:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.1",
+   "ts": "0:44:53",
+   "processo": "8 processos",
+   "interessado": "RK Transportes; Mineração Barrinha; Itavel Serviços Rodoviários; Saga Minérios; Mineração Bela Vista; GR Mineradora de Areia e outros",
+   "assunto": "Outorga de portarias de lavra",
+   "tema": [
+    "outorga de títulos minerários (portaria de lavra)",
+    "agregados para construção civil"
+   ],
+   "relator": "Júlio Rodrigues",
+   "resultado": "aprovado por unanimidade (diretores presentes)",
+   "resumo_voto": "Requerimentos instruídos; outorga. Bicca observa que a Portaria 70.389/2017 foi sucedida pela Res. ANM 95/2022 (ressalva sobre o 5.2).",
+   "votos": [
+    {
+     "diretor": "Júlio Rodrigues",
+     "voto": "relator, aprova",
+     "ts": "0:45:50",
+     "justificativa": "instrução adequada",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "de acordo",
+     "ts": "1:03:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "de acordo",
+     "ts": "1:03:48",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "de acordo com o relator",
+     "ts": "1:03:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.2",
+   "ts": "0:45:54",
+   "processo": "16 autos de infração (915.053/2021 a 915.075/2021, aprox.)",
+   "interessado": "Carbonífera Siderópolis Ltda. (SC)",
+   "assunto": "Recursos contra autos de infração por não cumprir exigências de segurança da barragem bacia de acumulação 01 (PSB, inspeções)",
+   "tema": [
+    "barragens e segurança de barragens",
+    "fiscalização e sanções (multa, caducidade)",
+    "recursos administrativos",
+    "carvão"
+   ],
+   "relator": "Júlio Rodrigues",
+   "resultado": "recursos negados por unanimidade (diretores presentes)",
+   "resumo_voto": "Exigências de fiscalização descumpridas; mantém autos. Bicca pede nota indicando que a Portaria 70.389/2017 foi revogada pela Res. ANM 95/2022.",
+   "votos": [
+    {
+     "diretor": "Júlio Rodrigues",
+     "voto": "relator, aprova",
+     "ts": "0:48:50",
+     "justificativa": "descumprimento de exigências de segurança de barragem",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "de acordo",
+     "ts": "1:03:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "de acordo",
+     "ts": "1:03:48",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "de acordo com o relator, com observação sobre a Res. 95",
+     "ts": "1:03:55",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "5.3",
+   "ts": "0:49:09",
+   "processo": "813.687/1969",
+   "interessado": "Vale S.A. (sustentação oral de Matheus Chaves)",
+   "assunto": "Homologação de renúncia parcial (≈150 ha) de concessão de lavra de minério de ferro (Serra Leste, Curionópolis-PA) e bloqueio da área para criar a RPPN Serra Leste, compensação espeleológica (TCCE 11/2018 com ICMBio) do licenciamento dos corpos N4/N5 de Serra Norte",
+   "tema": [
+    "outorga de títulos minerários (concessão de lavra)",
+    "ambiental / fechamento de mina",
+    "cavidades / espeleologia",
+    "minério de ferro"
+   ],
+   "relator": "Júlio Rodrigues",
+   "resultado": "pedido de vista de Guilherme Gomes",
+   "resumo_voto": "Relatório favorável (análises técnicas). Sustentação: área não afeta reservas nem o PAE; RPPN exige ausência de direito minerário.",
+   "votos": [
+    {
+     "diretor": "Júlio Rodrigues",
+     "voto": "relator, relatório favorável (voto não proferido antes da vista)",
+     "ts": "0:49:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "pede vista",
+     "ts": "0:56:33",
+     "justificativa": "quer estudar melhor o caso da Vale/RPPN",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "5.4",
+   "ts": "0:59:16",
+   "processo": "867.071/2019 a 867.074/2019 (aprox.)",
+   "interessado": "Mais Terra Equipamentos e Serviços (MT)",
+   "assunto": "Recurso contra indeferimento de 4 requerimentos de licenciamento de calcário (Porto Estrela-MT) por não comprovar diligência ambiental em 60 dias",
+   "tema": [
+    "outorga de títulos minerários (licenciamento)",
+    "recursos administrativos",
+    "calcário"
+   ],
+   "relator": "Júlio Rodrigues",
+   "resultado": "pedido de vista de Guilherme Gomes",
+   "resumo_voto": "Relator lê voto de negar provimento (art. 167, II, Portaria 155/2016; PFE), para subsidiar a vista.",
+   "votos": [
+    {
+     "diretor": "Júlio Rodrigues",
+     "voto": "relator, nega provimento",
+     "ts": "1:02:51",
+     "justificativa": "intempestividade da comprovação junto ao órgão ambiental; notas jurídicas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "pede vista",
+     "ts": "1:03:10",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: números de processos, nomes de empresas e substâncias (ex.: corpos N4/N5, lidos M4/M5) incertos.",
+  "Ts dos votos de seguidores aproximados.",
+  "Não houve voto de Ronaldo Lima após o item 2.1 (ausente).",
+  "Transcrição lida integralmente."
+ ]
+}

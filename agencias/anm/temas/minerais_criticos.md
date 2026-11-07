@@ -1,0 +1,144 @@
+# Itens do tema «minerais_criticos» (todos os diretores)
+
+- **RD 1ª Reunião Extraordinária Pública (2019-09-06)**, 1 · relator **Eduardo Leão** · Requerimento de concessão de lavra de 1981 com PAE desatualizado; pedido de prorrogação/alvará de pesquisa complementar; novo relatório de reservas e  → aprovado (unanimidade inferida)
+  - votos: Eduardo: relator; Tomás: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=VY_K3xq1i1U&t=55s)
+- **RD 9ª Ordinária (2019-10-15)**, 6 · relator **Debora Puccini** · Aprovação de relatório final de pesquisa de cobre com redução de área (Canaã dos Carajás, PA) → aprovado
+  - votos: Debora: relator; Victor: acompanha; Tasso: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=lqrKYTzyL0M&t=3542s)
+- **RD 14ª Ordinária (2020-04-01)**, 1.4.11 · relator **Eduardo Leão** · Prorrogação de prazos por um ano (mudança de rota de beneficiamento; falta de autorização local para unidade industrial) → aprovado por unanimidade
+  - votos: Eduardo: relator; Victor: acompanha; Tasso: acompanha; Tomás: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=LrMidsf_ZrQ&t=10350s)
+- **RD 15ª Ordinária (2020-04-15)**, 1.5.a · relator **Tomás Filho** · Recurso contra decaimento parcial de alvará de pesquisa de grafite (Salto da Divisa/MG, Guaratinga/BA) por interferência com Parque Nacional e Parque  → aprovado por unanimidade: autos devolvidos para instauração de procedimento de arquivament
+  - votos: Tomás: relator; Victor: acompanha; Tasso: acompanha; Eduardo: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=lfr2P7uMVeA&t=2251s)
+- **RD 15ª Ordinária (2020-04-15)**, 1.4.d · relator **Tasso Mendonça** · Guia de utilização para 60 mil t de minério de manganês → aprovado por unanimidade
+  - votos: Tasso: relator; Victor: acompanha; Eduardo: acompanha; Tomás: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=lfr2P7uMVeA&t=9386s)
+- **RD 16ª Ordinária (2020-05-20)**, 1.3.12 · relator **Eduardo Leão** · Prorrogação do prazo para requerer lavra → aprovado por unanimidade
+  - votos: Eduardo: relator; Victor: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=lbQcuLZy28Y&t=11021s)
+- **RD 18ª Reunião Ordinária Pública (2020-07-22)**, 1.2.1 · relator **Debora Puccini** · Retificação de voto anterior (reavaliação de reservas; tantalita, espodumênio/quartzo em Itinga-MG) — alvará de pesquisa complementar e encaminhamento → aprovado por unanimidade
+  - votos: Debora: relator; Tomás: acompanha; Eduardo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=rDHG2v6FECg&t=3900s)
+- **RD 15ª Extraordinária (2020-12-18)**, 3.1 · relator **Eduardo Leão** · Outorga de 17 portarias de lavra (areia, cascalho, arenito, argila, basalto, calcário, charnockito, quartzito) e encaminhamento ao MME de 1 portaria d → aprovado por unanimidade
+  - votos: Eduardo: relator; Debora: acompanha; Carlos: acompanha; Tasso: acompanha; Victor: outro · [vídeo](https://www.youtube.com/watch?v=D6YYWHku_rk&t=4509s)
+- **RD 15ª Extraordinária (2020-12-18)**, 4.36 · relator **Tasso Mendonça** · Guia de utilização acima dos volumes do anexo V da Portaria 155 (300 mil t/ano de manganês, 100 mil t/ano de cobre, 100 mil t/ano de minério de ouro) → aprovado por unanimidade
+  - votos: Tasso: relator; Carlos: acompanha; Debora: acompanha; Eduardo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=D6YYWHku_rk&t=4862s)
+- **RD 32ª Ordinária (2021-09-23)**, 3.2 · relator **Tasso Mendonça** · Emissão de guias de utilização acima do Anexo IV (calcário; manganês em projeto de 48,6 ha) → aprova por unanimidade
+  - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=8611s)
+- **RD 40ª Ordinária (2022-05-26)**, 5.6 · relator **Roger Cabral** · Guias de utilização (60 mil t gipsita, manganês, 100 mil t rocha potássica, quartzo, granito) → aprovado por unanimidade
+  - votos: Roger: relator; Guilherme: acompanha; Ronaldo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=6836s)
+- **RD 43ª Reunião Ordinária Pública (2022-08-31)**, 5.1 · relator **Roger Cabral** · Guia de utilização: 100 mil t/ano de rocha fosfática, 3 anos → aprovada, condicionada a licença ambiental (unanimidade)
+  - votos: Roger: relator; Victor: acompanha; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=Zze8E9AIy2I&t=6387s)
+- **RD 43ª Reunião Ordinária Pública (2022-08-31)**, 5.5 · relator **Roger Cabral** · Pedido de pesquisa complementar e novo sobrestamento de 1 ano (rota de beneficiamento); requerimento de lavra de 1977 pendente → negado por falta de amparo legal; retorno à gerência de Goiás para analisar o requerimento
+  - votos: Roger: relator; Victor: acompanha; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=Zze8E9AIy2I&t=6710s)
+- **RD 45ª Reunião Ordinária Pública (2022-11-23)**, 3.4 · relator **Guilherme Gomes** · Guia de utilização de terras raras: 5.000 t/ano por 3 anos → guia aprovada, condicionada a licença ambiental (unanimidade)
+  - votos: Guilherme: relator; Victor: acompanha; Tasso: acompanha; Ronaldo: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=M-AvUArsvls&t=4415s)
+- **RD 45ª Reunião Ordinária Pública (2022-11-23)**, 5.1.2 · relator **Roger Cabral** · Guia de utilização de rocha potássica/fosfática (legenda alterna): 50 mil t/ano por 3 anos (MG) → guia aprovada, condicionada a licença ambiental (unanimidade)
+  - votos: Roger: relator; Victor: acompanha; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=M-AvUArsvls&t=10629s)
+- **RD 53ª Reunião Ordinária Pública (2023-09-05)**, 4.4.1 · relator **Roger Cabral** · Guia de utilização de minério de lítio (espodumênio/petalita) 300 mil t/ano em Araçuaí-MG, acima do Anexo IV → aprovado por unanimidade
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=S2GK8_S3FH4&t=16838s)
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.12.1 · relator **Caio Seabra** · Guia de utilização de manganês: titular pediu 500.000 t/ano, área técnica recomendou 100.000; relator concede 300.000 t/ano por 3 anos com fiscalizaçã → aprovado por unanimidade
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=3403s)
+- **RD 56ª Reunião Ordinária Pública (2023-11-22)**, 2.3.1 · relator **Guilherme Gomes** · Guia de utilização: 600.000 t/ano de calcário (brita e corretivo de solo) e 150.000 t/ano de fosfato, Jacobina do Piauí (PI) → aprovado por unanimidade
+  - votos: Guilherme: relator; Mauro: acompanha; Tasso: acompanha; Roger: acompanha; Yuri: acompanha · [vídeo](https://www.youtube.com/watch?v=0Ck4xPkfL6Q&t=4045s)
+- **RD 60 (2024-03-27)**, 1.3.1 · relator **Mauro Sousa** · Guia de utilização para rocha potássica (substância fora da consolidação normativa), até 50.000 t/ano por 3 anos → aprovado por unanimidade
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=QfacqmQ-2WI&t=5376s)
+- **RD 60 (2024-03-27)**, 2.1.1 · relator **Guilherme Gomes** · Guia de utilização de 500.000 t/ano de fosfato por 3 anos (acima do Anexo IV) → aprovado por unanimidade
+  - votos: Guilherme: relator; Mauro: acompanha; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=QfacqmQ-2WI&t=10475s)
+- **RD 61ª Ordinária (2024-04-30)**, 3.4.1 · relator **Tasso Mendonça** · Guia de utilização acima do volume do Anexo IV da Portaria 155 (300.000 t/ano por 3 anos) → aprovado por unanimidade
+  - votos: Tasso: relator; Mauro: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GN7qzOa9SPg&t=9390s)
+- **RD 62ª Ordinária (2024-05-28)**, 4.3.1 · relator **Roger Cabral** · Guia de utilização de 1.500 t/ano de minério de lítio por 1 ano → aprovado por unanimidade
+  - votos: Roger: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FMURCcvbgzk&t=10791s)
+- **RD 62ª Ordinária (2024-05-28)**, 5.1.3 e 5.1.4 · relator **Caio Seabra** · Guias de utilização de 3.500 e 2.400 t/ano de minério de zircônio por 3 anos → aprovado por unanimidade
+  - votos: Caio: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=FMURCcvbgzk&t=11701s)
+- **RD 64 (2024-07-31)**, 5.7.3 · relator **Caio Seabra** · Recurso contra indeferimento de PLG → aprovado por unanimidade (negado provimento)
+  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=_IeZwId2D0w&t=20190s)
+- **RD 65 (2024-08-26)**, 5.x-demais · relator **Caio Seabra** · Demais itens de Caio Seabra: bloqueio provisório e disponibilidade, nulidade de alvará por interferência, interferência total, registro de licença (No → aprovados por unanimidade (5.9.2 retirado de pauta)
+  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=14805s)
+- **RD 66 (2024-10-07)**, 1.7.1 · relator **Roger Cabral** · Voto-vista sobre recurso contra indeferimento de requerimento de pesquisa (minério de ferro, Belo Vale/Congonhas/MG) por interferência total; manifest → deliberação sobrestada por pedido de vista do diretor Caio Seabra
+  - votos: Mauro: revisor_diverge; Tasso: revisor_acompanha; Guilherme: outro; Roger: relator; Caio: vista · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=8751s)
+- **RD 68 (2024-12-02)**, 2.7.1–2.7.3 · relator **Guilherme Gomes** · Referendo de decisões do relator aprovando relatórios de reavaliação de reservas para lítio (aditamento de substância em processos de granito/rocha or → aprovado por unanimidade (referendo)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=7190s)
+- **RD 70 (2025-01-30)**, 1.4.1 · relator **Mauro Sousa** · Emissão de guia de utilização para rocha potássica (substância fora do Anexo IV da consolidação normativa) → aprovado por unanimidade
+  - votos: Mauro: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=hETIUYUx-48&t=1092s)
+- **RD 70 (2025-01-30)**, 3.1.2 · relator **Tasso Mendonça** · Prorrogação de guia de utilização: 60.000 t/ano de manganês por 3 anos, Guiratinga (MT) → aprovado por unanimidade
+  - votos: Tasso: relator; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hETIUYUx-48&t=2443s)
+- **RD 70 (2025-01-30)**, 5.4.2 · relator **Caio Seabra** · Ampliação da GU 90/2024: minério de ferro de 300.000 para 540.000 t/ano e inclusão de 60.000 t/ano de minério de titânio, 3 anos → aprovado por unanimidade
+  - votos: Caio: relator; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hETIUYUx-48&t=9977s)
+- **RD 72 (2025-03-26)**, 1.5.1 · relator **Mauro Sousa** · Emissão de guia de utilização de até 50.000 t/ano de minério de terras raras por 3 anos (substância fora do Anexo IV); relatório de pesquisa apresenta → aprovado por unanimidade
+  - votos: Mauro: relator; Roger: acompanha; Luís: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=DMEFirMUjdI&t=5677s)
+- **RD 72 (2025-03-26)**, 1.6.1 · relator **Mauro Sousa** · Prorrogação da GU 138/2022 (MG) com ampliação de 6.000 para 490.000 t/ano de minério de manganês, 3 anos → aprovado por unanimidade
+  - votos: Mauro: relator; Roger: acompanha; Luís: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=DMEFirMUjdI&t=5811s)
+- **RD 72 (2025-03-26)**, 2.7.1 · relator **Tasso Mendonça** · Emissão de GU de rocha fosfática (Bodoquena e Bonito-MS) por 3 anos (volume citado como 100.000 e depois 300.000 t/ano) → aprovado por unanimidade
+  - votos: Tasso: relator; Roger: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=DMEFirMUjdI&t=16013s)
+- **RD 73 (2025-04-23)**, 1.6.1 · relator **Guilherme Gomes** · Voto-vista em recurso contra cobrança de CFEM (NFLDP 351/2013, jan.–jun./2012); defesa alegava que a calcinação é transformação industrial e deslocari → aprovado por unanimidade (voto do relator original, acompanhado pelo voto-vista)
+  - votos: Mauro: revisor_acompanha; Roger: acompanha; Caio: acompanha; Luís: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=5661s)
+- **RD 73 (2025-04-23)**, 2.1.1 · relator **Tasso Mendonça** · Recurso contra homologação de renúncia de alvará de pesquisa de ouro (norte de MG); empresa pede anular a homologação, restabelecer prazo e aditar lít → deliberação sobrestada — pedido de vista de Caio Seabra
+  - votos: Tasso: relator; Roger: acompanha; Caio: vista; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=14420s)
+- **RD 73 (2025-04-23)**, 2.1.2 · relator **Tasso Mendonça** · Recurso contra homologação de renúncia de alvará de pesquisa de ouro (norte de MG); empresa pede anular a homologação, restabelecer prazo e aditar lít → deliberação sobrestada — pedido de vista de Caio Seabra
+  - votos: Tasso: relator; Roger: acompanha; Caio: vista; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=14420s)
+- **RD 73 (2025-04-23)**, 2.1.3 · relator **Tasso Mendonça** · Recurso contra homologação de renúncia de alvará de pesquisa de ouro (norte de MG); empresa pede anular a homologação, restabelecer prazo e aditar lít → deliberação sobrestada — pedido de vista de Caio Seabra
+  - votos: Tasso: relator; Roger: acompanha; Caio: vista; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=14420s)
+- **RD 73 (2025-04-23)**, 2.1.4 · relator **Tasso Mendonça** · Recurso contra homologação de renúncia de alvará de pesquisa de ouro (norte de MG); empresa pede anular a homologação, restabelecer prazo e aditar lít → deliberação sobrestada — pedido de vista de Caio Seabra
+  - votos: Tasso: relator; Roger: acompanha; Caio: vista; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=14420s)
+- **RD 73 (2025-04-23)**, 2.1.5 · relator **Tasso Mendonça** · Recurso contra homologação de renúncia de alvará de pesquisa de ouro (norte de MG); empresa pede anular a homologação, restabelecer prazo e aditar lít → deliberação sobrestada — pedido de vista de Caio Seabra
+  - votos: Tasso: relator; Roger: acompanha; Caio: vista; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=14420s)
+- **RD 73 (2025-04-23)**, 2.1.6 · relator **Tasso Mendonça** · Recurso contra homologação de renúncia de alvará de pesquisa de ouro (norte de MG); empresa pede anular a homologação, restabelecer prazo e aditar lít → deliberação sobrestada — pedido de vista de Caio Seabra
+  - votos: Tasso: relator; Roger: acompanha; Caio: vista; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=14420s)
+- **RD 73 (2025-04-23)**, 2.1.7 · relator **Tasso Mendonça** · Recurso contra homologação de renúncia de alvará de pesquisa de ouro (norte de MG); empresa pede anular a homologação, restabelecer prazo e aditar lít → deliberação sobrestada — pedido de vista de Caio Seabra
+  - votos: Tasso: relator; Roger: acompanha; Caio: vista; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=14420s)
+- **RD 73 (2025-04-23)**, 2.1.8 · relator **Tasso Mendonça** · Recurso contra homologação de renúncia de alvará de pesquisa de ouro (norte de MG); empresa pede anular a homologação, restabelecer prazo e aditar lít → deliberação sobrestada — pedido de vista de Caio Seabra
+  - votos: Tasso: relator; Roger: acompanha; Caio: vista; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=14420s)
+- **RD 73 (2025-04-23)**, 2.1.9 · relator **Tasso Mendonça** · Recurso contra homologação de renúncia de alvará de pesquisa de ouro (norte de MG); empresa pede anular a homologação, restabelecer prazo e aditar lít → deliberação sobrestada — pedido de vista de Caio Seabra
+  - votos: Tasso: relator; Roger: acompanha; Caio: vista; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=14420s)
+- **RD 73 (2025-04-23)**, 2.1.10 · relator **Tasso Mendonça** · Recurso contra homologação de renúncia de alvará de pesquisa de ouro (norte de MG); empresa pede anular a homologação, restabelecer prazo e aditar lít → deliberação sobrestada — pedido de vista de Caio Seabra
+  - votos: Tasso: relator; Roger: acompanha; Caio: vista; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=14420s)
+- **RD 73 (2025-04-23)**, 2.1.11 · relator **Tasso Mendonça** · Recurso contra homologação de renúncia de alvará de pesquisa de ouro (norte de MG); empresa pede anular a homologação, restabelecer prazo e aditar lít → deliberação sobrestada — pedido de vista de Caio Seabra
+  - votos: Tasso: relator; Roger: acompanha; Caio: vista; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=14420s)
+- **RD 73 (2025-04-23)**, 4.10.1 · relator **Caio Seabra** · Emissão de guia de utilização de 2 mil t/ano de minério de terras raras por 3 anos → aprovado por unanimidade
+  - votos: Caio: relator; Tasso: acompanha; Roger: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=20693s)
+- **RD 73 (2025-04-23)**, 4.10.2 · relator **Caio Seabra** · Emissão de guia de utilização de 2 mil t/ano de minério de terras raras por 3 anos → aprovado por unanimidade
+  - votos: Caio: relator; Tasso: acompanha; Roger: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=20783s)
+- **RD 74 (2025-05-26)**, 3.2.1 · relator **Roger Cabral** · Recursos em procedimento de disponibilidade (tântalo, Palmeirópolis e Peixe/TO; edital 12/2012) → aprovado por unanimidade dos presentes
+  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=v18z8zLNXFk&t=21663s)
+- **RD 74 (2025-05-26)**, 3.4.1 · relator **Roger Cabral** · Emissão de guia de utilização de 50 mil t/ano de quartzo industrial (Botumirim e Itacambira/MG) por 3 anos → aprovado por unanimidade dos presentes
+  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=v18z8zLNXFk&t=22189s)
+- **RD 74 (2025-05-26)**, 4.12.1 · relator **Caio Seabra** · Emissão de guia de utilização de 300 mil t/ano de rocha potássica beneficiada por 3 anos → aprovado por unanimidade dos presentes
+  - votos: Caio: relator; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=v18z8zLNXFk&t=25762s)
+- **RD 32 (extraordinária) (2025-07-16)**, 2.1.10-2.1.11 · relator **Tasso Mendonça** · Recurso contra não aprovação de RFP (potássio a partir de feldspato alcalino; a legenda também cita ouro, Nova Trento-SC) → aprovado por unanimidade
+  - votos: Tasso: relator; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=Ibgk84neu6g&t=21286s)
+- **RD 76 (2025-08-22)**, 5.6.1 · relator **Cláudio Freire** · Guia de utilização para 300.000 t/ano de minério de lítio (ambligonita), substância fora do anexo IV → aprovado por unanimidade
+  - votos: Cláudio: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=-5vYB_XFzgY&t=13140s)
+- **RD 77 (2025-09-29)**, 2.4.1 · relator **Tasso Mendonça** · Recurso contra negativa de aditamento de lítio à portaria de lavra 485 (quartzito ornamental), para aproveitar estéril/rejeito (70% do material lavrad → aprovado por unanimidade
+  - votos: Tasso: relator; Mauro: acompanha; Roger: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=7EbKt320oyU&t=9491s)
+- **RD 78 (2025-10-24)**, 1.1.1 a 1.1.11 · relator **Tasso Mendonça** · Voto-vista do Diretor-Geral sobre requerimento de nulidade da renúncia a 11 alvarás de pesquisa (MG) e respectivas homologações (2019-2020); com suste → aprovado por maioria (voto do relator Tasso Mendonça: anular renúncias)
+  - votos: Tasso: relator; Mauro: vencido; Roger: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=fjfNiebo4Ok&t=1586s)
+- **RD 78 (2025-10-24)**, 3.1.1 a 3.1.35 · relator **Roger Cabral** · Recursos contra autos de infração por descumprimento da Política Nacional de Segurança de Barragens (extrato quinzenal de inspeção não preenchido no S → aprovado por unanimidade
+  - votos: Roger: relator; Tasso: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=fjfNiebo4Ok&t=22131s)
+- **RD 78 (2025-10-24)**, 4.7.1 · relator **José Fernando Gomes** · Emissão de guia de utilização para rocha fosfática (50 mil t/ano por 3 anos, Presidente Olegário-MG) → aprovado por unanimidade
+  - votos: José: relator; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=fjfNiebo4Ok&t=25170s)
+- **RD 34ª Reunião Extraordinária Pública (2025-11-19)**, 2.7.1 · relator **Tasso Mendonça** · Guia de utilização em caráter excepcional para 1 milhão t/ano (900 mil t de minério de metais do grupo da platina em três setores e 100 mil t de cobre → deliberação sobrestada: pedido de vista de José Fernando Gomes
+  - votos: Tasso: relator; Roger: acompanha; José: vista · [vídeo](https://www.youtube.com/watch?v=D7uaOkpVFTI&t=1515s)
+- **RD 34ª Reunião Extraordinária Pública (2025-11-19)**, 3.7.1 · relator **Roger Cabral** · Recurso contra indeferimento de aditamento de ilmenita, zircão e monazita à PLG 04/2014 (cassiterita), Rondônia → aprovado por unanimidade
+  - votos: Roger: relator; Tasso: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=D7uaOkpVFTI&t=11263s)
+- **RD 79ª Reunião Ordinária Pública (2025-11-26)**, 1.3.1 · relator **Mauro Sousa** · Pedido de desistência das renúncias às concessões de lavra (2022) após identificação de potencial de terras raras; sustentação oral do Dr. Frederico B → deliberação sobrestada: pedido de vista de José Fernando Gomes (Roger e Tasso anteciparam 
+  - votos: Mauro: relator; Roger: acompanha; José: vista; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=uTZCHK8PV6E&t=5649s)
+- **RD 79ª Reunião Ordinária Pública (2025-11-26)**, 1.6.1–1.6.3 · relator **Mauro Sousa** · Recursos contra cobrança de CFEM: venda COMIPA–CBMM, custos de dessulfuração e desfosforação, juros/multa, prova pericial, falta de parecer jurídico → aprovado por unanimidade
+  - votos: Mauro: relator; Roger: acompanha; Tasso: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=uTZCHK8PV6E&t=8752s)
+- **RD 79ª Reunião Ordinária Pública (2025-11-26)**, 3.2.1–3.2.4 · relator **Roger Cabral** · Guias de utilização de 80 mil t/ano (3 anos) de calcário granulado bioclástico marinho (litotâmnio) na plataforma continental, Parnaíba-PI, a mais de  → aprovado por unanimidade
+  - votos: Roger: relator; Tasso: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=uTZCHK8PV6E&t=19320s)
+- **RD 79ª Reunião Ordinária Pública (2025-11-26)**, 3.11.1 · relator **Roger Cabral** · Pedido de reconsideração do prazo da GU 62/2021 (2 para 3 anos) e prorrogação → aprovado por unanimidade
+  - votos: Roger: relator; Tasso: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=uTZCHK8PV6E&t=21300s)
+- **RD 80ª Reunião Ordinária Pública (2025-12-17)**, 4.2.1 · relator **Mauro Sousa** · Voto-vista sobre desistência de renúncia a concessões de lavra de bauxita (potencial de terras raras) → aprovado por maioria (voto do relator Mauro Sousa); José Fernando vencido
+  - votos: José: vencido; Mauro: relator; Tasso: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=47nlOlfELSQ&t=6953s)
+- **RD 81ª Reunião Ordinária Pública (2026-01-28)**, 3.2.1–3.2.2 · relator **Fábio Borges** · Recursos contra notificações de TAH de alvarás de pesquisa de lítio (MG) → aprovado por unanimidade (negado provimento)
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=HZSw38UR_ZE&t=9578s)
+- **RD 84ª Reunião Ordinária Pública (2026-04-29)**, 2.5.3 · relator **Luís Paniago** · Recurso contra cobrança de CFEM (nov/2013 a out/2017), níquel (liga ferro-níquel), São Félix do Xingu (PA); sustentação oral (Dr. André) sobre ponto d → aprovado por unanimidade (negado provimento)
+  - votos: Luís: relator; Fábio: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=z3tOX4s9Y_0&t=1966s)
+- **RD 84ª Reunião Ordinária Pública (2026-04-29)**, 3.5.1 · relator **Fábio Borges** · Recurso contra notificação de cobrança da TAH do 3º ano (lítio, Fruta de Leite e Salinas, MG) → aprovado por unanimidade (negado provimento)
+  - votos: Fábio: relator; Luís: outro; José: outro; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=z3tOX4s9Y_0&t=20099s)
+- **RD 87 (2026-07-29)**, 2.2.1 · relator **Fábio Borges** · Pedido de reconsideração contra não aprovação de relatório final de pesquisa (estanho, nióbio, tântalo, titânio, topázio; Itapuã do Oeste-RO) → provido por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=WujJjvjzafI&t=15432s)
+- **RD 87 (2026-07-29)**, 3.2.1 · relator **Luís Paniago** · Recurso contra notificação de cobrança de TAH (lítio, Berilo e Chapada do Norte-MG) → aprovado por unanimidade
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=WujJjvjzafI&t=17076s)
+- **RD 87 (2026-07-29)**, 3.5.1–3.5.2 · relator **Luís Paniago** · Recursos contra multas por atraso no extrato de inspeção regular quinzenal de barragem (portaria DNPM 70.389/2017) → aprovado por unanimidade
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=WujJjvjzafI&t=17520s)
+- **RD 88 (2026-08-19)**, 3.4.1 · relator **Luís Paniago** · Recurso contra multa (AI 2839/2022) por EIR quinzenal não preenchido (dique de resíduos solúveis) → aprovado por unanimidade
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=18656s)
+- **RD 90 (2026-11-04)**, 3.1.1 · relator **Luís Paniago** · Recurso contra notificação administrativa 38/2026 de TAH (alvará de titânio e terras raras, PI) → aprovado por unanimidade
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=7568s)

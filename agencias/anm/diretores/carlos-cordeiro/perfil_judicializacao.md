@@ -1,0 +1,22 @@
+# Perfil analítico — Carlos Cordeiro · tema: judicializacao
+
+**Amostra:** presente em 14 das 14 reuniões analisadas em que há registro de presença/ausência; 11 votos neste tema; 3 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+
+**Votos:** acompanha o relator 7 (87% dos votos em que não era relator) · relator 3 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
+**Como relator:** 3/3 relatorias aprovadas por unanimidade.
+
+**Temas (nº de itens em que votou / relatorias):** outorga_titulos 174/26; recursos_recursais 97/15; agregados_construcao 46/9; cfem_arrecadacao 40/7; fiscalizacao_sancoes 37/6; regulacao_normativa 15/0; institucional 13/0; ambiental_social 12/1; judicializacao 11/3; garimpo_pla 10/3; barragens_seguranca 5/0; participacao_social 3/0; outros 2/0; minerais_criticos 2/0
+
+## Evidências (reunião · item · voto · justificativa)
+
+- **RD 23ª Ordinária (2020-12-09)**, item 1.2 — Referendo de ato do DG (DOU 08/11/2019) que declarou prioridade em procedimento de disponibilidade, por urgência de cumprimento de sentença  · voto: *vota com o relator* (outro, conf. alta) · [vídeo](https://www.youtube.com/watch?v=rak_IMbQ02w&t=2663s) · resultado: referendado por unanimidade
+- **RD 15ª Extraordinária (2020-12-18)**, item 1.2 — Referendo de atos do DG que tornaram sem efeito caducidade de alvará, anularam declaração de disponibilidade e excluíram o processo do edita · voto: *de acordo* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=D6YYWHku_rk&t=4265s) · resultado: referendado por unanimidade
+- **RD 15ª Extraordinária (2020-12-18)**, item 1.3 — Referendo de arquivamento definitivo de processos instaurados em decorrência do procedimento de disponibilidade anulado (item 1.2) · voto: *de acordo* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=D6YYWHku_rk&t=4265s) · resultado: referendado por unanimidade
+- **RD 25 (2021-02-25)**, item 5.1 — Cumprimento de decisão judicial transitada em julgado: anula retificação de 2010 de coordenadas (SAD69) e portarias de lavra 174/2002 e 297/ · voto: *relator, cumpre decisão judicial (anula atos)* (relator, conf. alta) · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=5160s) · resultado: aprovado por unanimidade
+- **RD 26 (2021-03-25)**, item 3.3.2 — Recursos contra indeferimento de requerimentos de pesquisa/prorrogação com interferência total em terras indígenas homologadas · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=LX-5lXLbJqo&t=7901s) · resultado: aprovado por unanimidade
+- **RD 27 (2021-04-29)**, item 4.5 — Bloqueio temporário de área no Lago Guaíba em cumprimento de liminar · voto: *relator, aprova* (relator, conf. alta) · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=11780s) · resultado: aprovado por unanimidade
+- **RD 28 (2021-05-27)**, item 1.2 — Referendo de ato do Diretor-Geral em cumprimento de decisão judicial: torna sem efeito decisão do superintendente de pesquisa (sem competênc · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=7PICL_r4uQY&t=2740s) · resultado: aprovado por unanimidade
+- **RD 28 (2021-05-27)**, item 4.9 — Arquivamento de procedimento de caducidade de concessão de lavra instaurado por ACP (rio Ribeira, PR) · voto: *relator, arquiva* (relator, conf. alta) · [vídeo](https://www.youtube.com/watch?v=7PICL_r4uQY&t=5408s) · resultado: aprovado por unanimidade
+- **RD 18ª Extraordinária (2021-06-10)**, item 1 — Referendo de atos do Diretor-Geral: aviso de retomada e retificação do Edital de disponibilidade de áreas nº 2 (2ª rodada) e termo de homolo · voto: *acompanha o relator (de acordo)* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=t7x0qWSr-pU&t=493s) · resultado: referendado por unanimidade
+- **RD 29ª Ordinária (2021-06-23)**, item 3.3.1 — Indeferimento de requerimento de lavra: área desapropriada pelo INCRA para assentamento impediu licenciamento ambiental · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=JhjBUQ1wgxg&t=10240s) · resultado: indefere por unanimidade
+- **RD 35ª Reunião Ordinária Pública (2021-12-16)**, item 1.11.1 — Recurso contra o Auto de Paralisação 1/2019 por lavra de diabásio pela arrendatária sem averbação do arrendamento (Paraná) · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=GjzI6PQFCH4&t=4606s) · resultado: recurso provido por unanimidade; auto arquivado

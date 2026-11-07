@@ -1,0 +1,63 @@
+{
+ "meta": {"video_id": "aTSDB6xXLyg", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; votos registrados em reunião anterior (10ª RE) não têm ts nesta reunião", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "11ª Reunião Extraordinária Pública",
+  "data": "2020-07-15",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Victor Bicca (Diretor-Geral); condução passada a Tomás Filho durante a deliberação por Bicca ser relator de um dos itens conexos",
+  "diretores_presentes": ["Victor Bicca", "Tasso Mendonça", "Eduardo Leão", "Tomás Filho", "Debora Puccini"],
+  "ausentes": [],
+  "observacoes": [
+   "Reunião de item único: voto-vista de Tasso Mendonça sobre o item 2 da 10ª Reunião Extraordinária (07/07/2020), julgado em conjunto com o item 3 (conexos), processo 872.093/1996 de Maurício Brito Marcelino da Silva (fosfato, Alagoinhas-BA), em cumprimento de decisões judiciais (TRF-1, reclamação no STJ, ministro Napoleão Nunes Maia).",
+   "Aprovação da ata da 10ª RE adiada para reunião administrativa por falta de tempo para incorporar contribuições de Tomás Filho e Debora Puccini.",
+   "Resultado proclamado por Tomás Filho: item 2 aprovado por maioria (Bicca relator; Tomás e Tasso parcialmente favoráveis; Debora e Eduardo rejeitaram na 10ª RE); item 3 aprovado por unanimidade, com três votos parcialmente favoráveis (Debora, Eduardo, Tomás).",
+   "Houve atrito: o procurador-chefe (Dr. Maurício) tentou esclarecer a modulação dos efeitos e Tomás Filho reagiu dizendo que as explicações causavam mais confusão do que esclarecimento.",
+   "Encaminhamento: ata a ser remetida ao ministro Napoleão Nunes Maia (STJ)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2 (10ª RE) — voto-vista",
+   "ts": "0:15:54",
+   "processo": "872.093/1996 (número lido de forma confusa pela legenda)",
+   "interessado": "Maurício Brito Marcelino da Silva; terceiros afetados: HNK BR Indústria de Bebidas (ex-Schincariol), titulares de argila, areia e água mineral na poligonal",
+   "assunto": "Referendo/convalidação do despacho monocrático do Diretor-Geral (jan/2019) que anulou o ato de aprovação do parecer PROGE 07/97 (indeferimento de requerimento de pesquisa de fosfato em Alagoinhas-BA, área com poço da cervejaria e zona de expansão urbana), em cumprimento de decisão judicial transitada em julgado",
+   "tema": ["outorga de títulos minerários (requerimento de pesquisa)", "judicialização", "recursos administrativos", "água mineral", "fosfato", "conflito entre agentes / mediação"],
+   "relator": "Victor Bicca",
+   "resultado": "aprovado por maioria (3 x 2), com dois votos parcialmente favoráveis com encaminhamentos distintos",
+   "resumo_voto": "Tasso (voto-vista) convalida o despacho do DG, mas o considera insuficiente: o parecer 07/97 nunca foi aprovado e não gerou efeitos; a redução de área decorreu do parecer CONJUR/MME 219/97 aprovado pelo ministro, e o desbloqueio dos 4 ha do poço pelo DG do DNPM seria nulo por incompetência. Propõe oficiar a PFE para pedir ao Judiciário a modulação dos efeitos e audiências de conciliação com terceiros (titulares de direitos minerários e SGM/MME), em vez de outorga pura e simples do alvará.",
+   "votos": [
+    {"diretor": "Victor Bicca", "voto": "relator, aprova convalidação do próprio ato (voto proferido na 10ª RE)", "ts": "", "justificativa": "cumprimento da sentença que anulou o ato de aprovação do parecer 07/97", "confianca": "media"},
+    {"diretor": "Tasso Mendonça", "voto": "voto-vista: acompanha parcialmente (convalida, com recomendações de modulação e mediação)", "ts": "0:50:16", "justificativa": "a ANM não tem competência para desbloquear área bloqueada por ato do ministro (art. 42 do Código de Mineração); outorga direta afetaria terceiros sem contraditório; requerimento de pesquisa gera só expectativa de direito", "tom": "didático, longo relato histórico", "confianca": "alta"},
+    {"diretor": "Tomás Filho", "voto": "acompanha parcialmente (voto na 10ª RE), complementado pelos atos subsequentes do item 3", "ts": "1:05:56", "justificativa": "resumo dado por ele nesta sessão: cumprimento da decisão judicial deve incluir reanálise e outorga da área exceto a zona de expansão urbana, conforme TRF-1", "confianca": "media"},
+    {"diretor": "Debora Puccini", "voto": "diverge, rejeita a convalidação (voto na 10ª RE)", "ts": "", "justificativa": "não detalhada nesta sessão; registrado no resumo de Tomás Filho", "confianca": "media"},
+    {"diretor": "Eduardo Leão", "voto": "diverge, rejeita a convalidação (voto na 10ª RE)", "ts": "", "justificativa": "não detalhada nesta sessão; acompanhou Debora Puccini", "confianca": "media"}
+   ]
+  },
+  {
+   "id": "3 (10ª RE) — conclusão da votação",
+   "ts": "1:09:24",
+   "processo": "872.093/1996",
+   "interessado": "Maurício Brito Marcelino da Silva",
+   "assunto": "Referendo do despacho SEI 1091/SG/2020 (fev/2020) de Tasso Mendonça como DG substituto, na reclamação no STJ, que mandou reanalisar a poligonal original do processo e as interferências",
+   "tema": ["outorga de títulos minerários (requerimento de pesquisa / alvará)", "judicialização", "fosfato"],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado por unanimidade, com três votos parcialmente favoráveis (Debora, Eduardo, Tomás) que mandam concluir a reanálise pela concessão do alvará, excluindo só a zona de expansão urbana",
+   "resumo_voto": "Referenda o despacho de reanálise; Tasso propõe mediação de conflitos; a maioria parcial acrescenta que a reanálise conclua pela outorga do alvará incluindo as áreas recortadas, exceto a zona de expansão urbana do acórdão do TRF-1.",
+   "votos": [
+    {"diretor": "Tasso Mendonça", "voto": "relator, aprova (voto na 10ª RE, reafirmado)", "ts": "0:50:16", "justificativa": "despacho com força executória; mediação por envolver terceiros titulares e competência do MME", "confianca": "alta"},
+    {"diretor": "Debora Puccini", "voto": "acompanha parcialmente, com alteração (voto na 10ª RE)", "ts": "", "justificativa": "reanálise deve concluir pela concessão do alvará excluindo apenas a zona de expansão urbana", "confianca": "media"},
+    {"diretor": "Eduardo Leão", "voto": "acompanha parcialmente, seguindo Debora (voto na 10ª RE)", "ts": "", "confianca": "media"},
+    {"diretor": "Tomás Filho", "voto": "acompanha parcialmente, seguindo Debora (voto na 10ª RE)", "ts": "", "confianca": "media"},
+    {"diretor": "Victor Bicca", "voto": "acompanha o relator", "ts": "1:09:24", "justificativa": "se o desbloqueio dos 4 ha não foi autorizado pelo MME é nulo e tudo sobre a disponibilidade da área deve ser anulado; relevou o prazo de 30 dias para referendo pelo volume de demandas; modulação é oportuna; ANM pode conduzir conciliação se o MME delegar", "confianca": "alta"}
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Cabeçalho do vídeo indica 2020-07-16, mas na abertura o DG diz 'hoje é dia quinze de julho' e marca a reunião administrativa para 'amanhã, dia 16, quinta-feira'; adotada 2020-07-15.",
+  "Votos de Debora, Eduardo e Tomás (e de Bicca no item 2) foram dados na 10ª RE (ArmmpxW5R5k); aqui só aparecem em resumos orais, por isso sem ts próprio ou com ts do resumo.",
+  "Número do processo e nomes (Maurício Brito Marcelino da Silva, HNK BR, juíza Luciana Raquel...) vêm de legenda automática e podem ter erros.",
+  "Placar do item 2 reconstituído a partir do resumo de Tomás Filho (aprovado por maioria com dois votos parcialmente favoráveis)."
+ ]
+}

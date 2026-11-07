@@ -1,0 +1,555 @@
+{
+ "meta": {
+  "video_id": "_gJ3LyVOb64",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "34ª Reunião Ordinária Pública",
+  "data": "2021-11-25",
+  "formato": "videoconferência com transmissão no YouTube",
+  "presidente_da_sessao": "Victor Bicca (Diretor-Geral); Debora Puccini conduziu os itens relatados por Bicca",
+  "diretores_presentes": [
+   "Victor Bicca",
+   "Debora Puccini",
+   "Tasso Mendonça",
+   "Ronaldo Lima",
+   "Guilherme Gomes"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Última ROP com Debora Puccini e Tasso Mendonça (mandatos terminam em 5/12/2021); despedidas no encerramento; Débora diz ter relatado mais de 1.056 processos em 3 anos.",
+   "Bicca: 76 portarias de lavra aprovadas na sessão e 650 no ano (números da legenda).",
+   "Sessão longa (encerrada por volta de 18h28).",
+   "Debate sobre a Res. ANM 37/2020 (guias de utilização x licença ambiental), com ressalva registrada por Ronaldo Lima."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.5.1",
+   "ts": "0:08:06",
+   "processo": "27211.807129/1979 (número aproximado)",
+   "interessado": "Comércio de Pedras Ardósia Central Catarinense Ltda. x Kaus Bush e Cia. Ltda. ME (nomes incertos); sustentação oral do advogado Marcos Della Via",
+   "assunto": "Embargos de declaração e recurso hierárquico ao MME contra decisão da diretoria (25ª ROP, fev/2021) que tornou sem efeito a cessão total de concessão de lavra de ardósia (SC) feita por procurador sem poderes",
+   "tema": [
+    "outorga de títulos minerários (portaria de lavra, concessão de lavra)",
+    "recursos administrativos",
+    "cessão de direitos minerários",
+    "ardósia"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "embargos não providos e recurso hierárquico não conhecido, por unanimidade",
+   "resumo_voto": "Segue a nota PF 722/2021: após decisão do colegiado só cabe recurso hierárquico impróprio ao MME nas hipóteses do Código; sem fato novo; princípio da legalidade prevalece; art. 54 da Lei 9.784 não violado (processo iniciado antes dos 5 anos). Recomenda à SRG norma procedimental sobre pedidos de reconsideração contra decisões da diretoria e do DNPM.",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, nega provimento aos embargos e não conhece do recurso ao MME",
+     "ts": "0:39:00",
+     "confianca": "alta",
+     "justificativa": "ausência de fato novo; legalidade; nota PF 722/2021"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "0:42:13",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "acompanha o relator",
+     "ts": "0:42:18",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "0:42:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator (presidindo o item)",
+     "ts": "0:42:26",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.5.1",
+   "ts": "0:43:43",
+   "processo": "851.074/2012 (número aproximado)",
+   "interessado": "Mineração Buritirama S.A. (PA); sustentação oral do advogado William Freire; área com prioridade da Vale",
+   "assunto": "Recurso contra indeferimento de requerimento de pesquisa (2.482 ha) por interferência com processo prioritário, após a ANM ter declarado a área livre",
+   "tema": [
+    "outorga de títulos minerários (portaria de lavra, concessão de lavra)",
+    "recursos administrativos",
+    "judicialização"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "A PF opinou pela improcedência e pela rejeição do pedido de retirada de pauta (ação da empresa julgada improcedente na Justiça Federal do Pará); relator retira para organizar argumentos e voltar na reunião extraordinária seguinte.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, retira de pauta",
+     "ts": "0:55:33",
+     "confianca": "alta",
+     "justificativa": "organizar prós e contras após sustentação e manifestações da PF"
+    }
+   ]
+  },
+  {
+   "id": "3.9.1",
+   "ts": "0:57:33",
+   "processo": "13 processos de cobrança (937.107/2019 e outros)",
+   "interessado": "Nexa Recursos Minerais S.A. (Vazante e Paracatu/MG; zinco, chumbo, calcário); sustentação oral do advogado Renato",
+   "assunto": "Voto-vista sobre recursos contra cobranças de CFEM de 2009 a 2017 (consumo de concentrado de zinco, bonificações, fretes, exportação de chumbo)",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos",
+    "zinco",
+    "chumbo"
+   ],
+   "relator": "Tasso Mendonça (voto-vista; pedido na 27ª ROP)",
+   "resultado": "retirado de pauta",
+   "resumo_voto": "Defesa alega arbitramento da base de cálculo pelas notas de transferência, documentos entregues em pen drives não analisados e atualização assimétrica de débitos e créditos. O superintendente de arrecadação informa que pediu à Nexa pedido de revisão e marcará reunião para reexaminar os documentos; Bicca apoia a retirada.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "voto-vista, retira de pauta",
+     "ts": "1:19:00",
+     "confianca": "alta",
+     "justificativa": "fato novo: revisão pela Superintendência de Arrecadação"
+    }
+   ]
+  },
+  {
+   "id": "3.10.1",
+   "ts": "1:25:22",
+   "processo": "930.460/2021",
+   "interessado": "Vale S.A.; sustentação oral do advogado Matheus Chaves",
+   "assunto": "Prorrogação de prazo para refazer mapas de inundação de cerca de 135 barragens conforme novos critérios da Res. 32/2020 (art. 6º Portaria DNPM 70.389/2017); inclui Salobo Metais e Mineração Corumbaense",
+   "tema": [
+    "barragens e segurança de barragens",
+    "mineradora Vale"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Gerência de Segurança de Barragens favorável só para as barragens listadas, conforme cronograma; mapas antigos mais conservadores seguem valendo; novo pedido só por imprevisto grave comprovado (art. 17 Res. 13/2019). Relator cita a produção regulatória intensa desde Brumadinho.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, aprova extensão de prazo",
+     "ts": "1:38:39",
+     "confianca": "alta",
+     "justificativa": "falta de serviços especializados no mercado e pandemia; manifestação técnica favorável"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "de acordo com o relator",
+     "ts": "1:39:29",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "de acordo com o relator",
+     "ts": "1:39:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "acompanha",
+     "ts": "1:39:37",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "1:39:42",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.3.8",
+   "ts": "1:40:33",
+   "processo": "48401.910264/2018 (número aproximado)",
+   "interessado": "Eldorado Mineração Ltda. (Eldorado do Sul/RS, brita de granito); sustentação oral do advogado Felipe Grando",
+   "assunto": "Recurso contra cobrança de CFEM (2010–2017, cerca de R$ 720 mil) calculada com dados do RAL; pede dedução de ICMS por operação e recomposição do custo da brita usada em concreto asfáltico (CBUQ)",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos",
+    "agregados para construção civil"
+   ],
+   "relator": "Ronaldo Lima",
+   "resultado": "recurso conhecido e não provido, por unanimidade",
+   "resumo_voto": "RAL é responsabilidade do titular e não foi retificado; DRE apresentado com valores apagados não tem validade; ICMS dedutível é o efetivamente apurado (IN 6/2000; STJ). Processo herdado de Eduardo Leão.",
+   "votos": [
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "1:59:04",
+     "confianca": "alta",
+     "justificativa": "documentos inválidos; RAL não retificado; IN 6/2000"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:59:26",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "1:59:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "1:59:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "1:59:38",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.9.1",
+   "ts": "2:00:49",
+   "processo": "48403.931552/2011 (número aproximado)",
+   "interessado": "Samarco Mineração S.A. (Ouro Preto e Mariana/MG); sustentação oral do advogado André Bins",
+   "assunto": "Recurso contra cobrança de CFEM; pede prescrição intercorrente (recurso parado 10 anos no DNPM) ou nulidade por não apreciação de pedido de prova pericial",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos",
+    "Samarco"
+   ],
+   "relator": "Guilherme Gomes",
+   "resultado": "provimento parcial por unanimidade: anulada a decisão da defesa, autos à regional de MG para apreciar a perícia; prescrição intercorrente rejeitada",
+   "resumo_voto": "Acolhe área técnica e nota PF 114/2020; processo desmembrado semelhante já tivera o mesmo resultado.",
+   "votos": [
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "relator, dá provimento parcial",
+     "ts": "2:05:50",
+     "confianca": "alta",
+     "justificativa": "defesa não apreciou pedido de prova pericial; nega a prescrição"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator na integralidade",
+     "ts": "2:06:18",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "2:06:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "acompanha o relator",
+     "ts": "2:06:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "2:06:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.1–1.10",
+   "ts": "2:07:43",
+   "processo": "diversos (870.473/2020; 840.143/1996; 815.087/2006 e outros)",
+   "interessado": "Ambientais Mineração ME; 27 titulares de lavra; Calcário Diamante, Mineração Serra Grande (prata?), outros; Owens? do Brasil (retificação); Everest Mineração, Globest e outros (caducidade); Mineração Vale do Araguaia; LGS Extração e Comércio de Areia; CPRM",
+   "assunto": "1.1 referendo de guia de utilização emitida pelo DG; 1.2 outorga de 27 concessões de lavra; 1.3 aditamentos; 1.4 retificação de portaria de lavra após cessão parcial; 1.6 caducidade do direito de requerer lavra (5); 1.7 registros de licença negados; 1.8 recurso intempestivo (Vale do Araguaia) não conhecido; 1.9 multa por falta de responsável técnico anulada por prescrição (Lei 9.873/99, processo parado 5 anos); 1.10 desmembramento em profundidade de áreas da CPRM: diligência à SRM para consultar a CPRM",
+   "tema": [
+    "outorga de títulos minerários (portaria de lavra, concessão de lavra)",
+    "fiscalização e sanções (multa, caducidade)",
+    "recursos administrativos",
+    "guia de utilização"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "aprovado por unanimidade, com ressalva de Ronaldo Lima no 1.1",
+   "resumo_voto": "Ronaldo pediu registro em ata de pedido de revisão da Res. ANM 37/2020 (guias de utilização sem licença ambiental prévia); Tasso defendeu a legalidade da resolução; Débora lembrou que a guia só tem eficácia com licença ambiental; Maurício e Bicca disseram que o tema está na agenda regulatória; Bicca reconhece que a lentidão das outorgas levou ao uso excessivo de guias.",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, aprova",
+     "ts": "2:22:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "2:24:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "de acordo com o relator",
+     "ts": "2:24:10",
+     "confianca": "media",
+     "justificativa": "defende a Res. 37/2020: guia não é título; município também emite licença antes da ambiental"
+    },
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "acompanha o relator, com ressalva no item 1.1",
+     "ts": "2:24:21",
+     "confianca": "alta",
+     "justificativa": "pede revisão da Res. 37/2020: não se pode autorizar intervenção no meio ambiente sem licença ambiental prévia"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "2:26:30",
+     "confianca": "media",
+     "justificativa": "a guia só vale após a licença ambiental; tema em revisão na agenda regulatória"
+    }
+   ]
+  },
+  {
+   "id": "2.1–2.4 e 4.2 (Débora)",
+   "ts": "2:39:06",
+   "processo": "diversos (48411.815715/2011; 27211.815483/1987; 48406.861831/2010; 48402.920278/2017; 48414.848486/2013)",
+   "interessado": "Cooperativa Agropecuária de Tubarão (saibro, 154 mil t/ano); empresa de material de construção (cascalho e seixos, 20.400 t/ano); Votorantim Cimentos (14 processos de CFEM); Cícero... (cascalho e argila, GO); Aristeu Vieira Vilela Júnior e Raul Ardito Lerario; Mineração Vale do Rio Tijucas (Nival)",
+   "assunto": "Guias de utilização (2); recursos de CFEM da Votorantim negados após parecer da PF; prorrogação de registro de licença provida por boa-fé (licença municipal tardia); recursos hierárquicos contra decisão do colegiado em disponibilidade não conhecidos; recurso em disponibilidade antiga negado",
+   "tema": [
+    "outorga de títulos minerários (portaria de lavra, concessão de lavra)",
+    "outorga de títulos minerários (disponibilidade de área / leilão de áreas)",
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos",
+    "guia de utilização"
+   ],
+   "relator": "Debora Puccini",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Bicca pede que os votos de disponibilidade deixem claro que seguem a Portaria DNPM 268/2008, anterior à Res. 24/2020.",
+   "votos": [
+    {
+     "diretor": "Debora Puccini",
+     "voto": "relator, aprova",
+     "ts": "2:48:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "2:49:17",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "acompanha o relator",
+     "ts": "2:49:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "2:49:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "2:49:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.1–3.9 (Tasso)",
+   "ts": "2:50:20",
+   "processo": "diversos",
+   "interessado": "Javali..., Itália Mineração e Transportes (nomes incertos), Mineração Vale Capivari, Mineração Juparaná, Vulcão Minérios, Ananias Pontes Lacerda Neto, Domingos Meirelles, Vale Fertilizantes (Sergipe), Cinética, Mineração Partezan, Moacir José da Silva e outros",
+   "assunto": "Indeferimento de requerimento de lavra de areia (mudança para licenciamento); grupamento mineiro arquivado (desistência) e outro indeferido (produção prevista de só 25% da soma das minas); indeferimento de lavra sem diligências ambientais; caducidade de concessão por abandono (Mineração Vale Capivari); recursos de relatório final de pesquisa negados; registros de licença (negados, um provido por falta de AR — parecer PF 203/2019); recursos de CFEM (Vale Fertilizantes e outros negados; um parcial por prescrição/decadência)",
+   "tema": [
+    "outorga de títulos minerários (portaria de lavra, concessão de lavra)",
+    "fiscalização e sanções (multa, caducidade)",
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos",
+    "mineradora Vale"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Vários processos retirados de pauta pelo relator (caducidades, pesquisa, registro).",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, aprova",
+     "ts": "3:14:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "3:14:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "3:14:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "acompanha o relator",
+     "ts": "3:14:18",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "3:14:22",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.1–4.8 (Ronaldo)",
+   "ts": "3:15:32",
+   "processo": "diversos",
+   "interessado": "15 titulares de lavra (inclusive Samarco Revestimentos? e Itatinga Calcário); Votorantim Cimentos; MR Transporte, Ercal, Concretan, Madecon, cooperativa de garimpeiros de Santa Cruz e outros (CFEM); Cerâmica Safran; titular de 12 PLGs de ouro no Amazonas; Iracema Extração de Minérios; Orlando Cruzeiro Cardoso; Mineração Morro Velho",
+   "assunto": "Outorga de 15 portarias de lavra; aditamentos; recursos de CFEM negados; multa em dobro por reincidência (Safran) mantida; 12 recursos contra indeferimento de renovação de PLG de ouro em unidade de conservação de proteção integral negados; registros de licença providos por erro da agência (protocolo ambiental desconsiderado; interferência equivocada); caducidades do direito de requerer lavra; arquivamento de manifesto de mina da Mineração Morro Velho",
+   "tema": [
+    "outorga de títulos minerários (portaria de lavra, concessão de lavra)",
+    "CFEM / arrecadação / TAH",
+    "fiscalização e sanções (multa, caducidade)",
+    "recursos administrativos",
+    "garimpo / PLG",
+    "ouro",
+    "ambiental / unidade de conservação"
+   ],
+   "relator": "Ronaldo Lima",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Seguem pareceres técnicos e jurídicos; MPF recomendou o indeferimento das PLGs em UC.",
+   "votos": [
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "relator, aprova",
+     "ts": "3:27:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "3:27:59",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "3:28:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "3:28:07",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "3:28:11",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.1–5.8 (Guilherme)",
+   "ts": "3:28:44",
+   "processo": "diversos",
+   "interessado": "22 titulares de lavra (Extramix Concreto, Mineração Floresta de Guaíra, MRX Mineração, Pedreira Catedral e outros); Mata Grande Mineração; disputas de disponibilidade antiga (Jeová Engenharia x Rio Novo Mineração, ouro; Empresa Brasileira de Agregados Minerais, granito; Mineração Vale do Rio Tijucas; Gustavo Martins Rambo x Caltins)",
+   "assunto": "Outorga de 22 concessões de lavra; prorrogação de registro negada; aditamento; caducidade; julgamento de propostas em procedimentos de disponibilidade anteriores ao Dec. 9.406/2018 e à Res. 24/2020; recursos em disponibilidade negados; homologação de desistência",
+   "tema": [
+    "outorga de títulos minerários (portaria de lavra, concessão de lavra)",
+    "outorga de títulos minerários (disponibilidade de área / leilão de áreas)",
+    "recursos administrativos"
+   ],
+   "relator": "Guilherme Gomes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Um processo (Pedreiros Hugo? 890.209/2007) retirado de pauta pelo relator.",
+   "votos": [
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "relator, aprova",
+     "ts": "3:42:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "3:42:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "3:42:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "acompanha o relator",
+     "ts": "3:42:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "3:43:03",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "3.5.1 — Mineração Buritirama, recurso contra indeferimento de pesquisa",
+   "relator": "Tasso Mendonça",
+   "motivo": "organizar argumentos após sustentação; volta na reunião extraordinária seguinte (lá foi retirado de novo)",
+   "ts": "0:55:33"
+  },
+  {
+   "item": "3.9.1 — Nexa Recursos Minerais, 13 recursos de CFEM (voto-vista)",
+   "relator": "Tasso Mendonça",
+   "motivo": "revisão dos documentos pela Superintendência de Arrecadação",
+   "ts": "1:21:00"
+  },
+  {
+   "item": "2.1.3 — guia de utilização da Mineração Buritirama; resolução de garantias",
+   "relator": "Debora Puccini",
+   "motivo": "avaliar contribuições; garantias pautada na reunião extraordinária seguinte",
+   "ts": "2:41:00"
+  },
+  {
+   "item": "vários processos do bloco 3 (caducidades, pesquisa, registro de licença)",
+   "relator": "Tasso Mendonça",
+   "motivo": "verificações adicionais",
+   "ts": "3:00:00"
+  },
+  {
+   "item": "5.7 — processo 890.209/2007",
+   "relator": "Guilherme Gomes",
+   "motivo": "melhor exame dos autos",
+   "ts": "3:38:00"
+  }
+ ],
+ "limites_da_analise": [
+  "Reunião lida inteira.",
+  "Blocos agregados; nomes de empresas e números de processo da legenda são muito ruidosos (marcados com '?' quando duvidosos).",
+  "Ts de votos em bloco e de seguidores são aproximados.",
+  "A ressalva de Ronaldo no 1.1 é registrada como 'acompanha com ressalva' (não divergência)."
+ ]
+}

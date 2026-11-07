@@ -1,0 +1,46 @@
+{
+  "meta": {"video_id": "S56a2orKNSc", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "19ª Extraordinária", "data": "2021-08-23", "formato": "videoconferência",
+    "presidente_da_sessao": "Victor Bicca (Diretor-Geral); Debora Puccini presidiu os itens 1.1 e 1.2 (relatados pelo DG)",
+    "diretores_presentes": ["Victor Bicca", "Debora Puccini", "Tasso Mendonça", "Ronaldo Lima", "Guilherme Gomes"],
+    "ausentes": [],
+    "observacoes": ["Primeira reunião pública com os diretores Ronaldo Lima e Guilherme Gomes (boas-vindas do procurador-chefe Maurício). Ronaldo Lima teve problemas de conexão; Guilherme Gomes participou de aeroporto.", "Dois itens deliberados (ambos de disponibilidade de áreas, relator Victor Bicca), unânimes; item 2 (resolução da agenda regulatória, relator Tasso Mendonça) retirado de pauta por falta de parecer da Procuradoria.", "Guilherme Gomes relatou queixas de administrados (MG, TO, BA) sobre demora na emissão de alvará de áreas arrematadas e sugeriu consulta à SRM; Victor Bicca pediu circular de Carlos Cordeiro aos gerentes regionais para emissão quase automática, sem novo controle de áreas.", "Victor Bicca lembra retomada da contagem de prazos suspensos a partir de 1º de outubro de 2021."]
+  },
+  "itens": [
+    {
+      "id": "1.1", "ts": "0:08:11",
+      "processo": "48051.002953/2021-76 (legenda incerta)", "interessado": "Agência Nacional de Mineração",
+      "assunto": "Edital nº 3/2021 — 5ª rodada de disponibilidade de áreas (cerca de 4.500 áreas: 4.461 para autorização de pesquisa e 39 para concessão de lavra)",
+      "tema": ["outorga de títulos minerários", "disponibilidade de área / leilão de áreas", "regulação normativa", "participação social"],
+      "relator": "Victor Bicca", "resultado": "aprovado por unanimidade, com incorporação das recomendações da Procuradoria",
+      "resumo_voto": "Mantém as regras da 4ª rodada (oferta pública prévia de 60 dias e leilão eletrônico na plataforma SOPLE); novidades contra especulação: limite de áreas por participante e impedimento de assunção pelo segundo colocado. Seleção preferencial de áreas indicadas via plataforma e com trabalho técnico. Audiência pública virtual em 19/08/2021 com o PPI. Aprova o edital, devendo a versão final incorporar as recomendações do despacho da PFE.",
+      "votos": [
+        {"diretor": "Victor Bicca", "voto": "relator, aprova com ajustes da PFE", "ts": "0:17:58", "justificativa": "processo bem instruído; melhoria contínua da oferta pública de áreas; transparência, impessoalidade e eficiência; versão final deve incorporar todas as recomendações da Procuradoria", "confianca": "alta"},
+        {"diretor": "Guilherme Gomes", "voto": "acompanha o relator (de acordo)", "ts": "0:18:44", "confianca": "alta"},
+        {"diretor": "Tasso Mendonça", "voto": "acompanha o relator em seu voto", "ts": "0:18:51", "confianca": "media"},
+        {"diretor": "Ronaldo Lima", "voto": "acompanha o relator (de acordo)", "ts": "0:19:05", "justificativa": "votou após falha de conexão", "confianca": "media"},
+        {"diretor": "Debora Puccini", "voto": "acompanha o relator (de acordo)", "ts": "0:19:08", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2", "ts": "0:19:28",
+      "processo": "48051.001161/2021-34 (legenda incerta)", "interessado": "Agência Nacional de Mineração",
+      "assunto": "Referendo de atos do Diretor-Geral sobre o Edital nº 1/2021 (3ª rodada de disponibilidade): decisão sobre 8 recursos não acatados pela comissão e termo de homologação e adjudicação (DOU 23/07 e 30/07/2021)",
+      "tema": ["outorga de títulos minerários", "disponibilidade de área / leilão de áreas", "recursos administrativos"],
+      "relator": "Victor Bicca", "resultado": "referendado por unanimidade",
+      "resumo_voto": "Recursos negados porque os erros decorreram do próprio uso equivocado do sistema pelos participantes, sem falha do sistema; DG avocou por urgência do cronograma (art. 8º do Regimento Interno). Resultado sobre cerca de 2.762 áreas: 571 arrematadas na oferta pública, 855 no leilão eletrônico (previsão de arrecadação de cerca de R$ 64,5 milhões, segundo a legenda), cerca de 1.090 sem manifestação e 232 sem proposta financeira, liberadas.",
+      "votos": [
+        {"diretor": "Victor Bicca", "voto": "relator, referenda", "ts": "0:28:34", "justificativa": "análises individuais fundamentadas da comissão; urgência do prazo do edital", "confianca": "alta"},
+        {"diretor": "Tasso Mendonça", "voto": "acompanha o relator (de acordo)", "ts": "0:29:08", "confianca": "alta"},
+        {"diretor": "Ronaldo Lima", "voto": "acompanha (de acordo com o presidente)", "ts": "0:29:35", "confianca": "media"},
+        {"diretor": "Guilherme Gomes", "voto": "acompanha o relator (de acordo)", "ts": "0:29:48", "confianca": "alta"},
+        {"diretor": "Debora Puccini", "voto": "acompanha o relator", "ts": "0:29:52", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"id": "2", "ts": "0:30:15", "relator": "Tasso Mendonça", "assunto": "Matéria da agenda regulatória (resolução; assunto não detalhado na fala)", "motivo": "parecer da Procuradoria Federal Especializada não ficou pronto; será repautada em ordinária ou extraordinária assim que houver parecer; procurador Maurício prometeu prioridade"}
+  ],
+  "limites_da_analise": ["Data: cabeçalho do .md indica 2021-08-24, mas a pauta lida na sessão diz 'segunda-feira, 23 de agosto'; adotado 2021-08-23 (verificar).", "Legenda automática: números de processo, quantidades de áreas e valores podem estar errados.", "Assunto do item 2 retirado não é identificado na fala.", "O .md tem poucos marcadores de tempo; ts obtidos por busca na transcrição .json; votos de Debora Puccini aproximados."]
+}

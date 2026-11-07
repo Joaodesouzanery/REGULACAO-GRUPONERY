@@ -1,0 +1,176 @@
+# Itens do tema «barragens_seguranca» (todos os diretores)
+
+- **RD 4ª ROP (2019-06-24)**, 1 · relator **None** · Pedido de aproveitamento de rejeitos depositados em barragem (reaproveitamento econômico de rejeitos) com base no Parecer Normativo 246 → aprovado diligência (sem divergência registrada)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=cv5RTjpyQbM&t=150s)
+- **RD 14ª Ordinária (2020-04-01)**, 1.4.9 · relator **Eduardo Leão** · Recurso contra três multas (≈R$ 15 mil cada, em dobro por reincidência) por não entrega do PAEBM a prefeituras e Defesa Civil → aprovado por unanimidade: recursos negados, multas mantidas
+  - votos: Eduardo: relator; Victor: acompanha; Tasso: acompanha; Tomás: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=LrMidsf_ZrQ&t=9882s)
+- **RD 16ª Ordinária (2020-05-20)**, 1.2.13 · relator **Debora Puccini** · Levantamento de bloqueios judiciais/indisponibilidade de títulos minerários impostos após o rompimento da barragem de Fundão (ACP de 2015), conforme T → aprovado por unanimidade
+  - votos: Debora: relator; Victor: acompanha; Tasso: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=lbQcuLZy28Y&t=162s)
+- **RD 9ª Reunião Extraordinária Pública (2020-05-27)**, 3.3 · relator **Eduardo Leão** · Cumprimento de decisão judicial: desbloqueio de áreas da Vale (Ouro Preto, MG) após homologação do TAC-Governança da ACP de Fundão; decisão da 12ª Var → aprovado (unanimidade)
+  - votos: Eduardo: relator; Victor: acompanha; Tasso: acompanha; Tomás: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=XgYPPYFL8T0&t=11707s)
+- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 3.2 · relator **Eduardo Leão** · Recurso contra multa por não entrega da Declaração de Condição de Estabilidade (DCE) da barragem de rejeito B4C (em descaracterização) → aprovado por unanimidade (votação em bloco)
+  - votos: Eduardo: relator; Debora: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=3401s)
+- **RD 22ª Ordinária (2020-11-18)**, 3.1 · relator **Eduardo Leão** · Retificação da Resolução ANM 46/2020 (altera a Res. 28 — suspensão de prazos por covid-19 — e cria prorrogação automática de títulos por até 288 dias, → aprovado por unanimidade
+  - votos: Eduardo: relator; Tomás: outro; Tasso: outro; Debora: outro; Victor: outro · [vídeo](https://www.youtube.com/watch?v=Qq7qMQ7_rfc&t=131s)
+- **RD 15ª Extraordinária (2020-12-18)**, 1.1 · relator **Victor Bicca** · Resolução de certificação: critérios técnicos para avaliação de conformidade e operacionalidade do Plano de Ação de Emergência para Barragens de Miner → aprovado por unanimidade (5 a 0)
+  - votos: Victor: relator; Eduardo: acompanha; Carlos: acompanha; Tasso: acompanha; Debora: outro · [vídeo](https://www.youtube.com/watch?v=D6YYWHku_rk&t=2397s)
+- **RD 25 (2021-02-25)**, 1.1 · relator **Victor Bicca** · Referendo da Resolução ANM 56/2021, que alterou a Resolução 51/2020 (Plano de Ação de Emergência de barragens de mineração): clareza, erro material e  → aprovado por unanimidade
+  - votos: Victor: relator; Carlos: acompanha; Eduardo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=2310s)
+- **RD 17 (extraordinária) (2021-04-24)**, 1 · relator **Tasso Mendonça** · Resolução do Plano de Fechamento de Mina (PFM), eixo temático 2 da Agenda Regulatória 2020/2021; revoga as NRM 20.4 e 20.5 (Portaria DNPM 237/2001) → aprovado por unanimidade, com ajuste da vigência (primeiro dia útil do mês subsequente, co
+  - votos: Tasso: relator; Carlos: outro; Aline: acompanha; Victor: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=HHat5fD8HD8&t=187s)
+- **RD 32ª Ordinária (2021-09-23)**, 3.13.1 · relator **Tasso Mendonça** · Recurso contra autos de infração 51 e 52/2016 sobre declarações de estabilidade de barragens → dá provimento por unanimidade
+  - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=9880s)
+- **RD 32ª Ordinária (2021-09-23)**, 3.13.2 · relator **Tasso Mendonça** · Recurso contra auto de infração: mapa de inundação de barragem não disponível na vistoria → nega provimento por unanimidade
+  - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=10009s)
+- **RD 34ª Reunião Ordinária Pública (2021-11-25)**, 3.10.1 · relator **Tasso Mendonça** · Prorrogação de prazo para refazer mapas de inundação de cerca de 135 barragens conforme novos critérios da Res. 32/2020 (art. 6º Portaria DNPM 70.389/ → aprovado por unanimidade
+  - votos: Tasso: relator; Guilherme: acompanha; Debora: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=_gJ3LyVOb64&t=5122s)
+- **RD 20ª Reunião Extraordinária Pública (2021-12-02)**, 2.1 · relator **Tasso Mendonça** · Resolução sobre o aproveitamento de estéril e rejeitos de mineração (eixo temático 2 da agenda regulatória 2020/2021): direito do titular sem novo tít → aprovado por unanimidade
+  - votos: Tasso: relator; Debora: acompanha; Ronaldo: acompanha; Guilherme: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ExyrFG2xQXI&t=2820s)
+- **RD 35ª Reunião Ordinária Pública (2021-12-16)**, 1.6 · relator **Victor Bicca** · Prorrogação de prazo para descaracterização de barragem a montante (art. 9º Res. ANM 13/2019 e art. 2º-A da Lei 12.334/2010) → aprovado por unanimidade
+  - votos: Victor: relator; Ronaldo: acompanha; Carlos: acompanha; Aline: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=GjzI6PQFCH4&t=6634s)
+- **RD 36ª Reunião Ordinária Pública (2022-01-26)**, 2.3 (bis) · relator **Ronaldo Lima** · Recurso contra multas de barragens (estruturas Mangabeiras B1 e B3 auxiliar, dolomito) → provido parcialmente: multas tornadas sem efeito para serem refeitas com correção do agent
+  - votos: Ronaldo: relator; Guilherme: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=xiUGQlCtGDw&t=7210s)
+- **RD 21ª Reunião Extraordinária Pública (2022-02-07)**, 2.1 · relator **Ronaldo Lima** · Resolução que consolida os atos normativos sobre segurança de barragens de mineração e atualiza procedimentos à Lei 14.066/2020 (altera a Lei 12.334/2 → aprovado por unanimidade
+  - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Júlio: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=itMZRZ-4ufA&t=503s)
+- **RD 37ª Ordinária (2022-02-24)**, 2.5 · relator **Ronaldo Lima** · 14 recursos contra multas por descumprir exigências de segurança da barragem Rio Fiorita → recurso negado por unanimidade (diretores presentes)
+  - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Júlio: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=558s)
+- **RD 37ª Ordinária (2022-02-24)**, 5.9 · relator **Júlio Rodrigues** · Recurso contra auto de infração por não incluir caracterização tecnológica dos rejeitos no PSB (barragem bacia de acumulação 01) → recurso negado por unanimidade (diretores presentes)
+  - votos: Júlio: relator; Ronaldo: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=5967s)
+- **RD 19ª Ordinária (2022-03-07)**, 1.4 · relator **Victor Bicca** · Recurso contra multa por infração ao art. 20 da Portaria DNPM 70.389/2017 (segurança de barragens) → recurso provido por unanimidade
+  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1406s)
+- **RD 19ª Ordinária (2022-03-07)**, 1.9 · relator **Victor Bicca** · Recursos contra quatro multas da Portaria 70.389/2017 (barragens) → recurso negado quanto ao AI 906/2017 e provido quanto aos AIs 590, 620 e 663/2018, por una
+  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1630s)
+- **RD 19ª Ordinária (2022-03-07)**, 1.10 · relator **Victor Bicca** · Recurso contra multas por não publicar extrato da inspeção quinzenal de barragem (art. 20, Portaria 70.389/2017) → recurso negado por unanimidade
+  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1768s)
+- **RD 19ª Ordinária (2022-03-07)**, 3.1 · relator **Eduardo Leão** · Recurso contra multa por descumprimento de norma de segurança de barragem (alega descomissionamento) → recurso negado por unanimidade
+  - votos: Eduardo: relator; Debora: acompanha; Tasso: acompanha; Tomás: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=2830s)
+- **RD 22ª Extraordinária (2022-03-17)**, 5.2 · relator **Júlio Rodrigues** · Recursos contra autos de infração por não cumprir exigências de segurança da barragem bacia de acumulação 01 (PSB, inspeções) → recursos negados por unanimidade (diretores presentes)
+  - votos: Júlio: relator; Guilherme: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nGQWChUBrZw&t=2754s)
+- **RD 38ª Ordinária (2022-03-31)**, 2.7 (2) · relator **Ronaldo Lima** · Recurso contra multa por não implementar sistema de monitoramento de segurança de barragem; alega cerceamento de defesa e arrendamento à Minasul desde → recurso negado por unanimidade
+  - votos: Ronaldo: relator; Roger: acompanha; Júlio: acompanha; Guilherme: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=dGwZYiw_lh0&t=1670s)
+- **RD 39ª Ordinária (2022-04-28)**, 2.8 · relator **Ronaldo Lima** · Recurso contra multas por descumprimento de normas de segurança de barragem → recurso negado por unanimidade
+  - votos: Ronaldo: relator; Tasso: acompanha; Roger: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=Y-jJDsaPHKU&t=4785s)
+- **RD 40ª Ordinária (2022-05-26)**, 2.7 · relator **Ronaldo Lima** · Recursos contra multas por descumprir normas de segurança de barragens (Portaria 70.389/2017) → sete recursos negados e um provido, por unanimidade
+  - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=3267s)
+- **RD 40ª Ordinária (2022-05-26)**, 2.7 (2) · relator **Ronaldo Lima** · Recurso intempestivo contra multa de segurança de barragem → recurso não conhecido (intempestivo), por unanimidade
+  - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=3350s)
+- **RD 40ª Ordinária (2022-05-26)**, 2.7 (3) · relator **Ronaldo Lima** · Retificação de decisão da 36ª RO que anulou 55 multas de barragem, para manter três autos (estruturas Mangabeiras) → retificação aprovada por unanimidade
+  - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=3425s)
+- **RD 41ª Ordinária (2022-06-30)**, 4.10 · relator **Tasso Mendonça** · Recursos contra autos de infração de segurança de barragens (DCE não apresentada; extrato de inspeção; relatório de causas e consequências do rompimen → recurso negado por unanimidade
+  - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=7889s)
+- **RD 42ª Reunião Ordinária Pública (2022-07-27)**, 4.8.1 · relator **Tasso Mendonça** · Recurso contra multa por não promover segurança e salubridade das habitações (rompimento da barragem I em 2019) → negado; valor ajustado para multa simples (sem reincidência) (unanimidade)
+  - votos: Tasso: relator; Victor: acompanha; Guilherme: acompanha; Ronaldo: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=qNoGxBv5WKY&t=7601s)
+- **RD 42ª Reunião Ordinária Pública (2022-07-27)**, 4.8.2 · relator **Tasso Mendonça** · Recurso contra multa por não evitar extravio de águas e drenagem danosa a vizinhos → negado; multa simples (unanimidade)
+  - votos: Tasso: relator; Victor: acompanha; Guilherme: acompanha; Ronaldo: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=qNoGxBv5WKY&t=7904s)
+- **RD 42ª Reunião Ordinária Pública (2022-07-27)**, 4.8.3 · relator **Tasso Mendonça** · Recurso contra multa por não responder por danos e prejuízos a terceiros → provido; auto de infração arquivado (unanimidade)
+  - votos: Tasso: relator; Victor: acompanha; Guilherme: acompanha; Ronaldo: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=qNoGxBv5WKY&t=8070s)
+- **RD 42ª Reunião Ordinária Pública (2022-07-27)**, 4.8.4 · relator **Tasso Mendonça** · Recurso contra multa por não evitar poluição do ar e das águas → negado (unanimidade)
+  - votos: Tasso: relator; Victor: acompanha; Guilherme: acompanha; Ronaldo: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=qNoGxBv5WKY&t=8246s)
+- **RD 42ª Reunião Ordinária Pública (2022-07-27)**, 4.8.5 · relator **Tasso Mendonça** · Recurso contra multa por não proteger fontes de água mineral → provido; auto arquivado (unanimidade)
+  - votos: Tasso: relator; Victor: acompanha; Guilherme: acompanha; Ronaldo: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=qNoGxBv5WKY&t=8347s)
+- **RD 45ª Reunião Ordinária Pública (2022-11-23)**, 2.2 · relator **Ronaldo Lima** · Recurso contra multa por não apresentação da declaração de condição de estabilidade (1º sem. 2019) da barragem Três Fontes (em descaracterização) → recurso não acatado; multa mantida (unanimidade)
+  - votos: Ronaldo: relator; Victor: acompanha; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=M-AvUArsvls&t=3372s)
+- **RD 47 (2023-01-25)**, 3.1.3 · relator **Tasso Mendonça** · Recurso contra multa por não envio da declaração de condição de estabilidade da barragem Califórnia → aprovado por unanimidade
+  - votos: Tasso: relator; Mauro: acompanha; Guilherme: acompanha; Roger: acompanha; Júlio: acompanha · [vídeo](https://www.youtube.com/watch?v=UfKJpb9ZVZA&t=10342s)
+- **RD 48 (2023-02-22)**, 5.1.1 · relator **Júlio Rodrigues** · Resolução que altera a Resolução ANM 95/2022 (consolidação normativa sobre segurança de barragens de mineração) → aprovado por unanimidade
+  - votos: Júlio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=OebsMtBiF7o&t=90s)
+- **RD 49 (2023-03-28)**, Júlio-4.1 · relator **Júlio Rodrigues** · Recurso contra multas por atraso no extrato de ISR e na DCE de barragem (Portaria DNPM 70.389/2017), MG → recurso não provido, por unanimidade
+  - votos: Júlio: relator; Guilherme: acompanha; Mauro: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=3877s)
+- **RD 51 (2023-07-07)**, 1.1.1-1.1.3 · relator **Mauro Sousa** · Referendo de atos do Diretor-Geral: prorrogação de prazos da resolução de multas em revisão; autorização de disposição de rejeitos em barragem com DCE → referendado por unanimidade
+  - votos: Mauro: relator; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=nqVyPAM43j0&t=6270s)
+- **RD 51 (2023-07-07)**, 5.9.8-5.9.11 · relator **Caio Seabra** · Recursos contra multas (exigência atendida fora do prazo, não apresentação de DCE de barragem, TAH) → aprovado por unanimidade
+  - votos: Caio: relator; Mauro: acompanha; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=nqVyPAM43j0&t=17700s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 1.4.1 · relator **Mauro Sousa** · Definição da alternativa para barragens com comunidade na ZAS (art. 54 Res. ANM 95/2022; art. 18 Lei 12.334): descaracterizar Cachoeirinha e reforçar  → aprovado por unanimidade (após confusão se teria sido retirado de pauta)
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=11185s)
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 4.4.1 · relator **Roger Cabral** · Estudo de alternativas para a barragem Usina CIP Lago 4 (comunidade na zona de autossalvamento; art. 18-A da Lei 12.334/2010 e art. 54 da Res. ANM 95/ → aprovado por unanimidade
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=458s)
+- **RD 58 (2024-01-24)**, 4.2.2 · relator **Roger Cabral** · Alternativa para adequação de barragem (art. 54 da Resolução ANM 95/2022) → processos devolvidos à SBM por questão de ordem aprovada por unanimidade
+  - votos: Roger: relator; Mauro: outro; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=96WWdF-Y2IA&t=3285s)
+- **RD 58 (2024-01-24)**, 4.2.1 · relator **Roger Cabral** · Alternativa para adequação de barragem (art. 54 da Resolução ANM 95/2022) → processos devolvidos à SBM por questão de ordem aprovada por unanimidade
+  - votos: Roger: relator; Mauro: outro; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=96WWdF-Y2IA&t=19959s)
+- **RD 58 (2024-01-24)**, 4.2.3 · relator **Roger Cabral** · Alternativa para adequação de barragem (art. 54 da Resolução ANM 95/2022) → processos devolvidos à SBM por questão de ordem aprovada por unanimidade
+  - votos: Roger: relator; Mauro: outro; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=96WWdF-Y2IA&t=19993s)
+- **RD 61ª Ordinária (2024-04-30)**, 5.3.1 a 5.3.7 · relator **Caio Seabra** · Recursos contra multas: sirenes na ZAS de barragem; extrato de inspeção regular fora do prazo (SIGBM); TAH não paga (inclusive após renúncia e recuper → aprovado por unanimidade
+  - votos: Caio: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=GN7qzOa9SPg&t=14555s)
+- **RD 63 (2024-07-08)**, 2.14.1 · relator **Guilherme Gomes** · Recurso contra multa por DCE extemporânea e incompleta da barragem Jacaré Médio → aprovado por unanimidade (negado provimento)
+  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=8Fj3c7cQucw&t=23557s)
+- **RD 64 (2024-07-31)**, 5.1.1 · relator **Caio Seabra** · Alteração da Resolução ANM 95/2022 (consolidação normativa sobre segurança de barragens de mineração): 12 itens de desburocratização, 10 de detalhamen → aprovado por unanimidade
+  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=_IeZwId2D0w&t=1724s)
+- **RD 65 (2024-08-26)**, 1.2.1-1.2.2 · relator **Mauro Sousa** · Recursos contra multas de fiscalização de barragem (Res. ANM 13/2019; medidas de segurança não implementadas no prazo) → aprovado por unanimidade (recurso não provido)
+  - votos: Mauro: relator; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=3446s)
+- **RD 66 (2024-10-07)**, 1.5.1 · relator **Guilherme Gomes** · Voto-vista sobre recurso contra 31 autos de infração (multas) por descumprimento de obrigações de segurança de barragens (SIGBM) → aprovado por unanimidade o voto-vista, com adesão do relator original
+  - votos: Mauro: revisor_diverge; Tasso: acompanha; Guilherme: revisor_acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=7222s)
+- **RD 66 (2024-10-07)**, 2.4.1-2.4.17 · relator **Guilherme Gomes** · Recursos contra multas por não pagamento de TAH; o 2.4.14 é multa de segurança de barragem (sirenes automatizadas, barragem Gregório, Mineração Corumb → aprovados por unanimidade (multas mantidas)
+  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22036s)
+- **RD 67ª Reunião Ordinária Pública (Parte 02) (2024-11-04)**, 2.6.6 · relator **Guilherme Gomes** · Recurso contra NFLD nº 351/2013 — CFEM jan–jun/2012 sobre consumo de níquel para ferro-níquel (momento da incidência: antes da calcinação vs. até a gr → sobrestado por pedido de vista de Mauro Sousa
+  - votos: Guilherme: relator; Mauro: vista; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EpUH2BErxWU&t=6029s)
+- **RD 29ª Reunião Extraordinária Pública (2024-11-08)**, 5.15.1 (voto 447) · relator **Caio Seabra** · Recurso contra retirada da área 1609 da 8ª rodada de disponibilidade por interferência com pilhas de estéril/barragem (Res. ANM 85/2021, arts. 2º e 3º → sobrestado por pedido de vista de Guilherme Gomes
+  - votos: Caio: relator; Guilherme: vista · [vídeo](https://www.youtube.com/watch?v=GVCVhAj980Y&t=2735s)
+- **RD 30ª Reunião Extraordinária Pública (2024-11-22)**, 5.1.1 · relator **Guilherme Gomes** · Voto-vista sobre proposta de alteração da Resolução ANM 85/2021 (aproveitamento e dominialidade de estéreis e rejeitos; exigência de servidão minerári → aprovado por unanimidade o voto-vista de Caio Seabra, com adesão do relator Guilherme Gome
+  - votos: Caio: revisor_acompanha; Guilherme: revisor_acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=x_q7U7MZEZQ&t=5114s)
+- **RD 69 (2024-12-18)**, 3.6.x Cooperativa Santa Cruz · relator **Tasso Mendonça** · Recurso contra multa por não elaborar a primeira Revisão Periódica de Segurança de Barragem (RPSB) e declaração de estabilidade no prazo (Portaria 70. → aprovado por unanimidade dos presentes (negado provimento)
+  - votos: Tasso: relator; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=PPaw9lNsgZo&t=10951s)
+- **RD 69 (2024-12-18)**, 3.6.x Carbonífera · relator **Tasso Mendonça** · Recurso contra multa por não apresentar projeto de adequação e obras de estanqueidade de barragem (bacia Rio Fiorita) → aprovado por unanimidade dos presentes (negado provimento)
+  - votos: Tasso: relator; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=PPaw9lNsgZo&t=11206s)
+- **RD 71 (2025-02-25)**, 2.3.1-2.3.2 · relator **Tasso Mendonça** · Recursos contra multas de segurança de barragem: atraso no extrato de inspeção regular (barragem Lauro Müller bacia 4) e falta de níveis de controle d → aprovado por unanimidade
+  - votos: Tasso: relator; Roger: acompanha; Caio: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=2Aq6IIxfqu0&t=14619s)
+- **RD 71 (2025-02-25)**, 2.3.3-2.3.4 · relator **Tasso Mendonça** · Recursos contra multas por não apresentar a primeira revisão periódica de segurança de barragem (barragem Jacaré Superior) → aprovado por unanimidade
+  - votos: Tasso: relator; Roger: acompanha; Caio: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=2Aq6IIxfqu0&t=14984s)
+- **RD 72 (2025-03-26)**, 5.13.1 · relator **Luís Paniago** · Recurso contra autos de infração de segurança de barragem (falta de DCE e de cumprimento de exigências de manutenção) → aprovado por unanimidade
+  - votos: Luís: relator; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=DMEFirMUjdI&t=20729s)
+- **RD 33 (extraordinária) (2025-10-15)**, 3.3.1 · relator **Roger Cabral** · Revisão ampla da Resolução ANM 95/2022 (disciplina das barragens de mineração): adequação à Resolução CNRH 241/2024 (prazo legal 21/10/2025), Lei 14.5 → aprovado por unanimidade
+  - votos: Roger: relator; Mauro: acompanha; Tasso: outro; José: acompanha · [vídeo](https://www.youtube.com/watch?v=q5ChZa95GEI&t=3716s)
+- **RD 78 (2025-10-24)**, 3.1.1 a 3.1.35 · relator **Roger Cabral** · Recursos contra autos de infração por descumprimento da Política Nacional de Segurança de Barragens (extrato quinzenal de inspeção não preenchido no S → aprovado por unanimidade
+  - votos: Roger: relator; Tasso: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=fjfNiebo4Ok&t=22131s)
+- **RD 81ª Reunião Ordinária Pública (2026-01-28)**, 3.4.1–3.4.3 · relator **Fábio Borges** · Recursos contra autos de infração da Política Nacional de Segurança de Barragens (DCE e extrato de inspeção regular não enviados ao SIGBM) → aprovado por unanimidade (negado provimento)
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=HZSw38UR_ZE&t=9578s)
+- **RD 81ª Reunião Ordinária Pública (2026-01-28)**, 4.2.1–4.2.8 · relator **José Fernando Gomes** · Recursos contra multas da Política Nacional de Segurança de Barragens (extrato de inspeção, sirenes, PAEBM, evacuação com Defesa Civil) → aprovado por unanimidade (negado provimento)
+  - votos: José: relator; Fábio: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=HZSw38UR_ZE&t=11548s)
+- **RD 86 (2026-06-30)**, 4.4.1 · relator **José Fernando Gomes** · Recursos contra multas de segurança de barragem (barragem com DPA alto): sem sistema automatizado de alerta na zona de autossalvamento e sem revisão p → aprovado por unanimidade
+  - votos: José: relator; Luís: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=1-hle_rf12Y&t=19890s)
+- **RD 87 (2026-07-29)**, 1.1.1 · relator **Mauro Sousa** · Alteração do art. 87 da Resolução ANM 220/2025 (segurança de barragens): adia para 26/12/2029 a vigência do art. 7º §1º (permanência de trabalhadores  → aprovado por unanimidade
+  - votos: Mauro: relator; Luís: acompanha; Fábio: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=WujJjvjzafI&t=6697s)
+- **RD 87 (2026-07-29)**, 3.5.1–3.5.2 · relator **Luís Paniago** · Recursos contra multas por atraso no extrato de inspeção regular quinzenal de barragem (portaria DNPM 70.389/2017) → aprovado por unanimidade
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=WujJjvjzafI&t=17520s)
+- **RD 87 (2026-07-29)**, 3.5.3 · relator **Luís Paniago** · Recurso contra multas da barragem Santa Maria (MT) por não preenchimento do extrato de inspeção regular → aprovado por unanimidade
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=WujJjvjzafI&t=17730s)
+- **RD 87 (2026-07-29)**, 3.5.4 · relator **Luís Paniago** · Recurso contra multa por não envio de extratos de inspeção regular (barragem do Grotão, PA; nome incerto) → aprovado por unanimidade
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=WujJjvjzafI&t=17910s)
+- **RD 87 (2026-07-29)**, 3.5.5 · relator **Luís Paniago** · Recurso contra multa por não implantar sistema de acionamento automático de sirenes até 15/12/2020 (barragem Bandeira) → aprovado por unanimidade
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=WujJjvjzafI&t=18030s)
+- **RD 88 (2026-08-19)**, 1.1.1 · relator **Mauro Sousa** · Recursos contra multas por não preenchimento diário do extrato de inspeção especial no SIGBM (ago–dez/2021) → aprovado por unanimidade
+  - votos: Mauro: relator; Luís: acompanha; Fábio: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=8253s)
+- **RD 88 (2026-08-19)**, 3.4.1 · relator **Luís Paniago** · Recurso contra multa (AI 2839/2022) por EIR quinzenal não preenchido (dique de resíduos solúveis) → aprovado por unanimidade
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=18656s)
+- **RD 88 (2026-08-19)**, 4.3.1 · relator **José Fernando Gomes** · Recurso contra multa (AI 312/2021) por não concluir projeto executivo de descaracterização de barragem a montante (Resolução ANM 13/2019) → aprovado por unanimidade
+  - votos: José: relator; Fábio: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=19522s)
+- **RD 89 (2026-09-30)**, 1.11.1 · relator **Mauro Sousa** · Recurso contra multa (AI 1019/2022) por estruturas vedadas na zona de autossalvamento → aprovado por unanimidade
+  - votos: Mauro: relator; José: acompanha; Luís: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=8994s)
+- **RD 89 (2026-09-30)**, 2.4.1 · relator **Fábio Borges** · Recurso contra multa (AI 432/2022) por poluição da água/ar e insegurança (barragem dique de contenção) → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=15946s)
+- **RD 89 (2026-09-30)**, 2.4.2 · relator **Fábio Borges** · Recurso contra multa (AI 433/2022), mesmos fatos → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=15946s)
+- **RD 89 (2026-09-30)**, 2.4.3 · relator **Fábio Borges** · Recurso contra multa (AI 7559/2021) por não apresentar mapa de inundação da barragem Planta (MT) → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=16081s)
+- **RD 89 (2026-09-30)**, 2.4.4 · relator **Fábio Borges** · Recurso contra multa de segurança de barragens (Jacaré Superior/Inferior: reaproveitamento de rejeito sem RPSB; DCE intempestiva e sem assinatura) → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=16280s)
+- **RD 89 (2026-09-30)**, 2.4.5 · relator **Fábio Borges** · Recurso contra multa de segurança de barragens (Jacaré Superior/Inferior: reaproveitamento de rejeito sem RPSB; DCE intempestiva e sem assinatura) → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=16280s)
+- **RD 89 (2026-09-30)**, 2.4.6 · relator **Fábio Borges** · Recurso contra multa de segurança de barragens (Jacaré Superior/Inferior: reaproveitamento de rejeito sem RPSB; DCE intempestiva e sem assinatura) → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=16280s)
+- **RD 90 (2026-11-04)**, 1.5.1 · relator **Mauro Sousa** · Recursos contra multas por não preenchimento do Extrato de Inspeção Regular (EIR) no SIGBM da barragem Dique de Pedra → aprovado por unanimidade
+  - votos: Mauro: relator; José: acompanha; Luís: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=2967s)
+- **RD 90 (2026-11-04)**, 1.5.2 · relator **Mauro Sousa** · Recurso contra multa por preenchimento intempestivo de EIR → aprovado por unanimidade
+  - votos: Mauro: relator; José: acompanha; Luís: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=3246s)
+- **RD 90 (2026-11-04)**, 1.5.3 · relator **Mauro Sousa** · Recursos contra multas por EIR não apresentado no prazo → aprovado por unanimidade
+  - votos: Mauro: relator; José: acompanha; Luís: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=3280s)
+- **RD 90 (2026-11-04)**, 1.5.4 · relator **Mauro Sousa** · Recursos contra multas por EIR (alegações de bis in idem, falta de notificação prévia, covid) → aprovado por unanimidade
+  - votos: Mauro: relator; José: acompanha; Luís: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=3287s)
+- **RD 90 (2026-11-04)**, 2.5.1 · relator **Fábio Borges** · Recurso contra multas (AI 1070 e 1071/2021, MT) por não envio de EIR da barragem Fazenda 4M → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=5622s)
+- **RD 90 (2026-11-04)**, 2.5.2 · relator **Fábio Borges** · Recurso contra 14 autos de infração ligados ao rompimento da barragem TB1 (01/10/2019, MT) → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=5622s)
+- **RD 90 (2026-11-04)**, 3.2.1 · relator **Luís Paniago** · Recurso contra multa (AI 325/2019) por reaproveitar rejeito da barragem Jacaré Superior sem revisão periódica de segurança (estanho/titânio, RO) → aprovado por unanimidade
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=7713s)
+- **RD 90 (2026-11-04)**, 4.2.1 · relator **José Fernando Gomes** · Recurso contra cinco multas de 2021 em barragem (PSB, PAEBM, alerta e sirenes) → aprovado por unanimidade
+  - votos: José: relator; Luís: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=9417s)

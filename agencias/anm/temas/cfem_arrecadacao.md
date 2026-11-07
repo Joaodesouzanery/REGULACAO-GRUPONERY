@@ -1,0 +1,1202 @@
+# Itens do tema «cfem_arrecadacao» (todos os diretores)
+
+- **RD 4ª ROP (2019-06-24)**, 5 · relator **None** · Recurso contra indeferimento de prorrogação de licenciamento com base em débito/inclusão no CADIN (MP 790/2017, não convertida em lei) → recurso provido (sem divergência registrada)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=cv5RTjpyQbM&t=2260s)
+- **RD 4ª ROP (2019-06-24)**, 6 · relator **None** · Recurso contra notificação fiscal de cobrança de CFEM (valor citado ≈ R$ 111 mil) — dedução de ICMS na base de cálculo → aprovado com observação (provimento parcial/deferimento conforme relator; sem divergência 
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=cv5RTjpyQbM&t=2500s)
+- **RD 2ª Ordinária (2019-07-22)**, 2.c · relator **None** · Recurso contra notificação de lançamento (CFEM, período 2007–2008) com discussão de prescrição intercorrente → não identificado
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=gI6Jtv59bYY&t=540s)
+- **RD 14ª Ordinária (2020-04-01)**, 1.5.e · relator **Tasso Mendonça** · Recurso contra cobrança de CFEM: empresa pedia 2% (abrasivo) em vez de 3% (minério de alumínio) → aprovado por unanimidade: recurso não provido
+  - votos: Tasso: relator; Victor: acompanha; Eduardo: acompanha; Tomás: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=LrMidsf_ZrQ&t=11316s)
+- **RD 15ª Ordinária (2020-04-15)**, 1.2.1 · relator **Debora Puccini** · Recursos contra cobrança de CFEM (2002/2003) de empresa arrendante → aprovado por unanimidade: recursos conhecidos e não providos
+  - votos: Debora: relator; Victor: acompanha; Tasso: acompanha; Eduardo: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=lfr2P7uMVeA&t=6367s)
+- **RD 15ª Ordinária (2020-04-15)**, 1.2.5 · relator **Debora Puccini** · Recursos contra cobrança de CFEM → aprovado por unanimidade: conhecimento parcial, cobrança mantida com valor recalculado
+  - votos: Debora: relator; Victor: acompanha; Tasso: acompanha; Eduardo: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=lfr2P7uMVeA&t=6596s)
+- **RD 15ª Ordinária (2020-04-15)**, 1.2.11 · relator **Debora Puccini** · Recursos contra cobrança de CFEM → aprovado por unanimidade: recursos providos
+  - votos: Debora: relator; Victor: acompanha; Tasso: acompanha; Eduardo: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=lfr2P7uMVeA&t=6722s)
+- **RD 16ª Ordinária (2020-05-20)**, 1.1.7 · relator **Victor Bicca** · Recursos contra multa por não pagamento da TAH → aprovado por unanimidade: recursos não providos
+  - votos: Victor: relator; Tasso: acompanha; Eduardo: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=lbQcuLZy28Y&t=7720s)
+- **RD 16ª Ordinária (2020-05-20)**, 1.3.16 · relator **Eduardo Leão** · Recurso contra multa (≈R$ 3.084) por pagamento em atraso da TAH → aprovado por unanimidade: recurso improcedente
+  - votos: Eduardo: relator; Victor: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=lbQcuLZy28Y&t=11398s)
+- **RD 16ª Ordinária (2020-05-20)**, 1.5.9 · relator **Tomás Filho** · Tornar sem efeito prorrogação de alvará concedida após criação de parque nacional (UC integral) e encaminhar pedido de ressarcimento de TAH → aprovado por unanimidade
+  - votos: Tomás: relator; Victor: acompanha; Tasso: acompanha; Eduardo: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=lbQcuLZy28Y&t=13631s)
+- **RD 9ª Reunião Extraordinária Pública (2020-05-27)**, 2.11 · relator **Debora Puccini** · Recurso contra indeferimento de prorrogação de registro de licença (saibro, Santo Antônio da Patrulha, RS) por inscrição em dívida ativa → recurso provido (unanimidade)
+  - votos: Debora: relator; Victor: acompanha; Tasso: acompanha; Eduardo: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=XgYPPYFL8T0&t=7944s)
+- **RD 18ª Reunião Ordinária Pública (2020-07-22)**, 1.1.3 a 1.1.5 · relator **Victor Bicca** · Recursos contra cobrança de CFEM (ES, apuração 2004) → aprovado por unanimidade
+  - votos: Victor: relator; Tomás: acompanha; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=rDHG2v6FECg&t=1953s)
+- **RD 18ª Reunião Ordinária Pública (2020-07-22)**, 1.5.9 · relator **Tomás Filho** · Recursos contra débito de CFEM (ES) → aprovado por unanimidade: parcial provimento
+  - votos: Tomás: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=rDHG2v6FECg&t=16022s)
+- **RD 18ª Reunião Ordinária Pública (2020-07-22)**, 1.5.10 · relator **Tomás Filho** · Recurso contra débito de CFEM → aprovado por unanimidade
+  - votos: Tomás: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=rDHG2v6FECg&t=16273s)
+- **RD 12ª Reunião Extraordinária Pública (2020-08-31)**, 2 (com o item 3 incorporado) · relator **Eduardo Leão** · Prorrogação da vigência de títulos minerários (alvarás de pesquisa, guias de utilização, PLG, registros de licença), do prazo para requerer lavra e do → aprovado por unanimidade
+  - votos: Eduardo: relator; Debora: acompanha; Tasso: acompanha; Tomás: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=9mdYU4s88zI&t=3260s)
+- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 1.9 · relator **Victor Bicca** · Recursos em processos de cobrança de CFEM (alegação de prescrição) → aprovado por unanimidade (votação em bloco)
+  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=641s)
+- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 4.1 a 4.3 · relator **Tasso Mendonça** · Recursos contra cobrança de CFEM (recolhimento a menor; Santo Antônio do Amparo-MG); alegações de fiscalização remota irregular, dedução de ICMS/PIS/C → aprovado por unanimidade (votação em bloco)
+  - votos: Tasso: relator; Debora: acompanha; Eduardo: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=2498s)
+- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 4.4 e 4.5 · relator **Tasso Mendonça** · Recursos contra cobrança de CFEM sobre bauxita (Carangola-MG, 2001): decadência, deduções e juros → aprovado por unanimidade (votação em bloco)
+  - votos: Tasso: relator; Debora: acompanha; Eduardo: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=2880s)
+- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 3.3 a 3.12 · relator **Eduardo Leão** · Recursos contra cobrança de CFEM → aprovado por unanimidade (votação em bloco)
+  - votos: Eduardo: relator; Debora: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=3484s)
+- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 5.2 · relator **Tomás Filho** · Recursos contra débitos de CFEM → aprovado por unanimidade dos presentes (votação em bloco): nega provimento
+  - votos: Tomás: relator; Tasso: acompanha; Eduardo: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=4855s)
+- **RD 21ª Ordinária (2020-10-21)**, 5.9 · relator **Tomás Filho** · Recurso contra cobrança de CFEM (jan/2008 a dez/2009, município de Ouro Preto); sustentação oral pedindo prescrição intercorrente (processo parado ~9  → parcialmente provido: decisão anulada para apreciar o pedido de perícia (art. 38 da Lei 9.
+  - votos: Tomás: relator; Tasso: acompanha; Debora: acompanha; Victor: outro · [vídeo](https://www.youtube.com/watch?v=YZuPzUTCFK0&t=2135s)
+- **RD 21ª Ordinária (2020-10-21)**, 1.7 · relator **Victor Bicca** · Recurso contra cobrança de CFEM → não provido (unanimidade)
+  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: outro · [vídeo](https://www.youtube.com/watch?v=YZuPzUTCFK0&t=4615s)
+- **RD 21ª Ordinária (2020-10-21)**, 3.2 · relator **Eduardo Leão** · Recurso contra cobrança de CFEM de quartzo (Miranda/MS, 2004-2007, cerca de R$ 43 mil); alegação de prescrição intercorrente → não provido (unanimidade)
+  - votos: Eduardo: relator; Debora: acompanha; Tomás: acompanha; Tasso: acompanha; Victor: outro · [vídeo](https://www.youtube.com/watch?v=YZuPzUTCFK0&t=5369s)
+- **RD 21ª Ordinária (2020-10-21)**, 3.3 · relator **Eduardo Leão** · Recurso contra cobrança de CFEM de água mineral (Cambuí/MG, cerca de R$ 41 mil) → não provido (unanimidade)
+  - votos: Eduardo: relator; Debora: acompanha; Tomás: acompanha; Tasso: acompanha; Victor: outro · [vídeo](https://www.youtube.com/watch?v=YZuPzUTCFK0&t=5432s)
+- **RD 21ª Ordinária (2020-10-21)**, 5.10 · relator **Tomás Filho** · Recurso contra cobrança de CFEM → parcialmente provido (valores ajustados ao RAL) (unanimidade)
+  - votos: Tomás: relator; Tasso: acompanha; Eduardo: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=YZuPzUTCFK0&t=9473s)
+- **RD 21ª Ordinária (2020-10-21)**, 5.11 · relator **Tomás Filho** · Recurso contra cobrança de CFEM (2002 a 2013) → parcialmente provido (unanimidade)
+  - votos: Tomás: relator; Tasso: acompanha; Eduardo: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=YZuPzUTCFK0&t=9504s)
+- **RD 22ª Ordinária (2020-11-18)**, 3.1 · relator **Eduardo Leão** · Retificação da Resolução ANM 46/2020 (altera a Res. 28 — suspensão de prazos por covid-19 — e cria prorrogação automática de títulos por até 288 dias, → aprovado por unanimidade
+  - votos: Eduardo: relator; Tomás: outro; Tasso: outro; Debora: outro; Victor: outro · [vídeo](https://www.youtube.com/watch?v=Qq7qMQ7_rfc&t=131s)
+- **RD 22ª Ordinária (2020-11-18)**, 5.2 · relator **Tomás Filho** · Bloco de recursos contra cobrança de CFEM → não providos (unanimidade)
+  - votos: Tomás: relator; Tasso: acompanha; Debora: acompanha; Eduardo: acompanha; Victor: outro · [vídeo](https://www.youtube.com/watch?v=Qq7qMQ7_rfc&t=5031s)
+- **RD 23ª Ordinária (2020-12-09)**, 3.3 · relator **Eduardo Leão** · Recurso contra cobrança de CFEM (argila, Nerópolis/GO, set/2006 a dez/2012) → não provido por unanimidade
+  - votos: Eduardo: relator; Debora: acompanha; Carlos: acompanha; Tasso: acompanha; Victor: outro · [vídeo](https://www.youtube.com/watch?v=rak_IMbQ02w&t=3277s)
+- **RD 15ª Extraordinária (2020-12-18)**, 4.39 · relator **Tasso Mendonça** · Resolução que regulamenta acordos de cooperação técnica (ACT, sem repasse de recursos) com estados, DF e municípios para atividades acessórias à fisca → aprovado por unanimidade, com ressalva de Eduardo Leão (ampliar delegação)
+  - votos: Tasso: relator; Eduardo: outro; Carlos: acompanha; Debora: acompanha; Victor: outro · [vídeo](https://www.youtube.com/watch?v=D6YYWHku_rk&t=193s)
+- **RD 24 (2021-01-21)**, 4.6 e 4.7 · relator **Tasso Mendonça** · Recursos contra cobranças de CFEM sobre calcário (Itaú de Minas/MG, jun–dez/1999) apuradas com base no RAL → pedido de vista (Debora Puccini); deliberação suspensa
+  - votos: Tasso: relator; Carlos: acompanha; Debora: vista; Victor: acompanha; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=odUdOGtUxJs&t=956s)
+- **RD 24 (2021-01-21)**, 2.2 · relator **Debora Puccini** · Recurso contra multa por não pagamento de TAH (paga em processo errado) → aprovado por unanimidade
+  - votos: Debora: relator; Eduardo: acompanha; Tasso: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=odUdOGtUxJs&t=3180s)
+- **RD 24 (2021-01-21)**, 1.6 · relator **Victor Bicca** · Recurso contra cobranças de CFEM (alegação de prescrição) → aprovado por unanimidade
+  - votos: Victor: relator; Carlos: acompanha; Eduardo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=odUdOGtUxJs&t=3829s)
+- **RD 24 (2021-01-21)**, 1.7 · relator **Victor Bicca** · Recurso contra cobranças de CFEM já pagas → aprovado por unanimidade
+  - votos: Victor: relator; Carlos: acompanha; Eduardo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=odUdOGtUxJs&t=3917s)
+- **RD 24 (2021-01-21)**, 1.8 · relator **Victor Bicca** · Recurso contra cobrança de CFEM (prescrição, decadência, deduções) → aprovado por unanimidade
+  - votos: Victor: relator; Carlos: acompanha; Eduardo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=odUdOGtUxJs&t=3982s)
+- **RD 24 (2021-01-21)**, 4.8 a 4.10 · relator **Tasso Mendonça** · Recursos contra cobranças de CFEM → aprovado por unanimidade
+  - votos: Tasso: relator; Eduardo: acompanha; Debora: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=odUdOGtUxJs&t=4318s)
+- **RD 24 (2021-01-21)**, 4.11 e 4.12 · relator **Tasso Mendonça** · Recursos contra cobranças de CFEM → aprovado por unanimidade
+  - votos: Tasso: relator; Eduardo: acompanha; Debora: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=odUdOGtUxJs&t=4407s)
+- **RD 25 (2021-02-25)**, 1.3 · relator **Victor Bicca** · Recursos contra cobranças de CFEM (decadência, prescrição, deduções, Decreto 1/1991) → aprovado por unanimidade
+  - votos: Victor: relator; Carlos: acompanha; Eduardo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=2578s)
+- **RD 25 (2021-02-25)**, 5.2 · relator **Carlos Cordeiro** · Recursos contra cobranças de CFEM (água mineral) → aprovado por unanimidade
+  - votos: Carlos: relator; Eduardo: acompanha; Debora: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=6109s)
+- **RD 26 (2021-03-25)**, 4.2.9 · relator **Carlos Cordeiro** · Recurso contra cobrança de CFEM (jan–out/2017; bauxita Juruti/PA → São Luís/MA): deduções de ICMS/PIS/Cofins, frete aquaviário e seguro; equiparação t → pedido de vista (Tasso Mendonça); deliberação suspensa
+  - votos: Carlos: relator; Tasso: vista; Victor: outro; Debora: outro · [vídeo](https://www.youtube.com/watch?v=LX-5lXLbJqo&t=2853s)
+- **RD 26 (2021-03-25)**, 4.2.8 · relator **Carlos Cordeiro** · Recurso contra cobrança de CFEM (matéria semelhante ao 4.2.9) → pedido de vista (Tasso Mendonça)
+  - votos: Carlos: relator; Tasso: vista; Victor: outro; Debora: outro · [vídeo](https://www.youtube.com/watch?v=LX-5lXLbJqo&t=4410s)
+- **RD 26 (2021-03-25)**, 1.7 · relator **Victor Bicca** · Recursos contra cobranças de CFEM (decadência, natureza jurídica, Decreto 1/1991, índices) → aprovado por unanimidade
+  - votos: Victor: relator; Carlos: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=LX-5lXLbJqo&t=5155s)
+- **RD 26 (2021-03-25)**, 2.2 · relator **Debora Puccini** · Recurso contra multa por não pagamento da TAH (3º ano do alvará) → aprovado por unanimidade
+  - votos: Debora: relator; Tasso: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=LX-5lXLbJqo&t=5758s)
+- **RD 26 (2021-03-25)**, 4.2 · relator **Carlos Cordeiro** · Recursos contra cobranças de CFEM → aprovado por unanimidade
+  - votos: Carlos: relator; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=LX-5lXLbJqo&t=8131s)
+- **RD 26 (2021-03-25)**, 4.4 · relator **Carlos Cordeiro** · Recurso contra multa de TAH → aprovado por unanimidade
+  - votos: Carlos: relator; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=LX-5lXLbJqo&t=8235s)
+- **RD 27 (2021-04-29)**, 3.1.1 · relator **Tasso Mendonça** · Nova resolução substituindo a Resolução ANM 79/2021 sobre acordos de cooperação técnica com estados, DF e municípios: equipe técnica mínima conforme o → aprovado por unanimidade
+  - votos: Tasso: relator; Carlos: acompanha; Debora: acompanha; Aline: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=453s)
+- **RD 27 (2021-04-29)**, 4.7.1 · relator **Carlos Cordeiro** · Recursos contra 13 cobranças de CFEM (zinco, chumbo, calcário; Vazante, Paracatu, Morro Agudo/Três Marias-MG; período 2009–2017) → pedido de vista (Tasso Mendonça); deliberação suspensa
+  - votos: Carlos: relator; Debora: acompanha; Aline: acompanha; Tasso: vista; Victor: outro · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=2455s)
+- **RD 27 (2021-04-29)**, 1.5 · relator **Victor Bicca** · Recursos contra cobranças de CFEM → aprovado por unanimidade
+  - votos: Victor: relator; Carlos: acompanha; Aline: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=7156s)
+- **RD 27 (2021-04-29)**, 1.6 · relator **Victor Bicca** · Recursos contra cobranças de CFEM → aprovado por unanimidade
+  - votos: Victor: relator; Carlos: acompanha; Aline: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=7297s)
+- **RD 28 (2021-05-27)**, 3.1.1 · relator **Tasso Mendonça** · Cobrança e recuperação de créditos de CFEM: alíquota aplicável à bauxita não metalúrgica (2% como demais substâncias vs. 3% minério de alumínio), revi → aprovado por unanimidade
+  - votos: Tasso: relator; Carlos: acompanha; Debora: acompanha; Aline: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=7PICL_r4uQY&t=149s)
+- **RD 28 (2021-05-27)**, 1.7 · relator **Victor Bicca** · Recursos contra processos de cobrança de CFEM (divergências RAL x recolhimento) → aprovado por unanimidade
+  - votos: Victor: relator; Carlos: acompanha; Aline: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=7PICL_r4uQY&t=2516s)
+- **RD 28 (2021-05-27)**, 1.8 · relator **Victor Bicca** · Recurso contra multa por pagamento da TAH em atraso → aprovado por unanimidade
+  - votos: Victor: relator; Carlos: acompanha; Aline: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=7PICL_r4uQY&t=2617s)
+- **RD 29ª Ordinária (2021-06-23)**, 1.9.1, 1.9.2 e 5.6.1 · relator **Victor Bicca** · Recursos contra cobrança de CFEM sobre bauxita não metalúrgica (propante, abrasivos, refratários): alíquota 2% vs 3% e base de cálculo até a etapa ant → recursos providos por unanimidade
+  - votos: Victor: relator; Aline: outro; Tasso: acompanha; Carlos: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=JhjBUQ1wgxg&t=399s)
+- **RD 29ª Ordinária (2021-06-23)**, 1.4 · relator **Victor Bicca** · Recursos contra cobrança de CFEM baseada em divergência com o RAL → nega provimento por unanimidade
+  - votos: Victor: relator; Carlos: acompanha; Tasso: acompanha; Aline: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=JhjBUQ1wgxg&t=6520s)
+- **RD 29ª Ordinária (2021-06-23)**, 3.6 · relator **Tasso Mendonça** · Recurso contra nulidade de alvará de pesquisa por falta de pagamento de TAH; recurso intempestivo → nega provimento por unanimidade
+  - votos: Tasso: relator; Debora: acompanha; Carlos: acompanha; Aline: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=JhjBUQ1wgxg&t=9920s)
+- **RD 29ª Ordinária (2021-06-23)**, 3.7 · relator **Tasso Mendonça** · Recurso contra nulidade ex officio de alvará de pesquisa por não pagamento de TAH (2013) → nega provimento por unanimidade
+  - votos: Tasso: relator; Debora: acompanha; Carlos: acompanha; Aline: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=JhjBUQ1wgxg&t=9997s)
+- **RD 29ª Ordinária (2021-06-23)**, 5.8 · relator **Aline (substituta, sobrenome a confirmar)** · Recurso contra cobrança de TAH com valor aumentado → nega provimento por unanimidade
+  - votos: Aline: relator; Tasso: acompanha; Carlos: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=JhjBUQ1wgxg&t=11652s)
+- **RD 30ª Ordinária (2021-07-21)**, 4.4.1 · relator **Aline (substituta, sobrenome a confirmar)** · Recursos contra cobrança de CFEM sobre bauxita não metalúrgica (propante para fraturamento hidráulico): alíquota de 2% vs 3%; sustentação oral do repr → recurso provido por unanimidade
+  - votos: Aline: relator; Debora: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=68PBR4uvQGg&t=907s)
+- **RD 30ª Ordinária (2021-07-21)**, 4.4.2 · relator **Aline (substituta, sobrenome a confirmar)** · Recurso contra cobrança de CFEM (jan/2004 a dez/2005): decadência, fiscalização sem visita in loco (uso do RAL), pagamentos → nega provimento por unanimidade
+  - votos: Aline: relator; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=68PBR4uvQGg&t=6668s)
+- **RD 30ª Ordinária (2021-07-21)**, 4.4.3 · relator **Aline (substituta, sobrenome a confirmar)** · Recurso contra cobrança de CFEM (2002) → nega provimento por unanimidade
+  - votos: Aline: relator; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=68PBR4uvQGg&t=6871s)
+- **RD 30ª Ordinária (2021-07-21)**, 4.4.4 · relator **Aline (substituta, sobrenome a confirmar)** · Recurso contra cobrança de CFEM (set/2006 a dez/2015): cerceamento de defesa, prova pericial, momento da descaracterização mineralógica, deduções → nega provimento por unanimidade
+  - votos: Aline: relator; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=68PBR4uvQGg&t=6978s)
+- **RD 30ª Ordinária (2021-07-21)**, 4.4.5 · relator **Aline (substituta, sobrenome a confirmar)** · Recurso contra cobrança de CFEM com arbitramento (2008–2012) e alegação de intimação em endereço errado → nega provimento por unanimidade
+  - votos: Aline: relator; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=68PBR4uvQGg&t=7146s)
+- **RD 30ª Ordinária (2021-07-21)**, 4.4.6 · relator **Aline (substituta, sobrenome a confirmar)** · Recurso contra cobrança de CFEM (2005): ilegitimidade passiva e base de cálculo antes do envase de água mineral → nega provimento por unanimidade
+  - votos: Aline: relator; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=68PBR4uvQGg&t=7252s)
+- **RD 30ª Ordinária (2021-07-21)**, 4.4.7 · relator **Aline (substituta, sobrenome a confirmar)** · Recurso contra cobrança de CFEM (2004): uso do RAL e alegação de não ser titular no período → nega provimento por unanimidade
+  - votos: Aline: relator; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=68PBR4uvQGg&t=7337s)
+- **RD 32ª Ordinária (2021-09-23)**, 3.9 · relator **Tasso Mendonça** · Recurso contra multa por TAH paga fora do prazo → nega provimento por unanimidade
+  - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=9637s)
+- **RD 32ª Ordinária (2021-09-23)**, 4.10 · relator **Ronaldo Lima** · Recursos contra cobranças de CFEM → nega provimento à maioria; provimento parcial a Cerâmica Rosápolis e Cerâmica Serra Azul, 
+  - votos: Ronaldo: relator; Guilherme: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=11094s)
+- **RD 33ª Ordinária (2021-10-21)**, 4.6.15 · relator **Ronaldo Lima** · Recurso contra cobrança de CFEM (2013–2016, cerca de R$ 18 milhões segundo a advogada) por glosa de despesas de transporte por mineroduto próprio de 2 → nega provimento por unanimidade
+  - votos: Ronaldo: relator; Tasso: acompanha; Debora: acompanha; Guilherme: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=3242s)
+- **RD 33ª Ordinária (2021-10-21)**, 5.11.4 · relator **Guilherme Gomes** · Recurso contra cobrança de CFEM (2008–2014); sustentação de Eduarda sobre incidência até a farinha/cru → nega provimento por unanimidade
+  - votos: Guilherme: relator; Tasso: acompanha; Debora: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=4749s)
+- **RD 33ª Ordinária (2021-10-21)**, 5.11.6 · relator **Guilherme Gomes** · Recurso contra cobrança de CFEM (2004) com base no RAL; alegadas divergências de quantidades e soma de custos de lavra e beneficiamento → nega provimento por unanimidade
+  - votos: Guilherme: relator; Tasso: acompanha; Debora: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=5362s)
+- **RD 33ª Ordinária (2021-10-21)**, 5.1 (regulatório) · relator **Guilherme Gomes** · Segunda revisão extraordinária da Agenda Regulatória 2020/2021: inclui regulamentação dos arts. 10 e 11 da Lei 9.613/1998 (lavagem de dinheiro, metais → aprovado por unanimidade
+  - votos: Guilherme: relator; Tasso: acompanha; Debora: acompanha; Victor: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=7193s)
+- **RD 33ª Ordinária (2021-10-21)**, 4.6 · relator **Ronaldo Lima** · Recursos contra cobranças de CFEM → nega provimento a 12; provimento parcial a 2; provimento a Cerâmica Safran, por unanimidad
+  - votos: Ronaldo: relator; Guilherme: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=10881s)
+- **RD 33ª Ordinária (2021-10-21)**, 5.11 a 5.13 · relator **Guilherme Gomes** · Recursos contra cobranças de CFEM → nega provimento à maioria; provimento parcial e provimento em alguns, por unanimidade
+  - votos: Guilherme: relator; Ronaldo: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=12270s)
+- **RD 34ª Reunião Ordinária Pública (2021-11-25)**, 3.9.1 · relator **Tasso Mendonça** · Voto-vista sobre recursos contra cobranças de CFEM de 2009 a 2017 (consumo de concentrado de zinco, bonificações, fretes, exportação de chumbo) → retirado de pauta
+  - votos: Tasso: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=_gJ3LyVOb64&t=3453s)
+- **RD 34ª Reunião Ordinária Pública (2021-11-25)**, 4.3.8 · relator **Ronaldo Lima** · Recurso contra cobrança de CFEM (2010–2017, cerca de R$ 720 mil) calculada com dados do RAL; pede dedução de ICMS por operação e recomposição do custo → recurso conhecido e não provido, por unanimidade
+  - votos: Ronaldo: relator; Tasso: acompanha; Guilherme: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=_gJ3LyVOb64&t=6033s)
+- **RD 34ª Reunião Ordinária Pública (2021-11-25)**, 5.9.1 · relator **Guilherme Gomes** · Recurso contra cobrança de CFEM; pede prescrição intercorrente (recurso parado 10 anos no DNPM) ou nulidade por não apreciação de pedido de prova peri → provimento parcial por unanimidade: anulada a decisão da defesa, autos à regional de MG pa
+  - votos: Guilherme: relator; Tasso: acompanha; Debora: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=_gJ3LyVOb64&t=7249s)
+- **RD 34ª Reunião Ordinária Pública (2021-11-25)**, 2.1–2.4 e 4.2 (Débora) · relator **Debora Puccini** · Guias de utilização (2); recursos de CFEM da Votorantim negados após parecer da PF; prorrogação de registro de licença provida por boa-fé (licença mun → aprovado por unanimidade
+  - votos: Debora: relator; Tasso: acompanha; Ronaldo: acompanha; Guilherme: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=_gJ3LyVOb64&t=9546s)
+- **RD 34ª Reunião Ordinária Pública (2021-11-25)**, 3.1–3.9 (Tasso) · relator **Tasso Mendonça** · Indeferimento de requerimento de lavra de areia (mudança para licenciamento); grupamento mineiro arquivado (desistência) e outro indeferido (produção  → aprovado por unanimidade
+  - votos: Tasso: relator; Debora: acompanha; Guilherme: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=_gJ3LyVOb64&t=10220s)
+- **RD 34ª Reunião Ordinária Pública (2021-11-25)**, 4.1–4.8 (Ronaldo) · relator **Ronaldo Lima** · Outorga de 15 portarias de lavra; aditamentos; recursos de CFEM negados; multa em dobro por reincidência (Safran) mantida; 12 recursos contra indeferi → aprovado por unanimidade
+  - votos: Ronaldo: relator; Tasso: acompanha; Debora: acompanha; Guilherme: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=_gJ3LyVOb64&t=11732s)
+- **RD 35ª Reunião Ordinária Pública (2021-12-16)**, 1.7–1.9 · relator **Victor Bicca** · 1.7 pedido de reconsideração acatado por autotutela: tornado sem efeito o indeferimento de registro de licença (DNPM/MT não enviou declaração de aptid → aprovado por unanimidade
+  - votos: Victor: relator; Ronaldo: acompanha; Carlos: acompanha; Aline: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=GjzI6PQFCH4&t=6760s)
+- **RD 35ª Reunião Ordinária Pública (2021-12-16)**, 2.1–2.4 · relator **Ronaldo Lima** · 2.1 outorga de 9 concessões de lavra; 2.2 aditamento de novas substâncias (Vale; AngloGold prata); 2.3 recursos contra cobrança de CFEM negados; 2.4 c → aprovado por unanimidade
+  - votos: Ronaldo: relator; Guilherme: acompanha; Aline: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=GjzI6PQFCH4&t=7282s)
+- **RD 35ª Reunião Ordinária Pública (2021-12-16)**, 4.1.1–4.1.7 · relator **Aline (substituta, sobrenome a confirmar)** · Recursos contra cobranças de CFEM (prescrição, decadência, ilegitimidade após cessão, pagamentos não considerados, redução de juros da Lei 12.249/2010 → recursos conhecidos e não providos, por unanimidade
+  - votos: Aline: relator; Guilherme: acompanha; Ronaldo: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=GjzI6PQFCH4&t=8080s)
+- **RD 36ª Reunião Ordinária Pública (2022-01-26)**, 5.2.8 · relator **Aline (substituta, sobrenome a confirmar)** · Recurso contra cobrança de CFEM (jan/2010 a dez/2012, NFLDP 291/2014); alega cobrança só pelo RAL e boletos, falta de dedução de ICMS/PIS/Cofins e jur → recurso conhecido e não provido, por unanimidade
+  - votos: Aline: relator; Guilherme: acompanha; Ronaldo: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=xiUGQlCtGDw&t=483s)
+- **RD 36ª Reunião Ordinária Pública (2022-01-26)**, 5.2.1–5.2.33 (bloco CFEM) · relator **Aline (substituta, sobrenome a confirmar)** · Recursos contra cobranças de CFEM: 5.2.11 Vale provido (recolhimentos comprovados quitam o débito); 26 processos (5.2.2 a 5.2.27) negados por matérias → aprovado por unanimidade (votação em bloco)
+  - votos: Aline: relator; Guilherme: acompanha; Ronaldo: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=xiUGQlCtGDw&t=1290s)
+- **RD 36ª Reunião Ordinária Pública (2022-01-26)**, 5.6–5.11 (blocos) · relator **Aline (substituta, sobrenome a confirmar)** · Indeferimento de 26 requerimentos de lavra por não cumprimento de exigências (art. 31 §3º Dec. 9.406); caducidade do direito de requerer lavra (2); re → aprovado por unanimidade (votação em bloco)
+  - votos: Aline: relator; Guilherme: acompanha; Ronaldo: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=xiUGQlCtGDw&t=2190s)
+- **RD 36ª Reunião Ordinária Pública (2022-01-26)**, 2.4.2 · relator **Ronaldo Lima** · Recurso contra cobrança de CFEM de jan/2015 a dez/2016 (cerca de R$ 2,95 milhões) calculada pelo preço de revenda da Danone (aferição indireta), em op → recurso conhecido e não provido, por unanimidade
+  - votos: Ronaldo: relator; Guilherme: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=xiUGQlCtGDw&t=3814s)
+- **RD 36ª Reunião Ordinária Pública (2022-01-26)**, 1.3 (bloco) · relator **Victor Bicca** · Recursos contra cobranças de CFEM (decadência, prescrição, base de cálculo, ilegalidade de normas) → recursos não providos, por unanimidade
+  - votos: Victor: relator; Ronaldo: acompanha; Carlos: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=xiUGQlCtGDw&t=6760s)
+- **RD 36ª Reunião Ordinária Pública (2022-01-26)**, 2.4.1 e 2.4.3 · relator **Ronaldo Lima** · Recursos contra cobranças de CFEM → recursos não providos, por unanimidade
+  - votos: Ronaldo: relator; Guilherme: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=xiUGQlCtGDw&t=7300s)
+- **RD 36ª Reunião Ordinária Pública (2022-01-26)**, 2.5 · relator **Ronaldo Lima** · Recurso contra cobrança de CFEM sem defesa administrativa prévia (NFLDP 26/2011) → recurso não conhecido, por unanimidade
+  - votos: Ronaldo: relator; Guilherme: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=xiUGQlCtGDw&t=7350s)
+- **RD 37ª Ordinária (2022-02-24)**, 2.4 · relator **Ronaldo Lima** · Recursos contra cobrança de CFEM e TAH → Rochedo: provimento parcial; demais: negados; por unanimidade
+  - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Júlio: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=455s)
+- **RD 37ª Ordinária (2022-02-24)**, 1.9 · relator **Victor Bicca** · Recursos contra cobrança de CFEM (cerceamento, RAL, decadência, base de cálculo, juros) → recursos negados, exceto provimento parcial no 931.034/2011 (decadência parcial), por unan
+  - votos: Victor: relator; Júlio: acompanha; Roger: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=3911s)
+- **RD 37ª Ordinária (2022-02-24)**, 5.8 · relator **Júlio Rodrigues** · Recursos contra cobrança de CFEM → recurso negado por unanimidade (diretores presentes)
+  - votos: Júlio: relator; Ronaldo: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=5912s)
+- **RD 19ª Ordinária (2022-03-07)**, 1.11 · relator **Victor Bicca** · Recurso contra processo de cobrança de CFEM → recurso negado por unanimidade
+  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1814s)
+- **RD 19ª Ordinária (2022-03-07)**, 3.2 · relator **Eduardo Leão** · Recurso contra cobrança de CFEM (diferença de ≈R$ 122) → recurso negado por unanimidade
+  - votos: Eduardo: relator; Debora: acompanha; Tasso: acompanha; Tomás: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=2880s)
+- **RD 19ª Ordinária (2022-03-07)**, 3.3 · relator **Eduardo Leão** · Recurso contra cobrança de CFEM (calcário) → recurso provido por unanimidade
+  - votos: Eduardo: relator; Debora: acompanha; Tasso: acompanha; Tomás: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=2925s)
+- **RD 19ª Ordinária (2022-03-07)**, 3.4 · relator **Eduardo Leão** · Recurso contra cobrança de CFEM (mármore, Vargem Alta) → resultado incerto na legenda (provável negativa de provimento), por unanimidade
+  - votos: Eduardo: relator; Debora: acompanha; Tasso: acompanha; Tomás: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=2976s)
+- **RD 19ª Ordinária (2022-03-07)**, 4.8–4.12 · relator **Tasso Mendonça** · Recursos contra cobranças de CFEM (granito, agregados, calcário, água mineral, areia) → recursos negados por unanimidade
+  - votos: Tasso: relator; Debora: acompanha; Eduardo: acompanha; Tomás: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=3217s)
+- **RD 38ª Ordinária (2022-03-31)**, 1.5 · relator **Victor Bicca** · Recursos contra cobrança de CFEM (decadência, prescrição, base de cálculo, tributos) → recursos negados por unanimidade (diretores presentes)
+  - votos: Victor: relator; Roger: acompanha; Júlio: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=dGwZYiw_lh0&t=908s)
+- **RD 38ª Ordinária (2022-03-31)**, 2.7 · relator **Ronaldo Lima** · Recursos contra cobrança de CFEM → recursos negados por unanimidade
+  - votos: Ronaldo: relator; Roger: acompanha; Júlio: acompanha; Guilherme: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=dGwZYiw_lh0&t=1606s)
+- **RD 23ª Extraordinária (2022-04-14)**, 3.1 · relator **Guilherme Gomes** · Resolução que institui o Cadastro Nacional do Primeiro Adquirente de bem mineral proveniente do regime de permissão de lavra garimpeira (PLG), com mul → aprovado por unanimidade
+  - votos: Guilherme: relator; Ronaldo: acompanha; Júlio: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=kRdgQR2qanY&t=688s)
+- **RD 39ª Ordinária (2022-04-28)**, 3.2.8 · relator **Guilherme Gomes** · Recursos contra cobrança de CFEM sobre carvão (alega base com carvão de terceiros e importado; pede diligência/perícia) → recursos negados por unanimidade (diretores presentes; Tasso sem conexão)
+  - votos: Guilherme: relator; Ronaldo: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=Y-jJDsaPHKU&t=3055s)
+- **RD 39ª Ordinária (2022-04-28)**, 2.7 · relator **Ronaldo Lima** · Recursos contra cobrança de CFEM → primeiro provido em parte; demais negados; por unanimidade
+  - votos: Ronaldo: relator; Tasso: acompanha; Roger: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=Y-jJDsaPHKU&t=4705s)
+- **RD 39ª Ordinária (2022-04-28)**, 3.2 · relator **Guilherme Gomes** · Recursos contra cobrança de CFEM → recurso negado por unanimidade
+  - votos: Guilherme: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=Y-jJDsaPHKU&t=5057s)
+- **RD 39ª Ordinária (2022-04-28)**, 3.3 · relator **Guilherme Gomes** · Recursos contra cobrança de CFEM → recursos parcialmente providos por unanimidade
+  - votos: Guilherme: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=Y-jJDsaPHKU&t=5113s)
+- **RD 40ª Ordinária (2022-05-26)**, 2.2.2 · relator **Ronaldo Lima** · Reconsideração de decisão sobre cobrança de CFEM (columbita, Itapuã do Oeste-RO) → reconsideração não conhecida, por unanimidade
+  - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=2774s)
+- **RD 40ª Ordinária (2022-05-26)**, 2.5 · relator **Ronaldo Lima** · Recurso contra cobrança de CFEM → recurso negado por unanimidade
+  - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=3051s)
+- **RD 40ª Ordinária (2022-05-26)**, 3.2 · relator **Guilherme Gomes** · Recursos contra cobrança de CFEM → recurso negado por unanimidade
+  - votos: Guilherme: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=3733s)
+- **RD 40ª Ordinária (2022-05-26)**, 3.3 · relator **Guilherme Gomes** · Recursos contra cobrança de CFEM → recursos parcialmente providos por unanimidade
+  - votos: Guilherme: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=3820s)
+- **RD 40ª Ordinária (2022-05-26)**, 3.4 · relator **Guilherme Gomes** · Recursos contra multa por não pagamento de TAH → recurso negado por unanimidade
+  - votos: Guilherme: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=3853s)
+- **RD 41ª Ordinária (2022-06-30)**, 2.7 · relator **Ronaldo Lima** · Recursos contra cobrança de CFEM → recurso negado por unanimidade
+  - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=4456s)
+- **RD 41ª Ordinária (2022-06-30)**, 3.13 · relator **Guilherme Gomes** · Recurso contra cobrança de CFEM → recurso negado por unanimidade
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=5005s)
+- **RD 41ª Ordinária (2022-06-30)**, 4.8 · relator **Tasso Mendonça** · Recursos contra multas por não pagamento de TAH → recurso negado por unanimidade
+  - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=7358s)
+- **RD 42ª Reunião Ordinária Pública (2022-07-27)**, 4.5.1 · relator **Tasso Mendonça** · Recurso contra cobrança de CFEM (2008-2012; NFLDP 272/2015): consumo do minério pela controladora, preço de transferência abaixo do mercado, desconsid → recurso negado por unanimidade; cobrança mantida
+  - votos: Tasso: relator; Victor: acompanha; Guilherme: acompanha; Ronaldo: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=qNoGxBv5WKY&t=403s)
+- **RD 42ª Reunião Ordinária Pública (2022-07-27)**, 1.9 · relator **Victor Bicca** · Recursos contra multas por não pagamento de TAH (parcelamento cancelado) → negados (unanimidade)
+  - votos: Victor: relator; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=qNoGxBv5WKY&t=4328s)
+- **RD 42ª Reunião Ordinária Pública (2022-07-27)**, 2.5.1 · relator **Ronaldo Lima** · Recurso contra cobrança de CFEM → negado (unanimidade dos presentes)
+  - votos: Ronaldo: relator; Victor: acompanha; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=qNoGxBv5WKY&t=5190s)
+- **RD 42ª Reunião Ordinária Pública (2022-07-27)**, 2.5.2 · relator **Ronaldo Lima** · Recurso contra cobrança de CFEM → parcialmente acatado (unanimidade dos presentes)
+  - votos: Ronaldo: relator; Victor: acompanha; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=qNoGxBv5WKY&t=5224s)
+- **RD 42ª Reunião Ordinária Pública (2022-07-27)**, 4.5.2 · relator **Tasso Mendonça** · Recurso contra cobrança de CFEM (1991-2001; erro de CNPJ e alegada duplicidade) → negado; cobrança mantida (unanimidade)
+  - votos: Tasso: relator; Victor: acompanha; Guilherme: acompanha; Ronaldo: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=qNoGxBv5WKY&t=7394s)
+- **RD 42ª Reunião Ordinária Pública (2022-07-27)**, 5.2.5-5.2.7 · relator **Roger Cabral** · Recursos contra cobrança de CFEM (2009-2013; inclusive R$ 9,35 milhões em 2013, valor da legenda) → negados (unanimidade)
+  - votos: Roger: relator; Victor: acompanha; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=qNoGxBv5WKY&t=9041s)
+- **RD 42ª Reunião Ordinária Pública (2022-07-27)**, 5.2.8 · relator **Roger Cabral** · Recurso contra cobrança de CFEM (1991-2007) → negado (unanimidade)
+  - votos: Roger: relator; Victor: acompanha; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=qNoGxBv5WKY&t=9272s)
+- **RD 42ª Reunião Ordinária Pública (2022-07-27)**, 5.2.9 · relator **Roger Cabral** · Recurso contra cobrança de CFEM (2006-2012) → negado (unanimidade)
+  - votos: Roger: relator; Victor: acompanha; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=qNoGxBv5WKY&t=9362s)
+- **RD 42ª Reunião Ordinária Pública (2022-07-27)**, 5.5 · relator **Roger Cabral** · Recurso contra multa de TAH; anulação de decisão de ex-DG contrária à legislação (nota PFE 107/2021) → negado; nulidade da decisão anterior do DG reconhecida (unanimidade)
+  - votos: Roger: relator; Victor: acompanha; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=qNoGxBv5WKY&t=9648s)
+- **RD 43ª Reunião Ordinária Pública (2022-08-31)**, 2.3.1-2.3.3 · relator **Ronaldo Lima** · Recursos contra cobrança de CFEM → parcialmente acatados (2.3.1-2.3.2); acatado (2.3.3) (unanimidade)
+  - votos: Ronaldo: relator; Victor: acompanha; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=Zze8E9AIy2I&t=3496s)
+- **RD 43ª Reunião Ordinária Pública (2022-08-31)**, 4.4.1 · relator **Tasso Mendonça** · Recursos contra multas por não pagamento de TAH → negados (unanimidade)
+  - votos: Tasso: relator; Victor: acompanha; Guilherme: acompanha; Ronaldo: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=Zze8E9AIy2I&t=5261s)
+- **RD 43ª Reunião Ordinária Pública (2022-08-31)**, 4.4.2 · relator **Tasso Mendonça** · Recurso contra multa por não pagamento de TAH → negado (unanimidade)
+  - votos: Tasso: relator; Victor: acompanha; Guilherme: acompanha; Ronaldo: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=Zze8E9AIy2I&t=5588s)
+- **RD 43ª Reunião Ordinária Pública (2022-08-31)**, 5.3 · relator **Roger Cabral** · Recurso contra multa por TAH cobrada indevidamente (caducidade do alvará anterior ao aniversário) → provido; auto e multa cancelados (unanimidade)
+  - votos: Roger: relator; Victor: acompanha; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=Zze8E9AIy2I&t=7054s)
+- **RD 44ª Reunião Ordinária Pública (2022-10-19)**, 1.7.4 · relator **Victor Bicca** · Recurso contra cobrança de CFEM (1991/1999-2007): decadência, deduções de ICMS/PIS/Cofins, pedido de diligência — com sustentação oral (advogada Eduar → recurso negado por unanimidade
+  - votos: Victor: relator; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=MeEMbwfvLJo&t=2069s)
+- **RD 44ª Reunião Ordinária Pública (2022-10-19)**, 1.1 · relator **Victor Bicca** · Referendo de atos do Diretor-Geral: recurso da 5ª rodada e início da 6ª rodada de disponibilidade (edital 1/2022); recurso de município contra exclusã → referendados (unanimidade)
+  - votos: Victor: relator; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=MeEMbwfvLJo&t=3133s)
+- **RD 44ª Reunião Ordinária Pública (2022-10-19)**, 1.7 (exceto 1.7.4) · relator **Victor Bicca** · Recursos contra cobranças de CFEM → negados (1.7.1, 1.7.2, 1.7.3, 1.7.6, 1.7.7); provimento parcial no 1.7.5 (unanimidade)
+  - votos: Victor: relator; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=MeEMbwfvLJo&t=3670s)
+- **RD 44ª Reunião Ordinária Pública (2022-10-19)**, 3.1 · relator **Guilherme Gomes** · Recursos contra cobrança de CFEM → negados; dois últimos não conhecidos por intempestividade (unanimidade)
+  - votos: Guilherme: relator; Victor: acompanha; Tasso: acompanha; Ronaldo: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=MeEMbwfvLJo&t=4717s)
+- **RD 44ª Reunião Ordinária Pública (2022-10-19)**, 3.2 · relator **Guilherme Gomes** · Recursos contra cobrança de TAH → negados (unanimidade)
+  - votos: Guilherme: relator; Victor: acompanha; Tasso: acompanha; Ronaldo: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=MeEMbwfvLJo&t=4798s)
+- **RD 44ª Reunião Ordinária Pública (2022-10-19)**, 5.3 · relator **Roger Cabral** · Recurso contra cobrança de CFEM de 2001 → provimento parcial (recolhimentos reconhecidos) (unanimidade)
+  - votos: Roger: relator; Victor: acompanha; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=MeEMbwfvLJo&t=7712s)
+- **RD 44ª Reunião Ordinária Pública (2022-10-19)**, 5.12 · relator **Roger Cabral** · Recurso contra multa por não pagamento de TAH (alegada desproporcionalidade) → negado (unanimidade)
+  - votos: Roger: relator; Victor: acompanha; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=MeEMbwfvLJo&t=9566s)
+- **RD 44ª Reunião Ordinária Pública (2022-10-19)**, 5.13 · relator **Tasso Mendonça** · Voto-vista (herdado de Debora Puccini) em recurso contra cobrança de CFEM; relator original Tasso Mendonça (24ª ROP), acompanhado à época por Carlos C → recurso negado por unanimidade (votação em separado)
+  - votos: Tasso: relator; Roger: revisor_acompanha; Ronaldo: acompanha; Victor: acompanha; Guilherme: outro · [vídeo](https://www.youtube.com/watch?v=MeEMbwfvLJo&t=9649s)
+- **RD 45ª Reunião Ordinária Pública (2022-11-23)**, 1.13 · relator **Victor Bicca** · Recursos contra processos de cobrança de CFEM (2010-2017; dedução de minério adquirido de terceiros, CFOPs) → pedido de vista de Guilherme Gomes; deliberação adiada
+  - votos: Victor: relator; Guilherme: vista; Ronaldo: revisor_acompanha; Roger: revisor_acompanha; Tasso: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=M-AvUArsvls&t=2728s)
+- **RD 45ª Reunião Ordinária Pública (2022-11-23)**, 2.7 · relator **Ronaldo Lima** · Recurso contra nulidade de alvará de pesquisa (granito, MG) por não pagamento de TAH → recurso não acatado; nulidade mantida (unanimidade)
+  - votos: Ronaldo: relator; Victor: acompanha; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=M-AvUArsvls&t=3871s)
+- **RD 45ª Reunião Ordinária Pública (2022-11-23)**, 3.2 · relator **Guilherme Gomes** · Recursos contra cobrança de CFEM → dois com provimento parcial; dois negados (unanimidade)
+  - votos: Guilherme: relator; Victor: acompanha; Tasso: acompanha; Ronaldo: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=M-AvUArsvls&t=4318s)
+- **RD 45ª Reunião Ordinária Pública (2022-11-23)**, 4.3 · relator **Tasso Mendonça** · Recursos contra multas: segurança de mina (NRM: sinalização, antiricocheteamento, disposição de estéril, plano de fogo) e falta de pagamento de TAH (a → recursos negados; multas mantidas (unanimidade)
+  - votos: Tasso: relator; Victor: acompanha; Guilherme: acompanha; Ronaldo: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=M-AvUArsvls&t=5064s)
+- **RD 45ª Reunião Ordinária Pública (2022-11-23)**, 5.4.1 · relator **Roger Cabral** · Recurso contra multa por não pagamento de TAH (basalto, Estância Velha-RS) → recurso negado; multa mantida (suspensão de prazos da pandemia não alcançou receitas) (una
+  - votos: Roger: relator; Victor: acompanha; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=M-AvUArsvls&t=11374s)
+- **RD 45ª Reunião Ordinária Pública (2022-11-23)**, 5.4.2 · relator **Roger Cabral** · Recurso contra multa por não pagamento de TAH (minério de ferro; parcelamento cancelado) → recurso não conhecido (intempestivo) (unanimidade)
+  - votos: Roger: relator; Victor: acompanha; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=M-AvUArsvls&t=11597s)
+- **RD 46 (2022-12-14)**, 2.2 · relator **Guilherme Gomes** · Voto-vista em recursos contra cobrança de CFEM sobre minério de ferro próprio e comprado de terceiros (dupla incidência sobre valor agregado no benefi → provimento parcial pelo voto-vista (4 a 1 contra o voto original de Victor Bicca)
+  - votos: Guilherme: revisor_acompanha; Tasso: revisor_acompanha; Roger: revisor_acompanha; Júlio: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=cXfuSmk0BVs&t=7035s)
+- **RD 46 (2022-12-14)**, 3.5 · relator **Tasso Mendonça** · Recurso contra exclusão da lista de municípios afetados para CFEM (mineroduto da Anglo American; município é produtor de ferro pela J Lessa Participaç → pedido de vista (Guilherme Gomes)
+  - votos: Tasso: relator; Guilherme: vista · [vídeo](https://www.youtube.com/watch?v=cXfuSmk0BVs&t=9849s)
+- **RD 46 (2022-12-14)**, 5.2.1 · relator **Roger Cabral** · Recurso contra cobrança de CFEM (cerca de R$ 237 mil) → aprovado por unanimidade
+  - votos: Roger: relator; Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Júlio: acompanha · [vídeo](https://www.youtube.com/watch?v=cXfuSmk0BVs&t=13156s)
+- **RD 46 (2022-12-14)**, 5.2.2 · relator **Roger Cabral** · Recurso contra cobrança de CFEM (cerca de R$ 43 mil) → aprovado por unanimidade
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Júlio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=cXfuSmk0BVs&t=13742s)
+- **RD 47 (2023-01-25)**, 4.5.1 · relator **Roger Cabral** · Recurso contra cobrança de CFEM sobre pirita (Paracatu/MG; decadência, base de cálculo pelo ácido sulfúrico, deduções de frete e seguro) → pedido de vista (Tasso Mendonça)
+  - votos: Roger: relator; Tasso: vista · [vídeo](https://www.youtube.com/watch?v=UfKJpb9ZVZA&t=5375s)
+- **RD 47 (2023-01-25)**, 4.5.2 · relator **Roger Cabral** · Recurso contra cobrança de CFEM sobre ouro (vendas com entrega futura, dedução de ICMS incidente versus pago, frete) → pedido de vista (Tasso Mendonça)
+  - votos: Roger: relator; Tasso: vista · [vídeo](https://www.youtube.com/watch?v=UfKJpb9ZVZA&t=6334s)
+- **RD 47 (2023-01-25)**, 5.4.2 · relator **Júlio Rodrigues** · Recurso contra cobrança de CFEM (basalto; Jaú/SP; mar/2004 a dez/2012; cerca de R$ 440 mil à época) → pedido de vista (Guilherme Gomes)
+  - votos: Júlio: relator; Guilherme: vista · [vídeo](https://www.youtube.com/watch?v=UfKJpb9ZVZA&t=7213s)
+- **RD 47 (2023-01-25)**, 1.4.1-1.4.5 · relator **Mauro Sousa** · Recursos contra cobrança de CFEM → aprovado por unanimidade
+  - votos: Mauro: relator; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Júlio: acompanha · [vídeo](https://www.youtube.com/watch?v=UfKJpb9ZVZA&t=8746s)
+- **RD 47 (2023-01-25)**, 3.1.2 · relator **Tasso Mendonça** · Recurso contra multa por não pagamento da TAH do 3º ano (bauxita; Goianá/MG) → aprovado por unanimidade
+  - votos: Tasso: relator; Mauro: acompanha; Guilherme: acompanha; Roger: acompanha; Júlio: acompanha · [vídeo](https://www.youtube.com/watch?v=UfKJpb9ZVZA&t=10026s)
+- **RD 47 (2023-01-25)**, 4.3.1 · relator **Roger Cabral** · Recurso contra multa por não pagamento de TAH (granito; Divino das Laranjeiras/MG) → aprovado por unanimidade
+  - votos: Roger: relator; Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Júlio: acompanha · [vídeo](https://www.youtube.com/watch?v=UfKJpb9ZVZA&t=12798s)
+- **RD 47 (2023-01-25)**, 4.5.3 · relator **Roger Cabral** · Recurso contra cobrança de CFEM (argila para tijolos; Ceará) → aprovado por unanimidade
+  - votos: Roger: relator; Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Júlio: acompanha · [vídeo](https://www.youtube.com/watch?v=UfKJpb9ZVZA&t=13272s)
+- **RD 47 (2023-01-25)**, 4.5.4 · relator **Roger Cabral** · Recurso contra cobrança de CFEM (jan/2002 a dez/2010) → aprovado por unanimidade
+  - votos: Roger: relator; Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Júlio: acompanha · [vídeo](https://www.youtube.com/watch?v=UfKJpb9ZVZA&t=13807s)
+- **RD 47 (2023-01-25)**, 5.4.1 · relator **Júlio Rodrigues** · Recurso contra cobrança de CFEM → aprovado por unanimidade
+  - votos: Júlio: relator; Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=UfKJpb9ZVZA&t=15000s)
+- **RD 47 (2023-01-25)**, 2.1.1 · relator **Tasso Mendonça** · Voto-vista sobre pedido para receber CFEM como produtor e como afetado → aprovado por unanimidade (voto do relator Tasso)
+  - votos: Tasso: relator; Guilherme: revisor_acompanha; Mauro: acompanha; Roger: acompanha; Júlio: acompanha · [vídeo](https://www.youtube.com/watch?v=UfKJpb9ZVZA&t=15344s)
+- **RD 47 (2023-01-25)**, 2.2.1 · relator **Guilherme Gomes** · Pedido de reconsideração contra nulidade ex officio de alvará por não pagamento de TAH → aprovado por unanimidade
+  - votos: Guilherme: relator; Mauro: acompanha; Tasso: acompanha; Roger: acompanha; Júlio: acompanha · [vídeo](https://www.youtube.com/watch?v=UfKJpb9ZVZA&t=15386s)
+- **RD 48 (2023-02-22)**, 2.3.1 · relator **Guilherme Gomes** · Recursos contra a lista prévia de beneficiários da CFEM de municípios afetados por estruturas de mineração 2022/2023 (ferro; empresa Gusa Nordeste cit → aprovado por unanimidade
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: outro; Júlio: acompanha; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=OebsMtBiF7o&t=2571s)
+- **RD 48 (2023-02-22)**, 1.1 · relator **Mauro Sousa** · Recursos contra cobrança de CFEM (não pagamento ou pagamento a menor) → aprovado por unanimidade
+  - votos: Mauro: relator; Tasso: acompanha; Roger: acompanha; Guilherme: acompanha; Júlio: acompanha · [vídeo](https://www.youtube.com/watch?v=OebsMtBiF7o&t=4686s)
+- **RD 48 (2023-02-22)**, 1.2 · relator **Mauro Sousa** · Recursos contra multa por não pagamento da Taxa Anual por Hectare → aprovado por unanimidade
+  - votos: Mauro: relator; Tasso: acompanha; Roger: acompanha; Guilherme: acompanha; Júlio: acompanha · [vídeo](https://www.youtube.com/watch?v=OebsMtBiF7o&t=4770s)
+- **RD 48 (2023-02-22)**, 2.1 · relator **Guilherme Gomes** · Recursos contra cobrança de CFEM → aprovado por unanimidade
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Mauro: acompanha; Júlio: acompanha · [vídeo](https://www.youtube.com/watch?v=OebsMtBiF7o&t=5430s)
+- **RD 48 (2023-02-22)**, 2.5 · relator **Guilherme Gomes** · Recurso contra cobrança de CFEM (jan/1991 a dez/2000) → aprovado por unanimidade
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Mauro: acompanha; Júlio: acompanha · [vídeo](https://www.youtube.com/watch?v=OebsMtBiF7o&t=5490s)
+- **RD 48 (2023-02-22)**, 2.2 · relator **Guilherme Gomes** · Recursos contra autos de infração por não pagamento da Taxa Anual por Hectare → aprovado por unanimidade
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Mauro: acompanha; Júlio: acompanha · [vídeo](https://www.youtube.com/watch?v=OebsMtBiF7o&t=5580s)
+- **RD 48 (2023-02-22)**, 3.6.1 · relator **Tasso Mendonça** · Recurso contra cobrança de CFEM (processo com vista anterior do relator) → retirado de pauta pelo relator
+  - votos: Tasso: relator · [vídeo](https://www.youtube.com/watch?v=OebsMtBiF7o&t=7175s)
+- **RD 48 (2023-02-22)**, 5.5 · relator **Júlio Rodrigues** · Recurso intempestivo contra nulidade de alvará de pesquisa por não pagamento de TAH (Amapá) → aprovado por unanimidade
+  - votos: Júlio: relator; Guilherme: acompanha; Tasso: outro; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=OebsMtBiF7o&t=8730s)
+- **RD 48 (2023-02-22)**, 5.7 · relator **Júlio Rodrigues** · Recursos contra cobrança de CFEM → aprovado por unanimidade
+  - votos: Júlio: relator; Guilherme: acompanha; Tasso: outro; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=OebsMtBiF7o&t=8910s)
+- **RD 48 (2023-02-22)**, 5.8 · relator **Júlio Rodrigues** · Recurso contra multa por não pagamento de TAH (areia; Jaguaripe/BA) → aprovado por unanimidade
+  - votos: Júlio: relator; Guilherme: acompanha; Tasso: outro; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=OebsMtBiF7o&t=8970s)
+- **RD 49 (2023-03-28)**, 1.1 · relator **Mauro Sousa** · Referendo de atos do Diretor-Geral: cancelamento da 7ª rodada de disponibilidade de áreas (falhas do sistema); Resolução 131 (alçada e apreciação técn → referendado por unanimidade
+  - votos: Mauro: relator; Guilherme: acompanha; Júlio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=668s)
+- **RD 49 (2023-03-28)**, 1.3 · relator **Mauro Sousa** · Recursos em processos de cobrança de CFEM (alegações de decadência, prescrição, base de cálculo) → recursos conhecidos e não providos, por unanimidade
+  - votos: Mauro: relator; Guilherme: acompanha; Júlio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=1234s)
+- **RD 49 (2023-03-28)**, 1.4 · relator **Mauro Sousa** · Recurso contra processo de cobrança de CFEM; comprovação parcial de pagamentos → provimento parcial, por unanimidade
+  - votos: Mauro: relator; Guilherme: acompanha; Júlio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=1316s)
+- **RD 49 (2023-03-28)**, Júlio-4.2b · relator **Júlio Rodrigues** · Recurso intempestivo contra multas por não pagamento de TAH e não entrega de RFP (quartzo, MG) → não conhecido; declarada prescrição das multas; cobrança das TAH prossegue
+  - votos: Júlio: relator; Guilherme: acompanha; Mauro: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=4176s)
+- **RD 49 (2023-03-28)**, Júlio-4.2d · relator **Júlio Rodrigues** · Recursos intempestivos contra nulidade de alvarás de pesquisa por falta de pagamento de TAH (alegação de pandemia) → não conhecidos; nulidades mantidas, por unanimidade
+  - votos: Júlio: relator; Guilherme: acompanha; Mauro: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=4411s)
+- **RD 50 (2023-05-11)**, 1.3.1 · relator **Mauro Sousa** · Recurso contra processo de cobrança de CFEM (jan/1991–dez/2000); sustentação oral pedindo prescrição/decadência total → provimento parcial, por unanimidade
+  - votos: Mauro: relator; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=917s)
+- **RD 50 (2023-05-11)**, 4.5.1 · relator **Roger Cabral** · Pedido de redução de 50% da alíquota de CFEM (ou enquadramento em 1%) para fração não gemológica de ametista, citrino e ágata descartados, usados em d → aprovado por unanimidade (redução de 50% como rejeito; negado enquadramento como rocha orn
+  - votos: Roger: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=2910s)
+- **RD 50 (2023-05-11)**, 1.2.1-1.2.4 · relator **Mauro Sousa** · Recursos contra processos de cobrança de CFEM → recursos conhecidos e não providos, por unanimidade
+  - votos: Mauro: relator; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=4360s)
+- **RD 50 (2023-05-11)**, 1.3.2 · relator **Mauro Sousa** · Recurso contra cobrança de CFEM com comprovação parcial de pagamentos → provimento parcial, por unanimidade
+  - votos: Mauro: relator; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=4492s)
+- **RD 50 (2023-05-11)**, 1.9.1-1.9.2 · relator **Mauro Sousa** · Recursos contra indeferimento/ nulidade por não comprovação de recolhimento de emolumento (agendamento bancário não pago) → recursos não providos, por unanimidade
+  - votos: Mauro: relator; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=5086s)
+- **RD 50 (2023-05-11)**, 3.5.1-3.5.2 · relator **Tasso Mendonça** · Recursos contra multas por não pagamento de TAH (alegações de pandemia e de novo marco regulatório) → aprovado por unanimidade
+  - votos: Tasso: relator; Mauro: acompanha; Roger: acompanha; Guilherme: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=7157s)
+- **RD 51 (2023-07-07)**, 1.2.1-1.2.4 · relator **Mauro Sousa** · Recursos contra cobrança de CFEM → aprovado por unanimidade
+  - votos: Mauro: relator; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=nqVyPAM43j0&t=6317s)
+- **RD 51 (2023-07-07)**, 1.8.1-1.8.4 · relator **Mauro Sousa** · Recursos contra multas por falta de pagamento de TAH → aprovado por unanimidade
+  - votos: Mauro: relator; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=nqVyPAM43j0&t=7113s)
+- **RD 51 (2023-07-07)**, 2.1.8-2.1.11 · relator **Guilherme Gomes** · Recursos contra cobrança de CFEM (votos apenas disponibilizados na pasta, proclamados como aprovados) → aprovado por unanimidade
+  - votos: Guilherme: relator; Mauro: acompanha; Roger: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=nqVyPAM43j0&t=7980s)
+- **RD 51 (2023-07-07)**, 2.1.3 · relator **Guilherme Gomes** · Recurso contra cobrança de CFEM → aprovado por unanimidade
+  - votos: Guilherme: relator; Mauro: acompanha; Roger: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=nqVyPAM43j0&t=8038s)
+- **RD 51 (2023-07-07)**, 2.1.5 · relator **Guilherme Gomes** · Recurso contra cobrança de CFEM (voto lido com erro de redação a corrigir: não conhecer x conhecer e negar) → aprovado por unanimidade
+  - votos: Guilherme: relator; Mauro: acompanha; Roger: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=nqVyPAM43j0&t=8078s)
+- **RD 51 (2023-07-07)**, 2.1.6 · relator **Guilherme Gomes** · Recurso contra cobrança de CFEM → aprovado por unanimidade
+  - votos: Guilherme: relator; Mauro: acompanha; Roger: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=nqVyPAM43j0&t=8160s)
+- **RD 51 (2023-07-07)**, 2.1.17 · relator **Guilherme Gomes** · Pedido de reconsideração contra decisão da diretoria em cobrança de CFEM → aprovado por unanimidade
+  - votos: Guilherme: relator; Mauro: acompanha; Roger: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=nqVyPAM43j0&t=8239s)
+- **RD 51 (2023-07-07)**, 3.6.1 · relator **Tasso Mendonça** · Recurso contra cobrança de TAH decorrente de prorrogação indevida de alvará → aprovado por unanimidade
+  - votos: Tasso: relator; Mauro: acompanha; Roger: acompanha; Guilherme: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=nqVyPAM43j0&t=11820s)
+- **RD 51 (2023-07-07)**, 4.4.1 · relator **Roger Cabral** · Recurso contra multa por TAH não paga (tese do Decreto 10.965/2022) → aprovado por unanimidade
+  - votos: Roger: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=nqVyPAM43j0&t=13849s)
+- **RD 51 (2023-07-07)**, 4.5.1-4.5.3 · relator **Roger Cabral** · Recursos contra cobrança de CFEM (defesas intempestivas; pedido de parcelamento) → aprovado por unanimidade
+  - votos: Roger: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=nqVyPAM43j0&t=14029s)
+- **RD 51 (2023-07-07)**, 5.3.1 · relator **Caio Seabra** · Recurso contra cobrança de CFEM 1991–2008 → aprovado por unanimidade
+  - votos: Caio: relator; Mauro: acompanha; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=nqVyPAM43j0&t=15270s)
+- **RD 51 (2023-07-07)**, 5.3.3 · relator **Caio Seabra** · Recurso contra cobrança de CFEM de cerca de R$ 20 milhões (1998–2006; valor da legenda) → aprovado por unanimidade
+  - votos: Caio: relator; Mauro: acompanha; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=nqVyPAM43j0&t=15330s)
+- **RD 51 (2023-07-07)**, 5.3.4 · relator **Caio Seabra** · Recurso contra cobrança de CFEM 2002–2010 → aprovado por unanimidade
+  - votos: Caio: relator; Mauro: acompanha; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=nqVyPAM43j0&t=15388s)
+- **RD 51 (2023-07-07)**, 5.3.5 · relator **Caio Seabra** · Recurso contra cobrança de CFEM 2005 → aprovado por unanimidade
+  - votos: Caio: relator; Mauro: acompanha; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=nqVyPAM43j0&t=15480s)
+- **RD 51 (2023-07-07)**, 5.3.7 · relator **Caio Seabra** · Recurso contra cobrança de CFEM mar/2016–jun/2017 → aprovado por unanimidade
+  - votos: Caio: relator; Mauro: acompanha; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=nqVyPAM43j0&t=15614s)
+- **RD 51 (2023-07-07)**, 5.3.8 · relator **Caio Seabra** · Recurso contra cobrança de CFEM 2007–2012 → aprovado por unanimidade
+  - votos: Caio: relator; Mauro: acompanha; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=nqVyPAM43j0&t=15660s)
+- **RD 51 (2023-07-07)**, 5.3.10 · relator **Caio Seabra** · Recurso contra cobrança de CFEM 2011–2017 (tese do ICMS na base de cálculo) → aprovado por unanimidade
+  - votos: Caio: relator; Mauro: acompanha; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=nqVyPAM43j0&t=15725s)
+- **RD 51 (2023-07-07)**, 5.9.1-5.9.6 · relator **Caio Seabra** · Recursos contra multas (suspensão de lavra sem comunicação, documentos fora do RAL web, não entrega de RFP, TAH) → aprovado por unanimidade
+  - votos: Caio: relator; Mauro: acompanha; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=nqVyPAM43j0&t=17220s)
+- **RD 51 (2023-07-07)**, 5.9.8-5.9.11 · relator **Caio Seabra** · Recursos contra multas (exigência atendida fora do prazo, não apresentação de DCE de barragem, TAH) → aprovado por unanimidade
+  - votos: Caio: relator; Mauro: acompanha; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=nqVyPAM43j0&t=17700s)
+- **RD 52 (2023-07-26)**, 1.4.1 · relator **Mauro Sousa** · Recurso intempestivo contra notificação administrativa de cobrança de TAH → aprovado por unanimidade
+  - votos: Mauro: relator; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=IwnZqOz8Rz8&t=5508s)
+- **RD 52 (2023-07-26)**, 2.1.1 · relator **Guilherme Gomes** · Recurso contra multa por falta de pagamento de TAH → aprovado por unanimidade
+  - votos: Guilherme: relator; Mauro: vista; Roger: acompanha; Tasso: vista; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=IwnZqOz8Rz8&t=7620s)
+- **RD 52 (2023-07-26)**, 2.1.2 · relator **Guilherme Gomes** · Recurso contra cobrança de CFEM (jan–out/2004) → aprovado por unanimidade
+  - votos: Guilherme: relator; Mauro: vista; Roger: acompanha; Tasso: vista; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=IwnZqOz8Rz8&t=7681s)
+- **RD 52 (2023-07-26)**, 2.2.2 · relator **Guilherme Gomes** · Embargos de declaração contra decisão da 39ª reunião (cobrança de CFEM 2010–2015) → aprovado por unanimidade
+  - votos: Guilherme: relator; Mauro: vista; Roger: acompanha; Tasso: vista; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=IwnZqOz8Rz8&t=7767s)
+- **RD 52 (2023-07-26)**, 4.6.1-4.6.4 · relator **Roger Cabral** · Recursos contra multas por falta de pagamento de TAH → aprovado por unanimidade
+  - votos: Roger: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=IwnZqOz8Rz8&t=13438s)
+- **RD 52 (2023-07-26)**, 4.6.5 · relator **Roger Cabral** · Recurso contra notificação de cobrança de TAH → aprovado por unanimidade
+  - votos: Roger: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=IwnZqOz8Rz8&t=13522s)
+- **RD 52 (2023-07-26)**, 5.1.1-5.1.3 · relator **Caio Seabra** · Recursos contra cobrança de CFEM (tese do ICMS na base de cálculo) → aprovado por unanimidade
+  - votos: Caio: relator; Mauro: acompanha; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=IwnZqOz8Rz8&t=14890s)
+- **RD 52 (2023-07-26)**, 5.1.4 · relator **Caio Seabra** · Recurso contra cobrança de CFEM 2012–2015 (deduções de transporte ferroviário e portuário); sustentação oral retirada → aprovado por unanimidade
+  - votos: Caio: relator; Mauro: acompanha; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=IwnZqOz8Rz8&t=14955s)
+- **RD 52 (2023-07-26)**, 5.1.5 · relator **Caio Seabra** · Recurso contra cobrança de CFEM 1991–2000 (decadência, arbitramento); memoriais recebidos → aprovado por unanimidade
+  - votos: Caio: relator; Mauro: acompanha; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=IwnZqOz8Rz8&t=15016s)
+- **RD 52 (2023-07-26)**, 5.1.6 · relator **Caio Seabra** · Recurso contra cobrança de CFEM de 2001 → aprovado por unanimidade
+  - votos: Caio: relator; Mauro: acompanha; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=IwnZqOz8Rz8&t=15105s)
+- **RD 52 (2023-07-26)**, 5.4.1 · relator **Caio Seabra** · Recurso contra multa por falta de pagamento de TAH (tese da revogação do art. 56 do regulamento) → aprovado por unanimidade
+  - votos: Caio: relator; Mauro: acompanha; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=IwnZqOz8Rz8&t=15382s)
+- **RD 52 (2023-07-26)**, 5.4.2 · relator **Caio Seabra** · Recurso contra multa por falta de pagamento de TAH (alegação de falta de intimação) → aprovado por unanimidade
+  - votos: Caio: relator; Mauro: acompanha; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=IwnZqOz8Rz8&t=15459s)
+- **RD 53ª Reunião Ordinária Pública (2023-09-05)**, extrapauta · relator **Mauro Sousa** · Prorrogação do vencimento da TAH do 1º semestre de 2023 (31/07) para 30/09/2023 por falha no sistema de boletos → aprovado por unanimidade
+  - votos: Mauro: outro; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=S2GK8_S3FH4&t=135s)
+- **RD 53ª Reunião Ordinária Pública (2023-09-05)**, 1.2.x · relator **Mauro Sousa** · Recursos contra processos de cobrança de CFEM → aprovado por unanimidade
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=S2GK8_S3FH4&t=7709s)
+- **RD 53ª Reunião Ordinária Pública (2023-09-05)**, 3.2.1 · relator **Roger Cabral** · Voto-vista de Tasso em recurso contra cobrança de CFEM sobre pirita (ácido sulfúrico) jan/1991–dez/2006 → aprovado por unanimidade
+  - votos: Tasso: revisor_acompanha; Guilherme: acompanha; Mauro: acompanha; Roger: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=S2GK8_S3FH4&t=10221s)
+- **RD 53ª Reunião Ordinária Pública (2023-09-05)**, 3.5.x · relator **Tasso Mendonça** · Recursos contra multas por não pagamento de TAH → aprovado por unanimidade
+  - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Mauro: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=S2GK8_S3FH4&t=12090s)
+- **RD 53ª Reunião Ordinária Pública (2023-09-05)**, 2.4.1 · relator **Guilherme Gomes** · Reforma de decisão anterior sobre multas de TAH, por informação equivocada da SGP sobre quem era o superintendente; propor anular atos posteriores → pedido de vista (Caio Seabra)
+  - votos: Guilherme: relator; Caio: vista; Mauro: outro; Roger: outro; Tasso: outro · [vídeo](https://www.youtube.com/watch?v=S2GK8_S3FH4&t=14242s)
+- **RD 53ª Reunião Ordinária Pública (2023-09-05)**, 4.1.x · relator **Roger Cabral** · Recursos contra multas por não pagamento de TAH → aprovado por unanimidade
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=S2GK8_S3FH4&t=16290s)
+- **RD 53ª Reunião Ordinária Pública (2023-09-05)**, 4.2.x · relator **Roger Cabral** · Recursos contra cobrança de CFEM (2015-2016) — itens 4.2.3 a 4.2.5 → aprovado por unanimidade
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=S2GK8_S3FH4&t=16567s)
+- **RD 53ª Reunião Ordinária Pública (2023-09-05)**, 5.3-5.9 · relator **Caio Seabra** · Mudança de regime para PLG (negado, área de 1.105 ha), mudanças de regime para licenciamento (providas por formalismo moderado), prorrogação/retificaç → aprovado por unanimidade
+  - votos: Caio: relator; Guilherme: acompanha; Mauro: acompanha; Tasso: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=S2GK8_S3FH4&t=19249s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 1.2.1 · relator **Mauro Sousa** · Recursos contra cobrança de CFEM → aprovado por unanimidade
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=10973s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 1.3.1 · relator **Mauro Sousa** · Recurso contra cobrança de CFEM → aprovado por unanimidade
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=11070s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 2.3.1 · relator **Guilherme Gomes** · Recurso contra cobrança de CFEM (jan/1991–ago/2001, NFLD 20/2008) → aprovado por unanimidade
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=16534s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 3.1.1 · relator **Tasso Mendonça** · Recurso contra cobrança de CFEM com arbitramento (venda de matacão bruto a empresa do mesmo grupo); itens 3.1.1 a 3.1.7 → pedido de vista (Mauro Sousa) de todos os itens 3.1 e 3.2
+  - votos: Tasso: relator; Guilherme: outro; Roger: outro; Caio: outro; Mauro: vista · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=17143s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 3.1.x · relator **Tasso Mendonça** · Recurso contra cobrança de CFEM (ago/2009–jul/2017) com base em RAL → pedido de vista (Mauro Sousa)
+  - votos: Tasso: relator; Guilherme: outro; Roger: outro; Caio: outro; Mauro: vista · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=17951s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 3.2.x · relator **Tasso Mendonça** · Voto (após vista anterior de Carlos Cordeiro) em recurso contra cobrança de CFEM de bauxita em Juruti-PA → pedido de vista (Mauro Sousa)
+  - votos: Tasso: acompanha; Guilherme: outro; Roger: outro; Caio: outro; Mauro: vista · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=18377s)
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.15.1 · relator **Caio Seabra** · Reconsideração contra cobrança de CFEM (prescrição intercorrente) → aprovado por unanimidade
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=3730s)
+- **RD 55ª Reunião Ordinária Pública (2023-10-31)**, 1.1.1 · relator **Mauro Sousa** · Recurso contra cobrança de CFEM (bloco) → aprovado por unanimidade
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=JhJ9GBR6aWE&t=3245s)
+- **RD 55ª Reunião Ordinária Pública (2023-10-31)**, 1.1.2 · relator **Mauro Sousa** · Recurso contra cobrança de CFEM (bloco) → aprovado por unanimidade
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=JhJ9GBR6aWE&t=3245s)
+- **RD 55ª Reunião Ordinária Pública (2023-10-31)**, 1.1.3 · relator **Mauro Sousa** · Recurso contra cobrança de CFEM (bloco) → aprovado por unanimidade
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=JhJ9GBR6aWE&t=3245s)
+- **RD 55ª Reunião Ordinária Pública (2023-10-31)**, 5.2.1 · relator **Caio Seabra** · Recurso contra cobrança de CFEM: decisão de 2ª instância sem motivação → aprovado por unanimidade
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=JhJ9GBR6aWE&t=14902s)
+- **RD 56ª Reunião Ordinária Pública (2023-11-22)**, 3.5.1 · relator **Tasso Mendonça** · Recurso contra imposição de multa por pagamento intempestivo da Taxa Anual por Hectare (1º ano) → aprovado por unanimidade
+  - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Yuri: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=0Ck4xPkfL6Q&t=1388s)
+- **RD 56ª Reunião Ordinária Pública (2023-11-22)**, 1.4.1 · relator **Tasso Mendonça** · Voto-vista do Diretor-Geral em recursos contra cobrança de CFEM (pagamento a menor), relatoria original de Tasso Mendonça (54ª ROP) → aprovado por unanimidade (voto do relator original)
+  - votos: Mauro: revisor_acompanha; Tasso: relator; Guilherme: acompanha; Yuri: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=0Ck4xPkfL6Q&t=3085s)
+- **RD 56ª Reunião Ordinária Pública (2023-11-22)**, 4.4.1 · relator **Roger Cabral** · Recurso contra cobrança de CFEM (argila, Cristalândia, TO, 2007–2008) → aprovado por unanimidade
+  - votos: Roger: relator; Yuri: acompanha; Guilherme: acompanha; Tasso: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=0Ck4xPkfL6Q&t=6537s)
+- **RD 56ª Reunião Ordinária Pública (2023-11-22)**, 4.4.2 · relator **Roger Cabral** · Recurso contra cobrança de CFEM (segundo item do 4.4, apenas proclamado pelo secretário) → aprovado por unanimidade
+  - votos: Roger: relator; Yuri: acompanha; Guilherme: acompanha; Tasso: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=0Ck4xPkfL6Q&t=6537s)
+- **RD 56ª Reunião Ordinária Pública (2023-11-22)**, 5.2.1 · relator **Yuri Moraes** · Recurso contra cobrança de CFEM (mármore, Cachoeiro de Itapemirim, ES, 1991–2001) → aprovado por unanimidade
+  - votos: Yuri: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=0Ck4xPkfL6Q&t=7146s)
+- **RD 56ª Reunião Ordinária Pública (2023-11-22)**, 5.3.1 · relator **Yuri Moraes** · Recurso contra cobrança de Taxa Anual por Hectare (alvará de ouro, MG) → aprovado por unanimidade
+  - votos: Yuri: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=0Ck4xPkfL6Q&t=7243s)
+- **RD 57 (2023-12-08)**, 1.1.1 · relator **Mauro Sousa** · Alteração da Resolução ANM 106/2022 (Certificado do Processo de Kimberley para diamantes brutos; incorpora a Portaria Conjunta DNPM/SRF 37) → aprovado por unanimidade
+  - votos: Mauro: relator; Guilherme: acompanha; Yuri: acompanha; Tasso: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=AG_dkOZrjSA&t=321s)
+- **RD 57 (2023-12-08)**, 1.7.1 · relator **Mauro Sousa** · Referendo do ato do DG que editou ad referendum a Resolução ANM 143/2023 (CFEM dos municípios afetados, Decreto 11.659/2023), com retificação redacion → referendado por unanimidade
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Yuri: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=AG_dkOZrjSA&t=887s)
+- **RD 57 (2023-12-08)**, 4.4.1 · relator **Roger Cabral** · Pedido de arquivamento definitivo de processos de apuração de lavra ilegal (lavra pela Vale como arrendatária antes da averbação) → aprovado por unanimidade (6 processos)
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Yuri: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=AG_dkOZrjSA&t=2460s)
+- **RD 57 (2023-12-08)**, 2.5.1 · relator **Guilherme Gomes** · Recurso contra cobrança de CFEM (fev/2012 a jul/2017) → aprovado por unanimidade
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Yuri: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=AG_dkOZrjSA&t=10801s)
+- **RD 57 (2023-12-08)**, 2.5.2 · relator **Guilherme Gomes** · Recurso contra cobrança de CFEM (jan/2004 a dez/2012; valor citado ≈ R$ 18,99 milhões, incerto) → pedido de vista (Tasso Mendonça)
+  - votos: Guilherme: relator; Tasso: vista · [vídeo](https://www.youtube.com/watch?v=AG_dkOZrjSA&t=11015s)
+- **RD 57 (2023-12-08)**, 3.3.2 · relator **Tasso Mendonça** · Recurso contra multa por TAH (renúncia após fato gerador) → aprovado por unanimidade
+  - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Yuri: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=AG_dkOZrjSA&t=11874s)
+- **RD 57 (2023-12-08)**, 3.4.1 · relator **Tasso Mendonça** · Recurso contra nulidade de alvará de pesquisa por não pagamento de TAH → aprovado por unanimidade
+  - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Yuri: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=AG_dkOZrjSA&t=12284s)
+- **RD 57 (2023-12-08)**, 4.5.1 · relator **Roger Cabral** · Recurso contra multa por TAH → aprovado por unanimidade
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Yuri: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=AG_dkOZrjSA&t=15557s)
+- **RD 57 (2023-12-08)**, 4.5.2 · relator **Roger Cabral** · Recurso contra multa por TAH → aprovado por unanimidade
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Yuri: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=AG_dkOZrjSA&t=15660s)
+- **RD 57 (2023-12-08)**, 4.5.3 · relator **Roger Cabral** · Recurso contra multa por TAH → aprovado por unanimidade
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Yuri: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=AG_dkOZrjSA&t=15820s)
+- **RD 57 (2023-12-08)**, 4.5.4 · relator **Roger Cabral** · Recurso contra multa por TAH → aprovado por unanimidade
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Yuri: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=AG_dkOZrjSA&t=15932s)
+- **RD 57 (2023-12-08)**, 5.7.1 · relator **Yuri Moraes** · Recurso contra cobrança de CFEM (mar/2007 a dez/2012) → aprovado por unanimidade
+  - votos: Yuri: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=AG_dkOZrjSA&t=17541s)
+- **RD 57 (2023-12-08)**, 5.7.2 · relator **Yuri Moraes** · Recurso contra cobrança de CFEM paga a menor (2017-2020; valor citado ≈ R$ 92,8 milhões, incerto) → aprovado por unanimidade
+  - votos: Yuri: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=AG_dkOZrjSA&t=17674s)
+- **RD 58 (2024-01-24)**, 5.7.1 · relator **Caio Seabra** · Recurso contra indeferimento de prorrogação de registro de licença por inscrição em dívida ativa de CFEM já paga → retirado de pauta após sustentação oral (documentos novos juntados em 9/01/2024)
+  - votos: Caio: outro · [vídeo](https://www.youtube.com/watch?v=96WWdF-Y2IA&t=4664s)
+- **RD 58 (2024-01-24)**, 2.2.1 · relator **Guilherme Gomes** · Pedido de arquivamento definitivo de processo de apuração de lavra ilegal → aprovado por unanimidade
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=96WWdF-Y2IA&t=13653s)
+- **RD 58 (2024-01-24)**, 4.4.1 · relator **Roger Cabral** · Recurso contra nulidade de alvará de pesquisa por não pagamento de TAH → aprovado por unanimidade
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=96WWdF-Y2IA&t=20242s)
+- **RD 58 (2024-01-24)**, 4.4.2 · relator **Roger Cabral** · Recurso contra nulidade de alvará de pesquisa por não pagamento de TAH → aprovado por unanimidade
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=96WWdF-Y2IA&t=20344s)
+- **RD 58 (2024-01-24)**, 4.4.3 · relator **Roger Cabral** · Recurso contra multa por TAH paga fora do prazo (renumerado; constou como 4.12) → aprovado por unanimidade
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=96WWdF-Y2IA&t=21271s)
+- **RD 58 (2024-01-24)**, 4.4.4 · relator **Roger Cabral** · Recurso contra multa por TAH (renumerado; constou como 4.12) → aprovado por unanimidade
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=96WWdF-Y2IA&t=21506s)
+- **RD 58 (2024-01-24)**, 5.1.1 · relator **Guilherme Gomes** · Voto-vista: pedido de reconsideração contra nulidade ex officio de alvará de pesquisa por não pagamento de TAH (2012) → voto-vista (Caio Seabra) aprovado por maioria; Mauro Sousa diverge
+  - votos: Caio: revisor_acompanha; Guilherme: revisor_acompanha; Tasso: revisor_acompanha; Roger: revisor_acompanha; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=96WWdF-Y2IA&t=22262s)
+- **RD 59 (2024-02-23)**, 1.1.1 · relator **Mauro Sousa** · Resolução que atualiza pelo IPCA (4,62%) os valores de emolumentos, TAH, multas e demais serviços da ANM a partir de 1/3/2024 (não se confunde com a r → aprovado por unanimidade
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=Yel7b4hMP7Y&t=369s)
+- **RD 59 (2024-02-23)**, 1.2.1 · relator **Mauro Sousa** · Referendo de decisão ad referendum do Diretor-Geral que negou recursos sobre a lista de municípios afetados por estruturas de mineração (CFEM, ciclo 2 → pedido de vista (Caio Seabra); deliberação sobrestada
+  - votos: Mauro: relator; Guilherme: outro; Caio: vista; Tasso: outro; Roger: outro · [vídeo](https://www.youtube.com/watch?v=Yel7b4hMP7Y&t=854s)
+- **RD 59 (2024-02-23)**, 4.1.1-4.1.4 · relator **Roger Cabral** · Recursos contra cobrança de CFEM 1991–2004 (calcário e argila; cerca de R$ 2 milhões no primeiro): prescrição intercorrente, decadência, incidência de → aprovado por unanimidade (negado provimento)
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=Yel7b4hMP7Y&t=3889s)
+- **RD 59 (2024-02-23)**, 4.9.1 · relator **Roger Cabral** · Recurso contra multa por não pagamento de TAH (alegado caráter confiscatório) → aprovado por unanimidade (negado provimento)
+  - votos: Roger: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=62SVN9LlBoM&t=3950s)
+- **RD 59 (2024-02-23)**, 4.9.2 · relator **Roger Cabral** · Recurso contra multa por pagamento intempestivo de TAH → aprovado por unanimidade (negado provimento)
+  - votos: Roger: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=62SVN9LlBoM&t=4089s)
+- **RD 59 (2024-02-23)**, 5.1.1 · relator **Caio Seabra** · Novo pedido de reconsideração contra cobrança de TAH de 2002-2003 (alegada prescrição; ouro, MG) → aprovado por unanimidade (negado provimento)
+  - votos: Caio: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=62SVN9LlBoM&t=6061s)
+- **RD 60 (2024-03-27)**, 1.1.1 · relator **Mauro Sousa** · Proposta de resolução que normatiza a concessão de parcelamento de créditos da ANM antes da inscrição em dívida ativa (até 60 parcelas, Selic, termo d → aprovado por unanimidade
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=QfacqmQ-2WI&t=100s)
+- **RD 60 (2024-03-27)**, 2.2.1 · relator **Guilherme Gomes** · Minuta de resolução que regulamenta a Declaração de Informações Econômico-Fiscais da CFEM (DIEF-CFEM), revoga a Portaria 158/1999 e altera o art. 24 d → aprovado por unanimidade
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=QfacqmQ-2WI&t=713s)
+- **RD 60 (2024-03-27)**, 4.11.1-4.11.2 · relator **Roger Cabral** · Recursos contra cobrança de CFEM (bauxita, Juruti-PA; 2015–2016): dedução de frete, seguro e tributos; perícia negada → retirado de pauta pelo relator após sustentação oral
+  - votos: Roger: outro · [vídeo](https://www.youtube.com/watch?v=QfacqmQ-2WI&t=3461s)
+- **RD 60 (2024-03-27)**, 3.2 · relator **Tasso Mendonça** · Recurso contra cobrança de CFEM sobre sal-gema (Alagoas): fato gerador antes da eletrólise → aprovado por unanimidade (negado provimento)
+  - votos: Tasso: relator; Mauro: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=QfacqmQ-2WI&t=11486s)
+- **RD 60 (2024-03-27)**, 3.6.1 · relator **Tasso Mendonça** · Recurso contra multa por não pagamento da TAH (terceiro ano do alvará; Nova Monte Verde-MT) → aprovado por unanimidade (negado provimento)
+  - votos: Tasso: relator; Mauro: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=QfacqmQ-2WI&t=12741s)
+- **RD 60 (2024-03-27)**, 4.7 · relator **Roger Cabral** · Recurso contra notificações administrativas de TAH (ouro, Mariana-MG) → aprovado por unanimidade (negado provimento)
+  - votos: Roger: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=QfacqmQ-2WI&t=13825s)
+- **RD 60 (2024-03-27)**, 4.10 · relator **Roger Cabral** · Recurso contra multa por não pagamento de TAH → aprovado por unanimidade (negado provimento)
+  - votos: Roger: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=QfacqmQ-2WI&t=14121s)
+- **RD 60 (2024-03-27)**, 5.7.1 · relator **Caio Seabra** · Recurso intempestivo contra multa por não pagamento de TAH (minério de ferro, Guaraqueçaba-PR) → aprovado (não conhecido) por unanimidade
+  - votos: Caio: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=QfacqmQ-2WI&t=17554s)
+- **RD 60 (2024-03-27)**, 5.10.1 · relator **Caio Seabra** · Pedido de reconsideração contra nulidade ex officio de alvará de pesquisa por não pagamento de TAH: retificação do prazo do alvará para 2 anos → aprovado por unanimidade (provimento por autotutela)
+  - votos: Caio: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=QfacqmQ-2WI&t=17985s)
+- **RD 26ª Extraordinária (2024-04-15)**, 1 · relator **Mauro Sousa** · Confirmação (referendo) da decisão ad referendum do Diretor-Geral sobre recursos de municípios e lista de municípios afetados por estruturas de minera → voto-vista de Caio Seabra vencedor (4 a 1); decisão ad referendum tornada sem efeito; rela
+  - votos: Caio: revisor_diverge; Guilherme: revisor_acompanha; Tasso: revisor_acompanha; Roger: revisor_acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=YVwESJZD0sk&t=60s)
+- **RD 26ª Extraordinária (2024-04-15)**, 1-QO · relator **Mauro Sousa** · Questão de ordem: manutenção ou suspensão dos pagamentos de CFEM a municípios afetados (inclusive cerca de R$ 11 milhões retidos de limítrofes) durant → aprovada por unanimidade a manutenção de todos os pagamentos durante a revisão
+  - votos: Mauro: outro; Tasso: acompanha; Roger: acompanha; Guilherme: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=YVwESJZD0sk&t=4761s)
+- **RD 61ª Ordinária (2024-04-30)**, 1.1 · relator **Mauro Sousa** · Recurso contra multa por não pagamento da TAH → aprovado por unanimidade
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GN7qzOa9SPg&t=2886s)
+- **RD 61ª Ordinária (2024-04-30)**, 3.2.1 a 3.2.5 · relator **Tasso Mendonça** · Recursos contra cobrança de CFEM (recolhimento a menor, 2002–2003) → aprovado por unanimidade
+  - votos: Tasso: relator; Mauro: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GN7qzOa9SPg&t=7737s)
+- **RD 61ª Ordinária (2024-04-30)**, 3.2.8 · relator **Tasso Mendonça** · Recurso contra cobrança de CFEM de água mineral (1991–2000), após exclusão de ofício de períodos decaídos → aprovado por unanimidade
+  - votos: Tasso: relator; Mauro: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GN7qzOa9SPg&t=8857s)
+- **RD 61ª Ordinária (2024-04-30)**, 4.2.1 e 4.2.2 · relator **Roger Cabral** · Recursos contra cobrança de CFEM (depósitos judiciais sem vinculação; laudo pericial) → aprovado por unanimidade
+  - votos: Roger: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GN7qzOa9SPg&t=11420s)
+- **RD 61ª Ordinária (2024-04-30)**, 4.3.1 e 4.3.2 · relator **Roger Cabral** · Recursos contra multa por não pagamento da TAH → aprovado por unanimidade
+  - votos: Roger: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GN7qzOa9SPg&t=11639s)
+- **RD 61ª Ordinária (2024-04-30)**, 4.4.1 · relator **Roger Cabral** · Recurso contra cobrança de CFEM (2011–2017) → aprovado por unanimidade
+  - votos: Roger: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GN7qzOa9SPg&t=11933s)
+- **RD 61ª Ordinária (2024-04-30)**, 5.3.1 a 5.3.7 · relator **Caio Seabra** · Recursos contra multas: sirenes na ZAS de barragem; extrato de inspeção regular fora do prazo (SIGBM); TAH não paga (inclusive após renúncia e recuper → aprovado por unanimidade
+  - votos: Caio: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=GN7qzOa9SPg&t=14555s)
+- **RD 62ª Ordinária (2024-05-28)**, 1.1 · relator **Mauro Sousa** · Recurso contra multas por não pagamento da TAH → aprovado por unanimidade
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FMURCcvbgzk&t=1438s)
+- **RD 62ª Ordinária (2024-05-28)**, 3.7.1 e 3.7.2 · relator **Tasso Mendonça** · Recursos contra cobrança de CFEM (2004) → aprovado por unanimidade
+  - votos: Tasso: relator; Mauro: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FMURCcvbgzk&t=8177s)
+- **RD 62ª Ordinária (2024-05-28)**, 3.8.1 · relator **Tasso Mendonça** · Recurso contra multa por não pagamento da TAH → aprovado por unanimidade
+  - votos: Tasso: relator; Mauro: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FMURCcvbgzk&t=9058s)
+- **RD 62ª Ordinária (2024-05-28)**, 5.7.1 a 5.7.6 · relator **Caio Seabra** · Recursos contra multas por não pagamento da TAH → aprovado por unanimidade
+  - votos: Caio: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=FMURCcvbgzk&t=12385s)
+- **RD 63 (2024-07-08)**, 4.9.1 · relator **Roger Cabral** · Alteração da Resolução ANM 143/2023: cálculo da CFEM devida a municípios afetados por estruturas de mineração no ciclo maio/2024 a abril/2025 → aprovado por unanimidade, com inclusão do texto proposto por Tasso Mendonça
+  - votos: Roger: relator; Tasso: acompanha; Guilherme: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=8Fj3c7cQucw&t=3357s)
+- **RD 63 (2024-07-08)**, 1.2.1 · relator **Mauro Sousa** · Recurso contra multa por não pagamento de TAH → aprovado por unanimidade (negado provimento)
+  - votos: Mauro: relator; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=8Fj3c7cQucw&t=8760s)
+- **RD 63 (2024-07-08)**, 1.5.1 · relator **Mauro Sousa** · Recurso contra indeferimento de prorrogação de registro de licença (débito de CFEM em dívida ativa e licença municipal vencida) → deliberação sobrestada por pedido de vista de Tasso Mendonça
+  - votos: Mauro: relator; Tasso: vista; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=8Fj3c7cQucw&t=9156s)
+- **RD 63 (2024-07-08)**, 1.12.1 · relator **Mauro Sousa** · Recurso contra cobrança de CFEM 2012-2013 → aprovado por unanimidade (negado provimento)
+  - votos: Mauro: relator; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=8Fj3c7cQucw&t=9839s)
+- **RD 63 (2024-07-08)**, 2.2.1 · relator **Júlio Rodrigues** · Recurso contra cobrança de CFEM 2004-2012 sobre basalto (cerca de R$ 440 mil, valor da legenda) → aprovado por unanimidade o voto do relator original (negado provimento)
+  - votos: Guilherme: revisor_acompanha; Mauro: acompanha; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=8Fj3c7cQucw&t=17851s)
+- **RD 63 (2024-07-08)**, 2.10.1 · relator **Guilherme Gomes** · Pedido de reconsideração contra nulidade de alvará de pesquisa por não pagamento de TAH → aprovado por unanimidade (não conhecido)
+  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=8Fj3c7cQucw&t=22705s)
+- **RD 63 (2024-07-08)**, 3.7.1 · relator **Tasso Mendonça** · Recursos contra multas por atraso de TAH → aprovado por unanimidade (não conhecidos)
+  - votos: Mauro: acompanha; Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=8Fj3c7cQucw&t=25631s)
+- **RD 63 (2024-07-08)**, 4.1.1 · relator **Roger Cabral** · Recursos contra nulidade de alvará de pesquisa por não pagamento de TAH → aprovado por unanimidade (não conhecidos)
+  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=8Fj3c7cQucw&t=26495s)
+- **RD 63 (2024-07-08)**, 4.5.1 · relator **Roger Cabral** · Recurso contra multa por TAH paga em atraso → aprovado por unanimidade (negado provimento)
+  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=8Fj3c7cQucw&t=26862s)
+- **RD 64 (2024-07-31)**, 3.9.1 · relator **Tasso Mendonça** · Recurso contra cobrança de CFEM 2005 (manganês, Senador Modestino Gonçalves-MG) → aprovado por unanimidade (negado provimento)
+  - votos: Mauro: acompanha; Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=_IeZwId2D0w&t=13295s)
+- **RD 64 (2024-07-31)**, 5.10.1 · relator **Caio Seabra** · Pedido de reconsideração de decisão da Diretoria sobre nulidade de alvará de pesquisa por não pagamento de TAH → aprovado por maioria, vencido o Diretor-Geral
+  - votos: Mauro: vencido; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=_IeZwId2D0w&t=20941s)
+- **RD 65 (2024-08-26)**, 1.1.1 · relator **Mauro Sousa** · Recurso contra multa por não pagamento de TAH → aprovado por unanimidade (recurso não provido)
+  - votos: Mauro: relator; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=3325s)
+- **RD 65 (2024-08-26)**, 2.1.2-2.1.4 · relator **Guilherme Gomes** · Recursos contra multas e nulidade de alvarás de pesquisa por não pagamento de TAH (parcelamento alegado) → aprovado por unanimidade (não providos/intempestivos)
+  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=6725s)
+- **RD 65 (2024-08-26)**, 2.3.4-2.3.22 · relator **Guilherme Gomes** · Recursos contra multas por não pagamento de TAH (alegação de falta de intimação) → aprovados por unanimidade (multas mantidas)
+  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7029s)
+- **RD 65 (2024-08-26)**, 2.7.1-2.7.2 · relator **Guilherme Gomes** · Recursos contra notificações administrativas de TAH (processo 832.645/1995) → aprovado por unanimidade (não conhecidos, intempestivos)
+  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=8257s)
+- **RD 65 (2024-08-26)**, 4.3.1-4.3.2 · relator **Roger Cabral** · Pedidos de reconsideração contra nulidade ex officio de alvarás de pesquisa por não pagamento de TAH (intempestivos) → aprovados por unanimidade (não conhecidos)
+  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=12172s)
+- **RD 65 (2024-08-26)**, 4.4.1-4.4.2 · relator **Roger Cabral** · Recursos contra multas por não pagamento de TAH → aprovados por unanimidade (multas mantidas)
+  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=12728s)
+- **RD 65 (2024-08-26)**, 4.6.1 · relator **Roger Cabral** · Recurso contra cobrança de CFEM (base de cálculo contestada sem documentação) → aprovado por unanimidade (não provido; exclusão do Cadin indevido)
+  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=13093s)
+- **RD 65 (2024-08-26)**, 5.x-demais · relator **Caio Seabra** · Demais itens de Caio Seabra: bloqueio provisório e disponibilidade, nulidade de alvará por interferência, interferência total, registro de licença (No → aprovados por unanimidade (5.9.2 retirado de pauta)
+  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=14805s)
+- **RD 66 (2024-10-07)**, 2.4.7-2.4.9 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento de taxa anual por hectare no prazo (alegação de boleto indisponível no site na pandemia); sustenta → aprovado por unanimidade (recurso conhecido e não provido)
+  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=1247s)
+- **RD 66 (2024-10-07)**, 2.4.1-2.4.17 · relator **Guilherme Gomes** · Recursos contra multas por não pagamento de TAH; o 2.4.14 é multa de segurança de barragem (sirenes automatizadas, barragem Gregório, Mineração Corumb → aprovados por unanimidade (multas mantidas)
+  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22036s)
+- **RD 66 (2024-10-07)**, 2.5.1 · relator **Guilherme Gomes** · Pedido de reconsideração contra nulidade ex officio de alvará de pesquisa por não pagamento de TAH → aprovado por unanimidade (não conhecido, intempestivo)
+  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22648s)
+- **RD 66 (2024-10-07)**, 2.5.2 · relator **Guilherme Gomes** · Recurso contra nulidade de alvará de pesquisa (granito) por não pagamento da TAH do 3º ano, declarada após entrega do relatório final → aprovado por unanimidade (não conhece; mantém taxa e multa; anula de ofício a nulidade do 
+  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22830s)
+- **RD 66 (2024-10-07)**, 2.6.1-2.6.2 · relator **Guilherme Gomes** · Recursos contra nulidade de alvarás de pesquisa por não pagamento de TAH → aprovados por unanimidade (2.6.1 não provido; 2.6.2 não conhecido)
+  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=23658s)
+- **RD 66 (2024-10-07)**, 3.2.1 · relator **Tasso Mendonça** · Recurso contra multa por não pagamento da TAH (areia, Rio do Oeste/SC) → aprovado por unanimidade
+  - votos: Mauro: acompanha; Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=26961s)
+- **RD 66 (2024-10-07)**, 5.x-demais · relator **Caio Seabra** · Demais itens da relatoria de Caio Seabra: recursos da 8ª Rodada, não aprovação de RFP, prorrogação de alvará, GU de areia/argila (75 mil t areia, 45 m → aprovados por unanimidade (5.3.2 retirado de pauta)
+  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=32364s)
+- **RD 67ª Reunião Ordinária Pública (Parte 02) (2024-11-04)**, 2.6.9 · relator **Guilherme Gomes** · Recurso contra NFLD nº 59 (ANM/BA) — CFEM fev/2012 a mai/2016 (continuação da Parte 01, após queda da rede) → aprovado por unanimidade
+  - votos: Guilherme: relator; Mauro: acompanha; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EpUH2BErxWU&t=2257s)
+- **RD 67ª Reunião Ordinária Pública (Parte 01) (2024-11-04)**, 2.6.9 · relator **Guilherme Gomes** · Recurso contra manutenção da NFLD nº 59 (ANM/BA) — cobrança de CFEM de fev/2012 a mai/2016; alegações: dedução de tributos incidentes (ICMS, PIS/Cofin → não concluído neste vídeo (continua na Parte 02)
+  - votos: Guilherme: relator · [vídeo](https://www.youtube.com/watch?v=chQHqLzOYLM&t=4077s)
+- **RD 67ª Reunião Ordinária Pública (Parte 02) (2024-11-04)**, 2.6.11 · relator **Guilherme Gomes** · Recurso contra NFLD nº 4/2008 — CFEM de ouro e prata dez/1998 a fev/2006; sustentação da advogada Bárbara Monteiro de Souza (decadência de 5 anos, ded → aprovado por unanimidade
+  - votos: Guilherme: relator; Mauro: acompanha; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EpUH2BErxWU&t=5350s)
+- **RD 67ª Reunião Ordinária Pública (Parte 02) (2024-11-04)**, 2.6.6 · relator **Guilherme Gomes** · Recurso contra NFLD nº 351/2013 — CFEM jan–jun/2012 sobre consumo de níquel para ferro-níquel (momento da incidência: antes da calcinação vs. até a gr → sobrestado por pedido de vista de Mauro Sousa
+  - votos: Guilherme: relator; Mauro: vista; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EpUH2BErxWU&t=6029s)
+- **RD 67ª Reunião Ordinária Pública (Parte 02) (2024-11-04)**, 2.6.10 · relator **Guilherme Gomes** · Recurso contra NFLD nº 1344/2009 — CFEM dez/2004 a dez/2007 (granito e areia, SP) com base de cálculo arbitrada; pedido de diligência e dedução de ICM → sobrestado por pedido de vista de Tasso Mendonça
+  - votos: Guilherme: relator; Tasso: vista · [vídeo](https://www.youtube.com/watch?v=EpUH2BErxWU&t=6883s)
+- **RD 67ª Reunião Ordinária Pública (Parte 02) (2024-11-04)**, 2.6.13 · relator **Guilherme Gomes** · Recurso contra NFLD nº 154/2011 — CFEM de areia 2001; empresa alega pagamento em guias de outros dois processos (erro de recolhimento); sustentação da → aprovado por unanimidade
+  - votos: Guilherme: relator; Mauro: acompanha; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EpUH2BErxWU&t=7704s)
+- **RD 67ª Reunião Ordinária Pública (Parte 02) (2024-11-04)**, 2.6.2 a 2.6.5, 2.6.7, 2.6.8 e 2.6.12 · relator **Guilherme Gomes** · Recursos contra cobranças de CFEM sem sustentação oral (decadência, prescrição, base de cálculo) → aprovado por unanimidade
+  - votos: Guilherme: relator; Mauro: acompanha; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EpUH2BErxWU&t=19650s)
+- **RD 67ª Reunião Ordinária Pública (Parte 02) (2024-11-04)**, 2.8.1 (provável) · relator **Guilherme Gomes** · Recurso contra multa por não pagamento de TAH vencida em 31/01/2022 → aprovado por unanimidade
+  - votos: Guilherme: relator; Mauro: acompanha; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EpUH2BErxWU&t=19777s)
+- **RD 67ª Reunião Ordinária Pública (Parte 02) (2024-11-04)**, 2.10.1 (provável) · relator **Guilherme Gomes** · Defesa contra notificação administrativa 155/2021 por TAH vencida em 2018 → aprovado por unanimidade
+  - votos: Guilherme: relator; Mauro: acompanha; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EpUH2BErxWU&t=19848s)
+- **RD 67ª Reunião Ordinária Pública (Parte 02) (2024-11-04)**, 3.6.9 · relator **Tasso Mendonça** · Recurso contra cobrança de CFEM 2006 (calcário para cal virgem, Pains/MG): deduções de PIS/Cofins e incidência sobre consumo na calcinação → aprovado por unanimidade
+  - votos: Tasso: relator; Mauro: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EpUH2BErxWU&t=22901s)
+- **RD 67ª Reunião Ordinária Pública (Parte 02) (2024-11-04)**, 3.8.1 · relator **Tasso Mendonça** · Recurso contra nulidade ex officio de alvará de pesquisa (amazonita e cianita, Itiúba/BA) por TAH de 2013; recurso 10 anos depois; ARs enviados a ende → aprovado por maioria, vencido Mauro Sousa
+  - votos: Tasso: relator; Mauro: outro; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EpUH2BErxWU&t=23189s)
+- **RD 67ª Reunião Ordinária Pública (Parte 02) (2024-11-04)**, 4.9.1 · relator **Roger Cabral** · Recurso contra nulidade ex officio de alvará por TAH (Palmas de Monte Alto/BA) → aprovado por unanimidade
+  - votos: Roger: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EpUH2BErxWU&t=25138s)
+- **RD 67ª Reunião Ordinária Pública (Parte 02) (2024-11-04)**, 4.9.2 · relator **Roger Cabral** · Recurso contra nulidade ex officio de alvará por TAH (manganês, Jacobina/BA); parcelamento cancelado → aprovado por unanimidade
+  - votos: Roger: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EpUH2BErxWU&t=25301s)
+- **RD 67ª Reunião Ordinária Pública (Parte 02) (2024-11-04)**, 4.11.1 · relator **Roger Cabral** · Recurso contra multa por TAH (RS) → aprovado por unanimidade
+  - votos: Roger: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EpUH2BErxWU&t=25485s)
+- **RD 29ª Reunião Extraordinária Pública (2024-11-08)**, 5.11.1 e 5.11.2 · relator **Caio Seabra** · Pedidos de reconsideração contra nulidade ex officio de alvarás de pesquisa por não pagamento de TAH (apresentados 7 anos depois) → aprovado por unanimidade
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GVCVhAj980Y&t=7710s)
+- **RD 29ª Reunião Extraordinária Pública (2024-11-08)**, 5.11.3 · relator **Caio Seabra** · Reconsideração contra nulidade ex officio por não pagamento de TAH (alegado parcelamento) → aprovado por unanimidade
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GVCVhAj980Y&t=7777s)
+- **RD 29ª Reunião Extraordinária Pública (2024-11-08)**, 5.11.4 · relator **Caio Seabra** · Reconsideração contra nulidade ex officio por não pagamento de TAH (dificuldades financeiras, saúde) → aprovado por unanimidade
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GVCVhAj980Y&t=7830s)
+- **RD 29ª Reunião Extraordinária Pública (2024-11-08)**, 5.11.5 · relator **Caio Seabra** · Reconsideração contra nulidade ex officio por TAH (cooperativa alega não ter sido notificada) → aprovado por unanimidade
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GVCVhAj980Y&t=7893s)
+- **RD 29ª Reunião Extraordinária Pública (2024-11-08)**, 5.11.6 · relator **Caio Seabra** · Reconsideração contra nulidade ex officio por TAH paga 24 dias após a nulidade → aprovado por maioria, vencido Mauro Sousa
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=GVCVhAj980Y&t=7971s)
+- **RD 29ª Reunião Extraordinária Pública (2024-11-08)**, 5.18.1 · relator **Caio Seabra** · Recurso contra multa por pagamento intempestivo de TAH (granito, Floriano/PI) → aprovado por unanimidade
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GVCVhAj980Y&t=8356s)
+- **RD 68 (2024-12-02)**, 2.4.1–2.4.3 · relator **Guilherme Gomes** · Recursos contra nulidade de alvará de pesquisa por não pagamento de TAH → aprovado por unanimidade (2.4.1–2.4.2 não conhecidos, intempestivos; 2.4.3 negado)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=6764s)
+- **RD 68 (2024-12-02)**, 2.9.1 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento de TAH → aprovado por unanimidade (negado)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=9500s)
+- **RD 68 (2024-12-02)**, 4.1.1 · relator **Roger Cabral** · Reconsideração contra nulidade de alvará por não pagamento de TAH (parcelamento cancelado) → aprovado por unanimidade (negado)
+  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Guilherme: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=14700s)
+- **RD 68 (2024-12-02)**, 5.4.1–5.4.5 · relator **Caio Seabra** · Recursos contra cobrança de CFEM (deduções ICMS/PIS/Cofins; prescrição parcial já reconhecida pela SAR) → aprovado por unanimidade (negados)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=18182s)
+- **RD 31ª Reunião Extraordinária Pública (2024-12-06)**, extrapauta CFEM afetados · relator **Mauro Sousa** · Recursos em segunda instância contra a lista de municípios afetados por estruturas de mineração para repasse da CFEM (ciclo maio/2024–abril/2025; Reso → aprovado por unanimidade: provimento a Jucurutu e Maracás; provimento parcial a Piçarra; n
+  - votos: Mauro: relator; Roger: acompanha; Caio: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=oyWHiNXpYkE&t=1072s)
+- **RD 69 (2024-12-18)**, 1.1.1–1.1.4 · relator **Mauro Sousa** · Recursos em processos de cobrança de CFEM (não pagamento ou pagamento a menor) → aprovado por unanimidade dos presentes (negado provimento)
+  - votos: Mauro: relator; Caio: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=PPaw9lNsgZo&t=8575s)
+- **RD 69 (2024-12-18)**, 3.6.x PMX/FX Mineração · relator **Tasso Mendonça** · Recursos contra multas por deixar de prestar informações no RAL → aprovado por unanimidade dos presentes (provimento, multas anuladas)
+  - votos: Tasso: relator; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=PPaw9lNsgZo&t=11703s)
+- **RD 69 (2024-12-18)**, 5.5.1–5.5.2 · relator **Caio Seabra** · Pedidos de reconsideração contra declaração de nulidade ex officio de alvarás de pesquisa por não pagamento da TAH no prazo → aprovado por unanimidade dos presentes (negado provimento)
+  - votos: Caio: relator; Mauro: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=PPaw9lNsgZo&t=12749s)
+- **RD 69 (2024-12-18)**, 5.6.1 · relator **Caio Seabra** · Recurso contra cobrança de CFEM (mar/2009–dez/2017) → aprovado por unanimidade dos presentes (negado provimento)
+  - votos: Caio: relator; Mauro: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=PPaw9lNsgZo&t=12806s)
+- **RD 69 (2024-12-18)**, 5.6.2–5.6.6 · relator **Caio Seabra** · Recursos contra cobranças de CFEM (classificação NCM nas notas fiscais; pedido de perícia) → aprovado por unanimidade dos presentes (negado provimento)
+  - votos: Caio: relator; Mauro: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=PPaw9lNsgZo&t=12877s)
+- **RD 70 (2025-01-30)**, 1.5.1 · relator **Mauro Sousa** · Prorrogação de guia de utilização e ampliação de volume (GU 230/2020 já prorrogada pela GU 99/2021; Goiás) → deliberação sobrestada por pedido de vista de Caio Seabra
+  - votos: Mauro: relator; Tasso: acompanha; Roger: acompanha; Caio: vista · [vídeo](https://www.youtube.com/watch?v=hETIUYUx-48&t=1166s)
+- **RD 70 (2025-01-30)**, 4.1.3-4.1.4 · relator **Roger Cabral** · Recursos contra cobrança de CFEM (notificações de débito 173/2017 e 174/2017; bauxita; jan/2015 a dez/2016) → aprovado por unanimidade
+  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hETIUYUx-48&t=6282s)
+- **RD 70 (2025-01-30)**, 4.5.1 · relator **Roger Cabral** · Pedido de reconsideração contra nulidade ex officio de alvará de pesquisa (ouro, Aripuanã-MT) por não pagamento da TAH → aprovado por unanimidade
+  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hETIUYUx-48&t=6876s)
+- **RD 71 (2025-02-25)**, 2.1.1 · relator **Tasso Mendonça** · Atualização anual pelo IPCA (4,83%) dos valores da Resolução ANM 150/2024 (emolumentos, multas), com correção de multas de valor fixo não atualizadas  → aprovado por unanimidade
+  - votos: Tasso: relator; Roger: acompanha; Caio: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=2Aq6IIxfqu0&t=4159s)
+- **RD 71 (2025-02-25)**, 1.7.1-1.7.5 · relator **Mauro Sousa** · Recursos contra cobrança de CFEM apurada em fiscalização → aprovado por unanimidade
+  - votos: Mauro: relator; Roger: acompanha; Caio: acompanha; Luís: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=2Aq6IIxfqu0&t=6000s)
+- **RD 71 (2025-02-25)**, 2.11.1 · relator **Mauro Sousa** · Voto-vista em recurso contra indeferimento de prorrogação de registro de licença por débito de CFEM inscrito em dívida ativa (RS) → aprovado por unanimidade (voto original de Mauro Sousa)
+  - votos: Tasso: revisor_acompanha; Roger: acompanha; Caio: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=2Aq6IIxfqu0&t=16111s)
+- **RD 71 (2025-02-25)**, 4.3.1 · relator **Mauro Sousa** · Voto-vista de Caio Seabra: prorrogação com ampliação da GU 099/2021 de ouro (Niquelândia-GO); vista pedida na 70ª ROP (item 1.5.1) → voto-vista de Caio Seabra aprovado por maioria; vencidos Mauro Sousa e Luís Paniago
+  - votos: Caio: revisor_diverge; Tasso: acompanha; Roger: acompanha; Luís: vencido; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=2Aq6IIxfqu0&t=18839s)
+- **RD 71 (2025-02-25)**, 4.4.1-4.4.3 · relator **Caio Seabra** · Pedidos de reconsideração contra decisões colegiadas (65ª ROP: tornou sem efeito bloqueio minerário; 61ª ROP: multa por não pagamento de TAH; 68ª ROP: → aprovado por unanimidade
+  - votos: Caio: relator; Tasso: acompanha; Roger: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=2Aq6IIxfqu0&t=19854s)
+- **RD 71 (2025-02-25)**, 4.5.1 · relator **Caio Seabra** · Embargos de declaração contra decisão da 68ª ROP que negou recurso contra cobrança de CFEM → aprovado por unanimidade
+  - votos: Caio: relator; Tasso: acompanha; Roger: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=2Aq6IIxfqu0&t=20014s)
+- **RD 71 (2025-02-25)**, 4.7.1-4.7.2 · relator **Caio Seabra** · Recursos contra cobrança de CFEM de jan/1991 a dez/2007 (NFLD 009/2008) → aprovado por unanimidade
+  - votos: Caio: relator; Tasso: acompanha; Roger: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=2Aq6IIxfqu0&t=20140s)
+- **RD 71 (2025-02-25)**, 4.8.1-4.8.2 · relator **Caio Seabra** · Recursos contra multa por não pagamento de TAH (alegações de efeito confiscatório e de suspensão de prazos na pandemia) → aprovado por unanimidade
+  - votos: Caio: relator; Tasso: acompanha; Roger: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=2Aq6IIxfqu0&t=20448s)
+- **RD 72 (2025-03-26)**, 1.3.1 · relator **Mauro Sousa** · Recurso contra multa por pagamento intempestivo da TAH do primeiro ano do alvará (boleto indisponível no sistema, segundo a defesa) → aprovado por unanimidade
+  - votos: Mauro: relator; Roger: acompanha; Luís: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=DMEFirMUjdI&t=1944s)
+- **RD 72 (2025-03-26)**, 1.1.1 · relator **Mauro Sousa** · Primeira súmula da Diretoria Colegiada: decadência e prescrição dos créditos de CFEM (10 anos de decadência e 5 de prescrição para vencimentos a parti → aprovado por unanimidade
+  - votos: Mauro: relator; Roger: acompanha; Luís: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=DMEFirMUjdI&t=4603s)
+- **RD 72 (2025-03-26)**, 1.2.1-1.2.3 · relator **Mauro Sousa** · Recursos contra cobrança de CFEM apurada em fiscalização → aprovado por unanimidade
+  - votos: Mauro: relator; Roger: acompanha; Luís: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=DMEFirMUjdI&t=5352s)
+- **RD 72 (2025-03-26)**, 2.1.1 · relator **Tasso Mendonça** · Resolução que prorroga até 31/12/2025 o prazo do art. 4º da Resolução ANM 156/2024 para a Declaração de Informações Econômico-Fiscais da CFEM (DIEF-CF → aprovado por unanimidade
+  - votos: Tasso: relator; Roger: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=DMEFirMUjdI&t=13449s)
+- **RD 72 (2025-03-26)**, 2.2.1 · relator **Tasso Mendonça** · Recurso contra cobrança de CFEM (2001) sobre cal virgem/cal viva (calcário, Pains-MG): prescrição, base de cálculo, deduções de ICMS e compra de terce → aprovado por unanimidade
+  - votos: Tasso: relator; Roger: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=DMEFirMUjdI&t=13903s)
+- **RD 72 (2025-03-26)**, 2.4.1 · relator **Tasso Mendonça** · Recurso contra multa por pagamento atrasado da TAH (alvará de manganês, Canudos-BA); alega fracasso de parceria com investidor estrangeiro → aprovado por unanimidade
+  - votos: Tasso: relator; Roger: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=DMEFirMUjdI&t=14789s)
+- **RD 72 (2025-03-26)**, 2.4.2 · relator **Tasso Mendonça** · Recurso contra multa por não pagamento da TAH; alega multa 23 vezes maior que a taxa (efeito confiscatório) e falta de intimação → aprovado por unanimidade
+  - votos: Tasso: relator; Roger: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=DMEFirMUjdI&t=15036s)
+- **RD 72 (2025-03-26)**, 3.1.1 · relator **Roger Cabral** · Pedido de reconsideração contra nulidade ex officio de alvará de pesquisa (quartzo, Simonésia-MG) por não pagamento da TAH → aprovado por unanimidade
+  - votos: Roger: relator; Tasso: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=DMEFirMUjdI&t=16418s)
+- **RD 72 (2025-03-26)**, 3.3.1 · relator **Roger Cabral** · Recurso contra cobrança de CFEM de 1997 a 2007 (carvão, SC), revista por grupo de trabalho das carboníferas → aprovado por unanimidade
+  - votos: Roger: relator; Tasso: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=DMEFirMUjdI&t=16890s)
+- **RD 73 (2025-04-23)**, 1.1.1 · relator **Mauro Sousa** · Proposta de súmula: não há cerceamento de defesa no indeferimento fundamentado de prova pericial impertinente, desnecessária ou protelatória na consti → aprovado por unanimidade
+  - votos: Mauro: relator; Roger: acompanha; Caio: acompanha; Luís: acompanha; Tasso: outro · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=3795s)
+- **RD 73 (2025-04-23)**, 4.1.1 · relator **Caio Seabra** · Alteração normativa: prorrogar a metodologia do Anexo 5C da Res. ANM 143/2023 (distribuição de CFEM a municípios afetados por estruturas de mineração) → aprovado por unanimidade
+  - votos: Caio: relator; Tasso: acompanha; Roger: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=4351s)
+- **RD 73 (2025-04-23)**, 1.6.1 · relator **Guilherme Gomes** · Voto-vista em recurso contra cobrança de CFEM (NFLDP 351/2013, jan.–jun./2012); defesa alegava que a calcinação é transformação industrial e deslocari → aprovado por unanimidade (voto do relator original, acompanhado pelo voto-vista)
+  - votos: Mauro: revisor_acompanha; Roger: acompanha; Caio: acompanha; Luís: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=5661s)
+- **RD 73 (2025-04-23)**, 3.4.1 · relator **Roger Cabral** · Pedido de reconsideração contra nulidade ex officio de alvará de pesquisa (cobre, manganês e ouro; Itupiranga/PA) por não pagamento de TAH → aprovado por unanimidade
+  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=17947s)
+- **RD 73 (2025-04-23)**, 3.5.1 · relator **Roger Cabral** · Recurso contra cobrança de CFEM (GO; 1991–2007; R$ 1,15 milhão; calcário dolomítico x carbonato) → aprovado por unanimidade
+  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=18191s)
+- **RD 73 (2025-04-23)**, 4.3.1 · relator **Caio Seabra** · Recurso contra cobrança de CFEM (julgado em conjunto com 4.3.2) → aprovado por unanimidade
+  - votos: Caio: relator; Tasso: acompanha; Roger: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=19275s)
+- **RD 73 (2025-04-23)**, 4.3.2 · relator **Caio Seabra** · Recurso contra cobrança de CFEM (mesmo titular, período e argumentos do 4.3.1) → aprovado por unanimidade
+  - votos: Caio: relator; Tasso: acompanha; Roger: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=19275s)
+- **RD 73 (2025-04-23)**, 4.3.3 · relator **Caio Seabra** · Recurso contra cobrança de CFEM (fiscalização por RAL, sem vistoria in loco; período 2000) → aprovado por unanimidade
+  - votos: Caio: relator; Tasso: acompanha; Roger: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=19431s)
+- **RD 73 (2025-04-23)**, 4.3.4 · relator **Caio Seabra** · Recurso contra cobrança de CFEM (out./2009–dez./2017; ~R$ 7 milhões, valor incerto) → aprovado por maioria — vencido Mauro Sousa
+  - votos: Caio: relator; Tasso: acompanha; Roger: acompanha; Luís: acompanha; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=19614s)
+- **RD 73 (2025-04-23)**, 4.5.1 · relator **Caio Seabra** · Pedido de reconsideração contra nulidade ex officio de alvará por não pagamento de TAH (bloco de quatro; pauta repetia o número 4.5.3) → aprovado por unanimidade
+  - votos: Caio: relator; Tasso: acompanha; Roger: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=19831s)
+- **RD 73 (2025-04-23)**, 4.5.2 · relator **Caio Seabra** · Pedido de reconsideração contra nulidade ex officio de alvará por não pagamento de TAH (bloco de quatro; pauta repetia o número 4.5.3) → aprovado por unanimidade
+  - votos: Caio: relator; Tasso: acompanha; Roger: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=19831s)
+- **RD 73 (2025-04-23)**, 4.5.3 · relator **Caio Seabra** · Pedido de reconsideração contra nulidade ex officio de alvará por não pagamento de TAH (bloco de quatro; pauta repetia o número 4.5.3) → aprovado por unanimidade
+  - votos: Caio: relator; Tasso: acompanha; Roger: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=19831s)
+- **RD 73 (2025-04-23)**, 4.5.4 · relator **Caio Seabra** · Pedido de reconsideração contra nulidade ex officio de alvará por não pagamento de TAH (bloco de quatro; pauta repetia o número 4.5.3) → aprovado por unanimidade
+  - votos: Caio: relator; Tasso: acompanha; Roger: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=19831s)
+- **RD 73 (2025-04-23)**, 5.1.1 · relator **Luís Paniago** · Recurso contra cobrança de CFEM (ES; ago.–dez./2000) contra arrendatária antes da averbação do arrendamento → aprovado por unanimidade
+  - votos: Luís: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=21252s)
+- **RD 73 (2025-04-23)**, 5.9.1 · relator **Luís Paniago** · Pedido de reconsideração contra nulidade de alvará por TAH declarada após o vencimento do título → aprovado por unanimidade
+  - votos: Luís: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=23496s)
+- **RD 74 (2025-05-26)**, 5.1.1 · relator **Luís Paniago** · Proposta de súmula: legalidade da IN 06/2000 DG/DNPM para apuração de créditos de CFEM (fatos geradores até a MP 789/2017) → aprovado por unanimidade
+  - votos: Luís: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=v18z8zLNXFk&t=2057s)
+- **RD 74 (2025-05-26)**, 5.1.2 · relator **Luís Paniago** · Proposta de súmula: competência do então DNPM para fiscalizar, arrecadar e cobrar a CFEM → aprovado por unanimidade
+  - votos: Luís: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=v18z8zLNXFk&t=2057s)
+- **RD 74 (2025-05-26)**, 5.4.1 · relator **Luís Paniago** · Recurso contra NFLDP 104/2020 de CFEM (granito, Jundiaí/SP, período 2002–2009) → aprovado por unanimidade
+  - votos: Luís: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=v18z8zLNXFk&t=2811s)
+- **RD 74 (2025-05-26)**, 3.1.1 · relator **Roger Cabral** · Recurso contra cobrança de CFEM (NFLDP 1345/2009; período 12/2004–12/2007; Santa Isabel/SP); com sustentação oral (Dra. Eduarda) pedindo diligência so → aprovado por unanimidade dos presentes
+  - votos: Roger: relator; Mauro: acompanha; Caio: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=v18z8zLNXFk&t=6099s)
+- **RD 74 (2025-05-26)**, 1.1.1 · relator **Mauro Sousa** · Proposta de súmula: inexistência de prescrição intercorrente no procedimento de constituição de créditos de CFEM e TAH → aprovado por unanimidade dos presentes
+  - votos: Mauro: relator; Roger: acompanha; Caio: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=v18z8zLNXFk&t=7200s)
+- **RD 74 (2025-05-26)**, 3.3.1 · relator **Roger Cabral** · Pedido de reconsideração contra nulidade ex officio de alvará de pesquisa (cobre/níquel, Marabá/PA) por não pagamento de TAH → aprovado por unanimidade dos presentes
+  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=v18z8zLNXFk&t=21848s)
+- **RD 74 (2025-05-26)**, 4.4.1 · relator **Caio Seabra** · Recurso contra cobrança de CFEM sobre água mineral (Santa Isabel do Pará; 2006–2007; R$ 788 mil) → aprovado por unanimidade dos presentes
+  - votos: Caio: relator; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=v18z8zLNXFk&t=24354s)
+- **RD 74 (2025-05-26)**, 4.5.1 · relator **Caio Seabra** · Pedido de reconsideração contra nulidade ex officio de alvará por não pagamento de TAH (multa notificada a endereço insuficiente) → aprovado por maioria — vencido Mauro Sousa
+  - votos: Caio: relator; Tasso: acompanha; Roger: acompanha; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=v18z8zLNXFk&t=24568s)
+- **RD 74 (2025-05-26)**, 4.5.2 · relator **Caio Seabra** · Pedido de reconsideração contra nulidade de alvará por não pagamento de TAH (alegado parcelamento) → aprovado por unanimidade dos presentes
+  - votos: Caio: relator; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=v18z8zLNXFk&t=24708s)
+- **RD 74 (2025-05-26)**, 4.5.3 · relator **Caio Seabra** · Pedido de reconsideração contra nulidade de alvará por TAH, com multa e taxa pagas em 60 dias → aprovado por maioria — vencido Mauro Sousa
+  - votos: Caio: relator; Tasso: acompanha; Roger: acompanha; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=v18z8zLNXFk&t=24753s)
+- **RD 74 (2025-05-26)**, 4.5.4 · relator **Caio Seabra** · Pedido de reconsideração contra nulidade de alvará por TAH (alegação de processo aberto por terceirizado) → aprovado por unanimidade dos presentes
+  - votos: Caio: relator; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=v18z8zLNXFk&t=24844s)
+- **RD 32 (extraordinária) (2025-07-16)**, 3.1.1 · relator **Roger Cabral** · Proposta de súmula: acondicionamento ou embalagem de água mineral não é transformação industrial para base de cálculo da CFEM (mero beneficiamento) → aprovado por unanimidade
+  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=Ibgk84neu6g&t=9533s)
+- **RD 32 (extraordinária) (2025-07-16)**, 1.1.1 · relator **Mauro Sousa** · Proposta de súmula sobre responsabilidade de cedente e cessionário por débitos de CFEM anteriores à averbação da cessão → aprovado por unanimidade
+  - votos: Mauro: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=Ibgk84neu6g&t=9829s)
+- **RD 32 (extraordinária) (2025-07-16)**, 3.2.1 · relator **Tasso Mendonça** · Voto-vista de Roger sobre recurso contra CFEM de calcário consumido (Ijaci-MG); relator Tasso (voto TM 08/2021) → aprovado por unanimidade
+  - votos: Tasso: relator; Roger: revisor_acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=Ibgk84neu6g&t=22587s)
+- **RD 32 (extraordinária) (2025-07-16)**, 5.4.1 · relator **Luís Paniago** · Recurso contra nulidade ex officio de alvará de fosfato (Pedra Branca do Amapari-AP) por TAH → aprovado por unanimidade (voto lido pelo DG por ausência do relator)
+  - votos: Mauro: acompanha; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=Ibgk84neu6g&t=25795s)
+- **RD 32 (extraordinária) (2025-07-16)**, 5.4.2 · relator **Luís Paniago** · Recurso contra nulidade ex officio de alvará de granito (MG) por TAH vencida após entrega de RFP positivo → aprovado por unanimidade (voto lido pelo DG por ausência do relator)
+  - votos: Mauro: acompanha; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=Ibgk84neu6g&t=25960s)
+- **RD 32 (extraordinária) (2025-07-16)**, 5.6.1 · relator **Luís Paniago** · Recurso contra notificação de cobrança de TAH (cassiterita, Lábrea-AM, Flona do Iquiri; ≈ R$ 35 mil) → aprovado por unanimidade (voto lido pelo DG por ausência do relator)
+  - votos: Mauro: acompanha; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=Ibgk84neu6g&t=26523s)
+- **RD 32 (extraordinária) (2025-07-16)**, 5.7.1 · relator **Luís Paniago** · Recurso contra cobrança (leitura não aparece na transcrição) → aprovado por unanimidade (voto lido pelo DG por ausência do relator)
+  - votos: Mauro: acompanha; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=Ibgk84neu6g&t=26722s)
+- **RD 75 (2025-07-31)**, 1.3.1 · relator **Mauro Sousa** · Recurso contra multa por pagamento intempestivo da TAH do 1º ano do alvará → aprovado por unanimidade
+  - votos: Mauro: relator; Roger: acompanha; Caio: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=NRrkimmQohg&t=1039s)
+- **RD 75 (2025-07-31)**, 2.3.1-2.3.13 · relator **Tasso Mendonça** · Recursos contra multas por não pagamento da taxa anual por hectare (TAH): alegações de desconhecimento, COVID-19, revogação do art. 56 do regulamento  → aprovados por unanimidade (2.3.11 retirado de pauta pelo relator)
+  - votos: Tasso: relator; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=NRrkimmQohg&t=4829s)
+- **RD 75 (2025-07-31)**, 3.1.1 · relator **Roger Cabral** · Pedido de reconsideração contra declaração de nulidade ex officio do alvará 1069 por inadimplemento de TAH → deliberação sobrestada (pedido de vista)
+  - votos: Roger: relator; Tasso: vista; Caio: outro; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=NRrkimmQohg&t=7494s)
+- **RD 75 (2025-07-31)**, 3.4.1 · relator **Roger Cabral** · Recurso contra multa por não pagamento da TAH (água potável de mesa, Canápolis-MG) → aprovado por unanimidade
+  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=NRrkimmQohg&t=8244s)
+- **RD 75 (2025-07-31)**, 3.7.1 · relator **Roger Cabral** · Recurso contra nulidade ex officio de alvará por não pagamento da TAH (alegação de pandemia) → aprovado por unanimidade
+  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=NRrkimmQohg&t=8479s)
+- **RD 75 (2025-07-31)**, 4.4.1 · relator **Caio Seabra** · Recurso contra multa por não pagamento de TAH (pedido de conversão em advertência) → aprovado por unanimidade
+  - votos: Caio: relator; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=NRrkimmQohg&t=11173s)
+- **RD 75 (2025-07-31)**, 4.6.1 · relator **Caio Seabra** · Pedido de reconsideração contra nulidade ex officio de alvará por não pagamento da TAH → aprovado por unanimidade
+  - votos: Caio: relator; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=NRrkimmQohg&t=11280s)
+- **RD 76 (2025-08-22)**, 3.3.1-3.3.2 · relator **Roger Cabral** · Recursos contra cobrança de CFEM de calcário e folhelho (Corumbá-MS), 2007-2015 (≈ R$ 159 mil e R$ 349 mil, valores incertos); sustentação oral de Vit → aprovado por unanimidade
+  - votos: Roger: relator; Cláudio: outro; Tasso: acompanha; Mauro: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=-5vYB_XFzgY&t=3845s)
+- **RD 76 (2025-08-22)**, 5.2.1-5.2.2 · relator **Cláudio Freire** · Recursos contra cobrança de CFEM (mesmo objeto do 3.3.1-3.3.2), 2007-2015 (≈ R$ 2,6 mi e R$ 5,25 mi, valores incertos) → aprovado por unanimidade
+  - votos: Cláudio: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=-5vYB_XFzgY&t=4083s)
+- **RD 76 (2025-08-22)**, 3.3.3-3.3.4 · relator **Roger Cabral** · Recursos contra CFEM de minério de ferro (Itatiaiuçu-MG), 2012-2017; sustentação oral pede retirada para análise de documentação (frete/seguro vincula → retirado de pauta pelo relator
+  - votos: Roger: outro · [vídeo](https://www.youtube.com/watch?v=-5vYB_XFzgY&t=5063s)
+- **RD 76 (2025-08-22)**, 4.4.1 · relator **Caio Seabra** · Pedido de reconsideração contra decisão colegiada (voto 413/2024) que manteve nulidade ex officio de alvará de pesquisa de ouro por TAH; sustentação o → retirado de pauta após sustentação oral
+  - votos: Caio: outro · [vídeo](https://www.youtube.com/watch?v=-5vYB_XFzgY&t=5384s)
+- **RD 76 (2025-08-22)**, 1.4.1-1.4.3 · relator **Mauro Sousa** · Recursos contra multas por não pagamento da TAH (revogação do art. 56, COVID-19, boletos) → aprovado por unanimidade
+  - votos: Mauro: relator; Roger: acompanha; Caio: acompanha; Cláudio: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=-5vYB_XFzgY&t=10547s)
+- **RD 76 (2025-08-22)**, 4.5.1-4.5.4 · relator **Caio Seabra** · Pedidos de reconsideração contra nulidades ex officio de alvarás por não pagamento da TAH → aprovado por unanimidade
+  - votos: Caio: relator; Tasso: acompanha; Cláudio: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=-5vYB_XFzgY&t=11914s)
+- **RD 76 (2025-08-22)**, 2.2.1 · relator **Tasso Mendonça** · Recurso contra cobrança de CFEM: CFEM de quartzito (Mariana-MG), 2002-2003; responsabilidade solidária do arrendante → aprovado por unanimidade
+  - votos: Tasso: relator; Roger: acompanha; Cláudio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=-5vYB_XFzgY&t=18765s)
+- **RD 76 (2025-08-22)**, 2.2.2 · relator **Tasso Mendonça** · Recurso contra cobrança de CFEM: CFEM de água mineral (Igarapé-MG), 2002-2003; cessionária responsável; envase não é industrialização → aprovado por unanimidade
+  - votos: Tasso: relator; Roger: acompanha; Cláudio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=-5vYB_XFzgY&t=19154s)
+- **RD 76 (2025-08-22)**, 2.2.3 · relator **Tasso Mendonça** · Recurso contra cobrança de CFEM: CFEM de calcário consumido na produção de cimento (Campo Largo-PR), 2001 → aprovado por unanimidade
+  - votos: Tasso: relator; Roger: acompanha; Cláudio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=-5vYB_XFzgY&t=19624s)
+- **RD 76 (2025-08-22)**, 2.2.4 · relator **Tasso Mendonça** · Recurso contra cobrança de CFEM: CFEM de calcário, 2010-2017 (≈ R$ 1,52 mi, valor incerto); natureza de receita patrimonial → aprovado por unanimidade
+  - votos: Tasso: relator; Roger: acompanha; Cláudio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=-5vYB_XFzgY&t=20119s)
+- **RD 76 (2025-08-22)**, 2.2.5 · relator **Tasso Mendonça** · Recurso contra cobrança de CFEM: CFEM de água mineral, 2004; decadência de 10 anos → aprovado por unanimidade
+  - votos: Tasso: relator; Roger: acompanha; Cláudio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=-5vYB_XFzgY&t=20478s)
+- **RD 77 (2025-09-29)**, 3.3.1 a 3.3.7 · relator **Roger Cabral** · Recursos contra NFLDPs de CFEM 592 a 599/2014 (areia) → aprovado por unanimidade
+  - votos: Roger: relator; José: acompanha; Tasso: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=7EbKt320oyU&t=2441s)
+- **RD 77 (2025-09-29)**, 3.4.1 · relator **Roger Cabral** · Recurso contra notificação administrativa 77/2025 por não pagamento de TAH (diamante, Castanheira-RO) → aprovado por unanimidade
+  - votos: Roger: relator; José: acompanha; Tasso: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=7EbKt320oyU&t=2670s)
+- **RD 77 (2025-09-29)**, 3.6.1 · relator **Roger Cabral** · Recurso hierárquico contra cobrança de CFEM (NFLDP 294/2011, jan-dez/2001, cerca de R$ 998 mil segundo a legenda) → aprovado por unanimidade
+  - votos: Roger: relator; José: acompanha; Tasso: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=7EbKt320oyU&t=3030s)
+- **RD 77 (2025-09-29)**, 1.1.1 · relator **Mauro Sousa** · Proposta de súmula: incide CFEM sobre o consumo do bem mineral (art. 15, §1º do Decreto 1/1991) → aprovado por unanimidade
+  - votos: Mauro: relator; Roger: acompanha; Tasso: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=7EbKt320oyU&t=3347s)
+- **RD 77 (2025-09-29)**, 1.2.1 a 1.2.4 · relator **Mauro Sousa** · Recursos contra processos de cobrança de CFEM (carvão) → aprovado por unanimidade
+  - votos: Mauro: relator; Roger: acompanha; José: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=7EbKt320oyU&t=3697s)
+- **RD 77 (2025-09-29)**, 2.2.1 · relator **Tasso Mendonça** · Súmula: é legal a fiscalização e cobrança de CFEM a partir do confronto das guias de recolhimento com o Relatório Anual de Lavra (RAL) → aprovado por unanimidade
+  - votos: Tasso: relator; Mauro: acompanha; Roger: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=7EbKt320oyU&t=8760s)
+- **RD 77 (2025-09-29)**, 2.2.2 · relator **Tasso Mendonça** · Súmula: não são dedutíveis da base de cálculo da CFEM os custos de transporte incorridos antes da venda do bem mineral → aprovado por unanimidade
+  - votos: Tasso: relator; Roger: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=7EbKt320oyU&t=9224s)
+- **RD 77 (2025-09-29)**, 4.1.1 e 4.1.2 · relator **José Fernando Gomes** · Recursos contra multa por pagamento fora do prazo da TAH (alvarás 9531 e 9532/2021) → aprovado por unanimidade
+  - votos: José: relator; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=7EbKt320oyU&t=13603s)
+- **RD 77 (2025-09-29)**, 4.3.1 · relator **José Fernando Gomes** · Reconsideração contra nulidade ex officio do alvará de pesquisa 5890/2018 por não pagamento de TAH (parcelamento posterior) → sobrestado por pedido de vista de Tasso Mendonça (julgado na 78ª RP, item 2.2.1)
+  - votos: José: relator; Tasso: vista; Roger: outro; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=7EbKt320oyU&t=14160s)
+- **RD 77 (2025-09-29)**, 4.3.2 · relator **José Fernando Gomes** · Reconsideração contra voto GG 830/2024 que manteve nulidade ex officio do alvará de pesquisa 2053/2003 por não pagamento de TAH → aprovado por unanimidade
+  - votos: José: relator; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=7EbKt320oyU&t=14400s)
+- **RD 78 (2025-10-24)**, 1.3.6 · relator **Mauro Sousa** · Recurso contra processo de cobrança de CFEM (NFLDP 2010, período jan-dez/2001, minério de ferro); sustentação oral de Bernardo Souza Barbosa (nulidade → aprovado por unanimidade
+  - votos: Mauro: relator; Roger: acompanha; José: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=fjfNiebo4Ok&t=3597s)
+- **RD 78 (2025-10-24)**, 4.2.1 · relator **José Fernando Gomes** · Proposta de súmula: incidência de juros, multa e correção monetária sobre créditos de CFEM, ainda que em período anterior à MP 789/2017 (Lei 13.540/20 → aprovado por unanimidade
+  - votos: José: relator; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=fjfNiebo4Ok&t=9605s)
+- **RD 78 (2025-10-24)**, 1.3.7 · relator **Mauro Sousa** · Recurso contra cobrança de CFEM (período ago/2007-mai/2008) → aprovado por unanimidade
+  - votos: Mauro: relator; José: outro; Tasso: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=fjfNiebo4Ok&t=16260s)
+- **RD 78 (2025-10-24)**, 2.2.1 · relator **José Fernando Gomes** · Voto-vista de Tasso Mendonça sobre recurso contra nulidade ex officio de alvará de pesquisa por não pagamento de TAH (relator José Fernando Gomes) → aprovado por unanimidade (voto do relator José Fernando, acompanhado pelo voto-vista de Ta
+  - votos: José: relator; Tasso: revisor_acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=fjfNiebo4Ok&t=16912s)
+- **RD 78 (2025-10-24)**, 3.10.1 · relator **Roger Cabral** · Pedido de reconsideração contra decisão que manteve cobrança de CFEM (areia, Brasilândia-MS, 2002-2003) → aprovado por unanimidade
+  - votos: Roger: relator; Tasso: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=fjfNiebo4Ok&t=23850s)
+- **RD 34ª Reunião Extraordinária Pública (2025-11-19)**, 3.1.1 · relator **Roger Cabral** · Súmula administrativa: é legal a incidência da CFEM sobre a venda e o consumo de água mineral (texto ajustado pela PFE, excluída a água potável de mes → aprovado por unanimidade
+  - votos: Roger: relator; Tasso: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=D7uaOkpVFTI&t=2544s)
+- **RD 34ª Reunião Extraordinária Pública (2025-11-19)**, 2.5.1–2.5.4 · relator **Tasso Mendonça** · Recursos contra nulidade ex officio de alvarás de pesquisa por não pagamento da TAH (granito em Manoel Vitorino-BA; tufa em Linhares-ES) → aprovado por unanimidade
+  - votos: Tasso: relator; Roger: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=D7uaOkpVFTI&t=5135s)
+- **RD 34ª Reunião Extraordinária Pública (2025-11-19)**, 2.5.6 · relator **Tasso Mendonça** · Recurso contra nulidade ex officio de alvará de pesquisa (minério de cobre e ouro, Sapucaia/Xinguara-PA) por não pagamento de TAH → aprovado por unanimidade
+  - votos: Tasso: relator; Roger: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=D7uaOkpVFTI&t=5135s)
+- **RD 34ª Reunião Extraordinária Pública (2025-11-19)**, 2.5.7 · relator **Tasso Mendonça** · Recurso contra nulidade ex officio de alvará de pesquisa (São Félix do Xingu/PA?) por não pagamento de TAH; pagamento tardio → aprovado por unanimidade, com ajuste: recurso não conhecido por intempestividade
+  - votos: Tasso: relator; Roger: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=D7uaOkpVFTI&t=5135s)
+- **RD 34ª Reunião Extraordinária Pública (2025-11-19)**, 3.5.1 · relator **Roger Cabral** · Recursos de segunda instância sobre a lista de municípios afetados por estruturas de mineração para repasse da CFEM, ciclo maio/2025–abril/2026 → aprovado por maioria; Mauro Sousa vencido parcialmente
+  - votos: Roger: relator; Tasso: acompanha; José: acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=D7uaOkpVFTI&t=9952s)
+- **RD 79ª Reunião Ordinária Pública (2025-11-26)**, 1.5 · relator **Mauro Sousa** · Recursos contra cobrança de CFEM (jan/2010–jan/2017): pelotização como beneficiamento, base de cálculo, alocação de pagamentos e prescrição intercorre → aprovado por unanimidade
+  - votos: Mauro: relator; Roger: acompanha; Tasso: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=uTZCHK8PV6E&t=2071s)
+- **RD 79ª Reunião Ordinária Pública (2025-11-26)**, 1.6.1–1.6.3 · relator **Mauro Sousa** · Recursos contra cobrança de CFEM: venda COMIPA–CBMM, custos de dessulfuração e desfosforação, juros/multa, prova pericial, falta de parecer jurídico → aprovado por unanimidade
+  - votos: Mauro: relator; Roger: acompanha; Tasso: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=uTZCHK8PV6E&t=8752s)
+- **RD 79ª Reunião Ordinária Pública (2025-11-26)**, 2.4.1 · relator **Tasso Mendonça** · Recurso contra multa por não pagamento de TAH (primeiro ano do alvará) → aprovado por unanimidade
+  - votos: Tasso: relator; Roger: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=uTZCHK8PV6E&t=15081s)
+- **RD 79ª Reunião Ordinária Pública (2025-11-26)**, 2.5.1–2.5.8 · relator **Tasso Mendonça** · Recursos contra cobranças de CFEM (decadência, prescrição, prescrição intercorrente, deduções de ICMS/PIS/Cofins, frete, IPI, preço médio de argila, I → aprovado por unanimidade
+  - votos: Tasso: relator; Roger: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=uTZCHK8PV6E&t=15360s)
+- **RD 79ª Reunião Ordinária Pública (2025-11-26)**, 3.1.1–3.1.6 · relator **Roger Cabral** · Recursos contra notificações de TAH de alvarás renunciados no mesmo dia da publicação → aprovado por unanimidade
+  - votos: Roger: relator; Tasso: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=uTZCHK8PV6E&t=19120s)
+- **RD 79ª Reunião Ordinária Pública (2025-11-26)**, 3.6.1 · relator **Roger Cabral** · Pedido de reconsideração contra voto CS 403/2024 que não conheceu recurso intempestivo e manteve nulidade de alvará por falta de TAH; manifestação do  → aprovado por unanimidade
+  - votos: Roger: relator; Tasso: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=uTZCHK8PV6E&t=19960s)
+- **RD 79ª Reunião Ordinária Pública (2025-11-26)**, 3.7.1 · relator **Roger Cabral** · Pedido de reconsideração contra nulidade ex officio de alvará por falta de TAH (3º ano) → aprovado por unanimidade
+  - votos: Roger: relator; Tasso: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=uTZCHK8PV6E&t=20752s)
+- **RD 79ª Reunião Ordinária Pública (2025-11-26)**, 4.5.1 · relator **José Fernando Gomes** · Recurso contra nulidade ex officio de alvará por falta de TAH do primeiro ano (paga após a nulidade) → aprovado por unanimidade
+  - votos: José: relator; Roger: acompanha; Tasso: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=uTZCHK8PV6E&t=22950s)
+- **RD 79ª Reunião Ordinária Pública (2025-11-26)**, 4.6.1 · relator **José Fernando Gomes** · Recurso contra multa por não pagamento de TAH → aprovado por unanimidade
+  - votos: José: relator; Roger: acompanha; Tasso: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=uTZCHK8PV6E&t=23100s)
+- **RD 80ª Reunião Ordinária Pública (2025-12-17)**, 4.6.1 · relator **José Fernando Gomes** · Recurso contra cobrança de CFEM (minério de ferro, Mariana-MG, 2008–2009; valor atualizado ≈ R$ 117 milhões segundo a legenda), com sustentação oral d → aprovado por unanimidade
+  - votos: Mauro: acompanha; Luís: acompanha; José: relator; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=47nlOlfELSQ&t=1810s)
+- **RD 80ª Reunião Ordinária Pública (2025-12-17)**, 2.2.1 · relator **Luís Paniago** · Pedido de reconsideração contra nulidade ex officio de alvará de pesquisa por não pagamento de TAH → aprovado por unanimidade (negado provimento)
+  - votos: Luís: relator; Fábio: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=47nlOlfELSQ&t=5191s)
+- **RD 80ª Reunião Ordinária Pública (2025-12-17)**, 3.4.1 · relator **Fábio Borges** · Pedido de reconsideração contra cobrança de CFEM (NFLDP 180/2021, ≈ R$ 3,3 milhões segundo a legenda; bentonita) → aprovado por unanimidade (não conhecido)
+  - votos: Fábio: relator; Mauro: acompanha; Luís: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=47nlOlfELSQ&t=5433s)
+- **RD 80ª Reunião Ordinária Pública (2025-12-17)**, 4.6.2 · relator **José Fernando Gomes** · Recurso contra cobrança de CFEM (2016–2017) → aprovado por unanimidade (negado provimento, com abatimento)
+  - votos: José: relator; Fábio: acompanha; Mauro: acompanha; Luís: acompanha · [vídeo](https://www.youtube.com/watch?v=47nlOlfELSQ&t=7456s)
+- **RD 80ª Reunião Ordinária Pública (2025-12-17)**, 4.7.1 · relator **José Fernando Gomes** · Recurso contra notificação administrativa de cobrança de TAH (calcário, BA) → aprovado por unanimidade (negado provimento)
+  - votos: José: relator; Fábio: acompanha; Mauro: acompanha; Luís: acompanha · [vídeo](https://www.youtube.com/watch?v=47nlOlfELSQ&t=7456s)
+- **RD 81ª Reunião Ordinária Pública (2026-01-28)**, 2.3.9 · relator **Luís Paniago** · Recurso contra cobrança de CFEM (minério de ferro, Ouro Preto-MG, 2008–2009; ≈ R$ 118 milhões segundo a legenda), com sustentação oral do advogado And → aprovado por unanimidade (negado provimento)
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=HZSw38UR_ZE&t=1908s)
+- **RD 81ª Reunião Ordinária Pública (2026-01-28)**, 2.1.1 · relator **Carlos Cordeiro** · Voto-vista (vista de Tasso Mendonça de 2021) em recurso contra cobrança de CFEM (calcário, Matozinhos-MG, 2004); relator original Carlos Cordeiro (vot → aprovado por unanimidade (voto do relator original, negado provimento)
+  - votos: Luís: revisor_acompanha; Fábio: acompanha; Mauro: revisor_acompanha; Carlos: relator · [vídeo](https://www.youtube.com/watch?v=HZSw38UR_ZE&t=2910s)
+- **RD 81ª Reunião Ordinária Pública (2026-01-28)**, 2.3.1 · relator **Luís Paniago** · Recurso contra cobrança de CFEM (bauxita/alumina, Juruti-PA, 2014; NFLDP 5/2016), retornando após retirada na 80ª ROP; sustentação oral da advogada Vi → aprovado por unanimidade (negado provimento)
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=HZSw38UR_ZE&t=3399s)
+- **RD 81ª Reunião Ordinária Pública (2026-01-28)**, 2.3.6 · relator **Luís Paniago** · Recurso contra cobrança de CFEM (granito, 2004–2007; NFLDP 1332/2009), com sustentação oral da advogada Vitória → aprovado por unanimidade (negado provimento)
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=HZSw38UR_ZE&t=4095s)
+- **RD 81ª Reunião Ordinária Pública (2026-01-28)**, 2.3.8 · relator **Luís Paniago** · Recurso contra cobrança de CFEM (bauxita, PA, 2012–2015; ≈ R$ 10,9 milhões atualizados segundo a legenda), com sustentação oral da advogada Vitória → aprovado por unanimidade (negado provimento)
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=HZSw38UR_ZE&t=4669s)
+- **RD 81ª Reunião Ordinária Pública (2026-01-28)**, 3.5.3–3.5.4 · relator **Fábio Borges** · Recursos contra débitos de CFEM (basalto e diabásio; NFLDPs 267 e 268/2014), com sustentação oral da advogada Flávia Ricon → aprovado por unanimidade (parcial provimento em um; negado no outro, com ajuste de ofício)
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=HZSw38UR_ZE&t=5366s)
+- **RD 81ª Reunião Ordinária Pública (2026-01-28)**, 3.6.1 · relator **Fábio Borges** · Pedido de reconsideração contra indeferimento de parcelamento extraordinário (Refis) de CFEM e recurso contra cobrança, com sustentação oral da advoga → aprovado por unanimidade (negado provimento)
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=HZSw38UR_ZE&t=6311s)
+- **RD 81ª Reunião Ordinária Pública (2026-01-28)**, 1.3.1 · relator **Mauro Sousa** · Recurso contra notificação de TAH do 3º ano de alvará (PI) → aprovado por unanimidade (negado provimento)
+  - votos: Mauro: relator; Luís: acompanha; Fábio: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=HZSw38UR_ZE&t=7270s)
+- **RD 81ª Reunião Ordinária Pública (2026-01-28)**, 1.4.1 · relator **Mauro Sousa** · Recurso contra nulidade ex officio de 17 alvarás de pesquisa por não pagamento de TAH → aprovado por unanimidade (negado provimento)
+  - votos: Mauro: relator; Luís: acompanha; Fábio: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=HZSw38UR_ZE&t=7270s)
+- **RD 81ª Reunião Ordinária Pública (2026-01-28)**, 1.6.1–1.6.8 · relator **Mauro Sousa** · Recursos contra multas por não pagamento tempestivo de TAH → aprovado por unanimidade (negado provimento)
+  - votos: Mauro: relator; Luís: acompanha; Fábio: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=HZSw38UR_ZE&t=7270s)
+- **RD 81ª Reunião Ordinária Pública (2026-01-28)**, 1.7.1–1.7.2 · relator **Mauro Sousa** · Recursos contra cobrança de CFEM (carvão, SC) → aprovado por unanimidade (provimento parcial)
+  - votos: Mauro: relator; Luís: acompanha; Fábio: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=HZSw38UR_ZE&t=7270s)
+- **RD 81ª Reunião Ordinária Pública (2026-01-28)**, 2.3.2–2.3.5, 2.3.7 · relator **Luís Paniago** · Recursos contra cobranças de CFEM (calcário e carvão de SC) → aprovado por unanimidade (provimento parcial em 2.3.2, 2.3.4, 2.3.5 e 2.3.7; negado em 2.3
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=HZSw38UR_ZE&t=8593s)
+- **RD 81ª Reunião Ordinária Pública (2026-01-28)**, 2.4.1–2.4.3 · relator **Luís Paniago** · Recursos contra nulidade de alvarás de pesquisa por não pagamento de TAH → aprovado por unanimidade (negado provimento)
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=HZSw38UR_ZE&t=8593s)
+- **RD 81ª Reunião Ordinária Pública (2026-01-28)**, 2.5.1–2.5.2 · relator **Luís Paniago** · Recursos contra notificações de TAH → aprovado por unanimidade (não conhecido (2.5.1, intempestivo) e negado (2.5.2))
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=HZSw38UR_ZE&t=8593s)
+- **RD 81ª Reunião Ordinária Pública (2026-01-28)**, 3.2.1–3.2.2 · relator **Fábio Borges** · Recursos contra notificações de TAH de alvarás de pesquisa de lítio (MG) → aprovado por unanimidade (negado provimento)
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=HZSw38UR_ZE&t=9578s)
+- **RD 81ª Reunião Ordinária Pública (2026-01-28)**, 3.5.1–3.5.2 · relator **Fábio Borges** · Recursos contra débitos de CFEM → aprovado por unanimidade (negado (3.5.1); provimento parcial (3.5.2, dedução de PIS/Cofins
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=HZSw38UR_ZE&t=9578s)
+- **RD 81ª Reunião Ordinária Pública (2026-01-28)**, 3.8.1 · relator **Fábio Borges** · Embargos de declaração contra decisão da 72ª ROP sobre CFEM (carvão) → aprovado por unanimidade (rejeitados)
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=HZSw38UR_ZE&t=9578s)
+- **RD 81ª Reunião Ordinária Pública (2026-01-28)**, 4.3.1 · relator **José Fernando Gomes** · Recurso contra notificação de TAH do 3º ano de alvará de pesquisa de ouro (MG) → aprovado por unanimidade (negado provimento)
+  - votos: José: relator; Fábio: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=HZSw38UR_ZE&t=11548s)
+- **RD 82ª Reunião Ordinária Pública (2026-02-23)**, 3.5.1 · relator **Fábio Borges** · Recurso contra débito de CFEM (manganês, Parauapebas-PA, 2010–2016; ≈ R$ 24,7 milhões ajustados segundo a legenda), com sustentação oral do advogado A → aprovado por unanimidade (negado provimento)
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=XtihHWOssfU&t=2391s)
+- **RD 82ª Reunião Ordinária Pública (2026-02-23)**, 4.1.6 · relator **José Fernando Gomes** · Recurso contra cobrança de CFEM (cobre, ouro e prata, Marabá-PA, 2012–2015), com sustentação oral do advogado André → aprovado por unanimidade (negado provimento)
+  - votos: José: relator; Luís: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=XtihHWOssfU&t=3178s)
+- **RD 82ª Reunião Ordinária Pública (2026-02-23)**, 2.1.1 · relator **Luís Paniago** · Proposta de súmula administrativa: até a MP 789/2017, dedução de ICMS/PIS/Cofins não cumulativos na base da CFEM é o resultado do encontro de contas c → aprovado por unanimidade
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=XtihHWOssfU&t=4410s)
+- **RD 82ª Reunião Ordinária Pública (2026-02-23)**, 1.5.1–1.5.3 · relator **Mauro Sousa** · Recursos contra cobrança de CFEM dirigida à arrendante (Codemig) → aprovado por unanimidade (provimento; NFLDPs anuladas)
+  - votos: Mauro: relator; Luís: acompanha; Fábio: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=XtihHWOssfU&t=4638s)
+- **RD 82ª Reunião Ordinária Pública (2026-02-23)**, 2.5.1 · relator **Luís Paniago** · Recurso contra cobrança de CFEM (granito, Rio Largo-AL; NFLDP 28/2018) → aprovado por unanimidade (negado provimento)
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=XtihHWOssfU&t=6044s)
+- **RD 82ª Reunião Ordinária Pública (2026-02-23)**, 4.1.1–4.1.5 · relator **José Fernando Gomes** · Recursos contra cobranças de CFEM (água mineral e calcário) → aprovado por unanimidade (negado provimento)
+  - votos: José: relator; Luís: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=XtihHWOssfU&t=7798s)
+- **RD 83ª Reunião Ordinária Pública (2026-03-25)**, 2.1.1 · relator **Luís Paniago** · Referendo da decisão monocrática que editou a Resolução ANM 230/2026 (atualização de multas, TAH e emolumentos pelo IPCA de 4,26%) → referendada por unanimidade
+  - votos: Luís: relator; Fábio: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=iiNV2edIFTw&t=5889s)
+- **RD 83ª Reunião Ordinária Pública (2026-03-25)**, 3.1.1 · relator **Fábio Borges** · Alteração da Resolução ANM 143/2023 para prorrogar a metodologia do anexo 5C de distribuição da CFEM aos municípios afetados (ciclo maio/2026–abril/20 → aprovado por unanimidade
+  - votos: Fábio: relator; Luís: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=iiNV2edIFTw&t=6477s)
+- **RD 83ª Reunião Ordinária Pública (2026-03-25)**, 1.1.1 · relator **Mauro Sousa** · Recurso contra multa por não pagamento de TAH de alvará outorgado após pedido de mudança de regime → aprovado por unanimidade (provimento)
+  - votos: Mauro: relator; Luís: acompanha; Fábio: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=iiNV2edIFTw&t=7260s)
+- **RD 83ª Reunião Ordinária Pública (2026-03-25)**, 1.1.2–1.1.4 · relator **Mauro Sousa** · Recursos contra multas por não pagamento de TAH → aprovado por unanimidade (negado provimento)
+  - votos: Mauro: relator; Luís: acompanha; Fábio: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=iiNV2edIFTw&t=7260s)
+- **RD 83ª Reunião Ordinária Pública (2026-03-25)**, 1.3.1 · relator **Mauro Sousa** · Recurso contra cobrança de CFEM (agregados) → aprovado por unanimidade (provimento parcial)
+  - votos: Mauro: relator; Luís: acompanha; Fábio: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=iiNV2edIFTw&t=7260s)
+- **RD 83ª Reunião Ordinária Pública (2026-03-25)**, 1.4.1–1.4.2 · relator **Mauro Sousa** · Recursos contra notificações de TAH → aprovado por unanimidade (não conhecido (intempestivo))
+  - votos: Mauro: relator; Luís: acompanha; Fábio: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=iiNV2edIFTw&t=7260s)
+- **RD 83ª Reunião Ordinária Pública (2026-03-25)**, 2.6.1 · relator **Roger Cabral** · Voto-vista em recurso contra nulidade de alvará de pesquisa por não pagamento de TAH (MT); relator original Roger Cabral (RC 585/2025) → aprovado por unanimidade (voto do relator original, não conhecido)
+  - votos: Luís: revisor_acompanha; José: acompanha; Mauro: acompanha; Roger: relator · [vídeo](https://www.youtube.com/watch?v=iiNV2edIFTw&t=17042s)
+- **RD 83ª Reunião Ordinária Pública (2026-03-25)**, 2.8.1 · relator **Roger Cabral** · Voto-vista (vista de Tasso Mendonça, 2023) em recurso contra cobrança de CFEM (ouro, Santa Bárbara-MG, 1991–2006); relator original Roger Cabral (RC 2 → aprovado por unanimidade (voto do relator original, negado provimento)
+  - votos: Luís: revisor_acompanha; José: acompanha; Mauro: acompanha; Roger: relator · [vídeo](https://www.youtube.com/watch?v=iiNV2edIFTw&t=17929s)
+- **RD 83ª Reunião Ordinária Pública (2026-03-25)**, 2.8.2 · relator **Guilherme Gomes** · Voto-vista (vista de Tasso Mendonça) em recurso contra cobrança de CFEM de água mineral (Mogi das Cruzes-SP, 2004–2012; ≈ R$ 5,6 milhões após exclusão → aprovado por unanimidade (voto do relator original, negado provimento)
+  - votos: Luís: revisor_acompanha; Fábio: acompanha; Mauro: acompanha; Guilherme: relator · [vídeo](https://www.youtube.com/watch?v=iiNV2edIFTw&t=18252s)
+- **RD 83ª Reunião Ordinária Pública (2026-03-25)**, 2.9.1 · relator **Luís Paniago** · Recurso contra nulidade de alvará de pesquisa por não pagamento de TAH (PA) → aprovado por unanimidade (negado provimento)
+  - votos: Luís: relator; Fábio: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=iiNV2edIFTw&t=18603s)
+- **RD 83ª Reunião Ordinária Pública (2026-03-25)**, 3.4.1 · relator **Fábio Borges** · Recurso contra notificação de TAH (≈ R$ 2,2 mil) → aprovado por unanimidade (negado provimento)
+  - votos: Fábio: relator; Luís: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=iiNV2edIFTw&t=18896s)
+- **RD 83ª Reunião Ordinária Pública (2026-03-25)**, 3.13.1 · relator **Fábio Borges** · Recurso contra NFLDP de CFEM (granito, Cachoeiro de Itapemirim-ES, 1991–2002) → aprovado por unanimidade (provimento parcial)
+  - votos: Fábio: relator; Luís: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=iiNV2edIFTw&t=18896s)
+- **RD 84ª Reunião Ordinária Pública (2026-04-29)**, 2.5.2 · relator **Luís Paniago** · Recurso contra cobrança de CFEM (2001), minério de ferro, mina do Monge, Santa Bárbara (MG); sustentação oral (Dr. André Luiz Bintin, nome aproximado) → aprovado por unanimidade (provimento parcial)
+  - votos: Luís: relator; Fábio: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=z3tOX4s9Y_0&t=1186s)
+- **RD 84ª Reunião Ordinária Pública (2026-04-29)**, 2.5.3 · relator **Luís Paniago** · Recurso contra cobrança de CFEM (nov/2013 a out/2017), níquel (liga ferro-níquel), São Félix do Xingu (PA); sustentação oral (Dr. André) sobre ponto d → aprovado por unanimidade (negado provimento)
+  - votos: Luís: relator; Fábio: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=z3tOX4s9Y_0&t=1966s)
+- **RD 84ª Reunião Ordinária Pública (2026-04-29)**, 3.12.1 · relator **Fábio Borges** · Pedido de reconsideração (protocolado como embargos de declaração) sobre base de cálculo da CFEM de bauxita refratária/propante cerâmico, Poços de Cal → aprovado por maioria (provimento parcial); DG vencido parcialmente quanto ao alcance da ba
+  - votos: Fábio: relator; Luís: acompanha; José: acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=z3tOX4s9Y_0&t=2565s)
+- **RD 84ª Reunião Ordinária Pública (2026-04-29)**, 3.1.7 · relator **Fábio Borges** · Recurso contra cobrança de CFEM (jan a nov/2001), granito, Nova Venécia (ES), R$ 8.870,31; sustentação oral (Dr. Rodrigo) sobre dedução de PIS/COFINS  → aprovado por unanimidade (negado provimento)
+  - votos: Fábio: relator; Luís: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=z3tOX4s9Y_0&t=5853s)
+- **RD 84ª Reunião Ordinária Pública (2026-04-29)**, 3.1.2 e 3.1.3 · relator **Fábio Borges** · Recursos contra cobrança de CFEM (out/2012 a nov/2015), calcário para cimento, Pacatuba (SE), R$ 136.180,20 e R$ 76.081,52; sustentação oral (Dr. Rodr → pedido de vista do Diretor-Geral (deliberação sobrestada); Paniago e José Fernando antecip
+  - votos: Fábio: relator; Mauro: vista; Luís: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=z3tOX4s9Y_0&t=6470s)
+- **RD 84ª Reunião Ordinária Pública (2026-04-29)**, 1.1.1 · relator **Mauro Sousa** · Proposta de súmula administrativa: pelotização é beneficiamento, não transformação industrial; base de cálculo da CFEM na saída por venda → aprovado por unanimidade
+  - votos: Mauro: relator; Luís: acompanha; Fábio: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=z3tOX4s9Y_0&t=7509s)
+- **RD 84ª Reunião Ordinária Pública (2026-04-29)**, 1.4.1 a 1.4.3 · relator **Mauro Sousa** · Recursos contra multa por não pagamento tempestivo da TAH → aprovado por unanimidade (negado provimento)
+  - votos: Mauro: relator; Luís: acompanha; Fábio: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=z3tOX4s9Y_0&t=10132s)
+- **RD 84ª Reunião Ordinária Pública (2026-04-29)**, 1.5.1 a 1.5.3 · relator **Mauro Sousa** · Recursos contra nulidade de autorizações de pesquisa (2022) por não pagamento da TAH após multa → aprovado por unanimidade (negado provimento)
+  - votos: Mauro: relator; Luís: acompanha; Fábio: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=z3tOX4s9Y_0&t=10269s)
+- **RD 84ª Reunião Ordinária Pública (2026-04-29)**, 2.1.1 · relator **Carlos Cordeiro** · Voto-vista em recursos contra cobrança de CFEM; vista pedida por Tasso Mendonça em 28/04/2021 (27ª ROP), relator Carlos Cordeiro → aprovado por unanimidade (negado provimento)
+  - votos: Luís: revisor_acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=z3tOX4s9Y_0&t=17626s)
+- **RD 84ª Reunião Ordinária Pública (2026-04-29)**, 2.1.2 · relator **Guilherme Gomes** · Voto-vista em recurso contra cobrança de CFEM (2004–2007, aprox.), granito, Santa Isabel (SP); relator Guilherme Gomes (voto 906), vista de Tasso Mend → aprovado por unanimidade (provimento parcial nos termos do parecer 134/2023, conforme voto
+  - votos: Luís: revisor_acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=z3tOX4s9Y_0&t=18023s)
+- **RD 84ª Reunião Ordinária Pública (2026-04-29)**, 2.5.1 · relator **Luís Paniago** · Recurso contra cobrança de CFEM (2010 a set/2017), basalto, Santa Rosa (RS); tese de que consumo/transferência não é venda → aprovado por unanimidade (negado provimento)
+  - votos: Luís: relator; Fábio: outro; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=z3tOX4s9Y_0&t=18984s)
+- **RD 84ª Reunião Ordinária Pública (2026-04-29)**, 3.1.1 (bloco) · relator **Fábio Borges** · Recursos contra cobrança de CFEM (bloco de 6 processos; proclamados como itens 3.1.1 a 3.1.9 exceto 3.1.2, 3.1.3 e 3.1.7) → aprovado por unanimidade (negado provimento)
+  - votos: Fábio: relator; Luís: outro; José: outro; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=z3tOX4s9Y_0&t=19154s)
+- **RD 84ª Reunião Ordinária Pública (2026-04-29)**, 3.5.1 · relator **Fábio Borges** · Recurso contra notificação de cobrança da TAH do 3º ano (lítio, Fruta de Leite e Salinas, MG) → aprovado por unanimidade (negado provimento)
+  - votos: Fábio: relator; Luís: outro; José: outro; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=z3tOX4s9Y_0&t=20099s)
+- **RD 84ª Reunião Ordinária Pública (2026-04-29)**, 4.4.1 · relator **José Fernando Gomes** · Recursos contra cobrança de CFEM (2002–2003), argila → aprovado por unanimidade (negado provimento)
+  - votos: José: relator; Luís: outro; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=z3tOX4s9Y_0&t=22416s)
+- **RD 85ª Reunião Ordinária Pública (2026-05-27)**, 2.5.4 · relator **Luís Paniago** · Recurso contra cobrança de CFEM (fev/2006 a dez/2012), calcário, Ribeirão Grande (SP); com sustentação oral (Dra. Vitória) → aprovado por unanimidade (negado provimento)
+  - votos: Luís: relator; Fábio: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=cJ4QPb_jVZs&t=1460s)
+- **RD 85ª Reunião Ordinária Pública (2026-05-27)**, 2.5.1 · relator **Luís Paniago** · Recurso contra cobrança de CFEM (2001), manganês, Conselheiro Lafaiete (MG), débito de R$ 27.826,15; sustentação oral (Dr. Mateus Alves de Souza) → aprovado (provimento parcial); proclamação não captada com clareza na legenda
+  - votos: Luís: relator; Fábio: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=cJ4QPb_jVZs&t=2025s)
+- **RD 85ª Reunião Ordinária Pública (2026-05-27)**, 2.5.2 · relator **Luís Paniago** · Recurso contra cobrança de CFEM (2002–2003), minério de ferro, Santa Bárbara (MG); sustentação oral (Dr. Mateus) → aprovado por unanimidade (negado provimento)
+  - votos: Luís: relator; Fábio: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=cJ4QPb_jVZs&t=2730s)
+- **RD 85ª Reunião Ordinária Pública (2026-05-27)**, 2.5.3 · relator **Luís Paniago** · Recurso contra cobrança de CFEM (2002–2003), ouro, Paracatu (MG), NFLDP de cerca de R$ 7,3 milhões; sustentação oral (Dra. Paula Azevedo de Castro) → aprovado por unanimidade (provimento parcial)
+  - votos: Luís: relator; Fábio: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=cJ4QPb_jVZs&t=3592s)
+- **RD 85ª Reunião Ordinária Pública (2026-05-27)**, 3.1.5 · relator **Fábio Borges** · Recurso contra cobrança de CFEM (nov/2006 a nov/2012), basalto, Campo Grande (MS), valor histórico de R$ 424.053,07; sustentação oral (Dra. Vitória) → aprovado por unanimidade (negado provimento)
+  - votos: Fábio: relator; Luís: outro; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=cJ4QPb_jVZs&t=4117s)
+- **RD 85ª Reunião Ordinária Pública (2026-05-27)**, 3.1.1 e 3.1.2 · relator **Fábio Borges** · Recursos contra cobrança de CFEM (2005–2007), minério de ferro, Santa Bárbara e São Gonçalo do Rio Abaixo (MG); GTs Vale 2012 e 2018; sustentação oral → aprovado por unanimidade (negado provimento)
+  - votos: Fábio: relator; Luís: outro; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=cJ4QPb_jVZs&t=4660s)
+- **RD 85ª Reunião Ordinária Pública (2026-05-27)**, 4.1.3 · relator **José Fernando Gomes** · Recurso contra cobrança de CFEM (1991–2007), argila, Brasília (DF); sustentação oral (Dr. Geraldo Mascarenhas) alegando tratamento não isonômico frent → pedido de vista do Diretor-Geral (deliberação sobrestada; relator, Fábio e Paniago já vota
+  - votos: José: relator; Luís: acompanha; Fábio: acompanha; Mauro: vista · [vídeo](https://www.youtube.com/watch?v=cJ4QPb_jVZs&t=5760s)
+- **RD 85ª Reunião Ordinária Pública (2026-05-27)**, 4.1.2 · relator **José Fernando Gomes** · Recurso contra cobrança de CFEM (2010), caulim, Mazagão (AP); sustentação oral (Dra. Camila) sobre cancelamento da nota fiscal 865 → aprovado por unanimidade (negado provimento)
+  - votos: José: relator; Luís: outro; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=cJ4QPb_jVZs&t=7581s)
+- **RD 85ª Reunião Ordinária Pública (2026-05-27)**, 1.1.1 · relator **Mauro Sousa** · Proposta de súmula administrativa: distribuição da CFEM aos entes beneficiários pelo regime de caixa → aprovado por unanimidade
+  - votos: Mauro: relator; Luís: acompanha; Fábio: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=cJ4QPb_jVZs&t=8490s)
+- **RD 85ª Reunião Ordinária Pública (2026-05-27)**, 1.3.1 · relator **Fábio Borges** · Voto-vista do DG em recurso contra cobrança de CFEM (out/2012 a nov/2015), calcário, cimento → aprovado por unanimidade (negado provimento)
+  - votos: Fábio: relator; Mauro: revisor_acompanha; José: acompanha; Luís: acompanha · [vídeo](https://www.youtube.com/watch?v=cJ4QPb_jVZs&t=9904s)
+- **RD 85ª Reunião Ordinária Pública (2026-05-27)**, 3.1.3 e 3.1.4 · relator **Fábio Borges** · Recursos contra cobrança de CFEM → aprovado por unanimidade (negado provimento)
+  - votos: Fábio: relator; Luís: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=cJ4QPb_jVZs&t=15900s)
+- **RD 85ª Reunião Ordinária Pública (2026-05-27)**, 3.5.1 e 3.5.2 · relator **Fábio Borges** · Pedidos de reconsideração contra nulidade ex officio de alvarás de pesquisa por não pagamento da TAH (ferro e lítio em Feira Nova do Maranhão, MA, no  → aprovado por unanimidade (não conhecidos)
+  - votos: Fábio: relator; Luís: acompanha; José: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=cJ4QPb_jVZs&t=16656s)
+- **RD 85ª Reunião Ordinária Pública (2026-05-27)**, 4.1.1 · relator **José Fernando Gomes** · Recursos contra cobrança de CFEM (2001–2003), calcário → aprovado por unanimidade (negado provimento)
+  - votos: José: relator; Luís: outro; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=cJ4QPb_jVZs&t=17052s)
+- **RD 85ª Reunião Ordinária Pública (2026-05-27)**, 4.1.4 · relator **José Fernando Gomes** · Recurso contra cobrança de CFEM (2004–2012), areia → aprovado por unanimidade (negado provimento)
+  - votos: José: relator; Luís: outro; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=cJ4QPb_jVZs&t=17191s)
+- **RD 86 (2026-06-30)**, 2.2.4 · relator **Fábio Borges** · Recurso contra CFEM de minério de ferro (Carajás, Parauapebas-PA), jan/2016–jun/2017: deduções indevidas de transporte (Estrada de Ferro Carajás), seg → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=1-hle_rf12Y&t=695s)
+- **RD 86 (2026-06-30)**, 2.2.5 · relator **Fábio Borges** · Recurso contra CFEM de calcário (Cachoeiro de Itapemirim-ES), 2003, débito original ≈ R$ 322 mil; pagamentos de ≈ R$ 96,9 mil não considerados; susten → aprovado por unanimidade (provimento parcial)
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=1-hle_rf12Y&t=1699s)
+- **RD 86 (2026-06-30)**, 2.2.17 · relator **Fábio Borges** · Recurso da devedora subsidiária contra CFEM de calcário (Euclides da Cunha-BA), out/1998–dez/2005, ≈ R$ 938 mil atualizado; sustentação oral de Pedro  → sobrestado por pedido de vista do Diretor-Geral (Paniago e José Fernando anteciparam voto 
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: vista · [vídeo](https://www.youtube.com/watch?v=1-hle_rf12Y&t=2305s)
+- **RD 86 (2026-06-30)**, 2.2.12 · relator **Fábio Borges** · Recurso contra CFEM de bauxita (Juruti-PA), 2014: transferências para São Luís-MA, transporte aquaviário, ponto de incidência (digestão), ICMS proporc → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=1-hle_rf12Y&t=3239s)
+- **RD 86 (2026-06-30)**, 3.3.1 (Caldense) · relator **Luís Paniago** · Pedido de reconsideração contra decisão da 84ª ROP (voto GAB D2 177/2026) sobre CFEM de bauxita para propante cerâmico: base de cálculo antes da calci → sobrestado por pedido de vista do Diretor-Geral (José Fernando e Fábio Borges anteciparam 
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: vista · [vídeo](https://www.youtube.com/watch?v=1-hle_rf12Y&t=4076s)
+- **RD 86 (2026-06-30)**, 4.2.1 · relator **José Fernando Gomes** · Recursos contra três NFLDPs de CFEM sobre ferro e manganês (Corumbá e Ladário-MS), dez/2009–dez/2013: frete, tributos, pagamentos de 2016, doações/bon → aprovado por unanimidade
+  - votos: José: relator; Fábio: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=1-hle_rf12Y&t=5173s)
+- **RD 86 (2026-06-30)**, 4.2.2 · relator **José Fernando Gomes** · Recurso contra CFEM de bauxita (Paragominas e Barcarena-PA), 2012, revisada pelo GT Vale para ≈ R$ 1,22 milhão: glosa de frete Paragominas–Barcarena e → aprovado por unanimidade
+  - votos: José: relator; Luís: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=1-hle_rf12Y&t=6536s)
+- **RD 86 (2026-06-30)**, 3.3.2 (proclamado como 3.2.1) · relator **Luís Paniago** · Resolução que normatiza acesso, emissão e recolhimento de CFEM pela Plataforma de Gestão de Recursos Minerais (parceria Serpro), revogando a portaria  → aprovado por unanimidade
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=1-hle_rf12Y&t=8020s)
+- **RD 86 (2026-06-30)**, 1.1.1 · relator **José Fernando Gomes** · Voto-vista em recurso contra CFEM de argila (jan/1991–dez/2007) para cimento: alegada falta de isonomia no ponto de incidência (Ciplan até o forno x V → aprovado por maioria com voto de qualidade do Diretor-Geral: prevalece o voto-vista de Mau
+  - votos: José: relator; Mauro: revisor_acompanha; Luís: relator; Fábio: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=1-hle_rf12Y&t=14781s)
+- **RD 86 (2026-06-30)**, 1.6.1–1.6.2 · relator **Mauro Sousa** · Recursos contra multas por não pagamento tempestivo da TAH (área sobreposta a unidade de conservação; alvará supostamente suspenso) → aprovado por unanimidade
+  - votos: Mauro: relator; Luís: acompanha; Fábio: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=1-hle_rf12Y&t=18480s)
+- **RD 86 (2026-06-30)**, 2.2.1–2.2.18 (bloco) · relator **Fábio Borges** · Recursos contra NFLDPs de CFEM com teses repetidas (minério de terceiros, decadência, prescrição, deduções, IN 6/2000, base de cálculo) → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=1-hle_rf12Y&t=19196s)
+- **RD 87 (2026-07-29)**, 3.1.1 · relator **Luís Paniago** · Recurso contra NFLDP de CFEM sobre minério de ferro (mina de Carajás, Parauapebas-PA), jan–dez/2010; débito atualizado citado ≈ R$ 305 milhões; pedido → votado à unanimidade (nega provimento), mas deliberação reaberta por questão de ordem do D
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: vista · [vídeo](https://www.youtube.com/watch?v=WujJjvjzafI&t=969s)
+- **RD 87 (2026-07-29)**, 4.1.1 · relator **José Fernando Gomes** · Recurso contra NFLDP de CFEM sobre basalto em Jaú-SP, jan–dez/2001 (arbitramento com base no RAL e Anuário Mineral); sustentação oral de Eduarda Tupia → aprovado por unanimidade
+  - votos: José: relator; Luís: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=WujJjvjzafI&t=2105s)
+- **RD 87 (2026-07-29)**, 4.1.2 · relator **José Fernando Gomes** · Recurso contra NFLDP de CFEM sobre gnaisse em Taubaté-SP, jan/1991–dez/2000; ação judicial transitada em 2011; certidão de decadência parcial anulada  → aprovado por unanimidade
+  - votos: José: relator; Luís: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=WujJjvjzafI&t=3062s)
+- **RD 87 (2026-07-29)**, 1.2.1 · relator **Luís Paniago** · Voto-vista em pedido de reconsideração contra decisão da 84ª ROP sobre CFEM de bauxita usada na fabricação de propante cerâmico (ponto de incidência a → aprovado por unanimidade (voto do relator Luiz Paniago)
+  - votos: Luís: relator; Mauro: revisor_acompanha; José: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=WujJjvjzafI&t=13375s)
+- **RD 87 (2026-07-29)**, 1.5.1–1.5.6 · relator **Mauro Sousa** · Recursos contra caducidade/nulidade de alvarás de pesquisa por não pagamento da TAH após multas (art. 20 §3º II-b do Código de Mineração) → aprovado por unanimidade
+  - votos: Mauro: relator; Luís: acompanha; Fábio: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=WujJjvjzafI&t=15150s)
+- **RD 87 (2026-07-29)**, 2.4.1–2.4.2 · relator **Fábio Borges** · Recursos contra NFLDPs de CFEM sobre calcário (Unaí-MG, 2001, ≈ R$ 78 mil; Cabeceiras-GO, 2009–2015, ≈ R$ 76 mil) → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=WujJjvjzafI&t=15960s)
+- **RD 87 (2026-07-29)**, 2.4.3 · relator **Fábio Borges** · Recurso contra CFEM de água mineral (2010–2016; ≈ R$ 823 mil atualizado): envase como beneficiamento → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=WujJjvjzafI&t=16140s)
+- **RD 87 (2026-07-29)**, 2.4.4 · relator **Fábio Borges** · Recurso contra NFLDP de CFEM sobre dolomito (Colombo-PR), período remanescente mai/1999–dez/2000; mandado de segurança da FIEP sobre calcário calcinad → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=WujJjvjzafI&t=16290s)
+- **RD 87 (2026-07-29)**, 2.4.5–2.4.7 · relator **Fábio Borges** · Recursos contra NFLDPs de CFEM sobre caulim (Vitória do Jari e Laranjal do Jari-AP): 2011, 2012 e 2013–2016 (≈ R$ 2,35 mi; ≈ R$ 382 mil; ≈ R$ 1,47 mi) → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=WujJjvjzafI&t=16440s)
+- **RD 87 (2026-07-29)**, 2.4.8 · relator **Fábio Borges** · Recurso contra CFEM (jun/2007–dez/2015): inclusão de custos de transporte, manuseio e secagem até a industrialização em Abreu e Lima-PE; alegação de r → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=WujJjvjzafI&t=16680s)
+- **RD 87 (2026-07-29)**, 3.2.1 · relator **Luís Paniago** · Recurso contra notificação de cobrança de TAH (lítio, Berilo e Chapada do Norte-MG) → aprovado por unanimidade
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=WujJjvjzafI&t=17076s)
+- **RD 88 (2026-08-19)**, 2.1.1 · relator **Fábio Borges** · Recurso contra notificação fiscal 184/2016 de CFEM (calcário e argila no consumo para cimento, 2009; R$ 2.154.070,35 atualizado), com sustentação oral → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=2746s)
+- **RD 88 (2026-08-19)**, 4.2.1 · relator **José Fernando Gomes** · Recurso contra notificações 1548 e 1549/2015 de CFEM (calcário, Arcos e Pains-MG, 2006–2014), com sustentação oral da advogada Paula Azevedo de Castro → aprovado por unanimidade
+  - votos: José: relator; Luís: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=5019s)
+- **RD 88 (2026-08-19)**, 4.1.1 · relator **José Fernando Gomes** · Edição de súmula: é inadmissível recurso administrativo interposto após o prazo fixado no edital ou ato equivalente do processo anual de apuração da l → aprovado por unanimidade
+  - votos: José: relator; Luís: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=7213s)
+- **RD 88 (2026-08-19)**, 1.6.1 · relator **Mauro Sousa** · Recurso contra cobrança de CFEM (2001–2003), com discussão judicial paralela → aprovado por unanimidade
+  - votos: Mauro: relator; Luís: acompanha; Fábio: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=9072s)
+- **RD 88 (2026-08-19)**, 1.6.2 · relator **Mauro Sousa** · Recurso contra cobrança de CFEM (2001–2003), com discussão judicial paralela → aprovado por unanimidade
+  - votos: Mauro: relator; Luís: acompanha; Fábio: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=9072s)
+- **RD 88 (2026-08-19)**, 1.6.3 · relator **Mauro Sousa** · Recurso contra cobrança de CFEM (2001–2003), com discussão judicial paralela → aprovado por unanimidade
+  - votos: Mauro: relator; Luís: acompanha; Fábio: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=9072s)
+- **RD 88 (2026-08-19)**, 1.6.4 · relator **Mauro Sousa** · Recurso contra cobrança de CFEM (2001–2003), com discussão judicial paralela → aprovado por unanimidade
+  - votos: Mauro: relator; Luís: acompanha; Fábio: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=9072s)
+- **RD 88 (2026-08-19)**, 1.6.5 · relator **Mauro Sousa** · Recurso contra cobrança de CFEM (2001–2003), com discussão judicial paralela → aprovado por unanimidade
+  - votos: Mauro: relator; Luís: acompanha; Fábio: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=9072s)
+- **RD 88 (2026-08-19)**, 2.1.2 · relator **Fábio Borges** · Recurso contra notificação 503/2014 de CFEM (bauxita, Mariana-MG, 2004) e efeito suspensivo → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=15787s)
+- **RD 88 (2026-08-19)**, 2.1.3 · relator **Fábio Borges** · Recurso contra notificação 504/2014 de CFEM (bauxita, Mariana-MG, 2004) e efeito suspensivo → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=15787s)
+- **RD 88 (2026-08-19)**, 2.1.4 · relator **Fábio Borges** · Recurso contra cobrança de CFEM (depósitos judiciais, decadência, IN 6/2000) → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=15900s)
+- **RD 88 (2026-08-19)**, 2.1.5 · relator **Fábio Borges** · Recurso contra cobrança de CFEM (depósitos judiciais, decadência, IN 6/2000) → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=15900s)
+- **RD 88 (2026-08-19)**, 2.1.6 · relator **Fábio Borges** · Recurso contra cobrança de CFEM (depósitos judiciais, decadência, IN 6/2000) → aprovado por unanimidade (provimento parcial)
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=15900s)
+- **RD 88 (2026-08-19)**, 2.1.7 · relator **Fábio Borges** · Recurso contra cobrança de CFEM (depósitos judiciais, decadência, IN 6/2000) → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=15900s)
+- **RD 88 (2026-08-19)**, 2.1.8 · relator **Fábio Borges** · Recurso contra cobrança de CFEM (depósitos judiciais, decadência, IN 6/2000) → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=15900s)
+- **RD 88 (2026-08-19)**, 2.1.9 · relator **Fábio Borges** · Recurso contra cobrança de CFEM (depósitos judiciais, decadência, IN 6/2000) → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=15900s)
+- **RD 88 (2026-08-19)**, 2.1.10 · relator **Fábio Borges** · Recurso contra notificação 259 de CFEM (calcário, Cuiabá-MT, 2008–2012) → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=16119s)
+- **RD 88 (2026-08-19)**, 2.1.11 · relator **Fábio Borges** · Recurso contra notificação 24/2009 de CFEM (1991–2008) → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=16274s)
+- **RD 88 (2026-08-19)**, 2.1.12 · relator **Fábio Borges** · Recurso contra cobrança de CFEM (fiscalização por RAL, arbitramento, encargos) → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=16495s)
+- **RD 88 (2026-08-19)**, 2.1.13 · relator **Fábio Borges** · Recurso contra cobrança de CFEM (fiscalização por RAL, arbitramento, encargos) → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=16495s)
+- **RD 88 (2026-08-19)**, 2.1.14 · relator **Fábio Borges** · Recurso contra notificação 12/2010 de CFEM (2005–2007), incluindo pelotização → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=16596s)
+- **RD 88 (2026-08-19)**, 2.1.15 · relator **Fábio Borges** · Recurso contra cobrança de CFEM (legitimidade passiva da cessionária) → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=16751s)
+- **RD 88 (2026-08-19)**, 2.1.16 · relator **Fábio Borges** · Recurso contra cobrança de CFEM (legitimidade passiva da cessionária) → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=16751s)
+- **RD 88 (2026-08-19)**, 2.2.1 · relator **Fábio Borges** · Pedido de reconsideração contra voto GAB D1 249/2026 (notificação 557/2009, CFEM 1992–2000) → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=16866s)
+- **RD 88 (2026-08-19)**, 2.5.1 · relator **Fábio Borges** · Pedido de reconsideração contra nulidade ex officio de alvará de pesquisa por falta de TAH → aprovado por unanimidade (não conhecimento)
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=17240s)
+- **RD 88 (2026-08-19)**, 4.2.2 · relator **José Fernando Gomes** · Recurso contra notificação 9291 de CFEM (areia, Itapira-SP, 2002–2003) → aprovado por unanimidade
+  - votos: José: relator; Fábio: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=19154s)
+- **RD 88 (2026-08-19)**, 4.2.3 · relator **José Fernando Gomes** · Recurso contra notificação 9 de CFEM (água mineral, Maceió-AL, 2011–2017) → aprovado por unanimidade
+  - votos: José: relator; Fábio: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hTNOHwVJjN0&t=19347s)
+- **RD 89 (2026-09-30)**, 3.1.3 · relator **Luís Paniago** · Recurso contra cobrança de CFEM (calcário e argila, jan/2010–dez/2013), com sustentação oral da advogada Vitória (sobrenome não captado) → aprovado por unanimidade
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=949s)
+- **RD 89 (2026-09-30)**, 4.4.3 · relator **José Fernando Gomes** · Recurso contra NFLDP 165/2020 de CFEM (sal-gema, Vera Cruz-BA, ago/2010–jun/2017), com sustentação oral do advogado Sávio Jorge Costa Obeid (grafia in → deliberação suspensa por pedido de vista de Fábio Borges
+  - votos: José: relator; Fábio: vista · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=1940s)
+- **RD 89 (2026-09-30)**, 4.4.4 · relator **José Fernando Gomes** · Recursos contra NFLDP de CFEM (jun/2012–jul/2017; inclui esmeralda), com sustentação oral da advogada Ana Maria Gonçalves Magalhães → aprovado por unanimidade
+  - votos: José: relator; Luís: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=4672s)
+- **RD 89 (2026-09-30)**, 1.1.1 · relator **Mauro Sousa** · Edição de súmula administrativa: para fatos geradores anteriores à Lei 13.540/2017, o critério válido do ponto de incidência/base de cálculo da CFEM é → aprovado por unanimidade
+  - votos: Mauro: relator; José: acompanha; Luís: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=6334s)
+- **RD 89 (2026-09-30)**, 1.12.1 · relator **Mauro Sousa** · Recurso contra cobrança de CFEM → aprovado por unanimidade
+  - votos: Mauro: relator; José: acompanha; Luís: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=9117s)
+- **RD 89 (2026-09-30)**, 1.12.2 · relator **Mauro Sousa** · Recurso contra cobrança de CFEM → aprovado por unanimidade
+  - votos: Mauro: relator; José: acompanha; Luís: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=9117s)
+- **RD 89 (2026-09-30)**, 1.12.3 · relator **Mauro Sousa** · Recurso contra cobrança de CFEM → aprovado por unanimidade
+  - votos: Mauro: relator; José: acompanha; Luís: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=9117s)
+- **RD 89 (2026-09-30)**, 1.12.4 · relator **Mauro Sousa** · Recurso contra cobrança de CFEM → aprovado por unanimidade
+  - votos: Mauro: relator; José: acompanha; Luís: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=9117s)
+- **RD 89 (2026-09-30)**, 2.6.1 · relator **Fábio Borges** · Recurso contra NFLDP 21/2019 de CFEM (BA, 2012–2017) → aprovado por unanimidade (provimento parcial)
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=16656s)
+- **RD 89 (2026-09-30)**, 2.7.1 · relator **Fábio Borges** · Recurso contra cobrança de TAH do 1º ano (R$ 6.913,20) → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=16795s)
+- **RD 89 (2026-09-30)**, 2.7.2 · relator **Fábio Borges** · Recurso contra cobrança de TAH (R$ 11.115,12) → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=16795s)
+- **RD 89 (2026-09-30)**, 3.1.1 · relator **Luís Paniago** · Recurso contra cobrança de CFEM (bentonita, Boa Vista-PB) → aprovado por unanimidade
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=17367s)
+- **RD 89 (2026-09-30)**, 3.1.2 · relator **Luís Paniago** · Recurso contra cobrança de CFEM (granito, Palmas-TO, 2004–2005) → aprovado por unanimidade
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=17514s)
+- **RD 89 (2026-09-30)**, 3.1.4 · relator **Luís Paniago** · Recurso contra cobrança de CFEM (calcário, Miranda-MS, 1991–2008); decisão judicial parcial não transitada → aprovado por unanimidade
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=17639s)
+- **RD 89 (2026-09-30)**, 3.1.5 · relator **Luís Paniago** · Recurso contra cobrança de CFEM (água mineral, Itu-SP, 2004–2012) e pedido de efeito suspensivo → aprovado por unanimidade
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=17908s)
+- **RD 89 (2026-09-30)**, 3.1.6 · relator **Luís Paniago** · Recurso contra cobrança de CFEM (água mineral, Itu-SP, 1991–2000) e efeito suspensivo → aprovado por unanimidade
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=18039s)
+- **RD 89 (2026-09-30)**, 3.1.7 · relator **Luís Paniago** · Recursos contra cobrança de CFEM de cobre e efeito suspensivo → aprovado por unanimidade
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=18245s)
+- **RD 89 (2026-09-30)**, 3.1.8 · relator **Luís Paniago** · Recurso contra cobrança de CFEM (areia, Santa Leopoldina-ES) → aprovado por unanimidade (provimento parcial)
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=18383s)
+- **RD 89 (2026-09-30)**, 3.2.1 · relator **Luís Paniago** · Recurso contra notificação de TAH do 3º ano (R$ 62.266,9; manganês, Buritis-RO) → aprovado por unanimidade
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=18531s)
+- **RD 89 (2026-09-30)**, 4.3.1 · relator **José Fernando Gomes** · Recurso contra NFLDP de CFEM (calcário, MG, 2002–2003) → aprovado por unanimidade
+  - votos: José: relator; Luís: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=21129s)
+- **RD 89 (2026-09-30)**, 4.4.1 · relator **José Fernando Gomes** · Recurso contra NFLDP 3279/2011 de CFEM (gnaisse, Medeiros Neto-BA, 2002–2003) → aprovado por unanimidade (provimento parcial)
+  - votos: José: relator; Luís: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=hZP6lChllO8&t=21332s)
+- **RD 90 (2026-11-04)**, 2.10.9 · relator **Fábio Borges** · Recurso contra cobrança de CFEM jan/2010–dez/2012 (apatita; notificação fiscal 219/2013), com sustentação oral do advogado André Luiz Bittencourt (nom → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=1141s)
+- **RD 90 (2026-11-04)**, 2.10.10 · relator **Fábio Borges** · Recurso contra cobrança de CFEM jan/2010–dez/2012 (carbonatito; notificação fiscal 208/2013), com sustentação oral do advogado André Luiz Bittencourt  → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=1141s)
+- **RD 90 (2026-11-04)**, 2.10.11 · relator **Fábio Borges** · Recurso contra cobrança de CFEM jan/2010–dez/2012 (calcita; notificação fiscal 288/2013 (R$ 642.455,06 atualizado a dez/2013)), com sustentação oral d → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=1141s)
+- **RD 90 (2026-11-04)**, 1.1.1 · relator **Fábio Borges** · Voto-vista: recurso contra cobrança de CFEM (iniciado na 86ª RO; sustentação oral trouxe elementos novos) → aprovado por unanimidade (voto do revisor, convergente com o relator)
+  - votos: Mauro: revisor_acompanha; José: revisor_acompanha; Luís: acompanha; Fábio: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=2296s)
+- **RD 90 (2026-11-04)**, 1.10.1 · relator **Mauro Sousa** · Recurso contra notificação administrativa de cobrança de TAH → aprovado por unanimidade
+  - votos: Mauro: relator; José: acompanha; Luís: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=3913s)
+- **RD 90 (2026-11-04)**, 1.10.2 · relator **Mauro Sousa** · Recurso contra notificação administrativa de cobrança de TAH → aprovado por unanimidade
+  - votos: Mauro: relator; José: acompanha; Luís: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=3913s)
+- **RD 90 (2026-11-04)**, 1.10.3 · relator **Mauro Sousa** · Recurso contra notificação administrativa de cobrança de TAH → aprovado por unanimidade
+  - votos: Mauro: relator; José: acompanha; Luís: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=3913s)
+- **RD 90 (2026-11-04)**, 1.10.4 · relator **Mauro Sousa** · Recurso contra notificação administrativa de cobrança de TAH → aprovado por unanimidade
+  - votos: Mauro: relator; José: acompanha; Luís: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=3913s)
+- **RD 90 (2026-11-04)**, 1.10.5 · relator **Mauro Sousa** · Recurso contra notificação administrativa de cobrança de TAH → aprovado por unanimidade
+  - votos: Mauro: relator; José: acompanha; Luís: acompanha; Fábio: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=3913s)
+- **RD 90 (2026-11-04)**, 2.2.1 · relator **José Fernando Gomes** · Voto-vista em recurso contra notificação fiscal 165/2020 de CFEM (sal-gema, Vera Cruz-BA, ago/2010–jul/2017; R$ 2.414.211,75 atualizado) → aprovado por unanimidade
+  - votos: José: relator; Fábio: revisor_acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=4873s)
+- **RD 90 (2026-11-04)**, 2.4.1 · relator **Fábio Borges** · Recurso contra notificação de TAH (R$ 12.267,03; 2º ano do alvará) → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=5442s)
+- **RD 90 (2026-11-04)**, 2.10.1 · relator **Fábio Borges** · Recurso contra cobrança de CFEM na modalidade consumo (fabricação de revestimentos cerâmicos) → aprovado por unanimidade (provimento parcial)
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=6516s)
+- **RD 90 (2026-11-04)**, 2.10.2 · relator **Fábio Borges** · Recurso contra cobrança de CFEM na modalidade consumo (fabricação de revestimentos cerâmicos) → aprovado por unanimidade (provimento parcial)
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=6516s)
+- **RD 90 (2026-11-04)**, 2.10.3 · relator **Fábio Borges** · Recurso contra cobrança de CFEM na modalidade consumo (fabricação de revestimentos cerâmicos) → aprovado por unanimidade (provimento parcial)
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=6516s)
+- **RD 90 (2026-11-04)**, 2.10.4 · relator **Fábio Borges** · Recurso contra cobrança de CFEM na modalidade consumo (fabricação de revestimentos cerâmicos) → aprovado por unanimidade (provimento parcial)
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=6516s)
+- **RD 90 (2026-11-04)**, 2.10.5 · relator **Fábio Borges** · Recurso contra cobrança de CFEM na modalidade consumo (fabricação de revestimentos cerâmicos) → aprovado por unanimidade (provimento parcial)
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=6516s)
+- **RD 90 (2026-11-04)**, 2.10.6 · relator **Fábio Borges** · Recurso contra cobrança de CFEM na modalidade consumo (fabricação de revestimentos cerâmicos) → aprovado por unanimidade (provimento parcial)
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=6516s)
+- **RD 90 (2026-11-04)**, 2.10.7 · relator **Fábio Borges** · Recurso contra cobrança de CFEM na modalidade consumo (fabricação de revestimentos cerâmicos) → aprovado por unanimidade (provimento parcial)
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=6516s)
+- **RD 90 (2026-11-04)**, 2.10.8 · relator **Fábio Borges** · Recurso contra cobrança de CFEM na modalidade consumo (fabricação de revestimentos cerâmicos) → aprovado por unanimidade (provimento parcial)
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=6516s)
+- **RD 90 (2026-11-04)**, 2.10.12 · relator **Fábio Borges** · Recurso contra cobrança de CFEM set–dez/2009 (notificação 136/2019; R$ 19.345,29 atualizado) → aprovado por unanimidade
+  - votos: Fábio: relator; José: acompanha; Luís: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=7186s)
+- **RD 90 (2026-11-04)**, 3.1.1 · relator **Luís Paniago** · Recurso contra notificação administrativa 38/2026 de TAH (alvará de titânio e terras raras, PI) → aprovado por unanimidade
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=7568s)
+- **RD 90 (2026-11-04)**, 3.5.1 · relator **Luís Paniago** · Recurso contra cobrança de CFEM 1991–2000 (calcário dolomítico; NFLDP 4897/2009, R$ 641.305,26 consolidado) → aprovado por unanimidade
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=8601s)
+- **RD 90 (2026-11-04)**, 3.5.2 · relator **Luís Paniago** · Recurso contra cobrança de CFEM 1991–2000 (calcário, Barroso-MG; NFLDP 6493/2009) → aprovado por unanimidade
+  - votos: Luís: relator; José: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=8891s)
+- **RD 90 (2026-11-04)**, 4.3.1 · relator **José Fernando Gomes** · Recurso contra nulidade ex officio do alvará de pesquisa 13.322/2011 por não pagamento de TAH → aprovado por unanimidade (não conhecimento)
+  - votos: José: relator; Luís: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=9678s)
+- **RD 90 (2026-11-04)**, 4.4.1 · relator **José Fernando Gomes** · Recurso contra NFLDP de CFEM sobre água mineral (2003–2009) → aprovado por unanimidade (provimento parcial)
+  - votos: José: relator; Luís: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=9904s)
+- **RD 90 (2026-11-04)**, 4.4.2 · relator **José Fernando Gomes** · Recurso contra NFLDP 1090/2010 de CFEM (areia, SP, 2001) → aprovado por unanimidade
+  - votos: José: relator; Luís: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=10173s)
+- **RD 90 (2026-11-04)**, 4.4.3 · relator **José Fernando Gomes** · Recurso contra NFLDP 24/2008 de CFEM (granito para brita, Feira de Santana-BA) → aprovado por unanimidade (provimento parcial)
+  - votos: José: relator; Luís: acompanha; Fábio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=yDyiIP9UJiM&t=10403s)

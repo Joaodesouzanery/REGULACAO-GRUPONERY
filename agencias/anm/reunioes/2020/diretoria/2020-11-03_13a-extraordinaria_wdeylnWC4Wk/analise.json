@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "video_id": "wdeylnWC4Wk",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "13ª Extraordinária",
+  "data": "2020-11-03",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Victor Bicca (Diretor-Geral); condução da votação passada a Tasso Mendonça",
+  "diretores_presentes": [
+   "Victor Bicca",
+   "Tasso Mendonça",
+   "Eduardo Leão",
+   "Debora Puccini"
+  ],
+  "ausentes": [
+   "Tomás Filho (compromisso particular, registrado ao final)"
+  ],
+  "observacoes": [
+   "Data inferida das falas: 'hoje acabou a oferta... amanhã dia 4 de novembro' (o videos.jsonl traz 2020-11-04 como data de upload).",
+   "Pauta de item único: referendo do ato do DG que retificou o Edital 1/2020 de disponibilidade de áreas (1ª rodada, plano piloto via SOPLE).",
+   "Eduardo Leão informou segunda rodada prevista para dezembro e outra em fevereiro (com PPI).",
+   "Ao final, ficou marcada reunião extraordinária para 11/11 para a resolução da lei dos 50 hectares (rochas ornamentais/agregados) e acordos com municípios e estados; Debora Puccini indicada como possível relatora; Bicca: 'o mercado tá ávido... muito processo parado... inclusive de portaria de lavra'."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:03:09",
+   "processo": "48051.003642/2020 (grafia da legenda)",
+   "interessado": "ANM (Superintendência de Pesquisa e Recursos Minerais / Comissão de Procedimentos de Disponibilidade)",
+   "assunto": "Referendo do ato do Diretor-Geral de 28/10/2020 que aprovou retificações do Edital 1/2020 de disponibilidade de áreas após 29 impugnações (itens 5.2, 5.3, 9.4.2, 9.6.2, 10.1 b, 10.2.2 — sanções de suspensão e multa de R$ 5.000)",
+   "tema": [
+    "outorga de títulos minerários",
+    "disponibilidade de área / leilão de áreas",
+    "regulação normativa",
+    "institucional"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "referendado por unanimidade (4 votos)",
+   "resumo_voto": "Urgência pelos prazos do edital justificou decisão ad referendum (art. 8º do Regimento Interno); retificações amparadas na análise da comissão e em nota da PFE; prevalência dos autos físicos sobre o Cadastro Mineiro em caso de divergência.",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, vota por referendar a própria decisão",
+     "ts": "0:03:09",
+     "confianca": "alta",
+     "justificativa": "urgência dos prazos do edital; análise técnica da comissão e da procuradoria"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha, referenda",
+     "ts": "0:09:44",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "de acordo, referenda",
+     "ts": "0:10:10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "favorável (conduziu a votação e computou quatro votos favoráveis)",
+     "ts": "0:10:20",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: número do processo e nomes (ex.: 'Dr torbica' = Victor Bicca; 'SOPLE') podem estar errados.",
+  "Voto de Tasso não foi verbalizado separadamente; inferido da contagem de 'quatro votos favoráveis'."
+ ]
+}

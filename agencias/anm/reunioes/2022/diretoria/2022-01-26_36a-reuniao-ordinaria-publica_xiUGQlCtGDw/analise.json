@@ -1,0 +1,929 @@
+{
+ "meta": {
+  "video_id": "xiUGQlCtGDw",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "36ª Reunião Ordinária Pública",
+  "data": "2022-01-26",
+  "formato": "videoconferência com transmissão no YouTube",
+  "presidente_da_sessao": "Victor Bicca (Diretor-Geral); Guilherme Gomes presidiu os itens relatados por Bicca",
+  "diretores_presentes": [
+   "Victor Bicca",
+   "Guilherme Gomes",
+   "Ronaldo Lima",
+   "Aline (diretora substituta; sobrenome incerto, possivelmente Aline Fernanda Chagas)",
+   "Carlos Cordeiro (diretor substituto)"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Abertura: '26 de janeiro de 2022'; menciona 'ontem, 25 de janeiro', aniversário de 3 anos de Brumadinho; o cabeçalho indica 2022-01-27 (adotada a data falada).",
+   "DG registra recordes de 2021 (mais de 800 portarias? número confuso na legenda; arrecadação acima de R$ 10 bilhões), concurso temporário de barragens e edital para 40 profissionais permanentes.",
+   "Aline relatou primeiro por estar com covid e retirou-se cedo; não votou nos itens após o 3.1.",
+   "No encerramento o DG diz que foram aprovadas 66 portarias de lavra na sessão e lembra o recorde de 126 de 2021 (números da legenda)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "5.2.8",
+   "ts": "0:08:03",
+   "processo": "810.850/1976 (número aproximado)",
+   "interessado": "Pedreira Pedra Negra (Pederneiras/SP); sustentação oral da advogada Eduarda",
+   "assunto": "Recurso contra cobrança de CFEM (jan/2010 a dez/2012, NFLDP 291/2014); alega cobrança só pelo RAL e boletos, falta de dedução de ICMS/PIS/Cofins e juros sobre multa; pede baixa em diligência/perícia",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos",
+    "pedreira / brita"
+   ],
+   "relator": "Aline (substituta)",
+   "resultado": "recurso conhecido e não provido, por unanimidade",
+   "resumo_voto": "Fiscalização pelo RAL é legal (parecer PF 92/2012 e orientação normativa); deduções da IN 6/2000 exigem comprovação fiscal e valem pelo efetivamente apurado (STJ REsp 756.530); não há juros sobre multa. Processo herdado do diretor Tasso Mendonça Júnior (fim de mandato); relatora convocada pela Portaria 350/2021. O procurador-chefe Maurício reforçou que as teses são pacíficas na PF.",
+   "votos": [
+    {
+     "diretor": "Aline (substituta)",
+     "voto": "relatora, conhece e nega provimento",
+     "ts": "0:19:42",
+     "confianca": "alta",
+     "justificativa": "teses pacificadas: RAL declarado pelo próprio minerador; deduções só com documentação fiscal"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha a relatora",
+     "ts": "0:20:02",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "acompanha a relatora",
+     "ts": "0:20:07",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha a relatora",
+     "ts": "0:20:12",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha a relatora",
+     "ts": "0:20:16",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.1 (bloco)",
+   "ts": "0:20:53",
+   "processo": "16 processos (lista em tela, não lida)",
+   "interessado": "diversos",
+   "assunto": "Outorga de 16 portarias de lavra",
+   "tema": [
+    "outorga de títulos minerários (portaria de lavra, concessão de lavra)"
+   ],
+   "relator": "Aline (substituta)",
+   "resultado": "aprovado por unanimidade (votação em bloco)",
+   "resumo_voto": "Processos instruídos, com parecer favorável das gerências regionais e da SPM.",
+   "votos": [
+    {
+     "diretor": "Aline (substituta)",
+     "voto": "relator, aprova",
+     "ts": "0:21:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "0:44:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "acompanha o relator",
+     "ts": "0:44:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "0:44:58",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "0:45:07",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.2.1–5.2.33 (bloco CFEM)",
+   "ts": "0:21:30",
+   "processo": "33 processos; 5.2.11 Vale S.A.",
+   "interessado": "Vale S.A. e outras empresas (nomes não lidos)",
+   "assunto": "Recursos contra cobranças de CFEM: 5.2.11 Vale provido (recolhimentos comprovados quitam o débito); 26 processos (5.2.2 a 5.2.27) negados por matérias pacificadas (prescrição/decadência, arrendamento, IN 6, uso do RAL); vários providos parcialmente (deduções de seguro/transporte reconhecidas — 48% do transporte de fev/2008; saldo remanescente de R$ 1.023; autotutela em defesa intempestiva; prescrição até dez/1998 e decadência jan–mai/1999 conforme parecer PF 228/2016; talonário de notas aceito em parte)",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos",
+    "mineradora Vale"
+   ],
+   "relator": "Aline (substituta)",
+   "resultado": "aprovado por unanimidade (votação em bloco)",
+   "resumo_voto": "Segue análises da Superintendência de Arrecadação; marco temporal de dez/1998 para prescrição/decadência.",
+   "votos": [
+    {
+     "diretor": "Aline (substituta)",
+     "voto": "relator, aprova",
+     "ts": "0:30:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "0:44:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "acompanha o relator",
+     "ts": "0:44:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "0:44:58",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "0:45:07",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.3–5.5 (blocos)",
+   "ts": "0:31:30",
+   "processo": "diversos (não lidos)",
+   "interessado": "diversos",
+   "assunto": "Recursos contra indeferimento de mudança de regime (2, negados: prazo vencido; nulidade do alvará por TAH), de registro de licença (5 negados por falhas processuais + 1 não conhecido por intempestividade) e de requerimento de pesquisa (negado: falta de inscrição na Junta Comercial é causa de indeferimento de plano, art. 17 Dec. 9.406, conforme parecer jurídico)",
+   "tema": [
+    "outorga de títulos minerários (portaria de lavra, concessão de lavra)",
+    "recursos administrativos"
+   ],
+   "relator": "Aline (substituta)",
+   "resultado": "aprovado por unanimidade (votação em bloco)",
+   "resumo_voto": "Recursos conhecidos e não providos, salvo um não conhecido; vinculação ao princípio da legalidade.",
+   "votos": [
+    {
+     "diretor": "Aline (substituta)",
+     "voto": "relator, aprova",
+     "ts": "0:36:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "0:44:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "acompanha o relator",
+     "ts": "0:44:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "0:44:58",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "0:45:07",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.6–5.11 (blocos)",
+   "ts": "0:36:30",
+   "processo": "diversos (não lidos)",
+   "interessado": "diversos; fiscalização na Paraíba",
+   "assunto": "Indeferimento de 26 requerimentos de lavra por não cumprimento de exigências (art. 31 §3º Dec. 9.406); caducidade do direito de requerer lavra (2); recursos contra multas por TAH (não pagamento, atraso de 9 dias por saúde, alegação de não recebimento de boleto, desproporcionalidade da multa — todos negados; 1 intempestivo); autos de infração de fiscalização na Paraíba (placa NRM-22 e material com risco de queda de crista de bancada — negado); indeferimento de prorrogação para início de lavra (portaria de mais de 20 anos — negado); recurso contra indeferimento de PLG por falta de emolumentos (negado)",
+   "tema": [
+    "outorga de títulos minerários (portaria de lavra, concessão de lavra)",
+    "fiscalização e sanções (multa, caducidade)",
+    "CFEM / arrecadação / TAH",
+    "garimpo / PLG",
+    "recursos administrativos"
+   ],
+   "relator": "Aline (substituta)",
+   "resultado": "aprovado por unanimidade (votação em bloco)",
+   "resumo_voto": "Multa de TAH é ato vinculado (arts. 20 e 64 do Código); sem previsão de proporcionalidade com a taxa.",
+   "votos": [
+    {
+     "diretor": "Aline (substituta)",
+     "voto": "relator, aprova",
+     "ts": "0:44:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "0:44:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "acompanha o relator",
+     "ts": "0:44:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "0:44:58",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "0:45:07",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.1",
+   "ts": "0:45:53",
+   "processo": "48051.000158/2022 (número aproximado)",
+   "interessado": "ANM",
+   "assunto": "Referendo da Resolução ANM 92/2022 (ato do DG substituto, DOU de 14/01/2022): inclui na Portaria 155/2016 a declaração de dispensa de título para movimentação de terra e desmonte de materiais in natura em obras emergenciais de entes públicos em calamidade/emergência (chuvas na Bahia e em Minas Gerais)",
+   "tema": [
+    "regulação normativa (resolução, agenda regulatória, AIR)",
+    "agregados para construção civil",
+    "desastres / chuvas"
+   ],
+   "relator": "Guilherme Gomes",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Urgência e relevância; consulta à PF feita mas resolução editada antes do parecer.",
+   "votos": [
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "relator, referenda",
+     "ts": "0:47:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "de acordo",
+     "ts": "0:48:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "de acordo",
+     "ts": "0:48:37",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Aline (substituta)",
+     "voto": "de acordo",
+     "ts": "0:48:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "de acordo",
+     "ts": "0:48:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.2",
+   "ts": "0:49:21",
+   "processo": "não identificado",
+   "interessado": "ANM; sustentação oral de Júlio Nery, presidente da Comissão Brasileira de Recursos e Reservas (CBRR); Celeste Queiroz desistiu",
+   "assunto": "Resolução que institui o Sistema Brasileiro de Recursos e Reservas Minerais e conceitos associados (agenda regulatória 2020/2021; Decreto 9.406/2018)",
+   "tema": [
+    "regulação normativa (resolução, agenda regulatória, AIR)",
+    "recursos e reservas minerais"
+   ],
+   "relator": "Guilherme Gomes",
+   "resultado": "aprovado por unanimidade dos presentes",
+   "resumo_voto": "Define potencial exploratório, recursos medido/indicado/inferido, reservas provadas/prováveis; declaração pública opcional, com base em CRIRSCO/CBRR, elaborada por profissional qualificado, sem sigilo; ANM não é certificadora; vigência em 180 dias; incorpora alterações da PF. A CBRR pediu para conhecer o texto final. Bicca: primeiro passo, ajustes depois; Cordeiro acompanhou a elaboração.",
+   "votos": [
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "relator, aprova",
+     "ts": "0:59:32",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "de acordo com o relator",
+     "ts": "1:02:00",
+     "confianca": "media",
+     "justificativa": "reforça a gestão de recursos minerais"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "de acordo",
+     "ts": "1:02:06",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "1:02:10",
+     "confianca": "media",
+     "justificativa": "coloca a ANM no nível das práticas internacionais"
+    }
+   ]
+  },
+  {
+   "id": "2.4.2",
+   "ts": "1:03:34",
+   "processo": "830.671/1998 (número aproximado)",
+   "interessado": "CPN Mineração (água mineral, Jacutinga/MG), grupo Danone; sustentação oral do advogado Marcos Prado",
+   "assunto": "Recurso contra cobrança de CFEM de jan/2015 a dez/2016 (cerca de R$ 2,95 milhões) calculada pelo preço de revenda da Danone (aferição indireta), em operações dentro do mesmo grupo econômico, inclusive sobre doações",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos",
+    "água mineral",
+    "grupo econômico"
+   ],
+   "relator": "Ronaldo Lima",
+   "resultado": "recurso conhecido e não provido, por unanimidade",
+   "resumo_voto": "Fato gerador ocorre na venda a terceiros fora do grupo (pareceres PF 73/2011 e 379/2015), entendimento anterior à Lei 13.540/2017; aferição indireta válida; doação também é saída de bem da União; correção pelo IPCA-E; processo herdado de Eduardo Leão. Bicca questionou a metodologia (pressupõe que 100% do repassado foi vendido) e pediu que a área se debruçasse mais; destacou a importância do RAL e da futura DIEF mensal.",
+   "votos": [
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "1:34:41",
+     "confianca": "alta",
+     "justificativa": "matéria pacificada; empresas do mesmo grupo como único estabelecimento"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "1:44:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "1:44:56",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator, com ponderações sobre a metodologia",
+     "ts": "1:45:05",
+     "confianca": "alta",
+     "justificativa": "dúvida se se pode cobrar sobre produto não vendido (estoques, doações); pede detalhamento maior da metodologia"
+    }
+   ]
+  },
+  {
+   "id": "1.1",
+   "ts": "1:48:15",
+   "processo": "48051.002953/2021 (número aproximado)",
+   "interessado": "ANM",
+   "assunto": "Referendo do ato do DG que retomou a etapa de leilão eletrônico da 5ª rodada de disponibilidade de áreas (Edital 3/2021), suspensa por problemas técnicos no sistema, e retificou o cronograma (DOU 22/12/2021)",
+   "tema": [
+    "outorga de títulos minerários (disponibilidade de área / leilão de áreas)"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Problemas técnicos resolvidos; recomendação da comissão; urgência.",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, aprova",
+     "ts": "1:50:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "acompanha o relator",
+     "ts": "1:54:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "1:54:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "1:54:27",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2 (bloco)",
+   "ts": "1:50:40",
+   "processo": "826.118/2004, 826.435/2002, 810.744/2017, 825.59/2012 e outros (números aproximados)",
+   "interessado": "Andreis Mineração, Ademar Paulo Lopes, Argesul Mineração, Mineração Closer Areia Branca e outros",
+   "assunto": "Outorga de 10 concessões de lavra (areia, basalto, caulim, argila, turfa, diabásio)",
+   "tema": [
+    "outorga de títulos minerários (portaria de lavra, concessão de lavra)",
+    "agregados para construção civil"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Manifestação técnica favorável.",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, aprova",
+     "ts": "1:52:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "acompanha o relator",
+     "ts": "1:54:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "1:54:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "1:54:27",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3 (bloco)",
+   "ts": "1:52:40",
+   "processo": "9 processos",
+   "interessado": "Samel (nome incerto, 3 processos) e Metalmig Mineração Indústria e Comércio S.A. (6 processos)",
+   "assunto": "Recursos contra cobranças de CFEM (decadência, prescrição, base de cálculo, ilegalidade de normas)",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "recursos não providos, por unanimidade",
+   "resumo_voto": "Superintendência de Arrecadação refutou com base em procedimentos pacificados.",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, aprova",
+     "ts": "1:53:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "acompanha o relator",
+     "ts": "1:54:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "1:54:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "1:54:27",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1 (bloco)",
+   "ts": "1:55:38",
+   "processo": "14 processos",
+   "interessado": "Extração e Comércio de Areia São Pedro, Areia do Vale, Construtora e Dragagem Paraopeba, Eliane Revestimentos Cerâmicos, Hiperplan e outros",
+   "assunto": "Outorga de 14 portarias de lavra (areia, argila, cascalho) em SP, MG, RJ, RS, PR e SC",
+   "tema": [
+    "outorga de títulos minerários (portaria de lavra, concessão de lavra)",
+    "agregados para construção civil"
+   ],
+   "relator": "Ronaldo Lima",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Requerimentos instruídos, com proposta favorável das regionais e SPM.",
+   "votos": [
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "relator, aprova",
+     "ts": "1:57:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "2:04:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "2:04:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "2:04:19",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2",
+   "ts": "1:57:32",
+   "processo": "não identificado",
+   "interessado": "T3PM Extração de Minerais (microempresa), RJ",
+   "assunto": "Voto-vista em recurso contra indeferimento de registro de licença (argila e saibro, 8,3 ha); voto original do ex-diretor Tasso Mendonça na 20ª Reunião Extraordinária",
+   "tema": [
+    "outorga de títulos minerários (portaria de lavra, concessão de lavra)",
+    "recursos administrativos"
+   ],
+   "relator": "Tasso Mendonça (relator original); voto-vista Ronaldo Lima",
+   "resultado": "aprovado por unanimidade conforme voto do relator original (afasta o indeferimento direto)",
+   "resumo_voto": "Ronaldo concorda com a aplicação do inciso II do art. da Portaria 155/2016: eventual falta de licença deve ser objeto de exigência da regional, não de indeferimento direto. A secretaria registrou que o voto de Tasso já constava.",
+   "votos": [
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "voto-vista: acompanha o relator (Tasso Mendonça)",
+     "ts": "1:58:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha",
+     "ts": "2:04:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha",
+     "ts": "2:04:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha",
+     "ts": "2:04:19",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3",
+   "ts": "1:59:00",
+   "processo": "não identificado",
+   "interessado": "Pedreira Emboaçica (nome incerto), RJ",
+   "assunto": "Recurso contra multas por RAL 2016 e 2017 considerados gravemente incorretos (registro de licença de granito para brita)",
+   "tema": [
+    "fiscalização e sanções (multa, caducidade)",
+    "recursos administrativos",
+    "pedreira / brita"
+   ],
+   "relator": "Ronaldo Lima",
+   "resultado": "recurso provido e multas tornadas sem efeito, por unanimidade",
+   "resumo_voto": "SPM divergiu da regional: o titular apresentou informações suficientes.",
+   "votos": [
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "relator, aprova",
+     "ts": "2:00:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "2:04:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "2:04:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "2:04:19",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3 (bis)",
+   "ts": "2:00:10",
+   "processo": "não identificado",
+   "interessado": "IMA Indústria de Madeira Imunizada, Belo Horizonte/MG",
+   "assunto": "Recurso contra multas de barragens (estruturas Mangabeiras B1 e B3 auxiliar, dolomito)",
+   "tema": [
+    "barragens e segurança de barragens",
+    "fiscalização e sanções (multa, caducidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Ronaldo Lima",
+   "resultado": "provido parcialmente: multas tornadas sem efeito para serem refeitas com correção do agente infrator e enquadramento",
+   "resumo_voto": "Uma estrutura não estava sob responsabilidade da empresa; outra já descaracterizada.",
+   "votos": [
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "relator, aprova",
+     "ts": "2:01:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "2:04:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "2:04:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "2:04:19",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4.1 e 2.4.3",
+   "ts": "2:01:40",
+   "processo": "não identificado",
+   "interessado": "Grimaldi Participação e Administração, Caçam Indústria e Comércio, Rocha Nobre Mineração",
+   "assunto": "Recursos contra cobranças de CFEM",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos"
+   ],
+   "relator": "Ronaldo Lima",
+   "resultado": "recursos não providos, por unanimidade",
+   "resumo_voto": "Matéria pacificada; sem erros de cálculo.",
+   "votos": [
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "relator, aprova",
+     "ts": "2:02:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "2:04:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "2:04:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "2:04:19",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.5",
+   "ts": "2:02:30",
+   "processo": "não identificado",
+   "interessado": "empresa de extração e comércio de areia",
+   "assunto": "Recurso contra cobrança de CFEM sem defesa administrativa prévia (NFLDP 26/2011)",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos"
+   ],
+   "relator": "Ronaldo Lima",
+   "resultado": "recurso não conhecido, por unanimidade",
+   "resumo_voto": "Sem defesa não cabe recurso; autotutela não encontrou decadência ou prescrição.",
+   "votos": [
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "relator, aprova",
+     "ts": "2:03:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "2:04:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "2:04:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "2:04:19",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.3–3.16 (bloco)",
+   "ts": "2:05:41",
+   "processo": "cerca de 30 processos (13 lavras e diversos recursos)",
+   "interessado": "diversos",
+   "assunto": "Outorga de 13 concessões de lavra; recursos sobre pesquisa, registro de licença (provimentos por erro da regional e falha de comunicação no Maranhão), PLG (provido), prorrogação de registro (negados), registro em parque estadual do Camaquã (negado), caducidade do direito de requerer lavra, pesquisa complementar (3.11, não acata a recomendação técnica: regulamento não permite complementar o relatório final aprovado), guia de utilização de dolomito no RN (34 mil t, 3 anos), indeferimentos de lavra e 3.15 (não acolhe recomendação técnica de indeferir lavra no MS e devolve à regional)",
+   "tema": [
+    "outorga de títulos minerários (portaria de lavra, concessão de lavra)",
+    "recursos administrativos",
+    "garimpo / PLG",
+    "ambiental / unidade de conservação"
+   ],
+   "relator": "Guilherme Gomes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Em dois itens (3.11 e 3.15) o relator diverge da área técnica.",
+   "votos": [
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "relator, aprova",
+     "ts": "2:16:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "acompanha o relator",
+     "ts": "2:16:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "2:16:27",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "2:16:31",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.1 (bloco)",
+   "ts": "2:17:16",
+   "processo": "13 processos, entre eles 864.300/2008",
+   "interessado": "Mineração Ilha Grande Paraná, Mineração Patrício, Mineração União Balsa Nova, Minerax Mineração Xambioá, Mineração Aracuí e outros",
+   "assunto": "Outorga de 13 concessões de lavra (areia, cascalho, brita, granito, calcário)",
+   "tema": [
+    "outorga de títulos minerários (portaria de lavra, concessão de lavra)",
+    "agregados para construção civil"
+   ],
+   "relator": "Carlos Cordeiro",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Exigências cumpridas; art. 38 do Código.",
+   "votos": [
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "relator, aprova",
+     "ts": "2:19:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "2:55:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "acompanha o relator",
+     "ts": "2:55:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "2:55:22",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.2.1–4.2.9",
+   "ts": "2:19:40",
+   "processo": "826.756/2001 (Votorantim) e outros",
+   "interessado": "Sociedade Cal Paraná, Votorantim Cimentos (calcário), Mineração Guariroba, Gonçalves Almeida (2), Sul-Americana de Mineração (2), Seta Mineração, Mineração Serra d'Água (PE)",
+   "assunto": "Indeferimento de requerimentos de lavra por não cumprimento ou cumprimento intempestivo de exigências (sobretudo licenciamento ambiental); 4.2.7 recurso negado",
+   "tema": [
+    "outorga de títulos minerários (portaria de lavra, concessão de lavra)",
+    "recursos administrativos",
+    "ambiental / licenciamento"
+   ],
+   "relator": "Carlos Cordeiro",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Art. 31 §§3º e 4º do Dec. 9.406/2018 e arts. 32 e 41 §4º do Código.",
+   "votos": [
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "relator, aprova",
+     "ts": "2:48:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "2:55:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "acompanha o relator",
+     "ts": "2:55:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "2:55:22",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.3–4.5",
+   "ts": "2:48:30",
+   "processo": "880.103/2016; grupamento mineiro 172/2000; 840.281/2010",
+   "interessado": "Ouro Branco Mineração; Mineração da Bahia S.A.; Leão Participações (granito, PE)",
+   "assunto": "4.3 deferida prorrogação de prazo para requerer lavra; 4.4 desconstituído o grupamento mineiro 172/2000; 4.5 anulada a Portaria de Lavra 132/2019, publicada por erro (folha de outro processo), e indeferido o requerimento de lavra",
+   "tema": [
+    "outorga de títulos minerários (portaria de lavra, concessão de lavra)",
+    "fiscalização e sanções (multa, caducidade)"
+   ],
+   "relator": "Carlos Cordeiro",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Anulação por erro material da administração (gerente de PE pediu desconsiderar a folha).",
+   "votos": [
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "relator, aprova",
+     "ts": "2:54:06",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "2:55:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ronaldo Lima",
+     "voto": "acompanha o relator",
+     "ts": "2:55:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "2:55:22",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Reunião lida inteira.",
+  "Muitos itens foram votados em bloco e a legenda não lê os números de cada processo: agreguei blocos em itens; números de processo, nomes de empresas e valores são aproximados.",
+  "Sobrenome da diretora substituta Aline não confirmado (a legenda diz 'Aline e Fernanda Chagas').",
+  "Ts dos votos em bloco e dos seguidores são aproximados.",
+  "Nos itens 3.2 em diante Aline já não votou (DG confirma que ela saiu mais cedo)."
+ ]
+}

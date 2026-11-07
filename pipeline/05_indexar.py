@@ -8,6 +8,7 @@ CFG_AG = json.load(open("data/config_agencia.json")) if os.path.exists("data/con
 if CFG_AG: DIRETORES = CFG_AG["diretores"]; ALIAS = CFG_AG["alias"]
 def canon(s):
     s = (s or "").lower()
+    if "não identificado" in s or "nao identificado" in s: return None
     for n, rx in ALIAS.items():
         if re.search(rx, s): return n
     return None

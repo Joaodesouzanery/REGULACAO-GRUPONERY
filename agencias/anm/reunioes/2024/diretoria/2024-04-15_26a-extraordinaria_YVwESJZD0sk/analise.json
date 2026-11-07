@@ -1,0 +1,44 @@
+{
+  "meta": {"video_id": "YVwESJZD0sk", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "26ª Extraordinária", "data": "2024-04-15", "formato": "híbrida / videoconferência",
+    "presidente_da_sessao": "Mauro Sousa (Diretor-Geral)",
+    "diretores_presentes": ["Mauro Sousa", "Caio Seabra", "Guilherme Gomes", "Tasso Mendonça", "Roger Cabral"],
+    "ausentes": [],
+    "observacoes": ["Item único: voto-vista de Caio Seabra sobre a decisão ad referendum do Diretor-Geral (22/12/2023, publicada 26/12/2023) que negou recursos e consolidou a lista de municípios afetados por estruturas de mineração para a distribuição da CFEM do ciclo maio/2023–abril/2024 (Lei 14.514/2022, Decreto 11.659/2023, Resolução ANM 143/2023).", "O voto-vista prevaleceu por 4 a 1 (Mauro Sousa vencido, mantendo seu voto anterior).", "Embate procedimental: Mauro Sousa quis ouvir o superintendente de arrecadação (Daniel Polaco/Colque, grafia incerta) antes da votação; Caio Seabra protestou («você não é dono da reunião») e a maioria (Caio, Guilherme, Tasso, Roger) rejeitou a manifestação do superintendente; a procuradoria citou o art. 10 do Regimento (participação de terceiros só com voz e se deferida pelo colegiado).", "Questão de ordem posterior: decidido por unanimidade manter todos os pagamentos (afetados e limítrofes) enquanto a SAR revisa a lista, contrariando o último ponto do voto-vista (suspensão dos pagamentos por estruturas), com concordância do próprio Caio Seabra por razões práticas."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:01:00",
+      "processo": "não informado com clareza na legenda (voto MS nº 234 de 23/02/2024)", "interessado": "municípios recorrentes: Sabinópolis (MG), Mangaratiba ou outro município do RJ (grafia incerta), Ferreira Gomes (AP), Laranjal do Jari (AP), Calçoene (AP), Niquelândia (GO), Vitória do Jari (AP), Urucará (AM), Santa Bárbara de Goiás (GO) e outros",
+      "assunto": "Confirmação (referendo) da decisão ad referendum do Diretor-Geral sobre recursos de municípios e lista de municípios afetados por estruturas de mineração na distribuição da CFEM, ciclo maio/2023–abril/2024; voto-vista de Caio Seabra",
+      "tema": ["CFEM / arrecadação / TAH", "recursos administrativos", "institucional", "regulação normativa"],
+      "relator": "Mauro Sousa", "resultado": "voto-vista de Caio Seabra vencedor (4 a 1); decisão ad referendum tornada sem efeito; relator vencido",
+      "resumo_voto": "Voto-vista: CFEM tem natureza de participação no resultado (STF), não indenização; estruturas inoperantes/abandonadas não geram direito a cota de afetado; estruturas ligadas exclusivamente à produção no próprio município não geram cota de afetado (só de produtor). Recursos de Sabinópolis, Ferreira Gomes, Calçoene, Niquelândia e outro município do AP (mesma situação de Ferreira Gomes) deveriam ser indeferidos e os municípios retirados da lista; mantidos indeferimentos de RJ, Goiás, Vitória do Jari e Urucará; Santa Bárbara de Goiás intempestivo. Determina recálculo pela SAR, apuração de valores pagos indevidamente com envio à PFE, envio à CGU e ao TCU e ciência ao MME. Critica o uso da decisão ad referendum (reuniões em 19/12 e 28/12 possíveis; violação da colegialidade; distribuição de cerca de R$ 792 milhões em 10 meses).",
+      "votos": [
+        {"diretor": "Caio Seabra", "voto": "voto-vista: diverge do relator e torna sem efeito a decisão ad referendum", "ts": "0:04:14", "justificativa": "natureza jurídica da CFEM como participação no resultado; conceito ampliado de município afetado ilegal após Lei 14.514/2022; ad referendum sem urgência real, violando a colegialidade", "tom": "crítico e incisivo em relação à condução do Diretor-Geral (inferência)", "confianca": "alta"},
+        {"diretor": "Guilherme Gomes", "voto": "acompanha o voto-vista", "ts": "1:11:12", "justificativa": "exemplos de Ouro Preto (mina de Timbopeba, Vale) e Belo Horizonte (antiga Ferrobel, Parque das Mangabeiras) para ilustrar distorções no uso indenizatório da CFEM", "confianca": "alta"},
+        {"diretor": "Tasso Mendonça", "voto": "acompanha o voto-vista", "ts": "1:14:21", "justificativa": "mudança da lei aplica-se já neste ciclo; municípios com dúvida podem opor embargos de declaração", "confianca": "media"},
+        {"diretor": "Roger Cabral", "voto": "acompanha o voto-vista", "ts": "1:18:04", "justificativa": "confusão entre passivo ambiental e município afetado; cautela e revisão técnica apenas dos afetados por estruturas", "confianca": "alta"},
+        {"diretor": "Mauro Sousa", "voto": "relator, mantém voto anterior; vencido", "ts": "1:19:14", "justificativa": "análise técnica considerou processos minerários ativos; regra de transição evitou alteração abrupta; ad referendum foi acordado e urgente para pagar até o fim de 2023; prazo de 60 dias não pode anular decisão porque houve pedido de vista", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1-QO", "ts": "1:19:21",
+      "processo": "mesmo processo (questão de ordem)", "interessado": "municípios afetados e limítrofes",
+      "assunto": "Questão de ordem: manutenção ou suspensão dos pagamentos de CFEM a municípios afetados (inclusive cerca de R$ 11 milhões retidos de limítrofes) durante a revisão da lista pela SAR",
+      "tema": ["CFEM / arrecadação / TAH", "institucional"],
+      "relator": "Mauro Sousa", "resultado": "aprovada por unanimidade a manutenção de todos os pagamentos durante a revisão",
+      "resumo_voto": "Suspender afetaria todos os municípios afetados do país (ferrovias etc.); sistema de cálculo é interligado; mais fácil recuperar depois os valores indevidos de um grupo menor.",
+      "votos": [
+        {"diretor": "Mauro Sousa", "voto": "propõe manutenção dos pagamentos", "ts": "1:19:21", "confianca": "alta"},
+        {"diretor": "Tasso Mendonça", "voto": "de acordo, contra a paralisação", "ts": "1:25:30", "justificativa": "municípios com verbas de saúde e serviços essenciais", "confianca": "media"},
+        {"diretor": "Roger Cabral", "voto": "de acordo", "ts": "1:29:08", "justificativa": "valores indevidos são minoria; pagar e depois tratar os casos indevidos", "confianca": "alta"},
+        {"diretor": "Guilherme Gomes", "voto": "de acordo com a manutenção do pagamento", "ts": "1:28:56", "confianca": "alta"},
+        {"diretor": "Caio Seabra", "voto": "de acordo com o retorno de todos os pagamentos (ajusta o ponto final do seu voto)", "ts": "1:29:20", "justificativa": "situação prática informada pelo superintendente", "confianca": "media"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Data: o presidente diz «hoje 15 de abril de 2024 segunda-feira»; o título/cabeçalho indica 2024-04-16; adotado 15/04 (pode ser erro de fala). No encerramento a legenda diz «166ª», provável erro por 26ª.", "Nomes de municípios, números de processos e valores (R$ 542 milhões em 7 meses; R$ 792 milhões em 10 meses; R$ 11 milhões) vêm da legenda automática e podem estar errados.", "Ordem e ts da votação aproximados; o voto de Tasso no mérito tem fala confusa («acompanhar o relator»), mas ele esclarece que acompanha o voto-vista.", "Guilherme Gomes não consta na lista de falantes inferidos, mas é citado nominalmente e vota."]
+}
