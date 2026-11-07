@@ -1,0 +1,1747 @@
+{
+ "meta": {
+  "video_id": "74ccp5IarUk",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem acompanha o relator são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "25",
+  "data": "2021-02-25",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Victor Bicca (Diretor-Geral); Debora Puccini presidiu durante a relatoria de Bicca",
+  "diretores_presentes": [
+   "Victor Bicca",
+   "Tasso Mendonça",
+   "Eduardo Leão",
+   "Debora Puccini",
+   "Carlos Cordeiro"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "25ª Reunião Ordinária Pública; todos os itens deliberados por unanimidade.",
+   "Sustentações orais: Serra Grande (1.5.2), Paulo Alexandre (1.8.1) e Areal Rio Casca (1.16.1).",
+   "Bicca declarou-se impedido no item 1.12 (revisão de ofício, Devano/Mato Ltda., grafia incerta) por ter decidido o caso como DG do DNPM em 2018; pediu redistribuição.",
+   "Tasso retirou o item 4.1 (recurso sobre opção de pesquisa, cerca de 298 processos) por falta de consenso e caráter normativo.",
+   "Lembrado o prazo de 1º de março para a 2ª rodada de disponibilidade (sistema SOPLE)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2.3.1",
+   "ts": "0:01:09",
+   "processo": "não identificado",
+   "interessado": "Agência Nacional de Mineração",
+   "assunto": "Resolução que altera a Resolução ANM 16/2019 (protocolo digital) para adequar às assinaturas eletrônicas avançada e qualificada do gov.br (Lei 14.063/2020 e Decreto 10.543/2020)",
+   "tema": [
+    "regulação normativa",
+    "institucional",
+    "governo digital"
+   ],
+   "relator": "Debora Puccini",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Mera adequação; PF e Superintendência de Regulação concordaram; dispensada AIR.",
+   "votos": [
+    {
+     "diretor": "Debora Puccini",
+     "voto": "relatora, aprova",
+     "ts": "0:01:09",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "de acordo",
+     "ts": "0:04:46",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha",
+     "ts": "0:04:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha",
+     "ts": "0:04:54",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha",
+     "ts": "0:04:58",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.5.2",
+   "ts": "0:05:57",
+   "processo": "860746/2005 (grafia incerta)",
+   "interessado": "Mineração Serra Grande",
+   "assunto": "Aditamento da substância prata à portaria de lavra 171/2015 (GO)",
+   "tema": [
+    "outorga de títulos minerários",
+    "prata",
+    "ouro"
+   ],
+   "relator": "Eduardo Leão",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Reservas e PAE aprovados; competência delegada à ANM pela Portaria MME de 1995 (válida segundo SGM e Conjur). Sustentação oral de Mauricio Pellegrino (empresa), sem contraditório.",
+   "votos": [
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "relator, aprova aditamento",
+     "ts": "0:10:11",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "0:10:27",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "0:10:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "0:10:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "0:10:36",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.1",
+   "ts": "0:11:28",
+   "processo": "844057/2003 (grafia incerta)",
+   "interessado": "Mineração Barreto S.A.",
+   "assunto": "Recurso contra multa por não solicitar imissão de posse",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "recursos administrativos"
+   ],
+   "relator": "Eduardo Leão",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Mantém a infração, mas afasta a multa em dobro (reincidência indevida).",
+   "votos": [
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "relator, provimento parcial",
+     "ts": "0:11:28",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "0:15:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "0:15:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "0:15:45",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "0:15:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.2",
+   "ts": "0:12:20",
+   "processo": "868024/2010 (grafia incerta)",
+   "interessado": "Manoel Messias Alves Silva ME",
+   "assunto": "Recurso contra multas por não entrega do RAL (registro de licença, MS)",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "recursos administrativos"
+   ],
+   "relator": "Eduardo Leão",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Provimento e cancelamento das multas (autotutela, entendimento da PF).",
+   "votos": [
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "relator, dá provimento",
+     "ts": "0:12:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "0:15:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "0:15:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "0:15:45",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "0:15:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.3",
+   "ts": "0:13:05",
+   "processo": "824049/2010 e 824049/2007 (grafia incerta)",
+   "interessado": "Fábio (Terraplenagem; nome incompleto)",
+   "assunto": "Retificação de despacho: caducidade publicada no processo errado",
+   "tema": [
+    "fiscalização e sanções (caducidade)",
+    "autotutela"
+   ],
+   "relator": "Eduardo Leão",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Torna sem efeito a caducidade publicada em 31/8/2018.",
+   "votos": [
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "relator, aprova",
+     "ts": "0:13:05",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "0:15:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "0:15:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "0:15:45",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "0:15:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.4",
+   "ts": "0:13:39",
+   "processo": "11 processos",
+   "interessado": "diversos (MG, PR, SP)",
+   "assunto": "Outorga de 11 portarias de lavra (areia, cascalho, argila, saibro)",
+   "tema": [
+    "outorga de títulos minerários",
+    "agregados para construção civil"
+   ],
+   "relator": "Eduardo Leão",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Requerimentos instruídos.",
+   "votos": [
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "relator, aprova",
+     "ts": "0:13:39",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "0:15:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "0:15:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "0:15:45",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "0:15:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.5",
+   "ts": "0:14:30",
+   "processo": "vários",
+   "interessado": "diversos (PR, GO, SP)",
+   "assunto": "Aditamentos de substâncias (cascalho, prata, areia)",
+   "tema": [
+    "outorga de títulos minerários"
+   ],
+   "relator": "Eduardo Leão",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Sem complexidade.",
+   "votos": [
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "relator, aprova",
+     "ts": "0:14:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "0:15:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "0:15:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "0:15:45",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "0:15:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.8.1",
+   "ts": "0:18:12",
+   "processo": "48403.831491/2006 (grafia incerta)",
+   "interessado": "Paulo Alexandre (nome incompleto)",
+   "assunto": "Recurso contra cancelamento de registro de licença (areia e cascalho, MG) com base apenas no RAL",
+   "tema": [
+    "recursos administrativos",
+    "outorga de títulos minerários",
+    "agregados para construção civil"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Dá provimento: RAL sozinho não basta para cancelar por suspensão injustificada (precedentes da 12ª e 14ª reuniões); torna sem efeito o cancelamento e prorroga o registro 2.974 até 18/9/2024 (licença de Olímpio Noronha/MG). Sustentação oral do advogado Elias Rodrigues.",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, dá provimento e prorroga",
+     "ts": "0:26:32",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "0:26:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "0:26:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "0:27:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "0:26:45",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.16.1",
+   "ts": "0:28:14",
+   "processo": "48403.831535/2018 (controle 56)",
+   "interessado": "Areal Rio Casca Ltda.",
+   "assunto": "Recurso contra indeferimento de registro de licença de areia no leito do Rio Doce (Rio Casca e São Domingos do Prata/MG) por poligonal de rumos diversos",
+   "tema": [
+    "recursos administrativos",
+    "outorga de títulos minerários",
+    "areia"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Dá provimento: área abrange leito do rio na margem direita, o que permite rumos diversos (art. 39 parágrafo único da consolidação normativa); retorno à gerência de MG. Sustentação oral de Samuel (empresa).",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, dá provimento",
+     "ts": "0:36:26",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "0:36:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "0:36:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "0:36:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "0:36:35",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.1",
+   "ts": "0:38:30",
+   "processo": "48051.000828/2021 (grafia incerta)",
+   "interessado": "Agência Nacional de Mineração",
+   "assunto": "Referendo da Resolução ANM 56/2021, que alterou a Resolução 51/2020 (Plano de Ação de Emergência de barragens de mineração): clareza, erro material e prazo de vigência",
+   "tema": [
+    "barragens e segurança de barragens",
+    "regulação normativa"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Urgência antes da entrada em vigor (art. 8º do Regimento).",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, referenda",
+     "ts": "0:38:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "1:10:51",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:10:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:11:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "1:10:45",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.2",
+   "ts": "0:40:41",
+   "processo": "11 processos",
+   "interessado": "diversos",
+   "assunto": "Outorga de 11 concessões de lavra (areia, argila, calcário)",
+   "tema": [
+    "outorga de títulos minerários"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Manifestação técnica favorável.",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, aprova",
+     "ts": "0:40:41",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "1:10:51",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:10:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:11:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "1:10:45",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.3",
+   "ts": "0:42:58",
+   "processo": "48xxx.939933/2011 e 48412.967143/2009 (grafia incerta)",
+   "interessado": "Votorantim Cimentos S.A.",
+   "assunto": "Recursos contra cobranças de CFEM (decadência, prescrição, deduções, Decreto 1/1991)",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Nega provimento.",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, nega provimento",
+     "ts": "0:42:58",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "1:10:51",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:10:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:11:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "1:10:45",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.4",
+   "ts": "0:44:53",
+   "processo": "27228.96174/2003 (grafia incerta)",
+   "interessado": "Cerâmica Santa Maria Ltda.",
+   "assunto": "Proposta de indeferimento de requerimento de lavra (ES) por exigências parcialmente cumpridas, analisadas só 4 anos depois",
+   "tema": [
+    "outorga de títulos minerários"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Não acolhe a proposta (razoabilidade); retorno para continuidade da análise.",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, não acolhe indeferimento",
+     "ts": "0:44:53",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "1:10:51",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:10:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:11:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "1:10:45",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.5",
+   "ts": "0:47:42",
+   "processo": "80094/2006 (grafia incerta)",
+   "interessado": "não identificado",
+   "assunto": "Requerimento de lavra protocolado um dia após o prazo: não conhecido e caducidade do direito de requerer lavra",
+   "tema": [
+    "fiscalização e sanções (caducidade)"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Prazo legal do art. 31.",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, caduca",
+     "ts": "0:47:42",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "1:10:51",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:10:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:11:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "1:10:45",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.6",
+   "ts": "0:49:15",
+   "processo": "831304/2011 (grafia incerta)",
+   "interessado": "Cerâmica Agility Indústria e Comércio (grafia incerta)",
+   "assunto": "Recurso: prorrogação de registro de licença pedida no dia útil seguinte ao vencimento (sábado)",
+   "tema": [
+    "recursos administrativos",
+    "outorga de títulos minerários"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Prazo para requerer é processual e se prorroga ao dia útil seguinte; recebe como tempestivo.",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, dá provimento",
+     "ts": "0:49:15",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "1:10:51",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:10:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:11:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "1:10:45",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.7",
+   "ts": "0:51:45",
+   "processo": "831981/2017 (grafia incerta)",
+   "interessado": "Mineração Rafaela Ltda.",
+   "assunto": "Recurso contra indeferimento de registro de licença (licença municipal dispensada na vigência da MP 790/2017)",
+   "tema": [
+    "recursos administrativos",
+    "outorga de títulos minerários"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Provimento; retorno à área técnica.",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, dá provimento",
+     "ts": "0:51:45",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "1:10:51",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:10:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:11:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "1:10:45",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.9",
+   "ts": "0:53:38",
+   "processo": "831846/2004 (controle 04)",
+   "interessado": "Extração de Areia (nome incompleto; Tiradentes/Prados-MG)",
+   "assunto": "Recurso contra indeferimento de licenciamento por falta de licença municipal de Prados",
+   "tema": [
+    "recursos administrativos",
+    "outorga de títulos minerários"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Nega provimento.",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, nega provimento",
+     "ts": "0:53:38",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "1:10:51",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:10:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:11:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "1:10:45",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.10",
+   "ts": "0:56:07",
+   "processo": "890442/1986 (controle 51)",
+   "interessado": "Julieta Dutra Extração de Minerais ME (grafia incerta)",
+   "assunto": "Requerimento de autorização de pesquisa complementar (granito)",
+   "tema": [
+    "outorga de títulos minerários"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Indefere por ausência de previsão normativa (precedente da 21ª reunião; art. 9º §7º e §9º do Decreto 9.406/2018).",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, indefere",
+     "ts": "0:56:07",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "1:10:51",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:10:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:11:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "1:10:45",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.11",
+   "ts": "0:58:13",
+   "processo": "830010/2007 (grafia incerta)",
+   "interessado": "Mineração Atlântica Ltda.",
+   "assunto": "Proposta de aprovação de relatório de pesquisa complementar",
+   "tema": [
+    "outorga de títulos minerários"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Não acolhe por ausência de previsão normativa; informações podem ser incorporadas após a portaria.",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, não acolhe",
+     "ts": "0:58:13",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "1:10:51",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:10:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:11:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "1:10:45",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.13",
+   "ts": "1:01:25",
+   "processo": "896293/2014 (grafia incerta)",
+   "interessado": "Júlio Carlos (sobrenome incerto)",
+   "assunto": "Recurso contra indeferimento de mudança de regime para licenciamento (ES)",
+   "tema": [
+    "recursos administrativos",
+    "outorga de títulos minerários"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Provimento: nova licença municipal já apresentada.",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, dá provimento",
+     "ts": "1:01:25",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "1:10:51",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:10:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:11:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "1:10:45",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.14",
+   "ts": "1:04:23",
+   "processo": "810001/2007 (controle 53; grafia incerta)",
+   "interessado": "Britagem Montenegro Ltda.",
+   "assunto": "Recurso contra indeferimento de prorrogação de registro de licença (pedido intempestivo)",
+   "tema": [
+    "recursos administrativos"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Não conhece por intempestividade; nega área livre.",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, não conhece",
+     "ts": "1:04:23",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "1:10:51",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:10:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:11:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "1:10:45",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.15",
+   "ts": "1:06:29",
+   "processo": "807129/1979 (grafia incerta)",
+   "interessado": "Calcário Augusto/Kalbusch & Cia. Ltda. (recorrente) x Comércio de Pedras Ardósia Central Catarinense",
+   "assunto": "Recurso contra averbação de cessão total de concessão de lavra baseada em procuração de um só sócio",
+   "tema": [
+    "recursos administrativos",
+    "outorga de títulos minerários",
+    "cessão de direitos"
+   ],
+   "relator": "Victor Bicca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Acata recurso e torna sem efeito a anuência de 2011 (vício de origem; Lei 9.784 art. 53), divergindo da PF que sugeria preservar o ato.",
+   "votos": [
+    {
+     "diretor": "Victor Bicca",
+     "voto": "relator, dá provimento",
+     "ts": "1:06:29",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "1:10:51",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:10:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:11:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "1:10:45",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.1",
+   "ts": "1:11:42",
+   "processo": "4 processos",
+   "interessado": "diversos",
+   "assunto": "Outorga de concessões de lavra (areia e argila)",
+   "tema": [
+    "outorga de títulos minerários"
+   ],
+   "relator": "Debora Puccini",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Licenças vigentes.",
+   "votos": [
+    {
+     "diretor": "Debora Puccini",
+     "voto": "relatora, aprova",
+     "ts": "1:11:42",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:15:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:15:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "1:15:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "1:15:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2",
+   "ts": "1:12:23",
+   "processo": "27203.808313/2001 (grafia incerta)",
+   "interessado": "Sotramil Sociedade de Transportes e Mineração Ltda.",
+   "assunto": "Recurso intempestivo contra caducidade do direito de requerer lavra",
+   "tema": [
+    "recursos administrativos",
+    "fiscalização e sanções (caducidade)"
+   ],
+   "relator": "Debora Puccini",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Não conhece.",
+   "votos": [
+    {
+     "diretor": "Debora Puccini",
+     "voto": "relatora, não conhece",
+     "ts": "1:12:23",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:15:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:15:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "1:15:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "1:15:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.4",
+   "ts": "1:13:32",
+   "processo": "48410.800247/2013 (grafia incerta)",
+   "interessado": "não identificado (manganês)",
+   "assunto": "Retificação de guia de utilização (150 mil t/ano de manganês) para prazo de 3 anos compatível com nova licença ambiental",
+   "tema": [
+    "outorga de títulos minerários",
+    "guia de utilização",
+    "manganês"
+   ],
+   "relator": "Debora Puccini",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Acolhe análise técnica.",
+   "votos": [
+    {
+     "diretor": "Debora Puccini",
+     "voto": "relatora, aprova",
+     "ts": "1:13:32",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:15:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:15:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "1:15:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "1:15:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.2",
+   "ts": "1:17:34",
+   "processo": "5 processos",
+   "interessado": "diversos",
+   "assunto": "Outorga de 5 portarias de lavra",
+   "tema": [
+    "outorga de títulos minerários"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aspectos legais cumpridos.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, aprova",
+     "ts": "1:17:34",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "1:23:55",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "1:24:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:24:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "1:24:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.3",
+   "ts": "1:18:30",
+   "processo": "vários (até 4.3.5)",
+   "interessado": "diversos",
+   "assunto": "Recursos contra indeferimento de registro de licença por falta de licença ambiental ou protocolo em 60 dias",
+   "tema": [
+    "recursos administrativos",
+    "ambiental / licenciamento"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece e nega provimento.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, nega provimento",
+     "ts": "1:18:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "1:23:55",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "1:24:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:24:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "1:24:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.3.6",
+   "ts": "1:19:30",
+   "processo": "48403.2397/2017 (grafia incerta)",
+   "interessado": "Sul Comércio Construção (nome incerto)",
+   "assunto": "Recurso contra indeferimento de licença sem licença municipal e autorização do proprietário",
+   "tema": [
+    "recursos administrativos"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Nega provimento.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, nega provimento",
+     "ts": "1:19:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "1:23:55",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "1:24:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:24:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "1:24:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.3.7",
+   "ts": "1:20:12",
+   "processo": "não identificado",
+   "interessado": "Braga Extração de Areia",
+   "assunto": "Recurso contra indeferimento de licença por exigência não cumprida, sem AR do ofício",
+   "tema": [
+    "recursos administrativos"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Provimento: sem prova de notificação, violou ampla defesa.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, dá provimento",
+     "ts": "1:20:12",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "1:23:55",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "1:24:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:24:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "1:24:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.4",
+   "ts": "1:21:09",
+   "processo": "não identificado (controle 15)",
+   "interessado": "Mineração Souza Freire (grafia incerta)",
+   "assunto": "Indeferimento de requerimento de lavra (exigências não cumpridas)",
+   "tema": [
+    "outorga de títulos minerários"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Art. 31 §4º... do Decreto 9.406/2018.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, aprova",
+     "ts": "1:21:09",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "1:23:55",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "1:24:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:24:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "1:24:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.5",
+   "ts": "1:22:28",
+   "processo": "vários",
+   "interessado": "diversos",
+   "assunto": "Caducidade do direito de requerer lavra, áreas à disponibilidade",
+   "tema": [
+    "fiscalização e sanções (caducidade)",
+    "disponibilidade de área"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Prazo de 1 ano não cumprido.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, aprova",
+     "ts": "1:22:28",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "acompanha o relator",
+     "ts": "1:23:55",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "1:24:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:24:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "1:24:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.1",
+   "ts": "1:26:00",
+   "processo": "826206/1999 e cessões 826484 a 826491 (grafia incerta)",
+   "interessado": "Argila (empresa de sobrenome Galski, grafia incerta); Rodolfo Weber (terceiro prejudicado)",
+   "assunto": "Cumprimento de decisão judicial transitada em julgado: anula retificação de 2010 de coordenadas (SAD69) e portarias de lavra 174/2002 e 297/2002; áreas de Rodolfo Weber vão à assessoria de conflitos",
+   "tema": [
+    "judicialização",
+    "outorga de títulos minerários",
+    "areia",
+    "argila"
+   ],
+   "relator": "Carlos Cordeiro",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Retificação deslocou áreas sobre direitos de terceiro sem contraditório; decisão confirmada até o STF; gerará muitos ajustes internos.",
+   "votos": [
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "relator, cumpre decisão judicial (anula atos)",
+     "ts": "1:26:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:54:01",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "1:54:05",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:54:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "1:54:18",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.2",
+   "ts": "1:41:49",
+   "processo": "907700/2007 e 906132/2018 (grafia incerta)",
+   "interessado": "Águas Minerais do Nordeste; Águas Minerais Lençóis Maranhenses",
+   "assunto": "Recursos contra cobranças de CFEM (água mineral)",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "água mineral"
+   ],
+   "relator": "Carlos Cordeiro",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Nega provimento.",
+   "votos": [
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "relator, nega provimento",
+     "ts": "1:41:49",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:54:01",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "1:54:05",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:54:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "1:54:18",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.3",
+   "ts": "1:42:51",
+   "processo": "860062, 063, 064 e 068 (grafia incerta)",
+   "interessado": "Igor Tadeu Alves Veloso da Silva",
+   "assunto": "Recurso contra indeferimento de plano de requerimentos de PLG sem planta de detalhe (GO)",
+   "tema": [
+    "garimpo / PLG",
+    "recursos administrativos"
+   ],
+   "relator": "Carlos Cordeiro",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Nega provimento.",
+   "votos": [
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "relator, nega provimento",
+     "ts": "1:42:51",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:54:01",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "1:54:05",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:54:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "1:54:18",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.4",
+   "ts": "1:45:25",
+   "processo": "3 processos",
+   "interessado": "Cerâmica Barra Mansa Ltda.; V8 Extração Mineral Ltda.",
+   "assunto": "Aditamento de areia e de turfa a concessões de lavra",
+   "tema": [
+    "outorga de títulos minerários",
+    "turfa"
+   ],
+   "relator": "Carlos Cordeiro",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Tasso questionou competência para turfa; secretário-geral e procurador Maurício citaram a Portaria MME de 1995 que delega aditamentos à ANM.",
+   "votos": [
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "relator, aprova",
+     "ts": "1:45:25",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:54:01",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "1:54:05",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:54:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "1:54:18",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.5",
+   "ts": "1:46:22",
+   "processo": "4 processos",
+   "interessado": "Luís Cláudio Chaves Xavier ME; Mineração JS; Mineração Vitória; Mineração Cavalli",
+   "assunto": "Outorga de concessões de lavra (areia, granito para revestimento e brita)",
+   "tema": [
+    "outorga de títulos minerários",
+    "agregados para construção civil"
+   ],
+   "relator": "Carlos Cordeiro",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Requerimentos instruídos.",
+   "votos": [
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "relator, aprova",
+     "ts": "1:46:22",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:54:01",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "1:54:05",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:54:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "1:54:18",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.6",
+   "ts": "1:47:53",
+   "processo": "826242 a 826346/1988 (grafia incerta)",
+   "interessado": "Agro Mercantil Kraemer (grafia incerta)",
+   "assunto": "Recurso contra cancelamento de licenciamento",
+   "tema": [
+    "recursos administrativos"
+   ],
+   "relator": "Carlos Cordeiro",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Provimento: decadência do prazo para cancelar após anulação anterior (parecer PF 213/2020); segurança jurídica.",
+   "votos": [
+    {
+     "diretor": "Carlos Cordeiro",
+     "voto": "relator, dá provimento",
+     "ts": "1:47:53",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha o relator",
+     "ts": "1:54:01",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator",
+     "ts": "1:54:05",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "1:54:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Victor Bicca",
+     "voto": "acompanha o relator",
+     "ts": "1:54:18",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "processo": "1.12 (revisão de ofício, Devano/Mato Ltda., grafia incerta)",
+   "motivo": "Victor Bicca declarou-se impedido; redistribuição"
+  },
+  {
+   "processo": "4.1 (recurso relativo a opção/autorização de pesquisa, ≈ 298 processos)",
+   "motivo": "retirado por Tasso Mendonça por falta de consenso"
+  },
+  {
+   "processo": "5.2.3 (AngloGold Ashanti, recurso de CFEM)",
+   "motivo": "não relatado por Carlos Cordeiro; considerado retirado de pauta"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processos e nomes incertos.",
+  "Numeração dos itens 1.x de Bicca seguiu a ordem dos votos (o próprio relator notou divergência com a pauta).",
+  "Aline não é saudada: provavelmente ausente.",
+  "Débora presidia durante os votos de Bicca; o voto dela aparece só implicitamente."
+ ]
+}
