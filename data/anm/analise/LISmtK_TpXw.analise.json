@@ -1,0 +1,42 @@
+{
+  "meta": {"video_id": "LISmtK_TpXw", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "28ª Reunião Extraordinária Pública", "data": "2024-06-17", "formato": "videoconferência",
+    "presidente_da_sessao": "Tasso Mendonça",
+    "diretores_presentes": ["Tasso Mendonça", "Guilherme Gomes", "Roger Cabral", "Caio Seabra"],
+    "ausentes": ["diretor citado como «Malta» (de férias; grafia incerta, possivelmente Mauro Sousa)"],
+    "observacoes": ["Pauta enxuta e urgente (2 itens), por apoio aos servidores das agências reguladoras (mobilização); havia cerca de 100 processos para relatar.", "Guilherme Gomes comunica o falecimento de Fábio Lúcio Martins Júnior, gerente regional de Tocantins.", "Próxima reunião ordinária anunciada para 5 de julho."]
+  },
+  "itens": [
+    {
+      "id": "1.1", "ts": "0:04:22",
+      "processo": "Voto nº 467 (número do processo SEI não legível)", "interessado": "ANM (Gerência Regional do Rio Grande do Sul, SRG, Superintendências de Outorga, Fiscalização e Executiva)",
+      "assunto": "Resolução de prorrogação dos prazos de processos e títulos minerários vencidos e vincendos entre 01/05/2024 e 31/12/2024 com área na circunscrição da Gerência Regional do RS, em razão da calamidade das chuvas de maio de 2024",
+      "tema": ["regulação normativa (resolução)", "outorga de títulos minerários", "institucional", "calamidade Rio Grande do Sul"],
+      "relator": "Roger Cabral", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Dispensa de AIR, agenda regulatória e consulta por urgência/força maior; PFE sugeriu suspensão de prazos (como na covid), mas a nota técnica (assinada por 10 técnicos, incluindo 4 superintendentes) e o relator preferem prorrogação com termo final certo: mais simples de operar, data única, menor custo administrativo (cerca de 996 títulos afetados contra todos os títulos de prazo determinado na suspensão); cita portaria do Comitê Gestor do Simples Nacional; regulado pode pedir prorrogação adicional demonstrando prejuízo. Proclamação do secretário-geral fala em «suspensão», provável lapso.",
+      "votos": [
+        {"diretor": "Roger Cabral", "voto": "relator, aprova", "ts": "0:04:22", "justificativa": "Prorrogação com termo final certo é mais clara, eficiente e menos custosa que a suspensão; escolha é discricionariedade administrativa sob controle de legalidade.", "confianca": "alta"},
+        {"diretor": "Guilherme Gomes", "voto": "acompanha o relator", "ts": "0:16:31", "justificativa": "Experiências da casa (implantação do SEI com prorrogação; covid com suspensão) mostram que a prorrogação é mais salutar para regulado e agência; a suspensão é difícil de personalizar.", "confianca": "alta"},
+        {"diretor": "Caio Seabra", "voto": "acompanha o relator", "ts": "0:17:22", "justificativa": "Pauta muito importante; voto de acordo com o relator.", "confianca": "alta"},
+        {"diretor": "Tasso Mendonça", "voto": "acompanha o relator", "ts": "0:17:34", "justificativa": "Voto bem fundamentado.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "2.1", "ts": "0:18:28",
+      "processo": "48423.868021/2029 (legenda; número provavelmente incorreto)", "interessado": "não citado (minério de ferro, Mato Grosso do Sul)",
+      "assunto": "Prorrogação de guia de utilização com ampliação de 300.000 t/ano para 900.000 t/ano de minério de ferro por 2 anos (área de faixa de fronteira com anuência do Conselho de Defesa Nacional)",
+      "tema": ["outorga de títulos minerários (guia de utilização)", "minério de ferro"],
+      "relator": "Caio Seabra", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Gerência regional e Superintendência de Fiscalização sugeriram deferimento; anuência do CDN já obtida (ofício 331/2021); pauta levada para evitar decisão ad referendum.",
+      "votos": [
+        {"diretor": "Caio Seabra", "voto": "relator, aprova", "ts": "0:18:40", "justificativa": "Análise técnica favorável; autoriza 900.000 t/ano por 2 anos.", "confianca": "alta"},
+        {"diretor": "Guilherme Gomes", "voto": "acompanha o relator", "ts": "0:20:50", "justificativa": "", "confianca": "alta"},
+        {"diretor": "Roger Cabral", "voto": "acompanha o relator", "ts": "0:20:53", "justificativa": "", "confianca": "alta"},
+        {"diretor": "Tasso Mendonça", "voto": "acompanha o relator", "ts": "0:20:57", "justificativa": "", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Presidente chamado de «Dr Tao/Tácio» na legenda; identificado como Tasso Mendonça (inferência). «Dr Guilherme» identificado como Guilherme Gomes.", "Números de processo e documentos SEI vêm da legenda automática e podem estar errados.", "Ausente «diretor Malta» não identificado com certeza."]
+}
