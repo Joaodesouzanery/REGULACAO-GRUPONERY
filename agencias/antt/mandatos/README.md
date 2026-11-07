@@ -1,11 +1,11 @@
 # Mandatos e vacâncias — ANTT
 
-Atualizado em 2026-11-06. **Estimativas**: as datas vêm de resultados de busca (Senado, Agência iNFRA, gov.br/ANTTlegis; as páginas oficiais não puderam ser abertas diretamente) e dos votos nas transcrições. Cada linha tem confiança e fonte; confirmar no DOU.
+Atualizado em 2026-11-07. **Estimativas**: as datas vêm de resultados de busca (Senado, Agência iNFRA, gov.br/ANTTlegis; as páginas oficiais não puderam ser abertas diretamente) e dos votos nas transcrições. Cada linha tem confiança e fonte; confirmar no DOU.
 
-- Todas as vacâncias estimadas (2020–2026): 9 vacâncias · média 211 dias · mediana 191 · máx 531
+- Todas as vacâncias estimadas (2020–2026): 9 vacâncias · média 212 dias · mediana 191 · máx 531
 - Só vacâncias encerradas: 8 vacâncias · média 205 dias · mediana 178 · máx 531
-- A partir de 2023 (maior confiança): 5 vacâncias · média 151 dias · mediana 191 · máx 261
-- Fração do tempo com cadeira titular vaga desde 01/01/2023: **10.7%** dos dias-cadeira (754 de 7025).
+- A partir de 2023 (maior confiança): 5 vacâncias · média 151 dias · mediana 191 · máx 262
+- Fração do tempo com cadeira titular vaga desde 01/01/2023: **10.7%** dos dias-cadeira (755 de 7030).
 
 | Id | Cadeira | Início | Fim | Dias | Preenchida por | Interinos / substitutos | Confiança |
 |---|---|---|---|---|---|---|---|
@@ -17,7 +17,7 @@ Atualizado em 2026-11-06. **Estimativas**: as datas vêm de resultados de busca 
 | V6 | Diretoria Geral (fim do mandato de Rafael Vitale) | 2025-02-19 | 2025-08-28 | 191 | Guilherme Sampaio (DG, nomeado 29/08/2025) | Guilherme Sampaio (DG interino desde fev/2025) | alta |
 | V7 | Diretoria (vaga de Luciano Lourenço) | 2025-02-19 | 2025-08-31 | 194 | Alex Azevedo (posse ≈ 01/09/2025) | nenhum (colegiado com 3 diretores) | media |
 | V8 | Diretoria 4 (cadeira de Guilherme Sampaio, que foi para a DG) | 2025-08-29 | 2025-11-24 | 88 | Severino Medeiros Neto (posse ≈ 25/11/2025) | José Aires Amaral Filho (substituto) | media |
-| V9 | Diretoria 4 (fim do mandato de Severino Neto em 18/02/2026) | 2026-02-19 | em aberto | 261 | vaga em aberto em 02/11/2026 | Alessandro Baumgartner (20/02–21/08/2026); Marcelo Fonseca (24/08/2026–) | media |
+| V9 | Diretoria 4 (fim do mandato de Severino Neto em 18/02/2026) | 2026-02-19 | em aberto | 262 | vaga em aberto em 02/11/2026 | Alessandro Baumgartner (20/02–21/08/2026); Marcelo Fonseca (24/08/2026–) | media |
 
 ## Mandatos (resumo)
 

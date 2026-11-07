@@ -38,6 +38,15 @@ def add(id_, titulo, dur, fonte):
     if d and d < corte: descartados.append((titulo, "antigo")); return
     vistos[id_] = {"id": id_, "titulo": titulo, "tipo": tp, "prioridade": pr, "data": str(d) if d else None,
                    "duracao": None if dur in ("NA", "") else int(float(dur)), "agencia": canal, "duplicata_de": None, "fontes": [fonte]}
+# Aceita playlist no lugar do canal (ex.: ANM): descobre o canal dono da playlist e varre o canal INTEIRO + a playlist.
+extra_pl = []
+if os.path.exists("data/config_agencia.json"): extra_pl += json.load(open("data/config_agencia.json")).get("playlists", [])
+if canal.startswith("PL") or "list=" in canal:
+    pid0 = re.search(r"(PL[\w-]+)", canal).group(1); extra_pl.append(pid0)
+    dono = yt(f"https://www.youtube.com/playlist?list={pid0}", "%(playlist_channel_id)s\t%(channel_url)s\t%(uploader_id)s")
+    cid = next((x.split("\t")[0] for x in dono if x.split("\t")[0] not in ("", "NA")), None)
+    canal = f"channel/{cid}" if cid else canal
+    print("canal da playlist:", canal)
 for aba in ("videos", "streams", "shorts"):
     for l in yt(f"https://www.youtube.com/{canal}/{aba}", "%(id)s\t%(title)s\t%(duration)s"):
         id_, titulo, dur = (l.split("\t") + ["", ""])[:3]; add(id_, titulo, dur, aba)
@@ -50,6 +59,13 @@ for l in yt(f"https://www.youtube.com/{canal}/playlists", "%(id)s\t%(title)s"):
         add(id_, titulo, dur, "playlist:" + ptitulo)
         if id_ in vistos and vistos[id_]["tipo"] == "outro" and re.search(r"romeiros|reuni|audi[êe]ncia|workshop", ptitulo, re.I):
             vistos[id_]["tipo"], vistos[id_]["prioridade"] = tipo(ptitulo)  # classifica pelo nome da playlist
+for pid in dict.fromkeys(extra_pl):
+    for m in yt(f"https://www.youtube.com/playlist?list={pid}", "%(id)s\t%(title)s\t%(duration)s"):
+        id_, titulo, dur = (m.split("\t") + ["", ""])[:3]; add(id_, titulo, dur, "playlist_informada:" + pid)
+naplaylist = {v["id"] for v in vistos.values() if any(str(f).startswith("playlist_informada") for f in v.get("fontes", []))}
+if naplaylist:
+    fora = [v for v in vistos.values() if v["tipo"] == "diretoria" and v["id"] not in naplaylist]
+    print(f"playlist informada: {len(naplaylist)} vídeos; reuniões de diretoria FORA dela no canal: {len(fora)}")
 # data real (upload_date) só para os sem data no título e que não são «outro»
 for v in vistos.values():
     if v["data"] or v["tipo"] == "outro": continue

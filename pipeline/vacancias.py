@@ -1,10 +1,10 @@
 """Estatísticas de vacância de cadeira titular a partir de data/vacancias.json. Uso: python3 pipeline/vacancias.py [agencia]
 Gera agencias/<agencia>/mandatos/{README.md,vacancias.csv}."""
 import json, sys, os, csv, datetime, statistics
-ag = sys.argv[1] if len(sys.argv) > 1 else "antt"
+ag = sys.argv[1] if len(sys.argv) > 1 else os.environ.get("AGENCIA", "antt")
 hoje = datetime.date.today()
 d = lambda s: datetime.date.fromisoformat(s)
-BASE = "data" if ag == "antt" else f"data/{ag}"  # ANTT (piloto) fica em data/; demais agências em data/<sigla>/
+BASE = "data" if (ag == "antt" or os.environ.get("AGENCIA") == ag) else f"data/{ag}"  # ANTT (piloto) fica em data/; demais agências em data/<sigla>/
 V = json.load(open(f"{BASE}/vacancias.json"))
 for v in V:
     v["dias"] = ((d(v["fim"]) if v["fim"] else hoje) - d(v["inicio"])).days + 1; v["aberta"] = v["fim"] is None
@@ -31,6 +31,7 @@ md += ["", "## Mandatos (resumo)", "", "Ver `data/mandatos.json` (campos: nomea�
        "", "## Para outras agências", "Repita com `data/<agencia>/vacancias.json` no mesmo formato e rode `python3 pipeline/vacancias.py <agencia>`; a média de vacância por agência fica em `agencias/<agencia>/mandatos/README.md`."]
 open(f"agencias/{ag}/mandatos/README.md", "w").write("\n".join(md) + "\n"); print("\n".join(md[4:9]))
 
+RR = os.environ.get("REPO_ROOT", "."); os.chdir(RR)
 # Comparativo entre agências (todas com data/[<sigla>/]vacancias.json): agencias/VACANCIA_AGENCIAS.md
 linhas = ["# Vacância de diretoria por agência (comparativo)", "", f"Atualizado em {hoje} (vacâncias em aberto contam até hoje). Gerado por `pipeline/vacancias.py`.", "",
           "| Agência | Vacâncias | Média (dias) | Mediana | Máx | Em aberto hoje | % dias-cadeira vagos desde 2023 |", "|---|---|---|---|---|---|---|"]

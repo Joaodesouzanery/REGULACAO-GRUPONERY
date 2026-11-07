@@ -22,10 +22,18 @@
 - `cuidados-pipeline` (checklist antes de commit + `pipeline/checar_integridade.py`) · `resposta-com-evidencia` (ficha fixa: `consulta.py ficha`) · `vacancia-agencia` (`vacancias.py` + `agencias/VACANCIA_AGENCIAS.md`) · `relatorio-cliente` (`pipeline/relatorio.py`, pasta `clientes/` fora do git; ver `docs/PRODUTO_CONSULTORIA.md`).
 - Todo voto tem `trecho` literal (legenda a partir do minuto) e `trecho_tipo` (`fala_no_minuto` ou `janela_do_item`).
 
+## Várias agências
+- ANTT (piloto) usa a raiz: `data/`, `agencias/antt/`. Outras agências: `data/<sigla>/` (config em `data/<sigla>/config_agencia.json`: diretores, apelidos, temas, playlists, URL das atas) e `agencias/<sigla>/`.
+- Qualquer script para outra agência: `bash pipeline/ag.sh anm python3 pipeline/<script>.py ...` (ex.: `05_indexar.py`, `consulta.py ficha "Mauro Sousa"`, `organizar.py`, `vacancias.py`).
+- ANM: config, mandatos (12 nomes 2018–2026, com fontes) e vacâncias iniciais prontos; **falta a coleta no Mac** (abaixo). Atas oficiais da ANM: gov.br/anm/…/atas-da-rop (trazem link do vídeo) → usar como gabarito.
+
 ## No Mac (o que só ele faz)
 1. Ficar no branch certo: `git fetch origin && git checkout claude/antt-directors-speeches-analysis-93r9hi && git pull`.
 2. Whisper (aprovado para as 4 reuniões sem legenda): `brew install ffmpeg` (uma vez) e `caffeinate -i bash pipeline/whisper_mac.sh`.
-3. DOU (posses): seguir `docs/BAIXAR_DOU_NO_MAC.md`.
+3. DOU (posses) pelo terminal: cadastro gratuito no INLABS (https://inlabs.in.gov.br), depois
+   `export INLABS_EMAIL='...' INLABS_SENHA='...'` e `python3 pipeline/baixar_dou_mac.py` (ANTT) / `python3 pipeline/baixar_dou_mac.py --agencia anm`; depois `git add data/fontes_dou && git commit -m DOU && git push`.
+4. ANM, coleta completa: `caffeinate -i bash pipeline/coletar_tudo_e_enviar.sh anm PLoP8nQ7f1EABonZ_nYkKU9xsGx6L6PjY8` (varre o canal inteiro da ANM + a playlist e diz quantas reuniões estão fora dela); sem legenda: `caffeinate -i bash pipeline/whisper_mac.sh --agencia anm`.
+5. Relatório de cliente (PDF, Grupo Nery): gerado no chat (`pipeline/relatorio.py`); imagens de setor em `docs/marca/setores/<setor>.jpg`.
 
 ## Comandos
 ```

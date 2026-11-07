@@ -50,7 +50,8 @@ def perfil(d, tema=None):
         out.append(f"- **RD {r['numero']} ({r['data']})**, item {r['item']} — {r['assunto'][:140]} · voto: *{r['voto']}* ({r['categoria']}, conf. {r['confianca']})"
                    + (f" · «{r['justificativa']}»" if r["justificativa"] else "") + f" · [vídeo]({link(r['video_id'], r['ts'])}) · resultado: {r['resultado'][:70]}")
     return "\n".join(out)
-QUAL = "conferência cega: ≈ 94–95% de concordância nos votos por diretor (2019–2026; 2019 é o ano mais fraco); mede consistência, não verdade absoluta (agencias/antt/qualidade/README.md)"
+import os
+QUAL = ("conferência cega: ≈ 94–95% de concordância nos votos por diretor (2019–2026; 2019 é o ano mais fraco); mede consistência, não verdade absoluta (agencias/antt/qualidade/README.md)" if os.environ.get("AGENCIA", "antt") == "antt" else f"conferência cega: ver agencias/{os.environ.get("AGENCIA", "antt")}/qualidade/README.md (mede consistência, não verdade absoluta)")
 def ficha(d, tema=None, n_ev=5):
     """Ficha fixa: 1 resposta curta · 2 números · 3 evidências com trecho literal · 4 contra-exemplos · 5 falas em eventos · 6 confiança e lacunas."""
     q = "select v.*, i.item, i.assunto, i.resultado, i.unanime, i.relator, i.ts its, r.numero, r.data, r.video_id from votos v join itens i on i.id=v.item_id join reunioes r on r.id=i.reuniao_id where v.diretor=?"
@@ -72,7 +73,7 @@ def ficha(d, tema=None, n_ev=5):
     passo = max(len(ev) // n_ev, 1)
     for r in ev[::passo][:n_ev]:
         L.append(f"- **RD {r['numero']} ({r['data']}), item {r['item']}** — {r['assunto'][:150]} · voto: *{r['voto']}* · justificativa: «{r['justificativa'] or '—'}» · resultado: {r['resultado'][:80]}"
-                 + f"\n  - trecho ({r['trecho_tipo']}): «{(r['trecho'] or '—')[:280]}…» · [vídeo no minuto]({link(r['video_id'], r['ts'] or r['its'])})")
+                 + f"\n  - trecho ({r['trecho_tipo']}): «{(r['trecho'] or '—')[:280]}…» · [vídeo no minuto](https://www.youtube.com/watch?v={r['video_id']}&t={max((r['trecho_t'] or 0) - 3, 0)}s)")
     L += ["", "**4. Contra-exemplos / fora do padrão:**"]
     for r in div[-n_ev:] or []:
         L.append(f"- RD {r['numero']} ({r['data']}), item {r['item']} · {r['categoria']}: *{r['voto']}* · «{r['justificativa'] or '—'}» · [vídeo]({link(r['video_id'], r['ts'] or r['its'])})")

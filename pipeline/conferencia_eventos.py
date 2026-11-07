@@ -4,7 +4,7 @@ Uso: conferencia_eventos.py trechos   -> confere AUTOMATICAMENTE se cada trecho 
      conferencia_eventos.py comparar  -> compara respostas cegas (data/qualidade/eventos/respostas/*.json) com as análises e grava o relatório.
 Relatório: agencias/antt/qualidade/conferencia_eventos.md (+ .csv)."""
 import json, glob, os, re, sys, random, difflib, csv, collections, unicodedata
-D = "data/qualidade/eventos"; os.makedirs(D + "/respostas", exist_ok=True); OUT = "agencias/antt/qualidade"; os.makedirs(OUT, exist_ok=True)
+D = "data/qualidade/eventos"; os.makedirs(D + "/respostas", exist_ok=True); OUT = f"agencias/{os.environ.get("AGENCIA", "antt")}/qualidade"; os.makedirs(OUT, exist_ok=True)
 def norm(s): return re.sub(r"[^a-z0-9 ]+", "", unicodedata.normalize("NFKD", (s or "").lower()).encode("ascii", "ignore").decode())
 def sec(ts):
     p = [int(x) for x in re.findall(r"\d+", ts or "")][-3:]

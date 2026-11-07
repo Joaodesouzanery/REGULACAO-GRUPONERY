@@ -7,10 +7,10 @@ for v in rows:
     if v["tipo"] == "outro" or v.get("duplicata_de"): continue
     y = v["data"][:4] if v["data"] else "sem data"
     k = (y, v["tipo"])
-    tr = os.path.exists(f"data/transcricoes/{v['id']}.json"); an = os.path.exists(f"data/analise/{v['id']}.analise.json")
+    tr = os.path.exists(f"data/transcricoes/{v['id']}.json"); an = os.path.exists(f"data/analise/{v['id']}.analise.json") or os.path.exists(f"data/analise_eventos/{v['id']}.evento.json")
     tab[k][0] += 1; tab[k][1] += tr; tab[k][2] += an
     if v["tipo"] == "diretoria" and tr and not an: pend.append((v["data"] or "", v["titulo"][:70], v["id"]))
-out = [f"# Cobertura da base (atualizado em {datetime.date.today()})\n", "Janela de coleta: últimos 2 anos pelo título (reuniões sem data ficam em 's/data').\n",
+out = [f"# Cobertura da base (atualizado em {datetime.date.today()})\n", "Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de diretoria com votos estruturados ou evento com resumo/falas estruturados.\n",
        "| Ano | Tipo | Publicados | Transcritos | Analisados |", "|---|---|---|---|---|"]
 for (y, t), (a, b, c) in sorted(tab.items(), reverse=True): out.append(f"| {y} | {t} | {a} | {b} | {c} |")
 out += ["", "## Reuniões de diretoria transcritas e ainda sem análise", ""] + [f"- {d} · {t} · `{i}`" for d, t, i in sorted(pend, reverse=True)]

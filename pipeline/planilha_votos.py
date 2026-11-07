@@ -5,7 +5,8 @@ import sqlite3, json, sys, re, collections, os
 from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill, Alignment
 from openpyxl.utils import get_column_letter
-OUT = sys.argv[1] if len(sys.argv) > 1 else "agencias/antt/exportacoes/votos_diretores.xlsx"
+AGS = os.environ.get("AGENCIA", "antt")
+OUT = sys.argv[1] if len(sys.argv) > 1 else f"agencias/{AGS}/exportacoes/votos_diretores.xlsx"
 c = sqlite3.connect("data/regulacao.db")
 def segs(ts):
     p = [int(x) for x in re.findall(r"\d+", ts or "")][-3:]
@@ -35,12 +36,12 @@ V = c.execute("""select v.diretor, r.data, r.numero, r.video_id, i.id, i.item, i
 mand = {m["diretor"]: m for m in json.load(open("data/mandatos.json"))}
 # Leia-me
 ws = wb.active; ws.title = "Leia-me"
-for l in ["Votos dos diretores da ANTT em reuniões públicas de diretoria (YouTube @canalANTT)", "",
+for l in [f"Votos dos diretores da {AGS.upper()} em reuniões públicas de diretoria (YouTube oficial da agência)", "",
           f"Base: {len({v[3] for v in V})} reuniões, {len({v[4] for v in V})} itens, {len(V)} votos, de {min(v[1] for v in V if v[1])} a {max(v[1] for v in V if v[1])}.",
           "Fonte: legenda AUTOMÁTICA do YouTube, lida e estruturada por IA. Nomes, números e valores podem conter erros de transcrição.",
           "Categorias de voto: relator (relatou o item); acompanha (votou com o relator); revisor_acompanha / revisor_diverge; vista (pediu vista); vencido (voto vencido); outro (abstenção, impedimento, ressalva etc.); nao_captado.",
           "Quem só «acompanha» raramente fala: o minuto do link é o do item, aproximado.", "Trecho literal: frase da legenda a partir do minuto do voto (até 30 s). Tipo «fala_no_minuto» = relator/vista/voto-vista/vencido (o diretor fala ali); «janela_do_item» = quem só acompanha (o trecho é do momento do item, não necessariamente a fala dele).",
-          "Qualidade (conferência cega): 2019–2024 ≈ 93% de concordância em relator, resultado e voto; ver agencias/antt/qualidade/ para 2025–2026 e eventos. Mede consistência, não verdade absoluta.",
+          f"Qualidade (conferência cega): ver agencias/{AGS}/qualidade/ para 2025–2026 e eventos. Mede consistência, não verdade absoluta.",
           "Itens sigilosos e reuniões sem legenda não estão aqui (ver sem_transcricao.md). Mandatos: datas estimadas quando não confirmadas (coluna confiança).",
           "Gerado por pipeline/planilha_votos.py; regenere após cada atualização da base."]:
     ws.append([l])

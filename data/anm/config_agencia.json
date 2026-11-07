@@ -1,0 +1,92 @@
+{
+ "sigla": "anm",
+ "nome": "Agência Nacional de Mineração",
+ "canal": "",
+ "playlists": [
+  "PLoP8nQ7f1EABonZ_nYkKU9xsGx6L6PjY8"
+ ],
+ "atas_url": "https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop",
+ "diretores": [
+  "Victor Bicca",
+  "Tasso Mendonça",
+  "Eduardo Leão",
+  "Tomás Filho",
+  "Debora Puccini",
+  "Ronaldo Lima",
+  "Mauro Sousa",
+  "Roger Cabral",
+  "Caio Seabra",
+  "José Fernando Gomes",
+  "Cláudio Freire",
+  "Fábio Borges"
+ ],
+ "alias": {
+  "Victor Bicca": "bicca|victor hugo",
+  "Tasso Mendonça": "tasso",
+  "Eduardo Leão": "eduardo|le[ãa]o\\b",
+  "Tomás Filho": "tom[áa]s",
+  "Debora Puccini": "d[ée]bora|puccini",
+  "Ronaldo Lima": "ronaldo",
+  "Mauro Sousa": "mauro",
+  "Roger Cabral": "roger|cabral",
+  "Caio Seabra": "caio|seabra|trivellato",
+  "José Fernando Gomes": "jos[ée] fernando|fernando gomes",
+  "Cláudio Freire": "cl[áa]udio|freire",
+  "Fábio Borges": "f[áa]bio|borges"
+ },
+ "rx_nomes": "victor|bicca|tasso|eduardo|tom[áa]s|d[ée]bora|ronaldo|mauro|roger|caio|jos[ée] fernando|cl[áa]udio|f[áa]bio",
+ "temas": [
+  [
+   "outorga_titulos",
+   "outorga|alvar[áa]|portaria de lavra|concess[ãa]o de lavra|requerimento de pesquisa|t[íi]tulo miner|disponibilidade de [áa]rea|leil[ãa]o de [áa]reas"
+  ],
+  [
+   "barragens_seguranca",
+   "barrage|seguran[çc]a de barragem|PAEBM|descaracteriza"
+  ],
+  [
+   "fiscalizacao_sancoes",
+   "fiscaliza|san[çc]|multa|caducidade|infra[çc]|auto de"
+  ],
+  [
+   "cfem_arrecadacao",
+   "CFEM|compensa[çc][ãa]o financeira|royalt|arrecada|TAH|taxa anual"
+  ],
+  [
+   "regulacao_normativa",
+   "resolu[çc]|norma|regulament|agenda regulat|AIR\\b"
+  ],
+  [
+   "garimpo_pla",
+   "garimp|PLG|permiss[ãa]o de lavra garimpeira|ouro"
+  ],
+  [
+   "agregados_construcao",
+   "areia|brita|agregad|argila|calc[áa]rio|registro de licen"
+  ],
+  [
+   "minerais_criticos",
+   "cr[íi]tic|estrat[ée]gic|terras raras|l[íi]tio|n[íi]quel|grafita|pot[áa]ssio"
+  ],
+  [
+   "recursos_recursais",
+   "recurso|reconsidera|revis[ãa]o de decis"
+  ],
+  [
+   "institucional",
+   "institucional|governan|regimento|ata|procedimento|or[çc]amento|pessoal"
+  ],
+  [
+   "judicializacao",
+   "judicial|STF|TRF|liminar|AGU"
+  ],
+  [
+   "participacao_social",
+   "audi[êe]ncia|consulta p[úu]blica|participa[çc]"
+  ],
+  [
+   "ambiental_social",
+   "ambient|socioambient|ind[íi]gena|ESG|fechamento de mina"
+  ]
+ ]
+}

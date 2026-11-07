@@ -3,6 +3,9 @@ import json, glob, re, sqlite3, os
 DIRETORES = ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alex Azevedo", "Marcelo Fonseca", "Alessandro Baumgarten", "Amaral Filho", "Severino Medeiros", "Rafael Vitale", "Luciano Lourenço", "Davi Barreto", "Fábio Rogério", "Cristiano Della Giustina", "Alexandre Porto", "Marcelo Vinaud", "Weber Ciloni", "Eduardo Marra", "Menezes (nome incerto)", "Mário Rodrigues Junior", "Elisabeth Braga"]
 ALIAS = {"Mário Rodrigues Junior": r"m[áa]rio|rodrigues j", "Elisabeth Braga": r"elisabeth|elizabete|elizabeth", "Alexandre Porto": r"alexandre|\bporto\b", "Marcelo Vinaud": r"vinaud|vinor|renn[óo]r?\b", "Weber Ciloni": r"weber|ciloni|cilloni", "Eduardo Marra": r"marra", "Menezes (nome incerto)": r"menezes|moacir", "Amaral Filho": r"amaral", "Guilherme Sampaio": r"guilherme", "Felipe Queiroz": r"felipe", "Lucas Asfor": r"lucas",
          "Alex Azevedo": r"alex", "Marcelo Fonseca": r"marcelo", "Alessandro Baumgarten": r"alessandro", "Severino Medeiros": r"severino", "Rafael Vitale": r"vital[eií]", "Luciano Lourenço": r"luciano", "Davi Barreto": r"davi", "Fábio Rogério": r"f[áa]bio", "Cristiano Della Giustina": r"cristiano|giustina|justino"}
+# Outras agências: data/config_agencia.json (via pipeline/ag.sh) substitui diretores, apelidos, temas e nomes para falas.
+CFG_AG = json.load(open("data/config_agencia.json")) if os.path.exists("data/config_agencia.json") else None
+if CFG_AG: DIRETORES = CFG_AG["diretores"]; ALIAS = CFG_AG["alias"]
 def canon(s):
     s = (s or "").lower()
     for n, rx in ALIAS.items():
@@ -28,6 +31,7 @@ TEMAS = [  # (tema normalizado, regex sobre as tags livres do item)
     ("regulacao_normativa", r"regula[çc]ão normativa|resolu"),
     ("judicializacao", r"judicial|STF|TRF"),
 ]
+if CFG_AG: TEMAS = [tuple(x) for x in CFG_AG["temas"]]
 def temas_de(it):
     tags = it.get("tema") or []
     if isinstance(tags, str): tags = [tags]
@@ -62,6 +66,10 @@ def trecho_literal(vid, ts, cat, item_ts=None):
     t0 = _seg(ts) if ts else _seg(item_ts)
     S = _segs(vid)
     if t0 is None or not S: return None, None, None
+    SAUD = re.compile(r"bom dia|boa tarde|boa noite|cumpriment|sauda[çc][ãa]o|muito obrigad|meus pares|nos acompanham|canal do youtube", re.I)
+    for off in (0, 30, 60, 90):  # pula saudações/protocolo do início da fala
+        txt = " ".join(x["x"] for x in S if t0 + off - 3 <= x["t"] <= t0 + off + 30).strip()
+        if txt and len(SAUD.findall(txt)) < 2: return txt[:600], ("fala_no_minuto" if cat in FALA and ts else "janela_do_item"), t0 + off
     txt = " ".join(x["x"] for x in S if t0 - 3 <= x["t"] <= t0 + 30).strip()
     return (txt[:600] or None), ("fala_no_minuto" if cat in FALA and ts else "janela_do_item"), t0
 db = "data/regulacao.db"
@@ -125,7 +133,7 @@ for vid in vids:
 c.execute("INSERT INTO trechos_fts(rowid, texto) SELECT id, texto FROM trechos")
 # falas/menções de diretores em audiências, participativas e workshops (não são votos): trechos em que o diretor é citado ou fala com o título de diretor
 c.execute("DROP TABLE IF EXISTS falas_diretores"); c.execute("CREATE TABLE falas_diretores(video_id TEXT, t INT, diretor TEXT, tipo_video TEXT, texto TEXT, resumo TEXT, fonte TEXT, confianca TEXT)")
-RX = re.compile(r"diretor(?:a)?(?:[- ]geral)?\s+(?:dr\.?\s+|doutor\s+)?(guilherme|alex|felipe|lucas|alessandro|marcelo|severino|amaral)", re.I)
+RX = re.compile(r"diretor(?:a)?(?:[- ]geral)?\s+(?:dr\.?\s+|doutor\s+)?(" + (CFG_AG["rx_nomes"] if CFG_AG else "guilherme|alex|felipe|lucas|alessandro|marcelo|severino|amaral") + ")", re.I)
 for tid, vid, t, txt, tv in c.execute("select t.id, t.video_id, t.t, t.texto, v.tipo from trechos t join videos v on v.id=t.video_id where v.tipo in ('audiencia','participativa','workshop')").fetchall():
     for nome in {canon(m) for m in RX.findall(txt)} - {None}:
         c.execute("INSERT INTO falas_diretores VALUES(?,?,?,?,?,NULL,'heuristica',NULL)", (vid, t, nome, tv, txt))

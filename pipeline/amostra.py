@@ -44,9 +44,9 @@ def comparar():
                 n["voto_total"] += 1
                 if rv is None: n["voto_nao_localizado"] += 1; rows.append([ano, r["video_id"], r["item_id"], f"voto:{dn}", CAT(gv.get("voto")), "nao_localizado"]); continue
                 ok = rv.get("cat") == CAT(gv.get("voto")); n["voto_ok"] += ok; rows.append([ano, r["video_id"], r["item_id"], f"voto:{dn}", CAT(gv.get("voto")), rv.get("cat")])
-    os.makedirs("agencias/antt/qualidade", exist_ok=True)
+    QD = f"agencias/{os.environ.get("AGENCIA", "antt")}/qualidade"; os.makedirs(QD, exist_ok=True)
     import csv
-    with open(f"agencias/antt/qualidade/{CFG['rel']}.csv", "w", newline="") as f: w = csv.writer(f); w.writerow(["ano", "video_id", "item", "campo", "original", "conferencia"]); w.writerows(rows)
+    with open(f"{QD}/{CFG['rel']}.csv", "w", newline="") as f: w = csv.writer(f); w.writerow(["ano", "video_id", "item", "campo", "original", "conferencia"]); w.writerows(rows)
     pa = collections.defaultdict(lambda: [0, 0])
     for r_ in rows:
         if r_[3].startswith("voto:"): pa[r_[0]][1] += 1; pa[r_[0]][0] += r_[4] == r_[5]
@@ -63,5 +63,5 @@ def comparar():
     md = [f"# Conferência por amostra das análises ({RD.replace('_','–',1)})", "", f"Método: sorteio com semente fixa ({CFG['reun']} reuniões por ano, 3 itens por reunião com ≥ 3 votos); subagentes independentes releram a transcrição **sem ver a análise original** e extraíram relator, tipo de resultado e voto por diretor. Concordância:", "",
           f"- Relator: **{pc('relator_ok','relator_total')}**", f"- Resultado (unânime/maioria/vista/outro): **{pc('resultado_ok','resultado_total')}**", f"- Voto por diretor (categoria): **{pc('voto_ok','voto_total')}** · não localizado na conferência: {n['voto_nao_localizado']}", f"- Itens não encontrados na conferência: {n['item_nao_encontrado']}", "",
           "Divergências por item em `conferencia_amostra.csv`. Concordância baixa em votos de quem apenas «acompanha o relator» é esperada: a legenda não identifica falantes. Use estes números como taxa de concordância ao responder sobre os anos desta rodada.", "", "**Limites do método:** a conferência usa a mesma legenda automática e o mesmo tipo de modelo da análise original, então mede consistência (reprodutibilidade), não verdade absoluta; erros de ASR que enganam os dois leitores passam. A maior fonte de discordância é «acompanha» na análise × «voto não localizado» na conferência (a legenda não registra a fala do diretor), e os pedidos de vista/«outros» classificados de forma diferente.", "", "Taxa de voto por ano: " + POR_ANO, "", "Tipos de discordância (análise→conferência): " + POR_ANO_DIV + ". «vista→acompanha» = diretor que pediu vista e depois apresentou voto-vista convergente: a análise registra «vista», a conferência «acompanha». Desde 06/11/2026 o gabarito trata «voto-vista» como acompanha/diverge (convenção única); só quem apenas pediu vista fica «vista»."]
-    open(f"agencias/antt/qualidade/{CFG['rel']}.md", "w").write("\n".join(md + POR_DIR) + "\n"); print("\n".join(md[4:9]))
+    open(f"{QD}/{CFG['rel']}.md", "w").write("\n".join(md + POR_DIR) + "\n"); print("\n".join(md[4:9]))
 {"sortear": sortear, "comparar": comparar}[sys.argv[1]]()

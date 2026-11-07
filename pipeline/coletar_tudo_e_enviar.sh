@@ -1,17 +1,21 @@
 #!/bin/bash
 # COLETA TOTAL (rodar no Mac): inventaria TODO o canal (sem corte de ano; videos, streams, shorts e playlists),
 # baixa todas as transcrições que faltam e envia tudo ao GitHub a cada lote. Pode ser interrompido e rodado de novo.
-# Uso: cd ~/REGULACAO-GRUPONERY && git pull && caffeinate -i bash pipeline/coletar_tudo_e_enviar.sh
+# Uso: cd ~/REGULACAO-GRUPONERY && git pull && caffeinate -i bash pipeline/coletar_tudo_e_enviar.sh [sigla] [canal|playlist]
+#   ANTT (padrão): bash pipeline/coletar_tudo_e_enviar.sh
+#   ANM:           bash pipeline/coletar_tudo_e_enviar.sh anm PLoP8nQ7f1EABonZ_nYkKU9xsGx6L6PjY8
 cd "$(dirname "$0")/.." || exit 1
+REPO="$(pwd)"; SIG="${1:-antt}"; CANAL="${2:-@canalANTT}"
+if [ "$SIG" != "antt" ]; then bash pipeline/ag.sh "$SIG" true; cd "data/$SIG/.raiz" || exit 1; ALVO="data/$SIG"; else ALVO="data"; fi
 UV="$HOME/.local/bin/uv"; [ -x "$UV" ] || UV="$(command -v uv)"
 [ -z "$UV" ] && { echo "uv não encontrado. Rode: curl -LsSf https://astral.sh/uv/install.sh | sh"; exit 1; }
 RUN() { "$UV" run --python 3.12 --with "yt-dlp>=2026.1.1" --with youtube-transcript-api python "$@"; }
 BR="$(git branch --show-current)"
-enviar() { git add data COBERTURA.md sem_transcricao.md >/dev/null 2>&1
-  git commit -q -m "$1" >/dev/null 2>&1 && { git pull -q --rebase --autostash origin "$BR" >/dev/null 2>&1; git push -q origin "$BR" 2>&1 | tail -1; echo "  -> enviado ao GitHub"; }; }
+enviar() { git -C "$REPO" add "$ALVO" COBERTURA.md sem_transcricao.md >/dev/null 2>&1
+  git -C "$REPO" commit -q -m "[$SIG] $1" >/dev/null 2>&1 && { git -C "$REPO" pull -q --rebase --autostash origin "$BR" >/dev/null 2>&1; git -C "$REPO" push -q origin "$BR" 2>&1 | tail -1; echo "  -> enviado ao GitHub"; }; }
 ESPERA=${ESPERA:-10800}
 echo "=== 1/3 Inventário total do canal (pode levar alguns minutos) ==="
-RUN pipeline/01_coletar.py @canalANTT 0 | tail -12
+RUN pipeline/01_coletar.py "$CANAL" 0 | tail -12
 python3 pipeline/cobertura.py >/dev/null 2>&1; enviar "inventario total do canal (todos os anos, abas e playlists)"
 echo "=== 2/3 Transcrições (todas as faltantes, em lotes) ==="
 for ciclo in $(seq 1 80); do

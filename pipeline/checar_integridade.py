@@ -6,7 +6,7 @@ Falha (código 1) se:
  - há análise inválida (validar.py / validar_evento.py).
 --atualizar grava as contagens atuais como nova referência (use após um aumento legítimo)."""
 import subprocess, sqlite3, json, sys, os
-PROT = ("agencias/antt/qualidade/", "agencias/antt/mandatos/", "docs/", "data/analise/", "data/analise_eventos/", "data/qualidade/", "data/transcricoes/", ".claude/skills/", "data/mandatos.json", "data/vacancias.json", "CLAUDE.md")
+PROT = ("agencias/antt/qualidade/", "agencias/antt/mandatos/", "agencias/anm/qualidade/", "agencias/anm/mandatos/", "data/anm/analise", "data/anm/transcricoes/", "data/anm/qualidade/", "data/anm/mandatos.json", "docs/", "data/analise/", "data/analise_eventos/", "data/qualidade/", "data/transcricoes/", ".claude/skills/", "data/mandatos.json", "data/vacancias.json", "CLAUDE.md")
 erros = []
 sh = lambda c: subprocess.run(c, shell=True, capture_output=True, text=True).stdout
 apagados = [l[3:] for l in sh("git status --porcelain").splitlines() if l[:2].strip() == "D" or l[1] == "D"]

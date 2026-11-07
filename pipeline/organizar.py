@@ -3,7 +3,7 @@ import os
 Uso: python3 pipeline/organizar.py [antt]   (rodar depois de 05_indexar.py)
 Estrutura: reunioes/<ano>/<tipo>/<data>_<numero>_<id>/ · diretores/<nome>/ · temas/ · exportacoes/ (csv, trechos, banco)"""
 import json, os, re, shutil, sqlite3, subprocess, sys, csv, gzip, unicodedata
-ag = sys.argv[1] if len(sys.argv) > 1 else "antt"
+ag = sys.argv[1] if len(sys.argv) > 1 else os.environ.get("AGENCIA", "antt")
 R = f"agencias/{ag}"
 PRESERVAR = {"qualidade"}  # pastas mantidas à mão (não geradas aqui)
 if os.path.exists(R):
@@ -82,5 +82,5 @@ Gerado por `pipeline/organizar.py` a partir de `data/` (fonte de trabalho). Não
 - `inventario.jsonl`, `COBERTURA.md`, `sem_transcricao.md` (o que NÃO temos e por quê), `mandatos.json`.
 """)
 subprocess.run([sys.executable, "-I", "pipeline/vacancias.py", ag])
-if ag == "antt": subprocess.run([sys.executable, "-I", "pipeline/planilha_votos.py", f"{R}/exportacoes/votos_diretores.xlsx"])
+subprocess.run([sys.executable, "-I", "pipeline/planilha_votos.py", f"{R}/exportacoes/votos_diretores.xlsx"])
 print(n, "reuniões com transcrição organizadas;", len(temas), "temas;", len(os.listdir(f"{R}/diretores")), "diretores")
