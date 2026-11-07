@@ -1,0 +1,61 @@
+{
+  "meta": {"video_id": "dg4nZ5dOb-A", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "8ª Extraordinária", "data": "2020-05-08", "formato": "videoconferência",
+    "presidente_da_sessao": "Victor Bicca (Diretor-Geral); Tomás Filho presidiu o item 1.2.1 como DG substituto",
+    "diretores_presentes": ["Victor Bicca", "Eduardo Leão", "Tomás Filho", "Debora Puccini"],
+    "ausentes": ["Tasso Mendonça (problema de comunicação/deslocado; voto do item 1.2.1 lido por Victor Bicca)"],
+    "observacoes": ["Reunião por videoconferência durante a pandemia de covid-19; encerrada em ≈1h07 de vídeo.", "Eduardo Leão apresentou o «Plano Lavra» (ideia atribuída a Tasso Mendonça, por analogia ao Plano Safra): delegação de competências às superintendências/regionais, resina reciclada em água mineral, cisão/fusão/incorporação, guia de utilização, relatório final de pesquisa com vistoria remota, regime de licenciamento (Portaria 155), consulta sobre sigilo, digitalização de processos, edital de disponibilidade de áreas, garantias financeiras com títulos minerários e requerimento de pesquisa online.", "Todos os itens deliberados por unanimidade; sustentações orais inscritas (ABINAM/ABIR no 1.2.1; Vale no 1.2.2) foram declinadas ou não compareceram.", "Recorde de audiência citado por Eduardo Leão (≈140–150 espectadores) e divulgação do e-mail de redução do fardo regulatório."]
+  },
+  "itens": [
+    {
+      "id": "1.1", "ts": "0:01:58", "processo": "", "interessado": "ANM (setor regulado em geral)",
+      "assunto": "Referendo da Resolução ANM nº 30, de 30/04/2020 (DOU 05/05/2020), que prorroga a suspensão de prazos processuais até 31/05/2020 por causa da pandemia",
+      "tema": ["regulação normativa", "institucional", "pandemia covid-19"],
+      "relator": "Victor Bicca", "resultado": "referendada por unanimidade",
+      "resumo_voto": "Prorrogação da suspensão de prazos mantendo a vigência dos títulos; monitoramento da pandemia e possíveis lockdowns municipais.",
+      "votos": [
+        {"diretor": "Victor Bicca", "voto": "propõe o referendo, aprova", "ts": "0:01:58", "justificativa": "acompanhar a evolução da pandemia; prazo volta em 1º/06", "confianca": "alta"},
+        {"diretor": "Eduardo Leão", "voto": "de acordo", "ts": "0:03:02", "justificativa": "pico da pandemia em maio em muitas cidades; minerador não pode ser cerceado de acesso ao escritório ou à mina", "confianca": "alta"},
+        {"diretor": "Tomás Filho", "voto": "de acordo, no mesmo sentido", "ts": "0:03:41", "justificativa": "competência concorrente de estados e municípios em isolamento rígido; títulos seguem vigentes, quem puder trabalhar trabalha", "confianca": "alta"},
+        {"diretor": "Debora Puccini", "voto": "completamente de acordo", "ts": "0:05:29", "justificativa": "medidas para amenizar impactos da covid na mineração", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.2", "ts": "0:06:23", "processo": "", "interessado": "ANM",
+      "assunto": "Apresentação do Plano Lavra (medidas de simplificação e desburocratização durante e após a pandemia), sem deliberação",
+      "tema": ["regulação normativa", "agenda regulatória", "institucional", "pandemia covid-19", "disponibilidade de área / leilão de áreas", "garantias financeiras"],
+      "relator": "Eduardo Leão", "resultado": "apresentação informativa, sem votação",
+      "resumo_voto": "Eduardo Leão apresentou o cronograma de ações; invocou a Lei de Liberdade Econômica para dispensar consulta pública em medidas que reduzem fardo. Tomás Filho e Debora Puccini comentaram o trabalho das superintendências; Bicca associou à agenda regulatória e ao decreto que declarou a mineração atividade essencial.",
+      "votos": []
+    },
+    {
+      "id": "1.2.1", "ts": "0:28:25", "processo": "48054.000182/2020 (grafia incerta)", "interessado": "setor de água mineral (sustentação inscrita de ABINAM/ABIR, não compareceu)",
+      "assunto": "Alteração do item 4.12 da Norma Técnica 001/2009 (Portaria DNPM 374/2009) e revogação das Portarias DNPM 389/2008 e 225/2010: permite embalagem de PET pós-consumo reciclado grau alimentício (fim da exigência de resina virgem), remetendo à regulação da Anvisa",
+      "tema": ["regulação normativa", "água mineral", "ambiental", "redução de fardo regulatório"],
+      "relator": "Tasso Mendonça (voto lido por Victor Bicca)", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Remover normas dissonantes com a Anvisa; reconhecer a especialidade da Anvisa sobre materiais de embalagem; acolhidas sugestões a e c do parágrafo 31 da nota da Procuradoria; não alterar dizeres de rótulo para evitar sobreposição com a RDC Anvisa 20/2008.",
+      "votos": [
+        {"diretor": "Victor Bicca", "voto": "lê o voto do relator e vota favorável", "ts": "0:41:45", "justificativa": "anseio antigo do segmento de água mineral; adequar à norma da Anvisa", "confianca": "media"},
+        {"diretor": "Debora Puccini", "voto": "favorável", "ts": "0:42:09", "justificativa": "evolução que permite usar PET reciclado na fabricação de embalagens", "confianca": "alta"},
+        {"diretor": "Eduardo Leão", "voto": "de acordo com o relator", "ts": "0:42:34", "confianca": "media"},
+        {"diretor": "Tomás Filho", "voto": "acompanha o relator", "ts": "0:42:40", "justificativa": "água mineral tem importância reconhecida; redução do fardo regulatório e melhoria do ambiente de negócios", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.2", "ts": "0:43:18", "processo": "", "interessado": "setor mineral; Vale S.A. (sustentação declinada por Solange Costa e Luiza Mello); Ferbasa inscrita sem comparecer",
+      "assunto": "Inclusão de parágrafo único no art. 246 da Portaria de Consolidação DNPM 155/2016: sucessora em incorporação, fusão ou cisão pode realizar pesquisa/lavra enquanto pendente a averbação",
+      "tema": ["regulação normativa", "outorga de títulos minerários", "cessão / averbação de direitos minerários", "redução de fardo regulatório", "AIR"],
+      "relator": "Eduardo Leão", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Simplificação alinhada ao Parecer 85/2020 e Nota 461/2020 da PFE; dispensa de AIR e participação social por não afetar substancialmente direitos, apesar da recomendação de prudência da Procuradoria; reforça regulamento interno sobre hipóteses de dispensa de AIR.",
+      "votos": [
+        {"diretor": "Eduardo Leão", "voto": "relator, aprova", "ts": "0:54:26", "justificativa": "desburocratização; evita fiscalizar empresa extinta em vez do titular correto; urgência na pandemia", "confianca": "alta"},
+        {"diretor": "Tomás Filho", "voto": "acompanha o relator", "ts": "0:55:38", "justificativa": "correção histórica de distorção (limbo até averbação); reconhece superintendências de pesquisa e produção", "confianca": "alta"},
+        {"diretor": "Debora Puccini", "voto": "a favor", "ts": "0:57:28", "confianca": "alta"},
+        {"diretor": "Victor Bicca", "voto": "acompanha o relator", "ts": "0:57:29", "justificativa": "temas antes resolvidos em gabinete agora tratados de forma aberta; remoção de fardo regulatório obsoleto", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática; número do processo do item 1.2.1 e nomes de entidades (ABINAM/ABIR, «Maurício» da PFE) incertos.", "Ordem dos votos do 1.2.1 inferida: quem disse 'eu também acompanho' ao final foi atribuído a Tomás Filho (presidente do item).", "Reunião lida integralmente."]
+}
