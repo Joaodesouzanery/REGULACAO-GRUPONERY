@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **134** · sem /diretoria: 7; 2026/participativa: 1; 2026/audiencia: 2; 2025/participativa: 2; 2025/diretoria: 1; 2025/audiencia: 2; 2024/participativa: 1; 2024/diretoria: 20; 2024/audiencia: 3; 2023/participativa: 7; 2023/diretoria: 12; 2023/audiencia: 3; 2022/participativa: 1; 2022/diretoria: 16; 2022/audiencia: 3; 2021/diretoria: 17; 2021/audiencia: 6; 2020/diretoria: 22; 2020/audiencia: 1; 2019/diretoria: 7
+Total: **122** · sem /diretoria: 7; 2026/participativa: 1; 2026/audiencia: 2; 2025/participativa: 2; 2025/audiencia: 2; 2024/participativa: 1; 2024/diretoria: 9; 2024/audiencia: 3; 2023/participativa: 7; 2023/diretoria: 12; 2023/audiencia: 3; 2022/participativa: 1; 2022/diretoria: 16; 2022/audiencia: 3; 2021/diretoria: 17; 2021/audiencia: 6; 2020/diretoria: 22; 2020/audiencia: 1; 2019/diretoria: 7
 
 - 2026-10-08 · participativa · Open Participatory Meeting No. 03/2026 - Regulatory Sandbox in the Mineral Secto · https://www.youtube.com/watch?v=Aw6lgA7K1hU · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-09-11 · audiencia · Audiência Pública ANM nº 2/2026 - Segurança de Pilhas de Mineração · https://www.youtube.com/watch?v=HXhNiNtHUNA · **ainda não baixado (rodar a coleta no Mac)**
@@ -10,20 +10,8 @@ Total: **134** · sem /diretoria: 7; 2026/participativa: 1; 2026/audiencia: 2; 2
 - 2025-11-19 · audiencia · Public Hearing No. 2/2025: Notice of the 9th Round of Area Availability. · https://www.youtube.com/watch?v=mVg2n5z1VR0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-06-11 · audiencia · Audiência Pública nº 1/2025: Atualização da Resolução ANM nº 95/2022 (Barragens  · https://www.youtube.com/watch?v=4bxNtPtNut8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-02-05 · participativa · Reunião Participativa ANM nº 2/2025: Desistência de Requerimentos de Outorga Min · https://www.youtube.com/watch?v=9pGFNB4Tf0o · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-01-30 · diretoria · 70ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · https://www.youtube.com/watch?v=hETIUYUx-48 · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-01-28 · participativa · Reunião Participativa ANM nº1/2025 – Garantias Financeiras - 28/01/2025 · https://www.youtube.com/watch?v=ZDiMW2CyBBc · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-12-18 · diretoria · 69ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · https://www.youtube.com/watch?v=PPaw9lNsgZo · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-12-06 · diretoria · 31ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · https://www.youtube.com/watch?v=oyWHiNXpYkE · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-12-02 · diretoria · 68ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · https://www.youtube.com/watch?v=gcl-4SBqMu0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-11-23 · diretoria · 30ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · https://www.youtube.com/watch?v=x_q7U7MZEZQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-11-08 · diretoria · 29ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM · https://www.youtube.com/watch?v=GVCVhAj980Y · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-11-05 · diretoria · 67ª Reunião Ordinária Pública da Diretoria Colegiada da ANM - Parte 01. · https://www.youtube.com/watch?v=chQHqLzOYLM · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-11-04 · diretoria · 67ª Reunião Ordinária Pública da Diretoria Colegiada da ANM - Parte 02. · https://www.youtube.com/watch?v=EpUH2BErxWU · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-10-07 · diretoria · 66ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · https://www.youtube.com/watch?v=R2yoGhSB0kM · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-10-03 · audiencia · Audiência Pública nº 3/2024: Regulamentação do processo sancionador da ANM · https://www.youtube.com/watch?v=4SnoS1_SqQ0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-08-26 · diretoria · 65ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · https://www.youtube.com/watch?v=GM7THmHd4zU · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-07-31 · diretoria · 64ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · https://www.youtube.com/watch?v=_IeZwId2D0w · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-07-08 · diretoria · 63ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · https://www.youtube.com/watch?v=8Fj3c7cQucw · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-06-17 · diretoria · 28th Extraordinary Public Meeting of the Board of Directors 20240617 095600 Meet · https://www.youtube.com/watch?v=LISmtK_TpXw · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-06-12 · participativa · REUNIÃO PARTICIPATIVA nº 1/2024 - Fechamento/Reabilitação de Minas - 12/06/2024 · https://www.youtube.com/watch?v=wNA9g5iLWn8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-05-28 · diretoria · 62ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · https://www.youtube.com/watch?v=FMURCcvbgzk · **ainda não baixado (rodar a coleta no Mac)**
