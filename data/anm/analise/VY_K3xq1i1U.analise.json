@@ -1,0 +1,364 @@
+{
+ "meta": {
+  "video_id": "VY_K3xq1i1U",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "1ª Reunião Extraordinária Pública",
+  "data": "2019-09-06",
+  "formato": "presencial (sala da ANM)",
+  "presidente_da_sessao": "Diretor-Geral substituto (nome não identificado na legenda); Victor Bicca de férias",
+  "diretores_presentes": [
+   "Tasso Mendonça",
+   "Eduardo Leão",
+   "Tomás Filho",
+   "Debora Puccini"
+  ],
+  "ausentes": [
+   "Victor Bicca (férias)"
+  ],
+  "observacoes": [
+   "Data falada na abertura: sexta-feira, 6 de setembro de 2019 (o título/cabeçalho traz 2020-05-26, provável data de publicação do vídeo).",
+   "Reunião convocada para dar vazão a processos herdados da antiga Diretoria-Geral (transferências, guias, reservas).",
+   "Item 3: Tomás Filho sugeriu converter o voto em diligência."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:55",
+   "processo": "10454/1971? (legenda: 104541/1971)",
+   "interessado": "Sigma Mineração (ex-Araçuaí Mineração)",
+   "assunto": "Requerimento de concessão de lavra de 1981 com PAE desatualizado; pedido de prorrogação/alvará de pesquisa complementar; novo relatório de reservas e novo PAE apresentados espontaneamente em 2019",
+   "tema": [
+    "outorga de títulos minerários",
+    "concessão de lavra / requerimento de lavra",
+    "morosidade administrativa",
+    "minerais críticos e estratégicos (lítio, a confirmar)"
+   ],
+   "relator": "Eduardo Leão",
+   "resultado": "aprovado (unanimidade inferida)",
+   "resumo_voto": "Contra o parecer jurídico (que sugeria indeferir), remete à SPM para analisar se o novo PAE altera significativamente o anterior: se sim, prossegue; se for mera complementação protelatória, indefere (art. 41). Propõe entendimento geral: PAE com defasagem de mais de 10 anos por morosidade do poder público pode ser atualizado. Houve memorial/sustentação.",
+   "votos": [
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "relator, remete à SPM e propõe tese geral de atualização de PAE",
+     "ts": "0:12:30",
+     "confianca": "media",
+     "justificativa": "37 anos de processo; morosidade do DNPM (18 anos sem movimentação); PAE essencial à fiscalização"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "acompanha o relator (falante inferido)",
+     "ts": "0:15:30",
+     "confianca": "baixa",
+     "justificativa": "demora da administração não pode prejudicar o interessado; cessionários de boa-fé; exigência ambiental inadequada; precedente com licença juntada durante a análise"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha (inferido)",
+     "ts": "0:17:39",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha (inferido)",
+     "ts": "0:17:39",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:17:57",
+   "processo": "868099/1999? (número incerto)",
+   "interessado": "Salioni Engenharia Indústria e Comércio",
+   "assunto": "Indeferimento de requerimento de lavra de areia e cascalho no rio Paranapanema (Santa Rita do Pardo, MS) por não apresentar licença ambiental em 180 dias",
+   "tema": [
+    "outorga de títulos minerários",
+    "agregados para construção civil",
+    "ambiental / licenciamento"
+   ],
+   "relator": null,
+   "resultado": "indeferimento aprovado (unanimidade inferida)",
+   "resumo_voto": "Sem pedido de prorrogação; recomenda delegar indeferimentos de requerimento de lavra à SPM (desburocratização). Outro diretor comenta dificuldade de licenciamento entre dois estados (IBAMA) e defende que recurso fique no colegiado.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha (unanimidade inferida)",
+     "ts": "0:23:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha (unanimidade inferida)",
+     "ts": "0:23:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "acompanha (unanimidade inferida)",
+     "ts": "0:23:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha (unanimidade inferida)",
+     "ts": "0:23:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "relator não identificado",
+     "voto": "relator, indefere",
+     "ts": "0:21:30",
+     "confianca": "baixa",
+     "justificativa": "descumprimento de exigência em 180 dias (art. 31 §3º Decreto 9.406/2018)"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:23:25",
+   "processo": "48400.5005/2018? e 48429.9104/2017 (EDP Transmissão Linhares 2 – São Mateus)",
+   "interessado": "ETB – Empresa de Transmissão Baiana; EDP Transmissão",
+   "assunto": "Bloqueio de áreas para linha de transmissão 500 kV Juazeiro III – Ourolândia II (BA) com sobreposição a 31 processos minerários",
+   "tema": [
+    "bloqueio de áreas",
+    "conflito mineração x energia elétrica",
+    "outorga de títulos minerários"
+   ],
+   "relator": null,
+   "resultado": "convertido em diligência à SRM (unanimidade)",
+   "resumo_voto": "Não comprovada a incompatibilidade nem a superação do interesse público (art. 42 do Código; Parecer PROGE 500/2008); por sugestão de Tomás Filho o voto foi convertido em diligência; mesmo tratamento ao processo da EDP. Comentário crítico ao setor elétrico «mal acostumado» a bloquear.",
+   "votos": [
+    {
+     "diretor": "relator não identificado",
+     "voto": "relator: retorno à SRM para nova instrução",
+     "ts": "0:30:00",
+     "confianca": "baixa",
+     "justificativa": "faltam elementos de ambos os lados; contraditório dos mineradores"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "sugere converter em diligência",
+     "ts": "0:34:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha (inferido)",
+     "ts": "0:36:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha (inferido)",
+     "ts": "0:36:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha (inferido)",
+     "ts": "0:36:40",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:37:06",
+   "processo": "bloco de cerca de 67 processos (sorteio de 27/08/2019)",
+   "interessado": "vários",
+   "assunto": "Anuência prévia de transferências: incorporação, arrendamento, cessões totais/parciais, penhora de PLG, indisponibilidades judiciais, cisão, desmembramento, sucessão causa mortis; negativa de cessão do 800321/1988 (Química Industrial Brasil, grafia incerta)",
+   "tema": [
+    "cessão de direitos / anuência prévia",
+    "judicialização (indisponibilidade/penhora)"
+   ],
+   "relator": null,
+   "resultado": "aprovado (unanimidade inferida)",
+   "resumo_voto": "Colegiado herdou competências do DG e decide para não devolver mais de 700 processos; tema será objeto de delegação.",
+   "votos": [
+    {
+     "diretor": "relator não identificado",
+     "voto": "relator, aprova bloco",
+     "ts": "0:46:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha (inferido)",
+     "ts": "0:48:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha (inferido)",
+     "ts": "0:48:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "acompanha (inferido)",
+     "ts": "0:48:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha (inferido)",
+     "ts": "0:48:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:48:09",
+   "processo": "25 guias de utilização (processo SEI 48050.003250/2019, despacho 384)",
+   "interessado": "vários (agregados para construção civil)",
+   "assunto": "Convalidação de 25 guias de utilização assinadas pelo DG entre abril e junho de 2019 sem deliberação prévia do colegiado",
+   "tema": [
+    "guia de utilização",
+    "convalidação de atos",
+    "agregados para construção civil",
+    "institucional"
+   ],
+   "relator": null,
+   "resultado": "convalidado (unanimidade inferida)",
+   "resumo_voto": "Defeito sanável (Lei 9.784/99), sem lesão a interesse público; segurança jurídica. Correção: é a ANM, não a União, que promove a regularização.",
+   "votos": [
+    {
+     "diretor": "relator não identificado",
+     "voto": "relator, convalida",
+     "ts": "0:53:44",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha (inferido)",
+     "ts": "0:54:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha (inferido)",
+     "ts": "0:54:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "acompanha (inferido)",
+     "ts": "0:54:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha (inferido)",
+     "ts": "0:54:10",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:54:21",
+   "processo": "866086/2014 a 866111/2014 (26 processos)",
+   "interessado": "«Abade» Mostrando Correia (grafia incerta)",
+   "assunto": "Pedido de reconsideração contra indeferimento de 26 requerimentos de PLG de ouro (Nossa Senhora do Livramento, MT) sobre áreas oneradas por alvarás de pesquisa",
+   "tema": [
+    "garimpo / PLG",
+    "recursos administrativos",
+    "ouro"
+   ],
+   "relator": null,
+   "resultado": "reconsideração conhecida e desprovida (unanimidade inferida)",
+   "resumo_voto": "PLG em área onerada só para cooperativas (art. 8º Estatuto do Garimpeiro); 26 processos de uma mesma pessoa física. A legenda diz «mantendo a decisão pelo deferimento», provável erro por indeferimento.",
+   "votos": [
+    {
+     "diretor": "relator não identificado",
+     "voto": "relator, nega provimento",
+     "ts": "0:58:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha (inferido)",
+     "ts": "0:59:23",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha (inferido)",
+     "ts": "0:59:23",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "acompanha (inferido)",
+     "ts": "0:59:23",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha (inferido)",
+     "ts": "0:59:23",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "1:00:46",
+   "processo": "36 processos (lista lida, números incertos)",
+   "interessado": "vários",
+   "assunto": "Aprovação de relatórios de avaliação/reavaliação de reservas acumulados da antiga Diretoria-Geral",
+   "tema": [
+    "relatório de reservas",
+    "institucional (delegação de competências)"
+   ],
+   "relator": null,
+   "resultado": "aprovado (unanimidade inferida)",
+   "resumo_voto": "Sem análise de mérito adicional. Encerramento: DG substituto (falante não identificado) defende junta de julgamento técnica e delegação, deixando ao colegiado só a instância recursal.",
+   "votos": [
+    {
+     "diretor": "relator não identificado",
+     "voto": "relator, aprova",
+     "ts": "1:04:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha (inferido)",
+     "ts": "1:05:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "acompanha (inferido)",
+     "ts": "1:05:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Tomás Filho",
+     "voto": "acompanha (inferido)",
+     "ts": "1:05:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha (inferido)",
+     "ts": "1:05:00",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática muito ruidosa e sem separação de falantes (um único bloco): relatores dos itens 2 a 7 não identificados com segurança; o relator do item 3 citou voto de Tasso Mendonça, sugerindo que não é ele.",
+  "Votos dos demais diretores não são proclamados de forma audível: unanimidade inferida (confiança baixa).",
+  "Números de processos e nomes de interessados incertos.",
+  "Sobre o item 1, a substância não foi dita (lítio é suposição pela região de Araçuaí; não usar).",
+  "Reunião lida integralmente."
+ ]
+}
