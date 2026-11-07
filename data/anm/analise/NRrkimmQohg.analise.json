@@ -1,0 +1,1197 @@
+{
+ "meta": {
+  "video_id": "NRrkimmQohg",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulos frequentemente trocados); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "75",
+  "data": "2025-07-31",
+  "formato": "reunião ordinária pública (videoconferência)",
+  "presidente_da_sessao": "Mauro Sousa (Diretor-Geral); Tasso Mendonça presidiu durante os itens do DG",
+  "diretores_presentes": [
+   "Mauro Sousa",
+   "Tasso Mendonça",
+   "Roger Cabral",
+   "Caio Seabra"
+  ],
+  "ausentes": [
+   "Luiz Paniago (não participou; voto LP 92/2025 citado no 4.2.1)"
+  ],
+  "observacoes": [
+   "Ata da 32ª REP aprovada. Sem sustentações orais nem matéria regulatória. Sessão com quatro diretores, prolongada até esgotar a pauta.",
+   "Tema de destaque: transmissibilidade do direito de prioridade a herdeiros (1.7.1 do DG e 3.2.1 de Roger, ambos com vista de Caio).",
+   "Questão de ordem regimental: vista pedida em REP volta na ROP seguinte; Secretaria-Geral proporá ajuste no regimento.",
+   "Divergências: Mauro no 3.3.1 (disponibilidade, exigência documental); no 4.2.1 o voto-vista de Caio (provimento) prevaleceu com adesão do relator Tasso.",
+   "Vistas: Caio (1.7.1, 3.2.1), Tasso (3.1.1), Mauro (4.5.1).",
+   "No encerramento o DG diz «55ª reunião» (erro de fala ou legenda)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1.1",
+   "ts": "0:12:44",
+   "processo": "813.03?/2013 (número incerto na legenda)",
+   "interessado": "Marisa Tom (grafia incerta)",
+   "assunto": "Recurso contra não aprovação de relatório final de pesquisa de água mineral/termal para uso balneário (poço tubular de 750 m), negado por amostras fora dos padrões de potabilidade sem formulação de exigências",
+   "tema": [
+    "outorga de títulos minerários",
+    "relatório final de pesquisa",
+    "água mineral",
+    "recursos administrativos"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece e dá provimento: divergência técnica interna (especialista em água mineral recomendava exigências); análises de 2017-2018 usadas para não aprovação só em 2021; novas análises químicas são mera reavaliação, não pesquisa fora do prazo; razoabilidade; tornar sem efeito a não aprovação (DOU 2/08/2021) e formular exigências.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, conhece e dá provimento",
+     "ts": "0:13:00",
+     "justificativa": "insuficiência de pesquisa não comprovada; razoabilidade; reanálise laboratorial possível (art. 9º §7º do regulamento)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "de acordo, acompanha o relator",
+     "ts": "0:50:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "0:56:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "0:57:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.1",
+   "ts": "0:15:15",
+   "processo": "826.712/2015 (número aproximado)",
+   "interessado": "Joaquim Macalós (grafia incerta)",
+   "assunto": "Recurso contra multa por deixar de comunicar o início da pesquisa (auto de infração 219/2019, gerência do Paraná)",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "recursos administrativos"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece e dá provimento: erro de capitulação (art. 29 sem parágrafo único/inciso I); iniciar e comunicar são obrigações distintas; sem pesquisa realizada não há o que comunicar; torna sem efeito a multa e arquiva o auto. Roger Cabral questionou (dever de iniciar em 60 dias) e, após debate, concordou que o vício está no objeto da autuação.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, conhece e dá provimento",
+     "ts": "0:15:15",
+     "justificativa": "erro de fundamentação da autuação; legalidade",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "de acordo após esclarecimento",
+     "ts": "0:55:55",
+     "justificativa": "inicialmente questionou: o código obriga a iniciar a pesquisa em 60 dias; aceitou que a autuação deveria ter sido por não iniciar, não por não comunicar",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "0:56:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "0:57:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.3.1",
+   "ts": "0:17:19",
+   "processo": "915.132/2022 (proc. minerário 815.438/2021)",
+   "interessado": "São Paulo Sabatg (grafia incerta)",
+   "assunto": "Recurso contra multa por pagamento intempestivo da TAH do 1º ano do alvará",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "fiscalização e sanções (multa)",
+    "recursos administrativos"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece e nega provimento: pagamento da TAH fora do prazo é infração legal (art. 20 §3º do Código); multa mantida.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, nega provimento",
+     "ts": "0:17:19",
+     "justificativa": "pagamento no prazo é obrigação expressa em lei",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "de acordo, acompanha o relator",
+     "ts": "0:50:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "0:56:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "0:57:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.4.1",
+   "ts": "0:18:59",
+   "processo": "878.037/2000",
+   "interessado": "Indiana Comércio e Indústria de Refrigerantes e Prestação de Serviços Ltda.",
+   "assunto": "Recurso contra auto de interdição de fonte de água mineral (nitrato acima do limite da RDC Anvisa 717/2022)",
+   "tema": [
+    "fiscalização e sanções (interdição)",
+    "água mineral",
+    "recursos administrativos"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece e nega provimento: contaminação comprovada pelo Lamin/CPRM e histórico de duas interdições anteriores; interdição mantida até cumprimento das condicionantes; saúde pública.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, nega provimento",
+     "ts": "0:18:59",
+     "justificativa": "contaminação recorrente; proteção da saúde pública",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "de acordo, acompanha o relator",
+     "ts": "0:50:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "0:56:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "0:57:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.5.1",
+   "ts": "0:20:54",
+   "processo": "87147/29 (número incerto)",
+   "interessado": "Eduardo Rosa Machado",
+   "assunto": "Recurso contra indeferimento de requerimento de PLG sem oneração por falta de documentação (comprovante de pagamento era agendamento bancário; sem CPF/nacionalidade)",
+   "tema": [
+    "garimpo / PLG",
+    "recursos administrativos"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece e nega provimento: requerimento não instruído com documentos essenciais.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, nega provimento",
+     "ts": "0:20:54",
+     "justificativa": "documentação essencial ausente na data do protocolo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "de acordo, acompanha o relator",
+     "ts": "0:50:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "0:56:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "0:57:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.6.1",
+   "ts": "0:22:44",
+   "processo": "81148/2015 (número incerto)",
+   "interessado": "Destaca Engenharia de Fundações e Infraestrutura Ltda. (grafia incerta)",
+   "assunto": "Recurso contra negativa de prorrogação de prazo para cumprir exigência de licenciamento ambiental em requerimento de lavra",
+   "tema": [
+    "outorga de títulos minerários (requerimento de lavra)",
+    "ambiental / licenciamento",
+    "recursos administrativos"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece e nega provimento: quase 9 anos sem avanço do licenciamento, mesmo argumento (certidão municipal) repetido; processo volta à regional para decidir o requerimento de lavra considerando novos documentos (art. 38 da Lei 9.784).",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, nega provimento",
+     "ts": "0:22:44",
+     "justificativa": "omissão da titular; mas determina decisão do requerimento de lavra",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "de acordo, acompanha o relator",
+     "ts": "0:50:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "0:56:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "0:57:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.7.1",
+   "ts": "0:25:25",
+   "processo": "866.025/2006",
+   "interessado": "Espólio de Antônio Rodrigues Ferraz Filho (inventariante Vera Lúcia Lopes Ferraz)",
+   "assunto": "Recurso contra indeferimento de requerimento de pesquisa de cobre (≈ 9.000 ha, Glória d'Oeste e Porto Esperidião-MT, faixa de fronteira) após falecimento do requerente; transmissibilidade do direito de prioridade aos herdeiros",
+   "tema": [
+    "outorga de títulos minerários (requerimento de pesquisa)",
+    "sucessão / espólio",
+    "recursos administrativos"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "deliberação sobrestada (pedido de vista)",
+   "resumo_voto": "Relator diverge das manifestações técnicas e jurídicas (PFE: requerimento é mera expectativa, intransmissível): direito de prioridade onera a área e integra o patrimônio; atos após o óbito são nulos (art. 313 CPC); função social da herança; dá provimento, torna nulo o indeferimento de 6/02/2024 e determina exigência para o espólio atualizar cadastro. Roger elogiou e disse ter voto semelhante.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, dá provimento (divergindo da área técnica e da PFE)",
+     "ts": "0:25:25",
+     "justificativa": "direito de prioridade transmissível causa mortis; função social da herança; nulidade dos atos após o óbito",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "de acordo, acompanha o relator",
+     "ts": "0:50:55",
+     "justificativa": "disse ter voto semelhante e que o tema consolida entendimento do colegiado",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "pede vista",
+     "ts": "0:56:41",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "não votou (vista)",
+     "ts": "0:57:10",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "QO-1",
+   "ts": "1:00:00",
+   "processo": "—",
+   "interessado": "Diretoria Colegiada (questão de ordem suscitada por Tasso Mendonça)",
+   "assunto": "Questão de ordem: interpretação do regimento interno sobre prazo de voto-vista pedido em reunião extraordinária (provocada por interessado no item 2.1.1, que ameaçou judicializar)",
+   "tema": [
+    "institucional",
+    "regimento interno"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovada (entendimento assentado)",
+   "resumo_voto": "Assentado que o retorno na reunião subsequente refere-se à reunião ordinária; vista pedida em REP pode voltar na ROP seguinte ou em outra REP; Secretaria-Geral provocará alteração do regimento.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "propõe o entendimento",
+     "ts": "1:00:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "de acordo",
+     "ts": "1:04:41",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "de acordo, propõe alterar o regimento por resolução",
+     "ts": "1:04:56",
+     "justificativa": "texto atual diz apenas reunião subsequente",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "de acordo; Secretaria-Geral deve propor alteração regimental",
+     "ts": "1:06:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.1",
+   "ts": "0:59:53",
+   "processo": "872.093/1996",
+   "interessado": "Maurício Brito Marcelino da Silva / HNK BR (Heineken)",
+   "assunto": "Voto-vista sobre recurso contra o despacho 1753/2025 da SOT (caso Alagoinhas-BA)",
+   "tema": [
+    "outorga de títulos minerários",
+    "judicialização"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "retirado de pauta",
+   "resumo_voto": "Retirado pelo relator; gerou a questão de ordem QO-1. O interessado Maurício Marcelino registrou presença.",
+   "votos": []
+  },
+  {
+   "id": "2.2.1",
+   "ts": "1:07:40",
+   "processo": "890.690/1988",
+   "interessado": "Mineração Flôr (grafia incerta)",
+   "assunto": "Recurso hierárquico contra não aprovação de relatório final de pesquisa de granito ornamental (Baixo Guandu-ES)",
+   "tema": [
+    "outorga de títulos minerários (relatório final de pesquisa)",
+    "rochas ornamentais",
+    "recursos administrativos"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece e nega provimento: pesquisa insuficiente (sem sondagens, ensaios tecnológicos, cubagem frágil); art. 30, II do Código.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, nega provimento",
+     "ts": "1:07:40",
+     "justificativa": "insuficiência de pesquisa",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "de acordo com o relator",
+     "ts": "2:02:37",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha os votos",
+     "ts": "2:02:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "2:02:52",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.2",
+   "ts": "1:12:00",
+   "processo": "890.557/2012",
+   "interessado": "Aquaplan Mineração e Planejamento Ltda. (grafia incerta)",
+   "assunto": "Recurso contra não aprovação de RFP de argila (Barra do Piraí-RJ)",
+   "tema": [
+    "outorga de títulos minerários (relatório final de pesquisa)",
+    "recursos administrativos"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Nega provimento: vistoria constatou nenhum trabalho de campo; litígio com superficiário não influenciou a decisão.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, nega provimento",
+     "ts": "1:12:00",
+     "justificativa": "ausência total de pesquisa",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "de acordo com o relator",
+     "ts": "2:02:37",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha os votos",
+     "ts": "2:02:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "2:02:52",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.3",
+   "ts": "1:16:30",
+   "processo": "830.592/2007",
+   "interessado": "Mineração Salinas Importação e Exportação Ltda. (grafia incerta)",
+   "assunto": "Recurso contra não aprovação de RFP (Fruta de Leite e Padre Carvalho-MG) por cumprimento parcial e intempestivo de exigências",
+   "tema": [
+    "outorga de títulos minerários (relatório final de pesquisa)",
+    "recursos administrativos"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Nega provimento: exigências cumpridas parcialmente e fora do prazo; insuficiência técnica.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, nega provimento",
+     "ts": "1:16:30",
+     "justificativa": "exigências não cumpridas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "de acordo com o relator",
+     "ts": "2:02:37",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha os votos",
+     "ts": "2:02:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "2:02:52",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1-2.3.13",
+   "ts": "1:20:29",
+   "processo": "vários (TAH)",
+   "interessado": "Sérgio Conceição da Silva; Agrega Mineradora, Joinvil Mineração e Cerâmica Kipper; Fernando (sobrenome incerto); Alta Floresta Gold Mineração; Massa Empreendimentos e Participações e outros; BRA Mineração (Brasoma, grafia incerta); Brasil Exportação de Minérios (em recuperação judicial)",
+   "assunto": "Recursos contra multas por não pagamento da taxa anual por hectare (TAH): alegações de desconhecimento, COVID-19, revogação do art. 56 do regulamento pelo Decreto 10.965/2022, revogação do alvará e recuperação judicial",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "fiscalização e sanções (multa)",
+    "recursos administrativos"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovados por unanimidade (2.3.11 retirado de pauta pelo relator)",
+   "resumo_voto": "Nega provimento a todos: TAH é obrigação legal; Resoluções ANM 28 e 46/2020 não suspenderam prazos de receitas; norma aplicável é a vigente na data da infração (pareceres PFE); fato gerador é o aniversário do alvará; recuperação judicial não suspende cobrança de crédito não tributário. 2.4.1 (recurso contra cobrança) também retirado.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, nega provimento",
+     "ts": "1:20:29",
+     "justificativa": "obrigação legal; irretroatividade; indisponibilidade do interesse público",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "de acordo com o relator",
+     "ts": "2:02:37",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha os votos",
+     "ts": "2:02:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "2:02:52",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.1.1",
+   "ts": "2:04:54",
+   "processo": "866.510/2005 (número incerto)",
+   "interessado": "Udson Neves de Paula (grafia incerta)",
+   "assunto": "Pedido de reconsideração contra declaração de nulidade ex officio do alvará 1069 por inadimplemento de TAH",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "nulidade de alvará",
+    "recursos administrativos"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "deliberação sobrestada (pedido de vista)",
+   "resumo_voto": "Relator conhece e nega provimento (intempestividade apontada pela área técnica).",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, nega provimento",
+     "ts": "2:05:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "pede vista",
+     "ts": "2:38:26",
+     "justificativa": "análise mais acurada",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "não votou (vista)",
+     "ts": "2:38:59",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "não votou (vista)",
+     "ts": "2:38:59",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3.2.1",
+   "ts": "2:07:45",
+   "processo": "820.162/2006 (número incerto)",
+   "interessado": "Espólio de José Ricardo Tremura",
+   "assunto": "Pedido de reconsideração contra nulidade de alvará de pesquisa outorgado após a morte do requerente; legitimidade do espólio",
+   "tema": [
+    "outorga de títulos minerários",
+    "sucessão / espólio",
+    "recursos administrativos"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "deliberação sobrestada (pedido de vista)",
+   "resumo_voto": "Relator anula o indeferimento proferido após o óbito sem suspensão (art. 313 CPC) e reconhece legitimidade do espólio para prosseguir, citando precedentes (votos TM 154/2025 e CS 557/2025 no proc. 871.248/2016) e o voto do DG no item 1.7.1.",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, dá provimento",
+     "ts": "2:07:45",
+     "justificativa": "direito de prioridade integra o espólio; função social da herança",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "pede vista",
+     "ts": "2:38:59",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "não votou (vista)",
+     "ts": "2:38:26",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "não votou (vista)",
+     "ts": "2:38:59",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3.3.1",
+   "ts": "2:13:46",
+   "processo": "867.96?/2008 (número incerto)",
+   "interessado": "Mineração São Judas Ltda. (e Tech Hanser Engenharia de Minas)",
+   "assunto": "Recurso em procedimento de disponibilidade contra inabilitação por falta de documentos de representação do outorgante e do signatário",
+   "tema": [
+    "outorga de títulos minerários (disponibilidade de área)",
+    "recursos administrativos"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "aprovado por maioria (divergência do Diretor-Geral)",
+   "resumo_voto": "Relator, com a Comissão Julgadora Nacional de Disponibilidade, nega provimento e mantém inabilitadas as propostas. Mauro diverge: exigências documentais excessivas, já contrariadas por decisões judiciais; Lei 8.666 já revogada.",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, nega provimento",
+     "ts": "2:13:46",
+     "justificativa": "falta de documentos de legitimidade do outorgante",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "2:38:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "2:38:59",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "diverge",
+     "ts": "2:39:30",
+     "justificativa": "questão recorrente de suposta falta de documentação em disponibilidade; decisões judiciais contrárias às da diretoria",
+     "tom": "firme",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3.4.1",
+   "ts": "2:17:24",
+   "processo": "933.244/2021",
+   "interessado": "RF de Paula Alimentos ME",
+   "assunto": "Recurso contra multa por não pagamento da TAH (água potável de mesa, Canápolis-MG)",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "fiscalização e sanções (multa)",
+    "água mineral"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Nega provimento: ausência de notificação prévia não exime; LINDB art. 3º.",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, nega provimento",
+     "ts": "2:17:24",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha (exceto vista)",
+     "ts": "2:38:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha (exceto vista)",
+     "ts": "2:38:59",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha (exceto divergência)",
+     "ts": "2:38:59",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.7.1",
+   "ts": "2:21:19",
+   "processo": "826.95?/2019 (número incerto)",
+   "interessado": "LJM Mineração Ltda. ME",
+   "assunto": "Recurso contra nulidade ex officio de alvará por não pagamento da TAH (alegação de pandemia)",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "nulidade de alvará",
+    "recursos administrativos"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Nega provimento: Resoluções 28 e 46/2020 não suspenderam prazos de pagamento; pagamento só impede nulidade se anterior à publicação.",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, nega provimento",
+     "ts": "2:21:19",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha (exceto vista)",
+     "ts": "2:38:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha (exceto vista)",
+     "ts": "2:38:59",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha (exceto divergência)",
+     "ts": "2:38:59",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.9.1",
+   "ts": "2:25:35",
+   "processo": "830.603/2023",
+   "interessado": "Patrimônio Empreendimentos Imobiliários e Mineração EIRELI",
+   "assunto": "Guia de utilização acima do limite do anexo IV: 200.000 t de gnaisse/brita em Mariana-MG",
+   "tema": [
+    "guia de utilização",
+    "agregados para construção civil"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Defere GU por 3 anos; licença ambiental já expedida; condicionantes da Resolução 37/2020.",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, defere",
+     "ts": "2:25:35",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha (exceto vista)",
+     "ts": "2:38:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha (exceto vista)",
+     "ts": "2:38:59",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha (exceto divergência)",
+     "ts": "2:38:59",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.9.2",
+   "ts": "2:28:46",
+   "processo": "846.083/2009 (número aproximado)",
+   "interessado": "Evilásio de Araújo Souto (grafia incerta)",
+   "assunto": "Guia de utilização acima do limite: feldspato e caulim, 18.000 t/ano (Paraíba)",
+   "tema": [
+    "guia de utilização"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "aprovado por unanimidade (retificado na 76ª ROP)",
+   "resumo_voto": "Defere GU de 18.000 t/ano por 3 anos; indícios de lavra ilegal na área sem autoria atribuída ao requerente não impedem.",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, defere",
+     "ts": "2:28:46",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha (exceto vista)",
+     "ts": "2:38:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha (exceto vista)",
+     "ts": "2:38:59",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha (exceto divergência)",
+     "ts": "2:38:59",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.11.1",
+   "ts": "2:31:58",
+   "processo": "810.764/2017",
+   "interessado": "Comércio de Areia Martins Ltda.",
+   "assunto": "Recurso contra indeferimento de registro de licença por não apresentar licença ambiental e memorial no prazo",
+   "tema": [
+    "outorga de títulos minerários (registro de licença)",
+    "agregados para construção civil",
+    "recursos administrativos"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Nega provimento: documentos só após o indeferimento.",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, nega provimento",
+     "ts": "2:31:58",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha (exceto vista)",
+     "ts": "2:38:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha (exceto vista)",
+     "ts": "2:38:59",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha (exceto divergência)",
+     "ts": "2:38:59",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.11.2",
+   "ts": "2:34:24",
+   "processo": "831.019/2017",
+   "interessado": "Renan Lima Rocha",
+   "assunto": "Recurso contra indeferimento de mudança de regime para licenciamento por licença municipal e autorização do superficiário vencidas",
+   "tema": [
+    "outorga de títulos minerários (registro de licença)",
+    "recursos administrativos"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Dá provimento: documentos válidos apresentados na fase recursal; formalismo moderado e razoabilidade.",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, dá provimento",
+     "ts": "2:34:24",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha (exceto vista)",
+     "ts": "2:38:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha (exceto vista)",
+     "ts": "2:38:59",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha (exceto divergência)",
+     "ts": "2:38:59",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.x-retirados",
+   "ts": "2:04:54",
+   "processo": "890.608/1998; 934.404/2022; 934.5?/2022; 886.330; 873.08?",
+   "interessado": "Mineração Sousa Freire; Mineração Usiminas (2); Cooperativa Mineradora de Ariquemes; Guidônia Ornamental Rocks",
+   "assunto": "Itens 3.5.1, 3.6.1, 3.6.2, 3.8.1 e 3.10.1 retirados de pauta pelo relator",
+   "tema": [
+    "recursos administrativos"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "retirados de pauta",
+   "resumo_voto": "—",
+   "votos": []
+  },
+  {
+   "id": "4.1.1",
+   "ts": "2:43:44",
+   "processo": "não informado",
+   "interessado": "não informado",
+   "assunto": "Voto-vista de Caio Seabra sobre recurso contra indeferimento de 2ª prorrogação de alvará de pesquisa (relator original Luiz Paniago, voto LP 89/2025)",
+   "tema": [
+    "outorga de títulos minerários (alvará de pesquisa)",
+    "recursos administrativos"
+   ],
+   "relator": "Luiz Paniago",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Voto-vista acompanha integralmente o relator.",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "voto-vista: acompanha o relator",
+     "ts": "2:43:44",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "2:45:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "2:45:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha",
+     "ts": "2:45:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.2.1",
+   "ts": "2:46:10",
+   "processo": "não informado (edital de disponibilidade 004/2000)",
+   "interessado": "Companhia de Mineração Serra Azul (Comisa)",
+   "assunto": "Voto-vista sobre recurso contra indeferimento de requerimento de concessão de lavra de minério de ferro (Igarapé e Brumadinho-MG, 4,98 ha) por cumprimento de exigências um dia após o prazo",
+   "tema": [
+    "outorga de títulos minerários (concessão de lavra)",
+    "minério de ferro",
+    "recursos administrativos"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado por maioria (voto-vista de Caio Seabra; divergência mantida de Luiz Paniago)",
+   "resumo_voto": "Caio dá provimento: falta de intimação com ciência inequívoca (AR) impede contar prazo; ainda que intempestivo, razoabilidade e formalismo moderado (cumprimento antes de decisão; precedentes VB 369/2021, CS 104 e 80/2023). Tasso, relator original (voto TM 479/2024 negava provimento), aderiu ao voto-vista. Luiz Paniago (voto LP 92/2025, ausente) mantinha a negativa.",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "voto-vista: dá provimento",
+     "ts": "2:46:10",
+     "justificativa": "ausência de ciência inequívoca; formalismo moderado; interesse público na produção de minério",
+     "tom": "enfático",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "adere ao voto-vista (revê voto anterior)",
+     "ts": "2:57:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o voto-vista",
+     "ts": "2:58:01",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o voto-vista",
+     "ts": "2:58:19",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.3.1",
+   "ts": "2:59:10",
+   "processo": "48051.006602/2024? (área 3428)",
+   "interessado": "3D Minerals Ltda. (8ª rodada de disponibilidade); TCU",
+   "assunto": "Referendo de decisão ad referendum de Caio Seabra que anulou a deliberação do voto CS 381/2024 (66ª ROP) e retirou a área 3428 da 8ª rodada de leilão de áreas após cautelar do TCU (TC 8.317/2025?)",
+   "tema": [
+    "outorga de títulos minerários (leilão de áreas / disponibilidade)",
+    "judicialização / controle externo (TCU)"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Retira a área 3428 do certame, inicia nulidade do alvará do arrematante, inclui a área no próximo edital pela B3, restitui o valor do lance incorreto; isonomia com caso semelhante (Zeus).",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator, referenda a própria decisão",
+     "ts": "2:59:10",
+     "justificativa": "cautelar do TCU; item 17.1 e 17.6 do edital; isonomia; nova plataforma B3",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha integralmente",
+     "ts": "3:05:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha",
+     "ts": "3:05:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha",
+     "ts": "3:05:46",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.4.1",
+   "ts": "3:06:13",
+   "processo": "não informado",
+   "interessado": "não informado",
+   "assunto": "Recurso contra multa por não pagamento de TAH (pedido de conversão em advertência)",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "fiscalização e sanções (multa)"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Nega provimento: desconhecimento da lei não escusa; sem previsão de conversão em advertência.",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator, nega provimento",
+     "ts": "3:06:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha",
+     "ts": "3:09:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha",
+     "ts": "3:09:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha",
+     "ts": "3:09:33",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.5.1",
+   "ts": "3:06:59",
+   "processo": "não informado",
+   "interessado": "não informado",
+   "assunto": "Recurso contra homologação de renúncia de alvará de pesquisa (pedido de desistência da renúncia)",
+   "tema": [
+    "outorga de títulos minerários",
+    "renúncia",
+    "recursos administrativos"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "deliberação sobrestada (pedido de vista do DG)",
+   "resumo_voto": "Relator nega provimento: renúncia é ato constitutivo que produz efeito no protocolo; homologação é declaratória (coerente com seu voto na 32ª REP).",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator, nega provimento",
+     "ts": "3:06:59",
+     "justificativa": "renúncia opera na protocolização",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha",
+     "ts": "3:09:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha",
+     "ts": "3:09:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "pede vista",
+     "ts": "3:09:33",
+     "justificativa": "ainda estudando o tema",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4.6.1",
+   "ts": "3:08:00",
+   "processo": "não informado",
+   "interessado": "não informado",
+   "assunto": "Pedido de reconsideração contra nulidade ex officio de alvará por não pagamento da TAH",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "nulidade de alvará"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Não conhece por intempestividade.",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "relator, não conhece",
+     "ts": "3:08:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha",
+     "ts": "3:09:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha",
+     "ts": "3:09:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha",
+     "ts": "3:09:33",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "2.1.1 (voto-vista caso Alagoinhas/Heineken)",
+  "2.3.11",
+  "2.4.1",
+  "3.5.1",
+  "3.6.1",
+  "3.6.2",
+  "3.8.1",
+  "3.10.1"
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo, nomes de interessados e valores frequentemente distorcidos; marcados como incertos.",
+  "Na abertura o DG diz 30/07/2025; título do vídeo e a retificação lida na 76ª ROP indicam 31/07/2025 (adotado).",
+  "Votos de quem só acompanha o relator têm ts aproximado (bloco de deliberação).",
+  "Itens 2.3.1 a 2.3.13 (TAH) agrupados num registro; numeração exata de cada processo não recuperada.",
+  "Na Secretaria-Geral a legenda alterna «Dr. Caio» e «Carlos»; o «Dr. Caio» que pede vista no 1.7.1 foi interpretado como o diretor Caio Seabra (confirmado no pregão).",
+  "Itens 4.1.1, 4.4.1, 4.5.1 e 4.6.1 lidos sem número de processo/interessado audível."
+ ]
+}

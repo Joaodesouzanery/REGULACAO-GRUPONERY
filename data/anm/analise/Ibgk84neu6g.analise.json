@@ -1,0 +1,1158 @@
+{
+ "meta": {
+  "video_id": "Ibgk84neu6g",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulos frequentemente trocados); ts = tempo do vídeo; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "32 (extraordinária)",
+  "data": "2025-07-16",
+  "formato": "reunião extraordinária pública (videoconferência)",
+  "presidente_da_sessao": "Mauro Sousa (Diretor-Geral); Tasso Mendonça presidiu durante os itens do DG",
+  "diretores_presentes": [
+   "Mauro Sousa",
+   "Tasso Mendonça",
+   "Roger Cabral",
+   "Caio Seabra"
+  ],
+  "ausentes": [
+   "Luiz Paniago (hospitalizado; votos lidos pelo DG)"
+  ],
+  "observacoes": [
+   "Ata da 74ª ROP aprovada. Intervalo entre ≈ 2:53 e 5:14 do vídeo (sessão suspensa para almoço).",
+   "Caso Alagoinhas (Heineken x Maurício Marcelino): Roger nega provimento ao recurso da HNK, Caio acompanha em voto separado, Tasso pede vista; relatoria mantida com Roger por maioria.",
+   "Duas súmulas aprovadas: água mineral (acondicionamento não é industrialização) e responsabilidade de cedente/cessionário pela CFEM.",
+   "Votos-vista vencedores contra o relator: Mauro no 1.2.1 (BRX) e Caio no 4.4.1 (vencido Mauro). Vistas: Tasso (1.3.1, 3.3.1), Mauro (2.2.1-2.2.2, 4.1.x).",
+   "Itens 5.8.1-5.13.1 de Paniago retirados pelo DG por avanço do horário."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.3.1",
+   "ts": "0:15:54",
+   "processo": "826.299/1997? (edital 10/2012 DNPM-PR)",
+   "interessado": "Calpar Comércio de Calcário Ltda. x Agromercantil Cremer Ltda.",
+   "assunto": "Voto-vista do DG em recurso contra inabilitação em procedimento de disponibilidade para lavra de calcário (relator original Caio Seabra, voto CS 532/2025, habilitava só a Cremer); sustentação oral de Marcos Roberto Bertolin (Calpar)",
+   "tema": [
+    "outorga de títulos minerários (disponibilidade de área)",
+    "recursos administrativos",
+    "calcário"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "deliberação sobrestada (pedido de vista de Tasso Mendonça); Caio e Roger registraram que acompanham o DG",
+   "resumo_voto": "Mauro acompanha em parte: anula a decisão de 2017 (inversão na recomendação), mas conhece os recursos de 2017, trata petições posteriores como alegações, considera válidos atestado financeiro e ART do PAE e afasta a exigência de assinatura do PAE (não prevista na Portaria 268/2008); habilita ambas e devolve o processo; critica 13 anos sem conclusão.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "voto-vista: acompanha parcialmente o voto CS 532 e habilita ambas",
+     "ts": "0:30:08",
+     "justificativa": "exigência não prevista em norma; formalismo; demora de 13 anos",
+     "tom": "crítico",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "altera o voto para acompanhar o DG",
+     "ts": "0:40:23",
+     "justificativa": "não tinha verificado os pontos levantados",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanharia o voto-vista do DG",
+     "ts": "0:41:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "pede vista",
+     "ts": "0:40:23",
+     "justificativa": "já havia votado; quer verificar o processo",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3.3.1",
+   "ts": "0:43:24",
+   "processo": "872.093/1996 (alvará 9583/2004)",
+   "interessado": "HNK BR Indústria de Bebidas (Heineken, ex-Schincariol) x Maurício Brito Marcelino da Silva",
+   "assunto": "Recurso da HNK BR contra o despacho 1753/2025 da SOT que anulou o alvará da Schincariol em Alagoinhas-BA em cumprimento da ação declaratória de Maurício (AO 2452486/1997) e das deliberações da 10ª e 11ª REP (2020); sustentações de Caio Druso (Maurício) e Gustavo Buquer (HNK); mandado de segurança exigiu oitiva da AGU e julgamento colegiado",
+   "tema": [
+    "outorga de títulos minerários",
+    "judicialização",
+    "conflito com área urbana",
+    "água mineral / poço"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "deliberação sobrestada (pedido de vista de Tasso Mendonça)",
+   "resumo_voto": "Questões de ordem: ordem das sustentações (mantida a ordem dos pedidos) e redistribuição da relatoria ao DG (rejeitada por maioria; PFE: deliberações 10ª/11ª não anuladas). Roger nega provimento: delegação não impede a autoridade delegante; decadência interrompida pela ação judicial; coisa julgada judicial prevalece; art. 42 já resolvido na sentença (só ZEU excluída, poço incluído); manda reativar a área de 2.000 ha de Maurício, retirar interferências (ZEU, 15 m da BR-101) e emitir alvará. Caio apresenta voto em separado acompanhando.",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, nega provimento ao recurso da HNK",
+     "ts": "0:43:24",
+     "justificativa": "cumprimento de decisão judicial transitada em julgado; prioridade de Maurício",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "voto em separado: acompanha o relator",
+     "ts": "2:26:27",
+     "justificativa": "DNPM ignorou a ação judicial ao recortar a área; nulos os atos após o alvará recortado; reativar 2.000 ha e emitir alvará",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "pede vista; na questão de ordem votou pela volta da relatoria ao DG",
+     "ts": "2:24:55",
+     "justificativa": "votou no caso antes; fatos novos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "não votou o mérito; contra a redistribuição da relatoria",
+     "ts": "1:22:15",
+     "justificativa": "economia e celeridade processual",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3.1.1",
+   "ts": "2:38:53",
+   "processo": "451.059?/2024",
+   "interessado": "ANM (Superintendência de Arrecadação)",
+   "assunto": "Proposta de súmula: acondicionamento ou embalagem de água mineral não é transformação industrial para base de cálculo da CFEM (mero beneficiamento)",
+   "tema": [
+    "CFEM / arrecadação",
+    "regulação normativa (súmula)",
+    "água mineral"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova o verbete com base no parecer PFE 227/2024 e despachos posteriores (depois citado como súmula ANM 7/2025).",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, aprova",
+     "ts": "2:38:53",
+     "justificativa": "segurança jurídica e uniformização",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha",
+     "ts": "2:42:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "de acordo",
+     "ts": "2:42:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "de acordo",
+     "ts": "2:42:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.1.1",
+   "ts": "2:43:49",
+   "processo": "005921/2024",
+   "interessado": "ANM (Superintendência de Arrecadação)",
+   "assunto": "Proposta de súmula sobre responsabilidade de cedente e cessionário por débitos de CFEM anteriores à averbação da cessão",
+   "tema": [
+    "CFEM / arrecadação",
+    "regulação normativa (súmula)"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Averbação antes de 1/08/2017: cessionário responsável principal e cedente subsidiário; no regime da Lei 13.540/2017 (MP 789): cessionário responde solidariamente com o cedente. Redação ajustada pela PFE (parecer 243/2024, despacho 4275/2025).",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, aprova",
+     "ts": "2:43:49",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha",
+     "ts": "2:50:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "de acordo",
+     "ts": "2:50:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "de acordo",
+     "ts": "2:51:03",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1.2.1",
+   "ts": "5:14:51",
+   "processo": "810.363/2018 e 810.560/2018",
+   "interessado": "BRX Mineração Ltda. (grafia incerta)",
+   "assunto": "Voto-vista do DG sobre recurso contra indeferimento de mudança para regime de licenciamento em área que abrange a Lagoa dos Patos (sem município competente para licença) e parque estadual de Camaquã; relator original Caio Seabra (CS 533/2025) dispensava a licença municipal",
+   "tema": [
+    "outorga de títulos minerários (registro de licença / mudança de regime)",
+    "recursos administrativos"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "aprovado por maioria o voto-vista do DG (proclamação)",
+   "resumo_voto": "Mauro diverge: licença municipal é indispensável (art. 3º da Lei 6.567/78); indefere a mudança de regime, arquiva o processo derivado e segue com o requerimento de lavra no processo original (regime de autorização é o adequado).",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "voto-vista: diverge do relator, nega provimento",
+     "ts": "5:14:51",
+     "justificativa": "legalidade estrita",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o voto-vista",
+     "ts": "5:27:03",
+     "justificativa": "regime de autorização/concessão mais seguro",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o voto-vista com ressalva",
+     "ts": "5:27:19",
+     "justificativa": "licença municipal não é sempre essencial (ex.: DF); regime de concessão é o adequado",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "não identificado",
+     "ts": "5:29:12",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.1.1",
+   "ts": "5:32:47",
+   "processo": "833.61?/2004",
+   "interessado": "Masterni (grafia incerta)",
+   "assunto": "Recurso contra não aprovação de RFP de níquel (amostragem fora da poligonal)",
+   "tema": [
+    "outorga de títulos minerários (relatório final de pesquisa)",
+    "recursos administrativos"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Nega provimento: pontos amostrados em áreas vizinhas; art. 30, II.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, nega provimento",
+     "ts": "5:32:47",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "6:14:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha",
+     "ts": "6:14:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha (exceto vista)",
+     "ts": "6:14:22",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.2",
+   "ts": "5:36:58",
+   "processo": "830.927/2009",
+   "interessado": "Areia Dois Irmãos (grafia incerta)",
+   "assunto": "Recurso contra não aprovação de RFP de areia/argila (Carmo do Cajuru e Divinópolis-MG) com dados de outra área",
+   "tema": [
+    "outorga de títulos minerários (relatório final de pesquisa)",
+    "recursos administrativos"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Nega provimento.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, nega provimento",
+     "ts": "5:36:58",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "6:14:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha",
+     "ts": "6:14:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha (exceto vista)",
+     "ts": "6:14:22",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.3-2.1.4",
+   "ts": "5:40:34",
+   "processo": "890.099/2012 e 890.39?/2012",
+   "interessado": "EPT Engenharia (grafia incerta)",
+   "assunto": "Recursos contra não aprovação de RFP de areia/argila com só dois furos e sem ensaios",
+   "tema": [
+    "outorga de títulos minerários (relatório final de pesquisa)",
+    "recursos administrativos"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Nega provimento.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, nega provimento",
+     "ts": "5:40:34",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "6:14:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha",
+     "ts": "6:14:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha (exceto vista)",
+     "ts": "6:14:22",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.5-2.1.6",
+   "ts": "5:44:14",
+   "processo": "não informado",
+   "interessado": "Micapel Mineração Capão das Pedras (grafia incerta)",
+   "assunto": "Recurso contra não aprovação de RFP de diamante/quartzito/cascalho (Papagaios e Pompéu-MG), pesquisa por similaridade",
+   "tema": [
+    "outorga de títulos minerários (relatório final de pesquisa)",
+    "recursos administrativos"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Nega provimento.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, nega provimento",
+     "ts": "5:44:14",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "6:14:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha",
+     "ts": "6:14:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha (exceto vista)",
+     "ts": "6:14:22",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.7",
+   "ts": "5:47:27",
+   "processo": "não informado",
+   "interessado": "Granig Consultoria (grafia incerta)",
+   "assunto": "Recurso contra não aprovação de RFP de saibro/granito com cubagem não confiável",
+   "tema": [
+    "outorga de títulos minerários (relatório final de pesquisa)",
+    "recursos administrativos"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Nega provimento.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, nega provimento",
+     "ts": "5:47:27",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "6:14:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha",
+     "ts": "6:14:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha (exceto vista)",
+     "ts": "6:14:22",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.8",
+   "ts": "5:51:37",
+   "processo": "823.955/1971?",
+   "interessado": "Mário Sérgio Duarte Garcia",
+   "assunto": "Recurso contra não aprovação de RFP complementar de minério de ferro (Corumbá-MS)",
+   "tema": [
+    "outorga de títulos minerários (relatório final de pesquisa)",
+    "recursos administrativos"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Nega provimento: deficiências não sanáveis por exigência.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, nega provimento",
+     "ts": "5:51:37",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "6:14:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha",
+     "ts": "6:14:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha (exceto vista)",
+     "ts": "6:14:22",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.1.10-2.1.11",
+   "ts": "5:54:46",
+   "processo": "815.71?/2006 e 815.252/2006",
+   "interessado": "Nival (grafia incerta)",
+   "assunto": "Recurso contra não aprovação de RFP (potássio a partir de feldspato alcalino; a legenda também cita ouro, Nova Trento-SC)",
+   "tema": [
+    "outorga de títulos minerários (relatório final de pesquisa)",
+    "recursos administrativos",
+    "minerais críticos e estratégicos",
+    "potássio / fertilizantes"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Dá provimento: torna sem efeito a não aprovação (2015) e formula exigência sobre o processamento para potássio grau fertilizante; dependência externa de potássio e caráter estratégico; negou pedido de retirada de pauta.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, dá provimento",
+     "ts": "5:54:46",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "6:14:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha",
+     "ts": "6:14:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha (exceto vista)",
+     "ts": "6:14:22",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.3.1",
+   "ts": "6:11:18",
+   "processo": "806.053/20??",
+   "interessado": "AG Serviços de Transporte e Construções Ltda. (grafia incerta)",
+   "assunto": "Guia de utilização acima do limite: 160.000 t/ano de calcário (Maranhão), insumo agrícola e de construção",
+   "tema": [
+    "guia de utilização",
+    "agregados / calcário agrícola"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova GU por 3 anos, eficácia condicionada à licença ambiental.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, aprova",
+     "ts": "6:11:18",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "6:14:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha",
+     "ts": "6:14:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha (exceto vista)",
+     "ts": "6:14:22",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2.2.1-2.2.2",
+   "ts": "6:01:00",
+   "processo": "830.75?/2006 e 833.73?/19??",
+   "interessado": "Vale S.A.",
+   "assunto": "Recursos contra decaimento parcial de alvarás de pesquisa (Itabirito e Ouro Preto-MG) por interferência com Estação Ecológica de Arêdes e Parque Nacional da Serra do Gandarela (caducidade do decreto do parque afastada pelo TRF6)",
+   "tema": [
+    "unidades de conservação",
+    "ambiental",
+    "outorga de títulos minerários",
+    "judicialização"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "deliberação sobrestada (pedido de vista do DG)",
+   "resumo_voto": "Tasso nega provimento e mantém decaimento parcial (parecer 525/2010 FM-PROGE; nota PFE 79/2025).",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator, nega provimento",
+     "ts": "6:01:00",
+     "justificativa": "vedada mineração em UC de proteção integral",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha",
+     "ts": "6:14:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha",
+     "ts": "6:14:22",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "pede vista",
+     "ts": "6:14:22",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3.2.1",
+   "ts": "6:16:27",
+   "processo": "932.685/2009 (NFLDP 6519/2009)",
+   "interessado": "Camargo Corrêa Cimentos S.A.",
+   "assunto": "Voto-vista de Roger sobre recurso contra CFEM de calcário consumido (Ijaci-MG); relator Tasso (voto TM 08/2021)",
+   "tema": [
+    "CFEM / arrecadação",
+    "cimento / calcário"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Roger acompanha integralmente: incide CFEM no consumo próprio; fiscalização via RAL válida; decadência de 10 anos; deduções sem prova não aceitas; indeferimento de perícia não é cerceamento.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator (voto TM 08/2021), nega provimento",
+     "ts": "6:16:27",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "voto-vista: acompanha o relator",
+     "ts": "6:16:27",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "de acordo",
+     "ts": "6:19:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha",
+     "ts": "6:19:58",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.2.1-4.5.1",
+   "ts": "6:20:51",
+   "processo": "não informado",
+   "interessado": "não informado",
+   "assunto": "Pedido de Caio Seabra de prorrogação do prazo dos votos-vista 4.2.1 e 4.5.1",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Caio Seabra",
+   "resultado": "aprovado",
+   "resumo_voto": "Prorrogação concedida.",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "pede prorrogação",
+     "ts": "6:20:51",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "de acordo",
+     "ts": "6:21:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "de acordo",
+     "ts": "6:21:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "de acordo",
+     "ts": "6:22:10",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4.1.1-4.1.11",
+   "ts": "6:22:10",
+   "processo": "11 processos (mesmo titular)",
+   "interessado": "Slipstream (grafia incerta; advogado Felipe)",
+   "assunto": "Voto-vista de Caio sobre pedidos de nulidade da homologação de renúncias de alvarás de pesquisa; relator Tasso anulava as homologações (administrador sem legitimidade para renunciar)",
+   "tema": [
+    "outorga de títulos minerários",
+    "renúncia",
+    "recursos administrativos"
+   ],
+   "relator": "Tasso Mendonça",
+   "resultado": "deliberação sobrestada (pedido de vista do DG)",
+   "resumo_voto": "Caio diverge: renúncia na pesquisa é ato constitutivo que opera no protocolo; sem vício de representação; mantém homologações e disponibilidade. Tasso mantém o voto (exigiria aprovação societária). Advogado pede que se considere voto antecipado de Paniago na 73ª ROP acompanhando o relator.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "relator: anula as homologações de renúncia",
+     "ts": "6:28:33",
+     "justificativa": "vício de representação; renúncia equivaleria a extinguir a empresa",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "voto-vista: diverge, mantém as homologações",
+     "ts": "6:22:10",
+     "justificativa": "renúncia opera na protocolização; PFE parecer 26/2025",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "mantém voto com o relator Tasso",
+     "ts": "6:30:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "pede vista",
+     "ts": "6:31:07",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4.3.1",
+   "ts": "6:33:39",
+   "processo": "não informado",
+   "interessado": "Espólio de José Rubens Morete (inventariante Luiz Gustavo Morete)",
+   "assunto": "Voto-vista sobre recurso contra indeferimento de PLG de quartzo gema (Novo Horizonte-BA) após falecimento do empresário individual requerente; relator Guilherme Gomes (voto GG 826/2024), votos MS 454 e de Tasso acompanhando",
+   "tema": [
+    "garimpo / PLG",
+    "sucessão / espólio",
+    "recursos administrativos"
+   ],
+   "relator": "Guilherme Gomes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Caio acompanha o relator: falta de ciência da exigência (sem AR); princípio da continuidade da empresa (IN DREI 81/2020) permite transferir o requerimento com o CNPJ do empresário individual aos sucessores, sem mudar o entendimento de intransmissibilidade.",
+   "votos": [
+    {
+     "diretor": "Caio Seabra",
+     "voto": "voto-vista: acompanha o relator e dá provimento",
+     "ts": "6:33:39",
+     "justificativa": "continuidade da empresa; empresário individual",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha",
+     "ts": "6:44:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha",
+     "ts": "6:45:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "adere ao voto-vista",
+     "ts": "6:45:52",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4.4.1",
+   "ts": "6:46:28",
+   "processo": "não informado",
+   "interessado": "Base Empreendimentos Ltda.",
+   "assunto": "Voto-vista sobre recurso contra auto de paralisação 30/2023 por extração de saibro sem título (Rio das Ostras-RJ); relator Mauro Sousa negava provimento",
+   "tema": [
+    "fiscalização e sanções (paralisação / lavra ilegal)",
+    "agregados para construção civil",
+    "recursos administrativos"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovado por maioria o voto-vista de Caio (vencido o relator Mauro Sousa)",
+   "resumo_voto": "Caio dá provimento: movimentação de terra licenciada para obra (art. 3º §1º do Código), excedente doado ao proprietário e usado no próprio imóvel, sem comercialização; torna sem efeito o auto e manda comunicar AGU, MPF e órgão ambiental. Tasso: comunicar lavra ilegal só após esgotar a via administrativa.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator: nega provimento (mantém posição)",
+     "ts": "6:56:10",
+     "justificativa": "retirada e alienação de bem mineral da União sem autorização",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "voto-vista: dá provimento",
+     "ts": "6:47:00",
+     "justificativa": "sem comercialização; licença municipal",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o voto-vista",
+     "ts": "6:55:25",
+     "justificativa": "comunicações só após decisão final",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o voto-vista",
+     "ts": "6:56:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.1.1-5.1.2",
+   "ts": "6:58:25",
+   "processo": "890.204/1998 e 890.205/1998",
+   "interessado": "Votorantim Cimentos S.A.",
+   "assunto": "Pedido de cancelamento de bloqueio de faixa do gasoduto Campinas-Rio (Petrobras)",
+   "tema": [
+    "bloqueio de área",
+    "outorga de títulos minerários"
+   ],
+   "relator": "Luiz Paniago",
+   "resultado": "aprovado por unanimidade (voto lido pelo DG por ausência do relator)",
+   "resumo_voto": "Parcial provimento: retifica a faixa bloqueada para o traçado real do gasoduto (parecer PROGE 500/2008), exigindo termo de renúncia.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "lê o voto do relator ausente e acompanha",
+     "ts": "6:58:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "7:27:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "7:27:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "7:27:42",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.2.1",
+   "ts": "7:03:58",
+   "processo": "996.0?/2011?",
+   "interessado": "Companhia Espírito-Santense de Saneamento (Cesan)",
+   "assunto": "Bloqueio provisório de 212,67 ha (Viana e Domingos Martins-ES) para a barragem do rio Jucu Braço Norte (abastecimento da Grande Vitória)",
+   "tema": [
+    "bloqueio de área",
+    "recursos hídricos / utilidade pública"
+   ],
+   "relator": "Luiz Paniago",
+   "resultado": "aprovado por unanimidade (voto lido pelo DG por ausência do relator)",
+   "resumo_voto": "Defere bloqueio provisório; suspende análise de nove processos interferentes (Águas BR e outros) sem impedir atividades já autorizadas.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "lê o voto do relator ausente e acompanha",
+     "ts": "7:03:58",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "7:27:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "7:27:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "7:27:42",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.3.1",
+   "ts": "7:07:57",
+   "processo": "860.296/1998?",
+   "interessado": "Areal do Vale Ltda.",
+   "assunto": "Pedido de reconsideração contra decisão (voto LP 70/2025) que negou prorrogação de prazo de exigência ambiental e indeferiu requerimento de lavra",
+   "tema": [
+    "outorga de títulos minerários (requerimento de lavra)",
+    "agregados para construção civil",
+    "ambiental / licenciamento"
+   ],
+   "relator": "Luiz Paniago",
+   "resultado": "aprovado por unanimidade (voto lido pelo DG por ausência do relator)",
+   "resumo_voto": "Nega provimento: precedentes não idênticos; sem ingresso comprovado no órgão ambiental.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "lê o voto do relator ausente e acompanha",
+     "ts": "7:07:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "7:27:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "7:27:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "7:27:42",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.4.1",
+   "ts": "7:09:55",
+   "processo": "850.95?/2013",
+   "interessado": "Amapá Metals Corporation (grafia incerta)",
+   "assunto": "Recurso contra nulidade ex officio de alvará de fosfato (Pedra Branca do Amapari-AP) por TAH",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "nulidade de alvará"
+   ],
+   "relator": "Luiz Paniago",
+   "resultado": "aprovado por unanimidade (voto lido pelo DG por ausência do relator)",
+   "resumo_voto": "Não conhece por intempestividade.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "lê o voto do relator ausente e acompanha",
+     "ts": "7:09:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "7:27:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "7:27:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "7:27:42",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.4.2",
+   "ts": "7:12:40",
+   "processo": "831.009/2014",
+   "interessado": "Rodrigo Fonseca Valente (cessionário)",
+   "assunto": "Recurso contra nulidade ex officio de alvará de granito (MG) por TAH vencida após entrega de RFP positivo",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "nulidade de alvará"
+   ],
+   "relator": "Luiz Paniago",
+   "resultado": "aprovado por unanimidade (voto lido pelo DG por ausência do relator)",
+   "resumo_voto": "Parcial provimento: alvará já extinto pela entrega do RFP (precedente LP 64/2025); mantém multa, anula a nulidade e retoma análise do RFP.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "lê o voto do relator ausente e acompanha",
+     "ts": "7:12:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "7:27:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "7:27:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "7:27:42",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.5.1-5.5.3",
+   "ts": "7:15:02",
+   "processo": "806.052/2008; 878.053/2006; 826.431/2013",
+   "interessado": "Geosul Indústria de Gesso (gipsita, Grajaú-MA); Fernando Ribeiro Franco Neto; Areal Quadra H (ouro e areia, Morretes/Antonina-PR)",
+   "assunto": "Recursos contra não aprovação de RFP",
+   "tema": [
+    "outorga de títulos minerários (relatório final de pesquisa)",
+    "recursos administrativos"
+   ],
+   "relator": "Luiz Paniago",
+   "resultado": "aprovado por unanimidade (voto lido pelo DG por ausência do relator)",
+   "resumo_voto": "Nega provimento; no 5.5.3, recorrente arrematou a mesma área na 8ª rodada (preclusão lógica) e o arquivamento é convalidado.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "lê o voto do relator ausente e acompanha",
+     "ts": "7:15:02",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "7:27:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "7:27:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "7:27:42",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.6.1",
+   "ts": "7:22:03",
+   "processo": "980.034/20?? (proc. minerário 880.312/2013)",
+   "interessado": "Irineu Brustolin",
+   "assunto": "Recurso contra notificação de cobrança de TAH (cassiterita, Lábrea-AM, Flona do Iquiri; ≈ R$ 35 mil)",
+   "tema": [
+    "CFEM / arrecadação / TAH"
+   ],
+   "relator": "Luiz Paniago",
+   "resultado": "aprovado por unanimidade (voto lido pelo DG por ausência do relator)",
+   "resumo_voto": "Nega provimento: renúncia posterior ao vencimento; UC não afasta a TAH; sem prescrição.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "lê o voto do relator ausente e acompanha",
+     "ts": "7:22:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "7:27:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "7:27:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "7:27:42",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5.7.1",
+   "ts": "7:25:22",
+   "processo": "não informado",
+   "interessado": "não informado",
+   "assunto": "Recurso contra cobrança (leitura não aparece na transcrição)",
+   "tema": [
+    "CFEM / arrecadação"
+   ],
+   "relator": "Luiz Paniago",
+   "resultado": "aprovado por unanimidade (voto lido pelo DG por ausência do relator)",
+   "resumo_voto": "Proclamado como aprovado por unanimidade, mas o voto não foi lido na parte transcrita.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "lê o voto do relator ausente e acompanha",
+     "ts": "7:25:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator",
+     "ts": "7:27:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "7:27:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Seabra",
+     "voto": "acompanha o relator",
+     "ts": "7:27:42",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "2.1.9",
+  "2.3.2",
+  "5.8.1",
+  "5.8.2",
+  "5.9.1",
+  "5.10.1",
+  "5.11.1",
+  "5.12.1",
+  "5.13.1"
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo e nomes de empresas distorcidos; marcados como incertos.",
+  "Voto de Tasso no 1.2.1 não identificado; proclamação diz maioria sem nomear divergente (talvez o voto original de Caio, que porém declarou acompanhar o DG).",
+  "Numeração de alguns itens de Tasso (2.1.x) inferida da leitura e do pregão.",
+  "Item 5.7.1 proclamado aprovado sem leitura na transcrição.",
+  "«Diretor do Espanhia/Panago» = Luiz Paniago (grafia incerta). «Dr. Caio Azevedo/Cevedo» na Secretaria-Geral é o secretário, não o diretor Caio Seabra.",
+  "Votos de seguidores com ts aproximado."
+ ]
+}
