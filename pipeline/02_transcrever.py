@@ -61,6 +61,7 @@ for i, v in enumerate(fila, 1):
     if a.max and ok >= a.max: print(f"Limite da rodada ({a.max}) atingido. Rode de novo mais tarde."); saida = 2; break
     segs, motivo, info = baixar(v["id"])
     if not segs and re.search(r"private video|videounplayable|members-only|join this channel", str(info), re.I): motivo = "privado"  # vídeo privado: não é bloqueio, não insistir
+    if not segs:
         falha += 1; seguidas += (motivo in ("bloqueio", "limite429"))
         if motivo == "limite429": print("HTTP 429: o YouTube limitou seu IP. Pare e tente de novo em 2-4 horas (sem cookies; --pausa 40)."); saida = 3; break
         print(f"[{i}/{len(fila)}] {motivo.upper()} ({info}) {v['tipo']} {v['titulo'][:60]}", flush=True)
