@@ -41,10 +41,10 @@ Total: **44** · sem /diretoria: 7; 2026/participativa: 1; 2026/audiencia: 2; 20
 - 2019-07-22 · diretoria · 1ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM (12/2018). · https://www.youtube.com/watch?v=sFSwaGLNeLM · **transcrição sem fala útil (1339 caracteres; só música/ruído)**
 - 2019-02-19 · diretoria · 1ª Reunião Ordinária Pública da Diretoria Colegiada da ANM - 19/02/2019 - parte  · https://www.youtube.com/watch?v=GU7nGhRMt2k · **transcrição sem fala útil (294 caracteres; só música/ruído)**
 - 2019-02-19 · diretoria · 1ª Reunião Ordinária Pública da Diretoria Colegiada da ANM - 19/02/2019 - parte  · https://www.youtube.com/watch?v=5J8KRHW6hFQ · **transcrição sem fala útil (254 caracteres; só música/ruído)**
-- s/data · diretoria · NA · https://www.youtube.com/watch?v=yR6GkbJfAUI · **bloqueio temporário do YouTube (tentar de novo)**
-- s/data · diretoria · NA · https://www.youtube.com/watch?v=lRgOSOxqLMo · **bloqueio temporário do YouTube (tentar de novo)**
-- s/data · diretoria · NA · https://www.youtube.com/watch?v=0hV4jkrqIgA · **bloqueio temporário do YouTube (tentar de novo)**
-- s/data · diretoria · NA · https://www.youtube.com/watch?v=dpf6isne5HM · **bloqueio temporário do YouTube (tentar de novo)**
-- s/data · diretoria · NA · https://www.youtube.com/watch?v=cLAaJNsU5r8 · **bloqueio temporário do YouTube (tentar de novo)**
+- s/data · diretoria · NA · https://www.youtube.com/watch?v=yR6GkbJfAUI · **privado**
+- s/data · diretoria · NA · https://www.youtube.com/watch?v=lRgOSOxqLMo · **privado**
+- s/data · diretoria · NA · https://www.youtube.com/watch?v=0hV4jkrqIgA · **privado**
+- s/data · diretoria · NA · https://www.youtube.com/watch?v=dpf6isne5HM · **privado**
+- s/data · diretoria · NA · https://www.youtube.com/watch?v=cLAaJNsU5r8 · **privado**
 - s/data · diretoria · NA · https://www.youtube.com/watch?v=I6qZ0ZgQJis · **ainda não baixado (rodar a coleta no Mac)**
 - s/data · diretoria · NA · https://www.youtube.com/watch?v=qRtmuUU4veQ · **ainda não baixado (rodar a coleta no Mac)**
