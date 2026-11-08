@@ -48,12 +48,16 @@
   - votos: Caio: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=FMURCcvbgzk&t=11701s)
 - **RD 64 (2024-07-31)**, 5.7.3 · relator **Caio Seabra** · Recurso contra indeferimento de PLG → aprovado por unanimidade (negado provimento)
   - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=_IeZwId2D0w&t=20190s)
-- **RD 65 (2024-08-26)**, 5.x-demais · relator **Caio Seabra** · Demais itens de Caio Seabra: bloqueio provisório e disponibilidade, nulidade de alvará por interferência, interferência total, registro de licença (No → aprovados por unanimidade (5.9.2 retirado de pauta)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=14805s)
-- **RD 66 (2024-10-07)**, 1.7.1 · relator **Roger Cabral** · Voto-vista sobre recurso contra indeferimento de requerimento de pesquisa (minério de ferro, Belo Vale/Congonhas/MG) por interferência total; manifest → deliberação sobrestada por pedido de vista do diretor Caio Seabra
-  - votos: Mauro: revisor_diverge; Tasso: revisor_acompanha; Guilherme: outro; Roger: relator; Caio: vista · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=8751s)
-- **RD 68 (2024-12-02)**, 2.7.1–2.7.3 · relator **Guilherme Gomes** · Referendo de decisões do relator aprovando relatórios de reavaliação de reservas para lítio (aditamento de substância em processos de granito/rocha or → aprovado por unanimidade (referendo)
-  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=7190s)
+- **RD 65 (2024-08-26)**, 2.6.1 · relator **Guilherme Gomes** · Emissão de guia de utilização de minério de manganês (pedido inicial 500 mil t/ano; área técnica: 100 mil t/ano) → aprovado por unanimidade, com ressalva do Diretor-Geral, que acompanha o volume proposto p
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7998s)
+- **RD 65 (2024-08-26)**, 3.2.1 · relator **Tasso Mendonça** · Guia de utilização de 60 mil t/ano de minério de manganês por 3 anos (Marabá, PA), acima do limite do Anexo IV da Consolidação 155 → aprovado por maioria — divergência parcial do Diretor-Geral quanto ao prazo
+  - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=10138s)
+- **RD 66 (2024-10-07)**, 3.1.1 · relator **Tasso Mendonça** · Ampliação da guia de utilização 199/2023 de 4 mil para 48 mil t/ano de quartzo (silício metálico e ferroligas) → aprovado por unanimidade
+  - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=26833s)
+- **RD 66 (2024-10-07)**, 4.4.1 · relator **Roger Cabral** · Prorrogação e ampliação da guia de utilização 2/2021 de 6 mil para 150 mil t/ano de minério de manganês por 3 anos → aprovado por unanimidade
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=30464s)
+- **RD 68 (2024-12-02)**, 2.7.1–2.7.3 · relator **Guilherme Gomes** · Referendo de decisões ad referendum que aprovaram relatório de reavaliação de reservas de lítio assinado por Qualified Person (QP/CBRR) nos termos da  → aprovado por unanimidade
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=7176s)
 - **RD 70 (2025-01-30)**, 1.4.1 · relator **Mauro Sousa** · Emissão de guia de utilização para rocha potássica (substância fora do Anexo IV da consolidação normativa) → aprovado por unanimidade
   - votos: Mauro: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=hETIUYUx-48&t=1092s)
 - **RD 70 (2025-01-30)**, 3.1.2 · relator **Tasso Mendonça** · Prorrogação de guia de utilização: 60.000 t/ano de manganês por 3 anos, Guiratinga (MT) → aprovado por unanimidade

@@ -176,24 +176,30 @@
   - votos: Guilherme: revisor_acompanha; Tasso: revisor_acompanha; Mauro: outro; Caio: vista · [vídeo](https://www.youtube.com/watch?v=8Fj3c7cQucw&t=20974s)
 - **RD 63 (2024-07-08)**, 5.1.1 · relator **Caio Seabra** · Voto-vista: pedido de prorrogação do prazo para apresentar o voto-vista (art. 11 do Regimento Interno; digitalização concluída em 28/6) → prorrogação aprovada por unanimidade
   - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=8Fj3c7cQucw&t=27834s)
-- **RD 65 (2024-08-26)**, ata · relator **Mauro Sousa** · Aprovação das atas da 63ª e 64ª Reuniões Ordinárias Públicas → aprovadas por unanimidade
-  - votos: Mauro: outro; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=1830s)
-- **RD 65 (2024-08-26)**, 2.x-retirados · relator **Guilherme Gomes** · Itens retirados de pauta por Guilherme Gomes: 2.1.1, 2.1.5, 2.2.1, 2.2.2, 2.3.1-2.3.3, 2.3.6-2.3.8 (2.3.7-2.3.8 tinham sustentação oral) e 2.3.16-2.3. → retirados de pauta
-  - votos: Mauro: outro; Tasso: outro; Guilherme: outro; Roger: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=6662s)
-- **RD 65 (2024-08-26)**, 3.1.1 · relator **Tasso Mendonça** · Aprovação de projeto técnico de salvamento paleontológico (Formação Irati, mesossauros), por demanda do MPF → aprovado por unanimidade
-  - votos: Mauro: acompanha; Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=9306s)
-- **RD 65 (2024-08-26)**, 3.4.1-3.7.2/3.9.1 · relator **Tasso Mendonça** · Itens retirados de pauta por Tasso Mendonça (3.4.1, 3.4.2, 3.5.1, 3.5.2, 3.6.1, 3.7.1, 3.7.2, 3.9.1) → retirados de pauta
-  - votos: Mauro: outro; Tasso: outro; Guilherme: outro; Roger: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=9306s)
-- **RD 65 (2024-08-26)**, 4.x-retirados · relator **Roger Cabral** · Itens retirados de pauta por Roger Cabral: 4.2.2, 4.5.1, 4.5.2, 4.7.1 → retirados de pauta
-  - votos: Mauro: outro; Tasso: outro; Guilherme: outro; Roger: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=12172s)
-- **RD 65 (2024-08-26)**, 5.1.1-5.1.4/5.2.1 · relator **Caio Seabra** · Pedidos de prorrogação de prazo para apresentar votos-vista (complexidade) → aprovados por unanimidade
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: outro · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=14743s)
+- **RD 65 (2024-08-26)**, 1.8.1 · relator **Mauro Sousa** · Pedido de reconsideração contra decisão da Diretoria (4ª/45ª ROP, 2023) que declarou nulo o alvará de pesquisa 10.455/2013 → deliberação sobrestada — pedido de vista de Guilherme Gomes
+  - votos: Mauro: relator; Guilherme: vista · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=5671s)
+- **RD 65 (2024-08-26)**, 3.1.1 · relator **Tasso Mendonça** · Aprovação de projeto técnico de salvamento paleontológico (Formação Irati, Mesosaurus/Brazilosaurus) após demanda do MPF → aprovado por unanimidade
+  - votos: Tasso: relator; Mauro: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=9359s)
+- **RD 65 (2024-08-26)**, 5.1.1 · relator **Caio Seabra** · Voto-vista: pedido de prorrogação do prazo para apresentar o voto-vista (complexidade do tema) → aprovado por unanimidade — prazo prorrogado
+  - votos: Caio: revisor_acompanha; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=14796s)
+- **RD 65 (2024-08-26)**, 5.1.2 · relator **Caio Seabra** · Voto-vista: pedido de prorrogação do prazo para apresentar o voto-vista (complexidade do tema) → aprovado por unanimidade — prazo prorrogado
+  - votos: Caio: revisor_acompanha; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=14796s)
+- **RD 65 (2024-08-26)**, 5.1.3 · relator **Caio Seabra** · Voto-vista: pedido de prorrogação do prazo para apresentar o voto-vista (complexidade do tema) → aprovado por unanimidade — prazo prorrogado
+  - votos: Caio: revisor_acompanha; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=14796s)
+- **RD 65 (2024-08-26)**, 5.1.4 · relator **Caio Seabra** · Voto-vista: pedido de prorrogação do prazo para apresentar o voto-vista (complexidade do tema) → aprovado por unanimidade — prazo prorrogado
+  - votos: Caio: revisor_acompanha; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=14796s)
+- **RD 65 (2024-08-26)**, 5.2.1 · relator **Caio Seabra** · Voto-vista: pedido de prorrogação do prazo para apresentar o voto-vista (complexidade do tema) → aprovado por unanimidade — prazo prorrogado
+  - votos: Caio: revisor_acompanha; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=14796s)
+- **RD 65 (2024-08-26)**, 5.3.1 · relator **Caio Seabra** · Pedido para tornar sem efeito bloqueio de área (art. 42 do Código) por suposta interferência com o Complexo Petroquímico da Petrobras (Comperj) → aprovado por unanimidade — bloqueio tornado sem efeito
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=14832s)
 - **RD 66 (2024-10-07)**, ata · relator **Mauro Sousa** · Aprovação da ata da 65ª Reunião Ordinária Pública → aprovada por unanimidade
-  - votos: Mauro: outro; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=1186s)
-- **RD 66 (2024-10-07)**, 3.5.2/3.6.1/3.8.1 · relator **Tasso Mendonça** · Itens retirados de pauta pelo relator Tasso Mendonça (anunciados como 352, 361 e 381) → retirados de pauta
-  - votos: Mauro: outro; Tasso: outro; Guilherme: outro; Roger: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=26775s)
-- **RD 66 (2024-10-07)**, 4.1.1 · relator **Roger Cabral** · Minuta de resolução que altera 17 artigos da Portaria DNPM 155/2016 para dispensar reconhecimento de firma e adotar assinatura eletrônica (qualificada → aprovado por unanimidade
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=29019s)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=1220s)
+- **RD 66 (2024-10-07)**, 2.7.1 · relator **Mauro Sousa** · Voto-vista (revisor): pedido de reconsideração contra a declaração de nulidade do alvará de pesquisa 10.455/2013 (decidida na 5ª ROP); disputa de prio → deliberação sobrestada por pedido de vista do diretor Tasso Mendonça
+  - votos: Guilherme: revisor_diverge; Mauro: revisor_acompanha; Tasso: vista · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=16050s)
+- **RD 66 (2024-10-07)**, 4.1.1 · relator **Roger Cabral** · Minuta de resolução que altera 17 artigos da Portaria DNPM 155/2016 (Consolidação Normativa) para dispensar reconhecimento de firma e admitir assinatu → aprovado por unanimidade
+  - votos: Roger: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=29081s)
+- **RD 66 (2024-10-07)**, 5.6.1 · relator **Caio Seabra** · Requerimento de guia de utilização de 75 mil t/ano de areia e 45 mil t/ano de argila por 3 anos; SPU-MG pediu cancelamento do alvará por ser área da U → aprovado por unanimidade
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33319s)
 - **RD 67ª Reunião Ordinária Pública (Parte 02) (2024-11-04)**, 1.6.1 · relator **Mauro Sousa** · Referendo de ato do Diretor-Geral que suspendeu, por ordem judicial (agravo de instrumento), a deliberação da 65ª ROP (voto GG 759/2024) sobre intempe → aprovado por maioria, vencido Guilherme Gomes
   - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EpUH2BErxWU&t=17086s)
 - **RD 67ª Reunião Ordinária Pública (Parte 02) (2024-11-04)**, 1.8.1 · relator **Caio Seabra** · Voto-vista: recurso contra indeferimento de guia de utilização (quartzito, Bahia) e convalidação da GU 02/2021 emitida por superintendente substituto  → aprovado por unanimidade o voto revisor de Mauro Sousa, com adesão do relator original Cai
@@ -202,8 +208,22 @@
   - votos: Roger: relator; Caio: revisor_acompanha; Mauro: outro; Guilherme: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=GVCVhAj980Y&t=5538s)
 - **RD 30ª Reunião Extraordinária Pública (2024-11-22)**, 2.6.1 · relator **Guilherme Gomes** · Alteração do art. 5º da Resolução ANM 24/2020: retirar a exigência de que a disputa por áreas em disponibilidade ocorra exclusivamente em plataforma e → aprovado por unanimidade, com dispensa de AIR e de participação social
   - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=x_q7U7MZEZQ&t=1361s)
-- **RD 68 (2024-12-02)**, questão de ordem — reunião extraordinária (Luz Mineração) · relator **Mauro Sousa** · Pedido para julgar o voto-vista de Tasso sobre o alvará da Luz antes do fim do mandato de Guilherme Gomes, diante de liminar da Justiça Federal do DF; → aprovado por unanimidade, com impedimento declarado de Guilherme Gomes
-  - votos: Mauro: outro; Guilherme: outro; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=2423s)
+- **RD 68 (2024-12-02)**, questão de ordem — reunião extraordinária (Luz Mineração) · relator **Mauro Sousa** · Pedido da advogada para julgar na sessão (ou até quarta-feira, último dia do mandato de Guilherme Gomes) o voto-vista de Tasso Mendonça sobre a nulida → aprovado por unanimidade (convocação da extraordinária), com impedimento declarado de Guil
+  - votos: Mauro: outro; Tasso: acompanha; Guilherme: outro; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=2423s)
+- **RD 68 (2024-12-02)**, ata da 67ª ROP · relator **Mauro Sousa** · Aprovação da ata da 67ª Reunião Ordinária Pública → aprovada por unanimidade
+  - votos: Mauro: outro; Tasso: outro; Guilherme: outro; Roger: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=3370s)
+- **RD 68 (2024-12-02)**, 2.6.1 · relator **Guilherme Gomes** · Retirado de pauta pelo relator → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=4690s)
+- **RD 68 (2024-12-02)**, 4.7.1 e 4.7.3 · relator **Roger Cabral** · Retirados de pauta pelo relator → retirados de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=14612s)
+- **RD 68 (2024-12-02)**, 4.6.1 · relator **Roger Cabral** · Recurso/reconsideração contra despacho que averbou «incorporação» do alvará de pesquisa de manganês (Marabá-PA) pela integralização no contrato social → sobrestado: pedido de vista de Guilherme Gomes
+  - votos: Roger: relator; Guilherme: vista; Mauro: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=15748s)
+- **RD 68 (2024-12-02)**, 5.3.1 · relator **Caio Seabra** · Retirado de pauta pelo relator → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=18094s)
+- **RD 68 (2024-12-02)**, 5.5.1 · relator **Caio Seabra** · Pedido de reconsideração contra decisão da 65ª ROP (voto CS 341/2024) sobre indeferimento de requerimento de pesquisa por interferência total; pedido  → aprovado por maioria; vencido Mauro Sousa
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=18735s)
+- **RD 68 (2024-12-02)**, 5.7.1 · relator **Caio Seabra** · Pedido de reconsideração contra decisão da 64ª ROP (voto CS 274/2024) que manteve indeferimento de prorrogação de prazo para exigência em requerimento → aprovado por maioria; vencido Mauro Sousa
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=18934s)
 - **RD 69 (2024-12-18)**, 5.1.1 · relator **Caio Seabra** · Agenda Regulatória 2025–2026 (22 temas prioritários em 6 eixos e agenda indicativa) → aprovado por unanimidade dos presentes; vigência em 02/01/2025
   - votos: Caio: relator; Tasso: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=PPaw9lNsgZo&t=7244s)
 - **RD 70 (2025-01-30)**, 3.8.1 · relator **Tasso Mendonça** · Recurso contra negativa de pedido de vistas e cópias de processo minerário (pedido de sigilo pelo titular) → aprovado por unanimidade

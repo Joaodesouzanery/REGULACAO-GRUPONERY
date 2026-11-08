@@ -1,11 +1,11 @@
 # Perfil analítico — Guilherme Gomes · tema: participacao_social
 
-**Amostra:** presente em 51 das 53 reuniões analisadas em que há registro de presença/ausência; 14 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 51 das 53 reuniões analisadas em que há registro de presença/ausência; 15 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 12 (100% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 13 (100% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 1/2 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** recursos_recursais 1004/193; outorga_titulos 944/171; agregados_construcao 306/41; cfem_arrecadacao 251/56; fiscalizacao_sancoes 239/44; garimpo_pla 98/14; ambiental_social 83/15; regulacao_normativa 61/12; institucional 59/5; judicializacao 48/7; barragens_seguranca 40/3; minerais_criticos 18/4; participacao_social 14/2; outros 9/2
+**Temas (nº de itens em que votou / relatorias):** recursos_recursais 1120/225; outorga_titulos 1018/175; agregados_construcao 331/43; cfem_arrecadacao 295/85; fiscalizacao_sancoes 281/70; garimpo_pla 98/14; ambiental_social 91/17; institucional 65/5; regulacao_normativa 63/13; judicializacao 50/9; barragens_seguranca 42/3; minerais_criticos 20/5; participacao_social 15/2; outros 11/2
 **Argumentos recorrentes nas justificativas registradas:** governança/rito (1)
 
 ## Evidências (reunião · item · voto · justificativa)
@@ -23,4 +23,5 @@
 - **RD 27ª Extraordinária (2024-05-17)**, item 1 — Aprovação do Edital nº 1/2024 da 8ª rodada de disponibilidade de áreas, modalidade oferta pública e leilão eletrônico com proposta fechada,  · voto: *relator, aprova* (relator, conf. alta) · «rito regulatório alinhado às boas práticas; previsibilidade aos regulados; urgência no cronograma» · [vídeo](https://www.youtube.com/watch?v=PYq7NyYv0zk&t=96s) · resultado: aprovado por unanimidade
 - **RD 63 (2024-07-08)**, item 4.9.1 — Alteração da Resolução ANM 143/2023: cálculo da CFEM devida a municípios afetados por estruturas de mineração no ciclo maio/2024 a abril/202 · voto: *acompanha o relator* (acompanha, conf. media) · «PFE não viu óbice à proposta.» · [vídeo](https://www.youtube.com/watch?v=8Fj3c7cQucw&t=5280s) · resultado: aprovado por unanimidade, com inclusão do texto proposto por Tasso Men
 - **RD 64 (2024-07-31)**, item 5.1.1 — Alteração da Resolução ANM 95/2022 (consolidação normativa sobre segurança de barragens de mineração): 12 itens de desburocratização, 10 de  · voto: *acompanha o relator* (acompanha, conf. alta) · «Tema caro aos mineiros e brasileiros; revisitar normas traz segurança à população.» · [vídeo](https://www.youtube.com/watch?v=_IeZwId2D0w&t=2499s) · resultado: aprovado por unanimidade
+- **RD 65 (2024-08-26)**, item 3.1.1 — Aprovação de projeto técnico de salvamento paleontológico (Formação Irati, Mesosaurus/Brazilosaurus) após demanda do MPF · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=11394s) · resultado: aprovado por unanimidade
 - **RD 67ª Reunião Ordinária Pública (Parte 01) (2024-11-04)**, item 2.1.1 — Proposta de alteração da Resolução ANM 85/2021 (aproveitamento de rejeitos e estéreis) — parágrafo único do art. 2º, que exige servidão mine · voto: *relator, não aprova a alteração (mantém o parágrafo único do art. 2º)* (relator, conf. alta) · «servidão prévia é o vínculo indubitável da massa fora da área ao título; facultar sua constituição a qualquer momento geraria insegurança e permitiria retomar material abandonado» · [vídeo](https://www.youtube.com/watch?v=chQHqLzOYLM&t=3556s) · resultado: sobrestado por pedido de vista de Caio Seabra

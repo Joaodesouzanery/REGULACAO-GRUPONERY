@@ -82,6 +82,10 @@
   - votos:  · [vídeo](https://www.youtube.com/watch?v=96WWdF-Y2IA&t=24720s)
 - **RD 58 (2024-01-24)**, 5.9.1 · relator **Caio Seabra** · não informado → retirado de pauta
   - votos:  · [vídeo](https://www.youtube.com/watch?v=96WWdF-Y2IA&t=25080s)
+- **RD 66 (2024-10-07)**, 5.13.1 · relator **Caio Seabra** · Ampliação de guia de utilização para 675 mil t/ano de minério de ferro por 3 anos → aprovado por unanimidade
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=34077s)
+- **RD 66 (2024-10-07)**, 5.13.2 · relator **Caio Seabra** · Prorrogação e ampliação de guia de utilização para 499 mil t/ano de minério de ouro por 3 anos → aprovado por unanimidade
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=34110s)
 - **RD 70 (2025-01-30)**, 3.4.2 · relator **Tasso Mendonça** · Item retirado de pauta pelo relator → retirado de pauta
   - votos:  · [vídeo](https://www.youtube.com/watch?v=hETIUYUx-48&t=2187s)
 - **RD 70 (2025-01-30)**, 3.9.1 · relator **Tasso Mendonça** · Item retirado de pauta pelo relator → retirado de pauta

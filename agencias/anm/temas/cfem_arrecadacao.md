@@ -578,36 +578,118 @@
   - votos: Mauro: acompanha; Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=_IeZwId2D0w&t=13295s)
 - **RD 64 (2024-07-31)**, 5.10.1 · relator **Caio Seabra** · Pedido de reconsideração de decisão da Diretoria sobre nulidade de alvará de pesquisa por não pagamento de TAH → aprovado por maioria, vencido o Diretor-Geral
   - votos: Mauro: vencido; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=_IeZwId2D0w&t=20941s)
-- **RD 65 (2024-08-26)**, 1.1.1 · relator **Mauro Sousa** · Recurso contra multa por não pagamento de TAH → aprovado por unanimidade (recurso não provido)
-  - votos: Mauro: relator; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=3325s)
-- **RD 65 (2024-08-26)**, 2.1.2-2.1.4 · relator **Guilherme Gomes** · Recursos contra multas e nulidade de alvarás de pesquisa por não pagamento de TAH (parcelamento alegado) → aprovado por unanimidade (não providos/intempestivos)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=6725s)
-- **RD 65 (2024-08-26)**, 2.3.4-2.3.22 · relator **Guilherme Gomes** · Recursos contra multas por não pagamento de TAH (alegação de falta de intimação) → aprovados por unanimidade (multas mantidas)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7029s)
-- **RD 65 (2024-08-26)**, 2.7.1-2.7.2 · relator **Guilherme Gomes** · Recursos contra notificações administrativas de TAH (processo 832.645/1995) → aprovado por unanimidade (não conhecidos, intempestivos)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=8257s)
-- **RD 65 (2024-08-26)**, 4.3.1-4.3.2 · relator **Roger Cabral** · Pedidos de reconsideração contra nulidade ex officio de alvarás de pesquisa por não pagamento de TAH (intempestivos) → aprovados por unanimidade (não conhecidos)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=12172s)
-- **RD 65 (2024-08-26)**, 4.4.1-4.4.2 · relator **Roger Cabral** · Recursos contra multas por não pagamento de TAH → aprovados por unanimidade (multas mantidas)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=12728s)
-- **RD 65 (2024-08-26)**, 4.6.1 · relator **Roger Cabral** · Recurso contra cobrança de CFEM (base de cálculo contestada sem documentação) → aprovado por unanimidade (não provido; exclusão do Cadin indevido)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=13093s)
-- **RD 65 (2024-08-26)**, 5.x-demais · relator **Caio Seabra** · Demais itens de Caio Seabra: bloqueio provisório e disponibilidade, nulidade de alvará por interferência, interferência total, registro de licença (No → aprovados por unanimidade (5.9.2 retirado de pauta)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=14805s)
-- **RD 66 (2024-10-07)**, 2.4.7-2.4.9 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento de taxa anual por hectare no prazo (alegação de boleto indisponível no site na pandemia); sustenta → aprovado por unanimidade (recurso conhecido e não provido)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=1247s)
-- **RD 66 (2024-10-07)**, 2.4.1-2.4.17 · relator **Guilherme Gomes** · Recursos contra multas por não pagamento de TAH; o 2.4.14 é multa de segurança de barragem (sirenes automatizadas, barragem Gregório, Mineração Corumb → aprovados por unanimidade (multas mantidas)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22036s)
-- **RD 66 (2024-10-07)**, 2.5.1 · relator **Guilherme Gomes** · Pedido de reconsideração contra nulidade ex officio de alvará de pesquisa por não pagamento de TAH → aprovado por unanimidade (não conhecido, intempestivo)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22648s)
-- **RD 66 (2024-10-07)**, 2.5.2 · relator **Guilherme Gomes** · Recurso contra nulidade de alvará de pesquisa (granito) por não pagamento da TAH do 3º ano, declarada após entrega do relatório final → aprovado por unanimidade (não conhece; mantém taxa e multa; anula de ofício a nulidade do 
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22830s)
-- **RD 66 (2024-10-07)**, 2.6.1-2.6.2 · relator **Guilherme Gomes** · Recursos contra nulidade de alvarás de pesquisa por não pagamento de TAH → aprovados por unanimidade (2.6.1 não provido; 2.6.2 não conhecido)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=23658s)
-- **RD 66 (2024-10-07)**, 3.2.1 · relator **Tasso Mendonça** · Recurso contra multa por não pagamento da TAH (areia, Rio do Oeste/SC) → aprovado por unanimidade
-  - votos: Mauro: acompanha; Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=26961s)
-- **RD 66 (2024-10-07)**, 5.x-demais · relator **Caio Seabra** · Demais itens da relatoria de Caio Seabra: recursos da 8ª Rodada, não aprovação de RFP, prorrogação de alvará, GU de areia/argila (75 mil t areia, 45 m → aprovados por unanimidade (5.3.2 retirado de pauta)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=32364s)
+- **RD 65 (2024-08-26)**, 1.1.1 · relator **Mauro Sousa** · Recurso contra multa por não pagamento da taxa anual por hectare (TAH) → aprovado por unanimidade — recurso desprovido
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=3361s)
+- **RD 65 (2024-08-26)**, 2.1.2 · relator **Guilherme Gomes** · Recurso contra declaração de nulidade ex officio de alvará de pesquisa por não pagamento de TAH → aprovado por unanimidade — recurso não conhecido
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=6752s)
+- **RD 65 (2024-08-26)**, 2.1.3 · relator **Guilherme Gomes** · Recurso contra declaração de nulidade ex officio de alvará de pesquisa por não pagamento de TAH → aprovado por unanimidade — recurso não conhecido
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=6752s)
+- **RD 65 (2024-08-26)**, 2.1.4 · relator **Guilherme Gomes** · Recurso contra declaração de nulidade ex officio de alvará de pesquisa por não pagamento de TAH → aprovado por unanimidade — recurso não conhecido
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=6752s)
+- **RD 65 (2024-08-26)**, 2.3.4 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento de TAH (autos 9187 e 9188/2020) → aprovado por unanimidade — multa mantida
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=6895s)
+- **RD 65 (2024-08-26)**, 2.3.5 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento de TAH (autos 9187 e 9188/2020) → aprovado por unanimidade — multa mantida
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=6895s)
+- **RD 65 (2024-08-26)**, 2.3.9 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento de TAH; alegação de falta de intimação do auto de infração → aprovado por unanimidade — multa mantida
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7046s)
+- **RD 65 (2024-08-26)**, 2.3.10 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento de TAH; alegação de falta de intimação do auto de infração → aprovado por unanimidade — multa mantida
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7046s)
+- **RD 65 (2024-08-26)**, 2.3.11 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento de TAH; alegação de falta de intimação do auto de infração → aprovado por unanimidade — multa mantida
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7046s)
+- **RD 65 (2024-08-26)**, 2.3.12 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento de TAH; alegação de falta de intimação do auto de infração → aprovado por unanimidade — multa mantida
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7046s)
+- **RD 65 (2024-08-26)**, 2.3.13 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento de TAH; alegação de falta de intimação do auto de infração → aprovado por unanimidade — multa mantida
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7046s)
+- **RD 65 (2024-08-26)**, 2.3.14 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento de TAH; alegação de falta de intimação do auto de infração → aprovado por unanimidade — multa mantida
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7046s)
+- **RD 65 (2024-08-26)**, 2.3.15 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento de TAH; alegação de falta de intimação do auto de infração → aprovado por unanimidade — multa mantida
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7046s)
+- **RD 65 (2024-08-26)**, 2.3.20 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento tempestivo de TAH (alegação: pandemia de covid-19) → aprovado por unanimidade — multa mantida
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7229s)
+- **RD 65 (2024-08-26)**, 2.3.21 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento tempestivo de TAH (alegação: pandemia de covid-19) → aprovado por unanimidade — multa mantida
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7229s)
+- **RD 65 (2024-08-26)**, 2.3.22 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento tempestivo de TAH (alegação: pandemia de covid-19) → aprovado por unanimidade — multa mantida
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7229s)
+- **RD 65 (2024-08-26)**, 2.7.1 · relator **Guilherme Gomes** · Recurso contra notificações administrativas de cobrança de TAH (proc. minerário 832.645/1995) → aprovado por unanimidade — recurso não conhecido
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=8197s)
+- **RD 65 (2024-08-26)**, 2.7.2 · relator **Guilherme Gomes** · Recurso contra notificações administrativas de cobrança de TAH (proc. minerário 832.645/1995) → aprovado por unanimidade — recurso não conhecido
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=8197s)
+- **RD 65 (2024-08-26)**, 4.3.1 · relator **Roger Cabral** · Pedido de reconsideração contra nulidade ex officio de alvará de pesquisa por não pagamento de TAH → aprovado por unanimidade — não conhecido
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=12222s)
+- **RD 65 (2024-08-26)**, 4.3.2 · relator **Roger Cabral** · Pedido de reconsideração contra nulidade ex officio de alvará de pesquisa por não pagamento de TAH → aprovado por unanimidade — não conhecido
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=12412s)
+- **RD 65 (2024-08-26)**, 4.4.1 · relator **Roger Cabral** · Recurso contra multa por não pagamento de TAH (auto 5941/2021) → aprovado por unanimidade — multa mantida
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=12697s)
+- **RD 65 (2024-08-26)**, 4.4.2 · relator **Roger Cabral** · Recurso contra multa por pagamento intempestivo de TAH (auto 6296/2021) → aprovado por unanimidade — multa mantida
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=12844s)
+- **RD 65 (2024-08-26)**, 4.6.1 · relator **Roger Cabral** · Recurso contra cobrança de CFEM (jan/2010–dez/2015) → aprovado por unanimidade — cobrança mantida, com exclusão do Cadin
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=13112s)
+- **RD 65 (2024-08-26)**, 5.11.1 · relator **Caio Seabra** · Pedido de reconsideração contra nulidade ex officio de autorização de pesquisa por não pagamento de TAH → aprovado por unanimidade — recurso desprovido
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=16642s)
+- **RD 65 (2024-08-26)**, 5.11.5 · relator **Caio Seabra** · Pedido de reconsideração contra nulidade ex officio de autorização de pesquisa por não pagamento de TAH → aprovado por unanimidade — recurso desprovido
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=16642s)
+- **RD 65 (2024-08-26)**, 5.11.6 · relator **Caio Seabra** · Pedido de reconsideração contra nulidade ex officio de autorização de pesquisa por não pagamento de TAH → aprovado por unanimidade — não conhecido
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=16724s)
+- **RD 65 (2024-08-26)**, 5.11.2 · relator **Caio Seabra** · Pedido de reconsideração contra nulidade ex officio de autorização de pesquisa por não pagamento de TAH antes da imposição de multa → aprovado por unanimidade — recurso provido
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=16796s)
+- **RD 65 (2024-08-26)**, 5.11.4 · relator **Caio Seabra** · Pedido de reconsideração contra nulidade ex officio de autorização de pesquisa por não pagamento de TAH antes da imposição de multa → aprovado por unanimidade — recurso provido
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=16796s)
+- **RD 66 (2024-10-07)**, 2.4.7 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento no prazo da taxa anual por hectare (TAH) do alvará de pesquisa 5373 (vencimento 29/01/2021, paga e → aprovado por unanimidade (recurso conhecido e não provido; multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=1242s)
+- **RD 66 (2024-10-07)**, 2.4.8 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento no prazo da taxa anual por hectare (TAH) do alvará de pesquisa 5373 (vencimento 29/01/2021, paga e → aprovado por unanimidade (recurso conhecido e não provido; multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=1242s)
+- **RD 66 (2024-10-07)**, 2.4.9 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento no prazo da taxa anual por hectare (TAH) do alvará de pesquisa 5373 (vencimento 29/01/2021, paga e → aprovado por unanimidade (recurso conhecido e não provido; multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=1242s)
+- **RD 66 (2024-10-07)**, 2.4.1 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento (ou pagamento fora do prazo) da taxa anual por hectare — auto de infração 8249/2020; alvará 22541  → aprovado por unanimidade (multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22153s)
+- **RD 66 (2024-10-07)**, 2.4.2 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento (ou pagamento fora do prazo) da taxa anual por hectare — mesma fundamentação do 2.4.1 → aprovado por unanimidade (multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22275s)
+- **RD 66 (2024-10-07)**, 2.4.3 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento (ou pagamento fora do prazo) da taxa anual por hectare — auto de infração 972/2020 (gerência de Ma → aprovado por unanimidade (multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22302s)
+- **RD 66 (2024-10-07)**, 2.4.4 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento (ou pagamento fora do prazo) da taxa anual por hectare — relatado junto com o 966.096/2020 → aprovado por unanimidade (multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22302s)
+- **RD 66 (2024-10-07)**, 2.4.5 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento (ou pagamento fora do prazo) da taxa anual por hectare — auto de infração da superintendência de A → aprovado por unanimidade (multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22338s)
+- **RD 66 (2024-10-07)**, 2.4.6 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento (ou pagamento fora do prazo) da taxa anual por hectare — auto de infração 268/2021 → aprovado por unanimidade (multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22365s)
+- **RD 66 (2024-10-07)**, 2.4.10 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento (ou pagamento fora do prazo) da taxa anual por hectare — auto de infração 4303 (número incerto) → aprovado por unanimidade (multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22396s)
+- **RD 66 (2024-10-07)**, 2.4.11 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento (ou pagamento fora do prazo) da taxa anual por hectare — auto de infração 4288 publicado em 20/09/ → aprovado por unanimidade (multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22429s)
+- **RD 66 (2024-10-07)**, 2.4.12 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento (ou pagamento fora do prazo) da taxa anual por hectare — auto de infração 19728 (número incerto) → aprovado por unanimidade (multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22452s)
+- **RD 66 (2024-10-07)**, 2.4.13 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento (ou pagamento fora do prazo) da taxa anual por hectare — auto de infração 15123/2022 → aprovado por unanimidade (multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22469s)
+- **RD 66 (2024-10-07)**, 2.4.15 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento (ou pagamento fora do prazo) da taxa anual por hectare — auto de infração 4695 (DIPAR), publicado  → aprovado por unanimidade (multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22626s)
+- **RD 66 (2024-10-07)**, 2.4.16 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento (ou pagamento fora do prazo) da taxa anual por hectare — notificação administrativa 1707 (SUP. Min → aprovado por unanimidade (multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22661s)
+- **RD 66 (2024-10-07)**, 2.4.17 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento (ou pagamento fora do prazo) da taxa anual por hectare — notificação administrativa 1705 (SUP. Min → aprovado por unanimidade (multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22661s)
+- **RD 66 (2024-10-07)**, 2.5.1 · relator **Guilherme Gomes** · Pedido de reconsideração contra declaração de nulidade ex officio do alvará de pesquisa 8485/2021 por não pagamento da TAH → aprovado por unanimidade (não conhecido, intempestivo)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22709s)
+- **RD 66 (2024-10-07)**, 2.5.2 · relator **Guilherme Gomes** · Recurso contra nulidade ex officio do alvará de pesquisa 10.464/2016 por não pagamento da TAH do 3º ano, depois de entregue o relatório final positivo → aprovado por unanimidade (não conhece; mantém taxa e multa; anula de ofício a nulidade do 
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22839s)
+- **RD 66 (2024-10-07)**, 2.6.1 · relator **Guilherme Gomes** · Recurso contra nulidade ex officio do alvará de pesquisa 2053/2003 (número incerto) por não pagamento da TAH do 3º ano → aprovado por unanimidade (não provido)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=23707s)
+- **RD 66 (2024-10-07)**, 2.6.2 · relator **Guilherme Gomes** · Recurso contra nulidade ex officio do alvará de pesquisa 8118/2021 (número incerto) por não pagamento da TAH → aprovado por unanimidade (não conhecido, intempestivo)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=23824s)
+- **RD 66 (2024-10-07)**, 3.2.1 · relator **Tasso Mendonça** · Recurso contra multa por não pagamento da TAH do 1º ano (auto 5780/2021, número incerto) → aprovado por unanimidade (não provido)
+  - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=27005s)
+- **RD 66 (2024-10-07)**, 5.7.4 · relator **Caio Seabra** · Recurso contra indeferimento de prorrogação de registro de licença por inscrição de CFEM em dívida ativa, depois extinta em juízo (execução fiscal 003 → aprovado por unanimidade (não conhece, mas anula de ofício o indeferimento)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33561s)
+- **RD 66 (2024-10-07)**, 5.10.1 · relator **Caio Seabra** · Recurso contra multa por não pagamento da TAH → aprovado por unanimidade (não provido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33776s)
+- **RD 66 (2024-10-07)**, 5.10.2 · relator **Caio Seabra** · Recurso contra nulidade ex officio do alvará de pesquisa por não pagamento da TAH (alega falta de intimação) → aprovado por unanimidade (não conhecido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33821s)
+- **RD 66 (2024-10-07)**, 5.10.3 · relator **Caio Seabra** · Recurso contra nulidade ex officio do alvará de pesquisa por não pagamento da TAH (alega falta de intimação) → aprovado por unanimidade (não conhecido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33821s)
+- **RD 66 (2024-10-07)**, 5.10.4 · relator **Caio Seabra** · Recurso contra nulidade ex officio do alvará de pesquisa por não pagamento da TAH (alega falta de intimação) → aprovado por unanimidade (não conhecido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33821s)
+- **RD 66 (2024-10-07)**, 5.10.5 · relator **Caio Seabra** · Recurso contra nulidade ex officio do alvará de pesquisa por não pagamento da TAH (alega falta de intimação) → aprovado por unanimidade (não conhecido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33821s)
+- **RD 66 (2024-10-07)**, 5.10.6 · relator **Caio Seabra** · Pedido de reconsideração contra nulidade ex officio de alvará de pesquisa (9.961 ha? — número incerto) por não pagamento da TAH → aprovado por unanimidade (não conhecido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33873s)
 - **RD 67ª Reunião Ordinária Pública (Parte 02) (2024-11-04)**, 2.6.9 · relator **Guilherme Gomes** · Recurso contra NFLD nº 59 (ANM/BA) — CFEM fev/2012 a mai/2016 (continuação da Parte 01, após queda da rede) → aprovado por unanimidade
   - votos: Guilherme: relator; Mauro: acompanha; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EpUH2BErxWU&t=2257s)
 - **RD 67ª Reunião Ordinária Pública (Parte 01) (2024-11-04)**, 2.6.9 · relator **Guilherme Gomes** · Recurso contra manutenção da NFLD nº 59 (ANM/BA) — cobrança de CFEM de fev/2012 a mai/2016; alegações: dedução de tributos incidentes (ICMS, PIS/Cofin → não concluído neste vídeo (continua na Parte 02)
@@ -648,14 +730,22 @@
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=GVCVhAj980Y&t=7971s)
 - **RD 29ª Reunião Extraordinária Pública (2024-11-08)**, 5.18.1 · relator **Caio Seabra** · Recurso contra multa por pagamento intempestivo de TAH (granito, Floriano/PI) → aprovado por unanimidade
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GVCVhAj980Y&t=8356s)
-- **RD 68 (2024-12-02)**, 2.4.1–2.4.3 · relator **Guilherme Gomes** · Recursos contra nulidade de alvará de pesquisa por não pagamento de TAH → aprovado por unanimidade (2.4.1–2.4.2 não conhecidos, intempestivos; 2.4.3 negado)
+- **RD 68 (2024-12-02)**, 2.4.1–2.4.3 · relator **Guilherme Gomes** · Recursos contra nulidade ex officio de alvarás de pesquisa por não pagamento da TAH → aprovado por unanimidade
   - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=6764s)
-- **RD 68 (2024-12-02)**, 2.9.1 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento de TAH → aprovado por unanimidade (negado)
+- **RD 68 (2024-12-02)**, 2.9.1 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento de TAH → aprovado por unanimidade
   - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=9500s)
-- **RD 68 (2024-12-02)**, 4.1.1 · relator **Roger Cabral** · Reconsideração contra nulidade de alvará por não pagamento de TAH (parcelamento cancelado) → aprovado por unanimidade (negado)
-  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Guilherme: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=14700s)
-- **RD 68 (2024-12-02)**, 5.4.1–5.4.5 · relator **Caio Seabra** · Recursos contra cobrança de CFEM (deduções ICMS/PIS/Cofins; prescrição parcial já reconhecida pela SAR) → aprovado por unanimidade (negados)
-  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=18182s)
+- **RD 68 (2024-12-02)**, 3.6.1–3.6.3 e 3.7.1–3.7.11 · relator **Tasso Mendonça** · Votos sobre CFEM retirados de pauta para leitura conjunta futura com mais processos → retirados de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=13074s)
+- **RD 68 (2024-12-02)**, 4.1.1 · relator **Roger Cabral** · Reconsideração contra nulidade ex officio de alvará de pesquisa (turfa e argilas, Jacaraci e Mortugaba-BA) por não pagamento de TAH; parcelamento canc → aprovado por unanimidade
+  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Mauro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=14799s)
+- **RD 68 (2024-12-02)**, 4.5.1 · relator **Roger Cabral** · Recurso pedindo devolução de prazo de alvará de pesquisa baixado em 2010 por débito de TAH, apresentado 11 anos depois → aprovado por unanimidade
+  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Mauro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=15594s)
+- **RD 68 (2024-12-02)**, 5.4.1–5.4.3 · relator **Caio Seabra** · Recursos contra cobrança de CFEM (substância citada como «atomita», talvez dolomita) → aprovado por unanimidade
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=18185s)
+- **RD 68 (2024-12-02)**, 5.4.4 · relator **Caio Seabra** · Recurso contra cobrança de CFEM recolhida a menor em 2004 (valor citado ≈ R$ 258 mil, legenda incerta) → aprovado por unanimidade
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=18267s)
+- **RD 68 (2024-12-02)**, 5.4.5 · relator **Caio Seabra** · Recurso contra cobrança de CFEM de 1996 a 2007 (valor citado ≈ R$ 10,2 milhões, legenda incerta) → aprovado por unanimidade
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=18360s)
 - **RD 31ª Reunião Extraordinária Pública (2024-12-06)**, extrapauta CFEM afetados · relator **Mauro Sousa** · Recursos em segunda instância contra a lista de municípios afetados por estruturas de mineração para repasse da CFEM (ciclo maio/2024–abril/2025; Reso → aprovado por unanimidade: provimento a Jucurutu e Maracás; provimento parcial a Piçarra; n
   - votos: Mauro: relator; Roger: acompanha; Caio: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=oyWHiNXpYkE&t=1072s)
 - **RD 69 (2024-12-18)**, 1.1.1–1.1.4 · relator **Mauro Sousa** · Recursos em processos de cobrança de CFEM (não pagamento ou pagamento a menor) → aprovado por unanimidade dos presentes (negado provimento)

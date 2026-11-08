@@ -288,12 +288,12 @@
   - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=_IeZwId2D0w&t=19906s)
 - **RD 64 (2024-07-31)**, 5.7.3 · relator **Caio Seabra** · Recurso contra indeferimento de PLG → aprovado por unanimidade (negado provimento)
   - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=_IeZwId2D0w&t=20190s)
-- **RD 65 (2024-08-26)**, 3.10.1 · relator **Tasso Mendonça** · Recurso contra negativa de aditamento da substância caulim à permissão de lavra garimpeira (pegmatitos, Paraíba) → aprovado por unanimidade (provido; autoriza aditamento do caulim)
-  - votos: Mauro: acompanha; Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=10951s)
-- **RD 65 (2024-08-26)**, 5.x-demais · relator **Caio Seabra** · Demais itens de Caio Seabra: bloqueio provisório e disponibilidade, nulidade de alvará por interferência, interferência total, registro de licença (No → aprovados por unanimidade (5.9.2 retirado de pauta)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=14805s)
-- **RD 66 (2024-10-07)**, 2.8.1 · relator **Guilherme Gomes** · Recurso contra indeferimento da renovação de permissão de lavra garimpeira por falta de nova anuência do titular da concessão de lavra sobreposta (our → deliberação sobrestada por pedido de vista do Diretor-Geral Mauro Sousa
-  - votos: Mauro: vista; Tasso: outro; Guilherme: relator; Roger: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=1868s)
+- **RD 65 (2024-08-26)**, 3.10.1 · relator **Tasso Mendonça** · Recurso contra negativa de aditamento da substância caulim à permissão de lavra garimpeira de feldspato → aprovado por unanimidade — aditamento autorizado
+  - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=10977s)
+- **RD 65 (2024-08-26)**, 5.7.1 · relator **Caio Seabra** · Pedido de reconsideração contra arquivamento de requerimento de PLG por mudança de regime (justificativa técnica citava columbita e mica não comunicad → aprovado por unanimidade — recurso provido
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=15780s)
+- **RD 66 (2024-10-07)**, 2.8.1 · relator **Guilherme Gomes** · Recurso contra indeferimento da renovação da permissão de lavra garimpeira 9/2015 (Goiás) por falta de nova anuência da atual titular da concessão de  → deliberação sobrestada por pedido de vista do Diretor-Geral Mauro Sousa
+  - votos: Guilherme: relator; Mauro: vista · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=1868s)
 - **RD 67ª Reunião Ordinária Pública (Parte 02) (2024-11-04)**, 1.7.1 · relator **Guilherme Gomes** · Voto-vista: recurso contra indeferimento da renovação de PLG nº 09/2015 (ouro, Goiás) por falta de nova anuência do titular do processo prioritário (D → aprovado por unanimidade o voto revisor de Mauro Sousa, com adesão do relator original Gui
   - votos: Guilherme: revisor_acompanha; Mauro: revisor_acompanha; Tasso: revisor_acompanha; Roger: revisor_acompanha; Caio: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=EpUH2BErxWU&t=2634s)
 - **RD 67ª Reunião Ordinária Pública (Parte 02) (2024-11-04)**, 3.5.1 a 3.5.4 · relator **Tasso Mendonça** · Recurso contra negativa de aditamento de caulim a PLGs de feldspato/quartzo (Equador/RN, pegmatitos) → aprovado por unanimidade
@@ -302,8 +302,8 @@
   - votos: Roger: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EpUH2BErxWU&t=24406s)
 - **RD 29ª Reunião Extraordinária Pública (2024-11-08)**, 5.2.1 · relator **Roger Cabral** · Voto-vista: recurso contra indeferimento de plano de requerimento de PLG por sociedade limitada unipessoal → aprovado por unanimidade
   - votos: Roger: relator; Caio: revisor_acompanha; Guilherme: acompanha; Tasso: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GVCVhAj980Y&t=5268s)
-- **RD 68 (2024-12-02)**, 5.2.1 · relator **Caio Seabra** · Recurso contra indeferimento de permissão de lavra garimpeira por não cumprimento de exigências → aprovado por unanimidade (negado)
-  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=18042s)
+- **RD 68 (2024-12-02)**, 5.2.1 · relator **Caio Seabra** · Recurso contra indeferimento de permissão de lavra garimpeira por não cumprimento de exigências → aprovado por unanimidade
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=18047s)
 - **RD 69 (2024-12-18)**, 3.6.x Cooperativa Santa Cruz · relator **Tasso Mendonça** · Recurso contra multa por não elaborar a primeira Revisão Periódica de Segurança de Barragem (RPSB) e declaração de estabilidade no prazo (Portaria 70. → aprovado por unanimidade dos presentes (negado provimento)
   - votos: Tasso: relator; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=PPaw9lNsgZo&t=10951s)
 - **RD 70 (2025-01-30)**, 1.5.1 · relator **Mauro Sousa** · Prorrogação de guia de utilização e ampliação de volume (GU 230/2020 já prorrogada pela GU 99/2021; Goiás) → deliberação sobrestada por pedido de vista de Caio Seabra

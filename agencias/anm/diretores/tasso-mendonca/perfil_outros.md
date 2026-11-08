@@ -1,11 +1,11 @@
 # Perfil analítico — Tasso Mendonça · tema: outros
 
-**Amostra:** presente em 87 das 87 reuniões analisadas em que há registro de presença/ausência; 39 votos neste tema; 8 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 87 das 87 reuniões analisadas em que há registro de presença/ausência; 41 votos neste tema; 8 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 29 (93% dos votos em que não era relator) · relator 8 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 2
+**Votos:** acompanha o relator 31 (93% dos votos em que não era relator) · relator 8 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 2
 **Como relator:** 5/8 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** outorga_titulos 1493/319; recursos_recursais 1446/293; agregados_construcao 499/95; cfem_arrecadacao 403/65; fiscalizacao_sancoes 389/92; garimpo_pla 187/40; ambiental_social 147/37; regulacao_normativa 112/21; institucional 108/14; judicializacao 88/16; minerais_criticos 63/21; barragens_seguranca 51/16; outros 39/8; participacao_social 28/2
+**Temas (nº de itens em que votou / relatorias):** outorga_titulos 1566/317; recursos_recursais 1561/296; agregados_construcao 524/99; cfem_arrecadacao 447/65; fiscalizacao_sancoes 431/94; garimpo_pla 186/40; ambiental_social 155/39; regulacao_normativa 114/21; institucional 113/14; judicializacao 88/16; minerais_criticos 65/23; barragens_seguranca 53/16; outros 41/8; participacao_social 29/3
 
 ## Evidências (reunião · item · voto · justificativa)
 
@@ -36,6 +36,8 @@
 - **RD 46 (2022-12-14)**, item 3.13-3.14 — Caducidade de concessão de lavra e retificação de poligonal · voto: *relator, retira de pauta* (relator, conf. media) · [vídeo](https://www.youtube.com/watch?v=cXfuSmk0BVs&t=12810s) · resultado: retirados de pauta
 - **RD 47 (2023-01-25)**, item 3.2 — Recurso contra arquivamento definitivo · voto: *relator, retira de pauta* (relator, conf. alta) · [vídeo](https://www.youtube.com/watch?v=UfKJpb9ZVZA&t=10608s) · resultado: retirado de pauta pelo relator
 - **RD 53ª Reunião Ordinária Pública (2023-09-05)**, item 3.3.x — Ampliação volumétrica de guia de utilização de minério de ferro para 1 milhão t/ano (Pará; acima do Anexo IV da Portaria 155) · voto: *relator, aprova* (relator, conf. alta) · [vídeo](https://www.youtube.com/watch?v=S2GK8_S3FH4&t=11820s) · resultado: aprovado por unanimidade
+- **RD 66 (2024-10-07)**, item 5.13.1 — Ampliação de guia de utilização para 675 mil t/ano de minério de ferro por 3 anos · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=34443s) · resultado: aprovado por unanimidade
+- **RD 66 (2024-10-07)**, item 5.13.2 — Prorrogação e ampliação de guia de utilização para 499 mil t/ano de minério de ouro por 3 anos · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=34443s) · resultado: aprovado por unanimidade
 - **RD 73 (2025-04-23)**, item 4.8.1 — Recurso intempestivo contra não aprovação de RFP de diamante · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=20875s) · resultado: aprovado por unanimidade
 - **RD 73 (2025-04-23)**, item 4.8.2 — Recurso contra não aprovação de RFP de granito para rocha ornamental · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=20875s) · resultado: aprovado por unanimidade
 - **RD 73 (2025-04-23)**, item 4.8.3 — Recurso contra não aprovação de RFP de granito (exigências não cumpridas) · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=20875s) · resultado: aprovado por unanimidade

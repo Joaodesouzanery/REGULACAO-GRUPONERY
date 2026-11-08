@@ -1,16 +1,18 @@
 # Perfil analítico — Roger Cabral · tema: outros
 
-**Amostra:** presente em 58 das 59 reuniões analisadas em que há registro de presença/ausência; 14 votos neste tema; 4 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 58 das 59 reuniões analisadas em que há registro de presença/ausência; 16 votos neste tema; 4 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 10 (100% dos votos em que não era relator) · relator 4 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 12 (100% dos votos em que não era relator) · relator 4 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 2/4 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** recursos_recursais 1199/252; outorga_titulos 1102/230; agregados_construcao 376/60; cfem_arrecadacao 330/77; fiscalizacao_sancoes 288/61; garimpo_pla 139/28; ambiental_social 106/17; regulacao_normativa 79/17; institucional 72/15; judicializacao 59/6; minerais_criticos 53/13; barragens_seguranca 39/6; participacao_social 18/4; outros 14/4
+**Temas (nº de itens em que votou / relatorias):** recursos_recursais 1313/264; outorga_titulos 1174/240; agregados_construcao 400/62; cfem_arrecadacao 374/80; fiscalizacao_sancoes 330/63; garimpo_pla 138/28; ambiental_social 114/18; regulacao_normativa 81/17; institucional 76/16; judicializacao 58/6; minerais_criticos 55/13; barragens_seguranca 41/6; participacao_social 19/4; outros 16/4
 
 ## Evidências (reunião · item · voto · justificativa)
 
 - **RD 47 (2023-01-25)**, item 4.2.1 — Recurso contra indeferimento de requerimento de pesquisa por interferência total · voto: *relator, retira de pauta* (relator, conf. alta) · [vídeo](https://www.youtube.com/watch?v=UfKJpb9ZVZA&t=12330s) · resultado: retirado de pauta pelo relator
 - **RD 53ª Reunião Ordinária Pública (2023-09-05)**, item 3.3.x — Ampliação volumétrica de guia de utilização de minério de ferro para 1 milhão t/ano (Pará; acima do Anexo IV da Portaria 155) · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=S2GK8_S3FH4&t=13642s) · resultado: aprovado por unanimidade
+- **RD 66 (2024-10-07)**, item 5.13.1 — Ampliação de guia de utilização para 675 mil t/ano de minério de ferro por 3 anos · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=34447s) · resultado: aprovado por unanimidade
+- **RD 66 (2024-10-07)**, item 5.13.2 — Prorrogação e ampliação de guia de utilização para 499 mil t/ano de minério de ouro por 3 anos · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=34447s) · resultado: aprovado por unanimidade
 - **RD 73 (2025-04-23)**, item 4.8.1 — Recurso intempestivo contra não aprovação de RFP de diamante · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=20880s) · resultado: aprovado por unanimidade
 - **RD 73 (2025-04-23)**, item 4.8.2 — Recurso contra não aprovação de RFP de granito para rocha ornamental · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=20880s) · resultado: aprovado por unanimidade
 - **RD 73 (2025-04-23)**, item 4.8.3 — Recurso contra não aprovação de RFP de granito (exigências não cumpridas) · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=20880s) · resultado: aprovado por unanimidade

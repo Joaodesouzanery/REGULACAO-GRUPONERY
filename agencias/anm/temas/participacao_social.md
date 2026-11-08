@@ -42,6 +42,8 @@
   - votos: Roger: relator; Tasso: acompanha; Guilherme: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=8Fj3c7cQucw&t=3357s)
 - **RD 64 (2024-07-31)**, 5.1.1 · relator **Caio Seabra** · Alteração da Resolução ANM 95/2022 (consolidação normativa sobre segurança de barragens de mineração): 12 itens de desburocratização, 10 de detalhamen → aprovado por unanimidade
   - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=_IeZwId2D0w&t=1724s)
+- **RD 65 (2024-08-26)**, 3.1.1 · relator **Tasso Mendonça** · Aprovação de projeto técnico de salvamento paleontológico (Formação Irati, Mesosaurus/Brazilosaurus) após demanda do MPF → aprovado por unanimidade
+  - votos: Tasso: relator; Mauro: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=9359s)
 - **RD 67ª Reunião Ordinária Pública (Parte 01) (2024-11-04)**, 2.1.1 · relator **Guilherme Gomes** · Proposta de alteração da Resolução ANM 85/2021 (aproveitamento de rejeitos e estéreis) — parágrafo único do art. 2º, que exige servidão minerária para → sobrestado por pedido de vista de Caio Seabra
   - votos: Guilherme: relator; Mauro: outro; Tasso: outro; Roger: outro; Caio: vista · [vídeo](https://www.youtube.com/watch?v=chQHqLzOYLM&t=1087s)
 - **RD 31ª Reunião Extraordinária Pública (2024-12-06)**, extrapauta CFEM afetados · relator **Mauro Sousa** · Recursos em segunda instância contra a lista de municípios afetados por estruturas de mineração para repasse da CFEM (ciclo maio/2024–abril/2025; Reso → aprovado por unanimidade: provimento a Jucurutu e Maracás; provimento parcial a Piçarra; n

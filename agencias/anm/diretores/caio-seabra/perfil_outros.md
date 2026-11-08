@@ -1,15 +1,17 @@
 # Perfil analítico — Caio Seabra · tema: outros
 
-**Amostra:** presente em 34 das 40 reuniões analisadas em que há registro de presença/ausência; 12 votos neste tema; 3 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 34 das 40 reuniões analisadas em que há registro de presença/ausência; 14 votos neste tema; 5 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 9 (100% dos votos em que não era relator) · relator 3 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
-**Como relator:** 3/3 relatorias aprovadas por unanimidade.
+**Votos:** acompanha o relator 9 (100% dos votos em que não era relator) · relator 5 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Como relator:** 5/5 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** recursos_recursais 817/189; outorga_titulos 680/166; agregados_construcao 251/68; cfem_arrecadacao 200/57; fiscalizacao_sancoes 178/45; garimpo_pla 85/22; ambiental_social 72/15; institucional 47/3; regulacao_normativa 46/6; judicializacao 41/6; minerais_criticos 33/8; barragens_seguranca 20/4; outros 12/3; participacao_social 9/4
+**Temas (nº de itens em que votou / relatorias):** recursos_recursais 934/257; outorga_titulos 755/225; agregados_construcao 275/81; cfem_arrecadacao 244/69; fiscalizacao_sancoes 222/57; garimpo_pla 84/22; ambiental_social 80/18; institucional 51/7; regulacao_normativa 48/7; judicializacao 40/8; minerais_criticos 35/7; barragens_seguranca 22/4; outros 14/5; participacao_social 10/4
 
 ## Evidências (reunião · item · voto · justificativa)
 
 - **RD 53ª Reunião Ordinária Pública (2023-09-05)**, item 3.3.x — Ampliação volumétrica de guia de utilização de minério de ferro para 1 milhão t/ano (Pará; acima do Anexo IV da Portaria 155) · voto: *acompanha o relator* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=S2GK8_S3FH4&t=13660s) · resultado: aprovado por unanimidade
+- **RD 66 (2024-10-07)**, item 5.13.1 — Ampliação de guia de utilização para 675 mil t/ano de minério de ferro por 3 anos · voto: *relator, aprova a ampliação* (relator, conf. alta) · «Requerimento instruído» · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=34077s) · resultado: aprovado por unanimidade
+- **RD 66 (2024-10-07)**, item 5.13.2 — Prorrogação e ampliação de guia de utilização para 499 mil t/ano de minério de ouro por 3 anos · voto: *relator, aprova prorrogação e ampliação* (relator, conf. alta) · «Interpretação do art. 24 do Decreto 9.406/2018» · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=34110s) · resultado: aprovado por unanimidade
 - **RD 73 (2025-04-23)**, item 4.8.1 — Recurso intempestivo contra não aprovação de RFP de diamante · voto: *relator, não conhece por intempestividade* (relator, conf. alta) · «sem métodos diretos de cubagem» · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=20014s) · resultado: aprovado por unanimidade
 - **RD 73 (2025-04-23)**, item 4.8.2 — Recurso contra não aprovação de RFP de granito para rocha ornamental · voto: *relator, nega provimento* (relator, conf. alta) · «parecer 221/2024» · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=20075s) · resultado: aprovado por unanimidade
 - **RD 73 (2025-04-23)**, item 4.8.3 — Recurso contra não aprovação de RFP de granito (exigências não cumpridas) · voto: *relator, nega provimento* (relator, conf. alta) · «exigências não cumpridas» · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=20105s) · resultado: aprovado por unanimidade

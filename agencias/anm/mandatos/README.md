@@ -1,16 +1,16 @@
 # Mandatos e vacâncias — ANM
 
-Atualizado em 2026-11-07. **Estimativas**: as datas vêm de resultados de busca (Senado, Agência iNFRA, gov.br/ANTTlegis; as páginas oficiais não puderam ser abertas diretamente) e dos votos nas transcrições. Cada linha tem confiança e fonte; confirmar no DOU.
+Atualizado em 2026-11-08. **Estimativas**: as datas vêm de resultados de busca (Senado, Agência iNFRA, gov.br/ANTTlegis; as páginas oficiais não puderam ser abertas diretamente) e dos votos nas transcrições. Cada linha tem confiança e fonte; confirmar no DOU.
 
-- Todas as vacâncias estimadas (2020–2026): 2 vacâncias · média 338 dias · mediana 338 · máx 338
+- Todas as vacâncias estimadas (2020–2026): 2 vacâncias · média 339 dias · mediana 339 · máx 339
 - Só vacâncias encerradas: —
-- A partir de 2023 (maior confiança): 2 vacâncias · média 338 dias · mediana 338 · máx 338
-- Fração do tempo com cadeira titular vaga desde 01/01/2023: **9.6%** dos dias-cadeira (676 de 7030).
+- A partir de 2023 (maior confiança): 2 vacâncias · média 339 dias · mediana 339 · máx 339
+- Fração do tempo com cadeira titular vaga desde 01/01/2023: **9.6%** dos dias-cadeira (678 de 7035).
 
 | Id | Cadeira | Início | Fim | Dias | Preenchida por | Interinos / substitutos | Confiança |
 |---|---|---|---|---|---|---|---|
-| V1 | Diretoria (fim do mandato de Tasso Mendonça) | 2025-12-05 | em aberto | 338 | vaga em aberto (a confirmar) | Cláudio Freire / Fábio Borges (substitutos, a confirmar) | baixa |
-| V2 | Diretoria (fim do mandato de Roger Cabral) | 2025-12-05 | em aberto | 338 | vaga em aberto (a confirmar) | Cláudio Freire / Fábio Borges (substitutos, a confirmar) | baixa |
+| V1 | Diretoria (fim do mandato de Tasso Mendonça) | 2025-12-05 | em aberto | 339 | vaga em aberto (a confirmar) | Cláudio Freire / Fábio Borges (substitutos, a confirmar) | baixa |
+| V2 | Diretoria (fim do mandato de Roger Cabral) | 2025-12-05 | em aberto | 339 | vaga em aberto (a confirmar) | Cláudio Freire / Fábio Borges (substitutos, a confirmar) | baixa |
 
 ## Mandatos (resumo)
 
