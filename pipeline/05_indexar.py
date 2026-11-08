@@ -108,6 +108,21 @@ for f in sorted(glob.glob("data/analise/*.analise.json")):
                 (iid, dn, v["voto"], cat, v.get("ts"), v.get("justificativa"), v.get("tom"), v.get("confianca"), 1 if dn == rel and cat == "relator" else 0, tr, trt, trt0))
             n_v += 1; just.append(f"{dn}: {v.get('justificativa') or ''}")
         c.execute("INSERT INTO busca VALUES(?,?)", (iid, " ".join(filter(None, [it["assunto"], it.get("interessado"), it.get("resumo_voto"), " ".join(just)]))))
+# microtemas (data/microtemas.json: regex sobre assunto+resumo; vários por item) e entidades (data/entidades.json: interessado normalizado)
+c.execute("DROP TABLE IF EXISTS item_microtema"); c.execute("CREATE TABLE item_microtema(item_id INT, microtema TEXT, tema TEXT)")
+if os.path.exists("data/microtemas.json"):
+    MT = [(m["microtema"], m["tema"], re.compile(m["regex"], re.I)) for m in json.load(open("data/microtemas.json"))]
+    for iid, a_, r_ in c.execute("select id, assunto, coalesce(resumo,'') from itens").fetchall():
+        for mt, tp, rx in MT:
+            if rx.search(f"{a_} {r_}"): c.execute("INSERT INTO item_microtema VALUES(?,?,?)", (iid, mt, tp))
+c.execute("DROP TABLE IF EXISTS entidades"); c.execute("CREATE TABLE entidades(id TEXT PRIMARY KEY, nome TEXT, sigla TEXT, tipo TEXT, setor TEXT, grupo TEXT)")
+c.execute("DROP TABLE IF EXISTS item_entidade"); c.execute("CREATE TABLE item_entidade(item_id INT, entidade TEXT)")
+if os.path.exists("data/entidades.json"):
+    EN = json.load(open("data/entidades.json"))
+    for k, e in EN["entidades"].items(): c.execute("INSERT OR REPLACE INTO entidades VALUES(?,?,?,?,?,?)", (k, e.get("nome"), e.get("sigla"), e.get("tipo"), e.get("setor"), e.get("grupo")))
+    for iid, it_ in c.execute("select id, interessado from itens").fetchall():
+        k = EN["mapa"].get((it_ or "").strip())
+        if k: c.execute("INSERT INTO item_entidade VALUES(?,?)", (iid, k))
 # trechos literais (janelas de ~30 s) de todas as reuniões de diretoria com transcrição, para citar a frase exata com link no minuto
 vids = {}
 for l in open("data/videos.jsonl"):
