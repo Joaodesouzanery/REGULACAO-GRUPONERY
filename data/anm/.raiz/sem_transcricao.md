@@ -2,12 +2,8 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **32** · sem /diretoria: 7; 2026/participativa: 1; 2025/participativa: 2; 2024/participativa: 1; 2023/participativa: 7; 2022/participativa: 1; 2022/audiencia: 1; 2021/diretoria: 1; 2021/audiencia: 6; 2020/diretoria: 1; 2020/audiencia: 1; 2019/diretoria: 3
+Total: **20** · sem /diretoria: 7; 2023/participativa: 7; 2022/participativa: 1; 2021/diretoria: 1; 2020/diretoria: 1; 2019/diretoria: 3
 
-- 2026-10-08 · participativa · Open Participatory Meeting No. 03/2026 - Regulatory Sandbox in the Mineral Secto · https://www.youtube.com/watch?v=Aw6lgA7K1hU · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-02-05 · participativa · Reunião Participativa ANM nº 2/2025: Desistência de Requerimentos de Outorga Min · https://www.youtube.com/watch?v=9pGFNB4Tf0o · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-01-28 · participativa · Reunião Participativa ANM nº1/2025 – Garantias Financeiras - 28/01/2025 · https://www.youtube.com/watch?v=ZDiMW2CyBBc · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-06-12 · participativa · REUNIÃO PARTICIPATIVA nº 1/2024 - Fechamento/Reabilitação de Minas - 12/06/2024 · https://www.youtube.com/watch?v=wNA9g5iLWn8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-03-31 · participativa · Reunião Participativa ANM nº 4/2023 - Declaração de Utilidade Pública (DUP) · https://www.youtube.com/watch?v=4wcYcRh4wUk · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-02-15 · participativa · Reunião Participativa nº 1/2023 - Aperfeiçoamento da Resolução ANM nº 122/2023 - · https://www.youtube.com/watch?v=tHnVoNqc3C8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-02-15 · participativa · Reunião Participativa nº 1/2023 - Aperfeiçoamento da Resolução ANM nº 122/2023 - · https://www.youtube.com/watch?v=JH3K4maO96Y · **ainda não baixado (rodar a coleta no Mac)**
@@ -16,15 +12,7 @@ Total: **32** · sem /diretoria: 7; 2026/participativa: 1; 2025/participativa: 2
 - 2023-02-14 · participativa · Reunião Participativa nº 1/2023 - Aperfeiçoamento da Resolução ANM nº 122/2023 - · https://www.youtube.com/watch?v=Eh8WsTtOSIQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-01-27 · participativa · REUNIÃO PARTICIPATIVA Nº 1/2023 - Aperfeiçoamento da Resolução ANM nº 122/2023 - · https://www.youtube.com/watch?v=LX5FcG2ekWA · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-10-20 · participativa · Reunião Participativa nº 2/2022 - Proposta de alteração da Resolução ANM nº 95/2 · https://www.youtube.com/watch?v=E_I8_Q8J1nI · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-06-11 · audiencia · Audiência Pública - 6ª Rodada de Disponibilidade de Áreas · https://www.youtube.com/watch?v=LKhHdmSGeu0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-11-20 · audiencia · Audiência Pública nº 3/2021 - Segurança de Barragens de Mineração · https://www.youtube.com/watch?v=rc9cv6Rjc-w · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-11-06 · audiencia · Audiência Pública nº 2/2021 - Garantias para fins de Financiamento · https://www.youtube.com/watch?v=6OMb7F8yq7c · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-10-06 · audiencia · Audiência Pública - Consolidação de Normativos de Segurança de Barragens de Mine · https://www.youtube.com/watch?v=EwNGcDIj7Mo · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-08-25 · diretoria · 31ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · https://www.youtube.com/watch?v=k-CdRkAHYaU · **legenda desativada/inexistente no YouTube**
-- 2021-08-20 · audiencia · Audiência Pública - 5ª Rodada de Disponibilidade de Áreas · https://www.youtube.com/watch?v=wsS6SJgYObg · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-06-03 · audiencia · Audiência Pública: edital da 4ª Rodada de Disponibilidade de Áreas · https://www.youtube.com/watch?v=wfF-2p8qcLE · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-03-24 · audiencia · Audiência Pública - 3ª Rodada de Disponibilidade de Áreas · https://www.youtube.com/watch?v=eF_ZYVqC5Q8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-12-16 · audiencia · Audiência Pública - 2º Edital de Disponibilidade de Áreas · https://www.youtube.com/watch?v=GNWFDrBtano · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-05-25 · diretoria · 6ª Reunião Ordinária Pública da Diretoria Colegiada da ANM · https://www.youtube.com/watch?v=MGhW4TEoNZI · **transcrição sem fala útil (1135 caracteres; só música/ruído)**
 - 2019-07-22 · diretoria · 1ª Reunião Extraordinária Pública da Diretoria Colegiada da ANM (12/2018). · https://www.youtube.com/watch?v=sFSwaGLNeLM · **transcrição sem fala útil (1339 caracteres; só música/ruído)**
 - 2019-02-19 · diretoria · 1ª Reunião Ordinária Pública da Diretoria Colegiada da ANM - 19/02/2019 - parte  · https://www.youtube.com/watch?v=GU7nGhRMt2k · **transcrição sem fala útil (294 caracteres; só música/ruído)**
