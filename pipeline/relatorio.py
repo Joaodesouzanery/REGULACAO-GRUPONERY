@@ -21,9 +21,14 @@ LOGO = b64("docs/marca/logo_grupo_nery.png")
 def setor_img(s):
     for e in ("jpg", "jpeg", "png", "webp"):
         if s and os.path.exists(f"docs/marca/setores/{s}.{e}"): return b64(f"docs/marca/setores/{s}.{e}")
-DB = "data/regulacao.db" if AG == "antt" else f"data/{AG}/regulacao.db"
-c = sqlite3.connect(DB) if os.path.exists(DB) else None
-if c: c.row_factory = sqlite3.Row
+_CONN = {}
+def conn(ag):
+    if ag not in _CONN:
+        db = "data/regulacao.db" if ag == "antt" else f"data/{ag}/regulacao.db"
+        _CONN[ag] = sqlite3.connect(db) if os.path.exists(db) else None
+        if _CONN[ag]: _CONN[ag].row_factory = sqlite3.Row
+    return _CONN[ag]
+c = conn(AG)
 def seg(ts):
     p = [int(x) for x in re.findall(r"\d+", ts or "")][-3:]
     while len(p) < 3: p.insert(0, 0)
@@ -46,7 +51,8 @@ def md_block(md):
         out.append(f"<p>{md_inline(l)}</p>")
     if lista: out.append("</ul>")
     return "\n".join(out)
-def dados(diretor, tema):
+def dados(diretor, tema, ag=None):
+    c = conn(ag or AG)
     """KPIs, distribuição, evidências e contra-exemplos direto da base."""
     q = ("select v.*, i.item, i.assunto, i.resultado, i.unanime, i.ts its, r.numero, r.data, r.video_id from votos v "
          "join itens i on i.id=v.item_id join reunioes r on r.id=i.reuniao_id where v.diretor=?")
@@ -86,14 +92,14 @@ if CAP_SETOR and os.path.exists("docs/marca/setores/CREDITOS.md"):
         if len(c_) > 5 and c_[1].startswith(CAP_SETOR + "."): CRED = f"{c_[2]} — {c_[3]} ({c_[4]}), Wikimedia Commons"
 cap_img = next((setor_img(t.get("setor")) for _, t in perg if setor_img(t.get("setor"))), None)
 pag.append(f'''<section class="pg capa"><div class="faixa" style="{f"background-image:linear-gradient(160deg,rgba(27,42,74,.92),rgba(31,122,107,.75),rgba(95,207,159,.55)),url({cap_img})" if cap_img else ""}"><span class="c1"></span><span class="c2"></span></div>
-<div class="capa-txt">{f'<img class="logo" src="{LOGO}">' if LOGO else ""}<h1>{E(tit)}</h1><div class="sub">{E(AG.upper())} · Perfil decisório de diretores</div>
+<div class="capa-txt">{f'<img class="logo" src="{LOGO}">' if LOGO else ""}<h1>{E(tit)}</h1><div class="sub">{E(" · ".join(dict.fromkeys((t.get("agencia") or AG).upper() for _, t in perg)))} · Perfil decisório de diretores</div>
 <div class="meta">Cliente: <b>{E(cliente)}</b><br>Período: {E(semana)} · Emitido em {hoje}</div><div class="conf">Confidencial — uso exclusivo do cliente</div>{f'<div class="cred">Foto da capa: {E(CRED)}</div>' if CRED else ""}</div></section>''')
-cols = "".join(f'<div class="item"><div class="rom">{ROM[i]}</div><h3>{E(q[:90])}</h3><p>{E(" · ".join(v for k, v in t.items() if k in ("diretor", "tema")))}</p></div>' for i, (q, t) in enumerate(perg[:6]))
-mais = f'<p class="mais">+ {len(perg)-6} perguntas</p>' if len(perg) > 6 else ""
+cols = "".join(f'<div class="item"><div class="rom">{ROM[i]}</div><h3>{E(q[:110])}</h3><p>{E(" · ".join(v for k, v in t.items() if k in ("diretor", "tema")))}</p></div>' for i, (q, t) in enumerate(perg[:10]))
+mais = f'<p class="mais">+ {len(perg)-10} perguntas</p>' if len(perg) > 10 else ""
 pag.append(f'<section class="pg"><header>{f"<img class=logo-s src={LOGO}>" if LOGO else ""}</header><h2>Conteúdo</h2><div class="kicker">PERGUNTAS DESTE RELATÓRIO</div><div class="conteudo">{cols}</div>{mais}</section>')
 for i, (q, t) in enumerate(perg):
     rf = sorted(glob.glob(f"{P}/respostas/{i+1:02d}*.md"))
-    d = dados(t["diretor"].strip(), t.get("tema", "").strip() or None) if (c and t.get("diretor")) else None
+    d = dados(t["diretor"].strip(), t.get("tema", "").strip() or None, t.get("agencia", "").strip().lower() or None) if (conn(t.get("agencia", "").strip().lower() or AG) and t.get("diretor")) else None
     head = f'<header>{f"<img class=logo-s src={LOGO}>" if LOGO else ""}</header><div class="rom-s">{ROM[i]}</div><h2>{E(q)}</h2>'
     if d:
         kp = "".join(f'<div class="kpi"><b>{v}</b><span>{E(k)}</span></div>' for k, v in [("votos analisados", d["n"]), ("relatorias", d["rel"]), ("acompanha o relator", f'{d["pct_acomp"]}%'), ("vista / divergência / vencido", d["div"])])
@@ -101,7 +107,7 @@ for i, (q, t) in enumerate(perg):
         if rf:
             m = re.search(r"\*\*1\. Resposta curta:\*\*\s*(.+)", open(rf[0]).read()); curta = re.sub(r"\s*\[Completar[^\]]*\]", "", m.group(1)) if m else ""
         pag.append(f'<section class="pg">{head}<div class="lead">{md_inline(curta) if curta else ""}</div><div class="kpis">{kp}</div>'
-                   f'<div class="dois"><div><h4>Como vota ({E(d["periodo"])})</h4>{barras(d["dist"])}<div class="fonte">Fonte: reuniões públicas de diretoria ({AG.upper()}), YouTube oficial; base Grupo Nery. n = {d["n"]}.</div></div>'
+                   f'<div class="dois"><div><h4>Como vota ({E(d["periodo"])})</h4>{barras(d["dist"])}<div class="fonte">Fonte: reuniões públicas de diretoria ({(t.get("agencia") or AG).upper()}), YouTube oficial; base Grupo Nery. n = {d["n"]}.</div></div>'
                    f'<div><h4>Contra-exemplos (fora do padrão)</h4><ul>' + ("".join(f'<li><b>RD {E(str(r["numero"]))} ({E(r["data"])})</b>, item {E(r["item"])} — {E(r["categoria"])}: {E((r["justificativa"] or r["voto"] or "")[:160])} · <a href="{link(r["video_id"], r["ts"] or r["its"])}">vídeo</a></li>' for r in d["contra"]) or "<li>Nenhum voto de vista, divergência ou vencido neste recorte.</li>") + '</ul></div></div></section>')
         linhas = "".join(f'<tr><td><b>RD {E(str(r["numero"]))}</b><br>{E(r["data"])}<br>item {E(r["item"])}</td><td>{E(r["assunto"][:150])}</td><td>{E((r["voto"] or "")[:90])}<br><i>{E((r["justificativa"] or "")[:140])}</i></td><td class="lit">«{E((r["trecho"] or "—")[:230])}…»</td><td><a href="https://www.youtube.com/watch?v={r["video_id"]}&t={max((r["trecho_t"] or seg(r["ts"] or r["its"])) - 3, 0)}s">assistir no minuto</a></td></tr>' for r in d["ev"])
         pag.append(f'<section class="pg">{head}<h4>Evidências</h4><table><tr><th>Reunião</th><th>Assunto</th><th>Voto e justificativa</th><th>Trecho literal (legenda)</th><th>Vídeo</th></tr>{linhas}</table>'
@@ -124,12 +130,12 @@ pag.append(f'''<section class="pg texto"><header>{f"<img class=logo-s src={LOGO}
 CSS = """@page{size:A4 landscape;margin:0}*{box-sizing:border-box}body{margin:0;font-family:'Helvetica Neue',Arial,sans-serif;color:#3D4766;background:#fff}
 .pg{width:297mm;height:210mm;padding:14mm 16mm 12mm;position:relative;page-break-after:always;overflow:hidden;background:#F6F7F9}
 header{position:absolute;right:14mm;top:9mm}.logo-s{height:9mm}h2{color:#1F7A6B;font-size:27pt;margin:4mm 0 3mm;max-width:235mm;line-height:1.1}
-h3{color:#1F7A6B;font-size:13pt;margin:3mm 0}h4{color:#1B2A4A;font-size:13pt;margin:2mm 0}.kicker{font-size:10pt;letter-spacing:.06em;margin-bottom:12mm}
+h3{color:#1F7A6B;font-size:13pt;margin:3mm 0}h4{color:#1B2A4A;font-size:13pt;margin:2mm 0}.kicker{font-size:10pt;letter-spacing:.06em;margin-bottom:6mm}
 .capa{display:flex;padding:0;background:#fff}.faixa{width:95mm;height:100%;background:linear-gradient(160deg,#1B2A4A 0%,#1F7A6B 55%,#4FB98A 100%);background-size:cover;background-position:center;position:relative}
 .c1,.c2{position:absolute;border-radius:50%;border:16mm solid #fff}.c1{width:70mm;height:70mm;left:-38mm;top:-38mm}.c2{width:70mm;height:70mm;right:-35mm;bottom:-35mm}
 .capa-txt{flex:1;padding:22mm 18mm;position:relative}.capa .logo{height:13mm;position:absolute;right:14mm;top:10mm}.capa h1{color:#1F7A6B;font-size:36pt;margin:38mm 0 4mm}
 .sub{font-size:15pt;color:#1B2A4A;font-weight:600}.meta{margin-top:18mm;font-size:12pt;line-height:1.6}.conf{position:absolute;bottom:14mm;font-size:9pt;color:#8A93A8}.cred{position:absolute;bottom:9mm;font-size:7pt;color:#8A93A8}
-.conteudo{display:flex;gap:8mm;justify-content:space-around;text-align:center}.item{flex:1}.rom{font-size:40pt;font-weight:800;color:#1B2A4A;letter-spacing:.08em}.item p{font-size:10pt}
+.conteudo{display:flex;flex-wrap:wrap;gap:6mm 8mm;justify-content:space-around;text-align:center}.item{flex:0 0 18%}.conteudo h3{font-size:10.5pt;margin:1mm 0}.conteudo p{font-size:8.5pt;margin:1mm 0}.rom{font-size:22pt;font-weight:800;color:#1B2A4A;letter-spacing:.08em}.item p{font-size:10pt}
 .rom-s{position:absolute;left:16mm;top:6mm;font-weight:800;color:#1B2A4A;font-size:12pt}.lead{font-size:13pt;line-height:1.45;max-width:250mm;margin-bottom:5mm}
 .kpis{display:flex;gap:6mm;margin-bottom:6mm}.kpi{flex:1;background:#fff;border:1px solid #DCE3EA;border-radius:4mm;padding:4mm 5mm;box-shadow:0 1mm 2mm rgba(0,0,0,.04)}
 .kpi b{display:block;font-size:24pt;color:#2FB37A}.kpi span{font-size:10pt}.dois{display:flex;gap:10mm}.dois>div{flex:1}.chart{width:100%}.lb{font-size:12px;fill:#3D4766}.vl{font-size:12px;fill:#1B2A4A;font-weight:700}
