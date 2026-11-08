@@ -9,5 +9,5 @@
 
 ## Evidências (reunião · item · voto · justificativa)
 
-- **RD 27 (2021-04-29)**, item 5.3 — Bloqueio provisório para gasoduto (art. 42 do Código; Parecer 500/2008) · voto: *relatora, aprova* (relator, conf. alta) · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=12234s) · resultado: aprovado por unanimidade
+- **RD 27 (2021-04-28)**, item 5.3 — Bloqueio provisório para gasoduto (art. 42 do Código; Parecer 500/2008) · voto: *relatora, aprova* (relator, conf. alta) · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=12234s) · resultado: aprovado por unanimidade
 - **RD 29ª Ordinária (2021-06-23)**, item 5.2 — Retificação de guia de utilização · voto: *relator(a), aprova* (relator, conf. media) · «precedentes» · [vídeo](https://www.youtube.com/watch?v=JhjBUQ1wgxg&t=11320s) · resultado: aprova por unanimidade

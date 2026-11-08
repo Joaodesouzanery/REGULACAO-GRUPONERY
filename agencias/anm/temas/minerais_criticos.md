@@ -2,7 +2,7 @@
 
 - **RD 1ª Reunião Extraordinária Pública (2019-09-06)**, 1 · relator **Eduardo Leão** · Requerimento de concessão de lavra de 1981 com PAE desatualizado; pedido de prorrogação/alvará de pesquisa complementar; novo relatório de reservas e  → aprovado (unanimidade inferida)
   - votos: Eduardo: relator; Tomás: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=VY_K3xq1i1U&t=55s)
-- **RD 9ª Ordinária (2019-10-15)**, 6 · relator **Debora Puccini** · Aprovação de relatório final de pesquisa de cobre com redução de área (Canaã dos Carajás, PA) → aprovado
+- **RD 9ª Ordinária (2019-10-16)**, 6 · relator **Debora Puccini** · Aprovação de relatório final de pesquisa de cobre com redução de área (Canaã dos Carajás, PA) → aprovado
   - votos: Debora: relator; Victor: acompanha; Tasso: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=lqrKYTzyL0M&t=3542s)
 - **RD 14ª Ordinária (2020-04-01)**, 1.4.11 · relator **Eduardo Leão** · Prorrogação de prazos por um ano (mudança de rota de beneficiamento; falta de autorização local para unidade industrial) → aprovado por unanimidade
   - votos: Eduardo: relator; Victor: acompanha; Tasso: acompanha; Tomás: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=LrMidsf_ZrQ&t=10350s)
@@ -18,9 +18,9 @@
   - votos: Eduardo: relator; Debora: acompanha; Carlos: acompanha; Tasso: acompanha; Victor: outro · [vídeo](https://www.youtube.com/watch?v=D6YYWHku_rk&t=4509s)
 - **RD 15ª Extraordinária (2020-12-18)**, 4.36 · relator **Tasso Mendonça** · Guia de utilização acima dos volumes do anexo V da Portaria 155 (300 mil t/ano de manganês, 100 mil t/ano de cobre, 100 mil t/ano de minério de ouro) → aprovado por unanimidade
   - votos: Tasso: relator; Carlos: acompanha; Debora: acompanha; Eduardo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=D6YYWHku_rk&t=4862s)
-- **RD 32ª Ordinária (2021-09-23)**, 3.2 · relator **Tasso Mendonça** · Emissão de guias de utilização acima do Anexo IV (calcário; manganês em projeto de 48,6 ha) → aprova por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 3.2 · relator **Tasso Mendonça** · Emissão de guias de utilização acima do Anexo IV (calcário; manganês em projeto de 48,6 ha) → aprova por unanimidade
   - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=8611s)
-- **RD 40ª Ordinária (2022-05-26)**, 5.6 · relator **Roger Cabral** · Guias de utilização (60 mil t gipsita, manganês, 100 mil t rocha potássica, quartzo, granito) → aprovado por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 5.6 · relator **Roger Cabral** · Guias de utilização (60 mil t gipsita, manganês, 100 mil t rocha potássica, quartzo, granito) → aprovado por unanimidade
   - votos: Roger: relator; Guilherme: acompanha; Ronaldo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=6836s)
 - **RD 43ª Reunião Ordinária Pública (2022-08-31)**, 5.1 · relator **Roger Cabral** · Guia de utilização: 100 mil t/ano de rocha fosfática, 3 anos → aprovada, condicionada a licença ambiental (unanimidade)
   - votos: Roger: relator; Victor: acompanha; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=Zze8E9AIy2I&t=6387s)
@@ -32,7 +32,7 @@
   - votos: Roger: relator; Victor: acompanha; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=M-AvUArsvls&t=10629s)
 - **RD 53ª Reunião Ordinária Pública (2023-09-05)**, 4.4.1 · relator **Roger Cabral** · Guia de utilização de minério de lítio (espodumênio/petalita) 300 mil t/ano em Araçuaí-MG, acima do Anexo IV → aprovado por unanimidade
   - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=S2GK8_S3FH4&t=16838s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.12.1 · relator **Caio Seabra** · Guia de utilização de manganês: titular pediu 500.000 t/ano, área técnica recomendou 100.000; relator concede 300.000 t/ano por 3 anos com fiscalizaçã → aprovado por unanimidade
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 5.12.1 · relator **Caio Seabra** · Guia de utilização de manganês: titular pediu 500.000 t/ano, área técnica recomendou 100.000; relator concede 300.000 t/ano por 3 anos com fiscalizaçã → aprovado por unanimidade
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=3403s)
 - **RD 56ª Reunião Ordinária Pública (2023-11-22)**, 2.3.1 · relator **Guilherme Gomes** · Guia de utilização: 600.000 t/ano de calcário (brita e corretivo de solo) e 150.000 t/ano de fosfato, Jacobina do Piauí (PI) → aprovado por unanimidade
   - votos: Guilherme: relator; Mauro: acompanha; Tasso: acompanha; Roger: acompanha; Yuri: acompanha · [vídeo](https://www.youtube.com/watch?v=0Ck4xPkfL6Q&t=4045s)

@@ -9,7 +9,7 @@
 
 ## Evidências (reunião · item · voto · justificativa)
 
-- **RD 7ª Ordinária (2019-08)**, item X6 — Aprovação de novo PAE (água mineral) · voto: *acompanha o relator (implícito ou breve)* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=gqN-UXqNYhQ&t=8850s) · resultado: aprovado
+- **RD 7ª Ordinária (2019-08-20)**, item X6 — Aprovação de novo PAE (água mineral) · voto: *acompanha o relator (implícito ou breve)* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=gqN-UXqNYhQ&t=8850s) · resultado: aprovado
 - **RD 15ª Ordinária (2020-04-15)**, item 1.1.5 — Desbloqueio de área (bloqueio provisório de 2015 para linha de transmissão não implantada) · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=lfr2P7uMVeA&t=2010s) · resultado: aprovado por unanimidade
 - **RD 15ª Ordinária (2020-04-15)**, item 1.4.c — Nova guia de utilização (≈48 mil t, três anos) de rocha ornamental · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=lfr2P7uMVeA&t=9370s) · resultado: aprovado por unanimidade
 - **RD 9ª Reunião Extraordinária Pública (2020-05-27)**, item 2.7 — Aprovação de relatório de reavaliação de reservas de granito (ES), motivado por cessão parcial a «Liocel» Mineração · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=XgYPPYFL8T0&t=7530s) · resultado: aprovado (unanimidade)

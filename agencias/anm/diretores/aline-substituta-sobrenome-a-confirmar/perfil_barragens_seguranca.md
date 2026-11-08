@@ -8,5 +8,5 @@
 
 ## Evidências (reunião · item · voto · justificativa)
 
-- **RD 17 (extraordinária) (2021-04-24)**, item 1 — Resolução do Plano de Fechamento de Mina (PFM), eixo temático 2 da Agenda Regulatória 2020/2021; revoga as NRM 20.4 e 20.5 (Portaria DNPM 23 · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=HHat5fD8HD8&t=2785s) · resultado: aprovado por unanimidade, com ajuste da vigência (primeiro dia útil do
-- **RD 35ª Reunião Ordinária Pública (2021-12-16)**, item 1.6 — Prorrogação de prazo para descaracterização de barragem a montante (art. 9º Res. ANM 13/2019 e art. 2º-A da Lei 12.334/2010) · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=GjzI6PQFCH4&t=7224s) · resultado: aprovado por unanimidade
+- **RD 17 (extraordinária) (2021-04-23)**, item 1 — Resolução do Plano de Fechamento de Mina (PFM), eixo temático 2 da Agenda Regulatória 2020/2021; revoga as NRM 20.4 e 20.5 (Portaria DNPM 23 · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=HHat5fD8HD8&t=2785s) · resultado: aprovado por unanimidade, com ajuste da vigência (primeiro dia útil do
+- **RD 35ª Reunião Ordinária Pública (2021-12-15)**, item 1.6 — Prorrogação de prazo para descaracterização de barragem a montante (art. 9º Res. ANM 13/2019 e art. 2º-A da Lei 12.334/2010) · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=GjzI6PQFCH4&t=7224s) · resultado: aprovado por unanimidade

@@ -8,4 +8,4 @@
 
 ## Evidências (reunião · item · voto · justificativa)
 
-- **RD 27 (2021-04-29)**, item 2.5.1 — Bloqueio provisório de área para captação/abastecimento de água do Guarujá/SP, sobre direitos da Pedreira Engebrita · voto: *de acordo* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=2358s) · resultado: aprovado por unanimidade, com ressalva de manter a operação da pedreir
+- **RD 27 (2021-04-28)**, item 2.5.1 — Bloqueio provisório de área para captação/abastecimento de água do Guarujá/SP, sobre direitos da Pedreira Engebrita · voto: *de acordo* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=2358s) · resultado: aprovado por unanimidade, com ressalva de manter a operação da pedreir

@@ -1,8 +1,8 @@
 # Itens do tema «fiscalizacao_sancoes» (todos os diretores)
 
-- **RD 4ª ROP (2019-06-24)**, 6 · relator **None** · Recurso contra notificação fiscal de cobrança de CFEM (valor citado ≈ R$ 111 mil) — dedução de ICMS na base de cálculo → aprovado com observação (provimento parcial/deferimento conforme relator; sem divergência 
+- **RD 4ª ROP (2019-05-21)**, 6 · relator **None** · Recurso contra notificação fiscal de cobrança de CFEM (valor citado ≈ R$ 111 mil) — dedução de ICMS na base de cálculo → aprovado com observação (provimento parcial/deferimento conforme relator; sem divergência 
   - votos:  · [vídeo](https://www.youtube.com/watch?v=cv5RTjpyQbM&t=2500s)
-- **RD 7ª Ordinária (2019-08)**, X3 · relator **None** · Anulação do edital de disponibilidade 59/2009 (DNPM-RJ) publicado antes de decidido o pedido de reconsideração da caducidade → edital anulado; novo procedimento de disponibilidade
+- **RD 7ª Ordinária (2019-08-20)**, X3 · relator **None** · Anulação do edital de disponibilidade 59/2009 (DNPM-RJ) publicado antes de decidido o pedido de reconsideração da caducidade → edital anulado; novo procedimento de disponibilidade
   - votos: Debora: acompanha; Victor: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=gqN-UXqNYhQ&t=5034s)
 - **RD 14ª Ordinária (2020-04-01)**, 1.2.2 · relator **Victor Bicca** · Indeferimento de requerimento de lavra por descumprimento de exigência → aprovado por unanimidade (indeferido)
   - votos: Victor: relator; Tasso: acompanha; Eduardo: acompanha; Tomás: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=LrMidsf_ZrQ&t=6075s)
@@ -70,19 +70,43 @@
   - votos: Tomás: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=rDHG2v6FECg&t=15434s)
 - **RD 18ª Reunião Ordinária Pública (2020-07-22)**, 1.5.11 · relator **Tomás Filho** · Defesa contra procedimento de nulidade de concessão de lavra de areia (Frutal; portaria 56/2005) outorgada com licença ambiental que não correspondia  → aprovado por unanimidade: portaria de lavra anulada; requerimento de lavra volta à análise
   - votos: Tomás: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=rDHG2v6FECg&t=16537s)
-- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 1.3 · relator **Victor Bicca** · Recurso contra multa por não adoção de providências indicadas pela fiscalização (art. 47, XIII, do Código de Mineração) — auto de infração 16/2017, PE → aprovado por unanimidade (votação em bloco)
+- **RD 19ª Ordinária (2020-08-19)**, 1.3 · relator **Victor Bicca** · Recursos contra multas por não iniciar trabalhos do PAE em seis meses (art. 34, I, do regulamento) → recursos negados por unanimidade
+  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1361s)
+- **RD 19ª Ordinária (2020-08-19)**, 1.4 · relator **Victor Bicca** · Recurso contra multa por infração ao art. 20 da Portaria DNPM 70.389/2017 (segurança de barragens) → recurso provido por unanimidade
+  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1406s)
+- **RD 19ª Ordinária (2020-08-19)**, 1.6 · relator **Victor Bicca** · Caducidade do direito de requerer lavra (não requerida em 1 ano após aprovação do relatório final) → aprovado por unanimidade
+  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1502s)
+- **RD 19ª Ordinária (2020-08-19)**, 1.7 · relator **Victor Bicca** · Pedido intempestivo de prorrogação de prazo para requerer lavra; caducidade do direito → aprovado por unanimidade
+  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1540s)
+- **RD 19ª Ordinária (2020-08-19)**, 1.9 · relator **Victor Bicca** · Recursos contra quatro multas da Portaria 70.389/2017 (barragens) → recurso negado quanto ao AI 906/2017 e provido quanto aos AIs 590, 620 e 663/2018, por una
+  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1630s)
+- **RD 19ª Ordinária (2020-08-19)**, 1.10 · relator **Victor Bicca** · Recurso contra multas por não publicar extrato da inspeção quinzenal de barragem (art. 20, Portaria 70.389/2017) → recurso negado por unanimidade
+  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1768s)
+- **RD 19ª Ordinária (2020-08-19)**, 2.2 · relator **Debora Puccini** · Caducidade de concessões de lavra (paralisação/abandono, sem defesa) → aprovado por unanimidade
+  - votos: Debora: relator; Tomás: acompanha; Eduardo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=2099s)
+- **RD 19ª Ordinária (2020-08-19)**, 2.3 · relator **Debora Puccini** · Caducidade do direito de requerer lavra e disponibilidade das áreas → aprovado por unanimidade
+  - votos: Debora: relator; Tomás: acompanha; Eduardo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=2183s)
+- **RD 19ª Ordinária (2020-08-19)**, 2.4 · relator **Debora Puccini** · Requerimento de lavra intempestivo; caducidade do direito de requerer lavra → aprovado por unanimidade
+  - votos: Debora: relator; Tomás: acompanha; Eduardo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=2238s)
+- **RD 19ª Ordinária (2020-08-19)**, 3.1 · relator **Eduardo Leão** · Recurso contra multa por descumprimento de norma de segurança de barragem (alega descomissionamento) → recurso negado por unanimidade
+  - votos: Eduardo: relator; Debora: acompanha; Tasso: acompanha; Tomás: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=2830s)
+- **RD 19ª Ordinária (2020-08-19)**, 4.1 · relator **Tasso Mendonça** · Caducidade de concessão de lavra de quartzito sem defesa → aprovado por unanimidade
+  - votos: Tasso: relator; Debora: acompanha; Eduardo: acompanha; Tomás: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=3120s)
+- **RD 19ª Ordinária (2020-08-19)**, 5.1–5.7 · relator **Tomás Filho** · Instauração de caducidade de concessões (abandono), negativa de prorrogação de início de lavra, provimento de recurso contra cancelamento de licenciam → aprovado por unanimidade
+  - votos: Tomás: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=3706s)
+- **RD 20ª Reunião Ordinária Pública (2020-09-16)**, 1.3 · relator **Victor Bicca** · Recurso contra multa por não adoção de providências indicadas pela fiscalização (art. 47, XIII, do Código de Mineração) — auto de infração 16/2017, PE → aprovado por unanimidade (votação em bloco)
   - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=347s)
-- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 1.4 · relator **Victor Bicca** · Recurso contra multa por não entrega de Relatório Anual de Lavra → aprovado por unanimidade (votação em bloco)
+- **RD 20ª Reunião Ordinária Pública (2020-09-16)**, 1.4 · relator **Victor Bicca** · Recurso contra multa por não entrega de Relatório Anual de Lavra → aprovado por unanimidade (votação em bloco)
   - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=399s)
-- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 2.1 · relator **Debora Puccini** · Caducidade de concessões de lavra por abandono/inexistência de lavra constatados em vistoria → aprovado por unanimidade (votação em bloco)
+- **RD 20ª Reunião Ordinária Pública (2020-09-16)**, 2.1 · relator **Debora Puccini** · Caducidade de concessões de lavra por abandono/inexistência de lavra constatados em vistoria → aprovado por unanimidade (votação em bloco)
   - votos: Debora: relator; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=1983s)
-- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 2.3 · relator **Debora Puccini** · Caducidade do direito de requerer lavra (requerimento não apresentado no prazo legal) → aprovado por unanimidade (votação em bloco)
+- **RD 20ª Reunião Ordinária Pública (2020-09-16)**, 2.3 · relator **Debora Puccini** · Caducidade do direito de requerer lavra (requerimento não apresentado no prazo legal) → aprovado por unanimidade (votação em bloco)
   - votos: Debora: relator; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=2147s)
-- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 3.2 · relator **Eduardo Leão** · Recurso contra multa por não entrega da Declaração de Condição de Estabilidade (DCE) da barragem de rejeito B4C (em descaracterização) → aprovado por unanimidade (votação em bloco)
+- **RD 20ª Reunião Ordinária Pública (2020-09-16)**, 3.2 · relator **Eduardo Leão** · Recurso contra multa por não entrega da Declaração de Condição de Estabilidade (DCE) da barragem de rejeito B4C (em descaracterização) → aprovado por unanimidade (votação em bloco)
   - votos: Eduardo: relator; Debora: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=3401s)
-- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 5.3 · relator **Tomás Filho** · Defesa contra instauração de procedimento de caducidade de concessão de lavra → aprovado por unanimidade dos presentes (votação em bloco): dá provimento à defesa; procedi
+- **RD 20ª Reunião Ordinária Pública (2020-09-16)**, 5.3 · relator **Tomás Filho** · Defesa contra instauração de procedimento de caducidade de concessão de lavra → aprovado por unanimidade dos presentes (votação em bloco): dá provimento à defesa; procedi
   - votos: Tomás: relator; Tasso: acompanha; Eduardo: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=4890s)
-- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 5.6 (voto-vista) · relator **Eduardo Leão** · Voto-vista sobre recurso contra caducidade do direito de requerer lavra (RFP aprovado em 07/03/2005; requerimento de lavra protocolado em 15/03/2006,  → recurso não conhecido; mantida a caducidade (Bicca, Tomás e Tasso; Eduardo vencido; voto d
+- **RD 20ª Reunião Ordinária Pública (2020-09-16)**, 5.6 (voto-vista) · relator **Eduardo Leão** · Voto-vista sobre recurso contra caducidade do direito de requerer lavra (RFP aprovado em 07/03/2005; requerimento de lavra protocolado em 15/03/2006,  → recurso não conhecido; mantida a caducidade (Bicca, Tomás e Tasso; Eduardo vencido; voto d
   - votos: Eduardo: vencido; Victor: revisor_acompanha; Debora: revisor_acompanha; Tomás: revisor_acompanha; Tasso: vista · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=5026s)
 - **RD 21ª Ordinária (2020-10-21)**, 1.3 · relator **Victor Bicca** · Caducidade de concessões de lavra (sem defesa no prazo) → caducidade declarada (unanimidade)
   - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: outro · [vídeo](https://www.youtube.com/watch?v=YZuPzUTCFK0&t=4118s)
@@ -108,51 +132,51 @@
   - votos: Tasso: relator; Eduardo: outro; Carlos: acompanha; Debora: acompanha; Victor: outro · [vídeo](https://www.youtube.com/watch?v=D6YYWHku_rk&t=193s)
 - **RD 15ª Extraordinária (2020-12-18)**, 1.2 · relator **Victor Bicca** · Referendo de atos do DG que tornaram sem efeito caducidade de alvará, anularam declaração de disponibilidade e excluíram o processo do edital, por cum → referendado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Tasso: acompanha; Eduardo: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=D6YYWHku_rk&t=3805s)
-- **RD 24 (2021-01-21)**, 3.x.2 · relator **Eduardo Leão** · Recurso contra multa por operar sem licença ambiental de operação válida na vistoria → aprovado por unanimidade
+- **RD 24 (2021-01-20)**, 3.x.2 · relator **Eduardo Leão** · Recurso contra multa por operar sem licença ambiental de operação válida na vistoria → aprovado por unanimidade
   - votos: Eduardo: relator; Tasso: acompanha; Carlos: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=odUdOGtUxJs&t=2916s)
-- **RD 24 (2021-01-21)**, 3.x.3 · relator **Eduardo Leão** · Caducidade do direito de requerer lavra → aprovado por unanimidade
+- **RD 24 (2021-01-20)**, 3.x.3 · relator **Eduardo Leão** · Caducidade do direito de requerer lavra → aprovado por unanimidade
   - votos: Eduardo: relator; Tasso: acompanha; Carlos: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=odUdOGtUxJs&t=2974s)
-- **RD 24 (2021-01-21)**, 2.2 · relator **Debora Puccini** · Recurso contra multa por não pagamento de TAH (paga em processo errado) → aprovado por unanimidade
+- **RD 24 (2021-01-20)**, 2.2 · relator **Debora Puccini** · Recurso contra multa por não pagamento de TAH (paga em processo errado) → aprovado por unanimidade
   - votos: Debora: relator; Eduardo: acompanha; Tasso: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=odUdOGtUxJs&t=3180s)
-- **RD 24 (2021-01-21)**, 5.1 · relator **Carlos Cordeiro** · Caducidade do direito de requerer lavra → aprovado por unanimidade
+- **RD 24 (2021-01-20)**, 5.1 · relator **Carlos Cordeiro** · Caducidade do direito de requerer lavra → aprovado por unanimidade
   - votos: Carlos: relator; Eduardo: acompanha; Debora: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=odUdOGtUxJs&t=4586s)
-- **RD 25 (2021-02-25)**, 3.1 · relator **Eduardo Leão** · Recurso contra multa por não solicitar imissão de posse → aprovado por unanimidade
+- **RD 25 (2021-02-24)**, 3.1 · relator **Eduardo Leão** · Recurso contra multa por não solicitar imissão de posse → aprovado por unanimidade
   - votos: Eduardo: relator; Tasso: acompanha; Debora: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=688s)
-- **RD 25 (2021-02-25)**, 3.2 · relator **Eduardo Leão** · Recurso contra multas por não entrega do RAL (registro de licença, MS) → aprovado por unanimidade
+- **RD 25 (2021-02-24)**, 3.2 · relator **Eduardo Leão** · Recurso contra multas por não entrega do RAL (registro de licença, MS) → aprovado por unanimidade
   - votos: Eduardo: relator; Tasso: acompanha; Debora: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=740s)
-- **RD 25 (2021-02-25)**, 3.3 · relator **Eduardo Leão** · Retificação de despacho: caducidade publicada no processo errado → aprovado por unanimidade
+- **RD 25 (2021-02-24)**, 3.3 · relator **Eduardo Leão** · Retificação de despacho: caducidade publicada no processo errado → aprovado por unanimidade
   - votos: Eduardo: relator; Tasso: acompanha; Debora: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=785s)
-- **RD 25 (2021-02-25)**, 1.5 · relator **Victor Bicca** · Requerimento de lavra protocolado um dia após o prazo: não conhecido e caducidade do direito de requerer lavra → aprovado por unanimidade
+- **RD 25 (2021-02-24)**, 1.5 · relator **Victor Bicca** · Requerimento de lavra protocolado um dia após o prazo: não conhecido e caducidade do direito de requerer lavra → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Eduardo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=2862s)
-- **RD 25 (2021-02-25)**, 2.2 · relator **Debora Puccini** · Recurso intempestivo contra caducidade do direito de requerer lavra → aprovado por unanimidade
+- **RD 25 (2021-02-24)**, 2.2 · relator **Debora Puccini** · Recurso intempestivo contra caducidade do direito de requerer lavra → aprovado por unanimidade
   - votos: Debora: relator; Eduardo: acompanha; Tasso: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=4343s)
-- **RD 25 (2021-02-25)**, 4.5 · relator **Tasso Mendonça** · Caducidade do direito de requerer lavra, áreas à disponibilidade → aprovado por unanimidade
+- **RD 25 (2021-02-24)**, 4.5 · relator **Tasso Mendonça** · Caducidade do direito de requerer lavra, áreas à disponibilidade → aprovado por unanimidade
   - votos: Tasso: relator; Carlos: acompanha; Debora: acompanha; Eduardo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=4948s)
-- **RD 26 (2021-03-25)**, 1.6 · relator **Victor Bicca** · Recurso contra multa por ausência de fichas de apuração de CFEM no local da lavra (ES) → aprovado por unanimidade
+- **RD 26 (2021-03-24)**, 1.6 · relator **Victor Bicca** · Recurso contra multa por ausência de fichas de apuração de CFEM no local da lavra (ES) → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=LX-5lXLbJqo&t=5023s)
-- **RD 26 (2021-03-25)**, 2.2 · relator **Debora Puccini** · Recurso contra multa por não pagamento da TAH (3º ano do alvará) → aprovado por unanimidade
+- **RD 26 (2021-03-24)**, 2.2 · relator **Debora Puccini** · Recurso contra multa por não pagamento da TAH (3º ano do alvará) → aprovado por unanimidade
   - votos: Debora: relator; Tasso: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=LX-5lXLbJqo&t=5758s)
-- **RD 26 (2021-03-25)**, 4.4 · relator **Carlos Cordeiro** · Recurso contra multa de TAH → aprovado por unanimidade
+- **RD 26 (2021-03-24)**, 4.4 · relator **Carlos Cordeiro** · Recurso contra multa de TAH → aprovado por unanimidade
   - votos: Carlos: relator; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=LX-5lXLbJqo&t=8235s)
-- **RD 16 (extraordinária) (2021-03-31)**, 2.2 · relator **Debora Puccini** · Caducidade do direito de requerer lavra, com envio à disponibilidade → aprovado por unanimidade
+- **RD 16 (extraordinária) (2021-03-30)**, 2.2 · relator **Debora Puccini** · Caducidade do direito de requerer lavra, com envio à disponibilidade → aprovado por unanimidade
   - votos: Debora: relator; Tasso: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=wYAFipSXc7c&t=2632s)
-- **RD 27 (2021-04-29)**, 1.3 · relator **Victor Bicca** · Anulação de prorrogação de prazo para requerer lavra (pedido intempestivo) e caducidade do direito de requerer lavra → aprovado por unanimidade
+- **RD 27 (2021-04-28)**, 1.3 · relator **Victor Bicca** · Anulação de prorrogação de prazo para requerer lavra (pedido intempestivo) e caducidade do direito de requerer lavra → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Aline: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=6659s)
-- **RD 27 (2021-04-29)**, 2.2 · relator **Debora Puccini** · Caducidade do direito de requerer lavra, com envio à disponibilidade → aprovado por unanimidade
+- **RD 27 (2021-04-28)**, 2.2 · relator **Debora Puccini** · Caducidade do direito de requerer lavra, com envio à disponibilidade → aprovado por unanimidade
   - votos: Debora: relator; Tasso: acompanha; Carlos: acompanha; Aline: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=7587s)
-- **RD 27 (2021-04-29)**, 2.7 · relator **Debora Puccini** · Pedido de reanálise de caducidade de concessão de lavra: reencaminhar à SGM/MME → aprovado por unanimidade
+- **RD 27 (2021-04-28)**, 2.7 · relator **Debora Puccini** · Pedido de reanálise de caducidade de concessão de lavra: reencaminhar à SGM/MME → aprovado por unanimidade
   - votos: Debora: relator; Tasso: acompanha; Carlos: acompanha; Aline: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=7797s)
-- **RD 28 (2021-05-27)**, 1.2 · relator **Victor Bicca** · Referendo de ato do Diretor-Geral em cumprimento de decisão judicial: torna sem efeito decisão do superintendente de pesquisa (sem competência delegad → aprovado por unanimidade
+- **RD 28 (2021-05-26)**, 1.2 · relator **Victor Bicca** · Referendo de ato do Diretor-Geral em cumprimento de decisão judicial: torna sem efeito decisão do superintendente de pesquisa (sem competência delegad → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Aline: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=7PICL_r4uQY&t=1860s)
-- **RD 28 (2021-05-27)**, 1.8 · relator **Victor Bicca** · Recurso contra multa por pagamento da TAH em atraso → aprovado por unanimidade
+- **RD 28 (2021-05-26)**, 1.8 · relator **Victor Bicca** · Recurso contra multa por pagamento da TAH em atraso → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Aline: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=7PICL_r4uQY&t=2617s)
-- **RD 28 (2021-05-27)**, 3.5 · relator **Tasso Mendonça** · Caducidade do direito de requerer lavra (inclusive recurso intempestivo de titular de terraplenagem) → aprovado por unanimidade
+- **RD 28 (2021-05-26)**, 3.5 · relator **Tasso Mendonça** · Caducidade do direito de requerer lavra (inclusive recurso intempestivo de titular de terraplenagem) → aprovado por unanimidade
   - votos: Tasso: relator; Carlos: acompanha; Aline: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=7PICL_r4uQY&t=4514s)
-- **RD 28 (2021-05-27)**, 4.7 · relator **Carlos Cordeiro** · Caducidade do direito de requerer lavra → aprovado por unanimidade
+- **RD 28 (2021-05-26)**, 4.7 · relator **Carlos Cordeiro** · Caducidade do direito de requerer lavra → aprovado por unanimidade
   - votos: Carlos: relator; Tasso: acompanha; Debora: acompanha; Aline: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=7PICL_r4uQY&t=5299s)
-- **RD 28 (2021-05-27)**, 4.9 · relator **Carlos Cordeiro** · Arquivamento de procedimento de caducidade de concessão de lavra instaurado por ACP (rio Ribeira, PR) → aprovado por unanimidade
+- **RD 28 (2021-05-26)**, 4.9 · relator **Carlos Cordeiro** · Arquivamento de procedimento de caducidade de concessão de lavra instaurado por ACP (rio Ribeira, PR) → aprovado por unanimidade
   - votos: Carlos: relator; Tasso: acompanha; Debora: acompanha; Aline: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=7PICL_r4uQY&t=5408s)
-- **RD 28 (2021-05-27)**, 5.3 · relator **Aline (substituta, sobrenome a confirmar)** · Recurso contra multa por ausência de licença ambiental válida na fiscalização → aprovado por unanimidade
+- **RD 28 (2021-05-26)**, 5.3 · relator **Aline (substituta, sobrenome a confirmar)** · Recurso contra multa por ausência de licença ambiental válida na fiscalização → aprovado por unanimidade
   - votos: Aline: relator; Carlos: acompanha; Debora: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=7PICL_r4uQY&t=5752s)
 - **RD 29ª Ordinária (2021-06-23)**, 2.2 · relator **Debora Puccini** · Recurso contra indeferimento de guia de utilização em área com lavra ilegal → nega provimento por unanimidade
   - votos: Debora: relator; Tasso: acompanha; Aline: acompanha; Victor: acompanha; Carlos: acompanha · [vídeo](https://www.youtube.com/watch?v=JhjBUQ1wgxg&t=8502s)
@@ -168,43 +192,43 @@
   - votos: Aline: relator; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=68PBR4uvQGg&t=6611s)
 - **RD 30ª Ordinária (2021-07-21)**, 4.8 · relator **Aline (substituta, sobrenome a confirmar)** · Recursos contra multas por não entrega do RAL (ano-base 2016 entregue com ano errado e depois corrigido); um bloco revê decisão da 16ª ROP (relator To → dá provimento por unanimidade
   - votos: Aline: relator; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=68PBR4uvQGg&t=7559s)
-- **RD 32ª Ordinária (2021-09-23)**, 1.11 · relator **Victor Bicca** · Recurso contra indeferimento de prorrogação do prazo para requerer lavra → nega provimento por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 1.11 · relator **Victor Bicca** · Recurso contra indeferimento de prorrogação do prazo para requerer lavra → nega provimento por unanimidade
   - votos: Victor: relator; Guilherme: acompanha; Ronaldo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=5834s)
-- **RD 32ª Ordinária (2021-09-23)**, 3.6 · relator **Tasso Mendonça** · Instauração/prosseguimento de processos de caducidade de concessão de lavra por abandono da jazida → aprova por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 3.6 · relator **Tasso Mendonça** · Instauração/prosseguimento de processos de caducidade de concessão de lavra por abandono da jazida → aprova por unanimidade
   - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=9441s)
-- **RD 32ª Ordinária (2021-09-23)**, 3.7 · relator **Tasso Mendonça** · Caducidade do direito de requerer a lavra (relatório aprovado em 2016) → declara caducidade por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 3.7 · relator **Tasso Mendonça** · Caducidade do direito de requerer a lavra (relatório aprovado em 2016) → declara caducidade por unanimidade
   - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=9601s)
-- **RD 32ª Ordinária (2021-09-23)**, 3.9 · relator **Tasso Mendonça** · Recurso contra multa por TAH paga fora do prazo → nega provimento por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 3.9 · relator **Tasso Mendonça** · Recurso contra multa por TAH paga fora do prazo → nega provimento por unanimidade
   - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=9637s)
-- **RD 32ª Ordinária (2021-09-23)**, 3.13.1 · relator **Tasso Mendonça** · Recurso contra autos de infração 51 e 52/2016 sobre declarações de estabilidade de barragens → dá provimento por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 3.13.1 · relator **Tasso Mendonça** · Recurso contra autos de infração 51 e 52/2016 sobre declarações de estabilidade de barragens → dá provimento por unanimidade
   - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=9880s)
-- **RD 32ª Ordinária (2021-09-23)**, 3.13.2 · relator **Tasso Mendonça** · Recurso contra auto de infração: mapa de inundação de barragem não disponível na vistoria → nega provimento por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 3.13.2 · relator **Tasso Mendonça** · Recurso contra auto de infração: mapa de inundação de barragem não disponível na vistoria → nega provimento por unanimidade
   - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=10009s)
-- **RD 32ª Ordinária (2021-09-23)**, 4.9 · relator **Ronaldo Lima** · Declaração de caducidade do direito de requerer a lavra → declara caducidade por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 4.9 · relator **Ronaldo Lima** · Declaração de caducidade do direito de requerer a lavra → declara caducidade por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=11024s)
-- **RD 33ª Ordinária (2021-10-21)**, 3.5.1 · relator **Tomás Filho** · Voto-vista de Tasso Mendonça: recurso contra caducidade do direito de requerer a lavra (espongilito e argila refratária); requerimento de lavra protoc → recurso provido por maioria (4 a 1)
+- **RD 33ª Ordinária (2021-10-20)**, 3.5.1 · relator **Tomás Filho** · Voto-vista de Tasso Mendonça: recurso contra caducidade do direito de requerer a lavra (espongilito e argila refratária); requerimento de lavra protoc → recurso provido por maioria (4 a 1)
   - votos: Tasso: revisor_acompanha; Debora: revisor_acompanha; Victor: revisor_acompanha; Ronaldo: outro; Guilherme: outro; Tomás: vencido · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=506s)
-- **RD 33ª Ordinária (2021-10-21)**, 3.3 · relator **Tasso Mendonça** · Recurso contra multa por entrega do RAL fora do prazo (alegação de falha do sistema) → nega provimento por unanimidade
+- **RD 33ª Ordinária (2021-10-20)**, 3.3 · relator **Tasso Mendonça** · Recurso contra multa por entrega do RAL fora do prazo (alegação de falha do sistema) → nega provimento por unanimidade
   - votos: Tasso: relator; Guilherme: acompanha; Debora: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=10278s)
-- **RD 33ª Ordinária (2021-10-21)**, 4.5.1 · relator **Ronaldo Lima** · Pedido de reconsideração da caducidade de portaria de lavra de água mineral → dá provimento (anula caducidade) por unanimidade
+- **RD 33ª Ordinária (2021-10-20)**, 4.5.1 · relator **Ronaldo Lima** · Pedido de reconsideração da caducidade de portaria de lavra de água mineral → dá provimento (anula caducidade) por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=10803s)
-- **RD 33ª Ordinária (2021-10-21)**, 4.9 · relator **Ronaldo Lima** · Caducidade do direito de requerer lavra (acompanha votos prontos da ex-diretora substituta) → declara caducidade por unanimidade
+- **RD 33ª Ordinária (2021-10-20)**, 4.9 · relator **Ronaldo Lima** · Caducidade do direito de requerer lavra (acompanha votos prontos da ex-diretora substituta) → declara caducidade por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=11360s)
-- **RD 33ª Ordinária (2021-10-21)**, 4.12.1 · relator **Ronaldo Lima** · Recurso contra multa por exigência não cumprida (ART) → nega provimento por unanimidade
+- **RD 33ª Ordinária (2021-10-20)**, 4.12.1 · relator **Ronaldo Lima** · Recurso contra multa por exigência não cumprida (ART) → nega provimento por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=11713s)
-- **RD 34ª Reunião Ordinária Pública (2021-11-25)**, 1.1–1.10 · relator **Victor Bicca** · 1.1 referendo de guia de utilização emitida pelo DG; 1.2 outorga de 27 concessões de lavra; 1.3 aditamentos; 1.4 retificação de portaria de lavra após → aprovado por unanimidade, com ressalva de Ronaldo Lima no 1.1
+- **RD 34ª Reunião Ordinária Pública (2021-11-24)**, 1.1–1.10 · relator **Victor Bicca** · 1.1 referendo de guia de utilização emitida pelo DG; 1.2 outorga de 27 concessões de lavra; 1.3 aditamentos; 1.4 retificação de portaria de lavra após → aprovado por unanimidade, com ressalva de Ronaldo Lima no 1.1
   - votos: Victor: relator; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=_gJ3LyVOb64&t=7663s)
-- **RD 34ª Reunião Ordinária Pública (2021-11-25)**, 3.1–3.9 (Tasso) · relator **Tasso Mendonça** · Indeferimento de requerimento de lavra de areia (mudança para licenciamento); grupamento mineiro arquivado (desistência) e outro indeferido (produção  → aprovado por unanimidade
+- **RD 34ª Reunião Ordinária Pública (2021-11-24)**, 3.1–3.9 (Tasso) · relator **Tasso Mendonça** · Indeferimento de requerimento de lavra de areia (mudança para licenciamento); grupamento mineiro arquivado (desistência) e outro indeferido (produção  → aprovado por unanimidade
   - votos: Tasso: relator; Debora: acompanha; Guilherme: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=_gJ3LyVOb64&t=10220s)
-- **RD 34ª Reunião Ordinária Pública (2021-11-25)**, 4.1–4.8 (Ronaldo) · relator **Ronaldo Lima** · Outorga de 15 portarias de lavra; aditamentos; recursos de CFEM negados; multa em dobro por reincidência (Safran) mantida; 12 recursos contra indeferi → aprovado por unanimidade
+- **RD 34ª Reunião Ordinária Pública (2021-11-24)**, 4.1–4.8 (Ronaldo) · relator **Ronaldo Lima** · Outorga de 15 portarias de lavra; aditamentos; recursos de CFEM negados; multa em dobro por reincidência (Safran) mantida; 12 recursos contra indeferi → aprovado por unanimidade
   - votos: Ronaldo: relator; Tasso: acompanha; Debora: acompanha; Guilherme: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=_gJ3LyVOb64&t=11732s)
-- **RD 35ª Reunião Ordinária Pública (2021-12-16)**, 1.10.1 · relator **Victor Bicca** · Recurso contra denúncia de lavra ilegal de diabásio para brita em Ortigueira/PR (denúncia da prefeitura); defesa alega compra e venda de material, não → retirado de pauta pelo relator
+- **RD 35ª Reunião Ordinária Pública (2021-12-15)**, 1.10.1 · relator **Victor Bicca** · Recurso contra denúncia de lavra ilegal de diabásio para brita em Ortigueira/PR (denúncia da prefeitura); defesa alega compra e venda de material, não → retirado de pauta pelo relator
   - votos: Victor: relator · [vídeo](https://www.youtube.com/watch?v=GjzI6PQFCH4&t=2004s)
-- **RD 35ª Reunião Ordinária Pública (2021-12-16)**, 1.11.1 · relator **Victor Bicca** · Recurso contra o Auto de Paralisação 1/2019 por lavra de diabásio pela arrendatária sem averbação do arrendamento (Paraná) → recurso provido por unanimidade; auto arquivado
+- **RD 35ª Reunião Ordinária Pública (2021-12-15)**, 1.11.1 · relator **Victor Bicca** · Recurso contra o Auto de Paralisação 1/2019 por lavra de diabásio pela arrendatária sem averbação do arrendamento (Paraná) → recurso provido por unanimidade; auto arquivado
   - votos: Victor: relator; Ronaldo: acompanha; Carlos: acompanha; Aline: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=GjzI6PQFCH4&t=2909s)
-- **RD 35ª Reunião Ordinária Pública (2021-12-16)**, 1.7–1.9 · relator **Victor Bicca** · 1.7 pedido de reconsideração acatado por autotutela: tornado sem efeito o indeferimento de registro de licença (DNPM/MT não enviou declaração de aptid → aprovado por unanimidade
+- **RD 35ª Reunião Ordinária Pública (2021-12-15)**, 1.7–1.9 · relator **Victor Bicca** · 1.7 pedido de reconsideração acatado por autotutela: tornado sem efeito o indeferimento de registro de licença (DNPM/MT não enviou declaração de aptid → aprovado por unanimidade
   - votos: Victor: relator; Ronaldo: acompanha; Carlos: acompanha; Aline: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=GjzI6PQFCH4&t=6760s)
-- **RD 35ª Reunião Ordinária Pública (2021-12-16)**, 2.1–2.4 · relator **Ronaldo Lima** · 2.1 outorga de 9 concessões de lavra; 2.2 aditamento de novas substâncias (Vale; AngloGold prata); 2.3 recursos contra cobrança de CFEM negados; 2.4 c → aprovado por unanimidade
+- **RD 35ª Reunião Ordinária Pública (2021-12-15)**, 2.1–2.4 · relator **Ronaldo Lima** · 2.1 outorga de 9 concessões de lavra; 2.2 aditamento de novas substâncias (Vale; AngloGold prata); 2.3 recursos contra cobrança de CFEM negados; 2.4 c → aprovado por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Aline: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=GjzI6PQFCH4&t=7282s)
 - **RD 36ª Reunião Ordinária Pública (2022-01-26)**, 5.6–5.11 (blocos) · relator **Aline (substituta, sobrenome a confirmar)** · Indeferimento de 26 requerimentos de lavra por não cumprimento de exigências (art. 31 §3º Dec. 9.406); caducidade do direito de requerer lavra (2); re → aprovado por unanimidade (votação em bloco)
   - votos: Aline: relator; Guilherme: acompanha; Ronaldo: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=xiUGQlCtGDw&t=2190s)
@@ -214,91 +238,67 @@
   - votos: Ronaldo: relator; Guilherme: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=xiUGQlCtGDw&t=7210s)
 - **RD 36ª Reunião Ordinária Pública (2022-01-26)**, 4.3–4.5 · relator **Carlos Cordeiro** · 4.3 deferida prorrogação de prazo para requerer lavra; 4.4 desconstituído o grupamento mineiro 172/2000; 4.5 anulada a Portaria de Lavra 132/2019, pub → aprovado por unanimidade
   - votos: Carlos: relator; Guilherme: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=xiUGQlCtGDw&t=10110s)
-- **RD 37ª Ordinária (2022-02-24)**, 2.3 · relator **Ronaldo Lima** · Recurso contra apuração de lavra ilegal (mármore dolomítico) → recurso provido por unanimidade (diretores presentes)
+- **RD 37ª Ordinária (2022-02-23)**, 2.3 · relator **Ronaldo Lima** · Recurso contra apuração de lavra ilegal (mármore dolomítico) → recurso provido por unanimidade (diretores presentes)
   - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Júlio: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=366s)
-- **RD 37ª Ordinária (2022-02-24)**, 2.5 · relator **Ronaldo Lima** · 14 recursos contra multas por descumprir exigências de segurança da barragem Rio Fiorita → recurso negado por unanimidade (diretores presentes)
+- **RD 37ª Ordinária (2022-02-23)**, 2.5 · relator **Ronaldo Lima** · 14 recursos contra multas por descumprir exigências de segurança da barragem Rio Fiorita → recurso negado por unanimidade (diretores presentes)
   - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Júlio: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=558s)
-- **RD 37ª Ordinária (2022-02-24)**, 3.4 · relator **Guilherme Gomes** · Recursos contra multas (autos de infração) → recurso negado por unanimidade (diretores presentes)
+- **RD 37ª Ordinária (2022-02-23)**, 3.4 · relator **Guilherme Gomes** · Recursos contra multas (autos de infração) → recurso negado por unanimidade (diretores presentes)
   - votos: Guilherme: relator; Ronaldo: acompanha; Júlio: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=1119s)
-- **RD 37ª Ordinária (2022-02-24)**, 3.10 · relator **Guilherme Gomes** · Recurso contra caducidade do direito de requerer lavra → recurso provido por unanimidade (diretores presentes)
+- **RD 37ª Ordinária (2022-02-23)**, 3.10 · relator **Guilherme Gomes** · Recurso contra caducidade do direito de requerer lavra → recurso provido por unanimidade (diretores presentes)
   - votos: Guilherme: relator; Ronaldo: acompanha; Júlio: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=1326s)
-- **RD 37ª Ordinária (2022-02-24)**, 1.6 · relator **Victor Bicca** · Reconsideração de decisão da diretoria sobre auto de paralisação (areia em leito de rio com poligonal deslocada) → recurso não conhecido; auto de paralisação arquivado e poligonal a ajustar, por unanimidad
+- **RD 37ª Ordinária (2022-02-23)**, 1.6 · relator **Victor Bicca** · Reconsideração de decisão da diretoria sobre auto de paralisação (areia em leito de rio com poligonal deslocada) → recurso não conhecido; auto de paralisação arquivado e poligonal a ajustar, por unanimidad
   - votos: Victor: relator; Júlio: acompanha; Roger: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=3511s)
-- **RD 37ª Ordinária (2022-02-24)**, 5.6 · relator **Júlio Rodrigues** · Recurso contra caducidade do direito de requerer lavra por intempestividade → recurso não conhecido (intempestivo), por unanimidade
+- **RD 37ª Ordinária (2022-02-23)**, 5.6 · relator **Júlio Rodrigues** · Recurso contra caducidade do direito de requerer lavra por intempestividade → recurso não conhecido (intempestivo), por unanimidade
   - votos: Júlio: relator; Ronaldo: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=5574s)
-- **RD 37ª Ordinária (2022-02-24)**, 5.9 · relator **Júlio Rodrigues** · Recurso contra auto de infração por não incluir caracterização tecnológica dos rejeitos no PSB (barragem bacia de acumulação 01) → recurso negado por unanimidade (diretores presentes)
+- **RD 37ª Ordinária (2022-02-23)**, 5.9 · relator **Júlio Rodrigues** · Recurso contra auto de infração por não incluir caracterização tecnológica dos rejeitos no PSB (barragem bacia de acumulação 01) → recurso negado por unanimidade (diretores presentes)
   - votos: Júlio: relator; Ronaldo: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=5967s)
-- **RD 19ª Ordinária (2022-03-07)**, 1.3 · relator **Victor Bicca** · Recursos contra multas por não iniciar trabalhos do PAE em seis meses (art. 34, I, do regulamento) → recursos negados por unanimidade
-  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1361s)
-- **RD 19ª Ordinária (2022-03-07)**, 1.4 · relator **Victor Bicca** · Recurso contra multa por infração ao art. 20 da Portaria DNPM 70.389/2017 (segurança de barragens) → recurso provido por unanimidade
-  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1406s)
-- **RD 19ª Ordinária (2022-03-07)**, 1.6 · relator **Victor Bicca** · Caducidade do direito de requerer lavra (não requerida em 1 ano após aprovação do relatório final) → aprovado por unanimidade
-  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1502s)
-- **RD 19ª Ordinária (2022-03-07)**, 1.7 · relator **Victor Bicca** · Pedido intempestivo de prorrogação de prazo para requerer lavra; caducidade do direito → aprovado por unanimidade
-  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1540s)
-- **RD 19ª Ordinária (2022-03-07)**, 1.9 · relator **Victor Bicca** · Recursos contra quatro multas da Portaria 70.389/2017 (barragens) → recurso negado quanto ao AI 906/2017 e provido quanto aos AIs 590, 620 e 663/2018, por una
-  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1630s)
-- **RD 19ª Ordinária (2022-03-07)**, 1.10 · relator **Victor Bicca** · Recurso contra multas por não publicar extrato da inspeção quinzenal de barragem (art. 20, Portaria 70.389/2017) → recurso negado por unanimidade
-  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1768s)
-- **RD 19ª Ordinária (2022-03-07)**, 2.2 · relator **Debora Puccini** · Caducidade de concessões de lavra (paralisação/abandono, sem defesa) → aprovado por unanimidade
-  - votos: Debora: relator; Tomás: acompanha; Eduardo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=2099s)
-- **RD 19ª Ordinária (2022-03-07)**, 2.3 · relator **Debora Puccini** · Caducidade do direito de requerer lavra e disponibilidade das áreas → aprovado por unanimidade
-  - votos: Debora: relator; Tomás: acompanha; Eduardo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=2183s)
-- **RD 19ª Ordinária (2022-03-07)**, 2.4 · relator **Debora Puccini** · Requerimento de lavra intempestivo; caducidade do direito de requerer lavra → aprovado por unanimidade
-  - votos: Debora: relator; Tomás: acompanha; Eduardo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=2238s)
-- **RD 19ª Ordinária (2022-03-07)**, 3.1 · relator **Eduardo Leão** · Recurso contra multa por descumprimento de norma de segurança de barragem (alega descomissionamento) → recurso negado por unanimidade
-  - votos: Eduardo: relator; Debora: acompanha; Tasso: acompanha; Tomás: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=2830s)
-- **RD 19ª Ordinária (2022-03-07)**, 4.1 · relator **Tasso Mendonça** · Caducidade de concessão de lavra de quartzito sem defesa → aprovado por unanimidade
-  - votos: Tasso: relator; Debora: acompanha; Eduardo: acompanha; Tomás: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=3120s)
-- **RD 19ª Ordinária (2022-03-07)**, 5.1–5.7 · relator **Tomás Filho** · Instauração de caducidade de concessões (abandono), negativa de prorrogação de início de lavra, provimento de recurso contra cancelamento de licenciam → aprovado por unanimidade
-  - votos: Tomás: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=3706s)
-- **RD 22ª Extraordinária (2022-03-17)**, 1.1 · relator **Victor Bicca** · Resolução que altera os arts. 102 a 122 da Consolidação Normativa (Portaria DNPM 155/2016) sobre guia de utilização: volta a exigir licença ambiental  → pedido de vista de Roger Cabral; decisão adiada para a reunião de 30/03
+- **RD 22ª Extraordinária (2022-03-16)**, 1.1 · relator **Victor Bicca** · Resolução que altera os arts. 102 a 122 da Consolidação Normativa (Portaria DNPM 155/2016) sobre guia de utilização: volta a exigir licença ambiental  → pedido de vista de Roger Cabral; decisão adiada para a reunião de 30/03
   - votos: Victor: relator; Roger: vista · [vídeo](https://www.youtube.com/watch?v=nGQWChUBrZw&t=467s)
-- **RD 22ª Extraordinária (2022-03-17)**, 5.2 · relator **Júlio Rodrigues** · Recursos contra autos de infração por não cumprir exigências de segurança da barragem bacia de acumulação 01 (PSB, inspeções) → recursos negados por unanimidade (diretores presentes)
+- **RD 22ª Extraordinária (2022-03-16)**, 5.2 · relator **Júlio Rodrigues** · Recursos contra autos de infração por não cumprir exigências de segurança da barragem bacia de acumulação 01 (PSB, inspeções) → recursos negados por unanimidade (diretores presentes)
   - votos: Júlio: relator; Guilherme: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nGQWChUBrZw&t=2754s)
-- **RD 38ª Ordinária (2022-03-31)**, 2.7 (2) · relator **Ronaldo Lima** · Recurso contra multa por não implementar sistema de monitoramento de segurança de barragem; alega cerceamento de defesa e arrendamento à Minasul desde → recurso negado por unanimidade
+- **RD 38ª Ordinária (2022-03-30)**, 2.7 (2) · relator **Ronaldo Lima** · Recurso contra multa por não implementar sistema de monitoramento de segurança de barragem; alega cerceamento de defesa e arrendamento à Minasul desde → recurso negado por unanimidade
   - votos: Ronaldo: relator; Roger: acompanha; Júlio: acompanha; Guilherme: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=dGwZYiw_lh0&t=1670s)
-- **RD 23ª Extraordinária (2022-04-14)**, 3.1 · relator **Guilherme Gomes** · Resolução que institui o Cadastro Nacional do Primeiro Adquirente de bem mineral proveniente do regime de permissão de lavra garimpeira (PLG), com mul → aprovado por unanimidade
+- **RD 23ª Extraordinária (2022-04-13)**, 3.1 · relator **Guilherme Gomes** · Resolução que institui o Cadastro Nacional do Primeiro Adquirente de bem mineral proveniente do regime de permissão de lavra garimpeira (PLG), com mul → aprovado por unanimidade
   - votos: Guilherme: relator; Ronaldo: acompanha; Júlio: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=kRdgQR2qanY&t=688s)
-- **RD 39ª Ordinária (2022-04-28)**, 2.1 · relator **Ronaldo Lima** · Resolução que regulamenta o Certificado do Processo Kimberley (CPK) e o Cadastro Nacional do Comércio de Diamantes (CNCD), atualizando a Portaria DNPM → aprovado por unanimidade
+- **RD 39ª Ordinária (2022-04-27)**, 2.1 · relator **Ronaldo Lima** · Resolução que regulamenta o Certificado do Processo Kimberley (CPK) e o Cadastro Nacional do Comércio de Diamantes (CNCD), atualizando a Portaria DNPM → aprovado por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=Y-jJDsaPHKU&t=1051s)
-- **RD 39ª Ordinária (2022-04-28)**, 2.6 · relator **Ronaldo Lima** · Recurso contra cancelamento de guia de utilização; caducidade do direito de requerer lavra → recurso negado e caducidade declarada, por unanimidade
+- **RD 39ª Ordinária (2022-04-27)**, 2.6 · relator **Ronaldo Lima** · Recurso contra cancelamento de guia de utilização; caducidade do direito de requerer lavra → recurso negado e caducidade declarada, por unanimidade
   - votos: Ronaldo: relator; Tasso: acompanha; Roger: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=Y-jJDsaPHKU&t=4630s)
-- **RD 39ª Ordinária (2022-04-28)**, 2.8 · relator **Ronaldo Lima** · Recurso contra multas por descumprimento de normas de segurança de barragem → recurso negado por unanimidade
+- **RD 39ª Ordinária (2022-04-27)**, 2.8 · relator **Ronaldo Lima** · Recurso contra multas por descumprimento de normas de segurança de barragem → recurso negado por unanimidade
   - votos: Ronaldo: relator; Tasso: acompanha; Roger: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=Y-jJDsaPHKU&t=4785s)
-- **RD 39ª Ordinária (2022-04-28)**, 5.3 · relator **Roger Cabral** · Caducidade de concessão de lavra sem defesa → aprovado por unanimidade
+- **RD 39ª Ordinária (2022-04-27)**, 5.3 · relator **Roger Cabral** · Caducidade de concessão de lavra sem defesa → aprovado por unanimidade
   - votos: Roger: relator; Guilherme: acompanha; Ronaldo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=Y-jJDsaPHKU&t=6724s)
-- **RD 40ª Ordinária (2022-05-26)**, 1.4 · relator **Victor Bicca** · Caducidade de concessões de lavra por abandono → aprovado por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 1.4 · relator **Victor Bicca** · Caducidade de concessões de lavra por abandono → aprovado por unanimidade
   - votos: Victor: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=1719s)
-- **RD 40ª Ordinária (2022-05-26)**, 1.8 · relator **Victor Bicca** · Recurso contra denúncia de lavra ilegal (extração por terceiro em área com registro de licença da Pedreira Lageado) → recurso provido por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 1.8 · relator **Victor Bicca** · Recurso contra denúncia de lavra ilegal (extração por terceiro em área com registro de licença da Pedreira Lageado) → recurso provido por unanimidade
   - votos: Victor: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=2295s)
-- **RD 40ª Ordinária (2022-05-26)**, 2.7 · relator **Ronaldo Lima** · Recursos contra multas por descumprir normas de segurança de barragens (Portaria 70.389/2017) → sete recursos negados e um provido, por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 2.7 · relator **Ronaldo Lima** · Recursos contra multas por descumprir normas de segurança de barragens (Portaria 70.389/2017) → sete recursos negados e um provido, por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=3267s)
-- **RD 40ª Ordinária (2022-05-26)**, 2.7 (2) · relator **Ronaldo Lima** · Recurso intempestivo contra multa de segurança de barragem → recurso não conhecido (intempestivo), por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 2.7 (2) · relator **Ronaldo Lima** · Recurso intempestivo contra multa de segurança de barragem → recurso não conhecido (intempestivo), por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=3350s)
-- **RD 40ª Ordinária (2022-05-26)**, 2.7 (3) · relator **Ronaldo Lima** · Retificação de decisão da 36ª RO que anulou 55 multas de barragem, para manter três autos (estruturas Mangabeiras) → retificação aprovada por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 2.7 (3) · relator **Ronaldo Lima** · Retificação de decisão da 36ª RO que anulou 55 multas de barragem, para manter três autos (estruturas Mangabeiras) → retificação aprovada por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=3425s)
-- **RD 40ª Ordinária (2022-05-26)**, 3.4 · relator **Guilherme Gomes** · Recursos contra multa por não pagamento de TAH → recurso negado por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 3.4 · relator **Guilherme Gomes** · Recursos contra multa por não pagamento de TAH → recurso negado por unanimidade
   - votos: Guilherme: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=3853s)
-- **RD 40ª Ordinária (2022-05-26)**, 3.8 · relator **Guilherme Gomes** · Recursos contra autos de infração e multas → recurso negado por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 3.8 · relator **Guilherme Gomes** · Recursos contra autos de infração e multas → recurso negado por unanimidade
   - votos: Guilherme: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=4015s)
-- **RD 40ª Ordinária (2022-05-26)**, 3.9 · relator **Guilherme Gomes** · Recurso contra auto de infração 470/2017 → recurso provido por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 3.9 · relator **Guilherme Gomes** · Recurso contra auto de infração 470/2017 → recurso provido por unanimidade
   - votos: Guilherme: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=4059s)
-- **RD 40ª Ordinária (2022-05-26)**, 5.9 · relator **Roger Cabral** · Recurso intempestivo contra auto de infração (art. 34, XIII, Decreto 9.406) → recurso não conhecido / negado, por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 5.9 · relator **Roger Cabral** · Recurso intempestivo contra auto de infração (art. 34, XIII, Decreto 9.406) → recurso não conhecido / negado, por unanimidade
   - votos: Roger: relator; Guilherme: acompanha; Ronaldo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=7231s)
-- **RD 41ª Ordinária (2022-06-30)**, 2.5 · relator **Ronaldo Lima** · Recurso intempestivo contra caducidade do direito de requerer lavra → recurso não conhecido, por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 2.5 · relator **Ronaldo Lima** · Recurso intempestivo contra caducidade do direito de requerer lavra → recurso não conhecido, por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=4212s)
-- **RD 41ª Ordinária (2022-06-30)**, 3.3 · relator **Guilherme Gomes** · Caducidade de portarias de lavra → aprovado por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 3.3 · relator **Guilherme Gomes** · Caducidade de portarias de lavra → aprovado por unanimidade
   - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=4719s)
-- **RD 41ª Ordinária (2022-06-30)**, 3.8 · relator **Guilherme Gomes** · Recurso contra auto de infração por dano ambiental (vazamento) → recurso não acolhido, mas auto 604/2017 anulado por erro de enquadramento, por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 3.8 · relator **Guilherme Gomes** · Recurso contra auto de infração por dano ambiental (vazamento) → recurso não acolhido, mas auto 604/2017 anulado por erro de enquadramento, por unanimidade
   - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=4902s)
-- **RD 41ª Ordinária (2022-06-30)**, 3.10 · relator **Guilherme Gomes** · Recurso contra auto de infração por suspensão dos trabalhos de lavra → recurso provido por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 3.10 · relator **Guilherme Gomes** · Recurso contra auto de infração por suspensão dos trabalhos de lavra → recurso provido por unanimidade
   - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=4985s)
-- **RD 41ª Ordinária (2022-06-30)**, 4.4 · relator **Tasso Mendonça** · Caducidade de concessão de lavra sem trabalhos e sem defesa → aprovado por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 4.4 · relator **Tasso Mendonça** · Caducidade de concessão de lavra sem trabalhos e sem defesa → aprovado por unanimidade
   - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=6384s)
-- **RD 41ª Ordinária (2022-06-30)**, 4.8 · relator **Tasso Mendonça** · Recursos contra multas por não pagamento de TAH → recurso negado por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 4.8 · relator **Tasso Mendonça** · Recursos contra multas por não pagamento de TAH → recurso negado por unanimidade
   - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=7358s)
-- **RD 41ª Ordinária (2022-06-30)**, 4.10 · relator **Tasso Mendonça** · Recursos contra autos de infração de segurança de barragens (DCE não apresentada; extrato de inspeção; relatório de causas e consequências do rompimen → recurso negado por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 4.10 · relator **Tasso Mendonça** · Recursos contra autos de infração de segurança de barragens (DCE não apresentada; extrato de inspeção; relatório de causas e consequências do rompimen → recurso negado por unanimidade
   - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=7889s)
 - **RD 42ª Reunião Ordinária Pública (2022-07-27)**, 1.9 · relator **Victor Bicca** · Recursos contra multas por não pagamento de TAH (parcelamento cancelado) → negados (unanimidade)
   - votos: Victor: relator; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=qNoGxBv5WKY&t=4328s)
@@ -350,7 +350,7 @@
   - votos: Roger: relator; Victor: acompanha; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=M-AvUArsvls&t=11374s)
 - **RD 45ª Reunião Ordinária Pública (2022-11-23)**, 5.4.2 · relator **Roger Cabral** · Recurso contra multa por não pagamento de TAH (minério de ferro; parcelamento cancelado) → recurso não conhecido (intempestivo) (unanimidade)
   - votos: Roger: relator; Victor: acompanha; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=M-AvUArsvls&t=11597s)
-- **RD 24 (extraordinária) (2022-11-29)**, 1.1 · relator **Victor Bicca** · Resolução sobre procedimentos de apuração de infrações, sanções e valores de multas por descumprimento da legislação minerária (Decretos 10.965/2022 e → aprovado por unanimidade
+- **RD 24 (extraordinária) (2022-11-28)**, 1.1 · relator **Victor Bicca** · Resolução sobre procedimentos de apuração de infrações, sanções e valores de multas por descumprimento da legislação minerária (Decretos 10.965/2022 e → aprovado por unanimidade
   - votos: Victor: relator; Roger: acompanha; Tasso: acompanha; Ronaldo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=dSqoG-5ZkDo&t=1610s)
 - **RD 46 (2022-12-14)**, 3.2.1 · relator **Tasso Mendonça** · Recurso contra multa por paralisação da lavra sem comunicação (argila e areia) → aprovado por unanimidade
   - votos: Tasso: relator; Mauro: acompanha; Guilherme: acompanha; Roger: acompanha; Júlio: acompanha · [vídeo](https://www.youtube.com/watch?v=cXfuSmk0BVs&t=9103s)
@@ -376,27 +376,27 @@
   - votos: Roger: relator; Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Júlio: acompanha · [vídeo](https://www.youtube.com/watch?v=OebsMtBiF7o&t=7920s)
 - **RD 48 (2023-02-22)**, 5.8 · relator **Júlio Rodrigues** · Recurso contra multa por não pagamento de TAH (areia; Jaguaripe/BA) → aprovado por unanimidade
   - votos: Júlio: relator; Guilherme: acompanha; Tasso: outro; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=OebsMtBiF7o&t=8970s)
-- **RD 49 (2023-03-28)**, 2.2 · relator **Guilherme Gomes** · Recurso contra autos de infração por exploração de água mineral não autorizada (art. 31, I, Código de Águas Minerais) → recurso não provido, por unanimidade
+- **RD 49 (2023-03-27)**, 2.2 · relator **Guilherme Gomes** · Recurso contra autos de infração por exploração de água mineral não autorizada (art. 31, I, Código de Águas Minerais) → recurso não provido, por unanimidade
   - votos: Guilherme: relator; Roger: acompanha; Júlio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=1752s)
-- **RD 49 (2023-03-28)**, 2.3 · relator **Guilherme Gomes** · Recurso contra autos de infração por lavra sem autorização (art. 34, II c/c 67, Decreto 9.406/2018) → recurso não provido, por unanimidade
+- **RD 49 (2023-03-27)**, 2.3 · relator **Guilherme Gomes** · Recurso contra autos de infração por lavra sem autorização (art. 34, II c/c 67, Decreto 9.406/2018) → recurso não provido, por unanimidade
   - votos: Guilherme: relator; Roger: acompanha; Júlio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=1832s)
-- **RD 49 (2023-03-28)**, Júlio-4.1 · relator **Júlio Rodrigues** · Recurso contra multas por atraso no extrato de ISR e na DCE de barragem (Portaria DNPM 70.389/2017), MG → recurso não provido, por unanimidade
+- **RD 49 (2023-03-27)**, Júlio-4.1 · relator **Júlio Rodrigues** · Recurso contra multas por atraso no extrato de ISR e na DCE de barragem (Portaria DNPM 70.389/2017), MG → recurso não provido, por unanimidade
   - votos: Júlio: relator; Guilherme: acompanha; Mauro: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=3877s)
-- **RD 49 (2023-03-28)**, Júlio-4.2 · relator **Júlio Rodrigues** · Recursos contra multas por suspensão de lavra sem comunicação prévia (minério de ferro, MG) → recursos não providos, por unanimidade; tornado sem efeito arquivamento por vício no englo
+- **RD 49 (2023-03-27)**, Júlio-4.2 · relator **Júlio Rodrigues** · Recursos contra multas por suspensão de lavra sem comunicação prévia (minério de ferro, MG) → recursos não providos, por unanimidade; tornado sem efeito arquivamento por vício no englo
   - votos: Júlio: relator; Guilherme: acompanha; Mauro: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=3973s)
-- **RD 49 (2023-03-28)**, Júlio-4.2b · relator **Júlio Rodrigues** · Recurso intempestivo contra multas por não pagamento de TAH e não entrega de RFP (quartzo, MG) → não conhecido; declarada prescrição das multas; cobrança das TAH prossegue
+- **RD 49 (2023-03-27)**, Júlio-4.2b · relator **Júlio Rodrigues** · Recurso intempestivo contra multas por não pagamento de TAH e não entrega de RFP (quartzo, MG) → não conhecido; declarada prescrição das multas; cobrança das TAH prossegue
   - votos: Júlio: relator; Guilherme: acompanha; Mauro: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=4176s)
-- **RD 49 (2023-03-28)**, Júlio-4.2c · relator **Júlio Rodrigues** · Recursos contra multas por não entrega de RFP (PB) → recursos não providos, por unanimidade
+- **RD 49 (2023-03-27)**, Júlio-4.2c · relator **Júlio Rodrigues** · Recursos contra multas por não entrega de RFP (PB) → recursos não providos, por unanimidade
   - votos: Júlio: relator; Guilherme: acompanha; Mauro: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=4284s)
-- **RD 50 (2023-05-11)**, 1.5.1 · relator **Mauro Sousa** · Caducidade de concessão de lavra de conchas calcárias em Imbituba-SC por abandono → caducidade declarada, por unanimidade
+- **RD 50 (2023-05-10)**, 1.5.1 · relator **Mauro Sousa** · Caducidade de concessão de lavra de conchas calcárias em Imbituba-SC por abandono → caducidade declarada, por unanimidade
   - votos: Mauro: relator; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=4598s)
-- **RD 50 (2023-05-11)**, 3.3.1 · relator **Tasso Mendonça** · Recurso contra multa por não apresentação de relatório de pesquisa → aprovado por unanimidade
+- **RD 50 (2023-05-10)**, 3.3.1 · relator **Tasso Mendonça** · Recurso contra multa por não apresentação de relatório de pesquisa → aprovado por unanimidade
   - votos: Tasso: relator; Mauro: acompanha; Roger: acompanha; Guilherme: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=6494s)
-- **RD 50 (2023-05-11)**, 3.4.1-3.4.2 · relator **Tasso Mendonça** · Recursos contra multas por não comunicação do início dos trabalhos de pesquisa → aprovado por unanimidade
+- **RD 50 (2023-05-10)**, 3.4.1-3.4.2 · relator **Tasso Mendonça** · Recursos contra multas por não comunicação do início dos trabalhos de pesquisa → aprovado por unanimidade
   - votos: Tasso: relator; Mauro: acompanha; Roger: acompanha; Guilherme: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=6691s)
-- **RD 50 (2023-05-11)**, 3.5.1-3.5.2 · relator **Tasso Mendonça** · Recursos contra multas por não pagamento de TAH (alegações de pandemia e de novo marco regulatório) → aprovado por unanimidade
+- **RD 50 (2023-05-10)**, 3.5.1-3.5.2 · relator **Tasso Mendonça** · Recursos contra multas por não pagamento de TAH (alegações de pandemia e de novo marco regulatório) → aprovado por unanimidade
   - votos: Tasso: relator; Mauro: acompanha; Roger: acompanha; Guilherme: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=7157s)
-- **RD 50 (2023-05-11)**, 3.7.1 · relator **Tasso Mendonça** · Guia de utilização de 80 mil t de minério de manganês (Rio dos Bois e Tabocão-TO), 3 anos → pedido de vista de Guilherme Gomes
+- **RD 50 (2023-05-10)**, 3.7.1 · relator **Tasso Mendonça** · Guia de utilização de 80 mil t de minério de manganês (Rio dos Bois e Tabocão-TO), 3 anos → pedido de vista de Guilherme Gomes
   - votos: Tasso: relator; Guilherme: vista; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=12046s)
 - **RD 51 (2023-07-07)**, 1.8.1-1.8.4 · relator **Mauro Sousa** · Recursos contra multas por falta de pagamento de TAH → aprovado por unanimidade
   - votos: Mauro: relator; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=nqVyPAM43j0&t=7113s)
@@ -448,14 +448,14 @@
   - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=S2GK8_S3FH4&t=17010s)
 - **RD 53ª Reunião Ordinária Pública (2023-09-05)**, 5.3-5.9 · relator **Caio Seabra** · Mudança de regime para PLG (negado, área de 1.105 ha), mudanças de regime para licenciamento (providas por formalismo moderado), prorrogação/retificaç → aprovado por unanimidade
   - votos: Caio: relator; Guilherme: acompanha; Mauro: acompanha; Tasso: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=S2GK8_S3FH4&t=19249s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 1.7.1 · relator **Mauro Sousa** · Recurso contra multa por não apresentação de RFP (renúncia após 1/3 do prazo) → aprovado por unanimidade
-  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=12073s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.12.1 · relator **Caio Seabra** · Guia de utilização de manganês: titular pediu 500.000 t/ano, área técnica recomendou 100.000; relator concede 300.000 t/ano por 3 anos com fiscalizaçã → aprovado por unanimidade
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 5.12.1 · relator **Caio Seabra** · Guia de utilização de manganês: titular pediu 500.000 t/ano, área técnica recomendou 100.000; relator concede 300.000 t/ano por 3 anos com fiscalizaçã → aprovado por unanimidade
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=3403s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.14.1 · relator **Caio Seabra** · Recurso contra multa por não iniciar/reiniciar lavra no prazo (reincidência) → aprovado por unanimidade
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 5.14.1 · relator **Caio Seabra** · Recurso contra multa por não iniciar/reiniciar lavra no prazo (reincidência) → aprovado por unanimidade
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=3673s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.14.2 · relator **Caio Seabra** · Recurso contra multa por não iniciar/reiniciar lavra no prazo (reincidência) → aprovado por unanimidade
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 5.14.2 · relator **Caio Seabra** · Recurso contra multa por não iniciar/reiniciar lavra no prazo (reincidência) → aprovado por unanimidade
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=3673s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 1.7.1 · relator **Mauro Sousa** · Recurso contra multa por não apresentação de RFP (renúncia após 1/3 do prazo) → aprovado por unanimidade
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=12073s)
 - **RD 55ª Reunião Ordinária Pública (2023-10-31)**, 1.2.1 · relator **Mauro Sousa** · Recurso contra multa por não atendimento de exigências da fiscalização do RAL → aprovado por unanimidade
   - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=JhJ9GBR6aWE&t=3365s)
 - **RD 55ª Reunião Ordinária Pública (2023-10-31)**, 3.5.2 · relator **Tasso Mendonça** · Recurso contra multas por falta de entrega do RAL 2011–2015 → aprovado por unanimidade

@@ -1,6 +1,6 @@
 # Itens do tema «judicializacao» (todos os diretores)
 
-- **RD 4ª ROP (2019-06-24)**, 10 · relator **None** · Requerimentos de lavra sobrepostos a estação ecológica estadual em MG; acordo judicial com o Ministério Público estadual → indeferido (cumprimento de acordo judicial; sem divergência registrada)
+- **RD 4ª ROP (2019-05-21)**, 10 · relator **None** · Requerimentos de lavra sobrepostos a estação ecológica estadual em MG; acordo judicial com o Ministério Público estadual → indeferido (cumprimento de acordo judicial; sem divergência registrada)
   - votos:  · [vídeo](https://www.youtube.com/watch?v=cv5RTjpyQbM&t=3423s)
 - **RD 1ª Reunião Extraordinária Pública (2019-09-06)**, 4 · relator **None** · Anuência prévia de transferências: incorporação, arrendamento, cessões totais/parciais, penhora de PLG, indisponibilidades judiciais, cisão, desmembra → aprovado (unanimidade inferida)
   - votos: Tasso: acompanha; Eduardo: acompanha; Tomás: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=VY_K3xq1i1U&t=2226s)
@@ -24,7 +24,7 @@
   - votos: Tasso: relator; Debora: acompanha; Eduardo: acompanha; Tomás: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=aTSDB6xXLyg&t=4164s)
 - **RD 18ª Reunião Ordinária Pública (2020-07-22)**, 1.1.13 · relator **Victor Bicca** · Referendo de ato ad referendum do DG que declarou prioritária a MML Metais em procedimento de disponibilidade (área renunciada pela Serra do Sul Miner → referendado por unanimidade
   - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=rDHG2v6FECg&t=161s)
-- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 1.1 · relator **Victor Bicca** · Referendo de atos do Diretor-Geral sobre procedimento de disponibilidade, praticados ad referendum por urgência no cumprimento de sentença judicial (p → aprovado por unanimidade (votação em bloco)
+- **RD 20ª Reunião Ordinária Pública (2020-09-16)**, 1.1 · relator **Victor Bicca** · Referendo de atos do Diretor-Geral sobre procedimento de disponibilidade, praticados ad referendum por urgência no cumprimento de sentença judicial (p → aprovado por unanimidade (votação em bloco)
   - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=224s)
 - **RD 21ª Ordinária (2020-10-21)**, 1.1 · relator **Victor Bicca** · Referendo de concessão de lavra outorgada pelo DG por urgência de cumprimento de sentença → referendado (unanimidade)
   - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: outro · [vídeo](https://www.youtube.com/watch?v=YZuPzUTCFK0&t=4013s)
@@ -34,35 +34,35 @@
   - votos: Victor: relator; Carlos: acompanha; Tasso: acompanha; Eduardo: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=D6YYWHku_rk&t=3805s)
 - **RD 15ª Extraordinária (2020-12-18)**, 1.3 · relator **Victor Bicca** · Referendo de arquivamento definitivo de processos instaurados em decorrência do procedimento de disponibilidade anulado (item 1.2) → referendado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Tasso: acompanha; Eduardo: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=D6YYWHku_rk&t=3887s)
-- **RD 25 (2021-02-25)**, 5.1 · relator **Carlos Cordeiro** · Cumprimento de decisão judicial transitada em julgado: anula retificação de 2010 de coordenadas (SAD69) e portarias de lavra 174/2002 e 297/2002; área → aprovado por unanimidade
+- **RD 25 (2021-02-24)**, 5.1 · relator **Carlos Cordeiro** · Cumprimento de decisão judicial transitada em julgado: anula retificação de 2010 de coordenadas (SAD69) e portarias de lavra 174/2002 e 297/2002; área → aprovado por unanimidade
   - votos: Carlos: relator; Eduardo: acompanha; Debora: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=5160s)
-- **RD 26 (2021-03-25)**, 3.3.2 · relator **Tasso Mendonça** · Recursos contra indeferimento de requerimentos de pesquisa/prorrogação com interferência total em terras indígenas homologadas → aprovado por unanimidade
+- **RD 26 (2021-03-24)**, 3.3.2 · relator **Tasso Mendonça** · Recursos contra indeferimento de requerimentos de pesquisa/prorrogação com interferência total em terras indígenas homologadas → aprovado por unanimidade
   - votos: Tasso: relator; Carlos: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=LX-5lXLbJqo&t=6450s)
-- **RD 27 (2021-04-29)**, 4.5 · relator **Carlos Cordeiro** · Bloqueio temporário de área no Lago Guaíba em cumprimento de liminar → aprovado por unanimidade
+- **RD 27 (2021-04-28)**, 4.5 · relator **Carlos Cordeiro** · Bloqueio temporário de área no Lago Guaíba em cumprimento de liminar → aprovado por unanimidade
   - votos: Carlos: relator; Tasso: acompanha; Debora: acompanha; Aline: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=11780s)
-- **RD 28 (2021-05-27)**, 1.2 · relator **Victor Bicca** · Referendo de ato do Diretor-Geral em cumprimento de decisão judicial: torna sem efeito decisão do superintendente de pesquisa (sem competência delegad → aprovado por unanimidade
+- **RD 28 (2021-05-26)**, 1.2 · relator **Victor Bicca** · Referendo de ato do Diretor-Geral em cumprimento de decisão judicial: torna sem efeito decisão do superintendente de pesquisa (sem competência delegad → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Aline: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=7PICL_r4uQY&t=1860s)
-- **RD 28 (2021-05-27)**, 4.9 · relator **Carlos Cordeiro** · Arquivamento de procedimento de caducidade de concessão de lavra instaurado por ACP (rio Ribeira, PR) → aprovado por unanimidade
+- **RD 28 (2021-05-26)**, 4.9 · relator **Carlos Cordeiro** · Arquivamento de procedimento de caducidade de concessão de lavra instaurado por ACP (rio Ribeira, PR) → aprovado por unanimidade
   - votos: Carlos: relator; Tasso: acompanha; Debora: acompanha; Aline: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=7PICL_r4uQY&t=5408s)
-- **RD 18ª Extraordinária (2021-06-10)**, 1 · relator **Victor Bicca** · Referendo de atos do Diretor-Geral: aviso de retomada e retificação do Edital de disponibilidade de áreas nº 2 (2ª rodada) e termo de homologação e ad → referendado por unanimidade
+- **RD 18ª Extraordinária (2021-06-09)**, 1 · relator **Victor Bicca** · Referendo de atos do Diretor-Geral: aviso de retomada e retificação do Edital de disponibilidade de áreas nº 2 (2ª rodada) e termo de homologação e ad → referendado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Aline: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=t7x0qWSr-pU&t=125s)
 - **RD 29ª Ordinária (2021-06-23)**, 3.3.1 · relator **Tasso Mendonça** · Indeferimento de requerimento de lavra: área desapropriada pelo INCRA para assentamento impediu licenciamento ambiental → indefere por unanimidade
   - votos: Tasso: relator; Debora: acompanha; Carlos: acompanha; Aline: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=JhjBUQ1wgxg&t=9420s)
-- **RD 32ª Ordinária (2021-09-23)**, 4.2.1 e 4.2.2 · relator **Ronaldo Lima** · Recurso da Glencore contra cancelamento da disponibilidade da área (2014); conflito de 16 anos, ação judicial desistida; sustentações de Leonardo Fari → recurso negado por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 4.2.1 e 4.2.2 · relator **Ronaldo Lima** · Recurso da Glencore contra cancelamento da disponibilidade da área (2014); conflito de 16 anos, ação judicial desistida; sustentações de Leonardo Fari → recurso negado por unanimidade
   - votos: Ronaldo: relator; Tasso: acompanha; Guilherme: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=3360s)
-- **RD 32ª Ordinária (2021-09-23)**, 1.1 · relator **Victor Bicca** · Referendo de ato do DG em cumprimento de decisão judicial: novo prazo para licença ambiental, exclusão da área da disponibilidade e anulação do indefe → referenda por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 1.1 · relator **Victor Bicca** · Referendo de ato do DG em cumprimento de decisão judicial: novo prazo para licença ambiental, exclusão da área da disponibilidade e anulação do indefe → referenda por unanimidade
   - votos: Victor: relator; Guilherme: acompanha; Ronaldo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=4860s)
-- **RD 33ª Ordinária (2021-10-21)**, 2.3 · relator **Debora Puccini** · Nulidade do alvará de pesquisa a pedido do titular após acordo judicial → aprova por unanimidade
+- **RD 33ª Ordinária (2021-10-20)**, 2.3 · relator **Debora Puccini** · Nulidade do alvará de pesquisa a pedido do titular após acordo judicial → aprova por unanimidade
   - votos: Debora: relator; Tasso: acompanha; Guilherme: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=8773s)
-- **RD 34ª Reunião Ordinária Pública (2021-11-25)**, 3.5.1 · relator **Tasso Mendonça** · Recurso contra indeferimento de requerimento de pesquisa (2.482 ha) por interferência com processo prioritário, após a ANM ter declarado a área livre → retirado de pauta pelo relator
+- **RD 34ª Reunião Ordinária Pública (2021-11-24)**, 3.5.1 · relator **Tasso Mendonça** · Recurso contra indeferimento de requerimento de pesquisa (2.482 ha) por interferência com processo prioritário, após a ANM ter declarado a área livre → retirado de pauta pelo relator
   - votos: Tasso: relator · [vídeo](https://www.youtube.com/watch?v=_gJ3LyVOb64&t=2623s)
-- **RD 35ª Reunião Ordinária Pública (2021-12-16)**, 1.10.1 · relator **Victor Bicca** · Recurso contra denúncia de lavra ilegal de diabásio para brita em Ortigueira/PR (denúncia da prefeitura); defesa alega compra e venda de material, não → retirado de pauta pelo relator
+- **RD 35ª Reunião Ordinária Pública (2021-12-15)**, 1.10.1 · relator **Victor Bicca** · Recurso contra denúncia de lavra ilegal de diabásio para brita em Ortigueira/PR (denúncia da prefeitura); defesa alega compra e venda de material, não → retirado de pauta pelo relator
   - votos: Victor: relator · [vídeo](https://www.youtube.com/watch?v=GjzI6PQFCH4&t=2004s)
-- **RD 35ª Reunião Ordinária Pública (2021-12-16)**, 1.11.1 · relator **Victor Bicca** · Recurso contra o Auto de Paralisação 1/2019 por lavra de diabásio pela arrendatária sem averbação do arrendamento (Paraná) → recurso provido por unanimidade; auto arquivado
+- **RD 35ª Reunião Ordinária Pública (2021-12-15)**, 1.11.1 · relator **Victor Bicca** · Recurso contra o Auto de Paralisação 1/2019 por lavra de diabásio pela arrendatária sem averbação do arrendamento (Paraná) → recurso provido por unanimidade; auto arquivado
   - votos: Victor: relator; Ronaldo: acompanha; Carlos: acompanha; Aline: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=GjzI6PQFCH4&t=2909s)
-- **RD 38ª Ordinária (2022-03-31)**, 1.1 · relator **Victor Bicca** · Referendo de atos do Diretor-Geral: retificação da 5ª rodada de disponibilidade de áreas, recurso contra indeferimento de mudança de regime e emissão  → aprovado por unanimidade (diretores presentes)
+- **RD 38ª Ordinária (2022-03-30)**, 1.1 · relator **Victor Bicca** · Referendo de atos do Diretor-Geral: retificação da 5ª rodada de disponibilidade de áreas, recurso contra indeferimento de mudança de regime e emissão  → aprovado por unanimidade (diretores presentes)
   - votos: Victor: relator; Roger: acompanha; Júlio: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=dGwZYiw_lh0&t=492s)
-- **RD 39ª Ordinária (2022-04-28)**, 1.1 · relator **Victor Bicca** · Indeferimento de requerimento de pesquisa de cobre (faixa de fronteira, MT) por morte do titular; debate sobre transmissibilidade causa mortis do dire → retirado de pauta pelo relator para estudo (sem votação)
+- **RD 39ª Ordinária (2022-04-27)**, 1.1 · relator **Victor Bicca** · Indeferimento de requerimento de pesquisa de cobre (faixa de fronteira, MT) por morte do titular; debate sobre transmissibilidade causa mortis do dire → retirado de pauta pelo relator para estudo (sem votação)
   - votos: Victor: relator; Guilherme: outro; Tasso: outro · [vídeo](https://www.youtube.com/watch?v=Y-jJDsaPHKU&t=1731s)
 - **RD 42ª Reunião Ordinária Pública (2022-07-27)**, 1.6 · relator **Victor Bicca** · Recurso contra indeferimento de registro de licença (conflito com a prefeitura; liminar judicial manteve licença municipal) → provido; indeferimento sem efeito (unanimidade)
   - votos: Victor: relator; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=qNoGxBv5WKY&t=3993s)
@@ -70,9 +70,9 @@
   - votos: Victor: relator; Guilherme: revisor_diverge; Tasso: vista; Ronaldo: outro; Roger: outro · [vídeo](https://www.youtube.com/watch?v=Zze8E9AIy2I&t=7417s)
 - **RD 45ª Reunião Ordinária Pública (2022-11-23)**, 4.10 · relator **Tasso Mendonça** · Saneamento de processo minerário: caducidade do direito de requerer lavra e edital de disponibilidade 140/2004 aplicados a titular falido com direito  → aprovado por unanimidade, com encaminhamento à PFE
   - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=M-AvUArsvls&t=7010s)
-- **RD 24 (extraordinária) (2022-11-29)**, 1.2 · relator **Victor Bicca** · Nulidade do alvará de pesquisa 10.455/2013 da Luz Mineração (ouro; Pará) por sobreposição ao processo prioritário 850825/2005 da Avanco; cumprimento d → pedido de vista (Guilherme Gomes)
+- **RD 24 (extraordinária) (2022-11-28)**, 1.2 · relator **Victor Bicca** · Nulidade do alvará de pesquisa 10.455/2013 da Luz Mineração (ouro; Pará) por sobreposição ao processo prioritário 850825/2005 da Avanco; cumprimento d → pedido de vista (Guilherme Gomes)
   - votos: Victor: relator; Guilherme: vista · [vídeo](https://www.youtube.com/watch?v=dSqoG-5ZkDo&t=3970s)
-- **RD 24 (extraordinária) (2022-11-29)**, 2.1 · relator **Tasso Mendonça** · Referendo de ato do DG que deu efeito suspensivo à defesa da Ferro Brasil e tornou sem efeito a suspensão da guia de utilização 370/2021 (minério de f → referendado (4 votos pelo referendo integral e Guilherme Gomes pelo referendo parcial); pr
+- **RD 24 (extraordinária) (2022-11-28)**, 2.1 · relator **Tasso Mendonça** · Referendo de ato do DG que deu efeito suspensivo à defesa da Ferro Brasil e tornou sem efeito a suspensão da guia de utilização 370/2021 (minério de f → referendado (4 votos pelo referendo integral e Guilherme Gomes pelo referendo parcial); pr
   - votos: Tasso: revisor_acompanha; Victor: outro; Guilherme: revisor_acompanha; Roger: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=dSqoG-5ZkDo&t=7590s)
 - **RD 46 (2022-12-14)**, 2.4.1 · relator **Guilherme Gomes** · Voto-vista sobre caducidade/nulidade do alvará da Luz Mineração (relator originário Victor Bicca): proposta de conversão em diligência para reunir os  → retirado de pauta; voto-vista adiado para a reunião de 25/01/2023, com diligências a cargo
   - votos: Guilherme: outro; Tasso: outro; Roger: outro; Júlio: acompanha; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=cXfuSmk0BVs&t=480s)
@@ -82,9 +82,9 @@
   - votos: Guilherme: revisor_diverge; Tasso: vista; Mauro: outro; Roger: acompanha; Júlio: acompanha · [vídeo](https://www.youtube.com/watch?v=UfKJpb9ZVZA&t=150s)
 - **RD 47 (2023-01-25)**, 2.3.1 · relator **Guilherme Gomes** · Pedido de revisão de negativa de aprovação de relatório final de pesquisa (9 de 10 exigências cumpridas e não analisadas) → pedido de vista (Mauro Sousa)
   - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Júlio: acompanha; Mauro: vista · [vídeo](https://www.youtube.com/watch?v=UfKJpb9ZVZA&t=15685s)
-- **RD 49 (2023-03-28)**, 2.4 · relator **Guilherme Gomes** · Desmembramento vertical por superfície horizontal: sapropelito subterrâneo (200–300 m) para a Carbonífera e areia a céu aberto para a BRX → deferido por unanimidade, após conferência de que a área não está na ACP do carvão
+- **RD 49 (2023-03-27)**, 2.4 · relator **Guilherme Gomes** · Desmembramento vertical por superfície horizontal: sapropelito subterrâneo (200–300 m) para a Carbonífera e areia a céu aberto para a BRX → deferido por unanimidade, após conferência de que a área não está na ACP do carvão
   - votos: Guilherme: relator; Roger: acompanha; Júlio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=1972s)
-- **RD 50 (2023-05-11)**, 3.6.1 · relator **Tasso Mendonça** · Voto-vista sobre nulidade do alvará de pesquisa 10.455/2013 da Luz Mineração (direito de prioridade), após voto de Guilherme Gomes na 47ª reunião; man → aprovado por maioria: nulidade do alvará da Luz; vencido Guilherme Gomes
+- **RD 50 (2023-05-10)**, 3.6.1 · relator **Tasso Mendonça** · Voto-vista sobre nulidade do alvará de pesquisa 10.455/2013 da Luz Mineração (direito de prioridade), após voto de Guilherme Gomes na 47ª reunião; man → aprovado por maioria: nulidade do alvará da Luz; vencido Guilherme Gomes
   - votos: Tasso: revisor_acompanha; Guilherme: vencido; Mauro: revisor_acompanha; Roger: revisor_acompanha; Caio: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=7530s)
 - **RD 51 (2023-07-07)**, 1.1.1-1.1.3 · relator **Mauro Sousa** · Referendo de atos do Diretor-Geral: prorrogação de prazos da resolução de multas em revisão; autorização de disposição de rejeitos em barragem com DCE → referendado por unanimidade
   - votos: Mauro: relator; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=nqVyPAM43j0&t=6270s)

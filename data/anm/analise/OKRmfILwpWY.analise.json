@@ -1,128 +1,832 @@
 {
-  "meta": {"video_id": "OKRmfILwpWY", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
-  "reuniao": {
-    "numero": "49", "data": "2023-03-28", "formato": "videoconferência / híbrida",
-    "presidente_da_sessao": "Mauro Sousa (Diretor-Geral)",
-    "diretores_presentes": ["Mauro Sousa", "Roger Cabral", "Guilherme Gomes", "Júlio César"],
-    "ausentes": [],
-    "observacoes": ["49ª Reunião Ordinária Pública da Diretoria Colegiada (título); na abertura a legenda diz 27 de março de 2023, o título/cabeçalho diz 28/03/2023.", "Abertura anuncia novo gerente regional do Pará, Hugo Paiva de Souza.", "Processo da Vale com sustentação oral retirado de pauta (Vale cancelou a sustentação, perdendo prioridade).", "Guilherme retirou de pauta dois processos da Vale (decaimento de área em Nova Lima, MG, frente ao Jardim Canadá, com sustentação oral prevista) e outros incluídos por equívoco da assessoria.", "No desmembramento da Carbonífera Metropolitana houve alerta sobre possível sobreposição com a área da ACP do carvão (SC); a votação foi adiada para o fim da sessão e, após conferência por mapa (processos no RS, ~250 km da área da ACP), aprovada.", "Todos os itens deliberados por unanimidade."]
-  },
-  "itens": [
-    {"id": "4.1-Roger", "ts": "0:03:37", "processo": "48051.001973/2020-49 (número incerto)", "interessado": "Divisão de Controle de Áreas (SRM)", "assunto": "Alteração do §1º do art. 42 da Portaria 155/2016 — limite geográfico da Amazônia Legal (divergência entre área técnica e Procuradoria; Tocantins)", "tema": ["regulação normativa", "outorga de títulos minerários", "institucional"], "relator": "Roger Cabral", "resultado": "aprovado por unanimidade", "resumo_voto": "Adotar como limite da Amazônia Legal o definido pela Lei Complementar 124/2007 e divulgado pelo IBGE (Tocantins integralmente incluído), afastando a delimitação do Código Florestal.",
-     "votos": [
-      {"diretor": "Roger Cabral", "voto": "relator, aprova", "ts": "0:03:37", "justificativa": "prevalece a LC 124/2007 sobre o Código Florestal; apenas esclarece o limite a ser usado nos requerimentos", "confianca": "media"},
-      {"diretor": "Mauro Sousa", "voto": "acompanha o relator", "ts": "0:09:43", "justificativa": "é só para esclarecer que prevalece a LC 124", "confianca": "media"},
-      {"diretor": "Guilherme Gomes", "voto": "acompanha o relator", "ts": "0:09:43", "confianca": "baixa"},
-      {"diretor": "Júlio César", "voto": "acompanha o relator", "ts": "0:09:43", "confianca": "baixa"}]},
-    {"id": "1.1", "ts": "0:11:08", "processo": "vários (referendos de decisões do Diretor-Geral)", "interessado": "ANM / MPP Mineração Pirâmide Ltda", "assunto": "Referendo de atos do Diretor-Geral: cancelamento da 7ª rodada de disponibilidade de áreas (falhas do sistema); Resolução 131 (alçada e apreciação técnica remota); Resolução 132 (atualização de emolumentos/taxas pelo IPCA); revisão de procedimento da gerência regional (processo 868.224/2001, guia de utilização da MPP Mineração Pirâmide)", "tema": ["institucional", "disponibilidade de área / leilão de áreas", "regulação normativa", "CFEM / arrecadação / TAH", "guia de utilização"], "relator": "Mauro Sousa", "resultado": "referendado por unanimidade", "resumo_voto": "Referendo de decisões tomadas pelo DG por urgência.",
-     "votos": [
-      {"diretor": "Mauro Sousa", "voto": "relator, propõe referendo", "ts": "0:11:08", "justificativa": "urgência: falhas no sistema da 7ª rodada; prazo normativo de atualização de taxas; necessidade da empresa", "confianca": "media"},
-      {"diretor": "Guilherme Gomes", "voto": "acompanha o relator", "ts": "0:17:40", "confianca": "media"},
-      {"diretor": "Júlio César", "voto": "acompanha o relator", "ts": "0:17:40", "confianca": "media"},
-      {"diretor": "Roger Cabral", "voto": "acompanha (de acordo)", "ts": "0:17:40", "confianca": "baixa"}]},
-    {"id": "1.2", "ts": "0:18:05", "processo": "26 processos do mesmo titular", "interessado": "não identificado", "assunto": "Recursos contra não aprovação de relatório final de pesquisa (RM Paraná), voto unificado", "tema": ["recursos administrativos", "outorga de títulos minerários", "relatório final de pesquisa"], "relator": "Mauro Sousa", "resultado": "aprovado por unanimidade", "resumo_voto": "Reconhece inconsistências da vistoria e exigências (notificação sem ofício publicado, análise unificada indevida); dar o devido encaminhamento aos relatórios (aprovação publicada em 2018).",
-     "votos": [
-      {"diretor": "Mauro Sousa", "voto": "relator", "ts": "0:18:05", "justificativa": "exigências geradas sem ofício publicado e com rasuras não podem fundamentar indeferimento", "confianca": "media"},
-      {"diretor": "Guilherme Gomes", "voto": "acompanha o relator", "ts": "0:23:19", "confianca": "media"},
-      {"diretor": "Júlio César", "voto": "acompanha o relator, com elogio", "ts": "0:23:21", "justificativa": "notificação tem de ser exigência formal para ter caráter de indeferimento", "confianca": "media"},
-      {"diretor": "Roger Cabral", "voto": "acompanha o relator", "ts": "0:23:21", "confianca": "baixa"}]},
-    {"id": "1.3", "ts": "0:20:34", "processo": "vários processos de cobrança de CFEM", "interessado": "vários", "assunto": "Recursos em processos de cobrança de CFEM (alegações de decadência, prescrição, base de cálculo)", "tema": ["CFEM / arrecadação / TAH", "recursos administrativos"], "relator": "Mauro Sousa", "resultado": "recursos conhecidos e não providos, por unanimidade", "resumo_voto": "Conhecer e negar provimento; prosseguir as cobranças.",
-     "votos": [
-      {"diretor": "Mauro Sousa", "voto": "relator, nega provimento", "ts": "0:20:34", "confianca": "media"},
-      {"diretor": "Guilherme Gomes", "voto": "acompanha o relator", "ts": "0:23:19", "confianca": "media"},
-      {"diretor": "Júlio César", "voto": "acompanha o relator", "ts": "0:23:21", "confianca": "media"},
-      {"diretor": "Roger Cabral", "voto": "acompanha o relator", "ts": "0:23:21", "confianca": "baixa"}]},
-    {"id": "1.4", "ts": "0:21:56", "processo": "dois processos (Mineração Vogal e Termas — nome incerto)", "interessado": "Mineração Vogal e Termas (grafia incerta)", "assunto": "Recurso contra processo de cobrança de CFEM; comprovação parcial de pagamentos", "tema": ["CFEM / arrecadação / TAH", "recursos administrativos"], "relator": "Mauro Sousa", "resultado": "provimento parcial, por unanimidade", "resumo_voto": "Provimento parcial para abater valores comprovados; cobrança do remanescente.",
-     "votos": [
-      {"diretor": "Mauro Sousa", "voto": "relator, provimento parcial", "ts": "0:21:56", "confianca": "media"},
-      {"diretor": "Guilherme Gomes", "voto": "acompanha o relator", "ts": "0:23:19", "confianca": "media"},
-      {"diretor": "Júlio César", "voto": "acompanha o relator", "ts": "0:23:21", "confianca": "media"},
-      {"diretor": "Roger Cabral", "voto": "acompanha o relator", "ts": "0:23:21", "confianca": "baixa"}]},
-    {"id": "2.1", "ts": "0:27:55", "processo": "930.773/2016 e 831.894/85, 831.942/85, 832.205, 831.940/85", "interessado": "Safran S.A. Cerâmica (grafia incerta)", "assunto": "Requerimento de agrupamento mineiro (5 processos)", "tema": ["outorga de títulos minerários", "agrupamento mineiro"], "relator": "Guilherme Gomes", "resultado": "indeferido por unanimidade", "resumo_voto": "Intensidade de lavra insuficiente para configurar agrupamento; sugere à titular eventual pedido de suspensão de trabalhos.",
-     "votos": [
-      {"diretor": "Guilherme Gomes", "voto": "relator, indefere", "ts": "0:27:55", "justificativa": "ritmo de lavra muito aquém do necessário para agrupamento", "confianca": "media"},
-      {"diretor": "Roger Cabral", "voto": "acompanha o relator", "ts": "0:40:34", "confianca": "baixa"},
-      {"diretor": "Júlio César", "voto": "acompanha o relator", "ts": "0:40:34", "confianca": "baixa"},
-      {"diretor": "Mauro Sousa", "voto": "acompanha o relator", "ts": "0:40:34", "confianca": "baixa"}]},
-    {"id": "2.2", "ts": "0:29:12", "processo": "803.777/76 (número incerto)", "interessado": "não identificado (água mineral, SC)", "assunto": "Recurso contra autos de infração por exploração de água mineral não autorizada (art. 31, I, Código de Águas Minerais)", "tema": ["fiscalização e sanções (multa, caducidade)", "recursos administrativos", "água mineral"], "relator": "Guilherme Gomes", "resultado": "recurso não provido, por unanimidade", "resumo_voto": "Mantidas as penalidades conforme pareceres técnicos.",
-     "votos": [
-      {"diretor": "Guilherme Gomes", "voto": "relator, nega provimento", "ts": "0:29:12", "confianca": "media"},
-      {"diretor": "Roger Cabral", "voto": "acompanha o relator", "ts": "0:40:34", "confianca": "baixa"},
-      {"diretor": "Júlio César", "voto": "acompanha o relator", "ts": "0:40:34", "confianca": "baixa"},
-      {"diretor": "Mauro Sousa", "voto": "acompanha o relator", "ts": "0:40:34", "confianca": "baixa"}]},
-    {"id": "2.3", "ts": "0:30:32", "processo": "915.038/2021, 915.019/2021, 915.022/2021, 915.021/2021, 915.035/2021", "interessado": "não identificado (SC)", "assunto": "Recurso contra autos de infração por lavra sem autorização (art. 34, II c/c 67, Decreto 9.406/2018)", "tema": ["fiscalização e sanções (multa, caducidade)", "recursos administrativos", "lavra ilegal"], "relator": "Guilherme Gomes", "resultado": "recurso não provido, por unanimidade", "resumo_voto": "Conhece pela tempestividade e mantém as penalidades.",
-     "votos": [
-      {"diretor": "Guilherme Gomes", "voto": "relator, nega provimento", "ts": "0:30:32", "confianca": "media"},
-      {"diretor": "Roger Cabral", "voto": "acompanha o relator", "ts": "0:40:34", "confianca": "baixa"},
-      {"diretor": "Júlio César", "voto": "acompanha o relator", "ts": "0:40:34", "confianca": "baixa"},
-      {"diretor": "Mauro Sousa", "voto": "acompanha o relator", "ts": "0:40:34", "confianca": "baixa"}]},
-    {"id": "2.4", "ts": "0:32:52", "processo": "810.198/79, 810.195/79, 810.289/83", "interessado": "Carbonífera Metropolitana S.A.; BRX Mineração Ltda (terceira interessada)", "assunto": "Desmembramento vertical por superfície horizontal: sapropelito subterrâneo (200–300 m) para a Carbonífera e areia a céu aberto para a BRX", "tema": ["outorga de títulos minerários", "desmembramento", "agregados para construção civil", "judicialização"], "relator": "Guilherme Gomes", "resultado": "deferido por unanimidade, após conferência de que a área não está na ACP do carvão", "resumo_voto": "Defere o desmembramento conforme análises técnicas; votação adiada para o fim da sessão para checar sobreposição com a área de recuperação ambiental da ACP do carvão (SC); mapa mostrou processos no RS, ~250 km distantes.",
-     "votos": [
-      {"diretor": "Guilherme Gomes", "voto": "relator, defere", "ts": "0:33:01", "justificativa": "viabilidade técnica atestada pela gerência regional; nos autos não havia informação de ACP", "confianca": "media"},
-      {"diretor": "Roger Cabral", "voto": "acompanha o relator", "ts": "1:03:41", "confianca": "baixa"},
-      {"diretor": "Júlio César", "voto": "acompanha o relator (após alerta sobre a ACP — autoria do alerta incerta)", "ts": "1:03:41", "justificativa": "não outorgar título em área sob recuperação ambiental judicial sem anuência do juízo, sob risco de descumprimento de decisão", "confianca": "baixa"},
-      {"diretor": "Mauro Sousa", "voto": "acompanha o relator", "ts": "1:03:41", "confianca": "baixa"}]},
-    {"id": "4.2", "ts": "0:43:57", "processo": "870.432/2020", "interessado": "Safira Marin Stone Ltda (grafia incerta)", "assunto": "Pedido de reconsideração contra indeferimento de requerimento de pesquisa por interferência total (BA)", "tema": ["outorga de títulos minerários", "requerimento de pesquisa", "recursos administrativos"], "relator": "Roger Cabral", "resultado": "recurso conhecido e não provido, por unanimidade", "resumo_voto": "Mantido indeferimento: área do processo 871.612/2014 era prioritária e legalmente declarada disponível.",
-     "votos": [
-      {"diretor": "Roger Cabral", "voto": "relator, nega provimento", "ts": "0:43:57", "confianca": "media"},
-      {"diretor": "Mauro Sousa", "voto": "acompanha o relator", "ts": "1:01:30", "confianca": "media"},
-      {"diretor": "Júlio César", "voto": "acompanha o relator", "ts": "1:01:30", "confianca": "media"},
-      {"diretor": "Guilherme Gomes", "voto": "acompanha o relator", "ts": "1:01:30", "confianca": "baixa"}]},
-    {"id": "4.3.1-4.3.3", "ts": "0:46:21", "processo": "826.206/2000, 826.323/2001, 826.322/2000 (números incertos)", "interessado": "José Carlos Ferrarezi; recorrente Paz Extração e Pesquisa Mineral Ltda", "assunto": "Recursos contra decisão em processo de disponibilidade (PR): inabilitação por falta de atestado de capacidade financeira", "tema": ["disponibilidade de área / leilão de áreas", "recursos administrativos"], "relator": "Roger Cabral", "resultado": "recursos não providos, por unanimidade", "resumo_voto": "Atestado firmado por técnico em contabilidade não substitui documento de instituição financeira ou balanço; mantida habilitação prioritária de José Carlos Ferrarezi.",
-     "votos": [
-      {"diretor": "Roger Cabral", "voto": "relator, nega provimento", "ts": "0:46:21", "confianca": "media"},
-      {"diretor": "Mauro Sousa", "voto": "acompanha o relator", "ts": "1:01:30", "confianca": "media"},
-      {"diretor": "Júlio César", "voto": "acompanha o relator", "ts": "1:01:30", "confianca": "media"},
-      {"diretor": "Guilherme Gomes", "voto": "acompanha o relator", "ts": "1:01:30", "confianca": "baixa"}]},
-    {"id": "4.3.4", "ts": "0:50:57", "processo": "871.685/2000 (número incerto)", "interessado": "Mineração Macarani Mármores e Granitos Ltda", "assunto": "Recurso sobre RFP não aprovado e inclusão da área (ouro, Ibipitanga-BA) no edital de disponibilidade 26/2011", "tema": ["disponibilidade de área / leilão de áreas", "recursos administrativos", "relatório final de pesquisa"], "relator": "Roger Cabral", "resultado": "recurso conhecido e não provido, por unanimidade; área excluída do edital 26/2011 e destinada a nova disponibilidade (oferta pública)", "resumo_voto": "Acompanha parecer 10/2021 da SRM: área não deveria ter ido ao edital antes de esgotada a via recursal; vai a nova disponibilidade.",
-     "votos": [
-      {"diretor": "Roger Cabral", "voto": "relator, nega provimento", "ts": "0:50:57", "confianca": "media"},
-      {"diretor": "Mauro Sousa", "voto": "acompanha o relator", "ts": "1:01:30", "confianca": "media"},
-      {"diretor": "Júlio César", "voto": "acompanha o relator", "ts": "1:01:30", "confianca": "media"},
-      {"diretor": "Guilherme Gomes", "voto": "acompanha o relator", "ts": "1:01:30", "confianca": "baixa"}]},
-    {"id": "4.3.5", "ts": "0:56:38", "processo": "830.136/1990", "interessado": "Mineração Angu do Brasil Ltda (grafia incerta); recorrente Pajolinho Projeto de Geologia e Mineração Ltda", "assunto": "Recurso contra decisão em disponibilidade (MG); área com bloqueio provisório pela LT Ouro Preto–Vitória 2", "tema": ["disponibilidade de área / leilão de áreas", "recursos administrativos", "bloqueio de área / energia"], "relator": "Roger Cabral", "resultado": "recurso não provido, por unanimidade", "resumo_voto": "Mantida prioridade da mineradora; encaminhar à área competente para avaliar desbloqueio; alvará após conclusão do bloqueio.",
-     "votos": [
-      {"diretor": "Roger Cabral", "voto": "relator, nega provimento", "ts": "0:56:38", "confianca": "media"},
-      {"diretor": "Mauro Sousa", "voto": "acompanha o relator", "ts": "1:01:30", "confianca": "media"},
-      {"diretor": "Júlio César", "voto": "acompanha o relator", "ts": "1:01:30", "confianca": "media"},
-      {"diretor": "Guilherme Gomes", "voto": "acompanha o relator", "ts": "1:01:30", "confianca": "baixa"}]},
-    {"id": "Júlio-4.1", "ts": "1:04:37", "processo": "830.991 (ano não captado)", "interessado": "Brasmix Mineração Areia e Brita", "assunto": "Recurso contra multas por atraso no extrato de ISR e na DCE de barragem (Portaria DNPM 70.389/2017), MG", "tema": ["barragens e segurança de barragens", "fiscalização e sanções (multa, caducidade)", "recursos administrativos", "agregados para construção civil"], "relator": "Júlio César", "resultado": "recurso não provido, por unanimidade", "resumo_voto": "Atraso indica falta de organização interna; multas mantidas.",
-     "votos": [
-      {"diretor": "Júlio César", "voto": "relator, nega provimento", "ts": "1:04:37", "justificativa": "causas do atraso não justificam revisão", "confianca": "media"},
-      {"diretor": "Guilherme Gomes", "voto": "acompanha o relator na íntegra", "ts": "1:20:55", "confianca": "media"},
-      {"diretor": "Mauro Sousa", "voto": "acompanha o relator", "ts": "1:20:55", "confianca": "baixa"},
-      {"diretor": "Roger Cabral", "voto": "acompanha o relator", "ts": "1:20:55", "confianca": "baixa"}]},
-    {"id": "Júlio-4.2", "ts": "1:06:13", "processo": "831.588/84; 830.464/91; 837.85x/2000", "interessado": "Vale S.A.", "assunto": "Recursos contra multas por suspensão de lavra sem comunicação prévia (minério de ferro, MG)", "tema": ["fiscalização e sanções (multa, caducidade)", "recursos administrativos", "agrupamento mineiro"], "relator": "Júlio César", "resultado": "recursos não providos, por unanimidade; tornado sem efeito arquivamento por vício no englobamento e determinada revisão pela regional", "resumo_voto": "Agrupamento mineiro e imissão de posse não são pré-requisito para a sanção; multas mantidas; autotutela para anular ato de englobamento viciado.",
-     "votos": [
-      {"diretor": "Júlio César", "voto": "relator, nega provimento", "ts": "1:06:13", "confianca": "media"},
-      {"diretor": "Guilherme Gomes", "voto": "acompanha o relator na íntegra", "ts": "1:20:55", "confianca": "media"},
-      {"diretor": "Mauro Sousa", "voto": "acompanha o relator", "ts": "1:20:55", "confianca": "baixa"},
-      {"diretor": "Roger Cabral", "voto": "acompanha o relator", "ts": "1:20:55", "confianca": "baixa"}]},
-    {"id": "Júlio-4.2b", "ts": "1:09:36", "processo": "835.863/94", "interessado": "Brás Roma Mineração Comércio e Indústria (grafia incerta)", "assunto": "Recurso intempestivo contra multas por não pagamento de TAH e não entrega de RFP (quartzo, MG)", "tema": ["CFEM / arrecadação / TAH", "fiscalização e sanções (multa, caducidade)", "recursos administrativos"], "relator": "Júlio César", "resultado": "não conhecido; declarada prescrição das multas; cobrança das TAH prossegue", "resumo_voto": "Não conhece por intempestividade; prescrição/decadência dos créditos de multa (Lei 9.873/99).",
-     "votos": [
-      {"diretor": "Júlio César", "voto": "relator, não conhece", "ts": "1:09:36", "confianca": "media"},
-      {"diretor": "Guilherme Gomes", "voto": "acompanha o relator na íntegra", "ts": "1:20:55", "confianca": "media"},
-      {"diretor": "Mauro Sousa", "voto": "acompanha o relator", "ts": "1:20:55", "confianca": "baixa"},
-      {"diretor": "Roger Cabral", "voto": "acompanha o relator", "ts": "1:20:55", "confianca": "baixa"}]},
-    {"id": "Júlio-4.2c", "ts": "1:11:24", "processo": "846.040 a 846.043/2015 (números incertos)", "interessado": "Carlos Alexandre Serpa", "assunto": "Recursos contra multas por não entrega de RFP (PB)", "tema": ["fiscalização e sanções (multa, caducidade)", "recursos administrativos", "relatório final de pesquisa"], "relator": "Júlio César", "resultado": "recursos não providos, por unanimidade", "resumo_voto": "Multas mantidas.",
-     "votos": [
-      {"diretor": "Júlio César", "voto": "relator, nega provimento", "ts": "1:11:24", "confianca": "media"},
-      {"diretor": "Guilherme Gomes", "voto": "acompanha o relator na íntegra", "ts": "1:20:55", "confianca": "media"},
-      {"diretor": "Mauro Sousa", "voto": "acompanha o relator", "ts": "1:20:55", "confianca": "baixa"},
-      {"diretor": "Roger Cabral", "voto": "acompanha o relator", "ts": "1:20:55", "confianca": "baixa"}]},
-    {"id": "Júlio-4.2d", "ts": "1:13:31", "processo": "831.148/2018, 831.149/2018, 831.150/2018; 826.142/2020; 826.182/2020", "interessado": "Carlos Lacerda de Campos; William Cunha Bonfim; Jair José Antunes", "assunto": "Recursos intempestivos contra nulidade de alvarás de pesquisa por falta de pagamento de TAH (alegação de pandemia)", "tema": ["CFEM / arrecadação / TAH", "outorga de títulos minerários", "recursos administrativos"], "relator": "Júlio César", "resultado": "não conhecidos; nulidades mantidas, por unanimidade", "resumo_voto": "Dificuldades da pandemia não eximem a obrigação; intempestividade.",
-     "votos": [
-      {"diretor": "Júlio César", "voto": "relator, não conhece", "ts": "1:13:31", "justificativa": "pandemia infelizmente justifica a situação mas não exime o empreendedor de suas obrigações", "confianca": "media"},
-      {"diretor": "Guilherme Gomes", "voto": "acompanha o relator na íntegra", "ts": "1:20:55", "confianca": "media"},
-      {"diretor": "Mauro Sousa", "voto": "acompanha o relator", "ts": "1:20:55", "confianca": "baixa"},
-      {"diretor": "Roger Cabral", "voto": "acompanha o relator", "ts": "1:20:55", "confianca": "baixa"}]},
-    {"id": "Júlio-4.3", "ts": "1:18:28", "processo": "830.754 (ano não captado)", "interessado": "Ricardo Norberto Pinheiro", "assunto": "Pedido de reconsideração de decisão do DG do DNPM (RFP de topázio não aprovado, MG); retirado da 48ª reunião", "tema": ["recursos administrativos", "relatório final de pesquisa"], "relator": "Júlio César", "resultado": "não conhecido, por unanimidade", "resumo_voto": "Ausência de ilegalidade nos atos; vistoria e comissão técnica seguiram o rito.",
-     "votos": [
-      {"diretor": "Júlio César", "voto": "relator, não conhece", "ts": "1:18:28", "confianca": "media"},
-      {"diretor": "Guilherme Gomes", "voto": "acompanha o relator na íntegra", "ts": "1:20:55", "confianca": "media"},
-      {"diretor": "Mauro Sousa", "voto": "acompanha o relator", "ts": "1:20:55", "confianca": "baixa"},
-      {"diretor": "Roger Cabral", "voto": "acompanha o relator", "ts": "1:20:55", "confianca": "baixa"}]}
+ "meta": {
+  "video_id": "OKRmfILwpWY",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "49",
+  "data": "2023-03-27",
+  "formato": "videoconferência / híbrida",
+  "presidente_da_sessao": "Mauro Sousa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Mauro Sousa",
+   "Roger Cabral",
+   "Guilherme Gomes",
+   "Júlio César"
   ],
-  "retirados": ["Processo da Vale com sustentação oral (retirado; Vale cancelou a sustentação)", "Dois processos da Vale de decaimento de área em Nova Lima-MG (relator Guilherme Gomes) e processos incluídos por equívoco da assessoria"],
-  "limites_da_analise": ["Legenda automática: números de processo e nomes de empresas incertos.", "Data: abertura diz 27/03/2023, cabeçalho 28/03/2023; usado o cabeçalho. Abertura diz 'contagésima', encerramento indica 49ª.", "Diretor chamado 'Guilherme' (legenda 'Guilherme Santana') registrado como Guilherme Gomes; confirmar.", "Diretor 'Júlio César' (Doutor Júlio, assessor Saulo) não está na lista canônica: provável substituto; nome a confirmar.", "Votos de quem só acompanha têm ts aproximado (momento da votação em bloco); na votação do bloco de Guilherme (0:40:34) não se distingue claramente quem disse cada 'acompanha'.", "Numeração dos itens confusa (Roger e Júlio usam 4.x); ids com prefixo do relator.", "Autor do alerta sobre a ACP do carvão não identificado com segurança."]
+  "ausentes": [],
+  "observacoes": [
+   "49ª Reunião Ordinária Pública da Diretoria Colegiada (título); na abertura a legenda diz 27 de março de 2023, o título/cabeçalho diz 28/03/2023.",
+   "Abertura anuncia novo gerente regional do Pará, Hugo Paiva de Souza.",
+   "Processo da Vale com sustentação oral retirado de pauta (Vale cancelou a sustentação, perdendo prioridade).",
+   "Guilherme retirou de pauta dois processos da Vale (decaimento de área em Nova Lima, MG, frente ao Jardim Canadá, com sustentação oral prevista) e outros incluídos por equívoco da assessoria.",
+   "No desmembramento da Carbonífera Metropolitana houve alerta sobre possível sobreposição com a área da ACP do carvão (SC); a votação foi adiada para o fim da sessão e, após conferência por mapa (processos no RS, ~250 km da área da ACP), aprovada.",
+   "Todos os itens deliberados por unanimidade.",
+   "data corrigida pela ata oficial (2023-03-27); antes 2023-03-28"
+  ]
+ },
+ "itens": [
+  {
+   "id": "4.1-Roger",
+   "ts": "0:03:37",
+   "processo": "48051.001973/2020-49 (número incerto)",
+   "interessado": "Divisão de Controle de Áreas (SRM)",
+   "assunto": "Alteração do §1º do art. 42 da Portaria 155/2016 — limite geográfico da Amazônia Legal (divergência entre área técnica e Procuradoria; Tocantins)",
+   "tema": [
+    "regulação normativa",
+    "outorga de títulos minerários",
+    "institucional"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Adotar como limite da Amazônia Legal o definido pela Lei Complementar 124/2007 e divulgado pelo IBGE (Tocantins integralmente incluído), afastando a delimitação do Código Florestal.",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, aprova",
+     "ts": "0:03:37",
+     "justificativa": "prevalece a LC 124/2007 sobre o Código Florestal; apenas esclarece o limite a ser usado nos requerimentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "0:09:43",
+     "justificativa": "é só para esclarecer que prevalece a LC 124",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "0:09:43",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César",
+     "voto": "acompanha o relator",
+     "ts": "0:09:43",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.1",
+   "ts": "0:11:08",
+   "processo": "vários (referendos de decisões do Diretor-Geral)",
+   "interessado": "ANM / MPP Mineração Pirâmide Ltda",
+   "assunto": "Referendo de atos do Diretor-Geral: cancelamento da 7ª rodada de disponibilidade de áreas (falhas do sistema); Resolução 131 (alçada e apreciação técnica remota); Resolução 132 (atualização de emolumentos/taxas pelo IPCA); revisão de procedimento da gerência regional (processo 868.224/2001, guia de utilização da MPP Mineração Pirâmide)",
+   "tema": [
+    "institucional",
+    "disponibilidade de área / leilão de áreas",
+    "regulação normativa",
+    "CFEM / arrecadação / TAH",
+    "guia de utilização"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Referendo de decisões tomadas pelo DG por urgência.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, propõe referendo",
+     "ts": "0:11:08",
+     "justificativa": "urgência: falhas no sistema da 7ª rodada; prazo normativo de atualização de taxas; necessidade da empresa",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "0:17:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César",
+     "voto": "acompanha o relator",
+     "ts": "0:17:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha (de acordo)",
+     "ts": "0:17:40",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.2",
+   "ts": "0:18:05",
+   "processo": "26 processos do mesmo titular",
+   "interessado": "não identificado",
+   "assunto": "Recursos contra não aprovação de relatório final de pesquisa (RM Paraná), voto unificado",
+   "tema": [
+    "recursos administrativos",
+    "outorga de títulos minerários",
+    "relatório final de pesquisa"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Reconhece inconsistências da vistoria e exigências (notificação sem ofício publicado, análise unificada indevida); dar o devido encaminhamento aos relatórios (aprovação publicada em 2018).",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator",
+     "ts": "0:18:05",
+     "justificativa": "exigências geradas sem ofício publicado e com rasuras não podem fundamentar indeferimento",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "0:23:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César",
+     "voto": "acompanha o relator, com elogio",
+     "ts": "0:23:21",
+     "justificativa": "notificação tem de ser exigência formal para ter caráter de indeferimento",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "0:23:21",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.3",
+   "ts": "0:20:34",
+   "processo": "vários processos de cobrança de CFEM",
+   "interessado": "vários",
+   "assunto": "Recursos em processos de cobrança de CFEM (alegações de decadência, prescrição, base de cálculo)",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "recursos conhecidos e não providos, por unanimidade",
+   "resumo_voto": "Conhecer e negar provimento; prosseguir as cobranças.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, nega provimento",
+     "ts": "0:20:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "0:23:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César",
+     "voto": "acompanha o relator",
+     "ts": "0:23:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "0:23:21",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1.4",
+   "ts": "0:21:56",
+   "processo": "dois processos (Mineração Vogal e Termas — nome incerto)",
+   "interessado": "Mineração Vogal e Termas (grafia incerta)",
+   "assunto": "Recurso contra processo de cobrança de CFEM; comprovação parcial de pagamentos",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "recursos administrativos"
+   ],
+   "relator": "Mauro Sousa",
+   "resultado": "provimento parcial, por unanimidade",
+   "resumo_voto": "Provimento parcial para abater valores comprovados; cobrança do remanescente.",
+   "votos": [
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "relator, provimento parcial",
+     "ts": "0:21:56",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "0:23:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César",
+     "voto": "acompanha o relator",
+     "ts": "0:23:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "0:23:21",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.1",
+   "ts": "0:27:55",
+   "processo": "930.773/2016 e 831.894/85, 831.942/85, 832.205, 831.940/85",
+   "interessado": "Safran S.A. Cerâmica (grafia incerta)",
+   "assunto": "Requerimento de agrupamento mineiro (5 processos)",
+   "tema": [
+    "outorga de títulos minerários",
+    "agrupamento mineiro"
+   ],
+   "relator": "Guilherme Gomes",
+   "resultado": "indeferido por unanimidade",
+   "resumo_voto": "Intensidade de lavra insuficiente para configurar agrupamento; sugere à titular eventual pedido de suspensão de trabalhos.",
+   "votos": [
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "relator, indefere",
+     "ts": "0:27:55",
+     "justificativa": "ritmo de lavra muito aquém do necessário para agrupamento",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "0:40:34",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César",
+     "voto": "acompanha o relator",
+     "ts": "0:40:34",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "0:40:34",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.2",
+   "ts": "0:29:12",
+   "processo": "803.777/76 (número incerto)",
+   "interessado": "não identificado (água mineral, SC)",
+   "assunto": "Recurso contra autos de infração por exploração de água mineral não autorizada (art. 31, I, Código de Águas Minerais)",
+   "tema": [
+    "fiscalização e sanções (multa, caducidade)",
+    "recursos administrativos",
+    "água mineral"
+   ],
+   "relator": "Guilherme Gomes",
+   "resultado": "recurso não provido, por unanimidade",
+   "resumo_voto": "Mantidas as penalidades conforme pareceres técnicos.",
+   "votos": [
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "relator, nega provimento",
+     "ts": "0:29:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "0:40:34",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César",
+     "voto": "acompanha o relator",
+     "ts": "0:40:34",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "0:40:34",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.3",
+   "ts": "0:30:32",
+   "processo": "915.038/2021, 915.019/2021, 915.022/2021, 915.021/2021, 915.035/2021",
+   "interessado": "não identificado (SC)",
+   "assunto": "Recurso contra autos de infração por lavra sem autorização (art. 34, II c/c 67, Decreto 9.406/2018)",
+   "tema": [
+    "fiscalização e sanções (multa, caducidade)",
+    "recursos administrativos",
+    "lavra ilegal"
+   ],
+   "relator": "Guilherme Gomes",
+   "resultado": "recurso não provido, por unanimidade",
+   "resumo_voto": "Conhece pela tempestividade e mantém as penalidades.",
+   "votos": [
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "relator, nega provimento",
+     "ts": "0:30:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "0:40:34",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César",
+     "voto": "acompanha o relator",
+     "ts": "0:40:34",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "0:40:34",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2.4",
+   "ts": "0:32:52",
+   "processo": "810.198/79, 810.195/79, 810.289/83",
+   "interessado": "Carbonífera Metropolitana S.A.; BRX Mineração Ltda (terceira interessada)",
+   "assunto": "Desmembramento vertical por superfície horizontal: sapropelito subterrâneo (200–300 m) para a Carbonífera e areia a céu aberto para a BRX",
+   "tema": [
+    "outorga de títulos minerários",
+    "desmembramento",
+    "agregados para construção civil",
+    "judicialização"
+   ],
+   "relator": "Guilherme Gomes",
+   "resultado": "deferido por unanimidade, após conferência de que a área não está na ACP do carvão",
+   "resumo_voto": "Defere o desmembramento conforme análises técnicas; votação adiada para o fim da sessão para checar sobreposição com a área de recuperação ambiental da ACP do carvão (SC); mapa mostrou processos no RS, ~250 km distantes.",
+   "votos": [
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "relator, defere",
+     "ts": "0:33:01",
+     "justificativa": "viabilidade técnica atestada pela gerência regional; nos autos não havia informação de ACP",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "1:03:41",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Júlio César",
+     "voto": "acompanha o relator (após alerta sobre a ACP — autoria do alerta incerta)",
+     "ts": "1:03:41",
+     "justificativa": "não outorgar título em área sob recuperação ambiental judicial sem anuência do juízo, sob risco de descumprimento de decisão",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "1:03:41",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4.2",
+   "ts": "0:43:57",
+   "processo": "870.432/2020",
+   "interessado": "Safira Marin Stone Ltda (grafia incerta)",
+   "assunto": "Pedido de reconsideração contra indeferimento de requerimento de pesquisa por interferência total (BA)",
+   "tema": [
+    "outorga de títulos minerários",
+    "requerimento de pesquisa",
+    "recursos administrativos"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "recurso conhecido e não provido, por unanimidade",
+   "resumo_voto": "Mantido indeferimento: área do processo 871.612/2014 era prioritária e legalmente declarada disponível.",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, nega provimento",
+     "ts": "0:43:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "1:01:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César",
+     "voto": "acompanha o relator",
+     "ts": "1:01:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "1:01:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4.3.1-4.3.3",
+   "ts": "0:46:21",
+   "processo": "826.206/2000, 826.323/2001, 826.322/2000 (números incertos)",
+   "interessado": "José Carlos Ferrarezi; recorrente Paz Extração e Pesquisa Mineral Ltda",
+   "assunto": "Recursos contra decisão em processo de disponibilidade (PR): inabilitação por falta de atestado de capacidade financeira",
+   "tema": [
+    "disponibilidade de área / leilão de áreas",
+    "recursos administrativos"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "recursos não providos, por unanimidade",
+   "resumo_voto": "Atestado firmado por técnico em contabilidade não substitui documento de instituição financeira ou balanço; mantida habilitação prioritária de José Carlos Ferrarezi.",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, nega provimento",
+     "ts": "0:46:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "1:01:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César",
+     "voto": "acompanha o relator",
+     "ts": "1:01:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "1:01:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4.3.4",
+   "ts": "0:50:57",
+   "processo": "871.685/2000 (número incerto)",
+   "interessado": "Mineração Macarani Mármores e Granitos Ltda",
+   "assunto": "Recurso sobre RFP não aprovado e inclusão da área (ouro, Ibipitanga-BA) no edital de disponibilidade 26/2011",
+   "tema": [
+    "disponibilidade de área / leilão de áreas",
+    "recursos administrativos",
+    "relatório final de pesquisa"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "recurso conhecido e não provido, por unanimidade; área excluída do edital 26/2011 e destinada a nova disponibilidade (oferta pública)",
+   "resumo_voto": "Acompanha parecer 10/2021 da SRM: área não deveria ter ido ao edital antes de esgotada a via recursal; vai a nova disponibilidade.",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, nega provimento",
+     "ts": "0:50:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "1:01:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César",
+     "voto": "acompanha o relator",
+     "ts": "1:01:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "1:01:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4.3.5",
+   "ts": "0:56:38",
+   "processo": "830.136/1990",
+   "interessado": "Mineração Angu do Brasil Ltda (grafia incerta); recorrente Pajolinho Projeto de Geologia e Mineração Ltda",
+   "assunto": "Recurso contra decisão em disponibilidade (MG); área com bloqueio provisório pela LT Ouro Preto–Vitória 2",
+   "tema": [
+    "disponibilidade de área / leilão de áreas",
+    "recursos administrativos",
+    "bloqueio de área / energia"
+   ],
+   "relator": "Roger Cabral",
+   "resultado": "recurso não provido, por unanimidade",
+   "resumo_voto": "Mantida prioridade da mineradora; encaminhar à área competente para avaliar desbloqueio; alvará após conclusão do bloqueio.",
+   "votos": [
+    {
+     "diretor": "Roger Cabral",
+     "voto": "relator, nega provimento",
+     "ts": "0:56:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "1:01:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Júlio César",
+     "voto": "acompanha o relator",
+     "ts": "1:01:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator",
+     "ts": "1:01:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "Júlio-4.1",
+   "ts": "1:04:37",
+   "processo": "830.991 (ano não captado)",
+   "interessado": "Brasmix Mineração Areia e Brita",
+   "assunto": "Recurso contra multas por atraso no extrato de ISR e na DCE de barragem (Portaria DNPM 70.389/2017), MG",
+   "tema": [
+    "barragens e segurança de barragens",
+    "fiscalização e sanções (multa, caducidade)",
+    "recursos administrativos",
+    "agregados para construção civil"
+   ],
+   "relator": "Júlio César",
+   "resultado": "recurso não provido, por unanimidade",
+   "resumo_voto": "Atraso indica falta de organização interna; multas mantidas.",
+   "votos": [
+    {
+     "diretor": "Júlio César",
+     "voto": "relator, nega provimento",
+     "ts": "1:04:37",
+     "justificativa": "causas do atraso não justificam revisão",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator na íntegra",
+     "ts": "1:20:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "1:20:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "1:20:55",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "Júlio-4.2",
+   "ts": "1:06:13",
+   "processo": "831.588/84; 830.464/91; 837.85x/2000",
+   "interessado": "Vale S.A.",
+   "assunto": "Recursos contra multas por suspensão de lavra sem comunicação prévia (minério de ferro, MG)",
+   "tema": [
+    "fiscalização e sanções (multa, caducidade)",
+    "recursos administrativos",
+    "agrupamento mineiro"
+   ],
+   "relator": "Júlio César",
+   "resultado": "recursos não providos, por unanimidade; tornado sem efeito arquivamento por vício no englobamento e determinada revisão pela regional",
+   "resumo_voto": "Agrupamento mineiro e imissão de posse não são pré-requisito para a sanção; multas mantidas; autotutela para anular ato de englobamento viciado.",
+   "votos": [
+    {
+     "diretor": "Júlio César",
+     "voto": "relator, nega provimento",
+     "ts": "1:06:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator na íntegra",
+     "ts": "1:20:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "1:20:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "1:20:55",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "Júlio-4.2b",
+   "ts": "1:09:36",
+   "processo": "835.863/94",
+   "interessado": "Brás Roma Mineração Comércio e Indústria (grafia incerta)",
+   "assunto": "Recurso intempestivo contra multas por não pagamento de TAH e não entrega de RFP (quartzo, MG)",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "fiscalização e sanções (multa, caducidade)",
+    "recursos administrativos"
+   ],
+   "relator": "Júlio César",
+   "resultado": "não conhecido; declarada prescrição das multas; cobrança das TAH prossegue",
+   "resumo_voto": "Não conhece por intempestividade; prescrição/decadência dos créditos de multa (Lei 9.873/99).",
+   "votos": [
+    {
+     "diretor": "Júlio César",
+     "voto": "relator, não conhece",
+     "ts": "1:09:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator na íntegra",
+     "ts": "1:20:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "1:20:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "1:20:55",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "Júlio-4.2c",
+   "ts": "1:11:24",
+   "processo": "846.040 a 846.043/2015 (números incertos)",
+   "interessado": "Carlos Alexandre Serpa",
+   "assunto": "Recursos contra multas por não entrega de RFP (PB)",
+   "tema": [
+    "fiscalização e sanções (multa, caducidade)",
+    "recursos administrativos",
+    "relatório final de pesquisa"
+   ],
+   "relator": "Júlio César",
+   "resultado": "recursos não providos, por unanimidade",
+   "resumo_voto": "Multas mantidas.",
+   "votos": [
+    {
+     "diretor": "Júlio César",
+     "voto": "relator, nega provimento",
+     "ts": "1:11:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator na íntegra",
+     "ts": "1:20:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "1:20:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "1:20:55",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "Júlio-4.2d",
+   "ts": "1:13:31",
+   "processo": "831.148/2018, 831.149/2018, 831.150/2018; 826.142/2020; 826.182/2020",
+   "interessado": "Carlos Lacerda de Campos; William Cunha Bonfim; Jair José Antunes",
+   "assunto": "Recursos intempestivos contra nulidade de alvarás de pesquisa por falta de pagamento de TAH (alegação de pandemia)",
+   "tema": [
+    "CFEM / arrecadação / TAH",
+    "outorga de títulos minerários",
+    "recursos administrativos"
+   ],
+   "relator": "Júlio César",
+   "resultado": "não conhecidos; nulidades mantidas, por unanimidade",
+   "resumo_voto": "Dificuldades da pandemia não eximem a obrigação; intempestividade.",
+   "votos": [
+    {
+     "diretor": "Júlio César",
+     "voto": "relator, não conhece",
+     "ts": "1:13:31",
+     "justificativa": "pandemia infelizmente justifica a situação mas não exime o empreendedor de suas obrigações",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator na íntegra",
+     "ts": "1:20:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "1:20:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "1:20:55",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "Júlio-4.3",
+   "ts": "1:18:28",
+   "processo": "830.754 (ano não captado)",
+   "interessado": "Ricardo Norberto Pinheiro",
+   "assunto": "Pedido de reconsideração de decisão do DG do DNPM (RFP de topázio não aprovado, MG); retirado da 48ª reunião",
+   "tema": [
+    "recursos administrativos",
+    "relatório final de pesquisa"
+   ],
+   "relator": "Júlio César",
+   "resultado": "não conhecido, por unanimidade",
+   "resumo_voto": "Ausência de ilegalidade nos atos; vistoria e comissão técnica seguiram o rito.",
+   "votos": [
+    {
+     "diretor": "Júlio César",
+     "voto": "relator, não conhece",
+     "ts": "1:18:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Guilherme Gomes",
+     "voto": "acompanha o relator na íntegra",
+     "ts": "1:20:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mauro Sousa",
+     "voto": "acompanha o relator",
+     "ts": "1:20:55",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Roger Cabral",
+     "voto": "acompanha o relator",
+     "ts": "1:20:55",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "Processo da Vale com sustentação oral (retirado; Vale cancelou a sustentação)",
+  "Dois processos da Vale de decaimento de área em Nova Lima-MG (relator Guilherme Gomes) e processos incluídos por equívoco da assessoria"
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo e nomes de empresas incertos.",
+  "Data: abertura diz 27/03/2023, cabeçalho 28/03/2023; usado o cabeçalho. Abertura diz 'contagésima', encerramento indica 49ª.",
+  "Diretor chamado 'Guilherme' (legenda 'Guilherme Santana') registrado como Guilherme Gomes; confirmar.",
+  "Diretor 'Júlio César' (Doutor Júlio, assessor Saulo) não está na lista canônica: provável substituto; nome a confirmar.",
+  "Votos de quem só acompanha têm ts aproximado (momento da votação em bloco); na votação do bloco de Guilherme (0:40:34) não se distingue claramente quem disse cada 'acompanha'.",
+  "Numeração dos itens confusa (Roger e Júlio usam 4.x); ids com prefixo do relator.",
+  "Autor do alerta sobre a ACP do carvão não identificado com segurança."
+ ]
 }

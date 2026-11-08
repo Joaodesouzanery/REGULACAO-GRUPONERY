@@ -13,3 +13,6 @@ Rodada `anm_2019_2026`: 72 itens em 24 reuniões (3 por ano), relidos por subage
 **Leitura:** de 2021 a 2026 a base é confiável (≈ 96% nos votos). **2019 não é confiável** (legendas em outro idioma ou ininteligíveis; votos «acompanha» inferidos sem fala identificável) e 2020 é intermediário. Para 2019–2020 use a base só como índice de assuntos até o Whisper e o cruzamento com as atas.
 
 Ressalva de método: nesta rodada a lista de diretores enviada ao conferente começava pelo relator (vazamento parcial); corrigido em `pipeline/amostra.py` (lista em ordem alfabética) para as próximas rodadas. Discordâncias por diretor, com reunião e item, em `conferencia_anm_2019_2026.md`.
+
+## Cruzamento com as atas oficiais (gov.br/anm)
+121 atas (ROP 1–88, REP 1–34; a REP 25 foi cancelada), índice em `data/anm/atas/indice_atas.json` (PDFs baixáveis de novo pelas URLs do índice; não versionados). Casadas 114 reuniões e 1.830 itens pelo número: **resultado igual em 97,9%**, **relator igual em 89,8%**; 37 datas corrigidas pela ata (a data do vídeo é a do upload). As atas não trazem placar nominal; nas maiorias costumam nomear quem divergiu. Detalhe em `cruzamento_atas.md`/`.csv`.

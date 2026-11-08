@@ -1,6 +1,6 @@
 # Itens do tema «outros» (todos os diretores)
 
-- **RD 7ª Ordinária (2019-08)**, X6 · relator **None** · Aprovação de novo PAE (água mineral) → aprovado
+- **RD 7ª Ordinária (2019-08-20)**, X6 · relator **None** · Aprovação de novo PAE (água mineral) → aprovado
   - votos: Victor: acompanha; Tasso: acompanha; Debora: acompanha; Eduardo: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=gqN-UXqNYhQ&t=8781s)
 - **RD 15ª Ordinária (2020-04-15)**, 1.1.5 · relator **Victor Bicca** · Desbloqueio de área (bloqueio provisório de 2015 para linha de transmissão não implantada) → aprovado por unanimidade
   - votos: Victor: relator; Tasso: acompanha; Eduardo: acompanha; Tomás: acompanha; Debora: outro · [vídeo](https://www.youtube.com/watch?v=lfr2P7uMVeA&t=1876s)
@@ -30,21 +30,21 @@
   - votos: Tomás: relator; Tasso: acompanha; Debora: acompanha; Eduardo: acompanha; Victor: outro · [vídeo](https://www.youtube.com/watch?v=Qq7qMQ7_rfc&t=5063s)
 - **RD 22ª Ordinária (2020-11-18)**, 5.3.2 · relator **Tomás Filho** · Prorrogação de início de lavra → deferida por 1 ano (unanimidade)
   - votos: Tomás: relator; Tasso: acompanha; Debora: acompanha; Eduardo: acompanha; Victor: outro · [vídeo](https://www.youtube.com/watch?v=Qq7qMQ7_rfc&t=5105s)
-- **RD 27 (2021-04-29)**, 5.3 · relator **Aline (substituta, sobrenome a confirmar)** · Bloqueio provisório para gasoduto (art. 42 do Código; Parecer 500/2008) → aprovado por unanimidade
+- **RD 27 (2021-04-28)**, 5.3 · relator **Aline (substituta, sobrenome a confirmar)** · Bloqueio provisório para gasoduto (art. 42 do Código; Parecer 500/2008) → aprovado por unanimidade
   - votos: Aline: relator; Tasso: acompanha; Carlos: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=12234s)
 - **RD 29ª Ordinária (2021-06-23)**, 5.2 · relator **Aline (substituta, sobrenome a confirmar)** · Retificação de guia de utilização → aprova por unanimidade
   - votos: Aline: relator; Tasso: acompanha; Carlos: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=JhjBUQ1wgxg&t=11320s)
-- **RD 32ª Ordinária (2021-09-23)**, 1.5 · relator **Victor Bicca** · Emissão de guia de utilização → aprova por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 1.5 · relator **Victor Bicca** · Emissão de guia de utilização → aprova por unanimidade
   - votos: Victor: relator; Guilherme: acompanha; Ronaldo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=5309s)
-- **RD 32ª Ordinária (2021-09-23)**, 1.13 · relator **Victor Bicca** · Retificação de guia de utilização para ampliar limite a 50 mil t/ano → aprova por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 1.13 · relator **Victor Bicca** · Retificação de guia de utilização para ampliar limite a 50 mil t/ano → aprova por unanimidade
   - votos: Victor: relator; Guilherme: acompanha; Ronaldo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=6110s)
-- **RD 33ª Ordinária (2021-10-21)**, 1.5 · relator **Victor Bicca** · Autorização para importar e comercializar água mineral francesa (Portaria 159/1996) → aprova por unanimidade dos presentes
+- **RD 33ª Ordinária (2021-10-20)**, 1.5 · relator **Victor Bicca** · Autorização para importar e comercializar água mineral francesa (Portaria 159/1996) → aprova por unanimidade dos presentes
   - votos: Victor: relator; Guilherme: acompanha; Ronaldo: acompanha; Debora: acompanha; Tasso: outro · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=8111s)
-- **RD 33ª Ordinária (2021-10-21)**, 2.6 · relator **Debora Puccini** · Retificação de guia de utilização 84/2020 (12.571 t/ano de pegmatito para revestimento e 49.500 t/ano a granel) → aprova por unanimidade
+- **RD 33ª Ordinária (2021-10-20)**, 2.6 · relator **Debora Puccini** · Retificação de guia de utilização 84/2020 (12.571 t/ano de pegmatito para revestimento e 49.500 t/ano a granel) → aprova por unanimidade
   - votos: Debora: relator; Tasso: acompanha; Guilherme: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=9519s)
-- **RD 33ª Ordinária (2021-10-21)**, 3.2 · relator **Tasso Mendonça** · Guias de utilização acima do Anexo IV → aprova por unanimidade
+- **RD 33ª Ordinária (2021-10-20)**, 3.2 · relator **Tasso Mendonça** · Guias de utilização acima do Anexo IV → aprova por unanimidade
   - votos: Tasso: relator; Guilherme: acompanha; Debora: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=9930s)
-- **RD 33ª Ordinária (2021-10-21)**, 4.2.2 · relator **Ronaldo Lima** · Retificação de guia para incluir 12 mil t/ano de xisto → aprova por unanimidade
+- **RD 33ª Ordinária (2021-10-20)**, 4.2.2 · relator **Ronaldo Lima** · Retificação de guia para incluir 12 mil t/ano de xisto → aprova por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=10616s)
 - **RD 46 (2022-12-14)**, 1.1.1-1.1.3, 1.1.6 · relator **Mauro Sousa** · Processos devolvidos à origem por não exigirem deliberação colegiada → retirados de pauta
   - votos: Mauro: relator · [vídeo](https://www.youtube.com/watch?v=cXfuSmk0BVs&t=6120s)
