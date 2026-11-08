@@ -22,6 +22,11 @@
 - `cuidados-pipeline` (checklist antes de commit + `pipeline/checar_integridade.py`) · `resposta-com-evidencia` (ficha fixa: `consulta.py ficha`) · `vacancia-agencia` (`vacancias.py` + `agencias/VACANCIA_AGENCIAS.md`) · `relatorio-cliente` (`pipeline/relatorio.py`, pasta `clientes/` fora do git; ver `docs/PRODUTO_CONSULTORIA.md`).
 - Todo voto tem `trecho` literal (legenda a partir do minuto) e `trecho_tipo` (`fala_no_minuto` ou `janela_do_item`).
 
+## Painel web e camada de empresas
+- Painel (abre no chat, sem baixar): https://claude.ai/artifact/LN3GvfwZijv8PsarfmLiC3 — dados gerados por `python3 pipeline/painel_dados.py <pasta>`; subir cada JSON como asset do artifact e atualizar `datasets/<id>.source.url`.
+- Empresas: `data/entidades.json` (ANTT) e `data/anm/entidades.json`; microtemas: `data/microtemas.json` e `data/anm/microtemas.json`.
+- Comandos: `consulta.py empresa X | grupo X | microtema X [--diretor Y] | precedentes "texto" | relator X | reincidencia | sustentacoes | tramitacao`; monitor por cliente: `python3 pipeline/monitor.py --dias 7` (config `data/monitor.json`).
+
 ## Várias agências
 - ANTT (piloto) usa a raiz: `data/`, `agencias/antt/`. Outras agências: `data/<sigla>/` (config em `data/<sigla>/config_agencia.json`: diretores, apelidos, temas, playlists, URL das atas) e `agencias/<sigla>/`.
 - Qualquer script para outra agência: `bash pipeline/ag.sh anm python3 pipeline/<script>.py ...` (ex.: `05_indexar.py`, `consulta.py ficha "Mauro Sousa"`, `organizar.py`, `vacancias.py`).

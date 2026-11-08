@@ -8,7 +8,7 @@
    "grupo": null
   },
   "3a_mine": {
-   "nome": "3A Mine S.A",
+   "nome": "3A Mine S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -25,13 +25,6 @@
    "nome": "3M Participações e Investimentos",
    "sigla": null,
    "tipo": "mineradora",
-   "setor": null,
-   "grupo": null
-  },
-  "8_rodada_de_disponibilidade_de_areas": {
-   "nome": "8ª rodada de disponibilidade de áreas",
-   "sigla": null,
-   "tipo": "outro",
    "setor": null,
    "grupo": null
   },
@@ -316,7 +309,7 @@
    "grupo": null
   },
   "agua_pedra_azul": {
-   "nome": "Água Pedra Azul S.A",
+   "nome": "Água Pedra Azul S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -519,7 +512,7 @@
    "grupo": null
   },
   "america_gold_mine": {
-   "nome": "América Gold Mine S.A",
+   "nome": "América Gold Mine S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "ouro",
@@ -589,7 +582,7 @@
    "grupo": null
   },
   "anglo_american_minerio_de_ferro_brasil": {
-   "nome": "Anglo American Minério de Ferro Brasil S.A",
+   "nome": "Anglo American Minério de Ferro Brasil S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "ferro",
@@ -603,7 +596,7 @@
    "grupo": "AngloGold Ashanti"
   },
   "anglogold_ashanti_corrego_do_sitio_mineracao": {
-   "nome": "AngloGold Ashanti Córrego do Sítio Mineração S.A",
+   "nome": "AngloGold Ashanti Córrego do Sítio Mineração S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "ouro",
@@ -869,7 +862,7 @@
    "grupo": null
   },
   "aperam_inox_america_do_sul": {
-   "nome": "Aperam Inox América do Sul S.A",
+   "nome": "Aperam Inox América do Sul S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -883,7 +876,7 @@
    "grupo": null
   },
   "arcelormittal_brasil": {
-   "nome": "ArcelorMittal Brasil S.A",
+   "nome": "ArcelorMittal Brasil S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -1185,7 +1178,7 @@
   },
   "associacao_dos": {
    "nome": "Associação dos",
-   "sigla": "RN",
+   "sigla": null,
    "tipo": "associacao_sindicato",
    "setor": null,
    "grupo": null
@@ -1212,7 +1205,7 @@
    "grupo": null
   },
   "ate_xviii_transmissora_de_energia": {
-   "nome": "ATE XVIII Transmissora de Energia S.A",
+   "nome": "ATE XVIII Transmissora de Energia S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -1229,7 +1222,7 @@
    "nome": "Atlantic Nickel Mineração Ltda",
    "sigla": null,
    "tipo": "mineradora",
-   "setor": null,
+   "setor": "níquel",
    "grupo": null
   },
   "atlantica_minas_e_empreendimentos": {
@@ -1299,7 +1292,7 @@
    "nome": "Bahia Mineração",
    "sigla": "BAMIN",
    "tipo": "mineradora",
-   "setor": null,
+   "setor": "ferro",
    "grupo": null
   },
   "balg_da_avanco_areia": {
@@ -1373,7 +1366,7 @@
    "grupo": null
   },
   "bemisa_holding": {
-   "nome": "Bemisa Holding S.A",
+   "nome": "Bemisa Holding S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -1597,7 +1590,7 @@
    "grupo": null
   },
   "brasil_minerios": {
-   "nome": "Brasil Minérios S.A",
+   "nome": "Brasil Minérios S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -1660,7 +1653,7 @@
    "grupo": null
   },
   "brf_mineracao": {
-   "nome": "BRF Mineração S.A",
+   "nome": "BRF Mineração S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -1758,7 +1751,7 @@
    "grupo": null
   },
   "buritirama_mineracao": {
-   "nome": "Buritirama Mineração S.A",
+   "nome": "Buritirama Mineração S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "manganês",
@@ -1779,7 +1772,7 @@
    "grupo": null
   },
   "cadam": {
-   "nome": "CADAM S.A",
+   "nome": "CADAM S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "caulim",
@@ -1912,7 +1905,7 @@
    "grupo": null
   },
   "camargo_correa_cimentos": {
-   "nome": "Camargo Corrêa Cimentos S.A",
+   "nome": "Camargo Corrêa Cimentos S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "cimento",
@@ -1926,7 +1919,7 @@
    "grupo": null
   },
   "campinorte_mineracao": {
-   "nome": "Campinorte Mineração S.A",
+   "nome": "Campinorte Mineração S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -1975,7 +1968,7 @@
    "grupo": null
   },
   "carbonifera_metropolitana": {
-   "nome": "Carbonífera Metropolitana S.A",
+   "nome": "Carbonífera Metropolitana S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "carvão",
@@ -2093,20 +2086,6 @@
    "setor": "calcário",
    "grupo": null
   },
-  "cba": {
-   "nome": "CBA",
-   "sigla": null,
-   "tipo": "mineradora",
-   "setor": "bauxita",
-   "grupo": "CBA"
-  },
-  "cba_companhia_brasileira_de_aluminio": {
-   "nome": "CBA Companhia Brasileira de Alumínio",
-   "sigla": null,
-   "tipo": "mineradora",
-   "setor": "bauxita",
-   "grupo": "CBA"
-  },
   "cbe_companhia_brasileira_de_equipamentos": {
    "nome": "CBE Companhia Brasileira de Equipamentos",
    "sigla": null,
@@ -2122,7 +2101,7 @@
    "grupo": null
   },
   "ccb_cimentos_do_brasil": {
-   "nome": "CCB Cimentos do Brasil S.A",
+   "nome": "CCB Cimentos do Brasil S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "cimento",
@@ -2163,13 +2142,6 @@
    "setor": "ferro",
    "grupo": null
   },
-  "centrais_eletricas": {
-   "nome": "Centrais Elétricas",
-   "sigla": null,
-   "tipo": "outro",
-   "setor": null,
-   "grupo": null
-  },
   "central_de_britagem_de_itauna": {
    "nome": "Central de Britagem de Itaúna",
    "sigla": null,
@@ -2185,7 +2157,7 @@
    "grupo": null
   },
   "centro_oeste_goldmine": {
-   "nome": "Centro Oeste Goldmine S.A",
+   "nome": "Centro Oeste Goldmine S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -2199,7 +2171,7 @@
    "grupo": null
   },
   "centroeste_golden_mine": {
-   "nome": "Centroeste Golden Mine S.A",
+   "nome": "Centroeste Golden Mine S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -2443,13 +2415,6 @@
    "setor": "ferro",
    "grupo": null
   },
-  "cfem": {
-   "nome": "CFEM",
-   "sigla": null,
-   "tipo": "outro",
-   "setor": null,
-   "grupo": null
-  },
   "chamonix_mix": {
    "nome": "Chamonix Mix Ltda",
    "sigla": null,
@@ -2478,13 +2443,6 @@
    "setor": null,
    "grupo": null
   },
-  "cimento_planalto": {
-   "nome": "Cimento Planalto S.A",
-   "sigla": "Ciplan",
-   "tipo": "mineradora",
-   "setor": "cimento",
-   "grupo": null
-  },
   "cintia_nara_guedes_avila": {
    "nome": "Cintia Nara Guedes Ávila",
    "sigla": null,
@@ -2499,16 +2457,9 @@
    "setor": null,
    "grupo": null
   },
-  "ciplan": {
-   "nome": "Ciplan",
-   "sigla": null,
-   "tipo": "outro",
-   "setor": "calcário",
-   "grupo": null
-  },
   "ciplan_cimento_planalto": {
-   "nome": "Ciplan Cimento Planalto S.A",
-   "sigla": null,
+   "nome": "Ciplan Cimento Planalto S.A.",
+   "sigla": "Ciplan",
    "tipo": "mineradora",
    "setor": "cimento",
    "grupo": null
@@ -2607,7 +2558,7 @@
   "coban": {
    "nome": "Coban",
    "sigla": null,
-   "tipo": "outro",
+   "tipo": "cooperativa_garimpeira",
    "setor": null,
    "grupo": null
   },
@@ -2616,13 +2567,6 @@
    "sigla": null,
    "tipo": "mineradora",
    "setor": "cobre",
-   "grupo": null
-  },
-  "codemig": {
-   "nome": "Codemig",
-   "sigla": null,
-   "tipo": "orgao_externo",
-   "setor": null,
    "grupo": null
   },
   "colagem_extracao_de_areia": {
@@ -2746,22 +2690,15 @@
   },
   "companhia_de_ferro_ligas_da_bahia": {
    "nome": "Companhia de Ferro Ligas da Bahia",
-   "sigla": null,
+   "sigla": "FERBASA",
    "tipo": "mineradora",
-   "setor": null,
-   "grupo": null
+   "setor": "cromo",
+   "grupo": "Ferbasa"
   },
   "companhia_de_mineracao_serra_azul": {
    "nome": "Companhia de Mineração Serra Azul",
    "sigla": null,
    "tipo": "mineradora",
-   "setor": null,
-   "grupo": null
-  },
-  "companhia_de_pesquisa_de_recursos_minerais": {
-   "nome": "Companhia de Pesquisa de Recursos Minerais",
-   "sigla": "CPRM",
-   "tipo": "orgao_externo",
    "setor": null,
    "grupo": null
   },
@@ -2794,7 +2731,7 @@
    "grupo": null
   },
   "companhia_mineira_de_diamantes": {
-   "nome": "Companhia Mineira de Diamantes S.A",
+   "nome": "Companhia Mineira de Diamantes S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "diamante",
@@ -2822,7 +2759,7 @@
    "grupo": null
   },
   "companhia_paranaense_de_construcao": {
-   "nome": "Companhia Paranaense de Construção S.A",
+   "nome": "Companhia Paranaense de Construção S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -2906,7 +2843,7 @@
    "grupo": null
   },
   "construtora_sultepa": {
-   "nome": "Construtora Sultepa S.A",
+   "nome": "Construtora Sultepa S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -2943,7 +2880,7 @@
   "cooperativa_agropecuaria_de_tubarao": {
    "nome": "Cooperativa Agropecuária de Tubarão",
    "sigla": null,
-   "tipo": "cooperativa_garimpeira",
+   "tipo": "outro",
    "setor": "agregados",
    "grupo": null
   },
@@ -3073,13 +3010,6 @@
    "setor": null,
    "grupo": null
   },
-  "cooperativa_dos_garimpeiros_do_centro_leste_de_minas_gerais": {
-   "nome": "Cooperativa dos Garimpeiros do Centro-Leste de Minas Gerais",
-   "sigla": null,
-   "tipo": "cooperativa_garimpeira",
-   "setor": null,
-   "grupo": null
-  },
   "cooperativa_dos_mineradores": {
    "nome": "Cooperativa dos Mineradores",
    "sigla": "Comcol",
@@ -3136,23 +3066,9 @@
    "setor": null,
    "grupo": null
   },
-  "cooperativa_garimpeira_santa_cruz": {
-   "nome": "Cooperativa Garimpeira Santa Cruz",
-   "sigla": null,
-   "tipo": "cooperativa_garimpeira",
-   "setor": null,
-   "grupo": null
-  },
   "cooperativa_mineradora_de_ariquemes": {
    "nome": "Cooperativa Mineradora de Ariquemes",
    "sigla": null,
-   "tipo": "cooperativa_garimpeira",
-   "setor": null,
-   "grupo": null
-  },
-  "cooperativa_mista_de_garimpeiros_do_centro_oeste_de_minas_ge": {
-   "nome": "Cooperativa Mista de Garimpeiros do Centro-Oeste de Minas Gerais",
-   "sigla": "Coogemig",
    "tipo": "cooperativa_garimpeira",
    "setor": null,
    "grupo": null
@@ -3270,8 +3186,8 @@
    "grupo": null
   },
   "cprm": {
-   "nome": "CPRM",
-   "sigla": null,
+   "nome": "Serviço Geológico do Brasil (CPRM)",
+   "sigla": "CPRM",
    "tipo": "orgao_externo",
    "setor": null,
    "grupo": null
@@ -3291,7 +3207,7 @@
    "grupo": null
   },
   "crh_cantagalo_industria_de_cimentos": {
-   "nome": "CRH Cantagalo Indústria de Cimentos S.A",
+   "nome": "CRH Cantagalo Indústria de Cimentos S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "cimento",
@@ -3347,7 +3263,7 @@
    "grupo": null
   },
   "csn_cimentos_brasil": {
-   "nome": "CSN Cimentos Brasil S.A",
+   "nome": "CSN Cimentos Brasil S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "cimento",
@@ -3577,20 +3493,6 @@
    "setor": "diamante",
    "grupo": null
   },
-  "diamonds": {
-   "nome": "Diamonds",
-   "sigla": null,
-   "tipo": "outro",
-   "setor": null,
-   "grupo": null
-  },
-  "dias": {
-   "nome": "Dias",
-   "sigla": null,
-   "tipo": "outro",
-   "setor": null,
-   "grupo": null
-  },
   "diatomita_do_brasil_industria_e_comercio_de_minerios": {
    "nome": "Diatomita do Brasil Indústria e Comércio de Minérios",
    "sigla": null,
@@ -3634,8 +3536,8 @@
    "grupo": null
   },
   "dnocs_como_proprietario_do_imovel": {
-   "nome": "DNOCS como proprietário do imóvel",
-   "sigla": null,
+   "nome": "Departamento Nacional de Obras Contra as Secas",
+   "sigla": "DNOCS",
    "tipo": "orgao_externo",
    "setor": null,
    "grupo": null
@@ -3685,7 +3587,7 @@
   "dow_brasil_industria_e_comercio_de_produtos_quimicos": {
    "nome": "Dow Brasil Indústria e Comércio de Produtos Químicos Ltda",
    "sigla": null,
-   "tipo": "mineradora",
+   "tipo": "outro",
    "setor": null,
    "grupo": "Dow"
   },
@@ -3823,14 +3725,14 @@
    "grupo": null
   },
   "elastico_engenharia": {
-   "nome": "Elástico Engenharia S.A",
+   "nome": "Elástico Engenharia S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
    "grupo": null
   },
   "elastri_engenharia": {
-   "nome": "Elastri Engenharia S.A",
+   "nome": "Elastri Engenharia S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -3956,7 +3858,7 @@
    "grupo": null
   },
   "empresa_de_mineracao_esperanca": {
-   "nome": "Empresa de Mineração Esperança S.A",
+   "nome": "Empresa de Mineração Esperança S.A.",
    "sigla": "EMESA",
    "tipo": "mineradora",
    "setor": null,
@@ -4277,29 +4179,8 @@
    "setor": null,
    "grupo": null
   },
-  "fabiano": {
-   "nome": "Fabiano",
-   "sigla": null,
-   "tipo": "outro",
-   "setor": null,
-   "grupo": null
-  },
-  "fabiano_clauber_de_agoni_e_rtb_geologia_e_mineracao": {
-   "nome": "Fabiano Clauber de Agoni e RTB Geologia e Mineração Ltda",
-   "sigla": null,
-   "tipo": "mineradora",
-   "setor": "fosfato",
-   "grupo": null
-  },
   "fabiano_clauber_diagoni": {
-   "nome": "Fabiano Clauber Diagoni",
-   "sigla": null,
-   "tipo": "pessoa_fisica",
-   "setor": null,
-   "grupo": null
-  },
-  "fabiano_glauber_de_agoni": {
-   "nome": "Fabiano Glauber de Agoni",
+   "nome": "Fabiano Clauber (Glauber) de Agoni",
    "sigla": null,
    "tipo": "pessoa_fisica",
    "setor": "fosfato",
@@ -4309,13 +4190,6 @@
    "nome": "Fabiano Sec",
    "sigla": null,
    "tipo": "pessoa_fisica",
-   "setor": null,
-   "grupo": null
-  },
-  "fabio": {
-   "nome": "Fábio",
-   "sigla": null,
-   "tipo": "outro",
    "setor": null,
    "grupo": null
   },
@@ -4341,7 +4215,7 @@
    "grupo": null
   },
   "fairy_gold_mineradora": {
-   "nome": "Fairy Gold Mineradora S.A",
+   "nome": "Fairy Gold Mineradora S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "ouro",
@@ -4355,7 +4229,7 @@
    "grupo": null
   },
   "fantin_cimentos_brasil": {
-   "nome": "Fantin Cimentos Brasil S.A",
+   "nome": "Fantin Cimentos Brasil S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "cimento",
@@ -4383,7 +4257,7 @@
    "grupo": null
   },
   "fazenda_ernani_viana": {
-   "nome": "Fazenda Ernani Viana S.A",
+   "nome": "Fazenda Ernani Viana S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -4449,7 +4323,7 @@
    "nome": "Ferbasa Ferro Ligas Ltda",
    "sigla": null,
    "tipo": "mineradora",
-   "setor": null,
+   "setor": "cromo",
    "grupo": "Ferbasa"
   },
   "ferlig_ferro": {
@@ -4501,22 +4375,15 @@
    "setor": null,
    "grupo": null
   },
-  "ferrous": {
-   "nome": "Ferrous",
-   "sigla": null,
-   "tipo": "mineradora",
-   "setor": "ferro",
-   "grupo": "Vale"
-  },
   "ferrous_resources_do_brasil": {
-   "nome": "Ferrous Resources do Brasil S.A",
+   "nome": "Ferrous Resources do Brasil S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "ferro",
    "grupo": "Vale"
   },
   "fides_gold_mineradora": {
-   "nome": "Fides Gold Mineradora S.A",
+   "nome": "Fides Gold Mineradora S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "ouro",
@@ -4533,13 +4400,6 @@
    "nome": "Filadelfo dos Reis Dias",
    "sigla": null,
    "tipo": "pessoa_fisica",
-   "setor": null,
-   "grupo": null
-  },
-  "flavio": {
-   "nome": "Flávio",
-   "sigla": null,
-   "tipo": "outro",
    "setor": null,
    "grupo": null
   },
@@ -4733,7 +4593,7 @@
    "grupo": null
   },
   "gbmax_mineracao": {
-   "nome": "GBMax Mineração S.A",
+   "nome": "GBMax Mineração S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -4852,7 +4712,7 @@
    "grupo": null
   },
   "gerdau_acominas": {
-   "nome": "Gerdau Açominas S.A",
+   "nome": "Gerdau Açominas S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -5034,7 +4894,7 @@
    "grupo": null
   },
   "gran_brasil_granitos_do_brasil": {
-   "nome": "Gran Brasil Granitos do Brasil S.A",
+   "nome": "Gran Brasil Granitos do Brasil S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "rochas ornamentais",
@@ -5251,14 +5111,14 @@
    "grupo": null
   },
   "guidon_brasil": {
-   "nome": "Guidon Brasil S.A",
+   "nome": "Guidon Brasil S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
    "grupo": null
   },
   "guidoni_brasil": {
-   "nome": "Guidoni Brasil S.A",
+   "nome": "Guidoni Brasil S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -5502,13 +5362,6 @@
    "setor": null,
    "grupo": null
   },
-  "ima_industria_de_madeira_imunizada_belo_horizonte": {
-   "nome": "IMA Indústria de Madeira Imunizada, Belo Horizonte",
-   "sigla": null,
-   "tipo": "outro",
-   "setor": null,
-   "grupo": null
-  },
   "imetame": {
    "nome": "Imetame",
    "sigla": null,
@@ -5678,7 +5531,7 @@
    "grupo": null
   },
   "infraestrutura_triunfo": {
-   "nome": "Infraestrutura Triunfo S.A",
+   "nome": "Infraestrutura Triunfo S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -5692,7 +5545,7 @@
    "grupo": "InterCement"
   },
   "intercept_brasil": {
-   "nome": "Intercept Brasil S.A",
+   "nome": "Intercept Brasil S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -5762,7 +5615,7 @@
    "grupo": null
   },
   "itapitanga_industria_de_cimentos_de_mato_grosso": {
-   "nome": "Itapitanga Indústria de Cimentos de Mato Grosso S.A",
+   "nome": "Itapitanga Indústria de Cimentos de Mato Grosso S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "cimento",
@@ -5916,14 +5769,7 @@
    "grupo": null
   },
   "jari_celulose": {
-   "nome": "Jari Celulose S.A",
-   "sigla": null,
-   "tipo": "outro",
-   "setor": null,
-   "grupo": null
-  },
-  "javali": {
-   "nome": "Javali",
+   "nome": "Jari Celulose S.A.",
    "sigla": null,
    "tipo": "outro",
    "setor": null,
@@ -6063,7 +5909,7 @@
    "grupo": null
   },
   "jmn_mineracao": {
-   "nome": "JMN Mineração S.A",
+   "nome": "JMN Mineração S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -6454,13 +6300,6 @@
    "setor": "ferro",
    "grupo": null
   },
-  "kaolin": {
-   "nome": "Kaolin",
-   "sigla": null,
-   "tipo": "outro",
-   "setor": "caulim",
-   "grupo": null
-  },
   "katia_da_costa": {
    "nome": "Kátia da Costa",
    "sigla": null,
@@ -6538,15 +6377,8 @@
    "setor": null,
    "grupo": null
   },
-  "lafarge_holcim_brasil": {
-   "nome": "Lafarge Holcim Brasil S.A",
-   "sigla": null,
-   "tipo": "mineradora",
-   "setor": "cimento",
-   "grupo": "Holcim"
-  },
   "lafargeholcim_brasil": {
-   "nome": "LafargeHolcim Brasil S.A",
+   "nome": "LafargeHolcim Brasil S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "cimento",
@@ -6672,7 +6504,7 @@
    "grupo": null
   },
   "libra_ligas_do_brasil": {
-   "nome": "Libra Ligas do Brasil S.A",
+   "nome": "Libra Ligas do Brasil S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -6686,7 +6518,7 @@
    "grupo": null
   },
   "ligas_de_aluminio": {
-   "nome": "Ligas de Alumínio S.A",
+   "nome": "Ligas de Alumínio S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "bauxita",
@@ -7057,7 +6889,7 @@
    "grupo": null
   },
   "marbrasa_marmores_e_granitos_do_brasil": {
-   "nome": "Marbrasa Mármores e Granitos do Brasil S.A",
+   "nome": "Marbrasa Mármores e Granitos do Brasil S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "rochas ornamentais",
@@ -7156,10 +6988,10 @@
   },
   "marcio_rezende_lima": {
    "nome": "Márcio Rezende Lima",
-   "sigla": "MBR",
+   "sigla": null,
    "tipo": "pessoa_fisica",
    "setor": "ferro",
-   "grupo": "Vale"
+   "grupo": null
   },
   "marco_antonio_tedesco": {
    "nome": "Marco Antônio Tedesco",
@@ -7267,7 +7099,7 @@
    "grupo": null
   },
   "maringa_ferro_liga": {
-   "nome": "Maringá Ferro-Liga S.A",
+   "nome": "Maringá Ferro-Liga S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "ferro",
@@ -7372,14 +7204,14 @@
    "grupo": null
   },
   "massa_guacu": {
-   "nome": "Massa Guaçu S.A",
+   "nome": "Massa Guaçu S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
    "grupo": null
   },
   "massaguacu": {
-   "nome": "Massaguaçu S.A",
+   "nome": "Massaguaçu S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -7645,7 +7477,7 @@
    "grupo": null
   },
   "mineracao_apoena": {
-   "nome": "Mineração Apoena S.A",
+   "nome": "Mineração Apoena S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "ouro",
@@ -7694,7 +7526,7 @@
    "grupo": null
   },
   "mineracao_autometal": {
-   "nome": "Mineração Autometal S.A",
+   "nome": "Mineração Autometal S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "ferro",
@@ -7708,7 +7540,7 @@
    "grupo": null
   },
   "mineracao_barreto": {
-   "nome": "Mineração Barreto S.A",
+   "nome": "Mineração Barreto S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -7785,7 +7617,7 @@
    "grupo": null
   },
   "mineracao_caraiba": {
-   "nome": "Mineração Caraíba S.A",
+   "nome": "Mineração Caraíba S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "cobre",
@@ -7834,7 +7666,7 @@
    "grupo": null
   },
   "mineracao_corumbaense_reunida": {
-   "nome": "Mineração Corumbaense Reunida S.A",
+   "nome": "Mineração Corumbaense Reunida S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -8191,7 +8023,7 @@
    "grupo": null
   },
   "mineracao_nacional": {
-   "nome": "Mineração Nacional S.A",
+   "nome": "Mineração Nacional S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -8233,7 +8065,7 @@
    "grupo": null
   },
   "mineracao_palestina": {
-   "nome": "Mineração Palestina S.A",
+   "nome": "Mineração Palestina S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -8254,10 +8086,10 @@
    "grupo": null
   },
   "mineracao_paragominas": {
-   "nome": "Mineração Paragominas S.A",
+   "nome": "Mineração Paragominas S.A.",
    "sigla": null,
    "tipo": "mineradora",
-   "setor": null,
+   "setor": "bauxita",
    "grupo": "Hydro"
   },
   "mineracao_pedra_do_cavalo": {
@@ -8324,10 +8156,10 @@
    "grupo": null
   },
   "mineracao_rio_do_norte": {
-   "nome": "Mineração Rio do Norte S.A",
+   "nome": "Mineração Rio do Norte S.A.",
    "sigla": "MRN",
    "tipo": "mineradora",
-   "setor": null,
+   "setor": "bauxita",
    "grupo": null
   },
   "mineracao_rio_do_ouro": {
@@ -8471,7 +8303,7 @@
    "grupo": null
   },
   "mineracao_taboca": {
-   "nome": "Mineração Taboca S.A",
+   "nome": "Mineração Taboca S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -8534,14 +8366,14 @@
    "grupo": null
   },
   "mineracao_usiminas": {
-   "nome": "Mineração Usiminas S.A",
+   "nome": "Mineração Usiminas S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "ferro",
    "grupo": "Usiminas"
   },
   "mineracao_usinas": {
-   "nome": "Mineração Usinas S.A",
+   "nome": "Mineração Usinas S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -8611,7 +8443,7 @@
    "grupo": null
   },
   "mineracoes_brasileiras_reunidas": {
-   "nome": "Minerações Brasileiras Reunidas S.A",
+   "nome": "Minerações Brasileiras Reunidas S.A.",
    "sigla": "MBR",
    "tipo": "mineradora",
    "setor": "ferro",
@@ -8730,7 +8562,7 @@
    "grupo": null
   },
   "minerios_nacional": {
-   "nome": "Minérios Nacional S.A",
+   "nome": "Minérios Nacional S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "ferro",
@@ -8820,18 +8652,11 @@
    "setor": "rochas ornamentais",
    "grupo": null
   },
-  "mosaic_fertilizantes": {
-   "nome": "Mosaic Fertilizantes",
+  "mosaic_fertilizantes_p_k": {
+   "nome": "Mosaic Fertilizantes P&K S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "fosfato",
-   "grupo": "Mosaic"
-  },
-  "mosaic_fertilizantes_p_k": {
-   "nome": "Mosaic Fertilizantes P&K S.A",
-   "sigla": null,
-   "tipo": "mineradora",
-   "setor": "potássio",
    "grupo": "Mosaic"
   },
   "mosaic_potassio_mineracao": {
@@ -8919,7 +8744,7 @@
    "grupo": null
   },
   "municipios_recorrentes_21_recursos_entre_eles_pedra_branca": {
-   "nome": "Municípios recorrentes (21 recursos, entre eles Pedra Branca",
+   "nome": "Município de Pedra Branca (PB)",
    "sigla": null,
    "tipo": "municipio_estado",
    "setor": null,
@@ -8988,29 +8813,15 @@
    "setor": null,
    "grupo": null
   },
-  "nexa": {
-   "nome": "Nexa",
-   "sigla": null,
-   "tipo": "mineradora",
-   "setor": "zinco",
-   "grupo": "Nexa"
-  },
   "nexa_recursos_minerais": {
-   "nome": "Nexa Recursos Minerais S.A",
-   "sigla": null,
-   "tipo": "mineradora",
-   "setor": "zinco",
-   "grupo": "Nexa"
-  },
-  "nexa_resources": {
-   "nome": "Nexa Resources",
+   "nome": "Nexa Recursos Minerais S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "zinco",
    "grupo": "Nexa"
   },
   "nexus_manganes": {
-   "nome": "Nexus Manganês S.A",
+   "nome": "Nexus Manganês S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "manganês",
@@ -9059,14 +8870,14 @@
    "grupo": null
   },
   "nomix_concreto": {
-   "nome": "Nomix Concreto S.A",
+   "nome": "Nomix Concreto S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "agregados",
    "grupo": null
   },
   "norte_transmissao_de_energia": {
-   "nome": "Norte Transmissão de Energia S.A",
+   "nome": "Norte Transmissão de Energia S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -9087,7 +8898,7 @@
    "grupo": null
   },
   "nova_prospera_mineracao": {
-   "nome": "Nova Próspera Mineração S.A",
+   "nome": "Nova Próspera Mineração S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -9269,7 +9080,7 @@
    "grupo": null
   },
   "passagem_mineracao": {
-   "nome": "Passagem Mineração S.A",
+   "nome": "Passagem Mineração S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -9283,7 +9094,7 @@
    "grupo": null
   },
   "patrimonial_coqueiro_grande": {
-   "nome": "Patrimonial Coqueiro Grande S.A",
+   "nome": "Patrimonial Coqueiro Grande S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -9990,7 +9801,7 @@
    "grupo": null
   },
   "refratarios_do_nordeste": {
-   "nome": "Refratários do Nordeste S.A",
+   "nome": "Refratários do Nordeste S.A.",
    "sigla": "Refranor",
    "tipo": "mineradora",
    "setor": null,
@@ -10109,7 +9920,7 @@
    "grupo": null
   },
   "rima_industrial": {
-   "nome": "Rima Industrial S.A",
+   "nome": "Rima Industrial S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "quartzo",
@@ -10234,13 +10045,6 @@
    "setor": "rochas ornamentais",
    "grupo": null
   },
-  "rodrigo": {
-   "nome": "Rodrigo",
-   "sigla": null,
-   "tipo": "outro",
-   "setor": null,
-   "grupo": null
-  },
   "rodrigo_andrade_valadares": {
    "nome": "Rodrigo Andrade Valadares",
    "sigla": null,
@@ -10297,24 +10101,10 @@
    "setor": null,
    "grupo": null
   },
-  "romualdo": {
-   "nome": "Romualdo",
-   "sigla": null,
-   "tipo": "outro",
-   "setor": "rochas ornamentais",
-   "grupo": null
-  },
   "romulo_jose_medeiros_de_brito": {
    "nome": "Rômulo José Medeiros de Brito",
    "sigla": null,
    "tipo": "pessoa_fisica",
-   "setor": null,
-   "grupo": null
-  },
-  "rosania": {
-   "nome": "Rosânia",
-   "sigla": null,
-   "tipo": "outro",
    "setor": null,
    "grupo": null
   },
@@ -10444,13 +10234,6 @@
    "setor": null,
    "grupo": null
   },
-  "salet": {
-   "nome": "Salet",
-   "sigla": null,
-   "tipo": "outro",
-   "setor": null,
-   "grupo": null
-  },
   "salioni_engenharia_industria_e_comercio": {
    "nome": "Salioni Engenharia Indústria e Comércio",
    "sigla": null,
@@ -10462,8 +10245,8 @@
    "nome": "Salobo Metais",
    "sigla": null,
    "tipo": "mineradora",
-   "setor": null,
-   "grupo": null
+   "setor": "cobre",
+   "grupo": "Vale"
   },
   "salvador_alves_de_brito": {
    "nome": "Salvador Alves de Brito",
@@ -10473,14 +10256,14 @@
    "grupo": null
   },
   "samarco_mineracao": {
-   "nome": "Samarco Mineração S.A",
+   "nome": "Samarco Mineração S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "ferro",
    "grupo": "Samarco"
   },
   "samel_e_metalmig_mineracao_industria_e_comercio": {
-   "nome": "Samel e Metalmig Mineração Indústria e Comércio S.A",
+   "nome": "Samel e Metalmig Mineração Indústria e Comércio S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -10641,7 +10424,7 @@
    "grupo": null
   },
   "seano_plan": {
-   "nome": "Seano Plan S.A",
+   "nome": "Seano Plan S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -10704,7 +10487,7 @@
    "grupo": null
   },
   "serabi_mineracao": {
-   "nome": "Serabi Mineração S.A",
+   "nome": "Serabi Mineração S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "ouro",
@@ -10714,13 +10497,6 @@
    "nome": "Serej Comércio e Indústria Ltda",
    "sigla": null,
    "tipo": "mineradora",
-   "setor": null,
-   "grupo": null
-  },
-  "sergio": {
-   "nome": "Sérgio",
-   "sigla": null,
-   "tipo": "outro",
    "setor": null,
    "grupo": null
   },
@@ -10808,13 +10584,6 @@
    "setor": "rochas ornamentais",
    "grupo": null
   },
-  "servico_geologico_do_brasil": {
-   "nome": "Serviço Geológico do Brasil",
-   "sigla": "CPRM",
-   "tipo": "orgao_externo",
-   "setor": null,
-   "grupo": null
-  },
   "servix": {
    "nome": "Servix",
    "sigla": null,
@@ -10882,7 +10651,7 @@
    "nome": "Slipstream Participações",
    "sigla": null,
    "tipo": "mineradora",
-   "setor": null,
+   "setor": "lítio",
    "grupo": null
   },
   "sm5_participacao": {
@@ -11005,7 +10774,7 @@
    "grupo": null
   },
   "stanium_de_rondonia": {
-   "nome": "Stanium de Rondônia S.A",
+   "nome": "Stanium de Rondônia S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "estanho",
@@ -11033,7 +10802,7 @@
    "grupo": null
   },
   "sul_americana_de_metais": {
-   "nome": "Sul Americana de Metais S.A",
+   "nome": "Sul Americana de Metais S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -11117,7 +10886,7 @@
    "grupo": null
   },
   "tapetinga_agroindustrial": {
-   "nome": "Tapetinga Agroindustrial S.A",
+   "nome": "Tapetinga Agroindustrial S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -11205,13 +10974,6 @@
    "sigla": null,
    "tipo": "mineradora",
    "setor": "agregados",
-   "grupo": null
-  },
-  "terezinha": {
-   "nome": "Terezinha",
-   "sigla": null,
-   "tipo": "outro",
-   "setor": null,
    "grupo": null
   },
   "terra_goiana_mineradora": {
@@ -11341,7 +11103,7 @@
    "grupo": null
   },
   "toniolo_busnello": {
-   "nome": "Toniolo, Busnello S.A",
+   "nome": "Toniolo, Busnello S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -11425,7 +11187,7 @@
    "grupo": null
   },
   "tronox_pigmentos_brasil": {
-   "nome": "Tronox Pigmentos Brasil S.A",
+   "nome": "Tronox Pigmentos Brasil S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "ilmenita/titânio",
@@ -11439,7 +11201,7 @@
    "grupo": null
   },
   "twb_mineracao": {
-   "nome": "TWB Mineração S.A",
+   "nome": "TWB Mineração S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -11453,7 +11215,7 @@
    "grupo": null
   },
   "uniao_bocage_participacao_e_administracao": {
-   "nome": "União Bocage Participação e Administração S.A",
+   "nome": "União Bocage Participação e Administração S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -11523,7 +11285,7 @@
    "grupo": null
   },
   "val_vale_mineracao": {
-   "nome": "Val Vale Mineração S.A",
+   "nome": "Val Vale Mineração S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -11565,7 +11327,7 @@
    "grupo": null
   },
   "vale": {
-   "nome": "Vale S.A",
+   "nome": "Vale S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "ferro",
@@ -11586,14 +11348,14 @@
    "grupo": "Vale"
   },
   "vale_fosfatados": {
-   "nome": "Vale Fosfatados S.A",
+   "nome": "Vale Fosfatados S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "fosfato",
    "grupo": "Vale"
   },
   "vale_manganes": {
-   "nome": "Vale Manganês S.A",
+   "nome": "Vale Manganês S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "manganês",
@@ -11610,13 +11372,6 @@
    "nome": "Valpa Mineração e Terraplanagem Ltda. EPP",
    "sigla": null,
    "tipo": "mineradora",
-   "setor": null,
-   "grupo": null
-  },
-  "vanda": {
-   "nome": "Vanda",
-   "sigla": null,
-   "tipo": "outro",
    "setor": null,
    "grupo": null
   },
@@ -11754,7 +11509,7 @@
    "grupo": null
   },
   "vila_rica_mineracao": {
-   "nome": "Vila Rica Mineração S.A",
+   "nome": "Vila Rica Mineração S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -11838,14 +11593,7 @@
    "grupo": "Votorantim"
   },
   "votorantim_cimentos": {
-   "nome": "Votorantim Cimentos S.A",
-   "sigla": null,
-   "tipo": "mineradora",
-   "setor": "cimento",
-   "grupo": "Votorantim"
-  },
-  "votorantim_cimentos_n": {
-   "nome": "Votorantim Cimentos N",
+   "nome": "Votorantim Cimentos S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "cimento",
@@ -11866,7 +11614,7 @@
    "grupo": null
   },
   "w2w_e_commerce_de_vinhos": {
-   "nome": "W2W E-commerce de Vinhos S.A",
+   "nome": "W2W E-commerce de Vinhos S.A.",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -11922,16 +11670,9 @@
    "grupo": null
   },
   "welfare_ambiental": {
-   "nome": "Welfare Ambiental S.A",
+   "nome": "Welfare Ambiental S.A.",
    "sigla": null,
    "tipo": "mineradora",
-   "setor": null,
-   "grupo": null
-  },
-  "wellington": {
-   "nome": "Wellington",
-   "sigla": null,
-   "tipo": "outro",
    "setor": null,
    "grupo": null
   },
@@ -12201,10 +11942,10 @@
   "Jesus Roque Viana (ES)": "jesus_roque_viana",
   "Desmoulins Wanderley de Farias Sobrinho; Gosma Maracajá Lacerda; Jerry Adriano Batista Silva; Siloé Benjamim dos Santos; Darci Ferreira Pinto Júnior": "desmoulins_wanderley_de_farias_sobrinho",
   "Jazida Águas Claras (nome incerto)": "jazida_aguas_claras",
-  "Terezinha (nome incerto); Bianca Extração de Areia; Mapa Comércio; Britacal Brasília (3 processos); Multigranitos S.A.": "terezinha",
+  "Terezinha (nome incerto); Bianca Extração de Areia; Mapa Comércio; Britacal Brasília (3 processos); Multigranitos S.A.": null,
   "Calcário Andreazza; Safira Mina e Stone": "calcario_andreazza",
   "Mineração Joia Rara (gipsita); empresa de manganês; Minerales Capital (rocha potássica); MDL Mineração (quartzo); Scorpion Mineração (manganês); Mármores e Granitos Henrique": "mineracao_joia_rara",
-  "Rosânia (nome incerto) (Diamantina-MG)": "rosania",
+  "Rosânia (nome incerto) (Diamantina-MG)": null,
   "Mineração JL (SC)": "mineracao_jl",
   "Companhia de Cimento Campeão Alvorada (nome incerto; legenda também cita Sudeste Indústria de Cimentos) (Cantagalo-RJ)": "companhia_de_cimento_campeao_alvorada",
   "ANM (Superintendência de Regulação Econômica e Governança Regulatória)": "anm_srg",
@@ -12433,7 +12174,7 @@
   "Jaime Vicente Valadares (MT)": "jaime_vicente_valadares",
   "Porto de Areia São Geraldo (MG)": "porto_de_areia_sao_geraldo",
   "Sócrates Potiguara Imóveis e Mineração; recorrente Milton Carlos Bonato": "socrates_potiguara_imoveis_e_mineracao",
-  "Rodrigo (sobrenome ilegível) (BA)": "rodrigo",
+  "Rodrigo (sobrenome ilegível) (BA)": null,
   "Bonato (nome incerto); Mineração Grajumar; Companhia de Agregados Leves do Pará e outros": "bonato",
   "Cooperativa Estanífera de Mineradores da Amazônia (mina Massangana, RO)": "cooperativa_estanifera_de_mineradores_da_amazonia",
   "Cooperativa de Desenvolvimento Mineral de Nossa Senhora do Livramento (Poconé-MT)": "cooperativa_de_desenvolvimento_mineral_de_nossa_senhora_do_l",
@@ -12442,7 +12183,7 @@
   "Vale S.A. (mina de Ouro Fino, sucessora de Minas da Serra Geral)": "vale",
   "Kinross (Rio Paracatu Mineração)": "kinross",
   "Vale S.A. (Companhia Vale do Rio Doce)": "vale",
-  "Ciplan – Cimento Planalto S.A.": "cimento_planalto",
+  "Ciplan – Cimento Planalto S.A.": "ciplan_cimento_planalto",
   "CADAM S.A. (grupo Vale)": "cadam",
   "ANM (SPR)": "anm_spr",
   "Vale S.A. (complexo Itabira)": "vale",
@@ -12474,7 +12215,7 @@
   "Heloísa Camargo (empresa)": "heloisa_camargo",
   "Ferramar Indústria e Comércio Ltda.": "ferramar_industria_e_comercio",
   "diversos (MT, MG, PA, RJ, ES, TO)": null,
-  "Coogemig — Cooperativa Mista de Garimpeiros do Centro-Oeste de Minas Gerais (grafia incerta)": "cooperativa_mista_de_garimpeiros_do_centro_oeste_de_minas_ge",
+  "Coogemig — Cooperativa Mista de Garimpeiros do Centro-Oeste de Minas Gerais (grafia incerta)": "cooperativa_mista_dos_garimpeiros_do_centro_leste_de_minas_g",
   "Água Mineral São Roque Ltda.": "agua_mineral_sao_roque",
   "Granitos Criciúma Ltda. (MG)": "granitos_criciuma",
   "Val Vale Mineração S.A. (direitos arrendados à Vale, mina de Água Limpa, MG)": "val_vale_mineracao",
@@ -12482,7 +12223,7 @@
   "Glencore Exploração Mineral do Brasil Ltda. vs. Vale S.A. (Carajás, PA — cobre)": "glencore_exploracao_mineral_do_brasil",
   "Mineração Apolônio Zenaide Ltda. (grafia incerta)": "mineracao_apolonio_zenaide",
   "diversos (Cemisil Cerâmica e Mineração Silva, Areal Caxambu e outros)": null,
-  "Ferrous (grafia incerta)": "ferrous",
+  "Ferrous (grafia incerta)": "ferrous_resources_do_brasil",
   "... Stone Mineração do Brasil (minério de ferro)": null,
   "Comercial de Areias JK; Vulcão Minérios; Luiz Carlos Garcez Costa; Wilson Rezende de Lima; outro": "comercial_de_areias_jk",
   "Cooperativa de pequenos garimpeiros (nome incompleto)": "cooperativa_de_pequenos_garimpeiros",
@@ -12494,7 +12235,7 @@
   "Transportes e Basalto Romanzini Ltda. (Nova Prata, RS)": "transportes_e_basalto_romanzini",
   "José dos Passos Lima (Monte Alegre de Goiás)": "jose_dos_passos_lima",
   "Mineração União Brasileira (grafia incerta); AngloGold Ashanti (grafia incerta)": "uniao_mineracao",
-  "CBA (Companhia Brasileira de ... ), Alto Liberdade Mármores e Granitos Eireli, Itamármore Empresa de Mineração Ltda. (ES)": "cba",
+  "CBA (Companhia Brasileira de ... ), Alto Liberdade Mármores e Granitos Eireli, Itamármore Empresa de Mineração Ltda. (ES)": "companhia_brasileira_de_aluminio",
   "InterCement Brasil (GO, argila)": "intercement_brasil",
   "... Mineradora Comércio e Extração de Minério Eireli (MT)": null,
   "Fazendão Indústria de Mineração Ltda. (Natividade, TO)": "fazendao_industria_de_mineracao",
@@ -12566,7 +12307,7 @@
   "Saint-Gobain do Brasil Produtos Industriais para Construção Ltda.": "saint_gobain_do_brasil_produtos_industriais_para_construcao",
   "GR Mineradora de Areia (nome incerto)": "gr_mineradora_de_areia",
   "OR Explore de Minério de Ferro e Manganês em Minas Gerais Ltda. (nome incerto)": "or_explore_de_minerio_de_ferro_e_manganes_em_minas_gerais",
-  "Mosaic Fertilizantes / Potássio Mineração (arrendada da Petrobras; nome incerto)": "mosaic_fertilizantes",
+  "Mosaic Fertilizantes / Potássio Mineração (arrendada da Petrobras; nome incerto)": "mosaic_fertilizantes_p_k",
   "José Maria Otávio Marins Duarte (nome incerto)": "jose_maria_otavio_marins_duarte",
   "Cooperativa Mista dos Garimpeiros do Centro-Leste de Minas Gerais (Coogemig; grafia incerta)": "cooperativa_mista_dos_garimpeiros_do_centro_leste_de_minas_g",
   "Rodrigo Lemos Ribeiro (nome incerto)": "rodrigo_lemos_ribeiro",
@@ -12591,7 +12332,7 @@
   "Geosul Indústria de Gesso (gipsita, Grajaú-MA); Fernando Ribeiro Franco Neto; Areal Quadra H (ouro e areia, Morretes/Antonina-PR)": "geosul_industria_de_gesso",
   "Irineu Brustolin": "irineu_brustolin",
   "Mineração Portobello Ltda. (controlada ~99% pela Portobello S.A.; Tijucas-SC)": "mineracao_portobello",
-  "Centrais Elétricas (nome incerto; RO)": "centrais_eletricas",
+  "Centrais Elétricas (nome incerto; RO)": null,
   "Fátima Maria Silva Caetano; Márcia Biasi; Draga Paraguaçu; Indústria de Artefatos de Cimento do Norte (grafias incertas)": "fatima_maria_silva_caetano",
   "Mineradora Santana da Prata; DJFP Areia e Cascalho (grafias incertas)": "mineradora_santana_da_prata",
   "Edi Fernandes Areal (grafia incerta)": "edi_fernandes_areal",
@@ -12617,7 +12358,7 @@
   "titular não identificado (área em assentamento do Incra)": null,
   "Areal do Velho (manganês, São João d’Aliança-GO; nome incerto)": "areal_do_velho",
   "Kleriston José dos Santos Rocha": "kleriston_jose_dos_santos_rocha",
-  "Wellington (sobrenome incerto)": "wellington",
+  "Wellington (sobrenome incerto)": null,
   "Mineração Antena Dourada (grafia incerta)": "mineracao_antena_dourada",
   "Laje de Mineração (grafia incerta)": "laje_de_mineracao",
   "Vale S.A. (complexo Córrego do Feijão, Brumadinho)": "vale",
@@ -12679,14 +12420,14 @@
   "Mineração Fischer Eireli (ES, granito)": "mineracao_fischer",
   "Mineração Paragominas S.A. (bauxita, PA)": "mineracao_paragominas",
   "Extração e Transporte de Areia Vale do Tijuco (MG) — advogado José Gabriel dispensou sustentação": "extracao_e_transporte_de_areia_vale_do_tijuco",
-  "Votorantim Cimentos N/NE S.A. (Sobral, CE — argila)": "votorantim_cimentos_n",
+  "Votorantim Cimentos N/NE S.A. (Sobral, CE — argila)": "votorantim_cimentos",
   "Companhia Brasileira de Alumínio (CBA) (bauxita, Descoberto-MG) — advogado Guilherme Cezaroti": "companhia_brasileira_de_aluminio",
   "MAGG Serviços e Mineração (RN; grafia incerta) — advogado Danilo Soares": "magg_servicos_e_mineracao",
   "Companhia Baiana de Pesquisa Mineral (CBPM)": "companhia_baiana_de_pesquisa_mineral",
   "Jorge Bobato Jr. ME, Mineração Rio do Vale, Saint-Gobain do Brasil, Unimin do Brasil e outros": "jorge_bobato_jr",
   "Secretaria de Infraestrutura e Obras do Estado do Rio de Janeiro": "secretaria_de_infraestrutura_e_obras_do_estado_do_rio_de_jan",
   "W2W E-commerce de Vinhos S.A.": "w2w_e_commerce_de_vinhos",
-  "Mosaic Fertilizantes (grafia incerta)": "mosaic_fertilizantes",
+  "Mosaic Fertilizantes (grafia incerta)": "mosaic_fertilizantes_p_k",
   "Santini Bergamasco, Vetor Plásticos, BR Extração de Areia, Rosivan Mineração": "santini_bergamasco",
   "GR Extração de Areia e Transportes Rodoviários Ltda.": "gr_extracao_de_areia_e_transportes_rodoviarios",
   "TPG Tecnologia de Produção de Gusa vs. Construtora e Dragagem Paraopeba": "tpg_tecnologia_de_producao_de_gusa",
@@ -12705,7 +12446,7 @@
   "Mineradora ... (grafia incerta)": null,
   "diversos (Nemer Mármore e Granito, cooperativas de carvão de Criciúma, Cajugram, Cerâmica Safran e outros)": null,
   "Espólio de Osíris ... (Poconé, MT)": "espolio_de_osiris",
-  "Serviço Geológico do Brasil (CPRM) / requerente de areia": "servico_geologico_do_brasil",
+  "Serviço Geológico do Brasil (CPRM) / requerente de areia": "cprm",
   "Coban — cooperativa (Vale do Jaguaribe, CE); Pri Mineração (PB/RN)": "coban",
   "Agropecuária Céu Azul; Antônio Clécio Alves Bezerra; Antônio Carlos Chaves; Cerâmica Bradefi": "agropecuaria_ceu_azul",
   "... Extração Minerais": null,
@@ -12725,7 +12466,7 @@
   "Lei de Monteiro Bastos ME; AR Pedra Borlini Ltda.; Ecostone Mineração Ltda. (grafias incertas)": "lei_de_monteiro_bastos",
   "Ministério Público Federal (Porto Alegre); SEMA-RS": "ministerio_publico_federal",
   "Carbonífera Belluno (grafia incerta)": "carbonifera_belluno",
-  "Cooperativa Garimpeira Santa Cruz / Coopersanta (grafia incerta), RO": "cooperativa_garimpeira_santa_cruz",
+  "Cooperativa Garimpeira Santa Cruz / Coopersanta (grafia incerta), RO": "cooperativa_dos_garimpeiros_de_santa_cruz",
   "Cooperativa Garimpeira do Estado de Rondônia": "cooperativa_garimpeira_do_estado_de_rondonia",
   "Calcário Vale do Araguaia Ltda. (MT)": "calcario_vale_do_araguaia",
   "Carlos José do Nascimento": "carlos_jose_do_nascimento",
@@ -12754,7 +12495,7 @@
   "Cerâmica Águas Belas Ltda": "ceramica_aguas_belas",
   "Vermelhão Mineração Indústria e Comércio Ltda": "vermelhao_mineracao_industria_e_comercio",
   "Minas Mineração Ltda": null,
-  "Kaolin (nome incerto)": "kaolin",
+  "Kaolin (nome incerto)": null,
   "Antônio Edison Beroma Júnior (nome incerto)": "antonio_edison_beroma_junior",
   "Agrícola Rio Pardo Ltda": "agricola_rio_pardo",
   "Cotrel Terraplenagem e Pavimentação Ltda e Construtora Continental de São Paulo Ltda": "cotrel_terraplenagem_e_pavimentacao",
@@ -12946,7 +12687,7 @@
   "não citado (ES)": null,
   "não citado; DNOCS como proprietário do imóvel": "dnocs_como_proprietario_do_imovel",
   "TP Prêmio (Ter Prêmio) Participações Imobiliárias (arrematante); CMOC Brasil Mineração (grafia «semoc»)": "tp_premio_participacoes_imobiliarias",
-  "Nexa e outras": "nexa",
+  "Nexa e outras": "nexa_recursos_minerais",
   "Márcio da Silveira Barcelos": "marcio_da_silveira_barcelos",
   "Samita (grafia incerta) Consultoria": "samita_consultoria",
   "C C Minerador de Areia Ltda (grafia incerta)": "c_c_minerador_de_areia",
@@ -12957,7 +12698,7 @@
   "Griner (grafia incerta) Mineração e Transporte Ltda; prioritária CFIP Indústria e Comércio de Cal Ltda (grafia incerta)": "griner_mineracao_e_transporte",
   "Agostinho Cipriano; Mineração Império Extração e Beneficiamento Ltda": "agostinho_cipriano",
   "Itinga Mineração Ltda": "itinga_mineracao",
-  "Flávio (sobrenome incerto)": "flavio",
+  "Flávio (sobrenome incerto)": null,
   "(nome incerto) de Souza Martins": null,
   "Extrativa Ltda (ex-GR Amorim Minerais) x Mineração Aliança Ltda": "extrativa",
   "Mineração Rio Claro Ltda": "mineracao_rio_claro",
@@ -12986,7 +12727,7 @@
   "Massaguaçu S.A.": "massaguacu",
   "Mineração Buritirama; GR Amorim Minerais; XTZ Minerium (ex-Quanta Mineral); Mineração Santa Elina; SM5 Participações": "buritirama_mineracao",
   "Braskem": "braskem",
-  "Cooperativa dos Garimpeiros do Centro-Leste de Minas Gerais (Coogemig; grafia incerta) — garimpo de esmeraldas de Capoeirana, Itabira/Nova Era-MG": "cooperativa_dos_garimpeiros_do_centro_leste_de_minas_gerais",
+  "Cooperativa dos Garimpeiros do Centro-Leste de Minas Gerais (Coogemig; grafia incerta) — garimpo de esmeraldas de Capoeirana, Itabira/Nova Era-MG": "cooperativa_mista_dos_garimpeiros_do_centro_leste_de_minas_g",
   "pessoas físicas cessionárias de alvará": null,
   "Incorpore Indústria e Comércio (grafia incerta)": "incorpore",
   "Marl Maria Gomes Fernandes ME (grafia incerta)": "marli_maria_gomes_fernandes",
@@ -13009,7 +12750,7 @@
   "titular (Formigueiro e Restinga Seca-RS)": null,
   "titular de registro de licença de granito": null,
   "Dangel (grafia incerta); sustentação oral de Carlos Alberto Lacerda": "dangel",
-  "Ciplan (carbonatos/calcário, GO)": "ciplan",
+  "Ciplan (carbonatos/calcário, GO)": "ciplan_cimento_planalto",
   "Agência Nacional de Mineração (GT Sanções); manifestação do Ibram (Cíntia Rodrigues)": "anm",
   "Luz Mineração Ltda. (adv. Alexandre Vidigal); Avanco Resources Mineração (adv. Samanta Monteiro); Ferro Brasil Mineração (adv. Isabela Mattar)": "luz_mineracao",
   "Ferro Brasil Mineração Ltda. (adv. Isabela Mattar); Luz Mineração Ltda. (adv. Alexandre Vidigal); Avanco (adv. Samanta Monteiro)": "ferro_brasil_mineracao",
@@ -13045,7 +12786,7 @@
   "Samarco Mineração S.A. (Ouro Preto e Mariana/MG); sustentação oral do advogado André Bins": "samarco_mineracao",
   "Ambientais Mineração ME; 27 titulares de lavra; Calcário Diamante, Mineração Serra Grande (prata?), outros; Owens? do Brasil (retificação); Everest Mineração, Globest e outros (caducidade); Mineração Vale do Araguaia; LGS Extração e Comércio de Areia; CPRM": "ambientais_mineracao",
   "Cooperativa Agropecuária de Tubarão (saibro, 154 mil t/ano); empresa de material de construção (cascalho e seixos, 20.400 t/ano); Votorantim Cimentos (14 processos de CFEM); Cícero... (cascalho e argila, GO); Aristeu Vieira Vilela Júnior e Raul Ardito Lerario; Mineração Vale do Rio Tijucas (Nival)": "cooperativa_agropecuaria_de_tubarao",
-  "Javali..., Itália Mineração e Transportes (nomes incertos), Mineração Vale Capivari, Mineração Juparaná, Vulcão Minérios, Ananias Pontes Lacerda Neto, Domingos Meirelles, Vale Fertilizantes (Sergipe), Cinética, Mineração Partezan, Moacir José da Silva e outros": "javali",
+  "Javali..., Itália Mineração e Transportes (nomes incertos), Mineração Vale Capivari, Mineração Juparaná, Vulcão Minérios, Ananias Pontes Lacerda Neto, Domingos Meirelles, Vale Fertilizantes (Sergipe), Cinética, Mineração Partezan, Moacir José da Silva e outros": null,
   "15 titulares de lavra (inclusive Samarco Revestimentos? e Itatinga Calcário); Votorantim Cimentos; MR Transporte, Ercal, Concretan, Madecon, cooperativa de garimpeiros de Santa Cruz e outros (CFEM); Cerâmica Safran; titular de 12 PLGs de ouro no Amazonas; Iracema Extração de Minérios; Orlando Cruzeiro Cardoso; Mineração Morro Velho": "votorantim_cimentos",
   "22 titulares de lavra (Extramix Concreto, Mineração Floresta de Guaíra, MRX Mineração, Pedreira Catedral e outros); Mata Grande Mineração; disputas de disponibilidade antiga (Jeová Engenharia x Rio Novo Mineração, ouro; Empresa Brasileira de Agregados Minerais, granito; Mineração Vale do Rio Tijucas; Gustavo Martins Rambo x Caltins)": "mata_grande_mineracao",
   "ANM (SRG)": "anm_srg",
@@ -13118,7 +12859,7 @@
   "Mineração Carpina": "mineracao_carpina",
   "Campinorte Mineração S.A.": "campinorte_mineracao",
   "Itatinga Calcário Corretivo (PR); Mineração Boa Vista (RN); CRL (PB)": "itatinga_calcario_corretivo",
-  "Romualdo (nome incerto) (granito, MG)": "romualdo",
+  "Romualdo (nome incerto) (granito, MG)": null,
   "Hipermix Brasil Serviço de Concretagem": "hipermix_brasil_servicos_de_concretagem",
   "Diego Alves Barbosa Campos; Mineradora JR (nome incerto)": "diego_alves_barbosa_campos",
   "Rob Mineração (incerto); Cooperativa de Exploração Mineral da Bacia do Rio Urussanga; Santa Maria Extração; Mineração Vitória; Irmãos Telma": "rob_mineracao",
@@ -13206,7 +12947,7 @@
   "Extração e Comércio de Areia São Pedro, Areia do Vale, Construtora e Dragagem Paraopeba, Eliane Revestimentos Cerâmicos, Hiperplan e outros": "pedreira_sao_pedro",
   "T3PM Extração de Minerais (microempresa), RJ": "t3pm_extracao_de_minerais",
   "Pedreira Emboaçica (nome incerto), RJ": "pedreira_emboacica",
-  "IMA Indústria de Madeira Imunizada, Belo Horizonte/MG": "ima_industria_de_madeira_imunizada_belo_horizonte",
+  "IMA Indústria de Madeira Imunizada, Belo Horizonte/MG": "ima_industria_de_madeira_imunizada",
   "Grimaldi Participação e Administração, Caçam Indústria e Comércio, Rocha Nobre Mineração": "grimaldi_participacao_e_administracao_cacam_industria_e_come",
   "empresa de extração e comércio de areia": null,
   "Mineração Ilha Grande Paraná, Mineração Patrício, Mineração União Balsa Nova, Minerax Mineração Xambioá, Mineração Aracuí e outros": "mineracao_ilha_grande_parana",
@@ -13337,7 +13078,7 @@
   "titular de PLG (Minas Gerais)": null,
   "(titulares de registro de licença; um em PA Chico Mendes 2)": null,
   "Cooperativa de mineradores de ouro de Nova Bandeirantes (Coopernova?)": "cooperativa_de_mineradores_de_ouro_de_nova_bandeirantes",
-  "cooperativa (PLG > 1.000 ha); titulares de mudança de regime; multas; CFEM": "cfem",
+  "cooperativa (PLG > 1.000 ha); titulares de mudança de regime; multas; CFEM": null,
   "Itinga Mineração (x Granicap Granitos)": "itinga_mineracao",
   "Areial do Vale (pedido de prorrogação em nome de Cristalina Mineração e Transportes)": "areal_do_vale",
   "Dalba Engenharia e Empreendimentos (titular) / Plana Terra Terraplanagem e Pavimentação (cessionária)": "dalba_engenharia_e_empreendimentos",
@@ -13484,7 +13225,7 @@
   "não identificado — minério de ouro": null,
   "ANM (Superintendência de Arrecadação e de Regulação)": "anm_sar",
   "ANM; MPF / PGR Rondônia": "anm",
-  "Vanda (titular; advogado Lenimar Cabral em sustentação oral)": "vanda",
+  "Vanda (titular; advogado Lenimar Cabral em sustentação oral)": null,
   "Alcoa World Alumina Brasil Ltda. (Dra. Eduarda Tupiaçu em sustentação oral)": "alcoa_world_alumina_brasil",
   "Calcário Calponta Ltda. (Dra. Fernanda Nunes em sustentação oral); Agromercantil Cremer Eireli": "calcario_calponta",
   "Atlântica Minas e Empreendimentos; Construtora Sanchez Tripoloni Ltda.; ANM": "atlantica_minas_e_empreendimentos",
@@ -13502,7 +13243,7 @@
   "Empresa de Mineração Formosa Ltda. (grafia incerta)": "empresa_de_mineracao_formosa",
   "Mineradora Bax Ltda. (grafia incerta)": "mineradora_bax",
   "Braskem S.A.": "braskem",
-  "Fabiano (pessoa física; sobrenome não citado)": "fabiano",
+  "Fabiano (pessoa física; sobrenome não citado)": null,
   "Terraplanagem ASA (grafia incerta)": "terraplanagem_asa",
   "Valdir Lima Cunha": "valdir_lima_cunha",
   "Alta Floresta Gold Mineração": "alta_floresta_gold_mineracao",
@@ -13545,7 +13286,7 @@
   "José Carlos Ferrares (grafia incerta)": "jose_carlos_ferrarezi",
   "Antônio Júlio Filizola": "antonio_julio_filizola",
   "Mineração Diamante Negro Ltda. (manganês e fosfato, AM)": "mineracao_diamante_negro",
-  "Fabiano Glauber de Agoni (grafia incerta) — fosfato, SC": "fabiano_glauber_de_agoni",
+  "Fabiano Glauber de Agoni (grafia incerta) — fosfato, SC": "fabiano_clauber_diagoni",
   "Mineração Grandes Lagos Ltda. (argila, Andradina, SP)": "mineracao_grandes_lagos",
   "Império Mineração Ltda.": "imperio_mineracao",
   "Areal Telur (grafia incerta) Ltda. (areia, Itaboraí, RJ)": "areal_telur",
@@ -13559,7 +13300,7 @@
   "Tane Notia (?); Areal Rio Novo Ltda.; Pedreira Maragogi (?) Ltda.": "tane_notia",
   "Coloret (?) Ltda.; Elizane (?)": "coloret",
   "extração de areia Ltda. (nome incompleto)": null,
-  "Salet (?)": "salet",
+  "Salet (?)": null,
   "GDM do Brasil Geologia e Desenvolvimento Mineral": "gdm_do_brasil_geologia_e_desenvolvimento_mineral",
   "Metalor Mineração Ltda. (única proponente: Kinross)": "metalor_mineracao",
   "Zenilton Batista Brito": "zenilton_batista_brito",
@@ -13571,7 +13312,7 @@
   "Salobo Metais (?) (cobre, Marabá-PA)": "salobo_metais",
   "Lacerda Bacelar (?) Mineração Ltda.": "lacerda_bacelar_mineracao",
   "AngloGold Ashanti Córrego do Sítio Mineração S.A. (mina Cuiabá, MG)": "anglogold_ashanti_corrego_do_sitio_mineracao",
-  "Ferrous do Brasil S.A. (incorporada pela Vale)": "ferrous",
+  "Ferrous do Brasil S.A. (incorporada pela Vale)": "ferrous_resources_do_brasil",
   "LGD de Queiroz": "lgd_de_queiroz",
   "Mineração Barrinha Ltda": "mineracao_barrinha",
   "... Ltda (nome ilegível)": null,
@@ -13615,7 +13356,7 @@
   "Metal Mineração (grafia incerta)": "metal_mineracao",
   "Extração de Basalto Beltram Ltda.": "extracao_de_basalto_beltram",
   "Fazenda Brasileira Desenvolvimento Mineral Ltda.; ouro, Barrocas e Araci (BA)": "fazenda_brasileira_desenvolvimento_mineral",
-  "Fabiano Clauber de Agoni (grafia incerta; fosfato, RJ) e RTB Geologia e Mineração Ltda. (BA)": "fabiano_clauber_de_agoni_e_rtb_geologia_e_mineracao",
+  "Fabiano Clauber de Agoni (grafia incerta; fosfato, RJ) e RTB Geologia e Mineração Ltda. (BA)": "fabiano_clauber_diagoni",
   "Oceana Minerais Marinhos Ltda.; JSN São João da Boa Vista Participações Ltda.": "oceana_minerais_marinhos",
   "JV/J2 Participações e Consultoria Ltda. (grafia incerta); minério de ferro, Belo Vale/Congonhas (MG)": null,
   "Roberson Figueiredo ME (grafia incerta)": "roberson_figueiredo",
@@ -13684,7 +13425,7 @@
   "Paulo dos Reis Oliveira": "paulo_dos_reis_oliveira",
   "Cerâmica Realino Ltda. ME": "ceramica_realino",
   "José Lopes Martins": "jose_lopes_martins",
-  "(nome ilegível) Dias": "dias",
+  "(nome ilegível) Dias": null,
   "Elastri (?) Engenharia S.A.": "elastri_engenharia",
   "Bramex (?) Mineração Ltda.": "bramex_mineracao",
   "Bras Roma (?) Mineração Comércio e Indústria Ltda.": "bras_roma_mineracao_comercio_e_industria",
@@ -13755,7 +13496,7 @@
   "Mineração Serra Grande": "mineracao_serra_grande",
   "Mineração Barreto S.A.": "mineracao_barreto",
   "Manoel Messias Alves Silva ME": "manoel_messias_alves_silva",
-  "Fábio (Terraplenagem; nome incompleto)": "fabio",
+  "Fábio (Terraplenagem; nome incompleto)": null,
   "diversos (MG, PR, SP)": null,
   "diversos (PR, GO, SP)": null,
   "Paulo Alexandre (nome incompleto)": "paulo_alexandre",
@@ -13788,12 +13529,12 @@
   "3A Mine S.A.": "3a_mine",
   "José João Abdala Filho e Mineração da Ribeira (nomes aproximados)": "jose_joao_abdala_filho_e_mineracao_da_ribeira",
   "Mineração Quartzo Real Comércio Importação e Exportação; Minas Mandacaru Mineração Ltda.; pessoa física (nome incerto)": "mineracao_quartzo_real_comercio_importacao_e_exportacao",
-  "Diamonds (nome incompleto na legenda)": "diamonds",
+  "Diamonds (nome incompleto na legenda)": null,
   "Extremo Norte Comércio, Transporte e Serviços (nome aproximado)": "extremo_norte_comercio_transporte_e_servicos",
   "Itaboraí Empreendimentos Imobiliários Ltda.; RJ Comércio e Serviços Ltda.; terceira empresa (nome incerto)": "itaborai_empreendimentos_imobiliarios",
   "Pedreira Campo Limpo Ltda.": "pedreira_campo_limpo",
   "Paulo Roberto Mila (nome aproximado)": "paulo_roberto_mila",
-  "Nexa Resources (zinco, chumbo e calcário)": "nexa_resources",
+  "Nexa Resources (zinco, chumbo e calcário)": "nexa_recursos_minerais",
   "Roberto Rasse (nome aproximado)": "roberto_rasse",
   "Magforte Mangueiras Ltda. ME": "magforte_mangueiras",
   "Carpenedo & Cia. Ltda.": "carpenedo_cia",
@@ -13915,7 +13656,7 @@
   "MML Metais Mineração Ltda. (prioritária); Embramine — Empresa Brasileira de Perfurações e Sondagens; Minérios e Jazidas Minerais FME Ltda.; sustentação de Flávio Grise": "mml_metais_mineracao",
   "Marbrasa Norte Mineradora Ltda.": "marbrasa_norte_mineradora",
   "Água Mineral São Roque Ltda. (Amparo-SP)": "agua_mineral_sao_roque",
-  "Lafarge Holcim Brasil S.A.": "lafarge_holcim_brasil",
+  "Lafarge Holcim Brasil S.A.": "lafargeholcim_brasil",
   "MLG Comércio e Extração de Areia Ltda.; Britacol — Britas Colatina Ltda.; Mineradora Areia Nova Ltda.; Sotil Ltda.; Santa Maria Participações Ltda.": "mlg_comercio_e_extracao_de_areia",
   "Jubit Britagem Ltda.": "jubit_britagem",
   "Vale S.A. (sustentação de Mateus Chaves)": "vale",
@@ -14005,7 +13746,7 @@
   "Mineração Santa..., Gransena Exportação e Comércio (granito e quartzito, BA), Keila Alves da Silva Souza e outros; Vale S.A. (ferro); AngloGold Ashanti Córrego do Sítio (prata, 4 processos); Externo Rondônia, Ponte da Ilha Mineração, Super Mega Importação e Exportação de Minério e outros; Indústria Catarinense de Adubos e Mineração": "mineracao_santa",
   "Ferlig Ferro (3 processos) e outros": "ferlig_ferro",
   "Mineração Espírito Santo (água), Rocha Branca Mineração, Serraria de Mármore e Granito Mimoso, Minerfarm, Cerâmica Zeni (MT), Mineração Lambari Mármores e Granitos e outra": "mineracao_espirito_santo",
-  "arrematante da área 2635 (pedido de revisão); 8ª rodada de disponibilidade de áreas": "8_rodada_de_disponibilidade_de_areas",
+  "arrematante da área 2635 (pedido de revisão); 8ª rodada de disponibilidade de áreas": null,
   "T Premium Participação Imobiliária Ltda. (recorrente, adv. Solange) x SEMOC / mineradora vizinha (adv. Mateus) — Goiás": "t_premium_participacao_imobiliaria",
   "Pacífico Oceano Mineração Ltda. (sociedade limitada unipessoal)": "pacifico_oceano_mineracao",
   "J B Participações Imobiliárias Ltda. (grafia incerta)": "j_b_participacoes_imobiliarias",
@@ -14021,7 +13762,7 @@
   "Valdízio Juliano Viriato; Cristiano (sobrenome não lido)": "valdizio_juliano_viriato",
   "não identificado (Minas Gerais)": null,
   "Vermont Mineração Exportação e Importação Ltda.": "vermont_mineracao_exportacao_e_importacao",
-  "Sérgio (sobrenome não lido)": "sergio",
+  "Sérgio (sobrenome não lido)": null,
   "Cerâmica Oliveira Campos Ltda.": "ceramica_oliveira_campos",
   "Nacional de Grafite Ltda.": "nacional_de_grafite",
   "Capela Mineração": "capela_mineracao",
@@ -14056,7 +13797,7 @@
   "Canto Grande Mineração Ltda": "canto_grande_mineracao",
   "Rute Lima Fernandes (falecida em 2009)": "rute_lima_fernandes",
   "Mineração Floresta do Guairá; KMM Mineração e Comércio; Mineração Nova Londrina; Pedreira do Trevo; Arena Mineração e Asfaltos; Ciplan Cimento Planalto": "mineracao_floresta_do_guaira",
-  "CBA Companhia Brasileira de Alumínio": "cba_companhia_brasileira_de_aluminio",
+  "CBA Companhia Brasileira de Alumínio": "companhia_brasileira_de_aluminio",
   "Empresa de Mineração Fonte Quintas do Rei (grafia incerta)": "empresa_de_mineracao_fonte_quintas_do_rei",
   "Mix Concreto; ... Dragagem; outros (nomes ilegíveis); BR Carvalho": "mix_concreto",
   "JK Serviço (grafia incerta) Ltda; Jet Extração de Areia Ltda ME": "jk_servico",
@@ -14080,7 +13821,7 @@
   "Darci Carlos Pimentel": "darci_carlos_pimentel",
   "cooperativas da 6ª rodada (Deus é Amor, Gold do Tapajós e outras)": null,
   "Solo Mineração Extração de Areia Ltda": "solo_mineracao_extracao_de_areia",
-  "Centrais Elétricas (nome incompleto)": "centrais_eletricas",
+  "Centrais Elétricas (nome incompleto)": null,
   "Ana Carolina Martins de Siqueira": "ana_carolina_martins_de_siqueira",
   "Areal HG Ltda (Cataguases e Leopoldina-MG)": "areal_hg",
   "Roçando Nutrição e Serviços Ltda (grafia incerta)": "rocando_nutricao_e_servicos",
@@ -14117,7 +13858,7 @@
   "mineradora não identificada na legenda («a remuneração Ltda»)": null,
   "AJ Galete Argila Ltda ME e Noroeste Mineração Ltda": "aj_galete_argila_e_noroeste_mineracao",
   "não nomeado na legenda (Maranhão)": null,
-  "Mosaic Fertilizantes (arrendatária da Petrobras; grafia incerta)": "mosaic_fertilizantes",
+  "Mosaic Fertilizantes (arrendatária da Petrobras; grafia incerta)": "mosaic_fertilizantes_p_k",
   "empresa de ferro-ligas S.A. (nome incerto; Cavalcante-GO)": null,
   "Mineração Mogi Guaçu Ltda (processo minerário 820173/1996)": "mineracao_mogi_guacu",
   "Cristal Águas do Nordeste Ltda (grafia incerta)": "cristal_aguas_do_nordeste",
@@ -14148,7 +13889,7 @@
   "SAR (proposta de súmula)": "anm_sar",
   "Vânia Casagrande Duarte / R Mineração; AngloGold Ashanti Córrego do Sítio / Empresa Brasileira de Quartzo; Zeus Mineração / Cabral Mineração": "vania_casagrande_duarte",
   "David Balbinot (?) Filho": "david_balbinot_filho",
-  "Codemig; Companhia Mineradora do Pirocloro de Araxá; Arafértil S.A.; Vale Fosfatados S.A.": "codemig",
+  "Codemig; Companhia Mineradora do Pirocloro de Araxá; Arafértil S.A.; Vale Fosfatados S.A.": "companhia_de_desenvolvimento_economico_de_minas_gerais",
   "Mix (?) Mineração e Comércio": "mix_mineracao_e_comercio",
   "Paulo César do Amaral (?)": "paulo_cesar_do_amaral",
   "Denir Limer (?)": "denir_limer",
@@ -14194,7 +13935,7 @@
   "não lido com clareza (… de Araújo; GO)": null,
   "Francisco Alves de Lima": "francisco_alves_de_lima",
   "Sigma Mineração": "sigma_mineracao",
-  "Cooperativa Garimpeira Santa Cruz (RO; nome incerto)": "cooperativa_garimpeira_santa_cruz",
+  "Cooperativa Garimpeira Santa Cruz (RO; nome incerto)": "cooperativa_dos_garimpeiros_de_santa_cruz",
   "Carbonífera (nome incerto na legenda: «Carbon framb belum»; SC)": "carbonifera",
   "Rio Moura Pesquisa e Extração Mineral": "rio_do_mouro_pesquisa_e_extracao_mineral",
   "PMX/FX Mineração (nome incerto; MG)": "pmx",
@@ -14209,7 +13950,7 @@
   "Cooperativa Mista de Garimpeiros e Mineração da Região Sisaleira da Bahia (Comires, grafia incerta)": "cooperativa_mista_de_garimpeiros_e_mineracao_da_regiao_sisal",
   "ANM (Superintendência de Regulação / Outorga)": "anm_srg",
   "Vale S.A. (manganês, Pará)": "vale",
-  "Companhia de Pesquisa de Recursos Minerais (CPRM)": "companhia_de_pesquisa_de_recursos_minerais",
+  "Companhia de Pesquisa de Recursos Minerais (CPRM)": "cprm",
   "Fabiane Cristina Shoda; Sérgio Serafim Falcão; terceiro interessado (nome ininteligível)": "fabiane_cristina_shoda",
   "Zeus Mineração Ltda. (área 1582, Niquelândia-GO, cobre)": "zeus_mineracao",
   "Copacel Indústria e Comércio de Calcários e Cereais Ltda. (e Ecoplan Mineração)": "copacel_industria_e_comercio_de_calcarios_e_cereais",
@@ -14225,7 +13966,7 @@
   "vários interessados": null,
   "Mineração Rio Branco do Sul Ltda.": "mineracao_rio_branco_do_sul",
   "«WA Mineradora Ltda.» (grafia incerta)": "wa_mineradora",
-  "Cimento Planalto S.A. (Ciplan, grafia incerta)": "cimento_planalto",
+  "Cimento Planalto S.A. (Ciplan, grafia incerta)": "ciplan_cimento_planalto",
   "MLG Comércio e Extração de Areia Ltda. ME": "mlg_comercio_e_extracao_de_areia",
   "Cerâmica Safira Ltda.": "ceramica_safira",
   "Porto de Areia Gimenes e Gimenes Ltda. ME": "porto_de_areia_gimenes_e_gimenes",
