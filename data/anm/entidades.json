@@ -1824,8 +1824,8 @@
    "nome": "Calçamentos e Mosaicos Lisbrasil Ltda",
    "sigla": null,
    "tipo": "mineradora",
-   "setor": "fosfato",
-   "grupo": "Mosaic"
+   "setor": null,
+   "grupo": null
   },
   "calcario_andreazza": {
    "nome": "Calcário Andreazza",
@@ -2576,8 +2576,8 @@
    "setor": null,
    "grupo": null
   },
-  "cm_cosats_e_cia_e_j_malucelli_construtora_de_obras": {
-   "nome": "CM Cosats e Cia. Ltda. e J Malucelli Construtora de Obras",
+  "cm_cosats_e_cia": {
+   "nome": "CM Cosats e Cia. Ltda",
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
@@ -4504,16 +4504,16 @@
   "ferrous": {
    "nome": "Ferrous",
    "sigla": null,
-   "tipo": "outro",
-   "setor": null,
-   "grupo": null
+   "tipo": "mineradora",
+   "setor": "ferro",
+   "grupo": "Vale"
   },
   "ferrous_resources_do_brasil": {
    "nome": "Ferrous Resources do Brasil S.A",
    "sigla": null,
    "tipo": "mineradora",
-   "setor": null,
-   "grupo": null
+   "setor": "ferro",
+   "grupo": "Vale"
   },
   "fides_gold_mineradora": {
    "nome": "Fides Gold Mineradora S.A",
@@ -4912,14 +4912,7 @@
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
-   "grupo": null
-  },
-  "glencore_exploracao_mineral_do_brasil_vs_vale": {
-   "nome": "Glencore Exploração Mineral do Brasil Ltda. vs. Vale S.A",
-   "sigla": null,
-   "tipo": "mineradora",
-   "setor": "ferro",
-   "grupo": "Vale"
+   "grupo": "Glencore"
   },
   "global_stone_importacao_e_exportacao": {
    "nome": "Global Stone Importação e Exportação Ltda",
@@ -7165,8 +7158,8 @@
    "nome": "Márcio Rezende Lima",
    "sigla": "MBR",
    "tipo": "pessoa_fisica",
-   "setor": null,
-   "grupo": null
+   "setor": "ferro",
+   "grupo": "Vale"
   },
   "marco_antonio_tedesco": {
    "nome": "Marco Antônio Tedesco",
@@ -7756,13 +7749,6 @@
    "setor": null,
    "grupo": null
   },
-  "mineracao_brasileiras_reunidas": {
-   "nome": "Mineração Brasileiras Reunidas",
-   "sigla": "MBR",
-   "tipo": "mineradora",
-   "setor": null,
-   "grupo": null
-  },
   "mineracao_cachoeira": {
    "nome": "Mineração Cachoeira",
    "sigla": null,
@@ -7803,7 +7789,7 @@
    "sigla": null,
    "tipo": "mineradora",
    "setor": "cobre",
-   "grupo": null
+   "grupo": "Ero Copper"
   },
   "mineracao_carille": {
    "nome": "Mineração Carille",
@@ -8272,7 +8258,7 @@
    "sigla": null,
    "tipo": "mineradora",
    "setor": null,
-   "grupo": null
+   "grupo": "Hydro"
   },
   "mineracao_pedra_do_cavalo": {
    "nome": "Mineração Pedra do Cavalo Ltda",
@@ -8624,8 +8610,8 @@
    "setor": null,
    "grupo": null
   },
-  "mineracoes_brasileiras_reunidas_e_vale": {
-   "nome": "Minerações Brasileiras Reunidas S.A. e Vale S.A",
+  "mineracoes_brasileiras_reunidas": {
+   "nome": "Minerações Brasileiras Reunidas S.A",
    "sigla": "MBR",
    "tipo": "mineradora",
    "setor": "ferro",
@@ -9528,18 +9514,11 @@
    "grupo": null
   },
   "pedreira_pedra_negra": {
-   "nome": "Pedreira Pedra Negra",
+   "nome": "Pedreira Pedra Negra Ltda",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "agregados",
    "grupo": null
-  },
-  "pedreira_pedra_negra_e_polimix": {
-   "nome": "Pedreira Pedra Negra Ltda. e Polimix",
-   "sigla": null,
-   "tipo": "mineradora",
-   "setor": "agregados",
-   "grupo": "Polimix"
   },
   "pedreira_santana": {
    "nome": "Pedreira Santana",
@@ -11389,10 +11368,10 @@
    "setor": null,
    "grupo": null
   },
-  "tpg_tecnologia_de_producao_de_gusa_vs_construtora_e_dragagem": {
-   "nome": "TPG Tecnologia de Produção de Gusa vs. Construtora e Dragagem Paraopeba",
+  "tpg_tecnologia_de_producao_de_gusa": {
+   "nome": "TPG Tecnologia de Produção de Gusa",
    "sigla": null,
-   "tipo": "mineradora",
+   "tipo": "outro",
    "setor": null,
    "grupo": null
   },
@@ -11598,13 +11577,6 @@
    "tipo": "mineradora",
    "setor": null,
    "grupo": null
-  },
-  "vale_e_socoimex_siderurgia": {
-   "nome": "Vale S.A. e Socoimex Siderurgia Ltda",
-   "sigla": null,
-   "tipo": "mineradora",
-   "setor": "ferro",
-   "grupo": "Vale"
   },
   "vale_fertilizantes": {
    "nome": "Vale Fertilizantes",
@@ -11867,13 +11839,6 @@
   },
   "votorantim_cimentos": {
    "nome": "Votorantim Cimentos S.A",
-   "sigla": null,
-   "tipo": "mineradora",
-   "setor": "cimento",
-   "grupo": "Votorantim"
-  },
-  "votorantim_cimentos_brasil_e_mineracao_sao_tomas": {
-   "nome": "Votorantim Cimentos Brasil S.A. e Mineração São Tomás Ltda",
    "sigla": null,
    "tipo": "mineradora",
    "setor": "cimento",
@@ -12514,7 +12479,7 @@
   "Granitos Criciúma Ltda. (MG)": "granitos_criciuma",
   "Val Vale Mineração S.A. (direitos arrendados à Vale, mina de Água Limpa, MG)": "val_vale_mineracao",
   "Vale S.A. (São Gonçalo do Rio Abaixo, MG — mina de Brucutu)": "vale",
-  "Glencore Exploração Mineral do Brasil Ltda. vs. Vale S.A. (Carajás, PA — cobre)": "glencore_exploracao_mineral_do_brasil_vs_vale",
+  "Glencore Exploração Mineral do Brasil Ltda. vs. Vale S.A. (Carajás, PA — cobre)": "glencore_exploracao_mineral_do_brasil",
   "Mineração Apolônio Zenaide Ltda. (grafia incerta)": "mineracao_apolonio_zenaide",
   "diversos (Cemisil Cerâmica e Mineração Silva, Areal Caxambu e outros)": null,
   "Ferrous (grafia incerta)": "ferrous",
@@ -12585,8 +12550,8 @@
   "Welfare Ambiental S.A.": "welfare_ambiental",
   "Aurora Mineração S.A.": "mineracao_aurora",
   "Orlando Júnior (água mineral, Santa Rosa-PR?)": "orlando_junior",
-  "Votorantim Cimentos Brasil S.A. (cedente) e Mineração São Tomás Ltda.": "votorantim_cimentos_brasil_e_mineracao_sao_tomas",
-  "Pedreira Pedra Negra Ltda. (cedente) e Polimix (cessionária)": "pedreira_pedra_negra_e_polimix",
+  "Votorantim Cimentos Brasil S.A. (cedente) e Mineração São Tomás Ltda.": "votorantim_cimentos",
+  "Pedreira Pedra Negra Ltda. (cedente) e Polimix (cessionária)": "pedreira_pedra_negra",
   "Intercept Brasil S.A. (nome provável da legenda; incerto)": "intercept_brasil",
   "ANM / Ibram (requerente)": "anm",
   "Superintendência de Outorga de Títulos Minerários (SOT)": "anm_sot",
@@ -12680,7 +12645,7 @@
   "Minas Ser Aditivos Minerais Ltda. (grafia incerta)": "minas_ser_aditivos_minerais",
   "N. Cavalheiro (grafia incerta)": "n_cavalheiro",
   "Tinaldo Rubens Henrique (grafia incerta)": "tinaldo_rubens_henrique",
-  "Minerações Brasileiras Reunidas S.A. (MBR) e Vale S.A.": "mineracoes_brasileiras_reunidas_e_vale",
+  "Minerações Brasileiras Reunidas S.A. (MBR) e Vale S.A.": "mineracoes_brasileiras_reunidas",
   "Vale S.A.; José Lino de Souza": "vale",
   "Mineração Tomazinho Ltda. (grafia incerta)": "mineracao_tomazinho",
   "Macarani Mineração Ltda. e outros": "macarani_mineracao",
@@ -12724,7 +12689,7 @@
   "Mosaic Fertilizantes (grafia incerta)": "mosaic_fertilizantes",
   "Santini Bergamasco, Vetor Plásticos, BR Extração de Areia, Rosivan Mineração": "santini_bergamasco",
   "GR Extração de Areia e Transportes Rodoviários Ltda.": "gr_extracao_de_areia_e_transportes_rodoviarios",
-  "TPG Tecnologia de Produção de Gusa vs. Construtora e Dragagem Paraopeba": "tpg_tecnologia_de_producao_de_gusa_vs_construtora_e_dragagem",
+  "TPG Tecnologia de Produção de Gusa vs. Construtora e Dragagem Paraopeba": "tpg_tecnologia_de_producao_de_gusa",
   "Cornélio Indústria e Comércio de Minerais; Extração e Comércio de Areia Quevedo e Silva": "cornelio_industria_e_comercio_de_minerais",
   "RBR Mineração (cobre, Curionópolis-PA)": "rbr_mineradora",
   "HTW Mineração Comércio Importação e Exportação Ltda. (MG)": "htw_mineracao_comercio_importacao_e_exportacao",
@@ -13636,7 +13601,7 @@
   "Amauri Antônio de Menezes Espínola (grafia incerta)": "amauri_antonio_de_menezes_espinola",
   "Edivaldo Silva": "edivaldo_silva",
   "Cristalina Mineração e Transportes Ltda.": "cristalina_mineracao_e_transporte",
-  "Minerações Brasileiras Reunidas S.A. (MBR) e Vale S.A.; minério de ferro": "mineracoes_brasileiras_reunidas_e_vale",
+  "Minerações Brasileiras Reunidas S.A. (MBR) e Vale S.A.; minério de ferro": "mineracoes_brasileiras_reunidas",
   "Vale S.A. (sustentação oral da advogada Luísa Melo Souza); interessado conflitante José Lino (processo 850.394/2012)": "vale",
   "titular de registro de licença em Paulo Lopes (SC)": null,
   "titular de requerimento de lavra no Paraná (não identificado)": null,
@@ -13815,7 +13780,7 @@
   "Cerâmica Barra Mansa Ltda.; V8 Extração Mineral Ltda.": "ceramica_barra_mansa",
   "Luís Cláudio Chaves Xavier ME; Mineração JS; Mineração Vitória; Mineração Cavalli": "luis_claudio_chaves_xavier",
   "Agro Mercantil Kraemer (grafia incerta)": "agro_mercantil_kraemer",
-  "Vale S.A. (arrendante) e Socoimex Siderurgia Ltda. (arrendatária; nome aproximado)": "vale_e_socoimex_siderurgia",
+  "Vale S.A. (arrendante) e Socoimex Siderurgia Ltda. (arrendatária; nome aproximado)": "vale",
   "Mineração Onça Puma (cedente Vale S.A.)": "mineracao_onca_puma",
   "Mineração Caldense Ltda. (antiga Mineração Curimbaba)": "mineracao_caldense",
   "Granitos Matatias Ltda. (nome aproximado)": "granitos_matatias",
@@ -14033,7 +13998,7 @@
   "Mineração Lagoa Grande; sustentação oral do advogado Bruno Costa": "mineracao_lagoa_grande",
   "Vale S.A.; sustentação oral da advogada Isabela Pereira": "vale",
   "J Malucelli Construtora de Obras (atual Companhia Paranaense de Construção) e Pedreira Lajeado; sustentação oral do advogado Júlio Brotto": "j_malucelli_construtora_de_obras_e_pedreira_lajeado",
-  "CM Cosats e Cia. Ltda. (titular) e J Malucelli Construtora de Obras (atual Companhia Paranaense de Construção); sustentação oral do advogado André Leonardo": "cm_cosats_e_cia_e_j_malucelli_construtora_de_obras",
+  "CM Cosats e Cia. Ltda. (titular) e J Malucelli Construtora de Obras (atual Companhia Paranaense de Construção); sustentação oral do advogado André Leonardo": "cm_cosats_e_cia",
   "ANM; Mineral (arrendamento, 5 processos), Carbonífera Metropolitana, Victor Hugo Vasconcelos, Argesul, Nestor José Scalabrin; 11 empresas de outorga (Mineração Morretes, Mineração Maracanã, Pedreira Triunfo, Itaguaçu Mineração e outras); PLM Construções, Querem Mineração; Mineração Barrinha (mármore) e outra": "anm",
   "Gerdau Açominas S.A. (barragem, nome ilegível na legenda)": "gerdau_acominas",
   "Paulo Roberto Soares Campos (MT); 4 titulares multados por TAH (inclusive Mineradora São Jorge, Ruston Mineração); Elza Antônia da Silva Borges": "paulo_roberto_soares_campos",
@@ -14317,7 +14282,7 @@
   "SRG / Superintendência de Regulação (ato normativo)": "anm_srg",
   "SAR / SRG": "anm_sar",
   "Pedro Viviano Ltda. (grafia incerta; Altamira-PA); sustentação oral de Marcelo Romeu de Moraes Dantas": "pedro_viviano",
-  "Mineração Brasileiras Reunidas (MBR) / Vale S.A.; sustentação oral de Luísa (advogada da Vale; sobrenome incerto)": "mineracao_brasileiras_reunidas",
+  "Mineração Brasileiras Reunidas (MBR) / Vale S.A.; sustentação oral de Luísa (advogada da Vale; sobrenome incerto)": "mineracoes_brasileiras_reunidas",
   "Anglo American Minério de Ferro Brasil S.A. x Mineração Trindade Ltda. (Conceição do Mato Dentro-MG, ferro/ouro); sustentações orais de João Raso e Marcelo Mendo (Anglo) e Ítalo e Luiz Fernando (Trindade/Geomil)": "anglo_american_minerio_de_ferro_brasil",
   "Superintendência de Fiscalização (GT Sanções)": "anm_sfi",
   "Aldo Geraldo Liberato; Vale S.A.; Siderúrgica Santo Antônio; Emtrans Minas Minerações": "aldo_geraldo_liberato",
