@@ -1,7 +1,7 @@
 """Baixa a legenda pt de cada vídeo de data/videos.jsonl -> data/transcricoes/{id}.json  [{t, d, x}] (retomável).
 Ordem: youtube-transcript-api; fallback yt-dlp (json3). Processa por prioridade (diretoria primeiro).
 Opções: --tipos diretoria,audiencia | todos   --cookies cookies.txt   --pausa 4"""
-import json, os, sys, glob, subprocess, tempfile, argparse, time, random
+import json, os, re, sys, glob, subprocess, tempfile, argparse, time, random
 from youtube_transcript_api import YouTubeTranscriptApi
 from youtube_transcript_api._errors import IpBlocked, RequestBlocked
 ap = argparse.ArgumentParser(); ap.add_argument("--cookies"); ap.add_argument("--browser", help="chrome|safari|firefox|edge: usa os cookies do navegador (só yt-dlp)"); ap.add_argument("--tipos", default="diretoria")
@@ -50,7 +50,7 @@ if os.path.exists("data/sem_legenda.jsonl"):
     for _l in open("data/sem_legenda.jsonl"):
         try:
             _d = json.loads(_l)
-            if _d.get("motivo") == "sem_legenda": _sl.add(_d["id"])  # legenda desativada: não insistir (apague a linha para tentar de novo)
+            if _d.get("motivo") in ("sem_legenda", "privado"): _sl.add(_d["id"])  # legenda desativada: não insistir (apague a linha para tentar de novo)
         except Exception: pass
 fila = [v for v in vids if not os.path.exists(f"data/transcricoes/{v['id']}.json") and v["id"] not in _sl]
 print(f"{len(vids)-len(fila)} já baixadas, {len(fila)} na fila", flush=True)
@@ -60,12 +60,12 @@ ok = falha = seguidas = 0
 for i, v in enumerate(fila, 1):
     if a.max and ok >= a.max: print(f"Limite da rodada ({a.max}) atingido. Rode de novo mais tarde."); saida = 2; break
     segs, motivo, info = baixar(v["id"])
-    if not segs:
+    if not segs and re.search(r"private video|videounplayable|members-only|join this channel", str(info), re.I): motivo = "privado"  # vídeo privado: não é bloqueio, não insistir
         falha += 1; seguidas += (motivo in ("bloqueio", "limite429"))
         if motivo == "limite429": print("HTTP 429: o YouTube limitou seu IP. Pare e tente de novo em 2-4 horas (sem cookies; --pausa 40)."); saida = 3; break
         print(f"[{i}/{len(fila)}] {motivo.upper()} ({info}) {v['tipo']} {v['titulo'][:60]}", flush=True)
         open("data/sem_legenda.jsonl", "a").write(json.dumps({"id": v["id"], "motivo": motivo, "info": info}) + "\n")
-        if motivo == "erro_yt": seguidas = 0
+        if motivo in ("erro_yt", "privado"): seguidas = 0
         if seguidas >= 5:
             print("5 BLOQUEIOS seguidos: provável bloqueio do YouTube. Espere ~1h ou use --pausa 40 e rode de novo (retoma de onde parou)."); saida = 3; break
         time.sleep(a.pausa * 2); continue
