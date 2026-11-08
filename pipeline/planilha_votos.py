@@ -12,7 +12,12 @@ def segs(ts):
     p = [int(x) for x in re.findall(r"\d+", ts or "")][-3:]
     while len(p) < 3: p.insert(0, 0)
     return p[0] * 3600 + p[1] * 60 + p[2]
+def _ata_url(vid):
+    import json as _j, os as _o
+    f = f"data/analise/{vid}.analise.json"
+    return _j.load(open(f))["meta"].get("url") if _o.path.exists(f) else None
 def link(vid, ts=None, t=None):
+    if str(vid).startswith("ata_"): return _ata_url(vid) or ""
     s = t if t is not None else segs(ts) if ts else 0
     return f"https://www.youtube.com/watch?v={vid}&t={max(int(s) - 5, 0)}s"
 DIV = ("vencido", "vista", "revisor_diverge", "outro")

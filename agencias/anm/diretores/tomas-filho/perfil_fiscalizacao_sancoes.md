@@ -1,11 +1,11 @@
 # Perfil analítico — Tomás Filho · tema: fiscalizacao_sancoes
 
-**Amostra:** presente em 15 das 17 reuniões analisadas em que há registro de presença/ausência; 57 votos neste tema; 9 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 23 das 25 reuniões analisadas em que há registro de presença/ausência; 59 votos neste tema; 10 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 41 (85% dos votos em que não era relator) · relator 9 · vista pedida 1 · voto-vista divergente 0 · vencido 1 · outros/não captado 5
-**Como relator:** 9/9 relatorias aprovadas por unanimidade.
+**Votos:** acompanha o relator 42 (85% dos votos em que não era relator) · relator 10 · vista pedida 1 · voto-vista divergente 0 · vencido 1 · outros/não captado 5
+**Como relator:** 10/10 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** outorga_titulos 180/36; recursos_recursais 108/22; agregados_construcao 76/5; fiscalizacao_sancoes 57/9; garimpo_pla 30/8; cfem_arrecadacao 28/8; ambiental_social 23/7; regulacao_normativa 19/3; institucional 16/3; outros 12/4; judicializacao 10/0; barragens_seguranca 8/0; participacao_social 5/2; minerais_criticos 5/1
+**Temas (nº de itens em que votou / relatorias):** outorga_titulos 202/42; outros 140/58; recursos_recursais 124/25; agregados_construcao 84/6; fiscalizacao_sancoes 59/10; garimpo_pla 33/8; institucional 30/11; cfem_arrecadacao 28/8; regulacao_normativa 26/6; ambiental_social 25/8; judicializacao 10/0; barragens_seguranca 8/0; participacao_social 5/2; minerais_criticos 5/1
 
 ## Evidências (reunião · item · voto · justificativa)
 
@@ -25,6 +25,8 @@
 - **RD 15ª Ordinária (2020-04-15)**, item 1.5.8 — Recurso contra multa por não entrega do RAL (ano-base 2016) alegando doença da técnica responsável · voto: *relator, nega provimento* (relator, conf. alta) · «sem caso fortuito ou força maior» · [vídeo](https://www.youtube.com/watch?v=lfr2P7uMVeA&t=12139s) · resultado: aprovado por unanimidade: recurso não provido
 - **RD 16ª Ordinária (2020-05-20)**, item 1.5.3 — Recursos contra multas por não entrega do RAL (ano-base 2016) · voto: *relator, nega provimento (ausente; voto lido por Tasso Mendonça)* (relator, conf. media) · «sem fatos novos» · [vídeo](https://www.youtube.com/watch?v=lbQcuLZy28Y&t=12060s) · resultado: aprovado por unanimidade: recursos não providos
 - **RD 9ª Reunião Extraordinária Pública (2020-05-27)**, item 2.8 — Caducidade do direito de requerer lavra (não requereu lavra em 1 ano após aprovação do RFP em 2015) · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=XgYPPYFL8T0&t=7610s) · resultado: caducidade declarada (unanimidade)
+- **RD 17ª Reunião Ordinária Pública (só ata) (2020-06-17)**, item 1.5.11 — Considerando a prescrição do prazo no procedimento de caducidade instaurado, voto pelo arquivamento do mesmo. Porém, considerando os indício · voto: *relator, voto aprovado (segundo a ata)* (relator, conf. ata) · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-17a-rop.pdf) · resultado: aprovado por unanimidade
+- **RD 17ª Reunião Ordinária Pública (só ata) (2020-06-17)**, item 1.3.1 — Voto pela declaração de caducidade do título de concessão de lavra, sem prejuízo do prosseguimento das cobranças decorrentes das multas apli · voto: *acompanha o relator (ata: unanimidade dos presentes)* (acompanha, conf. ata) · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-17a-rop.pdf) · resultado: aprovado por unanimidade
 - **RD 18ª Reunião Ordinária Pública (2020-07-22)**, item 1.1.6 (voto-vista) — Voto-vista do DG sobre recurso contra caducidade do direito de requerer lavra (requerimento 8 dias após o prazo; DNPM fez exigências por ano · voto: *pede vista* (vista, conf. alta) · «não recorda os argumentos do relator» · [vídeo](https://www.youtube.com/watch?v=rDHG2v6FECg&t=3030s) · resultado: pedido de vista de Tomás Filho; deliberação suspensa (concluída na 20ª
 - **RD 18ª Reunião Ordinária Pública (2020-07-22)**, item 1.2.6 — Recurso contra auto de infração 641/2018 (não entrega de RAL de 2017) e homologação de renúncia à concessão de lavra de argila (Conchas-SP) · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=rDHG2v6FECg&t=5552s) · resultado: aprovado por unanimidade
 - **RD 18ª Reunião Ordinária Pública (2020-07-22)**, item 1.3.6 — Prorrogação do direito de requerer lavra de areia (MG) pedida em 2010 por falecimento do titular em 2003 · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=rDHG2v6FECg) · resultado: aprovado por unanimidade dos presentes: prorrogação indeferida e caduc

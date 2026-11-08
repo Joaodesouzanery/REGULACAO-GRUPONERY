@@ -1,11 +1,11 @@
 # Perfil analítico — Guilherme Gomes · tema: garimpo_pla
 
-**Amostra:** presente em 51 das 53 reuniões analisadas em que há registro de presença/ausência; 98 votos neste tema; 14 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 52 das 54 reuniões analisadas em que há registro de presença/ausência; 98 votos neste tema; 14 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
 **Votos:** acompanha o relator 82 (97% dos votos em que não era relator) · relator 14 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 2
 **Como relator:** 8/14 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** recursos_recursais 1120/225; outorga_titulos 1018/175; agregados_construcao 331/43; cfem_arrecadacao 295/85; fiscalizacao_sancoes 281/70; garimpo_pla 98/14; ambiental_social 91/17; institucional 65/5; regulacao_normativa 63/13; judicializacao 50/9; barragens_seguranca 42/3; minerais_criticos 20/5; participacao_social 15/2; outros 11/2
+**Temas (nº de itens em que votou / relatorias):** recursos_recursais 1120/225; outorga_titulos 1018/175; agregados_construcao 331/43; cfem_arrecadacao 295/85; fiscalizacao_sancoes 281/70; outros 206/24; garimpo_pla 98/14; ambiental_social 91/17; institucional 65/5; regulacao_normativa 63/13; judicializacao 50/9; barragens_seguranca 42/3; minerais_criticos 20/5; participacao_social 15/2
 
 ## Evidências (reunião · item · voto · justificativa)
 

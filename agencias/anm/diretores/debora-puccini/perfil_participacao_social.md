@@ -1,11 +1,11 @@
 # Perfil analítico — Debora Puccini · tema: participacao_social
 
-**Amostra:** presente em 36 das 36 reuniões analisadas em que há registro de presença/ausência; 11 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 48 das 48 reuniões analisadas em que há registro de presença/ausência; 11 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
 **Votos:** acompanha o relator 7 (77% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 2
 **Como relator:** 1/2 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** outorga_titulos 440/70; recursos_recursais 271/32; agregados_construcao 128/18; fiscalizacao_sancoes 109/15; cfem_arrecadacao 79/7; garimpo_pla 54/10; ambiental_social 43/5; regulacao_normativa 40/5; institucional 40/5; judicializacao 26/2; outros 23/5; barragens_seguranca 16/1; participacao_social 11/2; minerais_criticos 10/2
+**Temas (nº de itens em que votou / relatorias):** outorga_titulos 467/78; outros 349/112; recursos_recursais 296/42; agregados_construcao 138/18; fiscalizacao_sancoes 111/15; cfem_arrecadacao 79/7; garimpo_pla 57/10; institucional 55/7; regulacao_normativa 47/5; ambiental_social 45/6; judicializacao 26/2; barragens_seguranca 16/1; participacao_social 11/2; minerais_criticos 10/2
 **Argumentos recorrentes nas justificativas registradas:** governança/rito (3); transparência (1)
 **Tom (inferência da leitura, não métrica):** propositiva
 

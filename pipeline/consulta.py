@@ -10,7 +10,12 @@ def segs(ts):
     if not ts: return None
     p = [int(x) for x in re.findall(r"\d+", ts)][:3]
     return sum(v * m for v, m in zip(reversed(p), (1, 60, 3600)))
+def _ata_url(vid):
+    import json as _j, os as _o
+    f = f"data/analise/{vid}.analise.json"
+    return _j.load(open(f))["meta"].get("url") if _o.path.exists(f) else None
 def link(vid, ts):
+    if str(vid).startswith("ata_"): return _ata_url(vid) or ""
     s = segs(ts); return f"https://www.youtube.com/watch?v={vid}" + (f"&t={s}s" if s is not None else "")
 MARC = {"segurança jurídica": r"segurança jur", "usuário": r"usu[áa]rio", "evidência/dados": r"evid[êe]ncia|dados", "transparência": r"transpar",
         "participação social": r"participa[çc]ão|audi[êe]ncia", "interesse público": r"interesse público", "governança/rito": r"governan|rito|procedimento|devido processo|contradit",
@@ -73,7 +78,7 @@ def ficha(d, tema=None, n_ev=5):
     passo = max(len(ev) // n_ev, 1)
     for r in ev[::passo][:n_ev]:
         L.append(f"- **RD {r['numero']} ({r['data']}), item {r['item']}** — {r['assunto'][:150]} · voto: *{r['voto']}* · justificativa: «{r['justificativa'] or '—'}» · resultado: {r['resultado'][:80]}"
-                 + f"\n  - trecho ({r['trecho_tipo']}): «{(r['trecho'] or '—')[:280]}…» · [vídeo no minuto](https://www.youtube.com/watch?v={r['video_id']}&t={max((r['trecho_t'] or 0) - 3, 0)}s)")
+                 + f"\n  - trecho ({r['trecho_tipo']}): «{(r['trecho'] or '—')[:280]}…» · " + (f"[ata oficial]({link(r['video_id'], None)})" if str(r['video_id']).startswith('ata_') else f"[vídeo no minuto](https://www.youtube.com/watch?v={r['video_id']}&t={max((r['trecho_t'] or 0) - 3, 0)}s)") + "")
     L += ["", "**4. Contra-exemplos / fora do padrão:**"]
     for r in div[-n_ev:] or []:
         L.append(f"- RD {r['numero']} ({r['data']}), item {r['item']} · {r['categoria']}: *{r['voto']}* · «{r['justificativa'] or '—'}» · [vídeo]({link(r['video_id'], r['ts'] or r['its'])})")

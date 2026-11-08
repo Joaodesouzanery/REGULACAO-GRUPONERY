@@ -1,11 +1,11 @@
 # Perfil analítico — Victor Bicca · tema: cfem_arrecadacao
 
-**Amostra:** presente em 49 das 50 reuniões analisadas em que há registro de presença/ausência; 129 votos neste tema; 25 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 58 das 59 reuniões analisadas em que há registro de presença/ausência; 129 votos neste tema; 25 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
 **Votos:** acompanha o relator 94 (90% dos votos em que não era relator) · relator 25 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 10
 **Como relator:** 24/25 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** outorga_titulos 695/183; recursos_recursais 508/135; agregados_construcao 208/69; fiscalizacao_sancoes 164/36; cfem_arrecadacao 129/25; garimpo_pla 74/14; ambiental_social 62/13; regulacao_normativa 53/17; institucional 49/21; judicializacao 34/20; barragens_seguranca 32/6; outros 23/7; participacao_social 15/7; minerais_criticos 14/0
+**Temas (nº de itens em que votou / relatorias):** outorga_titulos 715/185; recursos_recursais 525/140; outros 298/52; agregados_construcao 216/69; fiscalizacao_sancoes 166/36; cfem_arrecadacao 129/25; garimpo_pla 77/17; ambiental_social 64/13; institucional 63/23; regulacao_normativa 60/17; judicializacao 34/20; barragens_seguranca 32/6; participacao_social 15/7; minerais_criticos 14/0
 **Argumentos recorrentes nas justificativas registradas:** governança/rito (2)
 
 ## Evidências (reunião · item · voto · justificativa)

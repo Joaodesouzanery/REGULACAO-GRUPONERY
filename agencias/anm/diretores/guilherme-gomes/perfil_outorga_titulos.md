@@ -1,11 +1,11 @@
 # Perfil analítico — Guilherme Gomes · tema: outorga_titulos
 
-**Amostra:** presente em 51 das 53 reuniões analisadas em que há registro de presença/ausência; 1018 votos neste tema; 175 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 52 das 54 reuniões analisadas em que há registro de presença/ausência; 1018 votos neste tema; 175 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
 **Votos:** acompanha o relator 791 (93% dos votos em que não era relator) · relator 175 · vista pedida 25 · voto-vista divergente 8 · vencido 4 · outros/não captado 15
 **Como relator:** 153/175 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** recursos_recursais 1120/225; outorga_titulos 1018/175; agregados_construcao 331/43; cfem_arrecadacao 295/85; fiscalizacao_sancoes 281/70; garimpo_pla 98/14; ambiental_social 91/17; institucional 65/5; regulacao_normativa 63/13; judicializacao 50/9; barragens_seguranca 42/3; minerais_criticos 20/5; participacao_social 15/2; outros 11/2
+**Temas (nº de itens em que votou / relatorias):** recursos_recursais 1120/225; outorga_titulos 1018/175; agregados_construcao 331/43; cfem_arrecadacao 295/85; fiscalizacao_sancoes 281/70; outros 206/24; garimpo_pla 98/14; ambiental_social 91/17; institucional 65/5; regulacao_normativa 63/13; judicializacao 50/9; barragens_seguranca 42/3; minerais_criticos 20/5; participacao_social 15/2
 **Argumentos recorrentes nas justificativas registradas:** eficiência/celeridade (13); segurança jurídica (6); proporcionalidade (3); interesse público (3); governança/rito (2); TCU/controle externo (1)
 **Tom (inferência da leitura, não métrica):** cauteloso | enfático com o procurador («você tá colocando tanta coisa aí que não diz respeito à matéria») | enfático | assertivo | insistente; interrompido pelo DG | enfático; ironiza a 'aula de direito' | pró-regulado | propositivo | crítico à área técnica | firme | enfático no debate | reflexivo, propõe debate | embate com o Diretor-Geral sobre ordem de votação e vista (inferência) | elogioso | irônico sobre a MP de 2017 | contundente | acusatório / enfático (diz que aceitar seria crime)
 

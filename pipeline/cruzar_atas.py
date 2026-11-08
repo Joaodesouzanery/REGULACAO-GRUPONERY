@@ -18,7 +18,9 @@ def res(s):
 def sobren(s): return (norm(re.sub(r"\(.*", "", s or "")).split() or [""])[-1][:5]
 n = collections.Counter(); rows = []; datas = {}; casadas = set()
 for f in sorted(glob.glob("data/analise/*.analise.json")):
-    vid = os.path.basename(f).split(".")[0]; d = json.load(open(f)); r = d["reuniao"]; k = chave(vid, r)
+    vid = os.path.basename(f).split(".")[0]
+    if vid.startswith("ata_"): continue  # criadas a partir da própria ata
+    d = json.load(open(f)); r = d["reuniao"]; k = chave(vid, r)
     if not k or k not in A: n["sem_ata"] += 1; rows.append([vid, r.get("numero"), r.get("data"), "", "", "sem ata correspondente", "", "", ""]); continue
     a = A[k]; casadas.add(k); n["reunioes"] += 1
     dv, da = str(r.get("data") or ""), str(a.get("data") or "")

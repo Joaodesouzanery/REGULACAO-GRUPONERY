@@ -1,11 +1,11 @@
 # Perfil analítico — Debora Puccini · tema: fiscalizacao_sancoes
 
-**Amostra:** presente em 36 das 36 reuniões analisadas em que há registro de presença/ausência; 109 votos neste tema; 15 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 48 das 48 reuniões analisadas em que há registro de presença/ausência; 111 votos neste tema; 15 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 90 (95% dos votos em que não era relator) · relator 15 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 4
+**Votos:** acompanha o relator 92 (95% dos votos em que não era relator) · relator 15 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 4
 **Como relator:** 15/15 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** outorga_titulos 440/70; recursos_recursais 271/32; agregados_construcao 128/18; fiscalizacao_sancoes 109/15; cfem_arrecadacao 79/7; garimpo_pla 54/10; ambiental_social 43/5; regulacao_normativa 40/5; institucional 40/5; judicializacao 26/2; outros 23/5; barragens_seguranca 16/1; participacao_social 11/2; minerais_criticos 10/2
+**Temas (nº de itens em que votou / relatorias):** outorga_titulos 467/78; outros 349/112; recursos_recursais 296/42; agregados_construcao 138/18; fiscalizacao_sancoes 111/15; cfem_arrecadacao 79/7; garimpo_pla 57/10; institucional 55/7; regulacao_normativa 47/5; ambiental_social 45/6; judicializacao 26/2; barragens_seguranca 16/1; participacao_social 11/2; minerais_criticos 10/2
 
 ## Evidências (reunião · item · voto · justificativa)
 
@@ -31,6 +31,8 @@
 - **RD 16ª Ordinária (2020-05-20)**, item 1.3.16 — Recurso contra multa (≈R$ 3.084) por pagamento em atraso da TAH · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=lbQcuLZy28Y&t=11610s) · resultado: aprovado por unanimidade: recurso improcedente
 - **RD 16ª Ordinária (2020-05-20)**, item 1.5.3 — Recursos contra multas por não entrega do RAL (ano-base 2016) · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=lbQcuLZy28Y&t=12240s) · resultado: aprovado por unanimidade: recursos não providos
 - **RD 9ª Reunião Extraordinária Pública (2020-05-27)**, item 2.8 — Caducidade do direito de requerer lavra (não requereu lavra em 1 ano após aprovação do RFP em 2015) · voto: *relator, aprova* (relator, conf. alta) · [vídeo](https://www.youtube.com/watch?v=XgYPPYFL8T0&t=7548s) · resultado: caducidade declarada (unanimidade)
+- **RD 17ª Reunião Ordinária Pública (só ata) (2020-06-17)**, item 1.5.11 — Considerando a prescrição do prazo no procedimento de caducidade instaurado, voto pelo arquivamento do mesmo. Porém, considerando os indício · voto: *acompanha o relator (ata: unanimidade dos presentes)* (acompanha, conf. ata) · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-17a-rop.pdf) · resultado: aprovado por unanimidade
+- **RD 17ª Reunião Ordinária Pública (só ata) (2020-06-17)**, item 1.3.1 — Voto pela declaração de caducidade do título de concessão de lavra, sem prejuízo do prosseguimento das cobranças decorrentes das multas apli · voto: *acompanha o relator (ata: unanimidade dos presentes)* (acompanha, conf. ata) · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-17a-rop.pdf) · resultado: aprovado por unanimidade
 - **RD 18ª Reunião Ordinária Pública (2020-07-22)**, item 1.1.6 (voto-vista) — Voto-vista do DG sobre recurso contra caducidade do direito de requerer lavra (requerimento 8 dias após o prazo; DNPM fez exigências por ano · voto: *acompanha o voto de Eduardo* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=rDHG2v6FECg&t=2874s) · resultado: pedido de vista de Tomás Filho; deliberação suspensa (concluída na 20ª
 - **RD 18ª Reunião Ordinária Pública (2020-07-22)**, item 1.2.6 — Recurso contra auto de infração 641/2018 (não entrega de RAL de 2017) e homologação de renúncia à concessão de lavra de argila (Conchas-SP) · voto: *relator, aprova* (relator, conf. alta) · [vídeo](https://www.youtube.com/watch?v=rDHG2v6FECg&t=5319s) · resultado: aprovado por unanimidade
 - **RD 18ª Reunião Ordinária Pública (2020-07-22)**, item 1.3.6 — Prorrogação do direito de requerer lavra de areia (MG) pedida em 2010 por falecimento do titular em 2003 · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=rDHG2v6FECg) · resultado: aprovado por unanimidade dos presentes: prorrogação indeferida e caduc

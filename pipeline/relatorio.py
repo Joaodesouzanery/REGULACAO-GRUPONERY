@@ -33,7 +33,13 @@ def seg(ts):
     p = [int(x) for x in re.findall(r"\d+", ts or "")][-3:]
     while len(p) < 3: p.insert(0, 0)
     return p[0] * 3600 + p[1] * 60 + p[2]
-def link(vid, ts): return f"https://www.youtube.com/watch?v={vid}&t={max(seg(ts) - 5, 0)}s"
+def _ata_url(vid):
+    import json as _j, os as _o
+    f = f"data/analise/{vid}.analise.json"
+    return _j.load(open(f))["meta"].get("url") if _o.path.exists(f) else None
+def link(vid, ts):
+    if str(vid).startswith("ata_"): return _ata_url(vid) or ""
+    return f"https://www.youtube.com/watch?v={vid}&t={max(seg(ts) - 5, 0)}s"
 def md_inline(s):
     s = E(s)
     s = re.sub(r"\[([^\]]+)\]\((https?://[^)]+)\)", r'<a href="\2">\1</a>', s)
@@ -109,7 +115,7 @@ for i, (q, t) in enumerate(perg):
         pag.append(f'<section class="pg">{head}<div class="lead">{md_inline(curta) if curta else ""}</div><div class="kpis">{kp}</div>'
                    f'<div class="dois"><div><h4>Como vota ({E(d["periodo"])})</h4>{barras(d["dist"])}<div class="fonte">Fonte: reuniões públicas de diretoria ({(t.get("agencia") or AG).upper()}), YouTube oficial; base Grupo Nery. n = {d["n"]}.</div></div>'
                    f'<div><h4>Contra-exemplos (fora do padrão)</h4><ul>' + ("".join(f'<li><b>RD {E(str(r["numero"]))} ({E(r["data"])})</b>, item {E(r["item"])} — {E(r["categoria"])}: {E((r["justificativa"] or r["voto"] or "")[:160])} · <a href="{link(r["video_id"], r["ts"] or r["its"])}">vídeo</a></li>' for r in d["contra"]) or "<li>Nenhum voto de vista, divergência ou vencido neste recorte.</li>") + '</ul></div></div></section>')
-        linhas = "".join(f'<tr><td><b>RD {E(str(r["numero"]))}</b><br>{E(r["data"])}<br>item {E(r["item"])}</td><td>{E(r["assunto"][:150])}</td><td>{E((r["voto"] or "")[:90])}<br><i>{E((r["justificativa"] or "")[:140])}</i></td><td class="lit">«{E((r["trecho"] or "—")[:230])}…»</td><td><a href="https://www.youtube.com/watch?v={r["video_id"]}&t={max((r["trecho_t"] or seg(r["ts"] or r["its"])) - 3, 0)}s">assistir no minuto</a></td></tr>' for r in d["ev"])
+        linhas = "".join(f'<tr><td><b>RD {E(str(r["numero"]))}</b><br>{E(r["data"])}<br>item {E(r["item"])}</td><td>{E(r["assunto"][:150])}</td><td>{E((r["voto"] or "")[:90])}<br><i>{E((r["justificativa"] or "")[:140])}</i></td><td class="lit">«{E((r["trecho"] or "—")[:230])}…»</td><td><a href="{link(r["video_id"], None) if str(r["video_id"]).startswith("ata_") else f'https://www.youtube.com/watch?v={r["video_id"]}&t={max((r["trecho_t"] or seg(r["ts"] or r["its"])) - 3, 0)}s'}">{"ata oficial" if str(r["video_id"]).startswith("ata_") else "assistir no minuto"}</a></td></tr>' for r in d["ev"])
         pag.append(f'<section class="pg">{head}<h4>Evidências</h4><table><tr><th>Reunião</th><th>Assunto</th><th>Voto e justificativa</th><th>Trecho literal (legenda)</th><th>Vídeo</th></tr>{linhas}</table>'
                    f'<div class="fonte">Trechos da legenda automática do YouTube (podem conter erros de transcrição). Links abrem o vídeo no minuto do voto.</div></section>')
     if rf:

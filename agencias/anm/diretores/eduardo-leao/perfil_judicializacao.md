@@ -1,11 +1,11 @@
 # Perfil analítico — Eduardo Leão · tema: judicializacao
 
-**Amostra:** presente em 23 das 23 reuniões analisadas em que há registro de presença/ausência; 17 votos neste tema; 1 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 34 das 34 reuniões analisadas em que há registro de presença/ausência; 17 votos neste tema; 1 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
 **Votos:** acompanha o relator 14 (87% dos votos em que não era relator) · relator 1 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 2
 **Como relator:** 1/1 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** outorga_titulos 262/45; recursos_recursais 147/17; agregados_construcao 98/19; fiscalizacao_sancoes 74/22; cfem_arrecadacao 40/10; garimpo_pla 37/5; ambiental_social 26/6; regulacao_normativa 25/4; institucional 23/3; judicializacao 17/1; outros 15/0; barragens_seguranca 11/5; minerais_criticos 9/4; participacao_social 6/0
+**Temas (nº de itens em que votou / relatorias):** outorga_titulos 289/52; recursos_recursais 170/19; outros 145/20; agregados_construcao 108/19; fiscalizacao_sancoes 76/23; garimpo_pla 40/5; cfem_arrecadacao 40/10; institucional 37/3; regulacao_normativa 32/6; ambiental_social 28/6; judicializacao 17/1; barragens_seguranca 11/5; minerais_criticos 9/4; participacao_social 6/0
 
 ## Evidências (reunião · item · voto · justificativa)
 

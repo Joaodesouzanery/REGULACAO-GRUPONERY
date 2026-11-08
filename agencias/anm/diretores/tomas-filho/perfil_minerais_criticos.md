@@ -1,11 +1,11 @@
 # Perfil analítico — Tomás Filho · tema: minerais_criticos
 
-**Amostra:** presente em 15 das 17 reuniões analisadas em que há registro de presença/ausência; 5 votos neste tema; 1 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 23 das 25 reuniões analisadas em que há registro de presença/ausência; 5 votos neste tema; 1 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
 **Votos:** acompanha o relator 4 (100% dos votos em que não era relator) · relator 1 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 1/1 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** outorga_titulos 180/36; recursos_recursais 108/22; agregados_construcao 76/5; fiscalizacao_sancoes 57/9; garimpo_pla 30/8; cfem_arrecadacao 28/8; ambiental_social 23/7; regulacao_normativa 19/3; institucional 16/3; outros 12/4; judicializacao 10/0; barragens_seguranca 8/0; participacao_social 5/2; minerais_criticos 5/1
+**Temas (nº de itens em que votou / relatorias):** outorga_titulos 202/42; outros 140/58; recursos_recursais 124/25; agregados_construcao 84/6; fiscalizacao_sancoes 59/10; garimpo_pla 33/8; institucional 30/11; cfem_arrecadacao 28/8; regulacao_normativa 26/6; ambiental_social 25/8; judicializacao 10/0; barragens_seguranca 8/0; participacao_social 5/2; minerais_criticos 5/1
 **Argumentos recorrentes nas justificativas registradas:** governança/rito (1)
 
 ## Evidências (reunião · item · voto · justificativa)

@@ -1,11 +1,11 @@
 # Perfil analítico — Ronaldo Lima · tema: ambiental_social
 
-**Amostra:** presente em 20 das 21 reuniões analisadas em que há registro de presença/ausência; 28 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 21 das 22 reuniões analisadas em que há registro de presença/ausência; 28 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
 **Votos:** acompanha o relator 26 (100% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 2/2 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** outorga_titulos 354/58; recursos_recursais 301/73; agregados_construcao 97/25; fiscalizacao_sancoes 77/20; cfem_arrecadacao 68/19; garimpo_pla 31/15; ambiental_social 28/2; barragens_seguranca 21/9; regulacao_normativa 20/3; institucional 17/2; judicializacao 9/1; participacao_social 7/1; outros 6/1; minerais_criticos 6/0
+**Temas (nº de itens em que votou / relatorias):** outorga_titulos 354/58; recursos_recursais 301/73; outros 201/6; agregados_construcao 97/25; fiscalizacao_sancoes 77/20; cfem_arrecadacao 68/19; garimpo_pla 31/15; ambiental_social 28/2; barragens_seguranca 21/9; regulacao_normativa 20/3; institucional 17/2; judicializacao 9/1; participacao_social 7/1; minerais_criticos 6/0
 
 ## Evidências (reunião · item · voto · justificativa)
 

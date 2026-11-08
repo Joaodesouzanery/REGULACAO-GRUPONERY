@@ -1,11 +1,11 @@
 # Perfil analítico — Tasso Mendonça · tema: cfem_arrecadacao
 
-**Amostra:** presente em 87 das 87 reuniões analisadas em que há registro de presença/ausência; 447 votos neste tema; 65 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 99 das 99 reuniões analisadas em que há registro de presença/ausência; 447 votos neste tema; 65 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
 **Votos:** acompanha o relator 362 (94% dos votos em que não era relator) · relator 65 · vista pedida 13 · voto-vista divergente 0 · vencido 0 · outros/não captado 7
 **Como relator:** 59/65 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** outorga_titulos 1566/317; recursos_recursais 1561/296; agregados_construcao 524/99; cfem_arrecadacao 447/65; fiscalizacao_sancoes 431/94; garimpo_pla 186/40; ambiental_social 155/39; regulacao_normativa 114/21; institucional 113/14; judicializacao 88/16; minerais_criticos 65/23; barragens_seguranca 53/16; outros 41/8; participacao_social 29/3
+**Temas (nº de itens em que votou / relatorias):** outorga_titulos 1596/325; recursos_recursais 1585/302; agregados_construcao 535/109; cfem_arrecadacao 447/65; fiscalizacao_sancoes 433/94; outros 369/79; garimpo_pla 189/40; ambiental_social 157/39; institucional 128/17; regulacao_normativa 122/22; judicializacao 88/16; minerais_criticos 65/23; barragens_seguranca 53/16; participacao_social 29/3
 **Argumentos recorrentes nas justificativas registradas:** segurança viária (2); interesse público (1)
 
 ## Evidências (reunião · item · voto · justificativa)
