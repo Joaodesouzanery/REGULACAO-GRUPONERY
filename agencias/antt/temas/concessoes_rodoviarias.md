@@ -327,7 +327,7 @@
 - **RD 867 (2020-08-04)**, 2.2.3 · relator **None** · Autorização para cobrança bidirecional de pedágio nas praças P2 e P3 após cumprimento da cláusula 17.3 do contrato 01/2019 (alterações nas praças em a → aprovado por unanimidade
   - votos: Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=Y2XuL68vXN4&t=1477s)
 - **RD 867 (2020-08-04)**, 2.2.4 · relator **Davi Barreto** · 12ª revisão ordinária, 14ª revisão extraordinária e reajuste da tarifa básica de pedágio; termos aditivos para inclusão do Contorno de Florianópolis ( → aprovado por maioria (um voto divergente/ressalvas)
-  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=Y2XuL68vXN4&t=1661s)
+  - votos: Davi: relator; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=Y2XuL68vXN4&t=1661s)
 - **RD 868 (2020-08-11)**, 2.1.1 · relator **Marcelo Vinaud** · Recurso contra o auto de infração nº 48 (25/10/2017): execução parcial/total de obras sem cumprir cronograma (art. 19 da Res. 4.071/2013) → aprovado por unanimidade — recurso conhecido e improvido
   - votos: Marcelo: relator; Davi: acompanha; Eduardo: acompanha; Weber: nao_captado; Alexandre: nao_captado · [vídeo](https://www.youtube.com/watch?v=OwXT6_HIJz0&t=339s)
 - **RD 869 (2020-08-25)**, 2.2.2 · relator **None** · Aplicação de escritura pública para desapropriação das áreas necessárias às obras do acesso à BR-386/RS (Montenegro/RS) → aprovado por unanimidade

@@ -59,7 +59,7 @@
 - **RD 63 (extraordinária) (2019-07-22)**, 2.1.1 · relator **Davi Barreto** · Suspensão cautelar da Resolução 5.849, de 16/07/2019 (metodologia e pisos mínimos do frete no transporte rodoviário de cargas), a pedido do Ministério → aprovado por unanimidade
   - votos: Davi: relator; Marcelo: acompanha; Elisabeth: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=tVr3sqGXaIg&t=58s)
 - **RD 820 (2019-07-30)**, 2.3.5 · relator **Elisabeth Braga** · Anuência prévia para transferência de mercados (linhas) do Consórcio Guanabara para a Real Expresso, com sustentação oral do advogado do consórcio; di → pedido de vista; sem decisão na sessão
-  - votos: Elisabeth: relator; Davi: vista; Marcelo: outro; Mário: outro · [vídeo](https://www.youtube.com/watch?v=wTsJa3zoysI&t=415s)
+  - votos: Elisabeth: relator; Marcelo: outro; Mário: outro · [vídeo](https://www.youtube.com/watch?v=wTsJa3zoysI&t=415s)
 - **RD 820 (2019-07-30)**, 2.2.2 · relator **Marcelo Vinaud** · Abertura de audiência pública: resolução sobre transporte ferroviário de cargas por operador ferroviário independente (OFI), revogação da Res. 4.348/2 → aprovado por unanimidade
   - votos: Marcelo: relator; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=wTsJa3zoysI&t=1836s)
 - **RD 820 (2019-07-30)**, 2.3.11 · relator **Elisabeth Braga** · Abertura de audiência pública: resolução com diretrizes para o procedimento preparatório e o processo sancionador de caducidade em contratos de conces → aprovado por unanimidade
