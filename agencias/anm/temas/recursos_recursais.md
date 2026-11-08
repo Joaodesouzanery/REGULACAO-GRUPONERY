@@ -1,61 +1,91 @@
 # Itens do tema «recursos_recursais» (todos os diretores)
 
-- **RD 4ª ROP (2019-06-24)**, 5 · relator **None** · Recurso contra indeferimento de prorrogação de licenciamento com base em débito/inclusão no CADIN (MP 790/2017, não convertida em lei) → recurso provido (sem divergência registrada)
-  - votos:  · [vídeo](https://www.youtube.com/watch?v=cv5RTjpyQbM&t=2260s)
-- **RD 4ª ROP (2019-06-24)**, 6 · relator **None** · Recurso contra notificação fiscal de cobrança de CFEM (valor citado ≈ R$ 111 mil) — dedução de ICMS na base de cálculo → aprovado com observação (provimento parcial/deferimento conforme relator; sem divergência 
-  - votos:  · [vídeo](https://www.youtube.com/watch?v=cv5RTjpyQbM&t=2500s)
-- **RD 4ª ROP (2019-06-24)**, 7 · relator **None** · Recurso contra indeferimento de registro de licença (areia) por falta de licença ambiental ou protocolo → recurso não provido (sem divergência registrada)
-  - votos:  · [vídeo](https://www.youtube.com/watch?v=cv5RTjpyQbM&t=2773s)
-- **RD 4ª ROP (2019-06-24)**, 8 · relator **None** · Recurso contra indeferimento de prorrogação de licença (argila) por cumprimento de exigência com 7 dias de atraso / falta de anuência do proprietário  → recurso provido (sem divergência registrada)
-  - votos:  · [vídeo](https://www.youtube.com/watch?v=cv5RTjpyQbM&t=2865s)
-- **RD 4ª ROP (2019-06-24)**, 9 · relator **None** · Novo recurso contra indeferimento de requerimento (ouro) após recurso intempestivo não conhecido → recurso não conhecido (sem divergência registrada)
-  - votos:  · [vídeo](https://www.youtube.com/watch?v=cv5RTjpyQbM&t=3136s)
-- **RD 4ª ROP (2019-06-24)**, 12 · relator **None** · Recurso contra decisão sobre prorrogação de licença; questão da ciência do interessado sobre exigência (AR não juntado) → recurso provido (voto-vista convergente)
-  - votos:  · [vídeo](https://www.youtube.com/watch?v=cv5RTjpyQbM&t=5887s)
-- **RD 4ª ROP (2019-06-24)**, 15 · relator **None** · Recurso/reconsideração (MT) — gravação termina no meio da leitura → não registrado (vídeo termina)
-  - votos:  · [vídeo](https://www.youtube.com/watch?v=cv5RTjpyQbM&t=6972s)
-- **RD 2ª Ordinária (2019-07-22)**, 2.a · relator **None** · Recursos administrativos (procuração/representação fora do prazo; decisão do diretor-geral) — conteúdo fragmentado → não identificado
+- **RD 2ª Ordinária (2019-03-19)**, 2.a · relator **None** · Recursos administrativos (procuração/representação fora do prazo; decisão do diretor-geral) — conteúdo fragmentado → não identificado
   - votos:  · [vídeo](https://www.youtube.com/watch?v=gI6Jtv59bYY&t=90s)
-- **RD 2ª Ordinária (2019-07-22)**, 2.b · relator **None** · Recurso em procedimento de disponibilidade de área: julgamento de propostas pela comissão (comprovação de capacidade financeira para investimento, cer → não identificado
+- **RD 2ª Ordinária (2019-03-19)**, 2.b · relator **None** · Recurso em procedimento de disponibilidade de área: julgamento de propostas pela comissão (comprovação de capacidade financeira para investimento, cer → não identificado
   - votos:  · [vídeo](https://www.youtube.com/watch?v=gI6Jtv59bYY&t=240s)
-- **RD 2ª Ordinária (2019-07-22)**, 2.c · relator **None** · Recurso contra notificação de lançamento (CFEM, período 2007–2008) com discussão de prescrição intercorrente → não identificado
+- **RD 2ª Ordinária (2019-03-19)**, 2.c · relator **None** · Recurso contra notificação de lançamento (CFEM, período 2007–2008) com discussão de prescrição intercorrente → não identificado
   - votos:  · [vídeo](https://www.youtube.com/watch?v=gI6Jtv59bYY&t=540s)
-- **RD 3ª Ordinária (2019-07-22)**, 2.c · relator **None** · Pedido de reconsideração não conhecido (instância esgotada) → não conhecido (inferido)
+- **RD 3ª Ordinária (2019-04-23)**, 2.c · relator **None** · Pedido de reconsideração não conhecido (instância esgotada) → não conhecido (inferido)
   - votos:  · [vídeo](https://www.youtube.com/watch?v=8A8BYpBAOPM&t=2100s)
-- **RD 7ª Ordinária (2019-08)**, D1 · relator **Debora Puccini** · Recurso (tratado como pedido de reconsideração) contra não aprovação de relatório final de pesquisa de areia no mar de Balneário Camboriú (SC), em con → não provido; áreas à disponibilidade (art. 26 do Código)
+- **RD 4ª ROP (2019-05-21)**, 5 · relator **None** · Recurso contra indeferimento de prorrogação de licenciamento com base em débito/inclusão no CADIN (MP 790/2017, não convertida em lei) → recurso provido (sem divergência registrada)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=cv5RTjpyQbM&t=2260s)
+- **RD 4ª ROP (2019-05-21)**, 6 · relator **None** · Recurso contra notificação fiscal de cobrança de CFEM (valor citado ≈ R$ 111 mil) — dedução de ICMS na base de cálculo → aprovado com observação (provimento parcial/deferimento conforme relator; sem divergência 
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=cv5RTjpyQbM&t=2500s)
+- **RD 4ª ROP (2019-05-21)**, 7 · relator **None** · Recurso contra indeferimento de registro de licença (areia) por falta de licença ambiental ou protocolo → recurso não provido (sem divergência registrada)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=cv5RTjpyQbM&t=2773s)
+- **RD 4ª ROP (2019-05-21)**, 8 · relator **None** · Recurso contra indeferimento de prorrogação de licença (argila) por cumprimento de exigência com 7 dias de atraso / falta de anuência do proprietário  → recurso provido (sem divergência registrada)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=cv5RTjpyQbM&t=2865s)
+- **RD 4ª ROP (2019-05-21)**, 9 · relator **None** · Novo recurso contra indeferimento de requerimento (ouro) após recurso intempestivo não conhecido → recurso não conhecido (sem divergência registrada)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=cv5RTjpyQbM&t=3136s)
+- **RD 4ª ROP (2019-05-21)**, 12 · relator **None** · Recurso contra decisão sobre prorrogação de licença; questão da ciência do interessado sobre exigência (AR não juntado) → recurso provido (voto-vista convergente)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=cv5RTjpyQbM&t=5887s)
+- **RD 4ª ROP (2019-05-21)**, 15 · relator **None** · Recurso/reconsideração (MT) — gravação termina no meio da leitura → não registrado (vídeo termina)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=cv5RTjpyQbM&t=6972s)
+- **RD 7ª Ordinária (2019-08-20)**, D1 · relator **Debora Puccini** · Recurso (tratado como pedido de reconsideração) contra não aprovação de relatório final de pesquisa de areia no mar de Balneário Camboriú (SC), em con → não provido; áreas à disponibilidade (art. 26 do Código)
   - votos: Debora: relator; Victor: acompanha; Tasso: acompanha; Eduardo: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=gqN-UXqNYhQ&t=173s)
-- **RD 7ª Ordinária (2019-08)**, D2 · relator **Debora Puccini** · Pedido de reconsideração contra indeferimento de requerimento de pesquisa por interferência total (opção de área remanescente feita depois do requerim → não provido
+- **RD 7ª Ordinária (2019-08-20)**, D2 · relator **Debora Puccini** · Pedido de reconsideração contra indeferimento de requerimento de pesquisa por interferência total (opção de área remanescente feita depois do requerim → não provido
   - votos: Debora: relator; Victor: acompanha; Tasso: acompanha; Eduardo: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=gqN-UXqNYhQ&t=823s)
-- **RD 7ª Ordinária (2019-08)**, E5 · relator **Eduardo Leão** · Recurso contra indeferimento (pelo DG em 2018) de prorrogação do prazo para requerer lavra → não provido; segue para caducidade do direito de requerer lavra
+- **RD 7ª Ordinária (2019-08-20)**, E5 · relator **Eduardo Leão** · Recurso contra indeferimento (pelo DG em 2018) de prorrogação do prazo para requerer lavra → não provido; segue para caducidade do direito de requerer lavra
   - votos: Eduardo: relator; Victor: acompanha; Tasso: acompanha; Debora: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=gqN-UXqNYhQ&t=3619s)
-- **RD 7ª Ordinária (2019-08)**, X1 · relator **None** · Recurso contra nulidade do registro de licença 4606/2016 (areia, sul de MG) por declaração de propriedade inverídica → não provido; nulidade mantida
+- **RD 7ª Ordinária (2019-08-20)**, X1 · relator **None** · Recurso contra nulidade do registro de licença 4606/2016 (areia, sul de MG) por declaração de propriedade inverídica → não provido; nulidade mantida
   - votos: Victor: acompanha; Tasso: acompanha; Debora: acompanha; Eduardo: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=gqN-UXqNYhQ&t=4418s)
-- **RD 7ª Ordinária (2019-08)**, X2 · relator **None** · Recurso contra nulidade dos registros de licença 11/2014 e 12/2014 (PA) por interferência com títulos prioritários → não provido; nulidades mantidas
+- **RD 7ª Ordinária (2019-08-20)**, X2 · relator **None** · Recurso contra nulidade dos registros de licença 11/2014 e 12/2014 (PA) por interferência com títulos prioritários → não provido; nulidades mantidas
   - votos: Victor: acompanha; Tasso: acompanha; Debora: acompanha; Eduardo: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=gqN-UXqNYhQ&t=4713s)
-- **RD 7ª Ordinária (2019-08)**, X3 · relator **None** · Anulação do edital de disponibilidade 59/2009 (DNPM-RJ) publicado antes de decidido o pedido de reconsideração da caducidade → edital anulado; novo procedimento de disponibilidade
+- **RD 7ª Ordinária (2019-08-20)**, X3 · relator **None** · Anulação do edital de disponibilidade 59/2009 (DNPM-RJ) publicado antes de decidido o pedido de reconsideração da caducidade → edital anulado; novo procedimento de disponibilidade
   - votos: Debora: acompanha; Victor: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=gqN-UXqNYhQ&t=5034s)
-- **RD 7ª Ordinária (2019-08)**, X8 · relator **None** · Recursos contra não aprovação de relatório final de pesquisa: processos devolvidos à Superintendência de Pesquisa para manifestação técnica (instrução → baixados em diligência à SPRM
+- **RD 7ª Ordinária (2019-08-20)**, X8 · relator **None** · Recursos contra não aprovação de relatório final de pesquisa: processos devolvidos à Superintendência de Pesquisa para manifestação técnica (instrução → baixados em diligência à SPRM
   - votos: Victor: acompanha; Tasso: acompanha; Debora: acompanha; Eduardo: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=gqN-UXqNYhQ&t=9153s)
-- **RD 7ª Ordinária (2019-08)**, B1 · relator **Victor Bicca** · Recurso contra baixa da transcrição de registro de licença (RS) por pedido de prorrogação fora da vigência → não provido
+- **RD 7ª Ordinária (2019-08-20)**, B1 · relator **Victor Bicca** · Recurso contra baixa da transcrição de registro de licença (RS) por pedido de prorrogação fora da vigência → não provido
   - votos: Victor: relator; Tasso: acompanha; Eduardo: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=gqN-UXqNYhQ&t=9998s)
-- **RD 7ª Ordinária (2019-08)**, B2 · relator **Victor Bicca** · Recurso contra indeferimento de registro de licença (Patos de Minas/MG) por interferência total → não provido
+- **RD 7ª Ordinária (2019-08-20)**, B2 · relator **Victor Bicca** · Recurso contra indeferimento de registro de licença (Patos de Minas/MG) por interferência total → não provido
   - votos: Victor: relator; Tasso: acompanha; Eduardo: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=gqN-UXqNYhQ&t=10330s)
-- **RD 7ª Ordinária (2019-08)**, B3 · relator **Victor Bicca** · Recurso contra indeferimento de registro de licença (CE): nova licença municipal fora dos 30 dias → não provido
+- **RD 7ª Ordinária (2019-08-20)**, B3 · relator **Victor Bicca** · Recurso contra indeferimento de registro de licença (CE): nova licença municipal fora dos 30 dias → não provido
   - votos: Victor: relator; Tasso: acompanha; Eduardo: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=gqN-UXqNYhQ&t=10596s)
-- **RD 7ª Ordinária (2019-08)**, B4 · relator **Victor Bicca** · Recurso contra indeferimento de plano de registro de licença (SC): licença de município errado → não conhecido (intempestivo) e não provido
+- **RD 7ª Ordinária (2019-08-20)**, B4 · relator **Victor Bicca** · Recurso contra indeferimento de plano de registro de licença (SC): licença de município errado → não conhecido (intempestivo) e não provido
   - votos: Victor: relator; Tasso: acompanha; Eduardo: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=gqN-UXqNYhQ&t=10865s)
-- **RD 7ª Ordinária (2019-08)**, B5 · relator **Victor Bicca** · Recurso contra indeferimento de registro de licença (MG) por exigência de constituir empresa → provido
+- **RD 7ª Ordinária (2019-08-20)**, B5 · relator **Victor Bicca** · Recurso contra indeferimento de registro de licença (MG) por exigência de constituir empresa → provido
   - votos: Victor: relator; Tasso: acompanha; Eduardo: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=gqN-UXqNYhQ&t=11018s)
 - **RD 1ª Reunião Extraordinária Pública (2019-09-06)**, 6 · relator **None** · Pedido de reconsideração contra indeferimento de 26 requerimentos de PLG de ouro (Nossa Senhora do Livramento, MT) sobre áreas oneradas por alvarás de → reconsideração conhecida e desprovida (unanimidade inferida)
   - votos: Tasso: acompanha; Eduardo: acompanha; Tomás: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=VY_K3xq1i1U&t=3261s)
-- **RD 9ª Ordinária (2019-10-15)**, 2 · relator **Victor Bicca** · Recurso contra indeferimento de prorrogação de registro de licença (Ceará) por falta de autorização do proprietário do solo → recurso conhecido e não provido
+- **RD 8ª Reunião Ordinária Pública (só ata) (2019-09-17)**, 2.4.3 · relator **Victor Bicca** · 2.4.3. Processos nº 48411-815395/2018. Interessado(a): Cerâmica Floss Ltda ME. Assunto: Recurso de licenciamento. O item foi retirado de pauta, visto  → retirado de pauta
+  - votos: Victor: relator · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-8a-reuniao-ordinaria-publica-diretoria-colegiada.pdf)
+- **RD 9ª Ordinária (2019-10-16)**, 2 · relator **Victor Bicca** · Recurso contra indeferimento de prorrogação de registro de licença (Ceará) por falta de autorização do proprietário do solo → recurso conhecido e não provido
   - votos: Victor: relator; Debora: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=lqrKYTzyL0M&t=427s)
-- **RD 9ª Ordinária (2019-10-15)**, 3 · relator **Victor Bicca** · Recurso contra indeferimento de prorrogação de registro de licença (Espírito Santo) por anuência do proprietário fora do prazo → provido (prorrogação autorizada até 29/01/2020, vencimento da licença municipal)
+- **RD 9ª Ordinária (2019-10-16)**, 3 · relator **Victor Bicca** · Recurso contra indeferimento de prorrogação de registro de licença (Espírito Santo) por anuência do proprietário fora do prazo → provido (prorrogação autorizada até 29/01/2020, vencimento da licença municipal)
   - votos: Victor: relator; Tasso: acompanha; Eduardo: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=lqrKYTzyL0M&t=752s)
-- **RD 9ª Ordinária (2019-10-15)**, 4 · relator **Victor Bicca** · Recurso/pedido de reconsideração contra resultado de procedimento de disponibilidade (Edital 47/2011, DNPM-BA); segunda comissão alterou pontuações; n → retirado de pauta; vista a Tasso Mendonça, que avaliará consulta à PFE
+- **RD 9ª Ordinária (2019-10-16)**, 4 · relator **Victor Bicca** · Recurso/pedido de reconsideração contra resultado de procedimento de disponibilidade (Edital 47/2011, DNPM-BA); segunda comissão alterou pontuações; n → retirado de pauta; vista a Tasso Mendonça, que avaliará consulta à PFE
   - votos: Victor: relator; Tasso: vista; Eduardo: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=lqrKYTzyL0M&t=1314s)
-- **RD 9ª Ordinária (2019-10-15)**, 5 · relator **Debora Puccini** · Pedido de reconsideração contra indeferimento de requerimentos de PLG de ouro em Apiacás (MT) sobre áreas oneradas por alvarás da MGM Mato Grosso → não provido (indeferimento mantido)
+- **RD 9ª Ordinária (2019-10-16)**, 5 · relator **Debora Puccini** · Pedido de reconsideração contra indeferimento de requerimentos de PLG de ouro em Apiacás (MT) sobre áreas oneradas por alvarás da MGM Mato Grosso → não provido (indeferimento mantido)
   - votos: Debora: relator; Victor: acompanha; Tasso: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=lqrKYTzyL0M&t=3185s)
+- **RD 3ª Reunião Extraordinária Pública (só ata) (2019-11-06)**, 1.1.1 · relator **Tasso Mendonça** · etoria Colegiada referendou, no mérito, o envio dos autos à Superintendência de Pesquisa e Recursos Minerais para a expedição do alvará retificador e  → outro
+  - votos: Tasso: relator · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-3a-reuniao-extraordinaria-publica-diretoria-colegiada.pdf)
+- **RD 11ª Reunião Ordinária Pública (só ata) (2019-12-10)**, 1.1.10 · relator **Victor Bicca** · Acatar o pedido de reconsideração contra o ato da SGM/MME, publicado no DOU de 16/01/2017. Como a competência da outorga de Concessão de Lavra para a  → aprovado por unanimidade
+  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-11a-reuniao-ordinaria-publica-diretoria-colegiada.pdf)
+- **RD 11ª Reunião Ordinária Pública (só ata) (2019-12-10)**, 1.2.3 · relator **Debora Puccini** · Considerando as análises técnicas das comissões julgadoras de disponibilidade da ANM/PA e ANM Sede, além de seus respectivos julgamentos e pontuações, → aprovado por unanimidade
+  - votos: Victor: acompanha; Debora: relator; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-11a-reuniao-ordinaria-publica-diretoria-colegiada.pdf)
+- **RD 11ª Reunião Ordinária Pública (só ata) (2019-12-10)**, 1.5.1 · relator **Tomás Filho** · Acatar a recomendação da Superintendência de Pesquisa e Recursos Minerais, expedindo a guia de utilização para extração de 60.000 toneladas de calcári → aprovado por unanimidade
+  - votos: Victor: acompanha; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: relator · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-11a-reuniao-ordinaria-publica-diretoria-colegiada.pdf)
+- **RD 11ª Reunião Ordinária Pública (só ata) (2019-12-10)**, 1.5.4 · relator **Tomás Filho** · Negar provimento ao recurso, mantendo a baixa na transcrição e arquivamento dos autos. Carlos Lacerda, Advogado, solicitou a palavra e questionou que  → aprovado por unanimidade
+  - votos: Victor: acompanha; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: relator · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-11a-reuniao-ordinaria-publica-diretoria-colegiada.pdf)
+- **RD 5ª Reunião Extraordinária Pública (só ata) (2019-12-18)**, 3.1.1 · relator **Debora Puccini** · sa e Recursos Minerais – CPRM. Assunto: Autorização para pesquisa complementar. Deliberação: Tornar sem efeito a Autorização de Pesquisa Complementar  → aprovado por unanimidade
+  - votos: Tasso: acompanha; Debora: relator; Eduardo: acompanha · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-5a-reuniao-extraordinaria-publica-diretoria-colegiada.pdf)
+- **RD 5ª Reunião Extraordinária Pública (só ata) (2019-12-18)**, 3.1.2 · relator **Debora Puccini** · sa e Recursos Minerais – CPRM. Assunto: Autorização para pesquisa complementar. Deliberação: Tornar sem efeito a Autorização de Pesquisa Complementar  → aprovado por unanimidade
+  - votos: Tasso: acompanha; Debora: relator; Eduardo: acompanha · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-5a-reuniao-extraordinaria-publica-diretoria-colegiada.pdf)
+- **RD 5ª Reunião Extraordinária Pública (só ata) (2019-12-18)**, 3.1.3 · relator **Debora Puccini** · sa e Recursos Minerais – CPRM. Assunto: Autorização para pesquisa complementar. Deliberação: Tornar sem efeito a Autorização de Pesquisa Complementar  → aprovado por unanimidade
+  - votos: Tasso: acompanha; Debora: relator; Eduardo: acompanha · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-5a-reuniao-extraordinaria-publica-diretoria-colegiada.pdf)
+- **RD 5ª Reunião Extraordinária Pública (só ata) (2019-12-18)**, 3.1.4 · relator **Debora Puccini** · sa e Recursos Minerais – CPRM. Assunto: Autorização para pesquisa complementar. Deliberação: Tornar sem efeito a Autorização de Pesquisa Complementar  → aprovado por unanimidade
+  - votos: Tasso: acompanha; Debora: relator; Eduardo: acompanha · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-5a-reuniao-extraordinaria-publica-diretoria-colegiada.pdf)
+- **RD 5ª Reunião Extraordinária Pública (só ata) (2019-12-18)**, 3.1.5 · relator **Debora Puccini** · sa e Recursos Minerais – CPRM. Assunto: Autorização para pesquisa complementar. Deliberação: Tornar sem efeito a Autorização de Pesquisa Complementar  → aprovado por unanimidade
+  - votos: Tasso: acompanha; Debora: relator; Eduardo: acompanha · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-5a-reuniao-extraordinaria-publica-diretoria-colegiada.pdf)
+- **RD 5ª Reunião Extraordinária Pública (só ata) (2019-12-18)**, 3.1.6 · relator **Debora Puccini** · sa e Recursos Minerais – CPRM. Assunto: Autorização para pesquisa complementar. Deliberação: Tornar sem efeito a Autorização de Pesquisa Complementar  → aprovado por unanimidade
+  - votos: Tasso: acompanha; Debora: relator; Eduardo: acompanha · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-5a-reuniao-extraordinaria-publica-diretoria-colegiada.pdf)
+- **RD 5ª Reunião Extraordinária Pública (só ata) (2019-12-18)**, 3.3.3 · relator **Tasso Mendonça** · 3.3.3. Processos n° 840.171/2004. Titular: Terragran Engenharia Ltda. Assunto: Negação ao Recurso - Registro de Licença. Deliberação: Negar o recurso  → aprovado por unanimidade
+  - votos: Tasso: relator; Debora: acompanha; Eduardo: acompanha · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-5a-reuniao-extraordinaria-publica-diretoria-colegiada.pdf)
+- **RD 12ª Reunião Ordinária Pública (só ata) (2020-01-22)**, 1.2.2 · relator **None** · Não tendo o Recorrente apresentado qualquer fato que pudesse dar proteção as suas argumentações, dá conhecimento ao recurso por sua tempestividade e n → aprovado por unanimidade
+  - votos: Victor: acompanha; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-12a-rop.pdf)
+- **RD 12ª Reunião Ordinária Pública (só ata) (2020-01-22)**, 1.2.3 · relator **Debora Puccini** · Considerando que a área do processo prioritário 871.495/2008 encontrava-se ativa e prioritária na data do requerimento de autorização de pesquisa do p → outro
+  - votos: Debora: relator · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-12a-rop.pdf)
 - **RD 14ª Ordinária (2020-04-01)**, 1.2.1 · relator **Tomás Filho** · Voto-vista sobre indeferimento/não conhecimento de requerimentos de lavra protocolados por Magnesita em áreas da Codemig (Lagoa Grande, MG) → pedido de vista de Tasso Mendonça com placar 2 a 2
   - votos: Victor: revisor_diverge; Tomás: relator; Eduardo: revisor_acompanha; Debora: revisor_diverge; Tasso: vista · [vídeo](https://www.youtube.com/watch?v=LrMidsf_ZrQ&t=5272s)
 - **RD 14ª Ordinária (2020-04-01)**, 1.2.4 · relator **Victor Bicca** · Proposta de indeferimento de requerimento de lavra (argila) por não atendimento de exigência → aprovado por unanimidade: rejeitada a proposta de indeferimento
@@ -138,6 +168,30 @@
   - votos: Tasso: relator; Victor: acompanha; Eduardo: acompanha; Tomás: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=XgYPPYFL8T0&t=12557s)
 - **RD 9ª Reunião Extraordinária Pública (2020-05-27)**, 4.8 · relator **Tomás Filho** · Pedido de reconsideração do indeferimento da renovação da PLG 6/2008 (esmeralda, garimpo de Capoeirana, Nova Era, MG) → pedido de vista de Eduardo Leão (sem resultado)
   - votos: Tasso: revisor_diverge; Tomás: relator; Debora: acompanha; Victor: outro; Eduardo: vista · [vídeo](https://www.youtube.com/watch?v=XgYPPYFL8T0&t=12801s)
+- **RD 17ª Reunião Ordinária Pública (só ata) (2020-06-17)**, 1.3.15 · relator **Eduardo Leão** · A empresa Granfort Granitos Fortaleza instruiu adequadamente o pedido de reavaliação de reservas minerais, conforme despachos da Gerência Regional e d → aprovado por unanimidade
+  - votos: Victor: acompanha; Debora: acompanha; Eduardo: relator; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-17a-rop.pdf)
+- **RD 17ª Reunião Ordinária Pública (só ata) (2020-06-17)**, 1.3.16 · relator **Eduardo Leão** · Voto pela improcedência do recurso, devendo o processo retornar à origem para que possa prosseguir com todas as fases legais de constituição e execuçã → aprovado por unanimidade
+  - votos: Victor: acompanha; Debora: acompanha; Eduardo: relator; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-17a-rop.pdf)
+- **RD 17ª Reunião Ordinária Pública (só ata) (2020-06-17)**, 1.5.7 · relator **Tomás Filho** · Frente à evidente intempestividade do requerimento de lavra, contrariamente ao afirmado pela interessada como argumento para revisão do ato recorrido, → aprovado por unanimidade
+  - votos: Victor: acompanha; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: relator · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-17a-rop.pdf)
+- **RD 17ª Reunião Ordinária Pública (só ata) (2020-06-17)**, 1.1.5 · relator **Victor Bicca** · Diante do exposto nos autos, voto por negar provimento ao recurso, mantendo-se a decisão de indeferimento do requerimento de PLG. Voto: Aprovado por u → aprovado por unanimidade
+  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-17a-rop.pdf)
+- **RD 17ª Reunião Ordinária Pública (só ata) (2020-06-17)**, 1.1.6 · relator **Victor Bicca** · Diante do exposto nos autos, voto por negar provimento ao recurso contra a decisão de indeferimento do requerimento de PLG. Voto: Aprovado por unanimi → aprovado por unanimidade
+  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-17a-rop.pdf)
+- **RD 17ª Reunião Ordinária Pública (só ata) (2020-06-17)**, 1.1.7 · relator **Victor Bicca** · Diante do exposto nos autos, voto por negar provimento ao recurso, mantendo-se a decisão de indeferimento do requerimento de PLG. Voto: Aprovado por u → aprovado por unanimidade
+  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-17a-rop.pdf)
+- **RD 17ª Reunião Ordinária Pública (só ata) (2020-06-17)**, 1.2.3 · relator **Debora Puccini** · Considerando que o requerimento de aditamento de novas substâncias encontra-se satisfatório, devidamente analisado pelos técnicos da unidade da ANM/PR → aprovado por unanimidade
+  - votos: Victor: acompanha; Debora: relator; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-17a-rop.pdf)
+- **RD 17ª Reunião Ordinária Pública (só ata) (2020-06-17)**, 1.2.4 · relator **Debora Puccini** · Considerando as sugestões após análise e vistoria realizadas pela equipe técnica da unidade da ANM/SP, combinadas com parecer técnico elaborado por eq → outro
+  - votos: Debora: relator · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-17a-rop.pdf)
+- **RD 17ª Reunião Ordinária Pública (só ata) (2020-06-17)**, 1.4.7 · relator **Tasso Mendonça** · Diante do exposto nos autos, voto por não acatar o recurso interposto e manter o indeferimento ao requerimento do Registro de Licença do processo 860. → aprovado por unanimidade
+  - votos: Victor: acompanha; Debora: acompanha; Eduardo: acompanha; Tasso: relator; Tomás: acompanha · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-17a-rop.pdf)
+- **RD 17ª Reunião Ordinária Pública (só ata) (2020-06-17)**, 1.4.9 · relator **Tasso Mendonça** · Do exposto, voto por conhecer o recurso, mas, no mérito, manter a decisão que indeferiu o requerimento do Registro de Licença referente ao processo 86 → aprovado por unanimidade
+  - votos: Victor: acompanha; Debora: acompanha; Eduardo: acompanha; Tasso: relator; Tomás: acompanha · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-17a-rop.pdf)
+- **RD 17ª Reunião Ordinária Pública (só ata) (2020-06-17)**, 1.4.10 · relator **Tasso Mendonça** · Diante do exposto nos autos, voto por não acatar o recurso e manter o indeferimento do requerimento do Registro de Licença do processo 810.843/2015. V → aprovado por unanimidade
+  - votos: Victor: acompanha; Debora: acompanha; Eduardo: acompanha; Tasso: relator; Tomás: acompanha · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-17a-rop.pdf)
+- **RD 17ª Reunião Ordinária Pública (só ata) (2020-06-17)**, 1.4.12 · relator **Tasso Mendonça** · Diante do exposto nos autos, voto por conhecer o recurso, porém negá-lo no mérito, por conseguinte manter o indeferimento do requerimento do Registro  → aprovado por unanimidade
+  - votos: Victor: acompanha; Debora: acompanha; Eduardo: acompanha; Tasso: relator; Tomás: acompanha · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-17a-rop.pdf)
 - **RD 11ª Reunião Extraordinária Pública (2020-07-15)**, 2 (10ª RE) — voto-vista · relator **Victor Bicca** · Referendo/convalidação do despacho monocrático do Diretor-Geral (jan/2019) que anulou o ato de aprovação do parecer PROGE 07/97 (indeferimento de requ → aprovado por maioria (3 x 2), com dois votos parcialmente favoráveis com encaminhamentos d
   - votos: Victor: relator; Tasso: revisor_acompanha; Tomás: acompanha; Debora: outro; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=aTSDB6xXLyg&t=954s)
 - **RD 18ª Reunião Ordinária Pública (2020-07-22)**, 1.1.13 · relator **Victor Bicca** · Referendo de ato ad referendum do DG que declarou prioritária a MML Metais em procedimento de disponibilidade (área renunciada pela Serra do Sul Miner → referendado por unanimidade
@@ -174,33 +228,63 @@
   - votos: Tomás: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=rDHG2v6FECg&t=16022s)
 - **RD 18ª Reunião Ordinária Pública (2020-07-22)**, 1.5.10 · relator **Tomás Filho** · Recurso contra débito de CFEM → aprovado por unanimidade
   - votos: Tomás: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=rDHG2v6FECg&t=16273s)
-- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 1.3 · relator **Victor Bicca** · Recurso contra multa por não adoção de providências indicadas pela fiscalização (art. 47, XIII, do Código de Mineração) — auto de infração 16/2017, PE → aprovado por unanimidade (votação em bloco)
+- **RD 19ª Ordinária (2020-08-19)**, 1.3 · relator **Victor Bicca** · Recursos contra multas por não iniciar trabalhos do PAE em seis meses (art. 34, I, do regulamento) → recursos negados por unanimidade
+  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1361s)
+- **RD 19ª Ordinária (2020-08-19)**, 1.4 · relator **Victor Bicca** · Recurso contra multa por infração ao art. 20 da Portaria DNPM 70.389/2017 (segurança de barragens) → recurso provido por unanimidade
+  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1406s)
+- **RD 19ª Ordinária (2020-08-19)**, 1.9 · relator **Victor Bicca** · Recursos contra quatro multas da Portaria 70.389/2017 (barragens) → recurso negado quanto ao AI 906/2017 e provido quanto aos AIs 590, 620 e 663/2018, por una
+  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1630s)
+- **RD 19ª Ordinária (2020-08-19)**, 1.10 · relator **Victor Bicca** · Recurso contra multas por não publicar extrato da inspeção quinzenal de barragem (art. 20, Portaria 70.389/2017) → recurso negado por unanimidade
+  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1768s)
+- **RD 19ª Ordinária (2020-08-19)**, 1.11 · relator **Victor Bicca** · Recurso contra processo de cobrança de CFEM → recurso negado por unanimidade
+  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1814s)
+- **RD 19ª Ordinária (2020-08-19)**, 2.1 · relator **Debora Puccini** · Recursos contra resultado de edital de disponibilidade → recursos negados por unanimidade
+  - votos: Debora: relator; Tomás: acompanha; Eduardo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=2026s)
+- **RD 19ª Ordinária (2020-08-19)**, 2.5 · relator **Debora Puccini** · Recursos contra indeferimento de requerimentos de licenciamento → recursos negados por unanimidade
+  - votos: Debora: relator; Tomás: acompanha; Eduardo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=2294s)
+- **RD 19ª Ordinária (2020-08-19)**, 2.6 · relator **Debora Puccini** · Recurso contra indeferimento de prorrogação de licenciamento (sem nova licença municipal) → recurso negado por unanimidade
+  - votos: Debora: relator; Tomás: acompanha; Eduardo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=2380s)
+- **RD 19ª Ordinária (2020-08-19)**, 3.1 · relator **Eduardo Leão** · Recurso contra multa por descumprimento de norma de segurança de barragem (alega descomissionamento) → recurso negado por unanimidade
+  - votos: Eduardo: relator; Debora: acompanha; Tasso: acompanha; Tomás: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=2830s)
+- **RD 19ª Ordinária (2020-08-19)**, 3.2 · relator **Eduardo Leão** · Recurso contra cobrança de CFEM (diferença de ≈R$ 122) → recurso negado por unanimidade
+  - votos: Eduardo: relator; Debora: acompanha; Tasso: acompanha; Tomás: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=2880s)
+- **RD 19ª Ordinária (2020-08-19)**, 3.3 · relator **Eduardo Leão** · Recurso contra cobrança de CFEM (calcário) → recurso provido por unanimidade
+  - votos: Eduardo: relator; Debora: acompanha; Tasso: acompanha; Tomás: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=2925s)
+- **RD 19ª Ordinária (2020-08-19)**, 3.4 · relator **Eduardo Leão** · Recurso contra cobrança de CFEM (mármore, Vargem Alta) → resultado incerto na legenda (provável negativa de provimento), por unanimidade
+  - votos: Eduardo: relator; Debora: acompanha; Tasso: acompanha; Tomás: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=2976s)
+- **RD 19ª Ordinária (2020-08-19)**, 4.8–4.12 · relator **Tasso Mendonça** · Recursos contra cobranças de CFEM (granito, agregados, calcário, água mineral, areia) → recursos negados por unanimidade
+  - votos: Tasso: relator; Debora: acompanha; Eduardo: acompanha; Tomás: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=3217s)
+- **RD 19ª Ordinária (2020-08-19)**, 5.1–5.7 · relator **Tomás Filho** · Instauração de caducidade de concessões (abandono), negativa de prorrogação de início de lavra, provimento de recurso contra cancelamento de licenciam → aprovado por unanimidade
+  - votos: Tomás: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=3706s)
+- **RD 19ª Ordinária (2020-08-19)**, 5.10 · relator **Tasso Mendonça** · Voto-vista sobre recurso contra indeferimento de requerimento de pesquisa (faixa de fronteira; ofícios sem AR) → recurso não conhecido (intempestivo), por unanimidade; relator original Tasso reviu o voto
+  - votos: Tasso: revisor_acompanha; Tomás: revisor_diverge; Debora: revisor_acompanha; Eduardo: revisor_acompanha; Victor: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=4517s)
+- **RD 20ª Reunião Ordinária Pública (2020-09-16)**, 1.3 · relator **Victor Bicca** · Recurso contra multa por não adoção de providências indicadas pela fiscalização (art. 47, XIII, do Código de Mineração) — auto de infração 16/2017, PE → aprovado por unanimidade (votação em bloco)
   - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=347s)
-- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 1.4 · relator **Victor Bicca** · Recurso contra multa por não entrega de Relatório Anual de Lavra → aprovado por unanimidade (votação em bloco)
+- **RD 20ª Reunião Ordinária Pública (2020-09-16)**, 1.4 · relator **Victor Bicca** · Recurso contra multa por não entrega de Relatório Anual de Lavra → aprovado por unanimidade (votação em bloco)
   - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=399s)
-- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 1.5 · relator **Victor Bicca** · Recurso contra indeferimento de requerimento de licenciamento por não apresentar licença ambiental (AM) → aprovado por unanimidade (votação em bloco)
+- **RD 20ª Reunião Ordinária Pública (2020-09-16)**, 1.5 · relator **Victor Bicca** · Recurso contra indeferimento de requerimento de licenciamento por não apresentar licença ambiental (AM) → aprovado por unanimidade (votação em bloco)
   - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=448s)
-- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 1.6 · relator **Victor Bicca** · Recurso contra indeferimento de requerimento de licenciamento (licença municipal vencida) — GO → aprovado por unanimidade (votação em bloco)
+- **RD 20ª Reunião Ordinária Pública (2020-09-16)**, 1.6 · relator **Victor Bicca** · Recurso contra indeferimento de requerimento de licenciamento (licença municipal vencida) — GO → aprovado por unanimidade (votação em bloco)
   - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=495s)
-- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 1.7 · relator **Victor Bicca** · Recurso contra indeferimento de requerimento de licenciamento por falta de licença ambiental ou protocolo — PA → aprovado por unanimidade (votação em bloco)
+- **RD 20ª Reunião Ordinária Pública (2020-09-16)**, 1.7 · relator **Victor Bicca** · Recurso contra indeferimento de requerimento de licenciamento por falta de licença ambiental ou protocolo — PA → aprovado por unanimidade (votação em bloco)
   - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=533s)
-- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 1.8 · relator **Victor Bicca** · Recurso contra indeferimento de registro de licença por ausência de licença municipal (decisão na vigência da MP 790/2017) → aprovado por unanimidade (votação em bloco)
+- **RD 20ª Reunião Ordinária Pública (2020-09-16)**, 1.8 · relator **Victor Bicca** · Recurso contra indeferimento de registro de licença por ausência de licença municipal (decisão na vigência da MP 790/2017) → aprovado por unanimidade (votação em bloco)
   - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=579s)
-- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 1.9 · relator **Victor Bicca** · Recursos em processos de cobrança de CFEM (alegação de prescrição) → aprovado por unanimidade (votação em bloco)
+- **RD 20ª Reunião Ordinária Pública (2020-09-16)**, 1.9 · relator **Victor Bicca** · Recursos em processos de cobrança de CFEM (alegação de prescrição) → aprovado por unanimidade (votação em bloco)
   - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=641s)
-- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 4.1 a 4.3 · relator **Tasso Mendonça** · Recursos contra cobrança de CFEM (recolhimento a menor; Santo Antônio do Amparo-MG); alegações de fiscalização remota irregular, dedução de ICMS/PIS/C → aprovado por unanimidade (votação em bloco)
+- **RD 20ª Reunião Ordinária Pública (2020-09-16)**, 4.1 a 4.3 · relator **Tasso Mendonça** · Recursos contra cobrança de CFEM (recolhimento a menor; Santo Antônio do Amparo-MG); alegações de fiscalização remota irregular, dedução de ICMS/PIS/C → aprovado por unanimidade (votação em bloco)
   - votos: Tasso: relator; Debora: acompanha; Eduardo: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=2498s)
-- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 4.4 e 4.5 · relator **Tasso Mendonça** · Recursos contra cobrança de CFEM sobre bauxita (Carangola-MG, 2001): decadência, deduções e juros → aprovado por unanimidade (votação em bloco)
+- **RD 20ª Reunião Ordinária Pública (2020-09-16)**, 4.4 e 4.5 · relator **Tasso Mendonça** · Recursos contra cobrança de CFEM sobre bauxita (Carangola-MG, 2001): decadência, deduções e juros → aprovado por unanimidade (votação em bloco)
   - votos: Tasso: relator; Debora: acompanha; Eduardo: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=2880s)
-- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 3.2 · relator **Eduardo Leão** · Recurso contra multa por não entrega da Declaração de Condição de Estabilidade (DCE) da barragem de rejeito B4C (em descaracterização) → aprovado por unanimidade (votação em bloco)
+- **RD 20ª Reunião Ordinária Pública (2020-09-16)**, 3.2 · relator **Eduardo Leão** · Recurso contra multa por não entrega da Declaração de Condição de Estabilidade (DCE) da barragem de rejeito B4C (em descaracterização) → aprovado por unanimidade (votação em bloco)
   - votos: Eduardo: relator; Debora: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=3401s)
-- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 3.3 a 3.12 · relator **Eduardo Leão** · Recursos contra cobrança de CFEM → aprovado por unanimidade (votação em bloco)
+- **RD 20ª Reunião Ordinária Pública (2020-09-16)**, 3.3 a 3.12 · relator **Eduardo Leão** · Recursos contra cobrança de CFEM → aprovado por unanimidade (votação em bloco)
   - votos: Eduardo: relator; Debora: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=3484s)
-- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 3.1 (voto-vista) · relator **Tomás Filho** · Voto-vista sobre recurso contra indeferimento da prorrogação da permissão de lavra garimpeira (indeferida em 05/06/2017 por falta de licença ambiental → aprovado por maioria: recurso não conhecido, mas revisão de ofício do indeferimento e defe
+- **RD 20ª Reunião Ordinária Pública (2020-09-16)**, 3.1 (voto-vista) · relator **Tomás Filho** · Voto-vista sobre recurso contra indeferimento da prorrogação da permissão de lavra garimpeira (indeferida em 05/06/2017 por falta de licença ambiental → aprovado por maioria: recurso não conhecido, mas revisão de ofício do indeferimento e defe
   - votos: Eduardo: revisor_acompanha; Debora: acompanha; Tomás: acompanha; Tasso: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=3576s)
-- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 5.2 · relator **Tomás Filho** · Recursos contra débitos de CFEM → aprovado por unanimidade dos presentes (votação em bloco): nega provimento
+- **RD 20ª Reunião Ordinária Pública (2020-09-16)**, 5.2 · relator **Tomás Filho** · Recursos contra débitos de CFEM → aprovado por unanimidade dos presentes (votação em bloco): nega provimento
   - votos: Tomás: relator; Tasso: acompanha; Eduardo: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=4855s)
-- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 5.6 (voto-vista) · relator **Eduardo Leão** · Voto-vista sobre recurso contra caducidade do direito de requerer lavra (RFP aprovado em 07/03/2005; requerimento de lavra protocolado em 15/03/2006,  → recurso não conhecido; mantida a caducidade (Bicca, Tomás e Tasso; Eduardo vencido; voto d
+- **RD 20ª Reunião Ordinária Pública (2020-09-16)**, 5.6 (voto-vista) · relator **Eduardo Leão** · Voto-vista sobre recurso contra caducidade do direito de requerer lavra (RFP aprovado em 07/03/2005; requerimento de lavra protocolado em 15/03/2006,  → recurso não conhecido; mantida a caducidade (Bicca, Tomás e Tasso; Eduardo vencido; voto d
   - votos: Eduardo: vencido; Victor: revisor_acompanha; Debora: revisor_acompanha; Tomás: revisor_acompanha; Tasso: vista · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=5026s)
 - **RD 21ª Ordinária (2020-10-21)**, 5.9 · relator **Tomás Filho** · Recurso contra cobrança de CFEM (jan/2008 a dez/2009, município de Ouro Preto); sustentação oral pedindo prescrição intercorrente (processo parado ~9  → parcialmente provido: decisão anulada para apreciar o pedido de perícia (art. 38 da Lei 9.
   - votos: Tomás: relator; Tasso: acompanha; Debora: acompanha; Victor: outro · [vídeo](https://www.youtube.com/watch?v=YZuPzUTCFK0&t=2135s)
@@ -248,119 +332,119 @@
   - votos: Eduardo: relator; Debora: acompanha; Carlos: acompanha; Tasso: acompanha; Victor: outro · [vídeo](https://www.youtube.com/watch?v=rak_IMbQ02w&t=3330s)
 - **RD 15ª Extraordinária (2020-12-18)**, 4.38 · relator **Tasso Mendonça** · Recurso contra indeferimento de prorrogação de prazo para cumprimento de exigência (licença ambiental) em requerimento de lavra; decisão publicada só  → provido por unanimidade; colegiado adota a interpretação garantista da PFE (parecer de 201
   - votos: Tasso: relator; Carlos: acompanha; Debora: acompanha; Eduardo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=D6YYWHku_rk&t=5102s)
-- **RD 24 (2021-01-21)**, 4.6 e 4.7 · relator **Tasso Mendonça** · Recursos contra cobranças de CFEM sobre calcário (Itaú de Minas/MG, jun–dez/1999) apuradas com base no RAL → pedido de vista (Debora Puccini); deliberação suspensa
+- **RD 24 (2021-01-20)**, 4.6 e 4.7 · relator **Tasso Mendonça** · Recursos contra cobranças de CFEM sobre calcário (Itaú de Minas/MG, jun–dez/1999) apuradas com base no RAL → pedido de vista (Debora Puccini); deliberação suspensa
   - votos: Tasso: relator; Carlos: acompanha; Debora: vista; Victor: acompanha; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=odUdOGtUxJs&t=956s)
-- **RD 24 (2021-01-21)**, 3.x.1 · relator **Eduardo Leão** · Recurso contra baixa de registro de licenciamento por suposta intempestividade da prorrogação (areia, MG) → aprovado por unanimidade
+- **RD 24 (2021-01-20)**, 3.x.1 · relator **Eduardo Leão** · Recurso contra baixa de registro de licenciamento por suposta intempestividade da prorrogação (areia, MG) → aprovado por unanimidade
   - votos: Eduardo: relator; Tasso: acompanha; Carlos: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=odUdOGtUxJs&t=2827s)
-- **RD 24 (2021-01-21)**, 1.6 · relator **Victor Bicca** · Recurso contra cobranças de CFEM (alegação de prescrição) → aprovado por unanimidade
+- **RD 24 (2021-01-20)**, 1.6 · relator **Victor Bicca** · Recurso contra cobranças de CFEM (alegação de prescrição) → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Eduardo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=odUdOGtUxJs&t=3829s)
-- **RD 24 (2021-01-21)**, 1.7 · relator **Victor Bicca** · Recurso contra cobranças de CFEM já pagas → aprovado por unanimidade
+- **RD 24 (2021-01-20)**, 1.7 · relator **Victor Bicca** · Recurso contra cobranças de CFEM já pagas → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Eduardo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=odUdOGtUxJs&t=3917s)
-- **RD 24 (2021-01-21)**, 1.8 · relator **Victor Bicca** · Recurso contra cobrança de CFEM (prescrição, decadência, deduções) → aprovado por unanimidade
+- **RD 24 (2021-01-20)**, 1.8 · relator **Victor Bicca** · Recurso contra cobrança de CFEM (prescrição, decadência, deduções) → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Eduardo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=odUdOGtUxJs&t=3982s)
-- **RD 24 (2021-01-21)**, 4.8 a 4.10 · relator **Tasso Mendonça** · Recursos contra cobranças de CFEM → aprovado por unanimidade
+- **RD 24 (2021-01-20)**, 4.8 a 4.10 · relator **Tasso Mendonça** · Recursos contra cobranças de CFEM → aprovado por unanimidade
   - votos: Tasso: relator; Eduardo: acompanha; Debora: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=odUdOGtUxJs&t=4318s)
-- **RD 24 (2021-01-21)**, 4.11 e 4.12 · relator **Tasso Mendonça** · Recursos contra cobranças de CFEM → aprovado por unanimidade
+- **RD 24 (2021-01-20)**, 4.11 e 4.12 · relator **Tasso Mendonça** · Recursos contra cobranças de CFEM → aprovado por unanimidade
   - votos: Tasso: relator; Eduardo: acompanha; Debora: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=odUdOGtUxJs&t=4407s)
-- **RD 25 (2021-02-25)**, 3.1 · relator **Eduardo Leão** · Recurso contra multa por não solicitar imissão de posse → aprovado por unanimidade
+- **RD 25 (2021-02-24)**, 3.1 · relator **Eduardo Leão** · Recurso contra multa por não solicitar imissão de posse → aprovado por unanimidade
   - votos: Eduardo: relator; Tasso: acompanha; Debora: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=688s)
-- **RD 25 (2021-02-25)**, 3.2 · relator **Eduardo Leão** · Recurso contra multas por não entrega do RAL (registro de licença, MS) → aprovado por unanimidade
+- **RD 25 (2021-02-24)**, 3.2 · relator **Eduardo Leão** · Recurso contra multas por não entrega do RAL (registro de licença, MS) → aprovado por unanimidade
   - votos: Eduardo: relator; Tasso: acompanha; Debora: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=740s)
-- **RD 25 (2021-02-25)**, 1.8.1 · relator **Victor Bicca** · Recurso contra cancelamento de registro de licença (areia e cascalho, MG) com base apenas no RAL → aprovado por unanimidade
+- **RD 25 (2021-02-24)**, 1.8.1 · relator **Victor Bicca** · Recurso contra cancelamento de registro de licença (areia e cascalho, MG) com base apenas no RAL → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Eduardo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=1092s)
-- **RD 25 (2021-02-25)**, 1.16.1 · relator **Victor Bicca** · Recurso contra indeferimento de registro de licença de areia no leito do Rio Doce (Rio Casca e São Domingos do Prata/MG) por poligonal de rumos divers → aprovado por unanimidade
+- **RD 25 (2021-02-24)**, 1.16.1 · relator **Victor Bicca** · Recurso contra indeferimento de registro de licença de areia no leito do Rio Doce (Rio Casca e São Domingos do Prata/MG) por poligonal de rumos divers → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Eduardo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=1694s)
-- **RD 25 (2021-02-25)**, 1.3 · relator **Victor Bicca** · Recursos contra cobranças de CFEM (decadência, prescrição, deduções, Decreto 1/1991) → aprovado por unanimidade
+- **RD 25 (2021-02-24)**, 1.3 · relator **Victor Bicca** · Recursos contra cobranças de CFEM (decadência, prescrição, deduções, Decreto 1/1991) → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Eduardo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=2578s)
-- **RD 25 (2021-02-25)**, 1.6 · relator **Victor Bicca** · Recurso: prorrogação de registro de licença pedida no dia útil seguinte ao vencimento (sábado) → aprovado por unanimidade
+- **RD 25 (2021-02-24)**, 1.6 · relator **Victor Bicca** · Recurso: prorrogação de registro de licença pedida no dia útil seguinte ao vencimento (sábado) → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Eduardo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=2955s)
-- **RD 25 (2021-02-25)**, 1.7 · relator **Victor Bicca** · Recurso contra indeferimento de registro de licença (licença municipal dispensada na vigência da MP 790/2017) → aprovado por unanimidade
+- **RD 25 (2021-02-24)**, 1.7 · relator **Victor Bicca** · Recurso contra indeferimento de registro de licença (licença municipal dispensada na vigência da MP 790/2017) → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Eduardo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=3105s)
-- **RD 25 (2021-02-25)**, 1.9 · relator **Victor Bicca** · Recurso contra indeferimento de licenciamento por falta de licença municipal de Prados → aprovado por unanimidade
+- **RD 25 (2021-02-24)**, 1.9 · relator **Victor Bicca** · Recurso contra indeferimento de licenciamento por falta de licença municipal de Prados → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Eduardo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=3218s)
-- **RD 25 (2021-02-25)**, 1.13 · relator **Victor Bicca** · Recurso contra indeferimento de mudança de regime para licenciamento (ES) → aprovado por unanimidade
+- **RD 25 (2021-02-24)**, 1.13 · relator **Victor Bicca** · Recurso contra indeferimento de mudança de regime para licenciamento (ES) → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Eduardo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=3685s)
-- **RD 25 (2021-02-25)**, 1.14 · relator **Victor Bicca** · Recurso contra indeferimento de prorrogação de registro de licença (pedido intempestivo) → aprovado por unanimidade
+- **RD 25 (2021-02-24)**, 1.14 · relator **Victor Bicca** · Recurso contra indeferimento de prorrogação de registro de licença (pedido intempestivo) → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Eduardo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=3863s)
-- **RD 25 (2021-02-25)**, 1.15 · relator **Victor Bicca** · Recurso contra averbação de cessão total de concessão de lavra baseada em procuração de um só sócio → aprovado por unanimidade
+- **RD 25 (2021-02-24)**, 1.15 · relator **Victor Bicca** · Recurso contra averbação de cessão total de concessão de lavra baseada em procuração de um só sócio → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Eduardo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=3989s)
-- **RD 25 (2021-02-25)**, 2.2 · relator **Debora Puccini** · Recurso intempestivo contra caducidade do direito de requerer lavra → aprovado por unanimidade
+- **RD 25 (2021-02-24)**, 2.2 · relator **Debora Puccini** · Recurso intempestivo contra caducidade do direito de requerer lavra → aprovado por unanimidade
   - votos: Debora: relator; Eduardo: acompanha; Tasso: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=4343s)
-- **RD 25 (2021-02-25)**, 4.3 · relator **Tasso Mendonça** · Recursos contra indeferimento de registro de licença por falta de licença ambiental ou protocolo em 60 dias → aprovado por unanimidade
+- **RD 25 (2021-02-24)**, 4.3 · relator **Tasso Mendonça** · Recursos contra indeferimento de registro de licença por falta de licença ambiental ou protocolo em 60 dias → aprovado por unanimidade
   - votos: Tasso: relator; Carlos: acompanha; Debora: acompanha; Eduardo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=4710s)
-- **RD 25 (2021-02-25)**, 4.3.6 · relator **Tasso Mendonça** · Recurso contra indeferimento de licença sem licença municipal e autorização do proprietário → aprovado por unanimidade
+- **RD 25 (2021-02-24)**, 4.3.6 · relator **Tasso Mendonça** · Recurso contra indeferimento de licença sem licença municipal e autorização do proprietário → aprovado por unanimidade
   - votos: Tasso: relator; Carlos: acompanha; Debora: acompanha; Eduardo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=4770s)
-- **RD 25 (2021-02-25)**, 4.3.7 · relator **Tasso Mendonça** · Recurso contra indeferimento de licença por exigência não cumprida, sem AR do ofício → aprovado por unanimidade
+- **RD 25 (2021-02-24)**, 4.3.7 · relator **Tasso Mendonça** · Recurso contra indeferimento de licença por exigência não cumprida, sem AR do ofício → aprovado por unanimidade
   - votos: Tasso: relator; Carlos: acompanha; Debora: acompanha; Eduardo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=4812s)
-- **RD 25 (2021-02-25)**, 5.3 · relator **Carlos Cordeiro** · Recurso contra indeferimento de plano de requerimentos de PLG sem planta de detalhe (GO) → aprovado por unanimidade
+- **RD 25 (2021-02-24)**, 5.3 · relator **Carlos Cordeiro** · Recurso contra indeferimento de plano de requerimentos de PLG sem planta de detalhe (GO) → aprovado por unanimidade
   - votos: Carlos: relator; Eduardo: acompanha; Debora: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=6171s)
-- **RD 25 (2021-02-25)**, 5.6 · relator **Carlos Cordeiro** · Recurso contra cancelamento de licenciamento → aprovado por unanimidade
+- **RD 25 (2021-02-24)**, 5.6 · relator **Carlos Cordeiro** · Recurso contra cancelamento de licenciamento → aprovado por unanimidade
   - votos: Carlos: relator; Eduardo: acompanha; Debora: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=6473s)
-- **RD 26 (2021-03-25)**, 1.9.1 · relator **Victor Bicca** · Recurso contra despacho do Diretor-Geral que encaminhou ao MME processo de requerimento de lavra de calcário e micaxisto (indeferido pelo MME em 2012, → aprovado por unanimidade
+- **RD 26 (2021-03-24)**, 1.9.1 · relator **Victor Bicca** · Recurso contra despacho do Diretor-Geral que encaminhou ao MME processo de requerimento de lavra de calcário e micaxisto (indeferido pelo MME em 2012, → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=LX-5lXLbJqo&t=405s)
-- **RD 26 (2021-03-25)**, 4.2.9 · relator **Carlos Cordeiro** · Recurso contra cobrança de CFEM (jan–out/2017; bauxita Juruti/PA → São Luís/MA): deduções de ICMS/PIS/Cofins, frete aquaviário e seguro; equiparação t → pedido de vista (Tasso Mendonça); deliberação suspensa
+- **RD 26 (2021-03-24)**, 4.2.9 · relator **Carlos Cordeiro** · Recurso contra cobrança de CFEM (jan–out/2017; bauxita Juruti/PA → São Luís/MA): deduções de ICMS/PIS/Cofins, frete aquaviário e seguro; equiparação t → pedido de vista (Tasso Mendonça); deliberação suspensa
   - votos: Carlos: relator; Tasso: vista; Victor: outro; Debora: outro · [vídeo](https://www.youtube.com/watch?v=LX-5lXLbJqo&t=2853s)
-- **RD 26 (2021-03-25)**, 4.2.8 · relator **Carlos Cordeiro** · Recurso contra cobrança de CFEM (matéria semelhante ao 4.2.9) → pedido de vista (Tasso Mendonça)
+- **RD 26 (2021-03-24)**, 4.2.8 · relator **Carlos Cordeiro** · Recurso contra cobrança de CFEM (matéria semelhante ao 4.2.9) → pedido de vista (Tasso Mendonça)
   - votos: Carlos: relator; Tasso: vista; Victor: outro; Debora: outro · [vídeo](https://www.youtube.com/watch?v=LX-5lXLbJqo&t=4410s)
-- **RD 26 (2021-03-25)**, 1.5 · relator **Victor Bicca** · Recurso contra não aprovação de relatório final de pesquisa de areia (Navegantes/SC) → pedido de vista (Carlos Cordeiro)
+- **RD 26 (2021-03-24)**, 1.5 · relator **Victor Bicca** · Recurso contra não aprovação de relatório final de pesquisa de areia (Navegantes/SC) → pedido de vista (Carlos Cordeiro)
   - votos: Victor: relator; Carlos: vista; Tasso: outro; Debora: outro · [vídeo](https://www.youtube.com/watch?v=LX-5lXLbJqo&t=4920s)
-- **RD 26 (2021-03-25)**, 1.6 · relator **Victor Bicca** · Recurso contra multa por ausência de fichas de apuração de CFEM no local da lavra (ES) → aprovado por unanimidade
+- **RD 26 (2021-03-24)**, 1.6 · relator **Victor Bicca** · Recurso contra multa por ausência de fichas de apuração de CFEM no local da lavra (ES) → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=LX-5lXLbJqo&t=5023s)
-- **RD 26 (2021-03-25)**, 1.7 · relator **Victor Bicca** · Recursos contra cobranças de CFEM (decadência, natureza jurídica, Decreto 1/1991, índices) → aprovado por unanimidade
+- **RD 26 (2021-03-24)**, 1.7 · relator **Victor Bicca** · Recursos contra cobranças de CFEM (decadência, natureza jurídica, Decreto 1/1991, índices) → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=LX-5lXLbJqo&t=5155s)
-- **RD 26 (2021-03-25)**, 3.3.2 · relator **Tasso Mendonça** · Recursos contra indeferimento de requerimentos de pesquisa/prorrogação com interferência total em terras indígenas homologadas → aprovado por unanimidade
+- **RD 26 (2021-03-24)**, 3.3.2 · relator **Tasso Mendonça** · Recursos contra indeferimento de requerimentos de pesquisa/prorrogação com interferência total em terras indígenas homologadas → aprovado por unanimidade
   - votos: Tasso: relator; Carlos: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=LX-5lXLbJqo&t=6450s)
-- **RD 26 (2021-03-25)**, 4.2 · relator **Carlos Cordeiro** · Recursos contra cobranças de CFEM → aprovado por unanimidade
+- **RD 26 (2021-03-24)**, 4.2 · relator **Carlos Cordeiro** · Recursos contra cobranças de CFEM → aprovado por unanimidade
   - votos: Carlos: relator; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=LX-5lXLbJqo&t=8131s)
-- **RD 26 (2021-03-25)**, 4.6.1 · relator **Carlos Cordeiro** · Recurso contra indeferimento de requerimento de licenciamento → aprovado por unanimidade
+- **RD 26 (2021-03-24)**, 4.6.1 · relator **Carlos Cordeiro** · Recurso contra indeferimento de requerimento de licenciamento → aprovado por unanimidade
   - votos: Carlos: relator; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=LX-5lXLbJqo&t=8295s)
-- **RD 27 (2021-04-29)**, 4.7.1 · relator **Carlos Cordeiro** · Recursos contra 13 cobranças de CFEM (zinco, chumbo, calcário; Vazante, Paracatu, Morro Agudo/Três Marias-MG; período 2009–2017) → pedido de vista (Tasso Mendonça); deliberação suspensa
+- **RD 27 (2021-04-28)**, 4.7.1 · relator **Carlos Cordeiro** · Recursos contra 13 cobranças de CFEM (zinco, chumbo, calcário; Vazante, Paracatu, Morro Agudo/Três Marias-MG; período 2009–2017) → pedido de vista (Tasso Mendonça); deliberação suspensa
   - votos: Carlos: relator; Debora: acompanha; Aline: acompanha; Tasso: vista; Victor: outro · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=2455s)
-- **RD 27 (2021-04-29)**, 1.4 · relator **Victor Bicca** · Recurso contra não aprovação de relatório final de pesquisa → aprovado por unanimidade
+- **RD 27 (2021-04-28)**, 1.4 · relator **Victor Bicca** · Recurso contra não aprovação de relatório final de pesquisa → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Aline: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=6912s)
-- **RD 27 (2021-04-29)**, 1.5 · relator **Victor Bicca** · Recursos contra cobranças de CFEM → aprovado por unanimidade
+- **RD 27 (2021-04-28)**, 1.5 · relator **Victor Bicca** · Recursos contra cobranças de CFEM → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Aline: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=7156s)
-- **RD 27 (2021-04-29)**, 1.6 · relator **Victor Bicca** · Recursos contra cobranças de CFEM → aprovado por unanimidade
+- **RD 27 (2021-04-28)**, 1.6 · relator **Victor Bicca** · Recursos contra cobranças de CFEM → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Aline: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=7297s)
-- **RD 27 (2021-04-29)**, 3.5.3 · relator **Tasso Mendonça** · Pedido de reconsideração de proposta de indeferimento de requerimento de lavra por não comprovar semestralmente diligências do licenciamento ambiental → aprovado por maioria (Victor Bicca diverge)
+- **RD 27 (2021-04-28)**, 3.5.3 · relator **Tasso Mendonça** · Pedido de reconsideração de proposta de indeferimento de requerimento de lavra por não comprovar semestralmente diligências do licenciamento ambiental → aprovado por maioria (Victor Bicca diverge)
   - votos: Tasso: relator; Carlos: acompanha; Debora: acompanha; Aline: acompanha; Victor: vencido · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=8259s)
-- **RD 27 (2021-04-29)**, 3.9.2 · relator **Tasso Mendonça** · Recurso contra indeferimento de requerimento de lavra (exigências não cumpridas) → aprovado por unanimidade
+- **RD 27 (2021-04-28)**, 3.9.2 · relator **Tasso Mendonça** · Recurso contra indeferimento de requerimento de lavra (exigências não cumpridas) → aprovado por unanimidade
   - votos: Tasso: relator; Carlos: acompanha; Debora: acompanha; Aline: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=9502s)
-- **RD 27 (2021-04-29)**, 3.10.1 · relator **Tasso Mendonça** · Recurso contra indeferimento de requerimentos de pesquisa em áreas cujo relatório final não foi apresentado na vigência da MP 790/2017 (aplicação da A → pedido de vista (Debora Puccini)
+- **RD 27 (2021-04-28)**, 3.10.1 · relator **Tasso Mendonça** · Recurso contra indeferimento de requerimentos de pesquisa em áreas cujo relatório final não foi apresentado na vigência da MP 790/2017 (aplicação da A → pedido de vista (Debora Puccini)
   - votos: Tasso: relator; Debora: vista; Victor: acompanha; Carlos: outro; Aline: outro · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=9582s)
-- **RD 27 (2021-04-29)**, 3.10.2 · relator **Tasso Mendonça** · Recurso contra indeferimento de requerimento de pesquisa (área onerada aguardando disponibilidade) → aprovado por unanimidade
+- **RD 27 (2021-04-28)**, 3.10.2 · relator **Tasso Mendonça** · Recurso contra indeferimento de requerimento de pesquisa (área onerada aguardando disponibilidade) → aprovado por unanimidade
   - votos: Tasso: relator; Carlos: acompanha; Debora: acompanha; Aline: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=9730s)
-- **RD 27 (2021-04-29)**, 3.11 · relator **Tasso Mendonça** · Recurso contra indeferimento de nova prorrogação de alvará de pesquisa → aprovado por unanimidade
+- **RD 27 (2021-04-28)**, 3.11 · relator **Tasso Mendonça** · Recurso contra indeferimento de nova prorrogação de alvará de pesquisa → aprovado por unanimidade
   - votos: Tasso: relator; Carlos: acompanha; Debora: acompanha; Aline: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=9820s)
-- **RD 27 (2021-04-29)**, 4.2 · relator **Carlos Cordeiro** · Voto-vista: recurso contra não aprovação de relatório final de pesquisa → aprovado por unanimidade
+- **RD 27 (2021-04-28)**, 4.2 · relator **Carlos Cordeiro** · Voto-vista: recurso contra não aprovação de relatório final de pesquisa → aprovado por unanimidade
   - votos: Carlos: revisor_acompanha; Tasso: acompanha; Debora: acompanha; Aline: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=11653s)
-- **RD 27 (2021-04-29)**, 4.3 · relator **Carlos Cordeiro** · Recurso contra não aprovação de relatório final de pesquisa (comissão julgadora) → aprovado por unanimidade
+- **RD 27 (2021-04-28)**, 4.3 · relator **Carlos Cordeiro** · Recurso contra não aprovação de relatório final de pesquisa (comissão julgadora) → aprovado por unanimidade
   - votos: Carlos: relator; Tasso: acompanha; Debora: acompanha; Aline: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=11694s)
-- **RD 27 (2021-04-29)**, 4.6 · relator **Carlos Cordeiro** · Recurso contra indeferimento de guia de utilização (exigência não cumprida, área sem reserva aprovada) → aprovado por unanimidade
+- **RD 27 (2021-04-28)**, 4.6 · relator **Carlos Cordeiro** · Recurso contra indeferimento de guia de utilização (exigência não cumprida, área sem reserva aprovada) → aprovado por unanimidade
   - votos: Carlos: relator; Tasso: acompanha; Debora: acompanha; Aline: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=11848s)
-- **RD 27 (2021-04-29)**, 5.2 · relator **Aline (substituta, sobrenome a confirmar)** · Recurso contra indeferimento de pesquisa de água mineral 100% dentro do bloqueio do Polo Petroquímico de Camaçari (Portaria DNPM 319/2009) → aprovado por unanimidade
+- **RD 27 (2021-04-28)**, 5.2 · relator **Aline (substituta, sobrenome a confirmar)** · Recurso contra indeferimento de pesquisa de água mineral 100% dentro do bloqueio do Polo Petroquímico de Camaçari (Portaria DNPM 319/2009) → aprovado por unanimidade
   - votos: Aline: relator; Tasso: acompanha; Carlos: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=12175s)
-- **RD 27 (2021-04-29)**, 5.4 · relator **Aline (substituta, sobrenome a confirmar)** · Recursos da 2ª rodada de disponibilidade de áreas não acolhidos pela comissão (18 indeferidos; 6 não conhecidos) → aprovado por unanimidade
+- **RD 27 (2021-04-28)**, 5.4 · relator **Aline (substituta, sobrenome a confirmar)** · Recursos da 2ª rodada de disponibilidade de áreas não acolhidos pela comissão (18 indeferidos; 6 não conhecidos) → aprovado por unanimidade
   - votos: Aline: relator; Tasso: acompanha; Carlos: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=12331s)
-- **RD 28 (2021-05-27)**, 3.1.1 · relator **Tasso Mendonça** · Cobrança e recuperação de créditos de CFEM: alíquota aplicável à bauxita não metalúrgica (2% como demais substâncias vs. 3% minério de alumínio), revi → aprovado por unanimidade
+- **RD 28 (2021-05-26)**, 3.1.1 · relator **Tasso Mendonça** · Cobrança e recuperação de créditos de CFEM: alíquota aplicável à bauxita não metalúrgica (2% como demais substâncias vs. 3% minério de alumínio), revi → aprovado por unanimidade
   - votos: Tasso: relator; Carlos: acompanha; Debora: acompanha; Aline: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=7PICL_r4uQY&t=149s)
-- **RD 28 (2021-05-27)**, 1.2 · relator **Victor Bicca** · Referendo de ato do Diretor-Geral em cumprimento de decisão judicial: torna sem efeito decisão do superintendente de pesquisa (sem competência delegad → aprovado por unanimidade
+- **RD 28 (2021-05-26)**, 1.2 · relator **Victor Bicca** · Referendo de ato do Diretor-Geral em cumprimento de decisão judicial: torna sem efeito decisão do superintendente de pesquisa (sem competência delegad → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Aline: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=7PICL_r4uQY&t=1860s)
-- **RD 28 (2021-05-27)**, 1.5 · relator **Victor Bicca** · Recurso contra indeferimento de prorrogação de registro de licença (licenças municipais vencidas) → aprovado por unanimidade
+- **RD 28 (2021-05-26)**, 1.5 · relator **Victor Bicca** · Recurso contra indeferimento de prorrogação de registro de licença (licenças municipais vencidas) → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Aline: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=7PICL_r4uQY&t=2298s)
-- **RD 28 (2021-05-27)**, 1.6 · relator **Victor Bicca** · Recurso contra indeferimento de requerimento de pesquisa por interferência total com área prioritária → aprovado por unanimidade
+- **RD 28 (2021-05-26)**, 1.6 · relator **Victor Bicca** · Recurso contra indeferimento de requerimento de pesquisa por interferência total com área prioritária → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Aline: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=7PICL_r4uQY&t=2399s)
-- **RD 28 (2021-05-27)**, 1.7 · relator **Victor Bicca** · Recursos contra processos de cobrança de CFEM (divergências RAL x recolhimento) → aprovado por unanimidade
+- **RD 28 (2021-05-26)**, 1.7 · relator **Victor Bicca** · Recursos contra processos de cobrança de CFEM (divergências RAL x recolhimento) → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Aline: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=7PICL_r4uQY&t=2516s)
-- **RD 28 (2021-05-27)**, 3.4.4 · relator **Tasso Mendonça** · Pedido de revisão de proposta de indeferimento de requerimento de lavra de esmeralda (prova de disponibilidade de fundos) → aprovado por unanimidade
+- **RD 28 (2021-05-26)**, 3.4.4 · relator **Tasso Mendonça** · Pedido de revisão de proposta de indeferimento de requerimento de lavra de esmeralda (prova de disponibilidade de fundos) → aprovado por unanimidade
   - votos: Tasso: relator; Carlos: acompanha; Aline: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=7PICL_r4uQY&t=3487s)
-- **RD 28 (2021-05-27)**, 4.5 · relator **Carlos Cordeiro** · Recurso contra indeferimento de PLG (falecimento do titular) → aprovado por unanimidade
+- **RD 28 (2021-05-26)**, 4.5 · relator **Carlos Cordeiro** · Recurso contra indeferimento de PLG (falecimento do titular) → aprovado por unanimidade
   - votos: Carlos: relator; Tasso: acompanha; Debora: acompanha; Aline: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=7PICL_r4uQY&t=5095s)
-- **RD 28 (2021-05-27)**, 5.3 · relator **Aline (substituta, sobrenome a confirmar)** · Recurso contra multa por ausência de licença ambiental válida na fiscalização → aprovado por unanimidade
+- **RD 28 (2021-05-26)**, 5.3 · relator **Aline (substituta, sobrenome a confirmar)** · Recurso contra multa por ausência de licença ambiental válida na fiscalização → aprovado por unanimidade
   - votos: Aline: relator; Carlos: acompanha; Debora: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=7PICL_r4uQY&t=5752s)
-- **RD 28 (2021-05-27)**, 5.4 · relator **Aline (substituta, sobrenome a confirmar)** · Recursos contra indeferimento de PLG (art. 8º da Lei 11.685: áreas tituladas só para cooperativas) → aprovado por unanimidade
+- **RD 28 (2021-05-26)**, 5.4 · relator **Aline (substituta, sobrenome a confirmar)** · Recursos contra indeferimento de PLG (art. 8º da Lei 11.685: áreas tituladas só para cooperativas) → aprovado por unanimidade
   - votos: Aline: relator; Carlos: acompanha; Debora: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=7PICL_r4uQY&t=5861s)
-- **RD 28 (2021-05-27)**, 5.5 · relator **Aline (substituta, sobrenome a confirmar)** · Recurso contra indeferimento de PLG (objeto social sem atividade garimpeira, Portaria 155) → aprovado por unanimidade
+- **RD 28 (2021-05-26)**, 5.5 · relator **Aline (substituta, sobrenome a confirmar)** · Recurso contra indeferimento de PLG (objeto social sem atividade garimpeira, Portaria 155) → aprovado por unanimidade
   - votos: Aline: relator; Carlos: acompanha; Debora: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=7PICL_r4uQY&t=5920s)
 - **RD 29ª Ordinária (2021-06-23)**, 1.9.1, 1.9.2 e 5.6.1 · relator **Victor Bicca** · Recursos contra cobrança de CFEM sobre bauxita não metalúrgica (propante, abrasivos, refratários): alíquota 2% vs 3% e base de cálculo até a etapa ant → recursos providos por unanimidade
   - votos: Victor: relator; Aline: outro; Tasso: acompanha; Carlos: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=JhjBUQ1wgxg&t=399s)
@@ -426,143 +510,143 @@
   - votos: Aline: relator; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=68PBR4uvQGg&t=7559s)
 - **RD 19ª Extraordinária (2021-08-23)**, 1.2 · relator **Victor Bicca** · Referendo de atos do Diretor-Geral sobre o Edital nº 1/2021 (3ª rodada de disponibilidade): decisão sobre 8 recursos não acatados pela comissão e term → referendado por unanimidade
   - votos: Victor: relator; Tasso: acompanha; Ronaldo: acompanha; Guilherme: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=S56a2orKNSc&t=1168s)
-- **RD 32ª Ordinária (2021-09-23)**, 1.9.1 · relator **Victor Bicca** · Recurso contra indeferimento de guia de utilização de granito em local fora das reservas do relatório de pesquisa aprovado; sustentação oral (Renato S → recurso provido por unanimidade, com fixação de entendimento
+- **RD 32ª Ordinária (2021-09-22)**, 1.9.1 · relator **Victor Bicca** · Recurso contra indeferimento de guia de utilização de granito em local fora das reservas do relatório de pesquisa aprovado; sustentação oral (Renato S → recurso provido por unanimidade, com fixação de entendimento
   - votos: Victor: relator; Guilherme: acompanha; Tasso: acompanha; Debora: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=440s)
-- **RD 32ª Ordinária (2021-09-23)**, 4.2.1 e 4.2.2 · relator **Ronaldo Lima** · Recurso da Glencore contra cancelamento da disponibilidade da área (2014); conflito de 16 anos, ação judicial desistida; sustentações de Leonardo Fari → recurso negado por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 4.2.1 e 4.2.2 · relator **Ronaldo Lima** · Recurso da Glencore contra cancelamento da disponibilidade da área (2014); conflito de 16 anos, ação judicial desistida; sustentações de Leonardo Fari → recurso negado por unanimidade
   - votos: Ronaldo: relator; Tasso: acompanha; Guilherme: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=3360s)
-- **RD 32ª Ordinária (2021-09-23)**, 1.6 · relator **Victor Bicca** · Recursos contra indeferimento de registro de licença (interferência ou falta de documento essencial) → nega provimento por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 1.6 · relator **Victor Bicca** · Recursos contra indeferimento de registro de licença (interferência ou falta de documento essencial) → nega provimento por unanimidade
   - votos: Victor: relator; Guilherme: acompanha; Ronaldo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=5362s)
-- **RD 32ª Ordinária (2021-09-23)**, 1.7 · relator **Victor Bicca** · Recurso contra indeferimento de licenciamento de areia e cascalho em área de PLG de diamante → nega provimento por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 1.7 · relator **Victor Bicca** · Recurso contra indeferimento de licenciamento de areia e cascalho em área de PLG de diamante → nega provimento por unanimidade
   - votos: Victor: relator; Guilherme: acompanha; Ronaldo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=5444s)
-- **RD 32ª Ordinária (2021-09-23)**, 1.8 · relator **Victor Bicca** · Recurso contra indeferimento de registro de extração (fundamentado indevidamente em norma de licenciamento) → dá provimento por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 1.8 · relator **Victor Bicca** · Recurso contra indeferimento de registro de extração (fundamentado indevidamente em norma de licenciamento) → dá provimento por unanimidade
   - votos: Victor: relator; Guilherme: acompanha; Ronaldo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=5574s)
-- **RD 32ª Ordinária (2021-09-23)**, 1.10 · relator **Victor Bicca** · Recurso contra indeferimento de guia de utilização de rocha ornamental (área oriunda de disponibilidade) → dá provimento por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 1.10 · relator **Victor Bicca** · Recurso contra indeferimento de guia de utilização de rocha ornamental (área oriunda de disponibilidade) → dá provimento por unanimidade
   - votos: Victor: relator; Guilherme: acompanha; Ronaldo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=5667s)
-- **RD 32ª Ordinária (2021-09-23)**, 1.11 · relator **Victor Bicca** · Recurso contra indeferimento de prorrogação do prazo para requerer lavra → nega provimento por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 1.11 · relator **Victor Bicca** · Recurso contra indeferimento de prorrogação do prazo para requerer lavra → nega provimento por unanimidade
   - votos: Victor: relator; Guilherme: acompanha; Ronaldo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=5834s)
-- **RD 32ª Ordinária (2021-09-23)**, 1.12 · relator **Victor Bicca** · Recurso contra indeferimento de habilitação em disponibilidade (regime da Portaria 268/2008) → dá provimento por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 1.12 · relator **Victor Bicca** · Recurso contra indeferimento de habilitação em disponibilidade (regime da Portaria 268/2008) → dá provimento por unanimidade
   - votos: Victor: relator; Guilherme: acompanha; Ronaldo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=5983s)
-- **RD 32ª Ordinária (2021-09-23)**, 2.1.1 · relator **Tasso Mendonça** · Voto-vista: recursos contra indeferimento de requerimentos de pesquisa por interferência com áreas cujos alvarás venceram sem relatório durante a vigê → negado provimento por unanimidade (prevaleceu o voto-vista)
+- **RD 32ª Ordinária (2021-09-22)**, 2.1.1 · relator **Tasso Mendonça** · Voto-vista: recursos contra indeferimento de requerimentos de pesquisa por interferência com áreas cujos alvarás venceram sem relatório durante a vigê → negado provimento por unanimidade (prevaleceu o voto-vista)
   - votos: Debora: revisor_acompanha; Tasso: revisor_acompanha; Guilherme: revisor_acompanha; Ronaldo: revisor_acompanha; Victor: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=6309s)
-- **RD 32ª Ordinária (2021-09-23)**, 2.2.2 · relator **Debora Puccini** · Recurso contra indeferimento de licenciamento de basalto por interferência total (inclusive com processo próprio renunciado) → nega provimento por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 2.2.2 · relator **Debora Puccini** · Recurso contra indeferimento de licenciamento de basalto por interferência total (inclusive com processo próprio renunciado) → nega provimento por unanimidade
   - votos: Debora: relator; Tasso: acompanha; Guilherme: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=6587s)
-- **RD 32ª Ordinária (2021-09-23)**, 2.2.3 · relator **Debora Puccini** · Recurso intempestivo contra indeferimento de licenciamento de areia → não conhece por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 2.2.3 · relator **Debora Puccini** · Recurso intempestivo contra indeferimento de licenciamento de areia → não conhece por unanimidade
   - votos: Debora: relator; Tasso: acompanha; Guilherme: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=6792s)
-- **RD 32ª Ordinária (2021-09-23)**, 3.9 · relator **Tasso Mendonça** · Recurso contra multa por TAH paga fora do prazo → nega provimento por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 3.9 · relator **Tasso Mendonça** · Recurso contra multa por TAH paga fora do prazo → nega provimento por unanimidade
   - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=9637s)
-- **RD 32ª Ordinária (2021-09-23)**, 3.12.1 · relator **Tasso Mendonça** · Recurso contra nulidade de registro de licença após cancelamento da licença municipal → nega provimento por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 3.12.1 · relator **Tasso Mendonça** · Recurso contra nulidade de registro de licença após cancelamento da licença municipal → nega provimento por unanimidade
   - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=9722s)
-- **RD 32ª Ordinária (2021-09-23)**, 3.13.1 · relator **Tasso Mendonça** · Recurso contra autos de infração 51 e 52/2016 sobre declarações de estabilidade de barragens → dá provimento por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 3.13.1 · relator **Tasso Mendonça** · Recurso contra autos de infração 51 e 52/2016 sobre declarações de estabilidade de barragens → dá provimento por unanimidade
   - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=9880s)
-- **RD 32ª Ordinária (2021-09-23)**, 3.13.2 · relator **Tasso Mendonça** · Recurso contra auto de infração: mapa de inundação de barragem não disponível na vistoria → nega provimento por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 3.13.2 · relator **Tasso Mendonça** · Recurso contra auto de infração: mapa de inundação de barragem não disponível na vistoria → nega provimento por unanimidade
   - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=10009s)
-- **RD 32ª Ordinária (2021-09-23)**, 4.3.1 · relator **Ronaldo Lima** · Recurso contra indeferimento de requerimentos de pesquisa (áreas ligadas por corredores estreitos) → nega provimento por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 4.3.1 · relator **Ronaldo Lima** · Recurso contra indeferimento de requerimentos de pesquisa (áreas ligadas por corredores estreitos) → nega provimento por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=10345s)
-- **RD 32ª Ordinária (2021-09-23)**, 4.4.1 · relator **Ronaldo Lima** · Recurso contra não aprovação de relatórios finais de pesquisa de quartzito → nega provimento por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 4.4.1 · relator **Ronaldo Lima** · Recurso contra não aprovação de relatórios finais de pesquisa de quartzito → nega provimento por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=10436s)
-- **RD 32ª Ordinária (2021-09-23)**, 4.5 · relator **Ronaldo Lima** · Recurso contra indeferimento de prorrogação de registro de licença (falta autorização do proprietário) → nega provimento por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 4.5 · relator **Ronaldo Lima** · Recurso contra indeferimento de prorrogação de registro de licença (falta autorização do proprietário) → nega provimento por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=10519s)
-- **RD 32ª Ordinária (2021-09-23)**, 4.5 (bis) · relator **Ronaldo Lima** · Recurso contra indeferimento de prorrogação de registro de licença (licença municipal fora do prazo) → não conhece (intempestivo) por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 4.5 (bis) · relator **Ronaldo Lima** · Recurso contra indeferimento de prorrogação de registro de licença (licença municipal fora do prazo) → não conhece (intempestivo) por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=10591s)
-- **RD 32ª Ordinária (2021-09-23)**, 4.6 · relator **Ronaldo Lima** · Recurso contra indeferimento de PLG de ouro (interferência e requerente pessoa jurídica) → nega provimento por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 4.6 · relator **Ronaldo Lima** · Recurso contra indeferimento de PLG de ouro (interferência e requerente pessoa jurídica) → nega provimento por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=10654s)
-- **RD 32ª Ordinária (2021-09-23)**, 4.7 · relator **Ronaldo Lima** · Recurso contra indeferimento de PLG de ouro por interferência com áreas da MP 790 → nega provimento por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 4.7 · relator **Ronaldo Lima** · Recurso contra indeferimento de PLG de ouro por interferência com áreas da MP 790 → nega provimento por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=10729s)
-- **RD 32ª Ordinária (2021-09-23)**, 4.8 · relator **Ronaldo Lima** · Recurso contra indeferimento de prorrogação de prazo e indeferimento de requerimento de lavra → nega provimento e indefere por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 4.8 · relator **Ronaldo Lima** · Recurso contra indeferimento de prorrogação de prazo e indeferimento de requerimento de lavra → nega provimento e indefere por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=10965s)
-- **RD 32ª Ordinária (2021-09-23)**, 4.10 · relator **Ronaldo Lima** · Recursos contra cobranças de CFEM → nega provimento à maioria; provimento parcial a Cerâmica Rosápolis e Cerâmica Serra Azul, 
+- **RD 32ª Ordinária (2021-09-22)**, 4.10 · relator **Ronaldo Lima** · Recursos contra cobranças de CFEM → nega provimento à maioria; provimento parcial a Cerâmica Rosápolis e Cerâmica Serra Azul, 
   - votos: Ronaldo: relator; Guilherme: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=11094s)
-- **RD 32ª Ordinária (2021-09-23)**, 5.4 · relator **Guilherme Gomes** · Recurso contra indeferimento de mudança de regime de pesquisa para licenciamento → dá provimento por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 5.4 · relator **Guilherme Gomes** · Recurso contra indeferimento de mudança de regime de pesquisa para licenciamento → dá provimento por unanimidade
   - votos: Guilherme: relator; Tasso: acompanha; Debora: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=12064s)
-- **RD 32ª Ordinária (2021-09-23)**, 5.6 · relator **Guilherme Gomes** · Recursos contra indeferimento de prorrogação de registro de licença (documento essencial; débito de CFEM em dívida ativa) → nega provimento por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 5.6 · relator **Guilherme Gomes** · Recursos contra indeferimento de prorrogação de registro de licença (documento essencial; débito de CFEM em dívida ativa) → nega provimento por unanimidade
   - votos: Guilherme: relator; Tasso: acompanha; Debora: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=12282s)
-- **RD 32ª Ordinária (2021-09-23)**, 5.7 · relator **Guilherme Gomes** · Recurso contra indeferimento de dispensa de título minerário (cascalho seria comercializado fora da obra) → nega provimento por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 5.7 · relator **Guilherme Gomes** · Recurso contra indeferimento de dispensa de título minerário (cascalho seria comercializado fora da obra) → nega provimento por unanimidade
   - votos: Guilherme: relator; Tasso: acompanha; Debora: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=12412s)
-- **RD 33ª Ordinária (2021-10-21)**, 3.5.1 · relator **Tomás Filho** · Voto-vista de Tasso Mendonça: recurso contra caducidade do direito de requerer a lavra (espongilito e argila refratária); requerimento de lavra protoc → recurso provido por maioria (4 a 1)
+- **RD 33ª Ordinária (2021-10-20)**, 3.5.1 · relator **Tomás Filho** · Voto-vista de Tasso Mendonça: recurso contra caducidade do direito de requerer a lavra (espongilito e argila refratária); requerimento de lavra protoc → recurso provido por maioria (4 a 1)
   - votos: Tasso: revisor_acompanha; Debora: revisor_acompanha; Victor: revisor_acompanha; Ronaldo: outro; Guilherme: outro; Tomás: vencido · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=506s)
-- **RD 33ª Ordinária (2021-10-21)**, 4.4.1 · relator **Ronaldo Lima** · Recurso contra indeferimento de guia de utilização de 16 mil t/ano fora das reservas aprovadas em 2003; sustentação oral de Renato Silva → recurso provido por unanimidade, com recomendações
+- **RD 33ª Ordinária (2021-10-20)**, 4.4.1 · relator **Ronaldo Lima** · Recurso contra indeferimento de guia de utilização de 16 mil t/ano fora das reservas aprovadas em 2003; sustentação oral de Renato Silva → recurso provido por unanimidade, com recomendações
   - votos: Ronaldo: relator; Tasso: acompanha; Debora: acompanha; Guilherme: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=2130s)
-- **RD 33ª Ordinária (2021-10-21)**, 4.6.15 · relator **Ronaldo Lima** · Recurso contra cobrança de CFEM (2013–2016, cerca de R$ 18 milhões segundo a advogada) por glosa de despesas de transporte por mineroduto próprio de 2 → nega provimento por unanimidade
+- **RD 33ª Ordinária (2021-10-20)**, 4.6.15 · relator **Ronaldo Lima** · Recurso contra cobrança de CFEM (2013–2016, cerca de R$ 18 milhões segundo a advogada) por glosa de despesas de transporte por mineroduto próprio de 2 → nega provimento por unanimidade
   - votos: Ronaldo: relator; Tasso: acompanha; Debora: acompanha; Guilherme: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=3242s)
-- **RD 33ª Ordinária (2021-10-21)**, 5.9.1 · relator **Guilherme Gomes** · Recurso contra não aprovação de relatório final de pesquisa por cumprimento intempestivo de exigência (processo da vista de Tasso na 29ª ROP, redistri → dá provimento por unanimidade
+- **RD 33ª Ordinária (2021-10-20)**, 5.9.1 · relator **Guilherme Gomes** · Recurso contra não aprovação de relatório final de pesquisa por cumprimento intempestivo de exigência (processo da vista de Tasso na 29ª ROP, redistri → dá provimento por unanimidade
   - votos: Guilherme: relator; Tasso: acompanha; Debora: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=4344s)
-- **RD 33ª Ordinária (2021-10-21)**, 5.11.4 · relator **Guilherme Gomes** · Recurso contra cobrança de CFEM (2008–2014); sustentação de Eduarda sobre incidência até a farinha/cru → nega provimento por unanimidade
+- **RD 33ª Ordinária (2021-10-20)**, 5.11.4 · relator **Guilherme Gomes** · Recurso contra cobrança de CFEM (2008–2014); sustentação de Eduarda sobre incidência até a farinha/cru → nega provimento por unanimidade
   - votos: Guilherme: relator; Tasso: acompanha; Debora: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=4749s)
-- **RD 33ª Ordinária (2021-10-21)**, 5.11.6 · relator **Guilherme Gomes** · Recurso contra cobrança de CFEM (2004) com base no RAL; alegadas divergências de quantidades e soma de custos de lavra e beneficiamento → nega provimento por unanimidade
+- **RD 33ª Ordinária (2021-10-20)**, 5.11.6 · relator **Guilherme Gomes** · Recurso contra cobrança de CFEM (2004) com base no RAL; alegadas divergências de quantidades e soma de custos de lavra e beneficiamento → nega provimento por unanimidade
   - votos: Guilherme: relator; Tasso: acompanha; Debora: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=5362s)
-- **RD 33ª Ordinária (2021-10-21)**, 5.14.15 · relator **Guilherme Gomes** · Recurso (recebido como pedido de reconsideração) contra decisão colegiada de 2018/2019 que negou prorrogação de prazo para requerer lavra → aprovado por unanimidade (reconsideração; novo prazo improrrogável de 1 ano)
+- **RD 33ª Ordinária (2021-10-20)**, 5.14.15 · relator **Guilherme Gomes** · Recurso (recebido como pedido de reconsideração) contra decisão colegiada de 2018/2019 que negou prorrogação de prazo para requerer lavra → aprovado por unanimidade (reconsideração; novo prazo improrrogável de 1 ano)
   - votos: Guilherme: relator; Tasso: acompanha; Debora: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=5856s)
-- **RD 33ª Ordinária (2021-10-21)**, 1.7 · relator **Victor Bicca** · Recurso contra indeferimento (2017) de prorrogação do prazo para requerer lavra pedida em 2006 → dá provimento por unanimidade dos presentes
+- **RD 33ª Ordinária (2021-10-20)**, 1.7 · relator **Victor Bicca** · Recurso contra indeferimento (2017) de prorrogação do prazo para requerer lavra pedida em 2006 → dá provimento por unanimidade dos presentes
   - votos: Victor: relator; Guilherme: acompanha; Ronaldo: acompanha; Debora: acompanha; Tasso: outro · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=8190s)
-- **RD 33ª Ordinária (2021-10-21)**, 1.9 · relator **Victor Bicca** · Recurso contra negativa de nova prorrogação de exigência (licença ambiental) e indeferimento do requerimento de lavra → nega provimento por unanimidade dos presentes
+- **RD 33ª Ordinária (2021-10-20)**, 1.9 · relator **Victor Bicca** · Recurso contra negativa de nova prorrogação de exigência (licença ambiental) e indeferimento do requerimento de lavra → nega provimento por unanimidade dos presentes
   - votos: Victor: relator; Guilherme: acompanha; Ronaldo: acompanha; Debora: acompanha; Tasso: outro · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=8338s)
-- **RD 33ª Ordinária (2021-10-21)**, 1.10 · relator **Victor Bicca** · Recurso em procedimento de disponibilidade (pontuação das propostas) → nega provimento por unanimidade dos presentes
+- **RD 33ª Ordinária (2021-10-20)**, 1.10 · relator **Victor Bicca** · Recurso em procedimento de disponibilidade (pontuação das propostas) → nega provimento por unanimidade dos presentes
   - votos: Victor: relator; Guilherme: acompanha; Ronaldo: acompanha; Debora: acompanha; Tasso: outro · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=8456s)
-- **RD 33ª Ordinária (2021-10-21)**, 2.4 · relator **Debora Puccini** · Recurso contra indeferimento de licenciamento de areia em dois municípios (licença de Conceição do Mato Dentro apresentada fora do prazo) → dá provimento por unanimidade
+- **RD 33ª Ordinária (2021-10-20)**, 2.4 · relator **Debora Puccini** · Recurso contra indeferimento de licenciamento de areia em dois municípios (licença de Conceição do Mato Dentro apresentada fora do prazo) → dá provimento por unanimidade
   - votos: Debora: relator; Tasso: acompanha; Guilherme: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=8901s)
-- **RD 33ª Ordinária (2021-10-21)**, 2.7 · relator **Debora Puccini** · Recurso contra indeferimento de requerimento de lavra por intempestividade sem AR do ofício de exigência → dá provimento (anula) por unanimidade
+- **RD 33ª Ordinária (2021-10-20)**, 2.7 · relator **Debora Puccini** · Recurso contra indeferimento de requerimento de lavra por intempestividade sem AR do ofício de exigência → dá provimento (anula) por unanimidade
   - votos: Debora: relator; Tasso: acompanha; Guilherme: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=9680s)
-- **RD 33ª Ordinária (2021-10-21)**, 3.3 · relator **Tasso Mendonça** · Recurso contra multa por entrega do RAL fora do prazo (alegação de falha do sistema) → nega provimento por unanimidade
+- **RD 33ª Ordinária (2021-10-20)**, 3.3 · relator **Tasso Mendonça** · Recurso contra multa por entrega do RAL fora do prazo (alegação de falha do sistema) → nega provimento por unanimidade
   - votos: Tasso: relator; Guilherme: acompanha; Debora: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=10278s)
-- **RD 33ª Ordinária (2021-10-21)**, 4.4.2 · relator **Ronaldo Lima** · Recurso contra indeferimento de guia (documentos de outro processo, emolumento não pago) → nega provimento por unanimidade
+- **RD 33ª Ordinária (2021-10-20)**, 4.4.2 · relator **Ronaldo Lima** · Recurso contra indeferimento de guia (documentos de outro processo, emolumento não pago) → nega provimento por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=10734s)
-- **RD 33ª Ordinária (2021-10-21)**, 4.6 · relator **Ronaldo Lima** · Recursos contra cobranças de CFEM → nega provimento a 12; provimento parcial a 2; provimento a Cerâmica Safran, por unanimidad
+- **RD 33ª Ordinária (2021-10-20)**, 4.6 · relator **Ronaldo Lima** · Recursos contra cobranças de CFEM → nega provimento a 12; provimento parcial a 2; provimento a Cerâmica Safran, por unanimidad
   - votos: Ronaldo: relator; Guilherme: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=10881s)
-- **RD 33ª Ordinária (2021-10-21)**, 4.7.1 · relator **Ronaldo Lima** · Recurso contra anulação de PLG de ouro outorgada a pessoa já falecida → nega provimento por unanimidade
+- **RD 33ª Ordinária (2021-10-20)**, 4.7.1 · relator **Ronaldo Lima** · Recurso contra anulação de PLG de ouro outorgada a pessoa já falecida → nega provimento por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=11064s)
-- **RD 33ª Ordinária (2021-10-21)**, 4.10 · relator **Ronaldo Lima** · Recursos contra indeferimento de licenciamento (documentos essenciais) → nega provimento por unanimidade
+- **RD 33ª Ordinária (2021-10-20)**, 4.10 · relator **Ronaldo Lima** · Recursos contra indeferimento de licenciamento (documentos essenciais) → nega provimento por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=11529s)
-- **RD 33ª Ordinária (2021-10-21)**, 4.11 · relator **Ronaldo Lima** · Recurso contra indeferimento de prorrogação de licenciamento por dívida ativa (quitada) → dá provimento por unanimidade
+- **RD 33ª Ordinária (2021-10-20)**, 4.11 · relator **Ronaldo Lima** · Recurso contra indeferimento de prorrogação de licenciamento por dívida ativa (quitada) → dá provimento por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=11588s)
-- **RD 33ª Ordinária (2021-10-21)**, 4.11.2 · relator **Ronaldo Lima** · Recurso contra indeferimento de prorrogação de licença (sem autorização do proprietário) → nega provimento por unanimidade
+- **RD 33ª Ordinária (2021-10-20)**, 4.11.2 · relator **Ronaldo Lima** · Recurso contra indeferimento de prorrogação de licença (sem autorização do proprietário) → nega provimento por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=11658s)
-- **RD 33ª Ordinária (2021-10-21)**, 4.12.1 · relator **Ronaldo Lima** · Recurso contra multa por exigência não cumprida (ART) → nega provimento por unanimidade
+- **RD 33ª Ordinária (2021-10-20)**, 4.12.1 · relator **Ronaldo Lima** · Recurso contra multa por exigência não cumprida (ART) → nega provimento por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=11713s)
-- **RD 33ª Ordinária (2021-10-21)**, 5.5 · relator **Guilherme Gomes** · Recurso contra indeferimento de prorrogação de registro de licença (diverge da regional e da COTIL) → dá provimento por unanimidade
+- **RD 33ª Ordinária (2021-10-20)**, 5.5 · relator **Guilherme Gomes** · Recurso contra indeferimento de prorrogação de registro de licença (diverge da regional e da COTIL) → dá provimento por unanimidade
   - votos: Guilherme: relator; Ronaldo: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=12037s)
-- **RD 33ª Ordinária (2021-10-21)**, 5.6 a 5.8 · relator **Guilherme Gomes** · Recursos (prorrogação de licença, cancelamento de licenciamento, PLG) → nega provimento por unanimidade
+- **RD 33ª Ordinária (2021-10-20)**, 5.6 a 5.8 · relator **Guilherme Gomes** · Recursos (prorrogação de licença, cancelamento de licenciamento, PLG) → nega provimento por unanimidade
   - votos: Guilherme: relator; Ronaldo: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=12092s)
-- **RD 33ª Ordinária (2021-10-21)**, 5.10 · relator **Guilherme Gomes** · Recurso em procedimento de disponibilidade → nega provimento por unanimidade
+- **RD 33ª Ordinária (2021-10-20)**, 5.10 · relator **Guilherme Gomes** · Recurso em procedimento de disponibilidade → nega provimento por unanimidade
   - votos: Guilherme: relator; Ronaldo: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=12226s)
-- **RD 33ª Ordinária (2021-10-21)**, 5.11 a 5.13 · relator **Guilherme Gomes** · Recursos contra cobranças de CFEM → nega provimento à maioria; provimento parcial e provimento em alguns, por unanimidade
+- **RD 33ª Ordinária (2021-10-20)**, 5.11 a 5.13 · relator **Guilherme Gomes** · Recursos contra cobranças de CFEM → nega provimento à maioria; provimento parcial e provimento em alguns, por unanimidade
   - votos: Guilherme: relator; Ronaldo: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=12270s)
-- **RD 34ª Reunião Ordinária Pública (2021-11-25)**, 1.5.1 · relator **Victor Bicca** · Embargos de declaração e recurso hierárquico ao MME contra decisão da diretoria (25ª ROP, fev/2021) que tornou sem efeito a cessão total de concessão  → embargos não providos e recurso hierárquico não conhecido, por unanimidade
+- **RD 34ª Reunião Ordinária Pública (2021-11-24)**, 1.5.1 · relator **Victor Bicca** · Embargos de declaração e recurso hierárquico ao MME contra decisão da diretoria (25ª ROP, fev/2021) que tornou sem efeito a cessão total de concessão  → embargos não providos e recurso hierárquico não conhecido, por unanimidade
   - votos: Victor: relator; Tasso: acompanha; Ronaldo: acompanha; Guilherme: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=_gJ3LyVOb64&t=486s)
-- **RD 34ª Reunião Ordinária Pública (2021-11-25)**, 3.5.1 · relator **Tasso Mendonça** · Recurso contra indeferimento de requerimento de pesquisa (2.482 ha) por interferência com processo prioritário, após a ANM ter declarado a área livre → retirado de pauta pelo relator
+- **RD 34ª Reunião Ordinária Pública (2021-11-24)**, 3.5.1 · relator **Tasso Mendonça** · Recurso contra indeferimento de requerimento de pesquisa (2.482 ha) por interferência com processo prioritário, após a ANM ter declarado a área livre → retirado de pauta pelo relator
   - votos: Tasso: relator · [vídeo](https://www.youtube.com/watch?v=_gJ3LyVOb64&t=2623s)
-- **RD 34ª Reunião Ordinária Pública (2021-11-25)**, 3.9.1 · relator **Tasso Mendonça** · Voto-vista sobre recursos contra cobranças de CFEM de 2009 a 2017 (consumo de concentrado de zinco, bonificações, fretes, exportação de chumbo) → retirado de pauta
+- **RD 34ª Reunião Ordinária Pública (2021-11-24)**, 3.9.1 · relator **Tasso Mendonça** · Voto-vista sobre recursos contra cobranças de CFEM de 2009 a 2017 (consumo de concentrado de zinco, bonificações, fretes, exportação de chumbo) → retirado de pauta
   - votos: Tasso: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=_gJ3LyVOb64&t=3453s)
-- **RD 34ª Reunião Ordinária Pública (2021-11-25)**, 4.3.8 · relator **Ronaldo Lima** · Recurso contra cobrança de CFEM (2010–2017, cerca de R$ 720 mil) calculada com dados do RAL; pede dedução de ICMS por operação e recomposição do custo → recurso conhecido e não provido, por unanimidade
+- **RD 34ª Reunião Ordinária Pública (2021-11-24)**, 4.3.8 · relator **Ronaldo Lima** · Recurso contra cobrança de CFEM (2010–2017, cerca de R$ 720 mil) calculada com dados do RAL; pede dedução de ICMS por operação e recomposição do custo → recurso conhecido e não provido, por unanimidade
   - votos: Ronaldo: relator; Tasso: acompanha; Guilherme: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=_gJ3LyVOb64&t=6033s)
-- **RD 34ª Reunião Ordinária Pública (2021-11-25)**, 5.9.1 · relator **Guilherme Gomes** · Recurso contra cobrança de CFEM; pede prescrição intercorrente (recurso parado 10 anos no DNPM) ou nulidade por não apreciação de pedido de prova peri → provimento parcial por unanimidade: anulada a decisão da defesa, autos à regional de MG pa
+- **RD 34ª Reunião Ordinária Pública (2021-11-24)**, 5.9.1 · relator **Guilherme Gomes** · Recurso contra cobrança de CFEM; pede prescrição intercorrente (recurso parado 10 anos no DNPM) ou nulidade por não apreciação de pedido de prova peri → provimento parcial por unanimidade: anulada a decisão da defesa, autos à regional de MG pa
   - votos: Guilherme: relator; Tasso: acompanha; Debora: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=_gJ3LyVOb64&t=7249s)
-- **RD 34ª Reunião Ordinária Pública (2021-11-25)**, 1.1–1.10 · relator **Victor Bicca** · 1.1 referendo de guia de utilização emitida pelo DG; 1.2 outorga de 27 concessões de lavra; 1.3 aditamentos; 1.4 retificação de portaria de lavra após → aprovado por unanimidade, com ressalva de Ronaldo Lima no 1.1
+- **RD 34ª Reunião Ordinária Pública (2021-11-24)**, 1.1–1.10 · relator **Victor Bicca** · 1.1 referendo de guia de utilização emitida pelo DG; 1.2 outorga de 27 concessões de lavra; 1.3 aditamentos; 1.4 retificação de portaria de lavra após → aprovado por unanimidade, com ressalva de Ronaldo Lima no 1.1
   - votos: Victor: relator; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=_gJ3LyVOb64&t=7663s)
-- **RD 34ª Reunião Ordinária Pública (2021-11-25)**, 2.1–2.4 e 4.2 (Débora) · relator **Debora Puccini** · Guias de utilização (2); recursos de CFEM da Votorantim negados após parecer da PF; prorrogação de registro de licença provida por boa-fé (licença mun → aprovado por unanimidade
+- **RD 34ª Reunião Ordinária Pública (2021-11-24)**, 2.1–2.4 e 4.2 (Débora) · relator **Debora Puccini** · Guias de utilização (2); recursos de CFEM da Votorantim negados após parecer da PF; prorrogação de registro de licença provida por boa-fé (licença mun → aprovado por unanimidade
   - votos: Debora: relator; Tasso: acompanha; Ronaldo: acompanha; Guilherme: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=_gJ3LyVOb64&t=9546s)
-- **RD 34ª Reunião Ordinária Pública (2021-11-25)**, 3.1–3.9 (Tasso) · relator **Tasso Mendonça** · Indeferimento de requerimento de lavra de areia (mudança para licenciamento); grupamento mineiro arquivado (desistência) e outro indeferido (produção  → aprovado por unanimidade
+- **RD 34ª Reunião Ordinária Pública (2021-11-24)**, 3.1–3.9 (Tasso) · relator **Tasso Mendonça** · Indeferimento de requerimento de lavra de areia (mudança para licenciamento); grupamento mineiro arquivado (desistência) e outro indeferido (produção  → aprovado por unanimidade
   - votos: Tasso: relator; Debora: acompanha; Guilherme: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=_gJ3LyVOb64&t=10220s)
-- **RD 34ª Reunião Ordinária Pública (2021-11-25)**, 4.1–4.8 (Ronaldo) · relator **Ronaldo Lima** · Outorga de 15 portarias de lavra; aditamentos; recursos de CFEM negados; multa em dobro por reincidência (Safran) mantida; 12 recursos contra indeferi → aprovado por unanimidade
+- **RD 34ª Reunião Ordinária Pública (2021-11-24)**, 4.1–4.8 (Ronaldo) · relator **Ronaldo Lima** · Outorga de 15 portarias de lavra; aditamentos; recursos de CFEM negados; multa em dobro por reincidência (Safran) mantida; 12 recursos contra indeferi → aprovado por unanimidade
   - votos: Ronaldo: relator; Tasso: acompanha; Debora: acompanha; Guilherme: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=_gJ3LyVOb64&t=11732s)
-- **RD 34ª Reunião Ordinária Pública (2021-11-25)**, 5.1–5.8 (Guilherme) · relator **Guilherme Gomes** · Outorga de 22 concessões de lavra; prorrogação de registro negada; aditamento; caducidade; julgamento de propostas em procedimentos de disponibilidade → aprovado por unanimidade
+- **RD 34ª Reunião Ordinária Pública (2021-11-24)**, 5.1–5.8 (Guilherme) · relator **Guilherme Gomes** · Outorga de 22 concessões de lavra; prorrogação de registro negada; aditamento; caducidade; julgamento de propostas em procedimentos de disponibilidade → aprovado por unanimidade
   - votos: Guilherme: relator; Debora: acompanha; Tasso: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=_gJ3LyVOb64&t=12524s)
-- **RD 20ª Reunião Extraordinária Pública (2021-12-02)**, 2.3.1 · relator **Tasso Mendonça** · Recurso contra indeferimento de registro de licença (argila e saibro) por não apresentação da renovação da licença municipal (Rio Bonito/RJ), atrasada → pedido de vista de Ronaldo Lima (deliberação adiada)
+- **RD 20ª Reunião Extraordinária Pública (2021-12-01)**, 2.3.1 · relator **Tasso Mendonça** · Recurso contra indeferimento de registro de licença (argila e saibro) por não apresentação da renovação da licença municipal (Rio Bonito/RJ), atrasada → pedido de vista de Ronaldo Lima (deliberação adiada)
   - votos: Tasso: relator; Debora: outro; Ronaldo: vista · [vídeo](https://www.youtube.com/watch?v=ExyrFG2xQXI&t=6870s)
-- **RD 20ª Reunião Extraordinária Pública (2021-12-02)**, 2.5.2 · relator **Tasso Mendonça** · Recurso contra proposta de indeferimento de requerimento de lavra por não apresentação de licença ambiental → recurso provido por unanimidade; autos à regional para continuar a análise
+- **RD 20ª Reunião Extraordinária Pública (2021-12-01)**, 2.5.2 · relator **Tasso Mendonça** · Recurso contra proposta de indeferimento de requerimento de lavra por não apresentação de licença ambiental → recurso provido por unanimidade; autos à regional para continuar a análise
   - votos: Tasso: relator; Debora: acompanha; Ronaldo: acompanha; Guilherme: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ExyrFG2xQXI&t=8709s)
-- **RD 35ª Reunião Ordinária Pública (2021-12-16)**, 2.5.1 · relator **Ronaldo Lima** · Recurso contra não aprovação de relatório final de pesquisa de minério de ferro (4,92 ha, MG), indeferido por insuficiência de pesquisa após vistoria  → recurso provido por unanimidade dos que votaram (Carlos Cordeiro impedido)
+- **RD 35ª Reunião Ordinária Pública (2021-12-15)**, 2.5.1 · relator **Ronaldo Lima** · Recurso contra não aprovação de relatório final de pesquisa de minério de ferro (4,92 ha, MG), indeferido por insuficiência de pesquisa após vistoria  → recurso provido por unanimidade dos que votaram (Carlos Cordeiro impedido)
   - votos: Ronaldo: relator; Victor: acompanha; Carlos: outro; Aline: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=GjzI6PQFCH4&t=549s)
-- **RD 35ª Reunião Ordinária Pública (2021-12-16)**, 1.10.1 · relator **Victor Bicca** · Recurso contra denúncia de lavra ilegal de diabásio para brita em Ortigueira/PR (denúncia da prefeitura); defesa alega compra e venda de material, não → retirado de pauta pelo relator
+- **RD 35ª Reunião Ordinária Pública (2021-12-15)**, 1.10.1 · relator **Victor Bicca** · Recurso contra denúncia de lavra ilegal de diabásio para brita em Ortigueira/PR (denúncia da prefeitura); defesa alega compra e venda de material, não → retirado de pauta pelo relator
   - votos: Victor: relator · [vídeo](https://www.youtube.com/watch?v=GjzI6PQFCH4&t=2004s)
-- **RD 35ª Reunião Ordinária Pública (2021-12-16)**, 1.11.1 · relator **Victor Bicca** · Recurso contra o Auto de Paralisação 1/2019 por lavra de diabásio pela arrendatária sem averbação do arrendamento (Paraná) → recurso provido por unanimidade; auto arquivado
+- **RD 35ª Reunião Ordinária Pública (2021-12-15)**, 1.11.1 · relator **Victor Bicca** · Recurso contra o Auto de Paralisação 1/2019 por lavra de diabásio pela arrendatária sem averbação do arrendamento (Paraná) → recurso provido por unanimidade; auto arquivado
   - votos: Victor: relator; Ronaldo: acompanha; Carlos: acompanha; Aline: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=GjzI6PQFCH4&t=2909s)
-- **RD 35ª Reunião Ordinária Pública (2021-12-16)**, 1.7–1.9 · relator **Victor Bicca** · 1.7 pedido de reconsideração acatado por autotutela: tornado sem efeito o indeferimento de registro de licença (DNPM/MT não enviou declaração de aptid → aprovado por unanimidade
+- **RD 35ª Reunião Ordinária Pública (2021-12-15)**, 1.7–1.9 · relator **Victor Bicca** · 1.7 pedido de reconsideração acatado por autotutela: tornado sem efeito o indeferimento de registro de licença (DNPM/MT não enviou declaração de aptid → aprovado por unanimidade
   - votos: Victor: relator; Ronaldo: acompanha; Carlos: acompanha; Aline: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=GjzI6PQFCH4&t=6760s)
-- **RD 35ª Reunião Ordinária Pública (2021-12-16)**, 2.1–2.4 · relator **Ronaldo Lima** · 2.1 outorga de 9 concessões de lavra; 2.2 aditamento de novas substâncias (Vale; AngloGold prata); 2.3 recursos contra cobrança de CFEM negados; 2.4 c → aprovado por unanimidade
+- **RD 35ª Reunião Ordinária Pública (2021-12-15)**, 2.1–2.4 · relator **Ronaldo Lima** · 2.1 outorga de 9 concessões de lavra; 2.2 aditamento de novas substâncias (Vale; AngloGold prata); 2.3 recursos contra cobrança de CFEM negados; 2.4 c → aprovado por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Aline: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=GjzI6PQFCH4&t=7282s)
-- **RD 35ª Reunião Ordinária Pública (2021-12-16)**, 3.1–3.6 · relator **Guilherme Gomes** · 3.1 outorga de 11 concessões de lavra; 3.2 recursos contra indeferimento de pesquisa por interferência negados (Ferlig); 3.3 aditamentos; 3.4 homologa → aprovado por unanimidade
+- **RD 35ª Reunião Ordinária Pública (2021-12-15)**, 3.1–3.6 · relator **Guilherme Gomes** · 3.1 outorga de 11 concessões de lavra; 3.2 recursos contra indeferimento de pesquisa por interferência negados (Ferlig); 3.3 aditamentos; 3.4 homologa → aprovado por unanimidade
   - votos: Guilherme: relator; Ronaldo: acompanha; Carlos: acompanha; Aline: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=GjzI6PQFCH4&t=7664s)
-- **RD 35ª Reunião Ordinária Pública (2021-12-16)**, 4.1.1–4.1.7 · relator **Aline (substituta, sobrenome a confirmar)** · Recursos contra cobranças de CFEM (prescrição, decadência, ilegitimidade após cessão, pagamentos não considerados, redução de juros da Lei 12.249/2010 → recursos conhecidos e não providos, por unanimidade
+- **RD 35ª Reunião Ordinária Pública (2021-12-15)**, 4.1.1–4.1.7 · relator **Aline (substituta, sobrenome a confirmar)** · Recursos contra cobranças de CFEM (prescrição, decadência, ilegitimidade após cessão, pagamentos não considerados, redução de juros da Lei 12.249/2010 → recursos conhecidos e não providos, por unanimidade
   - votos: Aline: relator; Guilherme: acompanha; Ronaldo: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=GjzI6PQFCH4&t=8080s)
 - **RD 36ª Reunião Ordinária Pública (2022-01-26)**, 5.2.8 · relator **Aline (substituta, sobrenome a confirmar)** · Recurso contra cobrança de CFEM (jan/2010 a dez/2012, NFLDP 291/2014); alega cobrança só pelo RAL e boletos, falta de dedução de ICMS/PIS/Cofins e jur → recurso conhecido e não provido, por unanimidade
   - votos: Aline: relator; Guilherme: acompanha; Ronaldo: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=xiUGQlCtGDw&t=483s)
@@ -592,247 +676,217 @@
   - votos: Guilherme: relator; Ronaldo: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=xiUGQlCtGDw&t=7541s)
 - **RD 36ª Reunião Ordinária Pública (2022-01-26)**, 4.2.1–4.2.9 · relator **Carlos Cordeiro** · Indeferimento de requerimentos de lavra por não cumprimento ou cumprimento intempestivo de exigências (sobretudo licenciamento ambiental); 4.2.7 recur → aprovado por unanimidade
   - votos: Carlos: relator; Guilherme: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=xiUGQlCtGDw&t=8380s)
-- **RD 37ª Ordinária (2022-02-24)**, 2.2 · relator **Ronaldo Lima** · Recurso contra não aprovação de relatório final de pesquisa de ouro → recurso provido por unanimidade (diretores presentes)
+- **RD 37ª Ordinária (2022-02-23)**, 2.2 · relator **Ronaldo Lima** · Recurso contra não aprovação de relatório final de pesquisa de ouro → recurso provido por unanimidade (diretores presentes)
   - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Júlio: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=285s)
-- **RD 37ª Ordinária (2022-02-24)**, 2.3 · relator **Ronaldo Lima** · Recurso contra apuração de lavra ilegal (mármore dolomítico) → recurso provido por unanimidade (diretores presentes)
+- **RD 37ª Ordinária (2022-02-23)**, 2.3 · relator **Ronaldo Lima** · Recurso contra apuração de lavra ilegal (mármore dolomítico) → recurso provido por unanimidade (diretores presentes)
   - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Júlio: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=366s)
-- **RD 37ª Ordinária (2022-02-24)**, 2.4 · relator **Ronaldo Lima** · Recursos contra cobrança de CFEM e TAH → Rochedo: provimento parcial; demais: negados; por unanimidade
+- **RD 37ª Ordinária (2022-02-23)**, 2.4 · relator **Ronaldo Lima** · Recursos contra cobrança de CFEM e TAH → Rochedo: provimento parcial; demais: negados; por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Júlio: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=455s)
-- **RD 37ª Ordinária (2022-02-24)**, 2.5 · relator **Ronaldo Lima** · 14 recursos contra multas por descumprir exigências de segurança da barragem Rio Fiorita → recurso negado por unanimidade (diretores presentes)
+- **RD 37ª Ordinária (2022-02-23)**, 2.5 · relator **Ronaldo Lima** · 14 recursos contra multas por descumprir exigências de segurança da barragem Rio Fiorita → recurso negado por unanimidade (diretores presentes)
   - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Júlio: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=558s)
-- **RD 37ª Ordinária (2022-02-24)**, 2.6 · relator **Ronaldo Lima** · Recurso contra indeferimento de renovação de guia de utilização de areia → recurso provido por unanimidade (diretores presentes)
+- **RD 37ª Ordinária (2022-02-23)**, 2.6 · relator **Ronaldo Lima** · Recurso contra indeferimento de renovação de guia de utilização de areia → recurso provido por unanimidade (diretores presentes)
   - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Júlio: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=669s)
-- **RD 37ª Ordinária (2022-02-24)**, 2.7 · relator **Ronaldo Lima** · Recursos contra indeferimento de guias de utilização (minério de ferro 300 mil t/ano em área com reservas de ouro) → recurso provido por unanimidade (diretores presentes)
+- **RD 37ª Ordinária (2022-02-23)**, 2.7 · relator **Ronaldo Lima** · Recursos contra indeferimento de guias de utilização (minério de ferro 300 mil t/ano em área com reservas de ouro) → recurso provido por unanimidade (diretores presentes)
   - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Júlio: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=750s)
-- **RD 37ª Ordinária (2022-02-24)**, 3.3 · relator **Guilherme Gomes** · Recursos contra negativa de prorrogação de prazo de exigência e indeferimento de requerimento de lavra → recurso negado por unanimidade (diretores presentes)
+- **RD 37ª Ordinária (2022-02-23)**, 3.3 · relator **Guilherme Gomes** · Recursos contra negativa de prorrogação de prazo de exigência e indeferimento de requerimento de lavra → recurso negado por unanimidade (diretores presentes)
   - votos: Guilherme: relator; Ronaldo: acompanha; Júlio: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=1049s)
-- **RD 37ª Ordinária (2022-02-24)**, 3.4 · relator **Guilherme Gomes** · Recursos contra multas (autos de infração) → recurso negado por unanimidade (diretores presentes)
+- **RD 37ª Ordinária (2022-02-23)**, 3.4 · relator **Guilherme Gomes** · Recursos contra multas (autos de infração) → recurso negado por unanimidade (diretores presentes)
   - votos: Guilherme: relator; Ronaldo: acompanha; Júlio: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=1119s)
-- **RD 37ª Ordinária (2022-02-24)**, 3.5 · relator **Guilherme Gomes** · Recurso contra indeferimento por interferência total com área onerada → recurso negado por unanimidade (diretores presentes)
+- **RD 37ª Ordinária (2022-02-23)**, 3.5 · relator **Guilherme Gomes** · Recurso contra indeferimento por interferência total com área onerada → recurso negado por unanimidade (diretores presentes)
   - votos: Guilherme: relator; Ronaldo: acompanha; Júlio: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=1157s)
-- **RD 37ª Ordinária (2022-02-24)**, 3.6 · relator **Guilherme Gomes** · Recurso contra cancelamento de registro de licença → recurso provido por unanimidade (diretores presentes)
+- **RD 37ª Ordinária (2022-02-23)**, 3.6 · relator **Guilherme Gomes** · Recurso contra cancelamento de registro de licença → recurso provido por unanimidade (diretores presentes)
   - votos: Guilherme: relator; Ronaldo: acompanha; Júlio: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=1184s)
-- **RD 37ª Ordinária (2022-02-24)**, 3.9 · relator **Guilherme Gomes** · Recurso contra não aprovação de relatório final de pesquisa → recurso negado por unanimidade (diretores presentes)
+- **RD 37ª Ordinária (2022-02-23)**, 3.9 · relator **Guilherme Gomes** · Recurso contra não aprovação de relatório final de pesquisa → recurso negado por unanimidade (diretores presentes)
   - votos: Guilherme: relator; Ronaldo: acompanha; Júlio: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=1293s)
-- **RD 37ª Ordinária (2022-02-24)**, 3.10 · relator **Guilherme Gomes** · Recurso contra caducidade do direito de requerer lavra → recurso provido por unanimidade (diretores presentes)
+- **RD 37ª Ordinária (2022-02-23)**, 3.10 · relator **Guilherme Gomes** · Recurso contra caducidade do direito de requerer lavra → recurso provido por unanimidade (diretores presentes)
   - votos: Guilherme: relator; Ronaldo: acompanha; Júlio: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=1326s)
-- **RD 37ª Ordinária (2022-02-24)**, 3.11 · relator **Guilherme Gomes** · Recursos contra indeferimento de requerimentos de pesquisa (interferência total; um processo integralmente no Parque Nacional da Serra do Gandarela) → recurso negado por unanimidade (diretores presentes)
+- **RD 37ª Ordinária (2022-02-23)**, 3.11 · relator **Guilherme Gomes** · Recursos contra indeferimento de requerimentos de pesquisa (interferência total; um processo integralmente no Parque Nacional da Serra do Gandarela) → recurso negado por unanimidade (diretores presentes)
   - votos: Guilherme: relator; Ronaldo: acompanha; Júlio: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=1356s)
-- **RD 37ª Ordinária (2022-02-24)**, 3.12 · relator **Guilherme Gomes** · Recurso contra indeferimento de prorrogação de licença → recurso provido por unanimidade (diretores presentes)
+- **RD 37ª Ordinária (2022-02-23)**, 3.12 · relator **Guilherme Gomes** · Recurso contra indeferimento de prorrogação de licença → recurso provido por unanimidade (diretores presentes)
   - votos: Guilherme: relator; Ronaldo: acompanha; Júlio: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=1425s)
-- **RD 37ª Ordinária (2022-02-24)**, 1.10.1 · relator **Victor Bicca** · Recursos em procedimento de disponibilidade (edital 6/2014, área de manganês/ferro/ouro em Paranã-TO e Cavalcante-GO) → recursos negados por unanimidade (diretores presentes); Bomec prioritária
+- **RD 37ª Ordinária (2022-02-23)**, 1.10.1 · relator **Victor Bicca** · Recursos em procedimento de disponibilidade (edital 6/2014, área de manganês/ferro/ouro em Paranã-TO e Cavalcante-GO) → recursos negados por unanimidade (diretores presentes); Bomec prioritária
   - votos: Victor: relator; Júlio: acompanha; Roger: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=1720s)
-- **RD 37ª Ordinária (2022-02-24)**, 1.4 · relator **Victor Bicca** · Recurso contra negativa de prorrogação de prazo para requerer lavra (pedidos de 2002 decididos em 2021) → recurso provido por unanimidade (diretores presentes)
+- **RD 37ª Ordinária (2022-02-23)**, 1.4 · relator **Victor Bicca** · Recurso contra negativa de prorrogação de prazo para requerer lavra (pedidos de 2002 decididos em 2021) → recurso provido por unanimidade (diretores presentes)
   - votos: Victor: relator; Júlio: acompanha; Roger: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=3270s)
-- **RD 37ª Ordinária (2022-02-24)**, 1.5 · relator **Victor Bicca** · Recurso contra resultado de procedimento de disponibilidade → recurso negado por unanimidade (diretores presentes)
+- **RD 37ª Ordinária (2022-02-23)**, 1.5 · relator **Victor Bicca** · Recurso contra resultado de procedimento de disponibilidade → recurso negado por unanimidade (diretores presentes)
   - votos: Victor: relator; Júlio: acompanha; Roger: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=3400s)
-- **RD 37ª Ordinária (2022-02-24)**, 1.6 · relator **Victor Bicca** · Reconsideração de decisão da diretoria sobre auto de paralisação (areia em leito de rio com poligonal deslocada) → recurso não conhecido; auto de paralisação arquivado e poligonal a ajustar, por unanimidad
+- **RD 37ª Ordinária (2022-02-23)**, 1.6 · relator **Victor Bicca** · Reconsideração de decisão da diretoria sobre auto de paralisação (areia em leito de rio com poligonal deslocada) → recurso não conhecido; auto de paralisação arquivado e poligonal a ajustar, por unanimidad
   - votos: Victor: relator; Júlio: acompanha; Roger: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=3511s)
-- **RD 37ª Ordinária (2022-02-24)**, 1.7 · relator **Victor Bicca** · Recurso contra indeferimento de licenciamento sem autorização do superficiário → recurso negado por unanimidade (diretores presentes)
+- **RD 37ª Ordinária (2022-02-23)**, 1.7 · relator **Victor Bicca** · Recurso contra indeferimento de licenciamento sem autorização do superficiário → recurso negado por unanimidade (diretores presentes)
   - votos: Victor: relator; Júlio: acompanha; Roger: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=3673s)
-- **RD 37ª Ordinária (2022-02-24)**, 1.8 · relator **Victor Bicca** · Recurso contra indeferimento de requerimento de pesquisa por interferência total → recurso negado por unanimidade (diretores presentes)
+- **RD 37ª Ordinária (2022-02-23)**, 1.8 · relator **Victor Bicca** · Recurso contra indeferimento de requerimento de pesquisa por interferência total → recurso negado por unanimidade (diretores presentes)
   - votos: Victor: relator; Júlio: acompanha; Roger: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=3785s)
-- **RD 37ª Ordinária (2022-02-24)**, 1.9 · relator **Victor Bicca** · Recursos contra cobrança de CFEM (cerceamento, RAL, decadência, base de cálculo, juros) → recursos negados, exceto provimento parcial no 931.034/2011 (decadência parcial), por unan
+- **RD 37ª Ordinária (2022-02-23)**, 1.9 · relator **Victor Bicca** · Recursos contra cobrança de CFEM (cerceamento, RAL, decadência, base de cálculo, juros) → recursos negados, exceto provimento parcial no 931.034/2011 (decadência parcial), por unan
   - votos: Victor: relator; Júlio: acompanha; Roger: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=3911s)
-- **RD 37ª Ordinária (2022-02-24)**, 1.11 · relator **Victor Bicca** · Pedido de revisão de decisão do DG do DNPM (2016) que não aprovou relatórios de pesquisa de ouro e bismuto → pedido de revisão negado por unanimidade
+- **RD 37ª Ordinária (2022-02-23)**, 1.11 · relator **Victor Bicca** · Pedido de revisão de decisão do DG do DNPM (2016) que não aprovou relatórios de pesquisa de ouro e bismuto → pedido de revisão negado por unanimidade
   - votos: Victor: relator; Júlio: acompanha; Roger: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=4139s)
-- **RD 37ª Ordinária (2022-02-24)**, 4.3 · relator **Roger Cabral** · Recurso contra decisão da diretoria colegiada que indeferiu requerimentos → recurso não conhecido, por unanimidade
+- **RD 37ª Ordinária (2022-02-23)**, 4.3 · relator **Roger Cabral** · Recurso contra decisão da diretoria colegiada que indeferiu requerimentos → recurso não conhecido, por unanimidade
   - votos: Roger: relator; Ronaldo: acompanha; Júlio: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=4734s)
-- **RD 37ª Ordinária (2022-02-24)**, 4.4 · relator **Roger Cabral** · Recurso contra negativa de anuência prévia a cessão parcial de direitos → anulada a decisão; recurso não conhecido por perda de objeto, por unanimidade
+- **RD 37ª Ordinária (2022-02-23)**, 4.4 · relator **Roger Cabral** · Recurso contra negativa de anuência prévia a cessão parcial de direitos → anulada a decisão; recurso não conhecido por perda de objeto, por unanimidade
   - votos: Roger: relator; Ronaldo: acompanha; Júlio: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=4782s)
-- **RD 37ª Ordinária (2022-02-24)**, 5.6 · relator **Júlio Rodrigues** · Recurso contra caducidade do direito de requerer lavra por intempestividade → recurso não conhecido (intempestivo), por unanimidade
+- **RD 37ª Ordinária (2022-02-23)**, 5.6 · relator **Júlio Rodrigues** · Recurso contra caducidade do direito de requerer lavra por intempestividade → recurso não conhecido (intempestivo), por unanimidade
   - votos: Júlio: relator; Ronaldo: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=5574s)
-- **RD 37ª Ordinária (2022-02-24)**, 5.7 · relator **Júlio Rodrigues** · Recurso contra indeferimento de requerimento de pesquisa por interferência total → recurso negado por unanimidade (diretores presentes)
+- **RD 37ª Ordinária (2022-02-23)**, 5.7 · relator **Júlio Rodrigues** · Recurso contra indeferimento de requerimento de pesquisa por interferência total → recurso negado por unanimidade (diretores presentes)
   - votos: Júlio: relator; Ronaldo: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=5691s)
-- **RD 37ª Ordinária (2022-02-24)**, 5.8 · relator **Júlio Rodrigues** · Recursos contra cobrança de CFEM → recurso negado por unanimidade (diretores presentes)
+- **RD 37ª Ordinária (2022-02-23)**, 5.8 · relator **Júlio Rodrigues** · Recursos contra cobrança de CFEM → recurso negado por unanimidade (diretores presentes)
   - votos: Júlio: relator; Ronaldo: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=5912s)
-- **RD 37ª Ordinária (2022-02-24)**, 5.9 · relator **Júlio Rodrigues** · Recurso contra auto de infração por não incluir caracterização tecnológica dos rejeitos no PSB (barragem bacia de acumulação 01) → recurso negado por unanimidade (diretores presentes)
+- **RD 37ª Ordinária (2022-02-23)**, 5.9 · relator **Júlio Rodrigues** · Recurso contra auto de infração por não incluir caracterização tecnológica dos rejeitos no PSB (barragem bacia de acumulação 01) → recurso negado por unanimidade (diretores presentes)
   - votos: Júlio: relator; Ronaldo: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=5967s)
-- **RD 19ª Ordinária (2022-03-07)**, 1.3 · relator **Victor Bicca** · Recursos contra multas por não iniciar trabalhos do PAE em seis meses (art. 34, I, do regulamento) → recursos negados por unanimidade
-  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1361s)
-- **RD 19ª Ordinária (2022-03-07)**, 1.4 · relator **Victor Bicca** · Recurso contra multa por infração ao art. 20 da Portaria DNPM 70.389/2017 (segurança de barragens) → recurso provido por unanimidade
-  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1406s)
-- **RD 19ª Ordinária (2022-03-07)**, 1.9 · relator **Victor Bicca** · Recursos contra quatro multas da Portaria 70.389/2017 (barragens) → recurso negado quanto ao AI 906/2017 e provido quanto aos AIs 590, 620 e 663/2018, por una
-  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1630s)
-- **RD 19ª Ordinária (2022-03-07)**, 1.10 · relator **Victor Bicca** · Recurso contra multas por não publicar extrato da inspeção quinzenal de barragem (art. 20, Portaria 70.389/2017) → recurso negado por unanimidade
-  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1768s)
-- **RD 19ª Ordinária (2022-03-07)**, 1.11 · relator **Victor Bicca** · Recurso contra processo de cobrança de CFEM → recurso negado por unanimidade
-  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1814s)
-- **RD 19ª Ordinária (2022-03-07)**, 2.1 · relator **Debora Puccini** · Recursos contra resultado de edital de disponibilidade → recursos negados por unanimidade
-  - votos: Debora: relator; Tomás: acompanha; Eduardo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=2026s)
-- **RD 19ª Ordinária (2022-03-07)**, 2.5 · relator **Debora Puccini** · Recursos contra indeferimento de requerimentos de licenciamento → recursos negados por unanimidade
-  - votos: Debora: relator; Tomás: acompanha; Eduardo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=2294s)
-- **RD 19ª Ordinária (2022-03-07)**, 2.6 · relator **Debora Puccini** · Recurso contra indeferimento de prorrogação de licenciamento (sem nova licença municipal) → recurso negado por unanimidade
-  - votos: Debora: relator; Tomás: acompanha; Eduardo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=2380s)
-- **RD 19ª Ordinária (2022-03-07)**, 3.1 · relator **Eduardo Leão** · Recurso contra multa por descumprimento de norma de segurança de barragem (alega descomissionamento) → recurso negado por unanimidade
-  - votos: Eduardo: relator; Debora: acompanha; Tasso: acompanha; Tomás: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=2830s)
-- **RD 19ª Ordinária (2022-03-07)**, 3.2 · relator **Eduardo Leão** · Recurso contra cobrança de CFEM (diferença de ≈R$ 122) → recurso negado por unanimidade
-  - votos: Eduardo: relator; Debora: acompanha; Tasso: acompanha; Tomás: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=2880s)
-- **RD 19ª Ordinária (2022-03-07)**, 3.3 · relator **Eduardo Leão** · Recurso contra cobrança de CFEM (calcário) → recurso provido por unanimidade
-  - votos: Eduardo: relator; Debora: acompanha; Tasso: acompanha; Tomás: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=2925s)
-- **RD 19ª Ordinária (2022-03-07)**, 3.4 · relator **Eduardo Leão** · Recurso contra cobrança de CFEM (mármore, Vargem Alta) → resultado incerto na legenda (provável negativa de provimento), por unanimidade
-  - votos: Eduardo: relator; Debora: acompanha; Tasso: acompanha; Tomás: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=2976s)
-- **RD 19ª Ordinária (2022-03-07)**, 4.8–4.12 · relator **Tasso Mendonça** · Recursos contra cobranças de CFEM (granito, agregados, calcário, água mineral, areia) → recursos negados por unanimidade
-  - votos: Tasso: relator; Debora: acompanha; Eduardo: acompanha; Tomás: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=3217s)
-- **RD 19ª Ordinária (2022-03-07)**, 5.1–5.7 · relator **Tomás Filho** · Instauração de caducidade de concessões (abandono), negativa de prorrogação de início de lavra, provimento de recurso contra cancelamento de licenciam → aprovado por unanimidade
-  - votos: Tomás: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=3706s)
-- **RD 19ª Ordinária (2022-03-07)**, 5.10 · relator **Tasso Mendonça** · Voto-vista sobre recurso contra indeferimento de requerimento de pesquisa (faixa de fronteira; ofícios sem AR) → recurso não conhecido (intempestivo), por unanimidade; relator original Tasso reviu o voto
-  - votos: Tasso: revisor_acompanha; Tomás: revisor_diverge; Debora: revisor_acompanha; Eduardo: revisor_acompanha; Victor: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=4517s)
-- **RD 22ª Extraordinária (2022-03-17)**, 3.1 · relator **Guilherme Gomes** · Recurso contra indeferimento de prorrogação de alvará de pesquisa / não aprovação de relatório final → recurso provido por unanimidade (diretores presentes)
+- **RD 22ª Extraordinária (2022-03-16)**, 3.1 · relator **Guilherme Gomes** · Recurso contra indeferimento de prorrogação de alvará de pesquisa / não aprovação de relatório final → recurso provido por unanimidade (diretores presentes)
   - votos: Guilherme: relator; Roger: acompanha; Júlio: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nGQWChUBrZw&t=2373s)
-- **RD 22ª Extraordinária (2022-03-17)**, 3.2 · relator **Guilherme Gomes** · Recurso contra indeferimento de guia de utilização → recurso negado por unanimidade (diretores presentes)
+- **RD 22ª Extraordinária (2022-03-16)**, 3.2 · relator **Guilherme Gomes** · Recurso contra indeferimento de guia de utilização → recurso negado por unanimidade (diretores presentes)
   - votos: Guilherme: relator; Roger: acompanha; Júlio: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nGQWChUBrZw&t=2417s)
-- **RD 22ª Extraordinária (2022-03-17)**, 5.2 · relator **Júlio Rodrigues** · Recursos contra autos de infração por não cumprir exigências de segurança da barragem bacia de acumulação 01 (PSB, inspeções) → recursos negados por unanimidade (diretores presentes)
+- **RD 22ª Extraordinária (2022-03-16)**, 5.2 · relator **Júlio Rodrigues** · Recursos contra autos de infração por não cumprir exigências de segurança da barragem bacia de acumulação 01 (PSB, inspeções) → recursos negados por unanimidade (diretores presentes)
   - votos: Júlio: relator; Guilherme: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nGQWChUBrZw&t=2754s)
-- **RD 22ª Extraordinária (2022-03-17)**, 5.4 · relator **Júlio Rodrigues** · Recurso contra indeferimento de 4 requerimentos de licenciamento de calcário (Porto Estrela-MT) por não comprovar diligência ambiental em 60 dias → pedido de vista de Guilherme Gomes
+- **RD 22ª Extraordinária (2022-03-16)**, 5.4 · relator **Júlio Rodrigues** · Recurso contra indeferimento de 4 requerimentos de licenciamento de calcário (Porto Estrela-MT) por não comprovar diligência ambiental em 60 dias → pedido de vista de Guilherme Gomes
   - votos: Júlio: relator; Guilherme: vista · [vídeo](https://www.youtube.com/watch?v=nGQWChUBrZw&t=3556s)
-- **RD 38ª Ordinária (2022-03-31)**, 1.4 · relator **Victor Bicca** · Recurso contra indeferimento de requerimento de PLG por interferência total com área onerada → recurso negado por unanimidade (diretores presentes)
+- **RD 38ª Ordinária (2022-03-30)**, 1.4 · relator **Victor Bicca** · Recurso contra indeferimento de requerimento de PLG por interferência total com área onerada → recurso negado por unanimidade (diretores presentes)
   - votos: Victor: relator; Roger: acompanha; Júlio: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=dGwZYiw_lh0&t=834s)
-- **RD 38ª Ordinária (2022-03-31)**, 1.5 · relator **Victor Bicca** · Recursos contra cobrança de CFEM (decadência, prescrição, base de cálculo, tributos) → recursos negados por unanimidade (diretores presentes)
+- **RD 38ª Ordinária (2022-03-30)**, 1.5 · relator **Victor Bicca** · Recursos contra cobrança de CFEM (decadência, prescrição, base de cálculo, tributos) → recursos negados por unanimidade (diretores presentes)
   - votos: Victor: relator; Roger: acompanha; Júlio: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=dGwZYiw_lh0&t=908s)
-- **RD 38ª Ordinária (2022-03-31)**, 2.4 · relator **Ronaldo Lima** · Recursos intempestivos contra indeferimento de registro de licença (calcário, TO) → recursos não conhecidos, por unanimidade
+- **RD 38ª Ordinária (2022-03-30)**, 2.4 · relator **Ronaldo Lima** · Recursos intempestivos contra indeferimento de registro de licença (calcário, TO) → recursos não conhecidos, por unanimidade
   - votos: Ronaldo: relator; Roger: acompanha; Júlio: acompanha; Guilherme: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=dGwZYiw_lh0&t=1362s)
-- **RD 38ª Ordinária (2022-03-31)**, 2.5 · relator **Ronaldo Lima** · Homologação de desistência após mediação (servidão mineral sobre direito pré-existente) → aprovado por unanimidade
+- **RD 38ª Ordinária (2022-03-30)**, 2.5 · relator **Ronaldo Lima** · Homologação de desistência após mediação (servidão mineral sobre direito pré-existente) → aprovado por unanimidade
   - votos: Ronaldo: relator; Roger: acompanha; Júlio: acompanha; Guilherme: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=dGwZYiw_lh0&t=1445s)
-- **RD 38ª Ordinária (2022-03-31)**, 2.7 · relator **Ronaldo Lima** · Recursos contra cobrança de CFEM → recursos negados por unanimidade
+- **RD 38ª Ordinária (2022-03-30)**, 2.7 · relator **Ronaldo Lima** · Recursos contra cobrança de CFEM → recursos negados por unanimidade
   - votos: Ronaldo: relator; Roger: acompanha; Júlio: acompanha; Guilherme: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=dGwZYiw_lh0&t=1606s)
-- **RD 38ª Ordinária (2022-03-31)**, 2.7 (2) · relator **Ronaldo Lima** · Recurso contra multa por não implementar sistema de monitoramento de segurança de barragem; alega cerceamento de defesa e arrendamento à Minasul desde → recurso negado por unanimidade
+- **RD 38ª Ordinária (2022-03-30)**, 2.7 (2) · relator **Ronaldo Lima** · Recurso contra multa por não implementar sistema de monitoramento de segurança de barragem; alega cerceamento de defesa e arrendamento à Minasul desde → recurso negado por unanimidade
   - votos: Ronaldo: relator; Roger: acompanha; Júlio: acompanha; Guilherme: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=dGwZYiw_lh0&t=1670s)
-- **RD 38ª Ordinária (2022-03-31)**, 3.3.1 · relator **Guilherme Gomes** · Recurso contra indeferimento de requerimento de pesquisa por interferência total (RJ) → recurso negado por unanimidade
+- **RD 38ª Ordinária (2022-03-30)**, 3.3.1 · relator **Guilherme Gomes** · Recurso contra indeferimento de requerimento de pesquisa por interferência total (RJ) → recurso negado por unanimidade
   - votos: Guilherme: relator; Ronaldo: acompanha; Roger: acompanha; Júlio: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=dGwZYiw_lh0&t=1911s)
-- **RD 38ª Ordinária (2022-03-31)**, 4.5 · relator **Roger Cabral** · Recurso contra indeferimento de requerimento de pesquisa de ouro (Vila Bela da Santíssima Trindade) → recurso provido por unanimidade
+- **RD 38ª Ordinária (2022-03-30)**, 4.5 · relator **Roger Cabral** · Recurso contra indeferimento de requerimento de pesquisa de ouro (Vila Bela da Santíssima Trindade) → recurso provido por unanimidade
   - votos: Roger: relator; Guilherme: acompanha; Ronaldo: acompanha; Júlio: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=dGwZYiw_lh0&t=2935s)
-- **RD 38ª Ordinária (2022-03-31)**, 4.6 · relator **Roger Cabral** · Recurso contra indeferimento de renovação de registro de licença (área da Cemig) → recurso provido por unanimidade
+- **RD 38ª Ordinária (2022-03-30)**, 4.6 · relator **Roger Cabral** · Recurso contra indeferimento de renovação de registro de licença (área da Cemig) → recurso provido por unanimidade
   - votos: Roger: relator; Guilherme: acompanha; Ronaldo: acompanha; Júlio: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=dGwZYiw_lh0&t=3052s)
-- **RD 38ª Ordinária (2022-03-31)**, 4.7 · relator **Roger Cabral** · Recurso em disputa de área de disponibilidade → recurso negado; torna sem efeito indeferimento do requerimento de lavra, por unanimidade
+- **RD 38ª Ordinária (2022-03-30)**, 4.7 · relator **Roger Cabral** · Recurso em disputa de área de disponibilidade → recurso negado; torna sem efeito indeferimento do requerimento de lavra, por unanimidade
   - votos: Roger: relator; Guilherme: acompanha; Ronaldo: acompanha; Júlio: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=dGwZYiw_lh0&t=3135s)
-- **RD 38ª Ordinária (2022-03-31)**, 4.9 · relator **Roger Cabral** · Recurso contra indeferimento de registro de licença por interferência total → recurso negado por unanimidade
+- **RD 38ª Ordinária (2022-03-30)**, 4.9 · relator **Roger Cabral** · Recurso contra indeferimento de registro de licença por interferência total → recurso negado por unanimidade
   - votos: Roger: relator; Guilherme: acompanha; Ronaldo: acompanha; Júlio: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=dGwZYiw_lh0&t=3303s)
-- **RD 38ª Ordinária (2022-03-31)**, 5.3 · relator **Júlio Rodrigues** · Recurso contra indeferimento de requerimento de pesquisa de ouro → recurso provido por unanimidade
+- **RD 38ª Ordinária (2022-03-30)**, 5.3 · relator **Júlio Rodrigues** · Recurso contra indeferimento de requerimento de pesquisa de ouro → recurso provido por unanimidade
   - votos: Júlio: relator; Guilherme: acompanha; Ronaldo: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=dGwZYiw_lh0&t=3764s)
-- **RD 39ª Ordinária (2022-04-28)**, 3.2.8 · relator **Guilherme Gomes** · Recursos contra cobrança de CFEM sobre carvão (alega base com carvão de terceiros e importado; pede diligência/perícia) → recursos negados por unanimidade (diretores presentes; Tasso sem conexão)
+- **RD 39ª Ordinária (2022-04-27)**, 3.2.8 · relator **Guilherme Gomes** · Recursos contra cobrança de CFEM sobre carvão (alega base com carvão de terceiros e importado; pede diligência/perícia) → recursos negados por unanimidade (diretores presentes; Tasso sem conexão)
   - votos: Guilherme: relator; Ronaldo: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=Y-jJDsaPHKU&t=3055s)
-- **RD 39ª Ordinária (2022-04-28)**, 1.2 · relator **Victor Bicca** · Recurso intempestivo contra indeferimento de registro de licença (memorial descritivo com rumos não cardeais fora de leito de rio) → recurso não conhecido, por unanimidade
+- **RD 39ª Ordinária (2022-04-27)**, 1.2 · relator **Victor Bicca** · Recurso intempestivo contra indeferimento de registro de licença (memorial descritivo com rumos não cardeais fora de leito de rio) → recurso não conhecido, por unanimidade
   - votos: Victor: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=Y-jJDsaPHKU&t=3991s)
-- **RD 39ª Ordinária (2022-04-28)**, 1.3 · relator **Victor Bicca** · Recurso contra baixa de registro de licença por pedido de prorrogação fora do prazo → recurso negado por unanimidade
+- **RD 39ª Ordinária (2022-04-27)**, 1.3 · relator **Victor Bicca** · Recurso contra baixa de registro de licença por pedido de prorrogação fora do prazo → recurso negado por unanimidade
   - votos: Victor: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=Y-jJDsaPHKU&t=4098s)
-- **RD 39ª Ordinária (2022-04-28)**, 2.6 · relator **Ronaldo Lima** · Recurso contra cancelamento de guia de utilização; caducidade do direito de requerer lavra → recurso negado e caducidade declarada, por unanimidade
+- **RD 39ª Ordinária (2022-04-27)**, 2.6 · relator **Ronaldo Lima** · Recurso contra cancelamento de guia de utilização; caducidade do direito de requerer lavra → recurso negado e caducidade declarada, por unanimidade
   - votos: Ronaldo: relator; Tasso: acompanha; Roger: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=Y-jJDsaPHKU&t=4630s)
-- **RD 39ª Ordinária (2022-04-28)**, 2.7 · relator **Ronaldo Lima** · Recursos contra cobrança de CFEM → primeiro provido em parte; demais negados; por unanimidade
+- **RD 39ª Ordinária (2022-04-27)**, 2.7 · relator **Ronaldo Lima** · Recursos contra cobrança de CFEM → primeiro provido em parte; demais negados; por unanimidade
   - votos: Ronaldo: relator; Tasso: acompanha; Roger: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=Y-jJDsaPHKU&t=4705s)
-- **RD 39ª Ordinária (2022-04-28)**, 2.8 · relator **Ronaldo Lima** · Recurso contra multas por descumprimento de normas de segurança de barragem → recurso negado por unanimidade
+- **RD 39ª Ordinária (2022-04-27)**, 2.8 · relator **Ronaldo Lima** · Recurso contra multas por descumprimento de normas de segurança de barragem → recurso negado por unanimidade
   - votos: Ronaldo: relator; Tasso: acompanha; Roger: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=Y-jJDsaPHKU&t=4785s)
-- **RD 39ª Ordinária (2022-04-28)**, 2.9 · relator **Ronaldo Lima** · Recurso contra cancelamento de registro de licença por suspensão da lavra > 6 meses → recurso provido por unanimidade
+- **RD 39ª Ordinária (2022-04-27)**, 2.9 · relator **Ronaldo Lima** · Recurso contra cancelamento de registro de licença por suspensão da lavra > 6 meses → recurso provido por unanimidade
   - votos: Ronaldo: relator; Tasso: acompanha; Roger: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=Y-jJDsaPHKU&t=4821s)
-- **RD 39ª Ordinária (2022-04-28)**, 3.2 · relator **Guilherme Gomes** · Recursos contra cobrança de CFEM → recurso negado por unanimidade
+- **RD 39ª Ordinária (2022-04-27)**, 3.2 · relator **Guilherme Gomes** · Recursos contra cobrança de CFEM → recurso negado por unanimidade
   - votos: Guilherme: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=Y-jJDsaPHKU&t=5057s)
-- **RD 39ª Ordinária (2022-04-28)**, 3.3 · relator **Guilherme Gomes** · Recursos contra cobrança de CFEM → recursos parcialmente providos por unanimidade
+- **RD 39ª Ordinária (2022-04-27)**, 3.3 · relator **Guilherme Gomes** · Recursos contra cobrança de CFEM → recursos parcialmente providos por unanimidade
   - votos: Guilherme: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=Y-jJDsaPHKU&t=5113s)
-- **RD 39ª Ordinária (2022-04-28)**, 3.4 · relator **Guilherme Gomes** · Reconsideração de decisão que indeferiu requerimentos de lavra e prorrogação de prazo → reconsideração negada por unanimidade
+- **RD 39ª Ordinária (2022-04-27)**, 3.4 · relator **Guilherme Gomes** · Reconsideração de decisão que indeferiu requerimentos de lavra e prorrogação de prazo → reconsideração negada por unanimidade
   - votos: Guilherme: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=Y-jJDsaPHKU&t=5149s)
-- **RD 39ª Ordinária (2022-04-28)**, 3.5 · relator **Guilherme Gomes** · Recurso contra cancelamento de registro de licença → recurso provido por unanimidade
+- **RD 39ª Ordinária (2022-04-27)**, 3.5 · relator **Guilherme Gomes** · Recurso contra cancelamento de registro de licença → recurso provido por unanimidade
   - votos: Guilherme: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=Y-jJDsaPHKU&t=5203s)
-- **RD 39ª Ordinária (2022-04-28)**, 3.8 · relator **Guilherme Gomes** · Recurso contra indeferimento de prorrogação de licenciamento → recurso provido por unanimidade
+- **RD 39ª Ordinária (2022-04-27)**, 3.8 · relator **Guilherme Gomes** · Recurso contra indeferimento de prorrogação de licenciamento → recurso provido por unanimidade
   - votos: Guilherme: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=Y-jJDsaPHKU&t=5368s)
-- **RD 39ª Ordinária (2022-04-28)**, 4.3 · relator **Tasso Mendonça** · Novo recurso contra indeferimento de requerimentos de lavra (36ª RO) e não conhecimento (37ª RO): AR enviado a endereço diverso do cadastro → recurso não conhecido, mas anuladas de ofício as decisões anteriores e reiteradas exigênci
+- **RD 39ª Ordinária (2022-04-27)**, 4.3 · relator **Tasso Mendonça** · Novo recurso contra indeferimento de requerimentos de lavra (36ª RO) e não conhecimento (37ª RO): AR enviado a endereço diverso do cadastro → recurso não conhecido, mas anuladas de ofício as decisões anteriores e reiteradas exigênci
   - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=Y-jJDsaPHKU&t=6025s)
-- **RD 39ª Ordinária (2022-04-28)**, 5.6 · relator **Tasso Mendonça** · Voto-vista (pendente desde a 18ª RO de 2020, pedido por Débora Puccini) sobre disponibilidade: acompanha o relator Tasso → recurso negado por unanimidade; prioritária a proposta da empresa indicada pela comissão d
+- **RD 39ª Ordinária (2022-04-27)**, 5.6 · relator **Tasso Mendonça** · Voto-vista (pendente desde a 18ª RO de 2020, pedido por Débora Puccini) sobre disponibilidade: acompanha o relator Tasso → recurso negado por unanimidade; prioritária a proposta da empresa indicada pela comissão d
   - votos: Roger: revisor_acompanha; Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=Y-jJDsaPHKU&t=7270s)
-- **RD 40ª Ordinária (2022-05-26)**, 1.5 · relator **Victor Bicca** · Recursos contra indeferimento de requerimentos de pesquisa por interferência total → recurso negado por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 1.5 · relator **Victor Bicca** · Recursos contra indeferimento de requerimentos de pesquisa por interferência total → recurso negado por unanimidade
   - votos: Victor: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=1852s)
-- **RD 40ª Ordinária (2022-05-26)**, 1.6 · relator **Victor Bicca** · Reconsideração de indeferimento de requerimento de lavra (exigência de 2009 decidida em 2018 sem prova de ciência) → recurso provido por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 1.6 · relator **Victor Bicca** · Reconsideração de indeferimento de requerimento de lavra (exigência de 2009 decidida em 2018 sem prova de ciência) → recurso provido por unanimidade
   - votos: Victor: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=1967s)
-- **RD 40ª Ordinária (2022-05-26)**, 1.7 · relator **Victor Bicca** · Recurso contra indeferimento de registro de licença (licença ambiental fora do prazo de 60 dias) → recurso negado por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 1.7 · relator **Victor Bicca** · Recurso contra indeferimento de registro de licença (licença ambiental fora do prazo de 60 dias) → recurso negado por unanimidade
   - votos: Victor: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=2109s)
-- **RD 40ª Ordinária (2022-05-26)**, 1.8 · relator **Victor Bicca** · Recurso contra denúncia de lavra ilegal (extração por terceiro em área com registro de licença da Pedreira Lageado) → recurso provido por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 1.8 · relator **Victor Bicca** · Recurso contra denúncia de lavra ilegal (extração por terceiro em área com registro de licença da Pedreira Lageado) → recurso provido por unanimidade
   - votos: Victor: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=2295s)
-- **RD 40ª Ordinária (2022-05-26)**, 2.2.1 · relator **Ronaldo Lima** · Reconsideração de decisão da 21ª RO sobre prorrogação de alvará de pesquisa de ouro (MT) → reconsideração provida por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 2.2.1 · relator **Ronaldo Lima** · Reconsideração de decisão da 21ª RO sobre prorrogação de alvará de pesquisa de ouro (MT) → reconsideração provida por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=2669s)
-- **RD 40ª Ordinária (2022-05-26)**, 2.2.2 · relator **Ronaldo Lima** · Reconsideração de decisão sobre cobrança de CFEM (columbita, Itapuã do Oeste-RO) → reconsideração não conhecida, por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 2.2.2 · relator **Ronaldo Lima** · Reconsideração de decisão sobre cobrança de CFEM (columbita, Itapuã do Oeste-RO) → reconsideração não conhecida, por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=2774s)
-- **RD 40ª Ordinária (2022-05-26)**, 2.3 · relator **Ronaldo Lima** · Recurso contra indeferimento de requerimento de lavra (exigência sem AR) → recurso provido por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 2.3 · relator **Ronaldo Lima** · Recurso contra indeferimento de requerimento de lavra (exigência sem AR) → recurso provido por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=2857s)
-- **RD 40ª Ordinária (2022-05-26)**, 2.4 · relator **Ronaldo Lima** · Recurso intempestivo contra indeferimento de PLG de ouro (MT) → recurso não conhecido, mas indeferimento tornado sem efeito de ofício (autotutela), por un
+- **RD 40ª Ordinária (2022-05-25)**, 2.4 · relator **Ronaldo Lima** · Recurso intempestivo contra indeferimento de PLG de ouro (MT) → recurso não conhecido, mas indeferimento tornado sem efeito de ofício (autotutela), por un
   - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=2970s)
-- **RD 40ª Ordinária (2022-05-26)**, 2.5 · relator **Ronaldo Lima** · Recurso contra cobrança de CFEM → recurso negado por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 2.5 · relator **Ronaldo Lima** · Recurso contra cobrança de CFEM → recurso negado por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=3051s)
-- **RD 40ª Ordinária (2022-05-26)**, 2.7 · relator **Ronaldo Lima** · Recursos contra multas por descumprir normas de segurança de barragens (Portaria 70.389/2017) → sete recursos negados e um provido, por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 2.7 · relator **Ronaldo Lima** · Recursos contra multas por descumprir normas de segurança de barragens (Portaria 70.389/2017) → sete recursos negados e um provido, por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=3267s)
-- **RD 40ª Ordinária (2022-05-26)**, 2.7 (2) · relator **Ronaldo Lima** · Recurso intempestivo contra multa de segurança de barragem → recurso não conhecido (intempestivo), por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 2.7 (2) · relator **Ronaldo Lima** · Recurso intempestivo contra multa de segurança de barragem → recurso não conhecido (intempestivo), por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=3350s)
-- **RD 40ª Ordinária (2022-05-26)**, 3.2 · relator **Guilherme Gomes** · Recursos contra cobrança de CFEM → recurso negado por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 3.2 · relator **Guilherme Gomes** · Recursos contra cobrança de CFEM → recurso negado por unanimidade
   - votos: Guilherme: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=3733s)
-- **RD 40ª Ordinária (2022-05-26)**, 3.3 · relator **Guilherme Gomes** · Recursos contra cobrança de CFEM → recursos parcialmente providos por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 3.3 · relator **Guilherme Gomes** · Recursos contra cobrança de CFEM → recursos parcialmente providos por unanimidade
   - votos: Guilherme: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=3820s)
-- **RD 40ª Ordinária (2022-05-26)**, 3.4 · relator **Guilherme Gomes** · Recursos contra multa por não pagamento de TAH → recurso negado por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 3.4 · relator **Guilherme Gomes** · Recursos contra multa por não pagamento de TAH → recurso negado por unanimidade
   - votos: Guilherme: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=3853s)
-- **RD 40ª Ordinária (2022-05-26)**, 3.5 · relator **Guilherme Gomes** · Recurso contra nulidade de alvará de pesquisa → recurso negado por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 3.5 · relator **Guilherme Gomes** · Recurso contra nulidade de alvará de pesquisa → recurso negado por unanimidade
   - votos: Guilherme: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=3890s)
-- **RD 40ª Ordinária (2022-05-26)**, 3.6 · relator **Guilherme Gomes** · Recurso contra indeferimento de prorrogação de alvará de pesquisa → recurso provido por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 3.6 · relator **Guilherme Gomes** · Recurso contra indeferimento de prorrogação de alvará de pesquisa → recurso provido por unanimidade
   - votos: Guilherme: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=3933s)
-- **RD 40ª Ordinária (2022-05-26)**, 3.8 · relator **Guilherme Gomes** · Recursos contra autos de infração e multas → recurso negado por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 3.8 · relator **Guilherme Gomes** · Recursos contra autos de infração e multas → recurso negado por unanimidade
   - votos: Guilherme: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=4015s)
-- **RD 40ª Ordinária (2022-05-26)**, 3.9 · relator **Guilherme Gomes** · Recurso contra auto de infração 470/2017 → recurso provido por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 3.9 · relator **Guilherme Gomes** · Recurso contra auto de infração 470/2017 → recurso provido por unanimidade
   - votos: Guilherme: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=4059s)
-- **RD 40ª Ordinária (2022-05-26)**, 4.1 · relator **Tasso Mendonça** · Indeferimento de requerimentos de lavra por não cumprimento de exigências (no caso Imetame, recurso negado) → aprovado por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 4.1 · relator **Tasso Mendonça** · Indeferimento de requerimentos de lavra por não cumprimento de exigências (no caso Imetame, recurso negado) → aprovado por unanimidade
   - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=4278s)
-- **RD 40ª Ordinária (2022-05-26)**, 4.4 · relator **Tasso Mendonça** · Recurso contra não aprovação de relatório final de pesquisa (granito) → recurso provido por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 4.4 · relator **Tasso Mendonça** · Recurso contra não aprovação de relatório final de pesquisa (granito) → recurso provido por unanimidade
   - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=5311s)
-- **RD 40ª Ordinária (2022-05-26)**, 4.5 · relator **Tasso Mendonça** · Recursos contra indeferimento de registros de licença (licença municipal vencida, licença ambiental não comprovada, exigências não cumpridas) → recurso negado por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 4.5 · relator **Tasso Mendonça** · Recursos contra indeferimento de registros de licença (licença municipal vencida, licença ambiental não comprovada, exigências não cumpridas) → recurso negado por unanimidade
   - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=5516s)
-- **RD 40ª Ordinária (2022-05-26)**, 5.4 · relator **Roger Cabral** · Recursos contra não aprovação de relatórios finais de pesquisa → recurso negado por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 5.4 · relator **Roger Cabral** · Recursos contra não aprovação de relatórios finais de pesquisa → recurso negado por unanimidade
   - votos: Roger: relator; Guilherme: acompanha; Ronaldo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=6770s)
-- **RD 40ª Ordinária (2022-05-26)**, 5.7 · relator **Roger Cabral** · Recurso contra alvará com área inferior à requerida (interferência parcial) → recurso negado por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 5.7 · relator **Roger Cabral** · Recurso contra alvará com área inferior à requerida (interferência parcial) → recurso negado por unanimidade
   - votos: Roger: relator; Guilherme: acompanha; Ronaldo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=7075s)
-- **RD 40ª Ordinária (2022-05-26)**, 5.9 · relator **Roger Cabral** · Recurso intempestivo contra auto de infração (art. 34, XIII, Decreto 9.406) → recurso não conhecido / negado, por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 5.9 · relator **Roger Cabral** · Recurso intempestivo contra auto de infração (art. 34, XIII, Decreto 9.406) → recurso não conhecido / negado, por unanimidade
   - votos: Roger: relator; Guilherme: acompanha; Ronaldo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=7231s)
-- **RD 41ª Ordinária (2022-06-30)**, 1.2.1 · relator **Victor Bicca** · Referendo de ato do DG que deu efeito suspensivo à defesa da Ferro Brasil e restabeleceu a guia de utilização 370/2021 (300 mil t/ano de minério de fe → pedido de vista de Guilherme Gomes; ato do DG segue vigente (até 60 dias)
+- **RD 41ª Ordinária (2022-06-29)**, 1.2.1 · relator **Victor Bicca** · Referendo de ato do DG que deu efeito suspensivo à defesa da Ferro Brasil e restabeleceu a guia de utilização 370/2021 (300 mil t/ano de minério de fe → pedido de vista de Guilherme Gomes; ato do DG segue vigente (até 60 dias)
   - votos: Victor: relator; Guilherme: vista · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=613s)
-- **RD 41ª Ordinária (2022-06-30)**, 1.7 · relator **Victor Bicca** · Recursos contra indeferimento de requerimentos de pesquisa por interferência total → recurso negado por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 1.7 · relator **Victor Bicca** · Recursos contra indeferimento de requerimentos de pesquisa por interferência total → recurso negado por unanimidade
   - votos: Victor: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=3415s)
-- **RD 41ª Ordinária (2022-06-30)**, 1.8 · relator **Victor Bicca** · Recurso contra indeferimento de registro de licença (exigência não recebida nem publicada) → recurso provido por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 1.8 · relator **Victor Bicca** · Recurso contra indeferimento de registro de licença (exigência não recebida nem publicada) → recurso provido por unanimidade
   - votos: Victor: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=3531s)
-- **RD 41ª Ordinária (2022-06-30)**, 2.5 · relator **Ronaldo Lima** · Recurso intempestivo contra caducidade do direito de requerer lavra → recurso não conhecido, por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 2.5 · relator **Ronaldo Lima** · Recurso intempestivo contra caducidade do direito de requerer lavra → recurso não conhecido, por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=4212s)
-- **RD 41ª Ordinária (2022-06-30)**, 2.6 · relator **Ronaldo Lima** · Recurso intempestivo contra indeferimento de PLG de quartzo (falta de planta de detalhe) → recurso não conhecido, mas indeferimento tornado sem efeito (autotutela, precedente da 36ª
+- **RD 41ª Ordinária (2022-06-29)**, 2.6 · relator **Ronaldo Lima** · Recurso intempestivo contra indeferimento de PLG de quartzo (falta de planta de detalhe) → recurso não conhecido, mas indeferimento tornado sem efeito (autotutela, precedente da 36ª
   - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=4313s)
-- **RD 41ª Ordinária (2022-06-30)**, 2.7 · relator **Ronaldo Lima** · Recursos contra cobrança de CFEM → recurso negado por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 2.7 · relator **Ronaldo Lima** · Recursos contra cobrança de CFEM → recurso negado por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Roger: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=4456s)
-- **RD 41ª Ordinária (2022-06-30)**, 3.5 · relator **Guilherme Gomes** · Recursos contra indeferimento de pesquisa por interferência total → recurso negado por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 3.5 · relator **Guilherme Gomes** · Recursos contra indeferimento de pesquisa por interferência total → recurso negado por unanimidade
   - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=4786s)
-- **RD 41ª Ordinária (2022-06-30)**, 3.6 · relator **Guilherme Gomes** · Recurso contra nulidade de registro de licença por interferência total → recurso negado por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 3.6 · relator **Guilherme Gomes** · Recurso contra nulidade de registro de licença por interferência total → recurso negado por unanimidade
   - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=4828s)
-- **RD 41ª Ordinária (2022-06-30)**, 3.7 · relator **Guilherme Gomes** · Recurso contra indeferimento de declaração de dispensa de título minerário → recurso provido por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 3.7 · relator **Guilherme Gomes** · Recurso contra indeferimento de declaração de dispensa de título minerário → recurso provido por unanimidade
   - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=4862s)
-- **RD 41ª Ordinária (2022-06-30)**, 3.8 · relator **Guilherme Gomes** · Recurso contra auto de infração por dano ambiental (vazamento) → recurso não acolhido, mas auto 604/2017 anulado por erro de enquadramento, por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 3.8 · relator **Guilherme Gomes** · Recurso contra auto de infração por dano ambiental (vazamento) → recurso não acolhido, mas auto 604/2017 anulado por erro de enquadramento, por unanimidade
   - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=4902s)
-- **RD 41ª Ordinária (2022-06-30)**, 3.9 · relator **Guilherme Gomes** · Recurso contra cassação de registro de licença → recurso negado por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 3.9 · relator **Guilherme Gomes** · Recurso contra cassação de registro de licença → recurso negado por unanimidade
   - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=4943s)
-- **RD 41ª Ordinária (2022-06-30)**, 3.10 · relator **Guilherme Gomes** · Recurso contra auto de infração por suspensão dos trabalhos de lavra → recurso provido por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 3.10 · relator **Guilherme Gomes** · Recurso contra auto de infração por suspensão dos trabalhos de lavra → recurso provido por unanimidade
   - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=4985s)
-- **RD 41ª Ordinária (2022-06-30)**, 3.13 · relator **Guilherme Gomes** · Recurso contra cobrança de CFEM → recurso negado por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 3.13 · relator **Guilherme Gomes** · Recurso contra cobrança de CFEM → recurso negado por unanimidade
   - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=5005s)
-- **RD 41ª Ordinária (2022-06-30)**, 3.14 · relator **Júlio Rodrigues** · Voto-vista de Guilherme Gomes (da 22ª RE) sobre recurso contra indeferimento de registros de licença de calcário: prazo de 60 dias deve contar da emis → recurso provido por 4 a 1 (voto-vista vencedor; vencido o voto original do relator Júlio R
+- **RD 41ª Ordinária (2022-06-29)**, 3.14 · relator **Júlio Rodrigues** · Voto-vista de Guilherme Gomes (da 22ª RE) sobre recurso contra indeferimento de registros de licença de calcário: prazo de 60 dias deve contar da emis → recurso provido por 4 a 1 (voto-vista vencedor; vencido o voto original do relator Júlio R
   - votos: Júlio: vencido; Guilherme: revisor_diverge; Tasso: revisor_acompanha; Ronaldo: revisor_acompanha; Victor: revisor_acompanha; Roger: outro · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=5225s)
-- **RD 41ª Ordinária (2022-06-30)**, 4.2 · relator **Tasso Mendonça** · Recurso contra negativa de prorrogação de prazo de exigência sem AR → recurso provido por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 4.2 · relator **Tasso Mendonça** · Recurso contra negativa de prorrogação de prazo de exigência sem AR → recurso provido por unanimidade
   - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=5969s)
-- **RD 41ª Ordinária (2022-06-30)**, 4.3 · relator **Tasso Mendonça** · Recurso contra indeferimento de requerimento de pesquisa (interferência parcial; escolha de área remanescente) → recurso provido por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 4.3 · relator **Tasso Mendonça** · Recurso contra indeferimento de requerimento de pesquisa (interferência parcial; escolha de área remanescente) → recurso provido por unanimidade
   - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=6174s)
-- **RD 41ª Ordinária (2022-06-30)**, 4.7 · relator **Tasso Mendonça** · Recursos contra indeferimento de registros de licença (memorial explicativo ausente, ilegitimidade, intempestividade, licença vencida, área ainda em d → recursos negados ou não conhecidos, por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 4.7 · relator **Tasso Mendonça** · Recursos contra indeferimento de registros de licença (memorial explicativo ausente, ilegitimidade, intempestividade, licença vencida, área ainda em d → recursos negados ou não conhecidos, por unanimidade
   - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=6814s)
-- **RD 41ª Ordinária (2022-06-30)**, 4.8 · relator **Tasso Mendonça** · Recursos contra multas por não pagamento de TAH → recurso negado por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 4.8 · relator **Tasso Mendonça** · Recursos contra multas por não pagamento de TAH → recurso negado por unanimidade
   - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=7358s)
-- **RD 41ª Ordinária (2022-06-30)**, 4.10 · relator **Tasso Mendonça** · Recursos contra autos de infração de segurança de barragens (DCE não apresentada; extrato de inspeção; relatório de causas e consequências do rompimen → recurso negado por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 4.10 · relator **Tasso Mendonça** · Recursos contra autos de infração de segurança de barragens (DCE não apresentada; extrato de inspeção; relatório de causas e consequências do rompimen → recurso negado por unanimidade
   - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Roger: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=7889s)
-- **RD 41ª Ordinária (2022-06-30)**, 5.1 · relator **Roger Cabral** · Recurso intempestivo; despacho regional que concedeu de ofício prazo complementar de pesquisa tornado sem efeito; envio de cópia à CGU por indícios de → aprovado por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 5.1 · relator **Roger Cabral** · Recurso intempestivo; despacho regional que concedeu de ofício prazo complementar de pesquisa tornado sem efeito; envio de cópia à CGU por indícios de → aprovado por unanimidade
   - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=8442s)
-- **RD 41ª Ordinária (2022-06-30)**, 5.4 · relator **Roger Cabral** · Recurso intempestivo contra baixa de registro de licença → recurso não conhecido, por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 5.4 · relator **Roger Cabral** · Recurso intempestivo contra baixa de registro de licença → recurso não conhecido, por unanimidade
   - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=8984s)
-- **RD 41ª Ordinária (2022-06-30)**, 5.6 · relator **Roger Cabral** · Recurso contra indeferimento de registro de licença por interferência com área prioritária e bloqueio da Reserva Nacional de Cobre → recurso negado por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 5.6 · relator **Roger Cabral** · Recurso contra indeferimento de registro de licença por interferência com área prioritária e bloqueio da Reserva Nacional de Cobre → recurso negado por unanimidade
   - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=9198s)
-- **RD 41ª Ordinária (2022-06-30)**, 5.7 · relator **Roger Cabral** · Recursos contra indeferimento de requerimentos de pesquisa (dois em Terra Indígena Xikrin do Rio Cateté-PA; dois por interferência total em GO) → recurso negado por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 5.7 · relator **Roger Cabral** · Recursos contra indeferimento de requerimentos de pesquisa (dois em Terra Indígena Xikrin do Rio Cateté-PA; dois por interferência total em GO) → recurso negado por unanimidade
   - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=9351s)
-- **RD 41ª Ordinária (2022-06-30)**, 5.8 · relator **Roger Cabral** · Recursos contra não aprovação de relatórios finais de pesquisa (areia, argila industrial) → recurso negado por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 5.8 · relator **Roger Cabral** · Recursos contra não aprovação de relatórios finais de pesquisa (areia, argila industrial) → recurso negado por unanimidade
   - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=9957s)
 - **RD 42ª Reunião Ordinária Pública (2022-07-27)**, 4.5.1 · relator **Tasso Mendonça** · Recurso contra cobrança de CFEM (2008-2012; NFLDP 272/2015): consumo do minério pela controladora, preço de transferência abaixo do mercado, desconsid → recurso negado por unanimidade; cobrança mantida
   - votos: Tasso: relator; Victor: acompanha; Guilherme: acompanha; Ronaldo: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=qNoGxBv5WKY&t=403s)
@@ -1074,7 +1128,7 @@
   - votos: Roger: relator; Victor: acompanha; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=M-AvUArsvls&t=11374s)
 - **RD 45ª Reunião Ordinária Pública (2022-11-23)**, 5.4.2 · relator **Roger Cabral** · Recurso contra multa por não pagamento de TAH (minério de ferro; parcelamento cancelado) → recurso não conhecido (intempestivo) (unanimidade)
   - votos: Roger: relator; Victor: acompanha; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=M-AvUArsvls&t=11597s)
-- **RD 24 (extraordinária) (2022-11-29)**, 1.2 · relator **Victor Bicca** · Nulidade do alvará de pesquisa 10.455/2013 da Luz Mineração (ouro; Pará) por sobreposição ao processo prioritário 850825/2005 da Avanco; cumprimento d → pedido de vista (Guilherme Gomes)
+- **RD 24 (extraordinária) (2022-11-28)**, 1.2 · relator **Victor Bicca** · Nulidade do alvará de pesquisa 10.455/2013 da Luz Mineração (ouro; Pará) por sobreposição ao processo prioritário 850825/2005 da Avanco; cumprimento d → pedido de vista (Guilherme Gomes)
   - votos: Victor: relator; Guilherme: vista · [vídeo](https://www.youtube.com/watch?v=dSqoG-5ZkDo&t=3970s)
 - **RD 46 (2022-12-14)**, 2.4.1 · relator **Guilherme Gomes** · Voto-vista sobre caducidade/nulidade do alvará da Luz Mineração (relator originário Victor Bicca): proposta de conversão em diligência para reunir os  → retirado de pauta; voto-vista adiado para a reunião de 25/01/2023, com diligências a cargo
   - votos: Guilherme: outro; Tasso: outro; Roger: outro; Júlio: acompanha; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=cXfuSmk0BVs&t=480s)
@@ -1146,73 +1200,73 @@
   - votos: Júlio: relator; Guilherme: acompanha; Tasso: outro; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=OebsMtBiF7o&t=8549s)
 - **RD 48 (2023-02-22)**, 5.7 · relator **Júlio Rodrigues** · Recursos contra cobrança de CFEM → aprovado por unanimidade
   - votos: Júlio: relator; Guilherme: acompanha; Tasso: outro; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=OebsMtBiF7o&t=8910s)
-- **RD 49 (2023-03-28)**, 1.2 · relator **Mauro Sousa** · Recursos contra não aprovação de relatório final de pesquisa (RM Paraná), voto unificado → aprovado por unanimidade
+- **RD 49 (2023-03-27)**, 1.2 · relator **Mauro Sousa** · Recursos contra não aprovação de relatório final de pesquisa (RM Paraná), voto unificado → aprovado por unanimidade
   - votos: Mauro: relator; Guilherme: acompanha; Júlio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=1085s)
-- **RD 49 (2023-03-28)**, 1.3 · relator **Mauro Sousa** · Recursos em processos de cobrança de CFEM (alegações de decadência, prescrição, base de cálculo) → recursos conhecidos e não providos, por unanimidade
+- **RD 49 (2023-03-27)**, 1.3 · relator **Mauro Sousa** · Recursos em processos de cobrança de CFEM (alegações de decadência, prescrição, base de cálculo) → recursos conhecidos e não providos, por unanimidade
   - votos: Mauro: relator; Guilherme: acompanha; Júlio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=1234s)
-- **RD 49 (2023-03-28)**, 1.4 · relator **Mauro Sousa** · Recurso contra processo de cobrança de CFEM; comprovação parcial de pagamentos → provimento parcial, por unanimidade
+- **RD 49 (2023-03-27)**, 1.4 · relator **Mauro Sousa** · Recurso contra processo de cobrança de CFEM; comprovação parcial de pagamentos → provimento parcial, por unanimidade
   - votos: Mauro: relator; Guilherme: acompanha; Júlio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=1316s)
-- **RD 49 (2023-03-28)**, 2.2 · relator **Guilherme Gomes** · Recurso contra autos de infração por exploração de água mineral não autorizada (art. 31, I, Código de Águas Minerais) → recurso não provido, por unanimidade
+- **RD 49 (2023-03-27)**, 2.2 · relator **Guilherme Gomes** · Recurso contra autos de infração por exploração de água mineral não autorizada (art. 31, I, Código de Águas Minerais) → recurso não provido, por unanimidade
   - votos: Guilherme: relator; Roger: acompanha; Júlio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=1752s)
-- **RD 49 (2023-03-28)**, 2.3 · relator **Guilherme Gomes** · Recurso contra autos de infração por lavra sem autorização (art. 34, II c/c 67, Decreto 9.406/2018) → recurso não provido, por unanimidade
+- **RD 49 (2023-03-27)**, 2.3 · relator **Guilherme Gomes** · Recurso contra autos de infração por lavra sem autorização (art. 34, II c/c 67, Decreto 9.406/2018) → recurso não provido, por unanimidade
   - votos: Guilherme: relator; Roger: acompanha; Júlio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=1832s)
-- **RD 49 (2023-03-28)**, 4.2 · relator **Roger Cabral** · Pedido de reconsideração contra indeferimento de requerimento de pesquisa por interferência total (BA) → recurso conhecido e não provido, por unanimidade
+- **RD 49 (2023-03-27)**, 4.2 · relator **Roger Cabral** · Pedido de reconsideração contra indeferimento de requerimento de pesquisa por interferência total (BA) → recurso conhecido e não provido, por unanimidade
   - votos: Roger: relator; Mauro: acompanha; Júlio: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=2637s)
-- **RD 49 (2023-03-28)**, 4.3.1-4.3.3 · relator **Roger Cabral** · Recursos contra decisão em processo de disponibilidade (PR): inabilitação por falta de atestado de capacidade financeira → recursos não providos, por unanimidade
+- **RD 49 (2023-03-27)**, 4.3.1-4.3.3 · relator **Roger Cabral** · Recursos contra decisão em processo de disponibilidade (PR): inabilitação por falta de atestado de capacidade financeira → recursos não providos, por unanimidade
   - votos: Roger: relator; Mauro: acompanha; Júlio: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=2781s)
-- **RD 49 (2023-03-28)**, 4.3.4 · relator **Roger Cabral** · Recurso sobre RFP não aprovado e inclusão da área (ouro, Ibipitanga-BA) no edital de disponibilidade 26/2011 → recurso conhecido e não provido, por unanimidade; área excluída do edital 26/2011 e destin
+- **RD 49 (2023-03-27)**, 4.3.4 · relator **Roger Cabral** · Recurso sobre RFP não aprovado e inclusão da área (ouro, Ibipitanga-BA) no edital de disponibilidade 26/2011 → recurso conhecido e não provido, por unanimidade; área excluída do edital 26/2011 e destin
   - votos: Roger: relator; Mauro: acompanha; Júlio: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=3057s)
-- **RD 49 (2023-03-28)**, 4.3.5 · relator **Roger Cabral** · Recurso contra decisão em disponibilidade (MG); área com bloqueio provisório pela LT Ouro Preto–Vitória 2 → recurso não provido, por unanimidade
+- **RD 49 (2023-03-27)**, 4.3.5 · relator **Roger Cabral** · Recurso contra decisão em disponibilidade (MG); área com bloqueio provisório pela LT Ouro Preto–Vitória 2 → recurso não provido, por unanimidade
   - votos: Roger: relator; Mauro: acompanha; Júlio: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=3398s)
-- **RD 49 (2023-03-28)**, Júlio-4.1 · relator **Júlio Rodrigues** · Recurso contra multas por atraso no extrato de ISR e na DCE de barragem (Portaria DNPM 70.389/2017), MG → recurso não provido, por unanimidade
+- **RD 49 (2023-03-27)**, Júlio-4.1 · relator **Júlio Rodrigues** · Recurso contra multas por atraso no extrato de ISR e na DCE de barragem (Portaria DNPM 70.389/2017), MG → recurso não provido, por unanimidade
   - votos: Júlio: relator; Guilherme: acompanha; Mauro: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=3877s)
-- **RD 49 (2023-03-28)**, Júlio-4.2 · relator **Júlio Rodrigues** · Recursos contra multas por suspensão de lavra sem comunicação prévia (minério de ferro, MG) → recursos não providos, por unanimidade; tornado sem efeito arquivamento por vício no englo
+- **RD 49 (2023-03-27)**, Júlio-4.2 · relator **Júlio Rodrigues** · Recursos contra multas por suspensão de lavra sem comunicação prévia (minério de ferro, MG) → recursos não providos, por unanimidade; tornado sem efeito arquivamento por vício no englo
   - votos: Júlio: relator; Guilherme: acompanha; Mauro: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=3973s)
-- **RD 49 (2023-03-28)**, Júlio-4.2b · relator **Júlio Rodrigues** · Recurso intempestivo contra multas por não pagamento de TAH e não entrega de RFP (quartzo, MG) → não conhecido; declarada prescrição das multas; cobrança das TAH prossegue
+- **RD 49 (2023-03-27)**, Júlio-4.2b · relator **Júlio Rodrigues** · Recurso intempestivo contra multas por não pagamento de TAH e não entrega de RFP (quartzo, MG) → não conhecido; declarada prescrição das multas; cobrança das TAH prossegue
   - votos: Júlio: relator; Guilherme: acompanha; Mauro: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=4176s)
-- **RD 49 (2023-03-28)**, Júlio-4.2c · relator **Júlio Rodrigues** · Recursos contra multas por não entrega de RFP (PB) → recursos não providos, por unanimidade
+- **RD 49 (2023-03-27)**, Júlio-4.2c · relator **Júlio Rodrigues** · Recursos contra multas por não entrega de RFP (PB) → recursos não providos, por unanimidade
   - votos: Júlio: relator; Guilherme: acompanha; Mauro: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=4284s)
-- **RD 49 (2023-03-28)**, Júlio-4.2d · relator **Júlio Rodrigues** · Recursos intempestivos contra nulidade de alvarás de pesquisa por falta de pagamento de TAH (alegação de pandemia) → não conhecidos; nulidades mantidas, por unanimidade
+- **RD 49 (2023-03-27)**, Júlio-4.2d · relator **Júlio Rodrigues** · Recursos intempestivos contra nulidade de alvarás de pesquisa por falta de pagamento de TAH (alegação de pandemia) → não conhecidos; nulidades mantidas, por unanimidade
   - votos: Júlio: relator; Guilherme: acompanha; Mauro: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=4411s)
-- **RD 49 (2023-03-28)**, Júlio-4.3 · relator **Júlio Rodrigues** · Pedido de reconsideração de decisão do DG do DNPM (RFP de topázio não aprovado, MG); retirado da 48ª reunião → não conhecido, por unanimidade
+- **RD 49 (2023-03-27)**, Júlio-4.3 · relator **Júlio Rodrigues** · Pedido de reconsideração de decisão do DG do DNPM (RFP de topázio não aprovado, MG); retirado da 48ª reunião → não conhecido, por unanimidade
   - votos: Júlio: relator; Guilherme: acompanha; Mauro: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=4708s)
-- **RD 50 (2023-05-11)**, 1.3.1 · relator **Mauro Sousa** · Recurso contra processo de cobrança de CFEM (jan/1991–dez/2000); sustentação oral pedindo prescrição/decadência total → provimento parcial, por unanimidade
+- **RD 50 (2023-05-10)**, 1.3.1 · relator **Mauro Sousa** · Recurso contra processo de cobrança de CFEM (jan/1991–dez/2000); sustentação oral pedindo prescrição/decadência total → provimento parcial, por unanimidade
   - votos: Mauro: relator; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=917s)
-- **RD 50 (2023-05-11)**, 1.8.1 · relator **Mauro Sousa** · Recurso contra indeferimento de requerimento de lavra (RN) por pedido intempestivo de prorrogação de prazo para licença; sustentação oral (advogado Br → recurso provido, por unanimidade; processo volta à gerência regional do RN
+- **RD 50 (2023-05-10)**, 1.8.1 · relator **Mauro Sousa** · Recurso contra indeferimento de requerimento de lavra (RN) por pedido intempestivo de prorrogação de prazo para licença; sustentação oral (advogado Br → recurso provido, por unanimidade; processo volta à gerência regional do RN
   - votos: Mauro: relator; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=1745s)
-- **RD 50 (2023-05-11)**, 1.2.1-1.2.4 · relator **Mauro Sousa** · Recursos contra processos de cobrança de CFEM → recursos conhecidos e não providos, por unanimidade
+- **RD 50 (2023-05-10)**, 1.2.1-1.2.4 · relator **Mauro Sousa** · Recursos contra processos de cobrança de CFEM → recursos conhecidos e não providos, por unanimidade
   - votos: Mauro: relator; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=4360s)
-- **RD 50 (2023-05-11)**, 1.3.2 · relator **Mauro Sousa** · Recurso contra cobrança de CFEM com comprovação parcial de pagamentos → provimento parcial, por unanimidade
+- **RD 50 (2023-05-10)**, 1.3.2 · relator **Mauro Sousa** · Recurso contra cobrança de CFEM com comprovação parcial de pagamentos → provimento parcial, por unanimidade
   - votos: Mauro: relator; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=4492s)
-- **RD 50 (2023-05-11)**, 1.6.1 · relator **Mauro Sousa** · Recurso contra resultado de processo de disponibilidade → recurso não provido, com impedimento de Caio Seabra
+- **RD 50 (2023-05-10)**, 1.6.1 · relator **Mauro Sousa** · Recurso contra resultado de processo de disponibilidade → recurso não provido, com impedimento de Caio Seabra
   - votos: Mauro: relator; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: outro · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=4708s)
-- **RD 50 (2023-05-11)**, 1.7.1 · relator **Mauro Sousa** · Recurso contra não aprovação de relatório final de pesquisa (MG), após prorrogações sucessivas sem atender exigências → recurso não provido, por unanimidade
+- **RD 50 (2023-05-10)**, 1.7.1 · relator **Mauro Sousa** · Recurso contra não aprovação de relatório final de pesquisa (MG), após prorrogações sucessivas sem atender exigências → recurso não provido, por unanimidade
   - votos: Mauro: relator; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=4867s)
-- **RD 50 (2023-05-11)**, 1.9.1-1.9.2 · relator **Mauro Sousa** · Recursos contra indeferimento/ nulidade por não comprovação de recolhimento de emolumento (agendamento bancário não pago) → recursos não providos, por unanimidade
+- **RD 50 (2023-05-10)**, 1.9.1-1.9.2 · relator **Mauro Sousa** · Recursos contra indeferimento/ nulidade por não comprovação de recolhimento de emolumento (agendamento bancário não pago) → recursos não providos, por unanimidade
   - votos: Mauro: relator; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=5086s)
-- **RD 50 (2023-05-11)**, 2.3.1 · relator **Guilherme Gomes** · Recurso contra indeferimento de alvará de pesquisa complementar (argila); sustentação oral dispensada → aprovado por unanimidade
+- **RD 50 (2023-05-10)**, 2.3.1 · relator **Guilherme Gomes** · Recurso contra indeferimento de alvará de pesquisa complementar (argila); sustentação oral dispensada → aprovado por unanimidade
   - votos: Guilherme: relator; Mauro: acompanha; Roger: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=5511s)
-- **RD 50 (2023-05-11)**, 3.1.1 · relator **Tasso Mendonça** · Pedido de reconsideração contra baixa de registro de licença vencido sem pedido de prorrogação → aprovado por unanimidade
+- **RD 50 (2023-05-10)**, 3.1.1 · relator **Tasso Mendonça** · Pedido de reconsideração contra baixa de registro de licença vencido sem pedido de prorrogação → aprovado por unanimidade
   - votos: Tasso: relator; Mauro: acompanha; Roger: acompanha; Guilherme: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=5898s)
-- **RD 50 (2023-05-11)**, 3.3.1 · relator **Tasso Mendonça** · Recurso contra multa por não apresentação de relatório de pesquisa → aprovado por unanimidade
+- **RD 50 (2023-05-10)**, 3.3.1 · relator **Tasso Mendonça** · Recurso contra multa por não apresentação de relatório de pesquisa → aprovado por unanimidade
   - votos: Tasso: relator; Mauro: acompanha; Roger: acompanha; Guilherme: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=6494s)
-- **RD 50 (2023-05-11)**, 3.4.1-3.4.2 · relator **Tasso Mendonça** · Recursos contra multas por não comunicação do início dos trabalhos de pesquisa → aprovado por unanimidade
+- **RD 50 (2023-05-10)**, 3.4.1-3.4.2 · relator **Tasso Mendonça** · Recursos contra multas por não comunicação do início dos trabalhos de pesquisa → aprovado por unanimidade
   - votos: Tasso: relator; Mauro: acompanha; Roger: acompanha; Guilherme: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=6691s)
-- **RD 50 (2023-05-11)**, 3.5.1-3.5.2 · relator **Tasso Mendonça** · Recursos contra multas por não pagamento de TAH (alegações de pandemia e de novo marco regulatório) → aprovado por unanimidade
+- **RD 50 (2023-05-10)**, 3.5.1-3.5.2 · relator **Tasso Mendonça** · Recursos contra multas por não pagamento de TAH (alegações de pandemia e de novo marco regulatório) → aprovado por unanimidade
   - votos: Tasso: relator; Mauro: acompanha; Roger: acompanha; Guilherme: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=7157s)
-- **RD 50 (2023-05-11)**, 3.6.1 · relator **Tasso Mendonça** · Voto-vista sobre nulidade do alvará de pesquisa 10.455/2013 da Luz Mineração (direito de prioridade), após voto de Guilherme Gomes na 47ª reunião; man → aprovado por maioria: nulidade do alvará da Luz; vencido Guilherme Gomes
+- **RD 50 (2023-05-10)**, 3.6.1 · relator **Tasso Mendonça** · Voto-vista sobre nulidade do alvará de pesquisa 10.455/2013 da Luz Mineração (direito de prioridade), após voto de Guilherme Gomes na 47ª reunião; man → aprovado por maioria: nulidade do alvará da Luz; vencido Guilherme Gomes
   - votos: Tasso: revisor_acompanha; Guilherme: vencido; Mauro: revisor_acompanha; Roger: revisor_acompanha; Caio: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=7530s)
-- **RD 50 (2023-05-11)**, 4.1.1 · relator **Roger Cabral** · Recurso contra não aprovação de RFP → recurso não provido, por unanimidade
+- **RD 50 (2023-05-10)**, 4.1.1 · relator **Roger Cabral** · Recurso contra não aprovação de RFP → recurso não provido, por unanimidade
   - votos: Roger: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=12588s)
-- **RD 50 (2023-05-11)**, 4.1.2 · relator **Roger Cabral** · Recurso contra não aprovação de RFP → recurso não provido, por unanimidade
+- **RD 50 (2023-05-10)**, 4.1.2 · relator **Roger Cabral** · Recurso contra não aprovação de RFP → recurso não provido, por unanimidade
   - votos: Roger: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=12692s)
-- **RD 50 (2023-05-11)**, 4.1.3 · relator **Roger Cabral** · Recurso contra não aprovação de RFP → recurso não provido, por unanimidade
+- **RD 50 (2023-05-10)**, 4.1.3 · relator **Roger Cabral** · Recurso contra não aprovação de RFP → recurso não provido, por unanimidade
   - votos: Roger: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=12771s)
-- **RD 50 (2023-05-11)**, 4.2.2 · relator **Roger Cabral** · Recurso contra indeferimento de prorrogação de alvará de pesquisa (ouro, GO) → recurso não provido, por unanimidade
+- **RD 50 (2023-05-10)**, 4.2.2 · relator **Roger Cabral** · Recurso contra indeferimento de prorrogação de alvará de pesquisa (ouro, GO) → recurso não provido, por unanimidade
   - votos: Roger: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=12869s)
-- **RD 50 (2023-05-11)**, 4.3.1 · relator **Roger Cabral** · Recurso contra indeferimento de requerimento de pesquisa (AM) por não cumprimento de exigências → recurso não provido, por unanimidade
+- **RD 50 (2023-05-10)**, 4.3.1 · relator **Roger Cabral** · Recurso contra indeferimento de requerimento de pesquisa (AM) por não cumprimento de exigências → recurso não provido, por unanimidade
   - votos: Roger: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=13025s)
-- **RD 50 (2023-05-11)**, 4.4.6 · relator **Roger Cabral** · Recurso contra caducidade do direito de requerer lavra (RS) → recurso provido, por unanimidade
+- **RD 50 (2023-05-10)**, 4.4.6 · relator **Roger Cabral** · Recurso contra caducidade do direito de requerer lavra (RS) → recurso provido, por unanimidade
   - votos: Roger: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=KLQlh87VtiU&t=13147s)
 - **RD 51 (2023-07-07)**, 1.2.1-1.2.4 · relator **Mauro Sousa** · Recursos contra cobrança de CFEM → aprovado por unanimidade
   - votos: Mauro: relator; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=nqVyPAM43j0&t=6317s)
@@ -1448,118 +1502,118 @@
   - votos: Caio: relator; Guilherme: acompanha; Mauro: acompanha; Tasso: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=S2GK8_S3FH4&t=18949s)
 - **RD 53ª Reunião Ordinária Pública (2023-09-05)**, 5.3-5.9 · relator **Caio Seabra** · Mudança de regime para PLG (negado, área de 1.105 ha), mudanças de regime para licenciamento (providas por formalismo moderado), prorrogação/retificaç → aprovado por unanimidade
   - votos: Caio: relator; Guilherme: acompanha; Mauro: acompanha; Tasso: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=S2GK8_S3FH4&t=19249s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 1.9.1 · relator **Mauro Sousa** · Recurso contra inabilitação em disponibilidade para pesquisa (sustentação oral do advogado Bruno, pela Usiminas) → voto divergente (Guilherme Gomes) aprovado por maioria; relator vencido
-  - votos: Mauro: relator; Guilherme: outro; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=3097s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 1.10.1 · relator **Mauro Sousa** · Pedido de reconsideração contra indeferimento (21ª RE) de guia de utilização para caulim (substância não aprovada no RFP; fosfato aprovado); sustentaç → pedido de vista (proclamado como Caio Seabra; na fala aparece Guilherme Gomes)
-  - votos: Mauro: relator; Caio: vista; Guilherme: vista; Tasso: outro; Roger: outro · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=5610s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 2.7.2 · relator **Guilherme Gomes** · Recurso contra negativa de prorrogação de prazo para exigência (licença de instalação) em requerimento de lavra de areia de fundição em Analândia-SP ( → aprovado por unanimidade
-  - votos: Guilherme: relator; Tasso: outro; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=7900s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 4.8.1 · relator **Roger Cabral** · Recurso contra arquivamento definitivo (retificação de vértices de poligonal em leito de rio efêmero) → aprovado por unanimidade
-  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=8550s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 4.9.1 · relator **Roger Cabral** · Recurso contra indeferimento de mudança de regime de autorização de pesquisa para licenciamento (proclamado como PLG; corrigido) → aprovado por unanimidade
-  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=9100s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 5.7.1 · relator **Caio Seabra** · Recurso contra negativa de prorrogação de prazo para apresentar licença ambiental (requerimento de lavra de calcário, Paraíba) → pedido de vista (Mauro Sousa)
-  - votos: Caio: relator; Mauro: vista; Guilherme: outro; Tasso: outro; Roger: outro · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=9473s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 1.2.1 · relator **Mauro Sousa** · Recursos contra cobrança de CFEM → aprovado por unanimidade
-  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=10973s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 1.3.1 · relator **Mauro Sousa** · Recurso contra cobrança de CFEM → aprovado por unanimidade
-  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=11070s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 1.5.1 · relator **Mauro Sousa** · Recursos contra indeferimento de requerimentos de pesquisa por interferência total (1.5.1 e 1.5.2) → aprovado por unanimidade
-  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=11814s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 1.6.1 · relator **Mauro Sousa** · Reconsideração contra anulação de alvará e indeferimento de requerimento de pesquisa (RS) → aprovado por unanimidade
-  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=11919s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 1.7.1 · relator **Mauro Sousa** · Recurso contra multa por não apresentação de RFP (renúncia após 1/3 do prazo) → aprovado por unanimidade
-  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=12073s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 1.8.1 · relator **Mauro Sousa** · Recurso contra indeferimento de prorrogação de alvará de pesquisa por débito (MP 790/2017) → aprovado por unanimidade
-  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=12189s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 1.11.1 · relator **Tasso Mendonça** · Voto-vista de Mauro em recurso da GIM contra prioridade da Jacobina em disponibilidade (pontuação 22 x 19) → voto do relator original (Tasso) aprovado (proclamado por maioria)
-  - votos: Tasso: relator; Mauro: revisor_acompanha; Guilherme: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=12390s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 1.12.1 · relator **Tasso Mendonça** · Votos-vista sobre recurso contra indeferimento de prorrogação de registro de licença (licença municipal juntada após 30 dias, mas válida desde antes d → voto-vista de Guilherme Gomes aprovado por maioria
-  - votos: Mauro: revisor_acompanha; Guilherme: revisor_acompanha; Tasso: revisor_acompanha; Caio: revisor_acompanha; Roger: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=12835s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 1.13.1 · relator **Roger Cabral** · Voto-vista de Mauro sobre pedido de reconsideração contra decisão unânime (voto RC 308/2023) que negou renovação de PLG; Roger, relator, trouxe novo v → voto do relator (Roger, novo voto) aprovado por maioria (proclamação); Mauro anunciou que 
-  - votos: Mauro: revisor_diverge; Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=14231s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 2.3.1 · relator **Guilherme Gomes** · Recurso contra cobrança de CFEM (jan/1991–ago/2001, NFLD 20/2008) → aprovado por unanimidade
-  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=16534s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 2.7.1 · relator **Guilherme Gomes** · Recurso contra negativa de prorrogação de prazo e indeferimento de requerimento de lavra (Cristalina-GO) → aprovado por unanimidade
-  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=16626s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 2.9.2 · relator **Guilherme Gomes** · Recurso contra não aprovação de RFP por insuficiência de trabalhos → aprovado por unanimidade
-  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=16724s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 2.9.3 · relator **Guilherme Gomes** · Recurso contra não aprovação de RFP (argila, SC) → aprovado por unanimidade
-  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=16825s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 3.1.1 · relator **Tasso Mendonça** · Recurso contra cobrança de CFEM com arbitramento (venda de matacão bruto a empresa do mesmo grupo); itens 3.1.1 a 3.1.7 → pedido de vista (Mauro Sousa) de todos os itens 3.1 e 3.2
-  - votos: Tasso: relator; Guilherme: outro; Roger: outro; Caio: outro; Mauro: vista · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=17143s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 3.1.x · relator **Tasso Mendonça** · Recurso contra cobrança de CFEM (ago/2009–jul/2017) com base em RAL → pedido de vista (Mauro Sousa)
-  - votos: Tasso: relator; Guilherme: outro; Roger: outro; Caio: outro; Mauro: vista · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=17951s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 3.2.x · relator **Tasso Mendonça** · Voto (após vista anterior de Carlos Cordeiro) em recurso contra cobrança de CFEM de bauxita em Juruti-PA → pedido de vista (Mauro Sousa)
-  - votos: Tasso: acompanha; Guilherme: outro; Roger: outro; Caio: outro; Mauro: vista · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=18377s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 3.5.1 · relator **Tasso Mendonça** · Recurso contra indeferimento de mudança de regime de pesquisa para PLG (substância não comunicada previamente) → aprovado por unanimidade
-  - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=18779s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 3.6.1 · relator **Tasso Mendonça** · Recurso contra indeferimento de requerimento de pesquisa por interferência total (alegação de caducidade do processo prioritário por lei 7.886/1989) → pedido de vista (Guilherme Gomes)
-  - votos: Tasso: relator; Guilherme: vista; Roger: outro; Caio: outro; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=18963s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 3.7.1 · relator **Tasso Mendonça** · Recurso contra arquivamento definitivo (cessão parcial que dividiria poligonal em duas áreas) → aprovado por unanimidade
-  - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=19143s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 4.1.1 · relator **Roger Cabral** · Recurso contra indeferimento de requerimento de pesquisa por interferência total → aprovado por unanimidade
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 4.1.1 · relator **Roger Cabral** · Recurso contra indeferimento de requerimento de pesquisa por interferência total → aprovado por unanimidade
   - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=124s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 4.3.2 · relator **Roger Cabral** · Recurso contra indeferimento de prorrogação de registro de licença por licença municipal vencida em 2019 → aprovado por unanimidade
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 4.3.2 · relator **Roger Cabral** · Recurso contra indeferimento de prorrogação de registro de licença por licença municipal vencida em 2019 → aprovado por unanimidade
   - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=220s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 4.2.1 · relator **Roger Cabral** · Recurso intempestivo contra negativa de prorrogação de prazo para cumprimento de exigência → aprovado por unanimidade
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 4.2.1 · relator **Roger Cabral** · Recurso intempestivo contra negativa de prorrogação de prazo para cumprimento de exigência → aprovado por unanimidade
   - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=302s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 4.3.1 · relator **Roger Cabral** · Recurso contra indeferimento de prorrogação de registro de licença (só certidão de uso do solo, sem licença municipal) → aprovado por unanimidade
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 4.3.1 · relator **Roger Cabral** · Recurso contra indeferimento de prorrogação de registro de licença (só certidão de uso do solo, sem licença municipal) → aprovado por unanimidade
   - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=367s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 4.5.1 · relator **Roger Cabral** · Reconsideração contra indeferimento de plano de requerimento de pesquisa por falta de ART (não exigida em 1994) → aprovado por unanimidade
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 4.5.1 · relator **Roger Cabral** · Reconsideração contra indeferimento de plano de requerimento de pesquisa por falta de ART (não exigida em 1994) → aprovado por unanimidade
   - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=590s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 4.6.1 · relator **Roger Cabral** · Recurso em disponibilidade para lavra (edital 185/2007, dolomito e mármore, Vargem Alta, ES) → aprovado por unanimidade
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 4.6.1 · relator **Roger Cabral** · Recurso em disponibilidade para lavra (edital 185/2007, dolomito e mármore, Vargem Alta, ES) → aprovado por unanimidade
   - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=729s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 4.7.1 · relator **Roger Cabral** · Recurso contra indeferimento de concessão de lavra por descumprimento de exigência (licença de instalação), com inércia da administração entre 2000 e  → pedido de vista (Guilherme Gomes)
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 4.7.1 · relator **Roger Cabral** · Recurso contra indeferimento de concessão de lavra por descumprimento de exigência (licença de instalação), com inércia da administração entre 2000 e  → pedido de vista (Guilherme Gomes)
   - votos: Roger: relator; Guilherme: vista · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=960s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 4.10.1 · relator **Roger Cabral** · Reconsideração da Deliberação 45 (recursos da 6ª rodada de disponibilidade de áreas): retificação de erro material e de pontuação de regionalização → pedido de vista (Mauro Sousa)
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 4.10.1 · relator **Roger Cabral** · Reconsideração da Deliberação 45 (recursos da 6ª rodada de disponibilidade de áreas): retificação de erro material e de pontuação de regionalização → pedido de vista (Mauro Sousa)
   - votos: Roger: relator; Mauro: vista · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=1082s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 4.8.1 · relator **Roger Cabral** · Processo com sustentação oral lido na sessão de 11/10 (parte 1 da 54ª ROP); só proclamado hoje → aprovado por unanimidade
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 4.8.1 · relator **Roger Cabral** · Processo com sustentação oral lido na sessão de 11/10 (parte 1 da 54ª ROP); só proclamado hoje → aprovado por unanimidade
   - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=1490s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 4.9.1 · relator **Roger Cabral** · Processo com sustentação oral lido na sessão de 11/10; só proclamado hoje → aprovado por unanimidade
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 4.9.1 · relator **Roger Cabral** · Processo com sustentação oral lido na sessão de 11/10; só proclamado hoje → aprovado por unanimidade
   - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=1490s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.2.1 · relator **Caio Seabra** · Recurso contra indeferimento de registro de licença: nova licença municipal apresentada após os 30 dias, mas antes da decisão → aprovado por maioria (divergência do Diretor-Geral)
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 5.2.1 · relator **Caio Seabra** · Recurso contra indeferimento de registro de licença: nova licença municipal apresentada após os 30 dias, mas antes da decisão → aprovado por maioria (divergência do Diretor-Geral)
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=1608s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.2.3 · relator **Caio Seabra** · Recurso contra indeferimento de registro de licença: nova licença municipal apresentada após os 30 dias, mas antes da decisão → aprovado por unanimidade
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 5.2.3 · relator **Caio Seabra** · Recurso contra indeferimento de registro de licença: nova licença municipal apresentada após os 30 dias, mas antes da decisão → aprovado por unanimidade
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=1608s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.2.4 · relator **Caio Seabra** · Recurso contra indeferimento de registro de licença: nova licença municipal apresentada após os 30 dias, mas antes da decisão → aprovado por maioria (divergência do Diretor-Geral)
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 5.2.4 · relator **Caio Seabra** · Recurso contra indeferimento de registro de licença: nova licença municipal apresentada após os 30 dias, mas antes da decisão → aprovado por maioria (divergência do Diretor-Geral)
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=1608s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.2.5 · relator **Caio Seabra** · Recurso contra indeferimento de registro de licença: nova licença municipal apresentada após os 30 dias, mas antes da decisão → aprovado por maioria (divergência do Diretor-Geral)
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 5.2.5 · relator **Caio Seabra** · Recurso contra indeferimento de registro de licença: nova licença municipal apresentada após os 30 dias, mas antes da decisão → aprovado por maioria (divergência do Diretor-Geral)
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=1608s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.2.2 · relator **Caio Seabra** · Recurso contra indeferimento de registro de licença por falta de comprovação de licença ambiental (ofício não entregue por cadastro desatualizado; pro → aprovado por maioria (divergência do Diretor-Geral)
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 5.2.2 · relator **Caio Seabra** · Recurso contra indeferimento de registro de licença por falta de comprovação de licença ambiental (ofício não entregue por cadastro desatualizado; pro → aprovado por maioria (divergência do Diretor-Geral)
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=1694s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.2.6 · relator **Caio Seabra** · Recurso contra indeferimento de registro de licença: prefeitura de Encruzilhada do Sul não emitiu licença municipal (requerimento na vigência da MP 79 → aprovado por maioria (divergência do Diretor-Geral)
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 5.2.6 · relator **Caio Seabra** · Recurso contra indeferimento de registro de licença: prefeitura de Encruzilhada do Sul não emitiu licença municipal (requerimento na vigência da MP 79 → aprovado por maioria (divergência do Diretor-Geral)
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=1839s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.2.7 · relator **Caio Seabra** · Recurso contra indeferimento de registro de licença por erro material na autorização do superficiário, corrigido antes da publicação → aprovado por maioria (divergência do Diretor-Geral)
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 5.2.7 · relator **Caio Seabra** · Recurso contra indeferimento de registro de licença por erro material na autorização do superficiário, corrigido antes da publicação → aprovado por maioria (divergência do Diretor-Geral)
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=2099s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.3.1 · relator **Caio Seabra** · Recurso contra indeferimento de prorrogação de registro de licença: prefeitura emitiu licença municipal após o prazo → aprovado por maioria (divergência do Diretor-Geral)
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 5.3.1 · relator **Caio Seabra** · Recurso contra indeferimento de prorrogação de registro de licença: prefeitura emitiu licença municipal após o prazo → aprovado por maioria (divergência do Diretor-Geral)
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=2198s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.4.1 · relator **Caio Seabra** · Pedido de reconsideração contra indeferimento de mudança de regime de pesquisa para licenciamento (licença municipal emitida pela prefeitura após o in → pedido de vista (Mauro Sousa)
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 5.4.1 · relator **Caio Seabra** · Pedido de reconsideração contra indeferimento de mudança de regime de pesquisa para licenciamento (licença municipal emitida pela prefeitura após o in → pedido de vista (Mauro Sousa)
   - votos: Caio: relator; Mauro: vista · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=2420s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.5.1 · relator **Caio Seabra** · Recurso contra indeferimento de PLG por exigência não atendida; protocolo da licença ambiental antes da publicação da decisão → aprovado por maioria (divergência do Diretor-Geral)
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 5.5.1 · relator **Caio Seabra** · Recurso contra indeferimento de PLG por exigência não atendida; protocolo da licença ambiental antes da publicação da decisão → aprovado por maioria (divergência do Diretor-Geral)
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=2563s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.5.2 · relator **Caio Seabra** · Recurso contra indeferimento de PLG; data do AR desconhecida, cumprimento antes da decisão → aprovado por maioria (divergência do Diretor-Geral)
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 5.5.2 · relator **Caio Seabra** · Recurso contra indeferimento de PLG; data do AR desconhecida, cumprimento antes da decisão → aprovado por maioria (divergência do Diretor-Geral)
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=2713s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.6.1 · relator **Caio Seabra** · Recurso contra não aprovação de relatório final de pesquisa por insuficiência dos trabalhos → aprovado por unanimidade
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 5.6.1 · relator **Caio Seabra** · Recurso contra não aprovação de relatório final de pesquisa por insuficiência dos trabalhos → aprovado por unanimidade
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=2800s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.6.2 · relator **Caio Seabra** · Recurso contra não aprovação de relatório final de pesquisa por insuficiência dos trabalhos → aprovado por unanimidade
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 5.6.2 · relator **Caio Seabra** · Recurso contra não aprovação de relatório final de pesquisa por insuficiência dos trabalhos → aprovado por unanimidade
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=2800s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.6.3 · relator **Caio Seabra** · Recurso contra não aprovação de relatório final de pesquisa por insuficiência dos trabalhos → aprovado por unanimidade
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 5.6.3 · relator **Caio Seabra** · Recurso contra não aprovação de relatório final de pesquisa por insuficiência dos trabalhos → aprovado por unanimidade
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=2800s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.7.1 · relator **Caio Seabra** · Processo com sustentação oral (parte 1); pedido de vista do DG → pedido de vista (Mauro Sousa)
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 5.7.1 · relator **Caio Seabra** · Processo com sustentação oral (parte 1); pedido de vista do DG → pedido de vista (Mauro Sousa)
   - votos: Caio: relator; Mauro: vista · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=2860s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.8.1 · relator **Caio Seabra** · Recurso contra indeferimento de prorrogação do direito de requerer a lavra (pedido de 2009 sem justificativa) → aprovado por unanimidade
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 5.8.1 · relator **Caio Seabra** · Recurso contra indeferimento de prorrogação do direito de requerer a lavra (pedido de 2009 sem justificativa) → aprovado por unanimidade
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=2874s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.9.1 · relator **Caio Seabra** · Recurso contra resultado de disponibilidade (edital de 2008, resultado de 2012, MG) → pedido de vista (Mauro Sousa)
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 5.9.1 · relator **Caio Seabra** · Recurso contra resultado de disponibilidade (edital de 2008, resultado de 2012, MG) → pedido de vista (Mauro Sousa)
   - votos: Caio: relator; Mauro: vista · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=2957s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.10.1 · relator **Caio Seabra** · Recurso contra não conhecimento de habilitação em disponibilidade (envelope com número de edital errado) → aprovado por unanimidade
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 1.9.1 · relator **Mauro Sousa** · Recurso contra inabilitação em disponibilidade para pesquisa (sustentação oral do advogado Bruno, pela Usiminas) → voto divergente (Guilherme Gomes) aprovado por maioria; relator vencido
+  - votos: Mauro: relator; Guilherme: outro; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=3097s)
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 5.10.1 · relator **Caio Seabra** · Recurso contra não conhecimento de habilitação em disponibilidade (envelope com número de edital errado) → aprovado por unanimidade
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=3162s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.14.1 · relator **Caio Seabra** · Recurso contra multa por não iniciar/reiniciar lavra no prazo (reincidência) → aprovado por unanimidade
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 5.14.1 · relator **Caio Seabra** · Recurso contra multa por não iniciar/reiniciar lavra no prazo (reincidência) → aprovado por unanimidade
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=3673s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.14.2 · relator **Caio Seabra** · Recurso contra multa por não iniciar/reiniciar lavra no prazo (reincidência) → aprovado por unanimidade
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 5.14.2 · relator **Caio Seabra** · Recurso contra multa por não iniciar/reiniciar lavra no prazo (reincidência) → aprovado por unanimidade
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=3673s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.15.1 · relator **Caio Seabra** · Reconsideração contra cobrança de CFEM (prescrição intercorrente) → aprovado por unanimidade
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 5.15.1 · relator **Caio Seabra** · Reconsideração contra cobrança de CFEM (prescrição intercorrente) → aprovado por unanimidade
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=3730s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 1.10.1 · relator **Mauro Sousa** · Pedido de reconsideração contra indeferimento (21ª RE) de guia de utilização para caulim (substância não aprovada no RFP; fosfato aprovado); sustentaç → pedido de vista (proclamado como Caio Seabra; na fala aparece Guilherme Gomes)
+  - votos: Mauro: relator; Caio: vista; Guilherme: vista; Tasso: outro; Roger: outro · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=5610s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 2.7.2 · relator **Guilherme Gomes** · Recurso contra negativa de prorrogação de prazo para exigência (licença de instalação) em requerimento de lavra de areia de fundição em Analândia-SP ( → aprovado por unanimidade
+  - votos: Guilherme: relator; Tasso: outro; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=7900s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 4.8.1 · relator **Roger Cabral** · Recurso contra arquivamento definitivo (retificação de vértices de poligonal em leito de rio efêmero) → aprovado por unanimidade
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=8550s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 4.9.1 · relator **Roger Cabral** · Recurso contra indeferimento de mudança de regime de autorização de pesquisa para licenciamento (proclamado como PLG; corrigido) → aprovado por unanimidade
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=9100s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 5.7.1 · relator **Caio Seabra** · Recurso contra negativa de prorrogação de prazo para apresentar licença ambiental (requerimento de lavra de calcário, Paraíba) → pedido de vista (Mauro Sousa)
+  - votos: Caio: relator; Mauro: vista; Guilherme: outro; Tasso: outro; Roger: outro · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=9473s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 1.2.1 · relator **Mauro Sousa** · Recursos contra cobrança de CFEM → aprovado por unanimidade
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=10973s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 1.3.1 · relator **Mauro Sousa** · Recurso contra cobrança de CFEM → aprovado por unanimidade
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=11070s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 1.5.1 · relator **Mauro Sousa** · Recursos contra indeferimento de requerimentos de pesquisa por interferência total (1.5.1 e 1.5.2) → aprovado por unanimidade
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=11814s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 1.6.1 · relator **Mauro Sousa** · Reconsideração contra anulação de alvará e indeferimento de requerimento de pesquisa (RS) → aprovado por unanimidade
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=11919s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 1.7.1 · relator **Mauro Sousa** · Recurso contra multa por não apresentação de RFP (renúncia após 1/3 do prazo) → aprovado por unanimidade
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=12073s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 1.8.1 · relator **Mauro Sousa** · Recurso contra indeferimento de prorrogação de alvará de pesquisa por débito (MP 790/2017) → aprovado por unanimidade
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=12189s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 1.11.1 · relator **Tasso Mendonça** · Voto-vista de Mauro em recurso da GIM contra prioridade da Jacobina em disponibilidade (pontuação 22 x 19) → voto do relator original (Tasso) aprovado (proclamado por maioria)
+  - votos: Tasso: relator; Mauro: revisor_acompanha; Guilherme: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=12390s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 1.12.1 · relator **Tasso Mendonça** · Votos-vista sobre recurso contra indeferimento de prorrogação de registro de licença (licença municipal juntada após 30 dias, mas válida desde antes d → voto-vista de Guilherme Gomes aprovado por maioria
+  - votos: Mauro: revisor_acompanha; Guilherme: revisor_acompanha; Tasso: revisor_acompanha; Caio: revisor_acompanha; Roger: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=12835s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 1.13.1 · relator **Roger Cabral** · Voto-vista de Mauro sobre pedido de reconsideração contra decisão unânime (voto RC 308/2023) que negou renovação de PLG; Roger, relator, trouxe novo v → voto do relator (Roger, novo voto) aprovado por maioria (proclamação); Mauro anunciou que 
+  - votos: Mauro: revisor_diverge; Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=14231s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 2.3.1 · relator **Guilherme Gomes** · Recurso contra cobrança de CFEM (jan/1991–ago/2001, NFLD 20/2008) → aprovado por unanimidade
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=16534s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 2.7.1 · relator **Guilherme Gomes** · Recurso contra negativa de prorrogação de prazo e indeferimento de requerimento de lavra (Cristalina-GO) → aprovado por unanimidade
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=16626s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 2.9.2 · relator **Guilherme Gomes** · Recurso contra não aprovação de RFP por insuficiência de trabalhos → aprovado por unanimidade
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=16724s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 2.9.3 · relator **Guilherme Gomes** · Recurso contra não aprovação de RFP (argila, SC) → aprovado por unanimidade
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=16825s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 3.1.1 · relator **Tasso Mendonça** · Recurso contra cobrança de CFEM com arbitramento (venda de matacão bruto a empresa do mesmo grupo); itens 3.1.1 a 3.1.7 → pedido de vista (Mauro Sousa) de todos os itens 3.1 e 3.2
+  - votos: Tasso: relator; Guilherme: outro; Roger: outro; Caio: outro; Mauro: vista · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=17143s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 3.1.x · relator **Tasso Mendonça** · Recurso contra cobrança de CFEM (ago/2009–jul/2017) com base em RAL → pedido de vista (Mauro Sousa)
+  - votos: Tasso: relator; Guilherme: outro; Roger: outro; Caio: outro; Mauro: vista · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=17951s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 3.2.x · relator **Tasso Mendonça** · Voto (após vista anterior de Carlos Cordeiro) em recurso contra cobrança de CFEM de bauxita em Juruti-PA → pedido de vista (Mauro Sousa)
+  - votos: Tasso: acompanha; Guilherme: outro; Roger: outro; Caio: outro; Mauro: vista · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=18377s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 3.5.1 · relator **Tasso Mendonça** · Recurso contra indeferimento de mudança de regime de pesquisa para PLG (substância não comunicada previamente) → aprovado por unanimidade
+  - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=18779s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 3.6.1 · relator **Tasso Mendonça** · Recurso contra indeferimento de requerimento de pesquisa por interferência total (alegação de caducidade do processo prioritário por lei 7.886/1989) → pedido de vista (Guilherme Gomes)
+  - votos: Tasso: relator; Guilherme: vista; Roger: outro; Caio: outro; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=18963s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 3.7.1 · relator **Tasso Mendonça** · Recurso contra arquivamento definitivo (cessão parcial que dividiria poligonal em duas áreas) → aprovado por unanimidade
+  - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=19143s)
 - **RD 55ª Reunião Ordinária Pública (2023-10-31)**, 2.3.1 · relator **Guilherme Gomes** · Recurso contra indeferimento de requerimento de licenciamento por cumprimento de exigência (readequação do plano de lavra) um dia após o prazo; susten → aprovado por maioria (voto contrário do Diretor-Geral)
   - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=JhJ9GBR6aWE&t=904s)
 - **RD 55ª Reunião Ordinária Pública (2023-10-31)**, 2.7.1 · relator **Guilherme Gomes** · Recurso contra não aprovação de relatório final de pesquisa de diamante (Diamantina, MG) baseado em dados bibliográficos; sustentação oral de Rodrigo  → pedido de vista (Tasso Mendonça)
@@ -2190,148 +2244,384 @@
   - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=_IeZwId2D0w&t=20431s)
 - **RD 64 (2024-07-31)**, 5.10.1 · relator **Caio Seabra** · Pedido de reconsideração de decisão da Diretoria sobre nulidade de alvará de pesquisa por não pagamento de TAH → aprovado por maioria, vencido o Diretor-Geral
   - votos: Mauro: vencido; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=_IeZwId2D0w&t=20941s)
-- **RD 65 (2024-08-26)**, 3.4.2 · relator **Tasso Mendonça** · Reconsideração contra decisão da Diretoria (requerimento de pesquisa em Foz do Iguaçu) → retirado de pauta pelo relator para consulta à Procuradoria Federal
-  - votos: Mauro: outro; Tasso: outro; Guilherme: outro; Roger: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=2198s)
-- **RD 65 (2024-08-26)**, 3.8.1 · relator **Guilherme Gomes** · Voto-vista sobre recurso contra decisão que não conheceu do relatório final de pesquisa (tempestividade pela data de postagem com AR, item 6 da Portar → aprovado por maioria o voto do relator original Guilherme Gomes; Tasso Mendonça vencido
-  - votos: Mauro: acompanha; Tasso: vencido; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=2258s)
-- **RD 65 (2024-08-26)**, 1.1.1 · relator **Mauro Sousa** · Recurso contra multa por não pagamento de TAH → aprovado por unanimidade (recurso não provido)
-  - votos: Mauro: relator; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=3325s)
-- **RD 65 (2024-08-26)**, 1.2.1-1.2.2 · relator **Mauro Sousa** · Recursos contra multas de fiscalização de barragem (Res. ANM 13/2019; medidas de segurança não implementadas no prazo) → aprovado por unanimidade (recurso não provido)
-  - votos: Mauro: relator; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=3446s)
-- **RD 65 (2024-08-26)**, 1.3.1 · relator **Mauro Sousa** · Recurso contra caducidade do direito de requerer a lavra (água mineral) → aprovado por unanimidade (recurso não provido)
-  - votos: Mauro: relator; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=3507s)
-- **RD 65 (2024-08-26)**, 1.4.1 · relator **Mauro Sousa** · Recurso contra indeferimento de prorrogação de prazo para exigência de licenciamento ambiental (pedido intempestivo) → aprovado por unanimidade (recurso não provido)
-  - votos: Mauro: relator; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=3629s)
-- **RD 65 (2024-08-26)**, 1.5.1 · relator **Mauro Sousa** · Recurso contra indeferimento de registro de licença por licença municipal vencida em 2018 → aprovado por unanimidade (recurso não provido)
-  - votos: Mauro: relator; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=3750s)
-- **RD 65 (2024-08-26)**, 1.6.1 · relator **Caio Seabra** · Voto-vista sobre recurso contra indeferimento de requerimento de pesquisa (minério de ferro) sobreposto ao Parque Nacional da Serra do Gandarela/MG → aprovado por unanimidade o voto-vista, com adesão do relator original
-  - votos: Mauro: revisor_acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=4056s)
-- **RD 65 (2024-08-26)**, 1.7.1 · relator **Caio Seabra** · Voto-vista sobre recurso contra auto de paralisação por pedido de renovação de guia de utilização considerado intempestivo (Paraná) → aprovado por unanimidade o voto do relator original (provimento)
-  - votos: Mauro: revisor_acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=5095s)
-- **RD 65 (2024-08-26)**, 1.8.1 · relator **Mauro Sousa** · Pedido de reconsideração contra nulidade do alvará de pesquisa (minério de ferro/diamante citado, Pará); competência do MME (art. 68 do Código) → deliberação sobrestada por pedido de vista do diretor Guilherme Gomes
-  - votos: Mauro: relator; Tasso: outro; Guilherme: vista; Roger: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=5682s)
-- **RD 65 (2024-08-26)**, 2.1.2-2.1.4 · relator **Guilherme Gomes** · Recursos contra multas e nulidade de alvarás de pesquisa por não pagamento de TAH (parcelamento alegado) → aprovado por unanimidade (não providos/intempestivos)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=6725s)
-- **RD 65 (2024-08-26)**, 2.3.4-2.3.22 · relator **Guilherme Gomes** · Recursos contra multas por não pagamento de TAH (alegação de falta de intimação) → aprovados por unanimidade (multas mantidas)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7029s)
-- **RD 65 (2024-08-26)**, 2.4.1 · relator **Mauro Sousa** · Voto-vista sobre recurso contra nulidade de registro de licença: anulação quase 7 anos após publicação; efeitos da MP 790/2017 (dispensou licença muni → deliberação sobrestada por pedido de vista do diretor Tasso Mendonça
-  - votos: Mauro: relator; Tasso: vista; Guilherme: revisor_acompanha; Roger: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7338s)
-- **RD 65 (2024-08-26)**, 2.5.1 · relator **Guilherme Gomes** · Item da relatoria de Guilherme Gomes (assunto não identificado) → aprovado por unanimidade
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7800s)
-- **RD 65 (2024-08-26)**, 2.7.1-2.7.2 · relator **Guilherme Gomes** · Recursos contra notificações administrativas de TAH (processo 832.645/1995) → aprovado por unanimidade (não conhecidos, intempestivos)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=8257s)
-- **RD 65 (2024-08-26)**, 3.3.1-3.3.2 · relator **Tasso Mendonça** · Recurso contra multas por não comunicação imediata de nova substância (argila) e item sobre responsabilidade técnica de engenheiro civil em lavra de b → aprovados por unanimidade
-  - votos: Mauro: acompanha; Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=10341s)
-- **RD 65 (2024-08-26)**, 3.10.1 · relator **Tasso Mendonça** · Recurso contra negativa de aditamento da substância caulim à permissão de lavra garimpeira (pegmatitos, Paraíba) → aprovado por unanimidade (provido; autoriza aditamento do caulim)
-  - votos: Mauro: acompanha; Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=10951s)
-- **RD 65 (2024-08-26)**, 4.1.1-4.1.3 · relator **Roger Cabral** · Pedidos de reconsideração contra indeferimento de requerimentos de pesquisa por interferência total → aprovados por unanimidade (não providos)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=11690s)
-- **RD 65 (2024-08-26)**, 4.2.1 · relator **Roger Cabral** · Recurso contra indeferimento de requerimento de lavra por não comprovar protocolo de licenciamento ambiental (art. 31 §3º do Decreto 9.406) → aprovado por unanimidade (não provido)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=12051s)
-- **RD 65 (2024-08-26)**, 4.3.1-4.3.2 · relator **Roger Cabral** · Pedidos de reconsideração contra nulidade ex officio de alvarás de pesquisa por não pagamento de TAH (intempestivos) → aprovados por unanimidade (não conhecidos)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=12172s)
-- **RD 65 (2024-08-26)**, 4.4.1-4.4.2 · relator **Roger Cabral** · Recursos contra multas por não pagamento de TAH → aprovados por unanimidade (multas mantidas)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=12728s)
-- **RD 65 (2024-08-26)**, 4.6.1 · relator **Roger Cabral** · Recurso contra cobrança de CFEM (base de cálculo contestada sem documentação) → aprovado por unanimidade (não provido; exclusão do Cadin indevido)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=13093s)
-- **RD 65 (2024-08-26)**, 4.8.1-4.8.2 · relator **Roger Cabral** · Embargos de declaração contra o voto RC 114/2022 (não aprovação de relatório final de pesquisa com erro na redução de área) → aprovados por unanimidade (relator reconsidera o próprio voto por erro material)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=13274s)
-- **RD 65 (2024-08-26)**, 5.x-demais · relator **Caio Seabra** · Demais itens de Caio Seabra: bloqueio provisório e disponibilidade, nulidade de alvará por interferência, interferência total, registro de licença (No → aprovados por unanimidade (5.9.2 retirado de pauta)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=14805s)
-- **RD 66 (2024-10-07)**, 2.4.7-2.4.9 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento de taxa anual por hectare no prazo (alegação de boleto indisponível no site na pandemia); sustenta → aprovado por unanimidade (recurso conhecido e não provido)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=1247s)
-- **RD 66 (2024-10-07)**, 2.8.1 · relator **Guilherme Gomes** · Recurso contra indeferimento da renovação de permissão de lavra garimpeira por falta de nova anuência do titular da concessão de lavra sobreposta (our → deliberação sobrestada por pedido de vista do Diretor-Geral Mauro Sousa
-  - votos: Mauro: vista; Tasso: outro; Guilherme: relator; Roger: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=1868s)
-- **RD 66 (2024-10-07)**, 3.3.2 · relator **Tasso Mendonça** · Embargos de declaração contra decisão da 62ª ROP que manteve indeferimento de requerimento de pesquisa (basalto e argila, Foz do Iguaçu) por falta de  → retirado de pauta pelo relator após sustentação, para retorno na próxima sessão
-  - votos: Mauro: outro; Tasso: outro; Guilherme: outro; Roger: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=3268s)
-- **RD 66 (2024-10-07)**, 3.4.1 · relator **Tasso Mendonça** · Recurso contra indeferimento de requerimento de lavra de areia (São Pedro do Paraná/PR) por atraso de dias na comprovação semestral de diligência no l → aprovado por unanimidade (recurso provido)
-  - votos: Mauro: acompanha; Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=4201s)
-- **RD 66 (2024-10-07)**, 5.8.1 · relator **Caio Seabra** · Recurso contra indeferimento de requerimento de licenciamento (areia e cascalho, Sergipe) por apresentação intempestiva da licença ambiental (ADEMA) n → aprovado por unanimidade (não conhece, mas anula de ofício o indeferimento)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=5249s)
-- **RD 66 (2024-10-07)**, 1.1.1-1.1.5 · relator **Mauro Sousa** · Recursos contra o resultado da fase de leilão da 8ª Rodada de Disponibilidade de Áreas → aprovado por unanimidade (recursos não providos)
-  - votos: Mauro: relator; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=5810s)
-- **RD 66 (2024-10-07)**, 1.2.1-1.2.2 · relator **Mauro Sousa** · Recursos contra indeferimento de mudança de regime para licenciamento e arquivamento de processos derivados → deliberação sobrestada por pedido de vista do diretor Caio Seabra
-  - votos: Mauro: relator; Tasso: outro; Guilherme: acompanha; Roger: acompanha; Caio: vista · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=5932s)
-- **RD 66 (2024-10-07)**, 1.3.1 · relator **Mauro Sousa** · Recurso contra indeferimento de requerimento de registro de licença (licença municipal vencida desde 2019) → aprovado por unanimidade (recurso não provido)
-  - votos: Mauro: relator; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=6055s)
-- **RD 66 (2024-10-07)**, 1.3.2 · relator **Mauro Sousa** · Recurso contra indeferimento de registro de licença por interferência total com processo prioritário → deliberação sobrestada por pedido de vista do diretor Caio Seabra
-  - votos: Mauro: relator; Tasso: outro; Guilherme: acompanha; Roger: acompanha; Caio: vista · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=6055s)
-- **RD 66 (2024-10-07)**, 1.4.1-1.4.2 · relator **Caio Seabra** · Voto-vista sobre proposta de caducidade do direito de requerer a lavra (granito); cessão de direitos não anuída por falta de ciência do ofício de exig → aprovado por unanimidade o voto-vista do Diretor-Geral, com adesão do relator original
-  - votos: Mauro: revisor_acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=6304s)
-- **RD 66 (2024-10-07)**, 1.5.1 · relator **Guilherme Gomes** · Voto-vista sobre recurso contra 31 autos de infração (multas) por descumprimento de obrigações de segurança de barragens (SIGBM) → aprovado por unanimidade o voto-vista, com adesão do relator original
-  - votos: Mauro: revisor_diverge; Tasso: acompanha; Guilherme: revisor_acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=7222s)
-- **RD 66 (2024-10-07)**, 1.6.1 · relator **Caio Seabra** · Voto-vista sobre recurso contra indeferimento de mudança de regime para licenciamento (areia, Pernambuco) por licença municipal vencida → aprovado por maioria o voto do relator original (provimento); Mauro Sousa vencido
-  - votos: Mauro: vencido; Tasso: outro; Guilherme: outro; Roger: outro; Caio: relator · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=7717s)
-- **RD 66 (2024-10-07)**, 1.7.1 · relator **Roger Cabral** · Voto-vista sobre recurso contra indeferimento de requerimento de pesquisa (minério de ferro, Belo Vale/Congonhas/MG) por interferência total; manifest → deliberação sobrestada por pedido de vista do diretor Caio Seabra
-  - votos: Mauro: revisor_diverge; Tasso: revisor_acompanha; Guilherme: outro; Roger: relator; Caio: vista · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=8751s)
-- **RD 66 (2024-10-07)**, 2.7.1 · relator **Mauro Sousa** · Voto-vista sobre pedido de reconsideração contra nulidade do alvará de pesquisa (minério de ferro, Pará); disputa de prioridade com processos 850.825/ → deliberação sobrestada por pedido de vista do diretor Tasso Mendonça
-  - votos: Mauro: revisor_acompanha; Tasso: vista; Guilherme: revisor_diverge; Roger: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=16041s)
-- **RD 66 (2024-10-07)**, 2.9.1 · relator **Guilherme Gomes** · Recurso contra arquivamento definitivo de processo → retirado de pauta pelo relator
-  - votos: Mauro: outro; Tasso: outro; Guilherme: outro; Roger: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=20807s)
-- **RD 66 (2024-10-07)**, 2.14.1 · relator **Guilherme Gomes** · Recurso contra negativa de aprovação de relatório final de pesquisa → retirado de pauta pelo relator
-  - votos: Mauro: outro; Tasso: outro; Guilherme: outro; Roger: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=20807s)
-- **RD 66 (2024-10-07)**, 2.1.1 · relator **Guilherme Gomes** · Recurso contra o resultado da 8ª Rodada de Disponibilidade — área 247: alega lance registrado; declaração de proposta vazia → aprovado por unanimidade
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=20992s)
-- **RD 66 (2024-10-07)**, 2.1.2 · relator **Guilherme Gomes** · Recurso contra o resultado da 8ª Rodada de Disponibilidade — área 1405: proposta não finalizada (aberta/inválida) → aprovado por unanimidade
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=21052s)
-- **RD 66 (2024-10-07)**, 2.1.3 · relator **Guilherme Gomes** · Recurso contra resultado da 8ª Rodada (área 1582): alega erro de digitação no lance (zero a mais; R$ 10,35 milhões em vez de cerca de R$ 1,035 milhão) → aprovado por maioria (provimento, retificação do lance); vencido o Diretor-Geral Mauro Sou
-  - votos: Mauro: vencido; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=21174s)
-- **RD 66 (2024-10-07)**, 2.1.4 · relator **Guilherme Gomes** · Recurso contra o resultado da 8ª Rodada de Disponibilidade — área 2192: alega cancelamento da proposta → aprovado por unanimidade
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=21415s)
-- **RD 66 (2024-10-07)**, 2.1.5 · relator **Guilherme Gomes** · Recurso contra o resultado da 8ª Rodada de Disponibilidade — área 3511: pede sobrestamento por ação judicial contra indeferimento de lavra → aprovado por unanimidade
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=21536s)
-- **RD 66 (2024-10-07)**, 2.2.1 · relator **Guilherme Gomes** · Recurso contra auto de paralisação por lavra fora da poligonal com dragas (Mato Grosso) → aprovado por unanimidade (não provido)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=21659s)
-- **RD 66 (2024-10-07)**, 2.3.1 · relator **Guilherme Gomes** · Recurso contra cancelamento de guia de utilização 69/2022 após operação conjunta ANM/Polícia Federal que constatou lavra fora da área (Minas Gerais) → aprovado por unanimidade (não provido)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=21786s)
-- **RD 66 (2024-10-07)**, 2.4.1-2.4.17 · relator **Guilherme Gomes** · Recursos contra multas por não pagamento de TAH; o 2.4.14 é multa de segurança de barragem (sirenes automatizadas, barragem Gregório, Mineração Corumb → aprovados por unanimidade (multas mantidas)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22036s)
-- **RD 66 (2024-10-07)**, 2.5.1 · relator **Guilherme Gomes** · Pedido de reconsideração contra nulidade ex officio de alvará de pesquisa por não pagamento de TAH → aprovado por unanimidade (não conhecido, intempestivo)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22648s)
-- **RD 66 (2024-10-07)**, 2.5.2 · relator **Guilherme Gomes** · Recurso contra nulidade de alvará de pesquisa (granito) por não pagamento da TAH do 3º ano, declarada após entrega do relatório final → aprovado por unanimidade (não conhece; mantém taxa e multa; anula de ofício a nulidade do 
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22830s)
-- **RD 66 (2024-10-07)**, 2.6.1-2.6.2 · relator **Guilherme Gomes** · Recursos contra nulidade de alvarás de pesquisa por não pagamento de TAH → aprovados por unanimidade (2.6.1 não provido; 2.6.2 não conhecido)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=23658s)
-- **RD 66 (2024-10-07)**, 2.10.1 · relator **Guilherme Gomes** · Recurso contra negativa de aprovação de relatório final de pesquisa sem métodos diretos (dados bibliográficos) → aprovado por unanimidade (não provido)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=23964s)
-- **RD 66 (2024-10-07)**, 2.11.1 · relator **Guilherme Gomes** · Recursos contra indeferimento de requerimento de pesquisa por interferência total e contra inabilitação em edital de disponibilidade (Ceará) → aprovado por unanimidade (não providos)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=24266s)
-- **RD 66 (2024-10-07)**, 2.12.1 · relator **Guilherme Gomes** · Recurso contra caducidade do direito de requerer a lavra (alega falta de intimação por AR da aprovação do RFP) → aprovado por unanimidade (não conhecido, intempestivo)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: relator; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=24450s)
-- **RD 66 (2024-10-07)**, 3.3.1 · relator **Tasso Mendonça** · Novo recurso contra caducidade do direito de requerer a lavra (decisão da 36ª ROP, voto da diretora Aline Chaves) → aprovado por unanimidade
-  - votos: Mauro: acompanha; Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=27271s)
-- **RD 66 (2024-10-07)**, 3.3.3 · relator **Tasso Mendonça** · Novo recurso contra decisão que negou prorrogação de prazo para cumprimento de exigência (licenciamento ambiental) → aprovado por unanimidade
-  - votos: Mauro: acompanha; Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=27576s)
-- **RD 66 (2024-10-07)**, 3.3.4 · relator **Tasso Mendonça** · Segundo recurso contra caducidade do direito de requerer a lavra (alega ciência só por DOU) → aprovado por unanimidade
-  - votos: Mauro: acompanha; Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=27946s)
-- **RD 66 (2024-10-07)**, 3.5.1 · relator **Tasso Mendonça** · Recurso contra caducidade do direito de requerer a lavra (Rio Grande do Sul) → aprovado por unanimidade
-  - votos: Mauro: acompanha; Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=28436s)
-- **RD 66 (2024-10-07)**, 3.7.1-3.7.2 · relator **Tasso Mendonça** · Recursos contra negativa de prorrogação de prazo para cumprimento de exigência de licença ambiental (Goiás) → aprovado por unanimidade
-  - votos: Mauro: acompanha; Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=28557s)
-- **RD 66 (2024-10-07)**, 4.2.1 · relator **Roger Cabral** · Pedido de reconsideração contra indeferimento de requerimento de pesquisa por não cumprimento de exigência no prazo → aprovado por unanimidade (não provido)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=29624s)
-- **RD 66 (2024-10-07)**, 4.2.2 · relator **Roger Cabral** · Item retirado de pauta pelo relator → retirado de pauta
-  - votos: Mauro: outro; Tasso: outro; Guilherme: outro; Roger: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=29746s)
-- **RD 66 (2024-10-07)**, 4.3.1-4.3.6 · relator **Roger Cabral** · Recursos contra o resultado da 8ª Rodada de Disponibilidade (vista de processos, instabilidade do sistema, empresa vencedora de outro ramo, proteção d → aprovados por unanimidade (não providos)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=29746s)
-- **RD 66 (2024-10-07)**, 4.5.1-4.5.2 · relator **Roger Cabral** · Recursos contra negativa de aprovação de relatório final de pesquisa por cumprimento intempestivo de exigência → aprovados por unanimidade
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=30724s)
-- **RD 66 (2024-10-07)**, 4.6.1 · relator **Roger Cabral** · Recurso de terceiro (Serra do Jatobá) contra o voto RC 339/2023 que anulara indeferimento de requerimento de pesquisa (Pará) → aprovado por unanimidade (relator revisa seu próprio voto)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=31210s)
-- **RD 66 (2024-10-07)**, 5.1.1-5.1.4 · relator **Mauro Sousa** · Voto-vista sobre embargos de declaração contra decisão (voto MS 251/2024) que manteve baixa na transcrição de registros de licença → aprovado por maioria o voto-vista de Caio; vencido o Diretor-Geral
-  - votos: Mauro: vencido; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=31696s)
-- **RD 66 (2024-10-07)**, 5.2.1-5.2.2 · relator **Caio Seabra** · Recursos contra resultado da 8ª Rodada; 5.2.1: alegado zero a mais no lance (R$ 37,5 mi em vez de R$ 3,75 mi; segundo lance R$ 890 mil) → aprovados por maioria; vencido o Diretor-Geral
-  - votos: Mauro: vencido; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=31818s)
-- **RD 66 (2024-10-07)**, 5.x-demais · relator **Caio Seabra** · Demais itens da relatoria de Caio Seabra: recursos da 8ª Rodada, não aprovação de RFP, prorrogação de alvará, GU de areia/argila (75 mil t areia, 45 m → aprovados por unanimidade (5.3.2 retirado de pauta)
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=32364s)
-- **RD 66 (2024-10-07)**, 5.3.3 · relator **Caio Seabra** · Recurso contra não aprovação de relatório final de pesquisa → aprovado por maioria; vencido o Diretor-Geral
-  - votos: Mauro: vencido; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=32545s)
-- **RD 66 (2024-10-07)**, 5.5.1 · relator **Caio Seabra** · Item da relatoria de Caio Seabra (assunto não identificado na legenda) → deliberação sobrestada por pedido de vista do Diretor-Geral Mauro Sousa
-  - votos: Mauro: vista; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33000s)
-- **RD 66 (2024-10-07)**, 5.7.1-5.7.3 · relator **Caio Seabra** · Recursos contra indeferimento de prorrogação de registro de licença (São Paulo) → aprovados por maioria; vencido o Diretor-Geral
-  - votos: Mauro: vencido; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33395s)
-- **RD 66 (2024-10-07)**, 5.8.2 · relator **Caio Seabra** · Pedido de reconsideração contra indeferimento de registro de licença por não cumprimento de exigência sem AR → aprovado por maioria; vencido o Diretor-Geral
-  - votos: Mauro: vencido; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33581s)
+- **RD 65 (2024-08-26)**, 3.8.1 · relator **Guilherme Gomes** · Voto-vista: recurso hierárquico de José Lino contra decisão do DG do DNPM (2015) que reformou o não conhecimento do relatório final de pesquisa (RFP)  → aprovado por maioria o voto do relator original (Guilherme Gomes), 3 x 2; vencidos Tasso M
+  - votos: Guilherme: relator; Tasso: revisor_diverge; Roger: acompanha; Caio: acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=2280s)
+- **RD 65 (2024-08-26)**, 1.1.1 · relator **Mauro Sousa** · Recurso contra multa por não pagamento da taxa anual por hectare (TAH) → aprovado por unanimidade — recurso desprovido
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=3361s)
+- **RD 65 (2024-08-26)**, 1.2.1 · relator **Mauro Sousa** · Recurso contra multa aplicada em fiscalização de barragem: não implantação de sistema automatizado de alerta sonoro (Res. ANM 13/2019) → aprovado por unanimidade — multa mantida
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=3449s)
+- **RD 65 (2024-08-26)**, 1.2.2 · relator **Mauro Sousa** · Recurso contra multa aplicada em fiscalização de barragem: não implantação de sistema automatizado de alerta sonoro (Res. ANM 13/2019) → aprovado por unanimidade — multa mantida
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=3449s)
+- **RD 65 (2024-08-26)**, 1.3.1 · relator **Mauro Sousa** · Recurso contra caducidade do direito de requerer a lavra (água mineral) → aprovado por unanimidade — caducidade mantida
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=3549s)
+- **RD 65 (2024-08-26)**, 1.4.1 · relator **Mauro Sousa** · Recurso contra indeferimento de prorrogação de prazo para cumprir exigência (licença ambiental para outorga de lavra) → aprovado por unanimidade — recurso desprovido, com retorno à gerência regional
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=3637s)
+- **RD 65 (2024-08-26)**, 1.5.1 · relator **Mauro Sousa** · Recurso contra indeferimento do requerimento de registro de licença por não apresentação de nova licença municipal → aprovado por unanimidade — indeferimento mantido
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=3773s)
+- **RD 65 (2024-08-26)**, 1.6.1 · relator **Caio Seabra** · Voto-vista: recurso contra indeferimento de requerimento de pesquisa por interferência total com o Parque Nacional da Serra do Gandarela; decisão judi → aprovado por unanimidade o voto do revisor (Mauro Sousa), com adesão do relator original
+  - votos: Mauro: revisor_acompanha; Guilherme: acompanha; Roger: acompanha; Caio: relator; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=4086s)
+- **RD 65 (2024-08-26)**, 1.7.1 · relator **Caio Seabra** · Voto-vista: recurso contra auto de paralisação (pedido de renovação de guia de utilização considerado intempestivo em 2012) → aprovado por unanimidade o voto do relator original (Caio Seabra), acompanhado pelo reviso
+  - votos: Mauro: revisor_acompanha; Guilherme: acompanha; Roger: acompanha; Tasso: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=5145s)
+- **RD 65 (2024-08-26)**, 1.8.1 · relator **Mauro Sousa** · Pedido de reconsideração contra decisão da Diretoria (4ª/45ª ROP, 2023) que declarou nulo o alvará de pesquisa 10.455/2013 → deliberação sobrestada — pedido de vista de Guilherme Gomes
+  - votos: Mauro: relator; Guilherme: vista · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=5671s)
+- **RD 65 (2024-08-26)**, 2.1.2 · relator **Guilherme Gomes** · Recurso contra declaração de nulidade ex officio de alvará de pesquisa por não pagamento de TAH → aprovado por unanimidade — recurso não conhecido
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=6752s)
+- **RD 65 (2024-08-26)**, 2.1.3 · relator **Guilherme Gomes** · Recurso contra declaração de nulidade ex officio de alvará de pesquisa por não pagamento de TAH → aprovado por unanimidade — recurso não conhecido
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=6752s)
+- **RD 65 (2024-08-26)**, 2.1.4 · relator **Guilherme Gomes** · Recurso contra declaração de nulidade ex officio de alvará de pesquisa por não pagamento de TAH → aprovado por unanimidade — recurso não conhecido
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=6752s)
+- **RD 65 (2024-08-26)**, 2.3.4 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento de TAH (autos 9187 e 9188/2020) → aprovado por unanimidade — multa mantida
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=6895s)
+- **RD 65 (2024-08-26)**, 2.3.5 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento de TAH (autos 9187 e 9188/2020) → aprovado por unanimidade — multa mantida
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=6895s)
+- **RD 65 (2024-08-26)**, 2.3.9 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento de TAH; alegação de falta de intimação do auto de infração → aprovado por unanimidade — multa mantida
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7046s)
+- **RD 65 (2024-08-26)**, 2.3.10 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento de TAH; alegação de falta de intimação do auto de infração → aprovado por unanimidade — multa mantida
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7046s)
+- **RD 65 (2024-08-26)**, 2.3.11 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento de TAH; alegação de falta de intimação do auto de infração → aprovado por unanimidade — multa mantida
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7046s)
+- **RD 65 (2024-08-26)**, 2.3.12 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento de TAH; alegação de falta de intimação do auto de infração → aprovado por unanimidade — multa mantida
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7046s)
+- **RD 65 (2024-08-26)**, 2.3.13 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento de TAH; alegação de falta de intimação do auto de infração → aprovado por unanimidade — multa mantida
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7046s)
+- **RD 65 (2024-08-26)**, 2.3.14 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento de TAH; alegação de falta de intimação do auto de infração → aprovado por unanimidade — multa mantida
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7046s)
+- **RD 65 (2024-08-26)**, 2.3.15 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento de TAH; alegação de falta de intimação do auto de infração → aprovado por unanimidade — multa mantida
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7046s)
+- **RD 65 (2024-08-26)**, 2.3.20 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento tempestivo de TAH (alegação: pandemia de covid-19) → aprovado por unanimidade — multa mantida
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7229s)
+- **RD 65 (2024-08-26)**, 2.3.21 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento tempestivo de TAH (alegação: pandemia de covid-19) → aprovado por unanimidade — multa mantida
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7229s)
+- **RD 65 (2024-08-26)**, 2.3.22 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento tempestivo de TAH (alegação: pandemia de covid-19) → aprovado por unanimidade — multa mantida
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7229s)
+- **RD 65 (2024-08-26)**, 2.4.1 · relator **Guilherme Gomes** · Voto-vista: recurso contra nulidade do registro de licença e pedido de prorrogação (efeitos da MP 790/2017) → deliberação sobrestada — pedido de vista de Tasso Mendonça
+  - votos: Guilherme: revisor_diverge; Tasso: vista; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7361s)
+- **RD 65 (2024-08-26)**, 2.5.1 · relator **Guilherme Gomes** · Recurso contra indeferimento liminar de requerimento de registro de licença de areia em área de 0,04 ha (MG) → aprovado por unanimidade — indeferimento mantido
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=7765s)
+- **RD 65 (2024-08-26)**, 2.7.1 · relator **Guilherme Gomes** · Recurso contra notificações administrativas de cobrança de TAH (proc. minerário 832.645/1995) → aprovado por unanimidade — recurso não conhecido
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=8197s)
+- **RD 65 (2024-08-26)**, 2.7.2 · relator **Guilherme Gomes** · Recurso contra notificações administrativas de cobrança de TAH (proc. minerário 832.645/1995) → aprovado por unanimidade — recurso não conhecido
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=8197s)
+- **RD 65 (2024-08-26)**, 3.3.1 · relator **Tasso Mendonça** · Recurso contra multa por não comunicar prontamente a ocorrência de argila (alvará de turfa, Uberaba/Uberlândia, MG) → aprovado por unanimidade — multa cancelada
+  - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=10349s)
+- **RD 65 (2024-08-26)**, 3.3.2 · relator **Tasso Mendonça** · Pedido de reconsideração/revisão do voto 14/2020 (que cancelara multa por lavra sem profissional habilitado), provocado pela Associação Brasileira de  → aprovado por unanimidade — revisto o voto 14/2020; multa restabelecida
+  - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=10703s)
+- **RD 65 (2024-08-26)**, 3.10.1 · relator **Tasso Mendonça** · Recurso contra negativa de aditamento da substância caulim à permissão de lavra garimpeira de feldspato → aprovado por unanimidade — aditamento autorizado
+  - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=10977s)
+- **RD 65 (2024-08-26)**, 4.1.1 · relator **Roger Cabral** · Pedido de reconsideração contra indeferimento de requerimento de pesquisa por interferência total → aprovado por unanimidade — recurso desprovido
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=11721s)
+- **RD 65 (2024-08-26)**, 4.1.2 · relator **Roger Cabral** · Pedido de reconsideração contra indeferimento de requerimento de pesquisa por interferência total → aprovado por unanimidade — recurso desprovido
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=11830s)
+- **RD 65 (2024-08-26)**, 4.1.3 · relator **Roger Cabral** · Pedido de reconsideração contra indeferimento de requerimento de pesquisa por interferência total → aprovado por unanimidade — recurso desprovido
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=11921s)
+- **RD 65 (2024-08-26)**, 4.2.1 · relator **Roger Cabral** · Recurso contra indeferimento de requerimento de lavra por não cumprimento de exigência (protocolo de licenciamento ambiental) → aprovado por unanimidade — indeferimento mantido
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=12102s)
+- **RD 65 (2024-08-26)**, 4.3.1 · relator **Roger Cabral** · Pedido de reconsideração contra nulidade ex officio de alvará de pesquisa por não pagamento de TAH → aprovado por unanimidade — não conhecido
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=12222s)
+- **RD 65 (2024-08-26)**, 4.3.2 · relator **Roger Cabral** · Pedido de reconsideração contra nulidade ex officio de alvará de pesquisa por não pagamento de TAH → aprovado por unanimidade — não conhecido
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=12412s)
+- **RD 65 (2024-08-26)**, 4.4.1 · relator **Roger Cabral** · Recurso contra multa por não pagamento de TAH (auto 5941/2021) → aprovado por unanimidade — multa mantida
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=12697s)
+- **RD 65 (2024-08-26)**, 4.4.2 · relator **Roger Cabral** · Recurso contra multa por pagamento intempestivo de TAH (auto 6296/2021) → aprovado por unanimidade — multa mantida
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=12844s)
+- **RD 65 (2024-08-26)**, 4.6.1 · relator **Roger Cabral** · Recurso contra cobrança de CFEM (jan/2010–dez/2015) → aprovado por unanimidade — cobrança mantida, com exclusão do Cadin
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=13112s)
+- **RD 65 (2024-08-26)**, 4.8.1 · relator **Roger Cabral** · Pedido de revisão (embargos de declaração) contra o voto RC 114/2022, que manteve a não aprovação do relatório final de pesquisa → aprovado por unanimidade — relator reconsidera o próprio voto e anula a não aprovação do R
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=13264s)
+- **RD 65 (2024-08-26)**, 4.8.2 · relator **Roger Cabral** · Pedido de revisão (embargos de declaração) contra o voto RC 114/2022, que manteve a não aprovação do relatório final de pesquisa → aprovado por unanimidade — relator reconsidera o próprio voto e anula a não aprovação do R
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=13264s)
+- **RD 65 (2024-08-26)**, 5.4.1 · relator **Caio Seabra** · Recurso contra instauração de procedimento de nulidade de alvará de pesquisa emitido sobre área com prioridade de registro de licença (licença municip → aprovado por unanimidade — nulidade declarada
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=15046s)
+- **RD 65 (2024-08-26)**, 5.5.1 · relator **Caio Seabra** · Pedido de reconsideração contra indeferimento de requerimento de pesquisa por interferência total com áreas prioritárias → aprovado por unanimidade — recurso desprovido
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=15257s)
+- **RD 65 (2024-08-26)**, 5.5.2 · relator **Caio Seabra** · Pedido de reconsideração contra indeferimento de requerimento de pesquisa por interferência total com áreas prioritárias → aprovado por unanimidade — recurso desprovido
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=15257s)
+- **RD 65 (2024-08-26)**, 5.5.3 · relator **Caio Seabra** · Pedido de reconsideração contra indeferimento de requerimento de pesquisa por interferência total (prioritários 831.511, 830.738 e 831.553) → aprovado por unanimidade — recurso desprovido
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=15327s)
+- **RD 65 (2024-08-26)**, 5.5.4 · relator **Caio Seabra** · Pedido de reconsideração contra indeferimento de requerimento de pesquisa por cumprimento intempestivo de exigência → aprovado por unanimidade — recurso provido
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=15366s)
+- **RD 65 (2024-08-26)**, 5.6.1 · relator **Caio Seabra** · Recurso contra indeferimento da prorrogação de registro de licença por não apresentação de nova licença municipal em 30 dias → aprovado por unanimidade — recurso provido
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=15444s)
+- **RD 65 (2024-08-26)**, 5.7.1 · relator **Caio Seabra** · Pedido de reconsideração contra arquivamento de requerimento de PLG por mudança de regime (justificativa técnica citava columbita e mica não comunicad → aprovado por unanimidade — recurso provido
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=15780s)
+- **RD 65 (2024-08-26)**, 5.8.1 · relator **Caio Seabra** · Recurso contra caducidade do direito de requerer a lavra; exigências do ofício 334/2017 sem prova de ciência do titular → deliberação sobrestada — pedido de vista de Mauro Sousa
+  - votos: Caio: relator; Mauro: vista · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=16050s)
+- **RD 65 (2024-08-26)**, 5.8.2 · relator **Caio Seabra** · Recurso contra caducidade do direito de requerer a lavra; exigências do ofício 334/2017 sem prova de ciência do titular → deliberação sobrestada — pedido de vista de Mauro Sousa
+  - votos: Caio: relator; Mauro: vista · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=16050s)
+- **RD 65 (2024-08-26)**, 5.8.3 · relator **Caio Seabra** · Recurso contra caducidade do direito de requerer a lavra (requerimento postal protocolado um dia após o prazo) → aprovado por unanimidade — caducidade mantida
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=16116s)
+- **RD 65 (2024-08-26)**, 5.9.1 · relator **Caio Seabra** · Recurso contra não aprovação de relatório final de pesquisa (areia e argila para construção civil) → aprovado por unanimidade — não conhecido
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=16179s)
+- **RD 65 (2024-08-26)**, 5.10.1 · relator **Caio Seabra** · Pedido de reconsideração de decisão da Diretoria (49ª ROP) que manteve a não aprovação de relatório final de pesquisa (topázio — grafia incerta) → aprovado por unanimidade — pedido indeferido
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=16299s)
+- **RD 65 (2024-08-26)**, 5.10.2 · relator **Caio Seabra** · Pedidos de reconsideração contra decisão da 61ª ROP que manteve a caducidade do direito de requerer lavra → aprovado por unanimidade — pedidos indeferidos
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=16408s)
+- **RD 65 (2024-08-26)**, 5.10.3 · relator **Caio Seabra** · Pedidos de reconsideração contra decisão da 61ª ROP que manteve a caducidade do direito de requerer lavra → aprovado por unanimidade — pedidos indeferidos
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=16408s)
+- **RD 65 (2024-08-26)**, 5.10.4 · relator **Caio Seabra** · Pedidos de reconsideração contra decisão da 61ª ROP que manteve a caducidade do direito de requerer lavra → aprovado por unanimidade — pedidos indeferidos
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=16408s)
+- **RD 65 (2024-08-26)**, 5.11.1 · relator **Caio Seabra** · Pedido de reconsideração contra nulidade ex officio de autorização de pesquisa por não pagamento de TAH → aprovado por unanimidade — recurso desprovido
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=16642s)
+- **RD 65 (2024-08-26)**, 5.11.5 · relator **Caio Seabra** · Pedido de reconsideração contra nulidade ex officio de autorização de pesquisa por não pagamento de TAH → aprovado por unanimidade — recurso desprovido
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=16642s)
+- **RD 65 (2024-08-26)**, 5.11.6 · relator **Caio Seabra** · Pedido de reconsideração contra nulidade ex officio de autorização de pesquisa por não pagamento de TAH → aprovado por unanimidade — não conhecido
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=16724s)
+- **RD 65 (2024-08-26)**, 5.11.2 · relator **Caio Seabra** · Pedido de reconsideração contra nulidade ex officio de autorização de pesquisa por não pagamento de TAH antes da imposição de multa → aprovado por unanimidade — recurso provido
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=16796s)
+- **RD 65 (2024-08-26)**, 5.11.4 · relator **Caio Seabra** · Pedido de reconsideração contra nulidade ex officio de autorização de pesquisa por não pagamento de TAH antes da imposição de multa → aprovado por unanimidade — recurso provido
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=16796s)
+- **RD 65 (2024-08-26)**, 5.11.3 · relator **Caio Seabra** · Recurso contra nulidade de alvará emitido equivocadamente sobre área com interferência total (pauta classificou como nulidade por TAH) → aprovado por unanimidade — recurso desprovido
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=16938s)
+- **RD 65 (2024-08-26)**, 5.12.1 · relator **Caio Seabra** · Pedido de reconsideração contra indeferimento de requerimento de licenciamento (registro de licença) sem oneração → aprovado por unanimidade — indeferimento mantido
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=17016s)
+- **RD 65 (2024-08-26)**, 5.13.1 · relator **Caio Seabra** · Recurso contra indeferimento de pedido de pesquisa complementar após aprovação do relatório final (requerimento de lavra pendente desde 1989) → aprovado por unanimidade (resultado e id proclamados como «5.3.1» — legenda/numeração ince
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=17177s)
+- **RD 66 (2024-10-07)**, 2.4.7 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento no prazo da taxa anual por hectare (TAH) do alvará de pesquisa 5373 (vencimento 29/01/2021, paga e → aprovado por unanimidade (recurso conhecido e não provido; multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=1242s)
+- **RD 66 (2024-10-07)**, 2.4.8 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento no prazo da taxa anual por hectare (TAH) do alvará de pesquisa 5373 (vencimento 29/01/2021, paga e → aprovado por unanimidade (recurso conhecido e não provido; multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=1242s)
+- **RD 66 (2024-10-07)**, 2.4.9 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento no prazo da taxa anual por hectare (TAH) do alvará de pesquisa 5373 (vencimento 29/01/2021, paga e → aprovado por unanimidade (recurso conhecido e não provido; multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=1242s)
+- **RD 66 (2024-10-07)**, 2.8.1 · relator **Guilherme Gomes** · Recurso contra indeferimento da renovação da permissão de lavra garimpeira 9/2015 (Goiás) por falta de nova anuência da atual titular da concessão de  → deliberação sobrestada por pedido de vista do Diretor-Geral Mauro Sousa
+  - votos: Guilherme: relator; Mauro: vista · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=1868s)
+- **RD 66 (2024-10-07)**, 3.3.2 · relator **Tasso Mendonça** · Embargos de declaração contra decisão da Diretoria (voto TM 1394/2024, 62ª ROP) que manteve indeferimento de requerimento de pesquisa de basalto e arg → retirado de pauta pelo relator após a sustentação, para retorno na próxima sessão
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=3281s)
+- **RD 66 (2024-10-07)**, 3.4.1 · relator **Tasso Mendonça** · Recurso contra indeferimento de requerimento de lavra de areia em São Pedro do Paraná-PR por não comprovar a cada seis meses as medidas para obter o l → aprovado por unanimidade (recurso provido)
+  - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=4207s)
+- **RD 66 (2024-10-07)**, 5.8.1 · relator **Caio Seabra** · Recurso contra indeferimento de requerimento de licenciamento com oneração de área por apresentação intempestiva da licença ambiental (ADEMA-SE) → aprovado por unanimidade (não conhece do recurso, mas anula de ofício o indeferimento)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=5257s)
+- **RD 66 (2024-10-07)**, 1.1.1 · relator **Mauro Sousa** · Recurso contra o resultado da fase de leilão da 8ª Rodada de Disponibilidade de Áreas (Edital 1/2024) → aprovado por unanimidade (recurso não provido)
+  - votos: Mauro: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=5805s)
+- **RD 66 (2024-10-07)**, 1.1.2 · relator **Mauro Sousa** · Recurso contra o resultado da fase de leilão da 8ª Rodada de Disponibilidade de Áreas (Edital 1/2024) → aprovado por unanimidade (recurso não provido)
+  - votos: Mauro: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=5805s)
+- **RD 66 (2024-10-07)**, 1.1.3 · relator **Mauro Sousa** · Recurso contra o resultado da fase de leilão da 8ª Rodada de Disponibilidade de Áreas (Edital 1/2024) → aprovado por unanimidade (recurso não provido)
+  - votos: Mauro: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=5805s)
+- **RD 66 (2024-10-07)**, 1.1.4 · relator **Mauro Sousa** · Recurso contra o resultado da fase de leilão da 8ª Rodada de Disponibilidade de Áreas (Edital 1/2024) → aprovado por unanimidade (recurso não provido)
+  - votos: Mauro: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=5805s)
+- **RD 66 (2024-10-07)**, 1.1.5 · relator **Mauro Sousa** · Recurso contra o resultado da fase de leilão da 8ª Rodada de Disponibilidade de Áreas (Edital 1/2024) → aprovado por unanimidade (recurso não provido)
+  - votos: Mauro: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=5805s)
+- **RD 66 (2024-10-07)**, 1.2.1 · relator **Mauro Sousa** · Recurso contra indeferimento de mudança de regime (autorização de pesquisa para licenciamento) e arquivamento dos processos derivados (licença municip → deliberação sobrestada por pedido de vista do diretor Caio Seabra
+  - votos: Mauro: relator; Guilherme: acompanha; Roger: acompanha; Caio: vista; Tasso: outro · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=5945s)
+- **RD 66 (2024-10-07)**, 1.2.2 · relator **Mauro Sousa** · Recurso contra indeferimento de mudança de regime (autorização de pesquisa para licenciamento) e arquivamento dos processos derivados (licença municip → deliberação sobrestada por pedido de vista do diretor Caio Seabra
+  - votos: Mauro: relator; Guilherme: acompanha; Roger: acompanha; Caio: vista; Tasso: outro · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=5945s)
+- **RD 66 (2024-10-07)**, 1.3.1 · relator **Mauro Sousa** · Recurso contra indeferimento de requerimento de registro de licença (licença municipal vencida desde 2019, não substituída — arts. 165 e 167 da Consol → aprovado por unanimidade (recurso não provido)
+  - votos: Mauro: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=6055s)
+- **RD 66 (2024-10-07)**, 1.3.2 · relator **Mauro Sousa** · Recurso contra indeferimento de requerimento de registro de licença por interferência total com processo prioritário que aguarda disponibilidade → deliberação sobrestada por pedido de vista do diretor Caio Seabra
+  - votos: Mauro: relator; Guilherme: acompanha; Roger: acompanha; Caio: vista; Tasso: outro · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=6055s)
+- **RD 66 (2024-10-07)**, 1.4.1 · relator **Caio Seabra** · Voto-vista do Diretor-Geral: proposta de caducidade do direito de requerer a lavra (ofício de exigência 334/2017 sobre a cessão de direitos sem prova  → aprovado por unanimidade o voto-vista do Diretor-Geral, com adesão do relator original
+  - votos: Mauro: revisor_acompanha; Caio: revisor_acompanha; Guilherme: acompanha; Roger: acompanha; Tasso: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=6350s)
+- **RD 66 (2024-10-07)**, 1.4.2 · relator **Caio Seabra** · Voto-vista do Diretor-Geral: proposta de caducidade do direito de requerer a lavra (ofício de exigência 334/2017 sobre a cessão de direitos sem prova  → aprovado por unanimidade o voto-vista do Diretor-Geral, com adesão do relator original
+  - votos: Mauro: revisor_acompanha; Caio: revisor_acompanha; Guilherme: acompanha; Roger: acompanha; Tasso: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=6350s)
+- **RD 66 (2024-10-07)**, 1.5.1 · relator **Guilherme Gomes** · Voto-vista: recurso contra 31 multas (autos de infração 281 a 306 e 341 a 344/2018) por descumprimento de obrigações de segurança de barragens (preenc → aprovado por unanimidade o voto-vista (multas mantidas), com adesão do relator original
+  - votos: Mauro: revisor_diverge; Guilherme: revisor_acompanha; Roger: revisor_acompanha; Caio: revisor_acompanha; Tasso: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=7217s)
+- **RD 66 (2024-10-07)**, 1.6.1 · relator **Caio Seabra** · Voto-vista: recurso contra indeferimento de requerimento de mudança de regime para licenciamento por não apresentar nova licença municipal no prazo (a → aprovado por maioria o voto do relator original (provimento); vencido o Diretor-Geral Maur
+  - votos: Caio: relator; Mauro: vencido; Guilherme: acompanha; Roger: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=7749s)
+- **RD 66 (2024-10-07)**, 1.7.1 · relator **Roger Cabral** · Voto-vista: pedido de reconsideração contra indeferimento de requerimento de pesquisa por interferência total; efeitos da declaração (2016) de que o M → deliberação sobrestada por pedido de vista do diretor Caio Seabra
+  - votos: Mauro: revisor_diverge; Roger: relator; Guilherme: acompanha; Caio: vista; Tasso: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=8797s)
+- **RD 66 (2024-10-07)**, 2.7.1 · relator **Mauro Sousa** · Voto-vista (revisor): pedido de reconsideração contra a declaração de nulidade do alvará de pesquisa 10.455/2013 (decidida na 5ª ROP); disputa de prio → deliberação sobrestada por pedido de vista do diretor Tasso Mendonça
+  - votos: Guilherme: revisor_diverge; Mauro: revisor_acompanha; Tasso: vista · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=16050s)
+- **RD 66 (2024-10-07)**, 2.9.1 · relator **Guilherme Gomes** · Recurso contra arquivamento definitivo de processo → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=20824s)
+- **RD 66 (2024-10-07)**, 2.14.1 · relator **Guilherme Gomes** · Recurso contra negativa de aprovação de relatório final de pesquisa → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=20824s)
+- **RD 66 (2024-10-07)**, 2.1.1 · relator **Guilherme Gomes** · Recurso contra resultado da 8ª Rodada de Disponibilidade: alega lance registrado que não apareceu → aprovado por unanimidade (não provido)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=20996s)
+- **RD 66 (2024-10-07)**, 2.1.2 · relator **Guilherme Gomes** · Recurso contra resultado da 8ª Rodada: proposta de R$ 6.000 registrada mas não finalizada (status aberta/inválida) → aprovado por unanimidade (não provido)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=21075s)
+- **RD 66 (2024-10-07)**, 2.1.3 · relator **Guilherme Gomes** · Recurso contra resultado da 8ª Rodada: erro de digitação no lance (algarismo a mais; valor pretendido em torno de R$ 1,35 milhão — números incertos na → aprovado por maioria (provido: retificação do lance); vencido o Diretor-Geral Mauro Sousa
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=21169s)
+- **RD 66 (2024-10-07)**, 2.1.4 · relator **Guilherme Gomes** · Recurso contra resultado da 8ª Rodada: alega ter cancelado a proposta e pede reinclusão da área em edital futuro → aprovado por unanimidade (não provido)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=21471s)
+- **RD 66 (2024-10-07)**, 2.1.5 · relator **Guilherme Gomes** · Recurso contra resultado da 8ª Rodada: pede sobrestamento por ação judicial (11ª Vara Federal de Curitiba) contra indeferimento de requerimento de lav → aprovado por unanimidade (não provido)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=21549s)
+- **RD 66 (2024-10-07)**, 2.2.1 · relator **Guilherme Gomes** · Recurso contra auto de paralisação nº 1 (lavra com dragas fora da poligonal; defesa contra cassação do registro de licença 38/2018) → aprovado por unanimidade (não provido)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=21661s)
+- **RD 66 (2024-10-07)**, 2.3.1 · relator **Guilherme Gomes** · Recurso contra cancelamento da guia de utilização 69/2022 (MG) após operação conjunta ANM/Polícia Federal que constatou lavra fora da área → aprovado por unanimidade (não provido)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=21789s)
+- **RD 66 (2024-10-07)**, 2.4.1 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento (ou pagamento fora do prazo) da taxa anual por hectare — auto de infração 8249/2020; alvará 22541  → aprovado por unanimidade (multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22153s)
+- **RD 66 (2024-10-07)**, 2.4.2 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento (ou pagamento fora do prazo) da taxa anual por hectare — mesma fundamentação do 2.4.1 → aprovado por unanimidade (multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22275s)
+- **RD 66 (2024-10-07)**, 2.4.3 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento (ou pagamento fora do prazo) da taxa anual por hectare — auto de infração 972/2020 (gerência de Ma → aprovado por unanimidade (multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22302s)
+- **RD 66 (2024-10-07)**, 2.4.4 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento (ou pagamento fora do prazo) da taxa anual por hectare — relatado junto com o 966.096/2020 → aprovado por unanimidade (multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22302s)
+- **RD 66 (2024-10-07)**, 2.4.5 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento (ou pagamento fora do prazo) da taxa anual por hectare — auto de infração da superintendência de A → aprovado por unanimidade (multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22338s)
+- **RD 66 (2024-10-07)**, 2.4.6 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento (ou pagamento fora do prazo) da taxa anual por hectare — auto de infração 268/2021 → aprovado por unanimidade (multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22365s)
+- **RD 66 (2024-10-07)**, 2.4.10 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento (ou pagamento fora do prazo) da taxa anual por hectare — auto de infração 4303 (número incerto) → aprovado por unanimidade (multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22396s)
+- **RD 66 (2024-10-07)**, 2.4.11 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento (ou pagamento fora do prazo) da taxa anual por hectare — auto de infração 4288 publicado em 20/09/ → aprovado por unanimidade (multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22429s)
+- **RD 66 (2024-10-07)**, 2.4.12 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento (ou pagamento fora do prazo) da taxa anual por hectare — auto de infração 19728 (número incerto) → aprovado por unanimidade (multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22452s)
+- **RD 66 (2024-10-07)**, 2.4.13 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento (ou pagamento fora do prazo) da taxa anual por hectare — auto de infração 15123/2022 → aprovado por unanimidade (multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22469s)
+- **RD 66 (2024-10-07)**, 2.4.14 · relator **Guilherme Gomes** · Recurso contra multa por segurança de barragem (auto de infração 9360/2020): não instalação do sistema automatizado de acionamento de sirenes da barra → aprovado por unanimidade (multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22481s)
+- **RD 66 (2024-10-07)**, 2.4.15 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento (ou pagamento fora do prazo) da taxa anual por hectare — auto de infração 4695 (DIPAR), publicado  → aprovado por unanimidade (multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22626s)
+- **RD 66 (2024-10-07)**, 2.4.16 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento (ou pagamento fora do prazo) da taxa anual por hectare — notificação administrativa 1707 (SUP. Min → aprovado por unanimidade (multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22661s)
+- **RD 66 (2024-10-07)**, 2.4.17 · relator **Guilherme Gomes** · Recurso contra imposição de multa por não pagamento (ou pagamento fora do prazo) da taxa anual por hectare — notificação administrativa 1705 (SUP. Min → aprovado por unanimidade (multa mantida)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22661s)
+- **RD 66 (2024-10-07)**, 2.5.1 · relator **Guilherme Gomes** · Pedido de reconsideração contra declaração de nulidade ex officio do alvará de pesquisa 8485/2021 por não pagamento da TAH → aprovado por unanimidade (não conhecido, intempestivo)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22709s)
+- **RD 66 (2024-10-07)**, 2.5.2 · relator **Guilherme Gomes** · Recurso contra nulidade ex officio do alvará de pesquisa 10.464/2016 por não pagamento da TAH do 3º ano, depois de entregue o relatório final positivo → aprovado por unanimidade (não conhece; mantém taxa e multa; anula de ofício a nulidade do 
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=22839s)
+- **RD 66 (2024-10-07)**, 2.6.1 · relator **Guilherme Gomes** · Recurso contra nulidade ex officio do alvará de pesquisa 2053/2003 (número incerto) por não pagamento da TAH do 3º ano → aprovado por unanimidade (não provido)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=23707s)
+- **RD 66 (2024-10-07)**, 2.6.2 · relator **Guilherme Gomes** · Recurso contra nulidade ex officio do alvará de pesquisa 8118/2021 (número incerto) por não pagamento da TAH → aprovado por unanimidade (não conhecido, intempestivo)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=23824s)
+- **RD 66 (2024-10-07)**, 2.10.1 · relator **Guilherme Gomes** · Recurso contra negativa de aprovação de relatório final de pesquisa (dados só bibliográficos; sem pesquisa de campo por oposição do superficiário; áre → aprovado por unanimidade (não provido)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=23967s)
+- **RD 66 (2024-10-07)**, 2.11.1 · relator **Guilherme Gomes** · Pedidos de reconsideração contra indeferimento por interferência total do requerimento de pesquisa de 2015 e contra inabilitação de proposta em edital → aprovado por unanimidade (não providos)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=24283s)
+- **RD 66 (2024-10-07)**, 2.12.1 · relator **Guilherme Gomes** · Recurso contra caducidade do direito de requerer a lavra (alega falta de intimação com AR da aprovação do relatório final) → aprovado por unanimidade (não conhecido, intempestivo)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=24479s)
+- **RD 66 (2024-10-07)**, 3.5.2 · relator **Tasso Mendonça** · processo não identificado → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=26763s)
+- **RD 66 (2024-10-07)**, 3.6.1 · relator **Tasso Mendonça** · processo não identificado → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=26763s)
+- **RD 66 (2024-10-07)**, 3.8.1 · relator **Tasso Mendonça** · processo não identificado → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=26763s)
+- **RD 66 (2024-10-07)**, 3.2.1 · relator **Tasso Mendonça** · Recurso contra multa por não pagamento da TAH do 1º ano (auto 5780/2021, número incerto) → aprovado por unanimidade (não provido)
+  - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=27005s)
+- **RD 66 (2024-10-07)**, 3.3.1 · relator **Tasso Mendonça** · Novo recurso contra decisão da Diretoria (voto da diretora Aline Chaves, 36ª ROP) que declarou a caducidade do direito de requerer a lavra → aprovado por unanimidade (recurso inadmitido)
+  - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=27309s)
+- **RD 66 (2024-10-07)**, 3.3.3 · relator **Tasso Mendonça** · Novo recurso contra decisão da 55ª ROP (voto TM 1260/2023) que manteve negativa de prorrogação de prazo para cumprir exigência de licenciamento ambien → aprovado por unanimidade (recurso inadmitido)
+  - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=27635s)
+- **RD 66 (2024-10-07)**, 3.3.4 · relator **Tasso Mendonça** · Segundo recurso contra caducidade do direito de requerer a lavra (alega necessidade de intimação pessoal da aprovação do relatório final) → aprovado por unanimidade (recurso inadmitido)
+  - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=27982s)
+- **RD 66 (2024-10-07)**, 3.5.1 · relator **Tasso Mendonça** · Recurso contra caducidade do direito de requerer a lavra (pedido de prorrogação intempestivo; alegação de pandemia e falha de protocolo) → aprovado por unanimidade (não provido)
+  - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=28442s)
+- **RD 66 (2024-10-07)**, 3.7.1 · relator **Tasso Mendonça** · Recurso contra negativa de nova prorrogação de prazo para cumprir exigência de licença ambiental (exigida desde 2017) → aprovado por unanimidade (não provido)
+  - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=28604s)
+- **RD 66 (2024-10-07)**, 3.7.2 · relator **Tasso Mendonça** · Recurso contra negativa de nova prorrogação de prazo para cumprir exigência de licença ambiental (exigida desde 2017) → aprovado por unanimidade (não provido)
+  - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=28604s)
+- **RD 66 (2024-10-07)**, 4.2.1 · relator **Roger Cabral** · Pedido de reconsideração contra indeferimento de requerimento de pesquisa por cumprimento de exigência 2 anos após o prazo; pedido de excluir areia in → aprovado por unanimidade (não provido)
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=29686s)
+- **RD 66 (2024-10-07)**, 4.2.2 · relator **Roger Cabral** · processo não identificado → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=29700s)
+- **RD 66 (2024-10-07)**, 4.3.1 · relator **Roger Cabral** · Recurso contra resultado da 8ª Rodada de Disponibilidade: alega não ter obtido vista dos autos → aprovado por unanimidade (não provido)
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=29791s)
+- **RD 66 (2024-10-07)**, 4.3.2 · relator **Roger Cabral** · Recurso contra resultado da 8ª Rodada de Disponibilidade: alega instabilidade do sistema e vencedora do ramo de transporte com capital de R$ 15 mil → aprovado por unanimidade (não provido)
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=29873s)
+- **RD 66 (2024-10-07)**, 4.3.3 · relator **Roger Cabral** · Recurso contra resultado da 8ª Rodada de Disponibilidade: pede retirada da área por risco ao complexo polimetálico de Pitinga → aprovado por unanimidade (não provido)
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=30068s)
+- **RD 66 (2024-10-07)**, 4.3.4 · relator **Roger Cabral** · Recurso contra resultado da 8ª Rodada de Disponibilidade: pede retirada por mandado de segurança contra caducidade → aprovado por unanimidade (não provido)
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=30207s)
+- **RD 66 (2024-10-07)**, 4.3.5 · relator **Roger Cabral** · Recurso contra resultado da 8ª Rodada de Disponibilidade: pede desclassificação da vencedora por objeto social estranho → aprovado por unanimidade (não provido)
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=30290s)
+- **RD 66 (2024-10-07)**, 4.3.6 · relator **Roger Cabral** · Recurso contra resultado da 8ª Rodada de Disponibilidade: alega não ter obtido vista dos autos (2º colocado) → aprovado por unanimidade (não provido)
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=30387s)
+- **RD 66 (2024-10-07)**, 4.5.1 · relator **Roger Cabral** · Recurso contra negativa de aprovação de relatório final de pesquisa por cumprimento intempestivo de exigência (ofício de 2017) → aprovado por unanimidade (não provido)
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=30751s)
+- **RD 66 (2024-10-07)**, 4.5.2 · relator **Roger Cabral** · Recurso contra negativa de aprovação de relatório final de pesquisa por cumprimento intempestivo de exigência (ofício de 2017) → aprovado por unanimidade (não provido)
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=30751s)
+- **RD 66 (2024-10-07)**, 4.6.1 · relator **Roger Cabral** · Recurso de terceiro interessado contra o voto RC 339/2023, que anulara indeferimento de 2016 do requerimento de pesquisa da Tamim → aprovado por unanimidade (relator revisa o próprio voto anterior)
+  - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=30961s)
+- **RD 66 (2024-10-07)**, 5.1.1 · relator **Mauro Sousa** · Voto-vista: embargos de declaração contra decisão da 60ª ROP (voto MS 251/2024) que manteve baixa na transcrição de registro de licença vencido em 03/ → aprovado por maioria o voto-vista de Caio Seabra; vencido o Diretor-Geral
+  - votos: Caio: revisor_acompanha; Guilherme: revisor_acompanha; Tasso: revisor_acompanha; Roger: revisor_acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=31736s)
+- **RD 66 (2024-10-07)**, 5.1.2 · relator **Mauro Sousa** · Voto-vista: embargos de declaração contra decisão da 60ª ROP (voto MS 251/2024) que manteve baixa na transcrição de registro de licença vencido em 03/ → aprovado por maioria o voto-vista de Caio Seabra; vencido o Diretor-Geral
+  - votos: Caio: revisor_acompanha; Guilherme: revisor_acompanha; Tasso: revisor_acompanha; Roger: revisor_acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=31736s)
+- **RD 66 (2024-10-07)**, 5.1.3 · relator **Mauro Sousa** · Voto-vista: embargos de declaração contra decisão da 60ª ROP (voto MS 251/2024) que manteve baixa na transcrição de registro de licença vencido em 03/ → aprovado por maioria o voto-vista de Caio Seabra; vencido o Diretor-Geral
+  - votos: Caio: revisor_acompanha; Guilherme: revisor_acompanha; Tasso: revisor_acompanha; Roger: revisor_acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=31736s)
+- **RD 66 (2024-10-07)**, 5.1.4 · relator **Mauro Sousa** · Voto-vista: embargos de declaração contra decisão da 60ª ROP (voto MS 251/2024) que manteve baixa na transcrição de registro de licença vencido em 03/ → aprovado por maioria o voto-vista de Caio Seabra; vencido o Diretor-Geral
+  - votos: Caio: revisor_acompanha; Guilherme: revisor_acompanha; Tasso: revisor_acompanha; Roger: revisor_acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=31736s)
+- **RD 66 (2024-10-07)**, 5.2.1 · relator **Caio Seabra** · Recurso contra resultado da 8ª Rodada: erro de digitação no lance (zero a mais; pretendido ≈ R$ 3,76 milhões, registrado ≈ 10 vezes maior; 2º lance R$ → aprovado por maioria (provido: retificação do lance); vencido o Diretor-Geral
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=31844s)
+- **RD 66 (2024-10-07)**, 5.2.2 · relator **Caio Seabra** · Recurso contra resultado da 8ª Rodada: pede retirada da área 4796, vão entre poligonais da recorrente criado por deslocamento do processo 828.42?/99 → aprovado por maioria (provido: área retirada da rodada); vencido o Diretor-Geral
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=32074s)
+- **RD 66 (2024-10-07)**, 5.2.3 · relator **Caio Seabra** · Recurso contra a 8ª Rodada: garantias financeiras, segurança do sistema SOOP (falhas, testes durante o leilão, 7ª rodada anulada) e capacidade dos arr → aprovado por unanimidade (não provido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=32145s)
+- **RD 66 (2024-10-07)**, 5.2.4 · relator **Caio Seabra** · Recurso contra a 8ª Rodada: falta de transparência, instabilidade do sistema e arrematação por pessoa física fora do ramo → aprovado por unanimidade (não provido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=32270s)
+- **RD 66 (2024-10-07)**, 5.3.1 · relator **Caio Seabra** · Recurso contra não aprovação de relatório final de pesquisa de topázio (vistoria 9 anos após a entrega; relatório único com processo vizinho aprovado) → aprovado por unanimidade (não conhece, mas anula de ofício a não aprovação)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=32364s)
+- **RD 66 (2024-10-07)**, 5.3.2 · relator **Caio Seabra** · processo não identificado (recurso contra não aprovação de relatório final de pesquisa) → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=32561s)
+- **RD 66 (2024-10-07)**, 5.3.3 · relator **Caio Seabra** · Recurso contra não aprovação de relatório final de pesquisa positivo para granito (reserva medida e indicada calculadas) → aprovado por maioria (provido); vencido o Diretor-Geral
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=32564s)
+- **RD 66 (2024-10-07)**, 5.3.4 · relator **Caio Seabra** · Recurso contra não aprovação de relatório final de pesquisa positivo para quartzito de revestimento (sem mapeamento, sondagem nem cálculo de reserva) → aprovado por unanimidade (não provido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=32637s)
+- **RD 66 (2024-10-07)**, 5.3.5 · relator **Caio Seabra** · Recurso contra não aprovação de relatório final de pesquisa positivo para quartzito de revestimento (sem mapeamento, sondagem nem cálculo de reserva) → aprovado por unanimidade (não provido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=32637s)
+- **RD 66 (2024-10-07)**, 5.3.6 · relator **Caio Seabra** · Recurso contra não aprovação de relatório final de pesquisa positivo para quartzito de revestimento (sem mapeamento, sondagem nem cálculo de reserva) → aprovado por unanimidade (não provido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=32637s)
+- **RD 66 (2024-10-07)**, 5.3.7 · relator **Caio Seabra** · Recurso contra não aprovação de relatório final de pesquisa positivo para quartzito de revestimento (sem mapeamento, sondagem nem cálculo de reserva) → aprovado por unanimidade (não provido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=32637s)
+- **RD 66 (2024-10-07)**, 5.3.8 · relator **Caio Seabra** · Recurso contra não aprovação de relatório final de pesquisa de minério de ferro → aprovado por unanimidade (não provido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=32717s)
+- **RD 66 (2024-10-07)**, 5.3.9 · relator **Caio Seabra** · Recurso intempestivo contra não aprovação de relatório final de pesquisa (substância ilegível) → aprovado por unanimidade (não conhecido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=32754s)
+- **RD 66 (2024-10-07)**, 5.3.10 · relator **Caio Seabra** · Recurso intempestivo contra não aprovação de relatório final de pesquisa → aprovado por unanimidade (não conhecido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=32796s)
+- **RD 66 (2024-10-07)**, 5.3.11 · relator **Caio Seabra** · Recurso contra não aprovação de relatório final de pesquisa de areia por dragagem para construção civil → aprovado por unanimidade (provido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=32828s)
+- **RD 66 (2024-10-07)**, 5.3.12 · relator **Caio Seabra** · Recurso contra não aprovação de relatório final de pesquisa de argila → aprovado por unanimidade (não provido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=32888s)
+- **RD 66 (2024-10-07)**, 5.3.13 · relator **Caio Seabra** · Recurso contra não aprovação de relatório final de pesquisa de argila (sem topografia, mapas, ensaios, sondagem) → aprovado por unanimidade (não provido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=32929s)
+- **RD 66 (2024-10-07)**, 5.3.14 · relator **Caio Seabra** · Recurso intempestivo contra não aprovação de relatório final de pesquisa → aprovado por unanimidade (não conhecido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=32983s)
+- **RD 66 (2024-10-07)**, 5.3.15 · relator **Caio Seabra** · Recurso intempestivo contra não aprovação de relatório final de pesquisa de minério de ferro → aprovado por unanimidade (não conhecido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33011s)
+- **RD 66 (2024-10-07)**, 5.3.16 · relator **Caio Seabra** · Recurso intempestivo contra não aprovação de relatório final de pesquisa de minério de ferro → aprovado por unanimidade (não conhecido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33011s)
+- **RD 66 (2024-10-07)**, 5.3.17 · relator **Caio Seabra** · Recurso intempestivo contra não aprovação de relatório final de pesquisa de minério de ferro → aprovado por unanimidade (não conhecido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33011s)
+- **RD 66 (2024-10-07)**, 5.3.18 · relator **Caio Seabra** · Recurso intempestivo contra não aprovação de relatório final de pesquisa de minério de ferro → aprovado por unanimidade (não conhecido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33011s)
+- **RD 66 (2024-10-07)**, 5.3.19 · relator **Caio Seabra** · Recurso intempestivo contra não aprovação de relatório final de pesquisa de minério de ferro → aprovado por unanimidade (não conhecido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33011s)
+- **RD 66 (2024-10-07)**, 5.3.20 · relator **Caio Seabra** · Recurso contra não aprovação de relatório final de pesquisa (ensaios granulométricos e sondagem a varejão juntados na reconsideração) → aprovado por unanimidade (provido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33039s)
+- **RD 66 (2024-10-07)**, 5.4.1 · relator **Caio Seabra** · Pedido de reconsideração contra indeferimento de prorrogação de alvará de pesquisa (Mata Atlântica em regeneração, realocação de reserva legal, licenc → aprovado por unanimidade (provido: alvará prorrogado)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33096s)
+- **RD 66 (2024-10-07)**, 5.5.1 · relator **Caio Seabra** · Recurso contra negativa de servidão mineral (58,66 ha) e requerimento de guia de utilização de 600 mil t/ano de minério de ferro por 3 anos → deliberação sobrestada por pedido de vista do Diretor-Geral Mauro Sousa
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: vista · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33169s)
+- **RD 66 (2024-10-07)**, 5.7.1 · relator **Caio Seabra** · Recurso contra indeferimento de prorrogação de registro de licença por atraso da licença municipal (apresentada em 01/11/2023) → aprovado por maioria (provido); vencido o Diretor-Geral
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33454s)
+- **RD 66 (2024-10-07)**, 5.7.2 · relator **Caio Seabra** · Recurso contra indeferimento de prorrogação de registro de licença por atraso da licença municipal (apresentada em 01/11/2023) → aprovado por maioria (provido); vencido o Diretor-Geral
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33454s)
+- **RD 66 (2024-10-07)**, 5.7.3 · relator **Caio Seabra** · Recurso contra indeferimento de prorrogação de registro de licença por atraso da licença municipal (apresentada em 01/11/2023) → aprovado por maioria (provido); vencido o Diretor-Geral
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33454s)
+- **RD 66 (2024-10-07)**, 5.7.4 · relator **Caio Seabra** · Recurso contra indeferimento de prorrogação de registro de licença por inscrição de CFEM em dívida ativa, depois extinta em juízo (execução fiscal 003 → aprovado por unanimidade (não conhece, mas anula de ofício o indeferimento)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33561s)
+- **RD 66 (2024-10-07)**, 5.8.2 · relator **Caio Seabra** · Pedido de reconsideração contra indeferimento de requerimento de registro de licença por descumprimento de exigência (ofício 9175/2021 sem AR) → aprovado por maioria (provido); vencido o Diretor-Geral
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33653s)
+- **RD 66 (2024-10-07)**, 5.9.1 · relator **Caio Seabra** · Recurso contra baixa na transcrição do registro de licença (prorrogação pedida após o vencimento) → aprovado por unanimidade (não provido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33731s)
+- **RD 66 (2024-10-07)**, 5.10.1 · relator **Caio Seabra** · Recurso contra multa por não pagamento da TAH → aprovado por unanimidade (não provido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33776s)
+- **RD 66 (2024-10-07)**, 5.10.2 · relator **Caio Seabra** · Recurso contra nulidade ex officio do alvará de pesquisa por não pagamento da TAH (alega falta de intimação) → aprovado por unanimidade (não conhecido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33821s)
+- **RD 66 (2024-10-07)**, 5.10.3 · relator **Caio Seabra** · Recurso contra nulidade ex officio do alvará de pesquisa por não pagamento da TAH (alega falta de intimação) → aprovado por unanimidade (não conhecido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33821s)
+- **RD 66 (2024-10-07)**, 5.10.4 · relator **Caio Seabra** · Recurso contra nulidade ex officio do alvará de pesquisa por não pagamento da TAH (alega falta de intimação) → aprovado por unanimidade (não conhecido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33821s)
+- **RD 66 (2024-10-07)**, 5.10.5 · relator **Caio Seabra** · Recurso contra nulidade ex officio do alvará de pesquisa por não pagamento da TAH (alega falta de intimação) → aprovado por unanimidade (não conhecido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33821s)
+- **RD 66 (2024-10-07)**, 5.10.6 · relator **Caio Seabra** · Pedido de reconsideração contra nulidade ex officio de alvará de pesquisa (9.961 ha? — número incerto) por não pagamento da TAH → aprovado por unanimidade (não conhecido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33873s)
+- **RD 66 (2024-10-07)**, 5.11.1 · relator **Caio Seabra** · Recurso contra indeferimento por interferência total com o processo prioritário 832.258/2014 → aprovado por unanimidade (não provido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33923s)
+- **RD 66 (2024-10-07)**, 5.12.1 · relator **Caio Seabra** · Recurso contra não prorrogação de prazo para cumprir exigência e não aprovação de relatório final de pesquisa → aprovado por unanimidade (não conhecido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33967s)
+- **RD 66 (2024-10-07)**, 5.12.2 · relator **Caio Seabra** · Recurso contra não prorrogação de prazo de exigência e não aprovação de relatório final de pesquisa → aprovado por unanimidade (provido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=34010s)
+- **RD 66 (2024-10-07)**, 5.12.3 · relator **Caio Seabra** · Recurso contra não prorrogação de prazo de exigência e não aprovação de relatório final de pesquisa → aprovado por unanimidade (provido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=34010s)
+- **RD 66 (2024-10-07)**, 5.12.4 · relator **Caio Seabra** · Recurso contra não prorrogação de prazo de exigência e não aprovação de relatório final de pesquisa → aprovado por unanimidade (provido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=34010s)
+- **RD 66 (2024-10-07)**, 5.12.5 · relator **Caio Seabra** · Recurso contra não prorrogação de prazo de exigência e não aprovação de relatório final de pesquisa → aprovado por unanimidade (provido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=34010s)
+- **RD 66 (2024-10-07)**, 5.12.6 · relator **Caio Seabra** · Recurso contra não prorrogação de prazo de exigência e não aprovação de relatório final de pesquisa → aprovado por unanimidade (provido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=34010s)
+- **RD 66 (2024-10-07)**, 5.12.7 · relator **Caio Seabra** · Recurso contra não prorrogação de prazo de exigência e não aprovação de relatório final de pesquisa → aprovado por unanimidade (provido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=34010s)
 - **RD 67ª Reunião Ordinária Pública (Parte 02) (2024-11-04)**, 2.6.9 · relator **Guilherme Gomes** · Recurso contra NFLD nº 59 (ANM/BA) — CFEM fev/2012 a mai/2016 (continuação da Parte 01, após queda da rede) → aprovado por unanimidade
   - votos: Guilherme: relator; Mauro: acompanha; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EpUH2BErxWU&t=2257s)
 - **RD 67ª Reunião Ordinária Pública (Parte 02) (2024-11-04)**, 1.7.1 · relator **Guilherme Gomes** · Voto-vista: recurso contra indeferimento da renovação de PLG nº 09/2015 (ouro, Goiás) por falta de nova anuência do titular do processo prioritário (D → aprovado por unanimidade o voto revisor de Mauro Sousa, com adesão do relator original Gui
@@ -2482,75 +2772,91 @@
   - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=x_q7U7MZEZQ&t=4361s)
 - **RD 30ª Reunião Extraordinária Pública (2024-11-22)**, 2.2.9 · relator **Guilherme Gomes** · Recurso contra não aprovação de relatório final de pesquisa (água mineral) → aprovado por unanimidade (conhecer e negar provimento)
   - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=x_q7U7MZEZQ&t=4619s)
-- **RD 68 (2024-12-02)**, 1.3.1 · relator **Roger Cabral** · Voto-vista do DG em recurso contra indeferimento de prorrogação de prazo para cumprir exigência (licença ambiental) em requerimento de lavra (Ofício 1 → deliberação sobrestada por pedido de vista de Tasso Mendonça (placar 2 a 2)
-  - votos: Mauro: revisor_acompanha; Guilherme: revisor_acompanha; Roger: outro; Caio: revisor_acompanha; Tasso: vista · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=3717s)
-- **RD 68 (2024-12-02)**, 2.1.1–2.1.6 · relator **Guilherme Gomes** · Recursos contra não aprovação de relatório final de pesquisa (inclui água mineral com pluma de contaminação, LAMIN) → aprovado por unanimidade (negado; 2.1.2 não conhecido por intempestivo)
+- **RD 68 (2024-12-02)**, 1.3.1 · relator **Roger Cabral** · Voto-vista do DG: recurso contra negativa de prorrogação de prazo para cumprir exigência (licença ambiental) em requerimento de lavra pendente há 40 a → sobrestado: pedido de vista de Tasso Mendonça (placar 2 x 2)
+  - votos: Mauro: revisor_acompanha; Roger: relator; Guilherme: revisor_acompanha; Caio: revisor_acompanha; Tasso: vista · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=3717s)
+- **RD 68 (2024-12-02)**, 2.1.1–2.1.6 · relator **Guilherme Gomes** · Recursos contra negativa de aprovação de relatório final de pesquisa por insuficiência dos trabalhos e deficiência técnica (art. 30 II do Código de Mi → aprovado por unanimidade
   - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=4710s)
-- **RD 68 (2024-12-02)**, 2.2.1–2.2.2 · relator **Guilherme Gomes** · Recursos contra indeferimento de requerimento de pesquisa por uso de corredores → aprovado por unanimidade (negado)
+- **RD 68 (2024-12-02)**, 2.2.1–2.2.2 · relator **Guilherme Gomes** · Recursos contra indeferimento de requerimentos de pesquisa cuja poligonal liga duas áreas por corredor → aprovado por unanimidade
   - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=5582s)
-- **RD 68 (2024-12-02)**, 2.2.3–2.2.6 · relator **Guilherme Gomes** · Recursos contra indeferimento de requerimentos de pesquisa (plano de pesquisa incompleto, interferência) → aprovado por unanimidade (2.2.3, 2.2.5, 2.2.6 negados; 2.2.4 provido, volta à gerência do 
+- **RD 68 (2024-12-02)**, 2.2.3, 2.2.5, 2.2.6 · relator **Guilherme Gomes** · Recursos contra indeferimento de requerimentos de pesquisa por não cumprimento de exigências (faixa de fronteira/assentimento do CDN; plano de pesquis → aprovado por unanimidade
   - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=5832s)
-- **RD 68 (2024-12-02)**, 2.3.1 · relator **Guilherme Gomes** · Recurso contra declaração de nulidade de alvará de pesquisa por prioridade do processo 820.047/2017 → aprovado por unanimidade (negado)
-  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=6300s)
-- **RD 68 (2024-12-02)**, 2.4.1–2.4.3 · relator **Guilherme Gomes** · Recursos contra nulidade de alvará de pesquisa por não pagamento de TAH → aprovado por unanimidade (2.4.1–2.4.2 não conhecidos, intempestivos; 2.4.3 negado)
+- **RD 68 (2024-12-02)**, 2.2.4 · relator **Guilherme Gomes** · Recurso contra indeferimento de requerimento de pesquisa por cumprimento intempestivo de exigência; sistema indisponível e ausência de ofício com avis → aprovado por unanimidade (provido)
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=6000s)
+- **RD 68 (2024-12-02)**, 2.3.1 · relator **Guilherme Gomes** · Recurso contra declaração de nulidade de alvará de pesquisa (interferência total com área prioritária não detectada na outorga, SP) → aprovado por unanimidade
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=6517s)
+- **RD 68 (2024-12-02)**, 2.4.1–2.4.3 · relator **Guilherme Gomes** · Recursos contra nulidade ex officio de alvarás de pesquisa por não pagamento da TAH → aprovado por unanimidade
   - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=6764s)
-- **RD 68 (2024-12-02)**, 2.5.1 · relator **Guilherme Gomes** · Recurso contra indeferimento de prorrogação de alvará de pesquisa (relatório parcial sem prova de trabalhos) → aprovado por unanimidade (negado)
-  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=6949s)
-- **RD 68 (2024-12-02)**, 2.8.1 · relator **Guilherme Gomes** · Recurso contra arquivamento/indeferimento de declaração de dispensa de título minerário (obra civil) → aprovado por unanimidade (negado)
-  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=9224s)
-- **RD 68 (2024-12-02)**, 2.9.1 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento de TAH → aprovado por unanimidade (negado)
+- **RD 68 (2024-12-02)**, 2.5.1 · relator **Guilherme Gomes** · Recurso contra indeferimento de prorrogação de alvará de pesquisa (quartzito): relatório parcial sem trabalhos → aprovado por unanimidade
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=6943s)
+- **RD 68 (2024-12-02)**, 2.8.1 · relator **Guilherme Gomes** · Recurso contra indeferimento de declaração de dispensa de título minerário (DDTM) em Sento Sé-BA → aprovado por unanimidade
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=9221s)
+- **RD 68 (2024-12-02)**, 2.9.1 · relator **Guilherme Gomes** · Recurso contra multa por não pagamento de TAH → aprovado por unanimidade
   - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=9500s)
-- **RD 68 (2024-12-02)**, 2.10.1–2.10.2 · relator **Guilherme Gomes** · Recursos contra negativa de prorrogação de prazo para cumprimento de exigências (licença ambiental) em requerimentos de lavra → aprovado por maioria, vencido o DG Mauro Sousa
-  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=9594s)
-- **RD 68 (2024-12-02)**, 1.1.1–1.1.6 · relator **Mauro Sousa** · Recursos contra indeferimento de requerimentos de lavra (inércia no licenciamento ambiental) → aprovado por unanimidade (negado)
+- **RD 68 (2024-12-02)**, 2.10.1 · relator **Guilherme Gomes** · Recurso contra negativa de prorrogação de prazo para cumprir exigência (licença ambiental) em requerimento de concessão de lavra → aprovado por maioria; vencido Mauro Sousa
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=9600s)
+- **RD 68 (2024-12-02)**, 2.10.2 · relator **Guilherme Gomes** · Recurso contra negativa de prorrogação de prazo para cumprir exigência (licença ambiental) em requerimento de concessão de lavra → aprovado por maioria; vencido Mauro Sousa
+  - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=9815s)
+- **RD 68 (2024-12-02)**, 1.1.1–1.1.6 · relator **Mauro Sousa** · Recursos contra indeferimento de requerimentos de lavra: segundo pedido de prorrogação para cumprir exigência (licenciamento ambiental) vedado pelo ar → aprovado por unanimidade
   - votos: Mauro: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=10264s)
-- **RD 68 (2024-12-02)**, 1.2.1–1.2.6 · relator **Mauro Sousa** · Recursos contra indeferimento de requerimentos de pesquisa → aprovado por unanimidade (negado)
+- **RD 68 (2024-12-02)**, 1.2.1–1.2.6 · relator **Mauro Sousa** · Recursos contra indeferimento de plano de requerimentos de pesquisa por interferência total com área onerada ou falta de documento obrigatório (arts.  → aprovado por unanimidade
   - votos: Mauro: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=10408s)
-- **RD 68 (2024-12-02)**, 3.8.1 · relator **Caio Seabra** · Voto-vista de Tasso sobre recurso contra retirada da área 1609 da 8ª Rodada de Disponibilidade → aprovado por unanimidade o voto-vista de Tasso, com adesão de Caio e Guilherme
-  - votos: Tasso: revisor_acompanha; Roger: revisor_acompanha; Guilherme: acompanha; Caio: revisor_acompanha; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=10737s)
-- **RD 68 (2024-12-02)**, 3.1.1 · relator **Tasso Mendonça** · Recurso contra indeferimento de requerimento de lavra (exigência cumprida horas após o prazo); área de 3,98 ha cercada por 8 direitos da Comisa → deliberação sobrestada por pedido de vista de Guilherme Gomes
-  - votos: Tasso: relator; Guilherme: vista · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=13170s)
-- **RD 68 (2024-12-02)**, 3.2.1 · relator **Tasso Mendonça** · Recurso contra indeferimento de declaração de dispensa de título → aprovado por unanimidade
-  - votos: Tasso: relator; Roger: acompanha; Caio: acompanha; Guilherme: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=13513s)
-- **RD 68 (2024-12-02)**, 3.3.1–3.3.2 · relator **Tasso Mendonça** · Recursos contra indeferimento de requerimentos de pesquisa por interferência total → deliberação sobrestada por pedido de vista de Guilherme Gomes
-  - votos: Tasso: relator; Guilherme: vista · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=13682s)
-- **RD 68 (2024-12-02)**, 3.4.1 · relator **Tasso Mendonça** · Recurso contra indeferimento de requerimento de pesquisa → aprovado por unanimidade (não conhecido/negado)
-  - votos: Tasso: relator; Roger: acompanha; Caio: acompanha; Guilherme: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=13830s)
-- **RD 68 (2024-12-02)**, 3.5.1 · relator **Tasso Mendonça** · Recurso contra indeferimento de prorrogação de alvará de pesquisa (minério de ferro; falta de acesso à área/superficiário) → aprovado por unanimidade
-  - votos: Tasso: relator; Roger: acompanha; Caio: acompanha; Guilherme: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=13946s)
-- **RD 68 (2024-12-02)**, 4.1.1 · relator **Roger Cabral** · Reconsideração contra nulidade de alvará por não pagamento de TAH (parcelamento cancelado) → aprovado por unanimidade (negado)
-  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Guilherme: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=14700s)
-- **RD 68 (2024-12-02)**, 4.2.1 · relator **Roger Cabral** · Recurso em procedimento de disponibilidade → aprovado por maioria, vencido o DG Mauro Sousa
-  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Guilherme: acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=14996s)
-- **RD 68 (2024-12-02)**, 4.2.2 · relator **Roger Cabral** · Recurso pedindo anulação/suspensão de certame de disponibilidade para lavra (denúncia de lavra irregular) → aprovado por unanimidade (negado)
-  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Guilherme: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=15139s)
-- **RD 68 (2024-12-02)**, 4.2.3 · relator **Roger Cabral** · Recurso contra inabilitação em procedimento de disponibilidade → aprovado por maioria, vencido o DG Mauro Sousa
-  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Guilherme: acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=15262s)
-- **RD 68 (2024-12-02)**, 4.3.1 · relator **Roger Cabral** · Recurso contra negativa de desistência de renúncia a título minerário → aprovado por unanimidade (negado)
-  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Guilherme: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=15413s)
-- **RD 68 (2024-12-02)**, 4.4.1 · relator **Roger Cabral** · Recurso contra negativa de aprovação de RFP → aprovado por unanimidade (negado)
-  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Guilherme: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=15534s)
-- **RD 68 (2024-12-02)**, 4.5.1 · relator **Roger Cabral** · Recurso pedindo devolução de prazo de vigência de alvará suspenso → aprovado por unanimidade (negado)
-  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Guilherme: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=15601s)
-- **RD 68 (2024-12-02)**, 4.6.1 · relator **Roger Cabral** · Impugnação/reconsideração contra despacho que aprovou incorporação (cessão) de direitos minerários (manganês) → deliberação sobrestada por pedido de vista de Guilherme Gomes
-  - votos: Roger: relator; Guilherme: vista; Mauro: outro · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=15748s)
-- **RD 68 (2024-12-02)**, 4.7.2 · relator **Roger Cabral** · Recurso contra indeferimento de requerimento de concessão de lavra → aprovado por maioria, vencido o DG Mauro Sousa
-  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Guilherme: acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=15937s)
-- **RD 68 (2024-12-02)**, 3.9.1 · relator **Tasso Mendonça** · Recurso contra não aprovação de relatório final de pesquisa negativo (minério de ferro) com cessão de direitos pendente → aprovado por unanimidade (provimento)
+- **RD 68 (2024-12-02)**, 3.8.1 · relator **Caio Seabra** · Voto-vista: recurso contra a retirada da área 1609 da 8ª rodada de disponibilidade por interferência com pilhas de estéril/rejeito e servidões da CMOC → aprovado por unanimidade (voto-vista de Tasso, com adesão de Caio e Guilherme)
+  - votos: Tasso: revisor_acompanha; Guilherme: acompanha; Roger: revisor_acompanha; Caio: revisor_acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=10658s)
+- **RD 68 (2024-12-02)**, 3.1.1 · relator **Tasso Mendonça** · Recurso contra indeferimento de requerimento de lavra (minério de ferro, Igarapé e Brumadinho-MG) por cumprimento de exigência um dia após o prazo de  → sobrestado: pedido de vista de Guilherme Gomes
+  - votos: Tasso: relator; Guilherme: vista; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=13170s)
+- **RD 68 (2024-12-02)**, 3.2.1 · relator **Tasso Mendonça** · Recurso contra indeferimento de dispensa de título (DDTM) para obra emergencial após a calamidade no Rio Grande do Sul → aprovado por unanimidade
+  - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=13513s)
+- **RD 68 (2024-12-02)**, 3.3.1–3.3.2 · relator **Tasso Mendonça** · Pedidos de reconsideração contra indeferimento de requerimento de pesquisa por interferência total com área onerada → sobrestado: pedido de vista de Guilherme Gomes
+  - votos: Tasso: relator; Guilherme: vista; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=13682s)
+- **RD 68 (2024-12-02)**, 3.4.1 · relator **Tasso Mendonça** · Recurso contra indeferimento (2009) de requerimento de pesquisa de areia, argila refratária e turfa em São José dos Campos-SP por não cumprimento de e → aprovado por unanimidade
+  - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=13824s)
+- **RD 68 (2024-12-02)**, 3.5.1 · relator **Tasso Mendonça** · Recurso contra indeferimento de prorrogação de alvará de pesquisa (minério de ferro, 1,9 ha, Catas Altas-MG) por falta de diligência para acesso à áre → aprovado por unanimidade
+  - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=13946s)
+- **RD 68 (2024-12-02)**, 4.1.1 · relator **Roger Cabral** · Reconsideração contra nulidade ex officio de alvará de pesquisa (turfa e argilas, Jacaraci e Mortugaba-BA) por não pagamento de TAH; parcelamento canc → aprovado por unanimidade
+  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Mauro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=14799s)
+- **RD 68 (2024-12-02)**, 4.2.1 · relator **Roger Cabral** · Recurso em procedimento de disponibilidade: propostas inabilitadas por documentação incompleta (art. 32 da Portaria 268/2008) → aprovado por maioria; vencido Mauro Sousa
+  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Mauro: vencido; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=15002s)
+- **RD 68 (2024-12-02)**, 4.2.2 · relator **Roger Cabral** · Recurso pedindo anular certame de disponibilidade para lavra por suposta lavra antecipada da vencedora → aprovado por unanimidade
+  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Mauro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=15139s)
+- **RD 68 (2024-12-02)**, 4.2.3 · relator **Roger Cabral** · Recurso contra inabilitação em disponibilidade de área por ART incompleta (sem identificar o processo/edital) → aprovado por maioria; vencido Mauro Sousa
+  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Mauro: vencido; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=15262s)
+- **RD 68 (2024-12-02)**, 4.3.1 · relator **Roger Cabral** · Recurso contra negativa de desistência de renúncia a título minerário (alegado erro material) → aprovado por unanimidade
+  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Mauro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=15403s)
+- **RD 68 (2024-12-02)**, 4.4.1 · relator **Roger Cabral** · Recurso contra negativa de aprovação de relatório final de pesquisa (com pedido de desistência do recurso) → aprovado por unanimidade
+  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Mauro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=15526s)
+- **RD 68 (2024-12-02)**, 4.5.1 · relator **Roger Cabral** · Recurso pedindo devolução de prazo de alvará de pesquisa baixado em 2010 por débito de TAH, apresentado 11 anos depois → aprovado por unanimidade
+  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Mauro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=15594s)
+- **RD 68 (2024-12-02)**, 4.6.1 · relator **Roger Cabral** · Recurso/reconsideração contra despacho que averbou «incorporação» do alvará de pesquisa de manganês (Marabá-PA) pela integralização no contrato social → sobrestado: pedido de vista de Guilherme Gomes
+  - votos: Roger: relator; Guilherme: vista; Mauro: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=15748s)
+- **RD 68 (2024-12-02)**, 4.7.2 · relator **Roger Cabral** · Recurso contra indeferimento de requerimento de concessão de lavra: pedido de prorrogação de prazo intempestivo mas anterior a qualquer decisão → aprovado por maioria; vencido Mauro Sousa
+  - votos: Roger: relator; Tasso: acompanha; Caio: acompanha; Mauro: vencido; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=15937s)
+- **RD 68 (2024-12-02)**, 3.9.1 · relator **Tasso Mendonça** · Recurso contra não aprovação de relatório final de pesquisa negativo (minério de ferro, MG) protocolado pela cessionária antes de a ANM analisar a ces → aprovado por unanimidade
   - votos: Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=17099s)
-- **RD 68 (2024-12-02)**, 5.1.1–5.1.5 · relator **Caio Seabra** · Recursos contra indeferimento de requerimentos de pesquisa (corredores, interferência total, mudança de regime) → aprovado por unanimidade (negados; um com envio à fiscalização)
+- **RD 68 (2024-12-02)**, 5.1.1 · relator **Caio Seabra** · Recurso contra indeferimento de requerimento de pesquisa por não cumprimento de exigência (ofício 908/2017), alegado problema de saúde do responsável  → aprovado por unanimidade
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=17686s)
-- **RD 68 (2024-12-02)**, 5.2.1 · relator **Caio Seabra** · Recurso contra indeferimento de permissão de lavra garimpeira por não cumprimento de exigências → aprovado por unanimidade (negado)
-  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=18042s)
-- **RD 68 (2024-12-02)**, 5.3.2–5.3.3 · relator **Caio Seabra** · Recursos contra homologação de renúncia de direito minerário → aprovado por unanimidade (provimento: homologação tornada sem efeito)
-  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=18088s)
-- **RD 68 (2024-12-02)**, 5.4.1–5.4.5 · relator **Caio Seabra** · Recursos contra cobrança de CFEM (deduções ICMS/PIS/Cofins; prescrição parcial já reconhecida pela SAR) → aprovado por unanimidade (negados)
-  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=18182s)
-- **RD 68 (2024-12-02)**, 5.5.1 · relator **Caio Seabra** · Pedido de reconsideração contra decisão da 65ª ROP (voto CS 341/2024) e pedido de remessa ao MME → aprovado por maioria, vencido o DG Mauro Sousa
+- **RD 68 (2024-12-02)**, 5.1.2 · relator **Caio Seabra** · Recurso contra indeferimento de requerimento de pesquisa formado por polígonos ligados por corredores de 5 m a menos de 1 m → aprovado por unanimidade
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=17758s)
+- **RD 68 (2024-12-02)**, 5.1.3 · relator **Caio Seabra** · Recurso contra indeferimento por interferência total de requerimento de pesquisa de areia e cascalho (prioridade de mudança de regime para licenciamen → aprovado por unanimidade
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=17848s)
+- **RD 68 (2024-12-02)**, 5.1.4 · relator **Caio Seabra** · Recurso contra indeferimento de requerimento de pesquisa por interferência total com áreas prioritárias → aprovado por unanimidade
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=17937s)
+- **RD 68 (2024-12-02)**, 5.1.5 · relator **Caio Seabra** · Reconsideração contra indeferimento de requerimento de pesquisa por interferência total → aprovado por unanimidade
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=17989s)
+- **RD 68 (2024-12-02)**, 5.2.1 · relator **Caio Seabra** · Recurso contra indeferimento de permissão de lavra garimpeira por não cumprimento de exigências → aprovado por unanimidade
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=18047s)
+- **RD 68 (2024-12-02)**, 5.3.2–5.3.3 · relator **Caio Seabra** · Recurso contra homologação de renúncia de direito minerário requerida por mandatário sem poderes específicos → aprovado por unanimidade (provido)
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=18100s)
+- **RD 68 (2024-12-02)**, 5.4.1–5.4.3 · relator **Caio Seabra** · Recursos contra cobrança de CFEM (substância citada como «atomita», talvez dolomita) → aprovado por unanimidade
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=18185s)
+- **RD 68 (2024-12-02)**, 5.4.4 · relator **Caio Seabra** · Recurso contra cobrança de CFEM recolhida a menor em 2004 (valor citado ≈ R$ 258 mil, legenda incerta) → aprovado por unanimidade
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=18267s)
+- **RD 68 (2024-12-02)**, 5.4.5 · relator **Caio Seabra** · Recurso contra cobrança de CFEM de 1996 a 2007 (valor citado ≈ R$ 10,2 milhões, legenda incerta) → aprovado por unanimidade
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=18360s)
+- **RD 68 (2024-12-02)**, 5.5.1 · relator **Caio Seabra** · Pedido de reconsideração contra decisão da 65ª ROP (voto CS 341/2024) sobre indeferimento de requerimento de pesquisa por interferência total; pedido  → aprovado por maioria; vencido Mauro Sousa
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=18735s)
-- **RD 68 (2024-12-02)**, 5.6.1 · relator **Caio Seabra** · Recurso contra indeferimento de prorrogação de registro de licença → aprovado por unanimidade (não conhecido, intempestivo)
+- **RD 68 (2024-12-02)**, 5.6.1 · relator **Caio Seabra** · Recurso contra indeferimento de prorrogação de registro de licença (licença municipal vencida) → aprovado por unanimidade
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=18844s)
-- **RD 68 (2024-12-02)**, 5.7.1 · relator **Caio Seabra** · Pedido de reconsideração contra decisão da 64ª ROP (voto CS 274/2024) sobre prorrogação de prazo de exigência em requerimento de lavra → aprovado por maioria, vencido o DG Mauro Sousa
+- **RD 68 (2024-12-02)**, 5.7.1 · relator **Caio Seabra** · Pedido de reconsideração contra decisão da 64ª ROP (voto CS 274/2024) que manteve indeferimento de prorrogação de prazo para exigência em requerimento → aprovado por maioria; vencido Mauro Sousa
   - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=18934s)
 - **RD 31ª Reunião Extraordinária Pública (2024-12-06)**, extrapauta CFEM afetados · relator **Mauro Sousa** · Recursos em segunda instância contra a lista de municípios afetados por estruturas de mineração para repasse da CFEM (ciclo maio/2024–abril/2025; Reso → aprovado por unanimidade: provimento a Jucurutu e Maracás; provimento parcial a Piçarra; n
   - votos: Mauro: relator; Roger: acompanha; Caio: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=oyWHiNXpYkE&t=1072s)

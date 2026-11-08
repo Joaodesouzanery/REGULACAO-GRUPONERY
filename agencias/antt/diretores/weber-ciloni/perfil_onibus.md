@@ -5,7 +5,7 @@
 **Votos:** acompanha o relator 244 (97% dos votos em que não era relator) · relator 84 · vista pedida 1 · voto-vista divergente 0 · vencido 0 · outros/não captado 4
 **Como relator:** 77/84 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** onibus 333/84; onibus_regular 237/59; concessoes_rodoviarias 201/41; regulacao_normativa 158/32; institucional 156/33; fiscalizacao_sancoes 145/37; onibus_fretamento 116/25; ferrovias 112/29; judicializacao 104/22; reequilibrio_contratual 101/22; participacao_social 91/21; cargas 58/8; pedagio_freeflow 57/9; leilao_otimizacao 35/4; onibus_semiurbano 13/6; sandbox_inovacao 3/3; tarifa_modicidade 1/0; sustentabilidade 1/0
+**Temas (nº de itens em que votou / relatorias):** onibus 333/84; onibus_regular 237/59; concessoes_rodoviarias 200/41; regulacao_normativa 158/32; institucional 156/33; fiscalizacao_sancoes 145/37; onibus_fretamento 116/25; ferrovias 112/29; judicializacao 103/22; reequilibrio_contratual 100/22; participacao_social 91/21; cargas 58/8; pedagio_freeflow 56/9; leilao_otimizacao 35/4; onibus_semiurbano 13/6; sandbox_inovacao 3/3; tarifa_modicidade 1/0; sustentabilidade 1/0
 **Argumentos recorrentes nas justificativas registradas:** concorrência (6); eficiência/celeridade (2); evidência/dados (1); usuário (1); participação social (1); governança/rito (1)
 **Tom (inferência da leitura, não métrica):** propositivo | questionador | alta | crítico mas conciliador
 

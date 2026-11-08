@@ -1,0 +1,70 @@
+{
+ "meta": {
+  "video_id": "ata_REP_006",
+  "fonte": "ata oficial (sem vídeo)",
+  "url": "https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-6a-rep.pdf",
+  "ata": [
+   "REP",
+   6
+  ],
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "6ª Reunião Extraordinária Pública (só ata)",
+  "data": "2020-01-17",
+  "formato": "sem vídeo publicado",
+  "presidente_da_sessao": null,
+  "diretores_presentes": [
+   "Tasso Mendonça",
+   "Debora Puccini",
+   "Eduardo Leão"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "",
+   "reunião sem vídeo: dados da ata oficial; sem trecho literal nem minuto"
+  ]
+ },
+ "itens": [
+  {
+   "id": "1.1.1",
+   "ts": null,
+   "processo": "48403.005885/1960-73",
+   "interessado": null,
+   "assunto": "Aprovado por unanimidade dos presentes.",
+   "tema": [
+    "Aprovado por unanimidade dos presentes."
+   ],
+   "relator": "Eduardo Leão",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprovado por unanimidade dos presentes.",
+   "votos": [
+    {
+     "diretor": "Tasso Mendonça",
+     "voto": "acompanha o relator (ata: unanimidade dos presentes)",
+     "ts": null,
+     "justificativa": null,
+     "confianca": "ata"
+    },
+    {
+     "diretor": "Debora Puccini",
+     "voto": "acompanha o relator (ata: unanimidade dos presentes)",
+     "ts": null,
+     "justificativa": null,
+     "confianca": "ata"
+    },
+    {
+     "diretor": "Eduardo Leão",
+     "voto": "relator, voto aprovado (segundo a ata)",
+     "ts": null,
+     "justificativa": null,
+     "confianca": "ata"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Fonte única: ata oficial. Voto por diretor deduzido da lista de presentes e do resultado; temas não classificados."
+ ]
+}

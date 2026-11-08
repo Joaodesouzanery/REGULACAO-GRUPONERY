@@ -5,7 +5,7 @@ import json, re, sys, os, subprocess, datetime, unicodedata
 canal = sys.argv[1]; anos = int(sys.argv[2]) if len(sys.argv) > 2 else 0
 corte = datetime.date.today() - datetime.timedelta(days=365 * anos) if anos else datetime.date(1990, 1, 1)
 TIPOS = [  # (tipo, prioridade, regex) — primeira que casar vence
-    ("diretoria", 1, r"reuni[ãa]o.*diretoria|reuni[ãa]o p[úu]blica|sess[ãa]o deliberativa|\bRDP\b|board meeting|extraordinary board|diretoria colegiada"),
+    ("diretoria", 1, r"reuni[ãa]o.*diretoria|reuni[ãa]o p[úu]blica|sess[ãa]o deliberativa|\bRDP\b|board meeting|board of directors meeting|extraordinary board|diretoria colegiada"),
     ("audiencia", 2, r"audi[êe]ncias? p[úu]blicas?|public hearing|consulta p[úu]blica"),
     ("participativa", 3, r"reuni[ãa]o participativa|participatory meeting"),
     ("romeiros", 3, r"romeiros|caminho dos romeiros"),

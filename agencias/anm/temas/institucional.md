@@ -1,15 +1,37 @@
 # Itens do tema «institucional» (todos os diretores)
 
-- **RD 2ª Ordinária (2019-07-22)**, 1.1 · relator **None** · Aprovação das atas da 1ª Reunião Extraordinária (10/12) e da 1ª Reunião Ordinária → aprovadas (inferido)
+- **RD 2ª Ordinária (2019-03-19)**, 1.1 · relator **None** · Aprovação das atas da 1ª Reunião Extraordinária (10/12) e da 1ª Reunião Ordinária → aprovadas (inferido)
   - votos:  · [vídeo](https://www.youtube.com/watch?v=gI6Jtv59bYY&t=1s)
-- **RD 3ª Ordinária (2019-07-22)**, 1 · relator **None** · Aprovação da ata da reunião anterior → aprovada (inferido)
+- **RD 3ª Ordinária (2019-04-23)**, 1 · relator **None** · Aprovação da ata da reunião anterior → aprovada (inferido)
   - votos:  · [vídeo](https://www.youtube.com/watch?v=8A8BYpBAOPM&t=30s)
-- **RD 3ª Ordinária (2019-07-22)**, 3 · relator **None** · Sorteio de relatoria de blocos de processos entre os cinco diretores (recursos, disponibilidade, CFEM, PLG etc.) → sorteio realizado
+- **RD 3ª Ordinária (2019-04-23)**, 3 · relator **None** · Sorteio de relatoria de blocos de processos entre os cinco diretores (recursos, disponibilidade, CFEM, PLG etc.) → sorteio realizado
   - votos:  · [vídeo](https://www.youtube.com/watch?v=8A8BYpBAOPM&t=2700s)
 - **RD 1ª Reunião Extraordinária Pública (2019-09-06)**, 5 · relator **None** · Convalidação de 25 guias de utilização assinadas pelo DG entre abril e junho de 2019 sem deliberação prévia do colegiado → convalidado (unanimidade inferida)
   - votos: Tasso: acompanha; Eduardo: acompanha; Tomás: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=VY_K3xq1i1U&t=2889s)
 - **RD 1ª Reunião Extraordinária Pública (2019-09-06)**, 7 · relator **None** · Aprovação de relatórios de avaliação/reavaliação de reservas acumulados da antiga Diretoria-Geral → aprovado (unanimidade inferida)
   - votos: Tasso: acompanha; Eduardo: acompanha; Tomás: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=VY_K3xq1i1U&t=3646s)
+- **RD 8ª Reunião Ordinária Pública (só ata) (2019-09-17)**, 2.4.3 · relator **Victor Bicca** · 2.4.3. Processos nº 48411-815395/2018. Interessado(a): Cerâmica Floss Ltda ME. Assunto: Recurso de licenciamento. O item foi retirado de pauta, visto  → retirado de pauta
+  - votos: Victor: relator · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-8a-reuniao-ordinaria-publica-diretoria-colegiada.pdf)
+- **RD 2ª Reunião Extraordinária Pública (só ata) (2019-09-23)**, 2 · relator **None** · O Diretor-Geral e a Diretora Débora pediram vistas ao processo e sugeriram realização de nova Reunião Extraordinária Pública na próxima semana para tr → pedido de vista
+  - votos: Victor: nao_captado; Debora: vista; Eduardo: vista; Tasso: nao_captado · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-2a-reuniao-extraordinaria-publica-diretoria-colegiada.pdf)
+- **RD 3ª Reunião Extraordinária Pública (só ata) (2019-11-06)**, 1.1.7 · relator **Tasso Mendonça** · AE). Voto: Aprova-se o novo Plano de Aproveitamento Econômico conjunto dos Processos 807.286/1973, Cerâmica Rochedo Ltda, e 820.159/2005, Duas Matas A → outro
+  - votos: Tasso: relator · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-3a-reuniao-extraordinaria-publica-diretoria-colegiada.pdf)
+- **RD 11ª Reunião Ordinária Pública (só ata) (2019-12-10)**, 1.1.10 · relator **Victor Bicca** · Acatar o pedido de reconsideração contra o ato da SGM/MME, publicado no DOU de 16/01/2017. Como a competência da outorga de Concessão de Lavra para a  → aprovado por unanimidade
+  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-11a-reuniao-ordinaria-publica-diretoria-colegiada.pdf)
+- **RD 11ª Reunião Ordinária Pública (só ata) (2019-12-10)**, 1.2.3 · relator **Debora Puccini** · Considerando as análises técnicas das comissões julgadoras de disponibilidade da ANM/PA e ANM Sede, além de seus respectivos julgamentos e pontuações, → aprovado por unanimidade
+  - votos: Victor: acompanha; Debora: relator; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-11a-reuniao-ordinaria-publica-diretoria-colegiada.pdf)
+- **RD 11ª Reunião Ordinária Pública (só ata) (2019-12-10)**, 1.5.1 · relator **Tomás Filho** · Acatar a recomendação da Superintendência de Pesquisa e Recursos Minerais, expedindo a guia de utilização para extração de 60.000 toneladas de calcári → aprovado por unanimidade
+  - votos: Victor: acompanha; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: relator · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-11a-reuniao-ordinaria-publica-diretoria-colegiada.pdf)
+- **RD 11ª Reunião Ordinária Pública (só ata) (2019-12-10)**, 1.5.8 · relator **Tomás Filho** · Considerando que o requerimento de lavra se encontra devidamente instruído e, que a concessão de lavra de substâncias que trata o art. 1º da Lei nº 6. → aprovado por unanimidade
+  - votos: Victor: acompanha; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: relator · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-11a-reuniao-ordinaria-publica-diretoria-colegiada.pdf)
+- **RD 12ª Reunião Ordinária Pública (só ata) (2020-01-22)**, 1.1.9 · relator **None** · Adotar as providências necessárias à instauração do procedimento de nulidade do Alvará de Pesquisa nº 5.525/2014 referente ao processo 850.014/2011. V → aprovado por unanimidade
+  - votos: Victor: acompanha; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-12a-rop.pdf)
+- **RD 12ª Reunião Ordinária Pública (só ata) (2020-01-22)**, 1.2.3 · relator **Debora Puccini** · Considerando que a área do processo prioritário 871.495/2008 encontrava-se ativa e prioritária na data do requerimento de autorização de pesquisa do p → outro
+  - votos: Debora: relator · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-12a-rop.pdf)
+- **RD 7ª Reunião Extraordinária Pública (só ata) (2020-01-30)**, 1.1.2 · relator **None** · aprovada por unanimidade. Nada mais havendo a tratar, o Diretor-Geral agradeceu aos presentes e encerrou a 7ª Reunião Extraordinária Pública da Direto → aprovado por unanimidade
+  - votos: Victor: acompanha; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-7a-rep.pdf)
+- **RD 13ª Reunião Ordinária Pública (só ata) (2020-02-19)**, 1.4.29 · relator **Tomás Filho** · Aprovar por unanimidade a abertura de tomada de subsídios para revisão do estoque regulatório da Agência Nacional de Mineração – ANM, uma vez que proc → aprovado por unanimidade
+  - votos: Tasso: acompanha; Debora: acompanha; Eduardo: acompanha; Tomás: relator · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-13a-rop.pdf)
 - **RD 14ª Ordinária (2020-04-01)**, 1.1 · relator **Tasso Mendonça** · Referendo da Resolução ANM nº 28, de 24/03/2020 (DOU 26/03/2020): suspensão de prazos e obrigações de 20/03 a 30/04/2020 pela pandemia de covid-19 → referendada por unanimidade com alterações: prazo até 04/05/2020; inciso IV do art. 1º pas
   - votos: Tasso: relator; Victor: outro; Eduardo: outro; Tomás: outro; Debora: outro · [vídeo](https://www.youtube.com/watch?v=LrMidsf_ZrQ&t=0s)
 - **RD 15ª Ordinária (2020-04-15)**, 1.5.1 · relator **Tomás Filho** · Recursos contra indeferimento de prorrogação de alvará de pesquisa após decisão final do DG do DNPM: encaminhamento ao MME como recurso hierárquico im → aprovado por unanimidade
@@ -22,15 +44,35 @@
   - votos: Tomás: relator; Eduardo: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=XgYPPYFL8T0&t=3580s)
 - **RD 9ª Reunião Extraordinária Pública (2020-05-27)**, 2.13 · relator **Debora Puccini** · Recurso / pedido de reconsideração contra não aprovação de relatório final de pesquisa de ouro (RR); RFP levou ~8 anos para ser analisado → aprovado por maioria; Victor Bicca vencido em parte (acompanhou só o envio à Corregedoria)
   - votos: Debora: relator; Victor: vencido; Tasso: acompanha; Eduardo: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=XgYPPYFL8T0&t=9168s)
+- **RD 17ª Reunião Ordinária Pública (só ata) (2020-06-17)**, 1.5.11 · relator **Tomás Filho** · Considerando a prescrição do prazo no procedimento de caducidade instaurado, voto pelo arquivamento do mesmo. Porém, considerando os indícios de manut → aprovado por unanimidade
+  - votos: Victor: acompanha; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: relator · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-17a-rop.pdf)
+- **RD 17ª Reunião Ordinária Pública (só ata) (2020-06-17)**, 1.5.1 · relator **Tomás Filho** · Considerando que o requerimento de lavra se encontra devidamente instruído e, que a concessão de lavra de substâncias que trata o art. 1º da Lei nº 6. → aprovado por unanimidade
+  - votos: Victor: acompanha; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: relator · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-17a-rop.pdf)
+- **RD 17ª Reunião Ordinária Pública (só ata) (2020-06-17)**, 1.5.2 · relator **Tomás Filho** · Considerando que o requerimento de lavra se encontra devidamente instruído e, que a concessão de lavra de substâncias que trata o art. 1º da Lei nº 6. → aprovado por unanimidade
+  - votos: Victor: acompanha; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: relator · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-17a-rop.pdf)
+- **RD 17ª Reunião Ordinária Pública (só ata) (2020-06-17)**, 1.5.3 · relator **Tomás Filho** · Considerando que os requerimentos de lavra dos processos 27203.831964/1998-13, 27203.831725/2000-21, 27203.830984/2003-87, 27220.896359/2003-90, 48412 → outro
+  - votos: Tomás: relator · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-17a-rop.pdf)
+- **RD 17ª Reunião Ordinária Pública (só ata) (2020-06-17)**, 1.5.10 · relator **Tomás Filho** · Considerando a possibilidade de as benfeitorias necessárias às atividades de produção mineral serem instaladas dentro da poligonal do processo em refe → aprovado por unanimidade
+  - votos: Victor: acompanha; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: relator · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-17a-rop.pdf)
+- **RD 17ª Reunião Ordinária Pública (só ata) (2020-06-17)**, 1.4.7 · relator **Tasso Mendonça** · Diante do exposto nos autos, voto por não acatar o recurso interposto e manter o indeferimento ao requerimento do Registro de Licença do processo 860. → aprovado por unanimidade
+  - votos: Victor: acompanha; Debora: acompanha; Eduardo: acompanha; Tasso: relator; Tomás: acompanha · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-17a-rop.pdf)
+- **RD 17ª Reunião Ordinária Pública (só ata) (2020-06-17)**, 1.4.10 · relator **Tasso Mendonça** · Diante do exposto nos autos, voto por não acatar o recurso e manter o indeferimento do requerimento do Registro de Licença do processo 810.843/2015. V → aprovado por unanimidade
+  - votos: Victor: acompanha; Debora: acompanha; Eduardo: acompanha; Tasso: relator; Tomás: acompanha · [vídeo](https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/ata-17a-rop.pdf)
 - **RD 10ª Reunião Extraordinária Pública (2020-07-07)**, 1 · relator **Victor Bicca** · Referendo da Resolução ANM 39/2020 (ad referendum do DG), que alterou a Res. 28/2020 e prorrogou até 31/07/2020 a suspensão de prazos processuais e ma → referendado (todos acompanharam; o presidente da sessão falou em 'aprovado por maioria', m
   - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ArmmpxW5R5k&t=232s)
 - **RD 10ª Reunião Extraordinária Pública (2020-07-07)**, 2 — preliminar de perda de objeto · relator **Tomás Filho** · Preliminar suscitada por Tomás Filho: perda de objeto do referendo do despacho do DG de jan/2019, pois a decisão não atendeu ao Judiciário e foi super → preliminar abandonada: em vez de votá-la, o colegiado aceitou a proposta de Eduardo Leão d
   - votos: Tomás: outro; Debora: outro; Eduardo: outro; Tasso: outro; Victor: outro · [vídeo](https://www.youtube.com/watch?v=ArmmpxW5R5k&t=720s)
 - **RD 18ª Reunião Ordinária Pública (2020-07-22)**, 1.1.14 · relator **Victor Bicca** · Referendo de ato do DG que autorizou emissão de guia de utilização (quartzito/granito para brita) em junho/2020, a pedido urgente da empresa invocando → referendado por unanimidade
   - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=rDHG2v6FECg&t=3692s)
+- **RD 19ª Ordinária (2020-08-19)**, 5.11 · relator **Tomás Filho** · Revisão extraordinária da Agenda Regulatória 2020–2021 (NT 14/2020): reestruturação de eixos, inclusão de garantias para financiamento, meios alternat → aprovado por unanimidade
+  - votos: Tomás: relator; Eduardo: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=534s)
+- **RD 19ª Ordinária (2020-08-19)**, 1.1 · relator **Victor Bicca** · Referendo da Resolução ANM 41/2020 (prorroga suspensão de prazos processuais até 31/08/2020 pela pandemia de covid-19) → aprovado por unanimidade
+  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1061s)
+- **RD 19ª Ordinária (2020-08-19)**, 5.2 (vista) · relator **Eduardo Leão** · Pedido de prorrogação do prazo de voto-vista de Tomás Filho em processo de água mineral relatado por Eduardo Leão → prazo de vista prorrogado por mais uma sessão, por unanimidade
+  - votos: Tomás: outro; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=4009s)
 - **RD 12ª Reunião Extraordinária Pública (2020-08-31)**, 2 (com o item 3 incorporado) · relator **Eduardo Leão** · Prorrogação da vigência de títulos minerários (alvarás de pesquisa, guias de utilização, PLG, registros de licença), do prazo para requerer lavra e do → aprovado por unanimidade
   - votos: Eduardo: relator; Debora: acompanha; Tasso: acompanha; Tomás: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=9mdYU4s88zI&t=3260s)
-- **RD 20ª Reunião Ordinária Pública (2020-09-17)**, 1.1 · relator **Victor Bicca** · Referendo de atos do Diretor-Geral sobre procedimento de disponibilidade, praticados ad referendum por urgência no cumprimento de sentença judicial (p → aprovado por unanimidade (votação em bloco)
+- **RD 20ª Reunião Ordinária Pública (2020-09-16)**, 1.1 · relator **Victor Bicca** · Referendo de atos do Diretor-Geral sobre procedimento de disponibilidade, praticados ad referendum por urgência no cumprimento de sentença judicial (p → aprovado por unanimidade (votação em bloco)
   - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=_I172abmDgk&t=224s)
 - **RD 13ª Extraordinária (2020-11-03)**, 1 · relator **Victor Bicca** · Referendo do ato do Diretor-Geral de 28/10/2020 que aprovou retificações do Edital 1/2020 de disponibilidade de áreas após 29 impugnações (itens 5.2,  → referendado por unanimidade (4 votos)
   - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: outro · [vídeo](https://www.youtube.com/watch?v=wdeylnWC4Wk&t=189s)
@@ -44,27 +86,27 @@
   - votos: Tasso: relator; Carlos: acompanha; Debora: acompanha; Eduardo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=D6YYWHku_rk&t=4795s)
 - **RD 15ª Extraordinária (2020-12-18)**, 4.37 · relator **Tasso Mendonça** · Revalidação de alvarás de pesquisa de fosfato (banco de Davis, plataforma continental além de 200 milhas, ES) cancelados à espera da ONU/CLPC e recons → baixado em diligência à PFE (sem deliberação de mérito)
   - votos: Tasso: relator; Victor: outro; Debora: outro · [vídeo](https://www.youtube.com/watch?v=D6YYWHku_rk&t=5549s)
-- **RD 24 (2021-01-21)**, reg.1 · relator **Eduardo Leão** · Alteração das Resoluções ANM 28/2020 e 46/2020: prorroga até 30/6/2021 a suspensão de prazos processuais e materiais e a prorrogação automática de tít → aprovado por unanimidade
+- **RD 24 (2021-01-20)**, reg.1 · relator **Eduardo Leão** · Alteração das Resoluções ANM 28/2020 e 46/2020: prorroga até 30/6/2021 a suspensão de prazos processuais e materiais e a prorrogação automática de tít → aprovado por unanimidade
   - votos: Eduardo: relator; Tasso: acompanha; Debora: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=odUdOGtUxJs&t=174s)
-- **RD 24 (2021-01-21)**, 1.3 · relator **Victor Bicca** · Referendo do ato do DG (29/12/2020) que outorgou 18 portarias de lavra → aprovado por unanimidade
+- **RD 24 (2021-01-20)**, 1.3 · relator **Victor Bicca** · Referendo do ato do DG (29/12/2020) que outorgou 18 portarias de lavra → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Eduardo: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=odUdOGtUxJs&t=3604s)
-- **RD 25 (2021-02-25)**, 2.3.1 · relator **Debora Puccini** · Resolução que altera a Resolução ANM 16/2019 (protocolo digital) para adequar às assinaturas eletrônicas avançada e qualificada do gov.br (Lei 14.063/ → aprovado por unanimidade
+- **RD 25 (2021-02-24)**, 2.3.1 · relator **Debora Puccini** · Resolução que altera a Resolução ANM 16/2019 (protocolo digital) para adequar às assinaturas eletrônicas avançada e qualificada do gov.br (Lei 14.063/ → aprovado por unanimidade
   - votos: Debora: relator; Tasso: acompanha; Eduardo: acompanha; Carlos: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=69s)
-- **RD 25 (2021-02-25)**, 1.5.2 · relator **Eduardo Leão** · Aditamento da substância prata à portaria de lavra 171/2015 (GO) → aprovado por unanimidade
+- **RD 25 (2021-02-24)**, 1.5.2 · relator **Eduardo Leão** · Aditamento da substância prata à portaria de lavra 171/2015 (GO) → aprovado por unanimidade
   - votos: Eduardo: relator; Carlos: acompanha; Debora: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=74ccp5IarUk&t=357s)
-- **RD 26 (2021-03-25)**, 1.9.1 · relator **Victor Bicca** · Recurso contra despacho do Diretor-Geral que encaminhou ao MME processo de requerimento de lavra de calcário e micaxisto (indeferido pelo MME em 2012, → aprovado por unanimidade
+- **RD 26 (2021-03-24)**, 1.9.1 · relator **Victor Bicca** · Recurso contra despacho do Diretor-Geral que encaminhou ao MME processo de requerimento de lavra de calcário e micaxisto (indeferido pelo MME em 2012, → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=LX-5lXLbJqo&t=405s)
-- **RD 26 (2021-03-25)**, 1.1 · relator **Victor Bicca** · Referendo de atos do DG que retificaram o edital 2/2020 da 2ª rodada de disponibilidade (ajustes textuais e de cronograma por instabilidade do sistema → aprovado por unanimidade
+- **RD 26 (2021-03-24)**, 1.1 · relator **Victor Bicca** · Referendo de atos do DG que retificaram o edital 2/2020 da 2ª rodada de disponibilidade (ajustes textuais e de cronograma por instabilidade do sistema → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=LX-5lXLbJqo&t=4500s)
-- **RD 26 (2021-03-25)**, 1.2 · relator **Victor Bicca** · Referendo do termo de homologação e adjudicação do edital 1/2020 de disponibilidade (DOU 24/12/2020) → aprovado por unanimidade
+- **RD 26 (2021-03-24)**, 1.2 · relator **Victor Bicca** · Referendo do termo de homologação e adjudicação do edital 1/2020 de disponibilidade (DOU 24/12/2020) → aprovado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=LX-5lXLbJqo&t=4603s)
-- **RD 27 (2021-04-29)**, 3.1.1 · relator **Tasso Mendonça** · Nova resolução substituindo a Resolução ANM 79/2021 sobre acordos de cooperação técnica com estados, DF e municípios: equipe técnica mínima conforme o → aprovado por unanimidade
+- **RD 27 (2021-04-28)**, 3.1.1 · relator **Tasso Mendonça** · Nova resolução substituindo a Resolução ANM 79/2021 sobre acordos de cooperação técnica com estados, DF e municípios: equipe técnica mínima conforme o → aprovado por unanimidade
   - votos: Tasso: relator; Carlos: acompanha; Debora: acompanha; Aline: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=453s)
-- **RD 27 (2021-04-29)**, 2.7 · relator **Debora Puccini** · Pedido de reanálise de caducidade de concessão de lavra: reencaminhar à SGM/MME → aprovado por unanimidade
+- **RD 27 (2021-04-28)**, 2.7 · relator **Debora Puccini** · Pedido de reanálise de caducidade de concessão de lavra: reencaminhar à SGM/MME → aprovado por unanimidade
   - votos: Debora: relator; Tasso: acompanha; Carlos: acompanha; Aline: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=46t59aGfl6M&t=7797s)
-- **RD 28 (2021-05-27)**, 2.2 · relator **Debora Puccini** · Aditamento da substância prata a concessões de lavra de ouro → aprovado por unanimidade
+- **RD 28 (2021-05-26)**, 2.2 · relator **Debora Puccini** · Aditamento da substância prata a concessões de lavra de ouro → aprovado por unanimidade
   - votos: Debora: relator; Tasso: acompanha; Carlos: acompanha; Aline: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=7PICL_r4uQY&t=2840s)
-- **RD 18ª Extraordinária (2021-06-10)**, 1 · relator **Victor Bicca** · Referendo de atos do Diretor-Geral: aviso de retomada e retificação do Edital de disponibilidade de áreas nº 2 (2ª rodada) e termo de homologação e ad → referendado por unanimidade
+- **RD 18ª Extraordinária (2021-06-09)**, 1 · relator **Victor Bicca** · Referendo de atos do Diretor-Geral: aviso de retomada e retificação do Edital de disponibilidade de áreas nº 2 (2ª rodada) e termo de homologação e ad → referendado por unanimidade
   - votos: Victor: relator; Carlos: acompanha; Aline: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=t7x0qWSr-pU&t=125s)
 - **RD 30ª Ordinária (2021-07-21)**, 1.1 · relator **Victor Bicca** · Referendo da Resolução ANM 76/2021 (prorroga até 30/09/2021 a suspensão de prazos processuais e materiais pela covid-19, altera Resoluções 28 e 46/202 → referenda por unanimidade
   - votos: Victor: relator; Aline: acompanha; Tasso: acompanha; Debora: acompanha · [vídeo](https://www.youtube.com/watch?v=68PBR4uvQGg&t=3784s)
@@ -72,35 +114,29 @@
   - votos: Debora: relator; Tasso: acompanha; Aline: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=68PBR4uvQGg&t=5146s)
 - **RD 30ª Ordinária (2021-07-21)**, 4.2 · relator **Aline (substituta, sobrenome a confirmar)** · Aditamento da substância prata a título de lavra de ouro → aprova por unanimidade
   - votos: Aline: relator; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=68PBR4uvQGg&t=6579s)
-- **RD 32ª Ordinária (2021-09-23)**, 3.3 · relator **Tasso Mendonça** · Retificação de voto anterior (nº do processo 2005 e nome da cessionária) → aprova por unanimidade
+- **RD 32ª Ordinária (2021-09-22)**, 3.3 · relator **Tasso Mendonça** · Retificação de voto anterior (nº do processo 2005 e nome da cessionária) → aprova por unanimidade
   - votos: Tasso: relator; Guilherme: acompanha; Ronaldo: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=MvAqlzzmDR4&t=8751s)
-- **RD 33ª Ordinária (2021-10-21)**, 5.14.15 · relator **Guilherme Gomes** · Recurso (recebido como pedido de reconsideração) contra decisão colegiada de 2018/2019 que negou prorrogação de prazo para requerer lavra → aprovado por unanimidade (reconsideração; novo prazo improrrogável de 1 ano)
+- **RD 33ª Ordinária (2021-10-20)**, 5.14.15 · relator **Guilherme Gomes** · Recurso (recebido como pedido de reconsideração) contra decisão colegiada de 2018/2019 que negou prorrogação de prazo para requerer lavra → aprovado por unanimidade (reconsideração; novo prazo improrrogável de 1 ano)
   - votos: Guilherme: relator; Tasso: acompanha; Debora: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=5856s)
-- **RD 33ª Ordinária (2021-10-21)**, 1.1 · relator **Victor Bicca** · Referendo de ato do DG que autorizou retomada dos trabalhos de lavra (recesso de fim de ano) → referenda por unanimidade dos presentes
+- **RD 33ª Ordinária (2021-10-20)**, 1.1 · relator **Victor Bicca** · Referendo de ato do DG que autorizou retomada dos trabalhos de lavra (recesso de fim de ano) → referenda por unanimidade dos presentes
   - votos: Victor: relator; Guilherme: acompanha; Ronaldo: acompanha; Debora: acompanha; Tasso: outro · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=7728s)
-- **RD 33ª Ordinária (2021-10-21)**, 1.4 · relator **Victor Bicca** · Desbloqueio de área bloqueada em 2009 para o Arco Rodoviário Metropolitano do Rio → aprova por unanimidade dos presentes
+- **RD 33ª Ordinária (2021-10-20)**, 1.4 · relator **Victor Bicca** · Desbloqueio de área bloqueada em 2009 para o Arco Rodoviário Metropolitano do Rio → aprova por unanimidade dos presentes
   - votos: Victor: relator; Guilherme: acompanha; Ronaldo: acompanha; Debora: acompanha; Tasso: outro · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=7999s)
-- **RD 33ª Ordinária (2021-10-21)**, 4.5.1 · relator **Ronaldo Lima** · Pedido de reconsideração da caducidade de portaria de lavra de água mineral → dá provimento (anula caducidade) por unanimidade
+- **RD 33ª Ordinária (2021-10-20)**, 4.5.1 · relator **Ronaldo Lima** · Pedido de reconsideração da caducidade de portaria de lavra de água mineral → dá provimento (anula caducidade) por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=10803s)
-- **RD 33ª Ordinária (2021-10-21)**, 4.8.1 · relator **Ronaldo Lima** · Desmembramento por superfície horizontal (areia até 25 m sobre área de carvão da CPRM, RS) → aprova oitiva prévia da CPRM por unanimidade
+- **RD 33ª Ordinária (2021-10-20)**, 4.8.1 · relator **Ronaldo Lima** · Desmembramento por superfície horizontal (areia até 25 m sobre área de carvão da CPRM, RS) → aprova oitiva prévia da CPRM por unanimidade
   - votos: Ronaldo: relator; Guilherme: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=-kSt1hHHT4o&t=11281s)
-- **RD 37ª Ordinária (2022-02-24)**, 1.1 · relator **Victor Bicca** · Referendo de ato do DG que retificou guia de utilização para 50 mil t → aprovado por unanimidade (diretores presentes)
+- **RD 37ª Ordinária (2022-02-23)**, 1.1 · relator **Victor Bicca** · Referendo de ato do DG que retificou guia de utilização para 50 mil t → aprovado por unanimidade (diretores presentes)
   - votos: Victor: relator; Júlio: acompanha; Roger: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=vip9HNOV1IA&t=3020s)
-- **RD 19ª Ordinária (2022-03-07)**, 5.11 · relator **Tomás Filho** · Revisão extraordinária da Agenda Regulatória 2020–2021 (NT 14/2020): reestruturação de eixos, inclusão de garantias para financiamento, meios alternat → aprovado por unanimidade
-  - votos: Tomás: relator; Eduardo: acompanha; Tasso: acompanha; Debora: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=534s)
-- **RD 19ª Ordinária (2022-03-07)**, 1.1 · relator **Victor Bicca** · Referendo da Resolução ANM 41/2020 (prorroga suspensão de prazos processuais até 31/08/2020 pela pandemia de covid-19) → aprovado por unanimidade
-  - votos: Victor: relator; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Tomás: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=1061s)
-- **RD 19ª Ordinária (2022-03-07)**, 5.2 (vista) · relator **Eduardo Leão** · Pedido de prorrogação do prazo de voto-vista de Tomás Filho em processo de água mineral relatado por Eduardo Leão → prazo de vista prorrogado por mais uma sessão, por unanimidade
-  - votos: Tomás: outro; Debora: acompanha; Eduardo: acompanha; Tasso: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=ro0VxnsCfuQ&t=4009s)
-- **RD 38ª Ordinária (2022-03-31)**, 1.1 · relator **Victor Bicca** · Referendo de atos do Diretor-Geral: retificação da 5ª rodada de disponibilidade de áreas, recurso contra indeferimento de mudança de regime e emissão  → aprovado por unanimidade (diretores presentes)
+- **RD 38ª Ordinária (2022-03-30)**, 1.1 · relator **Victor Bicca** · Referendo de atos do Diretor-Geral: retificação da 5ª rodada de disponibilidade de áreas, recurso contra indeferimento de mudança de regime e emissão  → aprovado por unanimidade (diretores presentes)
   - votos: Victor: relator; Roger: acompanha; Júlio: acompanha; Ronaldo: acompanha · [vídeo](https://www.youtube.com/watch?v=dGwZYiw_lh0&t=492s)
-- **RD 23ª Extraordinária (2022-04-14)**, 3.2 · relator **Roger Cabral** · Agenda Regulatória 2022–2023 (agenda prioritária e agenda indicativa; seis eixos: transversal, sustentabilidade/garantia financeira, pesquisa, lavra,  → aprovado por unanimidade
+- **RD 23ª Extraordinária (2022-04-13)**, 3.2 · relator **Roger Cabral** · Agenda Regulatória 2022–2023 (agenda prioritária e agenda indicativa; seis eixos: transversal, sustentabilidade/garantia financeira, pesquisa, lavra,  → aprovado por unanimidade
   - votos: Roger: relator; Guilherme: acompanha; Ronaldo: acompanha; Júlio: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=kRdgQR2qanY&t=1601s)
-- **RD 40ª Ordinária (2022-05-26)**, 1.1 · relator **Victor Bicca** · Referendo de atos do DG que retificaram o cronograma da 5ª rodada de disponibilidade de áreas (edital 3/2021) → aprovado por unanimidade
+- **RD 40ª Ordinária (2022-05-25)**, 1.1 · relator **Victor Bicca** · Referendo de atos do DG que retificaram o cronograma da 5ª rodada de disponibilidade de áreas (edital 3/2021) → aprovado por unanimidade
   - votos: Victor: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=SbPNijlkM18&t=1287s)
-- **RD 41ª Ordinária (2022-06-30)**, 1.1 · relator **Victor Bicca** · Referendo de decisão do DG sobre emissão de guia de utilização → aprovado por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 1.1 · relator **Victor Bicca** · Referendo de decisão do DG sobre emissão de guia de utilização → aprovado por unanimidade
   - votos: Victor: relator; Ronaldo: acompanha; Tasso: acompanha; Roger: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=2943s)
-- **RD 41ª Ordinária (2022-06-30)**, 5.1 · relator **Roger Cabral** · Recurso intempestivo; despacho regional que concedeu de ofício prazo complementar de pesquisa tornado sem efeito; envio de cópia à CGU por indícios de → aprovado por unanimidade
+- **RD 41ª Ordinária (2022-06-29)**, 5.1 · relator **Roger Cabral** · Recurso intempestivo; despacho regional que concedeu de ofício prazo complementar de pesquisa tornado sem efeito; envio de cópia à CGU por indícios de → aprovado por unanimidade
   - votos: Roger: relator; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha; Victor: acompanha · [vídeo](https://www.youtube.com/watch?v=nhJ0ZIPshI4&t=8442s)
 - **RD 42ª Reunião Ordinária Pública (2022-07-27)**, 1.1 · relator **Victor Bicca** · Referendo de atos do DG: Resolução ANM 111/2022 (altera Res. 46/2020) e retificação do cronograma da 5ª rodada de disponibilidade → referendados (unanimidade)
   - votos: Victor: relator; Guilherme: acompanha; Tasso: acompanha; Ronaldo: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=qNoGxBv5WKY&t=3586s)
@@ -118,9 +154,9 @@
   - votos: Mauro: relator; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Júlio: acompanha · [vídeo](https://www.youtube.com/watch?v=UfKJpb9ZVZA&t=8230s)
 - **RD 47 (2023-01-25)**, 4.1.1 · relator **Roger Cabral** · Recurso contra negativa de acesso integral aos autos de processos minerários de terceiro (Paraná) → aprovado por unanimidade
   - votos: Roger: relator; Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Júlio: acompanha · [vídeo](https://www.youtube.com/watch?v=UfKJpb9ZVZA&t=12182s)
-- **RD 49 (2023-03-28)**, 4.1-Roger · relator **Roger Cabral** · Alteração do §1º do art. 42 da Portaria 155/2016 — limite geográfico da Amazônia Legal (divergência entre área técnica e Procuradoria; Tocantins) → aprovado por unanimidade
+- **RD 49 (2023-03-27)**, 4.1-Roger · relator **Roger Cabral** · Alteração do §1º do art. 42 da Portaria 155/2016 — limite geográfico da Amazônia Legal (divergência entre área técnica e Procuradoria; Tocantins) → aprovado por unanimidade
   - votos: Roger: relator; Mauro: acompanha; Guilherme: acompanha; Júlio: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=217s)
-- **RD 49 (2023-03-28)**, 1.1 · relator **Mauro Sousa** · Referendo de atos do Diretor-Geral: cancelamento da 7ª rodada de disponibilidade de áreas (falhas do sistema); Resolução 131 (alçada e apreciação técn → referendado por unanimidade
+- **RD 49 (2023-03-27)**, 1.1 · relator **Mauro Sousa** · Referendo de atos do Diretor-Geral: cancelamento da 7ª rodada de disponibilidade de áreas (falhas do sistema); Resolução 131 (alçada e apreciação técn → referendado por unanimidade
   - votos: Mauro: relator; Guilherme: acompanha; Júlio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=OKRmfILwpWY&t=668s)
 - **RD 51 (2023-07-07)**, 1.1.1-1.1.3 · relator **Mauro Sousa** · Referendo de atos do Diretor-Geral: prorrogação de prazos da resolução de multas em revisão; autorização de disposição de rejeitos em barragem com DCE → referendado por unanimidade
   - votos: Mauro: relator; Roger: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=nqVyPAM43j0&t=6270s)
@@ -134,12 +170,12 @@
   - votos: Guilherme: relator; Caio: vista; Mauro: outro; Roger: outro; Tasso: outro · [vídeo](https://www.youtube.com/watch?v=S2GK8_S3FH4&t=14242s)
 - **RD 53ª Reunião Ordinária Pública (2023-09-05)**, 4.12.1 · relator **Roger Cabral** · Pedido de reconsideração contra decisão da diretoria (voto RC 308) que negou renovação de PLG: Roger reconsidera e anula atos posteriores à decisão da → pedido de vista (Mauro Sousa)
   - votos: Roger: relator; Mauro: vista; Guilherme: outro; Tasso: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=S2GK8_S3FH4&t=17980s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 1.4.1 · relator **Mauro Sousa** · Definição da alternativa para barragens com comunidade na ZAS (art. 54 Res. ANM 95/2022; art. 18 Lei 12.334): descaracterizar Cachoeirinha e reforçar  → aprovado por unanimidade (após confusão se teria sido retirado de pauta)
-  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=11185s)
-- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-11)**, 1.13.1 · relator **Roger Cabral** · Voto-vista de Mauro sobre pedido de reconsideração contra decisão unânime (voto RC 308/2023) que negou renovação de PLG; Roger, relator, trouxe novo v → voto do relator (Roger, novo voto) aprovado por maioria (proclamação); Mauro anunciou que 
-  - votos: Mauro: revisor_diverge; Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=14231s)
-- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-12)**, 5.13.1 · relator **Caio Seabra** · Convalidação de guia de utilização (16.000 t/ano de quartzito) emitida por superintendente sem competência → pedido de vista (Mauro Sousa)
+- **RD 54ª Reunião Ordinária Pública (parte 2) (2023-10-10)**, 5.13.1 · relator **Caio Seabra** · Convalidação de guia de utilização (16.000 t/ano de quartzito) emitida por superintendente sem competência → pedido de vista (Mauro Sousa)
   - votos: Caio: relator; Mauro: vista · [vídeo](https://www.youtube.com/watch?v=JlETWgT1mkk&t=3590s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 1.4.1 · relator **Mauro Sousa** · Definição da alternativa para barragens com comunidade na ZAS (art. 54 Res. ANM 95/2022; art. 18 Lei 12.334): descaracterizar Cachoeirinha e reforçar  → aprovado por unanimidade (após confusão se teria sido retirado de pauta)
+  - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=11185s)
+- **RD 54ª Reunião Ordinária Pública (parte 1) (2023-10-10)**, 1.13.1 · relator **Roger Cabral** · Voto-vista de Mauro sobre pedido de reconsideração contra decisão unânime (voto RC 308/2023) que negou renovação de PLG; Roger, relator, trouxe novo v → voto do relator (Roger, novo voto) aprovado por maioria (proclamação); Mauro anunciou que 
+  - votos: Mauro: revisor_diverge; Roger: relator; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=kv-mpApDoJU&t=14231s)
 - **RD 56ª Reunião Ordinária Pública (2023-11-22)**, 1.1.1 · relator **Mauro Sousa** · Referendo de ato do Diretor-Geral: cumprimento de decisão judicial (tutela de urgência) suspendendo alvará de pesquisa → referendado por unanimidade
   - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Yuri: acompanha; Roger: acompanha · [vídeo](https://www.youtube.com/watch?v=0Ck4xPkfL6Q&t=2182s)
 - **RD 56ª Reunião Ordinária Pública (2023-11-22)**, 1.1.2 · relator **Mauro Sousa** · Referendo: suspensão de alvará de pesquisa e de guia de utilização por decisão judicial → referendado por unanimidade
@@ -176,24 +212,30 @@
   - votos: Guilherme: revisor_acompanha; Tasso: revisor_acompanha; Mauro: outro; Caio: vista · [vídeo](https://www.youtube.com/watch?v=8Fj3c7cQucw&t=20974s)
 - **RD 63 (2024-07-08)**, 5.1.1 · relator **Caio Seabra** · Voto-vista: pedido de prorrogação do prazo para apresentar o voto-vista (art. 11 do Regimento Interno; digitalização concluída em 28/6) → prorrogação aprovada por unanimidade
   - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=8Fj3c7cQucw&t=27834s)
-- **RD 65 (2024-08-26)**, ata · relator **Mauro Sousa** · Aprovação das atas da 63ª e 64ª Reuniões Ordinárias Públicas → aprovadas por unanimidade
-  - votos: Mauro: outro; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=1830s)
-- **RD 65 (2024-08-26)**, 2.x-retirados · relator **Guilherme Gomes** · Itens retirados de pauta por Guilherme Gomes: 2.1.1, 2.1.5, 2.2.1, 2.2.2, 2.3.1-2.3.3, 2.3.6-2.3.8 (2.3.7-2.3.8 tinham sustentação oral) e 2.3.16-2.3. → retirados de pauta
-  - votos: Mauro: outro; Tasso: outro; Guilherme: outro; Roger: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=6662s)
-- **RD 65 (2024-08-26)**, 3.1.1 · relator **Tasso Mendonça** · Aprovação de projeto técnico de salvamento paleontológico (Formação Irati, mesossauros), por demanda do MPF → aprovado por unanimidade
-  - votos: Mauro: acompanha; Tasso: relator; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=9306s)
-- **RD 65 (2024-08-26)**, 3.4.1-3.7.2/3.9.1 · relator **Tasso Mendonça** · Itens retirados de pauta por Tasso Mendonça (3.4.1, 3.4.2, 3.5.1, 3.5.2, 3.6.1, 3.7.1, 3.7.2, 3.9.1) → retirados de pauta
-  - votos: Mauro: outro; Tasso: outro; Guilherme: outro; Roger: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=9306s)
-- **RD 65 (2024-08-26)**, 4.x-retirados · relator **Roger Cabral** · Itens retirados de pauta por Roger Cabral: 4.2.2, 4.5.1, 4.5.2, 4.7.1 → retirados de pauta
-  - votos: Mauro: outro; Tasso: outro; Guilherme: outro; Roger: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=12172s)
-- **RD 65 (2024-08-26)**, 5.1.1-5.1.4/5.2.1 · relator **Caio Seabra** · Pedidos de prorrogação de prazo para apresentar votos-vista (complexidade) → aprovados por unanimidade
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: outro · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=14743s)
+- **RD 65 (2024-08-26)**, 1.8.1 · relator **Mauro Sousa** · Pedido de reconsideração contra decisão da Diretoria (4ª/45ª ROP, 2023) que declarou nulo o alvará de pesquisa 10.455/2013 → deliberação sobrestada — pedido de vista de Guilherme Gomes
+  - votos: Mauro: relator; Guilherme: vista · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=5671s)
+- **RD 65 (2024-08-26)**, 3.1.1 · relator **Tasso Mendonça** · Aprovação de projeto técnico de salvamento paleontológico (Formação Irati, Mesosaurus/Brazilosaurus) após demanda do MPF → aprovado por unanimidade
+  - votos: Tasso: relator; Mauro: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=9359s)
+- **RD 65 (2024-08-26)**, 5.1.1 · relator **Caio Seabra** · Voto-vista: pedido de prorrogação do prazo para apresentar o voto-vista (complexidade do tema) → aprovado por unanimidade — prazo prorrogado
+  - votos: Caio: revisor_acompanha; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=14796s)
+- **RD 65 (2024-08-26)**, 5.1.2 · relator **Caio Seabra** · Voto-vista: pedido de prorrogação do prazo para apresentar o voto-vista (complexidade do tema) → aprovado por unanimidade — prazo prorrogado
+  - votos: Caio: revisor_acompanha; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=14796s)
+- **RD 65 (2024-08-26)**, 5.1.3 · relator **Caio Seabra** · Voto-vista: pedido de prorrogação do prazo para apresentar o voto-vista (complexidade do tema) → aprovado por unanimidade — prazo prorrogado
+  - votos: Caio: revisor_acompanha; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=14796s)
+- **RD 65 (2024-08-26)**, 5.1.4 · relator **Caio Seabra** · Voto-vista: pedido de prorrogação do prazo para apresentar o voto-vista (complexidade do tema) → aprovado por unanimidade — prazo prorrogado
+  - votos: Caio: revisor_acompanha; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=14796s)
+- **RD 65 (2024-08-26)**, 5.2.1 · relator **Caio Seabra** · Voto-vista: pedido de prorrogação do prazo para apresentar o voto-vista (complexidade do tema) → aprovado por unanimidade — prazo prorrogado
+  - votos: Caio: revisor_acompanha; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=14796s)
+- **RD 65 (2024-08-26)**, 5.3.1 · relator **Caio Seabra** · Pedido para tornar sem efeito bloqueio de área (art. 42 do Código) por suposta interferência com o Complexo Petroquímico da Petrobras (Comperj) → aprovado por unanimidade — bloqueio tornado sem efeito
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=GM7THmHd4zU&t=14832s)
 - **RD 66 (2024-10-07)**, ata · relator **Mauro Sousa** · Aprovação da ata da 65ª Reunião Ordinária Pública → aprovada por unanimidade
-  - votos: Mauro: outro; Tasso: acompanha; Guilherme: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=1186s)
-- **RD 66 (2024-10-07)**, 3.5.2/3.6.1/3.8.1 · relator **Tasso Mendonça** · Itens retirados de pauta pelo relator Tasso Mendonça (anunciados como 352, 361 e 381) → retirados de pauta
-  - votos: Mauro: outro; Tasso: outro; Guilherme: outro; Roger: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=26775s)
-- **RD 66 (2024-10-07)**, 4.1.1 · relator **Roger Cabral** · Minuta de resolução que altera 17 artigos da Portaria DNPM 155/2016 para dispensar reconhecimento de firma e adotar assinatura eletrônica (qualificada → aprovado por unanimidade
-  - votos: Mauro: acompanha; Tasso: acompanha; Guilherme: acompanha; Roger: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=29019s)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=1220s)
+- **RD 66 (2024-10-07)**, 2.7.1 · relator **Mauro Sousa** · Voto-vista (revisor): pedido de reconsideração contra a declaração de nulidade do alvará de pesquisa 10.455/2013 (decidida na 5ª ROP); disputa de prio → deliberação sobrestada por pedido de vista do diretor Tasso Mendonça
+  - votos: Guilherme: revisor_diverge; Mauro: revisor_acompanha; Tasso: vista · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=16050s)
+- **RD 66 (2024-10-07)**, 4.1.1 · relator **Roger Cabral** · Minuta de resolução que altera 17 artigos da Portaria DNPM 155/2016 (Consolidação Normativa) para dispensar reconhecimento de firma e admitir assinatu → aprovado por unanimidade
+  - votos: Roger: relator; Mauro: acompanha; Guilherme: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=29081s)
+- **RD 66 (2024-10-07)**, 5.6.1 · relator **Caio Seabra** · Requerimento de guia de utilização de 75 mil t/ano de areia e 45 mil t/ano de argila por 3 anos; SPU-MG pediu cancelamento do alvará por ser área da U → aprovado por unanimidade
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=33319s)
 - **RD 67ª Reunião Ordinária Pública (Parte 02) (2024-11-04)**, 1.6.1 · relator **Mauro Sousa** · Referendo de ato do Diretor-Geral que suspendeu, por ordem judicial (agravo de instrumento), a deliberação da 65ª ROP (voto GG 759/2024) sobre intempe → aprovado por maioria, vencido Guilherme Gomes
   - votos: Mauro: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EpUH2BErxWU&t=17086s)
 - **RD 67ª Reunião Ordinária Pública (Parte 02) (2024-11-04)**, 1.8.1 · relator **Caio Seabra** · Voto-vista: recurso contra indeferimento de guia de utilização (quartzito, Bahia) e convalidação da GU 02/2021 emitida por superintendente substituto  → aprovado por unanimidade o voto revisor de Mauro Sousa, com adesão do relator original Cai
@@ -202,8 +244,22 @@
   - votos: Roger: relator; Caio: revisor_acompanha; Mauro: outro; Guilherme: acompanha; Tasso: acompanha · [vídeo](https://www.youtube.com/watch?v=GVCVhAj980Y&t=5538s)
 - **RD 30ª Reunião Extraordinária Pública (2024-11-22)**, 2.6.1 · relator **Guilherme Gomes** · Alteração do art. 5º da Resolução ANM 24/2020: retirar a exigência de que a disputa por áreas em disponibilidade ocorra exclusivamente em plataforma e → aprovado por unanimidade, com dispensa de AIR e de participação social
   - votos: Guilherme: relator; Tasso: acompanha; Roger: acompanha; Caio: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=x_q7U7MZEZQ&t=1361s)
-- **RD 68 (2024-12-02)**, questão de ordem — reunião extraordinária (Luz Mineração) · relator **Mauro Sousa** · Pedido para julgar o voto-vista de Tasso sobre o alvará da Luz antes do fim do mandato de Guilherme Gomes, diante de liminar da Justiça Federal do DF; → aprovado por unanimidade, com impedimento declarado de Guilherme Gomes
-  - votos: Mauro: outro; Guilherme: outro; Tasso: acompanha; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=2423s)
+- **RD 68 (2024-12-02)**, questão de ordem — reunião extraordinária (Luz Mineração) · relator **Mauro Sousa** · Pedido da advogada para julgar na sessão (ou até quarta-feira, último dia do mandato de Guilherme Gomes) o voto-vista de Tasso Mendonça sobre a nulida → aprovado por unanimidade (convocação da extraordinária), com impedimento declarado de Guil
+  - votos: Mauro: outro; Tasso: acompanha; Guilherme: outro; Roger: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=2423s)
+- **RD 68 (2024-12-02)**, ata da 67ª ROP · relator **Mauro Sousa** · Aprovação da ata da 67ª Reunião Ordinária Pública → aprovada por unanimidade
+  - votos: Mauro: outro; Tasso: outro; Guilherme: outro; Roger: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=3370s)
+- **RD 68 (2024-12-02)**, 2.6.1 · relator **Guilherme Gomes** · Retirado de pauta pelo relator → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=4690s)
+- **RD 68 (2024-12-02)**, 4.7.1 e 4.7.3 · relator **Roger Cabral** · Retirados de pauta pelo relator → retirados de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=14612s)
+- **RD 68 (2024-12-02)**, 4.6.1 · relator **Roger Cabral** · Recurso/reconsideração contra despacho que averbou «incorporação» do alvará de pesquisa de manganês (Marabá-PA) pela integralização no contrato social → sobrestado: pedido de vista de Guilherme Gomes
+  - votos: Roger: relator; Guilherme: vista; Mauro: acompanha; Tasso: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=15748s)
+- **RD 68 (2024-12-02)**, 5.3.1 · relator **Caio Seabra** · Retirado de pauta pelo relator → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=18094s)
+- **RD 68 (2024-12-02)**, 5.5.1 · relator **Caio Seabra** · Pedido de reconsideração contra decisão da 65ª ROP (voto CS 341/2024) sobre indeferimento de requerimento de pesquisa por interferência total; pedido  → aprovado por maioria; vencido Mauro Sousa
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=18735s)
+- **RD 68 (2024-12-02)**, 5.7.1 · relator **Caio Seabra** · Pedido de reconsideração contra decisão da 64ª ROP (voto CS 274/2024) que manteve indeferimento de prorrogação de prazo para exigência em requerimento → aprovado por maioria; vencido Mauro Sousa
+  - votos: Caio: relator; Guilherme: acompanha; Tasso: acompanha; Roger: acompanha; Mauro: vencido · [vídeo](https://www.youtube.com/watch?v=gcl-4SBqMu0&t=18934s)
 - **RD 69 (2024-12-18)**, 5.1.1 · relator **Caio Seabra** · Agenda Regulatória 2025–2026 (22 temas prioritários em 6 eixos e agenda indicativa) → aprovado por unanimidade dos presentes; vigência em 02/01/2025
   - votos: Caio: relator; Tasso: acompanha; Mauro: acompanha · [vídeo](https://www.youtube.com/watch?v=PPaw9lNsgZo&t=7244s)
 - **RD 70 (2025-01-30)**, 3.8.1 · relator **Tasso Mendonça** · Recurso contra negativa de pedido de vistas e cópias de processo minerário (pedido de sigilo pelo titular) → aprovado por unanimidade

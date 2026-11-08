@@ -4,7 +4,7 @@ description: Formato obrigatório (ficha fixa) para responder perguntas sobre di
 ---
 # Resposta com evidência (ficha fixa)
 
-1. `python3 pipeline/05_indexar.py` (se a base mudou) e `python3 pipeline/consulta.py ficha "<diretor>" [--tema <tema>]` (temas: `consulta.py temas`). Para empresa/assunto: `consulta.py busca "<texto>"`; falas literais: `consulta.py trecho "<texto>"`; eventos: `consulta.py falas <nome>`.
+1. `python3 pipeline/05_indexar.py` (se a base mudou) e `python3 pipeline/consulta.py ficha "<diretor>" [--tema <tema>]` (temas: `consulta.py temas`). Para empresa: `consulta.py empresa <nome|sigla>` (histórico, desfechos, relatores, votos por diretor); microtema: `consulta.py microtema <microtema> [--diretor X]`; casos parecidos: `consulta.py precedentes "<texto>"`; relator provável: `consulta.py relator <empresa|microtema>`; assunto livre: `consulta.py busca "<texto>"`; falas literais: `consulta.py trecho "<texto>"`; eventos: `consulta.py falas <nome>`.
 2. Leia as evidências e escreva SEMPRE nesta ordem:
    1. **Resposta curta** (2 linhas): o padrão observado e o porquê (argumentos recorrentes).
    2. **Números**: n de votos, período, relatorias, % acompanha, vistas, divergências, vencido.

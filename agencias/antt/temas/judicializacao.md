@@ -51,7 +51,7 @@
 - **RD 819 (2019-07-23)**, 2.2.2 · relator **Elisabeth Braga** · Recurso administrativo — pede suspender efeitos da Portaria 15/2017, que excluiu mercados indevidamente incluídos na LOP 108; sustentação oral havia o → aprovado por unanimidade — acolhida a proposta da SUPAS; Portaria 15/2017 revogada
   - votos: Elisabeth: relator; Marcelo: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=aN2OZHj7G1c&t=368s)
 - **RD 820 (2019-07-30)**, 2.3.5 · relator **Elisabeth Braga** · Anuência prévia para transferência de mercados (linhas) do Consórcio Guanabara para a Real Expresso, com sustentação oral do advogado do consórcio; di → pedido de vista; sem decisão na sessão
-  - votos: Elisabeth: relator; Davi: vista; Marcelo: outro; Mário: outro · [vídeo](https://www.youtube.com/watch?v=wTsJa3zoysI&t=415s)
+  - votos: Elisabeth: relator; Marcelo: outro; Mário: outro · [vídeo](https://www.youtube.com/watch?v=wTsJa3zoysI&t=415s)
 - **RD 820 (2019-07-30)**, 2.1.1 · relator **Mário Rodrigues Junior** · Referendo da Deliberação 757/2019 que autorizou afastamento de servidor para doutorado em políticas públicas (cumprimento de decisão judicial em manda → aprovado por unanimidade
   - votos: Marcelo: acompanha; Elisabeth: acompanha; Davi: acompanha; Mário: relator · [vídeo](https://www.youtube.com/watch?v=wTsJa3zoysI&t=1437s)
 - **RD 820 (2019-07-30)**, 2.3.6 · relator **Elisabeth Braga** · Pedido de implantação de seção/linha Luís Eduardo Magalhães (BA) - Timon (MA) - Corrente (PI); mercados operados por decisão judicial → indeferido por unanimidade
@@ -199,7 +199,7 @@
 - **RD 865 (2020-07-21)**, 2.2.3 · relator **Davi Barreto** · Qualificação do contrato de concessão da BR-163/MS para relicitação (Lei 13.448/2017; Decreto 9.957/2019) → aprovado por unanimidade
   - votos: Davi: relator; Alexandre: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=EFqrNJhKrSo&t=1002s)
 - **RD 867 (2020-08-04)**, 2.2.4 · relator **Davi Barreto** · 12ª revisão ordinária, 14ª revisão extraordinária e reajuste da tarifa básica de pedágio; termos aditivos para inclusão do Contorno de Florianópolis ( → aprovado por maioria (um voto divergente/ressalvas)
-  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=Y2XuL68vXN4&t=1661s)
+  - votos: Davi: relator; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=Y2XuL68vXN4&t=1661s)
 - **RD 868 (2020-08-11)**, 2.2.2 · relator **Davi Barreto** · Recurso administrativo contra a Deliberação 314/2020, que aprovou o apêndice 4 do relatório da AP 14/2017 (Ferrogrão); pede nulidade e efeito suspensi → aprovado por unanimidade — recurso conhecido e improvido
   - votos: Davi: relator; Weber: acompanha; Eduardo: acompanha; Marcelo: acompanha; Alexandre: nao_captado · [vídeo](https://www.youtube.com/watch?v=OwXT6_HIJz0&t=936s)
 - **RD 870 (2020-09-01)**, Extrapauta · relator **Alexandre Porto** · Prorrogação do prazo do art. 3º da Deliberação 329/2020 (45 dias, expirado em 31/08/2020) para assinatura do primeiro termo aditivo da relicitação, po → aprovado por unanimidade

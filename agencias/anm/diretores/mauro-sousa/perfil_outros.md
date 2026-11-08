@@ -1,17 +1,19 @@
 # Perfil analítico — Mauro Sousa · tema: outros
 
-**Amostra:** presente em 57 das 59 reuniões analisadas em que há registro de presença/ausência; 14 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 57 das 59 reuniões analisadas em que há registro de presença/ausência; 16 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 11 (91% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
+**Votos:** acompanha o relator 13 (92% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
 **Como relator:** 1/2 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** recursos_recursais 1326/233; outorga_titulos 1031/190; cfem_arrecadacao 448/78; agregados_construcao 398/80; fiscalizacao_sancoes 299/48; garimpo_pla 140/12; ambiental_social 111/21; regulacao_normativa 87/20; judicializacao 86/23; institucional 78/20; minerais_criticos 55/7; barragens_seguranca 51/10; participacao_social 16/3; outros 14/2
+**Temas (nº de itens em que votou / relatorias):** recursos_recursais 1446/238; outorga_titulos 1109/195; cfem_arrecadacao 492/78; agregados_construcao 423/80; fiscalizacao_sancoes 343/49; garimpo_pla 140/12; ambiental_social 119/22; regulacao_normativa 89/20; judicializacao 88/23; institucional 84/21; minerais_criticos 57/7; barragens_seguranca 53/11; participacao_social 17/3; outros 16/2
 **Argumentos recorrentes nas justificativas registradas:** sustentabilidade (1)
 
 ## Evidências (reunião · item · voto · justificativa)
 
 - **RD 46 (2022-12-14)**, item 1.1.1-1.1.3, 1.1.6 — Processos devolvidos à origem por não exigirem deliberação colegiada · voto: *relator, retira de pauta* (relator, conf. media) · [vídeo](https://www.youtube.com/watch?v=cXfuSmk0BVs&t=6120s) · resultado: retirados de pauta
 - **RD 53ª Reunião Ordinária Pública (2023-09-05)**, item 3.3.x — Ampliação volumétrica de guia de utilização de minério de ferro para 1 milhão t/ano (Pará; acima do Anexo IV da Portaria 155) · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=S2GK8_S3FH4&t=13650s) · resultado: aprovado por unanimidade
+- **RD 66 (2024-10-07)**, item 5.13.1 — Ampliação de guia de utilização para 675 mil t/ano de minério de ferro por 3 anos · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=34609s) · resultado: aprovado por unanimidade
+- **RD 66 (2024-10-07)**, item 5.13.2 — Prorrogação e ampliação de guia de utilização para 499 mil t/ano de minério de ouro por 3 anos · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=R2yoGhSB0kM&t=34609s) · resultado: aprovado por unanimidade
 - **RD 73 (2025-04-23)**, item 4.8.1 — Recurso intempestivo contra não aprovação de RFP de diamante · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=21004s) · resultado: aprovado por unanimidade
 - **RD 73 (2025-04-23)**, item 4.8.2 — Recurso contra não aprovação de RFP de granito para rocha ornamental · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=21004s) · resultado: aprovado por unanimidade
 - **RD 73 (2025-04-23)**, item 4.8.3 — Recurso contra não aprovação de RFP de granito (exigências não cumpridas) · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=ll1hSALLcFg&t=21004s) · resultado: aprovado por unanimidade

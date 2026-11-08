@@ -83,7 +83,7 @@
 - **RD 867 (2020-08-04)**, 2.2.3 · relator **None** · Autorização para cobrança bidirecional de pedágio nas praças P2 e P3 após cumprimento da cláusula 17.3 do contrato 01/2019 (alterações nas praças em a → aprovado por unanimidade
   - votos: Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=Y2XuL68vXN4&t=1477s)
 - **RD 867 (2020-08-04)**, 2.2.4 · relator **Davi Barreto** · 12ª revisão ordinária, 14ª revisão extraordinária e reajuste da tarifa básica de pedágio; termos aditivos para inclusão do Contorno de Florianópolis ( → aprovado por maioria (um voto divergente/ressalvas)
-  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=Y2XuL68vXN4&t=1661s)
+  - votos: Davi: relator; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=Y2XuL68vXN4&t=1661s)
 - **RD 874 (2020-09-29)**, 2.1.1 · relator **Marcelo Vinaud** · 12ª revisão ordinária, 12ª revisão extraordinária e reajuste da tarifa básica de pedágio → retirado de pauta (aprovado por unanimidade)
   - votos: Marcelo: outro; Weber: acompanha; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=mfKf63OfUW4&t=171s)
 - **RD 875 (2020-10-06)**, 2.1.1 · relator **Weber Ciloni** · 5ª revisão ordinária, revisão extraordinária e reajuste da tarifa básica de pedágio (Fator Q / acidentes; verba de aparelhamento da PRF; livros de com → vista (Alexandre Porto)

@@ -2,6 +2,7 @@
 Uso:
   consulta.py perfil "Alex Azevedo" [--tema onibus]
   consulta.py ficha "Lucas Asfor" [--tema onibus]   ← FORMATO PADRÃO DE RESPOSTA (ficha fixa com trechos literais)
+  consulta.py empresa CONCER | microtema onibus_cassacao [--diretor "Lucas Asfor"] | precedentes "cassação circuito aberto" | relator CONCER
   consulta.py busca "empresa de ônibus cassação"
   consulta.py temas | diretores | mandatos | trecho <texto> [--tipo audiencia|participativa|diretoria|workshop]"""
 import json, sqlite3, sys, re, collections
@@ -10,7 +11,12 @@ def segs(ts):
     if not ts: return None
     p = [int(x) for x in re.findall(r"\d+", ts)][:3]
     return sum(v * m for v, m in zip(reversed(p), (1, 60, 3600)))
+def _ata_url(vid):
+    import json as _j, os as _o
+    f = f"data/analise/{vid}.analise.json"
+    return _j.load(open(f))["meta"].get("url") if _o.path.exists(f) else None
 def link(vid, ts):
+    if str(vid).startswith("ata_"): return _ata_url(vid) or ""
     s = segs(ts); return f"https://www.youtube.com/watch?v={vid}" + (f"&t={s}s" if s is not None else "")
 MARC = {"segurança jurídica": r"segurança jur", "usuário": r"usu[áa]rio", "evidência/dados": r"evid[êe]ncia|dados", "transparência": r"transpar",
         "participação social": r"participa[çc]ão|audi[êe]ncia", "interesse público": r"interesse público", "governança/rito": r"governan|rito|procedimento|devido processo|contradit",
@@ -73,7 +79,7 @@ def ficha(d, tema=None, n_ev=5):
     passo = max(len(ev) // n_ev, 1)
     for r in ev[::passo][:n_ev]:
         L.append(f"- **RD {r['numero']} ({r['data']}), item {r['item']}** — {r['assunto'][:150]} · voto: *{r['voto']}* · justificativa: «{r['justificativa'] or '—'}» · resultado: {r['resultado'][:80]}"
-                 + f"\n  - trecho ({r['trecho_tipo']}): «{(r['trecho'] or '—')[:280]}…» · [vídeo no minuto](https://www.youtube.com/watch?v={r['video_id']}&t={max((r['trecho_t'] or 0) - 3, 0)}s)")
+                 + f"\n  - trecho ({r['trecho_tipo']}): «{(r['trecho'] or '—')[:280]}…» · " + (f"[ata oficial]({link(r['video_id'], None)})" if str(r['video_id']).startswith('ata_') else f"[vídeo no minuto](https://www.youtube.com/watch?v={r['video_id']}&t={max((r['trecho_t'] or 0) - 3, 0)}s)") + "")
     L += ["", "**4. Contra-exemplos / fora do padrão:**"]
     for r in div[-n_ev:] or []:
         L.append(f"- RD {r['numero']} ({r['data']}), item {r['item']} · {r['categoria']}: *{r['voto']}* · «{r['justificativa'] or '—'}» · [vídeo]({link(r['video_id'], r['ts'] or r['its'])})")
@@ -82,6 +88,57 @@ def ficha(d, tema=None, n_ev=5):
     L += ["", "**5. Falas em eventos (audiências/participativas):**"] + ([f"- {f['titulo'][:70]} · [{f['t']//60} min](https://www.youtube.com/watch?v={f['video_id']}&t={f['t']}s): {f['resumo'] or ''} «{(f['texto'] or '')[:200]}»" for f in fal] or ["- nenhuma fala estruturada (a maioria das audiências não tem fala de diretor; a análise cobre janelas do resumo)."])
     L += ["", f"**6. Confiança e lacunas:** {QUAL}. Legenda automática (nomes/valores podem estar errados); trecho «janela_do_item» = minuto do item, não necessariamente a fala do diretor; itens sigilosos e 4 reuniões sem texto fora da base (sem_transcricao.md); voto escrito completo fica no SEI, não no vídeo."]
     return "\n".join(L)
+
+# ---------- camada de empresas e microtemas ----------
+def _ent(nome):
+    q = f"%{nome}%"
+    return c.execute("select * from entidades where nome like ? or sigla like ? or id like ? order by (select count(*) from item_entidade ie where ie.entidade=entidades.id) desc", (q, q, q)).fetchall()
+FAV = lambda res: "favorável" if re.search(r"(dá|dar|deu|dado) provimento|provido|deferi|aprova|autoriz|homolog|acolh", res or "", re.I) and not re.search(r"nega|indefer|desprov|n[ãa]o conhec", res or "", re.I) else "desfavorável" if re.search(r"nega|indefer|desprov|n[ãa]o conhec|cassa|multa|penalidade|caducidade|mant[ée]m", res or "", re.I) else "neutro/outro"
+def empresa(nome):
+    E_ = _ent(nome)
+    if not E_: return f"Nenhuma entidade com «{nome}». Tente parte do nome ou a sigla."
+    e = E_[0]
+    its = c.execute("select i.*, r.numero, r.data, r.video_id from itens i join reunioes r on r.id=i.reuniao_id join item_entidade ie on ie.item_id=i.id where ie.entidade=? order by r.data", (e["id"],)).fetchall()
+    out = [f"# {e['nome']}" + (f" ({e['sigla']})" if e["sigla"] else "") + f" · {e['tipo']} · setor {e['setor']}" + (f" · grupo {e['grupo']}" if e["grupo"] else ""), "",
+           f"**{len(its)} itens** deliberados de {its[0]['data'] if its else '-'} a {its[-1]['data'] if its else '-'}. Desfecho (classificação automática pelo texto do resultado): " + ", ".join(f"{k} {v}" for k, v in collections.Counter(FAV(i['resultado']) for i in its).most_common()), ""]
+    mts = collections.Counter(m[0] for m in c.execute("select microtema from item_microtema where item_id in (select item_id from item_entidade where entidade=?)", (e["id"],)))
+    out.append("**Microtemas:** " + "; ".join(f"{k} {v}" for k, v in mts.most_common(8)))
+    rel = collections.Counter(i["relator"] for i in its if i["relator"]); out.append("**Quem relata (relator mais provável no próximo processo):** " + "; ".join(f"{k} {v}" for k, v in rel.most_common(5)))
+    out.append("\n**Por diretor (votos nos itens da empresa):**")
+    for d, n, ac, dv, vi in c.execute("select v.diretor, count(*), sum(v.categoria in ('acompanha','revisor_acompanha')), sum(v.categoria in ('vencido','revisor_diverge')), sum(v.categoria='vista') from votos v join item_entidade ie on ie.item_id=v.item_id where ie.entidade=? group by 1 order by 2 desc", (e["id"],)):
+        out.append(f"- {d}: {n} votos · acompanha {ac} · diverge/vencido {dv} · vista {vi}")
+    out.append("\n**Itens (mais recentes):**")
+    for i in its[-12:][::-1]:
+        out.append(f"- **RD {i['numero']} ({i['data']})**, item {i['item']} · relator {i['relator']} · {i['assunto'][:140]} → {(i['resultado'] or '')[:80]} · [vídeo]({link(i['video_id'], i['ts'])})")
+    if len(E_) > 1: out.append("\nOutras entidades parecidas: " + "; ".join(f"{x['nome']}" for x in E_[1:6]))
+    return "\n".join(out)
+def microtema(mt, diretor=None):
+    q = "select v.diretor, count(*) n, sum(v.eh_relator) rel, sum(v.categoria in ('acompanha','revisor_acompanha')) ac, sum(v.categoria in ('vencido','revisor_diverge')) dv, sum(v.categoria='vista') vi from votos v join item_microtema m on m.item_id=v.item_id where m.microtema=?"
+    a = [mt] + ([diretor] if diretor else [])
+    rows = c.execute(q + (" and v.diretor=?" if diretor else "") + " group by 1 order by n desc", a).fetchall()
+    if not rows: return "Microtemas: " + ", ".join(r[0] for r in c.execute("select distinct microtema from item_microtema order by 1"))
+    out = [f"# Microtema «{mt}»" + (f" · {diretor}" if diretor else ""), "", "| Diretor | Votos | Relatorias | Acompanha | Diverge/vencido | Vista |", "|---|---|---|---|---|---|"]
+    out += [f"| {r['diretor']} | {r['n']} | {r['rel']} | {r['ac']} | {r['dv']} | {r['vi']} |" for r in rows]
+    ent = c.execute("select e.nome, count(*) n from item_microtema m join item_entidade ie on ie.item_id=m.item_id join entidades e on e.id=ie.entidade where m.microtema=? and e.tipo!='orgao_interno_antt' group by 1 order by n desc limit 8", (mt,)).fetchall()
+    if ent: out.append("\n**Empresas mais frequentes:** " + "; ".join(f"{e['nome']} {e['n']}" for e in ent))
+    return "\n".join(out)
+def precedentes(texto, n=5):
+    q = " OR ".join(w for w in re.findall(r"\w+", texto) if len(w) > 3)
+    rows = c.execute("select i.*, r.numero, r.data, r.video_id from busca b join itens i on i.id=b.item_id join reunioes r on r.id=i.reuniao_id where busca match ? order by rank limit ?", (q, n)).fetchall()
+    out = [f"# Precedentes para «{texto}»", ""]
+    for i in rows:
+        vs = "; ".join(f"{v['diretor'].split()[0]}: {v['categoria']}" for v in c.execute("select diretor, categoria from votos where item_id=?", (i["id"],)))
+        out.append(f"- **RD {i['numero']} ({i['data']})**, item {i['item']} · relator {i['relator']} · {i['assunto'][:150]} → {(i['resultado'] or '')[:80]}\n  - votos: {vs} · [vídeo]({link(i['video_id'], i['ts'])})")
+    return "\n".join(out)
+def relator_provavel(texto):
+    E_ = _ent(texto); mt = c.execute("select distinct microtema from item_microtema where microtema like ?", (f"%{texto}%",)).fetchall()
+    out = [f"# Relator mais provável — «{texto}»", ""]
+    if E_:
+        for d, n in c.execute("select i.relator, count(*) from itens i join item_entidade ie on ie.item_id=i.id where ie.entidade=? and i.relator is not null group by 1 order by 2 desc limit 5", (E_[0]["id"],)): out.append(f"- empresa {E_[0]['nome']}: {d} ({n})")
+    for (m,) in mt:
+        for d, n in c.execute("select i.relator, count(*) from itens i join item_microtema m on m.item_id=i.id where m.microtema=? and i.relator is not null and i.reuniao_id in (select id from reunioes where data >= date('now','-2 years')) group by 1 order by 2 desc limit 5", (m,)): out.append(f"- microtema {m} (últimos 2 anos): {d} ({n})")
+    return "\n".join(out) + "\n\nObs.: a ANTT distribui relatoria por sorteio/regras internas; isto é a frequência histórica, não previsão garantida."
+
 def tema(t):
     out = [f"# Itens do tema «{t}» (todos os diretores)\n"]
     for i in c.execute("select i.*, r.numero, r.data, r.video_id from itens i join reunioes r on r.id=i.reuniao_id where i.id in (select item_id from item_temas where tema=?) order by r.data, i.ts", (t,)):
@@ -113,6 +170,10 @@ if __name__ == "__main__":
     elif a[0] == "trecho":
         tp = a[a.index("--tipo") + 1] if "--tipo" in a else None
         print(trecho(" ".join(w for i, w in enumerate(a[1:], 1) if w != "--tipo" and a[i - 1] != "--tipo"), tipo=tp))
+    elif a[0] == "empresa": print(empresa(a[1]))
+    elif a[0] == "microtema": print(microtema(a[1], a[a.index("--diretor") + 1] if "--diretor" in a else None))
+    elif a[0] == "precedentes": print(precedentes(" ".join(a[1:])))
+    elif a[0] == "relator": print(relator_provavel(" ".join(a[1:])))
     elif a[0] == "ficha":
         print(ficha(a[1], a[a.index("--tema") + 1] if "--tema" in a else None))
     elif a[0] == "falas":  # falas/menções do diretor em audiências, participativas e workshops

@@ -1,0 +1,147 @@
+[
+ {
+  "microtema": "onibus_cassacao",
+  "tema": "onibus",
+  "regex": "cassa[çc][ãa]o|perda da outorga|art\\.? ?78-?h"
+ },
+ {
+  "microtema": "onibus_circuito_aberto",
+  "tema": "onibus",
+  "regex": "circuito aberto|fretamento (irregular|clandestino|eventual)"
+ },
+ {
+  "microtema": "onibus_novos_mercados_tar",
+  "tema": "onibus",
+  "regex": "novos? mercados?|autoriza[çc][ãa]o (para operar|de mercado)|\\bTAR\\b|janelas?"
+ },
+ {
+  "microtema": "onibus_supressao_paralisacao",
+  "tema": "onibus",
+  "regex": "supress[ãa]o de linha|paralisa[çc][ãa]o|abandono d[oe] mercado|frequ[êe]ncia m[íi]nima"
+ },
+ {
+  "microtema": "onibus_seccionamento",
+  "tema": "onibus",
+  "regex": "seccionamento|mercado n[ãa]o autorizado|sem autoriza[çc][ãa]o"
+ },
+ {
+  "microtema": "onibus_frota_documentos",
+  "tema": "onibus",
+  "regex": "frota|CRLV|habilita[çc][ãa]o de ve[íi]culo|documento (adulterado|falso)|BP-?e|inid[ôo]ne"
+ },
+ {
+  "microtema": "onibus_monitriip",
+  "tema": "onibus",
+  "regex": "monitriip"
+ },
+ {
+  "microtema": "onibus_marco_regulatorio",
+  "tema": "onibus",
+  "regex": "marco regulat[óo]rio|resolu[çc][ãa]o 4\\.?770|res\\. ?6\\.?033|novo regulamento"
+ },
+ {
+  "microtema": "conc_revisao_tarifaria",
+  "tema": "concessoes_rodoviarias",
+  "regex": "revis[ãa]o (ordin|extraordin|quinquenal)|reajuste da tarifa|tarifa b[áa]sica|fator [DQCX]"
+ },
+ {
+  "microtema": "conc_termo_aditivo",
+  "tema": "concessoes_rodoviarias",
+  "regex": "termo aditivo"
+ },
+ {
+  "microtema": "conc_multa_inexecucao",
+  "tema": "concessoes_rodoviarias",
+  "regex": "multa|auto de infra[çc][ãa]o|inexecu|atraso n|cronograma de investimento"
+ },
+ {
+  "microtema": "conc_caducidade",
+  "tema": "concessoes_rodoviarias",
+  "regex": "caducidade"
+ },
+ {
+  "microtema": "conc_relicitacao_otimizacao",
+  "tema": "concessoes_rodoviarias",
+  "regex": "relicita|otimiza[çc][ãa]o|solu[çc][ãa]o consensual|autocomposi|COMPOR|TCU.*consens"
+ },
+ {
+  "microtema": "conc_leilao_edital",
+  "tema": "concessoes_rodoviarias",
+  "regex": "leil[ãa]o|edital|homologa[çc][ãa]o do resultado|ato de outorga"
+ },
+ {
+  "microtema": "conc_dup_desapropriacao",
+  "tema": "concessoes_rodoviarias",
+  "regex": "\\bDUPs?\\b|utilidade p[úu]blica|desapropria"
+ },
+ {
+  "microtema": "conc_free_flow",
+  "tema": "pedagio_freeflow",
+  "regex": "free ?flow|fluxo livre|evas[ãa]o de ped[áa]gio"
+ },
+ {
+  "microtema": "conc_transferencia_controle",
+  "tema": "concessoes_rodoviarias",
+  "regex": "transfer[êe]ncia de controle|altera[çc][ãa]o do controle"
+ },
+ {
+  "microtema": "ferro_autorizacao",
+  "tema": "ferrovias",
+  "regex": "autoriza[çc][ãa]o ferrovi|chamamento p[úu]blico|lei 14\\.?273"
+ },
+ {
+  "microtema": "ferro_metas_producao",
+  "tema": "ferrovias",
+  "regex": "metas de produ[çc][ãa]o|indicadores de seguran"
+ },
+ {
+  "microtema": "ferro_tarifas",
+  "tema": "ferrovias",
+  "regex": "tarifas? de refer[êe]ncia|transporte ferrovi[áa]rio de cargas.*tarif"
+ },
+ {
+  "microtema": "ferro_prorrogacao_devolucao",
+  "tema": "ferrovias",
+  "regex": "prorroga[çc][ãa]o antecipada|devolu[çc][ãa]o (do|de) trecho|trechos? ociosos?|subconcess"
+ },
+ {
+  "microtema": "cargas_piso_frete",
+  "tema": "cargas",
+  "regex": "piso m[íi]nimo|frete m[íi]nimo|pol[íi]tica nacional de pisos"
+ },
+ {
+  "microtema": "cargas_ciot_vale_pedagio",
+  "tema": "cargas",
+  "regex": "CIOT|vale-?ped[áa]gio|institui[çc][õo]es de pagamento"
+ },
+ {
+  "microtema": "cargas_rntrc",
+  "tema": "cargas",
+  "regex": "RNTRC|registro nacional de transportadores"
+ },
+ {
+  "microtema": "normativo_resolucao",
+  "tema": "regulacao_normativa",
+  "regex": "resolu[çc][ãa]o|minuta|norma"
+ },
+ {
+  "microtema": "normativo_audiencia_publica",
+  "tema": "participacao_social",
+  "regex": "audi[êe]ncia p[úu]blica|consulta p[úu]blica|tomada de subs"
+ },
+ {
+  "microtema": "judicial_liminar",
+  "tema": "judicializacao",
+  "regex": "liminar|decis[ãa]o judicial|mandado de seguran|sub judice|tutela"
+ },
+ {
+  "microtema": "recurso_reconsideracao",
+  "tema": "fiscalizacao_sancoes",
+  "regex": "recurso|reconsidera|revis[ãa]o da (san|pena)|embargos"
+ },
+ {
+  "microtema": "sigiloso_reservado",
+  "tema": "institucional",
+  "regex": "reservad|sigilos|sem transmiss"
+ }
+]

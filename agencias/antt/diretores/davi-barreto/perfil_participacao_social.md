@@ -5,7 +5,7 @@
 **Votos:** acompanha o relator 97 (95% dos votos em que não era relator) · relator 41 · vista pedida 3 · voto-vista divergente 1 · vencido 0 · outros/não captado 1
 **Como relator:** 36/41 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** onibus 306/66; concessoes_rodoviarias 298/89; regulacao_normativa 255/62; institucional 215/31; onibus_regular 210/45; ferrovias 171/39; fiscalizacao_sancoes 159/43; reequilibrio_contratual 157/49; participacao_social 143/41; judicializacao 135/40; onibus_fretamento 100/27; pedagio_freeflow 93/28; leilao_otimizacao 79/28; cargas 68/16; onibus_semiurbano 21/2; tarifa_modicidade 15/5; sandbox_inovacao 7/1; sustentabilidade 5/0
+**Temas (nº de itens em que votou / relatorias):** onibus 305/66; concessoes_rodoviarias 298/89; regulacao_normativa 254/62; institucional 215/31; onibus_regular 209/45; ferrovias 171/39; fiscalizacao_sancoes 158/43; reequilibrio_contratual 157/49; participacao_social 143/41; judicializacao 134/40; onibus_fretamento 100/27; pedagio_freeflow 93/28; leilao_otimizacao 79/28; cargas 68/16; onibus_semiurbano 21/2; tarifa_modicidade 15/5; sandbox_inovacao 7/1; sustentabilidade 5/0
 **Argumentos recorrentes nas justificativas registradas:** participação social (15); evidência/dados (4); usuário (2); eficiência/celeridade (2); segurança jurídica (1); concorrência (1)
 **Tom (inferência da leitura, não métrica):** alta | tom: técnico, com resposta direta às objeções dos usuários | elogioso e propositivo | técnico, defende rigor do processo e rejeita personalização; discorda da tese de incapacidade fiscalizatória | elogioso | técnico, em resposta ao sustentante | favorável
 

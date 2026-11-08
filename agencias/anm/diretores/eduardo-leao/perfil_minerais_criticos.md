@@ -1,16 +1,16 @@
 # Perfil analítico — Eduardo Leão · tema: minerais_criticos
 
-**Amostra:** presente em 23 das 23 reuniões analisadas em que há registro de presença/ausência; 9 votos neste tema; 4 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 34 das 34 reuniões analisadas em que há registro de presença/ausência; 9 votos neste tema; 4 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
 **Votos:** acompanha o relator 5 (100% dos votos em que não era relator) · relator 4 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 4/4 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** outorga_titulos 262/45; recursos_recursais 147/17; agregados_construcao 98/19; fiscalizacao_sancoes 74/22; cfem_arrecadacao 40/10; garimpo_pla 37/5; ambiental_social 26/6; regulacao_normativa 25/4; institucional 23/3; judicializacao 17/1; outros 15/0; barragens_seguranca 11/5; minerais_criticos 9/4; participacao_social 6/0
+**Temas (nº de itens em que votou / relatorias):** outorga_titulos 289/52; recursos_recursais 170/19; outros 145/20; agregados_construcao 108/19; fiscalizacao_sancoes 76/23; garimpo_pla 40/5; cfem_arrecadacao 40/10; institucional 37/3; regulacao_normativa 32/6; ambiental_social 28/6; judicializacao 17/1; barragens_seguranca 11/5; minerais_criticos 9/4; participacao_social 6/0
 
 ## Evidências (reunião · item · voto · justificativa)
 
 - **RD 1ª Reunião Extraordinária Pública (2019-09-06)**, item 1 — Requerimento de concessão de lavra de 1981 com PAE desatualizado; pedido de prorrogação/alvará de pesquisa complementar; novo relatório de r · voto: *relator, remete à SPM e propõe tese geral de atualização de PAE* (relator, conf. media) · «37 anos de processo; morosidade do DNPM (18 anos sem movimentação); PAE essencial à fiscalização» · [vídeo](https://www.youtube.com/watch?v=VY_K3xq1i1U&t=750s) · resultado: aprovado (unanimidade inferida)
-- **RD 9ª Ordinária (2019-10-15)**, item 6 — Aprovação de relatório final de pesquisa de cobre com redução de área (Canaã dos Carajás, PA) · voto: *acompanha; explica que o processo foi avocado como referência para a resolução de recursos e reservas (falante incerto)* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=lqrKYTzyL0M&t=3930s) · resultado: aprovado
+- **RD 9ª Ordinária (2019-10-16)**, item 6 — Aprovação de relatório final de pesquisa de cobre com redução de área (Canaã dos Carajás, PA) · voto: *acompanha; explica que o processo foi avocado como referência para a resolução de recursos e reservas (falante incerto)* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=lqrKYTzyL0M&t=3930s) · resultado: aprovado
 - **RD 14ª Ordinária (2020-04-01)**, item 1.4.11 — Prorrogação de prazos por um ano (mudança de rota de beneficiamento; falta de autorização local para unidade industrial) · voto: *relator, prorroga* (relator, conf. alta) · «processos bem instruídos» · [vídeo](https://www.youtube.com/watch?v=LrMidsf_ZrQ&t=10350s) · resultado: aprovado por unanimidade
 - **RD 15ª Ordinária (2020-04-15)**, item 1.5.a — Recurso contra decaimento parcial de alvará de pesquisa de grafite (Salto da Divisa/MG, Guaratinga/BA) por interferência com Parque Nacional · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=lfr2P7uMVeA&t=4566s) · resultado: aprovado por unanimidade: autos devolvidos para instauração de procedi
 - **RD 15ª Ordinária (2020-04-15)**, item 1.4.d — Guia de utilização para 60 mil t de minério de manganês · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=lfr2P7uMVeA&t=9480s) · resultado: aprovado por unanimidade

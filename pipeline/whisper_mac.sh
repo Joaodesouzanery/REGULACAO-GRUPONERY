@@ -5,6 +5,9 @@
 # Sem ids: as 4 reuniões de diretoria sem texto (RD 904, RD 931, 81ª Extraordinária, RD 1042).
 # Modelo: WHISPER_MODELO=small (padrão; ~1x tempo real num Mac M1) ou medium (melhor, mais lento).
 cd "$(dirname "$0")/.." || exit 1
+if [ -n "$(git -C "$(cd "$(dirname "$0")/.." && pwd)" diff --name-only --diff-filter=U)" ] || [ -d "$(cd "$(dirname "$0")/.." && pwd)/.git/rebase-merge" ] || [ -f "$(cd "$(dirname "$0")/.." && pwd)/.git/MERGE_HEAD" ]; then
+  echo "PARE: o git está com merge/rebase pela metade. Rode:"; echo "  git rebase --abort; git merge --abort; git fetch origin; git merge -X theirs origin/claude/antt-directors-speeches-analysis-93r9hi -m sincroniza; git push"; exit 1; fi
+
 REPO="$(pwd)"; SIG=antt; ALVO=data
 if [ "$1" = "--agencia" ]; then SIG="$2"; shift 2; fi
 if [ "$SIG" != "antt" ]; then bash pipeline/ag.sh "$SIG" true; cd "data/$SIG/.raiz" || exit 1; ALVO="data/$SIG"; fi
@@ -28,6 +31,6 @@ json.dump(res, open(out, "w"), ensure_ascii=False)
 open("data/transcricoes_whisper.jsonl", "a").write(json.dumps({"video_id": out.split("/")[-1][:-5], "modelo": mod, "segmentos": len(res), "data": datetime.date.today().isoformat(), "fonte": "Whisper (áudio), não legenda do YouTube"}) + "\n")
 print(len(res), "segmentos ->", out)
 PY
-  git -C "$REPO" add "$ALVO/transcricoes/$id.json" "$ALVO/transcricoes_whisper.jsonl" && git -C "$REPO" commit -q -m "[$SIG] Whisper: transcricao de $id" && { git -C "$REPO" pull -q --rebase --autostash origin "$BR"; git -C "$REPO" push origin "$BR" && echo "  -> enviado ao GitHub" || echo "  !! PUSH FALHOU: rode git push depois"; }
+  git -C "$REPO" add "$ALVO/transcricoes/$id.json" "$ALVO/transcricoes_whisper.jsonl" && git -C "$REPO" commit -q -m "[$SIG] Whisper: transcricao de $id" && { git -C "$REPO" pull -q --no-rebase -X theirs --no-edit origin "$BR"; git -C "$REPO" push origin "$BR" && echo "  -> enviado ao GitHub" || echo "  !! PUSH FALHOU: rode git push depois"; }
 done
 rm -rf "$TMP"; echo "Pronto. No chat: «analise as reuniões transcritas por Whisper»."

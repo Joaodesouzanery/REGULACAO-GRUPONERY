@@ -6,6 +6,7 @@ import json, glob, random, os, re, sys, collections
 RODADAS = {"2019_2024": dict(anos="2019 2020 2021 2022 2023 2024", reun=6, seed=20261103, dir="data/qualidade", rel="conferencia_amostra"),
            "2025_2026": dict(anos="2025 2026", reun=8, seed=20261105, dir="data/qualidade/2025_2026", rel="conferencia_2025_2026"),
            "2019_2024_b": dict(anos="2019 2020 2021 2022 2023 2024", reun=2, seed=20261106, dir="data/qualidade/2019_2024_b", rel="conferencia_2019_2024_b", excluir="data/qualidade/amostra_cega.json")}
+RODADAS["anm_2019_2026"] = dict(anos="2019 2020 2021 2022 2023 2024 2025 2026", reun=3, seed=20261108, dir="data/qualidade/anm_2019_2026", rel="conferencia_anm_2019_2026")
 RD = sys.argv[2] if len(sys.argv) > 2 else "2019_2024"; CFG = RODADAS[RD]; D = CFG["dir"]; os.makedirs(D + "/respostas", exist_ok=True)
 random.seed(CFG["seed"])
 CAT = lambda s: ("relator" if re.match(r"\s*(voto[- ])?relator|\s*relatora|\s*relator[, ]", s or "", re.I) else ("diverge" if re.search(r"diverg|vencid|contr[aá]rio", s or "", re.I) else "acompanha") if re.search(r"voto[- ]vista", s or "", re.I) else "vista" if re.search(r"vista", s or "", re.I) else "diverge" if re.search(r"diverg|vencid|contr[aá]rio", s or "", re.I) else "acompanha" if re.search(r"acompanh|de acordo|adere|segue|sigo|voto com|aprov", s or "", re.I) else "outro")
@@ -20,7 +21,7 @@ def sortear():
     for y in sorted(por_ano):
         for vid, r, its in random.sample(sorted(por_ano[y], key=lambda x: x[0]), min(CFG["reun"], len(por_ano[y]))):
             for i in random.sample(its, 3):
-                cego.append({"video_id": vid, "reuniao": r.get("numero"), "data": r.get("data"), "item_id": i["id"], "ts_aprox": i["ts"], "assunto": i["assunto"][:160], "diretores_a_conferir": [v["diretor"] for v in i["votos"]]})
+                cego.append({"video_id": vid, "reuniao": r.get("numero"), "data": r.get("data"), "item_id": i["id"], "ts_aprox": i["ts"], "assunto": i["assunto"][:160], "diretores_a_conferir": sorted(v["diretor"] for v in i["votos"])})
                 gab.append({"video_id": vid, "item_id": i["id"], "relator": i.get("relator"), "resultado": i.get("resultado"), "votos": {v["diretor"]: {"cat": CAT(v.get("voto")), "voto": v.get("voto"), "ts": v.get("ts")} for v in i["votos"]}})
     json.dump(cego, open(f"{D}/amostra_cega.json", "w"), ensure_ascii=False, indent=1); json.dump(gab, open(f"{D}/amostra_gabarito.json", "w"), ensure_ascii=False, indent=1)
     print(len(cego), "itens em", len({c['video_id'] for c in cego}), "reuniões")

@@ -12,7 +12,12 @@ def segs(ts):
     p = [int(x) for x in re.findall(r"\d+", ts or "")][-3:]
     while len(p) < 3: p.insert(0, 0)
     return p[0] * 3600 + p[1] * 60 + p[2]
+def _ata_url(vid):
+    import json as _j, os as _o
+    f = f"data/analise/{vid}.analise.json"
+    return _j.load(open(f))["meta"].get("url") if _o.path.exists(f) else None
 def link(vid, ts=None, t=None):
+    if str(vid).startswith("ata_"): return _ata_url(vid) or ""
     s = t if t is not None else segs(ts) if ts else 0
     return f"https://www.youtube.com/watch?v={vid}&t={max(int(s) - 5, 0)}s"
 DIV = ("vencido", "vista", "revisor_diverge", "outro")
@@ -43,7 +48,7 @@ for l in [f"Votos dos diretores da {AGS.upper()} em reuniões públicas de diret
           "Quem só «acompanha» raramente fala: o minuto do link é o do item, aproximado.", "Trecho literal: frase da legenda a partir do minuto do voto (até 30 s). Tipo «fala_no_minuto» = relator/vista/voto-vista/vencido (o diretor fala ali); «janela_do_item» = quem só acompanha (o trecho é do momento do item, não necessariamente a fala dele).",
           f"Qualidade (conferência cega): ver agencias/{AGS}/qualidade/ para 2025–2026 e eventos. Mede consistência, não verdade absoluta.",
           "Itens sigilosos e reuniões sem legenda não estão aqui (ver sem_transcricao.md). Mandatos: datas estimadas quando não confirmadas (coluna confiança).",
-          "Gerado por pipeline/planilha_votos.py; regenere após cada atualização da base."]:
+          "Empresas: interessado normalizado (data/entidades.json); *desfecho favorável/desfavorável é classificação automática pelo texto do resultado, aproximada. Microtemas: regras em data/microtemas.json (um item pode ter vários).", "Gerado por pipeline/planilha_votos.py; regenere após cada atualização da base."]:
     ws.append([l])
 ws.column_dimensions["A"].width = 140; ws["A1"].font = Font(bold=True, size=14)
 # Resumo
@@ -71,6 +76,23 @@ cab = ["Data", "Reunião", "Item", "Diretor", "Categoria", "Voto (texto)", "Just
 lin = [[v[1], v[2], v[5], v[0], v[13], v[12], v[14], v[15], v[9], v[10], {1: "sim", 0: "não"}.get(v[11]), ", ".join(temas_item[v[4]]), v[6], v[7], v[8], v[18], v[19], v[20], link(v[3], v[16] or v[17])] for v in V]
 aba("Votos", cab, lin, {"Voto (texto)": 40, "Justificativa": 50, "Assunto": 60, "Resultado": 40, "Interessado": 30, "Link (minuto)": 45, "Diretor": 22, "Trecho literal (transcrição)": 70}, links=["Link (minuto)"])
 aba("Divergências e vistas", cab, [l for l, v in zip(lin, V) if v[13] in DIV or v[11] == 0], {"Voto (texto)": 40, "Justificativa": 50, "Assunto": 60, "Resultado": 40, "Link (minuto)": 45, "Diretor": 22}, links=["Link (minuto)"])
+# Empresas e microtemas (se as tabelas existirem)
+try:
+    import re as _re
+    FAV = lambda r: "favorável" if _re.search(r"provimento|provido|deferi|aprova|autoriz|homolog|acolh", r or "", _re.I) and not _re.search(r"nega|indefer|desprov|n[ãa]o conhec", r or "", _re.I) else "desfavorável" if _re.search(r"nega|indefer|desprov|n[ãa]o conhec|cassa|multa|penalidade|caducidade|mant[ée]m", r or "", _re.I) else "neutro/outro"
+    ER = []
+    for eid, nome, sig, tp, st, gr in c.execute("select id, nome, sigla, tipo, setor, grupo from entidades"):
+        its = c.execute("select i.relator, i.resultado, r.data from itens i join reunioes r on r.id=i.reuniao_id join item_entidade ie on ie.item_id=i.id where ie.entidade=?", (eid,)).fetchall()
+        if not its: continue
+        fv = collections.Counter(FAV(x[1]) for x in its); rl = collections.Counter(x[0] for x in its if x[0]).most_common(2)
+        ER.append([nome, sig, tp, st, gr, len(its), min(x[2] for x in its), max(x[2] for x in its), fv["favorável"], fv["desfavorável"], "; ".join(f"{k} ({v})" for k, v in rl)])
+    ER.sort(key=lambda x: -x[5])
+    if ER: aba("Empresas", ["Entidade", "Sigla", "Tipo", "Setor", "Grupo econômico", "Itens", "Primeiro", "Último", "Desfecho favorável*", "Desfecho desfavorável*", "Relatores mais frequentes"], ER, {"Entidade": 45, "Relatores mais frequentes": 40})
+    MR = c.execute("select m.microtema, m.tema, v.diretor, count(*), sum(v.eh_relator), sum(v.categoria in ('acompanha','revisor_acompanha')), sum(v.categoria in ('vencido','revisor_diverge')), sum(v.categoria='vista') from votos v join item_microtema m on m.item_id=v.item_id group by 1,2,3 order by 1, 4 desc").fetchall()
+    if MR: aba("Microtema x Diretor", ["Microtema", "Tema", "Diretor", "Votos", "Relatorias", "Acompanha", "Diverge/vencido", "Vista"], MR, {"Microtema": 30, "Diretor": 24})
+    EV = c.execute("select e.nome, v.diretor, count(*), sum(v.eh_relator), sum(v.categoria in ('vencido','revisor_diverge')), sum(v.categoria='vista') from votos v join item_entidade ie on ie.item_id=v.item_id join entidades e on e.id=ie.entidade where e.tipo not like 'orgao%' group by 1,2 having count(*) >= 3 order by 1, 3 desc").fetchall()
+    if EV: aba("Empresa x Diretor", ["Entidade", "Diretor", "Votos", "Relatorias", "Diverge/vencido", "Vista"], EV, {"Entidade": 45, "Diretor": 24})
+except sqlite3.OperationalError: pass
 # Falas em eventos
 F2 = c.execute("select e.data, f.tipo_video, e.titulo, f.diretor, f.resumo, f.texto, f.confianca, f.video_id, f.t from falas_diretores f left join eventos e on e.video_id=f.video_id order by e.data").fetchall()
 aba("Falas em eventos", ["Data", "Tipo", "Evento", "Diretor", "Resumo", "Trecho literal", "Confiança", "Link (minuto)"], [list(f[:7]) + [link(f[7], t=f[8])] for f in F2], {"Evento": 50, "Resumo": 60, "Trecho literal": 60, "Link (minuto)": 45}, links=["Link (minuto)"])

@@ -161,7 +161,7 @@
 - **RD 865 (2020-07-21)**, 2.3.2 · relator **Alexandre Porto** · 12ª revisão ordinária, 12ª extraordinária e reajuste anual da tarifa básica de pedágio → aprovado por unanimidade
   - votos: Alexandre: relator; Davi: acompanha; Menezes: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=EFqrNJhKrSo&t=1806s)
 - **RD 867 (2020-08-04)**, 2.2.4 · relator **Davi Barreto** · 12ª revisão ordinária, 14ª revisão extraordinária e reajuste da tarifa básica de pedágio; termos aditivos para inclusão do Contorno de Florianópolis ( → aprovado por maioria (um voto divergente/ressalvas)
-  - votos: Davi: relator; Weber: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=Y2XuL68vXN4&t=1661s)
+  - votos: Davi: relator; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=Y2XuL68vXN4&t=1661s)
 - **RD 871 (2020-09-08)**, 2.2.1 · relator **Weber Ciloni** · Regulamentação da cláusula terceira do contrato de concessão da TLSA (regime de apuração e controle do saldo de capital a retornar e da taxa de retorn → aprovado por unanimidade
   - votos: Weber: relator; Davi: acompanha; Alexandre: acompanha; Eduardo: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=zjfsRZ00kT4&t=379s)
 - **RD 871 (2020-09-08)**, extrapauta-1 · relator **Marcelo Vinaud** · Extrapauta: 1º termo aditivo ao contrato de subconcessão da Rumo Malha Central (antecipação de pagamento de parcelas vincendas na cláusula 20 e prazo  → aprovado por unanimidade

@@ -185,7 +185,7 @@
 - **RD 819 (2019-07-23)**, 2.2.3 · relator **Elisabeth Braga** · Recurso — multa de 148,50 URT (infração apurada pela decisão 069/2016 da SUINF) → aprovado por unanimidade — multa mantida
   - votos: Elisabeth: relator; Marcelo: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=aN2OZHj7G1c&t=722s)
 - **RD 820 (2019-07-30)**, 2.3.5 · relator **Elisabeth Braga** · Anuência prévia para transferência de mercados (linhas) do Consórcio Guanabara para a Real Expresso, com sustentação oral do advogado do consórcio; di → pedido de vista; sem decisão na sessão
-  - votos: Elisabeth: relator; Davi: vista; Marcelo: outro; Mário: outro · [vídeo](https://www.youtube.com/watch?v=wTsJa3zoysI&t=415s)
+  - votos: Elisabeth: relator; Marcelo: outro; Mário: outro · [vídeo](https://www.youtube.com/watch?v=wTsJa3zoysI&t=415s)
 - **RD 820 (2019-07-30)**, 2.2.1 · relator **Marcelo Vinaud** · Processo administrativo ordinário: indícios de falsificação de CRLV apresentado para habilitar veículo; constituição de comissão → aprovado por unanimidade
   - votos: Marcelo: relator; Elisabeth: acompanha; Davi: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=wTsJa3zoysI&t=1670s)
 - **RD 820 (2019-07-30)**, 2.2.3 · relator **Marcelo Vinaud** · Acordo de cooperação técnica para o sistema Canal Verde Brasil (fiscalização inteligente do transporte rodoviário de cargas e passageiros), sem ônus e → aprovado por unanimidade
