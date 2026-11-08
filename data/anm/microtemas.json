@@ -1,0 +1,102 @@
+[
+ {
+  "microtema": "pesquisa_alvara_rfp",
+  "tema": "outorga_titulos",
+  "regex": "alvar[áa] de pesquisa|relat[óo]rio final de pesquisa|\\bRFP\\b|prorroga[çc][ãa]o (do|de) alvar"
+ },
+ {
+  "microtema": "guia_de_utilizacao",
+  "tema": "outorga_titulos",
+  "regex": "guia de utiliza[çc][ãa]o|\\bGU\\b"
+ },
+ {
+  "microtema": "concessao_lavra",
+  "tema": "outorga_titulos",
+  "regex": "concess[ãa]o de lavra|portaria de lavra|requerimento de lavra|plano de aproveitamento|\\bPAE\\b"
+ },
+ {
+  "microtema": "disponibilidade_leilao",
+  "tema": "outorga_titulos",
+  "regex": "disponibilidade de [áa]rea|rodada|leil[ãa]o|edital"
+ },
+ {
+  "microtema": "licenciamento_registro",
+  "tema": "agregados_construcao",
+  "regex": "licenciamento|registro de licen|registro de extra[çc][ãa]o"
+ },
+ {
+  "microtema": "plg_garimpo",
+  "tema": "garimpo_pla",
+  "regex": "\\bPLG\\b|lavra garimpeira|garimp|cooperativa"
+ },
+ {
+  "microtema": "cfem_cobranca",
+  "tema": "cfem_arrecadacao",
+  "regex": "\\bCFEM\\b|compensa[çc][ãa]o financeira|cr[ée]dito|decad[êe]ncia|prescri[çc]"
+ },
+ {
+  "microtema": "tah",
+  "tema": "cfem_arrecadacao",
+  "regex": "\\bTAH\\b|taxa anual por hectare"
+ },
+ {
+  "microtema": "multa_auto_infracao",
+  "tema": "fiscalizacao_sancoes",
+  "regex": "multa|auto de infra[çc][ãa]o|penalidade|lavra (ilegal|irregular|fora)"
+ },
+ {
+  "microtema": "caducidade_nulidade",
+  "tema": "fiscalizacao_sancoes",
+  "regex": "caducidade|nulidade|anula[çc][ãa]o|cancelamento"
+ },
+ {
+  "microtema": "barragens",
+  "tema": "barragens_seguranca",
+  "regex": "barrage|rejeito|descaracteriza|PAEBM|plano de seguran"
+ },
+ {
+  "microtema": "uc_terra_indigena",
+  "tema": "ambiental_social",
+  "regex": "unidade de conserva|terra ind[íi]gena|\\bUCs?\\b|parque|reserva|APA\\b|quilombol"
+ },
+ {
+  "microtema": "cessao_direitos",
+  "tema": "outorga_titulos",
+  "regex": "cess[ãa]o|transfer[êe]ncia de direitos|arrendamento"
+ },
+ {
+  "microtema": "servidao",
+  "tema": "outorga_titulos",
+  "regex": "servid[ãa]o"
+ },
+ {
+  "microtema": "agua_mineral",
+  "tema": "outorga_titulos",
+  "regex": "[áa]gua mineral|crenolog|rotulagem"
+ },
+ {
+  "microtema": "fechamento_mina",
+  "tema": "ambiental_social",
+  "regex": "fechamento de mina|reabilita[çc][ãa]o|garantias? financeir"
+ },
+ {
+  "microtema": "normativo_resolucao",
+  "tema": "regulacao_normativa",
+  "regex": "resolu[çc][ãa]o|minuta|norma|s[úu]mula|agenda regulat"
+ },
+ {
+  "microtema": "recurso_reconsideracao",
+  "tema": "recursos_recursais",
+  "regex": "recurso|reconsidera|embargos|revis[ãa]o de decis"
+ },
+ {
+  "microtema": "judicial_liminar",
+  "tema": "judicializacao",
+  "regex": "liminar|decis[ãa]o judicial|mandado de seguran|tutela|AGU"
+ },
+ {
+  "microtema": "minerais_criticos",
+  "tema": "minerais_criticos",
+  "regex": "l[íi]tio|terras raras|n[íi]quel|grafita|cobalto|cr[íi]tico|estrat[ée]gic"
+ }
+]

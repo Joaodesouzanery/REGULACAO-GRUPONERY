@@ -1,0 +1,5 @@
+{"clientes": {
+  "exemplo_onibus": {"agencias": ["antt"], "entidades": ["Princesa do Norte"], "microtemas": ["onibus_cassacao", "onibus_novos_mercados_tar"], "diretores": [], "termos": ["fretamento"]},
+  "exemplo_concessoes": {"agencias": ["antt"], "entidades": ["CONCER", "Rumo"], "microtemas": ["conc_revisao_tarifaria", "conc_free_flow"], "diretores": ["Felipe Queiroz"], "termos": ["free flow"]},
+  "exemplo_mineracao": {"agencias": ["anm"], "entidades": ["Vale"], "microtemas": ["barragens", "cfem_cobranca"], "diretores": ["Mauro Sousa"], "termos": ["lítio"]}
+}}

@@ -3,6 +3,7 @@ Uso:
   consulta.py perfil "Alex Azevedo" [--tema onibus]
   consulta.py ficha "Lucas Asfor" [--tema onibus]   ← FORMATO PADRÃO DE RESPOSTA (ficha fixa com trechos literais)
   consulta.py empresa CONCER | microtema onibus_cassacao [--diretor "Lucas Asfor"] | precedentes "cassação circuito aberto" | relator CONCER
+  consulta.py reincidencia | grupo Rumo | sustentacoes | tramitacao
   consulta.py busca "empresa de ônibus cassação"
   consulta.py temas | diretores | mandatos | trecho <texto> [--tipo audiencia|participativa|diretoria|workshop]"""
 import json, sqlite3, sys, re, collections
@@ -139,6 +140,63 @@ def relator_provavel(texto):
         for d, n in c.execute("select i.relator, count(*) from itens i join item_microtema m on m.item_id=i.id where m.microtema=? and i.relator is not null and i.reuniao_id in (select id from reunioes where data >= date('now','-2 years')) group by 1 order by 2 desc limit 5", (m,)): out.append(f"- microtema {m} (últimos 2 anos): {d} ({n})")
     return "\n".join(out) + "\n\nObs.: a ANTT distribui relatoria por sorteio/regras internas; isto é a frequência histórica, não previsão garantida."
 
+SANC = r"cassa|multa|caducidade|circuito|seccion|frota|supress|tah|nulidade"
+def reincidencia(n=20):
+    rows = c.execute(f"""select e.nome, e.tipo, count(distinct i.id) n, min(r.data), max(r.data), group_concat(distinct substr(r.data,1,4)) from item_microtema m join item_entidade ie on ie.item_id=m.item_id join entidades e on e.id=ie.entidade
+        join itens i on i.id=m.item_id join reunioes r on r.id=i.reuniao_id where e.tipo not like 'orgao%' group by e.id order by n desc""").fetchall()
+    out = ["# Reincidência — empresas com mais processos sancionadores", "", "| Empresa | Tipo | Itens sancionadores | Período | Anos | Desfechos |", "|---|---|---|---|---|---|"]
+    L = []
+    for nome, tp, _, a, b, anos in rows:
+        its = c.execute("select distinct i.id, i.resultado from item_microtema m join item_entidade ie on ie.item_id=m.item_id join entidades e on e.id=ie.entidade join itens i on i.id=m.item_id where e.nome=? and m.microtema regexp ?", (nome, SANC)).fetchall() if False else \
+              [x for x in c.execute("select distinct i.id, i.resultado, m.microtema from item_microtema m join item_entidade ie on ie.item_id=m.item_id join entidades e on e.id=ie.entidade join itens i on i.id=m.item_id where e.nome=?", (nome,)) if re.search(SANC, x[2])]
+        ids = {x[0] for x in its}
+        if len(ids) < 3: continue
+        d = collections.Counter(FAV(x[1]) for x in {x[0]: x for x in its}.values())
+        L.append((len(ids), f"| {nome} | {tp} | {len(ids)} | {a} a {b} | {','.join(sorted(set(anos.split(','))))} | " + ", ".join(f"{k_} {v}" for k_, v in d.most_common()) + " |"))
+
+    out += [x[1] for x in sorted(L, key=lambda x: -x[0])[:n]]
+    return "\n".join(out) + "\n\nItens sancionadores = microtemas de multa, cassação, caducidade, circuito aberto, seccionamento, frota, supressão, TAH, nulidade. Desfecho «desfavorável» = sanção mantida/aplicada (classificação automática aproximada)."
+def grupo(nome):
+    ents = c.execute("select * from entidades where grupo like ?", (f"%{nome}%",)).fetchall()
+    if not ents: return "Grupos conhecidos: " + ", ".join(r[0] for r in c.execute("select distinct grupo from entidades where grupo is not null order by 1"))
+    ids = [e["id"] for e in ents]; ph = ",".join("?" * len(ids))
+    its = c.execute(f"select i.*, r.numero, r.data, r.video_id, ie.entidade from itens i join reunioes r on r.id=i.reuniao_id join item_entidade ie on ie.item_id=i.id where ie.entidade in ({ph}) order by r.data", ids).fetchall()
+    out = [f"# Grupo econômico «{nome}» — {len(ents)} empresas, {len(its)} itens", "", "**Empresas:** " + "; ".join(f"{e['nome']} ({sum(1 for i in its if i['entidade']==e['id'])})" for e in ents),
+           "**Desfechos:** " + ", ".join(f"{k} {v}" for k, v in collections.Counter(FAV(i['resultado']) for i in its).most_common()),
+           "**Microtemas:** " + "; ".join(f"{k} {v}" for k, v in c.execute(f"select microtema, count(*) from item_microtema where item_id in (select item_id from item_entidade where entidade in ({ph})) group by 1 order by 2 desc limit 8", ids).fetchall()),
+           "**Relatores:** " + "; ".join(f"{k} {v}" for k, v in collections.Counter(i['relator'] for i in its if i['relator']).most_common(5)), "", "**Itens recentes:**"]
+    out += [f"- **RD {i['numero']} ({i['data']})** item {i['item']} · {i['assunto'][:130]} → {(i['resultado'] or '')[:70]} · [vídeo]({link(i['video_id'], i['ts'])})" for i in its[-10:][::-1]]
+    return "\n".join(out)
+def sustentacoes():
+    its = c.execute("select i.*, r.numero, r.data, r.video_id from itens i join reunioes r on r.id=i.reuniao_id order by r.data").fetchall()
+    its = [i for i in its if re.search(r"sustenta[çc][ãa]o oral|sustentou oralmente|sustenta[çc][õo]es orais", f"{i['assunto']} {i['resumo'] or ''} {i['resultado'] or ''}", re.I)]
+    base = collections.Counter(FAV(r[0]) for r in c.execute("select resultado from itens"))
+    efeito = lambda res: "retirado" if re.search(r"retir", res or "", re.I) else "vista" if re.search(r"vista", res or "", re.I) else FAV(res)
+    ef = collections.Counter(efeito(i["resultado"]) for i in its)
+    tb = sum(base.values()) or 1; ts_ = len(its) or 1
+    out = [f"# Sustentações orais — {len(its)} itens", "", f"**Efeito com sustentação:** " + ", ".join(f"{k} {v} ({100*v//ts_}%)" for k, v in ef.most_common()),
+           f"**Base geral (todos os itens):** " + ", ".join(f"{k} {100*v//tb}%" for k, v in base.most_common()), "", "**Por empresa:**"]
+    pe = collections.Counter(r[0] for r in c.execute("select e.nome from item_entidade ie join entidades e on e.id=ie.entidade where ie.item_id in (%s)" % ",".join(str(i["id"]) for i in its))) if its else {}
+    out += [f"- {k}: {v}" for k, v in pe.most_common(12)]
+    out += ["", "**Itens recentes:**"] + [f"- **RD {i['numero']} ({i['data']})** item {i['item']} · {i['assunto'][:120]} → {efeito(i['resultado'])} · [vídeo]({link(i['video_id'], i['ts'])})" for i in its[-8:][::-1]]
+    return "\n".join(out)
+def tramitacao(n=15):
+    rows = c.execute("select i.processo, i.id, i.item, i.assunto, i.resultado, r.numero, r.data, r.video_id, i.ts from itens i join reunioes r on r.id=i.reuniao_id where i.processo is not null and length(i.processo) > 8 order by r.data").fetchall()
+    g = collections.defaultdict(list)
+    for x in rows:
+        k = re.sub(r"\D", "", x[0])[:15]
+        if len(k) >= 9: g[k].append(x)
+    mult = sorted(((k, v) for k, v in g.items() if len({y[6] for y in v}) > 1), key=lambda kv: -len({y[6] for y in kv[1]}))
+    vistas = collections.Counter(r[0] for r in c.execute("select diretor from votos where categoria='vista'"))
+    out = [f"# Tramitação — processos que voltam à pauta", "", f"{len(mult)} processos aparecem em mais de uma sessão (mesmo número de processo; número vem da legenda, pode falhar).", "",
+           "**Quem mais pede vista:** " + "; ".join(f"{k} {v}" for k, v in vistas.most_common(8)), "", "| Processo | Sessões | Primeira | Última | Dias | Último resultado |", "|---|---|---|---|---|---|"]
+    import datetime as _dt
+    for k, v in mult[:n]:
+        ds = sorted({y[6] for y in v if y[6] and len(y[6]) == 10})
+        dias = (_dt.date.fromisoformat(ds[-1]) - _dt.date.fromisoformat(ds[0])).days if len(ds) > 1 else "-"
+        out.append(f"| {v[0][0][:30]} | {len({y[6] for y in v})} | {ds[0] if ds else '-'} | {ds[-1] if ds else '-'} | {dias} | {(v[-1][4] or '')[:60]} |")
+    return "\n".join(out)
+
 def tema(t):
     out = [f"# Itens do tema «{t}» (todos os diretores)\n"]
     for i in c.execute("select i.*, r.numero, r.data, r.video_id from itens i join reunioes r on r.id=i.reuniao_id where i.id in (select item_id from item_temas where tema=?) order by r.data, i.ts", (t,)):
@@ -174,6 +232,10 @@ if __name__ == "__main__":
     elif a[0] == "microtema": print(microtema(a[1], a[a.index("--diretor") + 1] if "--diretor" in a else None))
     elif a[0] == "precedentes": print(precedentes(" ".join(a[1:])))
     elif a[0] == "relator": print(relator_provavel(" ".join(a[1:])))
+    elif a[0] == "reincidencia": print(reincidencia())
+    elif a[0] == "grupo": print(grupo(" ".join(a[1:])))
+    elif a[0] == "sustentacoes": print(sustentacoes())
+    elif a[0] == "tramitacao": print(tramitacao())
     elif a[0] == "ficha":
         print(ficha(a[1], a[a.index("--tema") + 1] if "--tema" in a else None))
     elif a[0] == "falas":  # falas/menções do diretor em audiências, participativas e workshops

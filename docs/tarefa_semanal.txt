@@ -3,4 +3,5 @@ Repositório Joaodesouzanery/REGULACAO-GRUPONERY, branch claude/antt-directors-s
 2) python3 pipeline/cobertura.py (por agência). Para cada reunião de diretoria transcrita sem análise: 03_preparar.py, analise conforme pipeline/prompt_analise.txt (subagentes em lotes), validar.py, 05_indexar.py; eventos novos: 07_preparar_eventos.py + prompt_evento.txt + validar_evento.py.
 3) Mandatos e vacância: pesquise notícias da semana (Agência Senado, DOU, Agência iNFRA) sobre nomeações, renúncias, posses e substitutos da ANTT e da ANM; atualize mandatos.json/vacancias.json com fonte e rode pipeline/vacancias.py (skill vacancia-agencia).
 4) organizar.py por agência; python3 pipeline/checar_integridade.py (se falhar, NÃO commite); commit e push no mesmo branch (sem PR; não versionar regulacao.db).
+4b) Monitor de clientes: python3 pipeline/monitor.py --dias 7 (config em data/monitor.json) e inclua a saída no resumo.
 5) Resumo curto: reuniões e eventos novos analisados por agência, mudanças de diretoria/vacância, divergências e votos fora do padrão da semana (diretor, RD, item, link no minuto), pendências para o Mac (legendas, Whisper, DOU) e se a coleta do Mac parece parada.
