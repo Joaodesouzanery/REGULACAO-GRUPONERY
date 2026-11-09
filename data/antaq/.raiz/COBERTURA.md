@@ -25,10 +25,10 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2021 | workshop | 2 | 0 | 0 |
 | 2021 | diretoria | 12 | 11 | 0 |
 | 2021 | audiencia | 23 | 0 | 0 |
-| 2020 | diretoria | 12 | 6 | 0 |
+| 2020 | diretoria | 12 | 11 | 0 |
 | 2020 | audiencia | 21 | 0 | 0 |
 | 2019 | workshop | 1 | 0 | 0 |
-| 2019 | diretoria | 18 | 0 | 0 |
+| 2019 | diretoria | 18 | 7 | 0 |
 | 2019 | audiencia | 11 | 0 | 0 |
 | 2018 | workshop | 6 | 0 | 0 |
 | 2018 | diretoria | 19 | 0 | 0 |
@@ -110,5 +110,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2020-09-02 · 485ª Reunião Ordinária da Diretoria · `1GqC0DTzhaU`
 - 2020-08-10 · 483ª Reunião Ordinária da Diretoria · `rU1hwdWhg4A`
 - 2020-07-04 · 481ª Reunião Ordinária da Diretoria · `mrfQFHIfoxg`
+- 2020-06-09 · 479ª Reunião Ordinária da Diretoria · `4rVjxNd9d6g`
+- 2020-05-10 · 477ª Reunião Ordinária da Diretoria · `HC46sflGlV8`
+- 2020-03-06 · 474ª Reunião Ordinária da Diretoria · `rmArovc4eYE`
+- 2020-02-10 · 473ª Reunião Ordinária da Diretoria · `eTq2UPNzAwU`
+- 2020-02-10 · 472ª Reunião Ordinária da Diretoria · `BLMEUq_Ui5g`
+- 2019-12-20 · 471ª Reunião Ordinária da Diretoria · `P_LIYIJGp8I`
+- 2019-12-17 · 470ª Reunião Ordinária da Diretoria · `0q_Q8rIAIvw`
+- 2019-11-20 · 469ª Reunião Ordinária da Diretoria · `W57uJxuLJM8`
+- 2019-11-08 · 468ª Reunião Ordinária da Diretoria · `sOfO-UKUAuk`
+- 2019-10-21 · 467ª Reunião Ordinária da Diretoria · `gS4JMlpiICg`
+- 2019-09-27 · 466ª Reunião Ordinária da Diretoria - Parte 2 · `Qnq85t-gW8c`
+- 2019-08-22 · 465ª Reunião Ordinária da Diretoria - Parte 2 · `lM2LXMi7aLk`
 
-Vídeos sem legenda registrados: 1 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 2 (ver `data/sem_legenda.jsonl`).
