@@ -2,27 +2,15 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **156** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/participativa: 1; 2025/participativa: 2; 2024/participativa: 3; 2024/audiencia: 17; 2023/workshop: 3; 2023/participativa: 1; 2023/audiencia: 9; 2022/audiencia: 12; 2021/workshop: 2; 2021/diretoria: 1; 2021/audiencia: 23; 2020/diretoria: 1; 2020/audiencia: 21; 2019/workshop: 1; 2019/diretoria: 1; 2019/audiencia: 11; 2018/workshop: 6; 2018/diretoria: 2; 2018/audiencia: 8; 2017/diretoria: 11; 2016/diretoria: 13
+Total: **144** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/participativa: 1; 2025/participativa: 2; 2024/participativa: 3; 2024/audiencia: 5; 2023/workshop: 3; 2023/participativa: 1; 2023/audiencia: 9; 2022/audiencia: 12; 2021/workshop: 2; 2021/diretoria: 1; 2021/audiencia: 23; 2020/diretoria: 1; 2020/audiencia: 21; 2019/workshop: 1; 2019/diretoria: 1; 2019/audiencia: 11; 2018/workshop: 6; 2018/diretoria: 2; 2018/audiencia: 8; 2017/diretoria: 11; 2016/diretoria: 13
 
 - 2026-10-29 · participativa · Reunião Participativa - Hidrovia Verde · https://www.youtube.com/watch?v=42keaAje7uE · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-08 · workshop · Workshop SisPAT · https://www.youtube.com/watch?v=oyRVhogJ6HI · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-10-24 · participativa · Reunião Participativa Presencial - nº02/2025 - Manaus/AM · https://www.youtube.com/watch?v=yBeeGONp0YE · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-10-22 · participativa · Reunião Participativa Presencial - nº01/2025 - Belém/PA · https://www.youtube.com/watch?v=AuQNUJc-H2g · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-12-17 · audiencia · Audiência Pública nº 17/2024 · https://www.youtube.com/watch?v=cOxyNnnBs9E · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-12-17 · audiencia · Audiência Pública nº 16/2024 · https://www.youtube.com/watch?v=XTAUgcUGrCE · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-12-04 · audiencia · Audiência Pública nº 14/2024 · https://www.youtube.com/watch?v=CZWaBYzSALw · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-12-04 · audiencia · Audiência Pública nº 13/2024 · https://www.youtube.com/watch?v=5psL9aPmw9k · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-11-13 · audiencia · Audiência Pública nº 12/2024 · https://www.youtube.com/watch?v=n65VSPijXs8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-10-25 · participativa · Reunião Participativa Presencial - Manaus/AM · https://www.youtube.com/watch?v=9zRuHuucZos · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-10-22 · audiencia · Audiência Pública nº 11/2024 · https://www.youtube.com/watch?v=EfbWbwCSbQU · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-10-10 · audiencia · Audiência Pública nº 10/2024 · https://www.youtube.com/watch?v=liG2X3WEmT0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-09-27 · participativa · Reunião Participativa Presencial - São Paulo · https://www.youtube.com/watch?v=nIEi0WfctdI · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-09-27 · audiencia · Audiência Pública nº 09/2024 · https://www.youtube.com/watch?v=rDX5y-vBnZ8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-09-04 · participativa · Reunião Participativa Presencia - Rio de Janeiro · https://www.youtube.com/watch?v=xOf6Sd1obU8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-06-11 · audiencia · Audiência Pública nº 08/2024 · https://www.youtube.com/watch?v=QhPvm-RRCUU · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-06-07 · audiencia · Audiência Pública nº04/2024 · https://www.youtube.com/watch?v=GG0x-b95o_g · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-05-16 · audiencia · Audiência Pública nº 05/2024 · https://www.youtube.com/watch?v=8EiFM586IT0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-05-14 · audiencia · Audiência Pública nº 07/2024 · https://www.youtube.com/watch?v=tC01x7qWapM · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-05-02 · audiencia · Audiência Pública nº 06/2024 · https://www.youtube.com/watch?v=-T85bVbdOa8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-05-02 · audiencia · Audiência Pública nº 03/2024 · https://www.youtube.com/watch?v=MQ-qQidMAik · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-04-12 · audiencia · Audiência Pública nº 01/2024 · https://www.youtube.com/watch?v=3boYaF4OYEs · **ainda não baixado (rodar a coleta no Mac)**
