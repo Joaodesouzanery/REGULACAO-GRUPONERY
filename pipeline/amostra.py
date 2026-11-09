@@ -6,6 +6,7 @@ import json, glob, random, os, re, sys, collections
 RODADAS = {"2019_2024": dict(anos="2019 2020 2021 2022 2023 2024", reun=6, seed=20261103, dir="data/qualidade", rel="conferencia_amostra"),
            "2025_2026": dict(anos="2025 2026", reun=8, seed=20261105, dir="data/qualidade/2025_2026", rel="conferencia_2025_2026"),
            "2019_2024_b": dict(anos="2019 2020 2021 2022 2023 2024", reun=2, seed=20261106, dir="data/qualidade/2019_2024_b", rel="conferencia_2019_2024_b", excluir="data/qualidade/amostra_cega.json")}
+RODADAS["antt_c_2019_2026"] = dict(anos="2019 2020 2021 2022 2023 2024 2025 2026", reun=2, seed=20261110, dir="data/qualidade/antt_c", rel="conferencia_antt_c_2019_2026", excluir="data/qualidade/amostra_cega.json")
 RODADAS["anm_2019_2026"] = dict(anos="2019 2020 2021 2022 2023 2024 2025 2026", reun=3, seed=20261108, dir="data/qualidade/anm_2019_2026", rel="conferencia_anm_2019_2026")
 RD = sys.argv[2] if len(sys.argv) > 2 else "2019_2024"; CFG = RODADAS[RD]; D = CFG["dir"]; os.makedirs(D + "/respostas", exist_ok=True)
 random.seed(CFG["seed"])

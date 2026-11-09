@@ -1,0 +1,49 @@
+{
+ "base": {
+  "antt": {
+   "reunioes": 281,
+   "itens_sem_reuniao": 0,
+   "votos_sem_item": 0,
+   "reunioes_sem_fonte": 0,
+   "reunioes_sem_data": 0,
+   "votos_duplicados": 6,
+   "links_testados": 9249,
+   "links_minuto_apos_fim_do_video": 2,
+   "trechos_amostra": 300,
+   "trechos_encontrados": 300,
+   "relatorias_sem_relator_no_item": 0
+  },
+  "anm": {
+   "reunioes": 129,
+   "itens_sem_reuniao": 0,
+   "votos_sem_item": 0,
+   "reunioes_sem_fonte": 0,
+   "reunioes_sem_data": 0,
+   "votos_duplicados": 1,
+   "links_testados": 14155,
+   "links_minuto_apos_fim_do_video": 0,
+   "trechos_amostra": 300,
+   "trechos_encontrados": 300,
+   "relatorias_sem_relator_no_item": 0
+  }
+ },
+ "relatorios": {
+  "clientes/exemplo/2026-antt-10": {
+   "evidencias_citadas": 82,
+   "nao_encontradas": 0,
+   "detalhe": []
+  },
+  "clientes/exemplo/2026-anm": {
+   "evidencias_citadas": 84,
+   "nao_encontradas": 0,
+   "detalhe": []
+  },
+  "clientes/exemplo/2026-sem45": {
+   "evidencias_citadas": 87,
+   "nao_encontradas": 1,
+   "detalhe": [
+    "07.md: RD 32ª Ordinária (2021-09-23) item 3.7 não encontrado"
+   ]
+  }
+ }
+}
