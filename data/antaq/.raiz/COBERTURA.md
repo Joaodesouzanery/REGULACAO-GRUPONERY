@@ -34,7 +34,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2018 | diretoria | 19 | 17 | 0 |
 | 2018 | audiencia | 8 | 0 | 0 |
 | 2017 | diretoria | 28 | 17 | 0 |
-| 2016 | diretoria | 34 | 4 | 0 |
+| 2016 | diretoria | 34 | 16 | 0 |
 
 ## Reuniões de diretoria transcritas e ainda sem análise
 
@@ -170,5 +170,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2016-05-20 · 403a Reunião Ordinária de Diretoria · `83ex6xdeHiw`
 - 2016-03-03 · 399a Reunião Ordinária de Diretoria · `VPtjidLkQpM`
 - 2016-02-12 · 398a Reunião Ordinária de Diretoria · `LxdIhL4RWoE`
+- 2016-02-07 · 396a Reunião de Diretoria da ANTAQ · `ziop2pmTWVY`
+- 2016-02-06 · 395a Reunião Ordinária de Diretoria · `TPY7_KlB1-Y`
+- 2016-02-06 · 394a Reunião de Diretoria da ANTAQ · `fT6iZfjujqE`
+- 2016-02-05 · 392a Reunião Ordinária de Diretoria · `-ay9MOhjDtA`
+- 2016-02-03 · 391a Reunião Ordinária de Diretoria · `kk94fH9MaCc`
+- 2016-02-03 · 390a Reunião de Diretoria da ANTAQ · `-1w2e21CSN4`
+- 2016-02-03 · 389a Reunião de Diretoria · `px8mI3sMZqA`
+- 2016-02-03 · 388a Reunião Ordinária de Diretoria · `29JP6iKZViY`
+- 2016-02-02 · 387a Reunião Ordinária de Diretoria · `iV4lFhXMhU4`
+- 2016-02-02 · 386a Reunião Ordinária de Diretoria · `tCslo4NMdXw`
+- 2016-02-02 · 385a Reunião Ordinária de Diretoria · `jauBfoy1yBY`
+- 2016-02-01 · 384a Reunião Ordinária de Diretoria · `dOwkHgnx5yM`
 
-Vídeos sem legenda registrados: 25 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 27 (ver `data/sem_legenda.jsonl`).
