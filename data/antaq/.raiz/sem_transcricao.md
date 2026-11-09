@@ -2,36 +2,24 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **324** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/participativa: 1; 2026/diretoria: 8; 2026/audiencia: 9; 2025/participativa: 2; 2025/diretoria: 12; 2025/audiencia: 10; 2024/participativa: 3; 2024/diretoria: 11; 2024/audiencia: 17; 2023/workshop: 3; 2023/participativa: 1; 2023/diretoria: 12; 2023/audiencia: 9; 2022/diretoria: 12; 2022/audiencia: 12; 2021/workshop: 2; 2021/diretoria: 12; 2021/audiencia: 23; 2020/diretoria: 12; 2020/audiencia: 21; 2019/workshop: 1; 2019/diretoria: 18; 2019/audiencia: 11; 2018/workshop: 6; 2018/diretoria: 19; 2018/audiencia: 8; 2017/diretoria: 28; 2016/diretoria: 34
+Total: **312** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/participativa: 1; 2026/audiencia: 9; 2025/participativa: 2; 2025/diretoria: 8; 2025/audiencia: 10; 2024/participativa: 3; 2024/diretoria: 11; 2024/audiencia: 17; 2023/workshop: 3; 2023/participativa: 1; 2023/diretoria: 12; 2023/audiencia: 9; 2022/diretoria: 12; 2022/audiencia: 12; 2021/workshop: 2; 2021/diretoria: 12; 2021/audiencia: 23; 2020/diretoria: 12; 2020/audiencia: 21; 2019/workshop: 1; 2019/diretoria: 18; 2019/audiencia: 11; 2018/workshop: 6; 2018/diretoria: 19; 2018/audiencia: 8; 2017/diretoria: 28; 2016/diretoria: 34
 
 - 2026-10-29 · participativa · Reunião Participativa - Hidrovia Verde · https://www.youtube.com/watch?v=42keaAje7uE · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-10-27 · diretoria · 621ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=PcJW-t37LCI · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-10-23 · audiencia · Audiência Pública nº 07/2024 · https://www.youtube.com/watch?v=5mXYlJ-DaJk · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-10-19 · audiencia · Audiência Pública nº 06/2026 - 2ª sessão · https://www.youtube.com/watch?v=jc4GQnBRWvs · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-10-06 · diretoria · 619ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=ohFmT3yAdx4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-09-02 · audiencia · Audiência Pública nº 02/2026 · https://www.youtube.com/watch?v=xTZR_Y68FY8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-08-21 · diretoria · 616ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=u8dT-sH3gOY · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-08-20 · diretoria · 614ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=dbP2dqL47oA · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-08-19 · audiencia · Audiência Pública nº 06/2026 · https://www.youtube.com/watch?v=tyWjLA5ce2Y · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-08-17 · audiencia · Audiência Pública nº 07/2026 · https://www.youtube.com/watch?v=RHxm312jGWU · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-06-25 · audiencia · Audiência Pública nº 04/2026 · https://www.youtube.com/watch?v=c8EViD_pn3M · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-06-22 · diretoria · 611ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=yXi-ows2JqA · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-05-09 · audiencia · Public Hearing No. 03/2026 · https://www.youtube.com/watch?v=VCUlKcBD6vc · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-24 · audiencia · Public Hearing No. 01/2026 · https://www.youtube.com/watch?v=WhHAm7PJ8EQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-04-23 · diretoria · 607ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=GITJiP3wrvE · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-08 · workshop · Workshop SisPAT · https://www.youtube.com/watch?v=oyRVhogJ6HI · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-03-24 · diretoria · 605ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=rHdt55Pm_Bo · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-02-24 · diretoria · 603ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=9Eik41N8ooQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-02-02 · audiencia · Audiência Pública nº 07/2025 · https://www.youtube.com/watch?v=zFxJfVvwwy4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-12-15 · diretoria · 600ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=V3-vAl36ud8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-11-13 · audiencia · Audiência Pública nº 06/2025 · https://www.youtube.com/watch?v=P1MyH6MvamU · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-11-13 · diretoria · 598ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=-pfkDnpUE1Y · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-11-12 · diretoria · 596ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=qzXOrxMFmkU · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-11-11 · audiencia · Audiência Pública nº 06/2025 · https://www.youtube.com/watch?v=fLRyvqPDrnU · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-10-24 · participativa · Reunião Participativa Presencial - nº02/2025 - Manaus/AM · https://www.youtube.com/watch?v=yBeeGONp0YE · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-10-22 · participativa · Reunião Participativa Presencial - nº01/2025 - Belém/PA · https://www.youtube.com/watch?v=AuQNUJc-H2g · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-09-25 · audiencia · Audiência Pública nº 05/2025 · https://www.youtube.com/watch?v=5fE59v5R9gE · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-09-11 · diretoria · 594ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=moqX_srlNM0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-08-28 · audiencia · Audiência Pública nº 04/2025 · https://www.youtube.com/watch?v=0PLbWZBY4gQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-08-27 · audiencia · Audiência Pública nº 04/2025 · https://www.youtube.com/watch?v=eTky4KjFZCM · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-08-25 · diretoria · 592ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=vDo8pMKcp_Q · **ainda não baixado (rodar a coleta no Mac)**
