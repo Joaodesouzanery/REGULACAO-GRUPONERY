@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **216** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/participativa: 1; 2026/audiencia: 9; 2025/participativa: 2; 2025/audiencia: 10; 2024/participativa: 3; 2024/audiencia: 17; 2023/workshop: 3; 2023/participativa: 1; 2023/audiencia: 9; 2022/audiencia: 12; 2021/workshop: 2; 2021/diretoria: 1; 2021/audiencia: 23; 2020/diretoria: 1; 2020/audiencia: 21; 2019/workshop: 1; 2019/diretoria: 1; 2019/audiencia: 11; 2018/workshop: 6; 2018/diretoria: 5; 2018/audiencia: 8; 2017/diretoria: 28; 2016/diretoria: 34
+Total: **204** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/participativa: 1; 2026/audiencia: 9; 2025/participativa: 2; 2025/audiencia: 10; 2024/participativa: 3; 2024/audiencia: 17; 2023/workshop: 3; 2023/participativa: 1; 2023/audiencia: 9; 2022/audiencia: 12; 2021/workshop: 2; 2021/diretoria: 1; 2021/audiencia: 23; 2020/diretoria: 1; 2020/audiencia: 21; 2019/workshop: 1; 2019/diretoria: 1; 2019/audiencia: 11; 2018/workshop: 6; 2018/diretoria: 2; 2018/audiencia: 8; 2017/diretoria: 19; 2016/diretoria: 34
 
 - 2026-10-29 · participativa · Reunião Participativa - Hidrovia Verde · https://www.youtube.com/watch?v=42keaAje7uE · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-10-23 · audiencia · Audiência Pública nº 07/2024 · https://www.youtube.com/watch?v=5mXYlJ-DaJk · **ainda não baixado (rodar a coleta no Mac)**
@@ -149,19 +149,7 @@ Total: **216** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/p
 - 2018-05-15 · workshop · Workshop de Regulação e Concorrência - ANTAQ e CADE - 09 de maio de 2018 · https://www.youtube.com/watch?v=Zf2FZMyqXZU · **ainda não baixado (rodar a coleta no Mac)**
 - 2018-05-15 · workshop · Workshop de Regulação e Concorrência - ANTAQ e CADE - 07 de maio de 2018 · https://www.youtube.com/watch?v=A4OXXOo52GE · **ainda não baixado (rodar a coleta no Mac)**
 - 2018-04-23 · diretoria · 441ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=u8qFAgp4do8 · **legenda desativada/inexistente no YouTube**
-- 2018-03-14 · diretoria · 438a Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=uzhRnDP20Bw · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-02-15 · diretoria · 437a Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=0zgpRZrJ6hw · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-02-06 · diretoria · 436a Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=9Ljnc4hs1-0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2017-12-21 · diretoria · 435a Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=8pnMiGBR888 · **ainda não baixado (rodar a coleta no Mac)**
-- 2017-12-08 · diretoria · 434a Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=BDKgrHYQkO4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2017-11-28 · diretoria · 433a Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=cu2VemB9hb8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2017-11-17 · diretoria · 432a Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=P6i6NT9EGKo · **ainda não baixado (rodar a coleta no Mac)**
-- 2017-10-27 · diretoria · 431a Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=7AE0vGl3Hus · **ainda não baixado (rodar a coleta no Mac)**
-- 2017-10-06 · diretoria · 430a Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=xB7YY8IAnRI · **ainda não baixado (rodar a coleta no Mac)**
-- 2017-09-20 · diretoria · 429a Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=9jvlbxo1RCw · **ainda não baixado (rodar a coleta no Mac)**
-- 2017-09-13 · diretoria · 428a Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=0cIpTxviS4k · **ainda não baixado (rodar a coleta no Mac)**
-- 2017-08-24 · diretoria · 427a Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=jyNLHMGKakU · **ainda não baixado (rodar a coleta no Mac)**
-- 2017-08-24 · diretoria · 425a Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=3HkCrrUG18I · **ainda não baixado (rodar a coleta no Mac)**
+- 2017-10-27 · diretoria · 431a Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=7AE0vGl3Hus · **legenda desativada/inexistente no YouTube**
 - 2017-08-24 · diretoria · 424a Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=jqmO9Gz2tHU · **ainda não baixado (rodar a coleta no Mac)**
 - 2017-08-24 · diretoria · 423a Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=T7OiOUOmJDA · **ainda não baixado (rodar a coleta no Mac)**
 - 2017-08-23 · diretoria · 422a Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=vc-lJ1haDoQ · **ainda não baixado (rodar a coleta no Mac)**

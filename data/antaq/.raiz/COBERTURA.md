@@ -31,9 +31,9 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2019 | diretoria | 18 | 17 | 0 |
 | 2019 | audiencia | 11 | 0 | 0 |
 | 2018 | workshop | 6 | 0 | 0 |
-| 2018 | diretoria | 19 | 14 | 0 |
+| 2018 | diretoria | 19 | 17 | 0 |
 | 2018 | audiencia | 8 | 0 | 0 |
-| 2017 | diretoria | 28 | 0 | 0 |
+| 2017 | diretoria | 28 | 9 | 0 |
 | 2016 | diretoria | 34 | 0 | 0 |
 
 ## Reuniões de diretoria transcritas e ainda sem análise
@@ -146,5 +146,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2018-05-07 · 442ª Reunião Ordinária da Diretoria · `5DnnyCLd5UM`
 - 2018-04-09 · 440a Reunião Ordinária da Diretoria · `EkNILU6-1gU`
 - 2018-03-14 · 439a Reunião Ordinária da Diretoria · `VSbDup-4pic`
+- 2018-03-14 · 438a Reunião Ordinária da Diretoria · `uzhRnDP20Bw`
+- 2018-02-15 · 437a Reunião Ordinária da Diretoria · `0zgpRZrJ6hw`
+- 2018-02-06 · 436a Reunião Ordinária da Diretoria · `9Ljnc4hs1-0`
+- 2017-12-21 · 435a Reunião Ordinária da Diretoria · `8pnMiGBR888`
+- 2017-12-08 · 434a Reunião Ordinária da Diretoria · `BDKgrHYQkO4`
+- 2017-11-28 · 433a Reunião Ordinária da Diretoria · `cu2VemB9hb8`
+- 2017-11-17 · 432a Reunião Ordinária da Diretoria · `P6i6NT9EGKo`
+- 2017-10-06 · 430a Reunião Ordinária da Diretoria · `xB7YY8IAnRI`
+- 2017-09-20 · 429a Reunião Ordinária da Diretoria · `9jvlbxo1RCw`
+- 2017-09-13 · 428a Reunião Ordinária da Diretoria · `0cIpTxviS4k`
+- 2017-08-24 · 427a Reunião Ordinária da Diretoria · `jyNLHMGKakU`
+- 2017-08-24 · 425a Reunião Ordinária da Diretoria · `3HkCrrUG18I`
 
-Vídeos sem legenda registrados: 5 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 6 (ver `data/sem_legenda.jsonl`).
