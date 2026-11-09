@@ -19,7 +19,8 @@ def b64(path):
     if not path or not os.path.exists(path): return None
     ext = path.rsplit(".", 1)[-1].lower().replace("jpg", "jpeg")
     return f"data:image/{ext};base64," + base64.b64encode(open(path, "rb").read()).decode()
-LOGO = b64("docs/marca/logo_grupo_nery.png")
+SEM = "--sem-marca" in sys.argv  # sem logo, capa e anexo: só perguntas e evidências
+LOGO = None if SEM else b64("docs/marca/logo_grupo_nery.png")
 def setor_img(s):
     for e in ("jpg", "jpeg", "png", "webp"):
         if s and os.path.exists(f"docs/marca/setores/{s}.{e}"): return b64(f"docs/marca/setores/{s}.{e}")
@@ -108,12 +109,12 @@ if CAP_SETOR and os.path.exists("docs/marca/setores/CREDITOS.md"):
         c_ = [x.strip() for x in l.split("|")]
         if len(c_) > 5 and c_[1].startswith(CAP_SETOR + "."): CRED = f"{c_[2]} — {c_[3]} ({c_[4]}), Wikimedia Commons"
 cap_img = next((setor_img(t.get("setor")) for _, t in perg if setor_img(t.get("setor"))), None)
-pag.append(f'''<section class="pg capa"><div class="faixa" style="{f"background-image:linear-gradient(160deg,rgba(27,42,74,.92),rgba(31,122,107,.75),rgba(95,207,159,.55)),url({cap_img})" if cap_img else ""}"><span class="c1"></span><span class="c2"></span></div>
+if not SEM: pag.append(f'''<section class="pg capa"><div class="faixa" style="{f"background-image:linear-gradient(160deg,rgba(27,42,74,.92),rgba(31,122,107,.75),rgba(95,207,159,.55)),url({cap_img})" if cap_img else ""}"><span class="c1"></span><span class="c2"></span></div>
 <div class="capa-txt">{f'<img class="logo" src="{LOGO}">' if LOGO else ""}<h1>{E(tit)}</h1><div class="sub">{E(" · ".join(dict.fromkeys((t.get("agencia") or AG).upper() for _, t in perg)))} · Perfil decisório de diretores</div>
 <div class="meta">Cliente: <b>{E(cliente)}</b><br>Período: {E(semana)} · Emitido em {hoje}</div><div class="conf">Confidencial — uso exclusivo do cliente</div>{f'<div class="cred">Foto da capa: {E(CRED)}</div>' if CRED else ""}</div></section>''')
 cols = "".join(f'<div class="item"><div class="rom">{ROM[i]}</div><h3>{E(q[:110])}</h3><p>{E(" · ".join(v for k, v in t.items() if k in ("diretor", "tema")))}</p></div>' for i, (q, t) in enumerate(perg[:10]))
 mais = f'<p class="mais">+ {len(perg)-10} perguntas</p>' if len(perg) > 10 else ""
-pag.append(f'<section class="pg"><header>{f"<img class=logo-s src={LOGO}>" if LOGO else ""}</header><h2>Conteúdo</h2><div class="kicker">PERGUNTAS DESTE RELATÓRIO</div><div class="conteudo">{cols}</div>{mais}</section>')
+pag.append(f'<section class="pg"><header>{f"<img class=logo-s src={LOGO}>" if LOGO else ""}</header><h2>{E(tit) if SEM else "Conteúdo"}</h2><div class="kicker">PERGUNTAS DESTE RELATÓRIO</div><div class="conteudo">{cols}</div>{mais}</section>')
 for i, (q, t) in enumerate(perg):
     rf = sorted(glob.glob(f"{P}/respostas/{i+1:02d}*.md"))
     d = dados(t["diretor"].strip(), t.get("tema", "").strip() or None, t.get("agencia", "").strip().lower() or None) if (conn(t.get("agencia", "").strip().lower() or AG) and t.get("diretor")) else None
@@ -124,7 +125,7 @@ for i, (q, t) in enumerate(perg):
         if rf:
             m = re.search(r"\*\*1\. Resposta curta:\*\*\s*(.+)", open(rf[0]).read()); curta = re.sub(r"\s*\[Completar[^\]]*\]", "", m.group(1)) if m else ""
         pag.append(f'<section class="pg">{head}<div class="lead">{md_inline(curta) if curta else ""}</div><div class="kpis">{kp}</div>'
-                   f'<div class="dois"><div><h4>Como vota ({E(d["periodo"])})</h4>{barras(d["dist"])}<div class="fonte">Fonte: reuniões públicas de diretoria ({(t.get("agencia") or AG).upper()}), YouTube oficial; base Grupo Nery. n = {d["n"]}.</div></div>'
+                   f'<div class="dois"><div><h4>Como vota ({E(d["periodo"])})</h4>{barras(d["dist"])}<div class="fonte">Fonte: reuniões públicas de diretoria ({(t.get("agencia") or AG).upper()}), YouTube oficial. n = {d["n"]}.</div></div>'
                    f'<div><h4>Contra-exemplos (fora do padrão)</h4><ul>' + ("".join(f'<li><b>RD {E(str(r["numero"]))} ({E(r["data"])})</b>, item {E(r["item"])} — {E(r["categoria"])}: {E((r["justificativa"] or r["voto"] or "")[:160])} · <a href="{link(r["video_id"], r["ts"] or r["its"])}">vídeo</a></li>' for r in d["contra"]) or "<li>Nenhum voto de vista, divergência ou vencido neste recorte.</li>") + '</ul></div></div></section>')
         linhas = "".join(f'<tr><td><b>RD {E(str(r["numero"]))}</b><br>{E(r["data"])}<br>item {E(r["item"])}</td><td>{E(r["assunto"][:150])}</td><td>{E((r["voto"] or "")[:90])}<br><i>{E((r["justificativa"] or "")[:140])}</i></td><td class="lit">«{E((r["trecho"] or "—")[:230])}…»</td><td><a href="{link(r["video_id"], None) if str(r["video_id"]).startswith("ata_") else f'https://www.youtube.com/watch?v={r["video_id"]}&t={max((r["trecho_t"] or seg(r["ts"] or r["its"])) - 3, 0)}s'}">{"ata oficial" if str(r["video_id"]).startswith("ata_") else "assistir no minuto"}</a></td></tr>' for r in d["ev"])
         pag.append(f'<section class="pg">{head}<h4>Evidências</h4><table><tr><th>Reunião</th><th>Assunto</th><th>Voto e justificativa</th><th>Trecho literal (legenda)</th><th>Vídeo</th></tr>{linhas}</table>'
@@ -135,7 +136,7 @@ for i, (q, t) in enumerate(perg):
         pag.append(f'<section class="pg texto">{head}{md_block(corpo)}</section>')
     elif not d:
         pag.append(f'<section class="pg">{head}<p>(resposta pendente)</p></section>')
-pag.append(f'''<section class="pg texto"><header>{f"<img class=logo-s src={LOGO}>" if LOGO else ""}</header><h2>Metodologia, confiabilidade e cobertura</h2>
+if not SEM: pag.append(f'''<section class="pg texto"><header>{f"<img class=logo-s src={LOGO}>" if LOGO else ""}</header><h2>Metodologia, confiabilidade e cobertura</h2>
 <table><tr><th>Etapa</th><th>O que fazemos</th><th>Entregável</th></tr>
 <tr><td>Coleta</td><td>Todas as reuniões públicas de diretoria e eventos (audiências, participativas) do canal oficial da agência</td><td>Inventário e transcrições</td></tr>
 <tr><td>Estruturação</td><td>Cada item: relator, resultado, voto de cada diretor, justificativa, trecho literal e minuto</td><td>Base de votos com evidência</td></tr>
