@@ -12,6 +12,8 @@ P = sys.argv[1].rstrip("/")
 tit = sys.argv[sys.argv.index("--titulo") + 1] if "--titulo" in sys.argv else "Inteligência Regulatória"
 AG = sys.argv[sys.argv.index("--agencia") + 1] if "--agencia" in sys.argv else os.environ.get("AGENCIA", "antt")
 cliente, semana = P.split("/")[-2], P.split("/")[-1]
+if "--cliente" in sys.argv: cliente = sys.argv[sys.argv.index("--cliente") + 1]
+if "--periodo" in sys.argv: semana = sys.argv[sys.argv.index("--periodo") + 1]
 E = html.escape
 def b64(path):
     if not path or not os.path.exists(path): return None
@@ -46,8 +48,16 @@ def md_inline(s):
     s = re.sub(r"\*\*([^*]+)\*\*", r"<b>\1</b>", s); s = re.sub(r"\*([^*]+)\*", r"<i>\1</i>", s)
     return s
 def md_block(md):
-    out, lista = [], False
+    out, lista, tab = [], False, []
+    def flush_tab():
+        if not tab: return
+        cel = lambda l: [x.strip() for x in l.strip().strip("|").split("|")]
+        rows = [cel(l) for l in tab if not re.match(r"^\|?\s*-{2,}", l.strip().strip("|").strip())]
+        h = "".join(f"<th>{md_inline(x)}</th>" for x in rows[0]); b = "".join("<tr>" + "".join(f"<td>{md_inline(x)}</td>" for x in r) + "</tr>" for r in rows[1:])
+        out.append(f"<table><tr>{h}</tr>{b}</table>"); tab.clear()
     for l in md.splitlines():
+        if l.strip().startswith("|"): tab.append(l); continue
+        flush_tab()
         if not l.strip() or l.startswith("# "): continue
         m = re.match(r"\s*- (.*)", l)
         if m:
@@ -55,6 +65,7 @@ def md_block(md):
             out.append(f"<li>{md_inline(m.group(1))}</li>"); continue
         if lista: out.append("</ul>"); lista = False
         out.append(f"<p>{md_inline(l)}</p>")
+    flush_tab()
     if lista: out.append("</ul>")
     return "\n".join(out)
 def dados(diretor, tema, ag=None):
@@ -148,7 +159,7 @@ h3{color:#1F7A6B;font-size:13pt;margin:3mm 0}h4{color:#1B2A4A;font-size:13pt;mar
 .fonte{font-size:8pt;color:#8A93A8;margin-top:2mm}ul{font-size:10.5pt;line-height:1.45;padding-left:5mm}a{color:#1F7A6B}
 table{width:100%;border-collapse:collapse;font-size:9.5pt;background:#fff}th{background:#207A6A;color:#fff;padding:3mm;text-align:center;font-size:10.5pt}
 td{padding:2.5mm 3mm;border:1px solid #fff;vertical-align:top}tr:nth-child(even) td{background:#E3EFDB}tr:nth-child(odd) td{background:#F0F1F2}td.lit{font-style:italic;color:#2F3A55}
-.texto p,.texto li{font-size:10.5pt;line-height:1.45}.texto{overflow:hidden}.mais{text-align:center;margin-top:8mm}"""
+.texto p,.texto li{font-size:10.5pt;line-height:1.45}.pg.texto{height:auto;min-height:210mm;overflow:visible}.texto tr{break-inside:avoid}.mais{text-align:center;margin-top:8mm}"""
 H = f'<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><title>{E(tit)} — {E(cliente)}</title><style>{CSS}</style></head><body>{"".join(pag)}</body></html>'
 open(f"{P}/relatorio.html", "w").write(H)
 js = f"""const {{chromium}}=require('playwright');(async()=>{{const b=await chromium.launch();const p=await b.newPage();await p.goto('file://{os.path.abspath(P)}/relatorio.html');await p.pdf({{path:'{os.path.abspath(P)}/relatorio.pdf',landscape:true,format:'A4',printBackground:true,margin:{{top:'0',bottom:'0',left:'0',right:'0'}}}});await b.close();}})();"""

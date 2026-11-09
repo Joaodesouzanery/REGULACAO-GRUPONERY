@@ -1,4 +1,4 @@
-# Regulação — perfis de diretores de agências (piloto: ANTT)
+# Regulação — perfis de diretores de agências (ANTT e ANM)
 
 Repositório de **transcrições de reuniões públicas** (YouTube @canalANTT) + **análise por item/voto** + **busca com link no minuto exato do vídeo**.
 
@@ -25,3 +25,15 @@ Limites: legenda automática erra nomes e números; falantes são inferidos pelo
 
 ## Estrutura organizada (para qualquer pessoa/ferramenta que conectar o repositório)
 `agencias/antt/` — veja `agencias/antt/README.md`: reuniões por ano/tipo, diretores (perfil, votos, mandato), temas e exportações (CSV, trechos, banco). `data/` é a fonte de trabalho dos scripts; depois de cada atualização rode `python3 pipeline/05_indexar.py && python3 pipeline/organizar.py antt`.
+
+## Mapa do repositório (nov/2026)
+| Onde | O quê |
+|---|---|
+| `data/` | ANTT (piloto): transcrições, análises de reuniões e eventos, mandatos, vacâncias, `entidades.json` (empresas), `microtemas.json`, `monitor.json` |
+| `data/anm/` | ANM, mesma estrutura + `atas/indice_atas.json` (121 atas oficiais); rodar scripts via `bash pipeline/ag.sh anm …` |
+| `agencias/antt/`, `agencias/anm/` | Árvore organizada: reuniões por ano, diretores, temas, `mandatos/`, `qualidade/` (conferências e cruzamento com atas), `exportacoes/` (planilha `votos_diretores.xlsx`, CSVs, banco compactado), `apresentacao/relatorio.pdf` |
+| `agencias/VACANCIA_AGENCIAS.md` | Comparativo de vacância entre agências |
+| `pipeline/` | Coleta (Mac), análise, indexação, `consulta.py` (perfil, ficha, empresa, grupo, microtema, precedentes, relator, reincidência, sustentações, tramitação), `relatorio.py` (PDF de cliente), `relatorio_agencia.py` (apresentação), `monitor.py`, `painel_dados.py`, `checar_integridade.py` |
+| `.claude/skills/` | Regras de resposta com evidência, cuidados antes de commit, vacância, relatório de cliente |
+| `docs/` | `CONTINUAR.md` (estado e comandos), produto/consultoria, DOU, outras agências, marca e fotos de setor |
+| Painel web | https://claude.ai/artifact/LN3GvfwZijv8PsarfmLiC3 |
