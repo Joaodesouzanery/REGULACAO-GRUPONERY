@@ -9,7 +9,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2026 | workshop | 1 | 0 | 0 |
 | 2026 | participativa | 1 | 0 | 0 |
 | 2026 | diretoria | 8 | 8 | 0 |
-| 2026 | audiencia | 9 | 0 | 0 |
+| 2026 | audiencia | 9 | 7 | 0 |
 | 2025 | participativa | 2 | 0 | 0 |
 | 2025 | diretoria | 12 | 12 | 0 |
 | 2025 | audiencia | 10 | 0 | 0 |
@@ -34,7 +34,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2018 | diretoria | 19 | 17 | 0 |
 | 2018 | audiencia | 8 | 0 | 0 |
 | 2017 | diretoria | 28 | 17 | 0 |
-| 2016 | diretoria | 34 | 16 | 0 |
+| 2016 | diretoria | 34 | 21 | 0 |
 
 ## Reuniões de diretoria transcritas e ainda sem análise
 
@@ -182,5 +182,10 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2016-02-02 · 386a Reunião Ordinária de Diretoria · `tCslo4NMdXw`
 - 2016-02-02 · 385a Reunião Ordinária de Diretoria · `jauBfoy1yBY`
 - 2016-02-01 · 384a Reunião Ordinária de Diretoria · `dOwkHgnx5yM`
+- 2016-01-31 · 382a Reunião Ordinária de Diretoria · `SWIuMHJBbI8`
+- 2016-01-31 · 381a Reunião Ordinária de Diretoria · `qwT0cMb2xdU`
+- 2016-01-30 · 380a Reunião Ordinária de Diretoria · `69fqpuJgfCQ`
+- 2016-01-29 · 378a Reunião Ordinária de Diretoria · `ouvs4lcMEyQ`
+- 2016-01-28 · 377a Reunião Ordinária de Diretoria · `dwIgGIN1xJs`
 
-Vídeos sem legenda registrados: 27 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 30 (ver `data/sem_legenda.jsonl`).
