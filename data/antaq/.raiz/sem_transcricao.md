@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **240** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/participativa: 1; 2026/audiencia: 9; 2025/participativa: 2; 2025/audiencia: 10; 2024/participativa: 3; 2024/audiencia: 17; 2023/workshop: 3; 2023/participativa: 1; 2023/audiencia: 9; 2022/audiencia: 12; 2021/workshop: 2; 2021/diretoria: 1; 2021/audiencia: 23; 2020/diretoria: 1; 2020/audiencia: 21; 2019/workshop: 1; 2019/diretoria: 11; 2019/audiencia: 11; 2018/workshop: 6; 2018/diretoria: 19; 2018/audiencia: 8; 2017/diretoria: 28; 2016/diretoria: 34
+Total: **228** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/participativa: 1; 2026/audiencia: 9; 2025/participativa: 2; 2025/audiencia: 10; 2024/participativa: 3; 2024/audiencia: 17; 2023/workshop: 3; 2023/participativa: 1; 2023/audiencia: 9; 2022/audiencia: 12; 2021/workshop: 2; 2021/diretoria: 1; 2021/audiencia: 23; 2020/diretoria: 1; 2020/audiencia: 21; 2019/workshop: 1; 2019/diretoria: 1; 2019/audiencia: 11; 2018/workshop: 6; 2018/diretoria: 17; 2018/audiencia: 8; 2017/diretoria: 28; 2016/diretoria: 34
 
 - 2026-10-29 · participativa · Reunião Participativa - Hidrovia Verde · https://www.youtube.com/watch?v=42keaAje7uE · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-10-23 · audiencia · Audiência Pública nº 07/2024 · https://www.youtube.com/watch?v=5mXYlJ-DaJk · **ainda não baixado (rodar a coleta no Mac)**
@@ -128,24 +128,12 @@ Total: **240** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/p
 - 2019-10-16 · audiencia · Audiência Pública nº 08 de 2019 · https://www.youtube.com/watch?v=x9elb2pccB8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-09-30 · audiencia · Audiência Pública Nº 07 de 2019 · https://www.youtube.com/watch?v=X6Lqp5iv9t8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-07-19 · workshop · Workshop Agenda Regulatória para o Biênio 2018/2019 - Padronização das Rubricas · https://www.youtube.com/watch?v=3ewp-79Bq6M · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-06-28 · diretoria · 464ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=cG1DuR6WaWY · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-06-26 · diretoria · 463ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=Miri_xRGFZA · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-06-25 · audiencia · Audiência Pública nº 05 de 2019 · https://www.youtube.com/watch?v=kICD_mgXFxM · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-06-24 · audiencia · Audiência Pública nº 04 de 2019 · https://www.youtube.com/watch?v=SlJ9-9iAXI4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-06-24 · audiencia · Audiência Pública nº 03 de 2019 · https://www.youtube.com/watch?v=PjDgQGcc2iI · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-05-30 · diretoria · 462ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=JdrGpV4gzSA · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-05-20 · diretoria · 461ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=sBMIBpqyTfI · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-05-06 · diretoria · 460ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=ydCaT1l9Yp8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-04-22 · audiencia · Audiência Pública nº 02 de 2019 · https://www.youtube.com/watch?v=J5GUhBSZD9w · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-04-15 · diretoria · 459ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=qvbjmuoJniI · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-04-04 · diretoria · 458ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=MSvf2IwhzBk · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-03-26 · diretoria · 457ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=gVYIqDwaaj8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-02-26 · diretoria · 456ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=_Gv9sYTEfE0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-02-01 · diretoria · 455ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=TLae35cInIE · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-01-25 · diretoria · 454ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=tKvKw_tuKwE · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-12-03 · diretoria · 453ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=bFOusUSVYos · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-11-14 · diretoria · 452ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=kA6JDnGT-08 · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-10-31 · diretoria · 451ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=9Y2W7KsD3i0 · **ainda não baixado (rodar a coleta no Mac)**
+- 2019-03-26 · diretoria · 457ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=gVYIqDwaaj8 · **legenda desativada/inexistente no YouTube**
+- 2018-12-03 · diretoria · 453ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=bFOusUSVYos · **legenda desativada/inexistente no YouTube**
 - 2018-10-31 · diretoria · 450ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=T_cupf15W3s · **ainda não baixado (rodar a coleta no Mac)**
 - 2018-09-25 · diretoria · 449ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=0s_Vr459lYo · **ainda não baixado (rodar a coleta no Mac)**
 - 2018-09-19 · audiencia · Audiência Pública nº 09 e 10 de 2018 · https://www.youtube.com/watch?v=nIHkzCOVfYc · **ainda não baixado (rodar a coleta no Mac)**
