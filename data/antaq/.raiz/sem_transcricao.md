@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **144** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/participativa: 1; 2025/participativa: 2; 2024/participativa: 3; 2024/audiencia: 5; 2023/workshop: 3; 2023/participativa: 1; 2023/audiencia: 9; 2022/audiencia: 12; 2021/workshop: 2; 2021/diretoria: 1; 2021/audiencia: 23; 2020/diretoria: 1; 2020/audiencia: 21; 2019/workshop: 1; 2019/diretoria: 1; 2019/audiencia: 11; 2018/workshop: 6; 2018/diretoria: 2; 2018/audiencia: 8; 2017/diretoria: 11; 2016/diretoria: 13
+Total: **132** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/participativa: 1; 2025/participativa: 2; 2024/participativa: 3; 2023/workshop: 3; 2023/participativa: 1; 2023/audiencia: 2; 2022/audiencia: 12; 2021/workshop: 2; 2021/diretoria: 1; 2021/audiencia: 23; 2020/diretoria: 1; 2020/audiencia: 21; 2019/workshop: 1; 2019/diretoria: 1; 2019/audiencia: 11; 2018/workshop: 6; 2018/diretoria: 2; 2018/audiencia: 8; 2017/diretoria: 11; 2016/diretoria: 13
 
 - 2026-10-29 · participativa · Reunião Participativa - Hidrovia Verde · https://www.youtube.com/watch?v=42keaAje7uE · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-08 · workshop · Workshop SisPAT · https://www.youtube.com/watch?v=oyRVhogJ6HI · **ainda não baixado (rodar a coleta no Mac)**
@@ -11,22 +11,10 @@ Total: **144** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/p
 - 2024-10-25 · participativa · Reunião Participativa Presencial - Manaus/AM · https://www.youtube.com/watch?v=9zRuHuucZos · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-09-27 · participativa · Reunião Participativa Presencial - São Paulo · https://www.youtube.com/watch?v=nIEi0WfctdI · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-09-04 · participativa · Reunião Participativa Presencia - Rio de Janeiro · https://www.youtube.com/watch?v=xOf6Sd1obU8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-05-02 · audiencia · Audiência Pública nº 06/2024 · https://www.youtube.com/watch?v=-T85bVbdOa8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-05-02 · audiencia · Audiência Pública nº 03/2024 · https://www.youtube.com/watch?v=MQ-qQidMAik · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-04-12 · audiencia · Audiência Pública nº 01/2024 · https://www.youtube.com/watch?v=3boYaF4OYEs · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-03-28 · audiencia · Audiência Pública nº 02/2024 · https://www.youtube.com/watch?v=UDhpbme-5wY · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-01-26 · audiencia · Audiência Pública nº 08/2023 · https://www.youtube.com/watch?v=axx8KZNMBug · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-12-21 · audiencia · Audiência Pública nº 09/2023 · https://www.youtube.com/watch?v=MGfghw9uvVU · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-12-21 · audiencia · Audiência Pública nº 07/2023 · https://www.youtube.com/watch?v=X7dSUtjvcF8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-12-21 · audiencia · Audiência Pública nº 06/2023 · https://www.youtube.com/watch?v=8nY23kP3yk0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-11-23 · participativa · REUNIÃO PARTICIPATIVA · https://www.youtube.com/watch?v=hXWok7FDKFQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-11-14 · audiencia · Audiência Pública nº 07/2023 · https://www.youtube.com/watch?v=QsQkRbPPQMo · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-10-26 · workshop · Lançamento do Primeiro PGO  Hidroviário e Chamamento Público para Estudos do Rio · https://www.youtube.com/watch?v=2iUSXQssja8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-10-02 · workshop · Engagement and Leveling Workshop: Study on the Decarbonization of Brazilian Port · https://www.youtube.com/watch?v=FLYHaeHF2aM · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-09-22 · audiencia · Audiência Pública nº 05/2023 · https://www.youtube.com/watch?v=daeEgqzymE8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-09-19 · workshop · Workshop de Engajamento e Nivelamento -Estudo de Descarbonização dos Portos Bras · https://www.youtube.com/watch?v=rRV0_pWkzE4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-08-25 · audiencia · Audiência Pública nº 03/2023 · https://www.youtube.com/watch?v=apsrFvvL_gA · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-06-17 · audiencia · Audiência Pública nº 02/2023 · https://www.youtube.com/watch?v=SQIQGuqZtVo · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-05-24 · audiencia · Audiência Pública nº1/2023 · https://www.youtube.com/watch?v=EyvEi4qUKhw · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-02-06 · audiencia · Audiência Pública nº 10/2022 · https://www.youtube.com/watch?v=suV3u6OimZM · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-09-09 · audiencia · Audiência Pública nº08/2022 · https://www.youtube.com/watch?v=4ZhONDDA-hY · **ainda não baixado (rodar a coleta no Mac)**
