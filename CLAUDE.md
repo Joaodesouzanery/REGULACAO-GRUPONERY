@@ -28,4 +28,7 @@ O YouTube bloqueia IPs de nuvem: **baixar transcrições** só funciona no Mac (
 Sempre commit e push no branch de trabalho; não abra PR sem pedido. Não versione o banco a cada lote (engorda o `.git`): só em marcos.
 
 ## Skills (usar sempre)
-`.claude/skills/`: **resposta-com-evidencia** (toda pergunta sobre diretor → `consulta.py ficha`, formato fixo com trecho literal e link no minuto), **cuidados-pipeline** (antes de todo commit: `python3 pipeline/checar_integridade.py`), **vacancia-agencia** (`vacancias.py`), **relatorio-cliente** (`pipeline/relatorio.py`; `clientes/` nunca vai ao GitHub). Produto: `docs/PRODUTO_CONSULTORIA.md`.
+`.claude/skills/`: **resposta-com-evidencia** (toda pergunta sobre diretor → `consulta.py ficha`, formato fixo com trecho literal e link no minuto), **cuidados-pipeline** (antes de todo commit: `python3 pipeline/checar_integridade.py`), **vacancia-agencia** (`vacancias.py`), **relatorio-cliente** (`pipeline/relatorio.py`; `clientes/` nunca vai ao GitHub). Também: **nova-agencia** (checklist ANTAQ e próximas), **lote-mac** (quando o Mac envia legendas/Whisper), **relatorio-visual** (`pipeline/relatorio_v2.py`, 1 página por pergunta, fotos fixas por setor). Produto: `docs/PRODUTO_CONSULTORIA.md`.
+
+## Subagentes (`.claude/agents/`) e hooks
+`analista-reuniao` (1 reunião → .analise.json validado), `conferente-cego` (amostra cega, sem ver a base), `auditor-respostas` (confere cada afirmação de relatório com SQL próprio), `pesquisador-mandatos` (Senado/DOU com fontes). Hooks em `.claude/settings.json`: `git commit` só passa se `checar_integridade.py` passar; início de sessão lembra este roteiro.

@@ -14,6 +14,7 @@ git merge --abort; git rebase --abort; git fetch origin && git merge -X theirs o
 ```
 
 ## Whisper (vídeos sem legenda) — deixe o Mac ligado
+Não precisa de ffmpeg (o áudio vem em m4a e o Whisper decodifica sozinho). Rode **depois** que a coleta terminar (as duas mexem no git). Se aparecer «ffmpeg não encontrado», faltou o `git pull`.
 ANTT (as 4 reuniões de diretoria sem texto):
 ```bash
 caffeinate -i bash pipeline/whisper_mac.sh

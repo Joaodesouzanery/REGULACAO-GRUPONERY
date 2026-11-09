@@ -1,0 +1,8 @@
+{
+ "rodovias":  {"capa": [0.5, 0.52], "painel": [0.42, 0.5], "cor": "#B7791F"},
+ "onibus":    {"capa": [0.62, 0.55], "painel": [0.70, 0.5], "cor": "#1F6F78"},
+ "ferrovias": {"capa": [0.45, 0.36], "painel": [0.5, 0.5], "cor": "#9B2C2C"},
+ "mineracao": {"capa": [0.5, 0.3], "painel": [0.42, 0.4], "cor": "#A0522D", "evitar": [0.75, 0.82, 1.0, 0.95]},
+ "portos":    {"capa": [0.5, 0.45], "painel": [0.45, 0.5], "cor": "#1E3A5F"},
+ "navegacao": {"capa": [0.55, 0.5], "painel": [0.62, 0.5], "cor": "#1E3A5F"}
+}
