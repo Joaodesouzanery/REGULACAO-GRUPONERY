@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **108** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/participativa: 1; 2025/participativa: 2; 2024/participativa: 3; 2023/workshop: 3; 2023/participativa: 1; 2021/workshop: 2; 2021/diretoria: 1; 2021/audiencia: 13; 2020/diretoria: 1; 2020/audiencia: 21; 2019/workshop: 1; 2019/diretoria: 1; 2019/audiencia: 11; 2018/workshop: 6; 2018/diretoria: 2; 2018/audiencia: 8; 2017/diretoria: 11; 2016/diretoria: 13
+Total: **96** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/participativa: 1; 2025/participativa: 2; 2024/participativa: 3; 2023/workshop: 3; 2023/participativa: 1; 2021/workshop: 2; 2021/diretoria: 1; 2021/audiencia: 1; 2020/diretoria: 1; 2020/audiencia: 21; 2019/workshop: 1; 2019/diretoria: 1; 2019/audiencia: 11; 2018/workshop: 6; 2018/diretoria: 2; 2018/audiencia: 8; 2017/diretoria: 11; 2016/diretoria: 13
 
 - 2026-10-29 · participativa · Reunião Participativa - Hidrovia Verde · https://www.youtube.com/watch?v=42keaAje7uE · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-08 · workshop · Workshop SisPAT · https://www.youtube.com/watch?v=oyRVhogJ6HI · **ainda não baixado (rodar a coleta no Mac)**
@@ -18,18 +18,6 @@ Total: **108** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/p
 - 2021-10-26 · workshop · Workshop - "Em busca de uma sinergia para a prestação de melhores serviços à ind · https://www.youtube.com/watch?v=aLKYo07boH4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-07-12 · workshop · Workshop - SEI Pro System Activities · https://www.youtube.com/watch?v=yiMTTy3Gg7I · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-06-22 · diretoria · 502ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=9stykwmjzeI · **legenda desativada/inexistente no YouTube**
-- 2021-04-12 · audiencia · Audiência Pública nº07/2021 · https://www.youtube.com/watch?v=ac14NlOVkew · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-03-29 · audiencia · Audiência Pública nº03/2021 · https://www.youtube.com/watch?v=Mb0yvXxdyU4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-03-22 · audiencia · Audiência Pública nº04/2021 · https://www.youtube.com/watch?v=f-s9qks6W9Q · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-03-17 · audiencia · Audiência Pública nº05/2021 · https://www.youtube.com/watch?v=JyZd4idJPfE · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-03-16 · audiencia · Audiência Pública nº06/2021 · https://www.youtube.com/watch?v=Rv9QS6GDv9s · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-03-11 · audiencia · Audiências Públicas nº01/2021 e nº02/2021 · https://www.youtube.com/watch?v=wwPLtbSWyes · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-02-23 · audiencia · Audiência Pública nº20/2020 · https://www.youtube.com/watch?v=ihkBP9kqafg · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-02-23 · audiencia · Audiência Pública nº19/2020 · https://www.youtube.com/watch?v=HwKpyqhYuYU · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-02-05 · audiencia · Audiência Pública virtual - ANTAQ · https://www.youtube.com/watch?v=7bHwSSBvTn8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-01-23 · audiencia · Audiência Pública nº18/2020 · https://www.youtube.com/watch?v=hnTjUCbyDec · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-01-19 · audiencia · Audiência Pública nº17/2020 · https://www.youtube.com/watch?v=eL7m4HV43WM · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-01-07 · audiencia · Audiência Pública nº16/2020 · https://www.youtube.com/watch?v=NeRKwNpLd58 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-01-05 · audiencia · Audiência Pública nº20/2020 · https://www.youtube.com/watch?v=hpFuLiF8frs · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-10-23 · audiencia · Audiência Pública nº14/2020 e nº15/2020 · https://www.youtube.com/watch?v=wyel38wqkII · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-10-20 · audiencia · Audiência Publica Virtual - ANTAQ · https://www.youtube.com/watch?v=sTffBbO7zf8 · **ainda não baixado (rodar a coleta no Mac)**
