@@ -2,16 +2,9 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **60** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/participativa: 1; 2025/participativa: 2; 2024/participativa: 3; 2023/workshop: 3; 2023/participativa: 1; 2021/workshop: 2; 2021/diretoria: 1; 2020/diretoria: 1; 2019/workshop: 1; 2019/diretoria: 1; 2018/workshop: 6; 2018/diretoria: 2; 2018/audiencia: 5; 2017/diretoria: 11; 2016/diretoria: 13
+Total: **48** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2023/workshop: 3; 2021/workshop: 2; 2021/diretoria: 1; 2020/diretoria: 1; 2019/workshop: 1; 2019/diretoria: 1; 2018/workshop: 6; 2018/diretoria: 2; 2017/diretoria: 11; 2016/diretoria: 13
 
-- 2026-10-29 · participativa · Reunião Participativa - Hidrovia Verde · https://www.youtube.com/watch?v=42keaAje7uE · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-08 · workshop · Workshop SisPAT · https://www.youtube.com/watch?v=oyRVhogJ6HI · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-10-24 · participativa · Reunião Participativa Presencial - nº02/2025 - Manaus/AM · https://www.youtube.com/watch?v=yBeeGONp0YE · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-10-22 · participativa · Reunião Participativa Presencial - nº01/2025 - Belém/PA · https://www.youtube.com/watch?v=AuQNUJc-H2g · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-10-25 · participativa · Reunião Participativa Presencial - Manaus/AM · https://www.youtube.com/watch?v=9zRuHuucZos · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-09-27 · participativa · Reunião Participativa Presencial - São Paulo · https://www.youtube.com/watch?v=nIEi0WfctdI · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-09-04 · participativa · Reunião Participativa Presencia - Rio de Janeiro · https://www.youtube.com/watch?v=xOf6Sd1obU8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-11-23 · participativa · REUNIÃO PARTICIPATIVA · https://www.youtube.com/watch?v=hXWok7FDKFQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-10-26 · workshop · Lançamento do Primeiro PGO  Hidroviário e Chamamento Público para Estudos do Rio · https://www.youtube.com/watch?v=2iUSXQssja8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-10-02 · workshop · Engagement and Leveling Workshop: Study on the Decarbonization of Brazilian Port · https://www.youtube.com/watch?v=FLYHaeHF2aM · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-09-19 · workshop · Workshop de Engajamento e Nivelamento -Estudo de Descarbonização dos Portos Bras · https://www.youtube.com/watch?v=rRV0_pWkzE4 · **ainda não baixado (rodar a coleta no Mac)**
@@ -22,11 +15,6 @@ Total: **60** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/pa
 - 2019-07-19 · workshop · Workshop Agenda Regulatória para o Biênio 2018/2019 - Padronização das Rubricas · https://www.youtube.com/watch?v=3ewp-79Bq6M · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-03-26 · diretoria · 457ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=gVYIqDwaaj8 · **legenda desativada/inexistente no YouTube**
 - 2018-12-03 · diretoria · 453ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=bFOusUSVYos · **legenda desativada/inexistente no YouTube**
-- 2018-06-29 · audiencia · Audiência Pública nº 05 de 2018 · https://www.youtube.com/watch?v=DiWyKWThY3Q · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-06-14 · audiencia · Audiência Pública nº 02 de 2018 · https://www.youtube.com/watch?v=SAWsT81IX7I · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-06-14 · audiencia · Audiência Pública nº 01 de 2018 · https://www.youtube.com/watch?v=0HqcMXMzQ8c · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-06-13 · audiencia · Audiência Pública nº 04 de 2018 · https://www.youtube.com/watch?v=2_zFXbhIAow · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-06-07 · audiencia · Audiência Pública  n° 03 de 2018 · https://www.youtube.com/watch?v=8V9m23htNpM · **ainda não baixado (rodar a coleta no Mac)**
 - 2018-05-29 · workshop · Workshop de Regulação e Concorrência - ANTAQ e CADE - 18 de maio de 2018 · https://www.youtube.com/watch?v=YuPXF9CnvTI · **ainda não baixado (rodar a coleta no Mac)**
 - 2018-05-29 · workshop · Workshop de Regulação e Concorrência - ANTAQ e CADE - 16 de maio de 2018 · https://www.youtube.com/watch?v=gn55JbGyLk4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2018-05-29 · workshop · Workshop de Regulação e Concorrência - ANTAQ e CADE - 14 de maio de 2018 · https://www.youtube.com/watch?v=owmozgvRKJo · **ainda não baixado (rodar a coleta no Mac)**
@@ -58,9 +46,9 @@ Total: **60** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/pa
 - 2016-02-05 · diretoria · 393a Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=OLUFx9yT38E · **legenda desativada/inexistente no YouTube**
 - 2016-02-01 · diretoria · 383a Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=_G7VAIDK6Qk · **legenda desativada/inexistente no YouTube**
 - 2016-01-29 · diretoria · 379a Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=UWXkN9Prpu8 · **legenda desativada/inexistente no YouTube**
-- s/data · audiencia · NA · https://www.youtube.com/watch?v=1JJAO3a4AFA · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · audiencia · NA · https://www.youtube.com/watch?v=dCnp2izF8FY · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · audiencia · NA · https://www.youtube.com/watch?v=CGzAdM8PMmk · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · audiencia · NA · https://www.youtube.com/watch?v=_hlg9820_vc · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · audiencia · NA · https://www.youtube.com/watch?v=WwDnx9NOjQc · **ainda não baixado (rodar a coleta no Mac)**
+- s/data · audiencia · NA · https://www.youtube.com/watch?v=1JJAO3a4AFA · **privado**
+- s/data · audiencia · NA · https://www.youtube.com/watch?v=dCnp2izF8FY · **privado**
+- s/data · audiencia · NA · https://www.youtube.com/watch?v=CGzAdM8PMmk · **privado**
+- s/data · audiencia · NA · https://www.youtube.com/watch?v=_hlg9820_vc · **privado**
+- s/data · audiencia · NA · https://www.youtube.com/watch?v=WwDnx9NOjQc · **privado**
 - s/data · diretoria · 623ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=L5asPhti148 · **privado**
