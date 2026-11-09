@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **264** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/participativa: 1; 2026/audiencia: 9; 2025/participativa: 2; 2025/audiencia: 10; 2024/participativa: 3; 2024/audiencia: 17; 2023/workshop: 3; 2023/participativa: 1; 2023/audiencia: 9; 2022/audiencia: 12; 2021/workshop: 2; 2021/diretoria: 7; 2021/audiencia: 23; 2020/diretoria: 12; 2020/audiencia: 21; 2019/workshop: 1; 2019/diretoria: 18; 2019/audiencia: 11; 2018/workshop: 6; 2018/diretoria: 19; 2018/audiencia: 8; 2017/diretoria: 28; 2016/diretoria: 34
+Total: **252** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/participativa: 1; 2026/audiencia: 9; 2025/participativa: 2; 2025/audiencia: 10; 2024/participativa: 3; 2024/audiencia: 17; 2023/workshop: 3; 2023/participativa: 1; 2023/audiencia: 9; 2022/audiencia: 12; 2021/workshop: 2; 2021/diretoria: 1; 2021/audiencia: 23; 2020/diretoria: 6; 2020/audiencia: 21; 2019/workshop: 1; 2019/diretoria: 18; 2019/audiencia: 11; 2018/workshop: 6; 2018/diretoria: 19; 2018/audiencia: 8; 2017/diretoria: 28; 2016/diretoria: 34
 
 - 2026-10-29 · participativa · Reunião Participativa - Hidrovia Verde · https://www.youtube.com/watch?v=42keaAje7uE · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-10-23 · audiencia · Audiência Pública nº 07/2024 · https://www.youtube.com/watch?v=5mXYlJ-DaJk · **ainda não baixado (rodar a coleta no Mac)**
@@ -77,47 +77,35 @@ Total: **264** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/p
 - 2021-09-28 · audiencia · Audiência Pública nº16/2021 · https://www.youtube.com/watch?v=JPuiWguhvR8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-09-27 · audiencia · Audiência Pública nº17/2021 · https://www.youtube.com/watch?v=M8kZEDOlhtg · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-08-23 · audiencia · Audiência Pública nº15/2021 · https://www.youtube.com/watch?v=H0xrKiR9Sg4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-08-23 · diretoria · 506ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=sMb80ag1j8Q · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-08-04 · audiencia · Audiência Pública nº14/2021 · https://www.youtube.com/watch?v=cMWZVD2qQRU · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-07-29 · audiencia · Audiência Pública nº13/2021 · https://www.youtube.com/watch?v=NFe_m3TnhnE · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-07-29 · audiencia · Audiência Pública nº12/2021 · https://www.youtube.com/watch?v=J15TLCtQmJA · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-07-22 · diretoria · 504ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=1YUVyLipnRk · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-07-12 · workshop · Workshop - SEI Pro System Activities · https://www.youtube.com/watch?v=yiMTTy3Gg7I · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-07-08 · audiencia · Audiência Pública nº11/2021 · https://www.youtube.com/watch?v=hOzDODDYtv4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-06-22 · diretoria · 502ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=9stykwmjzeI · **ainda não baixado (rodar a coleta no Mac)**
+- 2021-06-22 · diretoria · 502ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=9stykwmjzeI · **legenda desativada/inexistente no YouTube**
 - 2021-06-09 · audiencia · Audiência Pública nº10/2021 · https://www.youtube.com/watch?v=2EoY53nFGCU · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-05-21 · audiencia · Audiência Pública nº09/2021 · https://www.youtube.com/watch?v=k6Yt7fVituk · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-05-21 · diretoria · 500ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=noRwputqnFA · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-04-15 · diretoria · 498ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=-lREX-kw0so · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-04-12 · audiencia · Audiência Pública nº07/2021 · https://www.youtube.com/watch?v=ac14NlOVkew · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-03-29 · audiencia · Audiência Pública nº03/2021 · https://www.youtube.com/watch?v=Mb0yvXxdyU4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-03-22 · audiencia · Audiência Pública nº04/2021 · https://www.youtube.com/watch?v=f-s9qks6W9Q · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-03-17 · audiencia · Audiência Pública nº05/2021 · https://www.youtube.com/watch?v=JyZd4idJPfE · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-03-16 · audiencia · Audiência Pública nº06/2021 · https://www.youtube.com/watch?v=Rv9QS6GDv9s · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-03-15 · diretoria · 496ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=AGsPXpBsKEQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-03-11 · audiencia · Audiências Públicas nº01/2021 e nº02/2021 · https://www.youtube.com/watch?v=wwPLtbSWyes · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-02-23 · audiencia · Audiência Pública nº20/2020 · https://www.youtube.com/watch?v=ihkBP9kqafg · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-02-23 · audiencia · Audiência Pública nº19/2020 · https://www.youtube.com/watch?v=HwKpyqhYuYU · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-02-09 · diretoria · 494ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=xCx8bCzRQQE · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-02-05 · audiencia · Audiência Pública virtual - ANTAQ · https://www.youtube.com/watch?v=7bHwSSBvTn8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-01-23 · audiencia · Audiência Pública nº18/2020 · https://www.youtube.com/watch?v=hnTjUCbyDec · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-01-19 · audiencia · Audiência Pública nº17/2020 · https://www.youtube.com/watch?v=eL7m4HV43WM · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-01-07 · audiencia · Audiência Pública nº16/2020 · https://www.youtube.com/watch?v=NeRKwNpLd58 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-01-05 · audiencia · Audiência Pública nº20/2020 · https://www.youtube.com/watch?v=hpFuLiF8frs · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-12-22 · diretoria · 492ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=RVz4eCC2oXc · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-12-08 · diretoria · 490ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=6mBZ-voMJQ0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-10-23 · audiencia · Audiência Pública nº14/2020 e nº15/2020 · https://www.youtube.com/watch?v=wyel38wqkII · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-10-20 · audiencia · Audiência Publica Virtual - ANTAQ · https://www.youtube.com/watch?v=sTffBbO7zf8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-10-07 · audiencia · Audiência Pública nº13/2020 · https://www.youtube.com/watch?v=hLYyTz6PW7M · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-09-30 · diretoria · 487ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=LQY5O2ZQdEE · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-09-02 · diretoria · 485ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=1GqC0DTzhaU · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-08-19 · audiencia · Audiência Pública nº12/2020 · https://www.youtube.com/watch?v=TIGVwxlDrIg · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-08-18 · audiencia · Audiência Pública nº11/2020 · https://www.youtube.com/watch?v=o6RGOiJLIfg · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-08-10 · audiencia · Audiência Pública nº10/2020 · https://www.youtube.com/watch?v=xbE24yrza9Y · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-08-10 · diretoria · 483ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=rU1hwdWhg4A · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-07-15 · audiencia · Audiência Pública nº9/2020 · https://www.youtube.com/watch?v=LSgvZEfn4TA · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-07-08 · audiencia · Audiência Pública nº8/2020 · https://www.youtube.com/watch?v=96iGHFdTbl4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-07-04 · diretoria · 481ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=mrfQFHIfoxg · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-06-24 · audiencia · Audiência Pública nº5/2020 · https://www.youtube.com/watch?v=UDrB7GnOfKM · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-06-13 · audiencia · Audiência Pública nº6/2020 e nº7/2020 · https://www.youtube.com/watch?v=fl-rtATTM1s · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-06-09 · diretoria · 479ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=4rVjxNd9d6g · **ainda não baixado (rodar a coleta no Mac)**
