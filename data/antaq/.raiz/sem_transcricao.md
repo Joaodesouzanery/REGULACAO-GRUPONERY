@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **120** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/participativa: 1; 2025/participativa: 2; 2024/participativa: 3; 2023/workshop: 3; 2023/participativa: 1; 2022/audiencia: 2; 2021/workshop: 2; 2021/diretoria: 1; 2021/audiencia: 23; 2020/diretoria: 1; 2020/audiencia: 21; 2019/workshop: 1; 2019/diretoria: 1; 2019/audiencia: 11; 2018/workshop: 6; 2018/diretoria: 2; 2018/audiencia: 8; 2017/diretoria: 11; 2016/diretoria: 13
+Total: **108** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/participativa: 1; 2025/participativa: 2; 2024/participativa: 3; 2023/workshop: 3; 2023/participativa: 1; 2021/workshop: 2; 2021/diretoria: 1; 2021/audiencia: 13; 2020/diretoria: 1; 2020/audiencia: 21; 2019/workshop: 1; 2019/diretoria: 1; 2019/audiencia: 11; 2018/workshop: 6; 2018/diretoria: 2; 2018/audiencia: 8; 2017/diretoria: 11; 2016/diretoria: 13
 
 - 2026-10-29 · participativa · Reunião Participativa - Hidrovia Verde · https://www.youtube.com/watch?v=42keaAje7uE · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-08 · workshop · Workshop SisPAT · https://www.youtube.com/watch?v=oyRVhogJ6HI · **ainda não baixado (rodar a coleta no Mac)**
@@ -15,21 +15,9 @@ Total: **120** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/p
 - 2023-10-26 · workshop · Lançamento do Primeiro PGO  Hidroviário e Chamamento Público para Estudos do Rio · https://www.youtube.com/watch?v=2iUSXQssja8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-10-02 · workshop · Engagement and Leveling Workshop: Study on the Decarbonization of Brazilian Port · https://www.youtube.com/watch?v=FLYHaeHF2aM · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-09-19 · workshop · Workshop de Engajamento e Nivelamento -Estudo de Descarbonização dos Portos Bras · https://www.youtube.com/watch?v=rRV0_pWkzE4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-04-05 · audiencia · Audiência Pública nº01/2022 - Parte 2 · https://www.youtube.com/watch?v=vQdzLiDBgpA · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-03-14 · audiencia · Audiência Pública nº01/2022 · https://www.youtube.com/watch?v=Tw1PC_QO8YU · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-10-26 · workshop · Workshop - "Em busca de uma sinergia para a prestação de melhores serviços à ind · https://www.youtube.com/watch?v=aLKYo07boH4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-10-11 · audiencia · Audiência Pública nº19/2021 · https://www.youtube.com/watch?v=ItdG2G0abbE · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-09-28 · audiencia · Audiência Pública nº16/2021 · https://www.youtube.com/watch?v=JPuiWguhvR8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-09-27 · audiencia · Audiência Pública nº17/2021 · https://www.youtube.com/watch?v=M8kZEDOlhtg · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-08-23 · audiencia · Audiência Pública nº15/2021 · https://www.youtube.com/watch?v=H0xrKiR9Sg4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-08-04 · audiencia · Audiência Pública nº14/2021 · https://www.youtube.com/watch?v=cMWZVD2qQRU · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-07-29 · audiencia · Audiência Pública nº13/2021 · https://www.youtube.com/watch?v=NFe_m3TnhnE · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-07-29 · audiencia · Audiência Pública nº12/2021 · https://www.youtube.com/watch?v=J15TLCtQmJA · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-07-12 · workshop · Workshop - SEI Pro System Activities · https://www.youtube.com/watch?v=yiMTTy3Gg7I · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-07-08 · audiencia · Audiência Pública nº11/2021 · https://www.youtube.com/watch?v=hOzDODDYtv4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-06-22 · diretoria · 502ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=9stykwmjzeI · **legenda desativada/inexistente no YouTube**
-- 2021-06-09 · audiencia · Audiência Pública nº10/2021 · https://www.youtube.com/watch?v=2EoY53nFGCU · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-05-21 · audiencia · Audiência Pública nº09/2021 · https://www.youtube.com/watch?v=k6Yt7fVituk · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-04-12 · audiencia · Audiência Pública nº07/2021 · https://www.youtube.com/watch?v=ac14NlOVkew · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-03-29 · audiencia · Audiência Pública nº03/2021 · https://www.youtube.com/watch?v=Mb0yvXxdyU4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-03-22 · audiencia · Audiência Pública nº04/2021 · https://www.youtube.com/watch?v=f-s9qks6W9Q · **ainda não baixado (rodar a coleta no Mac)**
