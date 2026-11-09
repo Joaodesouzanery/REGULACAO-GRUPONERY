@@ -14,14 +14,15 @@ if [ "$SIG" != "antt" ]; then bash pipeline/ag.sh "$SIG" true; cd "data/$SIG/.ra
 UV="$HOME/.local/bin/uv"; [ -x "$UV" ] || UV="$(command -v uv)"
 [ -z "$UV" ] && { echo "uv não encontrado. Rode: curl -LsSf https://astral.sh/uv/install.sh | sh"; exit 1; }
 IDS=("$@"); [ ${#IDS[@]} -eq 0 ] && [ "$SIG" != "antt" ] && IDS=($(python3 -c "import json,os;print(' '.join(json.loads(l)['id'] for l in open('data/sem_legenda.jsonl')))" 2>/dev/null)); [ ${#IDS[@]} -eq 0 ] && IDS=(tE0KRoC9JhA 5Ekrdu6K-4Y U3h5SQcZJYE 6A8-zT0Sipw)
-command -v ffmpeg >/dev/null || { echo "ffmpeg não encontrado. Rode: brew install ffmpeg"; exit 1; }
+command -v ffmpeg >/dev/null || echo "(ffmpeg não instalado: tudo bem, o áudio é baixado em m4a e o Whisper decodifica sozinho)"
 MOD="${WHISPER_MODELO:-small}"; TMP="$(mktemp -d)"; BR="$(git -C "$REPO" branch --show-current)"
 echo "Branch: $BR (deve ser claude/antt-directors-speeches-analysis-93r9hi)"
 for id in "${IDS[@]}"; do
   echo "=== $id: baixando áudio ==="
-  "$UV" run --python 3.12 --with "yt-dlp>=2026.1.1" yt-dlp -f bestaudio -x --audio-format m4a -o "$TMP/$id.%(ext)s" "https://www.youtube.com/watch?v=$id" || { echo "falhou o download de $id"; continue; }
+  "$UV" run --python 3.12 --with "yt-dlp>=2026.1.1" yt-dlp -f "bestaudio[ext=m4a]/bestaudio" -o "$TMP/$id.%(ext)s" "https://www.youtube.com/watch?v=$id" || { echo "falhou o download de $id"; continue; }
+  AUD="$(ls "$TMP/$id".* 2>/dev/null | head -1)"; [ -z "$AUD" ] && { echo "áudio de $id não encontrado"; continue; }
   echo "=== $id: transcrevendo (modelo $MOD) ==="
-  "$UV" run --python 3.12 --with faster-whisper python - "$TMP/$id.m4a" "data/transcricoes/$id.json" "$MOD" <<'PY'
+  "$UV" run --python 3.12 --with faster-whisper python - "$AUD" "data/transcricoes/$id.json" "$MOD" <<'PY'
 import sys, json, datetime
 from faster_whisper import WhisperModel
 audio, out, mod = sys.argv[1:4]
