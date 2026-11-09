@@ -14,11 +14,11 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2025 | diretoria | 12 | 12 | 0 |
 | 2025 | audiencia | 10 | 0 | 0 |
 | 2024 | participativa | 3 | 0 | 0 |
-| 2024 | diretoria | 11 | 4 | 0 |
+| 2024 | diretoria | 11 | 11 | 0 |
 | 2024 | audiencia | 17 | 0 | 0 |
 | 2023 | workshop | 3 | 0 | 0 |
 | 2023 | participativa | 1 | 0 | 0 |
-| 2023 | diretoria | 12 | 0 | 0 |
+| 2023 | diretoria | 12 | 5 | 0 |
 | 2023 | audiencia | 9 | 0 | 0 |
 | 2022 | diretoria | 12 | 0 | 0 |
 | 2022 | audiencia | 12 | 0 | 0 |
@@ -62,3 +62,15 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2024-11-22 · 576ª Reunião Ordinária de Diretoria · `PbLoCOkJmjE`
 - 2024-10-25 · 574ª Reunião Ordinária de Diretoria · `mVaf7PJPymQ`
 - 2024-10-04 · 572ª Reunião Ordinária de Diretoria · `Njv3sl-Epeg`
+- 2024-08-30 · 570ª Reunião Ordinária da Diretoria · `AcDZ4v_g3-g`
+- 2024-08-05 · 568ª Reunião Ordinária de Diretoria · `c4k6__yoPIU`
+- 2024-07-17 · 566ª Reunião Ordinária de Diretoria · `bii62a9BzxQ`
+- 2024-05-29 · 564ª Reunião Ordinária de Diretoria · `clvZEshF2Ds`
+- 2024-04-24 · 562ª Reunião Ordinária de Diretoria · `v9LsOu2j1IE`
+- 2024-03-25 · 560ª Reunião Ordinária de Diretoria · `mgIjvHjSXE8`
+- 2024-02-26 · 558ª Reunião Ordinária de Diretoria · `dpG29DUZuEU`
+- 2023-12-14 · 557ª Reunião Ordinária de Diretoria · `LML6Jr91Lg8`
+- 2023-11-30 · 555ª Reunião Ordinária de Diretoria · `oYALZcX4LFY`
+- 2023-11-06 · 554ª Reunião Ordinária de Diretoria · `iQKOryncpB4`
+- 2023-10-04 · 551ª Reunião Ordinária de Diretoria · `wXepahVf81I`
+- 2023-09-19 · 549ª Reunião Ordinária de Diretoria · `5Bo36L6rZKY`

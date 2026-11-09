@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **300** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/participativa: 1; 2026/audiencia: 9; 2025/participativa: 2; 2025/audiencia: 10; 2024/participativa: 3; 2024/diretoria: 7; 2024/audiencia: 17; 2023/workshop: 3; 2023/participativa: 1; 2023/diretoria: 12; 2023/audiencia: 9; 2022/diretoria: 12; 2022/audiencia: 12; 2021/workshop: 2; 2021/diretoria: 12; 2021/audiencia: 23; 2020/diretoria: 12; 2020/audiencia: 21; 2019/workshop: 1; 2019/diretoria: 18; 2019/audiencia: 11; 2018/workshop: 6; 2018/diretoria: 19; 2018/audiencia: 8; 2017/diretoria: 28; 2016/diretoria: 34
+Total: **288** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/participativa: 1; 2026/audiencia: 9; 2025/participativa: 2; 2025/audiencia: 10; 2024/participativa: 3; 2024/audiencia: 17; 2023/workshop: 3; 2023/participativa: 1; 2023/diretoria: 7; 2023/audiencia: 9; 2022/diretoria: 12; 2022/audiencia: 12; 2021/workshop: 2; 2021/diretoria: 12; 2021/audiencia: 23; 2020/diretoria: 12; 2020/audiencia: 21; 2019/workshop: 1; 2019/diretoria: 18; 2019/audiencia: 11; 2018/workshop: 6; 2018/diretoria: 19; 2018/audiencia: 8; 2017/diretoria: 28; 2016/diretoria: 34
 
 - 2026-10-29 · participativa · Reunião Participativa - Hidrovia Verde · https://www.youtube.com/watch?v=42keaAje7uE · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-10-23 · audiencia · Audiência Pública nº 07/2024 · https://www.youtube.com/watch?v=5mXYlJ-DaJk · **ainda não baixado (rodar a coleta no Mac)**
@@ -38,36 +38,24 @@ Total: **300** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/p
 - 2024-09-27 · participativa · Reunião Participativa Presencial - São Paulo · https://www.youtube.com/watch?v=nIEi0WfctdI · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-09-27 · audiencia · Audiência Pública nº 09/2024 · https://www.youtube.com/watch?v=rDX5y-vBnZ8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-09-04 · participativa · Reunião Participativa Presencia - Rio de Janeiro · https://www.youtube.com/watch?v=xOf6Sd1obU8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-08-30 · diretoria · 570ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=AcDZ4v_g3-g · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-08-05 · diretoria · 568ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=c4k6__yoPIU · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-07-17 · diretoria · 566ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=bii62a9BzxQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-06-11 · audiencia · Audiência Pública nº 08/2024 · https://www.youtube.com/watch?v=QhPvm-RRCUU · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-06-07 · audiencia · Audiência Pública nº04/2024 · https://www.youtube.com/watch?v=GG0x-b95o_g · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-05-29 · diretoria · 564ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=clvZEshF2Ds · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-05-16 · audiencia · Audiência Pública nº 05/2024 · https://www.youtube.com/watch?v=8EiFM586IT0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-05-14 · audiencia · Audiência Pública nº 07/2024 · https://www.youtube.com/watch?v=tC01x7qWapM · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-05-02 · audiencia · Audiência Pública nº 06/2024 · https://www.youtube.com/watch?v=-T85bVbdOa8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-05-02 · audiencia · Audiência Pública nº 03/2024 · https://www.youtube.com/watch?v=MQ-qQidMAik · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-04-24 · diretoria · 562ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=v9LsOu2j1IE · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-04-12 · audiencia · Audiência Pública nº 01/2024 · https://www.youtube.com/watch?v=3boYaF4OYEs · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-03-28 · audiencia · Audiência Pública nº 02/2024 · https://www.youtube.com/watch?v=UDhpbme-5wY · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-03-25 · diretoria · 560ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=mgIjvHjSXE8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-02-26 · diretoria · 558ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=dpG29DUZuEU · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-01-26 · audiencia · Audiência Pública nº 08/2023 · https://www.youtube.com/watch?v=axx8KZNMBug · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-12-21 · audiencia · Audiência Pública nº 09/2023 · https://www.youtube.com/watch?v=MGfghw9uvVU · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-12-21 · audiencia · Audiência Pública nº 07/2023 · https://www.youtube.com/watch?v=X7dSUtjvcF8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-12-21 · audiencia · Audiência Pública nº 06/2023 · https://www.youtube.com/watch?v=8nY23kP3yk0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-12-14 · diretoria · 557ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=LML6Jr91Lg8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-11-30 · diretoria · 555ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=oYALZcX4LFY · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-11-23 · participativa · REUNIÃO PARTICIPATIVA · https://www.youtube.com/watch?v=hXWok7FDKFQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-11-14 · audiencia · Audiência Pública nº 07/2023 · https://www.youtube.com/watch?v=QsQkRbPPQMo · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-11-06 · diretoria · 554ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=iQKOryncpB4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-10-26 · workshop · Lançamento do Primeiro PGO  Hidroviário e Chamamento Público para Estudos do Rio · https://www.youtube.com/watch?v=2iUSXQssja8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-10-04 · diretoria · 551ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=wXepahVf81I · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-10-02 · workshop · Engagement and Leveling Workshop: Study on the Decarbonization of Brazilian Port · https://www.youtube.com/watch?v=FLYHaeHF2aM · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-09-22 · audiencia · Audiência Pública nº 05/2023 · https://www.youtube.com/watch?v=daeEgqzymE8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-09-19 · workshop · Workshop de Engajamento e Nivelamento -Estudo de Descarbonização dos Portos Bras · https://www.youtube.com/watch?v=rRV0_pWkzE4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-09-19 · diretoria · 549ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=5Bo36L6rZKY · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-08-25 · audiencia · Audiência Pública nº 03/2023 · https://www.youtube.com/watch?v=apsrFvvL_gA · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-08-07 · diretoria · 547ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=FlMPfnuBUVI · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-06-29 · diretoria · 30º Reunião Extraordinária de Diretoria · https://www.youtube.com/watch?v=wjX9CByByqE · **ainda não baixado (rodar a coleta no Mac)**
