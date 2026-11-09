@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **96** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/participativa: 1; 2025/participativa: 2; 2024/participativa: 3; 2023/workshop: 3; 2023/participativa: 1; 2021/workshop: 2; 2021/diretoria: 1; 2021/audiencia: 1; 2020/diretoria: 1; 2020/audiencia: 21; 2019/workshop: 1; 2019/diretoria: 1; 2019/audiencia: 11; 2018/workshop: 6; 2018/diretoria: 2; 2018/audiencia: 8; 2017/diretoria: 11; 2016/diretoria: 13
+Total: **84** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/participativa: 1; 2025/participativa: 2; 2024/participativa: 3; 2023/workshop: 3; 2023/participativa: 1; 2021/workshop: 2; 2021/diretoria: 1; 2020/diretoria: 1; 2020/audiencia: 10; 2019/workshop: 1; 2019/diretoria: 1; 2019/audiencia: 11; 2018/workshop: 6; 2018/diretoria: 2; 2018/audiencia: 8; 2017/diretoria: 11; 2016/diretoria: 13
 
 - 2026-10-29 · participativa · Reunião Participativa - Hidrovia Verde · https://www.youtube.com/watch?v=42keaAje7uE · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-08 · workshop · Workshop SisPAT · https://www.youtube.com/watch?v=oyRVhogJ6HI · **ainda não baixado (rodar a coleta no Mac)**
@@ -18,18 +18,6 @@ Total: **96** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/pa
 - 2021-10-26 · workshop · Workshop - "Em busca de uma sinergia para a prestação de melhores serviços à ind · https://www.youtube.com/watch?v=aLKYo07boH4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-07-12 · workshop · Workshop - SEI Pro System Activities · https://www.youtube.com/watch?v=yiMTTy3Gg7I · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-06-22 · diretoria · 502ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=9stykwmjzeI · **legenda desativada/inexistente no YouTube**
-- 2021-01-05 · audiencia · Audiência Pública nº20/2020 · https://www.youtube.com/watch?v=hpFuLiF8frs · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-10-23 · audiencia · Audiência Pública nº14/2020 e nº15/2020 · https://www.youtube.com/watch?v=wyel38wqkII · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-10-20 · audiencia · Audiência Publica Virtual - ANTAQ · https://www.youtube.com/watch?v=sTffBbO7zf8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-10-07 · audiencia · Audiência Pública nº13/2020 · https://www.youtube.com/watch?v=hLYyTz6PW7M · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-08-19 · audiencia · Audiência Pública nº12/2020 · https://www.youtube.com/watch?v=TIGVwxlDrIg · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-08-18 · audiencia · Audiência Pública nº11/2020 · https://www.youtube.com/watch?v=o6RGOiJLIfg · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-08-10 · audiencia · Audiência Pública nº10/2020 · https://www.youtube.com/watch?v=xbE24yrza9Y · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-07-15 · audiencia · Audiência Pública nº9/2020 · https://www.youtube.com/watch?v=LSgvZEfn4TA · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-07-08 · audiencia · Audiência Pública nº8/2020 · https://www.youtube.com/watch?v=96iGHFdTbl4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-06-24 · audiencia · Audiência Pública nº5/2020 · https://www.youtube.com/watch?v=UDrB7GnOfKM · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-06-13 · audiencia · Audiência Pública nº6/2020 e nº7/2020 · https://www.youtube.com/watch?v=fl-rtATTM1s · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-06-04 · audiencia · Audiência Pública Virtual - ANTAQ · https://www.youtube.com/watch?v=4gz-_LsCroA · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-05-05 · audiencia · Audiência Pública nº 06 de 2019 · https://www.youtube.com/watch?v=jXUB8QqMDbU · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-04-30 · audiencia · Audiência Pública nº09 de 2019 · https://www.youtube.com/watch?v=n9wXgomFvYg · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-04-10 · diretoria · 475ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=xli1Kp1oxZU · **legenda desativada/inexistente no YouTube**
