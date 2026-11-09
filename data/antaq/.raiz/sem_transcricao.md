@@ -2,25 +2,15 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **48** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2023/workshop: 3; 2021/workshop: 2; 2021/diretoria: 1; 2020/diretoria: 1; 2019/workshop: 1; 2019/diretoria: 1; 2018/workshop: 6; 2018/diretoria: 2; 2017/diretoria: 11; 2016/diretoria: 13
+Total: **38** · sem /diretoria: 1; sem /audiencia: 5; 2021/diretoria: 1; 2020/diretoria: 1; 2019/diretoria: 1; 2018/workshop: 3; 2018/diretoria: 2; 2017/diretoria: 11; 2016/diretoria: 13
 
-- 2026-04-08 · workshop · Workshop SisPAT · https://www.youtube.com/watch?v=oyRVhogJ6HI · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-10-26 · workshop · Lançamento do Primeiro PGO  Hidroviário e Chamamento Público para Estudos do Rio · https://www.youtube.com/watch?v=2iUSXQssja8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-10-02 · workshop · Engagement and Leveling Workshop: Study on the Decarbonization of Brazilian Port · https://www.youtube.com/watch?v=FLYHaeHF2aM · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-09-19 · workshop · Workshop de Engajamento e Nivelamento -Estudo de Descarbonização dos Portos Bras · https://www.youtube.com/watch?v=rRV0_pWkzE4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-10-26 · workshop · Workshop - "Em busca de uma sinergia para a prestação de melhores serviços à ind · https://www.youtube.com/watch?v=aLKYo07boH4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-07-12 · workshop · Workshop - SEI Pro System Activities · https://www.youtube.com/watch?v=yiMTTy3Gg7I · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-06-22 · diretoria · 502ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=9stykwmjzeI · **legenda desativada/inexistente no YouTube**
 - 2020-04-10 · diretoria · 475ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=xli1Kp1oxZU · **legenda desativada/inexistente no YouTube**
-- 2019-07-19 · workshop · Workshop Agenda Regulatória para o Biênio 2018/2019 - Padronização das Rubricas · https://www.youtube.com/watch?v=3ewp-79Bq6M · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-03-26 · diretoria · 457ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=gVYIqDwaaj8 · **legenda desativada/inexistente no YouTube**
 - 2018-12-03 · diretoria · 453ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=bFOusUSVYos · **legenda desativada/inexistente no YouTube**
-- 2018-05-29 · workshop · Workshop de Regulação e Concorrência - ANTAQ e CADE - 18 de maio de 2018 · https://www.youtube.com/watch?v=YuPXF9CnvTI · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-05-29 · workshop · Workshop de Regulação e Concorrência - ANTAQ e CADE - 16 de maio de 2018 · https://www.youtube.com/watch?v=gn55JbGyLk4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-05-29 · workshop · Workshop de Regulação e Concorrência - ANTAQ e CADE - 14 de maio de 2018 · https://www.youtube.com/watch?v=owmozgvRKJo · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-05-15 · workshop · Workshop de Regulação e Concorrência - ANTAQ e CADE - 11 de maio de 2018 · https://www.youtube.com/watch?v=qan9KBg8ExI · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-05-15 · workshop · Workshop de Regulação e Concorrência - ANTAQ e CADE - 09 de maio de 2018 · https://www.youtube.com/watch?v=Zf2FZMyqXZU · **ainda não baixado (rodar a coleta no Mac)**
-- 2018-05-15 · workshop · Workshop de Regulação e Concorrência - ANTAQ e CADE - 07 de maio de 2018 · https://www.youtube.com/watch?v=A4OXXOo52GE · **ainda não baixado (rodar a coleta no Mac)**
+- 2018-05-29 · workshop · Workshop de Regulação e Concorrência - ANTAQ e CADE - 18 de maio de 2018 · https://www.youtube.com/watch?v=YuPXF9CnvTI · **legenda desativada/inexistente no YouTube**
+- 2018-05-29 · workshop · Workshop de Regulação e Concorrência - ANTAQ e CADE - 16 de maio de 2018 · https://www.youtube.com/watch?v=gn55JbGyLk4 · **legenda desativada/inexistente no YouTube**
+- 2018-05-29 · workshop · Workshop de Regulação e Concorrência - ANTAQ e CADE - 14 de maio de 2018 · https://www.youtube.com/watch?v=owmozgvRKJo · **bloqueio temporário do YouTube (tentar de novo)**
 - 2018-04-23 · diretoria · 441ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=u8qFAgp4do8 · **legenda desativada/inexistente no YouTube**
 - 2017-10-27 · diretoria · 431a Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=7AE0vGl3Hus · **legenda desativada/inexistente no YouTube**
 - 2017-08-08 · diretoria · 426a Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=pjBAThnWO58 · **legenda desativada/inexistente no YouTube**
