@@ -94,7 +94,9 @@ def do_md(md):
         if m:
             lk = re.search(r"\((https?://[^)]+)\)", l); resto = re.sub(r"\[[^\]]+\]\([^)]+\)", "", m.group(4))
             partes = [x.strip() for x in resto.split("·") if x.strip()]
-            cards.append({"rd": f"Reunião {m.group(1)}", "data": m.group(2), "item": m.group(3).strip(), "assunto": partes[0] if partes else "", "voto": " · ".join(partes[1:3]), "just": "", "trecho": "", "link": lk.group(1) if lk else "", "tag": "precedente"})
+            ass, _, res = (partes[0] if partes else "").partition("→")
+            votos = next((x for x in partes[1:] if x.startswith("votos:") or x.startswith("relator")), "")
+            cards.append({"rd": f"Reunião {m.group(1)}", "data": m.group(2), "item": m.group(3).strip(), "assunto": ass.strip(), "voto": res.strip() or votos, "rotulo": "Resultado" if res.strip() else "Votos", "just": "", "trecho": "", "link": lk.group(1) if lk else "", "tag": "precedente"})
     return {"kpis": kpis, "barras": [b for b in barras if b[1] > 0][:8], "titulo_graf": tg, "cards": cards[:3], "fonte": "classificação automática; ver anexo"}
 Q = []
 for i, (q, t) in enumerate(perg):
@@ -146,7 +148,7 @@ for i, x in enumerate(Q):
 {barras_svg(d["barras"])}<div class="rod">Fonte: reuniões públicas de diretoria ({E(x["ag"].upper())}), vídeos oficiais no YouTube · {E(d["fonte"])}</div></section>''')
     cs = "".join(f'''<article class="ev"><div class="ev-top"><span class="pill {"warn" if c["tag"]=="fora do padrão" else ""}">{E(c["tag"])}</span><span>{E(c["data"] or "")}</span></div>
 <h4>{E(c["rd"])} · item {E(str(c["item"]))}</h4><p class="ev-a">{E(frase(c["assunto"], 150))}</p>
-<p class="ev-v"><b>Voto:</b> {E(frase(c["voto"], 110))}</p>{f'<p class="ev-j">«{E(frase(c["just"], 150))}»</p>' if c["just"] else ""}
+{f'<p class="ev-v"><b>{c.get("rotulo", "Voto")}:</b> {E(frase(c["voto"], 110))}</p>' if c["voto"] else ""}{f'<p class="ev-j">«{E(frase(c["just"], 150))}»</p>' if c["just"] else ""}
 {f'<p class="ev-t">Trecho: “{E(frase(c["trecho"], 170))}”</p>' if c["trecho"] else ""}
 {f'<a class="btn" href="{E(c["link"])}">▶ assistir no minuto</a>' if c["link"].startswith("https://www.youtube") else (f'<a class="btn" href="{E(c["link"])}">ata oficial</a>' if c["link"] else "")}</article>''' for c in d["cards"][:3])
     S.append(f'''<section class="pg evs">{topo}<div class="graf-head"><span class="eyebrow-d">{n} · evidências</span><h3>Os votos que sustentam a resposta</h3></div><div class="ev-grid">{cs or '<p class="vazio">Sem evidências individuais neste recorte.</p>'}</div>
