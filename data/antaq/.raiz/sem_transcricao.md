@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **276** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/participativa: 1; 2026/audiencia: 9; 2025/participativa: 2; 2025/audiencia: 10; 2024/participativa: 3; 2024/audiencia: 17; 2023/workshop: 3; 2023/participativa: 1; 2023/audiencia: 9; 2022/diretoria: 7; 2022/audiencia: 12; 2021/workshop: 2; 2021/diretoria: 12; 2021/audiencia: 23; 2020/diretoria: 12; 2020/audiencia: 21; 2019/workshop: 1; 2019/diretoria: 18; 2019/audiencia: 11; 2018/workshop: 6; 2018/diretoria: 19; 2018/audiencia: 8; 2017/diretoria: 28; 2016/diretoria: 34
+Total: **264** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/participativa: 1; 2026/audiencia: 9; 2025/participativa: 2; 2025/audiencia: 10; 2024/participativa: 3; 2024/audiencia: 17; 2023/workshop: 3; 2023/participativa: 1; 2023/audiencia: 9; 2022/audiencia: 12; 2021/workshop: 2; 2021/diretoria: 7; 2021/audiencia: 23; 2020/diretoria: 12; 2020/audiencia: 21; 2019/workshop: 1; 2019/diretoria: 18; 2019/audiencia: 11; 2018/workshop: 6; 2018/diretoria: 19; 2018/audiencia: 8; 2017/diretoria: 28; 2016/diretoria: 34
 
 - 2026-10-29 · participativa · Reunião Participativa - Hidrovia Verde · https://www.youtube.com/watch?v=42keaAje7uE · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-10-23 · audiencia · Audiência Pública nº 07/2024 · https://www.youtube.com/watch?v=5mXYlJ-DaJk · **ainda não baixado (rodar a coleta no Mac)**
@@ -61,33 +61,21 @@ Total: **276** · sem /diretoria: 1; sem /audiencia: 5; 2026/workshop: 1; 2026/p
 - 2023-05-24 · audiencia · Audiência Pública nº1/2023 · https://www.youtube.com/watch?v=EyvEi4qUKhw · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-02-06 · audiencia · Audiência Pública nº 10/2022 · https://www.youtube.com/watch?v=suV3u6OimZM · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-09-09 · audiencia · Audiência Pública nº08/2022 · https://www.youtube.com/watch?v=4ZhONDDA-hY · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-09-01 · diretoria · 528ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=yBRIlI6RQug · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-08-29 · audiencia · Audiência Pública nº09/2022 · https://www.youtube.com/watch?v=7lsmCePKr5w · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-08-11 · diretoria · 526ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=2J5AWByVtpM · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-08-01 · diretoria · 27ª Reunião Extraordinária de Diretoria · https://www.youtube.com/watch?v=5_hHUI9_fT8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-06-23 · audiencia · Audiência Pública nº18/2021 · https://www.youtube.com/watch?v=rW0BJVLuGpg · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-05-26 · diretoria · 522ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=JCVnUIklqbY · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-05-19 · audiencia · Audiência Pública nº03/2022 · https://www.youtube.com/watch?v=bF4l3WZu9LQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-05-13 · audiencia · Audiência Pública nº02 2022 · https://www.youtube.com/watch?v=BcjnXR32BL0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-05-13 · diretoria · 520ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=ADgAtlRgYpE · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-05-04 · audiencia · Audiência Pública nº05 2022 - Parte 2 · https://www.youtube.com/watch?v=WOCaJkjuwxA · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-05-02 · audiencia · Audiência Pública nº05/2022 · https://www.youtube.com/watch?v=Pot3TUo0WpE · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-04-19 · audiencia · Audiência Pública nº06/2022 · https://www.youtube.com/watch?v=OKp0AOXAHsA · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-04-13 · audiencia · Audiência Pública nº04 2022 · https://www.youtube.com/watch?v=scfR5O7HZGU · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-04-13 · diretoria · 518ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=jopRaDFWJ7I · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-04-06 · audiencia · Audiência Pública nº20 2021 · https://www.youtube.com/watch?v=iSAmrBbUzlw · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-04-05 · audiencia · Audiência Pública nº01/2022 - Parte 2 · https://www.youtube.com/watch?v=vQdzLiDBgpA · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-03-14 · audiencia · Audiência Pública nº01/2022 · https://www.youtube.com/watch?v=Tw1PC_QO8YU · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-02-04 · diretoria · 516ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=T0DqJUjcuAY · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-12-10 · diretoria · 514ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=DgQHtLVz2To · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-11-26 · diretoria · 513ª Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=Dmji8LvYcN8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-11-11 · diretoria · 511ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=uoz8SqcS00o · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-10-26 · workshop · Workshop - "Em busca de uma sinergia para a prestação de melhores serviços à ind · https://www.youtube.com/watch?v=aLKYo07boH4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-10-11 · audiencia · Audiência Pública nº19/2021 · https://www.youtube.com/watch?v=ItdG2G0abbE · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-10-11 · diretoria · 510ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=-A4F9fPyrf8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-09-28 · audiencia · Audiência Pública nº16/2021 · https://www.youtube.com/watch?v=JPuiWguhvR8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-09-27 · audiencia · Audiência Pública nº17/2021 · https://www.youtube.com/watch?v=M8kZEDOlhtg · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-09-09 · diretoria · 508ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=jssJFiTikEo · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-08-23 · audiencia · Audiência Pública nº15/2021 · https://www.youtube.com/watch?v=H0xrKiR9Sg4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-08-23 · diretoria · 506ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=sMb80ag1j8Q · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-08-04 · audiencia · Audiência Pública nº14/2021 · https://www.youtube.com/watch?v=cMWZVD2qQRU · **ainda não baixado (rodar a coleta no Mac)**

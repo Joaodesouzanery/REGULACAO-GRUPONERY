@@ -20,10 +20,10 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2023 | participativa | 1 | 0 | 0 |
 | 2023 | diretoria | 12 | 12 | 0 |
 | 2023 | audiencia | 9 | 0 | 0 |
-| 2022 | diretoria | 12 | 5 | 0 |
+| 2022 | diretoria | 12 | 12 | 0 |
 | 2022 | audiencia | 12 | 0 | 0 |
 | 2021 | workshop | 2 | 0 | 0 |
-| 2021 | diretoria | 12 | 0 | 0 |
+| 2021 | diretoria | 12 | 5 | 0 |
 | 2021 | audiencia | 23 | 0 | 0 |
 | 2020 | diretoria | 12 | 0 | 0 |
 | 2020 | audiencia | 21 | 0 | 0 |
@@ -86,3 +86,15 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2022-12-06 · 28ª Reunião Extraordinária de Diretoria · `MVlF0izh3ro`
 - 2022-11-10 · 532ª Reunião Ordinária de Diretoria · `uCOcCqNUZ-g`
 - 2022-09-29 · 530ª Reunião Ordinária de Diretoria · `xFRSBDaa9vs`
+- 2022-09-01 · 528ª Reunião Ordinária de Diretoria · `yBRIlI6RQug`
+- 2022-08-11 · 526ª Reunião Ordinária de Diretoria · `2J5AWByVtpM`
+- 2022-08-01 · 27ª Reunião Extraordinária de Diretoria · `5_hHUI9_fT8`
+- 2022-05-26 · 522ª Reunião Ordinária de Diretoria · `JCVnUIklqbY`
+- 2022-05-13 · 520ª Reunião Ordinária de Diretoria · `ADgAtlRgYpE`
+- 2022-04-13 · 518ª Reunião Ordinária de Diretoria · `jopRaDFWJ7I`
+- 2022-02-04 · 516ª Reunião Ordinária de Diretoria · `T0DqJUjcuAY`
+- 2021-12-10 · 514ª Reunião Ordinária de Diretoria · `DgQHtLVz2To`
+- 2021-11-26 · 513ª Reunião Ordinária de Diretoria · `Dmji8LvYcN8`
+- 2021-11-11 · 511ª Reunião Ordinária da Diretoria · `uoz8SqcS00o`
+- 2021-10-11 · 510ª Reunião Ordinária da Diretoria · `-A4F9fPyrf8`
+- 2021-09-09 · 508ª Reunião Ordinária da Diretoria · `jssJFiTikEo`
