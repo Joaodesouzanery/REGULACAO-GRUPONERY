@@ -91,6 +91,10 @@ def ficha(d, tema=None, n_ev=5):
     return "\n".join(L)
 
 # ---------- camada de empresas e microtemas ----------
+import os as _os, sys as _sys
+_sys.path.insert(0, _os.path.join(_os.path.dirname(_os.path.abspath(__file__))))
+from desfecho import desfecho_item as _desf
+DES = lambda iid: _desf(c, iid)
 def _ent(nome):
     q = f"%{nome}%"
     return c.execute("select * from entidades where nome like ? or sigla like ? or id like ? order by (select count(*) from item_entidade ie where ie.entidade=entidades.id) desc", (q, q, q)).fetchall()
@@ -101,7 +105,7 @@ def empresa(nome):
     e = E_[0]
     its = c.execute("select i.*, r.numero, r.data, r.video_id from itens i join reunioes r on r.id=i.reuniao_id join item_entidade ie on ie.item_id=i.id where ie.entidade=? order by r.data", (e["id"],)).fetchall()
     out = [f"# {e['nome']}" + (f" ({e['sigla']})" if e["sigla"] else "") + f" · {e['tipo']} · setor {e['setor']}" + (f" · grupo {e['grupo']}" if e["grupo"] else ""), "",
-           f"**{len(its)} itens** deliberados de {its[0]['data'] if its else '-'} a {its[-1]['data'] if its else '-'}. Desfecho (classificação automática pelo texto do resultado): " + ", ".join(f"{k} {v}" for k, v in collections.Counter(FAV(i['resultado']) for i in its).most_common()), ""]
+           f"**{len(its)} itens** deliberados de {its[0]['data'] if its else '-'} a {its[-1]['data'] if its else '-'}. Desfecho para a empresa (pelo voto do relator; aproximado): " + ", ".join(f"{k} {v}" for k, v in collections.Counter(DES(i['id']) for i in its).most_common()), ""]
     mts = collections.Counter(m[0] for m in c.execute("select microtema from item_microtema where item_id in (select item_id from item_entidade where entidade=?)", (e["id"],)))
     out.append("**Microtemas:** " + "; ".join(f"{k} {v}" for k, v in mts.most_common(8)))
     rel = collections.Counter(i["relator"] for i in its if i["relator"]); out.append("**Quem relata (relator mais provável no próximo processo):** " + "; ".join(f"{k} {v}" for k, v in rel.most_common(5)))
@@ -151,7 +155,7 @@ def reincidencia(n=20):
               [x for x in c.execute("select distinct i.id, i.resultado, m.microtema from item_microtema m join item_entidade ie on ie.item_id=m.item_id join entidades e on e.id=ie.entidade join itens i on i.id=m.item_id where e.nome=?", (nome,)) if re.search(SANC, x[2])]
         ids = {x[0] for x in its}
         if len(ids) < 3: continue
-        d = collections.Counter(FAV(x[1]) for x in {x[0]: x for x in its}.values())
+        d = collections.Counter(DES(x[0]) for x in {x[0]: x for x in its}.values())
         L.append((len(ids), f"| {nome} | {tp} | {len(ids)} | {a} a {b} | {','.join(sorted(set(anos.split(','))))} | " + ", ".join(f"{k_} {v}" for k_, v in d.most_common()) + " |"))
 
     out += [x[1] for x in sorted(L, key=lambda x: -x[0])[:n]]
@@ -162,7 +166,7 @@ def grupo(nome):
     ids = [e["id"] for e in ents]; ph = ",".join("?" * len(ids))
     its = c.execute(f"select i.*, r.numero, r.data, r.video_id, ie.entidade from itens i join reunioes r on r.id=i.reuniao_id join item_entidade ie on ie.item_id=i.id where ie.entidade in ({ph}) order by r.data", ids).fetchall()
     out = [f"# Grupo econômico «{nome}» — {len(ents)} empresas, {len(its)} itens", "", "**Empresas:** " + "; ".join(f"{e['nome']} ({sum(1 for i in its if i['entidade']==e['id'])})" for e in ents),
-           "**Desfechos:** " + ", ".join(f"{k} {v}" for k, v in collections.Counter(FAV(i['resultado']) for i in its).most_common()),
+           "**Desfechos:** " + ", ".join(f"{k} {v}" for k, v in collections.Counter(DES(i['id']) for i in its).most_common()),
            "**Microtemas:** " + "; ".join(f"{k} {v}" for k, v in c.execute(f"select microtema, count(*) from item_microtema where item_id in (select item_id from item_entidade where entidade in ({ph})) group by 1 order by 2 desc limit 8", ids).fetchall()),
            "**Relatores:** " + "; ".join(f"{k} {v}" for k, v in collections.Counter(i['relator'] for i in its if i['relator']).most_common(5)), "", "**Itens recentes:**"]
     out += [f"- **RD {i['numero']} ({i['data']})** item {i['item']} · {i['assunto'][:130]} → {(i['resultado'] or '')[:70]} · [vídeo]({link(i['video_id'], i['ts'])})" for i in its[-10:][::-1]]
@@ -170,15 +174,18 @@ def grupo(nome):
 def sustentacoes():
     its = c.execute("select i.*, r.numero, r.data, r.video_id from itens i join reunioes r on r.id=i.reuniao_id order by r.data").fetchall()
     its = [i for i in its if re.search(r"sustenta[çc][ãa]o oral|sustentou oralmente|sustenta[çc][õo]es orais", f"{i['assunto']} {i['resumo'] or ''} {i['resultado'] or ''}", re.I)]
-    base = collections.Counter(FAV(r[0]) for r in c.execute("select resultado from itens"))
-    efeito = lambda res: "retirado" if re.search(r"retir", res or "", re.I) else "vista" if re.search(r"vista", res or "", re.I) else FAV(res)
-    ef = collections.Counter(efeito(i["resultado"]) for i in its)
+    rec = {r[0] for r in c.execute("select item_id from item_microtema where microtema='recurso_reconsideracao'")}
+    efeito = lambda i: "retirado" if re.search(r"retir", i["resultado"] or "", re.I) else "vista" if re.search(r"vista", i["resultado"] or "", re.I) else DES(i["id"])
+    ef = collections.Counter(efeito(i) for i in its)
+    its_ids = {i["id"] for i in its}
+    base = collections.Counter(DES(r) for r in rec - its_ids)
+    ef_rec = collections.Counter(efeito(i) for i in its if i["id"] in rec)
     tb = sum(base.values()) or 1; ts_ = len(its) or 1
     out = [f"# Sustentações orais — {len(its)} itens", "", f"**Efeito com sustentação:** " + ", ".join(f"{k} {v} ({100*v//ts_}%)" for k, v in ef.most_common()),
-           f"**Base geral (todos os itens):** " + ", ".join(f"{k} {100*v//tb}%" for k, v in base.most_common()), "", "**Por empresa:**"]
+           f"**Recursos com sustentação ({sum(ef_rec.values())}):** " + ", ".join(f"{k} {v}" for k, v in ef_rec.most_common()), f"**Recursos sem sustentação ({tb}):** " + ", ".join(f"{k} {v} ({100*v//tb}%)" for k, v in base.most_common()), "Compare dentro dos recursos: o mesmo tipo de pedido, com e sem sustentação. Desfecho pelo voto do relator (aproximado).", "", "**Por empresa:**"]
     pe = collections.Counter(r[0] for r in c.execute("select e.nome from item_entidade ie join entidades e on e.id=ie.entidade where ie.item_id in (%s)" % ",".join(str(i["id"]) for i in its))) if its else {}
     out += [f"- {k}: {v}" for k, v in pe.most_common(12)]
-    out += ["", "**Itens recentes:**"] + [f"- **RD {i['numero']} ({i['data']})** item {i['item']} · {i['assunto'][:120]} → {efeito(i['resultado'])} · [vídeo]({link(i['video_id'], i['ts'])})" for i in its[-8:][::-1]]
+    out += ["", "**Itens recentes:**"] + [f"- **RD {i['numero']} ({i['data']})** item {i['item']} · {i['assunto'][:120]} → {efeito(i)} · [vídeo]({link(i['video_id'], i['ts'])})" for i in its[-8:][::-1]]
     return "\n".join(out)
 def tramitacao(n=15):
     rows = c.execute("select i.processo, i.id, i.item, i.assunto, i.resultado, r.numero, r.data, r.video_id, i.ts from itens i join reunioes r on r.id=i.reuniao_id where i.processo is not null and length(i.processo) > 8 order by r.data").fetchall()

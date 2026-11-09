@@ -1,0 +1,95 @@
+{
+ "sigla": "antaq",
+ "nome": "Agência Nacional de Transportes Aquaviários",
+ "canal": "@ANTAQ_oficial",
+ "playlists": [
+  "PLUx7SBS9VtlAfMS5T9FLHDhflAn-bF7C-",
+  "PLUx7SBS9VtlAtxL8jL3_XhzHjeQcRsSzn"
+ ],
+ "atas_url": "https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/reunioes-deliberativas/calendario-atas-e-pautas-das-reunioes",
+ "diretores": [
+  "Mário Povia",
+  "Fernando Fonseca",
+  "Adalberto Tokarski",
+  "Francisval Mendes",
+  "Eduardo Nery",
+  "Flávia Takafashi",
+  "Lima Filho",
+  "Alber Vasconcelos",
+  "Caio Farias",
+  "Frederico Dias",
+  "Gabriela Costa",
+  "Joelson Miranda",
+  "José Renato Fialho",
+  "Cristina Castro",
+  "Alexandre Florambel"
+ ],
+ "alias": {
+  "Mário Povia": "povia|m[áa]rio",
+  "Fernando Fonseca": "fernando fonseca",
+  "Adalberto Tokarski": "tokarski|adalberto",
+  "Francisval Mendes": "francisval|mendes",
+  "Eduardo Nery": "\\bnery\\b|eduardo",
+  "Flávia Takafashi": "fl[áa]via|takafashi",
+  "Lima Filho": "lima filho|wilson",
+  "Alber Vasconcelos": "alber|vasconcelos",
+  "Caio Farias": "caio|farias",
+  "Frederico Dias": "frederico|\\bdias\\b",
+  "Gabriela Costa": "gabriela",
+  "Joelson Miranda": "joelson",
+  "José Renato Fialho": "fialho|jos[ée] renato",
+  "Cristina Castro": "cristina",
+  "Alexandre Florambel": "florambel"
+ },
+ "rx_nomes": "povia|tokarski|francisval|nery|fl[áa]via|lima filho|alber|caio|frederico|gabriela|joelson|fialho|cristina|florambel|adalberto|m[áa]rio",
+ "temas": [
+  [
+   "arrendamento_porto_organizado",
+   "arrendament|porto organizado|autoridade portu|Docas|PDZ"
+  ],
+  [
+   "concessao_porto_hidrovia",
+   "concess[ãa]o d[oa] (porto|hidrovia)|desestatiza"
+  ],
+  [
+   "tup_autorizacao",
+   "\\bTUP\\b|terminal de uso privado|autoriza[çc][ãa]o (de|para) (terminal|instala)"
+  ],
+  [
+   "tarifas_portuarias",
+   "tarifa|THC|SSE|cesta de servi"
+  ],
+  [
+   "servicos_terminais",
+   "sobre-?estadia|demurrage|armazenagem|servi[çc]os? (nos|de) termin"
+  ],
+  [
+   "navegacao_afretamento",
+   "navega[çc][ãa]o|afretament|cabotagem|longo curso|apoio mar[íi]timo|EBN|travessia"
+  ],
+  [
+   "fiscalizacao_sancoes",
+   "fiscaliza|multa|san[çc]|auto de infra|\\bTAC\\b"
+  ],
+  [
+   "recursos_recursais",
+   "recurso|reconsidera|embargos"
+  ],
+  [
+   "regulacao_normativa",
+   "resolu[çc]|norma|consulta p[úu]blica|sandbox|agenda regulat"
+  ],
+  [
+   "sustentabilidade",
+   "ESG|ambient|sustentab|descarboniz"
+  ],
+  [
+   "governanca_tcu",
+   "TCU|governan|institucional|ouvidoria"
+  ],
+  [
+   "mediacao",
+   "media[çc]|arbitragem|consensual"
+  ]
+ ]
+}

@@ -1,6 +1,7 @@
 """Planilha Excel de votos por diretor (ANTT), a partir de data/regulacao.db (rode 05_indexar.py antes).
 Uso: python3 pipeline/planilha_votos.py [saida.xlsx]   (padrão: agencias/antt/exportacoes/votos_diretores.xlsx)
 Abas: Leia-me · Resumo por diretor · Diretor x Tema · Votos · Divergências e vistas · Falas em eventos · Mandatos · Vacâncias"""
+import sys as _s, os as _o; _s.path.insert(0, _o.path.dirname(_o.path.abspath(__file__))); from desfecho import desfecho_item as _desf
 import sqlite3, json, sys, re, collections, os
 from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill, Alignment
@@ -82,9 +83,9 @@ try:
     FAV = lambda r: "favorável" if _re.search(r"provimento|provido|deferi|aprova|autoriz|homolog|acolh", r or "", _re.I) and not _re.search(r"nega|indefer|desprov|n[ãa]o conhec", r or "", _re.I) else "desfavorável" if _re.search(r"nega|indefer|desprov|n[ãa]o conhec|cassa|multa|penalidade|caducidade|mant[ée]m", r or "", _re.I) else "neutro/outro"
     ER = []
     for eid, nome, sig, tp, st, gr in c.execute("select id, nome, sigla, tipo, setor, grupo from entidades"):
-        its = c.execute("select i.relator, i.resultado, r.data from itens i join reunioes r on r.id=i.reuniao_id join item_entidade ie on ie.item_id=i.id where ie.entidade=?", (eid,)).fetchall()
+        its = c.execute("select i.relator, i.id, r.data from itens i join reunioes r on r.id=i.reuniao_id join item_entidade ie on ie.item_id=i.id where ie.entidade=?", (eid,)).fetchall()
         if not its: continue
-        fv = collections.Counter(FAV(x[1]) for x in its); rl = collections.Counter(x[0] for x in its if x[0]).most_common(2)
+        fv = collections.Counter(_desf(c, x[1]) for x in its); rl = collections.Counter(x[0] for x in its if x[0]).most_common(2)
         ER.append([nome, sig, tp, st, gr, len(its), min(x[2] for x in its), max(x[2] for x in its), fv["favorável"], fv["desfavorável"], "; ".join(f"{k} ({v})" for k, v in rl)])
     ER.sort(key=lambda x: -x[5])
     if ER: aba("Empresas", ["Entidade", "Sigla", "Tipo", "Setor", "Grupo econômico", "Itens", "Primeiro", "Último", "Desfecho favorável*", "Desfecho desfavorável*", "Relatores mais frequentes"], ER, {"Entidade": 45, "Relatores mais frequentes": 40})
