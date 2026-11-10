@@ -1,0 +1,9 @@
+# Audiência Pública Virtual - ANTAQ — 2020-06-04 — audiencia — 4gz-_LsCroA
+duração aproximada: 0:02:03; janelas: abertura, menções a diretores (n=0), encerramento
+
+
+--- trecho 0:00:00 a 0:02:03 ---
+
+[0:00:00] a agência nacional de transportes aquaviários antaq em um importante instrumento de participação social chamado audiência pública a audiência pública tem como objetivo debater ou apresentar matérias de interesse relevante para o setor regulado para subsidiar a tomada de decisão da agência reguladora agora jantar que vai proporcionar sua parte de batam também virtualmente recebendo sugestões e contribuições por vídeo áudio ou texto através de aplicativo de mensagens eletrônicas vou te mostrar como participar virtualmente do processo decisório da antaq o aviso de audiência pública é o ato que na augura o processo 
+[0:00:46] participativo nele será publicado o número de telefone de mensagens eletrônicas e o prazo de inscrição para sua participação além de outras informações relevantes para realizar sua presença online e dentro do prazo estipulado você poderá enviar sua participação por vídeo áudio ou texto caso deseje manifestar oralmente no momento da audiência pública será enviado um link para entrar na sala de videoconferência o atendimento virtual irá registrar suas informações ea encaminhará as suas manifestações para o presidente da mesa e as manifestações serão apresentadas por ordem de inscrição com a reprodução dos vídeos áudios e a leitura dos textos 
+[0:01:33] recebidos para as manifestações ao vivo para o participante será convidado para entrar na visto conferência fique atento com os requisitos mínimos do seu aparelho e as regras da audiência pública toda a sessão virtual será transmitida pela internet via streaming ao final será gravada e disponibilizada no canal dá daqui no youtube se ficou alguma dúvida entre em contato conosco por e-mail telefone ou envie uma mensagem pelo número na tela
