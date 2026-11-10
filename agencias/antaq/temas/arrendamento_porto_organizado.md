@@ -1,0 +1,2018 @@
+# Itens do tema «arrendamento_porto_organizado» (todos os diretores)
+
+- **RD 454 (2018-12-20)**, 34 · relator **Francisval Mendes** · Licitação do arrendamento portuário BEL02A (granéis líquidos combustíveis): aprovação de edital, contrato e anexos – julgamento em bloco itens 34 a 39 → aprovado por unanimidade (bloco 34–39)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=138s)
+- **RD 454 (2018-12-20)**, 35 · relator **Francisval Mendes** · Licitação do arrendamento portuário BEL02B (granéis líquidos combustíveis): aprovação de edital, contrato e anexos – julgamento em bloco itens 34 a 39 → aprovado por unanimidade (bloco 34–39)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=138s)
+- **RD 454 (2018-12-20)**, 36 · relator **Francisval Mendes** · Licitação do arrendamento portuário BEL04 (granéis líquidos combustíveis): aprovação de edital, contrato e anexos – julgamento em bloco itens 34 a 39  → aprovado por unanimidade (bloco 34–39)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=138s)
+- **RD 454 (2018-12-20)**, 37 · relator **Francisval Mendes** · Licitação do arrendamento portuário BEL08 (granéis líquidos combustíveis): aprovação de edital, contrato e anexos – julgamento em bloco itens 34 a 39  → aprovado por unanimidade (bloco 34–39)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=138s)
+- **RD 454 (2018-12-20)**, 38 · relator **Francisval Mendes** · Licitação do arrendamento portuário BEL09 (granéis líquidos combustíveis): aprovação de edital, contrato e anexos – julgamento em bloco itens 34 a 39  → aprovado por unanimidade (bloco 34–39)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=138s)
+- **RD 454 (2018-12-20)**, 39 · relator **Francisval Mendes** · Licitação do arrendamento portuário VDC12 (granéis líquidos combustíveis): aprovação de edital, contrato e anexos – julgamento em bloco itens 34 a 39  → aprovado por unanimidade (bloco 34–39)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=138s)
+- **RD 454 (2018-12-20)**, 8 · relator **Mário Povia** · Registro de instalação portuária de apoio (Porto Transal, Mauazinho, Manaus) dentro da poligonal do porto organizado → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=1063s)
+- **RD 454 (2018-12-20)**, 9 · relator **Mário Povia** · Processo administrativo sancionador: não publicação no DOU do extrato do edital de leilão de alienação de bens (Resolução 3208) → pedido de vista (Tokarski) após voto do relator
+  - votos: Mário: relator; Adalberto: vista; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=1303s)
+- **RD 454 (2018-12-20)**, 10 · relator **Mário Povia** · Pedido de reconsideração contra a Resolução 5742 (multa de R$ 1 milhão por permitir ocupação de área sem licitação por abastecedora de combustíveis) → aprovado por unanimidade (recurso não conhecido)
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=1581s)
+- **RD 454 (2018-12-20)**, 11 · relator **Mário Povia** · Pedido de reconsideração contra a Resolução 6052 (multa de R$ 1 milhão por não regularizar ocupação de áreas e não levantar instalações operacionais e → aprovado por unanimidade (recurso conhecido e não provido)
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=1957s)
+- **RD 454 (2018-12-20)**, 13 · relator **Mário Povia** · Prorrogação antecipada do contrato de arrendamento PRES 028/1998 (Santos) e reequilíbrio: análise do EVTEA → pedido de vista (Tokarski) após voto do relator
+  - votos: Mário: relator; Adalberto: vista; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=4013s)
+- **RD 454 (2018-12-20)**, 17 · relator **Francisval Mendes** · Processo administrativo sancionador: permitir ocupação da área pela FlexBras sem instrumento válido → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=7312s)
+- **RD 454 (2018-12-20)**, 31 · relator **Francisval Mendes** · Pedido de reconsideração contra a Resolução 6091 (amortização dos investimentos em escaneamento de contêineres; IPTU do Guarujá), arrendamento PRES 26 → pedido de vista (Tokarski) após voto do relator
+  - votos: Francisval: relator; Adalberto: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=12215s)
+- **RD 454 (2018-12-20)**, 32 · relator **Francisval Mendes** · Desincorporação (demolição) do Armazém 42 no Porto de Santos para área administrativa e estacionamento de carretas → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=12830s)
+- **RD 454 (2018-12-20)**, 33 · relator **Francisval Mendes** · Baixa e desincorporação de bens inservíveis do Porto de Paranaguá, com alienação por doação a entidade filantrópica → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=13096s)
+- **RD 454 (2018-12-20)**, 45 · relator **Adalberto Tokarski** · Reajuste tarifário do Terminal Salineiro de Areia Branca (TERSAB) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=14180s)
+- **RD 454 (2018-12-20)**, 51 · relator **Adalberto Tokarski** · Desincorporação de 139 suportes de CPU inservíveis com doação a entidade filantrópica → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=15361s)
+- **RD 454 (2018-12-20)**, 52 · relator **Adalberto Tokarski** · Processo administrativo sancionador: permitir ocupação dos armazéns 5 e 6 (Píer Mauá) por termo de permissão de uso sem licitação → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=15541s)
+- **RD 454 (2018-12-20)**, 53 · relator **Adalberto Tokarski** · Processo administrativo sancionador: ocupar armazém 5 e anexo 5/6 no Porto do Rio sem licitação → pedido de vista (Mendes) após voto do relator
+  - votos: Adalberto: relator; Francisval: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=15850s)
+- **RD 454 (2018-12-20)**, 56 · relator **Francisval Mendes** · Referendo da Declaração Técnica 06/2018 para debêntures incentivadas (arrendamento 02/2017-MTPA, Porto do Rio) → referendado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=16885s)
+- **RD 455 (2019-01-31)**, 22 · relator **Mário Povia** · Revisão da Resolução Normativa 7-ANTAQ (ocupação de áreas e instalações portuárias em portos organizados) — submissão a audiência pública → julgamento suspenso (vista de Adalberto Tokarski)
+  - votos: Mário: relator; Adalberto: vista; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=2199s)
+- **RD 455 (2019-01-31)**, 53 · relator **Francisval Mendes** · Operação societária (ingresso do grupo China Merchants na cadeia de controle) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=5573s)
+- **RD 455 (2019-01-31)**, 57 · relator **Francisval Mendes** · Pedido de indenização por benfeitorias no terminal de Miramar (áreas BEL02A/BEL02B) → aprovado por unanimidade — arquivado
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=6023s)
+- **RD 455 (2019-01-31)**, 61 · relator **Francisval Mendes** · Resolução normativa sobre padronização das demonstrações contábeis das arrendatárias → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=6638s)
+- **RD 455 (2019-01-31)**, 72 · relator **Adalberto Tokarski** · Cessão de uso não onerosa de área ao sindicato (equiparação ao OGMO) → julgamento suspenso (vista de Francisval Mendes)
+  - votos: Adalberto: relator; Francisval: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=7629s)
+- **RD 455 (2019-01-31)**, 76 · relator **Adalberto Tokarski** · Alteração do Manual de análise e fiscalização do projeto executivo em arrendamentos portuários → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=8914s)
+- **RD 455 (2019-01-31)**, 80 · relator **Mário Povia** · Referendo (Resolução 6659): análise das contribuições da audiência pública 10/2018 — arrendamento SUA05 (Porto de Suape) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=10186s)
+- **RD 455 (2019-01-31)**, 81 · relator **Adalberto Tokarski** · Referendo de medida cautelar (Resolução 6509): proibição de fertilizantes no cais do Saboó (Porto de Santos) → referendado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=10527s)
+- **RD 455 (2019-01-31)**, 90 · relator **Francisval Mendes** · Extrapauta: prorrogação ordinária do contrato de arrendamento CDP 01/1999 no Porto de Itaqui (MA), com expansão de área e novos investimentos → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=10980s)
+- **RD 456 (2019-02-26)**, 3 · relator **Adalberto Tokarski** · Cessão de área portuária (sindicato/órgão interessado ilegível) → vista renovada
+  - votos: Adalberto: relator; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=81s)
+- **RD 456 (2019-02-26)**, 8 · relator **Mário Povia** · Pedido de convalidação do contrato de transição 078/2017 (armazém 5 e anexos, porto do Rio de Janeiro, contíguo ao terminal de passageiros) → aprovado por unanimidade: convalidação indeferida e SFC determinada a apurar conduta da CD
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=268s)
+- **RD 456 (2019-02-26)**, 10 · relator **Francisval Mendes** · Pedido de reconsideração do acórdão de 2016 sobre restrição de movimentação de grãos fora do Tegram; pedido cautelar da VLI para exportar milho e exce → aprovado por unanimidade: provimento negado; limitação restrita a soja e farelo de soja at
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=688s)
+- **RD 456 (2019-02-26)**, 21 · relator **Francisval Mendes** · Baixa e desincorporação de bens imóveis da União (extinto terminal frigorífico do porto de Imbituba), permitindo demolição → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=1925s)
+- **RD 456 (2019-02-26)**, 24 · relator **Francisval Mendes** · Alteração do manual de fiscalização do projeto executivo de arrendamentos (Res. 5.408) para investimentos fora da área arrendada → aprovado por unanimidade: processo extinto por exaurimento de finalidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=2481s)
+- **RD 456 (2019-02-26)**, 40 · relator **Adalberto Tokarski** · Desincorporação de bens móveis inservíveis da União com doação a entidade filantrópica → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=6034s)
+- **RD 456 (2019-02-26)**, 45 · relator **Adalberto Tokarski** · Desincorporação e demolição do armazém C4 no porto de Porto Alegre (risco de colapso estrutural) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=6474s)
+- **RD 458 (2019-04-04)**, 17 · relator **Francisval Mendes** · Regularização de área ocupada pela Cemar no porto organizado do Itaqui (dispensa de pagamento x cessão de uso onerosa) → aprovado (encaminhamento ao Ministério da Infraestrutura), após debate
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=4171s)
+- **RD 458 (2019-04-04)**, 20 · relator **Adalberto Tokarski** · Norma sobre reversibilidade de bens e incorporação/desincorporação de bens da União nos portos organizados (substitui a Resolução 443) → aprovado por unanimidade, com proposições de Mário Povia
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=4822s)
+- **RD 458 (2019-04-04)**, 21 · relator **Adalberto Tokarski** · Contrato de transição por 180 dias para área de 4.880 m² no porto de Cabedelo (entreposto de blocos de granito) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=5380s)
+- **RD 458 (2019-04-04)**, 34 · relator **Adalberto Tokarski** · Transferência de titularidade do contrato de arrendamento PRES 04/1997 e do contrato de adesão 89/2015 da Fibria para a Suzano (reorganização societár → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=6882s)
+- **RD 458 (2019-04-04)**, 35 · relator **Adalberto Tokarski** · Alteração de controle societário das titulares do arrendamento 02/2016 (Santos) e dos contratos de adesão 106/2016 (Portocel, Barra do Riacho) e 66/20 → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=7249s)
+- **RD 459 (2019-04-15)**, 3 · relator **Mário Povia** · Consulta regulatória sobre norma da Companhia Docas do Rio de Janeiro (CDRJ) – retorno de vista → aprovado por unanimidade nos termos do voto do relator
+  - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=95s)
+- **RD 459 (2019-04-15)**, 4 · relator **Mário Povia** · Consulta de enquadramento normativo – retorno de vista → aprovado nos termos do voto do relator
+  - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=128s)
+- **RD 459 (2019-04-15)**, 6 · relator **None** · Pedido de reconsideração – vista renovada → vista prorrogada para a próxima reunião
+  - votos: Mário: vista · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=585s)
+- **RD 459 (2019-04-15)**, 19 · relator **Francisval Mendes** · Licitação do arrendamento STS20 (Porto de Santos – granéis sólidos minerais, fertilizantes e sal): edital e contrato após leilão deserto (inversão de  → aprovado por unanimidade nos termos do voto do relator
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=635s)
+- **RD 459 (2019-04-15)**, 50 · relator **Mário Povia** · Licitação do arrendamento PAR01 (Porto de Paranaguá – carga geral, papel e celulose): edital, contrato e EVTEA revisados após leilão sem interessados  → aprovado por unanimidade nos termos do voto do relator
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=965s)
+- **RD 459 (2019-04-15)**, 51 · relator **Adalberto Tokarski** · Licitação do arrendamento STS13A (Porto de Santos – combustíveis), programa PPI: edital e contrato (inversão de pauta) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Francisval: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=1365s)
+- **RD 459 (2019-04-15)**, 7 · relator **Mário Povia** · Processo sancionador: Codesa permitiu ocupação de área no Porto de Vitória sem instrumento contratual (AI 3201-1-8) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=1940s)
+- **RD 459 (2019-04-15)**, 9 · relator **Mário Povia** · Processo sancionador: cessão de área (T300/terminal do carvão, Porto de Porto Alegre) para evento por termo de uso → aprovado por unanimidade nos termos do voto do relator
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=2628s)
+- **RD 459 (2019-04-15)**, 11 · relator **Mário Povia** · Transferência de titularidade do contrato de arrendamento DP 25/2001 (Alemoa, Porto de Santos, granéis líquidos) → vista a Adalberto Tokarski (relator votou)
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=3345s)
+- **RD 459 (2019-04-15)**, 15 · relator **Francisval Mendes** · Proposta de norma de arrendamento simplificado → vista (relator deixou para votar após o voto-vista)
+  - votos: Mário: vista; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=4915s)
+- **RD 459 (2019-04-15)**, 16 · relator **Francisval Mendes** · Contrato de arrendamento 357/2002: pedido de reequilíbrio (silos metálicos construídos sem anuência) – resposta ao ofício da SNP → aprovado por unanimidade nos termos do voto do relator, com encaminhamento à SFC
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=5010s)
+- **RD 459 (2019-04-15)**, 38 · relator **Adalberto Tokarski** · Desincorporação de bens da União (julgado em bloco com itens 39 e 40) → aprovado por unanimidade nos termos dos votos do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=6474s)
+- **RD 459 (2019-04-15)**, 43 · relator **Adalberto Tokarski** · Prorrogação ordinária do contrato de arrendamento 9/98 (Paranaguá): aprovação do EVTEA → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=7155s)
+- **RD 460 (2019-05-06)**, 1 · relator **Francisval Mendes** · Pedido de reconsideração (processo com vista do Diretor-Geral) → vista renovada
+  - votos: Mário: outro; Francisval: relator; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=30s)
+- **RD 460 (2019-05-06)**, 2 · relator **Francisval Mendes** · Proposta de norma de arrendamento simplificado (processo com vista do Diretor-Geral) → vista renovada
+  - votos: Mário: outro; Francisval: relator; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=45s)
+- **RD 460 (2019-05-06)**, 4 · relator **Mário Povia** · Transferência de titularidade de contrato de arrendamento (processo com vista de Adalberto Tokarski) → vista renovada
+  - votos: Adalberto: outro; Mário: relator; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=75s)
+- **RD 460 (2019-05-06)**, 8 · relator **Mário Povia** · Processo administrativo sancionador: AI da Unidade Regional do Recife por permitir exploração de área do porto organizado por terceira empresa (grafad → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=1386s)
+- **RD 460 (2019-05-06)**, 21 · relator **Francisval Mendes** · Desincorporação e alienação de bem da União (rebocador fora de operação há cerca de 10 anos) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=3796s)
+- **RD 460 (2019-05-06)**, 22 · relator **Francisval Mendes** · Contrato de transição para exploração dos armazéns 13, 14 e 15 e adjacências no Porto de Santos (área STS 11) até o leilão → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=4045s)
+- **RD 460 (2019-05-06)**, 23 · relator **Francisval Mendes** · Convalidação de aditamento contratual e verificação de desequilíbrio econômico-financeiro → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=4522s)
+- **RD 460 (2019-05-06)**, 39 · relator **Adalberto Tokarski** · Consulta sobre dispensa de anuência prévia para reorganização societária interna (contrato de arrendamento PRES 5/96 e contrato de PPP 25/2000) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=6151s)
+- **RD 460 (2019-05-06)**, 47 · relator **None** · Extrapauta: medida cautelar em pedido de arbitragem administrativa para obrigar a Codesp a autorizar descarga de condensado de navio no terminal da Il → cautelar indeferida por unanimidade
+  - votos: Francisval: outro; Adalberto: outro; Mário: outro · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=6509s)
+- **RD 461 (2019-05-20)**, 3 · relator **Francisval Mendes** · Pedido de reconsideração contra a Resolução 5892/2018, que vedou cobrança de tarifas de bagagem, adicional de expansão de funcionamento e valor mínimo → pedido de vista de Adalberto Tokarski (vista anterior do Diretor-Geral também pendente)
+  - votos: Francisval: relator; Adalberto: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=623s)
+- **RD 461 (2019-05-20)**, 4 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (RN 13/2016) (retorno de vista de Adalberto Tokarski) → aprovado por unanimidade, com a observação de Tokarski
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=941s)
+- **RD 461 (2019-05-20)**, 21 · relator **Mário Povia** · Pedido de reconsideração da análise do EVTEA de reequilíbrio do contrato de arrendamento PRES 01/98 (Porto de Santos) (Res. 5952/2018), quanto à recei → pedido de vista de Adalberto Tokarski
+  - votos: Mário: relator; Adalberto: vista; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=2948s)
+- **RD 461 (2019-05-20)**, 22 · relator **Francisval Mendes** · 1º termo aditivo ao contrato de uso temporário 01/2014 (prorrogação por 18 meses) — extinção do processo por exaurimento de finalidade, já autorizado  → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=3354s)
+- **RD 461 (2019-05-20)**, 24 · relator **Francisval Mendes** · Recurso administrativo contra decisão da comissão de licitação sobre habilitação no leilão 07/2018 (área AI-01) dos leilões de arrendamento 7 a 10/201 → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=3568s)
+- **RD 461 (2019-05-20)**, 29 · relator **Francisval Mendes** · Reajuste tarifário linear de até 5,64% no Porto de Fortaleza para repor inflação desde maio de 2017 → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=5062s)
+- **RD 461 (2019-05-20)**, 30 · relator **Francisval Mendes** · Contrato de transição de 180 dias para área de 42.807 m² no Porto do Rio de Janeiro (Cais de São Cristóvão), sem processo seletivo simplificado → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=5243s)
+- **RD 461 (2019-05-20)**, 39 · relator **Adalberto Tokarski** · Consulta: se 'outras cargas' do contrato de arrendamento CDP/JUR 069/98 contempla granel sólido → aprovado por unanimidade, com ressalva do Diretor-Geral
+  - votos: Adalberto: relator; Francisval: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=7324s)
+- **RD 461 (2019-05-20)**, 41 · relator **Adalberto Tokarski** · Comunicação de reorganização societária (14,1% das ações ordinárias) sem transferência de controle → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=7884s)
+- **RD 461 (2019-05-20)**, 42 · relator **Adalberto Tokarski** · Consulta da CODESA sobre subconcessão de parte da área do contrato de concessão de direito real de uso 59/2008 (TUP de GLP) e adaptação ao Decreto 9.0 → aprovado por unanimidade; resposta por resolução
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=8072s)
+- **RD 461 (2019-05-20)**, 47 · relator **Adalberto Tokarski** · Consulta sobre instalação de pórtico/equipamento de operador portuário em cais público: aplicabilidade da RN 03/2015 e das tarifas de uso temporário e → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=9291s)
+- **RD 461 (2019-05-20)**, 49 · relator **Francisval Mendes** · Referendo da Resolução 6901/2019: contrato de transição de até 180 dias para movimentação de farelo/concentrado proteico de soja e milho no Porto de S → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=9727s)
+- **RD 462 (2019-05-30)**, 13 · relator **Francisval Mendes** · Pedido cautelar de autorização especial para receber e armazenar cerca de 35 mil t de aço no terminal de contêineres (TCG lotado) em Imbituba; empresa → aprovado por unanimidade: processo extinto por perda superveniente de objeto (desistência)
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=1978s)
+- **RD 462 (2019-05-30)**, 18 · relator **Mário Povia** · Análise do EVTEA e do equilíbrio econômico-financeiro do contrato de arrendamento DP 24/2001 (BTP, Alemoa, Porto de Santos), em cumprimento ao Acórdão → aprovado por maioria: VPL negativo de cerca de R$ 68,6 milhões (dez/2017), cenário «visão 
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=2213s)
+- **RD 462 (2019-05-30)**, 34 · relator **Francisval Mendes** · Referendo da Resolução 6.724/2019 (medida cautelar administrativa de ofício que suspendeu a Resolução Homologatória 01/2019 de processo licitatório da → aprovado por unanimidade: cautelar referendada até decisão de mérito
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=9154s)
+- **RD 463 (2019-06-26)**, 5 · relator **Adalberto Tokarski** · Equiparação de sindicato a OGMO (legenda «onu») para fins de cessão de área portuária; vista de Francisval Mendes → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=1202s)
+- **RD 463 (2019-06-26)**, 8 · relator **Mário Povia** · Revisão do MPT (legenda «npt»); vista de Adalberto Tokarski → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=1389s)
+- **RD 463 (2019-06-26)**, 10 · relator **Francisval Mendes** · Pedido de reconsideração contra a Resolução 5892-ANTAQ (ROD 436), que vedou cobrança de tarifas de bagagem, embarque/desembarque adicional, expansão d → aprovado nos termos do voto condutor (pedido de reconsideração indeferido), unânime
+  - votos: Francisval: relator; Mário: revisor_acompanha; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=1463s)
+- **RD 463 (2019-06-26)**, 19 · relator **Mário Povia** · Consulta sobre necessidade de autorização prévia da ANTAQ para doação de armas de fogo da CODESP à Prefeitura de Guarujá → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=2725s)
+- **RD 463 (2019-06-26)**, 28 · relator **Francisval Mendes** · Contrato de transição de até 180 dias para área no porto organizado de Pelotas (RS), após extinção do contrato de uso temporário 02/2015; vista de Ada → não concluído: vista de Adalberto Tokarski após o voto do relator
+  - votos: Francisval: relator; Adalberto: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=4122s)
+- **RD 463 (2019-06-26)**, 29 · relator **Francisval Mendes** · Convalidação de aditamento contratual e verificação de desequilíbrio econômico-financeiro do contrato de arrendamento (processo sancionador); julgado  → aprovado por unanimidade (julgamento conjunto 29-30)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=4529s)
+- **RD 463 (2019-06-26)**, 30 · relator **Francisval Mendes** · Equilíbrio econômico-financeiro do contrato de arrendamento; julgado em conjunto com o item 29 → aprovado por unanimidade (julgamento conjunto 29-30)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=4529s)
+- **RD 463 (2019-06-26)**, 33 · relator **Francisval Mendes** · Consulta sobre uso exclusivo dos dolphins a construir junto ao terminal de produtos siderúrgicos (contrato de arrendamento CDRJ 72/97, prorrogado até  → não concluído: vista de Mário Povia após o voto do relator
+  - votos: Francisval: relator; Mário: vista; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=5521s)
+- **RD 463 (2019-06-26)**, 34 · relator **Francisval Mendes** · Prorrogação antecipada do contrato de arrendamento 16/98 com novos investimentos (cerca de R$ 83-89 milhões) e reequilíbrio; vista de Mário Povia → não concluído: vista de Mário Povia após o voto do relator
+  - votos: Francisval: relator; Mário: vista; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=6475s)
+- **RD 463 (2019-06-26)**, 37 · relator **Francisval Mendes** · Recurso com pedido de efeito suspensivo contra a Resolução 6926/2019-ANTAQ, que autorizou a CDRJ a celebrar contrato de transição com a Triunfo Logíst → efeito suspensivo indeferido por maioria (2x1), vencido Mário Povia
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=7814s)
+- **RD 463 (2019-06-26)**, 50 · relator **Adalberto Tokarski** · Acompanhamento do TAC 36/2017 da unidade regional de Recife → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=10383s)
+- **RD 464 (2019-06-28)**, 1 · relator **Francisval Mendes** · Consulta sobre o uso dos dolphins do Porto do Rio de Janeiro (processo em vista) → vista renovada (Mário Povia); não deliberado
+  - votos: Mário: vista · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=34s)
+- **RD 464 (2019-06-28)**, 2 · relator **None** · Prorrogação antecipada do contrato de arrendamento (1998) (processo em vista) → vista renovada (Mário Povia); não deliberado
+  - votos: Mário: vista · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=57s)
+- **RD 464 (2019-06-28)**, 3 · relator **Adalberto Tokarski** · Arbitragem administrativa de conflito: cobrança das tarifas portuárias Tabela 1 (acesso aquaviário, pleito de proporcionalidade) e Tabela 2 item 5 (ac → voto-vista divergente em parte proferido por Mário Povia; processo vai à vista de Francisv
+  - votos: Adalberto: relator; Mário: revisor_diverge; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=65s)
+- **RD 464 (2019-06-28)**, 8 · relator **Francisval Mendes** · Contrato de transição no Porto do Rio Grande → aprovado por unanimidade nos termos do voto condutor
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=6290s)
+- **RD 464 (2019-06-28)**, 14 · relator **Mário Povia** · Processo administrativo sancionador: ocupação/exploração dos armazéns 14 e 17 e áreas contíguas do cais de São Cristóvão (Porto do Rio de Janeiro) sem → voto do relator proferido; processo vai à vista de Francisval Mendes
+  - votos: Mário: relator; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=6703s)
+- **RD 464 (2019-06-28)**, 15 · relator **Mário Povia** · Arbitragem regulatória com pedido cautelar: cobrança pela CDRJ (cerca de R$ 11,35 milhões) por não atingimento da movimentação mínima contratual (MMC) → voto do relator proferido; processo vai à vista de Adalberto Tokarski
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=7174s)
+- **RD 464 (2019-06-28)**, 24 · relator **Francisval Mendes** · Audiência e consulta pública para licitação do arrendamento IQI03 (granéis líquidos combustíveis) no Porto do Itaqui/MA - julgado em bloco (itens 24 a → aprovado por unanimidade nos termos do voto condutor (bloco)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=9354s)
+- **RD 464 (2019-06-28)**, 25 · relator **Francisval Mendes** · Audiência e consulta pública para licitação do arrendamento IQI11 (granéis líquidos combustíveis) no Porto do Itaqui/MA - julgado em bloco (itens 24 a → aprovado por unanimidade nos termos do voto condutor (bloco)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=9354s)
+- **RD 464 (2019-06-28)**, 26 · relator **Francisval Mendes** · Audiência e consulta pública para licitação do arrendamento IQI12 (granéis líquidos combustíveis) no Porto do Itaqui/MA - julgado em bloco (itens 24 a → aprovado por unanimidade nos termos do voto condutor (bloco)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=9354s)
+- **RD 464 (2019-06-28)**, 27 · relator **Francisval Mendes** · Audiência e consulta pública para licitação do arrendamento IQI13 (granéis líquidos combustíveis) no Porto do Itaqui/MA - julgado em bloco (itens 24 a → aprovado por unanimidade nos termos do voto condutor (bloco)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=9354s)
+- **RD 465 (2019-08-22)**, 64 · relator **Francisval Mendes** · Pedido de reconsideração contra decisão sancionadora da Resolução 5969-ANTAQ → pedido conhecido e não provido, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=1618s)
+- **RD 465 (2019-08-22)**, 65 · relator **Francisval Mendes** · Pedido de reconsideração contra a Resolução 6095-ANTAQ (multa por não comunicar em 30 dias contratos de cessão de uso onerosa) → provimento parcial por maioria (multa reduzida), vencido um diretor (provavelmente Mário P
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=1713s)
+- **RD 465 (2019-08-22)**, 66 · relator **Francisval Mendes** · Pedido de reconsideração contra referendo da medida cautelar (Resolução 6724-ANTAQ) que suspendeu a Resolução Homologatória 1/2019 de licitação → processo extinto por unanimidade (perda de objeto)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=1998s)
+- **RD 465 (2019-08-22)**, 71 · relator **Francisval Mendes** · Transferência de controle societário de arrendatária transitória (contrato de transição 29/2018 com a CODESA) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=2632s)
+- **RD 465 (2019-08-22)**, 72 · relator **Francisval Mendes** · Transferência de controle societário referente a contratos de arrendamento no porto de Santos → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=2760s)
+- **RD 465 (2019-08-22)**, 73 · relator **Francisval Mendes** · Desincorporação, alienação e baixa de material de informática (10 licenças de Windows XP) do porto de Porto Alegre → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=2916s)
+- **RD 465 (2019-08-22)**, 74 · relator **Francisval Mendes** · Plano de aplicação dos recursos (cerca de R$ 21,3 milhões) da alienação do Centro Integrado de Saúde de Itajaí, com aquisição de 22 imóveis para expan → não concluído: vista de Adalberto Tokarski após o voto do relator
+  - votos: Francisval: relator; Adalberto: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=3013s)
+- **RD 465 (2019-08-22)**, 75 · relator **Francisval Mendes** · Resposta ao Ministério sobre reequilíbrio do contrato de arrendamento do Tecon Imbituba e suspensão do pagamento da MMC → não concluído: vista de Mário Povia após o voto do relator
+  - votos: Francisval: relator; Mário: vista; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=3298s)
+- **RD 465 (2019-08-22)**, 79 · relator **Francisval Mendes** · Consulta sobre procedimentos para antecipação de receitas de tarifas e arrendamentos (Decreto 9.048/2017) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=4148s)
+- **RD 465 (2019-08-22)**, 100 · relator **Adalberto Tokarski** · Contrato de transição (180 dias ou até a licitação) para área ocupada pelo Sindaçúcar no porto do Recife → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=7782s)
+- **RD 466 (2019-09-27)**, 68 · relator **Francisval Mendes** · Implantação de polo de capacitação em negócios (programa municipal Salvador 360) em área do arrendamento, como receita complementar → aprovado nos termos do voto do relator
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=1744s)
+- **RD 466 (2019-09-27)**, 70 · relator **Francisval Mendes** · Processo sancionador: irregularidades no terminal marítimo de ureia (regularidade fiscal, água, bombeiros, manutenção) → aprovado nos termos do voto do relator
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=2117s)
+- **RD 466 (2019-09-27)**, 75 · relator **Francisval Mendes** · Reversibilidade de bens — recurso administrativo (vista de Adalberto Tokarski pendente) → vista de Adalberto Tokarski mantida; voto proferido posteriormente
+  - votos: Adalberto: vista; Francisval: relator; Mário: outro · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=3191s)
+- **RD 466 (2019-09-27)**, 78 · relator **Francisval Mendes** · Transferência de controle societário do arrendamento PAR 55/2002 (COFCO passa a controladora direta) → aprovado nos termos do voto do relator
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=3248s)
+- **RD 466 (2019-09-27)**, 79 · relator **Francisval Mendes** · Transferência de titularidade do contrato de arrendamento PS 42/2000 (armazéns 22 e 23 internos, Porto de Santos) → aprovado nos termos do voto do relator
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=3472s)
+- **RD 466 (2019-09-27)**, 80 · relator **Francisval Mendes** · Baixa patrimonial de bens da União → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=3622s)
+- **RD 466 (2019-09-27)**, 82 · relator **Francisval Mendes** · Consulta sobre como evitar solução de continuidade após rescisão do arrendamento do Cais Mauá (exploração transitória da área) → aprovado nos termos do voto do relator, com ressalvas de Mário Povia
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=3774s)
+- **RD 466 (2019-09-27)**, 83 · relator **Francisval Mendes** · Reajuste do valor de arrendamento com IGP-M negativo (contrato 20/98): modulação dos efeitos → aprovado nos termos do voto do relator
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=4147s)
+- **RD 466 (2019-09-27)**, 86 · relator **Adalberto Tokarski** · Processo sancionador: permitir que a prefeitura ocupasse área do porto organizado de Estrela para oficina sem instrumento válido → aprovado nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=4731s)
+- **RD 466 (2019-09-27)**, 92 · relator **Adalberto Tokarski** · Processo sancionador: irregularidades no Porto de Santarém (defensas, instalações para passageiros, seguro, regularidade fiscal, ocupação sem contrato → aprovado nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=5914s)
+- **RD 466 (2019-09-27)**, 93 · relator **Adalberto Tokarski** · Processo sancionador: não realização de obras e investimentos contratuais do arrendamento → aprovado por maioria nos termos do voto do relator (auto insubsistente); Mário Povia venci
+  - votos: Adalberto: relator; Francisval: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=6494s)
+- **RD 466 (2019-09-27)**, 100 · relator **Adalberto Tokarski** · Consulta sobre o instrumento jurídico para uso de área portuária não operacional por terceiro → aprovado nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=8813s)
+- **RD 466 (2019-09-27)**, 125 (referendo) · relator **Francisval Mendes** · Referendo das Resoluções 7.141 e 7.154: audiência pública da norma sobre estudos simplificados (EVTEA) para arrendamentos de menor valor (até R$ 150 m → referendado
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=10690s)
+- **RD 466 (2019-09-27)**, 126 (referendo) · relator **Francisval Mendes** · Referendo da análise das contribuições da audiência pública 6/2019 e minutas de edital e contrato do arrendamento de granéis líquidos combustíveis no  → referendado (bloco 126-129)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=10992s)
+- **RD 466 (2019-09-27)**, 127 (referendo) · relator **Francisval Mendes** · Referendo da análise das contribuições da audiência pública 6/2019 e minutas de edital e contrato do arrendamento de granéis líquidos combustíveis no  → referendado (bloco 126-129)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=10992s)
+- **RD 466 (2019-09-27)**, 128 (referendo) · relator **Francisval Mendes** · Referendo da análise das contribuições da audiência pública 6/2019 e minutas de edital e contrato do arrendamento de granéis líquidos combustíveis no  → referendado (bloco 126-129)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=10992s)
+- **RD 466 (2019-09-27)**, 129 (referendo) · relator **Francisval Mendes** · Referendo da análise das contribuições da audiência pública 6/2019 e minutas de edital e contrato do arrendamento de granéis líquidos combustíveis no  → referendado (bloco 126-129)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=10992s)
+- **RD 466 (2019-09-27)**, 130 (referendo) · relator **Francisval Mendes** · Referendo da abertura de audiência pública (45 dias) para licitação do arrendamento STS 14 (bloco 130-131) → referendado (bloco 130-131)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=11254s)
+- **RD 466 (2019-09-27)**, 131 (referendo) · relator **Francisval Mendes** · Referendo da abertura de audiência pública (45 dias) para licitação do arrendamento STS 14A (bloco 130-131) → referendado (bloco 130-131)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=11254s)
+- **RD 466 (2019-09-27)**, 133 (referendo) · relator **Francisval Mendes** · Referendo da Resolução 7.165: indeferimento de cautelar para suspender a devolução dos terminais T35 e T37 do Porto de Santos → referendado
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=11727s)
+- **RD 467 (2019-10-21)**, 4 · relator **Francisval Mendes** · Pedido de suspensão cautelar da movimentação mínima contratual (MMC) no arrendamento do Tecon Imbituba e reequilíbrio econômico-financeiro → prevaleceu o voto-vista: arquivamento por perda superveniente de objeto (por maioria; rela
+  - votos: Francisval: relator; Mário: revisor_diverge; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=743s)
+- **RD 467 (2019-10-21)**, 12 · relator **Mário Povia** · Arbitragem regulatória: MMC e profundidade do canal de acesso (desequilíbrio econômico-financeiro do arrendamento) → aprovado nos termos do voto condutor (relator), por maioria; Tokarski vencido (resultado c
+  - votos: Mário: relator; Adalberto: revisor_diverge; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=3125s)
+- **RD 467 (2019-10-21)**, 22 · relator **Mário Povia** · Pedido de reconsideração contra o Acórdão 108/2017 (multa de R$ 1 milhão; arrendamento não operacional com Porto Esportivo Itajaí) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=3679s)
+- **RD 467 (2019-10-21)**, 23 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 175 mil por ocupar 7 mil m2 no Porto do Forno sem contrato → aprovado por unanimidade nos termos do voto do relator
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=3809s)
+- **RD 467 (2019-10-21)**, 28 · relator **Mário Povia** · Contrato de transição de 180 dias para área de celulose no Porto do Itaqui → aprovado por unanimidade nos termos do voto do relator
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=4500s)
+- **RD 467 (2019-10-21)**, 34 · relator **Mário Povia** · Revisão do Manual de análise de EVTEA de arrendamentos portuários (Acórdão TCU 446/2018; Portaria 530/2019) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=6065s)
+- **RD 467 (2019-10-21)**, 42 · relator **Francisval Mendes** · Desincorporação de bens da União (308 itens de escritório inservíveis) - RN 29 → aprovado por maioria nos termos da divergência de Mário Povia (autoriza a desincorporação)
+  - votos: Francisval: vencido; Mário: outro; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=7070s)
+- **RD 467 (2019-10-21)**, 43 · relator **Francisval Mendes** · Projeto executivo do contrato PRES 69/97 e revisão do cronograma de investimentos → adiado (vista de Adalberto Tokarski)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=7407s)
+- **RD 467 (2019-10-21)**, 44 · relator **Francisval Mendes** · Consulta sobre reversibilidade de bens em arrendamentos no Porto do Itaqui → aprovado por unanimidade nos termos do voto do relator
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=7461s)
+- **RD 467 (2019-10-21)**, 49 · relator **Adalberto Tokarski** · Processo sancionador: contrato de transição 933/2017 com Sagres sem autorização da ANTAQ → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=8462s)
+- **RD 467 (2019-10-21)**, 50 · relator **Adalberto Tokarski** · Processo sancionador: ocupação de áreas sem licitação → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=8698s)
+- **RD 467 (2019-10-21)**, 52 · relator **Adalberto Tokarski** · Processo sancionador: aditivo de prorrogação de arrendamento firmado pela autoridade portuária em 2017 → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=9213s)
+- **RD 467 (2019-10-21)**, 55 · relator **Adalberto Tokarski** · Pedido de dilação de prazo da RN 28/2019 (padronização contábil de arrendatários) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=9997s)
+- **RD 467 (2019-10-21)**, 63 · relator **Adalberto Tokarski** · Aprovação da empresa de pesquisa de satisfação (índice de qualidade do arrendamento de passageiros) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=11661s)
+- **RD 467 (2019-10-21)**, 64 · relator **Adalberto Tokarski** · Contrato de transição → adiado (pedido de vista; diretor que pediu incerto na legenda, provavelmente Francisval Me
+  - votos: Francisval: vista · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=11929s)
+- **RD 467 (2019-10-21)**, 65 · relator **Adalberto Tokarski** · Transferência de titularidade do arrendamento 9/2002 (EMAP) para subsidiária integral (SPE) → aprovado por unanimidade nos termos do voto do relator, com ressalva
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=11950s)
+- **RD 467 (2019-10-21)**, 66 · relator **Mário Povia** · Referendo da Resolução 7071: autorização especial para três navios-teste no cais do Estaleiro Rio Grande 1 → referendado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=12336s)
+- **RD 468 (2019-11-08)**, 1 · relator **Adalberto Tokarski** · Pedido de fixação de preço-teto para terminais de passageiros (cruzeiros) arrendados nos portos organizados de Santos e do Rio de Janeiro — voto-vista → aprovado nos termos do voto-vista de Mário Povia (maioria); relator provavelmente vencido
+  - votos: Adalberto: vencido; Mário: revisor_diverge; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=44s)
+- **RD 468 (2019-11-08)**, 17 · relator **Francisval Mendes** · Projeto executivo e revisão do cronograma de investimentos (reperfilamento) do contrato de arrendamento PRES 069/97 (Tecon Santos), após prorrogação a → aprovado por maioria; divergência parcial de Tokarski (quem ficou vencido é ambíguo na leg
+  - votos: Francisval: relator; Adalberto: revisor_diverge; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=2395s)
+- **RD 468 (2019-11-08)**, 33 · relator **Francisval Mendes** · Pedido de reconsideração contra decisão da ROD de abril/2018 (auto de infração por ocupação de área, art. 34, XIV, da Res. 3.274/2014), porto de Manau → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=4862s)
+- **RD 468 (2019-11-08)**, 37 · relator **Adalberto Tokarski** · Consulta: exclusão dos dias da greve dos caminhoneiros (21 a 31/05/2018) do cálculo da movimentação mínima contratual (MMC) do arrendamento do TVV → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=6267s)
+- **RD 468 (2019-11-08)**, 39 · relator **Adalberto Tokarski** · Pedido de reconsideração contra o Acórdão 111/2018 (multa à autoridade portuária) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=6892s)
+- **RD 468 (2019-11-08)**, 40 · relator **Adalberto Tokarski** · Aprovação do plano de aplicação de recursos (cerca de R$ 206 mil) da desincorporação e alienação de bens da União autorizada pela Res. 3.029/2013 → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=7048s)
+- **RD 468 (2019-11-08)**, 42 · relator **Adalberto Tokarski** · Baixa e alienação como sucata de 6 empilhadeiras e 4 caminhões (bens não reversíveis) do terminal de contêineres de Suape → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=7447s)
+- **RD 469 (2019-11-20)**, 2 · relator **Francisval Mendes** · Apoio à análise de contrato de transição no Porto de Maceió (área ocupada pela Petrobras), diante de pendências de CND da administração do porto → aprovado por unanimidade nos termos do voto do relator
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=W57uJxuLJM8&t=732s)
+- **RD 469 (2019-11-20)**, 7 · relator **Mário Povia** · Nulidade das cláusulas de prorrogação automática do contrato de arrendamento C-DEPJUR 155/96 no Porto de Itaguaí → aprovado por unanimidade nos termos do voto do relator
+  - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=W57uJxuLJM8&t=874s)
+- **RD 469 (2019-11-20)**, 14 · relator **Mário Povia** · Oferecimento de bens reversíveis do arrendamento como garantia de financiamento bancário → aprovado por unanimidade: remessa à SNPTA
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=W57uJxuLJM8&t=1350s)
+- **RD 469 (2019-11-20)**, 15 · relator **Mário Povia** · Processo administrativo sancionador (auto de infração 3503-3, UREs Rio de Janeiro): desempenho operacional mínimo, separação contábil e apoio portuári → aprovado por unanimidade: auto parcialmente subsistente
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=W57uJxuLJM8&t=1541s)
+- **RD 469 (2019-11-20)**, 18 · relator **Francisval Mendes** · Recurso administrativo contra a Resolução 6.926/2019-ANTAQ, que autorizou a CDRJ a celebrar contrato de transição com a Triunfo Logística (área usada  → recurso conhecido e não provido, por maioria (um diretor diverge para dar provimento)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=W57uJxuLJM8&t=2310s)
+- **RD 469 (2019-11-20)**, 24 · relator **Adalberto Tokarski** · Transferência do controle societário da arrendatária Libra Terminal Rio (contrato C-DEPJUR 10/98, Porto do Rio de Janeiro) para a ICTSI Americas → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=W57uJxuLJM8&t=3719s)
+- **RD 470 (2019-12-12)**, 4 · relator **Francisval Mendes** · Pedido de registro de instalação de apoio (terminal de passageiros/píer turístico) dentro da poligonal do porto organizado de Itajaí/SC, pela própria  → indeferido por maioria (registro inaplicável à espécie), nos termos do relator; vencido Ad
+  - votos: Francisval: relator; Adalberto: vencido; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=470s)
+- **RD 470 (2019-12-12)**, 6 · relator **Mário Povia** · Prorrogação antecipada do contrato de arrendamento PRES 28/98 (Porto de Santos) até 2048 e reequilíbrio econômico-financeiro; ajuste do market share ( → aprovado por unanimidade nos termos do voto-vista de Tokarski (que mantém as premissas do 
+  - votos: Mário: revisor_acompanha; Adalberto: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=1351s)
+- **RD 470 (2019-12-12)**, 12 · relator **Mário Povia** · Avaliação preliminar de cessão onerosa de área não operacional (pátio de triagem) na retroárea do porto de Fortaleza para instalação industrial de com → aprovado por unanimidade nos termos do voto condutor
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=2550s)
+- **RD 470 (2019-12-12)**, 13 · relator **Mário Povia** · Prorrogação antecipada do contrato de arrendamento 067/1998 no Porto de Paranaguá, com adensamento de área de cerca de 42,2 mil m² (contratos de trans → voto do relator proferido; processo vai à vista de Francisval Mendes
+  - votos: Mário: relator; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=3194s)
+- **RD 470 (2019-12-12)**, 27 · relator **Francisval Mendes** · Consulta: vinculação do prazo do contrato C-SEJUR 03/89 (área fora da poligonal) ao prazo do contrato de adesão 54/2014 do TUP da CPVV → aprovado por unanimidade nos termos do voto condutor
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=6945s)
+- **RD 470 (2019-12-12)**, 29 · relator **Francisval Mendes** · Consulta e audiência pública para licitação do arrendamento ATU18 (granéis sólidos vegetais) no Porto de Aratu/BA → aprovado por unanimidade nos termos do voto condutor
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=7891s)
+- **RD 470 (2019-12-12)**, 30 · relator **Francisval Mendes** · Prorrogação ordinária e reequilíbrio do contrato de arrendamento 98/2000 no Porto do Recife (fertilizantes) → aprovado por unanimidade nos termos do voto condutor
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=8152s)
+- **RD 470 (2019-12-12)**, 41 · relator **Adalberto Tokarski** · PAS: descumprimento do 7º aditivo (demolição de armazéns e edifício-garagem) no Porto do Rio de Janeiro → aprovado por unanimidade nos termos do voto condutor
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=10359s)
+- **RD 470 (2019-12-12)**, 43 · relator **Adalberto Tokarski** · Transferência de controle societário direto da arrendatária TPAR (contrato C-DEPJUR 88/98 CDRJ) → aprovado por unanimidade nos termos do voto condutor
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=10948s)
+- **RD 470 (2019-12-12)**, 52 · relator **Francisval Mendes** · Referendo da Res. 7.413: aprova edital e contrato do Leilão 4/2019 para arrendamento do Terminal Marítimo de Passageiros de Fortaleza → aprovado por unanimidade nos termos do voto condutor
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=12526s)
+- **RD 470 (2019-12-12)**, 53 · relator **Adalberto Tokarski** · Referendo da Res. 7.065: desincorporação física, baixa e alienação como sucata de dois portêineres inservíveis no T37 do Porto de Santos → aprovado por unanimidade nos termos do voto condutor
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=12786s)
+- **RD 470 (2019-12-12)**, 54 · relator **Adalberto Tokarski** · Referendo da Res. 7.405: consulta e audiência pública do arrendamento ATU12 (granéis minerais) no Porto de Aratu/BA (PPI) → aprovado por unanimidade nos termos do voto condutor
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=13175s)
+- **RD 471 (2019-12-20)**, 13 · relator **Francisval Mendes** · Convalidação de aditamento contratual e verificação de desequilíbrio econômico-financeiro do contrato de arrendamento PorG 01/97 (origem: auto de infr → aprovado por unanimidade, com ajustes de redação sugeridos por Tokarski
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=P_LIYIJGp8I&t=1079s)
+- **RD 471 (2019-12-20)**, 15 · relator **Francisval Mendes** · Análise das contribuições da Audiência Pública 09/2019 do arrendamento STS14 (celulose, Porto de Santos/SP). Julgado em bloco com o item 16. → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=P_LIYIJGp8I&t=1694s)
+- **RD 471 (2019-12-20)**, 16 · relator **Francisval Mendes** · Análise das contribuições da Audiência Pública 09/2019 do arrendamento STS14A (celulose, Porto de Santos/SP). Julgado em bloco com o item 15. → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=P_LIYIJGp8I&t=1694s)
+- **RD 471 (2019-12-20)**, 21 · relator **Adalberto Tokarski** · Representação por preços abusivos e barreiras concorrenciais na prestação de serviços portuários (THC2/SSE, reajustes) pela arrendatária APM Terminals → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P_LIYIJGp8I&t=2403s)
+- **RD 471 (2019-12-20)**, 25 · relator **Mário Povia** · Referendo de medida administrativa cautelar (Res. 7.380-ANTAQ) que suspendeu os efeitos do anexo do contrato de transição nº 7 (bens reversíveis renom → referendado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=P_LIYIJGp8I&t=3265s)
+- **RD 471 (2019-12-20)**, 39 (extrapauta) · relator **Adalberto Tokarski** · Recurso administrativo contra resultado do Leilão 02/2019-ANTAQ (Aba declarada vencedora, EBT em segundo lugar) → recurso conhecido e desprovido, por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P_LIYIJGp8I&t=3397s)
+- **RD 472 (2020-02-10)**, 1 · relator **Mário Povia** · Prorrogação antecipada de contrato de arrendamento (voto-vista) → aprovado por unanimidade nos termos do voto condutor
+  - votos: Mário: relator; Francisval: revisor_acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=41s)
+- **RD 472 (2020-02-10)**, 2 · relator **Mário Povia** · Pedido de reconsideração (voto-vista) → aprovado nos termos do voto condutor
+  - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=74s)
+- **RD 473 (2020-02-10)**, 2 · relator **Francisval Mendes** · Reversibilidade de bens do contrato de transição 03/2016 (terminal de granéis líquidos) — recurso administrativo da Petrobras → aprovado por unanimidade — recurso não conhecido (intempestivo), alegações recebidas como 
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=105s)
+- **RD 472 (2020-02-10)**, 9 · relator **Mário Povia** · Pedido de reconsideração contra o Acórdão 92/2019-ANTAQ (revisão da movimentação mínima contratual, MMC, e reequilíbrio) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=1401s)
+- **RD 472 (2020-02-10)**, 10 · relator **Mário Povia** · Processo administrativo sancionador (AI 3482-7, descumprimento de medida cautelar de interdição) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=1618s)
+- **RD 472 (2020-02-10)**, 13 · relator **Mário Povia** · Proposta de norma sobre antecipação de receitas das administrações portuárias (arts. 42-B e 42-C do Decreto 8.033) para audiência pública → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=2280s)
+- **RD 473 (2020-02-10)**, 10 · relator **Mário Povia** · Pedido de reconsideração contra a Resolução 7.459/2019 (reequilíbrio econômico-financeiro; eventos anteriores ao 5º termo aditivo; área não contígua e → aprovado por unanimidade — pedido conhecido e improvido
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=2677s)
+- **RD 473 (2020-02-10)**, 11 · relator **Mário Povia** · EVTEA para reequilíbrio do arrendamento 02/97 e convalidação do 3º termo aditivo (prorrogação de 2012 sem prévia aprovação da ANTAQ) → pedido de vista de Francisval Mendes após o voto do relator
+  - votos: Mário: relator; Francisval: vista; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=2907s)
+- **RD 473 (2020-02-10)**, 12 · relator **Mário Povia** · Consulta regulatória sobre a remuneração do arrendamento 069/98 na movimentação de granéis sólidos ('outras cargas') e desconto de 50% para cabotagem → aprovado por unanimidade — consulta conhecida e respondida
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=3885s)
+- **RD 472 (2020-02-10)**, 21 · relator **Francisval Mendes** · Processo administrativo sancionador (AI 2902-5; operação de granel líquido fora do objeto do arrendamento) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=5133s)
+- **RD 473 (2020-02-10)**, 14 · relator **Mário Povia** · Consulta de Suape sobre contrato de passagem (dutovias) para a Petrobras na poligonal de Suape, diante de termo de compromisso de 2007 com o Governo d → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=5279s)
+- **RD 472 (2020-02-10)**, 26 · relator **Francisval Mendes** · Autorização para contrato de transição (Paranaguá) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=5670s)
+- **RD 472 (2020-02-10)**, 28 · relator **Francisval Mendes** · Baixa e desincorporação de bens da União (contrato de arrendamento 09) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=6473s)
+- **RD 473 (2020-02-10)**, 27 · relator **Francisval Mendes** · Proposição de declaração de utilidade pública para supressão de vegetação de Mata Atlântica em área arrendada → aprovado por unanimidade — recomenda ao Ministério da Infraestrutura a emissão da DUP
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=8631s)
+- **RD 473 (2020-02-10)**, 29 · relator **Francisval Mendes** · Pedido de arbitragem e medida cautelar para suspender a devolução dos terminais 35 e 37 → aprovado por unanimidade — autos ao Minfra para avaliar rescisão do T-33; SFC inventaria b
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=8867s)
+- **RD 472 (2020-02-10)**, 39 · relator **Adalberto Tokarski** · Processo administrativo sancionador (AI 3395-2; não retomada da instalação determinada pela Res. 4834) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=9280s)
+- **RD 472 (2020-02-10)**, 41 · relator **Mário Povia** · Referendo da Res. 7463 (contrato de transição em Vila do Conde) → referendado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=10029s)
+- **RD 472 (2020-02-10)**, 43 · relator **Francisval Mendes** · Referendo da Res. 7481 (audiência pública do arrendamento MAC10, Maceió, ácido sulfúrico) → referendado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=10566s)
+- **RD 472 (2020-02-10)**, 45 · relator **Adalberto Tokarski** · Referendo da Res. 7479 (audiência pública do arrendamento MCP02, porto de Santana, farelo de soja) → referendado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=11010s)
+- **RD 473 (2020-02-10)**, 45 · relator **Adalberto Tokarski** · Referendo das Resoluções 7.409 e 7.496 — contrato de transição de até 180 dias para área de granel líquido após vencimento de arrendamento → referendado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=11763s)
+- **RD 474 (2020-03-06)**, 2 · relator **Mário Povia** · Revisão da cobrança de rubricas tarifárias para navios de cruzeiro nos berços públicos (Estação Marítima de Passageiros) e pedido de suspensão cautela → aprovada a divergência de Francisval Mendes (com voto-vista de Tokarski); relator Mário Po
+  - votos: Mário: vencido; Francisval: outro; Adalberto: revisor_diverge; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=154s)
+- **RD 474 (2020-03-06)**, 5 · relator **Mário Povia** · Pedido de reconsideração do Acórdão 31/2019 (EVTEA de reequilíbrio do arrendamento DP 24/2001) → aprovado — pedido conhecido e improvido; Tokarski adere à maioria formada na 465ª reunião
+  - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=576s)
+- **RD 474 (2020-03-06)**, 9 · relator **Francisval Mendes** · Operação de carga geral desunitizada na área arrendada (contrato 30/2001) e operação portuária fora da área arrendada → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=1281s)
+- **RD 474 (2020-03-06)**, 18 · relator **Francisval Mendes** · Reequilíbrio econômico-financeiro do arrendamento 13/99 para prorrogação com expansão de área e novos investimentos → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=3523s)
+- **RD 474 (2020-03-06)**, 25 · relator **Francisval Mendes** · Medida cautelar para demolição urgente do armazém 2 em área arrendada no Porto de Imbituba → aprovado por unanimidade — demolição controlada autorizada
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=6575s)
+- **RD 474 (2020-03-06)**, 26 · relator **Adalberto Tokarski** · Prorrogação ordinária do arrendamento 27/93 (granéis líquidos, terminal TGL/PGA) com novos investimentos e expansão de área → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=6764s)
+- **RD 474 (2020-03-06)**, 27 · relator **Adalberto Tokarski** · Anuência para cessão de uso não onerosa de área não operacional ('Trilha do Farol') → aprovado por unanimidade — dispensado envio ao poder concedente; SFC abre fiscalização ext
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=7230s)
+- **RD 474 (2020-03-06)**, 42 · relator **Francisval Mendes** · Referendo da Resolução 7.585 — aprovação da análise das contribuições da Audiência Pública 17/2019 (arrendamento ATU18, granéis sólidos vegetais) → referendado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=10770s)
+- **RD 474 (2020-03-06)**, 44 · relator **Adalberto Tokarski** · Referendo da Resolução 7.584 — análise das contribuições da Audiência Pública 16/2019 (arrendamento ATU12, granéis sólidos minerais) → referendado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=11096s)
+- **RD 477 (2020-05-10)**, 1 · relator **Francisval Mendes** · Consulta sobre o regime de uso dos dolfins a serem construídos no terminal de produtos siderúrgicos (contrato de arrendamento C-DEPJUR 72/97, prorroga → aprovado nos termos do voto do relator (vencido Mário Povia, voto-vista anterior)
+  - votos: Francisval: relator; Adalberto: revisor_diverge; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=125s)
+- **RD 477 (2020-05-10)**, 6 · relator **Francisval Mendes** · Autorização para contrato de transição (armazém 3) no porto organizado do Recife → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=2485s)
+- **RD 477 (2020-05-10)**, 12 · relator **Francisval Mendes** · Avaliação preliminar de empreendimento em área não afeta à operação portuária: formuladora de combustíveis nas áreas VDC25/VDC26 de Vila do Conde → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=3803s)
+- **RD 477 (2020-05-10)**, 13 · relator **Francisval Mendes** · Movimentação de granéis sólidos agrícolas (soja, milho) por arrendatária de fertilizantes/ração no porto de Imbituba → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=4025s)
+- **RD 477 (2020-05-10)**, 14 · relator **Francisval Mendes** · Edital e contrato de arrendamento STS14 (celulose) no porto de Santos – julgamento em bloco → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=4357s)
+- **RD 477 (2020-05-10)**, 15 · relator **Francisval Mendes** · Edital e contrato de arrendamento STS14A (celulose) no porto de Santos – julgamento em bloco → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=4357s)
+- **RD 477 (2020-05-10)**, 19 · relator **Adalberto Tokarski** · Realocação de equipamentos do parque fabril do arrendamento para unidade fora do porto organizado de Imbituba → pedido de vista (Gabriela Costa) após leitura do voto
+  - votos: Adalberto: relator; Gabriela: vista · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=5644s)
+- **RD 477 (2020-05-10)**, 20 · relator **Adalberto Tokarski** · Pedido de reconsideração de multa (receita portuária destinada ao Estado de SC) → aprovado
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=6033s)
+- **RD 477 (2020-05-10)**, 22 · relator **Adalberto Tokarski** · Recurso contra multa por deixar de fiscalizar operadores portuários quanto ao serviço adequado (Res. 3274, art. 33) → aprovado
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=6544s)
+- **RD 477 (2020-05-10)**, 23 · relator **Adalberto Tokarski** · Cessão provisória de retroescavadeira do acervo do porto organizado de Estrela ao município → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=6823s)
+- **RD 477 (2020-05-10)**, 24 · relator **Adalberto Tokarski** · Contrato de transição do armazém 18 (área antes do arrendamento 97/16-04) no porto do Recife → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=7037s)
+- **RD 477 (2020-05-10)**, 26 · relator **Adalberto Tokarski** · EVTEA do pleito de prorrogação do contrato de arrendamento (Porto Velho) por 12 anos, com investimentos de cerca de R$ 4,4 milhões → pedido de vista (Gabriela Costa) após leitura do voto
+  - votos: Adalberto: relator; Gabriela: vista · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=7493s)
+- **RD 477 (2020-05-10)**, 28 · relator **Gabriela Costa** · Cessão onerosa de área não operacional em Vila do Conde para usina termelétrica a gás (UTE Novo Tempo Barcarena) → aprovado por unanimidade
+  - votos: Gabriela: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=8255s)
+- **RD 477 (2020-05-10)**, 29 · relator **Gabriela Costa** · Classificação da reversibilidade dos bens da área IQ03 no porto do Itaqui (contratos de transição) → aprovado por unanimidade
+  - votos: Gabriela: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=8693s)
+- **RD 477 (2020-05-10)**, 30 · relator **Gabriela Costa** · Desincorporação, por demolição, de silo metálico e bases de concreto na área E06 do porto de Cabedelo → aprovado por unanimidade
+  - votos: Gabriela: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=8958s)
+- **RD 479 (2020-06-09)**, 6 · relator **Francisval Mendes** · Pedido de reconsideração contra a Res. 6.020 (multas por diversas infrações à Res. 858); preliminar de prescrição intercorrente → aprovado por maioria nos termos do voto do relator (provimento parcial); voto-vista de Gab
+  - votos: Francisval: relator; Gabriela: revisor_acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=1271s)
+- **RD 479 (2020-06-09)**, 7 · relator **Adalberto Tokarski** · EVTEA do pedido de prorrogação do contrato de arrendamento CDP/APPV 96/001 (Porto Velho) → aprovado (legenda: 'nos termos do voto condutor'); não fica claro se prevaleceu o voto do 
+  - votos: Adalberto: relator; Gabriela: revisor_diverge; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=2156s)
+- **RD 479 (2020-06-09)**, 8 · relator **Francisval Mendes** · Pedido de reconsideração da Res. 7.252 (reajuste anual do contrato de arrendamento 02/98 pelo IGP-M, inclusive deflação) → aprovado por unanimidade: provimento parcial
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=2784s)
+- **RD 479 (2020-06-09)**, 14 · relator **Francisval Mendes** · Aprovação do edital, minuta de contrato e anexos do leilão da área IQI11 (granéis líquidos combustíveis), com suporte da B3 (julgados em bloco itens 1 → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=3594s)
+- **RD 479 (2020-06-09)**, 15 · relator **Francisval Mendes** · Aprovação do edital, minuta de contrato e anexos do leilão da área IQI12 (granéis líquidos combustíveis), com suporte da B3 (julgados em bloco itens 1 → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=3594s)
+- **RD 479 (2020-06-09)**, 16 · relator **Francisval Mendes** · Aprovação do edital, minuta de contrato e anexos do leilão da área IQI13 (granéis líquidos combustíveis), com suporte da B3 (julgados em bloco itens 1 → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=3594s)
+- **RD 479 (2020-06-09)**, 23 · relator **Francisval Mendes** · Prorrogação da suspensão de prazos normativos da Res. 7.660 (RN 28, 29, 32/2019, Res. 3.274 e contabilidade regulatória) pela pandemia → aprovado por unanimidade, com encaminhamento à PF sugerido por Gabriela Costa
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=4301s)
+- **RD 479 (2020-06-09)**, 26 · relator **Adalberto Tokarski** · Denúncia com pedido de cautelar contra a Res. SCPar 23/2007 (acesso ao corredor de exportação/terminal graneleiro TGSFS) → aprovado por unanimidade: cautelar indeferida
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=5314s)
+- **RD 479 (2020-06-09)**, 27 · relator **Adalberto Tokarski** · Processo sancionador (auto 3254, UR Porto Alegre) sobre aditivos ao contrato de arrendamento 1/96 com a SUPRG (Rio Grande) → aprovado: auto insubsistente (Gabriela Costa impedida)
+  - votos: Adalberto: relator; Gabriela: outro; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=6006s)
+- **RD 479 (2020-06-09)**, 29 · relator **Adalberto Tokarski** · Pedido de reconsideração da Res. 6.723 (multa; certidões negativas municipais) → aprovado: não provido (Gabriela Costa impedida)
+  - votos: Adalberto: relator; Gabriela: outro; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=6839s)
+- **RD 479 (2020-06-09)**, 39 · relator **Gabriela Costa** · Processo sancionador: empilhamento de contêineres acima do previsto no contrato (CDRJ) → aprovado por unanimidade: auto insubsistente
+  - votos: Gabriela: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=8292s)
+- **RD 479 (2020-06-09)**, 40 · relator **Gabriela Costa** · Processo sancionador: operação de carga não especializada em cais arrendado (operada pela Multirio) → pedido de vista (Francisval Mendes) após voto da relatora
+  - votos: Gabriela: relator; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=8606s)
+- **RD 479 (2020-06-09)**, 41 · relator **Gabriela Costa** · Cautelar contra a Deliberação Direx 60/2019 da CDP (tarifa de uso da infraestrutura terrestre de R$ 2,07 para R$ 5,33) → aprovado por unanimidade: cautelar indeferida e diligência à SRG
+  - votos: Gabriela: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=8921s)
+- **RD 479 (2020-06-09)**, 47 · relator **Francisval Mendes** · Referendo da Res. 7.774: efeito suspensivo à Res. 7.608 até o julgamento dos embargos de declaração (operações fora da área arrendada) → aprovado (Gabriela Costa impedida)
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=11158s)
+- **RD 479 (2020-06-09)**, 48 · relator **Francisval Mendes** · Referendo da Res. 7.783 (1º/06/2020): audiência pública 9/2020 do arrendamento de granel vegetal (açúcar) no porto de Maceió → aprovado por unanimidade (referendado)
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=11680s)
+- **RD 479 (2020-06-09)**, 51 · relator **Adalberto Tokarski** · Referendo da Res. 7.778: audiência pública 7/2020 em modelo virtual em 09/06/2020 → aprovado por unanimidade (referendado)
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=12222s)
+- **RD 479 (2020-06-09)**, 52 · relator **Adalberto Tokarski** · Referendo da Res. 7.782 (29/05/2020): audiência pública 8/2020 do arrendamento de granéis sólidos vegetais (trigo) no porto de Fortaleza → aprovado por unanimidade (referendado)
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=12349s)
+- **RD 479 (2020-06-09)**, 53 · relator **Gabriela Costa** · Referendo da Res. 7.779: audiência pública 6/2020 virtual (granéis líquidos e gasosos, Porto de Santos) → aprovado por unanimidade (referendado)
+  - votos: Gabriela: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=12503s)
+- **RD 481 (2020-07-04)**, 1 · relator **Gabriela Costa** · Arbitragem administrativa de conflito (processo de ofício) decorrente de resoluções da diretoria executiva da SCPar Porto de São Francisco do Sul; ret → aprovado (voto da relatora, já proferido em reunião anterior)
+  - votos: Gabriela: relator; Adalberto: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=62s)
+- **RD 481 (2020-07-04)**, 8 · relator **Francisval Mendes** · Embargos de declaração contra a Resolução ANTAQ 7.437/2019, recebidos como pedido de reconsideração → aprovado por unanimidade (provimento parcial)
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=1413s)
+- **RD 481 (2020-07-04)**, 9 · relator **Francisval Mendes** · Abertura de audiência e consulta públicas para o arrendamento do terminal de granéis sólidos minerais (sal marinho) no complexo portuário de Areia Bra → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=1650s)
+- **RD 481 (2020-07-04)**, 10 · relator **Francisval Mendes** · Substituição da audiência pública presencial (Aviso 9/2020) por audiência virtual em 13/07/2020 no arrendamento MAC13 (granel vegetal, açúcar), em raz → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=1890s)
+- **RD 481 (2020-07-04)**, 13 · relator **Adalberto Tokarski** · Pedido de mediação da ANTAQ em conflito entre terminal associado à ABTL e o DNIT/União; relator leu o voto, vista de Gabriela Costa → pedido de vista (Gabriela Costa) após leitura do voto do relator
+  - votos: Adalberto: relator; Gabriela: vista · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=3032s)
+- **RD 481 (2020-07-04)**, 24 · relator **Gabriela Costa** · Processo sancionador (AI 3996): equipamento ocioso degradado de ex-arrendamento (Votorantim) e ocupação de áreas sem contrato válido → aprovado por unanimidade (auto insubsistente)
+  - votos: Gabriela: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=6030s)
+- **RD 481 (2020-07-04)**, 25 · relator **Gabriela Costa** · Processo sancionador (AI 3466): falta de limpeza/higiene (materiais inservíveis) e falta de área para cargas perigosas (Res. 2.239) → aprovado por unanimidade (subsistência parcial; multa de R$ 20 mil)
+  - votos: Gabriela: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=6451s)
+- **RD 481 (2020-07-04)**, 33 (legenda também diz 36) · relator **Gabriela Costa** · Pedido de suspensão/flexibilização do pagamento de contrato de cessão onerosa (2009/03) por impactos da covid-19; indícios de ocupação irregular de ár → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=9181s)
+- **RD 481 (2020-07-04)**, 41 (extrapauta) · relator **Gabriela Costa** · Abertura de audiência e consulta públicas para o arrendamento de área no porto de Pelotas; extrapauta por prioridade no PPI → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=9933s)
+- **RD 483 (2020-08-10)**, 5 · relator **Adalberto Tokarski** · Referendo da Res. 7.845-ANTAQ: audiência pública do aviso 8/2020 realizada em modelo virtual em 06/07/2020 → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=696s)
+- **RD 483 (2020-08-10)**, 17 · relator **Francisval Mendes** · Pedido de reconsideração com efeito suspensivo e medida cautelar (relator com voto proferido; vistas de Tokarski e Gabriela Costa) → pedido de vista (Gabriela Costa); sustentação oral adiada a pedido do advogado
+  - votos: Francisval: relator; Gabriela: vista; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=885s)
+- **RD 483 (2020-08-10)**, 6 · relator **Gabriela Costa** · Processo administrativo sancionador (relatora com voto proferido; vista de Francisval Mendes) → aprovado por unanimidade (nos termos do voto da relatora)
+  - votos: Gabriela: relator; Francisval: revisor_acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=1359s)
+- **RD 483 (2020-08-10)**, 10 · relator **Francisval Mendes** · Impactos da covid-19 no contrato de arrendamento 02/2000: suspensão de obrigações contratuais (teoria da imprevisão) → aprovado por unanimidade nos termos do voto-vista
+  - votos: Adalberto: revisor_acompanha; Gabriela: revisor_acompanha; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=2880s)
+- **RD 483 (2020-08-10)**, 12 · relator **Gabriela Costa** · Consulta do CADE sobre possível abusividade na cobrança de segregação e entrega de contêineres (SSE/THC2) em regime de trânsito aduaneiro. Julgados em → aprovado nos termos do voto-vista (com acréscimos e ressalvas)
+  - votos: Gabriela: relator; Adalberto: revisor_acompanha; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=3609s)
+- **RD 483 (2020-08-10)**, 13 · relator **Gabriela Costa** · Consulta do CADE sobre possível abusividade na cobrança de segregação e entrega de contêineres (SSE/THC2) em regime de trânsito aduaneiro e armazenage → aprovado nos termos do voto-vista (com acréscimos e ressalvas)
+  - votos: Gabriela: relator; Adalberto: revisor_acompanha; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=3609s)
+- **RD 483 (2020-08-10)**, 22 · relator **Francisval Mendes** · Processo administrativo sancionador: exploração irregular de áreas do porto de Belém (armazéns 9 e 10, complexo turístico) sem instrumento válido (AI  → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=6438s)
+- **RD 483 (2020-08-10)**, 26 · relator **Francisval Mendes** · Pedido de reconsideração contra multas (seguro em desacordo e falta de continuidade do serviço portuário) — terminal sem movimentação desde 2013 → aprovado (Gabriela Costa impedida)
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=7337s)
+- **RD 483 (2020-08-10)**, 30 · relator **Francisval Mendes** · Audiência pública 11/2020 em formato virtual (arrendamento de granéis sólidos minerais, sal marinho, no porto de Areia Branca/RN — área lida como «TAB → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=8364s)
+- **RD 483 (2020-08-10)**, 31 · relator **Francisval Mendes** · Rerratificação do Acórdão 84-ANTAQ (prorrogação do arrendamento): correção de erros materiais no EVTEA (faixas de bonificação de contêineres e MMC de  → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=8557s)
+- **RD 483 (2020-08-10)**, 33 · relator **Adalberto Tokarski** · Pedido de reconsideração contra a Res. 7.831 (negou prorrogar o prazo das audiências públicas do arrendamento STS08) → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=8922s)
+- **RD 483 (2020-08-10)**, 67 (extrapauta) · relator **Adalberto Tokarski** · Análise das 381 contribuições da AP 7/2020 — arrendamento STS08 (granéis líquidos combustíveis, Alemoa, Santos) → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=9417s)
+- **RD 483 (2020-08-10)**, 39 · relator **Adalberto Tokarski** · Covid-19 e cruzeiros cancelados: pedido de suspensão do pagamento do valor de outorga e de obrigações do contrato de arrendamento 22/98. Julgados em b → aprovado nos termos do voto de Gabriela Costa (Tokarski vencido nas ressalvas)
+  - votos: Adalberto: vencido; Gabriela: outro; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=11377s)
+- **RD 483 (2020-08-10)**, 40 · relator **Adalberto Tokarski** · Covid-19 e cruzeiros cancelados: pedido de flexibilização de obrigações do contrato de arrendamento 01/2017 e suspensão do valor de outorga. Julgados  → aprovado nos termos do voto de Gabriela Costa (Tokarski vencido nas ressalvas)
+  - votos: Adalberto: vencido; Gabriela: outro; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=11377s)
+- **RD 483 (2020-08-10)**, 43 · relator **Adalberto Tokarski** · Fiscalização: armazéns lonados de operador portuário na retroárea do cais de Capuaba (porto de Vitória) com base na Res. 42/2014 da Codesa; cautelar d → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=11912s)
+- **RD 483 (2020-08-10)**, 32 · relator **Adalberto Tokarski** · Pedido de reconsideração contra a Res. 7.694/2020 (desocupação de área portuária em 60 dias; acordo judicial com a Codern) → pedido de vista (Francisval Mendes) após leitura do voto do relator
+  - votos: Adalberto: relator; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=14564s)
+- **RD 483 (2020-08-10)**, 41 · relator **Adalberto Tokarski** · Acompanhamento do TAC 3/2018 (UR Porto Alegre): regularização de ocupação de áreas no porto organizado de Rio Grande via cessão de uso onerosa → pedido de vista (Francisval Mendes) após leitura do voto do relator
+  - votos: Adalberto: relator; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=15655s)
+- **RD 483 (2020-08-10)**, 42 · relator **Adalberto Tokarski** · Acompanhamento do TAC 25/2017 (UR Recife): descumprimento parcial (manutenção do píer de granéis líquidos e laudo de engenharia) → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=15836s)
+- **RD 483 (2020-08-10)**, 50 · relator **Adalberto Tokarski** · Autorização para contrato de transição do armazém A1 (6.000 m², granéis sólidos) no porto de Fortaleza → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=16637s)
+- **RD 483 (2020-08-10)**, 54 · relator **Gabriela Costa** · Consulta regulatória: equipamentos móveis de regaseificação de GNL (navio FSU no cais de múltiplos usos) são equipamentos portuários? Regime de ocupaç → pedido de vista (Francisval Mendes) após leitura do voto da relatora
+  - votos: Gabriela: relator; Adalberto: acompanha; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=17484s)
+- **RD 483 (2020-08-10)**, 55 · relator **Gabriela Costa** · Audiência pública 12/2020 em formato virtual (arrendamento P01, carga geral/toras de madeira, porto de Pelotas/RS) em 17/08/2020 → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=17911s)
+- **RD 483 (2020-08-10)**, 57 · relator **Gabriela Costa** · Desincorporação física e contábil e alienação de guindaste giratório sobre trilhos (Barão de Teffé, porto de Antonina/PR) → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=18363s)
+- **RD 483 (2020-08-10)**, 58 · relator **Gabriela Costa** · Investimentos urgentes de segurança (ISPS Code e Res. Conportos 52) no contrato de transição 04/2019 → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=18502s)
+- **RD 483 (2020-08-10)**, 59 · relator **Gabriela Costa** · Pedido de reconsideração contra a Res. 7.832 (negou prorrogar a AP 6/2020 do STS08A) → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=18680s)
+- **RD 483 (2020-08-10)**, 60 · relator **Gabriela Costa** · Análise das 425 contribuições da AP 6/2020 — arrendamento STS08A (granéis líquidos e gasosos, Santos) → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=18825s)
+- **RD 483 (2020-08-10)**, 62 · relator **Gabriela Costa** · Revisão do manual de análise e fiscalização do projeto executivo em arrendamentos portuários (Portaria MInfra 530) → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=19464s)
+- **RD 483 (2020-08-10)**, 63 · relator **Gabriela Costa** · Consulta: reestruturação societária dentro do grupo Wilson Sons (arrendamento 12/2000, porto de Salvador) exige anuência prévia? → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=19709s)
+- **RD 483 (2020-08-10)**, 65 · relator **Gabriela Costa** · Processo sancionador: ocupação de área (tanques de gordura, cais Navegantes) sem contrato válido → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=20042s)
+- **RD 485 (2020-08-27)**, 1 · relator **Francisval Mendes** · Referendo da Resolução 7936: inclusão do aplicativo Zoom na audiência pública virtual 11/2020 (arrendamento de granéis sólidos minerais, sal marinho,  → aprovado por unanimidade (referendo)
+  - votos: Francisval: relator; Adalberto: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=803s)
+- **RD 485 (2020-08-27)**, 3 · relator **Francisval Mendes** · Referendo da Resolução 7998: análise das contribuições da audiência pública 9/2020 do arrendamento MAC13 (granel vegetal, açúcar) no Porto de Maceió → aprovado por unanimidade (referendo)
+  - votos: Francisval: relator; Adalberto: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=942s)
+- **RD 485 (2020-08-27)**, 5 · relator **Adalberto Tokarski** · Referendo da Resolução 7959: análise das contribuições da audiência pública 8/2020 do arrendamento MUC01 (granéis sólidos vegetais, trigo) no Porto de → aprovado por unanimidade (referendo)
+  - votos: Adalberto: relator; Joelson: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=1176s)
+- **RD 485 (2020-08-27)**, 14 · relator **Francisval Mendes** · Pedido de reconsideração contra o Acórdão 117/2020 que manteve penalidades da Res. 6503/2018 (advertência, multa de R$ 175 mil e outra sanção); empate → negado provimento; voto do relator Francisval Mendes vencido (Joelson Miranda desempatou a
+  - votos: Francisval: vencido; Adalberto: outro; Joelson: outro · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=4319s)
+- **RD 485 (2020-08-27)**, 24 · relator **Francisval Mendes** · Reequilíbrio de contratos de arrendamento por cobrança de IPTU pelos municípios após o Tema 385 do STF → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=5985s)
+- **RD 485 (2020-08-27)**, 17 · relator **Francisval Mendes** · Processo sancionador (auto de infração 4240-4) por não realizar pavimentação, drenagem e iluminação da área A9 (cláusula 3ª do contrato de arrendament → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=7563s)
+- **RD 485 (2020-08-27)**, 18 · relator **Francisval Mendes** · Processo sancionador (auto de infração 4253-16) por não pavimentar o pátio de contêineres das áreas A12 e A15 (cláusula 3ª do contrato) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=8030s)
+- **RD 487 (2020-09-30)**, 5 · relator **Adalberto Tokarski** · Pedido de reconsideração da SUPRG contra a Resolução 7334-ANTAQ (2019) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Francisval: revisor_acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=1315s)
+- **RD 487 (2020-09-30)**, 6 · relator **Adalberto Tokarski** · Processo administrativo sancionador contra a autoridade portuária (SUPRG), a partir de fiscalização da Superintendência de Portos e Hidrovias → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Francisval: revisor_acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=1397s)
+- **RD 487 (2020-09-30)**, 8 · relator **Francisval Mendes** · Medida cautelar antecedente para suspender o §1º da cláusula 14ª do contrato de transição DTA/NRG 10/2020 (grafia incerta), que dá preferência de atra → aprovado o voto-vista divergente de Adalberto Tokarski (2 x 1); relator vencido
+  - votos: Francisval: vencido; Adalberto: revisor_diverge; Joelson: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=1508s)
+- **RD 487 (2020-09-30)**, 10 · relator **Francisval Mendes** · Processo sancionador (auto de infração 3680-3, Unidade Regional do Rio de Janeiro) por falta de cronograma de investimentos do 5º termo aditivo do arr → auto de infração declarado insubsistente; aprovado nos termos do voto divergente parcial d
+  - votos: Francisval: vencido; Adalberto: acompanha; Joelson: outro · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=2476s)
+- **RD 487 (2020-09-30)**, 12 · relator **Francisval Mendes** · Processo sancionador: auto de infração 4041-0 (Unidade Regional de Florianópolis) – licença ambiental, plano de emergência individual e ocupação de ár → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=3440s)
+- **RD 487 (2020-09-30)**, 13 · relator **Francisval Mendes** · Projeto executivo do 5º termo aditivo ao contrato de arrendamento C-DEPJUR 100/97 → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=3913s)
+- **RD 487 (2020-09-30)**, 15 · relator **Francisval Mendes** · Análise das contribuições da Audiência Pública 12/2020 sobre arrendamento PEL01 (carga geral, especialmente toras de madeira) no porto de Pelotas → aprovado por unanimidade
+  - votos: Francisval: relator; Joelson: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=4484s)
+- **RD 487 (2020-09-30)**, 24 · relator **Adalberto Tokarski** · Medida cautelar contra ofício da autoridade portuária que atribui aos operadores portuários do terminal graneleiro (TGSFS) a requisição e o custo da m → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=6853s)
+- **RD 487 (2020-09-30)**, 25 · relator **Adalberto Tokarski** · Abertura de consulta e audiência pública para arrendamento VDC10A (granéis líquidos, soda cáustica) em Vila do Conde → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=7071s)
+- **RD 487 (2020-09-30)**, 29 · relator **Joelson Miranda** · Processo sancionador: auto de infração 229-3 por demolição de grupo sanitário da Codesp fora da área arrendada sem autorização → aprovado por unanimidade
+  - votos: Joelson: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=7917s)
+- **RD 487 (2020-09-30)**, 30 · relator **Joelson Miranda** · Processo administrativo sancionador contra a CDP → não deliberado: pedido de vista antes da leitura do voto
+  - votos: Joelson: relator · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=8582s)
+- **RD 487 (2020-09-30)**, 31 · relator **Joelson Miranda** · Consulta da SNPTA sobre se investimentos propostos pela BTP são obrigação contratual ou investimento novo (Portaria 530/2019) → aprovado por unanimidade
+  - votos: Joelson: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=8616s)
+- **RD 487 (2020-09-30)**, 32 · relator **Joelson Miranda** · Abertura de consulta e audiência pública (virtual, 21/10/2020) para arrendamento VDC10 (granéis minerais) em Vila do Conde → aprovado por unanimidade
+  - votos: Joelson: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=9084s)
+- **RD 490 (2020-12-08)**, 2 · relator **Adalberto Tokarski** · Referendo da Deliberação DG 4/2020: autorização em caráter emergencial para movimentar e armazenar granéis no terminal, diante de assoreamento dos ber → aprovado (referendado) por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=655s)
+- **RD 490 (2020-12-08)**, 6 · relator **Adalberto Tokarski** · Processo administrativo sancionador: celebração do 5º e 6º contratos de transição com Amapá Florestal e Celulose S.A. (Amcel) com valores de diária e  → aprovado nos termos do voto-vista de Francisval Mendes (advertência), com adesão do relato
+  - votos: Francisval: revisor_diverge; Adalberto: revisor_acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=1204s)
+- **RD 490 (2020-12-08)**, 8 · relator **Adalberto Tokarski** · Pedido de reconsideração da Resolução 7.332-ANTAQ (multa; dosimetria pela receita bruta) e instrução de proposta de denúncia do convênio de delegação → aprovado por unanimidade nos termos do relator (reconsideração não acolhida)
+  - votos: Adalberto: relator; Francisval: revisor_acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=1868s)
+- **RD 490 (2020-12-08)**, 11 · relator **Francisval Mendes** · Consulta da CDRJ sobre o instrumento contratual adequado (contrato de arrendamento ou contrato de passagem/transição) para exploração de instalações d → aprovado nos termos do relator (voto-vista de Adalberto converge)
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=3633s)
+- **RD 490 (2020-12-08)**, 24 · relator **Eduardo Nery** · Relatório final de execução de investimentos do 10º termo aditivo ao contrato de arrendamento 20/1998 (Porto de Paranaguá) → aprovado por unanimidade
+  - votos: Eduardo: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=4532s)
+- **RD 490 (2020-12-08)**, 35 · relator **Francisval Mendes** · Representação da Pier Mauá (terminal de passageiros) contra cobrança de mensalidades e rateio de passivos pelo OGMO-RJ; sustentações orais de Milena ( → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=4653s)
+- **RD 490 (2020-12-08)**, 38 · relator **Francisval Mendes** · Alegada ilegalidade e abusividade do aumento da tarifa portuária no carregamento de balsas (de R$ 2,07 para R$ 5,33/t) pela Deliberação DIREXE 60/2019 → aprovado por unanimidade (pedido indeferido)
+  - votos: Francisval: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=7386s)
+- **RD 490 (2020-12-08)**, 29 · relator **Francisval Mendes** · Processo administrativo sancionador: operar granel líquido sem que o perfil de carga conste do contrato de arrendamento (art. 32, XXXVIII, Res. 3.274) → aprovado por unanimidade (multa)
+  - votos: Francisval: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=9851s)
+- **RD 490 (2020-12-08)**, 32 · relator **Francisval Mendes** · Pedido de reconsideração contra multa de R$ 1 milhão por permitir exploração de área no porto organizado de Vitória sem instrumento contratual → aprovado por maioria nos termos do relator (Adalberto, ao que indica a legenda, vencido)
+  - votos: Francisval: relator; Adalberto: outro; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=11220s)
+- **RD 490 (2020-12-08)**, 34 · relator **Francisval Mendes** · Medida cautelar para obrigar a autoridade portuária a fornecer informações sobre contratos de armazém de lona com a operadora C3 Serviços Portuários → aprovado por unanimidade (cautelar indeferida)
+  - votos: Francisval: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=12400s)
+- **RD 490 (2020-12-08)**, 36 · relator **Francisval Mendes** · Contrato de transição: inclusão de área de 233,20 m² adjacente ao Armazém 3B no Porto do Recife → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=12718s)
+- **RD 490 (2020-12-08)**, 37 · relator **Francisval Mendes** · Reconhecimento de fator de desequilíbrio de cerca de R$ 837 milhões (débito da SPA reconhecido judicialmente) no contrato PRES/12.93 → aprovado por unanimidade (pedido indeferido)
+  - votos: Francisval: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=12961s)
+- **RD 490 (2020-12-08)**, 41 · relator **Adalberto Tokarski** · Diferença da primeira parcela do contrato de arrendamento MTPA 01/2017 paga antecipadamente → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=14517s)
+- **RD 490 (2020-12-08)**, 42 · relator **Adalberto Tokarski** · Análise de investimentos e pleito de reequilíbrio no contrato de arrendamento (consulta da SNPTA), adaptação à Lei 12.815 → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=14753s)
+- **RD 490 (2020-12-08)**, 43 · relator **Adalberto Tokarski** · Pedido de reconsideração da CDRJ contra a Resolução 7.32x/2019 sobre cláusulas do contrato de arrendamento → aprovado por unanimidade (não conhecido)
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=15182s)
+- **RD 490 (2020-12-08)**, 45 · relator **Adalberto Tokarski** · Pedido de reconsideração: cessão provisória de retroescavadeira do porto organizado de Estrela à própria SUPRG → aprovado por unanimidade (deferido)
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=15744s)
+- **RD 490 (2020-12-08)**, 50 · relator **Adalberto Tokarski** · Processo administrativo sancionador por não regularizar instalação portuária em Itaituba (estação de transbordo) → vista (Francisval Mendes) após voto do relator
+  - votos: Francisval: vista; Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=16996s)
+- **RD 490 (2020-12-08)**, 51 · relator **Adalberto Tokarski** · Processo sancionador: não remoção, no prazo, das instalações da Polícia Federal e do terminal de balsas de passageiros (Ponta da Praia) - contrato PRE → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=17364s)
+- **RD 490 (2020-12-08)**, 52 · relator **Adalberto Tokarski** · Processo sancionador sobre ocupação de área de cerca de 13.026 m² já objeto de outro auto → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=17593s)
+- **RD 490 (2020-12-08)**, 53 · relator **Adalberto Tokarski** · Prorrogação do TAC 01/2016-SFC (área do contrato PBP 25/2000 no Porto de Santos) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=17824s)
+- **RD 490 (2020-12-08)**, 59 · relator **Adalberto Tokarski** · Consulta sobre instrumento para ocupação de área da Petrobras (heliponto offshore) durante desmobilização no porto organizado de Arraial do Cabo → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=18731s)
+- **RD 492 (2020-12-22)**, 11 · relator **Eduardo Nery** · Abertura de consulta e audiência pública da concessão dos portos de Vitória e Barra do Riacho e desestatização da Codesa → aprovado por unanimidade
+  - votos: Eduardo: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=1134s)
+- **RD 492 (2020-12-22)**, 28 · relator **Francisval Mendes** · Aprovação de edital e minuta de contrato para licitação do arrendamento IQI03 (granéis líquidos combustíveis), julgamento em bloco dos itens 28 a 32 → aprovado por unanimidade (bloco)
+  - votos: Francisval: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=1359s)
+- **RD 492 (2020-12-22)**, 29 · relator **Francisval Mendes** · Aprovação de edital e minuta de contrato para licitação do arrendamento IQI11 (granéis líquidos combustíveis), julgamento em bloco dos itens 28 a 32 → aprovado por unanimidade (bloco)
+  - votos: Francisval: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=1359s)
+- **RD 492 (2020-12-22)**, 30 · relator **Francisval Mendes** · Aprovação de edital e minuta de contrato para licitação do arrendamento IQI12 (granéis líquidos combustíveis), julgamento em bloco dos itens 28 a 32 → aprovado por unanimidade (bloco)
+  - votos: Francisval: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=1359s)
+- **RD 492 (2020-12-22)**, 31 · relator **Francisval Mendes** · Aprovação de edital e minuta de contrato para licitação do arrendamento IQI13 (granéis líquidos combustíveis), julgamento em bloco dos itens 28 a 32 → aprovado por unanimidade (bloco)
+  - votos: Francisval: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=1359s)
+- **RD 492 (2020-12-22)**, 32 · relator **Francisval Mendes** · Aprovação de edital e minuta de contrato para licitação do arrendamento PEL01 (carga geral, especialmente toras de madeira), julgamento em bloco dos i → aprovado por unanimidade (bloco)
+  - votos: Francisval: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=1359s)
+- **RD 492 (2020-12-22)**, 33 · relator **Francisval Mendes** · Licitação do arrendamento PAR50 (granéis líquidos, Paranaguá): análise da documentação da APPA → aprovado por unanimidade
+  - votos: Francisval: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=1595s)
+- **RD 492 (2020-12-22)**, 34 · relator **Francisval Mendes** · Consulta e audiência pública do arrendamento MAC14 (carga geral, cavaco de madeira, porto de Maceió) → aprovado por unanimidade
+  - votos: Francisval: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=1925s)
+- **RD 492 (2020-12-22)**, 44 · relator **Adalberto Tokarski** · Licitação do arrendamento PAR32 (carga geral, açúcar ensacado, Paranaguá): análise da documentação da APPA → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=2083s)
+- **RD 492 (2020-12-22)**, 13 · relator **Francisval Mendes** · Processo administrativo sancionador (AI 4251-10, UR Florianópolis), cronograma de investimentos → pedido de vista (Eduardo Nery)
+  - votos: Francisval: relator; Eduardo: vista · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=5795s)
+- **RD 492 (2020-12-22)**, 21 · relator **Francisval Mendes** · Pedido de reconsideração da CDRJ contra decisões das 422ª, 441ª e 464ª ROD (Acórdão 26/2020) → aprovado por unanimidade
+  - votos: Francisval: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=6763s)
+- **RD 492 (2020-12-22)**, 24 · relator **Francisval Mendes** · Consulta regulatória sobre controle patrimonial de bens (cláusula 7.1.1, XXIX, contrato de arrendamento 3/2019, IQI18) → aprovado por unanimidade
+  - votos: Francisval: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=6959s)
+- **RD 492 (2020-12-22)**, 37 · relator **Adalberto Tokarski** · Contrato de cessão de uso onerosa do lote Z (porto de Belém) para depósito de mercadorias apreendidas → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=9657s)
+- **RD 492 (2020-12-22)**, 45 · relator **Adalberto Tokarski** · Pedido de suspensão de cláusulas de MMC em contratos de transição do terminal de Miramar durante a covid-19 → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=10370s)
+- **RD 492 (2020-12-22)**, 48 · relator **Adalberto Tokarski** · Contrato de transição (área VIX03, porto de Vitória; sucessão da Flexibrás) → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=10943s)
+- **RD 492 (2020-12-22)**, extrapauta 1 · relator **Adalberto Tokarski** · Anuência prévia para transferência de controle societário do arrendatário do Tegram (contrato 10/2012, Itaqui) → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=12111s)
+- **RD 492 (2020-12-22)**, extrapauta 2 · relator **Adalberto Tokarski** · Análise das contribuições da audiência pública 15/2020 (arrendamento VDC10A, soda cáustica, Vila do Conde) → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=12362s)
+- **RD 494 (2021-02-03)**, 6 · relator **Adalberto Tokarski** · Arbitragem regulatória com pedido de cautelar: remuneração pela ocupação de área do porto organizado de Itaguaí pelo ramal ferroviário de acesso ao Po → pedido de vista (Eduardo Nery); julgamento suspenso
+  - votos: Adalberto: relator; Francisval: revisor_diverge; Eduardo: vista · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=973s)
+- **RD 494 (2021-02-03)**, 12 · relator **Francisval Mendes** · Avaliação do equilíbrio econômico-financeiro de contrato de arrendamento no Porto do Recife → aprovado por unanimidade
+  - votos: Francisval: relator; Eduardo: revisor_acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=5430s)
+- **RD 494 (2021-02-03)**, 14 · relator **Eduardo Nery** · Autorizar consulta e audiência pública para documentos do leilão de arrendamento da área SUA07 (granéis vegetais, minerais e carga geral) no porto de  → aprovado por unanimidade
+  - votos: Eduardo: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=5807s)
+- **RD 494 (2021-02-03)**, 15 · relator **Eduardo Nery** · Aprovar minutas de edital e contrato do arrendamento simplificado do terminal IGI-03 (legenda: «IPG-03») no porto organizado de Itaguaí → aprovado por unanimidade
+  - votos: Eduardo: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=5972s)
+- **RD 494 (2021-02-03)**, 18 · relator **Francisval Mendes** · TAC 28/2018 para regularizar ocupação de área no porto organizado do Rio Grande (cessão de uso onerosa para construção e reparo naval) e processo sanc → pedido de vista (Eduardo Nery); julgamento suspenso
+  - votos: Francisval: relator; Eduardo: vista · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=10697s)
+- **RD 494 (2021-02-03)**, 19 · relator **Francisval Mendes** · TAC 28/2018 para regularizar ocupação de área no porto organizado do Rio Grande (cessão de uso onerosa para construção e reparo naval) e processo sanc → pedido de vista (Eduardo Nery); julgamento suspenso
+  - votos: Francisval: relator; Eduardo: vista · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=10697s)
+- **RD 494 (2021-02-03)**, 29 · relator **Francisval Mendes** · Alteração da Resolução ANTAQ 3.220/2014 (projetos de arrendamento e reequilíbrio de contratos), atendendo ao Acórdão TCU 1.446/2018, com audiência púb → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=11133s)
+- **RD 494 (2021-02-03)**, 30 · relator **Francisval Mendes** · Abertura de consulta e audiência pública do arrendamento de terminal de granel líquido combustível no porto de Fortaleza (sigla ilegível na legenda: « → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=11319s)
+- **RD 494 (2021-02-03)**, 32 · relator **Adalberto Tokarski** · Inclusão da Tabela 8 (uso temporário e arrendamento simplificado) na estrutura tarifária do porto de Itaguaí, sem revisão tarifária, para viabilizar o → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=11588s)
+- **RD 494 (2021-02-03)**, 34 · relator **Adalberto Tokarski** · Processo sancionador: cessão não onerosa de área do porto de Pelotas à Prefeitura (projeto Porto das Artes) sem instrumento adequado → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=12030s)
+- **RD 494 (2021-02-03)**, 41 · relator **Adalberto Tokarski** · Pedido de reconsideração contra multa de R$ 222.750 por permitir ocupação de área sem instrumento contratual (Res. 6.630/2018) → aprovado por unanimidade (reconsideração negada)
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=13147s)
+- **RD 494 (2021-02-03)**, 42 · relator **Adalberto Tokarski** · Pedido de reconsideração contra multa por contrato de transição 933/2017 sem autorização prévia da ANTAQ (Res. 7.331/2019) → aprovado por unanimidade (reconsideração negada)
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=13412s)
+- **RD 494 (2021-02-03)**, 44 · relator **Adalberto Tokarski** · Pedido de suspensão do prazo de obras do contrato de arrendamento 3/2019 por medidas da pandemia → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=13912s)
+- **RD 496 (2021-03-10)**, 1 · relator **Adalberto Tokarski** · Referendo da Deliberação DG 21/2021: autorização especial e de emergência para desembarque de carga no cais da EBR em São José do Norte (porto do Rio  → aprovado (referendado) por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=117s)
+- **RD 496 (2021-03-10)**, 2 · relator **Gabriela Costa** · Referendo da Deliberação DG 22/2021 que deu efeito suspensivo ao Acórdão 148/2020 (operação fora da área arrendada) até decisão do mérito do pedido de → aprovado (referendado) por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=345s)
+- **RD 496 (2021-03-10)**, 3 · relator **Adalberto Tokarski** · Arbitragem regulatória com cautelar sobre a ocupação de área do porto de Itaguaí pelo ramal ferroviário do Porto Sudeste: retirada de pauta a pedido c → retirado de pauta por até 60 dias, para as partes apresentarem acordo
+  - votos: Eduardo: outro; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=480s)
+- **RD 496 (2021-03-10)**, 4 · relator **Adalberto Tokarski** · Processo sancionador: ressarcimento de custos à controladora por termo de cooperação, contrariando o convênio de delegação 1/2012 → aprovado nos termos do voto do relator, com as determinações do voto-vista (unânime entre 
+  - votos: Adalberto: revisor_acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=767s)
+- **RD 496 (2021-03-10)**, 5 · relator **Adalberto Tokarski** · Processo sancionador: custeio de despesas da controladora estadual (diárias, cursos) e do terminal graneleiro da CIDASC (moega, seguro), contrariando  → aprovado nos termos do voto do relator Tokarski (insubsistência, com ajustes); voto-vista 
+  - votos: Adalberto: relator; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=1308s)
+- **RD 496 (2021-03-10)**, 6 · relator **Francisval Mendes** · TAC 28/2018 e processo sancionador por ocupação de área não operacional no porto do Rio Grande (julgamento conjunto dos itens 6 e 7) → aprovado nos termos do voto do relator Francisval Mendes (2 x 1); Eduardo Nery vencido
+  - votos: Francisval: relator; Eduardo: vencido; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=1923s)
+- **RD 496 (2021-03-10)**, 7 · relator **Francisval Mendes** · TAC 28/2018 e processo sancionador por ocupação de área não operacional no porto do Rio Grande (julgamento conjunto dos itens 6 e 7) → aprovado nos termos do voto do relator Francisval Mendes (2 x 1); Eduardo Nery vencido
+  - votos: Francisval: relator; Eduardo: vencido; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=1923s)
+- **RD 496 (2021-03-10)**, 8 · relator **Adalberto Tokarski** · Processo sancionador: contrato de transição com a Transbrasil sem prévia autorização da ANTAQ (art. 32, XXXVIII, da Res. 3.274) → aprovado nos termos do voto do revisor Eduardo Nery (advertência em vez de multa), com vot
+  - votos: Adalberto: vencido; Eduardo: revisor_acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=2736s)
+- **RD 496 (2021-03-10)**, 21 · relator **Eduardo Nery** · Pedido de reequilíbrio econômico-financeiro do contrato de arrendamento (cerca de R$ 27 milhões): investimentos adicionais, exigências da Receita Fede → aprovado por unanimidade (reequilíbrio indeferido)
+  - votos: Eduardo: relator; Gabriela: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=4965s)
+- **RD 496 (2021-03-10)**, 19 · relator **Eduardo Nery** · Processo sancionador por não fornecer dados de movimentação de veículos e cargas não conteinerizadas → aprovado
+  - votos: Eduardo: relator; Adalberto: acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=6418s)
+- **RD 496 (2021-03-10)**, 25 · relator **Eduardo Nery** · Autorizar aditivo ao contrato de transição 13/2020 para incluir 3.500 m² da antiga Conab (movimentação de celulose) → aprovado por unanimidade
+  - votos: Eduardo: relator; Gabriela: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=6825s)
+- **RD 496 (2021-03-10)**, 38 · relator **Adalberto Tokarski** · Processo sancionador (art. 32, XXXVIII, da Res. 3.274) sobre ocupação de área em porto organizado → aprovado nos termos do voto do revisor Eduardo Nery (auto insubsistente por outro fundamen
+  - votos: Adalberto: vencido; Eduardo: outro; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=8923s)
+- **RD 496 (2021-03-10)**, 39 · relator **Adalberto Tokarski** · Análise das 49 contribuições da Audiência Pública 2/2020 do arrendamento MAC14 (carga geral, cavaco de madeira) → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=9271s)
+- **RD 496 (2021-03-10)**, 40 · relator **Gabriela Costa** · Arrendamento simplificado da área IMB05 (granel líquido, soda cáustica): dispensa de consulta e audiência pública → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=9539s)
+- **RD 496 (2021-03-10)**, 46 · relator **Gabriela Costa** · Inclusão de modalidade tarifária para contratos de uso temporário e arrendamentos simplificados (soda cáustica) → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=10385s)
+- **RD 496 (2021-03-10)**, 49 · relator **Gabriela Costa** · Devolução de área e reversão de bens ao fim do contrato de arrendamento 57/2001 → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=10802s)
+- **RD 496 (2021-03-10)**, 50 · relator **Gabriela Costa** · Autorizar contrato de transição de 54.086 m² na retroárea de Capuaba (armazenagem de veículos), porto de Vitória, por 180 dias → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=10957s)
+- **RD 496 (2021-03-10)**, 51 · relator **Gabriela Costa** · Aditivo ao contrato de transição 11/2020 para incluir área da BR Distribuidora (BEL02A) até o consórcio vencedor da licitação assumir → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=11114s)
+- **RD 496 (2021-03-10)**, 52 · relator **Gabriela Costa** · Pedido de arbitramento com cautelar contra reajuste contratual pelo IGP-M → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=11325s)
+- **RD 498 (2021-04-08)**, 5 · relator **Adalberto Tokarski** · Referendo da Deliberação DG 58/2021, que indeferiu medida cautelar para recepção de 60 mil t de soja no terminal graneleiro de São Francisco do Sul → referendado por unanimidade (cautelar indeferida)
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=1024s)
+- **RD 498 (2021-04-08)**, 9 · relator **Eduardo Nery** · Baixa e desincorporação do tanque TA-103 em área arrendada à União Vopak (contrato 10/1993, mantido por liminar) e oitiva da arrendatária sobre indeni → aprovado por unanimidade (decisão cautelar; mérito posterior)
+  - votos: Eduardo: relator; Gabriela: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=2338s)
+- **RD 498 (2021-04-08)**, 12 · relator **Eduardo Nery** · Auto de infração por não comprovar medidas para recuperar cerca de R$ 6,3 milhões ressarcidos indevidamente à Companhia Estadual de Silos e Armazéns ( → aprovado por unanimidade: multa de R$ 1 milhão e plano de ação
+  - votos: Eduardo: relator; Gabriela: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=5051s)
+- **RD 498 (2021-04-08)**, 13 · relator **Eduardo Nery** · Contestação da portaria de Suape que obriga todas as empresas a usar o pátio de triagem → aprovado por unanimidade (recomendação)
+  - votos: Eduardo: relator; Gabriela: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=5176s)
+- **RD 498 (2021-04-08)**, 22 · relator **Adalberto Tokarski** · Autorização de consulta e audiência públicas para o arrendamento STS11 (granéis sólidos vegetais, porto de Santos) → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=5839s)
+- **RD 498 (2021-04-08)**, 29 · relator **Adalberto Tokarski** · Aprovação do EVTEA para reequilíbrio econômico-financeiro e prorrogação ordinária do contrato de arrendamento CA 25/1999 (granéis sólidos vegetais, po → aprovado
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=6992s)
+- **RD 498 (2021-04-08)**, 30 · relator **Adalberto Tokarski** · Equilíbrio econômico-financeiro decorrente da cisão do contrato de arrendamento PRES 019/98 (porto de Santos) em T30 (suco) e T31 (celulose) → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=7387s)
+- **RD 498 (2021-04-08)**, 32 · relator **Adalberto Tokarski** · Autorização para contrato de transição (RN 7, arts. 46-47) de área de cerca de 16 mil m² em Paquetá, porto de Santos (celulose), até a licitação do ST → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=7945s)
+- **RD 498 (2021-04-08)**, 41 · relator **Gabriela Costa** · Pedido de reconsideração contra o Acórdão 105 (anuência a contrato de transição entre Codesa e TVV, área 5 do processo seletivo simplificado 1/2020),  → pedido de reconsideração não provido, por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=9110s)
+- **RD 498 (2021-04-08)**, 40 · relator **Gabriela Costa** · Revisão tarifária com padronização da estrutura tarifária do porto de São Francisco do Sul → aprovado por unanimidade, com ajuste de forma (formalizar por acórdão, não por resolução)
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=10638s)
+- **RD 500 (2021-05-21)**, 5 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário flutuante (fundeio) fora do porto organizado, em Macau/RN, para movimentação de sal marinho ( → indeferido por unanimidade (voto-vista de Gabriela Costa prevaleceu; relator reviu seu vot
+  - votos: Adalberto: revisor_acompanha; Gabriela: revisor_acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=622s)
+- **RD 500 (2021-05-21)**, 6 · relator **Eduardo Nery** · Pedido de reconsideração contra o Acórdão 113/2021, que indeferiu reequilíbrio econômico-financeiro do contrato de arrendamento (IPTU, investimentos,  → aprovado por unanimidade
+  - votos: Eduardo: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=3428s)
+- **RD 500 (2021-05-21)**, 7 · relator **Eduardo Nery** · Pedido de reconsideração contra resolução que aplicou multa de cerca de R$ 136 mil por repasse de recursos do porto a hospital via convênio irregular → aprovado por unanimidade
+  - votos: Eduardo: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=4350s)
+- **RD 500 (2021-05-21)**, 12 · relator **Eduardo Nery** · Análise das contribuições da audiência pública 05/2021 – arrendamento SUA07 em Suape (granéis vegetais, minerais e carga geral; ~72 mil m², brownfield → aprovado por unanimidade
+  - votos: Eduardo: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=4820s)
+- **RD 500 (2021-05-21)**, 16 · relator **Adalberto Tokarski** · Recomposição do equilíbrio econômico-financeiro do contrato de arrendamento 9/95 em favor do poder concedente por investimentos obrigatórios não reali → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=5032s)
+- **RD 500 (2021-05-21)**, 17 · relator **Adalberto Tokarski** · Denúncia contra a Resolução SCPAR 23/2020 (credenciamento de operadores no Terminal Graneleiro de São Francisco do Sul – TGSFS/corredor de exportação) → pedido de vista de Gabriela Costa (relator já votou)
+  - votos: Adalberto: relator; Gabriela: vista; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=5990s)
+- **RD 500 (2021-05-21)**, 33 · relator **Adalberto Tokarski** · Baixa e desincorporação de bem da União (Armazém 1) para demolição – julgado em conjunto itens 33 e 34 → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=16135s)
+- **RD 500 (2021-05-21)**, 34 · relator **Adalberto Tokarski** · Baixa e desincorporação de bem da União (torre de controle) para demolição – julgado em conjunto itens 33 e 34 → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=16135s)
+- **RD 500 (2021-05-21)**, 36 · relator **Adalberto Tokarski** · Relatório final de execução de investimentos da prorrogação antecipada do contrato de arrendamento 10/2001 → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=16305s)
+- **RD 500 (2021-05-21)**, 47 · relator **Gabriela Costa** · Análise das contribuições da audiência pública 06/2021 – arrendamento MUC59 em Fortaleza (granéis líquidos, combustíveis) → aprovado por unanimidade
+  - votos: Gabriela: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=18390s)
+- **RD 504 (2021-07-08)**, 1 · relator **Gabriela Costa** · Referendo (Deliberação DG 152/2021): licitação de arrendamento de terminal de carga geral e contêineres no Porto de Salvador, com dispensa de consulta → referendado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=111s)
+- **RD 504 (2021-07-08)**, 3 · relator **Gabriela Costa** · Referendo de cautelar (Deliberação DG 154/2021): caminhões destinados a arrendatária com pátio próprio dispensados do pátio público de triagem de Suap → referendado por maioria (Tokarski diverge)
+  - votos: Gabriela: relator; Adalberto: outro; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=335s)
+- **RD 504 (2021-07-08)**, 12 · relator **Adalberto Tokarski** · Denúncia: arrendatários operando como operadores portuários em berços públicos (cais de Capuaba) fora da área arrendada → aprovado por maioria nos termos do voto-vista do Diretor-Geral; relator vencido
+  - votos: Eduardo: revisor_diverge; Adalberto: vencido; Gabriela: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=1580s)
+- **RD 504 (2021-07-08)**, 13 · relator **Adalberto Tokarski** · Arbitragem regulatória com pedido de cautelar (uso de área; contraprestação 2010-2020) → vista renovada (acordo entre as partes protocolado no dia)
+  - votos: Eduardo: vista; Adalberto: relator; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=2785s)
+- **RD 504 (2021-07-08)**, 15 · relator **Adalberto Tokarski** · Apuração de eventual desequilíbrio econômico-financeiro do contrato de arrendamento 04/1997 (cerca de 14 meses de operação além do prazo por decisão j → aprovado por maioria nos termos do voto do relator; revisora vencida
+  - votos: Adalberto: relator; Gabriela: revisor_diverge; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=3151s)
+- **RD 504 (2021-07-08)**, 16 · relator **Adalberto Tokarski** · Aderência da Resolução SCPar 23/2020 (regras de uso do terminal graneleiro público de São Francisco do Sul) ao marco regulatório; sigilo de dados → julgamento suspenso (vista do Diretor-Geral)
+  - votos: Adalberto: relator; Gabriela: revisor_diverge; Eduardo: vista · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=4250s)
+- **RD 504 (2021-07-08)**, 17 · relator **Adalberto Tokarski** · Processo conexo ao item 16 → julgamento suspenso (vista do Diretor-Geral)
+  - votos: Eduardo: vista; Gabriela: outro; Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=5725s)
+- **RD 504 (2021-07-08)**, 21 · relator **Eduardo Nery** · Efeitos da alteração do cronograma de investimentos (construção de 1 para 3 anos) no equilíbrio do contrato de arrendamento 01/2018 → aprovado por unanimidade
+  - votos: Eduardo: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=6047s)
+- **RD 504 (2021-07-08)**, 23 · relator **Eduardo Nery** · Resolução sobre antecipação de receitas tarifárias e de valores de arrendamento nos portos organizados → aprovado por unanimidade
+  - votos: Eduardo: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=6307s)
+- **RD 504 (2021-07-08)**, 25 · relator **Adalberto Tokarski** · Arbitragem regulatória: cobrança de movimentação variável de contrato de transição → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=6506s)
+- **RD 504 (2021-07-08)**, 26 · relator **Adalberto Tokarski** · Interesse da ANTAQ em firmar compromisso arbitral sobre reequilíbrio do contrato de arrendamento PRES 028/98 (Decreto 10.025/2019) → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=6916s)
+- **RD 504 (2021-07-08)**, 29 · relator **Adalberto Tokarski** · Agenda regulatória: cobrança pela autoridade portuária pelo uso do espelho d'água nos portos organizados — AIR e consulta pública → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=8820s)
+- **RD 504 (2021-07-08)**, 30 · relator **Adalberto Tokarski** · Denúncia sobre requisição de mão de obra portuária → aprovado por unanimidade — extinto por perda de objeto
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=9095s)
+- **RD 504 (2021-07-08)**, 39 · relator **Gabriela Costa** · Contrato de transição para apoio offshore no Porto de Maceió → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=10004s)
+- **RD 504 (2021-07-08)**, 43 · relator **Gabriela Costa** · Consulta sobre obras de arrendamento atrasadas por lockdowns da covid-19 → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=11484s)
+- **RD 506 (2021-08-23)**, 1 · relator **Eduardo Nery** · Referendo da deliberação DG 189/2021: dúvida da SUPRG sobre se a deliberação 131/2021 abrange embarque além de desembarque de equipamentos de grande p → aprovado por unanimidade
+  - votos: Eduardo: relator; Adalberto: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=352s)
+- **RD 506 (2021-08-23)**, 41 (extrapauta) · relator **Eduardo Nery** · Referendo da deliberação DG 201/2021: abertura de audiência pública para licitação de arrendamento portuário (área citada como «FPS 53» na legenda — s → aprovado (votação não captada claramente na legenda)
+  - votos: Eduardo: relator; Adalberto: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=489s)
+- **RD 506 (2021-08-23)**, 2 · relator **Adalberto Tokarski** · Referendo da deliberação DG 192/2021: aprovação da análise das contribuições da audiência pública 10/2020 do arrendamento STS11 (granéis vegetais, San → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Adalberto: relator; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=557s)
+- **RD 506 (2021-08-23)**, 14 · relator **Adalberto Tokarski** · Arbitragem regulatória sobre remuneração pelo uso de área do porto organizado (ramal ferroviário) pela Porto Sudeste — voto-vista de Eduardo Nery após → arquivado por perda de objeto (unanimidade dos votantes)
+  - votos: Eduardo: revisor_acompanha; Adalberto: revisor_acompanha; Flávia: outro · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=4670s)
+- **RD 506 (2021-08-23)**, 21 · relator **Adalberto Tokarski** · Pedido de reconsideração do acórdão 162/2020 (descumprimento do contrato de arrendamento 11/2002; crise financeira e pandemia alegadas) → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Adalberto: relator; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=7750s)
+- **RD 506 (2021-08-23)**, 31 · relator **Adalberto Tokarski** · Recomposição do equilíbrio econômico-financeiro do contrato de arrendamento PRES 41/97 (granéis vegetais, Santos) por investimentos em pera ferroviári → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Adalberto: relator; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=8991s)
+- **RD 506 (2021-08-23)**, 32 · relator **Adalberto Tokarski** · Alteração do art. 13 da Resolução ANTAQ 3220/2014 para suprimir a revisão ordinária quinquenal obrigatória do equilíbrio dos contratos de arrendamento → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Adalberto: relator; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=9345s)
+- **RD 506 (2021-08-23)**, 34 · relator **Flávia Takafashi** · Recurso contra indeferimento (SNPTA) de reequilíbrio do contrato de arrendamento 12/93 por cobrança de IPTU após nova tese do STF; sustentação oral do → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Adalberto: acompanha; Flávia: relator · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=10172s)
+- **RD 506 (2021-08-23)**, 35 · relator **Flávia Takafashi** · Consolidação normativa (Decreto 10.139/2019): pertinência temática licitação e arrendamento (portaria da CPLA) → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Adalberto: acompanha; Flávia: relator · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=11592s)
+- **RD 506 (2021-08-23)**, 36 · relator **Flávia Takafashi** · Consolidação normativa: manual de análise e fiscalização de projeto executivo em arrendamentos portuários (une três resoluções) → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Adalberto: acompanha; Flávia: relator · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=11697s)
+- **RD 508 (2021-09-09)**, 1 · relator **Flávia Takafashi** · Referendo da deliberação ad referendum 225/2021: consulta da EMAP sobre manutenção das atividades nas áreas IQI-03 e IQI-11 (Porto do Itaqui) até a as → aprovado por unanimidade (referendo)
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=78s)
+- **RD 508 (2021-09-09)**, 2 · relator **Adalberto Tokarski** · Legalidade do credenciamento (Resolução SCPAR 23/2020) para acesso ao terminal graneleiro / corredor de exportação do Porto de São Francisco do Sul —  → aprovado nos termos do voto-vista (revisor Eduardo Nery); Flávia Takafashi não votou
+  - votos: Eduardo: revisor_acompanha; Adalberto: revisor_acompanha; Flávia: outro · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=281s)
+- **RD 508 (2021-09-09)**, 3 · relator **Adalberto Tokarski** · Requerimento de revogação da Resolução SCPAR 23/2020 e da ordem de serviço do credenciamento do terminal graneleiro de São Francisco do Sul (mesmo obj → aprovado por unanimidade (anexação ao processo do item 2 e arquivamento)
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=1401s)
+- **RD 508 (2021-09-09)**, 6 · relator **None** · Processo com vista de Flávia Takafashi (reunião 506): renovação do pedido de vista → adiado (vista renovada)
+  - votos: Flávia: outro · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=2400s)
+- **RD 508 (2021-09-09)**, 16 · relator **Eduardo Nery** · Revisão do cronograma de investimentos do contrato de arrendamento 1/2017 (terminal marítimo de passageiros de Salvador) → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=5110s)
+- **RD 508 (2021-09-09)**, 17 · relator **Eduardo Nery** · Consulta sobre instrumento contratual para terminal flutuante de transbordo de petróleo no Porto de Itaguaí; uso de espelho d'água → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=5307s)
+- **RD 508 (2021-09-09)**, 27 · relator **Adalberto Tokarski** · Pedido de arbitragem sobre movimentação mínima contratual (MMC) do contrato de arrendamento 3/95 e medida cautelar contra paralisação por multas → aprovado por unanimidade, com ajuste de Flávia
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=8346s)
+- **RD 508 (2021-09-09)**, 28 · relator **Adalberto Tokarski** · Medida cautelar contra portaria de Suape que obriga todos os caminhões a passar por pátios de triagem, inclusive os destinados a terminais com pátio p → aprovado nos termos do voto divergente de Flávia Takafashi (cautelar deferida); relator ve
+  - votos: Adalberto: vencido; Flávia: outro; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=8831s)
+- **RD 508 (2021-09-09)**, 29 · relator **Adalberto Tokarski** · Reequilíbrio econômico-financeiro do contrato de arrendamento 26/96 (Porto de Santos) em razão do IGP-M → indeferido por unanimidade
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=10123s)
+- **RD 508 (2021-09-09)**, 30 · relator **Adalberto Tokarski** · Autorização para contrato de transição de área de 2.458 m2 no Porto do Recife → aprovado por unanimidade, com correção de Flávia
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=10543s)
+- **RD 508 (2021-09-09)**, 40 · relator **Flávia Takafashi** · Autorização para contrato de uso temporário de áreas no porto organizado de Santana (AP) para movimentação de contêineres → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=12320s)
+- **RD 510 (2021-10-11)**, 39 · relator **Flávia Takafashi** · Pedido de reconsideração contra a Resolução 7.608 e o acórdão 148/2020 que vedavam operação em área pública não arrendada e movimentação de carga gera → aprovado por unanimidade: provimento; reformada a Resolução 7.608 e revogado o acórdão 148
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=1569s)
+- **RD 510 (2021-10-11)**, 1 · relator **Flávia Takafashi** · Referendo da Deliberação-DG 237/2021: licitação do arrendamento MAC13 (granel vegetal, açúcar) no porto de Maceió, 25 anos, investimentos de ~R$ 57,8  → referendado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=5407s)
+- **RD 510 (2021-10-11)**, 2 · relator **Flávia Takafashi** · Referendo da Deliberação-DG 238/2021: licitação do arrendamento MUC59 (granéis líquidos/combustíveis) no porto de Fortaleza (Mucuripe), 14 anos → referendado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=5522s)
+- **RD 510 (2021-10-11)**, 3 · relator **Flávia Takafashi** · Referendo da Deliberação-DG 246/2021: licitação de área de carga geral (granito) no porto de Cabedelo (sigla da área ilegível), 10 anos, EVTEA simplif → referendado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=5609s)
+- **RD 510 (2021-10-11)**, 4 · relator **Flávia Takafashi** · Referendo da Deliberação-DG 247/2021: licitação do arrendamento IMB05 (granel líquido, soda cáustica) no porto de Imbituba, 10 anos; leilão em 19/11/2 → referendado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=5699s)
+- **RD 510 (2021-10-11)**, 5 · relator **Flávia Takafashi** · Referendo da Deliberação-DG 244/2021: prorrogação da audiência pública 19/2021 (contratos de uso temporário de áreas em porto organizado para cargas s → referendado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=5798s)
+- **RD 510 (2021-10-11)**, 6 · relator **Flávia Takafashi** · Referendo da Deliberação-DG 248/2021: medida cautelar para que a CDRJ emita certidão positiva com efeito de negativa à arrendatária (débito com SPU ju → referendado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=5928s)
+- **RD 510 (2021-10-11)**, 7 · relator **Eduardo Nery** · Referendo da aprovação da licitação do arrendamento de granéis líquidos (combustíveis) na Alemoa, porto de Santos (legenda: «FPS 08»; provavelmente ST → referendado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=6243s)
+- **RD 510 (2021-10-11)**, 8 · relator **Eduardo Nery** · Referendo da Deliberação-DG 239/2021: licitação do Terminal Salineiro de Areia Branca/RN (sal marinho), investimentos ~R$ 164 milhões; leilão em 5/11/ → referendado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=6485s)
+- **RD 510 (2021-10-11)**, 9 · relator **Adalberto Tokarski** · Referendo da Deliberação-DG 232/2021: licitação do arrendamento STS08A (granéis líquidos/combustíveis, Alemoa, porto de Santos) → referendado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=6623s)
+- **RD 510 (2021-10-11)**, 11 · relator **Eduardo Nery** · Pedido de reconsideração do acórdão 325/2021 que indeferiu reequilíbrio econômico-financeiro (investimentos de 2012, novos investimentos, incorporação → pedido de vista de Adalberto Tokarski; julgamento suspenso
+  - votos: Eduardo: relator; Flávia: revisor_acompanha; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=6963s)
+- **RD 510 (2021-10-11)**, 20 · relator **Eduardo Nery** · Laudo de avaliação patrimonial dos bens do arrendamento (contrato 01/2020, cláusula 7.1.1) → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=10154s)
+- **RD 510 (2021-10-11)**, 40 · relator **Flávia Takafashi** · Pedido de reconsideração do acórdão 315/2021 que autorizou contrato de transição para granel sólido no Saboó, porto de Santos → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=13434s)
+- **RD 510 (2021-10-11)**, 46 · relator **Flávia Takafashi** · Revisão tarifária com padronização da estrutura tarifária do porto de Vitória (reajuste de 10,35%) → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=14998s)
+- **RD 511 (2021-11-11)**, 25 · relator **Adalberto Tokarski** · Pedido de reconsideração contra o Acórdão 229/2021, que indeferiu registro de instalação flutuante para movimentação de sal (polo salineiro do Rio Gra → aprovado por unanimidade: pedido de reconsideração conhecido e não provido
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=330s)
+- **RD 511 (2021-11-11)**, 46 · relator **Flávia Takafashi** · Recurso contra multa de R$ 137.500 (art. 32, XXXIV, Res. 3.274/2014): abertura de vala com maquinário escoando água contaminada com carvão em direção  → aprovado por unanimidade: recurso conhecido e não provido
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=1940s)
+- **RD 511 (2021-11-11)**, 2 · relator **Eduardo Nery** · Referendo da Deliberação DG 253/2021 que prorrogou a Audiência Pública 18/2020 (STS53, granéis sólidos minerais/fertilizantes, Porto de Santos) até 16 → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=2939s)
+- **RD 511 (2021-11-11)**, 3 · relator **Adalberto Tokarski** · Referendo da Deliberação DG 250 (1º/10/2021) que autorizou a abertura do certame do arrendamento POA01 (granéis sólidos vegetais, porto organizado de  → aprovado por unanimidade (referendado)
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=3448s)
+- **RD 511 (2021-11-11)**, 4 · relator **Eduardo Nery** · Referendo de deliberação DG que aprovou o arrendamento simplificado ITG03 (granel sólido mineral, Itaguaí, ≈ 22.500 m², berço 201), leilão previsto pa → aprovado por unanimidade (referendado)
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=3540s)
+- **RD 511 (2021-11-11)**, 5 · relator **Adalberto Tokarski** · Referendo da Deliberação DG 262 (11/10/2021): revogação da interdição do terminal de granéis líquidos do porto de Maceió imposta pelo Acórdão 340/2021 → aprovado por unanimidade (referendado)
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=3827s)
+- **RD 511 (2021-11-11)**, 7 · relator **Gabriela Costa** · Autorização para construir e explorar TUP de granéis líquidos em Santarém (PA); parte do projeto dentro da poligonal do porto organizado; vista de Ada → aprovado por maioria nos termos do voto-vista de Adalberto Tokarski (deferimento condicion
+  - votos: Gabriela: relator; Adalberto: revisor_acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=5026s)
+- **RD 511 (2021-11-11)**, 8 · relator **Eduardo Nery** · Pedido de reconsideração do Acórdão 325/2021, que indeferiu reequilíbrio econômico-financeiro do contrato de arrendamento (PE045/2001, Suape); vistas  → aprovado por maioria nos termos do voto da revisora Flávia Takafashi (provimento parcial: 
+  - votos: Eduardo: vencido; Flávia: revisor_acompanha; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=5852s)
+- **RD 511 (2021-11-11)**, 28 · relator **Adalberto Tokarski** · Autorização para desincorporação de bens para leilão público (Res. 43, ex-29) → aprovado por unanimidade
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=8507s)
+- **RD 511 (2021-11-11)**, 44 · relator **Flávia Takafashi** · Processo sancionador: contrato de arrendamento sem licitação nem delegação do poder concedente (art. 33, XXXI, Res. 3.274) → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=11250s)
+- **RD 511 (2021-11-11)**, 45 · relator **Flávia Takafashi** · Impugnação da cobrança de multa e juros de mora pelo atraso na 1ª parcela da outorga do contrato de arrendamento 11/2019 → aprovado por unanimidade: impugnação conhecida e não provida
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=11621s)
+- **RD 513 (2021-11-26)**, 1 · relator **Eduardo Nery** · Referendo da Deliberação DG 291/2021: prorrogação até 16/12/2021 da audiência pública sobre o arrendamento STS53 (granéis sólidos minerais, fertilizan → aprovado (referendado) por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=2406s)
+- **RD 513 (2021-11-26)**, 2 · relator **Eduardo Nery** · Referendo da Deliberação DG 293/2021: suspensão do leilão 12/2021 (ITG03, granéis sólidos minerais, Porto de Itaguaí) a pedido do poder concedente (am → aprovado (referendado) por unanimidade, com apontamentos
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=2535s)
+- **RD 513 (2021-11-26)**, 3 · relator **Adalberto Tokarski** · Referendo da Deliberação DG 294/2021: suspensão do leilão 10/2021 (POA01, granéis sólidos vegetais, porto organizado de Porto Alegre) → aprovado (referendado) por unanimidade
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=2957s)
+- **RD 513 (2021-11-26)**, 5 · relator **Flávia Takafashi** · Referendo da Deliberação DG 295/2021: suspensão do leilão de arrendamento de área de carga geral (granito) no porto de Cabedelo (identificação da área → aprovado (referendado) por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=3280s)
+- **RD 513 (2021-11-26)**, 17 · relator **Eduardo Nery** · Apuração de ofício (acórdão 121/2020): auto de infração contra a autoridade portuária pela exploração de área no Porto de Maceió pela Ipiranga sem ins → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=4114s)
+- **RD 513 (2021-11-26)**, 19 · relator **Eduardo Nery** · Pedido de reconsideração contra acórdão que indeferiu cautelar para manter regras de atracação preferencial de navios compatíveis com aparelhamento es → aprovado por unanimidade (negado provimento)
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=4394s)
+- **RD 513 (2021-11-26)**, 28 · relator **Flávia Takafashi** · Autorização especial para movimentar cavaco de madeira no cais do Estaleiro ERG1 (Porto de Rio Grande) quando indisponíveis o cais público e terminais → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=5675s)
+- **RD 513 (2021-11-26)**, 35 · relator **Flávia Takafashi** · Extinção amigável do contrato de arrendamento CT 29/2012 em Suape: reequilíbrio, indenização de investimentos não amortizados e eventual caducidade → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=7170s)
+- **RD 514 (2021-12-10)**, 32 · relator **Adalberto Tokarski** · Auto de infração (lavrado pela UR Belém) por apresentar demonstrações contábeis de 2017 e 2018 sem segregação contábil dos investimentos do 8º termo a → aprovado por unanimidade (auto subsistente; multa de R$ 225 mil)
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=5289s)
+- **RD 514 (2021-12-10)**, 39 · relator **Flávia Takafashi** · Pleito de reequilíbrio econômico-financeiro: investimentos (≈ R$ 13,7 mi) exigidos pela Receita Federal (intimação 59/2014) e incidência de IPTU após  → aprovado por unanimidade (deferimento parcial)
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=6531s)
+- **RD 514 (2021-12-10)**, 40 · relator **Flávia Takafashi** · Pedido de reconsideração das operadoras dos pátios de triagem contra cautelar que permitiu às empresas do Grupo Asa receber seus caminhões em pátios p → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=8556s)
+- **RD 514 (2021-12-10)**, 3 · relator **Adalberto Tokarski** · Pedido de esclarecimento sobre o acórdão 6/2019 e os limites da Resolução 1.914-ANTAQ (granéis vegetais no Itaqui, Tegram); julgado em conjunto com o  → votação suspensa: pedido de vista de Eduardo Nery renovado após o voto do relator
+  - votos: Adalberto: relator; Eduardo: vista; Flávia: outro · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=12006s)
+- **RD 514 (2021-12-10)**, 4 · relator **Adalberto Tokarski** · Pedido de esclarecimento sobre o acórdão 6/2019 (Res. 1.914, Itaqui) – julgado em conjunto com o item 3 → votação suspensa: pedido de vista de Eduardo Nery renovado (mesmo tratamento do item 3)
+  - votos: Adalberto: relator; Eduardo: vista; Flávia: outro · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=12099s)
+- **RD 514 (2021-12-10)**, 9 · relator **Flávia Takafashi** · Norma de contratos de uso temporário de áreas e instalações na poligonal do porto organizado para cargas de mercado não consolidado (pós-audiência púb → aprovado nos termos do voto-vista/revisor de Eduardo Nery (2 x 1; relatora vencida quanto 
+  - votos: Flávia: relator; Eduardo: revisor_diverge; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=13389s)
+- **RD 514 (2021-12-10)**, 10 · relator **Eduardo Nery** · Acompanhamento de preços: rubrica 2.9 taxa de liberação DTA-pátio x conceito de SSE da RN 34 → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=14535s)
+- **RD 514 (2021-12-10)**, 19 · relator **Adalberto Tokarski** · Recurso administrativo contra o acórdão 214/2021 (EVTEA com VPL positivo, sem indenização à arrendatária) → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=17289s)
+- **RD 514 (2021-12-10)**, 30 · relator **Adalberto Tokarski** · Consulta sobre o objeto do contrato de arrendamento (produtos siderúrgicos, insumos como coque) → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=19312s)
+- **RD 514 (2021-12-10)**, 48 · relator **Adalberto Tokarski** · Extrapauta: ampliação de área (anexação de lote) do contrato de arrendamento 14/2003 e eventual desnecessidade de reequilíbrio → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=20003s)
+- **RD 514 (2021-12-10)**, 41 · relator **Flávia Takafashi** · Pedido de Suape e das operadoras de pátios contra cautelar (acórdão 502/2021) que permitia receber veículos em pátios particulares → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=21821s)
+- **RD 514 (2021-12-10)**, 42 · relator **Flávia Takafashi** · Pedido de Suape contra cautelar que permitia à distribuidora receber veículos em pátio particular → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=21868s)
+- **RD 514 (2021-12-10)**, 44 · relator **Flávia Takafashi** · Arbitragem/mediação de conflito sobre ocupação de faixa de dutos (GLP-duto de 6 pol., faixa OSSP) junto ao terminal da Alemoa, porto de Santos → aprovado (voto do DG não verbalizado na legenda)
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=22423s)
+- **RD 516 (2022-02-04)**, 1 · relator **Eduardo Nery** · Referendo da Deliberação DG 6/2022, que prorrogou o prazo de contribuições da audiência pública do arrendamento STS53 (granéis sólidos minerais, espec → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=5970s)
+- **RD 516 (2022-02-04)**, 4 · relator **Flávia Takafashi** · Referendo da Deliberação DG 10/2022: transferência de controle societário indireto do TESC (contrato de arrendamento 15/1996, Porto de São Francisco d → aprovado por unanimidade nos termos do voto da relatora
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=7320s)
+- **RD 516 (2022-02-04)**, 15 · relator **Adalberto Tokarski** · Consulta regulatória da CDRJ sobre instalação, pela Sepetiba Tecon, de balança ferroviária de fluxo dinâmico em linha férrea fora da área arrendada ma → votação suspensa: Eduardo Nery renovou o pedido de vista após o voto do relator
+  - votos: Adalberto: relator; Eduardo: vista; Flávia: outro · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=9811s)
+- **RD 516 (2022-02-04)**, 17 · relator **Adalberto Tokarski** · Atualização do cálculo da taxa de retorno (WACC) para fluxos de caixa de arrendamento portuário, com simulação de Monte Carlo por natureza de carga → votação suspensa: Eduardo Nery renovou o pedido de vista após o voto do relator
+  - votos: Adalberto: relator; Eduardo: vista; Flávia: outro · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=10561s)
+- **RD 516 (2022-02-04)**, 20 · relator **Adalberto Tokarski** · Item 3.6 da agenda regulatória: cobrança pela autoridade portuária pelo uso de espelho d'água nos portos organizados → aprovado por unanimidade nos termos do voto do relator (após vista de Flávia Takafashi; su
+  - votos: Adalberto: revisor_acompanha; Flávia: revisor_acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=11702s)
+- **RD 516 (2022-02-04)**, 25 · relator **Eduardo Nery** · Recurso contra decisão da SNPTA que indeferiu reequilíbrio do contrato de arrendamento 16/98, devolvido após manifestação da Conjur do Minfra → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=13710s)
+- **RD 516 (2022-02-04)**, 27 · relator **Eduardo Nery** · Reequilíbrio econômico-financeiro do contrato de arrendamento 02/2007 do Porto de Cabedelo (atraso na disponibilização da área, lucros cessantes, MMC  → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=14100s)
+- **RD 516 (2022-02-04)**, 30 · relator **Eduardo Nery** · Recursos contra o Acórdão 191/2021, que recomendou alterar normativos do Porto de Suape para permitir uso de pátios privativos em substituição aos cre → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=15212s)
+- **RD 516 (2022-02-04)**, 31 · relator **Eduardo Nery** · Pedido de reconsideração contra multa de R$ 140 mil por não realizar investimentos mínimos (pavimentação, drenagem, iluminação) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=15331s)
+- **RD 516 (2022-02-04)**, 32 · relator **Eduardo Nery** · Pedido de reconsideração contra a Res. 7974, multa de R$ 140 mil por não pavimentar o pátio de contêineres → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=15510s)
+- **RD 516 (2022-02-04)**, 38 · relator **Adalberto Tokarski** · Autorização para uso temporário de armazém 16 do Porto de Santos (objeto de contrato de arrendamento) para movimentação de celulose → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=18031s)
+- **RD 516 (2022-02-04)**, 40 · relator **Adalberto Tokarski** · Documentação e EVTEA da área PAR09 (provável; granéis sólidos vegetais) no Porto de Paranaguá para início da licitação conduzida pela APPA por convêni → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=18270s)
+- **RD 516 (2022-02-04)**, 45 · relator **Flávia Takafashi** · Expansão de área (adensamento) e inclusão do perfil carga geral no contrato de arrendamento 02/2009 (Porto de Santos) → aprovado por unanimidade nos termos do voto da relatora
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=19562s)
+- **RD 516 (2022-02-04)**, 48 · relator **Flávia Takafashi** · Reequilíbrio do contrato de arrendamento 1/2005 (Santos) para a primeira substituição de área (Decreto 9.048), recomposição de investimentos de 2014–2 → aprovado por unanimidade nos termos do voto da relatora
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=20581s)
+- **RD 516 (2022-02-04)**, 49 · relator **Flávia Takafashi** · Recurso contra o Acórdão 426/2021 (reequilíbrio do contrato de arrendamento 12/93 por cobrança de IPTU) → aprovado por unanimidade nos termos do voto da relatora
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=21302s)
+- **RD 516 (2022-02-04)**, 51 · relator **Flávia Takafashi** · Desincorporação física e contábil de duas balanças rodoviárias obsoletas (bens da União) → aprovado por unanimidade nos termos do voto da relatora (com ressalva de correção do nome 
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=21840s)
+- **RD 518 (2022-03-23)**, 3 · relator **Flávia Takafashi** · Pedido de reequilíbrio econômico-financeiro do contrato de arrendamento 26/96 (portaria RFB 3518/2011 escâneres, unificação de áreas, IPTU após decisã → votação suspensa: pedido de vista de Eduardo Nery após o voto da relatora
+  - votos: Flávia: relator; Eduardo: vista · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=853s)
+- **RD 518 (2022-03-23)**, 7 · relator **Eduardo Nery** · Licitação do arrendamento SUA-07 (granéis sólidos minerais e carga geral, coque e açúcar ensacado) — referendo da Deliberação DG 41/2022 que aprovou o → aprovado por unanimidade (referendo)
+  - votos: Eduardo: relator; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=4721s)
+- **RD 518 (2022-03-23)**, 8 · relator **Eduardo Nery** · Licitação do arrendamento STS11 (granéis sólidos vegetais) — referendo da deliberação DG que aprovou o certame (número ilegível, provável 42/2022) → aprovado por unanimidade (referendo)
+  - votos: Eduardo: relator; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=4956s)
+- **RD 518 (2022-03-23)**, 9 · relator **Eduardo Nery** · Prorrogação por 60 dias do prazo de contribuições da audiência pública sobre o arrendamento STS53 (fertilizantes) — referendo de ato DG 33/2022 → aprovado por unanimidade (referendo)
+  - votos: Eduardo: relator; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=5277s)
+- **RD 518 (2022-03-23)**, 12 · relator **Eduardo Nery** · Consulta e audiência pública do arrendamento STS10 (contêineres) — referendo da Deliberação DG 39/2022; análise concorrencial com vedação a consórcio  → aprovado por unanimidade (referendo)
+  - votos: Eduardo: relator; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=5558s)
+- **RD 518 (2022-03-23)**, 18 · relator **Adalberto Tokarski** · Processo de relatoria de Adalberto Tokarski (assunto não lido) com vista do DG formulada na reunião 517 → pedido de vista de Eduardo Nery renovado (art. 36 da Res. 66); volta na próxima reunião te
+  - votos: Eduardo: vista; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=7510s)
+- **RD 518 (2022-03-23)**, 28 · relator **Adalberto Tokarski** · Consulta regulatória da CDRJ sobre instalação de balança ferroviária de fluxo dinâmico pela Sepetiba Tecon em linha férrea fora da área arrendada (por → aprovado nos termos do voto revisor de Eduardo Nery (relator Tokarski vencido quanto à exc
+  - votos: Adalberto: relator; Eduardo: revisor_diverge; Flávia: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=9604s)
+- **RD 518 (2022-03-23)**, 29 · relator **Adalberto Tokarski** · Modelagem do custo médio ponderado de capital (WACC) para arrendamentos portuários, relatoria de Adalberto Tokarski → pedido de vista de Eduardo Nery renovado (art. 36 da Res. 66); volta na próxima reunião te
+  - votos: Eduardo: vista; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=9884s)
+- **RD 518 (2022-03-23)**, 35 · relator **Eduardo Nery** · Autorização para contrato de transição para exploração do terminal de granéis minerais (TGM, cerca de 55 mil m²) no Porto de Imbituba (SC) → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=11419s)
+- **RD 518 (2022-03-23)**, 37 · relator **Flávia Takafashi** · Reequilíbrio econômico-financeiro do contrato 13/99 por ampliação da capacidade de tancagem e supressão de investimentos (sexto aditivo) → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=11743s)
+- **RD 520 (2022-05-13)**, 29 · relator **Flávia Takafashi** · Pedido da ABTP de alteração da Res. ANTAQ 61/2021 (estrutura tarifária padronizada das administrações portuárias): dedução tarifária por deficiência d → aprovado por unanimidade (mantida inalterada a Res. 61/2021)
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=349s)
+- **RD 520 (2022-05-13)**, 2 · relator **Flávia Takafashi** · Pedidos de reconsideração do OGMO-RJ e da FENOP contra o Acórdão 190/2020 (terminais de passageiros pré-qualificados não são obrigados a se filiar/pag → aprovado por unanimidade: conhecido e negado provimento ao pedido do OGMO-RJ (mantido o Ac
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=1419s)
+- **RD 520 (2022-05-13)**, 4 · relator **Eduardo Nery** · Referendo da Deliberação DG 57/2022 que indeferiu pedido de prorrogação do edital do leilão 2/2022 (área SUA07, granéis sólidos minerais e carga geral → aprovado por unanimidade (referendada a deliberação)
+  - votos: Eduardo: relator; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=6952s)
+- **RD 520 (2022-05-13)**, 7 · relator **Eduardo Nery** · Referendo da Deliberação DG 66/2022: autoriza visitas técnicas no âmbito da audiência pública 6/2022 (terminal STS10, porto de Santos) → aprovado por unanimidade
+  - votos: Eduardo: relator; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=7555s)
+- **RD 520 (2022-05-13)**, 9 · relator **Flávia Takafashi** · Referendo da Deliberação DG 62/2022: interpretação do art. 46 da RN 7/2016 — contrato de transição vigora até a assinatura do termo de aceitação provi → aprovado por unanimidade, com correção de erro material ('de modo a fornecer solução de co
+  - votos: Flávia: relator; Eduardo: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=7780s)
+- **RD 520 (2022-05-13)**, 23 · relator **Adalberto Tokarski** · Renovação do pedido de vista do Diretor-Geral no processo de modelagem do custo médio ponderado de capital (WACC) do setor portuário (relatoria de Ada → renovação de vista aprovada
+  - votos: Eduardo: outro; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=12856s)
+- **RD 520 (2022-05-13)**, 28 · relator **Eduardo Nery** · Relatório de execução dos investimentos associados à prorrogação do contrato de arrendamento no porto do Itaqui (MA) → aprovado por unanimidade (declarada conformidade dos investimentos)
+  - votos: Eduardo: relator; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=13932s)
+- **RD 520 (2022-05-13)**, 40 · relator **Flávia Takafashi** · Auto de infração por descumprir cláusula 3.3 do Convênio de Delegação 1/2019 (constituir empresa pública/SPE em 180 dias para administrar o porto de M → aprovado por unanimidade: auto subsistente; multa (legenda: R$ 155 mil; área técnica suger
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=17490s)
+- **RD 520 (2022-05-13)**, 45 · relator **Flávia Takafashi** · Contrato de transição para área de ~20 mil m² (contêineres vazios) antes ocupada pelo contrato de arrendamento 48/2003 no porto de Suape → aprovado por unanimidade (autorizado o contrato de transição e renovações nos mesmos molde
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=19078s)
+- **RD 520 (2022-05-13)**, 47 · relator **José Renato Fialho** · Transferência de controle societário indireto de arrendatária no porto de Imbituba (Manuchar NV para LSF11) → aprovado por unanimidade (aprovada a transferência; processo com acesso restrito)
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=19810s)
+- **RD 520 (2022-05-13)**, 49 · relator **José Renato Fialho** · Apuração de responsabilidade pessoal de administradores (art. 49 da Res. 3.259/2014) pelo descumprimento do TAC 25/2017 (reforma do terminal de granéi → aprovado por unanimidade: sem indícios de dolo ou culpa de administradores; arquivamento
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=20831s)
+- **RD 520 (2022-05-13)**, 52 · relator **José Renato Fialho** · Extrapauta: autorização para aquisição imediata de equipamentos de filtragem/captação de pó no terminal da Hermasa (porto organizado de Porto Velho),  → aprovado por unanimidade (autorizado; excesso sobre o plano de investimentos não gera reeq
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=21920s)
+- **RD 522 (2022-05-26)**, 1 · relator **Eduardo Nery** · Requisitos para novo contrato de passagem (servidão para dutos nos berços 3 e 4 da Alamoa, Porto de Santos) e alegada abusividade da nova metodologia  → aprovado por unanimidade: metodologia não afronta a RN 7, vedada prática abusiva; SRG deve
+  - votos: Eduardo: relator; Flávia: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=425s)
+- **RD 522 (2022-05-26)**, 2 · relator **Eduardo Nery** · Referendo: prorrogação até 15/06/2022 do prazo de contribuições da audiência pública sobre a licitação da área STS53 no Porto de Santos → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=3414s)
+- **RD 522 (2022-05-26)**, 7 · relator **Adalberto Tokarski** · Esclarecimentos sobre o limite de movimentação de grãos no berço 105 do Porto do Itaqui (Resolução ANTAQ 1914/2010) e proposta de revogação da resoluç → aprovado: revogada a Resolução 1914/2010 (voto do relator Tokarski, proferido em reunião a
+  - votos: Eduardo: revisor_acompanha; Flávia: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=6991s)
+- **RD 522 (2022-05-26)**, 8 · relator **Adalberto Tokarski** · Pedidos sobre o Acórdão 6/2019 e os efeitos da Resolução 1914/2010 (Porto do Itaqui), julgados em bloco com o item 7 → aprovado: arquivamento por perda de objeto após a revogação da Resolução 1914/2010 (julgam
+  - votos: Eduardo: revisor_acompanha; Flávia: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=6991s)
+- **RD 522 (2022-05-26)**, 10 · relator **Flávia Takafashi** · Reclassificação da reversibilidade de bens (trilhos de ponte rolante, casa de bombas, tanque de combustível) na área AE-14 do Porto de Cabedelo, contr → aprovado por unanimidade: retorno à SRG para diligências e reanálise
+  - votos: Flávia: relator; Eduardo: revisor_acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=8757s)
+- **RD 522 (2022-05-26)**, 14 · relator **Adalberto Tokarski** · Metodologia e cálculo do WACC (custo médio ponderado de capital) do setor portuário: taxa única de 9,92% ao ano → aprovado com os ajustes do voto-vista de Eduardo Nery (José Renato Fialho não votou)
+  - votos: Eduardo: revisor_acompanha; Flávia: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=10202s)
+- **RD 522 (2022-05-26)**, 21 · relator **Flávia Takafashi** · Valor de indenização/reequilíbrio por investimentos não amortizados no contrato de arrendamento PRES 28/98 (Porto de Santos) após negativa de prorroga → aprovado por unanimidade nos termos do voto do relator
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=12318s)
+- **RD 522 (2022-05-26)**, 27 · relator **Flávia Takafashi** · Pedido de reconsideração do Acórdão 56/2022 sobre instalação de posto do Corpo de Bombeiros no Porto de Cabedelo → aprovado por unanimidade nos termos do voto do relator
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=14644s)
+- **RD 522 (2022-05-26)**, 29 · relator **Flávia Takafashi** · Cálculo de indenização por investimentos emergenciais não amortizados na área RIG71 do Porto do Rio Grande (contrato de transição) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=15445s)
+- **RD 522 (2022-05-26)**, 31 · relator **José Renato Fialho** · Transferência do controle societário indireto da arrendatária TVV (contrato 16/1998, Porto de Vitória) para o grupo MSC → aprovado por unanimidade, condicionado à aprovação do CADE
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=16939s)
+- **RD 522 (2022-05-26)**, 32 · relator **José Renato Fialho** · Contrato de transição de área de cerca de 13.570 m² em São Cristóvão (Porto do Rio de Janeiro) para granéis líquidos/lubrificantes → aprovado por unanimidade nos termos do voto do relator
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=17719s)
+- **RD 522 (2022-05-26)**, 37 · relator **José Renato Fialho** · Contrato de transição de área de cerca de 11.753 m² no Caju (Porto do Rio de Janeiro) para granéis líquidos → aprovado por unanimidade nos termos do voto do relator
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=19295s)
+- **RD 526 (2022-08-11)**, 1 · relator **José Renato Fialho** · Pleito da CDP de reposicionamento da manifestação da ANTAQ (amicus curiae) na ação judicial 1002807/2017 sobre cobrança da Tabela 1 (item 1 x item 4,  → vista renovada (Flávia Takafashi); volta na reunião 528; relator não proferiu voto
+  - votos: José: relator; Flávia: outro; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=2J5AWByVtpM&t=325s)
+- **RD 526 (2022-08-11)**, 2 · relator **José Renato Fialho** · Pedido de reconsideração contra o Acórdão 161/2020 (multas de ~R$ 198 mil por ampliar o terminal sem autorização e ~R$ 332 mil por ocupar área contígu → aprovado por unanimidade (conhecer e negar provimento)
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=2J5AWByVtpM&t=1715s)
+- **RD 526 (2022-08-11)**, 9 · relator **Eduardo Nery** · Arrendamento simplificado VDC04 (granéis sólidos minerais, ~32 mil m², greenfield/brownfield) em Vila do Conde: aprovação de minutas de edital e contr → aprovado por unanimidade
+  - votos: Eduardo: relator; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=2J5AWByVtpM&t=4027s)
+- **RD 526 (2022-08-11)**, 10 · relator **Eduardo Nery** · Arrendamento simplificado de terminal de granéis sólidos (armazéns ~3.500 m² e ~2.600 m²) no porto de Porto Alegre: aprovação de minutas e envio ao Mi → aprovado por unanimidade
+  - votos: Eduardo: relator; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=2J5AWByVtpM&t=4285s)
+- **RD 526 (2022-08-11)**, 12 · relator **Eduardo Nery** · Cumprimento da Resolução 34/2015 e do Acórdão 190/2021 (multa de R$ 1 milhão à SUPRG e recuperação de ~R$ 6,3 milhões pagos indevidamente à CESA): pro → aprovado por unanimidade
+  - votos: Eduardo: relator; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=2J5AWByVtpM&t=4474s)
+- **RD 526 (2022-08-11)**, 18 · relator **José Renato Fialho** · Arrendamento simplificado POA11 (granéis sólidos vegetais ou minerais, Porto Alegre): EVTEA simplificado, 10 anos, valor global ~R$ 39,9 milhões, crit → aprovado por unanimidade
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=2J5AWByVtpM&t=6574s)
+- **RD 528 (2022-09-01)**, 2 · relator **José Renato Fialho** · Pedido de nova licitação de área no Porto de Santos por suposto inadimplemento do contrato DP 24/2001 da BTP (granéis líquidos) e contra nova prorroga → aprovado por unanimidade nos termos do voto do relator
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=yBRIlI6RQug&t=1575s)
+- **RD 528 (2022-09-01)**, 3 · relator **Eduardo Nery** · Referendo da Deliberação DG 117/2022: baixa/desincorporação de castelo d'água e cisterna no Porto do Rio de Janeiro (risco de desabamento) → referendado por unanimidade
+  - votos: Eduardo: relator; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=yBRIlI6RQug&t=2809s)
+- **RD 528 (2022-09-01)**, 9 · relator **José Renato Fialho** · EVTEA de prorrogação do arrendamento 16/1999 e reequilíbrio por investimentos pretéritos (13 tanques na área 3, cerca de R$ 75 milhões) → convertido em diligência por unanimidade (relator acolheu a proposta do voto-vista de Edua
+  - votos: José: relator; Eduardo: revisor_acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=yBRIlI6RQug&t=3975s)
+- **RD 528 (2022-09-01)**, 10 · relator **José Renato Fialho** · Incorporação por reversão de duas moegas portuárias e indenização de R$ 579 mil paga à arrendatária transitória → aprovado nos termos do voto da revisora (diligência à SRG), por maioria; relator vencido
+  - votos: José: vencido; Flávia: revisor_diverge; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=yBRIlI6RQug&t=5329s)
+- **RD 528 (2022-09-01)**, 13 · relator **Eduardo Nery** · Processo sancionador (AI 4716-3): desempenho operacional de prancha e ocupação de berço abaixo do contratual → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=yBRIlI6RQug&t=8535s)
+- **RD 528 (2022-09-01)**, 15 · relator **Flávia Takafashi** · Conformidade do 4º contrato de transição e ajuste de área (Resolução 7743) → aprovado por unanimidade nos termos do voto da relatora
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=yBRIlI6RQug&t=9211s)
+- **RD 528 (2022-09-01)**, 21 · relator **José Renato Fialho** · Anuência prévia para transferência de titularidade do arrendamento DP-DC 01/2005 (Paquetá, Porto de Santos) → aprovado por unanimidade nos termos do voto do relator
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=yBRIlI6RQug&t=9566s)
+- **RD 528 (2022-09-01)**, 32 · relator **José Renato Fialho** · Novos contratos de transição no Porto de Vitória até aprovação do código de conduta da nova concessionária (desestatização) → aprovado por unanimidade nos termos do voto do relator
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=yBRIlI6RQug&t=10396s)
+- **RD 530 (2022-09-29)**, sustentação 1 (pauta) · relator **Flávia Takafashi** · Pedido da Codesa de dilação de 18 meses do prazo para cumprir o Acórdão 399/2022 (oferecer alternativa logística ao TPS para embarque de cargas pelo d → aprovado por unanimidade: provimento parcial, prazo adicional de 45 dias (e não 18 meses)
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=231s)
+- **RD 530 (2022-09-29)**, 30 (sustentação) · relator **Flávia Takafashi** · Impugnação ao processo seletivo simplificado (credenciamento 02/2022) para contrato de transição na área hoje arrendada à APM Terminals no Porto de It → aprovado por unanimidade: processo seletivo suspenso e prazo para a autoridade portuária j
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=1968s)
+- **RD 530 (2022-09-29)**, 32 · relator **Flávia Takafashi** · Pedido de medida cautelar para anular outro processo seletivo simplificado do Porto de Itajaí (área B, hoje de uso público) para contrato de transição → aprovado por unanimidade: suspensão cautelar do processo seletivo e 15 dias para manifesta
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=3699s)
+- **RD 530 (2022-09-29)**, 9 · relator **Alexandre Lopes** · Relatório de desempenho/monitoramento da administração do Porto de Imbituba → vista renovada; volta na próxima reunião
+  - votos: Flávia: outro; Eduardo: outro; Alexandre: relator · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=5640s)
+- **RD 530 (2022-09-29)**, 10 · relator **Alexandre Lopes** · Relatório de desempenho da administração portuária da Companhia Docas do Rio de Janeiro → vista renovada; volta na próxima reunião
+  - votos: Flávia: outro; Eduardo: outro; Alexandre: relator · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=5650s)
+- **RD 530 (2022-09-29)**, 12 · relator **Alexandre Lopes** · Relatório de monitoramento da administração portuária de São Francisco do Sul → vista renovada; volta na próxima reunião
+  - votos: Flávia: outro; Eduardo: outro; Alexandre: relator · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=5660s)
+- **RD 530 (2022-09-29)**, 15 · relator **Alexandre Lopes** · Relatório dos portos de Paranaguá e Antonina → vista renovada; volta na próxima reunião
+  - votos: Flávia: outro; Eduardo: outro; Alexandre: relator · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=5670s)
+- **RD 530 (2022-09-29)**, 20 · relator **Eduardo Nery** · Autorização para desincorporação e alienação de 10 boias náuticas irrecuperáveis → aprovado por unanimidade
+  - votos: Eduardo: relator; Alexandre: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=7079s)
+- **RD 530 (2022-09-29)**, 27 · relator **Flávia Takafashi** · Cumprimento do item 5.2 do Acórdão 270/2022: arbitragem dos parâmetros de contrato de passagem para esteiras e pórtico do moinho no Porto de Natal → aprovado por unanimidade
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=7524s)
+- **RD 530 (2022-09-29)**, 28 · relator **Flávia Takafashi** · Consulta sobre uso de área pública para armazenagem e movimentação de ferro-gusa em regime de uso público, havendo carga similar no Terminal de Granéi → aprovado por unanimidade
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=7780s)
+- **RD 530 (2022-09-29)**, 31 · relator **Flávia Takafashi** · Autorização de uso da área AE14 pela Prefeitura de Cabedelo para obras de pavimentação e drenagem; desistência da autoridade portuária → arquivado por perda de objeto (unânime)
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=8049s)
+- **RD 530 (2022-09-29)**, 34 · relator **Alexandre Lopes** · Alteração de controle societário da arrendatária EPSA (contrato 05/96, granéis vegetais, Santos): CLI Sul passa a 80% e a atual controladora fica com  → aprovado
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=8377s)
+- **RD 530 (2022-09-29)**, 35 · relator **Alexandre Lopes** · Alteração de controle societário da arrendatária CLI (contrato 10/2012, lote 3 do Tegram, Itaqui) com entrada de novo fundo de investimento → aprovado
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=8557s)
+- **RD 532 (2022-11-10)**, 5 · relator **Alexandre Lopes** · Relatório de monitoramento do desempenho da administração portuária – Porto de Cabedelo (projeto piloto da SFC; retorno de vista de Flávia Takafashi ( → aprovado por unanimidade nos termos do voto do relator
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=3755s)
+- **RD 532 (2022-11-10)**, 6 · relator **Alexandre Lopes** · Relatório de monitoramento do desempenho da administração portuária – Porto de Imbituba (projeto piloto da SFC; retorno de vista de Eduardo Nery (RD 5 → aprovado por unanimidade nos termos do voto do relator
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=4850s)
+- **RD 532 (2022-11-10)**, 7 · relator **Alexandre Lopes** · Relatório de monitoramento do desempenho da administração portuária – portos de Itaguaí, Rio de Janeiro, Niterói e Angra dos Reis (projeto piloto da S → aprovado por unanimidade nos termos do voto do relator
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=5385s)
+- **RD 532 (2022-11-10)**, 9 · relator **Alexandre Lopes** · Relatório de monitoramento do desempenho da administração portuária – Porto de São Francisco do Sul (projeto piloto da SFC; retorno de vista de Eduard → aprovado por unanimidade nos termos do voto do relator
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=5920s)
+- **RD 532 (2022-11-10)**, 11 · relator **Eduardo Nery** · Reequilíbrio econômico-financeiro do contrato de arrendamento PRES-041/97 (leitura incerta) no Porto de Santos → vista renovada (Flávia Takafashi)
+  - votos: Flávia: outro · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=6475s)
+- **RD 532 (2022-11-10)**, 12 · relator **Alexandre Lopes** · Relatório de monitoramento do desempenho da administração portuária – portos de Paranaguá e Antonina (projeto piloto da SFC; retorno de vista de Flávi → aprovado por unanimidade nos termos do voto do relator
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=6520s)
+- **RD 532 (2022-11-10)**, 32 · relator **Flávia Takafashi** · Contrato de transição da área A do Porto de Itajaí: resposta da SPI ao acórdão 527/2022 sobre o processo seletivo simplificado 10/2022 (julgado em con → aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=11808s)
+- **RD 532 (2022-11-10)**, 35 · relator **Flávia Takafashi** · Contrato de transição da área pública B do Porto de Itajaí: processo seletivo simplificado 12/2022 suspenso pelo acórdão 528/2022 (julgado em conjunto → aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=12688s)
+- **RD 532 (2022-11-10)**, 39 · relator **Flávia Takafashi** · Reequilíbrio econômico-financeiro: prorrogação por 20 anos do arrendamento da Vale no Itaqui e pleito de evento pretérito (armazéns não construídos) → aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=14020s)
+- **RD 532 (2022-11-10)**, 40 · relator **Alexandre Lopes** · Autorização de investimentos fora da poligonal: recuperação viária da Av. Conde Matarazzo e Rua Eng. Luiz Augusto de Leão Fonseca (~R$ 15,1 milhões) → aprovado nos termos do voto do relator
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=14296s)
+- **RD 532 (2022-11-10)**, 44 · relator **Alexandre Lopes** · Modelagem do processo seletivo simplificado para uso temporário de áreas molhadas (boias) para transbordo de cargas nos portos de Santarém e Vila do C → aprovado nos termos do voto do relator
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=14767s)
+- **RD 28 (extraordinária) (2022-12-06)**, 1 · relator **Flávia Takafashi** · Estudo «Impacto das mudanças climáticas nos portos marítimos brasileiros», eixo 2: estudos de caso de risco climático e medidas de adaptação para os p → aprovado por unanimidade
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=4i76UBzbHpo&t=35s)
+- **RD 534 (2022-12-07)**, 20 · relator **Eduardo Nery** · Nova autorização especial e emergencial para movimentação e armazenagem de fertilizantes (carga não prevista no contrato de arrendamento ATU 18), Port → pedido de vista de Flávia Takafashi; aprovada por unanimidade medida cautelar autorizando 
+  - votos: Eduardo: relator; Flávia: vista; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=802s)
+- **RD 534 (2022-12-07)**, 7 · relator **Alexandre Lopes** · Referendo da Deliberação DG 151/2022: atualização dos estudos técnicos e jurídicos da concessão do Porto de Itajaí (criação do índice de reajustamento → referendado por unanimidade
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=3840s)
+- **RD 534 (2022-12-07)**, 10 · relator **Eduardo Nery** · Cálculo do VPL para cenários de prorrogação de 10 anos e redução de 25%, 50% e 75% das obrigações de arrendamento, para compensar reequilíbrio pela mo → aprovado por maioria (2 x 1); Flávia Takafashi vencida
+  - votos: Eduardo: relator; Flávia: revisor_diverge; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=6036s)
+- **RD 534 (2022-12-07)**, 14 · relator **Alexandre Lopes** · Consulta sobre os bens do termo de cessão de uso do Porto de São Sebastião: período da cláusula de reversão, motivação da indenização de investimentos → aprovado por unanimidade (relator incorporou o voto-vista)
+  - votos: Alexandre: relator; Flávia: revisor_acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=7767s)
+- **RD 534 (2022-12-07)**, 15 · relator **Eduardo Nery** · Consulta sobre aplicabilidade do registro (RN 13/2016) a instalações flutuantes de regaseificação de GNL (FSRU), dentro e fora da poligonal do porto o → aprovado por unanimidade, com a complementação da resposta 1 proposta por Flávia Takafashi
+  - votos: Eduardo: relator; Alexandre: acompanha; Flávia: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=8681s)
+- **RD 534 (2022-12-07)**, 17 · relator **Eduardo Nery** · Aprovação das minutas de edital e contrato da licitação de arrendamento RDJ06 (granéis líquidos, óleos básicos; 13.560 m², 15 tanques, investimento es → aprovado por unanimidade
+  - votos: Eduardo: relator; Alexandre: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=10043s)
+- **RD 534 (2022-12-07)**, 23 · relator **Flávia Takafashi** · Diferimento da entrada em vigor da nova estrutura tarifária do Porto de Aratu (Deliberação 142/2022) até 02/01/2023 — votado em bloco com os itens 29  → aprovado por unanimidade (bloco 23, 29 e 30)
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=11446s)
+- **RD 534 (2022-12-07)**, 29 · relator **Alexandre Lopes** · Diferimento da entrada em vigor da nova estrutura tarifária (Porto de Salvador) até 02/01/2023 — votado em bloco com o item 23 → aprovado por unanimidade (bloco 23, 29 e 30)
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=11591s)
+- **RD 534 (2022-12-07)**, 30 · relator **Alexandre Lopes** · Diferimento da entrada em vigor da nova estrutura tarifária (outro porto da CODEBA (legenda: «Deus», provavelmente Ilhéus)) até 02/01/2023 — votado em → aprovado por unanimidade (bloco 23, 29 e 30)
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=11591s)
+- **RD 534 (2022-12-07)**, 24 · relator **Flávia Takafashi** · Reequilíbrio econômico-financeiro do contrato de arrendamento 01/97 (Porto de Santos): expansão de área (30.349 m²) com novo plano de investimentos (d → aprovado (votos dos demais não audíveis)
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=11699s)
+- **RD 537 (2023-02-09)**, 36 · relator **Lima Filho** · Referendo da Deliberação DG 10/2023 e exame da cautelar em denúncia da LCPT para manter-se em área do porto organizado de Vitória (malte de cevada) ap → aprovado por unanimidade nos termos do voto do relator
+  - votos: Lima: relator; Caio: acompanha; Alber: acompanha; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=3226s)
+- **RD 537 (2023-02-09)**, 3 · relator **Eduardo Nery** · Nova autorização especial (180 dias a partir de 5/12/2022) para movimentar fertilizantes no arrendamento ATU 18 do porto de Aratu (BA), carga não prev → aprovado por maioria o voto reformulado do relator (sobrestar, embargos ao TCU, suspender 
+  - votos: Eduardo: relator; Flávia: revisor_acompanha; Caio: acompanha; Alber: revisor_acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=4599s)
+- **RD 537 (2023-02-09)**, 12 · relator **Flávia Takafashi** · Correção parcial do Acórdão 174/2021 (reequilíbrio do contrato de arrendamento 25/99 em prorrogação): erro material no cálculo do VPL → aprovado nos termos do voto da relatora (votos colhidos de Alber, Lima Filho e Eduardo Ner
+  - votos: Flávia: relator; Caio: nao_captado; Alber: acompanha; Lima: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=8179s)
+- **RD 537 (2023-02-09)**, 13 · relator **Flávia Takafashi** · Autorização para construção e exploração de TUP greenfield na Ilha de Bagres (estuário de Santos, SP) para granel sólido, granel líquido e contêineres → aprovado nos termos do voto da relatora (votos colhidos de Alber, Lima Filho e Eduardo Ner
+  - votos: Flávia: relator; Caio: outro; Alber: outro; Lima: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=9260s)
+- **RD 537 (2023-02-09)**, 19 · relator **Flávia Takafashi** · Ajuste do Acórdão 511/2022 (reequilíbrio do arrendamento PR 24/2001 por prorrogação): valor dos novos investimentos → aprovado por unanimidade nos termos do voto da relatora
+  - votos: Flávia: relator; Caio: acompanha; Alber: acompanha; Lima: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=10520s)
+- **RD 537 (2023-02-09)**, 17 · relator **Flávia Takafashi** · Consulta regulatória sobre a classificação da área ANA 13 em Suape para terminal alfandegado de carga geral voltado ao polo farmacêutico (cargas multi → aprovado por unanimidade nos termos do voto da relatora
+  - votos: Flávia: relator; Caio: acompanha; Alber: acompanha; Lima: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=13220s)
+- **RD 537 (2023-02-09)**, 34 · relator **Alber Vasconcelos** · Autorização especial ad referendum para movimentar cargas por até 180 dias durante a desmobilização do terminal STS 11 em Santos → aprovado por unanimidade nos termos do voto do relator
+  - votos: Alber: relator; Caio: acompanha; Lima: acompanha; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=15564s)
+- **RD 539 (2023-04-04)**, 15 · relator **Flávia Takafashi** · Cumprimento do Acórdão 530/2022 (acesso das cargas do TPS ao Porto de Vitória via descarga direta navio-caminhão) e pedido cautelar do TPS para abertu → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=7164s)
+- **RD 539 (2023-04-04)**, 20 · relator **Lima Filho** · Medida cautelar antecedente contra a cláusula 14ª, §1º, do contrato de transição DIPRE 10/2020 do Porto de Santos (direito de preferência de atracação → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=9586s)
+- **RD 539 (2023-04-04)**, 23 · relator **Alber Vasconcelos** · Abertura de audiência e consulta pública para o arrendamento da área ITG02 no Porto de Itaguaí (granéis sólidos minerais) → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=9992s)
+- **RD 539 (2023-04-04)**, 24 · relator **Alber Vasconcelos** · Petição de suspensão do pagamento do arrendamento da SUA07 por o terminal não ter sido entregue livre e desimpedido; pedido de apuração das condições  → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=10263s)
+- **RD 539 (2023-04-04)**, 26 · relator **Alber Vasconcelos** · Pedido da SPA de harmonizar a interpretação de que toda a Estrada Particular da Codesp está dentro da poligonal do Porto de Santos (cobrança tarifária → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=10646s)
+- **RD 539 (2023-04-04)**, 27 · relator **Alber Vasconcelos** · Petição alegando ilegalidades no leilão 2/2022 da área SUA07 (Suape) e condutas da autoridade portuária; movimentação de coque de petróleo → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=11287s)
+- **RD 539 (2023-04-04)**, 28 · relator **Alber Vasconcelos** · Manifestação sobre as condições de recebimento da área SUA07 (má conservação, coque deixado pela antiga arrendatária) e prazo para licenças ambientais → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=11585s)
+- **RD 541 (2023-04-20)**, 1 · relator **Eduardo Nery** · Recurso de reconsideração da CDRJ contra o Acórdão 26/2020, que vedou a cobrança cumulativa de tarifa portuária (Tabela 3, item 2.9) e do adicional de → aprovado (provimento parcial ao recurso da CDRJ; revogado o item 2 do Acórdão 26/2020 – en
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=69s)
+- **RD 541 (2023-04-20)**, 9 · relator **Eduardo Nery** · Denúncia sobre exigências documentais e cobrança de «franquias» pela Ecovix para acesso ao cais do estaleiro ERG1 (área Rig 19/20) no Porto do Rio Gra → vista concedida a Lima Filho após relatório e sustentações; relator não proferiu voto
+  - votos: Eduardo: relator; Flávia: outro; Lima: vista; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=1111s)
+- **RD 541 (2023-04-20)**, 5 · relator **Flávia Takafashi** · Pedido de abertura de Avaliação de Resultado Regulatório (ARR) sobre itens da Resolução ANTAQ 61/2021 (estrutura tarifária padronizada das administraç → aprovado por consenso: indeferidos os pedidos da ABTP; SRG deve, em processo apartado, est
+  - votos: Eduardo: revisor_acompanha; Flávia: revisor_acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=2463s)
+- **RD 541 (2023-04-20)**, 28 · relator **Eduardo Nery** · Requerimento de medida cautelar da Intermarítima contra o Acórdão 166/2023 (sobrestou o mérito do pedido de autorização especial da ATU 18 para movime → aprovado: cautelar não conhecida (Intermarítima sem legitimidade de parte); indeferidos o 
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=6415s)
+- **RD 541 (2023-04-20)**, 14 · relator **Flávia Takafashi** · Pleito de reequilíbrio econômico-financeiro do contrato de arrendamento 31/2001 (Terminal Marítimo de Amônia e de Ureia, Porto de Aratu) por investime → aprovado: reequilíbrio indeferido; sigilo mantido; autos à SFC para apurar descumprimento 
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=8169s)
+- **RD 541 (2023-04-20)**, 15 · relator **Flávia Takafashi** · Consulta sobre armazenagem provisória, em regime de uso público, de granéis sólidos (coque de petróleo) nos pátios abertos 3, 5 e 8 (armazéns demolido → aprovado com ajuste de texto: pátios 3 e 5 utilizáveis em caráter excepcional, ressalvada 
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=8666s)
+- **RD 541 (2023-04-20)**, 20 · relator **Lima Filho** · Bens reversíveis nos contratos de operação de granéis líquidos no Porto do Itaqui → vista concedida a Flávia Takafashi antes do voto do relator
+  - votos: Eduardo: outro; Flávia: vista; Lima: relator; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=11214s)
+- **RD 541 (2023-04-20)**, 22 · relator **Lima Filho** · Inclusão de fertilizantes (granel sólido mineral) no objeto do contrato de arrendamento 03/2021 (ATU 18, granel vegetal) via Portaria 530/2019 → aprovado: autos arquivados (poder concedente revogou a aprovação preliminar)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=12436s)
+- **RD 543 (2023-05-24)**, 6 (sustentação oral) · relator **Eduardo Nery** · Denúncia do Sindop-RS contra exigências documentais e cobrança (pedágio de passagem) pelo Estaleiro Rio Grande para acesso ao cais multipropósito (áre → aprovado por unanimidade (voto do relator com complementos do revisor Lima Filho)
+  - votos: Eduardo: revisor_acompanha; Lima: revisor_acompanha; Caio: acompanha; Alber: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=120s)
+- **RD 543 (2023-05-24)**, 23 (sustentação oral) · relator **Alber Vasconcelos** · Autorização para celebração de contrato de transição da área FN-001 no porto do Forno com a vencedora do processo seletivo simplificado 1/2022; SOG op → aprovado por unanimidade (deferido por 180 dias)
+  - votos: Alber: relator; Flávia: acompanha; Lima: acompanha; Caio: acompanha; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=1652s)
+- **RD 543 (2023-05-24)**, 3 · relator **Flávia Takafashi** · Pedido de revisão contra multa de R$ 18.301,25 (art. 33, XIII, Res. 3.274/2014) por ausência de presença ostensiva da Guarda Portuária no porto de Nit → aprovado (voto da relatora com determinação proposta pelo revisor incorporada)
+  - votos: Flávia: revisor_acompanha; Eduardo: revisor_acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=4278s)
+- **RD 543 (2023-05-24)**, 7 · relator **Flávia Takafashi** · Consulta de Suape sobre o instrumento para ocupar áreas não afetas às operações portuárias (convênio com o SENAI para projeto piloto de hidrogênio ver → aprovado (voto da relatora)
+  - votos: Flávia: relator; Eduardo: revisor_acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=6480s)
+- **RD 543 (2023-05-24)**, 10 · relator **Eduardo Nery** · Embargos de declaração contra o Acórdão 553/2022 (análise de contribuições da Audiência Pública 6/2022 do arrendamento STS10), sobre cláusula de limit → aprovado por unanimidade (embargos conhecidos e análise sobrestada)
+  - votos: Eduardo: revisor_acompanha; Flávia: revisor_acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=7171s)
+- **RD 543 (2023-05-24)**, 11 · relator **Eduardo Nery** · Acompanhamento do cumprimento da revisão tarifária das autoridades portuárias (Acórdão 314/2022); todas aprovadas exceto Manaus (revisão de ofício em  → aprovado (diligências declaradas cumpridas; arquivamento)
+  - votos: Eduardo: relator; Flávia: outro; Lima: outro; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=8250s)
+- **RD 543 (2023-05-24)**, 12 · relator **Eduardo Nery** · Consulta sobre classificar centro de distribuição de GNL por modal rodoviário como atividade não operacional em área não afeta às operações portuárias → pedido de vista (Alber Vasconcelos)
+  - votos: Alber: vista · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=8520s)
+- **RD 543 (2023-05-24)**, 18 (bloco 18, 20, 21) · relator **Lima Filho** · Abertura do certame licitatório de arrendamento das áreas POA01 (Porto Alegre), MAC11 e MAC12 (Maceió), julgadas em bloco (art. 29 da Res. 66); corres → aprovado por unanimidade (em bloco)
+  - votos: Lima: relator; Eduardo: outro; Flávia: outro; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=10081s)
+- **RD 543 (2023-05-24)**, 20 (bloco 18, 20, 21) · relator **Lima Filho** · Abertura do certame licitatório de arrendamento das áreas POA01 (Porto Alegre), MAC11 e MAC12 (Maceió), julgadas em bloco (art. 29 da Res. 66); corres → aprovado por unanimidade (em bloco)
+  - votos: Lima: relator; Eduardo: outro; Flávia: outro; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=10081s)
+- **RD 543 (2023-05-24)**, 21 (bloco 18, 20, 21) · relator **Lima Filho** · Abertura do certame licitatório de arrendamento das áreas POA01 (Porto Alegre), MAC11 e MAC12 (Maceió), julgadas em bloco (art. 29 da Res. 66); corres → aprovado por unanimidade (em bloco)
+  - votos: Lima: relator; Eduardo: outro; Flávia: outro; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=10081s)
+- **RD 543 (2023-05-24)**, 22 · relator **Lima Filho** · Pedido da APPA de solução consensual da lide judicial movida pela Interalli → pedido de vista (Eduardo Nery)
+  - votos: Eduardo: vista · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=10711s)
+- **RD 545 (2023-06-23)**, 1 · relator **Lima Filho** · Denúncia de aumento não justificado de tarifa (cobrança de SSE - serviço de segregação e entrega) pela arrendatária APM Terminals em Itajaí; possível  → aprovado (arquivamento por perda de objeto)
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=1119s)
+- **RD 545 (2023-06-23)**, 27 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 407/2022, que indeferiu reequilíbrio econômico-financeiro do contrato de arrendamento 26/96 (investimentos  → pedido de vista (Caio Farias); julgamento suspenso
+  - votos: Caio: vista; Lima: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=1385s)
+- **RD 545 (2023-06-23)**, 3 · relator **Alber Vasconcelos** · Referendo da Deliberação DG 36/2023: contrato de transição com a BDX Logística para área de 13.508 m² (área 3 + recinto alfandegado) no porto organiza → aprovado (referendado) por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=3090s)
+- **RD 545 (2023-06-23)**, 4 · relator **Alber Vasconcelos** · Referendo da Deliberação DG 38/2023: contrato de transição com a Ecoporto (área de cerca de 136 mil m², carga geral conteinerizada) após o fim do cont → aprovado (referendado) por unanimidade
+  - votos: Alber: relator; Flávia: acompanha; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=3387s)
+- **RD 545 (2023-06-23)**, 6 · relator **Caio Farias** · Consulta (voto-vista): possibilidade de a SPI repassar R$ 500 mil ao OGMO de Itajaí como abono indenizatório emergencial aos trabalhadores avulsos, di → aprovado o voto do relator por maioria (3 x 2); vencidos Flávia Takafashi e Lima Filho
+  - votos: Caio: relator; Flávia: revisor_diverge; Lima: vencido; Alber: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=4820s)
+- **RD 545 (2023-06-23)**, 7 · relator **Eduardo Nery** · Consulta sobre cessão de uso onerosa (pedido de vista anterior de Alber Vasconcelos) → pedido de vista renovado (Alber Vasconcelos)
+  - votos: Alber: outro · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=6958s)
+- **RD 545 (2023-06-23)**, 8 · relator **Lima Filho** · Consulta técnica (voto-vista): reversibilidade de equipamentos de combate a incêndio (extintores, empilhadeira, abrigo, condutivímetro etc.) nos contr → aprovado o voto-vista da revisora Flávia Takafashi por maioria (3 x 2); vencidos Lima Filh
+  - votos: Lima: vencido; Flávia: revisor_diverge; Caio: revisor_diverge; Alber: revisor_acompanha; Eduardo: vencido · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=8689s)
+- **RD 545 (2023-06-23)**, 11 · relator **Lima Filho** · Solução consensual de litígio judicial (2ª Vara Federal de Curitiba): revisão do art. 2º da Resolução 2.810/2013 da ANTAQ, que declarou nulo o 11º ter → aprovado por unanimidade, com prazo de 90 dias sugerido por Alber Vasconcelos
+  - votos: Lima: relator; Eduardo: revisor_acompanha; Alber: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=11304s)
+- **RD 545 (2023-06-23)**, 31 · relator **Alber Vasconcelos** · Abertura de audiência e consulta pública da licitação do arrendamento MCP03 (granéis sólidos vegetais, soja e milho) no porto de Santana → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=17430s)
+- **RD 545 (2023-06-23)**, 32 · relator **Alber Vasconcelos** · Denúncia com pedido cautelar contra o processo seletivo simplificado 1/2022 e o contrato de transição 1/2022 das áreas FOR 35, 36, 37 e 39 (cerca de 8 → aprovado por unanimidade (cautelar indeferida)
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=17757s)
+- **RD 545 (2023-06-23)**, 34 · relator **Alber Vasconcelos** · Resposta ao Ofício 32/2023 da SNPTA sobre regulamentação de parâmetros de desempenho em aditivos de prorrogação antecipada de arrendamentos → pedido de vista (Flávia Takafashi)
+  - votos: Alber: relator; Flávia: vista · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=18292s)
+- **RD 545 (2023-06-23)**, 36 · relator **Caio Farias** · Consulta sobre exigibilidade e atualização da antecipação de receitas de arrendamento (subcláusula 7.1.2.3 do contrato 5/2019) → aprovado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=18803s)
+- **RD 545 (2023-06-23)**, 38 · relator **Caio Farias** · Recurso de reconsideração contra o Acórdão 553/2022 (análise das contribuições da audiência pública 6/2022 da licitação do STS10 - contêineres), pedin → aprovado por unanimidade (recurso não conhecido)
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=19537s)
+- **RD 547 (2023-08-07)**, 3 · relator **Alber Vasconcelos** · Referendo da Deliberação DG 48/2023 (cautelar: retirada integral de nitrato de amônio e outras cargas perigosas vedadas pelo contrato de arrendamento  → referendado com alteração, por consenso: prazo de 15 para 30 dias; SFC deve, em 10 dias, f
+  - votos: Alber: relator; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=607s)
+- **RD 547 (2023-08-07)**, 4 · relator **Caio Farias** · Referendo da Deliberação DG 46/2023: alteração das normas de aplicação tarifárias (isenção a embarcações da navegação interior; cabotagem equiparada a → referendado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=1896s)
+- **RD 547 (2023-08-07)**, 10 · relator **Eduardo Nery** · Consulta da APS: centro de distribuição de GNL por modal rodoviário (vindo do FSRU do terminal de regaseificação de São Paulo) na área do Saboó pode s → aprovado por unanimidade (voto do relator com o voto-vista concordante do revisor)
+  - votos: Eduardo: relator; Lima: acompanha; Alber: revisor_acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=2934s)
+- **RD 547 (2023-08-07)**, 39 · relator **Eduardo Nery** · Embargos de declaração contra o Acórdão 183/2023 (cobranças da tabela 3 sobre passageiros de cruzeiro atracados em cais público do porto do Rio de Jan → embargos conhecidos e rejeitados por unanimidade, com esclarecimentos
+  - votos: Eduardo: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=5654s)
+- **RD 547 (2023-08-07)**, 28 · relator **Lima Filho** · Recurso contra o Acórdão 535/2022 (contrato de passagem para regularizar área de cerca de 896 m²) → recurso não provido, por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=7168s)
+- **RD 547 (2023-08-07)**, 32 · relator **Alber Vasconcelos** · Plano de Aplicação de Recursos (PAR) 1/2023: uso de cerca de R$ 5,5 milhões de leilões de bens inservíveis para construir novo almoxarifado da APPA → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=8094s)
+- **RD 547 (2023-08-07)**, 33 · relator **Alber Vasconcelos** · Auto de infração por não entregar à autoridade portuária o projeto as built de drenagem e efluentes: reenquadramento do art. 32, XIX, para o art. 32,  → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=8345s)
+- **RD 547 (2023-08-07)**, 37 · relator **Caio Farias** · Auto de infração por apresentar fora do prazo o projeto de padronização da estrutura tarifária (RN 32/2019, art. 33) → auto declarado insubsistente, por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=10489s)
+- **RD 547 (2023-08-07)**, 38 · relator **Caio Farias** · Auto de infração por não comprovar a cobrança de valores pelo uso do Centro Comercial Portuário (estacionamento da Marejada 2014; festa do servidor) → auto declarado insubsistente, por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=10862s)
+- **RD 549 (2023-08-31)**, 16 · relator **Eduardo Nery** · Novo pedido de autorização especial (art. 49 da Lei 10.233) para a ATU 18 movimentar e armazenar fertilizantes (granel sólido mineral) na área do arre → aprovado por maioria (4 x 1), vencida Flávia Takafashi; autorização especial por 60 dias a
+  - votos: Eduardo: relator; Flávia: outro; Caio: acompanha; Alber: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=68s)
+- **RD 549 (2023-08-31)**, 5 · relator **Lima Filho** · Referendo da Deliberação DG 6x/2023 (número incerto): suspensão da sessão do leilão do terminal POA01 (Porto Alegre) marcada para 11/08/2023, a pedido → aprovado por unanimidade (referendado)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=5947s)
+- **RD 549 (2023-08-31)**, 7 · relator **Alber Vasconcelos** · Referendo da Deliberação DG 65/2023: indeferimento de cautelar para suspender o leilão da área PAR09 (Paranaguá), pois o leilão foi remarcado de 11/08 → aprovado por unanimidade (referendado)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=6194s)
+- **RD 549 (2023-08-31)**, 9 · relator **Caio Farias** · Referendo das Deliberações DG 62 e 67/2023: ANTAQ conduz, a pedido do MPor, processo seletivo simplificado para contrato de arrendamento transitório d → aprovado por unanimidade (referendado)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=6737s)
+- **RD 549 (2023-08-31)**, 13 · relator **Lima Filho** · Retomada após vista de Caio Farias: recurso de reconsideração contra o Acórdão 407/2022 (reequilíbrio econômico-financeiro do contrato de arrendamento → aprovado por unanimidade (provimento parcial)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=8227s)
+- **RD 549 (2023-08-31)**, 14 · relator **Alber Vasconcelos** · Retomada após vista de Flávia Takafashi: resposta a ofício sobre parâmetros de desempenho em aditivos de prorrogação antecipada de arrendamentos após  → aprovado por unanimidade, com ajuste do voto-vista incorporado pelo relator
+  - votos: Alber: revisor_acompanha; Flávia: revisor_diverge; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=8689s)
+- **RD 549 (2023-08-31)**, 29 · relator **Lima Filho** · Processo sancionador: início de obras das plataformas dos silos estacionários sem comunicação prévia à CDRJ (terceiro aditivo ao contrato de arrendame → aprovado por unanimidade (auto subsistente; multa reduzida de R$ 140 mil para R$ 80 mil)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=13302s)
+- **RD 549 (2023-08-31)**, 30 · relator **Alber Vasconcelos** · Análise das contribuições da Audiência Pública 1/2023 sobre o arrendamento ITG02 (granéis sólidos minerais, Itaguaí-RJ) → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=13725s)
+- **RD 549 (2023-08-31)**, 36 · relator **Caio Farias** · Autorização para desincorporação, baixa e inutilização (demolição) de edificações da União no Porto de Belém, para construir dois tanques de granéis l → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=15085s)
+- **RD 551 (2023-10-04)**, 15 · relator **Lima Filho** · Pleito da Concais para participar, como parte interessada, da análise do projeto executivo de instalação do contrato de passagem (duto/equipamentos) d → aprovado por unanimidade (indeferido o pedido)
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=55s)
+- **RD 551 (2023-10-04)**, 19 · relator **Alber Vasconcelos** · Denúncia contra o edital do Leilão 2/2022 da área PAR09 (Porto de Paranaguá): exclusividade do berço externo do píer F, aumento do capex e VPL negativ → aprovado por unanimidade (denúncia conhecida e indeferida, com determinação sobre contrato
+  - votos: Alber: relator; Flávia: acompanha; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=3855s)
+- **RD 551 (2023-10-04)**, 3 · relator **Alber Vasconcelos** · Estudo «Análise concorrencial: terminais de uso privado vis-à-vis terminais arrendados» (P17) – retorno de vista de Flávia Takafashi (RD 549) → aprovado por unanimidade
+  - votos: Alber: relator; Flávia: revisor_acompanha; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=5740s)
+- **RD 551 (2023-10-04)**, 10 · relator **Lima Filho** · Ação fiscalizadora extraordinária: uso de receitas portuárias para pagar aluguéis de realocação de moradores (Via Expressa Portuária), compensado por  → relator vencido (3 x 2): prevaleceu a divergência de Alber Vasconcelos
+  - votos: Lima: vencido; Eduardo: vencido; Alber: outro; Caio: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=9088s)
+- **RD 551 (2023-10-04)**, 11 · relator **Lima Filho** · Pedido de reconsideração contra multa total de R$ 220.000 (Acórdão 134/2022): não envio de documentos à ANTAQ e transferência de recursos ao Estado do → aprovado por unanimidade (reconsideração negada)
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=9843s)
+- **RD 551 (2023-10-04)**, 13 · relator **Lima Filho** · Cumprimento do Acórdão 53/2020: apuração do montante de receita portuária repassado ao Estado de SC (fiscalização sanitária via Cidasc) e recomposição → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=10825s)
+- **RD 554 (2023-10-26)**, 1 · relator **Flávia Takafashi** · Consulta sobre a possibilidade de movimentar granéis sólidos minerais (fertilizantes) ensacados em big bags no terminal arrendado ATU 12 (contrato 02/ → aprovado — consulta respondida negativamente (big bag é perfil carga geral; exige alteraçã
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=3977s)
+- **RD 554 (2023-10-26)**, 6 · relator **Lima Filho** · Medida cautelar: recomendação ao poder concedente de suspensão do cronograma físico-financeiro e de obrigações do contrato de arrendamento 03/2020 (ST → aprovado nos termos do voto do relator, com acréscimos do revisor Alber Vasconcelos
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: revisor_acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=6795s)
+- **RD 554 (2023-10-26)**, 3 · relator **Alber Vasconcelos** · Autorização para celebração de contrato de uso temporário (processo seletivo simplificado CDP 2/2023) de área em espelho d'água APT3-STM no porto orga → aprovado nos termos do voto do relator, ajustado com prazo de até 90 dias para o poder con
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: revisor_acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=8520s)
+- **RD 554 (2023-10-26)**, 12 · relator **Eduardo Nery** · Aprovação do edital e minuta de contrato de arrendamento do terminal VDC04 (granéis sólidos minerais, manganês e fertilizantes, ~32 mil m², brownfield → aprovado
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=10444s)
+- **RD 554 (2023-10-26)**, 14 · relator **Eduardo Nery** · Aprovação do edital de arrendamento do terminal POA02 (granéis sólidos, ~21 mil m², brownfield, armazéns D7 e D8) no porto de Porto Alegre (RS), naveg → aprovado
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=11035s)
+- **RD 554 (2023-10-26)**, 25 · relator **Flávia Takafashi** · Aprovação do edital simplificado de arrendamento do terminal RIG71 (granéis sólidos vegetais exceto soja, ~11 mil m², 10 anos sem prorrogação) no port → aprovado
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=12918s)
+- **RD 554 (2023-10-26)**, 36 · relator **Flávia Takafashi** · Fiscalização padrão (PAF 2022): auto de infração por descumprimento da movimentação mínima e da prancha mínima contratuais → aprovado — auto de infração insubsistente e arquivamento
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=13201s)
+- **RD 554 (2023-10-26)**, 26 · relator **Lima Filho** · Aprovação do edital de arrendamento simplificado do terminal POA11 (granéis sólidos vegetais ou minerais) no porto organizado de Porto Alegre (RS), 10 → aprovado
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=13546s)
+- **RD 554 (2023-10-26)**, 33 · relator **Alber Vasconcelos** · Análise das contribuições da Audiência Pública 3/2023 sobre o arrendamento MCP03 (granéis sólidos vegetais, soja e milho) no porto organizado de Santa → aprovado
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=14793s)
+- **RD 555 (2023-11-16)**, 1 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o Acórdão 205/2023, que indeferiu cautelar para suspender/anular a licitação do arrendamento PAR 50 (granéis líquidos → recurso conhecido e não provido, por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=198s)
+- **RD 555 (2023-11-16)**, 2 · relator **Flávia Takafashi** · Referendo da Deliberação DG 86/2023: publicação do edital e documentos do leilão do arrendamento MAC15 (granéis sólidos minerais, especialmente sal) n → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=1600s)
+- **RD 555 (2023-11-16)**, 3 · relator **Flávia Takafashi** · Referendo da Deliberação DG 88/2023: medida cautelar garantindo prioridade de atracação do navio Sebastião Caboto no berço 2 do arrendamento da Santos → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=1883s)
+- **RD 555 (2023-11-16)**, 5 · relator **Caio Farias** · Referendo da Deliberação DG 92/2023: efeito suspensivo ao recurso de reconsideração contra o Acórdão 466/2023 (metodologia de reajuste contratual e co → aprovado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=2877s)
+- **RD 555 (2023-11-16)**, 10 · relator **Eduardo Nery** · Recurso de reconsideração da CDRJ contra o Acórdão 27/2022 (auto de infração 4423, multa de R$ 175 mil) por permitir exploração de área pela Angra Die → recurso conhecido e não provido, por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=3965s)
+- **RD 555 (2023-11-16)**, 22 · relator **Eduardo Nery** · Manifestação de interesse da APS em aderir ao manual de fiscalização conjunta da ANTAQ (art. 8º, III, da Portaria 574/2018) para receber delegação de  → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=6667s)
+- **RD 555 (2023-11-16)**, 30 · relator **Lima Filho** · Abertura de consulta e audiência pública dos documentos do leilão do arrendamento VDC29 (granéis sólidos vegetais, soja e milho) no Porto de Vila do C → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=6991s)
+- **RD 555 (2023-11-16)**, 36 · relator **Lima Filho** · Alteração do cronograma de investimentos do contrato de arrendamento 01/2018 com perda de 14,41% para a União e opções de reequilíbrio (remuneração va → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=8699s)
+- **RD 555 (2023-11-16)**, 37 · relator **Lima Filho** · Verificação do cumprimento do Acórdão 272/2023 (envio, em 90 dias, dos estudos de licitação das áreas PAR16 e PAR17, agora PAR25) no contexto de soluç → aprovado por unanimidade, com prazo improrrogável sugerido por Alber Vasconcelos
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=8950s)
+- **RD 555 (2023-11-16)**, 38 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o Acórdão 81/2023, que considerou intempestivo (3 dias de atraso sobre 360) o laudo de passivos ambientais não conhec → recurso conhecido e não provido, por unanimidade (relator diverge da SDS e acompanha a PF)
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=9339s)
+- **RD 555 (2023-11-16)**, 39 · relator **Alber Vasconcelos** · Reajuste tarifário do Porto Organizado de Fortaleza (reposição do IPCA de abr/2021 a abr/2023) → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=10052s)
+- **RD 555 (2023-11-16)**, 27 · relator **Flávia Takafashi** · Consulta do poder concedente sobre retirada do art. 42 do estatuto da Santos Brasil (veda participação simultânea no capital votante de outro terminal → aprovado por unanimidade (relatora diverge da preocupação da SRG)
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=11983s)
+- **RD 555 (2023-11-16)**, 45 · relator **Caio Farias** · Expansão de 370 m² e investimentos de cerca de R$ 6,7 milhões em geração complementar de energia a gás natural, com dispensa de EVTEA e de reequilíbri → aprovado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=14194s)
+- **RD 555 (2023-11-16)**, 46 · relator **Caio Farias** · Nova autorização especial por 180 dias (a partir de 07/12/2023) para armazenar cargas de projeto da primeira planta de hidrogênio e amônia verdes do p → aprovado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=14601s)
+- **RD 557 (2023-12-14)**, 30 · relator **Lima Filho** · Pedido de autorização especial por 180 dias para movimentar passageiros de cruzeiros no TUP Superterminais (Manaus/AM); sustentação oral da ERPM (advo → retirado de pauta pelo relator após a sustentação oral
+  - votos: Lima: outro; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=5607s)
+- **RD 557 (2023-12-14)**, 46 · relator **Eduardo Nery** · Referendo da deliberação DG 100/2023, que suspendeu o leilão do arrendamento VDC04 (previsto para 13/12/2023): valor do contrato atualizado pelo IPCA  → aprovado por unanimidade, com alteração: leilão revogado (e não apenas suspenso)
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=7453s)
+- **RD 557 (2023-12-14)**, 7 · relator **Lima Filho** · Processo de relatoria de Lima Filho com pedido de vista de Alber Vasconcelos (RD 555); segundo o DG, endereça o ponto que levou à revogação do leilão  → adiada a votação; vista renovada por Alber Vasconcelos (retorno na reunião de 01/02/2024)
+  - votos: Alber: outro · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=8897s)
+- **RD 557 (2023-12-14)**, 9 · relator **Eduardo Nery** · Pedido de suspensão da exigibilidade de multa e juros moratórios sobre a 1ª e 2ª parcelas da outorga do arrendamento STM04, alegando impactos da pande → aprovado por unanimidade - pedido indeferido
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=10285s)
+- **RD 557 (2023-12-14)**, 17 · relator **Flávia Takafashi** · Licitação do arrendamento do terminal graneleiro de São Francisco do Sul (SC), cerca de 41 mil m², granéis sólidos vegetais (soja e milho), 25 anos, i → aprovado por unanimidade, com determinação acrescida por sugestão do Diretor-Geral
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=12559s)
+- **RD 557 (2023-12-14)**, 27 · relator **Lima Filho** · Autorização para contrato de uso temporário das áreas 2, 4 e 6 do terminal de Outeiro (porto de Belém); a CDP pediu restituição dos autos para reavali → aprovado por unanimidade - autos restituídos à CDP e processo arquivado sem julgamento de 
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=13981s)
+- **RD 557 (2023-12-14)**, 28 · relator **Lima Filho** · Consulta: arrendamento variável deve incidir apenas uma vez (descarga) ou também no carregamento de balsas e navios do mesmo produto? → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=14147s)
+- **RD 557 (2023-12-14)**, 34 · relator **Lima Filho** · Recurso de reconsideração da APS contra o acórdão 778/2021, que reconheceu o direito da Petrobras ao uso de duto de GLP (6 polegadas) no porto de Sant → pedido de vista de Flávia Takafashi após o voto do relator
+  - votos: Lima: relator; Flávia: vista · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=14782s)
+- **RD 557 (2023-12-14)**, 39 · relator **Caio Farias** · Contrato de uso temporário da área 1A2 do porto de Belém (11.617 m²) para carga de apoio offshore → aprovado por unanimidade após ajuste do relator (prazo de até 48 meses e retirada da exigê
+  - votos: Caio: relator; Alber: outro; Flávia: acompanha; Lima: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=18524s)
+- **RD 557 (2023-12-14)**, 42 · relator **Caio Farias** · Expansão de área (59,99 m², menos de 1%) em arrendamento simplificado: dispensa de recomposição do equilíbrio econômico-financeiro (Portaria 530/2019) → aprovado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=20150s)
+- **RD 557 (2023-12-14)**, 44 · relator **Caio Farias** · Contrato de transição por 180 dias da área PAR16 (18.888 m², granéis sólidos vegetais) no porto de Paranaguá, cujo arrendamento 001/1994 vence em 05/0 → aprovado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=20969s)
+- **RD 558 (2024-02-26)**, 45 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 524/2022, que declarou obrigação da arrendatária de indenizar a União pela desincorporação dos tanques 103  → aprovado por unanimidade (provimento ao recurso)
+  - votos: Lima: relator; Alber: acompanha; Eduardo: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=572s)
+- **RD 558 (2024-02-26)**, 3 · relator **Flávia Takafashi** · Referendo da Deliberação DG 116/2023: não conhecimento de novo pedido de reconsideração da MMS contra o Acórdão 662/2023 (processo seletivo simplifica → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=3417s)
+- **RD 558 (2024-02-26)**, 5 · relator **Lima Filho** · Referendo das Deliberações DG 3/2024 e 4/2024: prorrogação por 15 dias da consulta pública da área VDC 29 (Vila do Conde) e audiência pública virtual  → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=3698s)
+- **RD 558 (2024-02-26)**, 13 · relator **Lima Filho** · Revisão da RN 7 (exploração de áreas e instalações portuárias nos portos organizados; Lei 14.047/2020, espelhos d'água, processo seletivo simplificado → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: revisor_acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=7698s)
+- **RD 558 (2024-02-26)**, 14 · relator **Flávia Takafashi** · Procedimento de licitação de arrendamento da área STS 33 (Porto de Santos); retomada após vista de Alber Vasconcelos (RO 551) → não deliberado: vista renovada por Alber Vasconcelos
+  - votos: Flávia: relator; Alber: outro · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=8549s)
+- **RD 558 (2024-02-26)**, 16 · relator **Lima Filho** · Recurso de reconsideração sobre domínio de área usada pela Petrobras para dutos de GLP no Porto de Santos: provimento parcial, regularização por contr → aprovado por unanimidade
+  - votos: Lima: relator; Flávia: revisor_acompanha; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=9449s)
+- **RD 558 (2024-02-26)**, 23 · relator **Flávia Takafashi** · Aprovação da minuta de Termo de Ajustamento de Conduta (TAC) para pagamento das parcelas de outorga vencidas (2020-2023) do contrato de arrendamento 1 → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=10615s)
+- **RD 558 (2024-02-26)**, 27 · relator **Flávia Takafashi** · Reequilíbrio econômico-financeiro do contrato de arrendamento 2/2016 (STS 07 / T32, Porto de Santos): substituição e ampliação de áreas (T31, Gate 15) → aprovado por unanimidade
+  - votos: Flávia: relator; Alber: acompanha; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=12367s)
+- **RD 558 (2024-02-26)**, 31 · relator **Flávia Takafashi** · Autorização especial e emergencial para descarga de 1.700 t de fertilizantes em big bags no terminal ATU 12 → aprovado por unanimidade (indeferido o pedido)
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=13800s)
+- **RD 558 (2024-02-26)**, 33 · relator **Lima Filho** · Regularização do contrato de arrendamento 30/2003 (Porto de Belém): área ocupada de 8.798,69 m² contra 5.360 m² contratados → aprovado por unanimidade, com ajuste de redação
+  - votos: Lima: relator; Alber: acompanha; Flávia: acompanha; Eduardo: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=14191s)
+- **RD 558 (2024-02-26)**, 48 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o Acórdão 188/2023, que negou reequilíbrio do contrato de arrendamento 31/2001 por investimentos no Terminal Marítimo → aprovado por unanimidade (recurso negado)
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=20049s)
+- **RD 558 (2024-02-26)**, 59 · relator **Caio Farias** · Expansão das áreas arrendadas IQI 03 e IQI 11 e unificação dos contratos de arrendamento 5/2021, 7/2021 e 8/2021 (granéis líquidos/combustíveis, Porto → não concluído: pedido de vista de Alber Vasconcelos
+  - votos: Caio: relator; Alber: vista · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=22496s)
+- **RD 558 (2024-02-26)**, 61 · relator **Caio Farias** · Transferência de controle societário da arrendatária Porto Novo Recife (contrato de arrendamento 2012/110/00, Porto do Recife, áreas não operacionais) → aprovado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=23356s)
+- **RD 560 (2024-03-25)**, 29 · relator **Flávia Takafashi** · Referendo da Deliberação DG 18/2024 que não conheceu recurso do OGMO contra o edital do Leilão 10/2023 (arrendamento MAC15, Porto de Maceió) → referendado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=4546s)
+- **RD 560 (2024-03-25)**, 11 · relator **Caio Farias** · Expansão de áreas arrendadas e unificação dos contratos de arrendamento 5, 7 e 8/2021 (granéis líquidos, Porto do Itaqui); retorno de vista → aprovado por unanimidade (voto do relator)
+  - votos: Caio: relator; Alber: revisor_acompanha; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=5296s)
+- **RD 560 (2024-03-25)**, 12 · relator **Flávia Takafashi** · Minutas de edital e contrato do arrendamento simplificado STS33 (51.460 m², carga geral/conteinerizada, área urbana residencial no Jabaquara, Santos;  → aprovado nos termos do voto-vista divergente do revisor Alber (3x2), acrescido dos itens 5
+  - votos: Flávia: relator; Alber: revisor_diverge; Caio: acompanha; Lima: acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=5415s)
+- **RD 560 (2024-03-25)**, 13 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 406/2023: antecipação de receitas tarifárias para reforço do berço 101 (cais público, ~R$ 32 milhões) e imp → provido por maioria (4x1), nos termos do voto do relator; Caio Farias vencido
+  - votos: Lima: relator; Caio: vencido; Eduardo: revisor_acompanha; Alber: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=8361s)
+- **RD 560 (2024-03-25)**, 17 · relator **Eduardo Nery** · Cumprimento dos itens 5.1 e 5.3 do Acórdão 88/2023: recuperação de valores indevidamente repassados pela autoridade portuária à Cesa em 2010 (julgamen → aprovado por unanimidade, com acréscimo sugerido por Alber
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=11422s)
+- **RD 560 (2024-03-25)**, 21 · relator **Eduardo Nery** · Cumprimento dos itens 5.1 e 5.3 do Acórdão 88/2023: recuperação de valores indevidamente repassados pela autoridade portuária à Cesa em 2010 (julgamen → aprovado por unanimidade, com acréscimo sugerido por Alber
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=11422s)
+- **RD 560 (2024-03-25)**, 19 · relator **Eduardo Nery** · Abertura de consulta e audiência públicas para o arrendamento MCP01 (Porto de Santana/AP; ~30.000 m², granéis sólidos vegetais, cavacos de madeira; in → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=11968s)
+- **RD 560 (2024-03-25)**, 23 · relator **Flávia Takafashi** · Consulta: malte/cevada e silicato de vidro como carga de mercado não consolidado para contrato de uso temporário (RN 7/2016) → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=13231s)
+- **RD 560 (2024-03-25)**, 24 · relator **Flávia Takafashi** · Pedido de reequilíbrio econômico-financeiro do arrendamento: sobrepreço de investimentos do 7º aditivo, ISS de 3% para 5%, impedimento de eventos, inv → aprovado por unanimidade (com ressalvas de Alber)
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=13395s)
+- **RD 560 (2024-03-25)**, 27 · relator **Flávia Takafashi** · Aprovação de edital e contrato do leilão do arrendamento simplificado REC08 (Recife; granéis sólidos vegetais - malte, trigo, milho; 10 anos; ~R$ 50 m → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=14823s)
+- **RD 560 (2024-03-25)**, 34 · relator **Flávia Takafashi** · Transferência de titularidade do contrato de arrendamento PRES 05/96 por incorporação (reorganização societária no mesmo grupo) → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=16041s)
+- **RD 560 (2024-03-25)**, 35 · relator **Flávia Takafashi** · Consulta sobre transporte interno de trabalhadores na área alfandegada (Portaria RFB) e seu custeio por tarifa → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=16235s)
+- **RD 560 (2024-03-25)**, 37 · relator **Flávia Takafashi** · Competência sancionatória: APPA instaurou processo sancionador contra arrendatária (contrato 399) com base no convênio de delegação 1/2019 → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=16785s)
+- **RD 560 (2024-03-25)**, 44 · relator **Flávia Takafashi** · Pedido de anulação do Leilão 10/2023 (arrendamento MAC15, Porto de Maceió); julgamento em bloco dos itens 44 e 45 → não conhecido, por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=18703s)
+- **RD 560 (2024-03-25)**, 45 · relator **Flávia Takafashi** · Pedido de anulação do Leilão 10/2023 (arrendamento MAC15, Porto de Maceió); julgamento em bloco dos itens 44 e 45 → não conhecido, por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=18703s)
+- **RD 560 (2024-03-25)**, 57 · relator **Lima Filho** · Abertura de audiência e consulta públicas (60 dias) do arrendamento MUC04 - terminal de contêineres no Porto de Fortaleza/Mucuripe (125.12x m², 25 ano → aprovado por unanimidade (data de início depois corrigida para 21/03/2024)
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=21007s)
+- **RD 560 (2024-03-25)**, 62 · relator **Alber Vasconcelos** · Auto de infração por descumprimento da movimentação mínima contratual (art. 33, XXXVII, b, RN 75) → auto declarado insubsistente, por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=22597s)
+- **RD 560 (2024-03-25)**, 63 · relator **Alber Vasconcelos** · Auto de infração com dois fatos: falta de comprovação de regularidade fiscal (fato 1) e descumprimento contratual/movimentação mínima (fato 2) → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=22693s)
+- **RD 560 (2024-03-25)**, 68 · relator **Alber Vasconcelos** · Inclusão de tarifas de fornecimento de energia elétrica a embarcações/consumidores e de crachá de acesso na tabela 7 (diversos) do Porto de Pelotas → aprovado (Lima Filho já ausente)
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=26200s)
+- **RD 560 (2024-03-25)**, 72 · relator **Caio Farias** · Abertura de audiência e consulta públicas do arrendamento RDJ07 (apoio logístico offshore, 48.644 m², 25 anos, ~R$ 101 milhões) → aprovado (Lima Filho já ausente)
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=26824s)
+- **RD 560 (2024-03-25)**, 74 · relator **Caio Farias** · Autorização para contrato de transição da área 5B (silo e área pavimentada, ~8.197 m², granéis sólidos vegetais) no Porto do Recife → aprovado (Lima Filho já ausente)
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=27101s)
+- **RD 562 (2024-04-24)**, 2 · relator **Lima Filho** · Recursos de reconsideração (deliberação em bloco com o item 24) contra o Acórdão 533/2022: cobrança da Tabela I (infraestrutura de acesso aquaviário)  → aprovado (negado provimento aos dois recursos); sem divergência registrada
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=3405s)
+- **RD 562 (2024-04-24)**, 5 · relator **Caio Farias** · Manifestação ao poder concedente sobre pedido de exclusividade/monopólio na movimentação de sal marinho no STS20 (porto de Santos) e pedido cautelar d → aprovado com ajuste redacional sugerido por Alber Vasconcelos (item 4: informar em vez de 
+  - votos: Caio: relator; Flávia: acompanha; Alber: acompanha; Eduardo: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=7223s)
+- **RD 562 (2024-04-24)**, 6 · relator **Eduardo Nery** · Referendo da deliberação DG que prorrogou por 7 dias o prazo da audiência pública da licitação da área VDC04 (Vila do Conde) → aprovado (referendado)
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=8655s)
+- **RD 562 (2024-04-24)**, 7 · relator **Eduardo Nery** · Referendo da Deliberação DG 25/2024 que aprovou a realização do certame de arrendamento da área RDJ06 (granel líquido, óleos básicos), brownfield → aprovado (referendado)
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=8811s)
+- **RD 562 (2024-04-24)**, 8 · relator **Flávia Takafashi** · Referendo da Deliberação DG 24/2024: ajuste no edital do arrendamento REC08 (granel sólido vegetal: malte, trigo e milho) para alterar o valor a ser p → aprovado (referendado)
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=8922s)
+- **RD 562 (2024-04-24)**, 15 · relator **Flávia Takafashi** · Reajuste tarifário do porto organizado de Imbituba (IPCA mai/2022–ago/2023) e inclusão do item 11 da Tabela 3 (carga viva, por cabeça) → aprovado (com ajuste para especificar carga bovina, sugestão de Alber Vasconcelos)
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=14251s)
+- **RD 562 (2024-04-24)**, 16 · relator **Flávia Takafashi** · Inclusão de modalidade tarifária (item 11 da Tabela 3: carga viva por cabeça) no porto de Natal → aprovado
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=14479s)
+- **RD 562 (2024-04-24)**, 20 (provável) · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 77/2020: multa de cerca de R$ 821 mil por cobrar armazenagem adicional da Eurobrasil sem que esta desse cau → aprovado por maioria (3x2) o voto do relator: provimento parcial, infração mantida com mul
+  - votos: Lima: relator; Flávia: outro; Caio: vencido; Alber: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=15714s)
+- **RD 562 (2024-04-24)**, 21 · relator **Lima Filho** · Processo sancionador: auto de infração por descumprimento de prazo de obras do contrato de arrendamento 03/97 (11º e 12º aditivos); multa de cerca de  → aprovado: auto declarado insubsistente
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=18016s)
+- **RD 562 (2024-04-24)**, 25 · relator **Alber Vasconcelos** · Recurso de reconsideração contra a Deliberação DG 102/2023 (autorização especial de 90 dias à Superterminais para movimentar passageiros) → aprovado: perda de objeto; determinada revisão da Res. 66
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=19032s)
+- **RD 562 (2024-04-24)**, 26 · relator **Alber Vasconcelos** · Sugestão da SFC: determinar segregação entre áreas de passageiros e de carga no porto de Manaus ou, alternativamente, interdição → aprovado
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=19380s)
+- **RD 562 (2024-04-24)**, 29 · relator **Alber Vasconcelos** · Contratos de transição das áreas 1, 2 e 3 do Saboó (Santos): cumprimento do Acórdão 455/2023 e não renovação por ociosidade (julgado em bloco com o it → aprovado
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=20127s)
+- **RD 562 (2024-04-24)**, 31 · relator **Alber Vasconcelos** · Processo julgado em bloco com o item 29 (contratos de transição do Saboó) → aprovado em bloco com o item 29
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=20127s)
+- **RD 562 (2024-04-24)**, 36 · relator **Caio Farias** · Autorização de contrato de uso temporário (quadro de boias em espelho d água, área APT2-STM) para transbordo de granéis no porto de Santarém → aprovado
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=22209s)
+- **RD 562 (2024-04-24)**, 38 · relator **Caio Farias** · Autorização de instalação portuária de turismo (IP4/IPTur) na Ponta da Praia, Santos, para navios de cruzeiro; investimento de cerca de R$ 247 milhões → aprovado com acréscimos: recomendação ao MPor e alerta (sugestão de Eduardo Nery e Alber V
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=22915s)
+- **RD 564 (2024-05-29)**, 2 · relator **Caio Farias** · Consulta da SNPTA sobre a exigibilidade da movimentação mínima contratual (MMC) de minério de ferro no contrato de arrendamento C-DEPJUR 54/97 (porto  → aprovado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=170s)
+- **RD 564 (2024-05-29)**, 51 · relator **Eduardo Nery** · Referendo da Deliberação DG 41/2024: adiamento da sessão pública dos leilões de arrendamento REC04, REC08, REC09, REC10, RIG10 e RDJ06 (siglas segundo → aprovado por unanimidade (referendado)
+  - votos: Eduardo: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=4940s)
+- **RD 564 (2024-05-29)**, 6+32 · relator **Alber Vasconcelos** · Itens 6 e 32 (mesmo processo, votados em bloco): referendo da Deliberação DG 37/2024 (cautelar indeferida) e deferimento do pedido principal de baixa  → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=5355s)
+- **RD 564 (2024-05-29)**, 24 · relator **Lima Filho** · Embargos de declaração contra o Acórdão 443/2023 (reequilíbrio econômico-financeiro, IPTU, novo marco regulatório e acertos finais de contas de arrend → aprovado por unanimidade (embargos rejeitados)
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=9167s)
+- **RD 564 (2024-05-29)**, 31 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o Acórdão 21/2024 (divergência entre a área real e a área contratual do arrendamento) → aprovado por unanimidade (provimento parcial)
+  - votos: Alber: relator; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=10790s)
+- **RD 564 (2024-05-29)**, 42 · relator **Caio Farias** · Desincorporação, baixa e alienação de dois guindastes elétricos de pórtico do porto de Porto Alegre → aprovado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=14388s)
+- **RD 566 (2024-07-17)**, 2 · relator **Flávia Takafashi** · Pedido de reconsideração da VPorts contra o Acórdão 495/2023 (sistema de indicadores de qualidade de serviço - IQS/fator Q - no contrato de concessão  → aprovado (sem divergência registrada)
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=1481s)
+- **RD 566 (2024-07-17)**, 9 · relator **Flávia Takafashi** · Processo sancionador (auto de infração 5757): falta de seguro patrimonial e de garantia de execução contratual com valor atualizado; SFC propôs multa  → aprovado (sem divergência registrada)
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=3897s)
+- **RD 566 (2024-07-17)**, 5 · relator **Lima Filho** · Recurso hierárquico contra Deliberação que manteve auto de infração por reajuste de preços de movimentação acima do IGP-DI contratual (contrato de arr → aprovado (provimento ao recurso)
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=8949s)
+- **RD 566 (2024-07-17)**, 12 · relator **Flávia Takafashi** · Cumprimento do Acórdão 773/2021: quantificação do reequilíbrio pela construção de prédio administrativo e estacionamento exigidos pela Receita Federal → pedido de vista (Eduardo Nery)
+  - votos: Flávia: relator; Alber: outro; Eduardo: vista · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=13889s)
+- **RD 566 (2024-07-17)**, 17 · relator **Lima Filho** · Consulta sobre incluir no Regulamento de Exploração do Porto (REP) prioridade de atracação para navios dos arrendamentos sobre os de TUPs, diante de p → aprovado (com ajuste no item 5.4 sugerido por Alber Vasconcelos e incorporado pelo relator
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=15468s)
+- **RD 566 (2024-07-17)**, 25 · relator **Alber Vasconcelos** · Revogação da autorização do Acórdão 212/2023 para contrato de transição na área FN-01 do Porto do Forno, após fim da delegação ao município e assunção → aprovado
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=19640s)
+- **RD 566 (2024-07-17)**, 26 · relator **Alber Vasconcelos** · Prazo adicional de 1 ano para desincorporação, baixa e alienação do descarregador de navios DN4 (bem da União) e delegação de competência → aprovado
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=19861s)
+- **RD 566 (2024-07-17)**, 28 · relator **Alber Vasconcelos** · Consulta sobre cessão gratuita de 4 m2 no porto organizado de Porto Velho para torre de sirenes do plano de ação emergencial da UHE Santo Antônio → aprovado
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=20639s)
+- **RD 566 (2024-07-17)**, 29 · relator **Caio Farias** · Relatório final de execução de investimentos do 6º termo aditivo ao contrato de arrendamento 2/2000 (tanques de combustíveis): índice de correção (INC → aprovado
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=21007s)
+- **RD 566 (2024-07-17)**, 35 · relator **Caio Farias** · Alterações de área do arrendamento (contrato 1/2020): adensamento do túnel do armazém T8, nova balança rodoviária e redução do túnel do armazém 17 → aprovado
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=22170s)
+- **RD 568 (2024-08-05)**, 1 · relator **Flávia Takafashi** · Arbitragem regulatória sobre a cobrança da remuneração variável de transbordo (cláusula 12ª, inciso V): por contêiner transbordado (ciclo) ou por movi → aprovado; pedido da TCP julgado improcedente
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=330s)
+- **RD 568 (2024-08-05)**, 3 · relator **Alber Vasconcelos** · Pedido da CDP de autorização especial e de emergência (art. 49 da Lei 10.233), por 180 dias, para movimentação de granel sólido em áreas de fundeio (b → aprovado; pedido indeferido
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=4294s)
+- **RD 568 (2024-08-05)**, 4 · relator **Eduardo Nery** · Referendo da Deliberação DG 57/2024: aprovação da realização do certame licitatório (revisão de edital e contrato) do arrendamento RDJ06 no porto do R → aprovado (referendado)
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=5482s)
+- **RD 568 (2024-08-05)**, 6 · relator **Alber Vasconcelos** · Referendo das Deliberações DG 55/2024 e 56/2024: inclusão da modalidade tarifária de arrendamento simplificado na estrutura tarifária do porto do Rio  → aprovado (referendado)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=6353s)
+- **RD 568 (2024-08-05)**, 11 · relator **Flávia Takafashi** · Análise dos documentos preparatórios da licitação do arrendamento PAR25 (antigas PAR16 e PAR17) no porto de Paranaguá, granéis sólidos vegetais, 35 an → aprovado
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=9794s)
+- **RD 568 (2024-08-05)**, 12 · relator **Flávia Takafashi** · Revisão do cronograma de investimentos do contrato de arrendamento 05/2022 (postergação de 6 meses e acréscimo de 569 m²) → aprovado
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=10300s)
+- **RD 568 (2024-08-05)**, 13 · relator **Flávia Takafashi** · Reequilíbrio econômico-financeiro do contrato 01/2016 (berço 38, moega ferroviária, déficit de capacidade por atraso na entrega da área 2 e da priorid → não concluído: pedido de vista de Alber Vasconcelos após o voto da relatora
+  - votos: Eduardo: outro; Flávia: relator; Lima: outro; Alber: vista; Caio: outro · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=10482s)
+- **RD 568 (2024-08-05)**, 14 · relator **Flávia Takafashi** · Pedido de medida cautelar para suspender a movimentação de granel sólido pelo Tecon Salvador (autorizada no 4º termo aditivo de 2023) ou impor-lhe obr → aprovado; cautelar indeferida
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=11353s)
+- **RD 568 (2024-08-05)**, 20 · relator **Lima Filho** · Abertura de audiência e consulta públicas para o arrendamento do TMP Maceió (terminal marítimo de passageiros), 25 anos, investimentos estimados em ce → aprovado
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=11995s)
+- **RD 568 (2024-08-05)**, 28 · relator **Alber Vasconcelos** · Abertura de audiência e consulta públicas para o arrendamento do TMP Recife (terminal de passageiros), 25 anos, VPL negativo e arrendamento de 3% da r → aprovado
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=15394s)
+- **RD 568 (2024-08-05)**, 36 · relator **Caio Farias** · Auto de infração por suposto descumprimento da obrigação de investimentos em manutenção previstos no EVTEA do 2º termo aditivo (valor anual de 2022) → aprovado (insubsistência do auto, conforme manifestações técnicas)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=18721s)
+- **RD 570 (2024-08-30)**, 28 · relator **Lima Filho** · Consulta sobre a impossibilidade de movimentação de produtos siderúrgicos nos terminais de contêineres 1 e 2 do porto do Rio de Janeiro (contrato de a → pedido de vista de Alber Vasconcelos (votação suspensa; relator ainda não leu o voto)
+  - votos: Lima: relator; Alber: vista; Eduardo: outro; Flávia: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=3394s)
+- **RD 570 (2024-08-30)**, 1 · relator **Caio Farias** · Recurso de reconsideração contra o Acórdão 466/2023, que deu provimento à arbitragem pedida pela CDP sobre a metodologia de reajuste (variação acumula → aprovado (recurso conhecido e desprovido) — anúncio do resultado truncado na legenda
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=5621s)
+- **RD 570 (2024-08-30)**, 2 · relator **Flávia Takafashi** · Referendo de deliberação DG que deferiu cautelar para reverter suspensão, pela CDP, do lineup do navio Estelar Isabela e permitir movimentação de taru → aprovado (referendada a deliberação DG)
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=6815s)
+- **RD 570 (2024-08-30)**, 6 · relator **Caio Farias** · Referendo da Deliberação DG 69/2024, que deferiu cautelar para a Convicon continuar as obras de expansão da área reefer (investimentos complementares  → aprovado (referendada a Deliberação DG 69/2024)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=8304s)
+- **RD 570 (2024-08-30)**, 24 · relator **Lima Filho** · Processo sancionador: auto de infração por ausência de investimentos mínimos de 4% em bens reversíveis → aprovado — auto de infração declarado insubsistente
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=14151s)
+- **RD 570 (2024-08-30)**, 26 · relator **Lima Filho** · Análise do EVTEA e minutas de edital e contrato do arrendamento STS08 no porto de Santos (convênio de delegação 1/2023) → aprovado — documentação atende aos requisitos mínimos, condicionada a ajustes (três cotaçõ
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=14469s)
+- **RD 570 (2024-08-30)**, 29 · relator **Lima Filho** · Fiscalização extraordinária sobre denúncia de uso indevido de recursos para compra de cestas básicas → aprovado — denúncia conhecida e julgada improcedente
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=15008s)
+- **RD 572 (2024-10-04)**, QO · relator **Eduardo Nery** · Questão de ordem do Diretor-Geral: contratos de transição (RN 07) renovados sucessivamente sem licitação — determinar às autoridades portuárias que su → aprovado (entendimento firmado, sem manifestação contrária)
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=68s)
+- **RD 572 (2024-10-04)**, 14 · relator **Flávia Takafashi** · Impactos no equilíbrio do contrato de arrendamento extinto (Pérola/Codesp) da indenização de seguro (Zurich, ~R$ 8,33 mi) obtida judicialmente pela re → aprovado (sem divergência registrada)
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=3744s)
+- **RD 572 (2024-10-04)**, 6 · relator **Flávia Takafashi** · Reequilíbrio econômico-financeiro do contrato de arrendamento 01/2016 (voto-vista) → aprovado com o ajuste do revisor: indeferidos eventos pretéritos, deferido o déficit de ca
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: revisor_acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=12734s)
+- **RD 572 (2024-10-04)**, 9 · relator **Lima Filho** · Consulta da Triunfo sobre a impossibilidade de os terminais de contêineres movimentarem produtos siderúrgicos em navios dedicados, à luz do Anexo 5 do → sem deliberação: dois votos opostos (relator x revisor), Caio acompanha o revisor; vista r
+  - votos: Lima: relator; Alber: revisor_diverge; Caio: revisor_acompanha; Flávia: outro; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=13491s)
+- **RD 572 (2024-10-04)**, 10 · relator **Flávia Takafashi** · Reequilíbrio econômico-financeiro: edificação (instalações para a Receita Federal e prédio administrativo) — voto-vista do Diretor-Geral → aprovado nos termos da relatora (VPL de -R$ 7,153 mi, base dez/2016)
+  - votos: Eduardo: revisor_acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=16849s)
+- **RD 572 (2024-10-04)**, 34 · relator **Eduardo Nery** · Análise das contribuições da Audiência Pública 7/2024 sobre a licitação do arrendamento MCP01 (brownfield, ~30 mil m², capex ~R$ 84,5 mi) no Porto de  → aprovado
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=17524s)
+- **RD 572 (2024-10-04)**, 15 · relator **Flávia Takafashi** · Consulta sobre doação com encargo: investimento (~R$ 33,3 mi) para tornar operacional o dolfim do berço 2 do Porto de Imbituba em troca de prioridade  → aprovado
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=17802s)
+- **RD 572 (2024-10-04)**, 17 · relator **Flávia Takafashi** · Fiscalização extraordinária (item 5.2 do Acórdão 467/2023): provisão contábil de juros sobre capital próprio (~R$ 77,7 mi) com recursos da atividade p → aprovado com ajuste de redação sugerido pelo DG
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=19287s)
+- **RD 572 (2024-10-04)**, 19 · relator **Lima Filho** · Abertura de audiência e consulta públicas (60 dias) para o arrendamento SSB01 no Porto de São Sebastião (granéis sólidos vegetais e minerais, carga ge → aprovado
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=20012s)
+- **RD 572 (2024-10-04)**, 21 · relator **Lima Filho** · Cumprimento do item 9.1 do Acórdão TCU 148/2024: atualização do capex e do reequilíbrio para a prorrogação do contrato de arrendamento 24/2002 → aprovado (VPL positivo de ~R$ 10 mi)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=20763s)
+- **RD 572 (2024-10-04)**, 24 · relator **Alber Vasconcelos** · Autorização de contrato de uso temporário de área de 3.216 m² (armazém lonado, fertilizantes) no porto organizado de Porto Velho → aprovado (sem manifestações)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=22803s)
+- **RD 572 (2024-10-04)**, 30 · relator **Caio Farias** · Consulta sobre necessidade de autorização prévia da ANTAQ para novos investimentos imediatos custeados pela antecipação de receitas do contrato de arr → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=23625s)
+- **RD 572 (2024-10-04)**, 32 · relator **Caio Farias** · Consulta sobre o limite temporal da correção monetária (IPCA) dos valores de arrendamento vinculados às obras de melhoria da autoridade portuária → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=24443s)
+- **RD 572 (2024-10-04)**, 33 · relator **Caio Farias** · Expansão de área por adensamento do berço 34 (6.250 m²) ao arrendamento STS14 — aprovação do EVTEA → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=24958s)
+- **RD 574 (2024-10-25)**, 3 · relator **Flávia Takafashi** · Referendo da Deliberação DG 88/2024: cumprimento do Acórdão 1560/2024-TCU sobre a prorrogação antecipada do contrato de arrendamento (grafado «2599»)  → referendado, por unanimidade
+  - votos: Flávia: relator; Alber: acompanha; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=2115s)
+- **RD 574 (2024-10-25)**, 4 · relator **Lima Filho** · Referendo da Deliberação DG 90/2024: autorização emergencial para uso temporário de parte da área arrendada da Tergrasa como canteiro de obras para re → referendado, por unanimidade (com críticas de Alber Vasconcelos à instrução)
+  - votos: Lima: relator; Alber: acompanha; Eduardo: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=2499s)
+- **RD 574 (2024-10-25)**, 6 · relator **Alber Vasconcelos** · Referendo da Deliberação DG 87/2024: antecipação de tarifas portuárias (Tabela I) pela Portonave à SPI para manter a dragagem de manutenção do Porto d → referendado, por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Caio: acompanha; Flávia: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=4752s)
+- **RD 574 (2024-10-25)**, 10 · relator **Lima Filho** · Consulta da Triunfo sobre a aplicabilidade do Anexo 5 dos contratos de arrendamento no Porto do Rio de Janeiro à movimentação de siderúrgicos em navio → aprovado por unanimidade nos termos do voto conciliatório de Flávia Takafashi, incorporado
+  - votos: Flávia: revisor_acompanha; Alber: acompanha; Lima: relator; Caio: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=9239s)
+- **RD 574 (2024-10-25)**, 14 · relator **Flávia Takafashi** · Autorização de investimentos fora da poligonal do Porto de Paranaguá: pavimentação em concreto das vias de acesso terrestre (cerca de R$ 12 milhões, 1 → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=13228s)
+- **RD 574 (2024-10-25)**, 15 · relator **Flávia Takafashi** · Consulta sobre exportação de magnesita (minério) pela área pública do Porto de São Francisco do Sul ou pelo arrendamento do TESC (operação teste de 10 → aprovado por unanimidade (sem óbices à operação)
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=13851s)
+- **RD 574 (2024-10-25)**, 17 · relator **Flávia Takafashi** · Documentos jurídicos (edital e contrato) do leilão simplificado da área MAC16 no Porto de Maceió (granéis sólidos; 9.500 m²; 5 anos; investimentos de  → aprovado por unanimidade
+  - votos: Flávia: relator; Alber: acompanha; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=14651s)
+- **RD 574 (2024-10-25)**, 22 · relator **Lima Filho** · Reajuste tarifário do Porto de Paranaguá (reposição inflacionária de 01/08/2022 a 31/05/2024; percentual grafado «88%», provavelmente 8,8%) e inclusão → aprovado por unanimidade; homologação após 15 dias úteis sem objeção do poder concedente
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=18143s)
+- **RD 574 (2024-10-25)**, 23 · relator **Lima Filho** · Perenização do desconto por frequência de embarcação e sentido de navegação na Tabela I do Porto de Santos, decorrente de acordo judicial homologado n → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=18444s)
+- **RD 574 (2024-10-25)**, 31 · relator **Alber Vasconcelos** · Abertura de audiência e consulta pública (60 dias) do arrendamento IQI16 no Porto do Itaqui (granéis sólidos minerais, fertilizantes; 21.829 m²; 25 an → aprovado por unanimidade
+  - votos: Alber: relator; Lima: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=20798s)
+- **RD 574 (2024-10-25)**, 32 · relator **Alber Vasconcelos** · Relatório final de execução de investimentos (as built) do contrato de arrendamento 8/2019 no Porto de Vila do Conde (granéis líquidos combustíveis) → aprovado por unanimidade
+  - votos: Alber: relator; Lima: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=21037s)
+- **RD 574 (2024-10-25)**, 37 · relator **Alber Vasconcelos** · Extrapauta: publicação dos documentos jurídicos (edital e contrato) da licitação da área MCP03 no Porto de Santana (AP) – granéis sólidos vegetais (so → aprovado por unanimidade
+  - votos: Alber: relator; Lima: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=21209s)
+- **RD 574 (2024-10-25)**, 35 · relator **Caio Farias** · Reajuste (36,16%, sendo 29,32% de inflação de 48 meses) e inclusão de modalidades e regras tarifárias no Porto de São Sebastião, inclusive valores par → aprovado por unanimidade; homologação após 15 dias úteis sem objeção do poder concedente
+  - votos: Caio: relator; Lima: acompanha; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=21561s)
+- **RD 574 (2024-10-25)**, 33 · relator **Caio Farias** · Autorização de contrato de uso temporário (48 meses) da área F do pátio 4A (21.600 m², greenfield) do Porto de São Sebastião para açúcar a granel (car → aprovado por unanimidade, com envio à SFC para acompanhar os contratos de uso temporário n
+  - votos: Caio: relator; Alber: acompanha; Lima: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=22009s)
+- **RD 576 (2024-11-22)**, 10 · relator **Flávia Takafashi** · Consulta sobre reajuste da outorga variável (R$ 0,40 ou R$ 0,42/t) aplicado à diferença da movimentação mínima contratual (MMC) não atingida no ano co → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=2988s)
+- **RD 576 (2024-11-22)**, 12 · relator **Lima Filho** · Desincorporação de bem da União: demolição de prédio de três pavimentos interditado há mais de 10 anos, com risco de desabamento → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=3806s)
+- **RD 576 (2024-11-22)**, 13 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 111/2024 que negou reequilíbrio por sobrepreço de investimentos do 7º termo aditivo, aumento do ISS de Sant → aprovado por unanimidade — recurso desprovido
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=4196s)
+- **RD 576 (2024-11-22)**, 19 · relator **Lima Filho** · Nova autorização especial (180 dias a partir de 01/12/2024) para armazenar carga de projeto da planta de hidrogênio e amônia verdes no Terminal Maríti → aprovado por unanimidade, com acréscimo de ciência ao Ministério de Portos e Aeroportos
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=5438s)
+- **RD 576 (2024-11-22)**, 21 · relator **Alber Vasconcelos** · Pedido de reconsideração contra o Acórdão 229/2024 que manteve multa de R$ 43.750 por descumprir o cronograma do PBI do arrendamento VIX30 (Contrato 4 → aprovado por unanimidade — pedido desprovido
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=6021s)
+- **RD 576 (2024-11-22)**, 22 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o Acórdão 300/2024 (consulta da EMAP) sobre parcelamento e dispensa de juros e multa da 1ª parcela da outorga do Cont → aprovado por unanimidade — recurso provido
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=6365s)
+- **RD 576 (2024-11-22)**, 27 · relator **Alber Vasconcelos** · Consulta sobre prazos de apresentação de projeto executivo (cláusulas 5.4.2 e 5.4.3 do 8º termo aditivo, prorrogação até 2047) em obras por etapas → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=8653s)
+- **RD 576 (2024-11-22)**, 28 · relator **Caio Farias** · Relatório final de execução de investimentos (as built) do arrendamento: pavimentação leve e drenagem executadas em área cerca de 1.750 m² menor que a → aprovado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=8990s)
+- **RD 578 (2024-12-19)**, 9 · relator **Eduardo Nery** · Proposta de acordo para encerrar ação judicial sobre o reequilíbrio do contrato de arrendamento 09/98 (terminal de veículos da Volkswagen, Porto de Pa → aprovado por maioria (3 x 2) nos termos do voto original do relator, conduzido pelo direto
+  - votos: Eduardo: vencido; Flávia: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=121s)
+- **RD 578 (2024-12-19)**, 31 · relator **Lima Filho** · Mérito da denúncia contra norma da APS sobre gerenciamento de água de lastro (exigência de atestado de conformidade emitido por empresa credenciada no → aprovado por unanimidade: denúncia conhecida, Deliberação DG 75/2024 ratificada e norma da
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=4829s)
+- **RD 578 (2024-12-19)**, 1 · relator **Flávia Takafashi** · Referendo da Deliberação DG 112/2024: consulta sobre a interpretação da cláusula de prioridade do contrato de passagem 113/2022 durante sua vigência;  → aprovado (referendado) por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=6244s)
+- **RD 578 (2024-12-19)**, 2 · relator **Lima Filho** · Referendo da Deliberação DG 115/2024: medida cautelar que suspendeu os efeitos do despacho decisório 31 da CDP, que havia suspendido as atividades da  → aprovado (referendado) por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=6437s)
+- **RD 578 (2024-12-19)**, 3 · relator **Alber Vasconcelos** · Referendo da Deliberação DG 110/2024: pedido da APS para firmar contrato de transição com a Ecoporto Santos por 24 meses, negado acima do prazo de 6 m → aprovado (referendado) por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=7357s)
+- **RD 578 (2024-12-19)**, 11 · relator **Eduardo Nery** · Recurso hierárquico contra cobrança de juros e multa (cerca de R$ 165 mil) pela SAF por atraso no pagamento da 3ª parcela do valor de outorga do contr → aprovado por unanimidade (recurso provido, sem juros, multa nem atualização monetária)
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=10584s)
+- **RD 578 (2024-12-19)**, 24 · relator **Flávia Takafashi** · Minutas de edital e contrato do arrendamento RDJ10 (carga geral não conteinerizada, cerca de 15 mil m², brownfield, armazéns 13 e 14) no Porto do Rio  → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=12925s)
+- **RD 578 (2024-12-19)**, 33 · relator **Lima Filho** · Minutas de edital e contrato do arrendamento RDJ11 (granel sólido e carga geral, 7.787 m², 10 anos, investimentos de cerca de R$ 7 milhões) no Porto d → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=15014s)
+- **RD 578 (2024-12-19)**, 34 · relator **Lima Filho** · Anuência prévia à transferência do controle societário indireto da Santos Brasil (51% do capital votante) para o grupo CMA CGM → aprovado por unanimidade com texto ajustado no fim da sessão: aprovação condicionada a tra
+  - votos: Lima: relator; Alber: acompanha; Flávia: acompanha; Eduardo: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=15385s)
+- **RD 578 (2024-12-19)**, 43 · relator **Alber Vasconcelos** · Manutenção do custo médio ponderado de capital (WACC) em 9,92% até dezembro de 2025 (Acórdão 329/2022) → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=18555s)
+- **RD 578 (2024-12-19)**, 45-51 · relator **Caio Farias** · Relatórios da 1ª rodada da fiscalização temática ESG (adesão a práticas ambientais, sociais e de governança) → aprovado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=20326s)
+- **RD 578 (2024-12-19)**, 47 · relator **Caio Farias** · Incorporação de cerca de 370 m² ao arrendamento sem os investimentos de R$ 6,7 milhões previstos no Acórdão 599/2023 e novo valor do arrendamento fixo → aprovado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=21726s)
+- **RD 578 (2024-12-19)**, 49 · relator **Caio Farias** · Transferência do controle societário da arrendatária transitória da Seara Alimentos para a JBS (mesmo grupo econômico) → aprovado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=22056s)
+- **RD 579 (2025-02-13)**, 13 · relator **Eduardo Nery** · Apuração dos indicadores de qualidade (IQ1, IQ3, IQ5) e do fator Q do Contrato de Concessão 1/2022 (período set/2022–set/2023) para a receita-teto de  → aprovado por unanimidade com ajustes (decisão de mérito sobre o fator Q adiada)
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=140s)
+- **RD 579 (2025-02-13)**, 1 · relator **Lima Filho** · Referendo de Deliberação-DG de 23/12/2024 (número incerto: 719 ou 119/2024) que autorizou em caráter emergencial a Petrobras a permanecer na área STS0 → aprovado por unanimidade (referendo)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=4726s)
+- **RD 579 (2025-02-13)**, 3 · relator **Alber Vasconcelos** · Referendo da Deliberação-DG 8/2025: cautelar autorizando atracação do navio MV Jin Rui 82 no cais de ligação do Tecon Salvador (granel sólido dentro d → aprovado por unanimidade (referendo)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=5092s)
+- **RD 579 (2025-02-13)**, 7 · relator **Caio Farias** · Referendo da Deliberação-DG 7/2025: novos ciclos de contratos de transição no porto organizado do Rio de Janeiro → aprovado por unanimidade (referendo)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=5886s)
+- **RD 579 (2025-02-13)**, 14 · relator **Eduardo Nery** · Relatório da SFC sobre o acompanhamento das obrigações da fase 1 (18 meses) da concessão dos portos de Vitória e Barra do Riacho → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=6503s)
+- **RD 579 (2025-02-13)**, 29 · relator **Lima Filho** · Prorrogação antecipada do contrato de arrendamento do TEG (porto de Santos) com plano de investimentos (pera ferroviária, píer, torres, 4 silos de 12  → aprovado por unanimidade, com ajuste sugerido por Alber Vasconcelos
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=8239s)
+- **RD 579 (2025-02-13)**, 35 · relator **Lima Filho** · Pedido de dilação do prazo para desmobilização e remoção do guindaste MHC 02 do píer 401 do porto de Vila do Conde (Deliberação-DG 116/2024) → aprovado por unanimidade após o relator ajustar o voto à posição de Flávia Takafashi
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=9286s)
+- **RD 579 (2025-02-13)**, 19 · relator **Flávia Takafashi** · Contrato de uso temporário da área Pátio 3B (cerca de 22 mil m²) no porto de São Sebastião para açúcar e fertilizantes (carga não consolidada) → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=11363s)
+- **RD 579 (2025-02-13)**, 39-46 · relator **Alber Vasconcelos** · Fiscalizações temáticas do PAF 2024: diagnóstico e acompanhamento dos contratos de dragagem nos portos organizados → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=15853s)
+- **RD 579 (2025-02-13)**, 49 · relator **Alber Vasconcelos** · Novo (7º) contrato de transição para área não operacional de 8.279 m² no porto do Itaqui (moagem de trigo), com prioridade de atracação → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=17770s)
+- **RD 579 (2025-02-13)**, 50 · relator **Alber Vasconcelos** · Abertura de audiência e consulta pública do arrendamento NAT01 no porto de Natal (granéis sólidos minerais, minério de ferro; 15 anos; maior valor de  → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=19353s)
+- **RD 579 (2025-02-13)**, 51 · relator **Alber Vasconcelos** · Embargos de declaração contra o Acórdão 713/2024 (prazo do projeto executivo em obras por etapas – cláusulas 5.4.2 e 5.4.3 do 8º termo aditivo do cont → aprovado por unanimidade, com ajuste de redação proposto por Flávia Takafashi
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=19706s)
+- **RD 582 (2025-03-17)**, 27 · relator **Lima Filho** · Recurso de reconsideração da VPorts (autoridade portuária) contra o Acórdão 585/2023, com pedidos de sustentação oral → retirado de pauta pelo relator; sustentações orais adiadas
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=4221s)
+- **RD 582 (2025-03-17)**, 5 (referendo) · relator **Lima Filho** · Referendo da Deliberação DG 19/2025 (28/02/2025): abertura de procedimento licitatório simplificado de arrendamento RDJ11 (granel sólido e carga geral → referendado (aprovado sem divergência)
+  - votos: Lima: relator; Caio: acompanha; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=4550s)
+- **RD 582 (2025-03-17)**, 6 · relator **Lima Filho** · Recomposição do equilíbrio econômico-financeiro do contrato de arrendamento 155/96 (vista de Alber Vasconcelos desde a RD 579) → vista renovada a pedido de Alber Vasconcelos (sem voto do relator)
+  - votos: Alber: vista; Lima: relator; Flávia: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=4690s)
+- **RD 582 (2025-03-17)**, 7 · relator **Caio Farias** · Recurso hierárquico contra a Deliberação 131/2023-SFC: multa por majorar preços de armazenagem e movimentação acima do reajuste pelo IPCA previsto no  → negado provimento, aprovado nos termos do voto do relator (revisor Alber Vasconcelos)
+  - votos: Caio: relator; Alber: revisor_acompanha; Flávia: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=4756s)
+- **RD 582 (2025-03-17)**, 9 · relator **Lima Filho** · Arbitragem administrativa sobre multa por suposto descumprimento da movimentação mínima contratual (MMC) de 2016–2019 no contrato de arrendamento 3/95 → aprovado nos termos do voto do relator (conversão em diligência)
+  - votos: Lima: relator; Flávia: revisor_acompanha; Caio: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=5177s)
+- **RD 582 (2025-03-17)**, 12 · relator **Caio Farias** · Autorização para novo contrato de transição na área MCP03 do porto organizado de Santana (AP), até que o vencedor do leilão 08/2024 assuma a área → aprovado sem divergência
+  - votos: Caio: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=6930s)
+- **RD 582 (2025-03-17)**, 13 · relator **Caio Farias** · Consulta sobre cláusulas da minuta do novo convênio de delegação dos portos de Imbituba e Laguna (SC): uso de recursos do porto para pagar multas e de → aprovado nos termos do voto do relator
+  - votos: Caio: relator; Alber: acompanha; Flávia: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=7192s)
+- **RD 582 (2025-03-17)**, 14 · relator **Flávia Takafashi** · Denúncia com pedido cautelar de suspensão da tabela 3 (acesso terrestre) do porto de Santos por atraso nos investimentos vinculados à revisão tarifári → aprovado nos termos do voto da relatora (cautelar indeferida)
+  - votos: Flávia: relator; Caio: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=7833s)
+- **RD 582 (2025-03-17)**, 21 · relator **Flávia Takafashi** · Recomposição do equilíbrio econômico-financeiro do contrato de arrendamento CDP 96/2001 por alta de preços na pandemia de covid-19 (investimentos feit → indeferido, aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Caio: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=10747s)
+- **RD 582 (2025-03-17)**, 22 · relator **Flávia Takafashi** · Embargos de declaração contra o Acórdão 573/2024 (reversão ao poder concedente de indenização securitária recebida pela Pérola após o vendaval de 2009 → embargos parcialmente providos, aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Caio: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=11079s)
+- **RD 582 (2025-03-17)**, 26 · relator **Lima Filho** · Cumprimento do Acórdão 447/2023: alteração do estatuto social da EMAP (Decreto estadual de abril de 2023) ampliando atribuições além da administração  → aprovado nos termos do voto do relator
+  - votos: Lima: relator; Caio: acompanha; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=13602s)
+- **RD 582 (2025-03-17)**, 29 · relator **Alber Vasconcelos** · Procedimento licitatório da área TMP Recife, porto organizado do Recife (PE) → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=14442s)
+- **RD 582 (2025-03-17)**, 31 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o item 5.3 do Acórdão 353/2024 (obrigação de divulgar preços máximos por instalação e discriminar preços nos document → negado provimento, aprovado nos termos do voto do relator
+  - votos: Alber: relator; Caio: acompanha; Flávia: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=14517s)
+- **RD 582 (2025-03-17)**, 32 · relator **Alber Vasconcelos** · Arrendamento de áreas e instalações portuárias (item 16 citado de forma confusa na legenda) → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=14859s)
+- **RD 584 (2025-04-10)**, 4 · relator **Lima Filho** · Recurso hierárquico contra a Deliberação PAS 33/2023-SFC (multa de cerca de R$ 500 mil por permitir desvio de finalidade: RG Estaleiro cobrando passag → vista de Alber Vasconcelos renovada após a sustentação oral (sem voto do relator)
+  - votos: Alber: vista; Lima: relator; Flávia: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=225s)
+- **RD 584 (2025-04-10)**, 1 · relator **Lima Filho** · Recomposição do equilíbrio econômico-financeiro do contrato de arrendamento 155/1996 (CPBS/CDRJ); vista de Alber Vasconcelos desde a RD 579, prorrogad → vista de Alber Vasconcelos renovada novamente
+  - votos: Alber: vista; Lima: relator; Flávia: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=1143s)
+- **RD 584 (2025-04-10)**, 5 · relator **Caio Farias** · Recomposição do equilíbrio econômico-financeiro do contrato de arrendamento 6/2022 → retirado de pauta por despacho do relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=1332s)
+- **RD 584 (2025-04-10)**, 8 · relator **Flávia Takafashi** · Requerimento de expansão de área e realização de investimentos no contrato de arrendamento transitório 1/2023 → retirado de pauta pela relatora
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=1879s)
+- **RD 584 (2025-04-10)**, 10 · relator **Flávia Takafashi** · Monitoramento do desempenho da administração portuária (fiscalização temática) do Porto do Itaqui → aprovado
+  - votos: Flávia: relator; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=1946s)
+- **RD 584 (2025-04-10)**, 12 · relator **Flávia Takafashi** · Monitoramento do desempenho da administração portuária (fiscalização temática) da CDP → aprovado nos termos do voto da relatora, com a determinação sugerida por Alber Vasconcelos
+  - votos: Flávia: relator; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=2933s)
+- **RD 584 (2025-04-10)**, 13 · relator **Flávia Takafashi** · Monitoramento do desempenho da administração portuária do Porto Organizado do Rio Grande (Acórdão 374/2023) → aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Caio: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=3740s)
+- **RD 584 (2025-04-10)**, 14 · relator **Flávia Takafashi** · Reequilíbrio econômico-financeiro por investimentos não previstos (viaduto, via periférica, passarela, UBS) e cobrança de PPU → retirado de pauta pela relatora
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=4107s)
+- **RD 584 (2025-04-10)**, 15 · relator **Flávia Takafashi** · Pedido de reequilíbrio contratual em razão de eventos pretéritos → retirado de pauta pela relatora
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=4147s)
+- **RD 584 (2025-04-10)**, 16 · relator **Lima Filho** · Agenda regulatória 2022-2024, eixo 3.1: revisão e consolidação da Resolução Normativa 7 (exploração de áreas e instalações em porto organizado; inovaç → aprovado por unanimidade nos termos do voto do relator, com os acréscimos de Alber Vasconc
+  - votos: Lima: relator; Alber: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=4191s)
+- **RD 584 (2025-04-10)**, 25 · relator **Lima Filho** · Fiscalização temática PAF 2024 – monitoramento do desempenho da autoridade portuária (Codeba) → aprovado nos termos do voto do relator (julgamento em bloco dos itens 25, 26 e 27)
+  - votos: Lima: relator; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=6065s)
+- **RD 584 (2025-04-10)**, 26 · relator **Lima Filho** · Fiscalização temática PAF 2024 – monitoramento do desempenho da autoridade portuária (Santos) → aprovado nos termos do voto do relator (julgamento em bloco dos itens 25, 26 e 27)
+  - votos: Lima: relator; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=6074s)
+- **RD 584 (2025-04-10)**, 27 · relator **Lima Filho** · Fiscalização temática PAF 2024 – monitoramento do desempenho da autoridade portuária (Suape) → aprovado nos termos do voto do relator (julgamento em bloco dos itens 25, 26 e 27)
+  - votos: Lima: relator; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=6105s)
+- **RD 586 (2025-05-19)**, 1 · relator **Caio Farias** · Referendo da Deliberação DG 32/2025: não conhecimento de recurso hierárquico contra decisão da CPLA que inadmitiu documentação (estudo concorrencial)  → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=136s)
+- **RD 586 (2025-05-19)**, 3 · relator **Flávia Takafashi** · Referendo da Deliberação DG 34/2025: retificação redacional do item 5.2 do Acórdão 279/2025 (adensamento de 61.340 m² e plano de investimentos de cerc → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=410s)
+- **RD 586 (2025-05-19)**, 4 · relator **Flávia Takafashi** · Referendo da Deliberação DG 30/2025: denúncia com cautelar para suspender tratativas de movimentação de granel (fertilizantes) no porto de Itajaí, com → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=542s)
+- **RD 586 (2025-05-19)**, 5-A (legenda: 'item 51') · relator **Alber Vasconcelos** · Referendo da Deliberação DG 36/2025: cautelar para manter os efeitos do contrato de arrendamento 9/95 (área 07, porto de Vila do Conde) até a celebraç → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=1004s)
+- **RD 586 (2025-05-19)**, 6 · relator **Lima Filho** · Recomposição do equilíbrio econômico-financeiro do contrato de arrendamento 155/96 no contexto da prorrogação ordinária com novos investimentos (retor → aprovado por unanimidade (revisor acompanha o relator)
+  - votos: Caio: acompanha; Flávia: acompanha; Lima: relator; Alber: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=1263s)
+- **RD 586 (2025-05-19)**, 9 (legenda: 'item sete') · relator **Lima Filho** · Recurso hierárquico contra a Deliberação PAS 33/2023 (SFC), que manteve auto de infração e multa de R$ 500 mil por desvio de finalidade de área portuá → aprovado: recurso provido, multa afastada (revisor acompanha)
+  - votos: Caio: acompanha; Flávia: acompanha; Lima: relator; Alber: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=2511s)
+- **RD 586 (2025-05-19)**, 12 · relator **Caio Farias** · Revogação do Comunicado da Diretoria aprovado na RD 572 (19/09/2024) sobre contratos de transição, em razão da Resolução ANTAQ 127/2025 → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=3382s)
+- **RD 586 (2025-05-19)**, 13 · relator **Caio Farias** · Pedido de medida cautelar incidental para suspender o contrato de passagem 1/2021 entre EMAP e TEMAP (granéis líquidos) → aprovado com acréscimo do item 5.5 sugerido por Alber Vasconcelos (dispositivo relido ao f
+  - votos: Caio: relator; Alber: acompanha; Flávia: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=3607s)
+- **RD 586 (2025-05-19)**, 14 · relator **Flávia Takafashi** · Pedido de dilação por 15 dias do prazo do Acórdão 178/2025 para a APS apresentar novo cronograma físico-financeiro das obras da tabela 3 (Deliberação  → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=5356s)
+- **RD 586 (2025-05-19)**, 17 · relator **Flávia Takafashi** · Autorização especial para armazenar cargas de projeto (planta de hidrogênio e amônia) no Terminal Marítimo de Ureia (TMU) por 180 dias a partir de 01/ → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=6450s)
+- **RD 586 (2025-05-19)**, 28 · relator **Flávia Takafashi** · Autorização para subarrendamento/SPE no contrato de arrendamento não operacional 12/2013 (Complexo Náutico Ambiental — projeto Boulevard Marina Itajaí → aprovado (encaminhado à votação; proclamação expressa não captada na legenda)
+  - votos: Caio: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=9721s)
+- **RD 586 (2025-05-19)**, 33 · relator **Lima Filho** · Embargos de declaração da CDP contra o Acórdão 215/2024 sobre o desconto tarifário ao TUP da Hidrovias do Brasil → aprovado nos termos do voto do relator (Flávia confirma que a vista no item 32 não afeta e
+  - votos: Caio: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=11224s)
+- **RD 586 (2025-05-19)**, 34 · relator **Lima Filho** · Equilíbrio econômico-financeiro do contrato de arrendamento PRES 04/96 por incorporação de área (adensamento de ~8.450 m² do berço) com novos investim → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=11799s)
+- **RD 586 (2025-05-19)**, 39 · relator **Lima Filho** · Aprovação prévia da transferência de controle societário indireto da Viterra para a Bunge → aprovado nos termos do voto do relator, com os acréscimos de Alber Vasconcelos (supressão 
+  - votos: Caio: acompanha; Flávia: acompanha; Lima: revisor_acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=12947s)
+- **RD 586 (2025-05-19)**, 40 · relator **Lima Filho** · Anuência prévia à transferência indireta de controle da Wilson Sons para a SAS Shipping (MSC) → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=13658s)
+- **RD 586 (2025-05-19)**, 42 · relator **Alber Vasconcelos** · Aprovação das minutas de edital e contrato da licitação do terminal de passageiros TMP Recife (brownfield, 15 mil m², 25 anos, arrendamento fixo de ~R → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=14259s)
+- **RD 586 (2025-05-19)**, 43 · relator **Alber Vasconcelos** · Licitação de arrendamento de granéis sólidos minerais (fertilizantes) na área IQ16 (21,8 mil m², brownfield, sem acesso a berço; 25 anos; maior outorg → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=14830s)
+- **RD 586 (2025-05-19)**, 49 · relator **Alber Vasconcelos** · Retirada de bens (sistemas de informática, comunicação e segurança) da área AZ04 após o fim do contrato de transição 15/2024 → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=15616s)
+- **RD 588 (2025-06-05)**, 14 · relator **Caio Farias** · Reequilíbrio econômico-financeiro do contrato de arrendamento 4/2020 (Santos) por investimentos não previstos: obras viárias (viaduto, via periférica, → aprovado por unanimidade
+  - votos: Caio: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=1389s)
+- **RD 588 (2025-06-05)**, 15 · relator **Flávia Takafashi** · Transferência de titularidade do contrato de arrendamento 1/2021 (MAC10, granéis líquidos/ácido sulfúrico, porto de Maceió) da TIMAC Agro para a Tecal → aprovado por unanimidade
+  - votos: Flávia: relator; Caio: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=1914s)
+- **RD 588 (2025-06-05)**, 24 · relator **Alber Vasconcelos** · Desincorporação e demolição de bem da União: subestação desativada de 215 m² na área primária do porto organizado de Cabedelo → aprovado por unanimidade
+  - votos: Alber: relator; Caio: acompanha; Flávia: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=3274s)
+- **RD 588 (2025-06-05)**, 27 · relator **Alber Vasconcelos** · Consulta da Portos do Paraná sobre contratos de passagem para ligação de esteiras ao berço 204 do porto de Paranaguá (operado com equipamentos da PASA → aprovado por unanimidade
+  - votos: Alber: relator; Caio: acompanha; Flávia: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=4036s)
+- **RD 588 (2025-06-05)**, 1 · relator **Lima Filho** · Pedido de reconsideração da VPorts contra o Acórdão 585/2023 (arbitragem regulatória sobre responsabilidade pelo reparo do molhe de abrigo de Praia Mo → aprovado por unanimidade: pedido conhecido e negado provimento; indeferido o sobrestamento
+  - votos: Lima: relator; Caio: acompanha; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=5895s)
+- **RD 588 (2025-06-05)**, 2 · relator **Caio Farias** · Referendo da Deliberação DG 41/2025: pedido de reabertura da audiência pública 2/2025 (arrendamento Tecon Santos 10, porto de Santos); julgado em bloc → aprovado por unanimidade (referendo)
+  - votos: Caio: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=8761s)
+- **RD 588 (2025-06-05)**, 3 · relator **Caio Farias** · Referendo da Deliberação DG 42/2025: pedido de reabertura da audiência pública 2/2025 (arrendamento Tecon Santos 10, porto de Santos); julgado em bloc → aprovado por unanimidade (referendo)
+  - votos: Caio: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=8761s)
+- **RD 588 (2025-06-05)**, 4 · relator **Caio Farias** · Referendo da Deliberação DG 43/2025: pedido de reabertura da audiência pública 2/2025 (arrendamento Tecon Santos 10, porto de Santos); julgado em bloc → aprovado por unanimidade (referendo)
+  - votos: Caio: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=8761s)
+- **RD 588 (2025-06-05)**, 5 · relator **Caio Farias** · Referendo da Deliberação DG 38/2025: análise das 513 contribuições da audiência pública 2/2025 e ajustes de edital e contrato do arrendamento Tecon Sa → aprovado por unanimidade (referendo)
+  - votos: Caio: relator; Flávia: acompanha; Alber: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=8920s)
+- **RD 588 (2025-06-05)**, 8 · relator **Lima Filho** · Referendo da Deliberação DG 40/2025: validade das autorizações para contratos de transição emitidas sob a RN 7/2016 após a entrada em vigor da Res. AN → aprovado por unanimidade (referendo)
+  - votos: Lima: relator; Caio: acompanha; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=10687s)
+- **RD 588 (2025-06-05)**, 19 · relator **Lima Filho** · Mérito da medida cautelar da Res. 6767 (vedação de cobrar Tabela 1 de navios que demandam TUPs) e consulta sobre aplicar o item 2.1.9 da Tabela 1 às o → aprovado por unanimidade, com acréscimo de Flávia Takafashi
+  - votos: Lima: relator; Flávia: acompanha; Caio: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=13984s)
+- **RD 588 (2025-06-05)**, 20 · relator **Lima Filho** · Relatório final de execução de investimentos do 7º termo aditivo ao contrato de arrendamento DP 09/2000 (granéis líquidos inflamáveis, Ilha Barnabé, S → aprovado por unanimidade
+  - votos: Lima: relator; Caio: acompanha; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=14726s)
+- **RD 588 (2025-06-05)**, 23 · relator **Lima Filho** · Ofício SNPTA 592/2022 sobre despacho que deferiu liminarmente a prorrogação antecipada de contrato de arrendamento no porto de Cabedelo → pedido de vista de Alber Vasconcelos (não deliberado)
+  - votos: Alber: vista · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=15724s)
+- **RD 591 (2025-08-08)**, 3 · relator **Alber Vasconcelos** · Pedido de medida cautelar administrativa para restabelecer provisoriamente o item 11.7, subitem 2, do Regulamento de Exploração do Porto (REP) de Vila → cautelar deferida por unanimidade (relator aderiu ao voto do revisor Caio Farias)
+  - votos: Alber: revisor_acompanha; Caio: revisor_diverge; Flávia: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=OQ9m51EIHJc&t=2079s)
+- **RD 591 (2025-08-08)**, 14 · relator **Flávia Takafashi** · Cumprimento de determinações do TCU sobre a prorrogação ordinária e reequilíbrio do contrato de arrendamento 088/98 (Angra dos Reis): REIDI no EVTEA,  → aprovado por unanimidade
+  - votos: Flávia: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=OQ9m51EIHJc&t=4283s)
+- **RD 591 (2025-08-08)**, 15 · relator **Flávia Takafashi** · Desdobramento do item 5.4 do Acórdão 577/2024: apuração do VPL relativo à suspensão da movimentação mínima (anos 3 a 5) por atraso na entrega da área → aprovado por unanimidade
+  - votos: Flávia: relator; Caio: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=OQ9m51EIHJc&t=4705s)
+- **RD 591 (2025-08-08)**, 16 · relator **Flávia Takafashi** · Manifestação sobre cumprimento do contrato de arrendamento 31/2001 e das obrigações regulatórias (art. 73 da Portaria MInfra 530/2019) para instruir p → aprovado por unanimidade
+  - votos: Flávia: relator; Caio: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=OQ9m51EIHJc&t=4924s)
+- **RD 591 (2025-08-08)**, 21 · relator **Flávia Takafashi** · Pedido de reequilíbrio por investimentos para adequação à Resolução ANP 810/2020 (cerca de R$ 37 milhões, termo de risco de investimento), despesas am → aprovado por unanimidade (pedido indeferido)
+  - votos: Flávia: relator; Caio: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=OQ9m51EIHJc&t=10697s)
+- **RD 591 (2025-08-08)**, 22 · relator **Flávia Takafashi** · Investimentos em caráter de urgência no contrato de arrendamento transitório 6/2024 (área STS33E): metodologia de indenização de equipamentos de inspe → aprovado por unanimidade
+  - votos: Flávia: relator; Caio: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=OQ9m51EIHJc&t=11159s)
+- **RD 591 (2025-08-08)**, 24 · relator **Flávia Takafashi** · Reequilíbrio por eventos pretéritos: perdas na pandemia de Covid-19 e cobranças indevidas de juros e multa de mora sobre o valor de outorga → aprovado por unanimidade
+  - votos: Flávia: relator; Caio: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=OQ9m51EIHJc&t=11498s)
+- **RD 591 (2025-08-08)**, 34 · relator **Alber Vasconcelos** · Alteração do cronograma de investimentos do contrato de arrendamento 1/2022 (prorrogação por 6 meses por atraso no alvará municipal) → aprovado por unanimidade
+  - votos: Alber: relator; Caio: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=OQ9m51EIHJc&t=11818s)
+- **RD 591 (2025-08-08)**, 36 · relator **Alber Vasconcelos** · Abertura de audiência e consulta pública do arrendamento da área RDJ06A no porto do Rio de Janeiro (granel líquido não inflamável, óleos básicos; 11.8 → aprovado por unanimidade
+  - votos: Alber: relator; Caio: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=OQ9m51EIHJc&t=12417s)
+- **RD 591 (2025-08-08)**, 37 · relator **Alber Vasconcelos** · Adequação de área do contrato de transição 2/2025 da Petrobras após contrato de passagem 1/2025 (área administrativa) e divergência de área levantada → aprovado por unanimidade
+  - votos: Alber: relator; Caio: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=OQ9m51EIHJc&t=12640s)
+- **RD 592 (2025-08-25)**, 1 · relator **Caio Farias** · Recurso de reconsideração da EMAP contra o Acórdão 580/2024 que determinou ajustes contábeis (refazimento dos três últimos exercícios) ligados à provi → aprovado por unanimidade — recurso conhecido e desprovido; decisão original mantida
+  - votos: Caio: relator; Flávia: revisor_acompanha; Alber: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=vDo8pMKcp_Q&t=87s)
+- **RD 592 (2025-08-25)**, 2 · relator **Caio Farias** · Receita-teto das tabelas 1 e 3 dos portos organizados de Vitória e Barra do Riacho no exercício 2024 (fator Q; item 5.3 do Acórdão 53/2025); sustentaç → aprovado por unanimidade
+  - votos: Caio: relator; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=vDo8pMKcp_Q&t=949s)
+- **RD 592 (2025-08-25)**, 8 · relator **Caio Farias** · Cumprimento do item 3.4 da Agenda Regulatória 2025–2028 (contratos de passagem nos portos organizados) e inclusão de novo tema na agenda: transmutação → aprovado por unanimidade, com ajuste proposto por Alber Vasconcelos (inclusão do tema em r
+  - votos: Caio: relator; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=vDo8pMKcp_Q&t=2837s)
+- **RD 592 (2025-08-25)**, 30 · relator **Caio Farias** · Aprovação dos documentos e abertura do leilão de arrendamento da área RDJ07 (porto do Rio de Janeiro, apoio logístico offshore; ~56.832 m², 25 anos, m → aprovado por unanimidade; acrescida comunicação ao secretário nacional de Portos e ao mini
+  - votos: Caio: relator; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=vDo8pMKcp_Q&t=4208s)
+- **RD 592 (2025-08-25)**, 14 · relator **Flávia Takafashi** · Reequilíbrio econômico-financeiro do contrato de arrendamento de 1992 por novos investimentos e adensamento de área (~3.955 m²), elevando capacidade d → aprovado por unanimidade
+  - votos: Flávia: relator; Caio: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=vDo8pMKcp_Q&t=5335s)
+- **RD 592 (2025-08-25)**, 18 · relator **Flávia Takafashi** · Primeiro tema do sandbox regulatório: «Outorga Verde» — ocupação de áreas ociosas de portos organizados por projetos de energia limpa, combustíveis al → aprovado por unanimidade
+  - votos: Flávia: relator; Caio: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=vDo8pMKcp_Q&t=6672s)
+- **RD 592 (2025-08-25)**, 19 · relator **Flávia Takafashi** · Desistência do pleito de reequilíbrio econômico-financeiro do contrato de arrendamento s/nº de 1992 (expansão/unificação de áreas no porto de Suape) — → aprovado por unanimidade (perda de objeto; autos sigilosos)
+  - votos: Flávia: relator; Caio: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=vDo8pMKcp_Q&t=7817s)
+- **RD 592 (2025-08-25)**, 28 · relator **Alber Vasconcelos** · Autorização para novo ciclo de contrato de transição na área IQI 08A14 (8.279 m², trigo e rações) → aprovado por unanimidade
+  - votos: Alber: relator; Caio: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=vDo8pMKcp_Q&t=10069s)
+- **RD 594 (2025-09-11)**, 9 · relator **Flávia Takafashi** · Reequilíbrio econômico-financeiro (EVTEA) para prorrogação ordinária por 25 anos do contrato de arrendamento 67/98 com novos investimentos e adensamen → aprovado (votação simbólica)
+  - votos: Flávia: relator; Alber: acompanha; Frederico: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=moqX_srlNM0&t=1059s)
+- **RD 594 (2025-09-11)**, 14 · relator **Flávia Takafashi** · Manifestação sobre proposta de solução consensual da ação judicial: revisão da MMC do arrendamento Tecon Imbituba e pagamento das diferenças de MMC de → aprovado: manifestação favorável ao acordo (votação simbólica)
+  - votos: Flávia: relator; Alber: acompanha; Frederico: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=moqX_srlNM0&t=3100s)
+- **RD 594 (2025-09-11)**, 8 · relator **Caio Farias** · Pedido de cautelar convertido em autorização especial e emergencial para continuar explorando 28.085 m² (GLP) até contrato de transição, após extinção → aprovado (votação simbólica)
+  - votos: Caio: relator; Flávia: acompanha; Alber: acompanha; Frederico: acompanha · [vídeo](https://www.youtube.com/watch?v=moqX_srlNM0&t=6034s)
+- **RD 596 (2025-10-09)**, 5 · relator **Lima Filho** · Prorrogação e recomposição do equilíbrio econômico-financeiro do contrato de arrendamento 44/2002 (Porto de Aratu), investimentos pretéritos; julgado  → aprovado por unanimidade, com acréscimo sugerido por Alber Vasconcelos
+  - votos: Lima: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=6154s)
+- **RD 596 (2025-10-09)**, 6 · relator **Lima Filho** · Recomposição do equilíbrio econômico-financeiro do contrato de arrendamento de 1999 (nº incerto na legenda: 016/1999 ou 096/1999) por investimentos ex → aprovado por unanimidade
+  - votos: Lima: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=8309s)
+- **RD 596 (2025-10-09)**, 23 · relator **Flávia Takafashi** · Aderência do projeto executivo parcial do Armazém Externo 1 previsto no 5º termo aditivo do contrato de arrendamento 197 (prorrogação antecipada de 20 → aprovado por unanimidade, com acréscimo de Alber Vasconcelos
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=11323s)
+- **RD 596 (2025-10-09)**, 24 · relator **Flávia Takafashi** · Ampliação de área (adensamento de cerca de 4.320 m²) do contrato de arrendamento de 1996 (granel líquido; novos tanques para óleo vegetal); consulta s → aprovado por unanimidade
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=11831s)
+- **RD 596 (2025-10-09)**, 30 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o Acórdão 292/2025 (aceitação do projeto de expansão da área arrendada no contrato PRES-04/96 sem recomposição do equ → aprovado por unanimidade (recurso parcialmente provido)
+  - votos: Alber: relator; Frederico: acompanha; Flávia: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=14555s)
+- **RD 596 (2025-10-09)**, 31 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o Acórdão 425/2025 (inclusão do ISS por fora na tabela tarifária de Itajaí contraria a tabela aprovada pela Deliberaç → aprovado por unanimidade (recurso indeferido)
+  - votos: Alber: relator; Frederico: acompanha; Flávia: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=14830s)
+- **RD 596 (2025-10-09)**, 32 · relator **Alber Vasconcelos** · Reequilíbrio econômico-financeiro do contrato de arrendamento 1/2020 (sete eventos: EIV, bombeiros, IN RFB 1974/2020 descarga direta de fertilizantes, → aprovado por unanimidade
+  - votos: Alber: relator; Frederico: acompanha; Flávia: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=15051s)
+- **RD 596 (2025-10-09)**, 34 · relator **Alber Vasconcelos** · Consulta sobre reversibilidade de autoguindaste Gottwald em uso no arrendamento da CRB → aprovado por unanimidade
+  - votos: Alber: relator; Frederico: acompanha; Flávia: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=16835s)
+- **RD 598 (2025-11-13)**, 9 · relator **Flávia Takafashi** · Contrato de uso temporário das áreas 2, 7 e 9 do terminal de Outeiro (porto organizado de Belém) para granel sólido vegetal (farelo de soja e gergelim → aprovado por maioria (3x2, contagem provável) o voto da relatora: nova publicação da manif
+  - votos: Flávia: relator; Alber: vencido; Caio: vencido; Lima: acompanha; Frederico: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=4939s)
+- **RD 598 (2025-11-13)**, 13 · relator **Flávia Takafashi** · Adensamento de área onshore (cerca de 34.797 m²) ao contrato de arrendamento 9/2022 do Terminal Salineiro de Areia Branca (TSAB): prazo para apresenta → aprovado por unanimidade, com ajuste no voto sugerido por Alber Vasconcelos (prazo do cont
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=6445s)
+- **RD 598 (2025-11-13)**, 17 · relator **Flávia Takafashi** · Ampliação em cerca de 8.500 m² da área do contrato de arrendamento simplificado 5/2022 (área SSD09, porto de Salvador), com investimentos de cerca de  → aprovado por maioria (4x1); vencido Alber Vasconcelos
+  - votos: Flávia: relator; Alber: vencido; Caio: acompanha; Lima: acompanha; Frederico: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=8157s)
+- **RD 598 (2025-11-13)**, 19 · relator **Flávia Takafashi** · Pedido de supressão do preço-teto (cláusula 10.1 do contrato de arrendamento 2/2021) para a movimentação de magnesita, alegando ambiente concorrencial → pedido de vista de Alber Vasconcelos após o voto da relatora (voto computado)
+  - votos: Flávia: relator; Alber: vista; Frederico: outro; Caio: outro; Lima: outro · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=10368s)
+- **RD 598 (2025-11-13)**, 33 · relator **Alber Vasconcelos** · Prorrogação por mais 3 meses do prazo de investimentos do contrato de arrendamento 1/2022 (MUC01, porto de Fortaleza) → aprovado por unanimidade
+  - votos: Alber: relator; Frederico: acompanha; Flávia: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=13467s)
+- **RD 598 (2025-11-13)**, 40 · relator **Caio Farias** · Substituição de investimento do 6º termo aditivo ao contrato de arrendamento 15/1996 (desvio ferroviário) pela expansão de 66 m do cais 301 → aprovado por unanimidade
+  - votos: Caio: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=15872s)
+- **RD 600 (2025-12-15)**, 1 · relator **Flávia Takafashi** · Revisão tarifária extraordinária do Porto de Rio Grande (RS) por desequilíbrio decorrente do aumento do assoreamento do canal de acesso e das enchente → aprovado (sem divergência), com acréscimo de acompanhamento da dragagem pela SFC
+  - votos: Flávia: relator; Alber: acompanha; Frederico: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=204s)
+- **RD 600 (2025-12-15)**, 2 · relator **Lima Filho** · Autorização para retomada das obras no eixo comum do Corredor de Exportação do Porto de Paranaguá (duas linhas adicionais e torre), contrato de passag → aprovado (sem divergência)
+  - votos: Lima: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=1602s)
+- **RD 600 (2025-12-15)**, 42 · relator **Caio Farias** · Autorização (ratificação) do contrato de transição APS–Reliance para a área SSZ35.2 (Saboó, Porto de Santos), celebrado sem autorização prévia da ANTA → aprovado (sem divergência)
+  - votos: Caio: relator; Frederico: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=4424s)
+- **RD 600 (2025-12-15)**, 10 · relator **Flávia Takafashi** · Supressão do preço-teto (price cap, cláusula 10.1 do contrato de arrendamento 2/2021) para magnesita, depois ampliado a fertilizantes e concentrado de → convertido o julgamento em diligência à SRG (prazo de 90 dias) para analisar o novo estudo
+  - votos: Flávia: relator; Alber: revisor_diverge; Frederico: outro; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=8367s)
+- **RD 600 (2025-12-15)**, 17 · relator **Flávia Takafashi** · Medida cautelar / autorização especial para continuar explorando área de GLP (≈24 mil m², ex-contrato de arrendamento 5) no Porto de Suape até contrat → aprovado (sem divergência)
+  - votos: Flávia: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=11660s)
+- **RD 600 (2025-12-15)**, 12 · relator **Lima Filho** · EVTEA para recomposição do equilíbrio econômico-financeiro do contrato de arrendamento 115/2022 (prorrogação) — retorno de vista do revisor → aprovado (sem divergência); autos sigilosos
+  - votos: Lima: relator; Alber: revisor_acompanha; Frederico: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=12052s)
+- **RD 600 (2025-12-15)**, 13 · relator **Lima Filho** · Consulta sobre o contrato de arrendamento transitório 1/2023 (Itajaí): aferição do índice de 80% de ocupação da área Alfa para uso da área Bravo — ret → aprovado (sem divergência)
+  - votos: Lima: relator; Flávia: revisor_acompanha; Frederico: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=12805s)
+- **RD 600 (2025-12-15)**, 18 · relator **Flávia Takafashi** · Adensamento do berço 35 do Porto de Santos ao contrato de arrendamento 5/2020 (celulose) e análise do equilíbrio econômico-financeiro → aprovado (sem divergência); autos sigilosos
+  - votos: Flávia: relator; Alber: acompanha; Frederico: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=13238s)
+- **RD 600 (2025-12-15)**, 30 · relator **Lima Filho** · Consulta sobre 4º termo aditivo ao contrato de arrendamento (Braskem, Aratu) para alterar o parâmetro de cobrança por descumprimento da MME após a Res → aprovado (sem divergência)
+  - votos: Lima: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=15743s)
+- **RD 600 (2025-12-15)**, 33 · relator **Alber Vasconcelos** · Recomposição do equilíbrio econômico-financeiro do contrato de arrendamento de 17/02/2012: prorrogação por 25 anos (até 2062), novos investimentos e i → aprovado (sem divergência); autos sigilosos
+  - votos: Alber: relator; Frederico: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=16804s)
+- **RD 600 (2025-12-15)**, 36 · relator **Alber Vasconcelos** · Consulta sobre descarga direta de carga geral e granel sólido (fertilizantes) no berço 34, adensado ao arrendamento de celulose, em janelas ociosas → aprovado o voto do relator por maioria (3x2), com acréscimo de monitoramento da SFC por 1 
+  - votos: Alber: relator; Flávia: revisor_diverge; Lima: revisor_acompanha; Caio: revisor_acompanha; Frederico: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=17517s)
+- **RD 600 (2025-12-15)**, 37 · relator **Alber Vasconcelos** · Documentação da licitação do arrendamento SUA01 (carga Ro-Ro, 100 mil m², critério de menor tarifa) por delegação (convênio 1/2022) → aprovado (sem divergência), condicionado a ajustes
+  - votos: Alber: relator; Frederico: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=18697s)
+- **RD 600 (2025-12-15)**, 38 · relator **Alber Vasconcelos** · Medida cautelar para suspender cobranças por não atingimento da MME, alegando assoreamento de Miramar → aprovado: cautelar indeferida (sem divergência)
+  - votos: Alber: relator; Frederico: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=19218s)
+- **RD 600 (2025-12-15)**, 41 · relator **Caio Farias** · Autorização do contrato de transição APS–Portm para a área SSZ39 (~56,8 mil m², Saboó, Santos) → aprovado (sem divergência)
+  - votos: Caio: relator; Alber: acompanha; Frederico: acompanha; Flávia: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=19944s)
+- **RD 603 (2026-02-24)**, ref-JBS · relator **Flávia Takafashi** · Referendo da Deliberação DG 8/2026: reconhecimento da área necessária ao alfandegamento do contrato de arrendamento transitório 1/2023 (área B maior q → referendado (sem divergência)
+  - votos: Frederico: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=1456s)
+- **RD 603 (2026-02-24)**, 4 · relator **Lima Filho** · Fiscalização extraordinária na Portos RS e pleito de suspensão/abatimento das tarifas (tabelas 1 e 2) cobradas das empresas de navegação interior no R → aprovado o voto do relator (unânime após vista)
+  - votos: Frederico: acompanha; Flávia: revisor_acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=1781s)
+- **RD 603 (2026-02-24)**, 5 · relator **Lima Filho** · Fiscalização extraordinária na Portos RS e pleito de suspensão/abatimento das tarifas (tabelas 1 e 2) cobradas das empresas de navegação interior no R → aprovado o voto do relator (unânime após vista)
+  - votos: Frederico: acompanha; Flávia: revisor_acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=1781s)
+- **RD 603 (2026-02-24)**, 9 · relator **Lima Filho** · Fiscalização extraordinária na Portos RS e pleito de suspensão/abatimento das tarifas (tabelas 1 e 2) cobradas das empresas de navegação interior no R → aprovado o voto do relator (unânime após vista)
+  - votos: Frederico: acompanha; Flávia: revisor_acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=1781s)
+- **RD 603 (2026-02-24)**, 11 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 314/2025 (titularidade de licenças ambientais e coabilitação ao REIDI por terceiros possuidores diretos den → recurso parcialmente provido (sem divergência)
+  - votos: Frederico: acompanha; Flávia: revisor_acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=4027s)
+- **RD 603 (2026-02-24)**, 16 · relator **Flávia Takafashi** · Pedido de supressão do mecanismo de preço-teto (magnesita, fertilizante, minério de cobre) do contrato de arrendamento 2/2021, com novo estudo concorr → pedido de vista de Alber Vasconcelos — sem deliberação; voto da relatora registrado
+  - votos: Flávia: relator; Alber: vista · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=6121s)
+- **RD 603 (2026-02-24)**, 18 · relator **Flávia Takafashi** · Perda de objeto do TAC autorizado pelo Acórdão 621/2025 (exploração de área molhada sem contrato no porto organizado do Rio Grande), após a Portaria M → aprovado (sem divergência)
+  - votos: Frederico: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=7386s)
+- **RD 603 (2026-02-24)**, 20 · relator **Flávia Takafashi** · Recurso de reconsideração contra o Acórdão 382/2025, que reconhecera desequilíbrio de cerca de R$ 5,2 milhões em desfavor da arrendatária por investim → recurso provido (sem divergência)
+  - votos: Frederico: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=8685s)
+- **RD 603 (2026-02-24)**, 22 · relator **Lima Filho** · Alteração do início de vigência do reajuste tarifário homologado pela Deliberação DG 7/2026 de 23/01/2026 para 02/02/2026 → aprovado (sem divergência)
+  - votos: Frederico: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=9101s)
+- **RD 603 (2026-02-24)**, 23 · relator **Lima Filho** · Recomposição do equilíbrio do contrato de arrendamento 09/2002-EMAP (terminal de fertilizantes): expansão de cerca de 11 mil m² com armazém de 60 mil  → aprovado (sem divergência)
+  - votos: Frederico: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=9364s)
+- **RD 603 (2026-02-24)**, 25 · relator **Lima Filho** · Ação fiscalizadora extraordinária para atender o item 5-A do Acórdão 482/2021 (débitos remanescentes de compromissos de movimentação mínima de carga) → aprovado (sem divergência)
+  - votos: Frederico: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=10185s)
+- **RD 603 (2026-02-24)**, 26 · relator **Lima Filho** · Denúncia com pedido de medida cautelar sobre contratação e execução de fretamento de helicóptero pela EMAP (contratos 065/2023 e 065/2024 com a Emar T → aprovado (sem divergência): cautelar indeferida; dispositivo 3 substituído por sugestão de
+  - votos: Frederico: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=10473s)
+- **RD 603 (2026-02-24)**, 28 · relator **Alber Vasconcelos** · Ações fiscalizadoras (PAF 2023 e 2025): descumprimento de investimentos na área A9 (pavimentação, drenagem e iluminação) do arrendamento de 2006 e 2º  → aprovado (sem divergência): autos de infração subsistentes, multa de R$ 259.200
+  - votos: Frederico: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=11627s)
+- **RD 603 (2026-02-24)**, 30 · relator **Alber Vasconcelos** · Ações fiscalizadoras (PAF 2023 e 2025): descumprimento de investimentos na área A9 (pavimentação, drenagem e iluminação) do arrendamento de 2006 e 2º  → aprovado (sem divergência): autos de infração subsistentes, multa de R$ 259.200
+  - votos: Frederico: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=11627s)
+- **RD 603 (2026-02-24)**, 33 · relator **Alber Vasconcelos** · Recomposição do equilíbrio do contrato de arrendamento 12/2000 pela manutenção definitiva da área da fase 2 (28.159 m²) em troca da antecipação dos in → aprovado (sem divergência)
+  - votos: Frederico: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=12584s)
+- **RD 603 (2026-02-24)**, 39 · relator **Caio Farias** · Manifestação à SNP sobre pedido de medida cautelar administrativa da Ultracargo para suspender investimentos mínimos, pagamento da última parcela da o → aprovado (sem divergência)
+  - votos: Frederico: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=14598s)
+- **RD 605 (2026-03-24)**, 3 · relator **Alber Vasconcelos** · Análise de mérito da medida cautelar do Acórdão 515/2025 (restabeleceu o item 11.7.2 do REP do porto de Vila do Conde: prioridade de atracação/desatra → aprovado por unanimidade
+  - votos: Alber: relator; Frederico: acompanha; Caio: acompanha; Lima: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=1647s)
+- **RD 605 (2026-03-24)**, 6 · relator **Cristina Castro** · Referendo da Deliberação DG 15/2026: diferimento por 30 dias da aplicação da nova estrutura tarifária da revisão extraordinária (Acórdão 827/2025) → referendado por unanimidade
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=4500s)
+- **RD 605 (2026-03-24)**, 8 · relator **Flávia Takafashi** · Recurso de reconsideração contra o Acórdão 3/2025 (consulta regulatória): desconto de 50% dos itens 5 e 6 da Tabela 1 (INFRAMAR) em operações sucessiv → recurso provido por maioria (4 x 1), vencida a relatora Flávia Takafashi; prevalece o voto
+  - votos: Flávia: relator; Alber: revisor_diverge; Caio: revisor_diverge; Lima: revisor_acompanha; Frederico: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=4848s)
+- **RD 605 (2026-03-24)**, 9 · relator **Flávia Takafashi** · Recurso de reconsideração contra o Acórdão 3/2025 (consulta regulatória): desconto de 50% dos itens 5 e 6 da Tabela 1 (INFRAMAR) em operações sucessiv → recurso provido por maioria (4 x 1), vencida a relatora Flávia Takafashi; prevalece o voto
+  - votos: Flávia: relator; Alber: revisor_diverge; Caio: revisor_diverge; Lima: revisor_acompanha; Frederico: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=4848s)
+- **RD 605 (2026-03-24)**, 10 · relator **Flávia Takafashi** · Pedido de supressão do mecanismo de preço-teto (price cap, cláusula 10.1) para magnesita, com base na cláusula 10.3 (ambiente concorrencial competitiv → pedido acolhido por maioria (4 x 1), vencida a relatora: preço-teto suspenso por 2 anos co
+  - votos: Flávia: relator; Alber: revisor_diverge; Frederico: revisor_acompanha; Lima: revisor_acompanha; Caio: revisor_diverge · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=5536s)
+- **RD 605 (2026-03-24)**, 14/15 · relator **Lima Filho** · Julgamento de auto de infração (0067768) da Gerência Regional de Santos: suposto atraso na entrega do projeto executivo (cláusula 5.4.2 do 8º termo ad → aprovado por unanimidade (auto insubsistente)
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=8399s)
+- **RD 605 (2026-03-24)**, 21 · relator **Alber Vasconcelos** · Recursos de reconsideração contra o item 5.5 do Acórdão 605/2025 (recomendação de reclassificar a área BEL11 como operacional no PDZ do porto de Belém → recursos providos por unanimidade
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=10947s)
+- **RD 605 (2026-03-24)**, 22 · relator **Alber Vasconcelos** · Recursos de reconsideração contra o item 5.5 do Acórdão 605/2025 (recomendação de reclassificar a área BEL11 como operacional no PDZ do porto de Belém → recursos providos por unanimidade
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=10947s)
+- **RD 605 (2026-03-24)**, 25 · relator **Caio Farias** · Transferência de titularidade de contrato de arrendamento → aprovado por unanimidade
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=11751s)
+- **RD 605 (2026-03-24)**, 30 · relator **Cristina Castro** · Minutas de edital e contrato de arrendamento simplificado SSDA3 (carga geral não conteinerizada: químicos inorgânicos e fertilizantes ensacados; 10 an → aprovado por unanimidade
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=13529s)
+- **RD 605 (2026-03-24)**, 31 · relator **Cristina Castro** · Abertura de audiência e consulta públicas do arrendamento MUC05 (granéis sólidos minerais: coque de petróleo e clínquer; 25 anos) → aprovado por unanimidade
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=13781s)
+- **RD 607 (2026-04-23)**, 9 · relator **Lima Filho** · Auto de infração contra a Portos RS por permitir uso da área RIG20 (não operacional no PDZ) do porto organizado de Rio Grande para armazenagem e movim → aprovado por unanimidade
+  - votos: Frederico: acompanha; Lima: relator; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=161s)
+- **RD 607 (2026-04-23)**, 1 · relator **Frederico Dias** · Reabertura de audiência e consulta pública sobre documentos do arrendamento da área VDC04 (granéis sólidos minerais / fertilizantes), após alterações  → aprovado por unanimidade
+  - votos: Frederico: relator; Lima: acompanha; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=1890s)
+- **RD 607 (2026-04-23)**, 2 · relator **Frederico Dias** · Encerramento da audiência pública 18/2021 do arrendamento STS53 (granéis sólidos minerais, Santos) e devolução ao poder concedente → aprovado por unanimidade
+  - votos: Frederico: relator; Lima: acompanha; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=2143s)
+- **RD 607 (2026-04-23)**, 10 · relator **Lima Filho** · Reequilíbrio econômico-financeiro do contrato de arrendamento 42/2021 (Paranaguá) por obras de adequação do Gate 16, fora da área arrendada → pedido de vista (Alber Vasconcelos); voto do relator registrado como antecipado
+  - votos: Lima: relator; Alber: vista; Frederico: revisor_acompanha; Cristina: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=4710s)
+- **RD 607 (2026-04-23)**, 13 · relator **Alber Vasconcelos** · Denúncias com pedido cautelar contra deliberações DIREX 2780 e 2786 da Portos Rio, que restringiram/reservaram à Triunfo a movimentação de produtos si → aprovado por unanimidade
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: relator; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=6313s)
+- **RD 607 (2026-04-23)**, 14 · relator **Alber Vasconcelos** · Denúncias com pedido cautelar contra deliberações DIREX 2780 e 2786 da Portos Rio, que restringiram/reservaram à Triunfo a movimentação de produtos si → aprovado por unanimidade
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: relator; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=6313s)
+- **RD 607 (2026-04-23)**, 18 · relator **Alber Vasconcelos** · Auto de infração 7094-7 contra a CDP por permitir que a SuperGasBras explorasse a área do extinto contrato de arrendamento 2/1999 sem instrumento cont → aprovado por unanimidade
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: relator; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=7864s)
+- **RD 607 (2026-04-23)**, 20 · relator **Alber Vasconcelos** · Redução da garantia de execução do contrato de arrendamento 1/2020 (porto de Santos) → aprovado por unanimidade
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: relator; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=8808s)
+- **RD 611 (2026-06-11)**, 18 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 178/2026 (que validou o 1º termo aditivo ao contrato de exploração de instalação portuária 082/2022 entre V → provido por unanimidade (julgamento suspenso de manhã e retomado no fim da sessão); 1º adi
+  - votos: Lima: relator; Alber: acompanha; Frederico: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=1255s)
+- **RD 611 (2026-06-11)**, 4 · relator **Frederico Dias** · Referendo da Deliberação DG 37/2026: prorrogação até 3/7/2026 do prazo de contribuições da Audiência Pública 4/2026 (documentos da licitação da área V → referendado
+  - votos: Frederico: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=6512s)
+- **RD 611 (2026-06-11)**, 5 · relator **Frederico Dias** · Referendo da Deliberação DG 31/2026: 1º termo aditivo ao convênio de delegação 002/2001 do Porto Organizado do Recife (prorrogação por 5 anos a partir → referendado
+  - votos: Frederico: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=6600s)
+- **RD 611 (2026-06-11)**, 6 · relator **Caio Farias** · Referendo da Deliberação DG 30/2026: cautelar (pedido subsidiário) suspendendo subitens 3 e 5 do item 5.4.1 e item 8.5 da instrução normativa da Porto → referendado
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=6740s)
+- **RD 611 (2026-06-11)**, 7 · relator **Caio Farias** · Referendo da Deliberação DG 36/2026: nova autorização especial e emergencial por até 180 dias para continuidade da exploração de área do contrato de a → referendado
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=6949s)
+- **RD 611 (2026-06-11)**, 11 · relator **Lima Filho** · Retorno de vista: EVTEA das obras de adequação do Gate 16 (fora da área arrendada) no contrato de arrendamento 42/2021, Porto de Paranaguá; reequilíbr → aprovado por unanimidade (proposta única, após o relator retirar do dispositivo o ponto qu
+  - votos: Lima: relator; Frederico: acompanha; Alber: revisor_acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=7316s)
+- **RD 611 (2026-06-11)**, 13 · relator **Lima Filho** · Recurso de reconsideração da APS contra o Acórdão 804/2025 (suspendeu os efeitos do contrato de transição 18/2025 da área STS29 até cumprimento de det → conhecido; perda parcial de objeto quanto à suspensão; no restante, negado provimento (apr
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=8981s)
+- **RD 611 (2026-06-11)**, 14 · relator **Lima Filho** · Embargos de declaração (itens 14, 15 e 16 em bloco) contra os Acórdãos 714/2023 e 715/2023 sobre os pátios de triagem obrigatórios fora do porto de Su → aprovado: embargos das operadoras providos (com efeitos infringentes) e da associação desp
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=9216s)
+- **RD 611 (2026-06-11)**, 15 · relator **Lima Filho** · Embargos de declaração (itens 14, 15 e 16 em bloco) contra os Acórdãos 714/2023 e 715/2023 sobre os pátios de triagem obrigatórios fora do porto de Su → aprovado: embargos das operadoras providos (com efeitos infringentes) e da associação desp
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=9216s)
+- **RD 611 (2026-06-11)**, 16 · relator **Lima Filho** · Embargos de declaração (itens 14, 15 e 16 em bloco) contra os Acórdãos 714/2023 e 715/2023 sobre os pátios de triagem obrigatórios fora do porto de Su → aprovado: embargos das operadoras providos (com efeitos infringentes) e da associação desp
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=9216s)
+- **RD 611 (2026-06-11)**, 19 · relator **Lima Filho** · Recurso de reconsideração da APS contra o Acórdão 523/2025: validação de investimentos urgentes e não amortizados e metodologia de depreciação para ev → provido (aprovado)
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=10635s)
+- **RD 611 (2026-06-11)**, 21 · relator **Lima Filho** · Embargos de declaração contra o Acórdão 729/2025 (processos seletivos simplificados 01/2025 e 02/2025 do Porto de Santos: perfil de carga, preferência → conhecidos; mérito prejudicado por perda superveniente de objeto (aprovado)
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=11208s)
+- **RD 611 (2026-06-11)**, 22 · relator **Lima Filho** · Recomposição do equilíbrio econômico-financeiro do contrato de arrendamento 01/2024: aquisição de ativos não reversíveis da antiga operadora acima do  → aprovado; sigilo dos autos mantido
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=11501s)
+- **RD 611 (2026-06-11)**, 43 · relator **Alber Vasconcelos** · Ofício 184/2026 da SNP: análise do estudo de viabilidade para o termo aditivo de autocomposição APS-Movecta (prazo de amortização de investimentos de  → aprovado
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=13928s)
+- **RD 611 (2026-06-11)**, 28 · relator **Caio Farias** · Contrato de transição para exploração do Pátio 09 (6.032 m², produtos siderúrgicos) enquanto se conclui a substituição de área do contrato de arrendam → aprovado
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=15120s)
+- **RD 611 (2026-06-11)**, 32 · relator **Cristina Castro** · Recurso de reconsideração (itens 32 e 33 em bloco) contra o Acórdão 805/2025, que suspendeu o contrato de transição 17/2025 do processo seletivo simpl → recurso prejudicado por perda superveniente de objeto (aprovado)
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=16119s)
+- **RD 611 (2026-06-11)**, 33 · relator **Cristina Castro** · Recurso de reconsideração (itens 32 e 33 em bloco) contra o Acórdão 805/2025, que suspendeu o contrato de transição 17/2025 do processo seletivo simpl → recurso prejudicado por perda superveniente de objeto (aprovado)
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=16119s)
+- **RD 614 (2026-08-20)**, 22 · relator **Caio Farias** · Autorização para a APPA celebrar termo aditivo ao contrato de passagem 79/2013 (FTS), com nova projeção de 1.565 m² para interligar às esteiras dos be → aprovado (sem divergência registrada)
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=1477s)
+- **RD 614 (2026-08-20)**, 11 · relator **Lima Filho** · Minutas de edital e contrato do arrendamento VDC29 (granéis sólidos vegetais) no porto organizado de Vila do Conde/PA, leilão com apoio da B3 → pedido de vista (Alber Vasconcelos) após leitura do voto do relator
+  - votos: Lima: relator; Alber: vista · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=6740s)
+- **RD 614 (2026-08-20)**, 25 · relator **Caio Farias** · Consulta sobre necessidade de anuência da ANTAQ para acordo de cooperação técnica entre EMAP e PRF (convênio de delegação 16/2000) → aprovado (sem divergência registrada)
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=9217s)
+- **RD 614 (2026-08-20)**, 27 · relator **Caio Farias** · Transferência indireta de controle societário de titular dos contratos de adesão 16/2014 e 19/2014 e do contrato de arrendamento 1/2020 → aprovado (sem divergência registrada)
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=9533s)
+- **RD 614 (2026-08-20)**, 33 · relator **Cristina Castro** · Recurso de reconsideração contra o Acórdão 112/2026 (cautelar negada para suspender contrato de transição entre APS e Comportos no porto de Santos) → aprovado (sem divergência registrada): recurso desprovido
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=11014s)
+- **RD 614 (2026-08-20)**, 35 · relator **Cristina Castro** · Análise do EVTEA da prorrogação antecipada do arrendamento do TGG (Santos) por 25 anos, com investimentos no terminal e 60% da 2ª fase da Avenida Peri → aprovado (sem divergência registrada)
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=11885s)
+- **RD 614 (2026-08-20)**, 36 · relator **Cristina Castro** · Análise do EVTEA da prorrogação antecipada do arrendamento da Termag (Santos) por 25 anos, com investimentos e 40% da 2ª fase da Avenida Perimetral da → aprovado (sem divergência registrada)
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=12490s)
+- **RD 616 (2026-08-21)**, pauta 15 · relator **Alber Vasconcelos** · Revisão tarifária extraordinária do Porto de Areia Branca (Porto-Ilha/TERMISA) motivada pelo Acórdão 843/2025; pedido de reajuste linear de 21,23% (IP → retirado de pauta pelo relator após a sustentação oral; compromisso de pautar na reunião s
+  - votos: Alber: relator · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=1340s)
+- **RD 616 (2026-08-21)**, pauta 18 · relator **Alber Vasconcelos** · Pedido de desincorporação, baixa e alienação por leilão de 10 tanques de combustível inservíveis (antiga base da Petrobras, área PDZ 1A) no Porto Orga → aprovado, sem divergência registrada (com item acrescido pelo relator em sessão)
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=2237s)
+- **RD 616 (2026-08-21)**, pauta 20 · relator **Alber Vasconcelos** · Mérito da denúncia da Abratec contra o procedimento licitatório 1/2025 da APS (cessão onerosa por 20 anos de ~242 mil m² na margem direita de Santos p → aprovado, sem divergência registrada: denúncia parcialmente provida, sem nulidade do certa
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=3482s)
+- **RD 616 (2026-08-21)**, pauta 2 · relator **Lima Filho** · Pedido de vista (RD 614): aprovação das minutas de edital e contrato do arrendamento VDC29 (granéis sólidos vegetais) no Porto de Vila do Conde → aprovada proposta conciliatória do Diretor-Geral (oitiva do MPor, sem prazo), por consenso
+  - votos: Lima: relator; Alber: revisor_diverge; Frederico: outro; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=5991s)
+- **RD 616 (2026-08-21)**, pauta 16 · relator **Alber Vasconcelos** · Abertura de consulta e audiência pública do arrendamento SUA08 (50 mil m², carga geral e conteinerizada, 25 anos, retroárea) em Suape → aprovado, sem divergência registrada
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=12271s)
+- **RD 616 (2026-08-21)**, pauta 17 · relator **Alber Vasconcelos** · Aprovação da publicação do edital do arrendamento IQ16 (fertilizantes, 20 mil m², brownfield ex-CONAB) no Porto do Itaqui (MA), após Acórdão ANTAQ 637 → aprovado, sem divergência registrada
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=12496s)
+- **RD 616 (2026-08-21)**, pauta 19 · relator **Alber Vasconcelos** · Alteração do contrato de arrendamento MAC10: troca do projeto de ácido sulfúrico por combustíveis, incorporação da área AA05 (7.932 para ~25 mil m²) e → aprovado, sem divergência registrada
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=13389s)
+- **RD 616 (2026-08-21)**, pauta 21 · relator **Caio Farias** · Reconhecimento de passivo ambiental não conhecido: destinação dos sedimentos a dragar no berço TGS2 em aterro classe I exigida pelo órgão ambiental es → aprovado, sem divergência registrada
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=14036s)
+- **RD 616 (2026-08-21)**, pauta 22 · relator **Caio Farias** · Prorrogação do contrato de arrendamento 3/2021 para reequilíbrio por novos investimentos (5 silos, 240 mil t de capacidade estática) e passivo ambient → aprovado, sem divergência registrada
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=14472s)
+- **RD 616 (2026-08-21)**, pauta (nº não dito) — ABTL/Codeba · relator **Cristina Castro** · Denúncia com pedido cautelar para suspender o adicional tarifário de 35% sobre granéis líquidos classificados como agentes nocivos no Porto de Aratu ( → aprovado, sem divergência: cautelar indeferida; mérito à SRG no âmbito da revisão tarifári
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=15880s)
+- **RD 619 (2026-09-24)**, 11 · relator **Lima Filho** · Aprovação das minutas de edital e contrato do leilão de arrendamento VDC29 (granéis sólidos vegetais) após oitiva do MPor determinada no Acórdão 485/2 → pedido de vista de Alber Vasconcelos concedido; julgamento adiado
+  - votos: Lima: relator; Alber: vista; Frederico: acompanha; Caio: outro; Alexandre: outro · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=5241s)
+- **RD 619 (2026-09-24)**, 21 · relator **Alber Vasconcelos** · Aprovação do relatório consolidado da fiscalização temática Diagnóstico do Desempenho das Autoridades Portuárias (SFC; Acórdão 57/2025) e envio ao MPo → aprovado
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=9381s)
+- **RD 619 (2026-09-24)**, 22 · relator **Alber Vasconcelos** · Revisão tarifária extraordinária da Tabela I do Porto de Areia Branca (Acórdão 843/2025); CODERN pedia reajuste de 21,23% (IPCA) → aprovado: revisão conhecida e sobrestada até o reequilíbrio do contrato de arrendamento 9/
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=10433s)
+- **RD 619 (2026-09-24)**, 31 · relator **Caio Farias** · Embargos de declaração contra o Acórdão 484/2026 (que negou reconsideração; regime de preço-teto contratual suspenso) → embargos conhecidos e rejeitados (aprovado)
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=13927s)
+- **RD 619 (2026-09-24)**, 34 · relator **Alexandre Florambel** · Cumprimento do Acórdão 2206/2026-TCU-Plenário: recálculo do VPL do reequilíbrio do Acórdão 9/2024 (VPL negativo de cerca de R$ 11,6 milhões passa a ce → aprovado
+  - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=14771s)
+- **RD 621 (2026-10-27)**, 6 · relator **Lima Filho** · Procedimento licitatório do arrendamento VDC29 → não deliberado: vista renovada pelo revisor Alber Vasconcelos
+  - votos: Lima: relator; Alber: revisor_diverge · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=960s)
+- **RD 621 (2026-10-27)**, 3 · relator **Alexandre Florambel** · Consulta sobre adequar o prazo do contrato de transição 17/2025 (180 dias, edital do processo simplificado 1/2025, sob a Resolução 7) ao prazo de 12 m → aprovado por unanimidade, com ajuste do dispositivo sugerido por Caio Farias e acolhido pe
+  - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=1225s)
+- **RD 621 (2026-10-27)**, R-DG75 · relator **Alexandre Florambel** · Referendo da Deliberação DG 75/2026: segunda prorrogação (60 dias) do prazo para celebrar o contrato de outorga verde no sandbox regulatório → aprovado por unanimidade (votação simbólica)
+  - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=2294s)
+- **RD 621 (2026-10-27)**, 11 · relator **Lima Filho** · Reestruturação e reajuste tarifário do porto organizado de São Sebastião (IPCA de 9,43% maio/2024–março/2026 nas tabelas 1, 2, 7, 8 e 9) → aprovado por unanimidade (votação simbólica)
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=3901s)
+- **RD 621 (2026-10-27)**, 12 · relator **Lima Filho** · Alteração do cronograma de implantação da área BEL08 (contrato de arrendamento 13/2019, grafia incerta) → aprovado por unanimidade (votação simbólica)
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=4220s)
+- **RD 621 (2026-10-27)**, 15 · relator **Lima Filho** · Conversão da obrigação de instalar espaçadores metálicos no berço 209 em obrigação pecuniária (5º aditivo ao arrendamento 115/2002, grafia incerta) → aprovado por unanimidade (votação simbólica)
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=4960s)
+- **RD 621 (2026-10-27)**, 16 · relator **Lima Filho** · Publicação do edital de arrendamento do terminal de contêineres MUC04 (leilão em 9/12/2026 na B3) → aprovado por unanimidade (votação simbólica)
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=5385s)
+- **RD 621 (2026-10-27)**, 18 · relator **Alber Vasconcelos** · Autorização para contrato de passagem (10 linhas de dutos, 73 m², 35 anos) ligando o TUP Cattalini ao píer privado dentro da poligonal → aprovado por unanimidade (votação simbólica)
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=6532s)
+- **RD 621 (2026-10-27)**, 19 · relator **Alber Vasconcelos** · Agenda EVTEA 2.0: modernização do estudo de viabilidade técnica, econômica e ambiental de arrendamentos (catálogo de parâmetros, controle por performa → aprovado por unanimidade, com prazo ajustado para 90 dias
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=6938s)
+- **RD 621 (2026-10-27)**, 27 · relator **Alexandre Florambel** · Acompanhamento do TAC 3/2023 (certificado do Corpo de Bombeiros): nulidades e saneamento processual → aprovado por unanimidade (votação simbólica)
+  - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=9762s)
+- **RD 621 (2026-10-27)**, 29 · relator **Alexandre Florambel** · Abertura de consulta e audiência pública para arrendamento MUC03 (granéis minerais/fertilizantes ligados ao Projeto Santa Quitéria) → aprovado por unanimidade (votação simbólica)
+  - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=11101s)
+- **RD 621 (2026-10-27)**, 31 · relator **Alexandre Florambel** · Abertura de consulta e audiência pública para arrendamento RDJ10 (carga geral não conteinerizada, tubos de aço), remodelado após o Acórdão TCU 959/202 → aprovado por unanimidade (votação simbólica)
+  - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=12219s)

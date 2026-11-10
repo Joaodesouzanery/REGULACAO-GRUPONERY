@@ -1,0 +1,478 @@
+# Itens do tema «outros» (todos os diretores)
+
+- **RD 454 (2018-12-20)**, 4 · relator **None** · Processo com vista de Adalberto Tokarski: prorrogação da vista → vista prorrogada
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=93s)
+- **RD 454 (2018-12-20)**, 5 · relator **Mário Povia** · Registro de instalação portuária de apoio (posto de revenda de combustível para embarcações) em Almeirim (PA) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=680s)
+- **RD 454 (2018-12-20)**, 6 · relator **Mário Povia** · Registro de instalação portuária de apoio (Porto Galo da Serra, Vila Buriti, Manaus) para carga geral (cimento) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=841s)
+- **RD 454 (2018-12-20)**, 7 · relator **Mário Povia** · Registro de instalação portuária de apoio (Porto do Posto São Benedito, Portel-PA) para revenda de combustíveis a embarcações → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=954s)
+- **RD 454 (2018-12-20)**, 21 · relator **Francisval Mendes** · Registro de instalação de apoio (Terminal Hidroviário de São Benedito, Santana-AP) para cargas e passageiros → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=8794s)
+- **RD 454 (2018-12-20)**, 22 · relator **Francisval Mendes** · Registro de instalação portuária (terminal pesqueiro) → aprovado por unanimidade (registro indeferido)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=9048s)
+- **RD 454 (2018-12-20)**, 41 · relator **Adalberto Tokarski** · Registro de instalação de apoio em Ananindeua (PA) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=13652s)
+- **RD 454 (2018-12-20)**, 43 · relator **Adalberto Tokarski** · Registro de instalação de apoio em Icoaraci, Belém (PA) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=13868s)
+- **RD 454 (2018-12-20)**, 44 · relator **Adalberto Tokarski** · Registro de instalação de apoio (trapiche em concreto) em Almeirim (PA) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=14047s)
+- **RD 454 (2018-12-20)**, 54 · relator **Adalberto Tokarski** · Referendo da Resolução 6597: desincorporação e leilão de guindaste de pórtico inservível no cais Navegantes, Porto de Porto Alegre → referendado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=16259s)
+- **RD 455 (2019-01-31)**, 2 · relator **Francisval Mendes** · Processo com pedido de vista do Diretor-Geral (assunto não lido) → vista prorrogada
+  - votos: Mário: vista; Francisval: relator; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=98s)
+- **RD 455 (2019-01-31)**, 34 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=3379s)
+- **RD 455 (2019-01-31)**, 35 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=3439s)
+- **RD 455 (2019-01-31)**, 36 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=3455s)
+- **RD 455 (2019-01-31)**, 37 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=3507s)
+- **RD 455 (2019-01-31)**, 38 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=3521s)
+- **RD 455 (2019-01-31)**, 39 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (bloco itens 39 e 40) → aprovado por unanimidade — indeferido
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=3550s)
+- **RD 455 (2019-01-31)**, 40 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (bloco itens 39 e 40) → aprovado por unanimidade — indeferido
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=3550s)
+- **RD 455 (2019-01-31)**, 41 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=3714s)
+- **RD 455 (2019-01-31)**, 52 · relator **Francisval Mendes** · Prorrogação de prazo para leilão de bens da União (Porto de Natal) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=5473s)
+- **RD 455 (2019-01-31)**, 55 · relator **Francisval Mendes** · Denúncia de infração à ordem econômica → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=5899s)
+- **RD 455 (2019-01-31)**, 56 · relator **Francisval Mendes** · Denúncia de infração à ordem econômica → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=5963s)
+- **RD 455 (2019-01-31)**, 70 · relator **Adalberto Tokarski** · Registro de instalação de apoio (Barcarena/PA) (bloco itens 63 a 67, 70 e 71) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=6727s)
+- **RD 455 (2019-01-31)**, 71 · relator **Adalberto Tokarski** · Registro de instalação de apoio (Benevides/PA) (bloco itens 63 a 67, 70 e 71) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=6727s)
+- **RD 455 (2019-01-31)**, 69 · relator **Adalberto Tokarski** · Desincorporação de bens da União (47 cilindros extintores) para doação → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=7480s)
+- **RD 455 (2019-01-31)**, 74 · relator **Adalberto Tokarski** · Registro de instalação portuária de apoio → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=8605s)
+- **RD 455 (2019-01-31)**, 78 · relator **Francisval Mendes** · Referendo de medida cautelar (Resolução 6421): suspensão de cobrança de mensalidade do OGMO-RJ → referendado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=9964s)
+- **RD 456 (2019-02-26)**, 2 · relator **Mário Povia** · Registro de instalação portuária (voto do relator já proferido) → vista renovada
+  - votos: Mário: relator; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=64s)
+- **RD 456 (2019-02-26)**, 6 · relator **Mário Povia** · Registro de instalação de apoio ao transporte aquaviário no bairro Volta Grande, Navegantes/SC → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=153s)
+- **RD 456 (2019-02-26)**, 17 · relator **Francisval Mendes** · Registro de instalação portuária; pedido de vista de Adalberto Tokarski → vista mantida
+  - votos: Francisval: revisor_acompanha; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=1638s)
+- **RD 456 (2019-02-26)**, 22 · relator **Francisval Mendes** · Autorização especial (art. 49 da Lei 10.233) para ancoragem de FSRU e testes de comissionamento, Barra dos Coqueiros/SE, por até 180 dias → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=2023s)
+- **RD 456 (2019-02-26)**, 26 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (julgamento conjunto dos itens 26, 28, 29 e 30) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=2704s)
+- **RD 456 (2019-02-26)**, 28 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (julgamento conjunto dos itens 26, 28, 29 e 30) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=2704s)
+- **RD 456 (2019-02-26)**, 29 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (julgamento conjunto dos itens 26, 28, 29 e 30) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=2704s)
+- **RD 456 (2019-02-26)**, 30 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (julgamento conjunto dos itens 26, 28, 29 e 30) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=2704s)
+- **RD 456 (2019-02-26)**, 31 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário; relator proferiu voto favorável e Francisval Mendes pediu vista → pedido de vista de Francisval Mendes
+  - votos: Adalberto: relator; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=2704s)
+- **RD 458 (2019-04-04)**, 36 · relator **Adalberto Tokarski** · Desincorporação física e contábil de escritório, cantina, subestação e posto fiscal/sanitário no porto de Santos (implantação de novos silos e área ad → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=7530s)
+- **RD 459 (2019-04-15)**, 39 · relator **Adalberto Tokarski** · Desincorporação de bens da União (bloco 38–40) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=6474s)
+- **RD 459 (2019-04-15)**, 40 · relator **Adalberto Tokarski** · Desincorporação de bens da União (bloco 38–40) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=6474s)
+- **RD 460 (2019-05-06)**, 10 · relator **Francisval Mendes** · Medida administrativa cautelar (pedido de vista de Adalberto Tokarski) → pedido de vista
+  - votos: Adalberto: vista; Francisval: relator; Mário: outro · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=2017s)
+- **RD 460 (2019-05-06)**, 38 · relator **Adalberto Tokarski** · Registro de instalação portuária de apoio ao transporte aquaviário em Belém (PA), dentro da poligonal do porto organizado → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=5904s)
+- **RD 461 (2019-05-20)**, 43 · relator **Adalberto Tokarski** · Autorização especial e emergencial para instalação portuária de turismo (píer do centro) — extinção por perda de objeto, já deferido o registro (Res.  → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=8690s)
+- **RD 461 (2019-05-20)**, 59 · relator **Adalberto Tokarski** · Registro de instalação portuária → pedido de vista do Diretor-Geral; relator aguarda
+  - votos: Mário: vista; Adalberto: relator; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=10315s)
+- **RD 462 (2019-05-30)**, 33 · relator **Adalberto Tokarski** · Registro de instalação portuária de apoio ao transporte aquaviário (Porto Leão do Marajó), RN 3 → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=9034s)
+- **RD 465 (2019-08-22)**, 89 · relator **Francisval Mendes** · Nova autorização em caráter especial (180 dias) para ancoragem da FSRU e testes de comissionamento em instalação de apoio na Barra dos Coqueiros (SE) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=5953s)
+- **RD 466 (2019-09-27)**, 76 · relator **Francisval Mendes** · Contrato de transição do Porto de Maceió (vista de Adalberto Tokarski pendente) → vista de Adalberto Tokarski mantida; voto proferido posteriormente
+  - votos: Adalberto: vista; Francisval: relator; Mário: outro · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=3213s)
+- **RD 466 (2019-09-27)**, 101 · relator **Adalberto Tokarski** · Consulta administrativo-regulatória → pedido de vista; relator não proferiu voto
+  - votos: Mário: vista; Adalberto: relator; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=8935s)
+- **RD 467 (2019-10-21)**, 39 · relator **Francisval Mendes** · Registro de instalação portuária → adiado (vista de Adalberto Tokarski; relator votará depois)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=6591s)
+- **RD 467 (2019-10-21)**, 56 · relator **Adalberto Tokarski** · Registro de instalação de apoio (julgado em bloco com o item 61) → aprovado por unanimidade nos termos do voto do relator (bloco)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=10200s)
+- **RD 467 (2019-10-21)**, 61 · relator **Adalberto Tokarski** · Registro de instalação de apoio (julgado em bloco com Promap) → aprovado por unanimidade nos termos do voto do relator (bloco)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=10200s)
+- **RD 467 (2019-10-21)**, 68 · relator **Francisval Mendes** · Referendo da Resolução 7268: contrato de transição de 180 dias no Porto de Santos → referendado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=12825s)
+- **RD 468 (2019-11-08)**, 5 · relator **Adalberto Tokarski** · Contrato de transição para exploração de área de cerca de 28 mil m² no terminal petroquímico de Miramar (porto organizado de Belém) → aprovado por maioria nos termos do relator; vencido Mário Povia
+  - votos: Adalberto: relator; Francisval: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=1425s)
+- **RD 468 (2019-11-08)**, 23 · relator **Mário Povia** · Registro de instalação de apoio (construção e reparação naval) — RN 13; documentação insuficiente (cessão de espaço em águas públicas, regularidade fi → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=3620s)
+- **RD 468 (2019-11-08)**, 30 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário de cargas (RN 13, art. 2º, V) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=4306s)
+- **RD 468 (2019-11-08)**, 35 · relator **Francisval Mendes** · Consulta sobre instrumento para instalação de sistema de fundeio (boias de amarração) por operador portuário para transbordo de granel agrícola no por → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=5076s)
+- **RD 470 (2019-12-12)**, 1 · relator **None** · Processo em vista (item 1 da pauta), não lido na sessão → vista renovada (Adalberto Tokarski); não deliberado
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=52s)
+- **RD 470 (2019-12-12)**, 2 · relator **None** · Processo em vista (item 2 da pauta), não lido na sessão → vista renovada (Adalberto Tokarski); não deliberado
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=52s)
+- **RD 470 (2019-12-12)**, 8 · relator **None** · Processo em vista (item 8 da pauta), não lido → vista renovada (Adalberto Tokarski); não deliberado
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=2283s)
+- **RD 470 (2019-12-12)**, 9 · relator **None** · Processo em vista (item 9 da pauta), não lido → vista renovada (Adalberto Tokarski); não deliberado
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=2283s)
+- **RD 470 (2019-12-12)**, 45 · relator **Adalberto Tokarski** · Análise prévia de cessão onerosa de área não afeta à operação portuária para processamento de pescados no Porto de Fortaleza (Mucuripe) → aprovado por unanimidade nos termos do voto condutor
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=11440s)
+- **RD 470 (2019-12-12)**, 46 · relator **Adalberto Tokarski** · Análise prévia de cessão onerosa de área não operacional no Porto de Fortaleza para apoio às obras do VLT Parangaba-Mucuripe → aprovado por unanimidade nos termos do voto condutor
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=11640s)
+- **RD 471 (2019-12-20)**, 1 · relator **None** · Item 1 da pauta com pedido de vista de Francisval Mendes, renovado (processo e assunto não lidos na sessão) → pedido de vista renovado (Francisval Mendes)
+  - votos: Francisval: vista · [vídeo](https://www.youtube.com/watch?v=P_LIYIJGp8I&t=40s)
+- **RD 471 (2019-12-20)**, 2 · relator **None** · Item 2 da pauta com pedido de vista de Adalberto Tokarski, renovado (processo e assunto não lidos na sessão) → pedido de vista renovado (Adalberto Tokarski)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=P_LIYIJGp8I&t=40s)
+- **RD 471 (2019-12-20)**, 3 · relator **None** · Item 3 da pauta com pedido de vista de Adalberto Tokarski, renovado (processo e assunto não lidos na sessão) → pedido de vista renovado (Adalberto Tokarski)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=P_LIYIJGp8I&t=40s)
+- **RD 471 (2019-12-20)**, 4 · relator **None** · Item 4 da pauta com pedido de vista de Adalberto Tokarski, renovado (processo e assunto não lidos na sessão) → pedido de vista renovado (Adalberto Tokarski)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=P_LIYIJGp8I&t=40s)
+- **RD 472 (2020-02-10)**, 3 · relator **None** · Processo com pedido de vista de Adalberto Tokarski (vista prorrogada) → vista prorrogada
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=178s)
+- **RD 472 (2020-02-10)**, 4 · relator **None** · Processo com pedido de vista de Adalberto Tokarski (vista prorrogada) → vista prorrogada
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=178s)
+- **RD 472 (2020-02-10)**, 5 · relator **None** · Processo com pedido de vista de Adalberto Tokarski (vista prorrogada) → vista prorrogada
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=178s)
+- **RD 472 (2020-02-10)**, 19 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (RN 13) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=3215s)
+- **RD 472 (2020-02-10)**, 31 · relator **Francisval Mendes** · Consulta sobre instrumento contratual para FSRU de GNL no porto de Itaguaí → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=7545s)
+- **RD 473 (2020-02-10)**, 21 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (IP4) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=8309s)
+- **RD 472 (2020-02-10)**, 38 · relator **Adalberto Tokarski** · Registro de instalação de apoio (Juruti/PA) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=9126s)
+- **RD 473 (2020-02-10)**, 33 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (art. 2º, V, RN 13) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=9379s)
+- **RD 473 (2020-02-10)**, 34 · relator **Adalberto Tokarski** · Registro de instalação portuária (enquadramento corrigido para o inciso II do art. 2º da RN 13 — construção e reparação naval) → aprovado por unanimidade, com correção do enquadramento para o inciso II
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=9472s)
+- **RD 474 (2020-03-06)**, 3 · relator **Mário Povia** · Registro de instalação de apoio ao transporte aquaviário → aprovado — registro indeferido nos termos do voto do relator
+  - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=435s)
+- **RD 474 (2020-03-06)**, 13 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário → aprovado por unanimidade — registro indeferido
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=3010s)
+- **RD 474 (2020-03-06)**, 32 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário → aprovado por unanimidade — registro indeferido
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=8117s)
+- **RD 474 (2020-03-06)**, 35 · relator **Adalberto Tokarski** · Pedido de ampliação de instalação (armazenagem ligada ao porto por dutovias) → aprovado por unanimidade — ANTAQ declara falta de competência e envia ofícios à Vopak, ao 
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=8624s)
+- **RD 477 (2020-05-10)**, 18 · relator **Adalberto Tokarski** · Convênio de delegação do porto organizado de Manaus à SNPH (2019) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=5352s)
+- **RD 479 (2020-06-09)**, 3 · relator **None** · Registro de instalação portuária → vista renovada (Adalberto Tokarski)
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=653s)
+- **RD 479 (2020-06-09)**, 17 · relator **Francisval Mendes** · Contratação de mão de obra portuária fora do sistema OGMO (julgados em bloco itens 17 a 22) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=3910s)
+- **RD 479 (2020-06-09)**, 18 · relator **Francisval Mendes** · Contratação de mão de obra portuária fora do sistema OGMO (julgados em bloco itens 17 a 22) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=3910s)
+- **RD 479 (2020-06-09)**, 19 · relator **Francisval Mendes** · Contratação de mão de obra portuária fora do sistema OGMO (julgados em bloco itens 17 a 22) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=3910s)
+- **RD 479 (2020-06-09)**, 20 · relator **Francisval Mendes** · Contratação de mão de obra portuária fora do sistema OGMO (julgados em bloco itens 17 a 22) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=3910s)
+- **RD 479 (2020-06-09)**, 21 · relator **Francisval Mendes** · Contratação de mão de obra portuária fora do sistema OGMO (julgados em bloco itens 17 a 22) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=3910s)
+- **RD 479 (2020-06-09)**, 22 · relator **Francisval Mendes** · Contratação de mão de obra portuária fora do sistema OGMO (julgados em bloco itens 17 a 22) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=3910s)
+- **RD 479 (2020-06-09)**, 43 · relator **Gabriela Costa** · Representação contra o Processo Seletivo Simplificado 1/2019 (contratos de transição no Porto de Santos) → voto da relatora proferido; processo vai à vista de Adalberto Tokarski
+  - votos: Gabriela: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=9547s)
+- **RD 483 (2020-08-10)**, 66 (extrapauta) · relator **Francisval Mendes** · Medida cautelar para suspensão parcial de contrato de transição → pedido de vista (Tokarski); relator não leu o voto
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=20194s)
+- **RD 485 (2020-08-27)**, 13 · relator **Francisval Mendes** · Medida cautelar para suspensão parcial de contrato de transição → vista de Adalberto Tokarski suspensa (processo em diligência)
+  - votos: Francisval: relator; Adalberto: outro; Joelson: outro · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=4265s)
+- **RD 485 (2020-08-27)**, 21 · relator **Francisval Mendes** · Consulta acerca de instrumento contratual → não deliberado: vista de Joelson Miranda; relator aguarda e não profere o voto
+  - votos: Joelson: vista; Francisval: relator; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=9105s)
+- **RD 490 (2020-12-08)**, 12-17 · relator **None** · Itens 12 a 17 da pauta com vista de Adalberto Tokarski → vista renovada (Adalberto Tokarski)
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=3854s)
+- **RD 490 (2020-12-08)**, 22 · relator **Eduardo Nery** · Registro de instalação portuária de apoio ao transporte aquaviário (movimentação de combustível) no Rio Negro → aprovado por unanimidade
+  - votos: Eduardo: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=4357s)
+- **RD 490 (2020-12-08)**, 23 · relator **Eduardo Nery** · Registro de instalação de apoio ao transporte aquaviário «Pontão Bons Amigos» (movimentação de biocombustível) → aprovado por unanimidade
+  - votos: Eduardo: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=4453s)
+- **RD 490 (2020-12-08)**, 27 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário «Bertolini Itaituba» (Itaituba-PA) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=9365s)
+- **RD 490 (2020-12-08)**, 28 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário em Belém → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=9638s)
+- **RD 490 (2020-12-08)**, 55 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário em Estrela-RS → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=18384s)
+- **RD 492 (2020-12-22)**, 1 · relator **None** · Processo com pedido de vista de Eduardo Nery (assunto não lido) → vista renovada
+  - votos: Eduardo: vista · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=2436s)
+- **RD 492 (2020-12-22)**, 6 · relator **Francisval Mendes** · Processo com voto do relator já proferido → vista renovada
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=3922s)
+- **RD 494 (2021-02-03)**, 7 · relator **None** · Processo com vista renovada pelo Diretor-Geral (assunto não lido na sessão) → vista renovada (Eduardo Nery)
+  - votos: Eduardo: vista · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=4702s)
+- **RD 494 (2021-02-03)**, 8 · relator **None** · Processo com vista renovada pelo Diretor-Geral (assunto não lido na sessão) → vista renovada (Eduardo Nery)
+  - votos: Eduardo: vista · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=4702s)
+- **RD 494 (2021-02-03)**, 9 · relator **None** · Processo com vista renovada pelo Diretor-Geral (assunto não lido na sessão) → vista renovada (Eduardo Nery)
+  - votos: Eduardo: vista · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=4702s)
+- **RD 494 (2021-02-03)**, 20 · relator **Francisval Mendes** · Retirado de pauta pelo relator → retirado de pauta
+  - votos: Francisval: outro · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=6262s)
+- **RD 494 (2021-02-03)**, 45 · relator **Adalberto Tokarski** · Retirado de pauta pelo relator → retirado de pauta
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=14070s)
+- **RD 496 (2021-03-10)**, 12 · relator **None** · Vista renovada por Adalberto Tokarski, na qualidade de revisor → vista renovada (Adalberto Tokarski)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=4176s)
+- **RD 496 (2021-03-10)**, 13 · relator **None** · Vista renovada por Adalberto Tokarski, na qualidade de revisor → vista renovada (Adalberto Tokarski)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=4176s)
+- **RD 496 (2021-03-10)**, 14 · relator **None** · Vista renovada por Adalberto Tokarski, na qualidade de revisor → vista renovada (Adalberto Tokarski)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=4176s)
+- **RD 496 (2021-03-10)**, 22-24 · relator **Eduardo Nery** · Itens 22, 23 e 24 retirados de pauta pelo relator → retirados de pauta
+  - votos: Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=6764s)
+- **RD 498 (2021-04-08)**, 14 · relator **Eduardo Nery** · Pedido de registro de instalação de apoio ao transporte aquaviário → indeferido por unanimidade
+  - votos: Eduardo: relator; Gabriela: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=5262s)
+- **RD 498 (2021-04-08)**, 20 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (RN 13), julgado em bloco com o item 21 → deferido por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=5691s)
+- **RD 498 (2021-04-08)**, 21 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (RN 13), julgado em bloco com o item 20 → deferido por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=5691s)
+- **RD 498 (2021-04-08)**, 26 · relator **Adalberto Tokarski** · Processo de relatoria de Tokarski com pedido de vista de Gabriela Costa; relator não proferiu voto → vista concedida a Gabriela Costa
+  - votos: Gabriela: vista; Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=6672s)
+- **RD 498 (2021-04-08)**, 31 · relator **Adalberto Tokarski** · Processo de relatoria de Tokarski com pedido de vista de Gabriela Costa; relator não proferiu voto → vista concedida a Gabriela Costa
+  - votos: Gabriela: vista; Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=7894s)
+- **RD 504 (2021-07-08)**, 18 · relator **Adalberto Tokarski** · Processo com vista de Gabriela Costa (revisora) → vista renovada
+  - votos: Gabriela: vista; Adalberto: relator; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=5813s)
+- **RD 504 (2021-07-08)**, 19 · relator **Eduardo Nery** · Registro de instalação de apoio ao transporte aquaviário (RN 13/2016) → aprovado por unanimidade
+  - votos: Eduardo: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=5874s)
+- **RD 504 (2021-07-08)**, 32 · relator **Adalberto Tokarski** · Processo da pauta (assunto não lido) → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=9439s)
+- **RD 504 (2021-07-08)**, 34 · relator **Adalberto Tokarski** · Apuração de indícios de infração à ordem econômica — retificação do Acórdão 279/2021 → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=9468s)
+- **RD 504 (2021-07-08)**, 36 · relator **Gabriela Costa** · Processo da pauta com pedido de sustentação oral → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=9827s)
+- **RD 506 (2021-08-23)**, 8 · relator **Gabriela Costa** · Processo de relatoria da ex-diretora Gabriela Costa, com vista de Adalberto Tokarski (voto da relatora já proferido) → vista renovada (Adalberto Tokarski)
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=2195s)
+- **RD 506 (2021-08-23)**, 15 · relator **Adalberto Tokarski** · Processos conexos de relatoria de Adalberto Tokarski, com vistas de Gabriela Costa e de Eduardo Nery (itens 15 e 16 em bloco) → adiado (art. 29 da Res. 7701) para a próxima reunião presencial
+  - votos: Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=5318s)
+- **RD 506 (2021-08-23)**, 16 · relator **Adalberto Tokarski** · Processos conexos de relatoria de Adalberto Tokarski, com vistas de Gabriela Costa e de Eduardo Nery (itens 15 e 16 em bloco) → adiado (art. 29 da Res. 7701) para a próxima reunião presencial
+  - votos: Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=5318s)
+- **RD 506 (2021-08-23)**, 18 · relator **Adalberto Tokarski** · Processo de relatoria de Adalberto Tokarski com vista de Eduardo Nery (após votos do relator e de Gabriela Costa) → vista renovada (Eduardo Nery)
+  - votos: Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=5786s)
+- **RD 506 (2021-08-23)**, 19 (número do item incerto) · relator **Eduardo Nery** · Processo de relatoria de Eduardo Nery (assunto não lido) → pedido de vista (Flávia Takafashi)
+  - votos: Flávia: vista · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=5888s)
+- **RD 508 (2021-09-09)**, 5 · relator **Adalberto Tokarski** · Processo com vista de Eduardo Nery: prorrogação do pedido de vista; sustentação oral adiada → adiado (vista prorrogada para a próxima reunião)
+  - votos: Eduardo: outro; Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=2263s)
+- **RD 510 (2021-10-11)**, 10 · relator **Adalberto Tokarski** · Referendo da Deliberação-DG 236/2021: medida cautelar administrativa a pedido da SNPTA relacionada a usina termelétrica em São Luís/MA (crise hídrica) → referendado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=6775s)
+- **RD 510 (2021-10-11)**, 14 · relator **Adalberto Tokarski** · Processo sob relatoria de Adalberto Tokarski com pedido de vista de Flávia Takafashi (reunião 509); vista renovada → vista renovada (art. 29 §1º da Res. 7.701)
+  - votos: Flávia: outro; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=9368s)
+- **RD 510 (2021-10-11)**, 32 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário em Santana/AP → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=12152s)
+- **RD 510 (2021-10-11)**, 33 · relator **Adalberto Tokarski** · Registro de instalação de apoio (IP4) em Silves/AM → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=12281s)
+- **RD 511 (2021-11-11)**, 15 · relator **Eduardo Nery** · Retificação de erro material no Acórdão 17/2021 (área do contrato de transição no Porto de Santos: 1.401 m²) → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=7362s)
+- **RD 511 (2021-11-11)**, 39 · relator **Flávia Takafashi** · Registro de instalação de apoio destinada à construção e reparação naval em imóvel já com registro de apoio (subdivisão da área) → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=9936s)
+- **RD 513 (2021-11-26)**, 6 · relator **Adalberto Tokarski** · Processo de relatoria de Adalberto com vista de Eduardo Nery; pedido de sustentação oral → vista renovada (Eduardo Nery); sustentação oral autorizada para quando voltar
+  - votos: Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=218s)
+- **RD 513 (2021-11-26)**, 34 · relator **Flávia Takafashi** · Processo de relatoria de Flávia Takafashi com pedido de sustentação oral → retirado de pauta pela relatora
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=2325s)
+- **RD 513 (2021-11-26)**, 9 · relator **None** · Processo com vista de Eduardo Nery → vista renovada (Eduardo Nery), em bloco
+  - votos: Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=3481s)
+- **RD 513 (2021-11-26)**, 10 · relator **None** · Processo com vista de Eduardo Nery → vista renovada (Eduardo Nery), em bloco
+  - votos: Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=3481s)
+- **RD 513 (2021-11-26)**, 11 · relator **None** · Processo com vista de Eduardo Nery → vista renovada (Eduardo Nery), em bloco
+  - votos: Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=3481s)
+- **RD 513 (2021-11-26)**, 8 · relator **Adalberto Tokarski** · Processo de relatoria de Adalberto com vista de Flávia Takafashi; diligência em curso → não deliberado (diligência pendente)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=3632s)
+- **RD 513 (2021-11-26)**, 22 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário na Ilha de Alagamar, Macau-RN → aprovado por unanimidade
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=5399s)
+- **RD 513 (2021-11-26)**, 30 · relator **Flávia Takafashi** · Matéria conexa a processo de relatoria de Adalberto → retirado de pauta pela relatora
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=6335s)
+- **RD 513 (2021-11-26)**, 32 · relator **Flávia Takafashi** · Processo de relatoria de Flávia Takafashi → pedido de vista (Eduardo Nery)
+  - votos: Eduardo: vista · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=6435s)
+- **RD 513 (2021-11-26)**, 36 · relator **Flávia Takafashi** · Processos conexos da relatoria de Flávia Takafashi → retirado de pauta pela relatora (volta na próxima reunião)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=7923s)
+- **RD 513 (2021-11-26)**, 37 · relator **Flávia Takafashi** · Processos conexos da relatoria de Flávia Takafashi → retirado de pauta pela relatora (volta na próxima reunião)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=7923s)
+- **RD 513 (2021-11-26)**, 38 · relator **Flávia Takafashi** · Processos conexos da relatoria de Flávia Takafashi → retirado de pauta pela relatora (volta na próxima reunião)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=7923s)
+- **RD 513 (2021-11-26)**, 39 · relator **Flávia Takafashi** · Processos conexos da relatoria de Flávia Takafashi → retirado de pauta pela relatora (volta na próxima reunião)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=7923s)
+- **RD 514 (2021-12-10)**, 5 · relator **Adalberto Tokarski** · Processo com voto do relator já proferido na RD 513; renovação do pedido de vista do DG (assunto não detalhado na sessão) → pedido de vista de Eduardo Nery renovado (aprovado pelos pares); volta na próxima reunião 
+  - votos: Eduardo: vista; Adalberto: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=12603s)
+- **RD 514 (2021-12-10)**, 6 · relator **Adalberto Tokarski** · Processo de relatoria de Adalberto Tokarski com vista de Flávia Takafashi (RD 511); processo em diligência na área de regulação → pedido de vista de Flávia Takafashi renovado; volta na próxima reunião por videoconferênci
+  - votos: Flávia: vista; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=12648s)
+- **RD 514 (2021-12-10)**, 7 · relator **None** · Processo com pedido de vista ainda em diligência na área de fiscalização → pedido de vista renovado (processo em diligência)
+  - votos: Flávia: vista · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=12693s)
+- **RD 514 (2021-12-10)**, 45 · relator **Flávia Takafashi** · Consulta sobre uso do Centreventos de Itajaí para recepção de passageiros de cruzeiros (temporada 2021/2022) → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=23070s)
+- **RD 516 (2022-02-04)**, 7 · relator **Flávia Takafashi** · Referendo da Deliberação DG 9/2022: modelagem para gestão, operação, manutenção e expansão da ferrovia interna do Porto de Santos (FIPS), com investim → aprovado por unanimidade nos termos do voto da relatora
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=7981s)
+- **RD 516 (2022-02-04)**, 8 · relator **Adalberto Tokarski** · Processo de relatoria de Adalberto Tokarski (assunto não lido na sessão), apreciado em conjunto com o item 9; pedido de vista do Diretor-Geral formula → pedido de vista de Eduardo Nery renovado em razão de diligência
+  - votos: Eduardo: vista; Adalberto: relator; Flávia: outro · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=8402s)
+- **RD 516 (2022-02-04)**, 9 · relator **Adalberto Tokarski** · Processo de relatoria de Adalberto Tokarski (assunto não lido na sessão), apreciado em conjunto com o item 8; pedido de vista do Diretor-Geral formula → pedido de vista de Eduardo Nery renovado em razão de diligência
+  - votos: Eduardo: vista; Adalberto: relator; Flávia: outro · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=8402s)
+- **RD 516 (2022-02-04)**, 14 · relator **Adalberto Tokarski** · Processo de relatoria de Adalberto Tokarski com sustentação oral da associação de terminais de contêineres na reunião 513 (assunto não lido na sessão) → pedido de vista de Eduardo Nery renovado (art. 29 §1º da Res. 7701)
+  - votos: Eduardo: vista; Adalberto: relator; Flávia: outro · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=9755s)
+- **RD 516 (2022-02-04)**, 47 · relator **Flávia Takafashi** · Consulta: se contrato de passagem com Suape basta para registro de instalação portuária (terminal de GNL com FSRU no cais de múltiplo uso) → aprovado por unanimidade nos termos do voto da relatora
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=20130s)
+- **RD 518 (2022-03-23)**, 17 · relator **Adalberto Tokarski** · Processo de relatoria de Adalberto Tokarski (assunto não lido) com vista do DG formulada na reunião 517 → pedido de vista de Eduardo Nery renovado (art. 36 da Res. 66); volta na próxima reunião te
+  - votos: Eduardo: vista; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=7464s)
+- **RD 518 (2022-03-23)**, 19 · relator **Adalberto Tokarski** · Processo de relatoria de Adalberto Tokarski (voto proferido nas reuniões 513/514) com vista do DG desde a reunião 512; em diligência → pedido de vista de Eduardo Nery renovado (art. 36 da Res. 66); volta na próxima reunião te
+  - votos: Eduardo: vista; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=7602s)
+- **RD 518 (2022-03-23)**, 20 · relator **Adalberto Tokarski** · Processo conexo ao item 19, de relatoria de Adalberto Tokarski, em diligência → pedido de vista de Eduardo Nery renovado (art. 36 da Res. 66); volta na próxima reunião te
+  - votos: Eduardo: vista; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=7696s)
+- **RD 520 (2022-05-13)**, 6 · relator **Eduardo Nery** · Referendo da Deliberação DG 56/2022: deferimento parcial de dilação do prazo de contribuições da audiência pública 1/2022 (concessão dos portos de Vit → aprovado por unanimidade
+  - votos: Eduardo: relator; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=7479s)
+- **RD 520 (2022-05-13)**, 12 · relator **José Renato Fialho** · Referendo da Deliberação DG 65/2022: nova data para continuação da sessão virtual da audiência pública 5/2022 (concessão do porto de Itajaí), com ~140 → aprovado por unanimidade
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=8843s)
+- **RD 520 (2022-05-13)**, 51 · relator **José Renato Fialho** · Referendo da Deliberação DG 64/2022: indeferida suspensão da sessão virtual da AP 5/2022 e prorrogado até 15/04 o prazo de contribuições (concessão do → aprovado por unanimidade
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=9017s)
+- **RD 520 (2022-05-13)**, 13 · relator **Adalberto Tokarski** · Renovação do pedido de vista do Diretor-Geral (processo de relatoria de Adalberto Tokarski, em diligência na SOG; volta na próxima reunião) → renovação de vista aprovada
+  - votos: Eduardo: outro; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=9312s)
+- **RD 520 (2022-05-13)**, 16 · relator **Adalberto Tokarski** · Renovação do pedido de vista do Diretor-Geral (processo conexo ao item 13, relatoria de Adalberto Tokarski; diligência na SOG concluída) → renovação de vista aprovada
+  - votos: Eduardo: outro; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=9961s)
+- **RD 520 (2022-05-13)**, 22 · relator **Flávia Takafashi** · Renovação do pedido de vista do Diretor-Geral (relatoria de Flávia Takafashi; vista após sustentação oral na RD 516) → renovação de vista aprovada
+  - votos: Eduardo: outro; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=12778s)
+- **RD 520 (2022-05-13)**, 41 · relator **Flávia Takafashi** · Retificação de erro material no Acórdão 202/2022 (transferência de titularidade de instalação portuária): supressão do item 5.2 → aprovado por unanimidade
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=18150s)
+- **RD 520 (2022-05-13)**, 50 · relator **José Renato Fialho** · Registro de instalação portuária pública de pequeno porte em Cametá (PA) → aprovado por unanimidade (registro deferido; dispensada a regularidade fiscal estadual)
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=21580s)
+- **RD 522 (2022-05-26)**, 24 · relator **Flávia Takafashi** · Desincorporação e baixa de bens reversíveis da União inservíveis (veículos pesados e maquinário) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=13452s)
+- **RD 526 (2022-08-11)**, 3 · relator **Flávia Takafashi** · Referendo da Deliberação DG 112/2022: contrato de uso temporário (~2.400 m² no pátio 3 do porto de São Sebastião, 48 meses) para montagem de módulos d → aprovado por unanimidade (referendado)
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=2J5AWByVtpM&t=3155s)
+- **RD 532 (2022-11-10)**, 22 · relator **Eduardo Nery** · Consulta sobre aplicabilidade do registro (RN 13) a instalações flutuantes de regaseificação e movimentação de GNL → vista concedida a Flávia Takafashi (relator não votou)
+  - votos: Flávia: vista · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=8289s)
+- **RD 537 (2023-02-09)**, 8 · relator **Eduardo Nery** · Processo da relatoria do diretor-geral (assunto não lido na sessão): pedido de vista da diretora Flávia Takafashi → pedido de vista concedido; votação suspensa
+  - votos: Flávia: vista · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=7898s)
+- **RD 537 (2023-02-09)**, 28 · relator **Lima Filho** · Referendo/autorização especial e emergencial para testes de comissionamento da FSRU de regaseificação registrada (Acórdão 113/2020) a partir de 1º/3/2 → aprovado por unanimidade nos termos do voto do relator
+  - votos: Lima: relator; Caio: acompanha; Alber: acompanha; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=12655s)
+- **RD 539 (2023-04-04)**, 5 · relator **Flávia Takafashi** · Processo de relatoria de Flávia Takafashi com pedido de vista de Eduardo Nery (RD 538); vista renovada (art. 36 da RN 66) — assunto não lido → vista renovada; julgamento adiado
+  - votos: Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=4790s)
+- **RD 541 (2023-04-20)**, 24 · relator **Alber Vasconcelos** · Correção de erro material no Acórdão 86/2023 (item 5.1, contrato de transição para granéis vegetais em big bags no Porto do Recife) → aprovado
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=13300s)
+- **RD 543 (2023-05-24)**, 4 · relator **Lima Filho** · Processo de relatoria de Lima Filho com vista de Flávia Takafashi (RO 541); vista renovada → vista renovada (Flávia Takafashi)
+  - votos: Flávia: outro · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=5311s)
+- **RD 543 (2023-05-24)**, 8 · relator **Lima Filho** · Processo de relatoria de Lima Filho com vista do DG (RO 542); vista renovada (art. 36 da Res. 66) → vista renovada (Eduardo Nery)
+  - votos: Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=7050s)
+- **RD 543 (2023-05-24)**, 9 · relator **Eduardo Nery** · Processo de relatoria do DG com vista de Lima Filho (RO 541); vista renovada → vista renovada (Lima Filho)
+  - votos: Lima: outro · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=7112s)
+- **RD 543 (2023-05-24)**, 19 · relator **Lima Filho** · Consulta sobre movimentação de passageiros no terminal portuário do Pecém → pedido de vista (Flávia Takafashi)
+  - votos: Flávia: vista · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=10680s)
+- **RD 543 (2023-05-24)**, 28 · relator **Caio Farias** · Consulta sobre a possibilidade de repasse financeiro ao OGMO de Itajaí pela autoridade portuária → pedido de vista (Flávia Takafashi)
+  - votos: Flávia: vista · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=12121s)
+- **RD 545 (2023-06-23)**, 23 · relator **Lima Filho** · Processo da relatoria de Lima Filho (assunto não lido na sessão) → pedido de vista (Alber Vasconcelos)
+  - votos: Alber: vista · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=16183s)
+- **RD 547 (2023-08-07)**, 9 · relator **Lima Filho** · Processo com sustentação oral autorizada e vista de Flávia Takafashi → deliberação adiada para a próxima reunião presencial (ausência justificada da revisora)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=25s)
+- **RD 547 (2023-08-07)**, 7 · relator **Lima Filho** · Pedido de arbitragem sobre isenção de tarifa (vista de Caio Farias) → vista renovada
+  - votos: Caio: outro · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=2837s)
+- **RD 547 (2023-08-07)**, 8 · relator **Lima Filho** · Pedido de arbitragem administrativa (vista de Alber Vasconcelos antes do voto do relator) → vista renovada
+  - votos: Alber: outro · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=2892s)
+- **RD 547 (2023-08-07)**, 11 · relator **None** · Processo com sustentação oral já realizada e vista de Caio Farias antes do voto do relator → vista renovada; julgamento previsto para a próxima reunião presencial
+  - votos: Caio: outro · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=3548s)
+- **RD 547 (2023-08-07)**, 12 · relator **Alber Vasconcelos** · Revisão da cláusula de níveis de serviço dos contratos de arrendamento de terminais de granéis líquidos (relator já votou; vista de Flávia Takafashi) → julgamento adiado / vista prorrogada (ausência da revisora)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=3606s)
+- **RD 547 (2023-08-07)**, 22 · relator **Lima Filho** · Processo de relatoria de Lima Filho; o DG pediu vista → vista concedida a Eduardo Nery
+  - votos: Eduardo: vista; Lima: relator · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=6417s)
+- **RD 549 (2023-08-31)**, 28 · relator **Lima Filho** · Pedido de autorização prévia para usar recursos do ativo circulante na compra de terreno fora do porto organizado, no Parque Empresarial de Caxias-MA  → aprovado por unanimidade (pedido indeferido)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=12802s)
+- **RD 549 (2023-08-31)**, 32 · relator **Alber Vasconcelos** · Item 32 da pauta (relatoria de Alber Vasconcelos): pedido de vista de Flávia Takafashi anunciado pelo Diretor-Geral → vista concedida a Flávia Takafashi
+  - votos: Flávia: vista · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=14544s)
+- **RD 551 (2023-10-04)**, 4 · relator **Lima Filho** · Processo sob vista do Diretor-Geral desde a RD 547 – renovação do pedido de vista (art. 36 da Res. 66) → vista renovada (Eduardo Nery); volta na próxima reunião
+  - votos: Eduardo: outro; Lima: relator; Flávia: outro; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=7700s)
+- **RD 551 (2023-10-04)**, 9 · relator **Flávia Takafashi** · Pedido de vista de Alber Vasconcelos (processo do bloco de relatoria de Flávia Takafashi) → vista (Alber Vasconcelos); retorna na próxima reunião presencial
+  - votos: Alber: vista · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=9017s)
+- **RD 554 (2023-10-26)**, 5 · relator **Lima Filho** · Autorização excepcional por 180 dias para que a ocupante transitória AC Vita (contrato de transição 1240/2023, exclusivo para arroz) movimente outros  → indeferido por maioria (3 x 2), nos termos do voto revisor de Alber Vasconcelos; vencidos 
+  - votos: Lima: vencido; Alber: revisor_diverge; Caio: acompanha; Eduardo: vencido; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=9762s)
+- **RD 554 (2023-10-26)**, 23 · relator **Flávia Takafashi** · Manifestação sobre priorização da atracação de navios com combustíveis líquidos (diesel S10) no porto de Vila do Conde (PA) diante da estiagem na Amaz → aprovado, com recomendação sugerida pelo DG incorporada
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=12190s)
+- **RD 554 (2023-10-26)**, 24 · relator **Flávia Takafashi** · Manifestação sobre priorização da atracação de navios com combustíveis líquidos (diesel S10) no porto de Vila do Conde (PA) diante da estiagem na Amaz → aprovado, com recomendação sugerida pelo DG incorporada
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=12190s)
+- **RD 554 (2023-10-26)**, 27 · relator **Lima Filho** · Processo de relatoria de Lima Filho (assunto não lido): pedido de vista de Flávia Takafashi concedido → vista concedida a Flávia Takafashi
+  - votos: Flávia: vista · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=13820s)
+- **RD 554 (2023-10-26)**, 31 · relator **Lima Filho** · Processo de relatoria de Lima Filho (assunto não lido): pedido de vista de Alber Vasconcelos concedido → vista concedida a Alber Vasconcelos
+  - votos: Alber: vista · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=14263s)
+- **RD 555 (2023-11-16)**, 6 · relator **Lima Filho** · Retorno de vista (Flávia Takafashi) em processo de relatoria de Lima Filho, interrompido na RD 554 → vista prorrogada; volta em 14/12/2023
+  - votos: Flávia: outro · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=3250s)
+- **RD 555 (2023-11-16)**, 8 · relator **Flávia Takafashi** · Renovação de vista de Alber Vasconcelos em processo de relatoria de Flávia Takafashi (interrompido na RD 551) → vista renovada; volta em 14/12/2023
+  - votos: Alber: vista · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=3895s)
+- **RD 557 (2023-12-14)**, 8 · relator **Flávia Takafashi** · Processo de relatoria de Flávia Takafashi com pedido de vista de Alber Vasconcelos (RD 551); assunto não dito → vista renovada por Alber Vasconcelos (retorno na reunião presencial de 01/02/2024)
+  - votos: Alber: outro · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=8988s)
+- **RD 557 (2023-12-14)**, 36 · relator **Alber Vasconcelos** · Registro de instalação de apoio ao transporte aquaviário (art. 2º, I, RN 13/2016) - terminal flutuante de GNL; conflito locacional com projeto da BR I → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=16870s)
+- **RD 557 (2023-12-14)**, 41 · relator **Caio Farias** · Consulta: incorporação de bens recebidos por doação no convênio de delegação depende de prévia análise da ANTAQ e aprovação do poder concedente? → aprovado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=19778s)
+- **RD 562 (2024-04-24)**, 37 · relator **Caio Farias** · Registro de instalação de apoio ao transporte aquaviário (apoio à monoboia) → aprovado
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=22674s)
+- **RD 564 (2024-05-29)**, 33 · relator **Alber Vasconcelos** · Autorização para contrato de uso temporário (CUT) de ~7.400 m² (pátio do berço 4 e parte do armazém AZ3) no porto de Itajaí para carga geral não conte → aprovado por unanimidade (CUT indeferido; indicado contrato de transição)
+  - votos: Alber: relator; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=2123s)
+- **RD 564 (2024-05-29)**, 39 · relator **Caio Farias** · Nova autorização especial (180 dias, desde 4/06/2024) para armazenar cargas de projeto da planta de hidrogênio e amônia verdes de Camaçari no Terminal → aprovado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=13301s)
+- **RD 568 (2024-08-05)**, 9 · relator **Flávia Takafashi** · Processo com pedido de vista do Diretor-Geral (RD 566); vista renovada → não deliberado: vista renovada pelo Diretor-Geral
+  - votos: Eduardo: vista; Flávia: relator; Lima: outro; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=7916s)
+- **RD 568 (2024-08-05)**, 32 · relator **Caio Farias** · Consulta sobre uso de scanner de bagagens de tripulantes em instalação de apoio ao transporte aquaviário, por exigência da Receita Federal → aprovado
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=17607s)
+- **RD 568 (2024-08-05)**, 33 · relator **Caio Farias** · Autorização para desincorporação, baixa e inutilização (demolição) de duas edificações deterioradas da União na antiga área de arrendamento do porto d → aprovado
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=18066s)
+- **RD 570 (2024-08-30)**, 3 · relator **Lima Filho** · Referendo da Deliberação DG 64/2024: análise das 320 contribuições da Audiência Pública 7/2023 sobre a concessão do canal de acesso ao porto de Parana → aprovado (referendada a Deliberação DG 64/2024)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=6941s)
+- **RD 570 (2024-08-30)**, 7 · relator **None** · Processo com pedido de vista de Alber Vasconcelos (RD 568) — renovação da vista → vista renovada
+  - votos: Alber: outro; Eduardo: outro; Flávia: outro; Lima: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=8696s)
+- **RD 570 (2024-08-30)**, 8 · relator **Alber Vasconcelos** · Processo de relatoria de Alber Vasconcelos com vista de Lima Filho (RD 568) — renovação da vista → vista renovada
+  - votos: Lima: outro; Eduardo: outro; Flávia: outro; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=8728s)
+- **RD 570 (2024-08-30)**, 11 · relator **Flávia Takafashi** · Processo de relatoria de Flávia Takafashi com vista de Eduardo Nery (RD 566) — renovação da vista → vista renovada
+  - votos: Eduardo: outro; Flávia: outro; Lima: outro; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=9110s)
+- **RD 570 (2024-08-30)**, 25 · relator **Lima Filho** · Processo de relatoria de Lima Filho — pedido de vista de Flávia Takafashi → pedido de vista de Flávia Takafashi
+  - votos: Flávia: vista; Lima: relator; Eduardo: outro; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=14436s)
+- **RD 572 (2024-10-04)**, 5 · relator **Lima Filho** · Processo com pedido de vista de Flávia Takafashi (RD 570), antes do voto do relator → vista renovada
+  - votos: Flávia: outro · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=12694s)
+- **RD 572 (2024-10-04)**, 7 · relator **Alber Vasconcelos** · Processo com pedido de vista de Lima Filho após voto do relator (RD 568, prorrogado na RD 570) → vista renovada
+  - votos: Lima: outro · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=13369s)
+- **RD 574 (2024-10-25)**, 8 · relator **Lima Filho** · Processo de relatoria de Lima Filho com pedido de vista de Flávia Takafashi (RO 570, prorrogado na RO 572); assunto não lido → vista renovada para a próxima reunião
+  - votos: Flávia: outro · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=5630s)
+- **RD 574 (2024-10-25)**, 2 · relator **Flávia Takafashi** · Item 2 da pauta (sustentação oral declinada), de relatoria de Flávia Takafashi → retirado de pauta pela relatora
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=13443s)
+- **RD 578 (2024-12-19)**, 6 · relator **None** · Processo com pedido de vista (assunto não lido na sessão) — renovação do pedido de vista → vista renovada sem oposição
+  - votos: Alber: outro; Caio: outro; Eduardo: outro; Flávia: outro; Lima: outro · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=7726s)
+- **RD 578 (2024-12-19)**, 8 · relator **None** · Processo com pedido de vista (assunto não lido na sessão) — renovação do pedido de vista → vista renovada sem oposição
+  - votos: Alber: outro; Caio: outro; Eduardo: outro; Flávia: outro; Lima: outro · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=7726s)
+- **RD 579 (2025-02-13)**, 4 · relator **Alber Vasconcelos** · Referendo da Deliberação-DG 122/2024: dispensa de nova audiência/consulta pública para o projeto do túnel imerso Santos–Guarujá → aprovado por unanimidade (referendo)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=5251s)
+- **RD 579 (2025-02-13)**, 5 · relator **Alber Vasconcelos** · Referendo da Deliberação-DG 117: abertura de audiência pública da concessão da hidrovia do Rio Paraguai e estudo de reserva orçamentária emergencial p → aprovado por unanimidade (referendo)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=5469s)
+- **RD 579 (2025-02-13)**, 9 · relator **Caio Farias** · Processo com pedido de vista de Alber Vasconcelos (desde a RD 575): apreciação adiada; nova prorrogação da vista → vista prorrogada; adiado para a próxima reunião presencial
+  - votos: Alber: outro · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=6281s)
+- **RD 579 (2025-02-13)**, 11 · relator **None** · Processo com pedido de vista de Alber Vasconcelos: prorrogação da vista (junto com o item 9) → vista prorrogada; adiado
+  - votos: Alber: outro · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=6310s)
+- **RD 579 (2025-02-13)**, 28 · relator **Lima Filho** · Item de relatoria de Lima Filho com pedido de vista de Alber Vasconcelos → vista (aguarda voto do revisor)
+  - votos: Alber: vista · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=8208s)
+- **RD 579 (2025-02-13)**, 26 · relator **Flávia Takafashi** · Denúncia com pedido de cautelar contra cobrança de sobre-estadia (detention) de contêiner por alterações de booking e falta de janelas → aprovado por unanimidade (cautelar indeferida)
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=12101s)
+- **RD 591 (2025-08-08)**, 35 · relator **Alber Vasconcelos** · Desincorporação de bens da União (tombadores, balanças, moega e edificações do silo público) por causa das obras do Moegão em Paranaguá → aprovado por unanimidade
+  - votos: Alber: relator; Caio: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=OQ9m51EIHJc&t=12131s)
+- **RD 592 (2025-08-25)**, 3 · relator **Lima Filho** · Processo com pedido de vista de reunião anterior, de relatoria de Lima Filho (ausente); assunto não lido na sessão → vista renovada por proposta do Diretor-Geral (Res. 66, arts. 27, 36 e 38); retorna na próx
+  - votos: Caio: outro; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=vDo8pMKcp_Q&t=2744s)
+- **RD 592 (2025-08-25)**, 4 · relator **Lima Filho** · Processo com pedido de vista de reunião anterior, de relatoria de Lima Filho (ausente); assunto não lido na sessão → vista renovada por proposta do Diretor-Geral (Res. 66, arts. 27, 36 e 38); retorna na próx
+  - votos: Caio: outro; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=vDo8pMKcp_Q&t=2744s)
+- **RD 592 (2025-08-25)**, 5 · relator **Lima Filho** · Processo com pedido de vista de reunião anterior, de relatoria de Lima Filho (ausente); assunto não lido na sessão → vista renovada por proposta do Diretor-Geral (Res. 66, arts. 27, 36 e 38); retorna na próx
+  - votos: Caio: outro; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=vDo8pMKcp_Q&t=2744s)
+- **RD 592 (2025-08-25)**, 6 · relator **Lima Filho** · Processo com pedido de vista de reunião anterior, de relatoria de Lima Filho (ausente); assunto não lido na sessão → vista renovada por proposta do Diretor-Geral (Res. 66, arts. 27, 36 e 38); retorna na próx
+  - votos: Caio: outro; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=vDo8pMKcp_Q&t=2744s)
+- **RD 592 (2025-08-25)**, 7 · relator **Lima Filho** · Processo com pedido de vista de reunião anterior, de relatoria de Lima Filho (ausente); assunto não lido na sessão → vista renovada por proposta do Diretor-Geral (Res. 66, arts. 27, 36 e 38); retorna na próx
+  - votos: Caio: outro; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=vDo8pMKcp_Q&t=2744s)
+- **RD 592 (2025-08-25)**, 15 · relator **Flávia Takafashi** · Consulta sobre necessidade de anuência da ANTAQ para píer flutuante de embarque/desembarque de lanchas de esporte e recreio → aprovado por unanimidade
+  - votos: Flávia: relator; Caio: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=vDo8pMKcp_Q&t=5674s)
+- **RD 594 (2025-09-11)**, 2 (vista a) · relator **Lima Filho** · Processo de relatoria de Lima Filho com pedido de vista de Alber Vasconcelos; relator ausente e sem voto apresentado: vista renovada (lista lida como  → vista renovada (art. 38 c/c art. 36 §2º e art. 27 da Res. 66/2022); volta na próxima reuni
+  - votos: Alber: outro; Frederico: outro; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=moqX_srlNM0&t=828s)
+- **RD 594 (2025-09-11)**, 2 (vista b) · relator **Lima Filho** · Processo de relatoria de Lima Filho com pedido de vista de Alber Vasconcelos; relator ausente e sem voto apresentado: vista renovada (lista lida como  → vista renovada (art. 38 c/c art. 36 §2º e art. 27 da Res. 66/2022); volta na próxima reuni
+  - votos: Alber: outro; Frederico: outro; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=moqX_srlNM0&t=828s)
+- **RD 594 (2025-09-11)**, 2 (vista c) · relator **Lima Filho** · Processo de relatoria de Lima Filho com pedido de vista de Alber Vasconcelos; relator ausente e sem voto apresentado: vista renovada (lista lida como  → vista renovada (art. 38 c/c art. 36 §2º e art. 27 da Res. 66/2022); volta na próxima reuni
+  - votos: Alber: outro; Frederico: outro; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=moqX_srlNM0&t=828s)
+- **RD 594 (2025-09-11)**, 2 (vista d) · relator **Lima Filho** · Processo de relatoria de Lima Filho com pedido de vista de Alber Vasconcelos; relator ausente e sem voto apresentado: vista renovada (lista lida como  → vista renovada (art. 38 c/c art. 36 §2º e art. 27 da Res. 66/2022); volta na próxima reuni
+  - votos: Alber: outro; Frederico: outro; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=moqX_srlNM0&t=828s)
+- **RD 596 (2025-10-09)**, 28 · relator **Lima Filho** · Processo de relatoria de Lima Filho objeto de pedido de vista de Alber Vasconcelos (nº de item inferido) → pedido de vista (Alber Vasconcelos)
+  - votos: Alber: vista · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=13389s)
+- **RD 598 (2025-11-13)**, 27 · relator **Lima Filho** · Novo pedido de vista comunicado na abertura (processo não relatado) → pedido de vista (Alber Vasconcelos, comunicado à secretaria da mesa)
+  - votos: Lima: relator; Alber: vista · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=475s)
+- **RD 598 (2025-11-13)**, 35 · relator **Alber Vasconcelos** · Processo não lido (pedido de vista antes do relato) → pedido de vista (diretor não identificado na legenda)
+  - votos: Alber: relator · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=15270s)
+- **RD 603 (2026-02-24)**, 17 · relator **Flávia Takafashi** · Concessão do canal de acesso do Porto Organizado de Santos: abertura de consulta e audiência pública → aprovado (sem divergência)
+  - votos: Frederico: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=6657s)
+- **RD 603 (2026-02-24)**, 35 · relator **Alber Vasconcelos** · Análise do projeto executivo de recuperação estrutural da ponte sobre o rio Aribiri (acesso ao cais de Capuaba), autorizada pela Portaria MPor 738/202 → aprovado (sem divergência)
+  - votos: Frederico: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=13304s)
+- **RD 616 (2026-08-21)**, extrapauta · relator **Cristina Castro** · Prorrogação por 60 dias da Consulta Pública 06/2026 (concessão do Sistema Aquaviário Integrado dos Portos do Sul e Lagoa Mirim — SAIP Sul Mirim), até  → aprovado, sem divergência registrada
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=17054s)
+- **RD 619 (2026-09-24)**, 17 · relator **Lima Filho** · Registro de instalação de apoio ao transporte aquaviário em Belém (abastecimento de embarcações, água, recebimento de resíduos), com diferimento da do → aprovado
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=8747s)
+- **RD 619 (2026-09-24)**, 29 · relator **Caio Farias** · Consulta sobre uso de cábrea embarcada em balsa como equipamento auxiliar de içamento em instalação de apoio ao transporte aquaviário → aprovado: sem óbice ao uso exclusivo e pontual, efeito limitado ao caso
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=13391s)
+- **RD 621 (2026-10-27)**, 24 · relator **Caio Farias** · Processo do Estaleiro Atlântico Sul (objeto não lido) → retirado de pauta (dúvida de última hora; volta na próxima reunião)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=1029s)

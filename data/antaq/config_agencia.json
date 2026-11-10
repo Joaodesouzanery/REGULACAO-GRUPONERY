@@ -22,7 +22,8 @@
   "Joelson Miranda",
   "José Renato Fialho",
   "Cristina Castro",
-  "Alexandre Florambel"
+  "Alexandre Florambel",
+  "Alexandre Lopes"
  ],
  "alias": {
   "Mário Povia": "povia|m[áa]rio",
@@ -39,9 +40,10 @@
   "Joelson Miranda": "joelson",
   "José Renato Fialho": "fialho|jos[ée] renato",
   "Cristina Castro": "cristina",
-  "Alexandre Florambel": "florambel"
+  "Alexandre Florambel": "florambel",
+  "Alexandre Lopes": "alexandre lopes|alexandre gomes|\\blopes\\b"
  },
- "rx_nomes": "povia|tokarski|francisval|nery|fl[áa]via|lima filho|alber|caio|frederico|gabriela|joelson|fialho|cristina|florambel|adalberto|m[áa]rio",
+ "rx_nomes": "povia|tokarski|francisval|nery|fl[áa]via|lima filho|alber|caio|frederico|gabriela|joelson|fialho|cristina|florambel|adalberto|m[áa]rio|lopes",
  "temas": [
   [
    "arrendamento_porto_organizado",

@@ -1,0 +1,1257 @@
+{
+ "meta": {
+  "video_id": "2-2UVQD1d1M",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:00:11); ts de votos de quem só acompanha são aproximados (momento da proclamação)",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "539",
+  "data": "2023-04-04",
+  "formato": "presencial com transmissão (não confirmado)",
+  "presidente_da_sessao": "Eduardo Nery (Diretor-Geral)",
+  "diretores_presentes": [
+   "Eduardo Nery",
+   "Flávia Takafashi",
+   "Lima Filho",
+   "Alber Vasconcelos",
+   "Caio Farias"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "539ª Reunião Ordinária da Diretoria Colegiada; procurador federal Leonardo Andrade presente; homologadas as atas 537 e 538.",
+   "Diretor-Geral propõe nova dinâmica: com cinco diretores, discussão e votação conjunta em vez de colher voto um a um (exceto quando há divergência).",
+   "Divergências: item 4 (3R/Transpetro, Guamaré) aprovado por 3 x 2 com Caio Farias e Alber Vasconcelos vencidos; item 18 (Superpesa) indeferido por 4 x 1, vencido o relator Lima Filho; item 3 (demurrage) aprovado o voto-vista de Flávia Takafashi contra o voto anterior do relator José Renato Fialho.",
+   "Pausa técnica de cerca de 15 minutos por volta de 1:58 (retomada às 16h20).",
+   "Retirados de pauta: itens 7, 8, 10, 11, 12, 19, 21 e 22."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:01:06",
+   "processo": "50300.014167/2022-65",
+   "interessado": "Companhia Docas do Rio de Janeiro (CDRJ / PortosRio)",
+   "assunto": "Referendo da Deliberação DG 13/2023: indeferimento do pedido da autoridade portuária de diferir o início da vigência da tabela 1 da nova estrutura tarifária padronizada do Porto do Rio de Janeiro e entrada imediata em vigor do tarifário",
+   "tema": [
+    "tarifas portuárias",
+    "padronização de estrutura tarifária (Res. 61/2021)",
+    "referendo",
+    "Porto do Rio de Janeiro"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Indeferido o diferimento: a autoridade portuária discute a padronização desde 2015/2021, propôs ela mesma os valores e não trouxe estudo de impacto; mais 30–40 dias não trariam o estudo. Rubricas específicas podem ser reexaminadas com fundamento concreto.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a relatora",
+     "ts": "0:07:57",
+     "justificativa": "lamentável que a própria CDRJ, depois de mais de dois anos, diga não confiar nos valores que apresentou; usuário pode trazer elementos e a agência pode até dar cautelar em item específico",
+     "tom": "crítico à autoridade portuária",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, propõe referendar a deliberação",
+     "ts": "0:06:30",
+     "justificativa": "processo de padronização tarifária desde 2015; autoridade portuária teve tempo para estudar impacto; prorrogar não faria o estudo sair; rubrica específica pode ser rediscutida com fundamento concreto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha integralmente a relatora",
+     "ts": "0:07:45",
+     "justificativa": "CDRJ não juntou fundamentos que demonstrem risco de perda de carga; diferimento frustra receitas e desrespeita direito do usuário de conhecer antes a vigência das tarifas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "0:09:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "0:09:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1-bis",
+   "ts": "0:10:35",
+   "processo": "50300.021479/2022-5 (dígitos incertos)",
+   "interessado": "CODESA (concessionária do Porto de Vitória e Barra do Riacho)",
+   "assunto": "Referendo da Deliberação DG 17/2023: análise da nova tabela tarifária do contrato de concessão 1/2022 da CODESA; sobrestamento da nova tabela inteira por 60 dias, mantida a tabela antiga, e pedido de informações complementares",
+   "tema": [
+    "tarifas portuárias",
+    "concessão de porto",
+    "referendo",
+    "Porto de Vitória",
+    "Barra do Riacho"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Concessionária não apresentou informações suficientes (acesso aquaviário, VTMS, acostagem etc.); proposta inicial era sobrestar parte da tabela, mas acolhida proposta de Alber Vasconcelos para sobrestar toda a nova tabela por 60 dias até análise de mérito.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a relatora",
+     "ts": "0:15:02",
+     "justificativa": "apresentação da tabela é dever da concessionária; novidade do modelo (receita teto, dispersão tarifária) atenua o atraso, mas usuários precisam de prazo para se manifestar antes de custos maiores",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, propõe referendar (sobrestamento total por 60 dias)",
+     "ts": "0:14:51",
+     "justificativa": "faltam informações técnicas da autoridade portuária para análise conclusiva das novas rubricas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "0:16:31",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha (sua proposta de sobrestar toda a tabela foi incorporada)",
+     "ts": "0:16:31",
+     "justificativa": "na discussão prévia propôs sobrestar toda a nova tabela, mantendo a antiga",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "0:16:31",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:16:49",
+   "processo": "50001.004644/2023-30 (dígitos incertos)",
+   "interessado": "Bruno Schmidt (cidadão, pedido LAI 65/2023)",
+   "assunto": "Referendo da Deliberação DG 11/2023: recurso em 2ª instância em pedido de acesso à informação sobre agendas de autoridades da ANTAQ de 2019 a 2022; provido para entrega em 20 dias dos dados de 2019 a nov/2020",
+   "tema": [
+    "institucional",
+    "transparência / acesso à informação (LAI)",
+    "recursos administrativos",
+    "referendo"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Diligência confirmou que os dados de 2019 a nov/2020 existem (assessoria de comunicação e cerimonial) e podem ser fornecidos em 20 dias; dever de transparência ativa; retiradas, por sugestão de Alber Vasconcelos e Eduardo Nery, determinações sobre transparência ativa e gestão de riscos já em curso.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "0:24:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "0:24:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "0:24:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "0:24:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, referendar a DG 11/2023",
+     "ts": "0:24:10",
+     "justificativa": "dever da administração de divulgar informações de interesse coletivo; dados existem e podem ser entregues em 20 dias; urgência pelo prazo do Decreto 7.724/2012",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:24:55",
+   "processo": "50300.0xxxxx/2020-14 (número incompleto na legenda)",
+   "interessado": "Superintendência de Regulação (agenda regulatória 2020-2021, tema 2.2)",
+   "assunto": "Pedido de vista: AIR sobre metodologia para determinar abusividade na cobrança de sobrestadia (demurrage) de contêineres; relator original (José Renato Fialho) votara por audiência e consulta públicas de instrução normativa",
+   "tema": [
+    "regulação normativa",
+    "análise de impacto regulatório (AIR)",
+    "agenda regulatória",
+    "serviços de transporte marítimo",
+    "sobrestadia/demurrage de contêineres",
+    "navegação de longo curso e cabotagem"
+   ],
+   "relator": "José Renato Fialho (relator original); voto-vista de Flávia Takafashi",
+   "resultado": "aprovado o voto-vista divergente de Flávia Takafashi (voto do relator original vencido)",
+   "resumo_voto": "Voto-vista: a AIR não demonstrou, com dados ou evidências, falha de mercado por preços abusivos de demurrage (valores em linha com portos estrangeiros, casos concretos sem abusividade); manutenção do status quo, sem definir a natureza jurídica da cobrança; determinar à SFC (com SRG) base de dados para acompanhar o mercado; item da agenda dado por cumprido e autos arquivados.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o voto-vista de Flávia Takafashi",
+     "ts": "0:51:33",
+     "justificativa": "teria pedido vista se ela não pedisse; demurrage serve para manter o fluxo de equipamentos; nos muitos casos que chegam à diretoria quase nunca se discute abusividade do valor, mas quem deu causa à cobrança; indicativo de que não há falha de mercado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "voto-vista: diverge do relator; declara não demonstrada falha de mercado, base de dados de acompanhamento, item cumprido e arquivamento",
+     "ts": "0:49:16",
+     "justificativa": "regulação baseada em evidência e proporcional; valores compatíveis com o mundo; reclamações escassas frente ao volume de comércio exterior; custo regulatório alto; ampliar transparência com base de dados",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "não vota (ocupa a vaga de José Renato Fialho, que já votou)",
+     "ts": "0:26:10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "0:54:39",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "0:54:39",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "relator original (voto proferido na RD 528): encaminhar instrução normativa e AIR a audiência/consulta pública por 45 dias — vencido",
+     "ts": "0:24:55",
+     "justificativa": "metodologia de análise caso a caso, transferindo ao transportador o ônus de comprovar que a demurrage corresponde ao dano",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:54:50",
+   "processo": "50300.012208/2022-89",
+   "interessado": "3R Operações Marítimas S.A.; Petrobras Transporte S.A. (Transpetro)",
+   "assunto": "Anuência para terceirizar à Transpetro a operação e manutenção do terminal aquaviário de Guamaré (RN) por 12 meses após a transferência de titularidade do contrato de adesão 069/2015 (pedido de vista de Flávia Takafashi na RD 537)",
+   "tema": [
+    "autorização de TUP / terminal de uso privado",
+    "transferência de titularidade",
+    "operação portuária por terceiro",
+    "subautorização",
+    "terminal de combustíveis",
+    "Guamaré (RN)"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por maioria (3 x 2) nos termos do voto do relator, com a recomendação da revisora; vencidos Caio Farias e Alber Vasconcelos",
+   "resumo_voto": "Não há subautorização (Acórdão 746/2021): a relação contratual e toda a responsabilidade permanecem com a 3R. Incorporada a recomendação de Flávia: operação e manutenção não são atividade acessória, mas operação portuária por terceiro, e o poder concedente deve rever a cláusula de vedação do contrato de adesão (e da minuta padrão). Divergência: usar autorização especial de 180 dias (art. 49 da Lei 10.233 e art. 31 da RN 71/2022).",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, defere a anuência por 12 meses; incorpora recomendação da revisora",
+     "ts": "0:55:42",
+     "justificativa": "sem transferência de responsabilidade não há subautorização; precedente do Acórdão 746/2021; caso de Manaus em que exigir troca de titularidade fez o operador ir embora; assimetria com arrendamentos que podem usar operador pré-qualificado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "revisora, acompanha o relator com ressalva e recomendação ao poder concedente",
+     "ts": "0:57:55",
+     "justificativa": "operação e manutenção (válvulas, bombas, dutos) não é atividade acessória: a Transpetro atua como operadora portuária da 3R; recomenda ao poder concedente alterar a cláusula do contrato de adesão 69/2015 e da minuta padrão; autorização especial é para emergência, não para este caso",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator e a revisora",
+     "ts": "1:17:43",
+     "justificativa": "concorda totalmente com o entendimento regulatório apresentado pela diretora Flávia",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha a divergência (autorização especial de 180 dias)",
+     "ts": "1:19:11",
+     "justificativa": "concorda que não é subautorização, mas só vê o instrumento da autorização especial de 180 dias; questiona a regulação entrar em relação comercial entre duas empresas",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "diverge: autorização em caráter especial e provisório por 180 dias",
+     "ts": "1:05:52",
+     "justificativa": "paralelismo com a autorização especial e de emergência (art. 49 da Lei 10.233/2001, art. 31, IV, RN 71/2022) dá mais segurança jurídica contra a caracterização de subautorização; nova autorização se necessário para completar 12 meses",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:19:50",
+   "processo": "50300.015593/2022-16",
+   "interessado": "não informado na sessão",
+   "assunto": "Processo de relatoria de Flávia Takafashi com pedido de vista de Eduardo Nery (RD 538); vista renovada (art. 36 da RN 66) — assunto não lido",
+   "tema": [
+    "pedido de vista"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "vista renovada; julgamento adiado",
+   "resumo_voto": "Diretor-Geral renova a vista por não ter concluído sua posição; promete deliberar na próxima reunião.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "renova pedido de vista",
+     "ts": "1:20:15",
+     "justificativa": "não teve tempo hábil de formular posição; terá uma singela sugestão",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:20:52",
+   "processo": "50300.002151/2023-91 (dígitos incertos)",
+   "interessado": "Superintendência de Fiscalização e Coordenação das Unidades Regionais (SFC)",
+   "assunto": "Plano de trabalho para estruturar as fiscalizações temáticas do Plano Anual de Fiscalização 2023 (Acórdão 679/2022): desempenho das administrações portuárias, mapeamento ESG, análise de contratos de afretamento e caracterização de pontos de atracação de travessias",
+   "tema": [
+    "fiscalização e sanções",
+    "planejamento da fiscalização",
+    "sustentabilidade / ESG",
+    "navegação e afretamento",
+    "travessias",
+    "sobrestadia/demurrage de contêineres"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprovado o plano e determinado à SFC, com a SRG, apresentar plano de trabalho para avaliar fiscalização temática sobre cobranças abusivas de detention/demurrage de contêineres, para tratar causas e não só sintomas.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, aprova o plano e acrescenta determinação sobre detention/demurrage",
+     "ts": "1:26:04",
+     "justificativa": "casos de contêiner se repetem todo mês; é preciso visão sistêmica das causas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "1:26:13",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "1:26:13",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "1:26:13",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "1:26:13",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "1:26:29",
+   "processo": "50300.014944/2022-71",
+   "interessado": "Cafébras Comércio de Cafés do Brasil (representada pelo Cecafé); Hapag-Lloyd (Libra Serviços de Navegação); DHL Global Forwarding",
+   "assunto": "Mérito de denúncia com pedido de cautelar sobre cobrança de sobrestadia de contêiner (fatura de cerca de US$ 468) após alteração do deadline sem alteração do free time",
+   "tema": [
+    "serviços de transporte marítimo",
+    "sobrestadia/demurrage de contêineres",
+    "fiscalização e sanções",
+    "denúncia de usuário"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Cobrança indevida (armador alterou o deadline sem mudar o free time); determinado cancelamento e devolução dos valores da fatura pendente; sem processo sancionador (sem má-fé e por economia processual); denúncia contra a DHL arquivada por acordo entre as partes.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, determina cancelamento e devolução da cobrança e arquivamento",
+     "ts": "1:29:55",
+     "justificativa": "usuário cobrado por valores a que não deu causa; não há evidência de má-fé do armador; sancionador desproporcional pelo valor",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "1:30:47",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "1:30:47",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "1:30:47",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "1:30:47",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "1:30:58",
+   "processo": "50300.002918/2022-09",
+   "interessado": "Hidrovias do Brasil – Vila do Conde S.A.",
+   "assunto": "Consulta regulatória: transbordo de fertilizantes de barcaças para caminhões por cábrea flutuante junto a rampa de concreto fora do porto organizado — enquadramento como apoio portuário (Res. 1.766/2010) e registro (RN 13/2016)",
+   "tema": [
+    "consulta regulatória",
+    "navegação interior",
+    "navegação de apoio portuário",
+    "estação de transbordo de cargas (ETC)",
+    "registro de instalação portuária",
+    "Vila do Conde (PA)"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Operação não se amolda à navegação de apoio portuário (transbordo não é direto) e a estrutura não é registrável (usa guindaste/moega, vedado pela RN 13/2016); características de estação de transbordo de cargas.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a relatora",
+     "ts": "1:40:40",
+     "justificativa": "não há como enquadrar; problema é a demora dos processos de contrato de adesão e ETC, que precisam ser simplificados com o Ministério",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, responde à consulta: não é apoio portuário nem registrável",
+     "ts": "1:38:24",
+     "justificativa": "transbordo indireto barcaça-caminhão; equipamentos próprios de instalação portuária são incompatíveis com registro",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "1:42:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha, com observação sobre registros",
+     "ts": "1:39:18",
+     "justificativa": "registros não captam movimentação na estatística e já superam em mais de 30% o número de TUPs; relata revisão normativa em que esses casos serão avaliados",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "1:42:40",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "1:42:53",
+   "processo": "50300.003222/2020-20",
+   "interessado": "Superintendência de Desenvolvimento, Desempenho e Sustentabilidade (SDS)",
+   "assunto": "Pesquisa de satisfação dos usuários das linhas de travessia outorgadas pela ANTAQ (Amazônia, Nordeste, Centro-Sul) — projeto P4 da agenda plurianual de estudos 2021-2024",
+   "tema": [
+    "navegação interior",
+    "travessias",
+    "estudos / pesquisa de satisfação",
+    "agenda de estudos"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Cerca de 8,2 mil entrevistas em 32 linhas; perfil do usuário de baixa renda; Nordeste melhor avaliado para passageiros e Centro-Sul para veículos; demandas por segurança, pontualidade, preço e conforto. Projeto dado por cumprido e relatório publicado.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha, elogia o estudo",
+     "ts": "1:56:06",
+     "justificativa": "fiscalização do transporte de passageiros é dos maiores desafios; pesquisa capturou bem a realidade e será repetida a cada dois anos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, dá por cumprido o projeto P4 e publica o relatório",
+     "ts": "1:53:51",
+     "justificativa": "travessia é serviço com usuário pessoa física direto, em regiões remotas e carentes; dados subsidiam fiscalização e política pública",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha a relatora",
+     "ts": "1:55:12",
+     "justificativa": "cita a Operação Travessia Segura da Marinha (2016) e a complementaridade entre Marinha e ANTAQ",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "1:58:21",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "1:58:21",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "1:59:24",
+   "processo": "50300.004809/2021-37",
+   "interessado": "CODESA (Companhia Docas do Espírito Santo); Terminal Portuário do Espírito Santo (TPS)",
+   "assunto": "Cumprimento do Acórdão 530/2022 (acesso das cargas do TPS ao Porto de Vitória via descarga direta navio-caminhão) e pedido cautelar do TPS para abertura de portão específico de acesso ao berço 207",
+   "tema": [
+    "contrato de passagem / direito de passagem",
+    "autoridade portuária",
+    "acesso ao porto organizado",
+    "medida cautelar",
+    "Porto de Vitória",
+    "Vila Velha (ES)"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Solução da CODESA (descarga direta com saída pelo portão do porto, igual à de outros operadores) atende ao acórdão; não cabe à autoridade portuária nem à ANTAQ definir a rota rodoviária do TPS; dificuldades viárias do município são risco do terminal; cautelar indeferida por falta de fumaça do bom direito e perigo da demora.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:13:05",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, declara cumprida a determinação e indefere a cautelar",
+     "ts": "2:12:12",
+     "justificativa": "interesse privado do TPS não se confunde com o interesse público; novo portão exige segurança e controle; autoridade portuária tem discricionariedade para contratos de passagem",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "2:13:05",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "2:13:05",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:13:05",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "2:13:12",
+   "processo": "50300.xxxx406/2022-39 (número incompleto na legenda)",
+   "interessado": "Eliseu Empreendimentos e Participações",
+   "assunto": "Pedido de outorga de autorização de terminal de uso privado em São João da Barra (RJ) para carga geral, granel sólido e granel líquido",
+   "tema": [
+    "autorização de TUP / terminal de uso privado",
+    "outorga",
+    "São João da Barra (RJ)"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Requisitos normativos cumpridos; reconhecida a possibilidade de celebrar contrato de adesão com o Ministério de Portos e Aeroportos, recomendando atualizar certidões vencidas.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:17:32",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, reconhece a possibilidade de contrato de adesão",
+     "ts": "2:14:46",
+     "justificativa": "superintendência de outorgas atestou o cumprimento de todos os requisitos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha integralmente",
+     "ts": "2:15:47",
+     "justificativa": "lembrou a NORMAM-11 (parecer de interferência prévio exigido para início das obras); confirmou com a Capitania que o documento já foi juntado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "2:17:32",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:17:32",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "2:17:48",
+   "processo": "50300.007301/2021-xx (dígitos incertos)",
+   "interessado": "EBN Ademir dos Santos (embarcação Santos 2)",
+   "assunto": "Processo sancionador por deixar de observar normas de segurança da Marinha: naufrágio com excesso de passageiro e uma morte na travessia do Rio Uruguai entre Barra do Guarita (RS) e Itapiranga (SC), em 06/11/2019; proposta da unidade regional de multa e cassação",
+   "tema": [
+    "fiscalização e sanções",
+    "navegação interior",
+    "travessias",
+    "segurança da navegação",
+    "auto de infração",
+    "multa",
+    "suspensão de autorização"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Subsistência do auto: multa no valor máximo da dosimetria (cerca de R$ 237,50) e suspensão do termo de autorização 1089 por 90 dias com base no art. 78-A da Lei 10.233; cassação afastada (não há incidência específica com trânsito em julgado; linha bem avaliada na pesquisa de satisfação).",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:28:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "2:28:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, multa e suspensão de 90 dias, sem cassação",
+     "ts": "2:26:50",
+     "justificativa": "excesso de passageiro, condutor manteve velocidade apesar do embarque de água; multa máxima é baixa, por isso a suspensão; cassação desproporcional",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "2:28:25",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:28:25",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "2:28:34",
+   "processo": "50300.007865/2022-xx (dígitos incertos)",
+   "interessado": "Superpesa Marítima (cargas da FMC Technologies)",
+   "assunto": "Requerimento de autorização especial e emergencial por 180 dias para movimentar carga geral em instalação cujo pedido de outorga de TUP não passou da etapa de anúncio público",
+   "tema": [
+    "autorização especial / emergencial",
+    "autorização de TUP / terminal de uso privado",
+    "petróleo e gás (apoio offshore)"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "indeferido por maioria (4 x 1) nos termos do voto divergente de Caio Farias; vencido o relator Lima Filho",
+   "resumo_voto": "Divergência vencedora: o processo de outorga não progrediu por inércia da requerente (não passou do anúncio público) e sucessivas autorizações especiais criariam expectativa de operação extraordinária permanente; SFC acompanha os desdobramentos.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a divergência",
+     "ts": "2:37:47",
+     "justificativa": "coerência com precedente recente; requerente não apresenta a documentação exigida; sensibilizado com a importância econômica",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha a divergência",
+     "ts": "2:36:51",
+     "justificativa": "autorização especial não pode ser banalizada para empresas que não dão andamento ao processo de outorga",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, defere por 180 dias improrrogáveis condicionado à entrega de documentos — vencido",
+     "ts": "2:32:46",
+     "justificativa": "a empresa já tem a declaração de adequação do poder concedente; interesse público na continuidade (tributos, empregos, cadeia de petróleo e gás); sem documentos não opera",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha a divergência",
+     "ts": "2:36:01",
+     "justificativa": "precedentes da casa são de empresas com outorga já avançada; aqui nem passou do anúncio público",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "diverge: indefere a autorização especial",
+     "ts": "2:34:01",
+     "justificativa": "sem progresso significativo no processo de outorga por inércia da requerente; não preenchidos art. 49 da Lei 10.233 e art. 31 da RN 71",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "2:39:46",
+   "processo": "50300.000125/2020-28 (dígitos incertos)",
+   "interessado": "Santos Port Authority (SPA); empresas autoras da cautelar (agenciamento, operador portuário e Marítima Eurobras, nomes distorcidos na legenda); Sete Portos Logística",
+   "assunto": "Medida cautelar antecedente contra a cláusula 14ª, §1º, do contrato de transição DIPRE 10/2020 do Porto de Santos (direito de preferência de atracação nos berços contíguos)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "contrato de transição",
+    "medida cautelar",
+    "Porto de Santos"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Contrato de transição não foi renovado e a área está com outra empresa: arquivamento por perda superveniente do objeto; reiterada a determinação à SFC de fiscalizar eventual desvio de finalidade do contrato de transição.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:45:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "2:45:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, arquiva por perda de objeto e reitera fiscalização",
+     "ts": "2:45:00",
+     "justificativa": "não há resultado útil nem interesse de agir; não se verificou se a fiscalização determinada foi instaurada",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "2:45:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:45:40",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "23",
+   "ts": "2:46:32",
+   "processo": "50300.000421/2023-29",
+   "interessado": "Porto de Itaguaí (área ITG02)",
+   "assunto": "Abertura de audiência e consulta pública para o arrendamento da área ITG02 no Porto de Itaguaí (granéis sólidos minerais)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "licitação",
+    "audiência / consulta pública",
+    "Porto de Itaguaí"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Estudos aderentes à RN 85/2022 e aos acórdãos do TCU, com ressalva sobre três cotações de custos paramétricos a ser tratada na consulta; pendência do termo de referência do Ibama não impede a audiência (é condição para o contrato).",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha, exalta a primeira audiência pública de 2023",
+     "ts": "2:50:18",
+     "justificativa": "área importante que há muito tempo se tenta explorar; confiança na modelagem",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "2:50:56",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "2:50:56",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, abre audiência e consulta pública",
+     "ts": "2:49:08",
+     "justificativa": "primeira área de 2023; desafio de contratos de transição e áreas a licitar nos próximos quatro anos; área entre dois arrendamentos já existentes",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:50:56",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "24",
+   "ts": "2:51:03",
+   "processo": "não informado na sessão",
+   "interessado": "Suape Granéis (arrendatária da SUA07, Porto de Suape)",
+   "assunto": "Petição de suspensão do pagamento do arrendamento da SUA07 por o terminal não ter sido entregue livre e desimpedido; pedido de apuração das condições de devolução dos bens do contrato de transição 56/2022",
+   "tema": [
+    "arrendamento em porto organizado",
+    "equilíbrio contratual",
+    "fiscalização e sanções",
+    "Porto de Suape"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Pleito de suspensão encaminhado ao Ministério de Portos e Aeroportos, consignando que eventual deferimento afeta o equilíbrio do contrato de arrendamento 10/2022; SFC apura infrações na devolução dos bens do contrato de transição.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:53:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "2:53:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "2:53:40",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, encaminha ao poder concedente e determina apuração à SFC",
+     "ts": "2:53:00",
+     "justificativa": "prazo de obrigação contratual é do poder concedente; termo de aceitação provisória só serve para ajuste de inventário",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:53:40",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "25",
+   "ts": "2:53:45",
+   "processo": "50300.000926/2023-93",
+   "interessado": "Samarco Mineração (em recuperação judicial); Subsea 7 (contratante, nome provável)",
+   "assunto": "Autorização especial e de emergência por 180 dias para movimentar e armazenar contêineres (tubos e estruturas submarinas para FPSO do pré-sal na Bacia de Santos) no TUP Terminal Marítimo de Ponta Ubu, Anchieta (ES)",
+   "tema": [
+    "autorização especial / emergencial",
+    "autorização de TUP / terminal de uso privado",
+    "contêineres",
+    "navegação de apoio marítimo",
+    "petróleo e gás",
+    "Anchieta (ES)"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deferido por 180 dias a partir de março de 2023; continuidade de cargas conteinerizadas depende de inclusão de novo perfil no contrato de adesão pelo rito normal.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:57:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "2:57:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "2:57:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, defere por 180 dias",
+     "ts": "2:56:49",
+     "justificativa": "contêiner não é atividade principal; acomodação por praticidade e segurança da carga offshore",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:57:20",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "ts": "2:57:26",
+   "processo": "50300.017112/2022-15",
+   "interessado": "Santos Port Authority (SPA); Embraport",
+   "assunto": "Pedido da SPA de harmonizar a interpretação de que toda a Estrada Particular da Codesp está dentro da poligonal do Porto de Santos (cobrança tarifária pelo uso), contra o Acórdão 95/2019",
+   "tema": [
+    "tarifas portuárias",
+    "poligonal do porto organizado",
+    "segurança jurídica",
+    "Porto de Santos"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Pedido negado: alterar o Acórdão 95/2019 (não recorrido) com efeitos retroativos afrontaria a segurança jurídica; consignado que só acórdãos da diretoria expressam posição da agência; crítica ao envio de parecer técnico preliminar aos interessados, usado pela SPA em tribunal arbitral.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha, propõe tratar internamente o acesso a notas técnicas",
+     "ts": "3:02:56",
+     "justificativa": "nota técnica só deve ficar acessível às partes após posicionamento do superintendente; gerente não deve se comunicar direto com presidente de Docas; sugere normativo interno",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "3:07:57",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "3:07:57",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, nega o pedido da SPA",
+     "ts": "3:01:44",
+     "justificativa": "coisa julgada administrativa; notas técnicas e pareceres são só subsídios; envio de parecer preliminar sem aprovação do superintendente foi temerário",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "3:07:57",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "27",
+   "ts": "3:08:07",
+   "processo": "50300.022214/2022-xx (dígitos incertos)",
+   "interessado": "MG São Caetano Indústria de Beneficiamento (arrendatária transitória da SUA07); Porto de Suape; Suape Granéis",
+   "assunto": "Petição alegando ilegalidades no leilão 2/2022 da área SUA07 (Suape) e condutas da autoridade portuária; movimentação de coque de petróleo",
+   "tema": [
+    "arrendamento em porto organizado",
+    "licitação",
+    "contrato de transição",
+    "Porto de Suape",
+    "coque de petróleo"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Indeferidos os pedidos 2, 3 e 4 (lisura da licitação comprovada) e perda de objeto dos pedidos 1 e 5 (contrato de arrendamento 10/2022 assinado em 03/11/2022); Suape deve apresentar em 30 dias plano de ocupação de áreas subutilizadas quanto ao coque de petróleo, com acompanhamento da SFC.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "3:13:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "3:13:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "3:13:00",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, indefere e determina plano a Suape",
+     "ts": "3:11:59",
+     "justificativa": "estatística: quase metade do coque de Suape em 2022 movimentado pela MG e quase todo no cais 5 de uso público; novo contrato só exige movimentação mínima a partir do 3º ano; risco de desabastecimento",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "3:13:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "28",
+   "ts": "3:13:05",
+   "processo": "50300.022636/2022-xx (dígitos incertos)",
+   "interessado": "Suape Granéis (arrendatária da SUA07, Porto de Suape)",
+   "assunto": "Manifestação sobre as condições de recebimento da área SUA07 (má conservação, coque deixado pela antiga arrendatária) e prazo para licenças ambientais",
+   "tema": [
+    "arrendamento em porto organizado",
+    "termo de aceitação provisória",
+    "Porto de Suape"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Negado provimento ao pedido dirigido à ANTAQ: ao assinar o termo de aceitação provisória a arrendatária anuiu com o estado dos bens; coque não é vício oculto; demais pedidos fogem à competência da agência.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "3:16:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "3:16:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "3:16:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, nega provimento",
+     "ts": "3:16:02",
+     "justificativa": "intervalo de 7 dias entre contrato e aceitação; bens poderiam ter sido recusados sem reequilíbrio (cláusula 15.4.1)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "3:16:20",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "29",
+   "ts": "3:16:38",
+   "processo": "50300.003423/2023-xx (dígitos incertos)",
+   "interessado": "Administradora de Bens de Infraestrutura S.A. (grupo Dislub)",
+   "assunto": "Autorização especial por 180 dias (a partir de 13/04/2023) para granéis líquidos (combustíveis) em TUP de Santarém (PA) cujo contrato de adesão 5/2021 tem cláusula suspensiva pendente de cessão de espaço pela SPU",
+   "tema": [
+    "autorização especial / emergencial",
+    "autorização de TUP / terminal de uso privado",
+    "granel líquido / combustíveis",
+    "SPU / cessão de espaço físico em águas públicas",
+    "Santarém (PA)"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deferida nova autorização especial; requerente não deu causa à demora da SPU; dispensada consulta à Procuradoria sobre construção do terminal sob cláusula suspensiva (já tratada em processo sancionador).",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha",
+     "ts": "3:30:48",
+     "justificativa": "inadmissível ficar dois anos autorizando em caráter precário; agência deve tomar todas as providências ao seu alcance",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "3:31:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "3:31:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha, com preocupação",
+     "ts": "3:29:05",
+     "justificativa": "já é a quinta autorização especial; propõe endereçar o problema da SPU ao Ministério de Portos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, defere por 180 dias",
+     "ts": "3:27:50",
+     "justificativa": "Decreto 8.033/2013 privilegia investimento frente à burocracia da SPU (formalismo moderado); abastecimento de combustíveis de Santarém",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "30",
+   "ts": "3:31:57",
+   "processo": "50300.000698/2021-xx (dígitos incertos)",
+   "interessado": "Portos RS (Autoridade Portuária dos Portos do Rio Grande do Sul S.A.)",
+   "assunto": "Revisão tarifária extraordinária com padronização da estrutura tarifária do porto organizado de Pelotas (RS)",
+   "tema": [
+    "tarifas portuárias",
+    "padronização de estrutura tarifária (Res. 61/2021)",
+    "revisão tarifária",
+    "Porto de Pelotas"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologada a revisão (receita tarifária anual projetada de cerca de R$ 662,7 mil; reajuste médio de cerca de 54% e efeito médio de cerca de 63%, conforme legenda), após 15 dias úteis sem manifestação contrária do poder concedente; última revisão foi em 2015.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha; sugere reflexões futuras",
+     "ts": "3:40:30",
+     "justificativa": "prazo para usuários se manifestarem antes de alterações tarifárias; cobrança de acesso aquaviário sem contrapartida quando o calado homologado não é mantido",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "3:44:23",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "3:44:23",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha; compartilha a preocupação do Diretor-Geral",
+     "ts": "3:43:27",
+     "justificativa": "usuários de diversos portos foram surpreendidos com novos valores e contratos em vigor foram prejudicados",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, homologa e aprova a revisão tarifária",
+     "ts": "3:39:17",
+     "justificativa": "metodologia consolidada; nexo causal é a padronização decidida pela agência",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "31",
+   "ts": "3:44:28",
+   "processo": "não informado na sessão",
+   "interessado": "Companhia Docas de Santana (CDSA)",
+   "assunto": "Revisão tarifária extraordinária com padronização da estrutura tarifária do porto organizado de Santana (AP)",
+   "tema": [
+    "tarifas portuárias",
+    "padronização de estrutura tarifária (Res. 61/2021)",
+    "revisão tarifária",
+    "Porto de Santana"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologada a revisão (receita tarifária anual projetada de cerca de R$ 18,8 milhões; reajuste médio de cerca de 62% e efeito médio de cerca de 59%, conforme legenda), após 15 dias úteis sem manifestação contrária do poder concedente; pendência contábil saneada; última revisão em 2015.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "3:53:48",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "3:53:48",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "3:53:48",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "3:53:48",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, homologa e aprova a revisão tarifária",
+     "ts": "3:52:48",
+     "justificativa": "requisitos da RN 61/2021 cumpridos; padronização é nexo causal",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "7, 8, 10, 11 e 12",
+   "relator": "Eduardo Nery (provável: anunciados durante suas relatorias)",
+   "motivo": "retirados conforme despachos nos autos",
+   "ts": "1:26:20"
+  },
+  {
+   "item": "19",
+   "relator": "Lima Filho",
+   "motivo": "retirado de pauta por despacho do relator",
+   "ts": "2:39:40"
+  },
+  {
+   "item": "21 e 22",
+   "relator": "não identificado (legenda: «diretor de...»)",
+   "motivo": "retirados antes do início da reunião",
+   "ts": "2:46:10"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo frequentemente incompletos ou com dígitos trocados (marcados como incertos); nomes de empresas distorcidos (ex.: «paglóide» = Hapag-Lloyd, «cafebrais» = Cafébras, «Eurobrex» = Eurobras).",
+  "O .md não tem marcadores de minuto além do início; ts obtidos em data/transcricoes/2-2UVQD1d1M.json por busca de frase.",
+  "Data 2023-04-04 vem do cabeçalho (possível data de upload); a fala não cita a data; o item 29 menciona autorização vigente até 12/04/2023, o que é coerente com início de abril de 2023.",
+  "Na nova dinâmica de votação conjunta, a maior parte dos diretores não declara voto: votos «acompanha o relator» são inferidos da proclamação de aprovação (confiança baixa).",
+  "Item 4: atribuição de falas inferida — o diretor da «crise existencial» que adere à autorização especial é identificado como Alber Vasconcelos (o DG o chama de «Doutor Alves/Alber» na colheita) e quem acompanha relator e revisora é Lima Filho («o Almirante já colocou o voto dele»); placar 3 x 2 coerente com a proclamação do voto do relator.",
+  "Item 18: o DG proclama «nos termos do voto revisor representado pelo diretor Lima Filho», lapso; pelo contexto, prevaleceu a divergência de Caio Farias (indeferimento); a fala «precedentes dessa casa» é atribuída a Alber Vasconcelos (ex-superintendente de outorgas) com confiança media.",
+  "Item 3: José Renato Fialho votou na RD 528 (voto não repetido nesta sessão); Lima Filho não votou por ocupar a vaga dele.",
+  "Item 5: assunto do processo não foi lido na sessão.",
+  "Valores (multa, receitas tarifárias, percentuais) transcritos da legenda e arredondados; podem conter erros."
+ ]
+}

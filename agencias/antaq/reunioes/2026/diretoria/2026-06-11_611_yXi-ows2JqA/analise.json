@@ -1,0 +1,1895 @@
+{
+ "meta": {
+  "video_id": "yXi-ows2JqA",
+  "fonte": "legenda automática do YouTube; falantes inferidos e frequentemente errados; ts = tempo do vídeo; ts de votos de seguidores aproximados (momento da aprovação)",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "611",
+  "data": "2026-06-11",
+  "formato": "reunião ordinária (transmitida; sustentações orais por videoconferência)",
+  "presidente_da_sessao": "Frederico Dias (Diretor-Geral)",
+  "diretores_presentes": [
+   "Frederico Dias",
+   "Lima Filho",
+   "Alber Vasconcelos",
+   "Caio Farias",
+   "Cristina Castro (diretora substituta)"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Data: o título e o upload indicam 22/06/2026, mas a abertura celebra o Dia da Marinha (11 de junho) e cita workshop no próximo 16 de junho; adotado 11/06/2026 (inferência).",
+   "Presentes também o secretário-geral (Paulo, sobrenome incerto) e o procurador-chefe da PF-ANTAQ (Flávio, sobrenome incerto). Atas das RDs 607, 608 e 610 homologadas.",
+   "DG comunicou a Portaria SFC 1/2026 (autocomposição em denúncias na logística de contêineres, após Acórdão 72/2026 sobre sobre-estadia) e o GT de solução consensual; homenagem à Marinha na pessoa de Lima Filho.",
+   "Item 18 (Vports/Technip) suspenso a pedido do relator após alegação de vício de intimação e retomado no fim: provido, 1º aditamento invalidado; DG sugeriu anular em vez de revogar.",
+   "Vistas: Lima Filho nos itens 2, 3 e 31 (bloqueio parcial na RN 129/2025); vista no item 20 (provavelmente do DG); vista renovada por Lima Filho no item 10.",
+   "Item 12 (Bram Offshore): prevaleceu o voto-vista do revisor Lima Filho, com adesão do relator Alber Vasconcelos e acréscimo do prazo de 30 dias para contratação após circularização.",
+   "Item 23: DG acompanhou com declaração de voto e fundamentos diversos (EBN sem lastro pode circularizar e afretar nas hipóteses do art. 9º); debate sobre votar fundamento x acórdão.",
+   "Item 37 (BTP) retirado de pauta pela relatora após questão de ordem de Caio Farias sobre contraditório e intempestividade.",
+   "Não houve voto vencido registrado; aprovações em geral sem chamada nominal (matéria em votação, aprovado)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:03:57",
+   "processo": "50300.002558/2026-61",
+   "interessado": "Bandeirantes Deicmar Logística Integrada Ltda. (legenda: Bandeirantes Tek Mar; sustentação oral: Natasha Lage de Oliveira França)",
+   "assunto": "Recurso de reconsideração contra o item 5.4 do Acórdão 831/2025 (teto para serviços acessórios em contêiner LCL igual ao do FCL; aplicação imediata aos processos sancionadores em curso), com sustentação oral; pede efeitos só prospectivos",
+   "tema": [
+    "recursos administrativos",
+    "serviços nos terminais (serviços acessórios LCL/FCL)",
+    "tarifas portuárias",
+    "fiscalização e sanções",
+    "sustentação oral",
+    "Porto de Santos"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "negado provimento (aprovado sem manifestação contrária)",
+   "resumo_voto": "Advogada: entendimento sobre abusividade em LCL oscilou nas áreas técnicas por anos; aplicação retroativa fere isonomia (só a Bandeirantes é sancionada). Relator: norma vigente à época (RN 3274, art. 32, depois RN 715) já vedava cobrança abusiva; o Acórdão 831/2025 não criou infração nova, apenas consolidou critérios interpretativos (parecer da PFA); recurso conhecido e desprovido.",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, aprova",
+     "ts": "0:16:29",
+     "justificativa": "acórdão não criou nova infração; norma vigente ao tempo dos fatos já proibia preços abusivos (tempus regit actum, parecer PFA)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "0:20:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "0:20:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "0:20:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "0:20:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "0:20:55",
+   "processo": "50300.001688/2026-94 (legenda também lê 50300.011688/2026-94)",
+   "interessado": "Alise/Alísio Empreendimentos e Participações S.A. (recorrente; legenda varia: Alírio, Lísio, Alíseo), Technip Brasil Engenharia (apoio marítimo) e Vports Autoridade Portuária (Porto de Vitória); sustentações: Alessandro Marques (recorrente), Fábio Viana (Technip), Eloína/Elaina Ebert (Vports)",
+   "assunto": "Recurso de reconsideração contra o Acórdão 178/2026 (que validou o 1º termo aditivo ao contrato de exploração de instalação portuária 082/2022 entre Vports e Technip, ampliando área); alegada violação do Código de Conduta (item 5.4, áreas em vias de desocupação) e do PDZ do Porto de Vitória; ofícios 334 e 465/2026 do MPor sobre caráter vinculante do código",
+   "tema": [
+    "concessão de porto (Vports / Porto de Vitória)",
+    "recursos administrativos",
+    "código de conduta da concessionária",
+    "PDZ",
+    "sustentação oral",
+    "concorrência"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "provido por unanimidade (julgamento suspenso de manhã e retomado no fim da sessão); 1º aditamento declarado inválido (DG propôs o termo anular em vez de revogar, por vício procedimental)",
+   "resumo_voto": "Relator suspendeu o julgamento após o advogado da Technip alegar intimação para contrarrazões só na véspera; na retomada disse não haver prejuízo ao contraditório. Mérito: o código de conduta define áreas disponíveis como desocupadas ou em vias de desocupação; a área não foi divulgada no site da Vports, comprometendo isonomia e transparência; poder concedente afirma caráter vinculante; quanto ao PDZ, cláusula resolutiva afasta irregularidade. Reforma itens 5.2, 5.4 e 5.5 do Acórdão 178/2026, não reconhece a validade do 1º aditamento e recomenda à Vports propor ao MPor alteração do código (item 9.1). Risco do precedente foi o argumento final do relator.",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, dá provimento (reforma Acórdão 178/2026; invalida o 1º aditamento)",
+     "ts": "5:24:27",
+     "justificativa": "código de conduta é vinculante e foi descumprido (área em vias de desocupação não divulgada); abrir precedente desacreditaria o único instrumento de cobrança do governo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator, com observações",
+     "ts": "5:34:39",
+     "justificativa": "concessão não é privatização; ampliação de área não dispensa código de conduta e PDZ; autonomia da concessionária não é cheque em branco",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator; propõe trocar revogar por anular",
+     "ts": "5:38:30",
+     "justificativa": "limites da atuação do ente privado numa concessão portuária: pode muito, mas não pode tudo; flexibilizar vulnerabilizaria o próprio leilão; código de conduta nasceu de alerta do TCU",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "5:45:33",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator (apoiou o termo anular, segundo o DG)",
+     "ts": "5:45:33",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "27",
+   "ts": "0:57:01",
+   "processo": "50300.022577/2023-61",
+   "interessado": "Associação de Terminais Portuários Privados (ATP; advogado Filipe Correia Castilho) x Vports Autoridade Portuária (Portos de Vitória e Barra do Riacho); TUPs de Tubarão e Praia Mole",
+   "assunto": "Denúncia com pedido de medida cautelar contra a cobrança do item 4 da Tabela 1 (VTMS, cerca de R$ 12.104 por embarcação) sobre navios destinados a TUPs fora da poligonal do Porto de Vitória; com sustentação oral",
+   "tema": [
+    "tarifas portuárias (VTMS / acesso aquaviário)",
+    "concessão de porto (Vports)",
+    "autorização de TUP / terminal de uso privado",
+    "fiscalização e sanções",
+    "sustentação oral"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "cautelar indeferida e denúncia julgada improcedente, por unanimidade; acrescida, por sugestão de Lima Filho, determinação à SRG para analisar em autos apartados se o valor do item 4 da Tabela 1 adere aos custos",
+   "resumo_voto": "Advogado: custos do VTMS já estão na Tabela 1 e na modelagem; TUPs fora da poligonal não integram a base econômica; dupla remuneração e distorção concorrencial. Relator: ausência de segregação de receitas nos estudos não veda disciplina tarifária posterior; serviço obrigatório (Normam 602) e efetivamente prestado; evita free rider e subsídio cruzado; sem desequilíbrio demonstrado; agência já conteve valores. Acolheu sugestão de processo apartado na SRG.",
+   "votos": [
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, aprova",
+     "ts": "1:15:09",
+     "justificativa": "serviço de VTMS obrigatório e efetivamente prestado; isonomia entre usuários; sem prova de desequilíbrio; três superintendências convergentes",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "1:22:17",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha, com sugestão de determinação à SRG (acolhida)",
+     "ts": "1:20:16",
+     "justificativa": "tema recorrente; valor cobrado precisa ser avaliado frente aos custos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "1:22:17",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "1:22:17",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:22:17",
+   "processo": "50300.014981/2025-22",
+   "interessado": "Subsea 7 do Brasil Serviços Ltda., Instituto Brasileiro de Petróleo e Gás (IBP; advogado Luís Cláudio Furtado Faria) e Sindicato Nacional das Empresas de Navegação Marítima (Syndarma; engenheiro Dino Antunes Dias Batista)",
+   "assunto": "Recursos de reconsideração (julgamento em bloco dos itens 2, 3 e 31) contra o Acórdão 393/2025, que aprovou a RN ANTAQ 129/2025 (afretamento por EBN), quanto à expressão 'parte da operação requerida' na definição de bloqueio parcial (art. 2º, X); alegam falta de base legal, de AIR e de consulta pública específica",
+   "tema": [
+    "navegação e afretamento (apoio marítimo, circularização, bloqueio parcial)",
+    "regulação normativa",
+    "recursos administrativos",
+    "sustentação oral",
+    "EBN"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "pedido de vista de Lima Filho (concedida) após relatório e sustentações; voto do relator não proferido",
+   "resumo_voto": "Relator leu só o relatório: SRG inadmitiu o recurso da Subsea 7 (sem legitimidade); recursos de IBP e Syndarma admitidos só no efeito devolutivo; SRG e SOG opinaram por negar provimento (ajuste redacional que reflete prática já consolidada; tema na agenda 2025-2028). Lima Filho pediu vista: bloqueio parcial o preocupa; inaceitável que embarcação de apoio marítimo preparada por meses seja bloqueada; manual de afretamento em elaboração.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator (apresentou só o relatório; voto não proferido)",
+     "ts": "1:23:39",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "pede vista",
+     "ts": "1:47:35",
+     "justificativa": "bloqueio parcial precisa ser sistematizado; embarcação que se preparou por meses não pode ser bloqueada após o investimento",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "concede a vista",
+     "ts": "1:48:32",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:22:17",
+   "processo": "50300.014983/2025-11",
+   "interessado": "Subsea 7 do Brasil Serviços Ltda., Instituto Brasileiro de Petróleo e Gás (IBP; advogado Luís Cláudio Furtado Faria) e Sindicato Nacional das Empresas de Navegação Marítima (Syndarma; engenheiro Dino Antunes Dias Batista)",
+   "assunto": "Recursos de reconsideração (julgamento em bloco dos itens 2, 3 e 31) contra o Acórdão 393/2025, que aprovou a RN ANTAQ 129/2025 (afretamento por EBN), quanto à expressão 'parte da operação requerida' na definição de bloqueio parcial (art. 2º, X); alegam falta de base legal, de AIR e de consulta pública específica",
+   "tema": [
+    "navegação e afretamento (apoio marítimo, circularização, bloqueio parcial)",
+    "regulação normativa",
+    "recursos administrativos",
+    "sustentação oral",
+    "EBN"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "pedido de vista de Lima Filho (concedida) após relatório e sustentações; voto do relator não proferido",
+   "resumo_voto": "Relator leu só o relatório: SRG inadmitiu o recurso da Subsea 7 (sem legitimidade); recursos de IBP e Syndarma admitidos só no efeito devolutivo; SRG e SOG opinaram por negar provimento (ajuste redacional que reflete prática já consolidada; tema na agenda 2025-2028). Lima Filho pediu vista: bloqueio parcial o preocupa; inaceitável que embarcação de apoio marítimo preparada por meses seja bloqueada; manual de afretamento em elaboração.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator (apresentou só o relatório; voto não proferido)",
+     "ts": "1:23:39",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "pede vista",
+     "ts": "1:47:35",
+     "justificativa": "bloqueio parcial precisa ser sistematizado; embarcação que se preparou por meses não pode ser bloqueada após o investimento",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "concede a vista",
+     "ts": "1:48:32",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "31",
+   "ts": "1:22:17",
+   "processo": "50300.014982/2025-77 (legenda incerta)",
+   "interessado": "Subsea 7 do Brasil Serviços Ltda., Instituto Brasileiro de Petróleo e Gás (IBP; advogado Luís Cláudio Furtado Faria) e Sindicato Nacional das Empresas de Navegação Marítima (Syndarma; engenheiro Dino Antunes Dias Batista)",
+   "assunto": "Recursos de reconsideração (julgamento em bloco dos itens 2, 3 e 31) contra o Acórdão 393/2025, que aprovou a RN ANTAQ 129/2025 (afretamento por EBN), quanto à expressão 'parte da operação requerida' na definição de bloqueio parcial (art. 2º, X); alegam falta de base legal, de AIR e de consulta pública específica",
+   "tema": [
+    "navegação e afretamento (apoio marítimo, circularização, bloqueio parcial)",
+    "regulação normativa",
+    "recursos administrativos",
+    "sustentação oral",
+    "EBN"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "pedido de vista de Lima Filho (concedida) após relatório e sustentações; voto do relator não proferido",
+   "resumo_voto": "Relator leu só o relatório: SRG inadmitiu o recurso da Subsea 7 (sem legitimidade); recursos de IBP e Syndarma admitidos só no efeito devolutivo; SRG e SOG opinaram por negar provimento (ajuste redacional que reflete prática já consolidada; tema na agenda 2025-2028). Lima Filho pediu vista: bloqueio parcial o preocupa; inaceitável que embarcação de apoio marítimo preparada por meses seja bloqueada; manual de afretamento em elaboração.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator (apresentou só o relatório; voto não proferido)",
+     "ts": "1:23:39",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "pede vista",
+     "ts": "1:47:35",
+     "justificativa": "bloqueio parcial precisa ser sistematizado; embarcação que se preparou por meses não pode ser bloqueada após o investimento",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "concede a vista",
+     "ts": "1:48:32",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:48:32",
+   "processo": "50300.007947/2022-59",
+   "interessado": "Ministério de Portos e Aeroportos e ANTAQ (área VDC04, Porto de Vila do Conde)",
+   "assunto": "Referendo da Deliberação DG 37/2026: prorrogação até 3/7/2026 do prazo de contribuições da Audiência Pública 4/2026 (documentos da licitação da área VDC04)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "participação social / audiência pública",
+    "referendo"
+   ],
+   "relator": "Frederico Dias",
+   "resultado": "referendado",
+   "resumo_voto": "Prorrogação justificada por eventos relatados e necessidade de tempo hábil para acesso e discussão dos documentos do certame.",
+   "votos": [
+    {
+     "diretor": "Frederico Dias",
+     "voto": "relator (DG), referenda",
+     "ts": "1:48:32",
+     "justificativa": "tempo hábil para discutir documentos do certame",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "1:50:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "1:50:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "1:50:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "1:50:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:50:00",
+   "processo": "50300.014393/2026-70",
+   "interessado": "Ministério de Portos e Aeroportos, Estado de Pernambuco e Porto do Recife",
+   "assunto": "Referendo da Deliberação DG 31/2026: 1º termo aditivo ao convênio de delegação 002/2001 do Porto Organizado do Recife (prorrogação por 5 anos a partir de 1º de junho; plano de ação de manutenção e recuperação de ativos incorporado ao convênio; ANTAQ interveniente)",
+   "tema": [
+    "institucional / delegação de porto",
+    "porto organizado (Recife)",
+    "referendo"
+   ],
+   "relator": "Frederico Dias",
+   "resultado": "referendado",
+   "resumo_voto": "Análise técnica e parecer da PFA sem óbice; compromissos da ANTAQ vinculados às suas competências; renovação futura condicionada ao cumprimento do plano de ação.",
+   "votos": [
+    {
+     "diretor": "Frederico Dias",
+     "voto": "relator (DG), referenda",
+     "ts": "1:50:00",
+     "justificativa": "análise técnica e jurídica sem óbice à participação da ANTAQ como interveniente",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "1:52:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "1:52:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "1:52:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "1:52:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:52:20",
+   "processo": "50300.011399/2026-95",
+   "interessado": "Companhia Docas do Rio de Janeiro (Portos Rio); EBNs de proteção ambiental desabilitadas",
+   "assunto": "Referendo da Deliberação DG 30/2026: cautelar (pedido subsidiário) suspendendo subitens 3 e 5 do item 5.4.1 e item 8.5 da instrução normativa da Portos Rio sobre prevenção à poluição por óleo e reintegrando ao cadastro as empresas desabilitadas",
+   "tema": [
+    "fiscalização e sanções (medida cautelar)",
+    "navegação de apoio portuário / proteção ambiental",
+    "autoridade portuária",
+    "referendo",
+    "sustentabilidade"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "referendado",
+   "resumo_voto": "Transição de só 10 dias excluiu quase automaticamente as EBNs habilitadas; autoridade portuária tem competência normativa mas não pode surpreender regulados; cabível só o pedido subsidiário até análise de mérito.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, referenda",
+     "ts": "1:52:20",
+     "justificativa": "regra nova sem transição adequada surpreendeu empresas cadastradas; cautelar subsidiária",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "1:55:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "1:55:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "1:55:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "1:55:49",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "1:55:49",
+   "processo": "50300.014083/2026-55",
+   "interessado": "Baiana Distribuidora de Gás Ltda. (Ultragaz); Porto de Suape",
+   "assunto": "Referendo da Deliberação DG 36/2026: nova autorização especial e emergencial por até 180 dias para continuidade da exploração de área do contrato de arrendamento 005/98 em Suape (GLP), até contrato de transição",
+   "tema": [
+    "arrendamento em porto organizado",
+    "autorização especial / emergencial",
+    "referendo",
+    "Porto de Suape"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "referendado",
+   "resumo_voto": "Relevância pública do abastecimento regional de GLP; mais prazo para solução contratual definitiva; mesmas condições financeiras e operacionais; classificação da área fica para o processo do contrato de transição.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, referenda",
+     "ts": "1:55:49",
+     "justificativa": "evitar ruptura no fornecimento regional de GLP; requisitos do art. 49 da Lei 10.233 cumpridos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "1:58:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "1:58:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "1:58:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "1:58:36",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "1:58:36",
+   "processo": "50300.010234/2026-4? (legenda: 50300.01.02.34.2026.4)",
+   "interessado": "empresa de madeiras (legenda: Madeira e Car e TDA) e Maersk Brasil (Brasmar)",
+   "assunto": "Referendo da Deliberação DG 35/2026: cautelar suspendendo fatura em denúncia contra transportador marítimo",
+   "tema": [
+    "navegação e afretamento (longo curso)",
+    "serviços nos terminais (sobre-estadia/demurrage)",
+    "fiscalização e sanções (medida cautelar)",
+    "referendo"
+   ],
+   "relator": "Cristina Castro",
+   "resultado": "referendado",
+   "resumo_voto": "Requisitos de fumaça do bom direito e perigo na demora demonstrados.",
+   "votos": [
+    {
+     "diretor": "Cristina Castro",
+     "voto": "relatora, referenda",
+     "ts": "1:58:54",
+     "justificativa": "fumaça do bom direito e perigo na demora",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "1:59:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "1:59:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "1:59:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "1:59:46",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "1:59:50",
+   "processo": "50300.012064/2026-94",
+   "interessado": "Bras Bunker Participações S.A. (terminal, contrato de adesão 9/2020, Baía de Guanabara)",
+   "assunto": "Referendo da Deliberação DG 33/2026: autorização especial e emergencial por 180 dias a partir de 1º/6/2026 para movimentação de granel líquido (diesel marítimo) enquanto se regulariza área junto à SPU",
+   "tema": [
+    "autorização de TUP / terminal de uso privado",
+    "autorização especial / emergencial",
+    "referendo",
+    "navegação de apoio (bunker)"
+   ],
+   "relator": "Cristina Castro",
+   "resultado": "referendado",
+   "resumo_voto": "Interesse público no apoio logístico às embarcações na Baía de Guanabara; persistem as circunstâncias das autorizações anteriores; tratativas de regularização patrimonial na SPU.",
+   "votos": [
+    {
+     "diretor": "Cristina Castro",
+     "voto": "relatora, referenda",
+     "ts": "1:59:50",
+     "justificativa": "continuidade do abastecimento de óleo diesel marítimo; regularização na SPU em curso",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "2:01:56",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "2:01:56",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "2:01:56",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:01:56",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "2:01:56",
+   "processo": "50300.003320/2024-91",
+   "interessado": "ANTAQ",
+   "assunto": "Item 1.1 da agenda regulatória 2025-2028: revisão e simplificação do estoque regulatório da navegação interior (retorno de vista)",
+   "tema": [
+    "regulação normativa",
+    "agenda regulatória",
+    "navegação interior"
+   ],
+   "relator": "Cristina Castro",
+   "resultado": "pedido de vista renovado pelo revisor Lima Filho; não deliberado",
+   "resumo_voto": "Relatora Cristina Castro, revisor Lima Filho; DG anunciou que a vista seria renovada.",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "renova pedido de vista (revisor)",
+     "ts": "2:01:56",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "2:01:56",
+   "processo": "50300.009996/2024-98",
+   "interessado": "Administração dos Portos de Paranaguá e Antonina (APPA) e Ascensus (arrendatária PAR12)",
+   "assunto": "Retorno de vista: EVTEA das obras de adequação do Gate 16 (fora da área arrendada) no contrato de arrendamento 42/2021, Porto de Paranaguá; reequilíbrio econômico-financeiro",
+   "tema": [
+    "arrendamento em porto organizado",
+    "reequilíbrio econômico-financeiro",
+    "Porto de Paranaguá"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado por unanimidade (proposta única, após o relator retirar do dispositivo o ponto que motivou a vista de Alber Vasconcelos); sigilo dos autos mantido",
+   "resumo_voto": "Voto do relator (RD 607): obra sob termo de risco de investimento é evento de desequilíbrio; rejeita o valor da arrendatária (cerca de 683 mil) e adota o apurado pela GPO (cerca de 667 mil, base out/2019); VPL negativo de 557.563,01. Alber pediu vista por dúvida sobre rejeitar o investimento e ao mesmo tempo reequilibrar; relator retirou esse trecho.",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, aprova (com ajuste no dispositivo)",
+     "ts": "2:04:33",
+     "justificativa": "ajustou o dispositivo para formar voto único",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "2:05:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "voto-vista: acompanha após ajuste do relator",
+     "ts": "2:05:06",
+     "justificativa": "dúvida sobre dispositivo que rejeitava o investimento e ao mesmo tempo reequilibrava; resolvida com a retirada",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:05:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "2:05:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "2:05:25",
+   "processo": "50300.028428/2025-77",
+   "interessado": "Bram Offshore Transportes Marítimos (embarcação estrangeira AHTS 'Southwest', legenda incerta); Petrobras (afretadora); EBNs bloqueantes",
+   "assunto": "Retorno de vista: pedido de medida cautelar para manter o certificado de autorização de afretamento (CAA) de embarcação estrangeira de apoio marítimo em contrato de 4 anos com a Petrobras, bloqueada na circularização de renovação",
+   "tema": [
+    "navegação e afretamento (apoio marítimo, circularização, bloqueio)",
+    "fiscalização e sanções (medida cautelar)",
+    "EBN"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado nos termos do voto-vista do revisor Lima Filho, com acréscimo proposto pelo relator Alber Vasconcelos (item 5.7: SRG e SOG considerem, na revisão da resolução de afretamento, prazo de 30 dias após a circularização para a circularizante contratar a embarcação bloqueante)",
+   "resumo_voto": "Revisor (vista na RD 607, antes do voto do relator): embarcação parada há mais de um ano na Baía de Guanabara, diária de cerca de 43 mil dólares; contrato privado reveste-se de interesse público; perigo na demora real. Determina emissão urgente de CAA por 180 dias, revogável se houver bloqueio firme com contrato assinado; SOG deve notificar bloqueantes para provar capacidade técnica; SFC deve instaurar processo contra a Petrobras (não contratou a bloqueada nem as bloqueantes desde 2024) e contra bloqueantes indevidos. Relator, que antes não conhecia do pedido (a EBN afretadora é a Petrobras), aderiu e pediu inclusão do prazo de 30 dias. DG: solução excepcional; circularização estaria sendo instrumentalizada para fins comerciais.",
+   "votos": [
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator; adere ao voto do revisor com acréscimo (prazo de 30 dias na revisão da norma)",
+     "ts": "2:20:26",
+     "justificativa": "contrato de 4 anos com CAA de 1 ano gera insegurança; circularizante bloqueia e não contrata ninguém",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "voto-vista (revisor): defere a cautelar, CAA por 180 dias e determinações à SOG e SFC",
+     "ts": "2:06:31",
+     "justificativa": "prejuízo contínuo (diária de cerca de 43 mil dólares), risco a marítimos; bloqueantes sem capacidade comprovada; defesa da bandeira brasileira, mas não dessa forma",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha",
+     "ts": "2:24:47",
+     "justificativa": "circularização é instituto fundamental e não pode ser instrumentalizada para fins comerciais; solução excepcional e razoável",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha",
+     "ts": "2:29:41",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha",
+     "ts": "2:29:41",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "2:29:41",
+   "processo": "50300.000688/2026-69",
+   "interessado": "Autoridade Portuária de Santos (APS); TGS e Porto de Santos Ltda. (área STS29)",
+   "assunto": "Recurso de reconsideração da APS contra o Acórdão 804/2025 (suspendeu os efeitos do contrato de transição 18/2025 da área STS29 até cumprimento de determinações)",
+   "tema": [
+    "arrendamento em porto organizado (contrato de transição)",
+    "recursos administrativos",
+    "Porto de Santos"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "conhecido; perda parcial de objeto quanto à suspensão; no restante, negado provimento (aprovado)",
+   "resumo_voto": "Acórdão 182/2026 já revogou a suspensão após cumprimento das determinações; contrato fora celebrado sem prévia autorização e sem as condicionantes (vedação de preferência de atracação, cláusula resolutiva ligada ao leilão do Tecon Santos 10); decisão foi proporcional.",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, aprova",
+     "ts": "2:30:14",
+     "justificativa": "fato superveniente (Acórdão 182/2026); decisão recorrida proporcional",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "2:33:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "2:33:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:33:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "2:33:36",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "2:33:36",
+   "processo": "50300.010491/2024-76",
+   "interessado": "Suape (autoridade portuária), operadoras dos pátios de triagem (legenda: Sulog/Suape Log, Conlog/Coral Log) e associação embargante (legenda: ABAC/ABASTE); advogada Ingrid Zanella",
+   "assunto": "Embargos de declaração (itens 14, 15 e 16 em bloco) contra os Acórdãos 714/2023 e 715/2023 sobre os pátios de triagem obrigatórios fora do porto de Suape e a franquia (free time) de 45 minutos",
+   "tema": [
+    "serviços nos terminais (pátios de triagem / agendamento)",
+    "recursos administrativos",
+    "autoridade portuária",
+    "Porto de Suape",
+    "transporte rodoviário de cargas (caminhoneiros)"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado: embargos das operadoras providos (com efeitos infringentes) e da associação desprovidos; suprimida a franquia de 45 minutos (item 5.2.4 do Acórdão 715/2023) e o item 5.2 do 714/2023",
+   "resumo_voto": "Relator reformou o próprio voto com base em voto da ex-diretora Flávia Takafashi: pátios eliminaram filas quilométricas, trouxeram segurança, conforto (banho, alimentação, lavanderia), pontualidade e regularidade 24h; caso Suape é excepcionalidade; associação silenciou no chamamento público de 2016-2017; não cobrança inviabilizaria os pátios; Suape deve vigiar os preços dos credenciados. Faturamento médio citado (legenda) cerca de 2,3 milhões/mês.",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, aprova (reformou o voto)",
+     "ts": "2:39:13",
+     "justificativa": "pátios de triagem trazem eficiência, segurança e dignidade aos caminhoneiros; voltar ao antigo pátio seria retrocesso social",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "2:48:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "2:48:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:48:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "2:48:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "2:33:36",
+   "processo": "não lido na sessão (julgado em bloco com o item 14)",
+   "interessado": "Suape (autoridade portuária), operadoras dos pátios de triagem (legenda: Sulog/Suape Log, Conlog/Coral Log) e associação embargante (legenda: ABAC/ABASTE); advogada Ingrid Zanella",
+   "assunto": "Embargos de declaração (itens 14, 15 e 16 em bloco) contra os Acórdãos 714/2023 e 715/2023 sobre os pátios de triagem obrigatórios fora do porto de Suape e a franquia (free time) de 45 minutos",
+   "tema": [
+    "serviços nos terminais (pátios de triagem / agendamento)",
+    "recursos administrativos",
+    "autoridade portuária",
+    "Porto de Suape",
+    "transporte rodoviário de cargas (caminhoneiros)"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado: embargos das operadoras providos (com efeitos infringentes) e da associação desprovidos; suprimida a franquia de 45 minutos (item 5.2.4 do Acórdão 715/2023) e o item 5.2 do 714/2023",
+   "resumo_voto": "Relator reformou o próprio voto com base em voto da ex-diretora Flávia Takafashi: pátios eliminaram filas quilométricas, trouxeram segurança, conforto (banho, alimentação, lavanderia), pontualidade e regularidade 24h; caso Suape é excepcionalidade; associação silenciou no chamamento público de 2016-2017; não cobrança inviabilizaria os pátios; Suape deve vigiar os preços dos credenciados. Faturamento médio citado (legenda) cerca de 2,3 milhões/mês.",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, aprova (reformou o voto)",
+     "ts": "2:39:13",
+     "justificativa": "pátios de triagem trazem eficiência, segurança e dignidade aos caminhoneiros; voltar ao antigo pátio seria retrocesso social",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "2:48:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "2:48:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:48:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "2:48:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "2:33:36",
+   "processo": "não lido na sessão (julgado em bloco com o item 14)",
+   "interessado": "Suape (autoridade portuária), operadoras dos pátios de triagem (legenda: Sulog/Suape Log, Conlog/Coral Log) e associação embargante (legenda: ABAC/ABASTE); advogada Ingrid Zanella",
+   "assunto": "Embargos de declaração (itens 14, 15 e 16 em bloco) contra os Acórdãos 714/2023 e 715/2023 sobre os pátios de triagem obrigatórios fora do porto de Suape e a franquia (free time) de 45 minutos",
+   "tema": [
+    "serviços nos terminais (pátios de triagem / agendamento)",
+    "recursos administrativos",
+    "autoridade portuária",
+    "Porto de Suape",
+    "transporte rodoviário de cargas (caminhoneiros)"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado: embargos das operadoras providos (com efeitos infringentes) e da associação desprovidos; suprimida a franquia de 45 minutos (item 5.2.4 do Acórdão 715/2023) e o item 5.2 do 714/2023",
+   "resumo_voto": "Relator reformou o próprio voto com base em voto da ex-diretora Flávia Takafashi: pátios eliminaram filas quilométricas, trouxeram segurança, conforto (banho, alimentação, lavanderia), pontualidade e regularidade 24h; caso Suape é excepcionalidade; associação silenciou no chamamento público de 2016-2017; não cobrança inviabilizaria os pátios; Suape deve vigiar os preços dos credenciados. Faturamento médio citado (legenda) cerca de 2,3 milhões/mês.",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, aprova (reformou o voto)",
+     "ts": "2:39:13",
+     "justificativa": "pátios de triagem trazem eficiência, segurança e dignidade aos caminhoneiros; voltar ao antigo pátio seria retrocesso social",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "2:48:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "2:48:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:48:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "2:48:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "2:48:45",
+   "processo": "50300.011246/2025-67",
+   "interessado": "Aquapar Consultoria Naval (consulente); embarcação cable layer estrangeira; empresas estrangeiras (irlandesa e francesa) do cabo Europa-Brasil",
+   "assunto": "Consulta sobre normas aplicáveis ao lançamento e reparo de cabos submarinos de telecomunicações por embarcação estrangeira em navegação de longo curso",
+   "tema": [
+    "navegação e afretamento (longo curso, circularização)",
+    "consulta regulatória",
+    "telecomunicações (cabos submarinos)"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado; DG acompanha expressamente",
+   "resumo_voto": "Circularização é prerrogativa de EBNs (Lei 9.432 e RN 129); contratantes estrangeiras, contrato em vigor desde 2024, longo curso fora da obrigatoriedade; neste caso específico os serviços não se enquadram na prioridade de afretamento por EBN.",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, aprova",
+     "ts": "2:49:30",
+     "justificativa": "Lei 9.432 não se aplica a empresas estrangeiras em longo curso; circularizar cabo de Lisboa não tem lógica",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "2:57:15",
+     "justificativa": "caso distinto do Acórdão 417/2023 (entendimento corrente não se aplica)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "2:57:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:57:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "2:57:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "2:57:15",
+   "processo": "50300.020846/2025-16",
+   "interessado": "Autoridade Portuária de Santos e Transbrasiliana (legenda: Transnitária/Transbase/Transbrasil)",
+   "assunto": "Recurso de reconsideração da APS contra o Acórdão 523/2025: validação de investimentos urgentes e não amortizados e metodologia de depreciação para eventual indenização (área SSZ33 eco, legenda incerta; lei complementar municipal restritiva)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "indenização de investimentos",
+    "recursos administrativos",
+    "Porto de Santos",
+    "competência federal x lei municipal"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "provido (aprovado)",
+   "resumo_voto": "Valida investimentos da Portaria DIP 139/2024 (cerca de R$ 10,314 milhões, base nov/2024) e depreciação linear até a entrega da área; saldo não amortizado entra nos estudos da futura licitação; diferenças de custo absorvidas ou compensadas pela Transbrasiliana. Relator reforça PFE: lei municipal restritiva pode usurpar competência da União, precedente perigoso.",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, aprova",
+     "ts": "3:02:30",
+     "justificativa": "manifestações técnicas e jurídicas convergentes; lei municipal não pode se sobrepor à Lei 12.815",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "3:06:17",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "3:06:17",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "3:06:17",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "3:06:17",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "3:06:17",
+   "processo": "50300.028932/2024-08",
+   "interessado": "ANTAQ",
+   "assunto": "Cumprimento da determinação do Acórdão 133/2026",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "pedido de vista (provavelmente do DG Frederico Dias)",
+   "resumo_voto": "Na leitura da pauta, quem presidia pediu ao relator Lima Filho autorização para registrar interesse e pedir vista.",
+   "votos": [
+    {
+     "diretor": "Frederico Dias",
+     "voto": "pede vista",
+     "ts": "3:06:17",
+     "justificativa": "registrou interesse no processo",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "3:06:48",
+   "processo": "50300.028054/2025-90",
+   "interessado": "Wilson Sons (legenda: Financiamento e Serviços Portuários); APS, Setport e outras",
+   "assunto": "Embargos de declaração contra o Acórdão 729/2025 (processos seletivos simplificados 01/2025 e 02/2025 do Porto de Santos: perfil de carga, preferência de atracação, cláusula resolutiva)",
+   "tema": [
+    "arrendamento em porto organizado (processo seletivo simplificado)",
+    "recursos administrativos",
+    "Porto de Santos"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "conhecidos; mérito prejudicado por perda superveniente de objeto (aprovado)",
+   "resumo_voto": "Deliberação DG 26/2026, referendada pelo Acórdão 273/2026, alterou os comandos impugnados do Acórdão 729/2025.",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, aprova",
+     "ts": "3:07:04",
+     "justificativa": "perda superveniente de objeto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "3:11:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "3:11:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "3:11:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "3:11:41",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "22",
+   "ts": "3:11:41",
+   "processo": "50300.030661/2025-10",
+   "interessado": "Origem Energia e Infraestrutura Portuária S.A. (área MAC11, Porto de Maceió); Petrobras (antiga operadora); MPor",
+   "assunto": "Recomposição do equilíbrio econômico-financeiro do contrato de arrendamento 01/2024: aquisição de ativos não reversíveis da antiga operadora acima do previsto na modelagem, para continuidade operacional do Terminal Marítimo de Alagoas",
+   "tema": [
+    "arrendamento em porto organizado",
+    "reequilíbrio econômico-financeiro",
+    "Porto de Maceió"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado; sigilo dos autos mantido",
+   "resumo_voto": "Reconhece evento de desequilíbrio; valor de cerca de R$ 21,3 milhões (base fev/2022) apurado pela GPO; compensação por abatimento das parcelas vincendas da outorga; autos ao MPor.",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, aprova",
+     "ts": "3:12:06",
+     "justificativa": "aquisição era condição da premissa de continuidade operacional do edital, não liberalidade",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "3:19:44",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "3:19:44",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "3:19:44",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "3:19:44",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "23",
+   "ts": "3:20:01",
+   "processo": "50300.003744/2025-36",
+   "interessado": "Logística Brasil (Associação Brasileira dos Usuários dos Portos, Transportes e Logística)",
+   "assunto": "Consulta: EBN cuja outorga de cabotagem se baseia só em embarcação estrangeira afretada a casco nu com suspensão de bandeira (BR do Mar, art. 10 §§1º-4º da Lei 9.432) pode circularizar e afretar estrangeira por tempo ou viagem?",
+   "tema": [
+    "navegação e afretamento (cabotagem, BR do Mar, circularização)",
+    "consulta regulatória",
+    "EBN"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado (acórdão do relator); DG acompanha o dispositivo com declaração de voto e fundamentos diversos",
+   "resumo_voto": "Relator: lei distingue EBN com lastro e sem lastro; as sem lastro não podem afretar por tempo ou viagem, exceto nas hipóteses do art. 9º; não podem bloquear (art. 10 §5º); casco nu ilimitado. DG: não há vedação legal a que EBN sem frota própria circularize e afrete nas hipóteses do art. 9º; dados mostram uso recorrente (Shell, Norcoast etc.); mudança de interpretação exigiria AIR e consulta pública. Relator confirmou que o dispositivo permite afretar nas hipóteses do art. 9º. Lima Filho pensou em divergir em parte, mas acompanhou após conversar com o relator. Houve debate sobre votar fundamentos x acórdão.",
+   "votos": [
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, aprova",
+     "ts": "3:20:01",
+     "justificativa": "art. 9º combinado com art. 10 da Lei 9.432: legislador diferenciou EBN com e sem lastro; sem lastro não bloqueia",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o acórdão, com declaração de voto (fundamentos diversos)",
+     "ts": "3:30:09",
+     "justificativa": "lei não distingue EBN pela composição da frota; vedação do §5º recai sobre a embarcação; mudar interpretação geraria insegurança jurídica",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "3:45:30",
+     "justificativa": "EBN com lastro pode bloquear, sem lastro não; ambas podem afretar nas hipóteses do art. 9º",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "3:52:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "3:52:08",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "43",
+   "ts": "3:52:08",
+   "processo": "50300.009555/2026 (legenda incompleta)",
+   "interessado": "Ministério de Portos e Aeroportos, Autoridade Portuária de Santos e Movecta S.A. (contrato PRES 26/96, terminal frigorífico em Santos)",
+   "assunto": "Ofício 184/2026 da SNP: análise do estudo de viabilidade para o termo aditivo de autocomposição APS-Movecta (prazo de amortização de investimentos de cerca de R$ 191 milhões)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "autocomposição / solução consensual",
+    "reequilíbrio econômico-financeiro",
+    "Porto de Santos",
+    "institucional/TCU"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado",
+   "resumo_voto": "ANTAQ só ajusta a modelagem a pedido do poder concedente, sem aprovar o termo de autocomposição nem reabrir os Acórdãos 407/2022 e 443/2023. Pela NT 78/2026 da GPO, os investimentos não se amortizam no horizonte estimado; contrato poderia durar todo o limite de 25 anos do 5º aditivo; autos ao MPor e à APS; acordo deve ser enviado ao TCU.",
+   "votos": [
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, aprova",
+     "ts": "3:52:24",
+     "justificativa": "autocomposição é escolha do poder concedente; agência apenas fornece subsídio técnico (NT 78/2026)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "4:05:33",
+     "justificativa": "agência não faz o reequilíbrio, apenas subsidia a autocomposição",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "4:05:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "4:05:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "4:05:33",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "24",
+   "ts": "4:06:27",
+   "processo": "50300.013023/2026 (dígitos finais não lidos)",
+   "interessado": "Empresa Maranhense de Administração Portuária (EMAP, Porto do Itaqui) e SEMA-MA",
+   "assunto": "Consulta sobre acordo de cooperação técnica com a Secretaria de Meio Ambiente do Maranhão para sistema de monitoramento meteorológico (bens em comodato) à luz do convênio de delegação 16/2000 e da RN 43/2021",
+   "tema": [
+    "consulta regulatória",
+    "bens reversíveis",
+    "porto delegado (Itaqui)",
+    "sustentabilidade"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado",
+   "resumo_voto": "Regras de controle patrimonial compatíveis com o convênio e a RN 43/2021; bens seguem da EMAP e reversíveis; dispensada aprovação prévia da ANTAQ do ACT e das aquisições.",
+   "votos": [
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, aprova",
+     "ts": "4:06:27",
+     "justificativa": "acompanha a GRP/SRG: titularidade da EMAP preserva o regime de bens reversíveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "4:11:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "4:11:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "4:11:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "4:11:48",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "28",
+   "ts": "4:12:00",
+   "processo": "50300.001576/2026 (legenda incerta)",
+   "interessado": "Portos Rio (Porto do Rio de Janeiro) e Triunfo Logística Ltda.",
+   "assunto": "Contrato de transição para exploração do Pátio 09 (6.032 m², produtos siderúrgicos) enquanto se conclui a substituição de área do contrato de arrendamento 72/97",
+   "tema": [
+    "arrendamento em porto organizado (contrato de transição)",
+    "Porto do Rio de Janeiro"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "aprovado",
+   "resumo_voto": "Autoriza o contrato, mas diverge da SOG quanto a vincular o transitório ao arrendamento 72/97 (risco de novação; simetria das formas exige termo aditivo com o MPor); mantém só cláusula resolutiva; SOG ajusta a minuta e prossegue com a substituição de área.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, aprova",
+     "ts": "4:12:00",
+     "justificativa": "interesse público na continuidade; vinculação ao arrendamento original geraria insegurança jurídica",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "4:20:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "4:20:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "4:20:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "4:20:28",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "29",
+   "ts": "4:20:28",
+   "processo": "50300.004791/2026-88",
+   "interessado": "Marine Production Systems do Brasil Ltda. (contrato de adesão 9/2022)",
+   "assunto": "Prorrogação por até dois anos do prazo para apresentar a documentação de uso da área (certidão da SPU) como condição de eficácia do contrato de adesão",
+   "tema": [
+    "autorização de TUP / terminal de uso privado",
+    "outorga (contrato de adesão)",
+    "SPU"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "aprovado",
+   "resumo_voto": "Dispensa da certidão já fora negada na RD 603; prorrogação pedida tempestivamente, prevista na cláusula 17ª e na Portaria Minfra 1064/2020; dois anos por economia processual.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, aprova",
+     "ts": "4:20:28",
+     "justificativa": "requisitos da prorrogação cumpridos; morosidade da SPU reconhecida",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "4:23:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "4:23:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "4:23:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "4:23:38",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "30",
+   "ts": "4:23:44",
+   "processo": "50300.013794/2026-11",
+   "interessado": "Clipe - Centro Logístico Industrial e Portuário Ltda. (Estaleiro Clipe, Rio de Janeiro); Petrobras",
+   "assunto": "Autorização especial e emergencial por até 180 dias para atracação e descomissionamento da plataforma P-35 da Petrobras (legenda também diz P-75)",
+   "tema": [
+    "autorização especial / emergencial",
+    "instalação de apoio / estaleiro",
+    "descomissionamento de plataformas",
+    "sustentabilidade"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "aprovado",
+   "resumo_voto": "Caráter especial e urgente: saída da plataforma da base da Marinha prevista para 17 de julho; sem instalação alternativa; não dispensa exigências da Receita e dos intervenientes; SFC acompanha. Um diretor (não identificado) divulgou workshop da ANTAQ sobre descomissionamento em 16 de junho com a UFF.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, aprova",
+     "ts": "4:23:44",
+     "justificativa": "urgência do cronograma de descomissionamento e ausência de alternativa",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "4:28:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "4:28:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "4:28:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "4:28:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "32",
+   "ts": "4:28:39",
+   "processo": "50300.001491/2026-47",
+   "interessado": "Reliance Agenciamento e Serviços Portuários Ltda. (área SSV35-2? do Porto de Santos; legenda incerta)",
+   "assunto": "Recurso de reconsideração (itens 32 e 33 em bloco) contra o Acórdão 805/2025, que suspendeu o contrato de transição 17/2025 do processo seletivo simplificado 01/2025",
+   "tema": [
+    "arrendamento em porto organizado (contrato de transição)",
+    "recursos administrativos",
+    "Porto de Santos",
+    "institucional/TCU"
+   ],
+   "relator": "Cristina Castro",
+   "resultado": "recurso prejudicado por perda superveniente de objeto (aprovado)",
+   "resumo_voto": "Acórdão 1068/2026-TCU-Plenário mandou retificar os Acórdãos 729 e 805/2025; Deliberação DG 26/2026 autorizou a execução do contrato nos termos originais do edital.",
+   "votos": [
+    {
+     "diretor": "Cristina Castro",
+     "voto": "relatora, aprova",
+     "ts": "4:28:39",
+     "justificativa": "cumprimento de determinação do TCU esvaziou o recurso",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "4:32:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "4:32:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "4:32:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "4:32:57",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "33",
+   "ts": "4:28:39",
+   "processo": "50300.000689/2026-11",
+   "interessado": "Autoridade Portuária de Santos (área SSV35-2? do Porto de Santos; legenda incerta)",
+   "assunto": "Recurso de reconsideração (itens 32 e 33 em bloco) contra o Acórdão 805/2025, que suspendeu o contrato de transição 17/2025 do processo seletivo simplificado 01/2025",
+   "tema": [
+    "arrendamento em porto organizado (contrato de transição)",
+    "recursos administrativos",
+    "Porto de Santos",
+    "institucional/TCU"
+   ],
+   "relator": "Cristina Castro",
+   "resultado": "recurso prejudicado por perda superveniente de objeto (aprovado)",
+   "resumo_voto": "Acórdão 1068/2026-TCU-Plenário mandou retificar os Acórdãos 729 e 805/2025; Deliberação DG 26/2026 autorizou a execução do contrato nos termos originais do edital.",
+   "votos": [
+    {
+     "diretor": "Cristina Castro",
+     "voto": "relatora, aprova",
+     "ts": "4:28:39",
+     "justificativa": "cumprimento de determinação do TCU esvaziou o recurso",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "4:32:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "4:32:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "4:32:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "4:32:57",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "34",
+   "ts": "4:33:02",
+   "processo": "50300.001542/2026-31",
+   "interessado": "Complexo Industrial Portuário Governador Eraldo Gueiros (Porto de Suape)",
+   "assunto": "Reajuste tarifário do Porto Organizado de Suape (29 meses, ago/2023 a dez/2025; IPCA de 11,03%, produtividade de 1%; reajuste médio de 9,80%, efeito médio de 6,09%)",
+   "tema": [
+    "tarifas portuárias (reajuste)",
+    "Porto de Suape"
+   ],
+   "relator": "Cristina Castro",
+   "resultado": "aprovado",
+   "resumo_voto": "Acompanha a área técnica; aderência à RN 61/2021; homologação após 15 dias úteis sem manifestação do poder concedente.",
+   "votos": [
+    {
+     "diretor": "Cristina Castro",
+     "voto": "relatora, aprova",
+     "ts": "4:33:02",
+     "justificativa": "proposta alinhada à RN 61/2021 e à contabilidade regulatória",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "4:36:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "4:36:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "4:36:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "4:36:19",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "37",
+   "ts": "4:36:27",
+   "processo": "legenda: 503010110202611 (incerto)",
+   "interessado": "Brasil Terminal Portuário S.A. (BTP) e Bandeirantes Deicmar Logística Integrada",
+   "assunto": "Petição da BTP (protocolada como embargos de declaração) contra o Acórdão 141/2026 (cautelar suspendendo a taxa de aplicação de rótulos IMO, item 6.44 da tabela da BTP)",
+   "tema": [
+    "serviços nos terminais (rotulagem IMO / cargas perigosas)",
+    "tarifas portuárias",
+    "fiscalização e sanções (medida cautelar)",
+    "recursos administrativos",
+    "Porto de Santos"
+   ],
+   "relator": "Cristina Castro",
+   "resultado": "retirado de pauta pela relatora após questão de ordem de Caio Farias (voto lido, depois retirado)",
+   "resumo_voto": "Relatora propunha revogar a cautelar com efeitos prospectivos (custo da rotulagem cabe ao embarcador/importador). Caio levantou intempestividade dos embargos e necessidade de ouvir a parte contrária (Bandeirantes), pois a petição tem efeito infringente; DG achou pertinente; relatora retirou de pauta.",
+   "votos": [
+    {
+     "diretor": "Cristina Castro",
+     "voto": "relatora; propôs revogar a cautelar, depois retirou de pauta",
+     "ts": "4:48:17",
+     "justificativa": "custos da rotulagem recaem sobre o embarcador ou o importador; autotutela permite rever entendimento",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "questão de ordem (intempestividade; contraditório da parte contrária)",
+     "ts": "4:44:56",
+     "justificativa": "efeito infringente exige contrarrazões e eventual manifestação da SRG",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "considera pertinente a questão de ordem",
+     "ts": "4:49:11",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "36",
+   "ts": "4:49:36",
+   "processo": "50300.005588/2026-29",
+   "interessado": "Companhia Docas de Santana (Porto de Santana)",
+   "assunto": "Reajuste tarifário do Porto Organizado de Santana (1/7/2024 a 31/12/2025; reajuste médio de 6,65%, efeito médio de 8,17%)",
+   "tema": [
+    "tarifas portuárias (reajuste)",
+    "Porto de Santana"
+   ],
+   "relator": "Cristina Castro",
+   "resultado": "aprovado",
+   "resumo_voto": "Dados corretos no ProRet; recomposição do IPCA de 18 meses; comunicação prévia ao MF e MPor.",
+   "votos": [
+    {
+     "diretor": "Cristina Castro",
+     "voto": "relatora, aprova",
+     "ts": "4:49:53",
+     "justificativa": "acompanha o Parecer Técnico 10/2026 GRP/SRG",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "4:52:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "4:52:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "4:52:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "4:52:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "38",
+   "ts": "4:52:45",
+   "processo": "50300.023504/2025-58",
+   "interessado": "Norcoast Logística S.A. (EBN)",
+   "assunto": "Consulta sobre nova outorga de longo curso só com embarcações estrangeiras afretadas a casco nu (REB), sem lastro",
+   "tema": [
+    "navegação e afretamento (longo curso, outorga)",
+    "consulta regulatória",
+    "agenda regulatória"
+   ],
+   "relator": "Cristina Castro",
+   "resultado": "aprovado: prevalece a exigência de lastro do art. 5º da RN 133/2025; SRG estuda flexibilização no item 2.4 da agenda regulatória 2025-2028",
+   "resumo_voto": "Divergência interna (GOA contra; GAF e SOG a favor); relatora reconhece tendência de liberalização, mas flexibilizar em caso concreto compromete estabilidade regulatória (Acórdão 268/2026); remete ao rito normativo.",
+   "votos": [
+    {
+     "diretor": "Cristina Castro",
+     "voto": "relatora, aprova",
+     "ts": "4:52:54",
+     "justificativa": "norma vigente exige lastro; mudança deve ocorrer pela via normativa",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "4:57:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "4:57:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "4:57:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "4:57:11",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "40",
+   "ts": "4:57:17",
+   "processo": "50300.029254/2025-60",
+   "interessado": "Novo Porto Terminais Portuários Multicarga e Logística Ltda. (TUP em Paranaguá, contrato de adesão 11/2018)",
+   "assunto": "Manifestação ao MPor sobre alteração do cronograma de investimentos (cerca de R$ 6,245 bilhões em 60 meses) e 2ª prorrogação do início da operação do TUP",
+   "tema": [
+    "autorização de TUP / terminal de uso privado",
+    "licenciamento ambiental",
+    "Porto de Paranaguá"
+   ],
+   "relator": "Cristina Castro",
+   "resultado": "aprovado",
+   "resumo_voto": "Critérios do Acórdão 355/2024 atendidos; entraves de licenciamento estadual (IAT) e ação judicial em perícia; empresa diligente; SFC acompanha após a aprovação do novo cronograma. Um diretor (provavelmente Caio Farias) sugeriu levantar para o MPor os TUPs travados por licenciamento.",
+   "votos": [
+    {
+     "diretor": "Cristina Castro",
+     "voto": "relatora, aprova",
+     "ts": "4:57:17",
+     "justificativa": "requisitos atendidos; sem indício de abandono do projeto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "5:08:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "5:08:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "5:08:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha a relatora, com observação",
+     "ts": "5:06:05",
+     "justificativa": "sugere levantar TUPs autorizados travados por licenciamento ambiental para o MPor",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "41",
+   "ts": "5:09:03",
+   "processo": "50300.031036/2025-95",
+   "interessado": "Reunidas Madeiras Ltda. (legenda: Reunille/Reonile) e Maersk Brasil (Brasmar); BSP Assessoria; TCP Paranaguá",
+   "assunto": "Reavaliação da cautelar do Acórdão 772/2025 que suspendera cobrança de sobre-estadia de contêiner",
+   "tema": [
+    "navegação e afretamento (longo curso)",
+    "serviços nos terminais (sobre-estadia/demurrage)",
+    "fiscalização e sanções (medida cautelar)"
+   ],
+   "relator": "Cristina Castro",
+   "resultado": "cautelar revogada (aprovado)",
+   "resumo_voto": "Ouvida a Maersk: reserva feita em nome de terceiro (BSP) para driblar bloqueio por inadimplência; sem fumaça do bom direito; carga já descarregada e retirada, sem perigo na demora. Mantém que recusar embarque de contêiner já no terminal é retenção de carga, só cabível por frete ou avaria grossa.",
+   "votos": [
+    {
+     "diretor": "Cristina Castro",
+     "voto": "relatora, aprova",
+     "ts": "5:09:03",
+     "justificativa": "ocultação do real beneficiário afasta a fumaça do bom direito; urgência não subsiste",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "5:14:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "5:14:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "5:14:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "5:14:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "42",
+   "ts": "5:14:51",
+   "processo": "50300.014785/2026-39",
+   "interessado": "ANTAQ (Superintendência de ESG e Inovação)",
+   "assunto": "Aprovação do Guia de Incentivo à Liderança Feminina 'Navegando Juntas'",
+   "tema": [
+    "institucional",
+    "sustentabilidade / ESG",
+    "equidade de gênero"
+   ],
+   "relator": "Cristina Castro",
+   "resultado": "aprovado; elogios de vários diretores",
+   "resumo_voto": "Guia alinhado ao ODS 5 e ao planejamento estratégico; eixos de compromissos individuais e institucionais e indicadores; sucede o guia contra o assédio (2024); pauta herdada da ex-diretora Flávia Takafashi.",
+   "votos": [
+    {
+     "diretor": "Cristina Castro",
+     "voto": "relatora, aprova",
+     "ts": "5:14:51",
+     "justificativa": "promoção da igualdade de gênero no setor aquaviário",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha, com elogio",
+     "ts": "5:21:15",
+     "justificativa": "ANTAQ consegue influenciar o setor regulado; comitês interno e externo",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "5:23:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha, com elogio",
+     "ts": "5:19:00",
+     "justificativa": "relata visita à China com Caio: equidade na automação",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "5:23:04",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "35 - 50300.004744/2023-91",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta por despacho",
+   "ts": "0:03:57"
+  },
+  {
+   "item": "39 - 50300.029019/2025-98",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta por despacho",
+   "ts": "0:03:57"
+  },
+  {
+   "item": "25",
+   "relator": "Alber Vasconcelos",
+   "motivo": "retirado de pauta pelo relator na sessão",
+   "ts": "4:06:09"
+  },
+  {
+   "item": "26",
+   "relator": "Alber Vasconcelos",
+   "motivo": "retirado de pauta pelo relator na sessão",
+   "ts": "4:06:09"
+  },
+  {
+   "item": "37 - BTP (legenda incerta)",
+   "relator": "Cristina Castro",
+   "motivo": "retirado pela relatora após questão de ordem de Caio Farias",
+   "ts": "4:49:04"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo truncados ou com dígitos trocados (itens 8, 18, 28, 31, 37, 43, 24 marcados como incertos); nomes de empresas distorcidos (Alise/Alísio/Lísio, Bandeirantes Deicmar, Transbrasiliana, Reunidas Madeiras, Suape grafado SWAP).",
+  "Rótulos de falante {..} do .md são inferidos e muitas vezes errados; atribuições baseadas no conteúdo: vista dos itens 2/3/31 a Lima Filho (confirmada por Alber e DG); vista do item 20 ao DG (media); comentário do item 18 às 5:34 a Alber Vasconcelos (baixa, pois cita Caio na terceira pessoa); comentário do item 40 às 5:06 a Caio Farias (baixa); comentário do item 42 às 5:19 a Alber (baixa).",
+  "Números de pauta inferidos pela ordem: 24 (EMAP), 34 (reajuste Suape), 40 (Novo Porto), 41 (Reunidas/Maersk); itens 15 e 16 (bloco com o 14) e 31 não tiveram todos os números lidos com clareza.",
+  "Na maioria dos itens os demais diretores não se manifestaram individualmente: votos registrados como acompanha o relator, confiança media e ts aproximado do anúncio de aprovado.",
+  "Item 1 e outros encerrados com 'é decisão' sem anúncio expresso de unanimidade; tratado como aprovado sem divergência.",
+  "Item 18: Caio Farias foi o relator do Acórdão 178/2026 reformado; não se manifestou na votação final (registrado como acompanha, confiança baixa).",
+  "Itens 11 e 22 tiveram sigilo dos autos mantido; não houve sessão fechada.",
+  "Valores monetários (VTMS, Gate 16, MAC11, Transbrasiliana, Suape, Novo Porto) vêm da legenda e podem conter erros."
+ ]
+}

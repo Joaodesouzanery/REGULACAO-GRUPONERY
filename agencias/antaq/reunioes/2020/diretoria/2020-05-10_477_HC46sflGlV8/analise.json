@@ -1,0 +1,1147 @@
+{
+ "meta": {
+  "video_id": "HC46sflGlV8",
+  "fonte": "legenda automática do YouTube, sem pontuação e muito distorcida; ts tirados de data/transcricoes/HC46sflGlV8.json; ts de quem só acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "477",
+  "data": "2020-05-10",
+  "formato": "videoconferência (pandemia de covid-19)",
+  "presidente_da_sessao": "Francisval Mendes (Diretor-Geral substituto)",
+  "diretores_presentes": [
+   "Francisval Mendes",
+   "Adalberto Tokarski",
+   "Gabriela Costa (diretora substituta)"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Mário Povia já não integra o colegiado: nos itens 1 e 2, em que ele votou antes, Gabriela Costa não vota.",
+   "Aprovada a ata da 476ª ROD.",
+   "Uma divergência que prevaleceu: item 3 (voto-vista de Gabriela Costa vence o relator Adalberto Tokarski). No item 1 Mário Povia ficou vencido (voto-vista anterior).",
+   "Gabriela Costa impedida nos itens 20, 21 e 22 (atuou antes como superintendente ou julgadora originária).",
+   "Pedidos de vista: itens 8 (Adalberto), 19 e 26 (Gabriela). Itens 14 e 15 julgados em bloco. Itens 10 e 25 retirados."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:02:05",
+   "processo": "50300.001006/2019 (parcial)",
+   "interessado": "Triunfo Logística Ltda. (arrendatária no porto do Rio de Janeiro); Companhia Docas do Rio de Janeiro",
+   "assunto": "Consulta sobre o regime de uso dos dolfins a serem construídos no terminal de produtos siderúrgicos (contrato de arrendamento C-DEPJUR 72/97, prorrogado até 2037) – voto-vista",
+   "tema": [
+    "arrendamento em porto organizado",
+    "consulta",
+    "Rio de Janeiro"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado nos termos do voto do relator (vencido Mário Povia, voto-vista anterior)",
+   "resumo_voto": "Encaminhar ao poder concedente proposta de novo termo aditivo prevendo a exclusividade de uso dos dolfins pelo terminal siderúrgico, por ser a intenção contratual e condição de viabilidade do EVTEA.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator (voto já proferido em reunião anterior)",
+     "ts": "0:02:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "voto-vista: acompanha o relator, divergindo de Mário Povia",
+     "ts": "0:02:35",
+     "justificativa": "EVTEA pressupõe uso exclusivo dos dolfins; segurança jurídica para os investimentos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "não vota (sucede a vaga de Mário Povia, que já votou)",
+     "ts": "0:07:15",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:07:34",
+   "processo": "50300.000381/2008-86",
+   "interessado": "Abratec; Usuport-RJ; terminais retroportuários (Transbrasa, Multilog, Marimex, Ecoporto, Localfrio e outros)",
+   "assunto": "Embargos de declaração e recursos contra o Acórdão 69/2019 e a RN 34 (movimentação e armazenagem de contêineres; franquia e preço-teto do SSE) – voto-vista",
+   "tema": [
+    "tarifas portuárias (THC, SSE, cesta de serviços)",
+    "regulação normativa",
+    "recursos administrativos"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado nos termos do voto condutor (relator Mário Povia, voto já proferido)",
+   "resumo_voto": "Conhecer e rejeitar os embargos (sem omissão, contradição ou obscuridade); reabrir prazo recursal; desentranhar os estudos de franquia e preço-teto do SSE para processo apartado; acesso parcial a documentos.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "voto-vista: conhece e rejeita os embargos",
+     "ts": "0:25:12",
+     "justificativa": "franquia saiu da norma mas o tema seguiu em estudo na SRG; remissão a voto é permitida (art. 50 Lei 9.784); tomada de subsídios em autos apartados",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o voto condutor",
+     "ts": "0:27:32",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "não vota (sucede a vaga de Mário Povia, que já votou)",
+     "ts": "0:27:32",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:27:47",
+   "processo": "50300.018405/2009-14 (parcial)",
+   "interessado": "Porto Pontal Paraná Importação e Exportação S.A.",
+   "assunto": "Requerimento de convalidação/ratificação dos atos da outorga do TUP em Pontal do Paraná (contrato de adesão 47/1996 e adaptação 6/2014) – voto-vista",
+   "tema": [
+    "autorização de TUP / terminal de uso privado",
+    "contrato de adesão"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado o voto-vista de Gabriela Costa (indeferimento); vencido o relator",
+   "resumo_voto": "Indeferir a convalidação: não há vício sanável; ANTAQ e TCU já reconheceram a regularidade; dar ciência ao Ministério da Infraestrutura.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator (voto anterior: convalidar e reconhecer aditivo) – vencido",
+     "ts": "0:27:47",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "voto-vista: diverge, indefere a convalidação",
+     "ts": "0:36:51",
+     "justificativa": "convalidação exige vício sanável, inexistente; novo ato geraria insegurança jurídica (análise da PFA)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o voto-vista",
+     "ts": "0:37:50",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:38:28",
+   "processo": "50300.019290/2020 (parcial)",
+   "interessado": "C-Max Serviços Marítimos Ltda. (grafia incerta)",
+   "assunto": "Outorga de autorização para operar como EBN na navegação de cabotagem",
+   "tema": [
+    "navegação e afretamento",
+    "cabotagem",
+    "EBN",
+    "outorga"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Expedição do termo de autorização (RN 5).",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, defere",
+     "ts": "0:39:20",
+     "justificativa": "parecer técnico favorável e parecer jurídico referencial",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:39:31",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:39:31",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:39:43",
+   "processo": "50319.000526/2017-9 (parcial)",
+   "interessado": "Empresa de Navegação Herlon Rocha Transportes Ltda.",
+   "assunto": "Registro de instalação de apoio ao transporte aquaviário (RN 13)",
+   "tema": [
+    "registro de instalação de apoio",
+    "navegação interior"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deferir o registro.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, defere",
+     "ts": "0:40:35",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:41:01",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:41:01",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:41:25",
+   "processo": "50300.002898/2020-4 (parcial)",
+   "interessado": "Porto do Recife S.A.; Agemar Transportes e Empreendimentos",
+   "assunto": "Autorização para contrato de transição (armazém 3) no porto organizado do Recife",
+   "tema": [
+    "arrendamento em porto organizado",
+    "contrato de transição",
+    "Recife"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Autoriza contrato de transição por 180 dias (RN 7, arts. 46-48), renovável até a licitação, com cópia à ANTAQ em 30 dias.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, autoriza",
+     "ts": "0:46:30",
+     "justificativa": "continuidade do serviço e receitas da AP até a licitação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:47:07",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:47:07",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "0:47:30",
+   "processo": "50300.020113/2018-52 (parcial)",
+   "interessado": "Transporte e Navegação Guarita Uruguai Ltda.",
+   "assunto": "Reajuste de preços da travessia Itapiranga/SC – Barra do Guarita/RS",
+   "tema": [
+    "navegação e afretamento",
+    "travessias",
+    "navegação interior",
+    "tarifas e preços"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Continuidade da análise e julgamento do reajuste pela SRG (competência delegada, NT 59/2018).",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, devolve à SRG para julgamento",
+     "ts": "0:50:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:50:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:50:28",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "0:50:46",
+   "processo": "50300.035245/2017-73 (parcial)",
+   "interessado": "Atem Distribuidora de Petróleo S.A. (grafia incerta)",
+   "assunto": "Pedido de reconsideração de multa de R$ 140 mil por explorar TUP em Cruzeiro do Sul/AC sem autorização",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "autorização de TUP / terminal de uso privado"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "pedido de vista (Adalberto Tokarski) após leitura do voto",
+   "resumo_voto": "Relator vota por conhecer e negar provimento (sem fatos novos).",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, nega provimento",
+     "ts": "0:52:23",
+     "justificativa": "sem fatos novos ou circunstâncias relevantes",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "pede vista",
+     "ts": "0:53:30",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "0:53:36",
+   "processo": "50300.022142/2019-30 (parcial)",
+   "interessado": "Oceano S.A. (nome incerto na legenda)",
+   "assunto": "Recurso contra negativa de certificado de liberação de carga prescrita (CLCP) pela gerência de afretamento",
+   "tema": [
+    "navegação e afretamento",
+    "afretamento",
+    "recursos administrativos"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado",
+   "resumo_voto": "Nega provimento: a empresa não consultou a ANTAQ no prazo da RN 1; conflito com o armador é risco privado; sem sanção adicional.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, nega provimento",
+     "ts": "0:58:00",
+     "justificativa": "descumprimento confesso da RN 1; controvérsia privada com o armador",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:58:27",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha (legenda: 'eu conheço')",
+     "ts": "0:58:39",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "0:59:29",
+   "processo": "50300.005076/2016-91 (parcial)",
+   "interessado": "Posidonia Shipping & Trading",
+   "assunto": "Recurso contra negativa de registro de embarcações na frota da EBN",
+   "tema": [
+    "navegação e afretamento",
+    "EBN",
+    "recursos administrativos"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Perda superveniente do objeto (Acórdão TCU 380/2018; devolução do navio São Luís); arquivamento (art. 52 Lei 9.784).",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, declara perda de objeto",
+     "ts": "1:03:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:03:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:03:12",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "1:03:23",
+   "processo": "50300.004033/2015-74 (parcial)",
+   "interessado": "Companhia Docas do Pará",
+   "assunto": "Avaliação preliminar de empreendimento em área não afeta à operação portuária: formuladora de combustíveis nas áreas VDC25/VDC26 de Vila do Conde",
+   "tema": [
+    "arrendamento em porto organizado",
+    "área não operacional",
+    "Vila do Conde"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Impossibilidade do projeto em qualquer modalidade: berço 501 no limite de capacidade e falta de análise de capacidade.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, declara impossibilidade",
+     "ts": "1:06:40",
+     "justificativa": "capacidade do berço 501 no limite",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:06:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:06:53",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "1:07:05",
+   "processo": "50300.026419/2019 (parcial)",
+   "interessado": "ANTAQ; Ministério da Infraestrutura; CDI (Imbituba); Fertilizantes Santa Catarina (Fertisanta)",
+   "assunto": "Movimentação de granéis sólidos agrícolas (soja, milho) por arrendatária de fertilizantes/ração no porto de Imbituba",
+   "tema": [
+    "arrendamento em porto organizado",
+    "perfil de carga",
+    "MMC",
+    "Imbituba"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Reconhece possibilidade de contabilizar granéis agrícolas na MMC desde que precedido de reequilíbrio e aditivo; recomenda revogar a vedação da subcláusula 11.2 alínea b.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, reconhece com condicionantes",
+     "ts": "1:12:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:12:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:12:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "1:12:37",
+   "processo": "50300.01408x/2019 (parcial; bloco itens 14 e 15)",
+   "interessado": "Ministério da Infraestrutura",
+   "assunto": "Edital e contrato de arrendamento STS14 (celulose) no porto de Santos – julgamento em bloco",
+   "tema": [
+    "arrendamento em porto organizado",
+    "licitação",
+    "Santos",
+    "julgamento em bloco"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova edital, minuta de contrato e anexos (TCU Acórdão sobre a desestatização; audiência pública 9/2019); leilão com apoio da B3.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova (bloco)",
+     "ts": "1:17:50",
+     "justificativa": "fase interna encerrada; áreas técnicas e jurídica favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:18:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:18:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "1:12:37",
+   "processo": "50300.01408x/2019 (parcial; bloco itens 14 e 15)",
+   "interessado": "Ministério da Infraestrutura",
+   "assunto": "Edital e contrato de arrendamento STS14A (celulose) no porto de Santos – julgamento em bloco",
+   "tema": [
+    "arrendamento em porto organizado",
+    "licitação",
+    "Santos",
+    "julgamento em bloco"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova edital, minuta de contrato e anexos (TCU Acórdão sobre a desestatização; audiência pública 9/2019); leilão com apoio da B3.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova (bloco)",
+     "ts": "1:17:50",
+     "justificativa": "fase interna encerrada; áreas técnicas e jurídica favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:18:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:18:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "1:18:19",
+   "processo": "50300.019602/2018-61 (parcial)",
+   "interessado": "ANTAQ (SRG)",
+   "assunto": "Resolução normativa do serviço privado de transporte de travessia (cliente único ou cadeia verticalizada)",
+   "tema": [
+    "regulação normativa",
+    "travessias",
+    "navegação interior"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova a versão final da norma (audiência pública 4/2019 sem contribuições).",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "1:21:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:22:31",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator, com sugestão",
+     "ts": "1:22:31",
+     "justificativa": "SRG avaliar unificar as resoluções da navegação interior, como ocorreu na marítima",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "1:23:28",
+   "processo": "50300.038278/2019-37 (parcial)",
+   "interessado": "ANTAQ",
+   "assunto": "Agenda regulatória 2020/2021",
+   "tema": [
+    "regulação normativa",
+    "agenda regulatória"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova a agenda (43 contribuições; carrega temas de 2018/2019; inclui uso do espelho d'água pela autoridade portuária).",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "1:27:30",
+     "justificativa": "agenda menor e cumprível; normas não devem ser alteradas a todo momento (segurança jurídica)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "1:29:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:29:05",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "1:29:12",
+   "processo": "50312.001931/2009-27 (parcial)",
+   "interessado": "SNPH (Amazonas); Ministério da Infraestrutura",
+   "assunto": "Convênio de delegação do porto organizado de Manaus à SNPH (2019)",
+   "tema": [
+    "concessão/delegação de porto",
+    "convênio de delegação",
+    "Manaus"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Não aditar o convênio: já assinado (inclusive pela ANTAQ) e obrigações já previstas na cláusula 1.1. Relator registra preocupação com o cumprimento pela SNPH.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, não adita o convênio",
+     "ts": "1:32:19",
+     "justificativa": "convênio já assinado; preocupação com descumprimento de obrigações apontado pela fiscalização",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "1:33:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:33:57",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "1:34:04",
+   "processo": "50300.023552/2019-45 (parcial)",
+   "interessado": "Fertilizantes Santa Catarina Ltda. (Fertisanta); SCPar Porto de Imbituba",
+   "assunto": "Realocação de equipamentos do parque fabril do arrendamento para unidade fora do porto organizado de Imbituba",
+   "tema": [
+    "arrendamento em porto organizado",
+    "bens do arrendamento",
+    "Imbituba"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "pedido de vista (Gabriela Costa) após leitura do voto",
+   "resumo_voto": "Relator: possível a realocação, condicionada à anuência da AP e verificação do seguro; industrialização deve seguir com a arrendatária (sob pena de subarrendamento); ciência ao Minfra sobre divergência da Receita no alfandegamento.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, admite a realocação com condicionantes",
+     "ts": "1:38:51",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "pede vista (anunciada antes da leitura)",
+     "ts": "1:40:28",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "1:40:33",
+   "processo": "50300.039395/2018-37 (parcial)",
+   "interessado": "SCPar Porto de São Francisco do Sul S.A.",
+   "assunto": "Pedido de reconsideração de multa (receita portuária destinada ao Estado de SC)",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "autoridade portuária",
+    "São Francisco do Sul"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado",
+   "resumo_voto": "Nega provimento; determina cobrança e abertura de processo para apurar a receita portuária destinada ao Estado de SC e exigir recomposição do caixa do porto.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, nega provimento",
+     "ts": "1:43:50",
+     "justificativa": "sem fatos novos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "1:45:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "impedida (manifestou-se no processo como superintendente / julgadora originária)",
+     "ts": "1:45:01",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "1:45:26",
+   "processo": "50300.018434/2018-97 (parcial)",
+   "interessado": "Prefeitura de Laranjal do Jari/AP (terminal hidroviário municipal)",
+   "assunto": "Recurso contra multa por exploração de instalação sem registro (RN 13)",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "navegação interior"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado",
+   "resumo_voto": "Não conhece por intempestividade; mantém a multa.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, não conhece (intempestivo)",
+     "ts": "1:48:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "1:48:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "impedida (manifestou-se no processo como superintendente / julgadora originária)",
+     "ts": "1:48:44",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "22",
+   "ts": "1:49:04",
+   "processo": "50300.010932/2017-19 (parcial)",
+   "interessado": "SCPar Porto de Imbituba S.A.",
+   "assunto": "Recurso contra multa por deixar de fiscalizar operadores portuários quanto ao serviço adequado (Res. 3274, art. 33)",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "autoridade portuária",
+    "Imbituba"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado",
+   "resumo_voto": "Nega provimento; inviáveis advertência (infração grave) e TAC (fato consumado). Valor da multa ilegível na legenda.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, nega provimento",
+     "ts": "1:53:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "1:53:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "impedida (manifestou-se no processo como superintendente / julgadora originária)",
+     "ts": "1:53:20",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "23",
+   "ts": "1:53:43",
+   "processo": "50300.000184/2019 (parcial)",
+   "interessado": "Superintendência do Porto de Rio Grande (SUPRG); Município de São Lourenço do Sul",
+   "assunto": "Cessão provisória de retroescavadeira do acervo do porto organizado de Estrela ao município",
+   "tema": [
+    "autoridade portuária",
+    "bens da União"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Indefere: faltam justificativa da excepcionalidade e prazo; cessão a município não prevista no art. 16 da RN 29.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, indefere",
+     "ts": "1:56:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "1:57:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:57:09",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "24",
+   "ts": "1:57:17",
+   "processo": "50300.003887/2020-33 (parcial)",
+   "interessado": "Porto do Recife S.A.; Agemar Transportes e Empreendimentos",
+   "assunto": "Contrato de transição do armazém 18 (área antes do arrendamento 97/16-04) no porto do Recife",
+   "tema": [
+    "arrendamento em porto organizado",
+    "contrato de transição",
+    "Recife"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Autoriza por até 180 dias, condicionado a ajuste de cláusula e atualização do valor locativo; recomenda à SNPTA priorizar a licitação de áreas sob contratos de transição.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, autoriza",
+     "ts": "1:59:25",
+     "justificativa": "contratos de transição precisam ir à licitação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:02:54",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator, com observação",
+     "ts": "2:02:04",
+     "justificativa": "uniformizar o encaminhamento com o item 6 (mesmo destinatário no ministério)",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "ts": "2:04:53",
+   "processo": "50300.000414/2016-6 (parcial)",
+   "interessado": "Hermasa Navegação da Amazônia S.A.; SOPH (Rondônia), porto de Porto Velho",
+   "assunto": "EVTEA do pleito de prorrogação do contrato de arrendamento (Porto Velho) por 12 anos, com investimentos de cerca de R$ 4,4 milhões",
+   "tema": [
+    "arrendamento em porto organizado",
+    "prorrogação",
+    "reequilíbrio econômico-financeiro",
+    "Porto Velho"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "pedido de vista (Gabriela Costa) após leitura do voto",
+   "resumo_voto": "Relator aprova o EVTEA (VPL positivo de cerca de R$ 2,17 milhões, data-base jan/2016), com ressalva sobre uso do plano mestre de 2017; exige certidão de adimplência antes do envio ao Minfra.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova EVTEA",
+     "ts": "2:11:41",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "pede vista (anunciada antes da leitura)",
+     "ts": "2:14:48",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "27",
+   "ts": "2:14:52",
+   "processo": "50300.034814/2020-69 (parcial)",
+   "interessado": "Em Show Navegação e Atividades de Engenharia Subaquática Ltda. (grafia incerta)",
+   "assunto": "Outorga de autorização como EBN na navegação de apoio marítimo (embarcações até 2.000 HP)",
+   "tema": [
+    "navegação e afretamento",
+    "apoio marítimo",
+    "EBN",
+    "outorga"
+   ],
+   "relator": "Gabriela Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Expedição do termo de autorização (RN 5).",
+   "votos": [
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "relatora, defere",
+     "ts": "2:17:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:17:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:17:21",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "28",
+   "ts": "2:17:35",
+   "processo": "50300.029750/2018 (parcial)",
+   "interessado": "Companhia Docas do Pará",
+   "assunto": "Cessão onerosa de área não operacional em Vila do Conde para usina termelétrica a gás (UTE Novo Tempo Barcarena)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "área não operacional",
+    "Vila do Conde",
+    "regulação normativa"
+   ],
+   "relator": "Gabriela Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Dá ciência à SNPTA e à CDP de que não há óbice regulatório; revoga o art. 4º da Res. 4553/2015 (ANTAQ sem competência para aprovar exploração de áreas não operacionais).",
+   "votos": [
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "relatora, sem óbice e revoga art. 4º da Res. 4553",
+     "ts": "2:24:11",
+     "justificativa": "análise prévia após definição do poder concedente tem pouco efeito; falta base legal",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:24:37",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:24:37",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "29",
+   "ts": "2:24:53",
+   "processo": "50300.036096/2020-65 (parcial)",
+   "interessado": "Ipiranga Produtos de Petróleo S.A.; EMAP (Itaqui)",
+   "assunto": "Classificação da reversibilidade dos bens da área IQ03 no porto do Itaqui (contratos de transição)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "bens reversíveis",
+    "Itaqui"
+   ],
+   "relator": "Gabriela Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Defere: vale o critério de inamovibilidade dos contratos de arrendamento originais; contratos de transição não alteram a reversibilidade.",
+   "votos": [
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "relatora, defere",
+     "ts": "2:28:37",
+     "justificativa": "analogia com caso anterior no mesmo porto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:28:59",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:28:59",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "30",
+   "ts": "2:29:18",
+   "processo": "50300.011723/2017-46 (parcial)",
+   "interessado": "Companhia Docas da Paraíba",
+   "assunto": "Desincorporação, por demolição, de silo metálico e bases de concreto na área E06 do porto de Cabedelo",
+   "tema": [
+    "autoridade portuária",
+    "bens da União",
+    "Cabedelo"
+   ],
+   "relator": "Gabriela Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Autoriza a desincorporação física e contábil em 90 dias, com acompanhamento da unidade regional de Recife.",
+   "votos": [
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "relatora, autoriza",
+     "ts": "2:33:06",
+     "justificativa": "bem inservível e com risco aos trabalhadores; IPHAN anuiu",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:33:47",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:33:47",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "31",
+   "ts": "2:34:01",
+   "processo": "50300.017966/2019-98 (parcial)",
+   "interessado": "Comitê/conferência do transporte marítimo Argentina–Brasil (nome incerto)",
+   "assunto": "Consulta sobre cargas de derivados de petróleo excluídas do acordo bilateral Brasil–Argentina (art. 12)",
+   "tema": [
+    "navegação e afretamento",
+    "longo curso",
+    "acordo bilateral",
+    "consulta"
+   ],
+   "relator": "Gabriela Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Orienta o consulente a se ater à competência da ANP para definir o termo e a validar o entendimento junto à autoridade argentina (reciprocidade); autos à coordenação de relações internacionais.",
+   "votos": [
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "relatora, responde a consulta",
+     "ts": "2:37:45",
+     "justificativa": "definição é competência da ANP; reciprocidade no direito internacional",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:38:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:38:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "32",
+   "ts": "2:38:46",
+   "processo": "50300.005221/2020-10 (parcial)",
+   "interessado": "ANTAQ",
+   "assunto": "Referendo da Portaria DG 101/2020: manutenção do fechamento do protocolo físico e suspensão de prazos processuais até 17/05/2020 (covid-19)",
+   "tema": [
+    "institucional",
+    "referendo",
+    "covid-19"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade (referendado)",
+   "resumo_voto": "Referenda a portaria; nova análise pela diretoria em 17/05/2020.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, referenda",
+     "ts": "2:40:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:41:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:41:11",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "33",
+   "ts": "2:41:19",
+   "processo": "50300.039587/2019-24 (parcial)",
+   "interessado": "ANEC; SLC Agrícola S.A.; Embraport/DP World Santos (TUP)",
+   "assunto": "Referendo da Resolução 7042 (cautelar para o terminal não fechar o gate às cargas da SLC por débitos de sobre-estadia de contêiner)",
+   "tema": [
+    "serviços nos terminais",
+    "sobre-estadia/demurrage",
+    "medida cautelar",
+    "referendo",
+    "Santos"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade (referendado)",
+   "resumo_voto": "Referenda a cautelar (perigo na demora e fumaça do bom direito: acesso às instalações portuárias) até o julgamento do mérito; autos voltam para instrução.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, referenda",
+     "ts": "2:45:41",
+     "justificativa": "fechamento do gate impede o acesso do exportador à instalação portuária",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:46:37",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:46:37",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "10 — 50300.001400/2013-29: Companhia Docas de Imbituba, pedido de reconsideração",
+   "relator": "Francisval Mendes",
+   "motivo": "relator retira para análise adicional, aguardando voto-vista de Gabriela Costa",
+   "ts": "0:58:54"
+  },
+  {
+   "item": "25 — 50300.005977/2015-69 (parcial): arrendatária do novo terminal marítimo de Salvador (nome incerto), suspensão do pagamento do valor de outorga do contrato 01/2017",
+   "relator": "Adalberto Tokarski",
+   "motivo": "retirado pelo relator para aprofundar a análise",
+   "ts": "2:03:45"
+  }
+ ],
+ "limites_da_analise": [
+  "Data do cabeçalho (2020-05-10, domingo) é a de upload; a sessão não diz a data. Pelo item 32 (prazos suspensos até 17/05/2020) a reunião é do início de maio de 2020; data exata não confirmada.",
+  "O .md não tem marcadores de minuto além do início; ts tirados do JSON da legenda por busca de frases, aproximados.",
+  "Legenda sem pontuação e muito ruim: nomes distorcidos ('Oswaldo Mendes', 'Francisco ao', 'Roberto Castro', 'Alberto Kaspary' etc. normalizados para Francisval Mendes e Adalberto Tokarski pelo contexto); números de processo e valores parciais.",
+  "Votos de seguidores ditos como 'acompanha' com confiança media; no item 9 o voto de Gabriela Costa aparece como 'eu conheço' (baixa).",
+  "Nos itens 1 e 2 o voto de Mário Povia (relator ou voto-vista em sessão anterior) não aparece nesta reunião e não foi registrado como voto.",
+  "No item 17 o comentário sobre agenda menor parece ser do próprio relator Adalberto Tokarski; voto de Francisval Mendes implícito."
+ ]
+}

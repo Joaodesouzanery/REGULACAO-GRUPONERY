@@ -1,0 +1,982 @@
+{
+ "meta": {
+  "video_id": "xFRSBDaa9vs",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts tirados de data/transcricoes/xFRSBDaa9vs.json (o .md não tem marcadores); ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "530",
+  "data": "2022-09-29",
+  "formato": "telepresencial/videoconferência",
+  "presidente_da_sessao": "Eduardo Nery (Diretor-Geral)",
+  "diretores_presentes": [
+   "Eduardo Nery",
+   "Flávia Takafashi",
+   "Alexandre Lopes (diretor substituto)"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Primeira reunião de Alexandre Lopes como diretor substituto (interinidade antes exercida por José Renato Fialho, que volta à SDS).",
+   "Homologadas as atas das RDs 528 e 529; procurador-chefe presente.",
+   "Sustentações orais: Codesa (processo 50300.004809/2021-37) e APM Terminals (item 30).",
+   "Itens 30 e 32 (Itajaí, contratos de transição) julgados em conjunto; ambos suspensos.",
+   "Item 13 (CDP x Hidrovias do Brasil): Alexandre Lopes não vota, pois o relator Fialho já votara; aprovado o voto revisor de Flávia Takafashi.",
+   "Várias vistas renovadas (itens 8, 9, 10, 11, 12, 14, 15, 16, 17, 18).",
+   "Todos os itens deliberados aprovados sem divergência."
+  ]
+ },
+ "itens": [
+  {
+   "id": "sustentação 1 (pauta)",
+   "ts": "0:03:51",
+   "processo": "50300.004809/2021-37",
+   "interessado": "Companhia Docas do Espírito Santo (Codesa, agora concessionária privada) x Terminal Portuário do Espírito Santo (TPS); Porto de Vitória",
+   "assunto": "Pedido da Codesa de dilação de 18 meses do prazo para cumprir o Acórdão 399/2022 (oferecer alternativa logística ao TPS para embarque de cargas pelo direito de passagem, Res. 7/2016), com sustentação oral da advogada da Codesa",
+   "tema": [
+    "arrendamento em porto organizado",
+    "contrato de passagem",
+    "mediação/arbitragem",
+    "concessão de porto",
+    "recursos administrativos"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado por unanimidade: provimento parcial, prazo adicional de 45 dias (e não 18 meses)",
+   "resumo_voto": "Relatora: autoridade portuária deve garantir acesso de terceiros ao porto; agência não impôs layout nem contrato de passagem nos moldes do TPS, só alternativa logística (ex.: descarga direta); argumento concorrencial de perda de carga e espera pela revisão do PDZ não justificam 18 meses; concede 45 dias e envia à fiscalização.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, aprova provimento parcial (45 dias)",
+     "ts": "0:27:29",
+     "justificativa": "não é razoável aguardar 18 meses da revisão do PDZ; a autoridade portuária deve tutelar o acesso de terceiros e não pode negar acesso para não perder carga",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes",
+     "voto": "acompanha a relatora",
+     "ts": "0:31:15",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a relatora",
+     "ts": "0:31:18",
+     "justificativa": "embora preocupado com áreas ociosas e assimetria com a retroárea, o que se determina é dar alternativa logística, sem dizer como; a agência pode seguir como árbitro em caso de abusividade",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "30 (sustentação)",
+   "ts": "0:32:48",
+   "processo": "50300.014707/2022-19",
+   "interessado": "APM Terminals Itajaí (arrendatária, contrato 30/2001) x Superintendência do Porto de Itajaí; vencedora: «Acetil/Cetil Logística» (grafia incerta)",
+   "assunto": "Impugnação ao processo seletivo simplificado (credenciamento 02/2022) para contrato de transição na área hoje arrendada à APM Terminals no Porto de Itajaí, com sustentação oral da APM",
+   "tema": [
+    "arrendamento em porto organizado",
+    "contrato de transição",
+    "fiscalização e sanções",
+    "concessão de porto"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado por unanimidade: processo seletivo suspenso e prazo para a autoridade portuária justificar e sanear",
+   "resumo_voto": "A agência não fixa os critérios do processo seletivo, mas avalia se garantem a continuidade do serviço; critérios pouco robustos, prazo exíguo (8 dias) e atraso da autoridade portuária, que sabia do fim do contrato; suspensão por potencial violação ao interesse público na continuidade das operações.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, suspende o processo seletivo",
+     "ts": "0:52:32",
+     "justificativa": "critérios e prazo do processo seletivo não asseguram a continuidade da movimentação de contêineres; todos sabiam a data de fim do contrato",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes",
+     "voto": "acompanha a relatora",
+     "ts": "0:53:28",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a relatora",
+     "ts": "0:53:31",
+     "justificativa": "agência não faz controle de legalidade da licitação da autoridade portuária, mas deve antecipar o problema do contrato de transição (capacidade operacional e comercial, movimentação mínima, impacto no valuation da concessão); não se trata de proteger a atual arrendatária",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "32",
+   "ts": "1:01:39",
+   "processo": "50300.015968/2022-48",
+   "interessado": "SC Portos Operações Portuárias x Superintendência do Porto de Itajaí (área B)",
+   "assunto": "Pedido de medida cautelar para anular outro processo seletivo simplificado do Porto de Itajaí (área B, hoje de uso público) para contrato de transição; julgado em conjunto com o item 30",
+   "tema": [
+    "arrendamento em porto organizado",
+    "contrato de transição",
+    "medida cautelar"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado por unanimidade: suspensão cautelar do processo seletivo e 15 dias para manifestação da autoridade portuária",
+   "resumo_voto": "Presentes fumaça do bom direito e perigo da demora (risco à continuidade das operações); suspende cautelarmente, ouve a Superintendência do Porto de Itajaí em 15 dias e devolve à Superintendência de Outorgas para o mérito.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, suspende cautelarmente",
+     "ts": "1:01:39",
+     "justificativa": "risco de dano irreparável à movimentação no porto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes",
+     "voto": "acompanha a relatora",
+     "ts": "1:04:37",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a relatora",
+     "ts": "1:04:39",
+     "justificativa": "área nunca teve contrato de transição nem arrendamento; não se justifica celebrá-lo tão perto da licitação da concessão; prevenir insegurança jurídica",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4 (referendo)",
+   "ts": "1:06:32",
+   "processo": "50300.022238/2021-12 (número incerto)",
+   "interessado": "Santos Port Authority (SPA); Porto de Santos",
+   "assunto": "Referendo da Deliberação 124/2022: análise das quase 600 contribuições da Audiência Pública 1/2022 e documentos da licitação da concessão do Porto Organizado de Santos e desestatização da SPA",
+   "tema": [
+    "concessão de porto",
+    "regulação normativa",
+    "participação social",
+    "desestatização"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado (referendada a Deliberação 124/2022)",
+   "resumo_voto": "Modelo veda exploração direta pelo concessionário; limites de participação de operadores, arrendatários, armadores e ferrovias (15% individual, 40% conjunta; abaixo de 5% sem limite conjunto); indicadores de desempenho; após contribuições, inclusão do túnel seco Santos-Guarujá (mais de 4 bilhões), obras porto-cidade, arquivo e museu do porto; investimentos obrigatórios acima de 6,3 bilhões.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, referenda a deliberação",
+     "ts": "1:13:00",
+     "justificativa": "concessão trará eficiência, modernização e consolidará Santos como hub; evolução em relação ao modelo de Vitória",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes",
+     "voto": "acompanha o relator",
+     "ts": "1:14:33",
+     "justificativa": "parabeniza a equipe; privatização do Porto de Santos fundamental para o país",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "não verbalizado na legenda (matéria aprovada)",
+     "ts": "1:14:50",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "5 (referendo)",
+   "ts": "1:15:20",
+   "processo": "50300.0?2270/2022 (número incompleto)",
+   "interessado": "Conect Cargo Brasil Logística e Transporte Internacional de Cargas Ltda. x Evergreen (agência Greenco); Itapoá Terminais Portuários",
+   "assunto": "Referendo da Deliberação DG 129/2022: indeferimento de medida cautelar contra bloqueio de carga por suposta cobrança de taxa (Res. 62/2021, arts. 12 e 29) e envio à fiscalização",
+   "tema": [
+    "navegação e afretamento (longo curso)",
+    "direitos dos usuários / retenção de carga",
+    "medida cautelar",
+    "fiscalização e sanções"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado (referendada a Deliberação DG 129/2022)",
+   "resumo_voto": "Sem fumaça do bom direito nem perigo da demora: transportador informou que a carga estava retida por falta do BL original, não pela taxa; autos à fiscalização para instrução.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, referenda",
+     "ts": "1:18:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes",
+     "voto": "acompanha a relatora",
+     "ts": "1:19:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "também acompanha",
+     "ts": "1:19:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6 (referendo)",
+   "ts": "1:19:11",
+   "processo": "50300.008481/2022 (dígito final incerto)",
+   "interessado": "«Rubens Factor S.A.» (grafia incerta) x transportador «HMM» (grafia incerta); terminal TCP (Paranaguá)",
+   "assunto": "Referendo da Deliberação DG 123/2022 (recurso de reconsideração): indeferimento de cautelar para liberar contêiner retido por sobrestadia e apuração urgente pela fiscalização",
+   "tema": [
+    "serviços nos terminais (sobre-estadia/demurrage)",
+    "medida cautelar",
+    "recursos administrativos",
+    "fiscalização e sanções"
+   ],
+   "relator": "Alexandre Lopes",
+   "resultado": "aprovado (referendada a Deliberação DG 123/2022)",
+   "resumo_voto": "Sem nexo comprovado entre a sobrestadia e o bloqueio; operação de 2021 só reclamada em 2022, afastando perigo da demora; mantido encaminhamento à SFC.",
+   "votos": [
+    {
+     "diretor": "Alexandre Lopes",
+     "voto": "relator, referenda",
+     "ts": "1:22:54",
+     "justificativa": "tutela cautelar impõe rigor nos requisitos; apuração em caráter de urgência é a medida adequada",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "também acompanha o relator",
+     "ts": "1:23:14",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "não verbalizado na legenda (matéria aprovada)",
+     "ts": "1:23:16",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "1:23:32",
+   "processo": "50300.000323/2022-19",
+   "interessado": "Superintendência de Desempenho, Desenvolvimento e Sustentabilidade (SDS)",
+   "assunto": "Relatório final do estudo «Quantificação do mercado feeder na cabotagem brasileira» (item E12 da agenda de estudos), após vista de Flávia Takafashi na RD 529; relatoria passou de José Renato Fialho a Alexandre Lopes",
+   "tema": [
+    "navegação e afretamento (cabotagem)",
+    "estudos / institucional",
+    "BR do Mar"
+   ],
+   "relator": "Alexandre Lopes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Feeder é 44% da cabotagem de contêineres; Santos origem/destino de 65,2% das cargas feeder (único hub brasileiro); análise da Lei 14.301/2022 (BR do Mar); aprova relatório, dá por cumprido o item e publica no site.",
+   "votos": [
+    {
+     "diretor": "Alexandre Lopes",
+     "voto": "relator, aprova",
+     "ts": "1:27:57",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "voto-vista: acompanha o relator",
+     "ts": "1:28:23",
+     "justificativa": "estudo aprofunda o entendimento do mercado de contêineres e da vocação de cada terminal, útil para concessões e questões concorrenciais",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "1:31:20",
+     "justificativa": "contribuição para o planejamento do setor e para a sustentabilidade da cabotagem",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "1:32:46",
+   "processo": "não lido",
+   "interessado": "não identificado",
+   "assunto": "Item 8 da pauta (processo com vista da RD 529; relatoria passou a Alexandre Lopes)",
+   "tema": [
+    "institucional",
+    "pedido de vista"
+   ],
+   "relator": "Alexandre Lopes",
+   "resultado": "vista renovada; volta na próxima reunião",
+   "resumo_voto": "Sem deliberação de mérito: pedido de vista renovado com base na Resolução 66 (regimento), para julgamento na próxima reunião.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "renova pedido de vista",
+     "ts": "1:33:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Lopes",
+     "voto": "relator; de acordo com a renovação",
+     "ts": "1:33:39",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "1:34:00",
+   "processo": "não lido",
+   "interessado": "Administração do Porto de Imbituba",
+   "assunto": "Relatório de desempenho/monitoramento da administração do Porto de Imbituba",
+   "tema": [
+    "autoridade portuária / desempenho",
+    "pedido de vista"
+   ],
+   "relator": "Alexandre Lopes",
+   "resultado": "vista renovada; volta na próxima reunião",
+   "resumo_voto": "Sem deliberação de mérito: pedido de vista renovado com base na Resolução 66 (regimento), para julgamento na próxima reunião.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "renova pedido de vista",
+     "ts": "1:35:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "renova pedido de vista",
+     "ts": "1:35:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Lopes",
+     "voto": "relator; de acordo",
+     "ts": "1:35:12",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "1:34:10",
+   "processo": "50300.0?2249 (número incompleto)",
+   "interessado": "Companhia Docas do Rio de Janeiro",
+   "assunto": "Relatório de desempenho da administração portuária da Companhia Docas do Rio de Janeiro",
+   "tema": [
+    "autoridade portuária / desempenho",
+    "pedido de vista"
+   ],
+   "relator": "Alexandre Lopes",
+   "resultado": "vista renovada; volta na próxima reunião",
+   "resumo_voto": "Sem deliberação de mérito: pedido de vista renovado com base na Resolução 66 (regimento), para julgamento na próxima reunião.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "renova pedido de vista",
+     "ts": "1:35:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "renova pedido de vista",
+     "ts": "1:35:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Lopes",
+     "voto": "relator; de acordo",
+     "ts": "1:35:12",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "1:34:20",
+   "processo": "50300.007104/2022-52",
+   "interessado": "Administração do Porto de São Francisco do Sul",
+   "assunto": "Relatório de monitoramento da administração portuária de São Francisco do Sul",
+   "tema": [
+    "autoridade portuária / desempenho",
+    "pedido de vista"
+   ],
+   "relator": "Alexandre Lopes",
+   "resultado": "vista renovada; volta na próxima reunião",
+   "resumo_voto": "Sem deliberação de mérito: pedido de vista renovado com base na Resolução 66 (regimento), para julgamento na próxima reunião.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "renova pedido de vista",
+     "ts": "1:35:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "renova pedido de vista",
+     "ts": "1:35:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Lopes",
+     "voto": "relator; de acordo",
+     "ts": "1:35:12",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "1:34:30",
+   "processo": "50300.009434/2022-82",
+   "interessado": "APPA (Portos do Paraná)",
+   "assunto": "Relatório dos portos de Paranaguá e Antonina",
+   "tema": [
+    "autoridade portuária / desempenho",
+    "pedido de vista"
+   ],
+   "relator": "Alexandre Lopes",
+   "resultado": "vista renovada; volta na próxima reunião",
+   "resumo_voto": "Sem deliberação de mérito: pedido de vista renovado com base na Resolução 66 (regimento), para julgamento na próxima reunião.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "renova pedido de vista",
+     "ts": "1:35:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "renova pedido de vista",
+     "ts": "1:35:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Lopes",
+     "voto": "relator; de acordo",
+     "ts": "1:35:12",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "1:35:47",
+   "processo": "50300.007101/2022-19",
+   "interessado": "empresas de travessia (não identificadas)",
+   "assunto": "Reajuste de preços de serviços de transporte aquaviário em linhas de travessia de passageiros e veículos (Pará, Macapá e Amazonas); três processos tratados em conjunto",
+   "tema": [
+    "navegação e afretamento (navegação interior, travessias)",
+    "tarifas / preços",
+    "pedido de vista"
+   ],
+   "relator": "Alexandre Lopes",
+   "resultado": "vista renovada; volta na próxima reunião",
+   "resumo_voto": "Sem deliberação de mérito: pedido de vista renovado com base na Resolução 66 (regimento), para julgamento na próxima reunião.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "renova pedido de vista",
+     "ts": "1:37:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Lopes",
+     "voto": "relator; de acordo",
+     "ts": "1:37:23",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "1:35:47",
+   "processo": "50300.009778/2022-91",
+   "interessado": "empresas de travessia (não identificadas)",
+   "assunto": "Reajuste de preços de serviços de transporte aquaviário em linhas de travessia de passageiros e veículos (Pará, Macapá e Amazonas); três processos tratados em conjunto",
+   "tema": [
+    "navegação e afretamento (navegação interior, travessias)",
+    "tarifas / preços",
+    "pedido de vista"
+   ],
+   "relator": "Alexandre Lopes",
+   "resultado": "vista renovada; volta na próxima reunião",
+   "resumo_voto": "Sem deliberação de mérito: pedido de vista renovado com base na Resolução 66 (regimento), para julgamento na próxima reunião.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "renova pedido de vista",
+     "ts": "1:37:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Lopes",
+     "voto": "relator; de acordo",
+     "ts": "1:37:23",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "1:35:47",
+   "processo": "50300.010801/2022-91",
+   "interessado": "empresas de travessia (não identificadas)",
+   "assunto": "Reajuste de preços de serviços de transporte aquaviário em linhas de travessia de passageiros e veículos (Pará, Macapá e Amazonas); três processos tratados em conjunto",
+   "tema": [
+    "navegação e afretamento (navegação interior, travessias)",
+    "tarifas / preços",
+    "pedido de vista"
+   ],
+   "relator": "Alexandre Lopes",
+   "resultado": "vista renovada; volta na próxima reunião",
+   "resumo_voto": "Sem deliberação de mérito: pedido de vista renovado com base na Resolução 66 (regimento), para julgamento na próxima reunião.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "renova pedido de vista",
+     "ts": "1:37:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Lopes",
+     "voto": "relator; de acordo",
+     "ts": "1:37:23",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "1:37:39",
+   "processo": "50300.008203/2020-90",
+   "interessado": "Companhia Docas do Pará (CDP) x Hidrovias do Brasil Vila do Conde (TUP); Porto de Vila do Conde",
+   "assunto": "Pedido da CDP para que a ANTAQ mude sua manifestação (amicus curiae) na ação judicial sobre a cobrança da Tabela 1 (infraestrutura de acesso aquaviário) das embarcações que cruzam o canal de acesso rumo ao TUP Hidrovias do Brasil; voto-vista (revisor) de Flávia Takafashi",
+   "tema": [
+    "tarifas portuárias",
+    "autorização de TUP / terminal de uso privado",
+    "institucional / judicial"
+   ],
+   "relator": "José Renato Fialho",
+   "resultado": "aprovado nos termos do voto revisor (Flávia Takafashi), com acréscimo do Diretor-Geral",
+   "resumo_voto": "Tabela 1, modalidade 1, é o item tarifário devido; sujeitos passivos são os armadores (TUP pode ser responsável pelo recolhimento); reconhece a necessidade de desconto (art. 9º §3º da Res. 61/2021) porque as embarcações só cruzam em diagonal cerca de 0,7 km do canal sem uso de todos os serviços; SRG calcula o desconto, ouvida a autoridade portuária (acréscimo de Eduardo Nery). Diferença para o relator (Fialho, voto já proferido): ele deixava o desconto como faculdade a analisar; a revisora o determina.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "voto-vista (revisora): provimento com determinação de desconto tarifário",
+     "ts": "1:47:31",
+     "justificativa": "caso sui generis: embarcações não trafegam ao longo do canal; autoridade portuária não demonstrou serviço efetivamente prestado; não se confunde com proporcionalidade (Acórdão 95/2019)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a revisora, com sugestão incorporada",
+     "ts": "1:53:27",
+     "justificativa": "é só uma passagem por linha imaginária da poligonal; área sem dragagem, que é o que mais pesa na Tabela 1; SRG deve ouvir a autoridade portuária ao calcular o desconto",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "1:54:30",
+   "processo": "50300.008451/2016-54",
+   "interessado": "ANTAQ",
+   "assunto": "Proposta normativa sobre procedimentos e critérios para celebração de Termo de Compromisso de Ajustamento de Conduta (TAC) na ANTAQ",
+   "tema": [
+    "regulação normativa",
+    "fiscalização e sanções (TAC)",
+    "pedido de vista"
+   ],
+   "relator": "Alexandre Lopes",
+   "resultado": "vista renovada (art. 33 da Res. 66); volta na próxima reunião telepresencial",
+   "resumo_voto": "Sem deliberação de mérito: pedido de vista renovado com base na Resolução 66 (regimento), para julgamento na próxima reunião.",
+   "votos": [
+    {
+     "diretor": "Alexandre Lopes",
+     "voto": "relator; vista renovada (primeira renovação)",
+     "ts": "1:55:45",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "1:55:58",
+   "processo": "50300.010899/2020-14",
+   "interessado": "não identificado",
+   "assunto": "Processo de relatoria de José Renato Fialho (voto já proferido na RD 528), com pedido de vista",
+   "tema": [
+    "institucional",
+    "pedido de vista"
+   ],
+   "relator": "José Renato Fialho",
+   "resultado": "vista renovada (art. 36 da Res. 66)",
+   "resumo_voto": "Sem deliberação de mérito: pedido de vista renovado com base na Resolução 66 (regimento), para julgamento na próxima reunião.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "renova pedido de vista",
+     "ts": "1:56:26",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "1:57:59",
+   "processo": "50300.010?59/2022-13 (número incompleto)",
+   "interessado": "Companhia Docas da Paraíba",
+   "assunto": "Autorização para desincorporação e alienação de 10 boias náuticas irrecuperáveis",
+   "tema": [
+    "autoridade portuária / bens",
+    "alienação de bens"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Autoriza conforme a SRG; produto da venda em conta específica para reaplicação no porto; SFC acompanha.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, aprova",
+     "ts": "1:59:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes",
+     "voto": "acompanha",
+     "ts": "1:59:17",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha",
+     "ts": "1:59:18",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "1:59:30",
+   "processo": "50300.012208/2022 (dígito final incerto)",
+   "interessado": "Petrobras Transporte (Transpetro) para 3R Operações Marítimas S.A.; Terminal Aquaviário de Guamaré (RN)",
+   "assunto": "Transferência de titularidade do contrato de adesão 69/2015 (TUP Terminal Aquaviário de Guamaré)",
+   "tema": [
+    "autorização de TUP / terminal de uso privado",
+    "transferência de titularidade"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "3R atende requisitos da Res. 57; regularidade reconhecida; autos ao Ministério da Infraestrutura para aditivo.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, aprova",
+     "ts": "2:01:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes",
+     "voto": "acompanha o relator",
+     "ts": "2:01:39",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "não verbalizado claramente na legenda (aprovado)",
+     "ts": "2:01:44",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "25",
+   "ts": "2:02:57",
+   "processo": "50300.000448/2021-50",
+   "interessado": "Companhia Docas do Rio Grande do Norte (Codern); Porto de Natal",
+   "assunto": "Alteração da Tabela 7 do tarifário do Porto de Natal (cobrança de energia elétrica por contêiner), corrigindo erro de envio após reajuste homologado pela Deliberação DG 109/2022",
+   "tema": [
+    "tarifas portuárias"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado",
+   "resumo_voto": "Acolhe proposta da autoridade portuária com ajustes de padronização da SRG; publicação imediata (art. 15 da Res. 61/2021).",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, defere",
+     "ts": "2:05:00",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes",
+     "voto": "acompanha (legenda truncada)",
+     "ts": "2:05:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "não verbalizado na legenda",
+     "ts": "2:05:12",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "27",
+   "ts": "2:05:24",
+   "processo": "50300.006646/2019-11",
+   "interessado": "Codern x M. Dias Branco S.A. (Grande Moinho Potiguar); Porto de Natal",
+   "assunto": "Cumprimento do item 5.2 do Acórdão 270/2022: arbitragem dos parâmetros de contrato de passagem para esteiras e pórtico do moinho no Porto de Natal",
+   "tema": [
+    "contrato de passagem",
+    "mediação/arbitragem",
+    "arrendamento em porto organizado"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Contrato de passagem de 25 anos sobre 895,6 m², movimentação mínima de 200 mil t/ano, parcela fixa por m²/mês e variável de R$ 0,27/t (10% do item 1 da Tabela 3); recusa implica desmobilização das estruturas; 30 dias para celebrar.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, aprova os parâmetros",
+     "ts": "2:09:00",
+     "justificativa": "parcela variável não conflita com as tarifas públicas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes",
+     "voto": "acompanha a relatora",
+     "ts": "2:09:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "também acompanha a relatora",
+     "ts": "2:09:32",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "28",
+   "ts": "2:09:40",
+   "processo": "50300.008056/2022-10",
+   "interessado": "SCPar Porto de Imbituba",
+   "assunto": "Consulta sobre uso de área pública para armazenagem e movimentação de ferro-gusa em regime de uso público, havendo carga similar no Terminal de Granéis Minerais (TGM) sob contrato de transição",
+   "tema": [
+    "arrendamento em porto organizado",
+    "contrato de transição",
+    "concorrência",
+    "consulta"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Não há conflito regulatório entre exploração em uso público (tarifas) e contrato de transição; estímulo à concorrência é objetivo da Lei 12.815/2013.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, responde à consulta",
+     "ts": "2:13:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes",
+     "voto": "acompanha a relatora",
+     "ts": "2:13:36",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "também acompanha",
+     "ts": "2:13:39",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "31",
+   "ts": "2:14:09",
+   "processo": "50300.015556/2022-16",
+   "interessado": "Companhia Docas da Paraíba; Prefeitura de Cabedelo",
+   "assunto": "Autorização de uso da área AE14 pela Prefeitura de Cabedelo para obras de pavimentação e drenagem; desistência da autoridade portuária",
+   "tema": [
+    "autoridade portuária / uso de áreas"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "arquivado por perda de objeto (unânime)",
+   "resumo_voto": "Arquivamento por perda superveniente de objeto.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, arquiva",
+     "ts": "2:14:54",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes",
+     "voto": "acompanha a relatora",
+     "ts": "2:15:05",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "também acompanha a relatora",
+     "ts": "2:15:09",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "33",
+   "ts": "2:15:32",
+   "processo": "50300.018802/2021-01",
+   "interessado": "Lipport Vila Velha S.A. x Codesa",
+   "assunto": "Pedido de arbitragem com cautelar para trocar o índice de reajuste (IGP-M por IPCA) do contrato de transição 18/2021",
+   "tema": [
+    "mediação/arbitragem",
+    "contrato de transição",
+    "medida cautelar"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado: cautelar e arbitragem indeferidas",
+   "resumo_voto": "Matéria já resolvida no Acórdão 540/2021: troca de índice só por aditivo de comum acordo; a agência não impõe alteração unilateral.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, indefere",
+     "ts": "2:18:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes",
+     "voto": "acompanha (legenda truncada)",
+     "ts": "2:19:11",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "também acompanha a relatora",
+     "ts": "2:19:11",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "34",
+   "ts": "2:19:37",
+   "processo": "50300.013140/2022-55",
+   "interessado": "Elevações Portuárias S.A. (EPSA) e Corredor Logística e Infraestrutura do Sul (CLI Sul); Porto de Santos",
+   "assunto": "Alteração de controle societário da arrendatária EPSA (contrato 05/96, granéis vegetais, Santos): CLI Sul passa a 80% e a atual controladora fica com 20%",
+   "tema": [
+    "arrendamento em porto organizado",
+    "transferência de controle societário"
+   ],
+   "relator": "Alexandre Lopes",
+   "resultado": "aprovado",
+   "resumo_voto": "Requisitos da Res. 57/2021 atendidos; CADE sem óbice concorrencial; documentos com acesso restrito.",
+   "votos": [
+    {
+     "diretor": "Alexandre Lopes",
+     "voto": "relator, aprova",
+     "ts": "2:22:15",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "2:22:29",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "não verbalizado na legenda",
+     "ts": "2:22:31",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "35",
+   "ts": "2:22:37",
+   "processo": "50300.013141/2022-08",
+   "interessado": "Corredor Logística e Infraestrutura S.A. (CLI) e Brasil Terminais Logísticos FIP Multiestratégia; Tegram, Porto do Itaqui",
+   "assunto": "Alteração de controle societário da arrendatária CLI (contrato 10/2012, lote 3 do Tegram, Itaqui) com entrada de novo fundo de investimento",
+   "tema": [
+    "arrendamento em porto organizado",
+    "transferência de controle societário"
+   ],
+   "relator": "Alexandre Lopes",
+   "resultado": "aprovado",
+   "resumo_voto": "Requisitos da Res. 57/2021 atendidos; precedente de 2020 com fundo de investimento como controlador; acesso restrito aos documentos.",
+   "votos": [
+    {
+     "diretor": "Alexandre Lopes",
+     "voto": "relator, aprova",
+     "ts": "2:25:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "também acompanha o relator",
+     "ts": "2:26:01",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "não verbalizado na legenda",
+     "ts": "2:26:03",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "1, 2 e 3 — processos 50300.008481/2022, 50300.008699/2022-63 e 50300.008701/2022-06 (com sustentação oral autorizada)",
+   "relator": "Alexandre Lopes",
+   "motivo": "retirados por despacho do relator; devem voltar na próxima reunião",
+   "ts": "0:31:45"
+  },
+  {
+   "item": "36 — extrapauta da relatora",
+   "relator": "Flávia Takafashi",
+   "motivo": "retirado pela relatora",
+   "ts": "0:33:20"
+  },
+  {
+   "item": "19 — processo 50300.000317/2021-72 (envolve Petrobras e outras entidades do setor)",
+   "relator": "Eduardo Nery",
+   "motivo": "excluído antes da sessão para dar tempo ao novo diretor; o DG apresentará voto na próxima sessão",
+   "ts": "1:56:47"
+  },
+  {
+   "item": "22 — processo 50300.015027/2022-12, recurso de reconsideração de Top Log",
+   "relator": "Eduardo Nery",
+   "motivo": "excluído de pauta; volta na próxima reunião",
+   "ts": "2:02:00"
+  },
+  {
+   "item": "23 — processo 50300.019365/2021-34 (número incerto)",
+   "relator": "Eduardo Nery",
+   "motivo": "excluído de pauta antes da reunião",
+   "ts": "2:02:14"
+  },
+  {
+   "item": "24 — processo de interesse de Chibatão",
+   "relator": "Eduardo Nery",
+   "motivo": "excluído de pauta antes da reunião",
+   "ts": "2:02:33"
+  },
+  {
+   "item": "29",
+   "relator": "Flávia Takafashi",
+   "motivo": "retirado pela relatora para ajustes na instrução",
+   "ts": "2:13:48"
+  }
+ ],
+ "limites_da_analise": [
+  "O .md não tem marcadores de minuto (texto em uma linha); ts foram localizados na transcrição JSON por busca de frases; ts de quem só acompanha são aproximados.",
+  "Data do cabeçalho (2022-09-29) não é dita na fala; coerente com o contexto (assinatura da concessão de Vitória em 20-21/09 e Deliberação DG 123 publicada em 14/09/2022).",
+  "«Alexandre Lopes» não está na lista canônica do prompt; registrado como diretor substituto, conforme orientação e outras análises de 2022.",
+  "Em vários itens o voto do terceiro diretor não aparece na legenda (só «fica aprovado»); registrado como «não verbalizado» com confiança baixa.",
+  "Números de processo parciais ou distorcidos (itens 4, 5, 6, 10, 20, 21, 23); o processo do item 6 (referendo da Deliberação DG 123) parece ter o mesmo número de um dos itens retirados (8481/2022), o que pode ser erro da legenda.",
+  "Nomes de empresas incertos: «Acetil/Cetil Logística», «Rubens Factor», «HMM», «Greenco».",
+  "Item 26 da pauta não é mencionado na legenda; o item 8 foi chamado sem número de processo.",
+  "Itens 14 e 18: não fica claro na legenda quem é o titular da vista renovada no item 14."
+ ]
+}

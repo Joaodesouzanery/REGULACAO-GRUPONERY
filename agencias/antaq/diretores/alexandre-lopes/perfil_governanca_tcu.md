@@ -1,0 +1,20 @@
+# Perfil analítico — Alexandre Lopes · tema: governanca_tcu
+
+**Amostra:** presente em 4 das 4 reuniões analisadas em que há registro de presença/ausência; 8 votos neste tema; 6 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+
+**Votos:** acompanha o relator 2 (100% dos votos em que não era relator) · relator 6 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Como relator:** 2/6 relatorias aprovadas por unanimidade.
+
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 34/17; navegacao_afretamento 26/11; tarifas_portuarias 17/9; fiscalizacao_sancoes 16/11; servicos_terminais 14/5; tup_autorizacao 10/1; regulacao_normativa 10/3; governanca_tcu 8/6; recursos_recursais 4/1; sustentabilidade 3/0; mediacao 3/0; concessao_porto_hidrovia 3/2
+**Argumentos recorrentes nas justificativas registradas:** TCU/controle externo (1)
+
+## Evidências (reunião · item · voto · justificativa)
+
+- **RD 530 (2022-09-29)**, item 7 — Relatório final do estudo «Quantificação do mercado feeder na cabotagem brasileira» (item E12 da agenda de estudos), após vista de Flávia Ta · voto: *relator, aprova* (relator, conf. alta) · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=5277s) · resultado: aprovado por unanimidade
+- **RD 530 (2022-09-29)**, item 8 — Item 8 da pauta (processo com vista da RD 529; relatoria passou a Alexandre Lopes) · voto: *relator; de acordo com a renovação* (relator, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=5619s) · resultado: vista renovada; volta na próxima reunião
+- **RD 532 (2022-11-10)**, item 2 — Referendo da deliberação DG 144/2022: recurso em 1ª instância (LAI) contra negativa de acesso a processo da Superintendência de Outorgas · voto: *relator, referenda (nega provimento)* (relator, conf. alta) · «acesso antes da decisão pode frustrar a finalidade do processo» · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=2261s) · resultado: aprovado nos termos do voto do relator
+- **RD 532 (2022-11-10)**, item 3 — Referendo de deliberação DG 145/2022: denúncia de descumprimento do acórdão 409/2022 (rubricas de levante, pesagem e armazenagem como SSE di · voto: *relator, referenda (indefere cautelar)* (relator, conf. alta) · «pressupostos da cautelar ausentes» · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=2578s) · resultado: aprovado nos termos do voto do relator
+- **RD 532 (2022-11-10)**, item 45 — Cumprimento do acórdão 409/2022 e da Res. 84/2022 (suspensão do SSE): análise da tabela de preços da Portonave (relatado junto do item 3) · voto: *relator, aprova (incorpora a sugestão de Nery)* (relator, conf. alta) · «acompanha SRG: rubricas de pesagem/armazenagem distintas do SSE e vigentes desde jan/2022, antes da decisão do TCU» · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=3149s) · resultado: aprovado nos termos do voto do relator, com ajuste proposto por Eduard
+- **RD 532 (2022-11-10)**, item 23 — Análise da tabela de preços e serviços do terminal Chibatão: seguro obrigatório, cobranças sobre carga em trânsito aduaneiro (SSE) e reagend · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=8856s) · resultado: aprovado nos termos do voto do relator
+- **RD 534 (2022-12-07)**, item 2 — Referendo da Deliberação DG 147/2022: alteração do calendário de reuniões do 2º semestre de 2022 (inclusão da 28ª Reunião Extraordinária em  · voto: *acompanha* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=2950s) · resultado: referendado por unanimidade
+- **RD 534 (2022-12-07)**, item 7 — Referendo da Deliberação DG 151/2022: atualização dos estudos técnicos e jurídicos da concessão do Porto de Itajaí (criação do índice de rea · voto: *relator, referenda* (relator, conf. alta) · «dragagem é a maior parcela do custo operacional; IRC dá clareza e flexibilidade regulatória; dispersão tarifária pouco efetiva» · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=4289s) · resultado: referendado por unanimidade

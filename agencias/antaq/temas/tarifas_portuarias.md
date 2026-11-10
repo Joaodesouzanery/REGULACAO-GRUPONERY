@@ -1,0 +1,706 @@
+# Itens do tema «tarifas_portuarias» (todos os diretores)
+
+- **RD 454 (2018-12-20)**, 45 · relator **Adalberto Tokarski** · Reajuste tarifário do Terminal Salineiro de Areia Branca (TERSAB) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=14180s)
+- **RD 455 (2019-01-31)**, 77 · relator **Francisval Mendes** · Referendo de medida cautelar (Resolução 6650): majoração do THC2/SSE (segregação e entrega de contêineres) em descumprimento da Resolução 6158 → referendado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=9329s)
+- **RD 455 (2019-01-31)**, 91 · relator **Mário Povia** · Revisão tarifária dos portos de Vitória e Barra do Riacho → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=11273s)
+- **RD 456 (2019-02-26)**, 33 · relator **Adalberto Tokarski** · Roteiro/metodologia de análise de reajuste e abusividade de preços de terminais portuários arrendados e autorizados, a submeter a audiência pública → aprovado o envio a audiência pública com texto de consenso a consolidar; relator vencido q
+  - votos: Adalberto: vencido; Francisval: outro; Mário: outro · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=3101s)
+- **RD 458 (2019-04-04)**, 14 · relator **Francisval Mendes** · Norma sobre estrutura tarifária padronizada das administrações portuárias (novo regime tarifário dos portos organizados) → aprovado por unanimidade, com observações de Mário Povia
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=3541s)
+- **RD 458 (2019-04-04)**, 16 · relator **Francisval Mendes** · Pedido de reconsideração da CDRJ em conflito tarifário: desconto de 50% para cabotagem em operações offshore no porto de Angra dos Reis → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=3857s)
+- **RD 459 (2019-04-15)**, 14 · relator **Francisval Mendes** · Norma que torna obrigatória a prestação de informações ao sistema de acompanhamento de preços da ANTAQ → aprovado por unanimidade nos termos do voto do relator
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=4740s)
+- **RD 461 (2019-05-20)**, 3 · relator **Francisval Mendes** · Pedido de reconsideração contra a Resolução 5892/2018, que vedou cobrança de tarifas de bagagem, adicional de expansão de funcionamento e valor mínimo → pedido de vista de Adalberto Tokarski (vista anterior do Diretor-Geral também pendente)
+  - votos: Francisval: relator; Adalberto: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=623s)
+- **RD 461 (2019-05-20)**, 29 · relator **Francisval Mendes** · Reajuste tarifário linear de até 5,64% no Porto de Fortaleza para repor inflação desde maio de 2017 → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=5062s)
+- **RD 461 (2019-05-20)**, 47 · relator **Adalberto Tokarski** · Consulta sobre instalação de pórtico/equipamento de operador portuário em cais público: aplicabilidade da RN 03/2015 e das tarifas de uso temporário e → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=9291s)
+- **RD 462 (2019-05-30)**, 19 · relator **Mário Povia** · Revisão da norma aprovada pela Resolução 2.389/2012 (movimentação e armazenagem de contêineres: THC, SSE/THC2, franquia, entrega em trânsito aduaneiro → voto do relator proferido (aprovação do texto revisado, sem nova audiência pública); vista
+  - votos: Mário: relator; Francisval: vista; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=5859s)
+- **RD 463 (2019-06-26)**, 10 · relator **Francisval Mendes** · Pedido de reconsideração contra a Resolução 5892-ANTAQ (ROD 436), que vedou cobrança de tarifas de bagagem, embarque/desembarque adicional, expansão d → aprovado nos termos do voto condutor (pedido de reconsideração indeferido), unânime
+  - votos: Francisval: relator; Mário: revisor_acompanha; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=1463s)
+- **RD 463 (2019-06-26)**, 32 · relator **Francisval Mendes** · Consulta sobre cobrança, pelo terminal privado do Pecém, de valores das empresas de rebocagem pelo uso da infraestrutura; notícia do sindicato contra  → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=4975s)
+- **RD 463 (2019-06-26)**, 38 · relator **Adalberto Tokarski** · Arbitragem administrativa sobre cobrança das tabelas tarifárias 1 e 2 (acesso aquaviário e terrestre, estrada particular da CODESP) à Embraport, TUP c → não concluído: vista de Mário Povia após o voto do relator
+  - votos: Adalberto: relator; Mário: vista; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=8911s)
+- **RD 464 (2019-06-28)**, 3 · relator **Adalberto Tokarski** · Arbitragem administrativa de conflito: cobrança das tarifas portuárias Tabela 1 (acesso aquaviário, pleito de proporcionalidade) e Tabela 2 item 5 (ac → voto-vista divergente em parte proferido por Mário Povia; processo vai à vista de Francisv
+  - votos: Adalberto: relator; Mário: revisor_diverge; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=65s)
+- **RD 464 (2019-06-28)**, 7 · relator **Mário Povia** · Revisão da Resolução 2.389/2012 (parâmetros da movimentação e armazenagem de contêineres; SSE/THC2), com inclusão dos TUPs e previsão de preço-teto → voto-vista de Francisval Mendes proferido (acompanha com ressalvas); processo vai à vista 
+  - votos: Mário: relator; Francisval: revisor_acompanha; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=3544s)
+- **RD 465 (2019-08-22)**, 62 · relator **Francisval Mendes** · Procedimento extraordinário de fiscalização: cobrança da autoridade portuária pelo uso do espelho d'água pelo atracadouro flutuante do ferry boat Itaj → aprovado por unanimidade, com acréscimo proposto por Mário Povia
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=932s)
+- **RD 465 (2019-08-22)**, 77 · relator **Francisval Mendes** · Consulta sobre cobrança de tarifa de movimentação de passageiros no porto organizado de Salvador; vista de Adalberto Tokarski → não concluído: vista de Adalberto Tokarski após o voto do relator
+  - votos: Francisval: relator; Adalberto: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=3708s)
+- **RD 465 (2019-08-22)**, 79 · relator **Francisval Mendes** · Consulta sobre procedimentos para antecipação de receitas de tarifas e arrendamentos (Decreto 9.048/2017) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=4148s)
+- **RD 466 (2019-09-27)**, 74 · relator **Francisval Mendes** · Pedido de suspensão do reajuste linear de 19,22% das tarifas do Terminal Salineiro de Areia Branca (Resolução 6.660) → aprovado nos termos do voto do relator
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=2971s)
+- **RD 466 (2019-09-27)**, 122 · relator **Adalberto Tokarski** · Regulação de preço-teto nos terminais arrendados de passageiros (cruzeiros) → relator e Francisval Mendes votaram; processo com pedido de vista (aparentemente de Mário 
+  - votos: Adalberto: relator; Francisval: acompanha; Mário: vista · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=10258s)
+- **RD 466 (2019-09-27)**, 132 (referendo) · relator **Francisval Mendes** · Referendo da Resolução 7.156: indeferimento de cautelar para suspender a Resolução 194 da Codesp → referendado
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=11584s)
+- **RD 466 (2019-09-27)**, 135 (referendo) · relator **Adalberto Tokarski** · Referendo da Resolução 6.767: cautelar suspendendo a cobrança da taxa de utilização da infraestrutura de proteção e acesso aquaviário pela EMAP a navi → referendado
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=11882s)
+- **RD 467 (2019-10-21)**, 1 · relator **None** · Regulação de preço-teto em terminais arrendados (voto do relator já proferido) → adiado (vista renovada por Mário Povia)
+  - votos: Mário: vista · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=75s)
+- **RD 467 (2019-10-21)**, 2 · relator **Francisval Mendes** · Representação com cautelar contra majoração do SSE/THC2 (segregação e entrega de contêineres) no Porto de Santos; recursos de BTP e Libra → aprovado por unanimidade nos termos do voto do relator
+  - votos: Francisval: relator; Mário: revisor_acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=110s)
+- **RD 467 (2019-10-21)**, 7 · relator **Adalberto Tokarski** · Arbitragem administrativa de conflito: proporcionalidade tarifária prevista no contrato de adesão do TUP Embraport (Santos) → aprovado nos termos do voto-vista de Mário Povia (relator vencido)
+  - votos: Adalberto: vencido; Mário: revisor_diverge; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=1314s)
+- **RD 467 (2019-10-21)**, 10 · relator **Francisval Mendes** · Denúncia de aumento abusivo na tabela de serviços básicos (armazenagem) de arrendatário no Porto do Rio de Janeiro → aprovado por unanimidade nos termos do voto do relator
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: revisor_diverge · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=2173s)
+- **RD 467 (2019-10-21)**, 11 · relator **Francisval Mendes** · Cobrança pela inspeção não invasiva (escaneamento) de contêineres pelos terminais → aprovado por unanimidade nos termos do voto do relator
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=2620s)
+- **RD 467 (2019-10-21)**, 58 · relator **Adalberto Tokarski** · Isenção de tarifa de atracação para navio-biblioteca sem fins lucrativos no Porto de Santos → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=10481s)
+- **RD 468 (2019-11-08)**, 1 · relator **Adalberto Tokarski** · Pedido de fixação de preço-teto para terminais de passageiros (cruzeiros) arrendados nos portos organizados de Santos e do Rio de Janeiro — voto-vista → aprovado nos termos do voto-vista de Mário Povia (maioria); relator provavelmente vencido
+  - votos: Adalberto: vencido; Mário: revisor_diverge; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=44s)
+- **RD 469 (2019-11-20)**, 20 · relator **Francisval Mendes** · Comunicação contra a Resolução Codesp 154/2019 (metodologia de cobrança da Tabela I, infraestrutura portuária, responsabilidades do agente marítimo) → aprovado por unanimidade: extinção do processo
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=W57uJxuLJM8&t=2995s)
+- **RD 469 (2019-11-20)**, 23 · relator **Francisval Mendes** · Isenção da taxa de acostagem no Porto de Óbidos para barco hospitalar de entidade filantrópica → aprovado por unanimidade: isenção deferida
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=W57uJxuLJM8&t=3434s)
+- **RD 471 (2019-12-20)**, 10 · relator **Francisval Mendes** · Pedido de dilação do prazo de adequação à RN 31/2019 da ANTAQ (prestação de informações ao sistema de acompanhamento de preços). Julgado em bloco com  → aprovado por unanimidade (extinção por perda de objeto)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=P_LIYIJGp8I&t=858s)
+- **RD 471 (2019-12-20)**, 11 · relator **Francisval Mendes** · Pedido de dilação do prazo de adequação à RN 31/2019 da ANTAQ (prestação de informações ao sistema de acompanhamento de preços). Julgado em bloco com  → aprovado por unanimidade (extinção por perda de objeto)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=P_LIYIJGp8I&t=858s)
+- **RD 471 (2019-12-20)**, 21 · relator **Adalberto Tokarski** · Representação por preços abusivos e barreiras concorrenciais na prestação de serviços portuários (THC2/SSE, reajustes) pela arrendatária APM Terminals → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P_LIYIJGp8I&t=2403s)
+- **RD 472 (2020-02-10)**, 6 · relator **Mário Povia** · Pedidos de reconsideração contra a Res. 6183-ANTAQ (cobrança de armazenagem por período e SSE/THC2 e energia elétrica no porto de Suape) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=210s)
+- **RD 473 (2020-02-10)**, 9 · relator **Mário Povia** · Pedido de reconsideração da Embraport contra o Acórdão 95/2019: proporcionalidade das tarifas portuárias (Tabelas 1 e 2) cobradas de terminal autoriza → aprovado por maioria — pedido conhecido e improvido; vencido Adalberto Tokarski
+  - votos: Mário: relator; Adalberto: vencido; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=1785s)
+- **RD 473 (2020-02-10)**, 12 · relator **Mário Povia** · Consulta regulatória sobre a remuneração do arrendamento 069/98 na movimentação de granéis sólidos ('outras cargas') e desconto de 50% para cabotagem → aprovado por unanimidade — consulta conhecida e respondida
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=3885s)
+- **RD 473 (2020-02-10)**, 16 · relator **Mário Povia** · Pedido de informações do CADE sobre suposta conduta anticompetitiva do Tecon Suape na cobrança de THC2/SSE → aprovado por unanimidade — arquivamento por perda superveniente de objeto, com ciência ao 
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=6346s)
+- **RD 473 (2020-02-10)**, 17 · relator **Mário Povia** · Reclamações sobre taxas e sobretaxas na navegação marítima (taxa emergencial de bunker, taxa de logística de exportação, emissão de BL, overbooking, c → aprovado por unanimidade — minuta de resolução interpretativa aprovada sem consulta públic
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=6763s)
+- **RD 473 (2020-02-10)**, 18 · relator **Mário Povia** · Avaliação de franquia e preço-teto para o SSE (RN 34/Acórdão 69/2019) e embargos de declaração/recursos contra o Acórdão 69/2019 → pedido de vista de Adalberto Tokarski após o voto do relator
+  - votos: Mário: relator; Adalberto: vista; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=7410s)
+- **RD 472 (2020-02-10)**, 34 · relator **Francisval Mendes** · Denúncia de cobrança da taxa de logística de exportação (ELF) pela MSC → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=8081s)
+- **RD 472 (2020-02-10)**, 35 · relator **Adalberto Tokarski** · Reajuste tarifário do porto de Vila do Conde → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=8620s)
+- **RD 472 (2020-02-10)**, 46 · relator **Adalberto Tokarski** · Referendo da Res. 6661 (indeferimento de cautelar sobre preços de DTA/DTC de operadores de trânsito aduaneiro, Santos) → referendado
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=11329s)
+- **RD 474 (2020-03-06)**, 2 · relator **Mário Povia** · Revisão da cobrança de rubricas tarifárias para navios de cruzeiro nos berços públicos (Estação Marítima de Passageiros) e pedido de suspensão cautela → aprovada a divergência de Francisval Mendes (com voto-vista de Tokarski); relator Mário Po
+  - votos: Mário: vencido; Francisval: outro; Adalberto: revisor_diverge; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=154s)
+- **RD 474 (2020-03-06)**, 16 · relator **Francisval Mendes** · Reajuste tarifário do Porto Organizado de Belém (período 27/05/2015 a 28/05/2019), julgado em bloco com o item 17 → aprovado por unanimidade (julgamento em bloco dos itens 16 e 17) — reajustes de 19,61% (Be
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=3288s)
+- **RD 474 (2020-03-06)**, 17 · relator **Francisval Mendes** · Reajuste tarifário do Porto Organizado de Santarém (período 27/05/2015 a 28/05/2019), julgado em bloco com o item 16 → aprovado por unanimidade (julgamento em bloco dos itens 16 e 17) — reajustes de 19,61% (Be
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=3288s)
+- **RD 474 (2020-03-06)**, 34 · relator **Adalberto Tokarski** · Recurso da CDRJ contra decisão da SFC que mandou cessar cobrança da tarifa de conferência/controle no recebimento de água por embarcação para o aquári → aprovado por unanimidade — ofício da URERJ convertido em medida cautelar; autos à SRG para
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=8348s)
+- **RD 474 (2020-03-06)**, 36 · relator **Adalberto Tokarski** · Reajuste tarifário do Porto Organizado de Suape (26/02/2018 a 31/08/2019) → aprovado por unanimidade — reajuste de 5,07%
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=8812s)
+- **RD 474 (2020-03-06)**, 37 · relator **Adalberto Tokarski** · Reajuste tarifário do Porto Organizado de Antonina (29/05/2018 a 09/12/2019) → aprovado por unanimidade — reajuste de 6%
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=8949s)
+- **RD 474 (2020-03-06)**, 41 · relator **Francisval Mendes** · Referendo da Resolução 7.587 — indeferimento de efeito suspensivo ao pedido de reconsideração contra a Resolução 7.518 (taxa considerada irregular pel → referendado por unanimidade — efeito suspensivo negado; SRG analisa o mérito
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=9884s)
+- **RD 477 (2020-05-10)**, 2 · relator **Mário Povia** · Embargos de declaração e recursos contra o Acórdão 69/2019 e a RN 34 (movimentação e armazenagem de contêineres; franquia e preço-teto do SSE) – voto- → aprovado nos termos do voto condutor (relator Mário Povia, voto já proferido)
+  - votos: Adalberto: revisor_acompanha; Francisval: acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=454s)
+- **RD 477 (2020-05-10)**, 7 · relator **Francisval Mendes** · Reajuste de preços da travessia Itapiranga/SC – Barra do Guarita/RS → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=2850s)
+- **RD 479 (2020-06-09)**, 4 · relator **Francisval Mendes** · Denúncia de cobrança indevida pela inspeção não invasiva (escaneamento) de contêineres → aprovado por unanimidade nos termos do voto do relator
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=684s)
+- **RD 479 (2020-06-09)**, 41 · relator **Gabriela Costa** · Cautelar contra a Deliberação Direx 60/2019 da CDP (tarifa de uso da infraestrutura terrestre de R$ 2,07 para R$ 5,33) → aprovado por unanimidade: cautelar indeferida e diligência à SRG
+  - votos: Gabriela: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=8921s)
+- **RD 481 (2020-07-04)**, 6 · relator **Francisval Mendes** · Medida cautelar para abstenção da cobrança de THC no conhecimento de embarque; vista de Adalberto Tokarski → pedido de vista (Adalberto Tokarski); relator não leu o voto
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=1172s)
+- **RD 481 (2020-07-04)**, 7 · relator **Francisval Mendes** · Consulta sobre periodicidade da cobrança de tarifa portuária pela estadia de navio petroleiro em quarentena no porto de Cabedelo (tabela omissa) → aprovado por unanimidade (extinção por exaurimento de finalidade)
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=1230s)
+- **RD 481 (2020-07-04)**, 19 · relator **Adalberto Tokarski** · Reajuste tarifário de 6% nas tabelas do porto organizado de Paranaguá → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=5491s)
+- **RD 481 (2020-07-04)**, 28 · relator **Gabriela Costa** · Reajuste tarifário de 5,70% (set/2018 a mar/2020) no porto organizado de Vitória → aprovado por unanimidade
+  - votos: Gabriela: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=7110s)
+- **RD 481 (2020-07-04)**, 29 (bloco 29, 30, 31) · relator **Gabriela Costa** · Resposta a ofício do CADE sobre possível abusividade da cobrança de SSE (segregação e entrega de contêineres em regime de DTC), com representação/caut → pedido de vista (Adalberto Tokarski) após leitura do voto da relatora
+  - votos: Gabriela: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=7350s)
+- **RD 481 (2020-07-04)**, 30 (bloco 29, 30, 31) · relator **Gabriela Costa** · Resposta a ofício do CADE sobre possível abusividade da cobrança de SSE (segregação e entrega de contêineres em regime de DTC), com representação/caut → pedido de vista (Adalberto Tokarski) após leitura do voto da relatora
+  - votos: Gabriela: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=7350s)
+- **RD 481 (2020-07-04)**, 31 (bloco 29, 30, 31) · relator **Gabriela Costa** · Resposta a ofício do CADE sobre possível abusividade da cobrança de SSE (segregação e entrega de contêineres em regime de DTC), com representação/caut → pedido de vista (Adalberto Tokarski) após leitura do voto da relatora
+  - votos: Gabriela: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=7350s)
+- **RD 481 (2020-07-04)**, 32 · relator **Gabriela Costa** · Pedido de medida cautelar administrativa da ATP contra parecer da SRG enviado ao CADE sobre SSE de Itapoá; relatora leu o voto, vista de Adalberto Tok → pedido de vista (Adalberto Tokarski) após leitura do voto da relatora
+  - votos: Gabriela: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=8461s)
+- **RD 483 (2020-08-10)**, 9 · relator **Francisval Mendes** · Medida cautelar para que transportadores marítimos se abstenham de cobrar/inserir a THC (terminal handling charge) no conhecimento de embarque e compr → aprovado por maioria (Tokarski vencido)
+  - votos: Francisval: relator; Adalberto: revisor_diverge; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=2058s)
+- **RD 483 (2020-08-10)**, 12 · relator **Gabriela Costa** · Consulta do CADE sobre possível abusividade na cobrança de segregação e entrega de contêineres (SSE/THC2) em regime de trânsito aduaneiro. Julgados em → aprovado nos termos do voto-vista (com acréscimos e ressalvas)
+  - votos: Gabriela: relator; Adalberto: revisor_acompanha; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=3609s)
+- **RD 483 (2020-08-10)**, 13 · relator **Gabriela Costa** · Consulta do CADE sobre possível abusividade na cobrança de segregação e entrega de contêineres (SSE/THC2) em regime de trânsito aduaneiro e armazenage → aprovado nos termos do voto-vista (com acréscimos e ressalvas)
+  - votos: Gabriela: relator; Adalberto: revisor_acompanha; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=3609s)
+- **RD 483 (2020-08-10)**, 14 · relator **Gabriela Costa** · Consulta do CADE sobre possível abusividade na cobrança de segregação e entrega de contêineres (SSE/THC2) em regime de trânsito aduaneiro. Julgados em → aprovado nos termos do voto-vista (com acréscimos e ressalvas)
+  - votos: Gabriela: relator; Adalberto: revisor_acompanha; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=3609s)
+- **RD 483 (2020-08-10)**, 16 · relator **Gabriela Costa** · Consulta sobre tarifas portuárias no porto organizado de Vila do Conde/PA → pedido de vista renovado (Tokarski)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=4543s)
+- **RD 483 (2020-08-10)**, 54 · relator **Gabriela Costa** · Consulta regulatória: equipamentos móveis de regaseificação de GNL (navio FSU no cais de múltiplos usos) são equipamentos portuários? Regime de ocupaç → pedido de vista (Francisval Mendes) após leitura do voto da relatora
+  - votos: Gabriela: relator; Adalberto: acompanha; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=17484s)
+- **RD 483 (2020-08-10)**, 61 · relator **Gabriela Costa** · Proposta de resolução: franquia para cargas conteinerizadas e preço-teto nacional do SSE, com critérios de abusividade (art. 9º, parágrafo único, RN 3 → pedido de vista (Francisval Mendes) após leitura do voto da relatora
+  - votos: Gabriela: relator; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=19006s)
+- **RD 485 (2020-08-27)**, 9 · relator **Gabriela Costa** · Avaliação da criação de franquia e de preço-teto para o serviço de segregação e entrega (SSE); relatora Gabriela Costa com voto proferido → pedido de vista de Francisval Mendes renovado
+  - votos: Francisval: vista; Adalberto: outro; Joelson: outro · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=3572s)
+- **RD 485 (2020-08-27)**, 34 · relator **Adalberto Tokarski** · Restabelecimento da cobrança das tarifas de acesso e controle aquaviário (Tabela 1) diretamente aos armadores em vez dos terminais → votação suspensa: pedido de vista de Francisval Mendes após o voto do relator
+  - votos: Adalberto: relator; Francisval: vista; Joelson: outro · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=9995s)
+- **RD 485 (2020-08-27)**, 37 · relator **Adalberto Tokarski** · Revisão tarifária da CDRJ (conexa ao item 34; assunto resumido) → votação suspensa: pedido de vista de Francisval Mendes após o voto do relator
+  - votos: Adalberto: relator; Francisval: vista; Joelson: outro · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=9995s)
+- **RD 487 (2020-09-30)**, 4 · relator **Gabriela Costa** · Avaliação da criação de preço-teto para o serviço de segregação e entrega (SSE) de contêineres → prorrogação do prazo de vista de Francisval Mendes aprovada
+  - votos: Francisval: outro; Adalberto: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=1252s)
+- **RD 487 (2020-09-30)**, 14 · relator **Francisval Mendes** · Recurso administrativo (pedido de reconsideração) contra a Resolução Normativa 31/2019 (sistema de acompanhamento de preços) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=4216s)
+- **RD 490 (2020-12-08)**, 5 · relator **None** · Medida administrativa cautelar (pedido da Usuport); vista formulada na reunião anterior → vista renovada
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=1158s)
+- **RD 490 (2020-12-08)**, 10 · relator **Gabriela Costa** · Avaliação da criação de franquia e de preço-teto para o serviço de segregação e entrega (SSE) - RN 34; relatora Gabriela Costa (voto na 483ª RO), voto → aprovado nos termos do voto-vista de Francisval Mendes, com complemento de Adalberto (envi
+  - votos: Adalberto: revisor_acompanha; Francisval: revisor_acompanha; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=2441s)
+- **RD 490 (2020-12-08)**, 38 · relator **Francisval Mendes** · Alegada ilegalidade e abusividade do aumento da tarifa portuária no carregamento de balsas (de R$ 2,07 para R$ 5,33/t) pela Deliberação DIREXE 60/2019 → aprovado por unanimidade (pedido indeferido)
+  - votos: Francisval: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=7386s)
+- **RD 492 (2020-12-22)**, 2 · relator **Adalberto Tokarski** · Medida administrativa cautelar → vista renovada
+  - votos: Eduardo: vista · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=2500s)
+- **RD 492 (2020-12-22)**, 23 (provável) · relator **Francisval Mendes** · Embargos de declaração contra o Acórdão 34/2020 (cautelar da Res. 6650 sobre preço-teto de SSE em Santos), com sustentação oral → aprovado por unanimidade
+  - votos: Francisval: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=4361s)
+- **RD 492 (2020-12-22)**, 25 · relator **Francisval Mendes** · Arbitragem: juros e multas da APPA sobre valores depositados antecipadamente → pedido de vista (diretor não identificado com segurança, provavelmente Eduardo Nery)
+  - votos: Francisval: relator · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=7116s)
+- **RD 494 (2021-02-03)**, 6 · relator **Adalberto Tokarski** · Arbitragem regulatória com pedido de cautelar: remuneração pela ocupação de área do porto organizado de Itaguaí pelo ramal ferroviário de acesso ao Po → pedido de vista (Eduardo Nery); julgamento suspenso
+  - votos: Adalberto: relator; Francisval: revisor_diverge; Eduardo: vista · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=973s)
+- **RD 494 (2021-02-03)**, 5 · relator **Adalberto Tokarski** · Pedido da CDP para que a ANTAQ mude a posição apresentada como amicus curiae em ação judicial sobre a cobrança da Tabela 1 (infraestrutura aquaviária) → aprovado nos termos do voto do relator; acréscimo de nulidade de notas técnicas proposto p
+  - votos: Adalberto: relator; Francisval: vencido; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=3770s)
+- **RD 494 (2021-02-03)**, 22 · relator **Francisval Mendes** · Embargos de declaração contra o Acórdão 101/2020 (THC: pedido de que a cobrança não conste no conhecimento de embarque/BL por efeitos tributários) → pedido de vista (Adalberto Tokarski); julgamento suspenso
+  - votos: Francisval: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=8867s)
+- **RD 494 (2021-02-03)**, 32 · relator **Adalberto Tokarski** · Inclusão da Tabela 8 (uso temporário e arrendamento simplificado) na estrutura tarifária do porto de Itaguaí, sem revisão tarifária, para viabilizar o → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=11588s)
+- **RD 494 (2021-02-03)**, 38 · relator **Adalberto Tokarski** · Representação com cautelar contra aumento do preço do serviço de segregação e entrega de contêineres (SSE) pela BTP → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=12411s)
+- **RD 494 (2021-02-03)**, 39 · relator **Adalberto Tokarski** · Representação por infração à ordem econômica (aumento de preços, cobrança antecipada sob pena de retenção de carga) com pedido cautelar → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=12616s)
+- **RD 496 (2021-03-10)**, 9 · relator **Adalberto Tokarski** · Denúncia na Ouvidoria sobre abusividade na cobrança de THC → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: revisor_acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=3640s)
+- **RD 496 (2021-03-10)**, 10 · relator **Adalberto Tokarski** · Denúncia sobre cobrança de THC por armador; uso dos dados na agenda regulatória → aprovado nos termos do voto do revisor Eduardo Nery
+  - votos: Eduardo: revisor_diverge; Gabriela: revisor_acompanha; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=3915s)
+- **RD 496 (2021-03-10)**, 11 · relator **Adalberto Tokarski** · Denúncia sobre cobrança de THC por armador; uso dos dados na agenda regulatória → aprovado nos termos do voto do revisor Eduardo Nery
+  - votos: Eduardo: revisor_diverge; Gabriela: revisor_acompanha; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=4040s)
+- **RD 496 (2021-03-10)**, 28 · relator **Adalberto Tokarski** · Tabela de preços do terminal: rubrica de seguro ad valorem / gerenciamento de risco → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=7209s)
+- **RD 496 (2021-03-10)**, 29 · relator **Adalberto Tokarski** · Tabela de preços: rubrica de gerenciamento de risco → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=7590s)
+- **RD 496 (2021-03-10)**, 31 · relator **Adalberto Tokarski** · Retirado de pauta pelo relator após observações do DG → retirado de pauta
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=8414s)
+- **RD 496 (2021-03-10)**, 46 · relator **Gabriela Costa** · Inclusão de modalidade tarifária para contratos de uso temporário e arrendamentos simplificados (soda cáustica) → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=10385s)
+- **RD 496 (2021-03-10)**, 47 · relator **Gabriela Costa** · Revisão e padronização da estrutura tarifária do porto de São Sebastião/SP → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=10540s)
+- **RD 496 (2021-03-10)**, 48 · relator **Gabriela Costa** · Representação com cautelar contra suposto aumento abusivo do SSE na pandemia → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=10671s)
+- **RD 498 (2021-04-08)**, 4 · relator **Adalberto Tokarski** · Referendo da Deliberação DG 56/2021: prorrogação do prazo de contribuições da Audiência Pública 4/2021 (padronização da cesta de serviços básicos dos  → referendado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=850s)
+- **RD 498 (2021-04-08)**, 39 · relator **Gabriela Costa** · Apuração de infrações à ordem econômica e abuso de poder econômico na travessia; reajuste tarifário acima do autorizado (3,44% em 2017) → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=10416s)
+- **RD 498 (2021-04-08)**, 40 · relator **Gabriela Costa** · Revisão tarifária com padronização da estrutura tarifária do porto de São Francisco do Sul → aprovado por unanimidade, com ajuste de forma (formalizar por acórdão, não por resolução)
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=10638s)
+- **RD 500 (2021-05-21)**, 2 · relator **Gabriela Costa** · Referendo das deliberações 96 e 97 (ad referendum) que indeferiram medida cautelar contra suposto aumento abusivo de preço cobrado pela BTP (julgado e → referendado por unanimidade (cautelares indeferidas)
+  - votos: Gabriela: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=350s)
+- **RD 500 (2021-05-21)**, 3 · relator **Gabriela Costa** · Referendo das deliberações 96 e 97 (ad referendum) que indeferiram medida cautelar contra suposto aumento abusivo de preço cobrado pela BTP (julgado e → referendado por unanimidade (cautelares indeferidas)
+  - votos: Gabriela: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=350s)
+- **RD 500 (2021-05-21)**, 35 · relator **Adalberto Tokarski** · Resposta ao MPF sobre diferenças de preço de escaneamento de contêineres em Itajaí/Navegantes → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=12860s)
+- **RD 500 (2021-05-21)**, 45 · relator **Gabriela Costa** · Proposta normativa do tema 3.1 da agenda regulatória 2020/2021: mecanismos de apuração de abusividade na cobrança de THC dos usuários pelos armadores  → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=17953s)
+- **RD 504 (2021-07-08)**, 2 · relator **Gabriela Costa** · Referendo (Deliberação DG 150/2021): diferimento da entrada em vigor da nova estrutura tarifária (Acórdão 228/2021) a pedido de sindicatos de operador → referendado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=222s)
+- **RD 504 (2021-07-08)**, 23 · relator **Eduardo Nery** · Resolução sobre antecipação de receitas tarifárias e de valores de arrendamento nos portos organizados → aprovado por unanimidade
+  - votos: Eduardo: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=6307s)
+- **RD 504 (2021-07-08)**, 41 · relator **Gabriela Costa** · Revisão tarifária com padronização da estrutura tarifária do Porto do Itaqui (MA) → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=11229s)
+- **RD 504 (2021-07-08)**, 53 · relator **Gabriela Costa** · Extrapauta: prorrogação do prazo da audiência pública 11/2021 (abusividade na cobrança de THC) → aprovado por unanimidade — deferido parcialmente
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=11868s)
+- **RD 506 (2021-08-23)**, 23 · relator **Adalberto Tokarski** · Pedido de reconsideração do acórdão 86/2021, que mandou retirar da tabela de preços a rubrica de seguro ad valorem; sustentação oral da Dra. Amanda Ba → pedido de vista (Flávia Takafashi) após voto do relator
+  - votos: Adalberto: relator; Eduardo: outro; Flávia: vista · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=5922s)
+- **RD 506 (2021-08-23)**, 30 · relator **Adalberto Tokarski** · Pedido de cautelar contra cobranças da Bandeirantes Deicmar sobre importação de frutas secas (carga LCL) a ser devolvida → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Adalberto: relator; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=8690s)
+- **RD 506 (2021-08-23)**, 33 · relator **Adalberto Tokarski** · Roteiro de análise de reajuste e abusividade de preços em terminais portuários → pedido de vista (Flávia Takafashi) após voto do relator
+  - votos: Adalberto: relator; Flávia: vista; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=9759s)
+- **RD 508 (2021-09-09)**, 7 · relator **Adalberto Tokarski** · Pedido de reconsideração do acórdão 86/2021 que mandou retirar a rubrica seguro ad valorem da tabela de preços do terminal — retomada após vista de Fl → aprovado nos termos do voto-vista da revisora (Flávia Takafashi), por unanimidade
+  - votos: Flávia: revisor_acompanha; Adalberto: revisor_acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=2435s)
+- **RD 508 (2021-09-09)**, 18 · relator **Adalberto Tokarski** · Embargos de declaração contra o acórdão 104/2020 (suposta cobrança abusiva por segregação e entrega de contêineres - SSE, representação da Pátio/Centr → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=5760s)
+- **RD 508 (2021-09-09)**, 23 · relator **Adalberto Tokarski** · Arbitragem de conflito sobre remuneração pelo uso do canal de acesso e bacia de evolução em Barra do Riacho (ES) → aprovado por unanimidade
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=7351s)
+- **RD 508 (2021-09-09)**, 39 · relator **Flávia Takafashi** · Recurso contra negativa de acesso ao processo de revisão tarifária do Porto de São Francisco do Sul (acórdão 128/2020) → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=11979s)
+- **RD 508 (2021-09-09)**, 41 · relator **Flávia Takafashi** · Inclusão de modalidades tarifárias na estrutura tarifária do Porto de Salvador (uso temporário e agendamentos) → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=13000s)
+- **RD 508 (2021-09-09)**, 44 · relator **Flávia Takafashi** · Pedido de suspensão da Resolução Codesp 154/2019 (cobrança da tabela I do porto de Santos a requisitantes e exigência de garantias) → indeferido por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=13477s)
+- **RD 510 (2021-10-11)**, 18 (sustentação) · relator **Adalberto Tokarski** · Pedido de vista do Diretor-Geral (formulado na reunião 507) renovado por mais uma reunião → vista renovada (art. 29 §1º da Res. 7.701); volta na próxima reunião
+  - votos: Eduardo: outro; Adalberto: relator; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=738s)
+- **RD 510 (2021-10-11)**, 12 · relator **Adalberto Tokarski** · Roteiro de análise de reajuste e abusividade de preços de terminais portuários (determinação do TCU) → aprovado o sobrestamento proposto pela revisora até o desfecho do processo da metodologia 
+  - votos: Adalberto: relator; Flávia: revisor_acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=8136s)
+- **RD 510 (2021-10-11)**, 21 · relator **Eduardo Nery** · Pedido de reajuste de preços de travessia na BR-319 (Beruri/AM), mercado não competitivo → aprovado (Flávia acompanha; voto de Adalberto não dito explicitamente)
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=10250s)
+- **RD 510 (2021-10-11)**, 34 · relator **Adalberto Tokarski** · Pedido de reconsideração sobre enquadramento de TUPs na Tabela 1 (infraestrutura de acesso aquaviário) do porto de Vila do Conde → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=12407s)
+- **RD 510 (2021-10-11)**, 45 · relator **Flávia Takafashi** · Reajuste de preços de travessia Itapiranga/SC – Barra do Guarita/RS, mercado não competitivo → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=14805s)
+- **RD 510 (2021-10-11)**, 46 · relator **Flávia Takafashi** · Revisão tarifária com padronização da estrutura tarifária do porto de Vitória (reajuste de 10,35%) → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=14998s)
+- **RD 511 (2021-11-11)**, 9 · relator **Adalberto Tokarski** · Alteração da tabela de preços e serviços do terminal; julgamento interrompido na RD 507 por vista do DG antes do voto do relator → pedido de vista renovado (sem deliberação de mérito)
+  - votos: Eduardo: outro; Adalberto: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=267s)
+- **RD 513 (2021-11-26)**, 27 · relator **Adalberto Tokarski** · Cobrança antecipada, pelo terminal, de serviços (SSE e associados) sobre cargas em trânsito aduaneiro destinadas a recintos alfandegados; retomada de  → pedido de vista (Flávia Takafashi) após o voto do relator
+  - votos: Adalberto: relator; Flávia: vista · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=1728s)
+- **RD 514 (2021-12-10)**, 2 · relator **Adalberto Tokarski** · Tabela pública de preços do terminal: cobrança apartada de carregamento de saída nas cargas em DTA-pátio e rubrica gerenciamento de risco (RN 34); com → aprovado por unanimidade nos termos do voto do relator, que incorporou as sugestões do vot
+  - votos: Adalberto: revisor_acompanha; Eduardo: revisor_diverge; Flávia: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=2525s)
+- **RD 514 (2021-12-10)**, 23 · relator **Adalberto Tokarski** · Nova tabela de preços do TUP Itapoá – aderência das rubricas de trânsito aduaneiro (movimentação de contêiner) ao conceito de SSE da RN 34; com susten → aprovado por unanimidade
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=4598s)
+- **RD 514 (2021-12-10)**, 43 · relator **Flávia Takafashi** · Questionamento da obrigatoriedade de passagem das cargas conteinerizadas (cabotagem/multimodal) pelos pátios de triagem de Suape e da falta de isonomi → aprovado por unanimidade, com acréscimo sugerido por Eduardo Nery
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=10308s)
+- **RD 514 (2021-12-10)**, 10 · relator **Eduardo Nery** · Acompanhamento de preços: rubrica 2.9 taxa de liberação DTA-pátio x conceito de SSE da RN 34 → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=14535s)
+- **RD 514 (2021-12-10)**, 12 · relator **Eduardo Nery** · Pedido de reconsideração contra o acórdão 322/2021 (rubrica seguro ad valorem obrigatória deve ser excluída ou tornada cobertura adicional e opcional) → aprovado por unanimidade (recurso negado)
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=15590s)
+- **RD 514 (2021-12-10)**, 15 · relator **Eduardo Nery** · Consulta sobre realizar dragagem de manutenção do canal de acesso para posterior compensação tarifária (antecipação de receita) → aprovado por unanimidade (pleito indeferido)
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=16099s)
+- **RD 514 (2021-12-10)**, 20 · relator **Adalberto Tokarski** · Reajuste de preço na travessia internacional Guajará-Mirim (RO) – Guayaramerín (Bolívia), rio Mamoré → aprovado por unanimidade (com ressalvas)
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=17478s)
+- **RD 514 (2021-12-10)**, 21 · relator **Adalberto Tokarski** · Reajuste de preço da travessia de veículos Carneirinho/MG – Santa Albertina/SP (Estrela da Barra) → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=17715s)
+- **RD 514 (2021-12-10)**, 37 · relator **Flávia Takafashi** · Comunicação de reajuste de preços na linha Porto Velho–Manicoré (navegação interior longitudinal) → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=21179s)
+- **RD 514 (2021-12-10)**, 38 · relator **Flávia Takafashi** · Justa causa de reajuste na travessia Itapiranga/SC – Barra do Guarita/RS → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=21459s)
+- **RD 516 (2022-02-04)**, 19 · relator **Adalberto Tokarski** · Consulta da CDP sobre antecipação de receitas tarifárias para investimentos imediatos em Itaituba/Miritituba a serem feitos pela Transportes Bertolini → votação suspensa: Eduardo Nery renovou o pedido de vista após o voto do relator
+  - votos: Adalberto: relator; Eduardo: vista; Flávia: outro · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=11252s)
+- **RD 516 (2022-02-04)**, 23 · relator **Eduardo Nery** · Agenda regulatória do triênio 2022–2024 → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=13050s)
+- **RD 516 (2022-02-04)**, 41 · relator **Flávia Takafashi** · Recurso em 2ª instância contra indeferimento de acesso (LAI) ao processo de revisão tarifária do Porto de Vitória (Codesa) → aprovado por unanimidade nos termos do voto da relatora
+  - votos: Flávia: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=15690s)
+- **RD 516 (2022-02-04)**, 36 · relator **Adalberto Tokarski** · Ajuste da revisão tarifária do Porto de Paranaguá homologada pela Deliberação DG 203/2021 (Acórdão 360/2021) → aprovado por unanimidade nos termos do voto do relator (com redação sugerida pelo Diretor-
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=17551s)
+- **RD 516 (2022-02-04)**, 44 · relator **Flávia Takafashi** · Item 3.1 da agenda regulatória: mecanismo de análise da abusividade da cobrança de THC pelos armadores (Acórdão TCU 923/2019) → aprovado por unanimidade nos termos do voto da relatora
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=19321s)
+- **RD 518 (2022-03-23)**, 1 · relator **Adalberto Tokarski** · Denúncia de preços abusivos e condutas anticoncorrenciais na cobrança de serviços de segregação e entrega (SSE) no Porto de Itajaí; pedido de sustenta → pedido de vista de Eduardo Nery renovado (art. 36 da Res. 66); volta na próxima reunião te
+  - votos: Eduardo: vista; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=570s)
+- **RD 518 (2022-03-23)**, 14 · relator **Flávia Takafashi** · Diferimento da modalidade tarifária 13.1, item 5 da Tabela 9 do Porto de Vitória — referendo da Deliberação DG 46/2022 → aprovado por unanimidade (referendo)
+  - votos: Flávia: relator; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=6764s)
+- **RD 518 (2022-03-23)**, 15 · relator **Flávia Takafashi** · Suspensão temporária da Tabela 1 (acesso aquaviário) da nova estrutura tarifária do Porto de Santos após decisão judicial obtida pela Centronave — ref → aprovado por unanimidade (referendo)
+  - votos: Flávia: relator; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=7000s)
+- **RD 518 (2022-03-23)**, 21 · relator **Adalberto Tokarski** · Cumprimento do Acórdão 56/2021: legitimidade da cobrança antecipada do SSE e serviços associados à carga em trânsito aduaneiro sob pena de retenção da → aprovado nos termos do voto revisor de Flávia Takafashi (relator Tokarski, que já não inte
+  - votos: Adalberto: relator; Flávia: revisor_diverge; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=7745s)
+- **RD 518 (2022-03-23)**, 30 · relator **Adalberto Tokarski** · Consulta sobre antecipação de receitas tarifárias para investimentos imediatos no Porto de Itaituba (PA) → aprovado nos termos do voto revisor de Eduardo Nery (relator Tokarski vencido)
+  - votos: Adalberto: relator; Eduardo: revisor_diverge; Flávia: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=10024s)
+- **RD 520 (2022-05-13)**, 29 · relator **Flávia Takafashi** · Pedido da ABTP de alteração da Res. ANTAQ 61/2021 (estrutura tarifária padronizada das administrações portuárias): dedução tarifária por deficiência d → aprovado por unanimidade (mantida inalterada a Res. 61/2021)
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=349s)
+- **RD 520 (2022-05-13)**, 1 · relator **Adalberto Tokarski** · Denúncia de preços abusivos e condutas anticoncorrenciais na cobrança de SSE (segregação e entrega); retomada após pedido de vista do Diretor-Geral (R → aprovado: processo convertido em diligência à SRG (voto-vista do Diretor-Geral); sem exame
+  - votos: Eduardo: revisor_acompanha; Flávia: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=4820s)
+- **RD 520 (2022-05-13)**, 3 · relator **Flávia Takafashi** · Pedido de reconsideração contra o Acórdão 550/2021 (tabela de serviços e preços máximos): taxa administrativa DTA, seguro de carga LCL e levante de co → aprovado por unanimidade: provimento parcial
+  - votos: Flávia: relator; Eduardo: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=5226s)
+- **RD 520 (2022-05-13)**, 8 · relator **Flávia Takafashi** · Referendo da deliberação DG que prorrogou até 21/04 o prazo de contribuições da audiência pública 3/2022 (agenda regulatória, tema 3.1: abusividade na → aprovado por unanimidade
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=7638s)
+- **RD 522 (2022-05-26)**, 3 · relator **Flávia Takafashi** · Referendo da Deliberação DG 80/2022: diferimento por 60 dias da modalidade tarifária 131 (item 5, tabela 9, gerenciamento do VTMS) no Porto de Vitória → aprovado por unanimidade, com ajuste de redação proposto pela relatora
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=3487s)
+- **RD 522 (2022-05-26)**, 4 · relator **Flávia Takafashi** · Referendo da Deliberação DG 81/2022: contribuições da Audiência Pública 2/2021 sobre a desestatização (concessão) do Porto de São Sebastião → aprovado por unanimidade nos termos do voto do relator
+  - votos: Flávia: relator; Eduardo: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=3670s)
+- **RD 522 (2022-05-26)**, 9 · relator **Flávia Takafashi** · Consulta sobre isenção de tarifas portuárias para navios de guerra estrangeiros (reciprocidade), Res. ANTAQ 61/2021, Normam 31 e Decreto 56.515/1965 → aprovada proposta única: convalidada a diligência do revisor junto à PF-ANTAQ e retorno do
+  - votos: Flávia: revisor_acompanha; José: revisor_acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=7812s)
+- **RD 522 (2022-05-26)**, 11 · relator **Eduardo Nery** · Metodologia para identificar abusividade na cobrança do SSE (serviço de segregação e entrega de contêineres): AIR e minuta de instrução normativa para → aprovado por unanimidade: minuta submetida a consulta pública por 45 dias
+  - votos: Eduardo: relator; Flávia: revisor_acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=9092s)
+- **RD 522 (2022-05-26)**, 16 · relator **Eduardo Nery** · Providências contra autoridades portuárias que não cumpriram a migração e revisão tarifária da Resolução ANTAQ 61/2021 → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=10939s)
+- **RD 522 (2022-05-26)**, 20 · relator **Eduardo Nery** · Revisão tarifária extraordinária e padronização da estrutura tarifária do Porto de Cabedelo → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=11838s)
+- **RD 522 (2022-05-26)**, 25 · relator **Flávia Takafashi** · Consulta sobre o instrumento para remunerar termelétricas flutuantes e FSRU fundeadas no Porto de Itaguaí (Baía de Sepetiba) e linhas de transmissão → aprovado por unanimidade (relatora diverge em parte da área técnica)
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=13622s)
+- **RD 522 (2022-05-26)**, 28 · relator **Flávia Takafashi** · Pedido de reconsideração/cautelar para diferir parcialmente a revisão tarifária homologada pela Deliberação DG 55/2022 → aprovado por unanimidade (relatora diverge da área técnica)
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=14939s)
+- **RD 522 (2022-05-26)**, 36 · relator **José Renato Fialho** · Padronização da estrutura tarifária do Porto do Forno, sem revisão tarifária (Res. 61) → aprovado por unanimidade nos termos do voto do relator
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=19027s)
+- **RD 526 (2022-08-11)**, 1 · relator **José Renato Fialho** · Pleito da CDP de reposicionamento da manifestação da ANTAQ (amicus curiae) na ação judicial 1002807/2017 sobre cobrança da Tabela 1 (item 1 x item 4,  → vista renovada (Flávia Takafashi); volta na reunião 528; relator não proferiu voto
+  - votos: José: relator; Flávia: outro; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=2J5AWByVtpM&t=325s)
+- **RD 526 (2022-08-11)**, 13 · relator **Flávia Takafashi** · Revisão tarifária com padronização da estrutura tarifária do porto do Recife (Res. 61/2021): receita anual ~R$ 39,5 milhões, índice de reajuste médio  → aprovado por unanimidade
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=2J5AWByVtpM&t=5256s)
+- **RD 526 (2022-08-11)**, 17 · relator **José Renato Fialho** · Padronização da estrutura tarifária e revisão tarifária do porto de Vila do Conde (maio/2015 a maio/2021): receita anual ~R$ 70,8 milhões, efeito médi → aprovado por unanimidade
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=2J5AWByVtpM&t=6349s)
+- **RD 526 (2022-08-11)**, 21 · relator **José Renato Fialho** · Extrapauta: cumprimento de tutela antecipada antecedente (1ª Vara Federal de Paranaguá) que autorizou a TCP a restabelecer a cobrança do SSE; delimita → aprovado por unanimidade
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=2J5AWByVtpM&t=7017s)
+- **RD 528 (2022-09-01)**, 8 · relator **José Renato Fialho** · Pedido de reposicionamento da manifestação da ANTAQ como amicus curiae em ação sobre item tarifário da Tabela 1 (infraestrutura aquaviária) no Porto d → adiado (vista de Flávia Takafashi renovada); relator proferiu voto
+  - votos: Flávia: vista; José: relator · [vídeo](https://www.youtube.com/watch?v=yBRIlI6RQug&t=3098s)
+- **RD 528 (2022-09-01)**, 33 · relator **Eduardo Nery** · Denúncia de descumprimento do Acórdão 411/2022 (SSE suspenso) e pedido de nova cautelar (Manaus) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=yBRIlI6RQug&t=8951s)
+- **RD 530 (2022-09-29)**, 11 · relator **Alexandre Lopes** · Reajuste de preços de serviços de transporte aquaviário em linhas de travessia de passageiros e veículos (Pará, Macapá e Amazonas); três processos tra → vista renovada; volta na próxima reunião
+  - votos: Eduardo: outro; Alexandre: relator · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=5747s)
+- **RD 530 (2022-09-29)**, 16 · relator **Alexandre Lopes** · Reajuste de preços de serviços de transporte aquaviário em linhas de travessia de passageiros e veículos (Pará, Macapá e Amazonas); três processos tra → vista renovada; volta na próxima reunião
+  - votos: Eduardo: outro; Alexandre: relator · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=5747s)
+- **RD 530 (2022-09-29)**, 17 · relator **Alexandre Lopes** · Reajuste de preços de serviços de transporte aquaviário em linhas de travessia de passageiros e veículos (Pará, Macapá e Amazonas); três processos tra → vista renovada; volta na próxima reunião
+  - votos: Eduardo: outro; Alexandre: relator · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=5747s)
+- **RD 530 (2022-09-29)**, 13 · relator **José Renato Fialho** · Pedido da CDP para que a ANTAQ mude sua manifestação (amicus curiae) na ação judicial sobre a cobrança da Tabela 1 (infraestrutura de acesso aquaviári → aprovado nos termos do voto revisor (Flávia Takafashi), com acréscimo do Diretor-Geral
+  - votos: Flávia: revisor_acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=5859s)
+- **RD 530 (2022-09-29)**, 25 · relator **Flávia Takafashi** · Alteração da Tabela 7 do tarifário do Porto de Natal (cobrança de energia elétrica por contêiner), corrigindo erro de envio após reajuste homologado p → aprovado
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=7377s)
+- **RD 532 (2022-11-10)**, 3 · relator **Alexandre Lopes** · Referendo de deliberação DG 145/2022: denúncia de descumprimento do acórdão 409/2022 (rubricas de levante, pesagem e armazenagem como SSE disfarçado)  → aprovado nos termos do voto do relator
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=2327s)
+- **RD 532 (2022-11-10)**, 45 · relator **Alexandre Lopes** · Cumprimento do acórdão 409/2022 e da Res. 84/2022 (suspensão do SSE): análise da tabela de preços da Portonave (relatado junto do item 3) → aprovado nos termos do voto do relator, com ajuste proposto por Eduardo Nery
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=2610s)
+- **RD 532 (2022-11-10)**, 4 · relator **Alexandre Lopes** · Referendo da deliberação DG 135/2022: atualização dos estudos e documentos da concessão do Porto Organizado de Itajaí (PPI) → aprovado nos termos do voto do relator
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=3528s)
+- **RD 532 (2022-11-10)**, 19 · relator **Eduardo Nery** · Consulta sobre tarifa de armazenagem (tabela 5) para guindaste mantido sobre balsa na poligonal do Porto Organizado de Belém/Outeiro → aprovado nos termos do voto do relator
+  - votos: Eduardo: relator; Alexandre: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=7718s)
+- **RD 532 (2022-11-10)**, 23 · relator **Eduardo Nery** · Análise da tabela de preços e serviços do terminal Chibatão: seguro obrigatório, cobranças sobre carga em trânsito aduaneiro (SSE) e reagendamento → aprovado nos termos do voto do relator
+  - votos: Eduardo: relator; Alexandre: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=8351s)
+- **RD 532 (2022-11-10)**, 26 · relator **Flávia Takafashi** · Padronização e revisão da estrutura tarifária do Porto do Rio Grande (Res. 61/2021) → aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=10462s)
+- **RD 532 (2022-11-10)**, 27 · relator **Flávia Takafashi** · Medida cautelar e embargos de declaração: cobrança de juros e multa sobre valores retroativos da tabela 6 (acórdão 421/2021) – Vitória/Barra do Riacho → aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=10653s)
+- **RD 532 (2022-11-10)**, 31 · relator **Flávia Takafashi** · Denúncia anônima de cobrança em duplicidade de «conferência de acesso» já coberta pela taxa ISPS Code → aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=11526s)
+- **RD 532 (2022-11-10)**, 38 · relator **Flávia Takafashi** · Embargos de declaração contra o acórdão 533/2022 (desconto tarifário em favor da Hidrovias do Brasil) → aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=13763s)
+- **RD 534 (2022-12-07)**, 7 · relator **Alexandre Lopes** · Referendo da Deliberação DG 151/2022: atualização dos estudos técnicos e jurídicos da concessão do Porto de Itajaí (criação do índice de reajustamento → referendado por unanimidade
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=3840s)
+- **RD 534 (2022-12-07)**, 23 · relator **Flávia Takafashi** · Diferimento da entrada em vigor da nova estrutura tarifária do Porto de Aratu (Deliberação 142/2022) até 02/01/2023 — votado em bloco com os itens 29  → aprovado por unanimidade (bloco 23, 29 e 30)
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=11446s)
+- **RD 534 (2022-12-07)**, 29 · relator **Alexandre Lopes** · Diferimento da entrada em vigor da nova estrutura tarifária (Porto de Salvador) até 02/01/2023 — votado em bloco com o item 23 → aprovado por unanimidade (bloco 23, 29 e 30)
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=11591s)
+- **RD 534 (2022-12-07)**, 30 · relator **Alexandre Lopes** · Diferimento da entrada em vigor da nova estrutura tarifária (outro porto da CODEBA (legenda: «Deus», provavelmente Ilhéus)) até 02/01/2023 — votado em → aprovado por unanimidade (bloco 23, 29 e 30)
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=11591s)
+- **RD 537 (2023-02-09)**, 21 · relator **Lima Filho** · Pedido de reconsideração do Sinter contra a Resolução 7661 (indeferimento de cautelar e improcedência de denúncia sobre cobrança abusiva de SSE/THC2 e → aprovado por unanimidade nos termos do voto do relator
+  - votos: Lima: relator; Caio: acompanha; Alber: outro; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=1880s)
+- **RD 537 (2023-02-09)**, 4 · relator **Eduardo Nery** · Reajuste de 20% nos preços de transporte de passageiros e misto na navegação interior (bacia amazônica, Santarém-Manaus) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; Caio: acompanha; Alber: acompanha; Lima: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=7227s)
+- **RD 537 (2023-02-09)**, 16 · relator **Flávia Takafashi** · Revisão tarifária extraordinária do porto organizado de Paranaguá (novos investimentos e acordo judicial com o Sindop) → aprovado nos termos do voto da relatora (votos colhidos de Alber, Lima Filho e Eduardo Ner
+  - votos: Flávia: relator; Caio: outro; Alber: outro; Lima: outro; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=10215s)
+- **RD 537 (2023-02-09)**, 24 · relator **Lima Filho** · Cumprimento dos Acórdãos 409/2022 e 598/2022 (suspensão do SSE por força do Acórdão TCU 1448/2022): tabela de preços da Portonave e cautelar sobre rub → aprovado por unanimidade nos termos do voto do relator
+  - votos: Lima: relator; Caio: acompanha; Alber: acompanha; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=10840s)
+- **RD 537 (2023-02-09)**, 26 · relator **Lima Filho** · Revisão tarifária extraordinária do porto organizado de Antonina (PR) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Lima: relator; Caio: acompanha; Alber: acompanha; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=11983s)
+- **RD 537 (2023-02-09)**, 33 · relator **Alber Vasconcelos** · Reajuste da estrutura tarifária do porto organizado de São Francisco do Sul (SC) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Alber: relator; Caio: acompanha; Lima: acompanha; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=15371s)
+- **RD 537 (2023-02-09)**, 37 · relator **Lima Filho** · Efeito suspensivo a recurso de reconsideração contra o item 5.2.2 do Acórdão 587/2022 (cobrança pela Codesa da NFS 21663, cerca de R$ 1,44 milhão de t → efeito suspensivo negado por maioria (4 x 1), nos termos do voto divergente de Caio Farias
+  - votos: Lima: vencido; Caio: outro; Alber: acompanha; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=16734s)
+- **RD 539 (2023-04-04)**, 1 · relator **Flávia Takafashi** · Referendo da Deliberação DG 13/2023: indeferimento do pedido da autoridade portuária de diferir o início da vigência da tabela 1 da nova estrutura tar → referendado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=66s)
+- **RD 539 (2023-04-04)**, 1-bis · relator **Flávia Takafashi** · Referendo da Deliberação DG 17/2023: análise da nova tabela tarifária do contrato de concessão 1/2022 da CODESA; sobrestamento da nova tabela inteira  → referendado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=635s)
+- **RD 539 (2023-04-04)**, 26 · relator **Alber Vasconcelos** · Pedido da SPA de harmonizar a interpretação de que toda a Estrada Particular da Codesp está dentro da poligonal do Porto de Santos (cobrança tarifária → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=10646s)
+- **RD 539 (2023-04-04)**, 30 · relator **Caio Farias** · Revisão tarifária extraordinária com padronização da estrutura tarifária do porto organizado de Pelotas (RS) → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=12717s)
+- **RD 539 (2023-04-04)**, 31 · relator **Caio Farias** · Revisão tarifária extraordinária com padronização da estrutura tarifária do porto organizado de Santana (AP) → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=13468s)
+- **RD 541 (2023-04-20)**, 1 · relator **Eduardo Nery** · Recurso de reconsideração da CDRJ contra o Acórdão 26/2020, que vedou a cobrança cumulativa de tarifa portuária (Tabela 3, item 2.9) e do adicional de → aprovado (provimento parcial ao recurso da CDRJ; revogado o item 2 do Acórdão 26/2020 – en
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=69s)
+- **RD 541 (2023-04-20)**, 5 · relator **Flávia Takafashi** · Pedido de abertura de Avaliação de Resultado Regulatório (ARR) sobre itens da Resolução ANTAQ 61/2021 (estrutura tarifária padronizada das administraç → aprovado por consenso: indeferidos os pedidos da ABTP; SRG deve, em processo apartado, est
+  - votos: Eduardo: revisor_acompanha; Flávia: revisor_acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=2463s)
+- **RD 541 (2023-04-20)**, 2 · relator **Lima Filho** · Recurso de reconsideração da Marimex contra o item 1 do Acórdão 472/2021 (indeferiu cautelar contra cobrança antecipada/à vista do SSE com identificaç → aprovado: recurso inadmitido por intempestividade; declarado que operadores e instalações 
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=4234s)
+- **RD 541 (2023-04-20)**, 27 · relator **Alber Vasconcelos** · Referendo da Deliberação DG 28/2023: petição contra a aplicação da Res. ANTAQ 61 (Tabela 1, acesso aquaviário) às embarcações da navegação interior (p → aprovado: referendada a Deliberação DG 28/2023 com alteração do art. 3º (descontos tarifár
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=4597s)
+- **RD 541 (2023-04-20)**, 23 · relator **Alber Vasconcelos** · Consulta sobre isenção excepcional de tarifas (Tabelas 1 e 2, cerca de 10,8 mil) para atracação de navio de pesquisa francês de reciclagem de plástico → aprovado: isenção temporária de acostagem deferida com condicionantes (sem prejuízo às ope
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=13045s)
+- **RD 543 (2023-05-24)**, 11 · relator **Eduardo Nery** · Acompanhamento do cumprimento da revisão tarifária das autoridades portuárias (Acórdão 314/2022); todas aprovadas exceto Manaus (revisão de ofício em  → aprovado (diligências declaradas cumpridas; arquivamento)
+  - votos: Eduardo: relator; Flávia: outro; Lima: outro; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=8250s)
+- **RD 545 (2023-06-23)**, 1 · relator **Lima Filho** · Denúncia de aumento não justificado de tarifa (cobrança de SSE - serviço de segregação e entrega) pela arrendatária APM Terminals em Itajaí; possível  → aprovado (arquivamento por perda de objeto)
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=1119s)
+- **RD 545 (2023-06-23)**, 35 · relator **Caio Farias** · Relatório final do estudo sobre serviços prestados às cargas desembaraçadas sobre águas (DSA/OEA): características operacionais e preços praticados (p → aprovado por unanimidade, com acréscimo de relatórios trimestrais
+  - votos: Caio: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=7029s)
+- **RD 545 (2023-06-23)**, 17 · relator **Flávia Takafashi** · Resoluções sobre apuração de abusividade na cobrança de THC por armadores (tema 3.4 da agenda regulatória; Acórdão TCU 1439/2016): THC como restituiçã → aprovado por unanimidade; ajuste redacional no art. 27 aprovado depois
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=13798s)
+- **RD 545 (2023-06-23)**, 29 · relator **Alber Vasconcelos** · Cumprimento do item 3 do Acórdão 355/2021: estudo sobre a cobrança do ISPS Code (segurança) separadamente ou via box rate/armazenagem → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=17023s)
+- **RD 547 (2023-08-07)**, 4 · relator **Caio Farias** · Referendo da Deliberação DG 46/2023: alteração das normas de aplicação tarifárias (isenção a embarcações da navegação interior; cabotagem equiparada a → referendado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=1896s)
+- **RD 547 (2023-08-07)**, 39 · relator **Eduardo Nery** · Embargos de declaração contra o Acórdão 183/2023 (cobranças da tabela 3 sobre passageiros de cruzeiro atracados em cais público do porto do Rio de Jan → embargos conhecidos e rejeitados por unanimidade, com esclarecimentos
+  - votos: Eduardo: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=5654s)
+- **RD 547 (2023-08-07)**, 16 · relator **Lima Filho** · Audiência/consulta pública da revisão da RN 31/2019 (obrigatoriedade de informações ao sistema de acompanhamento de preços), com AIR → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=6001s)
+- **RD 547 (2023-08-07)**, 23 · relator **Lima Filho** · Recurso contra indeferimento de acesso aos autos do processo de aumento tarifário do porto de Itaguaí → recurso não conhecido, por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=6461s)
+- **RD 547 (2023-08-07)**, 29 · relator **Lima Filho** · Pedido de orientação da SFC sobre prescrição intercorrente em processo sancionador sobrestado (cobrança ligada a DTC/DTA pela Portonave) → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=7493s)
+- **RD 547 (2023-08-07)**, 37 · relator **Caio Farias** · Auto de infração por apresentar fora do prazo o projeto de padronização da estrutura tarifária (RN 32/2019, art. 33) → auto declarado insubsistente, por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=10489s)
+- **RD 549 (2023-08-31)**, 3 · relator **Flávia Takafashi** · Referendo da Deliberação DG 64/2023: suspensão por 60 dias, a contar de 1º/08/2023, da vigência das Resoluções ANTAQ 100 e 101/2023 (metodologia de ab → aprovado por unanimidade (referendado)
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=5758s)
+- **RD 549 (2023-08-31)**, 10 · relator **Lima Filho** · Retomada após vista de Caio Farias: arbitragem regulatória sobre cobrança retroativa de tarifa de atracação dos navios de pesquisa Alpha Crucis e Alph → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=7679s)
+- **RD 549 (2023-08-31)**, 17 · relator **Flávia Takafashi** · Inclusão de novas rubricas na Tabela 7 do Porto Organizado de Porto Alegre: fornecimento de energia elétrica a embarcações e consumidores e emissão de → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=9343s)
+- **RD 549 (2023-08-31)**, 21 · relator **Flávia Takafashi** · Pedido de revisão da padronização tarifária do Porto Organizado de Porto Velho (alta média de 40%) → aprovado por unanimidade (petição não admitida; decisão mantida de ofício)
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=11550s)
+- **RD 551 (2023-10-04)**, 1 · relator **Alber Vasconcelos** · Recurso hierárquico contra a Deliberação SFC 67/2023 que manteve auto de infração (multa de R$ 49.500) por cobrança irregular de «gerenciamento de ris → aprovado por unanimidade (recurso conhecido e não provido)
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=1387s)
+- **RD 551 (2023-10-04)**, 6 · relator **Flávia Takafashi** · Pedido de reconsideração do Acórdão 98/2023 (reajuste de preços de travessia limitado ao IGP-M acumulado de 67,78%): correção de erro material no preç → aprovado por unanimidade (recurso provido para corrigir a tabela)
+  - votos: Flávia: relator; Alber: acompanha; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=7903s)
+- **RD 551 (2023-10-04)**, 14 · relator **Lima Filho** · Pedido de reconsideração contra a Deliberação DG 107/2022 (referendada pelo Acórdão 438) sobre tarifa de uso da infraestrutura terrestre (estrada part → aprovado por unanimidade (reconsideração negada)
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=11216s)
+- **RD 554 (2023-10-26)**, 7 · relator **Eduardo Nery** · Arbitragem regulatória: responsabilidade pelo reparo do molhe de abrigo de Praia Mole (ES), avariado por ciclone extratropical em 2006, e dever de a C → aprovado (votação simbólica, sem divergência registrada) — Codesa responsável pela indeniz
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=63s)
+- **RD 554 (2023-10-26)**, 4 · relator **Lima Filho** · Consulta sobre cobrança de armazenagem pelos terminais molhados nas transferências em regime de DTC (declaração de trânsito de contêiner) para termina → aprovado — é lícita a cobrança de armazenagem em cargas em regime DTC
+  - votos: Lima: relator; Eduardo: revisor_acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=9486s)
+- **RD 554 (2023-10-26)**, 18 · relator **Flávia Takafashi** · Ajustes formais nas resoluções ANTAQ 100 e 101 (abusividade na cobrança de THC por armadores, determinação do TCU) e pedido de suspensão da norma pelo → aprovado
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=11325s)
+- **RD 554 (2023-10-26)**, 22 · relator **Flávia Takafashi** · Orientação à SFC sobre prescrição intercorrente em processo sancionador (cobranças ligadas a DTC/DTA e SSE) sobrestado pela anulação de dispositivos d → aprovado
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=11919s)
+- **RD 555 (2023-11-16)**, 7 · relator **Lima Filho** · Retorno de vista (Alber Vasconcelos): resolução sobre padronização da estrutura de serviços dos terminais de contêineres e serviços inerentes, acessór → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: revisor_acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=3311s)
+- **RD 555 (2023-11-16)**, 31 · relator **Lima Filho** · Necessidade de metodologia predefinida para apurar abusividade de preços na inspeção não invasiva (escaneamento) de contêineres → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=7431s)
+- **RD 555 (2023-11-16)**, 39 · relator **Alber Vasconcelos** · Reajuste tarifário do Porto Organizado de Fortaleza (reposição do IPCA de abr/2021 a abr/2023) → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=10052s)
+- **RD 557 (2023-12-14)**, 22 · relator **Lima Filho** · Recursos de reconsideração (julgados em bloco, com sustentações orais) contra os acórdãos 774, 775, 776 e 777/2021, que revogaram a cautelar e reconhe → aprovado (voto em bloco do relator; proposta ajustada para incluir o tema dos pátios de tr
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=2154s)
+- **RD 557 (2023-12-14)**, 23 · relator **Lima Filho** · Recursos de reconsideração (julgados em bloco, com sustentações orais) contra os acórdãos 774, 775, 776 e 777/2021, que revogaram a cautelar e reconhe → aprovado (voto em bloco do relator; proposta ajustada para incluir o tema dos pátios de tr
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=2154s)
+- **RD 557 (2023-12-14)**, 24 · relator **Lima Filho** · Recursos de reconsideração (julgados em bloco, com sustentações orais) contra os acórdãos 774, 775, 776 e 777/2021, que revogaram a cautelar e reconhe → aprovado (voto em bloco do relator; proposta ajustada para incluir o tema dos pátios de tr
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=2154s)
+- **RD 557 (2023-12-14)**, 25 · relator **Lima Filho** · Recursos de reconsideração (julgados em bloco, com sustentações orais) contra os acórdãos 774, 775, 776 e 777/2021, que revogaram a cautelar e reconhe → aprovado (voto em bloco do relator; proposta ajustada para incluir o tema dos pátios de tr
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=2154s)
+- **RD 557 (2023-12-14)**, 6 · relator **Lima Filho** · Análise regulatória sobre abatimento tarifário quando a infraestrutura aquaviária não comporta navios de maior porte completamente carregados, prazos  → aprovado por unanimidade (Flávia desistiu de voto-vista e acompanhou)
+  - votos: Lima: relator; Flávia: revisor_acompanha; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=8061s)
+- **RD 557 (2023-12-14)**, 29 · relator **Lima Filho** · Recurso de revisão contra os acórdãos 421/2022 e 196/2022 (revisão tarifária com efeitos retroativos) → aprovado por unanimidade - recurso não conhecido
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=14293s)
+- **RD 557 (2023-12-14)**, 35 · relator **Alber Vasconcelos** · Pedido de revisão da tabela tarifária dos portos da CDRJ após a padronização da RN 61 (Tabela 1 por TPB e Tabela 2 por comprimento) → aprovado por unanimidade - pedidos indeferidos
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=16513s)
+- **RD 557 (2023-12-14)**, 40 · relator **Caio Farias** · Consulta sobre isenção de armazenagem para 'mercadorias involuntariamente armazenadas' (Tabela 5, subitem 7) no caso de carga retida pela Receita Fede → aprovado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=19367s)
+- **RD 558 (2024-02-26)**, 42 · relator **Lima Filho** · Recurso de reconsideração contra o item 5.2.2 do Acórdão 406/2023 (consulta): possibilidade de antecipação de receitas de quaisquer tabelas tarifárias → não concluído: pedido de vista do Diretor-Geral Eduardo Nery na fase de votação
+  - votos: Lima: relator; Caio: outro; Alber: outro; Flávia: acompanha; Eduardo: vista · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=17370s)
+- **RD 558 (2024-02-26)**, 50 · relator **Alber Vasconcelos** · Reajuste tarifário do Porto Organizado de Suape (IPCA ago/2020-jul/2023 de 24,76%, produtividade 1,23%, reajuste médio 23,53%) e correções textuais → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=20574s)
+- **RD 558 (2024-02-26)**, 53 · relator **Caio Farias** · Denúncia com pedido de medida cautelar (julgamento conjunto 53/54) contra cobrança do serviço de guarda provisória/transitória (Res. ANTAQ 109/2023) p → aprovado por unanimidade (cautelar concedida)
+  - votos: Caio: relator; Alber: acompanha; Flávia: acompanha; Lima: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=20922s)
+- **RD 558 (2024-02-26)**, 54 · relator **Caio Farias** · Denúncia com pedido de medida cautelar (julgamento conjunto 53/54) contra cobrança do serviço de guarda provisória/transitória (Res. ANTAQ 109/2023) p → aprovado por unanimidade (cautelar concedida)
+  - votos: Caio: relator; Alber: acompanha; Flávia: acompanha; Lima: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=20922s)
+- **RD 560 (2024-03-25)**, 2 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 479/2023 (multa e cautelar por cobrança de taxa de gerenciamento de riscos/ISPS Code nas cargas de longo cu → não conhecido, por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=3656s)
+- **RD 560 (2024-03-25)**, 6 · relator **Caio Farias** · Referendo da Deliberação DG 14/2024: alteração da descrição e regra de aplicação do item 1.09 da tabela de preços (escaneamento de contêineres para de → referendado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=5062s)
+- **RD 560 (2024-03-25)**, 13 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 406/2023: antecipação de receitas tarifárias para reforço do berço 101 (cais público, ~R$ 32 milhões) e imp → provido por maioria (4x1), nos termos do voto do relator; Caio Farias vencido
+  - votos: Lima: relator; Caio: vencido; Eduardo: revisor_acompanha; Alber: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=8361s)
+- **RD 560 (2024-03-25)**, 14 · relator **Lima Filho** · Embargos de declaração do Cecafé contra o Acórdão 450/2023 (cobrança de Inconsistency/Incorrect Surcharge - ISC limitada ao valor da carga); retorno d → embargos conhecidos e rejeitados por maioria (4x1), nos termos do voto da revisora com acr
+  - votos: Lima: vencido; Flávia: revisor_acompanha; Alber: outro; Caio: outro; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=9755s)
+- **RD 560 (2024-03-25)**, 26 · relator **Flávia Takafashi** · Revisão do Guia de Regulação de Preços da Navegação Interior (travessias), em cumprimento aos Acórdãos 475/2021 e 649/2022 → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=14263s)
+- **RD 560 (2024-03-25)**, 35 · relator **Flávia Takafashi** · Consulta sobre transporte interno de trabalhadores na área alfandegada (Portaria RFB) e seu custeio por tarifa → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=16235s)
+- **RD 560 (2024-03-25)**, 68 · relator **Alber Vasconcelos** · Inclusão de tarifas de fornecimento de energia elétrica a embarcações/consumidores e de crachá de acesso na tabela 7 (diversos) do Porto de Pelotas → aprovado (Lima Filho já ausente)
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=26200s)
+- **RD 562 (2024-04-24)**, 2 · relator **Lima Filho** · Recursos de reconsideração (deliberação em bloco com o item 24) contra o Acórdão 533/2022: cobrança da Tabela I (infraestrutura de acesso aquaviário)  → aprovado (negado provimento aos dois recursos); sem divergência registrada
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=3405s)
+- **RD 562 (2024-04-24)**, 24 · relator **Lima Filho** · Recurso relacionado à cobrança da Tabela I no porto de Vila do Conde, julgado em bloco com o item 2 → aprovado em bloco com o item 2
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=3405s)
+- **RD 562 (2024-04-24)**, 15 · relator **Flávia Takafashi** · Reajuste tarifário do porto organizado de Imbituba (IPCA mai/2022–ago/2023) e inclusão do item 11 da Tabela 3 (carga viva, por cabeça) → aprovado (com ajuste para especificar carga bovina, sugestão de Alber Vasconcelos)
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=14251s)
+- **RD 562 (2024-04-24)**, 16 · relator **Flávia Takafashi** · Inclusão de modalidade tarifária (item 11 da Tabela 3: carga viva por cabeça) no porto de Natal → aprovado
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=14479s)
+- **RD 562 (2024-04-24)**, 23 · relator **Lima Filho** · Consulta sobre marcos temporais para receita-teto e teto tarifário do contrato de concessão 01/2022: fim da fase de transição → aprovado
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=18689s)
+- **RD 562 (2024-04-24)**, 34 · relator **Alber Vasconcelos** · Obrigação de fazer após a Deliberação SFC 12/2023: cobrança individualizada de passageiros em veículos coletivos nas travessias → aprovado
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=21187s)
+- **RD 564 (2024-05-29)**, 3 · relator **Eduardo Nery** · Referendo da Resolução ANTAQ 114/2024 (calamidade no RS): prioridade de atracação a embarcações com donativos e autorização de descontos tarifários, i → aprovado por unanimidade (referendado)
+  - votos: Eduardo: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=4596s)
+- **RD 566 (2024-07-17)**, 5 · relator **Lima Filho** · Recurso hierárquico contra Deliberação que manteve auto de infração por reajuste de preços de movimentação acima do IGP-DI contratual (contrato de arr → aprovado (provimento ao recurso)
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=8949s)
+- **RD 568 (2024-08-05)**, 5 · relator **Flávia Takafashi** · Referendo da Deliberação DG 58/2024 com retificação: isenção, por 180 dias, da Tabela 1 para embarcações da navegação interior no porto de Rio Grande, → aprovado (referendado com retificação)
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=5763s)
+- **RD 568 (2024-08-05)**, 6 · relator **Alber Vasconcelos** · Referendo das Deliberações DG 55/2024 e 56/2024: inclusão da modalidade tarifária de arrendamento simplificado na estrutura tarifária do porto do Rio  → aprovado (referendado)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=6353s)
+- **RD 568 (2024-08-05)**, 23 · relator **Lima Filho** · Consulta sobre aplicação da tabela tarifária de Cabedelo (instalação de acostagem) a rebocadores e embarcações de apoio que ficam acostados no cais se → aprovado após ajuste de texto (retomado ao fim da sessão)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=12736s)
+- **RD 568 (2024-08-05)**, 31 · relator **Caio Farias** · Revisão extraordinária da estrutura tarifária do porto de Itajaí (dragagem do canal de acesso): reajuste médio de cerca de 38,8% e efeito tarifário mé → aprovado
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=16863s)
+- **RD 570 (2024-08-30)**, 27 · relator **Lima Filho** · Denúncia com pedido de medida cautelar contra a cobrança da rubrica «entrega postergada» pela BTP em contêineres em regime DTA retirados após 48 h da  → aprovado por unanimidade — denúncia conhecida; cautelar indeferida; pedidos de mérito e su
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=322s)
+- **RD 570 (2024-08-30)**, 21 · relator **Flávia Takafashi** · Aperfeiçoamento da Tabela III da tarifa do porto de Santos: desconto de 50% no uso adicional da infraestrutura pelos terminais retroportuários dentro  → aprovado
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=13589s)
+- **RD 570 (2024-08-30)**, 38 · relator **Caio Farias** · Julgamento de auto de infração por não encaminhamento do projeto de padronização tarifária (Res. 61); SFC sugeria multa de cerca de R$ 518 mil → aprovado — auto de infração declarado insubsistente; autos à SRG
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=17969s)
+- **RD 572 (2024-10-04)**, 1 · relator **Flávia Takafashi** · Conflito CDP x Hidrovias do Brasil: cumprimento do item 5.5 do Acórdão 533/2022 — desconto na Tabela 1 (item 2.1.3, infraestrutura aquaviária) para em → aprovado por unanimidade, com ajuste proposto por Alber Vasconcelos (criação de rubrica 2.
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=435s)
+- **RD 572 (2024-10-04)**, 26-28 · relator **Caio Farias** · Denúncias contra a cobrança de 'guarda provisória/transitória' de contêineres (item 1.2.13 do anexo 2 da Res. ANTAQ 109/2023) exigida pela BTP dos rec → aprovado por maioria (3 x 2) nos termos do relator; vencidos Eduardo Nery e Lima Filho; pe
+  - votos: Caio: relator; Alber: acompanha; Flávia: acompanha; Eduardo: vencido; Lima: vencido · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=4304s)
+- **RD 572 (2024-10-04)**, 29 · relator **Caio Farias** · Homologação de acordo em mediação sobre cobrança de tarifas de infraestrutura terrestre para passageiros (cruzeiros) no Porto de Salvador → aprovado (homologado)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=11442s)
+- **RD 572 (2024-10-04)**, 20 · relator **Lima Filho** · Revisão da RN 31/2019 — prestação de informações ao Sistema de Acompanhamento de Preços Portuários (tema 3.8 da agenda regulatória 2022–2024), com cap → aprovado
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=20439s)
+- **RD 572 (2024-10-04)**, 35 · relator **Alber Vasconcelos** · Reajuste tarifário do porto organizado do Rio Grande (percentual de 5,22%; IPCA 5,635%; índice de produtividade 0,585%) → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=23356s)
+- **RD 574 (2024-10-25)**, 1 · relator **Flávia Takafashi** · Recurso de reconsideração da VPorts contra o item 5.2.2 do Acórdão 214/2024-ANTAQ (marco inicial de apuração das obrigações do Anexo 3 do contrato de  → recurso conhecido e não provido, por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=110s)
+- **RD 574 (2024-10-25)**, 6 · relator **Alber Vasconcelos** · Referendo da Deliberação DG 87/2024: antecipação de tarifas portuárias (Tabela I) pela Portonave à SPI para manter a dragagem de manutenção do Porto d → referendado, por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Caio: acompanha; Flávia: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=4752s)
+- **RD 574 (2024-10-25)**, 22 · relator **Lima Filho** · Reajuste tarifário do Porto de Paranaguá (reposição inflacionária de 01/08/2022 a 31/05/2024; percentual grafado «88%», provavelmente 8,8%) e inclusão → aprovado por unanimidade; homologação após 15 dias úteis sem objeção do poder concedente
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=18143s)
+- **RD 574 (2024-10-25)**, 23 · relator **Lima Filho** · Perenização do desconto por frequência de embarcação e sentido de navegação na Tabela I do Porto de Santos, decorrente de acordo judicial homologado n → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=18444s)
+- **RD 574 (2024-10-25)**, 35 · relator **Caio Farias** · Reajuste (36,16%, sendo 29,32% de inflação de 48 meses) e inclusão de modalidades e regras tarifárias no Porto de São Sebastião, inclusive valores par → aprovado por unanimidade; homologação após 15 dias úteis sem objeção do poder concedente
+  - votos: Caio: relator; Lima: acompanha; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=21561s)
+- **RD 576 (2024-11-22)**, 24 · relator **Alber Vasconcelos** · Recurso contra despacho da diretoria D1 (Flávia Takafashi) que negou acesso integral a processo de estrutura tarifária da Autoridade Portuária de Sant → aprovado por unanimidade, com acréscimos (orientação geral à SRG e extrato público; redaçã
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=7099s)
+- **RD 576 (2024-11-22)**, 25 · relator **Alber Vasconcelos** · Pedido de isenção de tarifa para veículos oficiais do DNIT em serviço na travessia Manaus–Careiro → aprovado por unanimidade — isenção determinada (contra o parecer da área técnica)
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=8033s)
+- **RD 576 (2024-11-22)**, 26 · relator **Alber Vasconcelos** · Embargos de declaração contra a Deliberação DG 87/2024 (item 3.3.4: proibição de outros descontos tarifários na operação acordada em mediação SPI–Port → aprovado por unanimidade — embargos conhecidos (embora intempestivos) para esclarecer
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=8421s)
+- **RD 578 (2024-12-19)**, 4 · relator **Alber Vasconcelos** · Referendo da Deliberação DG 113/2024: embargos de declaração contra o Acórdão 679/2024 (cobrança ad valorem de armazenagem na tabela C do Porto de Vit → aprovado (referendado) por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=7478s)
+- **RD 578 (2024-12-19)**, 22 · relator **Flávia Takafashi** · Reajuste tarifário do Porto de Santana (IPCA de 8,97% entre 1/10/2022 e 30/06/2024; IRT de 8,58%; efeito médio tarifário de 12,47%) → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=12625s)
+- **RD 578 (2024-12-19)**, 35 · relator **Lima Filho** · Recurso de reconsideração contra o acórdão sobre a tarifa (Tabela 3, item 9): a APS queria fixar desconto de 50% para instalações retroportuárias dent → aprovado por unanimidade (recurso negado)
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=17411s)
+- **RD 579 (2025-02-13)**, 13 · relator **Eduardo Nery** · Apuração dos indicadores de qualidade (IQ1, IQ3, IQ5) e do fator Q do Contrato de Concessão 1/2022 (período set/2022–set/2023) para a receita-teto de  → aprovado por unanimidade com ajustes (decisão de mérito sobre o fator Q adiada)
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=140s)
+- **RD 579 (2025-02-13)**, 32 · relator **Lima Filho** · Consulta sobre a aplicação dos itens 5 e 6 da Tabela 1 (infraestrutura de acesso aquaviário) em operações sucessivas nos portos organizados de Paranag → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=3611s)
+- **RD 579 (2025-02-13)**, 34 · relator **Lima Filho** · Reajuste tarifário de 11,49% no transporte de passageiros na navegação interior, rota Macapá–Santarém (de R$ 470 para R$ 524 no trecho mais longo) → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=9074s)
+- **RD 579 (2025-02-13)**, 39-46 · relator **Alber Vasconcelos** · Fiscalizações temáticas do PAF 2024: diagnóstico e acompanhamento dos contratos de dragagem nos portos organizados → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=15853s)
+- **RD 579 (2025-02-13)**, 47 · relator **Alber Vasconcelos** · Reajuste tarifário do porto organizado de Antonina (8%, ligeiramente abaixo do IPCA de 8,03%) → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=17538s)
+- **RD 582 (2025-03-17)**, 4 (referendo) · relator **Caio Farias** · Referendo da Deliberação DG 16/2025: medida cautelar incidental suspendendo a cobrança de faturas da Codeba com base no item 4 da tabela 3 do tarifári → referendado (aprovado sem divergência)
+  - votos: Caio: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=4415s)
+- **RD 582 (2025-03-17)**, 13 · relator **Caio Farias** · Consulta sobre cláusulas da minuta do novo convênio de delegação dos portos de Imbituba e Laguna (SC): uso de recursos do porto para pagar multas e de → aprovado nos termos do voto do relator
+  - votos: Caio: relator; Alber: acompanha; Flávia: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=7192s)
+- **RD 582 (2025-03-17)**, 14 · relator **Flávia Takafashi** · Denúncia com pedido cautelar de suspensão da tabela 3 (acesso terrestre) do porto de Santos por atraso nos investimentos vinculados à revisão tarifári → aprovado nos termos do voto da relatora (cautelar indeferida)
+  - votos: Flávia: relator; Caio: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=7833s)
+- **RD 582 (2025-03-17)**, 17 · relator **Flávia Takafashi** · Revisão das tarifas da tabela 1 do porto de Areia Branca (RN) → retirado de pauta pela relatora
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=9742s)
+- **RD 584 (2025-04-10)**, 22 · relator **Alber Vasconcelos** · Agenda regulatória 2022-2024, tema 3.10: revisão extraordinária e proposta apoiada nos contratos de concessão de portos organizados (determinação do T → aprovado nos termos do voto do relator
+  - votos: Alber: relator; Caio: acompanha; Flávia: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=8677s)
+- **RD 586 (2025-05-19)**, 6 · relator **Lima Filho** · Recomposição do equilíbrio econômico-financeiro do contrato de arrendamento 155/96 no contexto da prorrogação ordinária com novos investimentos (retor → aprovado por unanimidade (revisor acompanha o relator)
+  - votos: Caio: acompanha; Flávia: acompanha; Lima: relator; Alber: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=1263s)
+- **RD 586 (2025-05-19)**, 14 · relator **Flávia Takafashi** · Pedido de dilação por 15 dias do prazo do Acórdão 178/2025 para a APS apresentar novo cronograma físico-financeiro das obras da tabela 3 (Deliberação  → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=5356s)
+- **RD 586 (2025-05-19)**, 18 · relator **Flávia Takafashi** · Arbitragem regulatória: cobrança de tarifa de energia elétrica (cerca de R$ 198,5 mil) para o scanner de contêineres locado pela operadora → aprovado (procedência parcial)
+  - votos: Caio: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=6634s)
+- **RD 586 (2025-05-19)**, 32 · relator **Lima Filho** · Embargos de declaração contra o Acórdão 216/2024 (legenda: '2624'): abrangência temporal do desconto tarifário (rubrica 2.1.3.1 da tabela 1, criada pe → julgamento interrompido por pedido de vista de Flávia Takafashi (após o voto do relator)
+  - votos: Lima: relator; Flávia: vista; Caio: outro; Alber: outro · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=10479s)
+- **RD 586 (2025-05-19)**, 33 · relator **Lima Filho** · Embargos de declaração da CDP contra o Acórdão 215/2024 sobre o desconto tarifário ao TUP da Hidrovias do Brasil → aprovado nos termos do voto do relator (Flávia confirma que a vista no item 32 não afeta e
+  - votos: Caio: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=11224s)
+- **RD 588 (2025-06-05)**, 10 · relator **Lima Filho** · Embargos de declaração contra o Acórdão 216/2024 (modulação dos efeitos da criação da rubrica tarifária 2.1.3.1 da Tabela 1 do porto de Vila do Conde) → aprovado o voto divergente da revisora Flávia Takafashi (efeito ex nunc); vencido o relato
+  - votos: Lima: vencido; Flávia: revisor_diverge; Alber: revisor_acompanha; Caio: vencido · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=12114s)
+- **RD 588 (2025-06-05)**, 19 · relator **Lima Filho** · Mérito da medida cautelar da Res. 6767 (vedação de cobrar Tabela 1 de navios que demandam TUPs) e consulta sobre aplicar o item 2.1.9 da Tabela 1 às o → aprovado por unanimidade, com acréscimo de Flávia Takafashi
+  - votos: Lima: relator; Flávia: acompanha; Caio: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=13984s)
+- **RD 592 (2025-08-25)**, 2 · relator **Caio Farias** · Receita-teto das tabelas 1 e 3 dos portos organizados de Vitória e Barra do Riacho no exercício 2024 (fator Q; item 5.3 do Acórdão 53/2025); sustentaç → aprovado por unanimidade
+  - votos: Caio: relator; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=vDo8pMKcp_Q&t=949s)
+- **RD 592 (2025-08-25)**, 29 · relator **Alber Vasconcelos** · Pedido de suspensão do resultado da revisão tarifária extraordinária do porto de Itajaí (dragagem; tabela 1) → aprovado por unanimidade — pedido indeferido
+  - votos: Alber: relator; Caio: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=vDo8pMKcp_Q&t=10312s)
+- **RD 594 (2025-09-11)**, 17 · relator **Alber Vasconcelos** · Reajuste de preços de 15,38% na linha longitudinal interestadual de transporte misto Santarém-Santana → aprovado (votação simbólica)
+  - votos: Alber: relator; Frederico: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=moqX_srlNM0&t=4456s)
+- **RD 594 (2025-09-11)**, 18 · relator **Alber Vasconcelos** · Reajuste de preços (R$ 13 para R$ 15, 15,38%) na travessia internacional Guajará-Mirim (BR) / Guayaramerín (BO) no rio Mamoré; itens 18 a 21 em bloco → aprovado (votação simbólica)
+  - votos: Alber: relator; Frederico: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=moqX_srlNM0&t=4702s)
+- **RD 594 (2025-09-11)**, 19 · relator **Alber Vasconcelos** · Reajuste de preços (R$ 13 para R$ 15, 15,38%) na travessia internacional Guajará-Mirim (BR) / Guayaramerín (BO) no rio Mamoré; itens 18 a 21 em bloco → aprovado (votação simbólica)
+  - votos: Alber: relator; Frederico: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=moqX_srlNM0&t=4702s)
+- **RD 594 (2025-09-11)**, 20 · relator **Alber Vasconcelos** · Reajuste de preços (R$ 13 para R$ 15, 15,38%) na travessia internacional Guajará-Mirim (BR) / Guayaramerín (BO) no rio Mamoré; itens 18 a 21 em bloco → aprovado (votação simbólica)
+  - votos: Alber: relator; Frederico: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=moqX_srlNM0&t=4702s)
+- **RD 594 (2025-09-11)**, 21 · relator **Alber Vasconcelos** · Reajuste de preços (R$ 13 para R$ 15, 15,38%) na travessia internacional Guajará-Mirim (BR) / Guayaramerín (BO) no rio Mamoré; itens 18 a 21 em bloco → aprovado (votação simbólica)
+  - votos: Alber: relator; Frederico: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=moqX_srlNM0&t=4702s)
+- **RD 596 (2025-10-09)**, 1 · relator **Flávia Takafashi** · Recurso de reconsideração da BTP contra os Acórdãos 562, 563 e 564/2024 (proibição definitiva da cobrança de guarda provisória/transitória de contêine → negado provimento por maioria (3x2), prevalecendo a divergência de Caio Farias (redator); 
+  - votos: Flávia: relator; Caio: outro; Alber: acompanha; Lima: vencido; Frederico: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=153s)
+- **RD 596 (2025-10-09)**, 2 · relator **Flávia Takafashi** · Recurso de reconsideração da BTP contra os Acórdãos 562, 563 e 564/2024 (proibição definitiva da cobrança de guarda provisória/transitória de contêine → negado provimento por maioria (3x2), prevalecendo a divergência de Caio Farias (redator); 
+  - votos: Flávia: relator; Caio: outro; Alber: acompanha; Lima: vencido; Frederico: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=153s)
+- **RD 596 (2025-10-09)**, 3 · relator **Flávia Takafashi** · Recurso de reconsideração da BTP contra os Acórdãos 562, 563 e 564/2024 (proibição definitiva da cobrança de guarda provisória/transitória de contêine → negado provimento por maioria (3x2), prevalecendo a divergência de Caio Farias (redator); 
+  - votos: Flávia: relator; Caio: outro; Alber: acompanha; Lima: vencido; Frederico: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=153s)
+- **RD 596 (2025-10-09)**, 4 · relator **Lima Filho** · Atendimento ao item 5.4 do Acórdão 80/2023: manifestação conclusiva sobre abusividade de cobranças (serviços acessórios a contêiner LCL, rubricas dupl → pedido de vista de Alber Vasconcelos; voto do relator não proferido
+  - votos: Lima: relator; Alber: vista · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=5602s)
+- **RD 596 (2025-10-09)**, 7 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 176/2025 (auto de infração por reajuste de tabela de preços acima do índice contratual em Aratu; multa); su → recurso não conhecido, por unanimidade
+  - votos: Lima: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=7636s)
+- **RD 596 (2025-10-09)**, ref-3 · relator **Alber Vasconcelos** · Referendo da Deliberação DG 77/2025: cautelar contra nova tabela tarifária da VPorts publicada sem a antecedência mínima de 60 dias e com aumento inde → referendado por unanimidade
+  - votos: Alber: relator; Frederico: acompanha; Flávia: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=9354s)
+- **RD 596 (2025-10-09)**, 18 · relator **Frederico Dias** · Revisão extraordinária da Agenda Regulatória 2025-2028: antecipa estadia de contêiner (Res. 62/2021); inclui transmutação de instalações com contrato  → aprovado por unanimidade, com priorização dos temas incluídos (sugestão de Alber Vasconcel
+  - votos: Frederico: relator; Flávia: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=10222s)
+- **RD 596 (2025-10-09)**, 27 · relator **Flávia Takafashi** · Recurso de reconsideração da VPorts contra a Deliberação DG 103(113?)/2024, confirmada pelo Acórdão 747/2024, e embargos ao Acórdão 679/2024 (tabelas  → aprovado por unanimidade (recurso indeferido por perda de objeto)
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=13152s)
+- **RD 596 (2025-10-09)**, 31 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o Acórdão 425/2025 (inclusão do ISS por fora na tabela tarifária de Itajaí contraria a tabela aprovada pela Deliberaç → aprovado por unanimidade (recurso indeferido)
+  - votos: Alber: relator; Frederico: acompanha; Flávia: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=14830s)
+- **RD 596 (2025-10-09)**, 37 · relator **Caio Farias** · Calendário do segundo ciclo de revisões tarifárias ordinárias (Res. 61/2021) → aprovado por unanimidade
+  - votos: Caio: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=17596s)
+- **RD 598 (2025-11-13)**, 1 · relator **Flávia Takafashi** · Recurso de reconsideração contra o Acórdão ANTAQ 3/2025, que limitou o desconto do item 6 da Tabela 1 (infraestrutura de acesso aquaviário) às tarifas → pedido de vista de Alber Vasconcelos antes da leitura do voto da relatora (julgamento em b
+  - votos: Flávia: relator; Alber: vista; Frederico: outro; Caio: outro; Lima: outro · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=493s)
+- **RD 598 (2025-11-13)**, 2 · relator **Flávia Takafashi** · Recurso de reconsideração da Porto Ponta do Félix contra o Acórdão ANTAQ 3/2025 (desconto do item 6 da Tabela 1 só nas tarifas de Antonina); julgado e → pedido de vista de Alber Vasconcelos antes da leitura do voto da relatora (julgamento em b
+  - votos: Flávia: relator; Alber: vista; Frederico: outro; Caio: outro; Lima: outro · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=493s)
+- **RD 598 (2025-11-13)**, 16 · relator **Flávia Takafashi** · Revisão do valor da Tabela 1 (infraestrutura de acesso aquaviário) no porto organizado de Itaguaí após padronização tarifária por TPB → aprovado por unanimidade
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=7641s)
+- **RD 598 (2025-11-13)**, 20 · relator **Flávia Takafashi** · Denúncia com pedido de cautelar para suspender a Tabela 1 do porto de Itaguaí por suposto descumprimento da obrigação de manter a dragagem do canal de → aprovado por unanimidade (cautelar indeferida)
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=11339s)
+- **RD 598 (2025-11-13)**, 32 · relator **Lima Filho** · Consulta sobre enquadramento de rebocador em operação standby de apoio a plataforma de petróleo e incidência da Tabela 1 do porto do Rio de Janeiro (i → aprovado por unanimidade
+  - votos: Lima: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=13186s)
+- **RD 600 (2025-12-15)**, 1 · relator **Flávia Takafashi** · Revisão tarifária extraordinária do Porto de Rio Grande (RS) por desequilíbrio decorrente do aumento do assoreamento do canal de acesso e das enchente → aprovado (sem divergência), com acréscimo de acompanhamento da dragagem pela SFC
+  - votos: Flávia: relator; Alber: acompanha; Frederico: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=204s)
+- **RD 600 (2025-12-15)**, 8 · relator **Flávia Takafashi** · Recurso de reconsideração contra o Acórdão 3/2025-ANTAQ (desconto do item 6 da Tabela 1 — Inframar — aplicável só às tarifas de Antonina, mantida inte → vista prorrogada (Alber Vasconcelos) — sem deliberação
+  - votos: Alber: outro · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=657s)
+- **RD 600 (2025-12-15)**, 9 · relator **Flávia Takafashi** · Recurso de reconsideração contra o Acórdão 3/2025-ANTAQ (desconto do item 6 da Tabela 1 — Inframar — aplicável só às tarifas de Antonina, mantida inte → vista prorrogada (Alber Vasconcelos) — sem deliberação
+  - votos: Alber: outro · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=657s)
+- **RD 600 (2025-12-15)**, 21 · relator **Lima Filho** · Pedido de suspensão/abatimento das Tabelas 1 e 2 cobradas pela Portos RS da navegação interior por má prestação (assoreamento, utilidades), e relatóri → pedido de vista de Flávia Takafashi (bloco dos três processos); relator não registrou voto
+  - votos: Flávia: vista; Lima: relator · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=13903s)
+- **RD 600 (2025-12-15)**, 22 · relator **Lima Filho** · Pedido de suspensão/abatimento das Tabelas 1 e 2 cobradas pela Portos RS da navegação interior por má prestação (assoreamento, utilidades), e relatóri → pedido de vista de Flávia Takafashi (bloco dos três processos); relator não registrou voto
+  - votos: Flávia: vista; Lima: relator · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=13903s)
+- **RD 600 (2025-12-15)**, 28 · relator **Lima Filho** · Pedido de suspensão/abatimento das Tabelas 1 e 2 cobradas pela Portos RS da navegação interior por má prestação (assoreamento, utilidades), e relatóri → pedido de vista de Flávia Takafashi (bloco dos três processos); relator não registrou voto
+  - votos: Flávia: vista; Lima: relator · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=13903s)
+- **RD 603 (2026-02-24)**, 4 · relator **Lima Filho** · Fiscalização extraordinária na Portos RS e pleito de suspensão/abatimento das tarifas (tabelas 1 e 2) cobradas das empresas de navegação interior no R → aprovado o voto do relator (unânime após vista)
+  - votos: Frederico: acompanha; Flávia: revisor_acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=1781s)
+- **RD 603 (2026-02-24)**, 5 · relator **Lima Filho** · Fiscalização extraordinária na Portos RS e pleito de suspensão/abatimento das tarifas (tabelas 1 e 2) cobradas das empresas de navegação interior no R → aprovado o voto do relator (unânime após vista)
+  - votos: Frederico: acompanha; Flávia: revisor_acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=1781s)
+- **RD 603 (2026-02-24)**, 9 · relator **Lima Filho** · Fiscalização extraordinária na Portos RS e pleito de suspensão/abatimento das tarifas (tabelas 1 e 2) cobradas das empresas de navegação interior no R → aprovado o voto do relator (unânime após vista)
+  - votos: Frederico: acompanha; Flávia: revisor_acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=1781s)
+- **RD 603 (2026-02-24)**, 6 · relator **Flávia Takafashi** · Recurso de reconsideração contra o Acórdão 3/2025 (inadequação de parâmetros tarifários da autoridade portuária), após vista de Alber Vasconcelos na R → vista renovada por Alber Vasconcelos — sem deliberação; voto da relatora registrado
+  - votos: Flávia: relator; Alber: vista · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=2414s)
+- **RD 603 (2026-02-24)**, 7 · relator **Flávia Takafashi** · Recurso de reconsideração contra o Acórdão 3/2025 (inadequação de parâmetros tarifários da autoridade portuária), após vista de Alber Vasconcelos na R → vista renovada por Alber Vasconcelos — sem deliberação; voto da relatora registrado
+  - votos: Flávia: relator; Alber: vista · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=2414s)
+- **RD 603 (2026-02-24)**, 16 · relator **Flávia Takafashi** · Pedido de supressão do mecanismo de preço-teto (magnesita, fertilizante, minério de cobre) do contrato de arrendamento 2/2021, com novo estudo concorr → pedido de vista de Alber Vasconcelos — sem deliberação; voto da relatora registrado
+  - votos: Flávia: relator; Alber: vista · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=6121s)
+- **RD 603 (2026-02-24)**, 22 · relator **Lima Filho** · Alteração do início de vigência do reajuste tarifário homologado pela Deliberação DG 7/2026 de 23/01/2026 para 02/02/2026 → aprovado (sem divergência)
+  - votos: Frederico: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=9101s)
+- **RD 605 (2026-03-24)**, 1 · relator **Lima Filho** · Decisão de mérito em denúncia com pedido cautelar: suposta retenção indevida de contêineres condicionada ao pagamento de armazenagem, THC e serviços a → aprovado por unanimidade (denúncia improcedente)
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=337s)
+- **RD 605 (2026-03-24)**, 6 · relator **Cristina Castro** · Referendo da Deliberação DG 15/2026: diferimento por 30 dias da aplicação da nova estrutura tarifária da revisão extraordinária (Acórdão 827/2025) → referendado por unanimidade
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=4500s)
+- **RD 605 (2026-03-24)**, 7 · relator **Cristina Castro** · Denúncia com pedido cautelar: cobrança de rotulagem de contêiner com carga IMO (item 6.44), posicionamento (6.02) e entrega postergada (6.08) ao recin → cautelar deferida por unanimidade
+  - votos: Cristina: relator; Alber: acompanha; Frederico: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=4658s)
+- **RD 605 (2026-03-24)**, 8 · relator **Flávia Takafashi** · Recurso de reconsideração contra o Acórdão 3/2025 (consulta regulatória): desconto de 50% dos itens 5 e 6 da Tabela 1 (INFRAMAR) em operações sucessiv → recurso provido por maioria (4 x 1), vencida a relatora Flávia Takafashi; prevalece o voto
+  - votos: Flávia: relator; Alber: revisor_diverge; Caio: revisor_diverge; Lima: revisor_acompanha; Frederico: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=4848s)
+- **RD 605 (2026-03-24)**, 9 · relator **Flávia Takafashi** · Recurso de reconsideração contra o Acórdão 3/2025 (consulta regulatória): desconto de 50% dos itens 5 e 6 da Tabela 1 (INFRAMAR) em operações sucessiv → recurso provido por maioria (4 x 1), vencida a relatora Flávia Takafashi; prevalece o voto
+  - votos: Flávia: relator; Alber: revisor_diverge; Caio: revisor_diverge; Lima: revisor_acompanha; Frederico: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=4848s)
+- **RD 605 (2026-03-24)**, 10 · relator **Flávia Takafashi** · Pedido de supressão do mecanismo de preço-teto (price cap, cláusula 10.1) para magnesita, com base na cláusula 10.3 (ambiente concorrencial competitiv → pedido acolhido por maioria (4 x 1), vencida a relatora: preço-teto suspenso por 2 anos co
+  - votos: Flávia: relator; Alber: revisor_diverge; Frederico: revisor_acompanha; Lima: revisor_acompanha; Caio: revisor_diverge · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=5536s)
+- **RD 607 (2026-04-23)**, 22 · relator **Alber Vasconcelos** · Contestação da cobrança da tabela 1 (tarifa de acesso aquaviário) pela CDP sobre embarcações destinadas ao TUP da Unitapajós, que cruzam trecho da pol → aprovado por unanimidade
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: relator; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=1080s)
+- **RD 607 (2026-04-23)**, 27 · relator **Cristina Castro** · Recurso contra o acórdão 636/2024, que indeferiu cautelar em denúncia de cobrança abusiva pela Santos Brasil para movimentação de carga solta (item 4. → recurso desprovido por unanimidade
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: relator · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=9464s)
+- **RD 607 (2026-04-23)**, 30 · relator **Cristina Castro** · Pedido de reinserção do item 15 da tabela 7 (diversos padronizados) na tabela tarifária da VPorts, na fase de transição do contrato de concessão 01/20 → aprovado por unanimidade
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: relator · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=10594s)
+- **RD 607 (2026-04-23)**, 31 · relator **Cristina Castro** · Embargos de declaração contra o acórdão 843/2025 sobre a tabela 1 (acesso aquaviário) do porto de Areia Branca → embargos rejeitados por unanimidade
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: relator · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=10727s)
+- **RD 611 (2026-06-11)**, 1 · relator **Lima Filho** · Recurso de reconsideração contra o item 5.4 do Acórdão 831/2025 (teto para serviços acessórios em contêiner LCL igual ao do FCL; aplicação imediata ao → negado provimento (aprovado sem manifestação contrária)
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=237s)
+- **RD 611 (2026-06-11)**, 27 · relator **Alber Vasconcelos** · Denúncia com pedido de medida cautelar contra a cobrança do item 4 da Tabela 1 (VTMS, cerca de R$ 12.104 por embarcação) sobre navios destinados a TUP → cautelar indeferida e denúncia julgada improcedente, por unanimidade; acrescida, por suges
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=3421s)
+- **RD 611 (2026-06-11)**, 34 · relator **Cristina Castro** · Reajuste tarifário do Porto Organizado de Suape (29 meses, ago/2023 a dez/2025; IPCA de 11,03%, produtividade de 1%; reajuste médio de 9,80%, efeito m → aprovado
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=16382s)
+- **RD 611 (2026-06-11)**, 37 · relator **Cristina Castro** · Petição da BTP (protocolada como embargos de declaração) contra o Acórdão 141/2026 (cautelar suspendendo a taxa de aplicação de rótulos IMO, item 6.44 → retirado de pauta pela relatora após questão de ordem de Caio Farias (voto lido, depois re
+  - votos: Cristina: relator; Caio: outro; Frederico: outro · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=16587s)
+- **RD 611 (2026-06-11)**, 36 · relator **Cristina Castro** · Reajuste tarifário do Porto Organizado de Santana (1/7/2024 a 31/12/2025; reajuste médio de 6,65%, efeito médio de 8,17%) → aprovado
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=17376s)
+- **RD 614 (2026-08-20)**, 14 · relator **Lima Filho** · Reajuste de preços da travessia internacional Guajará-Mirim (Brasil) – Guayaramerín (Beni, Bolívia), sem reajuste desde 2016; pedido de 87,7% → aprovado (sem divergência registrada): reajuste parcial
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=7552s)
+- **RD 614 (2026-08-20)**, 30 · relator **Cristina Castro** · Manifestação da BTP (item 5.4 do Acórdão 141/2026) contra a cautelar que suspendeu a cobrança da taxa de aplicação de rótulos IMO (item 6.44 da tabela → vencida a relatora: mantida a cautelar por 3 a 2 (divergência de Alber Vasconcelos)
+  - votos: Cristina: relator; Alber: outro; Frederico: acompanha; Caio: acompanha; Lima: vencido · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=9880s)
+- **RD 616 (2026-08-21)**, pauta 15 · relator **Alber Vasconcelos** · Revisão tarifária extraordinária do Porto de Areia Branca (Porto-Ilha/TERMISA) motivada pelo Acórdão 843/2025; pedido de reajuste linear de 21,23% (IP → retirado de pauta pelo relator após a sustentação oral; compromisso de pautar na reunião s
+  - votos: Alber: relator · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=1340s)
+- **RD 616 (2026-08-21)**, pauta 23 · relator **Caio Farias** · Recurso de reconsideração com pedido cautelar contra os Acórdãos 138/2026 e 163/2026, que suspenderam o preço-teto na movimentação de fertilizantes, c → aprovado, sem divergência registrada: recurso desprovido, cautelar e pedido de retirada de
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=14927s)
+- **RD 616 (2026-08-21)**, pauta (nº não dito) — ABTL/Codeba · relator **Cristina Castro** · Denúncia com pedido cautelar para suspender o adicional tarifário de 35% sobre granéis líquidos classificados como agentes nocivos no Porto de Aratu ( → aprovado, sem divergência: cautelar indeferida; mérito à SRG no âmbito da revisão tarifári
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=15880s)
+- **RD 619 (2026-09-24)**, 22 · relator **Alber Vasconcelos** · Revisão tarifária extraordinária da Tabela I do Porto de Areia Branca (Acórdão 843/2025); CODERN pedia reajuste de 21,23% (IPCA) → aprovado: revisão conhecida e sobrestada até o reequilíbrio do contrato de arrendamento 9/
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=10433s)
+- **RD 619 (2026-09-24)**, 31 · relator **Caio Farias** · Embargos de declaração contra o Acórdão 484/2026 (que negou reconsideração; regime de preço-teto contratual suspenso) → embargos conhecidos e rejeitados (aprovado)
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=13927s)
+- **RD 621 (2026-10-27)**, 23 · relator **Caio Farias** · Denúncia com medida cautelar contra a majoração da rubrica 1.14 da tabela pública de serviços 2026 da BTP → retirado de pauta a pedido do relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=930s)
+- **RD 621 (2026-10-27)**, 8 · relator **Frederico Dias** · Petição da ABRATEC sobre a revisão normativa do tema 3.10 da Agenda Regulatória 2025-2028 (serviços portuários em terminais de contêineres, SSE): pedi → aprovado por unanimidade (votação simbólica)
+  - votos: Frederico: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=2442s)
+- **RD 621 (2026-10-27)**, 10 · relator **Frederico Dias** · Relatório preliminar de AIR do tema 3.10 (caracterização, organização e cobrança de serviços portuários em terminais de contêineres) e abertura de tom → aprovado por unanimidade (votação simbólica)
+  - votos: Frederico: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=3188s)
+- **RD 621 (2026-10-27)**, 11 · relator **Lima Filho** · Reestruturação e reajuste tarifário do porto organizado de São Sebastião (IPCA de 9,43% maio/2024–março/2026 nas tabelas 1, 2, 7, 8 e 9) → aprovado por unanimidade (votação simbólica)
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=3901s)
+- **RD 621 (2026-10-27)**, 32 · relator **Alexandre Florambel** · Critérios técnicos e periodicidade das auditorias independentes previstas no contrato de concessão 01/2022 (contribuição variável, IQS, RCA) → aprovado por unanimidade (votação simbólica)
+  - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=13027s)

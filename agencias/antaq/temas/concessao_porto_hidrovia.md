@@ -1,0 +1,42 @@
+# Itens do tema «concessao_porto_hidrovia» (todos os diretores)
+
+- **RD 492 (2020-12-22)**, 11 · relator **Eduardo Nery** · Abertura de consulta e audiência pública da concessão dos portos de Vitória e Barra do Riacho e desestatização da Codesa → aprovado por unanimidade
+  - votos: Eduardo: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=1134s)
+- **RD 498 (2021-04-08)**, 2 · relator **Eduardo Nery** · Referendo da Deliberação DG 61/2021: aprovação da análise das 334 contribuições da Audiência Pública 19/2020 (concessão dos portos de Vitória e Barra  → referendado por unanimidade
+  - votos: Eduardo: relator; Gabriela: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=333s)
+- **RD 514 (2021-12-10)**, 49 · relator **Flávia Takafashi** · Extrapauta: desestatização do porto de São Sebastião – abertura de consulta e audiência públicas das minutas de edital e contrato de concessão (25 ano → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=23939s)
+- **RD 516 (2022-02-04)**, 2 · relator **Eduardo Nery** · Referendo da Deliberação DG 5/2022, que aprovou edital e minuta do contrato de concessão dos portos de Vitória e Barra do Riacho (desestatização da Co → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=6060s)
+- **RD 516 (2022-02-04)**, 3 · relator **Eduardo Nery** · Referendo da Deliberação DG 11/2022, que autorizou consulta e audiência públicas da desestatização do Porto Organizado de Santos (inclui túnel/ligação → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=6780s)
+- **RD 516 (2022-02-04)**, 5 · relator **Flávia Takafashi** · Referendo da Deliberação DG 18/2022, que agendou para 7 de fevereiro a sessão virtual da audiência pública 2/2021 da concessão do Porto Organizado de  → aprovado por unanimidade nos termos do voto da relatora
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=7590s)
+- **RD 518 (2022-03-23)**, 10 · relator **Eduardo Nery** · Alteração da minuta do contrato de concessão dos portos de Vitória e Barra do Riacho (prazo de redução do capital social mínimo da SPE) — referendo da → aprovado por unanimidade (referendo)
+  - votos: Eduardo: relator; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=5371s)
+- **RD 518 (2022-03-23)**, 11 · relator **Eduardo Nery** · Consulta e audiências públicas da desestatização do Porto de Santos — referendo das deliberações DG que marcaram as audiências e prorrogaram o prazo d → aprovado por unanimidade (referendo)
+  - votos: Eduardo: relator; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=5463s)
+- **RD 518 (2022-03-23)**, 16 · relator **Flávia Takafashi** · Prorrogação do prazo de contribuições da audiência pública da concessão do Porto de São Sebastião — referendo da Deliberação DG 28/2022 → aprovado por unanimidade (referendo)
+  - votos: Flávia: relator; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=7279s)
+- **RD 522 (2022-05-26)**, 4 · relator **Flávia Takafashi** · Referendo da Deliberação DG 81/2022: contribuições da Audiência Pública 2/2021 sobre a desestatização (concessão) do Porto de São Sebastião → aprovado por unanimidade nos termos do voto do relator
+  - votos: Flávia: relator; Eduardo: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=3670s)
+- **RD 522 (2022-05-26)**, 28 · relator **Flávia Takafashi** · Pedido de reconsideração/cautelar para diferir parcialmente a revisão tarifária homologada pela Deliberação DG 55/2022 → aprovado por unanimidade (relatora diverge da área técnica)
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=14939s)
+- **RD 526 (2022-08-11)**, 5 · relator **José Renato Fialho** · Referendo da Deliberação DG 110/2022: aprova a revisão dos estudos da concessão do porto de Itajaí feita por Minfra/EPL para atender às ressalvas da D → aprovado por unanimidade (referendado)
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=2J5AWByVtpM&t=3621s)
+- **RD 530 (2022-09-29)**, 4 (referendo) · relator **Eduardo Nery** · Referendo da Deliberação 124/2022: análise das quase 600 contribuições da Audiência Pública 1/2022 e documentos da licitação da concessão do Porto Org → aprovado (referendada a Deliberação 124/2022)
+  - votos: Eduardo: relator; Alexandre: acompanha; Flávia: outro · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=3992s)
+- **RD 532 (2022-11-10)**, 4 · relator **Alexandre Lopes** · Referendo da deliberação DG 135/2022: atualização dos estudos e documentos da concessão do Porto Organizado de Itajaí (PPI) → aprovado nos termos do voto do relator
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=3528s)
+- **RD 534 (2022-12-07)**, 7 · relator **Alexandre Lopes** · Referendo da Deliberação DG 151/2022: atualização dos estudos técnicos e jurídicos da concessão do Porto de Itajaí (criação do índice de reajustamento → referendado por unanimidade
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=3840s)
+- **RD 537 (2023-02-09)**, 36 · relator **Lima Filho** · Referendo da Deliberação DG 10/2023 e exame da cautelar em denúncia da LCPT para manter-se em área do porto organizado de Vitória (malte de cevada) ap → aprovado por unanimidade nos termos do voto do relator
+  - votos: Lima: relator; Caio: acompanha; Alber: acompanha; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=3226s)
+- **RD 537 (2023-02-09)**, 37 · relator **Lima Filho** · Efeito suspensivo a recurso de reconsideração contra o item 5.2.2 do Acórdão 587/2022 (cobrança pela Codesa da NFS 21663, cerca de R$ 1,44 milhão de t → efeito suspensivo negado por maioria (4 x 1), nos termos do voto divergente de Caio Farias
+  - votos: Lima: vencido; Caio: outro; Alber: acompanha; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=16734s)
+- **RD 543 (2023-05-24)**, 17 · relator **Lima Filho** · Denúncia anônima de descumprimento de patamar de caixa pela concessionária do porto de Vitória → aprovado (denúncia improcedente)
+  - votos: Lima: relator; Eduardo: outro; Flávia: outro; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=9752s)
+- **RD 588 (2025-06-05)**, 1 · relator **Lima Filho** · Pedido de reconsideração da VPorts contra o Acórdão 585/2023 (arbitragem regulatória sobre responsabilidade pelo reparo do molhe de abrigo de Praia Mo → aprovado por unanimidade: pedido conhecido e negado provimento; indeferido o sobrestamento
+  - votos: Lima: relator; Caio: acompanha; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=5895s)
+- **RD 621 (2026-10-27)**, 25 · relator **Alexandre Florambel** · Adaptação do contrato de concessão de direito real de uso 59/2008 ao regime privado da concessão 01/2022 (Vitória e Barra do Riacho) → aprovado por unanimidade (votação simbólica)
+  - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=9214s)

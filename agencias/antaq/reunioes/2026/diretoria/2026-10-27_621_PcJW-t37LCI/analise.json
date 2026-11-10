@@ -1,0 +1,1487 @@
+{
+ "meta": {
+  "video_id": "PcJW-t37LCI",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulos {..} do .md frequentemente errados, corrigidos pelo contexto); votação simbólica: ts de quem só acompanha = momento do «aprovado»",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "621",
+  "data": "2026-10-27",
+  "formato": "presencial com transmissão (votação simbólica)",
+  "presidente_da_sessao": "Frederico Dias (Diretor-Geral)",
+  "diretores_presentes": [
+   "Frederico Dias",
+   "Lima Filho",
+   "Alber Vasconcelos",
+   "Caio Farias",
+   "Alexandre Florambel (diretor substituto)"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Atas 619 e 620 homologadas. Presentes também o representante da Secretaria-Geral (Pablo Viana) e o procurador-chefe da PFA (Flávio Quearelli, grafia incerta).",
+   "Abertura: o diretor-geral relata a estiagem na Amazônia (rio Negro em 16,97 m em Manaus em 21/10; menos severo que 2023/2024), dragagem do DNIT, fiscalização em travessias e análise de todos os avisos de cobrança de taxa de seca; Alber Vasconcelos fala do regime de autorização precário; Florambel elogia o reforço de servidores (CNU) nas regionais do Norte.",
+   "Comunicado da PFA sobre parecer da AGU acerca da substituição do diretor-geral na vacância; o diretor-geral e Caio Farias apoiam a decisão colegiada (Caio cita a vacância do ex-DG Eduardo Nery).",
+   "Retirados: item 1 (Lima Filho), item 23 (Caio Farias; Bandeirantes Deicmar x BTP, majoração de rubrica da tabela de 2026) e item 24 (Estaleiro Atlântico Sul). Vistas renovadas: Login Logística (relator Lima Filho, revisor Caio Farias) e item 6 VDC29 Vila do Conde (relator Lima Filho, revisor Alber Vasconcelos, que pretende divergir após reunião com MPor e Infra S.A.).",
+   "Todos os itens deliberados foram aprovados por votação simbólica, sem divergência formal. Debates: item 3 (contrato de transição Reliance/SPA, dispositivo ajustado por sugestão de Caio Farias), item 16 (MUC04: Alber Vasconcelos relata ter sido vencido na discussão sobre trava concorrencial), item 19 (prazo de 90 dias sugerido pelo DG), item 27 (crítica de Florambel e do DG aos TACs).",
+   "Pausa de 15 minutos por volta de 2:22."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:15:00",
+   "processo": "50300.005447/2026-14 (grafia incerta)",
+   "interessado": "Navegação Airlon Rocha Transporte Ltda. (grafia incerta)",
+   "assunto": "Recurso de reconsideração contra a Deliberação PAS 16/2026 da SFC",
+   "tema": [
+    "recursos administrativos",
+    "fiscalização e sanções"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "retirado de pauta a pedido do relator; sustentação oral adiada",
+   "resumo_voto": "Retirado de pauta; a sustentação oral poderá ocorrer no retorno.",
+   "votos": []
+  },
+  {
+   "id": "6",
+   "ts": "0:16:00",
+   "processo": "50300.007516/95 (grafia incerta)",
+   "interessado": "MPor; área VDC29, porto organizado de Vila do Conde (PA)",
+   "assunto": "Procedimento licitatório do arrendamento VDC29",
+   "tema": [
+    "arrendamento em porto organizado",
+    "pedido de vista"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "não deliberado: vista renovada pelo revisor Alber Vasconcelos",
+   "resumo_voto": "Relator já consignou voto nos autos; revisor renova vista para reunião com MPor e Infra S.A. e pretende trazer divergência.",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator (voto já consignado nos autos)",
+     "ts": "0:16:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "renova vista (revisor), anuncia divergência",
+     "ts": "0:16:38",
+     "justificativa": "acordo com MPor de reunião com a Infra S.A. para discutir pontos e trazer divergência no voto",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "vista-Login",
+   "ts": "0:15:50",
+   "processo": "50300.001699/2026 (grafia incerta)",
+   "interessado": "Login Logística Intermodal S.A.",
+   "assunto": "Recurso de reconsideração contra o Acórdão 733/2025",
+   "tema": [
+    "recursos administrativos",
+    "navegação e afretamento",
+    "pedido de vista"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "não deliberado: vista renovada (revisor Caio Farias)",
+   "resumo_voto": "Apenas anunciada a renovação da vista; número do item não lido com clareza.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "renova vista (revisor)",
+     "ts": "0:15:50",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:17:28",
+   "processo": "50300.008957/2026-35 (grafia incerta)",
+   "interessado": "Braskem (grafia «Brasker»/«Brasanker») e Allis/Alcis Serviço de Instalação de Dutos (grafia incerta)",
+   "assunto": "Consulta sobre direito de tonelagem decorrente da reativação da construção de casco de embarcação PSV em estaleiro brasileiro (art. 10, III, Lei 9.432/1997) para afretamento a casco nu com suspensão de bandeira",
+   "tema": [
+    "navegação e afretamento",
+    "apoio marítimo",
+    "construção naval / direito de tonelagem",
+    "consulta"
+   ],
+   "relator": "Alexandre Florambel",
+   "resultado": "aprovado por unanimidade (votação simbólica)",
+   "resumo_voto": "Perda superveniente do objeto e arquivamento, após desistência das empresas; advogada não compareceu para sustentação oral. Revisor: Caio Farias (havia pedido vista).",
+   "votos": [
+    {
+     "diretor": "Alexandre Florambel",
+     "voto": "relator, perda do objeto e arquivamento",
+     "ts": "0:19:00",
+     "justificativa": "desistência da consulente (art. 51 da Lei 9.784/1999) esvazia o objeto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "0:20:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "0:20:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "0:20:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "0:20:23",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:20:25",
+   "processo": "50300.014751/2026-4 (grafia incerta)",
+   "interessado": "Santos Port Authority (SPA) e Reliance Agenciamento e Serviços Portuários; área SSZ 35.2 (grafia incerta), Saboó, porto de Santos",
+   "assunto": "Consulta sobre adequar o prazo do contrato de transição 17/2025 (180 dias, edital do processo simplificado 1/2025, sob a Resolução 7) ao prazo de 12 meses da Resolução 127/2025",
+   "tema": [
+    "arrendamento em porto organizado",
+    "contrato de transição",
+    "consulta",
+    "institucional/TCU",
+    "porto de Santos"
+   ],
+   "relator": "Alexandre Florambel",
+   "resultado": "aprovado por unanimidade, com ajuste do dispositivo sugerido por Caio Farias e acolhido pelo relator",
+   "resumo_voto": "A Resolução 127 não obriga alterar o prazo de 180 dias do contrato de transição; dispositivo final (redigido no fim da sessão por sugestão de Caio Farias): SOG e SFC reavaliem o novo contrato já assinado pela SPA com prazo de 12 meses, inclusive a adimplência da Reliance. Debate: novo contrato de transição exige novo chamamento/processo seletivo, não há renovação automática.",
+   "votos": [
+    {
+     "diretor": "Alexandre Florambel",
+     "voto": "relator, responde à consulta (mantém 180 dias)",
+     "ts": "0:24:48",
+     "justificativa": "vinculação ao edital; item 9.2 do Acórdão TCU 1068/2026 manda executar o contrato nos termos originais; isonomia não exige prazos iguais; 12 meses é prazo máximo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "3:47:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "3:47:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator, com comentário",
+     "ts": "0:31:59",
+     "justificativa": "Reliance foi ao TCU pedir vinculação ao edital; renovação não é tácita e exige adimplência (investimentos, movimentação mínima); para 12 meses, a SPA deveria fazer novo chamamento; recorda a cautelar relatada por Lima Filho e a destinação da área ao STS10",
+     "tom": "enfático",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator, com sugestão de ajuste acolhida",
+     "ts": "0:34:57",
+     "justificativa": "contrato de transição não admite renovação automática; pede tratar do contrato de 12 meses já assinado; propõe determinar à SOG reavaliar com a SFC",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "R-DG76",
+   "ts": "0:35:59",
+   "processo": "50300.017239/2026 (grafia incerta)",
+   "interessado": "AC Parceria e Logística Ltda. (grafia incerta); Terra Santa (PA)",
+   "assunto": "Referendo da Deliberação DG 76/2026 (embargos de declaração contra o Acórdão 540/2026): autorização especial e emergencial de 180 dias para testes de comissionamento em instalação de carga geral ro-ro em Terra Santa (PA)",
+   "tema": [
+    "autorização especial / emergencial",
+    "navegação interior",
+    "referendo",
+    "estiagem na Amazônia"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado por unanimidade (votação simbólica)",
+   "resumo_voto": "Referenda a Deliberação DG 76/2026 nos exatos termos.",
+   "votos": [
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, referenda",
+     "ts": "0:38:03",
+     "justificativa": "complementação da empresa explicou o comissionamento; instalação rudimentar; sem fatos novos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "0:38:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "0:38:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "0:38:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Florambel",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "0:38:14",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "R-DG75",
+   "ts": "0:38:14",
+   "processo": "não lido (sandbox regulatório)",
+   "interessado": "Hardrada Energy Tech Hero Participações Ltda. (grafia incerta) e Complexo Industrial Portuário de Suape (PE)",
+   "assunto": "Referendo da Deliberação DG 75/2026: segunda prorrogação (60 dias) do prazo para celebrar o contrato de outorga verde no sandbox regulatório",
+   "tema": [
+    "sandbox regulatório",
+    "sustentabilidade",
+    "arrendamento / outorga em porto organizado",
+    "referendo"
+   ],
+   "relator": "Alexandre Florambel",
+   "resultado": "aprovado por unanimidade (votação simbólica)",
+   "resumo_voto": "Referenda a Deliberação DG 75/2026 nos exatos termos.",
+   "votos": [
+    {
+     "diretor": "Alexandre Florambel",
+     "voto": "relator, referenda",
+     "ts": "0:40:29",
+     "justificativa": "primeiro projeto do sandbox da ANTAQ recomenda flexibilidade; complexidade ambiental; Suape deve acelerar os ajustes",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "0:40:42",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "0:40:42",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "0:40:42",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "0:40:42",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "0:40:42",
+   "processo": "50300.013012/2026 (grafia incerta)",
+   "interessado": "ABRATEC – Associação Brasileira dos Terminais de Contêineres",
+   "assunto": "Petição da ABRATEC sobre a revisão normativa do tema 3.10 da Agenda Regulatória 2025-2028 (serviços portuários em terminais de contêineres, SSE): pedia excluir deliberações do TCU, declarar efeitos do MS 4087 no STF, exigir ARR prévia e sanear/interromper o processo",
+   "tema": [
+    "tarifas portuárias (THC, SSE, cesta de serviços)",
+    "regulação normativa",
+    "agenda regulatória",
+    "institucional/TCU"
+   ],
+   "relator": "Frederico Dias",
+   "resultado": "aprovado por unanimidade (votação simbólica)",
+   "resumo_voto": "Indefere os pedidos; Resolução 72/2022 plenamente eficaz durante a instrução; AIR deve incorporar avaliação ex post das Resoluções 72/2022 e 109/2023; SRG deve garantir acesso pleno aos documentos.",
+   "votos": [
+    {
+     "diretor": "Frederico Dias",
+     "voto": "relator, indefere os pedidos",
+     "ts": "0:49:44",
+     "justificativa": "STF anulou só o acórdão TCU de 2022; Acórdão 1250/2025 continua; não ser ilegal não impede regular; TCU, CADE e Receita são subsídios não vinculantes; ARR prévia não é exigida",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "0:53:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "0:53:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "0:53:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Florambel",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "0:53:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "0:53:08",
+   "processo": "50300.025205/2025-58 (grafia incerta)",
+   "interessado": "ANTAQ (SRG) – terminais de contêineres",
+   "assunto": "Relatório preliminar de AIR do tema 3.10 (caracterização, organização e cobrança de serviços portuários em terminais de contêineres) e abertura de tomada de subsídios",
+   "tema": [
+    "regulação normativa",
+    "AIR",
+    "tarifas portuárias (THC, SSE, cesta de serviços)",
+    "participação social"
+   ],
+   "relator": "Frederico Dias",
+   "resultado": "aprovado por unanimidade (votação simbólica)",
+   "resumo_voto": "Aprova AIR preliminar sem escolher alternativa e autoriza tomada de subsídios; webinário em 10/11.",
+   "votos": [
+    {
+     "diretor": "Frederico Dias",
+     "voto": "relator, aprova",
+     "ts": "0:57:24",
+     "justificativa": "problema definido como risco de condutas abusivas; sem tabelamento de preços; alternativas 1.5 e 1.2 próximas, escolha só após participação social",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "0:58:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "0:58:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "0:58:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Florambel",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "0:58:04",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "0:58:04",
+   "processo": "50300.017786/2021-21 (grafia incerta)",
+   "interessado": "ANTAQ",
+   "assunto": "Contribuições da Consulta Pública 5/2026 e aprovação da alteração da Resolução 66/2022 (instrução processual e processo decisório)",
+   "tema": [
+    "regulação normativa",
+    "institucional",
+    "processo decisório / governança"
+   ],
+   "relator": "Frederico Dias",
+   "resultado": "aprovado por unanimidade (votação simbólica)",
+   "resumo_voto": "Aprova a norma; determinações à Secretaria-Geral (painel de monitoramento, relatório anual de atribuições de relatoria, urgência em conexão com cautelares) e à SRG (mapeamento do processo normativo).",
+   "votos": [
+    {
+     "diretor": "Frederico Dias",
+     "voto": "relator, aprova",
+     "ts": "1:01:41",
+     "justificativa": "atende recomendações da CGU: motivação, prazo de relatoria preferencial de 60 dias (rejeita 30 dias da PFA), referendos em processo apartado, fim da vedação de vista com maioria formada, sustentação oral por terceiros",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha, com elogio",
+     "ts": "1:03:34",
+     "justificativa": "cumprimenta o diretor-geral pelo avanço (há 4 anos na agência)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha, com elogio",
+     "ts": "1:04:00",
+     "justificativa": "processo decisório mais eficaz e seguro; consolida práticas",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:03:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Florambel",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:03:34",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "1:05:01",
+   "processo": "50300.013520/2026 (grafia incerta)",
+   "interessado": "Companhia Docas de São Sebastião; porto de São Sebastião (SP)",
+   "assunto": "Reestruturação e reajuste tarifário do porto organizado de São Sebastião (IPCA de 9,43% maio/2024–março/2026 nas tabelas 1, 2, 7, 8 e 9)",
+   "tema": [
+    "tarifas portuárias",
+    "autoridade portuária"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado por unanimidade (votação simbólica)",
+   "resumo_voto": "Aprova reajuste, homologado se o poder concedente não se opuser em 15 dias.",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, aprova",
+     "ts": "1:08:34",
+     "justificativa": "requisitos da Res. 61/2021 cumpridos; percentual igual ao IPCA acumulado; tabelas 3 e 5 mantidas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:10:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:10:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:10:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Florambel",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:10:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "1:10:20",
+   "processo": "50300.014922/2024-73 (grafia incerta)",
+   "interessado": "Vibra Energia S.A.; MPor; Companhia Docas do Pará; porto de Belém",
+   "assunto": "Alteração do cronograma de implantação da área BEL08 (contrato de arrendamento 13/2019, grafia incerta)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "reequilíbrio econômico-financeiro"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado por unanimidade (votação simbólica)",
+   "resumo_voto": "Reconhece manutenção do equilíbrio econômico-financeiro; ressalva que não reconhece regularidade de intervenções do PBI não executadas (combate a incêndio, separador água-óleo) e envia ao MPor.",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, aprova",
+     "ts": "1:13:35",
+     "justificativa": "alteração de cronograma não afetou substancialmente a exploração (art. 61, Portaria 530/2019)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:15:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:15:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:15:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Florambel",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:15:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "1:15:06",
+   "processo": "50300.016182/2026-71 (grafia incerta)",
+   "interessado": "Bram Offshore Transportes Marítimos Ltda. (grafia incerta); embarcação estrangeira «Roger White» (grafia incerta)",
+   "assunto": "Medida cautelar para renovar CAA de embarcação estrangeira",
+   "tema": [
+    "navegação e afretamento",
+    "apoio marítimo",
+    "medida cautelar"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado por unanimidade (votação simbólica)",
+   "resumo_voto": "Perda superveniente do objeto e arquivamento.",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, perda do objeto",
+     "ts": "1:16:58",
+     "justificativa": "desistência da requerente após ajuste contratual",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:17:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:17:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:17:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Florambel",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:17:57",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "1:17:57",
+   "processo": "50300.071605/2021 (grafia incerta)",
+   "interessado": "Transportes Bertolini Ltda.; TUP Bertolini Belém (PA)",
+   "assunto": "Inclusão dos perfis granel sólido e carga conteinerizada e retificação da área do TUP (contrato de adesão 44/2014)",
+   "tema": [
+    "autorização de TUP / terminal de uso privado / ETC / IP4"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado por unanimidade (votação simbólica)",
+   "resumo_voto": "Reconhece possibilidade de termo aditivo com ajustes na minuta; recomenda atualizar documentos vencidos antes da assinatura.",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, aprova",
+     "ts": "1:20:01",
+     "justificativa": "anúncio público feito; retificação registral sem expansão física; operação direta sem armazenagem",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:22:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:22:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:22:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Florambel",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:22:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "1:22:40",
+   "processo": "50300.018069/2026-21 (grafia incerta)",
+   "interessado": "APPA – Portos do Paraná; Rocha Terminais Portuários e Logística; berço 209, porto de Paranaguá",
+   "assunto": "Conversão da obrigação de instalar espaçadores metálicos no berço 209 em obrigação pecuniária (5º aditivo ao arrendamento 115/2002, grafia incerta)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "reequilíbrio econômico-financeiro",
+    "investimentos"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado por unanimidade (votação simbólica)",
+   "resumo_voto": "Aprova conversão em 6 parcelas (out/2027 a mar/2028) corrigidas pelo IPCA; SOG apura em apartado divergências do 4º aditivo (remuneração variável e prazo).",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, aprova",
+     "ts": "1:25:18",
+     "justificativa": "dragagem tornou o investimento desnecessário; preserva valor econômico (VPL do Acórdão 85/2025)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:29:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:29:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:29:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Florambel",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:29:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "1:29:45",
+   "processo": "50300.022804/2023-58 (grafia incerta)",
+   "interessado": "MPor; Companhia Docas do Ceará; área MUC04, porto de Fortaleza",
+   "assunto": "Publicação do edital de arrendamento do terminal de contêineres MUC04 (leilão em 9/12/2026 na B3)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "leilão",
+    "concorrência"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado por unanimidade (votação simbólica)",
+   "resumo_voto": "Aprova publicação do edital; primeiro terminal de contêineres licitado após a Lei 12.815/2013. Debate sobre restringir participação de operador do Pecém: Alber Vasconcelos diz ter sido vencido nas discussões prévias e aceita sem trava.",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, aprova",
+     "ts": "1:34:23",
+     "justificativa": "todas as etapas cumpridas (audiência pública, TCU, poder concedente, PFA); investimento de cerca de R$ 430 milhões",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator, concordando com a preocupação concorrencial",
+     "ts": "1:42:10",
+     "justificativa": "cada caso concreto pode justificar restrição para estimular concorrência na prestação do serviço; relação TUP-arrendamento",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator, registrando posição vencida em debate prévio",
+     "ts": "1:37:41",
+     "justificativa": "defendia avaliar trava de participação para estimular concorrência na operação (operador que atua no TUP do Pecém e em Suape); aceita monitorar ex post",
+     "tom": "ponderado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:42:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Florambel",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:42:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "1:42:29",
+   "processo": "50300.009425/2025-51 (grafia incerta)",
+   "interessado": "Galáxia Navegação Ltda. e Galáxia Marítima; embarcações Captain Nicolas (estrangeira) e GNL 1015",
+   "assunto": "Perda de requisito técnico para manutenção de REB/lastro: termo de cessão de tonelagem datado de 2021 mas assinado em 2026",
+   "tema": [
+    "navegação e afretamento",
+    "outorga de EBN",
+    "fiscalização e sanções"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado por unanimidade (votação simbólica)",
+   "resumo_voto": "Reconhece ineficácia do termo de cessão para lastro retroativo; ciência ao Tribunal Marítimo; SFC instaura processo fiscalizatório (Res. 62/2021).",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, ineficácia do termo",
+     "ts": "1:46:49",
+     "justificativa": "vício de motivo insanável; cessão de tonelagem não comprova lastro retroativamente (Parecer PFA 89/2026)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:48:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:48:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:48:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Florambel",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:48:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "1:48:52",
+   "processo": "50300.018503/2026 (grafia incerta)",
+   "interessado": "APPA – Portos do Paraná; Cattalini Terminais Marítimos S.A.; porto de Paranaguá",
+   "assunto": "Autorização para contrato de passagem (10 linhas de dutos, 73 m², 35 anos) ligando o TUP Cattalini ao píer privado dentro da poligonal",
+   "tema": [
+    "contrato de passagem / uso de área",
+    "porto organizado",
+    "autorização de TUP / terminal de uso privado / ETC / IP4"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado por unanimidade (votação simbólica)",
+   "resumo_voto": "Autoriza o contrato de passagem; manutenção ou supressão da subcláusula 5.27 fica a critério da Portos do Paraná; cópia do contrato em 30 dias.",
+   "votos": [
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, aprova",
+     "ts": "1:54:00",
+     "justificativa": "requisitos do cap. III da Res. 127 atendidos; compatibilização com terminais vizinhos; subcláusula 5.27 é faculdade da autoridade portuária",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:55:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:55:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:55:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Florambel",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "1:55:32",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "1:55:38",
+   "processo": "50300.001426 (grafia incerta)",
+   "interessado": "ANTAQ (SOG)",
+   "assunto": "Agenda EVTEA 2.0: modernização do estudo de viabilidade técnica, econômica e ambiental de arrendamentos (catálogo de parâmetros, controle por performance, autorreequilíbrio, investimentos por comunicação, reversibilidade)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "reequilíbrio econômico-financeiro",
+    "regulação normativa",
+    "institucional/TCU"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado por unanimidade, com prazo ajustado para 90 dias",
+   "resumo_voto": "Institui a agenda EVTEA 2.0 sem caráter normativo; SOG prepara contribuição à consulta do MPor sobre a Portaria 530, considera o Acórdão TCU 2206/2026 e apresenta plano de trabalho (prazo ampliado de 30 para 90 dias por sugestão do diretor-geral, acolhida).",
+   "votos": [
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, aprova (acolhe prazo de 90 dias)",
+     "ts": "2:08:16",
+     "justificativa": "controvérsias estão nas premissas, não no fluxo de caixa descontado; reduzir subjetividade e assimetria; Acórdão TCU 2206/2026 e consulta do MPor sobre a Portaria 530",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha, sugere prazo de 90 dias (acolhido)",
+     "ts": "2:13:11",
+     "justificativa": "elogia simplificação e redução de subjetividade; SOG já prepara contribuição (processo 50300.020740/2026); demanda de reequilíbrios pressiona a SOG",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "2:14:42",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "2:14:42",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Florambel",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "2:14:42",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "2:14:51",
+   "processo": "50300.000947/2026 (grafia incerta)",
+   "interessado": "Portos RS (autoridade portuária); Cais Multipropósito (RIG19), Rio Grande",
+   "assunto": "Nova autorização especial (art. 49, Lei 10.233) de 180 dias para continuar operando o Cais Multipropósito fora da poligonal como infraestrutura de uso público",
+   "tema": [
+    "autorização especial / emergencial",
+    "autorização de TUP / terminal de uso privado / ETC / IP4",
+    "porto de Rio Grande"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado por unanimidade (votação simbólica)",
+   "resumo_voto": "Defere de 30/10/2026 a 27/04/2027, extinguindo-se com a expedição do TLO do TUP; SOG informa em 90 dias o estágio da outorga; novo pedido exige justificar a não conclusão.",
+   "votos": [
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, defere",
+     "ts": "2:19:56",
+     "justificativa": "necessidade operacional crescente (cerca de 548 mil t; +68,5% no 1º semestre/2026); avanços na regularização (declaração de adequação, certidão SPU); rigor cresce a cada pedido",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "2:21:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "2:21:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "2:21:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Florambel",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "2:21:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "2:22:23",
+   "processo": "50300.003157/2026-28 (grafia incerta)",
+   "interessado": "Estado da Bahia; TUP do Estado da Bahia (Porto Sul); Bahia Invest; FIOL; TUP Bamin",
+   "assunto": "Adequação do TAC 2/2026 (cronograma de investimentos do contrato de adesão 18/2021) com cláusula suspensiva",
+   "tema": [
+    "fiscalização e sanções",
+    "TAC",
+    "autorização de TUP / terminal de uso privado / ETC / IP4"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "aprovado por unanimidade (votação simbólica)",
+   "resumo_voto": "Defere parcialmente: TAC com condição suspensiva, relatórios a cada 90 dias; SFC/Unidade de Salvador ajusta minuta; recusa leva ao prosseguimento do sancionador.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, defere parcialmente",
+     "ts": "2:26:58",
+     "justificativa": "adiamento indefinido não atende ao interesse público; condição suspensiva (arts. 121 e 125 do Código Civil) só da obrigação principal; transferência não exonera o Estado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "2:28:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "2:28:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "2:28:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Florambel",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "2:28:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "22",
+   "ts": "2:28:10",
+   "processo": "50300.019326/2026-00 (grafia incerta)",
+   "interessado": "DTA Engenharia Ltda.; Terminais Ponta Negra, Maricá (RJ)",
+   "assunto": "Prorrogação por até 5 anos do prazo de início de operação do TUP e novo cronograma (contrato de adesão 4/2018, grafia incerta)",
+   "tema": [
+    "autorização de TUP / terminal de uso privado / ETC / IP4",
+    "licenciamento ambiental"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "aprovado por unanimidade (votação simbólica)",
+   "resumo_voto": "Reconhece possibilidade de prorrogação; mantém a multa já aplicada (Acórdão 347/2025); condiciona obras às licenças; SFC fiscaliza; envia ao MPor.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, aprova",
+     "ts": "2:32:17",
+     "justificativa": "atrasos por ações civis públicas sobre o licenciamento (2015–2021); cronograma de 60 meses e estruturação financeira (cerca de R$ 1,9 bilhão); intempestividade formal não impede o mérito",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "2:33:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "2:33:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "2:33:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alexandre Florambel",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "2:33:34",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "23",
+   "ts": "0:15:30",
+   "processo": "50300.015728/2026-7 (grafia incerta)",
+   "interessado": "Bandeirantes Deicmar e Brasil Terminal Portuário S.A. (BTP); porto de Santos",
+   "assunto": "Denúncia com medida cautelar contra a majoração da rubrica 1.14 da tabela pública de serviços 2026 da BTP",
+   "tema": [
+    "tarifas portuárias (THC, SSE, cesta de serviços)",
+    "medida cautelar",
+    "porto de Santos"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "retirado de pauta a pedido do relator",
+   "resumo_voto": "Retirado de pauta.",
+   "votos": []
+  },
+  {
+   "id": "24",
+   "ts": "0:17:09",
+   "processo": "não lido",
+   "interessado": "Estaleiro Atlântico Sul",
+   "assunto": "Processo do Estaleiro Atlântico Sul (objeto não lido)",
+   "tema": [
+    "retirado de pauta"
+   ],
+   "relator": "Caio Farias (provável)",
+   "resultado": "retirado de pauta (dúvida de última hora; volta na próxima reunião)",
+   "resumo_voto": "Retirado de pauta.",
+   "votos": []
+  },
+  {
+   "id": "25",
+   "ts": "2:33:34",
+   "processo": "50300.006101/2024-63 (grafia incerta)",
+   "interessado": "Petrobras; Vports Autoridade Portuária S.A.; terminal aquaviário de Barra do Riacho (ES)",
+   "assunto": "Adaptação do contrato de concessão de direito real de uso 59/2008 ao regime privado da concessão 01/2022 (Vitória e Barra do Riacho)",
+   "tema": [
+    "concessão de porto/hidrovia",
+    "autorização de TUP / terminal de uso privado / ETC / IP4",
+    "desestatização"
+   ],
+   "relator": "Alexandre Florambel",
+   "resultado": "aprovado por unanimidade (votação simbólica)",
+   "resumo_voto": "Reconhece a adaptação pelo 1º aditivo e declara atendida a cláusula 9 do contrato de concessão.",
+   "votos": [
+    {
+     "diretor": "Alexandre Florambel",
+     "voto": "relator, aprova",
+     "ts": "2:40:08",
+     "justificativa": "acompanha a PFA: CDRU vinculada à vigência da autorização do TUP; cláusula resolutiva 11.8 compatível com direito privado; sem novas alterações",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "2:40:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "2:40:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "2:40:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "2:40:49",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "ts": "2:40:57",
+   "processo": "50300.000613/2024 (grafia incerta)",
+   "interessado": "ANTAQ",
+   "assunto": "Correção de erro material no Acórdão 593/2026 (revisão da Resolução 129: circularização, bloqueio e afretamento na cabotagem e apoio marítimo) — itens da agenda regulatória não são dados por cumpridos",
+   "tema": [
+    "regulação normativa",
+    "navegação e afretamento",
+    "agenda regulatória"
+   ],
+   "relator": "Alexandre Florambel",
+   "resultado": "aprovado por unanimidade (votação simbólica)",
+   "resumo_voto": "Retifica o acórdão: mantém a autorização da consulta e audiência públicas e retira a declaração de cumprimento dos itens 2.1 e 2.2.",
+   "votos": [
+    {
+     "diretor": "Alexandre Florambel",
+     "voto": "relator, aprova",
+     "ts": "2:41:59",
+     "justificativa": "abrir consulta pública não cumpre o item da agenda; norma final ainda pendente",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "2:42:42",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "2:42:42",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "2:42:42",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "2:42:42",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "27",
+   "ts": "2:42:42",
+   "processo": "50300.009870/2023 (grafia incerta)",
+   "interessado": "Codeba – Companhia das Docas do Estado da Bahia",
+   "assunto": "Acompanhamento do TAC 3/2023 (certificado do Corpo de Bombeiros): nulidades e saneamento processual",
+   "tema": [
+    "fiscalização e sanções",
+    "TAC",
+    "autoridade portuária"
+   ],
+   "relator": "Alexandre Florambel",
+   "resultado": "aprovado por unanimidade (votação simbólica)",
+   "resumo_voto": "Sem nulidade pela falta de julgamento do recurso; ciência da anulação das Deliberações PAS 32 e 33 (incompetência); SFC certifica nulidade da PAS 2/2023; autos voltam à SFC. Relator critica a profusão de TACs descumpridos (Corpo de Bombeiros, Comportos).",
+   "votos": [
+    {
+     "diretor": "Alexandre Florambel",
+     "voto": "relator, aprova",
+     "ts": "2:52:04",
+     "justificativa": "diverge em parte da PFA: assinado o TAC, o sancionador original é arquivado (Res. 92/2022); descumprimento é tratado no acompanhamento do TAC, com defesa e recurso",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha, apoiando a crítica aos TACs",
+     "ts": "2:54:57",
+     "justificativa": "repensar quando o custo administrativo de um TAC se justifica diante de multas baixas; pede apoio da PFA",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "2:57:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "2:57:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "2:57:12",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "28",
+   "ts": "2:57:12",
+   "processo": "50300.000422/2024-62 (grafia incerta)",
+   "interessado": "ANTAQ; empresas brasileiras de navegação",
+   "assunto": "Manual de conformidade regulatória de contratos de afretamento (cumprimento do item 5.2 do Acórdão 69/2026)",
+   "tema": [
+    "navegação e afretamento",
+    "fiscalização",
+    "regulação normativa"
+   ],
+   "relator": "Alexandre Florambel",
+   "resultado": "aprovado por unanimidade (votação simbólica)",
+   "resumo_voto": "Aprova o manual, autoriza outras medidas de enforcement, determina publicação e dá por atendido o item 5.2; um diretor não identificado perguntou se o manual de 5 páginas era só isso.",
+   "votos": [
+    {
+     "diretor": "Alexandre Florambel",
+     "voto": "relator, aprova",
+     "ts": "3:03:36",
+     "justificativa": "deficiência informacional dos contratos (descrições genéricas, divergência com a circularização); manual orienta sem criar obrigações ou infrações",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "3:05:01",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "3:05:01",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "3:05:01",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "3:05:01",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "29",
+   "ts": "3:05:01",
+   "processo": "50300.014722/2026 (grafia incerta)",
+   "interessado": "MPor; área MUC03, porto de Fortaleza; Projeto Santa Quitéria (INB e Galvani)",
+   "assunto": "Abertura de consulta e audiência pública para arrendamento MUC03 (granéis minerais/fertilizantes ligados ao Projeto Santa Quitéria)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "audiência pública",
+    "concorrência"
+   ],
+   "relator": "Alexandre Florambel",
+   "resultado": "aprovado por unanimidade (votação simbólica)",
+   "resumo_voto": "Aprova a consulta e audiência públicas; recomenda ao MPor atualizar o ato justificatório (pagamento integral da outorga, etapa única).",
+   "votos": [
+    {
+     "diretor": "Alexandre Florambel",
+     "voto": "relator, aprova",
+     "ts": "3:15:35",
+     "justificativa": "demanda dedicada ao Projeto Santa Quitéria afasta cautelas concorrenciais; envelope fechado em fase única; WACC de 9,92%",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "3:16:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "3:16:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "3:16:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "3:16:22",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "30",
+   "ts": "3:16:40",
+   "processo": "50300.019910/2026-80 (grafia incerta)",
+   "interessado": "Rio Marabá Logística S.A.; Marabá (PA), rio Tocantins",
+   "assunto": "Terceira autorização especial e emergencial (180 dias) para testes de comissionamento de terminal rodofluvial de grãos",
+   "tema": [
+    "autorização especial / emergencial",
+    "navegação interior",
+    "estiagem / navegabilidade"
+   ],
+   "relator": "Alexandre Florambel",
+   "resultado": "aprovado por unanimidade (votação simbólica)",
+   "resumo_voto": "Concede 180 dias restritos aos testes, com ressalvas sobre Receita Federal, Marinha, bombeiros e meio ambiente.",
+   "votos": [
+    {
+     "diretor": "Alexandre Florambel",
+     "voto": "relator, defere",
+     "ts": "3:22:49",
+     "justificativa": "coerência com autorizações anteriores (Acórdão 159/2026); vazante do Tocantins abaixo de Tucuruí impediu os testes; segue a SOG contra a GOA",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "3:23:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "3:23:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "3:23:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "3:23:34",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "31",
+   "ts": "3:23:39",
+   "processo": "50300.019865/2024-19 (grafia incerta)",
+   "interessado": "MPor; área RDJ10, porto do Rio de Janeiro",
+   "assunto": "Abertura de consulta e audiência pública para arrendamento RDJ10 (carga geral não conteinerizada, tubos de aço), remodelado após o Acórdão TCU 959/2025",
+   "tema": [
+    "arrendamento em porto organizado",
+    "audiência pública",
+    "institucional/TCU"
+   ],
+   "relator": "Alexandre Florambel",
+   "resultado": "aprovado por unanimidade (votação simbólica)",
+   "resumo_voto": "Aprova a abertura condicionada a ajustes no EVTEA e no ato justificatório; recomenda adequar o PDZ e a qualificação no PPI.",
+   "votos": [
+    {
+     "diretor": "Alexandre Florambel",
+     "voto": "relator, aprova",
+     "ts": "3:34:49",
+     "justificativa": "nova modelagem atende ao TCU; corrigir capacidade estática (25.025 t) e retirar granel sólido; pagamento integral da outorga; 2 propostas para viva-voz",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "3:36:58",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "3:36:58",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "3:36:58",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "3:36:58",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "32",
+   "ts": "3:37:07",
+   "processo": "50300.000202/2026-56 (grafia incerta)",
+   "interessado": "Vports Autoridade Portuária S.A.; portos de Vitória e Barra do Riacho (ES)",
+   "assunto": "Critérios técnicos e periodicidade das auditorias independentes previstas no contrato de concessão 01/2022 (contribuição variável, IQS, RCA)",
+   "tema": [
+    "concessão de porto/hidrovia",
+    "fiscalização",
+    "tarifas portuárias"
+   ],
+   "relator": "Alexandre Florambel",
+   "resultado": "aprovado por unanimidade (votação simbólica)",
+   "resumo_voto": "Aprova a NT 38/2026: auditoria trienal da receita bruta e das tarifas; sistema de indicadores do IQS em 120 dias; revisão de manuais após 2027.",
+   "votos": [
+    {
+     "diretor": "Alexandre Florambel",
+     "voto": "relator, aprova",
+     "ts": "3:44:24",
+     "justificativa": "auditoria interna recomendou critérios; não cria obrigações novas, só aciona faculdades contratuais",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "3:47:07",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "3:47:07",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "3:47:07",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator (aprovação simbólica, sem fala)",
+     "ts": "3:47:07",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "1",
+   "processo": "50300.005447/2026-14 (grafia incerta)",
+   "relator": "Lima Filho",
+   "assunto": "Recurso de reconsideração contra a Deliberação PAS 16/2026-SFC (Navegação Airlon Rocha, grafia incerta)",
+   "motivo": "pedido do relator",
+   "ts": "0:15:00"
+  },
+  {
+   "id": "23",
+   "processo": "50300.015728/2026-7 (grafia incerta)",
+   "relator": "Caio Farias",
+   "assunto": "Denúncia com medida cautelar de Bandeirantes Deicmar contra a BTP: majoração da rubrica 1.14 da tabela pública de serviços de 2026",
+   "motivo": "pedido do relator",
+   "ts": "0:15:30"
+  },
+  {
+   "id": "24",
+   "processo": "não lido",
+   "relator": "Caio Farias (provável)",
+   "assunto": "Estaleiro Atlântico Sul",
+   "motivo": "dúvida de última hora; volta na próxima reunião",
+   "ts": "0:17:10"
+  },
+  {
+   "id": "6",
+   "processo": "50300.007516/95 (grafia incerta)",
+   "relator": "Lima Filho",
+   "assunto": "Procedimento licitatório VDC29, porto organizado de Vila do Conde",
+   "motivo": "vista renovada do revisor Alber Vasconcelos (relator já votou)",
+   "ts": "0:16:34"
+  },
+  {
+   "id": "não identificado",
+   "processo": "50300.001699/2026 (grafia incerta)",
+   "relator": "Lima Filho",
+   "assunto": "Login Logística Intermodal S.A.: recurso de reconsideração contra o Acórdão 733/2025",
+   "motivo": "vista renovada (revisor Caio Farias)",
+   "ts": "0:16:00"
+  }
+ ],
+ "limites_da_analise": [
+  "Votação simbólica («matéria em votação, aprovado»): não há voto nominal; os votos de quem não falou foram registrados como acompanhamento.",
+  "Rótulos de falantes no .md estão muitas vezes errados (ex.: Flávia Takafashi e Eduardo Nery aparecem no cabeçalho sem participar); atribuições feitas pelo contexto.",
+  "Numeração de pauta: os referendos (DG 75 e 76/2026) não têm número lido (ids R-DG75/R-DG76); o item da Resolução 66 foi chamado sem número e registrado como 9 por estar entre os itens 8 e 10; o RDJ10 foi anunciado como «item 30» de novo e registrado como 31.",
+  "No item 32 a legenda diz «último item do Dr. Cai[o]», mas a sequência (itens 25 a 32 após o DG passar a palavra a Florambel) indica Alexandre Florambel como relator.",
+  "Números de processo, acórdãos, valores e nomes de empresas vêm da legenda automática e podem estar errados (marcados «grafia incerta»).",
+  "Item 28: não foi possível identificar o diretor que perguntou sobre o tamanho do manual."
+ ]
+}

@@ -1,0 +1,158 @@
+# Itens do tema «sustentabilidade» (todos os diretores)
+
+- **RD 454 (2018-12-20)**, 55 · relator **Francisval Mendes** · Referendo da Resolução 6598 (11/12/2018): empreendimento apto à declaração de utilidade pública (TUP em Paranaguá), para licença de instalação com sup → referendado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=16514s)
+- **RD 458 (2019-04-04)**, 12 · relator **Mário Povia** · Consulta regulatória e denúncia sobre o Instrumento Normativo 15.004 da CDRJ (barreiras de contenção e cadastro de prestadores de combustível e resídu → voto do relator proferido; processo foi à vista (provavelmente de Adalberto Tokarski; lege
+  - votos: Mário: relator; Adalberto: vista; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=2056s)
+- **RD 461 (2019-05-20)**, 39 · relator **Adalberto Tokarski** · Consulta: se 'outras cargas' do contrato de arrendamento CDP/JUR 069/98 contempla granel sólido → aprovado por unanimidade, com ressalva do Diretor-Geral
+  - votos: Adalberto: relator; Francisval: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=7324s)
+- **RD 473 (2020-02-10)**, 27 · relator **Francisval Mendes** · Proposição de declaração de utilidade pública para supressão de vegetação de Mata Atlântica em área arrendada → aprovado por unanimidade — recomenda ao Ministério da Infraestrutura a emissão da DUP
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=8631s)
+- **RD 473 (2020-02-10)**, 36 · relator **Adalberto Tokarski** · Recurso contra multa da SFC (cerca de R$ 74 mil) por derramamento de combustível em transferência entre balsas → aprovado por unanimidade — recurso improvido
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=9843s)
+- **RD 472 (2020-02-10)**, 42 · relator **Francisval Mendes** · Referendo da Res. 7344 (afretamento emergencial de embarcações estrangeiras para rebocar FPSO Cidade do Rio de Janeiro) → referendado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=10380s)
+- **RD 483 (2020-08-10)**, 37 · relator **Adalberto Tokarski** · Declaração de utilidade pública (DUP): DUP para supressão de vegetação nativa em área urbana (490 m²) — instalação portuária de turismo (contrato de a → aprovado nos termos do voto de Gabriela Costa (Tokarski vencido no item 1 do dispositivo)
+  - votos: Adalberto: vencido; Gabriela: outro; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=15347s)
+- **RD 483 (2020-08-10)**, 38 · relator **Adalberto Tokarski** · Declaração de utilidade pública (DUP): DUP para licenças de supressão de vegetação (Mata Atlântica) e estudos de fauna — TUP do contrato de adesão 6/2 → aprovado nos termos do voto de Gabriela Costa (Tokarski vencido no item 1 do dispositivo)
+  - votos: Adalberto: vencido; Gabriela: outro; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=15347s)
+- **RD 487 (2020-09-30)**, 12 · relator **Francisval Mendes** · Processo sancionador: auto de infração 4041-0 (Unidade Regional de Florianópolis) – licença ambiental, plano de emergência individual e ocupação de ár → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=3440s)
+- **RD 490 (2020-12-08)**, 21 · relator **Eduardo Nery** · Consulta da Centronave sobre a legalidade de exigências da Vale nos terminais quanto a combustível de baixo teor de enxofre e descarte de efluentes de → aprovado por unanimidade
+  - votos: Eduardo: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=4190s)
+- **RD 492 (2020-12-22)**, 46 · relator **Adalberto Tokarski** · Consulta regulatória: sistema híbrido de energia em terra (solar) para navios atracados → pedido de vista (Francisval Mendes)
+  - votos: Adalberto: relator; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=10562s)
+- **RD 500 (2021-05-21)**, 43 · relator **Gabriela Costa** · Agenda Ambiental e de Segurança Aquaviária bienal 2021-2022 → aprovado por unanimidade
+  - votos: Gabriela: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=17440s)
+- **RD 511 (2021-11-11)**, 46 · relator **Flávia Takafashi** · Recurso contra multa de R$ 137.500 (art. 32, XXXIV, Res. 3.274/2014): abertura de vala com maquinário escoando água contaminada com carvão em direção  → aprovado por unanimidade: recurso conhecido e não provido
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=1940s)
+- **RD 513 (2021-11-26)**, 40 · relator **Flávia Takafashi** · Processo administrativo sancionador: descumprimento do regulamento de exploração do Porto de Vitória (condicionante 16 da licença ambiental - caçambas → aprovado por unanimidade (multa)
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=7971s)
+- **RD 520 (2022-05-13)**, 27 · relator **Eduardo Nery** · Auto de infração por não manter vigente licença ambiental de instalação (contrato de adesão 13/2017; autorização de ~15 anos sem obras) → aprovado por unanimidade: auto subsistente; multa (legenda: R$ 30.000); recomendação ao po
+  - votos: Eduardo: relator; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=13705s)
+- **RD 28 (extraordinária) (2022-12-06)**, 1 · relator **Flávia Takafashi** · Estudo «Impacto das mudanças climáticas nos portos marítimos brasileiros», eixo 2: estudos de caso de risco climático e medidas de adaptação para os p → aprovado por unanimidade
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=4i76UBzbHpo&t=35s)
+- **RD 534 (2022-12-07)**, extrapauta-1 · relator **Eduardo Nery** · Proposta do Diretor-Geral: determinar à SDS que inclua na agenda de estudos de 2023 estudo sobre a preparação da infraestrutura portuária nacional par → aprovado por unanimidade
+  - votos: Eduardo: outro; Alexandre: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=96s)
+- **RD 534 (2022-12-07)**, extrapauta-2 · relator **Eduardo Nery** · Proposta do Diretor-Geral: determinar à SDS que apresente até o fim de janeiro de 2023 plano de ação, com metas e cronograma, para avaliar a viabilida → aprovado por unanimidade
+  - votos: Eduardo: outro; Alexandre: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=327s)
+- **RD 537 (2023-02-09)**, 6 · relator **Eduardo Nery** · Acompanhamento e revisão da Agenda Plurianual de Estudos 2021-2024; inclusão de estudo sobre a relação porto-cidade para 2023 → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; Caio: acompanha; Alber: acompanha; Lima: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=7575s)
+- **RD 537 (2023-02-09)**, 15 · relator **Flávia Takafashi** · Manifestação sobre declaração de utilidade pública (DUP) para supressão de vegetação e intervenção em APP (Mata Atlântica) na implantação de TUP → aprovado nos termos do voto da relatora (votos colhidos de Alber, Lima Filho e Eduardo Ner
+  - votos: Flávia: relator; Caio: outro; Alber: acompanha; Lima: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=9842s)
+- **RD 537 (2023-02-09)**, 25 · relator **Lima Filho** · Manifestação sobre declaração de utilidade pública para supressão de vegetação e intervenção em APP (Mata Atlântica) em TUP → aprovado por unanimidade nos termos do voto do relator
+  - votos: Lima: relator; Caio: acompanha; Alber: acompanha; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=11674s)
+- **RD 539 (2023-04-04)**, 6 · relator **Eduardo Nery** · Plano de trabalho para estruturar as fiscalizações temáticas do Plano Anual de Fiscalização 2023 (Acórdão 679/2022): desempenho das administrações por → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=4852s)
+- **RD 541 (2023-04-20)**, 16 · relator **Flávia Takafashi** · Consulta sobre uso de convênio para cessão de cerca de 13 mil m² a planta piloto de hidrogênio verde (projeto Distrito Industrial Verde) no Porto de S → vista concedida a Eduardo Nery após o voto da relatora; retorna na próxima reunião
+  - votos: Eduardo: vista; Flávia: relator; Lima: outro; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=9529s)
+- **RD 541 (2023-04-20)**, 23 · relator **Alber Vasconcelos** · Consulta sobre isenção excepcional de tarifas (Tabelas 1 e 2, cerca de 10,8 mil) para atracação de navio de pesquisa francês de reciclagem de plástico → aprovado: isenção temporária de acostagem deferida com condicionantes (sem prejuízo às ope
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=13045s)
+- **RD 543 (2023-05-24)**, 7 · relator **Flávia Takafashi** · Consulta de Suape sobre o instrumento para ocupar áreas não afetas às operações portuárias (convênio com o SENAI para projeto piloto de hidrogênio ver → aprovado (voto da relatora)
+  - votos: Flávia: relator; Eduardo: revisor_acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=6480s)
+- **RD 543 (2023-05-24)**, 14 · relator **Flávia Takafashi** · Revisão da Resolução ANTAQ 2.190/2011 (retirada de resíduos de embarcações): amplia o alcance a IP4/registradas, informações via plataforma GISIS da I → aprovado
+  - votos: Flávia: relator; Eduardo: outro; Lima: outro; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=9060s)
+- **RD 543 (2023-05-24)**, 25 · relator **Alber Vasconcelos** · Manifestação sobre emissão de Declaração de Utilidade Pública (DUP) para supressão vegetal e intervenção em APP na construção do TUP EBT Santorini (IN → aprovado
+  - votos: Alber: relator; Eduardo: outro; Flávia: outro; Lima: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=10799s)
+- **RD 545 (2023-06-23)**, 10 · relator **Lima Filho** · Consulta (vista do DG): instalação, dentro da poligonal do TUP, de operação de minério de ferro e manganês por nova empresa (sub-autorização) e declar → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: revisor_acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=10774s)
+- **RD 545 (2023-06-23)**, 13 · relator **Eduardo Nery** · Alteração da Resolução 75/2022 para definir critérios mínimos de seguros de responsabilidade civil e acidentes pessoais nos portos organizados (tema 3 → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=13394s)
+- **RD 30ª Extraordinária (2023-06-29)**, 1 · relator **Flávia Takafashi** · Aprovação do Guia para condução de levantamento de risco climático e medidas de adaptação para infraestrutura portuária (eixo 3 do estudo de impactos  → aprovado por unanimidade
+  - votos: Flávia: relator; Caio: acompanha; Alber: acompanha; Lima: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=wjX9CByByqE&t=60s)
+- **RD 547 (2023-08-07)**, 13 · relator **Eduardo Nery** · Estruturação do programa de fiscalizações temáticas de 2023 (Acórdãos 679/2022 e 130/2023): desempenho da administração portuária (Manaus, Suape, Sant → aprovado por unanimidade
+  - votos: Eduardo: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=3711s)
+- **RD 547 (2023-08-07)**, 14 · relator **Eduardo Nery** · Pedido de reconsideração contra o Acórdão 733/2021 (multa por usar tábuas para aumentar caçambas de caminhões de granel sólido vegetal, contra condici → conhecido e não provido, por unanimidade
+  - votos: Eduardo: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=3962s)
+- **RD 547 (2023-08-07)**, 18 · relator **Lima Filho** · Recurso contra multa (falta de licença ambiental de operação e de plano de emergência individual) já punida em outro auto transitado em julgado → recurso provido por unanimidade (auto insubsistente)
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=6245s)
+- **RD 547 (2023-08-07)**, 25 · relator **Lima Filho** · Recurso contra multa por lonas de proteção irregulares na descarga de pelotas de minério e gesso (queda de carga no mar) → recurso não provido e multa majorada, por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=6794s)
+- **RD 547 (2023-08-07)**, 33 · relator **Alber Vasconcelos** · Auto de infração por não entregar à autoridade portuária o projeto as built de drenagem e efluentes: reenquadramento do art. 32, XIX, para o art. 32,  → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=8345s)
+- **RD 549 (2023-08-31)**, 20 · relator **Flávia Takafashi** · Entendimento da ANTAQ sobre o alcance regulatório no mercado de energia eólica offshore: ótica portuária (instrumento de ocupação de áreas nos portos  → aprovado por consenso, com texto final ajustado no fim da sessão
+  - votos: Flávia: relator; Eduardo: acompanha; Alber: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=9463s)
+- **RD 551 (2023-10-04)**, 26 · relator **Flávia Takafashi** · Referendo da Deliberação DG 73/2023: prorrogação de prazo (45 dias) para complementação do laudo ambiental técnico preliminar de passivos ambientais n → referendado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=5254s)
+- **RD 551 (2023-10-04)**, 25 · relator **Caio Farias** · Relatório do eixo 1 (revisão de experiências internacionais) do diagnóstico sobre descarbonização do setor portuário – projeto P38 da agenda plurianua → aprovado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=14323s)
+- **RD 554 (2023-10-26)**, 6 · relator **Lima Filho** · Medida cautelar: recomendação ao poder concedente de suspensão do cronograma físico-financeiro e de obrigações do contrato de arrendamento 03/2020 (ST → aprovado nos termos do voto do relator, com acréscimos do revisor Alber Vasconcelos
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: revisor_acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=6795s)
+- **RD 555 (2023-11-16)**, 38 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o Acórdão 81/2023, que considerou intempestivo (3 dias de atraso sobre 360) o laudo de passivos ambientais não conhec → recurso conhecido e não provido, por unanimidade (relator diverge da SDS e acompanha a PF)
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=9339s)
+- **RD 558 (2024-02-26)**, 22 · relator **Eduardo Nery** · Auto de infração 4971 (plano anual de fiscalização 2019): falta de licença ambiental, descumprimento de determinação de oferta isonômica, más condiçõe → aprovado por unanimidade
+  - votos: Eduardo: relator; Alber: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=10086s)
+- **RD 558 (2024-02-26)**, 49 · relator **Alber Vasconcelos** · Auto de infração 5049 por descarte não autorizado de efluentes com matéria orgânica em bueiro do cais público do Porto de Santos → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=20385s)
+- **RD 560 (2024-03-25)**, 15 · relator **Eduardo Nery** · Revisão normativa (tema 3.6 da agenda regulatória) sobre seguros de responsabilidade civil e acidentes pessoais; riscos ambientais nas operações portu → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=11122s)
+- **RD 568 (2024-08-05)**, 0 · relator **Eduardo Nery** · Instituição do Comitê Geral de Gênero e Diversidade do Setor Aquaviário, com relatoria de Flávia Takafashi (art. 5º da Res. 66/2022) e prazo de 30 dia → aprovado (sem manifestação contrária)
+  - votos: Eduardo: outro; Flávia: outro; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=54s)
+- **RD 568 (2024-08-05)**, 37 · relator **Caio Farias** · Aprovação dos produtos do eixo 2 do estudo de descarbonização e transição energética nos portos (diagnóstico, guia de recomendações, hidrogênio de bai → aprovado
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=8051s)
+- **RD 574 (2024-10-25)**, 15 · relator **Flávia Takafashi** · Consulta sobre exportação de magnesita (minério) pela área pública do Porto de São Francisco do Sul ou pelo arrendamento do TESC (operação teste de 10 → aprovado por unanimidade (sem óbices à operação)
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=13851s)
+- **RD 576 (2024-11-22)**, 19 · relator **Lima Filho** · Nova autorização especial (180 dias a partir de 01/12/2024) para armazenar carga de projeto da planta de hidrogênio e amônia verdes no Terminal Maríti → aprovado por unanimidade, com acréscimo de ciência ao Ministério de Portos e Aeroportos
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=5438s)
+- **RD 578 (2024-12-19)**, 31 · relator **Lima Filho** · Mérito da denúncia contra norma da APS sobre gerenciamento de água de lastro (exigência de atestado de conformidade emitido por empresa credenciada no → aprovado por unanimidade: denúncia conhecida, Deliberação DG 75/2024 ratificada e norma da
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=4829s)
+- **RD 578 (2024-12-19)**, 16 · relator **Flávia Takafashi** · Revisão da Resolução 2650/2012 (Índice de Desempenho Ambiental — IDA): retira o SIGA e o sistema de resíduos, avaliação anual, linha de corte de 100 m → aprovado por unanimidade (votação sem manifestação contrária)
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=11434s)
+- **RD 578 (2024-12-19)**, 44 · relator **Alber Vasconcelos** · Estruturação da concessão da hidrovia do Rio Paraguai (tramo Sul, cerca de 600 km entre Corumbá e a foz do Apa/Porto Murtinho, e canal do Tamengo): 15 → aprovado por unanimidade (autos enviados ao MPor para atestar a aderência à política públi
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=18842s)
+- **RD 578 (2024-12-19)**, 45-51 · relator **Caio Farias** · Relatórios da 1ª rodada da fiscalização temática ESG (adesão a práticas ambientais, sociais e de governança) → aprovado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=20326s)
+- **RD 579 (2025-02-13)**, 16 · relator **Eduardo Nery** · Aprovação da Agenda Ambiental e de Segurança Aquaviária da ANTAQ para o biênio 2025–2026 → aprovado por unanimidade, com acréscimo proposto por Flávia Takafashi
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=7141s)
+- **RD 582 (2025-03-17)**, 19 · relator **Flávia Takafashi** · Consulta sobre alteração normativa para dispensar ou flexibilizar a circularização no afretamento de embarcações estrangeiras em emergências ambientai → aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=9807s)
+- **RD 584 (2025-04-10)**, 10 · relator **Flávia Takafashi** · Monitoramento do desempenho da administração portuária (fiscalização temática) do Porto do Itaqui → aprovado
+  - votos: Flávia: relator; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=1946s)
+- **RD 584 (2025-04-10)**, 13 · relator **Flávia Takafashi** · Monitoramento do desempenho da administração portuária do Porto Organizado do Rio Grande (Acórdão 374/2023) → aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Caio: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=3740s)
+- **RD 586 (2025-05-19)**, 36 · relator **Lima Filho** · Alteração do cronograma físico-financeiro de construção e início de operação do TUP (contrato de adesão 12/2019) → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=12673s)
+- **RD 33 (extraordinária) (2025-06-26)**, 1 · relator **Alber Vasconcelos** · Plano de Outorga Específico (POE) da concessão da hidrovia do rio Paraguai (tramo sul, Corumbá–foz do rio Apa/Porto Murtinho, cerca de 600 km, com can → aprovado por unanimidade nos termos do voto do relator
+  - votos: Alber: relator; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=7q682yKzyNY&t=91s)
+- **RD 591 (2025-08-08)**, 23 · relator **Flávia Takafashi** · Estudo P39 da agenda plurianual de estudos 2021-2024: diagnóstico das ações de portos públicos e TUPs para fortalecer a relação porto-cidade (resiliên → aprovado por unanimidade, com acréscimo sugerido por Alber Vasconcelos (encaminhar ao Mini
+  - votos: Flávia: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=OQ9m51EIHJc&t=73s)
+- **RD 592 (2025-08-25)**, 18 · relator **Flávia Takafashi** · Primeiro tema do sandbox regulatório: «Outorga Verde» — ocupação de áreas ociosas de portos organizados por projetos de energia limpa, combustíveis al → aprovado por unanimidade
+  - votos: Flávia: relator; Caio: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=vDo8pMKcp_Q&t=6672s)
+- **RD 596 (2025-10-09)**, 18 · relator **Frederico Dias** · Revisão extraordinária da Agenda Regulatória 2025-2028: antecipa estadia de contêiner (Res. 62/2021); inclui transmutação de instalações com contrato  → aprovado por unanimidade, com priorização dos temas incluídos (sugestão de Alber Vasconcel
+  - votos: Frederico: relator; Flávia: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=10222s)
+- **RD 596 (2025-10-09)**, 38 · relator **Caio Farias** · Relatório final do eixo 3 do estudo P38 (diagnóstico sobre descarbonização no setor portuário: Itaqui, Pecém, Paranaguá, Santos, Açu) → aprovado por unanimidade
+  - votos: Caio: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=17831s)
+- **RD 598 (2025-11-13)**, 11 · relator **Frederico Dias** · Termo de execução descentralizada (TED) e plano de trabalho com a UFF para o projeto PJ01 da Agenda Ambiental e de Segurança Aquaviária 2025/2026: rev → aprovado por unanimidade
+  - votos: Frederico: relator; Flávia: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=5805s)
+- **RD 598 (2025-11-13)**, 25 · relator **Lima Filho** · Recurso hierárquico contra multa por omissão de medidas preventivas de dano ambiental na descarga de cloreto de potássio (nov.-dez. 2021) → aprovado por unanimidade (recurso conhecido e não provido)
+  - votos: Lima: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=12127s)
+- **RD 603 (2026-02-24)**, ref-sandbox · relator **Flávia Takafashi** · Referendo da Deliberação DG 10/2026 (resultado preliminar do edital de chamamento 1/2025 do sandbox regulatório de outorga verde: projeto de geração d → referendado (sem divergência)
+  - votos: Frederico: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=1572s)
+- **RD 603 (2026-02-24)**, 11 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 314/2025 (titularidade de licenças ambientais e coabilitação ao REIDI por terceiros possuidores diretos den → recurso parcialmente provido (sem divergência)
+  - votos: Frederico: acompanha; Flávia: revisor_acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=4027s)
+- **RD 603 (2026-02-24)**, 13 · relator **Flávia Takafashi** · Recurso de reconsideração contra o Acórdão 24/2024: multa de R$ 97.750 por descarte não autorizado de efluentes com matéria orgânica em bueiro do cais → recurso conhecido e não provido (sem divergência)
+  - votos: Frederico: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=5717s)
+- **RD 605 (2026-03-24)**, 5 · relator **Cristina Castro** · Referendo da Deliberação DG 14/2026: resultado final do Edital de Chamamento Público 1/2025 do Sandbox Regulatório (Outorga Verde) – sistema de geraçã → referendado por unanimidade
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=4365s)
+- **RD 611 (2026-06-11)**, 6 · relator **Caio Farias** · Referendo da Deliberação DG 30/2026: cautelar (pedido subsidiário) suspendendo subitens 3 e 5 do item 5.4.1 e item 8.5 da instrução normativa da Porto → referendado
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=6740s)
+- **RD 611 (2026-06-11)**, 24 · relator **Alber Vasconcelos** · Consulta sobre acordo de cooperação técnica com a Secretaria de Meio Ambiente do Maranhão para sistema de monitoramento meteorológico (bens em comodat → aprovado
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=14787s)
+- **RD 611 (2026-06-11)**, 30 · relator **Caio Farias** · Autorização especial e emergencial por até 180 dias para atracação e descomissionamento da plataforma P-35 da Petrobras (legenda também diz P-75) → aprovado
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=15824s)
+- **RD 611 (2026-06-11)**, 40 · relator **Cristina Castro** · Manifestação ao MPor sobre alteração do cronograma de investimentos (cerca de R$ 6,245 bilhões em 60 meses) e 2ª prorrogação do início da operação do  → aprovado
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=17837s)
+- **RD 611 (2026-06-11)**, 42 · relator **Cristina Castro** · Aprovação do Guia de Incentivo à Liderança Feminina 'Navegando Juntas' → aprovado; elogios de vários diretores
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=18891s)
+- **RD 614 (2026-08-20)**, 13 · relator **Lima Filho** · Recurso hierárquico contra a Deliberação PAS 32/2025-SFC (multa de R$ 28.000 por interferência injustificada em operações de terceiros após vazamento  → aprovado (sem divergência registrada): recurso provido
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=7291s)
+- **RD 616 (2026-08-21)**, pauta 13 · relator **Lima Filho** · Processo administrativo sancionador: auto de infração por iniciar obras de TUP (supressão de vegetação e terraplenagem) sem autorização (art. 37, XII  → aprovado, sem divergência: auto de infração declarado insubsistente (contra a área técnica
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=11783s)
+- **RD 616 (2026-08-21)**, pauta 21 · relator **Caio Farias** · Reconhecimento de passivo ambiental não conhecido: destinação dos sedimentos a dragar no berço TGS2 em aterro classe I exigida pelo órgão ambiental es → aprovado, sem divergência registrada
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=14036s)
+- **RD 616 (2026-08-21)**, pauta (nº não dito) — margem equatorial · relator **Cristina Castro** · Aprovação do diagnóstico técnico «Atuação da ANTAQ na estruturação logístico-regulatória da Margem Equatorial brasileira» como subsídio às agendas de  → aprovado, sem divergência registrada
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=15269s)
+- **RD 621 (2026-10-27)**, R-DG75 · relator **Alexandre Florambel** · Referendo da Deliberação DG 75/2026: segunda prorrogação (60 dias) do prazo para celebrar o contrato de outorga verde no sandbox regulatório → aprovado por unanimidade (votação simbólica)
+  - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=2294s)
+- **RD 621 (2026-10-27)**, 22 · relator **Caio Farias** · Prorrogação por até 5 anos do prazo de início de operação do TUP e novo cronograma (contrato de adesão 4/2018, grafia incerta) → aprovado por unanimidade (votação simbólica)
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=8890s)

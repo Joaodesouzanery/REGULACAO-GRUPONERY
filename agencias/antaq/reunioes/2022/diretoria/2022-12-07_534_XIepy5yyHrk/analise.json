@@ -1,0 +1,1118 @@
+{
+ "meta": {
+  "video_id": "XIepy5yyHrk",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts tirados de data/transcricoes/XIepy5yyHrk.json (o .md só tem um marcador); ts de quem só acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "534",
+  "data": "2022-12-07",
+  "formato": "presencial com transmissão (última reunião presencial de 2022)",
+  "presidente_da_sessao": "Eduardo Nery (Diretor-Geral)",
+  "diretores_presentes": [
+   "Eduardo Nery",
+   "Flávia Takafashi",
+   "Alexandre Lopes (diretor substituto)"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Data confirmada na sessão: a 534ª foi antecipada para 'hoje' pela Deliberação DG 147/2022 (item 2); a próxima reunião virtual se encerra em 14/12.",
+   "Abertura: presentes Flávia Takafashi, Alexandre (Gomes) Lopes e o procurador federal Arthur; homologadas atas.",
+   "Duas propostas extrapauta do Diretor-Geral sobre sustentabilidade aprovadas (estudo de infraestrutura para navios menos poluentes / energia em terra; plano de ação para inventário de emissões GEE).",
+   "Comunicação de Flávia Takafashi: homenagem à servidora aposentada Gertrudes Coelho (unidade de Recife).",
+   "Sustentações orais: Intermarítima (item 20) e Aquavia (item 1).",
+   "Item 10 decidido por maioria, com Flávia Takafashi vencida (premissas do fluxo de caixa).",
+   "Itens 8, 11 e 12 (reajustes de travessias na Região Norte): o Diretor-Geral firmou entendimento de limitar aumentos acima dos índices oficiais antes da análise terminativa e determinou à SRG revisar a metodologia.",
+   "Encerramento: última reunião de Alexandre Lopes como diretor substituto (volta a ser superintendente de administração e finanças); novo diretor (Almirante) já nomeado; DG registra só dois processos com vista pendente para 2023."
+  ]
+ },
+ "itens": [
+  {
+   "id": "extrapauta-1",
+   "ts": "0:01:36",
+   "processo": "",
+   "interessado": "SDS / ANTAQ",
+   "assunto": "Proposta do Diretor-Geral: determinar à SDS que inclua na agenda de estudos de 2023 estudo sobre a preparação da infraestrutura portuária nacional para receber embarcações movidas a combustíveis menos poluentes e fornecer energia elétrica a navios atracados (especialmente cruzeiros)",
+   "tema": [
+    "sustentabilidade",
+    "descarbonização",
+    "estudos institucionais"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Acordo de Paris e esforço da IMO; sucesso depende de infraestrutura portuária preparada, com planejamento e investimentos público-privados.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "proponente, aprova",
+     "ts": "0:01:36",
+     "justificativa": "Brasil signatário do Acordo de Paris; transporte responde por parcela pequena das emissões mas há espaço para contribuição; infraestrutura portuária precisa estar preparada para os novos navios",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "de acordo",
+     "ts": "0:04:03",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "de acordo",
+     "ts": "0:04:05",
+     "justificativa": "alguns terminais já atualizam a infraestrutura; reforça o compromisso da agência com a sustentabilidade, junto com o estudo de mudanças climáticas aprovado na véspera",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "extrapauta-2",
+   "ts": "0:05:27",
+   "processo": "",
+   "interessado": "SDS / GMS (ANTAQ)",
+   "assunto": "Proposta do Diretor-Geral: determinar à SDS que apresente até o fim de janeiro de 2023 plano de ação, com metas e cronograma, para avaliar a viabilidade de um inventário de emissões de gases de efeito estufa do setor portuário (portos e empresas de navegação), a incluir na Agenda Ambiental 2023-2024",
+   "tema": [
+    "sustentabilidade",
+    "inventário de emissões",
+    "agenda ambiental"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Inventário unificado como ferramenta de gestão, aproveitando a base estatística da agência; trabalho inédito que exige planejamento.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "proponente, aprova",
+     "ts": "0:05:27",
+     "justificativa": "inventário permitiria mapear fontes e apoiar estratégias de redução de GEE, como o estatístico aquaviário faz para cargas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "de acordo",
+     "ts": "0:08:59",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "de acordo",
+     "ts": "0:08:59",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "0:13:22",
+   "processo": "50300.018753/2022-?",
+   "interessado": "Aratu Portuária SPE S.A. (ATU 18, controlada pela CS Brasil); Intermarítima Portos e Logística (impugnante, sustentação oral); CODEBA",
+   "assunto": "Nova autorização especial e emergencial para movimentação e armazenagem de fertilizantes (carga não prevista no contrato de arrendamento ATU 18), Porto de Aratu-Candeias (BA)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "autorização especial emergencial",
+    "fertilizantes",
+    "sustentação oral",
+    "pedido de vista",
+    "medida cautelar"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "pedido de vista de Flávia Takafashi; aprovada por unanimidade medida cautelar autorizando as operações até a deliberação de mérito",
+   "resumo_voto": "Relator votou por nova autorização de 180 dias (emergência mantida: ATU 12 sem licenciamento e prazo de 3 anos para equipar; TCU não se opôs à autorização precária), por cobrança não inferior à tabela tarifária e manutenção de acesso restrito; diante da vista e do vencimento da autorização em 05/12, propôs em questão de ordem cautelar até o julgamento do mérito.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, autoriza por 180 dias; propõe cautelar até o mérito",
+     "ts": "0:25:35",
+     "justificativa": "persistem as condições de emergência; risco de interrupção no escoamento de fertilizantes; TCU não se opôs à autorização especial de caráter precário; argumentos da Intermarítima não acolhidos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "pede vista; acompanha a cautelar",
+     "ts": "0:27:39",
+     "justificativa": "não se trata da inclusão perene da carga (já enfrentada no TCU), mas da manutenção da autorização emergencial do art. 49 da Lei 10.233; quer analisar melhor; cautelar por segurança jurídica até o retorno do processo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "acompanha a proposta de cautelar",
+     "ts": "0:27:39",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:30:11",
+   "processo": "50300.0?0382/2022-89",
+   "interessado": "DNIT (requerente); Aquavia Navegação e Comércio Ltda. e Sindicato das empresas de navegação de Guajará-Mirim (impugnantes; sustentação oral do advogado Ramon Souza Rodrigues)",
+   "assunto": "Registro de instalação portuária pública de pequeno porte (IP4) do DNIT em Guajará-Mirim (RO), com impugnação",
+   "tema": [
+    "registro de instalação portuária",
+    "IP4",
+    "navegação interior",
+    "travessia Brasil-Bolívia",
+    "sustentação oral"
+   ],
+   "relator": "Alexandre Lopes (diretor substituto)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Impugnação não conhecida por intempestiva (publicação em 04/07/2022, prazo de 10 dias da RN 13); registro deferido com base no parecer referencial da PGF; registro não desonera exigências de Marinha, bombeiros, aduana e meio ambiente.",
+   "votos": [
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "relator, defere o registro e não conhece da impugnação",
+     "ts": "0:46:55",
+     "justificativa": "prazo de impugnação transcorrido; requisitos da RN 13/2016 atendidos; proposta alternativa de segmentação do mercado sem previsão legal",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "0:47:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "0:47:48",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:47:57",
+   "processo": "50300.0?6569/2022-96",
+   "interessado": "ANTAQ (Secretaria-Geral)",
+   "assunto": "Referendo da Deliberação DG 147/2022: alteração do calendário de reuniões do 2º semestre de 2022 (inclusão da 28ª Reunião Extraordinária em 06/12 e antecipação da 534ª ROD para 07/12)",
+   "tema": [
+    "institucional",
+    "calendário de reuniões",
+    "referendo"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Referendo de ato ad referendum publicado com antecedência.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, referenda",
+     "ts": "0:48:58",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "acompanha",
+     "ts": "0:49:10",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha",
+     "ts": "0:49:10",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:49:20",
+   "processo": "50300.020055/2022-43",
+   "interessado": "Brasbanca (?) Participações S.A.",
+   "assunto": "Referendo de deliberação (nº 150 ou 170/2022) que concedeu autorização em caráter especial e emergencial por 180 dias (quarta autorização) para instalação portuária com contrato de adesão 9/2020 de eficácia suspensa por falta de comprovação de direito de uso da área junto à SPU",
+   "tema": [
+    "autorização de TUP",
+    "autorização especial emergencial",
+    "referendo"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Condições de operação mantidas desde a primeira autorização; SOG favorável; vencimento em 23/11 sem tempo para pauta.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, referenda",
+     "ts": "0:51:02",
+     "justificativa": "condições mantidas; autorização vencia em 23/11",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "acompanha",
+     "ts": "0:51:05",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha",
+     "ts": "0:51:05",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:51:10",
+   "processo": "50300.0?/2022-11",
+   "interessado": "Duarte Albuquerque Comércio e Indústria Ltda. (denunciante); Fastship Agenciamento de Cargas Ltda.; CMA CGM e CMA CGM do Brasil Agência Marítima Ltda.",
+   "assunto": "Referendo da Deliberação DG 152/2022: medida cautelar em denúncia de cobrança supostamente indevida de detention sobre 20 contêineres (cerca de R$ 106 mil) após alterações de deadline pelo transportador",
+   "tema": [
+    "serviços nos terminais (sobre-estadia/detention)",
+    "fiscalização",
+    "medida cautelar",
+    "navegação de longo curso",
+    "referendo"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Presentes os pressupostos para a cautelar; terminal só abriu o gate após alteração de deadline do próprio transportador; autos à SFC para o mérito.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, referenda",
+     "ts": "0:53:26",
+     "justificativa": "plausibilidade do direito e perigo na demora; alteração de programação admitida pelo transportador",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "acompanha a relatora",
+     "ts": "0:53:42",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a relatora",
+     "ts": "0:53:47",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:54:03",
+   "processo": "50300.018799/2022-06",
+   "interessado": "Cecafé (Conselho dos Exportadores de Café do Brasil) por Cafebras Comércio de Cafés do Brasil S.A.; Mediterranean Shipping Company (MSC) e MSC do Brasil",
+   "assunto": "Referendo da Deliberação DG 148/2022: cautelar parcial suspendendo cobranças de detention (cerca de R$ 6.034,40) após alterações de deadline, com vedação de medidas discriminatórias e notificação da MSC",
+   "tema": [
+    "serviços nos terminais (sobre-estadia/detention)",
+    "fiscalização",
+    "medida cautelar",
+    "navegação de longo curso",
+    "referendo"
+   ],
+   "relator": "Alexandre Lopes (diretor substituto)",
+   "resultado": "referendado (votos dos demais não audíveis)",
+   "resumo_voto": "Parecer técnico 1/2022 da SFC: plausibilidade e perigo na demora quanto a um BL; não comprovado quanto a outro; SFC instrui o mérito.",
+   "votos": [
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "relator, referenda",
+     "ts": "0:57:12",
+     "justificativa": "acompanha o parecer técnico da SFC; cautelar parcial",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha (presumido)",
+     "ts": "0:59:15",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha (presumido)",
+     "ts": "0:59:15",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:59:16",
+   "processo": "50300.0?1889/2022-?",
+   "interessado": "Cecafé por Cafebras Comércio de Cafés do Brasil S.A.; DHL Global Forwarding Brasil Logística Ltda.",
+   "assunto": "Referendo da Deliberação DG 149/2022: cautelar suspendendo cobrança de detention (fatura de cerca de R$ 26.223,65) por indisponibilidade de janelas no terminal e cobrança de dias a mais",
+   "tema": [
+    "serviços nos terminais (sobre-estadia/detention)",
+    "fiscalização",
+    "medida cautelar",
+    "agente de cargas",
+    "referendo"
+   ],
+   "relator": "Alexandre Lopes (diretor substituto)",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Parecer técnico 3 da SFC; presentes os pressupostos; notificação da DHL em 15 dias; SFC instrui o mérito.",
+   "votos": [
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "relator, referenda",
+     "ts": "1:02:16",
+     "justificativa": "plausibilidade do direito e perigo na demora",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "1:03:51",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha",
+     "ts": "1:03:55",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "1:04:00",
+   "processo": "50300.002893/2021-36",
+   "interessado": "Ministério da Infraestrutura; concessão do Porto Organizado de Itajaí (SC)",
+   "assunto": "Referendo da Deliberação DG 151/2022: atualização dos estudos técnicos e jurídicos da concessão do Porto de Itajaí (criação do índice de reajustamento do contrato IRC com câmbio e diesel marítimo, fator TPB como parâmetro da concessão, tarifa-teto na tabela 1 sem limite de desconto, inventário de bens)",
+   "tema": [
+    "concessão de porto organizado",
+    "desestatização",
+    "tarifas portuárias",
+    "PPI",
+    "TCU",
+    "referendo"
+   ],
+   "relator": "Alexandre Lopes (diretor substituto)",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Após reuniões MInfra/ANTAQ/TCU, SRG mudou de entendimento: custos não gerenciáveis de dragagem justificam IRC anual revisável quinquenalmente; tarifa-teto sem limite de desconto dada a homogeneidade das cargas Itajaí-Navegantes, cabendo à ANTAQ coibir abusos.",
+   "votos": [
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "relator, referenda",
+     "ts": "1:11:29",
+     "justificativa": "dragagem é a maior parcela do custo operacional; IRC dá clareza e flexibilidade regulatória; dispersão tarifária pouco efetiva",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "1:12:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "1:12:52",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "1:13:03",
+   "processo": "50300.007101/2022-19",
+   "interessado": "MJP Monteiro (empresa de navegação interior)",
+   "assunto": "Reajuste de preços da travessia/linha de passageiros e veículos Manaus–Tabatinga (AM) (retorno de vista do Diretor-Geral)",
+   "tema": [
+    "navegação interior",
+    "transporte de passageiros",
+    "reajuste de preços",
+    "Região Norte",
+    "voto-vista",
+    "regulação normativa"
+   ],
+   "relator": "Alexandre Lopes (diretor substituto)",
+   "resultado": "aprovado por unanimidade (proposta única: relator incorporou o voto-vista)",
+   "resumo_voto": "Pedido médio de 86,67% (Manaus–Tabatinga de R$ 600 para R$ 1.120); aprovado só reajuste linear até 21,23% (IGP-M fev/2021–out/2022); firmado entendimento de que em mercados moderados e não competitivos o aumento não pode superar índices oficiais antes da análise terminativa; SRG deve reavaliar a metodologia (Res. 68/2021) para pontuar proporcionalmente aumentos muito acima dos índices.",
+   "votos": [
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "relator, aprova com ressalvas; depois incorpora o voto-vista",
+     "ts": "1:14:01",
+     "justificativa": "metodologia multicritério resultou em preço justificado, com ressalvas sobre eficiência operacional; acolhe a preocupação com o usuário da Região Norte",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "voto-vista: aprova parcialmente (IGP-M 21,23%) e propõe salvaguarda e revisão da metodologia",
+     "ts": "1:17:40",
+     "justificativa": "aumentos de 87% a 146% equivalem a quase meio salário mínimo; renda per capita do AM de R$ 800; usuários difusos não recorrem; danos de aumentos imediatos são irreversíveis; metodologia não diferencia magnitude acima de 80%",
+     "tom": "preocupação com o usuário; elogia a área técnica",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha",
+     "ts": "1:29:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "1:30:02",
+   "processo": "50300.008451/2016-54",
+   "interessado": "ANTAQ (SRG; agenda regulatória 2022-2024, tema 4.2)",
+   "assunto": "Norma sobre critérios e procedimentos para celebração de Termo de Compromisso de Ajuste de Conduta (TAC) (retorno de vista do Diretor-Geral)",
+   "tema": [
+    "regulação normativa",
+    "TAC",
+    "fiscalização e sanções",
+    "agenda regulatória",
+    "voto-vista"
+   ],
+   "relator": "Alexandre Lopes (diretor substituto)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "TAC com caráter reparador e compensatório, discricionário na celebração e vinculante depois; arquivamento do processo sancionador com a celebração; competência da Diretoria Colegiada, delegável.",
+   "votos": [
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "relator, aprova a norma",
+     "ts": "1:38:57",
+     "justificativa": "TAC é ferramenta regulatória não punitiva; inovações: arquivamento com a celebração, caráter reparador, procedimento com contraditório",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "voto-vista: acompanha o relator (contribuições incorporadas)",
+     "ts": "1:39:53",
+     "justificativa": "contribuições pontuais à minuta foram incorporadas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha",
+     "ts": "1:40:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "1:40:36",
+   "processo": "50300.009135/2022-48",
+   "interessado": "ADM do Brasil Ltda. (contrato de arrendamento PRES 041/97, Porto de Santos); Ministério da Infraestrutura",
+   "assunto": "Cálculo do VPL para cenários de prorrogação de 10 anos e redução de 25%, 50% e 75% das obrigações de arrendamento, para compensar reequilíbrio pela moega ferroviária 10 (retorno de vista de Flávia Takafashi)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "reequilíbrio econômico-financeiro",
+    "prorrogação de contrato",
+    "voto-vista",
+    "divergência"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por maioria (2 x 1); Flávia Takafashi vencida",
+   "resumo_voto": "Relator: usar o fluxo de caixa da prorrogação antecipada de 2014 (premissas da GPO), com VPL negativo de 42, 27 e 12 milhões nos três cenários; decisão de compensar cabe ao poder concedente; prorrogar sem reduzir valores contribui pouco.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, comunica VPL pelas premissas de 2014",
+     "ts": "1:47:33",
+     "justificativa": "a segunda prorrogação decorre do reequilíbrio de 2014; fluxo marginal da moega não considerou ganho de produtividade; a própria arrendatária usou essas premissas antes de provocada pela SOG",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "voto-vista: diverge (premissas de 2020; VPL negativo de 66,2, 49,5 e 33,7 milhões)",
+     "ts": "1:51:43",
+     "justificativa": "o VPL de cerca de 95 milhões decorre de investimentos aprovados em 2020, logo os fluxos de caixa devem ser os de 2020; questão de premissa metodológica; compensação compete ao poder concedente",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "acompanha o relator",
+     "ts": "1:53:46",
+     "justificativa": "conversou com o superintendente; tese do fluxo de 2014 guarda maior aderência à equação econômico-financeira do contrato",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "1:54:33",
+   "processo": "50300.009778/2022-91",
+   "interessado": "FM (?) Navegações Ltda.",
+   "assunto": "Reajuste de preços da linha de passageiros e veículos Macapá (AP)–Afuá (PA) (retorno de vista do Diretor-Geral)",
+   "tema": [
+    "navegação interior",
+    "transporte de passageiros",
+    "reajuste de preços",
+    "Região Norte",
+    "voto-vista"
+   ],
+   "relator": "Alexandre Lopes (diretor substituto)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprovado com ressalvas (correções a apresentar em novos pedidos); SFC apura falta de envio de dados de movimentação.",
+   "votos": [
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "relator, aprova com ressalvas",
+     "ts": "1:59:05",
+     "justificativa": "preço justificado pela metodologia, com ressalvas de eficiência operacional",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "voto-vista: acompanha integralmente",
+     "ts": "1:59:44",
+     "justificativa": "reajuste de cerca de 16%, abaixo do limite; empresas autorizadas operam sem investimento público, por isso o cuidado: negar reajuste pode inviabilizar a prestação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "2:01:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "2:01:35",
+   "processo": "50300.010801/2022-91",
+   "interessado": "CPA (?) Dias Eireli",
+   "assunto": "Reajuste de preços da linha de passageiros e veículos Laranjal do Jari (AP)–Santarém (PA) (retorno de vista do Diretor-Geral)",
+   "tema": [
+    "navegação interior",
+    "transporte de passageiros",
+    "reajuste de preços",
+    "Região Norte",
+    "voto-vista"
+   ],
+   "relator": "Alexandre Lopes (diretor substituto)",
+   "resultado": "aprovado por unanimidade (proposta única)",
+   "resumo_voto": "Voto-vista: reajuste de 26% acima dos índices oficiais (média de 8,3%), empresa única autorizada no trecho; deferimento parcial limitado ao IGP-M (set/2021–out/2022); novo pedido condicionado às exigências da SRG. O relator acolheu.",
+   "votos": [
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "relator, aprova com ressalvas; acolhe o voto-vista",
+     "ts": "2:03:51",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "voto-vista: deferimento parcial pelo IGP-M",
+     "ts": "2:05:09",
+     "justificativa": "mercado moderado e empresa única; informações insuficientes para presumir eficiência operacional; coerência com o item 8",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha",
+     "ts": "2:07:45",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "2:07:52",
+   "processo": "50300.010899/2020-14",
+   "interessado": "ANTAQ (agenda regulatória 2020-2021, item 2.2)",
+   "assunto": "Análise de impacto regulatório para metodologia de abusividade na cobrança de estadia de contêineres (demurrage) — relator original José Renato Fialho, que já votou; vista de Flávia Takafashi",
+   "tema": [
+    "serviços nos terminais (sobre-estadia/demurrage)",
+    "regulação normativa",
+    "AIR",
+    "pedido de vista"
+   ],
+   "relator": "José Renato Fialho",
+   "resultado": "vista renovada",
+   "resumo_voto": "Flávia pede renovação da vista pela complexidade; meta de posicionamento no início de 2023, com os novos diretores.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "pede renovação de vista",
+     "ts": "2:08:50",
+     "justificativa": "complexidade da matéria",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "de acordo com a renovação",
+     "ts": "2:09:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "de acordo com a renovação",
+     "ts": "2:09:05",
+     "justificativa": "complexidade; meta de decidir até o início do ano",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "2:09:27",
+   "processo": "50300.015413/2022-04",
+   "interessado": "Ministério da Infraestrutura (DGMP/SNPTA); Porto de São Sebastião (SP) / Governo do Estado de São Paulo",
+   "assunto": "Consulta sobre os bens do termo de cessão de uso do Porto de São Sebastião: período da cláusula de reversão, motivação da indenização de investimentos não amortizados e tomada de contas final da concessão (retorno de vista de Flávia Takafashi)",
+   "tema": [
+    "porto organizado delegado",
+    "reversão de bens",
+    "consulta do poder concedente",
+    "voto-vista"
+   ],
+   "relator": "Alexandre Lopes (diretor substituto)",
+   "resultado": "aprovado por unanimidade (relator incorporou o voto-vista)",
+   "resumo_voto": "Cláusula refere-se ao período da delegação; tomada de contas final (proc. 50300.000400/2009-55) só aponta valores finais; acerto de contas União–Estado fora da competência da ANTAQ; por proposta de Flávia, a motivação da indenização passa a citar o art. 36 da Lei 8.987/1995.",
+   "votos": [
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "relator, responde à consulta; acolhe a complementação",
+     "ts": "2:20:47",
+     "justificativa": "pacta sunt servanda e vedação ao enriquecimento sem causa; acerto de contas compete a comissão paritária",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "voto-vista: acompanha com complementação (art. 36 da Lei 8.987/1995)",
+     "ts": "2:22:30",
+     "justificativa": "referir só à cláusula do convênio não esclarece a dúvida do poder concedente; a indenização decorre da lei",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:24:32",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "2:24:41",
+   "processo": "50300.019365/2021-34",
+   "interessado": "NFE (?) Brasil Participações (legenda: «NFL Brasil participações»)",
+   "assunto": "Consulta sobre aplicabilidade do registro (RN 13/2016) a instalações flutuantes de regaseificação de GNL (FSRU), dentro e fora da poligonal do porto organizado (retorno de vista de Flávia Takafashi)",
+   "tema": [
+    "registro de instalação portuária",
+    "GNL / FSRU",
+    "porto organizado",
+    "contrato de uso temporário / espelho d'água",
+    "consulta",
+    "voto-vista"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por unanimidade, com a complementação da resposta 1 proposta por Flávia Takafashi",
+   "resumo_voto": "Dentro da poligonal: FSRU fundeada pode usar registro (com tarifa portuária) ou contrato de espelho d'água (regras do uso temporário, Acórdão 103/113-2022); atracada em estrutura fixa: arrendamento, transição ou uso temporário; nunca cessão onerosa; fora do porto: registro, dispensado em área de TUP cujo contrato preveja FSRU. Ressalva do relator contra o entendimento de que áreas de cessão onerosa ficam fora da regulação.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, responde à consulta; acolhe a complementação",
+     "ts": "2:34:26",
+     "justificativa": "RN 13 prevê expressamente o registro; mudanças só via avaliação de resultado regulatório com evidências; ressalva: nome do instrumento (cessão onerosa) não afasta regulação de área operacional",
+     "tom": "ressalva crítica ao entendimento vigente sobre cessão onerosa",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "acompanha o relator",
+     "ts": "2:38:01",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "voto-vista: acompanha no mérito com complementação da resposta 1 (fundeada x atracada)",
+     "ts": "2:41:32",
+     "justificativa": "distinguir FSRU fundeada (registro ou contrato de espelho d'água) de atracada em berço (instrumentos operacionais); a agência deve analisar o que é área operacional, sob pena de ocupação de áreas do porto sem os instrumentos operacionais",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "2:47:23",
+   "processo": "50300.008524/2022-56",
+   "interessado": "Ministério da Infraestrutura / SNPTA; Porto Organizado do Rio de Janeiro",
+   "assunto": "Aprovação das minutas de edital e contrato da licitação de arrendamento RDJ06 (granéis líquidos, óleos básicos; 13.560 m², 15 tanques, investimento estimado de 22 milhões)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "licitação",
+    "granel líquido"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Dispensa de audiência pública (art. 11, §3º, Decreto 8.033); ressalvas à SNPTA sobre coordenadas e remuneração por m²; informar ao MInfra penhora por execução fiscal sobre o terreno.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, aprova as minutas",
+     "ts": "2:50:18",
+     "justificativa": "conveniência de licitar com a penhora cabe ao Ministério, sem prejuízo dos alertas da agência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "acompanha o relator",
+     "ts": "2:51:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha",
+     "ts": "2:51:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "2:51:33",
+   "processo": "50300.010185/2022-78",
+   "interessado": "Polimix Concreto Ltda.",
+   "assunto": "Registro de instalação de apoio ao transporte aquaviário em Manaus (AM) para descarga de matéria-prima e carregamento de sacos de cimento; SOG entendia que seria caso de autorização (TUP)",
+   "tema": [
+    "registro de instalação portuária",
+    "autorização de TUP",
+    "navegação interior",
+    "isonomia regulatória"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Operação simples (equipamentos do art. 2º, V, RN 13); embora movimente mais de 200 mil t/ano, não há balizador de volume na RN 13 e há precedentes de registro (Porto Galo da Serra); critério de volume deve vir da avaliação de resultado regulatório, ouvindo o setor.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, defere o registro",
+     "ts": "2:59:09",
+     "justificativa": "registro leva cerca de 90 dias e TUP mais de um ano; negar sem critério normativo violaria a isonomia; aprimoramento deve vir com AIR/ARR",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "acompanha o relator",
+     "ts": "2:59:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "2:59:44",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "2:59:58",
+   "processo": "50300.016127/2021-?",
+   "interessado": "ANTAQ (agenda plurianual de estudos 2021-2024, item E11); SUSEP; ABGF; Marinha",
+   "assunto": "Relatório final do estudo sobre a disponibilidade do seguro obrigatório DPEM na Região Norte",
+   "tema": [
+    "navegação interior",
+    "seguro DPEM",
+    "estudos",
+    "Região Norte",
+    "segurança da navegação"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Nenhuma seguradora oferece o DPEM (ineficácia do fundo garantidor, inadimplência, judicialização); só 3 de 107 EBNs da navegação interior tinham seguro; embarcações de madeira excluídas do mercado; propõe plano de trabalho conjunto com ABGF/SUSEP/Marinha.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, aprova o relatório",
+     "ts": "3:07:17",
+     "justificativa": "tema não deve ser esquecido com a aprovação; articular modelo de seguro adequado à Amazônia",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "acompanha",
+     "ts": "3:07:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "3:07:57",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "3:08:07",
+   "processo": "50300.019548/2022-31",
+   "interessado": "Enseada Indústria Naval S.A.",
+   "assunto": "Autorização especial e emergencial por 180 dias para movimentar e armazenar granéis sólidos (minério de ferro, manganês, coque metalúrgico, barrilha) em terminal já apto",
+   "tema": [
+    "autorização de TUP",
+    "autorização especial emergencial",
+    "granel sólido"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado",
+   "resumo_voto": "Decisão anterior reconheceu inclusão de granel sólido sem limitação de mercadoria; SFC acompanha os desdobramentos.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, defere",
+     "ts": "3:09:41",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "acompanha o relator",
+     "ts": "3:10:19",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha (não audível)",
+     "ts": "3:10:22",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "23",
+   "ts": "3:10:46",
+   "processo": "50300.0?25/2021-35",
+   "interessado": "CODEBA (Companhia das Docas do Estado da Bahia) — Porto de Aratu",
+   "assunto": "Diferimento da entrada em vigor da nova estrutura tarifária do Porto de Aratu (Deliberação 142/2022) até 02/01/2023 — votado em bloco com os itens 29 e 30",
+   "tema": [
+    "tarifas portuárias",
+    "autoridade portuária",
+    "julgamento em bloco"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado por unanimidade (bloco 23, 29 e 30)",
+   "resumo_voto": "SRG: a autoridade portuária já deveria ter se preparado, mas o prazo adicional dá segurança; efeitos financeiros compensados na próxima revisão; ampla publicidade.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, defere até 02/01/2023",
+     "ts": "3:12:07",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "acompanha (propõe votação em bloco)",
+     "ts": "3:13:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha",
+     "ts": "3:14:44",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "29",
+   "ts": "3:13:11",
+   "processo": "50300.002498/2021-71",
+   "interessado": "CODEBA — Porto de Salvador",
+   "assunto": "Diferimento da entrada em vigor da nova estrutura tarifária (Porto de Salvador) até 02/01/2023 — votado em bloco com o item 23",
+   "tema": [
+    "tarifas portuárias",
+    "autoridade portuária",
+    "julgamento em bloco"
+   ],
+   "relator": "Alexandre Lopes (diretor substituto)",
+   "resultado": "aprovado por unanimidade (bloco 23, 29 e 30)",
+   "resumo_voto": "Mesmos termos do item 23.",
+   "votos": [
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "relator, defere até 02/01/2023 (em bloco)",
+     "ts": "3:13:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "de acordo",
+     "ts": "3:14:44",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha",
+     "ts": "3:14:44",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "30",
+   "ts": "3:13:11",
+   "processo": "50300.002495/2021-38",
+   "interessado": "CODEBA — outro porto da CODEBA (legenda: «Deus», provavelmente Ilhéus)",
+   "assunto": "Diferimento da entrada em vigor da nova estrutura tarifária (outro porto da CODEBA (legenda: «Deus», provavelmente Ilhéus)) até 02/01/2023 — votado em bloco com o item 23",
+   "tema": [
+    "tarifas portuárias",
+    "autoridade portuária",
+    "julgamento em bloco"
+   ],
+   "relator": "Alexandre Lopes (diretor substituto)",
+   "resultado": "aprovado por unanimidade (bloco 23, 29 e 30)",
+   "resumo_voto": "Mesmos termos do item 23.",
+   "votos": [
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "relator, defere até 02/01/2023 (em bloco)",
+     "ts": "3:13:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "de acordo",
+     "ts": "3:14:44",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha",
+     "ts": "3:14:44",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "24",
+   "ts": "3:14:59",
+   "processo": "50300.003830/2022-04",
+   "interessado": "Terminal 39 de Santos S.A. (T39); Santos Port Authority (SPA); MInfra/SNPTA",
+   "assunto": "Reequilíbrio econômico-financeiro do contrato de arrendamento 01/97 (Porto de Santos): expansão de área (30.349 m²) com novo plano de investimentos (dois silos verticais) e exclusão de investimentos da fase 3 do 2º termo aditivo",
+   "tema": [
+    "arrendamento em porto organizado",
+    "reequilíbrio econômico-financeiro",
+    "Porto de Santos"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado (votos dos demais não audíveis)",
+   "resumo_voto": "VPL negativo de 198,3 milhões (abril/2022); mantida a condição da prorrogação antecipada; IPTU/ISS fazem parte da matriz de risco da arrendatária; sem risco concorrencial; recomendações ao poder concedente; sigilo dos autos.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, aprova o reequilíbrio",
+     "ts": "3:20:16",
+     "justificativa": "SOG e SRG favoráveis; adimplência atestada; pleito de IPTU/ISS rejeitado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "acompanha (presumido)",
+     "ts": "3:23:02",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha (presumido)",
+     "ts": "3:23:02",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "ts": "3:23:18",
+   "processo": "50300.018665/2022-87",
+   "interessado": "Vetorial Logística Ltda. (Porto Correia / TUP Vetorial, Corumbá-MS, rio Paraguai); Vetorial Mineração e Siderúrgica",
+   "assunto": "Autorização especial e emergencial por 180 dias (a partir de 15/01/2023) para movimentar minério de ferro e ferro-gusa, antes da celebração do contrato de adesão",
+   "tema": [
+    "autorização de TUP",
+    "autorização especial emergencial",
+    "navegação interior",
+    "hidrovia do Paraguai",
+    "minério"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Condicionada a vistoria da ANTAQ, certificado dos bombeiros e licença municipal; pedido de outorga em estágio avançado (item 25 retirado só para ajuste pontual).",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, autoriza com condicionantes",
+     "ts": "3:27:17",
+     "justificativa": "precedente da agência; segurança operacional e emergência justificadas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "acompanha a relatora",
+     "ts": "3:29:17",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha, com registro",
+     "ts": "3:29:21",
+     "justificativa": "cria precedente; propõe critério: autorização especial sem contrato de adesão só quando já houver posicionamento favorável da agência à outorga",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "28",
+   "ts": "3:31:49",
+   "processo": "50300.001515/2014-?",
+   "interessado": "ANTAQ (SRG)",
+   "assunto": "Alteração da Resolução ANTAQ 62/2021 (direitos e deveres de usuários, agentes intermediários e empresas de navegação de apoio, cabotagem e longo curso): adequação à Lei 14.301/2022 (BR do Mar), correção de remissão do art. 43 e supressão da nota de suspensão judicial do art. 42 (alcança só a MSC)",
+   "tema": [
+    "regulação normativa",
+    "navegação e afretamento (cabotagem, longo curso, apoio)",
+    "BR do Mar",
+    "direitos dos usuários"
+   ],
+   "relator": "Alexandre Lopes (diretor substituto)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Ajustes formais sem novos direitos ou obrigações, dispensada audiência pública (art. 68 da Lei 10.233); cobrança de taxas pela MSC não é infração enquanto vigente a decisão judicial.",
+   "votos": [
+    {
+     "diretor": "Alexandre Lopes (diretor substituto)",
+     "voto": "relator, aprova a norma",
+     "ts": "3:37:26",
+     "justificativa": "alterações meramente formais",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "3:37:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "3:37:45",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "16 — processo 50300.002198/2019-78",
+   "relator": "Eduardo Nery",
+   "motivo": "retirado por despacho nos autos",
+   "ts": "2:47:08"
+  },
+  {
+   "item": "22 — processo 50300.023843/2021-9?",
+   "relator": "Eduardo Nery",
+   "motivo": "retirado antes do início da reunião, por despacho",
+   "ts": "3:10:31"
+  },
+  {
+   "item": "25 — outorga (contrato de adesão) da Vetorial Logística, TUP em Corumbá",
+   "relator": "Flávia Takafashi",
+   "motivo": "ajuste pontual na deliberação; volta na sessão seguinte",
+   "ts": "3:23:10"
+  },
+  {
+   "item": "27 — processo 50300.022939/...",
+   "relator": "Alexandre Lopes (diretor substituto)",
+   "motivo": "retirado pelo relator",
+   "ts": "3:31:41"
+  }
+ ],
+ "limites_da_analise": [
+  "'Alexandre Lopes' (legenda: 'Alexandre Gomes Lopes') não está na lista canônica do prompt; registrado como diretor substituto, como em 4i76UBzbHpo; ele mesmo diz voltar à função de superintendente de administração e finanças.",
+  "O cabeçalho do .md lista falantes inferidos (Frederico Dias, José Renato Fialho) que não participaram; os presentes são Nery, Flávia e Alexandre Lopes.",
+  "Números de processo parciais ou distorcidos pela legenda (marcados com '?'); nomes de empresas incertos: Brasbanca (item 3), FM Navegações (item 11), CPA/CDA Dias (item 12), NFE Brasil (item 15), terceiro porto da CODEBA (item 30).",
+  "Itens 5 e 24: votos dos demais diretores não audíveis; registrados como 'acompanha (presumido)' com confiança baixa. Item 21: voto de Flávia não audível.",
+  "Item 15: o falante do voto-vista (complementação da resposta 1 e comentário sobre áreas operacionais) foi atribuído a Flávia Takafashi porque o DG diz 'acompanho a proposta da Flávia'; a legenda mistura falas de Alexandre e Flávia.",
+  "Itens 29 e 30 (relator Alexandre) foram julgados em bloco com o item 23, sem leitura de voto próprio.",
+  "Item 13: relator original José Renato Fialho (já votara em reunião anterior); nesta sessão só houve renovação de vista."
+ ]
+}

@@ -1,0 +1,6 @@
+id,cadeira,inicio,fim,dias,aberta,preenchida_por,interinos,confianca,fonte
+V1,"Diretoria-Geral (fim do mandato de Mário Povia, 18/02/2020)",2020-02-19,2020-11-02,258,False,Eduardo Nery (posse 03/11/2020),Francisval Mendes (DG substituto); Gabriela Costa e Joelson Miranda (substitutos),media,mandatos.json (Senado/DOU) + votos nas reuniões
+V2,"Diretoria (fim do mandato de Francisval Mendes, fev/2021)",2021-02-19,2021-07-19,151,False,Flávia Takafashi (DOU 20/07/2021),Gabriela Costa (substituta),media,mandatos.json + despedida de Francisval na 494ª (03/02/2021)
+V3,"Diretoria (fim do mandato de Adalberto Tokarski, fev/2022)",2022-02-19,2022-12-13,298,False,Lima Filho (posse 14/12/2022),José Renato Fialho; Alexandre Lopes (substitutos),media,"mandatos.json + última reunião de Tokarski (516ª, fev/2022)"
+V4,"Diretoria-Geral (fim do mandato de Eduardo Nery, 18/02/2025)",2025-02-19,2025-08-27,190,False,Frederico Dias (DOU 29/08/2025),Caio Farias (DG substituto/interino),alta,"mandatos.json (Senado MSF 43/2025, DOU)"
+V5,"Diretoria (fim do mandato de Flávia Takafashi, 18/02/2026)",2026-02-19,,265,True,vaga em aberto,"Cristina Castro (substituta, fev–ago/2026); Alexandre Florambel (substituto desde 18/08/2026)",media,mandatos.json + votos 2026

@@ -1,0 +1,518 @@
+# Itens do tema «servicos_terminais» (todos os diretores)
+
+- **RD 455 (2019-01-31)**, 45 · relator **Francisval Mendes** · Comunicação de aumento de capacidade de armazenagem de TUP sem ampliação de área → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=4010s)
+- **RD 455 (2019-01-31)**, 59 · relator **Francisval Mendes** · Pedido de providências por suposta usurpação de competência da ANTAQ (Portaria ALF/STS 27/2016 — escaneamento de contêineres para a Europa) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=6355s)
+- **RD 455 (2019-01-31)**, 81 · relator **Adalberto Tokarski** · Referendo de medida cautelar (Resolução 6509): proibição de fertilizantes no cais do Saboó (Porto de Santos) → referendado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=10527s)
+- **RD 459 (2019-04-15)**, 41 · relator **Adalberto Tokarski** · Consulta: reconhecer a greve dos caminhoneiros (maio/2018) como caso fortuito/força maior para sobre-estadia e armazenagem → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=6664s)
+- **RD 462 (2019-05-30)**, 2 · relator **Adalberto Tokarski** · Processo sancionador: cobrança indevida de armazenagem adicional ao exportador (art. 10 da Res. 2.389), infração do inciso 38 do art. 32 da Res. 3.274 → aprovado nos termos do voto-vista de Francisval Mendes: multa de R$ 175 mil (dosimetria da
+  - votos: Adalberto: vencido; Francisval: revisor_diverge; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=1224s)
+- **RD 462 (2019-05-30)**, 19 · relator **Mário Povia** · Revisão da norma aprovada pela Resolução 2.389/2012 (movimentação e armazenagem de contêineres: THC, SSE/THC2, franquia, entrega em trânsito aduaneiro → voto do relator proferido (aprovação do texto revisado, sem nova audiência pública); vista
+  - votos: Mário: relator; Francisval: vista; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=5859s)
+- **RD 462 (2019-05-30)**, 28 · relator **Adalberto Tokarski** · Pedido de reconsideração contra multa de R$ 300 mil (Acórdão 108/2018) por cobrança indevida de armazenagem adicional ao exportador (art. 10 da Res. 2 → voto do relator proferido (provimento parcial, multa reduzida a R$ 100 mil); vista de Fran
+  - votos: Adalberto: relator; Francisval: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=8563s)
+- **RD 463 (2019-06-26)**, 32 · relator **Francisval Mendes** · Consulta sobre cobrança, pelo terminal privado do Pecém, de valores das empresas de rebocagem pelo uso da infraestrutura; notícia do sindicato contra  → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=4975s)
+- **RD 463 (2019-06-26)**, 55 · relator **Mário Povia** · Referendo da Resolução 6658-ANTAQ, que indeferiu medida cautelar para suspender cobranças de sobre-estadia de contêineres (demurrage) dos associados d → referendado por unanimidade e arquivado
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=11469s)
+- **RD 464 (2019-06-28)**, 1 · relator **Francisval Mendes** · Consulta sobre o uso dos dolphins do Porto do Rio de Janeiro (processo em vista) → vista renovada (Mário Povia); não deliberado
+  - votos: Mário: vista · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=34s)
+- **RD 464 (2019-06-28)**, 7 · relator **Mário Povia** · Revisão da Resolução 2.389/2012 (parâmetros da movimentação e armazenagem de contêineres; SSE/THC2), com inclusão dos TUPs e previsão de preço-teto → voto-vista de Francisval Mendes proferido (acompanha com ressalvas); processo vai à vista 
+  - votos: Mário: relator; Francisval: revisor_acompanha; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=3544s)
+- **RD 465 (2019-08-22)**, 58 · relator **Francisval Mendes** · Ampliação de área de instalação de armazenagem fora do porto organizado de Santos, ligada ao porto por dutovia (contrato de passagem) → aprovado por unanimidade, com acréscimo de ciência à CODESP e ao poder concedente
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=204s)
+- **RD 466 (2019-09-27)**, 77 · relator **Francisval Mendes** · Escaneamento de cargas (vista de Adalberto Tokarski pendente) → vista de Adalberto Tokarski mantida; voto proferido posteriormente
+  - votos: Adalberto: vista; Francisval: relator; Mário: outro · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=3234s)
+- **RD 467 (2019-10-21)**, 1 · relator **None** · Regulação de preço-teto em terminais arrendados (voto do relator já proferido) → adiado (vista renovada por Mário Povia)
+  - votos: Mário: vista · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=75s)
+- **RD 467 (2019-10-21)**, 2 · relator **Francisval Mendes** · Representação com cautelar contra majoração do SSE/THC2 (segregação e entrega de contêineres) no Porto de Santos; recursos de BTP e Libra → aprovado por unanimidade nos termos do voto do relator
+  - votos: Francisval: relator; Mário: revisor_acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=110s)
+- **RD 467 (2019-10-21)**, 10 · relator **Francisval Mendes** · Denúncia de aumento abusivo na tabela de serviços básicos (armazenagem) de arrendatário no Porto do Rio de Janeiro → aprovado por unanimidade nos termos do voto do relator
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: revisor_diverge · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=2173s)
+- **RD 467 (2019-10-21)**, 11 · relator **Francisval Mendes** · Cobrança pela inspeção não invasiva (escaneamento) de contêineres pelos terminais → aprovado por unanimidade nos termos do voto do relator
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=2620s)
+- **RD 468 (2019-11-08)**, 13 · relator **Mário Povia** · Revisão da Resolução Normativa 18/2017 (direitos e deveres de usuários, agentes intermediários e empresas na navegação de apoio, cabotagem e longo cur → aprovado: preliminar de Tokarski rejeitada por maioria (Povia e Francisval); no mérito unâ
+  - votos: Mário: relator; Adalberto: vencido; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=1672s)
+- **RD 468 (2019-11-08)**, 36 · relator **Francisval Mendes** · Denúncia de cobrança abusiva de sobre-estadia de contêineres (demurrage) por agente intermediário de carga → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=5426s)
+- **RD 470 (2019-12-12)**, 49 · relator **Mário Povia** · Referendo da Res. 7.158 que indeferiu medida cautelar (denúncia contra a Santos Brasil) e arquivamento → aprovado por unanimidade nos termos do voto condutor
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=11994s)
+- **RD 472 (2020-02-10)**, 6 · relator **Mário Povia** · Pedidos de reconsideração contra a Res. 6183-ANTAQ (cobrança de armazenagem por período e SSE/THC2 e energia elétrica no porto de Suape) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=210s)
+- **RD 473 (2020-02-10)**, 1 · relator **Francisval Mendes** · Dúvida/denúncia sobre o alcance do art. 30, III, da RN 18/ANTAQ: tutela regulatória da relação entre agentes marítimos e controladores de carga (cobra → aprovado o voto-vista do Diretor-Geral: autos restituídos à SRG para complementar a instru
+  - votos: Francisval: relator; Mário: revisor_acompanha; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=763s)
+- **RD 472 (2020-02-10)**, 30 · relator **Francisval Mendes** · Consulta sobre responsabilidade pela carga de terceiros no porto organizado → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=7323s)
+- **RD 473 (2020-02-10)**, 18 · relator **Mário Povia** · Avaliação de franquia e preço-teto para o SSE (RN 34/Acórdão 69/2019) e embargos de declaração/recursos contra o Acórdão 69/2019 → pedido de vista de Adalberto Tokarski após o voto do relator
+  - votos: Mário: relator; Adalberto: vista; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=7410s)
+- **RD 473 (2020-02-10)**, 46 · relator **Adalberto Tokarski** · Referendo da Resolução 7.497 — medida cautelar para liberação de mercadoria retida por débito de armazenagem → referendado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=11996s)
+- **RD 474 (2020-03-06)**, 22 · relator **Francisval Mendes** · Processo sancionador: cobrança indevida de armazenagem adicional ao exportador sem comprovar que ele deu causa ao atraso (art. 10 da Res. 2.389; art.  → aprovado — multa de R$ 432 mil e devolução da cobrança com atualização monetária
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=4930s)
+- **RD 477 (2020-05-10)**, 33 · relator **Adalberto Tokarski** · Referendo da Resolução 7042 (cautelar para o terminal não fechar o gate às cargas da SLC por débitos de sobre-estadia de contêiner) → aprovado por unanimidade (referendado)
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=9679s)
+- **RD 479 (2020-06-09)**, 4 · relator **Francisval Mendes** · Denúncia de cobrança indevida pela inspeção não invasiva (escaneamento) de contêineres → aprovado por unanimidade nos termos do voto do relator
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=684s)
+- **RD 479 (2020-06-09)**, 24 · relator **Adalberto Tokarski** · Consulta sobre classificação/armazenagem de cargas perigosas e explosivas no Porto de Santos (Res. 2.239 ANTAQ x Res. Codesp 44/2007) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=4583s)
+- **RD 479 (2020-06-09)**, 28 · relator **Adalberto Tokarski** · Processo sancionador: cobrança ao exportador por embarque após deadline (rolagem de carga), contrariando art. 10 da Res. 2.389 → pedido de vista (Francisval Mendes) após voto do relator
+  - votos: Adalberto: relator; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=6392s)
+- **RD 481 (2020-07-04)**, 2 · relator **Francisval Mendes** · Pedido de flexibilização/suspensão por 12 meses das cláusulas take or pay (volumes mínimos) em contratos de transporte marítimo e operações portuárias → aprovado nos termos do voto-vista de Adalberto Tokarski (extinção sem resolução de mérito)
+  - votos: Francisval: revisor_acompanha; Adalberto: revisor_diverge; Gabriela: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=184s)
+- **RD 481 (2020-07-04)**, 29 (bloco 29, 30, 31) · relator **Gabriela Costa** · Resposta a ofício do CADE sobre possível abusividade da cobrança de SSE (segregação e entrega de contêineres em regime de DTC), com representação/caut → pedido de vista (Adalberto Tokarski) após leitura do voto da relatora
+  - votos: Gabriela: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=7350s)
+- **RD 481 (2020-07-04)**, 30 (bloco 29, 30, 31) · relator **Gabriela Costa** · Resposta a ofício do CADE sobre possível abusividade da cobrança de SSE (segregação e entrega de contêineres em regime de DTC), com representação/caut → pedido de vista (Adalberto Tokarski) após leitura do voto da relatora
+  - votos: Gabriela: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=7350s)
+- **RD 481 (2020-07-04)**, 31 (bloco 29, 30, 31) · relator **Gabriela Costa** · Resposta a ofício do CADE sobre possível abusividade da cobrança de SSE (segregação e entrega de contêineres em regime de DTC), com representação/caut → pedido de vista (Adalberto Tokarski) após leitura do voto da relatora
+  - votos: Gabriela: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=7350s)
+- **RD 483 (2020-08-10)**, 3 · relator **Adalberto Tokarski** · Referendo da Res. 7.574-ANTAQ: medida cautelar que suspendeu novo procedimento de cobrança de sobre-estadia de contêiner antes da devolução dos equipa → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=429s)
+- **RD 483 (2020-08-10)**, 44 · relator **Adalberto Tokarski** · Plano de trabalho do eixo 2.2: metodologia para determinar abusividade na cobrança de sobre-estadia de contêineres. Lidos e votados em bloco os itens  → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=16058s)
+- **RD 485 (2020-08-27)**, 6 · relator **Adalberto Tokarski** · Referendo da Resolução 7935: cautelar que suspendeu a cartilha de direitos e deveres dos usuários da navegação marítima e de apoio no trecho sobre sob → aprovado por unanimidade (referendo)
+  - votos: Adalberto: relator; Joelson: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=1454s)
+- **RD 485 (2020-08-27)**, 9 · relator **Gabriela Costa** · Avaliação da criação de franquia e de preço-teto para o serviço de segregação e entrega (SSE); relatora Gabriela Costa com voto proferido → pedido de vista de Francisval Mendes renovado
+  - votos: Francisval: vista; Adalberto: outro; Joelson: outro · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=3572s)
+- **RD 490 (2020-12-08)**, 3 · relator **Adalberto Tokarski** · Referendo da Deliberação DG 6/2020 que indeferiu medida cautelar para liberação de carga de betume asfáltico em big bags (TUP em Santa Catarina) → aprovado (referendado o indeferimento) por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=918s)
+- **RD 490 (2020-12-08)**, 21 · relator **Eduardo Nery** · Consulta da Centronave sobre a legalidade de exigências da Vale nos terminais quanto a combustível de baixo teor de enxofre e descarte de efluentes de → aprovado por unanimidade
+  - votos: Eduardo: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=4190s)
+- **RD 492 (2020-12-22)**, 46 · relator **Adalberto Tokarski** · Consulta regulatória: sistema híbrido de energia em terra (solar) para navios atracados → pedido de vista (Francisval Mendes)
+  - votos: Adalberto: relator; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=10562s)
+- **RD 494 (2021-02-03)**, 3 · relator **Francisval Mendes** · Processo administrativo sancionador: cobrança de sobre-estadia/custos de supressão de escala e dosimetria da multa → aprovado nos termos do voto do relator (unânime após voto-vista)
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=894s)
+- **RD 494 (2021-02-03)**, 10 · relator **Adalberto Tokarski** · Processo administrativo sancionador correlato ao item 3 (sobre-estadia/supressão de escala e dosimetria) → aprovado nos termos do voto do revisor Francisval Mendes
+  - votos: Adalberto: vencido; Francisval: revisor_acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=4764s)
+- **RD 494 (2021-02-03)**, 38 · relator **Adalberto Tokarski** · Representação com cautelar contra aumento do preço do serviço de segregação e entrega de contêineres (SSE) pela BTP → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=12411s)
+- **RD 494 (2021-02-03)**, 39 · relator **Adalberto Tokarski** · Representação por infração à ordem econômica (aumento de preços, cobrança antecipada sob pena de retenção de carga) com pedido cautelar → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=12616s)
+- **RD 496 (2021-03-10)**, 28 · relator **Adalberto Tokarski** · Tabela de preços do terminal: rubrica de seguro ad valorem / gerenciamento de risco → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=7209s)
+- **RD 496 (2021-03-10)**, 29 · relator **Adalberto Tokarski** · Tabela de preços: rubrica de gerenciamento de risco → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=7590s)
+- **RD 496 (2021-03-10)**, 48 · relator **Gabriela Costa** · Representação com cautelar contra suposto aumento abusivo do SSE na pandemia → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=10671s)
+- **RD 498 (2021-04-08)**, 6 · relator **Gabriela Costa** · Referendo da Deliberação DG 55/2021: cautelar em denúncia de cobrança de armazenagem/sobre-estadia de dois contêineres no porto de Fortaleza; deferida → referendado por unanimidade (cautelar parcialmente deferida)
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=1280s)
+- **RD 498 (2021-04-08)**, 27 · relator **Adalberto Tokarski** · Denúncia com pedido de cautelar: devolução de armazenagem cobrada da associada Terra Forte e abstenção de discriminá-la no terminal → cautelar indeferida por unanimidade; instrução do mérito continua na UREsp
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=6734s)
+- **RD 498 (2021-04-08)**, 42 · relator **Gabriela Costa** · Denúncia com pedido de cautelar para liberação de dois equipamentos de radioterapia importados no porto de Santos → processo extinto por perda de objeto, por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=10936s)
+- **RD 500 (2021-05-21)**, 2 · relator **Gabriela Costa** · Referendo das deliberações 96 e 97 (ad referendum) que indeferiram medida cautelar contra suposto aumento abusivo de preço cobrado pela BTP (julgado e → referendado por unanimidade (cautelares indeferidas)
+  - votos: Gabriela: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=350s)
+- **RD 500 (2021-05-21)**, 3 · relator **Gabriela Costa** · Referendo das deliberações 96 e 97 (ad referendum) que indeferiram medida cautelar contra suposto aumento abusivo de preço cobrado pela BTP (julgado e → referendado por unanimidade (cautelares indeferidas)
+  - votos: Gabriela: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=350s)
+- **RD 500 (2021-05-21)**, 17 · relator **Adalberto Tokarski** · Denúncia contra a Resolução SCPAR 23/2020 (credenciamento de operadores no Terminal Graneleiro de São Francisco do Sul – TGSFS/corredor de exportação) → pedido de vista de Gabriela Costa (relator já votou)
+  - votos: Adalberto: relator; Gabriela: vista; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=5990s)
+- **RD 500 (2021-05-21)**, 32 · relator **Adalberto Tokarski** · Reconsideração da medida cautelar (Res. 7.574/2020) que proíbe cobrança antecipada de sobre-estadia de contêiner (demurrage) antes da devolução → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=10667s)
+- **RD 500 (2021-05-21)**, 35 · relator **Adalberto Tokarski** · Resposta ao MPF sobre diferenças de preço de escaneamento de contêineres em Itajaí/Navegantes → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=12860s)
+- **RD 504 (2021-07-08)**, 3 · relator **Gabriela Costa** · Referendo de cautelar (Deliberação DG 154/2021): caminhões destinados a arrendatária com pátio próprio dispensados do pátio público de triagem de Suap → referendado por maioria (Tokarski diverge)
+  - votos: Gabriela: relator; Adalberto: outro; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=335s)
+- **RD 504 (2021-07-08)**, 4 · relator **Gabriela Costa** · Referendo de indeferimento de cautelar (Deliberação DG 155/2021): suspensão de processos sancionadores sobre armazenagem adicional na exportação (art. → referendado por unanimidade (indeferimento)
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=772s)
+- **RD 504 (2021-07-08)**, 5 · relator **Gabriela Costa** · Referendo (Deliberação DG 157/2021): denúncia sobre cobrança de gerenciamento de risco e armazenagem adicional na exportação → referendado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=1164s)
+- **RD 504 (2021-07-08)**, 6 · relator **Adalberto Tokarski** · Processos conexos da Santos Brasil (armazenagem adicional / sancionadores) — vista do Diretor-Geral renovada em bloco (itens 6 a 9) → vista renovada
+  - votos: Eduardo: vista; Adalberto: relator; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=1369s)
+- **RD 504 (2021-07-08)**, 7 · relator **Adalberto Tokarski** · Processos conexos da Santos Brasil (armazenagem adicional / sancionadores) — vista do Diretor-Geral renovada em bloco (itens 6 a 9) → vista renovada
+  - votos: Eduardo: vista; Adalberto: relator; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=1369s)
+- **RD 504 (2021-07-08)**, 8 · relator **Gabriela Costa** · Processos conexos da Santos Brasil (armazenagem adicional / sancionadores) — vista do Diretor-Geral renovada em bloco (itens 6 a 9) → vista renovada
+  - votos: Eduardo: vista; Gabriela: relator; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=1369s)
+- **RD 504 (2021-07-08)**, 9 · relator **Gabriela Costa** · Processos conexos da Santos Brasil (armazenagem adicional / sancionadores) — vista do Diretor-Geral renovada em bloco (itens 6 a 9) → vista renovada
+  - votos: Eduardo: vista; Gabriela: relator; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=1369s)
+- **RD 504 (2021-07-08)**, 16 · relator **Adalberto Tokarski** · Aderência da Resolução SCPar 23/2020 (regras de uso do terminal graneleiro público de São Francisco do Sul) ao marco regulatório; sigilo de dados → julgamento suspenso (vista do Diretor-Geral)
+  - votos: Adalberto: relator; Gabriela: revisor_diverge; Eduardo: vista · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=4250s)
+- **RD 504 (2021-07-08)**, 27 · relator **Adalberto Tokarski** · Agenda regulatória: transparência na cobrança de taxas extrafrete e sobretaxas no transporte marítimo — AIR e consulta/audiência pública (45 dias) → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=8269s)
+- **RD 506 (2021-08-23)**, 5 · relator **Flávia Takafashi** · Referendo da deliberação DG 202/2021: cautelar em denúncia de cobrança abusiva de armazenagem adicional na exportação (carga não embarcada por erro do → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Adalberto: acompanha; Flávia: relator · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=1174s)
+- **RD 506 (2021-08-23)**, 10 · relator **Adalberto Tokarski** · Processo administrativo sancionador (armazenagem adicional cobrada do exportador quando a carga não embarcou por causa do armador; art. 10 da Res. 238 → sobrestado por unanimidade
+  - votos: Adalberto: revisor_acompanha; Eduardo: revisor_acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=2806s)
+- **RD 506 (2021-08-23)**, 11 · relator **Adalberto Tokarski** · Processo administrativo sancionador (armazenagem adicional cobrada do exportador quando a carga não embarcou por causa do armador; art. 10 da Res. 238 → sobrestado por unanimidade
+  - votos: Adalberto: revisor_acompanha; Eduardo: revisor_acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=2806s)
+- **RD 506 (2021-08-23)**, 12 · relator **Flávia Takafashi** · Processo administrativo sancionador (mesmo objeto dos itens 10 e 11; art. 10 da Res. 2389) — julgamento em bloco dos itens 12 e 13 → sobrestado por unanimidade
+  - votos: Eduardo: acompanha; Adalberto: acompanha; Flávia: relator · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=4296s)
+- **RD 506 (2021-08-23)**, 13 · relator **Flávia Takafashi** · Processo administrativo sancionador (mesmo objeto dos itens 10 e 11; art. 10 da Res. 2389) — julgamento em bloco dos itens 12 e 13 → sobrestado por unanimidade
+  - votos: Eduardo: acompanha; Adalberto: acompanha; Flávia: relator · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=4296s)
+- **RD 506 (2021-08-23)**, 23 · relator **Adalberto Tokarski** · Pedido de reconsideração do acórdão 86/2021, que mandou retirar da tabela de preços a rubrica de seguro ad valorem; sustentação oral da Dra. Amanda Ba → pedido de vista (Flávia Takafashi) após voto do relator
+  - votos: Adalberto: relator; Eduardo: outro; Flávia: vista · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=5922s)
+- **RD 506 (2021-08-23)**, 30 · relator **Adalberto Tokarski** · Pedido de cautelar contra cobranças da Bandeirantes Deicmar sobre importação de frutas secas (carga LCL) a ser devolvida → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Adalberto: relator; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=8690s)
+- **RD 508 (2021-09-09)**, 25 · relator **Adalberto Tokarski** · Processo administrativo sancionador por cobrança indevida de sobre-estadia a usuário → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=8003s)
+- **RD 510 (2021-10-11)**, comunicação 1 · relator **Eduardo Nery** · Comunicação do Diretor-Geral: criação de grupo de trabalho com representantes das superintendências para acompanhar a crise de falta de contêineres pó → aprovada a comunicação; GT a ser criado por ordem de serviço, coordenado/acompanhado pela 
+  - votos: Eduardo: outro; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=110s)
+- **RD 510 (2021-10-11)**, 18 (sustentação) · relator **Adalberto Tokarski** · Pedido de vista do Diretor-Geral (formulado na reunião 507) renovado por mais uma reunião → vista renovada (art. 29 §1º da Res. 7.701); volta na próxima reunião
+  - votos: Eduardo: outro; Adalberto: relator; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=738s)
+- **RD 510 (2021-10-11)**, 22 · relator **Eduardo Nery** · Consulta sobre prazo de pré-stacking/free time de contêineres de exportação nos terminais do porto de Santos → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=10361s)
+- **RD 510 (2021-10-11)**, 48 · relator **Flávia Takafashi** · Denúncia com pedido de cautelar contra cobrança de detenção de 92 contêineres (~R$ 222 mil) e taxa de câmbio → aprovado por unanimidade: cautelar parcialmente deferida
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=15443s)
+- **RD 511 (2021-11-11)**, 9 · relator **Adalberto Tokarski** · Alteração da tabela de preços e serviços do terminal; julgamento interrompido na RD 507 por vista do DG antes do voto do relator → pedido de vista renovado (sem deliberação de mérito)
+  - votos: Eduardo: outro; Adalberto: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=267s)
+- **RD 511 (2021-11-11)**, 6 · relator **Adalberto Tokarski** · Recurso contra multa de R$ 59.500 (art. 28, III, RN 18/2017) por cláusulas contratuais de sobre-estadia (demurrage/detention) em desacordo com o art.  → aprovado por maioria nos termos do voto-vista de Flávia Takafashi (provimento parcial: TAC
+  - votos: Adalberto: vencido; Flávia: revisor_acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=3987s)
+- **RD 511 (2021-11-11)**, 12 · relator **Flávia Takafashi** · Consulta sobre liberdade de uso de lacres eletrônicos em contêineres pelos embarcadores à luz da RN 18/2017; vista do DG após sustentação oral na RD 5 → pedido de vista renovado (DG)
+  - votos: Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=6921s)
+- **RD 511 (2021-11-11)**, 14 · relator **Eduardo Nery** · Denúncia de cobrança abusiva de detention (US$ 19.590, 19 contêineres) e de taxa de câmbio acima da oficial; pedido de cautelar → aprovado por unanimidade: cautelar deferida parcialmente
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=7109s)
+- **RD 513 (2021-11-26)**, 27 · relator **Adalberto Tokarski** · Cobrança antecipada, pelo terminal, de serviços (SSE e associados) sobre cargas em trânsito aduaneiro destinadas a recintos alfandegados; retomada de  → pedido de vista (Flávia Takafashi) após o voto do relator
+  - votos: Adalberto: relator; Flávia: vista · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=1728s)
+- **RD 513 (2021-11-26)**, 28 · relator **Flávia Takafashi** · Autorização especial para movimentar cavaco de madeira no cais do Estaleiro ERG1 (Porto de Rio Grande) quando indisponíveis o cais público e terminais → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=5675s)
+- **RD 513 (2021-11-26)**, 40 · relator **Flávia Takafashi** · Processo administrativo sancionador: descumprimento do regulamento de exploração do Porto de Vitória (condicionante 16 da licença ambiental - caçambas → aprovado por unanimidade (multa)
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=7971s)
+- **RD 514 (2021-12-10)**, 2 · relator **Adalberto Tokarski** · Tabela pública de preços do terminal: cobrança apartada de carregamento de saída nas cargas em DTA-pátio e rubrica gerenciamento de risco (RN 34); com → aprovado por unanimidade nos termos do voto do relator, que incorporou as sugestões do vot
+  - votos: Adalberto: revisor_acompanha; Eduardo: revisor_diverge; Flávia: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=2525s)
+- **RD 514 (2021-12-10)**, 23 · relator **Adalberto Tokarski** · Nova tabela de preços do TUP Itapoá – aderência das rubricas de trânsito aduaneiro (movimentação de contêiner) ao conceito de SSE da RN 34; com susten → aprovado por unanimidade
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=4598s)
+- **RD 514 (2021-12-10)**, 12 · relator **Eduardo Nery** · Pedido de reconsideração contra o acórdão 322/2021 (rubrica seguro ad valorem obrigatória deve ser excluída ou tornada cobertura adicional e opcional) → aprovado por unanimidade (recurso negado)
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=15590s)
+- **RD 516 (2022-02-04)**, 11 · relator **Adalberto Tokarski** · Cobrança antecipada (objeto distorcido na legenda: «fornecimento de gatos/dados») às cargas em trânsito aduaneiro em instalações que movimentam contêi → não deliberado: processo em diligência na SFC durante a vista de Flávia Takafashi
+  - votos: Flávia: outro; Adalberto: outro; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=9093s)
+- **RD 518 (2022-03-23)**, 1 · relator **Adalberto Tokarski** · Denúncia de preços abusivos e condutas anticoncorrenciais na cobrança de serviços de segregação e entrega (SSE) no Porto de Itajaí; pedido de sustenta → pedido de vista de Eduardo Nery renovado (art. 36 da Res. 66); volta na próxima reunião te
+  - votos: Eduardo: vista; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=570s)
+- **RD 518 (2022-03-23)**, 6 · relator **Eduardo Nery** · Denúncia de cobrança abusiva de detention de 15 contêineres de café — referendo da Deliberação DG 43/2022 (cautelar) → aprovado por unanimidade (referendo)
+  - votos: Eduardo: relator; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=4532s)
+- **RD 518 (2022-03-23)**, 13 · relator **Flávia Takafashi** · Denúncia de cobrança de detention de contêineres durante greve de caminhoneiros — referendo da deliberação DG (lida como 32 e 38/2022) que indeferiu a → aprovado por unanimidade (referendo)
+  - votos: Flávia: relator; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=6350s)
+- **RD 518 (2022-03-23)**, 21 · relator **Adalberto Tokarski** · Cumprimento do Acórdão 56/2021: legitimidade da cobrança antecipada do SSE e serviços associados à carga em trânsito aduaneiro sob pena de retenção da → aprovado nos termos do voto revisor de Flávia Takafashi (relator Tokarski, que já não inte
+  - votos: Adalberto: relator; Flávia: revisor_diverge; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=7745s)
+- **RD 520 (2022-05-13)**, 1 · relator **Adalberto Tokarski** · Denúncia de preços abusivos e condutas anticoncorrenciais na cobrança de SSE (segregação e entrega); retomada após pedido de vista do Diretor-Geral (R → aprovado: processo convertido em diligência à SRG (voto-vista do Diretor-Geral); sem exame
+  - votos: Eduardo: revisor_acompanha; Flávia: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=4820s)
+- **RD 520 (2022-05-13)**, 3 · relator **Flávia Takafashi** · Pedido de reconsideração contra o Acórdão 550/2021 (tabela de serviços e preços máximos): taxa administrativa DTA, seguro de carga LCL e levante de co → aprovado por unanimidade: provimento parcial
+  - votos: Flávia: relator; Eduardo: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=5226s)
+- **RD 520 (2022-05-13)**, 5 · relator **Eduardo Nery** · Referendo da Deliberação DG 63/2022 que indeferira cautelar sobre cobrança de serviços pelo terminal (frete na modalidade 'free in/out'?) e retenção d → aprovado por unanimidade: revertido o indeferimento; concedida a cautelar para liberação d
+  - votos: Eduardo: relator; José: acompanha; Flávia: outro · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=7138s)
+- **RD 522 (2022-05-26)**, 6 · relator **José Renato Fialho** · Referendo da Deliberação DG 83/2022: cautelar que suspendeu cobrança de sobre-estadia (US$ 61.518) de três contêineres retidos por praga quarentenária → aprovado por unanimidade: cautelar referendada
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=5864s)
+- **RD 522 (2022-05-26)**, 11 · relator **Eduardo Nery** · Metodologia para identificar abusividade na cobrança do SSE (serviço de segregação e entrega de contêineres): AIR e minuta de instrução normativa para → aprovado por unanimidade: minuta submetida a consulta pública por 45 dias
+  - votos: Eduardo: relator; Flávia: revisor_acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=9092s)
+- **RD 522 (2022-05-26)**, 15 · relator **Eduardo Nery** · Denúncia de descumprimento da cautelar (Deliberação DG 69/2022) por bloqueio do CNPJ da associada após suspensão de cobrança de sobre-estadia → aprovado por unanimidade: denúncia conhecida e pedido cautelar indeferido por perda de obj
+  - votos: Eduardo: relator; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=10674s)
+- **RD 522 (2022-05-26)**, 38 · relator **Eduardo Nery** · Petição contra o Acórdão 231/2022 (cautelar que mandou liberar e remeter carga ao Porto de Itajaí), recebida como embargos de declaração → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=12031s)
+- **RD 522 (2022-05-26)**, 26 · relator **Flávia Takafashi** · Pedido de reconsideração contra os Acórdãos 253/2021 e 23/2022 (envio de estudos sobre cobrança de escaneamento de contêineres ao MPF e fiscalização e → aprovado por unanimidade: provimento parcial
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=14225s)
+- **RD 27ª Extraordinária (2022-08-01)**, 1 · relator **Flávia Takafashi** · Relatório final do grupo de trabalho constituído em outubro de 2021 para monitorar os impactos da pandemia de Covid-19 no transporte marítimo de contê → relatório aprovado por unanimidade
+  - votos: Flávia: relator; José: outro; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=5_hHUI9_fT8&t=80s)
+- **RD 526 (2022-08-11)**, 14 · relator **Flávia Takafashi** · Agenda de Avaliação de Resultado Regulatório (ARR) 2022, projeto-piloto: Res. 13/2016 (registro de instalações de apoio ao transporte aquaviário) e Re → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=2J5AWByVtpM&t=5699s)
+- **RD 526 (2022-08-11)**, 21 · relator **José Renato Fialho** · Extrapauta: cumprimento de tutela antecipada antecedente (1ª Vara Federal de Paranaguá) que autorizou a TCP a restabelecer a cobrança do SSE; delimita → aprovado por unanimidade
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=2J5AWByVtpM&t=7017s)
+- **RD 528 (2022-09-01)**, 1 · relator **Eduardo Nery** · Denúncia com cautelar contra cobrança de sobre-estadia (detention) de contêiner em Santos; sustentação oral da advogada da MSC → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=yBRIlI6RQug&t=77s)
+- **RD 528 (2022-09-01)**, 33 · relator **Eduardo Nery** · Denúncia de descumprimento do Acórdão 411/2022 (SSE suspenso) e pedido de nova cautelar (Manaus) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=yBRIlI6RQug&t=8951s)
+- **RD 528 (2022-09-01)**, 30 · relator **José Renato Fialho** · AIR do tema 2.2 da Agenda Regulatória: metodologia para aferir abusividade na cobrança de sobre-estadia de contêineres → adiado (vista de Flávia Takafashi); relator proferiu voto
+  - votos: Flávia: vista; José: relator · [vídeo](https://www.youtube.com/watch?v=yBRIlI6RQug&t=9805s)
+- **RD 530 (2022-09-29)**, 6 (referendo) · relator **Alexandre Lopes** · Referendo da Deliberação DG 123/2022 (recurso de reconsideração): indeferimento de cautelar para liberar contêiner retido por sobrestadia e apuração u → aprovado (referendada a Deliberação DG 123/2022)
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=4751s)
+- **RD 532 (2022-11-10)**, 3 · relator **Alexandre Lopes** · Referendo de deliberação DG 145/2022: denúncia de descumprimento do acórdão 409/2022 (rubricas de levante, pesagem e armazenagem como SSE disfarçado)  → aprovado nos termos do voto do relator
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=2327s)
+- **RD 532 (2022-11-10)**, 45 · relator **Alexandre Lopes** · Cumprimento do acórdão 409/2022 e da Res. 84/2022 (suspensão do SSE): análise da tabela de preços da Portonave (relatado junto do item 3) → aprovado nos termos do voto do relator, com ajuste proposto por Eduardo Nery
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=2610s)
+- **RD 532 (2022-11-10)**, 15 · relator **José Renato Fialho** · Relatório de AIR sobre metodologia para cobrança de sobre-estadia de contêineres → vista renovada (Flávia Takafashi)
+  - votos: Flávia: outro; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=7399s)
+- **RD 532 (2022-11-10)**, 16 · relator **Eduardo Nery** · Denúncia sobre retenção de cargas (conhecimentos de embarque bloqueados no Siscomex Mercante) e cobrança de demurrage indevida – cargas no TCP/Paranag → aprovado nos termos do voto do relator
+  - votos: Eduardo: relator; Alexandre: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=7465s)
+- **RD 532 (2022-11-10)**, 17 · relator **Eduardo Nery** · Denúncia de objeto idêntico ao item 16 → aprovado nos termos do voto do relator
+  - votos: Eduardo: relator; Alexandre: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=7624s)
+- **RD 532 (2022-11-10)**, 19 · relator **Eduardo Nery** · Consulta sobre tarifa de armazenagem (tabela 5) para guindaste mantido sobre balsa na poligonal do Porto Organizado de Belém/Outeiro → aprovado nos termos do voto do relator
+  - votos: Eduardo: relator; Alexandre: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=7718s)
+- **RD 532 (2022-11-10)**, 23 · relator **Eduardo Nery** · Análise da tabela de preços e serviços do terminal Chibatão: seguro obrigatório, cobranças sobre carga em trânsito aduaneiro (SSE) e reagendamento → aprovado nos termos do voto do relator
+  - votos: Eduardo: relator; Alexandre: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=8351s)
+- **RD 532 (2022-11-10)**, 25 · relator **Flávia Takafashi** · Agenda regulatória 2022-2024, tema 2.1: tipificar infração do transportador marítimo que recusa arcar com armazenagem adicional/sobre-estadia que caus → aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=9575s)
+- **RD 532 (2022-11-10)**, 31 · relator **Flávia Takafashi** · Denúncia anônima de cobrança em duplicidade de «conferência de acesso» já coberta pela taxa ISPS Code → aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=11526s)
+- **RD 534 (2022-12-07)**, 4 · relator **Flávia Takafashi** · Referendo da Deliberação DG 152/2022: medida cautelar em denúncia de cobrança supostamente indevida de detention sobre 20 contêineres (cerca de R$ 106 → referendado por unanimidade
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=3070s)
+- **RD 534 (2022-12-07)**, 5 · relator **Alexandre Lopes** · Referendo da Deliberação DG 148/2022: cautelar parcial suspendendo cobranças de detention (cerca de R$ 6.034,40) após alterações de deadline, com veda → referendado (votos dos demais não audíveis)
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=3243s)
+- **RD 534 (2022-12-07)**, 6 · relator **Alexandre Lopes** · Referendo da Deliberação DG 149/2022: cautelar suspendendo cobrança de detention (fatura de cerca de R$ 26.223,65) por indisponibilidade de janelas no → referendado por unanimidade
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=3556s)
+- **RD 534 (2022-12-07)**, 13 · relator **José Renato Fialho** · Análise de impacto regulatório para metodologia de abusividade na cobrança de estadia de contêineres (demurrage) — relator original José Renato Fialho → vista renovada
+  - votos: Flávia: outro; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=7672s)
+- **RD 537 (2023-02-09)**, 1 · relator **Alber Vasconcelos** · Referendo da Deliberação DG 8/2023 (cautelar ad referendum em denúncia sobre cobrança de sobre-estadia/detention de contêineres atribuída a bloqueios  → aprovado por unanimidade nos termos do voto do relator
+  - votos: Alber: relator; Caio: acompanha; Lima: acompanha; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=4025s)
+- **RD 537 (2023-02-09)**, 2 · relator **José Renato Fialho** · Relatório de AIR do tema 2.2 da agenda regulatória (metodologia para aferir abusividade na cobrança de sobre-estadia de contêineres): renovação do ped → pedido de vista renovado; votação continua suspensa
+  - votos: Flávia: outro; Eduardo: acompanha; Caio: acompanha; Alber: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=4510s)
+- **RD 537 (2023-02-09)**, 29 · relator **Alber Vasconcelos** · Cautelar em denúncia contra cobrança de 39 dias de sobre-estadia de contêineres após perda do deadline de embarque → aprovado por unanimidade nos termos do voto do relator
+  - votos: Alber: relator; Caio: acompanha; Lima: acompanha; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=14518s)
+- **RD 539 (2023-04-04)**, 3 · relator **José Renato Fialho** · Pedido de vista: AIR sobre metodologia para determinar abusividade na cobrança de sobrestadia (demurrage) de contêineres; relator original (José Renat → aprovado o voto-vista divergente de Flávia Takafashi (voto do relator original vencido)
+  - votos: Eduardo: revisor_acompanha; Flávia: revisor_diverge; Lima: outro; Alber: acompanha; Caio: acompanha; José: vencido · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=1495s)
+- **RD 539 (2023-04-04)**, 6 · relator **Eduardo Nery** · Plano de trabalho para estruturar as fiscalizações temáticas do Plano Anual de Fiscalização 2023 (Acórdão 679/2022): desempenho das administrações por → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=4852s)
+- **RD 539 (2023-04-04)**, 9 · relator **Eduardo Nery** · Mérito de denúncia com pedido de cautelar sobre cobrança de sobrestadia de contêiner (fatura de cerca de US$ 468) após alteração do deadline sem alter → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=5189s)
+- **RD 541 (2023-04-20)**, 2 · relator **Lima Filho** · Recurso de reconsideração da Marimex contra o item 1 do Acórdão 472/2021 (indeferiu cautelar contra cobrança antecipada/à vista do SSE com identificaç → aprovado: recurso inadmitido por intempestividade; declarado que operadores e instalações 
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=4234s)
+- **RD 541 (2023-04-20)**, 12 · relator **Flávia Takafashi** · Denúncia com pedido cautelar contra cobrança de detention de 9 contêineres (cerca de 11,4 mil) após perda do deadline por falta de janelas de agendame → aprovado: denúncia admitida; cautelar indeferida; autos à SFC para análise de mérito
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=7822s)
+- **RD 541 (2023-04-20)**, 15 · relator **Flávia Takafashi** · Consulta sobre armazenagem provisória, em regime de uso público, de granéis sólidos (coque de petróleo) nos pátios abertos 3, 5 e 8 (armazéns demolido → aprovado com ajuste de texto: pátios 3 e 5 utilizáveis em caráter excepcional, ressalvada 
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=8666s)
+- **RD 543 (2023-05-24)**, 6 (sustentação oral) · relator **Eduardo Nery** · Denúncia do Sindop-RS contra exigências documentais e cobrança (pedágio de passagem) pelo Estaleiro Rio Grande para acesso ao cais multipropósito (áre → aprovado por unanimidade (voto do relator com complementos do revisor Lima Filho)
+  - votos: Eduardo: revisor_acompanha; Lima: revisor_acompanha; Caio: acompanha; Alber: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=120s)
+- **RD 543 (2023-05-24)**, 15 · relator **Flávia Takafashi** · Reabertura por 20 dias da Audiência Pública 10/2022 (tema 2.1 da agenda regulatória: tipificar na Res. 62/2021 a recusa de assumir a cobrança de armaz → aprovado
+  - votos: Flávia: relator; Eduardo: outro; Lima: outro; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=9452s)
+- **RD 543 (2023-05-24)**, 27 · relator **Caio Farias** · Estudo sobre serviços prestados às cargas desembaraçadas, características operacionais e preços praticados → retirado de pauta pelo relator; volta na próxima reunião presencial
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=12090s)
+- **RD 545 (2023-06-23)**, 35 · relator **Caio Farias** · Relatório final do estudo sobre serviços prestados às cargas desembaraçadas sobre águas (DSA/OEA): características operacionais e preços praticados (p → aprovado por unanimidade, com acréscimo de relatórios trimestrais
+  - votos: Caio: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=7029s)
+- **RD 545 (2023-06-23)**, 24 · relator **Lima Filho** · Medida cautelar: sobrestamento dos processos sancionadores sobre cobrança de armazenagem adicional de exportação até a revisão das RNs 72 e 75 (tema 2 → aprovado por unanimidade (deferido)
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=16208s)
+- **RD 547 (2023-08-07)**, 2 · relator **Lima Filho** · Referendo da Deliberação DG 51/2023, que indeferiu cautelar contra cobrança de sobre-estadia (detention) de contêineres de café → referendado por unanimidade (cautelar indeferida)
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=248s)
+- **RD 547 (2023-08-07)**, 26 · relator **Lima Filho** · Pedido cautelar de sobrestamento dos processos sobre cobrança de armazenagem adicional de exportação até a conclusão do processo 50300.006171/2022-50 → deferido por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=6927s)
+- **RD 547 (2023-08-07)**, 29 · relator **Lima Filho** · Pedido de orientação da SFC sobre prescrição intercorrente em processo sancionador sobrestado (cobrança ligada a DTC/DTA pela Portonave) → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=7493s)
+- **RD 547 (2023-08-07)**, 30 · relator **Lima Filho** · Denúncia de cobrança de detention (sobre-estadia de contêiner) por NVOCC na modalidade FOB → denúncia indeferida por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=7855s)
+- **RD 549 (2023-08-31)**, 12 · relator **Lima Filho** · Esclarecimento sobre cobrança de armazenagem em transferências em regime de DTC para terminal retroportuário; vista do Diretor-Geral renovada (art. 36 → pedido de vista renovado; volta na próxima reunião
+  - votos: Eduardo: vista · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=8174s)
+- **RD 549 (2023-08-31)**, 27 · relator **Lima Filho** · Avaliação de Resultado Regulatório (ARR) da Res. ANTAQ 62/2021 (direitos e deveres dos usuários na navegação; sobre-estadia de contêiner), tema 5.1.2  → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=12367s)
+- **RD 551 (2023-10-04)**, 22 · relator **Caio Farias** · Denúncia com pedido cautelar: exigência de termo de responsabilidade colocando o despachante como devedor subsidiário de sobre-estadia (demurrage) de  → aprovado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=13523s)
+- **RD 551 (2023-10-04)**, 23 · relator **Caio Farias** · Denúncia com pedido cautelar por dano a carga perecível importada do Vietnã (oscilação de temperatura no TCP, Paranaguá) e ressarcimento de despesas → aprovado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=13938s)
+- **RD 554 (2023-10-26)**, 4 · relator **Lima Filho** · Consulta sobre cobrança de armazenagem pelos terminais molhados nas transferências em regime de DTC (declaração de trânsito de contêiner) para termina → aprovado — é lícita a cobrança de armazenagem em cargas em regime DTC
+  - votos: Lima: relator; Eduardo: revisor_acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=9486s)
+- **RD 554 (2023-10-26)**, 22 · relator **Flávia Takafashi** · Orientação à SFC sobre prescrição intercorrente em processo sancionador (cobranças ligadas a DTC/DTA e SSE) sobrestado pela anulação de dispositivos d → aprovado
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=11919s)
+- **RD 555 (2023-11-16)**, 31 · relator **Lima Filho** · Necessidade de metodologia predefinida para apurar abusividade de preços na inspeção não invasiva (escaneamento) de contêineres → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=7431s)
+- **RD 557 (2023-12-14)**, 22 · relator **Lima Filho** · Recursos de reconsideração (julgados em bloco, com sustentações orais) contra os acórdãos 774, 775, 776 e 777/2021, que revogaram a cautelar e reconhe → aprovado (voto em bloco do relator; proposta ajustada para incluir o tema dos pátios de tr
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=2154s)
+- **RD 557 (2023-12-14)**, 23 · relator **Lima Filho** · Recursos de reconsideração (julgados em bloco, com sustentações orais) contra os acórdãos 774, 775, 776 e 777/2021, que revogaram a cautelar e reconhe → aprovado (voto em bloco do relator; proposta ajustada para incluir o tema dos pátios de tr
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=2154s)
+- **RD 557 (2023-12-14)**, 24 · relator **Lima Filho** · Recursos de reconsideração (julgados em bloco, com sustentações orais) contra os acórdãos 774, 775, 776 e 777/2021, que revogaram a cautelar e reconhe → aprovado (voto em bloco do relator; proposta ajustada para incluir o tema dos pátios de tr
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=2154s)
+- **RD 557 (2023-12-14)**, 25 · relator **Lima Filho** · Recursos de reconsideração (julgados em bloco, com sustentações orais) contra os acórdãos 774, 775, 776 e 777/2021, que revogaram a cautelar e reconhe → aprovado (voto em bloco do relator; proposta ajustada para incluir o tema dos pátios de tr
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=2154s)
+- **RD 557 (2023-12-14)**, 32 · relator **Lima Filho** · Cumprimento do acórdão 92/2023 (referendo da deliberação DG 162/2022): denúncia contra a MSC por cobrança de detention/sobre-estadia de contêineres at → sobrestado até a deliberação da norma sobre matriz de responsabilidade (processo de relato
+  - votos: Lima: relator; Flávia: outro; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=6379s)
+- **RD 557 (2023-12-14)**, 14 · relator **Flávia Takafashi** · Inclusão das comissárias de despacho no alcance do acórdão 535/2021 (prática abusiva de responsabilizar solidariamente despachantes aduaneiros por dem → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=11239s)
+- **RD 557 (2023-12-14)**, 31 · relator **Lima Filho** · Embargos de declaração contra erro material no art. 2º da deliberação DG 94/2023 (cautelar sobre 21 contêineres): suspensão da cobrança de demurrage d → aprovado por unanimidade - embargos conhecidos e providos
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=14592s)
+- **RD 557 (2023-12-14)**, 40 · relator **Caio Farias** · Consulta sobre isenção de armazenagem para 'mercadorias involuntariamente armazenadas' (Tabela 5, subitem 7) no caso de carga retida pela Receita Fede → aprovado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=19367s)
+- **RD 558 (2024-02-26)**, 4 · relator **Lima Filho** · Referendo da Deliberação DG 2/2024: indeferimento de medida cautelar contra cobrança de sobre-estadia de contêiner (demurrage) e determinação de apura → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=3578s)
+- **RD 558 (2024-02-26)**, 7 · relator **Lima Filho** · Referendo da Deliberação DG 1/2024: medida cautelar sobre cobrança de detention/sobre-estadia de contêineres e negativação; perda de objeto por acordo → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=4383s)
+- **RD 558 (2024-02-26)**, 9 · relator **Eduardo Nery** · Fiscalização (julgamento em bloco dos itens 9-12) de TUPs na retroárea de Itajaí por suposto desvio de finalidade: operariam como porto seco (contêine → adiado (julgamento retirado para a próxima reunião, por proposta do relator, com duas prop
+  - votos: Eduardo: relator; Alber: revisor_diverge; Flávia: outro; Lima: acompanha; Caio: outro · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=5019s)
+- **RD 558 (2024-02-26)**, 10 · relator **Eduardo Nery** · Fiscalização (julgamento em bloco dos itens 9-12) de TUPs na retroárea de Itajaí por suposto desvio de finalidade: operariam como porto seco (contêine → adiado (julgamento retirado para a próxima reunião, por proposta do relator, com duas prop
+  - votos: Eduardo: relator; Alber: revisor_diverge; Flávia: outro; Lima: acompanha; Caio: outro · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=5019s)
+- **RD 558 (2024-02-26)**, 11 · relator **Eduardo Nery** · Fiscalização (julgamento em bloco dos itens 9-12) de TUPs na retroárea de Itajaí por suposto desvio de finalidade: operariam como porto seco (contêine → adiado (julgamento retirado para a próxima reunião, por proposta do relator, com duas prop
+  - votos: Eduardo: relator; Alber: revisor_diverge; Flávia: outro; Lima: acompanha; Caio: outro · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=5019s)
+- **RD 558 (2024-02-26)**, 12 · relator **Eduardo Nery** · Fiscalização (julgamento em bloco dos itens 9-12) de TUPs na retroárea de Itajaí por suposto desvio de finalidade: operariam como porto seco (contêine → adiado (julgamento retirado para a próxima reunião, por proposta do relator, com duas prop
+  - votos: Eduardo: relator; Alber: revisor_diverge; Flávia: outro; Lima: acompanha; Caio: outro · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=5019s)
+- **RD 558 (2024-02-26)**, 53 · relator **Caio Farias** · Denúncia com pedido de medida cautelar (julgamento conjunto 53/54) contra cobrança do serviço de guarda provisória/transitória (Res. ANTAQ 109/2023) p → aprovado por unanimidade (cautelar concedida)
+  - votos: Caio: relator; Alber: acompanha; Flávia: acompanha; Lima: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=20922s)
+- **RD 558 (2024-02-26)**, 54 · relator **Caio Farias** · Denúncia com pedido de medida cautelar (julgamento conjunto 53/54) contra cobrança do serviço de guarda provisória/transitória (Res. ANTAQ 109/2023) p → aprovado por unanimidade (cautelar concedida)
+  - votos: Caio: relator; Alber: acompanha; Flávia: acompanha; Lima: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=20922s)
+- **RD 560 (2024-03-25)**, 25 · relator **Flávia Takafashi** · Norma que estabelece critérios para identificar o agente responsável pela armazenagem adicional de cargas (contêineres) nas instalações portuárias: tr → aprovado por unanimidade, com acréscimos sugeridos pelo Diretor-Geral
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=296s)
+- **RD 560 (2024-03-25)**, 1 · relator **Flávia Takafashi** · Proposta de acordo da Santos Brasil sobre processos sancionadores por cobrança de armazenagem adicional (art. 6º da RN 72, antiga RN 34) e pedido de a → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=2620s)
+- **RD 560 (2024-03-25)**, 6 · relator **Caio Farias** · Referendo da Deliberação DG 14/2024: alteração da descrição e regra de aplicação do item 1.09 da tabela de preços (escaneamento de contêineres para de → referendado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=5062s)
+- **RD 560 (2024-03-25)**, 7 · relator **Eduardo Nery** · Fiscalização de TUP por inexecução ou desvio de finalidade da outorga (armazenagem de contêineres recebidos por modal não aquaviário); julgamento em b → autos de infração declarados insubsistentes, por consenso (Lima Filho já havia se retirado
+  - votos: Eduardo: revisor_acompanha; Alber: revisor_acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=5213s)
+- **RD 560 (2024-03-25)**, 39 · relator **Flávia Takafashi** · Pedido de medida cautelar com efeito suspensivo contra decisões em processos sancionadores (cobranças abusivas/duplicidade e falta de transparência em → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=18205s)
+- **RD 560 (2024-03-25)**, 40 · relator **Flávia Takafashi** · Pedido de medida cautelar com efeito suspensivo contra decisões em processos sancionadores (cobranças abusivas/duplicidade e falta de transparência em → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=18205s)
+- **RD 560 (2024-03-25)**, 41 · relator **Flávia Takafashi** · Pedido de medida cautelar com efeito suspensivo contra decisões em processos sancionadores (cobranças abusivas/duplicidade e falta de transparência em → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=18205s)
+- **RD 560 (2024-03-25)**, 42 · relator **Flávia Takafashi** · Pedido de medida cautelar com efeito suspensivo contra decisões em processos sancionadores (cobranças abusivas/duplicidade e falta de transparência em → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=18205s)
+- **RD 560 (2024-03-25)**, 48 · relator **Lima Filho** · Denúncias com pedido cautelar contra cobrança de sobre-estadia (demurrage) de contêineres por ineficiência dos depots de devolução na região Sul; julg → cautelares indeferidas, denúncias conhecidas, por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=19269s)
+- **RD 560 (2024-03-25)**, 49 · relator **Lima Filho** · Denúncias com pedido cautelar contra cobrança de sobre-estadia (demurrage) de contêineres por ineficiência dos depots de devolução na região Sul; julg → cautelares indeferidas, denúncias conhecidas, por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=19269s)
+- **RD 560 (2024-03-25)**, 50 · relator **Lima Filho** · Denúncias com pedido cautelar contra cobrança de sobre-estadia (demurrage) de contêineres por ineficiência dos depots de devolução na região Sul; julg → cautelares indeferidas, denúncias conhecidas, por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=19269s)
+- **RD 560 (2024-03-25)**, 51 · relator **Lima Filho** · Denúncias com pedido cautelar contra cobrança de sobre-estadia (demurrage) de contêineres por ineficiência dos depots de devolução na região Sul; julg → cautelares indeferidas, denúncias conhecidas, por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=19269s)
+- **RD 560 (2024-03-25)**, 52 · relator **Lima Filho** · Denúncias com pedido cautelar contra cobrança de sobre-estadia (demurrage) de contêineres por ineficiência dos depots de devolução na região Sul; julg → cautelares indeferidas, denúncias conhecidas, por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=19269s)
+- **RD 560 (2024-03-25)**, 53 · relator **Lima Filho** · Denúncias com pedido cautelar contra cobrança de sobre-estadia (demurrage) de contêineres por ineficiência dos depots de devolução na região Sul; julg → cautelares indeferidas, denúncias conhecidas, por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=19269s)
+- **RD 560 (2024-03-25)**, 8 · relator **Eduardo Nery** · Fiscalização de TUP por inexecução ou desvio de finalidade da outorga (armazenagem de contêineres recebidos por modal não aquaviário); julgamento em b → autos de infração declarados insubsistentes, por consenso (Lima Filho já havia se retirado
+  - votos: Eduardo: revisor_acompanha; Alber: revisor_acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=24285s)
+- **RD 560 (2024-03-25)**, 9 · relator **Eduardo Nery** · Fiscalização de TUP por inexecução ou desvio de finalidade da outorga (armazenagem de contêineres recebidos por modal não aquaviário); julgamento em b → autos de infração declarados insubsistentes, por consenso (Lima Filho já havia se retirado
+  - votos: Eduardo: revisor_acompanha; Alber: revisor_acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=24285s)
+- **RD 560 (2024-03-25)**, 10 · relator **Eduardo Nery** · Fiscalização de TUP por inexecução ou desvio de finalidade da outorga (armazenagem de contêineres recebidos por modal não aquaviário); julgamento em b → autos de infração declarados insubsistentes, por consenso (Lima Filho já havia se retirado
+  - votos: Eduardo: revisor_acompanha; Alber: revisor_acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=24285s)
+- **RD 562 (2024-04-24)**, 3 · relator **Lima Filho** · Mérito da denúncia sobre cobrança de detention (sobre-estadia de contêineres na exportação) após adiamentos do embarque por alteração da ETA pelo arma → votação suspensa: pedido de vista de Flávia Takafashi após o voto do relator
+  - votos: Lima: relator; Flávia: vista; Eduardo: outro; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=5298s)
+- **RD 562 (2024-04-24)**, 9 · relator **Caio Farias** · Referendo da Deliberação DG 23/2024: cautelar parcialmente deferida em denúncia sobre recusa de depot em receber contêineres vazios (Santa Catarina);  → aprovado (referendado)
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=9004s)
+- **RD 562 (2024-04-24)**, 20 (provável) · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 77/2020: multa de cerca de R$ 821 mil por cobrar armazenagem adicional da Eurobrasil sem que esta desse cau → aprovado por maioria (3x2) o voto do relator: provimento parcial, infração mantida com mul
+  - votos: Lima: relator; Flávia: outro; Caio: vencido; Alber: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=15714s)
+- **RD 564 (2024-05-29)**, 21 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 120/2023 (arquivamento da proposta de metodologia de abusividade na cobrança de sobre-estadia de contêinere → aprovado por unanimidade (recurso desprovido, com determinações)
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=6608s)
+- **RD 564 (2024-05-29)**, 22 · relator **Lima Filho** · Denúncia com pedido de cautelar sobre cobrança de sobre-estadia de contêineres por atrasos sucessivos do navio (alterações de gates e deadlines) → aprovado por unanimidade (cautelar parcialmente deferida)
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=8144s)
+- **RD 564 (2024-05-29)**, 25 · relator **Lima Filho** · Revisão do arquivamento, pela unidade regional de São Luís, de fiscalização sobre sobre-estadia após a desistência da denúncia (cautelar antecedente e → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=9570s)
+- **RD 564 (2024-05-29)**, 26 · relator **Lima Filho** · Denúncia: exigência de termo de compromisso de devolução de contêiner que responsabiliza despachantes aduaneiros pela sobre-estadia (cautelar concedid → aprovado por unanimidade (denúncia procedente)
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=10110s)
+- **RD 564 (2024-05-29)**, 38 · relator **Caio Farias** · Denúncia com pedido de cautelar para proibir cobranças de sobre-estadia ligadas à falta de espaço para devolução de contêineres vazios em terminais/de → aprovado por unanimidade (denúncia não conhecida; cautelar indeferida)
+  - votos: Caio: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=12583s)
+- **RD 566 (2024-07-17)**, 3 · relator **Lima Filho** · Denúncia de prática abusiva: CMA CGM condiciona a devolução de contêineres ao pagamento à vista, agendamento de pagamento ou confissão de dívida da so → aprovado por maioria nos termos do relator (3 x 2); vencidos Flávia Takafashi e Caio Faria
+  - votos: Lima: relator; Flávia: outro; Caio: vencido; Alber: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=5245s)
+- **RD 566 (2024-07-17)**, 7 · relator **Lima Filho** · Retorno de vista (Flávia Takafashi): cumprimento do Acórdão 90/2023, que concedeu cautelar suspendendo cobranças de detention de contêineres → aprovado (presumido; votação retomada na RD 562 após sustentação oral e voto do relator)
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: revisor_acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=13593s)
+- **RD 568 (2024-08-05)**, 2 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o Acórdão 91/2024 (proposta de acordo sobre processos sancionadores por cobrança de armazenagem adicional) e pedido c → aprovado; recurso conhecido e indeferido, cautelar indeferida
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=3058s)
+- **RD 568 (2024-08-05)**, 26 · relator **Lima Filho** · Processo sancionador por cobrança indevida de armazenagem adicional ao exportador quando o atraso no embarque foi do armador (auto de infração lavrado → aprovado; auto subsistente com alternativa de TAC
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=14295s)
+- **RD 570 (2024-08-30)**, 27 · relator **Lima Filho** · Denúncia com pedido de medida cautelar contra a cobrança da rubrica «entrega postergada» pela BTP em contêineres em regime DTA retirados após 48 h da  → aprovado por unanimidade — denúncia conhecida; cautelar indeferida; pedidos de mérito e su
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=322s)
+- **RD 570 (2024-08-30)**, 32 · relator **Alber Vasconcelos** · Terceiro pedido de medida cautelar sobre cobrança de 9.732 euros de armazenagem/demurrage em Roterdã → aprovado — cautelar conhecida e indeferida (serviço prestado no exterior, fora da jurisdiç
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=16242s)
+- **RD 572 (2024-10-04)**, 26-28 · relator **Caio Farias** · Denúncias contra a cobrança de 'guarda provisória/transitória' de contêineres (item 1.2.13 do anexo 2 da Res. ANTAQ 109/2023) exigida pela BTP dos rec → aprovado por maioria (3 x 2) nos termos do relator; vencidos Eduardo Nery e Lima Filho; pe
+  - votos: Caio: relator; Alber: acompanha; Flávia: acompanha; Eduardo: vencido; Lima: vencido · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=4304s)
+- **RD 574 (2024-10-25)**, 25 · relator **Lima Filho** · Denúncia com pedido de medida cautelar sobre cobrança de sobre-estadia (demurrage) e dificuldades na devolução de contêineres vazios → cautelar indeferida; apuração pela SFC em autos individualizados; aprovado com supressão d
+  - votos: Lima: relator; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=18987s)
+- **RD 574 (2024-10-25)**, 30 · relator **Alber Vasconcelos** · Representação com pedido de cautelar contra a Santos Brasil por cotação de retirada de carga solta (break bulk) supostamente discriminatória aos termi → cautelar indeferida, por unanimidade; SFC e SRG avaliam indícios de atos anticoncorrenciai
+  - votos: Alber: relator; Lima: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=20582s)
+- **RD 576 (2024-11-22)**, 1 · relator **Lima Filho** · Processo sancionador: auto de infração 006343-6 (UR São Luís) por cobrança indevida de sobre-estadia (detention) de contêiner ao exportador após suspe → aprovado por unanimidade — auto de infração subsistente; multa mantida
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=40s)
+- **RD 576 (2024-11-22)**, 2 · relator **Caio Farias** · Referendo da Deliberação DG 101/2024: denúncia com cautelar contra cobrança de detention e cancellation fee após falta de janela de atracação no porto → aprovado por unanimidade — referendada
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=2202s)
+- **RD 576 (2024-11-22)**, 3 · relator **Caio Farias** · Referendo da Deliberação DG 100/2024: cautelar parcial para que o denunciado não impeça a liberação da carga no destino (ameaça de reter o express rel → aprovado por unanimidade — referendada
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=2512s)
+- **RD 576 (2024-11-22)**, 17 · relator **Lima Filho** · Avaliação de Resultado Regulatório (ARR) da Resolução ANTAQ 62/2021 (direitos e deveres de usuários, intermediários e transportadores marítimos; sobre → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=5065s)
+- **RD 578 (2024-12-19)**, 4 · relator **Alber Vasconcelos** · Referendo da Deliberação DG 113/2024: embargos de declaração contra o Acórdão 679/2024 (cobrança ad valorem de armazenagem na tabela C do Porto de Vit → aprovado (referendado) por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=7478s)
+- **RD 578 (2024-12-19)**, 18 · relator **Flávia Takafashi** · Prorrogação do prazo do plano de trabalho da base de dados de cobrança de demurrage de contêineres (Acórdão 120/2023, det. 5.3; Acórdão 265/2024), até → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=12294s)
+- **RD 578 (2024-12-19)**, 23 · relator **Flávia Takafashi** · Denúncia com pedido de cautelar contra cobrança de detention e de armazenagem adicional por falta de janela de embarque no TCP → aprovado por unanimidade (cautelar indeferida)
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=12809s)
+- **RD 578 (2024-12-19)**, 32 · relator **Lima Filho** · Embargos de declaração contra acórdão que proibiu condicionar a informação de local e horário de devolução de contêineres ao pagamento ou agendamento  → aprovado por unanimidade (embargos rejeitados)
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=14659s)
+- **RD 578 (2024-12-19)**, 36-38 · relator **Lima Filho** · Três denúncias conexas com pedido de cautelar contra cobrança de detention, julgadas em bloco → aprovado por unanimidade (cautelares indeferidas; SFC apura o mérito)
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=17744s)
+- **RD 579 (2025-02-13)**, 2 · relator **Lima Filho** · Referendo da Deliberação-DG 225 (DOU de 14/01/2025): medida cautelar contra bloqueio de embarques por cobrança contestada de sobre-estadia de contêine → aprovado por unanimidade (referendo)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=4869s)
+- **RD 579 (2025-02-13)**, 6 · relator **Alber Vasconcelos** · Referendo da Deliberação-DG 5/2025: pedido de cautelar por discriminação/recusa de embarque decorrente do não pagamento de detention → aprovado por unanimidade (referendo)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=5712s)
+- **RD 579 (2025-02-13)**, 8 · relator **Caio Farias** · Referendo da Deliberação-DG 1/2025 (número incerto): conhecimento de denúncia e cautelar contra cobrança de sobre-estadia de contêiner e ameaça de sus → aprovado por unanimidade (referendo)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=6165s)
+- **RD 579 (2025-02-13)**, 15 · relator **Eduardo Nery** · Minuta de TAC para devolução de valor (cerca de R$ 4,9 mil, valor incerto na legenda) de armazenagem adicional considerada ilegítima (Acórdão 492/2024 → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=7016s)
+- **RD 579 (2025-02-13)**, 25 · relator **Flávia Takafashi** · Denúncia com pedido de cautelar contra cobrança de armazenagem adicional por atrasos/omissões do armador → aprovado por unanimidade (cautelar indeferida)
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=11989s)
+- **RD 579 (2025-02-13)**, 27 · relator **Flávia Takafashi** · Denúncia com pedido de cautelar contra cobrança de sobre-estadia de contêiner após rolagens de carga (porto de Paranaguá) → aprovado por unanimidade (cautelar indeferida)
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=12238s)
+- **RD 579 (2025-02-13)**, 52,57-61 · relator **Caio Farias** · Denúncias com pedidos de cautelar contra cobranças de sobre-estadia (detention) de contêineres e ameaça de suspensão de embarques após omissões de nav → aprovado por unanimidade (cautelares indeferidas)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=20628s)
+- **RD 582 (2025-03-17)**, 7 · relator **Caio Farias** · Recurso hierárquico contra a Deliberação 131/2023-SFC: multa por majorar preços de armazenagem e movimentação acima do reajuste pelo IPCA previsto no  → negado provimento, aprovado nos termos do voto do relator (revisor Alber Vasconcelos)
+  - votos: Caio: relator; Alber: revisor_acompanha; Flávia: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=4756s)
+- **RD 582 (2025-03-17)**, 16 · relator **Flávia Takafashi** · Pedido cautelar de sobrestamento e arquivamento de processos sancionadores por cobrança irregular de armazenagem adicional de contêineres anteriores à → aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Caio: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=9012s)
+- **RD 582 (2025-03-17)**, 31 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o item 5.3 do Acórdão 353/2024 (obrigação de divulgar preços máximos por instalação e discriminar preços nos document → negado provimento, aprovado nos termos do voto do relator
+  - votos: Alber: relator; Caio: acompanha; Flávia: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=14517s)
+- **RD 584 (2025-04-10)**, 20 · relator **Alber Vasconcelos** · Denúncia de cobrança indevida de sobre-estadia de contêineres → retirado de pauta pelo relator (ajuste redacional; irá à próxima reunião virtual)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=7885s)
+- **RD 586 (2025-05-19)**, 17 · relator **Flávia Takafashi** · Autorização especial para armazenar cargas de projeto (planta de hidrogênio e amônia) no Terminal Marítimo de Ureia (TMU) por 180 dias a partir de 01/ → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=6450s)
+- **RD 586 (2025-05-19)**, 31 · relator **Lima Filho** · Denúncia com cautelar por práticas comerciais discriminatórias: recusa de transporte ao consignatário por débito de sobre-estadia de contêineres em di → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=10014s)
+- **RD 591 (2025-08-08)**, 13 · relator **Flávia Takafashi** · Inclusão de sete novos processos sancionadores sobre cobrança de armazenagem adicional anteriores à Resolução ANTAQ 112/2024 no regime de julgamento c → aprovado por unanimidade
+  - votos: Flávia: relator; Caio: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=OQ9m51EIHJc&t=4114s)
+- **RD 591 (2025-08-08)**, 20 · relator **Flávia Takafashi** · Diagnóstico sobre os problemas da cadeia logística de contêineres: sobre-estadia (demurrage/detention), falta de janelas nos terminais, depósitos de v → aprovado por unanimidade, com ajustes sugeridos na discussão (redação final lida às 3:41)
+  - votos: Flávia: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=OQ9m51EIHJc&t=5822s)
+- **RD 592 (2025-08-25)**, 26 · relator **Alber Vasconcelos** · Consulta sobre cobrança de detention ao exportador quando o atraso decorre de indisponibilidade de janela de atracação → aprovado por unanimidade
+  - votos: Alber: relator; Caio: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=vDo8pMKcp_Q&t=9754s)
+- **RD 596 (2025-10-09)**, 1 · relator **Flávia Takafashi** · Recurso de reconsideração da BTP contra os Acórdãos 562, 563 e 564/2024 (proibição definitiva da cobrança de guarda provisória/transitória de contêine → negado provimento por maioria (3x2), prevalecendo a divergência de Caio Farias (redator); 
+  - votos: Flávia: relator; Caio: outro; Alber: acompanha; Lima: vencido; Frederico: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=153s)
+- **RD 596 (2025-10-09)**, 2 · relator **Flávia Takafashi** · Recurso de reconsideração da BTP contra os Acórdãos 562, 563 e 564/2024 (proibição definitiva da cobrança de guarda provisória/transitória de contêine → negado provimento por maioria (3x2), prevalecendo a divergência de Caio Farias (redator); 
+  - votos: Flávia: relator; Caio: outro; Alber: acompanha; Lima: vencido; Frederico: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=153s)
+- **RD 596 (2025-10-09)**, 3 · relator **Flávia Takafashi** · Recurso de reconsideração da BTP contra os Acórdãos 562, 563 e 564/2024 (proibição definitiva da cobrança de guarda provisória/transitória de contêine → negado provimento por maioria (3x2), prevalecendo a divergência de Caio Farias (redator); 
+  - votos: Flávia: relator; Caio: outro; Alber: acompanha; Lima: vencido; Frederico: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=153s)
+- **RD 596 (2025-10-09)**, 4 · relator **Lima Filho** · Atendimento ao item 5.4 do Acórdão 80/2023: manifestação conclusiva sobre abusividade de cobranças (serviços acessórios a contêiner LCL, rubricas dupl → pedido de vista de Alber Vasconcelos; voto do relator não proferido
+  - votos: Lima: relator; Alber: vista · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=5602s)
+- **RD 596 (2025-10-09)**, 25 · relator **Flávia Takafashi** · Referendo da Deliberação DG 79/2025: medida cautelar em denúncia de cobrança irregular de sobre-estadia de contêineres (dificuldade de devolução de va → referendado por unanimidade
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=9251s)
+- **RD 596 (2025-10-09)**, 18 · relator **Frederico Dias** · Revisão extraordinária da Agenda Regulatória 2025-2028: antecipa estadia de contêiner (Res. 62/2021); inclui transmutação de instalações com contrato  → aprovado por unanimidade, com priorização dos temas incluídos (sugestão de Alber Vasconcel
+  - votos: Frederico: relator; Flávia: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=10222s)
+- **RD 596 (2025-10-09)**, 19 · relator **Flávia Takafashi** · Pedido de medida cautelar em denúncia de cobrança supostamente irregular de sobre-estadia de contêineres; julgamento em bloco dos itens 19 a 22 → aprovado por unanimidade (perda de objeto)
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=11083s)
+- **RD 596 (2025-10-09)**, 20 · relator **Flávia Takafashi** · Pedido de medida cautelar em denúncia de cobrança supostamente irregular de sobre-estadia de contêineres; julgamento em bloco dos itens 19 a 22 → aprovado por unanimidade (perda de objeto)
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=11083s)
+- **RD 596 (2025-10-09)**, 21 · relator **Flávia Takafashi** · Pedido de medida cautelar em denúncia de cobrança supostamente irregular de sobre-estadia de contêineres; julgamento em bloco dos itens 19 a 22 → aprovado por unanimidade (perda de objeto)
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=11083s)
+- **RD 596 (2025-10-09)**, 22 · relator **Flávia Takafashi** · Pedido de medida cautelar em denúncia de cobrança supostamente irregular de sobre-estadia de contêineres; julgamento em bloco dos itens 19 a 22 → aprovado por unanimidade (perda de objeto)
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=11083s)
+- **RD 598 (2025-11-13)**, 36 · relator **Alber Vasconcelos** · Pleito de invalidação/aperfeiçoamento da Resolução ANTAQ 112/2024 (matriz de alocação de riscos da armazenagem adicional / sobre-estadia de contêinere → aprovado por unanimidade (pleito não conhecido)
+  - votos: Alber: relator; Frederico: outro; Flávia: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=644s)
+- **RD 598 (2025-11-13)**, 8 · relator **Lima Filho** · Denúncia com pedido de cautelar sobre cobrança de armazenagem, levante e pesagem de cargas em regime de trânsito aduaneiro (DTC) pela Portonave; retor → aprovado por unanimidade (cautelar indeferida)
+  - votos: Lima: relator; Frederico: acompanha; Flávia: acompanha; Alber: revisor_acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=4555s)
+- **RD 598 (2025-11-13)**, 30 · relator **Lima Filho** · Denúncia com pedido de cautelar contra cobrança de armazenagem adicional e protestos em órgãos de proteção ao crédito → aprovado por unanimidade (cautelar indeferida; SFC apura o mérito)
+  - votos: Lima: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=12963s)
+- **RD 600 (2025-12-15)**, 5 · relator **Lima Filho** · Atendimento ao item 5.4 do Acórdão 80/2023: abusividade na cobrança de serviços por contêiner em carga fracionada (LCL) — retorno de vista da revisora → aprovado o voto divergente da revisora (Flávia Takafashi); relator vencido
+  - votos: Lima: vencido; Flávia: revisor_diverge; Caio: revisor_acompanha; Alber: revisor_acompanha; Frederico: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=5578s)
+- **RD 600 (2025-12-15)**, Flávia-a (nº de pauta não dito) · relator **Flávia Takafashi** · Consulta sobre o termo inicial do cálculo da armazenagem adicional (Res. 72/2022 e 112/2024): ETA, ETB ou ETD → aprovado (sem divergência); registro em ata de orientação à SRG sobre triagem de consultas
+  - votos: Flávia: relator; Caio: acompanha; Frederico: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=10694s)
+- **RD 600 (2025-12-15)**, 31 · relator **Lima Filho** · Medida cautelar contra cobrança de demurrage por atraso na devolução de contêineres causado por greve/operação-padrão da Receita Federal → aprovado: cautelar deferida (sem divergência)
+  - votos: Lima: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=16278s)
+- **RD 603 (2026-02-24)**, 12 · relator **Flávia Takafashi** · Projeto da SRG de banco de dados sobre estadia (sobrestadia/demurrage) de contêineres, em atendimento ao item 5.3 do Acórdão 120/2023 → aprovado (sem divergência)
+  - votos: Frederico: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=5402s)
+- **RD 603 (2026-02-24)**, 19 · relator **Flávia Takafashi** · Diagnóstico da SFC sobre a cadeia logística de contêineres e implementação do Acórdão 521/2025 (rito sumário para denúncias de sobrestadia) → aprovado (sem divergência), com acréscimo sugerido pelo Diretor-Geral
+  - votos: Frederico: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=7553s)
+- **RD 603 (2026-02-24)**, 29 · relator **Alber Vasconcelos** · Fiscalização temática sobre oferta de janelas operacionais para entrada de contêineres nos terminais (exportação) → aprovado (sem divergência)
+  - votos: Frederico: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=11890s)
+- **RD 605 (2026-03-24)**, 1 · relator **Lima Filho** · Decisão de mérito em denúncia com pedido cautelar: suposta retenção indevida de contêineres condicionada ao pagamento de armazenagem, THC e serviços a → aprovado por unanimidade (denúncia improcedente)
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=337s)
+- **RD 605 (2026-03-24)**, 2 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 734/2025 (Res. ANTAQ 112/2024, matriz de responsabilidade/risco sobre armazenagem adicional): pedido de exc → recurso conhecido e não provido, por unanimidade
+  - votos: Lima: relator; Alber: acompanha; Frederico: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=762s)
+- **RD 605 (2026-03-24)**, 7 · relator **Cristina Castro** · Denúncia com pedido cautelar: cobrança de rotulagem de contêiner com carga IMO (item 6.44), posicionamento (6.02) e entrega postergada (6.08) ao recin → cautelar deferida por unanimidade
+  - votos: Cristina: relator; Alber: acompanha; Frederico: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=4658s)
+- **RD 605 (2026-03-24)**, 12 · relator **Lima Filho** · Decisão de mérito em denúncia com pedido cautelar: cobranças supostamente indevidas de sobre-estadia de contêiner (demurrage) → aprovado por unanimidade (denúncia indeferida)
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=7606s)
+- **RD 605 (2026-03-24)**, 29 · relator **Cristina Castro** · Denúncia com pedido cautelar contra cobrança de sobre-estadia (demurrage) de dois contêineres em Santos (dez/2024–jan/2025) → cautelar indeferida por unanimidade
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=13015s)
+- **RD 607 (2026-04-23)**, 5 · relator **Lima Filho** · Denúncia com pedido cautelar sobre cobranças de armazenagem com retenção da carga condicionada ao pagamento; composição amigável e pedido de arquivame → aprovado por unanimidade
+  - votos: Frederico: acompanha; Lima: relator; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=2592s)
+- **RD 607 (2026-04-23)**, 27 · relator **Cristina Castro** · Recurso contra o acórdão 636/2024, que indeferiu cautelar em denúncia de cobrança abusiva pela Santos Brasil para movimentação de carga solta (item 4. → recurso desprovido por unanimidade
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: relator · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=9464s)
+- **RD 607 (2026-04-23)**, 29 · relator **Cristina Castro** · Recurso hierárquico contra deliberação PAS 23/2025-SFC (auto de infração 0065730, multa de R$ 302.500) por descumprir a cautelar da Resolução 7574-ANT → recurso desprovido por unanimidade
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: relator · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=10090s)
+- **RD 611 (2026-06-11)**, 1 · relator **Lima Filho** · Recurso de reconsideração contra o item 5.4 do Acórdão 831/2025 (teto para serviços acessórios em contêiner LCL igual ao do FCL; aplicação imediata ao → negado provimento (aprovado sem manifestação contrária)
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=237s)
+- **RD 611 (2026-06-11)**, 8 · relator **Cristina Castro** · Referendo da Deliberação DG 35/2026: cautelar suspendendo fatura em denúncia contra transportador marítimo → referendado
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=7116s)
+- **RD 611 (2026-06-11)**, 14 · relator **Lima Filho** · Embargos de declaração (itens 14, 15 e 16 em bloco) contra os Acórdãos 714/2023 e 715/2023 sobre os pátios de triagem obrigatórios fora do porto de Su → aprovado: embargos das operadoras providos (com efeitos infringentes) e da associação desp
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=9216s)
+- **RD 611 (2026-06-11)**, 15 · relator **Lima Filho** · Embargos de declaração (itens 14, 15 e 16 em bloco) contra os Acórdãos 714/2023 e 715/2023 sobre os pátios de triagem obrigatórios fora do porto de Su → aprovado: embargos das operadoras providos (com efeitos infringentes) e da associação desp
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=9216s)
+- **RD 611 (2026-06-11)**, 16 · relator **Lima Filho** · Embargos de declaração (itens 14, 15 e 16 em bloco) contra os Acórdãos 714/2023 e 715/2023 sobre os pátios de triagem obrigatórios fora do porto de Su → aprovado: embargos das operadoras providos (com efeitos infringentes) e da associação desp
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=9216s)
+- **RD 611 (2026-06-11)**, 37 · relator **Cristina Castro** · Petição da BTP (protocolada como embargos de declaração) contra o Acórdão 141/2026 (cautelar suspendendo a taxa de aplicação de rótulos IMO, item 6.44 → retirado de pauta pela relatora após questão de ordem de Caio Farias (voto lido, depois re
+  - votos: Cristina: relator; Caio: outro; Frederico: outro · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=16587s)
+- **RD 611 (2026-06-11)**, 41 · relator **Cristina Castro** · Reavaliação da cautelar do Acórdão 772/2025 que suspendera cobrança de sobre-estadia de contêiner → cautelar revogada (aprovado)
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=18543s)
+- **RD 614 (2026-08-20)**, 21 · relator **Caio Farias** · Denúncia de cobrança indevida de sobre-estadia de contêineres (demurrage) → aprovado (sem divergência registrada): arquivamento
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=8926s)
+- **RD 614 (2026-08-20)**, 30 · relator **Cristina Castro** · Manifestação da BTP (item 5.4 do Acórdão 141/2026) contra a cautelar que suspendeu a cobrança da taxa de aplicação de rótulos IMO (item 6.44 da tabela → vencida a relatora: mantida a cautelar por 3 a 2 (divergência de Alber Vasconcelos)
+  - votos: Cristina: relator; Alber: outro; Frederico: acompanha; Caio: acompanha; Lima: vencido · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=9880s)
+- **RD 614 (2026-08-20)**, 31 · relator **Cristina Castro** · Manual de fiscalização da Res. 112/2024 (matriz de responsabilidade por armazenagem adicional), em cumprimento ao item 5.3.3 do Acórdão 94/2024 → aprovado (sem divergência registrada)
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=10649s)
+- **RD 619 (2026-09-24)**, 2 · relator **Alber Vasconcelos** · Pedido de medida cautelar em denúncia de cobranças de armazenagem abusivas em operações LCL (desova de contêineres) faturadas por terceira empresa; su → cautelar indeferida e processo arquivado (aprovado)
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=3021s)

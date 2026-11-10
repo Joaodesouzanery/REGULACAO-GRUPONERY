@@ -1,0 +1,138 @@
+# Itens do tema «mediacao» (todos os diretores)
+
+- **RD 458 (2019-04-04)**, 16 · relator **Francisval Mendes** · Pedido de reconsideração da CDRJ em conflito tarifário: desconto de 50% para cabotagem em operações offshore no porto de Angra dos Reis → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=3857s)
+- **RD 459 (2019-04-15)**, 12 · relator **Mário Povia** · Regulamentação do procedimento de harmonização/arbitragem de conflitos (agenda regulatória 2016-2017, tema 4.1) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=3909s)
+- **RD 460 (2019-05-06)**, 47 · relator **None** · Extrapauta: medida cautelar em pedido de arbitragem administrativa para obrigar a Codesp a autorizar descarga de condensado de navio no terminal da Il → cautelar indeferida por unanimidade
+  - votos: Francisval: outro; Adalberto: outro; Mário: outro · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=6509s)
+- **RD 463 (2019-06-26)**, 38 · relator **Adalberto Tokarski** · Arbitragem administrativa sobre cobrança das tabelas tarifárias 1 e 2 (acesso aquaviário e terrestre, estrada particular da CODESP) à Embraport, TUP c → não concluído: vista de Mário Povia após o voto do relator
+  - votos: Adalberto: relator; Mário: vista; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=8911s)
+- **RD 464 (2019-06-28)**, 3 · relator **Adalberto Tokarski** · Arbitragem administrativa de conflito: cobrança das tarifas portuárias Tabela 1 (acesso aquaviário, pleito de proporcionalidade) e Tabela 2 item 5 (ac → voto-vista divergente em parte proferido por Mário Povia; processo vai à vista de Francisv
+  - votos: Adalberto: relator; Mário: revisor_diverge; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=65s)
+- **RD 464 (2019-06-28)**, 15 · relator **Mário Povia** · Arbitragem regulatória com pedido cautelar: cobrança pela CDRJ (cerca de R$ 11,35 milhões) por não atingimento da movimentação mínima contratual (MMC) → voto do relator proferido; processo vai à vista de Adalberto Tokarski
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=7174s)
+- **RD 466 (2019-09-27)**, 133 (referendo) · relator **Francisval Mendes** · Referendo da Resolução 7.165: indeferimento de cautelar para suspender a devolução dos terminais T35 e T37 do Porto de Santos → referendado
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=11727s)
+- **RD 466 (2019-09-27)**, 159 · relator **Adalberto Tokarski** · Arbitragem administrativa de conflitos (relator Adalberto Tokarski e Mário Povia já votaram em reunião anterior) → sobrestamento proposto por Francisval Mendes diante de possível composição entre as partes
+  - votos: Francisval: revisor_acompanha; Mário: outro; Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=12382s)
+- **RD 467 (2019-10-21)**, 7 · relator **Adalberto Tokarski** · Arbitragem administrativa de conflito: proporcionalidade tarifária prevista no contrato de adesão do TUP Embraport (Santos) → aprovado nos termos do voto-vista de Mário Povia (relator vencido)
+  - votos: Adalberto: vencido; Mário: revisor_diverge; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=1314s)
+- **RD 467 (2019-10-21)**, 12 · relator **Mário Povia** · Arbitragem regulatória: MMC e profundidade do canal de acesso (desequilíbrio econômico-financeiro do arrendamento) → aprovado nos termos do voto condutor (relator), por maioria; Tokarski vencido (resultado c
+  - votos: Mário: relator; Adalberto: revisor_diverge; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=3125s)
+- **RD 472 (2020-02-10)**, 7 · relator **Mário Povia** · Pedido de reconsideração contra Res. 6895-ANTAQ (cautelar para descarregamento de condensado no terminal Ilha Barnabé, Santos) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=556s)
+- **RD 473 (2020-02-10)**, 29 · relator **Francisval Mendes** · Pedido de arbitragem e medida cautelar para suspender a devolução dos terminais 35 e 37 → aprovado por unanimidade — autos ao Minfra para avaliar rescisão do T-33; SFC inventaria b
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=8867s)
+- **RD 474 (2020-03-06)**, 39 · relator **Gabriela Costa** · Pedido de procedimento conciliatório por suposto conflito locacional entre TUP pretendido e instalação flutuante já registrada (Res. 6.602) → aprovado por unanimidade — pedido indeferido
+  - votos: Gabriela: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=9182s)
+- **RD 481 (2020-07-04)**, 1 · relator **Gabriela Costa** · Arbitragem administrativa de conflito (processo de ofício) decorrente de resoluções da diretoria executiva da SCPar Porto de São Francisco do Sul; ret → aprovado (voto da relatora, já proferido em reunião anterior)
+  - votos: Gabriela: relator; Adalberto: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=62s)
+- **RD 481 (2020-07-04)**, 13 · relator **Adalberto Tokarski** · Pedido de mediação da ANTAQ em conflito entre terminal associado à ABTL e o DNIT/União; relator leu o voto, vista de Gabriela Costa → pedido de vista (Gabriela Costa) após leitura do voto do relator
+  - votos: Adalberto: relator; Gabriela: vista · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=3032s)
+- **RD 490 (2020-12-08)**, 54 · relator **Adalberto Tokarski** · Pedido de reconsideração da Resolução 7.607 que indeferiu procedimento conciliatório (São Francisco do Sul-SC) → aprovado por unanimidade (indeferido)
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=18192s)
+- **RD 492 (2020-12-22)**, 25 · relator **Francisval Mendes** · Arbitragem: juros e multas da APPA sobre valores depositados antecipadamente → pedido de vista (diretor não identificado com segurança, provavelmente Eduardo Nery)
+  - votos: Francisval: relator · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=7116s)
+- **RD 492 (2020-12-22)**, 41 · relator **Adalberto Tokarski** · Arbitragem regulatória com pedido cautelar: remuneração do uso da área do porto organizado de Itaguaí pelo ramal ferroviário da Porto Sudeste (contrat → pedido de vista (Francisval Mendes)
+  - votos: Adalberto: relator; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=7725s)
+- **RD 492 (2020-12-22)**, 42 · relator **Adalberto Tokarski** · Mediação de controvérsia sobre cobrança pela área explorada (Porto Velho) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=10080s)
+- **RD 494 (2021-02-03)**, 6 · relator **Adalberto Tokarski** · Arbitragem regulatória com pedido de cautelar: remuneração pela ocupação de área do porto organizado de Itaguaí pelo ramal ferroviário de acesso ao Po → pedido de vista (Eduardo Nery); julgamento suspenso
+  - votos: Adalberto: relator; Francisval: revisor_diverge; Eduardo: vista · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=973s)
+- **RD 496 (2021-03-10)**, 3 · relator **Adalberto Tokarski** · Arbitragem regulatória com cautelar sobre a ocupação de área do porto de Itaguaí pelo ramal ferroviário do Porto Sudeste: retirada de pauta a pedido c → retirado de pauta por até 60 dias, para as partes apresentarem acordo
+  - votos: Eduardo: outro; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=480s)
+- **RD 496 (2021-03-10)**, 37 · relator **Adalberto Tokarski** · Pedido de arbitragem: retirado de pauta pelo relator após considerações do DG → retirado de pauta
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=8869s)
+- **RD 496 (2021-03-10)**, 52 · relator **Gabriela Costa** · Pedido de arbitramento com cautelar contra reajuste contratual pelo IGP-M → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=11325s)
+- **RD 504 (2021-07-08)**, 13 · relator **Adalberto Tokarski** · Arbitragem regulatória com pedido de cautelar (uso de área; contraprestação 2010-2020) → vista renovada (acordo entre as partes protocolado no dia)
+  - votos: Eduardo: vista; Adalberto: relator; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=2785s)
+- **RD 504 (2021-07-08)**, 25 · relator **Adalberto Tokarski** · Arbitragem regulatória: cobrança de movimentação variável de contrato de transição → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=6506s)
+- **RD 504 (2021-07-08)**, 26 · relator **Adalberto Tokarski** · Interesse da ANTAQ em firmar compromisso arbitral sobre reequilíbrio do contrato de arrendamento PRES 028/98 (Decreto 10.025/2019) → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=6916s)
+- **RD 506 (2021-08-23)**, 14 · relator **Adalberto Tokarski** · Arbitragem regulatória sobre remuneração pelo uso de área do porto organizado (ramal ferroviário) pela Porto Sudeste — voto-vista de Eduardo Nery após → arquivado por perda de objeto (unanimidade dos votantes)
+  - votos: Eduardo: revisor_acompanha; Adalberto: revisor_acompanha; Flávia: outro · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=4670s)
+- **RD 508 (2021-09-09)**, 23 · relator **Adalberto Tokarski** · Arbitragem de conflito sobre remuneração pelo uso do canal de acesso e bacia de evolução em Barra do Riacho (ES) → aprovado por unanimidade
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=7351s)
+- **RD 508 (2021-09-09)**, 27 · relator **Adalberto Tokarski** · Pedido de arbitragem sobre movimentação mínima contratual (MMC) do contrato de arrendamento 3/95 e medida cautelar contra paralisação por multas → aprovado por unanimidade, com ajuste de Flávia
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=8346s)
+- **RD 514 (2021-12-10)**, 44 · relator **Flávia Takafashi** · Arbitragem/mediação de conflito sobre ocupação de faixa de dutos (GLP-duto de 6 pol., faixa OSSP) junto ao terminal da Alemoa, porto de Santos → aprovado (voto do DG não verbalizado na legenda)
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=22423s)
+- **RD 516 (2022-02-04)**, 43 · relator **Flávia Takafashi** · Tema 4.1 da agenda regulatória: norma de harmonização de conflitos (mediação e arbitragem regulatória) → aprovado por unanimidade nos termos do voto da relatora
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=18931s)
+- **RD 530 (2022-09-29)**, sustentação 1 (pauta) · relator **Flávia Takafashi** · Pedido da Codesa de dilação de 18 meses do prazo para cumprir o Acórdão 399/2022 (oferecer alternativa logística ao TPS para embarque de cargas pelo d → aprovado por unanimidade: provimento parcial, prazo adicional de 45 dias (e não 18 meses)
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=231s)
+- **RD 530 (2022-09-29)**, 27 · relator **Flávia Takafashi** · Cumprimento do item 5.2 do Acórdão 270/2022: arbitragem dos parâmetros de contrato de passagem para esteiras e pórtico do moinho no Porto de Natal → aprovado por unanimidade
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=7524s)
+- **RD 530 (2022-09-29)**, 33 · relator **Flávia Takafashi** · Pedido de arbitragem com cautelar para trocar o índice de reajuste (IGP-M por IPCA) do contrato de transição 18/2021 → aprovado: cautelar e arbitragem indeferidas
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=8132s)
+- **RD 543 (2023-05-24)**, 13 · relator **Flávia Takafashi** · Resolução sobre procedimento administrativo para harmonização de conflitos (mediação e arbitragem regulatória) entre agentes do setor regulado → aprovado
+  - votos: Flávia: relator; Eduardo: outro; Lima: outro; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=8642s)
+- **RD 543 (2023-05-24)**, 22 · relator **Lima Filho** · Pedido da APPA de solução consensual da lide judicial movida pela Interalli → pedido de vista (Eduardo Nery)
+  - votos: Eduardo: vista · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=10711s)
+- **RD 545 (2023-06-23)**, 11 · relator **Lima Filho** · Solução consensual de litígio judicial (2ª Vara Federal de Curitiba): revisão do art. 2º da Resolução 2.810/2013 da ANTAQ, que declarou nulo o 11º ter → aprovado por unanimidade, com prazo de 90 dias sugerido por Alber Vasconcelos
+  - votos: Lima: relator; Eduardo: revisor_acompanha; Alber: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=11304s)
+- **RD 549 (2023-08-31)**, 10 · relator **Lima Filho** · Retomada após vista de Caio Farias: arbitragem regulatória sobre cobrança retroativa de tarifa de atracação dos navios de pesquisa Alpha Crucis e Alph → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=7679s)
+- **RD 549 (2023-08-31)**, 11 · relator **Lima Filho** · Retomada após vista de Alber Vasconcelos: arbitragem administrativa sobre vigência e valores do contrato de uso temporário 01/2016 para área de combus → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: revisor_acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=7964s)
+- **RD 554 (2023-10-26)**, 7 · relator **Eduardo Nery** · Arbitragem regulatória: responsabilidade pelo reparo do molhe de abrigo de Praia Mole (ES), avariado por ciclone extratropical em 2006, e dever de a C → aprovado (votação simbólica, sem divergência registrada) — Codesa responsável pela indeniz
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=63s)
+- **RD 566 (2024-07-17)**, 30 · relator **Caio Farias** · Consulta incidental: cabe arbitragem regulatória (Res. 98/2023) para ressarcimento de valores supostamente cobrados indevidamente, durante processo sa → aprovado
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=21760s)
+- **RD 568 (2024-08-05)**, 1 · relator **Flávia Takafashi** · Arbitragem regulatória sobre a cobrança da remuneração variável de transbordo (cláusula 12ª, inciso V): por contêiner transbordado (ciclo) ou por movi → aprovado; pedido da TCP julgado improcedente
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=330s)
+- **RD 570 (2024-08-30)**, 1 · relator **Caio Farias** · Recurso de reconsideração contra o Acórdão 466/2023, que deu provimento à arbitragem pedida pela CDP sobre a metodologia de reajuste (variação acumula → aprovado (recurso conhecido e desprovido) — anúncio do resultado truncado na legenda
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=5621s)
+- **RD 572 (2024-10-04)**, 1 · relator **Flávia Takafashi** · Conflito CDP x Hidrovias do Brasil: cumprimento do item 5.5 do Acórdão 533/2022 — desconto na Tabela 1 (item 2.1.3, infraestrutura aquaviária) para em → aprovado por unanimidade, com ajuste proposto por Alber Vasconcelos (criação de rubrica 2.
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=435s)
+- **RD 572 (2024-10-04)**, 29 · relator **Caio Farias** · Homologação de acordo em mediação sobre cobrança de tarifas de infraestrutura terrestre para passageiros (cruzeiros) no Porto de Salvador → aprovado (homologado)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=11442s)
+- **RD 574 (2024-10-25)**, 6 · relator **Alber Vasconcelos** · Referendo da Deliberação DG 87/2024: antecipação de tarifas portuárias (Tabela I) pela Portonave à SPI para manter a dragagem de manutenção do Porto d → referendado, por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Caio: acompanha; Flávia: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=4752s)
+- **RD 576 (2024-11-22)**, 26 · relator **Alber Vasconcelos** · Embargos de declaração contra a Deliberação DG 87/2024 (item 3.3.4: proibição de outros descontos tarifários na operação acordada em mediação SPI–Port → aprovado por unanimidade — embargos conhecidos (embora intempestivos) para esclarecer
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=8421s)
+- **RD 578 (2024-12-19)**, 9 · relator **Eduardo Nery** · Proposta de acordo para encerrar ação judicial sobre o reequilíbrio do contrato de arrendamento 09/98 (terminal de veículos da Volkswagen, Porto de Pa → aprovado por maioria (3 x 2) nos termos do voto original do relator, conduzido pelo direto
+  - votos: Eduardo: vencido; Flávia: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=121s)
+- **RD 578 (2024-12-19)**, 26 · relator **Lima Filho** · Manual de mediação e arbitragem regulatória da ANTAQ (Res. 98/2023) → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=14050s)
+- **RD 582 (2025-03-17)**, 4 (referendo) · relator **Caio Farias** · Referendo da Deliberação DG 16/2025: medida cautelar incidental suspendendo a cobrança de faturas da Codeba com base no item 4 da tabela 3 do tarifári → referendado (aprovado sem divergência)
+  - votos: Caio: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=4415s)
+- **RD 582 (2025-03-17)**, 9 · relator **Lima Filho** · Arbitragem administrativa sobre multa por suposto descumprimento da movimentação mínima contratual (MMC) de 2016–2019 no contrato de arrendamento 3/95 → aprovado nos termos do voto do relator (conversão em diligência)
+  - votos: Lima: relator; Flávia: revisor_acompanha; Caio: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=5177s)
+- **RD 584 (2025-04-10)**, 23 · relator **Alber Vasconcelos** · Recurso de revisão contra o Acórdão 27/2024 (ocupação de faixa do duto de GLP no Porto de Santos; Petrobras apresenta matrículas de imóvel como fato n → aprovado nos termos do voto do relator (recurso não conhecido; petição remetida a Lima Fil
+  - votos: Alber: relator; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=9004s)
+- **RD 586 (2025-05-19)**, 13 · relator **Caio Farias** · Pedido de medida cautelar incidental para suspender o contrato de passagem 1/2021 entre EMAP e TEMAP (granéis líquidos) → aprovado com acréscimo do item 5.5 sugerido por Alber Vasconcelos (dispositivo relido ao f
+  - votos: Caio: relator; Alber: acompanha; Flávia: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=3607s)
+- **RD 586 (2025-05-19)**, 18 · relator **Flávia Takafashi** · Arbitragem regulatória: cobrança de tarifa de energia elétrica (cerca de R$ 198,5 mil) para o scanner de contêineres locado pela operadora → aprovado (procedência parcial)
+  - votos: Caio: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=6634s)
+- **RD 586 (2025-05-19)**, 32 · relator **Lima Filho** · Embargos de declaração contra o Acórdão 216/2024 (legenda: '2624'): abrangência temporal do desconto tarifário (rubrica 2.1.3.1 da tabela 1, criada pe → julgamento interrompido por pedido de vista de Flávia Takafashi (após o voto do relator)
+  - votos: Lima: relator; Flávia: vista; Caio: outro; Alber: outro · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=10479s)
+- **RD 586 (2025-05-19)**, 48 · relator **Alber Vasconcelos** · Pedido de solução de conflito (Res. 98/2023 e 62/2021) por desembarque em destino diferente do previsto, com custo adicional de cerca de R$ 80 mil ao  → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=15452s)
+- **RD 588 (2025-06-05)**, 1 · relator **Lima Filho** · Pedido de reconsideração da VPorts contra o Acórdão 585/2023 (arbitragem regulatória sobre responsabilidade pelo reparo do molhe de abrigo de Praia Mo → aprovado por unanimidade: pedido conhecido e negado provimento; indeferido o sobrestamento
+  - votos: Lima: relator; Caio: acompanha; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=5895s)
+- **RD 594 (2025-09-11)**, 14 · relator **Flávia Takafashi** · Manifestação sobre proposta de solução consensual da ação judicial: revisão da MMC do arrendamento Tecon Imbituba e pagamento das diferenças de MMC de → aprovado: manifestação favorável ao acordo (votação simbólica)
+  - votos: Flávia: relator; Alber: acompanha; Frederico: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=moqX_srlNM0&t=3100s)
+- **RD 596 (2025-10-09)**, 19 · relator **Flávia Takafashi** · Pedido de medida cautelar em denúncia de cobrança supostamente irregular de sobre-estadia de contêineres; julgamento em bloco dos itens 19 a 22 → aprovado por unanimidade (perda de objeto)
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=11083s)
+- **RD 596 (2025-10-09)**, 20 · relator **Flávia Takafashi** · Pedido de medida cautelar em denúncia de cobrança supostamente irregular de sobre-estadia de contêineres; julgamento em bloco dos itens 19 a 22 → aprovado por unanimidade (perda de objeto)
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=11083s)
+- **RD 596 (2025-10-09)**, 21 · relator **Flávia Takafashi** · Pedido de medida cautelar em denúncia de cobrança supostamente irregular de sobre-estadia de contêineres; julgamento em bloco dos itens 19 a 22 → aprovado por unanimidade (perda de objeto)
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=11083s)
+- **RD 596 (2025-10-09)**, 22 · relator **Flávia Takafashi** · Pedido de medida cautelar em denúncia de cobrança supostamente irregular de sobre-estadia de contêineres; julgamento em bloco dos itens 19 a 22 → aprovado por unanimidade (perda de objeto)
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=11083s)
+- **RD 603 (2026-02-24)**, 10 · relator **Flávia Takafashi** · Proposta de alteração da Resolução ANTAQ 75/2022 (norma de fiscalização portuária e infrações) para submissão à participação social → aprovado (sem divergência)
+  - votos: Frederico: acompanha; Flávia: relator; Lima: revisor_acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=3474s)
+- **RD 603 (2026-02-24)**, 19 · relator **Flávia Takafashi** · Diagnóstico da SFC sobre a cadeia logística de contêineres e implementação do Acórdão 521/2025 (rito sumário para denúncias de sobrestadia) → aprovado (sem divergência), com acréscimo sugerido pelo Diretor-Geral
+  - votos: Frederico: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=7553s)
+- **RD 605 (2026-03-24)**, 16 · relator **Lima Filho** · Estabelecimento de esquema operacional provisório para a travessia de passageiros e veículos Manaus–Careiro da Várzea (AM), até o fim da Chamada Públi → convertido em diligência por maioria: proposta de Alber Vasconcelos (devolver ao comitê pe
+  - votos: Lima: relator; Alber: outro; Frederico: acompanha; Cristina: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=8751s)
+- **RD 605 (2026-03-24)**, 29 · relator **Cristina Castro** · Denúncia com pedido cautelar contra cobrança de sobre-estadia (demurrage) de dois contêineres em Santos (dez/2024–jan/2025) → cautelar indeferida por unanimidade
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=13015s)
+- **RD 611 (2026-06-11)**, 43 · relator **Alber Vasconcelos** · Ofício 184/2026 da SNP: análise do estudo de viabilidade para o termo aditivo de autocomposição APS-Movecta (prazo de amortização de investimentos de  → aprovado
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=13928s)
+- **RD 619 (2026-09-24)**, 2 · relator **Alber Vasconcelos** · Pedido de medida cautelar em denúncia de cobranças de armazenagem abusivas em operações LCL (desova de contêineres) faturadas por terceira empresa; su → cautelar indeferida e processo arquivado (aprovado)
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=3021s)

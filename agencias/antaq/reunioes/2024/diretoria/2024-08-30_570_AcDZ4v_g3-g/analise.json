@@ -1,0 +1,1914 @@
+{
+ "meta": {
+  "video_id": "AcDZ4v_g3-g",
+  "fonte": "legenda automática do YouTube; .md sem marcadores de minuto, ts tirados de data/transcricoes/AcDZ4v_g3-g.json; falantes inferidos pelo contexto; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "570",
+  "data": "2024-08-30",
+  "formato": "videoconferência / transmissão com sustentações orais remotas",
+  "presidente_da_sessao": "Eduardo Nery (Diretor-Geral)",
+  "diretores_presentes": [
+   "Eduardo Nery",
+   "Flávia Takafashi",
+   "Lima Filho",
+   "Alber Vasconcelos",
+   "Caio Farias"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Sessão de ~5h15 com pausa para almoço (~2:33, retomada às 13h); homologadas as atas 568 e 569; procurador-chefe Flávio Chiarelli representou a PF-ANTAQ.",
+   "Comunicações do DG: leilão de cinco áreas na B3 na véspera; selo ouro (Res. 109/2023) e dois selos prata (Res. 100/2023 – THC, Res. 98/2023 – conflitos) no prêmio de boas práticas regulatórias.",
+   "Sustentações orais nos itens 27 (Marimex x BTP), 28 (Triunfo/ICTSI/Logística Brasil) e 1 (Convicon); a do item 17 foi adiada pela retirada de pauta.",
+   "Vistas: Alber no item 28 (Triunfo); Nery no item 16 (RN 13); Flávia no item 25; renovações de vista nos itens 7 (Alber), 8 (Lima Filho) e 11 (Nery). Itens 9 e 10 (Alcoa, EBN) julgados em bloco com voto-vista de Flávia.",
+   "Debates relevantes: item 19 (Nery impõe prazos à Vanguarda e à SFC, com resistência inicial da relatora) e item 20 (Alber diverge da via da autorização especial e critica a SOG; solução de consenso com autorização especial de 60 dias e prazo de 30 dias à SOG). Nenhum voto vencido registrado.",
+   "Seca na Amazônia motivou três itens (5, 6 e 39)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "27",
+   "ts": "0:05:22",
+   "processo": "50300.010964/2024-35",
+   "interessado": "Marimex Despachos, Transportes e Serviços Ltda. (denunciante) x Brasil Terminal Portuário – BTP (Santos)",
+   "assunto": "Denúncia com pedido de medida cautelar contra a cobrança da rubrica «entrega postergada» pela BTP em contêineres em regime DTA retirados após 48 h da descarga e alegada ineficiência na abertura de janelas; pedido de criação da rubrica «liberação postergada»; com sustentações orais",
+   "tema": [
+    "serviços nos terminais (armazenagem, entrega postergada)",
+    "tarifas portuárias (THC/SSE)",
+    "concorrência terminal molhado x recinto alfandegado",
+    "fiscalização e sanções",
+    "porto de Santos"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado por unanimidade — denúncia conhecida; cautelar indeferida; pedidos de mérito e subsidiário indeferidos; SFC apura em autos apartados a adequação das janelas operacionais da BTP no prazo de 60 dias (acréscimo de Alber Vasconcelos acolhido pelo relator)",
+   "resumo_voto": "Cobrança tem amparo nas Resoluções 72/2022 e 109/2023, em precedentes da agência e na IN RFB 248 (prazo de 48 h); entrega postergada não se confunde com SSE, guarda provisória ou THC; sem perigo da demora nem prova de conduta anticompetitiva; criação de nova rubrica traria complexidade sem benefício; mas os 1.300 contêineres com atraso justificam fiscalização das janelas da BTP.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator (com considerações)",
+     "ts": "0:54:00",
+     "justificativa": "SSE e guarda provisória hoje não são reconhecidos pela ANTAQ por força de determinação do TCU, logo não há confusão de rubricas; não se pode cobrar quando o próprio terminal der causa ao atraso",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "0:56:26",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, aprova (indefere cautelar e mérito; determina apuração pela SFC)",
+     "ts": "0:29:59",
+     "confianca": "alta",
+     "justificativa": "cobrança amparada nas Res. 72 e 109 e na IN RFB 248; ausência de periculum e de prova de dano concorrencial; nova rubrica geraria complexidade; acolheu prazo de 60 dias para a SFC"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha com sugestão acolhida (prazo de 60 dias para a SFC apurar as janelas)",
+     "ts": "0:48:47",
+     "justificativa": "o valor da entrega postergada (cerca de R$ 481 por contêiner) chama atenção; para o usuário o atraso importa; serviço cobrado exige contraprestação; ordem à SFC precisa de prazo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "0:56:26",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "28",
+   "ts": "0:56:34",
+   "processo": "50300.01668x/2022-41 (número incompleto na legenda)",
+   "interessado": "Triunfo Logística (arrendatária do terminal de produtos siderúrgicos de São Cristóvão, porto do Rio de Janeiro); ICTSI Rio Brasil Terminal 1; MultiRio; Logística Brasil / Vallourec; Docas do Rio (PortosRio)",
+   "assunto": "Consulta sobre a impossibilidade de movimentação de produtos siderúrgicos nos terminais de contêineres 1 e 2 do porto do Rio de Janeiro (contrato de arrendamento e anexo 5); sustentações orais de Triunfo, ICTSI e Logística Brasil",
+   "tema": [
+    "arrendamento em porto organizado",
+    "concorrência entre arrendatários / perfil de carga",
+    "consulta",
+    "porto do Rio de Janeiro"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "pedido de vista de Alber Vasconcelos (votação suspensa; relator ainda não leu o voto)",
+   "resumo_voto": "Relator leu só o resumo do relatório; área técnica (GPO/SOG), PF-ANTAQ e Docas sugerem indeferimento da consulta. Após as sustentações, Alber pediu vista para examinar memorial da Logística Brasil; o relator disse ter voto pronto e posição firmada e que o proferirá ao fim da vista.",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, voto não proferido (aguarda a vista)",
+     "ts": "1:32:40",
+     "justificativa": "debruçado há mais de 12 meses, voto pronto; preferiu proferir após a vista de Alber",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "pede vista",
+     "ts": "1:31:35",
+     "justificativa": "quer examinar memorial entregue pela Logística Brasil; estranha a duração de processo que as partes dizem ser simples",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "concede a vista (presidente)",
+     "ts": "1:33:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "sem manifestação (votação suspensa)",
+     "ts": "1:33:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "sem manifestação (votação suspensa)",
+     "ts": "1:33:11",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "1:33:41",
+   "processo": "50300.017544/2023-? (dígito incerto)",
+   "interessado": "Convicon – Contêineres de Vila do Conde S.A. (arrendatária, contrato 14/2003) x Companhia Docas do Pará (CDP)",
+   "assunto": "Recurso de reconsideração contra o Acórdão 466/2023, que deu provimento à arbitragem pedida pela CDP sobre a metodologia de reajuste (variação acumulada de 12 meses) do contrato de arrendamento 14/2003 e cobrança retroativa 2014–2019; sustentação oral da Convicon (art. 24 da LINDB)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "mediação/arbitragem",
+    "recursos administrativos",
+    "reajuste contratual",
+    "porto de Vila do Conde"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "aprovado (recurso conhecido e desprovido) — anúncio do resultado truncado na legenda",
+   "resumo_voto": "Não houve mudança de metodologia, mas inobservância pelas partes do contrato e da Lei 10.192/2001 (reajuste anual); art. 24 da LINDB não se aplica; cobrança do período não prescrito mantida pela indisponibilidade do interesse público e equilíbrio do contrato.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "1:53:13",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "1:53:13",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "1:53:13",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "1:53:13",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "1:49:27",
+     "confianca": "alta",
+     "justificativa": "não houve novo entendimento, e sim descumprimento da periodicidade anual legal; LINDB art. 24 inaplicável; cobrança retroativa do período não prescrito"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "1:53:35",
+   "processo": "50300.016267/2024-98",
+   "interessado": "Convicon – Contêineres de Vila do Conde S.A. x Companhia Docas do Pará",
+   "assunto": "Referendo de deliberação DG que deferiu cautelar para reverter suspensão, pela CDP, do lineup do navio Estelar Isabela e permitir movimentação de tarugo de aço no terminal da Convicon (contrato 14/2003)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "medida cautelar / referendo",
+    "perfil de carga",
+    "porto de Vila do Conde"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado (referendada a deliberação DG)",
+   "resumo_voto": "Área técnica viu plausibilidade do direito e perigo da demora; a CDP entendia que tarugo seria carga geral solta fora do objeto do contrato.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "1:55:29",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, referenda",
+     "ts": "1:54:00",
+     "confianca": "alta",
+     "justificativa": "plausibilidade do direito e perigo da demora reconhecidos pela área técnica"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "1:55:29",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "1:55:29",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "1:55:29",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:55:41",
+   "processo": "50300.008753/2023-51 (legenda incerta)",
+   "interessado": "Concessão do canal de acesso aquaviário ao porto de Paranaguá; CPLA",
+   "assunto": "Referendo da Deliberação DG 64/2024: análise das 320 contribuições da Audiência Pública 7/2023 sobre a concessão do canal de acesso ao porto de Paranaguá (prazo 25 anos até 70; capex ~R$ 1 bilhão)",
+   "tema": [
+    "concessão de porto/hidrovia (canal de acesso)",
+    "audiência pública",
+    "porto de Paranaguá"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado (referendada a Deliberação DG 64/2024)",
+   "resumo_voto": "Projeto pioneiro (primeira concessão de canal de acesso a porto público); contribuições de Alber incorporadas; envio ao TCU; processo passa a público.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha, elogia relator e Alber",
+     "ts": "2:01:27",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "2:02:12",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, referenda",
+     "ts": "1:56:12",
+     "confianca": "alta",
+     "justificativa": "projeto pioneiro, prioritário, modelo para outras concessões; contribuições da diretoria e da AP incorporadas"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha, elogia",
+     "ts": "2:00:54",
+     "justificativa": "contribuições acolhidas; modulação do valor cobrado por tipo de carga e vocação do porto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:02:12",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "2:02:28",
+   "processo": "50300.014722/2024-1? (dígitos incertos)",
+   "interessado": "Eneva S.A. — instalação de apoio flutuante em Barra dos Coqueiros (SE)",
+   "assunto": "Referendo da Deliberação DG 65/2024: recurso hierárquico contra a SOG, provido em parte para emitir TLO e habilitação ao tráfego internacional, condicionados à apresentação em 180 dias de licença ambiental, cessão de espaço em águas públicas e autorização da ANP",
+   "tema": [
+    "autorização de instalação portuária (TLO)",
+    "recursos administrativos",
+    "referendo"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado (referendada a Deliberação DG 65/2024)",
+   "resumo_voto": "TLO e HTI condicionados a documentos em 180 dias.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:04:23",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "2:04:23",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "2:04:23",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, referenda",
+     "ts": "2:02:28",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:04:23",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "40",
+   "ts": "2:04:23",
+   "processo": "50300.016704/2024-73",
+   "interessado": "CMA CGM (CMA CGM do Brasil Agência Marítima) x Companhia Docas do Pará",
+   "assunto": "Referendo da Deliberação DG 72/2024, que indeferiu cautelar sobre prioridade de atracação de porta-contêineres no berço 401 do porto de Vila do Conde (inclusão do navio Sigma Pioneer, fertilizante)",
+   "tema": [
+    "navegação e afretamento (longo curso)",
+    "programação de atracação",
+    "medida cautelar / referendo",
+    "porto de Vila do Conde"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado (referendado o indeferimento da cautelar)",
+   "resumo_voto": "Autoridade portuária tem autonomia para alterar a programação com comunicação aos envolvidos (art. 10 da Res. 75); risco de dano reverso com navio já atracado.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:09:38",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "2:09:38",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "2:09:38",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, referenda o indeferimento",
+     "ts": "2:04:37",
+     "confianca": "alta",
+     "justificativa": "Docas atuou dentro da competência; sem prova de alteração escusa; dano reverso"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:09:38",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:09:52",
+   "processo": "50300.01622x/2024-94 (número incompleto)",
+   "interessado": "Login Logística Intermodal S.A. (EBN)",
+   "assunto": "Referendo da Deliberação DG 68/2024: afretamento por tempo de embarcação estrangeira por interesse público (art. 29 da RN 01/2015) para cabotagem de contêineres de/para Manaus durante a seca do Amazonas, limitado a 150 dias, com circularização prévia no SAMA",
+   "tema": [
+    "navegação e afretamento (cabotagem)",
+    "seca na Amazônia / mudanças climáticas",
+    "referendo",
+    "Manaus"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "aprovado (referendada a Deliberação DG 68/2024)",
+   "resumo_voto": "Seca extrema torna idôneo o interesse público; continuidade da cabotagem para Manaus e Zona Franca; afretamento estrangeiro é excepcional, daí circularização no SAMA.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha, elogia a iniciativa",
+     "ts": "2:17:30",
+     "justificativa": "mitigação dos impactos das mudanças climáticas na navegação da região Norte",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "2:18:24",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "2:18:24",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "2:18:24",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, referenda",
+     "ts": "2:09:52",
+     "confianca": "alta",
+     "justificativa": "interesse público pela seca; segurança alimentar e abastecimento da Zona Franca; circularização no SAMA"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "2:18:24",
+   "processo": "50300.015260/2024-59",
+   "interessado": "Convicon – Contêineres de Vila do Conde S.A. x Companhia Docas do Pará",
+   "assunto": "Referendo da Deliberação DG 69/2024, que deferiu cautelar para a Convicon continuar as obras de expansão da área reefer (investimentos complementares do 8º termo aditivo do contrato 14/2003) paralisadas a pedido da CDP",
+   "tema": [
+    "arrendamento em porto organizado",
+    "investimentos",
+    "medida cautelar / referendo",
+    "seca na Amazônia",
+    "porto de Vila do Conde"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "aprovado (referendada a Deliberação DG 69/2024)",
+   "resumo_voto": "Perigo da demora: seca prevista e demanda de armadores por reefer; probabilidade do direito: investimentos previstos na cláusula 11ª do 8º aditivo, ~54% executados; exigência de autorização prévia só para área comum ou impacto externo.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:24:35",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "2:24:35",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "2:24:35",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "2:24:35",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, referenda",
+     "ts": "2:18:43",
+     "confianca": "alta",
+     "justificativa": "obras previstas no aditivo, 54% executadas; seca na Amazônia; CDP já tinha dado não objeção"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "2:24:56",
+   "processo": "50300.004062/2022-06 (legenda incerta)",
+   "interessado": "não identificado",
+   "assunto": "Processo com pedido de vista de Alber Vasconcelos (RD 568) — renovação da vista",
+   "tema": [
+    "pedido de vista"
+   ],
+   "relator": "não identificado",
+   "resultado": "vista renovada",
+   "resumo_voto": "Alber renovou a vista por falta de tempo; promete trazer na próxima reunião.",
+   "votos": [
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "renova pedido de vista",
+     "ts": "2:24:56",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "aprova a renovação da vista",
+     "ts": "2:25:18",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "aprova a renovação da vista",
+     "ts": "2:25:18",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "aprova a renovação da vista",
+     "ts": "2:25:18",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "aprova a renovação da vista",
+     "ts": "2:25:18",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "2:25:28",
+   "processo": "50300.004952/2024-71",
+   "interessado": "não identificado",
+   "assunto": "Processo de relatoria de Alber Vasconcelos com vista de Lima Filho (RD 568) — renovação da vista",
+   "tema": [
+    "pedido de vista"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "vista renovada",
+   "resumo_voto": "Lima Filho renovou a vista para avaliar melhor.",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "renova pedido de vista",
+     "ts": "2:25:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "aprova a renovação da vista",
+     "ts": "2:25:51",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "aprova a renovação da vista",
+     "ts": "2:25:51",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "aprova a renovação da vista",
+     "ts": "2:25:51",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "aprova a renovação da vista",
+     "ts": "2:25:51",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "2:26:00",
+   "processo": "50300.006656/2024-13",
+   "interessado": "Alcoa Alumínio S.A.",
+   "assunto": "Autorização para operar como empresa brasileira de navegação (EBN) na cabotagem (RN 05/2016), outorga condicionada; voto-vista de Flávia Takafashi (julgamento em bloco dos itens 9 e 10)",
+   "tema": [
+    "navegação e afretamento (cabotagem, EBN)",
+    "outorga condicionada",
+    "BR do Mar (Lei 14.301)",
+    "voto-vista"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado por unanimidade (em bloco com o item 10)",
+   "resumo_voto": "Flávia acompanha com alertas: cautela com outorgas condicionadas e com precedentes da Lei 14.301 aplicados a casos diferentes (aqui é aquisição, não afretamento); relator concorda que a comparação foi inadequada; Nery vê aumento da oferta de cabotagem.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "voto-vista: acompanha o relator com dois alertas",
+     "ts": "2:26:28",
+     "justificativa": "outorgas condicionadas devem ser excepcionais; área técnica comparou com precedente de afretamento que não é o mesmo caso (aquisição de embarcação)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, aprova",
+     "ts": "2:29:06",
+     "justificativa": "concorda que a comparação com afretamento foi inadequada",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:29:32",
+     "justificativa": "sem enquadramento como EBN a empresa não registraria a embarcação no Tribunal Marítimo; norma interpretada à luz do caso concreto; aumenta a oferta de cabotagem",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "2:31:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:31:50",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "2:26:00",
+   "processo": "50300.006658/2024-02",
+   "interessado": "Alcoa Alumínio S.A.",
+   "assunto": "Autorização para operar como empresa brasileira de navegação (EBN) na cabotagem (RN 05/2016), outorga condicionada; voto-vista de Flávia Takafashi (julgamento em bloco dos itens 9 e 10)",
+   "tema": [
+    "navegação e afretamento (cabotagem, EBN)",
+    "outorga condicionada",
+    "BR do Mar (Lei 14.301)",
+    "voto-vista"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado por unanimidade (em bloco com o item 9)",
+   "resumo_voto": "Flávia acompanha com alertas: cautela com outorgas condicionadas e com precedentes da Lei 14.301 aplicados a casos diferentes (aqui é aquisição, não afretamento); relator concorda que a comparação foi inadequada; Nery vê aumento da oferta de cabotagem.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "voto-vista: acompanha o relator com dois alertas",
+     "ts": "2:26:28",
+     "justificativa": "outorgas condicionadas devem ser excepcionais; área técnica comparou com precedente de afretamento que não é o mesmo caso (aquisição de embarcação)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, aprova",
+     "ts": "2:29:06",
+     "justificativa": "concorda que a comparação com afretamento foi inadequada",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:29:32",
+     "justificativa": "sem enquadramento como EBN a empresa não registraria a embarcação no Tribunal Marítimo; norma interpretada à luz do caso concreto; aumenta a oferta de cabotagem",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "2:31:50",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:31:50",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "2:31:50",
+   "processo": "50300.016933/2019-21",
+   "interessado": "não identificado (terminal visitado pelo DG)",
+   "assunto": "Processo de relatoria de Flávia Takafashi com vista de Eduardo Nery (RD 566) — renovação da vista",
+   "tema": [
+    "pedido de vista"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "vista renovada",
+   "resumo_voto": "Nery visitou o terminal, tem dúvida pontual e quer análise conjunta com processo de relatoria de Caio Farias.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "renova pedido de vista",
+     "ts": "2:32:12",
+     "justificativa": "dúvida pontual; análise conjunta com processo de Caio Farias",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "aprova a renovação da vista",
+     "ts": "2:32:54",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "aprova a renovação da vista",
+     "ts": "2:32:54",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "aprova a renovação da vista",
+     "ts": "2:32:54",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "aprova a renovação da vista",
+     "ts": "2:32:54",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "2:33:48",
+   "processo": "50300.0x989/2023-89 (número incompleto)",
+   "interessado": "Superintendência de Regulação (SRG)",
+   "assunto": "Agenda regulatória preliminar 2025–2028 e submissão a tomada de subsídios / audiência pública",
+   "tema": [
+    "regulação normativa (agenda regulatória)",
+    "participação social"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado",
+   "resumo_voto": "Excluídos: extinção de autorização (1.3, por proposta de Caio), itens 3.4/3.5 (estudos normativos), 2.5 (atraso e omissão de escala, tratado na Res. 112/2024) e 2.6 (vetting); incluído bunkering (proposta de Caio); mantido 2.4 (agente intermediário e sobre-estadia) por sugestão de Flávia; compatibilizar homem-hora com entregas.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, aprova",
+     "ts": "2:33:48",
+     "confianca": "alta",
+     "justificativa": "agenda como instrumento de priorização e transparência; foco em problemas regulatórios; incorporadas sugestões de Caio, Flávia e Alber"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "2:42:15",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "2:42:15",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "2:42:15",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:42:15",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "2:42:15",
+   "processo": "50300.001826/2023-84",
+   "interessado": "Superintendência de Regulação",
+   "assunto": "Alteração da Resolução ANTAQ 55/2021 para fixar conteúdo mínimo da avaliação de resultado regulatório (ARR), após audiência pública",
+   "tema": [
+    "regulação normativa (AIR/ARR)",
+    "boas práticas regulatórias"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado",
+   "resumo_voto": "Alinha a ANTAQ ao guia de ARR do governo federal (PRO-REG); cumpre item 4.1 da agenda 2022–2024.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha (comentário)",
+     "ts": "2:46:53",
+     "justificativa": "PRO-REG não é intervenção nas agências, mas fortalecimento da boa regulação",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, aprova",
+     "ts": "2:42:41",
+     "confianca": "alta",
+     "justificativa": "medir se as normas resolveram os problemas regulatórios; alinhamento ao PRO-REG e ao decreto Regula Melhor"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "2:48:57",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha (esclarecimento)",
+     "ts": "2:46:15",
+     "justificativa": "a norma trata só do conteúdo mínimo da ARR; o AIR da agência já é sólido",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:48:57",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "2:49:07",
+   "processo": "50300.006472/2010-5? (legenda incerta)",
+   "interessado": "Superintendência de Regulação",
+   "assunto": "Proposta de revisão da Resolução Normativa 13/2016 (registro de instalações de apoio)",
+   "tema": [
+    "regulação normativa",
+    "autorização de instalações (IP4/registro)",
+    "pedido de vista"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "pedido de vista de Eduardo Nery (Res. 66, art. 27)",
+   "resumo_voto": "Relatora não proferiu voto.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "pede vista",
+     "ts": "2:49:30",
+     "justificativa": "relevância da matéria e pontos a analisar com mais calma",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, voto não proferido",
+     "ts": "2:49:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "sem manifestação (votação suspensa)",
+     "ts": "2:49:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "sem manifestação (votação suspensa)",
+     "ts": "2:49:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "sem manifestação (votação suspensa)",
+     "ts": "2:49:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "2:50:04",
+   "processo": "50300.01176x/2021-13 (número incompleto)",
+   "interessado": "Superintendência de Regulação",
+   "assunto": "Revisão da Resolução Normativa 01/2015 (afretamento de embarcações por EBN no apoio portuário, apoio marítimo, cabotagem e longo curso) para incorporar a Lei 14.301/2022 (BR do Mar) — submissão a consulta e audiência pública por 45 dias",
+   "tema": [
+    "regulação normativa",
+    "navegação e afretamento (cabotagem, apoio marítimo)",
+    "BR do Mar (Lei 14.301)",
+    "audiência pública"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado",
+   "resumo_voto": "Incorpora conceitos de aplicação imediata da lei (EBN, EBIN, embarcação brasileira, fim da carga prescrita e do quádruplo de tonelagem), consolida normas (Decreto 10.139); temas que exigem AIR (circularização, afretamento por tempo) seguem em processos próprios.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha, elogia a abertura de audiência",
+     "ts": "3:03:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, aprova a audiência pública",
+     "ts": "2:50:04",
+     "confianca": "alta",
+     "justificativa": "adequação à Lei 14.301 sem AIR por serem dispositivos de aplicação direta; audiência recomendável pela sensibilidade do tema"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha (pergunta)",
+     "ts": "3:00:28",
+     "justificativa": "perguntou se regulados poderão apresentar sugestões fora da Lei 14.301 (bloqueio parcial, navio bloqueador); relatora: serão migradas para os outros processos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "3:03:43",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "3:03:43",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "3:04:14",
+   "processo": "50300.014492/2024-90",
+   "interessado": "Interfreight Transportes Internacionais (denunciante; legenda: «interfi») x Vanguarda Logística do Brasil (agente intermediário)",
+   "assunto": "Denúncia com pedido de cautelar por extravio de contêiner (embarcado em London Gateway com destino ao Rio de Janeiro e descarregado em Veracruz, México)",
+   "tema": [
+    "navegação e afretamento (longo curso)",
+    "direitos dos usuários (RN 01)",
+    "agente intermediário / NVOCC",
+    "medida cautelar",
+    "fiscalização"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado com ajustes de Eduardo Nery — denúncia admitida; cautelar indeferida; Vanguarda informa em 10 dias providências ou justificativas; SFC instrui o mérito em 15 dias após as informações (redação final lida às 5:11)",
+   "resumo_voto": "Relatora: há plausibilidade mas não perigo da demora (carga já desembaraçada no México) e faltam informações; Nery propôs prazos e determinação à Vanguarda; Flávia resistiu (seria antecipar a instrução) mas aceitou prazos; texto final incorporou a proposta.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, admite a denúncia e indefere a cautelar; aceita incorporar prazos",
+     "ts": "3:07:59",
+     "justificativa": "sem perigo da demora; faltam informações sobre o contrato de transporte e responsabilidade pelo erro",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha no mérito, propõe ajuste (prazo de 10 dias à Vanguarda e 15 dias à SFC) — acolhido",
+     "ts": "3:08:26",
+     "justificativa": "usuário com carga perdida desde fevereiro precisa de resposta rápida; questiona casos pontuais subirem à diretoria em vez de mediação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha, apoia a linha de Nery",
+     "ts": "3:14:44",
+     "justificativa": "cautelar pedida em julho sobre carga desovada em março; SFC já deveria ter ouvido o agente intermediário",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha a relatora",
+     "ts": "5:12:29",
+     "justificativa": "aprovação da redação final sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha a relatora",
+     "ts": "5:12:29",
+     "justificativa": "aprovação da redação final sem manifestação individual",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "3:17:53",
+   "processo": "50300.015526/2024-63",
+   "interessado": "Enseada Indústria Naval (TUP em Maragogipe, BA; em recuperação judicial)",
+   "assunto": "Pedido de reconsideração com efeito suspensivo contra o Acórdão 435/2024, que negou referendo à autorização especial para movimentar granel sólido vegetal enquanto não emitido novo TLO",
+   "tema": [
+    "autorização de TUP / TLO",
+    "autorização especial",
+    "recursos administrativos",
+    "granel sólido"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado com ajustes — recurso admitido; suspensos os efeitos do Acórdão 435/2024; autorização especial por 60 dias ou até o novo TLO; SOG analisa o TLO em regime de urgência em até 30 dias (redação final lida às 5:12)",
+   "resumo_voto": "Relatora: SOG mostrou que não houve inércia da empresa; recuperação judicial depende da carga. Alber divergiu da via proposta: o aditivo ao contrato de adesão já inclui granel sólido, a SOG deveria simplesmente emitir o TLO; critica despacho da SOG e a delegação de TLO. Flávia defendeu autorização especial com prazo à SOG; consenso: autorização especial + prazo à SOG.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, admite e dá provimento; ajusta para autorização especial com prazo à SOG",
+     "ts": "3:21:34",
+     "justificativa": "empresa demonstrou providências para o TLO; sem autorização especial a empresa é a mais prejudicada; documentação do TLO vigente cobria só granel mineral",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "diverge inicialmente (defende emissão direta do TLO); texto final de consenso aprovado sem registro de vencido",
+     "ts": "3:23:08",
+     "justificativa": "aditivo assinado já prevê granel sólido; armazém fora da área do TUP não impede TLO; despacho da SOG não enfrenta os fatos; sugere rever delegação de TLO à SOG",
+     "tom": "perplexidade e indignação declaradas com a tramitação",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a solução de consenso",
+     "ts": "3:30:27",
+     "justificativa": "possível falha interna; o regulado não pode pagar por isso; sugere prazo para a SOG",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha (participa do debate sobre a solução)",
+     "ts": "3:34:30",
+     "justificativa": "falas atribuídas por inferência; registro incerto",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha a relatora",
+     "ts": "5:13:33",
+     "justificativa": "aprovação da redação final sem manifestação individual",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "3:46:29",
+   "processo": "50300.019735/2023-03",
+   "interessado": "Autoridade Portuária de Santos (APS)",
+   "assunto": "Aperfeiçoamento da Tabela III da tarifa do porto de Santos: desconto de 50% no uso adicional da infraestrutura pelos terminais retroportuários dentro da poligonal",
+   "tema": [
+    "tarifas portuárias",
+    "terminais retroportuários / concorrência",
+    "porto de Santos"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado",
+   "resumo_voto": "Desconto tarifário dispensa anuência da ANTAQ (Res. 61/2021, art. 23); recomenda à APS estudo prévio do ambiente concorrencial entre retroportuários dentro da poligonal e terminais molhados.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "3:54:50",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, conhece e declara a matéria na gestão da APS, com recomendação",
+     "ts": "3:52:47",
+     "confianca": "alta",
+     "justificativa": "desconto está na discricionariedade da autoridade portuária; impacto de cerca de 1,2% da receita; evitar distorções concorrenciais"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "3:54:50",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "3:54:50",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "3:54:50",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "24",
+   "ts": "3:55:51",
+   "processo": "50300.002553/2023-95",
+   "interessado": "Magnesita Refratários S.A. (arrendatária, contrato 003/2002, Salvador)",
+   "assunto": "Processo sancionador: auto de infração por ausência de investimentos mínimos de 4% em bens reversíveis",
+   "tema": [
+    "fiscalização e sanções (auto de infração)",
+    "arrendamento em porto organizado",
+    "investimentos"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado — auto de infração declarado insubsistente",
+   "resumo_voto": "Empresa comprovou investimentos (12,83% sobre o novo valor patrimonial); legenda diz «declarar subsistente», mas o fundamento indica insubsistência.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "4:00:36",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "4:00:36",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, declara insubsistente o auto",
+     "ts": "3:57:55",
+     "confianca": "alta",
+     "justificativa": "investimentos comprovados por notas fiscais e laudo; valor patrimonial cresceu"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "4:00:36",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "4:00:36",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "25",
+   "ts": "4:00:36",
+   "processo": "50300.0032xx/2023-57 (número incompleto)",
+   "interessado": "não identificado",
+   "assunto": "Processo de relatoria de Lima Filho — pedido de vista de Flávia Takafashi",
+   "tema": [
+    "pedido de vista"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "pedido de vista de Flávia Takafashi",
+   "resumo_voto": "Relator deixou para apresentar o voto na próxima reunião.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "pede vista",
+     "ts": "4:00:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, voto não proferido",
+     "ts": "4:01:02",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "sem manifestação (votação suspensa)",
+     "ts": "4:01:02",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "sem manifestação (votação suspensa)",
+     "ts": "4:01:02",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "sem manifestação (votação suspensa)",
+     "ts": "4:01:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "ts": "4:01:09",
+   "processo": "50300.004957/2027-1 (número incerto na legenda)",
+   "interessado": "Autoridade Portuária de Santos; área STS08 (Alemoa, granéis líquidos/combustíveis)",
+   "assunto": "Análise do EVTEA e minutas de edital e contrato do arrendamento STS08 no porto de Santos (convênio de delegação 1/2023)",
+   "tema": [
+    "arrendamento em porto organizado (licitação)",
+    "EVTEA",
+    "granéis líquidos",
+    "porto de Santos"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado — documentação atende aos requisitos mínimos, condicionada a ajustes (três cotações na curva ABC do capex, Acórdão TCU 736/2020; documentos do art. 14 da Lei 12.815)",
+   "resumo_voto": "Após o ajuste do EVTEA, APS apta a abrir consulta e audiência públicas.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha",
+     "ts": "4:09:28",
+     "justificativa": "audiência pública ouvirá o setor e terminais da Alemoa",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "4:10:08",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, aprova com condicionantes",
+     "ts": "4:03:45",
+     "confianca": "alta",
+     "justificativa": "verificação formal de EVTEA e minutas; pendências não impedem o prosseguimento"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha (observação)",
+     "ts": "4:08:26",
+     "justificativa": "capex (~R$ 380 milhões) sem infraestrutura aquaviária; píer previsto no STS08A",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "4:10:08",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "29",
+   "ts": "4:10:08",
+   "processo": "50300.021596/2023-70",
+   "interessado": "Companhia Docas da Paraíba (porto de Cabedelo)",
+   "assunto": "Fiscalização extraordinária sobre denúncia de uso indevido de recursos para compra de cestas básicas",
+   "tema": [
+    "fiscalização",
+    "autoridade portuária delegada",
+    "porto de Cabedelo"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado — denúncia conhecida e julgada improcedente",
+   "resumo_voto": "Compra decorre de TAC com o MPF para reparar pescadores afetados pela dragagem.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "4:14:39",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "4:14:39",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, julga improcedente",
+     "ts": "4:13:05",
+     "confianca": "alta",
+     "justificativa": "TAC com MPF; sem conduta infracional"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "4:14:39",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "4:14:39",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "30",
+   "ts": "4:14:39",
+   "processo": "50300.022733/2020-39 (legenda incerta)",
+   "interessado": "Terminal Portuário Bits? (TPB; nome incerto na legenda)",
+   "assunto": "Prorrogação por 2 anos do prazo de condição suspensiva (comprovação do direito de uso da área junto à SPU) do contrato de adesão",
+   "tema": [
+    "autorização de TUP",
+    "SPU / direito de uso da área"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado — prazo prorrogado por 2 anos",
+   "resumo_voto": "Morosidade da SPU; empresa diligente; dispensa envio à SFC apesar do atraso do pedido; menciona Navega Simples.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "4:18:16",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "4:18:16",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, prorroga",
+     "ts": "4:15:42",
+     "confianca": "alta",
+     "justificativa": "morosidade notória da SPU, alheia à vontade da empresa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "4:18:16",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "4:18:16",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "39",
+   "ts": "4:18:16",
+   "processo": "50300.014539/2024-15? (legenda incerta)",
+   "interessado": "Mercosul Line Navegação e Logística Ltda. (EBN)",
+   "assunto": "Afretamento por tempo de embarcação estrangeira por interesse público na cabotagem durante a seca na região Norte, limitado a 150 dias, com circularização no SAMA",
+   "tema": [
+    "navegação e afretamento (cabotagem)",
+    "seca na Amazônia / mudanças climáticas"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado",
+   "resumo_voto": "Art. 29 da RN 01/2015; caso análogo à Deliberação DG 68/2024 (Login); SOG acompanha os desdobramentos.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha, elogia",
+     "ts": "4:22:56",
+     "justificativa": "secas cada vez mais frequentes por mudanças climáticas; medidas estruturantes via concessão de hidrovias",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "4:24:31",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, autoriza",
+     "ts": "4:19:50",
+     "confianca": "alta",
+     "justificativa": "seca projetada maior que a de 2023; atuação proativa da agência"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "4:24:31",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "4:24:31",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "31",
+   "ts": "4:24:31",
+   "processo": "50300.000132/2022-0? (legenda incerta)",
+   "interessado": "Secretaria de Estudos (CEP?) — pesquisa P28",
+   "assunto": "Pesquisa de caracterização dos pontos de atracação de travessia (agenda plurianual de estudos 2021–2024)",
+   "tema": [
+    "navegação interior (travessias)",
+    "estudos / agenda de estudos"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado",
+   "resumo_voto": "Pesquisa aprovada e item P28 cumprido; enviada à SRG (AIR de travessia) e à SFC (planejamento de fiscalização); ressalvas metodológicas (avaliação feita por fiscal, não por usuários).",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha",
+     "ts": "4:29:38",
+     "justificativa": "trabalho-meio útil para abrir chamamentos em travessias com poucos prestadores",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "4:30:42",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "4:30:42",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, aprova",
+     "ts": "4:24:31",
+     "confianca": "alta",
+     "justificativa": "pesquisa útil, mas não altera por si o problema regulatório; deve subsidiar AIR e fiscalização"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "4:30:42",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "32",
+   "ts": "4:30:42",
+   "processo": "50300.00453x/2023-48 (número incompleto)",
+   "interessado": "Poseidon Exportadora e Importadora Ltda. x MSC (Mediterranean Shipping Company S.A., MSC Netherlands B.V., MSC do Brasil)",
+   "assunto": "Terceiro pedido de medida cautelar sobre cobrança de 9.732 euros de armazenagem/demurrage em Roterdã",
+   "tema": [
+    "serviços nos terminais (sobre-estadia/demurrage)",
+    "navegação de longo curso",
+    "medida cautelar",
+    "jurisdição da ANTAQ"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado — cautelar conhecida e indeferida (serviço prestado no exterior, fora da jurisdição da ANTAQ); negado pedido de sanção por sham litigation",
+   "resumo_voto": "Critica abuso do direito de petição (três cautelares idênticas) e uso de cautelares como barganha; segue PF-ANTAQ sobre jurisdição; mérito segue no processo 50300.018342/2023-74.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "4:38:34",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "4:38:34",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "4:38:34",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, indefere a cautelar",
+     "ts": "4:31:15",
+     "confianca": "alta",
+     "justificativa": "empresa estrangeira e serviço no exterior; abuso de petição; valor de 9 mil euros"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "4:38:34",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "33",
+   "ts": "4:38:34",
+   "processo": "50300.007502/2024-31",
+   "interessado": "Empresa Brasileira de Terminais e Armazéns Gerais (TUP EBT Santorini, Santos)",
+   "assunto": "Prorrogação por 2 anos da condição suspensiva (cláusula 17ª do contrato de adesão 3/2022) sobre direito de uso da área e espaço em águas públicas (SPU)",
+   "tema": [
+    "autorização de TUP",
+    "SPU / direito de uso da área",
+    "porto de Santos"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado — prazo prorrogado; decisão enviada também ao MPor",
+   "resumo_voto": "Área do contrato menor que a do processo; empresa buscou retificar o contrato no MPor antes da SPU; diligência comprovada.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "4:43:08",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "4:43:08",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "4:43:08",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, prorroga",
+     "ts": "4:38:34",
+     "confianca": "alta",
+     "justificativa": "respaldo contratual e diligência comprovada; dificuldade da SPU"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "4:43:08",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "34",
+   "ts": "4:43:08",
+   "processo": "50300.004099/2024-04 (legenda incerta)",
+   "interessado": "Cooperativa Agroindustrial de Varginha (representada pelo Cecafé; nome incerto na legenda) x Bolloré Logistics Brasil (NVOCC)",
+   "assunto": "Denúncia com pedido de cautelar contra cobranças de no show/cancellation fee",
+   "tema": [
+    "navegação de longo curso",
+    "direitos dos usuários",
+    "agente intermediário / NVOCC",
+    "medida cautelar"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado — cautelar indeferida; SFC apura o mérito em processo apartado",
+   "resumo_voto": "Há plausibilidade, mas não perigo da demora: sem bloqueio de carga ou documento.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "4:46:55",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "4:46:55",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "4:46:55",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, indefere a cautelar",
+     "ts": "4:45:21",
+     "confianca": "alta",
+     "justificativa": "discordância de cobrança e possível negativação não configuram dano irreparável"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "4:46:55",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "35",
+   "ts": "4:46:55",
+   "processo": "50300.014371/2023-67",
+   "interessado": "ATO Logística e Serviço de Apoio Administrativo (Terra Santa, PA)",
+   "assunto": "Registro de instalação de apoio ao transporte aquaviário (RN 13, art. 2º, V) com relatórios mensais de movimentação por 24 meses",
+   "tema": [
+    "autorização de instalações (registro / IP4)",
+    "navegação interior"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado",
+   "resumo_voto": "Operação de contêineres com empilhadeira stacker sobre balsa não é vedada; condiciona relatórios mensais por 24 meses; Nery propõe tornar a exigência padrão.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha e propõe tornar padrão a exigência de relatórios",
+     "ts": "4:52:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "4:51:37",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "4:51:37",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, defere com relatórios mensais",
+     "ts": "4:47:27",
+     "confianca": "alta",
+     "justificativa": "cumpridos requisitos da RN 13; monitorar volume e equipamento enquanto se revisa a RN 13"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "4:51:37",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "36",
+   "ts": "4:52:40",
+   "processo": "50300.021565/2023-1? (legenda incerta)",
+   "interessado": "Topa Tudo Transporte Marítimo Ltda. (atual TT Log Operações Logísticas)",
+   "assunto": "Extinção por cassação da autorização de EBN na cabotagem (TA 1568/2018) por falta de embarcação na frota",
+   "tema": [
+    "navegação e afretamento (cabotagem, EBN)",
+    "fiscalização e sanções (cassação)"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado — autorização extinta por cassação",
+   "resumo_voto": "Perda das condições indispensáveis (art. 43, III, e 48 da Lei 10.233); ampla defesa observada.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "4:55:16",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "4:55:16",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "4:55:16",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, declara extinção por cassação",
+     "ts": "4:52:40",
+     "confianca": "alta",
+     "justificativa": "empresa sem embarcação registrada na frota"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "4:55:16",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "37",
+   "ts": "4:55:49",
+   "processo": "50300.001565/2013-2? (legenda incerta)",
+   "interessado": "Ipiranga Produtos de Petróleo S.A.",
+   "assunto": "Dispensa da renovação da garantia de execução do contrato de adesão (Decreto 9.048/2017)",
+   "tema": [
+    "autorização de TUP",
+    "garantia contratual"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "aprovado",
+   "resumo_voto": "Sem processo seletivo, a garantia não é mais exigida; alteração da cláusula submetida ao MPor por termo aditivo (entendimento da PF-ANTAQ).",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "4:59:29",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "4:59:29",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "4:59:29",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "4:59:29",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, reconhece a dispensa",
+     "ts": "4:55:49",
+     "confianca": "alta",
+     "justificativa": "Decreto 9.048 e diretrizes do Acórdão 25/2022"
+    }
+   ]
+  },
+  {
+   "id": "38",
+   "ts": "4:59:29",
+   "processo": "50300.01069x/2022-59 (número incompleto)",
+   "interessado": "SNPH – Superintendência Estadual de Navegação, Portos e Hidrovias (autoridade portuária do porto de Manaus)",
+   "assunto": "Julgamento de auto de infração por não encaminhamento do projeto de padronização tarifária (Res. 61); SFC sugeria multa de cerca de R$ 518 mil",
+   "tema": [
+    "fiscalização e sanções (auto de infração)",
+    "tarifas portuárias",
+    "porto de Manaus"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "aprovado — auto de infração declarado insubsistente; autos à SRG",
+   "resumo_voto": "Tipicidade: a obrigação era propor a estrutura tarifária, o que foi feito; faltou a notificação prévia para correção (art. 11 da Res. 3.259).",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "5:03:37",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "5:03:37",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "5:03:37",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "5:03:37",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, declara insubsistente",
+     "ts": "5:00:31",
+     "confianca": "alta",
+     "justificativa": "atipicidade e ausência de notificação prévia para correção"
+    }
+   ]
+  },
+  {
+   "id": "41",
+   "ts": "5:03:37",
+   "processo": "50300.016515/2024-09",
+   "interessado": "Vale S.A. (embargante) x BR Infra Terminais (TUP no Maranhão)",
+   "assunto": "Embargos de declaração (extrapauta) contra o Acórdão 436/2024, que reconheceu a viabilidade de outorga de TUP à BR Infra",
+   "tema": [
+    "autorização de TUP",
+    "recursos administrativos (embargos)",
+    "judicialização"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado — embargos conhecidos e rejeitados",
+   "resumo_voto": "Sem omissão ou contradição; BR Infra comprovou domínio útil; decisão interlocutória da 3ª Vara Federal do Maranhão é fato novo posterior e o próprio juiz não viu prejuízo na análise da ANTAQ; autos já enviados ao MPor.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "5:11:27",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "5:11:27",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "5:11:27",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, rejeita os embargos",
+     "ts": "5:03:37",
+     "confianca": "alta",
+     "justificativa": "embargos não servem para rediscutir mérito; fato novo posterior ao voto"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "5:11:27",
+     "justificativa": "aprovação anunciada sem manifestação individual",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "17 — estudo de acesso ao canal/aquaviário de embarcações no porto de Vila do Conde (cumprimento do item 5.5 do Acórdão 533/2022), proc. 50300.008203/2020-90",
+   "relator": "Flávia Takafashi",
+   "motivo": "retirado pela relatora; volta na próxima reunião, quando haverá a sustentação oral de José Alexandre Ferreira Sanchez",
+   "ts": "0:04:20"
+  },
+  {
+   "item": "12 — proc. 50300.0x2167/2016-82",
+   "relator": "Eduardo Nery",
+   "motivo": "retirado de pauta por despacho",
+   "ts": "2:33:44"
+  },
+  {
+   "item": "15 — proc. 50300.005942/2024-53",
+   "relator": "Flávia Takafashi",
+   "motivo": "retirado de pauta por despacho da relatora",
+   "ts": "2:48:57"
+  },
+  {
+   "item": "22 — proc. 50300.00739x/2024-91",
+   "relator": "Lima Filho",
+   "motivo": "retirado de pauta por despacho",
+   "ts": "3:55:20"
+  },
+  {
+   "item": "23 — proc. 50300.002249/2023-48",
+   "relator": "Lima Filho",
+   "motivo": "retirado pelo relator",
+   "ts": "3:55:42"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: vários números de processo saíram incompletos ou com dígitos incertos (marcados no campo processo); nomes de empresas distorcidos (ex.: «interfi» = Interfreight?, «bolor» = Bolloré, «cooperativa u industrial de Varginha»).",
+  "O .md não tinha marcadores de minuto; ts calculados a partir do JSON da transcrição; ts de quem só acompanha correspondem ao anúncio da aprovação.",
+  "Na ANTAQ a aprovação é anunciada pelo presidente sem votação nominal; votos de seguidores inferidos como «acompanha» com confiança baixa.",
+  "Item 1 (Convicon): o anúncio final da aprovação ficou truncado na legenda («matéria ainda em discussão em votação»); resultado inferido.",
+  "Item 24: a legenda diz «declarar subsistente», mas a fundamentação (investimentos comprovados) indica insubsistência.",
+  "Item 20: falas no debate entre Flávia, Alber, Nery e possivelmente Caio foram atribuídas por inferência; a posição final de Alber não foi declarada explicitamente.",
+  "Interessados dos itens 7, 8, 11 e 25 não foram identificados na fala."
+ ]
+}

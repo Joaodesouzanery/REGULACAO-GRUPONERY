@@ -1,0 +1,692 @@
+{
+ "meta": {
+  "video_id": "2J5AWByVtpM",
+  "fonte": "legenda automática do YouTube; ts = tempo do vídeo a partir de data/transcricoes/2J5AWByVtpM.json (marcadores a cada ~30 s); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "526",
+  "data": "2022-08-11",
+  "formato": "videoconferência/telepresencial (sala de reuniões nova, uso provisório; advogados por vídeo)",
+  "presidente_da_sessao": "Eduardo Nery (Diretor-Geral)",
+  "diretores_presentes": [
+   "Eduardo Nery",
+   "Flávia Takafashi",
+   "José Renato Fialho (diretor substituto)"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Atas homologadas (527, 524 e 525 segundo a legenda). Procurador-chefe Artur Watt Neto.",
+   "Comunicações: horário das RODs 528 e 530 alterado para 9h; edital do Prêmio ANTAQ (sustentabilidade/inovação), entrega em 10/11; primeira reunião na nova sala de diretoria.",
+   "Sustentações orais nos itens 1 (Hidrovias do Brasil x CDP) e 2 (Yara).",
+   "Vistas: renovada no item 1 (Flávia) e no item 6 (Nery); nova no item 19 (Flávia).",
+   "Todos os itens deliberados foram unânimes. Nery registra três arrendamentos simplificados aprovados (VDC04 e duas áreas em Porto Alegre)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "com-1",
+   "ts": "0:00:42",
+   "processo": null,
+   "interessado": "ANTAQ (Diretoria-Geral)",
+   "assunto": "Comunicação do DG: alteração do horário das reuniões ordinárias 528 e 530 (1º/09 e 10/11) para as 9h, mantidas as datas",
+   "tema": [
+    "institucional"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado (concordância dos demais diretores)",
+   "resumo_voto": "Proposta do DG submetida à aprovação do colegiado; sem objeção.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "propõe",
+     "ts": "0:00:42",
+     "justificativa": "adequação de agenda",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "concorda",
+     "ts": "0:01:13",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "concorda",
+     "ts": "0:01:13",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:05:25",
+   "processo": "50300.008203/2020-95 (legenda: «50/300 008 203 2020 90/95»)",
+   "interessado": "Companhia Docas do Pará (CDP, adv. Paulo Henrique Bezerra Coaraci) x Hidrovias do Brasil (adv. José Alexandre Ferreira Sanches)",
+   "assunto": "Pleito da CDP de reposicionamento da manifestação da ANTAQ (amicus curiae) na ação judicial 1002807/2017 sobre cobrança da Tabela 1 (item 1 x item 4, acesso aquaviário) da Hidrovias do Brasil, TUP fora da poligonal de Vila do Conde que usa ~700 m do canal; com sustentações orais",
+   "tema": [
+    "tarifas portuárias (Tabela 1 / acesso aquaviário)",
+    "autoridade portuária x TUP",
+    "porto de Vila do Conde",
+    "concorrência",
+    "judicialização"
+   ],
+   "relator": "José Renato Fialho",
+   "resultado": "vista renovada (Flávia Takafashi); volta na reunião 528; relator não proferiu voto",
+   "resumo_voto": "Relatório de Fialho: GRP/SRG mantêm entendimento de que a contraprestação justifica a cobrança do item 1 da Tabela 1 ao armador/requisitante (Res. 61). Sustentações: HBSA pede rejeição ou cobrança pelo item 4 (sem movimentação de mercadoria na área do porto); CDP defende item 1 (diferença de ~R$ 10 milhões). Flávia, que havia pedido vista na RD 524, renova a vista; o DG diz que as sustentações trouxeram novas dúvidas.",
+   "votos": [
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "relator; voto não proferido (vista renovada)",
+     "ts": "0:07:32",
+     "justificativa": "apresentou só o relatório",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "pede renovação da vista",
+     "ts": "0:27:31",
+     "justificativa": "quer proferir o voto-vista na próxima reunião",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "concorda com a renovação da vista",
+     "ts": "0:28:02",
+     "justificativa": "sustentações orais suscitaram outras dúvidas",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:28:35",
+   "processo": "50300.017994/2018-24 (legenda: «017994 2018/24» / «017 1942 1824»; incerto)",
+   "interessado": "Yara Brasil Fertilizantes S.A. (TUP em Rio Grande/RS; adv. Mariana Campos de Carvalho)",
+   "assunto": "Pedido de reconsideração contra o Acórdão 161/2020 (multas de ~R$ 198 mil por ampliar o terminal sem autorização e ~R$ 332 mil por ocupar área contígua antes da Bunge no porto organizado de Rio Grande, sem contrato); com sustentação oral",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "recursos administrativos",
+    "autorização de TUP",
+    "porto de Rio Grande",
+    "poligonal do porto organizado"
+   ],
+   "relator": "José Renato Fialho",
+   "resultado": "aprovado por unanimidade (conhecer e negar provimento)",
+   "resumo_voto": "Fialho mantém as duas multas (sem bis in idem: condutas diversas, conforme PFA), nega TAC/conversão; recomenda à Portos RS pedir revisão da poligonal e à Yara pedir ampliação da instalação; SFC acompanha regularização. Flávia acompanha, mas pergunta se houve processo sancionador contra a autoridade portuária que permitiu a ocupação; depois informa (1:45:49) que a SUPRG já foi multada em R$ 1 milhão.",
+   "votos": [
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "0:42:06",
+     "justificativa": "não houve fato novo; ocupação irregular de área do porto organizado; condutas distintas; dosimetria proporcional",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator (com questionamento)",
+     "ts": "0:51:33",
+     "justificativa": "quer saber se a autoridade portuária que permitiu a ocupação também foi processada; depois informa que a SUPRG foi multada em R$ 1 milhão",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "0:52:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:52:35",
+   "processo": "50300.004673/2022-46 (legenda: «00467 três 2246»)",
+   "interessado": "Companhia Docas de São Sebastião; RC Técnica Caldeiraria e Montagem Industrial Ltda.",
+   "assunto": "Referendo da Deliberação DG 112/2022: contrato de uso temporário (~2.400 m² no pátio 3 do porto de São Sebastião, 48 meses) para montagem de módulos de medição do FPSO Almirante Tamandaré (campo de Búzios)",
+   "tema": [
+    "contrato de uso temporário",
+    "carga de projeto",
+    "porto de São Sebastião",
+    "referendo"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado por unanimidade (referendado)",
+   "resumo_voto": "Relatora reitera os fundamentos: carga não consolidada, valores previstos na tarifa, condicionantes de operador portuário pré-qualificado e adimplência.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relator, aprova",
+     "ts": "0:53:06",
+     "justificativa": "pedido com anuência da área técnica e da PFA; urgência do início da operação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "acompanha o relator",
+     "ts": "0:56:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "0:56:12",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:56:12",
+   "processo": "50300.011644/2022-31",
+   "interessado": "ANTAQ",
+   "assunto": "Referendo da Deliberação DG 111/2022: prorroga para 1º/11/2022 a vigência das Resoluções ANTAQ 80, 81 e 82/2022 (simplificação normativa da navegação interior) para adaptar sistemas",
+   "tema": [
+    "regulação normativa",
+    "navegação interior",
+    "referendo"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado por unanimidade (referendado, com ajuste de nomenclatura)",
+   "resumo_voto": "Prorrogação pedida pela SOG para adequar sistemas e painel de outorgas; determina levantamento de impactos e cronograma em 30 dias; relatora corrige a referência à antiga Superintendência de TI.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relator, aprova",
+     "ts": "0:56:43",
+     "justificativa": "necessidade de adequação de sistemas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "acompanha o relator",
+     "ts": "0:59:51",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "0:59:51",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:00:21",
+   "processo": "50300.002893/2021-36 (legenda: «0289 três 2.136»; incerto)",
+   "interessado": "Ministério da Infraestrutura; EPL; Superintendência do Porto de Itajaí",
+   "assunto": "Referendo da Deliberação DG 110/2022: aprova a revisão dos estudos da concessão do porto de Itajaí feita por Minfra/EPL para atender às ressalvas da Deliberação DG 93/2022 (pós-audiência pública)",
+   "tema": [
+    "concessão de porto",
+    "desestatização",
+    "porto de Itajaí",
+    "referendo"
+   ],
+   "relator": "José Renato Fialho",
+   "resultado": "aprovado por unanimidade (referendado)",
+   "resumo_voto": "Projeto do PPI com cronograma de leilão no ano; ressalvas em três grupos analisadas pela assessoria especial de concessões.",
+   "votos": [
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "relator, aprova",
+     "ts": "1:00:54",
+     "justificativa": "urgência do cronograma do poder concedente",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "1:06:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "1:06:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:04:30",
+   "processo": "50300.002301/2022-85",
+   "interessado": "consulta (interessado não identificado)",
+   "assunto": "Consulta sobre internalização de embarcações estrangeiras com características específicas para operações submarinas de instalação de usinas eólicas (offshore)",
+   "tema": [
+    "navegação e afretamento",
+    "apoio marítimo",
+    "eólicas offshore",
+    "consulta"
+   ],
+   "relator": "José Renato Fialho",
+   "resultado": "vista renovada (Eduardo Nery); volta na próxima reunião telepresencial",
+   "resumo_voto": "Nery, que pediu vista na RD 525, renova a vista (art. 36 da Res. 66).",
+   "votos": [
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "relator; voto não proferido",
+     "ts": "1:05:02",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "renova pedido de vista",
+     "ts": "1:05:02",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "sem objeção à renovação",
+     "ts": "1:05:33",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "1:07:07",
+   "processo": "50300.007947/2022-59 (legenda: «0079 47 2.259»)",
+   "interessado": "Companhia Docas do Pará (área VDC04, porto de Vila do Conde)",
+   "assunto": "Arrendamento simplificado VDC04 (granéis sólidos minerais, ~32 mil m², greenfield/brownfield) em Vila do Conde: aprovação de minutas de edital e contrato e envio ao Minfra/TCU",
+   "tema": [
+    "arrendamento em porto organizado",
+    "arrendamento simplificado",
+    "porto de Vila do Conde"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Dispensa de audiência pública (Decreto 8.033); pendências (planta em escala, valor do m² na estrutura tarifária) podem ser sanadas em paralelo à tramitação no TCU; comunica a SNPTA.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, aprova",
+     "ts": "1:07:41",
+     "justificativa": "procedimento simplificado; pendências sanáveis até o edital",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "acompanha o relator",
+     "ts": "1:10:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "1:10:53",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "1:11:25",
+   "processo": "50300.0105??/2022 (legenda: «0105 2020 e 200»; incerto)",
+   "interessado": "Área de granéis sólidos no porto organizado de Porto Alegre (arrendamento referido como «POA02»; sigla incerta)",
+   "assunto": "Arrendamento simplificado de terminal de granéis sólidos (armazéns ~3.500 m² e ~2.600 m²) no porto de Porto Alegre: aprovação de minutas e envio ao Minfra/TCU",
+   "tema": [
+    "arrendamento em porto organizado",
+    "arrendamento simplificado",
+    "porto de Porto Alegre"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Mesmo encaminhamento do item 9: dispensa de audiência pública e ajustes junto à SNPTA antes do edital.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, aprova",
+     "ts": "1:11:25",
+     "justificativa": "procedimento simplificado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "acompanha o relator",
+     "ts": "1:14:02",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "1:14:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "1:14:34",
+   "processo": "50300.016421/2019-64",
+   "interessado": "Superintendência do Porto de Rio Grande (SUPRG); Companhia Estadual de Silos e Armazéns (CESA)",
+   "assunto": "Cumprimento da Resolução 34/2015 e do Acórdão 190/2021 (multa de R$ 1 milhão à SUPRG e recuperação de ~R$ 6,3 milhões pagos indevidamente à CESA): prorrogação de prazo",
+   "tema": [
+    "fiscalização e sanções",
+    "autoridade portuária",
+    "porto de Rio Grande"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Prorroga por 180 dias o prazo do item 3 do Acórdão 190/2021, diante da proposta do governo do RS de assumir a dívida da CESA e aplicá-la na duplicação da RS-734 de acesso ao porto; SFC monitora.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, aprova",
+     "ts": "1:15:04",
+     "justificativa": "tratativas com o governo estadual são passo importante para recuperar o valor",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "acompanha o relator",
+     "ts": "1:18:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "1:18:13",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "1:18:13",
+   "processo": "50300.002728/2013-92",
+   "interessado": "ANTAQ e ANTT",
+   "assunto": "Termo aditivo ao acordo de cooperação ANTAQ–ANTT incluindo plano de trabalho ferroviário para o porto de Santos (fiscalização da ferrovia interna FIPS)",
+   "tema": [
+    "institucional",
+    "cooperação interagências",
+    "ferrovia no porto",
+    "porto de Santos"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Nery destaca que a cooperação anterior deixara de ser efetiva (críticas de órgãos de controle) e que a FIPS prevê ~R$ 891 milhões em investimentos; cientifica o TCU. Flávia elogia e ressalta multimodalidade e contrato mais moderno.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, aprova",
+     "ts": "1:18:45",
+     "justificativa": "sem cooperação as agências não fiscalizam com efetividade o acesso ferroviário e a ferrovia interna",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "acompanha o relator",
+     "ts": "1:24:59",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "1:24:59",
+     "justificativa": "destaca a multimodalidade e o modelo regulatório mais moderno do novo contrato da FIPS",
+     "tom": "elogioso",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "1:27:36",
+   "processo": "50300.000510/2020-11 (legenda: «000 510 2020/11»)",
+   "interessado": "Porto do Recife S.A.",
+   "assunto": "Revisão tarifária com padronização da estrutura tarifária do porto do Recife (Res. 61/2021): receita anual ~R$ 39,5 milhões, índice de reajuste médio ~121,6% e efeito médio ~92,9%",
+   "tema": [
+    "tarifas portuárias",
+    "revisão tarifária",
+    "porto do Recife"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Última revisão em 2015; déficit da companhia; reajuste acumulado de 7 anos justifica o índice; homologação após 15 dias úteis sem manifestação contrária do poder concedente.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relator, aprova",
+     "ts": "1:28:09",
+     "justificativa": "déficit tarifário e defasagem desde 2015; acompanha a manifestação técnica",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "acompanha o relator",
+     "ts": "1:34:27",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "1:34:27",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "1:34:59",
+   "processo": "50300.008783/2022-27 (legenda: «0 0 87 83 2227»)",
+   "interessado": "ANTAQ (SRG)",
+   "assunto": "Agenda de Avaliação de Resultado Regulatório (ARR) 2022, projeto-piloto: Res. 13/2016 (registro de instalações de apoio ao transporte aquaviário) e Res. 62/2021 (direitos e deveres de usuários; sobre-estadia de contêineres)",
+   "tema": [
+    "regulação normativa",
+    "agenda regulatória / ARR",
+    "sobre-estadia/demurrage"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Cumpre o Decreto 10.411/2020; avaliações até 31/12/2022. Nery e Fialho elogiam e ressaltam a maturidade regulatória.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relator, aprova",
+     "ts": "1:35:32",
+     "justificativa": "exigência do Decreto 10.411; normas inovadoras e com conflitos recorrentes",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a relatora",
+     "ts": "1:41:42",
+     "justificativa": "espera que a agenda de ARR um dia seja maior que a de AIR, sinal de maturidade regulatória",
+     "tom": "elogioso",
+     "confianca": "media"
+    },
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "acompanha a relatora",
+     "ts": "1:43:14",
+     "justificativa": "agência capacita servidores em ARR",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "1:45:49",
+   "processo": "50300.004600/2021-64 (legenda: «00 460/2001 2164»; incerto)",
+   "interessado": "Companhia Docas do Pará (porto de Vila do Conde)",
+   "assunto": "Padronização da estrutura tarifária e revisão tarifária do porto de Vila do Conde (maio/2015 a maio/2021): receita anual ~R$ 70,8 milhões, efeito médio ~14,15%",
+   "tema": [
+    "tarifas portuárias",
+    "revisão tarifária",
+    "porto de Vila do Conde"
+   ],
+   "relator": "José Renato Fialho",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Acompanha GRP/SRG; recomenda publicidade da exposição de motivos; comunicação ao Ministério da Economia e Minfra e publicação após 15 dias úteis. O índice de reajuste médio aparece como 11,13% e depois «1,3%» na legenda (incerto).",
+   "votos": [
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "relator, aprova",
+     "ts": "1:46:24",
+     "justificativa": "autoridade portuária demonstrou a possibilidade da revisão e alimentou corretamente o sistema",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "1:49:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "1:49:34",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "1:49:34",
+   "processo": "50300.005608/2022-38",
+   "interessado": "SNPTA; área POA11 no porto organizado de Porto Alegre",
+   "assunto": "Arrendamento simplificado POA11 (granéis sólidos vegetais ou minerais, Porto Alegre): EVTEA simplificado, 10 anos, valor global ~R$ 39,9 milhões, critério maior valor de outorga; aprovação de minutas e envio ao Minfra/TCU",
+   "tema": [
+    "arrendamento em porto organizado",
+    "arrendamento simplificado",
+    "porto de Porto Alegre"
+   ],
+   "relator": "José Renato Fialho",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Dispensa de audiência pública (valor abaixo da alçada); exigência de SPE ou unidade de escrituração descentralizada; SNPTA deve atender a incisos do art. 2º da Res. 7.821. Nery registra três arrendamentos simplificados aprovados na reunião.",
+   "votos": [
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "relator, aprova",
+     "ts": "1:50:05",
+     "justificativa": "baixa assimetria regulatória; procedimento sumário",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "1:55:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "1:55:21",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "1:56:25",
+   "processo": "50300.011174/2021-24 (legenda: «01 174 2021 24»)",
+   "interessado": "ANTAQ",
+   "assunto": "Revisão e consolidação da resolução de outorga para operar na navegação marítima e de apoio (BR do Mar)",
+   "tema": [
+    "regulação normativa",
+    "navegação e afretamento",
+    "cabotagem / BR do Mar"
+   ],
+   "relator": "José Renato Fialho",
+   "resultado": "pedido de vista (Flávia Takafashi)",
+   "resumo_voto": "Flávia pede vista antes do voto; concedida nos termos regimentais.",
+   "votos": [
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "relator; voto não proferido",
+     "ts": "1:56:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "pede vista",
+     "ts": "1:56:25",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "concede a vista",
+     "ts": "1:56:57",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "1:56:57",
+   "processo": "50300.003454/2019-52",
+   "interessado": "TCP — Terminal de Contêineres de Paranaguá S.A.",
+   "assunto": "Extrapauta: cumprimento de tutela antecipada antecedente (1ª Vara Federal de Paranaguá) que autorizou a TCP a restabelecer a cobrança do SSE; delimitação dos efeitos dos itens 5.2 e 5.4 do Acórdão 409/2022",
+   "tema": [
+    "tarifas portuárias (SSE)",
+    "serviços nos terminais",
+    "judicialização",
+    "porto de Paranaguá"
+   ],
+   "relator": "José Renato Fialho",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Afasta, para a TCP e enquanto vigorar a decisão judicial, a suspensão da cobrança do SSE prevista no Acórdão 409/2022, sem alterar seu teor, para evitar alegação de descumprimento e orientar a fiscalização.",
+   "votos": [
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "relator, aprova",
+     "ts": "1:57:30",
+     "justificativa": "evitar controvérsia sobre cumprimento da decisão judicial e dar clareza à fiscalização",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "2:01:41",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:01:41",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "7 — 50300.000317/2022 (legenda «000 317/2002 172»): enquadramento de embarcações de engenharia offshore na navegação de apoio portuário",
+   "relator": "Eduardo Nery",
+   "motivo": "excluído de pauta por despacho prévio; dúvidas em discussões prévias; volta na próxima reunião",
+   "ts": "1:06:04"
+  },
+  {
+   "item": "8 — 50300.001244/2022-17: denúncia com pedido de cautelar do Conselho dos Exportadores de Café do Brasil (Cecafé)",
+   "relator": "Eduardo Nery",
+   "motivo": "excluído de pauta por despacho; sustentação oral autorizada para quando voltar",
+   "ts": "0:04:22"
+  },
+  {
+   "item": "11 — 50300.011475/2022 (legenda «01 1475 2.239»)",
+   "relator": "Eduardo Nery",
+   "motivo": "excluído de pauta por despacho prévio; volta na próxima reunião",
+   "ts": "1:14:34"
+  },
+  {
+   "item": "15 — 50300.000440/2021 (conexo ao 16)",
+   "relator": "Flávia Takafashi",
+   "motivo": "retirado de pauta pela relatora para instrução complementar",
+   "ts": "1:44:15"
+  },
+  {
+   "item": "16 — 50300.002117/2021-62 (sustentação oral de Alexandre Moreira Lopes autorizada para a volta)",
+   "relator": "Flávia Takafashi",
+   "motivo": "retirado de pauta pela relatora; instrução complementar",
+   "ts": "0:04:53"
+  }
+ ],
+ "limites_da_analise": [
+  "Data 2022-08-11 tirada do cabeçalho; a fala não diz a data, mas é coerente (cita cota da PFA de 9/08/2022 e a reunião 528 em 1º/09).",
+  "Legenda automática: vários números de processo incompletos ou distorcidos (itens 2, 5, 10, 17, 7, 11, 15); siglas de áreas (VDC04, POA02) incertas.",
+  "José Renato Fialho atua como diretor substituto. Votos de quem só acompanha: ts aproximado.",
+  "No item 1 a legenda não nomeia quem renova a vista; atribuído a Flávia Takafashi porque ela pediu a vista na RD 524, segundo o DG.",
+  "Item 17: índice de reajuste médio dito de forma inconsistente (11,13% e «1,3%»); só o efeito médio de 14,15% é consistente."
+ ]
+}

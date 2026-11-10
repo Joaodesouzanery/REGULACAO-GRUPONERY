@@ -1,0 +1,21 @@
+# Perfil analítico — Alexandre Lopes · tema: tup_autorizacao
+
+**Amostra:** presente em 4 das 4 reuniões analisadas em que há registro de presença/ausência; 10 votos neste tema; 1 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+
+**Votos:** acompanha o relator 9 (100% dos votos em que não era relator) · relator 1 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Como relator:** 0/1 relatorias aprovadas por unanimidade.
+
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 34/17; navegacao_afretamento 26/11; tarifas_portuarias 17/9; fiscalizacao_sancoes 16/11; servicos_terminais 14/5; tup_autorizacao 10/1; regulacao_normativa 10/3; governanca_tcu 8/6; recursos_recursais 4/1; sustentabilidade 3/0; mediacao 3/0; concessao_porto_hidrovia 3/2
+
+## Evidências (reunião · item · voto · justificativa)
+
+- **RD 530 (2022-09-29)**, item 21 — Transferência de titularidade do contrato de adesão 69/2015 (TUP Terminal Aquaviário de Guamaré) · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=7299s) · resultado: aprovado por unanimidade
+- **RD 532 (2022-11-10)**, item 20 — Inclusão do perfil de granel líquido e gasoso no TUP (contrato de adesão 17/2014), Santos · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=8060s) · resultado: aprovado nos termos do voto do relator
+- **RD 532 (2022-11-10)**, item 21 — Autorização especial emergencial para movimentar granel sólido por 180 dias (contrato de adesão 6/2018; pendência de cessão de espelho d’águ · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=8163s) · resultado: aprovado nos termos do voto do relator, com acréscimo proposto por Flá
+- **RD 532 (2022-11-10)**, item 24 — Dispensa da garantia de execução do contrato de adesão 9/2015 (Decreto 9.048/2017) · voto: *acompanha a relatora* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=9545s) · resultado: aprovado nos termos do voto da relatora
+- **RD 532 (2022-11-10)**, item 30 — Autorização emergencial para movimentação de passageiros (cruzeiros) por 180 dias após naufrágio da estrutura flutuante de passageiros do Po · voto: *acompanha a relatora* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=11495s) · resultado: aprovado nos termos do voto da relatora
+- **RD 532 (2022-11-10)**, item 47 — Ampliação de área (para 93.442,93 m²) e inclusão de granel líquido e carga geral no contrato de adesão 7/2021 · voto: *relator, aprova* (relator, conf. alta) · «único habilitado no anúncio público; viabilidade locacional confirmada; investimento concretiza objetivos da Lei 12.815» · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=15581s) · resultado: aprovado nos termos do voto do relator
+- **RD 534 (2022-12-07)**, item 3 — Referendo de deliberação (nº 150 ou 170/2022) que concedeu autorização em caráter especial e emergencial por 180 dias (quarta autorização) p · voto: *acompanha* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=3065s) · resultado: referendado por unanimidade
+- **RD 534 (2022-12-07)**, item 18 — Registro de instalação de apoio ao transporte aquaviário em Manaus (AM) para descarga de matéria-prima e carregamento de sacos de cimento; S · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=10781s) · resultado: aprovado por unanimidade
+- **RD 534 (2022-12-07)**, item 21 — Autorização especial e emergencial por 180 dias para movimentar e armazenar granéis sólidos (minério de ferro, manganês, coque metalúrgico,  · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=11419s) · resultado: aprovado
+- **RD 534 (2022-12-07)**, item 26 — Autorização especial e emergencial por 180 dias (a partir de 15/01/2023) para movimentar minério de ferro e ferro-gusa, antes da celebração  · voto: *acompanha a relatora* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=12557s) · resultado: aprovado por unanimidade

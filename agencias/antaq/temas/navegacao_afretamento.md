@@ -1,0 +1,1936 @@
+# Itens do tema «navegacao_afretamento» (todos os diretores)
+
+- **RD 454 (2018-12-20)**, 1 · relator **Mário Povia** · Consulta sobre emissão de CAA e CLE para embarcações inscritas no REB (Registro Especial Brasileiro) – retorno de vista → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=37s)
+- **RD 454 (2018-12-20)**, 14 · relator **Francisval Mendes** · Outorga de autorização como EBN para travessia de passageiros, veículos e cargas em faixa de fronteira na Lagoa dos Patos (Rio Grande – São José do No → aprovado por unanimidade (julgados em bloco: itens 14 e 15)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=6824s)
+- **RD 454 (2018-12-20)**, 15 · relator **Francisval Mendes** · Outorga de autorização como EBN para travessia de passageiros e veículos no rio Paraná (Icaraíma – Querência do Norte, PR) → aprovado por unanimidade (julgados em bloco: itens 14 e 15)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=6824s)
+- **RD 454 (2018-12-20)**, 29 · relator **Francisval Mendes** · Ratificação da Habilitação ao Tráfego Internacional (HTI) de 2005 do terminal autorizado → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=11608s)
+- **RD 454 (2018-12-20)**, 30 · relator **Francisval Mendes** · Pedido de reconsideração contra a Resolução 6303 → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=12103s)
+- **RD 454 (2018-12-20)**, 40 · relator **Francisval Mendes** · Proposta de resolução normativa sobre obrigatoriedade de informações para o Sistema de Desempenho da Navegação (SDN) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=13379s)
+- **RD 454 (2018-12-20)**, 42 · relator **Adalberto Tokarski** · Registro de duas instalações de apoio (atracadouros de ferry-boat) em Navegantes e Itajaí (SC) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=13751s)
+- **RD 454 (2018-12-20)**, 48 · relator **Adalberto Tokarski** · Outorga de autorização para travessia internacional (Foz do Iguaçu-PR – Presidente Franco, Paraguai) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=14990s)
+- **RD 454 (2018-12-20)**, 50 · relator **Adalberto Tokarski** · Renúncia de outorga (Termo de Autorização 1374) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=15206s)
+- **RD 454 (2018-12-20)**, 68 · relator **Mário Povia** · Extrapauta: outorga de autorização como EBN para granel sólido na navegação interior longitudinal na região amazônica → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=17166s)
+- **RD 455 (2019-01-31)**, 5 · relator **Francisval Mendes** · Autorização de terminal de uso privado já construído em Estrela (RS) — regularização → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=314s)
+- **RD 455 (2019-01-31)**, 10 · relator **Mário Povia** · Outorga de autorização de EBN → aprovado por unanimidade — indeferido
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=645s)
+- **RD 455 (2019-01-31)**, 11 · relator **Mário Povia** · Outorga de autorização de EBN na navegação de apoio portuário (embarcações até 2.000 HP) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=741s)
+- **RD 455 (2019-01-31)**, 12 · relator **Mário Povia** · Outorga de autorização de EBN na navegação de apoio marítimo → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=790s)
+- **RD 455 (2019-01-31)**, 14 · relator **Mário Povia** · Registro de instalação portuária de apoio ao transporte aquaviário (instalação flutuante para cimento asfáltico) → julgamento suspenso (vista de Francisval Mendes)
+  - votos: Mário: relator; Francisval: vista; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=1262s)
+- **RD 455 (2019-01-31)**, 15 · relator **Mário Povia** · Registro de instalação portuária de apoio ao transporte aquaviário (Icoaraci, Belém/PA) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=1519s)
+- **RD 455 (2019-01-31)**, 16 · relator **Mário Povia** · Registro de instalação portuária de apoio ao transporte aquaviário (Icoaraci, Belém/PA) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=1570s)
+- **RD 455 (2019-01-31)**, 17 · relator **Mário Povia** · Registro de instalação portuária de apoio ao transporte aquaviário (Belém/PA) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=1625s)
+- **RD 455 (2019-01-31)**, 18 · relator **Mário Povia** · Registro de instalação portuária de apoio ao transporte aquaviário (Juruti/PA) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=1674s)
+- **RD 455 (2019-01-31)**, 19 · relator **Mário Povia** · Renúncia a termo de autorização de EBN (julgado em bloco com o item 20) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=1726s)
+- **RD 455 (2019-01-31)**, 20 · relator **Mário Povia** · Renúncia a termo de autorização de EBN (julgado em bloco com o item 19) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=1726s)
+- **RD 455 (2019-01-31)**, 23 · relator **Francisval Mendes** · Outorga de autorização de EBN (bloco itens 23 a 26) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=2766s)
+- **RD 455 (2019-01-31)**, 24 · relator **Francisval Mendes** · Outorga de autorização de EBN (bloco itens 23 a 26) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=2766s)
+- **RD 455 (2019-01-31)**, 25 · relator **Francisval Mendes** · Outorga de autorização de EBN (bloco itens 23 a 26) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=2766s)
+- **RD 455 (2019-01-31)**, 26 · relator **Francisval Mendes** · Outorga de autorização de EBN (bloco itens 23 a 26) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=2766s)
+- **RD 455 (2019-01-31)**, 27 · relator **Francisval Mendes** · Outorga de autorização de EBN (bloco itens 27 e 28); contribuição sindical → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=2902s)
+- **RD 455 (2019-01-31)**, 28 · relator **Francisval Mendes** · Outorga de autorização de EBN (bloco itens 27 e 28); contribuição sindical → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=2902s)
+- **RD 455 (2019-01-31)**, 29 · relator **Francisval Mendes** · Outorga de autorização de EBN (bloco itens 29 e 30) → aprovado por unanimidade — indeferido
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=3050s)
+- **RD 455 (2019-01-31)**, 30 · relator **Francisval Mendes** · Outorga de autorização de EBN (bloco itens 29 e 30) → aprovado por unanimidade — indeferido
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=3050s)
+- **RD 455 (2019-01-31)**, 31 · relator **Francisval Mendes** · Renúncia a termo de autorização (bloco itens 31 e 32) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=3174s)
+- **RD 455 (2019-01-31)**, 32 · relator **Francisval Mendes** · Renúncia a termo de autorização (bloco itens 31 e 32) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=3174s)
+- **RD 455 (2019-01-31)**, 33 · relator **Francisval Mendes** · Inclusão de embarcação em frota e pedido de prazo para adequação → aprovado por unanimidade — extinto por perda de objeto
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=3275s)
+- **RD 455 (2019-01-31)**, 42 · relator **Francisval Mendes** · Autorização de TUP em Cruzeiro do Sul (AC) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=3732s)
+- **RD 455 (2019-01-31)**, 43 · relator **Francisval Mendes** · Autorização de estação de transbordo de carga (ETC) em Porto Alegre (RS) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=3819s)
+- **RD 455 (2019-01-31)**, 58 · relator **Francisval Mendes** · Consulta sobre o art. 6º da RN 1/2015 (embarcações estrangeiras em acordos bilaterais com reserva de carga; bloqueio de circularização) → julgamento suspenso (vista de Adalberto Tokarski)
+  - votos: Francisval: relator; Adalberto: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=6178s)
+- **RD 455 (2019-01-31)**, 60 · relator **Francisval Mendes** · Interpretação da Resolução 1864-ANTAQ (novo afretamento por tempo de embarcação estrangeira na navegação interior) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=6457s)
+- **RD 455 (2019-01-31)**, 62 · relator **Adalberto Tokarski** · Autorização em caráter especial → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=6710s)
+- **RD 455 (2019-01-31)**, 63 · relator **Adalberto Tokarski** · Autorização de transporte misto na navegação interior (Santarém–Terra Santa/PA) (bloco itens 63 a 67, 70 e 71) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=6727s)
+- **RD 455 (2019-01-31)**, 64 · relator **Adalberto Tokarski** · Autorização de travessia interestadual no rio Gurupi (Viseu/PA–Carutapera/MA) (bloco itens 63 a 67, 70 e 71) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=6727s)
+- **RD 455 (2019-01-31)**, 65 · relator **Adalberto Tokarski** · Autorização de apoio portuário (até 2.000 HP) (bloco itens 63 a 67, 70 e 71) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=6727s)
+- **RD 455 (2019-01-31)**, 67 · relator **Adalberto Tokarski** · Autorização de transporte de derivados de petróleo na navegação interior (Amazônica) (bloco itens 63 a 67, 70 e 71) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=6727s)
+- **RD 455 (2019-01-31)**, 66 · relator **Adalberto Tokarski** · Outorga de autorização de EBN para apoio portuário e apoio marítimo → julgamento suspenso (vista do Diretor-Geral)
+  - votos: Adalberto: relator; Mário: vista; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=6727s)
+- **RD 455 (2019-01-31)**, 68 · relator **Adalberto Tokarski** · Renúncia à outorga de autorização (hidrovia Tietê-Paraná) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=7316s)
+- **RD 456 (2019-02-26)**, 7 · relator **Mário Povia** · Outorga de autorização como EBN na navegação de apoio portuário (embarcações até 2.000 HP) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=219s)
+- **RD 456 (2019-02-26)**, 13 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário: Porto do Trapiche Municipal, Chaves/PA (julgamento em bloco dos itens 13 a 16) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=1441s)
+- **RD 456 (2019-02-26)**, 14 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário: instalação em Santarém/PA (julgamento em bloco dos itens 13 a 16) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=1441s)
+- **RD 456 (2019-02-26)**, 15 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário: instalação em Manaus/AM (julgamento em bloco dos itens 13 a 16) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=1441s)
+- **RD 456 (2019-02-26)**, 16 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário: Terminal Boa Esperança, Cametá/PA (julgamento em bloco dos itens 13 a 16) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=1441s)
+- **RD 456 (2019-02-26)**, 18 · relator **Francisval Mendes** · Outorga de autorização; pedido de vista de Adalberto Tokarski → vista mantida
+  - votos: Francisval: revisor_acompanha; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=1663s)
+- **RD 456 (2019-02-26)**, 19 · relator **Francisval Mendes** · Renúncia de outorga de EBN (granéis sólidos na hidrovia Tietê-Paraná) → aprovado por unanimidade: outorga extinta
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=1681s)
+- **RD 456 (2019-02-26)**, 23 · relator **Francisval Mendes** · Consulta sobre circularização e bloqueio no afretamento de embarcações de apoio marítimo → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=2137s)
+- **RD 456 (2019-02-26)**, 32 · relator **Adalberto Tokarski** · Renúncia de outorga de EBN (navegação interior; julgamento conjunto dos itens 32 e 34) → aprovado por unanimidade: outorgas extintas
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=2940s)
+- **RD 456 (2019-02-26)**, 34 · relator **Adalberto Tokarski** · Renúncia de outorga de EBN (navegação interior; julgamento conjunto dos itens 32 e 34) → aprovado por unanimidade: outorgas extintas
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=2940s)
+- **RD 456 (2019-02-26)**, 35 · relator **Adalberto Tokarski** · Outorga de autorização como EBN: travessia de passageiros e veículos em faixa de fronteira (julgamento conjunto com o item 36) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=4879s)
+- **RD 456 (2019-02-26)**, 36 · relator **Adalberto Tokarski** · Outorga de autorização como EBN na navegação interior de percurso longitudinal interestadual (julgamento conjunto com o item 35) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=4879s)
+- **RD 456 (2019-02-26)**, 39 · relator **Adalberto Tokarski** · Afretamento por tempo de embarcação estrangeira para substituir navios próprios (Bartolomeu Dias e Vicente Pinzón) durante docagem obrigatória, 90 dia → pedido de vista de Francisval Mendes
+  - votos: Adalberto: relator; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=5676s)
+- **RD 458 (2019-04-04)**, 13 · relator **Francisval Mendes** · Metodologia de acompanhamento e de análise de justificativas de reajuste de preços dos serviços autorizados de navegação interior (travessias) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=3370s)
+- **RD 458 (2019-04-04)**, 16 · relator **Francisval Mendes** · Pedido de reconsideração da CDRJ em conflito tarifário: desconto de 50% para cabotagem em operações offshore no porto de Angra dos Reis → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=3857s)
+- **RD 458 (2019-04-04)**, 19 · relator **Francisval Mendes** · Outorga de autorização como EBN para transporte de passageiros na navegação interior longitudinal interestadual Manaus (AM) a Terra Santa (PA) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=4698s)
+- **RD 458 (2019-04-04)**, 22 · relator **Adalberto Tokarski** · Outorga de autorização como EBN na navegação interior (travessia interestadual de passageiros ou transporte longitudinal de cargas) — julgamento em bl → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=6127s)
+- **RD 458 (2019-04-04)**, 23 · relator **Adalberto Tokarski** · Outorga de autorização como EBN na navegação interior (travessia interestadual de passageiros ou transporte longitudinal de cargas) — julgamento em bl → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=6127s)
+- **RD 458 (2019-04-04)**, 24 · relator **Adalberto Tokarski** · Outorga de autorização como EBN na navegação interior (travessia interestadual de passageiros ou transporte longitudinal de cargas) — julgamento em bl → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=6127s)
+- **RD 458 (2019-04-04)**, 26 · relator **Adalberto Tokarski** · Registro de instalação portuária de apoio ao transporte aquaviário (IP4) — julgamento em bloco dos itens 26 a 32 → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=6590s)
+- **RD 458 (2019-04-04)**, 27 · relator **Adalberto Tokarski** · Registro de instalação portuária de apoio ao transporte aquaviário (IP4) — julgamento em bloco dos itens 26 a 32 → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=6590s)
+- **RD 458 (2019-04-04)**, 28 · relator **Adalberto Tokarski** · Registro de instalação portuária de apoio ao transporte aquaviário (IP4) — julgamento em bloco dos itens 26 a 32 → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=6590s)
+- **RD 458 (2019-04-04)**, 29 · relator **Adalberto Tokarski** · Registro de instalação portuária de apoio ao transporte aquaviário (IP4) — julgamento em bloco dos itens 26 a 32 → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=6590s)
+- **RD 458 (2019-04-04)**, 30 · relator **Adalberto Tokarski** · Registro de instalação portuária de apoio ao transporte aquaviário (IP4) — julgamento em bloco dos itens 26 a 32 → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=6590s)
+- **RD 458 (2019-04-04)**, 31 · relator **Adalberto Tokarski** · Registro de instalação portuária de apoio ao transporte aquaviário (IP4) — julgamento em bloco dos itens 26 a 32 → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=6590s)
+- **RD 458 (2019-04-04)**, 32 · relator **Adalberto Tokarski** · Registro de instalação portuária de apoio ao transporte aquaviário (IP4) — julgamento em bloco dos itens 26 a 32 → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=6590s)
+- **RD 458 (2019-04-04)**, 33 · relator **Adalberto Tokarski** · Renúncia a outorga de EBN (passageiros, navegação interior Manaus–Tabatinga; termo de autorização 829) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=6758s)
+- **RD 459 (2019-04-15)**, 1 · relator **Francisval Mendes** · Outorga de autorização (EBN) – retorno de vista → aprovado por unanimidade nos termos do voto do relator
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=20s)
+- **RD 459 (2019-04-15)**, 2 · relator **Francisval Mendes** · Outorga de autorização (EBN) – retorno de vista → aprovado por unanimidade nos termos do voto do relator
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=65s)
+- **RD 459 (2019-04-15)**, 5 · relator **Francisval Mendes** · Equivalência de embarcações em acordos operacionais da navegação interior (art. 13 da RN 24/2018) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=165s)
+- **RD 459 (2019-04-15)**, 10 · relator **Mário Povia** · Revisão da RN 01/2015 e da Res. 1811/2010 (afretamento por EBN; afretamento por tempo no apoio marítimo por não-EBN) – submissão a audiência/consulta  → vista a Adalberto Tokarski (relator votou)
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=2875s)
+- **RD 459 (2019-04-15)**, 13 · relator **Francisval Mendes** · Norma que altera as Res. 1274/2009, 1558/2009, 3285/2014 e 3631/2014 (navegação interior) para desburocratização (Decreto 9094/2017 e Lei 13.726/2018) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=4377s)
+- **RD 459 (2019-04-15)**, 29 · relator **Francisval Mendes** · Nova autorização em caráter especial e de emergência (art. 49 da Lei 10.233) para operação de granel líquido (combustíveis) em Itaituba/PA → aprovado por maioria (Mário Povia vencido)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=5332s)
+- **RD 459 (2019-04-15)**, 30 · relator **Adalberto Tokarski** · Outorga de autorização como EBN na navegação interior (julgado em bloco com itens 31 e 32) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=5638s)
+- **RD 459 (2019-04-15)**, 31 · relator **Adalberto Tokarski** · Outorga de autorização como EBN na navegação de apoio portuário (julgado em bloco com 30 e 32) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=5638s)
+- **RD 459 (2019-04-15)**, 32 · relator **Adalberto Tokarski** · Outorga de autorização para navegação interior de travessia interestadual (julgado em bloco com 30 e 31) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=5638s)
+- **RD 459 (2019-04-15)**, 35 · relator **Adalberto Tokarski** · Autorização para construção e exploração de TUP em Porto Velho/RO (gleba Porto Chuelo; granéis líquidos) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=5930s)
+- **RD 459 (2019-04-15)**, 36 · relator **Adalberto Tokarski** · Autorização para construção e exploração de TUP em Miritituba, Itaituba/PA (hoje operando por autorização especial) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=6060s)
+- **RD 460 (2019-05-06)**, 5 · relator **Mário Povia** · Renúncia de outorga de autorização (Termo de Autorização 1533-ANTAQ) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=95s)
+- **RD 460 (2019-05-06)**, 7 · relator **Mário Povia** · Processo administrativo sancionador: auto de infração por não possuir Certificado de Registro de Armador (CRA) do Tribunal Marítimo (EBN de cabotagem; → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=790s)
+- **RD 460 (2019-05-06)**, 12 · relator **Francisval Mendes** · Outorga de autorização como EBN para transporte misto na navegação interior longitudinal interestadual (Belém–Manaus, região amazônica) → aprovado por unanimidade (julgados em bloco: itens 12 e 13)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=2356s)
+- **RD 460 (2019-05-06)**, 13 · relator **Francisval Mendes** · Outorga de autorização como EBN para travessia interestadual de passageiros no rio Tocantins (Carolina-MA – Filadélfia-TO) → aprovado por unanimidade (julgados em bloco: itens 12 e 13)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=2356s)
+- **RD 460 (2019-05-06)**, 14 · relator **Francisval Mendes** · Autorização de cabotagem (pedido de vista de Adalberto Tokarski) → pedido de vista
+  - votos: Adalberto: vista; Francisval: relator; Mário: outro · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=2491s)
+- **RD 460 (2019-05-06)**, 15 · relator **Francisval Mendes** · Renúncia de outorga de autorização de apoio portuário (Termo de Autorização 1572-ANTAQ) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=2509s)
+- **RD 460 (2019-05-06)**, 16 · relator **Francisval Mendes** · Revogação da Resolução 5284-ANTAQ (pedido de vista de Adalberto Tokarski) → pedido de vista
+  - votos: Adalberto: vista; Francisval: relator; Mário: outro · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=2568s)
+- **RD 460 (2019-05-06)**, 17 · relator **Francisval Mendes** · Registro de 40 instalações portuárias públicas de pequeno porte (IP4) no Amazonas e em Rondônia → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=2590s)
+- **RD 460 (2019-05-06)**, 24 · relator **Francisval Mendes** · Utilização de tonelagem de embarcação de bandeira brasileira afretada (pedido de vista do Diretor-Geral) → pedido de vista
+  - votos: Mário: vista; Francisval: relator; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=4539s)
+- **RD 460 (2019-05-06)**, 33 · relator **Francisval Mendes** · Operacionalização das consultas (circularização) para uso de embarcações estrangeiras no Acordo Bilateral Brasil–Argentina → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=4581s)
+- **RD 460 (2019-05-06)**, 34 · relator **Francisval Mendes** · Proposta de resolução normativa sobre serviço privado de transporte de travessia (atendimento a único cliente) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=5034s)
+- **RD 460 (2019-05-06)**, 37 · relator **Adalberto Tokarski** · Processo administrativo sancionador (AI da Unidade Regional de Salvador) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=5738s)
+- **RD 460 (2019-05-06)**, 40 · relator **Adalberto Tokarski** · Outorga de autorização como EBN para navegação de cabotagem com embarcações abaixo de 5 mil TPB (RN 5/2016) → pedido de vista (Diretor-Geral)
+  - votos: Adalberto: relator; Mário: vista; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=6305s)
+- **RD 461 (2019-05-20)**, 1 · relator **Adalberto Tokarski** · Outorga de autorização para operar como EBN (retorno de vista do Diretor-Geral; voto do relator já proferido) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=30s)
+- **RD 461 (2019-05-20)**, 2 · relator **Adalberto Tokarski** · Outorga de autorização para operar como EBN na navegação de cabotagem com embarcações abaixo de 5 mil TPB, indicando como garantidora uma traineira (r → aprovado o voto-vista (indeferimento) por maioria; relator vencido
+  - votos: Adalberto: vencido; Mário: revisor_diverge; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=114s)
+- **RD 461 (2019-05-20)**, 5 · relator **Francisval Mendes** · Revogação da Resolução 5284/2017 (afretamento por tempo em substituição a embarcações encomendadas ao estaleiro Eisa, cujo contrato foi rescindido) e  → aprovado por maioria o voto do relator; Tokarski vencido quanto ao prazo de 12 meses
+  - votos: Francisval: relator; Adalberto: revisor_diverge; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=1137s)
+- **RD 461 (2019-05-20)**, 6 · relator **Francisval Mendes** · Utilização de tonelagem de embarcação de bandeira brasileira afretada (itens 6 a 14, temas semelhantes) → vista de Adalberto Tokarski renovada; relator aguarda
+  - votos: Adalberto: outro; Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=1990s)
+- **RD 461 (2019-05-20)**, 7 · relator **Francisval Mendes** · Processo do mesmo tema do item 6 — vista de Tokarski renovada em bloco → vista de Adalberto Tokarski renovada; relator aguarda
+  - votos: Adalberto: outro; Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=1990s)
+- **RD 461 (2019-05-20)**, 8 · relator **Francisval Mendes** · Processo do mesmo tema do item 6 — vista de Tokarski renovada em bloco → vista de Adalberto Tokarski renovada; relator aguarda
+  - votos: Adalberto: outro; Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=1990s)
+- **RD 461 (2019-05-20)**, 9 · relator **Francisval Mendes** · Processo do mesmo tema do item 6 — vista de Tokarski renovada em bloco → vista de Adalberto Tokarski renovada; relator aguarda
+  - votos: Adalberto: outro; Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=1990s)
+- **RD 461 (2019-05-20)**, 10 · relator **Francisval Mendes** · Processo do mesmo tema do item 6 — vista de Tokarski renovada em bloco → vista de Adalberto Tokarski renovada; relator aguarda
+  - votos: Adalberto: outro; Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=1990s)
+- **RD 461 (2019-05-20)**, 11 · relator **Francisval Mendes** · Processo do mesmo tema do item 6 — vista de Tokarski renovada em bloco → vista de Adalberto Tokarski renovada; relator aguarda
+  - votos: Adalberto: outro; Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=1990s)
+- **RD 461 (2019-05-20)**, 12 · relator **Francisval Mendes** · Processo do mesmo tema do item 6 — vista de Tokarski renovada em bloco → vista de Adalberto Tokarski renovada; relator aguarda
+  - votos: Adalberto: outro; Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=1990s)
+- **RD 461 (2019-05-20)**, 13 · relator **Francisval Mendes** · Processo do mesmo tema do item 6 — vista de Tokarski renovada em bloco → vista de Adalberto Tokarski renovada; relator aguarda
+  - votos: Adalberto: outro; Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=1990s)
+- **RD 461 (2019-05-20)**, 14 · relator **Francisval Mendes** · Processo do mesmo tema do item 6 — vista de Tokarski renovada em bloco → vista de Adalberto Tokarski renovada; relator aguarda
+  - votos: Adalberto: outro; Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=1990s)
+- **RD 461 (2019-05-20)**, 15 · relator **Mário Povia** · Outorga de autorização como EBN para transporte de passageiros na navegação interior longitudinal interestadual Parintins (AM)–Terra Santa (PA) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=2050s)
+- **RD 461 (2019-05-20)**, 16 · relator **Mário Povia** · Outorga de autorização como EBN na navegação de apoio portuário (embarcações até 2.000 HP) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=2130s)
+- **RD 461 (2019-05-20)**, 17 · relator **Mário Povia** · Outorga de autorização como EBN na navegação de apoio portuário (embarcações até 2.000 HP) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=2188s)
+- **RD 461 (2019-05-20)**, 18 · relator **Mário Povia** · Registro de instalação de apoio ao transporte aquaviário em Vitória/Vila Velha (ES), com impugnação de TUP concorrente → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=2251s)
+- **RD 461 (2019-05-20)**, 19 · relator **Mário Povia** · Inclusão na agenda regulatória do tema dos acordos operacionais entre EBNs na cabotagem (Res. 4714/2016): tema transferido para o biênio 2020-2021 e c → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=2666s)
+- **RD 461 (2019-05-20)**, 23 · relator **Francisval Mendes** · Outorga de autorização como EBN na cabotagem com embarcações abaixo de 5 mil TPB → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=3504s)
+- **RD 461 (2019-05-20)**, 25 · relator **Francisval Mendes** · Proposta de norma para o Sistema de Desempenho da Navegação (SDN) → pedido de vista do Diretor-Geral; relator aguarda
+  - votos: Mário: vista; Francisval: relator; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=3927s)
+- **RD 461 (2019-05-20)**, 27 · relator **Francisval Mendes** · Relatório do grupo de trabalho sobre os requisitos do art. 5º da RN 01/2015 (limitação de tonelagem para afretamento na cabotagem, sobretudo hidrocarb → aprovado por unanimidade, com prazo ajustado para 60 dias e consulta à ANP
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=4106s)
+- **RD 461 (2019-05-20)**, 32 · relator **Adalberto Tokarski** · Processo administrativo sancionador (auto de infração 2716-2, unidade regional de Fortaleza) — infrações aos incisos I e XVII do art. 21 da Res. 25 → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=6479s)
+- **RD 461 (2019-05-20)**, 34 · relator **Adalberto Tokarski** · Outorga de autorização para operar como EBN — votada em bloco (itens 34 a 36) → aprovado por unanimidade (bloco 34-36)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=6999s)
+- **RD 461 (2019-05-20)**, 35 · relator **Adalberto Tokarski** · Outorga de autorização para operar como EBN — votada em bloco (itens 34 a 36) → aprovado por unanimidade (bloco 34-36)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=6999s)
+- **RD 461 (2019-05-20)**, 36 · relator **Adalberto Tokarski** · Outorga de autorização para operar como EBN — votada em bloco (itens 34 a 36) → aprovado por unanimidade (bloco 34-36)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=6999s)
+- **RD 461 (2019-05-20)**, 37 · relator **Adalberto Tokarski** · Outorga de autorização para operar como EBN → pedido de vista de Francisval Mendes
+  - votos: Adalberto: relator; Francisval: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=6999s)
+- **RD 461 (2019-05-20)**, 38 · relator **Adalberto Tokarski** · Renúncia de outorga de EBN para travessia de passageiros no rio Tocantins entre Filadélfia (TO) e Carolina (MA) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=7177s)
+- **RD 461 (2019-05-20)**, 40 · relator **Adalberto Tokarski** · Consulta sobre requisitos da RN 01/2015 para bloqueio parcial no procedimento de circularização de afretamento → aprovado por unanimidade, com resposta por resolução
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=7706s)
+- **RD 461 (2019-05-20)**, 44 · relator **Adalberto Tokarski** · Pedido de reconsideração (convertido em recurso) contra indeferimento de certificados de liberação de carga pesquisada (CLCP) para importação de peças → pedido de vista do Diretor-Geral
+  - votos: Adalberto: relator; Mário: vista; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=8905s)
+- **RD 461 (2019-05-20)**, 45 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário — terminal hidroviário de cargas e passageiros de Terra Santa (PA) (itens 45 e 46 relatados j → pedido de vista de Francisval Mendes
+  - votos: Adalberto: relator; Francisval: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=9088s)
+- **RD 461 (2019-05-20)**, 46 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário — terminal hidroviário de cargas e passageiros de Faro (PA) (itens 45 e 46 relatados juntos) → pedido de vista de Francisval Mendes
+  - votos: Adalberto: relator; Francisval: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=9088s)
+- **RD 461 (2019-05-20)**, 58 · relator **Francisval Mendes** · Outorga de autorização para cabotagem → pedidos de vista de Adalberto Tokarski e do Diretor-Geral; relator aguarda
+  - votos: Adalberto: outro; Mário: vista; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=10265s)
+- **RD 462 (2019-05-30)**, 4 · relator **Francisval Mendes** · Julgamento em bloco (itens 4 a 12): questionamentos sobre «alavancagem de tonelagem» — inclusão na frota de embarcações de apoio marítimo de baixo val → aprovado por unanimidade: SRG e SOG devem apresentar proposta de regulamentação do cálculo
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=1459s)
+- **RD 462 (2019-05-30)**, 5 · relator **Francisval Mendes** · Julgamento em bloco (itens 4 a 12): questionamentos sobre «alavancagem de tonelagem» — inclusão na frota de embarcações de apoio marítimo de baixo val → aprovado por unanimidade: SRG e SOG devem apresentar proposta de regulamentação do cálculo
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=1511s)
+- **RD 462 (2019-05-30)**, 6 · relator **Francisval Mendes** · Julgamento em bloco (itens 4 a 12): questionamentos sobre «alavancagem de tonelagem» — inclusão na frota de embarcações de apoio marítimo de baixo val → aprovado por unanimidade: SRG e SOG devem apresentar proposta de regulamentação do cálculo
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=1511s)
+- **RD 462 (2019-05-30)**, 7 · relator **Francisval Mendes** · Julgamento em bloco (itens 4 a 12): questionamentos sobre «alavancagem de tonelagem» — inclusão na frota de embarcações de apoio marítimo de baixo val → aprovado por unanimidade: SRG e SOG devem apresentar proposta de regulamentação do cálculo
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=1511s)
+- **RD 462 (2019-05-30)**, 8 · relator **Francisval Mendes** · Julgamento em bloco (itens 4 a 12): questionamentos sobre «alavancagem de tonelagem» — inclusão na frota de embarcações de apoio marítimo de baixo val → aprovado por unanimidade: SRG e SOG devem apresentar proposta de regulamentação do cálculo
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=1511s)
+- **RD 462 (2019-05-30)**, 9 · relator **Francisval Mendes** · Julgamento em bloco (itens 4 a 12): questionamentos sobre «alavancagem de tonelagem» — inclusão na frota de embarcações de apoio marítimo de baixo val → aprovado por unanimidade: SRG e SOG devem apresentar proposta de regulamentação do cálculo
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=1511s)
+- **RD 462 (2019-05-30)**, 10 · relator **Francisval Mendes** · Julgamento em bloco (itens 4 a 12): questionamentos sobre «alavancagem de tonelagem» — inclusão na frota de embarcações de apoio marítimo de baixo val → aprovado por unanimidade: SRG e SOG devem apresentar proposta de regulamentação do cálculo
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=1511s)
+- **RD 462 (2019-05-30)**, 11 · relator **Francisval Mendes** · Julgamento em bloco (itens 4 a 12): questionamentos sobre «alavancagem de tonelagem» — inclusão na frota de embarcações de apoio marítimo de baixo val → aprovado por unanimidade: SRG e SOG devem apresentar proposta de regulamentação do cálculo
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=1511s)
+- **RD 462 (2019-05-30)**, 12 · relator **Francisval Mendes** · Julgamento em bloco (itens 4 a 12): questionamentos sobre «alavancagem de tonelagem» — inclusão na frota de embarcações de apoio marítimo de baixo val → aprovado por unanimidade: SRG e SOG devem apresentar proposta de regulamentação do cálculo
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=1511s)
+- **RD 462 (2019-05-30)**, 20 · relator **Francisval Mendes** · Outorga de autorização como EBN por prazo indeterminado na navegação interior: transporte misto, navegação interior longitudinal interestadual, Macapá → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=7657s)
+- **RD 462 (2019-05-30)**, 21 · relator **Francisval Mendes** · Outorga de autorização como EBN por prazo indeterminado na navegação interior: transporte misto, Monte Alegre (PA)–Manaus (AM) (julgamento em bloco do → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=7657s)
+- **RD 462 (2019-05-30)**, 22 · relator **Francisval Mendes** · Outorga de autorização como EBN por prazo indeterminado na navegação interior: carga geral e granel sólido, rotas interestaduais da região hidrográfic → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=7657s)
+- **RD 462 (2019-05-30)**, 23 · relator **Francisval Mendes** · Renúncia de outorga de autorização → aprovado por unanimidade: autorização extinta, sem prejuízo de sanções
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=7820s)
+- **RD 462 (2019-05-30)**, 27 · relator **Francisval Mendes** · Revisão da Resolução 1.864/2010 (afretamento de embarcação na navegação interior por EBN): submissão a audiência pública por 30 dias → voto do relator proferido (aprovar minuta e audiência pública de 30 dias); vista de Adalbe
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=8403s)
+- **RD 462 (2019-05-30)**, 29 · relator **Adalberto Tokarski** · Renúncia de outorga de autorização como EBN (julgamento em bloco dos itens 29 a 31) → aprovado por unanimidade: outorgas extintas, sem prejuízo de sanções
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=8813s)
+- **RD 462 (2019-05-30)**, 30 · relator **Adalberto Tokarski** · Renúncia de outorga de autorização como EBN (julgamento em bloco dos itens 29 a 31) → aprovado por unanimidade: outorgas extintas, sem prejuízo de sanções
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=8813s)
+- **RD 462 (2019-05-30)**, 31 · relator **Adalberto Tokarski** · Renúncia de outorga de autorização como EBN (julgamento em bloco dos itens 29 a 31) → aprovado por unanimidade: outorgas extintas, sem prejuízo de sanções
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=8813s)
+- **RD 462 (2019-05-30)**, 32 · relator **Adalberto Tokarski** · Outorga de autorização como EBN, transporte misto na navegação interior interestadual Macapá (AP)–Portel (PA) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=8954s)
+- **RD 463 (2019-06-26)**, 1 · relator **Adalberto Tokarski** · Outorga de autorização para operar como EBN na navegação de cabotagem e longo curso (contêineres e carga geral), RN 5-ANTAQ; questão de ordem sobre a  → aprovado por unanimidade (após vista de Mário Povia)
+  - votos: Adalberto: relator; Mário: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=35s)
+- **RD 463 (2019-06-26)**, 2 · relator **Adalberto Tokarski** · Outorga de autorização para operar como EBN na cabotagem exclusivamente com embarcações abaixo de 5 mil TPB (lanchas); voto do relator proferido na RO → indeferido por maioria; prevaleceu o voto-vista de Mário Povia, vencido o relator Adalbert
+  - votos: Mário: revisor_diverge; Adalberto: vencido; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=260s)
+- **RD 463 (2019-06-26)**, 3 · relator **Adalberto Tokarski** · Registro de instalação portuária (instalação de apoio ao transporte de passageiros) da empresa pública estadual; vista de Francisval Mendes; julgado j → aprovado por maioria (2x1), vencido Mário Povia
+  - votos: Adalberto: relator; Francisval: revisor_acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=789s)
+- **RD 463 (2019-06-26)**, 4 · relator **Adalberto Tokarski** · Registro de instalação portuária de passageiros; julgado junto com o item 3 (vista de Francisval Mendes) → aprovado por maioria (2x1), vencido Mário Povia
+  - votos: Adalberto: relator; Francisval: revisor_acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=1171s)
+- **RD 463 (2019-06-26)**, 11 · relator **Adalberto Tokarski** · Recurso administrativo contra negativa da GAF de certificado de liberação de carga prescrita (CLCP) para embarque em navio estrangeiro; vista de Mário → recurso não provido por maioria; prevaleceu o voto-vista de Mário Povia, vencido o relator
+  - votos: Mário: revisor_diverge; Francisval: revisor_acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=1814s)
+- **RD 463 (2019-06-26)**, 13 · relator **Mário Povia** · Outorga de autorização para operar como EBN na navegação de apoio portuário → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=2064s)
+- **RD 463 (2019-06-26)**, 14 · relator **Mário Povia** · Outorga para transporte misto de passageiros e cargas na navegação interior longitudinal interestadual entre Afuá (PA) e Macapá (AP) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=2162s)
+- **RD 463 (2019-06-26)**, 15 · relator **Mário Povia** · Outorga de autorização para apoio marítimo exclusivamente com embarcações de até 2.000 HP → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=2226s)
+- **RD 463 (2019-06-26)**, 16 · relator **Mário Povia** · Renúncia à outorga de autorização (passageiros e cargas, navegação interior Belém–Manaus; Termo de Autorização 604) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=2288s)
+- **RD 463 (2019-06-26)**, 17 · relator **Mário Povia** · Renúncia à outorga de autorização (Termo de Autorização 1581) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=2381s)
+- **RD 463 (2019-06-26)**, 21 · relator **Francisval Mendes** · Outorga de autorização para operar como EBN no apoio marítimo (julgado em bloco com 22 e 23) → aprovado por unanimidade (bloco 21-23)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=3480s)
+- **RD 463 (2019-06-26)**, 22 · relator **Francisval Mendes** · Outorga de autorização para operar como EBN no apoio portuário, condicionada à atualização da certidão federal (julgado em bloco com 21 e 23) → aprovado por unanimidade (bloco 21-23)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=3480s)
+- **RD 463 (2019-06-26)**, 23 · relator **Francisval Mendes** · Outorga para transporte de passageiros e veículos na navegação interior (travessia/interestadual, legenda incerta) (julgado em bloco com 21 e 22) → aprovado por unanimidade (bloco 21-23)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=3480s)
+- **RD 463 (2019-06-26)**, 24 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (art. 2º, V, da RN 13); julgado em bloco com o item 25 → aprovado por unanimidade (bloco 24-25)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=3633s)
+- **RD 463 (2019-06-26)**, 25 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (art. 2º, V, da RN 13); julgado em bloco com o item 24 → aprovado por unanimidade (bloco 24-25)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=3633s)
+- **RD 463 (2019-06-26)**, 26 · relator **Francisval Mendes** · Autorização para construção e exploração de ETC (estação de transbordo de cargas) em Caracaraí (RR), granel líquido, área de cerca de 39,7 mil m² → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=3768s)
+- **RD 463 (2019-06-26)**, 35 · relator **Francisval Mendes** · Normatização de critérios para análise da adequação das embarcações para fins de outorga (instrução normativa) → aprovado por unanimidade (IN não aprovada)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=7053s)
+- **RD 463 (2019-06-26)**, 36 · relator **Francisval Mendes** · Medida cautelar administrativa para impedir bloqueio de embarcação estrangeira por outra estrangeira sem suspensão de bandeira (interpretação do art.  → não concluído: vista de Adalberto Tokarski após o voto do relator
+  - votos: Francisval: relator; Adalberto: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=7313s)
+- **RD 463 (2019-06-26)**, 39 · relator **Adalberto Tokarski** · Outorga de autorização para operar como empresa brasileira de navegação (julgado em bloco, itens 39 a 44) → aprovado por unanimidade (bloco 39-44)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=9588s)
+- **RD 463 (2019-06-26)**, 40 · relator **Adalberto Tokarski** · Outorga de autorização para operar como empresa brasileira de navegação (julgado em bloco, itens 39 a 44) → aprovado por unanimidade (bloco 39-44)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=9588s)
+- **RD 463 (2019-06-26)**, 41 · relator **Adalberto Tokarski** · Outorga de autorização para operar como empresa brasileira de navegação (julgado em bloco, itens 39 a 44) → aprovado por unanimidade (bloco 39-44)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=9588s)
+- **RD 463 (2019-06-26)**, 42 · relator **Adalberto Tokarski** · Outorga de autorização para operar como empresa brasileira de navegação (julgado em bloco, itens 39 a 44) → aprovado por unanimidade (bloco 39-44)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=9588s)
+- **RD 463 (2019-06-26)**, 43 · relator **Adalberto Tokarski** · Outorga de autorização para operar como empresa brasileira de navegação (julgado em bloco, itens 39 a 44) → aprovado por unanimidade (bloco 39-44)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=9588s)
+- **RD 463 (2019-06-26)**, 44 · relator **Adalberto Tokarski** · Outorga de autorização para operar como empresa brasileira de navegação (julgado em bloco, itens 39 a 44) → aprovado por unanimidade (bloco 39-44)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=9588s)
+- **RD 463 (2019-06-26)**, 45 · relator **Adalberto Tokarski** · Consulta externa sobre novo modelo de contratação de construção de embarcações no Brasil e efeitos para afretamento (arts. 9º, §3º, e 10, III, Lei 9.4 → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=9718s)
+- **RD 463 (2019-06-26)**, 46 · relator **Adalberto Tokarski** · Consulta sobre afretamento de embarcação estrangeira por tempo para cabotagem de cimento (regiões Norte e Nordeste) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=9876s)
+- **RD 463 (2019-06-26)**, 48 · relator **Adalberto Tokarski** · Processo administrativo sancionador: auto de infração 2822-3 lavrado pela unidade regional de Belém → aprovado por unanimidade, com acréscimo proposto por Mário Povia aceito pelo relator
+  - votos: Adalberto: relator; Francisval: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=10003s)
+- **RD 463 (2019-06-26)**, 51 · relator **Adalberto Tokarski** · Nova autorização em caráter especial (180 dias) para movimentação e armazenagem de granéis líquidos em instalação na gleba Porto Chuelo, Porto Velho ( → aprovado por maioria (2x1), vencido Mário Povia
+  - votos: Adalberto: relator; Francisval: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=10602s)
+- **RD 463 (2019-06-26)**, 53 · relator **Adalberto Tokarski** · Fiscalização ordinária (PAF 2014/2015): empresa sem embarcação que atenda à RN 5 (art. 2º, §2º, c/c art. 17) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=11008s)
+- **RD 463 (2019-06-26)**, 55 · relator **Mário Povia** · Referendo da Resolução 6658-ANTAQ, que indeferiu medida cautelar para suspender cobranças de sobre-estadia de contêineres (demurrage) dos associados d → referendado por unanimidade e arquivado
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=11469s)
+- **RD 464 (2019-06-28)**, 9 · relator **Mário Povia** · Convênio de delegação - Terminal (hidro)rodoviário de Belém → vista renovada; não deliberado
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=6327s)
+- **RD 464 (2019-06-28)**, 10 · relator **Francisval Mendes** · Outorga de autorização como EBN para transporte misto na navegação interior longitudinal interestadual (Macapá/AP - Portel/PA) → aprovado por unanimidade: extinção do processo por inutilidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=6341s)
+- **RD 464 (2019-06-28)**, 12 · relator **Francisval Mendes** · Medida cautelar administrativa (processo em vista) → vista renovada (Adalberto Tokarski); não deliberado
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=6500s)
+- **RD 464 (2019-06-28)**, 13 · relator **Mário Povia** · Registro de instalação de apoio ao transporte aquaviário em Macaé/RJ (movimentação de pessoal, reparo e manutenção de embarcações) → aprovado por unanimidade nos termos do voto condutor
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=6524s)
+- **RD 464 (2019-06-28)**, 18 · relator **Francisval Mendes** · Outorga de autorização como EBN para transporte de carga geral na navegação interior Manaus/AM - Belém/PA → aprovado por unanimidade nos termos do voto condutor
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=8666s)
+- **RD 464 (2019-06-28)**, 19 · relator **Francisval Mendes** · Portaria de delegação à SOG da competência para deliberar sobre renúncias de outorga de EBN → aprovado por maioria; vencido Mário Povia
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=8750s)
+- **RD 464 (2019-06-28)**, 23 · relator **Francisval Mendes** · Pedido de suspensão de bloqueio em circularizações (LC 05.04.2019 A e B) e alegada concentração na rota Brasil-Argentina → voto do relator proferido; processo vai à vista de Adalberto Tokarski
+  - votos: Francisval: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=9134s)
+- **RD 464 (2019-06-28)**, 31 · relator **Adalberto Tokarski** · Outorga de autorização como EBN para transporte misto na navegação interior Santana/AP - Belém/PA → aprovado por unanimidade nos termos do voto condutor
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=9784s)
+- **RD 464 (2019-06-28)**, 32 · relator **Adalberto Tokarski** · Renúncia de outorga de autorização de EBN - julgado em bloco (itens 32 a 35) → aprovado por unanimidade nos termos do voto condutor (bloco)
+  - votos: Adalberto: relator; Francisval: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=9872s)
+- **RD 464 (2019-06-28)**, 33 · relator **Adalberto Tokarski** · Renúncia de outorga de autorização de EBN - julgado em bloco (itens 32 a 35) → aprovado por unanimidade nos termos do voto condutor (bloco)
+  - votos: Adalberto: relator; Francisval: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=9872s)
+- **RD 464 (2019-06-28)**, 34 · relator **Adalberto Tokarski** · Renúncia de outorga de autorização de EBN - julgado em bloco (itens 32 a 35) → aprovado por unanimidade nos termos do voto condutor (bloco)
+  - votos: Adalberto: relator; Francisval: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=9872s)
+- **RD 464 (2019-06-28)**, 35 · relator **Adalberto Tokarski** · Renúncia de outorga de autorização de EBN - julgado em bloco (itens 32 a 35) → aprovado por unanimidade nos termos do voto condutor (bloco)
+  - votos: Adalberto: relator; Francisval: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=9872s)
+- **RD 465 (2019-08-22)**, 62 · relator **Francisval Mendes** · Procedimento extraordinário de fiscalização: cobrança da autoridade portuária pelo uso do espelho d'água pelo atracadouro flutuante do ferry boat Itaj → aprovado por unanimidade, com acréscimo proposto por Mário Povia
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=932s)
+- **RD 465 (2019-08-22)**, 76 · relator **Francisval Mendes** · Consulta sobre afretamento a casco nu para obter outorga de EBN e cessão de tonelagem; vista de Adalberto Tokarski → não concluído: vista de Adalberto Tokarski após o voto do relator
+  - votos: Francisval: relator; Adalberto: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=3552s)
+- **RD 465 (2019-08-22)**, 78 · relator **Francisval Mendes** · Consulta sobre registro de FSRU (unidade flutuante de regaseificação) e aplicação das normas de navegação → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=3895s)
+- **RD 465 (2019-08-22)**, 80 · relator **Francisval Mendes** · Indício de infração à ordem econômica (tabela de preços conjunta das cinco EBNs da travessia); item anunciado como 81 na sessão → arquivado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=4525s)
+- **RD 465 (2019-08-22)**, 82 · relator **Francisval Mendes** · Proposta de norma sobre afretamento de embarcação estrangeira por tempo em substituição a embarcação em docagem obrigatória programada na cabotagem; v → não concluído: vista de Adalberto Tokarski após o voto do relator
+  - votos: Francisval: relator; Adalberto: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=4966s)
+- **RD 465 (2019-08-22)**, 83 · relator **Francisval Mendes** · Proposta de norma sobre transporte aquaviário de cargas vivas (tema 4.4 da agenda regulatória 2018/2019) → proposta não acolhida, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=5093s)
+- **RD 465 (2019-08-22)**, 84 · relator **Francisval Mendes** · Regulamentação das obras de engenharia submarina na navegação de apoio marítimo (tema 2.3), alteração da RN 01/2015 → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=5191s)
+- **RD 465 (2019-08-22)**, 86 · relator **Francisval Mendes** · Critério temporal para exclusão de embarcações da frota autorizada de EBN em razão de docagem; vista de Adalberto Tokarski → não concluído: vista de Adalberto Tokarski após o voto do relator
+  - votos: Francisval: relator; Adalberto: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=5506s)
+- **RD 465 (2019-08-22)**, 87 · relator **Francisval Mendes** · Pedido de ajuste de terminologia da RN 01/2015 (afretamento de estrangeira) para distinguir hidrocarbonetos combustíveis de insumos petroquímicos → pleito indeferido por unanimidade, com ajuste de terminologia
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=5662s)
+- **RD 465 (2019-08-22)**, 90 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (RN 13/2016); julgado em bloco com 91-93; vista de Francisval Mendes → não concluído: vista de Francisval Mendes após o voto do relator
+  - votos: Adalberto: relator; Francisval: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=6274s)
+- **RD 465 (2019-08-22)**, 91 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (RN 13/2016); julgado em bloco com 90, 92 e 93 → aprovado por maioria (2x1), vencido Mário Povia (atribuição provável)
+  - votos: Adalberto: relator; Francisval: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=6274s)
+- **RD 465 (2019-08-22)**, 92 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (RN 13/2016); julgado em bloco com 90-93 → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=6274s)
+- **RD 465 (2019-08-22)**, 93 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (RN 13/2016); julgado em bloco com 90-93 → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=6274s)
+- **RD 465 (2019-08-22)**, 94 · relator **Adalberto Tokarski** · Nova autorização em caráter especial (180 dias) para estação flutuante de transbordo de granel sólido no rio Capim, Paragominas (PA) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=6464s)
+- **RD 465 (2019-08-22)**, 97 · relator **Adalberto Tokarski** · Processo administrativo sancionador: paralisação do serviço sem comunicação (auto de infração da unidade regional de Belém) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=7168s)
+- **RD 465 (2019-08-22)**, 101 · relator **Adalberto Tokarski** · Prorrogação do prazo para comprovar atendimento à legislação aduaneira (travessia; alfândega de Foz do Iguaçu), Termo de Autorização 1599 → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=8219s)
+- **RD 465 (2019-08-22)**, 102 · relator **Adalberto Tokarski** · Outorga de autorização para operar como empresa brasileira de navegação (julgado em bloco, itens 102 a 107, exceto 106) → aprovado por unanimidade (bloco 102-107, exceto 106)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=8502s)
+- **RD 465 (2019-08-22)**, 103 · relator **Adalberto Tokarski** · Outorga de autorização para operar como empresa brasileira de navegação (julgado em bloco, itens 102 a 107, exceto 106) → aprovado por unanimidade (bloco 102-107, exceto 106)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=8502s)
+- **RD 465 (2019-08-22)**, 104 · relator **Adalberto Tokarski** · Outorga de autorização para operar como empresa brasileira de navegação (julgado em bloco, itens 102 a 107, exceto 106) → aprovado por unanimidade (bloco 102-107, exceto 106)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=8502s)
+- **RD 465 (2019-08-22)**, 105 · relator **Adalberto Tokarski** · Outorga de autorização para operar como empresa brasileira de navegação (julgado em bloco, itens 102 a 107, exceto 106) → aprovado por unanimidade (bloco 102-107, exceto 106)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=8502s)
+- **RD 465 (2019-08-22)**, 107 · relator **Adalberto Tokarski** · Outorga de autorização para operar como empresa brasileira de navegação (julgado em bloco, itens 102 a 107, exceto 106) → aprovado por unanimidade (bloco 102-107, exceto 106)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=8502s)
+- **RD 465 (2019-08-22)**, 106 · relator **Adalberto Tokarski** · Outorga de autorização para operar como EBN; vista de Francisval Mendes → não concluído: vista de Francisval Mendes após o voto do relator
+  - votos: Adalberto: relator; Francisval: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=8502s)
+- **RD 465 (2019-08-22)**, 108 · relator **Adalberto Tokarski** · Ampliação da ETC em Porto Velho (RO) em 764,4 m² de área de acostagem (aditamento ao contrato de adesão 6/2014) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=8628s)
+- **RD 465 (2019-08-22)**, 109 · relator **Adalberto Tokarski** · Consulta sobre comprovação de operação comercial na cabotagem com carga própria (art. 4º, V, RN 1811 exige CT-e); vista de Francisval Mendes → não concluído: vista de Francisval Mendes após o voto do relator
+  - votos: Adalberto: relator; Francisval: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=8784s)
+- **RD 466 (2019-09-27)**, 55 · relator **Mário Povia** · Pedido de reconsideração contra o Acórdão 105/2017 (advertência por patrimônio líquido inferior ao exigido; possibilidade de TAC) → relator votou; processo vai à vista de Francisval Mendes (pedido de vista anterior)
+  - votos: Mário: relator; Francisval: vista; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=4s)
+- **RD 466 (2019-09-27)**, 56 · relator **Mário Povia** · Consulta sobre interpretação do art. 28 da Lei 12.815/2013: dispensa de operador portuário em operações com embarcações de navegação interior → relator votou; processo vai à vista de Francisval Mendes
+  - votos: Mário: relator; Francisval: vista; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=267s)
+- **RD 466 (2019-09-27)**, 58 · relator **Francisval Mendes** · Outorga de autorização para operar como EBN na navegação de apoio portuário com embarcações de até 2.000 HP (RN 5/2016) (julgado em bloco com o item 5 → aprovado nos termos do voto do relator (bloco 58-59)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=616s)
+- **RD 466 (2019-09-27)**, 59 · relator **Francisval Mendes** · Outorga de autorização para operar como EBN na travessia interestadual de passageiros no Rio São Francisco entre Penedo-AL e Neópolis-SE (julgado em b → aprovado nos termos do voto do relator (bloco 58-59)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=616s)
+- **RD 466 (2019-09-27)**, 71 · relator **Francisval Mendes** · Processo sancionador transitado em julgado (não envio de contrato de afretamento em 60 dias): revogação de sobrestamento → aprovado nos termos do voto do relator
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=2381s)
+- **RD 466 (2019-09-27)**, 97 · relator **Adalberto Tokarski** · Processo sancionador: omissão de documentos solicitados pela fiscalização (navegação interior longitudinal) → aprovado nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=8072s)
+- **RD 466 (2019-09-27)**, 102 · relator **Adalberto Tokarski** · Consulta sobre efeito do convênio de delegação do Porto de Manaus ao Amazonas sobre a travessia na diretriz da BR-319 → aprovado nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=8952s)
+- **RD 466 (2019-09-27)**, 105 · relator **Adalberto Tokarski** · Outorga de autorização para operar como EBN (julgamento em bloco dos itens 105 a 111) → aprovado nos termos do voto do relator (bloco 105-111)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=9704s)
+- **RD 466 (2019-09-27)**, 106 · relator **Adalberto Tokarski** · Outorga de autorização para operar como EBN (julgamento em bloco dos itens 105 a 111) → aprovado nos termos do voto do relator (bloco 105-111)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=9704s)
+- **RD 466 (2019-09-27)**, 107 · relator **Adalberto Tokarski** · Outorga de autorização para operar como EBN (julgamento em bloco dos itens 105 a 111) → aprovado nos termos do voto do relator (bloco 105-111)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=9704s)
+- **RD 466 (2019-09-27)**, 108 · relator **Adalberto Tokarski** · Outorga de autorização para operar como EBN (julgamento em bloco dos itens 105 a 111) → aprovado nos termos do voto do relator (bloco 105-111)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=9704s)
+- **RD 466 (2019-09-27)**, 109 · relator **Adalberto Tokarski** · Outorga de autorização para operar como EBN (julgamento em bloco dos itens 105 a 111) → aprovado nos termos do voto do relator (bloco 105-111)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=9704s)
+- **RD 466 (2019-09-27)**, 110 · relator **Adalberto Tokarski** · Outorga de autorização para operar como EBN (julgamento em bloco dos itens 105 a 111) → aprovado nos termos do voto do relator (bloco 105-111)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=9704s)
+- **RD 466 (2019-09-27)**, 111 · relator **Adalberto Tokarski** · Outorga de autorização para operar como EBN (julgamento em bloco dos itens 105 a 111) → aprovado nos termos do voto do relator (bloco 105-111)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=9704s)
+- **RD 466 (2019-09-27)**, 134 · relator **Francisval Mendes** · Referendo de autorização para operações ship-to-ship (leitura incerta) → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=11862s)
+- **RD 467 (2019-10-21)**, 8 · relator **Mário Povia** · Pedido de reconsideração → aprovado nos termos do voto do relator
+  - votos: Mário: relator; Francisval: revisor_acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=1672s)
+- **RD 467 (2019-10-21)**, 9 · relator **Francisval Mendes** · Processo sancionador (AI 3108-9): ETC em São Simão (hidrovia Tietê-Paraná) operando antes do contrato de adesão → aprovado nos termos do voto-vista: advertência em vez de multa
+  - votos: Francisval: relator; Adalberto: revisor_diverge; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=1695s)
+- **RD 467 (2019-10-21)**, 25 · relator **Mário Povia** · Registro de instalação portuária de apoio (rampa em Cachoeira do Piriá/PA, travessia para Centro Novo do Maranhão) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=4024s)
+- **RD 467 (2019-10-21)**, 30 · relator **Mário Povia** · Autorização em caráter especial de emergência para afretamento (RN 01/2015) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=4771s)
+- **RD 467 (2019-10-21)**, 32 · relator **Mário Povia** · Tema 2.4 da Agenda Regulatória 2018-2019: regulação do transporte de passageiros em navios de cruzeiro → aprovado por unanimidade nos termos do voto do relator
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=5414s)
+- **RD 467 (2019-10-21)**, 35 · relator **Francisval Mendes** · Outorga de autorização como EBN (passageiros na navegação interior / apoio portuário) - julgamento em bloco → aprovado por unanimidade nos termos do voto do relator (bloco)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=6408s)
+- **RD 467 (2019-10-21)**, 36 · relator **Francisval Mendes** · Outorga de autorização como EBN (passageiros na navegação interior / apoio portuário) - julgamento em bloco → aprovado por unanimidade nos termos do voto do relator (bloco)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=6408s)
+- **RD 467 (2019-10-21)**, 37 · relator **Francisval Mendes** · Outorga de autorização como EBN (passageiros na navegação interior / apoio portuário) - julgamento em bloco → aprovado por unanimidade nos termos do voto do relator (bloco)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=6408s)
+- **RD 467 (2019-10-21)**, 38 · relator **Francisval Mendes** · Outorga de autorização como EBN (passageiros na navegação interior / apoio portuário) - julgamento em bloco → aprovado por unanimidade nos termos do voto do relator (bloco)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=6408s)
+- **RD 467 (2019-10-21)**, 40 · relator **Francisval Mendes** · Registro de instalação de apoio em Cruzeiro do Sul/AC (combustível) autorizado ad referendum; empresa desistiu → aprovado por unanimidade nos termos do voto do relator
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=6607s)
+- **RD 467 (2019-10-21)**, 45 · relator **Francisval Mendes** · Criação de plataforma eletrônica de estímulo ao transporte marítimo (cabotagem) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=7759s)
+- **RD 467 (2019-10-21)**, 46 · relator **Francisval Mendes** · Proposta de norma de operações ship-to-ship de granéis de petróleo, gás e biocombustíveis → adiado (vista de Adalberto Tokarski)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=7902s)
+- **RD 467 (2019-10-21)**, 59 · relator **Adalberto Tokarski** · Outorga de autorização como EBN para travessia Carolina/MA - Filadélfia/TO (rio Tocantins) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=10710s)
+- **RD 467 (2019-10-21)**, 60 · relator **Adalberto Tokarski** · Atestado de tonelagem para pré-registro no REB de embarcação em construção (cabotagem e longo curso, acordo Brasil-Argentina) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=10801s)
+- **RD 467 (2019-10-21)**, 62 · relator **Adalberto Tokarski** · Revisão da RN 5/2016 (outorga de autorização para apoio marítimo, portuário, cabotagem e longo curso; patrimônio líquido) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=10981s)
+- **RD 467 (2019-10-21)**, 67 · relator **Francisval Mendes** · Referendo da Resolução 7290: prorrogação do prazo da Audiência Pública 7/2019 (revisão da RN 01/2015 - afretamento) → referendado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=12714s)
+- **RD 468 (2019-11-08)**, 2 · relator **Adalberto Tokarski** · Consulta regulatória — pedido de vista de Mário Povia → não deliberado: vista de Mário Povia mantida (processo em diligência com a interessada)
+  - votos: Mário: vista · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=421s)
+- **RD 468 (2019-11-08)**, 3 · relator **Mário Povia** · Minuta de convênio de delegação do Terminal Hidroviário de passageiros de Belém ao Estado do Pará — votos-vista → aprovado nos termos do voto-vista de Adalberto Tokarski (maioria); relator Povia aparentem
+  - votos: Mário: vencido; Adalberto: revisor_diverge; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=452s)
+- **RD 468 (2019-11-08)**, 4 · relator **Mário Povia** · Consulta sobre o art. 28 da Lei 12.815/2013: dispensa de operador portuário e trabalhadores avulsos (OGMO) nas operações com embarcações da navegação  → aprovado nos termos do voto-vista de Francisval Mendes
+  - votos: Mário: relator; Francisval: revisor_acompanha; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=1138s)
+- **RD 468 (2019-11-08)**, 13 · relator **Mário Povia** · Revisão da Resolução Normativa 18/2017 (direitos e deveres de usuários, agentes intermediários e empresas na navegação de apoio, cabotagem e longo cur → aprovado: preliminar de Tokarski rejeitada por maioria (Povia e Francisval); no mérito unâ
+  - votos: Mário: relator; Adalberto: vencido; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=1672s)
+- **RD 468 (2019-11-08)**, 19 · relator **Mário Povia** · Outorga de autorização como EBN para apoio marítimo e apoio portuário com embarcações de até 2.000 HP → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=3423s)
+- **RD 468 (2019-11-08)**, 20 · relator **Mário Povia** · Outorga de autorização como EBN de apoio portuário com embarcações de até 2.000 HP → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=3455s)
+- **RD 468 (2019-11-08)**, 21 · relator **Mário Povia** · Outorga de autorização como EBN para transporte de biocombustíveis, petróleo e derivados na navegação interior da região hidrográfica amazônica → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=3523s)
+- **RD 468 (2019-11-08)**, 22 · relator **Mário Povia** · Outorga de autorização como EBN para travessia interestadual de passageiros no rio Tocantins (Carolina-MA / Filadélfia-TO) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=3553s)
+- **RD 468 (2019-11-08)**, 26 · relator **Francisval Mendes** · Outorga de autorização: EBN de apoio portuário com embarcações de até 2.000 HP (itens 26-29 julgados em bloco) → aprovado por unanimidade (bloco)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=4119s)
+- **RD 468 (2019-11-08)**, 27 · relator **Francisval Mendes** · Outorga de autorização: EBN de travessia de passageiros em faixa de fronteira, região hidrográfica amazônica (itens 26-29 julgados em bloco) → aprovado por unanimidade (bloco)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=4119s)
+- **RD 468 (2019-11-08)**, 28 · relator **Francisval Mendes** · Outorga de autorização: EBN de travessia interestadual de passageiros, região hidrográfica do São Francisco (itens 26-29 julgados em bloco) → aprovado por unanimidade (bloco)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=4119s)
+- **RD 468 (2019-11-08)**, 29 · relator **Francisval Mendes** · Outorga de autorização: EBN de transporte misto longitudinal em faixa de fronteira, região amazônica (itens 26-29 julgados em bloco) → aprovado por unanimidade (bloco)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=4119s)
+- **RD 468 (2019-11-08)**, 36 · relator **Francisval Mendes** · Denúncia de cobrança abusiva de sobre-estadia de contêineres (demurrage) por agente intermediário de carga → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=5426s)
+- **RD 468 (2019-11-08)**, 38 · relator **Adalberto Tokarski** · Processo sancionador: deixar de construir as embarcações objeto de termos de autorização (RN 5/2016), após extinção das outorgas; perda de objeto do T → aprovado por maioria nos termos do relator (advertência); vencido Francisval Mendes
+  - votos: Adalberto: relator; Francisval: vencido; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=6611s)
+- **RD 468 (2019-11-08)**, 43 · relator **Adalberto Tokarski** · Consulta sobre afretamento de embarcação estrangeira em substituição a navio em construção em estaleiro brasileiro → aprovado por unanimidade (perda de objeto)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=7568s)
+- **RD 468 (2019-11-08)**, 46 · relator **Adalberto Tokarski** · Outorga de autorização como empresa brasileira de navegação (itens 46-49 julgados em bloco) → aprovado por unanimidade (bloco)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=7911s)
+- **RD 468 (2019-11-08)**, 47 · relator **Adalberto Tokarski** · Outorga de autorização como empresa brasileira de navegação (itens 46-49 julgados em bloco) → aprovado por unanimidade (bloco)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=7911s)
+- **RD 468 (2019-11-08)**, 48 · relator **Adalberto Tokarski** · Outorga de autorização como empresa brasileira de navegação (itens 46-49 julgados em bloco) → aprovado por unanimidade (bloco)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=7911s)
+- **RD 468 (2019-11-08)**, 49 · relator **Adalberto Tokarski** · Outorga de autorização como empresa brasileira de navegação (itens 46-49 julgados em bloco) → aprovado por unanimidade (bloco)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=7911s)
+- **RD 468 (2019-11-08)**, 58 · relator **Mário Povia** · Anuência prévia à transferência de controle societário de autorizatárias de TUP e requerentes (Porto Velho, Itaituba, Manaus) na reorganização do grup → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=8147s)
+- **RD 469 (2019-11-20)**, 1 · relator **Adalberto Tokarski** · Consulta administrativa regulatória/denúncia sobre cobrança, por agentes marítimos, pelo preenchimento da Declaração Única de Exportação (DU-E) → aprovado o voto-vista de Mário Povia (diverge em parte); relator vencido na parte que reco
+  - votos: Adalberto: vencido; Mário: revisor_diverge; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=W57uJxuLJM8&t=65s)
+- **RD 469 (2019-11-20)**, 13 · relator **Mário Povia** · Consulta sobre o art. 28 da Lei 12.815/2013: dispensa de operador portuário e de trabalhador avulso (OGMO) em operações de navegação interior no Porto → aprovado por unanimidade: arquivamento por perda de objeto
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=W57uJxuLJM8&t=1096s)
+- **RD 469 (2019-11-20)**, 16 · relator **Francisval Mendes** · Outorga de autorização como EBN para travessia interestadual de passageiros e veículos no rio Araguaia (Xambioá-TO / São Geraldo do Araguaia-PA) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=W57uJxuLJM8&t=2124s)
+- **RD 469 (2019-11-20)**, 17 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (Trapiche de Icoaraci, Belém-PA) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=W57uJxuLJM8&t=2210s)
+- **RD 469 (2019-11-20)**, 25 · relator **Adalberto Tokarski** · Processo sancionador (auto de infração por ocupação e exploração irregular de área no Porto Organizado de Manaus, balsa na Manaus Moderna) → aprovado por unanimidade: auto insubsistente e arquivamento
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=W57uJxuLJM8&t=3930s)
+- **RD 469 (2019-11-20)**, 26 · relator **Adalberto Tokarski** · Consulta sobre autorização como EBN de cabotagem para embarcação de publicidade em painéis de LED ao longo das praias → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=W57uJxuLJM8&t=4184s)
+- **RD 470 (2019-12-12)**, 3 · relator **Francisval Mendes** · Recurso voluntário contra multa de R$ 242 mil (Despacho de Julgamento 28/2017-SFC) por prestação de informação falsa (inciso 19 do art. 32 da Res. 2.9 → provido por maioria nos termos do voto-vista de Tokarski (auto de infração insubsistente);
+  - votos: Francisval: vencido; Adalberto: revisor_diverge; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=71s)
+- **RD 470 (2019-12-12)**, 5 · relator **Francisval Mendes** · Proposta de norma sobre operações ship-to-ship (transbordo) de petróleo, derivados, gás natural e biocombustíveis, com audiência pública de 45 dias → aprovado por unanimidade nos termos do voto condutor (submissão a audiência pública)
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=929s)
+- **RD 470 (2019-12-12)**, 10 · relator **Mário Povia** · Outorga de autorização de EBN para travessia (passageiros, veículos e cargas) na Lagoa dos Patos entre Rio Grande e São José do Norte/RS → aprovado por unanimidade nos termos do voto condutor
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=2298s)
+- **RD 470 (2019-12-12)**, 14 · relator **Francisval Mendes** · Outorga de autorização de EBN na navegação de apoio portuário (embarcações até 12 mil HP) → aprovado por unanimidade nos termos do voto condutor
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=5335s)
+- **RD 470 (2019-12-12)**, 24 · relator **Francisval Mendes** · Procedimento extraordinário de fiscalização: recusa de documentos à fiscalização; proposta de cassação da outorga → aprovado por unanimidade nos termos do voto condutor
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=6237s)
+- **RD 470 (2019-12-12)**, 28 · relator **Francisval Mendes** · Consulta sobre afretamento a casco nu de embarcação estrangeira em operação ship-to-ship → aprovado por unanimidade nos termos do voto condutor
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=7800s)
+- **RD 470 (2019-12-12)**, 31 · relator **Francisval Mendes** · Revisão da Resolução 912/2007 (outorga para transporte de passageiros e misto na navegação interior longitudinal interestadual, internacional e faixa  → aprovado por unanimidade nos termos do voto condutor
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=8657s)
+- **RD 470 (2019-12-12)**, 33 · relator **Adalberto Tokarski** · Outorga de autorização de EBN - julgado em bloco (itens 33 a 36) → aprovado por unanimidade nos termos do voto condutor (bloco)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=9222s)
+- **RD 470 (2019-12-12)**, 34 · relator **Adalberto Tokarski** · Outorga de autorização de EBN - julgado em bloco (itens 33 a 36) → aprovado por unanimidade nos termos do voto condutor (bloco)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=9222s)
+- **RD 470 (2019-12-12)**, 35 · relator **Adalberto Tokarski** · Outorga de autorização de EBN - julgado em bloco (itens 33 a 36) → aprovado por unanimidade nos termos do voto condutor (bloco)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=9222s)
+- **RD 470 (2019-12-12)**, 36 · relator **Adalberto Tokarski** · Outorga de autorização de EBN - julgado em bloco (itens 33 a 36) → aprovado por unanimidade nos termos do voto condutor (bloco)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=9222s)
+- **RD 471 (2019-12-20)**, 5 · relator **Mário Povia** · Outorga de autorização como EBN para travessia (passageiros, veículos e cargas) no rio Juruá entre Cruzeiro do Sul e Rodrigues Alves (AC), diretriz da → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=P_LIYIJGp8I&t=57s)
+- **RD 471 (2019-12-20)**, 8 · relator **Mário Povia** · Ampliação de terminal de uso privado (contrato de adesão 068/2015), área total ~928 mil m², granéis sólidos e líquidos; envio ao MInfra → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=P_LIYIJGp8I&t=339s)
+- **RD 471 (2019-12-20)**, 9 · relator **Mário Povia** · Agenda regulatória (itens 1.1 e 1.6): conceitos e indicadores de serviço adequado no transporte de passageiros na navegação interior (longitudinal e t → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=P_LIYIJGp8I&t=503s)
+- **RD 471 (2019-12-20)**, 22 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (IP4) na margem direita do rio Amazonas, Gurupá/PA → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P_LIYIJGp8I&t=2873s)
+- **RD 471 (2019-12-20)**, 23 · relator **Adalberto Tokarski** · Outorga de autorização como EBN para travessia no rio Juruá entre Cruzeiro do Sul e Rodrigues Alves (AC), diretriz da BR-364 → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P_LIYIJGp8I&t=2988s)
+- **RD 471 (2019-12-20)**, 24 · relator **Adalberto Tokarski** · Certificado de Livre Prática (Anvisa) para embarcações de cabotagem e longo curso: criação de campo «alocação da embarcação» no sistema corporativo da → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P_LIYIJGp8I&t=3079s)
+- **RD 473 (2020-02-10)**, 1 · relator **Francisval Mendes** · Dúvida/denúncia sobre o alcance do art. 30, III, da RN 18/ANTAQ: tutela regulatória da relação entre agentes marítimos e controladores de carga (cobra → aprovado o voto-vista do Diretor-Geral: autos restituídos à SRG para complementar a instru
+  - votos: Francisval: relator; Mário: revisor_acompanha; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=763s)
+- **RD 472 (2020-02-10)**, 12 · relator **Mário Povia** · Outorga de autorização de EBN para apoio portuário (até 2000 HP) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=2248s)
+- **RD 473 (2020-02-10)**, 12 · relator **Mário Povia** · Consulta regulatória sobre a remuneração do arrendamento 069/98 na movimentação de granéis sólidos ('outras cargas') e desconto de 50% para cabotagem → aprovado por unanimidade — consulta conhecida e respondida
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=3885s)
+- **RD 472 (2020-02-10)**, 22 · relator **Francisval Mendes** · Processo administrativo sancionador (AI 3805, UR Fortaleza; não envio de informações) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=5325s)
+- **RD 472 (2020-02-10)**, 27 · relator **Francisval Mendes** · Pedido de revisão da Res. 2239-ANTAQ (manifesto de cargas perigosas) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=6161s)
+- **RD 473 (2020-02-10)**, 17 · relator **Mário Povia** · Reclamações sobre taxas e sobretaxas na navegação marítima (taxa emergencial de bunker, taxa de logística de exportação, emissão de BL, overbooking, c → aprovado por unanimidade — minuta de resolução interpretativa aprovada sem consulta públic
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=6763s)
+- **RD 472 (2020-02-10)**, 33 · relator **Francisval Mendes** · Revisão da RN 35 - sistema de desempenho da navegação (apoio marítimo) → pedido de vista (Adalberto Tokarski)
+  - votos: Francisval: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=7956s)
+- **RD 472 (2020-02-10)**, 34 · relator **Francisval Mendes** · Denúncia de cobrança da taxa de logística de exportação (ELF) pela MSC → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=8081s)
+- **RD 472 (2020-02-10)**, 36 · relator **Adalberto Tokarski** · Outorga EBN apoio marítimo e portuário (até 2000 HP) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=8871s)
+- **RD 472 (2020-02-10)**, 37 · relator **Adalberto Tokarski** · Outorga EBN de passageiros na navegação interior (Terra Santa/PA - Parintins/AM) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=8997s)
+- **RD 473 (2020-02-10)**, 30 · relator **Francisval Mendes** · Outorga de autorização para travessia internacional de veículos na navegação interior → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=9150s)
+- **RD 473 (2020-02-10)**, 31 · relator **Adalberto Tokarski** · Outorga de autorização para operar como empresa brasileira de navegação (julgado em bloco com o item 32) → aprovado por unanimidade (julgamento em bloco dos itens 31 e 32)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=9288s)
+- **RD 473 (2020-02-10)**, 32 · relator **Adalberto Tokarski** · Outorga de autorização para operar como empresa brasileira de navegação (julgado em bloco com o item 31) → aprovado por unanimidade (julgamento em bloco dos itens 31 e 32)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=9288s)
+- **RD 472 (2020-02-10)**, 42 · relator **Francisval Mendes** · Referendo da Res. 7344 (afretamento emergencial de embarcações estrangeiras para rebocar FPSO Cidade do Rio de Janeiro) → referendado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=10380s)
+- **RD 473 (2020-02-10)**, 43 · relator **Francisval Mendes** · Referendo da Resolução 7.400 — afretamento emergencial de embarcação estrangeira para cabotagem durante docagem do navio Aliança Leblon → referendado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=11297s)
+- **RD 473 (2020-02-10)**, extrapauta · relator **Francisval Mendes** · Prorrogação do prazo da Audiência Pública 19/2019 (norma de outorga para transporte de passageiros e misto na navegação interior) até 13/03/2020 e aud → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=12320s)
+- **RD 474 (2020-03-06)**, 2 · relator **Mário Povia** · Revisão da cobrança de rubricas tarifárias para navios de cruzeiro nos berços públicos (Estação Marítima de Passageiros) e pedido de suspensão cautela → aprovada a divergência de Francisval Mendes (com voto-vista de Tokarski); relator Mário Po
+  - votos: Mário: vencido; Francisval: outro; Adalberto: revisor_diverge; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=154s)
+- **RD 474 (2020-03-06)**, 6 · relator **Francisval Mendes** · Recurso/pedidos de reconsideração contra a Resolução 6.573/2018, que indeferiu registro de instalação flutuante sem ligação em terra → aprovado o voto-vista divergente de Tokarski — registro deferido (art. 2º, I, RN 13/2016);
+  - votos: Francisval: vencido; Adalberto: revisor_diverge; Gabriela: revisor_diverge · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=714s)
+- **RD 474 (2020-03-06)**, 10 · relator **Francisval Mendes** · Pedido de retratação da ANTAQ pelo uso da expressão 'empresa de papel' → aprovado por unanimidade — processo extinto por perda de objeto
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=2259s)
+- **RD 474 (2020-03-06)**, 11 · relator **Francisval Mendes** · Denúncia: armadores exigem dos importadores o manifesto de produtos perigosos em português → aprovado por unanimidade — medida cautelar deferida e fiscalização determinada
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=2402s)
+- **RD 474 (2020-03-06)**, 19 · relator **Francisval Mendes** · Processo sancionador por manobras arriscadas no transporte de passageiros e cargas (art. 20, XXXII, da Res. 912), julgado em bloco com o item 20 → aprovado (julgamento em bloco dos itens 19 e 20) — autos subsistentes e multas pela planil
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=4270s)
+- **RD 474 (2020-03-06)**, 20 · relator **Francisval Mendes** · Processo sancionador por manobras arriscadas no transporte de passageiros e cargas (art. 20, XXXII, da Res. 912), julgado em bloco com o item 19 → aprovado (julgamento em bloco dos itens 19 e 20) — autos subsistentes e multas pela planil
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=4270s)
+- **RD 474 (2020-03-06)**, 21 · relator **Francisval Mendes** · Processo sancionador (auto de infração da Gerência de Fiscalização da Navegação; arts. 23, XIX, XX e XXIII, da Res. 1.274) → aprovado — fato 1 nulo, fatos 2 a 4 subsistentes, multa de cerca de R$ 2,6 mil; cassação s
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=4551s)
+- **RD 474 (2020-03-06)**, 30 · relator **Adalberto Tokarski** · Outorga de autorização como EBN de apoio portuário (embarcações até 2.000 HP) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=7793s)
+- **RD 474 (2020-03-06)**, 38 · relator **Gabriela Costa** · Outorga de autorização como EBN de apoio portuário (embarcações até 2.000 HP) → aprovado por unanimidade
+  - votos: Gabriela: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=9091s)
+- **RD 474 (2020-03-06)**, 40 · relator **Francisval Mendes** · Referendo das Resoluções 7.572 e 7.575 — afretamento por tempo de embarcação estrangeira similar ao porta-contêiner Monte Sarmiento por 50 dias (docag → referendado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=9603s)
+- **RD 474 (2020-03-06)**, 41 · relator **Francisval Mendes** · Referendo da Resolução 7.587 — indeferimento de efeito suspensivo ao pedido de reconsideração contra a Resolução 7.518 (taxa considerada irregular pel → referendado por unanimidade — efeito suspensivo negado; SRG analisa o mérito
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=9884s)
+- **RD 474 (2020-03-06)**, 43 · relator **Francisval Mendes** · Referendo da Resolução 7.581 — prorrogação até 29/02/2020 do prazo da Audiência Pública 1/2020 (norma de operações ship-to-ship de petróleo, derivados → referendado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=10958s)
+- **RD 474 (2020-03-06)**, 45 · relator **Adalberto Tokarski** · Referendo da Resolução 7.589 — prorrogação por 60 dias do início do envio de dados ao Sistema de Desempenho da Navegação (RN 35/2019), módulo apoio po → referendado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=11285s)
+- **RD 474 (2020-03-06)**, 46 · relator **Adalberto Tokarski** · Referendo da Resolução 7.580 — autorização especial/emergencial por 60 dias para movimentar granel sólido em instalação em Porto Murtinho (MS) → referendado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=11428s)
+- **RD 477 (2020-05-10)**, 4 · relator **Francisval Mendes** · Outorga de autorização para operar como EBN na navegação de cabotagem → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=2308s)
+- **RD 477 (2020-05-10)**, 5 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (RN 13) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=2383s)
+- **RD 477 (2020-05-10)**, 7 · relator **Francisval Mendes** · Reajuste de preços da travessia Itapiranga/SC – Barra do Guarita/RS → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=2850s)
+- **RD 477 (2020-05-10)**, 9 · relator **Francisval Mendes** · Recurso contra negativa de certificado de liberação de carga prescrita (CLCP) pela gerência de afretamento → aprovado
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=3216s)
+- **RD 477 (2020-05-10)**, 11 · relator **Francisval Mendes** · Recurso contra negativa de registro de embarcações na frota da EBN → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=3569s)
+- **RD 477 (2020-05-10)**, 16 · relator **Francisval Mendes** · Resolução normativa do serviço privado de transporte de travessia (cliente único ou cadeia verticalizada) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=4699s)
+- **RD 477 (2020-05-10)**, 21 · relator **Adalberto Tokarski** · Recurso contra multa por exploração de instalação sem registro (RN 13) → aprovado
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=6326s)
+- **RD 477 (2020-05-10)**, 27 · relator **Gabriela Costa** · Outorga de autorização como EBN na navegação de apoio marítimo (embarcações até 2.000 HP) → aprovado por unanimidade
+  - votos: Gabriela: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=8092s)
+- **RD 477 (2020-05-10)**, 31 · relator **Gabriela Costa** · Consulta sobre cargas de derivados de petróleo excluídas do acordo bilateral Brasil–Argentina (art. 12) → aprovado por unanimidade
+  - votos: Gabriela: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=9241s)
+- **RD 479 (2020-06-09)**, 1 · relator **Adalberto Tokarski** · Consulta sobre interpretação dos arts. 2º, VI, e 5º, I e IV, da RN 1/2015 (afretamento): contrato de mandato para administrar execução financeira do a → aprovado nos termos do voto-vista de Francisval Mendes (acompanha o relator com acréscimos
+  - votos: Adalberto: relator; Francisval: revisor_acompanha; Gabriela: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=73s)
+- **RD 479 (2020-06-09)**, 5 · relator **Adalberto Tokarski** · Outorga de autorização como EBN de apoio portuário (até 2.000 HP) a cooperativa; convalidação/anulação do termo 1.214 da cooperativa do rio Trombetas → aprovado por maioria nos termos do voto-vista de Gabriela Costa (indeferimento e anulação 
+  - votos: Adalberto: vencido; Francisval: revisor_acompanha; Gabriela: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=776s)
+- **RD 479 (2020-06-09)**, 7 · relator **Adalberto Tokarski** · EVTEA do pedido de prorrogação do contrato de arrendamento CDP/APPV 96/001 (Porto Velho) → aprovado (legenda: 'nos termos do voto condutor'); não fica claro se prevaleceu o voto do 
+  - votos: Adalberto: relator; Gabriela: revisor_diverge; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=2156s)
+- **RD 479 (2020-06-09)**, 10 · relator **Francisval Mendes** · Outorga como EBN de apoio portuário (julgado em bloco com o item 11) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=3301s)
+- **RD 479 (2020-06-09)**, 11 · relator **Francisval Mendes** · Outorga como EBN de passageiros na travessia internacional da região hidrográfica do Uruguai (julgado em bloco com o item 10) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=3301s)
+- **RD 479 (2020-06-09)**, 12 · relator **Francisval Mendes** · Prorrogação do prazo para início de operação na navegação de apoio marítimo → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=3432s)
+- **RD 479 (2020-06-09)**, 13 · relator **Francisval Mendes** · Pedido de flexibilização em contratos de transporte marítimo (assunto parcialmente ilegível) → pedido de vista (Adalberto Tokarski); relator não leu o voto
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=3527s)
+- **RD 479 (2020-06-09)**, 25 · relator **Adalberto Tokarski** · Pedido de revogação do § 3º do art. 2º da RN 13 e de aplicação das regras de afretamento a FSRU → aprovado por unanimidade: indeferido
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=4967s)
+- **RD 479 (2020-06-09)**, 30 · relator **Adalberto Tokarski** · Outorga de autorização como EBN (julgados em bloco itens 30 a 34) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=7036s)
+- **RD 479 (2020-06-09)**, 31 · relator **Adalberto Tokarski** · Outorga de autorização como EBN (julgados em bloco itens 30 a 34) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=7036s)
+- **RD 479 (2020-06-09)**, 32 · relator **Adalberto Tokarski** · Outorga de autorização como EBN (julgados em bloco itens 30 a 34) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=7036s)
+- **RD 479 (2020-06-09)**, 33 · relator **Adalberto Tokarski** · Outorga de autorização como EBN (julgados em bloco itens 30 a 34) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=7036s)
+- **RD 479 (2020-06-09)**, 34 · relator **Adalberto Tokarski** · Outorga de autorização como EBN (julgados em bloco itens 30 a 34) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=7036s)
+- **RD 479 (2020-06-09)**, 35 · relator **Adalberto Tokarski** · Dilação de prazo para recompor frota (embarcação de apoio marítimo em substituição a outra alienada) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=7196s)
+- **RD 479 (2020-06-09)**, 37 · relator **Adalberto Tokarski** · Autorização em caráter especial/emergencial para embarque de bovinos no antigo porto de Ladário (rio Paraguai) → aprovado por unanimidade: indeferido
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=7453s)
+- **RD 479 (2020-06-09)**, 38 · relator **Adalberto Tokarski** · Recurso contra multa de R$ 169 mil (art. 23, IV, Res. 2.920); pedido de sobrestamento até consulta sobre documentos que comprovam afretamento (RN 18) → pedido de vista (Gabriela Costa) após voto do relator
+  - votos: Adalberto: relator; Gabriela: vista · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=7807s)
+- **RD 479 (2020-06-09)**, 42 · relator **Gabriela Costa** · Outorga como EBN de apoio marítimo → aprovado por unanimidade
+  - votos: Gabriela: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=9451s)
+- **RD 479 (2020-06-09)**, 44 · relator **Gabriela Costa** · Questionamentos tratados como consulta regulatória: tratamento distinto a duas EBN (Posidonia e outra) e comunicação de alteração de frota → aprovado por unanimidade
+  - votos: Gabriela: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=9793s)
+- **RD 479 (2020-06-09)**, 45 · relator **Gabriela Costa** · Revisão da Súmula Administrativa 1/2004: retirar da competência da ANTAQ a navegação em faixa de fronteira (travessia Rio Grande – São José do Norte) → voto da relatora proferido; processo vai à vista de Adalberto Tokarski
+  - votos: Gabriela: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=10198s)
+- **RD 479 (2020-06-09)**, 50 · relator **Adalberto Tokarski** · Referendo da Res. 7.739 (30/04/2020): prorrogação por 120 dias do envio de dados ao Sistema de Desempenho da Navegação, módulo apoio portuário (RN 35) → aprovado por unanimidade (referendado)
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=12063s)
+- **RD 481 (2020-07-04)**, 2 · relator **Francisval Mendes** · Pedido de flexibilização/suspensão por 12 meses das cláusulas take or pay (volumes mínimos) em contratos de transporte marítimo e operações portuárias → aprovado nos termos do voto-vista de Adalberto Tokarski (extinção sem resolução de mérito)
+  - votos: Francisval: revisor_acompanha; Adalberto: revisor_diverge; Gabriela: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=184s)
+- **RD 481 (2020-07-04)**, 3 · relator **Francisval Mendes** · Proposta de norma sobre transporte de produtos perigosos na navegação interior; vista de Adalberto Tokarski renovada → vista renovada (Adalberto Tokarski)
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=750s)
+- **RD 481 (2020-07-04)**, 4 · relator **Francisval Mendes** · Outorga de autorização para operar como EBN na navegação de apoio portuário com embarcações de até 2.000 HP (RN 5) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=811s)
+- **RD 481 (2020-07-04)**, 5 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (RN 13, art. 2º, V) com movimentação de passageiros, ainda não adequada ao art. 4º da RN 13 → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=908s)
+- **RD 481 (2020-07-04)**, 11 · relator **Francisval Mendes** · Regulamentação das atividades de obras de engenharia offshore (lançadoras de dutos etc.) na navegação de apoio marítimo → aprovado por unanimidade (status quo regulatório e estudos de mercado)
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=2071s)
+- **RD 481 (2020-07-04)**, 12 · relator **Francisval Mendes** · Norma que altera a RN 1/2015 para permitir afretamento por tempo de embarcação estrangeira em substituição a embarcação em docagem na cabotagem (até 9 → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=2762s)
+- **RD 481 (2020-07-04)**, 14 · relator **Adalberto Tokarski** · Processo sancionador por não manter boa situação econômico-financeira (art. 8º da Res. 1.558), com proposta de cassação; única EBN autorizada no trans → aprovado (prazo de 90 dias para plano de ação); Gabriela Costa impedida
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=3453s)
+- **RD 481 (2020-07-04)**, 15 · relator **Adalberto Tokarski** · Processo sancionador (AI 3687): não apresentação de documentos ao fiscal (fato 1) e não manter embarcação em operação comercial (fatos 2 e 3) → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=3931s)
+- **RD 481 (2020-07-04)**, 17 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário para passageiros, com condicionantes da unidade regional de Corumbá → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=4565s)
+- **RD 481 (2020-07-04)**, 18 · relator **Adalberto Tokarski** · Documentos aceitos em substituição ao contrato de afretamento (art. 34, §7º, RN 18/2017) no sistema SAMA; relator leu o voto, vista de Gabriela Costa → pedido de vista (Gabriela Costa) após leitura do voto do relator
+  - votos: Adalberto: relator; Gabriela: vista · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=4891s)
+- **RD 481 (2020-07-04)**, 20 · relator **Adalberto Tokarski** · Outorga de autorização como EBN nas navegações de apoio marítimo e apoio portuário (RN 5) → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=5701s)
+- **RD 481 (2020-07-04)**, 21 (bloco 21, 22, 23) · relator **Gabriela Costa** · Outorga de autorização: EBN na navegação de apoio portuário com embarcações de até 2.000 HP (votos lidos em conjunto) → aprovado por unanimidade (em bloco)
+  - votos: Gabriela: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=5852s)
+- **RD 481 (2020-07-04)**, 22 (bloco 21, 22, 23) · relator **Gabriela Costa** · Outorga de autorização: EBN na navegação de apoio portuário com embarcações de até 2.000 HP (votos lidos em conjunto) → aprovado por unanimidade (em bloco)
+  - votos: Gabriela: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=5852s)
+- **RD 481 (2020-07-04)**, 23 (bloco 21, 22, 23) · relator **Gabriela Costa** · Outorga de autorização: EBN na navegação interior de percurso longitudinal interestadual na região hidrográfica amazônica (votos lidos em conjunto) → aprovado por unanimidade (em bloco)
+  - votos: Gabriela: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=5852s)
+- **RD 483 (2020-08-10)**, 3 · relator **Adalberto Tokarski** · Referendo da Res. 7.574-ANTAQ: medida cautelar que suspendeu novo procedimento de cobrança de sobre-estadia de contêiner antes da devolução dos equipa → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=429s)
+- **RD 483 (2020-08-10)**, 7 · relator **Adalberto Tokarski** · Subsídios à fiscalização: documentos aceitos em substituição ao contrato de afretamento (interpretação do art. 34, VII, da RN 18) → aprovado nos termos do voto-vista (dispositivo): baixar em diligência à SRG
+  - votos: Adalberto: revisor_acompanha; Gabriela: revisor_acompanha; Francisval: revisor_diverge · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=1422s)
+- **RD 483 (2020-08-10)**, 8 · relator **Adalberto Tokarski** · Meios de prova do contrato de afretamento: pedido de suspensão dos processos de fiscalização e multas com base no art. 34, VII, da RN 18 → aprovado nos termos do voto-vista
+  - votos: Francisval: revisor_acompanha; Gabriela: revisor_acompanha; Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=1851s)
+- **RD 483 (2020-08-10)**, 9 · relator **Francisval Mendes** · Medida cautelar para que transportadores marítimos se abstenham de cobrar/inserir a THC (terminal handling charge) no conhecimento de embarque e compr → aprovado por maioria (Tokarski vencido)
+  - votos: Francisval: relator; Adalberto: revisor_diverge; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=2058s)
+- **RD 483 (2020-08-10)**, 11 · relator **Gabriela Costa** · Proposta da Ouvidoria de suprimir a exigência de regularidade fiscal nas outorgas de EBN e de TUP (desburocratização) → pedido de vista renovado (Tokarski), após leitura do voto da relatora
+  - votos: Gabriela: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=3106s)
+- **RD 483 (2020-08-10)**, 28 · relator **Francisval Mendes** · Pedido de reconsideração da Res. 7.512 (indeferiu cautelar para armadores enviarem manifestos de carga perigosa como recebidos dos importadores, sem t → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=4688s)
+- **RD 483 (2020-08-10)**, 20 · relator **Francisval Mendes** · Outorga de autorização como EBN para granel líquido na navegação interior longitudinal interestadual (Amazônia) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=5907s)
+- **RD 483 (2020-08-10)**, 24 · relator **Francisval Mendes** · Pedido de reconsideração contra multa (cerca de R$ 30,6 mil) da SFC por infração ao art. 12, VII, da RN 3 → aprovado (Gabriela Costa impedida)
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=7181s)
+- **RD 483 (2020-08-10)**, 27 · relator **Francisval Mendes** · Pedido de reconsideração contra a Res. 7.518 (declarou irregular a cobrança da taxa de logística de exportação, ELF, e determinou sua cessação) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=7897s)
+- **RD 483 (2020-08-10)**, 34 · relator **Adalberto Tokarski** · Outorga de autorização como EBN para biocombustíveis, petróleo e derivados na navegação interior (região amazônica) → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=14995s)
+- **RD 483 (2020-08-10)**, 46 · relator **Adalberto Tokarski** · Plano de trabalho do tema 1.2: serviço de informação ao passageiro. Lidos e votados em bloco os itens 44 a 48 (planos de trabalho da agenda regulatóri → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=16058s)
+- **RD 483 (2020-08-10)**, 47 · relator **Adalberto Tokarski** · Plano de trabalho do tema 1.1: simplificação do estoque regulatório da navegação interior, com dispensa da etapa preliminar de AIR. Lidos e votados em → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=16058s)
+- **RD 483 (2020-08-10)**, 48 · relator **Adalberto Tokarski** · Plano de trabalho do eixo 2.1: acordos operacionais entre EBN na cabotagem, com foco em impactos concorrenciais. Lidos e votados em bloco os itens 44  → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=16058s)
+- **RD 483 (2020-08-10)**, 49 · relator **Adalberto Tokarski** · Atestado de tonelagem para afretamento a casco nu, com suspensão de bandeira e inscrição no REB, do graneleiro MV «Rais» (bandeira Panamá, 31.802 TPB) → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=16392s)
+- **RD 483 (2020-08-10)**, 51 · relator **Gabriela Costa** · Outorga de autorização como EBN para granel líquido (biocombustíveis, petróleo e derivados) na navegação interior longitudinal interestadual (Amazônia → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=16854s)
+- **RD 483 (2020-08-10)**, 52 · relator **Gabriela Costa** · Nova autorização em caráter especial (180 dias) para movimentação de granel sólido em instalação privada enquanto o MInfra conclui a outorga do TUP → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=16963s)
+- **RD 483 (2020-08-10)**, 68 (extrapauta) · relator **Gabriela Costa** · Autorização especial (180 dias) como EBN para travessia interestadual no rio Araguaia entre Montes Claros de Goiás/GO e Araguaiana/MT → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=20247s)
+- **RD 485 (2020-08-27)**, 11 · relator **None** · Proposta de norma que regulamenta o transporte de produtos perigosos na navegação interior → pedido de vista de Adalberto Tokarski prorrogado (art. 29 §1º da Res. 7701)
+  - votos: Adalberto: vista; Joelson: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=4172s)
+- **RD 485 (2020-08-27)**, 19 · relator **Francisval Mendes** · Consulta sobre outorga de EBN de fomento para locação de embarcações a EBNs/donos de carga sem operação própria → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=8267s)
+- **RD 485 (2020-08-27)**, 20 · relator **Francisval Mendes** · Certificado de liberação de carga prescrita (CLCP) estendido para importação de GNL em embarcação estrangeira → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=8640s)
+- **RD 485 (2020-08-27)**, 26 · relator **Adalberto Tokarski** · Outorga de autorização para operar como Empresa Brasileira de Navegação (julgamento em bloco dos itens 26 a 33) → aprovado por unanimidade (bloco 26–33)
+  - votos: Adalberto: relator; Francisval: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=9763s)
+- **RD 485 (2020-08-27)**, 27 · relator **Adalberto Tokarski** · Outorga de autorização para operar como Empresa Brasileira de Navegação (julgamento em bloco dos itens 26 a 33) → aprovado por unanimidade (bloco 26–33)
+  - votos: Adalberto: relator; Francisval: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=9763s)
+- **RD 485 (2020-08-27)**, 28 · relator **Adalberto Tokarski** · Outorga de autorização para operar como Empresa Brasileira de Navegação (julgamento em bloco dos itens 26 a 33) → aprovado por unanimidade (bloco 26–33)
+  - votos: Adalberto: relator; Francisval: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=9763s)
+- **RD 485 (2020-08-27)**, 29 · relator **Adalberto Tokarski** · Outorga de autorização para operar como Empresa Brasileira de Navegação (julgamento em bloco dos itens 26 a 33) → aprovado por unanimidade (bloco 26–33)
+  - votos: Adalberto: relator; Francisval: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=9763s)
+- **RD 485 (2020-08-27)**, 30 · relator **Adalberto Tokarski** · Outorga de autorização para operar como Empresa Brasileira de Navegação (julgamento em bloco dos itens 26 a 33) → aprovado por unanimidade (bloco 26–33)
+  - votos: Adalberto: relator; Francisval: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=9763s)
+- **RD 485 (2020-08-27)**, 31 · relator **Adalberto Tokarski** · Outorga de autorização para operar como Empresa Brasileira de Navegação (julgamento em bloco dos itens 26 a 33) → aprovado por unanimidade (bloco 26–33)
+  - votos: Adalberto: relator; Francisval: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=9763s)
+- **RD 485 (2020-08-27)**, 32 · relator **Adalberto Tokarski** · Outorga de autorização para operar como Empresa Brasileira de Navegação (julgamento em bloco dos itens 26 a 33) → aprovado por unanimidade (bloco 26–33)
+  - votos: Adalberto: relator; Francisval: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=9763s)
+- **RD 485 (2020-08-27)**, 33 · relator **Adalberto Tokarski** · Outorga de autorização para operar como Empresa Brasileira de Navegação (julgamento em bloco dos itens 26 a 33) → aprovado por unanimidade (bloco 26–33)
+  - votos: Adalberto: relator; Francisval: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=9763s)
+- **RD 485 (2020-08-27)**, 35 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (RN 13/2016) — julgamento conjunto dos itens 35 e 36 → aprovado por unanimidade (bloco 35–36)
+  - votos: Adalberto: relator; Francisval: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=10330s)
+- **RD 485 (2020-08-27)**, 36 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (RN 13/2016) — julgamento conjunto dos itens 35 e 36 → aprovado por unanimidade (bloco 35–36)
+  - votos: Adalberto: relator; Francisval: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=10330s)
+- **RD 485 (2020-08-27)**, 38 · relator **Adalberto Tokarski** · Consulta sobre embarcação de apoio marítimo de bandeira brasileira afretada a casco nu operando no exterior e uso de tonelagem para afretamento de emb → aprovado por unanimidade
+  - votos: Adalberto: relator; Joelson: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=10475s)
+- **RD 487 (2020-09-30)**, 1 · relator **Francisval Mendes** · Referendo da Resolução ad referendum (n. grafado 8026) sobre registro de instalação de apoio ao transporte aquaviário (art. 2º, V, RN 13/2016) do Muni → referendado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=52s)
+- **RD 487 (2020-09-30)**, 3 · relator **Adalberto Tokarski** · Resolução de conflito sobre pontos de atracação na travessia interestadual do rio Araguaia; pedido de reunião de processos e de cassação de autorizaçã → não concluído: após voto-vista de Francisval Mendes, Joelson Miranda pediu vista
+  - votos: Adalberto: relator; Francisval: revisor_acompanha; Joelson: vista · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=767s)
+- **RD 487 (2020-09-30)**, 7 · relator **Francisval Mendes** · Proposta de norma sobre transporte de produtos perigosos na navegação interior → não deliberado: suspenso por vista de Adalberto Tokarski, que diligenciou o processo
+  - votos: Francisval: relator; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=1471s)
+- **RD 487 (2020-09-30)**, 15 · relator **Francisval Mendes** · Análise das contribuições da Audiência Pública 12/2020 sobre arrendamento PEL01 (carga geral, especialmente toras de madeira) no porto de Pelotas → aprovado por unanimidade
+  - votos: Francisval: relator; Joelson: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=4484s)
+- **RD 487 (2020-09-30)**, 17 · relator **Francisval Mendes** · Remanejamento do porto de balsas da BR-153 (ponte rodoviária) entre Xambioá e São Geraldo do Araguaia → não concluído: pedido de vista de Joelson Miranda (conexo ao item 3)
+  - votos: Francisval: relator; Joelson: vista · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=5120s)
+- **RD 487 (2020-09-30)**, 19 · relator **Adalberto Tokarski** · Pedido de revisão administrativa: prazo para apresentar o Certificado de Registro de Armador (CRA) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=6203s)
+- **RD 487 (2020-09-30)**, 21 · relator **Adalberto Tokarski** · Outorga de autorização para ETC (estação de transbordo de carga) em Jaguarão (RS), 63 mil m², chamamento 19/2018 → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=6461s)
+- **RD 487 (2020-09-30)**, 22 · relator **Adalberto Tokarski** · Processo sancionador: auto de infração 3665-0 por não entregar documentos solicitados pela fiscalização (art. 23, XXI, Res. 1274) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=6598s)
+- **RD 487 (2020-09-30)**, 26 · relator **Adalberto Tokarski** · Prorrogação do prazo para envio de informações ao sistema de desempenho da navegação, módulo apoio portuário (RN 35) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=7321s)
+- **RD 487 (2020-09-30)**, 27 · relator **Joelson Miranda** · Outorga de autorização de EBN para navegação de apoio marítimo (RN 5) → aprovado por unanimidade
+  - votos: Joelson: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=7509s)
+- **RD 487 (2020-09-30)**, 28 · relator **Joelson Miranda** · Outorga de autorização de EBN para transporte de carga geral na navegação interior longitudinal interestadual (região hidrográfica amazônica) → aprovado por unanimidade
+  - votos: Joelson: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=7791s)
+- **RD 490 (2020-12-08)**, 3 · relator **Adalberto Tokarski** · Referendo da Deliberação DG 6/2020 que indeferiu medida cautelar para liberação de carga de betume asfáltico em big bags (TUP em Santa Catarina) → aprovado (referendado o indeferimento) por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=918s)
+- **RD 490 (2020-12-08)**, 4 · relator **None** · Recurso em procedimento de fiscalização na navegação marítima e de apoio → pedido de vista (Francisval Mendes)
+  - votos: Francisval: vista · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=1086s)
+- **RD 490 (2020-12-08)**, 7 · relator **Adalberto Tokarski** · Processo da Centronave (objeto não detalhado na legenda); vista de Francisval Mendes → vista renovada (Francisval Mendes)
+  - votos: Francisval: outro · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=1825s)
+- **RD 490 (2020-12-08)**, 9 · relator **Adalberto Tokarski** · Revisão da RN 5-ANTAQ (outorga de autorização para navegação de apoio marítimo, apoio portuário, cabotagem e longo curso) após Audiência Pública 15/20 → aprovado por unanimidade, com complemento do voto-vista
+  - votos: Adalberto: relator; Francisval: revisor_acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=2049s)
+- **RD 490 (2020-12-08)**, 18 · relator **Eduardo Nery** · Outorga de autorização como EBN: travessia interestadual de passageiros, veículos e cargas no Rio São Francisco entre Belo Monte-AL e Porto da Folha-S → aprovado por unanimidade
+  - votos: Eduardo: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=3890s)
+- **RD 490 (2020-12-08)**, 19 · relator **Eduardo Nery** · Outorga de autorização como EBN na navegação de apoio portuário, exclusivamente com embarcações de até 2.000 HP (RN 5/2016) → aprovado por unanimidade
+  - votos: Eduardo: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=4028s)
+- **RD 490 (2020-12-08)**, 20 · relator **Eduardo Nery** · Outorga de autorização como EBN: transporte de passageiros e cargas na navegação interior de percurso longitudinal interestadual entre Santarém-PA e S → aprovado por unanimidade
+  - votos: Eduardo: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=4109s)
+- **RD 490 (2020-12-08)**, 21 · relator **Eduardo Nery** · Consulta da Centronave sobre a legalidade de exigências da Vale nos terminais quanto a combustível de baixo teor de enxofre e descarte de efluentes de → aprovado por unanimidade
+  - votos: Eduardo: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=4190s)
+- **RD 490 (2020-12-08)**, 25 · relator **Francisval Mendes** · Outorga de autorização como EBN: travessia interestadual de passageiros no Rio Uruguai entre Barra do Guarita-RS e Itapiranga-SC → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=8765s)
+- **RD 490 (2020-12-08)**, 26 · relator **Francisval Mendes** · Outorga de autorização como EBN na navegação de apoio portuário com embarcações de até 2.000 HP → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=9182s)
+- **RD 490 (2020-12-08)**, 30 · relator **Francisval Mendes** · Processo administrativo sancionador: certidão fiscal estadual positiva, patrimônio líquido mínimo não comprovado e registro intempestivo de afretament → aprovado por unanimidade (advertências)
+  - votos: Francisval: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=10073s)
+- **RD 490 (2020-12-08)**, 39 · relator **Francisval Mendes** · Divergência sobre infração à RN 18 na cobrança por agências para liberar acesso de trabalhadores a bordo via sistema Porto Sem Papel → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=13665s)
+- **RD 490 (2020-12-08)**, 44 · relator **Adalberto Tokarski** · Pedido de revisão da Resolução 7.373/2019 (uso de trabalhadores avulsos na navegação interior) → aprovado por unanimidade (pedido indeferido)
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=15442s)
+- **RD 490 (2020-12-08)**, 45 · relator **Adalberto Tokarski** · Pedido de reconsideração: cessão provisória de retroescavadeira do porto organizado de Estrela à própria SUPRG → aprovado por unanimidade (deferido)
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=15744s)
+- **RD 490 (2020-12-08)**, 49 · relator **Adalberto Tokarski** · Processo contencioso: cassação de autorização de cabotagem por requisitos de outorga → aprovado por unanimidade (arquivamento quanto à cassação)
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=16661s)
+- **RD 490 (2020-12-08)**, 56 · relator **Adalberto Tokarski** · Aditamento de termo de autorização de EBN (alteração de linha: Terra Santa-PA / Manaus-AM e nova linha Terra Santa-PA / Parintins-AM) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=18512s)
+- **RD 490 (2020-12-08)**, 57 · relator **Adalberto Tokarski** · Outorga de autorização como EBN (julgamento em bloco dos itens 57 e 58) → aprovado por unanimidade (bloco)
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=18631s)
+- **RD 490 (2020-12-08)**, 58 · relator **Adalberto Tokarski** · Outorga de autorização como EBN (julgamento em bloco dos itens 57 e 58) → aprovado por unanimidade (bloco)
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=18631s)
+- **RD 492 (2020-12-22)**, 3 · relator **Francisval Mendes** · Autorização em caráter especial/emergencial para operação do porto fluvial de Cáceres (MT) → aprovado por maioria nos termos do voto-vista de Eduardo Nery, com acréscimo; Francisval M
+  - votos: Eduardo: revisor_diverge; Francisval: vencido; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=2563s)
+- **RD 492 (2020-12-22)**, 4 · relator **Adalberto Tokarski** · Recurso administrativo e pedidos incidentais (multa de R$ 169 mil, comprovação de contrato de afretamento, art. 34, VII, RN 18) → aprovado nos termos do voto-vista de Francisval Mendes
+  - votos: Francisval: revisor_acompanha; Adalberto: revisor_acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=3255s)
+- **RD 492 (2020-12-22)**, 7 · relator **Eduardo Nery** · Outorga EBN de passageiros na navegação interior (Manaus - Tabatinga) → aprovado por unanimidade
+  - votos: Eduardo: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=3955s)
+- **RD 492 (2020-12-22)**, 8 · relator **Eduardo Nery** · Processo administrativo sancionador: travessia de passageiros no rio São Francisco (Brejo Grande/SE - Piaçabuçu/AL) → aprovado por unanimidade
+  - votos: Eduardo: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=4047s)
+- **RD 492 (2020-12-22)**, 26 · relator **Francisval Mendes** · Outorga EBN de travessia de veículos no rio Juruá (Cruzeiro do Sul - Rodrigues Alves/AC), BR-364 → aprovado por unanimidade
+  - votos: Francisval: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=7312s)
+- **RD 492 (2020-12-22)**, 38 · relator **Adalberto Tokarski** · Outorga de autorização de EBN (julgamento conjunto dos itens 38 e 39) → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=9883s)
+- **RD 492 (2020-12-22)**, 39 · relator **Adalberto Tokarski** · Outorga de autorização de EBN (julgamento conjunto dos itens 38 e 39) → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=9883s)
+- **RD 492 (2020-12-22)**, 40 · relator **Adalberto Tokarski** · Renúncia de autorização de travessia interestadual (Monte Dourado/PA - Laranjal do Jari/AP) → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=9945s)
+- **RD 492 (2020-12-22)**, 51 · relator **Adalberto Tokarski** · Flexibilização de prazo para complementação documental (inclusão da embarcação New Furacão) → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=11891s)
+- **RD 494 (2021-02-03)**, 2 · relator **Eduardo Nery** · Referendo da Resolução ANTAQ 8.096/2021: priorização e autorização emergencial do transporte de material hospitalar e oxigênio (comprimido ou líquido) → aprovado (referendado) por unanimidade
+  - votos: Eduardo: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=650s)
+- **RD 494 (2021-02-03)**, 13 · relator **Francisval Mendes** · Revisão da Resolução 1.864/2010: critérios e procedimentos para afretamento de embarcação por EBN na navegação interior (minuta para audiência pública → aprovado, com as sugestões de Tokarski incorporadas
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=5512s)
+- **RD 494 (2021-02-03)**, 16 · relator **Eduardo Nery** · Outorga de autorização para operar como EBN na navegação de apoio portuário (embarcações até 2.000 HP) → aprovado por unanimidade
+  - votos: Eduardo: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=6132s)
+- **RD 494 (2021-02-03)**, 17 · relator **Eduardo Nery** · Outorga de autorização para operar como EBN na navegação de apoio portuário → aprovado por unanimidade
+  - votos: Eduardo: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=6183s)
+- **RD 494 (2021-02-03)**, 22 · relator **Francisval Mendes** · Embargos de declaração contra o Acórdão 101/2020 (THC: pedido de que a cobrança não conste no conhecimento de embarque/BL por efeitos tributários) → pedido de vista (Adalberto Tokarski); julgamento suspenso
+  - votos: Francisval: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=8867s)
+- **RD 494 (2021-02-03)**, 35 · relator **Adalberto Tokarski** · Outorga de autorização para operar como EBN (julgamento em bloco dos itens 35 a 37) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=12287s)
+- **RD 494 (2021-02-03)**, 36 · relator **Adalberto Tokarski** · Outorga de autorização para operar como EBN (julgamento em bloco dos itens 35 a 37) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=12287s)
+- **RD 494 (2021-02-03)**, 37 · relator **Adalberto Tokarski** · Outorga de autorização para operar como EBN (julgamento em bloco dos itens 35 a 37) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=12287s)
+- **RD 496 (2021-03-10)**, 9 · relator **Adalberto Tokarski** · Denúncia na Ouvidoria sobre abusividade na cobrança de THC → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: revisor_acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=3640s)
+- **RD 496 (2021-03-10)**, 10 · relator **Adalberto Tokarski** · Denúncia sobre cobrança de THC por armador; uso dos dados na agenda regulatória → aprovado nos termos do voto do revisor Eduardo Nery
+  - votos: Eduardo: revisor_diverge; Gabriela: revisor_acompanha; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=3915s)
+- **RD 496 (2021-03-10)**, 11 · relator **Adalberto Tokarski** · Denúncia sobre cobrança de THC por armador; uso dos dados na agenda regulatória → aprovado nos termos do voto do revisor Eduardo Nery
+  - votos: Eduardo: revisor_diverge; Gabriela: revisor_acompanha; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=4040s)
+- **RD 496 (2021-03-10)**, 15 · relator **Adalberto Tokarski** · Consulta sobre a Resolução ANP 811/2020 (transporte aquaviário de petróleo, derivados, gás e biocombustíveis) e reserva de mercado das EBN (julgamento → aprovado por unanimidade nos termos do voto do relator, com as sugestões da revisora incor
+  - votos: Adalberto: relator; Gabriela: revisor_acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=4228s)
+- **RD 496 (2021-03-10)**, 16 · relator **Adalberto Tokarski** · Consulta sobre a Resolução ANP 811/2020 (transporte aquaviário de petróleo, derivados, gás e biocombustíveis) e reserva de mercado das EBN (julgamento → aprovado por unanimidade nos termos do voto do relator, com as sugestões da revisora incor
+  - votos: Adalberto: relator; Gabriela: revisor_acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=4228s)
+- **RD 496 (2021-03-10)**, 17 · relator **Adalberto Tokarski** · Consulta sobre a Resolução ANP 811/2020 (transporte aquaviário de petróleo, derivados, gás e biocombustíveis) e reserva de mercado das EBN (julgamento → aprovado por unanimidade nos termos do voto do relator, com as sugestões da revisora incor
+  - votos: Adalberto: relator; Gabriela: revisor_acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=4228s)
+- **RD 496 (2021-03-10)**, 26 · relator **Eduardo Nery** · Outorga de autorização para EBN na navegação de apoio portuário (embarcações até 2.000 HP) → aprovado por unanimidade
+  - votos: Eduardo: relator; Gabriela: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=7099s)
+- **RD 496 (2021-03-10)**, 27 · relator **Eduardo Nery** · Registro de instalação de apoio ao transporte aquaviário (IP4) → aprovado por unanimidade
+  - votos: Eduardo: relator; Gabriela: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=7484s)
+- **RD 496 (2021-03-10)**, 32 · relator **Adalberto Tokarski** · Outorga de autorização para transporte misto na navegação interior longitudinal interestadual (Macapá/AP - Portel/PA) → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=8439s)
+- **RD 496 (2021-03-10)**, 33 · relator **Adalberto Tokarski** · Desmembramento do termo de autorização 542 por linha (Acórdão 228/2020) → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=8545s)
+- **RD 496 (2021-03-10)**, 34 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (julgamento em bloco dos itens 34 a 36) → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=8680s)
+- **RD 496 (2021-03-10)**, 35 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (julgamento em bloco dos itens 34 a 36) → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=8680s)
+- **RD 496 (2021-03-10)**, 36 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (julgamento em bloco dos itens 34 a 36) → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=8680s)
+- **RD 496 (2021-03-10)**, 41 · relator **Gabriela Costa** · Outorga de autorização de EBN para granel sólido na navegação interior longitudinal interestadual (região amazônica) → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=9857s)
+- **RD 496 (2021-03-10)**, 42 · relator **Gabriela Costa** · Retificação e desmembramento do termo de autorização 1.029 (transporte misto na Amazônia) conforme Acórdão 228/2020 → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=9937s)
+- **RD 496 (2021-03-10)**, 43 · relator **Gabriela Costa** · Registro de instalação de apoio ao transporte aquaviário (porto municipal; nome incerto na legenda) → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=10042s)
+- **RD 496 (2021-03-10)**, 44 · relator **Gabriela Costa** · Registro de instalação de apoio ao transporte aquaviário → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=10147s)
+- **RD 496 (2021-03-10)**, 45 · relator **Gabriela Costa** · Proposta de cancelamento da Súmula Administrativa ANTAQ 1/2004 (Decreto 10.139/2019) → aprovado por unanimidade (cancelamento não acolhido)
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=10225s)
+- **RD 498 (2021-04-08)**, 1 · relator **Eduardo Nery** · Referendo da Resolução 42 (2021): extensão a todos os estados das medidas de priorização e autorização emergencial para transporte aquaviário de oxigê → referendado por unanimidade
+  - votos: Eduardo: relator; Gabriela: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=180s)
+- **RD 498 (2021-04-08)**, 3 · relator **Adalberto Tokarski** · Referendo da Deliberação DG 52/2021: novo prazo de 120 dias para envio de informações ao Sistema de Desempenho da Navegação (SDN), módulo apoio portuá → referendado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=680s)
+- **RD 498 (2021-04-08)**, 11 · relator **Eduardo Nery** · Consulta sobre a averbação do contrato de afretamento no documento de propriedade junto ao Tribunal Marítimo (RN 18 e RN 5) para comprovação de posse  → aprovado por unanimidade
+  - votos: Eduardo: relator; Gabriela: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=4888s)
+- **RD 498 (2021-04-08)**, 15 · relator **Eduardo Nery** · Revisão da RN 1/2015 e da Resolução 1811: afretamento por tempo de embarcações brasileiras no apoio marítimo por interessados que não são EBN (petróle → aprovado por unanimidade
+  - votos: Eduardo: relator; Gabriela: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=5305s)
+- **RD 498 (2021-04-08)**, 19 · relator **Adalberto Tokarski** · Processo de relatoria de Tokarski com pedido de sustentação oral; Gabriela Costa pediu vista; relator não proferiu voto (sustentação ficará para o ret → vista concedida a Gabriela Costa
+  - votos: Gabriela: vista; Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=5548s)
+- **RD 498 (2021-04-08)**, 23 · relator **Adalberto Tokarski** · Outorga de autorização como empresa brasileira de navegação (EBN), julgada em bloco com o item 24 → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=6081s)
+- **RD 498 (2021-04-08)**, 24 · relator **Adalberto Tokarski** · Outorga de autorização como EBN, julgada em bloco com o item 23 → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=6081s)
+- **RD 498 (2021-04-08)**, 25 · relator **Adalberto Tokarski** · Outorga de autorização como EBN na navegação de apoio portuário (transbordo de sal marinho em Macau-RN) → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=6203s)
+- **RD 498 (2021-04-08)**, 33 · relator **Gabriela Costa** · Outorga de autorização como EBN no apoio marítimo, só com embarcações de até 2.000 HP → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=9347s)
+- **RD 498 (2021-04-08)**, 34 · relator **Gabriela Costa** · Outorga de autorização como EBN na navegação interior longitudinal de carga geral entre Belém-PA e Laranjal do Jari-AP → aprovado
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=9441s)
+- **RD 498 (2021-04-08)**, 35 · relator **Gabriela Costa** · Outorga de autorização para travessia interestadual de veículos e passageiros no rio Goiana (Pernambuco) → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=9511s)
+- **RD 498 (2021-04-08)**, 36 · relator **Gabriela Costa** · Outorga de autorização como EBN no apoio portuário → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=9584s)
+- **RD 498 (2021-04-08)**, 39 · relator **Gabriela Costa** · Apuração de infrações à ordem econômica e abuso de poder econômico na travessia; reajuste tarifário acima do autorizado (3,44% em 2017) → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=10416s)
+- **RD 498 (2021-04-08)**, 50 (extrapauta) · relator **Gabriela Costa** · Outorga de autorização como EBN no apoio portuário (até 2.000 HP) → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=11067s)
+- **RD 498 (2021-04-08)**, 51 (extrapauta) · relator **Adalberto Tokarski** · Outorga de autorização como EBN na navegação interior longitudinal interestadual e rotas internacionais Brasil-Peru e Brasil-Colômbia (região amazônic → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=11141s)
+- **RD 500 (2021-05-21)**, 4 · relator **Adalberto Tokarski** · Processo sancionador: afretamento autorizado para hidrocarbonetos usado no transporte de óleo de palma; efeitos no tempo do Acórdão TCU 1.693/2020 – v → aprovado por unanimidade nos termos do voto-vista (revisor) de Eduardo Nery
+  - votos: Eduardo: revisor_acompanha; Adalberto: revisor_acompanha; Gabriela: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=3026s)
+- **RD 500 (2021-05-21)**, 32 · relator **Adalberto Tokarski** · Reconsideração da medida cautelar (Res. 7.574/2020) que proíbe cobrança antecipada de sobre-estadia de contêiner (demurrage) antes da devolução → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=10667s)
+- **RD 500 (2021-05-21)**, 23 · relator **Adalberto Tokarski** · Outorga de autorização para operar como Empresa Brasileira de Navegação (EBN) – julgado em bloco com os itens 23 a 26 → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=14882s)
+- **RD 500 (2021-05-21)**, 24 · relator **Adalberto Tokarski** · Outorga de autorização para operar como Empresa Brasileira de Navegação (EBN) – julgado em bloco com os itens 23 a 26 → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=14882s)
+- **RD 500 (2021-05-21)**, 25 · relator **Adalberto Tokarski** · Outorga de autorização para operar como Empresa Brasileira de Navegação (EBN) – julgado em bloco com os itens 23 a 26 → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=14882s)
+- **RD 500 (2021-05-21)**, 26 · relator **Adalberto Tokarski** · Outorga de autorização para operar como Empresa Brasileira de Navegação (EBN) – julgado em bloco com os itens 23 a 26 → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=14882s)
+- **RD 500 (2021-05-21)**, 41 · relator **Gabriela Costa** · Cumprimento de condicionante da Resolução 7.916/2020 (termo de autorização 1785): saneamento de discrepâncias em embarcações apontadas pela Capitania  → aprovado por unanimidade
+  - votos: Gabriela: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=17174s)
+- **RD 500 (2021-05-21)**, 44 · relator **Gabriela Costa** · Norma sobre transporte de cargas perigosas na navegação interior (agenda regulatória 2018/2019, item 1.5), após audiência pública → pedido de vista de Adalberto Tokarski (relatora já votou)
+  - votos: Gabriela: relator; Adalberto: vista; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=17550s)
+- **RD 504 (2021-07-08)**, 20 · relator **Eduardo Nery** · Renúncia a termo de autorização (passageiros e misto Santana/AP–Belém/PA) após falecimento do único titular → aprovado por unanimidade
+  - votos: Eduardo: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=5959s)
+- **RD 504 (2021-07-08)**, 27 · relator **Adalberto Tokarski** · Agenda regulatória: transparência na cobrança de taxas extrafrete e sobretaxas no transporte marítimo — AIR e consulta/audiência pública (45 dias) → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=8269s)
+- **RD 504 (2021-07-08)**, 31 · relator **Adalberto Tokarski** · Outorga de EBN para pré-registro de embarcação em construção no REB, sem direito a afretamento → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=9302s)
+- **RD 504 (2021-07-08)**, 37 · relator **Gabriela Costa** · Outorga de EBN na navegação de apoio portuário (até 2.000 HP) → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=9877s)
+- **RD 504 (2021-07-08)**, 38 · relator **Gabriela Costa** · Outorga de EBN para transporte misto Manaus–São Gabriel da Cachoeira (AM) → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=9937s)
+- **RD 504 (2021-07-08)**, 40 · relator **Gabriela Costa** · Processo administrativo sancionador (auto de infração 47/2021?): não atendimento a intimação e impedimento de fiscalização; empresa não localizada des → aprovado por unanimidade com redação ajustada
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=10625s)
+- **RD 506 (2021-08-23)**, 5 · relator **Flávia Takafashi** · Referendo da deliberação DG 202/2021: cautelar em denúncia de cobrança abusiva de armazenagem adicional na exportação (carga não embarcada por erro do → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Adalberto: acompanha; Flávia: relator · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=1174s)
+- **RD 506 (2021-08-23)**, 6 · relator **Adalberto Tokarski** · Dúvida jurídica sobre competência da ANTAQ para regular e fiscalizar travessias em diretriz de rodovia federal (vista anterior de Gabriela Costa, que  → pedido de vista (Flávia Takafashi)
+  - votos: Adalberto: relator; Flávia: vista; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=1611s)
+- **RD 506 (2021-08-23)**, 10 · relator **Adalberto Tokarski** · Processo administrativo sancionador (armazenagem adicional cobrada do exportador quando a carga não embarcou por causa do armador; art. 10 da Res. 238 → sobrestado por unanimidade
+  - votos: Adalberto: revisor_acompanha; Eduardo: revisor_acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=2806s)
+- **RD 506 (2021-08-23)**, 11 · relator **Adalberto Tokarski** · Processo administrativo sancionador (armazenagem adicional cobrada do exportador quando a carga não embarcou por causa do armador; art. 10 da Res. 238 → sobrestado por unanimidade
+  - votos: Adalberto: revisor_acompanha; Eduardo: revisor_acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=2806s)
+- **RD 506 (2021-08-23)**, 25 · relator **Adalberto Tokarski** · Consulta com denúncia sobre cobrança, por agentes marítimos, de taxas a fornecedores de bordo pela Declaração Única de Exportação (DU-E) → pedido de vista (Flávia Takafashi) após voto do relator
+  - votos: Adalberto: relator; Flávia: vista; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=6870s)
+- **RD 506 (2021-08-23)**, 20 · relator **Adalberto Tokarski** · Processo administrativo sancionador contra EBN já extinta (distrato) na data do auto de infração → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Adalberto: relator; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=7547s)
+- **RD 506 (2021-08-23)**, 27 · relator **Adalberto Tokarski** · Outorga de autorização para operar como empresa brasileira de navegação (itens 27, 28 e 29 em bloco) → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Adalberto: relator; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=8590s)
+- **RD 506 (2021-08-23)**, 28 · relator **Adalberto Tokarski** · Outorga de autorização para operar como empresa brasileira de navegação (itens 27, 28 e 29 em bloco) → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Adalberto: relator; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=8590s)
+- **RD 506 (2021-08-23)**, 29 · relator **Adalberto Tokarski** · Outorga de autorização para operar como empresa brasileira de navegação (itens 27, 28 e 29 em bloco) → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Adalberto: relator; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=8590s)
+- **RD 508 (2021-09-09)**, 4 · relator **Adalberto Tokarski** · Processo administrativo sancionador: empresa não atendeu citação e não foi localizada, impossibilitando a fiscalização — retomada após vista de Eduard → aprovado nos termos do voto do relator (retificado); Flávia Takafashi não votou
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: outro · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=1986s)
+- **RD 508 (2021-09-09)**, 8 · relator **Adalberto Tokarski** · Consulta e denúncia de cobrança por agentes marítimos a fornecedores de navios para registro da DU-E (Siscomex) — retomada após vista de Flávia → julgamento adiado (Eduardo Nery pediu adiamento/vista após divergência)
+  - votos: Adalberto: relator; Flávia: revisor_diverge; Eduardo: vista · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=2980s)
+- **RD 508 (2021-09-09)**, 11 · relator **Adalberto Tokarski** · Dúvidas jurídicas sobre competência para o transporte aquaviário de travessia em diretriz de rodovia/ferrovia federal; manutenção da Súmula Administra → aprovado por unanimidade
+  - votos: Adalberto: relator; Flávia: revisor_acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=3973s)
+- **RD 508 (2021-09-09)**, 12 · relator **Eduardo Nery** · Outorga de autorização como EBN de apoio portuário, embarcações de até 2.000 HP → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=4316s)
+- **RD 508 (2021-09-09)**, 19 · relator **Adalberto Tokarski** · Registro de instalação portuária pública de pequeno porte (IP4) em Tefé (AM) → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=6216s)
+- **RD 508 (2021-09-09)**, 20 · relator **Adalberto Tokarski** · Outorga de autorização como EBN de navegação interior de percurso longitudinal interestadual (Manaus–Porto Velho) → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=6624s)
+- **RD 508 (2021-09-09)**, 22 · relator **Adalberto Tokarski** · Travessia na diretriz da BR-319 (Manaus – Careiro, AM): exploração comercial de linha de travessia (legenda confusa) → adiado (vista de Eduardo Nery)
+  - votos: Eduardo: vista · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=7278s)
+- **RD 508 (2021-09-09)**, 24 · relator **Adalberto Tokarski** · Autorização em caráter especial e de emergência para movimentar carga geral em terminal privado em Porto Murtinho (MS) por até 180 dias → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=7729s)
+- **RD 508 (2021-09-09)**, 26 · relator **Adalberto Tokarski** · Registro de IP4 para embarque e desembarque de passageiros em Itacoatiara (AM) → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=8208s)
+- **RD 508 (2021-09-09)**, 31 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (flutuante fundeada) em Coari (AM) → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=10887s)
+- **RD 508 (2021-09-09)**, 32 · relator **Flávia Takafashi** · Outorga de autorização como EBN de apoio portuário (até 2.000 HP) → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=11307s)
+- **RD 508 (2021-09-09)**, 33 · relator **Flávia Takafashi** · Registro de IP4 em Vila Amazônia → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=11408s)
+- **RD 508 (2021-09-09)**, 34 · relator **Flávia Takafashi** · Registro de instalação de apoio (posto de combustíveis flutuante Dona Cândida) → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=11575s)
+- **RD 508 (2021-09-09)**, 35 · relator **Flávia Takafashi** · Reenquadramento do registro de instalação de apoio após retirada da área da poligonal do porto de Santarém → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=11706s)
+- **RD 510 (2021-10-11)**, comunicação 1 · relator **Eduardo Nery** · Comunicação do Diretor-Geral: criação de grupo de trabalho com representantes das superintendências para acompanhar a crise de falta de contêineres pó → aprovada a comunicação; GT a ser criado por ordem de serviço, coordenado/acompanhado pela 
+  - votos: Eduardo: outro; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=110s)
+- **RD 510 (2021-10-11)**, 44 · relator **Flávia Takafashi** · Consulta sobre a liberdade do embarcador de usar lacre eletrônico próprio em substituição ao lacre do armador (RN 18/2017). Sustentação oral do advoga → pedido de vista; julgamento suspenso
+  - votos: Flávia: relator; Adalberto: vista; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=3681s)
+- **RD 510 (2021-10-11)**, 15 · relator **Adalberto Tokarski** · Consulta combinada com denúncia sobre cobrança, por agentes marítimos, de taxas aos fornecedores de navios pelos procedimentos da DU-E (exportação de  → aprovado por maioria nos termos do voto da revisora Flávia Takafashi (falta de competência
+  - votos: Adalberto: vencido; Flávia: revisor_acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=9424s)
+- **RD 510 (2021-10-11)**, 16 · relator **Adalberto Tokarski** · Regulamentação do transporte a granel de petróleo, derivados e gás natural, incluindo transbordo ship-to-ship; vista do Diretor-Geral renovada → vista renovada
+  - votos: Eduardo: outro; Adalberto: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=9962s)
+- **RD 510 (2021-10-11)**, 17 · relator **None** · Exploração comercial de linha de travessia nas diretrizes da BR-319 entre Manaus e Careiro da Várzea; vista do Diretor-Geral renovada (em bloco com o  → vista renovada
+  - votos: Eduardo: outro; Adalberto: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=10026s)
+- **RD 510 (2021-10-11)**, 21 · relator **Eduardo Nery** · Pedido de reajuste de preços de travessia na BR-319 (Beruri/AM), mercado não competitivo → aprovado (Flávia acompanha; voto de Adalberto não dito explicitamente)
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=10250s)
+- **RD 510 (2021-10-11)**, 23 · relator **Eduardo Nery** · Outorga de autorização como EBN para granel líquido na navegação interior longitudinal, bacia amazônica → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=10728s)
+- **RD 510 (2021-10-11)**, 24 · relator **Eduardo Nery** · Outorga de autorização como EBN para travessia interestadual de passageiros, veículos e cargas → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=10791s)
+- **RD 510 (2021-10-11)**, 27 · relator **Adalberto Tokarski** · Outorga de autorização como EBN para travessia de passageiros Manaus–Careiro da Várzea (BR-319) → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=11377s)
+- **RD 510 (2021-10-11)**, 28 · relator **Adalberto Tokarski** · Outorga de autorização como EBN para transporte de passageiros na navegação interior longitudinal Manaus–Tabatinga → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=11491s)
+- **RD 510 (2021-10-11)**, 37 · relator **Adalberto Tokarski** · Pedido de esclarecimento sobre cômputo de tonelagem para afretamento comparado a outro processo → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=13125s)
+- **RD 510 (2021-10-11)**, 45 · relator **Flávia Takafashi** · Reajuste de preços de travessia Itapiranga/SC – Barra do Guarita/RS, mercado não competitivo → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=14805s)
+- **RD 510 (2021-10-11)**, 47 · relator **Flávia Takafashi** · Inclusão de perfil de carga geral em TUP em Porto Murtinho/MS (contrato de adesão 8/2020) → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=15167s)
+- **RD 510 (2021-10-11)**, 48 · relator **Flávia Takafashi** · Denúncia com pedido de cautelar contra cobrança de detenção de 92 contêineres (~R$ 222 mil) e taxa de câmbio → aprovado por unanimidade: cautelar parcialmente deferida
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=15443s)
+- **RD 510 (2021-10-11)**, 49 · relator **Flávia Takafashi** · Registro de instalação de apoio em Itaituba/PA, rio Tapajós → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=15951s)
+- **RD 511 (2021-11-11)**, 6 · relator **Adalberto Tokarski** · Recurso contra multa de R$ 59.500 (art. 28, III, RN 18/2017) por cláusulas contratuais de sobre-estadia (demurrage/detention) em desacordo com o art.  → aprovado por maioria nos termos do voto-vista de Flávia Takafashi (provimento parcial: TAC
+  - votos: Adalberto: vencido; Flávia: revisor_acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=3987s)
+- **RD 511 (2021-11-11)**, 10 · relator **None** · Estudo de viabilidade técnica, econômica e ambiental para exploração comercial da linha de travessia → pedido de vista renovado (DG)
+  - votos: Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=6169s)
+- **RD 511 (2021-11-11)**, 11 · relator **Adalberto Tokarski** · Resolução normativa sobre operações ship-to-ship (transbordo entre embarcações em águas jurisdicionais brasileiras); vista do DG antes do voto do rela → aprovado nos termos do voto-vista do DG (norma aprovada sem exigência de autorização prévi
+  - votos: Adalberto: revisor_acompanha; Eduardo: revisor_acompanha; Flávia: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=6232s)
+- **RD 511 (2021-11-11)**, 13 · relator **Eduardo Nery** · Registro de instalação de apoio ao transporte aquaviário às margens do rio Mamuru, zona rural de Juruti (PA) (RN 13/2016) → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=7017s)
+- **RD 511 (2021-11-11)**, 14 · relator **Eduardo Nery** · Denúncia de cobrança abusiva de detention (US$ 19.590, 19 contêineres) e de taxa de câmbio acima da oficial; pedido de cautelar → aprovado por unanimidade: cautelar deferida parcialmente
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=7109s)
+- **RD 511 (2021-11-11)**, 16 · relator **Eduardo Nery** · Extinção do registro de instalação portuária (revogação da resolução de 2018) porque a instalação passou a ser ETC pelo contrato de adesão 10/2021 → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=7582s)
+- **RD 511 (2021-11-11)**, 24 · relator **Adalberto Tokarski** · Pedido de reconsideração do Acórdão 72/2021 (fornecedores de provisões a bordo e serviços de agências marítimas; competência da ANTAQ/RN 18) → aprovado por unanimidade: conhecido e não provido
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=8278s)
+- **RD 511 (2021-11-11)**, 29 · relator **Adalberto Tokarski** · Outorga de autorização como EBN para transporte de passageiros na navegação interior longitudinal Manaus–Tabatinga (AM) → aprovado por unanimidade
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=8634s)
+- **RD 511 (2021-11-11)**, 30 · relator **Adalberto Tokarski** · Suspensão da emissão do Certificado de Liberação de Carga Prescrita à bandeira brasileira (CLCP), após revogação do art. 2º do Decreto-Lei 666/1969 pe → aprovado por unanimidade
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=8858s)
+- **RD 511 (2021-11-11)**, 31 · relator **Adalberto Tokarski** · Consulta regulatória: quem pode opor bloqueio a circulares de consulta ao mercado quando a embarcação brasileira está afretada por tempo — fretador ou → aprovado por unanimidade
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=9081s)
+- **RD 511 (2021-11-11)**, 36 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário em Manaus (AM) (RN 13) → aprovado por unanimidade
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=9362s)
+- **RD 511 (2021-11-11)**, 37 · relator **Adalberto Tokarski** · Pedido de reajuste de preço da travessia internacional Guajará-Mirim (RO) – Guayaramerín (Bolívia), rio Mamoré → aprovado por unanimidade: majoração não pode ser aplicada antes da análise conclusiva
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=9491s)
+- **RD 511 (2021-11-11)**, 38 · relator **Flávia Takafashi** · Outorga como EBN de apoio portuário (embarcações até 2.000 HP) – RN 5/2016 → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=9777s)
+- **RD 511 (2021-11-11)**, 40 · relator **Flávia Takafashi** · Reajuste de preço da travessia Guajará-Mirim (RO) – Guayaramerín (Beni, Bolívia) → aprovado por unanimidade: justificativas aprovadas com ressalvas
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=10375s)
+- **RD 513 (2021-11-26)**, 7 · relator **None** · Estudo de viabilidade técnica e econômica da linha de navegação na diretriz da BR-319 (Manaus-Careiro da Várzea); retorno previsto na 1ª reunião de ja → vista renovada (Eduardo Nery), em bloco
+  - votos: Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=3481s)
+- **RD 513 (2021-11-26)**, 16 · relator **Eduardo Nery** · Processo administrativo sancionador: empresa sem embarcação cadastrada na ANTAQ → aprovado por unanimidade (cassação)
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=3936s)
+- **RD 513 (2021-11-26)**, 18 · relator **Eduardo Nery** · Outorga de autorização como EBN: transporte de passageiros na navegação interior na diretriz da BR-319 (Rios Negro e Solimões, Manaus-Careiro da Várze → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=4304s)
+- **RD 513 (2021-11-26)**, 20 · relator **Adalberto Tokarski** · Alteração e consolidação da RN 18 (direitos e deveres de usuários, agentes intermediários e empresas na navegação de apoio marítimo, portuário, cabota → aprovado por unanimidade
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=4673s)
+- **RD 513 (2021-11-26)**, 21 · relator **Adalberto Tokarski** · Processo administrativo sancionador: não prestar informações à Unidade Regional de Curitiba e não comprovar atendimento à legislação aduaneira → aprovado por unanimidade (advertência)
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=5199s)
+- **RD 513 (2021-11-26)**, 26 · relator **Adalberto Tokarski** · Estudo sobre vias economicamente navegadas → adiado para a próxima reunião (retirado)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=5598s)
+- **RD 513 (2021-11-26)**, 29 · relator **Flávia Takafashi** · Pedido de reconsideração contra o acórdão 299/2020 que negou sobrestamento de sancionadores (art. 34, VII, RN 18 - documentos de afretamento) → aprovado por unanimidade (negado provimento)
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=5951s)
+- **RD 514 (2021-12-10)**, 43 · relator **Flávia Takafashi** · Questionamento da obrigatoriedade de passagem das cargas conteinerizadas (cabotagem/multimodal) pelos pátios de triagem de Suape e da falta de isonomi → aprovado por unanimidade, com acréscimo sugerido por Eduardo Nery
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=10308s)
+- **RD 514 (2021-12-10)**, 8 · relator **Flávia Takafashi** · Consulta sobre lacres eletrônicos dos embarcadores em substituição ao lacre fornecido pelo armador (contêineres); voto-vista de Eduardo Nery (vista ap → aprovado por unanimidade (com ajuste do voto-vista incorporado)
+  - votos: Flávia: revisor_acompanha; Eduardo: revisor_acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=12740s)
+- **RD 514 (2021-12-10)**, 13 · relator **Eduardo Nery** · Outorga de autorização como EBN na navegação interior de percurso longitudinal interestadual (Alenquer/PA – Manaus/AM) → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=15819s)
+- **RD 514 (2021-12-10)**, 18 · relator **Adalberto Tokarski** · Consulta sobre o acordo bilateral de transporte marítimo Brasil–Uruguai após a Lei 14.195/2021 e o Decreto 10.786/2021 → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=16968s)
+- **RD 514 (2021-12-10)**, 20 · relator **Adalberto Tokarski** · Reajuste de preço na travessia internacional Guajará-Mirim (RO) – Guayaramerín (Bolívia), rio Mamoré → aprovado por unanimidade (com ressalvas)
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=17478s)
+- **RD 514 (2021-12-10)**, 21 · relator **Adalberto Tokarski** · Reajuste de preço da travessia de veículos Carneirinho/MG – Santa Albertina/SP (Estrela da Barra) → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=17715s)
+- **RD 514 (2021-12-10)**, 24 · relator **Adalberto Tokarski** · Outorga de autorização como EBN na navegação de apoio portuário (embarcações até 2.000 HP) → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=17989s)
+- **RD 514 (2021-12-10)**, 26 · relator **Adalberto Tokarski** · Registro de instalação portuária de apoio ao transporte aquaviário (posto flutuante de combustível «Deus é Fiel 2») em Cametá/PA → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=18172s)
+- **RD 514 (2021-12-10)**, 28 · relator **Adalberto Tokarski** · Estudo Vias Economicamente Navegadas 2020 (aumento de ~500 km, 3,38%, na região hidrográfica amazônica) → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=18808s)
+- **RD 514 (2021-12-10)**, 29 · relator **Adalberto Tokarski** · Outorga de autorização como EBN no transporte de passageiros na navegação interior longitudinal (Manaus–Santarém) → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=19221s)
+- **RD 514 (2021-12-10)**, 33 · relator **Adalberto Tokarski** · Denúncia com pedido de medida cautelar (transporte de carga embarcada em Itapoá); renúncia ao pedido cautelar → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=19821s)
+- **RD 514 (2021-12-10)**, 34 · relator **Flávia Takafashi** · Outorga de autorização como EBN na navegação de apoio portuário (até 2.000 HP) → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=20347s)
+- **RD 514 (2021-12-10)**, 35 · relator **Flávia Takafashi** · Outorga de autorização como EBN na navegação interior longitudinal interestadual (região amazônica) → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=20484s)
+- **RD 514 (2021-12-10)**, 36 · relator **Flávia Takafashi** · Registro de instalação de apoio ao transporte aquaviário (transbordo de grãos e óleos entre barcaças e navios, canal de Santana) → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=20669s)
+- **RD 514 (2021-12-10)**, 37 · relator **Flávia Takafashi** · Comunicação de reajuste de preços na linha Porto Velho–Manicoré (navegação interior longitudinal) → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=21179s)
+- **RD 514 (2021-12-10)**, 38 · relator **Flávia Takafashi** · Justa causa de reajuste na travessia Itapiranga/SC – Barra do Guarita/RS → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=21459s)
+- **RD 516 (2022-02-04)**, 12 · relator **Adalberto Tokarski** · EVTEA para exploração comercial das linhas de travessia na diretriz da BR-319 entre Manaus e Careiro da Várzea (AM) → votação suspensa: Eduardo Nery renovou o pedido de vista após o voto do relator
+  - votos: Adalberto: relator; Eduardo: vista; Flávia: outro · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=9180s)
+- **RD 516 (2022-02-04)**, 16 · relator **Adalberto Tokarski** · Proposta de resolução que altera as Res. 1274/2009, 3285/2014, 7753/2015 e 3631/2014 para adequá-las ao Acórdão 132 sobre competência da ANTAQ em faix → aprovado por unanimidade nos termos do voto do relator (após vista de Flávia Takafashi)
+  - votos: Adalberto: relator; Flávia: revisor_acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=10170s)
+- **RD 516 (2022-02-04)**, 18 · relator **Adalberto Tokarski** · Plano Geral de Outorgas (PGO) para exploração das vias navegáveis ou potencialmente navegáveis da União e prestação de serviço de transporte aquaviári → aprovado por unanimidade nos termos do voto do relator (com ajustes de redação e diagramaç
+  - votos: Adalberto: revisor_acompanha; Flávia: revisor_acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=10980s)
+- **RD 516 (2022-02-04)**, 22 · relator **Eduardo Nery** · Relatório final do estudo «Embarcações de engenharia empregadas nas atividades offshore de exploração de petróleo e gás» (agenda de estudos 2021–2024) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=12480s)
+- **RD 516 (2022-02-04)**, 24 · relator **Eduardo Nery** · Recurso contra decisão da SFC que aplicou advertência (não comprovar operação comercial) e ofereceu TAC (não manter embarcação em operação) a empresa  → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=13472s)
+- **RD 516 (2022-02-04)**, 26 · relator **Eduardo Nery** · Reajuste de preço na travessia de veículos da diretriz da BR-319 entre municípios do Amazonas (incluindo Borba) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=13951s)
+- **RD 516 (2022-02-04)**, 29 · relator **Eduardo Nery** · Proposta da SOG de declarar inaplicável a exigência de termo de liberação de operação (TLO) para postos de combustíveis flutuantes (pontões) ou retirá → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=14581s)
+- **RD 516 (2022-02-04)**, 33 · relator **Adalberto Tokarski** · Regulamentação do art. 14 da Lei 14.301/2022 (BR do Mar): critérios de embarcação efetivamente operante e pertencente ao mesmo grupo econômico → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=16596s)
+- **RD 516 (2022-02-04)**, 34 · relator **Adalberto Tokarski** · Simplificação do estoque regulatório da navegação interior (Decreto 10.139/2019): análise das contribuições da AP 14/2021 e minutas consolidadas → votação suspensa: pedido de vista de Flávia Takafashi após o voto do relator
+  - votos: Adalberto: relator; Flávia: vista; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=16890s)
+- **RD 516 (2022-02-04)**, 37 · relator **Adalberto Tokarski** · Outorga de autorização como EBN para transporte de carga geral na navegação interior de percurso longitudinal na região hidrográfica amazônica → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=17970s)
+- **RD 516 (2022-02-04)**, 39 · relator **Adalberto Tokarski** · Outorga de autorização como EBN para carga geral na navegação interior longitudinal da região amazônica → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=18150s)
+- **RD 516 (2022-02-04)**, 52 · relator **Flávia Takafashi** · Reajuste de preço no transporte misto na navegação interior na linha Belém–Manaus → aprovado por unanimidade nos termos do voto da relatora
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=22051s)
+- **RD 516 (2022-02-04)**, 53 · relator **Flávia Takafashi** · Ajuste das minutas de termos de autorização (navegação interior e marítima) e checklist à Res. 47/2021 (cargas perigosas) → aprovado por unanimidade nos termos do voto da relatora
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=22320s)
+- **RD 516 (2022-02-04)**, 54 · relator **Flávia Takafashi** · Reajuste de preço da travessia de passageiros Penedo (AL)–Neópolis (SE) → aprovado por unanimidade nos termos do voto da relatora
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=22500s)
+- **RD 516 (2022-02-04)**, 55 · relator **Flávia Takafashi** · Reajuste de preço da travessia de passageiros Neópolis (SE)–Penedo (AL) → aprovado por unanimidade nos termos do voto da relatora
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=22650s)
+- **RD 516 (2022-02-04)**, 57 · relator **Flávia Takafashi** · Renúncia ao contrato de adesão 55/2014 (instalação em Três Lagoas-MS) por baixa navegabilidade e mudança logística → aprovado por unanimidade nos termos do voto da relatora
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=22952s)
+- **RD 518 (2022-03-23)**, 22 · relator **Adalberto Tokarski** · EVTEA das linhas de travessia na diretriz da BR-319 (Manaus–Careiro da Várzea), relatoria de Adalberto Tokarski com voto proferido → pedido de vista de Eduardo Nery renovado (art. 36 da Res. 66); volta na próxima reunião te
+  - votos: Eduardo: vista; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=8484s)
+- **RD 518 (2022-03-23)**, 23 · relator **Adalberto Tokarski** · Consulta à autoridade marítima sobre condições de segurança e operação da travessia na diretriz da rodovia; conexo ao item 22 → pedido de vista de Eduardo Nery renovado (art. 36 da Res. 66); volta na próxima reunião te
+  - votos: Eduardo: vista; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=8578s)
+- **RD 518 (2022-03-23)**, 24 · relator **Adalberto Tokarski** · Tema 1.1 da agenda regulatória 2020/2021: simplificação do estoque regulatório da navegação interior → pedido de vista de Flávia Takafashi renovado (art. 36 da Res. 66)
+  - votos: Flávia: vista; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=8627s)
+- **RD 518 (2022-03-23)**, 31 · relator **Eduardo Nery** · Outorga de autorização para operar como EBN na navegação interior de percurso longitudinal interestadual (petróleo e derivados) na região hidrográfica → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=10954s)
+- **RD 518 (2022-03-23)**, 33 · relator **Eduardo Nery** · Registro de instalação de apoio ao transporte aquaviário (RN 13/2016) → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=11235s)
+- **RD 518 (2022-03-23)**, 34 · relator **Eduardo Nery** · Registro de instalação portuária pública de pequeno porte (IP4) em Abaetetuba (PA) → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=11373s)
+- **RD 520 (2022-05-13)**, 17 · relator **Adalberto Tokarski** · EVTEA para exploração da travessia de veículos Manaus–Careiro da Várzea (BR-319) e revogação da Res. 5.573/2017 (esquema operacional transitório com 5 → aprovado o voto revisor (Eduardo, acompanhado por Flávia), contra a proposta do relator To
+  - votos: Eduardo: revisor_diverge; Flávia: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=10064s)
+- **RD 520 (2022-05-13)**, 18 · relator **Adalberto Tokarski** · Consulta à autoridade marítima sobre segurança e número de operadores na travessia da BR-364 entre Rodrigues Alves e Cruzeiro do Sul (AC); voto reviso → aprovado o voto revisor: autos sobrestados até a conclusão do processo da travessia Manaus
+  - votos: Eduardo: revisor_diverge; Flávia: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=11020s)
+- **RD 520 (2022-05-13)**, 19 · relator **Adalberto Tokarski** · Renovação do pedido de vista da diretora Flávia Takafashi (processo de relatoria de Adalberto Tokarski; revisão normativa ligada à Res. 1.558/2009) → renovação de vista aprovada
+  - votos: Flávia: outro; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=11333s)
+- **RD 520 (2022-05-13)**, 20 · relator **Adalberto Tokarski** · Relatório final do estudo 'Obstáculos regulatórios ao transporte multimodal' (item P6 da agenda plurianual de estudos 2021/2022); voto-vista do Direto → aprovado por unanimidade dos votantes (estudo aprovado e publicado; item P6 cumprido)
+  - votos: Eduardo: revisor_acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=11416s)
+- **RD 520 (2022-05-13)**, 21 · relator **Adalberto Tokarski** · Relatório final do estudo sobre cargas transportadas em embarcações nacionais x estrangeiras afretadas na cabotagem (item P8 da agenda plurianual de e → aprovado por unanimidade dos votantes
+  - votos: Eduardo: revisor_acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=12084s)
+- **RD 520 (2022-05-13)**, 24 · relator **Eduardo Nery** · Reajuste de preços (~14,29%) na travessia Santa Albertina (SP)–Carneirinho (MG) → aprovado por unanimidade (aprovado com ressalvas)
+  - votos: Eduardo: relator; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=12920s)
+- **RD 520 (2022-05-13)**, 25 · relator **Eduardo Nery** · Comunicação de reajuste de R$ 2,00 para R$ 2,50 na travessia de passageiros Juazeiro (BA)–Petrolina (PE) → aprovado por unanimidade (ausência de óbice)
+  - votos: Eduardo: relator; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=13090s)
+- **RD 520 (2022-05-13)**, 30 · relator **Flávia Takafashi** · Reajuste de preços na linha Manaus–Óbidos (mercado não competitivo) → aprovado por unanimidade
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=14120s)
+- **RD 520 (2022-05-13)**, 31 · relator **Flávia Takafashi** · Consulta: embarcação estrangeira (PLSV) registrada no REB pode operar temporariamente no exterior (Moçambique, ~40 dias) → aprovado por unanimidade (sem impedimento normativo, mantidas as condições de habilitação 
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=14410s)
+- **RD 520 (2022-05-13)**, 32 · relator **Flávia Takafashi** · Reajuste de preços na linha longitudinal de passageiros Manaus–Óbidos → aprovado por unanimidade (aprovado com ressalvas; envio à SFC)
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=14650s)
+- **RD 520 (2022-05-13)**, 33 · relator **Flávia Takafashi** · Recurso contra a Deliberação DG 334/2021 que retificou a autorização da ACL Canto Navegação (linha Alenquer–Manaus), com pedido de tutela; alegado rod → aprovado por unanimidade: recurso conhecido e não provido; tutela indeferida; denúncias an
+  - votos: Flávia: relator; José: acompanha; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=14913s)
+- **RD 520 (2022-05-13)**, 34 · relator **Flávia Takafashi** · Auto de infração por omitir/retardar documentos e informações à fiscalização (PAF 2021); julgado em bloco com o item 38 → aprovado por unanimidade: auto subsistente, multa de R$ 594, interdição até apresentar doc
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=15938s)
+- **RD 520 (2022-05-13)**, 38 · relator **Flávia Takafashi** · Auto de infração por omitir/retardar documentos e informações à fiscalização (PAF 2020); julgado em bloco com o item 34 → aprovado por unanimidade: auto subsistente, multa de R$ 594, interdição até apresentar doc
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=15938s)
+- **RD 520 (2022-05-13)**, 35 · relator **Flávia Takafashi** · Comunicação de reajuste de preços na travessia de passageiros Juazeiro (BA)–Petrolina (PE); julgado em bloco com o item 36 → aprovado por unanimidade (ausência de óbice; envio à SFC por falta de informações mensais)
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=16480s)
+- **RD 520 (2022-05-13)**, 36 · relator **Flávia Takafashi** · Comunicação de reajuste de preços na travessia de passageiros Juazeiro (BA)–Petrolina (PE); julgado em bloco com o item 35 → aprovado por unanimidade (ausência de óbice; envio à SFC por falta de informações mensais)
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=16480s)
+- **RD 520 (2022-05-13)**, 39 · relator **Flávia Takafashi** · Reajuste de preços na linha Belém (PA)–Laranjal do Jari (AP)–Belém (mercado moderado) → aprovado por unanimidade (com ressalvas: regularização cadastral das embarcações Gurupatub
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=17268s)
+- **RD 520 (2022-05-13)**, 43 · relator **Flávia Takafashi** · Reajuste de preços na travessia de passageiros Penedo (AL)–Neópolis (SE) → aprovado por unanimidade (com ressalvas: envio de dados pelo SDN-Travessia)
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=18280s)
+- **RD 520 (2022-05-13)**, 44 · relator **Flávia Takafashi** · Inclusão na frota de barcaça paraguaia NSL 234 afretada a casco nu, sem suspensão de bandeira, como embarcação garantidora de outorga na hidrovia Para → aprovado por unanimidade: autorizada a inclusão
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=18480s)
+- **RD 520 (2022-05-13)**, 46 · relator **José Renato Fialho** · Reajuste de preços na travessia de passageiros Penedo (AL)–Neópolis (SE) → aprovado por unanimidade (com ressalvas)
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=19380s)
+- **RD 522 (2022-05-26)**, 6 · relator **José Renato Fialho** · Referendo da Deliberação DG 83/2022: cautelar que suspendeu cobrança de sobre-estadia (US$ 61.518) de três contêineres retidos por praga quarentenária → aprovado por unanimidade: cautelar referendada
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=5864s)
+- **RD 522 (2022-05-26)**, 17 · relator **Eduardo Nery** · Reajuste de preço da travessia Neópolis (SE) – Penedo (AL) para R$ 5 por passageiro → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=11301s)
+- **RD 522 (2022-05-26)**, 30 · relator **José Renato Fialho** · Denúncia com pedido de cautelar contra nova sobretaxa de US$ 1.000 por contêiner (nome distorcido na legenda, algo como «incorrect seal charge») na ex → aprovado por unanimidade: cautelar deferida
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=15955s)
+- **RD 522 (2022-05-26)**, 34 · relator **José Renato Fialho** · Transferência de controle societário da titular do contrato de adesão 29/2014 (TUP Porto Gregório Curvo, Corumbá-MS) da Vale para a J&F Mineração → aprovado por unanimidade nos termos do voto do relator
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=18213s)
+- **RD 27ª Extraordinária (2022-08-01)**, 1 · relator **Flávia Takafashi** · Relatório final do grupo de trabalho constituído em outubro de 2021 para monitorar os impactos da pandemia de Covid-19 no transporte marítimo de contê → relatório aprovado por unanimidade
+  - votos: Flávia: relator; José: outro; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=5_hHUI9_fT8&t=80s)
+- **RD 526 (2022-08-11)**, 4 · relator **Flávia Takafashi** · Referendo da Deliberação DG 111/2022: prorroga para 1º/11/2022 a vigência das Resoluções ANTAQ 80, 81 e 82/2022 (simplificação normativa da navegação  → aprovado por unanimidade (referendado, com ajuste de nomenclatura)
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=2J5AWByVtpM&t=3372s)
+- **RD 526 (2022-08-11)**, 6 · relator **José Renato Fialho** · Consulta sobre internalização de embarcações estrangeiras com características específicas para operações submarinas de instalação de usinas eólicas (o → vista renovada (Eduardo Nery); volta na próxima reunião telepresencial
+  - votos: José: relator; Eduardo: outro; Flávia: outro · [vídeo](https://www.youtube.com/watch?v=2J5AWByVtpM&t=3870s)
+- **RD 526 (2022-08-11)**, 19 · relator **José Renato Fialho** · Revisão e consolidação da resolução de outorga para operar na navegação marítima e de apoio (BR do Mar) → pedido de vista (Flávia Takafashi)
+  - votos: José: relator; Flávia: vista; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=2J5AWByVtpM&t=6985s)
+- **RD 528 (2022-09-01)**, 1 · relator **Eduardo Nery** · Denúncia com cautelar contra cobrança de sobre-estadia (detention) de contêiner em Santos; sustentação oral da advogada da MSC → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=yBRIlI6RQug&t=77s)
+- **RD 528 (2022-09-01)**, 11 · relator **José Renato Fialho** · Revisão e consolidação das normas de outorga para navegação marítima e de apoio (Decreto 10.139) com adequação à Lei 14.301/2022 (BR do Mar) → aprovado nos termos do voto da revisora (restituir à SRG com participação social), por mai
+  - votos: José: vencido; Flávia: revisor_diverge; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=yBRIlI6RQug&t=5982s)
+- **RD 528 (2022-09-01)**, 17 · relator **Flávia Takafashi** · Revisão e consolidação das normas de afretamento (Decreto 10.139) e incorporação de conceitos da BR do Mar → aprovado por unanimidade nos termos do voto da relatora
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=yBRIlI6RQug&t=7094s)
+- **RD 528 (2022-09-01)**, 20 · relator **José Renato Fialho** · Regulamentação do art. 14 da Lei 14.301/2022 (BR do Mar): embarcação efetivamente operante e mesmo grupo econômico → aprovado por unanimidade nos termos do voto do relator
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=yBRIlI6RQug&t=7253s)
+- **RD 528 (2022-09-01)**, 7 · relator **José Renato Fialho** · Consulta sobre internalização (REB/afretamento) de embarcações estrangeiras para instalação de usinas eólicas offshore → aprovado por unanimidade nos termos do voto do relator, com ajustes do voto-vista de Eduar
+  - votos: José: revisor_acompanha; Eduardo: revisor_acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=yBRIlI6RQug&t=7760s)
+- **RD 530 (2022-09-29)**, 5 (referendo) · relator **Flávia Takafashi** · Referendo da Deliberação DG 129/2022: indeferimento de medida cautelar contra bloqueio de carga por suposta cobrança de taxa (Res. 62/2021, arts. 12 e → aprovado (referendada a Deliberação DG 129/2022)
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=4520s)
+- **RD 530 (2022-09-29)**, 7 · relator **Alexandre Lopes** · Relatório final do estudo «Quantificação do mercado feeder na cabotagem brasileira» (item E12 da agenda de estudos), após vista de Flávia Takafashi na → aprovado por unanimidade
+  - votos: Alexandre: relator; Flávia: revisor_acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=5012s)
+- **RD 530 (2022-09-29)**, 11 · relator **Alexandre Lopes** · Reajuste de preços de serviços de transporte aquaviário em linhas de travessia de passageiros e veículos (Pará, Macapá e Amazonas); três processos tra → vista renovada; volta na próxima reunião
+  - votos: Eduardo: outro; Alexandre: relator · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=5747s)
+- **RD 530 (2022-09-29)**, 16 · relator **Alexandre Lopes** · Reajuste de preços de serviços de transporte aquaviário em linhas de travessia de passageiros e veículos (Pará, Macapá e Amazonas); três processos tra → vista renovada; volta na próxima reunião
+  - votos: Eduardo: outro; Alexandre: relator · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=5747s)
+- **RD 530 (2022-09-29)**, 17 · relator **Alexandre Lopes** · Reajuste de preços de serviços de transporte aquaviário em linhas de travessia de passageiros e veículos (Pará, Macapá e Amazonas); três processos tra → vista renovada; volta na próxima reunião
+  - votos: Eduardo: outro; Alexandre: relator · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=5747s)
+- **RD 532 (2022-11-10)**, 1 · relator **Eduardo Nery** · Enquadramento das embarcações de engenharia offshore (PLSV, RSV, DSV etc.) no conceito de navegação de apoio marítimo e circularização para afretament → aprovado nos termos do voto do relator
+  - votos: Eduardo: relator; Alexandre: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=55s)
+- **RD 532 (2022-11-10)**, 13 · relator **Alexandre Lopes** · Transporte aquaviário de passageiros em linha de travessia, rota Macapá/AP – Afuá/PA (julgado em conjunto com o item 14) → vista renovada (Eduardo Nery)
+  - votos: Eduardo: outro; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=7334s)
+- **RD 532 (2022-11-10)**, 14 · relator **Alexandre Lopes** · Transporte aquaviário de passageiros em linha de travessia, rota Laranjal do Jari/AP – Santarém/PA (julgado em conjunto com o item 13) → vista renovada (Eduardo Nery)
+  - votos: Eduardo: outro; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=7334s)
+- **RD 532 (2022-11-10)**, 16 · relator **Eduardo Nery** · Denúncia sobre retenção de cargas (conhecimentos de embarque bloqueados no Siscomex Mercante) e cobrança de demurrage indevida – cargas no TCP/Paranag → aprovado nos termos do voto do relator
+  - votos: Eduardo: relator; Alexandre: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=7465s)
+- **RD 532 (2022-11-10)**, 21 · relator **Eduardo Nery** · Autorização especial emergencial para movimentar granel sólido por 180 dias (contrato de adesão 6/2018; pendência de cessão de espelho d’água na SPU) → aprovado nos termos do voto do relator, com acréscimo proposto por Flávia Takafashi
+  - votos: Eduardo: relator; Alexandre: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=8066s)
+- **RD 532 (2022-11-10)**, 25 · relator **Flávia Takafashi** · Agenda regulatória 2022-2024, tema 2.1: tipificar infração do transportador marítimo que recusa arcar com armazenagem adicional/sobre-estadia que caus → aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=9575s)
+- **RD 532 (2022-11-10)**, 28 · relator **Flávia Takafashi** · Nova prorrogação da entrada em vigor das Res. 80, 81 e 82/2022 (navegação interior) para 1º/07/2023 → aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=11154s)
+- **RD 532 (2022-11-10)**, 30 · relator **Flávia Takafashi** · Autorização emergencial para movimentação de passageiros (cruzeiros) por 180 dias após naufrágio da estrutura flutuante de passageiros do Porto de Man → aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=11340s)
+- **RD 532 (2022-11-10)**, 42 · relator **Alexandre Lopes** · Registro de instalação portuária de pequeno porte (IP4) no distrito de Mosqueiro, Belém/PA → aprovado nos termos do voto do relator
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=14515s)
+- **RD 532 (2022-11-10)**, 46 · relator **Alexandre Lopes** · Denúncia com pedido de cautelar sobre cobrança de adicional de frete marítimo não informada previamente → aprovado (votos dos demais não audíveis)
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=15079s)
+- **RD 532 (2022-11-10)**, 47 · relator **Alexandre Lopes** · Ampliação de área (para 93.442,93 m²) e inclusão de granel líquido e carga geral no contrato de adesão 7/2021 → aprovado nos termos do voto do relator
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=15362s)
+- **RD 534 (2022-12-07)**, 1 · relator **Alexandre Lopes** · Registro de instalação portuária pública de pequeno porte (IP4) do DNIT em Guajará-Mirim (RO), com impugnação → aprovado por unanimidade
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=1811s)
+- **RD 534 (2022-12-07)**, 4 · relator **Flávia Takafashi** · Referendo da Deliberação DG 152/2022: medida cautelar em denúncia de cobrança supostamente indevida de detention sobre 20 contêineres (cerca de R$ 106 → referendado por unanimidade
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=3070s)
+- **RD 534 (2022-12-07)**, 5 · relator **Alexandre Lopes** · Referendo da Deliberação DG 148/2022: cautelar parcial suspendendo cobranças de detention (cerca de R$ 6.034,40) após alterações de deadline, com veda → referendado (votos dos demais não audíveis)
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=3243s)
+- **RD 534 (2022-12-07)**, 8 · relator **Alexandre Lopes** · Reajuste de preços da travessia/linha de passageiros e veículos Manaus–Tabatinga (AM) (retorno de vista do Diretor-Geral) → aprovado por unanimidade (proposta única: relator incorporou o voto-vista)
+  - votos: Alexandre: revisor_acompanha; Eduardo: revisor_acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=4383s)
+- **RD 534 (2022-12-07)**, 11 · relator **Alexandre Lopes** · Reajuste de preços da linha de passageiros e veículos Macapá (AP)–Afuá (PA) (retorno de vista do Diretor-Geral) → aprovado por unanimidade
+  - votos: Alexandre: relator; Eduardo: revisor_acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=6873s)
+- **RD 534 (2022-12-07)**, 12 · relator **Alexandre Lopes** · Reajuste de preços da linha de passageiros e veículos Laranjal do Jari (AP)–Santarém (PA) (retorno de vista do Diretor-Geral) → aprovado por unanimidade (proposta única)
+  - votos: Alexandre: revisor_acompanha; Eduardo: revisor_acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=7295s)
+- **RD 534 (2022-12-07)**, 18 · relator **Eduardo Nery** · Registro de instalação de apoio ao transporte aquaviário em Manaus (AM) para descarga de matéria-prima e carregamento de sacos de cimento; SOG entendi → aprovado por unanimidade
+  - votos: Eduardo: relator; Alexandre: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=10293s)
+- **RD 534 (2022-12-07)**, 19 · relator **Eduardo Nery** · Relatório final do estudo sobre a disponibilidade do seguro obrigatório DPEM na Região Norte → aprovado por unanimidade
+  - votos: Eduardo: relator; Alexandre: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=10798s)
+- **RD 534 (2022-12-07)**, 26 · relator **Flávia Takafashi** · Autorização especial e emergencial por 180 dias (a partir de 15/01/2023) para movimentar minério de ferro e ferro-gusa, antes da celebração do contrat → aprovado por unanimidade
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=12198s)
+- **RD 534 (2022-12-07)**, 28 · relator **Alexandre Lopes** · Alteração da Resolução ANTAQ 62/2021 (direitos e deveres de usuários, agentes intermediários e empresas de navegação de apoio, cabotagem e longo curso → aprovado por unanimidade
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=12709s)
+- **RD 537 (2023-02-09)**, 31 · relator **Alber Vasconcelos** · Relatório final do estudo TKU 2021 (tonelada útil e tonelada-quilômetro útil na navegação interior, cabotagem e longo curso em vias interiores), item  → aprovado por unanimidade nos termos do voto do relator
+  - votos: Alber: relator; Caio: acompanha; Lima: acompanha; Flávia: acompanha; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=2866s)
+- **RD 537 (2023-02-09)**, 1 · relator **Alber Vasconcelos** · Referendo da Deliberação DG 8/2023 (cautelar ad referendum em denúncia sobre cobrança de sobre-estadia/detention de contêineres atribuída a bloqueios  → aprovado por unanimidade nos termos do voto do relator
+  - votos: Alber: relator; Caio: acompanha; Lima: acompanha; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=4025s)
+- **RD 537 (2023-02-09)**, 4 · relator **Eduardo Nery** · Reajuste de 20% nos preços de transporte de passageiros e misto na navegação interior (bacia amazônica, Santarém-Manaus) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; Caio: acompanha; Alber: acompanha; Lima: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=7227s)
+- **RD 537 (2023-02-09)**, 10 · relator **Eduardo Nery** · Consulta sobre o enquadramento de embarcações multipropósito de pesquisa sísmica: se dependem de autorização de afretamento e se sujeitam à Lei 9.432/ → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; Caio: acompanha; Alber: acompanha; Lima: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=7935s)
+- **RD 537 (2023-02-09)**, 29 · relator **Alber Vasconcelos** · Cautelar em denúncia contra cobrança de 39 dias de sobre-estadia de contêineres após perda do deadline de embarque → aprovado por unanimidade nos termos do voto do relator
+  - votos: Alber: relator; Caio: acompanha; Lima: acompanha; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=14518s)
+- **RD 537 (2023-02-09)**, 30 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o Acórdão 630/2022, que deferiu o registro da IP4 do DNIT em Guajará-Mirim → aprovado por unanimidade nos termos do voto do relator
+  - votos: Alber: relator; Caio: acompanha; Lima: acompanha; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=14795s)
+- **RD 537 (2023-02-09)**, 32 · relator **Alber Vasconcelos** · Autorização para construir e explorar estação de transbordo de cargas (ETC) Terminal PVH2 no rio Madeira, para granéis sólidos vegetais → aprovado por unanimidade nos termos do voto do relator
+  - votos: Alber: relator; Caio: acompanha; Lima: acompanha; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=15085s)
+- **RD 539 (2023-04-04)**, 3 · relator **José Renato Fialho** · Pedido de vista: AIR sobre metodologia para determinar abusividade na cobrança de sobrestadia (demurrage) de contêineres; relator original (José Renat → aprovado o voto-vista divergente de Flávia Takafashi (voto do relator original vencido)
+  - votos: Eduardo: revisor_acompanha; Flávia: revisor_diverge; Lima: outro; Alber: acompanha; Caio: acompanha; José: vencido · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=1495s)
+- **RD 539 (2023-04-04)**, 6 · relator **Eduardo Nery** · Plano de trabalho para estruturar as fiscalizações temáticas do Plano Anual de Fiscalização 2023 (Acórdão 679/2022): desempenho das administrações por → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=4852s)
+- **RD 539 (2023-04-04)**, 13 · relator **Flávia Takafashi** · Consulta regulatória: transbordo de fertilizantes de barcaças para caminhões por cábrea flutuante junto a rampa de concreto fora do porto organizado — → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=5458s)
+- **RD 539 (2023-04-04)**, 14 · relator **Flávia Takafashi** · Pesquisa de satisfação dos usuários das linhas de travessia outorgadas pela ANTAQ (Amazônia, Nordeste, Centro-Sul) — projeto P4 da agenda plurianual d → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=6173s)
+- **RD 539 (2023-04-04)**, 17 · relator **Lima Filho** · Processo sancionador por deixar de observar normas de segurança da Marinha: naufrágio com excesso de passageiro e uma morte na travessia do Rio Urugua → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=8268s)
+- **RD 539 (2023-04-04)**, 25 · relator **Alber Vasconcelos** · Autorização especial e de emergência por 180 dias para movimentar e armazenar contêineres (tubos e estruturas submarinas para FPSO do pré-sal na Bacia → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=10425s)
+- **RD 541 (2023-04-20)**, 27 · relator **Alber Vasconcelos** · Referendo da Deliberação DG 28/2023: petição contra a aplicação da Res. ANTAQ 61 (Tabela 1, acesso aquaviário) às embarcações da navegação interior (p → aprovado: referendada a Deliberação DG 28/2023 com alteração do art. 3º (descontos tarifár
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=4597s)
+- **RD 541 (2023-04-20)**, 4 · relator **Lima Filho** · Consulta sobre classificação do tipo de navegação em operações alternativas de transbordo de minério; retorno de vista de Caio Farias (RD 530) → vista prorrogada (Caio Farias); retorna na próxima reunião presencial
+  - votos: Eduardo: outro; Flávia: outro; Lima: relator; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=5816s)
+- **RD 541 (2023-04-20)**, 10 · relator **Eduardo Nery** · Proposta de instrução normativa sobre critérios e procedimentos quanto à documentação de propriedade, transmissão de titularidade e afretamento a casc → vista concedida a Lima Filho antes do voto do relator
+  - votos: Eduardo: relator; Flávia: outro; Lima: vista; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=6317s)
+- **RD 543 (2023-05-24)**, 5 · relator **Lima Filho** · Consulta externa sobre a classificação do tipo de navegação no transbordo de minério por barcaças, rebocadores e guindaste flutuante entre TUP às marg → aprovado por unanimidade (navegação interior, com modulação de efeitos)
+  - votos: Lima: relator; Caio: revisor_acompanha; Eduardo: outro; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=5371s)
+- **RD 543 (2023-05-24)**, 26 · relator **Alber Vasconcelos** · Registro de instalação de apoio ao transporte aquaviário (RN 13, art. 2º, V) para rampa de balsas graneleiras (cimento, clínquer, escória, argila); SO → aprovado (registro deferido)
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: outro; Lima: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=11460s)
+- **RD 545 (2023-06-23)**, comunicação DG · relator **Eduardo Nery** · Proposta do Diretor-Geral: determinar à SRG que, em regime de prioridade, retome a revisão das Resoluções Normativas 01 e 05 para alinhá-las e dar efe → aprovado por unanimidade
+  - votos: Eduardo: outro; Lima: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=50s)
+- **RD 545 (2023-06-23)**, 2 · relator **Lima Filho** · Mérito de denúncia com medida cautelar: cobrança de US$ 7.125 (armazenagem no destino) e US$ 37.602 (nota de débito de diferença de frete) → aprovado por unanimidade, com ajuste sugerido pelo DG
+  - votos: Lima: relator; Eduardo: outro; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=2234s)
+- **RD 545 (2023-06-23)**, 5 · relator **Caio Farias** · Referendo das Deliberações DG 37/2023 e 40/2023: cautelar que reformou decisão que pôs fim ao bloqueio parcial no SAMA (sistema de afretamento) para t → aprovado (referendado) por unanimidade
+  - votos: Caio: relator; Flávia: acompanha; Lima: acompanha; Eduardo: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=4027s)
+- **RD 545 (2023-06-23)**, 9 · relator **Lima Filho** · Consulta (vista de Flávia Takafashi): uso do terminal do Pecém (TUP) como base de embarque e desembarque de funcionários de plataformas da Petrobras → aprovado por unanimidade
+  - votos: Lima: relator; Flávia: revisor_acompanha; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=10348s)
+- **RD 545 (2023-06-23)**, 10 · relator **Lima Filho** · Consulta (vista do DG): instalação, dentro da poligonal do TUP, de operação de minério de ferro e manganês por nova empresa (sub-autorização) e declar → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: revisor_acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=10774s)
+- **RD 545 (2023-06-23)**, 12 · relator **Eduardo Nery** · Instrução normativa sobre documentação de propriedade, transmissão de titularidade e afretamento a casco nu de embarcações na autorização e aditamento → aprovado por unanimidade
+  - votos: Eduardo: relator; Lima: revisor_acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=12534s)
+- **RD 545 (2023-06-23)**, 17 · relator **Flávia Takafashi** · Resoluções sobre apuração de abusividade na cobrança de THC por armadores (tema 3.4 da agenda regulatória; Acórdão TCU 1439/2016): THC como restituiçã → aprovado por unanimidade; ajuste redacional no art. 27 aprovado depois
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=13798s)
+- **RD 545 (2023-06-23)**, 19 · relator **Flávia Takafashi** · Cessão de tonelagem para fins de afretamento: uso da tonelagem das embarcações GNL 1001 e GNL 1008, afretadas a casco nu de empresa não EBN de outro g → aprovado por unanimidade (deferido)
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=15352s)
+- **RD 545 (2023-06-23)**, 25 · relator **Lima Filho** · Recurso contra multa de R$ 179.685 por afretar a embarcação estrangeira MV Orestes na cabotagem sem prévia autorização (pedido de extensão intempestiv → aprovado por unanimidade (provimento parcial)
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=16696s)
+- **RD 545 (2023-06-23)**, 37 · relator **Caio Farias** · Registro de instalação de apoio ao transporte aquaviário (estaleiro de construção e reparo de balsas) fora do porto organizado → aprovado por unanimidade (registro deferido)
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=19358s)
+- **RD 547 (2023-08-07)**, 4 · relator **Caio Farias** · Referendo da Deliberação DG 46/2023: alteração das normas de aplicação tarifárias (isenção a embarcações da navegação interior; cabotagem equiparada a → referendado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=1896s)
+- **RD 547 (2023-08-07)**, 13 · relator **Eduardo Nery** · Estruturação do programa de fiscalizações temáticas de 2023 (Acórdãos 679/2022 e 130/2023): desempenho da administração portuária (Manaus, Suape, Sant → aprovado por unanimidade
+  - votos: Eduardo: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=3711s)
+- **RD 547 (2023-08-07)**, 15 · relator **Eduardo Nery** · Revisão do Plano Geral de Outorgas (PGO) de hidrovias: classificação de trechos hidroviários (estratégicos, consolidados, com potencial) para concessõ → aprovado por unanimidade
+  - votos: Eduardo: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=4570s)
+- **RD 547 (2023-08-07)**, 17 · relator **Lima Filho** · Questionamento sobre restrições da RN 1 ao afretamento por tempo na cabotagem (uma única viagem; ressalva para petróleo, gás, derivados e biocombustív → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=6133s)
+- **RD 547 (2023-08-07)**, 30 · relator **Lima Filho** · Denúncia de cobrança de detention (sobre-estadia de contêiner) por NVOCC na modalidade FOB → denúncia indeferida por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=7855s)
+- **RD 547 (2023-08-07)**, 35 · relator **Alber Vasconcelos** · Divergência de competência: travessia Manaus - Careiro da Várzea (diretriz da BR-319) e navegação em municípios de faixa de fronteira no Amazonas → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=9278s)
+- **RD 549 (2023-08-31)**, 1 · relator **Lima Filho** · Retomada após vista (546ª): denúncia do Cecafé contra cobrança de 'incorrect seal charge' (ISC, irregularidade no lacre do contêiner) pela MSC na expo → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: revisor_acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=4305s)
+- **RD 549 (2023-08-31)**, 4 · relator **Flávia Takafashi** · Referendo da Deliberação DG 63/2023: prorrogação por 90 dias do TAC 22/2023 (gerência do Rio de Janeiro/SFC) para a EBN incorporar à frota ao menos um → aprovado por unanimidade (referendado)
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=5869s)
+- **RD 549 (2023-08-31)**, 8 · relator **Caio Farias** · Referendo da Deliberação DG 61/2023: afretamento por tempo de embarcação estrangeira para contêineres na cabotagem a Manaus durante a estiagem dos rio → aprovado por unanimidade (referendado)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=6408s)
+- **RD 549 (2023-08-31)**, 20 · relator **Flávia Takafashi** · Entendimento da ANTAQ sobre o alcance regulatório no mercado de energia eólica offshore: ótica portuária (instrumento de ocupação de áreas nos portos  → aprovado por consenso, com texto final ajustado no fim da sessão
+  - votos: Flávia: relator; Eduardo: acompanha; Alber: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=9463s)
+- **RD 549 (2023-08-31)**, 21 · relator **Flávia Takafashi** · Pedido de revisão da padronização tarifária do Porto Organizado de Porto Velho (alta média de 40%) → aprovado por unanimidade (petição não admitida; decisão mantida de ofício)
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=11550s)
+- **RD 549 (2023-08-31)**, 27 · relator **Lima Filho** · Avaliação de Resultado Regulatório (ARR) da Res. ANTAQ 62/2021 (direitos e deveres dos usuários na navegação; sobre-estadia de contêiner), tema 5.1.2  → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=12367s)
+- **RD 549 (2023-08-31)**, 38 · relator **Caio Farias** · Construção e exploração do TUP Nova Santa Rita-RS (rio Caí; clínquer e calcário, cerca de 120 mil t/ano): declarar vigente a Res. ANTAQ 3.892/2015 e e → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=15867s)
+- **RD 551 (2023-10-04)**, 16 · relator **Alber Vasconcelos** · Pedido de outorga de autorização como EBN na navegação de cabotagem operando apenas embarcação estrangeira afretada a casco nu com suspensão de bandei → convertido em diligência à Procuradoria Federal (PF-ANTAQ), prazo de 15 dias
+  - votos: Alber: relator; Lima: outro; Eduardo: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=2277s)
+- **RD 551 (2023-10-04)**, 6 · relator **Flávia Takafashi** · Pedido de reconsideração do Acórdão 98/2023 (reajuste de preços de travessia limitado ao IGP-M acumulado de 67,78%): correção de erro material no preç → aprovado por unanimidade (recurso provido para corrigir a tabela)
+  - votos: Flávia: relator; Alber: acompanha; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=7903s)
+- **RD 551 (2023-10-04)**, 17 · relator **Alber Vasconcelos** · Registro de instalação de apoio ao transporte aquaviário «Pier 2 PQT UFRJ» (art. 2º, V, RN 13), Baía de Guanabara, para movimentação de manifolds subm → aprovado por unanimidade (julgamento em bloco dos itens 17 e 18)
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=11577s)
+- **RD 551 (2023-10-04)**, 18 · relator **Alber Vasconcelos** · Impugnação da Superpesa Marítima Ltda. ao registro da instalação de apoio da FMC Technologies (Pier 2 PQT UFRJ) → aprovado por unanimidade (julgamento em bloco dos itens 17 e 18)
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=11577s)
+- **RD 551 (2023-10-04)**, 20 · relator **Alber Vasconcelos** · Autorização em caráter especial e de emergência (art. 49 Lei 10.233; art. 31 RN 71) para ampliação do cais flutuante para 720 m, aguardando cessão de  → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=12079s)
+- **RD 551 (2023-10-04)**, 21 · relator **Caio Farias** · Recurso de reconsideração contra o Acórdão 604/2022 (legenda também diz 64/2022), que manteve embarcações especiais de engenharia offshore no conceito → aprovado por unanimidade (reconsideração negada)
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=12941s)
+- **RD 554 (2023-10-26)**, 20 · relator **Flávia Takafashi** · Consulta em tese sobre gestão náutica e comercial de embarcações estrangeiras afretadas a casco nu com suspensão de bandeira no REB e subafretamento p → aprovado — consulta respondida
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=5250s)
+- **RD 554 (2023-10-26)**, 13 · relator **Eduardo Nery** · Recurso contra a deliberação PAS 10/2020 da Superintendência de Fiscalização: multa de R$ 350 mil por dois transportes irregulares de contêineres entr → aprovado — recurso parcialmente provido; multa substituída por advertência
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=10681s)
+- **RD 554 (2023-10-26)**, 14 · relator **Eduardo Nery** · Aprovação do edital de arrendamento do terminal POA02 (granéis sólidos, ~21 mil m², brownfield, armazéns D7 e D8) no porto de Porto Alegre (RS), naveg → aprovado
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=11035s)
+- **RD 554 (2023-10-26)**, 29 · relator **Lima Filho** · Cartilha sobre cobrança de taxas e sobretaxas por transportadores marítimos e agentes intermediários (acórdão ANTAQ 57/2022) → aprovado com ajustes
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=13857s)
+- **RD 554 (2023-10-26)**, 30 · relator **Lima Filho** · Consulta sobre se embarcações homologadas na frota e os cascos EI-523 e EI-524 integram a tonelagem para afretamento a casco nu independentemente de a → aprovado — consulta respondida afirmativamente, condicionada aos requisitos da RN 1/2015
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=14023s)
+- **RD 554 (2023-10-26)**, 34 · relator **Caio Farias** · Recurso de reconsideração contra o acórdão ANTAQ 224/2023: classificação como navegação interior (e não cabotagem) do transporte de minério entre o TU → aprovado — recurso não provido
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=15069s)
+- **RD 555 (2023-11-16)**, 4 · relator **Eduardo Nery** · Referendo da Deliberação DG 89/2023: extensão por 80 dias do afretamento por tempo do navio estrangeiro Fort Desaix (grafia incerta) para substituir o → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=2623s)
+- **RD 555 (2023-11-16)**, 16 · relator **Eduardo Nery** · Recurso hierárquico contra multa de R$ 350 mil da SFC por cabotagem por empresa estrangeira (2 contêineres sem CT-e em trechos Salvador–Itapoá e Rio G → recurso parcialmente provido (multa convertida em advertência), por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=4333s)
+- **RD 555 (2023-11-16)**, 19 · relator **Eduardo Nery** · Recurso contra a Deliberação 50/2021-SFC: multa de R$ 246.560 por negar documentos à ANTAQ, não ter alvará do Corpo de Bombeiros e permitir apoio port → recurso conhecido e não provido, por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=4840s)
+- **RD 555 (2023-11-16)**, 21 · relator **Eduardo Nery** · Recurso hierárquico contra a Deliberação 51/2021-SFC: multa por exigir de importadores manifesto de produtos perigosos em língua portuguesa (art. 28,  → recurso conhecido e não provido, por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=5131s)
+- **RD 555 (2023-11-16)**, 29 · relator **Flávia Takafashi** · Retificação de erro material no item 5.1 do Acórdão 534/2023 (RD 553 virtual): número do termo de autorização da empresa → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=6591s)
+- **RD 555 (2023-11-16)**, 34 · relator **Lima Filho** · Pedido de declaração de dispensa de outorga como EBN para transporte revendedor retalhista na navegação interior intermunicipal em Itacoatiara (AM) → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=8064s)
+- **RD 555 (2023-11-16)**, 40 · relator **Alber Vasconcelos** · Procedimento simplificado para alterações temporárias de esquemas operacionais de EBNs de passageiros/misto nas festas de fim de ano (15/12/2023 a 07/ → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=10336s)
+- **RD 555 (2023-11-16)**, 42 · relator **Alber Vasconcelos** · Flexibilização temporária dos esquemas operacionais das EBNs de passageiros e misto na Amazônia pela estiagem severa de 2023 e convalidação do Ofício  → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=11069s)
+- **RD 555 (2023-11-16)**, 44 · relator **Caio Farias** · Apuração de denúncias de práticas anticoncorrenciais (combinação de horários e preços, preço abaixo do custo) no transporte misto Manaus–Alenquer (PA) → aprovado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=13795s)
+- **RD 557 (2023-12-14)**, 22 · relator **Lima Filho** · Recursos de reconsideração (julgados em bloco, com sustentações orais) contra os acórdãos 774, 775, 776 e 777/2021, que revogaram a cautelar e reconhe → aprovado (voto em bloco do relator; proposta ajustada para incluir o tema dos pátios de tr
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=2154s)
+- **RD 557 (2023-12-14)**, 23 · relator **Lima Filho** · Recursos de reconsideração (julgados em bloco, com sustentações orais) contra os acórdãos 774, 775, 776 e 777/2021, que revogaram a cautelar e reconhe → aprovado (voto em bloco do relator; proposta ajustada para incluir o tema dos pátios de tr
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=2154s)
+- **RD 557 (2023-12-14)**, 24 · relator **Lima Filho** · Recursos de reconsideração (julgados em bloco, com sustentações orais) contra os acórdãos 774, 775, 776 e 777/2021, que revogaram a cautelar e reconhe → aprovado (voto em bloco do relator; proposta ajustada para incluir o tema dos pátios de tr
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=2154s)
+- **RD 557 (2023-12-14)**, 25 · relator **Lima Filho** · Recursos de reconsideração (julgados em bloco, com sustentações orais) contra os acórdãos 774, 775, 776 e 777/2021, que revogaram a cautelar e reconhe → aprovado (voto em bloco do relator; proposta ajustada para incluir o tema dos pátios de tr
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=2154s)
+- **RD 557 (2023-12-14)**, 30 · relator **Lima Filho** · Pedido de autorização especial por 180 dias para movimentar passageiros de cruzeiros no TUP Superterminais (Manaus/AM); sustentação oral da ERPM (advo → retirado de pauta pelo relator após a sustentação oral
+  - votos: Lima: outro; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=5607s)
+- **RD 557 (2023-12-14)**, 32 · relator **Lima Filho** · Cumprimento do acórdão 92/2023 (referendo da deliberação DG 162/2022): denúncia contra a MSC por cobrança de detention/sobre-estadia de contêineres at → sobrestado até a deliberação da norma sobre matriz de responsabilidade (processo de relato
+  - votos: Lima: relator; Flávia: outro; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=6379s)
+- **RD 557 (2023-12-14)**, 13 · relator **Flávia Takafashi** · Consulta regulatória: reboque internacional de plataforma FPSO para a Europa após descomissionamento dispensa circularização (art. 9º da Lei 9.432/97) → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=10551s)
+- **RD 557 (2023-12-14)**, 14 · relator **Flávia Takafashi** · Inclusão das comissárias de despacho no alcance do acórdão 535/2021 (prática abusiva de responsabilizar solidariamente despachantes aduaneiros por dem → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=11239s)
+- **RD 557 (2023-12-14)**, 19 · relator **Flávia Takafashi** · Recurso de reconsideração contra o acórdão 541/2023, que deferiu à Norcoast Logística autorização para operar na navegação de cabotagem (julgados em b → aprovado por unanimidade - recurso não conhecido
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=13475s)
+- **RD 557 (2023-12-14)**, 20 · relator **Flávia Takafashi** · Recurso de reconsideração contra o acórdão 541/2023, que deferiu à Norcoast Logística autorização para operar na navegação de cabotagem (julgados em b → aprovado por unanimidade - recurso não conhecido
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=13475s)
+- **RD 557 (2023-12-14)**, 26 · relator **Lima Filho** · Registro de instalação de apoio ao transporte aquaviário (art. 2º, V, da RN 13/2016) → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=13855s)
+- **RD 557 (2023-12-14)**, 49 · relator **Lima Filho** · Extrapauta (deliberação ad referendum não concluída): atestado de tonelagem com lastro em cascos de embarcações PSV 4500 em construção para afretar em → convertido em diligência (proposta única após convergência) para apresentação do contrato 
+  - votos: Lima: relator; Flávia: outro; Caio: acompanha; Alber: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=15103s)
+- **RD 557 (2023-12-14)**, 38 · relator **Caio Farias** · Recurso hierárquico contra a deliberação 30/2022-SFC (multa de R$ 31.500 por patrimônio líquido negativo - condições econômico-financeiras, RN 5 e RN  → aprovado por unanimidade - recurso provido, multa afastada
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=18098s)
+- **RD 557 (2023-12-14)**, 39 · relator **Caio Farias** · Contrato de uso temporário da área 1A2 do porto de Belém (11.617 m²) para carga de apoio offshore → aprovado por unanimidade após ajuste do relator (prazo de até 48 meses e retirada da exigê
+  - votos: Caio: relator; Alber: outro; Flávia: acompanha; Lima: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=18524s)
+- **RD 558 (2024-02-26)**, 24 · relator **Flávia Takafashi** · Estudo de vias economicamente navegadas (base 2022): atualização da matriz de transporte hidroviário de origem-destino nas vias interiores; cumpriment → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Alber: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=1656s)
+- **RD 558 (2024-02-26)**, 17 · relator **Eduardo Nery** · Revisão da agenda regulatória 2022-2024 → aprovado por unanimidade, com ajuste
+  - votos: Eduardo: relator; Flávia: acompanha; Alber: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=9688s)
+- **RD 558 (2024-02-26)**, 25 · relator **Flávia Takafashi** · Consulta sobre uso de uma única embarcação estrangeira afretada por tempo, alternando apoio portuário (bunkering) e cabotagem por duas EBNs distintas, → aprovado por unanimidade
+  - votos: Flávia: relator; Alber: acompanha; Lima: acompanha; Eduardo: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=10861s)
+- **RD 558 (2024-02-26)**, 30 · relator **Flávia Takafashi** · Contribuições para revisão da RN 01/2015 (afretamento) após a BR do Mar e pedido de fiscalização de cotas de tripulantes brasileiros → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=13560s)
+- **RD 558 (2024-02-26)**, 32 · relator **Flávia Takafashi** · Medida cautelar contra rolagens sucessivas de carga (contêiner Santos-Cebu) pelo armador MSC; proposta ad referendum não obteve quórum → aprovado por unanimidade (perda de objeto)
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=13962s)
+- **RD 558 (2024-02-26)**, 40 · relator **Lima Filho** · Ateste de direito de tonelagem com lastro em cascos em construção (PSV 4500 Posidonia Iara e Posidonia Arlet; cascos 523/524) para inscrição no REB; c → aprovado por unanimidade, com acréscimos
+  - votos: Lima: relator; Flávia: acompanha; Alber: acompanha; Eduardo: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=14787s)
+- **RD 560 (2024-03-25)**, 25 · relator **Flávia Takafashi** · Norma que estabelece critérios para identificar o agente responsável pela armazenagem adicional de cargas (contêineres) nas instalações portuárias: tr → aprovado por unanimidade, com acréscimos sugeridos pelo Diretor-Geral
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=296s)
+- **RD 560 (2024-03-25)**, 14 · relator **Lima Filho** · Embargos de declaração do Cecafé contra o Acórdão 450/2023 (cobrança de Inconsistency/Incorrect Surcharge - ISC limitada ao valor da carga); retorno d → embargos conhecidos e rejeitados por maioria (4x1), nos termos do voto da revisora com acr
+  - votos: Lima: vencido; Flávia: revisor_acompanha; Alber: outro; Caio: outro; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=9755s)
+- **RD 560 (2024-03-25)**, 16 · relator **Eduardo Nery** · Revisão da agenda regulatória 2022-2024: separação dos itens 2.5 (adequação da RN 1/2015 à Lei 14.301/2022 - BR do Mar, sem AIR) e 2.8 (critérios de a → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=11293s)
+- **RD 560 (2024-03-25)**, 22 · relator **Eduardo Nery** · Denúncia com pedido cautelar por falta de serviço adequado de cabotagem para escoamento do arroz (Rio Grande, Imbituba até Suape e outros portos) → aprovado por unanimidade: denúncia arquivada e criada comissão
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=12279s)
+- **RD 560 (2024-03-25)**, 26 · relator **Flávia Takafashi** · Revisão do Guia de Regulação de Preços da Navegação Interior (travessias), em cumprimento aos Acórdãos 475/2021 e 649/2022 → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=14263s)
+- **RD 560 (2024-03-25)**, 28 · relator **Flávia Takafashi** · Consulta sobre operação de longo curso por embarcações afretadas a casco nu sem lastro (registro REB) e negativa de CTS pela autoridade marítima → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=15166s)
+- **RD 560 (2024-03-25)**, 30 · relator **Flávia Takafashi** · Renúncia ao registro de terminal hidroviário de cargas e passageiros em Terra Santa/PA (julgamento em bloco dos itens 30 e 31) → aprovado por unanimidade: pedido sobrestado
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=15510s)
+- **RD 560 (2024-03-25)**, 31 · relator **Flávia Takafashi** · Renúncia ao registro de terminal hidroviário de cargas e passageiros em Almeirim/PA (julgamento em bloco dos itens 30 e 31) → aprovado por unanimidade: pedido sobrestado
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=15510s)
+- **RD 560 (2024-03-25)**, 38 · relator **Flávia Takafashi** · Embargos de declaração contra o Acórdão 434/2023 (eólicas offshore): excluir embarcações de engenharia da exceção ao apoio marítimo → embargos acolhidos com efeitos infringentes, por maioria (4x1); Diretor-Geral vencido
+  - votos: Flávia: relator; Lima: acompanha; Eduardo: vencido; Caio: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=17011s)
+- **RD 560 (2024-03-25)**, 48 · relator **Lima Filho** · Denúncias com pedido cautelar contra cobrança de sobre-estadia (demurrage) de contêineres por ineficiência dos depots de devolução na região Sul; julg → cautelares indeferidas, denúncias conhecidas, por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=19269s)
+- **RD 560 (2024-03-25)**, 49 · relator **Lima Filho** · Denúncias com pedido cautelar contra cobrança de sobre-estadia (demurrage) de contêineres por ineficiência dos depots de devolução na região Sul; julg → cautelares indeferidas, denúncias conhecidas, por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=19269s)
+- **RD 560 (2024-03-25)**, 50 · relator **Lima Filho** · Denúncias com pedido cautelar contra cobrança de sobre-estadia (demurrage) de contêineres por ineficiência dos depots de devolução na região Sul; julg → cautelares indeferidas, denúncias conhecidas, por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=19269s)
+- **RD 560 (2024-03-25)**, 51 · relator **Lima Filho** · Denúncias com pedido cautelar contra cobrança de sobre-estadia (demurrage) de contêineres por ineficiência dos depots de devolução na região Sul; julg → cautelares indeferidas, denúncias conhecidas, por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=19269s)
+- **RD 560 (2024-03-25)**, 52 · relator **Lima Filho** · Denúncias com pedido cautelar contra cobrança de sobre-estadia (demurrage) de contêineres por ineficiência dos depots de devolução na região Sul; julg → cautelares indeferidas, denúncias conhecidas, por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=19269s)
+- **RD 560 (2024-03-25)**, 53 · relator **Lima Filho** · Denúncias com pedido cautelar contra cobrança de sobre-estadia (demurrage) de contêineres por ineficiência dos depots de devolução na região Sul; julg → cautelares indeferidas, denúncias conhecidas, por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=19269s)
+- **RD 560 (2024-03-25)**, 55 · relator **Lima Filho** · Pedido de TAC e desinterdição de instalação de apoio ao transporte aquaviário interditada (Acórdão 195; multa de ~R$ 81,6 mil) → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=20133s)
+- **RD 560 (2024-03-25)**, 56 · relator **Lima Filho** · Abertura de audiência e consulta públicas (90 dias, sessão presencial em Manaus) da seleção pública de empresas de travessia de veículos e passageiros → aprovado por unanimidade (data de início depois corrigida para 21/03/2024)
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=20409s)
+- **RD 560 (2024-03-25)**, 58 · relator **Alber Vasconcelos** · Inclusão na frota da EBN da embarcação Goiânia, de propriedade da APS, detida por termo de permissão de uso (TPU) → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=21681s)
+- **RD 560 (2024-03-25)**, 66 · relator **Alber Vasconcelos** · Pedido de excepcionalidade para outorga de EBN de cabotagem (ro-ro de veículos) com compromisso de integralizar o patrimônio líquido mínimo de R$ 6 mi → pedido de vista de Flávia Takafashi; julgamento suspenso
+  - votos: Alber: relator; Flávia: vista; Lima: outro · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=22927s)
+- **RD 560 (2024-03-25)**, 67 · relator **Alber Vasconcelos** · EVTEA da concessão da hidrovia Brasil-Uruguai (Lagoa Mirim - Canal de São Gonçalo, 140 km): recomendações de aperfeiçoamento antes da audiência públic → aprovado por unanimidade, com ajuste do DG (estudos voltam ao relator antes da audiência p
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=23359s)
+- **RD 560 (2024-03-25)**, 69 · relator **Alber Vasconcelos** · Processo sancionador: não localização da empresa/sem resposta à fiscalização e ausência de embarcação na frota → aprovado (Lima Filho já ausente)
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=26272s)
+- **RD 560 (2024-03-25)**, 70 · relator **Caio Farias** · Registro de instalação de apoio ao transporte aquaviário (carga geral) → aprovado (Lima Filho já ausente)
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=26628s)
+- **RD 562 (2024-04-24)**, 1 · relator **Flávia Takafashi** · Outorga de autorização para operar como EBN no transporte de passageiros e veículos na travessia Itaituba–Miritituba (BR-230, rio Tapajós, PA); compet → aprovado por maioria (3x2) o voto da relatora: indeferida a outorga por ausência de compet
+  - votos: Flávia: relator; Lima: vista; Caio: acompanha; Alber: acompanha; Eduardo: vencido · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=58s)
+- **RD 562 (2024-04-24)**, 3 · relator **Lima Filho** · Mérito da denúncia sobre cobrança de detention (sobre-estadia de contêineres na exportação) após adiamentos do embarque por alteração da ETA pelo arma → votação suspensa: pedido de vista de Flávia Takafashi após o voto do relator
+  - votos: Lima: relator; Flávia: vista; Eduardo: outro; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=5298s)
+- **RD 562 (2024-04-24)**, 4 · relator **Caio Farias** · Recurso de reconsideração contra o Acórdão 508/2022 (alterado pelo 624/2022): multa de R$ 55 mil por exigir de importadores manifesto de produtos peri → aprovado: recurso provido, processo sancionador declarado extinto
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=6431s)
+- **RD 562 (2024-04-24)**, 9 · relator **Caio Farias** · Referendo da Deliberação DG 23/2024: cautelar parcialmente deferida em denúncia sobre recusa de depot em receber contêineres vazios (Santa Catarina);  → aprovado (referendado)
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=9004s)
+- **RD 562 (2024-04-24)**, 10 · relator **Alber Vasconcelos** · Retomada após vista (RD 560): consulta para afastar o requisito de patrimônio líquido de R$ 6 milhões (RN 5/2016, art. 9º) para outorga de EBN de cabo → aprovado por maioria (4x1) o voto-vista da revisora Flávia Takafashi; relator Alber Vascon
+  - votos: Alber: vencido; Flávia: revisor_acompanha; Caio: revisor_acompanha; Lima: revisor_acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=9296s)
+- **RD 562 (2024-04-24)**, 12 · relator **Flávia Takafashi** · Recurso hierárquico impróprio contra o Acórdão 541/2023 que deferiu outorga de cabotagem à Norcoast com base em afretamento a casco nu (Lei 14.301/202 → aprovado: recurso não conhecido
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=12189s)
+- **RD 562 (2024-04-24)**, 14 · relator **Flávia Takafashi** · Aprovação da pesquisa de satisfação dos usuários da navegação longitudinal de passageiros e misto (item da agenda de estudos 2021–2024) → aprovado com acréscimos (envio à Marinha, ao MPor, aos estados e à SFC para planejamento d
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=12587s)
+- **RD 562 (2024-04-24)**, 19 · relator **Lima Filho** · Agenda regulatória 2022–2024, tema 2.2 (flexibilização de regras de afretamento: compartilhamento de embarcação afretada e cessão de tonelagem entre E → aprovado (aprovação implícita; não houve votação explícita na legenda)
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=15488s)
+- **RD 562 (2024-04-24)**, 27 · relator **Alber Vasconcelos** · Afretamento por tempo de navio estrangeiro (Galway?) por 60 dias em substituição ao Monte Sarmiento, avariado por incêndio → aprovado
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=19659s)
+- **RD 562 (2024-04-24)**, 30 · relator **Alber Vasconcelos** · Consulta sobre compartilhamento de frota entre duas EBN de apoio portuário do mesmo grupo econômico → aprovado
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=20525s)
+- **RD 562 (2024-04-24)**, 33 · relator **Alber Vasconcelos** · Recurso de revisão contra o Acórdão 388/2023: multa de R$ 12.705 por paralisação da operação comercial na navegação de apoio portuário (fev–out/2020) → aprovado: recurso negado
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=20970s)
+- **RD 562 (2024-04-24)**, 34 · relator **Alber Vasconcelos** · Obrigação de fazer após a Deliberação SFC 12/2023: cobrança individualizada de passageiros em veículos coletivos nas travessias → aprovado
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=21187s)
+- **RD 564 (2024-05-29)**, 21 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 120/2023 (arquivamento da proposta de metodologia de abusividade na cobrança de sobre-estadia de contêinere → aprovado por unanimidade (recurso desprovido, com determinações)
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=6608s)
+- **RD 564 (2024-05-29)**, 22 · relator **Lima Filho** · Denúncia com pedido de cautelar sobre cobrança de sobre-estadia de contêineres por atrasos sucessivos do navio (alterações de gates e deadlines) → aprovado por unanimidade (cautelar parcialmente deferida)
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=8144s)
+- **RD 564 (2024-05-29)**, 23 · relator **Lima Filho** · Consulta sobre necessidade de contratar EBN de apoio portuário para a varredura do canal de Cotunduba nas manobras noturnas no porto do Rio de Janeiro → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=8577s)
+- **RD 564 (2024-05-29)**, 30 · relator **Alber Vasconcelos** · Inclusão do perfil de granel sólido (soja, milho e fertilizantes; ~1,5 Mt/ano) no TUP de Santarém, com barcaças pelo Tapajós até Miritituba; processo  → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=10481s)
+- **RD 564 (2024-05-29)**, 34 · relator **Alber Vasconcelos** · Consulta: embarcação que recebe combustível em um porto e abastece navios em outro complexo portuário faz cabotagem ou apoio portuário? → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=11167s)
+- **RD 564 (2024-05-29)**, 35 · relator **Alber Vasconcelos** · Consulta sobre registro de afretamento por viagem e ressarcimento do AFRMM → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=11822s)
+- **RD 564 (2024-05-29)**, 40 · relator **Caio Farias** · Reajuste de preços da travessia (pedido médio de ~11%) → aprovado por unanimidade (reajuste linear de 20%)
+  - votos: Caio: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=13983s)
+- **RD 566 (2024-07-17)**, 34 · relator **Caio Farias** · Outorga de autorização para operar como EBN na cabotagem com suporte em afretamento a casco nu de embarcação estrangeira (BW, Singapura) com suspensão → aprovado (sem divergência registrada)
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=12022s)
+- **RD 566 (2024-07-17)**, 6 · relator **Eduardo Nery** · Retorno de vista (Alber Vasconcelos): encaminhamento de acórdão sobre a indisponibilidade do seguro obrigatório DPEM; nova seguradora passou a oferece → aprovado (relator ajustou o voto acatando sugestões do revisor)
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: revisor_acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=13327s)
+- **RD 566 (2024-07-17)**, 11 · relator **Flávia Takafashi** · Autorização para construir e explorar estação de transbordo de cargas (granéis sólidos agrícolas, soja e milho; 5 milhões t/ano; investimento de 221 m → aprovado
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=13701s)
+- **RD 566 (2024-07-17)**, 37 · relator **Lima Filho** · Projeto de concessão da hidrovia do Rio Madeira (primeira concessão hidroviária do país): envio ao MPor e abertura posterior de audiência e consulta p → aprovado
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=16321s)
+- **RD 566 (2024-07-17)**, 19 · relator **Alber Vasconcelos** · Consulta sobre enquadramento regulatório de transbordo de granéis sólidos para barcaças por equipamento flutuante com instalação em terra registrada → aprovado
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=18399s)
+- **RD 566 (2024-07-17)**, 20 · relator **Alber Vasconcelos** · Proposta da SOG/SFC de revisar o Acórdão 331/2023 (Porto Madeira manter registro e Mega Logística ser autorizada pelo transbordo flutuante); itens 20  → aprovado (votados em bloco com o item 24)
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=18890s)
+- **RD 566 (2024-07-17)**, 24 · relator **Alber Vasconcelos** · Proposta da SOG/SFC de revisar o Acórdão 331/2023 (Porto Madeira manter registro e Mega Logística ser autorizada pelo transbordo flutuante); itens 20  → aprovado (votados em bloco com o item 20)
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=18890s)
+- **RD 566 (2024-07-17)**, 21 · relator **Alber Vasconcelos** · Validade de bloqueio a circularização de afretamento para transporte de GLP de Bahía Blanca (Argentina) ao TUP Terga Sul, com escala em Rio Grande só  → aprovado
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=19305s)
+- **RD 566 (2024-07-17)**, 27 · relator **Alber Vasconcelos** · Consulta: transbordo em Vila do Conde para balsas durante a estiagem amazônica descaracteriza a cabotagem? Pedido de afretamento excepcional de balsas → aprovado
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=20195s)
+- **RD 568 (2024-08-05)**, 21 · relator **Lima Filho** · Autorização para operar como EBN na navegação de cabotagem com embarcação própria (Amazon Pathfinder / Amazon Pioneer, bandeira liberiana a ser nacion → não concluído: pedido de vista de Flávia Takafashi após o voto do relator
+  - votos: Eduardo: outro; Flávia: vista; Lima: relator; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=12504s)
+- **RD 568 (2024-08-05)**, 22 · relator **Lima Filho** · Autorização para operar como EBN na navegação de cabotagem com embarcação própria (Amazon Pathfinder / Amazon Pioneer, bandeira liberiana a ser nacion → não concluído: pedido de vista de Flávia Takafashi após o voto do relator
+  - votos: Eduardo: outro; Flávia: vista; Lima: relator; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=12504s)
+- **RD 568 (2024-08-05)**, 27 · relator **Alber Vasconcelos** · Outorga de autorização como EBN na travessia de passageiros e veículos Manaus – Careiro da Várzea (BR-319), apesar da restrição à entrada de novos ope → não concluído: pedido de vista de Lima Filho após o voto do relator
+  - votos: Eduardo: outro; Flávia: outro; Lima: vista; Alber: relator; Caio: outro · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=14754s)
+- **RD 568 (2024-08-05)**, 29 · relator **Alber Vasconcelos** · Consulta sobre o tipo de navegação do transporte de técnico a bordo de navio porta-contêiner a 76 milhas do porto do Mucuripe → aprovado
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=16039s)
+- **RD 568 (2024-08-05)**, 34 · relator **Caio Farias** · Pedido de supressão da limitação do registro (abastecimento só de postos flutuantes) para permitir transbordo de combustível a embarcações que abastec → aprovado: supressão indeferida; autorização especial de 180 dias concedida
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=18344s)
+- **RD 570 (2024-08-30)**, 40 · relator **Alber Vasconcelos** · Referendo da Deliberação DG 72/2024, que indeferiu cautelar sobre prioridade de atracação de porta-contêineres no berço 401 do porto de Vila do Conde  → aprovado (referendado o indeferimento da cautelar)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=7463s)
+- **RD 570 (2024-08-30)**, 5 · relator **Caio Farias** · Referendo da Deliberação DG 68/2024: afretamento por tempo de embarcação estrangeira por interesse público (art. 29 da RN 01/2015) para cabotagem de c → aprovado (referendada a Deliberação DG 68/2024)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=7792s)
+- **RD 570 (2024-08-30)**, 9 · relator **Lima Filho** · Autorização para operar como empresa brasileira de navegação (EBN) na cabotagem (RN 05/2016), outorga condicionada; voto-vista de Flávia Takafashi (ju → aprovado por unanimidade (em bloco com o item 10)
+  - votos: Flávia: revisor_acompanha; Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=8760s)
+- **RD 570 (2024-08-30)**, 10 · relator **Lima Filho** · Autorização para operar como empresa brasileira de navegação (EBN) na cabotagem (RN 05/2016), outorga condicionada; voto-vista de Flávia Takafashi (ju → aprovado por unanimidade (em bloco com o item 9)
+  - votos: Flávia: revisor_acompanha; Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=8760s)
+- **RD 570 (2024-08-30)**, 18 · relator **Flávia Takafashi** · Revisão da Resolução Normativa 01/2015 (afretamento de embarcações por EBN no apoio portuário, apoio marítimo, cabotagem e longo curso) para incorpora → aprovado
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=10204s)
+- **RD 570 (2024-08-30)**, 19 · relator **Flávia Takafashi** · Denúncia com pedido de cautelar por extravio de contêiner (embarcado em London Gateway com destino ao Rio de Janeiro e descarregado em Veracruz, Méxic → aprovado com ajustes de Eduardo Nery — denúncia admitida; cautelar indeferida; Vanguarda i
+  - votos: Flávia: relator; Eduardo: acompanha; Alber: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=11054s)
+- **RD 570 (2024-08-30)**, 39 · relator **Lima Filho** · Afretamento por tempo de embarcação estrangeira por interesse público na cabotagem durante a seca na região Norte, limitado a 150 dias, com circulariz → aprovado
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=15496s)
+- **RD 570 (2024-08-30)**, 31 · relator **Alber Vasconcelos** · Pesquisa de caracterização dos pontos de atracação de travessia (agenda plurianual de estudos 2021–2024) → aprovado
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=15871s)
+- **RD 570 (2024-08-30)**, 32 · relator **Alber Vasconcelos** · Terceiro pedido de medida cautelar sobre cobrança de 9.732 euros de armazenagem/demurrage em Roterdã → aprovado — cautelar conhecida e indeferida (serviço prestado no exterior, fora da jurisdiç
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=16242s)
+- **RD 570 (2024-08-30)**, 34 · relator **Alber Vasconcelos** · Denúncia com pedido de cautelar contra cobranças de no show/cancellation fee → aprovado — cautelar indeferida; SFC apura o mérito em processo apartado
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=16988s)
+- **RD 570 (2024-08-30)**, 35 · relator **Alber Vasconcelos** · Registro de instalação de apoio ao transporte aquaviário (RN 13, art. 2º, V) com relatórios mensais de movimentação por 24 meses → aprovado
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=17215s)
+- **RD 570 (2024-08-30)**, 36 · relator **Alber Vasconcelos** · Extinção por cassação da autorização de EBN na cabotagem (TA 1568/2018) por falta de embarcação na frota → aprovado — autorização extinta por cassação
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=17560s)
+- **RD 572 (2024-10-04)**, 29 · relator **Caio Farias** · Homologação de acordo em mediação sobre cobrança de tarifas de infraestrutura terrestre para passageiros (cruzeiros) no Porto de Salvador → aprovado (homologado)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=11442s)
+- **RD 572 (2024-10-04)**, 3 · relator **Flávia Takafashi** · Referendo de deliberação DG (legenda '72024'): afretamento por espaço de balsas, barcaças e empurradores por empresas de cabotagem para trechos de nav → aprovado (referendado)
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=12085s)
+- **RD 572 (2024-10-04)**, 4 · relator **Lima Filho** · Referendo da deliberação DG 75/2024: medida cautelar suspendendo norma da APS que condiciona acesso e atracação à apresentação de atestado de conformi → aprovado (referendado); fixado como padrão incluir oitiva de 15 dias nas deliberações caut
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=12241s)
+- **RD 572 (2024-10-04)**, 16 · relator **Flávia Takafashi** · Consulta sobre contratação de ship manager (terceirização da gestão náutica) por EBN para embarcações próprias de navegação interior no transporte flu → aprovado
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=18641s)
+- **RD 572 (2024-10-04)**, 24 · relator **Alber Vasconcelos** · Autorização de contrato de uso temporário de área de 3.216 m² (armazém lonado, fertilizantes) no porto organizado de Porto Velho → aprovado (sem manifestações)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=22803s)
+- **RD 572 (2024-10-04)**, 25 · relator **Alber Vasconcelos** · Processo sancionador por passivo a descoberto (requisito econômico-financeiro da RN 5/2016) e minuta de TAC → aprovado por unanimidade (auto de infração declarado insubsistente)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=23111s)
+- **RD 574 (2024-10-25)**, 5 · relator **Alber Vasconcelos** · Referendo da Deliberação DG 91/2024: autorização emergencial (180 dias) para a empresa operar como EBN na travessia de passageiros e veículos Manaus–C → referendado, por unanimidade, com a determinação de criar comitê permanente coordenado pel
+  - votos: Alber: relator; Eduardo: acompanha; Lima: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=3098s)
+- **RD 574 (2024-10-25)**, 5-vista · relator **Alber Vasconcelos** · Pedido de vista (Lima Filho) sobre o mérito da outorga por prazo indeterminado à mesma empresa na travessia Manaus–Careiro da Várzea (voto anterior do → processo sobrestado por 180 dias (proposta do revisor acolhida pelo relator), por unanimid
+  - votos: Lima: revisor_acompanha; Alber: revisor_acompanha; Eduardo: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=4493s)
+- **RD 574 (2024-10-25)**, 7 · relator **Caio Farias** · Referendo da Deliberação DG 85/2024: autorização emergencial (180 dias) para instalar e operar flutuantes, rampa e píer no TUP Bertolini Santarém, dia → referendado, por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=5383s)
+- **RD 574 (2024-10-25)**, 16 · relator **Flávia Takafashi** · Consulta: enquadramento de transporte de petróleo de plataforma para o exterior com parada para complementar carga em instalação portuária (sem descar → aprovado por unanimidade: operação ship to ship em regime de longo curso
+  - votos: Flávia: relator; Alber: acompanha; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=14178s)
+- **RD 574 (2024-10-25)**, 20 · relator **Lima Filho** · Pedido de cessão onerosa de tonelagem entre EBNs de apoio marítimo sem afretamento a casco nu das embarcações → indeferido, por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=15908s)
+- **RD 574 (2024-10-25)**, 21 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 258/2024, que negou outorga de travessia Itaituba–Miritituba (BR-230, rio Tapajós) por falta de competência → recurso conhecido e não provido por maioria (3 a 2), nos termos da divergência de Caio Far
+  - votos: Lima: relator; Caio: outro; Alber: acompanha; Flávia: acompanha; Eduardo: vencido · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=16311s)
+- **RD 574 (2024-10-25)**, 24 · relator **Lima Filho** · Prioridade de embarque nas balsas da BR-319 para ônibus do transporte coletivo regular de passageiros (atrasos de até 6 horas) → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=18770s)
+- **RD 574 (2024-10-25)**, 26 · relator **Lima Filho** · Relatório final do projeto P19 – perfil dos usuários do transporte hidroviário de passageiros na navegação interior (agenda plurianual de estudos 2021 → aprovado por unanimidade
+  - votos: Lima: relator; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=19506s)
+- **RD 574 (2024-10-25)**, 28 · relator **Alber Vasconcelos** · Relatório técnico 13/2023 da fiscalização temática sobre contratos de afretamento no sistema SAMA (OS 2/2023, Acórdão 374/2023) → aprovado por unanimidade
+  - votos: Alber: relator; Lima: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=20127s)
+- **RD 576 (2024-11-22)**, 1 · relator **Lima Filho** · Processo sancionador: auto de infração 006343-6 (UR São Luís) por cobrança indevida de sobre-estadia (detention) de contêiner ao exportador após suspe → aprovado por unanimidade — auto de infração subsistente; multa mantida
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=40s)
+- **RD 576 (2024-11-22)**, 5 · relator **Lima Filho** · Consulta sobre uso da tonelagem de barcaças de apoio marítimo para afretar a casco nu, com suspensão de bandeira, embarcações estrangeiras tipo UMS/fl → vista renovada; julgamento adiado para a próxima reunião presencial (12/12), em conjunto c
+  - votos: Lima: relator; Flávia: vista; Eduardo: outro; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=937s)
+- **RD 576 (2024-11-22)**, 2 · relator **Caio Farias** · Referendo da Deliberação DG 101/2024: denúncia com cautelar contra cobrança de detention e cancellation fee após falta de janela de atracação no porto → aprovado por unanimidade — referendada
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=2202s)
+- **RD 576 (2024-11-22)**, 11 · relator **Lima Filho** · Recurso hierárquico contra a Deliberação 65/2022 que manteve auto de infração por patrimônio líquido negativo em 2020 (art. 9º e 11 da RN 5/2016) → aprovado por unanimidade — recurso provido; auto de infração insubsistente
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=3379s)
+- **RD 576 (2024-11-22)**, 14 · relator **Lima Filho** · Retificação da Resolução ANTAQ 119/2024 (acordos operacionais entre EBN e estrangeiras) para incluir revogação expressa da Resolução 194/2004 (número  → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=4436s)
+- **RD 576 (2024-11-22)**, 17 · relator **Lima Filho** · Avaliação de Resultado Regulatório (ARR) da Resolução ANTAQ 62/2021 (direitos e deveres de usuários, intermediários e transportadores marítimos; sobre → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=5065s)
+- **RD 576 (2024-11-22)**, 23 · relator **Alber Vasconcelos** · Consulta: empresa que terceiriza transporte aquaviário a EBN precisa de outorga de EBN? → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=6943s)
+- **RD 576 (2024-11-22)**, 25 · relator **Alber Vasconcelos** · Pedido de isenção de tarifa para veículos oficiais do DNIT em serviço na travessia Manaus–Careiro → aprovado por unanimidade — isenção determinada (contra o parecer da área técnica)
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=8033s)
+- **RD 578 (2024-12-19)**, 12 · relator **Eduardo Nery** · Instrução normativa com a metodologia de contabilização da tonelagem no atestado de tonelagem para afretamento e inscrição no Registro Especial Brasil → aprovado por maioria (3 x 2) o voto divergente de Alber Vasconcelos (proposta da SRG); ven
+  - votos: Eduardo: vencido; Alber: outro; Caio: acompanha; Lima: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=7809s)
+- **RD 578 (2024-12-19)**, 7 · relator **Lima Filho** · Consulta sobre o cálculo de tonelagem para inscrição no REB (ligada ao item 12); vista da diretora Flávia desde a RD 570 → vista renovada (deve voltar na próxima reunião presencial)
+  - votos: Flávia: outro; Lima: relator; Eduardo: outro; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=10080s)
+- **RD 578 (2024-12-19)**, 10 · relator **Eduardo Nery** · Desdobramentos da volta da obrigatoriedade do seguro DPEM (Acórdão 383/2024) para empresas autorizadas no transporte de passageiros e veículos (traves → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=10207s)
+- **RD 578 (2024-12-19)**, 40 · relator **Alber Vasconcelos** · Outorga de empresa brasileira de navegação no apoio portuário, só com embarcações de até 2.000 HP → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=18195s)
+- **RD 578 (2024-12-19)**, 44 · relator **Alber Vasconcelos** · Estruturação da concessão da hidrovia do Rio Paraguai (tramo Sul, cerca de 600 km entre Corumbá e a foz do Apa/Porto Murtinho, e canal do Tamengo): 15 → aprovado por unanimidade (autos enviados ao MPor para atestar a aderência à política públi
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=18842s)
+- **RD 578 (2024-12-19)**, 52 · relator **Caio Farias** · Relatório final do estudo de demanda de transporte aquaviário de cargas em TKU (tonelada-quilômetro útil) de 2023 — projeto P36 da agenda de estudos → aprovado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=22339s)
+- **RD 579 (2025-02-13)**, 2 · relator **Lima Filho** · Referendo da Deliberação-DG 225 (DOU de 14/01/2025): medida cautelar contra bloqueio de embarques por cobrança contestada de sobre-estadia de contêine → aprovado por unanimidade (referendo)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=4869s)
+- **RD 579 (2025-02-13)**, 10 · relator **Lima Filho** · Consulta sobre a utilização de tonelagem para fins de inscrição no REB (Registro Especial Brasileiro); vista de Flávia Takafashi desde a RD 570 → vista prorrogada novamente
+  - votos: Flávia: outro · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=6365s)
+- **RD 579 (2025-02-13)**, 34 · relator **Lima Filho** · Reajuste tarifário de 11,49% no transporte de passageiros na navegação interior, rota Macapá–Santarém (de R$ 470 para R$ 524 no trecho mais longo) → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=9074s)
+- **RD 579 (2025-02-13)**, 22 · relator **Flávia Takafashi** · Autorização como EBN na navegação de apoio marítimo com embarcação autônoma/controlada remotamente (potência até 2.000 HP) para inspeções offshore → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=11581s)
+- **RD 579 (2025-02-13)**, 24 · relator **Flávia Takafashi** · Outorga de autorização como EBN na navegação de cabotagem (óleo bruto, derivados, granéis) com embarcação afretada a casco nu de bandeira uruguaia (Le → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=11848s)
+- **RD 579 (2025-02-13)**, 37 · relator **Alber Vasconcelos** · Contrato de adesão para TUP (terminal fluvial de Cáceres-MT) para granéis sólidos (grãos, fertilizantes), reativando antigo terminal; cerca de 400 mil → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=15035s)
+- **RD 579 (2025-02-13)**, 48 · relator **Alber Vasconcelos** · Cumprimento dos itens 5.4 e 5.5 do Acórdão 371/2023 (competência da ANTAQ x Estados na navegação interior intermunicipal e de fronteira): revogação do → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=18721s)
+- **RD 579 (2025-02-13)**, 53 · relator **Caio Farias** · Registro de instalação de apoio ao transporte aquaviário (flutuante 'Pontão', venda de combustíveis) no rio Solimões, Manacapuru-AM (município incerto → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=21171s)
+- **RD 579 (2025-02-13)**, 54 · relator **Caio Farias** · Contrato de adesão para Estação de Transbordo de Cargas (ETC) em Itaituba-PA (granel sólido/fertilizantes; cerca de R$ 78 milhões; 2 milhões t/ano) → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=21364s)
+- **RD 579 (2025-02-13)**, 55 · relator **Caio Farias** · Registro de instalação de apoio (Terminal Ajato, Manaus Moderna, Rio Negro) para embarque/desembarque de passageiros e cargas → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=22207s)
+- **RD 582 (2025-03-17)**, 1 · relator **Lima Filho** · Recurso hierárquico contra análise de bloqueio oposto pela CBO (6 AHTS nacionais: Cabral, Parintins, Bossa Nova, Iguaçu, Xavante, Terra Brasilis, Vale → aprovado nos termos do voto do relator, com a contribuição de Alber Vasconcelos (manual el
+  - votos: Lima: relator; Alber: acompanha; Caio: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=206s)
+- **RD 582 (2025-03-17)**, 2 · relator **Lima Filho** · Pedido de revisão (recurso hierárquico) de bloqueio oposto pela Wilson Sons com os PSV Saveiros Atobá e Mandrião à circularização 134/2022 da Petrobra → aprovado nos termos do voto do relator, com a contribuição de Alber Vasconcelos (acompanha
+  - votos: Lima: relator; Alber: acompanha; Caio: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=2332s)
+- **RD 582 (2025-03-17)**, 3 (referendo) · relator **Caio Farias** · Referendo da Deliberação DG 17/2025 (27/02/2025): não conhecimento do recurso de reconsideração da Intercosta contra o Acórdão 781/2024 (IN 1/2024, me → referendado (aprovado sem divergência)
+  - votos: Caio: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=4295s)
+- **RD 582 (2025-03-17)**, 8 · relator **Lima Filho** · Consulta sobre utilização de tonelagem para fins de inscrição no REB (vista de Flávia Takafashi desde a RD 570) → vista de Flávia Takafashi renovada novamente (aprovada pela diretoria)
+  - votos: Flávia: vista; Lima: relator; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=5120s)
+- **RD 582 (2025-03-17)**, 18 · relator **Flávia Takafashi** · Análise das contribuições da audiência pública 11/2024 sobre o aprimoramento da Resolução Normativa 1/2015 (afretamento) → pedido de vista de Lima Filho deferido
+  - votos: Lima: vista; Caio: outro; Flávia: outro; Alber: outro · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=9772s)
+- **RD 582 (2025-03-17)**, 19 · relator **Flávia Takafashi** · Consulta sobre alteração normativa para dispensar ou flexibilizar a circularização no afretamento de embarcações estrangeiras em emergências ambientai → aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=9807s)
+- **RD 582 (2025-03-17)**, 20 · relator **Flávia Takafashi** · Consulta da SOG sobre o alcance do Acórdão 258/2024 (ausência de competência da ANTAQ na travessia Itaituba–Miritituba após transferência de trecho da → aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Lima: vencido; Caio: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=10477s)
+- **RD 582 (2025-03-17)**, 23 · relator **Flávia Takafashi** · Estudo P14 da Agenda Plurianual de Estudos 2021–2024: acompanhamento dos custos de embarcações nacionais e estrangeiras afretadas no apoio marítimo → aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=11554s)
+- **RD 582 (2025-03-17)**, 33 · relator **Flávia Takafashi** · Programa de fiscalizações temáticas 2024: qualidade do serviço de transporte longitudinal de passageiros (pesquisa com usuários em 63 empresas) → aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=12135s)
+- **RD 584 (2025-04-10)**, 2 · relator **Lima Filho** · Consulta sobre utilização de tonelagem para fins de inscrição de embarcações no REB; vista de Flávia Takafashi desde a RD 570, prorrogada várias vezes → vista de Flávia Takafashi renovada novamente
+  - votos: Flávia: vista; Lima: relator; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=1206s)
+- **RD 584 (2025-04-10)**, 3 · relator **Flávia Takafashi** · Análise das contribuições da audiência pública 11/2024 sobre o aprimoramento da Resolução Normativa 1/2015 (afretamento); vista de Lima Filho desde a  → vista de Lima Filho renovada
+  - votos: Lima: vista; Flávia: relator; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=1264s)
+- **RD 584 (2025-04-10)**, 9 · relator **Flávia Takafashi** · Correspondência com preocupações sobre procedimentos de outorga de autorização na navegação de cabotagem → retirado de pauta pela relatora
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=1909s)
+- **RD 584 (2025-04-10)**, 11 · relator **Flávia Takafashi** · Requerimento de apuração de conformidade de embarcações das frotas de EBN autorizadas na cabotagem → retirado de pauta pela relatora
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=2894s)
+- **RD 584 (2025-04-10)**, 19 · relator **Alber Vasconcelos** · Pedido de medida administrativa cautelar por suposta retenção ilegal de carga (contêineres não embarcados por alegada inadimplência) → aprovado nos termos do voto do relator (perda de objeto)
+  - votos: Alber: relator; Caio: acompanha; Flávia: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=7690s)
+- **RD 584 (2025-04-10)**, 21 · relator **Alber Vasconcelos** · Autorização para operar como EBN na travessia de passageiros e veículos entre Manaus e Careiro da Várzea (diretriz da BR-319), convertendo autorização → aprovado nos termos do voto do relator, contra o parecer da área técnica
+  - votos: Alber: relator; Lima: acompanha; Caio: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=7921s)
+- **RD 586 (2025-05-19)**, 5 · relator **Lima Filho** · Referendo da Deliberação DG 33/2025: autorização emergencial (até 180 dias) para movimentação e armazenagem de granéis sólidos no TUP da empresa, para → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=800s)
+- **RD 586 (2025-05-19)**, 7 · relator **Lima Filho** · Consulta sobre uso de tonelagem para fins de inscrição/afretamento de embarcações (legenda: 'UMS no Rio') — renovação do pedido de vista da revisora F → renovação de vista aprovada (julgamento adiado)
+  - votos: Flávia: vista; Lima: acompanha; Caio: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=2394s)
+- **RD 586 (2025-05-19)**, 8 · relator **Flávia Takafashi** · Análise das contribuições da Audiência Pública 11/2024 sobre o aprimoramento da Resolução Normativa ANTAQ 1/2015 — renovação do pedido de vista do rev → renovação de vista aprovada (julgamento adiado)
+  - votos: Lima: vista; Flávia: acompanha; Caio: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=2455s)
+- **RD 586 (2025-05-19)**, 16 · relator **Flávia Takafashi** · Pedido de ofício atestando conformidade normativa do afretamento a casco nu, sem lastro, dos navios CMA CGM Veracruz e CMA CGM Santos (REB) para a nav → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=5914s)
+- **RD 586 (2025-05-19)**, 31 · relator **Lima Filho** · Denúncia com cautelar por práticas comerciais discriminatórias: recusa de transporte ao consignatário por débito de sobre-estadia de contêineres em di → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=10014s)
+- **RD 586 (2025-05-19)**, 48 · relator **Alber Vasconcelos** · Pedido de solução de conflito (Res. 98/2023 e 62/2021) por desembarque em destino diferente do previsto, com custo adicional de cerca de R$ 80 mil ao  → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=15452s)
+- **RD 588 (2025-06-05)**, 13 · relator **Caio Farias** · Autorização especial e de emergência (art. 49 da Lei 10.233/2001; art. 31 da Res. ANTAQ 71/2022) por 180 dias para movimentação e armazenagem de grané → aprovado por unanimidade
+  - votos: Caio: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=1045s)
+- **RD 588 (2025-06-05)**, 18 · relator **Flávia Takafashi** · Fiscalização temática: verificação de inconformidade dos contratos de afretamento inseridos no SAMA (autorizações de 2023; amostra de cabotagem, apoio → aprovado por unanimidade, com acréscimo de Alber Vasconcelos
+  - votos: Flávia: relator; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=2223s)
+- **RD 588 (2025-06-05)**, 25 · relator **Alber Vasconcelos** · Autorização especial e de emergência (art. 49 da Lei 10.233) para operação teste no terminal de transbordo rodofluvial de grãos em Marabá (PA), rio To → aprovado por unanimidade
+  - votos: Alber: relator; Caio: acompanha; Flávia: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=3608s)
+- **RD 588 (2025-06-05)**, 6 · relator **Caio Farias** · Referendo da Deliberação DG 45/2025: inclusão do tema contabilização de TPB para afretamento no REB (ênfase no apoio marítimo) na agenda regulatória 2 → aprovado por unanimidade (referendo)
+  - votos: Caio: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=10285s)
+- **RD 588 (2025-06-05)**, 9 · relator **Lima Filho** · Consulta (voto-vista/revisão): uso da tonelagem de barcaças do apoio marítimo como lastro para afretamento a casco nu com suspensão de bandeira de UMS → aprovado o voto da revisora Flávia Takafashi por maioria; vencido o relator Lima Filho
+  - votos: Lima: vencido; Flávia: revisor_diverge; Alber: revisor_acompanha; Caio: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=10932s)
+- **RD 588 (2025-06-05)**, 11 · relator **Flávia Takafashi** · Análise das contribuições da audiência pública 11/2024 e aprovação da revisão parcial da RN ANTAQ 1/2015 (afretamento por EBN) para adequação à Lei 14 → aprovado por unanimidade
+  - votos: Flávia: relator; Lima: revisor_acompanha; Caio: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=12396s)
+- **RD 588 (2025-06-05)**, 21 · relator **Lima Filho** · Admissibilidade de recurso contra a Deliberação PAS 111/2023 (multa de R$ 96.250 por explorar instalação portuária sem registro, RN 13/2016) e propost → aprovado por unanimidade
+  - votos: Lima: relator; Caio: acompanha; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=15291s)
+- **RD 33 (extraordinária) (2025-06-26)**, 1 · relator **Alber Vasconcelos** · Plano de Outorga Específico (POE) da concessão da hidrovia do rio Paraguai (tramo sul, Corumbá–foz do rio Apa/Porto Murtinho, cerca de 600 km, com can → aprovado por unanimidade nos termos do voto do relator
+  - votos: Alber: relator; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=7q682yKzyNY&t=91s)
+- **RD 591 (2025-08-08)**, 39 · relator **Alber Vasconcelos** · Referendo da Deliberação DG 58/2025: prorrogação por 180 dias do prazo de vigência do TAC 7/2024 (acompanhamento pela Gerência Regional de Belém) → aprovado (referendado) por unanimidade
+  - votos: Alber: relator; Caio: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=OQ9m51EIHJc&t=1958s)
+- **RD 591 (2025-08-08)**, 18 · relator **Flávia Takafashi** · Pedido de flexibilização da regra de contabilização de tonelagem de lastro (embarcações típicas/atípicas, NT 23/2019) para afretamento a casco nu de e → aprovado por unanimidade (pedido negado)
+  - votos: Flávia: relator; Caio: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=OQ9m51EIHJc&t=5258s)
+- **RD 591 (2025-08-08)**, 20 · relator **Flávia Takafashi** · Diagnóstico sobre os problemas da cadeia logística de contêineres: sobre-estadia (demurrage/detention), falta de janelas nos terminais, depósitos de v → aprovado por unanimidade, com ajustes sugeridos na discussão (redação final lida às 3:41)
+  - votos: Flávia: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=OQ9m51EIHJc&t=5822s)
+- **RD 592 (2025-08-25)**, 30 · relator **Caio Farias** · Aprovação dos documentos e abertura do leilão de arrendamento da área RDJ07 (porto do Rio de Janeiro, apoio logístico offshore; ~56.832 m², 25 anos, m → aprovado por unanimidade; acrescida comunicação ao secretário nacional de Portos e ao mini
+  - votos: Caio: relator; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=vDo8pMKcp_Q&t=4208s)
+- **RD 592 (2025-08-25)**, 12 · relator **Flávia Takafashi** · Agenda Regulatória 2025–2028, tema 1.1: revisão e simplificação do estoque regulatório da navegação interior — submissão a consulta e audiência públic → aprovado por unanimidade
+  - votos: Flávia: relator; Caio: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=vDo8pMKcp_Q&t=4864s)
+- **RD 592 (2025-08-25)**, 23 · relator **Alber Vasconcelos** · Consulta regulatória sobre suposto novo modelo de faturamento da Maersk (taxa de câmbio própria com ajuste percentual na conversão de fretes e despesa → aprovado por unanimidade (prática irregular não configurada; arquivamento)
+  - votos: Alber: relator; Caio: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=vDo8pMKcp_Q&t=8343s)
+- **RD 594 (2025-09-11)**, 10 · relator **Flávia Takafashi** · Reclamações da ABAC sobre o procedimento de outorga de autorização na cabotagem, afretamento de embarcação estrangeira e conformidade de embarcações d → aprovado (votação simbólica)
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=moqX_srlNM0&t=2288s)
+- **RD 594 (2025-09-11)**, 13 · relator **Flávia Takafashi** · Reclamações da ABAC sobre o procedimento de outorga de autorização na cabotagem, afretamento de embarcação estrangeira e conformidade de embarcações d → aprovado (votação simbólica)
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=moqX_srlNM0&t=2288s)
+- **RD 594 (2025-09-11)**, 17 · relator **Alber Vasconcelos** · Reajuste de preços de 15,38% na linha longitudinal interestadual de transporte misto Santarém-Santana → aprovado (votação simbólica)
+  - votos: Alber: relator; Frederico: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=moqX_srlNM0&t=4456s)
+- **RD 594 (2025-09-11)**, 18 · relator **Alber Vasconcelos** · Reajuste de preços (R$ 13 para R$ 15, 15,38%) na travessia internacional Guajará-Mirim (BR) / Guayaramerín (BO) no rio Mamoré; itens 18 a 21 em bloco → aprovado (votação simbólica)
+  - votos: Alber: relator; Frederico: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=moqX_srlNM0&t=4702s)
+- **RD 594 (2025-09-11)**, 19 · relator **Alber Vasconcelos** · Reajuste de preços (R$ 13 para R$ 15, 15,38%) na travessia internacional Guajará-Mirim (BR) / Guayaramerín (BO) no rio Mamoré; itens 18 a 21 em bloco → aprovado (votação simbólica)
+  - votos: Alber: relator; Frederico: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=moqX_srlNM0&t=4702s)
+- **RD 594 (2025-09-11)**, 20 · relator **Alber Vasconcelos** · Reajuste de preços (R$ 13 para R$ 15, 15,38%) na travessia internacional Guajará-Mirim (BR) / Guayaramerín (BO) no rio Mamoré; itens 18 a 21 em bloco → aprovado (votação simbólica)
+  - votos: Alber: relator; Frederico: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=moqX_srlNM0&t=4702s)
+- **RD 594 (2025-09-11)**, 21 · relator **Alber Vasconcelos** · Reajuste de preços (R$ 13 para R$ 15, 15,38%) na travessia internacional Guajará-Mirim (BR) / Guayaramerín (BO) no rio Mamoré; itens 18 a 21 em bloco → aprovado (votação simbólica)
+  - votos: Alber: relator; Frederico: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=moqX_srlNM0&t=4702s)
+- **RD 594 (2025-09-11)**, 22 · relator **Alber Vasconcelos** · Renovação antecipada (a partir de outubro de 2025) da autorização excepcional da Deliberação DG 76/2024 para EBN de cabotagem afretar por espaço balsa → negado provimento (votação simbólica), contra a recomendação da SOG e da GAF
+  - votos: Alber: relator; Flávia: acompanha; Frederico: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=moqX_srlNM0&t=5111s)
+- **RD 594 (2025-09-11)**, 7 · relator **Caio Farias** · Outorga de autorização especial por 180 dias para navegação de longo curso com embarcação estrangeira afretada a casco nu inscrita no REB, por EBN de  → aprovado (votação simbólica)
+  - votos: Caio: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=moqX_srlNM0&t=5699s)
+- **RD 596 (2025-10-09)**, ref-1 · relator **Flávia Takafashi** · Referendo da Deliberação DG 76/2025: autorização em caráter especial e emergencial (balsa de apoio e extensão de tubulação) durante a vazante do rio T → referendado por unanimidade
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=9172s)
+- **RD 596 (2025-10-09)**, 12 · relator **Lima Filho** · Consulta regulatória sobre decreto municipal que alterou horário de funcionamento de travessia interestadual (retorno de vista de Alber Vasconcelos, r → aprovado por unanimidade
+  - votos: Lima: relator; Frederico: acompanha; Flávia: acompanha; Alber: revisor_acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=9589s)
+- **RD 596 (2025-10-09)**, 17 · relator **Lima Filho** · Consulta sobre enquadramento regulatório de operação offshore de transbordo de granel sólido com embarcações e boias (retorno de vista; relator incorp → aprovado por unanimidade
+  - votos: Lima: relator; Frederico: acompanha; Flávia: acompanha; Alber: revisor_acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=10008s)
+- **RD 596 (2025-10-09)**, 19 · relator **Flávia Takafashi** · Pedido de medida cautelar em denúncia de cobrança supostamente irregular de sobre-estadia de contêineres; julgamento em bloco dos itens 19 a 22 → aprovado por unanimidade (perda de objeto)
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=11083s)
+- **RD 596 (2025-10-09)**, 20 · relator **Flávia Takafashi** · Pedido de medida cautelar em denúncia de cobrança supostamente irregular de sobre-estadia de contêineres; julgamento em bloco dos itens 19 a 22 → aprovado por unanimidade (perda de objeto)
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=11083s)
+- **RD 596 (2025-10-09)**, 21 · relator **Flávia Takafashi** · Pedido de medida cautelar em denúncia de cobrança supostamente irregular de sobre-estadia de contêineres; julgamento em bloco dos itens 19 a 22 → aprovado por unanimidade (perda de objeto)
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=11083s)
+- **RD 596 (2025-10-09)**, 22 · relator **Flávia Takafashi** · Pedido de medida cautelar em denúncia de cobrança supostamente irregular de sobre-estadia de contêineres; julgamento em bloco dos itens 19 a 22 → aprovado por unanimidade (perda de objeto)
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=11083s)
+- **RD 596 (2025-10-09)**, 29 · relator **Lima Filho** · Autorização em caráter especial e emergencial para movimentação e armazenagem de granel sólido e carga geral em terminal já construído sem outorga → indeferido por maioria (4x1), prevalecendo a divergência de Flávia Takafashi (redatora); v
+  - votos: Lima: vencido; Flávia: outro; Caio: acompanha; Alber: acompanha; Frederico: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=13389s)
+- **RD 596 (2025-10-09)**, 33 · relator **Alber Vasconcelos** · Petição sobre transparência do ateste de tonelagem para afretamento a casco nu com inscrição no REB (Lei 9.432/1997, art. 10, III): cessão de tonelage → aprovado por unanimidade
+  - votos: Alber: relator; Frederico: acompanha; Flávia: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=16536s)
+- **RD 596 (2025-10-09)**, 35 · relator **Caio Farias** · Relatório final do estudo de atualização das vias economicamente navegáveis (VENs), ano-base 2024 (projeto P6) → aprovado por unanimidade
+  - votos: Caio: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=17126s)
+- **RD 596 (2025-10-09)**, 39 · relator **Caio Farias** · Autorização especial e emergencial de até 60 dias para transbordo de cargas (balsa, sem obras) para viagens-teste de navegação no rio Branco → aprovado por unanimidade
+  - votos: Caio: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=18452s)
+- **RD 596 (2025-10-09)**, 40 · relator **Caio Farias** · Denúncia com pedido de cautelar: recusa de receber contêineres vazios condicionando a devolução ao pagamento de avarias/lavagens → aprovado por unanimidade
+  - votos: Caio: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=18944s)
+- **RD 598 (2025-11-13)**, 36 · relator **Alber Vasconcelos** · Pleito de invalidação/aperfeiçoamento da Resolução ANTAQ 112/2024 (matriz de alocação de riscos da armazenagem adicional / sobre-estadia de contêinere → aprovado por unanimidade (pleito não conhecido)
+  - votos: Alber: relator; Frederico: outro; Flávia: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=644s)
+- **RD 598 (2025-11-13)**, 4 · relator **Caio Farias** · Referendo da Deliberação DG 83/2025: medida cautelar que suspendeu a cobrança da Low Water Surcharge (LWS) no transporte de contêineres com origem/des → referendado por unanimidade; embargos conhecidos e rejeitados; impugnações indeferidas
+  - votos: Caio: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=3729s)
+- **RD 598 (2025-11-13)**, 12 · relator **Flávia Takafashi** · Viabilidade locacional de terminal de uso privado PTP Porto Murtinho (rio Paraguai, Porto Murtinho/MS), anúncio público 4/2025: granel sólido (grãos,  → aprovado por unanimidade
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=6211s)
+- **RD 598 (2025-11-13)**, 14 · relator **Flávia Takafashi** · Registro de instalação de apoio ao transporte aquaviário «Terminal Pesqueiro do Porto Grande» (São Luís/MA, fora da poligonal do Itaqui), para apoio a → aprovado por unanimidade
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=7238s)
+- **RD 598 (2025-11-13)**, 23 · relator **Flávia Takafashi** · Autorização especial e emergencial por 180 dias para testes de comissionamento da estação de transbordo de cargas PVH 2 (rio Madeira, Porto Velho/RO), → aprovado por unanimidade
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=11836s)
+- **RD 598 (2025-11-13)**, 32 · relator **Lima Filho** · Consulta sobre enquadramento de rebocador em operação standby de apoio a plataforma de petróleo e incidência da Tabela 1 do porto do Rio de Janeiro (i → aprovado por unanimidade
+  - votos: Lima: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=13186s)
+- **RD 598 (2025-11-13)**, 38 · relator **Alber Vasconcelos** · Consulta sobre a Res. ANTAQ 129/2025 (afretamento por EBN): substituição de embarcação estrangeira afretada em docagem/reparação, número de substituiç → aprovado por unanimidade
+  - votos: Alber: relator; Frederico: acompanha; Flávia: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=15311s)
+- **RD 600 (2025-12-15)**, 3 · relator **Caio Farias** · Recurso de reconsideração da Petrobras contra o Acórdão 175/2025 (bloqueio firme da CBO a afretamento de embarcações estrangeiras de apoio marítimo; c → aprovado: recurso não conhecido (sem divergência)
+  - votos: Caio: relator; Alber: acompanha; Frederico: acompanha; Lima: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=1687s)
+- **RD 600 (2025-12-15)**, 6 · relator **Alber Vasconcelos** · Consulta sobre enquadramento regulatório do transporte de GNL em ISO contêineres por embarcações especiais (small scale) e necessidade de autorização  → aprovado o voto do relator por maioria (4x1); revisora vencida
+  - votos: Alber: relator; Flávia: revisor_diverge; Lima: acompanha; Caio: acompanha; Frederico: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=6245s)
+- **RD 600 (2025-12-15)**, 21 · relator **Lima Filho** · Pedido de suspensão/abatimento das Tabelas 1 e 2 cobradas pela Portos RS da navegação interior por má prestação (assoreamento, utilidades), e relatóri → pedido de vista de Flávia Takafashi (bloco dos três processos); relator não registrou voto
+  - votos: Flávia: vista; Lima: relator · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=13903s)
+- **RD 600 (2025-12-15)**, 22 · relator **Lima Filho** · Pedido de suspensão/abatimento das Tabelas 1 e 2 cobradas pela Portos RS da navegação interior por má prestação (assoreamento, utilidades), e relatóri → pedido de vista de Flávia Takafashi (bloco dos três processos); relator não registrou voto
+  - votos: Flávia: vista; Lima: relator · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=13903s)
+- **RD 600 (2025-12-15)**, 28 · relator **Lima Filho** · Pedido de suspensão/abatimento das Tabelas 1 e 2 cobradas pela Portos RS da navegação interior por má prestação (assoreamento, utilidades), e relatóri → pedido de vista de Flávia Takafashi (bloco dos três processos); relator não registrou voto
+  - votos: Flávia: vista; Lima: relator · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=13903s)
+- **RD 600 (2025-12-15)**, 26 · relator **Lima Filho** · Agenda regulatória tema 2.6: revisão e consolidação da RN 5/2016 (outorga para navegação de apoio marítimo, apoio portuário, cabotagem e longo curso;  → aprovado (sem divergência)
+  - votos: Lima: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=14676s)
+- **RD 600 (2025-12-15)**, 27 · relator **Lima Filho** · Relatório da fiscalização temática de qualidade do serviço de travessia de passageiros (entrevistas com usuários) → aprovado (sem divergência)
+  - votos: Lima: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=15074s)
+- **RD 600 (2025-12-15)**, 29 · relator **Lima Filho** · Autorização para transferência onerosa de tonelagem entre EBNs (Lei 9.432, art. 10, III e art. 10-A) → aprovado: pedido indeferido (sem divergência)
+  - votos: Lima: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=15380s)
+- **RD 600 (2025-12-15)**, 31 · relator **Lima Filho** · Medida cautelar contra cobrança de demurrage por atraso na devolução de contêineres causado por greve/operação-padrão da Receita Federal → aprovado: cautelar deferida (sem divergência)
+  - votos: Lima: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=16278s)
+- **RD 600 (2025-12-15)**, 35 · relator **Alber Vasconcelos** · Outorga de autorização de TUP em Rio Grande (RS) para carga geral, especialmente celulose (barcaças pela Lagoa dos Patos e navios de longo curso; inve → aprovado (sem divergência)
+  - votos: Alber: relator; Frederico: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=17249s)
+- **RD 603 (2026-02-24)**, 4 · relator **Lima Filho** · Fiscalização extraordinária na Portos RS e pleito de suspensão/abatimento das tarifas (tabelas 1 e 2) cobradas das empresas de navegação interior no R → aprovado o voto do relator (unânime após vista)
+  - votos: Frederico: acompanha; Flávia: revisor_acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=1781s)
+- **RD 603 (2026-02-24)**, 5 · relator **Lima Filho** · Fiscalização extraordinária na Portos RS e pleito de suspensão/abatimento das tarifas (tabelas 1 e 2) cobradas das empresas de navegação interior no R → aprovado o voto do relator (unânime após vista)
+  - votos: Frederico: acompanha; Flávia: revisor_acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=1781s)
+- **RD 603 (2026-02-24)**, 9 · relator **Lima Filho** · Fiscalização extraordinária na Portos RS e pleito de suspensão/abatimento das tarifas (tabelas 1 e 2) cobradas das empresas de navegação interior no R → aprovado o voto do relator (unânime após vista)
+  - votos: Frederico: acompanha; Flávia: revisor_acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=1781s)
+- **RD 603 (2026-02-24)**, 8 · relator **Lima Filho** · Contribuições da audiência pública 4/2024 e abertura de seleção pública para o serviço de travessia de passageiros e veículos Manaus–Careiro da Várzea → aprovado o voto do relator (sem divergência), com ajustes sugeridos pelo revisor
+  - votos: Frederico: acompanha; Flávia: acompanha; Lima: relator; Alber: revisor_acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=2568s)
+- **RD 603 (2026-02-24)**, 12 · relator **Flávia Takafashi** · Projeto da SRG de banco de dados sobre estadia (sobrestadia/demurrage) de contêineres, em atendimento ao item 5.3 do Acórdão 120/2023 → aprovado (sem divergência)
+  - votos: Frederico: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=5402s)
+- **RD 603 (2026-02-24)**, 14 · relator **Flávia Takafashi** · Análise do problema regulatório e propostas para fortalecer a fiscalização dos contratos de afretamento (SAMA), em atendimento ao item 5.2 do Acórdão  → aprovado (sem divergência)
+  - votos: Frederico: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=5865s)
+- **RD 603 (2026-02-24)**, 19 · relator **Flávia Takafashi** · Diagnóstico da SFC sobre a cadeia logística de contêineres e implementação do Acórdão 521/2025 (rito sumário para denúncias de sobrestadia) → aprovado (sem divergência), com acréscimo sugerido pelo Diretor-Geral
+  - votos: Frederico: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=7553s)
+- **RD 603 (2026-02-24)**, 29 · relator **Alber Vasconcelos** · Fiscalização temática sobre oferta de janelas operacionais para entrada de contêineres nos terminais (exportação) → aprovado (sem divergência)
+  - votos: Frederico: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=11890s)
+- **RD 603 (2026-02-24)**, 34 · relator **Alber Vasconcelos** · Autorização em caráter especial por até 180 dias para testes de comissionamento da instalação portuária → aprovado (sem divergência)
+  - votos: Frederico: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=13014s)
+- **RD 603 (2026-02-24)**, 37 · relator **Caio Farias** · Consulta sobre enquadramento de quadro de boias e equipamentos flutuantes para transbordo de granéis sólidos agrícolas fora do porto organizado → aprovado (sem divergência)
+  - votos: Frederico: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=14010s)
+- **RD 605 (2026-03-24)**, 2 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 734/2025 (Res. ANTAQ 112/2024, matriz de responsabilidade/risco sobre armazenagem adicional): pedido de exc → recurso conhecido e não provido, por unanimidade
+  - votos: Lima: relator; Alber: acompanha; Frederico: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=762s)
+- **RD 605 (2026-03-24)**, 12 · relator **Lima Filho** · Decisão de mérito em denúncia com pedido cautelar: cobranças supostamente indevidas de sobre-estadia de contêiner (demurrage) → aprovado por unanimidade (denúncia indeferida)
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=7606s)
+- **RD 605 (2026-03-24)**, 16 · relator **Lima Filho** · Estabelecimento de esquema operacional provisório para a travessia de passageiros e veículos Manaus–Careiro da Várzea (AM), até o fim da Chamada Públi → convertido em diligência por maioria: proposta de Alber Vasconcelos (devolver ao comitê pe
+  - votos: Lima: relator; Alber: outro; Frederico: acompanha; Cristina: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=8751s)
+- **RD 605 (2026-03-24)**, 24 · relator **Alber Vasconcelos** · Denúncia com pedido cautelar: cobrança da taxa Export Logistic Fee (ELF), declarada ilegal desde a Res. 7518/2020 (art. 42 da Res. 62/2021) → cautelar deferida por unanimidade
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=11498s)
+- **RD 605 (2026-03-24)**, 27 · relator **Cristina Castro** · Nova autorização em caráter especial na navegação de longo curso por 180 dias (a partir de 10/03/2026) → aprovado por unanimidade
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=11910s)
+- **RD 605 (2026-03-24)**, 28 · relator **Cristina Castro** · Consulta sobre o enquadramento de transbordo de granéis sólidos entre embarcações (ship-to-ship / quadro de boias) fora da área autorizada → aprovado por unanimidade
+  - votos: Cristina: relator; Alber: acompanha; Lima: acompanha; Frederico: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=12154s)
+- **RD 605 (2026-03-24)**, 29 · relator **Cristina Castro** · Denúncia com pedido cautelar contra cobrança de sobre-estadia (demurrage) de dois contêineres em Santos (dez/2024–jan/2025) → cautelar indeferida por unanimidade
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=13015s)
+- **RD 607 (2026-04-23)**, 4 · relator **Frederico Dias** · Revisão da agenda regulatória 2025–2028: inclusão do tema aprimoramento do procedimento autorizativo da navegação (item 2.4), cumprindo o item 5.2 do  → aprovado por unanimidade
+  - votos: Frederico: relator; Lima: acompanha; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=2500s)
+- **RD 607 (2026-04-23)**, 7 · relator **Lima Filho** · Requerimento de declaração de perda de objeto do processo 50300.004369/2024-61 (autorização emergencial para navios de cruzeiro em Manaus; Código ISPS → aprovado por unanimidade
+  - votos: Frederico: acompanha; Lima: relator; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=3639s)
+- **RD 607 (2026-04-23)**, 8 · relator **Lima Filho** · Mensuração da carga administrativa da Resolução ANTAQ 62/2021 (Standard Cost Model) → aprovado por unanimidade
+  - votos: Frederico: acompanha; Lima: relator; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=4135s)
+- **RD 607 (2026-04-23)**, 17 · relator **Alber Vasconcelos** · Denúncia com pedido cautelar de desvirtuamento da autorização de afretamento da JLV Amazon (circularizada para águas profundas, operando em águas rasa → aprovado por unanimidade
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: relator; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=7416s)
+- **RD 607 (2026-04-23)**, 19 · relator **Alber Vasconcelos** · Recurso contra multa de R$ 442.890,25 (art. 28, VII, Res. 62/2021) por cronograma físico-financeiro sem assinatura do estaleiro na construção das emba → aprovado por unanimidade
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: relator; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=8229s)
+- **RD 607 (2026-04-23)**, 25 · relator **Alber Vasconcelos** · Renovação de CA (certificado de autorização de afretamento) → pedido de vista (Lima Filho)
+  - votos: Alber: relator; Lima: vista; Frederico: revisor_acompanha; Cristina: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=9338s)
+- **RD 607 (2026-04-23)**, 26 · relator **Alber Vasconcelos** · Processo não lido em sessão (pedido de vista anunciado na abertura junto com o item 25) → pedido de vista (Lima Filho)
+  - votos: Alber: relator; Lima: vista; Frederico: revisor_acompanha; Cristina: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=9338s)
+- **RD 607 (2026-04-23)**, 29 · relator **Cristina Castro** · Recurso hierárquico contra deliberação PAS 23/2025-SFC (auto de infração 0065730, multa de R$ 302.500) por descumprir a cautelar da Resolução 7574-ANT → recurso desprovido por unanimidade
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: relator · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=10090s)
+- **RD 611 (2026-06-11)**, 2 · relator **Caio Farias** · Recursos de reconsideração (julgamento em bloco dos itens 2, 3 e 31) contra o Acórdão 393/2025, que aprovou a RN ANTAQ 129/2025 (afretamento por EBN), → pedido de vista de Lima Filho (concedida) após relatório e sustentações; voto do relator n
+  - votos: Caio: relator; Lima: vista; Frederico: outro · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=4937s)
+- **RD 611 (2026-06-11)**, 3 · relator **Caio Farias** · Recursos de reconsideração (julgamento em bloco dos itens 2, 3 e 31) contra o Acórdão 393/2025, que aprovou a RN ANTAQ 129/2025 (afretamento por EBN), → pedido de vista de Lima Filho (concedida) após relatório e sustentações; voto do relator n
+  - votos: Caio: relator; Lima: vista; Frederico: outro · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=4937s)
+- **RD 611 (2026-06-11)**, 31 · relator **Caio Farias** · Recursos de reconsideração (julgamento em bloco dos itens 2, 3 e 31) contra o Acórdão 393/2025, que aprovou a RN ANTAQ 129/2025 (afretamento por EBN), → pedido de vista de Lima Filho (concedida) após relatório e sustentações; voto do relator n
+  - votos: Caio: relator; Lima: vista; Frederico: outro · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=4937s)
+- **RD 611 (2026-06-11)**, 6 · relator **Caio Farias** · Referendo da Deliberação DG 30/2026: cautelar (pedido subsidiário) suspendendo subitens 3 e 5 do item 5.4.1 e item 8.5 da instrução normativa da Porto → referendado
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=6740s)
+- **RD 611 (2026-06-11)**, 8 · relator **Cristina Castro** · Referendo da Deliberação DG 35/2026: cautelar suspendendo fatura em denúncia contra transportador marítimo → referendado
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=7116s)
+- **RD 611 (2026-06-11)**, 9 · relator **Cristina Castro** · Referendo da Deliberação DG 33/2026: autorização especial e emergencial por 180 dias a partir de 1º/6/2026 para movimentação de granel líquido (diesel → referendado
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=7190s)
+- **RD 611 (2026-06-11)**, 10 · relator **Cristina Castro** · Item 1.1 da agenda regulatória 2025-2028: revisão e simplificação do estoque regulatório da navegação interior (retorno de vista) → pedido de vista renovado pelo revisor Lima Filho; não deliberado
+  - votos: Lima: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=7316s)
+- **RD 611 (2026-06-11)**, 12 · relator **Alber Vasconcelos** · Retorno de vista: pedido de medida cautelar para manter o certificado de autorização de afretamento (CAA) de embarcação estrangeira de apoio marítimo  → aprovado nos termos do voto-vista do revisor Lima Filho, com acréscimo proposto pelo relat
+  - votos: Alber: revisor_acompanha; Lima: revisor_acompanha; Frederico: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=7525s)
+- **RD 611 (2026-06-11)**, 17 · relator **Lima Filho** · Consulta sobre normas aplicáveis ao lançamento e reparo de cabos submarinos de telecomunicações por embarcação estrangeira em navegação de longo curso → aprovado; DG acompanha expressamente
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=10125s)
+- **RD 611 (2026-06-11)**, 23 · relator **Alber Vasconcelos** · Consulta: EBN cuja outorga de cabotagem se baseia só em embarcação estrangeira afretada a casco nu com suspensão de bandeira (BR do Mar, art. 10 §§1º- → aprovado (acórdão do relator); DG acompanha o dispositivo com declaração de voto e fundame
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=12001s)
+- **RD 611 (2026-06-11)**, 38 · relator **Cristina Castro** · Consulta sobre nova outorga de longo curso só com embarcações estrangeiras afretadas a casco nu (REB), sem lastro → aprovado: prevalece a exigência de lastro do art. 5º da RN 133/2025; SRG estuda flexibiliz
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=17565s)
+- **RD 611 (2026-06-11)**, 41 · relator **Cristina Castro** · Reavaliação da cautelar do Acórdão 772/2025 que suspendera cobrança de sobre-estadia de contêiner → cautelar revogada (aprovado)
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=18543s)
+- **RD 614 (2026-08-20)**, 32 · relator **Cristina Castro** · Consulta sobre direito de tonelagem decorrente da reativação da construção de casco de embarcação em estaleiro brasileiro → pedido de vista (Caio Farias), anunciado na abertura
+  - votos: Caio: vista · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=105s)
+- **RD 614 (2026-08-20)**, 1 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 242/2026 (que manteve, em recurso hierárquico, o auto de infração por afretamento sem autorização da embarc → aprovado (sem divergência registrada): recurso não conhecido
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=140s)
+- **RD 614 (2026-08-20)**, 3 · relator **Lima Filho** · Referendo da Deliberação DG 48/2026: recurso contra atas 15 e 17 da comissão da seleção pública (edital de chamada pública 1/2026) para a travessia Ma → aprovado (referendado)
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=5550s)
+- **RD 614 (2026-08-20)**, 14 · relator **Lima Filho** · Reajuste de preços da travessia internacional Guajará-Mirim (Brasil) – Guayaramerín (Beni, Bolívia), sem reajuste desde 2016; pedido de 87,7% → aprovado (sem divergência registrada): reajuste parcial
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=7552s)
+- **RD 614 (2026-08-20)**, 26 · relator **Caio Farias** · Registro de instalação flutuante de apoio (posto de combustíveis 'Petrossales 14') no rio Negro, Manaus → aprovado (sem divergência registrada)
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=9389s)
+- **RD 616 (2026-08-21)**, pauta 14 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 611/2025, que manteve a interdição cautelar da instalação portuária do Sindicato Rural de Santarém (PA) até → aprovado (recurso conhecido e desprovido; interdição mantida), sem divergência registrada
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=728s)
+- **RD 616 (2026-08-21)**, pauta 1 · relator **Caio Farias** · Referendo da Deliberação DG 56/2026: nova autorização especial e emergencial por 180 dias para transbordo de granel sólido em instalação em Caracaraí  → referendado, sem divergência registrada
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=5727s)
+- **RD 616 (2026-08-21)**, pauta 4 · relator **Cristina Castro** · Revisão e simplificação do estoque regulatório da navegação interior: 11 resoluções consolidadas em 6 novas normas (outorgas, afretamento, direitos e  → aprovado, sem divergência; revisor acompanhou após incorporação de suas sugestões
+  - votos: Cristina: relator; Frederico: acompanha; Lima: revisor_acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=8200s)
+- **RD 616 (2026-08-21)**, pauta 6 · relator **Caio Farias** · Recursos de reconsideração contra o Acórdão 393/2025 (Resolução ANTAQ 129/2025, afretamento por EBN) quanto à expressão «parte da operação requerida»  → recursos não conhecidos (Subsea7) ou desprovidos (IBP, Syndarma); maioria 4 x 1, vencido o
+  - votos: Caio: relator; Lima: vencido; Alber: acompanha; Cristina: acompanha; Frederico: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=8942s)
+- **RD 616 (2026-08-21)**, pauta 7 · relator **Caio Farias** · Recursos de reconsideração contra o Acórdão 393/2025 (Resolução ANTAQ 129/2025, afretamento por EBN) quanto à expressão «parte da operação requerida»  → recursos não conhecidos (Subsea7) ou desprovidos (IBP, Syndarma); maioria 4 x 1, vencido o
+  - votos: Caio: relator; Lima: vencido; Alber: acompanha; Cristina: acompanha; Frederico: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=8942s)
+- **RD 616 (2026-08-21)**, pauta 8 · relator **Caio Farias** · Recursos de reconsideração contra o Acórdão 393/2025 (Resolução ANTAQ 129/2025, afretamento por EBN) quanto à expressão «parte da operação requerida»  → recursos não conhecidos (Subsea7) ou desprovidos (IBP, Syndarma); maioria 4 x 1, vencido o
+  - votos: Caio: relator; Lima: vencido; Alber: acompanha; Cristina: acompanha; Frederico: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=8942s)
+- **RD 616 (2026-08-21)**, pauta 9 · relator **Lima Filho** · Cumprimento do Acórdão 103/2026 (número incerto): esquema operacional provisório em rodízio para a travessia de veículos Manaus–Careiro da Várzea até  → aprovado, sem divergência; revisor (DG) anuiu
+  - votos: Lima: relator; Frederico: revisor_acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=10472s)
+- **RD 616 (2026-08-21)**, pauta 11 · relator **Lima Filho** · Aprovação do Manual de Procedimentos para Circularização e Bloqueio de Embarcações no Apoio Marítimo (cumprimento dos Acórdãos 174/2025 e 175/2025) → aprovado, sem divergência registrada
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=10965s)
+- **RD 616 (2026-08-21)**, pauta (nº não dito) — margem equatorial · relator **Cristina Castro** · Aprovação do diagnóstico técnico «Atuação da ANTAQ na estruturação logístico-regulatória da Margem Equatorial brasileira» como subsídio às agendas de  → aprovado, sem divergência registrada
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=15269s)
+- **RD 616 (2026-08-21)**, pauta (nº não dito) — Porto Piauí · relator **Cristina Castro** · Consulta sobre classificação da navegação de embarcação alimentadora entre o cais do TUP e a área de fundeio, com transbordo ship-to-ship (navio buffe → aprovado, sem divergência registrada
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=16374s)
+- **RD 619 (2026-09-24)**, 8 · relator **None** · Recurso de reconsideração em face do Acórdão 733/2025-ANTAQ (anunciado pelo DG) → renovação do pedido de vista registrada na abertura; não deliberado
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=895s)
+- **RD 619 (2026-09-24)**, 7 · relator **Caio Farias** · Referendo da Deliberação DG 70/2026 (DOU 15/09/2026): rito procedimental de tratamento das comunicações e supervisão da sobretaxa de seca (ciclo hidro → referendado por unanimidade (processo com pedido de prioridade)
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=930s)
+- **RD 619 (2026-09-24)**, 1 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o Acórdão 262/2026-ANTAQ que manteve auto de infração e multa de R$ 39.930 por cobrança de no show charge em situação → recurso conhecido e indeferido; Acórdão 262/2026 mantido (Alexandre Florambel declarou imp
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Alexandre: outro · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=1889s)
+- **RD 619 (2026-09-24)**, 3 · relator **Alexandre Florambel** · Consulta sobre direito de tonelagem decorrente da reativação da construção de casco de embarcação em estaleiro brasileiro (REB); retorno de vista do d → prorrogação do pedido de vista concedida; julgamento adiado (sustentação oral da Dra. Cami
+  - votos: Alexandre: relator; Lima: revisor_acompanha; Caio: revisor_acompanha; Alber: outro; Frederico: outro · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=3606s)
+- **RD 619 (2026-09-24)**, 4 · relator **Lima Filho** · Referendo da Deliberação DG 67/2026: alteração do cronograma da Chamada Pública 1/2026 (publicação do termo de autorização especial e início da operaç → referendado (aprovado)
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=3834s)
+- **RD 619 (2026-09-24)**, 12 · relator **Lima Filho** · Aprovação do estudo Produção do transporte aquaviário em TKU (tonelada por quilômetro útil), exercício 2025 (projeto P12 da Agenda Plurianual de Estud → aprovado
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=7642s)
+- **RD 619 (2026-09-24)**, 13 · relator **Lima Filho** · Autorização para construção e exploração de TUP (Terminal de Macatuba, SP, carga geral: recepção de madeira em toras) em corredor multimodal → aprovado
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=8048s)
+- **RD 619 (2026-09-24)**, 18 · relator **Lima Filho** · Cancelamento de registros no REB de embarcações afretadas a casco nu sem lastro de tonelagem; revogação do Acórdão 280/2023 a partir de 9/4/2024 e 29/ → aprovado (houve dúvida de um diretor, dada como sanada)
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=8978s)
+- **RD 619 (2026-09-24)**, 23 · relator **Alber Vasconcelos** · Pedido cautelar para impedir afretamento de embarcação autoelevatória estrangeira sem circularização; enquadramento de autoelevatórias como apoio marí → aprovado: cautelar indeferida (sem perigo da demora), mas declarada a atividade da autoele
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=11198s)
+- **RD 619 (2026-09-24)**, 24 · relator **Alber Vasconcelos** · Consulta: afretamento de embarcação autoelevatória estrangeira para pesquisa geotécnica em projeto eólico offshore depende de autorização da ANTAQ? → aprovado: consolidado o entendimento de que autoelevatórias em projetos eólicos offshore f
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=11887s)
+- **RD 619 (2026-09-24)**, 35 · relator **Alexandre Florambel** · Autorização para construir e explorar estação de transbordo de cargas (ETC) de granel sólido em Caracaraí (RR) → aprovado
+  - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=16151s)
+- **RD 621 (2026-10-27)**, vista-Login · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 733/2025 → não deliberado: vista renovada (revisor Caio Farias)
+  - votos: Caio: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=950s)
+- **RD 621 (2026-10-27)**, 2 · relator **Alexandre Florambel** · Consulta sobre direito de tonelagem decorrente da reativação da construção de casco de embarcação PSV em estaleiro brasileiro (art. 10, III, Lei 9.432 → aprovado por unanimidade (votação simbólica)
+  - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=1048s)
+- **RD 621 (2026-10-27)**, R-DG76 · relator **Alber Vasconcelos** · Referendo da Deliberação DG 76/2026 (embargos de declaração contra o Acórdão 540/2026): autorização especial e emergencial de 180 dias para testes de  → aprovado por unanimidade (votação simbólica)
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=2159s)
+- **RD 621 (2026-10-27)**, 13 · relator **Lima Filho** · Medida cautelar para renovar CAA de embarcação estrangeira → aprovado por unanimidade (votação simbólica)
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=4506s)
+- **RD 621 (2026-10-27)**, 17 · relator **Lima Filho** · Perda de requisito técnico para manutenção de REB/lastro: termo de cessão de tonelagem datado de 2021 mas assinado em 2026 → aprovado por unanimidade (votação simbólica)
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=6149s)
+- **RD 621 (2026-10-27)**, 26 · relator **Alexandre Florambel** · Correção de erro material no Acórdão 593/2026 (revisão da Resolução 129: circularização, bloqueio e afretamento na cabotagem e apoio marítimo) — itens → aprovado por unanimidade (votação simbólica)
+  - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=9657s)
+- **RD 621 (2026-10-27)**, 28 · relator **Alexandre Florambel** · Manual de conformidade regulatória de contratos de afretamento (cumprimento do item 5.2 do Acórdão 69/2026) → aprovado por unanimidade (votação simbólica)
+  - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=10632s)
+- **RD 621 (2026-10-27)**, 30 · relator **Alexandre Florambel** · Terceira autorização especial e emergencial (180 dias) para testes de comissionamento de terminal rodofluvial de grãos → aprovado por unanimidade (votação simbólica)
+  - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=11800s)

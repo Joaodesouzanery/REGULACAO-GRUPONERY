@@ -1,0 +1,42 @@
+{
+  "meta": {"video_id": "5_hHUI9_fT8", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de quem só acompanha a relatora são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "27ª Extraordinária",
+    "data": "2022-08-01",
+    "formato": "presencial com transmissão pelo YouTube",
+    "presidente_da_sessao": "Eduardo Nery (Diretor-Geral)",
+    "diretores_presentes": ["Eduardo Nery", "Flávia Takafashi", "José Renato Fialho (diretor substituto)"],
+    "ausentes": [],
+    "observacoes": [
+      "Sessão extraordinária com objetivo exclusivo de apreciar o relatório final do grupo de trabalho da ANTAQ de monitoramento dos impactos da pandemia de Covid-19 no transporte marítimo e no setor portuário (contêineres), coordenado pela diretora Flávia Takafashi.",
+      "Presentes também o procurador-chefe da Procuradoria Federal junto à ANTAQ e o secretário-geral.",
+      "Relatório aprovado por unanimidade; encerramento às 1:12:09 do vídeo.",
+      "Principais conclusões: omissões de escala como maior problema (falta de previsibilidade), rolagem de carga, falta de contêineres e alta do frete; omissões crescem mais em terminais não integrados (sem participação de armadores) que em integrados, tratado como fator de atenção e não crítico; sem necessidade de nova medida regulatória (Resolução 62/2021 de direitos e deveres dos usuários, medidas cautelares e ouvidoria já bastariam); criação do módulo de omissões no SDP a partir de janeiro de 2022."
+    ]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:01:20",
+      "processo": "",
+      "interessado": "ANTAQ (grupo de trabalho interno: servidores das superintendências de regulação, desenvolvimento e estudos, fiscalização e outorgas)",
+      "assunto": "Relatório final do grupo de trabalho constituído em outubro de 2021 para monitorar os impactos da pandemia de Covid-19 no transporte marítimo de contêineres e no setor portuário (omissões de escala, rolagem de carga, falta de contêineres, frete, sobre-estadia, terminais integrados x não integrados)",
+      "tema": ["navegação e afretamento (longo curso, cabotagem)", "serviços nos terminais (armazenagem, sobre-estadia/demurrage)", "terminais de contêineres / verticalização", "direitos dos usuários", "estudos e monitoramento de mercado", "institucional"],
+      "relator": "Flávia Takafashi",
+      "resultado": "relatório aprovado por unanimidade",
+      "resumo_voto": "Relatora apresenta o diagnóstico (queda de prancha média de 59,3 para 51,5 unidades/hora, alta do frete Santos–China de cerca de US$ 2 mil para US$ 10 mil, aumento de reclamações de sobre-estadia na ouvidoria, 89 omissões em terminais autorizados e 316 em arrendados e cais público no 1º semestre de 2022) e conclui que o arcabouço regulatório existente (RN 62/2021, cautelares, ouvidoria, fiscalização) é suficiente, com intensificação do acompanhamento; omissões passam a ser monitoradas no SDP.",
+      "votos": [
+        {"diretor": "Flávia Takafashi", "voto": "relatora, aprova o relatório", "ts": "0:01:20", "justificativa": "omissões de escala são o grande problema por falta de previsibilidade; diferença entre terminais integrados e não integrados é fator de atenção, não crítico; ANTAQ já possui medidas no arcabouço regulatório e não há medida adicional a tomar no momento", "confianca": "alta"},
+        {"diretor": "José Renato Fialho", "voto": "aprova o relatório", "ts": "0:55:34", "justificativa": "elogia o trabalho; destaca que a agência já tem remédios regulatórios (resolução normativa, acórdãos), o papel das unidades regionais e da ouvidoria, o uso de bases internacionais para benchmark e o novo módulo do SDP com divulgação em painel", "confianca": "alta"},
+        {"diretor": "Eduardo Nery", "voto": "acompanha a relatora, aprova o relatório", "ts": "1:07:19", "justificativa": "mérito do trabalho foi reunir evidências técnicas para percepções já noticiadas; sugere à Superintendência de Regulação estudar regulação mais refinada sobre omissões de escala, com elementos objetivos (tempo, previsibilidade) para o usuário provocar a agência", "tom": "elogioso; propositivo", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Data 2022-08-01 vem do cabeçalho/upload do vídeo; a fala da sessão não informa a data (a relatora fala em trabalhos de outubro de 2021 até julho de 2022).",
+    "Na abertura a legenda registra «reunião de Diretoria colegiada de número 527» e no encerramento «reunião ordinária de Diretoria de número 527», enquanto o título diz 27ª Reunião Extraordinária; provável erro de legenda ou de fala; mantido o número do título.",
+    "Número do processo não foi lido na sessão.",
+    "Falantes inferidos: o voto após José Renato Fialho é atribuído a Eduardo Nery (presidente da sessão) por contexto (cita relatora e o diretor José Renato e menciona o superintendente de regulação); confirmar se necessário.",
+    "Números citados (prancha média, fretes, omissões, percentuais da ouvidoria) vêm da legenda automática e podem conter erros."
+  ]
+}

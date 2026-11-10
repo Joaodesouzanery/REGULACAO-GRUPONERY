@@ -1,0 +1,990 @@
+# Itens do tema «tup_autorizacao» (todos os diretores)
+
+- **RD 454 (2018-12-20)**, 12 · relator **Mário Povia** · Ampliação do TUP Super Terminais em Manaus (+11.591,36 m² e módulo de 60 m no cais flutuante; contrato de adesão 51) → pedido de vista (Tokarski) após voto do relator
+  - votos: Mário: relator; Adalberto: vista; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=2191s)
+- **RD 454 (2018-12-20)**, 20 · relator **Francisval Mendes** · Pedido de afastamento da interdição cautelar de operações com GLP no TUP em Santarém (PA) (licença de operação só para cargas não perigosas) → aprovado por maioria (2 x 1), vencido Adalberto Tokarski
+  - votos: Francisval: relator; Adalberto: outro; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=8372s)
+- **RD 454 (2018-12-20)**, 23 · relator **Francisval Mendes** · Autorização para construção de TUP (pedido de vista de Tokarski) → pedido de vista
+  - votos: Adalberto: vista; Francisval: relator; Mário: outro · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=9156s)
+- **RD 454 (2018-12-20)**, 24 · relator **Francisval Mendes** · Autorização para construção e exploração de TUP em Belém (PA), 22.721,07 m² (granel sólido, líquido, carga geral e contêiner); continuidade das operaç → aprovado o item 1 por unanimidade; item 2 do relator (autorização especial de 180 dias) su
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=9174s)
+- **RD 454 (2018-12-20)**, 25 · relator **Francisval Mendes** · Autorização para construção e exploração de TUP em Alcântara (MA) (granel sólido, carga geral e contêiner; anúncio público 12/2018) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=9961s)
+- **RD 454 (2018-12-20)**, 26 · relator **Francisval Mendes** · Ampliação de ETC em Itaituba (PA) com novo cais, aumento de capacidade de granel sólido → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=10609s)
+- **RD 454 (2018-12-20)**, 27 · relator **Francisval Mendes** · Ampliação de área da ETC Chibatão/ATR Logística em Manaus (julgamento conjunto com item 12) → pedido de vista (Tokarski) após voto do relator
+  - votos: Francisval: relator; Adalberto: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=10854s)
+- **RD 454 (2018-12-20)**, 28 · relator **Francisval Mendes** · Transferência de titularidade do contrato de adesão 14/2014 (TUP Porto CRA, Acará-PA) por cisão → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=11409s)
+- **RD 454 (2018-12-20)**, 29 · relator **Francisval Mendes** · Ratificação da Habilitação ao Tráfego Internacional (HTI) de 2005 do terminal autorizado → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=11608s)
+- **RD 454 (2018-12-20)**, 46 · relator **Adalberto Tokarski** · Prorrogação de prazo (novo cronograma) para construção e início de operação de ETC em Manaus (contrato de adesão 10/2015) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=14413s)
+- **RD 454 (2018-12-20)**, 47 · relator **Adalberto Tokarski** · Alteração do tipo de carga no contrato de adesão 52/2014 (TUP em Itaguaí-RJ): retirar a restrição a minério de ferro, mantendo granel sólido → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=14624s)
+- **RD 454 (2018-12-20)**, 55 · relator **Francisval Mendes** · Referendo da Resolução 6598 (11/12/2018): empreendimento apto à declaração de utilidade pública (TUP em Paranaguá), para licença de instalação com sup → referendado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=16514s)
+- **RD 454 (2018-12-20)**, 69 · relator **Francisval Mendes** · Extrapauta: autorização em caráter especial (180 dias) para TUP de granéis líquidos em Porto Velho (RO) diante do risco de desabastecimento pela seca  → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=17286s)
+- **RD 455 (2019-01-31)**, 5 · relator **Francisval Mendes** · Autorização de terminal de uso privado já construído em Estrela (RS) — regularização → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=314s)
+- **RD 455 (2019-01-31)**, 8 · relator **Mário Povia** · Ampliação de terminal de uso privado (Manaus) → vista prorrogada
+  - votos: Mário: relator; Adalberto: vista; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=594s)
+- **RD 455 (2019-01-31)**, 9 · relator **Francisval Mendes** · Ampliação de instalação portuária → vista prorrogada
+  - votos: Francisval: relator; Adalberto: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=622s)
+- **RD 455 (2019-01-31)**, 13 · relator **Mário Povia** · Autorização para exploração de TUP já construído (Terminal de Manaus, Vila Buriti, granéis líquidos) — anúncio público 05/2016 → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=826s)
+- **RD 455 (2019-01-31)**, 42 · relator **Francisval Mendes** · Autorização de TUP em Cruzeiro do Sul (AC) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=3732s)
+- **RD 455 (2019-01-31)**, 44 · relator **Francisval Mendes** · Ampliação de área (cerca de 24.976 m²) e de capacidade de TUP em Canoas (RS) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=3888s)
+- **RD 455 (2019-01-31)**, 45 · relator **Francisval Mendes** · Comunicação de aumento de capacidade de armazenagem de TUP sem ampliação de área → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=4010s)
+- **RD 455 (2019-01-31)**, 46 · relator **Francisval Mendes** · Processo administrativo sancionador: operação de terminal sem contrato de adesão (reincidência) → aprovado por unanimidade — multa de 140 mil reais
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=4140s)
+- **RD 455 (2019-01-31)**, 50 · relator **Francisval Mendes** · Embargos de declaração (recebidos como direito de petição) contra a Resolução 6456-ANTAQ — instalação portuária de turismo em Balneário Camboriú (SC) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=4852s)
+- **RD 455 (2019-01-31)**, 54 · relator **Francisval Mendes** · Revogação de autorização de aumento de capacidade/ampliação (Resolução 2368-ANTAQ), TUP em Rio Grande (RS) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=5798s)
+- **RD 455 (2019-01-31)**, 75 · relator **Adalberto Tokarski** · Dispensa de renovação da garantia de execução de contrato de adesão de TUP → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=8623s)
+- **RD 456 (2019-02-26)**, 4 · relator **Mário Povia** · Ampliação de terminal de uso privado (Manaus) → vista mantida (processo em diligência)
+  - votos: Mário: relator; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=109s)
+- **RD 456 (2019-02-26)**, 5 · relator **Francisval Mendes** · Ampliação de área de instalação portuária → vista mantida
+  - votos: Francisval: relator; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=131s)
+- **RD 456 (2019-02-26)**, 12 · relator **Francisval Mendes** · Anuência prévia para transferência de controle societário indireto do TUP TGSC (contrato de adesão 023/2014) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=1326s)
+- **RD 456 (2019-02-26)**, 20 · relator **Francisval Mendes** · Desistência do anúncio público 05/2015 (estação de transbordo de carga em Santana/AP) → aprovado por unanimidade: desistência deferida, processo arquivado e garantias devolvidas
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=1764s)
+- **RD 456 (2019-02-26)**, 33 · relator **Adalberto Tokarski** · Roteiro/metodologia de análise de reajuste e abusividade de preços de terminais portuários arrendados e autorizados, a submeter a audiência pública → aprovado o envio a audiência pública com texto de consenso a consolidar; relator vencido q
+  - votos: Adalberto: vencido; Francisval: outro; Mário: outro · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=3101s)
+- **RD 456 (2019-02-26)**, 37 · relator **Adalberto Tokarski** · Adaptação do contrato de adesão 051/2014 ao Decreto 9.048/2017 → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=5012s)
+- **RD 456 (2019-02-26)**, 38 · relator **Adalberto Tokarski** · Processo administrativo sancionador: operação portuária sem autorização prévia (art. 36, XIV, da Res. 3.274) → pedido de vista de Francisval Mendes
+  - votos: Adalberto: relator; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=5287s)
+- **RD 456 (2019-02-26)**, 41 · relator **Mário Povia** · Referendo da Resolução 6.728: consulta sobre reorganização societária interna sem mudança de controle (TUPs de granéis líquidos no RJ) → referendado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=6193s)
+- **RD 458 (2019-04-04)**, 1 · relator **Mário Povia** · Ampliação de área do TUP da Super Terminais em Manaus (contrato de adesão 51/2014), processo com voto do relator e pedidos de vista → voto-vista de Adalberto Tokarski proferido; julgamento aparentemente não concluído (novo p
+  - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=25s)
+- **RD 458 (2019-04-04)**, 2 · relator **Francisval Mendes** · Ampliação de área e alteração de modalidade de ETC para TUP da Chibatão em Manaus (voto-vista) → prevalece o voto-vista de Adalberto Tokarski (retorno à área técnica), com adesão de Mário
+  - votos: Adalberto: revisor_diverge; Mário: revisor_acompanha; Francisval: vencido · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=837s)
+- **RD 458 (2019-04-04)**, 10 · relator **Mário Povia** · Dispensa de renovação ou devolução da garantia de execução de TUP (anúncio público 21/2016; contrato de adesão 4/2018) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=1397s)
+- **RD 458 (2019-04-04)**, 18 · relator **Francisval Mendes** · Comunicação de aumento de capacidade de armazenagem sem ampliação de área de TUP (contrato de adesão 12/2017) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=4558s)
+- **RD 458 (2019-04-04)**, 25 · relator **Adalberto Tokarski** · Prorrogação de prazo para início das operações das novas áreas ampliadas do TUP e adaptação do contrato de adesão 31/2014 ao Decreto 9.048/2017 → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=6258s)
+- **RD 458 (2019-04-04)**, 34 · relator **Adalberto Tokarski** · Transferência de titularidade do contrato de arrendamento PRES 04/1997 e do contrato de adesão 89/2015 da Fibria para a Suzano (reorganização societár → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=6882s)
+- **RD 458 (2019-04-04)**, 35 · relator **Adalberto Tokarski** · Alteração de controle societário das titulares do arrendamento 02/2016 (Santos) e dos contratos de adesão 106/2016 (Portocel, Barra do Riacho) e 66/20 → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=7249s)
+- **RD 459 (2019-04-15)**, 18 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (RN 13) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=5239s)
+- **RD 459 (2019-04-15)**, 29 · relator **Francisval Mendes** · Nova autorização em caráter especial e de emergência (art. 49 da Lei 10.233) para operação de granel líquido (combustíveis) em Itaituba/PA → aprovado por maioria (Mário Povia vencido)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=5332s)
+- **RD 459 (2019-04-15)**, 34 · relator **Adalberto Tokarski** · Autorização para construção e exploração de TUP em Mossoró/RN (sal marinho) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=5780s)
+- **RD 459 (2019-04-15)**, 35 · relator **Adalberto Tokarski** · Autorização para construção e exploração de TUP em Porto Velho/RO (gleba Porto Chuelo; granéis líquidos) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=5930s)
+- **RD 459 (2019-04-15)**, 36 · relator **Adalberto Tokarski** · Autorização para construção e exploração de TUP em Miritituba, Itaituba/PA (hoje operando por autorização especial) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=6060s)
+- **RD 459 (2019-04-15)**, 37 · relator **Adalberto Tokarski** · Dispensa/devolução da garantia de execução do contrato de adesão 3/2017 (Decreto 9.048/2017) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=6225s)
+- **RD 459 (2019-04-15)**, 42 · relator **Adalberto Tokarski** · Adaptação do contrato de adesão 3/2017 ao Decreto 9.048/2017 (garantia e limite de ampliação de área) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=6930s)
+- **RD 460 (2019-05-06)**, 9 · relator **Mário Povia** · Dispensa/devolução da garantia de execução do contrato de adesão 01/2016-SEP/PR (TUP) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=1757s)
+- **RD 460 (2019-05-06)**, 17 · relator **Francisval Mendes** · Registro de 40 instalações portuárias públicas de pequeno porte (IP4) no Amazonas e em Rondônia → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=2590s)
+- **RD 460 (2019-05-06)**, 18 · relator **Francisval Mendes** · Autorização para construção e exploração de TUP em Manaus (AM), 41.661,19 m², granéis líquidos (anúncio público 20/2018) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=2912s)
+- **RD 460 (2019-05-06)**, 19 · relator **Francisval Mendes** · Autorização para construção e exploração de estação de transbordo de cargas (ETC) em Oriximiná (PA), 19.030,70 m², granéis líquidos (anúncio público 1 → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=3288s)
+- **RD 460 (2019-05-06)**, 20 · relator **Francisval Mendes** · Dispensa da obrigação de manter garantia de execução do contrato de adesão 97/2015-ANTAQ → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=3598s)
+- **RD 461 (2019-05-20)**, 42 · relator **Adalberto Tokarski** · Consulta da CODESA sobre subconcessão de parte da área do contrato de concessão de direito real de uso 59/2008 (TUP de GLP) e adaptação ao Decreto 9.0 → aprovado por unanimidade; resposta por resolução
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=8072s)
+- **RD 462 (2019-05-30)**, 25 · relator **Francisval Mendes** · Autorização para construção e exploração de TUP em Niterói (RJ), 179 mil m², carga geral; anúncio público 14/2018 sem outros interessados → aprovado por unanimidade: reconhecida a possibilidade de contrato de adesão com o Ministér
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=7926s)
+- **RD 462 (2019-05-30)**, 26 · relator **Francisval Mendes** · Autorização em caráter especial (art. 49 da Lei 10.233) para movimentar e armazenar 260 contêineres de equipamentos para a fase 2 do campo Peregrino ( → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=8115s)
+- **RD 463 (2019-06-26)**, 3 · relator **Adalberto Tokarski** · Registro de instalação portuária (instalação de apoio ao transporte de passageiros) da empresa pública estadual; vista de Francisval Mendes; julgado j → aprovado por maioria (2x1), vencido Mário Povia
+  - votos: Adalberto: relator; Francisval: revisor_acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=789s)
+- **RD 463 (2019-06-26)**, 4 · relator **Adalberto Tokarski** · Registro de instalação portuária de passageiros; julgado junto com o item 3 (vista de Francisval Mendes) → aprovado por maioria (2x1), vencido Mário Povia
+  - votos: Adalberto: relator; Francisval: revisor_acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=1171s)
+- **RD 463 (2019-06-26)**, 18 · relator **Mário Povia** · Autorização para exploração de TUP (Terminal Dome) no complexo do Açu, São João da Barra (RJ), em área de 30 mil m² já usada para reparo naval sob reg → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=2443s)
+- **RD 463 (2019-06-26)**, 20 · relator **Mário Povia** · Cumprimento das determinações da Resolução 6006-ANTAQ (minuta padrão de anúncio público com sanções por não oferecimento de garantias) → aprovado por unanimidade (arquivamento)
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=3199s)
+- **RD 463 (2019-06-26)**, 24 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (art. 2º, V, da RN 13); julgado em bloco com o item 25 → aprovado por unanimidade (bloco 24-25)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=3633s)
+- **RD 463 (2019-06-26)**, 25 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (art. 2º, V, da RN 13); julgado em bloco com o item 24 → aprovado por unanimidade (bloco 24-25)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=3633s)
+- **RD 463 (2019-06-26)**, 26 · relator **Francisval Mendes** · Autorização para construção e exploração de ETC (estação de transbordo de cargas) em Caracaraí (RR), granel líquido, área de cerca de 39,7 mil m² → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=3768s)
+- **RD 463 (2019-06-26)**, 27 · relator **Francisval Mendes** · Prorrogação do cronograma físico-financeiro de implantação de TUP (contrato de adesão 9/2015), obras até novembro de 2021 → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=3960s)
+- **RD 463 (2019-06-26)**, 38 · relator **Adalberto Tokarski** · Arbitragem administrativa sobre cobrança das tabelas tarifárias 1 e 2 (acesso aquaviário e terrestre, estrada particular da CODESP) à Embraport, TUP c → não concluído: vista de Mário Povia após o voto do relator
+  - votos: Adalberto: relator; Mário: vista; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=8911s)
+- **RD 463 (2019-06-26)**, 52 · relator **Adalberto Tokarski** · Prorrogação do cronograma físico-financeiro de obras remanescentes de TUP em Santos (contrato de adesão 39/2014) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=10821s)
+- **RD 463 (2019-06-26)**, 54 · relator **Adalberto Tokarski** · Transferência de titularidade do contrato de adesão 102/2016 (TUP em Duque de Caxias, RJ, granéis líquidos e gasosos) para a incorporadora Braskem S.A → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=11204s)
+- **RD 464 (2019-06-28)**, 3 · relator **Adalberto Tokarski** · Arbitragem administrativa de conflito: cobrança das tarifas portuárias Tabela 1 (acesso aquaviário, pleito de proporcionalidade) e Tabela 2 item 5 (ac → voto-vista divergente em parte proferido por Mário Povia; processo vai à vista de Francisv
+  - votos: Adalberto: relator; Mário: revisor_diverge; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=65s)
+- **RD 464 (2019-06-28)**, 5 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (FSRU, embarcação de regaseificação de GNL atracada/fundeada) dentro da poligonal do porto or → aprovado por unanimidade, nos termos do voto condutor com as ressalvas do voto-vista
+  - votos: Adalberto: relator; Mário: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=909s)
+- **RD 464 (2019-06-28)**, 6 · relator **Mário Povia** · Ampliação do TUP da Super Terminais em Manaus (aditamento ao contrato de adesão 51/2014), em disputa locacional com o terminal lindeiro Chibatão e sob → aprovado por maioria nos termos do voto condutor com o encaminhamento do voto-vista de Tok
+  - votos: Mário: revisor_acompanha; Adalberto: revisor_acompanha; Francisval: vencido · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=1383s)
+- **RD 464 (2019-06-28)**, 11 · relator **Mário Povia** · Transferência de titularidade (processo em vista) → vista renovada (Adalberto Tokarski); não deliberado
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=6491s)
+- **RD 464 (2019-06-28)**, 13 · relator **Mário Povia** · Registro de instalação de apoio ao transporte aquaviário em Macaé/RJ (movimentação de pessoal, reparo e manutenção de embarcações) → aprovado por unanimidade nos termos do voto condutor
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=6524s)
+- **RD 464 (2019-06-28)**, 20 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (RN 13) - julgado em bloco (itens 20 a 22) → aprovado por unanimidade nos termos do voto condutor (bloco)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=9001s)
+- **RD 464 (2019-06-28)**, 21 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (RN 13) - julgado em bloco (itens 20 a 22) → aprovado por unanimidade nos termos do voto condutor (bloco)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=9001s)
+- **RD 464 (2019-06-28)**, 22 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (RN 13) - julgado em bloco (itens 20 a 22) → aprovado por unanimidade nos termos do voto condutor (bloco)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=9001s)
+- **RD 464 (2019-06-28)**, 28 · relator **Adalberto Tokarski** · Registro de instalação de apoio para embarque e desembarque de cargas/passageiros em Barcarena/PA → aprovado por unanimidade nos termos do voto condutor
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=9526s)
+- **RD 464 (2019-06-28)**, 29 · relator **Adalberto Tokarski** · Registro de instalação de apoio (Estaleiro Guajará) em Guajará-Mirim/RO → aprovado por unanimidade nos termos do voto condutor
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=9620s)
+- **RD 464 (2019-06-28)**, 30 · relator **Adalberto Tokarski** · Registro de instalação de apoio para embarque e desembarque de passageiros (Trapiche de Soure) → aprovado por unanimidade nos termos do voto condutor
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=cG1DuR6WaWY&t=9688s)
+- **RD 465 (2019-08-22)**, 57 · relator **Francisval Mendes** · Ampliação de área de TUP na Ilha de Viana, Niterói (RJ), com aumento de capacidade de 60 mil t/ano (aditamento ao contrato de adesão 04/2016) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=0s)
+- **RD 465 (2019-08-22)**, 59 · relator **Francisval Mendes** · Comunicação de instalação de balsas espaçadoras em TUP em Niterói (RJ), contrato de adesão 04/2017 → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=555s)
+- **RD 465 (2019-08-22)**, 60 · relator **Francisval Mendes** · Pedido de ratificação da Resolução 3536-ANTAQ (2014), que reconheceu a possibilidade de contrato de adesão para TUP no Rio de Janeiro → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=647s)
+- **RD 465 (2019-08-22)**, 68 · relator **Francisval Mendes** · Comunicação de alteração e consolidação do contrato social (reorganização societária) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=2413s)
+- **RD 465 (2019-08-22)**, 69 · relator **Francisval Mendes** · Comunicação de incorporação da Portonave Participações S.A. (reorganização societária; contrato de adesão 60/2015) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=2477s)
+- **RD 465 (2019-08-22)**, 70 · relator **Francisval Mendes** · Comunicação da 13ª alteração contratual (enviada pelo Ministério da Infraestrutura) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=2571s)
+- **RD 465 (2019-08-22)**, 90 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (RN 13/2016); julgado em bloco com 91-93; vista de Francisval Mendes → não concluído: vista de Francisval Mendes após o voto do relator
+  - votos: Adalberto: relator; Francisval: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=6274s)
+- **RD 465 (2019-08-22)**, 91 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (RN 13/2016); julgado em bloco com 90, 92 e 93 → aprovado por maioria (2x1), vencido Mário Povia (atribuição provável)
+  - votos: Adalberto: relator; Francisval: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=6274s)
+- **RD 465 (2019-08-22)**, 92 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (RN 13/2016); julgado em bloco com 90-93 → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=6274s)
+- **RD 465 (2019-08-22)**, 93 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (RN 13/2016); julgado em bloco com 90-93 → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=6274s)
+- **RD 465 (2019-08-22)**, 95 · relator **Adalberto Tokarski** · Autorização para construção e exploração (regularização de instalação já construída) de TUP em Salvador (BA), carga geral → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=6687s)
+- **RD 465 (2019-08-22)**, 108 · relator **Adalberto Tokarski** · Ampliação da ETC em Porto Velho (RO) em 764,4 m² de área de acostagem (aditamento ao contrato de adesão 6/2014) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=8628s)
+- **RD 466 (2019-09-27)**, 60 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (julgamento em bloco dos itens 60 a 62) → aprovado por maioria nos termos do voto do relator; Mário Povia vencido
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=763s)
+- **RD 466 (2019-09-27)**, 61 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (julgamento em bloco dos itens 60 a 62) → aprovado nos termos do voto do relator (bloco 60-62)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=763s)
+- **RD 466 (2019-09-27)**, 62 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (julgamento em bloco dos itens 60 a 62) → aprovado nos termos do voto do relator (bloco 60-62)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=763s)
+- **RD 466 (2019-09-27)**, 63 · relator **Francisval Mendes** · Ampliação de área de TUP autorizado pelo contrato de adesão 53/2014 → aprovado nos termos do voto do relator
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=891s)
+- **RD 466 (2019-09-27)**, 64 · relator **Francisval Mendes** · Alteração do perfil de carga e ampliação de área de TUP (contrato de adesão 9/2015) → aprovado nos termos do voto do relator
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=1048s)
+- **RD 466 (2019-09-27)**, 65 · relator **Francisval Mendes** · Dispensa da obrigação de manter garantia de execução do contrato de adesão (Decreto 9.048/2017) — julgamento em bloco 65-66 → aprovado nos termos do voto do relator (bloco 65-66)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=1514s)
+- **RD 466 (2019-09-27)**, 66 · relator **Francisval Mendes** · Dispensa da obrigação de manter garantia de execução do contrato de adesão (Decreto 9.048/2017) — julgamento em bloco 65-66 → aprovado nos termos do voto do relator (bloco 65-66)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=1514s)
+- **RD 466 (2019-09-27)**, 67 · relator **Francisval Mendes** · Adequação do contrato de adesão 7/2014 para incluir o perfil granel sólido (erro material) → aprovado nos termos do voto do relator
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=1610s)
+- **RD 466 (2019-09-27)**, 98 · relator **Adalberto Tokarski** · Acompanhamento de TAC (regularização com assinatura do contrato de adesão 7/2019 da ETC) → aprovado nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=8355s)
+- **RD 466 (2019-09-27)**, 99 · relator **Adalberto Tokarski** · Consulta sobre serviço temporário de carga, descarga e armazenagem de contêineres vazios por barcaça antes da conclusão do terminal → aprovado nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=8534s)
+- **RD 466 (2019-09-27)**, 103 · relator **Adalberto Tokarski** · Autorização de ETC para granel sólido (anúncio público 12/2019; investimento de R$ 250 milhões) → aprovado nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=9087s)
+- **RD 466 (2019-09-27)**, 104 · relator **Adalberto Tokarski** · Autorização de TUP para carga geral e conteinerizada (anúncio público 3/2019), a partir de instalação antes registrada (RN 13) → aprovado nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=9297s)
+- **RD 466 (2019-09-27)**, 112 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (RN 13/2016), julgamento em bloco dos itens 112 a 119 → aprovado nos termos do voto do relator (bloco 112-119; unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=9818s)
+- **RD 466 (2019-09-27)**, 113 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (RN 13/2016), julgamento em bloco dos itens 112 a 119 → aprovado nos termos do voto do relator (bloco 112-119; unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=9818s)
+- **RD 466 (2019-09-27)**, 114 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (RN 13/2016), julgamento em bloco dos itens 112 a 119 → aprovado nos termos do voto do relator (bloco 112-119; unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=9818s)
+- **RD 466 (2019-09-27)**, 115 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (RN 13/2016), julgamento em bloco dos itens 112 a 119 → aprovado nos termos do voto do relator (bloco 112-119; unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=9818s)
+- **RD 466 (2019-09-27)**, 116 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (RN 13/2016), julgamento em bloco dos itens 112 a 119 → aprovado nos termos do voto do relator (bloco 112-119; unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=9818s)
+- **RD 466 (2019-09-27)**, 117 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (RN 13/2016), julgamento em bloco dos itens 112 a 119 → aprovado nos termos do voto do relator (bloco 112-119; unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=9818s)
+- **RD 466 (2019-09-27)**, 118 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (RN 13/2016), julgamento em bloco dos itens 112 a 119 → aprovado por maioria nos termos do voto do relator; Mário Povia vencido
+  - votos: Adalberto: relator; Francisval: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=9818s)
+- **RD 466 (2019-09-27)**, 119 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (RN 13/2016), julgamento em bloco dos itens 112 a 119 → aprovado nos termos do voto do relator (bloco 112-119; unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=9818s)
+- **RD 466 (2019-09-27)**, 120 · relator **Adalberto Tokarski** · Dispensa da renovação e devolução da garantia de execução de contrato de adesão (julgamento em bloco 120-121) → aprovado nos termos do voto do relator (bloco 120-121)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=10075s)
+- **RD 466 (2019-09-27)**, 121 · relator **Adalberto Tokarski** · Dispensa da renovação e devolução da garantia de execução de contrato de adesão (julgamento em bloco 120-121) → aprovado nos termos do voto do relator (bloco 120-121)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=10075s)
+- **RD 466 (2019-09-27)**, 124 · relator **Adalberto Tokarski** · Autorização em caráter especial (art. 49 da Lei 10.233) para movimentar soja e milho por 180 dias → aprovado nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=10437s)
+- **RD 466 (2019-09-27)**, 135 (referendo) · relator **Adalberto Tokarski** · Referendo da Resolução 6.767: cautelar suspendendo a cobrança da taxa de utilização da infraestrutura de proteção e acesso aquaviário pela EMAP a navi → referendado
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=11882s)
+- **RD 467 (2019-10-21)**, 7 · relator **Adalberto Tokarski** · Arbitragem administrativa de conflito: proporcionalidade tarifária prevista no contrato de adesão do TUP Embraport (Santos) → aprovado nos termos do voto-vista de Mário Povia (relator vencido)
+  - votos: Adalberto: vencido; Mário: revisor_diverge; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=1314s)
+- **RD 467 (2019-10-21)**, 9 · relator **Francisval Mendes** · Processo sancionador (AI 3108-9): ETC em São Simão (hidrovia Tietê-Paraná) operando antes do contrato de adesão → aprovado nos termos do voto-vista: advertência em vez de multa
+  - votos: Francisval: relator; Adalberto: revisor_diverge; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=1695s)
+- **RD 467 (2019-10-21)**, 26 · relator **Mário Povia** · Registro de instalação portuária na Ilha da Conceição (Niterói/RJ) → adiado (vista de Adalberto Tokarski)
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=4131s)
+- **RD 467 (2019-10-21)**, 27 · relator **Mário Povia** · Transferência de titularidade do contrato de adesão 17/2018 (TUP em Pelotas) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=4295s)
+- **RD 467 (2019-10-21)**, 31 · relator **Mário Povia** · Cessão fiduciária de direitos emergentes da outorga do TUP (debêntures com BID) → aprovado nos termos do voto condutor; Tokarski divergiu parcialmente
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=5233s)
+- **RD 467 (2019-10-21)**, 41 · relator **Francisval Mendes** · Autorização para construção e exploração de TUP em São Mateus/ES (Centro Portuário de São Mateus) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=6801s)
+- **RD 467 (2019-10-21)**, 57 · relator **Adalberto Tokarski** · Consulta sobre reestruturação societária (contrato de adesão 3/2014) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=10313s)
+- **RD 468 (2019-11-08)**, 25 · relator **Mário Povia** · Autorização em caráter especial para instalação portuária — perda de objeto após celebração do contrato de adesão 16/2019 → aprovado (arquivamento)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=4028s)
+- **RD 468 (2019-11-08)**, 41 · relator **Adalberto Tokarski** · Transferência de controle societário indireto da autorizatária do TUP (contrato de adesão 93/2015) para a Vale → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=7260s)
+- **RD 468 (2019-11-08)**, 45 · relator **Adalberto Tokarski** · Aumento de capacidade, sem expansão de área, do TUP em Barcarena (PA) — contrato de adesão 16/2014 → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=7662s)
+- **RD 468 (2019-11-08)**, 58 · relator **Mário Povia** · Anuência prévia à transferência de controle societário de autorizatárias de TUP e requerentes (Porto Velho, Itaituba, Manaus) na reorganização do grup → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=8147s)
+- **RD 469 (2019-11-20)**, 22 · relator **Francisval Mendes** · Requerimento de exclusão do art. 15 da Resolução Normativa 18/2017 (direitos e deveres dos usuários na navegação) → aprovado por unanimidade: não conhecimento e extinção
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=W57uJxuLJM8&t=3296s)
+- **RD 470 (2019-12-12)**, 4 · relator **Francisval Mendes** · Pedido de registro de instalação de apoio (terminal de passageiros/píer turístico) dentro da poligonal do porto organizado de Itajaí/SC, pela própria  → indeferido por maioria (registro inaplicável à espécie), nos termos do relator; vencido Ad
+  - votos: Francisval: relator; Adalberto: vencido; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=470s)
+- **RD 470 (2019-12-12)**, 7 · relator **Mário Povia** · Interpretação normativa da RN 13 (instalações de apoio) → aprovado por unanimidade nos termos do voto condutor
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=2263s)
+- **RD 470 (2019-12-12)**, 11 · relator **Mário Povia** · Registro de instalação de apoio em Porto Velho/RO (margem do rio Madeira), condicionado a exigências da Defesa Civil → aprovado por unanimidade nos termos do voto condutor
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=2391s)
+- **RD 470 (2019-12-12)**, 15 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (RN 13) - julgado em bloco com o item 16 → aprovado por unanimidade nos termos do voto condutor (bloco)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=5403s)
+- **RD 470 (2019-12-12)**, 16 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário em Belém/PA (RN 13) - julgado em bloco com o item 15 → aprovado por unanimidade nos termos do voto condutor (bloco)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=5403s)
+- **RD 470 (2019-12-12)**, 17 · relator **Francisval Mendes** · Dispensa da garantia de execução do contrato de adesão (TUP) após o Decreto 9.048/2017 → aprovado por unanimidade nos termos do voto condutor
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=5515s)
+- **RD 470 (2019-12-12)**, 18 · relator **Francisval Mendes** · Retificação da Res. 5.301 (mantém só aumento de capacidade, sem ampliação de área), alteração de razão social no contrato de adesão 21/2014 e prorroga → aprovado por unanimidade nos termos do voto condutor
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=5648s)
+- **RD 470 (2019-12-12)**, 27 · relator **Francisval Mendes** · Consulta: vinculação do prazo do contrato C-SEJUR 03/89 (área fora da poligonal) ao prazo do contrato de adesão 54/2014 do TUP da CPVV → aprovado por unanimidade nos termos do voto condutor
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=6945s)
+- **RD 470 (2019-12-12)**, 37 · relator **Adalberto Tokarski** · Registro de instalação de apoio (Terminal Hidroviário de Laranjal do Jari) → aprovado por unanimidade nos termos do voto condutor
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=9379s)
+- **RD 470 (2019-12-12)**, 38 · relator **Adalberto Tokarski** · Registro de instalação de apoio (Terminal da Balsa Amarela) na Manaus Moderna, margem do rio Negro, Manaus/AM → indeferido por unanimidade nos termos do voto condutor
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=9487s)
+- **RD 470 (2019-12-12)**, 39 · relator **Adalberto Tokarski** · Autorização de TUP em Santana/AP (granéis, cerca de 169,5 mil m², investimento de cerca de R$ 61 milhões, implantação em 5 anos) após anúncio público  → aprovado por unanimidade nos termos do voto condutor
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=9827s)
+- **RD 470 (2019-12-12)**, 44 · relator **Adalberto Tokarski** · Transferência de titularidade do contrato de adesão (TUP) por incorporação da Flexibrás pela Technip → aprovado por unanimidade nos termos do voto condutor
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=11189s)
+- **RD 470 (2019-12-12)**, 51 · relator **Francisval Mendes** · Referendo e retificação da Res. 7.403: recomenda aditivo ao contrato de adesão 03/2014 (TUP) prorrogando em ao menos 18 meses o prazo para comprovar o → aprovado por unanimidade nos termos do voto condutor
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=12150s)
+- **RD 471 (2019-12-20)**, 6 · relator **Mário Povia** · Ampliação do Terminal Portuário do Pecém (TUP, São Gonçalo do Amarante/CE): aditamento ao contrato de adesão 113/2016 para área total de cerca de 1,96 → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=P_LIYIJGp8I&t=124s)
+- **RD 471 (2019-12-20)**, 8 · relator **Mário Povia** · Ampliação de terminal de uso privado (contrato de adesão 068/2015), área total ~928 mil m², granéis sólidos e líquidos; envio ao MInfra → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=P_LIYIJGp8I&t=339s)
+- **RD 471 (2019-12-20)**, 14 · relator **Francisval Mendes** · Prorrogação do prazo para início da operação do TUP (contrato de adesão 23/2014), nova data até 2024 segundo novo cronograma → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=P_LIYIJGp8I&t=1438s)
+- **RD 471 (2019-12-20)**, 20 · relator **Adalberto Tokarski** · Cumprimento do TAC 01/2016 da UR Rio de Janeiro (regularização para obtenção de autorização de TUP) e arquivamento; lido por engano como item 17 → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P_LIYIJGp8I&t=2011s)
+- **RD 471 (2019-12-20)**, 22 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (IP4) na margem direita do rio Amazonas, Gurupá/PA → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P_LIYIJGp8I&t=2873s)
+- **RD 472 (2020-02-10)**, 8 · relator **Mário Povia** · Pedido de reconsideração da Chibatão contra o Acórdão 59/2019-ANTAQ (ampliação de Superterminais, Manaus) → aprovado por maioria; Tokarski vencido
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=775s)
+- **RD 473 (2020-02-10)**, 9 · relator **Mário Povia** · Pedido de reconsideração da Embraport contra o Acórdão 95/2019: proporcionalidade das tarifas portuárias (Tabelas 1 e 2) cobradas de terminal autoriza → aprovado por maioria — pedido conhecido e improvido; vencido Adalberto Tokarski
+  - votos: Mário: relator; Adalberto: vencido; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=1785s)
+- **RD 472 (2020-02-10)**, 11 · relator **Mário Povia** · Registro de instalação de apoio ao transporte aquaviário (RN 13) → pedido de vista (Adalberto Tokarski)
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=2027s)
+- **RD 472 (2020-02-10)**, 20 · relator **Francisval Mendes** · Ampliação e alteração de modalidade de ETC para TUP em Manaus (anúncio público 04/2016) → aprovado por maioria; Mário Povia vencido
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=3279s)
+- **RD 472 (2020-02-10)**, 29 · relator **Francisval Mendes** · Consulta regulatória sobre operação do TPD no TUP Tubarão (Vitória/ES) pela VLI → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=6628s)
+- **RD 473 (2020-02-10)**, 19 · relator **Mário Povia** · Outorga de autorização para ETC de granéis sólidos agrícolas → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=7979s)
+- **RD 473 (2020-02-10)**, 35 · relator **Adalberto Tokarski** · Ampliação, aumento de capacidade e alteração de projeto do TUP (terminal de óleo cru e derivados, píer com quatro berços) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=9611s)
+- **RD 472 (2020-02-10)**, 40 · relator **Adalberto Tokarski** · Cumprimento do TAC 11/2016 (UR Porto Alegre) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=9778s)
+- **RD 473 (2020-02-10)**, 37 · relator **Adalberto Tokarski** · Recurso contra a Resolução 5.753/2017 (ampliação de 400 m do cais flutuante e alteração de perfil de carga do TUP Chibatão) → aprovado por unanimidade — recurso improvido por perda superveniente de objeto
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=10169s)
+- **RD 473 (2020-02-10)**, 44 · relator **Francisval Mendes** · Referendo da Resolução 7.550 — transferência de titularidade do contrato de adesão 85/2015 (TUP de granéis, Arco Norte) → referendado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=11531s)
+- **RD 474 (2020-03-06)**, 12 · relator **Francisval Mendes** · Autorização em caráter especial (art. 49 da Lei 10.233; art. 31, IV, RN 20) por 180 dias para testes de movimentação de granéis sólidos (minério de fe → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=2632s)
+- **RD 474 (2020-03-06)**, 15 · relator **Francisval Mendes** · Autorização para construção e exploração de TUP de granéis líquidos e gasosos (apoio offshore/onshore) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=3147s)
+- **RD 474 (2020-03-06)**, 28 · relator **Adalberto Tokarski** · Autorização para construção e exploração de TUP → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=7467s)
+- **RD 474 (2020-03-06)**, 29 · relator **Adalberto Tokarski** · Prorrogação do prazo de início de operação do TUP → aprovado por unanimidade — reconhecida a possibilidade de prorrogação; decisão final ao Mi
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=7606s)
+- **RD 474 (2020-03-06)**, 31 · relator **Adalberto Tokarski** · Consulta sobre necessidade de autorização da ANTAQ para cessão parcial e gratuita de espaço do terminal (contrato de adesão 4/2017) a terceiro para co → aprovado por unanimidade — autorização desnecessária
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=7885s)
+- **RD 474 (2020-03-06)**, 33 · relator **Adalberto Tokarski** · Transferência de titularidade do contrato de adesão 1/2015 (TUP de carga geral, granel líquido e apoio offshore) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=8210s)
+- **RD 474 (2020-03-06)**, 39 · relator **Gabriela Costa** · Pedido de procedimento conciliatório por suposto conflito locacional entre TUP pretendido e instalação flutuante já registrada (Res. 6.602) → aprovado por unanimidade — pedido indeferido
+  - votos: Gabriela: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=9182s)
+- **RD 477 (2020-05-10)**, 3 · relator **Adalberto Tokarski** · Requerimento de convalidação/ratificação dos atos da outorga do TUP em Pontal do Paraná (contrato de adesão 47/1996 e adaptação 6/2014) – voto-vista → aprovado o voto-vista de Gabriela Costa (indeferimento); vencido o relator
+  - votos: Adalberto: vencido; Gabriela: revisor_diverge; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=1667s)
+- **RD 477 (2020-05-10)**, 8 · relator **Francisval Mendes** · Pedido de reconsideração de multa de R$ 140 mil por explorar TUP em Cruzeiro do Sul/AC sem autorização → pedido de vista (Adalberto Tokarski) após leitura do voto
+  - votos: Francisval: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=3046s)
+- **RD 479 (2020-06-09)**, 2 · relator **Francisval Mendes** · Pedido de reconsideração contra multa por explorar TUP em Cruzeiro do Sul (AC) sem autorização do poder concedente (art. 36, XV, Res. 3.274) → sobrestado na Secretaria-Geral até a renovação do colegiado (três posições diferentes sobr
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=398s)
+- **RD 481 (2020-07-04)**, 16 · relator **Adalberto Tokarski** · Revisão de registro de TUP para registro de instalação de apoio ao transporte aquaviário (RN 13, art. 2º), por estar fora do porto organizado e sem eq → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: outro; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=4352s)
+- **RD 483 (2020-08-10)**, 2 · relator **Francisval Mendes** · Referendo da Res. 7.537-ANTAQ: autorização em caráter especial (art. 49 da Lei 10.233 e art. 31 da RN 20) para movimentação de carga no TUP da empresa → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=274s)
+- **RD 483 (2020-08-10)**, 11 · relator **Gabriela Costa** · Proposta da Ouvidoria de suprimir a exigência de regularidade fiscal nas outorgas de EBN e de TUP (desburocratização) → pedido de vista renovado (Tokarski), após leitura do voto da relatora
+  - votos: Gabriela: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=3106s)
+- **RD 483 (2020-08-10)**, 14 · relator **Gabriela Costa** · Consulta do CADE sobre possível abusividade na cobrança de segregação e entrega de contêineres (SSE/THC2) em regime de trânsito aduaneiro. Julgados em → aprovado nos termos do voto-vista (com acréscimos e ressalvas)
+  - votos: Gabriela: relator; Adalberto: revisor_acompanha; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=3609s)
+- **RD 483 (2020-08-10)**, 15 · relator **Gabriela Costa** · Pedido de medida cautelar contra suposta ilegalidade da SRG/GRP no ofício ao CADE sobre a Itapoá → aprovado nos termos do voto-vista (com acréscimos e ressalvas)
+  - votos: Gabriela: relator; Adalberto: revisor_acompanha; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=4145s)
+- **RD 483 (2020-08-10)**, 21 · relator **Francisval Mendes** · Prorrogação do prazo de início de operação de TUP (contrato de adesão 08/2017-MTPA) após a Portaria 1.064/2020 do MInfra → aprovado por maioria nos termos do voto do relator (Tokarski vencido)
+  - votos: Francisval: relator; Adalberto: outro; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=6021s)
+- **RD 483 (2020-08-10)**, 29 · relator **Francisval Mendes** · Recurso (recebido como pedido de reconsideração) para rerratificar a Res. 7.613 (autorização em caráter especial para granel sólido por 180 dias) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=8140s)
+- **RD 483 (2020-08-10)**, 35 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (RN 13). Lido em conjunto com o item 36. → aprovado por unanimidade, com condicionante proposta por Gabriela Costa
+  - votos: Adalberto: relator; Gabriela: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=15142s)
+- **RD 483 (2020-08-10)**, 36 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (RN 13) → pedido de vista (Francisval Mendes) após leitura do voto do relator
+  - votos: Adalberto: relator; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=15235s)
+- **RD 483 (2020-08-10)**, 37 · relator **Adalberto Tokarski** · Declaração de utilidade pública (DUP): DUP para supressão de vegetação nativa em área urbana (490 m²) — instalação portuária de turismo (contrato de a → aprovado nos termos do voto de Gabriela Costa (Tokarski vencido no item 1 do dispositivo)
+  - votos: Adalberto: vencido; Gabriela: outro; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=15347s)
+- **RD 483 (2020-08-10)**, 38 · relator **Adalberto Tokarski** · Declaração de utilidade pública (DUP): DUP para licenças de supressão de vegetação (Mata Atlântica) e estudos de fauna — TUP do contrato de adesão 6/2 → aprovado nos termos do voto de Gabriela Costa (Tokarski vencido no item 1 do dispositivo)
+  - votos: Adalberto: vencido; Gabriela: outro; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=15347s)
+- **RD 483 (2020-08-10)**, 52 · relator **Gabriela Costa** · Nova autorização em caráter especial (180 dias) para movimentação de granel sólido em instalação privada enquanto o MInfra conclui a outorga do TUP → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=16963s)
+- **RD 483 (2020-08-10)**, 53 · relator **Gabriela Costa** · Consulta sobre aumento de capacidade de TUP sem ampliação de área (blocos de granito) → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=17256s)
+- **RD 483 (2020-08-10)**, 56 · relator **Gabriela Costa** · Ressarcimento a TUPs dos valores pagos a trabalhadores portuários avulsos afastados (MP 945/2020) → aprovado nos termos do voto condutor (Tokarski e Francisval com observação: conhecer e enc
+  - votos: Gabriela: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=18084s)
+- **RD 483 (2020-08-10)**, 64 · relator **Gabriela Costa** · Transferência de titularidade de TUP (contrato de adesão 23/2019-MInfra) entre empresas do mesmo grupo → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=19882s)
+- **RD 485 (2020-08-27)**, 2 · relator **Francisval Mendes** · Referendo da Resolução 7961-ANTAQ sobre aplicabilidade da Portaria Minfra 1064/2020 aos processos de autorização em curso; sustentação oral da advogad → aprovado por unanimidade (referendo)
+  - votos: Francisval: relator; Adalberto: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=152s)
+- **RD 485 (2020-08-27)**, 4 · relator **Francisval Mendes** · Referendo da Resolução 7964: pedido de aumento de capacidade sem expansão de área do TUP (contrato de adesão 16/2014) → aprovado por unanimidade (referendo)
+  - votos: Francisval: relator; Adalberto: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=1034s)
+- **RD 485 (2020-08-27)**, 15 · relator **Francisval Mendes** · Processo sancionador (auto de infração 3532/17) por não iniciar obras do TUP no prazo do cronograma do contrato de adesão 86/2015; sustentação oral do → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=4751s)
+- **RD 485 (2020-08-27)**, 23 · relator **Francisval Mendes** · Autorização em caráter especial e emergencial para continuar testes de comissionamento do TUP por 180 dias (atrasos pela pandemia) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=9197s)
+- **RD 487 (2020-09-30)**, 1 · relator **Francisval Mendes** · Referendo da Resolução ad referendum (n. grafado 8026) sobre registro de instalação de apoio ao transporte aquaviário (art. 2º, V, RN 13/2016) do Muni → referendado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=52s)
+- **RD 487 (2020-09-30)**, 20 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (art. 2º, II, RN 13) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=6380s)
+- **RD 487 (2020-09-30)**, 21 · relator **Adalberto Tokarski** · Outorga de autorização para ETC (estação de transbordo de carga) em Jaguarão (RS), 63 mil m², chamamento 19/2018 → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=6461s)
+- **RD 490 (2020-12-08)**, 1 · relator **Francisval Mendes** · Referendo da Deliberação DG 12/2020: autorização em caráter especial e emergencial para alterar perfil de carga (granel sólido) no TUP objeto do contr → aprovado (referendado) por unanimidade
+  - votos: Francisval: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=336s)
+- **RD 490 (2020-12-08)**, 54 · relator **Adalberto Tokarski** · Pedido de reconsideração da Resolução 7.607 que indeferiu procedimento conciliatório (São Francisco do Sul-SC) → aprovado por unanimidade (indeferido)
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=18192s)
+- **RD 490 (2020-12-08)**, 60 · relator **Adalberto Tokarski** · Autorização em caráter especial/emergencial para operar TUP em São Gonçalo-RJ (granel líquido) antes da plena eficácia do contrato de adesão → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=18966s)
+- **RD 492 (2020-12-22)**, 14 · relator **Francisval Mendes** · Processo administrativo sancionador (AI 3769-9, UR Belém): construir e explorar instalação portuária em Itaituba/PA sem autorização → pedido de vista (Adalberto Tokarski)
+  - votos: Francisval: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=5952s)
+- **RD 492 (2020-12-22)**, 27 · relator **Francisval Mendes** · Renúncia ao contrato de adesão 98/2015 (ETC em Manaus) → aprovado por unanimidade
+  - votos: Francisval: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=7471s)
+- **RD 492 (2020-12-22)**, 36 · relator **Adalberto Tokarski** · Processo administrativo sancionador: subautorização irregular de ETC por locação → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=9469s)
+- **RD 492 (2020-12-22)**, 50 · relator **Adalberto Tokarski** · Viabilidade locacional e anúncio público para autorização de ETC de granéis sólidos → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=11659s)
+- **RD 494 (2021-02-03)**, 4 · relator **Francisval Mendes** · Processo administrativo sancionador: construir e explorar instalação portuária privada em Itaituba/PA sem autorização prévia do poder concedente (auto → aprovado nos termos do voto-vista de Adalberto Tokarski (2 x 1); relator vencido
+  - votos: Francisval: relator; Adalberto: revisor_diverge; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=3518s)
+- **RD 494 (2021-02-03)**, 5 · relator **Adalberto Tokarski** · Pedido da CDP para que a ANTAQ mude a posição apresentada como amicus curiae em ação judicial sobre a cobrança da Tabela 1 (infraestrutura aquaviária) → aprovado nos termos do voto do relator; acréscimo de nulidade de notas técnicas proposto p
+  - votos: Adalberto: relator; Francisval: vencido; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=3770s)
+- **RD 494 (2021-02-03)**, 40 · relator **Adalberto Tokarski** · Fiscalização de atraso nas obras do TUP em São Luís/MA; arquivamento sem auto de infração → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=12941s)
+- **RD 494 (2021-02-03)**, 43 · relator **Adalberto Tokarski** · Retificação de acórdão: autorização especial e de emergência por 180 dias para movimentar granéis sólidos (minério de ferro, manganês e cromo) a parti → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=13651s)
+- **RD 496 (2021-03-10)**, 30 · relator **Adalberto Tokarski** · Julgamento do TAC 3/2015 da UR Belém (certificação de segurança CONPORTOS/CESPORTOS) → pedido de vista (Gabriela Costa); julgamento suspenso
+  - votos: Adalberto: relator; Gabriela: vista · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=7827s)
+- **RD 498 (2021-04-08)**, 10 · relator **Eduardo Nery** · Pedido de reconsideração contra o Acórdão 11/2020 (viabilidade locacional da ampliação em água do TUP Chibatão), com sustentações orais → pedido de reconsideração não provido, por unanimidade
+  - votos: Eduardo: relator; Gabriela: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=2570s)
+- **RD 498 (2021-04-08)**, 37 · relator **Gabriela Costa** · Autorização especial (art. 49 da Lei 10.233) por 180 dias para operar granéis líquidos em TUP já outorgado (contrato de adesão 5/2021) que aguarda ces → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=8254s)
+- **RD 498 (2021-04-08)**, 38 · relator **Gabriela Costa** · Pedido de 'nada a opor' para operações de transbordo navio a navio (transhipment) de granel sólido → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=9657s)
+- **RD 500 (2021-05-21)**, 1 · relator **Adalberto Tokarski** · Referendo de deliberação que indeferiu pedido cautelar incidental para emissão imediata de registro de instalação de apoio ao transporte aquaviário (R → referendado por unanimidade (cautelar indeferida)
+  - votos: Adalberto: relator; Eduardo: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=171s)
+- **RD 500 (2021-05-21)**, 5 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário flutuante (fundeio) fora do porto organizado, em Macau/RN, para movimentação de sal marinho ( → indeferido por unanimidade (voto-vista de Gabriela Costa prevaleceu; relator reviu seu vot
+  - votos: Adalberto: revisor_acompanha; Gabriela: revisor_acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=622s)
+- **RD 500 (2021-05-21)**, 11 · relator **Eduardo Nery** · Registro de instalação de apoio ao transporte aquaviário (RN 13, art. 2º, V) → aprovado por unanimidade
+  - votos: Eduardo: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=4769s)
+- **RD 500 (2021-05-21)**, 18 · relator **Adalberto Tokarski** · Reconsideração da inabilitação no anúncio público 21/2019 (TUP na Ilha dos Bagres, Santos) por falta de declaração de adequação da SNPTA, sobrestada p → aprovado por maioria nos termos da divergência de Gabriela Costa (inabilitação mantida); r
+  - votos: Adalberto: vencido; Gabriela: outro; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=8760s)
+- **RD 500 (2021-05-21)**, 20 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (RN 13) – julgado em bloco com os itens 20 a 22 → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=14694s)
+- **RD 500 (2021-05-21)**, 21 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (RN 13) – julgado em bloco com os itens 20 a 22 → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=14694s)
+- **RD 500 (2021-05-21)**, 22 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário (RN 13) – julgado em bloco com os itens 20 a 22 → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=14694s)
+- **RD 500 (2021-05-21)**, 27 · relator **Adalberto Tokarski** · Autorização de TUP em Abaetetuba/PA (granéis líquidos) – reconhecimento da possibilidade de contrato de adesão → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=15045s)
+- **RD 500 (2021-05-21)**, 28 · relator **Adalberto Tokarski** · Ampliação de área do TUP Itapoá/SC (contrato de adesão 31/2014) – viabilidade locacional → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=15180s)
+- **RD 500 (2021-05-21)**, 29 · relator **Adalberto Tokarski** · Anúncio público 8/2018 – TUP em Santos/SP (Largo de Santa Rita, ~675 mil m², granéis sólidos, líquidos e carga geral) → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=15340s)
+- **RD 500 (2021-05-21)**, 30 · relator **Adalberto Tokarski** · Anúncio público 1/2021 – inclusão de granéis sólidos (grãos, fertilizantes) e ampliação de área do TUP em Miritituba (Itaituba/PA) → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=15590s)
+- **RD 500 (2021-05-21)**, 31 · relator **Adalberto Tokarski** · Anúncio público 21/2019 – alteração de perfil de carga e ampliação de área de TUP em Santos (contrato de adesão 6/2015) → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=15854s)
+- **RD 500 (2021-05-21)**, 37 · relator **Gabriela Costa** · Registro de instalação de apoio (Porto dos Pescadores) – atividade pesqueira → indeferido por unanimidade
+  - votos: Gabriela: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=16546s)
+- **RD 500 (2021-05-21)**, 38 · relator **Gabriela Costa** · Autorização especial (emergencial) para operar TUP em São Gonçalo/RJ por 180 dias a partir de 1º/06/2021, enquanto se regulariza a área molhada → aprovado por unanimidade
+  - votos: Gabriela: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=16695s)
+- **RD 500 (2021-05-21)**, 39 · relator **Gabriela Costa** · Autorização especial por 180 dias a partir de 23/06/2021 para testes e movimentação de minério de ferro → aprovado por unanimidade
+  - votos: Gabriela: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=16895s)
+- **RD 500 (2021-05-21)**, 40 · relator **Gabriela Costa** · Renúncia de outorga de TUP em Canoas/RS (contrato de adesão 12/2016) → aprovado por unanimidade
+  - votos: Gabriela: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=17048s)
+- **RD 500 (2021-05-21)**, 42 · relator **Gabriela Costa** · Processo sancionador: construção e operação de instalação portuária sem autorização → aprovado por unanimidade
+  - votos: Gabriela: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=17320s)
+- **RD 504 (2021-07-08)**, 14 · relator **Gabriela Costa** · Autorização de terminal de uso privado — vista de Tokarski renovada → vista renovada
+  - votos: Adalberto: vista; Gabriela: relator; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=3094s)
+- **RD 504 (2021-07-08)**, 35 · relator **Adalberto Tokarski** · Alteração do perfil de carga do TUP na Ilha do Viana (Niterói/RJ): inclusão de carga geral, conteinerizada e granel sólido (apoio offshore) → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=9537s)
+- **RD 504 (2021-07-08)**, 42 · relator **Gabriela Costa** · Pedido de reconsideração contra a Resolução 7947 (poligonal da área autorizada do TUP) → aprovado por unanimidade — reconsideração negada
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=11337s)
+- **RD 508 (2021-09-09)**, 13 · relator **Eduardo Nery** · Ampliação de perfil de carga de TUP (de carga geral solta para conteinerizada), aditamento de contrato de adesão → aprovado por unanimidade, com sugestão de Flávia incorporada
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=4421s)
+- **RD 508 (2021-09-09)**, 15 · relator **Eduardo Nery** · Autorização de TUP em Manaus (Terminal Portuário de Lajes), carga geral e contêineres → aprovado por unanimidade, com sugestão de Flávia
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=4964s)
+- **RD 508 (2021-09-09)**, 21 · relator **Adalberto Tokarski** · Autorização para construção e exploração de TUP em Paranaguá (PR) para granéis sólidos e líquidos (grãos, açúcar, fertilizantes, combustíveis, óleo ve → aprovado por unanimidade, com sugestão de Nery incorporada
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=6825s)
+- **RD 508 (2021-09-09)**, 24 · relator **Adalberto Tokarski** · Autorização em caráter especial e de emergência para movimentar carga geral em terminal privado em Porto Murtinho (MS) por até 180 dias → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=7729s)
+- **RD 510 (2021-10-11)**, 38 · relator **Flávia Takafashi** · Pedido de reconsideração do acórdão que inabilitou a empresa no anúncio público 21/2019 por falta da declaração de adequação da SNPTA; pede sobrestame → aprovado por unanimidade: provimento para sobrestar a decisão de habilitação até manifesta
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=808s)
+- **RD 510 (2021-10-11)**, 19 · relator **None** · Autorização de terminal de uso privado; vista de Adalberto Tokarski renovada (processo foi diligenciado) → vista renovada
+  - votos: Adalberto: outro; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=10100s)
+- **RD 510 (2021-10-11)**, 26 · relator **Eduardo Nery** · Requerimento de outorga relativo ao contrato de adesão 03/2015 (TUP em Pontal do Paraná) → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=11290s)
+- **RD 510 (2021-10-11)**, 29 · relator **Adalberto Tokarski** · Transferência de titularidade do contrato de adesão 11/2017 (TUP da Gerdau) e alteração de controle societário → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=11577s)
+- **RD 510 (2021-10-11)**, 36 · relator **Adalberto Tokarski** · Autorização para construção e exploração de TUP em Ponta das Pedras/PA (Ilha do Marajó) → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=12872s)
+- **RD 510 (2021-10-11)**, 41 · relator **Flávia Takafashi** · Pedido de reconsideração do acórdão 49/2020 (convalidação/ratificação dos atos da outorga do TUP em Pontal do Paraná) → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=14120s)
+- **RD 510 (2021-10-11)**, 47 · relator **Flávia Takafashi** · Inclusão de perfil de carga geral em TUP em Porto Murtinho/MS (contrato de adesão 8/2020) → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=15167s)
+- **RD 511 (2021-11-11)**, 25 · relator **Adalberto Tokarski** · Pedido de reconsideração contra o Acórdão 229/2021, que indeferiu registro de instalação flutuante para movimentação de sal (polo salineiro do Rio Gra → aprovado por unanimidade: pedido de reconsideração conhecido e não provido
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=330s)
+- **RD 511 (2021-11-11)**, 1 · relator **Flávia Takafashi** · Referendo da Deliberação DG 258/2021: transferência de titularidade do contrato de adesão 17/2019-Minfra (TUP de granéis líquidos em Porto Velho) → aprovado por unanimidade (referendado)
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=2723s)
+- **RD 511 (2021-11-11)**, 7 · relator **Gabriela Costa** · Autorização para construir e explorar TUP de granéis líquidos em Santarém (PA); parte do projeto dentro da poligonal do porto organizado; vista de Ada → aprovado por maioria nos termos do voto-vista de Adalberto Tokarski (deferimento condicion
+  - votos: Gabriela: relator; Adalberto: revisor_acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=5026s)
+- **RD 511 (2021-11-11)**, 18 · relator **Eduardo Nery** · Transferência de controle societário da titular do contrato de adesão 91/2015 (terminal em Santana-AP, paralisado após desmoronamento de 2013) → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=7835s)
+- **RD 511 (2021-11-11)**, 41 · relator **Flávia Takafashi** · Autorização em caráter especial e de emergência (180 dias) para movimentar contêineres no TUP do Porto do Açu enquanto o aditivo contratual não é cele → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=10625s)
+- **RD 511 (2021-11-11)**, 43 · relator **Flávia Takafashi** · Processo sancionador: operação do TUP em Santana (AP) sem prévio termo de liberação de operação (TLO); multa proposta de R$ 175 mil → aprovado por unanimidade: auto de infração declarado insubsistente
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=10840s)
+- **RD 513 (2021-11-26)**, 24 · relator **Adalberto Tokarski** · Pedido de providências da Abratec: TUPs autorizados para contêineres que não operariam pela via aquaviária e funcionariam como portos secos (DTA), usa → pedido de vista (Eduardo Nery) após o voto do relator
+  - votos: Adalberto: relator; Eduardo: vista · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=336s)
+- **RD 513 (2021-11-26)**, 4 · relator **Flávia Takafashi** · Referendo da Deliberação DG 296/2021: autorização especial/emergencial por 180 dias (a partir de 29/11/2021) para granel líquido, enquanto pendente co → aprovado (referendado) por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=3062s)
+- **RD 514 (2021-12-10)**, 23 · relator **Adalberto Tokarski** · Nova tabela de preços do TUP Itapoá – aderência das rubricas de trânsito aduaneiro (movimentação de contêiner) ao conceito de SSE da RN 34; com susten → aprovado por unanimidade
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=4598s)
+- **RD 514 (2021-12-10)**, 11 · relator **Eduardo Nery** · Pedido de reconsideração contra o acórdão 240/2020 (multa e recomendação de cassação da outorga por terceirização da operação a terceiro, Combitrans A → aprovado por unanimidade (provimento parcial)
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=14720s)
+- **RD 514 (2021-12-10)**, 16 · relator **Adalberto Tokarski** · Atualização do enquadramento de registro de instalação (Res. 5.733) após nova poligonal do porto de Belém → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=16234s)
+- **RD 514 (2021-12-10)**, 17 · relator **Adalberto Tokarski** · Pedido de retificação de informação em nota técnica: terminal não construído por decisão judicial (TRF-4) que suspende o contrato de adesão 6/2014 → aprovado por unanimidade (com ressalvas de Flávia e Nery sobre necessidade de deliberação)
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=16372s)
+- **RD 514 (2021-12-10)**, 25 · relator **Adalberto Tokarski** · Transferência de titularidade do contrato de adesão 13/2014 (TUP) → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=18035s)
+- **RD 516 (2022-02-04)**, 6 · relator **Flávia Takafashi** · Referendo da Deliberação DG 12/2022: transferência de controle societário relativa ao contrato de adesão 1/2016 (TUP no distrito industrial de São Luí → aprovado por unanimidade nos termos do voto da relatora
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=7682s)
+- **RD 516 (2022-02-04)**, 21 · relator **Eduardo Nery** · Renúncia à autorização de TUP (contrato de adesão 2/2013) por mudança no mercado de óleo e gás offshore → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=12392s)
+- **RD 516 (2022-02-04)**, 42 · relator **Flávia Takafashi** · Erro material na área do TUP de Osório-RS no contrato de adesão 72/2015 → aprovado por unanimidade nos termos do voto da relatora
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=18782s)
+- **RD 516 (2022-02-04)**, 56 · relator **Flávia Takafashi** · Renúncia ao contrato de adesão 14/2018 (ETC em Canoas-RS, granel sólido) por efeitos da pandemia → aprovado por unanimidade nos termos do voto da relatora
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=22831s)
+- **RD 516 (2022-02-04)**, 57 · relator **Flávia Takafashi** · Renúncia ao contrato de adesão 55/2014 (instalação em Três Lagoas-MS) por baixa navegabilidade e mudança logística → aprovado por unanimidade nos termos do voto da relatora
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=22952s)
+- **RD 516 (2022-02-04)**, 58 · relator **Flávia Takafashi** · Transferência de titularidade do contrato de adesão 38/2014 (TUP de granéis líquidos no Rio de Janeiro) → aprovado por unanimidade nos termos do voto da relatora
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=23070s)
+- **RD 518 (2022-03-23)**, 26 · relator **Adalberto Tokarski** · Denúncia da Abratec sobre TUPs autorizados para contêineres que não operam navios e atuam como portos secos (carga em trânsito aduaneiro por via rodov → aprovado nos termos do voto revisor de Eduardo Nery (relator Tokarski, que já não integra 
+  - votos: Adalberto: relator; Eduardo: revisor_diverge; Flávia: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=8768s)
+- **RD 518 (2022-03-23)**, 38 · relator **Flávia Takafashi** · Pedido de desistência de recurso contra inabilitação no Anúncio Público 8/2021 (falta de declaração de adequação da SNPTA) → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=12811s)
+- **RD 520 (2022-05-13)**, 11 · relator **José Renato Fialho** · Referendo da Deliberação DG 60/2022: autorização especial emergencial (art. 49 da Lei 10.233) por 180 dias para TUP em Santarém-PA operar granéis líqu → aprovado por unanimidade
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=8329s)
+- **RD 520 (2022-05-13)**, 27 · relator **Eduardo Nery** · Auto de infração por não manter vigente licença ambiental de instalação (contrato de adesão 13/2017; autorização de ~15 anos sem obras) → aprovado por unanimidade: auto subsistente; multa (legenda: R$ 30.000); recomendação ao po
+  - votos: Eduardo: relator; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=13705s)
+- **RD 520 (2022-05-13)**, 37 · relator **Flávia Takafashi** · Pedido de revisão contra acórdão sancionador que aplicou penalidade e propôs ao poder concedente a cassação da outorga do terminal portuário Zamin Ama → aprovado por unanimidade: perda superveniente de objeto (transferência de controle deferid
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=16917s)
+- **RD 522 (2022-05-26)**, 5 · relator **José Renato Fialho** · Referendo da Deliberação DG 82/2022, que indeferiu cautelar de autorização especial e emergencial para movimentar equipamentos de óleo e gás em área d → aprovado por unanimidade: referendado o indeferimento da cautelar
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=4739s)
+- **RD 522 (2022-05-26)**, 7 · relator **Adalberto Tokarski** · Esclarecimentos sobre o limite de movimentação de grãos no berço 105 do Porto do Itaqui (Resolução ANTAQ 1914/2010) e proposta de revogação da resoluç → aprovado: revogada a Resolução 1914/2010 (voto do relator Tokarski, proferido em reunião a
+  - votos: Eduardo: revisor_acompanha; Flávia: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=6991s)
+- **RD 522 (2022-05-26)**, 18 · relator **Eduardo Nery** · Embargos de declaração contra o Acórdão 181/2022 (processos sancionadores contra terminais em Itajaí: Barra do Rio, Poly Terminais, Teporti) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=11407s)
+- **RD 522 (2022-05-26)**, 33 · relator **José Renato Fialho** · Autorização especial e emergencial por 180 dias para operar TUP de granel líquido em São Gonçalo (RJ) → aprovado por unanimidade nos termos do voto do relator
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=17985s)
+- **RD 522 (2022-05-26)**, 34 · relator **José Renato Fialho** · Transferência de controle societário da titular do contrato de adesão 29/2014 (TUP Porto Gregório Curvo, Corumbá-MS) da Vale para a J&F Mineração → aprovado por unanimidade nos termos do voto do relator
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=18213s)
+- **RD 522 (2022-05-26)**, 35 · relator **José Renato Fialho** · Autorização de TUP em Belém (PA) para carga geral, contêineres e granel líquido; revogação do registro anterior → aprovado por unanimidade nos termos do voto do relator
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=18632s)
+- **RD 526 (2022-08-11)**, 1 · relator **José Renato Fialho** · Pleito da CDP de reposicionamento da manifestação da ANTAQ (amicus curiae) na ação judicial 1002807/2017 sobre cobrança da Tabela 1 (item 1 x item 4,  → vista renovada (Flávia Takafashi); volta na reunião 528; relator não proferiu voto
+  - votos: José: relator; Flávia: outro; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=2J5AWByVtpM&t=325s)
+- **RD 526 (2022-08-11)**, 2 · relator **José Renato Fialho** · Pedido de reconsideração contra o Acórdão 161/2020 (multas de ~R$ 198 mil por ampliar o terminal sem autorização e ~R$ 332 mil por ocupar área contígu → aprovado por unanimidade (conhecer e negar provimento)
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=2J5AWByVtpM&t=1715s)
+- **RD 528 (2022-09-01)**, 4 · relator **Eduardo Nery** · Referendo da Deliberação DG 116/2022: autorização especial de emergência para movimentar contêineres e equipamentos pesados (navio de 36 m de boca) → referendado por unanimidade
+  - votos: Eduardo: relator; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=yBRIlI6RQug&t=2918s)
+- **RD 528 (2022-09-01)**, 8 · relator **José Renato Fialho** · Pedido de reposicionamento da manifestação da ANTAQ como amicus curiae em ação sobre item tarifário da Tabela 1 (infraestrutura aquaviária) no Porto d → adiado (vista de Flávia Takafashi renovada); relator proferiu voto
+  - votos: Flávia: vista; José: relator · [vídeo](https://www.youtube.com/watch?v=yBRIlI6RQug&t=3098s)
+- **RD 530 (2022-09-29)**, 13 · relator **José Renato Fialho** · Pedido da CDP para que a ANTAQ mude sua manifestação (amicus curiae) na ação judicial sobre a cobrança da Tabela 1 (infraestrutura de acesso aquaviári → aprovado nos termos do voto revisor (Flávia Takafashi), com acréscimo do Diretor-Geral
+  - votos: Flávia: revisor_acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=5859s)
+- **RD 530 (2022-09-29)**, 21 · relator **Eduardo Nery** · Transferência de titularidade do contrato de adesão 69/2015 (TUP Terminal Aquaviário de Guamaré) → aprovado por unanimidade
+  - votos: Eduardo: relator; Alexandre: acompanha; Flávia: outro · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=7170s)
+- **RD 532 (2022-11-10)**, 20 · relator **Eduardo Nery** · Inclusão do perfil de granel líquido e gasoso no TUP (contrato de adesão 17/2014), Santos → aprovado nos termos do voto do relator
+  - votos: Eduardo: relator; Alexandre: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=7972s)
+- **RD 532 (2022-11-10)**, 21 · relator **Eduardo Nery** · Autorização especial emergencial para movimentar granel sólido por 180 dias (contrato de adesão 6/2018; pendência de cessão de espelho d’água na SPU) → aprovado nos termos do voto do relator, com acréscimo proposto por Flávia Takafashi
+  - votos: Eduardo: relator; Alexandre: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=8066s)
+- **RD 532 (2022-11-10)**, 24 · relator **Flávia Takafashi** · Dispensa da garantia de execução do contrato de adesão 9/2015 (Decreto 9.048/2017) → aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=9420s)
+- **RD 532 (2022-11-10)**, 30 · relator **Flávia Takafashi** · Autorização emergencial para movimentação de passageiros (cruzeiros) por 180 dias após naufrágio da estrutura flutuante de passageiros do Porto de Man → aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=11340s)
+- **RD 532 (2022-11-10)**, 47 · relator **Alexandre Lopes** · Ampliação de área (para 93.442,93 m²) e inclusão de granel líquido e carga geral no contrato de adesão 7/2021 → aprovado nos termos do voto do relator
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=15362s)
+- **RD 534 (2022-12-07)**, 3 · relator **Flávia Takafashi** · Referendo de deliberação (nº 150 ou 170/2022) que concedeu autorização em caráter especial e emergencial por 180 dias (quarta autorização) para instal → referendado por unanimidade
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=2960s)
+- **RD 534 (2022-12-07)**, 18 · relator **Eduardo Nery** · Registro de instalação de apoio ao transporte aquaviário em Manaus (AM) para descarga de matéria-prima e carregamento de sacos de cimento; SOG entendi → aprovado por unanimidade
+  - votos: Eduardo: relator; Alexandre: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=10293s)
+- **RD 534 (2022-12-07)**, 21 · relator **Eduardo Nery** · Autorização especial e emergencial por 180 dias para movimentar e armazenar granéis sólidos (minério de ferro, manganês, coque metalúrgico, barrilha)  → aprovado
+  - votos: Eduardo: relator; Alexandre: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=11287s)
+- **RD 534 (2022-12-07)**, 26 · relator **Flávia Takafashi** · Autorização especial e emergencial por 180 dias (a partir de 15/01/2023) para movimentar minério de ferro e ferro-gusa, antes da celebração do contrat → aprovado por unanimidade
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=XIepy5yyHrk&t=12198s)
+- **RD 537 (2023-02-09)**, 7 · relator **Eduardo Nery** · Monitoramento do cumprimento dos itens 5.2 e 5.3 do Acórdão 181/2022-ANTAQ (denúncia da Abratec sobre suposto desvio de finalidade de TUPs em Itajaí q → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; Caio: acompanha; Alber: acompanha; Lima: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=403s)
+- **RD 537 (2023-02-09)**, 13 · relator **Flávia Takafashi** · Autorização para construção e exploração de TUP greenfield na Ilha de Bagres (estuário de Santos, SP) para granel sólido, granel líquido e contêineres → aprovado nos termos do voto da relatora (votos colhidos de Alber, Lima Filho e Eduardo Ner
+  - votos: Flávia: relator; Caio: outro; Alber: outro; Lima: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=9260s)
+- **RD 537 (2023-02-09)**, 15 · relator **Flávia Takafashi** · Manifestação sobre declaração de utilidade pública (DUP) para supressão de vegetação e intervenção em APP (Mata Atlântica) na implantação de TUP → aprovado nos termos do voto da relatora (votos colhidos de Alber, Lima Filho e Eduardo Ner
+  - votos: Flávia: relator; Caio: outro; Alber: acompanha; Lima: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=9842s)
+- **RD 537 (2023-02-09)**, 25 · relator **Lima Filho** · Manifestação sobre declaração de utilidade pública para supressão de vegetação e intervenção em APP (Mata Atlântica) em TUP → aprovado por unanimidade nos termos do voto do relator
+  - votos: Lima: relator; Caio: acompanha; Alber: acompanha; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=11674s)
+- **RD 537 (2023-02-09)**, 27 · relator **Lima Filho** · Embargos de declaração contra o Acórdão 437/2022 (manteve multa de R$ 122.500 por gestão do TUP por terceiros, descumprindo cláusulas 3ª e 10ª do cont → aprovado por unanimidade nos termos do voto do relator
+  - votos: Lima: relator; Caio: acompanha; Alber: acompanha; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=12401s)
+- **RD 537 (2023-02-09)**, 32 · relator **Alber Vasconcelos** · Autorização para construir e explorar estação de transbordo de cargas (ETC) Terminal PVH2 no rio Madeira, para granéis sólidos vegetais → aprovado por unanimidade nos termos do voto do relator
+  - votos: Alber: relator; Caio: acompanha; Lima: acompanha; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=15085s)
+- **RD 537 (2023-02-09)**, 35 · relator **Caio Farias** · Consulta sobre a possibilidade de cessão temporária onerosa, parcial ou total, da área de TUP objeto do contrato de adesão 95/2015 → aprovado por unanimidade nos termos do voto do relator
+  - votos: Caio: relator; Alber: acompanha; Lima: acompanha; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=15855s)
+- **RD 539 (2023-04-04)**, 4 · relator **Eduardo Nery** · Anuência para terceirizar à Transpetro a operação e manutenção do terminal aquaviário de Guamaré (RN) por 12 meses após a transferência de titularidad → aprovado por maioria (3 x 2) nos termos do voto do relator, com a recomendação da revisora
+  - votos: Eduardo: revisor_acompanha; Flávia: revisor_acompanha; Lima: revisor_acompanha; Alber: acompanha; Caio: outro · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=3290s)
+- **RD 539 (2023-04-04)**, 16 · relator **Flávia Takafashi** · Pedido de outorga de autorização de terminal de uso privado em São João da Barra (RJ) para carga geral, granel sólido e granel líquido → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=7992s)
+- **RD 539 (2023-04-04)**, 18 · relator **Lima Filho** · Requerimento de autorização especial e emergencial por 180 dias para movimentar carga geral em instalação cujo pedido de outorga de TUP não passou da  → indeferido por maioria (4 x 1) nos termos do voto divergente de Caio Farias; vencido o rel
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: vencido; Alber: acompanha; Caio: outro · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=8914s)
+- **RD 539 (2023-04-04)**, 25 · relator **Alber Vasconcelos** · Autorização especial e de emergência por 180 dias para movimentar e armazenar contêineres (tubos e estruturas submarinas para FPSO do pré-sal na Bacia → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=10425s)
+- **RD 539 (2023-04-04)**, 29 · relator **Caio Farias** · Autorização especial por 180 dias (a partir de 13/04/2023) para granéis líquidos (combustíveis) em TUP de Santarém (PA) cujo contrato de adesão 5/2021 → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=11798s)
+- **RD 541 (2023-04-20)**, 3 · relator **Alber Vasconcelos** · Referendo da Deliberação DG 25/2023: transferência de controle societário do TUP Atlântico Sul (contrato de adesão 37/2014, Porto de Suape) para a EPM → aprovado: referendada a Deliberação DG 25/2023 nos exatos termos
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=4337s)
+- **RD 541 (2023-04-20)**, 6 · relator **Caio Farias** · Requerimento de autorização para construção e exploração de terminal de uso privado no município do Rio de Janeiro (armazenagem de carga geral); retor → aprovado: julgamento convertido em diligência à SOG
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: revisor_acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=5906s)
+- **RD 541 (2023-04-20)**, 17 · relator **Lima Filho** · Autorização em caráter especial/emergencial por 180 dias para movimentação e armazenagem de carga geral, granel sólido e líquido em instalação portuár → aprovado: autorização por 180 dias condicionada a vistoria técnica e autorização da ANP (g
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=10180s)
+- **RD 543 (2023-05-24)**, referendo (sem número de item claro) · relator **Alber Vasconcelos** · Referendo da Deliberação DG 33/2023, que concedeu autorização especial emergencial (art. 49 da Lei 10.233; Res. ANTAQ 71) por 180 dias para movimentaç → aprovado (referendada a Deliberação DG 33/2023)
+  - votos: Alber: relator; Eduardo: outro; Flávia: outro; Lima: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=2822s)
+- **RD 543 (2023-05-24)**, 2 · relator **Flávia Takafashi** · Autorização para construção e exploração de instalação portuária de turismo (IP4) Porto Park, ~29.955 m² sobre a água (plataforma de passageiros com c → aprovado o voto revisor de Alber Vasconcelos (restituição à SOG para diligências em até 45
+  - votos: Flávia: relator; Alber: revisor_diverge; Caio: revisor_diverge; Lima: revisor_acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=2910s)
+- **RD 543 (2023-05-24)**, 25 · relator **Alber Vasconcelos** · Manifestação sobre emissão de Declaração de Utilidade Pública (DUP) para supressão vegetal e intervenção em APP na construção do TUP EBT Santorini (IN → aprovado
+  - votos: Alber: relator; Eduardo: outro; Flávia: outro; Lima: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=10799s)
+- **RD 543 (2023-05-24)**, 26 · relator **Alber Vasconcelos** · Registro de instalação de apoio ao transporte aquaviário (RN 13, art. 2º, V) para rampa de balsas graneleiras (cimento, clínquer, escória, argila); SO → aprovado (registro deferido)
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: outro; Lima: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=11460s)
+- **RD 545 (2023-06-23)**, 9 · relator **Lima Filho** · Consulta (vista de Flávia Takafashi): uso do terminal do Pecém (TUP) como base de embarque e desembarque de funcionários de plataformas da Petrobras → aprovado por unanimidade
+  - votos: Lima: relator; Flávia: revisor_acompanha; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=10348s)
+- **RD 545 (2023-06-23)**, 10 · relator **Lima Filho** · Consulta (vista do DG): instalação, dentro da poligonal do TUP, de operação de minério de ferro e manganês por nova empresa (sub-autorização) e declar → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: revisor_acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=10774s)
+- **RD 545 (2023-06-23)**, 18 · relator **Flávia Takafashi** · Autorização de TUP em Acará/PA para granel líquido (derivados de petróleo): área de cerca de 45 mil m², 120 mil m³/ano, investimento de R$ 18,36 milhõ → aprovado por unanimidade, com acréscimo sugerido por Caio Farias
+  - votos: Flávia: relator; Caio: acompanha; Eduardo: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=14984s)
+- **RD 545 (2023-06-23)**, 33 · relator **Alber Vasconcelos** · Processo sancionador: auto de infração 005198-5 por operar estação de transbordo de cargas sem termo de liberação de operação (TLO) → aprovado por unanimidade (auto insubsistente)
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=18059s)
+- **RD 547 (2023-08-07)**, 1 · relator **Eduardo Nery** · Referendo da Deliberação DG 52/2023: alteração do Acórdão 639/2022 (autorização especial emergencial para movimentação e armazenagem de granel sólido  → referendado por unanimidade
+  - votos: Eduardo: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=152s)
+- **RD 547 (2023-08-07)**, 5 · relator **Caio Farias** · Referendo da Deliberação DG 50/2023: autorização especial por 180 dias para granel sólido mineral e vegetal no TUP (contrato de adesão 18/2014): coque → referendado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=2260s)
+- **RD 547 (2023-08-07)**, 34 · relator **Alber Vasconcelos** · Auto de infração por explorar instalação portuária sem outorga após incorporação sem transferência prévia de titularidade → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=8785s)
+- **RD 547 (2023-08-07)**, 36 · relator **Alber Vasconcelos** · Reconhecimento da possibilidade de contrato de adesão para TUP de GNL com FSRU em São Luís-MA (investimento de cerca de R$ 550 milhões) → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=10246s)
+- **RD 549 (2023-08-31)**, 6 · relator **Lima Filho** · Referendo da Deliberação DG 66/2023: nova autorização especial e emergencial (art. 49 Lei 10.233) para testes de comissionamento da FSRU, cuja autoriz → aprovado por unanimidade (referendado)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=6050s)
+- **RD 549 (2023-08-31)**, 22 · relator **Lima Filho** · Ampliação/expansão em área molhada (aterro, tômbolo de areia no lugar de 600 m de quebra-mar, canal e bacia) do TUP Porto Central (contrato de adesão  → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=11762s)
+- **RD 549 (2023-08-31)**, 25 · relator **Lima Filho** · Processo sancionador: auto de infração por subautorização de TUP (contrato de adesão 16/2016) a terceira empresa (art. 32, XXXVIII, Res. 3.274), multa → aprovado por unanimidade (auto insubsistente); voto relido com correção às 3:59:41
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=12021s)
+- **RD 549 (2023-08-31)**, 34 · relator **Alber Vasconcelos** · Nova autorização especial e emergencial (art. 49 Lei 10.233; art. 31 da Res. 71) por até 180 dias, a partir de 11/09/2023, para operar o TUP Guamaré-R → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=14576s)
+- **RD 549 (2023-08-31)**, 35 · relator **Alber Vasconcelos** · Aditamento do contrato de adesão 37/2014 para incluir carga conteinerizada e ampliar o TUP (Anúncio Público 7/2023) → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=14856s)
+- **RD 549 (2023-08-31)**, 38 · relator **Caio Farias** · Construção e exploração do TUP Nova Santa Rita-RS (rio Caí; clínquer e calcário, cerca de 120 mil t/ano): declarar vigente a Res. ANTAQ 3.892/2015 e e → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=15867s)
+- **RD 551 (2023-10-04)**, 3 · relator **Alber Vasconcelos** · Estudo «Análise concorrencial: terminais de uso privado vis-à-vis terminais arrendados» (P17) – retorno de vista de Flávia Takafashi (RD 549) → aprovado por unanimidade
+  - votos: Alber: relator; Flávia: revisor_acompanha; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=5740s)
+- **RD 551 (2023-10-04)**, 5 · relator **Flávia Takafashi** · Outorga de autorização para construção e exploração de instalação portuária de turismo «Porto Parque» (plataforma flutuante de 29,95 m², só sobre água → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=7750s)
+- **RD 551 (2023-10-04)**, 7 · relator **Flávia Takafashi** · Nova autorização em caráter especial e de emergência (180 dias, a contar de 10/10) para movimentação e armazenagem de granéis líquidos enquanto não sa → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=8737s)
+- **RD 551 (2023-10-04)**, 14 · relator **Lima Filho** · Pedido de reconsideração contra a Deliberação DG 107/2022 (referendada pelo Acórdão 438) sobre tarifa de uso da infraestrutura terrestre (estrada part → aprovado por unanimidade (reconsideração negada)
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=11216s)
+- **RD 551 (2023-10-04)**, 20 · relator **Alber Vasconcelos** · Autorização em caráter especial e de emergência (art. 49 Lei 10.233; art. 31 RN 71) para ampliação do cais flutuante para 720 m, aguardando cessão de  → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=12079s)
+- **RD 554 (2023-10-26)**, 7 · relator **Eduardo Nery** · Arbitragem regulatória: responsabilidade pelo reparo do molhe de abrigo de Praia Mole (ES), avariado por ciclone extratropical em 2006, e dever de a C → aprovado (votação simbólica, sem divergência registrada) — Codesa responsável pela indeniz
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=63s)
+- **RD 554 (2023-10-26)**, 2 · relator **Lima Filho** · Referendo da Deliberação DG 83/2023: autorização em caráter especial para movimentação e armazenagem de cargas na fase 3 do terminal de Itapoá (penden → aprovado — deliberação ratificada
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=7972s)
+- **RD 554 (2023-10-26)**, 35 · relator **Caio Farias** · Requerimento para construir e explorar TUP de carga geral no canal São Francisco (Santa Cruz, Rio de Janeiro), após diligência do acórdão 175/2023 → aprovado — reconhecida a possibilidade de celebração do contrato de adesão
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=15917s)
+- **RD 555 (2023-11-16)**, 28 · relator **Flávia Takafashi** · Transferência de titularidade do contrato de adesão 11/2017 (TUP em Salvador, granel sólido e carga geral) por incorporação dentro do mesmo grupo econ → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=6432s)
+- **RD 555 (2023-11-16)**, 35 · relator **Lima Filho** · Autorização emergencial (art. 49 da Lei 10.233/2001) para a Petrobras operar o Terminal de Regaseificação de GNL da Bahia (TRBA) por até 180 dias a pa → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=8338s)
+- **RD 555 (2023-11-16)**, 41 · relator **Alber Vasconcelos** · Autorização especial e emergencial por 180 dias (a partir de 19/11/2023) para operar TUP de granel líquido com contrato de adesão 9/2020 sob condição  → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=10690s)
+- **RD 555 (2023-11-16)**, 43 · relator **Alber Vasconcelos** · Contrato de adesão para TUP ATEM Belém (granel líquido, derivados de petróleo e biocombustíveis) no Rio Guajará, fora da poligonal do Porto de Belém → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=11578s)
+- **RD 557 (2023-12-14)**, 30 · relator **Lima Filho** · Pedido de autorização especial por 180 dias para movimentar passageiros de cruzeiros no TUP Superterminais (Manaus/AM); sustentação oral da ERPM (advo → retirado de pauta pelo relator após a sustentação oral
+  - votos: Lima: outro; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=5607s)
+- **RD 557 (2023-12-14)**, 1 · relator **Lima Filho** · Referendo da deliberação DG 99/2023: renovação por mais 45 dias de autorização em caráter especial para movimentação e armazenagem de cargas destinada → aprovado por unanimidade (referendo)
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=7729s)
+- **RD 557 (2023-12-14)**, 2 · relator **None** · Processos de fiscalização da UREFL contra terminais de uso privado da região de Itajaí (pedido de vista da RD 555) → vista renovada a pedido de Alber Vasconcelos (compromisso de votar na primeira reunião de 
+  - votos: Alber: outro · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=7995s)
+- **RD 557 (2023-12-14)**, 3 · relator **None** · Processos de fiscalização da UREFL contra terminais de uso privado da região de Itajaí (pedido de vista da RD 555) → vista renovada a pedido de Alber Vasconcelos (compromisso de votar na primeira reunião de 
+  - votos: Alber: outro · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=7995s)
+- **RD 557 (2023-12-14)**, 4 · relator **None** · Processos de fiscalização da UREFL contra terminais de uso privado da região de Itajaí (pedido de vista da RD 555) → vista renovada a pedido de Alber Vasconcelos (compromisso de votar na primeira reunião de 
+  - votos: Alber: outro · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=7995s)
+- **RD 557 (2023-12-14)**, 5 · relator **None** · Processos de fiscalização da UREFL contra terminais de uso privado da região de Itajaí (pedido de vista da RD 555) → vista renovada a pedido de Alber Vasconcelos (compromisso de votar na primeira reunião de 
+  - votos: Alber: outro · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=7995s)
+- **RD 557 (2023-12-14)**, 15 · relator **Flávia Takafashi** · Pedido de anulação dos acórdãos 178/2023 (transferência de controle da Atlântico Sul para a APM Terminals) e 426/2023 (ampliação de área e inclusão de → aprovado por unanimidade - pedido não conhecido; Eduardo Nery registra ressalva de fundame
+  - votos: Flávia: relator; Eduardo: acompanha; Alber: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=11541s)
+- **RD 557 (2023-12-14)**, 16 · relator **Flávia Takafashi** · Recurso de reconsideração contra o acórdão 426/2023 (aditamento do contrato de adesão 37/2014 da Atlântico Sul: ampliação de área e perfil de carga) → aprovado por unanimidade - recurso não conhecido
+  - votos: Flávia: relator; Eduardo: acompanha; Alber: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=11541s)
+- **RD 557 (2023-12-14)**, 18 · relator **Flávia Takafashi** · Quinto pedido de autorização especial (180 dias, a partir de 09/01/2024) para operar TUP com condição suspensiva por falta de cessão de espaço físico  → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=13039s)
+- **RD 557 (2023-12-14)**, 37 · relator **Alber Vasconcelos** · Pedido de reconsideração do Ofício 243/2023-SOG, que negou o termo de liberação de operação (TLO) por cláusula suspensiva (falta de contrato de cessão → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=17394s)
+- **RD 557 (2023-12-14)**, 43 · relator **Caio Farias** · Nova autorização especial por 180 dias (a partir de 16/01/2024) para movimentar granel sólido vegetal em operação teste até a emissão de novo TLO → aprovado (anúncio de aprovação pouco audível; presume-se unanimidade)
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=20646s)
+- **RD 558 (2024-02-26)**, 2 · relator **Flávia Takafashi** · Referendo da Deliberação DG 101/2023: autorização especial e de emergência para testes de comissionamento do terminal de regaseificação (FSRU) → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=3312s)
+- **RD 558 (2024-02-26)**, 6 · relator **Lima Filho** · Referendo da Deliberação 102/2023: autorização especial por 180 dias para movimentação de passageiros de cruzeiros no TUP Super Terminais (Manaus), co → aprovado por maioria (vencido o Diretor-Geral Eduardo Nery)
+  - votos: Lima: relator; Eduardo: vencido; Alber: acompanha; Caio: outro; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=3783s)
+- **RD 558 (2024-02-26)**, 8 · relator **Alber Vasconcelos** · Referendo da Deliberação DG 104?/2023: 3º pedido de autorização especial para granel líquido no TUP Atem Santarém (contrato de adesão 4/2022) enquanto → aprovado por unanimidade (perda de objeto)
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=4659s)
+- **RD 558 (2024-02-26)**, 9 · relator **Eduardo Nery** · Fiscalização (julgamento em bloco dos itens 9-12) de TUPs na retroárea de Itajaí por suposto desvio de finalidade: operariam como porto seco (contêine → adiado (julgamento retirado para a próxima reunião, por proposta do relator, com duas prop
+  - votos: Eduardo: relator; Alber: revisor_diverge; Flávia: outro; Lima: acompanha; Caio: outro · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=5019s)
+- **RD 558 (2024-02-26)**, 10 · relator **Eduardo Nery** · Fiscalização (julgamento em bloco dos itens 9-12) de TUPs na retroárea de Itajaí por suposto desvio de finalidade: operariam como porto seco (contêine → adiado (julgamento retirado para a próxima reunião, por proposta do relator, com duas prop
+  - votos: Eduardo: relator; Alber: revisor_diverge; Flávia: outro; Lima: acompanha; Caio: outro · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=5019s)
+- **RD 558 (2024-02-26)**, 11 · relator **Eduardo Nery** · Fiscalização (julgamento em bloco dos itens 9-12) de TUPs na retroárea de Itajaí por suposto desvio de finalidade: operariam como porto seco (contêine → adiado (julgamento retirado para a próxima reunião, por proposta do relator, com duas prop
+  - votos: Eduardo: relator; Alber: revisor_diverge; Flávia: outro; Lima: acompanha; Caio: outro · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=5019s)
+- **RD 558 (2024-02-26)**, 12 · relator **Eduardo Nery** · Fiscalização (julgamento em bloco dos itens 9-12) de TUPs na retroárea de Itajaí por suposto desvio de finalidade: operariam como porto seco (contêine → adiado (julgamento retirado para a próxima reunião, por proposta do relator, com duas prop
+  - votos: Eduardo: relator; Alber: revisor_diverge; Flávia: outro; Lima: acompanha; Caio: outro · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=5019s)
+- **RD 560 (2024-03-25)**, 3 · relator **Lima Filho** · Referendo da Deliberação DG 12/2024: autorização em caráter especial/emergencial para movimentar granel sólido em TUP (contrato de adesão 4/2022) → referendado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=4793s)
+- **RD 560 (2024-03-25)**, 4 · relator **Lima Filho** · Referendo da Deliberação DG 10/2024: autorização especial emergencial (art. 49 Lei 10.233) para atracação da FSRU e comissionamento do terminal de reg → referendado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=4875s)
+- **RD 560 (2024-03-25)**, 7 · relator **Eduardo Nery** · Fiscalização de TUP por inexecução ou desvio de finalidade da outorga (armazenagem de contêineres recebidos por modal não aquaviário); julgamento em b → autos de infração declarados insubsistentes, por consenso (Lima Filho já havia se retirado
+  - votos: Eduardo: revisor_acompanha; Alber: revisor_acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=5213s)
+- **RD 560 (2024-03-25)**, 36 · relator **Flávia Takafashi** · Consulta sobre acordo de operação de ativos em TUP; perda de objeto por desistência → perda de objeto declarada, por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=16736s)
+- **RD 560 (2024-03-25)**, 47 · relator **Lima Filho** · Segunda autorização especial emergencial (art. 49 Lei 10.233) para movimentar e armazenar carga geral por 180 dias a partir de 24/03/2024 → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=19073s)
+- **RD 560 (2024-03-25)**, 54 · relator **Lima Filho** · Autorização especial por 180 dias para manutenção da ampliação do cais flutuante para 720 m, enquanto tramita cessão do espaço aquático na SPU → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=19921s)
+- **RD 560 (2024-03-25)**, 60 · relator **Alber Vasconcelos** · Terceira autorização especial emergencial por 180 dias a partir de 09/03/2024 (pendência de cessão do espelho d água na SPU) → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=21963s)
+- **RD 560 (2024-03-25)**, 8 · relator **Eduardo Nery** · Fiscalização de TUP por inexecução ou desvio de finalidade da outorga (armazenagem de contêineres recebidos por modal não aquaviário); julgamento em b → autos de infração declarados insubsistentes, por consenso (Lima Filho já havia se retirado
+  - votos: Eduardo: revisor_acompanha; Alber: revisor_acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=24285s)
+- **RD 560 (2024-03-25)**, 9 · relator **Eduardo Nery** · Fiscalização de TUP por inexecução ou desvio de finalidade da outorga (armazenagem de contêineres recebidos por modal não aquaviário); julgamento em b → autos de infração declarados insubsistentes, por consenso (Lima Filho já havia se retirado
+  - votos: Eduardo: revisor_acompanha; Alber: revisor_acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=24285s)
+- **RD 560 (2024-03-25)**, 10 · relator **Eduardo Nery** · Fiscalização de TUP por inexecução ou desvio de finalidade da outorga (armazenagem de contêineres recebidos por modal não aquaviário); julgamento em b → autos de infração declarados insubsistentes, por consenso (Lima Filho já havia se retirado
+  - votos: Eduardo: revisor_acompanha; Alber: revisor_acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=24285s)
+- **RD 562 (2024-04-24)**, 2 · relator **Lima Filho** · Recursos de reconsideração (deliberação em bloco com o item 24) contra o Acórdão 533/2022: cobrança da Tabela I (infraestrutura de acesso aquaviário)  → aprovado (negado provimento aos dois recursos); sem divergência registrada
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=3405s)
+- **RD 562 (2024-04-24)**, 11 · relator **Flávia Takafashi** · Termo aditivo ao contrato de adesão para ampliação sobre água (16 dolfins e plataforma, dois novos berços) para granel líquido/petróleo (ship to ship) → aprovado
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=11007s)
+- **RD 562 (2024-04-24)**, 22 · relator **Lima Filho** · Pedido de autorização especial e emergencial por 180 dias para movimentar carga geral no TUP → aprovado: pedido indeferido
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=18535s)
+- **RD 562 (2024-04-24)**, 32 · relator **Alber Vasconcelos** · Transferência de titularidade do contrato de adesão 108/2016 (Terminal de Regaseificação de GNL da Bahia – TRBA) para a Petrobras → aprovado
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=20799s)
+- **RD 562 (2024-04-24)**, 35 · relator **Caio Farias** · Autorização de TUP Porto Meridional (granéis, carga geral, contêineres; investimento de cerca de R$ 1,28 bilhão): reconhecer possibilidade de contrato → aprovado com acréscimo sugerido por Flávia Takafashi (recomendar ao MPor avaliar o impacto
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=21300s)
+- **RD 562 (2024-04-24)**, 38 · relator **Caio Farias** · Autorização de instalação portuária de turismo (IP4/IPTur) na Ponta da Praia, Santos, para navios de cruzeiro; investimento de cerca de R$ 247 milhões → aprovado com acréscimos: recomendação ao MPor e alerta (sugestão de Eduardo Nery e Alber V
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=22915s)
+- **RD 564 (2024-05-29)**, sust-mps · relator **Caio Farias** · Autorização especial (art. 49 da Lei 10.233 e art. 31, IV, da Res. 71/2022) para operar por 180 dias o TUP de Niterói (contrato de adesão 99/2022, com → aprovado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=3905s)
+- **RD 564 (2024-05-29)**, 5 · relator **Lima Filho** · Referendo da Deliberação DG 36/2024: consulta sobre ausência de desvio de finalidade em operações rodoviárias acessórias/complementares do TUP → aprovado por unanimidade (referendado)
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=5066s)
+- **RD 564 (2024-05-29)**, 44 · relator **Eduardo Nery** · Itens 44 a 50 votados em bloco: embargos de declaração contra os Acórdãos 131 a 134/2024 (TUPs às margens do rio Itajaí-Açu acusados de desvio de fina → aprovado por unanimidade (embargos conhecidos, com ajustes de ofício no acórdão)
+  - votos: Eduardo: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=5760s)
+- **RD 564 (2024-05-29)**, 45 · relator **Eduardo Nery** · Itens 44 a 50 votados em bloco: embargos de declaração contra os Acórdãos 131 a 134/2024 (TUPs às margens do rio Itajaí-Açu acusados de desvio de fina → aprovado por unanimidade (embargos conhecidos, com ajustes de ofício no acórdão)
+  - votos: Eduardo: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=5760s)
+- **RD 564 (2024-05-29)**, 46 · relator **Eduardo Nery** · Itens 44 a 50 votados em bloco: embargos de declaração contra os Acórdãos 131 a 134/2024 (TUPs às margens do rio Itajaí-Açu acusados de desvio de fina → aprovado por unanimidade (embargos conhecidos, com ajustes de ofício no acórdão)
+  - votos: Eduardo: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=5760s)
+- **RD 564 (2024-05-29)**, 47 · relator **Eduardo Nery** · Itens 44 a 50 votados em bloco: embargos de declaração contra os Acórdãos 131 a 134/2024 (TUPs às margens do rio Itajaí-Açu acusados de desvio de fina → aprovado por unanimidade (embargos conhecidos, com ajustes de ofício no acórdão)
+  - votos: Eduardo: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=5760s)
+- **RD 564 (2024-05-29)**, 48 · relator **Eduardo Nery** · Itens 44 a 50 votados em bloco: embargos de declaração contra os Acórdãos 131 a 134/2024 (TUPs às margens do rio Itajaí-Açu acusados de desvio de fina → aprovado por unanimidade (embargos conhecidos, com ajustes de ofício no acórdão)
+  - votos: Eduardo: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=5760s)
+- **RD 564 (2024-05-29)**, 49 · relator **Eduardo Nery** · Itens 44 a 50 votados em bloco: embargos de declaração contra os Acórdãos 131 a 134/2024 (TUPs às margens do rio Itajaí-Açu acusados de desvio de fina → aprovado por unanimidade (embargos conhecidos, com ajustes de ofício no acórdão)
+  - votos: Eduardo: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=5760s)
+- **RD 564 (2024-05-29)**, 50 · relator **Eduardo Nery** · Itens 44 a 50 votados em bloco: embargos de declaração contra os Acórdãos 131 a 134/2024 (TUPs às margens do rio Itajaí-Açu acusados de desvio de fina → aprovado por unanimidade (embargos conhecidos, com ajustes de ofício no acórdão)
+  - votos: Eduardo: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=5760s)
+- **RD 564 (2024-05-29)**, 30 · relator **Alber Vasconcelos** · Inclusão do perfil de granel sólido (soja, milho e fertilizantes; ~1,5 Mt/ano) no TUP de Santarém, com barcaças pelo Tapajós até Miritituba; processo  → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=10481s)
+- **RD 564 (2024-05-29)**, 36 · relator **Alber Vasconcelos** · Transferência de titularidade do contrato de adesão 19/2019? (ETC de granéis sólidos em Porto Alegre) por cisão parcial dentro do mesmo grupo; process → aprovado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=12393s)
+- **RD 566 (2024-07-17)**, 23 · relator **Alber Vasconcelos** · Autorização especial (emergencial) por 180 dias para movimentar contêineres (veículos importados em flat racks/open top) em TUP cujo contrato de adesã → aprovado (deferimento parcial)
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=9930s)
+- **RD 566 (2024-07-17)**, 32 · relator **Caio Farias** · Manifestação ao MPor sobre terceira prorrogação do prazo para início da operação e alteração do cronograma físico-financeiro do TUP (contrato de adesã → aprovado (Alber Vasconcelos e Lima Filho acompanham com ressalvas)
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=10774s)
+- **RD 566 (2024-07-17)**, 11 · relator **Flávia Takafashi** · Autorização para construir e explorar estação de transbordo de cargas (granéis sólidos agrícolas, soja e milho; 5 milhões t/ano; investimento de 221 m → aprovado
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=13701s)
+- **RD 566 (2024-07-17)**, 13 · relator **Flávia Takafashi** · Transferência de titularidade do contrato de adesão 5/2015 (TUP de granel líquido/combustíveis marítimos no Porto do Açu) e alteração de controle soci → aprovado
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=15109s)
+- **RD 566 (2024-07-17)**, 17 · relator **Lima Filho** · Consulta sobre incluir no Regulamento de Exploração do Porto (REP) prioridade de atracação para navios dos arrendamentos sobre os de TUPs, diante de p → aprovado (com ajuste no item 5.4 sugerido por Alber Vasconcelos e incorporado pelo relator
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=15468s)
+- **RD 566 (2024-07-17)**, 18 · relator **Alber Vasconcelos** · Requerimento de autorização para construir e explorar TUP de granéis sólidos (minério, grãos e fertilizantes; 44 milhões t/ano) próximo ao Porto do It → pedido de vista (Eduardo Nery)
+  - votos: Alber: relator; Eduardo: vista · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=17151s)
+- **RD 566 (2024-07-17)**, 19 · relator **Alber Vasconcelos** · Consulta sobre enquadramento regulatório de transbordo de granéis sólidos para barcaças por equipamento flutuante com instalação em terra registrada → aprovado
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=18399s)
+- **RD 566 (2024-07-17)**, 20 · relator **Alber Vasconcelos** · Proposta da SOG/SFC de revisar o Acórdão 331/2023 (Porto Madeira manter registro e Mega Logística ser autorizada pelo transbordo flutuante); itens 20  → aprovado (votados em bloco com o item 24)
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=18890s)
+- **RD 566 (2024-07-17)**, 24 · relator **Alber Vasconcelos** · Proposta da SOG/SFC de revisar o Acórdão 331/2023 (Porto Madeira manter registro e Mega Logística ser autorizada pelo transbordo flutuante); itens 20  → aprovado (votados em bloco com o item 20)
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=18890s)
+- **RD 568 (2024-08-05)**, 7 · relator **Caio Farias** · Referendo da Deliberação DG 60/2024 (4ª autorização especial de 180 dias para movimentar granel sólido vegetal no TUP Enseada); relator muda de posiçã → aprovado: não referendada a DG 60/2024; pedido indeferido com modulação de efeitos (autori
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=6489s)
+- **RD 568 (2024-08-05)**, 8 · relator **Alber Vasconcelos** · Voto-vista: requerimento de construção e exploração de TUP em São Luís (MA) para granel sólido mineral e vegetal, com controvérsia de domínio da área  → aprovado, nos termos do relator
+  - votos: Eduardo: revisor_acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=7361s)
+- **RD 568 (2024-08-05)**, 25 · relator **Lima Filho** · Prorrogação por 6 meses do prazo para apresentar documento de direito de uso de espaço físico em águas públicas (pendente na SPU) → aprovado
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=14066s)
+- **RD 570 (2024-08-30)**, 4 · relator **Alber Vasconcelos** · Referendo da Deliberação DG 65/2024: recurso hierárquico contra a SOG, provido em parte para emitir TLO e habilitação ao tráfego internacional, condic → aprovado (referendada a Deliberação DG 65/2024)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=7348s)
+- **RD 570 (2024-08-30)**, 16 · relator **Flávia Takafashi** · Proposta de revisão da Resolução Normativa 13/2016 (registro de instalações de apoio) → pedido de vista de Eduardo Nery (Res. 66, art. 27)
+  - votos: Eduardo: vista; Flávia: relator; Lima: outro; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=10147s)
+- **RD 570 (2024-08-30)**, 20 · relator **Flávia Takafashi** · Pedido de reconsideração com efeito suspensivo contra o Acórdão 435/2024, que negou referendo à autorização especial para movimentar granel sólido veg → aprovado com ajustes — recurso admitido; suspensos os efeitos do Acórdão 435/2024; autoriz
+  - votos: Flávia: relator; Alber: vencido; Eduardo: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=11873s)
+- **RD 570 (2024-08-30)**, 30 · relator **Lima Filho** · Prorrogação por 2 anos do prazo de condição suspensiva (comprovação do direito de uso da área junto à SPU) do contrato de adesão → aprovado — prazo prorrogado por 2 anos
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=15279s)
+- **RD 570 (2024-08-30)**, 33 · relator **Alber Vasconcelos** · Prorrogação por 2 anos da condição suspensiva (cláusula 17ª do contrato de adesão 3/2022) sobre direito de uso da área e espaço em águas públicas (SPU → aprovado — prazo prorrogado; decisão enviada também ao MPor
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=16714s)
+- **RD 570 (2024-08-30)**, 35 · relator **Alber Vasconcelos** · Registro de instalação de apoio ao transporte aquaviário (RN 13, art. 2º, V) com relatórios mensais de movimentação por 24 meses → aprovado
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=17215s)
+- **RD 570 (2024-08-30)**, 37 · relator **Caio Farias** · Dispensa da renovação da garantia de execução do contrato de adesão (Decreto 9.048/2017) → aprovado
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=17749s)
+- **RD 570 (2024-08-30)**, 41 · relator **Alber Vasconcelos** · Embargos de declaração (extrapauta) contra o Acórdão 436/2024, que reconheceu a viabilidade de outorga de TUP à BR Infra → aprovado — embargos conhecidos e rejeitados
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=18217s)
+- **RD 572 (2024-10-04)**, 1 · relator **Flávia Takafashi** · Conflito CDP x Hidrovias do Brasil: cumprimento do item 5.5 do Acórdão 533/2022 — desconto na Tabela 1 (item 2.1.3, infraestrutura aquaviária) para em → aprovado por unanimidade, com ajuste proposto por Alber Vasconcelos (criação de rubrica 2.
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=435s)
+- **RD 572 (2024-10-04)**, 2 · relator **Flávia Takafashi** · Referendo da deliberação DG 77/2024: autorização para construção e exploração de TUP em Luís Correia (PI) — granel sólido e líquido, carga geral e con → aprovado (referendado)
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=11956s)
+- **RD 572 (2024-10-04)**, 18 · relator **Flávia Takafashi** · Autorização em caráter especial e de emergência por 180 dias para movimentação e armazenagem de granel sólido no TUP (aditivo ao contrato de adesão 4/ → aprovado
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=Njv3sl-Epeg&t=19873s)
+- **RD 574 (2024-10-25)**, 4 · relator **Lima Filho** · Referendo da Deliberação DG 90/2024: autorização emergencial para uso temporário de parte da área arrendada da Tergrasa como canteiro de obras para re → referendado, por unanimidade (com críticas de Alber Vasconcelos à instrução)
+  - votos: Lima: relator; Alber: acompanha; Eduardo: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=2499s)
+- **RD 574 (2024-10-25)**, 7 · relator **Caio Farias** · Referendo da Deliberação DG 85/2024: autorização emergencial (180 dias) para instalar e operar flutuantes, rampa e píer no TUP Bertolini Santarém, dia → referendado, por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=5383s)
+- **RD 574 (2024-10-25)**, 9 · relator **Flávia Takafashi** · Revisão da Resolução Normativa ANTAQ 13/2016 (registro de instalações de apoio ao transporte aquaviário): submissão de minuta a audiência e consulta p → aprovado por maioria (4 a 1) nos termos da relatora; Lima Filho vencido quanto às FSRU; re
+  - votos: Flávia: relator; Lima: outro; Alber: acompanha; Caio: acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=5670s)
+- **RD 574 (2024-10-25)**, 12 · relator **Eduardo Nery** · Relatório diagnóstico do programa Navega Simples (simplificação dos processos de autorização de TUP); plano de implementação em 30 dias (revisão da Re → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=11871s)
+- **RD 574 (2024-10-25)**, 13 · relator **Eduardo Nery** · Consulta sobre operação de terceiros (operadores portuários) dentro de TUP mediante contratos privados de prestação de serviços ou locação de áreas, s → aprovado por unanimidade, com acréscimo: envio à ANTAQ de cópia dos contratos de locação e
+  - votos: Eduardo: relator; Alber: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=12455s)
+- **RD 574 (2024-10-25)**, 18 · relator **Lima Filho** · Reconhecimento do adimplemento da condição suspensiva (cl. 17ª) do contrato de adesão 11/2021 após cessão de uso onerosa da SPU (365 mil m² terrestres → aprovado por unanimidade, com acréscimo: SOG deve informar sobre a emissão ou não do termo
+  - votos: Lima: relator; Alber: acompanha; Eduardo: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=15247s)
+- **RD 574 (2024-10-25)**, 27 · relator **Alber Vasconcelos** · Transferência de titularidade do contrato de adesão 38/2014 dentro do mesmo grupo econômico → aprovado por unanimidade
+  - votos: Alber: relator; Lima: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=19845s)
+- **RD 574 (2024-10-25)**, 29 · relator **Alber Vasconcelos** · Autorização especial e emergencial (180 dias desde 09/09/2024) para manter a ampliação do cais flutuante para 720 m enquanto a SPU não emite a cessão  → aprovado por unanimidade
+  - votos: Alber: relator; Lima: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=20296s)
+- **RD 574 (2024-10-25)**, 34 · relator **Caio Farias** · Ampliação de 7.000 m² do pátio e aumento da capacidade de armazenagem e movimentação do TUP (investimentos de cerca de R$ 42,8 milhões em 2 anos) → aprovado por unanimidade
+  - votos: Caio: relator; Lima: acompanha; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=22855s)
+- **RD 576 (2024-11-22)**, 16 · relator **Lima Filho** · Comunicado de alteração do quadro societário: sócio pessoa física transfere 70% das ações a holding própria (KW Participações, grafia incerta) → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=4591s)
+- **RD 578 (2024-12-19)**, 19 · relator **Flávia Takafashi** · Emissão do termo de liberação de operação (TLO) e da habilitação ao tráfego internacional (HTI) do Terminal Gás Sul, terminal de regaseificação de GNL → aprovado por unanimidade (TLO e HTI deferidos sem ressalvas)
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=3722s)
+- **RD 578 (2024-12-19)**, 5 · relator **Caio Farias** · Referendo da deliberação DG que deferiu autorização especial para movimentar e armazenar carga geral no TUP da empresa por 180 dias (a legenda cita 'D → aprovado (referendado) por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=7636s)
+- **RD 578 (2024-12-19)**, 25 · relator **Flávia Takafashi** · Consulta sobre o transbordo de granel sólido vegetal de barcaças direto para navios atracados no TUP (barge-to-ship com guindaste flutuante) → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=13301s)
+- **RD 578 (2024-12-19)**, 30 · relator **Lima Filho** · Cumprimento do Acórdão 140/2021 (oferta de TAC após auto de infração por construir instalação portuária sem autorização): perda de objeto → aprovado por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=14415s)
+- **RD 578 (2024-12-19)**, 45-51 · relator **Caio Farias** · Relatórios da 1ª rodada da fiscalização temática ESG (adesão a práticas ambientais, sociais e de governança) → aprovado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=20326s)
+- **RD 579 (2025-02-13)**, 25 · relator **Flávia Takafashi** · Denúncia com pedido de cautelar contra cobrança de armazenagem adicional por atrasos/omissões do armador → aprovado por unanimidade (cautelar indeferida)
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=11989s)
+- **RD 579 (2025-02-13)**, 37 · relator **Alber Vasconcelos** · Contrato de adesão para TUP (terminal fluvial de Cáceres-MT) para granéis sólidos (grãos, fertilizantes), reativando antigo terminal; cerca de 400 mil → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=15035s)
+- **RD 579 (2025-02-13)**, 38 · relator **Alber Vasconcelos** · Recurso hierárquico contra multa de R$ 37.500 (art. 37, XI, Res. 75) por não iniciar operações do TUP no prazo de 5 anos do contrato de adesão 9/2018 → aprovado por unanimidade (recurso desprovido)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=15343s)
+- **RD 582 (2025-03-17)**, 10 · relator **Caio Farias** · Julgamento de auto de infração contra o Estado da Bahia por descumprimento do contrato de adesão 18/2021 (TUP Porto Sul sem obras nem investimentos);  → aprovado nos termos do voto do relator (revisor Alber Vasconcelos), com incorporação de pr
+  - votos: Caio: relator; Alber: revisor_acompanha; Flávia: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=5906s)
+- **RD 582 (2025-03-17)**, 15 · relator **Flávia Takafashi** · Adimplemento da condição resolutiva de comprovação do direito de uso e fruição da área do TUP Bamin (contrato de adesão 3/2014), após o Acórdão 681/20 → aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=8642s)
+- **RD 582 (2025-03-17)**, 24 · relator **Lima Filho** · Autorização em caráter especial para movimentar e armazenar contêineres no TUP (contrato de adesão 106/2016) enquanto tramita a inclusão do perfil de  → aprovado nos termos do voto do relator
+  - votos: Lima: relator; Caio: acompanha; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=13036s)
+- **RD 582 (2025-03-17)**, 25 · relator **Lima Filho** · Nova autorização em caráter especial para movimentação de granéis líquidos (combustíveis) no TUP (contrato de adesão 5/2021) enquanto aguarda cessão d → aprovado nos termos do voto do relator
+  - votos: Lima: relator; Caio: acompanha; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=13305s)
+- **RD 582 (2025-03-17)**, 28 · relator **Alber Vasconcelos** · Quinta autorização especial e emergencial para movimentar contêineres, carga geral e granéis no TUP Guamaré (contrato de adesão 1/2023) por pendência  → aprovado nos termos do voto do relator
+  - votos: Alber: relator; Caio: acompanha; Flávia: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=14037s)
+- **RD 584 (2025-04-10)**, 6 · relator **Flávia Takafashi** · Acréscimo do perfil carga conteinerizada no contrato de adesão 34/2014 do TUP Ponta Ubu (movimentação de tubos e estruturas submarinas para a Subsea7) → aprovado nos termos do voto da relatora, com o acréscimo sugerido por Alber Vasconcelos (e
+  - votos: Flávia: relator; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=1373s)
+- **RD 584 (2025-04-10)**, 7 · relator **Flávia Takafashi** · Alteração do prazo para início da operação de instalação portuária (TUP em Santos-SP) autorizada pelo contrato de adesão 11/2017 → aprovado
+  - votos: Flávia: relator; Caio: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=1674s)
+- **RD 584 (2025-04-10)**, 17 · relator **Lima Filho** · Autorização para construção e exploração de TUP para granéis sólidos em Barcarena (capex estimado de R$ 2,3 bilhões) → aprovado
+  - votos: Lima: relator; Alber: acompanha; Caio: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=5335s)
+- **RD 584 (2025-04-10)**, 28 · relator **Alber Vasconcelos** · Inclusão do perfil granel sólido, sem alteração de área, no contrato de adesão 10/2023 → aprovado nos termos do voto do relator
+  - votos: Alber: relator; Caio: acompanha; Flávia: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=9806s)
+- **RD 586 (2025-05-19)**, 5 · relator **Lima Filho** · Referendo da Deliberação DG 33/2025: autorização emergencial (até 180 dias) para movimentação e armazenagem de granéis sólidos no TUP da empresa, para → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=800s)
+- **RD 586 (2025-05-19)**, 10 · relator **Caio Farias** · Ampliação em 15.024 m² de área sobre águas do TUP (píer de múltiplo uso 1), segunda etapa após o Acórdão 722/2024; termo aditivo ao contrato de adesão → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=3061s)
+- **RD 586 (2025-05-19)**, 13-A (legenda: 'item 50') · relator **Caio Farias** · Denúncia de descumprimento do contrato de adesão 11/2018 (Novo Porto) com pedido de cassação da outorga → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=4855s)
+- **RD 586 (2025-05-19)**, 22 · relator **Flávia Takafashi** · Consulta: possibilidade de iniciar obras de instalação portuária privada (TUP) antes da outorga; conversão de infraestrutura terrestre existente; desc → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=7304s)
+- **RD 586 (2025-05-19)**, 24 · relator **Flávia Takafashi** · Consulta regulatória sobre cessão de áreas do TUP do Pecém a terceiros (locação e outros instrumentos), investimentos e serviços por terceiros, licenc → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=8309s)
+- **RD 586 (2025-05-19)**, 25 · relator **Flávia Takafashi** · Manifestação ao MPor sobre alteração do cronograma de investimentos e segunda prorrogação do prazo de início de operação do TUP (contrato de adesão 15 → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=9530s)
+- **RD 586 (2025-05-19)**, 35 · relator **Lima Filho** · Prorrogação por igual período da condição suspensiva (direito de uso da área) do contrato de adesão 01/2022 → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=12488s)
+- **RD 586 (2025-05-19)**, 36 · relator **Lima Filho** · Alteração do cronograma físico-financeiro de construção e início de operação do TUP (contrato de adesão 12/2019) → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=12673s)
+- **RD 588 (2025-06-05)**, 13 · relator **Caio Farias** · Autorização especial e de emergência (art. 49 da Lei 10.233/2001; art. 31 da Res. ANTAQ 71/2022) por 180 dias para movimentação e armazenagem de grané → aprovado por unanimidade
+  - votos: Caio: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=1045s)
+- **RD 588 (2025-06-05)**, 25 · relator **Alber Vasconcelos** · Autorização especial e de emergência (art. 49 da Lei 10.233) para operação teste no terminal de transbordo rodofluvial de grãos em Marabá (PA), rio To → aprovado por unanimidade
+  - votos: Alber: relator; Caio: acompanha; Flávia: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=3608s)
+- **RD 588 (2025-06-05)**, 1 · relator **Lima Filho** · Pedido de reconsideração da VPorts contra o Acórdão 585/2023 (arbitragem regulatória sobre responsabilidade pelo reparo do molhe de abrigo de Praia Mo → aprovado por unanimidade: pedido conhecido e negado provimento; indeferido o sobrestamento
+  - votos: Lima: relator; Caio: acompanha; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=5895s)
+- **RD 588 (2025-06-05)**, 7 · relator **Lima Filho** · Referendo da Deliberação DG 39/2025: renovação por 180 dias da autorização especial e de emergência para operar a ampliação (área molhada) da instalaç → aprovado por unanimidade (referendo)
+  - votos: Lima: relator; Caio: acompanha; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=10408s)
+- **RD 588 (2025-06-05)**, 10 · relator **Lima Filho** · Embargos de declaração contra o Acórdão 216/2024 (modulação dos efeitos da criação da rubrica tarifária 2.1.3.1 da Tabela 1 do porto de Vila do Conde) → aprovado o voto divergente da revisora Flávia Takafashi (efeito ex nunc); vencido o relato
+  - votos: Lima: vencido; Flávia: revisor_diverge; Alber: revisor_acompanha; Caio: vencido · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=12114s)
+- **RD 591 (2025-08-08)**, 11 · relator **Caio Farias** · Prorrogação do prazo para início da operação de TUP de granel líquido em Santana (AP), contrato de adesão 11/2021-MInfra, com alteração do cronograma  → aprovado por unanimidade
+  - votos: Caio: relator; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=OQ9m51EIHJc&t=3874s)
+- **RD 591 (2025-08-08)**, 38 · relator **Alber Vasconcelos** · Embargos de declaração contra o Acórdão 434/2025 (recurso sobre auto de infração por ampliação de instalações; cessão de espaço sobre águas públicas j → aprovado por unanimidade (embargos acolhidos com efeitos modificativos)
+  - votos: Alber: relator; Caio: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=OQ9m51EIHJc&t=12945s)
+- **RD 592 (2025-08-25)**, 8 · relator **Caio Farias** · Cumprimento do item 3.4 da Agenda Regulatória 2025–2028 (contratos de passagem nos portos organizados) e inclusão de novo tema na agenda: transmutação → aprovado por unanimidade, com ajuste proposto por Alber Vasconcelos (inclusão do tema em r
+  - votos: Caio: relator; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=vDo8pMKcp_Q&t=2837s)
+- **RD 592 (2025-08-25)**, 9 · relator **Caio Farias** · Inclusão do perfil de carga conteinerizada no TUP (Contrato de Adesão 106/2016), cerca de 80 mil TEU/ano sem novos investimentos; anúncio público 3/20 → aprovado por unanimidade
+  - votos: Caio: relator; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=vDo8pMKcp_Q&t=3743s)
+- **RD 592 (2025-08-25)**, 24 · relator **Alber Vasconcelos** · Segundo pedido de prorrogação do prazo para implemento da cláusula suspensiva (comprovação do direito de uso da área em águas públicas junto à SPU) do → aprovado por unanimidade — prorrogação por 180 dias
+  - votos: Alber: relator; Caio: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=vDo8pMKcp_Q&t=8540s)
+- **RD 592 (2025-08-25)**, 25 · relator **Alber Vasconcelos** · Terceira autorização em caráter especial e de emergência (art. 49 da Lei 10.233; art. 31 da Res. 71/2022) para movimentação e armazenagem de carga ger → aprovado por unanimidade
+  - votos: Alber: relator; Caio: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=vDo8pMKcp_Q&t=9198s)
+- **RD 596 (2025-10-09)**, 8 · relator **Lima Filho** · Recurso administrativo contra indeferimento de acesso integral ao processo da transferência de controle e mudança de finalidade da instalação do Estal → recurso não conhecido, por unanimidade
+  - votos: Lima: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=8473s)
+- **RD 596 (2025-10-09)**, ref-1 · relator **Flávia Takafashi** · Referendo da Deliberação DG 76/2025: autorização em caráter especial e emergencial (balsa de apoio e extensão de tubulação) durante a vazante do rio T → referendado por unanimidade
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=9172s)
+- **RD 596 (2025-10-09)**, 17 · relator **Lima Filho** · Consulta sobre enquadramento regulatório de operação offshore de transbordo de granel sólido com embarcações e boias (retorno de vista; relator incorp → aprovado por unanimidade
+  - votos: Lima: relator; Frederico: acompanha; Flávia: acompanha; Alber: revisor_acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=10008s)
+- **RD 596 (2025-10-09)**, 29 · relator **Lima Filho** · Autorização em caráter especial e emergencial para movimentação e armazenagem de granel sólido e carga geral em terminal já construído sem outorga → indeferido por maioria (4x1), prevalecendo a divergência de Flávia Takafashi (redatora); v
+  - votos: Lima: vencido; Flávia: outro; Caio: acompanha; Alber: acompanha; Frederico: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=13389s)
+- **RD 598 (2025-11-13)**, 5 · relator **Caio Farias** · Referendo da Deliberação DG 85/2025: autorização especial e emergencial por até 180 dias para testes de comissionamento do terminal flutuante auxiliar → referendado por unanimidade
+  - votos: Caio: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=4449s)
+- **RD 598 (2025-11-13)**, 12 · relator **Flávia Takafashi** · Viabilidade locacional de terminal de uso privado PTP Porto Murtinho (rio Paraguai, Porto Murtinho/MS), anúncio público 4/2025: granel sólido (grãos,  → aprovado por unanimidade
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=6211s)
+- **RD 598 (2025-11-13)**, 28 · relator **Lima Filho** · Transferência de controle societário indireto do contrato de adesão 02/2014 (TUP em São João da Barra/RJ, granéis sólidos) → aprovado por unanimidade
+  - votos: Lima: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=12750s)
+- **RD 598 (2025-11-13)**, 34 · relator **Alber Vasconcelos** · Relatório do projeto P40 da Agenda Plurianual de Estudos 2021-2024: diagnóstico da implantação de terminais de uso privado (17 de 70 TUPs outorgados e → aprovado por unanimidade
+  - votos: Alber: relator; Frederico: acompanha; Flávia: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=13838s)
+- **RD 598 (2025-11-13)**, 41 · relator **Caio Farias** · Autorização especial por até 180 dias para operar carga geral (carregamento de barcaças de minério) em TUP autorizado para outro perfil → aprovado por unanimidade
+  - votos: Caio: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=16253s)
+- **RD 600 (2025-12-15)**, ref-1 · relator **Flávia Takafashi** · Referendo da Deliberação DG 88/2025: autorização especial e de emergência para movimentar granel líquido enquanto pendente a regularização junto à SPU → referendado (sem divergência)
+  - votos: Flávia: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=5456s)
+- **RD 600 (2025-12-15)**, 35 · relator **Alber Vasconcelos** · Outorga de autorização de TUP em Rio Grande (RS) para carga geral, especialmente celulose (barcaças pela Lagoa dos Patos e navios de longo curso; inve → aprovado (sem divergência)
+  - votos: Alber: relator; Frederico: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=17249s)
+- **RD 603 (2026-02-24)**, 32 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o Acórdão 347/2025 (multa de R$ 78.750 por não início das operações do TUP em 5 anos do contrato de adesão 4/2018 sem → recurso conhecido e não provido (sem divergência)
+  - votos: Frederico: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=408s)
+- **RD 603 (2026-02-24)**, 11 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 314/2025 (titularidade de licenças ambientais e coabilitação ao REIDI por terceiros possuidores diretos den → recurso parcialmente provido (sem divergência)
+  - votos: Frederico: acompanha; Flávia: revisor_acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=4027s)
+- **RD 603 (2026-02-24)**, 21 · relator **Flávia Takafashi** · Transferência de titularidade do contrato de adesão 19/2014 (ETC em Itaituba para granel sólido/grãos) → aprovado (sem divergência); processo condutor reservado
+  - votos: Frederico: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=8965s)
+- **RD 603 (2026-02-24)**, 27 · relator **Lima Filho** · Autorização em caráter especial por 180 dias para movimentação e armazenagem de carga geral (equipamentos offshore) e pedido de dispensa da certidão d → aprovado (sem divergência): autorização especial deferida; dispensa da certidão SPU indefe
+  - votos: Frederico: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=11269s)
+- **RD 603 (2026-02-24)**, 34 · relator **Alber Vasconcelos** · Autorização em caráter especial por até 180 dias para testes de comissionamento da instalação portuária → aprovado (sem divergência)
+  - votos: Frederico: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=13014s)
+- **RD 603 (2026-02-24)**, 36 · relator **Caio Farias** · Consulta sobre enquadramento de FSU e FSRU (GNL) dentro de área de TUP autorizado (contrato de adesão 13/2016) para termelétrica no Pecém → aprovado (sem divergência)
+  - votos: Frederico: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=13612s)
+- **RD 603 (2026-02-24)**, 37 · relator **Caio Farias** · Consulta sobre enquadramento de quadro de boias e equipamentos flutuantes para transbordo de granéis sólidos agrícolas fora do porto organizado → aprovado (sem divergência)
+  - votos: Frederico: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=14010s)
+- **RD 603 (2026-02-24)**, 38 · relator **Caio Farias** · Recurso de reconsideração contra o Acórdão 619/2025 (multa de R$ 175.000 (?) e interdição por operar terminal sem autorização, movimentando carga de t → recurso conhecido e não provido (sem divergência)
+  - votos: Frederico: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=14376s)
+- **RD 605 (2026-03-24)**, 4 · relator **Cristina Castro** · Referendo da Deliberação DG 13/2026: autorização em caráter especial e de emergência por 180 dias para desembarque de equipamentos portuários e testes → referendado por unanimidade
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=4161s)
+- **RD 605 (2026-03-24)**, 13 · relator **Lima Filho** · Renovação (sétima) de autorização especial por 180 dias para movimentação/armazenagem de cargas enquanto não sai a certidão da SPU sobre a área molhad → aprovado por unanimidade
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=8057s)
+- **RD 605 (2026-03-24)**, 19 · relator **Alber Vasconcelos** · Anuência prévia para transferência de controle societário indireto decorrente da recuperação judicial → aprovado por unanimidade
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=10297s)
+- **RD 605 (2026-03-24)**, 20 · relator **Alber Vasconcelos** · Inclusão do perfil carga geral (celulose, até 6 Mt/ano) no TUP autorizado para granéis líquidos, sem ampliação de área → aprovado por unanimidade
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=10599s)
+- **RD 605 (2026-03-24)**, 23 · relator **Alber Vasconcelos** · Anuência prévia para transferência de titularidade de contrato de adesão dentro do mesmo grupo (reorganização societária) → aprovado por unanimidade
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=11121s)
+- **RD 605 (2026-03-24)**, 28 · relator **Cristina Castro** · Consulta sobre o enquadramento de transbordo de granéis sólidos entre embarcações (ship-to-ship / quadro de boias) fora da área autorizada → aprovado por unanimidade
+  - votos: Cristina: relator; Alber: acompanha; Lima: acompanha; Frederico: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=12154s)
+- **RD 607 (2026-04-23)**, 22 · relator **Alber Vasconcelos** · Contestação da cobrança da tabela 1 (tarifa de acesso aquaviário) pela CDP sobre embarcações destinadas ao TUP da Unitapajós, que cruzam trecho da pol → aprovado por unanimidade
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: relator; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=1080s)
+- **RD 607 (2026-04-23)**, 7 · relator **Lima Filho** · Requerimento de declaração de perda de objeto do processo 50300.004369/2024-61 (autorização emergencial para navios de cruzeiro em Manaus; Código ISPS → aprovado por unanimidade
+  - votos: Frederico: acompanha; Lima: relator; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=3639s)
+- **RD 607 (2026-04-23)**, 12 · relator **Lima Filho** · Cisão do contrato de adesão 09/2015 do TUP Imetame em cinco instalações portuárias distintas → aprovado por unanimidade
+  - votos: Frederico: acompanha; Lima: relator; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=5875s)
+- **RD 607 (2026-04-23)**, 24 · relator **Alber Vasconcelos** · Auto de infração 6775-8 por paralisação permanente das atividades do TUP e transferência das instalações a terceiro sem anuência → aprovado por unanimidade
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: relator; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=9131s)
+- **RD 611 (2026-06-11)**, 27 · relator **Alber Vasconcelos** · Denúncia com pedido de medida cautelar contra a cobrança do item 4 da Tabela 1 (VTMS, cerca de R$ 12.104 por embarcação) sobre navios destinados a TUP → cautelar indeferida e denúncia julgada improcedente, por unanimidade; acrescida, por suges
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=3421s)
+- **RD 611 (2026-06-11)**, 9 · relator **Cristina Castro** · Referendo da Deliberação DG 33/2026: autorização especial e emergencial por 180 dias a partir de 1º/6/2026 para movimentação de granel líquido (diesel → referendado
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=7190s)
+- **RD 611 (2026-06-11)**, 29 · relator **Caio Farias** · Prorrogação por até dois anos do prazo para apresentar a documentação de uso da área (certidão da SPU) como condição de eficácia do contrato de adesão → aprovado
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=15628s)
+- **RD 611 (2026-06-11)**, 40 · relator **Cristina Castro** · Manifestação ao MPor sobre alteração do cronograma de investimentos (cerca de R$ 6,245 bilhões em 60 meses) e 2ª prorrogação do início da operação do  → aprovado
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=17837s)
+- **RD 614 (2026-08-20)**, 2 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o Acórdão 724/2024 (multa de R$ 120.000 por não iniciar a construção do TUP no prazo do cronograma físico-financeiro  → aprovado por maioria (4 a 1), vencido Lima Filho
+  - votos: Alber: relator; Lima: vencido; Frederico: acompanha; Cristina: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=1354s)
+- **RD 614 (2026-08-20)**, 15 · relator **Lima Filho** · Autorização em caráter especial, por até 180 dias, para movimentação e armazenagem de granéis sólidos em ETC em Miritituba, Itaituba/PA (terceiro pedi → aprovado (sem divergência registrada)
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=7980s)
+- **RD 614 (2026-08-20)**, 16 · relator **Alber Vasconcelos** · Manifestação ao MPor sobre prorrogação do prazo para início da operação do TUP (contrato de adesão 13/2021, Santana/AP, granéis sólidos) → aprovado (sem divergência registrada)
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=8296s)
+- **RD 614 (2026-08-20)**, 18 · relator **Alber Vasconcelos** · Ampliação de área e capacidade do terminal portuário do Pecém (São Gonçalo do Amarante/CE): Píer Z0 para FSRU de regaseificação de GNL; investimento d → aprovado (sem divergência registrada)
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=8567s)
+- **RD 614 (2026-08-20)**, 23 · relator **Caio Farias** · Registro de instalação de apoio ao transporte aquaviário (Res. 13/2026) para instalações flutuantes fundeadas (boias, dolfins) – julgamento em bloco c → aprovado (sem divergência registrada): registro indeferido
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=8998s)
+- **RD 614 (2026-08-20)**, 24 · relator **Caio Farias** · Registro de instalação de apoio ao transporte aquaviário (Res. 13/2026) para instalações flutuantes fundeadas (boias, dolfins) – julgamento em bloco c → aprovado (sem divergência registrada): registro indeferido
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=8998s)
+- **RD 614 (2026-08-20)**, 28 · relator **Caio Farias** · Registro de instalação de apoio ao transporte aquaviário (Res. 13/2026) para instalações flutuantes fundeadas (boias, dolfins) – julgamento em bloco c → aprovado (sem divergência registrada): registro indeferido
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=8998s)
+- **RD 614 (2026-08-20)**, 29 · relator **Caio Farias** · Registro de instalação de apoio ao transporte aquaviário (Res. 13/2026) para instalações flutuantes fundeadas (boias, dolfins) – julgamento em bloco c → aprovado (sem divergência registrada): registro indeferido
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=8998s)
+- **RD 614 (2026-08-20)**, 27 · relator **Caio Farias** · Transferência indireta de controle societário de titular dos contratos de adesão 16/2014 e 19/2014 e do contrato de arrendamento 1/2020 → aprovado (sem divergência registrada)
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=9533s)
+- **RD 616 (2026-08-21)**, pauta 12 · relator **Lima Filho** · Ampliação em 960 m² da área sobre águas públicas do TUP de Miritituba, Itaituba (PA) — 1º termo aditivo ao contrato de adesão 01/2021, sem aumento de  → aprovado, sem divergência registrada
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=11458s)
+- **RD 616 (2026-08-21)**, pauta 13 · relator **Lima Filho** · Processo administrativo sancionador: auto de infração por iniciar obras de TUP (supressão de vegetação e terraplenagem) sem autorização (art. 37, XII  → aprovado, sem divergência: auto de infração declarado insubsistente (contra a área técnica
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=11783s)
+- **RD 616 (2026-08-21)**, pauta (nº não dito) — Porto Piauí · relator **Cristina Castro** · Consulta sobre classificação da navegação de embarcação alimentadora entre o cais do TUP e a área de fundeio, com transbordo ship-to-ship (navio buffe → aprovado, sem divergência registrada
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=16374s)
+- **RD 619 (2026-09-24)**, 5 · relator **Lima Filho** · Referendo da Deliberação DG 69/2026 (12/09/2026): autorização em caráter especial e de emergência para uso temporário da infraestrutura do TUP Porto V → referendado (aprovado)
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=4073s)
+- **RD 619 (2026-09-24)**, 9 · relator **Alexandre Florambel** · Manifestação ao MPor sobre alteração do cronograma de investimentos e prorrogação do prazo de início de operação do TUP (contrato de adesão 6/2022) at → aprovada por unanimidade (proposta única) a baixa em diligência para a SFC cumprir o item 
+  - votos: Alexandre: relator; Alber: revisor_diverge; Frederico: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=4333s)
+- **RD 619 (2026-09-24)**, 11 · relator **Lima Filho** · Aprovação das minutas de edital e contrato do leilão de arrendamento VDC29 (granéis sólidos vegetais) após oitiva do MPor determinada no Acórdão 485/2 → pedido de vista de Alber Vasconcelos concedido; julgamento adiado
+  - votos: Lima: relator; Alber: vista; Frederico: acompanha; Caio: outro; Alexandre: outro · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=5241s)
+- **RD 619 (2026-09-24)**, 13 · relator **Lima Filho** · Autorização para construção e exploração de TUP (Terminal de Macatuba, SP, carga geral: recepção de madeira em toras) em corredor multimodal → aprovado
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=8048s)
+- **RD 619 (2026-09-24)**, 15 · relator **Lima Filho** · Autorização para construção e exploração de TUP (terminal de Cachoeirinha (?), Três Lagoas, MS; carga geral: madeira) → aprovado
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=8257s)
+- **RD 619 (2026-09-24)**, 16 · relator **Lima Filho** · Aprovação prévia de transferência de controle societário (100% das ações) da titular do contrato de adesão 5/2020 → aprovado
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=8458s)
+- **RD 619 (2026-09-24)**, 27 · relator **Alber Vasconcelos** · 12ª autorização especial e emergencial (180 dias a partir de 27/09/2026) para movimentação e armazenagem de granéis líquidos, pois a eficácia do contr → aprovado: autorização deferida por 180 dias, autos à PFA e acompanhamento pela SFC
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=12550s)
+- **RD 619 (2026-09-24)**, 30 · relator **Caio Farias** · Autorização emergencial e especial (180 dias) para transbordo de granéis sólidos entre embarcações (transhipment) com estrutura flutuante com guindast → aprovado, condicionado a restrições efetivas de navegabilidade, sem direito à continuidade
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=13667s)
+- **RD 619 (2026-09-24)**, 36 · relator **Alexandre Florambel** · Transferência de titularidade do contrato de adesão 18/2021 (TUP Porto Sul) do Estado da Bahia para a Bahia Investe; competência do colegiado (GRP e S → aprovado (processo mantido como reservado)
+  - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=16390s)
+- **RD 621 (2026-10-27)**, 14 · relator **Lima Filho** · Inclusão dos perfis granel sólido e carga conteinerizada e retificação da área do TUP (contrato de adesão 44/2014) → aprovado por unanimidade (votação simbólica)
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=4677s)
+- **RD 621 (2026-10-27)**, 18 · relator **Alber Vasconcelos** · Autorização para contrato de passagem (10 linhas de dutos, 73 m², 35 anos) ligando o TUP Cattalini ao píer privado dentro da poligonal → aprovado por unanimidade (votação simbólica)
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=6532s)
+- **RD 621 (2026-10-27)**, 20 · relator **Alber Vasconcelos** · Nova autorização especial (art. 49, Lei 10.233) de 180 dias para continuar operando o Cais Multipropósito fora da poligonal como infraestrutura de uso → aprovado por unanimidade (votação simbólica)
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=8091s)
+- **RD 621 (2026-10-27)**, 21 · relator **Caio Farias** · Adequação do TAC 2/2026 (cronograma de investimentos do contrato de adesão 18/2021) com cláusula suspensiva → aprovado por unanimidade (votação simbólica)
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=8543s)
+- **RD 621 (2026-10-27)**, 22 · relator **Caio Farias** · Prorrogação por até 5 anos do prazo de início de operação do TUP e novo cronograma (contrato de adesão 4/2018, grafia incerta) → aprovado por unanimidade (votação simbólica)
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=8890s)
+- **RD 621 (2026-10-27)**, 25 · relator **Alexandre Florambel** · Adaptação do contrato de concessão de direito real de uso 59/2008 ao regime privado da concessão 01/2022 (Vitória e Barra do Riacho) → aprovado por unanimidade (votação simbólica)
+  - votos: Alexandre: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=9214s)

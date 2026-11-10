@@ -1,0 +1,85 @@
+{
+ "meta": {
+  "video_id": "7q682yKzyNY",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (marcadores de 30 s extraídos de data/transcricoes/7q682yKzyNY.json); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "33 (extraordinária)",
+  "data": "2025-06-26",
+  "formato": "reunião extraordinária de diretoria, híbrida (Flávia Takafashi e Lima Filho por videoconferência; Alber Vasconcelos presencial)",
+  "presidente_da_sessao": "Caio Farias (Diretor-Geral interino)",
+  "diretores_presentes": [
+   "Caio Farias",
+   "Flávia Takafashi",
+   "Lima Filho",
+   "Alber Vasconcelos"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Pauta única: concessão da hidrovia do rio Paraguai (tramo sul, Corumbá–foz do rio Apa, com canal do Tamengo), primeira concessão hidroviária aprovada pela ANTAQ.",
+   "Presentes também o secretário-geral Paulo (sobrenome ilegível na legenda) e o procurador-chefe Flávio Chiarelli.",
+   "Aprovado por unanimidade nos termos do voto do relator Alber Vasconcelos, que alterou a modelagem da área técnica/Infra S.A. em vários pontos (cenário de demanda, critério técnica e preço, prazo de 20 anos, vedação em 1ª etapa à LHG Mining).",
+   "Sessão de cerca de 45 minutos."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:01:31",
+   "processo": "50300.000473/2024-64 (leitura incerta)",
+   "interessado": "ANTAQ (Superintendência de Estudos e Projetos Hidroviários); Infra S.A. (estudos); Ministério de Portos e Aeroportos (poder concedente); LHG Mining / grupo J&F (principal usuária)",
+   "assunto": "Plano de Outorga Específico (POE) da concessão da hidrovia do rio Paraguai (tramo sul, Corumbá–foz do rio Apa/Porto Murtinho, cerca de 600 km, com canal do Tamengo): análise das contribuições da consulta e audiências públicas (Brasília e Corumbá) e ajustes ao EVTEA, edital e contrato antes do envio ao MPor e ao TCU",
+   "tema": [
+    "concessão de porto/hidrovia",
+    "navegação interior",
+    "hidrovia do rio Paraguai",
+    "dragagem",
+    "concorrência / verticalização",
+    "sustentabilidade",
+    "regulação tarifária (price cap)",
+    "institucional/TCU"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado por unanimidade nos termos do voto do relator",
+   "resumo_voto": "Relator acolhe parcialmente a área técnica e determina: cenário pessimista de demanda (cerca de 17 Mt/ano) como base; licitação por técnica e preço (70% técnica: tempo para atingir o nível de serviço 30% e investimentos socioambientais 40%; 30% preço: desconto limitado a 5% e redutor tarifário se a demanda superar o cenário tendencial); garantias de cerca de R$ 14,5 milhões; risco de derrocamento da União; prazo de 20 anos prorrogável até 70; exclusão da aquisição obrigatória e da reversibilidade da draga; comboios de retorno vazios tarifados até 25% da tarifa teto; licitação em duas etapas, com vedação na 1ª à LHG Mining (grupo J&F) e coligadas, por deter mais de 75% da carga; revisão anual da tarifa nos 5 primeiros anos (compartilhamento do risco de demanda) e depois quinquenal; composição e competências do comitê de dragagem no contrato, com assento para Bolívia e Paraguai; CEP e Infra S.A. atualizam EVTEA e minutas em 15 dias; envio ao MPor e depois ao TCU.",
+   "votos": [
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, aprova com ajustes à modelagem",
+     "ts": "0:35:01",
+     "justificativa": "primeira concessão hidroviária exige prudência na demanda (cenário tendencial seria 6 vezes a média histórica de 4,8 Mt); tarifa de saída muito módica; risco de verticalização: empresa com mais de 75% da carga como concessionária poderia discriminar acesso e preços; hidrovia sem rota alternativa",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "0:39:30",
+     "justificativa": "elogia o voto; destaca a retirada da reversibilidade da draga (debate também presente nos arrendamentos) e o reforço da análise concorrencial para atrair novos agentes e cargas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "0:41:30",
+     "justificativa": "momento histórico, primeira concessão hidroviária (antes se esperava a do rio Madeira); faseamento da licitação mostra preocupação concorrencial e imparcialidade da agência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "0:43:00",
+     "justificativa": "parabeniza relator e áreas técnicas (superintendência de hidrovias, CPLA), a participação social e o ajuste quanto à verticalização; prioridade do governo federal; processo segue ao Ministério e ao TCU",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: o número do processo foi lido como «50 300 473 2024 disco 64» (provável 50300.000473/2024-64); valores de garantia, capex e tarifas podem estar distorcidos (ex.: «R$ 14.hõ500.000»).",
+  "O nome do Diretor-Geral não é dito na abertura; Flávia Takafashi se dirige a «Dr. Caio» e a lista de diretores presentes (Flávia, Lima Filho, Alber) indica Caio Farias como DG interino (fev–ago/2025).",
+  "Empresa citada como «LHG MINE/LH GMIN, controlada pelo grupo JF»: normalizado como LHG Mining (grupo J&F), inferência.",
+  "O .md não tinha marcadores de minuto por fala; ts derivados do json da transcrição em blocos de 30 s."
+ ]
+}

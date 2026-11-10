@@ -1,0 +1,17 @@
+# Perfil analítico — Lima Filho · tema: concessao_porto_hidrovia
+
+**Amostra:** presente em 40 das 43 reuniões analisadas em que há registro de presença/ausência; 5 votos neste tema; 3 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+
+**Votos:** acompanha o relator 1 (50% dos votos em que não era relator) · relator 3 · vista pedida 0 · voto-vista divergente 0 · vencido 1 · outros/não captado 0
+**Como relator:** 2/3 relatorias aprovadas por unanimidade.
+
+**Temas (nº de itens em que votou / relatorias):** arrendamento_porto_organizado 399/112; navegacao_afretamento 309/93; fiscalizacao_sancoes 245/94; tup_autorizacao 204/52; recursos_recursais 187/67; tarifas_portuarias 154/52; regulacao_normativa 147/38; servicos_terminais 127/52; governanca_tcu 79/13; sustentabilidade 58/12; outros 34/8; mediacao 32/8; concessao_porto_hidrovia 5/3
+**Tom (inferência da leitura, não métrica):** insiste após a divergência e alerta para o precedente
+
+## Evidências (reunião · item · voto · justificativa)
+
+- **RD 537 (2023-02-09)**, item 36 — Referendo da Deliberação DG 10/2023 e exame da cautelar em denúncia da LCPT para manter-se em área do porto organizado de Vitória (malte de  · voto: *relator, aprova* (relator, conf. alta) · «sem perigo da demora; a ANTAQ não deve se imiscuir na escolha da autoridade portuária privada, salvo apuração ex post de conduta abusiva» · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=3912s) · resultado: aprovado por unanimidade nos termos do voto do relator
+- **RD 537 (2023-02-09)**, item 37 — Efeito suspensivo a recurso de reconsideração contra o item 5.2.2 do Acórdão 587/2022 (cobrança pela Codesa da NFS 21663, cerca de R$ 1,44 m · voto: *relator, atribuir efeito suspensivo (vencido)* (vencido, conf. alta) · «não é peticionamento abusivo; valor não é incontroverso para a recorrente; empresa assinou a confissão porque não teria outra opção sem parar as operações» · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=17262s) · resultado: efeito suspensivo negado por maioria (4 x 1), nos termos do voto diver
+- **RD 543 (2023-05-24)**, item 17 — Denúncia anônima de descumprimento de patamar de caixa pela concessionária do porto de Vitória · voto: *relator, declara improcedente* (relator, conf. alta) · «caixa e capital social não se confundem; capital social mantido em moeda corrente» · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=9841s) · resultado: aprovado (denúncia improcedente)
+- **RD 588 (2025-06-05)**, item 1 — Pedido de reconsideração da VPorts contra o Acórdão 585/2023 (arbitragem regulatória sobre responsabilidade pelo reparo do molhe de abrigo d · voto: *relator, conhece e nega provimento; indefere sobrestamento* (relator, conf. alta) · «pedido não traz argumentos novos; efeitos financeiros recaem eventualmente sobre a União; carta do TPS não altera o quadro probatório» · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=8668s) · resultado: aprovado por unanimidade: pedido conhecido e negado provimento; indefe
+- **RD 621 (2026-10-27)**, item 25 — Adaptação do contrato de concessão de direito real de uso 59/2008 ao regime privado da concessão 01/2022 (Vitória e Barra do Riacho) · voto: *acompanha o relator (aprovação simbólica, sem fala)* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=9649s) · resultado: aprovado por unanimidade (votação simbólica)

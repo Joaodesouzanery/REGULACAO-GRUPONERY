@@ -1,0 +1,650 @@
+{
+ "meta": {
+  "video_id": "yBRIlI6RQug",
+  "fonte": "legenda automática do YouTube; .md sem marcadores de minuto (ts tirados de data/transcricoes/yBRIlI6RQug.json); ts de quem só acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "528",
+  "data": "2022-09-01",
+  "formato": "presencial (com sustentações orais remotas)",
+  "presidente_da_sessao": "Eduardo Nery (Diretor-Geral)",
+  "diretores_presentes": [
+   "Eduardo Nery",
+   "Flávia Takafashi",
+   "José Renato Fialho"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Presente o procurador-chefe da PFA; atas 526, 527 e extraordinária 27 homologadas.",
+   "Duas sustentações orais: MSC (item 1) e Bandeirantes Deicmar (item 2).",
+   "Itens 5 e 6 (referendos de José Renato) transferidos para circuito deliberativo; itens 17 e 20 antecipados por conexão com o item 11 (BR do Mar); item 7 julgado no fim.",
+   "Divergências: itens 10 e 11, a revisora Flávia Takafashi prevaleceu com o voto de Nery e o relator José Renato ficou vencido; item 9, relator aderiu à diligência proposta por Nery.",
+   "Nery critica a mudança frequente de números de resoluções; Flávia e Nery cobram licitação de áreas mantidas por contratos de transição sucessivos.",
+   "Próxima RODA presencial citada para 29/09/2022."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:01:17",
+   "processo": "50300.012444/2022-17 (número incerto)",
+   "interessado": "Conselho dos Exportadores de Café do Brasil (Cecafé) / Cafebras x MSC Mediterranean Shipping Company do Brasil",
+   "assunto": "Denúncia com cautelar contra cobrança de sobre-estadia (detention) de contêiner em Santos; sustentação oral da advogada da MSC",
+   "tema": [
+    "serviços nos terminais (sobre-estadia/demurrage)",
+    "navegação e afretamento (longo curso)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por unanimidade nos termos do voto do relator",
+   "resumo_voto": "Cobrança declarada irregular: MSC não provou que a exportadora sabia da mudança da data de chegada do navio antes de retirar o contêiner; MSC deve cancelar a nota de débito; por valor baixo (cerca de R$ 2 mil), dispensado processo sancionador próprio, preferindo fiscalização sistêmica.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, declara irregular a cobrança",
+     "ts": "0:17:42",
+     "justificativa": "denunciada não provou que a exportadora conhecia a alteração do ETA antes da retirada; sem isso não se pode imputar o risco ao exportador; mudaria de entendimento em recurso se houvesse prova",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "acompanha o relator",
+     "ts": "0:26:02",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "0:26:08",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:26:15",
+   "processo": "50300.018594/2021-31",
+   "interessado": "Bandeirantes Deicmar Logística Integrada S.A. (x BTP)",
+   "assunto": "Pedido de nova licitação de área no Porto de Santos por suposto inadimplemento do contrato DP 24/2001 da BTP (granéis líquidos) e contra nova prorrogação; sustentação oral do advogado",
+   "tema": [
+    "arrendamento em porto organizado",
+    "fiscalização de contrato",
+    "prorrogação de arrendamento"
+   ],
+   "relator": "José Renato Fialho",
+   "resultado": "aprovado por unanimidade nos termos do voto do relator",
+   "resumo_voto": "Pleito indeferido: abrir licitação é competência do poder concedente; questões de cumprimento contratual já tratadas no processo 50300.021240/2018; sem irregularidade que justifique ação fiscalizatória.",
+   "votos": [
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "relator, indefere",
+     "ts": "0:39:16",
+     "justificativa": "ANTAQ não pode iniciar licitação de área arrendada; cumprimento já apurado em outro processo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator, com esclarecimentos",
+     "ts": "0:41:13",
+     "justificativa": "não houve retirada de competência fiscalizatória da ANTAQ; prorrogar ou licitar é política pública do poder concedente, não cabe à agência julgar isonomia",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "0:46:11",
+     "justificativa": "agência não recuou de sua competência; pontos já analisados no reequilíbrio",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:46:49",
+   "processo": "50300.030362/2022-61 (número incerto)",
+   "interessado": "Companhia Docas do Rio de Janeiro (CDRJ)",
+   "assunto": "Referendo da Deliberação DG 117/2022: baixa/desincorporação de castelo d'água e cisterna no Porto do Rio de Janeiro (risco de desabamento)",
+   "tema": [
+    "referendo",
+    "bens da União / desincorporação",
+    "autoridade portuária"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Aprovado o referendo da decisão que deferiu a baixa.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, referenda",
+     "ts": "0:47:11",
+     "justificativa": "urgência por risco de desabamento",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "acompanha o relator",
+     "ts": "0:48:23",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "0:48:28",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:48:38",
+   "processo": "50300.010429/2022-75",
+   "interessado": "Portocel - Terminal Especializado de Barra do Riacho (ES)",
+   "assunto": "Referendo da Deliberação DG 116/2022: autorização especial de emergência para movimentar contêineres e equipamentos pesados (navio de 36 m de boca)",
+   "tema": [
+    "referendo",
+    "autorização de TUP",
+    "autorização especial de emergência"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Referendada a autorização especial de emergência; navio já fundeado.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, referenda",
+     "ts": "0:48:55",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "acompanha o relator",
+     "ts": "0:49:56",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "0:49:59",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "2:09:20",
+   "processo": "50300.002321/2022-85 (número incerto)",
+   "interessado": "Navi (?) Engenharia, Navegação e Comércio (nome incerto na legenda)",
+   "assunto": "Consulta sobre internalização (REB/afretamento) de embarcações estrangeiras para instalação de usinas eólicas offshore",
+   "tema": [
+    "navegação e afretamento (apoio marítimo)",
+    "REB",
+    "eólicas offshore"
+   ],
+   "relator": "José Renato Fialho",
+   "resultado": "aprovado por unanimidade nos termos do voto do relator, com ajustes do voto-vista de Eduardo Nery incorporados",
+   "resumo_voto": "Navegação pretendida enquadrada como apoio marítimo para fins de REB no caso concreto; não há norma específica para atividade eólica; aplica-se limitador de tonelagem da NT 23 da GAF; entendimento restrito ao caso concreto, tema a ser aprofundado.",
+   "votos": [
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "relator, responde à consulta; incorpora as sugestões do voto-vista",
+     "ts": "2:10:46",
+     "justificativa": "segue GAF e SOG; competência da ANTAQ para interpretar casos omissos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "voto-vista: acompanha em essência, com ressalva de restringir ao caso concreto",
+     "ts": "2:15:51",
+     "justificativa": "atividade eólica offshore não existia quando da Lei 9.432; tema deve ser aprofundado pela agência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "2:20:43",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "0:51:38",
+   "processo": "50300.008203/2020-90",
+   "interessado": "Companhia Docas do Pará (CDP) x Hidrovias do Brasil - Vila do Conde S.A.",
+   "assunto": "Pedido de reposicionamento da manifestação da ANTAQ como amicus curiae em ação sobre item tarifário da Tabela 1 (infraestrutura aquaviária) no Porto de Vila do Conde",
+   "tema": [
+    "tarifas portuárias",
+    "autorização de TUP",
+    "institucional/judicial"
+   ],
+   "relator": "José Renato Fialho",
+   "resultado": "adiado (vista de Flávia Takafashi renovada); relator proferiu voto",
+   "resumo_voto": "Relator votou por dar provimento ao pleito da CDP (item 1 da Tabela 1 para todos os usuários com destino aos TUPs adjacentes; sujeito passivo é o armador) e por mandar a SRG avaliar desconto para embarcações destinadas ao TUP da Hidrovias; vista renovada até a RODA presencial de 29/09.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "pede vista (renovação)",
+     "ts": "0:52:52",
+     "justificativa": "ajustar detalhe do voto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "relator, dá provimento ao pleito da CDP (voto proferido)",
+     "ts": "0:53:15",
+     "justificativa": "Tabela 1 remunera infraestrutura aquaviária; expressão sem movimentação refere-se a embarcação descarregada; distância percorrida não afasta proporcionalidade",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "1:06:15",
+   "processo": "50300.008480/2020-01",
+   "interessado": "Vopak Brasil S.A. (Porto de Aratu/BA); Codeba",
+   "assunto": "EVTEA de prorrogação do arrendamento 16/1999 e reequilíbrio por investimentos pretéritos (13 tanques na área 3, cerca de R$ 75 milhões)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "prorrogação",
+    "reequilíbrio econômico-financeiro"
+   ],
+   "relator": "José Renato Fialho",
+   "resultado": "convertido em diligência por unanimidade (relator acolheu a proposta do voto-vista de Eduardo Nery)",
+   "resumo_voto": "Relator deferia o reequilíbrio (VPL de cerca de R$ 24,3 milhões negativos); Nery acompanhou no mérito mas propôs diligência à Codeba e à Vopak para comprovar os valores (auditoria indica R$ 45,8 milhões); relator aderiu e voto ficou único.",
+   "votos": [
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "relator, defere reequilíbrio; depois adere à diligência",
+     "ts": "1:18:27",
+     "justificativa": "todo investimento deve ser amortizado; investimentos de 2010-2011 fora da proposta comercial e autorizados pela Codeba",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "voto-vista: acompanha no mérito e propõe diligência sobre os valores",
+     "ts": "1:20:02",
+     "justificativa": "Codeba não atestou os valores; diferença entre R$ 75 mi alegados e R$ 45,8 mi auditados",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha a proposta de diligência",
+     "ts": "1:24:43",
+     "justificativa": "que a SOG passe a verificar a manifestação da autoridade portuária sobre investimentos pretéritos",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "1:28:49",
+   "processo": "50300.008611/2022-11 (número incerto)",
+   "interessado": "Companhia Docas do Rio de Janeiro (CDRJ); Global Operações Portuárias S.A.",
+   "assunto": "Incorporação por reversão de duas moegas portuárias e indenização de R$ 579 mil paga à arrendatária transitória",
+   "tema": [
+    "bens reversíveis",
+    "contrato de transição",
+    "autoridade portuária"
+   ],
+   "relator": "José Renato Fialho",
+   "resultado": "aprovado nos termos do voto da revisora (diligência à SRG), por maioria; relator vencido",
+   "resumo_voto": "Relator: desnecessária aprovação prévia e envio à SFC para apurar indenização; revisora Flávia: diligência à SRG para justificar a mudança de entendimento sobre emergencialidade e apurar o quantum; Nery acompanhou a revisora.",
+   "votos": [
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "relator, desnecessária aprovação e envio à SFC (vencido)",
+     "ts": "1:28:49",
+     "justificativa": "pagamento contraria o Acórdão 280/2021",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "revisora: diverge, converte em diligência à SRG",
+     "ts": "1:34:05",
+     "justificativa": "instrução contraditória; quantum de indenização é competência da ANTAQ, não da CDRJ",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a revisora",
+     "ts": "1:39:11",
+     "justificativa": "diligência traz mais elementos para decisão segura",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "1:39:42",
+   "processo": "50300.011174/2021-24",
+   "interessado": "ANTAQ (SRG)",
+   "assunto": "Revisão e consolidação das normas de outorga para navegação marítima e de apoio (Decreto 10.139) com adequação à Lei 14.301/2022 (BR do Mar)",
+   "tema": [
+    "regulação normativa",
+    "navegação e afretamento (cabotagem, apoio marítimo)",
+    "BR do Mar"
+   ],
+   "relator": "José Renato Fialho",
+   "resultado": "aprovado nos termos do voto da revisora (restituir à SRG com participação social), por maioria; relator vencido",
+   "resumo_voto": "Relator aprovava as resoluções sem consulta pública; Flávia propôs devolver à SRG para compatibilizar com afretamento e regulamentações da BR do Mar e fazer audiência/consulta pública; Nery acompanhou a revisora.",
+   "votos": [
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "relator, aprova as resoluções (vencido)",
+     "ts": "1:46:27",
+     "justificativa": "mera consolidação e incorporação de conceitos legais dispensa participação social",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "revisora: diverge, restitui à SRG com consulta pública",
+     "ts": "1:48:08",
+     "justificativa": "incompatibilidade com a norma de afretamento; novos conceitos afetam direitos; evitar trocas sucessivas de números de normas; prazo do decreto flexibilizado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a revisora",
+     "ts": "1:53:57",
+     "justificativa": "dispositivos da BR do Mar dependem de decreto/portaria; mudanças frequentes de números de resoluções prejudicam o setor",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "1:58:14",
+   "processo": "50300.011176/2022-13 (número incerto)",
+   "interessado": "ANTAQ (SRG)",
+   "assunto": "Revisão e consolidação das normas de afretamento (Decreto 10.139) e incorporação de conceitos da BR do Mar",
+   "tema": [
+    "regulação normativa",
+    "navegação e afretamento",
+    "BR do Mar"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado por unanimidade nos termos do voto da relatora",
+   "resumo_voto": "Autos restituídos à SRG para compatibilizar com a norma de outorga e submeter a audiência e consulta pública.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, restitui à SRG com consulta pública",
+     "ts": "1:58:14",
+     "justificativa": "novos conceitos afetam direitos dos regulados e dinâmicas operacionais",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "acompanha a relatora",
+     "ts": "2:00:38",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a relatora",
+     "ts": "2:00:40",
+     "justificativa": "coerência com o item 11",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "2:00:53",
+   "processo": "50300.000151/2022-75 (número incerto)",
+   "interessado": "ANTAQ",
+   "assunto": "Regulamentação do art. 14 da Lei 14.301/2022 (BR do Mar): embarcação efetivamente operante e mesmo grupo econômico",
+   "tema": [
+    "regulação normativa",
+    "BR do Mar",
+    "navegação e afretamento (cabotagem)"
+   ],
+   "relator": "José Renato Fialho",
+   "resultado": "aprovado por unanimidade nos termos do voto do relator",
+   "resumo_voto": "Aprovada a norma após consulta pública: operação comercial comprovada (paralisação > 90 dias exige justificativa) e conceitos de controle societário para grupo econômico.",
+   "votos": [
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "relator, aprova a norma",
+     "ts": "2:08:42",
+     "justificativa": "usa critérios de operação comercial já fiscalizados pela ANTAQ",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "2:09:10",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:09:12",
+     "justificativa": "havia prazo legal; pontos específicos",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "2:22:15",
+   "processo": "50300.017451/2021-21 (número incerto)",
+   "interessado": "CSN Mineração S.A. (arrendamento 54/97, Itaguaí)",
+   "assunto": "Processo sancionador (AI 4716-3): desempenho operacional de prancha e ocupação de berço abaixo do contratual",
+   "tema": [
+    "fiscalização e sanções",
+    "arrendamento em porto organizado"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por unanimidade nos termos do voto do relator",
+   "resumo_voto": "AI insubsistente (SFC propunha multa de R$ 700 mil); orientação à SFC de que descumprir cláusula de desempenho sem impacto à qualidade, eficiência ou concorrência não caracteriza a infração do art. 32, XXXVIII, da Res. 3274.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, insubsistência do auto",
+     "ts": "2:28:07",
+     "justificativa": "fiscalização responsiva; berços dedicados, sem usuário prejudicado; precedentes aplicaram advertência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "acompanha o relator",
+     "ts": "2:28:51",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "2:28:53",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "33",
+   "ts": "2:29:11",
+   "processo": "50300.014523/2022-41",
+   "interessado": "Aurora da Amazônia Terminais e Serviços Ltda. x Chibatão Navegação e Comércio",
+   "assunto": "Denúncia de descumprimento do Acórdão 411/2022 (SSE suspenso) e pedido de nova cautelar (Manaus)",
+   "tema": [
+    "tarifas portuárias (SSE)",
+    "fiscalização e sanções",
+    "serviços nos terminais"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por unanimidade nos termos do voto do relator",
+   "resumo_voto": "Nova cautelar indeferida (a anterior segue vigente); SFC deve analisar a denúncia com urgência e levar à Diretoria mesmo em caso de arquivamento.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, indefere nova cautelar e determina apuração urgente",
+     "ts": "2:31:40",
+     "justificativa": "denúncia grave; cautelar vigente deve ser cumprida",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "acompanha o relator",
+     "ts": "2:32:42",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "2:32:46",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "2:33:31",
+   "processo": "50300.009200/2022-35 (número incerto)",
+   "interessado": "Porto do Recife S.A.; Agemar Transportes e Empreendimentos",
+   "assunto": "Conformidade do 4º contrato de transição e ajuste de área (Resolução 7743)",
+   "tema": [
+    "contrato de transição",
+    "arrendamento em porto organizado"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado por unanimidade nos termos do voto da relatora",
+   "resumo_voto": "Atestada a conformidade e alterada a Resolução 7743 para incluir o incremento de área (alteração do PDZ); preocupação com sucessivos contratos de transição sem licitação prevista.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relatora, atesta conformidade",
+     "ts": "2:36:19",
+     "justificativa": "área fora dos programas de licitação 2022-2023",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "acompanha a relatora",
+     "ts": "2:37:34",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a relatora, com preocupação",
+     "ts": "2:37:36",
+     "justificativa": "áreas em transição devem ser licitadas, inclusive por arrendamento simplificado",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "2:39:26",
+   "processo": "50300.000826/2022-86",
+   "interessado": "Rises (?) Empreendimentos e Participações (grafia incerta) -> Eldorado Brasil Celulose Logística Ltda.",
+   "assunto": "Anuência prévia para transferência de titularidade do arrendamento DP-DC 01/2005 (Paquetá, Porto de Santos)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "transferência de titularidade"
+   ],
+   "relator": "José Renato Fialho",
+   "resultado": "aprovado por unanimidade nos termos do voto do relator",
+   "resumo_voto": "Possibilidade de transferência reconhecida; autos à SNPTA; processo reservado.",
+   "votos": [
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "relator, reconhece possibilidade da transferência",
+     "ts": "2:42:23",
+     "justificativa": "mesmo grupo econômico; sem distorção concorrencial; não interfere no STS11",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "2:43:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:43:14",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "30",
+   "ts": "2:43:25",
+   "processo": "50300.010899/2014-26 (número incerto)",
+   "interessado": "ANTAQ (SRG)",
+   "assunto": "AIR do tema 2.2 da Agenda Regulatória: metodologia para aferir abusividade na cobrança de sobre-estadia de contêineres",
+   "tema": [
+    "regulação normativa (AIR, audiência pública)",
+    "serviços nos terminais (sobre-estadia/demurrage)"
+   ],
+   "relator": "José Renato Fialho",
+   "resultado": "adiado (vista de Flávia Takafashi); relator proferiu voto",
+   "resumo_voto": "Relator votou por audiência e consulta pública de 45 dias da instrução normativa (valor cobrado comparado ao frete mais dano comprovado; responsabilidade objetiva).",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "pede vista",
+     "ts": "2:44:03",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "relator, submete minuta a audiência pública (voto proferido)",
+     "ts": "2:52:08",
+     "justificativa": "metodologia dá transparência, isonomia e segurança jurídica",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "32",
+   "ts": "2:53:16",
+   "processo": "50300.014516/2022-85 (número incerto)",
+   "interessado": "Companhia Docas do Espírito Santo (Codesa); Terminal Vila Velha (TVV) e outra arrendatária transitória",
+   "assunto": "Novos contratos de transição no Porto de Vitória até aprovação do código de conduta da nova concessionária (desestatização)",
+   "tema": [
+    "contrato de transição",
+    "concessão de porto",
+    "autoridade portuária"
+   ],
+   "relator": "José Renato Fialho",
+   "resultado": "aprovado por unanimidade nos termos do voto do relator",
+   "resumo_voto": "Declarado que a falta de aprovação do código de conduta não impede a nova concessionária de assinar instrumentos de transição nas mesmas condições.",
+   "votos": [
+    {
+     "diretor": "José Renato Fialho",
+     "voto": "relator, autoriza",
+     "ts": "2:59:17",
+     "justificativa": "evitar descontinuidade e ocupação irregular",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "2:59:45",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:59:47",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "Itens 5 e 6: referendos de José Renato transferidos para circuito deliberativo interno.",
+  "Item 12 (50300.000317/2021-72?, enquadramento de embarcações de engenharia offshore como apoio marítimo): retirado por Eduardo Nery para aprofundamento e visita a embarcação.",
+  "Itens 14, 16 e 18: retirados de pauta (relatoria de Flávia Takafashi).",
+  "Item 19 (50300.021439/2021-01?, reequilíbrio econômico-financeiro; interessado provavelmente Brasil Terminal Portuário): retirado pela relatora.",
+  "Itens 22 a 29 e 31: retirados de pauta por despacho do relator José Renato."
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo e nomes de empresas (Navi, Rises, segunda arrendatária da Codesa) com grafia incerta.",
+  "Data 2022-09-01 do cabeçalho não confirmada por fala explícita; coerente com referência à próxima RODA presencial de 29/09/2022 e à assinatura do contrato de concessão da Codesa prevista para 12/09/2022.",
+  "O cabeçalho do .md listava falantes inferidos (Mário Povia, Frederico Dias) que não participaram; presentes eram Nery, Flávia Takafashi e José Renato Fialho (substituto segundo a lista da agência).",
+  "ts de quem só acompanhou são aproximados; ordem dos itens no JSON segue a ordem de julgamento, não a numeração da pauta."
+ ]
+}

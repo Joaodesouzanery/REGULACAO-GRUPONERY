@@ -1,0 +1,806 @@
+# Itens do tema «recursos_recursais» (todos os diretores)
+
+- **RD 454 (2018-12-20)**, 10 · relator **Mário Povia** · Pedido de reconsideração contra a Resolução 5742 (multa de R$ 1 milhão por permitir ocupação de área sem licitação por abastecedora de combustíveis) → aprovado por unanimidade (recurso não conhecido)
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=1581s)
+- **RD 454 (2018-12-20)**, 11 · relator **Mário Povia** · Pedido de reconsideração contra a Resolução 6052 (multa de R$ 1 milhão por não regularizar ocupação de áreas e não levantar instalações operacionais e → aprovado por unanimidade (recurso conhecido e não provido)
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=1957s)
+- **RD 454 (2018-12-20)**, 30 · relator **Francisval Mendes** · Pedido de reconsideração contra a Resolução 6303 → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=12103s)
+- **RD 455 (2019-01-31)**, 3 · relator **Francisval Mendes** · Pedido de reconsideração → julgamento suspenso (vistas)
+  - votos: Francisval: relator; Adalberto: outro; Mário: vista · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=116s)
+- **RD 455 (2019-01-31)**, 4 · relator **Francisval Mendes** · Pedido de reconsideração contra a Resolução 5956-ANTAQ (auto de infração; multa de cerca de 329 mil reais) → aprovado por unanimidade — reconsideração negada
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=155s)
+- **RD 455 (2019-01-31)**, 49 · relator **Francisval Mendes** · Pedido de reconsideração contra as Resoluções 6042 e 6067-ANTAQ (ocupação de área sem contrato até celebração de contrato de transição) → aprovado por maioria — provimento parcial (multa convertida em advertência); Tokarski venc
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=4528s)
+- **RD 455 (2019-01-31)**, 50 · relator **Francisval Mendes** · Embargos de declaração (recebidos como direito de petição) contra a Resolução 6456-ANTAQ — instalação portuária de turismo em Balneário Camboriú (SC) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=4852s)
+- **RD 456 (2019-02-26)**, 1 · relator **Francisval Mendes** · Pedido de reconsideração (voto do relator já proferido; vistas de Adalberto Tokarski e de Mário Povia) → vista renovada; julgamento suspenso
+  - votos: Francisval: relator; Mário: outro; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=37s)
+- **RD 456 (2019-02-26)**, 9 · relator **Francisval Mendes** · Pedido de reconsideração com pedido de vista pendente → aguarda voto-vista; julgamento suspenso
+  - votos: Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=664s)
+- **RD 456 (2019-02-26)**, 10 · relator **Francisval Mendes** · Pedido de reconsideração do acórdão de 2016 sobre restrição de movimentação de grãos fora do Tegram; pedido cautelar da VLI para exportar milho e exce → aprovado por unanimidade: provimento negado; limitação restrita a soja e farelo de soja at
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=688s)
+- **RD 456 (2019-02-26)**, 11 · relator **Francisval Mendes** · Pedido de reconsideração da Resolução 5.802 que determinou desocupação de área no porto organizado do Rio Grande → aprovado por unanimidade: provimento negado
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=_Gv9sYTEfE0&t=1185s)
+- **RD 458 (2019-04-04)**, 11 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 17.500 (Resolução 6499) por não apresentar documentos para manter a qualificação de operador portuário → aprovado por unanimidade (provimento negado)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=1646s)
+- **RD 458 (2019-04-04)**, 16 · relator **Francisval Mendes** · Pedido de reconsideração da CDRJ em conflito tarifário: desconto de 50% para cabotagem em operações offshore no porto de Angra dos Reis → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=3857s)
+- **RD 459 (2019-04-15)**, 6 · relator **None** · Pedido de reconsideração – vista renovada → vista prorrogada para a próxima reunião
+  - votos: Mário: vista · [vídeo](https://www.youtube.com/watch?v=qvbjmuoJniI&t=585s)
+- **RD 460 (2019-05-06)**, 1 · relator **Francisval Mendes** · Pedido de reconsideração (processo com vista do Diretor-Geral) → vista renovada
+  - votos: Mário: outro; Francisval: relator; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=30s)
+- **RD 460 (2019-05-06)**, 6 · relator **Mário Povia** · Pedido de reconsideração contra o registro da instalação portuária de apoio Píer do Centro (Praia do Canto), Búzios (Resolução 6517-ANTAQ) → aprovado por unanimidade (recurso conhecido e não provido)
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=179s)
+- **RD 460 (2019-05-06)**, 11 · relator **Francisval Mendes** · Embargos de declaração da Chibatão contra decisão da 455ª ROD (Resolução 6715-ANTAQ) que comunicou ao CADE denúncia de infração à ordem econômica (Man → aprovado por unanimidade (embargos não admitidos)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=2050s)
+- **RD 460 (2019-05-06)**, 35 · relator **Francisval Mendes** · Pedido de reconsideração da Super Terminais contra decisão da 455ª ROD (Resolução 6747-ANTAQ, de 15/02/2019) que comunicou denúncia ao CADE → aprovado por unanimidade (recurso conhecido e não provido)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ydCaT1l9Yp8&t=5253s)
+- **RD 461 (2019-05-20)**, 3 · relator **Francisval Mendes** · Pedido de reconsideração contra a Resolução 5892/2018, que vedou cobrança de tarifas de bagagem, adicional de expansão de funcionamento e valor mínimo → pedido de vista de Adalberto Tokarski (vista anterior do Diretor-Geral também pendente)
+  - votos: Francisval: relator; Adalberto: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=623s)
+- **RD 461 (2019-05-20)**, 21 · relator **Mário Povia** · Pedido de reconsideração da análise do EVTEA de reequilíbrio do contrato de arrendamento PRES 01/98 (Porto de Santos) (Res. 5952/2018), quanto à recei → pedido de vista de Adalberto Tokarski
+  - votos: Mário: relator; Adalberto: vista; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=2948s)
+- **RD 461 (2019-05-20)**, 24 · relator **Francisval Mendes** · Recurso administrativo contra decisão da comissão de licitação sobre habilitação no leilão 07/2018 (área AI-01) dos leilões de arrendamento 7 a 10/201 → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=3568s)
+- **RD 461 (2019-05-20)**, 44 · relator **Adalberto Tokarski** · Pedido de reconsideração (convertido em recurso) contra indeferimento de certificados de liberação de carga pesquisada (CLCP) para importação de peças → pedido de vista do Diretor-Geral
+  - votos: Adalberto: relator; Mário: vista; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=8905s)
+- **RD 462 (2019-05-30)**, 28 · relator **Adalberto Tokarski** · Pedido de reconsideração contra multa de R$ 300 mil (Acórdão 108/2018) por cobrança indevida de armazenagem adicional ao exportador (art. 10 da Res. 2 → voto do relator proferido (provimento parcial, multa reduzida a R$ 100 mil); vista de Fran
+  - votos: Adalberto: relator; Francisval: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=JdrGpV4gzSA&t=8563s)
+- **RD 463 (2019-06-26)**, 6 · relator **Adalberto Tokarski** · Pedido de reconsideração contra decisão sancionadora (multa); vista de Francisval Mendes → pedido conhecido e não provido por maioria; prevaleceu o voto-vista de Francisval Mendes (
+  - votos: Francisval: revisor_diverge; Mário: revisor_acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=1266s)
+- **RD 463 (2019-06-26)**, 10 · relator **Francisval Mendes** · Pedido de reconsideração contra a Resolução 5892-ANTAQ (ROD 436), que vedou cobrança de tarifas de bagagem, embarque/desembarque adicional, expansão d → aprovado nos termos do voto condutor (pedido de reconsideração indeferido), unânime
+  - votos: Francisval: relator; Mário: revisor_acompanha; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=1463s)
+- **RD 463 (2019-06-26)**, 11 · relator **Adalberto Tokarski** · Recurso administrativo contra negativa da GAF de certificado de liberação de carga prescrita (CLCP) para embarque em navio estrangeiro; vista de Mário → recurso não provido por maioria; prevaleceu o voto-vista de Mário Povia, vencido o relator
+  - votos: Mário: revisor_diverge; Francisval: revisor_acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=1814s)
+- **RD 463 (2019-06-26)**, 31 · relator **Francisval Mendes** · Pedido de reconsideração contra a Resolução 6817-ANTAQ (ROD 458), de caráter opinativo → pedido conhecido e não provido, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=4819s)
+- **RD 463 (2019-06-26)**, 37 · relator **Francisval Mendes** · Recurso com pedido de efeito suspensivo contra a Resolução 6926/2019-ANTAQ, que autorizou a CDRJ a celebrar contrato de transição com a Triunfo Logíst → efeito suspensivo indeferido por maioria (2x1), vencido Mário Povia
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=Miri_xRGFZA&t=7814s)
+- **RD 465 (2019-08-22)**, 63 · relator **Francisval Mendes** · Pedido de reconsideração contra a Resolução 6110-ANTAQ (multa e determinação de desocupação de área no porto do Rio Grande) → provimento parcial por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=1492s)
+- **RD 465 (2019-08-22)**, 64 · relator **Francisval Mendes** · Pedido de reconsideração contra decisão sancionadora da Resolução 5969-ANTAQ → pedido conhecido e não provido, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=1618s)
+- **RD 465 (2019-08-22)**, 65 · relator **Francisval Mendes** · Pedido de reconsideração contra a Resolução 6095-ANTAQ (multa por não comunicar em 30 dias contratos de cessão de uso onerosa) → provimento parcial por maioria (multa reduzida), vencido um diretor (provavelmente Mário P
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=1713s)
+- **RD 465 (2019-08-22)**, 66 · relator **Francisval Mendes** · Pedido de reconsideração contra referendo da medida cautelar (Resolução 6724-ANTAQ) que suspendeu a Resolução Homologatória 1/2019 de licitação → processo extinto por unanimidade (perda de objeto)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=1998s)
+- **RD 465 (2019-08-22)**, 67 · relator **Francisval Mendes** · Recurso voluntário contra multa de R$ 1,01 milhão aplicada pela SFC por descumprimento do TAC 02/2016 → não concluído: vista de Adalberto Tokarski após o voto do relator
+  - votos: Francisval: relator; Adalberto: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=lM2LXMi7aLk&t=2093s)
+- **RD 466 (2019-09-27)**, 55 · relator **Mário Povia** · Pedido de reconsideração contra o Acórdão 105/2017 (advertência por patrimônio líquido inferior ao exigido; possibilidade de TAC) → relator votou; processo vai à vista de Francisval Mendes (pedido de vista anterior)
+  - votos: Mário: relator; Francisval: vista; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=4s)
+- **RD 466 (2019-09-27)**, 72 · relator **Francisval Mendes** · Pedido de revisão e medida cautelar (exclusão do Cadin) contra multa já transitada em julgado e inscrita em dívida ativa → aprovado nos termos do voto do relator
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=2565s)
+- **RD 466 (2019-09-27)**, 73 · relator **Francisval Mendes** · Recurso administrativo → pedido de vista antes do voto do relator
+  - votos: Mário: vista; Francisval: relator; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=2949s)
+- **RD 466 (2019-09-27)**, 75 · relator **Francisval Mendes** · Reversibilidade de bens — recurso administrativo (vista de Adalberto Tokarski pendente) → vista de Adalberto Tokarski mantida; voto proferido posteriormente
+  - votos: Adalberto: vista; Francisval: relator; Mário: outro · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=3191s)
+- **RD 466 (2019-09-27)**, 84 · relator **Francisval Mendes** · Pedido de reconsideração → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=4708s)
+- **RD 466 (2019-09-27)**, 85 · relator **Francisval Mendes** · Pedido de reconsideração → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=Qnq85t-gW8c&t=4708s)
+- **RD 467 (2019-10-21)**, 2 · relator **Francisval Mendes** · Representação com cautelar contra majoração do SSE/THC2 (segregação e entrega de contêineres) no Porto de Santos; recursos de BTP e Libra → aprovado por unanimidade nos termos do voto do relator
+  - votos: Francisval: relator; Mário: revisor_acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=110s)
+- **RD 467 (2019-10-21)**, 3 · relator **Adalberto Tokarski** · Consulta administrativo-regulatória → adiado (vista renovada por Mário Povia)
+  - votos: Mário: vista · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=709s)
+- **RD 467 (2019-10-21)**, 8 · relator **Mário Povia** · Pedido de reconsideração → aprovado nos termos do voto do relator
+  - votos: Mário: relator; Francisval: revisor_acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=1672s)
+- **RD 467 (2019-10-21)**, 22 · relator **Mário Povia** · Pedido de reconsideração contra o Acórdão 108/2017 (multa de R$ 1 milhão; arrendamento não operacional com Porto Esportivo Itajaí) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=3679s)
+- **RD 467 (2019-10-21)**, 23 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 175 mil por ocupar 7 mil m2 no Porto do Forno sem contrato → aprovado por unanimidade nos termos do voto do relator
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=gS4JMlpiICg&t=3809s)
+- **RD 468 (2019-11-08)**, 31 · relator **Francisval Mendes** · Pedido de efeito suspensivo em recurso de revisão contra multa (processo sancionador da navegação) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=4367s)
+- **RD 468 (2019-11-08)**, 33 · relator **Francisval Mendes** · Pedido de reconsideração contra decisão da ROD de abril/2018 (auto de infração por ocupação de área, art. 34, XIV, da Res. 3.274/2014), porto de Manau → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=4862s)
+- **RD 468 (2019-11-08)**, 39 · relator **Adalberto Tokarski** · Pedido de reconsideração contra o Acórdão 111/2018 (multa à autoridade portuária) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=sOfO-UKUAuk&t=6892s)
+- **RD 469 (2019-11-20)**, 18 · relator **Francisval Mendes** · Recurso administrativo contra a Resolução 6.926/2019-ANTAQ, que autorizou a CDRJ a celebrar contrato de transição com a Triunfo Logística (área usada  → recurso conhecido e não provido, por maioria (um diretor diverge para dar provimento)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=W57uJxuLJM8&t=2310s)
+- **RD 470 (2019-12-12)**, 3 · relator **Francisval Mendes** · Recurso voluntário contra multa de R$ 242 mil (Despacho de Julgamento 28/2017-SFC) por prestação de informação falsa (inciso 19 do art. 32 da Res. 2.9 → provido por maioria nos termos do voto-vista de Tokarski (auto de infração insubsistente);
+  - votos: Francisval: vencido; Adalberto: revisor_diverge; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=0q_Q8rIAIvw&t=71s)
+- **RD 471 (2019-12-20)**, 39 (extrapauta) · relator **Adalberto Tokarski** · Recurso administrativo contra resultado do Leilão 02/2019-ANTAQ (Aba declarada vencedora, EBT em segundo lugar) → recurso conhecido e desprovido, por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P_LIYIJGp8I&t=3397s)
+- **RD 472 (2020-02-10)**, 2 · relator **Mário Povia** · Pedido de reconsideração (voto-vista) → aprovado nos termos do voto condutor
+  - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=74s)
+- **RD 473 (2020-02-10)**, 2 · relator **Francisval Mendes** · Reversibilidade de bens do contrato de transição 03/2016 (terminal de granéis líquidos) — recurso administrativo da Petrobras → aprovado por unanimidade — recurso não conhecido (intempestivo), alegações recebidas como 
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=105s)
+- **RD 472 (2020-02-10)**, 6 · relator **Mário Povia** · Pedidos de reconsideração contra a Res. 6183-ANTAQ (cobrança de armazenagem por período e SSE/THC2 e energia elétrica no porto de Suape) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=210s)
+- **RD 472 (2020-02-10)**, 7 · relator **Mário Povia** · Pedido de reconsideração contra Res. 6895-ANTAQ (cautelar para descarregamento de condensado no terminal Ilha Barnabé, Santos) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=556s)
+- **RD 472 (2020-02-10)**, 8 · relator **Mário Povia** · Pedido de reconsideração da Chibatão contra o Acórdão 59/2019-ANTAQ (ampliação de Superterminais, Manaus) → aprovado por maioria; Tokarski vencido
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=775s)
+- **RD 472 (2020-02-10)**, 9 · relator **Mário Povia** · Pedido de reconsideração contra o Acórdão 92/2019-ANTAQ (revisão da movimentação mínima contratual, MMC, e reequilíbrio) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=1401s)
+- **RD 473 (2020-02-10)**, 8 · relator **Mário Povia** · Pedido de reconsideração contra o Acórdão 67/2019 (multa por uso de área entre os cabeços 163 e 165 sem contrato; contrato com a empresa Triunfo) → aprovado por unanimidade — pedido conhecido e improvido; multa mantida
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=1505s)
+- **RD 473 (2020-02-10)**, 9 · relator **Mário Povia** · Pedido de reconsideração da Embraport contra o Acórdão 95/2019: proporcionalidade das tarifas portuárias (Tabelas 1 e 2) cobradas de terminal autoriza → aprovado por maioria — pedido conhecido e improvido; vencido Adalberto Tokarski
+  - votos: Mário: relator; Adalberto: vencido; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=1785s)
+- **RD 473 (2020-02-10)**, 10 · relator **Mário Povia** · Pedido de reconsideração contra a Resolução 7.459/2019 (reequilíbrio econômico-financeiro; eventos anteriores ao 5º termo aditivo; área não contígua e → aprovado por unanimidade — pedido conhecido e improvido
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=2677s)
+- **RD 472 (2020-02-10)**, 25 · relator **Francisval Mendes** · Recurso administrativo contra decisão da SFC (multa de R$ 70 mil, RN 13) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BLMEUq_Ui5g&t=5514s)
+- **RD 473 (2020-02-10)**, 18 · relator **Mário Povia** · Avaliação de franquia e preço-teto para o SSE (RN 34/Acórdão 69/2019) e embargos de declaração/recursos contra o Acórdão 69/2019 → pedido de vista de Adalberto Tokarski após o voto do relator
+  - votos: Mário: relator; Adalberto: vista; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=7410s)
+- **RD 473 (2020-02-10)**, 22 · relator **Francisval Mendes** · Pedido de reconsideração contra a Resolução 7.233/2019 (sanção; desocupação de área) → aprovado por unanimidade — improvido
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=8355s)
+- **RD 473 (2020-02-10)**, 23 · relator **Francisval Mendes** · Pedido de reconsideração contra o Acórdão 32/2019 (multa) → aprovado por maioria — improvido; vencido Adalberto Tokarski
+  - votos: Francisval: relator; Adalberto: vencido; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=8447s)
+- **RD 473 (2020-02-10)**, 36 · relator **Adalberto Tokarski** · Recurso contra multa da SFC (cerca de R$ 74 mil) por derramamento de combustível em transferência entre balsas → aprovado por unanimidade — recurso improvido
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=9843s)
+- **RD 473 (2020-02-10)**, 37 · relator **Adalberto Tokarski** · Recurso contra a Resolução 5.753/2017 (ampliação de 400 m do cais flutuante e alteração de perfil de carga do TUP Chibatão) → aprovado por unanimidade — recurso improvido por perda superveniente de objeto
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=eTq2UPNzAwU&t=10169s)
+- **RD 474 (2020-03-06)**, 5 · relator **Mário Povia** · Pedido de reconsideração do Acórdão 31/2019 (EVTEA de reequilíbrio do arrendamento DP 24/2001) → aprovado — pedido conhecido e improvido; Tokarski adere à maioria formada na 465ª reunião
+  - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=576s)
+- **RD 474 (2020-03-06)**, 6 · relator **Francisval Mendes** · Recurso/pedidos de reconsideração contra a Resolução 6.573/2018, que indeferiu registro de instalação flutuante sem ligação em terra → aprovado o voto-vista divergente de Tokarski — registro deferido (art. 2º, I, RN 13/2016);
+  - votos: Francisval: vencido; Adalberto: revisor_diverge; Gabriela: revisor_diverge · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=714s)
+- **RD 474 (2020-03-06)**, 23 · relator **Francisval Mendes** · Recurso contra a Resolução 6.636 (multa por ocupação de área do prolongamento do cais do Estaleiro Honório Bicalho) → aprovado — recurso provido; auto de infração insubsistente por ausência de autoria
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=5258s)
+- **RD 474 (2020-03-06)**, 24 · relator **Francisval Mendes** · Pedido de reconsideração contra a Resolução 6.637 (extinção do TAC 04/2016 por perda de objeto) → aprovado — parcial provimento; TAC 04/2016 revalidado; SUPRG tem 120 dias para assinar ces
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=5966s)
+- **RD 474 (2020-03-06)**, 34 · relator **Adalberto Tokarski** · Recurso da CDRJ contra decisão da SFC que mandou cessar cobrança da tarifa de conferência/controle no recebimento de água por embarcação para o aquári → aprovado por unanimidade — ofício da URERJ convertido em medida cautelar; autos à SRG para
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=8348s)
+- **RD 474 (2020-03-06)**, 41 · relator **Francisval Mendes** · Referendo da Resolução 7.587 — indeferimento de efeito suspensivo ao pedido de reconsideração contra a Resolução 7.518 (taxa considerada irregular pel → referendado por unanimidade — efeito suspensivo negado; SRG analisa o mérito
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rmArovc4eYE&t=9884s)
+- **RD 477 (2020-05-10)**, 2 · relator **Mário Povia** · Embargos de declaração e recursos contra o Acórdão 69/2019 e a RN 34 (movimentação e armazenagem de contêineres; franquia e preço-teto do SSE) – voto- → aprovado nos termos do voto condutor (relator Mário Povia, voto já proferido)
+  - votos: Adalberto: revisor_acompanha; Francisval: acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=454s)
+- **RD 477 (2020-05-10)**, 8 · relator **Francisval Mendes** · Pedido de reconsideração de multa de R$ 140 mil por explorar TUP em Cruzeiro do Sul/AC sem autorização → pedido de vista (Adalberto Tokarski) após leitura do voto
+  - votos: Francisval: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=3046s)
+- **RD 477 (2020-05-10)**, 9 · relator **Francisval Mendes** · Recurso contra negativa de certificado de liberação de carga prescrita (CLCP) pela gerência de afretamento → aprovado
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=3216s)
+- **RD 477 (2020-05-10)**, 11 · relator **Francisval Mendes** · Recurso contra negativa de registro de embarcações na frota da EBN → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=3569s)
+- **RD 477 (2020-05-10)**, 20 · relator **Adalberto Tokarski** · Pedido de reconsideração de multa (receita portuária destinada ao Estado de SC) → aprovado
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=6033s)
+- **RD 477 (2020-05-10)**, 21 · relator **Adalberto Tokarski** · Recurso contra multa por exploração de instalação sem registro (RN 13) → aprovado
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=6326s)
+- **RD 477 (2020-05-10)**, 22 · relator **Adalberto Tokarski** · Recurso contra multa por deixar de fiscalizar operadores portuários quanto ao serviço adequado (Res. 3274, art. 33) → aprovado
+  - votos: Adalberto: relator; Francisval: acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=HC46sflGlV8&t=6544s)
+- **RD 479 (2020-06-09)**, 2 · relator **Francisval Mendes** · Pedido de reconsideração contra multa por explorar TUP em Cruzeiro do Sul (AC) sem autorização do poder concedente (art. 36, XV, Res. 3.274) → sobrestado na Secretaria-Geral até a renovação do colegiado (três posições diferentes sobr
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=398s)
+- **RD 479 (2020-06-09)**, 6 · relator **Francisval Mendes** · Pedido de reconsideração contra a Res. 6.020 (multas por diversas infrações à Res. 858); preliminar de prescrição intercorrente → aprovado por maioria nos termos do voto do relator (provimento parcial); voto-vista de Gab
+  - votos: Francisval: relator; Gabriela: revisor_acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=1271s)
+- **RD 479 (2020-06-09)**, 8 · relator **Francisval Mendes** · Pedido de reconsideração da Res. 7.252 (reajuste anual do contrato de arrendamento 02/98 pelo IGP-M, inclusive deflação) → aprovado por unanimidade: provimento parcial
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=2784s)
+- **RD 479 (2020-06-09)**, 9 · relator **Francisval Mendes** · Pedido de reconsideração do Acórdão 10/2019 (multa de R$ 272.250, art. 36, XV, Res. 3.274) → aprovado por unanimidade: não provido
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=3174s)
+- **RD 479 (2020-06-09)**, 29 · relator **Adalberto Tokarski** · Pedido de reconsideração da Res. 6.723 (multa; certidões negativas municipais) → aprovado: não provido (Gabriela Costa impedida)
+  - votos: Adalberto: relator; Gabriela: outro; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=6839s)
+- **RD 479 (2020-06-09)**, 38 · relator **Adalberto Tokarski** · Recurso contra multa de R$ 169 mil (art. 23, IV, Res. 2.920); pedido de sobrestamento até consulta sobre documentos que comprovam afretamento (RN 18) → pedido de vista (Gabriela Costa) após voto do relator
+  - votos: Adalberto: relator; Gabriela: vista · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=7807s)
+- **RD 479 (2020-06-09)**, 47 · relator **Francisval Mendes** · Referendo da Res. 7.774: efeito suspensivo à Res. 7.608 até o julgamento dos embargos de declaração (operações fora da área arrendada) → aprovado (Gabriela Costa impedida)
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=4rVjxNd9d6g&t=11158s)
+- **RD 481 (2020-07-04)**, 8 · relator **Francisval Mendes** · Embargos de declaração contra a Resolução ANTAQ 7.437/2019, recebidos como pedido de reconsideração → aprovado por unanimidade (provimento parcial)
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=mrfQFHIfoxg&t=1413s)
+- **RD 483 (2020-08-10)**, 17 · relator **Francisval Mendes** · Pedido de reconsideração com efeito suspensivo e medida cautelar (relator com voto proferido; vistas de Tokarski e Gabriela Costa) → pedido de vista (Gabriela Costa); sustentação oral adiada a pedido do advogado
+  - votos: Francisval: relator; Gabriela: vista; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=885s)
+- **RD 483 (2020-08-10)**, 19 · relator **Adalberto Tokarski** · Recurso administrativo (relator com voto proferido) → pedido de vista renovado (Gabriela Costa)
+  - votos: Gabriela: vista · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=4632s)
+- **RD 483 (2020-08-10)**, 28 · relator **Francisval Mendes** · Pedido de reconsideração da Res. 7.512 (indeferiu cautelar para armadores enviarem manifestos de carga perigosa como recebidos dos importadores, sem t → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=4688s)
+- **RD 483 (2020-08-10)**, 23 · relator **Francisval Mendes** · Pedido de reconsideração contra a Res. 6.563 (multa por infração do art. 33, XXXI, da Res. 3.274) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=6913s)
+- **RD 483 (2020-08-10)**, 24 · relator **Francisval Mendes** · Pedido de reconsideração contra multa (cerca de R$ 30,6 mil) da SFC por infração ao art. 12, VII, da RN 3 → aprovado (Gabriela Costa impedida)
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=7181s)
+- **RD 483 (2020-08-10)**, 26 · relator **Francisval Mendes** · Pedido de reconsideração contra multas (seguro em desacordo e falta de continuidade do serviço portuário) — terminal sem movimentação desde 2013 → aprovado (Gabriela Costa impedida)
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=7337s)
+- **RD 483 (2020-08-10)**, 27 · relator **Francisval Mendes** · Pedido de reconsideração contra a Res. 7.518 (declarou irregular a cobrança da taxa de logística de exportação, ELF, e determinou sua cessação) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=7897s)
+- **RD 483 (2020-08-10)**, 29 · relator **Francisval Mendes** · Recurso (recebido como pedido de reconsideração) para rerratificar a Res. 7.613 (autorização em caráter especial para granel sólido por 180 dias) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=8140s)
+- **RD 483 (2020-08-10)**, 33 · relator **Adalberto Tokarski** · Pedido de reconsideração contra a Res. 7.831 (negou prorrogar o prazo das audiências públicas do arrendamento STS08) → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=8922s)
+- **RD 483 (2020-08-10)**, 32 · relator **Adalberto Tokarski** · Pedido de reconsideração contra a Res. 7.694/2020 (desocupação de área portuária em 60 dias; acordo judicial com a Codern) → pedido de vista (Francisval Mendes) após leitura do voto do relator
+  - votos: Adalberto: relator; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=14564s)
+- **RD 483 (2020-08-10)**, 59 · relator **Gabriela Costa** · Pedido de reconsideração contra a Res. 7.832 (negou prorrogar a AP 6/2020 do STS08A) → aprovado por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=rU1hwdWhg4A&t=18680s)
+- **RD 485 (2020-08-27)**, 7 · relator **Adalberto Tokarski** · Pedido de reconsideração contra a Resolução 7694 (auto de infração 34690, multa de R$ 157.500 por ocupação de área sem contrato no Porto de Maceió); s → aprovado nos termos do voto-vista de Francisval Mendes (relator Tokarski vencido na parte 
+  - votos: Adalberto: relator; Francisval: revisor_diverge; Joelson: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=1970s)
+- **RD 485 (2020-08-27)**, 14 · relator **Francisval Mendes** · Pedido de reconsideração contra o Acórdão 117/2020 que manteve penalidades da Res. 6503/2018 (advertência, multa de R$ 175 mil e outra sanção); empate → negado provimento; voto do relator Francisval Mendes vencido (Joelson Miranda desempatou a
+  - votos: Francisval: vencido; Adalberto: outro; Joelson: outro · [vídeo](https://www.youtube.com/watch?v=1GqC0DTzhaU&t=4319s)
+- **RD 487 (2020-09-30)**, 5 · relator **Adalberto Tokarski** · Pedido de reconsideração da SUPRG contra a Resolução 7334-ANTAQ (2019) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Adalberto: relator; Francisval: revisor_acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=1315s)
+- **RD 487 (2020-09-30)**, 14 · relator **Francisval Mendes** · Recurso administrativo (pedido de reconsideração) contra a Resolução Normativa 31/2019 (sistema de acompanhamento de preços) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=4216s)
+- **RD 487 (2020-09-30)**, 18 · relator **Adalberto Tokarski** · Pedido de reconsideração contra acórdão que manteve multa (auto de infração 2540-2) por ocupar área portuária sem licitação/contrato (art. 34, XIV, Re → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=5359s)
+- **RD 487 (2020-09-30)**, 19 · relator **Adalberto Tokarski** · Pedido de revisão administrativa: prazo para apresentar o Certificado de Registro de Armador (CRA) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Joelson: acompanha · [vídeo](https://www.youtube.com/watch?v=LQY5O2ZQdEE&t=6203s)
+- **RD 490 (2020-12-08)**, 4 · relator **None** · Recurso em procedimento de fiscalização na navegação marítima e de apoio → pedido de vista (Francisval Mendes)
+  - votos: Francisval: vista · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=1086s)
+- **RD 490 (2020-12-08)**, 8 · relator **Adalberto Tokarski** · Pedido de reconsideração da Resolução 7.332-ANTAQ (multa; dosimetria pela receita bruta) e instrução de proposta de denúncia do convênio de delegação → aprovado por unanimidade nos termos do relator (reconsideração não acolhida)
+  - votos: Adalberto: relator; Francisval: revisor_acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=1868s)
+- **RD 490 (2020-12-08)**, 31 · relator **Francisval Mendes** · Pedido de reconsideração contra multa de R$ 175 mil por ocupar área no Porto de Vitória sem instrumento contratual → aprovado por maioria (vencido Adalberto Tokarski)
+  - votos: Francisval: relator; Adalberto: vencido; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=10522s)
+- **RD 490 (2020-12-08)**, 32 · relator **Francisval Mendes** · Pedido de reconsideração contra multa de R$ 1 milhão por permitir exploração de área no porto organizado de Vitória sem instrumento contratual → aprovado por maioria nos termos do relator (Adalberto, ao que indica a legenda, vencido)
+  - votos: Francisval: relator; Adalberto: outro; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=11220s)
+- **RD 490 (2020-12-08)**, 33 · relator **Francisval Mendes** · Requerimento de revisão com pedido cautelar de efeito suspensivo contra multa transitada em julgado (alegada intimação irregular em e-mail funcional) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=11944s)
+- **RD 490 (2020-12-08)**, 43 · relator **Adalberto Tokarski** · Pedido de reconsideração da CDRJ contra a Resolução 7.32x/2019 sobre cláusulas do contrato de arrendamento → aprovado por unanimidade (não conhecido)
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=15182s)
+- **RD 490 (2020-12-08)**, 44 · relator **Adalberto Tokarski** · Pedido de revisão da Resolução 7.373/2019 (uso de trabalhadores avulsos na navegação interior) → aprovado por unanimidade (pedido indeferido)
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=15442s)
+- **RD 490 (2020-12-08)**, 45 · relator **Adalberto Tokarski** · Pedido de reconsideração: cessão provisória de retroescavadeira do porto organizado de Estrela à própria SUPRG → aprovado por unanimidade (deferido)
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=15744s)
+- **RD 490 (2020-12-08)**, 46 · relator **Adalberto Tokarski** · Pedido de reconsideração contra a Resolução 7.691 (registro de instalação / RN 13) → aprovado por unanimidade (negado provimento)
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=15951s)
+- **RD 490 (2020-12-08)**, 47 · relator **Adalberto Tokarski** · Recurso contra multa de R$ 87 mil por explorar economicamente instalação contígua à IP4 São Raimundo (cargas e passageiros) - RN 13 → aprovado por unanimidade (provimento parcial)
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=16172s)
+- **RD 490 (2020-12-08)**, 48 · relator **Adalberto Tokarski** · Recurso administrativo contra multas (RN 5 e Res. 2.919) → vista (Francisval Mendes) após voto do relator
+  - votos: Francisval: vista; Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=16420s)
+- **RD 490 (2020-12-08)**, 54 · relator **Adalberto Tokarski** · Pedido de reconsideração da Resolução 7.607 que indeferiu procedimento conciliatório (São Francisco do Sul-SC) → aprovado por unanimidade (indeferido)
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=6mBZ-voMJQ0&t=18192s)
+- **RD 492 (2020-12-22)**, 4 · relator **Adalberto Tokarski** · Recurso administrativo e pedidos incidentais (multa de R$ 169 mil, comprovação de contrato de afretamento, art. 34, VII, RN 18) → aprovado nos termos do voto-vista de Francisval Mendes
+  - votos: Francisval: revisor_acompanha; Adalberto: revisor_acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=3255s)
+- **RD 492 (2020-12-22)**, 23 (provável) · relator **Francisval Mendes** · Embargos de declaração contra o Acórdão 34/2020 (cautelar da Res. 6650 sobre preço-teto de SSE em Santos), com sustentação oral → aprovado por unanimidade
+  - votos: Francisval: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=4361s)
+- **RD 492 (2020-12-22)**, 16 · relator **Francisval Mendes** · Saneamento processual de processo sancionador → aprovado por unanimidade
+  - votos: Francisval: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=6241s)
+- **RD 492 (2020-12-22)**, 19 · relator **Francisval Mendes** · Pedido de reconsideração contra a Res. 7359 → aprovado por unanimidade
+  - votos: Francisval: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=6472s)
+- **RD 492 (2020-12-22)**, 20 · relator **Francisval Mendes** · Pedido de reconsideração contra o Acórdão 87/2020 → aprovado por unanimidade
+  - votos: Francisval: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=6634s)
+- **RD 492 (2020-12-22)**, 21 · relator **Francisval Mendes** · Pedido de reconsideração da CDRJ contra decisões das 422ª, 441ª e 464ª ROD (Acórdão 26/2020) → aprovado por unanimidade
+  - votos: Francisval: relator; Eduardo: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=6763s)
+- **RD 492 (2020-12-22)**, 49 · relator **Adalberto Tokarski** · Recurso contra despacho da SNPTA que negou reequilíbrio do contrato de arrendamento → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=RVz4eCC2oXc&t=11401s)
+- **RD 494 (2021-02-03)**, 6 · relator **Adalberto Tokarski** · Arbitragem regulatória com pedido de cautelar: remuneração pela ocupação de área do porto organizado de Itaguaí pelo ramal ferroviário de acesso ao Po → pedido de vista (Eduardo Nery); julgamento suspenso
+  - votos: Adalberto: relator; Francisval: revisor_diverge; Eduardo: vista · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=973s)
+- **RD 494 (2021-02-03)**, 21 · relator **Francisval Mendes** · Contribuições cobradas pelo OGMO-Itaqui sobre a movimentação de cobre no berço 105 (valor por tonelada); competência da ANTAQ sobre OGMO; dispensa de  → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=6289s)
+- **RD 494 (2021-02-03)**, 22 · relator **Francisval Mendes** · Embargos de declaração contra o Acórdão 101/2020 (THC: pedido de que a cobrança não conste no conhecimento de embarque/BL por efeitos tributários) → pedido de vista (Adalberto Tokarski); julgamento suspenso
+  - votos: Francisval: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=8867s)
+- **RD 494 (2021-02-03)**, 41 · relator **Adalberto Tokarski** · Pedido de reconsideração contra multa de R$ 222.750 por permitir ocupação de área sem instrumento contratual (Res. 6.630/2018) → aprovado por unanimidade (reconsideração negada)
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=13147s)
+- **RD 494 (2021-02-03)**, 42 · relator **Adalberto Tokarski** · Pedido de reconsideração contra multa por contrato de transição 933/2017 sem autorização prévia da ANTAQ (Res. 7.331/2019) → aprovado por unanimidade (reconsideração negada)
+  - votos: Adalberto: relator; Francisval: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xCx8bCzRQQE&t=13412s)
+- **RD 496 (2021-03-10)**, 2 · relator **Gabriela Costa** · Referendo da Deliberação DG 22/2021 que deu efeito suspensivo ao Acórdão 148/2020 (operação fora da área arrendada) até decisão do mérito do pedido de → aprovado (referendado) por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AGsPXpBsKEQ&t=345s)
+- **RD 498 (2021-04-08)**, 8 · relator **Francisval Mendes** · Embargos de declaração contra o Acórdão 101/2021 (relator original Francisval Mendes, voto já proferido na RD 494; voto-vista de Tokarski) → embargos conhecidos e não providos, por unanimidade dos votantes
+  - votos: Adalberto: revisor_acompanha; Eduardo: acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=2128s)
+- **RD 498 (2021-04-08)**, 10 · relator **Eduardo Nery** · Pedido de reconsideração contra o Acórdão 11/2020 (viabilidade locacional da ampliação em água do TUP Chibatão), com sustentações orais → pedido de reconsideração não provido, por unanimidade
+  - votos: Eduardo: relator; Gabriela: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=2570s)
+- **RD 498 (2021-04-08)**, 41 · relator **Gabriela Costa** · Pedido de reconsideração contra o Acórdão 105 (anuência a contrato de transição entre Codesa e TVV, área 5 do processo seletivo simplificado 1/2020),  → pedido de reconsideração não provido, por unanimidade
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-lREX-kw0so&t=9110s)
+- **RD 500 (2021-05-21)**, 6 · relator **Eduardo Nery** · Pedido de reconsideração contra o Acórdão 113/2021, que indeferiu reequilíbrio econômico-financeiro do contrato de arrendamento (IPTU, investimentos,  → aprovado por unanimidade
+  - votos: Eduardo: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=3428s)
+- **RD 500 (2021-05-21)**, 7 · relator **Eduardo Nery** · Pedido de reconsideração contra resolução que aplicou multa de cerca de R$ 136 mil por repasse de recursos do porto a hospital via convênio irregular → aprovado por unanimidade
+  - votos: Eduardo: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=4350s)
+- **RD 500 (2021-05-21)**, 8 · relator **Eduardo Nery** · Pedido de reconsideração contra o Acórdão 33/2021 → aprovado por unanimidade
+  - votos: Eduardo: relator; Adalberto: acompanha; Gabriela: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=4473s)
+- **RD 500 (2021-05-21)**, 9 · relator **Eduardo Nery** · Recurso contra despacho de julgamento 40/2020 da SFC que aplicou multa (valor incerto na legenda) → aprovado (Gabriela Costa não participou da votação)
+  - votos: Eduardo: relator; Adalberto: acompanha; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=4510s)
+- **RD 500 (2021-05-21)**, 18 · relator **Adalberto Tokarski** · Reconsideração da inabilitação no anúncio público 21/2019 (TUP na Ilha dos Bagres, Santos) por falta de declaração de adequação da SNPTA, sobrestada p → aprovado por maioria nos termos da divergência de Gabriela Costa (inabilitação mantida); r
+  - votos: Adalberto: vencido; Gabriela: outro; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=8760s)
+- **RD 500 (2021-05-21)**, 32 · relator **Adalberto Tokarski** · Reconsideração da medida cautelar (Res. 7.574/2020) que proíbe cobrança antecipada de sobre-estadia de contêiner (demurrage) antes da devolução → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=noRwputqnFA&t=10667s)
+- **RD 504 (2021-07-08)**, 6 · relator **Adalberto Tokarski** · Processos conexos da Santos Brasil (armazenagem adicional / sancionadores) — vista do Diretor-Geral renovada em bloco (itens 6 a 9) → vista renovada
+  - votos: Eduardo: vista; Adalberto: relator; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=1369s)
+- **RD 504 (2021-07-08)**, 7 · relator **Adalberto Tokarski** · Processos conexos da Santos Brasil (armazenagem adicional / sancionadores) — vista do Diretor-Geral renovada em bloco (itens 6 a 9) → vista renovada
+  - votos: Eduardo: vista; Adalberto: relator; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=1369s)
+- **RD 504 (2021-07-08)**, 8 · relator **Gabriela Costa** · Processos conexos da Santos Brasil (armazenagem adicional / sancionadores) — vista do Diretor-Geral renovada em bloco (itens 6 a 9) → vista renovada
+  - votos: Eduardo: vista; Gabriela: relator; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=1369s)
+- **RD 504 (2021-07-08)**, 9 · relator **Gabriela Costa** · Processos conexos da Santos Brasil (armazenagem adicional / sancionadores) — vista do Diretor-Geral renovada em bloco (itens 6 a 9) → vista renovada
+  - votos: Eduardo: vista; Gabriela: relator; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=1369s)
+- **RD 504 (2021-07-08)**, 10 · relator **Adalberto Tokarski** · Pedido de reconsideração — vista do Diretor-Geral renovada → vista renovada
+  - votos: Eduardo: vista; Adalberto: relator; Gabriela: outro · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=1468s)
+- **RD 504 (2021-07-08)**, 28 · relator **Adalberto Tokarski** · Pedidos de reconsideração e recurso contra resposta a consulta (Resolução 7942) → aprovado por unanimidade
+  - votos: Adalberto: relator; Gabriela: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=8575s)
+- **RD 504 (2021-07-08)**, 42 · relator **Gabriela Costa** · Pedido de reconsideração contra a Resolução 7947 (poligonal da área autorizada do TUP) → aprovado por unanimidade — reconsideração negada
+  - votos: Gabriela: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=1YUVyLipnRk&t=11337s)
+- **RD 506 (2021-08-23)**, 9 · relator **Adalberto Tokarski** · Pedido de reconsideração da FENOP contra o acórdão 264/2020 (consulta da CDP sobre cobranças do OGMO a operadores portuários) — voto-vista de Eduardo  → aprovado por unanimidade
+  - votos: Adalberto: revisor_acompanha; Eduardo: revisor_acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=2263s)
+- **RD 506 (2021-08-23)**, 23 · relator **Adalberto Tokarski** · Pedido de reconsideração do acórdão 86/2021, que mandou retirar da tabela de preços a rubrica de seguro ad valorem; sustentação oral da Dra. Amanda Ba → pedido de vista (Flávia Takafashi) após voto do relator
+  - votos: Adalberto: relator; Eduardo: outro; Flávia: vista · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=5922s)
+- **RD 506 (2021-08-23)**, 21 · relator **Adalberto Tokarski** · Pedido de reconsideração do acórdão 162/2020 (descumprimento do contrato de arrendamento 11/2002; crise financeira e pandemia alegadas) → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Adalberto: relator; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=7750s)
+- **RD 506 (2021-08-23)**, 22 · relator **Adalberto Tokarski** · Pedido de reconsideração da Resolução 8009-ANTAQ (multa por explorar instalação de apoio ao transporte aquaviário sem registro) → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Adalberto: relator; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=8031s)
+- **RD 506 (2021-08-23)**, 24 · relator **Adalberto Tokarski** · Pedido de reconsideração da Resolução 7526-ANTAQ (penalidade aplicada pela diretoria) → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Adalberto: relator; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=8305s)
+- **RD 506 (2021-08-23)**, 34 · relator **Flávia Takafashi** · Recurso contra indeferimento (SNPTA) de reequilíbrio do contrato de arrendamento 12/93 por cobrança de IPTU após nova tese do STF; sustentação oral do → aprovado por unanimidade
+  - votos: Eduardo: acompanha; Adalberto: acompanha; Flávia: relator · [vídeo](https://www.youtube.com/watch?v=sMb80ag1j8Q&t=10172s)
+- **RD 508 (2021-09-09)**, 7 · relator **Adalberto Tokarski** · Pedido de reconsideração do acórdão 86/2021 que mandou retirar a rubrica seguro ad valorem da tabela de preços do terminal — retomada após vista de Fl → aprovado nos termos do voto-vista da revisora (Flávia Takafashi), por unanimidade
+  - votos: Flávia: revisor_acompanha; Adalberto: revisor_acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=2435s)
+- **RD 508 (2021-09-09)**, 14 · relator **Eduardo Nery** · Recurso administrativo contra auto de infração da Unidade Regional de Recife → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=4896s)
+- **RD 508 (2021-09-09)**, 18 · relator **Adalberto Tokarski** · Embargos de declaração contra o acórdão 104/2020 (suposta cobrança abusiva por segregação e entrega de contêineres - SSE, representação da Pátio/Centr → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=5760s)
+- **RD 508 (2021-09-09)**, 39 · relator **Flávia Takafashi** · Recurso contra negativa de acesso ao processo de revisão tarifária do Porto de São Francisco do Sul (acórdão 128/2020) → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=11979s)
+- **RD 508 (2021-09-09)**, 37 · relator **Flávia Takafashi** · Pedido de reconsideração da deliberação 132/2021 que deferiu cautelar ao Grupo ASA para receber veículos em pátio próprio sem passar pelos pátios de t → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jssJFiTikEo&t=14536s)
+- **RD 510 (2021-10-11)**, 38 · relator **Flávia Takafashi** · Pedido de reconsideração do acórdão que inabilitou a empresa no anúncio público 21/2019 por falta da declaração de adequação da SNPTA; pede sobrestame → aprovado por unanimidade: provimento para sobrestar a decisão de habilitação até manifesta
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=808s)
+- **RD 510 (2021-10-11)**, 39 · relator **Flávia Takafashi** · Pedido de reconsideração contra a Resolução 7.608 e o acórdão 148/2020 que vedavam operação em área pública não arrendada e movimentação de carga gera → aprovado por unanimidade: provimento; reformada a Resolução 7.608 e revogado o acórdão 148
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=1569s)
+- **RD 510 (2021-10-11)**, 11 · relator **Eduardo Nery** · Pedido de reconsideração do acórdão 325/2021 que indeferiu reequilíbrio econômico-financeiro (investimentos de 2012, novos investimentos, incorporação → pedido de vista de Adalberto Tokarski; julgamento suspenso
+  - votos: Eduardo: relator; Flávia: revisor_acompanha; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=6963s)
+- **RD 510 (2021-10-11)**, 30 · relator **Adalberto Tokarski** · Pedido de revisão da aplicação da RN 28 (substituída pela RN 49/2021) → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=11865s)
+- **RD 510 (2021-10-11)**, 34 · relator **Adalberto Tokarski** · Pedido de reconsideração sobre enquadramento de TUPs na Tabela 1 (infraestrutura de acesso aquaviário) do porto de Vila do Conde → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=12407s)
+- **RD 510 (2021-10-11)**, 40 · relator **Flávia Takafashi** · Pedido de reconsideração do acórdão 315/2021 que autorizou contrato de transição para granel sólido no Saboó, porto de Santos → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=13434s)
+- **RD 510 (2021-10-11)**, 41 · relator **Flávia Takafashi** · Pedido de reconsideração do acórdão 49/2020 (convalidação/ratificação dos atos da outorga do TUP em Pontal do Paraná) → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=14120s)
+- **RD 510 (2021-10-11)**, 42 · relator **Flávia Takafashi** · Pedido de reconsideração do acórdão 189/2020 que negou cautelar para acesso a contratos de armazéns → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=-A4F9fPyrf8&t=14619s)
+- **RD 511 (2021-11-11)**, 25 · relator **Adalberto Tokarski** · Pedido de reconsideração contra o Acórdão 229/2021, que indeferiu registro de instalação flutuante para movimentação de sal (polo salineiro do Rio Gra → aprovado por unanimidade: pedido de reconsideração conhecido e não provido
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=330s)
+- **RD 511 (2021-11-11)**, 46 · relator **Flávia Takafashi** · Recurso contra multa de R$ 137.500 (art. 32, XXXIV, Res. 3.274/2014): abertura de vala com maquinário escoando água contaminada com carvão em direção  → aprovado por unanimidade: recurso conhecido e não provido
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=1940s)
+- **RD 511 (2021-11-11)**, 6 · relator **Adalberto Tokarski** · Recurso contra multa de R$ 59.500 (art. 28, III, RN 18/2017) por cláusulas contratuais de sobre-estadia (demurrage/detention) em desacordo com o art.  → aprovado por maioria nos termos do voto-vista de Flávia Takafashi (provimento parcial: TAC
+  - votos: Adalberto: vencido; Flávia: revisor_acompanha; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=3987s)
+- **RD 511 (2021-11-11)**, 8 · relator **Eduardo Nery** · Pedido de reconsideração do Acórdão 325/2021, que indeferiu reequilíbrio econômico-financeiro do contrato de arrendamento (PE045/2001, Suape); vistas  → aprovado por maioria nos termos do voto da revisora Flávia Takafashi (provimento parcial: 
+  - votos: Eduardo: vencido; Flávia: revisor_acompanha; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=5852s)
+- **RD 511 (2021-11-11)**, 24 · relator **Adalberto Tokarski** · Pedido de reconsideração do Acórdão 72/2021 (fornecedores de provisões a bordo e serviços de agências marítimas; competência da ANTAQ/RN 18) → aprovado por unanimidade: conhecido e não provido
+  - votos: Adalberto: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uoz8SqcS00o&t=8278s)
+- **RD 513 (2021-11-26)**, 15 · relator **Eduardo Nery** · Recurso contra multa de R$ 52.500 por explorar instalação de apoio sem registro prévio na ANTAQ → aprovado por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=3715s)
+- **RD 513 (2021-11-26)**, 19 · relator **Eduardo Nery** · Pedido de reconsideração contra acórdão que indeferiu cautelar para manter regras de atracação preferencial de navios compatíveis com aparelhamento es → aprovado por unanimidade (negado provimento)
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=4394s)
+- **RD 513 (2021-11-26)**, 25 · relator **Adalberto Tokarski** · Pedido de reconsideração → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=5564s)
+- **RD 513 (2021-11-26)**, 29 · relator **Flávia Takafashi** · Pedido de reconsideração contra o acórdão 299/2020 que negou sobrestamento de sancionadores (art. 34, VII, RN 18 - documentos de afretamento) → aprovado por unanimidade (negado provimento)
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=Dmji8LvYcN8&t=5951s)
+- **RD 514 (2021-12-10)**, 40 · relator **Flávia Takafashi** · Pedido de reconsideração das operadoras dos pátios de triagem contra cautelar que permitiu às empresas do Grupo Asa receber seus caminhões em pátios p → aprovado por unanimidade
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=8556s)
+- **RD 514 (2021-12-10)**, 11 · relator **Eduardo Nery** · Pedido de reconsideração contra o acórdão 240/2020 (multa e recomendação de cassação da outorga por terceirização da operação a terceiro, Combitrans A → aprovado por unanimidade (provimento parcial)
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=14720s)
+- **RD 514 (2021-12-10)**, 12 · relator **Eduardo Nery** · Pedido de reconsideração contra o acórdão 322/2021 (rubrica seguro ad valorem obrigatória deve ser excluída ou tornada cobertura adicional e opcional) → aprovado por unanimidade (recurso negado)
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=15590s)
+- **RD 514 (2021-12-10)**, 19 · relator **Adalberto Tokarski** · Recurso administrativo contra o acórdão 214/2021 (EVTEA com VPL positivo, sem indenização à arrendatária) → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=17289s)
+- **RD 514 (2021-12-10)**, 27 · relator **Adalberto Tokarski** · Pedidos de reconsideração contra o acórdão 257/2020 (custeio do OGMO por operadores portuários pré-qualificados) → aprovado por unanimidade
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=DgQHtLVz2To&t=18397s)
+- **RD 516 (2022-02-04)**, 13 · relator **Adalberto Tokarski** · Embargos de declaração da CDP contra o Acórdão 64/2021 (alegado tratamento discriminatório) e pedido de acesso da Hidrovias do Brasil a processos → aprovado por unanimidade nos termos do voto do relator (após vista de Eduardo Nery)
+  - votos: Adalberto: relator; Eduardo: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=9512s)
+- **RD 516 (2022-02-04)**, 24 · relator **Eduardo Nery** · Recurso contra decisão da SFC que aplicou advertência (não comprovar operação comercial) e ofereceu TAC (não manter embarcação em operação) a empresa  → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=13472s)
+- **RD 516 (2022-02-04)**, 25 · relator **Eduardo Nery** · Recurso contra decisão da SNPTA que indeferiu reequilíbrio do contrato de arrendamento 16/98, devolvido após manifestação da Conjur do Minfra → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=13710s)
+- **RD 516 (2022-02-04)**, 30 · relator **Eduardo Nery** · Recursos contra o Acórdão 191/2021, que recomendou alterar normativos do Porto de Suape para permitir uso de pátios privativos em substituição aos cre → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; Flávia: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=15212s)
+- **RD 516 (2022-02-04)**, 49 · relator **Flávia Takafashi** · Recurso contra o Acórdão 426/2021 (reequilíbrio do contrato de arrendamento 12/93 por cobrança de IPTU) → aprovado por unanimidade nos termos do voto da relatora
+  - votos: Flávia: relator; Adalberto: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=T0DqJUjcuAY&t=21302s)
+- **RD 518 (2022-03-23)**, 5 · relator **Eduardo Nery** · Recurso em segunda instância contra negativa de acesso a informação (planejamento estratégico da SPA classificado como sigiloso) — referendo da Delibe → aprovado por unanimidade (referendo)
+  - votos: Eduardo: relator; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=4438s)
+- **RD 518 (2022-03-23)**, 38 · relator **Flávia Takafashi** · Pedido de desistência de recurso contra inabilitação no Anúncio Público 8/2021 (falta de declaração de adequação da SNPTA) → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=jopRaDFWJ7I&t=12811s)
+- **RD 520 (2022-05-13)**, 2 · relator **Flávia Takafashi** · Pedidos de reconsideração do OGMO-RJ e da FENOP contra o Acórdão 190/2020 (terminais de passageiros pré-qualificados não são obrigados a se filiar/pag → aprovado por unanimidade: conhecido e negado provimento ao pedido do OGMO-RJ (mantido o Ac
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=1419s)
+- **RD 520 (2022-05-13)**, 3 · relator **Flávia Takafashi** · Pedido de reconsideração contra o Acórdão 550/2021 (tabela de serviços e preços máximos): taxa administrativa DTA, seguro de carga LCL e levante de co → aprovado por unanimidade: provimento parcial
+  - votos: Flávia: relator; Eduardo: acompanha; José: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=5226s)
+- **RD 520 (2022-05-13)**, 14 · relator **Adalberto Tokarski** · Exigência apenas de DU-E de 2019 como critério de desempate no credenciamento para uso do terminal graneleiro de São Francisco do Sul (atendimento ao  → aprovado: declarada a exigência ofensiva à generalidade e isonomia (barreira a novos entra
+  - votos: Eduardo: revisor_acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=9461s)
+- **RD 520 (2022-05-13)**, 15 · relator **Adalberto Tokarski** · Recurso contra decisão de julgamento 57/2019 da SFC: multa de R$ 88.200 e devolução de valores cobrados indevidamente (repassados por agências marítim → aprovado o voto-vista: recurso conhecido; suspensa a determinação de devolução às agências
+  - votos: Eduardo: revisor_diverge; Flávia: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=9660s)
+- **RD 520 (2022-05-13)**, 33 · relator **Flávia Takafashi** · Recurso contra a Deliberação DG 334/2021 que retificou a autorização da ACL Canto Navegação (linha Alenquer–Manaus), com pedido de tutela; alegado rod → aprovado por unanimidade: recurso conhecido e não provido; tutela indeferida; denúncias an
+  - votos: Flávia: relator; José: acompanha; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=14913s)
+- **RD 520 (2022-05-13)**, 37 · relator **Flávia Takafashi** · Pedido de revisão contra acórdão sancionador que aplicou penalidade e propôs ao poder concedente a cassação da outorga do terminal portuário Zamin Ama → aprovado por unanimidade: perda superveniente de objeto (transferência de controle deferid
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=16917s)
+- **RD 520 (2022-05-13)**, 48 · relator **José Renato Fialho** · Pedido de revisão: extinção do TAC 4/2016 por devolução da área no porto do Rio Grande → aprovado (arquivamento sem penalidade por perda de objeto); coleta dos votos dos demais tr
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=ADgAtlRgYpE&t=20460s)
+- **RD 522 (2022-05-26)**, 18 · relator **Eduardo Nery** · Embargos de declaração contra o Acórdão 181/2022 (processos sancionadores contra terminais em Itajaí: Barra do Rio, Poly Terminais, Teporti) → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=11407s)
+- **RD 522 (2022-05-26)**, 38 · relator **Eduardo Nery** · Petição contra o Acórdão 231/2022 (cautelar que mandou liberar e remeter carga ao Porto de Itajaí), recebida como embargos de declaração → aprovado por unanimidade nos termos do voto do relator
+  - votos: Eduardo: relator; José: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=12031s)
+- **RD 522 (2022-05-26)**, 26 · relator **Flávia Takafashi** · Pedido de reconsideração contra os Acórdãos 253/2021 e 23/2022 (envio de estudos sobre cobrança de escaneamento de contêineres ao MPF e fiscalização e → aprovado por unanimidade: provimento parcial
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=14225s)
+- **RD 522 (2022-05-26)**, 27 · relator **Flávia Takafashi** · Pedido de reconsideração do Acórdão 56/2022 sobre instalação de posto do Corpo de Bombeiros no Porto de Cabedelo → aprovado por unanimidade nos termos do voto do relator
+  - votos: Flávia: relator; José: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=JCVnUIklqbY&t=14644s)
+- **RD 526 (2022-08-11)**, 2 · relator **José Renato Fialho** · Pedido de reconsideração contra o Acórdão 161/2020 (multas de ~R$ 198 mil por ampliar o terminal sem autorização e ~R$ 332 mil por ocupar área contígu → aprovado por unanimidade (conhecer e negar provimento)
+  - votos: José: relator; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=2J5AWByVtpM&t=1715s)
+- **RD 530 (2022-09-29)**, sustentação 1 (pauta) · relator **Flávia Takafashi** · Pedido da Codesa de dilação de 18 meses do prazo para cumprir o Acórdão 399/2022 (oferecer alternativa logística ao TPS para embarque de cargas pelo d → aprovado por unanimidade: provimento parcial, prazo adicional de 45 dias (e não 18 meses)
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=231s)
+- **RD 530 (2022-09-29)**, 6 (referendo) · relator **Alexandre Lopes** · Referendo da Deliberação DG 123/2022 (recurso de reconsideração): indeferimento de cautelar para liberar contêiner retido por sobrestadia e apuração u → aprovado (referendada a Deliberação DG 123/2022)
+  - votos: Alexandre: relator; Flávia: acompanha; Eduardo: outro · [vídeo](https://www.youtube.com/watch?v=xFRSBDaa9vs&t=4751s)
+- **RD 532 (2022-11-10)**, 27 · relator **Flávia Takafashi** · Medida cautelar e embargos de declaração: cobrança de juros e multa sobre valores retroativos da tabela 6 (acórdão 421/2021) – Vitória/Barra do Riacho → aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=10653s)
+- **RD 532 (2022-11-10)**, 38 · relator **Flávia Takafashi** · Embargos de declaração contra o acórdão 533/2022 (desconto tarifário em favor da Hidrovias do Brasil) → aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Alexandre: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=uCOcCqNUZ-g&t=13763s)
+- **RD 537 (2023-02-09)**, 21 · relator **Lima Filho** · Pedido de reconsideração do Sinter contra a Resolução 7661 (indeferimento de cautelar e improcedência de denúncia sobre cobrança abusiva de SSE/THC2 e → aprovado por unanimidade nos termos do voto do relator
+  - votos: Lima: relator; Caio: acompanha; Alber: outro; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=1880s)
+- **RD 537 (2023-02-09)**, 27 · relator **Lima Filho** · Embargos de declaração contra o Acórdão 437/2022 (manteve multa de R$ 122.500 por gestão do TUP por terceiros, descumprindo cláusulas 3ª e 10ª do cont → aprovado por unanimidade nos termos do voto do relator
+  - votos: Lima: relator; Caio: acompanha; Alber: acompanha; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=12401s)
+- **RD 537 (2023-02-09)**, 30 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o Acórdão 630/2022, que deferiu o registro da IP4 do DNIT em Guajará-Mirim → aprovado por unanimidade nos termos do voto do relator
+  - votos: Alber: relator; Caio: acompanha; Lima: acompanha; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=14795s)
+- **RD 537 (2023-02-09)**, 37 · relator **Lima Filho** · Efeito suspensivo a recurso de reconsideração contra o item 5.2.2 do Acórdão 587/2022 (cobrança pela Codesa da NFS 21663, cerca de R$ 1,44 milhão de t → efeito suspensivo negado por maioria (4 x 1), nos termos do voto divergente de Caio Farias
+  - votos: Lima: vencido; Caio: outro; Alber: acompanha; Flávia: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=AXDT7nURPGY&t=16734s)
+- **RD 539 (2023-04-04)**, 2 · relator **Caio Farias** · Referendo da Deliberação DG 11/2023: recurso em 2ª instância em pedido de acesso à informação sobre agendas de autoridades da ANTAQ de 2019 a 2022; pr → referendado por unanimidade
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=2-2UVQD1d1M&t=1009s)
+- **RD 541 (2023-04-20)**, 1 · relator **Eduardo Nery** · Recurso de reconsideração da CDRJ contra o Acórdão 26/2020, que vedou a cobrança cumulativa de tarifa portuária (Tabela 3, item 2.9) e do adicional de → aprovado (provimento parcial ao recurso da CDRJ; revogado o item 2 do Acórdão 26/2020 – en
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=69s)
+- **RD 541 (2023-04-20)**, 2 · relator **Lima Filho** · Recurso de reconsideração da Marimex contra o item 1 do Acórdão 472/2021 (indeferiu cautelar contra cobrança antecipada/à vista do SSE com identificaç → aprovado: recurso inadmitido por intempestividade; declarado que operadores e instalações 
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=4234s)
+- **RD 541 (2023-04-20)**, 7 · relator **Eduardo Nery** · Embargos de declaração contra o Acórdão 553/2022; retorno de vista de Flávia Takafashi (RD 540) → vista renovada (Flávia Takafashi); retorna na próxima reunião presencial
+  - votos: Eduardo: relator; Flávia: outro; Lima: outro; Alber: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=6163s)
+- **RD 541 (2023-04-20)**, 25 · relator **Caio Farias** · Recurso de reconsideração da SPI contra o Acórdão 3/2023 (referendo da Deliberação DG 167/2022, que indeferiu contrato de transição com a Cetil para a → aprovado: recurso extinto sem julgamento do mérito (desistência e revogação do processo se
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=13458s)
+- **RD 541 (2023-04-20)**, 26 · relator **Caio Farias** · Recurso de reconsideração da Cetil contra decisão que indeferiu contrato de transição para a área B do Porto de Itajaí → aprovado: recurso extinto por perda de objeto (revogação do certame; desistência protocola
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=EDNEuXK4F3I&t=13892s)
+- **RD 543 (2023-05-24)**, 3 · relator **Flávia Takafashi** · Pedido de revisão contra multa de R$ 18.301,25 (art. 33, XIII, Res. 3.274/2014) por ausência de presença ostensiva da Guarda Portuária no porto de Nit → aprovado (voto da relatora com determinação proposta pelo revisor incorporada)
+  - votos: Flávia: revisor_acompanha; Eduardo: revisor_acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=4278s)
+- **RD 543 (2023-05-24)**, 10 · relator **Eduardo Nery** · Embargos de declaração contra o Acórdão 553/2022 (análise de contribuições da Audiência Pública 6/2022 do arrendamento STS10), sobre cláusula de limit → aprovado por unanimidade (embargos conhecidos e análise sobrestada)
+  - votos: Eduardo: revisor_acompanha; Flávia: revisor_acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=NiJuWJGgKOI&t=7171s)
+- **RD 545 (2023-06-23)**, 27 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 407/2022, que indeferiu reequilíbrio econômico-financeiro do contrato de arrendamento 26/96 (investimentos  → pedido de vista (Caio Farias); julgamento suspenso
+  - votos: Caio: vista; Lima: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=1385s)
+- **RD 545 (2023-06-23)**, 25 · relator **Lima Filho** · Recurso contra multa de R$ 179.685 por afretar a embarcação estrangeira MV Orestes na cabotagem sem prévia autorização (pedido de extensão intempestiv → aprovado por unanimidade (provimento parcial)
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=16696s)
+- **RD 545 (2023-06-23)**, 33 · relator **Alber Vasconcelos** · Processo sancionador: auto de infração 005198-5 por operar estação de transbordo de cargas sem termo de liberação de operação (TLO) → aprovado por unanimidade (auto insubsistente)
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=18059s)
+- **RD 545 (2023-06-23)**, 38 · relator **Caio Farias** · Recurso de reconsideração contra o Acórdão 553/2022 (análise das contribuições da audiência pública 6/2022 da licitação do STS10 - contêineres), pedin → aprovado por unanimidade (recurso não conhecido)
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=zGibEhIW3gQ&t=19537s)
+- **RD 547 (2023-08-07)**, 6 · relator **Caio Farias** · Referendo da Deliberação DG 49/2023: recurso de 2ª instância em pedido de informação sobre cessão/requisição de servidores da ANTAQ, conhecido e não p → referendado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=2618s)
+- **RD 547 (2023-08-07)**, 14 · relator **Eduardo Nery** · Pedido de reconsideração contra o Acórdão 733/2021 (multa por usar tábuas para aumentar caçambas de caminhões de granel sólido vegetal, contra condici → conhecido e não provido, por unanimidade
+  - votos: Eduardo: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=3962s)
+- **RD 547 (2023-08-07)**, 39 · relator **Eduardo Nery** · Embargos de declaração contra o Acórdão 183/2023 (cobranças da tabela 3 sobre passageiros de cruzeiro atracados em cais público do porto do Rio de Jan → embargos conhecidos e rejeitados por unanimidade, com esclarecimentos
+  - votos: Eduardo: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=5654s)
+- **RD 547 (2023-08-07)**, 18 · relator **Lima Filho** · Recurso contra multa (falta de licença ambiental de operação e de plano de emergência individual) já punida em outro auto transitado em julgado → recurso provido por unanimidade (auto insubsistente)
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=6245s)
+- **RD 547 (2023-08-07)**, 23 · relator **Lima Filho** · Recurso contra indeferimento de acesso aos autos do processo de aumento tarifário do porto de Itaguaí → recurso não conhecido, por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=6461s)
+- **RD 547 (2023-08-07)**, 24 · relator **Lima Filho** · Recurso contra indeferimento de acesso a dois processos com restrição (Acórdão 41/2022) → recurso provido em parte, por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=6600s)
+- **RD 547 (2023-08-07)**, 25 · relator **Lima Filho** · Recurso contra multa por lonas de proteção irregulares na descarga de pelotas de minério e gesso (queda de carga no mar) → recurso não provido e multa majorada, por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=6794s)
+- **RD 547 (2023-08-07)**, 28 · relator **Lima Filho** · Recurso contra o Acórdão 535/2022 (contrato de passagem para regularizar área de cerca de 896 m²) → recurso não provido, por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=FlMPfnuBUVI&t=7168s)
+- **RD 549 (2023-08-31)**, 2 · relator **Alber Vasconcelos** · Recurso contra a Deliberação SFC 11/2023 (auto de infração 3677/2019) por operar movimentação de bagagens/passageiros sem pré-qualificação como operad → aprovado por unanimidade (recurso conhecido e não provido)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=4635s)
+- **RD 549 (2023-08-31)**, 13 · relator **Lima Filho** · Retomada após vista de Caio Farias: recurso de reconsideração contra o Acórdão 407/2022 (reequilíbrio econômico-financeiro do contrato de arrendamento → aprovado por unanimidade (provimento parcial)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=8227s)
+- **RD 549 (2023-08-31)**, 21 · relator **Flávia Takafashi** · Pedido de revisão da padronização tarifária do Porto Organizado de Porto Velho (alta média de 40%) → aprovado por unanimidade (petição não admitida; decisão mantida de ofício)
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=5Bo36L6rZKY&t=11550s)
+- **RD 551 (2023-10-04)**, 1 · relator **Alber Vasconcelos** · Recurso hierárquico contra a Deliberação SFC 67/2023 que manteve auto de infração (multa de R$ 49.500) por cobrança irregular de «gerenciamento de ris → aprovado por unanimidade (recurso conhecido e não provido)
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=1387s)
+- **RD 551 (2023-10-04)**, 6 · relator **Flávia Takafashi** · Pedido de reconsideração do Acórdão 98/2023 (reajuste de preços de travessia limitado ao IGP-M acumulado de 67,78%): correção de erro material no preç → aprovado por unanimidade (recurso provido para corrigir a tabela)
+  - votos: Flávia: relator; Alber: acompanha; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=7903s)
+- **RD 551 (2023-10-04)**, 11 · relator **Lima Filho** · Pedido de reconsideração contra multa total de R$ 220.000 (Acórdão 134/2022): não envio de documentos à ANTAQ e transferência de recursos ao Estado do → aprovado por unanimidade (reconsideração negada)
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=9843s)
+- **RD 551 (2023-10-04)**, 14 · relator **Lima Filho** · Pedido de reconsideração contra a Deliberação DG 107/2022 (referendada pelo Acórdão 438) sobre tarifa de uso da infraestrutura terrestre (estrada part → aprovado por unanimidade (reconsideração negada)
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=11216s)
+- **RD 551 (2023-10-04)**, 21 · relator **Caio Farias** · Recurso de reconsideração contra o Acórdão 604/2022 (legenda também diz 64/2022), que manteve embarcações especiais de engenharia offshore no conceito → aprovado por unanimidade (reconsideração negada)
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=wXepahVf81I&t=12941s)
+- **RD 554 (2023-10-26)**, 13 · relator **Eduardo Nery** · Recurso contra a deliberação PAS 10/2020 da Superintendência de Fiscalização: multa de R$ 350 mil por dois transportes irregulares de contêineres entr → aprovado — recurso parcialmente provido; multa substituída por advertência
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=10681s)
+- **RD 554 (2023-10-26)**, 15 · relator **Eduardo Nery** · Recurso (conhecido como revisão) contra decisão que manteve multa ao Estado do Amazonas por descumprir a cláusula 3.3 do convênio de delegação (consti → aprovado — recurso não provido
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=11178s)
+- **RD 554 (2023-10-26)**, 32 · relator **Lima Filho** · Recurso de reconsideração da Brasbunker contra o acórdão ANTAQ 522/2022 (enquadramento da instalação de apoio da Codep como registro pela RN 13/2016 e → aprovado — recurso conhecido e não provido; fiscalizações anuais da Codep por 3 anos
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=14289s)
+- **RD 554 (2023-10-26)**, 34 · relator **Caio Farias** · Recurso de reconsideração contra o acórdão ANTAQ 224/2023: classificação como navegação interior (e não cabotagem) do transporte de minério entre o TU → aprovado — recurso não provido
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=iQKOryncpB4&t=15069s)
+- **RD 555 (2023-11-16)**, 1 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o Acórdão 205/2023, que indeferiu cautelar para suspender/anular a licitação do arrendamento PAR 50 (granéis líquidos → recurso conhecido e não provido, por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=198s)
+- **RD 555 (2023-11-16)**, 5 · relator **Caio Farias** · Referendo da Deliberação DG 92/2023: efeito suspensivo ao recurso de reconsideração contra o Acórdão 466/2023 (metodologia de reajuste contratual e co → aprovado por unanimidade
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=2877s)
+- **RD 555 (2023-11-16)**, 10 · relator **Eduardo Nery** · Recurso de reconsideração da CDRJ contra o Acórdão 27/2022 (auto de infração 4423, multa de R$ 175 mil) por permitir exploração de área pela Angra Die → recurso conhecido e não provido, por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=3965s)
+- **RD 555 (2023-11-16)**, 16 · relator **Eduardo Nery** · Recurso hierárquico contra multa de R$ 350 mil da SFC por cabotagem por empresa estrangeira (2 contêineres sem CT-e em trechos Salvador–Itapoá e Rio G → recurso parcialmente provido (multa convertida em advertência), por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=4333s)
+- **RD 555 (2023-11-16)**, 19 · relator **Eduardo Nery** · Recurso contra a Deliberação 50/2021-SFC: multa de R$ 246.560 por negar documentos à ANTAQ, não ter alvará do Corpo de Bombeiros e permitir apoio port → recurso conhecido e não provido, por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=4840s)
+- **RD 555 (2023-11-16)**, 21 · relator **Eduardo Nery** · Recurso hierárquico contra a Deliberação 51/2021-SFC: multa por exigir de importadores manifesto de produtos perigosos em língua portuguesa (art. 28,  → recurso conhecido e não provido, por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=5131s)
+- **RD 555 (2023-11-16)**, 38 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o Acórdão 81/2023, que considerou intempestivo (3 dias de atraso sobre 360) o laudo de passivos ambientais não conhec → recurso conhecido e não provido, por unanimidade (relator diverge da SDS e acompanha a PF)
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=oYALZcX4LFY&t=9339s)
+- **RD 557 (2023-12-14)**, 22 · relator **Lima Filho** · Recursos de reconsideração (julgados em bloco, com sustentações orais) contra os acórdãos 774, 775, 776 e 777/2021, que revogaram a cautelar e reconhe → aprovado (voto em bloco do relator; proposta ajustada para incluir o tema dos pátios de tr
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=2154s)
+- **RD 557 (2023-12-14)**, 23 · relator **Lima Filho** · Recursos de reconsideração (julgados em bloco, com sustentações orais) contra os acórdãos 774, 775, 776 e 777/2021, que revogaram a cautelar e reconhe → aprovado (voto em bloco do relator; proposta ajustada para incluir o tema dos pátios de tr
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=2154s)
+- **RD 557 (2023-12-14)**, 24 · relator **Lima Filho** · Recursos de reconsideração (julgados em bloco, com sustentações orais) contra os acórdãos 774, 775, 776 e 777/2021, que revogaram a cautelar e reconhe → aprovado (voto em bloco do relator; proposta ajustada para incluir o tema dos pátios de tr
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=2154s)
+- **RD 557 (2023-12-14)**, 25 · relator **Lima Filho** · Recursos de reconsideração (julgados em bloco, com sustentações orais) contra os acórdãos 774, 775, 776 e 777/2021, que revogaram a cautelar e reconhe → aprovado (voto em bloco do relator; proposta ajustada para incluir o tema dos pátios de tr
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=2154s)
+- **RD 557 (2023-12-14)**, 9 · relator **Eduardo Nery** · Pedido de suspensão da exigibilidade de multa e juros moratórios sobre a 1ª e 2ª parcelas da outorga do arrendamento STM04, alegando impactos da pande → aprovado por unanimidade - pedido indeferido
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=10285s)
+- **RD 557 (2023-12-14)**, 15 · relator **Flávia Takafashi** · Pedido de anulação dos acórdãos 178/2023 (transferência de controle da Atlântico Sul para a APM Terminals) e 426/2023 (ampliação de área e inclusão de → aprovado por unanimidade - pedido não conhecido; Eduardo Nery registra ressalva de fundame
+  - votos: Flávia: relator; Eduardo: acompanha; Alber: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=11541s)
+- **RD 557 (2023-12-14)**, 16 · relator **Flávia Takafashi** · Recurso de reconsideração contra o acórdão 426/2023 (aditamento do contrato de adesão 37/2014 da Atlântico Sul: ampliação de área e perfil de carga) → aprovado por unanimidade - recurso não conhecido
+  - votos: Flávia: relator; Eduardo: acompanha; Alber: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=11541s)
+- **RD 557 (2023-12-14)**, 19 · relator **Flávia Takafashi** · Recurso de reconsideração contra o acórdão 541/2023, que deferiu à Norcoast Logística autorização para operar na navegação de cabotagem (julgados em b → aprovado por unanimidade - recurso não conhecido
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=13475s)
+- **RD 557 (2023-12-14)**, 20 · relator **Flávia Takafashi** · Recurso de reconsideração contra o acórdão 541/2023, que deferiu à Norcoast Logística autorização para operar na navegação de cabotagem (julgados em b → aprovado por unanimidade - recurso não conhecido
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=13475s)
+- **RD 557 (2023-12-14)**, 29 · relator **Lima Filho** · Recurso de revisão contra os acórdãos 421/2022 e 196/2022 (revisão tarifária com efeitos retroativos) → aprovado por unanimidade - recurso não conhecido
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=14293s)
+- **RD 557 (2023-12-14)**, 31 · relator **Lima Filho** · Embargos de declaração contra erro material no art. 2º da deliberação DG 94/2023 (cautelar sobre 21 contêineres): suspensão da cobrança de demurrage d → aprovado por unanimidade - embargos conhecidos e providos
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=14592s)
+- **RD 557 (2023-12-14)**, 34 · relator **Lima Filho** · Recurso de reconsideração da APS contra o acórdão 778/2021, que reconheceu o direito da Petrobras ao uso de duto de GLP (6 polegadas) no porto de Sant → pedido de vista de Flávia Takafashi após o voto do relator
+  - votos: Lima: relator; Flávia: vista · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=14782s)
+- **RD 557 (2023-12-14)**, 38 · relator **Caio Farias** · Recurso hierárquico contra a deliberação 30/2022-SFC (multa de R$ 31.500 por patrimônio líquido negativo - condições econômico-financeiras, RN 5 e RN  → aprovado por unanimidade - recurso provido, multa afastada
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=LML6Jr91Lg8&t=18098s)
+- **RD 558 (2024-02-26)**, 45 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 524/2022, que declarou obrigação da arrendatária de indenizar a União pela desincorporação dos tanques 103  → aprovado por unanimidade (provimento ao recurso)
+  - votos: Lima: relator; Alber: acompanha; Eduardo: acompanha; Flávia: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=572s)
+- **RD 558 (2024-02-26)**, 3 · relator **Flávia Takafashi** · Referendo da Deliberação DG 116/2023: não conhecimento de novo pedido de reconsideração da MMS contra o Acórdão 662/2023 (processo seletivo simplifica → aprovado por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=3417s)
+- **RD 558 (2024-02-26)**, 16 · relator **Lima Filho** · Recurso de reconsideração sobre domínio de área usada pela Petrobras para dutos de GLP no Porto de Santos: provimento parcial, regularização por contr → aprovado por unanimidade
+  - votos: Lima: relator; Flávia: revisor_acompanha; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=9449s)
+- **RD 558 (2024-02-26)**, 42 · relator **Lima Filho** · Recurso de reconsideração contra o item 5.2.2 do Acórdão 406/2023 (consulta): possibilidade de antecipação de receitas de quaisquer tabelas tarifárias → não concluído: pedido de vista do Diretor-Geral Eduardo Nery na fase de votação
+  - votos: Lima: relator; Caio: outro; Alber: outro; Flávia: acompanha; Eduardo: vista · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=17370s)
+- **RD 558 (2024-02-26)**, 48 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o Acórdão 188/2023, que negou reequilíbrio do contrato de arrendamento 31/2001 por investimentos no Terminal Marítimo → aprovado por unanimidade (recurso negado)
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dpG29DUZuEU&t=20049s)
+- **RD 560 (2024-03-25)**, 2 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 479/2023 (multa e cautelar por cobrança de taxa de gerenciamento de riscos/ISPS Code nas cargas de longo cu → não conhecido, por unanimidade
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=3656s)
+- **RD 560 (2024-03-25)**, 5 · relator **Alber Vasconcelos** · Referendo da Deliberação DG 15/2024 que indeferiu recurso de reconsideração (com efeito suspensivo) contra o Acórdão 706/2023 → referendado por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=4977s)
+- **RD 560 (2024-03-25)**, 13 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 406/2023: antecipação de receitas tarifárias para reforço do berço 101 (cais público, ~R$ 32 milhões) e imp → provido por maioria (4x1), nos termos do voto do relator; Caio Farias vencido
+  - votos: Lima: relator; Caio: vencido; Eduardo: revisor_acompanha; Alber: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=8361s)
+- **RD 560 (2024-03-25)**, 14 · relator **Lima Filho** · Embargos de declaração do Cecafé contra o Acórdão 450/2023 (cobrança de Inconsistency/Incorrect Surcharge - ISC limitada ao valor da carga); retorno d → embargos conhecidos e rejeitados por maioria (4x1), nos termos do voto da revisora com acr
+  - votos: Lima: vencido; Flávia: revisor_acompanha; Alber: outro; Caio: outro; Eduardo: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=9755s)
+- **RD 560 (2024-03-25)**, s/n (último do DG) · relator **Eduardo Nery** · Embargos de declaração contra o Acórdão 625/2023 (multa de R$ 264 mil por três infrações) → embargos conhecidos e rejeitados, por unanimidade
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=13130s)
+- **RD 560 (2024-03-25)**, 38 · relator **Flávia Takafashi** · Embargos de declaração contra o Acórdão 434/2023 (eólicas offshore): excluir embarcações de engenharia da exceção ao apoio marítimo → embargos acolhidos com efeitos infringentes, por maioria (4x1); Diretor-Geral vencido
+  - votos: Flávia: relator; Lima: acompanha; Eduardo: vencido; Caio: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=17011s)
+- **RD 560 (2024-03-25)**, 59 · relator **Alber Vasconcelos** · Recurso hierárquico contra a deliberação PAS 48 (multa de R$ 31.500, art. 32, XXV, RN 3274) → não conhecido, por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mgIjvHjSXE8&t=21842s)
+- **RD 562 (2024-04-24)**, 2 · relator **Lima Filho** · Recursos de reconsideração (deliberação em bloco com o item 24) contra o Acórdão 533/2022: cobrança da Tabela I (infraestrutura de acesso aquaviário)  → aprovado (negado provimento aos dois recursos); sem divergência registrada
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=3405s)
+- **RD 562 (2024-04-24)**, 24 · relator **Lima Filho** · Recurso relacionado à cobrança da Tabela I no porto de Vila do Conde, julgado em bloco com o item 2 → aprovado em bloco com o item 2
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=3405s)
+- **RD 562 (2024-04-24)**, 4 · relator **Caio Farias** · Recurso de reconsideração contra o Acórdão 508/2022 (alterado pelo 624/2022): multa de R$ 55 mil por exigir de importadores manifesto de produtos peri → aprovado: recurso provido, processo sancionador declarado extinto
+  - votos: Caio: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=6431s)
+- **RD 562 (2024-04-24)**, 12 · relator **Flávia Takafashi** · Recurso hierárquico impróprio contra o Acórdão 541/2023 que deferiu outorga de cabotagem à Norcoast com base em afretamento a casco nu (Lei 14.301/202 → aprovado: recurso não conhecido
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=12189s)
+- **RD 562 (2024-04-24)**, 17 · relator **Lima Filho** · Recurso administrativo sobre cobrança indevida de tarifas no terminal de passageiros de Salvador (multa de R$ 882 mil e devolução de valores às operad → aprovado por maioria (4x1) o voto divergente do Diretor-Geral: provimento parcial para ret
+  - votos: Lima: vencido; Eduardo: outro; Caio: acompanha; Alber: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=14634s)
+- **RD 562 (2024-04-24)**, 20 (provável) · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 77/2020: multa de cerca de R$ 821 mil por cobrar armazenagem adicional da Eurobrasil sem que esta desse cau → aprovado por maioria (3x2) o voto do relator: provimento parcial, infração mantida com mul
+  - votos: Lima: relator; Flávia: outro; Caio: vencido; Alber: acompanha; Eduardo: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=15714s)
+- **RD 562 (2024-04-24)**, 25 · relator **Alber Vasconcelos** · Recurso de reconsideração contra a Deliberação DG 102/2023 (autorização especial de 90 dias à Superterminais para movimentar passageiros) → aprovado: perda de objeto; determinada revisão da Res. 66
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=19032s)
+- **RD 562 (2024-04-24)**, 33 · relator **Alber Vasconcelos** · Recurso de revisão contra o Acórdão 388/2023: multa de R$ 12.705 por paralisação da operação comercial na navegação de apoio portuário (fev–out/2020) → aprovado: recurso negado
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=v9LsOu2j1IE&t=20970s)
+- **RD 564 (2024-05-29)**, 43 · relator **Lima Filho** · Referendo da Deliberação DG 40/2024: embargos de declaração contra o Acórdão 212/2024 (conhecidos e rejeitados, sem cautelar) → aprovado por unanimidade (referendado)
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=5228s)
+- **RD 564 (2024-05-29)**, 44 · relator **Eduardo Nery** · Itens 44 a 50 votados em bloco: embargos de declaração contra os Acórdãos 131 a 134/2024 (TUPs às margens do rio Itajaí-Açu acusados de desvio de fina → aprovado por unanimidade (embargos conhecidos, com ajustes de ofício no acórdão)
+  - votos: Eduardo: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=5760s)
+- **RD 564 (2024-05-29)**, 45 · relator **Eduardo Nery** · Itens 44 a 50 votados em bloco: embargos de declaração contra os Acórdãos 131 a 134/2024 (TUPs às margens do rio Itajaí-Açu acusados de desvio de fina → aprovado por unanimidade (embargos conhecidos, com ajustes de ofício no acórdão)
+  - votos: Eduardo: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=5760s)
+- **RD 564 (2024-05-29)**, 46 · relator **Eduardo Nery** · Itens 44 a 50 votados em bloco: embargos de declaração contra os Acórdãos 131 a 134/2024 (TUPs às margens do rio Itajaí-Açu acusados de desvio de fina → aprovado por unanimidade (embargos conhecidos, com ajustes de ofício no acórdão)
+  - votos: Eduardo: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=5760s)
+- **RD 564 (2024-05-29)**, 47 · relator **Eduardo Nery** · Itens 44 a 50 votados em bloco: embargos de declaração contra os Acórdãos 131 a 134/2024 (TUPs às margens do rio Itajaí-Açu acusados de desvio de fina → aprovado por unanimidade (embargos conhecidos, com ajustes de ofício no acórdão)
+  - votos: Eduardo: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=5760s)
+- **RD 564 (2024-05-29)**, 48 · relator **Eduardo Nery** · Itens 44 a 50 votados em bloco: embargos de declaração contra os Acórdãos 131 a 134/2024 (TUPs às margens do rio Itajaí-Açu acusados de desvio de fina → aprovado por unanimidade (embargos conhecidos, com ajustes de ofício no acórdão)
+  - votos: Eduardo: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=5760s)
+- **RD 564 (2024-05-29)**, 49 · relator **Eduardo Nery** · Itens 44 a 50 votados em bloco: embargos de declaração contra os Acórdãos 131 a 134/2024 (TUPs às margens do rio Itajaí-Açu acusados de desvio de fina → aprovado por unanimidade (embargos conhecidos, com ajustes de ofício no acórdão)
+  - votos: Eduardo: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=5760s)
+- **RD 564 (2024-05-29)**, 50 · relator **Eduardo Nery** · Itens 44 a 50 votados em bloco: embargos de declaração contra os Acórdãos 131 a 134/2024 (TUPs às margens do rio Itajaí-Açu acusados de desvio de fina → aprovado por unanimidade (embargos conhecidos, com ajustes de ofício no acórdão)
+  - votos: Eduardo: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=5760s)
+- **RD 564 (2024-05-29)**, 21 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 120/2023 (arquivamento da proposta de metodologia de abusividade na cobrança de sobre-estadia de contêinere → aprovado por unanimidade (recurso desprovido, com determinações)
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=6608s)
+- **RD 564 (2024-05-29)**, 24 · relator **Lima Filho** · Embargos de declaração contra o Acórdão 443/2023 (reequilíbrio econômico-financeiro, IPTU, novo marco regulatório e acertos finais de contas de arrend → aprovado por unanimidade (embargos rejeitados)
+  - votos: Lima: relator; Eduardo: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=9167s)
+- **RD 564 (2024-05-29)**, 31 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o Acórdão 21/2024 (divergência entre a área real e a área contratual do arrendamento) → aprovado por unanimidade (provimento parcial)
+  - votos: Alber: relator; Eduardo: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=clvZEshF2Ds&t=10790s)
+- **RD 566 (2024-07-17)**, 2 · relator **Flávia Takafashi** · Pedido de reconsideração da VPorts contra o Acórdão 495/2023 (sistema de indicadores de qualidade de serviço - IQS/fator Q - no contrato de concessão  → aprovado (sem divergência registrada)
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=1481s)
+- **RD 566 (2024-07-17)**, 5 · relator **Lima Filho** · Recurso hierárquico contra Deliberação que manteve auto de infração por reajuste de preços de movimentação acima do IGP-DI contratual (contrato de arr → aprovado (provimento ao recurso)
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=bii62a9BzxQ&t=8949s)
+- **RD 568 (2024-08-05)**, 2 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o Acórdão 91/2024 (proposta de acordo sobre processos sancionadores por cobrança de armazenagem adicional) e pedido c → aprovado; recurso conhecido e indeferido, cautelar indeferida
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=3058s)
+- **RD 568 (2024-08-05)**, 38 · relator **Flávia Takafashi** · Referendo da Deliberação DG 61/2024: recurso em segunda instância em pedido de acesso à informação (cópia integral de autos sobre transferência de con → aprovado (referendado)
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=6171s)
+- **RD 568 (2024-08-05)**, 16 · relator **Flávia Takafashi** · Recurso de reconsideração contra o Acórdão 139/2024 (que manteve multa de cerca de R$ 79,6 mil) → aprovado; recurso não conhecido
+  - votos: Eduardo: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=11812s)
+- **RD 568 (2024-08-05)**, 24 · relator **Lima Filho** · Embargos de declaração contra o Acórdão 279/2024 (desentranhamento e análise terminativa de denúncia apesar de acordo entre as partes), unidade region → aprovado; embargos conhecidos e não providos
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=c4k6__yoPIU&t=13744s)
+- **RD 570 (2024-08-30)**, 1 · relator **Caio Farias** · Recurso de reconsideração contra o Acórdão 466/2023, que deu provimento à arbitragem pedida pela CDP sobre a metodologia de reajuste (variação acumula → aprovado (recurso conhecido e desprovido) — anúncio do resultado truncado na legenda
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=5621s)
+- **RD 570 (2024-08-30)**, 4 · relator **Alber Vasconcelos** · Referendo da Deliberação DG 65/2024: recurso hierárquico contra a SOG, provido em parte para emitir TLO e habilitação ao tráfego internacional, condic → aprovado (referendada a Deliberação DG 65/2024)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=7348s)
+- **RD 570 (2024-08-30)**, 20 · relator **Flávia Takafashi** · Pedido de reconsideração com efeito suspensivo contra o Acórdão 435/2024, que negou referendo à autorização especial para movimentar granel sólido veg → aprovado com ajustes — recurso admitido; suspensos os efeitos do Acórdão 435/2024; autoriz
+  - votos: Flávia: relator; Alber: vencido; Eduardo: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=11873s)
+- **RD 570 (2024-08-30)**, 41 · relator **Alber Vasconcelos** · Embargos de declaração (extrapauta) contra o Acórdão 436/2024, que reconheceu a viabilidade de outorga de TUP à BR Infra → aprovado — embargos conhecidos e rejeitados
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=AcDZ4v_g3-g&t=18217s)
+- **RD 574 (2024-10-25)**, 1 · relator **Flávia Takafashi** · Recurso de reconsideração da VPorts contra o item 5.2.2 do Acórdão 214/2024-ANTAQ (marco inicial de apuração das obrigações do Anexo 3 do contrato de  → recurso conhecido e não provido, por unanimidade
+  - votos: Flávia: relator; Eduardo: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=110s)
+- **RD 574 (2024-10-25)**, 21 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 258/2024, que negou outorga de travessia Itaituba–Miritituba (BR-230, rio Tapajós) por falta de competência → recurso conhecido e não provido por maioria (3 a 2), nos termos da divergência de Caio Far
+  - votos: Lima: relator; Caio: outro; Alber: acompanha; Flávia: acompanha; Eduardo: vencido · [vídeo](https://www.youtube.com/watch?v=mVaf7PJPymQ&t=16311s)
+- **RD 576 (2024-11-22)**, 4 · relator **Caio Farias** · Recurso hierárquico (vista de Alber Vasconcelos pedida na RD 575, grafada «85» na legenda) → vista renovada a pedido do revisor Alber Vasconcelos; volta na próxima reunião presencial
+  - votos: Alber: vista; Caio: relator · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=2836s)
+- **RD 576 (2024-11-22)**, 11 · relator **Lima Filho** · Recurso hierárquico contra a Deliberação 65/2022 que manteve auto de infração por patrimônio líquido negativo em 2020 (art. 9º e 11 da RN 5/2016) → aprovado por unanimidade — recurso provido; auto de infração insubsistente
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=3379s)
+- **RD 576 (2024-11-22)**, 13 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 111/2024 que negou reequilíbrio por sobrepreço de investimentos do 7º termo aditivo, aumento do ISS de Sant → aprovado por unanimidade — recurso desprovido
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=4196s)
+- **RD 576 (2024-11-22)**, 21 · relator **Alber Vasconcelos** · Pedido de reconsideração contra o Acórdão 229/2024 que manteve multa de R$ 43.750 por descumprir o cronograma do PBI do arrendamento VIX30 (Contrato 4 → aprovado por unanimidade — pedido desprovido
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=6021s)
+- **RD 576 (2024-11-22)**, 22 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o Acórdão 300/2024 (consulta da EMAP) sobre parcelamento e dispensa de juros e multa da 1ª parcela da outorga do Cont → aprovado por unanimidade — recurso provido
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=6365s)
+- **RD 576 (2024-11-22)**, 24 · relator **Alber Vasconcelos** · Recurso contra despacho da diretoria D1 (Flávia Takafashi) que negou acesso integral a processo de estrutura tarifária da Autoridade Portuária de Sant → aprovado por unanimidade, com acréscimos (orientação geral à SRG e extrato público; redaçã
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=7099s)
+- **RD 576 (2024-11-22)**, 26 · relator **Alber Vasconcelos** · Embargos de declaração contra a Deliberação DG 87/2024 (item 3.3.4: proibição de outros descontos tarifários na operação acordada em mediação SPI–Port → aprovado por unanimidade — embargos conhecidos (embora intempestivos) para esclarecer
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=PbLoCOkJmjE&t=8421s)
+- **RD 578 (2024-12-19)**, 4 · relator **Alber Vasconcelos** · Referendo da Deliberação DG 113/2024: embargos de declaração contra o Acórdão 679/2024 (cobrança ad valorem de armazenagem na tabela C do Porto de Vit → aprovado (referendado) por unanimidade
+  - votos: Alber: relator; Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=7478s)
+- **RD 578 (2024-12-19)**, 11 · relator **Eduardo Nery** · Recurso hierárquico contra cobrança de juros e multa (cerca de R$ 165 mil) pela SAF por atraso no pagamento da 3ª parcela do valor de outorga do contr → aprovado por unanimidade (recurso provido, sem juros, multa nem atualização monetária)
+  - votos: Eduardo: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=10584s)
+- **RD 578 (2024-12-19)**, 32 · relator **Lima Filho** · Embargos de declaração contra acórdão que proibiu condicionar a informação de local e horário de devolução de contêineres ao pagamento ou agendamento  → aprovado por unanimidade (embargos rejeitados)
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=14659s)
+- **RD 578 (2024-12-19)**, 35 · relator **Lima Filho** · Recurso de reconsideração contra o acórdão sobre a tarifa (Tabela 3, item 9): a APS queria fixar desconto de 50% para instalações retroportuárias dent → aprovado por unanimidade (recurso negado)
+  - votos: Lima: relator; Eduardo: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=drYKWQfc288&t=17411s)
+- **RD 579 (2025-02-13)**, 38 · relator **Alber Vasconcelos** · Recurso hierárquico contra multa de R$ 37.500 (art. 37, XI, Res. 75) por não iniciar operações do TUP no prazo de 5 anos do contrato de adesão 9/2018 → aprovado por unanimidade (recurso desprovido)
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=15343s)
+- **RD 579 (2025-02-13)**, 51 · relator **Alber Vasconcelos** · Embargos de declaração contra o Acórdão 713/2024 (prazo do projeto executivo em obras por etapas – cláusulas 5.4.2 e 5.4.3 do 8º termo aditivo do cont → aprovado por unanimidade, com ajuste de redação proposto por Flávia Takafashi
+  - votos: Eduardo: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=ohWcU7lEtJ8&t=19706s)
+- **RD 582 (2025-03-17)**, 1 · relator **Lima Filho** · Recurso hierárquico contra análise de bloqueio oposto pela CBO (6 AHTS nacionais: Cabral, Parintins, Bossa Nova, Iguaçu, Xavante, Terra Brasilis, Vale → aprovado nos termos do voto do relator, com a contribuição de Alber Vasconcelos (manual el
+  - votos: Lima: relator; Alber: acompanha; Caio: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=206s)
+- **RD 582 (2025-03-17)**, 2 · relator **Lima Filho** · Pedido de revisão (recurso hierárquico) de bloqueio oposto pela Wilson Sons com os PSV Saveiros Atobá e Mandrião à circularização 134/2022 da Petrobra → aprovado nos termos do voto do relator, com a contribuição de Alber Vasconcelos (acompanha
+  - votos: Lima: relator; Alber: acompanha; Caio: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=2332s)
+- **RD 582 (2025-03-17)**, 27 · relator **Lima Filho** · Recurso de reconsideração da VPorts (autoridade portuária) contra o Acórdão 585/2023, com pedidos de sustentação oral → retirado de pauta pelo relator; sustentações orais adiadas
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=4221s)
+- **RD 582 (2025-03-17)**, 3 (referendo) · relator **Caio Farias** · Referendo da Deliberação DG 17/2025 (27/02/2025): não conhecimento do recurso de reconsideração da Intercosta contra o Acórdão 781/2024 (IN 1/2024, me → referendado (aprovado sem divergência)
+  - votos: Caio: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=4295s)
+- **RD 582 (2025-03-17)**, 7 · relator **Caio Farias** · Recurso hierárquico contra a Deliberação 131/2023-SFC: multa por majorar preços de armazenagem e movimentação acima do reajuste pelo IPCA previsto no  → negado provimento, aprovado nos termos do voto do relator (revisor Alber Vasconcelos)
+  - votos: Caio: relator; Alber: revisor_acompanha; Flávia: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=4756s)
+- **RD 582 (2025-03-17)**, 22 · relator **Flávia Takafashi** · Embargos de declaração contra o Acórdão 573/2024 (reversão ao poder concedente de indenização securitária recebida pela Pérola após o vendaval de 2009 → embargos parcialmente providos, aprovado nos termos do voto da relatora
+  - votos: Flávia: relator; Caio: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=11079s)
+- **RD 582 (2025-03-17)**, 31 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o item 5.3 do Acórdão 353/2024 (obrigação de divulgar preços máximos por instalação e discriminar preços nos document → negado provimento, aprovado nos termos do voto do relator
+  - votos: Alber: relator; Caio: acompanha; Flávia: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=fRfxwF5HxTY&t=14517s)
+- **RD 584 (2025-04-10)**, 4 · relator **Lima Filho** · Recurso hierárquico contra a Deliberação PAS 33/2023-SFC (multa de cerca de R$ 500 mil por permitir desvio de finalidade: RG Estaleiro cobrando passag → vista de Alber Vasconcelos renovada após a sustentação oral (sem voto do relator)
+  - votos: Alber: vista; Lima: relator; Flávia: outro; Caio: outro · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=225s)
+- **RD 584 (2025-04-10)**, 23 · relator **Alber Vasconcelos** · Recurso de revisão contra o Acórdão 27/2024 (ocupação de faixa do duto de GLP no Porto de Santos; Petrobras apresenta matrículas de imóvel como fato n → aprovado nos termos do voto do relator (recurso não conhecido; petição remetida a Lima Fil
+  - votos: Alber: relator; Flávia: acompanha; Lima: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=QqGwbLung_Y&t=9004s)
+- **RD 586 (2025-05-19)**, 1 · relator **Caio Farias** · Referendo da Deliberação DG 32/2025: não conhecimento de recurso hierárquico contra decisão da CPLA que inadmitiu documentação (estudo concorrencial)  → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=136s)
+- **RD 586 (2025-05-19)**, 2 · relator **Caio Farias** · Referendo da Deliberação DG 31/2025: recurso em 2ª instância de pedido de informação sobre tempo médio/mediano dos atos da ANTAQ (Lei 13.874/2019) → aprovado (votação simbólica, sem manifestação contrária)
+  - votos: Caio: relator; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=286s)
+- **RD 586 (2025-05-19)**, 9 (legenda: 'item sete') · relator **Lima Filho** · Recurso hierárquico contra a Deliberação PAS 33/2023 (SFC), que manteve auto de infração e multa de R$ 500 mil por desvio de finalidade de área portuá → aprovado: recurso provido, multa afastada (revisor acompanha)
+  - votos: Caio: acompanha; Flávia: acompanha; Lima: relator; Alber: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=2511s)
+- **RD 586 (2025-05-19)**, 32 · relator **Lima Filho** · Embargos de declaração contra o Acórdão 216/2024 (legenda: '2624'): abrangência temporal do desconto tarifário (rubrica 2.1.3.1 da tabela 1, criada pe → julgamento interrompido por pedido de vista de Flávia Takafashi (após o voto do relator)
+  - votos: Lima: relator; Flávia: vista; Caio: outro; Alber: outro · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=10479s)
+- **RD 586 (2025-05-19)**, 33 · relator **Lima Filho** · Embargos de declaração da CDP contra o Acórdão 215/2024 sobre o desconto tarifário ao TUP da Hidrovias do Brasil → aprovado nos termos do voto do relator (Flávia confirma que a vista no item 32 não afeta e
+  - votos: Caio: acompanha; Flávia: acompanha; Lima: relator; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V9HNzBrqGKs&t=11224s)
+- **RD 588 (2025-06-05)**, 1 · relator **Lima Filho** · Pedido de reconsideração da VPorts contra o Acórdão 585/2023 (arbitragem regulatória sobre responsabilidade pelo reparo do molhe de abrigo de Praia Mo → aprovado por unanimidade: pedido conhecido e negado provimento; indeferido o sobrestamento
+  - votos: Lima: relator; Caio: acompanha; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=5895s)
+- **RD 588 (2025-06-05)**, 10 · relator **Lima Filho** · Embargos de declaração contra o Acórdão 216/2024 (modulação dos efeitos da criação da rubrica tarifária 2.1.3.1 da Tabela 1 do porto de Vila do Conde) → aprovado o voto divergente da revisora Flávia Takafashi (efeito ex nunc); vencido o relato
+  - votos: Lima: vencido; Flávia: revisor_diverge; Alber: revisor_acompanha; Caio: vencido · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=12114s)
+- **RD 588 (2025-06-05)**, 21 · relator **Lima Filho** · Admissibilidade de recurso contra a Deliberação PAS 111/2023 (multa de R$ 96.250 por explorar instalação portuária sem registro, RN 13/2016) e propost → aprovado por unanimidade
+  - votos: Lima: relator; Caio: acompanha; Flávia: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=0CbYKX-WsJY&t=15291s)
+- **RD 591 (2025-08-08)**, 9 · relator **Caio Farias** · Recurso/reconsideração contra decisão que determinou ajustes contábeis relacionados à provisão para juros sobre capital próprio (pedido de vista renov → vista renovada (Flávia Takafashi); julgamento adiado
+  - votos: Flávia: vista; Caio: relator; Alber: outro · [vídeo](https://www.youtube.com/watch?v=OQ9m51EIHJc&t=1701s)
+- **RD 591 (2025-08-08)**, 18 · relator **Flávia Takafashi** · Pedido de flexibilização da regra de contabilização de tonelagem de lastro (embarcações típicas/atípicas, NT 23/2019) para afretamento a casco nu de e → aprovado por unanimidade (pedido negado)
+  - votos: Flávia: relator; Caio: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=OQ9m51EIHJc&t=5258s)
+- **RD 591 (2025-08-08)**, 38 · relator **Alber Vasconcelos** · Embargos de declaração contra o Acórdão 434/2025 (recurso sobre auto de infração por ampliação de instalações; cessão de espaço sobre águas públicas j → aprovado por unanimidade (embargos acolhidos com efeitos modificativos)
+  - votos: Alber: relator; Caio: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=OQ9m51EIHJc&t=12945s)
+- **RD 592 (2025-08-25)**, 1 · relator **Caio Farias** · Recurso de reconsideração da EMAP contra o Acórdão 580/2024 que determinou ajustes contábeis (refazimento dos três últimos exercícios) ligados à provi → aprovado por unanimidade — recurso conhecido e desprovido; decisão original mantida
+  - votos: Caio: relator; Flávia: revisor_acompanha; Alber: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=vDo8pMKcp_Q&t=87s)
+- **RD 596 (2025-10-09)**, 1 · relator **Flávia Takafashi** · Recurso de reconsideração da BTP contra os Acórdãos 562, 563 e 564/2024 (proibição definitiva da cobrança de guarda provisória/transitória de contêine → negado provimento por maioria (3x2), prevalecendo a divergência de Caio Farias (redator); 
+  - votos: Flávia: relator; Caio: outro; Alber: acompanha; Lima: vencido; Frederico: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=153s)
+- **RD 596 (2025-10-09)**, 2 · relator **Flávia Takafashi** · Recurso de reconsideração da BTP contra os Acórdãos 562, 563 e 564/2024 (proibição definitiva da cobrança de guarda provisória/transitória de contêine → negado provimento por maioria (3x2), prevalecendo a divergência de Caio Farias (redator); 
+  - votos: Flávia: relator; Caio: outro; Alber: acompanha; Lima: vencido; Frederico: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=153s)
+- **RD 596 (2025-10-09)**, 3 · relator **Flávia Takafashi** · Recurso de reconsideração da BTP contra os Acórdãos 562, 563 e 564/2024 (proibição definitiva da cobrança de guarda provisória/transitória de contêine → negado provimento por maioria (3x2), prevalecendo a divergência de Caio Farias (redator); 
+  - votos: Flávia: relator; Caio: outro; Alber: acompanha; Lima: vencido; Frederico: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=153s)
+- **RD 596 (2025-10-09)**, 7 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 176/2025 (auto de infração por reajuste de tabela de preços acima do índice contratual em Aratu; multa); su → recurso não conhecido, por unanimidade
+  - votos: Lima: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=7636s)
+- **RD 596 (2025-10-09)**, 8 · relator **Lima Filho** · Recurso administrativo contra indeferimento de acesso integral ao processo da transferência de controle e mudança de finalidade da instalação do Estal → recurso não conhecido, por unanimidade
+  - votos: Lima: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=8473s)
+- **RD 596 (2025-10-09)**, 13 · relator **Lima Filho** · Recursos administrativos contra decisões que negaram acesso aos autos (retorno de vista de Alber Vasconcelos, revisor); julgamento em bloco dos itens  → aprovado por unanimidade (perda de objeto)
+  - votos: Lima: relator; Frederico: acompanha; Flávia: acompanha; Alber: revisor_acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=9858s)
+- **RD 596 (2025-10-09)**, 14 · relator **Lima Filho** · Recursos administrativos contra decisões que negaram acesso aos autos (retorno de vista de Alber Vasconcelos, revisor); julgamento em bloco dos itens  → aprovado por unanimidade (perda de objeto)
+  - votos: Lima: relator; Frederico: acompanha; Flávia: acompanha; Alber: revisor_acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=9858s)
+- **RD 596 (2025-10-09)**, 15 · relator **Lima Filho** · Recursos administrativos contra decisões que negaram acesso aos autos (retorno de vista de Alber Vasconcelos, revisor); julgamento em bloco dos itens  → aprovado por unanimidade (perda de objeto)
+  - votos: Lima: relator; Frederico: acompanha; Flávia: acompanha; Alber: revisor_acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=9858s)
+- **RD 596 (2025-10-09)**, 27 · relator **Flávia Takafashi** · Recurso de reconsideração da VPorts contra a Deliberação DG 103(113?)/2024, confirmada pelo Acórdão 747/2024, e embargos ao Acórdão 679/2024 (tabelas  → aprovado por unanimidade (recurso indeferido por perda de objeto)
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=13152s)
+- **RD 596 (2025-10-09)**, 30 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o Acórdão 292/2025 (aceitação do projeto de expansão da área arrendada no contrato PRES-04/96 sem recomposição do equ → aprovado por unanimidade (recurso parcialmente provido)
+  - votos: Alber: relator; Frederico: acompanha; Flávia: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=14555s)
+- **RD 596 (2025-10-09)**, 31 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o Acórdão 425/2025 (inclusão do ISS por fora na tabela tarifária de Itajaí contraria a tabela aprovada pela Deliberaç → aprovado por unanimidade (recurso indeferido)
+  - votos: Alber: relator; Frederico: acompanha; Flávia: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=qzXOrxMFmkU&t=14830s)
+- **RD 598 (2025-11-13)**, 1 · relator **Flávia Takafashi** · Recurso de reconsideração contra o Acórdão ANTAQ 3/2025, que limitou o desconto do item 6 da Tabela 1 (infraestrutura de acesso aquaviário) às tarifas → pedido de vista de Alber Vasconcelos antes da leitura do voto da relatora (julgamento em b
+  - votos: Flávia: relator; Alber: vista; Frederico: outro; Caio: outro; Lima: outro · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=493s)
+- **RD 598 (2025-11-13)**, 2 · relator **Flávia Takafashi** · Recurso de reconsideração da Porto Ponta do Félix contra o Acórdão ANTAQ 3/2025 (desconto do item 6 da Tabela 1 só nas tarifas de Antonina); julgado e → pedido de vista de Alber Vasconcelos antes da leitura do voto da relatora (julgamento em b
+  - votos: Flávia: relator; Alber: vista; Frederico: outro; Caio: outro; Lima: outro · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=493s)
+- **RD 598 (2025-11-13)**, 4 · relator **Caio Farias** · Referendo da Deliberação DG 83/2025: medida cautelar que suspendeu a cobrança da Low Water Surcharge (LWS) no transporte de contêineres com origem/des → referendado por unanimidade; embargos conhecidos e rejeitados; impugnações indeferidas
+  - votos: Caio: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=3729s)
+- **RD 598 (2025-11-13)**, 18 · relator **Flávia Takafashi** · Recurso de reconsideração contra negativa de acesso a informações detalhadas sobre receitas tarifárias de cada porto organizado em 2024 → aprovado por unanimidade (recurso conhecido e indeferido)
+  - votos: Flávia: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Lima: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=10271s)
+- **RD 598 (2025-11-13)**, 25 · relator **Lima Filho** · Recurso hierárquico contra multa por omissão de medidas preventivas de dano ambiental na descarga de cloreto de potássio (nov.-dez. 2021) → aprovado por unanimidade (recurso conhecido e não provido)
+  - votos: Lima: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=-pfkDnpUE1Y&t=12127s)
+- **RD 600 (2025-12-15)**, 8 · relator **Flávia Takafashi** · Recurso de reconsideração contra o Acórdão 3/2025-ANTAQ (desconto do item 6 da Tabela 1 — Inframar — aplicável só às tarifas de Antonina, mantida inte → vista prorrogada (Alber Vasconcelos) — sem deliberação
+  - votos: Alber: outro · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=657s)
+- **RD 600 (2025-12-15)**, 9 · relator **Flávia Takafashi** · Recurso de reconsideração contra o Acórdão 3/2025-ANTAQ (desconto do item 6 da Tabela 1 — Inframar — aplicável só às tarifas de Antonina, mantida inte → vista prorrogada (Alber Vasconcelos) — sem deliberação
+  - votos: Alber: outro · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=657s)
+- **RD 600 (2025-12-15)**, 3 · relator **Caio Farias** · Recurso de reconsideração da Petrobras contra o Acórdão 175/2025 (bloqueio firme da CBO a afretamento de embarcações estrangeiras de apoio marítimo; c → aprovado: recurso não conhecido (sem divergência)
+  - votos: Caio: relator; Alber: acompanha; Frederico: acompanha; Lima: acompanha; Flávia: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=1687s)
+- **RD 600 (2025-12-15)**, 32 · relator **Lima Filho** · Embargos de declaração contra o Acórdão 651/2025 (não cabimento de recurso de reconsideração após recurso hierárquico) → aprovado: embargos não admitidos (sem divergência)
+  - votos: Lima: relator; Frederico: acompanha; Flávia: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=16586s)
+- **RD 600 (2025-12-15)**, 43 · relator **Caio Farias** · Recurso de reconsideração contra o Acórdão 584/2025 (multa em processo sancionador; pedido de conversão em advertência) → aprovado: recurso não conhecido (sem divergência)
+  - votos: Caio: relator; Frederico: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha · [vídeo](https://www.youtube.com/watch?v=V3-vAl36ud8&t=20281s)
+- **RD 603 (2026-02-24)**, 32 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o Acórdão 347/2025 (multa de R$ 78.750 por não início das operações do TUP em 5 anos do contrato de adesão 4/2018 sem → recurso conhecido e não provido (sem divergência)
+  - votos: Frederico: acompanha; Flávia: acompanha; Lima: acompanha; Alber: relator; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=408s)
+- **RD 603 (2026-02-24)**, 6 · relator **Flávia Takafashi** · Recurso de reconsideração contra o Acórdão 3/2025 (inadequação de parâmetros tarifários da autoridade portuária), após vista de Alber Vasconcelos na R → vista renovada por Alber Vasconcelos — sem deliberação; voto da relatora registrado
+  - votos: Flávia: relator; Alber: vista · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=2414s)
+- **RD 603 (2026-02-24)**, 7 · relator **Flávia Takafashi** · Recurso de reconsideração contra o Acórdão 3/2025 (inadequação de parâmetros tarifários da autoridade portuária), após vista de Alber Vasconcelos na R → vista renovada por Alber Vasconcelos — sem deliberação; voto da relatora registrado
+  - votos: Flávia: relator; Alber: vista · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=2414s)
+- **RD 603 (2026-02-24)**, 11 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 314/2025 (titularidade de licenças ambientais e coabilitação ao REIDI por terceiros possuidores diretos den → recurso parcialmente provido (sem divergência)
+  - votos: Frederico: acompanha; Flávia: revisor_acompanha; Lima: relator; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=4027s)
+- **RD 603 (2026-02-24)**, 13 · relator **Flávia Takafashi** · Recurso de reconsideração contra o Acórdão 24/2024: multa de R$ 97.750 por descarte não autorizado de efluentes com matéria orgânica em bueiro do cais → recurso conhecido e não provido (sem divergência)
+  - votos: Frederico: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=5717s)
+- **RD 603 (2026-02-24)**, 20 · relator **Flávia Takafashi** · Recurso de reconsideração contra o Acórdão 382/2025, que reconhecera desequilíbrio de cerca de R$ 5,2 milhões em desfavor da arrendatária por investim → recurso provido (sem divergência)
+  - votos: Frederico: acompanha; Flávia: relator; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=8685s)
+- **RD 603 (2026-02-24)**, 38 · relator **Caio Farias** · Recurso de reconsideração contra o Acórdão 619/2025 (multa de R$ 175.000 (?) e interdição por operar terminal sem autorização, movimentando carga de t → recurso conhecido e não provido (sem divergência)
+  - votos: Frederico: acompanha; Flávia: acompanha; Lima: acompanha; Alber: acompanha; Caio: relator · [vídeo](https://www.youtube.com/watch?v=9Eik41N8ooQ&t=14376s)
+- **RD 605 (2026-03-24)**, 2 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 734/2025 (Res. ANTAQ 112/2024, matriz de responsabilidade/risco sobre armazenagem adicional): pedido de exc → recurso conhecido e não provido, por unanimidade
+  - votos: Lima: relator; Alber: acompanha; Frederico: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=762s)
+- **RD 605 (2026-03-24)**, 8 · relator **Flávia Takafashi** · Recurso de reconsideração contra o Acórdão 3/2025 (consulta regulatória): desconto de 50% dos itens 5 e 6 da Tabela 1 (INFRAMAR) em operações sucessiv → recurso provido por maioria (4 x 1), vencida a relatora Flávia Takafashi; prevalece o voto
+  - votos: Flávia: relator; Alber: revisor_diverge; Caio: revisor_diverge; Lima: revisor_acompanha; Frederico: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=4848s)
+- **RD 605 (2026-03-24)**, 9 · relator **Flávia Takafashi** · Recurso de reconsideração contra o Acórdão 3/2025 (consulta regulatória): desconto de 50% dos itens 5 e 6 da Tabela 1 (INFRAMAR) em operações sucessiv → recurso provido por maioria (4 x 1), vencida a relatora Flávia Takafashi; prevalece o voto
+  - votos: Flávia: relator; Alber: revisor_diverge; Caio: revisor_diverge; Lima: revisor_acompanha; Frederico: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=4848s)
+- **RD 605 (2026-03-24)**, 10 · relator **Flávia Takafashi** · Pedido de supressão do mecanismo de preço-teto (price cap, cláusula 10.1) para magnesita, com base na cláusula 10.3 (ambiente concorrencial competitiv → pedido acolhido por maioria (4 x 1), vencida a relatora: preço-teto suspenso por 2 anos co
+  - votos: Flávia: relator; Alber: revisor_diverge; Frederico: revisor_acompanha; Lima: revisor_acompanha; Caio: revisor_diverge · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=5536s)
+- **RD 605 (2026-03-24)**, 21 · relator **Alber Vasconcelos** · Recursos de reconsideração contra o item 5.5 do Acórdão 605/2025 (recomendação de reclassificar a área BEL11 como operacional no PDZ do porto de Belém → recursos providos por unanimidade
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=10947s)
+- **RD 605 (2026-03-24)**, 22 · relator **Alber Vasconcelos** · Recursos de reconsideração contra o item 5.5 do Acórdão 605/2025 (recomendação de reclassificar a área BEL11 como operacional no PDZ do porto de Belém → recursos providos por unanimidade
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=rHdt55Pm_Bo&t=10947s)
+- **RD 607 (2026-04-23)**, 19 · relator **Alber Vasconcelos** · Recurso contra multa de R$ 442.890,25 (art. 28, VII, Res. 62/2021) por cronograma físico-financeiro sem assinatura do estaleiro na construção das emba → aprovado por unanimidade
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: relator; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=8229s)
+- **RD 607 (2026-04-23)**, 27 · relator **Cristina Castro** · Recurso contra o acórdão 636/2024, que indeferiu cautelar em denúncia de cobrança abusiva pela Santos Brasil para movimentação de carga solta (item 4. → recurso desprovido por unanimidade
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: relator · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=9464s)
+- **RD 607 (2026-04-23)**, 29 · relator **Cristina Castro** · Recurso hierárquico contra deliberação PAS 23/2025-SFC (auto de infração 0065730, multa de R$ 302.500) por descumprir a cautelar da Resolução 7574-ANT → recurso desprovido por unanimidade
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: relator · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=10090s)
+- **RD 607 (2026-04-23)**, 31 · relator **Cristina Castro** · Embargos de declaração contra o acórdão 843/2025 sobre a tabela 1 (acesso aquaviário) do porto de Areia Branca → embargos rejeitados por unanimidade
+  - votos: Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: relator · [vídeo](https://www.youtube.com/watch?v=GITJiP3wrvE&t=10727s)
+- **RD 611 (2026-06-11)**, 1 · relator **Lima Filho** · Recurso de reconsideração contra o item 5.4 do Acórdão 831/2025 (teto para serviços acessórios em contêiner LCL igual ao do FCL; aplicação imediata ao → negado provimento (aprovado sem manifestação contrária)
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=237s)
+- **RD 611 (2026-06-11)**, 18 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 178/2026 (que validou o 1º termo aditivo ao contrato de exploração de instalação portuária 082/2022 entre V → provido por unanimidade (julgamento suspenso de manhã e retomado no fim da sessão); 1º adi
+  - votos: Lima: relator; Alber: acompanha; Frederico: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=1255s)
+- **RD 611 (2026-06-11)**, 2 · relator **Caio Farias** · Recursos de reconsideração (julgamento em bloco dos itens 2, 3 e 31) contra o Acórdão 393/2025, que aprovou a RN ANTAQ 129/2025 (afretamento por EBN), → pedido de vista de Lima Filho (concedida) após relatório e sustentações; voto do relator n
+  - votos: Caio: relator; Lima: vista; Frederico: outro · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=4937s)
+- **RD 611 (2026-06-11)**, 3 · relator **Caio Farias** · Recursos de reconsideração (julgamento em bloco dos itens 2, 3 e 31) contra o Acórdão 393/2025, que aprovou a RN ANTAQ 129/2025 (afretamento por EBN), → pedido de vista de Lima Filho (concedida) após relatório e sustentações; voto do relator n
+  - votos: Caio: relator; Lima: vista; Frederico: outro · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=4937s)
+- **RD 611 (2026-06-11)**, 31 · relator **Caio Farias** · Recursos de reconsideração (julgamento em bloco dos itens 2, 3 e 31) contra o Acórdão 393/2025, que aprovou a RN ANTAQ 129/2025 (afretamento por EBN), → pedido de vista de Lima Filho (concedida) após relatório e sustentações; voto do relator n
+  - votos: Caio: relator; Lima: vista; Frederico: outro · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=4937s)
+- **RD 611 (2026-06-11)**, 13 · relator **Lima Filho** · Recurso de reconsideração da APS contra o Acórdão 804/2025 (suspendeu os efeitos do contrato de transição 18/2025 da área STS29 até cumprimento de det → conhecido; perda parcial de objeto quanto à suspensão; no restante, negado provimento (apr
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=8981s)
+- **RD 611 (2026-06-11)**, 14 · relator **Lima Filho** · Embargos de declaração (itens 14, 15 e 16 em bloco) contra os Acórdãos 714/2023 e 715/2023 sobre os pátios de triagem obrigatórios fora do porto de Su → aprovado: embargos das operadoras providos (com efeitos infringentes) e da associação desp
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=9216s)
+- **RD 611 (2026-06-11)**, 15 · relator **Lima Filho** · Embargos de declaração (itens 14, 15 e 16 em bloco) contra os Acórdãos 714/2023 e 715/2023 sobre os pátios de triagem obrigatórios fora do porto de Su → aprovado: embargos das operadoras providos (com efeitos infringentes) e da associação desp
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=9216s)
+- **RD 611 (2026-06-11)**, 16 · relator **Lima Filho** · Embargos de declaração (itens 14, 15 e 16 em bloco) contra os Acórdãos 714/2023 e 715/2023 sobre os pátios de triagem obrigatórios fora do porto de Su → aprovado: embargos das operadoras providos (com efeitos infringentes) e da associação desp
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=9216s)
+- **RD 611 (2026-06-11)**, 19 · relator **Lima Filho** · Recurso de reconsideração da APS contra o Acórdão 523/2025: validação de investimentos urgentes e não amortizados e metodologia de depreciação para ev → provido (aprovado)
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=10635s)
+- **RD 611 (2026-06-11)**, 21 · relator **Lima Filho** · Embargos de declaração contra o Acórdão 729/2025 (processos seletivos simplificados 01/2025 e 02/2025 do Porto de Santos: perfil de carga, preferência → conhecidos; mérito prejudicado por perda superveniente de objeto (aprovado)
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=11208s)
+- **RD 611 (2026-06-11)**, 32 · relator **Cristina Castro** · Recurso de reconsideração (itens 32 e 33 em bloco) contra o Acórdão 805/2025, que suspendeu o contrato de transição 17/2025 do processo seletivo simpl → recurso prejudicado por perda superveniente de objeto (aprovado)
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=16119s)
+- **RD 611 (2026-06-11)**, 33 · relator **Cristina Castro** · Recurso de reconsideração (itens 32 e 33 em bloco) contra o Acórdão 805/2025, que suspendeu o contrato de transição 17/2025 do processo seletivo simpl → recurso prejudicado por perda superveniente de objeto (aprovado)
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=16119s)
+- **RD 611 (2026-06-11)**, 37 · relator **Cristina Castro** · Petição da BTP (protocolada como embargos de declaração) contra o Acórdão 141/2026 (cautelar suspendendo a taxa de aplicação de rótulos IMO, item 6.44 → retirado de pauta pela relatora após questão de ordem de Caio Farias (voto lido, depois re
+  - votos: Cristina: relator; Caio: outro; Frederico: outro · [vídeo](https://www.youtube.com/watch?v=yXi-ows2JqA&t=16587s)
+- **RD 614 (2026-08-20)**, 12 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 733/2025 → pedido de vista (Caio Farias), anunciado na abertura
+  - votos: Caio: vista · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=90s)
+- **RD 614 (2026-08-20)**, 1 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 242/2026 (que manteve, em recurso hierárquico, o auto de infração por afretamento sem autorização da embarc → aprovado (sem divergência registrada): recurso não conhecido
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=140s)
+- **RD 614 (2026-08-20)**, 2 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o Acórdão 724/2024 (multa de R$ 120.000 por não iniciar a construção do TUP no prazo do cronograma físico-financeiro  → aprovado por maioria (4 a 1), vencido Lima Filho
+  - votos: Alber: relator; Lima: vencido; Frederico: acompanha; Cristina: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=1354s)
+- **RD 614 (2026-08-20)**, 3 · relator **Lima Filho** · Referendo da Deliberação DG 48/2026: recurso contra atas 15 e 17 da comissão da seleção pública (edital de chamada pública 1/2026) para a travessia Ma → aprovado (referendado)
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=5550s)
+- **RD 614 (2026-08-20)**, 13 · relator **Lima Filho** · Recurso hierárquico contra a Deliberação PAS 32/2025-SFC (multa de R$ 28.000 por interferência injustificada em operações de terceiros após vazamento  → aprovado (sem divergência registrada): recurso provido
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=7291s)
+- **RD 614 (2026-08-20)**, 33 · relator **Cristina Castro** · Recurso de reconsideração contra o Acórdão 112/2026 (cautelar negada para suspender contrato de transição entre APS e Comportos no porto de Santos) → aprovado (sem divergência registrada): recurso desprovido
+  - votos: Cristina: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Caio: acompanha · [vídeo](https://www.youtube.com/watch?v=dbP2dqL47oA&t=11014s)
+- **RD 616 (2026-08-21)**, pauta 14 · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 611/2025, que manteve a interdição cautelar da instalação portuária do Sindicato Rural de Santarém (PA) até → aprovado (recurso conhecido e desprovido; interdição mantida), sem divergência registrada
+  - votos: Lima: relator; Frederico: acompanha; Alber: acompanha; Caio: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=728s)
+- **RD 616 (2026-08-21)**, pauta 6 · relator **Caio Farias** · Recursos de reconsideração contra o Acórdão 393/2025 (Resolução ANTAQ 129/2025, afretamento por EBN) quanto à expressão «parte da operação requerida»  → recursos não conhecidos (Subsea7) ou desprovidos (IBP, Syndarma); maioria 4 x 1, vencido o
+  - votos: Caio: relator; Lima: vencido; Alber: acompanha; Cristina: acompanha; Frederico: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=8942s)
+- **RD 616 (2026-08-21)**, pauta 7 · relator **Caio Farias** · Recursos de reconsideração contra o Acórdão 393/2025 (Resolução ANTAQ 129/2025, afretamento por EBN) quanto à expressão «parte da operação requerida»  → recursos não conhecidos (Subsea7) ou desprovidos (IBP, Syndarma); maioria 4 x 1, vencido o
+  - votos: Caio: relator; Lima: vencido; Alber: acompanha; Cristina: acompanha; Frederico: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=8942s)
+- **RD 616 (2026-08-21)**, pauta 8 · relator **Caio Farias** · Recursos de reconsideração contra o Acórdão 393/2025 (Resolução ANTAQ 129/2025, afretamento por EBN) quanto à expressão «parte da operação requerida»  → recursos não conhecidos (Subsea7) ou desprovidos (IBP, Syndarma); maioria 4 x 1, vencido o
+  - votos: Caio: relator; Lima: vencido; Alber: acompanha; Cristina: acompanha; Frederico: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=8942s)
+- **RD 616 (2026-08-21)**, pauta 23 · relator **Caio Farias** · Recurso de reconsideração com pedido cautelar contra os Acórdãos 138/2026 e 163/2026, que suspenderam o preço-teto na movimentação de fertilizantes, c → aprovado, sem divergência registrada: recurso desprovido, cautelar e pedido de retirada de
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Cristina: acompanha · [vídeo](https://www.youtube.com/watch?v=u8dT-sH3gOY&t=14927s)
+- **RD 619 (2026-09-24)**, 8 · relator **None** · Recurso de reconsideração em face do Acórdão 733/2025-ANTAQ (anunciado pelo DG) → renovação do pedido de vista registrada na abertura; não deliberado
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=895s)
+- **RD 619 (2026-09-24)**, 1 · relator **Alber Vasconcelos** · Recurso de reconsideração contra o Acórdão 262/2026-ANTAQ que manteve auto de infração e multa de R$ 39.930 por cobrança de no show charge em situação → recurso conhecido e indeferido; Acórdão 262/2026 mantido (Alexandre Florambel declarou imp
+  - votos: Alber: relator; Frederico: acompanha; Lima: acompanha; Caio: acompanha; Alexandre: outro · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=1889s)
+- **RD 619 (2026-09-24)**, 6 · relator **Caio Farias** · Referendo da Deliberação DG 71/2026: recurso de 2ª instância em pedido de acesso à informação; informação ainda inexistente; SFC deve submeter em 60 d → referendado (aprovado); recurso conhecido e parcialmente provido
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=4245s)
+- **RD 619 (2026-09-24)**, 31 · relator **Caio Farias** · Embargos de declaração contra o Acórdão 484/2026 (que negou reconsideração; regime de preço-teto contratual suspenso) → embargos conhecidos e rejeitados (aprovado)
+  - votos: Caio: relator; Frederico: acompanha; Lima: acompanha; Alber: acompanha; Alexandre: acompanha · [vídeo](https://www.youtube.com/watch?v=ohFmT3yAdx4&t=13927s)
+- **RD 621 (2026-10-27)**, 1 · relator **Lima Filho** · Recurso de reconsideração contra a Deliberação PAS 16/2026 da SFC → retirado de pauta a pedido do relator; sustentação oral adiada
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=900s)
+- **RD 621 (2026-10-27)**, vista-Login · relator **Lima Filho** · Recurso de reconsideração contra o Acórdão 733/2025 → não deliberado: vista renovada (revisor Caio Farias)
+  - votos: Caio: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=PcJW-t37LCI&t=950s)
