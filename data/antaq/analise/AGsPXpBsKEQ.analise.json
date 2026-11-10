@@ -1,0 +1,1724 @@
+{
+ "meta": {
+  "video_id": "AGsPXpBsKEQ",
+  "fonte": "legenda automática do YouTube; ts reconstruídos de data/transcricoes/AGsPXpBsKEQ.json; ts de quem só acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "496",
+  "data": "2021-03-10",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Eduardo Nery (Diretor-Geral)",
+  "diretores_presentes": [
+   "Eduardo Nery",
+   "Adalberto Tokarski",
+   "Gabriela Costa (diretora substituta)"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Data inferida: Gabriela diz que «segunda-feira» (8/3/2021) foi o Dia Internacional da Mulher; o dia exato da semana não é dito (cabeçalho 2021-03-15 é data de upload). Usado 2021-03-10 como estimativa.",
+   "Primeira reunião de Gabriela Costa no segundo período de interinidade, na vaga deixada por Francisval Mendes.",
+   "Ata da ROD 495 aprovada.",
+   "Divergências: item 8 (Codesp) prevaleceu o voto-vista de Nery (advertência), Tokarski vencido, com voto de qualidade do DG; itens 6-7 (RG Estaleiro) Nery vencido sobre a competência da ANTAQ em áreas não operacionais; item 38 (Portofer) prevaleceu o fundamento de Nery; itens 10-11 prevaleceu o voto-vista de Nery.",
+   "Item 5: Nery retificou o voto-vista para acompanhar o relator e evitar confusão processual.",
+   "Discussão sobre ordem de votação: Nery passou a chamar a diretora substituta antes do diretor mais antigo após consultar o regimento.",
+   "Vistas: Gabriela (item 30); Tokarski renovou vista nos itens 12 a 14.",
+   "Sustentação oral: Localfrio (item 21)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:01:57",
+   "processo": "50300.000153/2021-35",
+   "interessado": "Superintendência do Porto do Rio Grande (SUPRG); Estaleiros do Brasil Ltda. (EBR), São José do Norte/RS",
+   "assunto": "Referendo da Deliberação DG 21/2021: autorização especial e de emergência para desembarque de carga no cais da EBR em São José do Norte (porto do Rio Grande)",
+   "tema": [
+    "autorização especial/emergencial",
+    "referendo",
+    "arrendamento em porto organizado"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado (referendado) por unanimidade",
+   "resumo_voto": "Art. 49 da Lei 10.233; autorização não desonera exigências de segurança; SFC acompanha.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "0:02:24",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:05:37",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "0:05:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:05:45",
+   "processo": "50300.007582/2016-14",
+   "interessado": "APM Terminals Itajaí S.A.; Superintendência do Porto de Itajaí",
+   "assunto": "Referendo da Deliberação DG 22/2021 que deu efeito suspensivo ao Acórdão 148/2020 (operação fora da área arrendada) até decisão do mérito do pedido de reconsideração",
+   "tema": [
+    "referendo",
+    "recursos administrativos",
+    "arrendamento em porto organizado"
+   ],
+   "relator": "Gabriela Costa",
+   "resultado": "aprovado (referendado) por unanimidade",
+   "resumo_voto": "Plausibilidade do direito e risco de dano; SRG deve ouvir a autoridade portuária sobre a operação fora da área arrendada e o histórico da licitação.",
+   "votos": [
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "relatora, aprova",
+     "ts": "0:06:09",
+     "justificativa": "fatos novos (pareceres na SNPTA); fumaça do bom direito e perigo da demora",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha a relatora",
+     "ts": "0:07:52",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a relatora",
+     "ts": "0:07:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:08:00",
+   "processo": "50300.011829/2016-05",
+   "interessado": "Porto Sudeste do Brasil S.A.; Companhia Docas do Rio de Janeiro (CDRJ); MRS Logística S.A.",
+   "assunto": "Arbitragem regulatória com cautelar sobre a ocupação de área do porto de Itaguaí pelo ramal ferroviário do Porto Sudeste: retirada de pauta a pedido conjunto das partes",
+   "tema": [
+    "mediação/arbitragem",
+    "arrendamento em porto organizado"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "retirado de pauta por até 60 dias, para as partes apresentarem acordo",
+   "resumo_voto": "Nery (vista na ROD 494; voto já pronto) propôs acolher o pedido das três partes, com prazo de 60 dias para apresentarem compromisso; Tokarski concordou, cobrando que o prazo seja o máximo, pois o acordo já devia ter saído; Gabriela não vota no processo.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "propõe retirada de pauta (pedido das partes)",
+     "ts": "0:10:33",
+     "justificativa": "busca de entendimento entre as partes é a melhor solução",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "de acordo com a retirada de pauta",
+     "ts": "0:11:00",
+     "justificativa": "partes já tiveram muitas reuniões; prazo máximo de 60 dias; acordo passará pela ANTAQ",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:12:47",
+   "processo": "50300.005002/2019-17 (legenda: «50 300 zero 50027 2019 e 17»)",
+   "interessado": "SCPar Porto de Imbituba S.A. (controladora estadual SCPar)",
+   "assunto": "Processo sancionador: ressarcimento de custos à controladora por termo de cooperação, contrariando o convênio de delegação 1/2012",
+   "tema": [
+    "fiscalização e sanções",
+    "porto delegado / autoridade portuária",
+    "convênio de delegação"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado nos termos do voto do relator, com as determinações do voto-vista (unânime entre os votantes)",
+   "resumo_voto": "Nery (vista): acompanhou a insubsistência do auto de infração, mas, diante de posição da SNPTA trazida depois do pedido de vista (inadequação do termo de cooperação sem transparência), propôs determinar em 60 dias ajustes no termo de cooperação e na contabilização. Tokarski incorporou. Francisval votara na ROD 493; Gabriela não atua.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator; incorpora as determinações do voto-vista",
+     "ts": "0:19:59",
+     "justificativa": "diante da manifestação da SNPTA, acompanha o voto-vista; mantém insubsistência",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "voto-vista: acompanha a insubsistência e acrescenta determinações",
+     "ts": "0:13:44",
+     "justificativa": "gestão compartilhada de custos é possível com transparência; repasses só para atividade portuária; despesas no caso tinham relação com o porto",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:21:48",
+   "processo": "50300.010008/2019-82",
+   "interessado": "SCPar Porto de São Francisco do Sul S.A.; CIDASC (terminal graneleiro)",
+   "assunto": "Processo sancionador: custeio de despesas da controladora estadual (diárias, cursos) e do terminal graneleiro da CIDASC (moega, seguro), contrariando o convênio de delegação 1/2011",
+   "tema": [
+    "fiscalização e sanções",
+    "porto delegado / autoridade portuária",
+    "convênio de delegação"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado nos termos do voto do relator Tokarski (insubsistência, com ajustes); voto-vista retificado",
+   "resumo_voto": "Nery (vista) votou pela subsistência e multa de R$ 231.507,59, com ajustes no termo de cooperação e ressarcimento dos valores da moega. Tokarski manteve a insubsistência e aderiu só às determinações de ajuste (alíneas a e b). Para evitar confusão processual (Francisval votara com o relator na ROD 493), Nery retificou e acompanhou integralmente o relator.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, mantém insubsistência; adere às determinações de ajuste",
+     "ts": "0:28:56",
+     "justificativa": "ressarcimento das despesas saneou a conduta; acompanha apenas as alíneas a e b do voto-vista",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "voto-vista pela subsistência (multa); depois retifica e acompanha o relator",
+     "ts": "0:22:44",
+     "justificativa": "ressarcimento parcial não afasta a infração, só atenua; retificou para não haver confusão processual",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:32:03",
+   "processo": "50300.014090/2018-47 (legenda)",
+   "interessado": "RG Estaleiro ERG2 S.A.; Superintendência do Porto do Rio Grande (SUPRG)",
+   "assunto": "TAC 28/2018 e processo sancionador por ocupação de área não operacional no porto do Rio Grande (julgamento conjunto dos itens 6 e 7)",
+   "tema": [
+    "fiscalização e sanções",
+    "TAC",
+    "porto organizado / áreas não operacionais"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado nos termos do voto do relator Francisval Mendes (2 x 1); Eduardo Nery vencido",
+   "resumo_voto": "Relator (voto na ROD 494): nulidade dos processos por vício de competência da ANTAQ sobre áreas não operacionais. Nery (vista) divergiu: a ANTAQ tem competência para fiscalizar titulares de contratos em porto organizado (Portaria 409); restituir à SFC. Tokarski acompanhou o relator enquanto persistir divergência entre área técnica e PF. Gabriela não atua.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova (voto proferido na ROD 494)",
+     "ts": "0:33:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "voto-vista: diverge (vencido)",
+     "ts": "0:33:54",
+     "justificativa": "não há decisão colegiada declarando incompetência; Res. 7.735 só revogou exigência de anuência prévia; ANTAQ tem competência para fiscalizar áreas não operacionais",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:44:18",
+     "justificativa": "há posições divergentes da área técnica e da PF sobre competência; na dúvida acompanha o relator",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "0:32:03",
+   "processo": "50314.001942/2014-53",
+   "interessado": "RG Estaleiro ERG2 S.A.; Superintendência do Porto do Rio Grande (SUPRG)",
+   "assunto": "TAC 28/2018 e processo sancionador por ocupação de área não operacional no porto do Rio Grande (julgamento conjunto dos itens 6 e 7)",
+   "tema": [
+    "fiscalização e sanções",
+    "TAC",
+    "porto organizado / áreas não operacionais"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado nos termos do voto do relator Francisval Mendes (2 x 1); Eduardo Nery vencido",
+   "resumo_voto": "Relator (voto na ROD 494): nulidade dos processos por vício de competência da ANTAQ sobre áreas não operacionais. Nery (vista) divergiu: a ANTAQ tem competência para fiscalizar titulares de contratos em porto organizado (Portaria 409); restituir à SFC. Tokarski acompanhou o relator enquanto persistir divergência entre área técnica e PF. Gabriela não atua.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova (voto proferido na ROD 494)",
+     "ts": "0:33:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "voto-vista: diverge (vencido)",
+     "ts": "0:33:54",
+     "justificativa": "não há decisão colegiada declarando incompetência; Res. 7.735 só revogou exigência de anuência prévia; ANTAQ tem competência para fiscalizar áreas não operacionais",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:44:18",
+     "justificativa": "há posições divergentes da área técnica e da PF sobre competência; na dúvida acompanha o relator",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "0:45:36",
+   "processo": "50300.009710/2019-15",
+   "interessado": "Companhia Docas do Estado de São Paulo (Codesp); Transbrasil (área STS10, Porto de Santos)",
+   "assunto": "Processo sancionador: contrato de transição com a Transbrasil sem prévia autorização da ANTAQ (art. 32, XXXVIII, da Res. 3.274)",
+   "tema": [
+    "fiscalização e sanções",
+    "arrendamento em porto organizado",
+    "contrato de transição",
+    "dosimetria"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado nos termos do voto do revisor Eduardo Nery (advertência em vez de multa), com voto de qualidade do DG (art. 12 do Decreto 4.122/2002); relator vencido",
+   "resumo_voto": "Relator: auto subsistente e multa (cerca de R$ 181,5 mil pela legenda). Nery: auto subsistente, mas advertência, pois houve mudança de entendimento da própria ANTAQ e a solução beneficiou o interesse público. Gabriela impedida (atuou como superintendente). Empate 1 x 1 resolvido pelo voto do DG.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, mantém multa (vencido)",
+     "ts": "0:56:09",
+     "justificativa": "autoridades portuárias sabiam que contratar sem anuência é infração; a ANTAQ já multou várias por isso e isso inibiu a prática",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "voto-vista: subsistência com advertência (prevalece)",
+     "ts": "0:46:29",
+     "justificativa": "dúvida jurídica e mudança de entendimento da agência; contrato evitou perda do prestador e de receitas; multa seria rigor excessivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "não vota (impedida)",
+     "ts": "0:55:42",
+     "justificativa": "manifestou-se no processo como superintendente",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "1:00:40",
+   "processo": "50300.006659/2019-81",
+   "interessado": "Porto Sul International Business Ltda.; Pacific International Lines (Brasil Ocean Agência Marítima)",
+   "assunto": "Denúncia na Ouvidoria sobre abusividade na cobrança de THC",
+   "tema": [
+    "tarifas portuárias (THC, SSE, cesta de serviços)",
+    "navegação e afretamento"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Dados da UR Florianópolis subsidiam o tema 3.1 da agenda regulatória (abusividade de THC). Nery (vista) acompanhou com ressalva sobre a competência da ANTAQ para determinar devolução de valores; Gabriela acompanhou o relator e a ressalva.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova (voto anterior)",
+     "ts": "1:01:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "voto-vista: acompanha o relator com ressalva",
+     "ts": "1:02:03",
+     "justificativa": "ressalva quanto à competência para determinar devolução de valores, não tratada na parte dispositiva",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:04:41",
+     "justificativa": "acompanha também a ressalva; tema precisa ser aprofundado na agência",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "1:05:15",
+   "processo": "50300.006650/2019-71",
+   "interessado": "Aliança Navegação e Logística Ltda.",
+   "assunto": "Denúncia sobre cobrança de THC por armador; uso dos dados na agenda regulatória",
+   "tema": [
+    "tarifas portuárias (THC, SSE, cesta de serviços)",
+    "navegação e afretamento"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado nos termos do voto do revisor Eduardo Nery",
+   "resumo_voto": "Nery (vista na ROD 495) divergiu em parte: excluir da parte dispositiva a questão de competência; determinar à SRG o uso das informações no tema 3.1 da agenda regulatória e vedar atos instrutórios após conclusão ao relator, salvo exceções da Res. 7.701. Gabriela acompanhou o voto-vista.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "voto-vista: diverge parcialmente (prevalece)",
+     "ts": "1:06:02",
+     "justificativa": "questão de competência não deve ser objeto de determinação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o voto-vista",
+     "ts": "1:07:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator; aparentemente aceita o voto-vista",
+     "ts": "1:07:15",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "1:07:20",
+   "processo": "50300.006648/2019-00",
+   "interessado": "Aliança Navegação e Logística Ltda.",
+   "assunto": "Denúncia sobre cobrança de THC por armador; uso dos dados na agenda regulatória",
+   "tema": [
+    "tarifas portuárias (THC, SSE, cesta de serviços)",
+    "navegação e afretamento"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado nos termos do voto do revisor Eduardo Nery",
+   "resumo_voto": "Nery (vista na ROD 495) divergiu em parte: excluir da parte dispositiva a questão de competência; determinar à SRG o uso das informações no tema 3.1 da agenda regulatória e vedar atos instrutórios após conclusão ao relator, salvo exceções da Res. 7.701. Gabriela acompanhou o voto-vista.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "voto-vista: diverge parcialmente (prevalece)",
+     "ts": "1:06:02",
+     "justificativa": "questão de competência não deve ser objeto de determinação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o voto-vista",
+     "ts": "1:07:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator; aparentemente aceita o voto-vista",
+     "ts": "1:07:15",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "1:09:36",
+   "processo": "50300.006232/2020-17 (legenda: «0062 322 mil e 2017»)",
+   "interessado": "não lido (item 12 provavelmente Usuport/THC, vista de Tokarski na ROD 494)",
+   "assunto": "Vista renovada por Adalberto Tokarski, na qualidade de revisor",
+   "tema": [
+    "pedido de vista"
+   ],
+   "relator": "não identificado",
+   "resultado": "vista renovada (Adalberto Tokarski)",
+   "resumo_voto": "Renovação de vista.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "pede vista (renovação)",
+     "ts": "1:09:36",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "1:09:36",
+   "processo": "50300.008451/2016-54",
+   "interessado": "não lido (item 12 provavelmente Usuport/THC, vista de Tokarski na ROD 494)",
+   "assunto": "Vista renovada por Adalberto Tokarski, na qualidade de revisor",
+   "tema": [
+    "pedido de vista"
+   ],
+   "relator": "não identificado",
+   "resultado": "vista renovada (Adalberto Tokarski)",
+   "resumo_voto": "Renovação de vista.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "pede vista (renovação)",
+     "ts": "1:09:36",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "1:09:36",
+   "processo": "50300.016253/2019-15",
+   "interessado": "não lido (item 12 provavelmente Usuport/THC, vista de Tokarski na ROD 494)",
+   "assunto": "Vista renovada por Adalberto Tokarski, na qualidade de revisor",
+   "tema": [
+    "pedido de vista"
+   ],
+   "relator": "não identificado",
+   "resultado": "vista renovada (Adalberto Tokarski)",
+   "resumo_voto": "Renovação de vista.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "pede vista (renovação)",
+     "ts": "1:09:36",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "1:10:28",
+   "processo": "50300.005898/2020-58",
+   "interessado": "ABAC - Associação Brasileira dos Armadores de Cabotagem",
+   "assunto": "Consulta sobre a Resolução ANP 811/2020 (transporte aquaviário de petróleo, derivados, gás e biocombustíveis) e reserva de mercado das EBN (julgamento em bloco dos itens 15 a 17)",
+   "tema": [
+    "navegação e afretamento",
+    "cabotagem",
+    "longo curso",
+    "institucional/ANP"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade nos termos do voto do relator, com as sugestões da revisora incorporadas",
+   "resumo_voto": "Gabriela (vista): sem invasão de competência pela ANP (competência concorrente; canal de diálogo); excluir a frase de que só EBN transportam mercadorias, pois a Lei 9.432 permite outros casos; somente EBN fazem longo curso de exportação de petróleo e derivados; indeferir os demais pleitos, que devem ser levados à ANP. Tokarski ajustou o voto (tirou «mercadorias»; ciência à SRG).",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova (voto substitutivo)",
+     "ts": "1:15:45",
+     "justificativa": "deixar claro que o transporte deve ser feito por EBN autorizada pela ANTAQ; ajustes para harmonizar com a revisora",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "voto-vista: acompanha com ressalvas (incorporadas)",
+     "ts": "1:11:47",
+     "justificativa": "competência concorrente; Lei 9.432 admite empresas não EBN em casos específicos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "1:19:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "1:10:28",
+   "processo": "50300.007282/2020-76 (legenda)",
+   "interessado": "Elcano S.A. (empresa de navegação)",
+   "assunto": "Consulta sobre a Resolução ANP 811/2020 (transporte aquaviário de petróleo, derivados, gás e biocombustíveis) e reserva de mercado das EBN (julgamento em bloco dos itens 15 a 17)",
+   "tema": [
+    "navegação e afretamento",
+    "cabotagem",
+    "longo curso",
+    "institucional/ANP"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade nos termos do voto do relator, com as sugestões da revisora incorporadas",
+   "resumo_voto": "Gabriela (vista): sem invasão de competência pela ANP (competência concorrente; canal de diálogo); excluir a frase de que só EBN transportam mercadorias, pois a Lei 9.432 permite outros casos; somente EBN fazem longo curso de exportação de petróleo e derivados; indeferir os demais pleitos, que devem ser levados à ANP. Tokarski ajustou o voto (tirou «mercadorias»; ciência à SRG).",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova (voto substitutivo)",
+     "ts": "1:15:45",
+     "justificativa": "deixar claro que o transporte deve ser feito por EBN autorizada pela ANTAQ; ajustes para harmonizar com a revisora",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "voto-vista: acompanha com ressalvas (incorporadas)",
+     "ts": "1:11:47",
+     "justificativa": "competência concorrente; Lei 9.432 admite empresas não EBN em casos específicos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "1:19:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "1:10:28",
+   "processo": "50300.003948/2020-71 (legenda)",
+   "interessado": "Associação Nacional de Direito Marítimo, Aduaneiro e Portuário",
+   "assunto": "Consulta sobre a Resolução ANP 811/2020 (transporte aquaviário de petróleo, derivados, gás e biocombustíveis) e reserva de mercado das EBN (julgamento em bloco dos itens 15 a 17)",
+   "tema": [
+    "navegação e afretamento",
+    "cabotagem",
+    "longo curso",
+    "institucional/ANP"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade nos termos do voto do relator, com as sugestões da revisora incorporadas",
+   "resumo_voto": "Gabriela (vista): sem invasão de competência pela ANP (competência concorrente; canal de diálogo); excluir a frase de que só EBN transportam mercadorias, pois a Lei 9.432 permite outros casos; somente EBN fazem longo curso de exportação de petróleo e derivados; indeferir os demais pleitos, que devem ser levados à ANP. Tokarski ajustou o voto (tirou «mercadorias»; ciência à SRG).",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova (voto substitutivo)",
+     "ts": "1:15:45",
+     "justificativa": "deixar claro que o transporte deve ser feito por EBN autorizada pela ANTAQ; ajustes para harmonizar com a revisora",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "voto-vista: acompanha com ressalvas (incorporadas)",
+     "ts": "1:11:47",
+     "justificativa": "competência concorrente; Lei 9.432 admite empresas não EBN em casos específicos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "1:19:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "1:20:00",
+   "processo": "50300.004160/2020 (legenda)",
+   "interessado": "Vopak Brasil S.A. (arrendatária no Porto de Aratu/BA)",
+   "assunto": "Processo sancionador por não apresentar a declaração de cumprimento da CONPORTOS",
+   "tema": [
+    "fiscalização e sanções",
+    "segurança portuária (ISPS/CONPORTOS)"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado (auto insubsistente)",
+   "resumo_voto": "Auto de infração da UR Salvador declarado insubsistente; arquivamento. Gabriela não vota.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, aprova",
+     "ts": "1:22:15",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:22:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "não vota (impedimento)",
+     "ts": "1:22:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "1:22:45",
+   "processo": "50300.009972/2020-13 (legenda: «9972 de 2021/13»)",
+   "interessado": "Localfrio S.A. Armazéns Gerais Frigoríficos (arrendatária no Porto de Suape/PE); Complexo Industrial Portuário de Suape",
+   "assunto": "Pedido de reequilíbrio econômico-financeiro do contrato de arrendamento (cerca de R$ 27 milhões): investimentos adicionais, exigências da Receita Federal e Bombeiros, IPTU e Covid-19",
+   "tema": [
+    "arrendamento em porto organizado",
+    "reequilíbrio econômico-financeiro",
+    "Covid-19"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por unanimidade (reequilíbrio indeferido)",
+   "resumo_voto": "Sustentação oral do advogado da Localfrio (nome incerto): análise preliminar sem base na Portaria MInfra 530 e sem avaliação econômico-financeira. Nery: admissibilidade antes do fluxo de caixa marginal é coerente com o manual da ANTAQ (Res. 7.315) e a Portaria 530; IPTU é risco da arrendatária; sem nexo entre pandemia e queda de faturamento (já caía desde 2012); investimentos eram obrigação contratual; equipamentos para a Receita podem ser cobrados (preços livres).",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, indefere o reequilíbrio",
+     "ts": "1:33:45",
+     "justificativa": "nenhum evento de desequilíbrio admitido; não há por que calcular fluxo de caixa marginal; eficiência administrativa",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:46:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:46:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "1:46:58",
+   "processo": "50300.000230/2014 (legenda; incerto)",
+   "interessado": "APM Terminals Itajaí S.A.; Superintendência do Porto de Itajaí",
+   "assunto": "Processo sancionador por não fornecer dados de movimentação de veículos e cargas não conteinerizadas",
+   "tema": [
+    "fiscalização e sanções",
+    "arrendamento em porto organizado",
+    "TAC"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado",
+   "resumo_voto": "Auto insubsistente; SFC deve propor TAC com obrigação de fornecer os dados; sem TAC, multa de R$ 326.700 e cumprimento em 60 dias. Gabriela não atua.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, aprova",
+     "ts": "1:47:49",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:49:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "não vota (não atua no processo)",
+     "ts": "1:49:11",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "1:49:37",
+   "processo": "50300.002403/2019-12",
+   "interessado": "ANTAQ (SRG)",
+   "assunto": "Guia de mensuração da carga administrativa: metodologia de custo de conformidade regulatória (estoque regulatório e AIR)",
+   "tema": [
+    "regulação normativa (resolução, consulta pública, agenda regulatória, AIR)",
+    "desburocratização"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Publicação do guia no sítio da ANTAQ; elogios à SRG.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, aprova",
+     "ts": "1:50:58",
+     "justificativa": "quantificar o custo de cada nova norma antes de editá-la",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:51:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:51:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "22-24",
+   "ts": "1:52:44",
+   "processo": "50300.014718/2008, 50300.002364/2020, 50300.011648/2020 (legenda; incertos)",
+   "interessado": "não lidos",
+   "assunto": "Itens 22, 23 e 24 retirados de pauta pelo relator",
+   "tema": [
+    "retirado de pauta"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "retirados de pauta",
+   "resumo_voto": "Nery retirou os três processos.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "retira de pauta",
+     "ts": "1:53:17",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "25",
+   "ts": "1:53:45",
+   "processo": "50300.002867/2021-26",
+   "interessado": "Empresa Maranhense de Administração Portuária (EMAP); Suzano S.A. (Porto do Itaqui/MA)",
+   "assunto": "Autorizar aditivo ao contrato de transição 13/2020 para incluir 3.500 m² da antiga Conab (movimentação de celulose)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "contrato de transição"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aditar o instrumento vigente é mais eficiente que novo contrato; baixo risco de perpetuação (arrendamento IQI18 já contratado).",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, aprova",
+     "ts": "1:56:29",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:57:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:57:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "ts": "1:58:19",
+   "processo": "50300.016612/20xx (legenda incompleta)",
+   "interessado": "Júlio Souza Silveira",
+   "assunto": "Outorga de autorização para EBN na navegação de apoio portuário (embarcações até 2.000 HP)",
+   "tema": [
+    "navegação e afretamento",
+    "apoio portuário",
+    "outorga de autorização"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "SOG atualiza certidões vencidas antes do termo.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, aprova",
+     "ts": "1:58:45",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:59:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:59:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "28",
+   "ts": "2:00:09",
+   "processo": "50300.016447/20xx (legenda incompleta)",
+   "interessado": "Bandeirantes Deicmar Logística Integrada S.A.",
+   "assunto": "Tabela de preços do terminal: rubrica de seguro ad valorem / gerenciamento de risco",
+   "tema": [
+    "serviços nos terminais (armazenagem)",
+    "tarifas portuárias",
+    "RN 34"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Rubrica remunera serviço já pago pela armazenagem; retirar da tabela sob pena de auto de infração (RN 34); SFC instaura fiscalização (precedente Libra Rio).",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:01:02",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:04:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:04:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "27",
+   "ts": "2:04:44",
+   "processo": "50300.018650/2020-57",
+   "interessado": "Agro Madeiral Parintins Ltda. (Parintins/AM)",
+   "assunto": "Registro de instalação de apoio ao transporte aquaviário (IP4)",
+   "tema": [
+    "instalação de apoio / IP4",
+    "navegação interior"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Registro deferido (a legenda diz «indeferir», mas o restante do voto trata do registro deferido).",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, aprova",
+     "ts": "2:05:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:06:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:06:04",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "29",
+   "ts": "2:06:30",
+   "processo": "50300.010363/2020-15 (legenda; incerto)",
+   "interessado": "Ecoporto Santos S.A. (Porto de Santos)",
+   "assunto": "Tabela de preços: rubrica de gerenciamento de risco",
+   "tema": [
+    "serviços nos terminais (armazenagem)",
+    "tarifas portuárias",
+    "RN 34"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Seguro é obrigação contratual do arrendatário e remunerado pela armazenagem; retirar a rubrica imediatamente; SFC fiscaliza.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:09:35",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:10:27",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:10:29",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "30",
+   "ts": "2:10:27",
+   "processo": "50300.002508/2014-16 (legenda; incerto)",
+   "interessado": "Zamin Amapá Mineração S.A. (TUP em Santana/AP)",
+   "assunto": "Julgamento do TAC 3/2015 da UR Belém (certificação de segurança CONPORTOS/CESPORTOS)",
+   "tema": [
+    "fiscalização e sanções",
+    "TAC",
+    "autorização de TUP / terminal de uso privado",
+    "segurança portuária"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "pedido de vista (Gabriela Costa); julgamento suspenso",
+   "resumo_voto": "Tokarski antecipou voto divergindo do parecer técnico: TAC descumprido (sem declaração de cumprimento); multa de R$ 100 mil; SFC deve seguir o processo sancionador e apurar responsabilidade de sócios e sucessores. Menciona acidente grave e abandono do terminal.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova (voto antecipado)",
+     "ts": "2:11:22",
+     "justificativa": "TAC descumprido; terminal abandonado após acidente; multa de R$ 100 mil",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "pede vista",
+     "ts": "2:10:52",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "31",
+   "ts": "2:20:14",
+   "processo": "50300.006661/2019-51 (legenda)",
+   "interessado": "Zim do Brasil Ltda. (demanda da Ouvidoria)",
+   "assunto": "Retirado de pauta pelo relator após observações do DG",
+   "tema": [
+    "retirado de pauta",
+    "tarifas portuárias (THC)"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "retirado de pauta",
+   "resumo_voto": "Tokarski retirou para nova análise.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "retira de pauta",
+     "ts": "2:20:39",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "32",
+   "ts": "2:20:39",
+   "processo": "50300.000221/2021-21 (legenda)",
+   "interessado": "JCM Navegações",
+   "assunto": "Outorga de autorização para transporte misto na navegação interior longitudinal interestadual (Macapá/AP - Portel/PA)",
+   "tema": [
+    "navegação interior",
+    "outorga de autorização",
+    "Amazônia"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "RN 912; SOG atualiza certidões.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:21:56",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:22:22",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:22:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "33",
+   "ts": "2:22:25",
+   "processo": "50300.000292/2021-33 (legenda)",
+   "interessado": "Marinho Transportes Hidroviários da Amazônia Ltda.",
+   "assunto": "Desmembramento do termo de autorização 542 por linha (Acórdão 228/2020)",
+   "tema": [
+    "navegação interior",
+    "outorga de autorização",
+    "Amazônia"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Medida decorrente de deliberação da Diretoria; elogio à celeridade do corpo técnico.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:24:15",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:24:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:24:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "34",
+   "ts": "2:24:40",
+   "processo": "50300.001324/2018-96",
+   "interessado": "Cras (legenda incerta) Agroindústria Ltda.",
+   "assunto": "Registro de instalação de apoio ao transporte aquaviário (julgamento em bloco dos itens 34 a 36)",
+   "tema": [
+    "instalação de apoio / IP4",
+    "navegação interior"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "RN 13; registro não desonera exigências de outros órgãos.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:26:28",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:27:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:27:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "35",
+   "ts": "2:24:40",
+   "processo": "50300.014482/2015-21",
+   "interessado": "Esquivel e Max (legenda incerta) Ltda.",
+   "assunto": "Registro de instalação de apoio ao transporte aquaviário (julgamento em bloco dos itens 34 a 36)",
+   "tema": [
+    "instalação de apoio / IP4",
+    "navegação interior"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "RN 13; registro não desonera exigências de outros órgãos.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:26:28",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:27:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:27:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "36",
+   "ts": "2:24:40",
+   "processo": "50300.022868/2020-14",
+   "interessado": "Benevides Madeira Ltda.",
+   "assunto": "Registro de instalação de apoio ao transporte aquaviário (julgamento em bloco dos itens 34 a 36)",
+   "tema": [
+    "instalação de apoio / IP4",
+    "navegação interior"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "RN 13; registro não desonera exigências de outros órgãos.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:26:28",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:27:23",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:27:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "37",
+   "ts": "2:27:49",
+   "processo": "50300.007935/2020-24 (legenda)",
+   "interessado": "Terminais Portuários da Ponta do Félix S.A.",
+   "assunto": "Pedido de arbitragem: retirado de pauta pelo relator após considerações do DG",
+   "tema": [
+    "mediação/arbitragem",
+    "retirado de pauta"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "retirado de pauta",
+   "resumo_voto": "Nova análise.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "retira de pauta",
+     "ts": "2:28:16",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "38",
+   "ts": "2:28:43",
+   "processo": "50300.011633/2017-93",
+   "interessado": "Portofer Transporte Ferroviário Ltda. (Porto de Santos)",
+   "assunto": "Processo sancionador (art. 32, XXXVIII, da Res. 3.274) sobre ocupação de área em porto organizado",
+   "tema": [
+    "fiscalização e sanções",
+    "porto organizado / áreas não operacionais"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado nos termos do voto do revisor Eduardo Nery (auto insubsistente por outro fundamento), com voto de qualidade do DG (art. 12 do Decreto 4.122/2002)",
+   "resumo_voto": "Relator: insubsistência por falta de competência da ANTAQ (cessão de uso, área não operacional; Res. 7.735). Nery: insubsistência porque o auto foi lavrado antes de vencer o prazo do plano de ação; competência da ANTAQ sobre áreas não operacionais deve ser mantida; SRG deve avaliar os limites na revisão da Res. 3.274 e da RN 7. Gabriela não atua.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, auto insubsistente por incompetência (fundamento vencido)",
+     "ts": "2:29:09",
+     "justificativa": "relação é cessão de uso onerosa, não arrendamento; ANTAQ sem competência para disciplinar áreas não afetas à operação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "diverge quanto ao fundamento (prevalece)",
+     "ts": "2:31:22",
+     "justificativa": "auto lavrado antes do fim do prazo pactuado; competência fiscalizatória deve ser mantida",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "não vota (não atua no processo)",
+     "ts": "2:30:55",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "39",
+   "ts": "2:34:31",
+   "processo": "50300.021098/2020-84",
+   "interessado": "Ministério da Infraestrutura; porto organizado de Maceió/AL",
+   "assunto": "Análise das 49 contribuições da Audiência Pública 2/2020 do arrendamento MAC14 (carga geral, cavaco de madeira)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "licitação",
+    "audiência pública"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Autos ao MInfra e depois ao TCU; CPLA consolida documentos. Nery elogiou a CPLA e a administração do porto de Maceió.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:36:46",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "acompanha o relator",
+     "ts": "2:37:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:38:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "40",
+   "ts": "2:38:59",
+   "processo": "50300.002634/2021-23",
+   "interessado": "Ministério da Infraestrutura; SCPar Porto de Imbituba/SC",
+   "assunto": "Arrendamento simplificado da área IMB05 (granel líquido, soda cáustica): dispensa de consulta e audiência pública",
+   "tema": [
+    "arrendamento em porto organizado",
+    "arrendamento simplificado",
+    "licitação"
+   ],
+   "relator": "Gabriela Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Dispensa de audiência pelo valor global (art. 11, §3º, Decreto 8.033); primeiro arrendamento simplificado (Res. 7.821/2020).",
+   "votos": [
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "relatora, aprova",
+     "ts": "2:40:22",
+     "justificativa": "estudos simplificados agilizam terminais pequenos e médios",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha a relatora",
+     "ts": "2:41:15",
+     "justificativa": "arrendamento simplificado dará celeridade a mais de uma centena de áreas ociosas; referência deve ser o metro quadrado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a relatora",
+     "ts": "2:42:35",
+     "justificativa": "Res. 7.821/2020 impulsiona o arrendamento simplificado para mitigar ociosidade",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "41",
+   "ts": "2:44:17",
+   "processo": "50300.002293/20xx (legenda incompleta)",
+   "interessado": "Mega Logística Serviços Portuários Ltda.",
+   "assunto": "Outorga de autorização de EBN para granel sólido na navegação interior longitudinal interestadual (região amazônica)",
+   "tema": [
+    "navegação interior",
+    "outorga de autorização",
+    "Amazônia"
+   ],
+   "relator": "Gabriela Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Res. 1.558.",
+   "votos": [
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "relatora, aprova",
+     "ts": "2:44:43",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha a relatora",
+     "ts": "2:45:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a relatora",
+     "ts": "2:45:12",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "42",
+   "ts": "2:45:37",
+   "processo": "50300.003078/2021-11 (legenda; incerto)",
+   "interessado": "Empresário individual (nome incerto: «... de Lima Azevedo»)",
+   "assunto": "Retificação e desmembramento do termo de autorização 1.029 (transporte misto na Amazônia) conforme Acórdão 228/2020",
+   "tema": [
+    "navegação interior",
+    "outorga de autorização",
+    "Amazônia"
+   ],
+   "relator": "Gabriela Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Delega a SOG para retificações e desmembramentos semelhantes.",
+   "votos": [
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "relatora, aprova",
+     "ts": "2:46:05",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha a relatora",
+     "ts": "2:47:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a relatora",
+     "ts": "2:47:22",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "43",
+   "ts": "2:47:22",
+   "processo": "50300.021512/2020-55",
+   "interessado": "Município de Cametá/PA",
+   "assunto": "Registro de instalação de apoio ao transporte aquaviário (porto municipal; nome incerto na legenda)",
+   "tema": [
+    "instalação de apoio / IP4",
+    "navegação interior",
+    "passageiros"
+   ],
+   "relator": "Gabriela Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Registro deferido, com adequações para passageiros (art. 4º da RN 13) em cronograma com a SFC.",
+   "votos": [
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "relatora, aprova",
+     "ts": "2:47:47",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha a relatora",
+     "ts": "2:48:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a relatora",
+     "ts": "2:48:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "44",
+   "ts": "2:49:07",
+   "processo": "50300.01x886/2021 (legenda incompleta)",
+   "interessado": "Limpar Navegação e Serviços Eireli (Parintins/AM)",
+   "assunto": "Registro de instalação de apoio ao transporte aquaviário",
+   "tema": [
+    "instalação de apoio / IP4",
+    "navegação interior"
+   ],
+   "relator": "Gabriela Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Registro deferido.",
+   "votos": [
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "relatora, aprova",
+     "ts": "2:49:33",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha a relatora",
+     "ts": "2:50:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a relatora",
+     "ts": "2:50:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "45",
+   "ts": "2:50:25",
+   "processo": "50300.018882/2021-13 (legenda; incerto)",
+   "interessado": "ANTAQ",
+   "assunto": "Proposta de cancelamento da Súmula Administrativa ANTAQ 1/2004 (Decreto 10.139/2019)",
+   "tema": [
+    "regulação normativa (resolução, consulta pública, agenda regulatória, AIR)",
+    "navegação interior",
+    "faixa de fronteira"
+   ],
+   "relator": "Gabriela Costa",
+   "resultado": "aprovado por unanimidade (cancelamento não acolhido)",
+   "resumo_voto": "Súmula ainda é o único instrumento sobre a competência em faixa de fronteira; temas pendentes em outros autos tornam o cancelamento prematuro.",
+   "votos": [
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "relatora, aprova",
+     "ts": "2:50:50",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha a relatora",
+     "ts": "2:53:01",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a relatora",
+     "ts": "2:53:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "46",
+   "ts": "2:53:05",
+   "processo": "50300.000379/2021-36 (legenda)",
+   "interessado": "SCPar Porto de Imbituba S.A.",
+   "assunto": "Inclusão de modalidade tarifária para contratos de uso temporário e arrendamentos simplificados (soda cáustica)",
+   "tema": [
+    "tarifas portuárias",
+    "arrendamento simplificado"
+   ],
+   "relator": "Gabriela Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa novo item tarifário; arrecadação condicionada à conclusão dos estudos e da revisão tarifária (RN 32).",
+   "votos": [
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "relatora, aprova",
+     "ts": "2:54:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha a relatora",
+     "ts": "2:55:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a relatora",
+     "ts": "2:55:42",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "47",
+   "ts": "2:55:40",
+   "processo": "50300.015928/2020-34",
+   "interessado": "Companhia Docas de São Sebastião (CDSS)",
+   "assunto": "Revisão e padronização da estrutura tarifária do porto de São Sebastião/SP",
+   "tema": [
+    "tarifas portuárias"
+   ],
+   "relator": "Gabriela Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologa a revisão (RN 32); 30 dias para implantação após publicação.",
+   "votos": [
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "relatora, aprova",
+     "ts": "2:56:33",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha a relatora",
+     "ts": "2:57:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a relatora",
+     "ts": "2:57:51",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "48",
+   "ts": "2:57:51",
+   "processo": "50300.018097/2020-52 (legenda)",
+   "interessado": "Marimex Despachos, Transportes e Serviços Ltda.; Brasil Terminal Portuário S.A. (BTP)",
+   "assunto": "Representação com cautelar contra suposto aumento abusivo do SSE na pandemia",
+   "tema": [
+    "serviços nos terminais",
+    "tarifas portuárias (THC, SSE, cesta de serviços)"
+   ],
+   "relator": "Gabriela Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Extinção: BTP não aplicou o aumento e admitiu erro de estratégia de preços.",
+   "votos": [
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "relatora, aprova",
+     "ts": "2:59:05",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha a relatora",
+     "ts": "3:00:02",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a relatora",
+     "ts": "3:00:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "49",
+   "ts": "3:00:02",
+   "processo": "50300.007890/2019-92",
+   "interessado": "FedEx Brasil Logística e Transporte Ltda.; Complexo Industrial Portuário de Suape",
+   "assunto": "Devolução de área e reversão de bens ao fim do contrato de arrendamento 57/2001",
+   "tema": [
+    "arrendamento em porto organizado",
+    "reversão de bens"
+   ],
+   "relator": "Gabriela Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Autos ao MInfra para reversão e para analisar possível conflito no convênio de delegação de Suape.",
+   "votos": [
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "relatora, aprova",
+     "ts": "3:01:45",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha a relatora",
+     "ts": "3:02:37",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a relatora",
+     "ts": "3:02:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "50",
+   "ts": "3:02:37",
+   "processo": "50300.000556/2021-22",
+   "interessado": "Companhia Docas do Espírito Santo (Codesa); TVV - Terminal de Vila Velha S.A.",
+   "assunto": "Autorizar contrato de transição de 54.086 m² na retroárea de Capuaba (armazenagem de veículos), porto de Vitória, por 180 dias",
+   "tema": [
+    "arrendamento em porto organizado",
+    "contrato de transição"
+   ],
+   "relator": "Gabriela Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Condicionado a cláusulas do art. 34 da RN 7; renovável até a desestatização/licitação.",
+   "votos": [
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "relatora, aprova",
+     "ts": "3:03:55",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha a relatora",
+     "ts": "3:05:14",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a relatora",
+     "ts": "3:05:16",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "51",
+   "ts": "3:05:14",
+   "processo": "50300.003657/2021-55 (legenda; incerto)",
+   "interessado": "Companhia Docas do Pará (CDP); Petróleo Sabbá S.A.; Petrobras Distribuidora",
+   "assunto": "Aditivo ao contrato de transição 11/2020 para incluir área da BR Distribuidora (BEL02A) até o consórcio vencedor da licitação assumir",
+   "tema": [
+    "arrendamento em porto organizado",
+    "contrato de transição",
+    "combustíveis"
+   ],
+   "relator": "Gabriela Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Risco de desabastecimento de combustíveis; prazo de até 180 dias; revoga Res. 5.903/2018.",
+   "votos": [
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "relatora, aprova",
+     "ts": "3:07:51",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha a relatora",
+     "ts": "3:08:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a relatora",
+     "ts": "3:08:47",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "52",
+   "ts": "3:08:45",
+   "processo": "50300.004000/2021-13 (legenda; incerto)",
+   "interessado": "Triunfo Logística Ltda.; Companhia Docas do Rio de Janeiro",
+   "assunto": "Pedido de arbitramento com cautelar contra reajuste contratual pelo IGP-M",
+   "tema": [
+    "mediação/arbitragem",
+    "arrendamento em porto organizado"
+   ],
+   "relator": "Gabriela Costa",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Extinção por desistência da requerente (tema em discussão no poder concedente).",
+   "votos": [
+    {
+     "diretor": "Gabriela Costa",
+     "voto": "relatora, aprova",
+     "ts": "3:10:02",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha a relatora",
+     "ts": "3:10:27",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha a relatora",
+     "ts": "3:10:30",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "3",
+   "processo": "50300.011829/2016-05",
+   "por": "pedido das partes"
+  },
+  {
+   "id": "22-24",
+   "processo": "ver item",
+   "por": "Eduardo Nery"
+  },
+  {
+   "id": "31",
+   "processo": "50300.006661/2019-51",
+   "por": "Adalberto Tokarski"
+  },
+  {
+   "id": "37",
+   "processo": "50300.007935/2020-24",
+   "por": "Adalberto Tokarski"
+  }
+ ],
+ "limites_da_analise": [
+  "Data da reunião não confirmada (ver observações).",
+  "Legenda automática: números de processo frequentemente incompletos e nomes de empresas incertos (itens 16, 26, 34, 35, 42, 44); valores conferir no SEI.",
+  "«Doutor Roberto/Alberto» na legenda = Adalberto Tokarski.",
+  "Votos de Francisval Mendes em itens de vista (4, 5, 6-7, 8) foram proferidos em reuniões anteriores e não constam como votos desta sessão.",
+  "Itens 10-11: posição final de Tokarski não está clara na legenda.",
+  "Item 21: número do processo dito como 2021, mas o pedido é de jun/2020; ano incerto.",
+  "Item 27: legenda diz «indeferir», mas o texto trata de registro deferido.",
+  "ts dos votos de quem só acompanha são aproximados."
+ ]
+}
