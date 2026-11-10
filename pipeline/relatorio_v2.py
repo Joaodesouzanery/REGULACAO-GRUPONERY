@@ -24,7 +24,7 @@ CRED = {}
 if os.path.exists("docs/marca/setores/CREDITOS.md"):
     for l in open("docs/marca/setores/CREDITOS.md"):
         c_ = [x.strip() for x in l.split("|")]
-        if len(c_) > 5 and "." in c_[1]: CRED[c_[1].split(".")[0]] = f"Foto: {c_[3]} ({c_[4]}), Wikimedia Commons"
+        if len(c_) > 5 and "." in c_[1]: CRED[c_[1].split(".")[0]] = f"Foto: {c_[3]} ({c_[4]})"
 _C = {}
 def conn(ag):
     if ag not in _C:
@@ -94,9 +94,13 @@ def do_md(md):
         if m:
             lk = re.search(r"\((https?://[^)]+)\)", l); resto = re.sub(r"\[[^\]]+\]\([^)]+\)", "", m.group(4))
             partes = [x.strip() for x in resto.split("·") if x.strip()]
-            ass, _, res = (partes[0] if partes else "").partition("→")
-            votos = next((x for x in partes[1:] if x.startswith("votos:") or x.startswith("relator")), "")
-            cards.append({"rd": f"Reunião {m.group(1)}", "data": m.group(2), "item": m.group(3).strip(), "assunto": ass.strip(), "voto": res.strip() or votos, "rotulo": "Resultado" if res.strip() else "Votos", "just": "", "trecho": "", "link": lk.group(1) if lk else "", "tag": "precedente"})
+            pa = next((x for x in partes if "→" in x), next((x for x in partes if not x.startswith(("relator", "votos:"))), ""))
+            ass, _, res = pa.partition("→")
+            rel = next((x for x in partes if x.startswith("relator")), "")
+            votos = next((x for x in partes if x.startswith("votos:")), "") or rel
+            if rel and res: res = f"{res.strip()} ({rel})"
+            nr = re.sub(r"\s*Reuni[ãa]o\s*", " ", m.group(1)).strip()
+            cards.append({"rd": f"Reunião {nr}", "data": m.group(2), "item": m.group(3).strip(), "assunto": ass.strip(), "voto": res.strip() or votos, "rotulo": "Resultado" if res.strip() else "Votos", "just": "", "trecho": "", "link": lk.group(1) if lk else "", "tag": "precedente"})
     return {"kpis": kpis, "barras": [b for b in barras if b[1] > 0][:8], "titulo_graf": tg, "cards": cards[:3], "fonte": "classificação automática; ver anexo"}
 Q = []
 for i, (q, t) in enumerate(perg):
@@ -130,7 +134,7 @@ hoje = datetime.date.today().strftime("%d/%m/%Y")
 ags = " · ".join(dict.fromkeys(x["ag"].upper() for x in Q))
 for x in Q: x["st"] = setor_de(x) or "rodovias"
 usados = sorted({x["st"] for x in Q} | {{"antt": "rodovias", "anm": "mineracao", "antaq": "portos"}.get((Q[0]["ag"] if Q else AG), "rodovias")})
-IMG_CSS = "".join(f'.fc-{s}{{background-image:url({b64(f"{REC}/{s}_capa.jpg")})}}.fp-{s}{{background-image:url({b64(f"{REC}/{s}_painel.jpg")})}}' for s in usados if foto(s))
+IMG_CSS = "".join(f'.fc-{s}{{background-image:url({b64(f"{REC}/{s}_capa.jpg")})}}.fp-{s}{{background-image:url({b64(f"{REC}/{s}_painel.jpg")})}}.fk-{s}{{background-image:url({b64(f"{REC}/{s}_cartao.jpg") or b64(f"{REC}/{s}_capa.jpg")})}}' for s in usados if foto(s))
 COR_CSS = "".join(f'.s-{s}{{--ac:{v.get("cor", "#C99A06")}}}' for s, v in FOCO.items())
 S = []
 capa = {"antt": "rodovias", "anm": "mineracao", "antaq": "portos"}.get((Q[0]["ag"] if Q else AG), "rodovias")
@@ -140,8 +144,8 @@ S.append(f'''<section class="pg capa fc-{capa}"><div class="veu"></div>
 <h1>{E(TIT)}</h1><div class="onda"></div><p>{E(SUB)}</p><div class="meta">{hoje} · {len(Q)} perguntas</div></div>
 <div class="cred">{E(CRED.get(capa, ""))}</div></section>''')
 # sumário: uma página, grade de cartões (foto 16:9 sem corte + número + pergunta)
-cards = "".join(f'''<div class="sc s-{x["st"]}"><div class="sc-f fc-{x["st"]}"></div><div class="sc-b"><div class="sc-tag"><b>{i+1:02d}</b>{E(SET_NOME.get(x["st"], ""))} · {E(x["ag"].upper())}</div>
-<div class="sc-t">{E(frase(x["q"], 120))}</div></div></div>''' for i, x in enumerate(Q[:10]))
+cards = "".join(f'''<div class="sc s-{x["st"]} fk-{x["st"]}"><div class="sc-veu"></div><div class="sc-tag">• {E(SET_NOME.get(x["st"], ""))}<span>{E(x["ag"].upper())}</span></div>
+<div class="sc-n">{i+1:02d}</div><div class="sc-t">{E(frase(x["q"], 110))}</div></div>''' for i, x in enumerate(Q[:10]))
 S.append(f'''<section class="pg sum"><div class="sum-top"><h2>O que respondemos</h2>{f'<img class="logo-s" src="{LOGO_B}" alt="">' if LOGO_B else ''}</div><div class="sum-grid">{cards}</div></section>''')
 def card(c):
     lk = c["link"]
@@ -151,7 +155,8 @@ def card(c):
 <h4>{E(c["rd"])} · item {E(str(c["item"]))}</h4><p class="ev-a">{E(frase(c["assunto"], 150 if (c["trecho"] or c["just"]) else 320))}</p>
 {f'<p class="ev-v"><b>{c.get("rotulo", "Voto")}:</b> {E(frase(c["voto"], 90))}</p>' if c["voto"] else ""}{corpo}{bt}</article>'''
 def mini(B):
-    B = [b for b in B if b[1] > 0][:5]
+    B = sorted([b for b in B if b[1] > 0], key=lambda b: -b[1]) if not any(k in ("Relator", "Acompanha") for k, _ in B) else [b for b in B if b[1] > 0]
+    B = B[:5]
     if not B: return '<p class="vazio">Sem dados para o gráfico neste recorte.</p>'
     mx = max(v for _, v in B)
     return "".join(f'<div class="mb"><span class="mb-l">{E(k[:26])}</span><span class="mb-t"><i style="width:{max(2, round(100*v/mx))}%" class="{"hi" if j==0 else ""}"></i></span><b>{fmt(v)}</b></div>' for j, (k, v) in enumerate(B))
@@ -165,7 +170,7 @@ for i, x in enumerate(Q):
 <h2>{E(x["q"])}</h2><p class="lead">{E(frase(x["curta"], 400))}</p>
 <div class="meio"><div class="kpis">{kp}</div><div class="mini"><div class="mini-h">{E(d["titulo_graf"])}</div>{mini(d["barras"])}</div></div>
 <div class="evs{"" if any(c["trecho"] or c["just"] for c in esc) else " curto"}">{"".join(card(c) for c in (esc if any(c["trecho"] or c["just"] for c in esc) else cs[:3])) or '<p class="vazio">Sem evidências individuais neste recorte.</p>'}</div>
-<div class="rod">Fonte: reuniões públicas de diretoria ({E(x["ag"].upper())}), vídeos oficiais · trechos da legenda automática do YouTube (podem conter erros) · evidência completa no anexo e na base.</div></div></section>''')
+<div class="pag">{{PAGN}}</div><div class="rod">Fonte: reuniões públicas de diretoria ({E(x["ag"].upper())}), vídeos oficiais · trechos da legenda automática do YouTube (podem conter erros) · evidência completa no anexo e na base.</div></div></section>''')
 if ANEXO:
     linhas = [(f'{k+1:02d}', c) for k, x in enumerate(Q) for c in x["dados"]["cards"][:3]]
     for a in range(0, len(linhas), 12):
@@ -189,16 +194,18 @@ h1,h2,h3,h4{font-family:'Rubik','Inter',sans-serif;margin:0;letter-spacing:-.01e
 .cartao p{font-size:13pt;line-height:1.5;color:#E8E5DE;margin:0}.meta{margin-top:.3in;font-size:10pt;color:#BDB8AE}.cred{position:absolute;right:.3in;bottom:.18in;font-size:7pt;color:rgba(255,255,255,.7)}
 .sum{background:var(--ink);color:#fff;padding:.45in .55in}.sum-top{display:flex;align-items:center;margin-bottom:.3in}.sum-top h2{font-size:26pt;font-weight:500}.logo-s{height:.3in;margin-left:auto}
 .sum-grid{display:grid;grid-template-columns:repeat(5,1fr);grid-template-rows:repeat(2,1fr);gap:.16in;height:5.95in}
-.sc{background:#1C1B18;border-radius:10px;overflow:hidden;display:flex;flex-direction:column;border-top:3px solid var(--ac)}.sc-f{aspect-ratio:16/9;flex:none}
-.sc-b{padding:.12in .14in;display:flex;flex-direction:column;gap:.06in;min-height:0}.sc-tag{font-size:8.5pt;color:#A9A49A;letter-spacing:.04em;text-transform:uppercase;display:flex;gap:.08in;align-items:baseline}.sc-tag b{font-family:Rubik;font-size:15pt;color:var(--gold-2);font-weight:500}
-.sc-t{font-family:Rubik;font-size:10.5pt;line-height:1.28;font-weight:500;color:#F2EFE8}
+.sc{position:relative;border-radius:12px;overflow:hidden;color:#fff;background-color:#2A2824;box-shadow:inset 0 0 0 1px rgba(255,255,255,.06)}
+.sc-veu{position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.45),rgba(0,0,0,0) 32%,rgba(0,0,0,.25) 50%,rgba(0,0,0,.85))}
+.sc-tag{position:absolute;top:.14in;left:.16in;right:.16in;font-size:8pt;font-weight:700;letter-spacing:.08em;text-transform:uppercase;display:flex;justify-content:space-between}.sc-tag span{opacity:.75;font-weight:600}
+.sc-n{position:absolute;left:.16in;bottom:1.02in;font-family:Rubik;font-size:22pt;font-weight:500;color:var(--gold-2)}
+.sc-t{position:absolute;left:.16in;right:.16in;bottom:.16in;font-family:Rubik;font-size:10.5pt;line-height:1.25;font-weight:500;border-top:2px solid var(--ac);padding-top:.08in}
 .q{display:flex}.q-f{width:2.9in;flex:none;position:relative;background-color:#2A2824}.q-veu{position:absolute;inset:0;background:linear-gradient(180deg,rgba(11,11,11,.25),rgba(11,11,11,0) 30%,rgba(11,11,11,.7))}
 .q-tag{position:absolute;top:.35in;left:.32in;font-size:9pt;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#fff;border-left:3px solid var(--ac);padding-left:.1in}
 .q-n{position:absolute;left:.3in;bottom:.3in;font-family:Rubik;font-size:72pt;line-height:1;color:#fff;font-weight:500}
 .q-c{flex:1;padding:.36in .5in .5in .5in;display:flex;flex-direction:column;min-width:0}
 .top{display:flex;align-items:center;gap:.1in;font-size:8.5pt;color:var(--grey);letter-spacing:.08em;text-transform:uppercase}.top .num{color:var(--ac);font-weight:700}.top .dot{color:var(--ac)}.logo-p{height:.22in;margin-left:auto}
 .q h2{font-size:19pt;line-height:1.18;font-weight:600;margin:.16in 0 .1in}.lead{font-size:11.5pt;line-height:1.5;color:#2B2925;margin:0}
-.meio{display:flex;gap:.35in;margin:.2in 0 .18in;align-items:stretch}.kpis{display:flex;gap:.2in;flex:1.1}.kpi{flex:1;border-top:3px solid var(--ac);padding-top:.1in}.kpi b{display:block;font-family:Rubik;font-size:26pt;font-weight:500;line-height:1}.kpi span{display:block;font-size:8.5pt;color:var(--grey);margin-top:.06in;line-height:1.3}
+.meio{display:flex;gap:.35in;margin:.2in 0 .18in;align-items:stretch}.kpis{display:flex;gap:.2in;flex:1.1}.kpi{flex:1;border-top:3px solid var(--ac);padding-top:.1in}.kpi b{display:block;font-family:Rubik;font-size:30pt;font-weight:500;line-height:1}.kpi span{display:block;font-size:8.5pt;color:var(--grey);margin-top:.06in;line-height:1.3}
 .mini{flex:1;background:var(--mist);border-radius:10px;padding:.12in .16in}.mini-h{font-size:8pt;letter-spacing:.08em;text-transform:uppercase;color:var(--grey);margin-bottom:.05in}
 .mb{display:flex;align-items:center;gap:.08in;font-size:8.5pt;margin:2px 0}.mb-l{width:1.5in;color:#3A3833;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.mb-t{flex:1;height:9px;background:#E7E3DA;border-radius:5px;overflow:hidden}.mb-t i{display:block;height:100%;background:#B9B2A3;border-radius:5px}.mb-t i.hi{background:var(--ac)}.mb b{width:.45in;text-align:right;font-size:8.5pt}
 .evs{display:grid;grid-template-columns:1fr 1fr;gap:.18in;flex:1;min-height:0}.evs.curto{grid-template-columns:repeat(3,1fr);flex:none;margin-top:.1in}.evs.curto .ev{min-height:1.9in}
@@ -206,10 +213,12 @@ h1,h2,h3,h4{font-family:'Rubik','Inter',sans-serif;margin:0;letter-spacing:-.01e
 .ev-top{display:flex;justify-content:space-between;font-size:8pt;color:var(--grey)}.pill{background:var(--mist);border-radius:99px;padding:1px 8px;font-weight:600;color:#3A3833}.pill.warn{background:#FFF3D2;color:#8A6400}
 .ev h4{font-size:11pt;font-weight:600}.ev p{margin:0;font-size:8.8pt;line-height:1.4}.ev-a{color:#2B2925}.ev-v{color:#3A3833}.ev-j{color:#3A3833}.ev-t{color:#5E5A52;font-style:italic;border-left:2px solid var(--line);padding-left:.08in}
 .btn{margin-top:auto;align-self:flex-start;background:var(--ink);color:#fff;text-decoration:none;font-size:8.5pt;font-weight:600;padding:5px 12px;border-radius:99px}
-.vazio{color:var(--grey);font-size:10pt;margin:0}.rod{position:absolute;left:3.4in;right:.5in;bottom:.18in;font-size:7.5pt;color:var(--grey)}
+.vazio{color:var(--grey);font-size:10pt;margin:0}.rod{position:absolute;left:3.4in;right:1.3in;bottom:.18in;font-size:7.5pt;color:var(--grey)}.pag{position:absolute;right:.5in;bottom:.16in;font-size:8pt;font-weight:700;color:var(--ac);letter-spacing:.06em}
 .anexo{padding:.45in .55in}.anexo h3{font-size:18pt;font-weight:600;margin-bottom:.2in}.anexo table{width:100%;border-collapse:collapse;font-size:8.5pt}.anexo th{text-align:left;color:var(--grey);font-weight:600;border-bottom:2px solid var(--ink);padding:4px 6px}.anexo td{border-bottom:1px solid var(--line);padding:4px 6px;vertical-align:top}.anexo td span{color:var(--grey)}.anexo a{color:var(--gold);font-weight:600}
 .fim{background:var(--ink);color:#fff;padding:.7in .8in}.fim .logo{height:.36in}.fim h2{font-size:28pt;font-weight:500;margin:.45in 0 .45in}.fim-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:.4in}
 .fim-grid b{display:block;color:var(--gold-2);font-family:Rubik;font-size:14pt;margin-bottom:.1in;font-weight:500}.fim-grid p{margin:0;font-size:11pt;line-height:1.55;color:#CFCAC0}.cred2{position:absolute;left:.8in;right:.8in;bottom:.3in;font-size:7pt;color:#8E8A82}"""
+TOT = len(S)
+S = [sec.replace("{PAGN}", f"{k+1:02d} / {TOT:02d}") for k, sec in enumerate(S)]
 H = f'''<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><title>{E(TIT)}</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Rubik:wght@500;600&display=swap" rel="stylesheet">
 <style>{CSS}{COR_CSS}{IMG_CSS}</style></head><body>{"".join(S)}</body></html>'''

@@ -4,7 +4,7 @@ Regras (ordem): parcial («parcial provimento», «provimento parcial», «parci
 não conhece/mantém sanção/aplica multa, cassação, penalidade, advertência, caducidade); favorável (dá provimento/provido/defere/
 acolhe/autoriza/homologa/arquiva/anula a sanção/converte em multa menor); senão neutro (normas, editais, atos internos)."""
 import re
-PARC = re.compile(r"parcial(mente)? provi|provimento parcial|parcialmente|em parte", re.I)
+PARC = re.compile(r"parcial(mente)? provi|provimento parcial|parcialmente|em parte|reduz\w*( d?[ao])? (multa|penalidade|san[çc][ãa]o|valor)|multa reduzida", re.I)
 PEND = re.compile(r"sem decis|pedido de vista|vista concedida|sobrestad|suspensa por pedido de vista|retirad[oa] de pauta", re.I)
 DESF = re.compile(r"\bneg(a|ou|ado|ada|ar|ando)\b|n[ãa]o provid|desprov|indefer|n[ãa]o conhec|mant[ée]m (a |o )?(multa|penal|cassa|san[çc]|decis|indeferimento)|aplica(r|ndo)? (a )?(multa|cassa|penal|advert|san[çc]|suspens)|cassa[çc][ãa]o|caducidade|declara(r)? a caducidade|n[ãa]o acolh|rejeit", re.I)
 FAVO = re.compile(r"d[áa](r)? provimento|(?<!des)(?<!não )(?<!nao )\bprovid[ao]s?\b|deferi|acolh|autoriz|homolog|arquiv|anula(r|ção)? (a )?(multa|san|penal|decis)|cancela(r)? (a )?(multa|auto)|convert|extin[çg]", re.I)

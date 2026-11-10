@@ -11,4 +11,4 @@ Gerar: `python3 pipeline/relatorio_v2.py <pasta> --titulo "…" --subtitulo "…
 - **Cor por setor** (`foco.json`): rodovias âmbar, ônibus azul-petróleo, ferrovias vermelho, mineração terracota, portos/navegação azul-marinho. Base Circle: preto #0B0B0B, branco, dourado #C99A06.
 - **Setor nova**: baixar foto horizontal ≥ 1600 px, sem pessoas em destaque, sem marca d'água/data; adicionar a `foco.json` e `CREDITOS.md`; rodar `preparar_fotos.py`; olhar o recorte.
 - **Conferir sempre**: nº de páginas, tamanho (< 1 MB), screenshots (capa, sumário, 2 perguntas de setores diferentes) e checagem de overflow. Números do KPI vêm do texto/base — cuidado com regex («favorável» casa dentro de «desfavorável»: use `(?<!des)`).
-- Antes de entregar: subagente `auditor-respostas`.
+- Antes de entregar: subagentes `auditor-respostas` e `revisor-visual`.

@@ -25,7 +25,7 @@ for s, f in FOCO.items():
     src = f"{D}/{f.get('arquivo', s + '.jpg')}"
     if not os.path.exists(src): print("sem foto:", s); continue
     im = Image.open(src).convert("RGB")
-    for nome, prop, tam in (("capa", 16 / 9, (1280, 720)), ("painel", 2 / 5, (480, 1200))):
-        r = duotom(recorte(im, prop, *f[nome], lim=f.get("evitar")).resize(tam, Image.LANCZOS), f["cor"])
+    for nome, prop, tam in (("capa", 16 / 9, (1280, 720)), ("painel", 2 / 5, (400, 1000)), ("cartao", 4 / 5, (480, 600))):
+        r = duotom(recorte(im, prop, *f.get(nome, f["capa"]), lim=f.get("evitar")).resize(tam, Image.LANCZOS), f["cor"])
         r.save(f"{OUT}/{s}_{nome}.jpg", quality=68, optimize=True, progressive=True)
-    print(s, "ok", [os.path.getsize(f"{OUT}/{s}_{n}.jpg") // 1024 for n in ("capa", "painel")], "KB")
+    print(s, "ok", [os.path.getsize(f"{OUT}/{s}_{n}.jpg") // 1024 for n in ("capa", "painel", "cartao")], "KB")
