@@ -1,0 +1,924 @@
+{
+ "meta": {
+  "video_id": "vDo8pMKcp_Q",
+  "fonte": "legenda automática do YouTube; falantes inferidos pelo contexto; ts = tempo do vídeo (sessão começa ~0:00:33); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "592",
+  "data": "2025-08-25",
+  "formato": "reunião ordinária de diretoria (presencial, transmitida no YouTube; advogados por videoconferência)",
+  "presidente_da_sessao": "Caio Farias (Diretor-Geral)",
+  "diretores_presentes": [
+   "Caio Farias",
+   "Flávia Takafashi",
+   "Alber Vasconcelos"
+  ],
+  "ausentes": [
+   "Lima Filho (ausência justificada)"
+  ],
+  "observacoes": [
+   "Abertura: presentes Flávia Takafashi e Alber Vasconcelos, o secretário-geral Paulo Morum e o procurador-chefe Flávio Chiarelli; Lima Filho ausente justificadamente. Ata da RO 591 homologada.",
+   "Processos com sustentação oral julgados primeiro (itens 1, 2, 13 e 20); itens 13 e 20 retirados pela relatora Flávia Takafashi, o 13 depois da sustentação oral da ABAC.",
+   "Caio Farias preside e relata também como titular da diretoria D4 (itens 8, 9 e 30).",
+   "Itens 3 a 7 (relatoria/vista de Lima Filho) tiveram a vista renovada pela ausência do diretor.",
+   "Sessão suspensa por cerca de 10 min após o item 19 (2:13); redação final do item 8 lida ao fim; encerrada por volta de 2:57:18.",
+   "Todos os itens deliberados foram aprovados sem divergência; debates relevantes: item 8 (agenda regulatória e contrato de passagem) e itens 24–25 (autorizações especiais e morosidade da SPU, questionamento da CGU)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:01:27",
+   "processo": "50300.00041/2024-64 (número incerto)",
+   "interessado": "Empresa Maranhense de Administração Portuária (EMAP) — Porto do Itaqui",
+   "assunto": "Recurso de reconsideração da EMAP contra o Acórdão 580/2024 que determinou ajustes contábeis (refazimento dos três últimos exercícios) ligados à provisão de juros sobre capital próprio (JCP); retorno de pedido de vista de Flávia Takafashi (RD 589, prorrogado na 591); com sustentação oral do advogado Felipe Serra",
+   "tema": [
+    "autoridade portuária / Docas",
+    "recursos administrativos",
+    "convênio de delegação",
+    "fiscalização econômico-financeira",
+    "porto do Itaqui"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "aprovado por unanimidade — recurso conhecido e desprovido; decisão original mantida",
+   "resumo_voto": "Relator diverge da área técnica (que propunha provimento parcial, afastando o refazimento contábil mediante conversão imediata do JCP em capital): a cláusula 3ª, §2º, do Convênio de Delegação 16/2000 exige que toda receita portuária seja aplicada no custeio das atividades delegadas; provisionar JCP para inflar capital ou para repasse ao controlador é tão reprovável quanto o repasse efetivo (Acórdão 467/2023); cita necessidade de investimentos no Itaqui. Dá ciência ao TCU e ao MPor.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, aprova",
+     "ts": "0:12:22",
+     "justificativa": "convênio de delegação exige aplicar a receita portuária exclusivamente nas atividades delegadas; provisão de JCP sinaliza destinação diversa; mantém o acórdão na íntegra",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "voto-vista: acompanha o relator",
+     "ts": "0:12:56",
+     "confianca": "alta",
+     "justificativa": "pediu vista; prática de JCP não condiz com boas práticas; convênio visa investir no porto"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha integralmente o relator e a revisora",
+     "ts": "0:13:48",
+     "confianca": "alta",
+     "justificativa": "acompanha relator e revisora; cita obra de berço público no Itaqui e defende reinvestir recursos para atrair investimentos"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:15:49",
+   "processo": "50300.012169/2022-10",
+   "interessado": "Vports Autoridade Portuária S.A. (portos de Vitória e Barra do Riacho, ES)",
+   "assunto": "Receita-teto das tabelas 1 e 3 dos portos organizados de Vitória e Barra do Riacho no exercício 2024 (fator Q; item 5.3 do Acórdão 53/2025); sustentação oral requerida e declinada",
+   "tema": [
+    "concessão de porto",
+    "tarifas portuárias",
+    "receita-teto / fator Q",
+    "autoridade portuária"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Item 5.1 atendido; SFC sem nexo causal entre déficit de profundidade no TABR e atraso na ocupação greenfield. IQ1: por razoabilidade e equidade, afasta penalização (assoreamento no TABR sem prejuízo à Petrobras, única exploradora; dragagem concluída em abril/2025) — IQ1 ajustado zero. IQ3 consolidado zero. IQ5: acolhe pedido da concessionária para incluir operações do TABR e da CPV (impacto praticamente nulo), resultado zero. Fator Q zero para as tabelas 1 e 3; receita-teto citada na legenda como R$ 0,85/TPB (tabela 1) e R$ 3,19/t (tabela 3); diretrizes para próximos ciclos.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, aprova",
+     "ts": "0:26:10",
+     "justificativa": "razoabilidade e equidade: penalização plena pelo IQ1 seria desproporcional; inclusão de TABR e CPV no IQ5 respeita a lógica contratual",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "0:26:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "0:26:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:45:44",
+   "processo": "50300.000011/2025-6 (número incerto)",
+   "interessado": "não informado na sessão",
+   "assunto": "Processo com pedido de vista de reunião anterior, de relatoria de Lima Filho (ausente); assunto não lido na sessão",
+   "tema": [
+    "procedimento / pedido de vista"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "vista renovada por proposta do Diretor-Geral (Res. 66, arts. 27, 36 e 38); retorna na próxima reunião presencial",
+   "resumo_voto": "Como o relator Lima Filho estava ausente e não apresentou voto, o presidente propôs renovar o pedido de vista dos itens 3 a 7; aprovado.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "propõe a renovação da vista",
+     "ts": "0:45:44",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha a renovação da vista",
+     "ts": "0:47:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha a renovação da vista",
+     "ts": "0:47:08",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:45:44",
+   "processo": "50300.014113/2025-42",
+   "interessado": "não informado na sessão",
+   "assunto": "Processo com pedido de vista de reunião anterior, de relatoria de Lima Filho (ausente); assunto não lido na sessão",
+   "tema": [
+    "procedimento / pedido de vista"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "vista renovada por proposta do Diretor-Geral (Res. 66, arts. 27, 36 e 38); retorna na próxima reunião presencial",
+   "resumo_voto": "Como o relator Lima Filho estava ausente e não apresentou voto, o presidente propôs renovar o pedido de vista dos itens 3 a 7; aprovado.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "propõe a renovação da vista",
+     "ts": "0:45:44",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha a renovação da vista",
+     "ts": "0:47:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha a renovação da vista",
+     "ts": "0:47:08",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:45:44",
+   "processo": "50300.000411/2025-97 (número incerto)",
+   "interessado": "não informado na sessão",
+   "assunto": "Processo com pedido de vista de reunião anterior, de relatoria de Lima Filho (ausente); assunto não lido na sessão",
+   "tema": [
+    "procedimento / pedido de vista"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "vista renovada por proposta do Diretor-Geral (Res. 66, arts. 27, 36 e 38); retorna na próxima reunião presencial",
+   "resumo_voto": "Como o relator Lima Filho estava ausente e não apresentou voto, o presidente propôs renovar o pedido de vista dos itens 3 a 7; aprovado.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "propõe a renovação da vista",
+     "ts": "0:45:44",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha a renovação da vista",
+     "ts": "0:47:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha a renovação da vista",
+     "ts": "0:47:08",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:45:44",
+   "processo": "50300.014215/2022-15",
+   "interessado": "não informado na sessão",
+   "assunto": "Processo com pedido de vista de reunião anterior, de relatoria de Lima Filho (ausente); assunto não lido na sessão",
+   "tema": [
+    "procedimento / pedido de vista"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "vista renovada por proposta do Diretor-Geral (Res. 66, arts. 27, 36 e 38); retorna na próxima reunião presencial",
+   "resumo_voto": "Como o relator Lima Filho estava ausente e não apresentou voto, o presidente propôs renovar o pedido de vista dos itens 3 a 7; aprovado.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "propõe a renovação da vista",
+     "ts": "0:45:44",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha a renovação da vista",
+     "ts": "0:47:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha a renovação da vista",
+     "ts": "0:47:08",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "0:45:44",
+   "processo": "50300.000097/2022-1 (número incerto)",
+   "interessado": "não informado na sessão",
+   "assunto": "Processo com pedido de vista de reunião anterior, de relatoria de Lima Filho (ausente); assunto não lido na sessão",
+   "tema": [
+    "procedimento / pedido de vista"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "vista renovada por proposta do Diretor-Geral (Res. 66, arts. 27, 36 e 38); retorna na próxima reunião presencial",
+   "resumo_voto": "Como o relator Lima Filho estava ausente e não apresentou voto, o presidente propôs renovar o pedido de vista dos itens 3 a 7; aprovado.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "propõe a renovação da vista",
+     "ts": "0:45:44",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha a renovação da vista",
+     "ts": "0:47:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha a renovação da vista",
+     "ts": "0:47:08",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "0:47:17",
+   "processo": "50300.004418/2025-54 (número incerto)",
+   "interessado": "ANTAQ",
+   "assunto": "Cumprimento do item 3.4 da Agenda Regulatória 2025–2028 (contratos de passagem nos portos organizados) e inclusão de novo tema na agenda: transmutação de instalações com contrato de passagem em TUP com compartilhamento de infraestrutura de acostagem",
+   "tema": [
+    "regulação normativa",
+    "agenda regulatória",
+    "contrato de passagem",
+    "autorização de TUP / terminal de uso privado",
+    "porto organizado"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "aprovado por unanimidade, com ajuste proposto por Alber Vasconcelos (inclusão do tema em regime de prioridade; redação final lida ao fim)",
+   "resumo_voto": "Relator (no exercício da diretoria D4) dá por cumprido o item 3.4 com a edição da Resolução ANTAQ 127/2025 (arts. 27 a 36 disciplinam o contrato de passagem, com autorização prévia da ANTAQ) e determina à SRG incluir na agenda o tema da transmutação de instalações com contrato de passagem em TUP (Res. 71/2022, art. 2º, XII), com acesso ao berço por contrato de compartilhamento de infraestrutura. Debate: Alber questionou a necessidade de agenda regulatória; Flávia sustentou que toda alteração normativa (aqui, da Res. 71) exige agenda; acordo pela inclusão em regime de prioridade, com cronograma da SRG.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, aprova",
+     "ts": "0:51:01",
+     "justificativa": "Res. 127/2025 exauriu o item 3.4; necessidade de estudar a conversão de passagistas em TUP",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha e parabeniza a inclusão",
+     "ts": "0:52:03",
+     "confianca": "alta",
+     "justificativa": "tema recorrente (Suape, Paranaguá, Itaqui); precisa de visão sistêmica sobre o alcance da regulação; defende que alteração da Res. 71 exige inclusão na agenda"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha, com proposta de ajuste (regime de prioridade)",
+     "ts": "0:54:33",
+     "confianca": "alta",
+     "justificativa": "não vê diferença entre esses terminais e arrendamento/TUP; inicialmente propôs só encaminhar à SRG sem cravar a agenda; concordou com a inclusão desde que em regime de prioridade"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "1:02:23",
+   "processo": "50300.018382/2024-5 (número incerto)",
+   "interessado": "Portocel — Terminal Especializado de Barra do Riacho S.A. (Aracruz, ES)",
+   "assunto": "Inclusão do perfil de carga conteinerizada no TUP (Contrato de Adesão 106/2016), cerca de 80 mil TEU/ano sem novos investimentos; anúncio público 3/2025 sem interessados",
+   "tema": [
+    "autorização de TUP / terminal de uso privado",
+    "perfil de carga",
+    "contêineres",
+    "concorrência portuária"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Atendidos os requisitos da Portaria Minfra 1.064/2020 e art. 34 da Res. 71/2022; sem alteração de área (dispensa exame de viabilidade locacional); necessário novo TLO. Reconhece possibilidade de termo aditivo e encaminha ao MPor.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, aprova",
+     "ts": "1:06:18",
+     "justificativa": "pleito instruído e alinhado à SOG; anúncio público sem outros interessados",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "1:06:18",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha, com comentários",
+     "ts": "1:06:56",
+     "confianca": "alta",
+     "justificativa": "caso clássico de aumento de concorrência (Vitória tinha um só terminal de contêiner); lembra autorizações especiais anteriores; alerta que o terminal tem obrigação de movimentar o novo perfil"
+    }
+   ]
+  },
+  {
+   "id": "30",
+   "ts": "1:10:08",
+   "processo": "50300.000758/2023-75 (número incerto)",
+   "interessado": "Ministério de Portos e Aeroportos e ANTAQ",
+   "assunto": "Aprovação dos documentos e abertura do leilão de arrendamento da área RDJ07 (porto do Rio de Janeiro, apoio logístico offshore; ~56.832 m², 25 anos, maior valor de outorga, leilão na B3)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "licitação / leilão",
+    "apoio marítimo / offshore",
+    "porto do Rio de Janeiro"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "aprovado por unanimidade; acrescida comunicação ao secretário nacional de Portos e ao ministro parabenizando a condução dos arrendamentos",
+   "resumo_voto": "Projeto qualificado no PPI; minutas com regularidade jurídica atestada (PF-ANTAQ e consultoria do MPor) e TCU dispensou exame prévio (Acórdão 976/2025-Plenário). Aprova o certame, determina à CPLA comunicar o TCU. Valores da legenda (valor do contrato, garantias, capital mínimo) não foram transcritos por baixa confiabilidade.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, aprova",
+     "ts": "1:15:30",
+     "justificativa": "instrução completa, PDZ aderente, TCU dispensou exame prévio",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "1:15:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha, com comentários",
+     "ts": "1:16:35",
+     "confianca": "alta",
+     "justificativa": "elogia o encaminhamento e o Ministério; pede atenção à lista de contratos de transição a licitar"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "1:21:04",
+   "processo": "50300.003320/2024-91 (número incerto)",
+   "interessado": "ANTAQ",
+   "assunto": "Agenda Regulatória 2025–2028, tema 1.1: revisão e simplificação do estoque regulatório da navegação interior — submissão a consulta e audiência públicas de seis minutas que consolidam 11 resoluções",
+   "tema": [
+    "regulação normativa",
+    "navegação interior",
+    "travessias",
+    "participação social"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Consolida 11 resoluções (benefício do idoso, passageiros e misto, travessia, cargas, MEI, homologação de embarcações, jovem de baixa renda, acordos operacionais, afretamento etc.) em seis. Relatora recusa as reuniões presenciais em Manaus e Belém propostas pela SRG por restrição orçamentária; sessões apenas virtuais.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relator, aprova",
+     "ts": "1:26:20",
+     "justificativa": "consolidação e modernização da navegação interior; restrição orçamentária impede audiências presenciais",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "1:27:55",
+     "confianca": "media",
+     "justificativa": "confirma que audiências presenciais em Belém e Manaus ficaram inviáveis por orçamento; transmissão online"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "1:26:46",
+     "confianca": "media",
+     "justificativa": "lembra pedido de audiências nos estados; lamenta a inviabilidade orçamentária"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "1:28:55",
+   "processo": "50300.000091/2022-28 (número incerto)",
+   "interessado": "Rods S.A. (malte de cevada; porto organizado do Recife)",
+   "assunto": "Reequilíbrio econômico-financeiro do contrato de arrendamento de 1992 por novos investimentos e adensamento de área (~3.955 m²), elevando capacidade de 190 mil para 690 mil t/ano",
+   "tema": [
+    "arrendamento em porto organizado",
+    "reequilíbrio econômico-financeiro",
+    "adensamento de área",
+    "granel sólido"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Plano de investimentos aprovado preliminarmente pelo poder concedente; EVTEA com VPL positivo após ajustes da SOG; sem riscos concorrenciais. Declara débitos em aberto com a ANTAQ, mantendo sigilo da deliberação (Lei 11.101/2005). Legenda cita CODERN como contraparte, o que é incerto para o porto do Recife.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relator, aprova",
+     "ts": "1:33:21",
+     "justificativa": "EVTEA aderente a projetos semelhantes, VPL positivo, demanda do polo cervejeiro",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "1:33:21",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "1:33:21",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "1:34:34",
+   "processo": "50300.003339/2024-46 (número incerto)",
+   "interessado": "Praia de Guadalupe Empreendimentos Imobiliários S.A. (Sirinhaém, PE)",
+   "assunto": "Consulta sobre necessidade de anuência da ANTAQ para píer flutuante de embarque/desembarque de lanchas de esporte e recreio",
+   "tema": [
+    "consulta regulatória",
+    "instalação portuária / registro",
+    "esporte e recreio"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Acompanha a SOG: infraestrutura exclusivamente de recreio, sem transporte aquaviário regulado, não exige outorga nem anuência da ANTAQ.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relator, aprova",
+     "ts": "1:36:33",
+     "justificativa": "atividade de esporte e recreio não é regulada pela ANTAQ",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "1:36:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "1:36:33",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "1:37:43",
+   "processo": "50300.001609/2025-19 (número incerto)",
+   "interessado": "ANTAQ",
+   "assunto": "Resolução que institui o ambiente regulatório experimental (sandbox regulatório) da ANTAQ; dá por cumprido o item 4.5 da agenda regulatória 2022–2024",
+   "tema": [
+    "regulação normativa",
+    "sandbox regulatório",
+    "inovação"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Base na LC 182/2021 e no guia referencial; seleção por edital ou qualificação direta; comissão de sandbox; sem desembolso da ANTAQ; dispensa de AIR (Decreto 10.411/2020, art. 4º, III e VII). Relatora liga o tema ao debate do item 8: o rito de agenda/AIR dá segurança, mas pode fazer perder o timing da inovação.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relator, aprova",
+     "ts": "1:50:02",
+     "justificativa": "alinhamento às melhores práticas (OCDE) e inovação com custo reduzido",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "1:50:41",
+     "confianca": "media",
+     "justificativa": "parabeniza a relatora e a SRG"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "1:50:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "1:51:12",
+   "processo": "50300.017118/2025-27 (número incerto)",
+   "interessado": "ANTAQ",
+   "assunto": "Primeiro tema do sandbox regulatório: «Outorga Verde» — ocupação de áreas ociosas de portos organizados por projetos de energia limpa, combustíveis alternativos, eletrificação (OPS), descarbonização e resiliência climática; aprovação da minuta de edital",
+   "tema": [
+    "sandbox regulatório",
+    "sustentabilidade",
+    "transição energética",
+    "porto organizado",
+    "regulação normativa"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Até cinco projetos (um por porto), investimento exclusivamente privado, prazo de até 12 anos (pré-operacional até 2), remuneração por m², vedação de transferência na fase pré-operacional e de execução direta de atividades portuárias; manifestação do poder concedente inclusive para áreas não operacionais; base no art. 27, XXIX, da Lei 10.233 e art. 47-A do Decreto 8.033. Determina instituir comissão e publicar edital (inscrições previstas de 19/08 a 18/09/2025).",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relator, aprova",
+     "ts": "2:05:22",
+     "justificativa": "competência legal para novas formas de exploração; compromissos de transição energética (MEPC 83/IMO)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:09:22",
+     "confianca": "media",
+     "justificativa": "parabeniza a relatora e a superintendência de ESG e Inovação"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha e parabeniza",
+     "ts": "2:05:57",
+     "confianca": "alta",
+     "justificativa": "admite ter sido cético quanto ao espaço para sandbox; sugere atrair universidades e startups (exemplo do porto de Antuérpia)"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "2:10:17",
+   "processo": "50300.001289/2021-27 (número incerto)",
+   "interessado": "Mecta / «MOVEC S.A.» (grafia incerta) — porto de Suape (PE)",
+   "assunto": "Desistência do pleito de reequilíbrio econômico-financeiro do contrato de arrendamento s/nº de 1992 (expansão/unificação de áreas no porto de Suape) — perda de objeto",
+   "tema": [
+    "arrendamento em porto organizado",
+    "reequilíbrio econômico-financeiro",
+    "porto de Suape"
+   ],
+   "relator": "Flávia Takafashi",
+   "resultado": "aprovado por unanimidade (perda de objeto; autos sigilosos)",
+   "resumo_voto": "Divergência sobre números do EVTEA e proximidade do fim do contrato levaram a empresa a desistir; declara perda de objeto, mantém sigilo comercial e comunica à SNP.",
+   "votos": [
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "relator, aprova",
+     "ts": "2:11:31",
+     "justificativa": "desistência da interessada",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:11:31",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha, com comentários",
+     "ts": "2:11:45",
+     "confianca": "alta",
+     "justificativa": "critica a falta de coragem de licitar área única com as áreas lindeiras e cobra maior proximidade do porto de Suape com a ANTAQ"
+    }
+   ]
+  },
+  {
+   "id": "22",
+   "ts": "2:15:40",
+   "processo": "50300.005284/2024-8 (número incerto)",
+   "interessado": "TEG — Terminal Exportador do Guarujá Ltda. (interveniência da Santos Port Authority)",
+   "assunto": "Proposta de Termo de Ajuste de Conduta (TAC) decorrente de auto de infração por falta de estudo de avaliação de risco e plano de segurança portuária atualizados",
+   "tema": [
+    "fiscalização e sanções",
+    "TAC",
+    "segurança portuária",
+    "porto de Santos"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova o TAC com ressalva: TAC não deve, em regra, substituir multa, sobretudo em reincidência ou grave risco; descumprimento de norma objetiva não deveria ser objeto de TAC; admite de forma excepcional e derradeira por haver precedentes. Delegação à GR Santos só do acompanhamento; assinatura pelo Diretor-Geral (art. 9º da Res. 92).",
+   "votos": [
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, aprova",
+     "ts": "2:18:24",
+     "justificativa": "precedentes admitem; mas TAC não substitui multa — aceito de forma excepcional e derradeira",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:18:24",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "2:18:24",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "23",
+   "ts": "2:19:03",
+   "processo": "50300.010069/2025-00",
+   "interessado": "Sindicomis e ACTC (consulentes); Maersk Brasil (Brasmar) Ltda.",
+   "assunto": "Consulta regulatória sobre suposto novo modelo de faturamento da Maersk (taxa de câmbio própria com ajuste percentual na conversão de fretes e despesas)",
+   "tema": [
+    "consulta regulatória",
+    "navegação de longo curso",
+    "cobranças de transportador marítimo"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado por unanimidade (prática irregular não configurada; arquivamento)",
+   "resumo_voto": "Consulentes não apresentaram provas da onerosidade excessiva após solicitação da área técnica; abusividade não pode ser analisada em tese; nova análise só com fatos novos e pelo rito de denúncia.",
+   "votos": [
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, aprova",
+     "ts": "2:21:45",
+     "justificativa": "sem elementos probatórios; consulta não é via adequada para denúncia",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:21:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "2:21:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "24",
+   "ts": "2:22:20",
+   "processo": "50300.001148/2025 (número incerto)",
+   "interessado": "Marine Production Systems do Brasil Ltda. (TUP em Niterói, RJ)",
+   "assunto": "Segundo pedido de prorrogação do prazo para implemento da cláusula suspensiva (comprovação do direito de uso da área em águas públicas junto à SPU) do Contrato de Adesão 9/2022",
+   "tema": [
+    "autorização de TUP / terminal de uso privado",
+    "cláusula suspensiva / SPU",
+    "petróleo e gás offshore"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado por unanimidade — prorrogação por 180 dias",
+   "resumo_voto": "Atraso decorre da SPU, alheio à empresa; prorroga por 180 dias (art. 15 da Portaria Minfra 1.064/2020). Relator responde a questionamento da CGU sobre autorizações especiais: a CGU deveria endereçar a morosidade à própria SPU.",
+   "votos": [
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, aprova",
+     "ts": "2:28:05",
+     "justificativa": "responsabilidade pelo atraso é da SPU; paralisação prejudicaria cadeia de óleo e gás",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:31:58",
+     "confianca": "media",
+     "justificativa": "autorização especial é solução regulatória para ineficiência de outro órgão; resposta à CGU em elaboração com a Procuradoria"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha, com ressalva crítica",
+     "ts": "2:28:40",
+     "confianca": "alta",
+     "justificativa": "acompanha como sempre, mas alerta: a ANTAQ resolve problema de outro órgão e é questionada; próxima fase pode ser parar de prorrogar e os terminais sem SPU pararem de operar"
+    }
+   ]
+  },
+  {
+   "id": "25",
+   "ts": "2:33:18",
+   "processo": "50300.000084/2025-72 (número incerto)",
+   "interessado": "Marine Production Systems do Brasil Ltda. (TUP em Niterói, RJ)",
+   "assunto": "Terceira autorização em caráter especial e de emergência (art. 49 da Lei 10.233; art. 31 da Res. 71/2022) para movimentação e armazenagem de carga geral offshore por 180 dias a contar de 02/06/2025",
+   "tema": [
+    "autorização de TUP / terminal de uso privado",
+    "autorização especial e de emergência",
+    "cláusula suspensiva / SPU",
+    "petróleo e gás offshore"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Terminal construído e licenciado; paralisação causaria danos à cadeia de óleo e gás. Cita recomendação 9 da CGU (reavaliar autorizações seguidas) e decisão judicial (Super Terminais, 9ª Vara Federal de Manaus) que dispensou contrato com SPU; recomenda que o MPor reavalie manter cláusulas suspensivas ligadas à SPU ou negocie com a SPU, com participação da CGU.",
+   "votos": [
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, aprova",
+     "ts": "2:41:20",
+     "justificativa": "competência legal; negar seria irresponsabilidade; problema é a morosidade da SPU",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:41:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "2:41:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "ts": "2:42:34",
+   "processo": "50300.002439/2025-35 (número incerto)",
+   "interessado": "Timber Creek Farms Industrial Comercial Importação e Exportação Ltda. (representada por consultoria)",
+   "assunto": "Consulta sobre cobrança de detention ao exportador quando o atraso decorre de indisponibilidade de janela de atracação",
+   "tema": [
+    "consulta regulatória",
+    "serviços nos terminais (armazenagem, sobre-estadia/demurrage)",
+    "detention"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Respostas estão na Res. ANTAQ 62/2021; relator critica consultas cujas respostas decorrem da simples leitura da norma (a ANTAQ não é consultoria) e determina desarquivar o processo 50300.021373/2024 para alterar a Res. 66 com critérios de admissibilidade de consultas (sem sustentação oral nem recurso).",
+   "votos": [
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, aprova",
+     "ts": "2:47:02",
+     "justificativa": "consulta respondida pela própria norma; necessidade de critérios de admissibilidade",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:47:02",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "2:47:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "28",
+   "ts": "2:47:49",
+   "processo": "50300.000289/2024-97 (número incerto)",
+   "interessado": "EMAP e Moinhos Cruzeiro do Sul S.A. (grupo Bunge/Viterra) — porto do Itaqui",
+   "assunto": "Autorização para novo ciclo de contrato de transição na área IQI 08A14 (8.279 m², trigo e rações)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "contrato de transição",
+    "porto do Itaqui"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Revisita o Acórdão 32/2025 (que vedava novo transitório) diante da fusão Bunge–Viterra (02/07/2025) que impediu a participação na licitação; concede um ano improrrogável (Res. 127/2025); EMAP deve rever a destinação da área no PDZ e tratar com o MPor sua inclusão nas licitações; acrescenta acompanhamento pela SFC.",
+   "votos": [
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, aprova",
+     "ts": "2:50:34",
+     "justificativa": "fato superveniente (fusão societária) e relevância socioeconômica do abastecimento de trigo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:50:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "2:50:34",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "29",
+   "ts": "2:51:52",
+   "processo": "50300.006064/2024-18 (número incerto)",
+   "interessado": "Centronave (Centro Nacional de Navegação Transatlântica); porto de Itajaí (SC)",
+   "assunto": "Pedido de suspensão do resultado da revisão tarifária extraordinária do porto de Itajaí (dragagem; tabela 1)",
+   "tema": [
+    "tarifas portuárias",
+    "revisão tarifária extraordinária",
+    "dragagem",
+    "porto de Itajaí"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado por unanimidade — pedido indeferido",
+   "resumo_voto": "Sem indícios de preços abusivos na tabela 1; suspensão agravaria o caixa deficitário do porto; existem instrumentos de abatimento/compensação a armadores prejudicados (item 5 do Acórdão 710/2023); ANTAQ continua monitorando.",
+   "votos": [
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, aprova",
+     "ts": "2:55:34",
+     "justificativa": "não comprovada abusividade nem falta de contraprestação; suspensão comprometeria o caixa do porto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:55:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Flávia Takafashi",
+     "voto": "acompanha o relator",
+     "ts": "2:55:34",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "13 — requerimento da ABAC (Associação Brasileira dos Armadores de Cabotagem) para apuração da adequação das embarcações das EBNs autorizadas na cabotagem (proc. 50300.012718/2024, número incerto)",
+   "relator": "Flávia Takafashi",
+   "motivo": "retirado pela relatora após relatório e sustentação oral do advogado Rafael (ABAC), para reavaliar uma questão; volta em próxima oportunidade",
+   "ts": "0:44:07"
+  },
+  {
+   "item": "20 — recurso de reconsideração da Brasil Terminal Portuário (BTP) contra decisão que, a partir de denúncia da Bandeirantes Deicmar (grafia incerta), determinou cessar cobrança de recintos alfandegados por guarda provisória de contêineres (proc. 50300.001428/2024, número incerto)",
+   "relator": "Flávia Takafashi",
+   "motivo": "retirado pela relatora; sustentação oral requerida fica para o retorno",
+   "ts": "0:44:19"
+  },
+  {
+   "item": "10 — reequilíbrio do contrato de arrendamento da Coamo Agroindustrial Cooperativa no porto de Paranaguá (prorrogação, novos investimentos e adensamento)",
+   "relator": "Flávia Takafashi",
+   "motivo": "retirado pela relatora",
+   "ts": "1:20:03"
+  },
+  {
+   "item": "11 — processo 50300.004864/2023 (ABAC; minuta de instrução normativa sobre outorgas de EBN, conexo ao item 13)",
+   "relator": "Flávia Takafashi",
+   "motivo": "retirado por conexão com o item 13",
+   "ts": "1:20:43"
+  },
+  {
+   "item": "16 — recurso contra decisão da GRP/SRG que indeferiu acesso ao processo 50300.000454/2025 (número incerto)",
+   "relator": "Flávia Takafashi",
+   "motivo": "retirado de pauta",
+   "ts": "1:37:09"
+  },
+  {
+   "item": "21 — extinção do termo de autorização 1904 de microempreendedor individual na travessia Roque Gonzales–Pirapó (RS); nome do interessado corrigido na sessão para Ademir de Matos Silveira (grafia incerta)",
+   "relator": "Alber Vasconcelos",
+   "motivo": "pauta publicada com nome errado do interessado (risco de nulidade de intimação); volta na próxima reunião virtual",
+   "ts": "2:14:17"
+  },
+  {
+   "item": "27 — processo 50300.021120/2022 (número incerto; assunto não lido)",
+   "relator": "Alber Vasconcelos",
+   "motivo": "retirado pelo relator",
+   "ts": "2:47:32"
+  }
+ ],
+ "limites_da_analise": [
+  "Data: 2025-08-25 vem do cabeçalho (data de upload). A fala não diz a data; o edital da Outorga Verde prevê inscrições a partir de 19/08/2025 e a RO 591 foi em 08/08/2025, o que sugere que a sessão ocorreu entre 08 e 19/08/2025. A data exata não foi confirmada.",
+  "Legenda automática: números de processo, valores (receita-teto, RDJ07, VPL da Rods) e nomes de empresas (Mecta/MOVEC, Rods, Bandeirantes Deicmar, Ademir de Matos Silveira) podem estar errados; foram marcados como incertos ou omitidos.",
+  "Os rótulos de falante do .md incluem diretores ausentes (Lima Filho, Frederico Dias) e superintendentes (José Renato Fialho, Cristina Castro); foram ignorados e os votos foram atribuídos pelo contexto (vocativos e respostas do presidente).",
+  "A votação é simbólica («em votação, aprovado»): o voto de quem só acompanha foi inferido da aprovação sem divergência, com ts aproximado (confiança média).",
+  "Item 19 (Mecta/Suape) e item 14 (Rods, débitos) têm sigilo parcial; só se conhece o que foi lido na sessão.",
+  "Itens 3 a 7: assunto e interessados não foram lidos; só há os números de processo (parcialmente ilegíveis)."
+ ]
+}
