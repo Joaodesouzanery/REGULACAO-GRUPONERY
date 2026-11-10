@@ -82,7 +82,8 @@ por_num = {}
 for v in vistos.values():
     if v["tipo"] == "diretoria" and (n := numero(v["titulo"])):
         extra = bool(re.search(r"extra", v["titulo"], re.I))
-        por_num.setdefault((n, extra), []).append(v)
+        parte = (re.search(r"parte\s*(\d+)|part\s*(\d+)", v["titulo"], re.I) or [None])[0]  # «Parte 1» e «Parte 2» não são duplicatas
+        por_num.setdefault((n, extra, (parte or "").lower().replace("part ", "parte ")), []).append(v)
 for grupo in por_num.values():
     grupo.sort(key=lambda v: bool(re.search(r"board|extraordinary", v["titulo"], re.I)))  # PT primeiro
     for v in grupo[1:]: v["duplicata_de"] = grupo[0]["id"]
