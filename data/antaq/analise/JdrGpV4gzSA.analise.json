@@ -1,0 +1,1071 @@
+{
+ "meta": {
+  "video_id": "JdrGpV4gzSA",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:16:45); ts de quem só acompanha aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "462",
+  "data": "2019-05-30",
+  "formato": "presencial (transmitida)",
+  "presidente_da_sessao": "Mário Povia (Diretor-Geral)",
+  "diretores_presentes": [
+   "Mário Povia",
+   "Adalberto Tokarski",
+   "Francisval Mendes"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Data do cabeçalho (2019-05-30) é a de upload e não foi confirmada na fala; o relator do item 18 cita prazo do TCU encerrando em 29/05/2019, o que sugere sessão em 28 ou 29/05/2019.",
+   "Ata da 461ª ROD aprovada.",
+   "Julgamentos em bloco: itens 4 a 12 (alavancagem de tonelagem), 20 a 22 (outorgas EBN) e 29 a 31 (renúncias).",
+   "Único item com divergência: 18 (BTP), Tokarski vencido quanto ao cenário e à Tabela 1; no item 2 prevaleceu o voto-vista de Francisval sobre o do relator Tokarski.",
+   "Vistas: Francisval (itens 19 e 28), Tokarski (item 27); itens 14 e 15 em diligência; 16 e 17 com vista prorrogada; próxima reunião em 18/06/2019."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:17:15",
+   "processo": "50300.000470/2017-11 (legenda: «50 300 00 quatrocentos e setenta 2017 11»)",
+   "interessado": "Brazcargo Operadora Portuária Ltda.",
+   "assunto": "Processo administrativo sancionador: inadimplência de operador portuário perante a autoridade portuária (unidade regional de Vitória); multa e proposta de TAC com plano de amortização de débitos; retorno de vista de Francisval Mendes",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração, TAC)",
+    "operadores portuários",
+    "Porto de Vitória"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade nos termos do voto do relator (auto de infração subsistente; sanção mais TAC)",
+   "resumo_voto": "Voto-vista adota o voto do relator e acrescenta fundamentação para o TAC: só a multa não faria cessar a inadimplência; suspensão ficou prejudicada por falta de notificação; acompanhamento pela unidade regional de Vitória.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, voto proferido em reunião anterior (subsistência do auto e TAC)",
+     "ts": "0:17:15",
+     "justificativa": "voto lido antes do pedido de vista",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "voto-vista: adota o voto do relator, com fundamentação adicional para o TAC",
+     "ts": "0:17:40",
+     "justificativa": "TAC visa regularizar débitos; multa isolada não surtiria efeito",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o voto condutor (sanção mais TAC)",
+     "ts": "0:20:10",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:20:24",
+   "processo": "50300.008377/2017-57",
+   "interessado": "Santos Brasil Participações S.A.; exportador Luva Trade Ltda.",
+   "assunto": "Processo sancionador: cobrança indevida de armazenagem adicional ao exportador (art. 10 da Res. 2.389), infração do inciso 38 do art. 32 da Res. 3.274; retorno de vista de Francisval Mendes",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "serviços nos terminais (armazenagem)",
+    "Porto de Santos"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado nos termos do voto-vista de Francisval Mendes: multa de R$ 175 mil (dosimetria da unidade regional) e devolução ao exportador em 30 dias; relator vencido quanto ao valor",
+   "resumo_voto": "Voto-vista acompanha a subsistência do auto, mas diverge do relator quanto ao valor da multa, acolhendo a planilha de dosimetria da UR São Paulo, como em precedentes da diretoria.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, vencido quanto ao valor da multa (voto proferido em reunião anterior)",
+     "ts": "0:20:24",
+     "justificativa": "valor proposto pelo relator não citado nesta sessão",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "voto-vista: diverge do relator quanto ao valor; multa de R$ 175 mil e devolução",
+     "ts": "0:21:29",
+     "justificativa": "dosimetria da unidade regional, conforme precedentes da diretoria",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o voto-vista",
+     "ts": "0:24:09",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:24:19",
+   "processo": "50300.007609/2016-79",
+   "interessado": "empresa «Bryan...» Transporte Marítimo e outros (grafia incerta)",
+   "assunto": "Julgamento em bloco (itens 4 a 12): questionamentos sobre «alavancagem de tonelagem» — inclusão na frota de embarcações de apoio marítimo de baixo valor e alta tonelagem para obter atestado de tonelagem para afretamento de estrangeiras ou inscrição no REB; retorno de vista de Adalberto Tokarski",
+   "tema": [
+    "navegação e afretamento (apoio marítimo, REB)",
+    "regulação normativa",
+    "concorrência"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade: SRG e SOG devem apresentar proposta de regulamentação do cálculo do atesto de tonelagem para afretamento/REB",
+   "resumo_voto": "Relator alinha-se ao cenário 1 da área técnica (só embarcações típicas de apoio marítimo contam para o atestado), mas pede estudo de impactos antes de regulamentar, para proteger a frota de bandeira brasileira (Lei 9.432/97).",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, determina proposta de regulamentação",
+     "ts": "0:25:11",
+     "justificativa": "embarcações atípicas usadas só para ampliar a capacidade de afretamento geram competição imperfeita",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "voto-vista: adota na íntegra os votos do relator",
+     "ts": "0:31:43",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:32:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:25:11",
+   "processo": "50300.008715/2016-70",
+   "interessado": "empresa brasileira de navegação (não identificada na legenda)",
+   "assunto": "Julgamento em bloco (itens 4 a 12): questionamentos sobre «alavancagem de tonelagem» — inclusão na frota de embarcações de apoio marítimo de baixo valor e alta tonelagem para obter atestado de tonelagem para afretamento de estrangeiras ou inscrição no REB; retorno de vista de Adalberto Tokarski",
+   "tema": [
+    "navegação e afretamento (apoio marítimo, REB)",
+    "regulação normativa",
+    "concorrência"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade: SRG e SOG devem apresentar proposta de regulamentação do cálculo do atesto de tonelagem para afretamento/REB",
+   "resumo_voto": "Relator alinha-se ao cenário 1 da área técnica (só embarcações típicas de apoio marítimo contam para o atestado), mas pede estudo de impactos antes de regulamentar, para proteger a frota de bandeira brasileira (Lei 9.432/97).",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, determina proposta de regulamentação",
+     "ts": "0:25:11",
+     "justificativa": "embarcações atípicas usadas só para ampliar a capacidade de afretamento geram competição imperfeita",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "voto-vista: adota na íntegra os votos do relator",
+     "ts": "0:31:43",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:32:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:25:11",
+   "processo": "50300.012948/2016-77",
+   "interessado": "empresa brasileira de navegação (não identificada na legenda)",
+   "assunto": "Julgamento em bloco (itens 4 a 12): questionamentos sobre «alavancagem de tonelagem» — inclusão na frota de embarcações de apoio marítimo de baixo valor e alta tonelagem para obter atestado de tonelagem para afretamento de estrangeiras ou inscrição no REB; retorno de vista de Adalberto Tokarski",
+   "tema": [
+    "navegação e afretamento (apoio marítimo, REB)",
+    "regulação normativa",
+    "concorrência"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade: SRG e SOG devem apresentar proposta de regulamentação do cálculo do atesto de tonelagem para afretamento/REB",
+   "resumo_voto": "Relator alinha-se ao cenário 1 da área técnica (só embarcações típicas de apoio marítimo contam para o atestado), mas pede estudo de impactos antes de regulamentar, para proteger a frota de bandeira brasileira (Lei 9.432/97).",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, determina proposta de regulamentação",
+     "ts": "0:25:11",
+     "justificativa": "embarcações atípicas usadas só para ampliar a capacidade de afretamento geram competição imperfeita",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "voto-vista: adota na íntegra os votos do relator",
+     "ts": "0:31:43",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:32:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "0:25:11",
+   "processo": "50300.005022/2017-14",
+   "interessado": "empresa brasileira de navegação (não identificada na legenda)",
+   "assunto": "Julgamento em bloco (itens 4 a 12): questionamentos sobre «alavancagem de tonelagem» — inclusão na frota de embarcações de apoio marítimo de baixo valor e alta tonelagem para obter atestado de tonelagem para afretamento de estrangeiras ou inscrição no REB; retorno de vista de Adalberto Tokarski",
+   "tema": [
+    "navegação e afretamento (apoio marítimo, REB)",
+    "regulação normativa",
+    "concorrência"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade: SRG e SOG devem apresentar proposta de regulamentação do cálculo do atesto de tonelagem para afretamento/REB",
+   "resumo_voto": "Relator alinha-se ao cenário 1 da área técnica (só embarcações típicas de apoio marítimo contam para o atestado), mas pede estudo de impactos antes de regulamentar, para proteger a frota de bandeira brasileira (Lei 9.432/97).",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, determina proposta de regulamentação",
+     "ts": "0:25:11",
+     "justificativa": "embarcações atípicas usadas só para ampliar a capacidade de afretamento geram competição imperfeita",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "voto-vista: adota na íntegra os votos do relator",
+     "ts": "0:31:43",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:32:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "0:25:11",
+   "processo": "50300.008312/2017-10",
+   "interessado": "empresa brasileira de navegação (não identificada na legenda)",
+   "assunto": "Julgamento em bloco (itens 4 a 12): questionamentos sobre «alavancagem de tonelagem» — inclusão na frota de embarcações de apoio marítimo de baixo valor e alta tonelagem para obter atestado de tonelagem para afretamento de estrangeiras ou inscrição no REB; retorno de vista de Adalberto Tokarski",
+   "tema": [
+    "navegação e afretamento (apoio marítimo, REB)",
+    "regulação normativa",
+    "concorrência"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade: SRG e SOG devem apresentar proposta de regulamentação do cálculo do atesto de tonelagem para afretamento/REB",
+   "resumo_voto": "Relator alinha-se ao cenário 1 da área técnica (só embarcações típicas de apoio marítimo contam para o atestado), mas pede estudo de impactos antes de regulamentar, para proteger a frota de bandeira brasileira (Lei 9.432/97).",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, determina proposta de regulamentação",
+     "ts": "0:25:11",
+     "justificativa": "embarcações atípicas usadas só para ampliar a capacidade de afretamento geram competição imperfeita",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "voto-vista: adota na íntegra os votos do relator",
+     "ts": "0:31:43",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:32:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "0:25:11",
+   "processo": "50300.009615/2017-41",
+   "interessado": "empresa brasileira de navegação (não identificada na legenda)",
+   "assunto": "Julgamento em bloco (itens 4 a 12): questionamentos sobre «alavancagem de tonelagem» — inclusão na frota de embarcações de apoio marítimo de baixo valor e alta tonelagem para obter atestado de tonelagem para afretamento de estrangeiras ou inscrição no REB; retorno de vista de Adalberto Tokarski",
+   "tema": [
+    "navegação e afretamento (apoio marítimo, REB)",
+    "regulação normativa",
+    "concorrência"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade: SRG e SOG devem apresentar proposta de regulamentação do cálculo do atesto de tonelagem para afretamento/REB",
+   "resumo_voto": "Relator alinha-se ao cenário 1 da área técnica (só embarcações típicas de apoio marítimo contam para o atestado), mas pede estudo de impactos antes de regulamentar, para proteger a frota de bandeira brasileira (Lei 9.432/97).",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, determina proposta de regulamentação",
+     "ts": "0:25:11",
+     "justificativa": "embarcações atípicas usadas só para ampliar a capacidade de afretamento geram competição imperfeita",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "voto-vista: adota na íntegra os votos do relator",
+     "ts": "0:31:43",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:32:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "0:25:11",
+   "processo": "50300.011456/2017-45",
+   "interessado": "empresa brasileira de navegação (não identificada na legenda)",
+   "assunto": "Julgamento em bloco (itens 4 a 12): questionamentos sobre «alavancagem de tonelagem» — inclusão na frota de embarcações de apoio marítimo de baixo valor e alta tonelagem para obter atestado de tonelagem para afretamento de estrangeiras ou inscrição no REB; retorno de vista de Adalberto Tokarski",
+   "tema": [
+    "navegação e afretamento (apoio marítimo, REB)",
+    "regulação normativa",
+    "concorrência"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade: SRG e SOG devem apresentar proposta de regulamentação do cálculo do atesto de tonelagem para afretamento/REB",
+   "resumo_voto": "Relator alinha-se ao cenário 1 da área técnica (só embarcações típicas de apoio marítimo contam para o atestado), mas pede estudo de impactos antes de regulamentar, para proteger a frota de bandeira brasileira (Lei 9.432/97).",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, determina proposta de regulamentação",
+     "ts": "0:25:11",
+     "justificativa": "embarcações atípicas usadas só para ampliar a capacidade de afretamento geram competição imperfeita",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "voto-vista: adota na íntegra os votos do relator",
+     "ts": "0:31:43",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:32:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "0:25:11",
+   "processo": "50300.004609/2018-89",
+   "interessado": "empresa brasileira de navegação (não identificada na legenda)",
+   "assunto": "Julgamento em bloco (itens 4 a 12): questionamentos sobre «alavancagem de tonelagem» — inclusão na frota de embarcações de apoio marítimo de baixo valor e alta tonelagem para obter atestado de tonelagem para afretamento de estrangeiras ou inscrição no REB; retorno de vista de Adalberto Tokarski",
+   "tema": [
+    "navegação e afretamento (apoio marítimo, REB)",
+    "regulação normativa",
+    "concorrência"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade: SRG e SOG devem apresentar proposta de regulamentação do cálculo do atesto de tonelagem para afretamento/REB",
+   "resumo_voto": "Relator alinha-se ao cenário 1 da área técnica (só embarcações típicas de apoio marítimo contam para o atestado), mas pede estudo de impactos antes de regulamentar, para proteger a frota de bandeira brasileira (Lei 9.432/97).",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, determina proposta de regulamentação",
+     "ts": "0:25:11",
+     "justificativa": "embarcações atípicas usadas só para ampliar a capacidade de afretamento geram competição imperfeita",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "voto-vista: adota na íntegra os votos do relator",
+     "ts": "0:31:43",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:32:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "0:25:11",
+   "processo": "50300.012580/2018-17",
+   "interessado": "empresa brasileira de navegação (não identificada na legenda)",
+   "assunto": "Julgamento em bloco (itens 4 a 12): questionamentos sobre «alavancagem de tonelagem» — inclusão na frota de embarcações de apoio marítimo de baixo valor e alta tonelagem para obter atestado de tonelagem para afretamento de estrangeiras ou inscrição no REB; retorno de vista de Adalberto Tokarski",
+   "tema": [
+    "navegação e afretamento (apoio marítimo, REB)",
+    "regulação normativa",
+    "concorrência"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade: SRG e SOG devem apresentar proposta de regulamentação do cálculo do atesto de tonelagem para afretamento/REB",
+   "resumo_voto": "Relator alinha-se ao cenário 1 da área técnica (só embarcações típicas de apoio marítimo contam para o atestado), mas pede estudo de impactos antes de regulamentar, para proteger a frota de bandeira brasileira (Lei 9.432/97).",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, determina proposta de regulamentação",
+     "ts": "0:25:11",
+     "justificativa": "embarcações atípicas usadas só para ampliar a capacidade de afretamento geram competição imperfeita",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "voto-vista: adota na íntegra os votos do relator",
+     "ts": "0:31:43",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:32:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "0:32:58",
+   "processo": "50300.007343/2019-15",
+   "interessado": "Santos Brasil Participações S.A. (Porto de Imbituba)",
+   "assunto": "Pedido cautelar de autorização especial para receber e armazenar cerca de 35 mil t de aço no terminal de contêineres (TCG lotado) em Imbituba; empresa desistiu em 15/05/2019; retorno de vista de Tokarski",
+   "tema": [
+    "arrendamento em porto organizado",
+    "autorização especial",
+    "Porto de Imbituba"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade: processo extinto por perda superveniente de objeto (desistência)",
+   "resumo_voto": "Arts. 51 e 52 da Lei 9.784/99.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, extingue o processo",
+     "ts": "0:35:45",
+     "justificativa": "desistência expressa da requerente",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "voto-vista: adota na íntegra o voto do relator",
+     "ts": "0:36:11",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:36:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "0:36:53",
+   "processo": "50300.022242/2018-96 (legenda: «50 300 0 22 242 mil e 1896»)",
+   "interessado": "Brasil Terminal Portuário S.A. (BTP); Companhia Docas do Estado de São Paulo (Codesp); TCU",
+   "assunto": "Análise do EVTEA e do equilíbrio econômico-financeiro do contrato de arrendamento DP 24/2001 (BTP, Alemoa, Porto de Santos), em cumprimento ao Acórdão TCU 2029/2018-Plenário: área ocupada (430.744 m² x 342.020 m² contratuais), dispensa da obrigação de granéis líquidos, acordo de acionistas com armadores coligados",
+   "tema": [
+    "arrendamento em porto organizado",
+    "reequilíbrio econômico-financeiro",
+    "institucional/TCU",
+    "Porto de Santos",
+    "terminais de contêineres / verticalização"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por maioria: VPL negativo de cerca de R$ 68,6 milhões (dez/2017), cenário «visão ANTAQ com acordo de acionistas até 2027»; Tokarski vencido (cenário até 2023 e exclusão da Tabela 1)",
+   "resumo_voto": "Dados reais sem depurar o acordo de acionistas (depuração só expurgaria efeitos positivos); só investimentos atestados pela Codesp; afasta infração por ocupação de área maior desde que regularizada no aditivo; recomenda dispensa da obrigação de granéis líquidos (ao poder concedente), sugerindo contrapartida em infraestrutura pública; autos à SAF (adimplência do grupo) e ao Ministério da Infraestrutura.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova VPL de cerca de -R$ 68,6 mi (cenário acordo até 2027)",
+     "ts": "1:25:33",
+     "justificativa": "não há equação de base; dados reais refletem vantagens obtidas (verticalização, área sem licitação); cenário diverso seria subjetivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator, com observações",
+     "ts": "1:26:59",
+     "justificativa": "prazo curto imposto pelo compromisso com o TCU; ANTAQ deve criar modelagem própria para terminais verticalizados com armadores como sócios",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "diverge parcialmente (vencido): cenário com acordo até 2023 e exclusão da Tabela 1; VPL de cerca de -R$ 309,3 mi",
+     "ts": "1:29:26",
+     "justificativa": "acordo de acionistas só vige até 2023; cenário até 2027 presume repactuação incerta; tarifas da Tabela 1 são do armador, não custo/receita do arrendatário",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "1:37:39",
+   "processo": "50300.000381/2008-86 (ano incerto na legenda)",
+   "interessado": "ANTAQ (SRG/GRP); terminais de contêineres, recintos alfandegados, armadores, usuários",
+   "assunto": "Revisão da norma aprovada pela Resolução 2.389/2012 (movimentação e armazenagem de contêineres: THC, SSE/THC2, franquia, entrega em trânsito aduaneiro, extensão aos TUPs)",
+   "tema": [
+    "regulação normativa",
+    "tarifas e preços (THC, SSE/THC2, cesta de serviços)",
+    "serviços nos terminais (armazenagem)",
+    "concorrência / CADE",
+    "institucional/TCU"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "voto do relator proferido (aprovação do texto revisado, sem nova audiência pública); vista de Francisval Mendes",
+   "resumo_voto": "Relator: estende a norma às instalações privadas (isonomia), transfere competências das autoridades portuárias à ANTAQ, conceitua o SSE com limites e hipóteses de abusividade, dissocia THC de ressarcimento, vigência em 60 dias; rejeita nulidade apontada pela PFA (voto do relator original Fernando Fonseca preservado) e documentos extemporâneos; critica acusações de «captura» e defende regulação mínima.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova o texto revisado da Res. 2.389",
+     "ts": "2:07:01",
+     "justificativa": "isonomia entre terminais públicos e privados; regulação mínima que privilegia contratos; SSE sem prova de inviabilizar a concorrência",
+     "tom": "defensivo quanto a críticas de captura",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "pede vista",
+     "ts": "2:07:27",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "não votou (julgamento suspenso por vista)",
+     "ts": "2:07:27",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "2:07:37",
+   "processo": "50300.001309/2019-29",
+   "interessado": "Eduardo R. Figueiredo",
+   "assunto": "Outorga de autorização como EBN por prazo indeterminado na navegação interior: transporte misto, navegação interior longitudinal interestadual, Macapá (AP)–Chaves (PA) (município incerto) (julgamento em bloco dos itens 20 a 22)",
+   "tema": [
+    "navegação e afretamento (navegação interior)",
+    "outorga de autorização / EBN",
+    "região amazônica"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Processos regulares com pareceres técnico e jurídico favoráveis.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, expede os termos de autorização",
+     "ts": "2:09:40",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:09:58",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:10:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "2:07:37",
+   "processo": "50300.009601/2019-07 (ano lido «2009» na legenda; incerto)",
+   "interessado": "António Rocha Transporte",
+   "assunto": "Outorga de autorização como EBN por prazo indeterminado na navegação interior: transporte misto, Monte Alegre (PA)–Manaus (AM) (julgamento em bloco dos itens 20 a 22)",
+   "tema": [
+    "navegação e afretamento (navegação interior)",
+    "outorga de autorização / EBN",
+    "região amazônica"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Processos regulares com pareceres técnico e jurídico favoráveis.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, expede os termos de autorização",
+     "ts": "2:09:40",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:09:58",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:10:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "22",
+   "ts": "2:07:37",
+   "processo": "50300.004959/2019-26 (ano lido «2009» na legenda; incerto)",
+   "interessado": "Norte Marine Indústria e Operações Fluviais Ltda. (grafia incerta)",
+   "assunto": "Outorga de autorização como EBN por prazo indeterminado na navegação interior: carga geral e granel sólido, rotas interestaduais da região hidrográfica amazônica (julgamento em bloco dos itens 20 a 22)",
+   "tema": [
+    "navegação e afretamento (navegação interior)",
+    "outorga de autorização / EBN",
+    "região amazônica"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Processos regulares com pareceres técnico e jurídico favoráveis.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, expede os termos de autorização",
+     "ts": "2:09:40",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:09:58",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:10:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "23",
+   "ts": "2:10:20",
+   "processo": "50300.006369/2019-38 (legenda: «50 300 006 3 692 mil e 1938»; incerto)",
+   "interessado": "«Formar» Transportes Marítimos Ltda. (grafia incerta)",
+   "assunto": "Renúncia de outorga de autorização",
+   "tema": [
+    "navegação e afretamento",
+    "outorga / renúncia"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade: autorização extinta, sem prejuízo de sanções",
+   "resumo_voto": "Renúncia é ato unilateral (art. 43 da Lei 10.233).",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, declara extinta a autorização",
+     "ts": "2:11:31",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:11:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:11:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "25",
+   "ts": "2:12:06",
+   "processo": "50300.004484/2017-14",
+   "interessado": "«McLaren» Oil Estaleiro Ltda. (grafia incerta)",
+   "assunto": "Autorização para construção e exploração de TUP em Niterói (RJ), 179 mil m², carga geral; anúncio público 14/2018 sem outros interessados",
+   "tema": [
+    "autorização de TUP",
+    "Niterói"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade: reconhecida a possibilidade de contrato de adesão com o Ministério da Infraestrutura",
+   "resumo_voto": "Requisitos legais atendidos; declaração de adequação do poder concedente; viabilidade locacional.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, reconhece a possibilidade de contrato de adesão",
+     "ts": "2:14:23",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:15:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:15:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "ts": "2:15:15",
+   "processo": "50300.005903/2019-99 (ano lido «2009»; incerto)",
+   "interessado": "Flexibrás Tubos Flexíveis Ltda. (TUP no Porto do Açu, São João da Barra-RJ)",
+   "assunto": "Autorização em caráter especial (art. 49 da Lei 10.233) para movimentar e armazenar 260 contêineres de equipamentos para a fase 2 do campo Peregrino (Bacia de Campos), por até 180 dias",
+   "tema": [
+    "autorização de TUP / autorização especial",
+    "petróleo e gás",
+    "Porto do Açu"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Contrato comercial por tempo limitado e empreendimento estratégico (art. 31, IV, RN 20); sem óbices concorrenciais; precedente de autorização anterior.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, autoriza em caráter especial por até 180 dias",
+     "ts": "2:19:01",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:19:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:19:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "27",
+   "ts": "2:20:03",
+   "processo": "50300.003857/2018-11",
+   "interessado": "ANTAQ (agenda regulatória 2018-2019, item 1.4)",
+   "assunto": "Revisão da Resolução 1.864/2010 (afretamento de embarcação na navegação interior por EBN): submissão a audiência pública por 30 dias",
+   "tema": [
+    "regulação normativa",
+    "navegação e afretamento (navegação interior)",
+    "participação social"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "voto do relator proferido (aprovar minuta e audiência pública de 30 dias); vista de Adalberto Tokarski",
+   "resumo_voto": "Revisão demandada pelas áreas técnicas e por agentes de mercado.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova a minuta para audiência pública",
+     "ts": "2:21:53",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "sinaliza acompanhar o relator (legenda confusa)",
+     "ts": "2:22:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "pede vista (vista já anunciada na pauta)",
+     "ts": "2:22:37",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "28",
+   "ts": "2:22:43",
+   "processo": "50300.000502/2017-81 (incerto)",
+   "interessado": "Santos Brasil Participações S.A.",
+   "assunto": "Pedido de reconsideração contra multa de R$ 300 mil (Acórdão 108/2018) por cobrança indevida de armazenagem adicional ao exportador (art. 10 da Res. 2.389)",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "recursos administrativos",
+    "serviços nos terminais (armazenagem)",
+    "Porto de Santos"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "voto do relator proferido (provimento parcial, multa reduzida a R$ 100 mil); vista de Francisval Mendes",
+   "resumo_voto": "Relator mantém autoria e materialidade, mas reduz a multa por proporcionalidade, coerente com sua posição vencida na decisão original. Povia registra que, vencido o relator, a reconsideração deveria ir a quem redigiu o voto vencedor.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, dá provimento parcial (multa de R$ 100 mil)",
+     "ts": "2:25:02",
+     "justificativa": "proporcionalidade e vedação de excessos; coerência com o voto original",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "pede vista (vista anterior mantida)",
+     "ts": "2:26:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "não votou; registra questão de ordem sobre a relatoria da reconsideração",
+     "ts": "2:26:19",
+     "justificativa": "relator vencido na decisão original tende a manter sua posição; caberia ao autor do voto vencedor",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "29",
+   "ts": "2:26:53",
+   "processo": "50300.005481/2019-51 (incerto)",
+   "interessado": "Aliança Navegação e Logística Ltda.",
+   "assunto": "Renúncia de outorga de autorização como EBN (julgamento em bloco dos itens 29 a 31)",
+   "tema": [
+    "navegação e afretamento",
+    "outorga / renúncia"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade: outorgas extintas, sem prejuízo de sanções",
+   "resumo_voto": "Sem óbices técnicos; PFA com manifestação referencial.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, declara extintas as outorgas",
+     "ts": "2:28:07",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:28:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:28:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "30",
+   "ts": "2:26:53",
+   "processo": "50300.006641/2019-80 (incerto)",
+   "interessado": "«Ver que nós» Navegação Ltda. (nome ilegível na legenda)",
+   "assunto": "Renúncia de outorga de autorização como EBN (julgamento em bloco dos itens 29 a 31)",
+   "tema": [
+    "navegação e afretamento",
+    "outorga / renúncia"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade: outorgas extintas, sem prejuízo de sanções",
+   "resumo_voto": "Sem óbices técnicos; PFA com manifestação referencial.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, declara extintas as outorgas",
+     "ts": "2:28:07",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:28:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:28:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "31",
+   "ts": "2:26:53",
+   "processo": "50300.004603/2019-18",
+   "interessado": "RJ Pilots Transportes Marítimos Ltda.",
+   "assunto": "Renúncia de outorga de autorização como EBN (julgamento em bloco dos itens 29 a 31)",
+   "tema": [
+    "navegação e afretamento",
+    "outorga / renúncia"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade: outorgas extintas, sem prejuízo de sanções",
+   "resumo_voto": "Sem óbices técnicos; PFA com manifestação referencial.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, declara extintas as outorgas",
+     "ts": "2:28:07",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:28:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:28:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "32",
+   "ts": "2:29:14",
+   "processo": "50300.005252/2019-37",
+   "interessado": "Denise Barbosa Ltda.",
+   "assunto": "Outorga de autorização como EBN, transporte misto na navegação interior interestadual Macapá (AP)–Portel (PA)",
+   "tema": [
+    "navegação e afretamento (navegação interior)",
+    "outorga de autorização / EBN",
+    "região amazônica"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Requisitos legais e normativos atestados.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, expede o termo de autorização",
+     "ts": "2:30:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:30:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:30:32",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "33",
+   "ts": "2:30:34",
+   "processo": "50300.009842/2017-88 (incerto)",
+   "interessado": "H. Leão Navegação Marajó ME (Breves-PA)",
+   "assunto": "Registro de instalação portuária de apoio ao transporte aquaviário (Porto Leão do Marajó), RN 3",
+   "tema": [
+    "registro de instalação de apoio",
+    "região amazônica"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Ressalvadas licenças da Marinha, bombeiros e órgão ambiental.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, autoriza o registro",
+     "ts": "2:31:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:32:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:32:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "34",
+   "ts": "2:32:34",
+   "processo": "50300.001509/2019-81",
+   "interessado": "Companhia Docas do Pará (CDP)",
+   "assunto": "Referendo da Resolução 6.724/2019 (medida cautelar administrativa de ofício que suspendeu a Resolução Homologatória 01/2019 de processo licitatório da CDP)",
+   "tema": [
+    "referendo",
+    "medida cautelar",
+    "autoridade portuária",
+    "licitação"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade: cautelar referendada até decisão de mérito",
+   "resumo_voto": "Cautelar inaudita altera parte motivada por despacho do diretor.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, referenda a cautelar",
+     "ts": "2:34:01",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha (referenda)",
+     "ts": "2:34:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha (referenda)",
+     "ts": "2:34:42",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "3 — processo 50300.008655/2016-95 (Codesa)",
+   "relator": "não identificado",
+   "motivo": "renovação de pedido de vista (solicitante não identificado na legenda)",
+   "ts": "0:24:19"
+  },
+  {
+   "item": "14 e 15 (números não lidos)",
+   "relator": "Francisval Mendes (provável)",
+   "motivo": "em diligência",
+   "ts": "0:36:27"
+  },
+  {
+   "item": "16 e 17 (números não lidos)",
+   "relator": "Francisval Mendes (provável)",
+   "motivo": "vista prorrogada",
+   "ts": "0:36:27"
+  },
+  {
+   "item": "24 — processo 50300.000360/2018-32 (Mitsui Rail Capital Participações Ltda.)",
+   "relator": "Francisval Mendes (provável)",
+   "motivo": "não apreciado; motivo ininteligível na legenda",
+   "ts": "2:11:54"
+  },
+  {
+   "item": "35 — processo 50650.002117/... ",
+   "relator": "não identificado",
+   "motivo": "não apreciado; sessão encerrada após observação («pauta externa»)",
+   "ts": "2:34:44"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática de baixa qualidade: diretores aparecem como «doutor alberto castro/cacique» (Adalberto Tokarski) e «Francisco aumente/francês realmente/funcionalmente» (Francisval Mendes); números de processo e nomes de empresas (Bryan, Formar, Ver que nós, McLaren, Norte Marine) incertos.",
+  "A lista de falantes do .md inclui Fernando Fonseca, Eduardo Nery, Alber Vasconcelos e Frederico Dias, mas só votam Povia, Tokarski e Francisval; Fernando Fonseca é citado como relator original do item 19 (voto antigo preservado).",
+  "Votos de quem só acompanha têm ts aproximado e confiança media; no item 27 o voto de Povia é incerto.",
+  "Itens 1, 2: votos dos relatores foram proferidos em reunião anterior; o valor da multa proposto por Tokarski no item 2 não é dito.",
+  "Data da reunião não confirmada."
+ ]
+}

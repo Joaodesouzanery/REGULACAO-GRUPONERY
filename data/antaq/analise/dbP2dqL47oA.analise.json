@@ -1,0 +1,1323 @@
+{
+ "meta": {
+  "video_id": "dbP2dqL47oA",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulos {..} frequentemente errados); ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "614",
+  "data": "2026-08-20",
+  "formato": "híbrida/videoconferência (sustentações orais remotas)",
+  "presidente_da_sessao": "Frederico Dias (Diretor-Geral)",
+  "diretores_presentes": [
+   "Frederico Dias",
+   "Lima Filho",
+   "Alber Vasconcelos",
+   "Caio Farias",
+   "Cristina Castro (diretora substituta)"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Homologadas as atas das RODs 611, 612 e 613; procurador-chefe Flávio Chiarelli (grafia incerta) e secretário-geral presentes.",
+   "Renovados pedidos de vista dos itens 5, 6, 7, 8 e 9 (números de processo ilegíveis); vistas novas de Caio Farias nos itens 12 e 32.",
+   "Três sustentações orais (itens 1, 22 e 2); item 2 adiado por problema técnico e julgado após o 22.",
+   "Duas decisões por maioria: item 2 (vencido Lima Filho) e item 30 (vencida a relatora Cristina Castro, 3 a 2).",
+   "Itens 23, 24, 28 e 29 julgados em bloco; itens 10, 17, 19 e 20 retirados; item 11 com vista.",
+   "Encerrada após ~3h39 de vídeo; a data não é dita na sessão."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:02:20",
+   "processo": "50300.015189/2026-76 (número parcial na legenda)",
+   "interessado": "PXGEO do Brasil Ltda. (grafia incerta: 'PES GEL', 'Pestigel')",
+   "assunto": "Recurso de reconsideração contra o Acórdão 242/2026 (que manteve, em recurso hierárquico, o auto de infração por afretamento sem autorização da embarcação de pesquisa sísmica 'Sea/Seon Dourado' como apoio marítimo); com sustentação oral",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "navegação e afretamento",
+    "apoio marítimo",
+    "pesquisa sísmica"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado (sem divergência registrada): recurso não conhecido",
+   "resumo_voto": "Não conhecer o recurso de reconsideração: é o segundo recurso da mesma espécie contra decisão originária do superintendente (art. 49, parágrafo único, c/c art. 56 da Res. 66); arquivar. Alber Vasconcelos, relator do acórdão recorrido, lembrou o Acórdão 598/2024 (consulta Shearwater: embarcações multipropósito de pesquisa sísmica sujeitas à regulação da ANTAQ).",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, não conhece do recurso",
+     "ts": "0:19:30",
+     "justificativa": "segundo recurso contra decisão de superintendente não cabe (Res. 66, art. 49 par. único e art. 56); precedentes e parecer da PFA",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "0:22:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha (comenta)",
+     "ts": "0:20:58",
+     "justificativa": "foi relator do recurso anterior; Acórdão 598/2024 firmou que embarcações multipropósito de pesquisa sísmica estão sujeitas à regulação da ANTAQ",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "0:22:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "0:22:34",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "22",
+   "ts": "0:24:37",
+   "processo": "50300.006820/2026-46 (número parcial)",
+   "interessado": "APPA (Portos de Paranaguá e Antonina); FTS Participações Societárias (Grupo Fortesolo); Rocha Terminais Portuários e Logística; Fertipar",
+   "assunto": "Autorização para a APPA celebrar termo aditivo ao contrato de passagem 79/2013 (FTS), com nova projeção de 1.565 m² para interligar às esteiras dos berços 208, 209 e 211 do porto de Paranaguá (fertilizantes); impugnação da Rocha; com sustentações orais",
+   "tema": [
+    "arrendamento em porto organizado",
+    "contrato de passagem",
+    "uso de infraestrutura de uso público",
+    "concorrência",
+    "Paranaguá"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "aprovado (sem divergência registrada)",
+   "resumo_voto": "Autoriza o aditivo (Res. 127/2025 atendida; trata-se de interligação, não novo sistema); determina cláusulas sobre pagamento a terceiros e obrigações da AP; conhece o requerimento da Rocha e dá parcial provimento: uso compartilhado das esteiras exige contrato entre titulares (Res. 50/2021 subsidiária), mas a remuneração se limita à operação e manutenção, pois o contrato de passagem 112/2021 previa as estruturas como de uso público, sem direito a ressarcimento; APPA envia cópia do aditivo à ANTAQ.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, autoriza o aditivo e dá parcial provimento ao requerimento da Rocha",
+     "ts": "0:51:30",
+     "justificativa": "estruturas dos berços são de uso público, revertem à APPA e o contrato 112/2021 vedou ressarcimento; precedente do Acórdão 388/2025 (arrendamento com reequilíbrio) não se aplica",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "0:59:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "0:59:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "0:59:06",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "0:59:06",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:22:34",
+   "processo": "50300.010282/2025-14 (número parcial)",
+   "interessado": "Terminal Portuário do Mearim (TUP)",
+   "assunto": "Recurso de reconsideração contra o Acórdão 724/2024 (multa de R$ 120.000 por não iniciar a construção do TUP no prazo do cronograma físico-financeiro do contrato de adesão 86/2015); com sustentação oral",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "autorização de TUP / terminal de uso privado",
+    "contrato de adesão"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado por maioria (4 a 1), vencido Lima Filho",
+   "resumo_voto": "Relator recebe a petição como recurso de revisão (art. 59 da Res. 66), dá provimento, declara insubsistente o auto de infração, arquiva o PAS e anula o Acórdão 724/2024 por bis in idem. Lima Filho (relator do acórdão recorrido) diverge: não cabe reconsideração e não há fato novo para revisão. DG aponta vício procedimental (SFC deveria ter arquivado ao reconsiderar) e informa que a Res. 66 está em revisão para tratar do duplo recurso.",
+   "votos": [
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, recebe como recurso de revisão e dá provimento",
+     "ts": "1:13:34",
+     "justificativa": "bis in idem com autuação anterior; cronograma físico-financeiro é acompanhamento e não base sancionatória; SFC reconheceu enquadramento errado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "diverge: não conhece da reconsideração nem a recebe como revisão (vencido)",
+     "ts": "1:23:41",
+     "justificativa": "não há fato novo nem circunstância relevante; bis in idem já examinado; omissão permanente conhecida desde 2016",
+     "tom": "firme",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "1:26:50",
+     "justificativa": "vício de procedimento: a SFC reconsiderou e deveria ter arquivado (art. 67 da Res. 3259), sem submeter à diretoria; matéria de ordem pública",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "1:31:27",
+     "justificativa": "vício procedimental no fluxo, que precisa ser revisto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "1:31:39",
+     "justificativa": "tem caso análogo com parecer pedido à PFA sobre o vício procedimental",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:32:30",
+   "processo": "50300.003249/2022-92 (número parcial)",
+   "interessado": "Consórcio Travessia Amazonas (recorrente); Consórcio J. Cruz",
+   "assunto": "Referendo da Deliberação DG 48/2026: recurso contra atas 15 e 17 da comissão da seleção pública (edital de chamada pública 1/2026) para a travessia Manaus–Careiro da Várzea",
+   "tema": [
+    "navegação e afretamento",
+    "travessias",
+    "navegação interior",
+    "recursos administrativos",
+    "referendo"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado (referendado)",
+   "resumo_voto": "Referenda a decisão que conheceu e negou provimento ao recurso, mantendo a inabilitação do consórcio recorrente e a habilitação do consórcio J. Cruz.",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, referenda",
+     "ts": "1:36:30",
+     "justificativa": "acompanha o despacho da comissão",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "1:37:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "1:37:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "1:37:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "1:37:16",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:37:16",
+   "processo": "50300.016282/2026-00 (número parcial)",
+   "interessado": "Rodrigo Mateus Drest (grafia incerta)",
+   "assunto": "Referendo da Deliberação DG 45/2026: recurso de segunda instância em pedido de acesso à informação (processo da Superintendência de Outorgas)",
+   "tema": [
+    "institucional/TCU",
+    "acesso à informação",
+    "referendo"
+   ],
+   "relator": "Cristina Castro",
+   "resultado": "aprovado (referendado)",
+   "resumo_voto": "Referenda a negativa de provimento ao recurso de segunda instância de pedido de informação.",
+   "votos": [
+    {
+     "diretor": "Cristina Castro",
+     "voto": "relatora, referenda",
+     "ts": "1:38:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "1:38:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "1:38:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "1:38:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "1:38:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "1:52:20",
+   "processo": "50300.007516/95 (número parcial na legenda)",
+   "interessado": "Ministério de Portos e Aeroportos; Companhia Docas do Pará",
+   "assunto": "Minutas de edital e contrato do arrendamento VDC29 (granéis sólidos vegetais) no porto organizado de Vila do Conde/PA, leilão com apoio da B3",
+   "tema": [
+    "arrendamento em porto organizado",
+    "licitação",
+    "Vila do Conde"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "pedido de vista (Alber Vasconcelos) após leitura do voto do relator",
+   "resumo_voto": "Relator vota por aprovar as minutas (TCU sem ressalvas no Acórdão 108/2025; PFA e CPLA de acordo). Vista concedida: o tema se discute há mais de uma década e há problemas de infraestrutura pública no porto; oportunidade de subsidiar o ministério.",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, aprova minutas de edital e contrato",
+     "ts": "1:57:00",
+     "justificativa": "TCU não encontrou inconsistências; recomendações da PFA incorporadas pela CPLA",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "pede vista",
+     "ts": "2:00:40",
+     "justificativa": "processo discutido há mais de uma década; deficiências da infraestrutura pública em Vila do Conde; subsidiar a formulação de política",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "2:01:31",
+   "processo": "50300.004592/2026-40 (número parcial)",
+   "interessado": "CPA Terminal Paranaguá (grafia incerta)",
+   "assunto": "Recurso hierárquico contra a Deliberação PAS 32/2025-SFC (multa de R$ 28.000 por interferência injustificada em operações de terceiros após vazamento de nafta em 9/4/2023 no porto de Paranaguá)",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "sustentabilidade",
+    "Paranaguá"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado (sem divergência registrada): recurso provido",
+   "resumo_voto": "Dá provimento: paralisações foram medidas emergenciais; auto e decisão não individualizaram conduta culposa nem explicaram por que seriam injustificadas; nota técnica superveniente não passou por contraditório. Fato 2 insubsistente, multa afastada.",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, dá provimento",
+     "ts": "2:04:30",
+     "justificativa": "interferência injustificada exige conduta imputável demonstrada; laudo superveniente sem contraditório",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "2:05:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "2:05:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:05:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "2:05:46",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "2:05:52",
+   "processo": "50300.007112/2026-22 (número parcial)",
+   "interessado": "TR Navegação Ltda. (grafia incerta)",
+   "assunto": "Reajuste de preços da travessia internacional Guajará-Mirim (Brasil) – Guayaramerín (Beni, Bolívia), sem reajuste desde 2016; pedido de 87,7%",
+   "tema": [
+    "navegação e afretamento",
+    "travessias",
+    "navegação interior",
+    "tarifas e preços"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado (sem divergência registrada): reajuste parcial",
+   "resumo_voto": "Aprova parcialmente: limita o reajuste ao IPCA acumulado (54,47% segundo a legenda), sem saldo futuro; novo pedido exige memória de cálculo, custos, demanda, faturamento e capacidade. DG elogia: a análise de custos testa a própria metodologia de justa causa.",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, aprova parcialmente",
+     "ts": "2:10:38",
+     "justificativa": "metodologia aponta justa causa mas não demonstra o percentual integral; mercado não competitivo pede cautela",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator (elogia)",
+     "ts": "2:11:00",
+     "justificativa": "avaliação de custos serve de teste da metodologia",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "2:12:29",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:12:29",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "2:12:29",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "2:13:00",
+   "processo": "50300.015277/2026-78 (número parcial)",
+   "interessado": "Indústria de fertilizantes (nome incerto na legenda: 'Virtual'/'Bertol')",
+   "assunto": "Autorização em caráter especial, por até 180 dias, para movimentação e armazenagem de granéis sólidos em ETC em Miritituba, Itaituba/PA (terceiro pedido; demora da SPU)",
+   "tema": [
+    "autorização de TUP / terminal de uso privado / ETC",
+    "autorização especial",
+    "SPU"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "aprovado (sem divergência registrada)",
+   "resumo_voto": "Autoriza em caráter especial (art. 49 da Lei 10.233) por 180 dias; empresa diligente na SPU; SFC acompanha.",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator, autoriza",
+     "ts": "2:16:30",
+     "justificativa": "morosidade da SPU já conhecida; contrato de adesão 01/2025 e diligência comprovada",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "2:17:31",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "2:17:31",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:17:31",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "2:17:31",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "2:18:16",
+   "processo": "50300.006372/25 (número parcial)",
+   "interessado": "Plataforma Logística do Amapá Ltda.",
+   "assunto": "Manifestação ao MPor sobre prorrogação do prazo para início da operação do TUP (contrato de adesão 13/2021, Santana/AP, granéis sólidos)",
+   "tema": [
+    "autorização de TUP / terminal de uso privado / ETC",
+    "contrato de adesão",
+    "SPU"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado (sem divergência registrada)",
+   "resumo_voto": "Reconhece a possibilidade regulatória de prorrogação (atraso por cessão da SPU em 2023 e licença prévia em 2024; atuação diligente); decisão final é do poder concedente.",
+   "votos": [
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, reconhece a possibilidade de prorrogação",
+     "ts": "2:21:40",
+     "justificativa": "atuação diligente; não há abandono; competência final do MPor",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "2:22:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "2:22:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:22:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "2:22:09",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "2:22:47",
+   "processo": "50300.012354/2026 (número parcial)",
+   "interessado": "Companhia de Desenvolvimento do Complexo Industrial e Portuário do Pecém (CIPP)",
+   "assunto": "Ampliação de área e capacidade do terminal portuário do Pecém (São Gonçalo do Amarante/CE): Píer Z0 para FSRU de regaseificação de GNL; investimento de cerca de R$ 350 milhões",
+   "tema": [
+    "autorização de TUP / terminal de uso privado / ETC",
+    "ampliação de terminal",
+    "GNL",
+    "Pecém"
+   ],
+   "relator": "Alber Vasconcelos",
+   "resultado": "aprovado (sem divergência registrada)",
+   "resumo_voto": "Reconhece a possibilidade de termo aditivo ao contrato de adesão: declaração de adequação do poder concedente, viabilidade locacional, pareceres favoráveis da autoridade marítima e Receita Federal, licença de instalação.",
+   "votos": [
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "relator, reconhece a possibilidade do aditivo",
+     "ts": "2:28:20",
+     "justificativa": "viabilidade locacional e ausência de interferências",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "2:28:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "2:28:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "2:28:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "2:28:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "2:28:46",
+   "processo": "50300.004752/25-08 (número parcial)",
+   "interessado": "Santa Catarina Indústria e Comércio de Compensados (denunciante); SMX Logística e Transporte (transportador/NVOCC)",
+   "assunto": "Denúncia de cobrança indevida de sobre-estadia de contêineres (demurrage)",
+   "tema": [
+    "serviços nos terminais",
+    "sobre-estadia/demurrage",
+    "fiscalização e sanções",
+    "conciliação"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "aprovado (sem divergência registrada): arquivamento",
+   "resumo_voto": "Arquiva com base no art. 5º da Portaria 1/2025-SFC, por acordo espontâneo entre as partes no rito sumário de conciliação.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, arquiva",
+     "ts": "2:30:30",
+     "justificativa": "acordo extrajudicial entre as partes",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "2:31:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "2:31:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "2:31:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "2:31:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "23",
+   "ts": "2:29:58",
+   "processo": "50300.007971/2025-31",
+   "interessado": "Comportos Operador Portuário Cesárea Ltda. (grafia incerta)",
+   "assunto": "Registro de instalação de apoio ao transporte aquaviário (Res. 13/2026) para instalações flutuantes fundeadas (boias, dolfins) – julgamento em bloco com itens 23, 24, 28 e 29",
+   "tema": [
+    "registro de instalação de apoio",
+    "autorização de TUP / terminal de uso privado / ETC",
+    "julgamento em bloco"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "aprovado (sem divergência registrada): registro indeferido",
+   "resumo_voto": "Indefere: operações comerciais permanentes de navios de grande porte com transbordo exigem outorga de autorização (Lei 12.815 e Res. 71/2022), não registro. Indeferido também porque parte da área molhada pertence ao TUP Terlock.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, indefere (bloco)",
+     "ts": "2:33:26",
+     "justificativa": "caracterizam instalação portuária sujeita a autorização",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "2:33:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "2:33:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "2:33:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "2:33:32",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "24",
+   "ts": "2:29:58",
+   "processo": "50300.009826/2025-94 (parcial)",
+   "interessado": "Nave Amazônia Navegação Ltda.",
+   "assunto": "Registro de instalação de apoio ao transporte aquaviário (Res. 13/2026) para instalações flutuantes fundeadas (boias, dolfins) – julgamento em bloco com itens 23, 24, 28 e 29",
+   "tema": [
+    "registro de instalação de apoio",
+    "autorização de TUP / terminal de uso privado / ETC",
+    "julgamento em bloco"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "aprovado (sem divergência registrada): registro indeferido",
+   "resumo_voto": "Indefere: operações comerciais permanentes de navios de grande porte com transbordo exigem outorga de autorização (Lei 12.815 e Res. 71/2022), não registro.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, indefere (bloco)",
+     "ts": "2:33:26",
+     "justificativa": "caracterizam instalação portuária sujeita a autorização",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "2:33:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "2:33:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "2:33:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "2:33:32",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "28",
+   "ts": "2:29:58",
+   "processo": "50300.008843/2025-12 (parcial)",
+   "interessado": "SESOC/Cesárea Logística Ltda. (grafia incerta)",
+   "assunto": "Registro de instalação de apoio ao transporte aquaviário (Res. 13/2026) para instalações flutuantes fundeadas (boias, dolfins) – julgamento em bloco com itens 23, 24, 28 e 29",
+   "tema": [
+    "registro de instalação de apoio",
+    "autorização de TUP / terminal de uso privado / ETC",
+    "julgamento em bloco"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "aprovado (sem divergência registrada): registro indeferido",
+   "resumo_voto": "Indefere: operações comerciais permanentes de navios de grande porte com transbordo exigem outorga de autorização (Lei 12.815 e Res. 71/2022), não registro.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, indefere (bloco)",
+     "ts": "2:33:26",
+     "justificativa": "caracterizam instalação portuária sujeita a autorização",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "2:33:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "2:33:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "2:33:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "2:33:32",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "29",
+   "ts": "2:29:58",
+   "processo": "50300.002489/2025-61 (parcial)",
+   "interessado": "Avantes Consultoria Ltda. (grafia incerta)",
+   "assunto": "Registro de instalação de apoio ao transporte aquaviário (Res. 13/2026) para instalações flutuantes fundeadas (boias, dolfins) – julgamento em bloco com itens 23, 24, 28 e 29",
+   "tema": [
+    "registro de instalação de apoio",
+    "autorização de TUP / terminal de uso privado / ETC",
+    "julgamento em bloco"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "aprovado (sem divergência registrada): registro indeferido",
+   "resumo_voto": "Indefere: operações comerciais permanentes de navios de grande porte com transbordo exigem outorga de autorização (Lei 12.815 e Res. 71/2022), não registro.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, indefere (bloco)",
+     "ts": "2:33:26",
+     "justificativa": "caracterizam instalação portuária sujeita a autorização",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "2:33:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "2:33:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "2:33:32",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "2:33:32",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "25",
+   "ts": "2:33:37",
+   "processo": "50300.013025/2026-12 (parcial)",
+   "interessado": "EMAP (porto do Itaqui/MA); Polícia Rodoviária Federal",
+   "assunto": "Consulta sobre necessidade de anuência da ANTAQ para acordo de cooperação técnica entre EMAP e PRF (convênio de delegação 16/2000)",
+   "tema": [
+    "regulação normativa",
+    "consulta",
+    "autoridade portuária",
+    "convênio de delegação"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "aprovado (sem divergência registrada)",
+   "resumo_voto": "Conhece a consulta: a ANTAQ não autoriza nem homologa ajustes autônomos do delegatário; fiscaliza a posteriori os reflexos na prestação do serviço; temas de PRF e dados competem a outros órgãos.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, conhece e responde a consulta",
+     "ts": "2:36:00",
+     "justificativa": "segue parecer da PFA",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "2:36:29",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "2:36:29",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "2:36:29",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "2:36:29",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "ts": "2:36:29",
+   "processo": "50300.005943/2025-97 (parcial)",
+   "interessado": "GK dos Santos Pontões Ltda. ME (grafia incerta)",
+   "assunto": "Registro de instalação flutuante de apoio (posto de combustíveis 'Petrossales 14') no rio Negro, Manaus",
+   "tema": [
+    "registro de instalação de apoio",
+    "navegação interior"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "aprovado (sem divergência registrada)",
+   "resumo_voto": "Defere o registro: pontão flutuante sem ligação com terra, fora do porto organizado, sem equipamento de movimentação de carga; SPU atesta águas públicas federais.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, defere registro",
+     "ts": "2:38:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "2:38:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "2:38:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "2:38:49",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "2:38:49",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "27",
+   "ts": "2:38:53",
+   "processo": "50300.007043/2025-37 (parcial)",
+   "interessado": "Hidrovias do Brasil S.A. (cedente); Ultra Logística Ltda. (cessionária)",
+   "assunto": "Transferência indireta de controle societário de titular dos contratos de adesão 16/2014 e 19/2014 e do contrato de arrendamento 1/2020",
+   "tema": [
+    "transferência de controle",
+    "arrendamento em porto organizado",
+    "autorização de TUP / terminal de uso privado / ETC",
+    "concorrência"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "aprovado (sem divergência registrada)",
+   "resumo_voto": "Aprova a transferência (Res. 57/2021); conclusão em até 360 dias, efetiva só com registro na Junta; compra de ações em bolsa sem mudança de governança não configura transferência, logo sem processo sancionador; CADE aprovou sem restrições; autos restritos.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "relator, aprova",
+     "ts": "2:44:00",
+     "justificativa": "boa-fé da requerente; sem registro na Junta não houve transferência efetiva",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "2:44:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "2:44:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "2:44:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Cristina Castro",
+     "voto": "acompanha o relator",
+     "ts": "2:44:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "30",
+   "ts": "2:44:40",
+   "processo": "50300.006926/27 (parcial)",
+   "interessado": "Brasil Terminal Portuário (BTP); Bandeirantes Deicmar Logística Integrada",
+   "assunto": "Manifestação da BTP (item 5.4 do Acórdão 141/2026) contra a cautelar que suspendeu a cobrança da taxa de aplicação de rótulos IMO (item 6.44 da tabela) no porto de Santos",
+   "tema": [
+    "tarifas portuárias (THC, SSE, cesta de serviços)",
+    "serviços nos terminais",
+    "medida cautelar",
+    "cargas perigosas"
+   ],
+   "relator": "Cristina Castro",
+   "resultado": "vencida a relatora: mantida a cautelar por 3 a 2 (divergência de Alber Vasconcelos)",
+   "resumo_voto": "Relatora propunha revogar os efeitos prospectivos da cautelar (custo da rotulagem recai sobre embarcador/importador). Prevaleceu a divergência: conhecer a petição, manter a cautelar e prosseguir a instrução de mérito pela SRG.",
+   "votos": [
+    {
+     "diretor": "Cristina Castro",
+     "voto": "relatora, revoga a cautelar (vencida)",
+     "ts": "2:53:50",
+     "justificativa": "custos da rotulagem cabem ao responsável pelo embarque e, no destino, ao importador; autotutela permite rever entendimento",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "diverge: mantém a cautelar e a instrução de mérito",
+     "ts": "2:54:14",
+     "justificativa": "não há prejuízo em manter a cautelar enquanto a SRG faz a análise exauriente",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha a divergência",
+     "ts": "2:55:04",
+     "justificativa": "fatos e fundamentos da cautelar persistem; mérito deve vir em semanas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha a divergência",
+     "ts": "2:56:04",
+     "justificativa": "não identificou fato novo para reformar a cautelar",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha a relatora (vencido)",
+     "ts": "2:56:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "31",
+   "ts": "2:57:29",
+   "processo": "50300.006171/2022 (parcial)",
+   "interessado": "SFC",
+   "assunto": "Manual de fiscalização da Res. 112/2024 (matriz de responsabilidade por armazenagem adicional), em cumprimento ao item 5.3.3 do Acórdão 94/2024",
+   "tema": [
+    "fiscalização e sanções",
+    "serviços nos terminais (armazenagem)",
+    "regulação normativa"
+   ],
+   "relator": "Cristina Castro",
+   "resultado": "aprovado (sem divergência registrada)",
+   "resumo_voto": "Aprova o manual (orientativo; critérios de suficiência probatória das denúncias) e dá por cumprida a determinação.",
+   "votos": [
+    {
+     "diretor": "Cristina Castro",
+     "voto": "relatora, aprova",
+     "ts": "3:02:40",
+     "justificativa": "padroniza e dá previsibilidade à fiscalização",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "3:03:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "3:03:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "3:03:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "3:03:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "33",
+   "ts": "3:03:34",
+   "processo": "50300.012382/26 (parcial)",
+   "interessado": "Reliance Agenciamento e Serviços Portuários (recorrente); Comportos Operador Portuário; APS (Santos)",
+   "assunto": "Recurso de reconsideração contra o Acórdão 112/2026 (cautelar negada para suspender contrato de transição entre APS e Comportos no porto de Santos)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "contrato de transição",
+    "recursos administrativos",
+    "medida cautelar",
+    "Santos"
+   ],
+   "relator": "Cristina Castro",
+   "resultado": "aprovado (sem divergência registrada): recurso desprovido",
+   "resumo_voto": "Voto complementar: nega provimento (sem fato novo; sem perigo na demora quanto ao novo contrato de transição 4/2026 com Terlock) e determina à SFC celeridade no processo de fiscalização. Um diretor (não identificado) critica o uso do contrato transitório como disputa concorrencial (área do Tecon 10 / 'tecomos 10').",
+   "votos": [
+    {
+     "diretor": "Cristina Castro",
+     "voto": "relatora, nega provimento",
+     "ts": "3:09:40",
+     "justificativa": "papel primário da APS; aguardar o processo sancionador",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "3:11:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "3:11:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "3:11:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "3:11:38",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "34",
+   "ts": "3:11:46",
+   "processo": "50300.001981/2025-92 (parcial)",
+   "interessado": "SRG",
+   "assunto": "Metodologia de gestão do estoque regulatório da ANTAQ (Decreto 10.411/2020)",
+   "tema": [
+    "regulação normativa",
+    "estoque regulatório",
+    "AIR"
+   ],
+   "relator": "Cristina Castro",
+   "resultado": "aprovado (sem divergência registrada)",
+   "resumo_voto": "Aprova a metodologia (escopo: resoluções, súmulas, atos interpretativos; ciclo em 5 etapas; relatório anual e página de transparência). Nº de pauta não dito (id 34 é presumido).",
+   "votos": [
+    {
+     "diretor": "Cristina Castro",
+     "voto": "relatora, aprova",
+     "ts": "3:16:40",
+     "justificativa": "inovação que agrega valor; transparência do arcabouço normativo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "3:18:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "3:18:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "3:18:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "3:18:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "35",
+   "ts": "3:18:05",
+   "processo": "50300.00176/2025-8 (parcial)",
+   "interessado": "Terminal de Granéis do Guarujá (TGG); APS",
+   "assunto": "Análise do EVTEA da prorrogação antecipada do arrendamento do TGG (Santos) por 25 anos, com investimentos no terminal e 60% da 2ª fase da Avenida Perimetral da Margem Esquerda",
+   "tema": [
+    "arrendamento em porto organizado",
+    "prorrogação antecipada",
+    "reequilíbrio econômico-financeiro",
+    "Santos"
+   ],
+   "relator": "Cristina Castro",
+   "resultado": "aprovado (sem divergência registrada)",
+   "resumo_voto": "Aprova o EVTEA com ressalvas da SOG; recomenda MMC dinâmica (menor movimentação do quinquênio), matriz de risco para a Perimetral, fiscalização da obra pela APS e reversão de economias à União; autos sigilosos. Um diretor (provavelmente Alber Vasconcelos; não confirmado) acompanhou criticando a estimativa de receita da SOG (deveria usar o preço praticado pelo terminal). Nº de pauta não dito.",
+   "votos": [
+    {
+     "diretor": "Cristina Castro",
+     "voto": "relatora, aprova EVTEA com ressalvas",
+     "ts": "3:24:00",
+     "justificativa": "análise da SOG observou a Res. 85/2022; MMC dinâmica é tendência vantajosa",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "3:28:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "3:28:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "3:28:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "3:28:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "36",
+   "ts": "3:28:10",
+   "processo": "50300.001767/2025-2 (parcial)",
+   "interessado": "Terminal Marítimo do Guarujá (Termag); APS",
+   "assunto": "Análise do EVTEA da prorrogação antecipada do arrendamento da Termag (Santos) por 25 anos, com investimentos e 40% da 2ª fase da Avenida Perimetral da Margem Esquerda",
+   "tema": [
+    "arrendamento em porto organizado",
+    "prorrogação antecipada",
+    "reequilíbrio econômico-financeiro",
+    "Santos"
+   ],
+   "relator": "Cristina Castro",
+   "resultado": "aprovado (sem divergência registrada)",
+   "resumo_voto": "Indefere o reequilíbrio pleiteado por eventos (pátio de enxofre, expedição rodoferroviária, armazéns) e aprova o EVTEA com ressalvas; mesmas recomendações de MMC dinâmica, matriz de risco e fiscalização da obra; autos sigilosos. Nº de pauta não dito.",
+   "votos": [
+    {
+     "diretor": "Cristina Castro",
+     "voto": "relatora, indefere reequilíbrio e aprova EVTEA",
+     "ts": "3:36:15",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Frederico Dias",
+     "voto": "acompanha o relator",
+     "ts": "3:39:01",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Lima Filho",
+     "voto": "acompanha o relator",
+     "ts": "3:39:01",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "acompanha o relator",
+     "ts": "3:39:01",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Caio Farias",
+     "voto": "acompanha o relator",
+     "ts": "3:39:01",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "0:01:30",
+   "processo": "50300.016992/026 (parcial)",
+   "interessado": "Login Logística Intermodal",
+   "assunto": "Recurso de reconsideração contra o Acórdão 733/2025",
+   "tema": [
+    "recursos administrativos"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "pedido de vista (Caio Farias), anunciado na abertura",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "pede vista",
+     "ts": "0:01:30",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "32",
+   "ts": "0:01:45",
+   "processo": "50300.008957/26-35 (parcial)",
+   "interessado": "Brasbunker Participações",
+   "assunto": "Consulta sobre direito de tonelagem decorrente da reativação da construção de casco de embarcação em estaleiro brasileiro",
+   "tema": [
+    "navegação e afretamento",
+    "afretamento",
+    "EBN",
+    "consulta"
+   ],
+   "relator": "Cristina Castro",
+   "resultado": "pedido de vista (Caio Farias), anunciado na abertura",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "pede vista",
+     "ts": "0:01:45",
+     "confianca": "alta"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "10 — 50300.009940/2026-03: revisão ordinária da agenda regulatória 2025/2028 e agenda de ARR 2027/2028 (tomada de subsídios)",
+   "relator": "Frederico Dias",
+   "motivo": "retirado pelo próprio relator (DG) após Alber Vasconcelos propor incluir como prioridade a contribuição nº 26 da Associação Nacional de Terminais de Cruzeiro; DG vai rever a agenda com a SRG, trocando um tema, e trazer na próxima reunião",
+   "ts": "1:46:36"
+  },
+  {
+   "item": "17 — 50300.012112/5 (parcial)",
+   "relator": "Alber Vasconcelos",
+   "motivo": "retirado de pauta pelo relator",
+   "ts": "2:22:13"
+  },
+  {
+   "item": "19 — 50300.004952/2026 (parcial)",
+   "relator": "Alber Vasconcelos",
+   "motivo": "retirado de pauta pelo relator",
+   "ts": "2:22:13"
+  },
+  {
+   "item": "20 — 50300.00945/2025 (parcial)",
+   "relator": "Alber Vasconcelos",
+   "motivo": "retirado de pauta pelo relator",
+   "ts": "2:22:13"
+  },
+  {
+   "item": "5, 6, 7, 8 e 9 — processos com renovação de pedido de vista",
+   "relator": "não identificado",
+   "motivo": "renovação de vista",
+   "ts": "0:00:50"
+  }
+ ],
+ "limites_da_analise": [
+  "Data do cabeçalho (2026-08-20) é a de upload no YouTube; a sessão não diz a data. Pelo conteúdo é posterior a 22/06/2026.",
+  "Rótulos de falante da transcrição frequentemente trocados (ex.: voto do relator Alber no item 2 aparece como {Lima Filho}); atribuições feitas pelo contexto e pelos chamados do DG.",
+  "Na maioria dos itens o DG só diz 'matéria em votação, aprovado': votos dos demais registrados como 'acompanha' com confiança media e ts aproximado.",
+  "Item 11: o pedido de vista é atribuído a Alber Vasconcelos pelo rótulo e contexto (confiança media).",
+  "Item 30: Lima Filho registrado como acompanhando a relatora a partir do resumo do DG ('Diretora Cristina e diretor Lima votaram pela suspensão').",
+  "Números de processo, nomes de empresas (PXGEO, CPA Terminal Paranaguá, TR Navegação, empresa de fertilizantes de Miritituba, Comportos, SESOC, Avantes, GK dos Santos) e valores podem estar errados na legenda.",
+  "Itens 34, 35 e 36 não tiveram número de pauta dito; ids presumidos.",
+  "Comentários do item 33 (contrato transitório) e do item 35 (receita estimada pela SOG) são de diretor não identificado com segurança."
+ ]
+}
