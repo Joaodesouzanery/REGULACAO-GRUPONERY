@@ -65,3 +65,9 @@ Criar `agencias/<sigla>/`, coletar com `python3 pipeline/01_coletar.py @canalXXX
 
 ## Limites
 Legenda automática (erros de nomes/números), falantes inferidos, minuto aproximado nos votos «acompanha», itens sigilosos fora da transmissão, vídeos sem legenda. Não faça afirmações sobre intenção/emoção; use dados.
+
+## Estado em 10/11/2026 (ANTAQ e relatório v4)
+- **ANTAQ:** 93 reuniões de diretoria 2019–2026 analisadas (3.291 itens, 11.375 votos), base `data/antaq/regulacao.db` (`bash pipeline/ag.sh antaq python3 pipeline/05_indexar.py`). Conferência cega: voto 92,3%, relator/resultado 100% (`agencias/antaq/qualidade/`). Vacâncias em `data/antaq/vacancias.json` (vaga de Flávia Takafashi aberta desde 19/02/2026).
+- **Pendências ANTAQ:** 2016–2018 (55 reuniões com legenda) e eventos (120 audiências, 7 participativas, 10 workshops) — subagente `analista-evento`; datas de várias sessões vêm do upload (conferir nas atas do gov.br); Parte 1 da 465ª e 466ª voltou à fila da coleta no Mac; entidades/microtemas da ANTAQ.
+- **Whisper:** nenhuma transcrição Whisper chegou ao GitHub até 10/11 (ANTT 4 reuniões; ANM sem legenda). Ver `docs/MAC_COMANDOS.md`.
+- **Relatório:** `pipeline/relatorio_v2.py` (v4): capa, sumário em cartões de foto, 1 página por pergunta, «como ler»; ~13 páginas, < 1 MB. Fotos por setor em `docs/marca/setores/` (Openverse/Wikimedia, créditos) → `preparar_fotos.py`.
