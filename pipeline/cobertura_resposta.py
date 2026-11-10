@@ -45,6 +45,6 @@ if os.path.exists(db) and dire:
     if up: L.append(f"- {up} dessas reuniões têm data tirada do upload do vídeo (pode diferir da sessão em dias/semanas)")
 QUAL = {"antt": "voto por diretor ≈ 94–95% (2019 mais fraco), relator/resultado 93–100%",
         "anm": "voto ≈ 96% em 2021–2026 (2019–2020 só como índice); resultado 97,9% contra as atas oficiais",
-        "antaq": "voto 92,3%, relator e resultado 100% (2019–2026)"}
+        "antaq": "2019–2026: voto 92,3%, relator e resultado 100%; 2015–2018: voto 96,3%, relator 100%, resultado 95,6%"}
 L.append(f"- Conferência cega: {QUAL.get(ag, 'ainda não feita')} — mede consistência, não verdade absoluta. Legenda automática: nomes e valores podem errar; itens sigilosos e voto escrito completo (SEI) não estão nos vídeos.")
 print("\n".join(L))
