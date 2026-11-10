@@ -1,0 +1,83 @@
+{
+ "meta": {
+  "video_id": "x9elb2pccB8",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "audiencia",
+  "numero": "08/2019",
+  "titulo": "Audiência Pública nº 08/2019 - estudos simplificados para arrendamentos",
+  "data": "2019-10-16",
+  "local": "Brasília/DF (presencial)",
+  "objeto": "Proposta de norma sobre a versão simplificada dos estudos prévios (art. 6º, §1º, IV, Decreto 8.033/2013, redação do Decreto 9.048/2017) para arrendamentos de pequeno porte",
+  "processo": null,
+  "tema": [
+   "regulação normativa",
+   "arrendamentos portuários",
+   "desburocratização"
+  ],
+  "presidiu": "presidente da sessão (nome ilegível na legenda)",
+  "diretores_presentes": [
+   "Mário Povia",
+   "Francisval Mendes"
+  ],
+  "participantes_externos": [
+   "Marcus Vinícius (empresa de engenharia/consultoria)"
+  ],
+  "resumo": "Audiência sobre norma que permite estudos simplificados para arrendamentos de pequeno porte (armazéns e pátios, contratos de até 10 anos), dispensando fluxo de caixa e usando remuneração fixa por m2 com base nas tabelas tarifárias. O DG Mário Povia e o diretor Francisval Mendes abriram defendendo simplificação e desburocratização. Um participante perguntou sobre consulta ao TCU e tabelas tarifárias desatualizadas; a mesa respondeu sobre o fluxo com o TCU e a tabela 7 de uso temporário.",
+  "posicoes": [
+   {
+    "quem": "Marcus Vinícius (engenharia)",
+    "posicao": "perguntou se o TCU foi consultado e como proceder sem tabela tarifária atualizada",
+    "ts": "0:09:35"
+   }
+  ],
+  "encaminhamentos": [
+   "Contribuições pelo sítio da ANTAQ até 16/10/2019",
+   "Intenção de estabelecer fluxo com o TCU e trabalhar acervo de 30 a 40 áreas com contratos de 5 a 10 anos"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Mário Povia",
+   "ts": "0:01:28",
+   "tema": [
+    "arrendamentos portuários",
+    "regulação normativa"
+   ],
+   "tipo": "abertura",
+   "resumo": "Diz que a norma simplifica estudos para áreas de menor complexidade (armazéns, pátios) hoje em contratos precários, com contratos de 5 a 10 anos.",
+   "trecho": "a norma visa simplificar na medida do possível os estudos para a prestação de arrendamentos portuários",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Francisval Mendes",
+   "ts": "0:03:31",
+   "tema": [
+    "regulação normativa",
+    "desburocratização"
+   ],
+   "tipo": "abertura",
+   "resumo": "Defende a desburocratização; detalha limite de valor e prazo de 10 anos e redução do prazo médio de 2 anos para 6 meses.",
+   "trecho": "desburocratização essa tem sido uma das maiores defesa da diretoria da antaq sempre acompanhada de governança transparência e responsabilidade",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Mário Povia",
+   "ts": "0:14:32",
+   "tema": [
+    "arrendamentos portuários"
+   ],
+   "tipo": "esclarecimento",
+   "resumo": "Complementa que a ideia é fluxo com TCU, contratos curtos e lote de 30 a 40 áreas em vários portos.",
+   "trecho": "não teria medo de errar que ainda assim um atacado aí 30 40 áreas já seria possível ir trabalhar",
+   "confianca": "media"
+  }
+ ],
+ "limites_da_analise": [
+  "Falante da complementação (0:12-0:14) inferido como Mário Povia por continuidade com a abertura e pela expressão 'esse diretor é só complementar'; confiança média.",
+  "Falas de 0:30-0:34 (reversibilidade, considerações finais de um diretor) sem identificação segura; não registradas.",
+  "Análise cobre só as janelas do resumo."
+ ]
+}
