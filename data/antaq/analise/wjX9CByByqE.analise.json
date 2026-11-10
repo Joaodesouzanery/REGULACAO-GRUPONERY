@@ -1,0 +1,31 @@
+{
+  "meta": {"video_id": "wjX9CByByqE", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "30ª Extraordinária", "data": "2023-06-29", "formato": "presencial (sessão solene, com cerimônia na sequência)",
+    "presidente_da_sessao": "Eduardo Nery (Diretor-Geral)",
+    "diretores_presentes": ["Eduardo Nery", "Flávia Takafashi", "Lima Filho", "Alber Vasconcelos", "Caio Farias"],
+    "ausentes": [],
+    "observacoes": ["Reunião extraordinária convocada para um único processo: aprovação do eixo 3 (Guia para condução de levantamento de risco climático e medidas de adaptação para infraestrutura portuária) do estudo de impactos e riscos da mudança do clima nos portos, parceria ANTAQ–GIZ.", "Apresentações de José Neto (gerente da SDS) e de Pablo/Paulo (GIZ) antes do voto da relatora.", "Presença do deputado federal e ex-ministro Leônidas Cristino e de representante do Ministério de Portos e Aeroportos.", "Após o encerramento (≈1:02:35) houve cerimônia: assinatura de memorando de entendimento ANTAQ–GIZ (hidrogênio verde, descarbonização, adaptação climática), apresentação da agenda ambiental 2023–2024 e assinatura do protocolo de intenções do Cooperaportos com ATP e ABTP; não são itens deliberativos.", "Lima Filho diz estar há seis meses como diretor da ANTAQ."]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:01:00",
+      "processo": "50300.019430/2022-11 (número lido pela legenda como «50 por 30019 430 2022 11»; incerto)",
+      "interessado": "Superintendência de Desempenho, Desenvolvimento e Sustentabilidade (SDS); GIZ (cooperação técnica alemã)",
+      "assunto": "Aprovação do Guia para condução de levantamento de risco climático e medidas de adaptação para infraestrutura portuária (eixo 3 do estudo de impactos e riscos da mudança do clima nos portos públicos costeiros brasileiros) e sua publicação integral no site da ANTAQ",
+      "tema": ["sustentabilidade", "mudança climática / adaptação", "estudos", "portos organizados", "cooperação institucional (GIZ)"],
+      "relator": "Flávia Takafashi",
+      "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Relatora recapitula os eixos 1 (ranking de risco de 21 portos, 2021) e 2 (Aratu, Rio Grande e Santos, Acórdão 656/2022) e propõe aprovar o guia (4 etapas: definição do projeto, coleta de dados, fundamentação dos riscos, medidas de adaptação) e disponibilizá-lo na íntegra no site; argumenta que mais de 74% dos portos públicos não tinham certificação voluntária (dados de 2020) e que faltam método e dados para levantamento de risco climático.",
+      "votos": [
+        {"diretor": "Flávia Takafashi", "voto": "relatora, aprova o guia e sua publicação", "ts": "0:46:49", "justificativa": "o guia é ferramenta com potencial de mudar a realidade dos portos; supre lacunas metodológicas e de obtenção de dados; agência pioneira em sustentabilidade", "confianca": "alta"},
+        {"diretor": "Caio Farias", "voto": "acompanha a relatora", "ts": "0:53:34", "justificativa": "elogia a parceria com a GIZ e a SDS; cita ser relator do novo estudo de descarbonização dos portos", "confianca": "alta"},
+        {"diretor": "Alber Vasconcelos", "voto": "acompanha a relatora", "ts": "0:55:04", "justificativa": "lembra a preocupação com elevação do nível do mar desde a Secretaria de Portos; no exterior se pergunta se os portos brasileiros estão preparados para a transição energética e as mudanças climáticas", "confianca": "media"},
+        {"diretor": "Lima Filho", "voto": "acompanha o voto da relatora", "ts": "0:57:06", "justificativa": "iniciativa integra agenda positiva do Estado brasileiro após o Acordo de Paris (ratificado em 2016)", "confianca": "alta"},
+        {"diretor": "Eduardo Nery", "voto": "acompanha a relatora, aprova a terceira etapa do estudo", "ts": "1:02:09", "justificativa": "sustentabilidade é uma das quatro prioridades da agência; portos públicos ainda não se planejavam para as mudanças climáticas, ao contrário dos TUPs; a ANTAQ atua como catalisadora; anuncia próximos estudos (transição energética, relação porto-cidade, inventário de emissões)", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": ["Legenda automática: número do processo reconstruído de «50 por 30019 430 2022 11» (incerto).", "O md não traz marcadores de minuto por fala; ts obtidos de data/transcricoes/wjX9CByByqE.json por busca de frases.", "A data 2023-06-29 vem do cabeçalho; a fala não diz a data, mas é coerente (Cooperaportos de junho de 2023 citado como recente; Lima Filho com seis meses de mandato).", "A identificação de Alber Vasconcelos como segundo votante é inferida pela fala seguinte do DG («Dr. Alberto, passa a palavra ao diretor Lima Filho»)."]
+}

@@ -1,0 +1,38 @@
+{
+  "meta": {"video_id": "4i76UBzbHpo", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa em 0:00:14); ts de quem só acompanha aproximado", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "28 (extraordinária)", "data": "2022-12-06", "formato": "presencial com transmissão ao vivo (seguida de evento de divulgação de estudo)",
+    "presidente_da_sessao": "Eduardo Nery (Diretor-Geral)",
+    "diretores_presentes": ["Eduardo Nery", "Flávia Takafashi", "Alexandre Lopes (diretor substituto; nome segundo a legenda)"],
+    "ausentes": [],
+    "observacoes": [
+      "Abertura: quórum declarado; presentes a diretora Flávia Takafashi, o diretor Alexandre Lopes (como dito na legenda) e o procurador federal junto à ANTAQ Leonardo Souza.",
+      "Reunião extraordinária de item único: aprovação do estudo ANTAQ/GIZ sobre impacto das mudanças climáticas nos portos marítimos brasileiros, eixo 2 (estudos de caso de Aratu, Rio Grande e Santos). Aprovado nos termos do voto da relatora; encerrada a reunião deliberativa às 0:25:46.",
+      "Depois do encerramento: apresentação técnica da SDS (José Renato/«Zé Neto»), Ministério da Infraestrutura, consultoria e GIZ, falas das autoridades portuárias e de representante do Ministério da Economia; sem deliberação.",
+      "Data: o cabeçalho traz 2022-12-07 (data de upload). Usada 2022-12-06, a data da transmissão (outro vídeo da mesma reunião, MVlF0izh3ro); coerente com a fala a 1:01:38 sobre capacitação «quarta, quinta e sexta-feira» desta semana."
+    ]
+  },
+  "itens": [
+    {
+      "id": "1", "ts": "0:00:35",
+      "processo": "não identificado na legenda",
+      "interessado": "ANTAQ (SDS – Superintendência de Desempenho, Desenvolvimento e Sustentabilidade) / GIZ (cooperação alemã); portos de Aratu (Codeba), Rio Grande (Portos RS) e Santos (SPA)",
+      "assunto": "Estudo «Impacto das mudanças climáticas nos portos marítimos brasileiros», eixo 2: estudos de caso de risco climático e medidas de adaptação para os portos de Aratu, Rio Grande e Santos (projeto P5 da agenda plurianual de estudos 2021/2024)",
+      "tema": ["sustentabilidade", "mudança do clima / adaptação", "estudos e planejamento", "porto organizado"],
+      "relator": "Flávia Takafashi", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Dar por cumprido o projeto P5 da agenda plurianual de estudos 2021/2024 (relatórios dos estudos de caso de Aratu, Rio Grande e Santos) e disponibilizar na íntegra no site da ANTAQ os relatórios e o resumo dos principais achados. Achados: chuvas persistentes e ventos já paralisam operações (sobretudo granéis sólidos); só em Rio Grande o risco operacional atinge nível alto; risco estrutural baixo nos três; recomenda monitoramento e revisão contínua dos riscos e medidas de adaptação.",
+      "votos": [
+        {"diretor": "Flávia Takafashi", "voto": "relatora, aprova (dar por cumprido o projeto P5 e publicar os relatórios)", "ts": "0:16:43", "justificativa": "o levantamento permite conhecer os riscos climáticos e identificar medidas de adaptação; os custos e riscos da inércia podem ser maiores do que a adoção de medidas imediatas; subsidia planejamento e investimentos das administrações portuárias", "confianca": "alta"},
+        {"diretor": "Alexandre Lopes (diretor substituto)", "voto": "acompanha a relatora", "ts": "0:17:21", "justificativa": "parabeniza a agência e a GIZ pela realização do estudo", "confianca": "media"},
+        {"diretor": "Eduardo Nery", "voto": "acompanha a relatora", "ts": "0:17:35", "justificativa": "qualidade técnica do estudo; nenhum dos três portos apresenta risco estrutural, situação 'não de caos, mas de alerta'; o estudo deve ser catalisador para que todas as autoridades portuárias e terminais privados adotem a prática (cita o Porto do Açu) e implementem medidas de adaptação, muitas de baixo custo (monitoramento meteorológico, dragagem periódica, manutenção de vias, proteção costeira)", "tom": "elogioso, institucional", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "'Alexandre Lopes' não está na lista de diretores/substitutos da ANTAQ do prompt; registrado como dito na legenda (provável diretor substituto em dez/2022); sobrenome incerto.",
+    "Número do processo não é lido na sessão.",
+    "O .md só tem um marcador de minuto; os ts foram tirados de data/transcricoes/4i76UBzbHpo.json. O ts de Eduardo Nery é o início da fala (voto declarado a 0:25:21).",
+    "Após o encerramento (0:25:46) o vídeo é evento de divulgação técnica sem deliberação; não analisado como item."
+  ]
+}
