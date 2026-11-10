@@ -3,7 +3,7 @@
 Método: sorteio com semente fixa (3 reuniões por ano, 3 itens por reunião com ≥ 3 votos); subagentes independentes releram a transcrição **sem ver a análise original** e extraíram relator, tipo de resultado e voto por diretor. Concordância:
 
 - Relator: **97.2% (70/72)**
-- Resultado (unânime/maioria/vista/outro): **90.3% (65/72)**
+- Resultado (unânime/maioria/vista/outro): **93.1% (67/72)**
 - Voto por diretor (categoria): **84.2% (277/329)** · não localizado na conferência: 0
 - Itens não encontrados na conferência: 0
 

@@ -39,7 +39,11 @@ def comparar():
             if r.get("item_nao_encontrado"): n["item_nao_encontrado"] += 1; rows.append([ano, r["video_id"], r["item_id"], "item", "-", "nao_encontrado"]); continue
             ok_rel = norm(r.get("relator", "")).startswith(norm(g["relator"])[:6]) or norm(g["relator"])[:6] in norm(r.get("relator", "")) if g.get("relator") else True
             n["relator_total"] += 1; n["relator_ok"] += bool(ok_rel); rows.append([ano, r["video_id"], r["item_id"], "relator", g.get("relator"), r.get("relator")])
-            rg = "unanim" if re.search(r"unanim", g.get("resultado") or "", re.I) else "maioria" if re.search(r"maioria", g.get("resultado") or "", re.I) else "vista" if re.search(r"vista", g.get("resultado") or "", re.I) else "outro"
+            _r = g.get("resultado") or ""
+            _div = any((v or {}).get("cat") == "diverge" for v in (g.get("votos") or {}).values())
+            rg = ("unanim" if re.search(r"unanim", _r, re.I) else "maioria" if re.search(r"maioria|vencid|\d\s*x\s*\d|\d\s*a\s*\d", _r, re.I) else "vista" if re.search(r"vista", _r, re.I)
+                  else "outro" if re.search(r"retirad|sobrestad|dilig|sigilo|adiad", _r, re.I)
+                  else ("maioria" if _div else "unanim") if re.search(r"aprovad|referendad|deferid|indeferid|homologad|nos termos do voto|consenso|sem diverg", _r, re.I) else "outro")
             rr = r.get("resultado_tipo", "outro")
             n["resultado_total"] += 1; n["resultado_ok"] += (rg == rr); rows.append([ano, r["video_id"], r["item_id"], "resultado", rg, rr])
             for dn, gv in g["votos"].items():

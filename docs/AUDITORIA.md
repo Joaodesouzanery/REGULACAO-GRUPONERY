@@ -18,8 +18,9 @@ O que foi conferido, como e com que resultado. Detalhes: `docs/AUDITORIA_dados.j
 | ANTT 2019–2024 (2ª, 36 itens) | 94,2% | 100% | 97,2% |
 | ANTT 2025–2026 (48 itens) | 94,8% | 100% | 100% |
 | **ANTT 2019–2026, rodada C sem vazamento (48 itens, nomes em ordem alfabética)** | **94,2%** | **93,8%** | **100%** |
-| ANM 2019–2026 (72 itens) | 84,2% (2021–26 ≈ 96%; 2019 = 20%) | 97,2%* | 90,3% |
+| ANM 2019–2026 (72 itens) | 84,2% (2021–26 ≈ 96%; 2019 = 20%) | 97,2%* | 93,1% |
 | ANM × atas oficiais (1.830 itens) | — | 89,8% | 97,9% |
+| **ANTAQ 2019–2026 (49 itens, 16 reuniões, nomes em ordem alfabética)** | **92,3%** | **100%** | **100%** |
 \* rodada com vazamento parcial (ordem dos nomes); o cruzamento com as atas confirma relator e resultado.
 
 ## 3. Relatórios entregues — evidências citadas
@@ -31,3 +32,9 @@ Todas as evidências citadas (RD, data, item) existem na base: ANTT 82/82, ANM 8
 
 ## 5. O que continua sendo inferência
 Tom e «perfil» (cauteloso, procedimental) são leitura das justificativas, marcados como inferência. Desfecho para a empresa é aproximado (texto do voto do relator). Legenda automática erra nomes e números; 2019–2020 da ANM só como índice.
+
+## 6. Atualização 10/11/2026
+- **ANTAQ 2019–2026** entrou na base: 93 reuniões, 3.291 itens, 11.375 votos. Conferência cega: voto por diretor 92,3%, relator e resultado 100%. A maior parte da discordância é «acompanha» × «voto não ouvido» (votação simbólica). As datas de várias sessões vêm do upload do vídeo (anotado em cada análise); conferir com atas do gov.br.
+- **Conferência:** o comparador passou a contar «aprovado»/«referendado» sem a palavra «unanimidade» como unânime quando não há voto divergente (antes caía em «outro»). ANM resultado 90,3% → 93,1%.
+- **Desfecho para a empresa:** «multa reduzida»/«reduz a multa» agora conta como parcial. Respostas corrigidas com a base atual: CONCER 147 desfavoráveis / 9 parciais / 14 sem mérito; Rumo 15 / 8 favoráveis / 3 parciais / 23 neutros / 10 sem mérito; Vale (ANM) 31 / 7 / 6 / 28. Sustentação oral: 55% desfavorável com sustentação × 63% sem (n = 47).
+- **Relatório:** a caixa «desfecho favorável» lia o número de «desfavorável» (regex); corrigido com `(?<!des)`.
