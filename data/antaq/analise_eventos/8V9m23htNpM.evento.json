@@ -1,0 +1,70 @@
+{
+ "meta": {
+  "video_id": "8V9m23htNpM",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "audiencia",
+  "numero": "03/2018",
+  "titulo": "Audiência Pública nº 03/2018 - arrendamentos AI01, AE10 e AE11 em Cabedelo",
+  "data": "2018-06-07",
+  "local": "João Pessoa/PB (presencial)",
+  "objeto": "Edital e contrato de arrendamento de três terminais de granéis líquidos combustíveis no porto de Cabedelo",
+  "processo": null,
+  "tema": [
+   "arrendamentos e leilões portuários",
+   "granéis líquidos"
+  ],
+  "presidiu": "Mário Povia (diretor-geral)",
+  "diretores_presentes": [
+   "Mário Povia",
+   "Francisval Mendes"
+  ],
+  "participantes_externos": [
+   "EPL",
+   "Ministério dos Transportes, Portos e Aviação Civil / SNP",
+   "Companhia Docas da Paraíba",
+   "Marinha do Brasil"
+  ],
+  "resumo": "Audiência presencial presidida pelo diretor-geral Mário Povia, com o diretor Francisval Mendes na mesa, sobre três arrendamentos de combustíveis em Cabedelo. A EPL apresentou investimentos (~R$ 114 milhões) e prazos de 25 a 35 anos. A autoridade portuária saudou a renovação dos contratos vencidos. No encerramento o presidente destacou a segurança jurídica dos contratos de longo prazo.",
+  "posicoes": [
+   {
+    "quem": "Companhia Docas da Paraíba",
+    "posicao": "apoio à licitação para regularizar contratos vencidos e atrair investimentos",
+    "ts": "1:01:14"
+   }
+  ],
+  "encaminhamentos": [
+   "contribuições pelo sítio da ANTAQ (consulta encerrada em 28/05/2018)"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Francisval Mendes",
+   "ts": "0:04:12",
+   "tema": [
+    "arrendamentos e leilões portuários"
+   ],
+   "tipo": "abertura",
+   "resumo": "Abriu ressaltando a função da agência no desenvolvimento econômico e a competitividade de Cabedelo em combustíveis.",
+   "trecho": "é com enorme satisfação que estamos aqui reunido para mais uma rodada de debates em prol do setor portuário brasileiro",
+   "confianca": "media"
+  },
+  {
+   "diretor": "Mário Povia",
+   "ts": "1:05:23",
+   "tema": [
+    "arrendamentos e leilões portuários"
+   ],
+   "tipo": "encerramento",
+   "resumo": "Agradeceu servidores e disse que contratos de longo prazo trarão segurança jurídica e estabilidade regulatória aos investidores.",
+   "trecho": "licitar não é fácil e daí todos os cuidados para a licitação efetivamente ocorra dentro de uma regularidade dentro da mais absoluta legalidade e isonomia",
+   "confianca": "media"
+  }
+ ],
+ "limites_da_analise": [
+  "Falantes inferidos: a abertura passa a palavra a 'francival' (ASR); o encerramento é atribuído ao presidente da mesa (Povia) pelo contexto",
+  "A análise cobre janelas do resumo, não a sessão inteira"
+ ]
+}
