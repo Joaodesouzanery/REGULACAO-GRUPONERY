@@ -1,0 +1,90 @@
+{
+ "meta": {
+  "video_id": "aLKYo07boH4",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "workshop",
+  "numero": null,
+  "titulo": "Workshop - Em busca de uma sinergia para a prestação de melhores serviços à indústria marítima (ANTAQ e Tribunal Marítimo)",
+  "data": "2021-10-26",
+  "local": "virtual",
+  "objeto": "Aproximação institucional entre ANTAQ e Tribunal Marítimo/Marinha: registro de embarcações, autorizações, fiscalização e troca de informações",
+  "processo": null,
+  "tema": [
+   "navegação",
+   "fiscalização e sanções",
+   "cooperação institucional",
+   "transporte de passageiros"
+  ],
+  "presidiu": "ANTAQ e Tribunal Marítimo (condução compartilhada)",
+  "diretores_presentes": [
+   "Eduardo Nery"
+  ],
+  "participantes_externos": [
+   "Tribunal Marítimo (presidente)",
+   "Marinha do Brasil (Comandante Dionísio, registro de embarcações)"
+  ],
+  "resumo": "Workshop entre ANTAQ e Tribunal Marítimo. O presidente do Tribunal apresentou a história e as competências da corte e convidou a ANTAQ a visitas e eventos. O diretor-geral Eduardo Nery agradeceu, destacou a integração das duas instituições e apresentou a ANTAQ (diretoria colegiada, déficit de 111 vagas, ação da fiscalização sobre balsas que transportam caminhões). Servidores das superintendências de outorga e fiscalização detalharam autorizações e sistemas; anunciou-se acordo de cooperação técnica com a Marinha em fase final.",
+  "posicoes": [
+   {
+    "quem": "Tribunal Marítimo",
+    "posicao": "Defende integração e agilidade na emissão de documentos; segurança no transporte de passageiros na Amazônia",
+    "ts": "1:07:41"
+   },
+   {
+    "quem": "ANTAQ (servidores de fiscalização)",
+    "posicao": "Acordo de cooperação técnica com a Marinha a 90% de negociação",
+    "ts": "2:52:29"
+   }
+  ],
+  "encaminhamentos": [
+   "Acordo de cooperação técnica ANTAQ-Marinha em fase final",
+   "Proposta de visita da ANTAQ ao Tribunal Marítimo com pauta específica"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Eduardo Nery",
+   "ts": "0:35:43",
+   "tema": [
+    "cooperação institucional"
+   ],
+   "tipo": "abertura",
+   "resumo": "Agradece a apresentação do Tribunal Marítimo e destaca a importância histórica da aproximação entre as duas instituições, lembrando a visita feita à corte.",
+   "trecho": "como é importante essa essa integração é então como eu vou falar nisso é uma alegria muito grande",
+   "confianca": "media"
+  },
+  {
+   "diretor": "Eduardo Nery",
+   "ts": "0:44:58",
+   "tema": [
+    "gestão da agência"
+   ],
+   "tipo": "outro",
+   "resumo": "Na apresentação da ANTAQ, aponta déficit de servidores.",
+   "trecho": "Infelizmente hoje em dia temos uma uma um déficit aí de 111 vagas a serem preenchidas",
+   "confianca": "baixa"
+  },
+  {
+   "diretor": "Eduardo Nery",
+   "ts": "0:47:35",
+   "tema": [
+    "fiscalização e sanções",
+    "transporte de passageiros"
+   ],
+   "tipo": "compromisso",
+   "resumo": "Diz que a superintendência de fiscalização acompanha o cumprimento da decisão do Tribunal sobre instalações em balsas que levam caminhões.",
+   "trecho": "tá lá superintendência de fiscalização tá fazendo alguma ação ali para estar acompanhando né para saber se essa determinação ali do tribunal",
+   "confianca": "baixa"
+  }
+ ],
+ "limites_da_analise": [
+  "Falante de 0:35 inferido como o diretor-geral Eduardo Nery pela referência à visita ao Tribunal; a apresentação de 0:42-0:48 é atribuída a ele com confiança baixa",
+  "Flávia Takafashi é citada como tendo visitado o Tribunal, mas não há fala dela nas janelas",
+  "Menções a 'Lima Filho' (1:17, 2:47) parecem erro de legenda para o presidente do Tribunal; não tratadas como diretor",
+  "Eduardo Nery saiu por volta de 1:06; o fechamento foi feito por servidores",
+  "Análise cobre só as janelas do resumo"
+ ]
+}
