@@ -1,0 +1,865 @@
+{
+ "meta": {
+  "video_id": "dOwkHgnx5yM",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo extraído de data/transcricoes; ts de quem só acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "384",
+  "data": "2015-05-20",
+  "formato": "presencial (transmitida pela internet)",
+  "presidente_da_sessao": "Mário Povia (Diretor-Geral)",
+  "diretores_presentes": [
+   "Mário Povia",
+   "Fernando Fonseca",
+   "Adalberto Tokarski"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "A data do cabeçalho (2016-02-01) é a de upload; pelo conteúdo a sessão é de maio de 2015 (cita despacho da GAP de 05/05/2015, carta de 04/2015 e a 378ª RO de 12/02/2015 como anterior; a 385ª RO está datada ~01/06/2015). 2015-05-20 é aproximação.",
+   "Diretoria com três diretores: Mário Povia (DG), Fernando Fonseca e Adalberto Tokarski.",
+   "Única divergência: extrapauta 1 (tarifas da CDP), com Fernando Fonseca vencido. Item 2 com pedido de vista de Povia; item 21 retirado por Tokarski."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:30",
+   "processo": "50300.011072/2014-72 (número incerto)",
+   "interessado": "Imbituba Empreendimentos e Participações S.A. (IEP S.A.)",
+   "assunto": "Pedido de reconsideração de decisão da SFC que aplicou multa de R$ 200 mil e determinou PAS de cassação por descumprimento do TAC 06/2011-SPO (construção do TUP Terminal Privativo de Imbituba, SC)",
+   "tema": [
+    "fiscalização e sanções (TAC, multa)",
+    "recursos administrativos",
+    "autorização de TUP"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade (provimento parcial: TAC extinto sem multa)",
+   "resumo_voto": "Conhecer e dar provimento parcial: declarar extinto o TAC 06/2011-SPO sem aplicação da multa, pois o descumprimento ocorreu por motivos alheios à vontade da recorrente (áreas sob disputa judicial); PAS de cassação tratado em autos apartados.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, dá provimento parcial (extingue TAC sem multa)",
+     "ts": "0:00:52",
+     "confianca": "alta",
+     "justificativa": "descumprimento do TAC por motivos alheios à vontade da empresa (pendências judiciais sobre a área); prorrogação do TAC é discricionária e incabível"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "voto-vista: acompanha integralmente o relator",
+     "ts": "0:12:38",
+     "confianca": "alta",
+     "justificativa": "adota relatório e voto do relator na íntegra"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:14:17",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:14:24",
+   "processo": "50300.002318/2013-41 (número incerto)",
+   "interessado": "TNP Transporte, Navegação e Portos Multimodais Ltda.",
+   "assunto": "Processo administrativo sancionador (relatoria de Fernando Fonseca, já com vista de Adalberto Tokarski)",
+   "tema": [
+    "fiscalização e sanções"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "pedido de vista (Mário Povia)",
+   "resumo_voto": "Não houve deliberação: o Diretor-Geral pediu vista.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "pede vista",
+     "ts": "0:14:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:15:00",
+   "processo": "50300.002454/2014-12",
+   "interessado": "Constantino e Santos Ltda. (terminal do Porto do Grego, Santana-AP)",
+   "assunto": "Autorização para explorar instalação portuária pública de pequeno porte (IP4) de passageiros dentro da poligonal do porto organizado de Santana",
+   "tema": [
+    "autorização de IP4",
+    "poligonal de porto organizado",
+    "navegação interior / passageiros"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade (indeferido o pedido)",
+   "resumo_voto": "Impossibilidade de outorga porque a área está dentro da poligonal do porto organizado de Santana (Lei 12.815 e Decreto 8.033); ciência à SEP; SOG/SFC avaliam TAC (art. 42 da Res. 3290) e sobrestamento/arquivamento.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, indefere a autorização",
+     "ts": "0:19:24",
+     "confianca": "alta",
+     "justificativa": "terminal dentro da poligonal do porto organizado; recomenda avaliar TAC para regularização até revisão da poligonal"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "0:19:26",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:19:29",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:19:53",
+   "processo": "50300.(número incerto)/2012",
+   "interessado": "Itaituba Indústria de Cimentos do Pará S.A.",
+   "assunto": "Desistência do anúncio público 7/2013 (outorga de ETC em Icoaraci-PA (baía do Guajará)) e devolução da garantia de proposta; regularização passa à coligada Itaipava S.A.",
+   "tema": [
+    "autorização de ETC",
+    "anúncio público",
+    "desistência de outorga"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade (arquivamento e devolução da garantia)",
+   "resumo_voto": "Desistência é ato unilateral; arquivar os autos e devolver a garantia de proposta, pois a coligada Itaipava já protocolou novo pedido; ciência à SFC e à unidade regional para acompanhar a regularização.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, arquiva e devolve garantia",
+     "ts": "0:19:53",
+     "confianca": "alta",
+     "justificativa": "pedido de desistência é ato unilateral e direito da requerente; empresa do grupo já entrou com novo pedido"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "0:23:25",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:23:28",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:23:30",
+   "processo": "50300.003433/2011-71",
+   "interessado": "Itaituba Indústria de Cimentos do Pará S.A.",
+   "assunto": "Desistência do anúncio público 13/2013 (outorga de ETC em Itaituba-PA (Transamazônica)) e devolução da garantia de proposta; regularização passa à coligada Itaipava S.A.",
+   "tema": [
+    "autorização de ETC",
+    "anúncio público",
+    "desistência de outorga"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade (arquivamento e devolução da garantia)",
+   "resumo_voto": "Desistência é ato unilateral; arquivar os autos e devolver a garantia de proposta, pois a coligada Itaipava já protocolou novo pedido; ciência à SFC e à unidade regional para acompanhar a regularização.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, arquiva e devolve garantia",
+     "ts": "0:23:30",
+     "confianca": "media",
+     "justificativa": "pedido de desistência é ato unilateral e direito da requerente; empresa do grupo já entrou com novo pedido"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "0:24:45",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:24:51",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:24:51",
+   "processo": "(número incerto)",
+   "interessado": "Itaituba Indústria de Cimentos do Pará S.A.",
+   "assunto": "Desistência do anúncio público 27/2013 (outorga de ETC em Santarém-PA (rio Tapajós)) e devolução da garantia de proposta; regularização passa à coligada Itaipava S.A.",
+   "tema": [
+    "autorização de ETC",
+    "anúncio público",
+    "desistência de outorga"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade (arquivamento e devolução da garantia)",
+   "resumo_voto": "Desistência é ato unilateral; arquivar os autos e devolver a garantia de proposta, pois a coligada Itaipava já protocolou novo pedido; ciência à SFC e à unidade regional para acompanhar a regularização.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, arquiva e devolve garantia",
+     "ts": "0:24:51",
+     "confianca": "media",
+     "justificativa": "pedido de desistência é ato unilateral e direito da requerente; empresa do grupo já entrou com novo pedido"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "0:26:01",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:26:08",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "0:26:10",
+   "processo": "50300.001554/2013-41",
+   "interessado": "Itaituba Indústria de Cimentos do Pará S.A.",
+   "assunto": "Desistência do anúncio público 29/2013 (outorga de ETC em rodovia Santana–Mazagão-AP) e devolução da garantia de proposta; regularização passa à coligada Itaipava S.A.",
+   "tema": [
+    "autorização de ETC",
+    "anúncio público",
+    "desistência de outorga"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade (arquivamento e devolução da garantia)",
+   "resumo_voto": "Desistência é ato unilateral; arquivar os autos e devolver a garantia de proposta, pois a coligada Itaipava já protocolou novo pedido; ciência à SFC e à unidade regional para acompanhar a regularização.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, arquiva e devolve garantia",
+     "ts": "0:26:10",
+     "confianca": "media",
+     "justificativa": "pedido de desistência é ato unilateral e direito da requerente; empresa do grupo já entrou com novo pedido"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "0:27:03",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:27:05",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "0:27:08",
+   "processo": "50306.000684/2012 (número incerto)",
+   "interessado": "Itautinga Agroindustrial S.A.",
+   "assunto": "Desistência do anúncio público 15/2013 (outorga de ETC em Manaus-AM (Colônia Antônio Aleixo)) e devolução da garantia de proposta; regularização passa à coligada Itaipava S.A.",
+   "tema": [
+    "autorização de ETC",
+    "anúncio público",
+    "desistência de outorga"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade (arquivamento e devolução da garantia)",
+   "resumo_voto": "Desistência é ato unilateral; arquivar os autos e devolver a garantia de proposta, pois a coligada Itaipava já protocolou novo pedido; ciência à SFC e à unidade regional para acompanhar a regularização.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, arquiva e devolve garantia",
+     "ts": "0:27:08",
+     "confianca": "media",
+     "justificativa": "pedido de desistência é ato unilateral e direito da requerente; empresa do grupo já entrou com novo pedido"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "0:28:20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:28:22",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "0:28:27",
+   "processo": "50300.002733/2014-86 (número incerto)",
+   "interessado": "Saveiro Tour Navegação e Turismo Ltda.",
+   "assunto": "Outorga de autorização para operar como EBN na navegação de apoio marítimo",
+   "tema": [
+    "navegação e afretamento (apoio marítimo, EBN)",
+    "outorga de autorização"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade (deferido)",
+   "resumo_voto": "Deferir autorização por prazo indeterminado como EBN de apoio marítimo (Res. 2510/2012), com base em SOG e PFA.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, defere",
+     "ts": "0:28:45",
+     "confianca": "alta",
+     "justificativa": "processo regular, manifestações favoráveis de SOG e PFA"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:29:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:29:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "0:29:35",
+   "processo": "50306.002791/2013-79",
+   "interessado": "Baltar Transporte e Navegação Ltda.",
+   "assunto": "Renúncia à autorização de EBN para transporte de passageiros e misto na navegação interior longitudinal interestadual (região hidrográfica amazônica)",
+   "tema": [
+    "navegação interior",
+    "renúncia de outorga"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade (renúncia deferida)",
+   "resumo_voto": "Extinguir a autorização (TA 1028/Res. 3276/2014), ressalvando que a extinção não isenta a empresa de sanções por descumprimentos anteriores.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, defere a renúncia",
+     "ts": "0:29:35",
+     "confianca": "alta",
+     "justificativa": "extinção da outorga não isenta de sanções em processo próprio"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:31:05",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:31:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "0:31:10",
+   "processo": "50312.001106/2014-99 (número incerto)",
+   "interessado": "Ria Cruz Locação de Embarcações Ltda.",
+   "assunto": "Processo administrativo sancionador por operar navegação de apoio portuário/marítimo sem autorização (UR Vitória)",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "navegação de apoio portuário e marítimo"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade (auto subsistente, multa)",
+   "resumo_voto": "Auto de infração subsistente; multa de cerca de R$ 10.631,25 (valor da legenda) por operar sem autorização (art. 21, XVII, Res. 2510); TAC incabível para infração já consumada.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aplica multa",
+     "ts": "0:31:10",
+     "confianca": "alta",
+     "justificativa": "infração consumada; outorga posterior não afasta a conduta; TAC incabível"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:36:27",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:36:27",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "0:36:30",
+   "processo": "50302.000377/2014-46 (número incerto)",
+   "interessado": "Fischer S.A. Agroindústria (terminal no porto de Santos)",
+   "assunto": "Pedido de reconsideração contra multa de R$ 18 mil aplicada na 376ª RO por não realizar agendamento de veículos para acesso ao terminal",
+   "tema": [
+    "recursos administrativos",
+    "fiscalização e sanções (multa)",
+    "acesso terrestre / agendamento"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade (recurso conhecido e negado)",
+   "resumo_voto": "Conhecer e negar provimento; manter multa de R$ 18 mil (art. 32, I, Res. 3274); SGE e PFA promovem cobrança.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, nega provimento",
+     "ts": "0:36:30",
+     "confianca": "alta",
+     "justificativa": "razões não alteram a decisão; acompanha SFC e PFA"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:40:26",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:40:26",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "0:40:29",
+   "processo": "(número incerto)/2012",
+   "interessado": "Itaituba Indústria de Cimentos do Pará S.A.",
+   "assunto": "Homologação de desistência do anúncio público 7/2013 (TUP na área do porto organizado de Belém) e devolução da garantia de proposta (~R$ 22.543)",
+   "tema": [
+    "autorização de TUP",
+    "anúncio público",
+    "desistência de outorga",
+    "poligonal de porto organizado"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Homologar desistência e devolver a garantia (grupo econômico vem buscando regularizar; mesma solução dada a outros pedidos); SFC observar art. 42 da Res. 3290 em fiscalizações, sem prejuízo de outras autuações; comunicar SEP.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, homologa desistência e devolve garantia",
+     "ts": "0:40:29",
+     "confianca": "alta",
+     "justificativa": "justo e razoável devolver a garantia: grupo vem envidando esforços para regularizar; coerência com decisões recentes"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:48:03",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:48:03",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "0:48:08",
+   "processo": "50300.000359/2012 (número incerto)",
+   "interessado": "Companhia Docas do Rio de Janeiro (CDRJ) — porto de Itaguaí; Vale",
+   "assunto": "Recurso administrativo contra multa por descumprimento do TAC 03/2011-SPO (licitação da área arrendada à Vale/Valesul em Itaguaí)",
+   "tema": [
+    "recursos administrativos",
+    "fiscalização e sanções (TAC, multa)",
+    "arrendamento em porto organizado"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade (recurso negado)",
+   "resumo_voto": "Negar provimento e ratificar multa (legenda oscila entre R$ 1.000 e R$ 100.000; o TAC previa R$ 100 mil); determina fiscalização extraordinária da área e envio à SOG quanto a contrato de transição com a CSN.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, nega provimento",
+     "ts": "0:48:08",
+     "confianca": "alta",
+     "justificativa": "como autoridade portuária a CDRJ tinha instrumentos para licitar; inércia da Vale não exime; contrato emergencial não se confunde com cumprimento do TAC"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:02:33",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:02:33",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "1:02:38",
+   "processo": "50300.002181/2007-87",
+   "interessado": "Porto do Recife S.A.; Porto Novo Recife S.A.",
+   "assunto": "Convalidação do 1º termo aditivo ao contrato de arrendamento não operacional (inclusão do Pátio 14 Sul) — projeto de revitalização do porto do Recife",
+   "tema": [
+    "arrendamento em porto organizado",
+    "área não operacional",
+    "poder concedente (SEP)"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Reconhecer a possibilidade de convalidação do aditivo, a ser firmado pela SEP como poder concedente, e encaminhar os autos à SEP.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, reconhece possibilidade de convalidação",
+     "ts": "1:02:38",
+     "confianca": "alta",
+     "justificativa": "área já integrava edital e anexos, omitida por erro no contrato; competência de firmar é da SEP"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:07:32",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:07:32",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "1:07:35",
+   "processo": "50311.002284/2013 (número incerto)",
+   "interessado": "Companhia das Docas do Estado da Bahia (CODEBA) — porto de Ilhéus",
+   "assunto": "Processo administrativo sancionador (auto 00715-3/2014): combate a incêndio, contratos de uso temporário/arrendamento, tarifas de armazenagem etc.",
+   "tema": [
+    "fiscalização e sanções (multa, TAC)",
+    "autoridade portuária",
+    "segurança contra incêndio"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade (multa e TAC)",
+   "resumo_voto": "Auto subsistente com enquadramento na Res. 858 (vigente à época); multa de cerca de R$ 118.750 (legenda incerta) excluída a parcela do combate a incêndio, que será objeto de TAC; SOG/SFC apuram contrato temporário com Menezes e Filho e aditamento com Da Norte.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, auto subsistente, multa e TAC",
+     "ts": "1:07:35",
+     "confianca": "alta",
+     "justificativa": "alinha-se à proposta de TAC para incêndio, como em Salvador e Aratu; corrobora dosimetria da SFC"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator, com observação",
+     "ts": "1:18:30",
+     "confianca": "alta",
+     "justificativa": "correção de rumo: fato de 2013 deve ser tipificado pela norma vigente na época (Res. 858); a nova norma vale para questões processuais"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:18:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "1:19:36",
+   "processo": "50306.000430/2017 (número incerto)",
+   "interessado": "Chibatão Navegação e Comércio Ltda. (Manaus)",
+   "assunto": "Pedido de reconsideração contra multa de R$ 357 mil por iniciar ampliação de instalação portuária (segunda ponte de acesso ao cais flutuante) sem autorização",
+   "tema": [
+    "recursos administrativos",
+    "fiscalização e sanções (multa)",
+    "autorização de TUP / ampliação"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade (recurso negado)",
+   "resumo_voto": "Negar provimento e manter multa de R$ 357 mil (art. 36, XIII, Res. 3274); dolo não é requisito; sem bis in idem; empresa deveria ter pedido autorização emergencial.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, nega provimento",
+     "ts": "1:19:36",
+     "confianca": "alta",
+     "justificativa": "fato consumado impõe manutenção; empresa poderia ter pedido autorização prévia em caráter emergencial"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:25:47",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:25:47",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "1:25:52",
+   "processo": "50300.000891/2013-11",
+   "interessado": "ATP (Associação de Terminais Portuários Privados) e ABTP (Associação Brasileira dos Terminais Portuários)",
+   "assunto": "Pedidos de reconsideração contra a Resolução Normativa 2/2015 (alteração da Res. 3274; incisos 40 e 41 do art. 32)",
+   "tema": [
+    "regulação normativa",
+    "recursos administrativos",
+    "audiência pública"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade (pedidos negados)",
+   "resumo_voto": "Conhecer e negar: houve audiência pública 01/2014; AIR não é cogente; não há ofensa à livre iniciativa/concorrência; mantidos os incisos 40 e 41.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, nega provimento",
+     "ts": "1:25:52",
+     "confianca": "alta",
+     "justificativa": "norma foi submetida a audiência pública com participação das associações; inciso 41 nasceu das contribuições"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:33:34",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:33:34",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "1:33:37",
+   "processo": "50300.000525/2016 (número incerto)",
+   "interessado": "Administração dos Portos de Paranaguá e Antonina (APPA)",
+   "assunto": "Autorização para baixa e doação ao Provopar de bens inservíveis (mobiliário e equipamentos) do porto de Antonina",
+   "tema": [
+    "bens da União / patrimônio portuário",
+    "autoridade portuária"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Autorizar desincorporação física e contábil e doação ao Provopar dos bens dos termos de vistoria 01 a 07/2013 (baixo valor residual; leilão mais oneroso).",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, autoriza",
+     "ts": "1:33:37",
+     "confianca": "alta",
+     "justificativa": "cumprida a Res. 443/2005; leilão seria mais oneroso que o valor dos bens"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:42:18",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:42:18",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "1:42:29",
+   "processo": "(número incerto)/1998",
+   "interessado": "Braskem S.A. (sucessora da Trikem S.A.) — TUP no Pontal da Barra, Maceió-AL",
+   "assunto": "Adaptação do contrato de adesão MTDP 79/1999 à Lei 12.815 com transferência de titularidade à incorporadora",
+   "tema": [
+    "autorização de TUP",
+    "adaptação contratual",
+    "transferência de titularidade"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprovar adaptação e transferência concomitante à Braskem (Trikem extinta por incorporação em 2004), na forma da minuta; ciência à SEP. Povia esclarece que a adaptação é feita integralmente na ANTAQ.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "1:42:29",
+     "confianca": "alta",
+     "justificativa": "impossível adaptar em nome de empresa extinta; requerente atendeu Lei 12.815, Decreto 8.033 e Res. 3290"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "1:49:23",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator, com esclarecimento",
+     "ts": "1:49:27",
+     "confianca": "alta",
+     "justificativa": "adaptação feita junto à ANTAQ em nome da sucessora; minuta talvez precise retificar referência à SEP"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "1:50:21",
+   "processo": "50313.(número incerto)/2010-7",
+   "interessado": "Companhia Docas de Imbituba (CDI)",
+   "assunto": "Tomada de contas e pedido de revisão",
+   "tema": [
+    "autoridade portuária",
+    "institucional"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "Retirado de pauta por Adalberto Tokarski.",
+   "votos": []
+  },
+  {
+   "id": "22",
+   "ts": "1:50:39",
+   "processo": "(número incerto)/2013-8",
+   "interessado": "Darci Júnior Navegação e Comércio Ltda. ME (Santana-AP)",
+   "assunto": "Outorga de autorização de EBN para transporte misto na navegação interior interestadual (Macapá/Santana-AP – Vitória do Xingu-PA)",
+   "tema": [
+    "navegação interior",
+    "outorga de autorização"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade (deferido)",
+   "resumo_voto": "Expedir termo de autorização (Res. 912), com base em GAN, SOG e PFA.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, defere",
+     "ts": "1:50:39",
+     "confianca": "alta",
+     "justificativa": "aspectos legais e normativos observados"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "1:53:11",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:53:11",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "EP1",
+   "ts": "1:53:18",
+   "processo": "50300.000781/2015 (número incerto)",
+   "interessado": "Companhia Docas do Pará (CDP) e demais Companhias Docas",
+   "assunto": "Referendo da publicação das tabelas tarifárias reajustadas da CDP com supressão da tarifa de infraestrutura de acesso aquaviário para a navegação interior (porto de Belém)",
+   "tema": [
+    "tarifas portuárias",
+    "navegação interior",
+    "autoridade portuária"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por maioria (Fernando Fonseca vencido)",
+   "resumo_voto": "Ratifica as tarifas da CDP como publicadas no DOU, sem a rubrica de infraestrutura aquaviária para navegação interior (barcaças de pequeno calado não usam a dragagem); CDP podia compensar em outras rubricas.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, referenda a publicação (supressão da rubrica)",
+     "ts": "1:53:18",
+     "confianca": "alta",
+     "justificativa": "não é renúncia de receita: reajuste médio permitia compensar em outras rubricas; tarifa deve corresponder à contraprestação (estudo USP, determinação do TCU); competência da agência"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "diverge (vencido)",
+     "ts": "1:56:25",
+     "confianca": "alta",
+     "justificativa": "cobrança de R$ 0,21/t já é proporcional; isenção sem objetivo de atrair carga é renúncia de receita, abre precedente e exigiria tratamento isonômico; tema seria do poder concedente"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:59:57",
+     "confianca": "alta",
+     "justificativa": "80% da navegação interior está na Amazônia; embarcações com até ~3 m de calado não usam a dragagem; corrige cobrança indevida, não é isenção"
+    }
+   ]
+  },
+  {
+   "id": "EP2",
+   "ts": "2:05:45",
+   "processo": "50300.000251/2015-72 (número incerto)",
+   "interessado": "Metasa Óleo e Gás Ltda. (Charqueadas-RS, rio Jacuí)",
+   "assunto": "Autorização em caráter especial e de emergência (180 dias) para movimentar estruturas metálicas de grande porte em TUP ainda em processo de outorga (anúncio público 14/2015)",
+   "tema": [
+    "autorização especial/emergencial",
+    "autorização de TUP"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade (deferido)",
+   "resumo_voto": "Deferir por 180 dias (art. 49 da Lei 10.233), sem direito à continuidade; dispensada manifestação da PFA por ser matéria recorrente.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, defere",
+     "ts": "2:05:45",
+     "confianca": "alta",
+     "justificativa": "matéria análoga a autorizações já concedidas; parecer favorável da SOG"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:09:18",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:09:18",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "21 — Companhia Docas de Imbituba, tomada de contas e pedido de revisão (retirado pelo relator Adalberto Tokarski)"
+  }
+ ],
+ "limites_da_analise": [
+  "Data real não confirmada (ver observações).",
+  "Números de processo, valores de multa e nomes de empresas vêm da legenda automática e podem estar errados (marcados como incertos); ex.: multa da CDRJ aparece como R$ 1.000 e R$ 100.000.",
+  "A legenda atribui falantes de outra época (Alber Vasconcelos, Frederico Dias); considerados apenas Povia, Fonseca e Tokarski.",
+  "O .md não tem marcadores de minuto; ts tirados de data/transcricoes/dOwkHgnx5yM.json por busca de frase; votos de quem só acompanha têm ts aproximado."
+ ]
+}
