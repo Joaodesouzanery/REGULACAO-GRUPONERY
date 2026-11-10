@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "video_id": "TIGVwxlDrIg",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "audiencia",
+  "numero": "12/2020",
+  "titulo": "Audiência Pública nº 12/2020 - arrendamento PEL01 (Porto de Pelotas)",
+  "data": "2020-08-19",
+  "local": "virtual",
+  "objeto": "Documentos técnicos e jurídicos da licitação de arrendamento da área PEL01 no Porto de Pelotas/RS (carga geral, especialmente toras de madeira)",
+  "processo": null,
+  "tema": [
+   "arrendamentos e leilões portuários",
+   "celulose / toras de madeira",
+   "participação social"
+  ],
+  "presidiu": "Bruno Pinheiro (presidente da comissão de licitação da ANTAQ)",
+  "diretores_presentes": [
+   "Adalberto Tokarski",
+   "Joelson Miranda"
+  ],
+  "participantes_externos": [
+   "SNPTA/Minfra (Fábio Lavor)",
+   "EPL (Fernando Castilho)",
+   "SUPRG / Portos RS (Fernando Estima)",
+   "CMPC (Roberto Carlos)"
+  ],
+  "resumo": "Audiência virtual sobre o arrendamento PEL01 em Pelotas para movimentação de toras de madeira destinadas à produção de celulose. Abertura com diretores Tokarski e Joelson Miranda (em sua primeira audiência como diretor, substituto), chefe de gabinete representando o DG Francisval Mendes, SNPTA, EPL e autoridade portuária. EPL apresentou o projeto; dois inscritos, entre eles a CMPC, que relatou uso do modal hidroviário para a celulose.",
+  "posicoes": [
+   {
+    "quem": "CMPC (Roberto Carlos)",
+    "posicao": "Destacou que transporta cerca de 95% da produção por hidrovia e apoiou a viabilização do terminal de Pelotas",
+    "ts": "0:35:58"
+   },
+   {
+    "quem": "EPL (Fernando Castilho)",
+    "posicao": "Audiência serve para colher subsídios e tornar o projeto factível",
+    "ts": "1:01:18"
+   }
+  ],
+  "encaminhamentos": [
+   "Contribuições pelo sítio da ANTAQ até 26/08/2020 (prazo citado na legenda)"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Adalberto Tokarski",
+   "ts": "0:01:42",
+   "tema": [
+    "arrendamentos e leilões portuários",
+    "celulose / toras de madeira",
+    "participação social"
+   ],
+   "tipo": "abertura",
+   "resumo": "Saudou a mesa, relatou ter visitado o terminal e disse que o arrendamento ajudará a viabilizar o terminal e é importante para Pelotas, Rio Grande e o RS.",
+   "trecho": "se nós tivermos um arrendamento ou cayenne citação por um arrendamento aí é lá no terminal ele ele vai ajudar a viabilizar o terminal",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Joelson Miranda",
+   "ts": "0:04:01",
+   "tema": [
+    "arrendamentos e leilões portuários",
+    "celulose / toras de madeira",
+    "participação social"
+   ],
+   "tipo": "abertura",
+   "resumo": "Primeira audiência como diretor (substituto); elogiou a pauta de licitações do governo e a importância de áreas pequenas para a economia local.",
+   "trecho": "é um prazer estar participando dessa minha primeira audiência pública na qualidade de diretor",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Joelson Miranda",
+   "ts": "1:02:50",
+   "tema": [
+    "arrendamentos e leilões portuários",
+    "celulose / toras de madeira",
+    "participação social"
+   ],
+   "tipo": "encerramento",
+   "resumo": "Agradeceu, elogiou estudos e destacou transparência e diálogo da agência com o setor mesmo na pandemia.",
+   "trecho": "essa audiência virtual é mais uma demonstração do nível de transparência e do nível de diálogo que agência tem com todo o setor",
+   "confianca": "alta"
+  }
+ ],
+ "limites_da_analise": [
+  "Análise cobre apenas as janelas do resumo (abertura, menções a diretores, encerramento), não a sessão inteira; legenda automática com erros de nomes.",
+  "Joelson Miranda atuava como diretor substituto (vaga de Mário Povia, substituindo Gabriela Costa, segundo a fala); DG Francisval Mendes ausente, representado pela chefe de gabinete.",
+  "Trecho de Tokarski tem erros graves de ASR."
+ ]
+}

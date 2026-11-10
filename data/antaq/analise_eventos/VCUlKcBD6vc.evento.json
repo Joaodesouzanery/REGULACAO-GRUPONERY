@@ -1,0 +1,81 @@
+{
+ "meta": {
+  "video_id": "VCUlKcBD6vc",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "audiencia",
+  "numero": "03/2026",
+  "titulo": "Audiência Pública nº 03/2026 - arrendamento MUC05 (Porto de Fortaleza)",
+  "data": "2026-05-09",
+  "local": "híbrido",
+  "objeto": "Documentos técnicos e jurídicos da licitação de arrendamento da área MUC05 (granéis sólidos minerais, cimento) no Porto Organizado de Fortaleza",
+  "processo": null,
+  "tema": [
+   "arrendamentos e leilões portuários",
+   "granéis sólidos minerais",
+   "Porto de Fortaleza (Mucuripe)"
+  ],
+  "presidiu": "Igor Costa (secretário especial de licitação e concessões da ANTAQ)",
+  "diretores_presentes": [
+   "Cristina Castro"
+  ],
+  "participantes_externos": [
+   "MPor (Bruno Nery)",
+   "PPI/Casa Civil (Patrícia Gravina)",
+   "LabTrans/UFSC",
+   "trabalhadores portuários do Mucuripe (Paulo Renato)"
+  ],
+  "resumo": "Audiência sobre o arrendamento MUC05 em Fortaleza, com projeto do LabTrans (contrato de 25 anos, VPL positivo). A diretora relatora Cristina Castro abriu e saiu antes das manifestações, garantindo que as contribuições seriam avaliadas em sua relatoria. MPor e PPI destacaram a carteira de arrendamentos em Mucuripe. Representante dos trabalhadores pediu atenção ao custo e aos postos de trabalho.",
+  "posicoes": [
+   {
+    "quem": "Trabalhadores portuários (Paulo Renato)",
+    "posicao": "Arrendamento de 25 anos não deve prejudicar os trabalhadores; questionou números do OGMO",
+    "ts": "1:23:32"
+   },
+   {
+    "quem": "MPor (Bruno Nery)",
+    "posicao": "Mucuripe terá quase meio bilhão em investimentos com MUC03, MUC04 e MUC05",
+    "ts": "0:28:27"
+   }
+  ],
+  "encaminhamentos": [
+   "Contribuições até 11/05/2026 pelo portal da ANTAQ",
+   "Respostas publicadas e retorno à relatoria da diretora Cristina Castro"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Cristina Castro",
+   "ts": "0:24:36",
+   "tema": [
+    "arrendamentos e leilões portuários",
+    "granéis sólidos minerais",
+    "Porto de Fortaleza (Mucuripe)"
+   ],
+   "tipo": "abertura",
+   "resumo": "Disse que a audiência é o momento em que a ANTAQ abre as portas ao mercado e que as contribuições voltarão à sua relatoria.",
+   "trecho": "É o momento em que a gente escuta, obviamente a gente apresenta o que fizemos e a gente escuta vocês para que depois volte para minha relatoria",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Cristina Castro",
+   "ts": "1:08:35",
+   "tema": [
+    "arrendamentos e leilões portuários",
+    "granéis sólidos minerais",
+    "Porto de Fortaleza (Mucuripe)"
+   ],
+   "tipo": "compromisso",
+   "resumo": "Antes de sair, garantiu que todas as considerações serão avaliadas e lembrou o prazo de 11 de maio.",
+   "trecho": "todas as considerações, eh, que agora nós vamos receber, serão avaliadas, serão estudadas, serão escutadas",
+   "confianca": "alta"
+  }
+ ],
+ "limites_da_analise": [
+  "Análise cobre apenas as janelas do resumo (abertura, menções a diretores, encerramento), não a sessão inteira; legenda automática com erros de nomes.",
+  "Cristina Castro como diretora relatora (substituta). Primeiros 22 min sem legenda útil.",
+  "Data do evento conforme metadado (2026-05-09); a fala cita consulta encerrando 11/05."
+ ]
+}

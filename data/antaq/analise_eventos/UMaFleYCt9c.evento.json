@@ -1,0 +1,111 @@
+{
+ "meta": {
+  "video_id": "UMaFleYCt9c",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "audiencia",
+  "numero": "14/2019",
+  "titulo": "Audiência Pública nº 14/2019 - revisão da RN 18",
+  "data": "2019-12-18",
+  "local": "Brasília/DF (presencial)",
+  "objeto": "Alteração da Resolução Normativa ANTAQ nº 18 (direitos e deveres de usuários, agentes intermediários e empresas de navegação de apoio, cabotagem e longo curso)",
+  "processo": null,
+  "tema": [
+   "regulação normativa",
+   "direitos dos usuários",
+   "navegação marítima / longo curso",
+   "agentes marítimos"
+  ],
+  "presidiu": "Sérgio Oliveira (superintendente de regulação substituto)",
+  "diretores_presentes": [
+   "Mário Povia",
+   "Adalberto Tokarski"
+  ],
+  "participantes_externos": [
+   "Fenamar (Francisco Carlos de Moraes Silva)",
+   "CMA CGM (Mary Laine Carrijo)",
+   "MSC",
+   "armadores"
+  ],
+  "resumo": "Audiência presencial sobre ajustes pontuais na RN 18. O DG Mário Povia disse que a revisão corrige conceitos, que a agência não pretende regular câmbio e que as reclamações caíram. Tokarski lembrou ter proposto mais audiências na elaboração original e saiu cedo. Fenamar criticou o enquadramento do agente marítimo como intermediário; armadores criticaram o conceito de pontualidade.",
+  "posicoes": [
+   {
+    "quem": "Fenamar",
+    "posicao": "Agente marítimo é mero mandatário do armador e não deve responder por obrigações do transportador",
+    "ts": "0:11:53"
+   },
+   {
+    "quem": "CMA CGM",
+    "posicao": "Contra o conceito de pontualidade (art. 14), pois armadores só trabalham com estimativa de chegada",
+    "ts": "0:28:14"
+   }
+  ],
+  "encaminhamentos": [
+   "Contribuições pelo sítio da ANTAQ até 02/01/2020"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Mário Povia",
+   "ts": "0:03:18",
+   "tema": [
+    "regulação normativa",
+    "direitos dos usuários",
+    "navegação marítima / longo curso",
+    "agentes marítimos"
+   ],
+   "tipo": "abertura",
+   "resumo": "Disse que a revisão traz ajustes pontuais de conceitos, que a agência não pretende regular questões cambiais e que a norma vem cumprindo o objetivo.",
+   "trecho": "agência reconhece nem pretende nem tenho essa pretensão e querer regular questões cambiais essa matéria não é nossa",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Adalberto Tokarski",
+   "ts": "0:05:36",
+   "tema": [
+    "regulação normativa",
+    "direitos dos usuários",
+    "navegação marítima / longo curso",
+    "agentes marítimos"
+   ],
+   "tipo": "abertura",
+   "resumo": "Lembrou que propôs mais audiências na RN 18 e defendeu que norma deve ser muito discutida e não mexida toda hora.",
+   "trecho": "norma na minha opinião não é noé pra ficar mexendo toda hora",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Mário Povia",
+   "ts": "0:26:43",
+   "tema": [
+    "regulação normativa",
+    "direitos dos usuários",
+    "navegação marítima / longo curso",
+    "agentes marítimos"
+   ],
+   "tipo": "resposta",
+   "resumo": "Afirmou que a norma não traz conceito novo fora da lei e jurisprudência e que voltaria atrás se comprovado.",
+   "trecho": "a norma não traz nenhum conceito novo que não esteja da lei",
+   "confianca": "baixa"
+  },
+  {
+   "diretor": "Mário Povia",
+   "ts": "1:28:47",
+   "tema": [
+    "regulação normativa",
+    "direitos dos usuários",
+    "navegação marítima / longo curso",
+    "agentes marítimos"
+   ],
+   "tipo": "resposta",
+   "resumo": "Respondeu sobre penalidades e agentes marítimos: a agência buscará o armador, o agente não será solidário.",
+   "trecho": "nós não estamos é ancorado as nossas expectativas no agente marítimo absolutamente não",
+   "confianca": "baixa"
+  }
+ ],
+ "limites_da_analise": [
+  "Análise cobre apenas as janelas do resumo (abertura, menções a diretores, encerramento), não a sessão inteira; legenda automática com erros de nomes.",
+  "Falas de 0:26 e 1:28 atribuídas a Mário Povia por estilo e contexto (pode ser o presidente Sérgio Oliveira); confiança baixa."
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "meta": {
+  "video_id": "Tw1PC_QO8YU",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "audiencia",
+  "numero": "01/2022",
+  "titulo": "Audiência Pública nº 01/2022 - desestatização do Porto de Santos (2ª audiência)",
+  "data": "2022-03-14",
+  "local": "virtual",
+  "objeto": "Documentos técnicos e jurídicos do certame de concessão do Porto Organizado de Santos/SP",
+  "processo": null,
+  "tema": [
+   "concessão portuária",
+   "desestatização",
+   "Porto de Santos",
+   "participação social"
+  ],
+  "presidiu": "Bruno Pinheiro (presidente da comissão de licitação da ANTAQ)",
+  "diretores_presentes": [
+   "Eduardo Nery",
+   "Flávia Takafashi"
+  ],
+  "participantes_externos": [
+   "Minfra/SNPTA (Diogo Piloni, Fábio Lavor)",
+   "SPA (Fernando Biral, Bruno Stupello)",
+   "BNDES",
+   "PPI (Leonardo, Amanda Seabra)",
+   "ABTP (Jesualdo Silva, Daniel Bogia)",
+   "Cláudio (inscrito)",
+   "Maria Vegas (inscrita)"
+  ],
+  "resumo": "Segunda audiência pública sobre a desestatização do Porto de Santos. O DG Eduardo Nery abriu dizendo que o processo só se justifica para tornar o porto o mais eficiente do país e pediu contribuições sobre a redação dos documentos. BNDES apresentou a modelagem; inscritos (ABTP e outros) levantaram dúvidas sobre reequilíbrio econômico-financeiro e garantias. Encerramento do DG previu leilão até o fim do ano.",
+  "posicoes": [
+   {
+    "quem": "ABTP (Daniel Bogia)",
+    "posicao": "Pediu que garantias e regras de reequilíbrio econômico-financeiro constem desde já na documentação",
+    "ts": "1:37:42"
+   },
+   {
+    "quem": "ABTP (Jesualdo Silva)",
+    "posicao": "Protocolou pedido de prorrogação do prazo da consulta",
+    "ts": "1:15:26"
+   }
+  ],
+  "encaminhamentos": [
+   "Consulta pública até 16/03/2022",
+   "Pedido de prorrogação será analisado e encaminhado à diretoria colegiada",
+   "Expectativa do DG de leilão até o fim de 2022"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Eduardo Nery",
+   "ts": "0:08:51",
+   "tema": [
+    "concessão portuária",
+    "desestatização",
+    "Porto de Santos",
+    "participação social"
+   ],
+   "tipo": "abertura",
+   "resumo": "Disse que a concessão só se justifica para tornar Santos o porto mais eficiente do país; citou plano de investimentos obrigatórios e pediu contribuições.",
+   "trecho": "o objetivo aqui é maior do que esse, é tornar o porto mais eficiente do país",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Eduardo Nery",
+   "ts": "3:24:50",
+   "tema": [
+    "concessão portuária",
+    "desestatização",
+    "Porto de Santos",
+    "participação social"
+   ],
+   "tipo": "encerramento",
+   "resumo": "Afirmou que muitas contribuições serão incorporadas e previu a realização do leilão até o fim do ano.",
+   "trecho": "nos dê tanta confiança que vamos chegar até o final do ano com essa concessão, com essa leilão sendo realizado",
+   "confianca": "alta"
+  }
+ ],
+ "limites_da_analise": [
+  "Análise cobre apenas as janelas do resumo (abertura, menções a diretores, encerramento), não a sessão inteira; legenda automática com erros de nomes.",
+  "Flávia Takafashi é citada como presente, sem fala nas janelas.",
+  "Trecho de 0:09:38 citado a partir do segmento que começa em 0:09:38 (abertura iniciada 0:08:51)."
+ ]
+}
