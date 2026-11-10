@@ -43,6 +43,58 @@
    "votos": []
   },
   {
+   "id": "6",
+   "ts": "0:16:00",
+   "processo": "50300.007516/95 (grafia incerta)",
+   "interessado": "MPor; área VDC29, porto organizado de Vila do Conde (PA)",
+   "assunto": "Procedimento licitatório do arrendamento VDC29",
+   "tema": [
+    "arrendamento em porto organizado",
+    "pedido de vista"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "não deliberado: vista renovada pelo revisor Alber Vasconcelos",
+   "resumo_voto": "Relator já consignou voto nos autos; revisor renova vista para reunião com MPor e Infra S.A. e pretende trazer divergência.",
+   "votos": [
+    {
+     "diretor": "Lima Filho",
+     "voto": "relator (voto já consignado nos autos)",
+     "ts": "0:16:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Alber Vasconcelos",
+     "voto": "renova vista (revisor), anuncia divergência",
+     "ts": "0:16:38",
+     "justificativa": "acordo com MPor de reunião com a Infra S.A. para discutir pontos e trazer divergência no voto",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "vista-Login",
+   "ts": "0:15:50",
+   "processo": "50300.001699/2026 (grafia incerta)",
+   "interessado": "Login Logística Intermodal S.A.",
+   "assunto": "Recurso de reconsideração contra o Acórdão 733/2025",
+   "tema": [
+    "recursos administrativos",
+    "navegação e afretamento",
+    "pedido de vista"
+   ],
+   "relator": "Lima Filho",
+   "resultado": "não deliberado: vista renovada (revisor Caio Farias)",
+   "resumo_voto": "Apenas anunciada a renovação da vista; número do item não lido com clareza.",
+   "votos": [
+    {
+     "diretor": "Caio Farias",
+     "voto": "renova vista (revisor)",
+     "ts": "0:15:50",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
    "id": "2",
    "ts": "0:17:28",
    "processo": "50300.008957/2026-35 (grafia incerta)",
@@ -965,6 +1017,36 @@
      "confianca": "media"
     }
    ]
+  },
+  {
+   "id": "23",
+   "ts": "0:15:30",
+   "processo": "50300.015728/2026-7 (grafia incerta)",
+   "interessado": "Bandeirantes Deicmar e Brasil Terminal Portuário S.A. (BTP); porto de Santos",
+   "assunto": "Denúncia com medida cautelar contra a majoração da rubrica 1.14 da tabela pública de serviços 2026 da BTP",
+   "tema": [
+    "tarifas portuárias (THC, SSE, cesta de serviços)",
+    "medida cautelar",
+    "porto de Santos"
+   ],
+   "relator": "Caio Farias",
+   "resultado": "retirado de pauta a pedido do relator",
+   "resumo_voto": "Retirado de pauta.",
+   "votos": []
+  },
+  {
+   "id": "24",
+   "ts": "0:17:09",
+   "processo": "não lido",
+   "interessado": "Estaleiro Atlântico Sul",
+   "assunto": "Processo do Estaleiro Atlântico Sul (objeto não lido)",
+   "tema": [
+    "retirado de pauta"
+   ],
+   "relator": "Caio Farias (provável)",
+   "resultado": "retirado de pauta (dúvida de última hora; volta na próxima reunião)",
+   "resumo_voto": "Retirado de pauta.",
+   "votos": []
   },
   {
    "id": "25",
