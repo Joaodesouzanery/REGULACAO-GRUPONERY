@@ -1,0 +1,438 @@
+{
+ "meta": {
+  "video_id": "PmJmgy9Diw8",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts do .json de transcrição; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "25 (extraordinária)",
+  "data": "2018-05-11",
+  "formato": "presencial",
+  "presidente_da_sessao": "Mário Povia (Diretor-Geral)",
+  "diretores_presentes": [
+   "Mário Povia",
+   "Francisval Mendes"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "25ª Reunião Extraordinária; cabeçalho diz 2018-05-15, mas a fala diz «hoje ... 11 de maio» e «hoje é sexta-feira» (11/05/2018 foi sexta).",
+   "Colegiado com apenas dois diretores: mandatos de Adalberto Tokarski e Fernando Fonseca já encerrados.",
+   "Convocada para aprovar com urgência a nova norma de TUP (revisão da Res. 3.290) por compromisso com o Ministro dos Transportes.",
+   "Abertura: DG relata audiência pública em Belém sobre arrendamentos de Miramar e Vila do Conde e anuncia audiências em Vitória e Cabedelo.",
+   "Item 6 pautado de ofício pela Secretaria-Geral: relator original Fernando Fonseca (voto de 2015) e vista de Tokarski, ambos fora do cargo; prevaleceu a divergência de Francisval."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:04:56",
+   "processo": "50300.003539/2017-20 (número incerto)",
+   "interessado": "ANTAQ / terminais de uso privado",
+   "assunto": "Revisão da Resolução 3.290/2014: autorização para construção, exploração e ampliação de instalações portuárias privadas (TUP, ETC, IP4), adequação ao Decreto 9.048/2017",
+   "tema": [
+    "regulação normativa",
+    "autorização de TUP / terminal de uso privado / ETC / IP4",
+    "desburocratização"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova o texto normativo consolidado (doc. SEI 443866) com inclusão de parágrafo permitindo à ANTAQ exigir certidão de disponibilidade de espaço físico em águas públicas (SPU) na análise de viabilidade locacional; certidões só no protocolo; rol aberto para operação emergencial/especial.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:30:29",
+     "justificativa": "Desburocratização: retira certidão de falência, dispensa atualização de certidões durante a instrução, rol não taxativo de operação emergencial; urgência por compromisso com o Ministro de publicar na primeira quinzena de maio.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "0:30:50",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:30:57",
+   "processo": "50300.009444/2017-51 (número incerto)",
+   "interessado": "Administração Continental Ltda; Comitê Rio de Janeiro do Serviço de Transporte Marítimo Argentina-Brasil",
+   "assunto": "Consulta sobre afretamento por tempo de graneleiros e químicos por menos de 12 meses no acordo bilateral Brasil-Argentina",
+   "tema": [
+    "navegação e afretamento",
+    "longo curso",
+    "afretamento"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Comunicar que o afretamento por tempo por período inferior a 12 meses é possível mediante CAA, mas não por CLE, que exige regularidade e 12 meses (RN 01).",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:30:57",
+     "justificativa": "CAA e CLE são institutos distintos; o CLE exige prazo de 12 meses, em linha com a defesa da marinha mercante nacional.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "0:35:41",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:35:47",
+   "processo": "50300.004538/2015-72 (número incerto)",
+   "interessado": "Libra Terminal 35 S/A; Codesp; Porto de Santos",
+   "assunto": "Cobrança de sítio-padrão do antigo terminal 33 após unificação contratual",
+   "tema": [
+    "arrendamento em porto organizado",
+    "equilíbrio econômico-financeiro",
+    "arbitragem"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Reconhece a pertinência da cobrança do sítio-padrão; indefere inclusão do saldo na equação econômico-financeira da arbitragem; parcelamento cabe exclusivamente à Codesp.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:35:47",
+     "justificativa": "Sítio-padrão é ressarcimento devido desde o contrato original e não integrou o equilíbrio da unificação; o tema passou despercebido por todos. Processo redistribuído após o fim do mandato de Tokarski.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "0:42:47",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:42:53",
+   "processo": "50302.000622/2015-50 (número incerto)",
+   "interessado": "Pier Mauá S/A; Marina Porto Veleiro de Búzios Empreendimentos Ltda",
+   "assunto": "Denúncia de irregularidade no contrato de adesão 2/2015 (enquadramento como IP4 de apoio)",
+   "tema": [
+    "autorização de TUP / terminal de uso privado / ETC / IP4",
+    "contrato de adesão",
+    "turismo/cruzeiros"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Provimento parcial: retificar por aditamento a cláusula segunda para constar instalação portuária de turismo de apoio (embarque/desembarque para navio fundeado).",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:42:53",
+     "justificativa": "Erro material corrigível por aditamento; a autorizada concordou sem ressalvas.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "0:45:39",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:45:44",
+   "processo": "50301.003988/2018-90 (número incerto)",
+   "interessado": "Márcio Jamiro Nascimento (MEI; grafia incerta)",
+   "assunto": "Autorização para travessia de passageiros na BR-319 sobre os rios Negro e Solimões (Manaus - Careiro da Várzea)",
+   "tema": [
+    "navegação e afretamento",
+    "navegação interior",
+    "travessias",
+    "autorização de EBN"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Expedir termo de autorização.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:45:44",
+     "justificativa": "Pareceres técnico e jurídico favoráveis.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "0:46:43",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:46:55",
+   "processo": "50300.000838/2011-86 (número incerto)",
+   "interessado": "ANTAQ / terminais de contêineres",
+   "assunto": "Revisão da Resolução 2.389/2012 (movimentação e armazenagem de contêineres; segregação, THC2/SSE) - pautado de ofício pela Secretaria-Geral",
+   "tema": [
+    "regulação normativa",
+    "tarifas portuárias (THC, SSE, cesta de serviços)",
+    "consulta pública"
+   ],
+   "relator": "Fernando Fonseca (voto proferido em 2015; ex-diretor)",
+   "resultado": "aprovado conforme voto divergente de Francisval Mendes; voto do relator original (Fernando Fonseca) vencido",
+   "resumo_voto": "Aprova a minuta da SRG para audiência pública de 30 dias, mantendo a previsão de cobrança pela segregação de contêineres (arts. 3º e 9º) e estendendo a norma aos terminais privados.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "diverge do relator original; voto condutor",
+     "ts": "0:48:35",
+     "justificativa": "Processo maduro e sem necessidade de nova AIR; demora leva decisões ao Judiciário, TCU e CADE; segregação altera a logística do terminal e gera custo não coberto pelo box rate; conflito é disputa concorrencial de armazenagem com terminais retroportuários.",
+     "confianca": "alta",
+     "tom": "crítico à demora"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha a divergência de Francisval Mendes",
+     "ts": "0:55:23",
+     "justificativa": "Norma passa a valer também para terminais privados e a regulação de preço sai da autoridade portuária para a ANTAQ; havia pendência com o MPF; pior dos mundos seria a agência não se manifestar.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "0:57:52",
+   "processo": "50300.002385/2016-17 (número incerto)",
+   "interessado": "Petróleo Brasileiro S/A (Petrobras); Estaleiro ERG1; Porto do Rio Grande",
+   "assunto": "Processo administrativo sancionador: ocupação irregular de área do Porto do Rio Grande",
+   "tema": [
+    "fiscalização e sanções",
+    "multa",
+    "ocupação de área"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade, com ajuste sugerido por Mário Povia",
+   "resumo_voto": "Auto parcialmente subsistente: multa de R$ 332.750 à Petrobras (art. 34, XIV); fato 2 descaracterizado; SUPRG deve desocupar a área em 60 dias; sem TAC.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "0:57:52",
+     "justificativa": "Petrobras recusou participar do TAC do estaleiro; conduta altamente reprovável: usa bem público como proprietária, sem contrato nem contraprestação.",
+     "confianca": "alta",
+     "tom": "severo"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator, com sugestão",
+     "ts": "1:03:37",
+     "justificativa": "Sugere acrescentar 'sob pena de interdição' à determinação de desocupação; relator aceita (trecho pouco claro).",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "1:04:10",
+   "processo": "50300.000714/2015-38 (número incerto)",
+   "interessado": "Imbituba Empreendimentos e Participações S/A",
+   "assunto": "Processo administrativo sancionador: não adaptação do termo de autorização 362/2007 (art. 58 da Lei 12.815)",
+   "tema": [
+    "fiscalização e sanções",
+    "multa",
+    "autorização de TUP / terminal de uso privado / ETC / IP4"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Auto subsistente; multa de cerca de R$ 43.650 (adaptação posterior como atenuante; valor dito também como 43.750); sem cassação.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "1:04:10",
+     "justificativa": "Adaptação após o auto não extingue a punibilidade, só atenua.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:08:23",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "1:08:27",
+   "processo": "50300.007096/2016-04 (número incerto)",
+   "interessado": "Petrobras Transporte S/A (Transpetro); Porto de Maceió",
+   "assunto": "Pedido de reconsideração de multa de R$ 157.500 e desocupação de área",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece e nega provimento; mantém a Resolução 5.639; sem TAC.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, nega provimento",
+     "ts": "1:08:27",
+     "justificativa": "Sem fatos novos; inaceitável que Transpetro e Codern não firmem contrato de transição para regularizar a área.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:11:10",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "1:11:14",
+   "processo": "50300.003707/2016-01 (número incerto)",
+   "interessado": "Administração do Porto de Maceió (APMC/Codern)",
+   "assunto": "Pedido de reconsideração de multa de R$ 266.200",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Não conhece (intempestivo) nem acolhe como revisão (art. 65 da Lei 9.784); mantém a Resolução 5.638.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, não conhece",
+     "ts": "1:11:14",
+     "justificativa": "Intempestividade.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:13:21",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "1:13:30",
+   "processo": "50300.004456/2018-70 (número incerto)",
+   "interessado": "JML Lima Locações e Operações Marítimas ME",
+   "assunto": "Autorização como EBN no apoio portuário (embarcações até 12 mil HP)",
+   "tema": [
+    "navegação e afretamento",
+    "apoio portuário",
+    "autorização de EBN"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Expedir termo de autorização.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "1:13:30",
+     "justificativa": "Pareceres favoráveis.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:14:45",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "1:14:51",
+   "processo": "50300.000852/2018-28 (número incerto)",
+   "interessado": "Empresa de Transporte Marítimo Japurá Ltda ME",
+   "assunto": "Anulação de outorga de travessias nas baías do litoral do Paraná (portaria de 1999)",
+   "tema": [
+    "navegação e afretamento",
+    "travessias",
+    "navegação interior"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Reconhece a possibilidade de nulidade (União sem competência sobre as travessias) e encaminha ao Ministério dos Transportes para declarar.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "1:14:51",
+     "justificativa": "Travessias na baía de Paranaguá não são de competência da União; nulidade cabe ao Ministério (art. 53 da Lei 9.784).",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:17:26",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "1:17:33",
+   "processo": "(número incerto)",
+   "interessado": "Ministério dos Transportes; APPA (Portos de Paranaguá e Antonina)",
+   "assunto": "Manifestação sobre uso de receitas portuárias em viadutos de acesso ao Porto de Paranaguá (pleito parlamentar) e aditivo ao convênio de delegação",
+   "tema": [
+    "institucional/TCU",
+    "receitas portuárias",
+    "convênio de delegação"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Informa que a APPA trata do projeto; aditivo ao convênio desnecessário; uso de receitas conforme regulamentos; instaurar processo sobre compatibilidade da Resolução 2.904 com a Lei 12.815.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "1:17:33",
+     "justificativa": "Uso de receita portuária fora da área do porto é admitido pela ANTAQ e pelo TCU (Acórdão 1.756/2008).",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:23:18",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Transcrição sem marcadores internos; ts tirados do .json.",
+  "Números de processo e nomes de pessoas/empresas da legenda são incertos.",
+  "Valor da multa do item 8 dito de duas formas (43.650 e 43.750).",
+  "Item 6: o voto de Fernando Fonseca (2015) não foi relido; seu conteúdo exato não consta."
+ ]
+}
