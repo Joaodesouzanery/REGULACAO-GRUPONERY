@@ -1,0 +1,2058 @@
+{
+ "meta": {
+  "video_id": "Miri_xRGFZA",
+  "fonte": "legenda automática do YouTube; .md sem marcadores internos, ts extraídos de data/transcricoes/Miri_xRGFZA.json; falantes inferidos pelo contexto; ts de quem só acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "463",
+  "data": "2019-06-26",
+  "formato": "presencial (transmissão pela internet)",
+  "presidente_da_sessao": "Mário Povia (Diretor-Geral)",
+  "diretores_presentes": [
+   "Mário Povia",
+   "Adalberto Tokarski",
+   "Francisval Mendes"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Aprovada a ata da 462ª ROD.",
+   "Pauta com 55 itens: votos-vista de processos de reuniões anteriores, processos de relatoria de Mário Povia (13-20), Francisval Mendes (21-37) e Adalberto Tokarski (38-54) e um referendo (55).",
+   "Divergências: item 2 (Nova Chora, voto-vista de Povia vence o relator Tokarski), itens 3-4 (CPH-PA, Povia vencido), item 6 (Santos Brasil, voto-vista de Francisval vence o relator quanto ao valor da multa), item 11 (CELSE, voto-vista de Povia vence o relator), item 37 (efeito suspensivo, Povia vencido) e item 51 (autorização especial em Porto Velho, Povia vencido).",
+   "Vistas abertas nesta sessão: itens 28 (Tokarski), 33 e 34 (Povia), 36 (Tokarski), 38 (Povia) e 9 (Povia e Tokarski); item 47 (WACC) aguardando apresentação da SRG."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:35",
+   "processo": "50300.002498/2018-58 (legenda «50 300 eram 24 98 2018 58»)",
+   "interessado": "Login Marítima Cabotagem S.A.",
+   "assunto": "Outorga de autorização para operar como EBN na navegação de cabotagem e longo curso (contêineres e carga geral), RN 5-ANTAQ; questão de ordem sobre a relatoria; processo com vista de Mário Povia",
+   "tema": [
+    "navegação e afretamento",
+    "cabotagem",
+    "longo curso",
+    "outorga de autorização EBN"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade (após vista de Mário Povia)",
+   "resumo_voto": "Relator, em questão de ordem, chamou o feito à ordem para firmar sua relatoria (Nota Jurídica 156/2019, validando o sorteio); afastou a recomendação da PF de consulta ao Tribunal Marítimo; votou pela expedição do termo de autorização condicionado à apresentação, em 180 dias, dos documentos da embarcação exigidos no art. 5º da RN 5, sob pena de extinção.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "0:01:07",
+     "justificativa": "expedição do termo condicionada à apresentação dos documentos da embarcação em 180 dias; questão de ordem firmando a relatoria; dispensou consulta ao Tribunal Marítimo para agilizar o procedimento",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "voto-vista: acompanha o relator",
+     "ts": "0:04:20",
+     "justificativa": "a vista era para esclarecer o conflito de competência, questão já abordada no voto condutor",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "0:04:35",
+     "justificativa": "acompanhou o voto do relator",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:04:20",
+   "processo": "50300.000991/2019-32 (legenda «50 300 000 9 91 2019 32»)",
+   "interessado": "Nova Chora Navegação Ltda. (grafia incerta)",
+   "assunto": "Outorga de autorização para operar como EBN na cabotagem exclusivamente com embarcações abaixo de 5 mil TPB (lanchas); voto do relator proferido na ROD 461; voto-vista de Mário Povia",
+   "tema": [
+    "navegação e afretamento",
+    "cabotagem",
+    "navegação de apoio portuário",
+    "outorga de autorização EBN"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "indeferido por maioria; prevaleceu o voto-vista de Mário Povia, vencido o relator Adalberto Tokarski",
+   "resumo_voto": "Voto-vista: lanchas a motor indicadas como garantidoras não são adequadas ao transporte de cargas em mar aberto; atividade (pequenas cargas entre Rio, Angra, Niterói, São Gonçalo) é aderente à navegação de apoio, para a qual a empresa já tem outorga; indeferimento, com possibilidade de reavaliação se apresentar embarcações adequadas; determina à SPG abrir agenda com a DPC (Marinha) para alinhamento conceitual sobre tipos de embarcação e modalidades de navegação.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "voto-vista: diverge do relator, indefere",
+     "ts": "0:06:57",
+     "justificativa": "lanchas não detêm características para cabotagem de cargas (RN 5, art. 5º: embarcação adequada à navegação pretendida); dúvida razoável sobre ser cabotagem e não apoio portuário; agenda com a DPC",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova (vencido)",
+     "ts": "0:12:38",
+     "justificativa": "proferiu voto na ROD 461 pela expedição do termo de autorização; ficou vencido",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o voto-vista",
+     "ts": "0:12:38",
+     "justificativa": "acompanhou o voto-vista, dizendo já ter votado nesse sentido",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:13:09",
+   "processo": "50300.010625/2017-20",
+   "interessado": "Companhia de Portos e Hidrovias do Estado do Pará (CPH)",
+   "assunto": "Registro de instalação portuária (instalação de apoio ao transporte de passageiros) da empresa pública estadual; vista de Francisval Mendes; julgado junto com o item 4",
+   "tema": [
+    "autorização de instalação portuária / registro",
+    "IP4",
+    "transporte de passageiros",
+    "navegação interior",
+    "Pará"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por maioria (2x1), vencido Mário Povia",
+   "resumo_voto": "Relator votou por autorizar o registro como instalação de apoio ao transporte de passageiros (RN 13, inciso V), pois a CPH não consta da relação de IP4 construídas pelo DNIT e, sem o registro, cairia na burocracia de IP4/TUP. Povia divergiu: o registro serve a instalações existentes que não conseguem outorga por questões fundiárias, não a áreas a serem construídas; a CPH teria condições de apresentar a documentação.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "0:13:40",
+     "justificativa": "autorizar como instalação de apoio ao transporte de passageiros (inciso V da RN); não está na relação de IP4; evitar burocracia equivalente a TUP; RN 13 já detalha transporte de passageiros",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "voto-vista: acompanha o relator",
+     "ts": "0:15:18",
+     "justificativa": "adota os votos proferidos pelo diretor relator acompanhando na íntegra",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "diverge, indefere (vencido)",
+     "ts": "0:15:52",
+     "justificativa": "registro previsto para IP4 do DNIT e instalações existentes sem titularidade (questões fundiárias), para não ficarem na clandestinidade; aqui se registra área ainda a ser construída; empresa estadual pode apresentar documentação; adotar o registro esvaziaria o regime de IP4",
+     "confianca": "alta",
+     "tom": "argumentativo"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:19:31",
+   "processo": "50300.010647/2017-90 (legenda «50 300 10 10 647 2000 e 1790»)",
+   "interessado": "Companhia de Portos e Hidrovias do Estado do Pará (CPH)",
+   "assunto": "Registro de instalação portuária de passageiros; julgado junto com o item 3 (vista de Francisval Mendes)",
+   "tema": [
+    "autorização de instalação portuária / registro",
+    "IP4",
+    "transporte de passageiros",
+    "navegação interior",
+    "Pará"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por maioria (2x1), vencido Mário Povia",
+   "resumo_voto": "Mesma fundamentação do item 3.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "0:13:40",
+     "justificativa": "mesma fundamentação do item 3",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "voto-vista: acompanha o relator",
+     "ts": "0:15:18",
+     "justificativa": "adotou o voto do relator nos itens 3 e 4",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "diverge, indefere (vencido)",
+     "ts": "0:18:30",
+     "justificativa": "votou pelo indeferimento tanto do item 3 quanto do item 4, ficando vencido",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:20:02",
+   "processo": "50300.008655/2016-95",
+   "interessado": "Companhia Docas do Espírito Santo (CODESA); Sindicato dos Conferentes de Carga e Descarga nos Portos do Espírito Santo",
+   "assunto": "Equiparação de sindicato a OGMO (legenda «onu») para fins de cessão de área portuária; vista de Francisval Mendes",
+   "tema": [
+    "porto organizado",
+    "cessão de uso de área",
+    "trabalho portuário",
+    "Espírito Santo"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Após diligências, acompanhou-se a área técnica sobre a possibilidade de estender a excepcionalidade para ocupação de área por cessão de uso não onerosa ao sindicato dos conferentes.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "0:20:34",
+     "justificativa": "voto já proferido em reunião anterior (cessão de uso não onerosa ao sindicato)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "voto-vista: acompanha o relator",
+     "ts": "0:20:34",
+     "justificativa": "após diligências, acompanha a área técnica sobre a extensão da excepcionalidade por cessão de uso não onerosa",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:21:06",
+     "justificativa": "acompanhou o voto condutor",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:21:06",
+   "processo": "50300.000502/2017-81 (legenda «50 300 00 05 02 2017 81»)",
+   "interessado": "Santos Brasil Participações S.A.",
+   "assunto": "Pedido de reconsideração contra decisão sancionadora (multa); vista de Francisval Mendes",
+   "tema": [
+    "fiscalização e sanções",
+    "multa",
+    "recursos administrativos",
+    "porto de Santos"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "pedido conhecido e não provido por maioria; prevaleceu o voto-vista de Francisval Mendes (multa de R$ 300 mil mantida), vencido o relator",
+   "resumo_voto": "Voto-vista acompanha o relator quanto à improcedência dos argumentos, mas diverge quanto ao valor da multa: mantém a multa de R$ 300 mil fixada no Acórdão 108 e a decisão publicada no DOU de 01/10/2018, negando provimento.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "voto-vista: diverge parcialmente (valor da multa)",
+     "ts": "0:21:36",
+     "justificativa": "argumentos da recorrente não justificam reforma; diverge do relator quanto ao valor e mantém multa de R$ 300 mil conforme Acórdão 108; negar provimento",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o voto-vista",
+     "ts": "0:22:39",
+     "justificativa": "matéria com precedentes no colegiado no mesmo sentido",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator (vencido)",
+     "ts": "0:22:39",
+     "justificativa": "voto proferido em reunião anterior; vencido quanto ao valor da multa (teor do voto não lido nesta sessão)",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "0:23:09",
+   "processo": "50300.000133/2014-17",
+   "interessado": "Companhia Docas do Estado de São Paulo (CODESP); MST Terminais e Logística S.A.",
+   "assunto": "Revisão do MPT (legenda «npt»); vista de Adalberto Tokarski",
+   "tema": [
+    "arrendamento em porto organizado",
+    "porto de Santos"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Voto do relator proferido em reunião anterior; vista de Tokarski acompanhou.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:23:09",
+     "justificativa": "voto já proferido em reunião anterior",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "voto-vista: acompanha o relator",
+     "ts": "0:23:41",
+     "justificativa": "acompanha o voto proferido pelo diretor relator",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "0:23:41",
+     "justificativa": "voto do relator",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "0:23:41",
+   "processo": "50300.003857/2018-11",
+   "interessado": "ANTAQ (regulação)",
+   "assunto": "Proposta de revisão da Resolução 1864-ANTAQ; vista de Adalberto Tokarski e novo pedido de vista de Mário Povia",
+   "tema": [
+    "regulação normativa",
+    "resolução"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "não deliberado: vista de Adalberto Tokarski e de Mário Povia",
+   "resumo_voto": "Relator já havia proferido voto; Tokarski não proferiu voto-vista e Povia também pediu vista.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator; voto já proferido",
+     "ts": "0:23:41",
+     "justificativa": "voto proferido em reunião anterior",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "pede vista (mantida)",
+     "ts": "0:24:23",
+     "justificativa": "não proferiu voto-vista nesta sessão",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "pede vista",
+     "ts": "0:23:41",
+     "justificativa": "pediu vista do processo",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "0:24:23",
+   "processo": "50300.007582/2017-03",
+   "interessado": "Novo Terminal Marítimo de Salvador S.A. (arrendatária, terminal de passageiros)",
+   "assunto": "Pedido de reconsideração contra a Resolução 5892-ANTAQ (ROD 436), que vedou cobrança de tarifas de bagagem, embarque/desembarque adicional, expansão de funcionamento overnight e valor mínimo operacional; vistas de Mário Povia e Adalberto Tokarski",
+   "tema": [
+    "tarifas portuárias (cesta de serviços)",
+    "arrendamento em porto organizado",
+    "terminal de passageiros / cruzeiros",
+    "recursos administrativos",
+    "porto de Salvador"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado nos termos do voto condutor (pedido de reconsideração indeferido), unânime",
+   "resumo_voto": "Relator não conheceu do pedido (intempestivo) e, no mérito, manteve a vedação. Voto-vista de Povia: após reuniões com a arrendatária, a comissão de licitação esclareceu que a movimentação de bagagens (de mão e despachada) integra a tarifa de movimentação de passageiros (cesta de serviços); custos realocados em serviços terceirizados no EVTEA; impossível cobrar como receita complementar; registra crítica ao modelo (rubrica regulada desincentiva embarque primário em Salvador).",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, não conhece (intempestivo) e mantém a decisão",
+     "ts": "0:24:55",
+     "justificativa": "voto proferido em reunião anterior",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "voto-vista: acompanha o relator",
+     "ts": "0:24:55",
+     "justificativa": "bagagem despachada integra a cesta de serviços conforme edital e esclarecimento da comissão de licitação; não pode ser cobrada como receita complementar; ressalva que o modelo de preço-teto tem repercussão duvidosa para passageiros",
+     "confianca": "alta",
+     "tom": "técnico"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator e o voto-vista (com observação sobre o conhecimento)",
+     "ts": "0:29:42",
+     "justificativa": "acompanha o relator e o voto-vista; menção ininteligível sobre a parte dispositiva e o conhecimento do pedido",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "0:30:14",
+   "processo": "50300.005432/2017-11 (legenda «5432 2017 11»)",
+   "interessado": "Centrais Elétricas de Sergipe S.A. (CELSE; legenda «céus centrais elétricas»)",
+   "assunto": "Recurso administrativo contra negativa da GAF de certificado de liberação de carga prescrita (CLCP) para embarque em navio estrangeiro; vista de Mário Povia",
+   "tema": [
+    "navegação e afretamento",
+    "longo curso",
+    "carga prescrita / CLCP",
+    "recursos administrativos"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "recurso não provido por maioria; prevaleceu o voto-vista de Mário Povia, vencido o relator",
+   "resumo_voto": "Voto-vista: a requerente descumpriu os arts. 21 e 22 do anexo da norma (solicitação com 4 dias úteis de antecedência e consulta às EBNs), razão pela qual a GAF negou o CLCP corretamente; negado o CLCP, não cabe aplicar sanção; precedentes dos Acórdãos 107/2018 e 110/2018.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "voto-vista: diverge, nega provimento",
+     "ts": "0:30:47",
+     "justificativa": "requerente não consultou a agência no prazo normativo; GAF agiu corretamente; incabível sanção; precedentes",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o voto-vista",
+     "ts": "0:33:54",
+     "justificativa": "acompanha o voto-vista",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator (vencido)",
+     "ts": "0:34:24",
+     "justificativa": "voto proferido na ROD 461 em sentido diverso; vencido",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "0:34:24",
+   "processo": "50300.002072/2019-01",
+   "interessado": "Z-Max Serviços Marítimos Ltda.",
+   "assunto": "Outorga de autorização para operar como EBN na navegação de apoio portuário",
+   "tema": [
+    "navegação e afretamento",
+    "apoio portuário",
+    "outorga de autorização EBN"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Nota Técnica 49/2019 da GAN e PF favoráveis; expedição do termo de autorização.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:34:56",
+     "justificativa": "pareceres técnico e jurídico favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:35:27",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "0:35:27",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "0:36:02",
+   "processo": "50300.006328/2018-61",
+   "interessado": "R. Maciel Ferreira (empresário individual)",
+   "assunto": "Outorga para transporte misto de passageiros e cargas na navegação interior longitudinal interestadual entre Afuá (PA) e Macapá (AP)",
+   "tema": [
+    "navegação interior",
+    "transporte de passageiros",
+    "outorga de autorização EBN",
+    "região amazônica"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Pareceres favoráveis (NT 105/2019); expedição do termo de autorização por prazo indeterminado.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:36:33",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:37:06",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "0:37:06",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "0:37:06",
+   "processo": "50300.005765/2019-48 (legenda «50 300 00 57 65 2 mil e 1948»)",
+   "interessado": "CB Rebocadores Apoio Portuário e Marítimo",
+   "assunto": "Outorga de autorização para apoio marítimo exclusivamente com embarcações de até 2.000 HP",
+   "tema": [
+    "navegação e afretamento",
+    "apoio marítimo",
+    "outorga de autorização EBN"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Pareceres favoráveis; expedição do termo de autorização.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:37:36",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:38:08",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "0:38:08",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "0:38:08",
+   "processo": "legenda «50 329 2018 2019 31»",
+   "interessado": "Marques Pinto Navegação Ltda.",
+   "assunto": "Renúncia à outorga de autorização (passageiros e cargas, navegação interior Belém–Manaus; Termo de Autorização 604)",
+   "tema": [
+    "navegação interior",
+    "outorga de autorização EBN",
+    "extinção de outorga"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Declarada extinta a outorga, sem prejuízo de apurar irregularidades da vigência em processo próprio.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:39:08",
+     "justificativa": "renúncia com previsão legal; pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:39:41",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "0:39:41",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "0:39:41",
+   "processo": "legenda «50 300 49 62 mil e 1951»",
+   "interessado": "Transporte Pinheiros Ltda.",
+   "assunto": "Renúncia à outorga de autorização (Termo de Autorização 1581)",
+   "tema": [
+    "navegação e afretamento",
+    "outorga de autorização EBN",
+    "extinção de outorga"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Declarada extinta a outorga, sem prejuízo de apuração de irregularidades.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:40:12",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:40:43",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "0:40:43",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "0:40:43",
+   "processo": "50300.013785/2018-10 (legenda «50 300 08 13 785 2018 10»)",
+   "interessado": "Consórcio Dome Serviços Integrados (Prumo Serviços de Navegação e outras)",
+   "assunto": "Autorização para exploração de TUP (Terminal Dome) no complexo do Açu, São João da Barra (RJ), em área de 30 mil m² já usada para reparo naval sob registro; carga geral, granéis líquidos, gasosos e contêineres",
+   "tema": [
+    "autorização de TUP / terminal de uso privado",
+    "porto do Açu",
+    "Rio de Janeiro"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "GAP reanalisou pontos da PF (contagem de prazo do anúncio, perfis de carga, documentação das consorciadas) e concluiu pela regularidade; reconhecida a possibilidade de contrato de adesão com o Ministério da Infraestrutura.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:41:16",
+     "justificativa": "exigências da Lei 12.815, Decreto 8.033 e RN 20 atendidas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:45:25",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "0:45:25",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "0:45:25",
+   "processo": "legenda «50 301 2463 2018/19»",
+   "interessado": "Companhia Docas do Estado de São Paulo (CODESP); Prefeitura de Guarujá",
+   "assunto": "Consulta sobre necessidade de autorização prévia da ANTAQ para doação de armas de fogo da CODESP à Prefeitura de Guarujá",
+   "tema": [
+    "autoridade portuária / Docas",
+    "bens reversíveis / patrimônio",
+    "consulta",
+    "porto de Santos"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Resposta: bens adquiridos com recursos da exploração portuária são bens da União sob guarda da autoridade portuária; baixa e alienação dependem de autorização prévia da ANTAQ (RN 29); se as armas não forem inservíveis, a alienação é permitida, observadas exigências do Exército e da SSP-SP. Diverge da PF quanto a remeter ao poder concedente: matéria é regulatória (art. 27, XXIII e XXV, Lei 10.233).",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:48:37",
+     "justificativa": "competência da ANTAQ para desincorporação de bens; Decreto 9.373/2018 só veda alienação de armas inservíveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:53:19",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "0:53:19",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "0:53:19",
+   "processo": "legenda «50 e 300 08 8 912 mil e 1792»",
+   "interessado": "ANTAQ (SOG, SRG, PF)",
+   "assunto": "Cumprimento das determinações da Resolução 6006-ANTAQ (minuta padrão de anúncio público com sanções por não oferecimento de garantias)",
+   "tema": [
+    "regulação normativa",
+    "autorização de TUP / terminal de uso privado",
+    "garantias"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade (arquivamento)",
+   "resumo_voto": "Perda de objeto: Decreto 9.048/2017 e RN 20 extinguiram a garantia de proposta, restando a de execução só em processo seletivo público; cobrança de emolumentos tratada em outro processo; arquivamento.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova (arquivamento)",
+     "ts": "0:56:28",
+     "justificativa": "perda de objeto da Resolução 6006 após o Decreto 9.048/2017 e a RN 20",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "0:57:30",
+     "justificativa": "acompanhou o voto do relator",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:57:30",
+     "justificativa": "sempre foi contrário à garantia de proposta e de execução; no passado conseguiu reduzir o valor da garantia",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "0:58:00",
+   "processo": "50300.006193/2019-14",
+   "interessado": "Polares Transportes Marítimos Ltda.",
+   "assunto": "Outorga de autorização para operar como EBN no apoio marítimo (julgado em bloco com 22 e 23)",
+   "tema": [
+    "navegação e afretamento",
+    "outorga de autorização EBN",
+    "apoio marítimo"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade (bloco 21-23)",
+   "resumo_voto": "Processos regulares e com pareceres favoráveis; expedição dos termos de autorização.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "0:58:31",
+     "justificativa": "pareceres técnico e jurídico favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:00:02",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:00:02",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "22",
+   "ts": "0:58:00",
+   "processo": "50300.004957/2019-37 (legenda «50 349 57 2019 de 37»)",
+   "interessado": "Norte Marine Indústria, Reparos e Operações Fluviais Ltda. (grafia incerta)",
+   "assunto": "Outorga de autorização para operar como EBN no apoio portuário, condicionada à atualização da certidão federal (julgado em bloco com 21 e 23)",
+   "tema": [
+    "navegação e afretamento",
+    "outorga de autorização EBN",
+    "apoio portuário"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade (bloco 21-23)",
+   "resumo_voto": "Processos regulares e com pareceres favoráveis; expedição dos termos de autorização.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "0:58:31",
+     "justificativa": "pareceres técnico e jurídico favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:00:02",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:00:02",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "23",
+   "ts": "0:58:00",
+   "processo": "legenda «50 316 778 bar 2018»",
+   "interessado": "Josilene Ferreira de Moura",
+   "assunto": "Outorga para transporte de passageiros e veículos na navegação interior (travessia/interestadual, legenda incerta) (julgado em bloco com 21 e 22)",
+   "tema": [
+    "navegação e afretamento",
+    "outorga de autorização EBN",
+    "navegação interior",
+    "travessia",
+    "transporte de passageiros"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade (bloco 21-23)",
+   "resumo_voto": "Processos regulares e com pareceres favoráveis; expedição dos termos de autorização.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "0:58:31",
+     "justificativa": "pareceres técnico e jurídico favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:00:02",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:00:02",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "24",
+   "ts": "1:00:33",
+   "processo": "legenda «50 300 00 20 662 mil e 1946» / «50 300 ddd 66 bamba 2019 disso 46»",
+   "interessado": "Comércio e Navegação Prates Ltda. (grafia incerta)",
+   "assunto": "Registro de instalação de apoio ao transporte aquaviário (art. 2º, V, da RN 13); julgado em bloco com o item 25",
+   "tema": [
+    "autorização de instalação portuária / registro",
+    "navegação interior"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade (bloco 24-25)",
+   "resumo_voto": "Pareceres favoráveis da SOG; deferido o registro.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "1:01:45",
+     "justificativa": "processos regulares e pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:02:17",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:02:17",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "25",
+   "ts": "1:00:33",
+   "processo": "legenda «50 335 48 ba 2019 de 33»",
+   "interessado": "Faoro Ltda. (grafia incerta)",
+   "assunto": "Registro de instalação de apoio ao transporte aquaviário (art. 2º, V, da RN 13); julgado em bloco com o item 24",
+   "tema": [
+    "autorização de instalação portuária / registro",
+    "navegação interior"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade (bloco 24-25)",
+   "resumo_voto": "Pareceres favoráveis da SOG; deferido o registro.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "1:01:45",
+     "justificativa": "processos regulares e pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:02:17",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:02:17",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "ts": "1:02:48",
+   "processo": "50300.012321/2017-05",
+   "interessado": "Petrobras Distribuidora S.A.",
+   "assunto": "Autorização para construção e exploração de ETC (estação de transbordo de cargas) em Caracaraí (RR), granel líquido, área de cerca de 39,7 mil m²",
+   "tema": [
+    "autorização de TUP / ETC",
+    "Roraima",
+    "navegação interior"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Sem outros interessados no anúncio público 15/2018; requisitos legais atendidos e viabilidade locacional; reconhecida a possibilidade de contrato de adesão.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "1:03:20",
+     "justificativa": "requisitos da Lei 12.815 e Decreto 8.033 atendidos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:06:00",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:06:00",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "27",
+   "ts": "1:06:00",
+   "processo": "legenda «50 300 0479 2015 62»",
+   "interessado": "Imetame Logística Ltda.",
+   "assunto": "Prorrogação do cronograma físico-financeiro de implantação de TUP (contrato de adesão 9/2015), obras até novembro de 2021",
+   "tema": [
+    "autorização de TUP / terminal de uso privado",
+    "cronograma de obras",
+    "Espírito Santo"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deferida a prorrogação (art. 26, §1º, Decreto 8.033), sem alteração do projeto; ampliação de área e mudança de perfil seguem em instrução em autos próprios.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "1:07:06",
+     "justificativa": "acompanha áreas técnica e jurídica",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:08:11",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:08:11",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "28",
+   "ts": "1:08:42",
+   "processo": "legenda «50 317 463 2018 31»",
+   "interessado": "Superintendência do Porto do Rio Grande (SUPRG); CMPC Celulose Riograndense Ltda.",
+   "assunto": "Contrato de transição de até 180 dias para área no porto organizado de Pelotas (RS), após extinção do contrato de uso temporário 02/2015; vista de Adalberto Tokarski",
+   "tema": [
+    "arrendamento em porto organizado",
+    "contrato de transição",
+    "porto de Pelotas",
+    "Rio Grande do Sul"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "não concluído: vista de Adalberto Tokarski após o voto do relator",
+   "resumo_voto": "Relator: autorizar a SUPRG a celebrar contrato de transição por até 180 dias, renovável nas mesmas condições até a licitação (área priorizada no Avançar Parcerias), por continuidade e interesse público; ciência à PF para o processo judicial movido pela CMPC.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "1:09:14",
+     "justificativa": "art. 46 da RN 7; empresa já ocupa a área, gera empregos e movimentação de toras/celulose; adimplência; área em rol de licitação do poder concedente",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "pede vista",
+     "ts": "1:15:26",
+     "justificativa": "vista já requerida; voto não proferido",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "aguarda vista",
+     "ts": "1:15:26",
+     "justificativa": "não votou; processo foi à vista de Tokarski",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "29",
+   "ts": "1:15:29",
+   "processo": "50314.001006/2015-23",
+   "interessado": "Tecon Rio Grande S.A.",
+   "assunto": "Convalidação de aditamento contratual e verificação de desequilíbrio econômico-financeiro do contrato de arrendamento (processo sancionador); julgado em conjunto com o item 30",
+   "tema": [
+    "arrendamento em porto organizado",
+    "equilíbrio econômico-financeiro",
+    "fiscalização e sanções",
+    "porto do Rio Grande"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade (julgamento conjunto 29-30)",
+   "resumo_voto": "Arquivar o sancionador por exaurimento (art. 2º da Res. 4552/2015 cumprido, conforme ofício 9/2019 do poder concedente); julgar prejudicada a análise do equilíbrio pela manifestação expressa do poder concedente; envio ao Ministério da Infraestrutura.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "1:16:33",
+     "justificativa": "economia processual; poder concedente afirmou o equilíbrio; perda superveniente de objeto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:20:19",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:20:19",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "30",
+   "ts": "1:15:29",
+   "processo": "50300.002581/2017-64",
+   "interessado": "Tecon Rio Grande S.A.",
+   "assunto": "Equilíbrio econômico-financeiro do contrato de arrendamento; julgado em conjunto com o item 29",
+   "tema": [
+    "arrendamento em porto organizado",
+    "equilíbrio econômico-financeiro",
+    "fiscalização e sanções",
+    "porto do Rio Grande"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade (julgamento conjunto 29-30)",
+   "resumo_voto": "Arquivar o sancionador por exaurimento (art. 2º da Res. 4552/2015 cumprido, conforme ofício 9/2019 do poder concedente); julgar prejudicada a análise do equilíbrio pela manifestação expressa do poder concedente; envio ao Ministério da Infraestrutura.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "1:16:33",
+     "justificativa": "economia processual; poder concedente afirmou o equilíbrio; perda superveniente de objeto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:20:19",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:20:19",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "31",
+   "ts": "1:20:19",
+   "processo": "legenda «50 319 327 2018 86»",
+   "interessado": "Companhia Energética do Maranhão (CEMAR)",
+   "assunto": "Pedido de reconsideração contra a Resolução 6817-ANTAQ (ROD 458), de caráter opinativo",
+   "tema": [
+    "recursos administrativos",
+    "institucional"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "pedido conhecido e não provido, unânime",
+   "resumo_voto": "Deliberação de caráter meramente opinativo, cabendo ao poder concedente a decisão; opinião técnica não traz prejuízo.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "1:21:20",
+     "justificativa": "decisão opinativa; agência tem expertise; sem prejuízo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:22:55",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:22:55",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "32",
+   "ts": "1:22:55",
+   "processo": "legenda «50 300 00 00 38 2 mil e 1994»",
+   "interessado": "Companhia de Desenvolvimento do Complexo Industrial e Portuário do Pecém (CIPP S.A.); Sindicato Nacional das Empresas de Navegação de Apoio Portuário (legenda «sindpoc»)",
+   "assunto": "Consulta sobre cobrança, pelo terminal privado do Pecém, de valores das empresas de rebocagem pelo uso da infraestrutura; notícia do sindicato contra a cobrança",
+   "tema": [
+    "serviços nos terminais",
+    "apoio portuário / rebocagem",
+    "tarifas e preços",
+    "consulta",
+    "porto do Pecém",
+    "Ceará"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Instalação portuária privada pode cobrar pela infraestrutura disponibilizada às empresas de apoio portuário sem anuência prévia da ANTAQ, com preços módicos, proporcionais, isonômicos, transparentes, previamente divulgados e sem práticas anticoncorrenciais; isenção da RN 32 só vale para portos organizados; notícia do sindicato não provida (abusividade não materializada); dispensada audiência pública sugerida pela PF.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "1:24:03",
+     "justificativa": "legislação não veda a cobrança; reconhecimento de direito, não opção regulatória",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:32:01",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:32:01",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "33",
+   "ts": "1:32:01",
+   "processo": "legenda «50 300 00 10 06 2009 14»",
+   "interessado": "Triunfo Logística Ltda. (arrendatária, porto do Rio de Janeiro); Companhia Docas do Rio de Janeiro (CDRJ)",
+   "assunto": "Consulta sobre uso exclusivo dos dolphins a construir junto ao terminal de produtos siderúrgicos (contrato de arrendamento CDRJ 72/97, prorrogado até 2037); vista de Mário Povia",
+   "tema": [
+    "arrendamento em porto organizado",
+    "consulta",
+    "porto do Rio de Janeiro"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "não concluído: vista de Mário Povia após o voto do relator",
+   "resumo_voto": "Relator: não é juridicamente possível reconhecer hoje o uso exclusivo (Lei 12.815, arts. 4º e 11), mas a intenção pré-contratual do 6º termo aditivo era a exclusividade para o TPS; sugere ao poder concedente formalizar novo aditivo prevendo a exclusividade, sob pena de rever EVTEA e depreciação.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, encaminha ao poder concedente com sugestão de aditivo",
+     "ts": "1:32:32",
+     "justificativa": "intenção pré-contratual, boa-fé e dever da autoridade portuária de prover acesso ao TPS; precedente TCU Acórdão 2338/2015",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "pede vista",
+     "ts": "1:32:01",
+     "justificativa": "pediu vista",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "aguarda vista",
+     "ts": "1:47:23",
+     "justificativa": "não votou",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "34",
+   "ts": "1:47:55",
+   "processo": "50300.000112/2008-91 (legenda «50 300 00 01 12 2008 91»)",
+   "interessado": "Terminal de Vila Velha S.A. (TVV, controlado pela Log-In Logística Intermodal); Companhia Docas do Espírito Santo (CODESA)",
+   "assunto": "Prorrogação antecipada do contrato de arrendamento 16/98 com novos investimentos (cerca de R$ 83-89 milhões) e reequilíbrio; vista de Mário Povia",
+   "tema": [
+    "arrendamento em porto organizado",
+    "prorrogação antecipada",
+    "equilíbrio econômico-financeiro",
+    "porto de Vitória"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "não concluído: vista de Mário Povia após o voto do relator",
+   "resumo_voto": "Relator: aprovar o EVTEA com ajustes nas cotas de depreciação; reconhecer a prorrogação antecipada por 25 anos (até 2048, limite do TCU Acórdão 1446/2018 e não 70 anos); recomendar ao Ministério previsão de revisão da MMC caso surja terminal concorrente, investimentos de manutenção como obrigação contratual e complementação do relatório da CODESA.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "1:48:25",
+     "justificativa": "EVTEA com ajustes; VPL negativo do fluxo marginal justifica a prorrogação; cláusula 16ª prevê prorrogação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "pede vista",
+     "ts": "1:47:55",
+     "justificativa": "pediu vista",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "aguarda vista",
+     "ts": "1:57:33",
+     "justificativa": "não votou",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "35",
+   "ts": "1:57:33",
+   "processo": "legenda «50 300 00 16 382 mil e 1970»",
+   "interessado": "ANTAQ (GAN, SOG, SRG)",
+   "assunto": "Normatização de critérios para análise da adequação das embarcações para fins de outorga (instrução normativa)",
+   "tema": [
+    "regulação normativa",
+    "navegação e afretamento",
+    "outorga de autorização EBN"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade (IN não aprovada)",
+   "resumo_voto": "Não aprovar a IN (regras engessariam os técnicos), mas determinar à SOG e SRG que busquem soluções, com agenda junto à DPC/Marinha.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, não aprova a IN e determina estudos",
+     "ts": "1:58:05",
+     "justificativa": "critérios da RN 5 e da autoridade marítima bastam; agenda com a DPC",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator com fundamento adicional",
+     "ts": "2:00:49",
+     "justificativa": "a competência para declarar a adequação da embarcação é da sociedade classificadora, por delegação da autoridade marítima; pediu constar em ata",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:01:21",
+     "justificativa": "voto com o relator",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "36",
+   "ts": "2:01:53",
+   "processo": "legenda «50 e 300 00 90 16 2 mil e 1990»",
+   "interessado": "Z-Max Log Soluções Marítimas S.A.",
+   "assunto": "Medida cautelar administrativa para impedir bloqueio de embarcação estrangeira por outra estrangeira sem suspensão de bandeira (interpretação do art. 6º da RN 1 sobre carga prescrita e acordos bilaterais Argentina, Uruguai, Chile); vista de Adalberto Tokarski",
+   "tema": [
+    "navegação e afretamento",
+    "afretamento / bloqueio",
+    "medida cautelar",
+    "longo curso"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "não concluído: vista de Adalberto Tokarski após o voto do relator",
+   "resumo_voto": "Relator: indeferir a cautelar e arquivar; ausentes fumus boni iuris e periculum in mora (risco reverso de violar tratados); acusa a requerente de tentar induzir a diretoria em erro.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, indefere a cautelar",
+     "ts": "2:02:24",
+     "justificativa": "sem fumaça do bom direito nem perigo da demora; mérito já rejeitado pela área técnica e pelo relator na consulta principal",
+     "confianca": "alta",
+     "tom": "firme"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "pede vista",
+     "ts": "2:10:14",
+     "justificativa": "processo foi à vista de Tokarski",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "aguarda vista",
+     "ts": "2:10:14",
+     "justificativa": "não votou",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "37",
+   "ts": "2:10:14",
+   "processo": "legenda «50 325 892 mil e 1893»",
+   "interessado": "Log Chor Armazéns Gerais S.A. (grafia incerta); Triunfo Logística Ltda.; Companhia Docas do Rio de Janeiro (CDRJ); Petrobras",
+   "assunto": "Recurso com pedido de efeito suspensivo contra a Resolução 6926/2019-ANTAQ, que autorizou a CDRJ a celebrar contrato de transição com a Triunfo Logística (área em São Cristóvão usada pela Petrobras)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "contrato de transição",
+    "medida cautelar",
+    "recursos administrativos",
+    "porto do Rio de Janeiro"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "efeito suspensivo indeferido por maioria (2x1), vencido Mário Povia",
+   "resumo_voto": "Relator: a ANTAQ só verifica os requisitos do art. 46 da RN 7; quem celebra é a autoridade portuária; processo seletivo simplificado foi dispensado pela continuidade (ocupação da Petrobras desde 2010); não há prejuízo irreparável; perigo reverso. Povia divergiu: diante de terceiro alegando falta de publicidade do processo seletivo, por cautela concederia a suspensão para não parecer que a ANTAQ autorizou contrato viciado.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, indefere o efeito suspensivo",
+     "ts": "2:10:44",
+     "justificativa": "ANTAQ apenas autoriza a possibilidade; continuidade do serviço; mera expectativa de direito da recorrente",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:22:21",
+     "justificativa": "acompanha o relator",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "diverge, concede a cautelar (vencido)",
+     "ts": "2:22:21",
+     "justificativa": "autorização foi condicionada a processo seletivo isonômico e transparente; terceiro aponta falta de publicidade; por cautela suspenderia e pediria manifestação do poder concedente; mérito ainda será enfrentado",
+     "confianca": "alta",
+     "tom": "ponderado"
+    }
+   ]
+  },
+  {
+   "id": "38",
+   "ts": "2:28:31",
+   "processo": "50300.001128/2015-79",
+   "interessado": "Empresa Brasileira de Terminais Portuários S.A. (Embraport); Companhia Docas do Estado de São Paulo (CODESP)",
+   "assunto": "Arbitragem administrativa sobre cobrança das tabelas tarifárias 1 e 2 (acesso aquaviário e terrestre, estrada particular da CODESP) à Embraport, TUP contíguo ao porto de Santos (contrato de adesão 17/2014); vista de Mário Povia",
+   "tema": [
+    "tarifas portuárias (Tabela 1 / Tabela 2)",
+    "mediação/arbitragem",
+    "autorização de TUP / terminal de uso privado",
+    "porto de Santos"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "não concluído: vista de Mário Povia após o voto do relator",
+   "resumo_voto": "Relator: deferir 75,48% da tarifa do item 1 da Tabela 1 (proporcionalidade do contrato de adesão); não incidência do item 2 da Tabela 1 para quem não atraca no cais público; trecho da estrada particular fora da poligonal sem jurisdição tarifária da ANTAQ (preço negociável) e dentro da poligonal com tarifa integral; determina controle de acesso terrestre e aquaviário pela CODESP, retomada do faturamento, que a Embraport aceite as próximas faturas e arque com custos da suspensão de pagamentos, e arbitragem pela SRG sobre eventual restituição.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova parcialmente o pleito",
+     "ts": "2:29:16",
+     "justificativa": "Nota Técnica 134/2018 GRT; proporcionalidade prevista no contrato de adesão; isonomia entre usuários do cais público e de TUPs; corrigiu em sessão o texto sobre a estrada ser originalmente bem da União",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "pede vista (mantida)",
+     "ts": "2:39:48",
+     "justificativa": "processo foi à vista de Mário Povia, que já havia pedido vista antes do voto",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "aguarda vista",
+     "ts": "2:39:48",
+     "justificativa": "não votou",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "39",
+   "ts": "2:39:48",
+   "processo": "50300.004574/2019-69 (legenda «50 300 00 45 742 mil e 1969»)",
+   "interessado": "A.C.L. Canto Navegação Ltda. (grafia incerta)",
+   "assunto": "Outorga de autorização para operar como empresa brasileira de navegação (julgado em bloco, itens 39 a 44)",
+   "tema": [
+    "navegação e afretamento",
+    "outorga de autorização EBN"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade (bloco 39-44)",
+   "resumo_voto": "Requisitos legais e normativos atestados pelas áreas técnica e jurídica; expedição dos termos de autorização.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:40:20",
+     "justificativa": "pareceres técnico e jurídico favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:41:23",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:41:23",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "40",
+   "ts": "2:39:48",
+   "processo": "número não captado",
+   "interessado": "Mauro Fernandes Júnior (grafia incerta; relacionado a P&G Serviço Portuário, segundo esclarecimento em sessão)",
+   "assunto": "Outorga de autorização para operar como empresa brasileira de navegação (julgado em bloco, itens 39 a 44)",
+   "tema": [
+    "navegação e afretamento",
+    "outorga de autorização EBN"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade (bloco 39-44)",
+   "resumo_voto": "Requisitos legais e normativos atestados pelas áreas técnica e jurídica; expedição dos termos de autorização.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:40:20",
+     "justificativa": "pareceres técnico e jurídico favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:41:23",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:41:23",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "41",
+   "ts": "2:39:48",
+   "processo": "número não captado",
+   "interessado": "José Ataíde de Alencar Duarte Júnior (grafia incerta)",
+   "assunto": "Outorga de autorização para operar como empresa brasileira de navegação (julgado em bloco, itens 39 a 44)",
+   "tema": [
+    "navegação e afretamento",
+    "outorga de autorização EBN"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade (bloco 39-44)",
+   "resumo_voto": "Requisitos legais e normativos atestados pelas áreas técnica e jurídica; expedição dos termos de autorização.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:40:20",
+     "justificativa": "pareceres técnico e jurídico favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:41:23",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:41:23",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "42",
+   "ts": "2:39:48",
+   "processo": "número não captado",
+   "interessado": "interessado ininteligível na legenda («gerou seguir alexandre companhia militar»)",
+   "assunto": "Outorga de autorização para operar como empresa brasileira de navegação (julgado em bloco, itens 39 a 44)",
+   "tema": [
+    "navegação e afretamento",
+    "outorga de autorização EBN"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade (bloco 39-44)",
+   "resumo_voto": "Requisitos legais e normativos atestados pelas áreas técnica e jurídica; expedição dos termos de autorização.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:40:20",
+     "justificativa": "pareceres técnico e jurídico favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:41:23",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:41:23",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "43",
+   "ts": "2:39:48",
+   "processo": "número não captado",
+   "interessado": "River Montagem Industrial e Logística Ltda.",
+   "assunto": "Outorga de autorização para operar como empresa brasileira de navegação (julgado em bloco, itens 39 a 44)",
+   "tema": [
+    "navegação e afretamento",
+    "outorga de autorização EBN"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade (bloco 39-44)",
+   "resumo_voto": "Requisitos legais e normativos atestados pelas áreas técnica e jurídica; expedição dos termos de autorização.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:40:20",
+     "justificativa": "pareceres técnico e jurídico favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:41:23",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:41:23",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "44",
+   "ts": "2:39:48",
+   "processo": "número não captado",
+   "interessado": "Gran Energia e Investimentos S.A. (grafia incerta)",
+   "assunto": "Outorga de autorização para operar como empresa brasileira de navegação (julgado em bloco, itens 39 a 44)",
+   "tema": [
+    "navegação e afretamento",
+    "outorga de autorização EBN"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade (bloco 39-44)",
+   "resumo_voto": "Requisitos legais e normativos atestados pelas áreas técnica e jurídica; expedição dos termos de autorização.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:40:20",
+     "justificativa": "pareceres técnico e jurídico favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:41:23",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:41:23",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "45",
+   "ts": "2:41:58",
+   "processo": "legenda «50 319 0 56 2018 69»",
+   "interessado": "Mercosul Line Navegação; Departamento de Marinha Mercante (DMM)",
+   "assunto": "Consulta externa sobre novo modelo de contratação de construção de embarcações no Brasil e efeitos para afretamento (arts. 9º, §3º, e 10, III, Lei 9.432/97)",
+   "tema": [
+    "navegação e afretamento",
+    "afretamento",
+    "consulta",
+    "construção naval"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "O modelo proposto não altera o quadro atual: haverá contrato de construção/empreitada; sem óbice para autorizar afretamento (art. 9º, §3º) nem para dispensar autorização (art. 10, §3º) com base nesses contratos; tema também tratado em outro processo.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:42:28",
+     "justificativa": "acompanha setor técnico-jurídico",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:44:04",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:44:04",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "46",
+   "ts": "2:44:36",
+   "processo": "50300.014901/2018-18",
+   "interessado": "Flumar Transportes de Químicos e Gases Ltda.",
+   "assunto": "Consulta sobre afretamento de embarcação estrangeira por tempo para cabotagem de cimento (regiões Norte e Nordeste)",
+   "tema": [
+    "navegação e afretamento",
+    "cabotagem",
+    "afretamento",
+    "consulta"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Resposta: o afretamento pretendido se dá por circularização.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:45:08",
+     "justificativa": "acompanha o setor técnico",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:45:40",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:45:40",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "48",
+   "ts": "2:46:43",
+   "processo": "50300.000714/2017-68 (legenda «50 300 00 07 14 2017 68»)",
+   "interessado": "Wendrol Participações S.A. (grafia incerta; legenda «onde rolou» / «o dólar»)",
+   "assunto": "Processo administrativo sancionador: auto de infração 2822-3 lavrado pela unidade regional de Belém",
+   "tema": [
+    "fiscalização e sanções",
+    "auto de infração",
+    "TAC",
+    "navegação interior"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade, com acréscimo proposto por Mário Povia aceito pelo relator",
+   "resumo_voto": "Declarada a subsistência do auto e, alternativamente à penalidade, aberta a celebração de TAC com prazo razoável (crise econômica dificultou crédito para reparar embarcações); em caso de recusa ou descumprimento, autos voltam ao relator. Povia propôs que o TAC já preveja cassação da outorga em caso de descumprimento.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:47:13",
+     "justificativa": "pressupostos do TAC presentes (art. 84 da Res. 3259) diante da conjuntura de crise econômica",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:49:55",
+     "justificativa": "voto com o relator",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator com proposta",
+     "ts": "2:49:55",
+     "justificativa": "sugeriu que o TAC já preveja cassação direta da outorga no descumprimento, evitando reiniciar a instrução; relator aceitou",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "49",
+   "ts": "2:50:58",
+   "processo": "50300.003430/2017-23",
+   "interessado": "Moinhos Cruzeiro do Sul S.A.; Companhia Docas do Rio de Janeiro",
+   "assunto": "Processo administrativo sancionador: auto de infração lavrado pela unidade regional do Rio de Janeiro (uso do armazém 13)",
+   "tema": [
+    "fiscalização e sanções",
+    "auto de infração",
+    "porto do Rio de Janeiro"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade (auto insubsistente)",
+   "resumo_voto": "Insubsistência do auto por falta de autoria e materialidade (art. 34, XIV, Res. 3274); arquivamento sem penalidade; informar CDRJ e empresa que o armazém 13 não pode ser usado com exclusividade; acompanhamento pela unidade regional do Rio de Janeiro.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:51:29",
+     "justificativa": "sem autoria e materialidade",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:53:03",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:53:03",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "50",
+   "ts": "2:53:03",
+   "processo": "legenda «50 311 95 8 2017 76»",
+   "interessado": "Companhia Docas da Paraíba",
+   "assunto": "Acompanhamento do TAC 36/2017 da unidade regional de Recife",
+   "tema": [
+    "fiscalização e sanções",
+    "TAC",
+    "autoridade portuária / Docas",
+    "porto de Cabedelo"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Convalidar o TAC 36/2017 (art. 55, Lei 9.784), reconhecer o cumprimento das obrigações e arquivar este processo e o sancionador originário.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:53:34",
+     "justificativa": "acolhe relatório da unidade regional de Recife, SFC e PF; elogia a Docas da Paraíba por cumprir o TAC, o que não se vê em outras autoridades portuárias",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:56:42",
+     "justificativa": "acompanhou",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:56:42",
+     "justificativa": "acompanhou",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "51",
+   "ts": "2:56:42",
+   "processo": "50300.007614/2019-24",
+   "interessado": "Administradora de Bens de Infraestrutura Ltda.",
+   "assunto": "Nova autorização em caráter especial (180 dias) para movimentação e armazenagem de granéis líquidos em instalação na gleba Porto Chuelo, Porto Velho (RO)",
+   "tema": [
+    "autorização em caráter especial",
+    "combustíveis / granéis líquidos",
+    "Rondônia",
+    "navegação interior"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por maioria (2x1), vencido Mário Povia",
+   "resumo_voto": "Relator: quadro fático da primeira autorização (Res. 6648/2018) mantido; princípio da coerência; autoriza por 180 dias (art. 49 da Lei 10.233; art. 31, IV, RN 20). Povia divergiu: há seis meses a autorização foi dada por cheia do rio e risco de desabastecimento; a outorga definitiva não sai e a decisão vira satisfativa, permitindo ao terminal operar plenamente.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:57:12",
+     "justificativa": "princípio da coerência e segurança jurídica; quadro fático inalterado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:59:50",
+     "justificativa": "acompanha o relator",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "diverge, nega (vencido)",
+     "ts": "2:59:50",
+     "justificativa": "autorização especial anterior já durou seis meses sem que a outorga saísse; decisão totalmente satisfativa",
+     "confianca": "alta",
+     "tom": "crítico"
+    }
+   ]
+  },
+  {
+   "id": "52",
+   "ts": "3:00:21",
+   "processo": "legenda «50 mil 100 729 5 993»",
+   "interessado": "Ultrafértil S.A.",
+   "assunto": "Prorrogação do cronograma físico-financeiro de obras remanescentes de TUP em Santos (contrato de adesão 39/2014)",
+   "tema": [
+    "autorização de TUP / terminal de uso privado",
+    "cronograma de obras",
+    "porto de Santos"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Reconhecida a possibilidade da prorrogação (art. 26 do Decreto 8.033, redação do Decreto 9.048), com ratificação pelo poder concedente.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "3:00:51",
+     "justificativa": "motivos elencados justificam o deferimento",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "3:03:28",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "3:03:28",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "53",
+   "ts": "3:03:28",
+   "processo": "50300.004732/2017-19",
+   "interessado": "Maranew Transporte, Comércio e Serviços de Limpeza Marítima Ltda. (grafia incerta)",
+   "assunto": "Fiscalização ordinária (PAF 2014/2015): empresa sem embarcação que atenda à RN 5 (art. 2º, §2º, c/c art. 17)",
+   "tema": [
+    "fiscalização e sanções",
+    "auto de infração",
+    "navegação e afretamento"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Insubsistência do auto de infração 2759-3 (descrição insuficiente prejudicou a defesa) e lavratura de novo auto em processo apartado (art. 21, V, Res. 2510), já caracterizadas autoria e materialidade.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "3:04:01",
+     "justificativa": "auto não descreveu a conduta de forma clara",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "3:06:44",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "3:06:44",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "54",
+   "ts": "3:06:44",
+   "processo": "legenda «50 300 ano 12 122 mil e 1708»",
+   "interessado": "Braskem Petroquímica Ltda.; Braskem S.A.",
+   "assunto": "Transferência de titularidade do contrato de adesão 102/2016 (TUP em Duque de Caxias, RJ, granéis líquidos e gasosos) para a incorporadora Braskem S.A.",
+   "tema": [
+    "autorização de TUP / terminal de uso privado",
+    "transferência de titularidade",
+    "Rio de Janeiro"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Sem óbice regulatório, contratual ou legal (única sócia incorporadora); envio ao Ministério da Infraestrutura.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "3:07:25",
+     "justificativa": "análise técnico-jurídica sem óbice; corrigiu em sessão menção a contrato de arrendamento para contrato de adesão",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "3:10:36",
+     "justificativa": "voto o relator",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "3:11:09",
+     "justificativa": "observou a menção a arrendamento no texto, depois corrigida; voto com o relator",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "55",
+   "ts": "3:11:09",
+   "processo": "legenda «50 por exemplo 10 12 7 692 mil e 18 00»",
+   "interessado": "Associação Brasileira dos Centros Logísticos e Industriais Aduaneiros (ABCLIA, grafia incerta)",
+   "assunto": "Referendo da Resolução 6658-ANTAQ, que indeferiu medida cautelar para suspender cobranças de sobre-estadia de contêineres (demurrage) dos associados durante a greve dos caminhoneiros de 2018",
+   "tema": [
+    "serviços nos terminais (sobre-estadia/demurrage)",
+    "navegação e afretamento",
+    "medida cautelar",
+    "referendo"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "referendado por unanimidade e arquivado",
+   "resumo_voto": "Ausentes verossimilhança e risco de dano; abusividades devem ser apuradas em processos individualizados, já franqueados (Res. 6865); arquivamento.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "3:11:40",
+     "justificativa": "ausência dos requisitos da cautelar; mérito já tratado em outro processo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "3:16:21",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "3:16:21",
+     "justificativa": "acompanhou o relator sem acrescentar fundamentos",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "7 — legenda «50 300 00 381 2008 86»",
+   "relator": "não identificado",
+   "motivo": "vista renovada por Francisval Mendes",
+   "ts": "0:22:39"
+  },
+  {
+   "item": "12 — legenda «50 300 00 10 310 2007 82» (Celse Centrais Elétricas, grafia incerta)",
+   "relator": "não identificado",
+   "motivo": "vista renovada por Mário Povia",
+   "ts": "0:34:24"
+  },
+  {
+   "item": "47 — legenda «50 319 792 mil e 1828» (definição do custo médio ponderado de capital, WACC, para o setor portuário)",
+   "relator": "Adalberto Tokarski (provável)",
+   "motivo": "vista de Mário Povia; o relator não proferiu voto e aguarda apresentação da Superintendência de Regulação/Outorgas à diretoria",
+   "ts": "2:45:40"
+  }
+ ],
+ "limites_da_analise": [
+  "Data 2019-06-26 vem do cabeçalho/título; a sessão não diz a data, mas Tokarski menciona festas juninas e visita no início de agosto, compatível com fim de junho. O número 463 é confirmado na abertura e na ata aprovada (462ª).",
+  "O .md não tem marcadores de minuto internos; os ts foram tirados da transcrição JSON e são aproximados (blocos de cerca de 30 s).",
+  "Rótulos de falantes do .md listam Alber Vasconcelos, Frederico Dias e José Renato Fialho, que não eram diretores nesta sessão; os votos foram atribuídos pelo contexto (presidência de Mário Povia; relatores identificados pelo anúncio da pauta).",
+  "Itens com voto do relator proferido em reunião anterior (2, 6, 11): o teor do voto vencido não foi lido nesta sessão; registrado com confiança baixa.",
+  "Item 10: a fala de Tokarski sobre o conhecimento do pedido é truncada; pode haver ressalva sobre a parte dispositiva.",
+  "Números de processo, valores e nomes (Nova Chora, CELSE, Prates, Faoro, Wendrol, Maranew, Log Chor, ABCLIA, interessados dos itens 40-44) vêm da legenda automática e podem estar errados; os processos dos itens 40 a 44 não foram lidos.",
+  "Itens 47 e 12 tratados como não deliberados (em retirados)."
+ ]
+}
