@@ -5,6 +5,7 @@
 **Comece por:** `docs/CONTINUAR.md` (estado, comandos, pendências) e `COBERTURA.md`. Perguntas-modelo e formato de resposta: `docs/perguntas_modelo.md`.
 
 ## Regras de resposta (obrigatórias)
+0. **Toda resposta** termina com o bloco de cobertura: skill **cobertura-em-toda-resposta** (`python3 pipeline/cobertura_resposta.py <agencia> [diretor] [tema] [anos]`; a ficha já inclui). Lacuna que afeta a pergunta vai na resposta curta.
 1. Antes de responder, rode `python3 pipeline/05_indexar.py` (reconstrói `data/regulacao.db`, ~10 s) e consulte com `pipeline/consulta.py` (`perfil`, `tema`, `busca`, `trecho`, `falas`, `mandatos`, `temas`, `diretores`).
 2. Cite sempre: reunião (nº/data), item, voto, justificativa, **trecho literal** e **link com &t=segundos**. Diga o **n** (amostra) e a **confiança**.
 3. Nada de rótulos sem base («raivoso», «problemático»): use contagens (acompanha, diverge, vista, vencido), argumentos recorrentes e tom registrado como inferência.

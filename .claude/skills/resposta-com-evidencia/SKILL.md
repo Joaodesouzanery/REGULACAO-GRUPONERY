@@ -15,3 +15,5 @@ description: Formato obrigatório (ficha fixa) para responder perguntas sobre di
 3. Proibido rótulo sem base («raivoso», «problemático»): use contagens e tom como inferência registrada.
 4. Discordância/erro de dado: diga **qual diretor, RD e item**.
 5. Se a pergunta vier de cliente, use a skill `relatorio-cliente` para gerar o documento.
+
+**Sempre**: inclua o bloco da skill `cobertura-em-toda-resposta` (a seção 6 da ficha já traz).

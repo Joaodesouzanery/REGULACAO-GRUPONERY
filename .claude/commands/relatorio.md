@@ -5,3 +5,5 @@ argument-hint: "<cliente> <pasta-ou-perguntas>"
 Pedido: $ARGUMENTS
 
 Siga as skills `relatorio-cliente` e `relatorio-visual`: escreva `clientes/<cliente>/<data>/perguntas.md` (com tags [agencia][diretor][tema][setor]) e uma resposta por pergunta em `respostas/NN.md`; rode o subagente `auditor-respostas` e corrija; gere `python3 pipeline/relatorio_v2.py <pasta> --titulo … --agencia …`; rode o subagente `revisor-visual`; entregue o PDF. `clientes/` nunca vai ao GitHub.
+
+Cada pergunta e a página «Como ler» devem trazer a cobertura (skill `cobertura-em-toda-resposta`).

@@ -87,7 +87,10 @@ def ficha(d, tema=None, n_ev=5):
     if not div: L.append("- nenhum voto de vista, vencido ou divergente neste recorte.")
     fal = c.execute("select f.*, v.titulo from falas_diretores f join videos v on v.id=f.video_id where f.diretor like ? and f.fonte='estruturada' order by f.video_id, f.t limit 4", (f"%{d.split()[-1]}%",)).fetchall()
     L += ["", "**5. Falas em eventos (audiências/participativas):**"] + ([f"- {f['titulo'][:70]} · [{f['t']//60} min](https://www.youtube.com/watch?v={f['video_id']}&t={f['t']}s): {f['resumo'] or ''} «{(f['texto'] or '')[:200]}»" for f in fal] or ["- nenhuma fala estruturada (a maioria das audiências não tem fala de diretor; a análise cobre janelas do resumo)."])
-    L += ["", f"**6. Confiança e lacunas:** {QUAL}. Legenda automática (nomes/valores podem estar errados); trecho «janela_do_item» = minuto do item, não necessariamente a fala do diretor; itens sigilosos e 4 reuniões sem texto fora da base (sem_transcricao.md); voto escrito completo fica no SEI, não no vídeo."]
+    import subprocess as _sp
+    _raiz = os.path.dirname(os.path.dirname(os.path.realpath(__file__))); _m = re.search(r"data/(\w+)/\.raiz", os.getcwd())
+    _cob = _sp.run(["python3", "pipeline/cobertura_resposta.py", _m.group(1) if _m else "antt", d, tema or "-"], cwd=_raiz, capture_output=True, text=True).stdout.strip()
+    L += ["", "**6. Confiança e lacunas:** legenda automática (nomes/valores podem estar errados); trecho «janela_do_item» = minuto do item, não necessariamente a fala do diretor; voto escrito completo fica no SEI.", "", _cob]
     return "\n".join(L)
 
 # ---------- camada de empresas e microtemas ----------
