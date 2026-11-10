@@ -1,0 +1,1677 @@
+{
+ "meta": {
+  "video_id": "RVz4eCC2oXc",
+  "fonte": "legenda automática do YouTube (linha única; ts extraídos de data/transcricoes/RVz4eCC2oXc.json); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "492",
+  "data": "2020-12-22",
+  "formato": "videoconferência",
+  "presidente_da_sessao": "Eduardo Nery (Diretor-Geral)",
+  "diretores_presentes": [
+   "Eduardo Nery",
+   "Francisval Mendes",
+   "Adalberto Tokarski"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Última reunião ordinária de 2020 (fala de Natal e votos para 2021; balanço de 2020); a legenda diz «ano de 2021» por erro; data do cabeçalho coerente.",
+   "Nery abre com balanço de 2020 (atos, 12 audiências públicas, 10 editais de arrendamento, fiscalização responsiva); Francisval menciona mais de 1.300 processos relatados desde 2017, em clima de despedida.",
+   "Inversão de pauta para os itens do PPI (11, 28 a 34, 44).",
+   "Itens 28 a 32 julgados em bloco (IQI03, IQI11, IQI12, IQI13 e PEL01).",
+   "Divergência: item 3 (Cáceres): prevaleceu o voto-vista de Nery acompanhado por Tokarski; relator Francisval manteve seu voto.",
+   "Item 4: o voto-vista de Francisval prevaleceu com adesão do relator Tokarski.",
+   "Sustentações orais: BTP (embargos) e CDRJ (arbitragem Porto Sudeste).",
+   "Novos pedidos de vista: Tokarski (10, 12), Nery (13, 15, provavelmente 25), Francisval (41, 43, 46, 47); renovados: Nery (1, 2), Tokarski (5, 6, 14).",
+   "Interrupção técnica da transmissão por volta de 1:34; a agência prometeu publicar a íntegra.",
+   "Dois processos extrapauta de Tokarski (transferência de controle da CLI e audiência pública VDC10A)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "11",
+   "ts": "0:18:54",
+   "processo": "50300.021097/2020-30 (aprox.)",
+   "interessado": "Ministério da Infraestrutura; Companhia Docas do Espírito Santo (Codesa)",
+   "assunto": "Abertura de consulta e audiência pública da concessão dos portos de Vitória e Barra do Riacho e desestatização da Codesa",
+   "tema": [
+    "concessão de porto organizado",
+    "desestatização",
+    "consulta pública",
+    "Porto de Vitória"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Autoriza consulta e audiência pública (primeira concessão portuária sob a Lei 12.815, projeto pioneiro do PPI, investimentos obrigatórios superiores a R$ 1 bilhão); autos à CPLA. Item antecipado por inversão de pauta (projetos PPI).",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, aprova",
+     "ts": "0:21:33",
+     "justificativa": "aderência à RN 33; área técnica favorável",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "0:22:08",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:22:08",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "28",
+   "ts": "0:22:39",
+   "processo": "um dos processos 50300.?/2019 lidos em bloco (números ilegíveis)",
+   "interessado": "Ministério da Infraestrutura",
+   "assunto": "Aprovação de edital e minuta de contrato para licitação do arrendamento IQI03 (granéis líquidos combustíveis), julgamento em bloco dos itens 28 a 32",
+   "tema": [
+    "arrendamento em porto organizado (licitação)",
+    "edital",
+    "Porto do Itaqui"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade (bloco)",
+   "resumo_voto": "Aprova edital, minuta de contrato e anexos (art. 27, XV, Lei 10.233) para os arrendamentos IQI03, IQI11, IQI12, IQI13 (Itaqui) e PEL01 (Pelotas), com leilão a cargo da ANTAQ na B3. Correspondência item-área inferida pela ordem de leitura.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova (bloco)",
+     "ts": "0:24:59",
+     "justificativa": "regularidade do processo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "0:26:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:26:04",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "29",
+   "ts": "0:22:39",
+   "processo": "um dos processos 50300.?/2019 lidos em bloco (números ilegíveis)",
+   "interessado": "Ministério da Infraestrutura",
+   "assunto": "Aprovação de edital e minuta de contrato para licitação do arrendamento IQI11 (granéis líquidos combustíveis), julgamento em bloco dos itens 28 a 32",
+   "tema": [
+    "arrendamento em porto organizado (licitação)",
+    "edital",
+    "Porto do Itaqui"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade (bloco)",
+   "resumo_voto": "Aprova edital, minuta de contrato e anexos (art. 27, XV, Lei 10.233) para os arrendamentos IQI03, IQI11, IQI12, IQI13 (Itaqui) e PEL01 (Pelotas), com leilão a cargo da ANTAQ na B3. Correspondência item-área inferida pela ordem de leitura.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova (bloco)",
+     "ts": "0:24:59",
+     "justificativa": "regularidade do processo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "0:26:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:26:04",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "30",
+   "ts": "0:22:39",
+   "processo": "um dos processos 50300.?/2019 lidos em bloco (números ilegíveis)",
+   "interessado": "Ministério da Infraestrutura",
+   "assunto": "Aprovação de edital e minuta de contrato para licitação do arrendamento IQI12 (granéis líquidos combustíveis), julgamento em bloco dos itens 28 a 32",
+   "tema": [
+    "arrendamento em porto organizado (licitação)",
+    "edital",
+    "Porto do Itaqui"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade (bloco)",
+   "resumo_voto": "Aprova edital, minuta de contrato e anexos (art. 27, XV, Lei 10.233) para os arrendamentos IQI03, IQI11, IQI12, IQI13 (Itaqui) e PEL01 (Pelotas), com leilão a cargo da ANTAQ na B3. Correspondência item-área inferida pela ordem de leitura.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova (bloco)",
+     "ts": "0:24:59",
+     "justificativa": "regularidade do processo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "0:26:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:26:04",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "31",
+   "ts": "0:22:39",
+   "processo": "um dos processos 50300.?/2019 lidos em bloco (números ilegíveis)",
+   "interessado": "Ministério da Infraestrutura",
+   "assunto": "Aprovação de edital e minuta de contrato para licitação do arrendamento IQI13 (granéis líquidos combustíveis), julgamento em bloco dos itens 28 a 32",
+   "tema": [
+    "arrendamento em porto organizado (licitação)",
+    "edital",
+    "Porto do Itaqui"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade (bloco)",
+   "resumo_voto": "Aprova edital, minuta de contrato e anexos (art. 27, XV, Lei 10.233) para os arrendamentos IQI03, IQI11, IQI12, IQI13 (Itaqui) e PEL01 (Pelotas), com leilão a cargo da ANTAQ na B3. Correspondência item-área inferida pela ordem de leitura.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova (bloco)",
+     "ts": "0:24:59",
+     "justificativa": "regularidade do processo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "0:26:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:26:04",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "32",
+   "ts": "0:22:39",
+   "processo": "um dos processos 50300.?/2019 lidos em bloco (números ilegíveis)",
+   "interessado": "Ministério da Infraestrutura",
+   "assunto": "Aprovação de edital e minuta de contrato para licitação do arrendamento PEL01 (carga geral, especialmente toras de madeira), julgamento em bloco dos itens 28 a 32",
+   "tema": [
+    "arrendamento em porto organizado (licitação)",
+    "edital",
+    "Porto de Pelotas"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade (bloco)",
+   "resumo_voto": "Aprova edital, minuta de contrato e anexos (art. 27, XV, Lei 10.233) para os arrendamentos IQI03, IQI11, IQI12, IQI13 (Itaqui) e PEL01 (Pelotas), com leilão a cargo da ANTAQ na B3. Correspondência item-área inferida pela ordem de leitura.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova (bloco)",
+     "ts": "0:24:59",
+     "justificativa": "regularidade do processo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "0:26:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:26:04",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "33",
+   "ts": "0:26:35",
+   "processo": "50320.004371/2013 (aprox.)",
+   "interessado": "Ministério da Infraestrutura; Administração dos Portos de Paranaguá e Antonina (APPA); Transpetro (ação judicial)",
+   "assunto": "Licitação do arrendamento PAR50 (granéis líquidos, Paranaguá): análise da documentação da APPA",
+   "tema": [
+    "arrendamento em porto organizado (licitação)",
+    "convênio de delegação",
+    "Porto de Paranaguá"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Declara que a documentação atende ao convênio de delegação 01/2019, condicionada a ajustes no EVTEA (três cotações, Acórdão TCU 736/2020), ponderação sobre ação da Transpetro e ajuste de minutas; recomenda ao Minfra minutas-modelo elaboradas com CPLA e PFA.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "0:27:39",
+     "justificativa": "análise formal conforme Res. 3220 e acórdãos do TCU",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "0:32:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:32:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "34",
+   "ts": "0:32:05",
+   "processo": "50300.021098/2015-84 (aprox.)",
+   "interessado": "Ministério da Infraestrutura",
+   "assunto": "Consulta e audiência pública do arrendamento MAC14 (carga geral, cavaco de madeira, porto de Maceió)",
+   "tema": [
+    "arrendamento em porto organizado (licitação)",
+    "consulta pública",
+    "Porto de Maceió"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Autoriza consulta e audiência pública; autos à CPLA.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "0:33:41",
+     "justificativa": "regularidade do processo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "0:34:12",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:34:12",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "44",
+   "ts": "0:34:43",
+   "processo": "50300.015080/2020-43 (aprox.)",
+   "interessado": "Ministério da Infraestrutura; APPA",
+   "assunto": "Licitação do arrendamento PAR32 (carga geral, açúcar ensacado, Paranaguá): análise da documentação da APPA",
+   "tema": [
+    "arrendamento em porto organizado (licitação)",
+    "convênio de delegação",
+    "Porto de Paranaguá"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Declara atendidos os requisitos do convênio 01/2019, condicionado a ajustes no EVTEA (três cotações) e nas minutas; mesma recomendação ao Minfra sobre minutas-modelo.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "0:36:16",
+     "justificativa": "acompanha a NT 222/2020; minutas segundo paradigmas recentes (IQI18, MAC10)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "0:40:36",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "0:40:36",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:40:36",
+   "processo": "50300.016810/2018-17 (aprox.)",
+   "interessado": "Santos Brasil S.A.",
+   "assunto": "Processo com pedido de vista de Eduardo Nery (assunto não lido)",
+   "tema": [
+    "pedido de vista"
+   ],
+   "relator": "não identificado",
+   "resultado": "vista renovada",
+   "resumo_voto": "Nery renova a vista até a próxima sessão para analisar considerações de Tokarski.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "pede vista (renovação)",
+     "ts": "0:41:08",
+     "justificativa": "quer analisar com mais profundidade as considerações feitas por Adalberto",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:41:40",
+   "processo": "50300.016418/2019-41 (aprox.)",
+   "interessado": "Associação de Usuários dos Portos da Bahia (Usuport-BA); Tecon Salvador S.A.",
+   "assunto": "Medida administrativa cautelar",
+   "tema": [
+    "medida cautelar",
+    "tarifas portuárias",
+    "Porto de Salvador"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "vista renovada",
+   "resumo_voto": "Votos de Tokarski (relator) e Francisval já proferidos em sessão anterior; Nery renova a vista após visita técnica a Salvador.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "pede vista (renovação)",
+     "ts": "0:42:11",
+     "justificativa": "fez visita técnica em Salvador e reuniões; quer se sentir plenamente preparado",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:42:43",
+   "processo": "50300.018627/2020-62 (aprox.)",
+   "interessado": "Governo do Estado de Mato Grosso; Associação Pró-Hidrovia (APH, grafia incerta)",
+   "assunto": "Autorização em caráter especial/emergencial para operação do porto fluvial de Cáceres (MT)",
+   "tema": [
+    "concessão/delegação de porto",
+    "navegação interior",
+    "exploração de instalação portuária pública",
+    "Porto de Cáceres"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por maioria nos termos do voto-vista de Eduardo Nery, com acréscimo; Francisval Mendes vencido",
+   "resumo_voto": "Voto-vista: indefere a autorização especial emergencial por incabível; a exploração em regime público exige instrumento legal (arrendamento, contrato de uso temporário da Lei 14.047, contrato de transição); SFC fiscaliza; recomenda à SNPTA reavaliar o modelo dos portos fluviais e, por sugestão acolhida no fim da sessão, promover gestões junto à delegatária para pôr o terminal em operação.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "voto-vista: diverge parcialmente do relator, indefere a autorização emergencial",
+     "ts": "0:43:44",
+     "justificativa": "Cáceres preenche a definição de porto organizado da Lei 12.815; regras de uso de bem público não podem ser mitigadas; cabe à autoridade portuária e ao poder concedente escolher o instrumento",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, mantém o voto (vencido)",
+     "ts": "0:51:01",
+     "justificativa": "mantém os exatos termos do voto proferido em sessão anterior (conteúdo não lido)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o voto-vista",
+     "ts": "0:51:35",
+     "justificativa": "acompanha diante dos elementos trazidos, mas preocupado que o voto não dê solução para o porto público; sugere que a SNPTA estimule solução; cobrança de tarifa isonômica fica «muito solta»",
+     "tom": "preocupado",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:54:15",
+   "processo": "50300.010237/2017-11 (aprox.)",
+   "interessado": "Lira Navegação Marítima Ltda.",
+   "assunto": "Recurso administrativo e pedidos incidentais (multa de R$ 169 mil, comprovação de contrato de afretamento, art. 34, VII, RN 18)",
+   "tema": [
+    "recursos administrativos",
+    "navegação e afretamento",
+    "fiscalização e sanções"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado nos termos do voto-vista de Francisval Mendes",
+   "resumo_voto": "Voto-vista: indefere o sobrestamento de processos sancionadores proposto pela SFC (não há lacuna regulatória), indefere os pedidos incidentais e devolve à SFC para análise do recurso. Relator Tokarski aderiu ao voto-vista. Houve vista anterior de Joelson Miranda, que não chegou a votar.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "voto-vista: indefere sobrestamento e pedidos incidentais",
+     "ts": "0:55:20",
+     "justificativa": "alinhado à PFA: documentos aceitos pela RN 18 valiam sob as resoluções 2920 e 2922; não há retroatividade nem lacuna; mero inconformismo não justifica avocação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, adere ao voto-vista",
+     "ts": "1:03:46",
+     "justificativa": "já havia votado, mas acompanha o voto de Francisval Mendes",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha (presumido)",
+     "ts": "1:03:46",
+     "justificativa": "voto não audível com clareza; resultado anunciado nos termos do voto de Francisval",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "1:04:19",
+   "processo": "50300.003857/2018-11 (aprox.)",
+   "interessado": "ANTAQ",
+   "assunto": "Proposta de revisão da Res. 1864/2010",
+   "tema": [
+    "regulação normativa"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "vista renovada",
+   "resumo_voto": "Vista de Tokarski prorrogada (houve confusão inicial sobre a relatoria).",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "pede vista (renovação)",
+     "ts": "1:04:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "1:05:22",
+   "processo": "50300.007483/2018-02 (aprox.)",
+   "interessado": "não lido",
+   "assunto": "Processo com voto do relator já proferido",
+   "tema": [
+    "pedido de vista"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "vista renovada",
+   "resumo_voto": "Vista de Tokarski prorrogada.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "pede vista (renovação)",
+     "ts": "1:05:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "1:05:55",
+   "processo": "50300.021118/2020-95 (aprox.)",
+   "interessado": "J. Cavalcante (grafia incerta)",
+   "assunto": "Outorga EBN de passageiros na navegação interior (Manaus - Tabatinga)",
+   "tema": [
+    "navegação interior",
+    "outorga de autorização"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Expede termo de autorização por prazo indeterminado.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, aprova",
+     "ts": "1:06:27",
+     "justificativa": "requisitos atendidos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "1:06:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:06:57",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "1:07:27",
+   "processo": "50300.016724/2018-04 (aprox.)",
+   "interessado": "Manoel Messias dos Santos Filho (MEI)",
+   "assunto": "Processo administrativo sancionador: travessia de passageiros no rio São Francisco (Brejo Grande/SE - Piaçabuçu/AL)",
+   "tema": [
+    "fiscalização e sanções (multa, advertência)",
+    "navegação interior (travessias)"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Auto subsistente com multa (valor ilegível) e advertência por não apresentar documentos; declara extinto o termo de autorização; SFC fiscaliza a travessia contra operadores sem autorização; SOG atualiza cadastro.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, aprova",
+     "ts": "1:07:59",
+     "justificativa": "infrações materializadas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "1:09:02",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:09:02",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "1:09:02",
+   "processo": "50300.004805/2020-78 (aprox.)",
+   "interessado": "Píer Mauá S.A.",
+   "assunto": "Processo administrativo sancionador (AI 004284-6)",
+   "tema": [
+    "fiscalização e sanções (auto de infração)",
+    "Porto do Rio de Janeiro"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Declara nulo o auto (desconexão entre descrição e enquadramento prejudicou a defesa) e devolve à UR Rio de Janeiro para eventual novo auto.",
+   "votos": [
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "relator, aprova",
+     "ts": "1:09:35",
+     "justificativa": "vício formal prejudicou a defesa",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "1:10:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:10:38",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "1:10:38",
+   "processo": "50300.007856/2020-51 (aprox.)",
+   "interessado": "ANTAQ (SDS)",
+   "assunto": "Agenda plurianual de estudos 2021-2024",
+   "tema": [
+    "institucional / planejamento"
+   ],
+   "relator": "Eduardo Nery",
+   "resultado": "pedido de vista (Adalberto Tokarski)",
+   "resumo_voto": "Tokarski pediu vista para que a SDS apresente a agenda aos diretores; Nery orienta a SDS a apresentá-la antes da primeira reunião de 2021.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "pede vista",
+     "ts": "1:11:10",
+     "justificativa": "quer que a SDS apresente o planejamento aos diretores para discutir",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "23 (provável)",
+   "ts": "1:12:41",
+   "processo": "50300.006154/2018-36 (aprox.)",
+   "interessado": "Brasil Terminal Portuário (BTP); Marimex; Libra Terminal Santos",
+   "assunto": "Embargos de declaração contra o Acórdão 34/2020 (cautelar da Res. 6650 sobre preço-teto de SSE em Santos), com sustentação oral",
+   "tema": [
+    "recursos administrativos",
+    "tarifas portuárias (SSE/THC2)",
+    "sustentação oral",
+    "Porto de Santos"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Sustentação oral da advogada da BTP (pediu nulidade dos atos subsequentes à cautelar e anulação expressa da Res. 6650). Relator nega provimento: sem contradição; cautelar só vigorou enquanto vigente a Decisão DIREXE 50/2006 da autoridade portuária; após a revogação o preço é livre (RN 34); prosseguir no mérito.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "1:21:21",
+     "justificativa": "não há contradição, omissão ou obscuridade; convalidação sem prejuízo prático; liberdade de preços pela RN 34",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "1:29:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:29:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "1:30:05",
+   "processo": "50314.008361/2017-91 (aprox.)",
+   "interessado": "Santos Brasil Participações S.A.; NKG Stockler Ltda.",
+   "assunto": "Processo administrativo sancionador (AI 4110-16, UR São Paulo)",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "Porto de Santos"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "pedido de vista (Adalberto Tokarski)",
+   "resumo_voto": "Relator votou por multa de R$ 1 milhão, devolução à NKG Stockler de cerca de R$ 11 mil com correção e abstenção de cobranças contrárias ao art. 10 da Res. 2389; Tokarski pediu vista.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aplica multa (voto proferido)",
+     "ts": "1:30:37",
+     "justificativa": "infração do art. 32, XXXVIII, Res. 3274",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "pede vista",
+     "ts": "1:33:23",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "1:36:35",
+   "processo": "50300.002621/2009 (aprox.)",
+   "interessado": "Terminal Portuário de Santa Catarina S.A. (Tesc)",
+   "assunto": "Processo administrativo sancionador (AI 4251-10, UR Florianópolis), cronograma de investimentos",
+   "tema": [
+    "fiscalização e sanções",
+    "arrendamento em porto organizado"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "pedido de vista (Eduardo Nery)",
+   "resumo_voto": "Relator antecipou voto: auto subsistente, mas arquivamento sem penalidades e ciência à SNPTA sobre pedido de revisão do cronograma de investimentos; Nery pediu vista.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, voto antecipado",
+     "ts": "1:37:37",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "pede vista",
+     "ts": "1:36:35",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "1:39:12",
+   "processo": "50300.004865/2019-57 (aprox.)",
+   "interessado": "Cargill Agrícola S.A.",
+   "assunto": "Processo administrativo sancionador (AI 3769-9, UR Belém): construir e explorar instalação portuária em Itaituba/PA sem autorização",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "autorização de instalação portuária"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "pedido de vista (Adalberto Tokarski)",
+   "resumo_voto": "Relator antecipou voto por multa de R$ 399 mil (art. 36, XV, Res. 3274); vista já concedida a Tokarski.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aplica multa (voto antecipado)",
+     "ts": "1:39:42",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "pede vista (já concedida)",
+     "ts": "1:39:42",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "1:41:20",
+   "processo": "50300.017387/2019-45 (aprox.)",
+   "interessado": "Terminais Portuários da Ponta do Félix S.A.",
+   "assunto": "Processo administrativo sancionador (AI 4146-0, UR Paranaguá)",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "Porto de Antonina"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "pedido de vista (Eduardo Nery)",
+   "resumo_voto": "Nery pediu vista pela conexão com o item 3 (assim dito na legenda); relator antecipou voto: fato 1 subsistente (multa de R$ 22 mil, art. 32, XX, Res. 3274), fato 2 insubsistente.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, voto antecipado",
+     "ts": "1:42:26",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "pede vista",
+     "ts": "1:41:54",
+     "justificativa": "conexão de matéria com outro item da pauta",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "1:44:01",
+   "processo": "50300.003312/2017-75 (aprox.)",
+   "interessado": "Amazon Vale Armazenagem, Transporte, Navegação e Serviços Ltda.; William Tadeu Lemes de Araújo",
+   "assunto": "Saneamento processual de processo sancionador",
+   "tema": [
+    "fiscalização e sanções (multa, TAC)",
+    "recursos administrativos"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Anula o Acórdão 42/2020, não conhece do pedido de revisão, afasta a conversão em TAC (falta de interesse) e aplica multa de R$ 87 mil (art. 36, XV, Res. 3274); intima para eventual reconsideração.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "1:45:03",
+     "justificativa": "saneamento processual",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "1:47:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:47:16",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "1:47:52",
+   "processo": "50300.003763/2018-33 (aprox.)",
+   "interessado": "F. Goulart Lima Aluguel de Embarcações ME",
+   "assunto": "Pedido de reconsideração contra a Res. 7359",
+   "tema": [
+    "recursos administrativos",
+    "fiscalização e sanções (multa)"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Nega provimento, mas reduz de ofício a multa de R$ 73.500 para R$ 49 mil; parcelamento só após coisa julgada administrativa.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "1:48:59",
+     "justificativa": "reforma de ofício do valor da multa",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "1:50:34",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:50:34",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "1:50:34",
+   "processo": "50300.006626/2017-70 (aprox.)",
+   "interessado": "Superintendência do Porto de Rio Grande (SUPRG); Amônias e Serviços de Refrigeração Industrial Ltda. (grafia incerta)",
+   "assunto": "Pedido de reconsideração contra o Acórdão 87/2020",
+   "tema": [
+    "recursos administrativos",
+    "contrato de transição",
+    "Porto de Rio Grande"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Dá provimento, anula os incisos 3º e 4º do Acórdão 87/2020 e remete a discussão do contrato de transição e sua rescisão a outro processo.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "1:51:37",
+     "justificativa": "mérito do contrato de transição deve ser tratado no processo próprio",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "1:52:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:52:43",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "1:52:43",
+   "processo": "50300.003362/2017-84 (aprox.)",
+   "interessado": "Companhia Docas do Rio de Janeiro (CDRJ); Abremar (grafia incerta); Píer Mauá",
+   "assunto": "Pedido de reconsideração da CDRJ contra decisões das 422ª, 441ª e 464ª ROD (Acórdão 26/2020)",
+   "tema": [
+    "recursos administrativos",
+    "arrendamento em porto organizado",
+    "Porto do Rio de Janeiro"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece do pedido, atribui efeito suspensivo parcial quanto ao item 2 do Acórdão 26/2020 e abre prazo de 5 dias úteis para contrarrazões da arrendatária Píer Mauá.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "1:54:22",
+     "justificativa": "art. 61, parágrafo único, e art. 63 da Lei 9.784",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "1:55:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:55:28",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "24",
+   "ts": "1:55:59",
+   "processo": "50300.021337/2020-4 (aprox.)",
+   "interessado": "Terminal de celulose do Itaqui (nome ilegível, «Tassel»)",
+   "assunto": "Consulta regulatória sobre controle patrimonial de bens (cláusula 7.1.1, XXIX, contrato de arrendamento 3/2019, IQI18)",
+   "tema": [
+    "consulta regulatória",
+    "arrendamento em porto organizado",
+    "Porto do Itaqui"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Encaminha ao Minfra com orientação de que o termo de aceitação provisória e permissão de uso de ativos lavrado pelo poder concedente basta para cumprir a cláusula.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "1:57:00",
+     "justificativa": "regularidade do processo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "1:58:04",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:58:04",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "25",
+   "ts": "1:58:36",
+   "processo": "50300.002052/2018-80 (aprox.)",
+   "interessado": "Blackman (grafia incerta) Agência Marítima Ltda.; APPA",
+   "assunto": "Arbitragem: juros e multas da APPA sobre valores depositados antecipadamente",
+   "tema": [
+    "mediação/arbitragem",
+    "tarifas portuárias",
+    "Porto de Paranaguá"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "pedido de vista (diretor não identificado com segurança, provavelmente Eduardo Nery)",
+   "resumo_voto": "Relator leu o voto: acolhe a arbitragem; incidem juros só sobre o que excede a caução prévia; APPA devolve encargos cobrados em desacordo; vista concedida.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, acolhe a arbitragem (voto proferido)",
+     "ts": "1:59:08",
+     "justificativa": "caução por depósito afasta a mora sobre o valor depositado",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "ts": "2:01:52",
+   "processo": "50342.000249/2020-30 (aprox.)",
+   "interessado": "Katiane da Silva Gama (MEI)",
+   "assunto": "Outorga EBN de travessia de veículos no rio Juruá (Cruzeiro do Sul - Rodrigues Alves/AC), BR-364",
+   "tema": [
+    "navegação interior (travessias)",
+    "outorga de autorização"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Expede termo de autorização e determina à SFC verificar a adequação do serviço com a nova autorizada.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "2:02:57",
+     "justificativa": "requisitos da Res. 3285",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:04:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:04:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "27",
+   "ts": "2:04:31",
+   "processo": "50300.032792/2011 (aprox.)",
+   "interessado": "União Transportes Ltda.",
+   "assunto": "Renúncia ao contrato de adesão 98/2015 (ETC em Manaus)",
+   "tema": [
+    "autorização de TUP / ETC",
+    "extinção de outorga",
+    "Manaus/AM"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Conhece da renúncia, remete ao Minfra a extinção do contrato, revoga a Res. 2322 e manda a SFC verificar se cabe registro de instalação de apoio (RN 13).",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "2:05:33",
+     "justificativa": "pedido de renúncia",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:06:38",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:06:38",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "41",
+   "ts": "2:08:45",
+   "processo": "50300.011829/2016-05 (aprox.)",
+   "interessado": "Porto Sudeste do Brasil S.A.; Companhia Docas do Rio de Janeiro (CDRJ); MRS Logística S.A.",
+   "assunto": "Arbitragem regulatória com pedido cautelar: remuneração do uso da área do porto organizado de Itaguaí pelo ramal ferroviário da Porto Sudeste (contrato de passagem)",
+   "tema": [
+    "mediação/arbitragem",
+    "contrato de passagem",
+    "sustentação oral",
+    "Porto de Itaguaí"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "pedido de vista (Francisval Mendes)",
+   "resumo_voto": "Sustentação oral de João Torres, superintendente da CDRJ (ilegitimidade da MRS; acordo de 2008 e 13 anos sem pagamento). Relator votou por fixar R$ 18,3 milhões atrasados (out/2010 a jun/2020), parcela fixa mensal de cerca de R$ 114,6 mil mais parcela variável por tonelada, descabimento da cessão não onerosa e cabimento do contrato de passagem; prazos de 30 e 60 dias. Francisval pediu vista.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, fixa a contraprestação (voto proferido)",
+     "ts": "2:26:44",
+     "justificativa": "uso de área do porto organizado impõe justa remuneração; contrato de passagem é o instrumento; remuneração variável não é tarifa; boa-fé da CDRJ",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "pede vista",
+     "ts": "2:08:45",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "36",
+   "ts": "2:37:49",
+   "processo": "50300.000302/2015-85 (aprox.)",
+   "interessado": "Itacoatiara Calcários Ltda. (grafia incerta); Rosinete (locatária)",
+   "assunto": "Processo administrativo sancionador: subautorização irregular de ETC por locação",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "autorização de TUP / ETC"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Auto subsistente; multa de cerca de R$ 229 mil (art. 32, XXXVIII, Res. 3274) por subautorização irregular via contrato de locação.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:38:51",
+     "justificativa": "configurada subautorização irregular",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:40:26",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:40:26",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "37",
+   "ts": "2:40:57",
+   "processo": "50300.000279/2019 (aprox.)",
+   "interessado": "Companhia Docas do Pará (CDP); Receita Federal (2ª Região Fiscal)",
+   "assunto": "Contrato de cessão de uso onerosa do lote Z (porto de Belém) para depósito de mercadorias apreendidas",
+   "tema": [
+    "exploração de áreas não operacionais",
+    "autoridade portuária",
+    "Porto de Belém"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Declara que a CDP atuou em sua esfera de competência (art. 10 da Portaria 409/SEP) ao celebrar a cessão.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:42:33",
+     "justificativa": "NT da GPO: ausência de irregularidade",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:44:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:44:43",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "38",
+   "ts": "2:44:43",
+   "processo": "não lido",
+   "interessado": "José Silva Soares (grafia incerta)",
+   "assunto": "Outorga de autorização de EBN (julgamento conjunto dos itens 38 e 39)",
+   "tema": [
+    "navegação",
+    "outorga de autorização"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Expede os termos de autorização.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:45:14",
+     "justificativa": "requisitos atendidos; parecer referencial",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:45:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:45:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "39",
+   "ts": "2:44:43",
+   "processo": "não lido",
+   "interessado": "Castelo e Castelo Ltda. ME",
+   "assunto": "Outorga de autorização de EBN (julgamento conjunto dos itens 38 e 39)",
+   "tema": [
+    "navegação",
+    "outorga de autorização"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Expede os termos de autorização.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:45:14",
+     "justificativa": "requisitos atendidos; parecer referencial",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:45:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:45:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "40",
+   "ts": "2:45:45",
+   "processo": "50300.010968/2019-56 (aprox.)",
+   "interessado": "Cid (grafia incerta) Transportadora Ltda.",
+   "assunto": "Renúncia de autorização de travessia interestadual (Monte Dourado/PA - Laranjal do Jari/AP)",
+   "tema": [
+    "navegação interior (travessias)",
+    "extinção de outorga"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Declara extinta a outorga, sem prejuízo de apurar irregularidades da vigência.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:46:22",
+     "justificativa": "pedido de renúncia",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:47:28",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:47:28",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "42",
+   "ts": "2:48:00",
+   "processo": "50300.000394/2019-16 (aprox.)",
+   "interessado": "BDX Logística Ltda.; Sociedade de Portos e Hidrovias do Estado de Rondônia (SOPH)",
+   "assunto": "Mediação de controvérsia sobre cobrança pela área explorada (Porto Velho)",
+   "tema": [
+    "mediação/arbitragem",
+    "contrato de transição"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Após conciliação, determina à GRP envio da minuta de contrato de transição e encerra por perda de objeto. Nery elogiou a solução consensual.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:50:06",
+     "justificativa": "acordo em reunião de conciliação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:51:13",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:51:13",
+     "justificativa": "registra satisfação com a solução consensual, uma das atribuições importantes da agência",
+     "tom": "elogioso",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "43",
+   "ts": "2:51:44",
+   "processo": "50300.000435/2019-17 (aprox.)",
+   "interessado": "ANTAQ (SRG)",
+   "assunto": "Agenda regulatória 2020/2021",
+   "tema": [
+    "regulação normativa (agenda regulatória)"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "pedido de vista (Francisval Mendes); julgamento adiado",
+   "resumo_voto": "Relator não proferiu voto; item ficou com vista/adiado (a legenda menciona «retirado de pauta»).",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "pede vista",
+     "ts": "2:52:16",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "45",
+   "ts": "2:52:50",
+   "processo": "50300.008749/2020-41 (aprox.)",
+   "interessado": "Companhia Docas do Pará (CDP); Petróleo Sabbá S.A.",
+   "assunto": "Pedido de suspensão de cláusulas de MMC em contratos de transição do terminal de Miramar durante a covid-19",
+   "tema": [
+    "arrendamento em porto organizado",
+    "covid-19",
+    "Porto de Belém"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Encaminha ao Minfra (poder concedente), por não ser competência da ANTAQ.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:53:56",
+     "justificativa": "competência do poder concedente, conforme precedentes",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "2:55:31",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "2:55:31",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "46",
+   "ts": "2:56:02",
+   "processo": "50300.014357/2020-11 (aprox.)",
+   "interessado": "Osvaldo Agripino de Castro Júnior",
+   "assunto": "Consulta regulatória: sistema híbrido de energia em terra (solar) para navios atracados",
+   "tema": [
+    "sustentabilidade",
+    "consulta regulatória",
+    "serviços nos terminais"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "pedido de vista (Francisval Mendes)",
+   "resumo_voto": "Relator proferiu voto para não perder a oportunidade (o caso poderia ir a reunião eletrônica): aprova o entendimento técnico (NT 321 GRP) e o ofício-resposta, favorável ao projeto como alternativa sustentável; Francisval pediu vista.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova (voto proferido)",
+     "ts": "2:56:35",
+     "justificativa": "substituição do bunker por energia elétrica em navios atracados; exemplo do porto de Santos dentro da cidade",
+     "tom": "entusiasmado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "pede vista",
+     "ts": "3:01:21",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "47",
+   "ts": "3:01:53",
+   "processo": "50300.008507/2017-51 (aprox.)",
+   "interessado": "ANTAQ",
+   "assunto": "Revisão da Resolução Normativa 33",
+   "tema": [
+    "regulação normativa"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "pedido de vista (Francisval Mendes)",
+   "resumo_voto": "Relator preferiu aguardar a vista; julgamento adiado.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "pede vista",
+     "ts": "3:01:53",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "48",
+   "ts": "3:02:23",
+   "processo": "50300.020618/2019-06 (aprox.)",
+   "interessado": "Technip Brasil Engenharia, Instalações e Apoio Marítimo Ltda.; Codesa",
+   "assunto": "Contrato de transição (área VIX03, porto de Vitória; sucessão da Flexibrás)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "contrato de transição",
+    "Porto de Vitória"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Autoriza a Codesa a celebrar contrato de transição por 180 dias, renovável até a licitação; recomenda à SNPTA priorizar licitação das áreas sob contratos de transição; comunica a PFA sobre a ação judicial.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "3:04:35",
+     "justificativa": "continuidade e interesse público; recomendação de priorizar licitações",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "3:07:52",
+     "justificativa": "contrato de transição é solução inteligente, mas tende a se descaracterizar; precisa vir junto com providências para licitar",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "3:10:01",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "49",
+   "ts": "3:10:01",
+   "processo": "50300.006268/2019-75 (aprox.)",
+   "interessado": "Terminal de Vila Velha (TVV); Codesa",
+   "assunto": "Recurso contra despacho da SNPTA que negou reequilíbrio do contrato de arrendamento",
+   "tema": [
+    "recursos administrativos",
+    "reequilíbrio econômico-financeiro",
+    "Porto de Vitória"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Remete ao Minfra: a Portaria 530/2019 delegou competência material à ANTAQ, mas não a recursal.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, remete ao Minfra",
+     "ts": "3:11:40",
+     "justificativa": "competência recursal não se presume",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "3:12:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "3:13:14",
+     "justificativa": "questionou o encaminhamento; esclarecido que o ofício veio da própria SNPTA",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "50",
+   "ts": "3:14:19",
+   "processo": "50300.003353/2015 (aprox.)",
+   "interessado": "Edlog (grafia incerta) Operações Portuárias Ltda. (Itaituba/PA)",
+   "assunto": "Viabilidade locacional e anúncio público para autorização de ETC de granéis sólidos",
+   "tema": [
+    "autorização de TUP / ETC / IP4",
+    "Itaituba/PA"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Defere a celebração de contrato de adesão (ETC de granéis sólidos) e remete ao Minfra, sem cláusula suspensiva. Havia dúvida se o item fora retirado; o relator decidiu relatá-lo.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "3:16:32",
+     "justificativa": "áreas técnica e jurídica favoráveis; direito de uso da área comprovado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "3:18:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "3:18:11",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "51",
+   "ts": "3:18:11",
+   "processo": "50300.009200/2007-03 (aprox.)",
+   "interessado": "Gulf (grafia incerta) Serviços Ltda.",
+   "assunto": "Flexibilização de prazo para complementação documental (inclusão da embarcação New Furacão)",
+   "tema": [
+    "navegação e afretamento",
+    "covid-19"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Prorroga por 90 dias o prazo de complementação e decide pela inclusão temporária da embarcação, considerando atrasos de órgãos públicos na pandemia.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "3:19:16",
+     "justificativa": "atrasos do Tribunal Marítimo/Marinha na pandemia",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "3:21:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "3:21:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "extrapauta 1",
+   "ts": "3:21:51",
+   "processo": "50300.019923/2020-81 (aprox.)",
+   "interessado": "Corredor Logístico e Infraestrutura S.A. (CLI); fundos de investimento",
+   "assunto": "Anuência prévia para transferência de controle societário do arrendatário do Tegram (contrato 10/2012, Itaqui)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "transferência de controle societário",
+    "concorrência",
+    "Porto do Itaqui"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova a transferência (fundos passam a controladores direto e indireto); sem sobreposição horizontal ou vertical; reorganizações futuras devem ser informadas.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "3:22:24",
+     "justificativa": "sem óbices regulatórios nem concorrenciais (Portaria 530)",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "3:25:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "3:25:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "extrapauta 2",
+   "ts": "3:26:02",
+   "processo": "50300.002381/2015 (aprox.)",
+   "interessado": "Ministério da Infraestrutura",
+   "assunto": "Análise das contribuições da audiência pública 15/2020 (arrendamento VDC10A, soda cáustica, Vila do Conde)",
+   "tema": [
+    "arrendamento em porto organizado (licitação)",
+    "consulta pública",
+    "Porto de Vila do Conde"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova a análise das 23 contribuições; autos ao Minfra para ajustes e posterior remessa ao TCU; CPLA consolida; SG publica as respostas.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "3:27:35",
+     "justificativa": "objetivo da audiência atingido",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Eduardo Nery",
+     "voto": "acompanha o relator",
+     "ts": "3:30:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "3:30:16",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "17 e 18",
+   "relator": "Francisval Mendes",
+   "motivo": "retirados a pedido do relator (processo sancionador e TAC de empresa de nome ilegível)",
+   "ts": "1:47:16"
+  },
+  {
+   "item": "22",
+   "relator": "Francisval Mendes",
+   "motivo": "embargos de declaração da Usuport-RJ retirados pelo relator",
+   "ts": "1:55:28"
+  },
+  {
+   "item": "35",
+   "relator": "Francisval Mendes",
+   "motivo": "retirado pelo relator",
+   "ts": "2:07:11"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática de baixa qualidade (nomes deturpados: «Francisco ao»/«festival» = Francisval; «Roberto»/«Alberto» = Adalberto); números de processo aproximados.",
+  "Itens 28 a 32: os cinco números de processo foram lidos em bloco e estão ilegíveis; a correspondência item-área é inferida pela ordem.",
+  "Item com sustentação oral da BTP: número da pauta não dito; «23» é inferência pela ordem.",
+  "Item 3: o conteúdo do voto do relator (sessão anterior) não foi lido; registrado apenas que o manteve.",
+  "Item 4: voto de Nery não audível; adesão presumida.",
+  "Item 25: quem pediu vista não fica claro.",
+  "Item 43: legenda ambígua entre vista e retirada de pauta.",
+  "Item 8: valor da multa ilegível.",
+  "ts dos votos de quem só acompanha são aproximados (bloco de ~30 s).",
+  "Trecho em torno de 1:34 teve falha de transmissão; o vídeo pode não conter algum trecho."
+ ]
+}
