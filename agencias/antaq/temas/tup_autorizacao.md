@@ -1,5 +1,611 @@
 # Itens do tema «tup_autorizacao» (todos os diretores)
 
+- **RD 377 (2015-01-28)**, 9 · relator **Mário Povia** · Pedido de reconsideração contra inabilitação no Anúncio Público 6/2014 (TUP em Porto Velho/RO) por garantia de proposta inadequada → aprovado por unanimidade: provimento parcial
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=1184s)
+- **RD 377 (2015-01-28)**, 12 · relator **Mário Povia** · Autorização de TUP de granel sólido em Nova Santa Rita/RS (Anúncio Público 19/2013) — contrato de adesão → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=2135s)
+- **RD 377 (2015-01-28)**, 20 · relator **Mário Povia** · Adaptação do termo de autorização 528 (instalação em Rio Grande/RS) a contrato de adesão → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=5056s)
+- **RD 377 (2015-01-28)**, 21 · relator **Mário Povia** · Adaptação do termo de autorização 410 (terminal flexível de GNL da Baía de Guanabara) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=5215s)
+- **RD 377 (2015-01-28)**, 40 · relator **Fernando Fonseca** · Requerimento de habilitação ao REIDI (adequação do armazém 7, Barra dos Coqueiros/SE) → aprovado por unanimidade: projeto não habilitável
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=6705s)
+- **RD 377 (2015-01-28)**, 46 · relator **Fernando Fonseca** · Proposta de declaração de utilidade pública (supressão de Mata Atlântica) para TUP em São Francisco do Sul/SC → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=8491s)
+- **RD 377 (2015-01-28)**, 62 · relator **Adalberto Tokarski** · Processo administrativo contencioso (documentos não apresentados; obra de almoxarifado sem autorização) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=13742s)
+- **RD 378 (2015-02-12)**, 1 · relator **Fernando Fonseca** · Recurso administrativo contra inabilitação no anúncio público 13/2014 (instalação dentro de poligonal de porto organizado); retorno de vista → aprovado por unanimidade: recurso conhecido e não provido, com recomendação à SFC sobre o 
+  - votos: Fernando: relator; Adalberto: revisor_acompanha; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=30s)
+- **RD 378 (2015-02-12)**, 8 · relator **Mário Povia** · Processo administrativo contencioso por falta de alvará do Corpo de Bombeiros no terminal de uso misto de Praia Mole (Vitória) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=2325s)
+- **RD 378 (2015-02-12)**, 18 · relator **Fernando Fonseca** · Recurso administrativo contra arquivamento de pedido de autorização de ETC dentro da poligonal do porto organizado de Belém → aprovado por unanimidade: parcial provimento
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=6605s)
+- **RD 378 (2015-02-12)**, 19 · relator **Fernando Fonseca** · Recurso administrativo contra arquivamento de pedido de autorização de ETC dentro da poligonal do porto organizado de Santarém → aprovado por unanimidade: parcial provimento
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=7162s)
+- **RD 378 (2015-02-12)**, 20 · relator **Fernando Fonseca** · Pedido de reconsideração contra multa de 300 mil reais por descumprir TAC (início de obras) → vista concedida a Adalberto Tokarski
+  - votos: Fernando: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=7352s)
+- **RD 378 (2015-02-12)**, 23 · relator **Fernando Fonseca** · Novo pedido de reconsideração contra arquivamento de processo de outorga (decisão da 372ª reunião) → aprovado por unanimidade: não conhecido
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=8574s)
+- **RD 378 (2015-02-12)**, 30 · relator **Adalberto Tokarski** · Adaptação do termo de autorização 73/2003 à Lei 12.815 (contrato de adesão) → aprovado por unanimidade
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=12532s)
+- **RD 381 (2015-03)**, 4 · relator **Mário Povia** · Adaptação contratual de TUP à Lei 12.815: termo 284 – terminal aquaviário do Norte Capixaba (ES) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=713s)
+- **RD 381 (2015-03)**, 5 · relator **Mário Povia** · Adaptação contratual de TUP à Lei 12.815: termo 029 – terminal aquaviário de Madre de Deus (BA) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=941s)
+- **RD 381 (2015-03)**, 6 · relator **Mário Povia** · Adaptação contratual de TUP à Lei 12.815: termo 070 – terminal de Atalaia Velha/Tecarmo, Aracaju (SE) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=1050s)
+- **RD 381 (2015-03)**, 7 · relator **Mário Povia** · Adaptação contratual de TUP à Lei 12.815: termo 194 – terminal de Niterói/Tenit, Canoas (RS) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=1125s)
+- **RD 381 (2015-03)**, 8 · relator **Mário Povia** · Adaptação do contrato de adesão MTDPH 019/94 – TUP em Rio Grande (RS) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=1205s)
+- **RD 381 (2015-03)**, 9 · relator **Mário Povia** · Autorização de ETC de fertilizantes no rio Gravataí, Porto Alegre/Canoas (RS) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=1360s)
+- **RD 381 (2015-03)**, 11 · relator **Fernando Fonseca** · Adaptação contratual de TUP: termo 027 – terminal aquaviário de Angra dos Reis (RJ) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=2216s)
+- **RD 381 (2015-03)**, 12 · relator **Fernando Fonseca** · Adaptação contratual de TUP: terminal aquaviário de Manaus (AM) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=2544s)
+- **RD 381 (2015-03)**, 13 · relator **Fernando Fonseca** · Adaptação contratual de TUP: terminal aquaviário de São Francisco do Sul (SC) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=2627s)
+- **RD 381 (2015-03)**, 23 · relator **Adalberto Tokarski** · PAC – explorar terminal em Porto Velho sem autorização → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=7906s)
+- **RD 381 (2015-03)**, 24 · relator **Adalberto Tokarski** · Adaptação do contrato de adesão 007/2012 – terminal de regaseificação de GNL da Bahia → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=8509s)
+- **RD 381 (2015-03)**, 25 · relator **Adalberto Tokarski** · Adaptação do contrato de adesão 01/2011 – terminal aquaviário de Barra do Riacho, Aracruz (ES) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=8795s)
+- **RD 380 (2015-03-12)**, 1 · relator **Fernando Fonseca** · Processo administrativo contencioso (PAC) por explorar instalação portuária sem autorização (inciso 31 do art. 18 da Res. 1660); voto-vista após dilig → aprovado por unanimidade: arquivamento
+  - votos: Fernando: relator; Mário: revisor_acompanha; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=30s)
+- **RD 380 (2015-03-12)**, 3 · relator **Mário Povia** · Adaptação do contrato de adesão MT/DP 08/2000 (TUP no Rio Negro, Manaus, granéis sólidos) à Lei 12.815 → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=567s)
+- **RD 380 (2015-03-12)**, 4 · relator **Mário Povia** · Retificação do contrato de adesão 12/2014 SEP/PR (ETC): carga é granel sólido, não carga geral/de projeto → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=736s)
+- **RD 380 (2015-03-12)**, 11 · relator **Mário Povia** · Recurso contra inabilitação em anúncio público de TUP (resíduos oleosos e efluentes) → aprovado por unanimidade: provimento parcial
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=4005s)
+- **RD 380 (2015-03-12)**, 12 · relator **Mário Povia** · PAC por explorar instalação portuária sem autorização → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=4491s)
+- **RD 380 (2015-03-12)**, 20 · relator **Fernando Fonseca** · Adaptação do termo de autorização 19/2012 (terminal aquaviário de Tramandaí/Osório) à Lei 12.815 → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=5856s)
+- **RD 380 (2015-03-12)**, 21 · relator **Fernando Fonseca** · Adaptação do contrato de adesão MT/DP 91/2000 (TUP em Manaus) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=6155s)
+- **RD 380 (2015-03-12)**, 22 · relator **Fernando Fonseca** · Autorização em caráter especial e de emergência (180 dias) para desembarque de guindaste MHC no próprio TUP em Itajaí/SC → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=6339s)
+- **RD 380 (2015-03-12)**, 23 · relator **Fernando Fonseca** · Autorização em caráter especial e de emergência para operar cargas de projeto do FPSO P-76 (Pontal do Paraná) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=6597s)
+- **RD 380 (2015-03-12)**, 25 · relator **Fernando Fonseca** · Compartilhamento de infraestrutura de acostagem (Porto do Açu/RJ) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=7476s)
+- **RD 380 (2015-03-12)**, 26 · relator **Fernando Fonseca** · Compartilhamento de infraestrutura de acostagem (caso simétrico ao item 25) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=7728s)
+- **RD 380 (2015-03-12)**, 38 · relator **Adalberto Tokarski** · Adaptação de termo de autorização de TUP à Lei 12.815: terminal aquaviário de Guamaré/RN → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=10271s)
+- **RD 380 (2015-03-12)**, 39 · relator **Adalberto Tokarski** · Adaptação de termo de autorização de TUP à Lei 12.815: terminal aquaviário de Solimões (Coari/AM) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=10600s)
+- **RD 380 (2015-03-12)**, 40 · relator **Adalberto Tokarski** · Adaptação de termo de autorização de TUP à Lei 12.815: terminal aquaviário de São Sebastião/SP (Almirante Barroso) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=10718s)
+- **RD 380 (2015-03-12)**, 41 · relator **Adalberto Tokarski** · Adaptação de termo de autorização de TUP à Lei 12.815: terminal aquaviário da Ilha d'Água/RJ (Almirante Tamandaré) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=10835s)
+- **RD 380 (2015-03-12)**, 42 · relator **Adalberto Tokarski** · Nova autorização em caráter especial e de emergência (180 dias) para o terminal em Itaguaí/RJ → aprovado por unanimidade
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=10946s)
+- **RD 382 (2015-04-15)**, 14 · relator **Mário Povia** · Processo administrativo contencioso: exploração de instalação portuária sem autorização em Niterói/RJ (apoio offshore) → aprovado por unanimidade: multa
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=3867s)
+- **RD 382 (2015-04-15)**, 15 · relator **Mário Povia** · Processo administrativo contencioso: ampliação de TUP em Rio Grande sem autorização, falta de comunicação de diretores e de controle de coleta de resí → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=4354s)
+- **RD 382 (2015-04-15)**, 20 · relator **Mário Povia** · Ampliação do TUP Ponta da Montanha (Barcarena/PA) - 1º termo aditivo ao contrato de adesão 1/2014 → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=7125s)
+- **RD 382 (2015-04-15)**, 31 · relator **Fernando Fonseca** · Pedido de reconsideração de multa de R$ 87.500 por construir/explorar TUP em Niterói sem autorização → aprovado por unanimidade: negado provimento
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=9060s)
+- **RD 382 (2015-04-15)**, 37 · relator **Fernando Fonseca** · Autorização de TUP em Barra do Riacho/Aracruz-ES (anúncio público 5/2013) - contrato de adesão → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=11062s)
+- **RD 382 (2015-04-15)**, 46 · relator **Adalberto Tokarski** · Pedido de reconsideração de multa de R$ 136.500 por explorar terminal sem autorização → aprovado por unanimidade: provimento parcial
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=15989s)
+- **RD 382 (2015-04-15)**, 47 · relator **Adalberto Tokarski** · Pedido de reconsideração de advertência (construção de terminal em Barra do Riacho antes da autorização) → aprovado por unanimidade: negado provimento
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=16581s)
+- **RD 382 (2015-04-15)**, 49 · relator **Adalberto Tokarski** · Adaptação do termo de autorização do Terminal Ilha Redonda (Baía de Guanabara) à Lei 12.815 e unificação com Ilha Comprida → aprovado por unanimidade
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=17273s)
+- **RD 382 (2015-04-15)**, 50 · relator **Adalberto Tokarski** · Adaptação do termo de autorização do Terminal Ilha Comprida (Baía de Guanabara) e transferência à Transpetro → aprovado por unanimidade
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=17727s)
+- **RD 384 (2015-05-20)**, 1 · relator **Fernando Fonseca** · Pedido de reconsideração de decisão da SFC que aplicou multa de R$ 200 mil e determinou PAS de cassação por descumprimento do TAC 06/2011-SPO (constru → aprovado por unanimidade (provimento parcial: TAC extinto sem multa)
+  - votos: Fernando: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=30s)
+- **RD 384 (2015-05-20)**, 13 · relator **Fernando Fonseca** · Homologação de desistência do anúncio público 7/2013 (TUP na área do porto organizado de Belém) e devolução da garantia de proposta (~R$ 22.543) → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=2429s)
+- **RD 384 (2015-05-20)**, 17 · relator **Fernando Fonseca** · Pedido de reconsideração contra multa de R$ 357 mil por iniciar ampliação de instalação portuária (segunda ponte de acesso ao cais flutuante) sem auto → aprovado por unanimidade (recurso negado)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=4776s)
+- **RD 384 (2015-05-20)**, 20 · relator **Adalberto Tokarski** · Adaptação do contrato de adesão MTDP 79/1999 à Lei 12.815 com transferência de titularidade à incorporadora → aprovado por unanimidade
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=6149s)
+- **RD 384 (2015-05-20)**, EP2 · relator **Fernando Fonseca** · Autorização em caráter especial e de emergência (180 dias) para movimentar estruturas metálicas de grande porte em TUP ainda em processo de outorga (a → aprovado por unanimidade (deferido)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=7545s)
+- **RD 385 (2015-06-01)**, 19 · relator **Mário Povia** · Ampliação de TUP em Salvador/BA (silos para trigo e soja, +13.680 m², ≈R$ 33,5 milhões) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=6515s)
+- **RD 385 (2015-06-01)**, 20 · relator **Fernando Fonseca** · Processo sancionador: não adaptação do contrato de adesão à Lei 12.815 → adiado (pedido de vista)
+  - votos: Fernando: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=6751s)
+- **RD 385 (2015-06-01)**, 32 · relator **Fernando Fonseca** · Renúncia à outorga do TUP Porto Lobo do Rio (Rio de Janeiro) → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=9680s)
+- **RD 385 (2015-06-01)**, 33 · relator **Fernando Fonseca** · Ampliação de TUP em Rio Grande/RS (+31.367 m², ≈12% da área) → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=10091s)
+- **RD 385 (2015-06-01)**, 37 · relator **Fernando Fonseca** · Registro de instalação portuária rudimentar (rampa de suprimentos) em Oriximiná/PA → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=11525s)
+- **RD 385 (2015-06-01)**, 38 · relator **Fernando Fonseca** · Autorização de TUP em São João da Barra/RJ (anúncio público 17/2014) → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=11665s)
+- **RD 385 (2015-06-01)**, 39 · relator **Fernando Fonseca** · Ampliação do TUP Ponta Ubu (ES) e autorização especial para nova portaria alfandegada → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=11915s)
+- **RD 385 (2015-06-01)**, 40 · relator **Fernando Fonseca** · Ampliação do TUP (contrato de adesão 51/2014) — certidão da SPU suspensa por decisão judicial (ação da Chibatão) → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=12341s)
+- **RD 385 (2015-06-01)**, 42 · relator **Fernando Fonseca** · Adaptação do contrato de adesão 048/97 (TUP em Porto Velho/RO) à Lei 12.815 → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=12715s)
+- **RD 385 (2015-06-01)**, 48 · relator **Adalberto Tokarski** · Registro de instalação rudimentar para embarque/desembarque de madeira em toras (Oriximiná/PA) → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: acompanha; Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=14940s)
+- **RD 385 (2015-06-01)**, 52 · relator **Fernando Fonseca** · Referendo da Res. 4147: autorização especial para teste de comissionamento com bauxita no terminal multiúso (TUP, São João da Barra/RJ), 180 dias → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=22473s)
+- **RD 385 (2015-06-01)**, 58 · relator **Adalberto Tokarski** · Extrapauta: autorização especial de emergência para operar em área adjacente (píer Cachimbau, Niterói/RJ) por risco de desabamento do píer → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: acompanha; Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=22822s)
+- **RD 386 (2015-06-25)**, 16 · relator **Mário Povia** · Adaptação do contrato de adesão 007/2011 (ETC no rio Negro, Manaus) → aprovado conforme voto do relator
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=7477s)
+- **RD 386 (2015-06-25)**, 20 · relator **Fernando Fonseca** · Adaptação de termo de autorização de TUP em Manaus à Lei 12.815 → aprovado conforme voto do relator
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=9252s)
+- **RD 386 (2015-06-25)**, 25 · relator **Fernando Fonseca** · Recurso contra inabilitação no anúncio público 14/2014 (TUP) → aprovado conforme voto do relator (recurso não provido)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=10551s)
+- **RD 386 (2015-06-25)**, 27 · relator **Fernando Fonseca** · Sancionador: exploração de instalação de uso privado sem autorização (Rio de Janeiro) → aprovado o voto do relator (TAC); Povia vencido
+  - votos: Fernando: relator; Mário: vencido; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=11355s)
+- **RD 386 (2015-06-25)**, 30 · relator **Fernando Fonseca** · Autorização para construção e exploração de TUP em Candeias (BA), 291 mil m² → aprovado conforme voto do relator
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=12844s)
+- **RD 386 (2015-06-25)**, 40 · relator **Adalberto Tokarski** · Pedido de reconsideração de multa de R$ 43.750 (TUP em Niterói) → aprovado conforme voto do relator (reconsideração provida)
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=15281s)
+- **RD 386 (2015-06-25)**, 44 · relator **Adalberto Tokarski** · Ampliação de TUP em Ponta Negra, Manaus (+4,44%) → aprovado conforme voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=16106s)
+- **RD 386 (2015-06-25)**, 45 · relator **Adalberto Tokarski** · Prorrogação de prazo para regularizar instalação rudimentar Porto Gabriela (Vitória do Xingu, PA) → aprovado conforme voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=16506s)
+- **RD 387 (2015-07-29)**, 4 · relator **Fernando Fonseca** · Processo administrativo sancionador: não adaptação do contrato de adesão (art. 58 da Lei 12.815; AI 01288/2014) (retorno de vista) → não concluído: pedido de vista de Mário Povia
+  - votos: Fernando: relator; Adalberto: revisor_diverge; Mário: vista · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=5380s)
+- **RD 387 (2015-07-29)**, 5 · relator **Mário Povia** · Ampliação de área (25%) de TUP em Itajaí/SC (contrato de adesão 12/2014) (retorno de vista) → rejeitado (maioria): sugere à SEP o indeferimento da ampliação; unânime quanto à apuração 
+  - votos: Mário: vencido; Fernando: revisor_diverge; Adalberto: revisor_diverge · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=5890s)
+- **RD 387 (2015-07-29)**, 8 · relator **Mário Povia** · Processo administrativo sancionador: não adaptação do contrato de adesão do terminal de regaseificação de GNL da Bahia (TRBA) → aprovado conforme voto do relator (unânime)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=7658s)
+- **RD 387 (2015-07-29)**, 9 · relator **Mário Povia** · Processo administrativo sancionador: exploração de terminal sem autorização dentro da poligonal do porto organizado de Belém → aprovado conforme voto do relator (unânime)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=7751s)
+- **RD 387 (2015-07-29)**, 23 · relator **Fernando Fonseca** · Inclusão de novos perfis de carga no TUP de São João da Barra/RJ (novo contrato de adesão) e alteração de razão social → aprovado conforme voto do relator (unânime)
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=13230s)
+- **RD 387 (2015-07-29)**, 33 · relator **Fernando Fonseca** · Processo administrativo sancionador: não adaptação do termo de autorização do TUP de combustíveis em Santarém/PA → aprovado conforme voto do relator (maioria; Tokarski vencido)
+  - votos: Fernando: relator; Adalberto: vencido; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=15112s)
+- **RD 387 (2015-07-29)**, 41 · relator **Adalberto Tokarski** · Processo administrativo sancionador: terminal de cargas e passageiros sem autorização em Tabatinga → aprovado conforme voto do relator (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=17111s)
+- **RD 387 (2015-07-29)**, 44 · relator **Adalberto Tokarski** · Adesão ao REIDI para dragagem do canal de Piaçaguera (terminal TIPLAM, Santos/SP) → aprovado conforme voto do relator (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=18066s)
+- **RD 387 (2015-07-29)**, 55 (extrapauta) · relator **Adalberto Tokarski** · Declaração de utilidade pública para supressão de Mata Atlântica nas áreas dos TUPs Porto Sul e Bamin (Ilhéus) → aprovado conforme voto do relator (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=18658s)
+- **RD 388 (2015-08-12)**, 1 · relator **Fernando Fonseca** · Processo administrativo sancionador por deixar de adaptar a outorga (contrato de adesão MTD/PH 081/99) — voto-vista → aprovado por unanimidade (auto subsistente, multa)
+  - votos: Fernando: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=43s)
+- **RD 388 (2015-08-12)**, 2 · relator **Fernando Fonseca** · Adaptação do contrato de adesão MT/DPH 034/95 e mudança de titularidade (incorporação da ArcelorMittal Tubarão pela ArcelorMittal Brasil) — voto-vista → não deliberado: vista retomada para diligência/consulta à PFA (retirado de pauta)
+  - votos: Fernando: relator; Adalberto: revisor_acompanha; Mário: outro · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=174s)
+- **RD 388 (2015-08-12)**, 3 · relator **Fernando Fonseca** · Pedido de reconsideração contra multa de R$ 300 mil da SFC por descumprimento do TAC 02/2012 (início das obras do TUP Mearim granéis sólidos) — voto-v → aprovado por maioria o voto-vista (provimento, TAC extinto sem multa); relator vencido
+  - votos: Fernando: vencido; Adalberto: revisor_acompanha; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=1134s)
+- **RD 388 (2015-08-12)**, 6 · relator **Mário Povia** · Processo administrativo sancionador por permitir ocupação de área do porto organizado pela Bianchini (píer do TUP) sem contrato → aprovado por unanimidade (auto insubsistente, arquivamento)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=3162s)
+- **RD 388 (2015-08-12)**, 14 · relator **Fernando Fonseca** · Processo administrativo sancionador por não adaptar o termo de autorização 073/2003 → aprovado por unanimidade (auto insubsistente, perda de objeto)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=7419s)
+- **RD 388 (2015-08-12)**, 15 · relator **Fernando Fonseca** · Adaptação do termo de autorização 227/2005 à Lei 12.815 (área ampliada de ~151.760 m², legenda incerta) e indícios de uso como recinto alfandegado sem → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=7645s)
+- **RD 388 (2015-08-12)**, 16 · relator **Fernando Fonseca** · Adaptação do termo de autorização 381/2007 (terminal marítimo, TUP) à Lei 12.815 com atualização da razão social → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=9016s)
+- **RD 388 (2015-08-12)**, 18 · relator **Fernando Fonseca** · Processo administrativo contencioso: falta de alvará PPCI e construção de armazém (~38 mil t) sem autorização → aprovado por unanimidade (multa)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=9922s)
+- **RD 388 (2015-08-12)**, 28 · relator **Adalberto Tokarski** · Alteração de denominação social do titular do contrato de adesão 02/2014 → aprovado por unanimidade
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=14262s)
+- **RD 389 (2015-08-27)**, 9 · relator **Fernando Fonseca** · PAC por operar terminal de uso privado sem autorização (multa proposta de R$ 800 mil) — anulado por mandado de segurança → aprovado (PAC anulado)
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=px8mI3sMZqA&t=7306s)
+- **RD 390 (2015-09)**, 2 · relator **None** · Adaptação e mudança de titularidade de contrato de adesão de TUP no complexo siderúrgico de Tubarão, Vitória (ES) → aprovada a adaptação nos termos do voto-vista de Adalberto Tokarski (leitura incerta)
+  - votos: Adalberto: revisor_diverge; Mário: revisor_acompanha; Fernando: outro · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=1360s)
+- **RD 390 (2015-09)**, 9 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 52.500 por explorar terminal privado sem autorização (Niterói) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=2665s)
+- **RD 390 (2015-09)**, 12 · relator **Mário Povia** · Autorização de TUP de granéis sólidos em Canoas (RS) – anúncio público 7/2014 → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=3055s)
+- **RD 390 (2015-09)**, 14 · relator **Mário Povia** · Autorização de TUP de carga geral em Itaguaí (RJ) e autorização especial de emergência por 180 dias → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=3240s)
+- **RD 390 (2015-09)**, 15 · relator **Mário Povia** · Autorização de ETC de etanol no rio Tietê, Anhembi (SP) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=3515s)
+- **RD 390 (2015-09)**, 22 · relator **Fernando Fonseca** · PAC – explorar instalação portuária (ETC) sem autorização → aprovado por maioria; Adalberto Tokarski parcialmente vencido
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=4365s)
+- **RD 390 (2015-09)**, 30 · relator **Fernando Fonseca** · PAC – TUP em Rio Grande movimentou arroz, carga não prevista no termo de autorização → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=7924s)
+- **RD 390 (2015-09)**, 32 · relator **Fernando Fonseca** · Adaptação contratual e transferência de titularidade do termo de autorização 415/2008 (terminal em Porto Velho) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=9570s)
+- **RD 390 (2015-09)**, 35 · relator **Fernando Fonseca** · PAC – TUP Saladeiro em Corumbá (MS) sem manutenção nem operação → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=11003s)
+- **RD 390 (2015-09)**, 44 · relator **Adalberto Tokarski** · Renúncia à autorização do TUP Saladeiro, Corumbá (MS) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=12875s)
+- **RD 391 (2015-09-23)**, 1 · relator **Mário Povia** · Adaptação do termo de autorização 074 (TUP em Porto Velho/RO, 60.794 m², carga geral e conteinerizada) e celebração de contrato de adesão → aprovado
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=38s)
+- **RD 391 (2015-09-23)**, 20 · relator **Fernando Fonseca** · Pedido de registro de balsa para embarque e desembarque de tripulantes no porto Trombetas → indeferido
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=5519s)
+- **RD 391 (2015-09-23)**, 24 · relator **Adalberto Tokarski** · Processo sancionador: não adaptação de contrato de adesão MT/DP 093/2000 (art. 58 da Lei 12.815) → aprovado
+  - votos: Mário: acompanha; Fernando: acompanha; Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=7296s)
+- **RD 392 (2015-10-22)**, 6 · relator **Mário Povia** · Pedido de reconsideração: multa de R$ 165 mil por explorar instalação portuária (píer de rebocadores) sem autorização → negado provimento; multa de R$ 165 mil mantida
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=3711s)
+- **RD 392 (2015-10-22)**, 7 · relator **Mário Povia** · Ampliação de TUP parcialmente dentro da poligonal do porto de Vitória (aterro em área molhada) → aprovado: ampliação considerada não vedada; autos à SEP
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=3954s)
+- **RD 392 (2015-10-22)**, 8 · relator **Mário Povia** · Habilitação de projeto de expansão no REIDI (Lei 11.488/2007) → aprovado
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=4911s)
+- **RD 392 (2015-10-22)**, 11 · relator **Fernando Fonseca** · Processo contencioso: uso irregular de espelho d água sem cessão da SPU → advertência em vez de multa (relator vencido)
+  - votos: Fernando: relator; Adalberto: outro; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=6828s)
+- **RD 392 (2015-10-22)**, 25 · relator **Adalberto Tokarski** · Processo sancionador: não adaptação do termo de autorização de TUP (proposta de cassação) → aprovado: nulidade do auto e arquivamento
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=13226s)
+- **RD 392 (2015-10-22)**, 27 · relator **Adalberto Tokarski** · Pedido de reconsideração: multa de R$ 26.250 por explorar TUP sem autorização → negado provimento
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=14766s)
+- **RD 392 (2015-10-22)**, 28 · relator **Adalberto Tokarski** · Anúncio público 13/2015: TUP em Barra do Riacho (318.187 m2) → aprovado: possibilidade de contrato de adesão; autos à SEP
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=15107s)
+- **RD 394 (2015-11-19)**, 3 · relator **Mário Povia** · Processo sancionador (vista): exploração de terminal sem autorização dentro da poligonal de Vitória → aprovado por unanimidade: multa de R$ 61.250, prazo de 90 dias para regularizar
+  - votos: Mário: relator; Fernando: revisor_acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=82s)
+- **RD 394 (2015-11-19)**, 5 · relator **Mário Povia** · Processo sancionador: não apresentação de documentos para adaptação do contrato de adesão → auto insubsistente; arquivamento
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=1252s)
+- **RD 394 (2015-11-19)**, 7 · relator **Mário Povia** · Anúncio público 3/2015: TUP de apoio offshore → aprovado: contrato de adesão; autos à SEP
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=2151s)
+- **RD 394 (2015-11-19)**, 8 · relator **Mário Povia** · Adaptação do contrato de adesão 55/97 à Lei 12.815 → aprovado
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=2474s)
+- **RD 394 (2015-11-19)**, 9 · relator **Mário Povia** · Autorização em caráter especial e de emergência (180 dias) para comissionar guindastes (bauxita e coque) → aprovado
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=2638s)
+- **RD 394 (2015-11-19)**, 13 · relator **Fernando Fonseca** · Regularização de aumento de capacidade de TUP sem aumento de área → aprovado; sugestão à SEP de excluir exigência de termo aditivo (portaria 249/2014)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=3111s)
+- **RD 394 (2015-11-19)**, 19 · relator **Fernando Fonseca** · Ampliação de TUP (cais flutuante) no Rio Negro; disputa de espelho d água com o Chibatão → pedido de vista (Mário) após o voto do relator
+  - votos: Fernando: relator; Mário: vista · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=6130s)
+- **RD 394 (2015-11-19)**, 20 · relator **Fernando Fonseca** · Anúncio público 01/2014: estação de transbordo de carga → aprovado
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=8422s)
+- **RD 394 (2015-11-19)**, 21 · relator **Fernando Fonseca** · Autorização em caráter especial e de emergência para movimentar carga própria (guindaste) → aprovado
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=8597s)
+- **RD 394 (2015-11-19)**, 31 · relator **Adalberto Tokarski** · Anúncio público 7/2015: TUP em São Luís/MA → aprovado: contrato de adesão; autos à SEP
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=12173s)
+- **RD 395 (2015-12-03)**, 3 · relator **Fernando Fonseca** · Ampliação de TUP (≈11.591 m², 10,04% da área) no contrato de adesão 51/2014; disputa de área molhada com terminal vizinho (viabilidade locacional) → aprovado o voto-vista (relator vencido)
+  - votos: Mário: revisor_diverge; Adalberto: revisor_acompanha; Fernando: vencido · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=60s)
+- **RD 395 (2015-12-03)**, 7 · relator **Mário Povia** · Nova autorização em caráter especial e de emergência para operar em área adjacente ao TUP Píer do Cachimbau, Ilha da Conceição, Niterói/RJ → aprovado
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=2207s)
+- **RD 395 (2015-12-03)**, 16 · relator **Fernando Fonseca** · Autorização de TUP Terminal Ilha do Governador, Rio de Janeiro (46.026,63 m²), após TAC 22/2010 com Cosan → aprovado
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=4050s)
+- **RD 395 (2015-12-03)**, 28 · relator **Adalberto Tokarski** · Recurso contra inabilitação no anúncio público 48/2013 (TUP em Niterói/RJ) e pedido de autorização em caráter especial e de emergência → aprovado
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=10710s)
+- **RD 396 (2015-12-17)**, 5 · relator **Mário Povia** · PAS: movimentação de contêineres fora do perfil de carga autorizado (ETC em Manaus) → aprovado: auto subsistente, advertência
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=832s)
+- **RD 396 (2015-12-17)**, 7 · relator **Mário Povia** · Processo contencioso: exploração de terminal (Porto Velho) sem autorização → aprovado: multa de R$ 3.150
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=1605s)
+- **RD 396 (2015-12-17)**, 12 · relator **Fernando Fonseca** · Adaptação de contrato de adesão e transferência de titularidade (TUP Portocel, Aracruz-ES) → aprovado: ratificada a Res. 3648 (adaptação), sem transferência de titularidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=3272s)
+- **RD 396 (2015-12-17)**, 15 · relator **Fernando Fonseca** · PAS: não adaptação do termo de autorização no prazo → aprovado: auto subsistente, arquivamento sem penalidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=4958s)
+- **RD 396 (2015-12-17)**, 19 · relator **Fernando Fonseca** · Autorização em caráter especial e de emergência (art. 49 da Lei 10.233) para ETC no rio Maguari, Belém-PA → aprovado, com reflexão sobre uso do art. 49
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=8099s)
+- **RD 396 (2015-12-17)**, 20 · relator **Fernando Fonseca** · Autorização especial de emergência para testes de comissionamento com carga de terceiros (TUP em Barcarena-PA) → aprovado
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=8398s)
+- **RD 396 (2015-12-17)**, 21 · relator **Fernando Fonseca** · Autorização especial de emergência para testes de comissionamento (ETC em Itaituba-PA) → aprovado
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=8617s)
+- **RD 396 (2015-12-17)**, 41 · relator **Fernando Fonseca** · Autorização especial de emergência para TUP de sal (Rio Grande do Norte) → aprovado
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=14318s)
+- **RD 398 (2016-02-12)**, 2 · relator **Fernando Fonseca** · Processo administrativo sancionador: operação portuária sem autorização em instalação (ETC) no rio Paranaíba; voto-vista do Diretor-Geral → aprovado por maioria o voto-vista de Mário Povia: multa reduzida para R$ 18.900, reenquadr
+  - votos: Mário: revisor_acompanha; Fernando: revisor_acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=72s)
+- **RD 398 (2016-02-12)**, 3 · relator **Fernando Fonseca** · Processo administrativo contencioso: não pagamento de tarifa de infraestrutura aquaviária (tabela I) do porto organizado de Porto Alegre → aprovado por maioria o voto-vista de Mário Povia pelo arquivamento; Fernando Fonseca (rela
+  - votos: Fernando: vencido; Mário: revisor_diverge; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=352s)
+- **RD 398 (2016-02-12)**, 4 · relator **Mário Povia** · Aditamento do contrato de adesão 19/2014 para ampliação da ETC Miritituba em 12.200 m² → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=1409s)
+- **RD 398 (2016-02-12)**, 6 · relator **Mário Povia** · Ampliação do TUP Cotegipe (berço 3 e armazéns) superior a 25%: novo contrato de adesão → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=2218s)
+- **RD 398 (2016-02-12)**, 20 · relator **Fernando Fonseca** · Processo sancionador: exploração de TUP sem autorização (instalação que atende apoio portuário na Baía de Sepetiba) → aprovado por unanimidade: auto insubsistente, com proposta de TAC e articulação da SFC com
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=7929s)
+- **RD 398 (2016-02-12)**, 24 · relator **Adalberto Tokarski** · Outorga para construção e exploração de ETC (22.790 m², granel/asfalto) em Ananindeua → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=9734s)
+- **RD 398 (2016-02-12)**, 26 · relator **Adalberto Tokarski** · Outorga para exploração de ETC de granel líquido em Cruzeiro do Sul/AC → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=10684s)
+- **RD 398 (2016-02-12)**, 29 · relator **Adalberto Tokarski** · Registro de instalação portuária temporária de apoio à obra do programa Amazônia Conectada → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=11826s)
+- **RD 398 (2016-02-12)**, 38 (extrapauta) · relator **Mário Povia** · Autorização em caráter especial e de emergência para embarque/desembarque de módulos (P-67, P-70) até 04/03/2016 → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=12839s)
+- **RD 399 (2016-03-03)**, 2 · relator **Fernando Fonseca** · PAS por não adaptar o termo de autorização 292 à Lei 12.815 (pendência de débito ligado à tarifa de acesso aquaviário em disputa judicial); retorno de → aprovado o voto-vista (advertência) por maioria; relator vencido (multa)
+  - votos: Fernando: vencido; Mário: revisor_diverge; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=1141s)
+- **RD 399 (2016-03-03)**, 12 · relator **Fernando Fonseca** · PAS: TUP operou antes do termo de licença de operação, sem licença ambiental e lançou movimentação extemporânea → aprovado por unanimidade conforme voto do relator
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=5028s)
+- **RD 403 (2016-04-28)**, 5 · relator **Fernando Fonseca** · Alteração de perfil de carga de TUP para incluir granel sólido → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=83ex6xdeHiw&t=1664s)
+- **RD 403 (2016-04-28)**, 9 · relator **Adalberto Tokarski** · PAS por falta de alvará PPCI dos bombeiros e ampliação sem autorização prévia (armazém 5) → aprovado por unanimidade
+  - votos: Adalberto: relator; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=83ex6xdeHiw&t=2867s)
+- **RD 403 (2016-04-28)**, 13 · relator **Adalberto Tokarski** · PAS por construir instalação portuária (Porto Voyage) sem autorização → aprovado por unanimidade: arquivamento
+  - votos: Adalberto: relator; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=83ex6xdeHiw&t=5316s)
+- **RD 403 (2016-04-28)**, 14 · relator **Adalberto Tokarski** · PAS por explorar instalação portuária em Porto Trombetas sem autorização → aprovado por unanimidade
+  - votos: Adalberto: relator; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=83ex6xdeHiw&t=5786s)
+- **RD 403 (2016-04-28)**, 16 · relator **Adalberto Tokarski** · Transferência de controle societário (incorporação da VOP pela VLI Multimodal) → aprovado por unanimidade
+  - votos: Adalberto: relator; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=83ex6xdeHiw&t=6722s)
+- **RD 404 (2016-06-02)**, 2 · relator **Fernando Fonseca** · Enquadramento e registro de instalação portuária rudimentar de apoio à base de Urucu → aprovado por unanimidade conforme voto do relator
+  - votos: Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=bKneMtT4OuQ&t=180s)
+- **RD 404 (2016-06-02)**, 7 · relator **Fernando Fonseca** · PAS por não adaptar o termo de autorização do TUP à Lei 12.815 (proposta de multa de R$ 137,5 mil e cassação) → aprovado por unanimidade conforme voto do relator
+  - votos: Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=bKneMtT4OuQ&t=1446s)
+- **RD 412 (2016-11-01)**, 2 · relator **Fernando Fonseca** · Processo administrativo sancionador sobrestado por divergência: não adaptação do contrato de adesão do terminal fluvial de Juazeiro à Lei 12.815 (AI 1 → aprovado por maioria (2x1): multa de R$ 52.500, vencido Adalberto Tokarski
+  - votos: Fernando: relator; Adalberto: vencido; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=308s)
+- **RD 412 (2016-11-01)**, 10 · relator **Adalberto Tokarski** · Processo administrativo sancionador: repotencialização de equipamentos do terminal sem autorização (AI 9946) → aprovado por unanimidade: auto insubsistente, arquivamento
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=1666s)
+- **RD 412 (2016-11-01)**, 30 · relator **Mário Povia** · Outorga de ETC em Manaus-AM (87 mil m², granéis sólidos e carga geral) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=7955s)
+- **RD 412 (2016-11-01)**, 31 · relator **Mário Povia** · Outorga de ETC em Porto Velho-RO (22,2 mil m², carga geral e conteinerizada) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=8320s)
+- **RD 412 (2016-11-01)**, 32 · relator **Mário Povia** · Habilitação da ampliação do TUP Itapoá ao REIDI → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=8497s)
+- **RD 416 (2017-02-01)**, 55 · relator **Mário Povia** · Autorização em caráter especial e de emergência (90 dias) para operar TUP com anúncio público de 2013 pendente → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=5QSwOSILsGM&t=562s)
+- **RD 416 (2017-02-01)**, 57 · relator **Mário Povia** · Alteração de razão social de titular de ETC → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=5QSwOSILsGM&t=785s)
+- **RD 416 (2017-02-01)**, 65 · relator **Adalberto Tokarski** · Referendo da Res. 5192: possibilidade de contrato de adesão para TUP → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=5QSwOSILsGM&t=4207s)
+- **RD 416 (2017-02-01)**, 68 · relator **Fernando Fonseca** · Referendo da Res. 5182: aumento de capacidade do TUP sem expansão de área → aprovado por unanimidade (provimento parcial)
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=5QSwOSILsGM&t=5010s)
+- **RD 416 (2017-02-01)**, extrapauta · relator **Fernando Fonseca** · Autorização em caráter especial e de emergência (180 dias) para integração da FPSO P-76 em área contígua ao TUP → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=5QSwOSILsGM&t=7613s)
+- **RD 419 (2017-03-27)**, 2 · relator **Adalberto Tokarski** · Autorização em caráter especial e de emergência para testes de comissionamento dos armazéns de grãos e açúcar e do berço 3 do Terminal Integrador Port → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dJL-tEcjJfU&t=62s)
+- **RD 419 (2017-03-27)**, 6 · relator **Adalberto Tokarski** · Processo administrativo sancionador: recusa de documentos e não operação do terminal por três anos → aprovado por unanimidade: arquivamento
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dJL-tEcjJfU&t=2154s)
+- **RD 420 (2017-05-09)**, 3 · relator **Adalberto Tokarski** · Adaptação do contrato de adesão MT/DP 9/93 à Lei 12.815/2013 → aprovado (unânime)
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=372s)
+- **RD 420 (2017-05-09)**, 4 · relator **Adalberto Tokarski** · Processo administrativo contencioso por ausência de operação no TUP Juazeiro; pedido de reconsideração da multa de R$ 100 mil por descumprimento de TA → aprovado (unânime): arquivamento sem penalidade e provimento da reconsideração
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=477s)
+- **RD 420 (2017-05-09)**, 16 · relator **Adalberto Tokarski** · Cisão do contrato de adesão 8/2015: redução de área do TUP e nova outorga para o terminal de petróleo (T-OIL) → aprovado (unânime)
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=4223s)
+- **RD 420 (2017-05-09)**, 20 · relator **Adalberto Tokarski** · Desistência de anúncio público para TUP e devolução de garantias de proposta e execução → aprovado (unânime)
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=5798s)
+- **RD 420 (2017-05-09)**, 21 · relator **Mário Povia** · Autorização em caráter especial de emergência para operar TUP por até 180 dias enquanto aguarda contrato de adesão → aprovado (unânime)
+  - votos: Mário: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=6223s)
+- **RD 420 (2017-05-09)**, 28 · relator **Mário Povia** · Redução de área do TUP (cerca de 446 mil m², menos de 3%) para transferir ativos à VLI → aprovado (unânime)
+  - votos: Mário: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=7282s)
+- **RD 420 (2017-05-09)**, 31 · relator **Adalberto Tokarski** · Referendo da Resolução 5340: autorização especial de emergência por 180 dias para granéis sólidos → referendado (unânime)
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=8438s)
+- **RD 421 (2017-05-11)**, 2 · relator **Fernando Fonseca** · PAS: operação de terminal sem autorização (região de Fortaleza) → sobrestado (votos divergentes)
+  - votos: Fernando: relator; Mário: outro; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=667s)
+- **RD 421 (2017-05-11)**, 3 · relator **Fernando Fonseca** · PAS: não adaptação do contrato de adesão MT/DPH 99/93 no prazo da Lei 12.815 → sobrestado (votos divergentes)
+  - votos: Fernando: relator; Mário: outro; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=1181s)
+- **RD 421 (2017-05-11)**, 6 · relator **Fernando Fonseca** · Pedido de reconsideração: ampliação de área de TUP em cerca de 20,7 mil m2 → aprovado: provimento, ampliação reconhecida
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=2379s)
+- **RD 421 (2017-05-11)**, 13 · relator **Fernando Fonseca** · Reconhecimento de contrato de adesão para TUP em Belém-PA (anúncio 47/2013) → aprovado
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=5964s)
+- **RD 421 (2017-05-11)**, 15 · relator **Fernando Fonseca** · PAS: exploração de instalação portuária sem outorga → aprovado: multa de R$ 126 mil e possibilidade de TAC
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=6708s)
+- **RD 421 (2017-05-11)**, 16 · relator **Fernando Fonseca** · Autorização especial de emergência: substituição de flutuante no rio Negro (Manaus) → aprovado
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=7073s)
+- **RD 421 (2017-05-11)**, 18 · relator **Fernando Fonseca** · Contrato de adesão para TUP em Humaitá-AM → aprovado
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=7373s)
+- **RD 421 (2017-05-11)**, 23 · relator **Fernando Fonseca** · Referendo da Res. 5375: autorização especial de emergência para granéis sólidos em TUP de Manaus → aprovado (referendo), com ressalvas sobre o uso de autorizações emergenciais
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=8813s)
+- **RD 425 (2017-06-28)**, 1 · relator **Mário Povia** · Denúncia de aumento abusivo de preços no TUP (representação da Usuport ao CADE e denúncia anônima) → aprovado por unanimidade: arquivamento
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=45s)
+- **RD 425 (2017-06-28)**, 6 · relator **Adalberto Tokarski** · Autorização em caráter especial e de emergência (180 dias) para testes e comissionamento da fase 4 de ampliação do TIPLAM, Santos/SP → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=2764s)
+- **RD 422 (2017-08-23)**, 2 · relator **Adalberto Tokarski** · Processo administrativo sancionador (exploração de instalação portuária sem autorização; UR Rio de Janeiro) — arquivamento → aprovado conforme voto do relator (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=vc-lJ1haDoQ&t=361s)
+- **RD 427 (2017-08-24)**, 2 · relator **Mário Povia** · Adaptação do termo de autorização 607-ANTAQ (TUP em Santarém/PA) contemplando transferência de titularidade por incorporação → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: revisor_acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=239s)
+- **RD 423 (2017-08-24)**, 7 · relator **Adalberto Tokarski** · Pedido de reconsideração de multa de R$ 70.875 por explorar TUP sem autorização (Salvador) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=T7OiOUOmJDA&t=1973s)
+- **RD 424 (2017-08-24)**, 6 · relator **Adalberto Tokarski** · Processo administrativo sancionador: operação de terminal (Corumbá) sem autorização prévia → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jqmO9Gz2tHU&t=2359s)
+- **RD 427 (2017-08-24)**, 10 · relator **Adalberto Tokarski** · PAS: operações em ETC em Itaituba/PA antes do termo de liberação de operação; auto repetia fato já julgado (bis in idem) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=3035s)
+- **RD 424 (2017-08-24)**, 11 · relator **Adalberto Tokarski** · Autorização especial e de emergência (art. 49 Lei 10.233) para operar TUP em Niterói por 90 dias → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jqmO9Gz2tHU&t=3447s)
+- **RD 423 (2017-08-24)**, 16 · relator **Mário Povia** · Prorrogação de prazo para construção e operação de TUP → pedido de vista (diretor não identificado na legenda)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=T7OiOUOmJDA&t=4349s)
+- **RD 427 (2017-08-24)**, 12 · relator **Adalberto Tokarski** · PAS: suposta construção de instalação portuária (estaleiro) sem autorização em Corumbá/MS → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=4539s)
+- **RD 424 (2017-08-24)**, 32 · relator **Francisval Mendes** · Autorização de TUP em São Francisco do Sul/SC (granéis sólidos agrícolas) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jqmO9Gz2tHU&t=6247s)
+- **RD 427 (2017-08-24)**, 17 · relator **Adalberto Tokarski** · Adaptação do termo de autorização 362-ANTAQ (TUP de uso misto em Imbituba/SC) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=6827s)
+- **RD 427 (2017-08-24)**, 18 · relator **Adalberto Tokarski** · Ampliação de área e alteração de perfil de carga → não deliberado: pedido de vista de Francisval Mendes
+  - votos: Francisval: vista · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=7432s)
+- **RD 427 (2017-08-24)**, 29 · relator **Mário Povia** · Autorização em caráter especial de emergência → não deliberado: pedido de vista (diretor não identificado na legenda)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=8609s)
+- **RD 427 (2017-08-24)**, 30 · relator **Mário Povia** · Recurso contra multa de R$ 39.375 por ampliar TUP em Pontal do Paraná sem prévia autorização → recurso não provido por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=8632s)
+- **RD 427 (2017-08-24)**, 31 · relator **Mário Povia** · Recurso contra multa de R$ 87.500 por ampliar capacidade de TUP em Rio Grande/RS (armazéns e correias) sem aprovação → recurso não provido por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=8925s)
+- **RD 427 (2017-08-24)**, 40 · relator **Francisval Mendes** · Desistência de pleito de autorização para ETC e pedido de devolução de garantia de proposta (anúncio público 11/2016) → aprovado por unanimidade (parcial)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=11653s)
+- **RD 427 (2017-08-24)**, 41 · relator **Francisval Mendes** · Desistência de pleito de autorização para ETC (anúncio público 42/2013) e devolução de garantia de proposta → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=11895s)
+- **RD 428 (2017-09-13)**, 6 · relator **Adalberto Tokarski** · Registro de instalação de apoio (embarque de cargas e passageiros) em Santana/AP → aprovado por unanimidade conforme voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=1673s)
+- **RD 428 (2017-09-13)**, 7 · relator **Adalberto Tokarski** · Adaptação do contrato de adesão (TUP) à Lei 12.815/Decreto 8.033, com área reduzida à titularidade comprovada → aprovado por unanimidade conforme voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=1811s)
+- **RD 428 (2017-09-13)**, 10 · relator **Mário Povia** · Autorização de construção e exploração de TUP em Manaus (margem esquerda do rio Amazonas; carga geral e conteinerizada) → aprovado por unanimidade conforme voto do relator
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=2509s)
+- **RD 428 (2017-09-13)**, 11 · relator **Mário Povia** · Registro de instalação de apoio (cais do mercado de peixe de Macaé) → aprovado por unanimidade conforme voto do relator
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=2655s)
+- **RD 428 (2017-09-13)**, 12 · relator **Mário Povia** · Registro de instalação portuária (Porto Mauá, rio Madeira, Porto Velho/RO) em APA, com recomendação do MPF → aprovado por unanimidade conforme voto do relator (indeferimento por ora e consulta aos ór
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=2761s)
+- **RD 428 (2017-09-13)**, 13 · relator **Mário Povia** · Dispensa/devolução da garantia de execução do contrato de adesão de TUP → aprovado por unanimidade conforme voto do relator
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=3217s)
+- **RD 428 (2017-09-13)**, 14 · relator **Mário Povia** · Revogação de registro duplicado de instalação portuária → aprovado por unanimidade conforme voto do relator
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=3422s)
+- **RD 428 (2017-09-13)**, 31 · relator **Francisval Mendes** · PAS por descumprir cautelar de interdição de guindaste → aprovado por unanimidade conforme voto do relator
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=7073s)
+- **RD 428 (2017-09-13)**, 36 · relator **Mário Povia** · Referendo de autorização em caráter especial (art. 49 da Lei 10.233), 180 dias, para integração de módulos da FPSO P-76 em área ampliada do TUP (Paran → aprovado por unanimidade conforme voto do relator
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=9196s)
+- **RD 429 (2017-09-20)**, 8 · relator **Mário Povia** · Registro da instalação portuária fluvial de Cruzeiro do Sul/AC (julgado em conjunto com itens 8 a 10) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=1883s)
+- **RD 429 (2017-09-20)**, 9 · relator **Mário Povia** · Registro de instalação portuária no distrito industrial de Santana/AP (julgado em conjunto com itens 8 a 10) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=1883s)
+- **RD 429 (2017-09-20)**, 10 · relator **Mário Povia** · Registro de instalação portuária de apoio em Belém/PA (julgado em conjunto com itens 8 a 10) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=1883s)
+- **RD 429 (2017-09-20)**, 11 · relator **Mário Povia** · Prorrogação de prazo para construção e início de operação de TUP (contrato de adesão 23/2014) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=2016s)
+- **RD 429 (2017-09-20)**, 18 · relator **Mário Povia** · Processo sancionador: impedir acesso dos fiscais e explorar ETC sem autorização → aprovado por unanimidade: multas de R$ 27.500 e R$ 300.000 e interdição após trânsito em j
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=4182s)
+- **RD 429 (2017-09-20)**, 21 · relator **Mário Povia** · Processo sancionador: não adaptação do contrato de adesão à Lei 12.815 (após TAC frustrado) → aprovado por unanimidade: multa de R$ 122.500 e 60 dias para documentos, sob pena de cassa
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=5255s)
+- **RD 429 (2017-09-20)**, 24 · relator **Mário Povia** · Processo sancionador: exploração de ETC sem autorização → aprovado por unanimidade: auto insubsistente por bis in idem; arquivamento
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=6111s)
+- **RD 429 (2017-09-20)**, 28 · relator **Francisval Mendes** · Processo sancionador: operar ETC antes do termo de liberação de operação → aprovado por unanimidade: multa de R$ 52.500
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=8540s)
+- **RD 430 (2017-10-06)**, 33 · relator **Francisval Mendes** · Referendo da Resolução 5651: autorização especial por 30 dias para movimentar granéis líquidos em área ampliada de TUP → referendado por unanimidade
+  - votos: Adalberto: acompanha; Mário: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=7956s)
+- **RD 430 (2017-10-06)**, 34 · relator **Francisval Mendes** · Referendo da Resolução 5652: alteração de controle societário indireto da Portonave → referendado por unanimidade
+  - votos: Adalberto: acompanha; Mário: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=8363s)
+- **RD 432 (2017-11-17)**, 8 · relator **Adalberto Tokarski** · Dispensa de TAC para regularização da base de distribuição de Cruzeiro do Sul-AC (desativação de uma instalação, operação da outra) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=1778s)
+- **RD 432 (2017-11-17)**, 9 · relator **Adalberto Tokarski** · Cisão contratual e transferência de titularidade do contrato de adesão 8/2015 (TUP no Porto do Açu) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=2024s)
+- **RD 432 (2017-11-17)**, 16 · relator **Mário Povia** · Autorização em caráter especial e de emergência (art. 49 da Lei 10.233) para movimentar farelo de soja na ETC de Itaituba-PA, ainda sem outorga → pedido de vista de Adalberto Tokarski; julgamento suspenso
+  - votos: Mário: relator; Adalberto: vista; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=3608s)
+- **RD 432 (2017-11-17)**, 19 · relator **Mário Povia** · Pedido de reconsideração contra acórdão 61/2017 (multa de R$ 39.375 por ampliar TUP em Pontal do Paraná sem autorização) → aprovado por unanimidade: conhecido e não provido
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=4846s)
+- **RD 432 (2017-11-17)**, 21 · relator **Mário Povia** · Transferência de titularidade do contrato de adesão 85/2015 (TUP em Barcarena-PA) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=5298s)
+- **RD 432 (2017-11-17)**, 22 · relator **Mário Povia** · Transferência de titularidade do contrato de adesão 13/2014 (instalação em Itaituba-PA) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=5459s)
+- **RD 432 (2017-11-17)**, 25 · relator **Mário Povia** · Revisão da Resolução Normativa 3.290 (outorgas de instalações portuárias) → pedido de vista de Adalberto Tokarski; relator não proferiu voto
+  - votos: Adalberto: vista; Mário: outro; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=6844s)
+- **RD 432 (2017-11-17)**, 50 · relator **Adalberto Tokarski** · Extrapauta: autorização especial de emergência (180 dias) para movimentar granel sólido no TUP Chibatão, Manaus, enquanto pende a ampliação → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=11864s)
+- **RD 433 (2017-11-28)**, 1 · relator **Mário Povia** · Revisão da norma da Resolução 3290 (autorização de instalações portuárias privadas/TUP) para adequação ao Decreto 9.048/2017; minuta para audiência pú → aprovado (unânime) conforme voto do relator
+  - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=cu2VemB9hb8&t=57s)
+- **RD 433 (2017-11-28)**, 3 · relator **Adalberto Tokarski** · Complementação de instrução pedida pelo MTPA no anúncio público 19/2014: titularidade da área e exigência de garantia de execução → aprovado (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=cu2VemB9hb8&t=1750s)
+- **RD 433 (2017-11-28)**, 4 · relator **Adalberto Tokarski** · Pedido de indeferimento do anúncio público 3/2017 (TUP em São Gonçalo) por alegada concorrência desleal com o porto público de Niterói → aprovado (unânime): pedido rejeitado e processo arquivado
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=cu2VemB9hb8&t=2266s)
+- **RD 433 (2017-11-28)**, 6 · relator **Mário Povia** · Ampliação de área do TUP (cais flutuante e seis tanques; investimento de mais de R$ 101 milhões) → aprovado (unânime)
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=cu2VemB9hb8&t=3044s)
+- **RD 433 (2017-11-28)**, 7 · relator **Mário Povia** · Retificação de contrato de adesão (CNPJ, razão social) de ETC → aprovado (unânime): arquivamento e apensação
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=cu2VemB9hb8&t=3445s)
+- **RD 433 (2017-11-28)**, 16 · relator **Mário Povia** · Extrapauta: habilitação ao REIDI de ampliação do TUP (novo berço e dois armazéns; cerca de R$ 225 milhões) → aprovado (unânime)
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=cu2VemB9hb8&t=7209s)
+- **RD 434 (2017-12-08)**, 6 · relator **Adalberto Tokarski** · Aumento da capacidade de armazenagem de granéis líquidos sem ampliação de área em TUP → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=BDKgrHYQkO4&t=1324s)
+- **RD 435 (2017-12-21)**, 4 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário em Icoaraci, Belém (PA) → aprovado conforme voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=8pnMiGBR888&t=1133s)
+- **RD 435 (2017-12-21)**, 8 · relator **Mário Povia** · Habilitação do projeto de TUP ao REIDI (contrato de adesão 08/2017-MTPA) → aprovado conforme voto do relator
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=8pnMiGBR888&t=2405s)
+- **RD 436 (2018-01-25)**, 11 · relator **Mário Povia** · Registro de instalação portuária (TUP Rei com Belém) dentro da poligonal do porto organizado de Belém → aprovado
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=583s)
+- **RD 436 (2018-01-25)**, 22 · relator **Francisval Mendes** · Alteração societária (incorporação reversa da TUF Empreendimentos) da titular do TUP em Santos → aprovado
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=4864s)
+- **RD 436 (2018-01-25)**, 26 · relator **Francisval Mendes** · Autorização especial e de emergência para embarque de spools pelo Estaleiro Ilha (Caju, RJ) — projeto Rota 1 → aprovado (indefere)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=7200s)
+- **RD 436 (2018-01-25)**, 28 · relator **Francisval Mendes** · Autorização para construção e exploração de TUP de carga geral em São Francisco do Sul (SC) → aprovado
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=7667s)
+- **RD 436 (2018-01-25)**, 29 · relator **Francisval Mendes** · Autorização para construção e exploração de TUP de granéis líquidos em Miritituba (Itaituba/PA) → aprovado
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=8132s)
+- **RD 436 (2018-01-25)**, 33 · relator **Mário Povia** · Referendo da Res. 5873 (autorização especial por 70 dias para testes e comissionamento da fase 4 de ampliação do TUP Tiplam, Santos) → aprovado (referendado)
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=11204s)
+- **RD 437 (2018-02-15)**, 6 · relator **Adalberto Tokarski** · Autorização de estação de transbordo de carga (ETC) de granéis líquidos em Porto Velho (RO); reconhece possibilidade de contrato de adesão com o MTPA → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0zgpRZrJ6hw&t=2314s)
+- **RD 438 (2018-02-23)**, 6 · relator **Mário Povia** · Consulta sobre descontinuidade sazonal (>180 dias) da operação de terminais de GNL (TUPs) na Baía de Todos os Santos (BA) e na Baía de Guanabara (RJ) → aprovado (unânime)
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=uzhRnDP20Bw&t=455s)
+- **RD 438 (2018-02-23)**, 18 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário em Salvador (BA) → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uzhRnDP20Bw&t=4017s)
+- **RD 439 (2018-03-14)**, 1 · relator **Mário Povia** · Autorização para construção e exploração de TUP em Maricá (RJ), carga geral, contêineres e granéis (anúncio público 21/2016) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=34s)
+- **RD 439 (2018-03-14)**, 29 · relator **Francisval Mendes** · Ratificação de viabilidade locacional da ampliação de TUP em Itajaí (SC) (Decreto 9.048/2017) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=6992s)
+- **RD 439 (2018-03-14)**, 30 · relator **Francisval Mendes** · Autorização especial e de emergência (art. 49 da Lei 10.233) para operações com casco da FPSO P-76 em área de ampliação de TUP em Pontal do Paraná (PR → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=7313s)
+- **RD 440 (2018-04-09)**, 6 · relator **Mário Povia** · Adaptação do contrato de adesão MTPA 95/2001 (TUP) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=EkNILU6-1gU&t=747s)
+- **RD 440 (2018-04-09)**, 7 · relator **Mário Povia** · Adaptação do contrato de adesão 05/2012 (TUP) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=EkNILU6-1gU&t=875s)
+- **RD 442 (2018-05-07)**, 4 · relator **Mário Povia** · Registro de instalação portuária de apoio ao transporte aquaviário (RN 13/2016, art. 2º, V) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=156s)
+- **RD 442 (2018-05-07)**, 5 · relator **Mário Povia** · Registro de instalação portuária dentro da poligonal do porto organizado de Belém → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=235s)
+- **RD 442 (2018-05-07)**, 6 · relator **Mário Povia** · Autorização de TUP em Itacoatiara/AM (rio Amazonas): reconhecimento da possibilidade de contrato de adesão → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=363s)
+- **RD 442 (2018-05-07)**, 14 · relator **Mário Povia** · Recurso contra multa de R$ 50 mil por ampliar capacidade do TUP sem autorização → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=1549s)
+- **RD 442 (2018-05-07)**, 32 · relator **Francisval Mendes** · Ampliação de área de TUP no Tocantins (grafia incerta) → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=4782s)
+- **RD 442 (2018-05-07)**, 36 · relator **Francisval Mendes** · Autorização para construção e exploração de ETC → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=5565s)
+- **RD 25 (extraordinária) (2018-05-11)**, 1 · relator **Mário Povia** · Revisão da Resolução 3.290/2014: autorização para construção, exploração e ampliação de instalações portuárias privadas (TUP, ETC, IP4), adequação ao  → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PmJmgy9Diw8&t=296s)
+- **RD 25 (extraordinária) (2018-05-11)**, 4 · relator **Mário Povia** · Denúncia de irregularidade no contrato de adesão 2/2015 (enquadramento como IP4 de apoio) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PmJmgy9Diw8&t=2573s)
+- **RD 25 (extraordinária) (2018-05-11)**, 8 · relator **Francisval Mendes** · Processo administrativo sancionador: não adaptação do termo de autorização 362/2007 (art. 58 da Lei 12.815) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=PmJmgy9Diw8&t=3850s)
+- **RD 443 (2018-05-21)**, 3 · relator **Mário Povia** · Autorização de TUP de granéis líquidos em Almeirim (PA) (anúncio público 12/2016) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=ONQS9tY_zWg&t=192s)
+- **RD 443 (2018-05-21)**, 14 · relator **Francisval Mendes** · Autorização de ETC de granéis sólidos em Canoas (RS) (anúncio público 27/2015) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ONQS9tY_zWg&t=4160s)
+- **RD 443 (2018-05-21)**, 26 (extrapauta) · relator **Francisval Mendes** · Autorização de TUP em Paranaguá (≈1,99 milhão m², granéis, carga geral e contêineres; anúncio público 9/2017) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ONQS9tY_zWg&t=5348s)
+- **RD 444 (2018-06-07)**, 5 · relator **Mário Povia** · Ampliação de terminal de uso privado → não apreciado: decisão do TRF1 (desembargador Jirair Aram Meguerian) suspendeu a inclusão 
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=1pfiJgrovVc&t=757s)
+- **RD 444 (2018-06-07)**, 9 · relator **Francisval Mendes** · Registro de instalação de apoio (retroárea; grafia incerta) → pedido de vista de Adalberto Tokarski antes da leitura do voto
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=1pfiJgrovVc&t=2027s)
+- **RD 444 (2018-06-07)**, 11 · relator **Francisval Mendes** · Retificação de erro material no contrato de adesão 09/2015 (carga geral em vez de granel líquido) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=1pfiJgrovVc&t=2352s)
+- **RD 445 (2018-06-20)**, 5 · relator **Mário Povia** · Prorrogação de prazo para construção e início de operação do TUP Porto Sul (Ilhéus/BA) - aditamento ao contrato de adesão 3/2014-SEP → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=317s)
+- **RD 445 (2018-06-20)**, 6 · relator **Mário Povia** · Ratificação da análise de viabilidade locacional da ampliação de TUP em Manaus/AM, a pedido da SNP/MTPA → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=640s)
+- **RD 445 (2018-06-20)**, 13 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 360 mil por explorar ETC em Caracaraí/RR sem autorização → pedido não provido por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=2348s)
+- **RD 445 (2018-06-20)**, 14 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 122.500 por não adaptar contrato de adesão 005/2011 no prazo → pedido não provido por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=2641s)
+- **RD 447 (2018-08-09)**, 12 · relator **Mário Povia** · Pedido de reconsideração da Res. 6054 (indeferimento de autorização especial para operar os berços 7 e 8 do TUP Pecém) → provido em parte, unânime: autorização especial por 60 dias (relator propôs 30; ajustado a
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=3636s)
+- **RD 447 (2018-08-09)**, 14 · relator **Mário Povia** · Transferência de controle societário (CA Investment passa a controlar; saída da J&F) — arrendamento DP-DC 01/2005 (Santos, armazéns 13 a 18) e TUP em  → aprovado, unânime
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=4672s)
+- **RD 447 (2018-08-09)**, 22 · relator **Francisval Mendes** · Pedido de reconsideração do Acórdão 52/2017 (movimentar carga fora do perfil autorizado) → não conhecido; recebido como direito de petição e negado, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=7810s)
+- **RD 447 (2018-08-09)**, 25 · relator **Francisval Mendes** · Autorização especial (art. 49) para descarga pontual de barrilha densa (navio-teste em 5/10/2018) no TUP enquanto tramita alteração do perfil de carga → aprovado, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=8371s)
+- **RD 447 (2018-08-09)**, 26 · relator **Francisval Mendes** · Autorização especial para TUP de sal: perda de objeto pela expedição do TLO 16/2018 → extinto por perda de objeto, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=8719s)
+- **RD 447 (2018-08-09)**, 27 · relator **Francisval Mendes** · Autorização para construir/explorar TUP em Guarujá/SP (anúncio público 2/2017) → indeferido, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=8893s)
+- **RD 447 (2018-08-09)**, 28 · relator **Francisval Mendes** · Ampliação de área do TUP Pecém (contrato de adesão 113/2016) em ~168 mil m² → aprovado, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=9133s)
+- **RD 447 (2018-08-09)**, 32 · relator **Francisval Mendes** · Transformação societária (Ltda. para EIRELI) do titular do contrato de adesão 10/2014 (TUP) → aprovado, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=10159s)
+- **RD 448 (2018-08-31)**, 2 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (instalações flutuantes); extinção por desistência e apuração de operação sem autorização → aprovado nos termos do voto condutor e do voto-vista (unânime)
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=78s)
+- **RD 448 (2018-08-31)**, 14 · relator **Francisval Mendes** · Pedido de reconsideração de multa de R$ 87.500 por não adaptar termo de autorização do TUP → aprovado (unânime): reconsideração negada
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=3472s)
+- **RD 448 (2018-08-31)**, 20 · relator **Francisval Mendes** · Alteração de perfil de carga do TUP (inclusão de granel sólido) no contrato de adesão 97/2015 → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=4347s)
+- **RD 448 (2018-08-31)**, 22 · relator **Francisval Mendes** · Habilitação ao REIDI de projeto de TUP em São Luís/MA → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=4919s)
+- **RD 448 (2018-08-31)**, 28 · relator **Adalberto Tokarski** · Registro de instalação portuária de apoio ao transporte aquaviário (julgado em bloco com item 29) → aprovado (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=6021s)
+- **RD 448 (2018-08-31)**, 33 · relator **Adalberto Tokarski** · Transferência de controle societário de titular de contrato de adesão de TUP → aprovado (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=6920s)
+- **RD 448 (2018-08-31)**, 34 · relator **Adalberto Tokarski** · Prorrogação de prazo de construção e início de operação de TUP (novo cronograma físico-financeiro) → aprovado (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=7062s)
+- **RD 448 (2018-08-31)**, 35 · relator **Adalberto Tokarski** · Referendo da Resolução 6262: retificação da Resolução 4273 (REIDI de dragagem), tratada como co-habilitação → referendado (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=7244s)
+- **RD 449 (2018-09-25)**, 16 · relator **Mário Povia** · Aumento de capacidade de TUP (novo tanque de poliol, Candeias-BA) sem ampliação de área → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=1513s)
+- **RD 449 (2018-09-25)**, 17 · relator **Mário Povia** · Retificação do contrato de adesão 110/2016 (TUP em Manaus): perfil carga geral e rampa de balsas → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=2046s)
+- **RD 449 (2018-09-25)**, 30 · relator **Mário Povia** · Denúncia: TUPs operando cargas por DTC (trânsito aduaneiro terrestre) como recintos alfandegados → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=6596s)
+- **RD 449 (2018-09-25)**, 34 · relator **Francisval Mendes** · Recurso voluntário: multa de R$ 71.875 por atraso no cronograma de implantação de TUP (Presidente Kennedy-ES) → aprovado por unanimidade (nega provimento)
+  - votos: Mário: acompanha; Adalberto: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=8611s)
+- **RD 449 (2018-09-25)**, 48 · relator **Francisval Mendes** · Autorização para construir TUP (vista de Tokarski) → não deliberado (vista)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=11123s)
+- **RD 449 (2018-09-25)**, 49 · relator **Francisval Mendes** · Autorização para explorar TUP → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=11140s)
+- **RD 450 (2018-10-10)**, 2 · relator **Adalberto Tokarski** · Autorização em caráter especial e de emergência (art. 49 Lei 10.233) para movimentação de granel líquido enquanto tramita outorga de TUP → aprovado por maioria (vencido o Diretor-Geral Mário Povia)
+  - votos: Adalberto: relator; Francisval: revisor_acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=487s)
+- **RD 450 (2018-10-10)**, 31 · relator **Francisval Mendes** · Recurso contra multa de R$ 87.500 por atraso superior a 20% no cronograma de obras de TUP (contrato de adesão 9/2015) → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=14185s)
+- **RD 450 (2018-10-10)**, 37 · relator **Francisval Mendes** · Autorização de TUP em Candeias (BA) para granel líquido e gasoso → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=15435s)
+- **RD 451 (2018-10-31)**, 13 · relator **Mário Povia** · Prorrogação de prazo para início de operação do TUP Presidente Kennedy/ES (contrato de adesão 93/2015) por atraso no licenciamento Ibama → aprovado, unânime
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=2218s)
+- **RD 451 (2018-10-31)**, 14 · relator **Mário Povia** · Dispensa/devolução da garantia de execução do TUP (contrato de adesão 31/2014) → aprovado, unânime
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=2370s)
+- **RD 451 (2018-10-31)**, 15 · relator **Mário Povia** · Aditamento do contrato de adesão 2/2014 para suprimir «minério de ferro» e manter perfil genérico de granéis sólidos → aprovado, unânime
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=2644s)
+- **RD 451 (2018-10-31)**, 21 · relator **Mário Povia** · Alteração da denominação social do interveniente do contrato de adesão 113/2016 (TUP Pecém) → aprovado, unânime
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=3902s)
+- **RD 451 (2018-10-31)**, 37 · relator **Francisval Mendes** · Ampliação de área do TUP parcialmente dentro da poligonal do Porto de Manaus (contrato de adesão 18/2014) → aprovado por maioria; vencido Mário Povia
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=6853s)
+- **RD 452 (2018-11-14)**, 3 · relator **Mário Povia** · Registro de instalação portuária (vista de Tokarski) → aprovado por unanimidade, com complementação
+  - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=313s)
+- **RD 452 (2018-11-14)**, 22 · relator **Francisval Mendes** · Autorização de TUP em São João da Barra/RJ (GNL, FSRU) → aprovado por unanimidade, com ressalva
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=4069s)
+- **RD 452 (2018-11-14)**, 23 · relator **Francisval Mendes** · Desistência de anúncio público 05/2013 (TUP em Aracruz) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=4703s)
+- **RD 452 (2018-11-14)**, 24 · relator **None** · Desistência de anúncio público → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=4916s)
 - **RD 454 (2018-12-20)**, 12 · relator **Mário Povia** · Ampliação do TUP Super Terminais em Manaus (+11.591,36 m² e módulo de 60 m no cais flutuante; contrato de adesão 51) → pedido de vista (Tokarski) após voto do relator
   - votos: Mário: relator; Adalberto: vista; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=2191s)
 - **RD 454 (2018-12-20)**, 20 · relator **Francisval Mendes** · Pedido de afastamento da interdição cautelar de operações com GLP no TUP em Santarém (PA) (licença de operação só para cargas não perigosas) → aprovado por maioria (2 x 1), vencido Adalberto Tokarski

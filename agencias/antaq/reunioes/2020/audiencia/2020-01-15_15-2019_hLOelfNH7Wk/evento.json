@@ -1,0 +1,100 @@
+{
+ "meta": {
+  "video_id": "hLOelfNH7Wk",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "audiencia",
+  "numero": "15/2019",
+  "titulo": "Audiência Pública nº 15/2019",
+  "data": "2020-01-15",
+  "local": "presencial (Brasília/DF, sede da ANTAQ; inferido)",
+  "objeto": "Alteração da Resolução 5 (critérios para autorização de empresas brasileiras de navegação: apoio marítimo, portuário, cabotagem e longo curso)",
+  "processo": null,
+  "tema": [
+   "navegação marítima",
+   "cabotagem",
+   "autorização / outorga",
+   "simplificação regulatória",
+   "participação social"
+  ],
+  "presidiu": "Bruno Pinheiro (superintendente de regulação)",
+  "diretores_presentes": [
+   "Adalberto Tokarski"
+  ],
+  "participantes_externos": [
+   "Wilson Sons",
+   "Sindmar / federação e confederação dos marítimos"
+  ],
+  "resumo": "Audiência sobre a revisão da norma de outorga de autorização a empresas brasileiras de navegação, voltada à simplificação (Lei de Liberdade Econômica). Wilson Sons perguntou sobre patrimônio líquido negativo; o diretor explicou a flexibilização proposta na minuta. O diretor comentou também o arrendamento simplificado. Representante dos marítimos elogiou a iniciativa pela geração de empregos.",
+  "posicoes": [
+   {
+    "quem": "Wilson Sons",
+    "posicao": "Tratamento de patrimônio líquido negativo com comprovação alternativa (atestado de contador)",
+    "ts": "0:04:46"
+   },
+   {
+    "quem": "Sindmar e confederação dos marítimos",
+    "posicao": "Apoio à iniciativa pela geração de empregos de marítimos brasileiros",
+    "ts": "0:13:00"
+   }
+  ],
+  "encaminhamentos": [
+   "Consulta pública até 22/01/2020; contribuições pelo portal da ANTAQ"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Adalberto Tokarski",
+   "ts": "0:01:16",
+   "tema": [
+    "simplificação regulatória",
+    "autorização / outorga"
+   ],
+   "tipo": "abertura",
+   "resumo": "Abre dizendo que a revisão busca simplificar e desburocratizar exigências, alinhada à nova lei.",
+   "trecho": "tudo o que a gente conseguir simplificar no meu entendimento é é de bom tamanho",
+   "confianca": "media"
+  },
+  {
+   "diretor": "Adalberto Tokarski",
+   "ts": "0:08:40",
+   "tema": [
+    "autorização / outorga",
+    "navegação marítima"
+   ],
+   "tipo": "esclarecimento",
+   "resumo": "Explica que a minuta já permite justificar patrimônio líquido abaixo do mínimo (questões cambiais), flexibilizando a regra.",
+   "trecho": "é por isso que a área técnica trouxe já essa proposta entre aspas e simplifica é flexibilizando porque não podemos ser a ferro e fogo",
+   "confianca": "media"
+  },
+  {
+   "diretor": "Adalberto Tokarski",
+   "ts": "0:09:36",
+   "tema": [
+    "arrendamentos portuários",
+    "simplificação regulatória"
+   ],
+   "tipo": "outro",
+   "resumo": "Fora do objeto, defende o arrendamento simplificado (por metro quadrado, maior lance) e diz que está chegando à diretoria.",
+   "trecho": "a nossa burocracia atrapalha muito",
+   "confianca": "media"
+  },
+  {
+   "diretor": "Adalberto Tokarski",
+   "ts": "0:14:35",
+   "tema": [
+    "participação social"
+   ],
+   "tipo": "encerramento",
+   "resumo": "Despede-se por outra agenda e agradece em nome da diretoria; Bruno segue presidindo.",
+   "trecho": "eu agradeço a presença de todos aqui em nome da diretoria e doutor bruno continua presidindo",
+   "confianca": "media"
+  }
+ ],
+ "limites_da_analise": [
+  "Nome do diretor na legenda aparece como «alberto moncayo»/«roberto»; identificado como Adalberto Tokarski por contexto (diretor em jan/2020) - confiança média.",
+  "Análise cobre só as janelas do resumo."
+ ]
+}

@@ -1,15 +1,18 @@
 # Perfil analítico — Francisval Mendes · tema: sustentabilidade
 
-**Amostra:** presente em 29 das 29 reuniões analisadas em que há registro de presença/ausência; 11 votos neste tema; 4 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 58 das 58 reuniões analisadas em que há registro de presença/ausência; 14 votos neste tema; 5 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 5 (71% dos votos em que não era relator) · relator 4 · vista pedida 1 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
-**Como relator:** 4/4 relatorias aprovadas por unanimidade.
+**Votos:** acompanha o relator 7 (77% dos votos em que não era relator) · relator 5 · vista pedida 1 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
+**Como relator:** 5/5 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** navegacao_afretamento 420/164; arrendamento_porto_organizado 336/150; fiscalizacao_sancoes 225/94; tup_autorizacao 190/81; regulacao_normativa 144/77; recursos_recursais 121/63; tarifas_portuarias 78/33; outros 76/32; servicos_terminais 40/14; governanca_tcu 40/20; mediacao 18/4; sustentabilidade 11/4; concessao_porto_hidrovia 1/0
-**Argumentos recorrentes nas justificativas registradas:** interesse público (2)
+**Temas (nº de itens em que votou / relatorias):** navegacao_afretamento 704/278; arrendamento_porto_organizado 569/232; fiscalizacao_sancoes 449/168; tup_autorizacao 302/115; recursos_recursais 231/104; regulacao_normativa 196/95; outros 144/60; tarifas_portuarias 101/42; governanca_tcu 61/29; servicos_terminais 58/22; mediacao 27/7; sustentabilidade 14/5; concessao_porto_hidrovia 1/0
+**Argumentos recorrentes nas justificativas registradas:** interesse público (2); eficiência/celeridade (1); concorrência (1)
 
 ## Evidências (reunião · item · voto · justificativa)
 
+- **RD 428 (2017-09-13)**, item 12 — Registro de instalação portuária (Porto Mauá, rio Madeira, Porto Velho/RO) em APA, com recomendação do MPF · voto: *acompanha o relator* (acompanha, conf. alta) · «Acompanha, pedindo celeridade na análise; registro não exige licença ambiental prévia.» · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=3188s) · resultado: aprovado por unanimidade conforme voto do relator (indeferimento por o
+- **RD 442 (2018-05-07)**, item 19 — Agenda Ambiental e de Segurança Aquaviária 2018–2019 · voto: *acompanha o relator* (acompanha, conf. media) · «acompanha o relator» · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=2902s) · resultado: aprovado por unanimidade
+- **RD 442 (2018-05-07)**, item 39 — Consulta sobre operação ship to ship de combustíveis no porto de Santana/AP · voto: *relator, aprova* (relator, conf. alta) · «Arquiva: a operação de 2/5/2017 foi regular (IN 16 Ibama); Santana não tem infraestrutura para granéis líquidos; determina à SRG análise regulatória das operações ship to ship (ambientais, aduaneiros, concorrenciais, segurança).» · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=5841s) · resultado: aprovado por unanimidade
 - **RD 454 (2018-12-20)**, item 55 — Referendo da Resolução 6598 (11/12/2018): empreendimento apto à declaração de utilidade pública (TUP em Paranaguá), para licença de instalaç · voto: *relator, aprova* (relator, conf. alta) · «interesse público intrínseco à outorga; portos respondem por 95% do comércio exterior» · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=16860s) · resultado: referendado por unanimidade
 - **RD 458 (2019-04-04)**, item 12 — Consulta regulatória e denúncia sobre o Instrumento Normativo 15.004 da CDRJ (barreiras de contenção e cadastro de prestadores de combustíve · voto: *sem voto registrado (processo foi à vista)* (outro, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=3357s) · resultado: voto do relator proferido; processo foi à vista (provavelmente de Adal
 - **RD 461 (2019-05-20)**, item 39 — Consulta: se 'outras cargas' do contrato de arrendamento CDP/JUR 069/98 contempla granel sólido · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=sBMIBpqyTfI&t=7553s) · resultado: aprovado por unanimidade, com ressalva do Diretor-Geral

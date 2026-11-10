@@ -1,0 +1,582 @@
+{
+ "meta": {
+  "video_id": "uzhRnDP20Bw",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "438",
+  "data": "2018-02-23",
+  "formato": "presencial (sala da diretoria)",
+  "presidente_da_sessao": "Mário Povia (Diretor-Geral)",
+  "diretores_presentes": [
+   "Mário Povia",
+   "Francisval Mendes"
+  ],
+  "ausentes": [
+   "Adalberto Tokarski (não aparece na sessão; sem menção)"
+  ],
+  "observacoes": [
+   "Data do cabeçalho (2018-03-14) é a de upload e é incompatível com a fala: o DG anuncia a próxima reunião para 8 ou 9 de março e diz que «hoje é sexta-feira»; a 439ª RO foi em 9/3/2018. Data registrada é ESTIMADA (sexta-feira anterior, 23/02/2018) e não confirmada.",
+   "Sessão só com dois diretores (Povia e Francisval); todos os 18 itens aprovados conforme o relator, sem divergência entre os presentes.",
+   "Item 1 tinha vistas de Adalberto Tokarski e Francisval Mendes; o voto de Tokarski foi proferido em sessão anterior e não consta do vídeo.",
+   "Itens 12 a 14 julgados em bloco.",
+   "Em itens 16 e 18 o relator Francisval divergiu das áreas técnicas (revogação em vez de renúncia; indeferimento de registro)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:27",
+   "processo": "50311.001636/2017-27 (legenda)",
+   "interessado": "Centrais Elétricas de Sergipe S.A. (CELSE)",
+   "assunto": "Recurso administrativo contra decisão da Gerência de Afretamento da Navegação que negou certificado de liberação de carga prescrita (processo com vistas de Adalberto Tokarski e de Francisval Mendes)",
+   "tema": [
+    "navegação e afretamento",
+    "recursos administrativos"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado conforme o relator (recurso conhecido e não provido)",
+   "resumo_voto": "Conhecer do recurso e negar provimento, mantendo a decisão da gerência de afretamento.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova (voto proferido em reunião anterior)",
+     "ts": "0:00:27",
+     "justificativa": "Voto condutor já proferido antes; nesta sessão só proclama o resultado.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "voto-vista: acompanha o relator",
+     "ts": "0:00:55",
+     "justificativa": "Adota relatório e voto do relator: recurso preenche pressupostos de admissibilidade; no mérito nega provimento mantendo a decisão da gerência de afretamento.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:02:38",
+   "processo": "50300.010111/2017-99 (legenda incerta)",
+   "interessado": "Yara Aquacultura Ltda.",
+   "assunto": "Outorga de autorização com finalidade específica de pré-registro no REB de embarcação em construção em estaleiro brasileiro, sem direito a afretamento",
+   "tema": [
+    "navegação e afretamento",
+    "outorga de autorização EBN",
+    "REB"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado (unânime)",
+   "resumo_voto": "Expedição do termo de autorização (art. 4º §1º Decreto 2.256/97; Res. 1558).",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:02:38",
+     "justificativa": "GAN e PF-ANTAQ favoráveis, sem controvérsia jurídica.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "0:03:55",
+     "justificativa": "Acompanha o voto do relator sem acréscimos.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:04:02",
+   "processo": "50300.000239/2018-19",
+   "interessado": "Domingos Moreira Pinheiro (MEI)",
+   "assunto": "Outorga de autorização EBN para travessia de passageiros no rio Tocantins entre Filadélfia (TO) e Carolina (MA)",
+   "tema": [
+    "navegação e afretamento",
+    "navegação interior / travessia"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado (unânime)",
+   "resumo_voto": "Expedição do termo de autorização por prazo indeterminado.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:04:02",
+     "justificativa": "Pareceres técnico e jurídico favoráveis.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "0:05:10",
+     "justificativa": "Acompanha o voto do relator sem acréscimos.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:05:15",
+   "processo": "50300.000216/2018-61 (legenda)",
+   "interessado": "José Félix Alencar da Silva (MEI)",
+   "assunto": "Outorga de autorização EBN para travessia de passageiros no rio Tocantins entre Filadélfia (TO) e Carolina (MA)",
+   "tema": [
+    "navegação e afretamento",
+    "navegação interior / travessia"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado (unânime)",
+   "resumo_voto": "Expedição do termo de autorização.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:05:15",
+     "justificativa": "Pareceres técnico e jurídico favoráveis.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "0:06:15",
+     "justificativa": "Acompanha o voto do relator sem acréscimos.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:06:21",
+   "processo": "50300.009442/2018-16 (legenda incerta)",
+   "interessado": "SB Navegação Ltda. ME",
+   "assunto": "Outorga de autorização EBN para transporte de carga geral, granéis líquidos, biocombustíveis e derivados na navegação interior longitudinal na região hidrográfica amazônica",
+   "tema": [
+    "navegação e afretamento",
+    "navegação interior"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado (unânime)",
+   "resumo_voto": "Expedição do termo de autorização.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:06:21",
+     "justificativa": "Pareceres técnico e jurídico favoráveis.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "0:07:30",
+     "justificativa": "Acompanha o voto do relator sem acréscimos.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:07:35",
+   "processo": "50300.003572/2017-91",
+   "interessado": "Petróleo Brasileiro S.A. (Petrobras)",
+   "assunto": "Consulta sobre descontinuidade sazonal (>180 dias) da operação de terminais de GNL (TUPs) na Baía de Todos os Santos (BA) e na Baía de Guanabara (RJ)",
+   "tema": [
+    "autorização de TUP",
+    "fiscalização e sanções",
+    "consulta"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado (unânime)",
+   "resumo_voto": "Ratificar a regularidade da descontinuidade sazonal dos terminais, sem necessidade de aditamento ou apostilamento dos contratos de adesão; SGE avaliar súmula; cientificar a Petrobras.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:07:35",
+     "justificativa": "Precedente (Nuclep): terminais com demanda sazonal que se mantêm em condições de atender não praticam a infração do inciso 36 do art. 32 da Res. 3274 (interrupção injustificada); comunicação à consulente basta para segurança jurídica.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "0:18:40",
+     "justificativa": "Acompanha o voto do relator sem acréscimos.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "0:18:47",
+   "processo": "50300.009877/2016-25",
+   "interessado": "Klabin S.A. e escritório de advocacia (legenda: «Porto e Tojal»)",
+   "assunto": "Pedido de reconsideração contra análise das contribuições da audiência pública 1/2017 da licitação da área PAR01 (papel e celulose) no porto organizado de Paranaguá",
+   "tema": [
+    "arrendamento em porto organizado",
+    "regulação normativa (audiência pública)",
+    "recursos administrativos"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado (unânime)",
+   "resumo_voto": "Conhecer do pedido como direito de petição e indeferi-lo no mérito, mantendo a Res. 5461; encaminhar à PF-ANTAQ para continuidade da análise do certame.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:18:47",
+     "justificativa": "Contribuições foram analisadas (algumas acolhidas); não há fatos novos; não há previsão de recurso contra análise de contribuições, por isso recebido como direito de petição.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "0:25:45",
+     "justificativa": "Acompanha o voto do relator sem acréscimos.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "0:25:53",
+   "processo": "50300.008107/2017-19 (legenda incerta)",
+   "interessado": "Petrobras Distribuidora S.A.",
+   "assunto": "Autorização especial e de emergência (art. 49 Lei 10.233) para substituição do flutuante Bermar 2 pelo Bermar 3 na ETC no rio Negro, Manaus (AM), por até 180 dias",
+   "tema": [
+    "autorização especial e de emergência",
+    "ETC"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado (unânime)",
+   "resumo_voto": "Autorizar por 180 dias improrrogáveis; SFC acompanha.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "0:25:53",
+     "justificativa": "Processo de outorga em fase final; autorização é para obras de segurança, não para operar carga; precedente idêntico.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:30:20",
+     "justificativa": "Acompanha o voto do relator sem acréscimos.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "0:30:28",
+   "processo": "50300.000727/2018-18",
+   "interessado": "Prefeitura Municipal de Florianópolis",
+   "assunto": "Autorização especial e de emergência para movimentação de passageiros de cruzeiro (escala-teste do navio MSC) no trapiche da praia de Canasvieiras, por 31 dias",
+   "tema": [
+    "autorização especial e de emergência",
+    "turismo / cruzeiros",
+    "IP4"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado (unânime)",
+   "resumo_voto": "Autorizar o município por 31 dias improrrogáveis (art. 49 Lei 10.233), apesar de a PF-ANTAQ entender não caracterizada a emergência.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "0:31:30",
+     "justificativa": "Interesse público no turismo de cruzeiros (dados OMT, Ministério do Turismo, Florianópolis segundo destino do verão); pedido de IPTur já em curso.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:40:16",
+     "justificativa": "Acompanha, ressaltando que o art. 49 permite autorização em caráter especial (não só emergencial): operação-teste pioneira justifica a especialidade, ainda que a PF aponte ausência de emergência.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "0:41:39",
+   "processo": "50300.012145/2016-12",
+   "interessado": "Terra Vix Serviços Ltda.",
+   "assunto": "Processo administrativo sancionador (auto de infração da UREVT) e cassação de certificado de operador portuário",
+   "tema": [
+    "fiscalização e sanções",
+    "operador portuário"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado (unânime)",
+   "resumo_voto": "Validar o despacho de julgamento: advertência por descumprimento do art. 35 V da Res. 3274; cassação do certificado não aplicada por falta de notificação (tema tratado pela Codesa em outro processo).",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "0:41:39",
+     "justificativa": "Auto não mencionou possibilidade de cassação; respeito ao contraditório.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:45:40",
+     "justificativa": "Acompanha o voto do relator sem acréscimos.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "0:45:46",
+   "processo": "50311.000003/2016-38 (legenda incerta)",
+   "interessado": "Companhia Docas do Pará (CDP)",
+   "assunto": "Pedido de reconsideração contra multa de R$ 482.307,48 (Res. 5541, 426ª RO)",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "autoridade portuária"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado (unânime)",
+   "resumo_voto": "Conhecer e negar provimento; corrigir erro material no nome da interessada na Res. 5541; cobrança da multa.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "0:45:46",
+     "justificativa": "Sem fatos novos capazes de modificar a decisão sancionadora.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:51:50",
+     "justificativa": "Acompanha o voto do relator sem acréscimos.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "0:51:56",
+   "processo": "50300.012096/2017-07",
+   "interessado": "Renan Araújo e Silva",
+   "assunto": "Outorga de autorização EBN para travessia de passageiros no rio Parnaíba entre Ilha Grande (PI) e Araioses (MA) (julgamento em bloco dos itens 12 a 14)",
+   "tema": [
+    "navegação e afretamento",
+    "navegação interior / travessia"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado (unânime)",
+   "resumo_voto": "Expedição do termo de autorização.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "0:51:56",
+     "justificativa": "Processos regulares, pareceres técnico e jurídico favoráveis.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:52:30",
+     "justificativa": "Acompanha o voto do relator sem acréscimos.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "0:51:56",
+   "processo": "50300.000205/2018-16 (legenda)",
+   "interessado": "Frank Marco Pereira Lopes",
+   "assunto": "Outorga de autorização EBN para travessia de passageiros no rio Tocantins entre Filadélfia (TO) e Carolina (MA) (julgamento em bloco dos itens 12 a 14)",
+   "tema": [
+    "navegação e afretamento",
+    "navegação interior / travessia"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado (unânime)",
+   "resumo_voto": "Expedição do termo de autorização.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "0:51:56",
+     "justificativa": "Processos regulares, pareceres técnico e jurídico favoráveis.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:52:30",
+     "justificativa": "Acompanha o voto do relator sem acréscimos.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "0:51:56",
+   "processo": "50300.000204/2018-71 (legenda)",
+   "interessado": "Stênio Gomes da Silva",
+   "assunto": "Outorga de autorização EBN para travessia de passageiros no rio Tocantins entre Filadélfia (TO) e Carolina (MA) (julgamento em bloco dos itens 12 a 14)",
+   "tema": [
+    "navegação e afretamento",
+    "navegação interior / travessia"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado (unânime)",
+   "resumo_voto": "Expedição do termo de autorização.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "0:51:56",
+     "justificativa": "Processos regulares, pareceres técnico e jurídico favoráveis.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:52:30",
+     "justificativa": "Acompanha o voto do relator sem acréscimos.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "0:52:41",
+   "processo": "50300.011419/2017-37",
+   "interessado": "Ruan Pablo Grande Montalvo (empresário individual)",
+   "assunto": "Renúncia parcial de outorga EBN: exclusão do apoio marítimo, mantendo apoio portuário",
+   "tema": [
+    "navegação e afretamento",
+    "apoio portuário/marítimo"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado (unânime)",
+   "resumo_voto": "Acolher a renúncia ao apoio marítimo e expedir aditivo ao termo de autorização 967 (apoio portuário).",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "0:52:41",
+     "justificativa": "Aspectos legais e normativos observados.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:55:50",
+     "justificativa": "Acompanha o voto do relator sem acréscimos.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "0:55:55",
+   "processo": "50300.004443/2017-10",
+   "interessado": "Porto de Areia Cristo Rei Ltda.",
+   "assunto": "Pedido de renúncia de outorga para pré-registro no REB; relator aplica revogação",
+   "tema": [
+    "navegação e afretamento",
+    "REB",
+    "outorga de autorização EBN"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado (unânime)",
+   "resumo_voto": "Revogar (não mera renúncia) a outorga do termo 1130, sem prejuízo de sanções; SOG e SFC providências.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "0:55:55",
+     "justificativa": "Diverge das áreas técnica e jurídica: sem registro no Tribunal Marítimo e sem financiamento do FMM em 24 meses, aplica-se a revogação do art. 25 III da Res. 1558.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:02:09",
+     "justificativa": "Acompanha o voto do relator sem acréscimos.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "1:02:20",
+   "processo": "50300.000027/2017-78 (legenda incerta)",
+   "interessado": "Empresa de Transporte Marítimo Lua Cheia Ltda. ME",
+   "assunto": "Anulação de outorga (portaria de 2000) para travessias no litoral norte do Paraná (Ilha do Mel, Paranaguá, Guaraqueçaba, Antonina)",
+   "tema": [
+    "navegação e afretamento",
+    "navegação interior / travessia"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado (unânime)",
+   "resumo_voto": "Declarar a nulidade da outorga por vício de competência (travessias são de competência do Estado do Paraná); encaminhar ao MTPA e à Agepar.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "1:02:20",
+     "justificativa": "Áreas técnica e jurídica de acordo; contraditório oportunizado.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:06:50",
+     "justificativa": "Acompanha o voto do relator sem acréscimos.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "1:06:57",
+   "processo": "50300.008493/2017-76",
+   "interessado": "MFX do Brasil Equipamentos de Petróleo Ltda.",
+   "assunto": "Registro de instalação de apoio ao transporte aquaviário em Salvador (BA)",
+   "tema": [
+    "registro de instalação (RN 13)",
+    "autorização de TUP"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado (unânime)",
+   "resumo_voto": "Indeferir o registro; caso seria de autorização de TUP.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "1:06:57",
+     "justificativa": "Diverge da área técnica: a própria empresa declara guindaste de até 600 t (equipamento de grande porte), incompatível com registro do art. 2º V da RN 13.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:10:42",
+     "justificativa": "Acompanha o voto do relator sem acréscimos.",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": [
+  "Legenda automática: números de processo, nomes de pessoas e valores podem estar errados (marcados como «legenda» ou «legenda incerta»).",
+  "Data da reunião estimada (ver observações).",
+  "Só há marcador de tempo no início do .md; ts tirados de data/transcricoes/uzhRnDP20Bw.json por busca de texto; votos de quem acompanha têm ts aproximado.",
+  "Ausência de Tokarski e Fonseca não é declarada na fala; inferida por não votarem."
+ ]
+}

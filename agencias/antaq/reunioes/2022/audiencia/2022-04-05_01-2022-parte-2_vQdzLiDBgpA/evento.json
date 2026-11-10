@@ -1,0 +1,88 @@
+{
+ "meta": {
+  "video_id": "vQdzLiDBgpA",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "audiencia",
+  "numero": "01/2022 (parte 2)",
+  "titulo": "Audiência Pública nº 01/2022 - Parte 2 - desestatização do porto de Santos",
+  "data": "2022-04-05",
+  "local": "virtual",
+  "objeto": "Documentos técnicos e jurídicos da concessão (desestatização) do porto de Santos/SP",
+  "processo": null,
+  "tema": [
+   "desestatização portuária",
+   "concessão portuária",
+   "tarifas",
+   "participação social"
+  ],
+  "presidiu": "Bruno Pinheiro (presidente da Comissão de Licitação da ANTAQ)",
+  "diretores_presentes": [
+   "Eduardo Nery"
+  ],
+  "participantes_externos": [
+   "Ministério da Infraestrutura / SNPTA (Fábio Lavor, Diogo Piloni)",
+   "SPA (Fernando Biral)",
+   "BNDES",
+   "PPI (Leonardo, Amanda)",
+   "ABTP",
+   "usuários (representante pedindo retirada do IGP-M)",
+   "Lourenço Ribeiro Advogados (Maria Viegas)"
+  ],
+  "resumo": "Segunda audiência sobre a desestatização do porto de Santos, feita a pedido do Ministério. O DG Eduardo Nery abriu dizendo que o objetivo é tornar Santos o porto mais eficiente do país, com investimentos obrigatórios e mitigação de conflitos de interesse. MInfra e BNDES apresentaram o modelo (mais de R$ 18 bilhões). A ABTP pediu segurança jurídica e direito de preferência dos arrendatários; usuário pediu retirar o IGP-M da tarifa; consultora pediu respeito a contratos de adesão e arrendamento.",
+  "posicoes": [
+   {
+    "quem": "ABTP",
+    "posicao": "garantia de direito de preferência dos atuais arrendatários e segurança jurídica dos terminais",
+    "ts": "1:10:24"
+   },
+   {
+    "quem": "representante de usuários",
+    "posicao": "não viu redução de tarifa e propõe retirar o IGP-M como indexador",
+    "ts": "2:29:58"
+   },
+   {
+    "quem": "Lourenço Ribeiro Advogados",
+    "posicao": "respeito a contratos de adesão e arrendamento, preferência a arrendatários, melhorias no modelo tarifário",
+    "ts": "2:55:21"
+   }
+  ],
+  "encaminhamentos": [
+   "Consulta pública aberta até 16/03 (segundo a legenda); contribuições pelo portal da ANTAQ",
+   "Pedido da ABTP protocolizado será analisado pela Diretoria Colegiada",
+   "Leilão previsto até o fim do ano"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Eduardo Nery",
+   "ts": "0:09:50",
+   "tema": [
+    "desestatização portuária",
+    "concessão portuária"
+   ],
+   "tipo": "abertura",
+   "resumo": "Diz que a concessão só se justifica para tornar Santos o porto mais eficiente do país, com investimentos obrigatórios e mitigação de conflitos de interesse, e pede contribuições.",
+   "trecho": "o objetivo aqui é maior do que esse floral o porto mais eficiente do país",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Eduardo Nery",
+   "ts": "3:25:27",
+   "tema": [
+    "desestatização portuária"
+   ],
+   "tipo": "encerramento",
+   "resumo": "Agradece, diz que contribuições serão consideradas e que espera o leilão até o fim do ano.",
+   "trecho": "a concessão do Porto Santo se não for para torná-lo muito mais eficiente",
+   "confianca": "alta"
+  }
+ ],
+ "limites_da_analise": [
+  "Diretora Flávia Takafashi citada como responsável pela pasta, mas sem fala nas janelas.",
+  "Sessão de 3h27; só janelas do resumo analisadas.",
+  "Data de encerramento da consulta ('16 de março') pode ser erro da legenda."
+ ]
+}

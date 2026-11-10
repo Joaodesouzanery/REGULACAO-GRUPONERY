@@ -1,5 +1,27 @@
 # Itens do tema «sustentabilidade» (todos os diretores)
 
+- **RD 377 (2015-01-28)**, 46 · relator **Fernando Fonseca** · Proposta de declaração de utilidade pública (supressão de Mata Atlântica) para TUP em São Francisco do Sul/SC → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=8491s)
+- **RD 377 (2015-01-28)**, 68 · relator **Adalberto Tokarski** · Agenda Ambiental e de Segurança Aquaviária (planejamento estratégico) → aprovado por unanimidade com ressalva de ajustes posteriores
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=16019s)
+- **RD 382 (2015-04-15)**, 15 · relator **Mário Povia** · Processo administrativo contencioso: ampliação de TUP em Rio Grande sem autorização, falta de comunicação de diretores e de controle de coleta de resí → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=4354s)
+- **RD 386 (2015-06-25)**, 15 · relator **Mário Povia** · Pedido de reconsideração de multa (R$ 2.062,50) por descumprir normas ambientais no corredor de exportação de Santos → aprovado conforme voto do relator (reconsideração não provida)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=7240s)
+- **RD 387 (2015-07-29)**, 55 (extrapauta) · relator **Adalberto Tokarski** · Declaração de utilidade pública para supressão de Mata Atlântica nas áreas dos TUPs Porto Sul e Bamin (Ilhéus) → aprovado conforme voto do relator (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=18658s)
+- **RD 392 (2015-10-22)**, 3 · relator **Mário Povia** · Processo contencioso: porto de Corumbá sem licença ambiental, ocupação do Centro de Convenções e desvio de finalidade (convênio de delegação 13/98) → aprovado: multas (licença ambiental, R$ 27.500 e R$ 137.500) + articulação com MT/SEP para
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=2236s)
+- **RD 399 (2016-03-03)**, 8 · relator **Mário Povia** · Agenda Ambiental e de Segurança Aquaviária 2016 → aprovado por unanimidade conforme voto do relator
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=3951s)
+- **RD 420 (2017-05-09)**, 12 · relator **Adalberto Tokarski** · Recurso contra multa de R$ 28.350 aplicada pela SFC por manutenção de empilhadeiras sem caixa separadora de água e óleo → aprovado (unânime): recurso improvido
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=3433s)
+- **RD 428 (2017-09-13)**, 12 · relator **Mário Povia** · Registro de instalação portuária (Porto Mauá, rio Madeira, Porto Velho/RO) em APA, com recomendação do MPF → aprovado por unanimidade conforme voto do relator (indeferimento por ora e consulta aos ór
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=2761s)
+- **RD 442 (2018-05-07)**, 19 · relator **Mário Povia** · Agenda Ambiental e de Segurança Aquaviária 2018–2019 → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=2902s)
+- **RD 442 (2018-05-07)**, 39 · relator **Francisval Mendes** · Consulta sobre operação ship to ship de combustíveis no porto de Santana/AP → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=5841s)
 - **RD 454 (2018-12-20)**, 55 · relator **Francisval Mendes** · Referendo da Resolução 6598 (11/12/2018): empreendimento apto à declaração de utilidade pública (TUP em Paranaguá), para licença de instalação com sup → referendado por unanimidade
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=16514s)
 - **RD 458 (2019-04-04)**, 12 · relator **Mário Povia** · Consulta regulatória e denúncia sobre o Instrumento Normativo 15.004 da CDRJ (barreiras de contenção e cadastro de prestadores de combustível e resídu → voto do relator proferido; processo foi à vista (provavelmente de Adalberto Tokarski; lege

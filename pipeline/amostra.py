@@ -9,6 +9,7 @@ RODADAS = {"2019_2024": dict(anos="2019 2020 2021 2022 2023 2024", reun=6, seed=
 RODADAS["antt_c_2019_2026"] = dict(anos="2019 2020 2021 2022 2023 2024 2025 2026", reun=2, seed=20261110, dir="data/qualidade/antt_c", rel="conferencia_antt_c_2019_2026", excluir="data/qualidade/amostra_cega.json")
 RODADAS["anm_2019_2026"] = dict(anos="2019 2020 2021 2022 2023 2024 2025 2026", reun=3, seed=20261108, dir="data/qualidade/anm_2019_2026", rel="conferencia_anm_2019_2026")
 RODADAS["antaq_2019_2026"] = dict(anos="2019 2020 2021 2022 2023 2024 2025 2026", reun=2, seed=20261110, dir="data/qualidade/antaq_2019_2026", rel="conferencia_antaq_2019_2026")
+RODADAS["antaq_2015_2018"] = dict(anos="2015 2016 2017 2018", reun=4, seed=20261111, dir="data/qualidade/antaq_2015_2018", rel="conferencia_antaq_2015_2018")
 RD = sys.argv[2] if len(sys.argv) > 2 else "2019_2024"; CFG = RODADAS[RD]; D = CFG["dir"]; os.makedirs(D + "/respostas", exist_ok=True)
 random.seed(CFG["seed"])
 CAT = lambda s: ("relator" if re.match(r"\s*(voto[- ])?relator|\s*relatora|\s*relator[, ]", s or "", re.I) else ("diverge" if re.search(r"diverg|vencid|contr[aá]rio", s or "", re.I) else "acompanha") if re.search(r"voto[- ]vista", s or "", re.I) else "vista" if re.search(r"vista", s or "", re.I) else "diverge" if re.search(r"diverg|vencid|contr[aá]rio", s or "", re.I) else "acompanha" if re.search(r"acompanh|de acordo|adere|segue|sigo|voto com|aprov", s or "", re.I) else "outro")

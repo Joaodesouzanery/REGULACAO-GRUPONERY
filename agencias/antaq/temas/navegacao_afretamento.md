@@ -1,5 +1,1135 @@
 # Itens do tema «navegacao_afretamento» (todos os diretores)
 
+- **RD 377 (2015-01-28)**, 4 · relator **Mário Povia** · Outorga de autorização como EBN — transporte de passageiros na travessia em diretriz da BR-319 (rios Negro e Solimões, Manaus–Careiro da Várzea/AM); j → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=536s)
+- **RD 377 (2015-01-28)**, 5 · relator **Mário Povia** · Outorga de autorização como EBN — transporte de passageiros na travessia em diretriz da BR-319 (rios Negro e Solimões, Manaus–Careiro da Várzea/AM); j → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=536s)
+- **RD 377 (2015-01-28)**, 6 · relator **Mário Povia** · Outorga de autorização como EBN — transporte de passageiros na travessia em diretriz da BR-319 (rios Negro e Solimões, Manaus–Careiro da Várzea/AM); j → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=536s)
+- **RD 377 (2015-01-28)**, 8 · relator **Mário Povia** · Outorga de autorização como EBN — transporte de passageiros na travessia em diretriz da BR-319 (rios Negro e Solimões, Manaus–Careiro da Várzea/AM); j → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=536s)
+- **RD 377 (2015-01-28)**, 7 · relator **Mário Povia** · Outorga de autorização como EBN — cargas (biocombustíveis, petróleo e derivados) na navegação interior longitudinal interestadual, rios Tietê e Paraná → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=743s)
+- **RD 377 (2015-01-28)**, 10 · relator **Mário Povia** · Renúncia parcial de outorga (apoio marítimo), mantendo apoio portuário → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=1796s)
+- **RD 377 (2015-01-28)**, 15 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 20 mil por transporte aquaviário sem autorização → aprovado por unanimidade: provimento parcial
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=2733s)
+- **RD 377 (2015-01-28)**, 16 · relator **Mário Povia** · Pedido de reconsideração contra cassação da autorização (empresa não localizada) → aprovado por unanimidade: provimento parcial
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=3064s)
+- **RD 377 (2015-01-28)**, 22 · relator **Fernando Fonseca** · Outorga de autorização — apoio portuário até 2.000 HP → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=5404s)
+- **RD 377 (2015-01-28)**, 23 · relator **Fernando Fonseca** · Aditamento da autorização de cabotagem (até 5.000 TPB) para outorga plena → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=5500s)
+- **RD 377 (2015-01-28)**, 24 · relator **Fernando Fonseca** · Outorga de autorização como EBN — passageiros na travessia em diretriz da BR-319 (Manaus–Careiro da Várzea/AM); julgado em bloco (itens 24 a 35) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=5653s)
+- **RD 377 (2015-01-28)**, 25 · relator **Fernando Fonseca** · Outorga de autorização como EBN — passageiros na travessia em diretriz da BR-319 (Manaus–Careiro da Várzea/AM); julgado em bloco (itens 24 a 35) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=5653s)
+- **RD 377 (2015-01-28)**, 26 · relator **Fernando Fonseca** · Outorga de autorização como EBN — passageiros na travessia em diretriz da BR-319 (Manaus–Careiro da Várzea/AM); julgado em bloco (itens 24 a 35) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=5653s)
+- **RD 377 (2015-01-28)**, 27 · relator **Fernando Fonseca** · Outorga de autorização como EBN — passageiros na travessia em diretriz da BR-319 (Manaus–Careiro da Várzea/AM); julgado em bloco (itens 24 a 35) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=5653s)
+- **RD 377 (2015-01-28)**, 28 · relator **Fernando Fonseca** · Outorga de autorização como EBN — passageiros na travessia em diretriz da BR-319 (Manaus–Careiro da Várzea/AM); julgado em bloco (itens 24 a 35) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=5653s)
+- **RD 377 (2015-01-28)**, 29 · relator **Fernando Fonseca** · Outorga de autorização como EBN — passageiros na travessia em diretriz da BR-319 (Manaus–Careiro da Várzea/AM); julgado em bloco (itens 24 a 35) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=5653s)
+- **RD 377 (2015-01-28)**, 30 · relator **Fernando Fonseca** · Outorga de autorização como EBN — passageiros na travessia em diretriz da BR-319 (Manaus–Careiro da Várzea/AM); julgado em bloco (itens 24 a 35) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=5653s)
+- **RD 377 (2015-01-28)**, 31 · relator **Fernando Fonseca** · Outorga de autorização como EBN — passageiros na travessia em diretriz da BR-319 (Manaus–Careiro da Várzea/AM); julgado em bloco (itens 24 a 35) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=5653s)
+- **RD 377 (2015-01-28)**, 32 · relator **Fernando Fonseca** · Outorga de autorização como EBN — passageiros na travessia em diretriz da BR-319 (Manaus–Careiro da Várzea/AM); julgado em bloco (itens 24 a 35) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=5653s)
+- **RD 377 (2015-01-28)**, 33 · relator **Fernando Fonseca** · Outorga de autorização como EBN — passageiros na travessia em diretriz da BR-319 (Manaus–Careiro da Várzea/AM); julgado em bloco (itens 24 a 35) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=5653s)
+- **RD 377 (2015-01-28)**, 34 · relator **Fernando Fonseca** · Outorga de autorização como EBN — passageiros na travessia em diretriz da BR-319 (Manaus–Careiro da Várzea/AM); julgado em bloco (itens 24 a 35) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=5653s)
+- **RD 377 (2015-01-28)**, 35 · relator **Fernando Fonseca** · Outorga de autorização como EBN — passageiros na travessia em diretriz da BR-319 (Manaus–Careiro da Várzea/AM); julgado em bloco (itens 24 a 35) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=5653s)
+- **RD 377 (2015-01-28)**, 36 · relator **Fernando Fonseca** · Outorga de autorização — carga geral, navegação interior longitudinal na região amazônica → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=5958s)
+- **RD 377 (2015-01-28)**, 37 · relator **Fernando Fonseca** · Outorga de autorização — carga geral, navegação interior longitudinal na região amazônica → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=6038s)
+- **RD 377 (2015-01-28)**, 38 · relator **Fernando Fonseca** · Registro de instalação de apoio operacional fora do porto organizado em Tabatinga/AM (art. 39, II, Res. 3290) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=6127s)
+- **RD 377 (2015-01-28)**, 41 · relator **Fernando Fonseca** · Renúncia de autorização (cargas, navegação interior e rota Brasil–Iquitos) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=7054s)
+- **RD 377 (2015-01-28)**, 45 · relator **Fernando Fonseca** · Renúncia de autorização — travessia no rio Uruguai (Iraí/RS–Palmitos/SC) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=8293s)
+- **RD 377 (2015-01-28)**, 53 · relator **Adalberto Tokarski** · Outorga de autorização — apoio portuário até 2.000 HP → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=12228s)
+- **RD 377 (2015-01-28)**, 54 · relator **Adalberto Tokarski** · Outorga de autorização para pré-registro no REB (navegação interior, região do Paraná) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=12393s)
+- **RD 377 (2015-01-28)**, 55 · relator **Adalberto Tokarski** · Outorga de autorização — apoio portuário até 2.000 HP (Vitória/ES) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=12604s)
+- **RD 377 (2015-01-28)**, 56 · relator **Adalberto Tokarski** · Outorga de autorização — travessia BR-319 (Manaus–Careiro da Várzea) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=12761s)
+- **RD 377 (2015-01-28)**, 57 · relator **Adalberto Tokarski** · Outorga de autorização → pedido de vista (aparentemente do Diretor-Geral Mário Povia)
+  - votos: Mário: vista · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=12961s)
+- **RD 377 (2015-01-28)**, 58 · relator **Adalberto Tokarski** · Outorga de autorização — apoio portuário até 2.000 HP (Candeias/BA) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=12981s)
+- **RD 377 (2015-01-28)**, 59 · relator **Adalberto Tokarski** · Outorga de autorização — travessia BR-319 (Manaus–Careiro) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=13149s)
+- **RD 378 (2015-02-12)**, 5 · relator **Mário Povia** · Processo administrativo contencioso por não prestar informações solicitadas pela fiscalização → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=1172s)
+- **RD 378 (2015-02-12)**, 7 · relator **Mário Povia** · Processo administrativo contencioso por contratar empresa não autorizada para apoio portuário → aprovado por unanimidade: auto insubsistente e arquivamento
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=1911s)
+- **RD 378 (2015-02-12)**, 9 · relator **Mário Povia** · Outorga de autorização como EBN para travessia de passageiros Manaus - Careiro da Várzea (BR-319) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=3158s)
+- **RD 378 (2015-02-12)**, 14 · relator **Fernando Fonseca** · Outorga de autorização EBN para carga geral e granéis sólidos na navegação interior (Manaus - Letícia, Iquitos, Francisco de Orellana) → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=5990s)
+- **RD 378 (2015-02-12)**, 15 · relator **Fernando Fonseca** · Outorga de autorização EBN para travessia de passageiros Manaus - Careiro da Várzea → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=6094s)
+- **RD 378 (2015-02-12)**, 24 · relator **Fernando Fonseca** · Norma de afretamento de embarcações por EBN (revisão das Res. 2919 a 2922/2013) após audiência pública → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=8808s)
+- **RD 378 (2015-02-12)**, 26 · relator **Adalberto Tokarski** · Outorga de autorização EBN para travessia de passageiros no rio São Francisco (Pão de Açúcar/AL - Niterói, Porto da Folha/SE) → aprovado por unanimidade
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=11880s)
+- **RD 378 (2015-02-12)**, 28 · relator **Adalberto Tokarski** · Outorga de autorização EBN para travessia de passageiros no rio São Francisco (mesmo trecho) → aprovado por unanimidade
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=11926s)
+- **RD 378 (2015-02-12)**, 27 · relator **Adalberto Tokarski** · Outorga de autorização EBN para travessia de passageiros e motocicletas no rio São Francisco → aprovado por unanimidade
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=12159s)
+- **RD 378 (2015-02-12)**, 29 · relator **Adalberto Tokarski** · Outorga de autorização EBN para travessia Manaus - Careiro da Várzea → aprovado por unanimidade
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=12392s)
+- **RD 378 (2015-02-12)**, 32 · relator **Adalberto Tokarski** · Processo administrativo contencioso por encerramento de operações sem comunicação (navegação interior internacional) → aprovado por unanimidade
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=13638s)
+- **RD 381 (2015-03)**, 2 · relator **Mário Povia** · Outorga de travessia Manaus–Careiro da Várzea (diretriz da BR-319) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=438s)
+- **RD 381 (2015-03)**, 3 · relator **Mário Povia** · Outorga de travessia no rio São Francisco entre Pão de Açúcar (AL) e Porto da Folha (SE) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=586s)
+- **RD 381 (2015-03)**, 15 · relator **Fernando Fonseca** · Pedido de reconsideração de multas de R$ 14.800 → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=3029s)
+- **RD 380 (2015-03-12)**, 2 · relator **Mário Povia** · Renúncia parcial de outorga (apoio marítimo; mantém apoio portuário) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=464s)
+- **RD 380 (2015-03-12)**, 8 · relator **Mário Povia** · Prorrogação do direito de tonelagem (afretamento por tempo em substituição a cascos em construção no Estaleiro EISA) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=1695s)
+- **RD 380 (2015-03-12)**, 10 · relator **Mário Povia** · Pedido de reconsideração de multas (R$ 2.520 e R$ 20.475; total R$ 22.995) → aprovado por unanimidade: conhecido e negado provimento
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=3706s)
+- **RD 380 (2015-03-12)**, 14 · relator **Fernando Fonseca** · Outorga de autorização: travessia de passageiros BR-319, rios Negro e Solimões (Manaus–Careiro da Várzea); votado em conjunto com o item 16 → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=5332s)
+- **RD 380 (2015-03-12)**, 16 · relator **Fernando Fonseca** · Outorga de autorização: travessia BR-319 Manaus–Careiro da Várzea (votado com o item 14) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=5352s)
+- **RD 380 (2015-03-12)**, 15 · relator **Fernando Fonseca** · Outorga de autorização: travessia BR-319 Manaus–Careiro da Várzea → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=5478s)
+- **RD 380 (2015-03-12)**, 17 · relator **Fernando Fonseca** · Aditamento de autorização para incluir rotas internacionais (Manaus–Iquitos, Francisco de Orellana, Puerto Asís) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=5568s)
+- **RD 380 (2015-03-12)**, 18 · relator **Fernando Fonseca** · Outorga: travessia de passageiros e veículos no Rio São Francisco (Pão de Açúcar/AL–Niterói/SE); votado com o item 19 → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=5703s)
+- **RD 380 (2015-03-12)**, 19 · relator **Fernando Fonseca** · Outorga: travessia no Rio São Francisco (votado com o item 18) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=5720s)
+- **RD 380 (2015-03-12)**, 35 · relator **Adalberto Tokarski** · Outorga: travessia BR-319 Manaus–Careiro da Várzea → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=9789s)
+- **RD 380 (2015-03-12)**, 36 · relator **Adalberto Tokarski** · Outorga: carga geral, navegação interior longitudinal na região amazônica → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=9956s)
+- **RD 380 (2015-03-12)**, 37 · relator **Adalberto Tokarski** · Outorga: carga geral, navegação interior longitudinal na região amazônica → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=10114s)
+- **RD 380 (2015-03-12)**, 43 · relator **Adalberto Tokarski** · PAS: operar apoio portuário sem autorização no porto de Itaqui/MA → aprovado por unanimidade
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=11304s)
+- **RD 382 (2015-04-15)**, 17 · relator **Mário Povia** · Outorga de autorização de EBN na navegação de apoio portuário (embarcações até 2.000 HP) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=5773s)
+- **RD 382 (2015-04-15)**, 18 · relator **Mário Povia** · Outorga de autorização de EBN para travessia Manaus-Careiro da Várzea (BR-319) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=5891s)
+- **RD 382 (2015-04-15)**, 21 · relator **Fernando Fonseca** · Outorga de autorização de EBN para travessia Manaus-Careiro da Várzea → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=7363s)
+- **RD 382 (2015-04-15)**, 22 · relator **Fernando Fonseca** · Outorga de autorização de EBN para travessia Manaus-Careiro da Várzea → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=7450s)
+- **RD 382 (2015-04-15)**, 23 · relator **Fernando Fonseca** · Outorga de autorização de EBN para travessia Manaus-Careiro da Várzea (passageiros e veículos) → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=7516s)
+- **RD 382 (2015-04-15)**, 24 · relator **Fernando Fonseca** · Outorga de autorização de EBN para travessia interestadual no Rio São Francisco (Pão de Açúcar/AL - Porto da Folha/SE) → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=7583s)
+- **RD 382 (2015-04-15)**, 25 · relator **Fernando Fonseca** · Outorga de autorização de EBN para travessia interestadual no Rio Paranaíba (Davinópolis/GO - Abadia dos Dourados/MG) → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=7661s)
+- **RD 382 (2015-04-15)**, 45 · relator **Adalberto Tokarski** · Pedido de reconsideração de advertência e multa de R$ 6.800 (EBN: balanço e frota) → aprovado por unanimidade: negado provimento
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=15643s)
+- **RD 382 (2015-04-15)**, 52 · relator **Adalberto Tokarski** · Processo administrativo sancionador: operar instalação portuária sem autorização → aprovado por unanimidade: auto insubsistente
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=18326s)
+- **RD 382 (2015-04-15)**, 54 · relator **Adalberto Tokarski** · Processo administrativo sancionador: navegação de apoio portuário sem autorização (terminal Gerdau Usiba) → aprovado por unanimidade: multa
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=19405s)
+- **RD 382 (2015-04-15)**, 59 · relator **Adalberto Tokarski** · Outorga de autorização de EBN na navegação de apoio portuário → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=20693s)
+- **RD 382 (2015-04-15)**, 60 · relator **Adalberto Tokarski** · Outorga de autorização de EBN na navegação interior longitudinal (Amazônia) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=20816s)
+- **RD 382 (2015-04-15)**, 61 · relator **Adalberto Tokarski** · Outorga de autorização de EBN para travessia Manaus-Careiro da Várzea → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=20945s)
+- **RD 382 (2015-04-15)**, 62 · relator **Adalberto Tokarski** · Outorga de autorização de EBN na navegação interior em faixa de fronteira (Amazônia) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=21068s)
+- **RD 382 (2015-04-15)**, 63 · relator **Adalberto Tokarski** · Outorga de autorização de EBN na navegação interior longitudinal (Porto Velho/RO) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=21303s)
+- **RD 382 (2015-04-15)**, 64 · relator **Adalberto Tokarski** · Renúncia de autorização de EBN (cabotagem) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=21444s)
+- **RD 384 (2015-05-20)**, 3 · relator **Mário Povia** · Autorização para explorar instalação portuária pública de pequeno porte (IP4) de passageiros dentro da poligonal do porto organizado de Santana → aprovado por unanimidade (indeferido o pedido)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=900s)
+- **RD 384 (2015-05-20)**, 9 · relator **Fernando Fonseca** · Outorga de autorização para operar como EBN na navegação de apoio marítimo → aprovado por unanimidade (deferido)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=1707s)
+- **RD 384 (2015-05-20)**, 10 · relator **Fernando Fonseca** · Renúncia à autorização de EBN para transporte de passageiros e misto na navegação interior longitudinal interestadual (região hidrográfica amazônica) → aprovado por unanimidade (renúncia deferida)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=1775s)
+- **RD 384 (2015-05-20)**, 11 · relator **Fernando Fonseca** · Processo administrativo sancionador por operar navegação de apoio portuário/marítimo sem autorização (UR Vitória) → aprovado por unanimidade (auto subsistente, multa)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=1870s)
+- **RD 384 (2015-05-20)**, 22 · relator **Adalberto Tokarski** · Outorga de autorização de EBN para transporte misto na navegação interior interestadual (Macapá/Santana-AP – Vitória do Xingu-PA) → aprovado por unanimidade (deferido)
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=6639s)
+- **RD 384 (2015-05-20)**, EP1 · relator **Mário Povia** · Referendo da publicação das tabelas tarifárias reajustadas da CDP com supressão da tarifa de infraestrutura de acesso aquaviário para a navegação inte → aprovado por maioria (Fernando Fonseca vencido)
+  - votos: Mário: relator; Fernando: vencido; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=6798s)
+- **RD 385 (2015-06-01)**, 2 · relator **Fernando Fonseca** · Renúncia de autorização (EBN, navegação interior de percurso longitudinal, região amazônica) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: revisor_acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=51s)
+- **RD 385 (2015-06-01)**, 3 · relator **Mário Povia** · Outorga de autorização: travessia de passageiros na diretriz da BR-319 (rios Solimões e Negro, Manaus–Careiro da Várzea/AM) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=252s)
+- **RD 385 (2015-06-01)**, 4 · relator **Mário Povia** · Outorga de autorização: apoio portuário com embarcações sem propulsão ou até 2.000 HP → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=367s)
+- **RD 385 (2015-06-01)**, 5 · relator **Mário Povia** · Outorga de autorização: travessia de passageiros na diretriz da BR-319 (Manaus–Careiro da Várzea) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=470s)
+- **RD 385 (2015-06-01)**, 6 · relator **Mário Povia** · Outorga de autorização: travessia de passageiros na diretriz da BR-319 → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=543s)
+- **RD 385 (2015-06-01)**, 26 · relator **Fernando Fonseca** · Outorga de autorização: travessia na diretriz da BR-319 (Manaus–Careiro da Várzea) → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=9287s)
+- **RD 385 (2015-06-01)**, 27 · relator **Fernando Fonseca** · Outorga de autorização: apoio marítimo → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=9352s)
+- **RD 385 (2015-06-01)**, 28 · relator **Fernando Fonseca** · Outorga de autorização: apoio portuário até 2.000 HP → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=9402s)
+- **RD 385 (2015-06-01)**, 29 · relator **Fernando Fonseca** · Outorga de autorização: apoio portuário até 2.000 HP → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=9477s)
+- **RD 385 (2015-06-01)**, 30 · relator **Fernando Fonseca** · Outorga de autorização: passageiros na navegação interior longitudinal interestadual (região amazônica) → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=9536s)
+- **RD 385 (2015-06-01)**, 31 · relator **Fernando Fonseca** · Outorga de autorização: apoio portuário até 2.000 HP → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=9600s)
+- **RD 385 (2015-06-01)**, 36 · relator **Fernando Fonseca** · Pedido de reconsideração: autorização da ANTAQ para empresas estrangeiras na navegação de longo curso → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=10815s)
+- **RD 385 (2015-06-01)**, 37 · relator **Fernando Fonseca** · Registro de instalação portuária rudimentar (rampa de suprimentos) em Oriximiná/PA → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=11525s)
+- **RD 385 (2015-06-01)**, 41 · relator **Fernando Fonseca** · Proposta de norma de direitos e deveres dos usuários e empresas de navegação (apoio marítimo, portuário, cabotagem, longo curso) e infrações → adiado (pedido de vista)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=12682s)
+- **RD 385 (2015-06-01)**, 44 · relator **Adalberto Tokarski** · Outorga de autorização: travessia na diretriz da BR-319 → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: acompanha; Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=14335s)
+- **RD 385 (2015-06-01)**, 45 · relator **Adalberto Tokarski** · Outorga de autorização: travessia interestadual no rio Jari (Laranjal do Jari/AP – Monte Dourado/PA) → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: acompanha; Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=14500s)
+- **RD 385 (2015-06-01)**, 46 · relator **Adalberto Tokarski** · Outorga de autorização: apoio portuário até 2.000 HP (Itajaí/SC) → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: acompanha; Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=14665s)
+- **RD 385 (2015-06-01)**, 47 · relator **Adalberto Tokarski** · Outorga de autorização: apoio marítimo até 2.000 HP (Eusébio/CE) → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: acompanha; Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=14809s)
+- **RD 385 (2015-06-01)**, 48 · relator **Adalberto Tokarski** · Registro de instalação rudimentar para embarque/desembarque de madeira em toras (Oriximiná/PA) → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: acompanha; Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=14940s)
+- **RD 386 (2015-06-25)**, 2 · relator **Mário Povia** · Sancionador: auto de infração 724-2 (navegação interior; INSS, conjunto empurrador-barcaça, operação comercial) → aprovado: multas de R$ 393,75 e R$ 2.362,50; cassação afastada após voto-vista
+  - votos: Mário: relator; Adalberto: revisor_diverge; Fernando: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=58s)
+- **RD 386 (2015-06-25)**, 17 · relator **Mário Povia** · Processo contencioso: não comprovação de operação comercial no apoio marítimo → aprovado conforme voto do relator
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=7645s)
+- **RD 386 (2015-06-25)**, 18 · relator **Mário Povia** · Processo contencioso: frota, afretamento, balanço, patrimônio líquido e regularidade fiscal → aprovado conforme voto do relator
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=8162s)
+- **RD 386 (2015-06-25)**, 22 · relator **Fernando Fonseca** · Renúncia de autorização de navegação interior Manaus-Letícia → aprovado conforme voto do relator
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=9484s)
+- **RD 386 (2015-06-25)**, 31 · relator **Adalberto Tokarski** · Outorga EBN carga geral e botijão de gás, navegação interior amazônica → aprovado conforme voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=13116s)
+- **RD 386 (2015-06-25)**, 32 · relator **Adalberto Tokarski** · Outorga EBN carga geral, navegação interior amazônica → aprovado conforme voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=13337s)
+- **RD 386 (2015-06-25)**, 33 · relator **Adalberto Tokarski** · Outorga EBN transporte misto Manaus-Monte Alegre → aprovado conforme voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=13452s)
+- **RD 386 (2015-06-25)**, 34 · relator **Adalberto Tokarski** · Outorga EBN transporte misto Manaus-Oriximiná → aprovado conforme voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=13568s)
+- **RD 386 (2015-06-25)**, 35 · relator **Adalberto Tokarski** · Outorga EBN passageiros Belém-Macapá → aprovado conforme voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=13696s)
+- **RD 386 (2015-06-25)**, 36 · relator **Adalberto Tokarski** · Extinção de autorização de apoio marítimo por renúncia após incorporação → aprovado conforme voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=13830s)
+- **RD 387 (2015-07-29)**, 1 · relator **Mário Povia** · Revisão da norma da Resolução 2510 (outorga de autorização a EBN para longo curso, cabotagem, apoio marítimo e portuário) — envio a consulta pública ( → aprovado conforme voto do relator (maioria; voto-vista de Tokarski vencido)
+  - votos: Mário: relator; Adalberto: vencido; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=43s)
+- **RD 387 (2015-07-29)**, 2 · relator **Fernando Fonseca** · Proposta de norma de direitos e deveres dos usuários e das empresas de navegação (apoio marítimo, apoio portuário, cabotagem, longo curso) e infrações → aprovado conforme voto do relator (maioria; voto-vista de Tokarski vencido)
+  - votos: Fernando: relator; Adalberto: vencido; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=2144s)
+- **RD 387 (2015-07-29)**, 6 · relator **Mário Povia** · Outorga de autorização como EBN na navegação de apoio portuário → aprovado conforme voto do relator (unânime)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=6639s)
+- **RD 387 (2015-07-29)**, 10 · relator **Mário Povia** · Processo administrativo contencioso: termos de permissão de uso no terminal de Ponta da Espera (travessia São Luís–Alcântara) → aprovado conforme voto do relator (unânime)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=8392s)
+- **RD 387 (2015-07-29)**, 27 · relator **Fernando Fonseca** · Recurso contra multa de R$ 2.600 por travessia sem autorização (rio Paranaíba, Davinópolis/GO–Abadia dos Dourados/MG) → aprovado conforme voto do relator (unânime)
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=14234s)
+- **RD 387 (2015-07-29)**, 28 · relator **Fernando Fonseca** · Outorga de autorização como EBN de apoio portuário em cumprimento a mandado de segurança → aprovado conforme voto do relator (unânime)
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=14490s)
+- **RD 387 (2015-07-29)**, 29 · relator **Fernando Fonseca** · Outorga de autorização: carga geral na navegação interior longitudinal interestadual, Amazônia → aprovado conforme voto do relator (unânime)
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=14853s)
+- **RD 387 (2015-07-29)**, 31 · relator **Fernando Fonseca** · Outorga de autorização: transporte misto Manaus/AM–Alenquer/PA → aprovado conforme voto do relator (unânime)
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=15018s)
+- **RD 387 (2015-07-29)**, 35 · relator **Adalberto Tokarski** · Outorga de autorização como EBN para pré-registro no REB de embarcação em construção (sem direito a afretamento), Corumbá/MS → aprovado conforme voto do relator (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=16233s)
+- **RD 387 (2015-07-29)**, 36 · relator **Adalberto Tokarski** · Outorga de autorização: transporte misto Porto Velho/RO–Manaus/AM → aprovado conforme voto do relator (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=16376s)
+- **RD 387 (2015-07-29)**, 37 · relator **Adalberto Tokarski** · Outorga de autorização: carga geral e granel sólido na Amazônia e rotas internacionais (Iquitos, Francisco de Orellana, Letícia) → aprovado conforme voto do relator (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=16506s)
+- **RD 387 (2015-07-29)**, 38 · relator **Adalberto Tokarski** · Outorga de autorização: carga geral na navegação interior longitudinal, Amazônia → aprovado conforme voto do relator (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=16690s)
+- **RD 387 (2015-07-29)**, 41 · relator **Adalberto Tokarski** · Processo administrativo sancionador: terminal de cargas e passageiros sem autorização em Tabatinga → aprovado conforme voto do relator (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=17111s)
+- **RD 387 (2015-07-29)**, 42 · relator **Adalberto Tokarski** · Pedido de reconsideração de multa (368ª reunião): CSN, vistorias e contribuição sindical → aprovado conforme voto do relator (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=17678s)
+- **RD 388 (2015-08-12)**, 4 · relator **Mário Povia** · Processo administrativo contencioso por transporte longitudinal de passageiros e cargas Macapá-AP–Chaves-PA sem autorização → aprovado por unanimidade (multa e prazo para regularizar)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=2188s)
+- **RD 388 (2015-08-12)**, 7 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 3 mil (378ª RO) por deixar de prestar informações no prazo → aprovado por unanimidade (recurso negado)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=4218s)
+- **RD 388 (2015-08-12)**, 10 · relator **Mário Povia** · Outorga de autorização de EBN para travessia de passageiros na BR-319 (rios Solimões e Negro, Manaus–Careiro da Várzea-AM) → aprovado por unanimidade (deferido)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=5576s)
+- **RD 388 (2015-08-12)**, 19 · relator **Fernando Fonseca** · Processo administrativo contencioso (navegação de apoio marítimo/portuário): falhas formais e recapitulação da infração → aprovado por unanimidade (arquivamento e novo PAS)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=10545s)
+- **RD 388 (2015-08-12)**, 26 · relator **Adalberto Tokarski** · Registro de instalação portuária rudimentar de apoio à navegação interior → aprovado por unanimidade (registro deferido)
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=14073s)
+- **RD 389 (2015-08-27)**, 10 · relator **Fernando Fonseca** · Recurso contra multa de R$ 15 mil por não manter embarcação em operação comercial (navegação interior, bacia Paraguai-Paraná) → pedido de vista
+  - votos: Fernando: relator; Mário: outro; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=px8mI3sMZqA&t=7701s)
+- **RD 389 (2015-08-27)**, 11 · relator **Fernando Fonseca** · PAS por operar navegação de apoio portuário sem autorização no terminal da Samarco → aprovado
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=px8mI3sMZqA&t=8076s)
+- **RD 389 (2015-08-27)**, 14 (número incerto) · relator **Adalberto Tokarski** · Proposta de norma sobre registro de instalações de apoio ao transporte aquaviário (substitui o art. 39 da Res. 3290), para consulta pública → aprovado
+  - votos: Adalberto: relator; Mário: outro; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=px8mI3sMZqA&t=10780s)
+- **RD 389 (2015-08-27)**, 20 · relator **Fernando Fonseca** · Outorga de autorização como EBN na navegação de apoio portuário (embarcações sem propulsão ou de pequena potência) → aprovado
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=px8mI3sMZqA&t=12974s)
+- **RD 390 (2015-09)**, 3 · relator **Mário Povia** · Outorga de autorização EBN – transporte misto na navegação interior longitudinal interestadual Manaus–Óbidos (PA) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=1620s)
+- **RD 390 (2015-09)**, 4 · relator **Mário Povia** · Renúncia de autorização de transporte de passageiros e misto Manaus–Porto Velho → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=1665s)
+- **RD 390 (2015-09)**, 5 · relator **Mário Povia** · Renúncia de autorização de apoio portuário → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=1765s)
+- **RD 390 (2015-09)**, 11 · relator **Mário Povia** · Outorga de autorização de apoio portuário (embarcações sem propulsão ou até 2.000 HP) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=2990s)
+- **RD 390 (2015-09)**, 18 · relator **Fernando Fonseca** · Renúncia de autorização de apoio portuário e marítimo → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=3985s)
+- **RD 390 (2015-09)**, 19 · relator **Fernando Fonseca** · Outorga de autorização de transporte de carga na navegação interior (Amazônia) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=4110s)
+- **RD 390 (2015-09)**, 24 · relator **Fernando Fonseca** · Renúncia de autorização de apoio marítimo por incorporação → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=5505s)
+- **RD 390 (2015-09)**, 41 · relator **Adalberto Tokarski** · Aditamento de autorização: apoio marítimo e cabotagem (após vista de Mário Povia na 377ª) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=12156s)
+- **RD 390 (2015-09)**, 42 · relator **Adalberto Tokarski** · Renúncia de autorização de passageiros Manaus–Pará → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=12539s)
+- **RD 390 (2015-09)**, 43 · relator **Adalberto Tokarski** · Renúncia de autorização de travessia no rio São Francisco (Penedo) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=12705s)
+- **RD 390 (2015-09)**, 45 · relator **Adalberto Tokarski** · Renúncia de autorização → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=13172s)
+- **RD 391 (2015-09-23)**, 1 · relator **Mário Povia** · Adaptação do termo de autorização 074 (TUP em Porto Velho/RO, 60.794 m², carga geral e conteinerizada) e celebração de contrato de adesão → aprovado
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=38s)
+- **RD 391 (2015-09-23)**, 2 · relator **Mário Povia** · Autorização para construção e exploração de estação de transbordo de carga (ETC) na margem esquerda do Rio Negro, Manaus/AM (27.168,91 m²) → aprovado
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=226s)
+- **RD 391 (2015-09-23)**, 7 · relator **Mário Povia** · Processo contencioso: EBN de cabotagem/longo curso sem operação regular da única embarcação própria em 2013 e uso intenso de afretamento de estrangeir → aprovado
+  - votos: Mário: relator; Adalberto: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=1519s)
+- **RD 391 (2015-09-23)**, 8 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 18.000 por travessia sem autorização entre Joaquim Pires/PI e Magalhães de Almeida/MA → reconsideração negada
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=2216s)
+- **RD 391 (2015-09-23)**, 10 · relator **Mário Povia** · Outorga de autorização como EBN de apoio marítimo → aprovado
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=2497s)
+- **RD 391 (2015-09-23)**, 11 · relator **Mário Povia** · Aditamento do termo de autorização 986 (EBN de apoio portuário) para incluir apoio marítimo, só sem propulsão ou até 2.000 HP → aprovado
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=2604s)
+- **RD 391 (2015-09-23)**, 12 · relator **Mário Povia** · Autorização como EBN de apoio portuário, só embarcações sem propulsão ou até 2.000 HP → aprovado
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=2743s)
+- **RD 391 (2015-09-23)**, 13 · relator **Mário Povia** · Registro de instalação portuária rudimentar na margem esquerda do Rio Negro, Manaus/AM (só cargas) → aprovado (deferido)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=2846s)
+- **RD 391 (2015-09-23)**, 36 · relator **Fernando Fonseca** · Extrapauta: autorização em caráter especial e de emergência para explorar instalação portuária em Cruzeiro do Sul/AC (abastecimento de combustível) → aprovado
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=12345s)
+- **RD 391 (2015-09-23)**, 37 · relator **Mário Povia** · Extrapauta: prorrogação do prazo de contribuições da audiência pública da norma de direitos dos usuários e infrações na navegação, de 2/10 para 30/10/ → aprovado
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=12553s)
+- **RD 392 (2015-10-22)**, 1 · relator **Mário Povia** · Processo sancionador (vista): operar na navegação de apoio sem autorização e falta de balanço auditado (res. 2510) → multa por operar sem autorização; infração do balanço insubsistente (valor final não confi
+  - votos: Adalberto: revisor_acompanha; Mário: relator; Fernando: outro · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=40s)
+- **RD 392 (2015-10-22)**, 5 · relator **Mário Povia** · Pedido de reconsideração: advertência por não comprovar operação no apoio marítimo (1º tri 2012) → negado provimento; advertência mantida
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=3569s)
+- **RD 392 (2015-10-22)**, 9 · relator **Fernando Fonseca** · Autorização/alteração de outorga para transporte de carga na região hidrográfica amazônica → aprovado
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=5222s)
+- **RD 392 (2015-10-22)**, 15 · relator **Fernando Fonseca** · Processo sancionador: não comprovar requisitos para manutenção da outorga (apoio portuário) → aprovado: multa de R$ 2.062,50 (sem cassação)
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=8902s)
+- **RD 392 (2015-10-22)**, 20 · relator **Adalberto Tokarski** · Renúncia de autorização de EBN (passageiros e misto, Amazônia) → aprovado: extinção por renúncia
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=11785s)
+- **RD 392 (2015-10-22)**, 21 · relator **Adalberto Tokarski** · Outorga de autorização: navegação de apoio portuário → aprovado
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=12064s)
+- **RD 392 (2015-10-22)**, 22 · relator **Adalberto Tokarski** · Outorga de EBN com finalidade de obter financiamento do FMM → aprovado
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=12202s)
+- **RD 392 (2015-10-22)**, 23 · relator **Adalberto Tokarski** · Outorga: carga geral na navegação interior amazônica → aprovado
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=12357s)
+- **RD 394 (2015-11-19)**, 4 · relator **Mário Povia** · Processo contencioso: perda das condições da outorga (apoio portuário sem embarcações) → aprovado: arquivamento; renúncia decidida no processo de outorga
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=764s)
+- **RD 394 (2015-11-19)**, 10 · relator **Fernando Fonseca** · Renúncia de autorização (apoio marítimo) → aprovado: extinção
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=2852s)
+- **RD 394 (2015-11-19)**, 11 · relator **Fernando Fonseca** · Renúncia de autorização (apoio marítimo) → aprovado: extinção
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=2972s)
+- **RD 394 (2015-11-19)**, 12 · relator **Fernando Fonseca** · Extinção de outorga → pedido de vista (Adalberto); voto não proferido
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=3083s)
+- **RD 394 (2015-11-19)**, 15 · relator **Fernando Fonseca** · Processo contencioso: contratar prestador de apoio portuário sem autorização → auto insubsistente; arquivamento
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=4499s)
+- **RD 394 (2015-11-19)**, 25 · relator **Adalberto Tokarski** · Outorga EBN: carga geral na Amazônia e rotas internacionais (Peru, Equador, Colômbia) → aprovado (minuta segue à PFA antes da publicação)
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=10884s)
+- **RD 394 (2015-11-19)**, 26 · relator **Adalberto Tokarski** · Outorga EBN: apoio portuário → aprovado
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=11403s)
+- **RD 394 (2015-11-19)**, 27 · relator **Adalberto Tokarski** · Outorga EBN: transporte misto Porto Velho-Manaus → aprovado
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=11561s)
+- **RD 394 (2015-11-19)**, 28 · relator **Adalberto Tokarski** · Outorga EBN: apoio marítimo → aprovado
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=11725s)
+- **RD 394 (2015-11-19)**, 29 · relator **Adalberto Tokarski** · Outorga EBN: carga geral e granel líquido na Amazônia → aprovado
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=11841s)
+- **RD 394 (2015-11-19)**, 30 · relator **Adalberto Tokarski** · Renúncia de autorização (apoio portuário) → aprovado
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=12012s)
+- **RD 394 (2015-11-19)**, 32 · relator **Fernando Fonseca** · Outorga EBN: apoio portuário (transporte de sal) → aprovado
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=12945s)
+- **RD 395 (2015-12-03)**, 3 · relator **Fernando Fonseca** · Ampliação de TUP (≈11.591 m², 10,04% da área) no contrato de adesão 51/2014; disputa de área molhada com terminal vizinho (viabilidade locacional) → aprovado o voto-vista (relator vencido)
+  - votos: Mário: revisor_diverge; Adalberto: revisor_acompanha; Fernando: vencido · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=60s)
+- **RD 395 (2015-12-03)**, 4 · relator **Fernando Fonseca** · Extinção de autorização de EBN de passageiros e misto na navegação interior Belém/PA–Santana/AP por falecimento do titular → aprovado
+  - votos: Fernando: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=976s)
+- **RD 395 (2015-12-03)**, 8 · relator **Mário Povia** · Outorga de autorização como EBN de apoio portuário (até 2.000 HP) → aprovado
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=2365s)
+- **RD 395 (2015-12-03)**, 12 · relator **Fernando Fonseca** · Renúncia de autorização de EBN de apoio portuário → aprovado
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=2795s)
+- **RD 395 (2015-12-03)**, 13 · relator **Fernando Fonseca** · Outorga de autorização de EBN para carga geral e granel sólido na navegação interior longitudinal interestadual (Amazônia) → aprovado
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=2975s)
+- **RD 395 (2015-12-03)**, 14 · relator **Fernando Fonseca** · Outorga de autorização de EBN de apoio marítimo (transporte de técnicos e tripulantes para plataformas) → aprovado
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=3239s)
+- **RD 395 (2015-12-03)**, 17 · relator **Fernando Fonseca** · Processo sancionador: exploração de instalação portuária em Manaus sem autorização → aprovado
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=4498s)
+- **RD 395 (2015-12-03)**, 21 · relator **Fernando Fonseca** · Processo sancionador: exploração de instalação portuária privada em Manaus sem autorização → pedido de vista
+  - votos: Fernando: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=7069s)
+- **RD 395 (2015-12-03)**, 25 · relator **Fernando Fonseca** · Processo sancionador: não adaptação do termo de autorização 044/2013 à Lei 12.815 → pedido de vista
+  - votos: Fernando: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=9342s)
+- **RD 395 (2015-12-03)**, 29 · relator **Adalberto Tokarski** · Outorga de autorização de EBN de apoio portuário (até 2.000 HP) → aprovado
+  - votos: Mário: acompanha; Fernando: acompanha; Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=11678s)
+- **RD 395 (2015-12-03)**, 30 · relator **Adalberto Tokarski** · Outorga de autorização de EBN de apoio portuário → aprovado
+  - votos: Mário: acompanha; Fernando: acompanha; Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=11844s)
+- **RD 395 (2015-12-03)**, 31 · relator **Adalberto Tokarski** · Renúncia de autorização de EBN de apoio marítimo (frota obsoleta) → aprovado
+  - votos: Mário: acompanha; Fernando: acompanha; Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=11978s)
+- **RD 396 (2015-12-17)**, 1 · relator **Mário Povia** · Pedido de reconsideração (com pedido de vista de Adalberto Tokarski) → vista prorrogada; não julgado
+  - votos: Adalberto: vista; Mário: relator; Fernando: outro · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=35s)
+- **RD 396 (2015-12-17)**, 4 · relator **Adalberto Tokarski** · PAS por suposta prestação de informação inverídica sobre empresa de apoio portuário; voto-vista de Fernando Fonseca → aprovado: auto insubsistente e arquivamento, com acréscimo do item C do voto-vista
+  - votos: Adalberto: relator; Fernando: revisor_acompanha; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=82s)
+- **RD 396 (2015-12-17)**, 8 · relator **Mário Povia** · PAS: terminal de Ponta da Espera (São Luís), certificado do Corpo de Bombeiros, pagamentos e ocupação → aprovado: auto parcialmente subsistente, advertência
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=2126s)
+- **RD 396 (2015-12-17)**, 10 · relator **Fernando Fonseca** · Outorga de autorização como EBN no apoio portuário (até 2000 HP), porto de Itajaí → aprovado
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=3116s)
+- **RD 396 (2015-12-17)**, 11 · relator **Fernando Fonseca** · Outorga EBN: travessia de passageiros no rio São Francisco (Penedo-AL / Neópolis-SE) → aprovado
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=3197s)
+- **RD 396 (2015-12-17)**, 25 · relator **Adalberto Tokarski** · Aditamento de termo de autorização (apoio marítimo, até 2000 HP) → aprovado
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=11692s)
+- **RD 396 (2015-12-17)**, 26 · relator **Adalberto Tokarski** · Outorga EBN: navegação interior na região amazônica e rotas internacionais (Peru, Equador, Colômbia) → aprovado
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=11848s)
+- **RD 396 (2015-12-17)**, 28 · relator **Adalberto Tokarski** · PAS: apoio portuário sem autorização em Angra dos Reis → aprovado: auto subsistente, advertência
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=12325s)
+- **RD 396 (2015-12-17)**, 30 · relator **Adalberto Tokarski** · Processo contencioso: paralisação das atividades e documentação (Res. 2510) → aprovado: arquivamento
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=13561s)
+- **RD 398 (2016-02-12)**, 2 · relator **Fernando Fonseca** · Processo administrativo sancionador: operação portuária sem autorização em instalação (ETC) no rio Paranaíba; voto-vista do Diretor-Geral → aprovado por maioria o voto-vista de Mário Povia: multa reduzida para R$ 18.900, reenquadr
+  - votos: Mário: revisor_acompanha; Fernando: revisor_acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=72s)
+- **RD 398 (2016-02-12)**, 4 · relator **Mário Povia** · Aditamento do contrato de adesão 19/2014 para ampliação da ETC Miritituba em 12.200 m² → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=1409s)
+- **RD 398 (2016-02-12)**, 5 · relator **Mário Povia** · Revisão da norma da Resolução 2510 (outorga de autorização a EBN em apoio marítimo, apoio portuário, cabotagem e longo curso) → vista de Adalberto Tokarski (relator e Fernando Fonseca já votaram pela aprovação)
+  - votos: Mário: relator; Adalberto: vista; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=1545s)
+- **RD 398 (2016-02-12)**, 13 · relator **Fernando Fonseca** · Outorga de autorização como EBN para transporte misto na navegação interior Porto Velho–Manicoré (Res. 912) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=5499s)
+- **RD 398 (2016-02-12)**, 14 · relator **Fernando Fonseca** · Outorga de autorização como EBN no apoio portuário para registro de embarcação em construção no REB, sem direito a afretamento → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=5611s)
+- **RD 398 (2016-02-12)**, 15 · relator **Fernando Fonseca** · Outorga de autorização como EBN no apoio portuário com embarcações até 2.000 HP → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=5717s)
+- **RD 398 (2016-02-12)**, 19 · relator **Fernando Fonseca** · Processo administrativo contencioso: não início de operação em 180 dias após outorga de apoio marítimo → aprovado por maioria o arquivamento; Mário Povia vencido (advertência)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=7183s)
+- **RD 398 (2016-02-12)**, 20 · relator **Fernando Fonseca** · Processo sancionador: exploração de TUP sem autorização (instalação que atende apoio portuário na Baía de Sepetiba) → aprovado por unanimidade: auto insubsistente, com proposta de TAC e articulação da SFC com
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=7929s)
+- **RD 398 (2016-02-12)**, 23 · relator **Fernando Fonseca** · Renúncia de autorização de EBN no apoio portuário → aprovado por unanimidade: extinção da autorização
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=9589s)
+- **RD 398 (2016-02-12)**, 25 · relator **Adalberto Tokarski** · Processo administrativo contencioso: transporte misto na navegação interior (Macapá–Afuá) sem autorização → aprovado por unanimidade: auto subsistente com multa (valor incerto na legenda: R$ 750 ou 
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=10301s)
+- **RD 398 (2016-02-12)**, 26 · relator **Adalberto Tokarski** · Outorga para exploração de ETC de granel líquido em Cruzeiro do Sul/AC → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=10684s)
+- **RD 398 (2016-02-12)**, 28 · relator **Adalberto Tokarski** · Processo sancionador: suposta operação de apoio portuário sem autorização (amarração/desamarração) → aprovado por unanimidade: auto insubsistente, arquivamento
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=11522s)
+- **RD 398 (2016-02-12)**, 29 · relator **Adalberto Tokarski** · Registro de instalação portuária temporária de apoio à obra do programa Amazônia Conectada → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=11826s)
+- **RD 399 (2016-03-03)**, 3 · relator **Mário Povia** · Revisão da norma de outorga de autorização de EBN (Res. 2510: apoio marítimo, apoio portuário, cabotagem, longo curso); retorno do voto-vista → aprovado conforme voto do relator (texto na íntegra), por maioria; vencido parcialmente Ad
+  - votos: Mário: relator; Adalberto: revisor_diverge; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=2143s)
+- **RD 399 (2016-03-03)**, 7 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 100 mil (regularidade operacional na cabotagem em 2013) → aprovado por unanimidade conforme voto do relator
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=3758s)
+- **RD 399 (2016-03-03)**, 10 · relator **Fernando Fonseca** · Outorga de autorização de EBN para transporte de passageiros no rio Solimões (faixa de fronteira) → aprovado por unanimidade conforme voto do relator
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=4708s)
+- **RD 399 (2016-03-03)**, 11 · relator **Fernando Fonseca** · Outorga de autorização de EBN para apoio portuário (até 2000 HP, baía de Sepetiba) → aprovado por unanimidade conforme voto do relator
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=4873s)
+- **RD 399 (2016-03-03)**, 15 · relator **Fernando Fonseca** · Processo contencioso: transporte na navegação interior sem autorização → aprovado por unanimidade conforme voto do relator
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=6023s)
+- **RD 399 (2016-03-03)**, 18 · relator **Adalberto Tokarski** · Outorga de autorização de EBN para apoio marítimo (aditivo ao termo 1053) → aprovado por unanimidade conforme voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=6503s)
+- **RD 399 (2016-03-03)**, 19 · relator **Adalberto Tokarski** · Renúncia de autorização de transporte misto Manaus–Oriximiná → aprovado por unanimidade conforme voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=6743s)
+- **RD 399 (2016-03-03)**, 20 · relator **Adalberto Tokarski** · Outorga de autorização de EBN para apoio portuário → aprovado por unanimidade conforme voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=6919s)
+- **RD 399 (2016-03-03)**, 21 · relator **Adalberto Tokarski** · Processo contencioso: transporte de passageiros e cargas sem autorização → subsistência com advertência, por maioria; relator vencido quanto ao arquivamento sem pena
+  - votos: Adalberto: vencido; Fernando: outro; Mário: outro · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=7072s)
+- **RD 399 (2016-03-03)**, 24 · relator **Adalberto Tokarski** · PAS por apoio portuário (água potável e passageiros, terminal da Braskem na baía de Guanabara) sem autorização → aprovado conforme voto do relator (unanimidade presumida)
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=8712s)
+- **RD 403 (2016-04-28)**, 4 · relator **Fernando Fonseca** · Renúncia a autorização de EBN de apoio portuário → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=83ex6xdeHiw&t=1388s)
+- **RD 403 (2016-04-28)**, 15 · relator **Adalberto Tokarski** · Pedido de reconsideração contra multa por operar apoio portuário sem autorização → aprovado por unanimidade: provimento parcial
+  - votos: Adalberto: relator; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=83ex6xdeHiw&t=6350s)
+- **RD 404 (2016-06-02)**, 3 · relator **Fernando Fonseca** · Outorga de autorização de travessia interestadual no rio São Francisco (Pão de Açúcar/AL – Porto da Folha/SE) → aprovado por unanimidade conforme voto do relator
+  - votos: Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=bKneMtT4OuQ&t=668s)
+- **RD 404 (2016-06-02)**, 4 · relator **Fernando Fonseca** · Outorga de autorização de EBN para apoio portuário e marítimo → aprovado por unanimidade conforme voto do relator
+  - votos: Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=bKneMtT4OuQ&t=901s)
+- **RD 404 (2016-06-02)**, 5 · relator **Fernando Fonseca** · Renúncia de autorização de apoio portuário obtida para financiamento do FMM → aprovado por unanimidade conforme voto do relator
+  - votos: Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=bKneMtT4OuQ&t=1047s)
+- **RD 404 (2016-06-02)**, 6 · relator **Fernando Fonseca** · Renúncia de autorização de travessia no rio Paranaíba (Davinópolis/GO – Abadia dos Dourados/MG) → aprovado por unanimidade conforme voto do relator
+  - votos: Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=bKneMtT4OuQ&t=1305s)
+- **RD 404 (2016-06-02)**, 10, 16 · relator **Adalberto Tokarski** · Outorgas de autorização de EBN (apoio portuário; apoio marítimo), em bloco → aprovado por unanimidade conforme voto do relator
+  - votos: Adalberto: relator; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=bKneMtT4OuQ&t=2713s)
+- **RD 404 (2016-06-02)**, 11-13 · relator **Adalberto Tokarski** · Outorgas de autorização de travessia em faixa de fronteira no rio Solimões (Benjamin Constant – Tabatinga), em bloco → aprovado por unanimidade conforme voto do relator
+  - votos: Adalberto: relator; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=bKneMtT4OuQ&t=2891s)
+- **RD 404 (2016-06-02)**, 14 · relator **Adalberto Tokarski** · Outorga de autorização de travessia no rio Paranaíba (Capinópolis/MG – Cachoeira Dourada/GO) → aprovado por unanimidade conforme voto do relator
+  - votos: Adalberto: relator; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=bKneMtT4OuQ&t=3045s)
+- **RD 404 (2016-06-02)**, 15 · relator **Adalberto Tokarski** · Outorga de autorização de transporte misto Manaus–Tabatinga → aprovado por unanimidade conforme voto do relator
+  - votos: Adalberto: relator; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=bKneMtT4OuQ&t=3128s)
+- **RD 404 (2016-06-02)**, 17 · relator **Adalberto Tokarski** · Renúncia de autorização de apoio marítimo → aprovado por unanimidade conforme voto do relator
+  - votos: Adalberto: relator; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=bKneMtT4OuQ&t=3220s)
+- **RD 412 (2016-11-01)**, 5 · relator **Adalberto Tokarski** · Outorga de autorização como EBN para travessia interestadual no rio São Francisco (Pão de Açúcar-AL / Niterói, Porto da Folha-SE) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=771s)
+- **RD 412 (2016-11-01)**, 6 · relator **Adalberto Tokarski** · Outorga de autorização como EBN de apoio portuário (até 2.000 HP) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=894s)
+- **RD 412 (2016-11-01)**, 7 · relator **Adalberto Tokarski** · Renúncia de outorga de finalidade específica (financiamento do FMM) — relatado em conjunto com item 8 → aprovado por unanimidade, com ciência ao MT e à Receita sugerida por Povia
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=1013s)
+- **RD 412 (2016-11-01)**, 8 · relator **Adalberto Tokarski** · Renúncia de outorga de apoio portuário e marítimo (em conjunto com item 7) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=1013s)
+- **RD 412 (2016-11-01)**, 19 · relator **Fernando Fonseca** · Processo administrativo sancionador: cais público usado para embarque de passageiros de cruzeiros sem autorização (AI 1855), com interdição cautelar e → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=4290s)
+- **RD 412 (2016-11-01)**, 20 · relator **Fernando Fonseca** · Outorga de autorização para travessia na Lagoa dos Patos (Rio Grande / São José do Norte) → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=5355s)
+- **RD 412 (2016-11-01)**, 21 · relator **Fernando Fonseca** · Outorga de autorização como EBN de apoio portuário (até 2.000 HP) → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=5453s)
+- **RD 412 (2016-11-01)**, 22 · relator **Fernando Fonseca** · Outorga de autorização como EBN de apoio portuário (até 2.000 HP) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=5534s)
+- **RD 412 (2016-11-01)**, 23 · relator **Fernando Fonseca** · Renúncia parcial: extingue a outorga de apoio portuário e mantém a de apoio marítimo → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=5818s)
+- **RD 412 (2016-11-01)**, 28 · relator **Mário Povia** · Outorga de autorização como EBN de apoio portuário (até 2.000 HP) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=7749s)
+- **RD 412 (2016-11-01)**, 29 · relator **Mário Povia** · Outorga de autorização como EBN: passageiros e cargas na navegação interior entre Manaus e Porto Velho → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=7831s)
+- **RD 412 (2016-11-01)**, 37 · relator **Adalberto Tokarski** · Referendo da Resolução Normativa 13/2016: registro de instalações de apoio ao transporte aquaviário → referendado por unanimidade
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=9467s)
+- **RD 412 (2016-11-01)**, 38 · relator **Mário Povia** · Referendo da Res. 5.035: autorização especial de emergência (180 dias) para movimentar passageiros no terminal marítimo do porto de Salvador até a ass → referendado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=10353s)
+- **RD 412 (2016-11-01)**, 55 · relator **Mário Povia** · Referendo da Res. 5.045: afretamento a tempo de porta-contêineres estrangeiro na cabotagem por 210 dias, durante docagem dos navios Log-In Jatobá e Lo → referendado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=10873s)
+- **RD 416 (2017-02-01)**, 48 · relator **Mário Povia** · Renúncia de outorga de autorização (início do item fora da gravação) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=5QSwOSILsGM&t=0s)
+- **RD 416 (2017-02-01)**, 49 · relator **Mário Povia** · Renúncia de outorga de autorização → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=5QSwOSILsGM&t=35s)
+- **RD 416 (2017-02-01)**, 50 · relator **Mário Povia** · Renúncia de outorga de autorização → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=5QSwOSILsGM&t=72s)
+- **RD 416 (2017-02-01)**, 61 · relator **Mário Povia** · Prorrogação de autorização de afretamento de embarcações estrangeiras → pedido de vista (Adalberto Tokarski)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=5QSwOSILsGM&t=2089s)
+- **RD 419 (2017-03-27)**, 4 · relator **Adalberto Tokarski** · Processo administrativo sancionador: auto de infração por permitir ocupação/exploração sem licitação da área Manaus Moderna (Porto de Manaus) → aprovado por unanimidade: auto julgado insubsistente, arquivamento sem penalidade
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dJL-tEcjJfU&t=1010s)
+- **RD 419 (2017-03-27)**, 9 · relator **Adalberto Tokarski** · Prorrogação por 180 dias do prazo do art. 18 da Resolução Normativa 13/2016 (registro de instalação de apoio ao transporte aquaviário) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dJL-tEcjJfU&t=2772s)
+- **RD 419 (2017-03-27)**, 10 · relator **Mário Povia** · Anulação de outorga de autorização de EBN → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=dJL-tEcjJfU&t=2959s)
+- **RD 419 (2017-03-27)**, 11 · relator **Mário Povia** · Registro de instalação de apoio ao transporte aquaviário (Resolução Normativa 13) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dJL-tEcjJfU&t=2982s)
+- **RD 419 (2017-03-27)**, 12 · relator **Mário Povia** · Registro de instalação de apoio ao transporte aquaviário em Manaus/AM → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dJL-tEcjJfU&t=3085s)
+- **RD 419 (2017-03-27)**, 13 · relator **Mário Povia** · Registro de instalação de apoio ao transporte aquaviário em Manaus/AM → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dJL-tEcjJfU&t=3184s)
+- **RD 420 (2017-05-09)**, 1 · relator **None** · Outorga de autorização de EBN (cabotagem e apoio marítimo); processo com pedido de vista → aprovado conforme voto do relator: indeferimento da outorga (unânime)
+  - votos: Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=53s)
+- **RD 420 (2017-05-09)**, 4 · relator **Adalberto Tokarski** · Processo administrativo contencioso por ausência de operação no TUP Juazeiro; pedido de reconsideração da multa de R$ 100 mil por descumprimento de TA → aprovado (unânime): arquivamento sem penalidade e provimento da reconsideração
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=477s)
+- **RD 420 (2017-05-09)**, 7 · relator **Adalberto Tokarski** · Processo sancionador: transbordo ship-to-ship de combustível importado na área de fundeio 3 de Manaus sem autorização; interdição cautelar → aprovado (unânime): auto insubsistente e arquivamento
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=2107s)
+- **RD 420 (2017-05-09)**, 9 · relator **Adalberto Tokarski** · Pedido de reconsideração de multa de R$ 28.562 por condições irregulares de limpeza e higiene em área explorada → aprovado (unânime): reconsideração negada
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=2900s)
+- **RD 420 (2017-05-09)**, 13 · relator **Adalberto Tokarski** · Outorga de autorização de EBN na navegação de apoio portuário (até 2.000 HP) → aprovado (unânime)
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=3667s)
+- **RD 420 (2017-05-09)**, 14 · relator **Adalberto Tokarski** · Outorga de EBN na navegação de apoio marítimo, condicionada à apresentação de embarcação em 90 dias (contrato Petrobras de mergulho raso) → aprovado (unânime)
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=3768s)
+- **RD 420 (2017-05-09)**, 15 · relator **Adalberto Tokarski** · Renúncia de outorga de autorização → aprovado (unânime)
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=4034s)
+- **RD 420 (2017-05-09)**, 23 · relator **Mário Povia** · Outorga de EBN para pré-registro de embarcação em construção no REB → aprovado (unânime)
+  - votos: Mário: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=6555s)
+- **RD 420 (2017-05-09)**, 24 · relator **Mário Povia** · Renúncia de autorização de transporte de passageiros na navegação interior (Belém-Manaus) → aprovado (unânime)
+  - votos: Mário: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=6654s)
+- **RD 420 (2017-05-09)**, 25 · relator **Mário Povia** · Renúncia de autorização de longo curso e cabotagem; diligência sobre outra outorga (FMM) → aprovado (unânime)
+  - votos: Mário: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=6746s)
+- **RD 420 (2017-05-09)**, 26 · relator **Mário Povia** · Renúncia de autorização para pré-registro no REB (navegação interior); embarcação será afretada a terceiros → aprovado (unânime)
+  - votos: Mário: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=6864s)
+- **RD 420 (2017-05-09)**, 29 · relator **Adalberto Tokarski** · Referendo da Resolução 5306 e Aviso de Audiência 4/2017: norma de esquema operacional da travessia de veículos e passageiros → referendado (unânime)
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=7800s)
+- **RD 421 (2017-05-11)**, 9 · relator **Fernando Fonseca** · Recurso contra cancelamento de autorização de afretamento de embarcação estrangeira (cabotagem; embarcação em construção) → pedido de vista de Mário Povia; decisão adiada
+  - votos: Fernando: relator; Mário: vista; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=3589s)
+- **RD 421 (2017-05-11)**, 11 · relator **Fernando Fonseca** · Outorga EBN no apoio portuário (até 2000 HP) → aprovado
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=5636s)
+- **RD 421 (2017-05-11)**, 12 · relator **Fernando Fonseca** · Renúncia a autorização de travessia interestadual (Viseu-PA / Maranhão) → aprovado: extinção da autorização por renúncia
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=5771s)
+- **RD 421 (2017-05-11)**, 17 · relator **Fernando Fonseca** · Outorga EBN no apoio portuário (até 2000 HP) → aprovado
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=7295s)
+- **RD 425 (2017-06-28)**, 4 · relator **Adalberto Tokarski** · Outorga: travessia de passageiros no rio Tapajós (BR-230, Itaituba–Miritituba/PA) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=2587s)
+- **RD 425 (2017-06-28)**, 5 · relator **Adalberto Tokarski** · Outorga: travessia no rio Tapajós (Itaituba–Miritituba) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=2675s)
+- **RD 425 (2017-06-28)**, 12 · relator **Mário Povia** · Outorga: travessia de passageiros no rio Tapajós (BR-230, Itaituba–Miritituba/PA) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=5506s)
+- **RD 425 (2017-06-28)**, 13 · relator **Mário Povia** · Outorga: travessia de passageiros no rio Tapajós (BR-230, Itaituba–Miritituba/PA) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=5586s)
+- **RD 425 (2017-06-28)**, 14 · relator **Mário Povia** · Outorga: travessia de passageiros no rio Tapajós (BR-230, Itaituba–Miritituba/PA) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=5660s)
+- **RD 425 (2017-06-28)**, 15 · relator **Mário Povia** · Outorga: travessia de passageiros no rio Tapajós (BR-230, Itaituba–Miritituba/PA) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=5715s)
+- **RD 425 (2017-06-28)**, 16 · relator **Mário Povia** · Outorga: granel líquido (combustíveis) na navegação interior e rotas Manaus–Letícia e Manaus–Iquitos → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=5775s)
+- **RD 425 (2017-06-28)**, 28 · relator **Francisval Mendes** · Outorga de autorização de EBN (julgamento em bloco dos itens 28 a 34) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=10990s)
+- **RD 425 (2017-06-28)**, 29 · relator **Francisval Mendes** · Outorga de autorização de EBN (julgamento em bloco dos itens 28 a 34) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=10990s)
+- **RD 425 (2017-06-28)**, 30 · relator **Francisval Mendes** · Outorga de autorização de EBN (julgamento em bloco dos itens 28 a 34) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=10990s)
+- **RD 425 (2017-06-28)**, 31 · relator **Francisval Mendes** · Outorga de autorização de EBN (julgamento em bloco dos itens 28 a 34) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=10990s)
+- **RD 425 (2017-06-28)**, 32 · relator **Francisval Mendes** · Outorga de autorização de EBN (julgamento em bloco dos itens 28 a 34) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=10990s)
+- **RD 425 (2017-06-28)**, 33 · relator **Francisval Mendes** · Outorga de autorização de EBN (julgamento em bloco dos itens 28 a 34) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=10990s)
+- **RD 425 (2017-06-28)**, 34 · relator **Francisval Mendes** · Outorga de autorização de EBN (julgamento em bloco dos itens 28 a 34) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=10990s)
+- **RD 425 (2017-06-28)**, 35 · relator **Francisval Mendes** · Renúncia de outorga de autorização (votado em bloco com o item 36) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=11267s)
+- **RD 425 (2017-06-28)**, 36 · relator **Francisval Mendes** · Renúncia de outorga de autorização (votado com o item 35) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=11320s)
+- **RD 422 (2017-08-23)**, 3 · relator **Adalberto Tokarski** · Processo administrativo sancionador → retirado de pauta pelo relator
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=vc-lJ1haDoQ&t=628s)
+- **RD 422 (2017-08-23)**, 7 · relator **Mário Povia** · Outorga de autorização como EBN, navegação interior de percurso interestadual (petróleo, derivados e biocombustíveis) na região hidrográfica amazônica → aprovado conforme voto do relator (unânime)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=vc-lJ1haDoQ&t=906s)
+- **RD 422 (2017-08-23)**, 8 · relator **Mário Povia** · Outorga de autorização como EBN na navegação de apoio portuário (embarcações até 2.000 HP) → aprovado conforme voto do relator (unânime)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=vc-lJ1haDoQ&t=948s)
+- **RD 422 (2017-08-23)**, 9 · relator **Mário Povia** · Outorga de autorização como EBN na navegação de apoio portuário (até 2.000 HP) → aprovado conforme voto do relator (unânime)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=vc-lJ1haDoQ&t=1011s)
+- **RD 422 (2017-08-23)**, 10 · relator **Mário Povia** · Renúncia de outorga de autorização (Termo de Autorização 1288-ANTAQ) → aprovado conforme voto do relator (unânime)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=vc-lJ1haDoQ&t=1070s)
+- **RD 422 (2017-08-23)**, 13 · relator **Mário Povia** · Extensão do prazo de circularização de embarcações estrangeiras (20 meses antes da mobilização) na licitação do trecho raso do gasoduto submarino Rota → aprovado conforme voto do relator (unânime); com correção de erro material
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=vc-lJ1haDoQ&t=1357s)
+- **RD 423 (2017-08-24)**, 5 · relator **Adalberto Tokarski** · Proposta de anulação da autorização de travessia (TA 1063) por prestar serviço exclusivo à usina SJC Bioenergia → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=T7OiOUOmJDA&t=1552s)
+- **RD 423 (2017-08-24)**, 6 · relator **Adalberto Tokarski** · Renúncia de outorga (apoio portuário) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=T7OiOUOmJDA&t=1804s)
+- **RD 423 (2017-08-24)**, 9 · relator **Mário Povia** · Outorga de autorização como EBN: carga geral na navegação interior longitudinal (Amazônia) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T7OiOUOmJDA&t=2422s)
+- **RD 423 (2017-08-24)**, 10 · relator **Mário Povia** · Outorga de autorização: passageiros e misto Macapá/AP – Portel/PA (rio Amazonas) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T7OiOUOmJDA&t=2511s)
+- **RD 423 (2017-08-24)**, 11 · relator **Mário Povia** · Autorização de travessia internacional no rio Guaporé (Costa Marques/RO – Porto Bela Vista/Bolívia) sem postos da Receita e Anvisa no local → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T7OiOUOmJDA&t=2582s)
+- **RD 427 (2017-08-24)**, 7 · relator **Adalberto Tokarski** · Outorga de autorização para operar como empresa brasileira de navegação (EBN) por prazo indeterminado (voto em bloco itens 7 e 8) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=2940s)
+- **RD 427 (2017-08-24)**, 8 · relator **Adalberto Tokarski** · Outorga de autorização para operar como empresa brasileira de navegação (EBN) por prazo indeterminado (voto em bloco itens 7 e 8) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=2940s)
+- **RD 424 (2017-08-24)**, 9 · relator **Adalberto Tokarski** · Outorga EBN: transporte misto na navegação interior Macapá-Chaves → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jqmO9Gz2tHU&t=3140s)
+- **RD 424 (2017-08-24)**, 10 · relator **Adalberto Tokarski** · Outorga EBN: carga geral na navegação interior, região amazônica → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jqmO9Gz2tHU&t=3290s)
+- **RD 423 (2017-08-24)**, 12 · relator **Mário Povia** · Proposta de anulação da autorização de travessia (TA 948) no rio Paranaíba (Itarumã/GO – Limeira do Oeste/MG) por atender só a usina → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T7OiOUOmJDA&t=3349s)
+- **RD 427 (2017-08-24)**, 11 · relator **Adalberto Tokarski** · PAS com cinco fatos: seguro, certificado de segurança, contratação de EBN não autorizada em apoio portuário, não divulgação de tabela de preços, locom → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=3433s)
+- **RD 423 (2017-08-24)**, 13 · relator **Mário Povia** · Renúncia de outorga de autorização → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T7OiOUOmJDA&t=3668s)
+- **RD 423 (2017-08-24)**, 14 · relator **Mário Povia** · Registro de instalação portuária de apoio incluindo passageiros (RN 13) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T7OiOUOmJDA&t=3763s)
+- **RD 424 (2017-08-24)**, 17 · relator **Mário Povia** · Outorga EBN travessia no rio Araguaia (Caseara-TO / Santana do Araguaia-PA) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jqmO9Gz2tHU&t=4113s)
+- **RD 423 (2017-08-24)**, 15 · relator **Mário Povia** · Registro de instalação portuária de apoio (RN 13, art. 2º, V) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T7OiOUOmJDA&t=4145s)
+- **RD 427 (2017-08-24)**, 12 · relator **Adalberto Tokarski** · PAS: suposta construção de instalação portuária (estaleiro) sem autorização em Corumbá/MS → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=4539s)
+- **RD 423 (2017-08-24)**, 21 · relator **Francisval Mendes** · Autorização de travessia na BR-230, rio Tapajós (Itaituba – Miritituba) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T7OiOUOmJDA&t=5442s)
+- **RD 424 (2017-08-24)**, 29 · relator **Francisval Mendes** · Outorga EBN apoio marítimo → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jqmO9Gz2tHU&t=5851s)
+- **RD 427 (2017-08-24)**, 19 · relator **Mário Povia** · Outorga de autorização de EBN (longo curso) - voto em bloco itens 19 a 24 → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=7507s)
+- **RD 427 (2017-08-24)**, 20 · relator **Mário Povia** · Outorga de autorização de EBN (cabotagem) - voto em bloco itens 19 a 24 → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=7507s)
+- **RD 427 (2017-08-24)**, 21 · relator **Mário Povia** · Outorga de autorização de EBN (apoio portuário com restrição de potência) - voto em bloco itens 19 a 24 → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=7507s)
+- **RD 427 (2017-08-24)**, 22 · relator **Mário Povia** · Outorga de autorização de EBN (apoio portuário) - voto em bloco itens 19 a 24 → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=7507s)
+- **RD 427 (2017-08-24)**, 23 · relator **Mário Povia** · Outorga de autorização de EBN (travessia Itaituba-Miritituba) - voto em bloco itens 19 a 24 → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=7507s)
+- **RD 427 (2017-08-24)**, 24 · relator **Mário Povia** · Outorga de autorização de EBN (apoio portuário com restrição de potência) - voto em bloco itens 19 a 24 → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=7507s)
+- **RD 427 (2017-08-24)**, 33 · relator **Mário Povia** · Processo administrativo sancionador → não deliberado: pedido de vista (diretor não identificado com certeza)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=9424s)
+- **RD 427 (2017-08-24)**, 42 · relator **Francisval Mendes** · Renúncia de outorga de autorização de EBN (apoio portuário) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=12339s)
+- **RD 427 (2017-08-24)**, 43 · relator **Francisval Mendes** · Outorga de autorização de EBN para navegação interior de travessia (voto em bloco itens 43 e 44) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=12505s)
+- **RD 427 (2017-08-24)**, 44 · relator **Francisval Mendes** · Outorga de autorização de EBN para navegação interior de travessia (voto em bloco itens 43 e 44) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=12505s)
+- **RD 428 (2017-09-13)**, 4 · relator **Adalberto Tokarski** · Alteração da Res. 1274 (autorização de travessia por EBN; sistema de desempenho da navegação e informações econômico-financeiras); envio a nova consul → aprovado por unanimidade conforme voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=1145s)
+- **RD 428 (2017-09-13)**, 9 · relator **Mário Povia** · Outorga de autorização para apoio portuário e marítimo com restrição de potência → aprovado por unanimidade conforme voto do relator
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=2460s)
+- **RD 428 (2017-09-13)**, 15-19 · relator **Mário Povia** · Renúncias de outorga de autorização (julgamento em bloco: apoio portuário, transporte misto Belém–Santana, travessia Barra do Guarita–Itapiranga) → aprovado por unanimidade conforme voto do relator
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=3656s)
+- **RD 428 (2017-09-13)**, 25 · relator **Mário Povia** · PAS por navegação de apoio portuário sem autorização (auto 2219, URE Salvador) → aprovado por unanimidade conforme voto do relator
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=4121s)
+- **RD 428 (2017-09-13)**, 26 · relator **Mário Povia** · PAS: não entrega de documentos e informação falsa no sistema de afretamento (SAMA), «venda de bandeira»; proposta de cassação → adiado: pedido de vista de Francisval Mendes após o voto do relator
+  - votos: Mário: relator; Francisval: vista; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=4356s)
+- **RD 428 (2017-09-13)**, 28 · relator **Mário Povia** · Norma sobre direitos e deveres dos usuários, agentes intermediários e empresas de navegação de apoio marítimo, apoio portuário, cabotagem e longo curs → adiado: pedido de vista após o voto do relator
+  - votos: Mário: relator; Francisval: vista; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=5779s)
+- **RD 428 (2017-09-13)**, 32 · relator **Francisval Mendes** · Outorga de autorização de EBN para apoio portuário (até 12 mil HP) → aprovado por unanimidade conforme voto do relator
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=7499s)
+- **RD 429 (2017-09-20)**, 1 · relator **Mário Povia** · Interpretação da Resolução Normativa 01/2015 (critério de tonelagem para emissão de CAF/afretamento); votos-vista → aprovado por maioria o voto-vista de Francisval Mendes (grupo de trabalho, 60 dias); Mário
+  - votos: Mário: vencido; Francisval: revisor_acompanha; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=40s)
+- **RD 429 (2017-09-20)**, 2 · relator **Mário Povia** · Processo sancionador: não envio de documentos e permissão de operação sem contrato em IP4 (Lábrea, São Raimundo) → aprovado por maioria o voto do relator: multas de R$ 17.500 e R$ 175.000; Adalberto Tokars
+  - votos: Mário: relator; Adalberto: vencido; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=367s)
+- **RD 429 (2017-09-20)**, 4 · relator **Mário Povia** · Processo sancionador (afretamento/frete pago a empresa ligada à embarcação estrangeira); voto-vista → aprovado por maioria o voto do relator (proferido anteriormente); Francisval Mendes vencid
+  - votos: Mário: relator; Francisval: vencido; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=1415s)
+- **RD 429 (2017-09-20)**, 5 · relator **Adalberto Tokarski** · Outorga de autorização como EBN no apoio portuário (até 2.000 HP) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=1673s)
+- **RD 429 (2017-09-20)**, 6 · relator **Mário Povia** · Outorga de EBN na navegação interior longitudinal (combustíveis) na região hidrográfica amazônica (julgado em conjunto com o item 7) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=1776s)
+- **RD 429 (2017-09-20)**, 7 · relator **Mário Povia** · Outorga de EBN no apoio marítimo com restrição de potência (julgado em conjunto com o item 6) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=1776s)
+- **RD 429 (2017-09-20)**, 8 · relator **Mário Povia** · Registro da instalação portuária fluvial de Cruzeiro do Sul/AC (julgado em conjunto com itens 8 a 10) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=1883s)
+- **RD 429 (2017-09-20)**, 9 · relator **Mário Povia** · Registro de instalação portuária no distrito industrial de Santana/AP (julgado em conjunto com itens 8 a 10) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=1883s)
+- **RD 429 (2017-09-20)**, 10 · relator **Mário Povia** · Registro de instalação portuária de apoio em Belém/PA (julgado em conjunto com itens 8 a 10) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=1883s)
+- **RD 429 (2017-09-20)**, 13 · relator **Mário Povia** · Recurso contra multa de R$ 137.500 por cabotagem Santos–Paranaguá sem autorização de afretamento → aprovado por unanimidade: recurso não provido
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=2548s)
+- **RD 429 (2017-09-20)**, 16 · relator **Mário Povia** · Processo sancionador: patrimônio líquido negativo (apoio portuário) e informações intempestivas → aprovado: advertência pelos fatos 1 e 2 (afastada a cassação); Francisval Mendes, ao fim d
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: vencido · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=3164s)
+- **RD 429 (2017-09-20)**, 17 · relator **Mário Povia** · Processo sancionador: não informar reparo e alienação de embarcações, operar com embarcações não cadastradas e operar sem autorização → aprovado por unanimidade: advertências (fatos 1 a 3); fato 4 insubsistente
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=3800s)
+- **RD 429 (2017-09-20)**, 18 · relator **Mário Povia** · Processo sancionador: impedir acesso dos fiscais e explorar ETC sem autorização → aprovado por unanimidade: multas de R$ 27.500 e R$ 300.000 e interdição após trânsito em j
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=4182s)
+- **RD 429 (2017-09-20)**, 32 · relator **Francisval Mendes** · Renúncia de autorização de EBN (julgado com o item 33) → aprovado por unanimidade: autorização extinta
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=9444s)
+- **RD 429 (2017-09-20)**, 33 · relator **Francisval Mendes** · Renúncia de autorização de EBN (julgado com o item 32) → aprovado por unanimidade: autorização extinta
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=9444s)
+- **RD 430 (2017-10-06)**, 1 · relator **Adalberto Tokarski** · Outorga de autorização para navegação interior de passageiros/misto na região amazônica (Pará) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=56s)
+- **RD 430 (2017-10-06)**, 7 · relator **Mário Povia** · Outorga de autorização (navegação de apoio portuário), julgado em conjunto com o item 8 → aprovado por unanimidade
+  - votos: Adalberto: acompanha; Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=1863s)
+- **RD 430 (2017-10-06)**, 8 · relator **Mário Povia** · Outorga de autorização para navegação de apoio portuário (julgado em bloco com o item 7) → aprovado por unanimidade
+  - votos: Adalberto: acompanha; Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=1906s)
+- **RD 430 (2017-10-06)**, 11 · relator **Mário Povia** · Renúncia de outorga de autorização (transporte misto na navegação interior, percurso longitudinal interestadual); julgado em bloco com o item 12 → aprovado por unanimidade
+  - votos: Adalberto: acompanha; Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=2026s)
+- **RD 430 (2017-10-06)**, 12 · relator **Mário Povia** · Renúncia de outorga de autorização (navegação de cabotagem); julgado em bloco com o item 11 → aprovado por unanimidade
+  - votos: Adalberto: acompanha; Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=2065s)
+- **RD 430 (2017-10-06)**, 21 · relator **Mário Povia** · Processo sancionador: ocupação irregular de área no porto fluvial de Ladário (embarque de bovinos) sem licitação nem autorização → aprovado por unanimidade
+  - votos: Adalberto: acompanha; Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=4851s)
+- **RD 430 (2017-10-06)**, 32 · relator **Francisval Mendes** · Outorga de autorização como EBN de apoio portuário (embarcações até 2.000 HP) → aprovado por unanimidade
+  - votos: Adalberto: acompanha; Mário: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=7829s)
+- **RD 432 (2017-11-17)**, 1 · relator **Adalberto Tokarski** · Outorga de autorização como EBN na navegação de apoio portuário (embarcações até 2.000 HP); relatado em bloco com itens 2 e 3 → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=77s)
+- **RD 432 (2017-11-17)**, 2 · relator **Adalberto Tokarski** · Outorga de autorização como EBN para travessia de passageiros na navegação interior (BR-230, rio Tapajós, Itaituba-PA) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=77s)
+- **RD 432 (2017-11-17)**, 3 · relator **Adalberto Tokarski** · Outorga de autorização como EBN na navegação de apoio portuário (até 2.000 HP), em bloco com itens 1 e 2 → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=77s)
+- **RD 432 (2017-11-17)**, 12 · relator **Mário Povia** · Outorga de autorização como EBN na navegação de apoio portuário com restrição de potência → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=3181s)
+- **RD 432 (2017-11-17)**, 13 · relator **Mário Povia** · Outorga de autorização como EBN para travessia internacional no rio Mamoré (Guajará-Mirim-RO / Guayaramerín-Bolívia) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=3257s)
+- **RD 432 (2017-11-17)**, 14 · relator **Mário Povia** · Outorga de autorização como EBN: carga geral e granel sólido na navegação interior longitudinal na região hidrográfica amazônica → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=3336s)
+- **RD 432 (2017-11-17)**, 15 · relator **Mário Povia** · Anulação de outorga de travessia de passageiros no litoral norte do Paraná (vício de competência), após consulta da AGEPAR → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=3412s)
+- **RD 432 (2017-11-17)**, 18 · relator **Mário Povia** · Processo administrativo sancionador: patrimônio líquido abaixo do mínimo para EBN de apoio marítimo (multa sugerida de R$ 35 mil; PFA cogitou cassação → aprovado por maioria (2x1), vencido Adalberto Tokarski
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=4261s)
+- **RD 432 (2017-11-17)**, 24 · relator **Mário Povia** · Revisão da cobrança tarifária (item 2.9 da tabela 3) em navios de cruzeiro que atracam em berços públicos do porto do Rio de Janeiro por excesso de de → pedido de vista de Francisval Mendes; julgamento suspenso
+  - votos: Mário: relator; Francisval: vista; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=5862s)
+- **RD 432 (2017-11-17)**, 27 · relator **Francisval Mendes** · Processo administrativo sancionador: EBN sem embarcação adequada (AI 2486); área técnica sugeriu cassação → relator vencido (2x1): prevalece advertência (Povia, acompanhado por Tokarski)
+  - votos: Francisval: vencido; Mário: outro; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=7695s)
+- **RD 432 (2017-11-17)**, 29 · relator **Francisval Mendes** · Termo aditivo para estender à matriz a outorga de autorização da filial → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=8068s)
+- **RD 432 (2017-11-17)**, 30 · relator **Francisval Mendes** · Outorga de autorização como EBN para transporte misto na navegação interior longitudinal interestadual na região amazônica (voto em bloco com item 31) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=8208s)
+- **RD 432 (2017-11-17)**, 31 · relator **Francisval Mendes** · Outorga de autorização como EBN para transporte de passageiros na navegação interior longitudinal interestadual na região amazônica (em bloco com item → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=8208s)
+- **RD 432 (2017-11-17)**, 32 · relator **Francisval Mendes** · Renúncia de outorga de autorização de apoio portuário → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=8326s)
+- **RD 432 (2017-11-17)**, 33 · relator **Francisval Mendes** · Registro de instalação de apoio ao embarque e desembarque de passageiros dentro do porto organizado de Belém (RN 13) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=8475s)
+- **RD 432 (2017-11-17)**, 37 · relator **Francisval Mendes** · Autorização especial de emergência (180 dias) para operar IP4/instalação de turismo em Balneário Camboriú-SC na temporada de cruzeiros 2017-2018 → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=9522s)
+- **RD 432 (2017-11-17)**, 40 · relator **Francisval Mendes** · Referendo da Res. 5.707: outorga plena de EBN de apoio portuário (embarcação Aliança Minuano) substituindo autorização de finalidade específica → referendado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=11198s)
+- **RD 433 (2017-11-28)**, 2 · relator **Mário Povia** · Autorização em caráter especial de emergência para movimentar farelo de soja na estação de transbordo de cargas de Itaituba por 180 dias → aprovado conforme voto-vista de Adalberto Tokarski; vencido Mário Povia
+  - votos: Mário: vencido; Adalberto: revisor_diverge; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=cu2VemB9hb8&t=840s)
+- **RD 433 (2017-11-28)**, 5 · relator **Mário Povia** · Registro de instalação portuária dentro da poligonal do porto organizado de Belém (RN 13) → aprovado (unânime)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=cu2VemB9hb8&t=2716s)
+- **RD 433 (2017-11-28)**, 8 · relator **Mário Povia** · Processo sancionador: patrimônio líquido inferior ao mínimo para EBN de apoio marítimo; divergência de tipificação → aprovado (unânime): auto anulado e nova autuação
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=cu2VemB9hb8&t=3780s)
+- **RD 433 (2017-11-28)**, 11 · relator **Francisval Mendes** · Renúncia de outorga de EBN de apoio portuário → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=cu2VemB9hb8&t=5174s)
+- **RD 433 (2017-11-28)**, 15 · relator **Francisval Mendes** · Waiver estendido por até um ano para navios ro-ro e break bulk no convênio marítimo Brasil-Chile → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=cu2VemB9hb8&t=6633s)
+- **RD 434 (2017-12-08)**, 2 · relator **Mário Povia** · Norma de direitos e deveres dos usuários, agentes intermediários e empresas de apoio marítimo, apoio portuário, cabotagem e longo curso → adiado: voto-vista de Tokarski proferido; Francisval Mendes pediu vista
+  - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=BDKgrHYQkO4&t=96s)
+- **RD 434 (2017-12-08)**, 3 · relator **Adalberto Tokarski** · Autorização para operar como EBN na navegação interior de percurso longitudinal interestadual (combustíveis) na região hidrográfica amazônica (julgado → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=BDKgrHYQkO4&t=503s)
+- **RD 434 (2017-12-08)**, 4 · relator **Adalberto Tokarski** · Autorização para operar como EBN na navegação interior (carga geral) na região amazônica (Manaus, Porto Velho, Cruzeiro do Sul, Itaituba) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=BDKgrHYQkO4&t=503s)
+- **RD 434 (2017-12-08)**, 11 · relator **Francisval Mendes** · Processo administrativo sancionador: EBN sem embarcação; outorga extinta por renúncia → pedido de vista
+  - votos: Francisval: relator; Adalberto: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=BDKgrHYQkO4&t=3997s)
+- **RD 434 (2017-12-08)**, 16 · relator **Francisval Mendes** · Extrapauta: afretamento por tempo de embarcação estrangeira (Apl Dalian, grafia incerta) na cabotagem com base no interesse público → aprovado por unanimidade (prazo possivelmente ajustado para 60 dias; trecho confuso)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BDKgrHYQkO4&t=5296s)
+- **RD 435 (2017-12-21)**, 2 · relator **Mário Povia** · Proposta de norma de direitos e deveres dos usuários e agentes intermediários na navegação de apoio marítimo, portuário, cabotagem e longo curso (voto → aprovada a minuta do relator sem as alterações do voto-vista de Adalberto Tokarski (vencid
+  - votos: Mário: relator; Adalberto: vencido; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=8pnMiGBR888&t=99s)
+- **RD 435 (2017-12-21)**, 3 · relator **Adalberto Tokarski** · Norma de critérios para acordos operacionais entre EBNs na navegação interior de percurso longitudinal interestadual e internacional → pedido de vista de Mário Povia após voto do relator; Francisval Mendes aguarda
+  - votos: Adalberto: relator; Mário: vista; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=8pnMiGBR888&t=666s)
+- **RD 435 (2017-12-21)**, 7 · relator **Mário Povia** · Outorga de autorização como EBN de apoio portuário (até 2.000 HP) → aprovado conforme voto do relator
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=8pnMiGBR888&t=2266s)
+- **RD 435 (2017-12-21)**, 11 · relator **Mário Povia** · Recurso contra negativa de certificados de liberação de carga prescrita (CLCP) para peças de UTE → aprovado conforme voto do relator (recurso conhecido e não provido)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=8pnMiGBR888&t=3327s)
+- **RD 435 (2017-12-21)**, 12 · relator **Francisval Mendes** · Outorga de autorização EBN apoio portuário (julgamento em bloco 12-14) → aprovado conforme voto do relator (bloco)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=8pnMiGBR888&t=3941s)
+- **RD 435 (2017-12-21)**, 13 · relator **Francisval Mendes** · Outorga de autorização EBN apoio portuário até 2.000 HP (bloco 12-14) → aprovado conforme voto do relator (bloco)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=8pnMiGBR888&t=3941s)
+- **RD 435 (2017-12-21)**, 14 · relator **Francisval Mendes** · Outorga de autorização para travessia de passageiros na navegação interior (bloco 12-14) → aprovado conforme voto do relator (bloco)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=8pnMiGBR888&t=3941s)
+- **RD 435 (2017-12-21)**, 15 · relator **Francisval Mendes** · Renúncia à outorga de autorização (apoio portuário) → aprovado conforme voto do relator
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=8pnMiGBR888&t=4153s)
+- **RD 435 (2017-12-21)**, 16 · relator **Francisval Mendes** · Registro de instalação portuária (bloco 16-17), Manaus → aprovado conforme voto do relator (bloco)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=8pnMiGBR888&t=4289s)
+- **RD 435 (2017-12-21)**, 17 · relator **Francisval Mendes** · Registro de instalação portuária (bloco 16-17), Belém → aprovado conforme voto do relator (bloco)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=8pnMiGBR888&t=4289s)
+- **RD 436 (2018-01-25)**, 6 · relator **Mário Povia** · Outorga de autorização para travessia interestadual de passageiros e veículos no rio Gurupi (Viseu/PA) → aprovado
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=58s)
+- **RD 436 (2018-01-25)**, 7 · relator **Mário Povia** · Outorga de autorização para transporte misto na navegação interior longitudinal Manaus–São Gabriel da Cachoeira → aprovado
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=167s)
+- **RD 436 (2018-01-25)**, 8 · relator **Mário Povia** · Renúncia a outorga de autorização → aprovado
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=252s)
+- **RD 436 (2018-01-25)**, 9 · relator **Mário Povia** · Extinção de autorização de travessia no rio Tapajós (Itaituba) cujas coordenadas estavam fora do eixo da BR-230 → aprovado
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=318s)
+- **RD 436 (2018-01-25)**, 10 · relator **Mário Povia** · Renúncia a autorização de cabotagem (finalidade de financiamento pelo FMM) → aprovado
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=507s)
+- **RD 436 (2018-01-25)**, 1 · relator **Adalberto Tokarski** · PAS por operar navegação de apoio portuário sem autorização no atendimento ao porta-aviões George Washington fundeado na Baía de Guanabara (nov/2015) → aprovado
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=1699s)
+- **RD 436 (2018-01-25)**, 5 · relator **Adalberto Tokarski** · Renúncia a autorização de navegação interior (carga geral, bacia amazônica) → aprovado
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=4535s)
+- **RD 436 (2018-01-25)**, 17 · relator **Francisval Mendes** · Outorga de autorização como EBN — navegação de apoio portuário (julgamento em bloco dos itens 17 a 21) → aprovado
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=4725s)
+- **RD 436 (2018-01-25)**, 18 · relator **Francisval Mendes** · Outorga de autorização como EBN — navegação de apoio portuário (julgamento em bloco dos itens 17 a 21) → aprovado
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=4725s)
+- **RD 436 (2018-01-25)**, 19 · relator **Francisval Mendes** · Outorga de autorização como EBN — navegação de apoio portuário (julgamento em bloco dos itens 17 a 21) → aprovado
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=4725s)
+- **RD 436 (2018-01-25)**, 20 · relator **Francisval Mendes** · Outorga de autorização como EBN — navegação de apoio portuário (julgamento em bloco dos itens 17 a 21) → aprovado
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=4725s)
+- **RD 436 (2018-01-25)**, 21 · relator **Francisval Mendes** · Outorga de autorização como EBN — navegação de travessia (passageiros) (julgamento em bloco dos itens 17 a 21) → aprovado
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=4725s)
+- **RD 436 (2018-01-25)**, 23 · relator **Francisval Mendes** · Consulta sobre tarifa para o modal hidroviário (barcaças) no porto organizado de Santos → aprovado
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=5085s)
+- **RD 436 (2018-01-25)**, 30 · relator **Francisval Mendes** · Liberação excepcional para transportar óleo de palma com embarcação estrangeira afretada autorizada só para hidrocarbonetos/biocombustíveis (cabotagem → aprovado (não autoriza)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=8728s)
+- **RD 436 (2018-01-25)**, 31 · relator **Francisval Mendes** · Afretamento por tempo do navio estrangeiro Aliança Santos na cabotagem durante a docagem de quatro navios próprios → aprovado (indefere)
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=9669s)
+- **RD 437 (2018-02-15)**, 2 · relator **Mário Povia** · Recurso administrativo contra decisão da GAF que não reconheceu certificado de liberação de carga prescrita (CLCP) para cargas da usina termelétrica a → pedido de vista (Francisval Mendes); não concluído
+  - votos: Mário: relator; Adalberto: revisor_diverge; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=0zgpRZrJ6hw&t=146s)
+- **RD 437 (2018-02-15)**, 3 · relator **Francisval Mendes** · Processo administrativo sancionador; autorização extinta por renúncia da interessada (Res. 578) → arquivado por perda de objeto, por maioria (Povia vencido)
+  - votos: Francisval: relator; Mário: vencido; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=0zgpRZrJ6hw&t=628s)
+- **RD 437 (2018-02-15)**, 5 · relator **Adalberto Tokarski** · Consulta sobre enquadramento da navegação de apoio a operações ship to ship (afretamento de embarcação estrangeira) → pedido de vista (Francisval Mendes); Povia aguarda
+  - votos: Adalberto: relator; Francisval: vista; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=0zgpRZrJ6hw&t=1350s)
+- **RD 437 (2018-02-15)**, 6 · relator **Adalberto Tokarski** · Autorização de estação de transbordo de carga (ETC) de granéis líquidos em Porto Velho (RO); reconhece possibilidade de contrato de adesão com o MTPA → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0zgpRZrJ6hw&t=2314s)
+- **RD 437 (2018-02-15)**, 9 · relator **Adalberto Tokarski** · Renúncia à autorização de EBN (apoio marítimo e portuário), Vila Velha (ES) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0zgpRZrJ6hw&t=4969s)
+- **RD 437 (2018-02-15)**, 10 · relator **Adalberto Tokarski** · Outorga de autorização de EBN para apoio portuário com embarcações até 2.000 HP → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0zgpRZrJ6hw&t=5158s)
+- **RD 437 (2018-02-15)**, 11 · relator **Adalberto Tokarski** · Registro de instalação portuária Porto Brilhante, Belém (PA), para apoio a embarque/desembarque de cargas e passageiros (RN 13) → pedido de vista (Francisval Mendes); Povia aguarda
+  - votos: Adalberto: relator; Francisval: vista; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=0zgpRZrJ6hw&t=5315s)
+- **RD 437 (2018-02-15)**, 14 · relator **Mário Povia** · Renúncia a autorização de EBN → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0zgpRZrJ6hw&t=5766s)
+- **RD 437 (2018-02-15)**, 15 · relator **Mário Povia** · Outorga de autorização para travessia interestadual de passageiros no rio Tocantins (Filadélfia-TO / Carolina-MA) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0zgpRZrJ6hw&t=5875s)
+- **RD 437 (2018-02-15)**, 16 · relator **Mário Povia** · Enquadramento de navio-sonda na RN 01 (afretamento) → pedido de vista (Francisval Mendes); não votado
+  - votos: Francisval: vista · [vídeo](https://www.youtube.com/watch?v=0zgpRZrJ6hw&t=5976s)
+- **RD 437 (2018-02-15)**, 19 · relator **Francisval Mendes** · Outorga de autorização para transporte misto na navegação interior longitudinal interestadual Parintins (AM)–Santarém (PA) → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=0zgpRZrJ6hw&t=8652s)
+- **RD 437 (2018-02-15)**, 23 (extrapauta) · relator **Mário Povia** · Outorga de autorização para travessia interestadual no rio Gurupi (Cachoeira do Piriá-PA / Centro Novo do Maranhão-MA); extrapauta por urgência → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0zgpRZrJ6hw&t=8918s)
+- **RD 438 (2018-02-23)**, 1 · relator **Mário Povia** · Recurso administrativo contra decisão da Gerência de Afretamento da Navegação que negou certificado de liberação de carga prescrita (processo com vist → aprovado conforme o relator (recurso conhecido e não provido)
+  - votos: Mário: relator; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=uzhRnDP20Bw&t=27s)
+- **RD 438 (2018-02-23)**, 2 · relator **Mário Povia** · Outorga de autorização com finalidade específica de pré-registro no REB de embarcação em construção em estaleiro brasileiro, sem direito a afretamento → aprovado (unânime)
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=uzhRnDP20Bw&t=158s)
+- **RD 438 (2018-02-23)**, 3 · relator **Mário Povia** · Outorga de autorização EBN para travessia de passageiros no rio Tocantins entre Filadélfia (TO) e Carolina (MA) → aprovado (unânime)
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=uzhRnDP20Bw&t=242s)
+- **RD 438 (2018-02-23)**, 4 · relator **Mário Povia** · Outorga de autorização EBN para travessia de passageiros no rio Tocantins entre Filadélfia (TO) e Carolina (MA) → aprovado (unânime)
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=uzhRnDP20Bw&t=315s)
+- **RD 438 (2018-02-23)**, 5 · relator **Mário Povia** · Outorga de autorização EBN para transporte de carga geral, granéis líquidos, biocombustíveis e derivados na navegação interior longitudinal na região  → aprovado (unânime)
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=uzhRnDP20Bw&t=381s)
+- **RD 438 (2018-02-23)**, 12 · relator **Francisval Mendes** · Outorga de autorização EBN para travessia de passageiros no rio Parnaíba entre Ilha Grande (PI) e Araioses (MA) (julgamento em bloco dos itens 12 a 14 → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uzhRnDP20Bw&t=3116s)
+- **RD 438 (2018-02-23)**, 13 · relator **Francisval Mendes** · Outorga de autorização EBN para travessia de passageiros no rio Tocantins entre Filadélfia (TO) e Carolina (MA) (julgamento em bloco dos itens 12 a 14 → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uzhRnDP20Bw&t=3116s)
+- **RD 438 (2018-02-23)**, 14 · relator **Francisval Mendes** · Outorga de autorização EBN para travessia de passageiros no rio Tocantins entre Filadélfia (TO) e Carolina (MA) (julgamento em bloco dos itens 12 a 14 → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uzhRnDP20Bw&t=3116s)
+- **RD 438 (2018-02-23)**, 15 · relator **Francisval Mendes** · Renúncia parcial de outorga EBN: exclusão do apoio marítimo, mantendo apoio portuário → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uzhRnDP20Bw&t=3161s)
+- **RD 438 (2018-02-23)**, 16 · relator **Francisval Mendes** · Pedido de renúncia de outorga para pré-registro no REB; relator aplica revogação → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uzhRnDP20Bw&t=3355s)
+- **RD 438 (2018-02-23)**, 17 · relator **Francisval Mendes** · Anulação de outorga (portaria de 2000) para travessias no litoral norte do Paraná (Ilha do Mel, Paranaguá, Guaraqueçaba, Antonina) → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uzhRnDP20Bw&t=3740s)
+- **RD 439 (2018-03-14)**, 19 · relator **Francisval Mendes** · Renúncia de autorização de EBN (TA 747) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=4194s)
+- **RD 439 (2018-03-14)**, 20 · relator **Francisval Mendes** · Consulta sobre gratuidade de travessias (BR-230 Humaitá e BR-364 Porto Velho) para veículos oficiais (ex.: SESAI) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=4362s)
+- **RD 439 (2018-03-14)**, 27 · relator **Francisval Mendes** · Consulta sobre enquadramento da navegação de apoio a operações ship to ship (voto-vista após relatoria de Tokarski) → aprovado por unanimidade
+  - votos: Francisval: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=6335s)
+- **RD 439 (2018-03-14)**, 40 (extrapauta) · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (RN 13/2016) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=7976s)
+- **RD 439 (2018-03-14)**, 41 (extrapauta) · relator **Francisval Mendes** · Outorga de autorização de EBN para cargas na navegação interior longitudinal nos rios Madeira e Amazonas → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=8180s)
+- **RD 440 (2018-04-09)**, 1 · relator **Mário Povia** · Outorga de autorização como EBN — travessia de veículos no rio Parnaíba (Luzilândia/PI–Magalhães de Almeida/MA) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=EkNILU6-1gU&t=33s)
+- **RD 440 (2018-04-09)**, 2 · relator **Mário Povia** · Atestado de tonelagem para inscrição de embarcação estrangeira no REB (apoio marítimo) → aprovado por unanimidade: extinção por perda de objeto
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=EkNILU6-1gU&t=127s)
+- **RD 440 (2018-04-09)**, 15 · relator **Francisval Mendes** · Outorga de autorização como EBN — passageiros na travessia Carolina/MA–Filadélfia/TO; julgado em bloco (itens 15 e 16) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=EkNILU6-1gU&t=4074s)
+- **RD 440 (2018-04-09)**, 16 · relator **Francisval Mendes** · Outorga de autorização como EBN — apoio portuário até 2.000 HP (legenda incerta); julgado em bloco (itens 15 e 16) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=EkNILU6-1gU&t=4074s)
+- **RD 440 (2018-04-09)**, 17 · relator **Francisval Mendes** · Renúncia de outorga de autorização; julgado em bloco (itens 17 e 18) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=EkNILU6-1gU&t=4297s)
+- **RD 440 (2018-04-09)**, 18 · relator **Francisval Mendes** · Renúncia de outorga de autorização; julgado em bloco (itens 17 e 18) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=EkNILU6-1gU&t=4297s)
+- **RD 442 (2018-05-07)**, 1 · relator **Mário Povia** · Outorga de autorização como EBN no apoio portuário com restrição de potência → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=39s)
+- **RD 442 (2018-05-07)**, 2 · relator **Mário Povia** · Outorga de autorização como EBN no apoio portuário com restrição de potência → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=77s)
+- **RD 442 (2018-05-07)**, 3 · relator **Mário Povia** · Autorização para transporte de passageiros na navegação interior de travessia (BR-230, rio Tapajós, Itaituba–Miritituba) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=110s)
+- **RD 442 (2018-05-07)**, 7 · relator **Mário Povia** · Renúncia de outorga de autorização (EBN) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=506s)
+- **RD 442 (2018-05-07)**, 8 · relator **Mário Povia** · Renúncia de outorga de autorização (EBN) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=622s)
+- **RD 442 (2018-05-07)**, 15 · relator **Mário Povia** · Processo sancionador: não fornecimento de documentos à fiscalização (regional de Manaus) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=1744s)
+- **RD 442 (2018-05-07)**, 20 · relator **Francisval Mendes** · Renúncia de outorga de autorização (julgamento em bloco dos itens 20 a 25) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=3323s)
+- **RD 442 (2018-05-07)**, 21 · relator **Francisval Mendes** · Renúncia de outorga de autorização (julgamento em bloco dos itens 20 a 25) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=3323s)
+- **RD 442 (2018-05-07)**, 22 · relator **Francisval Mendes** · Renúncia de outorga de autorização (julgamento em bloco dos itens 20 a 25) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=3323s)
+- **RD 442 (2018-05-07)**, 23 · relator **Francisval Mendes** · Renúncia de outorga de autorização (julgamento em bloco dos itens 20 a 25) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=3323s)
+- **RD 442 (2018-05-07)**, 24 · relator **Francisval Mendes** · Renúncia de outorga de autorização (julgamento em bloco dos itens 20 a 25) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=3323s)
+- **RD 442 (2018-05-07)**, 25 · relator **Francisval Mendes** · Renúncia de outorga de autorização (julgamento em bloco dos itens 20 a 25) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=3323s)
+- **RD 442 (2018-05-07)**, 26 · relator **Francisval Mendes** · Outorga de autorização como EBN (RN 5/2016) – julgados em bloco itens 26 e 27 → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=3497s)
+- **RD 442 (2018-05-07)**, 27 · relator **Francisval Mendes** · Outorga de autorização como EBN (RN 5/2016) – julgados em bloco itens 26 e 27 → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=3497s)
+- **RD 442 (2018-05-07)**, 31 · relator **Francisval Mendes** · Pedido de reconsideração de indeferimento de afretamento a tempo de embarcação estrangeira na cabotagem (Res. 5887) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=4526s)
+- **RD 442 (2018-05-07)**, 35 · relator **Francisval Mendes** · Processo sancionador: retardar fornecimento de documentos à fiscalização (regional de Manaus) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=5342s)
+- **RD 25 (extraordinária) (2018-05-11)**, 2 · relator **Mário Povia** · Consulta sobre afretamento por tempo de graneleiros e químicos por menos de 12 meses no acordo bilateral Brasil-Argentina → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PmJmgy9Diw8&t=1857s)
+- **RD 25 (extraordinária) (2018-05-11)**, 5 · relator **Mário Povia** · Autorização para travessia de passageiros na BR-319 sobre os rios Negro e Solimões (Manaus - Careiro da Várzea) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PmJmgy9Diw8&t=2744s)
+- **RD 25 (extraordinária) (2018-05-11)**, 11 · relator **Francisval Mendes** · Autorização como EBN no apoio portuário (embarcações até 12 mil HP) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=PmJmgy9Diw8&t=4410s)
+- **RD 25 (extraordinária) (2018-05-11)**, 12 · relator **Francisval Mendes** · Anulação de outorga de travessias nas baías do litoral do Paraná (portaria de 1999) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=PmJmgy9Diw8&t=4491s)
+- **RD 443 (2018-05-21)**, 1 · relator **Mário Povia** · Outorga de autorização de EBN para apoio marítimo com embarcações até 2.000 HP → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=ONQS9tY_zWg&t=39s)
+- **RD 443 (2018-05-21)**, 2 · relator **Mário Povia** · Renúncia de autorização de EBN (TA 1096) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=ONQS9tY_zWg&t=105s)
+- **RD 443 (2018-05-21)**, 10 · relator **Francisval Mendes** · Outorga de autorização de EBN (julgado em conjunto itens 10 e 11) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ONQS9tY_zWg&t=3718s)
+- **RD 443 (2018-05-21)**, 11 · relator **Francisval Mendes** · Outorga de autorização de EBN (julgado em conjunto itens 10 e 11) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ONQS9tY_zWg&t=3718s)
+- **RD 443 (2018-05-21)**, 12 · relator **Francisval Mendes** · Renúncia de autorização de transporte misto Manaus–Porto Velho (TA 1364) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ONQS9tY_zWg&t=3815s)
+- **RD 443 (2018-05-21)**, 13 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (RN 13/2016) → indeferido, por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ONQS9tY_zWg&t=4004s)
+- **RD 444 (2018-06-07)**, 1 · relator **Mário Povia** · Autorização como EBN na navegação interior de percurso longitudinal interestadual (carga geral, granéis sólidos, contêineres) na região hidrográfica a → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=1pfiJgrovVc&t=29s)
+- **RD 444 (2018-06-07)**, 2 · relator **Mário Povia** · Autorização como EBN na navegação interior de percurso longitudinal na região hidrográfica amazônica → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=1pfiJgrovVc&t=106s)
+- **RD 444 (2018-06-07)**, 3 · relator **Mário Povia** · Anulação de outorga de travessias nas baías do litoral norte do Paraná (portaria de 1999) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=1pfiJgrovVc&t=164s)
+- **RD 444 (2018-06-07)**, 7 · relator **Francisval Mendes** · Autorização como EBN no apoio portuário → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=1pfiJgrovVc&t=1723s)
+- **RD 444 (2018-06-07)**, 8 · relator **Francisval Mendes** · Renúncia de autorização de passageiros e misto na navegação interior (Macapá - Pará) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=1pfiJgrovVc&t=1829s)
+- **RD 445 (2018-06-20)**, 1 · relator **Mário Povia** · Outorga de autorização de EBN: travessia no rio São Francisco entre Pão de Açúcar/AL e Porto da Folha/SE → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=36s)
+- **RD 445 (2018-06-20)**, 2 · relator **Mário Povia** · Outorga de autorização de EBN: travessia na diretriz da BR-319 entre Borba/AM e Manicoré/AM → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=120s)
+- **RD 445 (2018-06-20)**, 3 · relator **Mário Povia** · Outorga de autorização de EBN para apoio marítimo (embarcações até 2.000 HP) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=192s)
+- **RD 445 (2018-06-20)**, 4 · relator **Mário Povia** · Renúncia de outorga de autorização em razão do falecimento do titular → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=248s)
+- **RD 445 (2018-06-20)**, 12 · relator **Mário Povia** · Pedido de reconsideração → não deliberado: pedido de vista de Adalberto Tokarski
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=2189s)
+- **RD 445 (2018-06-20)**, 21 · relator **Francisval Mendes** · Renúncia de outorga de EBN (travessia Itaituba-Miritituba, rio Tapajós) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=6478s)
+- **RD 445 (2018-06-20)**, 22 · relator **Francisval Mendes** · Outorga de autorização de EBN para navegação interior de travessia (voto em bloco itens 22 a 24) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=6676s)
+- **RD 445 (2018-06-20)**, 23 · relator **Francisval Mendes** · Outorga de autorização de EBN para navegação interior de travessia (voto em bloco itens 22 a 24) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=6676s)
+- **RD 445 (2018-06-20)**, 24 · relator **Francisval Mendes** · Outorga de autorização de EBN para navegação interior de travessia (voto em bloco itens 22 a 24) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=6676s)
+- **RD 445 (2018-06-20)**, 28 · relator **Adalberto Tokarski** · Outorga de autorização de EBN (voto em bloco itens 28 e 29) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=7899s)
+- **RD 445 (2018-06-20)**, 29 · relator **Adalberto Tokarski** · Outorga de autorização de EBN (voto em bloco itens 28 e 29) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=7899s)
+- **RD 446 (2018-06-29)**, 1 · relator **Adalberto Tokarski** · Norma de acordos operacionais entre EBNs na navegação interior longitudinal (vista de Povia) → aprovado por unanimidade
+  - votos: Mário: revisor_diverge; Adalberto: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=-L7gcXUMaxY&t=33s)
+- **RD 446 (2018-06-29)**, 5 · relator **Mário Povia** · Outorga EBN travessia rio Tocantins (Carolina-MA / Filadélfia-TO) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-L7gcXUMaxY&t=436s)
+- **RD 446 (2018-06-29)**, 17 · relator **Francisval Mendes** · Anulação de outorga de travessia no litoral norte do Paraná (vício de competência) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-L7gcXUMaxY&t=3806s)
+- **RD 446 (2018-06-29)**, 18-19 · relator **Francisval Mendes** · Renúncia de outorgas EBN (bloco) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-L7gcXUMaxY&t=3949s)
+- **RD 446 (2018-06-29)**, 20-21 · relator **Francisval Mendes** · Outorgas EBN: travessia no Tapajós (Itaituba-Miritituba) e apoio portuário (bloco) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-L7gcXUMaxY&t=4122s)
+- **RD 446 (2018-06-29)**, 26-28 · relator **Adalberto Tokarski** · Renúncia de outorgas EBN (bloco) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=-L7gcXUMaxY&t=5525s)
+- **RD 446 (2018-06-29)**, 29 · relator **Adalberto Tokarski** · Extinção de outorga (pré-registro REB) após conclusão das embarcações → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=-L7gcXUMaxY&t=5700s)
+- **RD 446 (2018-06-29)**, 30-31 · relator **Adalberto Tokarski** · Outorgas EBN travessia (bloco) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=-L7gcXUMaxY&t=5918s)
+- **RD 447 (2018-08-09)**, 5 · relator **Mário Povia** · Consulta sobre competência para autorizar transporte aquaviário de passageiros e terminal/trapiche no aterro da Baía Sul (Florianópolis) → aprovado, unânime
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=2465s)
+- **RD 447 (2018-08-09)**, 6 · relator **Mário Povia** · Renúncia de outorga de autorização de empresa brasileira de navegação (julgamento em bloco dos itens 6 a 9) → aprovado, unânime (extinção da autorização)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=2980s)
+- **RD 447 (2018-08-09)**, 7 · relator **Mário Povia** · Renúncia de outorga de autorização de empresa brasileira de navegação (julgamento em bloco dos itens 6 a 9) → aprovado, unânime (extinção da autorização)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=2980s)
+- **RD 447 (2018-08-09)**, 8 · relator **Mário Povia** · Renúncia de outorga de autorização de empresa brasileira de navegação (julgamento em bloco dos itens 6 a 9) → aprovado, unânime (extinção da autorização)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=2980s)
+- **RD 447 (2018-08-09)**, 9 · relator **Mário Povia** · Renúncia de outorga de autorização de empresa brasileira de navegação (julgamento em bloco dos itens 6 a 9) → aprovado, unânime (extinção da autorização)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=2980s)
+- **RD 447 (2018-08-09)**, 10 · relator **Mário Povia** · PAS: auto de infração 21-9 (2016), patrimônio líquido inferior ao exigido no exercício 2014; julgado em conjunto com o outro item → aprovado, unânime: advertência (em vez de cassação)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=3083s)
+- **RD 447 (2018-08-09)**, 11 · relator **Mário Povia** · PAS: auto de infração 1161-4 (2014): fatos 1 e 2 (afretamento não comprovado, informações) e fato 3 (patrimônio líquido negativo no exercício 2013); j → aprovado, unânime: advertência (em vez de cassação)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=3083s)
+- **RD 447 (2018-08-09)**, 15 · relator **Francisval Mendes** · PAS: operar navegação de apoio portuário sem autorização → aprovado, unânime: multa de R$ 175 mil e manutenção da interdição cautelar
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=5008s)
+- **RD 447 (2018-08-09)**, 18 · relator **Francisval Mendes** · PAS: falta de apresentação de documentos (fatos 1 a 3) → aprovado, unânime: advertência (fato 1), multa de R$ 612,50 (fato 3), fato 2 anulado, cass
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=6244s)
+- **RD 447 (2018-08-09)**, 23 · relator **Francisval Mendes** · Outorga de autorização de EBN: travessia interestadual de passageiros no rio Tocantins (Filadélfia/TO–Carolina/MA) (votado em bloco com o outro item) → aprovado, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=8193s)
+- **RD 447 (2018-08-09)**, 24 · relator **Francisval Mendes** · Outorga de autorização de EBN: carga geral na navegação interior Manaus–Porto Velho e Manaus–Peru (votado em bloco com o outro item) → aprovado, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=8193s)
+- **RD 447 (2018-08-09)**, 29 · relator **Francisval Mendes** · Registro de instalação portuária de apoio ao transporte aquaviário (RN 13, art. 2º, V) → aprovado, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=9492s)
+- **RD 447 (2018-08-09)**, 34 · relator **Francisval Mendes** · Interpretação do Acordo de Transporte Marítimo Brasil–Argentina (Decreto 99.040/90): abrangência sobre cargas de baldeação/transbordo → aprovado, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=11041s)
+- **RD 447 (2018-08-09)**, 37 · relator **Adalberto Tokarski** · Outorga de autorização de empresa brasileira de navegação (bloco itens 37 a 42) → aprovado, unânime
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=12073s)
+- **RD 447 (2018-08-09)**, 38 · relator **Adalberto Tokarski** · Outorga de autorização de empresa brasileira de navegação (bloco itens 37 a 42) → aprovado, unânime
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=12073s)
+- **RD 447 (2018-08-09)**, 39 · relator **Adalberto Tokarski** · Outorga de autorização de empresa brasileira de navegação (bloco itens 37 a 42) → aprovado, unânime
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=12073s)
+- **RD 447 (2018-08-09)**, 40 · relator **Adalberto Tokarski** · Outorga de autorização de empresa brasileira de navegação (bloco itens 37 a 42) → aprovado, unânime
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=12073s)
+- **RD 447 (2018-08-09)**, 41 · relator **Adalberto Tokarski** · Outorga de autorização de empresa brasileira de navegação (bloco itens 37 a 42) → aprovado, unânime
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=12073s)
+- **RD 447 (2018-08-09)**, 42 · relator **Adalberto Tokarski** · Outorga de autorização de empresa brasileira de navegação (bloco itens 37 a 42) → aprovado, unânime
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=12073s)
+- **RD 447 (2018-08-09)**, 43 · relator **Adalberto Tokarski** · Renúncia de outorga de autorização de EBN (bloco 43 e 44) → aprovado, unânime
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=12233s)
+- **RD 447 (2018-08-09)**, 44 · relator **Adalberto Tokarski** · Renúncia de outorga de autorização de EBN (bloco 43 e 44) → aprovado, unânime
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=12233s)
+- **RD 447 (2018-08-09)**, 65 (extrapauta) · relator **Francisval Mendes** · Afretamento por tempo de embarcação estrangeira na cabotagem durante docagem obrigatória → indeferido, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=12608s)
+- **RD 448 (2018-08-31)**, 4 · relator **None** · Processo com pedido de vista (assunto não lido) → adiado (vista pendente)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=666s)
+- **RD 448 (2018-08-31)**, 7 · relator **Mário Povia** · Processo sancionador: ocupação e exploração irregular de área do porto público de Ladário (movimentação de bovinos); TAC inviável → aprovado (unânime): advertência
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=991s)
+- **RD 448 (2018-08-31)**, 8 · relator **Mário Povia** · Outorga de autorização de EBN na navegação de apoio portuário (embarcações até 2.000 HP) → aprovado (unânime)
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=1471s)
+- **RD 448 (2018-08-31)**, 16 · relator **Francisval Mendes** · Pedido de reconsideração de multa de R$ 31.500 por patrimônio líquido inferior ao mínimo (RN 2510) → aprovado (unânime): multa convertida em advertência
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=3746s)
+- **RD 448 (2018-08-31)**, 19 · relator **Francisval Mendes** · Outorga de autorização de EBN na navegação de apoio portuário (julgado em bloco com o item 25) → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=4171s)
+- **RD 448 (2018-08-31)**, 25 · relator **Francisval Mendes** · Outorga de autorização de EBN na navegação de apoio portuário até 2.000 HP (julgado em bloco com o item 19) → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=4279s)
+- **RD 448 (2018-08-31)**, 26 · relator **Adalberto Tokarski** · Outorga de EBN para obter financiamento do Fundo da Marinha Mercante e pré-registro no REB → aprovado (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=5794s)
+- **RD 448 (2018-08-31)**, 27 · relator **Adalberto Tokarski** · Outorga de EBN na navegação de apoio (até 2.000 HP) → aprovado (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=5955s)
+- **RD 448 (2018-08-31)**, 32 · relator **Adalberto Tokarski** · Processo sancionador: cessar operação sem comunicar a ANTAQ (RN 2510); cassação proposta pela regional afastada → aprovado (unânime): advertência
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=6675s)
+- **RD 449 (2018-09-25)**, 4 · relator **None** · Consulta sobre modalidades de navegação (relatoria herdada de Fernando Fonseca; vista de Francisval Mendes) → não deliberado (vista; voto não proferido)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=787s)
+- **RD 449 (2018-09-25)**, 5 · relator **Mário Povia** · Processo administrativo sancionador (vistas de Tokarski e Francisval) → não deliberado (vistas pendentes)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=817s)
+- **RD 449 (2018-09-25)**, 11 · relator **Mário Povia** · Outorga de autorização como EBN no apoio marítimo (embarcações até 2.000 HP) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=918s)
+- **RD 449 (2018-09-25)**, 12 · relator **Mário Povia** · Outorga de autorização como EBN no apoio portuário (até 2.000 HP) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=975s)
+- **RD 449 (2018-09-25)**, 13 · relator **Mário Povia** · Registro de instalação portuária: flutuante de apoio para embarque e desembarque de tripulantes em Juruti-PA → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=1022s)
+- **RD 449 (2018-09-25)**, 19 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 168 mil por ocupar área no porto de Estrela sem contrato válido → aprovado por unanimidade (nega provimento)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=2501s)
+- **RD 449 (2018-09-25)**, 29 · relator **Mário Povia** · Consulta: inscrição no Cadin impede outorga de EBN? → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=6356s)
+- **RD 449 (2018-09-25)**, 31 · relator **Mário Povia** · Portaria de delegação ao superintendente de regulação para alterar o esquema operacional da travessia (Res. 5573, art. 12) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=7815s)
+- **RD 449 (2018-09-25)**, 36 · relator **Francisval Mendes** · Recurso hierárquico impróprio contra multa de R$ 27.500 → aprovado por unanimidade (não conhecido)
+  - votos: Mário: acompanha; Adalberto: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=9460s)
+- **RD 449 (2018-09-25)**, 39 · relator **Francisval Mendes** · Outorga de autorização: travessia interestadual de passageiros no rio Tocantins (Filadélfia-TO / Carolina-MA) (bloco 39 a 41) → aprovado por unanimidade
+  - votos: Mário: acompanha; Adalberto: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=9853s)
+- **RD 449 (2018-09-25)**, 40 · relator **Francisval Mendes** · Outorga de autorização: navegação interior longitudinal interestadual na região amazônica (Pará / Parintins-AM) (bloco 39 a 41) → aprovado por unanimidade
+  - votos: Mário: acompanha; Adalberto: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=9863s)
+- **RD 449 (2018-09-25)**, 41 · relator **Francisval Mendes** · Outorga de autorização: passageiros na navegação interior Manaus–Tabatinga (bloco 39 a 41) → aprovado por unanimidade
+  - votos: Mário: acompanha; Adalberto: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=9863s)
+- **RD 449 (2018-09-25)**, 42 · relator **Francisval Mendes** · Anulação de outorga de travessia nas baías do litoral norte do Paraná → aprovado por unanimidade
+  - votos: Mário: acompanha; Adalberto: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=10093s)
+- **RD 449 (2018-09-25)**, 43 · relator **Francisval Mendes** · Renúncia de outorga de apoio portuário (bloco 43-44) → aprovado por unanimidade
+  - votos: Mário: acompanha; Adalberto: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=10249s)
+- **RD 449 (2018-09-25)**, 44 · relator **Francisval Mendes** · Renúncia de outorga de apoio portuário (bloco 43-44) → aprovado por unanimidade
+  - votos: Mário: acompanha; Adalberto: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=10249s)
+- **RD 449 (2018-09-25)**, 45 · relator **Francisval Mendes** · Registro de instalação de apoio (Porto do Camará, Salvaterra-PA) → aprovado por unanimidade
+  - votos: Mário: acompanha; Adalberto: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=10430s)
+- **RD 449 (2018-09-25)**, 47 · relator **Francisval Mendes** · Autorização especial de emergência (30 dias) na travessia Manaus–Careiro da Várzea → aprovado por unanimidade (prejudicado)
+  - votos: Mário: acompanha; Adalberto: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=10840s)
+- **RD 449 (2018-09-25)**, 51 · relator **Francisval Mendes** · Afretamento de cabotagem (tonelagem); pedido de vista de Mário Povia → pedido de vista
+  - votos: Mário: vista · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=11167s)
+- **RD 449 (2018-09-25)**, 59 · relator **Adalberto Tokarski** · Outorga de autorização de apoio portuário (bloco 59-60) → aprovado por unanimidade
+  - votos: Mário: acompanha; Adalberto: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=13777s)
+- **RD 449 (2018-09-25)**, 60 · relator **Adalberto Tokarski** · Outorga de autorização de carga geral na navegação interior (bloco 59-60) → aprovado por unanimidade
+  - votos: Mário: acompanha; Adalberto: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=13777s)
+- **RD 449 (2018-09-25)**, 61 · relator **Adalberto Tokarski** · Renúncia de outorga de apoio marítimo e portuário → aprovado por unanimidade
+  - votos: Mário: acompanha; Adalberto: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=14025s)
+- **RD 450 (2018-10-10)**, 6 · relator **Fernando Fonseca** · Consulta sobre classificação do transporte de minério de ferro e manganês de Corumbá/Ladário (MS) a Cubatão (SP) com transbordo na Argentina/Uruguai → aprovado: navegação de cabotagem (voto do relator Fernando Fonseca, acompanhado por Franci
+  - votos: Fernando: relator; Francisval: revisor_acompanha; Adalberto: outro; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=1731s)
+- **RD 450 (2018-10-10)**, 18 · relator **Mário Povia** · Consulta sobre afretamento por tempo e equiparação a bandeira brasileira no Acordo de Transporte Marítimo Brasil–Argentina → aprovado (unânime)
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=6326s)
+- **RD 450 (2018-10-10)**, 19 · relator **Mário Povia** · Consulta: emissão de CAA ou CLE para embarcações estrangeiras inscritas no REB → pedido de vista (Adalberto Tokarski); julgamento suspenso
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=6779s)
+- **RD 450 (2018-10-10)**, 20 · relator **Mário Povia** · Consulta sobre enquadramento de transbordos ship-to-ship de petróleo em águas jurisdicionais brasileiras (DPST e VLCC) → pedido de vista (Adalberto Tokarski); julgamento suspenso
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=7051s)
+- **RD 450 (2018-10-10)**, 21 · relator **Mário Povia** · Consulta sobre manutenção da tonelagem de embarcação em docagem para fins de afretamento → aprovado (unânime)
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=8157s)
+- **RD 450 (2018-10-10)**, 27 · relator **Mário Povia** · Fiscalização extraordinária: pré-registro no REB com casco construído em estaleiro holandês (contrato com estaleiro OSX) → pedido de vista (Adalberto Tokarski); julgamento suspenso
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=12668s)
+- **RD 450 (2018-10-10)**, 32 · relator **Francisval Mendes** · Autorização EBN de apoio portuário (embarcações até 2.000 HP), Areia Branca (RN) (julgamento em bloco 32 a 35) → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=14354s)
+- **RD 450 (2018-10-10)**, 33 · relator **Francisval Mendes** · Autorização EBN de travessia de passageiros e veículos no rio Parnaíba (Alto Parnaíba-MA / Santa Filomena-PI) (julgamento em bloco 32 a 35) → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=14354s)
+- **RD 450 (2018-10-10)**, 34 · relator **Francisval Mendes** · Autorização EBN de apoio portuário (embarcações até 2.000 HP), Santos (SP) (julgamento em bloco 32 a 35) → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=14354s)
+- **RD 450 (2018-10-10)**, 35 · relator **Francisval Mendes** · Autorização EBN de travessia de passageiros no rio Parnaíba (Araioses-MA / Ilha Grande-PI) (julgamento em bloco 32 a 35) → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=14354s)
+- **RD 450 (2018-10-10)**, 44 · relator **Adalberto Tokarski** · Re-ratificação da Res. 6391 (renúncia a apoio marítimo extinguiu por erro também o apoio portuário) → aprovado (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=16865s)
+- **RD 450 (2018-10-10)**, 47 · relator **Adalberto Tokarski** · Renúncia de autorização EBN (termo 1345) → aprovado (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=17157s)
+- **RD 450 (2018-10-10)**, 49 · relator **Francisval Mendes** · Referendo da Res. 6418: afretamento por tempo do Monte Sarmiento (bandeira estrangeira) por 35 dias enquanto aguarda REB → referendado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=17547s)
+- **RD 451 (2018-10-31)**, 3 · relator **Mário Povia** · Pedido de reconsideração do Acórdão 82/2017 (multas de R$ 17.500 por não enviar documentos e R$ 175 mil por permitir uso da IP4 São Raimundo, Manaus,  → negado provimento, por maioria; vencido Tokarski
+  - votos: Mário: relator; Francisval: revisor_acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=285s)
+- **RD 451 (2018-10-31)**, 6 · relator **Francisval Mendes** · Recurso contra negativa da GAF de certificado de liberação de carga prescrita (CLCP) para módulos de caldeira no navio BBC → negado provimento, por maioria; vencido Tokarski (voto-vista)
+  - votos: Francisval: relator; Adalberto: vencido; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=1360s)
+- **RD 451 (2018-10-31)**, 23 · relator **Mário Povia** · Revisão da norma de outorga de travessia (Res. 274/2009?): padronização de envio de informações operacionais e contábeis; supressão da suspensão caute → aprovado, unânime
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=4426s)
+- **RD 451 (2018-10-31)**, 32 · relator **Francisval Mendes** · Outorga de autorização: EBN de apoio portuário (até 12 mil hp) (bloco 32 e 33) → aprovado, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=6503s)
+- **RD 451 (2018-10-31)**, 33 · relator **Francisval Mendes** · Outorga de autorização: EBN de transporte misto, navegação interior Santana/AP–Pará (bloco 32 e 33) → aprovado, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=6503s)
+- **RD 451 (2018-10-31)**, 34 · relator **Francisval Mendes** · Renúncia de outorga de autorização de EBN (bloco 34 a 36) → aprovado, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=6661s)
+- **RD 451 (2018-10-31)**, 35 · relator **Francisval Mendes** · Renúncia de outorga de autorização de EBN (bloco 34 a 36) → aprovado, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=6661s)
+- **RD 451 (2018-10-31)**, 36 · relator **Francisval Mendes** · Renúncia de outorga de autorização de EBN (bloco 34 a 36) → aprovado, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=6661s)
+- **RD 451 (2018-10-31)**, 46 · relator **Adalberto Tokarski** · Renúncia de autorização de travessia que atende cliente único (Vale do Pontal Açúcar e Álcool) → renúncia indeferida, unânime; SRG regulamenta em 90 dias
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=9129s)
+- **RD 452 (2018-11-14)**, 2 · relator **Mário Povia** · Consulta sobre transbordo de cargas (vista de Tokarski) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=283s)
+- **RD 452 (2018-11-14)**, 6 · relator **Mário Povia** · Procedimento de fiscalização extraordinária (vista de Tokarski) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=506s)
+- **RD 452 (2018-11-14)**, 14 · relator **Mário Povia** · Outorga de autorização EBN - navegação interior (combustíveis) na região amazônica → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=2246s)
+- **RD 452 (2018-11-14)**, 15 · relator **Mário Povia** · Outorga de autorização para pré-registro no REB de embarcações em construção (apoio portuário) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=2302s)
+- **RD 452 (2018-11-14)**, 18 · relator **Mário Povia** · Utilização de tonelagem de embarcação brasileira afretada (GNL 1008) para afretamento de estrangeiras → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=3245s)
 - **RD 454 (2018-12-20)**, 1 · relator **Mário Povia** · Consulta sobre emissão de CAA e CLE para embarcações inscritas no REB (Registro Especial Brasileiro) – retorno de vista → aprovado por unanimidade
   - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=37s)
 - **RD 454 (2018-12-20)**, 14 · relator **Francisval Mendes** · Outorga de autorização como EBN para travessia de passageiros, veículos e cargas em faixa de fronteira na Lagoa dos Patos (Rio Grande – São José do No → aprovado por unanimidade (julgados em bloco: itens 14 e 15)

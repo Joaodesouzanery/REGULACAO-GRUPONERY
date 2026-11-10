@@ -1,0 +1,129 @@
+{
+ "meta": {
+  "video_id": "nIHkzCOVfYc",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "audiencia",
+  "numero": "09 e 10/2018",
+  "titulo": "Audiências Públicas nº 09 e 10 de 2018 - arrendamentos SUA01 e SUA05 em Suape",
+  "data": "2018-09-19",
+  "local": "Suape/PE",
+  "objeto": "Edital e minuta de contrato de arrendamento de terminal de veículos (SUA01) e terminal de contêineres (SUA05) no porto organizado de Suape",
+  "processo": null,
+  "tema": [
+   "arrendamentos e leilões portuários",
+   "contêineres",
+   "trabalho portuário",
+   "participação social"
+  ],
+  "presidiu": "Mário Povia (Diretor-Geral)",
+  "diretores_presentes": [
+   "Mário Povia",
+   "Francisval Mendes"
+  ],
+  "participantes_externos": [
+   "Suape (Carlos Vilar)",
+   "EPL",
+   "SNP/MTPA",
+   "PPI",
+   "Sindicato dos Portuários",
+   "Tecon Suape (ICTSI)",
+   "Agência Porto Consultoria",
+   "Sindicato dos Estivadores de PE",
+   "Secretaria de Planejamento de PE",
+   "Autoridade Marítima (DPC)"
+  ],
+  "resumo": "Audiência sobre o arrendamento de dois terminais em Suape (investimento de cerca de R$ 1,2 bi). EPL apresentou os estudos. O advogado do Tecon Suape se opôs ao novo terminal de contêineres alegando motivação política; sindicatos pediram cláusulas de proteção ao trabalhador; Pernambuco pediu que a outorga fosse revertida ao porto; a Autoridade Marítima alertou sobre navios de 366 m. O DG Mário Povia presidiu, respondeu sobre mão de obra e defendeu a licitação como política de Estado.",
+  "posicoes": [
+   {
+    "quem": "Sindicato dos Portuários",
+    "posicao": "Incluir cláusulas que assegurem o mercado de trabalho portuário",
+    "ts": "0:35:18"
+   },
+   {
+    "quem": "Tecon Suape (advogado)",
+    "posicao": "Contra o novo terminal de contêineres; alega motivação política",
+    "ts": "0:38:37"
+   },
+   {
+    "quem": "Secretaria de Planejamento de PE",
+    "posicao": "Outorga do terminal de contêineres revertida ao porto de Suape",
+    "ts": "2:06:00"
+   },
+   {
+    "quem": "Autoridade Marítima",
+    "posicao": "Estudos de manobrabilidade e ressalva no edital para navios de grande porte",
+    "ts": "2:15:25"
+   }
+  ],
+  "encaminhamentos": [
+   "Contribuições formais pelo site da ANTAQ"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Mário Povia",
+   "ts": "0:03:08",
+   "tema": [
+    "arrendamentos e leilões portuários"
+   ],
+   "tipo": "abertura",
+   "resumo": "Abriu as audiências, apresentou o objeto e compôs a mesa.",
+   "trecho": "meu nome é mario por vias o diretor geral da antaq e irei presidir esta audiência presencial",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Francisval Mendes",
+   "ts": "0:05:25",
+   "tema": [
+    "arrendamentos e leilões portuários"
+   ],
+   "tipo": "abertura",
+   "resumo": "Saudou os presentes e destacou investimentos de cerca de R$ 1,2 bi e o desejo do empresariado de investir nos portos.",
+   "trecho": "os futuros arrendatários terão que investir em obras de instalações e equipamentos durante o período do contrato cerca de 1 bi 200 milhões",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Mário Povia",
+   "ts": "0:36:04",
+   "tema": [
+    "trabalho portuário",
+    "arrendamentos e leilões portuários"
+   ],
+   "tipo": "resposta",
+   "resumo": "Respondeu ao sindicato que o contrato já vincula o arrendatário à Lei 12.815 e ao Decreto 8.033 quanto à mão de obra.",
+   "trecho": "portanto vincula a a operação portuária a as regras contidas na lei 12 815 e no decreto 8033",
+   "confianca": "media"
+  },
+  {
+   "diretor": "Mário Povia",
+   "ts": "0:49:39",
+   "tema": [
+    "arrendamentos e leilões portuários",
+    "contêineres"
+   ],
+   "tipo": "resposta",
+   "resumo": "Rebateu a crítica do Tecon Suape: agência é órgão de Estado e licitação segue política pública do PPI; chamou a visão de míope.",
+   "trecho": "agência reguladora um órgão de estado ela não ano atua como órgão de governo",
+   "confianca": "media"
+  },
+  {
+   "diretor": "Mário Povia",
+   "ts": "2:26:36",
+   "tema": [
+    "arrendamentos e leilões portuários"
+   ],
+   "tipo": "encerramento",
+   "resumo": "Agradeceu e afirmou tratar-se de política de Estado, não de governo, que deve seguir mesmo com novo governo.",
+   "trecho": "não estamos falando de uma política de estado e não de uma política de governo",
+   "confianca": "media"
+  }
+ ],
+ "limites_da_analise": [
+  "Análise cobre só janelas do resumo",
+  "Falante das respostas de 0:36 e 0:49 inferido (Josias cita a 'resposta trazida pelo diretor-geral'); legenda grafa 'mario por vias/gobbi'",
+  "Fala final em 2:29:43 de autoria incerta não registrada"
+ ]
+}

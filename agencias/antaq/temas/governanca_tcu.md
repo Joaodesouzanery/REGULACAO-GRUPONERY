@@ -1,5 +1,111 @@
 # Itens do tema «governanca_tcu» (todos os diretores)
 
+- **RD 377 (2015-01-28)**, 67 · relator **Mário Povia** · Referendo do afastamento de servidor para viagem de estudo (Barcelona e Bruxelas) → referendado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=15879s)
+- **RD 377 (2015-01-28)**, 71 · relator **Mário Povia** · Referendo da requisição de servidor para cargo na SEP → referendado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=15923s)
+- **RD 377 (2015-01-28)**, 68 · relator **Adalberto Tokarski** · Agenda Ambiental e de Segurança Aquaviária (planejamento estratégico) → aprovado por unanimidade com ressalva de ajustes posteriores
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=16019s)
+- **RD 381 (2015-03)**, 22 · relator **Fernando Fonseca** · Consulta da SEP: investimento imediato em nova linha de 14 pol. ligando o Temar ao berço 106 do Itaqui (diesel S10) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=6616s)
+- **RD 381 (2015-03)**, 26 · relator **Adalberto Tokarski** · Denúncia de irregularidade no Pregão Eletrônico 8/2014 (serviços gráficos da ANTAQ) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=8928s)
+- **RD 380 (2015-03-12)**, 34 · relator **Fernando Fonseca** · Memorando de entendimento de cooperação técnica → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=9454s)
+- **RD 382 (2015-04-15)**, 27 · relator **Fernando Fonseca** · Memorando de entendimento entre ANTAQ e Autoridade Marítima da Dinamarca → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=7756s)
+- **RD 382 (2015-04-15)**, 28 · relator **Fernando Fonseca** · Reequilíbrio econômico-financeiro dos contratos de arrendamento unificados (termo de unificação 10/97) no Porto de Vitória, por determinação do TCU → aprovado por unanimidade, com complementação
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=8153s)
+- **RD 382 (2015-04-15)**, 40 · relator **Fernando Fonseca** · Contrato de uso temporário de área no Porto de Vitória para apoio offshore → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=12862s)
+- **RD 384 (2015-05-20)**, 21 · relator **Adalberto Tokarski** · Tomada de contas e pedido de revisão → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=6621s)
+- **RD 385 (2015-06-01)**, 1 · relator **Mário Povia** · Processo com pedido de vista do Diretor-Geral; segue em diligência → adiado (vista em diligência)
+  - votos: Mário: vista · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=30s)
+- **RD 385 (2015-06-01)**, 13 · relator **Mário Povia** · Prorrogação ordinária do contrato de arrendamento 005/98 no Porto de Suape → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=4680s)
+- **RD 385 (2015-06-01)**, 18 · relator **Mário Povia** · Não lido → adiado (pedido de vista)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=6484s)
+- **RD 385 (2015-06-01)**, 49 · relator **Adalberto Tokarski** · Tomada de contas final da concessão do Porto de Imbituba (exercício 2012) e pedidos de revisão (indenização, 6º capital adicional, correção da CRC, gl → aprovado por maioria (Mário Povia vencido em parte)
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=15162s)
+- **RD 387 (2015-07-29)**, 17 · relator **Mário Povia** · Norma de parcelamento e recuperação de créditos (revisão da Res. 2186) após audiência pública sem contribuições → aprovado conforme voto do relator (unânime)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=10322s)
+- **RD 387 (2015-07-29)**, 34 · relator **Fernando Fonseca** · Processo administrativo sancionador: construção de IP4 em Itacoatiara/AM sem autorização → aprovado conforme voto do relator (unânime)
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=15619s)
+- **RD 387 (2015-07-29)**, 55 (extrapauta) · relator **Adalberto Tokarski** · Declaração de utilidade pública para supressão de Mata Atlântica nas áreas dos TUPs Porto Sul e Bamin (Ilhéus) → aprovado conforme voto do relator (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=18658s)
+- **RD 388 (2015-08-12)**, 22 · relator **Fernando Fonseca** · Controvérsia sobre a propriedade dos bens cedidos à EMAP pelo convênio de delegação 016/2000 (porto do Itaqui) → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=12009s)
+- **RD 389 (2015-08-27)**, 15 · relator **Mário Povia** · Prorrogação das Audiências Públicas 2/2015 (até 18/09/2015) e 3/2015 (até 02/10/2015) por mudança de infraestrutura de TI → aprovado
+  - votos: Mário: outro; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=px8mI3sMZqA&t=13119s)
+- **RD 390 (2015-09)**, 26 · relator **None** · Item retirado de pauta → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=6755s)
+- **RD 390 (2015-09)**, 48 · relator **None** · Item retirado para análise mais aprofundada → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=13636s)
+- **RD 392 (2015-10-22)**, 19 · relator **Fernando Fonseca** · Recurso administrativo em pregão eletrônico (prova de conceito) → recurso negado
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=11331s)
+- **RD 395 (2015-12-03)**, 3 · relator **Fernando Fonseca** · Ampliação de TUP (≈11.591 m², 10,04% da área) no contrato de adesão 51/2014; disputa de área molhada com terminal vizinho (viabilidade locacional) → aprovado o voto-vista (relator vencido)
+  - votos: Mário: revisor_diverge; Adalberto: revisor_acompanha; Fernando: vencido · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=60s)
+- **RD 396 (2015-12-17)**, 42 · relator **Mário Povia** · Pedido de reconsideração sobre vedação de prorrogação do contrato de arrendamento 13/2001 (unificação contratual) (extrapauta) → aprovado: não conhecido; encaminhado à SEP
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=14519s)
+- **RD 403 (2016-04-28)**, 7 · relator **Fernando Fonseca** · Acordo de cooperação técnica ANTAQ - ATR para regulação e fiscalização do transporte aquaviário → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=83ex6xdeHiw&t=2338s)
+- **RD 412 (2016-11-01)**, 14 · relator **Adalberto Tokarski** · Acordo de cooperação técnica ANTAQ–MOB para regulação e fiscalização do transporte aquaviário no Maranhão → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=2367s)
+- **RD 420 (2017-05-09)**, 5 · relator **Adalberto Tokarski** · Processo contencioso: pagamento de bônus a diretores e comissionados em 2009-2010 sem amparo legal, com receitas do porto → aprovado (unânime): multa de cerca de R$ 70,8 mil
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=1114s)
+- **RD 420 (2017-05-09)**, 27 · relator **Mário Povia** · Reajuste da tabela tarifária de infraestrutura do porto de Fortaleza → aprovado (unânime): reajuste linear máximo de 20,98%
+  - votos: Mário: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=6973s)
+- **RD 421 (2017-05-11)**, 10 · relator **Fernando Fonseca** · Autorização para utilização de fundo de depreciação → não deliberado (aparentemente retirado/adiado)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=5595s)
+- **RD 422 (2017-08-23)**, 15 · relator **Mário Povia** · Manual de Análise e Fiscalização do Projeto Executivo em arrendamentos portuários (versão 2), em atendimento ao Acórdão TCU 2.200/2015-Plenário → aprovado conforme voto do relator (unânime)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=vc-lJ1haDoQ&t=2653s)
+- **RD 424 (2017-08-24)**, 1 · relator **Adalberto Tokarski** · Uso de recursos do fundo de depreciação para equipamentos de informática (vista de Povia) → aprovado por unanimidade, com complementação
+  - votos: Adalberto: relator; Mário: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jqmO9Gz2tHU&t=49s)
+- **RD 423 (2017-08-24)**, 2 · relator **Adalberto Tokarski** · Processo sancionador: pagamento indevido de bonificação por desempenho a comissionados (R$ 987 mil, exercício 2013) → aprovado por unanimidade (voto-vista de Francisval Mendes)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=T7OiOUOmJDA&t=680s)
+- **RD 423 (2017-08-24)**, 20 · relator **Mário Povia** · Norma do sistema eletrônico de peticionamento e intimação → pedido de vista (Adalberto Tokarski)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=T7OiOUOmJDA&t=5416s)
+- **RD 428 (2017-09-13)**, 20-21 · relator **Mário Povia** · Baixa patrimonial de bens da União (empilhadeiras do porto de Pelotas; veículo do porto de Porto Alegre), em bloco → aprovado por unanimidade conforme voto do relator
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=3793s)
+- **RD 432 (2017-11-17)**, 15 · relator **Mário Povia** · Anulação de outorga de travessia de passageiros no litoral norte do Paraná (vício de competência), após consulta da AGEPAR → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=3412s)
+- **RD 435 (2017-12-21)**, 18 · relator **Francisval Mendes** · Revogação de resolução em duplicidade (renúncia de outorga autuada em dois processos) → aprovado conforme voto do relator
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=8pnMiGBR888&t=4469s)
+- **RD 435 (2017-12-21)**, 23 · relator **Mário Povia** · Referendo das Resoluções 5.758 e 5.761: ocupação do armazém 08-B2 no porto de Paranaguá para depósito franco boliviano → aprovado conforme voto do relator (referendo)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=8pnMiGBR888&t=6863s)
+- **RD 436 (2018-01-25)**, 32 · relator **Francisval Mendes** · Procedimento de publicação de penalidades → pedido de vista
+  - votos: Francisval: relator; Mário: vista; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=11168s)
+- **RD 436 (2018-01-25)**, 34 · relator **Mário Povia** · Referendo da Portaria 336/2017-DG: Plano Anual de Fiscalização (PAF) 2018 (958 ações) → aprovado (referendado)
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=11506s)
+- **RD 439 (2018-03-14)**, 5 · relator **Mário Povia** · Licitação de arrendamento de área para celulose/carga geral no porto de Paranaguá (PAR01); julgado em bloco com os itens 5–7 → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=984s)
+- **RD 439 (2018-03-14)**, 6 · relator **Mário Povia** · Licitação de arrendamento de terminal de veículos no porto de Paranaguá; julgado em bloco com os itens 5–7 → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=984s)
+- **RD 439 (2018-03-14)**, 7 · relator **Mário Povia** · Licitação de arrendamento de terminal de celulose no porto do Itaqui (MA); julgado em bloco com os itens 5–7 → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=984s)
+- **RD 442 (2018-05-07)**, 37 · relator **Francisval Mendes** · Prorrogação de prazo para leilão de bens remanescentes adquiridos com recursos da APA → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=5585s)
+- **RD 442 (2018-05-07)**, 38 · relator **Francisval Mendes** · Utilização de recursos da APA na melhoria das vias de acesso ao porto de Paranaguá → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=5804s)
+- **RD 25 (extraordinária) (2018-05-11)**, 13 · relator **Francisval Mendes** · Manifestação sobre uso de receitas portuárias em viadutos de acesso ao Porto de Paranaguá (pleito parlamentar) e aditivo ao convênio de delegação → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=PmJmgy9Diw8&t=4653s)
+- **RD 443 (2018-05-21)**, 19 · relator **Francisval Mendes** · Revisão da Resolução 2914 (regras das reuniões deliberativas da Diretoria Colegiada): proposta de resolução normativa → aprovado por unanimidade; audiência pública de 30 dias
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ONQS9tY_zWg&t=3555s)
+- **RD 444 (2018-06-07)**, 10 · relator **Francisval Mendes** · Pedido de reconsideração contra rejeição de projeto no REIDI (contrato de passagem) → aprovado por maioria; Adalberto Tokarski vencido (falantes inferidos)
+  - votos: Francisval: relator; Adalberto: vencido; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=1pfiJgrovVc&t=2046s)
+- **RD 447 (2018-08-09)**, 35 · relator **Francisval Mendes** · Participação da ANTAQ em procedimento conciliatório na CCAF → aprovado, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=11665s)
+- **RD 449 (2018-09-25)**, 3 · relator **Francisval Mendes** · Proposta de alterar as Resoluções 3259/2014 e 3585/2014 para suprimir a publicação no DOU de decisões sancionadoras e TACs; voto-vista de Mário Povia → aprovado por unanimidade (sobrestamento)
+  - votos: Mário: revisor_acompanha; Adalberto: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=627s)
+- **RD 449 (2018-09-25)**, 31 · relator **Mário Povia** · Portaria de delegação ao superintendente de regulação para alterar o esquema operacional da travessia (Res. 5573, art. 12) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=7815s)
+- **RD 449 (2018-09-25)**, 37 · relator **Francisval Mendes** · Retificação de decisão (Res. 5963): pedido de revisão de dívida ativa prejudicado sem extinguir o processo → aprovado por unanimidade
+  - votos: Mário: acompanha; Adalberto: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=9670s)
+- **RD 449 (2018-09-25)**, 64 · relator **Adalberto Tokarski** · Análise dos impactos da greve dos caminhoneiros nas atividades portuárias e aquaviárias (vista de Francisval Mendes) → não deliberado (vista)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=14261s)
+- **RD 450 (2018-10-10)**, 6 · relator **Fernando Fonseca** · Consulta sobre classificação do transporte de minério de ferro e manganês de Corumbá/Ladário (MS) a Cubatão (SP) com transbordo na Argentina/Uruguai → aprovado: navegação de cabotagem (voto do relator Fernando Fonseca, acompanhado por Franci
+  - votos: Fernando: relator; Francisval: revisor_acompanha; Adalberto: outro; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=1731s)
 - **RD 455 (2019-01-31)**, 59 · relator **Francisval Mendes** · Pedido de providências por suposta usurpação de competência da ANTAQ (Portaria ALF/STS 27/2016 — escaneamento de contêineres para a Europa) → aprovado por unanimidade
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=6355s)
 - **RD 455 (2019-01-31)**, 76 · relator **Adalberto Tokarski** · Alteração do Manual de análise e fiscalização do projeto executivo em arrendamentos portuários → aprovado por unanimidade

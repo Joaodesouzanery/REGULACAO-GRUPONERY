@@ -1,5 +1,1113 @@
 # Itens do tema «fiscalizacao_sancoes» (todos os diretores)
 
+- **RD 377 (2015-01-28)**, 11 · relator **Mário Povia** · Pedido de reconsideração contra advertência por guindastes desativados na área operacional → aprovado por unanimidade: não conhecido (intempestivo)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=1933s)
+- **RD 377 (2015-01-28)**, 13 · relator **Mário Povia** · Pedido de reconsideração contra notificação 78/2014 → aprovado por unanimidade: não conhecido (intempestivo)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=2556s)
+- **RD 377 (2015-01-28)**, 14 · relator **Mário Povia** · Pedido de reconsideração → pedido de vista de Adalberto Tokarski antes da leitura do voto
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=2682s)
+- **RD 377 (2015-01-28)**, 15 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 20 mil por transporte aquaviário sem autorização → aprovado por unanimidade: provimento parcial
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=2733s)
+- **RD 377 (2015-01-28)**, 16 · relator **Mário Povia** · Pedido de reconsideração contra cassação da autorização (empresa não localizada) → aprovado por unanimidade: provimento parcial
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=3064s)
+- **RD 377 (2015-01-28)**, 17 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 55 mil (exploração sem contrato válido no Porto de Cabedelo) → aprovado por unanimidade: não conhecido (intempestivo)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=3776s)
+- **RD 377 (2015-01-28)**, 19 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 68.750 (5º aditivo sem cláusulas essenciais) → aprovado por unanimidade: negado provimento
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=4862s)
+- **RD 377 (2015-01-28)**, 43 · relator **Fernando Fonseca** · Processo sancionador: ocupação de área no Porto do Itaqui sem contrato após extinção do TAC → pedido de vista de Adalberto Tokarski
+  - votos: Fernando: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=7223s)
+- **RD 377 (2015-01-28)**, 44 · relator **Fernando Fonseca** · Pedido de reconsideração contra multa de R$ 119.800 (cessão de área sem licitação no Porto de Aratu) → aprovado por unanimidade: negado provimento, multa recalculada
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=7785s)
+- **RD 377 (2015-01-28)**, 48 · relator **Fernando Fonseca** · Processo sancionador: exploração de imóveis da União sem contratos → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=9458s)
+- **RD 377 (2015-01-28)**, 50 · relator **Adalberto Tokarski** · Processo administrativo contencioso: 5º aditivo ao contrato de arrendamento 31/94 sem anuência da ANTAQ → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=11419s)
+- **RD 377 (2015-01-28)**, 51 · relator **Adalberto Tokarski** · Pedido de reconsideração contra multa de R$ 37.125 → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=11650s)
+- **RD 377 (2015-01-28)**, 52 · relator **Adalberto Tokarski** · Pedido de reconsideração contra multa de R$ 19.900 → aprovado por unanimidade: não conhecido (intempestivo)
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=11961s)
+- **RD 377 (2015-01-28)**, 62 · relator **Adalberto Tokarski** · Processo administrativo contencioso (documentos não apresentados; obra de almoxarifado sem autorização) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=13742s)
+- **RD 377 (2015-01-28)**, 64 · relator **Adalberto Tokarski** · Processo sancionador (Porto de Niterói): exploração de terminal sem autorização e falta de informações → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=14588s)
+- **RD 378 (2015-02-12)**, 3 · relator **Fernando Fonseca** · Processo administrativo sancionador (processo com vista) → vista prorrogada
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=643s)
+- **RD 378 (2015-02-12)**, 4 · relator **Mário Povia** · Pedido de reconsideração contra multa por ocupação de área no porto de Aratu via convênio com Copene/Braskem → aprovado por unanimidade: parcial provimento
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=660s)
+- **RD 378 (2015-02-12)**, 5 · relator **Mário Povia** · Processo administrativo contencioso por não prestar informações solicitadas pela fiscalização → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=1172s)
+- **RD 378 (2015-02-12)**, 6 · relator **Mário Povia** · Pedido de reconsideração contra advertência (incisos 9, 33 e 35 do art. 13 da Res. 858) → aprovado por unanimidade: negado provimento
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=1600s)
+- **RD 378 (2015-02-12)**, 7 · relator **Mário Povia** · Processo administrativo contencioso por contratar empresa não autorizada para apoio portuário → aprovado por unanimidade: auto insubsistente e arquivamento
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=1911s)
+- **RD 378 (2015-02-12)**, 8 · relator **Mário Povia** · Processo administrativo contencioso por falta de alvará do Corpo de Bombeiros no terminal de uso misto de Praia Mole (Vitória) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=2325s)
+- **RD 378 (2015-02-12)**, 20 · relator **Fernando Fonseca** · Pedido de reconsideração contra multa de 300 mil reais por descumprir TAC (início de obras) → vista concedida a Adalberto Tokarski
+  - votos: Fernando: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=7352s)
+- **RD 378 (2015-02-12)**, 21 · relator **Fernando Fonseca** · Embargos de declaração/novo pedido de reconsideração contra advertência já transitada em julgado → aprovado por unanimidade: não conhecido
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=7685s)
+- **RD 378 (2015-02-12)**, 22 · relator **Fernando Fonseca** · Processo administrativo contencioso por exploração de área no porto de Cabedelo sem contrato e falta de penalidade contratual → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=8010s)
+- **RD 378 (2015-02-12)**, 25 · relator **Fernando Fonseca** · Revisão da Res. 3274/2014 (serviço adequado e infrações) após audiência pública (Res. 3584/2014) → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=10332s)
+- **RD 378 (2015-02-12)**, 32 · relator **Adalberto Tokarski** · Processo administrativo contencioso por encerramento de operações sem comunicação (navegação interior internacional) → aprovado por unanimidade
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=13638s)
+- **RD 381 (2015-03)**, 17 · relator **Fernando Fonseca** · PAS – auto 572 (termo de permissão de uso com UTE Porto do Itaqui não adaptado à Res. 2240) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=3799s)
+- **RD 381 (2015-03)**, 18 · relator **Fernando Fonseca** · PAS – áreas do porto de Fortaleza exploradas em desacordo com a Res. 2240 → aprovado por maioria; Adalberto Tokarski vencido
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=4411s)
+- **RD 381 (2015-03)**, 19 · relator **Fernando Fonseca** · PAC – indenização de benfeitorias de R$ 6,3 milhões à CESA sem autorização da ANTAQ → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=4983s)
+- **RD 381 (2015-03)**, 20 · relator **None** · PAC – relator não concluiu a análise → retirado de pauta (continua fora de pauta)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=5655s)
+- **RD 381 (2015-03)**, 21 · relator **Fernando Fonseca** · PAC – 18 supostas infrações (aplicação de recursos fora da atividade portuária, cessão de áreas) → não concluído: pedido de vista de Adalberto Tokarski
+  - votos: Fernando: relator; Mário: outro; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=5671s)
+- **RD 381 (2015-03)**, 23 · relator **Adalberto Tokarski** · PAC – explorar terminal em Porto Velho sem autorização → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=7906s)
+- **RD 380 (2015-03-12)**, 1 · relator **Fernando Fonseca** · Processo administrativo contencioso (PAC) por explorar instalação portuária sem autorização (inciso 31 do art. 18 da Res. 1660); voto-vista após dilig → aprovado por unanimidade: arquivamento
+  - votos: Fernando: relator; Mário: revisor_acompanha; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=30s)
+- **RD 380 (2015-03-12)**, 9 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 33 mil (descumprimento da Res. 1612) → aprovado por unanimidade: mantida a decisão
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=2774s)
+- **RD 380 (2015-03-12)**, 10 · relator **Mário Povia** · Pedido de reconsideração de multas (R$ 2.520 e R$ 20.475; total R$ 22.995) → aprovado por unanimidade: conhecido e negado provimento
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=3706s)
+- **RD 380 (2015-03-12)**, 12 · relator **Mário Povia** · PAC por explorar instalação portuária sem autorização → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=4491s)
+- **RD 380 (2015-03-12)**, 13 · relator **Mário Povia** · PAC: não apresentação de certidão negativa de falência (TUPs em Canoas e Osório/RS) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=4928s)
+- **RD 380 (2015-03-12)**, 27 · relator **Fernando Fonseca** · Pedido de revisão de multa (R$ 4.200) → aprovado por unanimidade: não conhecido
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=7932s)
+- **RD 380 (2015-03-12)**, 28 · relator **Fernando Fonseca** · Pedido de reconsideração de multa de R$ 22 mil (licitação/contratação de arrendamento) → aprovado por unanimidade: negado provimento
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=8040s)
+- **RD 380 (2015-03-12)**, 29 · relator **Fernando Fonseca** · Pedido de reconsideração de multa de R$ 7 mil (cobrança indevida de armazenagem ao exportador, Imbituba/SC) → aprovado por unanimidade: negado provimento
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=8235s)
+- **RD 380 (2015-03-12)**, 33 · relator **Fernando Fonseca** · Petição/questão de ordem sobre multa de R$ 115 mil por descumprimento de TAC → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=9041s)
+- **RD 380 (2015-03-12)**, 43 · relator **Adalberto Tokarski** · PAS: operar apoio portuário sem autorização no porto de Itaqui/MA → aprovado por unanimidade
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=11304s)
+- **RD 380 (2015-03-12)**, 44 · relator **Adalberto Tokarski** · Pedido de reconsideração de multa (incisos 1 e 28 do art. 13 da Res. 858) → aprovado por unanimidade: negado provimento
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=11673s)
+- **RD 382 (2015-04-15)**, 2 · relator **Fernando Fonseca** · Processo administrativo contencioso → vista prorrogada
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=94s)
+- **RD 382 (2015-04-15)**, 5 · relator **Mário Povia** · Pedido de reconsideração de multa por disponibilização irregular de área no Porto de Aratu → aprovado por unanimidade: provimento parcial
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=809s)
+- **RD 382 (2015-04-15)**, 6 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 100 mil por descumprimento de TAC (instalação em Estrela/RS) → aprovado por unanimidade: não conhecido
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=1269s)
+- **RD 382 (2015-04-15)**, 7 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 95.500 por receber caminhões sem agendamento e sem pátio de triagem (Porto de Santos) → aprovado por unanimidade: negado provimento
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=1498s)
+- **RD 382 (2015-04-15)**, 10 · relator **Mário Povia** · Processo administrativo contencioso: descumprimento da Resolução 2604 (prorrogação indevida do arrendamento 21/94, terminal açucareiro) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=1936s)
+- **RD 382 (2015-04-15)**, 11 · relator **Mário Povia** · Processo administrativo contencioso: arrendamento 13/90 sem licitação no Porto de Salvador → aprovado por unanimidade: multa
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=2644s)
+- **RD 382 (2015-04-15)**, 12 · relator **Mário Povia** · Processo administrativo contencioso: arrendamento 27/93 sem licitação e sem adaptação às Resoluções 55 e 2240 (Porto de Aratu) → aprovado por unanimidade: multas
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=3139s)
+- **RD 382 (2015-04-15)**, 13 · relator **Mário Povia** · Processo administrativo contencioso: ocupação irregular e bens reversíveis em mau estado (Porto de Salvador) → aprovado por unanimidade: multas
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=3511s)
+- **RD 382 (2015-04-15)**, 14 · relator **Mário Povia** · Processo administrativo contencioso: exploração de instalação portuária sem autorização em Niterói/RJ (apoio offshore) → aprovado por unanimidade: multa
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=3867s)
+- **RD 382 (2015-04-15)**, 15 · relator **Mário Povia** · Processo administrativo contencioso: ampliação de TUP em Rio Grande sem autorização, falta de comunicação de diretores e de controle de coleta de resí → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=4354s)
+- **RD 382 (2015-04-15)**, 16 · relator **Mário Povia** · Processo administrativo contencioso: múltiplas irregularidades de gestão do Porto de Cabedelo (inventário, PDZ, PCA/PEI, segurança, infraestrutura) → aprovado por unanimidade: multas
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=4802s)
+- **RD 382 (2015-04-15)**, 30 · relator **Fernando Fonseca** · Pedido de reconsideração de multa de R$ 192.500 (EVTE e cláusulas do 2º aditivo do arrendamento 01/96) → aprovado por unanimidade: negado provimento
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=8773s)
+- **RD 382 (2015-04-15)**, 31 · relator **Fernando Fonseca** · Pedido de reconsideração de multa de R$ 87.500 por construir/explorar TUP em Niterói sem autorização → aprovado por unanimidade: negado provimento
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=9060s)
+- **RD 382 (2015-04-15)**, 32 · relator **Fernando Fonseca** · Pedido de reconsideração de multa de R$ 74.250 por contratos de uso temporário no Porto de Belém sem aprovação da ANTAQ → aprovado por unanimidade: negado provimento
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=9349s)
+- **RD 382 (2015-04-15)**, 33 · relator **Fernando Fonseca** · Pedido de reconsideração de multa de R$ 50.600 (meio ambiente, tributos, prevenção de incêndios) → aprovado por unanimidade: negado provimento
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=9636s)
+- **RD 382 (2015-04-15)**, 34 · relator **Fernando Fonseca** · Pedido de reconsideração de multa por não licitar instalação após fim de arrendamento (Moinhos) → aprovado por unanimidade: provimento parcial
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=9941s)
+- **RD 382 (2015-04-15)**, 35 · relator **Fernando Fonseca** · Pedido de reconsideração de multa (~R$ 100.800, valor incerto) por irregularidades em leilão de bens → aprovado por unanimidade: negado provimento
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=10430s)
+- **RD 382 (2015-04-15)**, 36 · relator **Fernando Fonseca** · Pedido de reconsideração intempestivo de multa de R$ 410 mil (não rescisão de contrato com CEASA-PE) → aprovado por unanimidade: não conhecido; multa revista de ofício
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=10762s)
+- **RD 382 (2015-04-15)**, 41 · relator **Fernando Fonseca** · Processo administrativo contencioso: cobrança indevida pela Guarda Portuária pelo acesso terrestre de pessoas e veículos (Portos do Rio e Itaguaí) → aprovado por unanimidade: multa
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=13419s)
+- **RD 382 (2015-04-15)**, 44 · relator **Adalberto Tokarski** · Pedido de reconsideração de multa de R$ 5 mil (uso de recursos de alienação de bens da União) → aprovado por unanimidade: negado provimento
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=15386s)
+- **RD 382 (2015-04-15)**, 45 · relator **Adalberto Tokarski** · Pedido de reconsideração de advertência e multa de R$ 6.800 (EBN: balanço e frota) → aprovado por unanimidade: negado provimento
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=15643s)
+- **RD 382 (2015-04-15)**, 46 · relator **Adalberto Tokarski** · Pedido de reconsideração de multa de R$ 136.500 por explorar terminal sem autorização → aprovado por unanimidade: provimento parcial
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=15989s)
+- **RD 382 (2015-04-15)**, 47 · relator **Adalberto Tokarski** · Pedido de reconsideração de advertência (construção de terminal em Barra do Riacho antes da autorização) → aprovado por unanimidade: negado provimento
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=16581s)
+- **RD 382 (2015-04-15)**, 48 · relator **Adalberto Tokarski** · Pedido de reconsideração de multa de R$ 104.500 por demolição de bens da União sem autorização → aprovado por unanimidade: negado provimento
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=16875s)
+- **RD 382 (2015-04-15)**, 51 · relator **Adalberto Tokarski** · Processo administrativo sancionador → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=18308s)
+- **RD 382 (2015-04-15)**, 52 · relator **Adalberto Tokarski** · Processo administrativo sancionador: operar instalação portuária sem autorização → aprovado por unanimidade: auto insubsistente
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=18326s)
+- **RD 382 (2015-04-15)**, 53 · relator **Adalberto Tokarski** · Processo administrativo sancionador: inventário de bens da União, PDZ e demolição de imóveis sem autorização → aprovado por unanimidade: parcialmente subsistente
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=18735s)
+- **RD 382 (2015-04-15)**, 54 · relator **Adalberto Tokarski** · Processo administrativo sancionador: navegação de apoio portuário sem autorização (terminal Gerdau Usiba) → aprovado por unanimidade: multa
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=19405s)
+- **RD 382 (2015-04-15)**, 55 · relator **Adalberto Tokarski** · Processo administrativo sancionador: fiscalização de operadores, cessão de salas/contêineres sem contrato, manutenção de equipamentos (Porto de Natal) → aprovado por unanimidade: parcialmente subsistente
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=19893s)
+- **RD 382 (2015-04-15)**, 56 · relator **Adalberto Tokarski** · Processo administrativo sancionador - adiado para estudar tipificação → adiado pelo relator («pedindo vistas»)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=20518s)
+- **RD 382 (2015-04-15)**, 57 · relator **Adalberto Tokarski** · Processo administrativo sancionador - adiado para estudar tipificação → adiado pelo relator («pedindo vistas»)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=20518s)
+- **RD 382 (2015-04-15)**, 58 · relator **Adalberto Tokarski** · Processo administrativo contencioso - adiado para estudar tipificação → adiado pelo relator («pedindo vistas»)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=20518s)
+- **RD 384 (2015-05-20)**, 1 · relator **Fernando Fonseca** · Pedido de reconsideração de decisão da SFC que aplicou multa de R$ 200 mil e determinou PAS de cassação por descumprimento do TAC 06/2011-SPO (constru → aprovado por unanimidade (provimento parcial: TAC extinto sem multa)
+  - votos: Fernando: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=30s)
+- **RD 384 (2015-05-20)**, 2 · relator **Fernando Fonseca** · Processo administrativo sancionador (relatoria de Fernando Fonseca, já com vista de Adalberto Tokarski) → pedido de vista (Mário Povia)
+  - votos: Mário: vista · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=864s)
+- **RD 384 (2015-05-20)**, 11 · relator **Fernando Fonseca** · Processo administrativo sancionador por operar navegação de apoio portuário/marítimo sem autorização (UR Vitória) → aprovado por unanimidade (auto subsistente, multa)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=1870s)
+- **RD 384 (2015-05-20)**, 12 · relator **Fernando Fonseca** · Pedido de reconsideração contra multa de R$ 18 mil aplicada na 376ª RO por não realizar agendamento de veículos para acesso ao terminal → aprovado por unanimidade (recurso conhecido e negado)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=2190s)
+- **RD 384 (2015-05-20)**, 14 · relator **Fernando Fonseca** · Recurso administrativo contra multa por descumprimento do TAC 03/2011-SPO (licitação da área arrendada à Vale/Valesul em Itaguaí) → aprovado por unanimidade (recurso negado)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=2888s)
+- **RD 384 (2015-05-20)**, 16 · relator **Fernando Fonseca** · Processo administrativo sancionador (auto 00715-3/2014): combate a incêndio, contratos de uso temporário/arrendamento, tarifas de armazenagem etc. → aprovado por unanimidade (multa e TAC)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=4055s)
+- **RD 384 (2015-05-20)**, 17 · relator **Fernando Fonseca** · Pedido de reconsideração contra multa de R$ 357 mil por iniciar ampliação de instalação portuária (segunda ponte de acesso ao cais flutuante) sem auto → aprovado por unanimidade (recurso negado)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=4776s)
+- **RD 385 (2015-06-01)**, 9 · relator **Mário Povia** · Processo sancionador: apoio portuário sem autorização (Angra dos Reis) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=2377s)
+- **RD 385 (2015-06-01)**, 10 · relator **Mário Povia** · Processo contencioso: termo de permissão de uso com Itaqui Geração de Energia sem licitação (Porto do Itaqui) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=2700s)
+- **RD 385 (2015-06-01)**, 11 · relator **Mário Povia** · Processo contencioso: omissão em licitar áreas de arrendamentos vencidos no Porto do Recife → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=3419s)
+- **RD 385 (2015-06-01)**, 12 · relator **Mário Povia** · Recurso administrativo contra advertência e multa de R$ 60 mil (Res. 858) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=4401s)
+- **RD 385 (2015-06-01)**, 16 · relator **Mário Povia** · Processo sancionador: alteração de frota não informada, apoio portuário sem autorização e falta de informações (Salvador) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=5914s)
+- **RD 385 (2015-06-01)**, 17 · relator **Mário Povia** · Processo sancionador: perda da única embarcação garantidora da autorização de apoio portuário → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=6193s)
+- **RD 385 (2015-06-01)**, 20 · relator **Fernando Fonseca** · Processo sancionador: não adaptação do contrato de adesão à Lei 12.815 → adiado (pedido de vista)
+  - votos: Fernando: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=6751s)
+- **RD 385 (2015-06-01)**, 21 · relator **Fernando Fonseca** · Processo sancionador: exploração de área no Porto de Cabedelo após extinção do arrendamento → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=7063s)
+- **RD 385 (2015-06-01)**, 22 · relator **Fernando Fonseca** · Processo contencioso: descumprimento de TAC (quadro de pessoal, apropriação de receitas pelo Estado, autonomia para licitar, fiscalização da Tergrasa) → adiado (pedido de vista)
+  - votos: Fernando: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=7453s)
+- **RD 385 (2015-06-01)**, 23 · relator **Fernando Fonseca** · Processo sancionador → adiado (pedido de vista)
+  - votos: Mário: vista · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=8052s)
+- **RD 385 (2015-06-01)**, 24 · relator **Fernando Fonseca** · Processo contencioso → adiado (pedido de vista)
+  - votos: Mário: vista · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=8099s)
+- **RD 385 (2015-06-01)**, 25 · relator **Fernando Fonseca** · Processo contencioso: falta de informações, não recebimento da fiscalização (porto do Forno), contrato de uso temporário sem autorização, informações  → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=8117s)
+- **RD 385 (2015-06-01)**, 34 · relator **Fernando Fonseca** · Pedido de reconsideração contra multa de R$ 11.220 (RO 378) → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=10318s)
+- **RD 385 (2015-06-01)**, 35 · relator **Fernando Fonseca** · Pedido de reconsideração contra multa de R$ 110 mil (ocupação irregular do terminal açucareiro pelo Sindaçúcar, RO 379) → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=10545s)
+- **RD 386 (2015-06-25)**, 1 · relator **Fernando Fonseca** · Processo administrativo sancionador (em vista) → adiado (vista prorrogada)
+  - votos: Mário: vista · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=29s)
+- **RD 386 (2015-06-25)**, 2 · relator **Mário Povia** · Sancionador: auto de infração 724-2 (navegação interior; INSS, conjunto empurrador-barcaça, operação comercial) → aprovado: multas de R$ 393,75 e R$ 2.362,50; cassação afastada após voto-vista
+  - votos: Mário: relator; Adalberto: revisor_diverge; Fernando: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=58s)
+- **RD 386 (2015-06-25)**, 3 · relator **Fernando Fonseca** · Processo administrativo contencioso: cessões de área irregulares e outras infrações no porto de Itajaí (voto-vista) → aprovado o voto do relator; voto-vista de Tokarski vencido
+  - votos: Fernando: relator; Adalberto: vencido; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=801s)
+- **RD 386 (2015-06-25)**, 4 · relator **Adalberto Tokarski** · Processo contencioso: controle de acesso, regulamento e escala de TPAs como guarda portuária (Porto Velho) → aprovado o voto-vista: advertência (relator converge)
+  - votos: Adalberto: revisor_acompanha; Mário: revisor_diverge; Fernando: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=2228s)
+- **RD 386 (2015-06-25)**, 5 · relator **Adalberto Tokarski** · Sancionador: auto 716-1 - capatazia com mão de obra própria fora do OGMO no porto de Aratu → aprovado o voto do relator (multa de R$ 78.750); voto-vista de Povia vencido
+  - votos: Adalberto: relator; Mário: vencido; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=3422s)
+- **RD 386 (2015-06-25)**, 6 · relator **Adalberto Tokarski** · Sancionador: auto 718-8 - tomadora do serviço de capatazia fora do OGMO no porto de Aratu → aprovado o voto do relator (multa de R$ 87.500); voto-vista de Povia vencido
+  - votos: Adalberto: relator; Mário: vencido; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=4411s)
+- **RD 386 (2015-06-25)**, 9 · relator **Fernando Fonseca** · Processo em vista de Tokarski; vai à próxima reunião → adiado (vista prorrogada)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=6159s)
+- **RD 386 (2015-06-25)**, 10 · relator **Fernando Fonseca** · Processo administrativo contencioso (em vista) → adiado (vista prorrogada)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=6182s)
+- **RD 386 (2015-06-25)**, 11 · relator **Fernando Fonseca** · Processo contencioso - instalação em Porto Velho (em vista, baixado em diligência) → adiado (vista prorrogada)
+  - votos: Mário: vista · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=6202s)
+- **RD 386 (2015-06-25)**, 12 · relator **Fernando Fonseca** · Processo contencioso - instalação em Caracaraí (em vista) → adiado (vista prorrogada)
+  - votos: Mário: vista · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=6220s)
+- **RD 386 (2015-06-25)**, 17 · relator **Mário Povia** · Processo contencioso: não comprovação de operação comercial no apoio marítimo → aprovado conforme voto do relator
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=7645s)
+- **RD 386 (2015-06-25)**, 18 · relator **Mário Povia** · Processo contencioso: frota, afretamento, balanço, patrimônio líquido e regularidade fiscal → aprovado conforme voto do relator
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=8162s)
+- **RD 386 (2015-06-25)**, 23 · relator **Fernando Fonseca** · Sancionador: caminhões sem agendamento e sem passar pelo pátio regulador (Santos) → aprovado conforme voto do relator
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=9622s)
+- **RD 386 (2015-06-25)**, 24 · relator **Fernando Fonseca** · Sancionador: não recolhimento ao Tesouro do produto de leilão de bens do porto de Salvador → aprovado conforme voto do relator
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=10000s)
+- **RD 386 (2015-06-25)**, 27 · relator **Fernando Fonseca** · Sancionador: exploração de instalação de uso privado sem autorização (Rio de Janeiro) → aprovado o voto do relator (TAC); Povia vencido
+  - votos: Fernando: relator; Mário: vencido; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=11355s)
+- **RD 386 (2015-06-25)**, 37 · relator **Adalberto Tokarski** · Recurso contra multa de R$ 4.950 → aprovado conforme voto do relator (recurso não conhecido)
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=14064s)
+- **RD 386 (2015-06-25)**, 42 · relator **Adalberto Tokarski** · Sancionador: atraso de 43 dias na comunicação de contrato de passagem (Vitória) → aprovado conforme voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=15639s)
+- **RD 386 (2015-06-25)**, 43 · relator **Adalberto Tokarski** · Sancionador - pedido de vista → pedido de vista de Fernando Fonseca
+  - votos: Fernando: vista · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=16069s)
+- **RD 387 (2015-07-29)**, 2 · relator **Fernando Fonseca** · Proposta de norma de direitos e deveres dos usuários e das empresas de navegação (apoio marítimo, apoio portuário, cabotagem, longo curso) e infrações → aprovado conforme voto do relator (maioria; voto-vista de Tokarski vencido)
+  - votos: Fernando: relator; Adalberto: vencido; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=2144s)
+- **RD 387 (2015-07-29)**, 3 · relator **Fernando Fonseca** · Processo administrativo contencioso (retorno de vista) → aprovado conforme voto do relator (unânime)
+  - votos: Fernando: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=5315s)
+- **RD 387 (2015-07-29)**, 4 · relator **Fernando Fonseca** · Processo administrativo sancionador: não adaptação do contrato de adesão (art. 58 da Lei 12.815; AI 01288/2014) (retorno de vista) → não concluído: pedido de vista de Mário Povia
+  - votos: Fernando: relator; Adalberto: revisor_diverge; Mário: vista · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=5380s)
+- **RD 387 (2015-07-29)**, 5 · relator **Mário Povia** · Ampliação de área (25%) de TUP em Itajaí/SC (contrato de adesão 12/2014) (retorno de vista) → rejeitado (maioria): sugere à SEP o indeferimento da ampliação; unânime quanto à apuração 
+  - votos: Mário: vencido; Fernando: revisor_diverge; Adalberto: revisor_diverge · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=5890s)
+- **RD 387 (2015-07-29)**, 7 · relator **Mário Povia** · Processo administrativo sancionador: cobrança ao exportador por rolagem de carga após omissão de navio, pesagem de contêiner e falta de registro de om → aprovado conforme voto do relator (unânime)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=6714s)
+- **RD 387 (2015-07-29)**, 8 · relator **Mário Povia** · Processo administrativo sancionador: não adaptação do contrato de adesão do terminal de regaseificação de GNL da Bahia (TRBA) → aprovado conforme voto do relator (unânime)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=7658s)
+- **RD 387 (2015-07-29)**, 9 · relator **Mário Povia** · Processo administrativo sancionador: exploração de terminal sem autorização dentro da poligonal do porto organizado de Belém → aprovado conforme voto do relator (unânime)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=7751s)
+- **RD 387 (2015-07-29)**, 10 · relator **Mário Povia** · Processo administrativo contencioso: termos de permissão de uso no terminal de Ponta da Espera (travessia São Luís–Alcântara) → aprovado conforme voto do relator (unânime)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=8392s)
+- **RD 387 (2015-07-29)**, 11 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 120 mil (apoio portuário sem autorização; 371ª reunião) → aprovado conforme voto do relator (unânime)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=8932s)
+- **RD 387 (2015-07-29)**, 12 · relator **Mário Povia** · Pedido de reconsideração de multa (descumprimento da Res. 2238: restituição de recursos repassados ao município de Itajaí) → aprovado conforme voto do relator (unânime)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=9172s)
+- **RD 387 (2015-07-29)**, 13 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 77 mil (ocupação irregular do armazém E1, porto de Porto Alegre, e informação falsa) → aprovado conforme voto do relator (unânime)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=9683s)
+- **RD 387 (2015-07-29)**, 18 · relator **Fernando Fonseca** · Recurso com pedido de efeito suspensivo contra decisão da 355ª reunião (Res. 3270): tabela 4 de armazenagem cobrada em desacordo com a Res. 2381 → aprovado conforme voto do relator (unânime)
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=10483s)
+- **RD 387 (2015-07-29)**, 27 · relator **Fernando Fonseca** · Recurso contra multa de R$ 2.600 por travessia sem autorização (rio Paranaíba, Davinópolis/GO–Abadia dos Dourados/MG) → aprovado conforme voto do relator (unânime)
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=14234s)
+- **RD 387 (2015-07-29)**, 33 · relator **Fernando Fonseca** · Processo administrativo sancionador: não adaptação do termo de autorização do TUP de combustíveis em Santarém/PA → aprovado conforme voto do relator (maioria; Tokarski vencido)
+  - votos: Fernando: relator; Adalberto: vencido; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=15112s)
+- **RD 387 (2015-07-29)**, 34 · relator **Fernando Fonseca** · Processo administrativo sancionador: construção de IP4 em Itacoatiara/AM sem autorização → aprovado conforme voto do relator (unânime)
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=15619s)
+- **RD 387 (2015-07-29)**, 40 · relator **Adalberto Tokarski** · Processo administrativo sancionador: estaleiro em Niterói sem autorização → aprovado conforme voto do relator (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=16842s)
+- **RD 387 (2015-07-29)**, 41 · relator **Adalberto Tokarski** · Processo administrativo sancionador: terminal de cargas e passageiros sem autorização em Tabatinga → aprovado conforme voto do relator (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=17111s)
+- **RD 387 (2015-07-29)**, 42 · relator **Adalberto Tokarski** · Pedido de reconsideração de multa (368ª reunião): CSN, vistorias e contribuição sindical → aprovado conforme voto do relator (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=17678s)
+- **RD 388 (2015-08-12)**, 1 · relator **Fernando Fonseca** · Processo administrativo sancionador por deixar de adaptar a outorga (contrato de adesão MTD/PH 081/99) — voto-vista → aprovado por unanimidade (auto subsistente, multa)
+  - votos: Fernando: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=43s)
+- **RD 388 (2015-08-12)**, 3 · relator **Fernando Fonseca** · Pedido de reconsideração contra multa de R$ 300 mil da SFC por descumprimento do TAC 02/2012 (início das obras do TUP Mearim granéis sólidos) — voto-v → aprovado por maioria o voto-vista (provimento, TAC extinto sem multa); relator vencido
+  - votos: Fernando: vencido; Adalberto: revisor_acompanha; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=1134s)
+- **RD 388 (2015-08-12)**, 4 · relator **Mário Povia** · Processo administrativo contencioso por transporte longitudinal de passageiros e cargas Macapá-AP–Chaves-PA sem autorização → aprovado por unanimidade (multa e prazo para regularizar)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=2188s)
+- **RD 388 (2015-08-12)**, 5 · relator **Mário Povia** · Processo administrativo contencioso sobre o plano de segurança (ISPS/Conportos) do porto organizado de Santana → aprovado por unanimidade (auto insubsistente, arquivamento)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=2641s)
+- **RD 388 (2015-08-12)**, 6 · relator **Mário Povia** · Processo administrativo sancionador por permitir ocupação de área do porto organizado pela Bianchini (píer do TUP) sem contrato → aprovado por unanimidade (auto insubsistente, arquivamento)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=3162s)
+- **RD 388 (2015-08-12)**, 7 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 3 mil (378ª RO) por deixar de prestar informações no prazo → aprovado por unanimidade (recurso negado)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=4218s)
+- **RD 388 (2015-08-12)**, 8 · relator **Mário Povia** · Processo administrativo sancionador por cessão gratuita de ~193 m² do armazém A-2 ao município (campanha do agasalho) → aprovado por unanimidade (auto insubsistente, arquivamento)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=4324s)
+- **RD 388 (2015-08-12)**, 9 · relator **Mário Povia** · Processo administrativo sancionador por operações portuárias não autorizadas (auto 1020-0 retificado; multa proposta R$ 332.500) → aprovado por unanimidade (auto nulo, arquivamento e novo auto)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=4795s)
+- **RD 388 (2015-08-12)**, 11 · relator **Mário Povia** · Processo administrativo sancionador por explorar área (~25 mil m², terminal TGL1) no porto de Aratu sem contrato vigente → aprovado por unanimidade (auto insubsistente)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=5689s)
+- **RD 388 (2015-08-12)**, 13 · relator **Fernando Fonseca** · Processo administrativo contencioso → pedido de vista (Adalberto Tokarski)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=7383s)
+- **RD 388 (2015-08-12)**, 14 · relator **Fernando Fonseca** · Processo administrativo sancionador por não adaptar o termo de autorização 073/2003 → aprovado por unanimidade (auto insubsistente, perda de objeto)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=7419s)
+- **RD 388 (2015-08-12)**, 18 · relator **Fernando Fonseca** · Processo administrativo contencioso: falta de alvará PPCI e construção de armazém (~38 mil t) sem autorização → aprovado por unanimidade (multa)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=9922s)
+- **RD 388 (2015-08-12)**, 19 · relator **Fernando Fonseca** · Processo administrativo contencioso (navegação de apoio marítimo/portuário): falhas formais e recapitulação da infração → aprovado por unanimidade (arquivamento e novo PAS)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=10545s)
+- **RD 388 (2015-08-12)**, 20 · relator **Fernando Fonseca** · Processo administrativo contencioso por não submeter à ANTAQ aditivo de prorrogação do contrato de arrendamento 92/038 → aprovado por unanimidade (multa)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=11345s)
+- **RD 388 (2015-08-12)**, 23 · relator **Fernando Fonseca** · Processo administrativo contencioso por informações divergentes ao sistema de desempenho portuário → aprovado por unanimidade (arquivamento)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=13076s)
+- **RD 389 (2015-08-27)**, 2 · relator **Mário Povia** · Denúncia contra cobranças do OGMO de Rio Grande (joia de admissão, mensalidades antes do início das operações e mensalidades maiores para novos operad → aprovado
+  - votos: Mário: relator; Fernando: outro; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=px8mI3sMZqA&t=54s)
+- **RD 389 (2015-08-27)**, 9 · relator **Fernando Fonseca** · PAC por operar terminal de uso privado sem autorização (multa proposta de R$ 800 mil) — anulado por mandado de segurança → aprovado (PAC anulado)
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=px8mI3sMZqA&t=7306s)
+- **RD 389 (2015-08-27)**, 10 · relator **Fernando Fonseca** · Recurso contra multa de R$ 15 mil por não manter embarcação em operação comercial (navegação interior, bacia Paraguai-Paraná) → pedido de vista
+  - votos: Fernando: relator; Mário: outro; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=px8mI3sMZqA&t=7701s)
+- **RD 389 (2015-08-27)**, 11 · relator **Fernando Fonseca** · PAS por operar navegação de apoio portuário sem autorização no terminal da Samarco → aprovado
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=px8mI3sMZqA&t=8076s)
+- **RD 389 (2015-08-27)**, 12 · relator **Fernando Fonseca** · Contrato emergencial de uso de área (cerca de 32 mil m²) firmado sem anuência da ANTAQ no porto de Imbituba → aprovado
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=px8mI3sMZqA&t=8978s)
+- **RD 389 (2015-08-27)**, 13 · relator **Fernando Fonseca** · PAC contra a CDRJ por diversas infrações (inventário de bens, manifestação do CAP, seguros, certificado de bombeiros, guindastes em área operacional) → aprovado
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=px8mI3sMZqA&t=9766s)
+- **RD 390 (2015-09)**, 1 · relator **Fernando Fonseca** · Processo administrativo contencioso (PAC) – fiscalização PAIF 2013 no porto do Rio Grande: autoridade controladora, inventário patrimonial, contratos  → aprovado o voto do relator por maioria (multa total ≈ R$ 1,246 milhão); Adalberto Tokarski
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=30s)
+- **RD 390 (2015-09)**, 6 · relator **Mário Povia** · PAS – transferir cargas de longo curso para destinos desconhecidos sem anuência das autoridades (Paranaguá) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=1840s)
+- **RD 390 (2015-09)**, 7 · relator **Mário Povia** · PAS – auto de infração retificado após notificação (documentos e seguro de responsabilidade civil, arrendamento) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=2280s)
+- **RD 390 (2015-09)**, 8 · relator **Mário Povia** · Pedido de reconsideração de advertência e multa de R$ 105 mil (ampliação de TUP em Rio Grande sem autorização) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=2490s)
+- **RD 390 (2015-09)**, 9 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 52.500 por explorar terminal privado sem autorização (Niterói) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=2665s)
+- **RD 390 (2015-09)**, 13 · relator **None** · Processo administrativo sancionador – com pedido de vista → não deliberado: em pedido de vista de Fernando Fonseca
+  - votos: Fernando: vista · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=3220s)
+- **RD 390 (2015-09)**, 22 · relator **Fernando Fonseca** · PAC – explorar instalação portuária (ETC) sem autorização → aprovado por maioria; Adalberto Tokarski parcialmente vencido
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=4365s)
+- **RD 390 (2015-09)**, 23 · relator **Fernando Fonseca** · PAC – explorar instalação portuária sem autorização → aprovado por maioria; Adalberto Tokarski parcialmente vencido
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=4950s)
+- **RD 390 (2015-09)**, 25 · relator **Fernando Fonseca** · Revogação da determinação de lavratura de auto de infração contra a Codesp por não licitar área de arrendamento vencido (PES 18/90) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=5630s)
+- **RD 390 (2015-09)**, 28 · relator **Fernando Fonseca** · PAC – irregularidades no porto de Vitória (certidão municipal, contrato não adaptado à Res. 2240, qualificação de operadores, fiscalização) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=6930s)
+- **RD 390 (2015-09)**, 30 · relator **Fernando Fonseca** · PAC – TUP em Rio Grande movimentou arroz, carga não prevista no termo de autorização → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=7924s)
+- **RD 390 (2015-09)**, 31 · relator **Fernando Fonseca** · PAC – atraso na recomposição do equilíbrio do contrato de arrendamento 92/98 → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=8906s)
+- **RD 390 (2015-09)**, 35 · relator **Fernando Fonseca** · PAC – TUP Saladeiro em Corumbá (MS) sem manutenção nem operação → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=11003s)
+- **RD 391 (2015-09-23)**, 3 · relator **Mário Povia** · Processo sancionador: exploração da área «antigas oficinas e carreira naval» na poligonal do porto organizado de Vitória sem licitação nem contrato vá → aprovado
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=382s)
+- **RD 391 (2015-09-23)**, 4 · relator **Mário Povia** · Processo sancionador: não adaptação do contrato de arrendamento com a CPBS à Res. 2240 → aprovado
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=833s)
+- **RD 391 (2015-09-23)**, 5 · relator **Mário Povia** · Processo sancionador: exploração de instalação portuária sem autorização (Regional de Belém) → aprovado
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=1258s)
+- **RD 391 (2015-09-23)**, 7 · relator **Mário Povia** · Processo contencioso: EBN de cabotagem/longo curso sem operação regular da única embarcação própria em 2013 e uso intenso de afretamento de estrangeir → aprovado
+  - votos: Mário: relator; Adalberto: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=1519s)
+- **RD 391 (2015-09-23)**, 15 · relator **Mário Povia** · Contrato de uso não exclusivo de área pública (área no porto organizado de Itajaí, adjacente ao arrendamento 30/2001) → aprovado
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=3403s)
+- **RD 391 (2015-09-23)**, 17 · relator **None** · Processo administrativo contencioso → pedido de vista
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=5079s)
+- **RD 391 (2015-09-23)**, 18 · relator **Fernando Fonseca** · Processo administrativo sancionador (proposta de encaminhamento padronizado para casos semelhantes); a legenda tem lacuna → não identificado
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=5104s)
+- **RD 391 (2015-09-23)**, 21 · relator **Fernando Fonseca** · Processo sancionador: operação especial com módulos da plataforma P-75 e falta de entrega de documentos/notas fiscais → aprovado
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=6120s)
+- **RD 391 (2015-09-23)**, 23 · relator **Adalberto Tokarski** · Processo sancionador: ocupação de área do porto de Paranaguá sem licitação (contrato 046/2002 de autorização de uso) → aprovado
+  - votos: Mário: acompanha; Fernando: acompanha; Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=6891s)
+- **RD 391 (2015-09-23)**, 24 · relator **Adalberto Tokarski** · Processo sancionador: não adaptação de contrato de adesão MT/DP 093/2000 (art. 58 da Lei 12.815) → aprovado
+  - votos: Mário: acompanha; Fernando: acompanha; Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=7296s)
+- **RD 391 (2015-09-23)**, 25 · relator **Adalberto Tokarski** · Processo sancionador: não adaptação do termo de autorização 415/2008 em Porto Velho/RO → aprovado
+  - votos: Mário: acompanha; Fernando: acompanha; Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=7560s)
+- **RD 391 (2015-09-23)**, 26 · relator **Adalberto Tokarski** · Pedido de reconsideração de multa por não apresentar demonstrações contábeis de 2012 → provimento parcial
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=8122s)
+- **RD 392 (2015-10-22)**, 1 · relator **Mário Povia** · Processo sancionador (vista): operar na navegação de apoio sem autorização e falta de balanço auditado (res. 2510) → multa por operar sem autorização; infração do balanço insubsistente (valor final não confi
+  - votos: Adalberto: revisor_acompanha; Mário: relator; Fernando: outro · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=40s)
+- **RD 392 (2015-10-22)**, 2 · relator **Mário Povia** · Processo contencioso: cessão irregular do rebocador Anápolis a empresa privada e falta de manutenção do bem da União → aprovado: multa de R$ 270 mil + advertência; fiscalização da EBN Sul Norte
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=1212s)
+- **RD 392 (2015-10-22)**, 3 · relator **Mário Povia** · Processo contencioso: porto de Corumbá sem licença ambiental, ocupação do Centro de Convenções e desvio de finalidade (convênio de delegação 13/98) → aprovado: multas (licença ambiental, R$ 27.500 e R$ 137.500) + articulação com MT/SEP para
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=2236s)
+- **RD 392 (2015-10-22)**, 4 · relator **Mário Povia** · Pedido de reconsideração: multas por cessão de área em Salvador à Pedreiras Valéria sem licitação (prescrição) → reconsideração negada; multas mantidas (R$ 53.460 e R$ 13.365)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=3168s)
+- **RD 392 (2015-10-22)**, 6 · relator **Mário Povia** · Pedido de reconsideração: multa de R$ 165 mil por explorar instalação portuária (píer de rebocadores) sem autorização → negado provimento; multa de R$ 165 mil mantida
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=3711s)
+- **RD 392 (2015-10-22)**, 10 · relator **Fernando Fonseca** · Processo contencioso: falta de manutenção de vigas, informações falsas sobre obras, balizamento, PDZ etc. → aprovado: multa total de R$ 246.950; SEP decide sobre denúncia do convênio de delegação
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=5344s)
+- **RD 392 (2015-10-22)**, 11 · relator **Fernando Fonseca** · Processo contencioso: uso irregular de espelho d água sem cessão da SPU → advertência em vez de multa (relator vencido)
+  - votos: Fernando: relator; Adalberto: outro; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=6828s)
+- **RD 392 (2015-10-22)**, 12 · relator **Fernando Fonseca** · Processo contencioso: falta de PEI, informações não prestadas e calado não divulgado → aprovado: multa total de cerca de R$ 3.093,75 (legenda incerta)
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=7012s)
+- **RD 392 (2015-10-22)**, 13 · relator **Fernando Fonseca** · Processo sancionador: ocupação irregular de área no porto de Salvador pelo Banco Santander → auto subsistente, mas sem penalidade e arquivado
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=7780s)
+- **RD 392 (2015-10-22)**, 14 · relator **Fernando Fonseca** · Processo sancionador: contrato temporário de armazém (res. 2240) → auto insubsistente; fato apurado em outro processo
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=8365s)
+- **RD 392 (2015-10-22)**, 15 · relator **Fernando Fonseca** · Processo sancionador: não comprovar requisitos para manutenção da outorga (apoio portuário) → aprovado: multa de R$ 2.062,50 (sem cassação)
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=8902s)
+- **RD 392 (2015-10-22)**, 16 · relator **Fernando Fonseca** · Processo sancionador: cobrança de armazenagem extra ao exportador por omissão de navio (rolagem de carga) → aprovado: multa de R$ 87.500 + devolução em 30 dias (faturas de cerca de R$ 30 mil)
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=9442s)
+- **RD 392 (2015-10-22)**, 24 · relator **Adalberto Tokarski** · Processo sancionador: cobrança de armazenagem ao exportador por fato de terceiro → não claro na legenda (relator propôs R$ 888; Mário defende coerência com o valor da área t
+  - votos: Adalberto: relator; Mário: outro; Fernando: outro · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=12511s)
+- **RD 392 (2015-10-22)**, 25 · relator **Adalberto Tokarski** · Processo sancionador: não adaptação do termo de autorização de TUP (proposta de cassação) → aprovado: nulidade do auto e arquivamento
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=13226s)
+- **RD 392 (2015-10-22)**, 26 · relator **Adalberto Tokarski** · Processo sancionador: operar estaleiro sem autorização/registro; três autos lavrados → aprovado: nulidade do auto e arquivamento; orientar registro
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=14213s)
+- **RD 394 (2015-11-19)**, 1 · relator **Fernando Fonseca** · Denúncia de cobrança (vista) → vista prorrogada
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=29s)
+- **RD 394 (2015-11-19)**, 2 · relator **None** · Processo contencioso (vista) → vista prorrogada
+  - votos: Fernando: vista · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=58s)
+- **RD 394 (2015-11-19)**, 3 · relator **Mário Povia** · Processo sancionador (vista): exploração de terminal sem autorização dentro da poligonal de Vitória → aprovado por unanimidade: multa de R$ 61.250, prazo de 90 dias para regularizar
+  - votos: Mário: relator; Fernando: revisor_acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=82s)
+- **RD 394 (2015-11-19)**, 4 · relator **Mário Povia** · Processo contencioso: perda das condições da outorga (apoio portuário sem embarcações) → aprovado: arquivamento; renúncia decidida no processo de outorga
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=764s)
+- **RD 394 (2015-11-19)**, 5 · relator **Mário Povia** · Processo sancionador: não apresentação de documentos para adaptação do contrato de adesão → auto insubsistente; arquivamento
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=1252s)
+- **RD 394 (2015-11-19)**, 6 · relator **Mário Povia** · Processo sancionador: documentos e planos não apresentados → parcialmente subsistente: multas de R$ 1.650 e R$ 485
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=1604s)
+- **RD 394 (2015-11-19)**, 14 · relator **Fernando Fonseca** · Processo sancionador: não adaptação de termo de autorização → auto insubsistente; arquivamento
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=4168s)
+- **RD 394 (2015-11-19)**, 15 · relator **Fernando Fonseca** · Processo contencioso: contratar prestador de apoio portuário sem autorização → auto insubsistente; arquivamento
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=4499s)
+- **RD 394 (2015-11-19)**, 16 · relator **Fernando Fonseca** · Processo contencioso: aditivos a contrato de arrendamento (área de 9.156 m2) sem anuência → arquivamento
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=4910s)
+- **RD 394 (2015-11-19)**, 17 · relator **Fernando Fonseca** · Processo contencioso → pedido de vista (Mário); voto não proferido
+  - votos: Mário: vista · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=5964s)
+- **RD 395 (2015-12-03)**, 1 · relator **None** · Processo sancionador com pedido de vista (vista prorrogada / em diligência) → vista prorrogada
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=30s)
+- **RD 395 (2015-12-03)**, 2 · relator **None** · Processo administrativo contencioso com pedido de vista (vista prorrogada / em diligência) → vista prorrogada
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=40s)
+- **RD 395 (2015-12-03)**, 5 · relator **Fernando Fonseca** · Processo sancionador: exploração de área no porto organizado (auto 1751-0) sem contrato e sem licitação; contrato de transição só assinado em 30/04/20 → aprovado por maioria (multa de R$ 157.500)
+  - votos: Fernando: relator; Adalberto: revisor_diverge; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=1164s)
+- **RD 395 (2015-12-03)**, 6 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 500.000 por ocupar instalação no porto do Itaqui sem instrumento contratual → provimento parcial por maioria (multa reduzida para R$ 157.500)
+  - votos: Mário: relator; Adalberto: revisor_diverge; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=1672s)
+- **RD 395 (2015-12-03)**, 9 · relator **Mário Povia** · Processo sancionador: atraso em responder ofício e onerosidade do termo de uso para a Volvo Ocean Race 2015 → aprovado
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=2525s)
+- **RD 395 (2015-12-03)**, 17 · relator **Fernando Fonseca** · Processo sancionador: exploração de instalação portuária em Manaus sem autorização → aprovado
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=4498s)
+- **RD 395 (2015-12-03)**, 18 · relator **Fernando Fonseca** · Processo sancionador: apoio portuário sem autorização no porto de Vitória (barreiras de contenção) → aprovado
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=5149s)
+- **RD 395 (2015-12-03)**, 19 · relator **Fernando Fonseca** · Processo sancionador: permitir ocupação de ≈9.224 m² no porto de Vitória por empresa sem licitação nem contrato → aprovado
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=5520s)
+- **RD 395 (2015-12-03)**, 20 · relator **Fernando Fonseca** · Processo sancionador: ocupação de ≈675 m² no Cais Navegantes sem licitação nem contrato válido → aprovado
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=6265s)
+- **RD 395 (2015-12-03)**, 21 · relator **Fernando Fonseca** · Processo sancionador: exploração de instalação portuária privada em Manaus sem autorização → pedido de vista
+  - votos: Fernando: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=7069s)
+- **RD 395 (2015-12-03)**, 23 · relator **Fernando Fonseca** · Processo sancionador: ocupação de área no porto de Cabedelo/PB sem contrato válido e falta de seguro → aprovado
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=7720s)
+- **RD 395 (2015-12-03)**, 24 · relator **Fernando Fonseca** · Processo sancionador: celebração do 1º termo aditivo ao arrendamento SUPRG 01/97 sem anuência da ANTAQ → aprovado
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=8656s)
+- **RD 395 (2015-12-03)**, 25 · relator **Fernando Fonseca** · Processo sancionador: não adaptação do termo de autorização 044/2013 à Lei 12.815 → pedido de vista
+  - votos: Fernando: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=9342s)
+- **RD 395 (2015-12-03)**, 32 · relator **Adalberto Tokarski** · Processo sancionador: recebimento de caminhões sem agendamento (191) e sem passar pelo pátio regulador (285), porto de Santos → aprovado
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=12120s)
+- **RD 395 (2015-12-03)**, 35 · relator **Adalberto Tokarski** · Processo sancionador: caminhões sem agendamento e sem passagem pelo pátio regulador, porto de Santos → aprovado
+  - votos: Mário: acompanha; Fernando: acompanha; Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=12972s)
+- **RD 395 (2015-12-03)**, 36 · relator **None** · Processo sancionador com pedido de vista anterior → não deliberado (vista)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=13551s)
+- **RD 396 (2015-12-17)**, 2 · relator **Mário Povia** · Processo com pedido de vista de Adalberto Tokarski → vista prorrogada; não julgado
+  - votos: Adalberto: vista; Mário: relator; Fernando: outro · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=53s)
+- **RD 396 (2015-12-17)**, 3 · relator **Mário Povia** · Processo administrativo sancionador com pedido de vista → vista prorrogada; não julgado
+  - votos: Adalberto: vista; Mário: relator; Fernando: outro · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=71s)
+- **RD 396 (2015-12-17)**, 4 · relator **Adalberto Tokarski** · PAS por suposta prestação de informação inverídica sobre empresa de apoio portuário; voto-vista de Fernando Fonseca → aprovado: auto insubsistente e arquivamento, com acréscimo do item C do voto-vista
+  - votos: Adalberto: relator; Fernando: revisor_acompanha; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=82s)
+- **RD 396 (2015-12-17)**, 5 · relator **Mário Povia** · PAS: movimentação de contêineres fora do perfil de carga autorizado (ETC em Manaus) → aprovado: auto subsistente, advertência
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=832s)
+- **RD 396 (2015-12-17)**, 7 · relator **Mário Povia** · Processo contencioso: exploração de terminal (Porto Velho) sem autorização → aprovado: multa de R$ 3.150
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=1605s)
+- **RD 396 (2015-12-17)**, 8 · relator **Mário Povia** · PAS: terminal de Ponta da Espera (São Luís), certificado do Corpo de Bombeiros, pagamentos e ocupação → aprovado: auto parcialmente subsistente, advertência
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=2126s)
+- **RD 396 (2015-12-17)**, 9 · relator **Mário Povia** · Pedido de reconsideração contra multa por área no porto de Aratu sem licitação → aprovado: conhecido e negado provimento
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=2781s)
+- **RD 396 (2015-12-17)**, 14 · relator **Fernando Fonseca** · PAS: ocupação de área no porto do Rio Grande sem licitação e não envio de planta → aprovado: multa de R$ 17.500 (fato 2) e TAC para regularizar a ocupação (fato 1)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=4315s)
+- **RD 396 (2015-12-17)**, 15 · relator **Fernando Fonseca** · PAS: não adaptação do termo de autorização no prazo → aprovado: auto subsistente, arquivamento sem penalidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=4958s)
+- **RD 396 (2015-12-17)**, 16 · relator **Fernando Fonseca** · PAS: área cedida ao estaleiro sem licitação, cais público, documentos e obras sem análise → aprovado: multa total de cerca de R$ 138,5 mil e TAC de regularização de todas as áreas
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=5304s)
+- **RD 396 (2015-12-17)**, 17 · relator **Fernando Fonseca** · PAS: ocupação de área no porto do Rio Grande; auto sem clareza → aprovado: auto insubsistente, novo auto e TAC
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=6413s)
+- **RD 396 (2015-12-17)**, 18 · relator **Fernando Fonseca** · PAS: área em São José do Norte ocupada além do contrato de uso temporário e receita não arrecadada → aprovado: multa de cerca de R$ 43,4 mil e TAC
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=7033s)
+- **RD 396 (2015-12-17)**, 23 · relator **Fernando Fonseca** · Pedido de reconsideração contra multas da Res. 4368 (cerca de R$ 2,46 milhões) → aprovado: não conhecido por intempestividade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=9738s)
+- **RD 396 (2015-12-17)**, 27 · relator **Adalberto Tokarski** · Recurso contra multa por descumprimento de TAC (patrimônio líquido e certidão fiscal) → aprovado: negado provimento
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=12049s)
+- **RD 396 (2015-12-17)**, 28 · relator **Adalberto Tokarski** · PAS: apoio portuário sem autorização em Angra dos Reis → aprovado: auto subsistente, advertência
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=12325s)
+- **RD 396 (2015-12-17)**, 29 · relator **Adalberto Tokarski** · PAS: ocupação de cerca de 9.224 m2 no porto de Vitória sem licitação → aprovado: multa de R$ 126 mil
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=12804s)
+- **RD 396 (2015-12-17)**, 30 · relator **Adalberto Tokarski** · Processo contencioso: paralisação das atividades e documentação (Res. 2510) → aprovado: arquivamento
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=13561s)
+- **RD 398 (2016-02-12)**, 2 · relator **Fernando Fonseca** · Processo administrativo sancionador: operação portuária sem autorização em instalação (ETC) no rio Paranaíba; voto-vista do Diretor-Geral → aprovado por maioria o voto-vista de Mário Povia: multa reduzida para R$ 18.900, reenquadr
+  - votos: Mário: revisor_acompanha; Fernando: revisor_acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=72s)
+- **RD 398 (2016-02-12)**, 3 · relator **Fernando Fonseca** · Processo administrativo contencioso: não pagamento de tarifa de infraestrutura aquaviária (tabela I) do porto organizado de Porto Alegre → aprovado por maioria o voto-vista de Mário Povia pelo arquivamento; Fernando Fonseca (rela
+  - votos: Fernando: vencido; Mário: revisor_diverge; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=352s)
+- **RD 398 (2016-02-12)**, 9 · relator **Mário Povia** · Processo sancionador: não regularização de áreas e contratos (Res. 2240) — nulidade do auto de infração → aprovado por unanimidade: nulidade do auto e remessa à UREPOA
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=2982s)
+- **RD 398 (2016-02-12)**, 11 · relator **Fernando Fonseca** · Processo sancionador: ocupação de áreas no porto de Rio Grande sem licitação/contrato válido → aprovado por unanimidade: auto subsistente e TAC com SUPRG e SEP intervenientes
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=4481s)
+- **RD 398 (2016-02-12)**, 12 · relator **Fernando Fonseca** · Denúncia sobre preço mínimo em leilão de embarque de minério de ferro de terceiros → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=4863s)
+- **RD 398 (2016-02-12)**, 16 · relator **Fernando Fonseca** · Processo sancionador: ocupação de 3.000 m² em Barra do Riacho sem contrato regular → aprovado por unanimidade: auto insubsistente, arquivamento
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=5805s)
+- **RD 398 (2016-02-12)**, 17 · relator **Fernando Fonseca** · Processo sancionador: ocupação do armazém A11 (área alfandegada) em Imbituba sem licitação/contrato → relator votou por multa de R$ 94.500 (Res. 3274 alterada pela RN 2); votos dos demais não 
+  - votos: Fernando: relator · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=6001s)
+- **RD 398 (2016-02-12)**, 18 · relator **Fernando Fonseca** · Processo sancionador: permitir que a Van Oord ocupasse 3.000 m² em Barra do Riacho sem contrato regular → aprovado por unanimidade: advertência (reenquadramento no inciso 38 do art. 33 da Res. 327
+  - votos: Fernando: relator; Mário: outro; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=6342s)
+- **RD 398 (2016-02-12)**, 19 · relator **Fernando Fonseca** · Processo administrativo contencioso: não início de operação em 180 dias após outorga de apoio marítimo → aprovado por maioria o arquivamento; Mário Povia vencido (advertência)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=7183s)
+- **RD 398 (2016-02-12)**, 20 · relator **Fernando Fonseca** · Processo sancionador: exploração de TUP sem autorização (instalação que atende apoio portuário na Baía de Sepetiba) → aprovado por unanimidade: auto insubsistente, com proposta de TAC e articulação da SFC com
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=7929s)
+- **RD 398 (2016-02-12)**, 21 · relator **Fernando Fonseca** · Processo sancionador: descumprimento de determinação (certificado do Corpo de Bombeiros) → aprovado por unanimidade: auto insubsistente, arquivamento
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=9048s)
+- **RD 398 (2016-02-12)**, 22 · relator **Fernando Fonseca** · Processo sancionador: ocupação do armazém Iglu no porto de Rio Grande sem licitação/contrato → aprovado por unanimidade: auto subsistente, arquivamento sem penalidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=9286s)
+- **RD 398 (2016-02-12)**, 25 · relator **Adalberto Tokarski** · Processo administrativo contencioso: transporte misto na navegação interior (Macapá–Afuá) sem autorização → aprovado por unanimidade: auto subsistente com multa (valor incerto na legenda: R$ 750 ou 
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=10301s)
+- **RD 398 (2016-02-12)**, 27 · relator **Adalberto Tokarski** · Processo sancionador: ocupação de 1.352 m² do armazém E1 sem licitação → aprovado por unanimidade: auto subsistente e TAC com interveniência da SPH
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=11122s)
+- **RD 398 (2016-02-12)**, 28 · relator **Adalberto Tokarski** · Processo sancionador: suposta operação de apoio portuário sem autorização (amarração/desamarração) → aprovado por unanimidade: auto insubsistente, arquivamento
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=11522s)
+- **RD 398 (2016-02-12)**, 30 · relator **Adalberto Tokarski** · Processo sancionador: ocupação dos armazéns E2 e E4 sem licitação → aprovado por unanimidade: auto subsistente e TAC com interveniência da SPH
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=11989s)
+- **RD 398 (2016-02-12)**, 31 · relator **Adalberto Tokarski** · Processo sancionador: cessão gratuita de imóvel à contratada das obras dos berços 3 e 4 → aprovado por unanimidade: auto insubsistente, arquivamento, com ajuste do termo à duração 
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=12418s)
+- **RD 399 (2016-03-03)**, 1 · relator **Fernando Fonseca** · Processo administrativo contencioso contra a autoridade portuária (prestação de contas ao TCU, desincorporação de guindastes, ocupação de área por arr → aprovado por unanimidade nos termos do voto-vista (multa de cerca de R$ 47,7 mil); relator
+  - votos: Fernando: revisor_acompanha; Mário: revisor_diverge; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=39s)
+- **RD 399 (2016-03-03)**, 2 · relator **Fernando Fonseca** · PAS por não adaptar o termo de autorização 292 à Lei 12.815 (pendência de débito ligado à tarifa de acesso aquaviário em disputa judicial); retorno de → aprovado o voto-vista (advertência) por maioria; relator vencido (multa)
+  - votos: Fernando: vencido; Mário: revisor_diverge; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=1141s)
+- **RD 399 (2016-03-03)**, 9 · relator **Mário Povia** · PAS por ocupar área no porto de São Francisco do Sul sem contrato → aprovado por unanimidade conforme voto do relator
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=4069s)
+- **RD 399 (2016-03-03)**, 12 · relator **Fernando Fonseca** · PAS: TUP operou antes do termo de licença de operação, sem licença ambiental e lançou movimentação extemporânea → aprovado por unanimidade conforme voto do relator
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=5028s)
+- **RD 399 (2016-03-03)**, 14 · relator **Fernando Fonseca** · PAS por operar balsa flutuante da União interditada → aprovado por unanimidade conforme voto do relator
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=5569s)
+- **RD 399 (2016-03-03)**, 15 · relator **Fernando Fonseca** · Processo contencioso: transporte na navegação interior sem autorização → aprovado por unanimidade conforme voto do relator
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=6023s)
+- **RD 399 (2016-03-03)**, 21 · relator **Adalberto Tokarski** · Processo contencioso: transporte de passageiros e cargas sem autorização → subsistência com advertência, por maioria; relator vencido quanto ao arquivamento sem pena
+  - votos: Adalberto: vencido; Fernando: outro; Mário: outro · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=7072s)
+- **RD 399 (2016-03-03)**, 22 · relator **Adalberto Tokarski** · PAS por explorar área do porto de Cabedelo após extinção do contrato de arrendamento → aprovado por unanimidade conforme voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=7624s)
+- **RD 399 (2016-03-03)**, 23 · relator **Adalberto Tokarski** · PAS: autoridade portuária permitiu exploração de área por aditivo sem licitação (2005) → aprovado o voto do relator por maioria (insubsistência); vencido Mário Povia
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=8110s)
+- **RD 399 (2016-03-03)**, 24 · relator **Adalberto Tokarski** · PAS por apoio portuário (água potável e passageiros, terminal da Braskem na baía de Guanabara) sem autorização → aprovado conforme voto do relator (unanimidade presumida)
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=8712s)
+- **RD 399 (2016-03-03)**, 28 (extrapauta) · relator **Fernando Fonseca** · PAS com votos-vista (relator e Povia já haviam votado); Tokarski conclui seu voto-vista → resultado não explicitado; Povia diz que a questão já estava pacificada pelos dois votos a
+  - votos: Adalberto: revisor_acompanha; Fernando: relator; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=9147s)
+- **RD 403 (2016-04-28)**, 1 · relator **Fernando Fonseca** · PAS por ocupar armazéns D1, D2 e E5 sem licitação no porto organizado de Porto Alegre → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=83ex6xdeHiw&t=45s)
+- **RD 403 (2016-04-28)**, 2 · relator **Fernando Fonseca** · PAS por não apresentar documentos e ocupar área com contrato vencido no porto de Vitória → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=83ex6xdeHiw&t=644s)
+- **RD 403 (2016-04-28)**, 3 · relator **Fernando Fonseca** · Pedido de reconsideração contra multa de 18.900 reais por operar instalação em São Simão/GO sem autorização → aprovado por unanimidade: não conhecido
+  - votos: Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=83ex6xdeHiw&t=1153s)
+- **RD 403 (2016-04-28)**, 9 · relator **Adalberto Tokarski** · PAS por falta de alvará PPCI dos bombeiros e ampliação sem autorização prévia (armazém 5) → aprovado por unanimidade
+  - votos: Adalberto: relator; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=83ex6xdeHiw&t=2867s)
+- **RD 403 (2016-04-28)**, 11 · relator **Adalberto Tokarski** · PAS por suposto descumprimento de determinação de apresentar EVTEA para prorrogação contratual → aprovado por unanimidade: auto insubsistente
+  - votos: Adalberto: relator; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=83ex6xdeHiw&t=3780s)
+- **RD 403 (2016-04-28)**, 12 · relator **Adalberto Tokarski** · PAS por ocupar área sem contrato entre fim do prazo e assinatura do contrato de transição → aprovado por unanimidade
+  - votos: Adalberto: relator; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=83ex6xdeHiw&t=4651s)
+- **RD 403 (2016-04-28)**, 13 · relator **Adalberto Tokarski** · PAS por construir instalação portuária (Porto Voyage) sem autorização → aprovado por unanimidade: arquivamento
+  - votos: Adalberto: relator; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=83ex6xdeHiw&t=5316s)
+- **RD 403 (2016-04-28)**, 14 · relator **Adalberto Tokarski** · PAS por explorar instalação portuária em Porto Trombetas sem autorização → aprovado por unanimidade
+  - votos: Adalberto: relator; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=83ex6xdeHiw&t=5786s)
+- **RD 404 (2016-06-02)**, 7 · relator **Fernando Fonseca** · PAS por não adaptar o termo de autorização do TUP à Lei 12.815 (proposta de multa de R$ 137,5 mil e cassação) → aprovado por unanimidade conforme voto do relator
+  - votos: Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=bKneMtT4OuQ&t=1446s)
+- **RD 404 (2016-06-02)**, 8 · relator **Fernando Fonseca** · Pedido de reconsideração de multa por falta de licença ambiental → aprovado por unanimidade conforme voto do relator
+  - votos: Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=bKneMtT4OuQ&t=2107s)
+- **RD 404 (2016-06-02)**, 20 · relator **Adalberto Tokarski** · PAS: instalação de construção/reparo naval sem autorização de TUP → aprovado por unanimidade conforme voto do relator
+  - votos: Adalberto: relator; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=bKneMtT4OuQ&t=3391s)
+- **RD 404 (2016-06-02)**, 21 · relator **Adalberto Tokarski** · PAS por não fazer a baixa contábil de armazém desincorporado → aprovado por unanimidade conforme voto do relator
+  - votos: Adalberto: relator; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=bKneMtT4OuQ&t=3856s)
+- **RD 412 (2016-11-01)**, 1 · relator **Fernando Fonseca** · Pedido de reconsideração em processo sancionador (Res. 4.036) — voto-vista → aprovado por unanimidade na forma do voto-vista: não provido, multa reduzida para R$ 63.87
+  - votos: Adalberto: revisor_acompanha; Mário: revisor_acompanha; Fernando: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=64s)
+- **RD 412 (2016-11-01)**, 2 · relator **Fernando Fonseca** · Processo administrativo sancionador sobrestado por divergência: não adaptação do contrato de adesão do terminal fluvial de Juazeiro à Lei 12.815 (AI 1 → aprovado por maioria (2x1): multa de R$ 52.500, vencido Adalberto Tokarski
+  - votos: Fernando: relator; Adalberto: vencido; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=308s)
+- **RD 412 (2016-11-01)**, 3 · relator **Adalberto Tokarski** · Processo administrativo sancionador sobrestado por divergência: contrato de uso temporário com SD Operadora sem anuência da ANTAQ (AI 1502) → relator vencido (2x1): multa de R$ 140 mil e prazo de 30 dias para regularizar
+  - votos: Adalberto: vencido; Fernando: outro; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=511s)
+- **RD 412 (2016-11-01)**, 9 · relator **Adalberto Tokarski** · Processo administrativo sancionador (AI 1745) com proposta de cassação; intimação em endereço divergente do cadastro da Receita → aprovado por unanimidade
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=1267s)
+- **RD 412 (2016-11-01)**, 10 · relator **Adalberto Tokarski** · Processo administrativo sancionador: repotencialização de equipamentos do terminal sem autorização (AI 9946) → aprovado por unanimidade: auto insubsistente, arquivamento
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=1666s)
+- **RD 412 (2016-11-01)**, 14 · relator **Adalberto Tokarski** · Acordo de cooperação técnica ANTAQ–MOB para regulação e fiscalização do transporte aquaviário no Maranhão → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=2367s)
+- **RD 412 (2016-11-01)**, 15 · relator **Fernando Fonseca** · Recurso administrativo contra multa de R$ 20 mil por não elaborar inventário de bens reversíveis previsto em TAC → aprovado por unanimidade: conhecido e não provido
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=2606s)
+- **RD 412 (2016-11-01)**, 16 · relator **Fernando Fonseca** · Pedido de reconsideração contra multa de R$ 50.625 por bônus a cargos de gerência e diretoria (Res. 4.707, 400ª reunião) → aprovado por unanimidade: conhecido e não provido
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=3063s)
+- **RD 412 (2016-11-01)**, 17 · relator **Fernando Fonseca** · Processo administrativo sancionador → pedido de vista de Mário Povia; relator não leu o voto
+  - votos: Mário: vista; Fernando: relator; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=3599s)
+- **RD 412 (2016-11-01)**, 18 · relator **Fernando Fonseca** · Processo administrativo sancionador: estaleiro explorado sem autorização (AI 0015, multa sugerida de R$ 350 mil a R$ 500 mil) → aprovado por unanimidade: auto insubsistente, arquivamento
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=3637s)
+- **RD 412 (2016-11-01)**, 19 · relator **Fernando Fonseca** · Processo administrativo sancionador: cais público usado para embarque de passageiros de cruzeiros sem autorização (AI 1855), com interdição cautelar e → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=4290s)
+- **RD 412 (2016-11-01)**, 36 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 270 mil (cessão irregular de bem público, rebocador) e advertência (falta de manutenção) → aprovado por unanimidade: conhecido e não provido
+  - votos: Mário: relator; Adalberto: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=9159s)
+- **RD 416 (2017-02-01)**, 58 · relator **Mário Povia** · Pedido de reconsideração de multas (PCE e lista de treinamentos) → aprovado por unanimidade (provimento parcial)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=5QSwOSILsGM&t=1033s)
+- **RD 416 (2017-02-01)**, 59 · relator **Mário Povia** · Processo sancionador: três autos com 35 irregularidades (PAF 2013) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=5QSwOSILsGM&t=1264s)
+- **RD 416 (2017-02-01)**, 60 · relator **Mário Povia** · Processo sancionador: oito condutas no porto de Estrela → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=5QSwOSILsGM&t=1768s)
+- **RD 416 (2017-02-01)**, 67 · relator **Fernando Fonseca** · Referendo da Res. 5174: dilação para 12 meses do prazo do TAC para regularizar o cais de Búzios (IPT) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=5QSwOSILsGM&t=4690s)
+- **RD 416 (2017-02-01)**, 70 · relator **Mário Povia** · Referendo da Portaria 280-DG: Plano Plurianual de Fiscalização 2017–2019 e PAF 2017 → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=5QSwOSILsGM&t=6829s)
+- **RD 419 (2017-03-27)**, 4 · relator **Adalberto Tokarski** · Processo administrativo sancionador: auto de infração por permitir ocupação/exploração sem licitação da área Manaus Moderna (Porto de Manaus) → aprovado por unanimidade: auto julgado insubsistente, arquivamento sem penalidade
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dJL-tEcjJfU&t=1010s)
+- **RD 419 (2017-03-27)**, 5 · relator **Adalberto Tokarski** · Processo administrativo sancionador: ocupação de área no porto organizado de Porto Alegre sem licitação; TAC não celebrado → aprovado por unanimidade, com adendo
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dJL-tEcjJfU&t=1800s)
+- **RD 419 (2017-03-27)**, 6 · relator **Adalberto Tokarski** · Processo administrativo sancionador: recusa de documentos e não operação do terminal por três anos → aprovado por unanimidade: arquivamento
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dJL-tEcjJfU&t=2154s)
+- **RD 419 (2017-03-27)**, 7 · relator **Adalberto Tokarski** · Processo administrativo contencioso: cessão de uso onerosa sem licitação e sem comunicação tempestiva → aprovado por unanimidade: multa
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dJL-tEcjJfU&t=2458s)
+- **RD 420 (2017-05-09)**, 4 · relator **Adalberto Tokarski** · Processo administrativo contencioso por ausência de operação no TUP Juazeiro; pedido de reconsideração da multa de R$ 100 mil por descumprimento de TA → aprovado (unânime): arquivamento sem penalidade e provimento da reconsideração
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=477s)
+- **RD 420 (2017-05-09)**, 5 · relator **Adalberto Tokarski** · Processo contencioso: pagamento de bônus a diretores e comissionados em 2009-2010 sem amparo legal, com receitas do porto → aprovado (unânime): multa de cerca de R$ 70,8 mil
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=1114s)
+- **RD 420 (2017-05-09)**, 6 · relator **Adalberto Tokarski** · Processo sancionador: ocupação exclusiva de área do porto organizado sem licitação nem contrato → aprovado (unânime): multa de R$ 175 mil e desocupação em 30 dias
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=1585s)
+- **RD 420 (2017-05-09)**, 7 · relator **Adalberto Tokarski** · Processo sancionador: transbordo ship-to-ship de combustível importado na área de fundeio 3 de Manaus sem autorização; interdição cautelar → aprovado (unânime): auto insubsistente e arquivamento
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=2107s)
+- **RD 420 (2017-05-09)**, 9 · relator **Adalberto Tokarski** · Pedido de reconsideração de multa de R$ 28.562 por condições irregulares de limpeza e higiene em área explorada → aprovado (unânime): reconsideração negada
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=2900s)
+- **RD 420 (2017-05-09)**, 12 · relator **Adalberto Tokarski** · Recurso contra multa de R$ 28.350 aplicada pela SFC por manutenção de empilhadeiras sem caixa separadora de água e óleo → aprovado (unânime): recurso improvido
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=3433s)
+- **RD 420 (2017-05-09)**, 22 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 5 mil por usar recursos de alienação de bens inservíveis sem plano de aplicação aprovado → aprovado (unânime): reconsideração negada
+  - votos: Mário: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=6396s)
+- **RD 421 (2017-05-11)**, 1 · relator **Fernando Fonseca** · PAS: passagem subterrânea no porto de Salvador usada sem contrato → sobrestado (votos divergentes)
+  - votos: Fernando: relator; Mário: outro; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=50s)
+- **RD 421 (2017-05-11)**, 2 · relator **Fernando Fonseca** · PAS: operação de terminal sem autorização (região de Fortaleza) → sobrestado (votos divergentes)
+  - votos: Fernando: relator; Mário: outro; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=667s)
+- **RD 421 (2017-05-11)**, 3 · relator **Fernando Fonseca** · PAS: não adaptação do contrato de adesão MT/DPH 99/93 no prazo da Lei 12.815 → sobrestado (votos divergentes)
+  - votos: Fernando: relator; Mário: outro; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=1181s)
+- **RD 421 (2017-05-11)**, 4 · relator **Fernando Fonseca** · Pedido de revisão de multa por descumprimento de TAC (licença ambiental e CND) → aprovado: provimento parcial, multa de R$ 20 mil
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=1500s)
+- **RD 421 (2017-05-11)**, 5 · relator **Fernando Fonseca** · Pedido de reconsideração contra multa de R$ 126 mil (área fora do contrato de arrendamento) → aprovado: negado provimento
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=2123s)
+- **RD 421 (2017-05-11)**, 7 · relator **Fernando Fonseca** · Pedido de reconsideração contra multa de R$ 10 mil → aprovado: negado provimento
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=2964s)
+- **RD 421 (2017-05-11)**, 8 · relator **Fernando Fonseca** · Recurso contra multa por embarque de passageiros sem pré-qualificação de operador portuário → aprovado: provimento parcial, arquivamento sem penalidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=3205s)
+- **RD 421 (2017-05-11)**, 15 · relator **Fernando Fonseca** · PAS: exploração de instalação portuária sem outorga → aprovado: multa de R$ 126 mil e possibilidade de TAC
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=6708s)
+- **RD 421 (2017-05-11)**, 21 · relator **Fernando Fonseca** · Pedido de reconsideração contra multa de R$ 87,5 mil (área no porto de São Francisco do Sul sem licitação) → aprovado: negado provimento
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=8139s)
+- **RD 425 (2017-06-28)**, 8 · relator **Adalberto Tokarski** · PAS: ocupar área do cais Marcílio Dias (porto de Porto Alegre) sem contrato válido → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=3422s)
+- **RD 425 (2017-06-28)**, 17 · relator **Mário Povia** · PAS: explorar atividade portuária sem autorização ao lado do porto da Ceasa (poligonal de Manaus) → aprovado por unanimidade: auto insubsistente, arquivamento
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=5848s)
+- **RD 425 (2017-06-28)**, 18 · relator **Mário Povia** · PAS: descarga de 17 caminhões de soja refugada no terminal (Paranaguá), contra ordem de serviço da APPA → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=6064s)
+- **RD 425 (2017-06-28)**, 19 · relator **Mário Povia** · PAS: contratação de trabalhadores por prazo indeterminado fora do OGMO → aprovado por unanimidade: nulidade do auto, arquivamento
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=6256s)
+- **RD 425 (2017-06-28)**, 20 · relator **Mário Povia** · PAS: estacionamento remunerado no lote M do porto de Belém sem licitação/contrato válido → aprovado por unanimidade: auto insubsistente, arquivamento
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=6694s)
+- **RD 425 (2017-06-28)**, 21 · relator **Mário Povia** · PAS: ocupação de áreas não operacionais sem contrato válido (porto de Porto Velho) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=7133s)
+- **RD 425 (2017-06-28)**, 26 · relator **Francisval Mendes** · PAS (Santos): tabela de preços, inventário de bens, relatório de integridade e garantia contratual → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=10019s)
+- **RD 425 (2017-06-28)**, 27 · relator **Francisval Mendes** · PAS: falhas de protocolo e tramitação de processos → aprovado por unanimidade: auto insubsistente, arquivamento
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=10745s)
+- **RD 422 (2017-08-23)**, 1 · relator **Adalberto Tokarski** · Processo administrativo sancionador (auto de infração lavrado pela UR Porto Alegre; inciso 38 do art. 32 da Resolução 3.274) — arquivamento → aprovado conforme voto do relator (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=vc-lJ1haDoQ&t=42s)
+- **RD 422 (2017-08-23)**, 2 · relator **Adalberto Tokarski** · Processo administrativo sancionador (exploração de instalação portuária sem autorização; UR Rio de Janeiro) — arquivamento → aprovado conforme voto do relator (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=vc-lJ1haDoQ&t=361s)
+- **RD 422 (2017-08-23)**, 3 · relator **Adalberto Tokarski** · Processo administrativo sancionador → retirado de pauta pelo relator
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=vc-lJ1haDoQ&t=628s)
+- **RD 422 (2017-08-23)**, 14 · relator **Mário Povia** · Processo administrativo sancionador: subarrendamento do Terminal Marítimo de Ureia/Amônia (TMU, porto de Aratu-Candeias/Codeba) à Intermarítima sem an → aprovado conforme voto do relator (unânime)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=vc-lJ1haDoQ&t=2015s)
+- **RD 422 (2017-08-23)**, 4 · relator **Adalberto Tokarski** · Processo administrativo sancionador → adiado (vista de Francisval Mendes)
+  - votos: Adalberto: relator; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=vc-lJ1haDoQ&t=3050s)
+- **RD 422 (2017-08-23)**, 5 · relator **Adalberto Tokarski** · Processo administrativo sancionador (AI 8737 de 2014, porto organizado de Fortaleza) → aprovado conforme voto do relator (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=vc-lJ1haDoQ&t=3093s)
+- **RD 427 (2017-08-24)**, 1 · relator **Adalberto Tokarski** · Processo administrativo sancionador (voto-vista): ocupação de área do porto organizado sem contrato de passagem → aprovado com a determinação proposta no voto-vista; relator registra que fica vencido (reg
+  - votos: Adalberto: vencido; Francisval: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=56s)
+- **RD 423 (2017-08-24)**, 2 · relator **Adalberto Tokarski** · Processo sancionador: pagamento indevido de bonificação por desempenho a comissionados (R$ 987 mil, exercício 2013) → aprovado por unanimidade (voto-vista de Francisval Mendes)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=T7OiOUOmJDA&t=680s)
+- **RD 427 (2017-08-24)**, 3 · relator **Mário Povia** · TAC - interpretação da resolução normativa 01-ANTAQ → não deliberado: pedido de vista de Francisval Mendes
+  - votos: Francisval: vista · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=879s)
+- **RD 427 (2017-08-24)**, 4 · relator **Mário Povia** · Processo administrativo sancionador: cobrança de armazenagem adicional do exportador quando o atraso foi do armador (art. 10 da Res. 2389) → aprovado por maioria (multa de R$ 175 mil); Tokarski vencido
+  - votos: Mário: relator; Francisval: revisor_acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=908s)
+- **RD 423 (2017-08-24)**, 4 · relator **Adalberto Tokarski** · Processo sancionador: permitir ocupação de áreas sem licitação/contrato (Porto Fredy, estacionamento, barracas) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=T7OiOUOmJDA&t=1172s)
+- **RD 427 (2017-08-24)**, 5 · relator **Francisval Mendes** · Recurso administrativo contra multa de R$ 121 mil por movimentar bagagens sem pré-qualificação como operador portuário (Rio de Janeiro) → recurso não provido por maioria (voto-vista de Mário Povia); relator Francisval vencido
+  - votos: Francisval: vencido; Mário: revisor_diverge; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=1367s)
+- **RD 423 (2017-08-24)**, 7 · relator **Adalberto Tokarski** · Pedido de reconsideração de multa de R$ 70.875 por explorar TUP sem autorização (Salvador) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=T7OiOUOmJDA&t=1973s)
+- **RD 424 (2017-08-24)**, 5 · relator **Adalberto Tokarski** · Pedido de reconsideração: multa de R$ 20 mil (veículos sem RNTRC) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jqmO9Gz2tHU&t=2094s)
+- **RD 424 (2017-08-24)**, 6 · relator **Adalberto Tokarski** · Processo administrativo sancionador: operação de terminal (Corumbá) sem autorização prévia → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jqmO9Gz2tHU&t=2359s)
+- **RD 424 (2017-08-24)**, 7 · relator **Adalberto Tokarski** · PAS: exploração de área no porto de Cabedelo com contrato vencido → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jqmO9Gz2tHU&t=2672s)
+- **RD 427 (2017-08-24)**, 9 · relator **Adalberto Tokarski** · Processo administrativo sancionador → não deliberado: pedido de vista de Francisval Mendes
+  - votos: Francisval: vista · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=3017s)
+- **RD 427 (2017-08-24)**, 10 · relator **Adalberto Tokarski** · PAS: operações em ETC em Itaituba/PA antes do termo de liberação de operação; auto repetia fato já julgado (bis in idem) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=3035s)
+- **RD 424 (2017-08-24)**, 8 · relator **Adalberto Tokarski** · Processo administrativo sancionador → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=jqmO9Gz2tHU&t=3063s)
+- **RD 427 (2017-08-24)**, 11 · relator **Adalberto Tokarski** · PAS com cinco fatos: seguro, certificado de segurança, contratação de EBN não autorizada em apoio portuário, não divulgação de tabela de preços, locom → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=3433s)
+- **RD 427 (2017-08-24)**, 12 · relator **Adalberto Tokarski** · PAS: suposta construção de instalação portuária (estaleiro) sem autorização em Corumbá/MS → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=4539s)
+- **RD 423 (2017-08-24)**, 22 · relator **Francisval Mendes** · Processo administrativo sancionador → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=T7OiOUOmJDA&t=4919s)
+- **RD 423 (2017-08-24)**, 23 · relator **Francisval Mendes** · Processo sancionador: contrato de passagem celebrado sem cumprir a RN 7/2016 → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T7OiOUOmJDA&t=4951s)
+- **RD 427 (2017-08-24)**, 13 · relator **Adalberto Tokarski** · PAS: exploração de área do porto organizado de Rio Grande sem licitação; TAC não celebrado → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=4991s)
+- **RD 424 (2017-08-24)**, 24 · relator **Mário Povia** · Processo administrativo sancionador → adiado: pedido de vista de Francisval
+  - votos: Francisval: vista · [vídeo](https://www.youtube.com/watch?v=jqmO9Gz2tHU&t=5022s)
+- **RD 424 (2017-08-24)**, 25 · relator **Mário Povia** · PAS: ocupação de terminal no porto de Santos sem contrato válido → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jqmO9Gz2tHU&t=5043s)
+- **RD 424 (2017-08-24)**, 26 · relator **Mário Povia** · PAS: obras em área do porto do Rio Grande sem aprovação → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jqmO9Gz2tHU&t=5253s)
+- **RD 427 (2017-08-24)**, 14 · relator **Adalberto Tokarski** · PAS / conflito de competência: atraso no posicionamento de contêiner (serviço adequado) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=5376s)
+- **RD 424 (2017-08-24)**, 27 · relator **Mário Povia** · Pedido de reconsideração: multa ≈ R$ 87,9 mil (plano de segurança) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jqmO9Gz2tHU&t=5462s)
+- **RD 424 (2017-08-24)**, 28 · relator **Mário Povia** · Pedido de reconsideração: multa R$ 78.750 por não adaptar contrato de adesão → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jqmO9Gz2tHU&t=5637s)
+- **RD 427 (2017-08-24)**, 15 · relator **Adalberto Tokarski** · PAS / conflito de competência: falta de certificado ISPS Code (CONPORTOS) no porto de Itaguaí → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=5853s)
+- **RD 427 (2017-08-24)**, 16 · relator **Adalberto Tokarski** · Pedido de reconsideração de multa de cerca de R$ 47 mil aplicada na reunião 399 → aprovado por unanimidade (provimento parcial)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=6343s)
+- **RD 427 (2017-08-24)**, 30 · relator **Mário Povia** · Recurso contra multa de R$ 39.375 por ampliar TUP em Pontal do Paraná sem prévia autorização → recurso não provido por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=8632s)
+- **RD 427 (2017-08-24)**, 31 · relator **Mário Povia** · Recurso contra multa de R$ 87.500 por ampliar capacidade de TUP em Rio Grande/RS (armazéns e correias) sem aprovação → recurso não provido por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=8925s)
+- **RD 427 (2017-08-24)**, 32 · relator **Mário Povia** · PAS: operações de embarque/desembarque de cruzeiro no Cais do Centro durante interdição cautelar → aprovado (multa de R$ 157.500); votos dos demais pouco audíveis
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=9173s)
+- **RD 427 (2017-08-24)**, 33 · relator **Mário Povia** · Processo administrativo sancionador → não deliberado: pedido de vista (diretor não identificado com certeza)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=9424s)
+- **RD 427 (2017-08-24)**, 34 · relator **Mário Povia** · Processo administrativo contencioso: falta de controle de acesso, prevenção de incêndio e guarda portuária no porto de Corumbá (convênio de delegação) → aprovado por unanimidade (advertência)
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=9440s)
+- **RD 427 (2017-08-24)**, 37 · relator **Francisval Mendes** · PAS: cobrança de armazenagem adicional do exportador por omissão de navio programado → aprovado por maioria (multa de R$ 189 mil); Tokarski vencido
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=11180s)
+- **RD 427 (2017-08-24)**, 38 · relator **Francisval Mendes** · Processo administrativo sancionador → não deliberado: pedido de vista (diretor não identificado com certeza)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=11598s)
+- **RD 428 (2017-09-13)**, 1 · relator **Adalberto Tokarski** · Processo administrativo sancionador (auto de infração 1641) por perda da qualificação econômico-financeira exigida no edital do arrendamento; retorno  → aprovado o voto do relator (insubsistência e arquivamento) com voto de qualidade do Direto
+  - votos: Adalberto: relator; Francisval: vencido; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=56s)
+- **RD 428 (2017-09-13)**, 3 · relator **Francisval Mendes** · PAS por explorar área fora dos limites do contrato de arrendamento sem licitação nem instrumento válido (auto 2385, URE São Paulo); retorno de vista → aprovado o voto-vista de Adalberto Tokarski (multa reduzida pela atenuante); vencido o rel
+  - votos: Francisval: vencido; Adalberto: revisor_diverge; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=702s)
+- **RD 428 (2017-09-13)**, 8 · relator **Adalberto Tokarski** · PAS por ocupar instalação no porto do Recife sem licitação nem contrato (auto 2120) → aprovado por unanimidade conforme voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=2224s)
+- **RD 428 (2017-09-13)**, 22-24 · relator **Mário Povia** · PAS por ocupação de área no porto organizado de Porto Alegre sem contrato válido (em bloco) → aprovado por unanimidade conforme voto do relator
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=3929s)
+- **RD 428 (2017-09-13)**, 25 · relator **Mário Povia** · PAS por navegação de apoio portuário sem autorização (auto 2219, URE Salvador) → aprovado por unanimidade conforme voto do relator
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=4121s)
+- **RD 428 (2017-09-13)**, 26 · relator **Mário Povia** · PAS: não entrega de documentos e informação falsa no sistema de afretamento (SAMA), «venda de bandeira»; proposta de cassação → adiado: pedido de vista de Francisval Mendes após o voto do relator
+  - votos: Mário: relator; Francisval: vista; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=4356s)
+- **RD 428 (2017-09-13)**, 27 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 52,5 mil por não adaptar termo de autorização (Res. 4882) → aprovado por unanimidade conforme voto do relator
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=5507s)
+- **RD 428 (2017-09-13)**, 29 · relator **Francisval Mendes** · PAS por permitir exploração de área pela Transpetro após fim do contrato de arrendamento 01/94 → aprovado por unanimidade conforme voto do relator
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=6473s)
+- **RD 428 (2017-09-13)**, 30 · relator **Francisval Mendes** · PAS por explorar área do porto de Maceió após fim do contrato de arrendamento → aprovado por unanimidade conforme voto do relator
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=6798s)
+- **RD 428 (2017-09-13)**, 31 · relator **Francisval Mendes** · PAS por descumprir cautelar de interdição de guindaste → aprovado por unanimidade conforme voto do relator
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=7073s)
+- **RD 428 (2017-09-13)**, 35 · relator **Francisval Mendes** · Desconsideração de medida cautelar → adiado: pedido de vista
+  - votos: Francisval: relator; Adalberto: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=9159s)
+- **RD 429 (2017-09-20)**, 2 · relator **Mário Povia** · Processo sancionador: não envio de documentos e permissão de operação sem contrato em IP4 (Lábrea, São Raimundo) → aprovado por maioria o voto do relator: multas de R$ 17.500 e R$ 175.000; Adalberto Tokars
+  - votos: Mário: relator; Adalberto: vencido; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=367s)
+- **RD 429 (2017-09-20)**, 4 · relator **Mário Povia** · Processo sancionador (afretamento/frete pago a empresa ligada à embarcação estrangeira); voto-vista → aprovado por maioria o voto do relator (proferido anteriormente); Francisval Mendes vencid
+  - votos: Mário: relator; Francisval: vencido; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=1415s)
+- **RD 429 (2017-09-20)**, 12 · relator **Mário Povia** · Recurso contra multa de R$ 100 mil por descumprimento de TAC (certificado do Corpo de Bombeiros, porto de Altamira) → aprovado por unanimidade: recurso conhecido e não provido
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=2393s)
+- **RD 429 (2017-09-20)**, 13 · relator **Mário Povia** · Recurso contra multa de R$ 137.500 por cabotagem Santos–Paranaguá sem autorização de afretamento → aprovado por unanimidade: recurso não provido
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=2548s)
+- **RD 429 (2017-09-20)**, 14 · relator **Mário Povia** · Novo recurso contra multa de R$ 100 mil (Acórdão 15/2017) por descumprimento de TAC (certificado de bombeiros, porto de Óbidos) → aprovado por unanimidade: conhecido (em homenagem à notificação que abriu prazo) e não pro
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=2733s)
+- **RD 429 (2017-09-20)**, 15 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 275 mil por subarrendamento não autorizado no porto de Aratu → aprovado por unanimidade: reconsideração não provida
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=3011s)
+- **RD 429 (2017-09-20)**, 16 · relator **Mário Povia** · Processo sancionador: patrimônio líquido negativo (apoio portuário) e informações intempestivas → aprovado: advertência pelos fatos 1 e 2 (afastada a cassação); Francisval Mendes, ao fim d
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: vencido · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=3164s)
+- **RD 429 (2017-09-20)**, 17 · relator **Mário Povia** · Processo sancionador: não informar reparo e alienação de embarcações, operar com embarcações não cadastradas e operar sem autorização → aprovado por unanimidade: advertências (fatos 1 a 3); fato 4 insubsistente
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=3800s)
+- **RD 429 (2017-09-20)**, 18 · relator **Mário Povia** · Processo sancionador: impedir acesso dos fiscais e explorar ETC sem autorização → aprovado por unanimidade: multas de R$ 27.500 e R$ 300.000 e interdição após trânsito em j
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=4182s)
+- **RD 429 (2017-09-20)**, 19 · relator **Mário Povia** · Processo sancionador: ocupação de área no porto de Salvador após vencimento do contrato de arrendamento 9/96 → aprovado por unanimidade: multa de R$ 140.000 e 60 dias para desocupar ou regularizar
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=4606s)
+- **RD 429 (2017-09-20)**, 20 · relator **Mário Povia** · Processo sancionador: vantagem com área doada pela SUPRG (polo naval) → aprovado por unanimidade: auto subsistente e arquivamento sem penalidade pela celebração d
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=4910s)
+- **RD 429 (2017-09-20)**, 21 · relator **Mário Povia** · Processo sancionador: não adaptação do contrato de adesão à Lei 12.815 (após TAC frustrado) → aprovado por unanimidade: multa de R$ 122.500 e 60 dias para documentos, sob pena de cassa
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=5255s)
+- **RD 429 (2017-09-20)**, 22 · relator **Mário Povia** · Processo sancionador: ocupação sem contrato no porto de Estrela (após TAC recusado) → aprovado por unanimidade: multa de R$ 168.000 e 60 dias para desocupar ou regularizar
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=5464s)
+- **RD 429 (2017-09-20)**, 23 · relator **Mário Povia** · Processo sancionador: falta de alvará PPCI no porto de Porto Alegre (após TAC não celebrado) → aprovado por unanimidade: multa de R$ 27.963,40
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=5868s)
+- **RD 429 (2017-09-20)**, 24 · relator **Mário Povia** · Processo sancionador: exploração de ETC sem autorização → aprovado por unanimidade: auto insubsistente por bis in idem; arquivamento
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=6111s)
+- **RD 429 (2017-09-20)**, 27 · relator **Francisval Mendes** · Processo sancionador → vista de Adalberto Tokarski antes do voto do relator
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=8519s)
+- **RD 429 (2017-09-20)**, 28 · relator **Francisval Mendes** · Processo sancionador: operar ETC antes do termo de liberação de operação → aprovado por unanimidade: multa de R$ 52.500
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=8540s)
+- **RD 429 (2017-09-20)**, 29 · relator **Francisval Mendes** · Recurso contra arquivamento de denúncia sobre dique flutuante no porto de Niterói → aprovado por unanimidade: recurso conhecido e não provido
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=8734s)
+- **RD 429 (2017-09-20)**, 30 · relator **Francisval Mendes** · Recurso contra multa de cerca de R$ 280 mil (acidente com shiploader por falta de manutenção) → aprovado por unanimidade: recurso não provido
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=8909s)
+- **RD 429 (2017-09-20)**, 31 · relator **Francisval Mendes** · Pedido de reconsideração da multa de R$ 114.400 (Res. 5489) → aprovado por unanimidade: não provido
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=9155s)
+- **RD 430 (2017-10-06)**, 3 · relator **Adalberto Tokarski** · Processo administrativo sancionador: exploração de áreas/instalações portuárias sem procedimento licitatório nem instrumento contratual (Porto Alegre) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=367s)
+- **RD 430 (2017-10-06)**, 4 · relator **Adalberto Tokarski** · Processo administrativo sancionador: uso de segurança terceirizada em funções de competência da guarda portuária (porto de Belém) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=735s)
+- **RD 430 (2017-10-06)**, 6 · relator **Adalberto Tokarski** · Processo administrativo sancionador: 11 fatos infracionais na gestão do porto organizado de Cabedelo → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=1192s)
+- **RD 430 (2017-10-06)**, 13 · relator **Mário Povia** · Pedido de reconsideração contra a Resolução 5233 (multa total de R$ 377.212,50; autos de infração, prorrogação do contrato de arrendamento 60/1997) → aprovado por unanimidade (reconsideração conhecida e não provida)
+  - votos: Adalberto: acompanha; Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=2235s)
+- **RD 430 (2017-10-06)**, 14 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 50 mil por explorar instalação portuária sem autorização (Porto Velho) → aprovado por unanimidade (multa revogada de ofício)
+  - votos: Adalberto: acompanha; Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=2413s)
+- **RD 430 (2017-10-06)**, 18 · relator **Mário Povia** · Processo sancionador: baixa e alienação, por leilão, de bens (guindastes) sem autorização da ANTAQ → aprovado por unanimidade (auto insubsistente)
+  - votos: Adalberto: acompanha; Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=4231s)
+- **RD 430 (2017-10-06)**, 19 · relator **Mário Povia** · Processo sancionador: obras entre armazéns no porto do Rio Grande sem prévia análise da ANTAQ → aprovado por unanimidade (auto insubsistente)
+  - votos: Adalberto: acompanha; Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=4565s)
+- **RD 430 (2017-10-06)**, 20 · relator **Mário Povia** · Processo administrativo sancionador → pedido de vista (Adalberto Tokarski)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=4817s)
+- **RD 430 (2017-10-06)**, 21 · relator **Mário Povia** · Processo sancionador: ocupação irregular de área no porto fluvial de Ladário (embarque de bovinos) sem licitação nem autorização → aprovado por unanimidade
+  - votos: Adalberto: acompanha; Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=4851s)
+- **RD 430 (2017-10-06)**, 22 · relator **Mário Povia** · Processo sancionador: exploração de instalação portuária privada sem autorização (Porto Velho) → aprovado por unanimidade
+  - votos: Adalberto: acompanha; Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=5686s)
+- **RD 430 (2017-10-06)**, 23 · relator **Mário Povia** · Processo sancionador: apoio portuário sem autorização (serviços à Transpetro na Baía de Guanabara) → aprovado por unanimidade
+  - votos: Adalberto: acompanha; Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=6004s)
+- **RD 430 (2017-10-06)**, 24 · relator **Mário Povia** · Processo sancionador: exploração de estação de transbordo de cargas em Caracaraí (RR) sem autorização do poder concedente → aprovado por unanimidade
+  - votos: Adalberto: acompanha; Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=6256s)
+- **RD 430 (2017-10-06)**, 25 · relator **Mário Povia** · Processo sancionador: transporte de pessoas em lancha (Niterói) caracterizado como apoio portuário sem autorização → aprovado por unanimidade (auto insubsistente)
+  - votos: Adalberto: acompanha; Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=6695s)
+- **RD 430 (2017-10-06)**, 26 · relator **Mário Povia** · Processo sancionador: não manter embarcação em operação comercial (apoio portuário) → aprovado por unanimidade
+  - votos: Adalberto: acompanha; Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=7028s)
+- **RD 432 (2017-11-17)**, 5 · relator **Adalberto Tokarski** · Processo administrativo sancionador: operação do TMU/terminal da Petrobras no porto de Aratu-Candeias sob contrato com característica de subarrendamen → aprovado por unanimidade: auto insubsistente, arquivamento
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=329s)
+- **RD 432 (2017-11-17)**, 6 · relator **Adalberto Tokarski** · Processo administrativo sancionador: obras de instalação portuária de turismo dentro da poligonal do porto organizado sem anuência (AI 1390, multa sug → aprovado por maioria (2x1), vencido Mário Povia
+  - votos: Adalberto: relator; Mário: vencido; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=750s)
+- **RD 432 (2017-11-17)**, 7 · relator **Adalberto Tokarski** · Processo administrativo sancionador: ocupação de área no porto organizado de Pelotas com esteiras de grãos sem contrato (AI 2436) → aprovado por unanimidade: auto insubsistente, arquivamento
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=1427s)
+- **RD 432 (2017-11-17)**, 8 · relator **Adalberto Tokarski** · Dispensa de TAC para regularização da base de distribuição de Cruzeiro do Sul-AC (desativação de uma instalação, operação da outra) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=1778s)
+- **RD 432 (2017-11-17)**, 10 · relator **Adalberto Tokarski** · Pedido de reconsideração contra multa de R$ 70.875 por pagamento de bônus a diretores e comissionados (2009-2010) com recursos do porto do Itaqui → aprovado por unanimidade: conhecido e não provido
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=2439s)
+- **RD 432 (2017-11-17)**, 11 · relator **Adalberto Tokarski** · Pedido de reconsideração contra multa de R$ 111.375 por permitir ocupação da área A-11 sem licitação ou contrato → aprovado por maioria (2x1), vencido Mário Povia
+  - votos: Adalberto: relator; Mário: vencido; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=2767s)
+- **RD 432 (2017-11-17)**, 17 · relator **Mário Povia** · Processo administrativo sancionador: EBN de apoio portuário sem embarcação própria ou afretada a casco nu (AI 2009) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=3936s)
+- **RD 432 (2017-11-17)**, 18 · relator **Mário Povia** · Processo administrativo sancionador: patrimônio líquido abaixo do mínimo para EBN de apoio marítimo (multa sugerida de R$ 35 mil; PFA cogitou cassação → aprovado por maioria (2x1), vencido Adalberto Tokarski
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=4261s)
+- **RD 432 (2017-11-17)**, 19 · relator **Mário Povia** · Pedido de reconsideração contra acórdão 61/2017 (multa de R$ 39.375 por ampliar TUP em Pontal do Paraná sem autorização) → aprovado por unanimidade: conhecido e não provido
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=4846s)
+- **RD 432 (2017-11-17)**, 27 · relator **Francisval Mendes** · Processo administrativo sancionador: EBN sem embarcação adequada (AI 2486); área técnica sugeriu cassação → relator vencido (2x1): prevalece advertência (Povia, acompanhado por Tokarski)
+  - votos: Francisval: vencido; Mário: outro; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=7695s)
+- **RD 433 (2017-11-28)**, 8 · relator **Mário Povia** · Processo sancionador: patrimônio líquido inferior ao mínimo para EBN de apoio marítimo; divergência de tipificação → aprovado (unânime): auto anulado e nova autuação
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=cu2VemB9hb8&t=3780s)
+- **RD 433 (2017-11-28)**, 9 · relator **Mário Povia** · Processo sancionador: exploração do terminal açucareiro sem contrato válido → aprovado (unânime): multa de R$ 126 mil e prazo de 60 dias
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=cu2VemB9hb8&t=4116s)
+- **RD 433 (2017-11-28)**, 12 · relator **Francisval Mendes** · Processo sancionador: ocupação de área do porto organizado de Rio Grande por cessão de uso sem licitação → aprovado (unânime): auto subsistente, sem penalidade, arquivado
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=cu2VemB9hb8&t=5333s)
+- **RD 433 (2017-11-28)**, 13 · relator **Francisval Mendes** · Processo sancionador: ocupação temporária de área do porto para manutenção de emissário submarino da Fibria → aprovado (unânime): auto insubsistente e arquivamento
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=cu2VemB9hb8&t=5761s)
+- **RD 434 (2017-12-08)**, 5 · relator **Adalberto Tokarski** · Processo administrativo sancionador (PAF 2015): seguro, CFTV, controle de acesso, guarda portuária → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=BDKgrHYQkO4&t=693s)
+- **RD 434 (2017-12-08)**, 8 · relator **Adalberto Tokarski** · Termo de ajuste de conduta → retirado de pauta (relatoria indevida; autos remetidos a Mário Povia, relator do pedido de
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=BDKgrHYQkO4&t=2147s)
+- **RD 434 (2017-12-08)**, 10 · relator **Mário Povia** · Processo administrativo sancionador: irregularidades no Porto de Manaus (atendimento ao usuário, segregação de cargas e passageiros, ocupação irregula → pedido de vista (voto do relator lido)
+  - votos: Mário: relator; Adalberto: vista; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=BDKgrHYQkO4&t=3040s)
+- **RD 434 (2017-12-08)**, 11 · relator **Francisval Mendes** · Processo administrativo sancionador: EBN sem embarcação; outorga extinta por renúncia → pedido de vista
+  - votos: Francisval: relator; Adalberto: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=BDKgrHYQkO4&t=3997s)
+- **RD 434 (2017-12-08)**, 12 · relator **Francisval Mendes** · Processo administrativo sancionador: descumprimento de determinação da ANTAQ sobre cláusula de dragagem no edital do arrendamento do complexo náutico → aprovado por maioria conforme divergência de Mário Povia; relator vencido
+  - votos: Francisval: vencido; Mário: outro; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=BDKgrHYQkO4&t=4356s)
+- **RD 435 (2017-12-21)**, 5 · relator **Adalberto Tokarski** · Proposta de TAC frustrada; retomada do julgamento sancionador por ocupação sem contrato de área da CIDASC no porto organizado → aprovado conforme voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=8pnMiGBR888&t=1452s)
+- **RD 435 (2017-12-21)**, 6 · relator **Adalberto Tokarski** · Processo sancionador - auto de infração 2410-4 (controle de acesso, contrato com CIDASC) → aprovado conforme voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=8pnMiGBR888&t=1879s)
+- **RD 436 (2018-01-25)**, 13 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 41.250 por descarte irregular de soja refugada em terminal (Paranaguá) → aprovado (não conhecido)
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=1035s)
+- **RD 436 (2018-01-25)**, 1 · relator **Adalberto Tokarski** · PAS por operar navegação de apoio portuário sem autorização no atendimento ao porta-aviões George Washington fundeado na Baía de Guanabara (nov/2015) → aprovado
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=1699s)
+- **RD 436 (2018-01-25)**, 32 · relator **Francisval Mendes** · Procedimento de publicação de penalidades → pedido de vista
+  - votos: Francisval: relator; Mário: vista; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=11168s)
+- **RD 436 (2018-01-25)**, 34 · relator **Mário Povia** · Referendo da Portaria 336/2017-DG: Plano Anual de Fiscalização (PAF) 2018 (958 ações) → aprovado (referendado)
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=11506s)
+- **RD 437 (2018-02-15)**, 3 · relator **Francisval Mendes** · Processo administrativo sancionador; autorização extinta por renúncia da interessada (Res. 578) → arquivado por perda de objeto, por maioria (Povia vencido)
+  - votos: Francisval: relator; Mário: vencido; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=0zgpRZrJ6hw&t=628s)
+- **RD 437 (2018-02-15)**, 8 · relator **Adalberto Tokarski** · Recurso administrativo da APPA contra arquivamento de representação contra a TEAPAR (shiploader, 3º termo aditivo) → recurso conhecido e não provido, por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0zgpRZrJ6hw&t=4202s)
+- **RD 437 (2018-02-15)**, 12 · relator **Adalberto Tokarski** · Processo administrativo sancionador (auto de infração da UR Porto Alegre: projeto executivo, pagamento de arrendamento, regularidade fiscal) → auto insubsistente, arquivado sem penalidade, por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0zgpRZrJ6hw&t=7898s)
+- **RD 438 (2018-02-23)**, 6 · relator **Mário Povia** · Consulta sobre descontinuidade sazonal (>180 dias) da operação de terminais de GNL (TUPs) na Baía de Todos os Santos (BA) e na Baía de Guanabara (RJ) → aprovado (unânime)
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=uzhRnDP20Bw&t=455s)
+- **RD 438 (2018-02-23)**, 10 · relator **Francisval Mendes** · Processo administrativo sancionador (auto de infração da UREVT) e cassação de certificado de operador portuário → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uzhRnDP20Bw&t=2499s)
+- **RD 438 (2018-02-23)**, 11 · relator **Francisval Mendes** · Pedido de reconsideração contra multa de R$ 482.307,48 (Res. 5541, 426ª RO) → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uzhRnDP20Bw&t=2746s)
+- **RD 439 (2018-03-14)**, 2 · relator **Mário Povia** · Pedido de reconsideração contra acórdão 58/2017 (auto de infração UR Fortaleza, multa de R$ 70.875) → reconsideração conhecida e não provida, por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=269s)
+- **RD 439 (2018-03-14)**, 3 · relator **Mário Povia** · Pedido de reconsideração contra Res. 5406/2017 (multa de R$ 10 mil por falta de controle de circulação e sinalização no porto) → reconsideração conhecida e não provida, por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=483s)
+- **RD 439 (2018-03-14)**, 9 · relator **Mário Povia** · Pedido de reconsideração (pautado de ofício; voto já proferido; vista de Tokarski perdeu objeto com fim do mandato) → reconsideração não provida, por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=2257s)
+- **RD 439 (2018-03-14)**, 10 · relator **Mário Povia** · Processo administrativo sancionador (pautado de ofício; voto já proferido; vista de Tokarski perdeu objeto) → deliberado conforme voto condutor
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=2307s)
+- **RD 439 (2018-03-14)**, 11 · relator **Francisval Mendes** · PAS: autoridade portuária permitiu ocupação de área fora do contrato 31/98 sem licitação no porto de Santos → auto subsistente; multa de R$ 329.422,50, por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=2353s)
+- **RD 439 (2018-03-14)**, 12 · relator **Francisval Mendes** · PAS: permitir exploração de áreas no porto de Niterói sem licitação → auto insubsistente, arquivado, por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=2681s)
+- **RD 439 (2018-03-14)**, 13 · relator **Francisval Mendes** · PAS: não adequação de 20 contratos à Res. 2240/2011 → auto subsistente; oportunizado TAC em 90 dias, por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=2806s)
+- **RD 439 (2018-03-14)**, 14 · relator **Francisval Mendes** · PAS: cobrança irregular de armazenagem adicional/sobre-estadia de contêiner ao exportador (art. 10 da Res. 2389); julgado em conjunto com o outro auto → autos subsistentes; multa de R$ 175 mil por auto e devolução, por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=2994s)
+- **RD 439 (2018-03-14)**, 15 · relator **Francisval Mendes** · PAS: cobrança irregular de armazenagem adicional/sobre-estadia de contêiner ao exportador (art. 10 da Res. 2389); julgado em conjunto com o outro auto → autos subsistentes; multa de R$ 175 mil por auto e devolução, por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=2994s)
+- **RD 439 (2018-03-14)**, 16 · relator **Francisval Mendes** · PAS (auto da UR Porto Alegre, dois fatos) → auto subsistente; multas de R$ 198 mil e R$ 216 mil, por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=3419s)
+- **RD 439 (2018-03-14)**, 17 · relator **Francisval Mendes** · PAS: descumprimento da prancha mínima (produtividade) do contrato de arrendamento 45/2001 → aprovado por unanimidade (auto subsistente; penalidade contratual)
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=3633s)
+- **RD 439 (2018-03-14)**, 21 · relator **Francisval Mendes** · Pedido de reconsideração contra acórdão 67/2017 (sobre-estadia) → não provido; multa reduzida de ofício para R$ 157.500, por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=4833s)
+- **RD 439 (2018-03-14)**, 22 · relator **Francisval Mendes** · Pedido de reconsideração contra Res. 5392 (intempestivo) → não conhecido; recebido como direito de petição e não provido, por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=5253s)
+- **RD 439 (2018-03-14)**, 24 · relator **Francisval Mendes** · Pedido de reconsideração contra Res. 5149/2016 → não provido, por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=5694s)
+- **RD 439 (2018-03-14)**, 25 · relator **Francisval Mendes** · Pedido de reconsideração contra Res. 5269/2017 → não provido, por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=5823s)
+- **RD 439 (2018-03-14)**, 26 · relator **Francisval Mendes** · PAS após recusa de TAC: não construção da extensão do píer público de inflamáveis em Paranaguá (contrato 15/2006) → multa de R$ 157.500 e abertura de processo contratual, por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=5942s)
+- **RD 439 (2018-03-14)**, 28 · relator **Francisval Mendes** · Pedido de revisão/extinção de dívida ativa decorrente de multa (Res. 4462) → conhecido como petição e extinto por prejudicialidade, por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=6574s)
+- **RD 440 (2018-04-09)**, 9 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 9.900 (bônus a diretores sem amparo no convênio de delegação) → aprovado por unanimidade: negado provimento
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=EkNILU6-1gU&t=1552s)
+- **RD 440 (2018-04-09)**, 10 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 175 mil (armazenagem cobrada do exportador por omissão de escala do armador — art. 10 da Res. 2389) → aprovado por unanimidade: negado provimento
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=EkNILU6-1gU&t=1833s)
+- **RD 440 (2018-04-09)**, 11 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 175 mil (mesmo objeto, Acórdão 64/2017) → aprovado por unanimidade: negado provimento
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=EkNILU6-1gU&t=2292s)
+- **RD 440 (2018-04-09)**, 12 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 157.500 (embarque de passageiros de cruzeiro no Cais do Centro durante interdição cautelar) → aprovado por unanimidade: negado provimento
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=EkNILU6-1gU&t=2438s)
+- **RD 440 (2018-04-09)**, 14 · relator **Mário Povia** · Fiscalização extraordinária: garantia de proposta vencida antes da desistência da ETC (Anúncio Público 42/2013) → aprovado por unanimidade: arquivamento sem sanção, com determinações
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=EkNILU6-1gU&t=3133s)
+- **RD 440 (2018-04-09)**, 19 · relator **Francisval Mendes** · Recusa de TAC após auto de infração subsistente → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=EkNILU6-1gU&t=4432s)
+- **RD 440 (2018-04-09)**, 20 · relator **Francisval Mendes** · Processo administrativo contencioso (nove fatos irregulares) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=EkNILU6-1gU&t=4648s)
+- **RD 442 (2018-05-07)**, 10 · relator **Mário Povia** · Pedido de reconsideração de multa (cadastro de arrendamentos / armazém no porto de Porto Alegre) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=715s)
+- **RD 442 (2018-05-07)**, 11 · relator **Mário Povia** · Pedido de reconsideração: advertência (regularidade fiscal municipal) e multa de R$ 200 mil (não atualizar regulamento de exploração do porto do Rio G → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=836s)
+- **RD 442 (2018-05-07)**, 12 · relator **Mário Povia** · Pedido de reconsideração de sanção por ocupação de área no porto de Porto Alegre (pedido de TAC, exceção de permanência) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=968s)
+- **RD 442 (2018-05-07)**, 14 · relator **Mário Povia** · Recurso contra multa de R$ 50 mil por ampliar capacidade do TUP sem autorização → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=1549s)
+- **RD 442 (2018-05-07)**, 15 · relator **Mário Povia** · Processo sancionador: não fornecimento de documentos à fiscalização (regional de Manaus) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=1744s)
+- **RD 442 (2018-05-07)**, 16 · relator **Mário Povia** · Processo sancionador: manutenção elétrica da plataforma de passageiros (Roadway) do porto de Manaus → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=2119s)
+- **RD 442 (2018-05-07)**, 17 · relator **Mário Povia** · Processo sancionador: paralisação de operações sem embarcação adequada (apoio portuário) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=2476s)
+- **RD 442 (2018-05-07)**, 30 · relator **Francisval Mendes** · Pedido de reconsideração de multa de R$ 78.750 (não manter qualificação econômico-financeira de arrendatária, Acórdão 60/2017) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=4290s)
+- **RD 442 (2018-05-07)**, 34 · relator **Francisval Mendes** · Processo sancionador: não comunicar à ANTAQ contratos de cessão de uso onerosa → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=5027s)
+- **RD 442 (2018-05-07)**, 35 · relator **Francisval Mendes** · Processo sancionador: retardar fornecimento de documentos à fiscalização (regional de Manaus) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=5342s)
+- **RD 25 (extraordinária) (2018-05-11)**, 7 · relator **Francisval Mendes** · Processo administrativo sancionador: ocupação irregular de área do Porto do Rio Grande → aprovado por unanimidade, com ajuste sugerido por Mário Povia
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=PmJmgy9Diw8&t=3472s)
+- **RD 25 (extraordinária) (2018-05-11)**, 8 · relator **Francisval Mendes** · Processo administrativo sancionador: não adaptação do termo de autorização 362/2007 (art. 58 da Lei 12.815) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=PmJmgy9Diw8&t=3850s)
+- **RD 25 (extraordinária) (2018-05-11)**, 9 · relator **Francisval Mendes** · Pedido de reconsideração de multa de R$ 157.500 e desocupação de área → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=PmJmgy9Diw8&t=4107s)
+- **RD 25 (extraordinária) (2018-05-11)**, 10 · relator **Francisval Mendes** · Pedido de reconsideração de multa de R$ 266.200 → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=PmJmgy9Diw8&t=4274s)
+- **RD 443 (2018-05-21)**, 6 · relator **Mário Povia** · PAS: falta de manutenção que levou à desativação dos tanques TA-103 e TA-107 do arrendamento 10/93 em Paranaguá (mantido por liminar) → auto subsistente; multa de R$ 252 mil, por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=ONQS9tY_zWg&t=1565s)
+- **RD 443 (2018-05-21)**, 7 · relator **Mário Povia** · Pedido de reconsideração contra Res. 5699 (multa de R$ 140 mil e interdição de instalação portuária sem autorização em Porto Velho) → não provido, por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=ONQS9tY_zWg&t=2437s)
+- **RD 443 (2018-05-21)**, 8 · relator **Mário Povia** · Pedido de reconsideração contra Res. 5750 (multa de R$ 175 mil por dutovias no porto de Suape sem contrato) → não provido, por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=ONQS9tY_zWg&t=2660s)
+- **RD 443 (2018-05-21)**, 16 · relator **Francisval Mendes** · Pedido de reconsideração contra Res. 5676 (multa de R$ 52.500) → não provido, por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ONQS9tY_zWg&t=4778s)
+- **RD 443 (2018-05-21)**, 17 · relator **Francisval Mendes** · Pedido de reconsideração contra Res. 5540/5541 (multa de R$ 87.500 e desocupação de área pública) → provido parcialmente, por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ONQS9tY_zWg&t=4928s)
+- **RD 444 (2018-06-07)**, 4 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 140 mil por não desocupar área pública no prazo → pedido de vista de Adalberto Tokarski (voto do relator lido)
+  - votos: Mário: relator; Adalberto: vista; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=1pfiJgrovVc&t=418s)
+- **RD 445 (2018-06-20)**, 7 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 153.090 por permitir embarque de carga viva no porto de Vila do Conde em desacordo com medida cautelar → pedido não provido por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=919s)
+- **RD 445 (2018-06-20)**, 8 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 157.500 por permitir exploração de instalação no porto de Santarém sem contrato válido → pedido não provido por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=1116s)
+- **RD 445 (2018-06-20)**, 9 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 175 mil por ocupar área no cais Marcílio Dias (porto de Porto Alegre) sem contrato → pedido não provido por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=1349s)
+- **RD 445 (2018-06-20)**, 10 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 140 mil por descumprir determinação sobre reparo/desmobilização de guindaste (Itaqui/MA) → pedido não provido por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=1607s)
+- **RD 445 (2018-06-20)**, 11 · relator **Mário Povia** · Pedido de reconsideração de advertência por descumprir índices econômico-financeiros contratuais (arrendamento 10/98) → pedido não provido por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=1900s)
+- **RD 445 (2018-06-20)**, 13 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 360 mil por explorar ETC em Caracaraí/RR sem autorização → pedido não provido por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=2348s)
+- **RD 445 (2018-06-20)**, 14 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 122.500 por não adaptar contrato de adesão 005/2011 no prazo → pedido não provido por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=2641s)
+- **RD 445 (2018-06-20)**, 15 · relator **Mário Povia** · PAS: celebração de aditivo a contrato de arrendamento (PRES 41/97) sem competência após a Lei 12.815 → não deliberado: pedido de vista de Adalberto Tokarski após o voto do relator
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=2944s)
+- **RD 445 (2018-06-20)**, 16 · relator **Mário Povia** · PAS: cobrança de armazenagem adicional do exportador por atraso de atracação → aprovado por maioria (multa de R$ 300 mil); Tokarski vencido
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=3605s)
+- **RD 445 (2018-06-20)**, 25 · relator **Francisval Mendes** · Recurso hierárquico impróprio contra acórdão 15/2018-ANTAQ (exploração de área sem contrato válido) → recurso não conhecido por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=6894s)
+- **RD 445 (2018-06-20)**, 26 · relator **Francisval Mendes** · PAS: cobrança indevida de armazenagem adicional do exportador → aprovado por maioria (multa de R$ 300 mil); Tokarski vencido na dosimetria
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=7288s)
+- **RD 445 (2018-06-20)**, 27 · relator **Francisval Mendes** · Pedido de reconsideração de multa de R$ 74.250 (decisão da 430ª reunião) → pedido não provido por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=7710s)
+- **RD 446 (2018-06-29)**, 10 · relator **Mário Povia** · PAS: regularidade fiscal, seguro e taxa de ocupação → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-L7gcXUMaxY&t=1789s)
+- **RD 446 (2018-06-29)**, 11 · relator **Mário Povia** · PAS: não renovação de garantia em anúncio público de ETC → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-L7gcXUMaxY&t=1986s)
+- **RD 446 (2018-06-29)**, 12 · relator **Mário Povia** · Processo administrativo sancionador → adiado: pedido de vista de Francisval
+  - votos: Francisval: vista · [vídeo](https://www.youtube.com/watch?v=-L7gcXUMaxY&t=2557s)
+- **RD 446 (2018-06-29)**, 13 · relator **Mário Povia** · PAS: falta de certidões para pré-qualificação de operador portuário → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-L7gcXUMaxY&t=2576s)
+- **RD 446 (2018-06-29)**, 14 · relator **Mário Povia** · Recurso: multa de R$ 50.395,80 (certidão, controle de acesso, seguro) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-L7gcXUMaxY&t=2938s)
+- **RD 446 (2018-06-29)**, 15 · relator **Mário Povia** · Pedido de reconsideração: multa de R$ 70 mil e desocupação de área no porto do Rio Grande → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-L7gcXUMaxY&t=3098s)
+- **RD 446 (2018-06-29)**, 24 · relator **Francisval Mendes** · Registro de instalação flutuante (Manaus) → adiado: pedido de vista de Tokarski
+  - votos: Francisval: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=-L7gcXUMaxY&t=4959s)
+- **RD 447 (2018-08-09)**, 1 · relator **Mário Povia** · PAS: auto de infração 1391-9 por permitir instalação portuária de turismo (portal turístico/píer) do município dentro da poligonal do porto organizado → prevaleceu o voto-vista de Francisval Mendes (auto subsistente, oportunizar TAC com interv
+  - votos: Mário: revisor_acompanha; Francisval: revisor_diverge; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=40s)
+- **RD 447 (2018-08-09)**, 10 · relator **Mário Povia** · PAS: auto de infração 21-9 (2016), patrimônio líquido inferior ao exigido no exercício 2014; julgado em conjunto com o outro item → aprovado, unânime: advertência (em vez de cassação)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=3083s)
+- **RD 447 (2018-08-09)**, 11 · relator **Mário Povia** · PAS: auto de infração 1161-4 (2014): fatos 1 e 2 (afretamento não comprovado, informações) e fato 3 (patrimônio líquido negativo no exercício 2013); j → aprovado, unânime: advertência (em vez de cassação)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=3083s)
+- **RD 447 (2018-08-09)**, 15 · relator **Francisval Mendes** · PAS: operar navegação de apoio portuário sem autorização → aprovado, unânime: multa de R$ 175 mil e manutenção da interdição cautelar
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=5008s)
+- **RD 447 (2018-08-09)**, 16 · relator **Francisval Mendes** · PAS: não apresentar documentos solicitados pela ANTAQ → aprovado, unânime: multa de R$ 4.500; cassação afastada
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=5278s)
+- **RD 447 (2018-08-09)**, 17 · relator **Francisval Mendes** · PAS: descumprimento do cronograma de investimentos da prorrogação antecipada do arrendamento 3/95 → aprovado, unânime: processo extinto por perda de objeto (12º termo aditivo) e auto julgado
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=5550s)
+- **RD 447 (2018-08-09)**, 18 · relator **Francisval Mendes** · PAS: falta de apresentação de documentos (fatos 1 a 3) → aprovado, unânime: advertência (fato 1), multa de R$ 612,50 (fato 3), fato 2 anulado, cass
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=6244s)
+- **RD 447 (2018-08-09)**, 20 · relator **Francisval Mendes** · Pedido de reconsideração da Res. 5834 (sanção) → negado provimento, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=7619s)
+- **RD 447 (2018-08-09)**, 22 · relator **Francisval Mendes** · Pedido de reconsideração do Acórdão 52/2017 (movimentar carga fora do perfil autorizado) → não conhecido; recebido como direito de petição e negado, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=7810s)
+- **RD 448 (2018-08-31)**, 2 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (instalações flutuantes); extinção por desistência e apuração de operação sem autorização → aprovado nos termos do voto condutor e do voto-vista (unânime)
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=78s)
+- **RD 448 (2018-08-31)**, 7 · relator **Mário Povia** · Processo sancionador: ocupação e exploração irregular de área do porto público de Ladário (movimentação de bovinos); TAC inviável → aprovado (unânime): advertência
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=991s)
+- **RD 448 (2018-08-31)**, 9 · relator **Mário Povia** · Processo sancionador (auto de infração 1787-6, unidade regional de Vitória); recusa do TAC; falta de certidão negativa de débitos municipais de Vila V → adiado (vista de Adalberto Tokarski após voto do relator)
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=1544s)
+- **RD 448 (2018-08-31)**, 11 · relator **Francisval Mendes** · Processo sancionador: ocupação irregular de área (vala técnica) fora do contrato de arrendamento no porto do Recife → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=2645s)
+- **RD 448 (2018-08-31)**, 12 · relator **Francisval Mendes** · Processo sancionador: descumprimento da Resolução 3744 (substituição de tanques 32104 e 32112), oriunda de arbitragem regulatória → aprovado (unânime), com prazo ampliado para 180 dias
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=3128s)
+- **RD 448 (2018-08-31)**, 14 · relator **Francisval Mendes** · Pedido de reconsideração de multa de R$ 87.500 por não adaptar termo de autorização do TUP → aprovado (unânime): reconsideração negada
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=3472s)
+- **RD 448 (2018-08-31)**, 16 · relator **Francisval Mendes** · Pedido de reconsideração de multa de R$ 31.500 por patrimônio líquido inferior ao mínimo (RN 2510) → aprovado (unânime): multa convertida em advertência
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=3746s)
+- **RD 448 (2018-08-31)**, 31 · relator **Adalberto Tokarski** · Processo sancionador: cobrança indevida de armazenagem adicional (detention) após rolagem de carga por culpa do armador (art. 10 da Resolução 2389) → sem desfecho claro na legenda (aparente pedido de vista/sobrestamento por Mário Povia)
+  - votos: Adalberto: relator; Mário: outro · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=6297s)
+- **RD 448 (2018-08-31)**, 32 · relator **Adalberto Tokarski** · Processo sancionador: cessar operação sem comunicar a ANTAQ (RN 2510); cassação proposta pela regional afastada → aprovado (unânime): advertência
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=6675s)
+- **RD 449 (2018-09-25)**, 1 · relator **Mário Povia** · Pedido de reconsideração contra a Resolução 5754 (multa de R$ 140 mil por descumprir determinação da Resolução 4159 e prazo de 60 dias para desocupar  → aprovado por maioria (nega provimento); Adalberto Tokarski vencido
+  - votos: Mário: relator; Adalberto: vencido; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=40s)
+- **RD 449 (2018-09-25)**, 2 · relator **Adalberto Tokarski** · Processo sancionador: cobrança indevida de armazenagem adicional (Res. 2389) junto a usuário (Louis Dreyfus Commodities); voto-vista → aprovado nos termos do voto-vista de Francisval Mendes (maioria); relator Adalberto Tokars
+  - votos: Adalberto: vencido; Francisval: revisor_diverge; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=391s)
+- **RD 449 (2018-09-25)**, 5 · relator **Mário Povia** · Processo administrativo sancionador (vistas de Tokarski e Francisval) → não deliberado (vistas pendentes)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=817s)
+- **RD 449 (2018-09-25)**, 21 · relator **Mário Povia** · Pedido de reconsideração contra a Resolução 5950 (advertência e multas por cobranças e ocupações irregulares no porto de Manaus) → aprovado por unanimidade (provimento parcial)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=3053s)
+- **RD 449 (2018-09-25)**, 22 · relator **Mário Povia** · Pedido de revisão do Acórdão 57/2018 (multa de R$ 360 mil, ETC em Caracaraí-RR) → aprovado por unanimidade (não conhecido)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=3436s)
+- **RD 449 (2018-09-25)**, 23 · relator **Mário Povia** · Processo administrativo sancionador (vista de Francisval Mendes) → não deliberado (vista)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=3664s)
+- **RD 449 (2018-09-25)**, 24 · relator **Mário Povia** · Processo administrativo contencioso: não adequação do TPU 1/2005 e de contratos à Resolução 2240; TAC não celebrado → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=3681s)
+- **RD 449 (2018-09-25)**, 25 · relator **Mário Povia** · Processo administrativo contencioso: TAC inviável; multas por omissão de informações, serviços, tarifas não homologadas e balizamento → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=3918s)
+- **RD 449 (2018-09-25)**, 30 · relator **Mário Povia** · Denúncia: TUPs operando cargas por DTC (trânsito aduaneiro terrestre) como recintos alfandegados → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=6596s)
+- **RD 449 (2018-09-25)**, 32 · relator **Francisval Mendes** · Processo sancionador: ocupação de área no porto organizado de Manaus sem licitação → aprovado por unanimidade
+  - votos: Mário: acompanha; Adalberto: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=8116s)
+- **RD 449 (2018-09-25)**, 33 · relator **Francisval Mendes** · Processo sancionador: EBN de apoio portuário sem embarcação apta → aprovado por unanimidade
+  - votos: Mário: acompanha; Adalberto: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=8360s)
+- **RD 449 (2018-09-25)**, 34 · relator **Francisval Mendes** · Recurso voluntário: multa de R$ 71.875 por atraso no cronograma de implantação de TUP (Presidente Kennedy-ES) → aprovado por unanimidade (nega provimento)
+  - votos: Mário: acompanha; Adalberto: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=8611s)
+- **RD 450 (2018-10-10)**, 1 · relator **Francisval Mendes** · Pedido de reconsideração contra multa de R$ 157.500 (Res. 5960, 439ª RO) por descumprimento contratual (não construção de píer previsto no arrendament → aprovado (unânime)
+  - votos: Francisval: relator; Mário: revisor_acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=37s)
+- **RD 450 (2018-10-10)**, 4 · relator **Mário Povia** · Processo sancionador: ocupação de 7.000 m² no porto organizado do Forno (silos, escritório) sem licitação nem contrato válido → aprovado (unânime)
+  - votos: Mário: relator; Francisval: revisor_acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=933s)
+- **RD 450 (2018-10-10)**, 7 · relator **Mário Povia** · Processo sancionador: celebração de 5º termo aditivo a contrato de arrendamento sem observar a norma (auto de infração da URESP) → aprovado o voto-vista de Adalberto Tokarski (vencido o relator Mário Povia quanto à dosime
+  - votos: Mário: vencido; Adalberto: revisor_diverge; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=2853s)
+- **RD 450 (2018-10-10)**, 12 · relator **Francisval Mendes** · Pedido de revisão de multa de R$ 78.750 por não manter índice de liquidez geral exigido no edital do arrendamento → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=4542s)
+- **RD 450 (2018-10-10)**, 15 · relator **Mário Povia** · Processo sancionador por não comprovar investimentos do contrato de arrendamento DP 25/2000 (2000–2003 e 2005–2007), porto de Santos → pedido de vista (Adalberto Tokarski); julgamento suspenso
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=5219s)
+- **RD 450 (2018-10-10)**, 23 · relator **Mário Povia** · Impossibilidade de contratar seguro de responsabilidade civil exigido pelo art. 32 XVIII da Res. 3274 (licitações desertas; TAC 8/2016) → aprovado (unânime)
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=9687s)
+- **RD 450 (2018-10-10)**, 27 · relator **Mário Povia** · Fiscalização extraordinária: pré-registro no REB com casco construído em estaleiro holandês (contrato com estaleiro OSX) → pedido de vista (Adalberto Tokarski); julgamento suspenso
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=12668s)
+- **RD 450 (2018-10-10)**, 30 · relator **Francisval Mendes** · Medida cautelar: transferência de receita portuária (juros sobre capital próprio) da EMAP ao Governo do Maranhão → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=13840s)
+- **RD 450 (2018-10-10)**, 31 · relator **Francisval Mendes** · Recurso contra multa de R$ 87.500 por atraso superior a 20% no cronograma de obras de TUP (contrato de adesão 9/2015) → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=14185s)
+- **RD 451 (2018-10-31)**, 3 · relator **Mário Povia** · Pedido de reconsideração do Acórdão 82/2017 (multas de R$ 17.500 por não enviar documentos e R$ 175 mil por permitir uso da IP4 São Raimundo, Manaus,  → negado provimento, por maioria; vencido Tokarski
+  - votos: Mário: relator; Francisval: revisor_acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=285s)
+- **RD 451 (2018-10-31)**, 20 · relator **Mário Povia** · PAS: não comprovar regularidade fiscal municipal (Vila Velha) exigida para pré-qualificação de operador portuário → aprovado, unânime: multa de R$ 17.500
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=3604s)
+- **RD 451 (2018-10-31)**, 22 · relator **Mário Povia** · Pedido de reconsideração do Acórdão 66/2018 (multa de R$ 300 mil por cobrança de armazenagem adicional ao exportador, Res. 2389) → não concluído: pedido de vista de Tokarski
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=4170s)
+- **RD 451 (2018-10-31)**, 25 · relator **Francisval Mendes** · PAS: auto 2588-7 (regional de Porto Velho), infração do art. 36, XV da Res. 3274 → aprovado por maioria: auto subsistente, oportunidade de TAC; vencido Povia
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=5181s)
+- **RD 451 (2018-10-31)**, 26 · relator **Francisval Mendes** · PAS: auto 2722-7 (regional de Manaus), art. 36, XV da Res. 3274 (instalação em regularização) → aprovado por maioria: auto subsistente, oportunidade de TAC; vencido Povia quanto à multa
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=5393s)
+- **RD 451 (2018-10-31)**, 27 · relator **Francisval Mendes** · PAS com pedido de vista de Tokarski; voto-vista não apresentado → não deliberado (vista mantida)
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=5607s)
+- **RD 451 (2018-10-31)**, 28 · relator **Francisval Mendes** · PAS: auto 2967-0 (regional do Rio): prancha mínima de carvão (fato 1), fato 2 e fato 3 no arrendamento → aprovado, unânime: advertência (fatos 1 e 3) e multa de R$ 175 mil (fato 2)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=5619s)
+- **RD 451 (2018-10-31)**, 30 · relator **Francisval Mendes** · Pedido de reconsideração do Acórdão 67/2018 → não concluído: pedido de vista de Tokarski
+  - votos: Francisval: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=6057s)
+- **RD 451 (2018-10-31)**, 31 · relator **Francisval Mendes** · Pedido de reconsideração da Res. 6007 (contrato de passagem 25/2015 irregular) → provimento parcial, unânime: multa reduzida para R$ 181.182,38
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=6236s)
+- **RD 452 (2018-11-14)**, 5 · relator **Mário Povia** · Processo administrativo sancionador (vista de Tokarski) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=442s)
+- **RD 452 (2018-11-14)**, 6 · relator **Mário Povia** · Procedimento de fiscalização extraordinária (vista de Tokarski) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=506s)
+- **RD 452 (2018-11-14)**, 7 · relator **Mário Povia** · Pedido de reconsideração (auto de infração 2713-8) (vista de Tokarski) → aprovado por maioria; voto-vista vencido
+  - votos: Mário: relator; Adalberto: vencido; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=530s)
+- **RD 452 (2018-11-14)**, 8 · relator **Francisval Mendes** · Pedido de reconsideração (auto de infração 2712) (vista de Tokarski) → aprovado por maioria; voto-vista vencido
+  - votos: Francisval: relator; Adalberto: vencido; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=609s)
+- **RD 452 (2018-11-14)**, 9 · relator **Francisval Mendes** · Processo administrativo sancionador: controle de acesso no porto de Salvador (vista de Tokarski) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=681s)
+- **RD 452 (2018-11-14)**, 19 · relator **Francisval Mendes** · Pedido de reconsideração (Resolução 5967) → adiado: pedido de vista de Tokarski
+  - votos: Francisval: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=3656s)
+- **RD 452 (2018-11-14)**, 20 · relator **Francisval Mendes** · Pedido de reconsideração (Resolução 5965), correção de CNPJ → adiado: pedido de vista de Tokarski
+  - votos: Francisval: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=3838s)
 - **RD 454 (2018-12-20)**, 9 · relator **Mário Povia** · Processo administrativo sancionador: não publicação no DOU do extrato do edital de leilão de alienação de bens (Resolução 3208) → pedido de vista (Tokarski) após voto do relator
   - votos: Mário: relator; Adalberto: vista; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=1303s)
 - **RD 454 (2018-12-20)**, 10 · relator **Mário Povia** · Pedido de reconsideração contra a Resolução 5742 (multa de R$ 1 milhão por permitir ocupação de área sem licitação por abastecedora de combustíveis) → aprovado por unanimidade (recurso não conhecido)

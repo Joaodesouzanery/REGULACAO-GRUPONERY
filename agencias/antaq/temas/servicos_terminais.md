@@ -1,5 +1,71 @@
 # Itens do tema «servicos_terminais» (todos os diretores)
 
+- **RD 381 (2015-03)**, 1 · relator **Mário Povia** · Norma de utilização de equipamentos de propriedade de operador portuário por outros usuários em áreas públicas não arrendadas → não concluído: voto do relator proferido; pedido de vista de Adalberto Tokarski
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=40s)
+- **RD 380 (2015-03-12)**, 29 · relator **Fernando Fonseca** · Pedido de reconsideração de multa de R$ 7 mil (cobrança indevida de armazenagem ao exportador, Imbituba/SC) → aprovado por unanimidade: negado provimento
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=8235s)
+- **RD 387 (2015-07-29)**, 2 · relator **Fernando Fonseca** · Proposta de norma de direitos e deveres dos usuários e das empresas de navegação (apoio marítimo, apoio portuário, cabotagem, longo curso) e infrações → aprovado conforme voto do relator (maioria; voto-vista de Tokarski vencido)
+  - votos: Fernando: relator; Adalberto: vencido; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=2144s)
+- **RD 387 (2015-07-29)**, 7 · relator **Mário Povia** · Processo administrativo sancionador: cobrança ao exportador por rolagem de carga após omissão de navio, pesagem de contêiner e falta de registro de om → aprovado conforme voto do relator (unânime)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=6714s)
+- **RD 391 (2015-09-23)**, 28 · relator **Adalberto Tokarski** · Denúncia sobre cobrança de «joia de admissão» de R$ 1 milhão pelo OGMO para novos operadores portuários → aprovado (arquivamento)
+  - votos: Mário: acompanha; Fernando: acompanha; Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=8470s)
+- **RD 392 (2015-10-22)**, 16 · relator **Fernando Fonseca** · Processo sancionador: cobrança de armazenagem extra ao exportador por omissão de navio (rolagem de carga) → aprovado: multa de R$ 87.500 + devolução em 30 dias (faturas de cerca de R$ 30 mil)
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=9442s)
+- **RD 392 (2015-10-22)**, 24 · relator **Adalberto Tokarski** · Processo sancionador: cobrança de armazenagem ao exportador por fato de terceiro → não claro na legenda (relator propôs R$ 888; Mário defende coerência com o valor da área t
+  - votos: Adalberto: relator; Mário: outro; Fernando: outro · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=12511s)
+- **RD 394 (2015-11-19)**, 1 · relator **Fernando Fonseca** · Denúncia de cobrança (vista) → vista prorrogada
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=29s)
+- **RD 396 (2015-12-17)**, 22 · relator **Fernando Fonseca** · Proposta de norma de movimentação e armazenagem alfandegada de contêineres e carga geral (revisão da Res. 2389; THC/box rate) para audiência pública → voto do relator lido; processo segue em vista de Adalberto Tokarski
+  - votos: Fernando: relator; Adalberto: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=8884s)
+- **RD 398 (2016-02-12)**, 12 · relator **Fernando Fonseca** · Denúncia sobre preço mínimo em leilão de embarque de minério de ferro de terceiros → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=4863s)
+- **RD 427 (2017-08-24)**, 4 · relator **Mário Povia** · Processo administrativo sancionador: cobrança de armazenagem adicional do exportador quando o atraso foi do armador (art. 10 da Res. 2389) → aprovado por maioria (multa de R$ 175 mil); Tokarski vencido
+  - votos: Mário: relator; Francisval: revisor_acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=908s)
+- **RD 423 (2017-08-24)**, 19 · relator **Mário Povia** · Denúncia de aumento de preços dos serviços → pedido de vista (diretor não identificado na legenda)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=T7OiOUOmJDA&t=5380s)
+- **RD 427 (2017-08-24)**, 37 · relator **Francisval Mendes** · PAS: cobrança de armazenagem adicional do exportador por omissão de navio programado → aprovado por maioria (multa de R$ 189 mil); Tokarski vencido
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=11180s)
+- **RD 435 (2017-12-21)**, 1 · relator **Francisval Mendes** · Autorização para reajuste de preço / medida cautelar (processo em vista) → pedido de vista; relator não proferiu voto
+  - votos: Mário: vista · [vídeo](https://www.youtube.com/watch?v=8pnMiGBR888&t=34s)
+- **RD 435 (2017-12-21)**, 2 · relator **Mário Povia** · Proposta de norma de direitos e deveres dos usuários e agentes intermediários na navegação de apoio marítimo, portuário, cabotagem e longo curso (voto → aprovada a minuta do relator sem as alterações do voto-vista de Adalberto Tokarski (vencid
+  - votos: Mário: relator; Adalberto: vencido; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=8pnMiGBR888&t=99s)
+- **RD 437 (2018-02-15)**, 17 · relator **Mário Povia** · Denúncia de abusividade da cobrança da taxa de inspeção não invasiva de contêineres (escaneamento) no porto de Vitória → arquivado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0zgpRZrJ6hw&t=6004s)
+- **RD 439 (2018-03-14)**, 14 · relator **Francisval Mendes** · PAS: cobrança irregular de armazenagem adicional/sobre-estadia de contêiner ao exportador (art. 10 da Res. 2389); julgado em conjunto com o outro auto → autos subsistentes; multa de R$ 175 mil por auto e devolução, por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=2994s)
+- **RD 439 (2018-03-14)**, 15 · relator **Francisval Mendes** · PAS: cobrança irregular de armazenagem adicional/sobre-estadia de contêiner ao exportador (art. 10 da Res. 2389); julgado em conjunto com o outro auto → autos subsistentes; multa de R$ 175 mil por auto e devolução, por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=2994s)
+- **RD 439 (2018-03-14)**, 21 · relator **Francisval Mendes** · Pedido de reconsideração contra acórdão 67/2017 (sobre-estadia) → não provido; multa reduzida de ofício para R$ 157.500, por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=4833s)
+- **RD 440 (2018-04-09)**, 10 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 175 mil (armazenagem cobrada do exportador por omissão de escala do armador — art. 10 da Res. 2389) → aprovado por unanimidade: negado provimento
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=EkNILU6-1gU&t=1833s)
+- **RD 440 (2018-04-09)**, 11 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 175 mil (mesmo objeto, Acórdão 64/2017) → aprovado por unanimidade: negado provimento
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=EkNILU6-1gU&t=2292s)
+- **RD 444 (2018-06-07)**, 12 · relator **Francisval Mendes** · Medida cautelar para reajustar preço do serviço de entrega imediata de contêineres (sem reajuste desde 2006) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=1pfiJgrovVc&t=2539s)
+- **RD 445 (2018-06-20)**, 16 · relator **Mário Povia** · PAS: cobrança de armazenagem adicional do exportador por atraso de atracação → aprovado por maioria (multa de R$ 300 mil); Tokarski vencido
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=3605s)
+- **RD 445 (2018-06-20)**, 17 · relator **Mário Povia** · Denúncia de reajuste/alteração da tabela de preços (armazenagem, transferência para retroportuários, energia de reefers) no porto de Suape → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=4132s)
+- **RD 445 (2018-06-20)**, 26 · relator **Francisval Mendes** · PAS: cobrança indevida de armazenagem adicional do exportador → aprovado por maioria (multa de R$ 300 mil); Tokarski vencido na dosimetria
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=7288s)
+- **RD 447 (2018-08-09)**, 19 · relator **Francisval Mendes** · Recurso contra arquivamento de denúncia na Ouvidoria (sobre-estadia de contêineres/demurrage em importação de 2011) → aprovado, unânime: prescrição, processo extinto; fiscalização determinada sobre Asia Shipp
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=6642s)
+- **RD 448 (2018-08-31)**, 31 · relator **Adalberto Tokarski** · Processo sancionador: cobrança indevida de armazenagem adicional (detention) após rolagem de carga por culpa do armador (art. 10 da Resolução 2389) → sem desfecho claro na legenda (aparente pedido de vista/sobrestamento por Mário Povia)
+  - votos: Adalberto: relator; Mário: outro · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=6297s)
+- **RD 449 (2018-09-25)**, 2 · relator **Adalberto Tokarski** · Processo sancionador: cobrança indevida de armazenagem adicional (Res. 2389) junto a usuário (Louis Dreyfus Commodities); voto-vista → aprovado nos termos do voto-vista de Francisval Mendes (maioria); relator Adalberto Tokars
+  - votos: Adalberto: vencido; Francisval: revisor_diverge; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=391s)
+- **RD 450 (2018-10-10)**, 3 · relator **Adalberto Tokarski** · Análise dos impactos da greve dos caminhoneiros (maio/2018) nas atividades portuárias: proposta de resolução suspendendo prazos de free time/demurrage → aprovado (unânime): minuta de resolução não aprovada
+  - votos: Adalberto: relator; Francisval: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=697s)
+- **RD 450 (2018-10-10)**, 22 · relator **Mário Povia** · Compartilhamento de dados de pesagem de contêineres (VGM/SOLAS, Portaria DPC 164/2016) → pedido de vista (Adalberto Tokarski); julgamento suspenso
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=8915s)
+- **RD 450 (2018-10-10)**, 48 · relator **Francisval Mendes** · Referendo da Res. 6398: indeferimento de medida cautelar por retenção de carga no porto de Santos → referendado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=17343s)
+- **RD 451 (2018-10-31)**, 22 · relator **Mário Povia** · Pedido de reconsideração do Acórdão 66/2018 (multa de R$ 300 mil por cobrança de armazenagem adicional ao exportador, Res. 2389) → não concluído: pedido de vista de Tokarski
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=4170s)
+- **RD 452 (2018-11-14)**, 4 · relator **Mário Povia** · Compartilhamento de informações de pesagem de contêineres (vista de Tokarski) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=407s)
 - **RD 455 (2019-01-31)**, 45 · relator **Francisval Mendes** · Comunicação de aumento de capacidade de armazenagem de TUP sem ampliação de área → aprovado por unanimidade
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TLae35cInIE&t=4010s)
 - **RD 455 (2019-01-31)**, 59 · relator **Francisval Mendes** · Pedido de providências por suposta usurpação de competência da ANTAQ (Portaria ALF/STS 27/2016 — escaneamento de contêineres para a Europa) → aprovado por unanimidade

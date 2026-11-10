@@ -1,5 +1,287 @@
 # Itens do tema «outros» (todos os diretores)
 
+- **RD 377 (2015-01-28)**, 39 · relator **Fernando Fonseca** · Registro de instalação para construção/reparo naval até 1.000 TPB em Porto Velho/RO (art. 39, III, Res. 3290) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=6407s)
+- **RD 377 (2015-01-28)**, 66 · relator **Adalberto Tokarski** · Referendo da Res. 3861 (descarga direta do navio no estaleiro Rio Grande, em caráter emergencial) → referendado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=15135s)
+- **RD 378 (2015-02-12)**, 17 · relator **Fernando Fonseca** · Requerimento de adesão ao REIDI para unidade armazenadora de grãos em retroárea do porto de Paranaguá → aprovado por maioria (vencido Adalberto Tokarski)
+  - votos: Fernando: relator; Adalberto: vencido; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=5304s)
+- **RD 378 (2015-02-12)**, 33 · relator **Adalberto Tokarski** · Referendo de autorização em caráter especial e de emergência para descarga direta do navio Dong Bang Giant n. 1 no cais Ecovix → aprovado por unanimidade
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=14056s)
+- **RD 378 (2015-02-12)**, 38 · relator **Adalberto Tokarski** · Referendo de autorização em caráter especial e de emergência para descarga direta do navio Svenja (incerto) no cais Estaleiro EBR (São José do Norte) → aprovado por unanimidade
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=14056s)
+- **RD 378 (2015-02-12)**, extrapauta · relator **Fernando Fonseca** · Referendo de autorização em caráter especial e de emergência para descarga de guindastes do navio Rickmers Yokohama → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=14527s)
+- **RD 380 (2015-03-12)**, 45 · relator **Adalberto Tokarski** · Referendo da Res. 3966 (prazo da autorização emergencial no estaleiro Enseada do Paraguaçu ampliado para 180 dias; P-76) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=12095s)
+- **RD 380 (2015-03-12)**, 46 · relator **Adalberto Tokarski** · Referendo da Res. 3974 (autorização emergencial para instalação em Cruzeiro do Sul/AC, calamidade pública no Acre) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=12349s)
+- **RD 382 (2015-04-15)**, 8 · relator **None** · Processo com pedido de vista de Tokarski (assunto não lido) → vista mantida
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=1912s)
+- **RD 382 (2015-04-15)**, 9 · relator **None** · Processo com pedido de vista de Fernando Fonseca (assunto não lido) → vista mantida
+  - votos: Fernando: vista · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=1920s)
+- **RD 382 (2015-04-15)**, 26 · relator **Fernando Fonseca** · Item de relatoria de Fonseca com pedido de vista (assunto não lido) → pedido de vista
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=7722s)
+- **RD 382 (2015-04-15)**, 29 · relator **Fernando Fonseca** · Item de relatoria de Fonseca com pedido de vista de Tokarski (assunto não lido) → pedido de vista
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=8755s)
+- **RD 384 (2015-05-20)**, 4 · relator **Mário Povia** · Desistência do anúncio público 7/2013 (outorga de ETC em Icoaraci-PA (baía do Guajará)) e devolução da garantia de proposta; regularização passa à col → aprovado por unanimidade (arquivamento e devolução da garantia)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=1193s)
+- **RD 384 (2015-05-20)**, 5 · relator **Mário Povia** · Desistência do anúncio público 13/2013 (outorga de ETC em Itaituba-PA (Transamazônica)) e devolução da garantia de proposta; regularização passa à col → aprovado por unanimidade (arquivamento e devolução da garantia)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=1410s)
+- **RD 384 (2015-05-20)**, 6 · relator **Mário Povia** · Desistência do anúncio público 27/2013 (outorga de ETC em Santarém-PA (rio Tapajós)) e devolução da garantia de proposta; regularização passa à coliga → aprovado por unanimidade (arquivamento e devolução da garantia)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=1491s)
+- **RD 384 (2015-05-20)**, 7 · relator **Mário Povia** · Desistência do anúncio público 29/2013 (outorga de ETC em rodovia Santana–Mazagão-AP) e devolução da garantia de proposta; regularização passa à colig → aprovado por unanimidade (arquivamento e devolução da garantia)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=1570s)
+- **RD 384 (2015-05-20)**, 8 · relator **Mário Povia** · Desistência do anúncio público 15/2013 (outorga de ETC em Manaus-AM (Colônia Antônio Aleixo)) e devolução da garantia de proposta; regularização passa → aprovado por unanimidade (arquivamento e devolução da garantia)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=1628s)
+- **RD 385 (2015-06-01)**, 50 · relator **Adalberto Tokarski** · Referendo da Res. 4095: autorização especial de emergência para descarga da torre do flare (navio HL Rio de Janeiro) no Estaleiro EBR, São José do Nor → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: acompanha; Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=22020s)
+- **RD 385 (2015-06-01)**, 51 · relator **Fernando Fonseca** · Referendo da Res. 4096: descarga de módulo de redução de CO2 (balsa) no Estaleiro EBR – P-74 → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=22380s)
+- **RD 385 (2015-06-01)**, 59 · relator **Fernando Fonseca** · Extrapauta: autorização especial de emergência para descarga de estruturas metálicas (barcaças Grega 1, 2 e 3) no Estaleiro EBR – P-74, 180 dias → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=23100s)
+- **RD 386 (2015-06-25)**, 19 · relator **Mário Povia** · Outorga de autorização EBN apoio portuário até 2.000 HP → aprovado conforme voto do relator
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=9153s)
+- **RD 386 (2015-06-25)**, 21 · relator **Fernando Fonseca** · Outorga de autorização EBN apoio portuário até 2.000 HP → aprovado conforme voto do relator
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=9407s)
+- **RD 386 (2015-06-25)**, 41 · relator **Adalberto Tokarski** · Sancionador retirado de pauta pelo relator → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=15621s)
+- **RD 387 (2015-07-29)**, 15 · relator **Mário Povia** · Retirado de pauta → retirado de pauta
+  - votos: Mário: outro · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=10303s)
+- **RD 387 (2015-07-29)**, 16 · relator **Mário Povia** · Retirado de pauta → retirado de pauta
+  - votos: Mário: outro · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=10303s)
+- **RD 387 (2015-07-29)**, 20 · relator **Fernando Fonseca** · Retirado de pauta → retirado de pauta
+  - votos: Fernando: outro · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=12478s)
+- **RD 387 (2015-07-29)**, 24 · relator **Fernando Fonseca** · Processo de relatoria de Fernando Fonseca (não lido) → não deliberado: pedido de vista de Adalberto Tokarski
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=13721s)
+- **RD 387 (2015-07-29)**, 26 · relator **Fernando Fonseca** · Retirado de pauta → retirado de pauta
+  - votos: Fernando: outro · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=14219s)
+- **RD 387 (2015-07-29)**, 30 · relator **Fernando Fonseca** · Outorga de autorização como EBN de apoio portuário (até 2.000 HP) → aprovado conforme voto do relator (unânime)
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=14932s)
+- **RD 387 (2015-07-29)**, 32 · relator **Fernando Fonseca** · Processo de relatoria de Fernando Fonseca (não lido) → não deliberado: pedido de vista de Mário Povia
+  - votos: Mário: vista · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=15093s)
+- **RD 387 (2015-07-29)**, 39 · relator **Adalberto Tokarski** · Retirado de pauta → retirado de pauta
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=16830s)
+- **RD 387 (2015-07-29)**, 43 · relator **Adalberto Tokarski** · Retirado de pauta → retirado de pauta
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=18058s)
+- **RD 387 (2015-07-29)**, A (ad referendum) · relator **Mário Povia** · Referendo da Res. 4248/2015: autorização especial e emergencial para embarque/desembarque de equipamentos do estaleiro em São João da Barra/RJ por 180 → aprovado conforme voto do relator (unânime)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=18433s)
+- **RD 388 (2015-08-12)**, 24 · relator **Adalberto Tokarski** · Autorização em caráter especial e de emergência para descarga direta de módulos da plataforma FPSO P-74 no cais do Estaleiro EBR → aprovado por unanimidade (deferido)
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=13573s)
+- **RD 388 (2015-08-12)**, 27 · relator **Adalberto Tokarski** · Renúncia à autorização → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=14236s)
+- **RD 388 (2015-08-12)**, 25 · relator **Adalberto Tokarski** · Autorização em caráter especial e de emergência para descarga direta de 186 peças (cascos de FPSO) no cais do Estaleiro Rio Grande → aprovado por unanimidade (deferido)
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=14705s)
+- **RD 389 (2015-08-27)**, 3 · relator **Mário Povia** · Denúncia contra joia de admissão de R$ 1 milhão cobrada pelo OGMO de Belém/Vila do Conde → aprovado
+  - votos: Mário: relator; Fernando: outro; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=px8mI3sMZqA&t=796s)
+- **RD 390 (2015-09)**, 17 · relator **Fernando Fonseca** · Renúncia de autorização de apoio portuário → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=3860s)
+- **RD 390 (2015-09)**, 20 · relator **Fernando Fonseca** · Outorga de autorização de apoio portuário (sem propulsão ou até 2.000 HP) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=4160s)
+- **RD 390 (2015-09)**, 21 · relator **Fernando Fonseca** · Outorga de autorização de apoio portuário (coleta de resíduos), Salvador → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=4240s)
+- **RD 390 (2015-09)**, 27 · relator **Fernando Fonseca** · Outorga de autorização de apoio portuário (embarcações sem propulsão) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=6763s)
+- **RD 390 (2015-09)**, 37 · relator **Adalberto Tokarski** · Outorga de autorização de apoio portuário, Salvador → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=11730s)
+- **RD 390 (2015-09)**, 38 · relator **Adalberto Tokarski** · Outorga de autorização de apoio portuário, Areia Branca (RN) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=11858s)
+- **RD 390 (2015-09)**, 39 · relator **Adalberto Tokarski** · Outorga de autorização de apoio portuário, Vila Velha (ES) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=11944s)
+- **RD 390 (2015-09)**, 40 · relator **Adalberto Tokarski** · Outorga de autorização de apoio portuário → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=12046s)
+- **RD 390 (2015-09)**, 46 · relator **Adalberto Tokarski** · Autorização especial – atracação de rebocadores no estaleiro Rio Grande para retirada da plataforma P-67 → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=13332s)
+- **RD 390 (2015-09)**, 47 · relator **Adalberto Tokarski** · Autorização especial – descarga direta de módulos da FPSO P-74 no cais do estaleiro EBR → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=13468s)
+- **RD 390 (2015-09)**, 50 · relator **Adalberto Tokarski** · Autorização especial – desembarque de equipamentos para a FPSO P-76 em área adjacente ao TUP, Pontal do Paraná → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=14085s)
+- **RD 391 (2015-09-23)**, 22 · relator **Adalberto Tokarski** · Prorrogação de autorização em caráter especial e de emergência para descarga direta de módulos da plataforma FPSO P-74 no Estaleiro EBR → aprovado (com ajuste: nova autorização em vez de prorrogação)
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=6513s)
+- **RD 391 (2015-09-23)**, 34 · relator **Fernando Fonseca** · Extrapauta: autorização em caráter especial e de emergência para teste de comissionamento de terminal (previsto para 24/09/2015) → aprovado
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=11843s)
+- **RD 391 (2015-09-23)**, 35 · relator **Fernando Fonseca** · Extrapauta: autorização em caráter especial e de emergência para desembarque de guindaste (alteração de perfil de carga em análise na SEP) → aprovado
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=12120s)
+- **RD 399 (2016-03-03)**, 4 · relator **None** · Processo em vista: prorrogação do pedido de vista de Adalberto Tokarski → adiado (vista prorrogada)
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=3004s)
+- **RD 403 (2016-04-28)**, 17 · relator **Adalberto Tokarski** · Último item da pauta ordinária (assunto não lido) → vista concedida a Fernando Fonseca
+  - votos: Fernando: vista · [vídeo](https://www.youtube.com/watch?v=83ex6xdeHiw&t=7421s)
+- **RD 403 (2016-04-28)**, EP2 · relator **Adalberto Tokarski** · Autorização em caráter especial e de emergência para importação e transbordo de diesel marítimo no terminal do Açu → aprovado por unanimidade
+  - votos: Adalberto: relator; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=83ex6xdeHiw&t=9183s)
+- **RD 412 (2016-11-01)**, 34 · relator **Mário Povia** · Desincorporação de veículo (Meriva) com perda total; indenização do seguro de cerca de R$ 30,3 mil → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=8967s)
+- **RD 419 (2017-03-27)**, 1 · relator **Adalberto Tokarski** · Processo da Belov Engenharia (assunto não lido) → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=dJL-tEcjJfU&t=51s)
+- **RD 419 (2017-03-27)**, 8 · relator **Adalberto Tokarski** · Processo de relatoria de Tokarski (assunto não lido) → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=dJL-tEcjJfU&t=2755s)
+- **RD 425 (2017-06-28)**, 11 · relator **Adalberto Tokarski** · Denúncia de infração à ordem econômica → pedido de vista (diretor não identificado na legenda); relator não proferiu voto
+  - votos: Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=5483s)
+- **RD 425 (2017-06-28)**, 24 · relator **Mário Povia** · Uso de receitas tarifárias (até ~R$ 14,1 mi) em viaduto e quatro trincheiras nos acessos ao porto, fora da poligonal → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=8247s)
+- **RD 425 (2017-06-28)**, 37 · relator **Francisval Mendes** · Registro de instalação portuária para construção e reparação naval (Navegantes/SC), RN 13/2016 → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=11364s)
+- **RD 425 (2017-06-28)**, 38 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (Belém/PA), RN 13/2016 → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=11538s)
+- **RD 424 (2017-08-24)**, 3 · relator **None** · Item 3 da pauta: vista renovada → adiado: vista renovada
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=jqmO9Gz2tHU&t=2050s)
+- **RD 424 (2017-08-24)**, 16 · relator **Mário Povia** · Outorga EBN apoio portuário (Salvador) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jqmO9Gz2tHU&t=4061s)
+- **RD 424 (2017-08-24)**, 30 · relator **Francisval Mendes** · Item 30 da pauta → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=jqmO9Gz2tHU&t=6038s)
+- **RD 424 (2017-08-24)**, 31 · relator **Francisval Mendes** · Registro de instalação de apoio (Dome Terminais Portuários, RJ) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jqmO9Gz2tHU&t=6054s)
+- **RD 427 (2017-08-24)**, 25 · relator **Mário Povia** · Registro de instalação portuária de apoio ao transporte aquaviário (Porto de Santo Antônio, Fernando de Noronha/PE) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=7678s)
+- **RD 427 (2017-08-24)**, 26 · relator **Mário Povia** · Registro de instalação portuária (deck panorâmico em Belém/PA) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=7960s)
+- **RD 427 (2017-08-24)**, 27 · relator **Mário Povia** · Registro de instalação portuária (São Gonçalo/RJ) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=8207s)
+- **RD 430 (2017-10-06)**, 2 · relator **Adalberto Tokarski** · Registro de instalação portuária → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=227s)
+- **RD 430 (2017-10-06)**, 9 · relator **Mário Povia** · Registro de instalação portuária destinada exclusivamente à construção e reparação naval (Estaleiro Guarujá, Guarujá-SP) → aprovado por unanimidade
+  - votos: Adalberto: acompanha; Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=1949s)
+- **RD 430 (2017-10-06)**, 10 · relator **Mário Povia** · Registro de instalação portuária → adiado: relator pede vista do próprio processo para relatar depois
+  - votos: Mário: vista · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=2012s)
+- **RD 430 (2017-10-06)**, 29 · relator **Francisval Mendes** · Item 29 da pauta → retirado de pauta pelo relator
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=7587s)
+- **RD 430 (2017-10-06)**, 30 · relator **Francisval Mendes** · Registro de instalação portuária em Belém-PA (julgado em bloco com o item 31) → aprovado por unanimidade
+  - votos: Adalberto: acompanha; Mário: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=7590s)
+- **RD 430 (2017-10-06)**, 31 · relator **Francisval Mendes** · Registro de instalação portuária em Belém-PA (julgado em bloco com o item 30) → aprovado por unanimidade
+  - votos: Adalberto: acompanha; Mário: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=7590s)
+- **RD 432 (2017-11-17)**, 34 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário (RN 13), região de Belém → aprovado por unanimidade
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=8700s)
+- **RD 432 (2017-11-17)**, 38 · relator **Mário Povia** · Referendo da Res. 5.757: possibilidade de cessão de uso onerosa das áreas BEL05 e BEL06 (GLP) no terminal de Miramar, porto de Belém → referendado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=9916s)
+- **RD 435 (2017-12-21)**, 20 · relator **Francisval Mendes** · Processo retirado de pauta pelo relator para melhor análise → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=8pnMiGBR888&t=5455s)
+- **RD 435 (2017-12-21)**, 22 · relator **Francisval Mendes** · Processo retirado de pauta pelo relator → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=8pnMiGBR888&t=6619s)
+- **RD 436 (2018-01-25)**, 12 · relator **Mário Povia** · Registro de instalação de construção e reparação naval (Estaleiro Guarujá 2) → aprovado
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=929s)
+- **RD 436 (2018-01-25)**, 3 · relator **Adalberto Tokarski** · Habilitação ao REIDI de terminal de granéis líquidos fora do porto organizado de Paranaguá ligado ao píer público por contrato de passagem → pedido de vista
+  - votos: Adalberto: relator; Francisval: vista; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=3107s)
+- **RD 438 (2018-02-23)**, 8 · relator **Francisval Mendes** · Autorização especial e de emergência (art. 49 Lei 10.233) para substituição do flutuante Bermar 2 pelo Bermar 3 na ETC no rio Negro, Manaus (AM), por  → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uzhRnDP20Bw&t=1553s)
+- **RD 438 (2018-02-23)**, 9 · relator **Francisval Mendes** · Autorização especial e de emergência para movimentação de passageiros de cruzeiro (escala-teste do navio MSC) no trapiche da praia de Canasvieiras, po → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uzhRnDP20Bw&t=1828s)
+- **RD 439 (2018-03-14)**, 18 · relator **Francisval Mendes** · Habilitação ao REIDI de terminal de granéis líquidos ligado por dutos ao píer público de Paranaguá (titular de contrato de passagem 13/2010) → não elegível ao REIDI; recomendação ao MTPA, por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=3824s)
+- **RD 440 (2018-04-09)**, 13 · relator **Mário Povia** · Desincorporação e alienação do guindaste flutuante (cábrea) Rio Branco, Porto de Belém → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=EkNILU6-1gU&t=2806s)
+- **RD 440 (2018-04-09)**, 21 · relator **Francisval Mendes** · Adesão ao REIDI — expansão fora do porto organizado de Santos → aprovado por unanimidade: não elegível
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=EkNILU6-1gU&t=4928s)
+- **RD 442 (2018-05-07)**, 9 · relator **Mário Povia** · Renúncia a registro de instalação portuária → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=668s)
+- **RD 442 (2018-05-07)**, 28 · relator **Francisval Mendes** · Registro de instalação portuária dentro da poligonal do porto organizado de Santarém → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=3599s)
+- **RD 445 (2018-06-20)**, 31 · relator **Francisval Mendes** · Referendo da Resolução 6177 (ad referendum): registro de instalação flutuante (FSRU, regaseificação de GNL) em Barra dos Coqueiros/SE → aprovado por unanimidade, com supressão da 3ª condicionante do relator
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=8440s)
+- **RD 446 (2018-06-29)**, 2-4 · relator **None** · Itens 2, 3 e 4: processos com vista de Tokarski → adiado: vista renovada (itens 2 e 3); item 4 tratado de forma diferenciada (incerto)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=-L7gcXUMaxY&t=417s)
+- **RD 446 (2018-06-29)**, 6 · relator **Mário Povia** · Registro de instalação portuária voltada a desembarque de pescado → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-L7gcXUMaxY&t=524s)
+- **RD 446 (2018-06-29)**, 7 · relator **Mário Povia** · Registro de instalação flutuante ligada a posto de combustíveis (região de Belém) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-L7gcXUMaxY&t=666s)
+- **RD 446 (2018-06-29)**, 9 · relator **Mário Povia** · Retificação de área de ETC (termo aditivo ao contrato de adesão) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-L7gcXUMaxY&t=1505s)
+- **RD 446 (2018-06-29)**, 22 · relator **Francisval Mendes** · Autorização especial e de emergência para ETC em Itaituba/PA (farelo de soja, 180 dias) → aprovado por maioria; Povia vencido
+  - votos: Francisval: relator; Mário: vencido; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-L7gcXUMaxY&t=4271s)
+- **RD 446 (2018-06-29)**, 23 · relator **Francisval Mendes** · Autorização de ETC em Itaituba/PA (anúncio público 19/2016) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-L7gcXUMaxY&t=4608s)
+- **RD 447 (2018-08-09)**, 3 · relator **Mário Povia** · Autorização em caráter especial e de emergência (art. 49 da Lei 10.233) para operar IP4 em Armação dos Búzios sem licença ambiental de operação → indeferido, unânime
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=1942s)
+- **RD 447 (2018-08-09)**, 30 · relator **Francisval Mendes** · Registro de instalação destinada a construção/reparo naval (RN 13, art. 2º, II) → aprovado, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=9659s)
+- **RD 447 (2018-08-09)**, 45 · relator **Adalberto Tokarski** · Registro de instalação portuária de apoio ao transporte aquaviário → aprovado, unânime
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=12398s)
+- **RD 448 (2018-08-31)**, 29 · relator **Adalberto Tokarski** · Registro de instalação portuária de apoio ao transporte aquaviário (bloco com item 28) → aprovado (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=6038s)
+- **RD 449 (2018-09-25)**, 7 · relator **None** · Item com prorrogação de pedido de vista (em bloco com o item 6) → prorrogação de vista aprovada
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=870s)
+- **RD 449 (2018-09-25)**, 8 · relator **None** · Item com prorrogação de pedido de vista (em bloco com o item 6) → prorrogação de vista aprovada
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=870s)
+- **RD 449 (2018-09-25)**, 10 · relator **None** · Item com prorrogação de pedido de vista (em bloco com o item 6) → prorrogação de vista aprovada
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=870s)
+- **RD 449 (2018-09-25)**, 9 · relator **Adalberto Tokarski** · Item de relatoria de Adalberto Tokarski em diligência → não apreciado (em diligência)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=895s)
+- **RD 449 (2018-09-25)**, 14 · relator **Mário Povia** · Registro de instalação portuária (rampa para desembarque de toras de madeira, Moju-PA) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=1313s)
+- **RD 449 (2018-09-25)**, 15 · relator **Mário Povia** · Registro de instalação de construção e reparação naval (Estaleiro Juruá, Iranduba-AM) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=1419s)
+- **RD 449 (2018-09-25)**, 38 · relator **Francisval Mendes** · Retificação de decisão → não deliberado (relator aguarda)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=9849s)
+- **RD 449 (2018-09-25)**, 46 · relator **Francisval Mendes** · Registro de instalação (terminal pesqueiro) → aprovado por unanimidade (indeferido)
+  - votos: Mário: acompanha; Adalberto: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=10708s)
+- **RD 449 (2018-09-25)**, 62 · relator **Adalberto Tokarski** · Autorização especial de emergência (vista) → não deliberado (vista)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=14104s)
+- **RD 449 (2018-09-25)**, 66 · relator **Adalberto Tokarski** · Registro de instalação de apoio ao transporte aquaviário → aprovado por unanimidade
+  - votos: Mário: acompanha; Adalberto: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=14477s)
+- **RD 449 (2018-09-25)**, 67 · relator **Mário Povia** · Referendo da Resolução 6355: prorroga as contribuições até 15/10/2018 → referendado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=14600s)
+- **RD 450 (2018-10-10)**, 5 · relator **None** · Processo em vista (renovação de vista) → vista renovada (Francisval Mendes); não deliberado
+  - votos: Francisval: vista · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=1708s)
+- **RD 450 (2018-10-10)**, 8 · relator **Francisval Mendes** · Autorização de instalação portuária de turismo (IPTur) na foz do rio Camboriú, Balneário Camboriú (SC) → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=3090s)
+- **RD 450 (2018-10-10)**, 10 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário dentro da poligonal do porto organizado, Belém (PA) → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=3783s)
+- **RD 450 (2018-10-10)**, 14 · relator **Mário Povia** · Revogação de decisão (Res. 6118) sobre erro material em contrato de adesão de IPTur de apoio em Armação dos Búzios (RJ) → aprovado (unânime)
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=4973s)
+- **RD 450 (2018-10-10)**, 16 · relator **Mário Povia** · Registro de instalação de apoio ao transporte aquaviário em Benevides (PA) → aprovado (unânime)
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=5666s)
+- **RD 450 (2018-10-10)**, 17 · relator **Mário Povia** · Registro de estaleiro de pequeno porte dentro da poligonal do porto organizado de Santarém (PA) → aprovado (unânime)
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=5846s)
+- **RD 450 (2018-10-10)**, 36 · relator **Francisval Mendes** · Autorização de IPTur em Balneário Camboriú (SC), 21.468 m² → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=14637s)
+- **RD 450 (2018-10-10)**, 38 · relator **Francisval Mendes** · Registro de instalação de apoio ao transporte aquaviário em Vila Velha (ES) → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=15725s)
+- **RD 450 (2018-10-10)**, 39 · relator **Francisval Mendes** · Registro de instalação de apoio dentro do porto organizado de Itaguaí (RJ) → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=15901s)
+- **RD 450 (2018-10-10)**, 62 · relator **Francisval Mendes** · Extrapauta: autorização especial e de emergência para concluir substituição do flutuante Bermar 2 pelo Bermar 3 na ETC em Manaus (AM) → pedido de vista (Adalberto Tokarski); julgamento suspenso
+  - votos: Francisval: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=18105s)
+- **RD 451 (2018-10-31)**, 2 · relator **Adalberto Tokarski** · Registro de instalação portuária de apoio (Porto Brilhante), região de Belém → aprovado por unanimidade, com a determinação adicional do voto-vista
+  - votos: Adalberto: revisor_acompanha; Francisval: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=56s)
+- **RD 451 (2018-10-31)**, 4 · relator **Francisval Mendes** · Autorização em caráter especial e de emergência → aprovado por maioria; vencido Mário Povia (indeferimento)
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: vencido · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=720s)
+- **RD 451 (2018-10-31)**, 16 · relator **Mário Povia** · Registro de instalação flutuante (FSRU) de GNL na Baía da Babitonga/SC, com sobreposição a projeto de TUP Porto Brasil Sul → não concluído: pedido de vista de Tokarski
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=2820s)
+- **RD 451 (2018-10-31)**, 38 · relator **Francisval Mendes** · Registro de instalação portuária: apoio (RN 13, art. 2º, V) → aprovado, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=8050s)
+- **RD 451 (2018-10-31)**, 39 · relator **Francisval Mendes** · Registro de instalação portuária: construção/reparo naval dentro da poligonal (RN 13, art. 2º, §1º) → aprovado, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=8154s)
+- **RD 451 (2018-10-31)**, 40 · relator **Francisval Mendes** · Registro de instalação portuária: apoio a passageiros → aprovado, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=8431s)
+- **RD 451 (2018-10-31)**, 41 · relator **Francisval Mendes** · Registro de instalação portuária: apoio (com cronograma e certidão FGTS) → aprovado, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=8574s)
+- **RD 451 (2018-10-31)**, 42 · relator **Adalberto Tokarski** · Desincorporação e baixa de bens inservíveis (bebedouros) → aprovado, unânime
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=8715s)
+- **RD 451 (2018-10-31)**, 43 · relator **Adalberto Tokarski** · Desincorporação e alienação de shiploaders e transportadores inservíveis → aprovado, unânime
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=8826s)
+- **RD 451 (2018-10-31)**, 44 · relator **Adalberto Tokarski** · Renúncia de outorga de autorização → aprovado, unânime
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=8989s)
+- **RD 451 (2018-10-31)**, 45 · relator **Adalberto Tokarski** · Renúncia de outorga de autorização → aprovado, unânime
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=9062s)
+- **RD 451 (2018-10-31)**, 47 · relator **Adalberto Tokarski** · Registro de instalação portuária de apoio (RN 13) → aprovado, unânime
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=9617s)
+- **RD 451 (2018-10-31)**, 48 · relator **Adalberto Tokarski** · Registro de instalação portuária de apoio (RN 13) → aprovado, unânime
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=9723s)
+- **RD 451 (2018-10-31)**, 49 · relator **Adalberto Tokarski** · Registro de instalação portuária de apoio (RN 13) → aprovado, unânime
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=9810s)
+- **RD 451 (2018-10-31)**, 50 · relator **Adalberto Tokarski** · Registro de instalação portuária de apoio (RN 13) → aprovado, unânime
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=9907s)
+- **RD 452 (2018-11-14)**, 11 · relator **Mário Povia** · Registro de instalação de apoio ao transporte aquaviário (píer/terminal em Angra dos Reis) para turismo de cruzeiros → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=957s)
+- **RD 452 (2018-11-14)**, 12 · relator **Mário Povia** · Registro de instalação portuária de apoio (píer do Centro, Praia do Canto) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=1867s)
+- **RD 452 (2018-11-14)**, 13 · relator **Mário Povia** · Registro de instalação portuária de apoio (terminal no Itaguá, Ubatuba) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=2108s)
+- **RD 452 (2018-11-14)**, 21 · relator **None** · Esclarecimentos (assunto incompreensível na legenda) → não deliberado (incerto)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=4050s)
+- **RD 452 (2018-11-14)**, 25-28 · relator **Francisval Mendes** · Registro de instalações de apoio (trapiches de turismo) - julgamento em bloco → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=4930s)
+- **RD 452 (2018-11-14)**, 30 · relator **Adalberto Tokarski** · Registro de instalação de apoio → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=6211s)
+- **RD 452 (2018-11-14)**, 31 · relator **Adalberto Tokarski** · Desistência de anúncio público 13/2016 (ETC), devolução de garantia → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=6343s)
 - **RD 454 (2018-12-20)**, 4 · relator **None** · Processo com vista de Adalberto Tokarski: prorrogação da vista → vista prorrogada
   - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=93s)
 - **RD 454 (2018-12-20)**, 5 · relator **Mário Povia** · Registro de instalação portuária de apoio (posto de revenda de combustível para embarcações) em Almeirim (PA) → aprovado por unanimidade
