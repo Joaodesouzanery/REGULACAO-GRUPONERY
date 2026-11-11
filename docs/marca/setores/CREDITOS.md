@@ -6,10 +6,12 @@ Imagens de uso livre (Wikimedia Commons). Ao usar no relatório, o crédito apar
 |---|---|---|---|---|
 
 Faltam: energia, aviação. Fotos de 2026-11 vêm do Openverse (Flickr), licenças comerciais com atribuição.
-| rodovias.jpg | Rodovia dos Bandeirantes,amanhecer - panoramio | Mateus Tomé | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Rodovia_dos_Bandeirantes,amanhecer_-_panoramio.jpg |
-| navegacao.jpg | KOTA SANTOS, IMO 9293765, Rio de Janeiro | Wilfredor | CC0 | https://commons.wikimedia.org/wiki/File:KOTA_SANTOS,_IMO_9293765,_Rio_de_Janeiro.jpg |
+| rodovias.jpg | Flight over Sankt Augustin | Neuwieser | CC BY-SA 2.0 | https://www.flickr.com/photos/65972318@N00/4827571943 |
+| navegacao.jpg | SPICA HARMONY. Bulk carrier. | Bernard Spragg | CC PDM 1.0 | https://www.flickr.com/photos/88123769@N02/51340162196 |
 | onibus.jpg | Solo powering up the hill with a scenic view | charles cars | CC BY 2.0 | https://www.flickr.com/photos/92622665@N08/8695964913 |
-| ferrovias.jpg | Renfe 319.240 + 319.212 Andorra (Teruel). | Luis Zamora (eldelinux) | CC BY 2.0 | https://www.flickr.com/photos/28528041@N05/6937955956 |
-| mineracao.jpg | Borax Boron Open Pit Mine, Boron, California | craigdietrich | CC BY 2.0 | https://www.flickr.com/photos/57385426@N02/7547458654 |
+| ferrovias.jpg | ¡Viva San Fermin! | elandroid | CC BY 2.0 | https://www.flickr.com/photos/26802171@N05/9221181425 |
+| mineracao.jpg | Brazil-00012 - Open Pit Mine? | archer10 (Dennis) | CC BY-SA 2.0 | https://www.flickr.com/photos/22490717@N02/48954145937 |
 | barragens.jpg | Hartwell Dam Spillway Gate Test | U.S. Army Corps of Engineers Savannah District | CC BY 2.0 | https://www.flickr.com/photos/45417428@N05/9296682182 |
-| portos.jpg | Bayport container terminal, Port of Houston | roy.luck | CC BY 2.0 | https://www.flickr.com/photos/21550937@N03/5647691362 |
+| portos.jpg | Freeport; Malta | foxypar4 | CC BY 2.0 | https://www.flickr.com/photos/43145783@N00/3101540679 |
+
+Opções alternativas (2026-11-11) em `opcoes/<setor>_<n>.jpg` (n=1 é a aplicada); créditos das opções 2–3 no Openverse/Flickr.
