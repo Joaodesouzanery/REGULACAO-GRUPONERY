@@ -63,7 +63,7 @@ for ag in AGS:
                      "bio": (bios.get(d) or {}).get("minibio") or "Minibio não disponível (pesquisa pendente).",
                      "fim": fim, "n": len(vs), "rel": sum(v[1] for v in vs),
                      "ac": cat["acompanha"] + cat["revisor_acompanha"], "dv": cat["vencido"] + cat["revisor_diverge"], "vista": cat["vista"],
-                     "p": pr["por_diretor"].get(d, (None, 0))})
+                     "p": pr["por_diretor"].get(d, (None, 0)), "b": bios.get(d)})
     pend = [i for i in its if desfecho_item(c, i["id"]) == "pendente" and i["data"] >= (HOJE - datetime.timedelta(days=540)).isoformat()]
     procs = collections.OrderedDict()
     for i in reversed(its):
@@ -90,6 +90,12 @@ for ag, a in AG.items():
         CAL.append((i["data"], NOME_AG[ag], f"Em aberto desde a RD {i['numero']}: {i['assunto'][:90]} — {i['resultado'] or 'vista/retirado'}", "pendente"))
 CAL.sort()
 
+import unicodedata
+def foto_d(ag, nome, b):
+    sl = re.sub(r"[^a-z0-9]+", "-", unicodedata.normalize("NFKD", nome).encode("ascii", "ignore").decode().lower()).strip("-")
+    for p in [(b or {}).get("foto"), f"docs/marca/diretores/{ag}/{sl}.jpg"]:
+        if p and os.path.exists(p): return f'<div class="ftd" style="background-image:url({b64(p)})"></div>'
+    return '<div class="ftd ini">' + E("".join(w[0] for w in nome.split()[:2]).upper()) + '</div>'
 # ---------- HTML ----------
 SET = SETOR_AG[next(iter(AG))]
 REC = "docs/marca/setores/recortes"
@@ -117,7 +123,7 @@ S.append(f'''<section class="pg proc"><header class="top"><span class="num">01</
 n = 1
 for ag, a in AG.items():
     s = SETOR_AG[ag]; n += 1
-    cards = "".join(f'''<div class="dc s-{s}"><div class="dc-n">{E(d["nome"])}</div><div class="dc-c">{E(d["cargo"][:70])}</div><p>{E(d["bio"][:240])}</p>
+    cards = "".join(f'''<div class="dc s-{s}"><div class="dch">{foto_d(ag, d["nome"], d.get("b"))}<div><div class="dc-n">{E(d["nome"])}</div><div class="dc-c">{E(d["cargo"][:70])}</div></div></div><p>{E(d["bio"][:240])}</p>
 <div class="dc-m">Mandato até <b>{fmtd(str(d["fim"])) if d["fim"] else "não informado"}</b></div><div class="dc-m">Na empresa: {d["n"]} votos · {d["rel"]} relatorias</div></div>''' for d in a["dirs"])
     S.append(f'''<section class="pg dirp s-{s}"><div class="q-f fp-{s}"><div class="q-veu"></div><div class="q-tag">{NOME_AG[ag]}</div><div class="q-n">{n:02d}</div></div>
 <div class="q-c"><header class="top"><span class="num">{n:02d}</span><span>Diretoria · {NOME_AG[ag]}</span>{f"<img src='{LOGO_P}' class='logo-p'>" if LOGO_P else ""}</header><h2>Quem decide hoje</h2>
@@ -176,7 +182,7 @@ CSS = """@page{size:13.333in 7.5in;margin:0}:root{--ink:#0B0B0B;--gold:#C99A06;-
 .q-tag{position:absolute;top:.35in;left:.3in;font-size:10pt;font-weight:700;letter-spacing:.14em;color:#fff;border-left:3px solid var(--ac);padding-left:.1in}.q-n{position:absolute;left:.28in;bottom:.3in;font-family:Rubik;font-size:64pt;color:#fff}
 .q-c{flex:1;padding:.36in .5in .5in;display:flex;flex-direction:column;min-width:0}.q-c.full{padding:.36in .55in .5in}.q-c h2{font-size:20pt;margin:.14in 0 .12in}
 .dgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:.14in}.dc{background:#fff;border:1px solid var(--line);border-top:4px solid var(--ac);border-radius:10px;padding:.12in .14in}
-.dc-n{font-family:Rubik;font-size:12pt;font-weight:600}.dc-c{font-size:8pt;color:var(--grey);margin:.02in 0 .05in}.dc p{font-size:8.4pt;line-height:1.38;margin:0 0 .06in}.dc-m{font-size:8pt;color:#3A3833}
+.dch{display:flex;gap:.1in;align-items:center;margin-bottom:.04in}.ftd{width:.62in;height:.62in;flex:none;border-radius:50%;background-size:cover;background-position:center;background-color:#E7E3DA}.ftd.ini{display:flex;align-items:center;justify-content:center;font-family:Rubik;color:#6E6A63;font-size:14pt}.dc-n{font-family:Rubik;font-size:12pt;font-weight:600}.dc-c{font-size:8pt;color:var(--grey);margin:.02in 0 .05in}.dc p{font-size:8.4pt;line-height:1.38;margin:0 0 .06in}.dc-m{font-size:8pt;color:#3A3833}
 .sup{margin-top:.14in;font-size:9pt;background:var(--mist);border-radius:8px;padding:8px 12px}.rod{position:absolute;left:3.1in;right:.5in;bottom:.16in;font-size:7.5pt;color:var(--grey)}.full .rod,.setp .rod,.prevp .rod{left:.55in;right:1.3in}
 .lead{font-size:11pt;line-height:1.5;margin:0 0 .14in;color:#2B2925}.meio{display:grid;grid-template-columns:1fr 1.15fr;gap:.3in}.mini{background:var(--mist);border-radius:10px;padding:.14in .18in}
 .mini-h{font-size:8pt;color:var(--grey);text-transform:uppercase;letter-spacing:.06em;margin-bottom:.08in}.mb{display:flex;align-items:center;gap:.1in;font-size:9pt;margin:6px 0}.mb-l{width:1.6in}
