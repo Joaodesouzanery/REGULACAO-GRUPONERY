@@ -3,6 +3,8 @@ com TODOS os diretores lado a lado) + lote de superintendentes + cobertura. Só 
 Uso: python3 pipeline/relatorio_diretoria.py <antt|anm|antaq> [saida_dir] [--perguntas arquivo.json]
 perguntas.json (opcional): [{"titulo": "...", "tema": "concessoes_rodoviarias"|null, "metrica": "relata|diverge|desfecho|tema"}]"""
 import sys, os, re, json, html, base64, sqlite3, datetime, subprocess, collections, unicodedata
+sys.path.insert(0, __import__('os').path.dirname(__import__('os').path.abspath(__file__)))
+from pdf_leve import leve_html, leve_pdf
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import previsao
 from desfecho import desfecho_item
@@ -142,7 +144,8 @@ h2{font-size:21pt;margin:.12in 0 .16in}.qgrid{display:grid;grid-template-columns
 .sgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:.14in}.sc{display:flex;gap:.12in;background:#fff;border:1px solid #E3DFD6;border-radius:10px;padding:.1in}.sc .ft{width:.75in;height:.75in}.sc p{font-size:7.8pt;margin:.03in 0;line-height:1.3}.vazio{color:#6E6A63}
 .fim{background:#0B0B0B;color:#fff;padding:.6in .8in}.fim h2{font-size:26pt;margin:.3in 0 .25in}.fimc{font-size:9.5pt;line-height:1.55;color:#CFCAC0}"""
 H = f'<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><title>{NOME} diretoria</title><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Rubik:wght@500;600&display=swap" rel="stylesheet"><style>{CSS}</style></head><body>{"".join(S)}</body></html>'
-open(f"{OUT}/diretoria_{AG}.html", "w").write(H)
+open(f"{OUT}/diretoria_{AG}.html", "w").write(leve_html(H))
 js = f"""const {{chromium}}=require('playwright');(async()=>{{const b=await chromium.launch();const p=await b.newPage();await p.goto('file://{os.path.abspath(OUT)}/diretoria_{AG}.html',{{waitUntil:'networkidle'}});await p.pdf({{path:'{os.path.abspath(OUT)}/diretoria_{AG}.pdf',width:'13.333in',height:'7.5in',printBackground:true}});await b.close();}})();"""
 r = subprocess.run(["node", "-e", js], capture_output=True, text=True, cwd="/tmp")
+if r.returncode == 0: leve_pdf(f"{OUT}/diretoria_{AG}.pdf")
 print(f"{OUT}/diretoria_{AG}.pdf" if r.returncode == 0 else r.stderr[-300:], TOT, "páginas")

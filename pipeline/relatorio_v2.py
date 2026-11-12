@@ -6,6 +6,8 @@ Entrada (mesma da v1): <pasta>/perguntas.md («- pergunta [agencia: x] [diretor:
 Por pergunta: (1) resposta + 3 números grandes; (2) um gráfico; (3) três evidências em cartões com link no minuto.
 Identidade: docs/marca/circle/ (logo branco/preto); fotos de setor em docs/marca/setores/<setor>.jpg (créditos em CREDITOS.md)."""
 import sys, os, re, glob, html, json, base64, sqlite3, datetime, subprocess, collections
+sys.path.insert(0, __import__('os').path.dirname(__import__('os').path.abspath(__file__)))
+from pdf_leve import leve_html, leve_pdf
 P = sys.argv[1].rstrip("/")
 arg = lambda k, d=None: sys.argv[sys.argv.index(k) + 1] if k in sys.argv else d
 TIT = arg("--titulo", "Inteligência regulatória"); SUB = arg("--subtitulo", "Como a diretoria decide, com evidência de cada voto")
@@ -222,8 +224,9 @@ S = [sec.replace("{PAGN}", f"{k+1:02d} / {TOT:02d}") for k, sec in enumerate(S)]
 H = f'''<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><title>{E(TIT)}</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Rubik:wght@500;600&display=swap" rel="stylesheet">
 <style>{CSS}{COR_CSS}{IMG_CSS}</style></head><body>{"".join(S)}</body></html>'''
-open(f"{P}/relatorio_v2.html", "w").write(H)
+open(f"{P}/relatorio_v2.html", "w").write(leve_html(H))
 js = f"""const {{chromium}}=require('playwright');(async()=>{{const b=await chromium.launch();const p=await b.newPage();await p.goto('file://{os.path.abspath(P)}/relatorio_v2.html',{{waitUntil:'networkidle'}});await p.pdf({{path:'{os.path.abspath(P)}/relatorio_v2.pdf',width:'13.333in',height:'7.5in',printBackground:true,margin:{{top:'0',bottom:'0',left:'0',right:'0'}}}});await b.close();}})();"""
 r = subprocess.run(["node", "-e", js], capture_output=True, text=True, cwd="/tmp")
+if r.returncode == 0: leve_pdf(f"{P}/relatorio_v2.pdf")
 tam = os.path.getsize(f"{P}/relatorio_v2.pdf") // 1024 if r.returncode == 0 else 0
 print(f"{P}/relatorio_v2.pdf" if r.returncode == 0 else "PDF não gerado: " + r.stderr[-300:], len(Q), "perguntas,", len(S), "páginas,", tam, "KB")

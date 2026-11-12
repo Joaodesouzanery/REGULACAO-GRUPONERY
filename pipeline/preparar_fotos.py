@@ -16,16 +16,24 @@ def recorte(im, prop, cx, cy, lim=None):
         x0, y0, x1, y1 = [round(v * s) for v, s in zip(lim, (W, H, W, H))]
         if y + h > y0 and x + w > x0 and y < y1 and x < x1: y = max(0, min(y, y0 - h)) if y0 - h >= 0 else y
     return im.crop((x, y, x + w, y + h))
-def duotom(im, cor):
-    g = ImageEnhance.Contrast(ImageOps.grayscale(im)).enhance(1.12)
-    escuro = tuple(int(c * .22) for c in hexrgb(cor)); claro = tuple(min(255, int(245 * .82 + c * .18)) for c in hexrgb(cor))
-    tom = ImageOps.colorize(g, escuro, claro, mid=hexrgb(cor))
-    return Image.blend(im.convert("RGB"), tom, .78)  # 22% da cor original: foto continua reconhecível
+def natural(im, tipo):
+    """Cor natural (sem duotom), leve contraste/saturação e o véu escuro EMBUTIDO na imagem (o PDF fica sem transparência)."""
+    im = ImageEnhance.Color(ImageEnhance.Contrast(im.convert("RGB")).enhance(1.06)).enhance(1.08)
+    W, H = im.size
+    m = Image.new("L", (W, H))
+    px = m.load()
+    for y in range(H):
+        for x in range(W):
+            if tipo == "capa": a = max(0.0, 0.62 * (1 - x / (0.75 * W)))
+            elif tipo == "painel": t = y / H; a = 0.25 * max(0, 1 - t / 0.3) + 0.7 * max(0, (t - 0.55) / 0.45)
+            else: t = y / H; a = 0.45 * max(0, 1 - t / 0.32) + 0.85 * max(0, (t - 0.45) / 0.55)
+            px[x, y] = int(255 * min(a, 0.9))
+    return Image.composite(Image.new("RGB", (W, H), (11, 11, 11)), im, m)
 for s, f in FOCO.items():
     src = f"{D}/{f.get('arquivo', s + '.jpg')}"
     if not os.path.exists(src): print("sem foto:", s); continue
     im = Image.open(src).convert("RGB")
-    for nome, prop, tam in (("capa", 16 / 9, (1280, 720)), ("painel", 2 / 5, (400, 1000)), ("cartao", 4 / 5, (480, 600))):
-        r = duotom(recorte(im, prop, *f.get(nome, f["capa"]), lim=f.get("evitar")).resize(tam, Image.LANCZOS), f["cor"])
-        r.save(f"{OUT}/{s}_{nome}.jpg", quality=68, optimize=True, progressive=True)
+    for nome, prop, tam in (("capa", 16 / 9, (1600, 900)), ("painel", 2 / 5, (600, 1500)), ("cartao", 4 / 5, (480, 600))):
+        r = natural(recorte(im, prop, *f.get(nome, f["capa"]), lim=f.get("evitar")).resize(tam, Image.LANCZOS), nome)
+        r.save(f"{OUT}/{s}_{nome}.jpg", quality=70, optimize=True, progressive=True)
     print(s, "ok", [os.path.getsize(f"{OUT}/{s}_{n}.jpg") // 1024 for n in ("capa", "painel", "cartao")], "KB")

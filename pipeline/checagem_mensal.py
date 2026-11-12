@@ -30,4 +30,5 @@ for ag in (sys.argv[1:] or ["antt", "anm", "antaq"]):
         if not v.get("fim"): print(f"- 🔴 vaga aberta desde {v['inicio']}: {v['cadeira']} (interinos: {v.get('interinos')})")
     sups = ld(f"{D}/superintendentes.json", [])
     print(f"- superintendentes registrados: {len(sups)}" + ("" if sups else " — ⚠️ levantar (agente pesquisador-superintendentes)"))
+import subprocess; print("\n## Perfis (dirigentes.py faltas)"); print(subprocess.run(["python3","pipeline/dirigentes.py","faltas"],capture_output=True,text=True).stdout or "- todos com perfil completo")
 print("\nDepois: pesquisar Senado/DOU/Agência iNFRA do mês (skill checagem-mensal), atualizar os JSON, rodar vacancias.py e relatorio_diretoria.py.")

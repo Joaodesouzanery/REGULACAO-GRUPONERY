@@ -1,87 +1,34 @@
 [
  {
+  "nome": "Alexandre de Cássio Rodrigues",
+  "cargo": "Superintendente de Arrecadação e Fiscalização de Receitas (SAR)",
+  "unidade": "SAR",
+  "formacao": "Doutor em Administração; mestre em Administração Pública e em Engenharia de Produção; graduado em Eng. de Produção, Adm. Pública e Computação",
+  "minibio": "Especialista em Recursos Minerais da ANM desde 2006; criou o Observatório da CFEM; superintendente de Arrecadação desde ago/2025.",
+  "fontes": [
+   "https://www.gov.br/anm/pt-br/composicao/superintendencias/superintendencia-de-arrecadacao-e-fiscalizacao-de-receitas-sar"
+  ],
+  "verificado_em": "2026-11-11",
+  "confianca": "alta",
+  "tipo": "superintendente",
+  "nome_chave": "Alexandre de Cássio Rodrigues",
+  "status": "ativo"
+ },
+ {
   "nome": "Aline Fernandes das Chagas",
   "cargo": "Superintendente de Gestão e Pessoas (SGP)",
   "unidade": "SGP",
   "formacao": "Comunicação Social; mestre em Administração Pública (FGV); duas especializações em Gestão",
   "minibio": "Gestora pública com atuação em gestão de pessoas, gestão documental e comunicação; coordenou programas de capacitação com Fundação Dom Cabral e FGV.",
-  "foto": null,
   "fontes": [
    "https://www.gov.br/anm/pt-br/composicao/superintendencias/superintendencia-de-gestao-e-pessoas-sgp",
    "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/cv_alinefernandes.pdf"
   ],
   "verificado_em": "2026-11-11",
-  "confianca": "alta"
- },
- {
-  "nome": "Júlio César Rodrigues",
-  "cargo": "Superintendente de Administração e Finanças (SAF)",
-  "unidade": "SAF",
-  "formacao": "Analista de Sistemas; especializações em Sistemas de Informação, Gestão Financeira e Políticas Públicas (energia e mineração); PMP",
-  "minibio": "Cerca de 30 anos em tecnologia da informação, com certificações PMP, COBIT e ITIL; superintendente de Administração e Finanças da ANM.",
-  "foto": "docs/marca/diretores/anm/julio-cesar-rodrigues.jpg",
-  "fontes": [
-   "https://www.gov.br/anm/pt-br/composicao/superintendencias/superintendencia-de-administracao-e-financas-saf",
-   "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/cv_superintendentejulio.pdf"
-  ],
-  "verificado_em": "2026-11-11",
-  "confianca": "alta"
- },
- {
-  "nome": "Maryanna Beserra de Almeida",
-  "cargo": "Superintendente de Planejamento e Estratégia (SPE), interina",
-  "unidade": "SPE",
-  "formacao": "Biblioteconomia e mestrado em Ciência da Informação (UFRGS); MBA em Gerenciamento de Projetos (FGV)",
-  "minibio": "No DNPM/ANM desde 2011 (protocolo, atendimento, transformação digital); gerente de Gestão Documental, Governança de Dados e Memória; SPE interina.",
-  "foto": null,
-  "fontes": [
-   "https://www.gov.br/anm/pt-br/composicao/superintendencias/superintendencia-de-planejamento-e-estrategia-spe",
-   "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/superintendencias-de-gestao-institucional/superintendencia-de-planejamento-e-estrategia/curriculo-maryanna.pdf"
-  ],
-  "verificado_em": "2026-11-11",
-  "confianca": "alta"
- },
- {
-  "nome": "Márcio Leal Gomes da Silva",
-  "cargo": "Superintendente de Tecnologia da Informação e Inovação (STI)",
-  "unidade": "STI",
-  "formacao": "Graduado em Tecnologia da Informação; pós-graduado em Redes de Computadores e Administração Pública",
-  "minibio": "Especialista em Recursos Minerais da ANM desde 2010; antes analista de suporte na Prodepa (PA, 2004–2010).",
-  "foto": "docs/marca/diretores/anm/marcio-leal-gomes-da-silva.jpg",
-  "fontes": [
-   "https://www.gov.br/anm/pt-br/composicao/superintendencias/superintendencia-de-tecnologia-da-informacao-e-inovacao-sti",
-   "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/eixo-de-gestao-institucional/superintendencia-de-tecnologia-da-informacao-e-inovacao/crriculo-marcio.pdf"
-  ],
-  "verificado_em": "2026-11-11",
-  "confianca": "alta"
- },
- {
-  "nome": "Inara Oliveira Barbosa",
-  "cargo": "Superintendente de Economia Mineral e Geoinformação (SEG)",
-  "unidade": "SEG",
-  "formacao": "Geóloga (UnB); mestre em Ciências Agrárias e doutora em Geociências Aplicadas (UnB); especializações em Geoprocessamento e Transição Energética (FGV)",
-  "minibio": "Servidora da ANM desde 2008; coordenou a Geoinformação Mineral (2019–2025); superintendente de Economia Mineral e Geoinformação desde 2025.",
-  "foto": "docs/marca/diretores/anm/inara-oliveira-barbosa.jpg",
-  "fontes": [
-   "https://www.gov.br/anm/pt-br/composicao/superintendencias/superintendencia-de-economia-mineral-e-geoinformacao-seg",
-   "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/politica-regulatoria-e-inteligencia-mineral/superintendencia-de-economia-mineral-e-geoinformacao/curriculo-inara.pdf"
-  ],
-  "verificado_em": "2026-11-11",
-  "confianca": "alta"
- },
- {
-  "nome": "Marina Marques Dalla Costa",
-  "cargo": "Superintendente de Política Regulatória (SPR)",
-  "unidade": "SPR",
-  "formacao": "Geóloga (UnB); mestre em Geoquímica; MBA em Gestão de Projetos e especialização em Transição Energética (FGV)",
-  "minibio": "Servidora da ANM desde 2010; assessora do diretor-geral (2022–2025); superintendente de Política Regulatória desde ago/2025.",
-  "foto": null,
-  "fontes": [
-   "https://www.gov.br/anm/pt-br/composicao/superintendencias/superintendencia-de-politica-regulatoria-spr",
-   "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/superintendencias-de-politica-regulatoria-e-inteligencia-mineral/superintendencia-de-politica-regulatoria/curriculo-marina-dalla.pdf"
-  ],
-  "verificado_em": "2026-11-11",
-  "confianca": "alta"
+  "confianca": "alta",
+  "tipo": "superintendente",
+  "nome_chave": "Aline Fernandes das Chagas",
+  "status": "ativo"
  },
  {
   "nome": "André Elias Marques",
@@ -89,40 +36,15 @@
   "unidade": "SOT",
   "formacao": "Tecnólogo em Geoprocessamento; técnico em Mineração",
   "minibio": "Servidor da ANM desde 2006; ouvidor interino (2022–2026) e assessor da Diretoria; superintendente de Outorga desde jan/2026.",
-  "foto": null,
   "fontes": [
    "https://www.gov.br/anm/pt-br/composicao/superintendencias/superintendencia-de-outorga-de-titulos-minerarios-sot",
    "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/curriculo-ouvidor-andre-marques.pdf"
   ],
   "verificado_em": "2026-11-11",
-  "confianca": "alta"
- },
- {
-  "nome": "Alexandre de Cássio Rodrigues",
-  "cargo": "Superintendente de Arrecadação e Fiscalização de Receitas (SAR)",
-  "unidade": "SAR",
-  "formacao": "Doutor em Administração; mestre em Administração Pública e em Engenharia de Produção; graduado em Eng. de Produção, Adm. Pública e Computação",
-  "minibio": "Especialista em Recursos Minerais da ANM desde 2006; criou o Observatório da CFEM; superintendente de Arrecadação desde ago/2025.",
-  "foto": null,
-  "fontes": [
-   "https://www.gov.br/anm/pt-br/composicao/superintendencias/superintendencia-de-arrecadacao-e-fiscalizacao-de-receitas-sar"
-  ],
-  "verificado_em": "2026-11-11",
-  "confianca": "alta"
- },
- {
-  "nome": "Fernando Alves Drummond de Oliveira",
-  "cargo": "Superintendente de Fiscalização (SFI)",
-  "unidade": "SFI",
-  "formacao": "Engenheiro de Minas (UFMG); advogado, especialista em Direito Público, Penal e Constitucional",
-  "minibio": "Servidor do DNPM/ANM em MG desde 2006; chefiou a fiscalização de não metálicos e liderou o primeiro TAC da ANM; superintendente de Fiscalização.",
-  "foto": null,
-  "fontes": [
-   "https://www.gov.br/anm/pt-br/composicao/superintendencias/superintendencia-de-fiscalizacao-sfi",
-   "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/curriculo-fernando-alves.pdf"
-  ],
-  "verificado_em": "2026-11-11",
-  "confianca": "alta"
+  "confianca": "alta",
+  "tipo": "superintendente",
+  "nome_chave": "André Elias Marques",
+  "status": "ativo"
  },
  {
   "nome": "David de Barros Galo",
@@ -130,12 +52,113 @@
   "unidade": "SBP",
   "formacao": "Engenheiro de Minas (UFBA); mestre em Eng. Ambiental Urbana e doutor em Geologia (UFBA); especialista em Barragens e Geotecnia (PUC Minas)",
   "minibio": "Na ANM desde 2010; antes atuou em mineradoras de ouro e como professor substituto na UFBA; SBP interino substituto (titular, Paniago, está na Diretoria).",
-  "foto": null,
   "fontes": [
    "https://www.gov.br/anm/pt-br/composicao/superintendencias/superintendencia-de-seguranca-de-barragens-e-pilhas-de-mineracao-sbp",
    "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/eixo-de-seguranca-da-atividade-de-mineracao/superintendencia-de-seguranca-de-barragens-e-pilhas-de-mineracao/curriculo-david-galo.pdf"
   ],
   "verificado_em": "2026-11-11",
-  "confianca": "alta"
+  "confianca": "alta",
+  "tipo": "superintendente",
+  "nome_chave": "David de Barros Galo",
+  "status": "ativo"
+ },
+ {
+  "nome": "Fernando Alves Drummond de Oliveira",
+  "cargo": "Superintendente de Fiscalização (SFI)",
+  "unidade": "SFI",
+  "formacao": "Engenheiro de Minas (UFMG); advogado, especialista em Direito Público, Penal e Constitucional",
+  "minibio": "Servidor do DNPM/ANM em MG desde 2006; chefiou a fiscalização de não metálicos e liderou o primeiro TAC da ANM; superintendente de Fiscalização.",
+  "fontes": [
+   "https://www.gov.br/anm/pt-br/composicao/superintendencias/superintendencia-de-fiscalizacao-sfi",
+   "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/curriculo-fernando-alves.pdf"
+  ],
+  "verificado_em": "2026-11-11",
+  "confianca": "alta",
+  "tipo": "superintendente",
+  "nome_chave": "Fernando Alves Drummond de Oliveira",
+  "status": "ativo"
+ },
+ {
+  "nome": "Inara Oliveira Barbosa",
+  "cargo": "Superintendente de Economia Mineral e Geoinformação (SEG)",
+  "unidade": "SEG",
+  "formacao": "Geóloga (UnB); mestre em Ciências Agrárias e doutora em Geociências Aplicadas (UnB); especializações em Geoprocessamento e Transição Energética (FGV)",
+  "minibio": "Servidora da ANM desde 2008; coordenou a Geoinformação Mineral (2019–2025); superintendente de Economia Mineral e Geoinformação desde 2025.",
+  "foto": "data/anm/dirigentes/inara-oliveira-barbosa.jpg",
+  "fontes": [
+   "https://www.gov.br/anm/pt-br/composicao/superintendencias/superintendencia-de-economia-mineral-e-geoinformacao-seg",
+   "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/politica-regulatoria-e-inteligencia-mineral/superintendencia-de-economia-mineral-e-geoinformacao/curriculo-inara.pdf"
+  ],
+  "verificado_em": "2026-11-11",
+  "confianca": "alta",
+  "tipo": "superintendente",
+  "nome_chave": "Inara Oliveira Barbosa",
+  "status": "ativo"
+ },
+ {
+  "nome": "Júlio César Rodrigues",
+  "cargo": "Superintendente de Administração e Finanças (SAF)",
+  "unidade": "SAF",
+  "formacao": "Analista de Sistemas; especializações em Sistemas de Informação, Gestão Financeira e Políticas Públicas (energia e mineração); PMP",
+  "minibio": "Cerca de 30 anos em tecnologia da informação, com certificações PMP, COBIT e ITIL; superintendente de Administração e Finanças da ANM.",
+  "foto": "data/anm/dirigentes/julio-cesar-rodrigues.jpg",
+  "fontes": [
+   "https://www.gov.br/anm/pt-br/composicao/superintendencias/superintendencia-de-administracao-e-financas-saf",
+   "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/cv_superintendentejulio.pdf"
+  ],
+  "verificado_em": "2026-11-11",
+  "confianca": "alta",
+  "tipo": "superintendente",
+  "nome_chave": "Júlio César Rodrigues",
+  "status": "ativo"
+ },
+ {
+  "nome": "Márcio Leal Gomes da Silva",
+  "cargo": "Superintendente de Tecnologia da Informação e Inovação (STI)",
+  "unidade": "STI",
+  "formacao": "Graduado em Tecnologia da Informação; pós-graduado em Redes de Computadores e Administração Pública",
+  "minibio": "Especialista em Recursos Minerais da ANM desde 2010; antes analista de suporte na Prodepa (PA, 2004–2010).",
+  "foto": "data/anm/dirigentes/marcio-leal-gomes-da-silva.jpg",
+  "fontes": [
+   "https://www.gov.br/anm/pt-br/composicao/superintendencias/superintendencia-de-tecnologia-da-informacao-e-inovacao-sti",
+   "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/eixo-de-gestao-institucional/superintendencia-de-tecnologia-da-informacao-e-inovacao/crriculo-marcio.pdf"
+  ],
+  "verificado_em": "2026-11-11",
+  "confianca": "alta",
+  "tipo": "superintendente",
+  "nome_chave": "Márcio Leal Gomes da Silva",
+  "status": "ativo"
+ },
+ {
+  "nome": "Marina Marques Dalla Costa",
+  "cargo": "Superintendente de Política Regulatória (SPR)",
+  "unidade": "SPR",
+  "formacao": "Geóloga (UnB); mestre em Geoquímica; MBA em Gestão de Projetos e especialização em Transição Energética (FGV)",
+  "minibio": "Servidora da ANM desde 2010; assessora do diretor-geral (2022–2025); superintendente de Política Regulatória desde ago/2025.",
+  "fontes": [
+   "https://www.gov.br/anm/pt-br/composicao/superintendencias/superintendencia-de-politica-regulatoria-spr",
+   "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/superintendencias-de-politica-regulatoria-e-inteligencia-mineral/superintendencia-de-politica-regulatoria/curriculo-marina-dalla.pdf"
+  ],
+  "verificado_em": "2026-11-11",
+  "confianca": "alta",
+  "tipo": "superintendente",
+  "nome_chave": "Marina Marques Dalla Costa",
+  "status": "ativo"
+ },
+ {
+  "nome": "Maryanna Beserra de Almeida",
+  "cargo": "Superintendente de Planejamento e Estratégia (SPE), interina",
+  "unidade": "SPE",
+  "formacao": "Biblioteconomia e mestrado em Ciência da Informação (UFRGS); MBA em Gerenciamento de Projetos (FGV)",
+  "minibio": "No DNPM/ANM desde 2011 (protocolo, atendimento, transformação digital); gerente de Gestão Documental, Governança de Dados e Memória; SPE interina.",
+  "fontes": [
+   "https://www.gov.br/anm/pt-br/composicao/superintendencias/superintendencia-de-planejamento-e-estrategia-spe",
+   "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/superintendencias-de-gestao-institucional/superintendencia-de-planejamento-e-estrategia/curriculo-maryanna.pdf"
+  ],
+  "verificado_em": "2026-11-11",
+  "confianca": "alta",
+  "tipo": "superintendente",
+  "nome_chave": "Maryanna Beserra de Almeida",
+  "status": "ativo"
  }
 ]

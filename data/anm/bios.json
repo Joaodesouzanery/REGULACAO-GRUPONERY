@@ -1,105 +1,5 @@
 [
  {
-  "diretor": "Victor Bicca",
-  "nome_completo": "Victor Hugo Froner Bicca",
-  "cargo": "Diretor-Geral da ANM (aprovado pelo Senado em 31/10/2018)",
-  "formacao": null,
-  "minibio": "Primeiro diretor-geral da ANM, aprovado pelo Senado em 31/10/2018.",
-  "fontes": [
-   "https://www25.senado.leg.br/web/atividade/materias/-/materia/133529"
-  ],
-  "verificado_em": "2026-11-11",
-  "confianca": "baixa"
- },
- {
-  "diretor": "Tasso Mendonça",
-  "nome_completo": "Tasso Mendonça Júnior",
-  "cargo": "Diretor (mandato encerrado dez/2025)",
-  "formacao": null,
-  "minibio": "Diretor da ANM de 2018 a dez/2025; aprovado pelo Senado em 2018 e reconduzido em 2022.",
-  "fontes": [
-   "https://agenciainfra.com/blog/anm-claudio-freire-e-fabio-borges-devem-assumir-como-diretores-substitutos/"
-  ],
-  "verificado_em": "2026-11-11",
-  "confianca": "media"
- },
- {
-  "diretor": "Eduardo Leão",
-  "nome_completo": "Eduardo Araújo de Souza Leão",
-  "cargo": "Diretor",
-  "formacao": null,
-  "minibio": "Diretor da primeira diretoria da ANM, aprovado pelo Senado em 17/10/2018.",
-  "fontes": [
-   "https://www25.senado.leg.br/web/atividade/materias/-/materia/133529"
-  ],
-  "verificado_em": "2026-11-11",
-  "confianca": "baixa"
- },
- {
-  "diretor": "Tomás Filho",
-  "nome_completo": "Tomás Antônio Albuquerque de Paula Pessoa Filho",
-  "cargo": "Diretor",
-  "formacao": null,
-  "minibio": "Diretor da primeira diretoria da ANM, aprovado pelo Senado em 17/10/2018.",
-  "fontes": [
-   "https://www25.senado.leg.br/web/atividade/materias/-/materia/133529"
-  ],
-  "verificado_em": "2026-11-11",
-  "confianca": "baixa"
- },
- {
-  "diretor": "Debora Puccini",
-  "nome_completo": "Debora Toci Puccini",
-  "cargo": "Diretora",
-  "formacao": null,
-  "minibio": "Diretora da ANM, aprovada pelo Senado em 27/11/2018.",
-  "fontes": [
-   "https://www12.senado.leg.br/noticias/materias/2018/11/27/aprovadas-indicacoes-para-duas-agencias-reguladoras"
-  ],
-  "verificado_em": "2026-11-11",
-  "confianca": "baixa"
- },
- {
-  "diretor": "Ronaldo Lima",
-  "nome_completo": "Ronaldo Jorge da Silva Lima",
-  "cargo": "Diretor",
-  "formacao": null,
-  "minibio": "Diretor da ANM; nome aprovado na Comissão de Infraestrutura do Senado em jul/2021 (vaga de renúncia).",
-  "fontes": [
-   "https://www12.senado.leg.br/noticias/senado-agora/2021/07/08/diretor-da-anm-1"
-  ],
-  "verificado_em": "2026-11-11",
-  "confianca": "media"
- },
- {
-  "diretor": "Mauro Sousa",
-  "nome_completo": "Mauro Henrique Moreira Sousa",
-  "cargo": "Diretor-Geral (mandato 05/12/2022–04/12/2026)",
-  "formacao": "Bacharel em Direito (UFRN); especialista em Políticas Públicas e Gestão Governamental nos Setores Energético e Mineral (PUC-Rio) e em Direitos Humanos (Univ. Pablo de Olavide, Sevilha)",
-  "minibio": "Diretor-geral da ANM, aprovado pelo Senado em abr/2022; em 2026 busca recondução.",
-  "fontes": [
-   "https://www25.senado.leg.br/web/atividade/materias/-/materia/152593",
-   "https://agenciainfra.com/blog/?p=48439",
-   "https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/mauro-henrique-moreira-sousa"
-  ],
-  "verificado_em": "2026-11-11",
-  "confianca": "alta",
-  "foto": "docs/marca/diretores/anm/mauro-henrique-moreira-sousa.jpg",
-  "foto_fonte": "https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/imagens/mauro.png"
- },
- {
-  "diretor": "Roger Cabral",
-  "nome_completo": "Roger Romão Cabral",
-  "cargo": "Diretor (mandato encerrado dez/2025)",
-  "formacao": null,
-  "minibio": "Diretor da ANM de 2022 a dez/2025, aprovado pelo Senado em abr/2022.",
-  "fontes": [
-   "https://www25.senado.leg.br/web/atividade/materias/-/materia/152594"
-  ],
-  "verificado_em": "2026-11-11",
-  "confianca": "media"
- },
- {
   "diretor": "Caio Seabra",
   "nome_completo": "Caio Mário Trivellato Seabra Filho",
   "cargo": "Diretor (afastado em 2025)",
@@ -112,24 +12,11 @@
   ],
   "verificado_em": "2026-11-11",
   "confianca": "media",
-  "foto": "docs/marca/diretores/anm/caio-mario-trivellato-seabra-filho.jpg",
-  "foto_fonte": "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/imagens/caiodiretor.jpg"
- },
- {
-  "diretor": "José Fernando Gomes",
-  "nome_completo": "José Fernando de Mendonça Gomes Júnior",
-  "cargo": "Diretor (posse set/2025)",
-  "formacao": "Graduado em Gestão de Negócios; pós-graduado em Gestão de Pessoas (CESUPA)",
-  "minibio": "Ex-presidente da Cosanpa (PA); diretor da ANM desde set/2025, aprovado pelo Senado em ago/2025.",
-  "fontes": [
-   "https://agenciainfra.com/blog/anm-da-posse-a-jose-fernando-gomes-como-novo-diretor-da-agencia/",
-   "https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/jose-fernando-de-mendonca-gomes-junior",
-   "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/diretores/curriculo-jose-fernando.pdf"
-  ],
-  "verificado_em": "2026-11-11",
-  "confianca": "alta",
-  "foto": "docs/marca/diretores/anm/jose-fernando-de-mendonca-gomes-junior.jpg",
-  "foto_fonte": "https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/imagens/josefernando.png"
+  "foto": "data/anm/dirigentes/caio-seabra.jpg",
+  "foto_fonte": "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/imagens/caiodiretor.jpg",
+  "tipo": "diretor",
+  "nome_chave": "Caio Seabra",
+  "status": "ativo"
  },
  {
   "diretor": "Cláudio Freire",
@@ -141,7 +28,38 @@
    "https://agenciainfra.com/blog/claudio-freire-e-convocado-para-cargo-de-diretor-substituto-da-anm/"
   ],
   "verificado_em": "2026-11-11",
-  "confianca": "media"
+  "confianca": "media",
+  "tipo": "diretor",
+  "nome_chave": "Cláudio Freire",
+  "status": "ativo"
+ },
+ {
+  "diretor": "Debora Puccini",
+  "nome_completo": "Debora Toci Puccini",
+  "cargo": "Diretora",
+  "minibio": "Diretora da ANM, aprovada pelo Senado em 27/11/2018.",
+  "fontes": [
+   "https://www12.senado.leg.br/noticias/materias/2018/11/27/aprovadas-indicacoes-para-duas-agencias-reguladoras"
+  ],
+  "verificado_em": "2026-11-11",
+  "confianca": "baixa",
+  "tipo": "diretor",
+  "nome_chave": "Debora Puccini",
+  "status": "ativo"
+ },
+ {
+  "diretor": "Eduardo Leão",
+  "nome_completo": "Eduardo Araújo de Souza Leão",
+  "cargo": "Diretor",
+  "minibio": "Diretor da primeira diretoria da ANM, aprovado pelo Senado em 17/10/2018.",
+  "fontes": [
+   "https://www25.senado.leg.br/web/atividade/materias/-/materia/133529"
+  ],
+  "verificado_em": "2026-11-11",
+  "confianca": "baixa",
+  "tipo": "diretor",
+  "nome_chave": "Eduardo Leão",
+  "status": "ativo"
  },
  {
   "diretor": "Fábio Borges",
@@ -156,8 +74,30 @@
   ],
   "verificado_em": "2026-11-11",
   "confianca": "alta",
-  "foto": "docs/marca/diretores/anm/fabio-fernando-borges.jpg",
-  "foto_fonte": "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/imagens/borgesspe.jpg"
+  "foto": "data/anm/dirigentes/fabio-borges.jpg",
+  "foto_fonte": "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/imagens/borgesspe.jpg",
+  "tipo": "diretor",
+  "nome_chave": "Fábio Borges",
+  "status": "ativo"
+ },
+ {
+  "diretor": "José Fernando Gomes",
+  "nome_completo": "José Fernando de Mendonça Gomes Júnior",
+  "cargo": "Diretor (posse set/2025)",
+  "formacao": "Graduado em Gestão de Negócios; pós-graduado em Gestão de Pessoas (CESUPA)",
+  "minibio": "Ex-presidente da Cosanpa (PA); diretor da ANM desde set/2025, aprovado pelo Senado em ago/2025.",
+  "fontes": [
+   "https://agenciainfra.com/blog/anm-da-posse-a-jose-fernando-gomes-como-novo-diretor-da-agencia/",
+   "https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/jose-fernando-de-mendonca-gomes-junior",
+   "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/diretores/curriculo-jose-fernando.pdf"
+  ],
+  "verificado_em": "2026-11-11",
+  "confianca": "alta",
+  "foto": "data/anm/dirigentes/jose-fernando-gomes.jpg",
+  "foto_fonte": "https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/imagens/josefernando.png",
+  "tipo": "diretor",
+  "nome_chave": "José Fernando Gomes",
+  "status": "ativo"
  },
  {
   "diretor": "Luís Paniago",
@@ -172,7 +112,99 @@
   "verificado_em": "2026-11-11",
   "confianca": "alta",
   "obs": "Grafia oficial gov.br: «Luiz»; a chave «Luís Paniago» segue config_agencia.json.",
-  "foto": "docs/marca/diretores/anm/luiz-paniago-neves.jpg",
-  "foto_fonte": "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/imagens/paniagodiretor-sbp.jpg"
+  "foto": "data/anm/dirigentes/luis-paniago.jpg",
+  "foto_fonte": "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/imagens/paniagodiretor-sbp.jpg",
+  "tipo": "diretor",
+  "nome_chave": "Luís Paniago",
+  "status": "ativo"
+ },
+ {
+  "diretor": "Mauro Sousa",
+  "nome_completo": "Mauro Henrique Moreira Sousa",
+  "cargo": "Diretor-Geral (mandato 05/12/2022–04/12/2026)",
+  "formacao": "Bacharel em Direito (UFRN); especialista em Políticas Públicas e Gestão Governamental nos Setores Energético e Mineral (PUC-Rio) e em Direitos Humanos (Univ. Pablo de Olavide, Sevilha)",
+  "minibio": "Diretor-geral da ANM, aprovado pelo Senado em abr/2022; em 2026 busca recondução.",
+  "fontes": [
+   "https://www25.senado.leg.br/web/atividade/materias/-/materia/152593",
+   "https://agenciainfra.com/blog/?p=48439",
+   "https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/mauro-henrique-moreira-sousa"
+  ],
+  "verificado_em": "2026-11-11",
+  "confianca": "alta",
+  "foto": "data/anm/dirigentes/mauro-sousa.jpg",
+  "foto_fonte": "https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/imagens/mauro.png",
+  "tipo": "diretor",
+  "nome_chave": "Mauro Sousa",
+  "status": "ativo"
+ },
+ {
+  "diretor": "Roger Cabral",
+  "nome_completo": "Roger Romão Cabral",
+  "cargo": "Diretor (mandato encerrado dez/2025)",
+  "minibio": "Diretor da ANM de 2022 a dez/2025, aprovado pelo Senado em abr/2022.",
+  "fontes": [
+   "https://www25.senado.leg.br/web/atividade/materias/-/materia/152594"
+  ],
+  "verificado_em": "2026-11-11",
+  "confianca": "media",
+  "tipo": "diretor",
+  "nome_chave": "Roger Cabral",
+  "status": "ativo"
+ },
+ {
+  "diretor": "Ronaldo Lima",
+  "nome_completo": "Ronaldo Jorge da Silva Lima",
+  "cargo": "Diretor",
+  "minibio": "Diretor da ANM; nome aprovado na Comissão de Infraestrutura do Senado em jul/2021 (vaga de renúncia).",
+  "fontes": [
+   "https://www12.senado.leg.br/noticias/senado-agora/2021/07/08/diretor-da-anm-1"
+  ],
+  "verificado_em": "2026-11-11",
+  "confianca": "media",
+  "tipo": "diretor",
+  "nome_chave": "Ronaldo Lima",
+  "status": "ativo"
+ },
+ {
+  "diretor": "Tasso Mendonça",
+  "nome_completo": "Tasso Mendonça Júnior",
+  "cargo": "Diretor (mandato encerrado dez/2025)",
+  "minibio": "Diretor da ANM de 2018 a dez/2025; aprovado pelo Senado em 2018 e reconduzido em 2022.",
+  "fontes": [
+   "https://agenciainfra.com/blog/anm-claudio-freire-e-fabio-borges-devem-assumir-como-diretores-substitutos/"
+  ],
+  "verificado_em": "2026-11-11",
+  "confianca": "media",
+  "tipo": "diretor",
+  "nome_chave": "Tasso Mendonça",
+  "status": "ativo"
+ },
+ {
+  "diretor": "Tomás Filho",
+  "nome_completo": "Tomás Antônio Albuquerque de Paula Pessoa Filho",
+  "cargo": "Diretor",
+  "minibio": "Diretor da primeira diretoria da ANM, aprovado pelo Senado em 17/10/2018.",
+  "fontes": [
+   "https://www25.senado.leg.br/web/atividade/materias/-/materia/133529"
+  ],
+  "verificado_em": "2026-11-11",
+  "confianca": "baixa",
+  "tipo": "diretor",
+  "nome_chave": "Tomás Filho",
+  "status": "ativo"
+ },
+ {
+  "diretor": "Victor Bicca",
+  "nome_completo": "Victor Hugo Froner Bicca",
+  "cargo": "Diretor-Geral da ANM (aprovado pelo Senado em 31/10/2018)",
+  "minibio": "Primeiro diretor-geral da ANM, aprovado pelo Senado em 31/10/2018.",
+  "fontes": [
+   "https://www25.senado.leg.br/web/atividade/materias/-/materia/133529"
+  ],
+  "verificado_em": "2026-11-11",
+  "confianca": "baixa",
+  "tipo": "diretor",
+  "nome_chave": "Victor Bicca",
+  "status": "ativo"
  }
 ]

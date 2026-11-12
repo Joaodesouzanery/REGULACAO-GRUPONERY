@@ -4,6 +4,8 @@ empresa.json: {"nome": "...", "cnpj": "...", "aliases": ["...", "..."], "agencia
 Páginas: capa (empresa) · processos + calendário · por agência: diretoria (minibio, mandato) e decisões setoriais · previsão · como ler/cobertura.
 Nada é inventado: campo sem fonte aparece como «não disponível»."""
 import sys, os, re, json, html, base64, sqlite3, datetime, subprocess, collections
+sys.path.insert(0, __import__('os').path.dirname(__import__('os').path.abspath(__file__)))
+from pdf_leve import leve_html, leve_pdf
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import previsao
 from desfecho import desfecho_item
@@ -196,7 +198,8 @@ CSS = """@page{size:13.333in 7.5in;margin:0}:root{--ink:#0B0B0B;--gold:#C99A06;-
 .pag{position:absolute;right:.5in;bottom:.16in;font-size:8pt;font-weight:700;color:var(--ac)}"""
 S = [s.replace("</section>", f'<div class="pag">{k+1:02d} / {TOT:02d}</div></section>', 1) if k else s for k, s in enumerate(S)]
 H = f'<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><title>{E(EMP["nome"])}</title><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Rubik:wght@500;600&display=swap" rel="stylesheet"><style>{CSS}{COR}{IMG}</style></head><body>{"".join(S)}</body></html>'
-open(f"{P}/relatorio_empresa.html", "w").write(H)
+open(f"{P}/relatorio_empresa.html", "w").write(leve_html(H))
 js = f"""const {{chromium}}=require('playwright');(async()=>{{const b=await chromium.launch();const p=await b.newPage();await p.goto('file://{os.path.abspath(P)}/relatorio_empresa.html',{{waitUntil:'networkidle'}});await p.pdf({{path:'{os.path.abspath(P)}/relatorio_empresa.pdf',width:'13.333in',height:'7.5in',printBackground:true}});await b.close();}})();"""
 r = subprocess.run(["node", "-e", js], capture_output=True, text=True, cwd="/tmp")
+if r.returncode == 0: leve_pdf(f"{P}/relatorio_empresa.pdf")
 print(f"{P}/relatorio_empresa.pdf" if r.returncode == 0 else r.stderr[-300:], TOT, "páginas,", os.path.getsize(f"{P}/relatorio_empresa.pdf") // 1024 if r.returncode == 0 else 0, "KB")
