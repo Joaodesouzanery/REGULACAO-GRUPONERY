@@ -35,5 +35,5 @@ for s, f in FOCO.items():
     im = Image.open(src).convert("RGB")
     for nome, prop, tam in (("capa", 16 / 9, (1600, 900)), ("painel", 2 / 5, (600, 1500)), ("cartao", 4 / 5, (480, 600))):
         r = natural(recorte(im, prop, *f.get(nome, f["capa"]), lim=f.get("evitar")).resize(tam, Image.LANCZOS), nome)
-        r.save(f"{OUT}/{s}_{nome}.jpg", quality=70, optimize=True, progressive=True)
+        r.save(f"{OUT}/{s}_{nome}.jpg", quality=60, optimize=True, progressive=True)
     print(s, "ok", [os.path.getsize(f"{OUT}/{s}_{n}.jpg") // 1024 for n in ("capa", "painel", "cartao")], "KB")
