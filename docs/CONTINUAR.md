@@ -71,3 +71,8 @@ Legenda automática (erros de nomes/números), falantes inferidos, minuto aproxi
 - **Pendências ANTAQ:** 2016–2018 (55 reuniões com legenda) e eventos (120 audiências, 7 participativas, 10 workshops) — subagente `analista-evento`; datas de várias sessões vêm do upload (conferir nas atas do gov.br); Parte 1 da 465ª e 466ª voltou à fila da coleta no Mac; entidades/microtemas da ANTAQ.
 - **Whisper:** nenhuma transcrição Whisper chegou ao GitHub até 10/11 (ANTT 4 reuniões; ANM sem legenda). Ver `docs/MAC_COMANDOS.md`.
 - **Relatório:** `pipeline/relatorio_v2.py` (v4): capa, sumário em cartões de foto, 1 página por pergunta, «como ler»; ~13 páginas, < 1 MB. Fotos por setor em `docs/marca/setores/` (Openverse/Wikimedia, créditos) → `preparar_fotos.py`.
+
+## Lembretes (11/2026)
+- Segunda 15h07 (tarefa semanal): roda `pendencias.py` e lembra a coleta do Mac.
+- Dia 1, 08h41: checagem mensal (skill `checagem-mensal`).
+- `proposta2/`: segundo produto (avaliação).
