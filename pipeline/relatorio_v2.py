@@ -220,13 +220,25 @@ h1,h2,h3,h4{font-family:'Rubik','Inter',sans-serif;margin:0;letter-spacing:-.01e
 .fim{background:var(--ink);color:#fff;padding:.7in .8in}.fim .logo{height:.36in}.fim h2{font-size:28pt;font-weight:500;margin:.45in 0 .45in}.fim-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:.4in}
 .fim-grid b{display:block;color:var(--gold-2);font-family:Rubik;font-size:14pt;margin-bottom:.1in;font-weight:500}.fim-grid p{margin:0;font-size:11pt;line-height:1.55;color:#CFCAC0}.cred2{position:absolute;left:.8in;right:.8in;bottom:.3in;font-size:7pt;color:#8E8A82}"""
 TOT = len(S)
-S = [sec.replace("{PAGN}", f"{k+1:02d} / {TOT:02d}") for k, sec in enumerate(S)]
+DIRET = "--sem-diretoria" not in sys.argv  # produto A: a diretoria vai DENTRO do relatório de 10 perguntas
+S = [sec.replace("{PAGN}", "" if DIRET else f"{k+1:02d} / {TOT:02d}") for k, sec in enumerate(S)]
 H = f'''<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><title>{E(TIT)}</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Rubik:wght@500;600&display=swap" rel="stylesheet">
 <style>{CSS}{COR_CSS}{IMG_CSS}</style></head><body>{"".join(S)}</body></html>'''
 open(f"{P}/relatorio_v2.html", "w").write(leve_html(H))
 js = f"""const {{chromium}}=require('playwright');(async()=>{{const b=await chromium.launch();const p=await b.newPage();await p.goto('file://{os.path.abspath(P)}/relatorio_v2.html',{{waitUntil:'networkidle'}});await p.pdf({{path:'{os.path.abspath(P)}/relatorio_v2.pdf',width:'13.333in',height:'7.5in',printBackground:true,margin:{{top:'0',bottom:'0',left:'0',right:'0'}}}});await b.close();}})();"""
 r = subprocess.run(["node", "-e", js], capture_output=True, text=True, cwd="/tmp")
+if r.returncode == 0 and DIRET:
+    import pikepdf
+    tmp = f"{P}/.diretoria_tmp"
+    rd = subprocess.run(["python3", "pipeline/relatorio_diretoria.py", AG, tmp, "--miolo"], capture_output=True, text=True)
+    if rd.returncode == 0 and os.path.exists(f"{tmp}/diretoria_{AG}.pdf"):
+        pr, pd = pikepdf.open(f"{P}/relatorio_v2.pdf", allow_overwriting_input=True), pikepdf.open(f"{tmp}/diretoria_{AG}.pdf")
+        n = len(pr.pages)
+        pr.pages.insert(2, pd.pages[0])  # quadro da diretoria logo após capa + sumário
+        for k, pg in enumerate(list(pd.pages)[1:]): pr.pages.insert(n + k, pg)  # comparador + superintendentes antes da última página
+        pr.save(f"{P}/relatorio_v2.pdf"); S += [""] * len(pd.pages)
+    else: print("aviso: diretoria não incluída:", rd.stderr[-200:])
 if r.returncode == 0: leve_pdf(f"{P}/relatorio_v2.pdf")
 tam = os.path.getsize(f"{P}/relatorio_v2.pdf") // 1024 if r.returncode == 0 else 0
 print(f"{P}/relatorio_v2.pdf" if r.returncode == 0 else "PDF não gerado: " + r.stderr[-300:], len(Q), "perguntas,", len(S), "páginas,", tam, "KB")

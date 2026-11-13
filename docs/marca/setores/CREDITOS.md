@@ -30,3 +30,19 @@ Opções alternativas (2026-11-11) em `opcoes/<setor>_<n>.jpg` (n=1 é a aplicad
 | energia_2.jpg (= opcoes/energia_2.jpg) | Bạc Liêu windpower farm.jpg | [Tycho]  talk , http://shansov.net | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:B%E1%BA%A1c_Li%C3%AAu_windpower_farm.jpg |
 
 rodovias e onibus: mantidas as fotos anteriores (não se achou candidata no novo padrão).
+
+## Rodada 2 (2026-11-13), opções apenas (fotos oficiais não trocadas), Wikimedia Commons
+
+| Arquivo | Foto | Autor | Licença | Fonte |
+|---|---|---|---|---|
+| opcoes/mineracao_r2_1.jpg (1920 px) | Truck hauling ore from Karta Pit, SMD Crew Gold - panoramio.jpg | darrylkeith | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Truck_hauling_ore_from_Karta_Pit,_SMD_Crew_Gold_-_panoramio.jpg |
+| opcoes/mineracao_r2_2.jpg (1920 px) | Isa Carajas.jpg | IsabeleC | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Isa_Carajas.jpg |
+| opcoes/mineracao_r2_3.jpg (1920 px) | Sunrise Dam Gold Mine open pit 08.jpg | Calistemon | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Sunrise_Dam_Gold_Mine_open_pit_08.jpg |
+| opcoes/barragens_r2_1.jpg (1600 px) | Vertedouro - Itaipu - Foz do Iguacu - Brasil (23650938123).jpg | Cesar I. Martins from Jundiai, Brazil | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Vertedouro_-_Itaipu_-_Foz_do_Iguacu_-_Brasil_(23650938123).jpg |
+| opcoes/barragens_r2_2.jpg (1920 px) | Itaipu Überlauf1.JPG | Adrian Michael | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Itaipu_%C3%9Cberlauf1.JPG |
+| opcoes/barragens_r2_3.jpg (1920 px) | Itaipu spillway 4134 filtered.jpg | Cmasi | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Itaipu_spillway_4134_filtered.jpg |
+| opcoes/rodovias_r2_1.jpg (1920 px) | A70 Memmelsdorf Luftbild-20221113-RM-154858.jpg | Ermell | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:A70_Memmelsdorf_Luftbild-20221113-RM-154858.jpg |
+| opcoes/rodovias_r2_2.jpg (1920 px) | Elsendorf (Schlüsselfeld) A 3 Luftbild-20220815-RM-153551.jpg | Ermell | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Elsendorf_(Schl%C3%BCsselfeld)_A_3_Luftbild-20220815-RM-153551.jpg |
+| opcoes/rodovias_r2_3.jpg (1920 px) | A70 Memmelsdorf Luftbild-20221113-RM-154506.jpg | Ermell | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:A70_Memmelsdorf_Luftbild-20221113-RM-154506.jpg |
+| opcoes/onibus_r2_1.jpg (1920 px) | Atlantic Charter & Tours Marcopolo Paradiso 1200 (16503704823).jpg | Bob Adams from Amanzimtoti, South Africa | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Atlantic_Charter_%26_Tours_Marcopolo_Paradiso_1200_(16503704823).jpg |
+| opcoes/onibus_r2_2.jpg (1920 px) | Setra S416GT-HD bus from Slovakia.JPG | High Contrast | CC BY 3.0 de | https://commons.wikimedia.org/wiki/File:Setra_S416GT-HD_bus_from_Slovakia.JPG |

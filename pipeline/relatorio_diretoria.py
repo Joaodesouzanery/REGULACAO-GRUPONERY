@@ -11,6 +11,7 @@ from desfecho import desfecho_item
 
 AG = sys.argv[1].lower()
 OUT = sys.argv[2] if len(sys.argv) > 2 and not sys.argv[2].startswith("--") else f"agencias/{AG}/diretoria"
+MIOLO = "--miolo" in sys.argv  # só quadro + comparador + superintendentes, sem capa/fim/paginação (para encaixar no relatório de 10 perguntas)
 os.makedirs(OUT, exist_ok=True)
 D = "data" if AG == "antt" else f"data/{AG}"
 NOME = {"antt": "ANTT", "anm": "ANM", "antaq": "ANTAQ"}[AG]
@@ -78,6 +79,7 @@ PERG = PERG or [
     {"titulo": "Quem mais diverge do relator ou pede vista?", "metrica": "diverge"},
     {"titulo": "Quando relata, qual costuma ser o desfecho para a empresa?", "metrica": "desfecho"},
 ] + [{"titulo": f"Em «{t.replace('_', ' ')}», como cada diretor vota?", "tema": t, "metrica": "tema"} for t in temas_top]
+if MIOLO and "--perguntas" not in sys.argv: PERG = PERG[:2]  # no relatório de 10 perguntas: quem relata + quem diverge
 ST = {d: stats(d) for d in board}
 LOGO = b64("docs/marca/circle/logo_circle_branco.png").replace("jpeg", "png"); LOGO_P = b64("docs/marca/circle/logo_circle_preto.png").replace("jpeg", "png")
 REC = "docs/marca/setores/recortes"
@@ -125,8 +127,9 @@ S.append(f'''<section class="pg quad"><header class="top"><span class="num">{len
 <h2>Superintendentes</h2><div class="sgrid">{sc}</div><div class="rod">Fonte: páginas oficiais de composição (gov.br) e DOU; superintendentes não votam na diretoria — aparecem em eventos e na instrução dos processos.</div></section>''')
 cob = E(subprocess.run(["python3", "pipeline/cobertura_resposta.py", AG], capture_output=True, text=True).stdout.strip()).replace("\n", "<br>")
 S.append(f'''<section class="pg fim">{f'<img class="logo" src="{LOGO}">' if LOGO else ''}<h2>Como ler e cobertura</h2><div class="fimc">{cob}</div></section>''')
+if MIOLO: S = S[1:-1]
 TOT = len(S)
-S = [s.replace("</section>", f'<div class="pag">{i+1:02d} / {TOT:02d}</div></section>', 1) if i else s for i, s in enumerate(S)]
+S = [s if MIOLO else s.replace("</section>", f'<div class="pag">{i+1:02d} / {TOT:02d}</div></section>', 1) if i else s for i, s in enumerate(S)]
 CSS = """@page{size:13.333in 7.5in;margin:0}*{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,sans-serif;color:#0B0B0B;-webkit-print-color-adjust:exact;print-color-adjust:exact}
 .pg{width:13.333in;height:7.5in;position:relative;overflow:hidden;page-break-after:always;padding:.38in .5in}h1,h2{font-family:Rubik,Inter,sans-serif;margin:0}
 .capa{padding:0;background-size:cover;background-position:center;background-color:#151412}.veu{position:absolute;inset:0;background:linear-gradient(90deg,rgba(11,11,11,.65),rgba(11,11,11,.05) 75%)}
