@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "video_id": "daeEgqzymE8",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "audiencia",
+  "numero": "05/2023",
+  "titulo": "Audiência Pública nº 05/2023 – revisão da RN 31/2019 (módulo APP – acompanhamento de preços portuários)",
+  "data": "2023-09-22",
+  "local": "virtual",
+  "objeto": "Revisão da Resolução Normativa ANTAQ nº 31/2019 (obrigatoriedade de informações para o Sistema de Acompanhamento de Preços Portuários – módulo APP)",
+  "processo": null,
+  "tema": [
+   "tarifas e preços portuários",
+   "regulação normativa",
+   "proteção de dados",
+   "participação social",
+   "agenda regulatória"
+  ],
+  "presidiu": "Lima Filho (diretor relator)",
+  "diretores_presentes": [
+   "Lima Filho",
+   "Alber Vasconcelos",
+   "Caio Farias"
+  ],
+  "participantes_externos": [
+   "Fenop",
+   "ABTP",
+   "ATP",
+   "Abratec",
+   "Angelino Caputo (advogado)"
+  ],
+  "resumo": "Audiência sobre a revisão da RN 31 (módulo APP), tema da agenda regulatória, presidida pelo diretor relator Lima Filho, com Alber Vasconcelos e Caio Farias na mesa. O gerente Sandro Monteiro apresentou a proposta (preço médio por cesta de serviço, dados anonimizados, prioridade a contêineres). Entidades de terminais criticaram riscos de exposição de dados sensíveis, uso para controle de preços e periodicidade mensal. Lima Filho garantiu confidencialidade e disse achar um ano de periodicidade exagerado.",
+  "posicoes": [
+   {
+    "quem": "terminais de contêineres (fala às 0:35:26)",
+    "posicao": "Mercado altamente competitivo; confidencialidade e política de não divulgação são essenciais",
+    "ts": "0:35:26"
+   },
+   {
+    "quem": "Fenop (Sérgio Aquino)",
+    "posicao": "Pede que a política de sigilo da ANTAQ conste expressamente da resolução",
+    "ts": "1:11:20"
+   },
+   {
+    "quem": "ATP (Bruna Vasconcelos)",
+    "posicao": "Receio de uso dos dados para controle de preços ou intervenção na liberdade comercial dos TUPs",
+    "ts": "1:20:47"
+   },
+   {
+    "quem": "Abratec (Guilherme Monteiro)",
+    "posicao": "Dados só para planejamento, não para controle de preços ou comparação entre terminais",
+    "ts": "1:24:45"
+   }
+  ],
+  "encaminhamentos": [
+   "Contribuições formais pelo sítio da ANTAQ até 27/09/2023",
+   "Manual de proteção de dados a ser elaborado antes da vigência (segundo o diretor relator)"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Lima Filho",
+   "ts": "0:01:42",
+   "tema": [
+    "tarifas e preços portuários",
+    "proteção de dados",
+    "participação social"
+   ],
+   "tipo": "abertura",
+   "resumo": "Abre a audiência, diz que os contratos privados terão sigilo e que o módulo APP não gera ônus adicional; afirma que a melhor forma de regular é ouvindo o regulado.",
+   "trecho": "eu sublinho os contratos serão respeitados em seu sigilo importante que todos os senhores tenham essa esse entendimento",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Lima Filho",
+   "ts": "1:00:24",
+   "tema": [
+    "proteção de dados"
+   ],
+   "tipo": "resposta",
+   "resumo": "Responde à ABTP que o manual de proteção de dados deve ser feito antes da vigência e que os dados terão máxima confidencialidade.",
+   "trecho": "com relação ao manual de proteção de dados a intenção né é que eles sejam é plantificados antes da entrada em vigor dessa resolução",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Lima Filho",
+   "ts": "1:27:39",
+   "tema": [
+    "tarifas e preços portuários",
+    "proteção de dados"
+   ],
+   "tipo": "resposta",
+   "resumo": "Diz que usar os dados para afetar a competição entre TUPs não está na agenda e que considera exagerado um ano de periodicidade.",
+   "trecho": "eu acho Na minha opinião acho um ano exagerado né",
+   "confianca": "media"
+  },
+  {
+   "diretor": "Lima Filho",
+   "ts": "1:30:43",
+   "tema": [
+    "participação social"
+   ],
+   "tipo": "encerramento",
+   "resumo": "Encerra citando a orientação do diretor-geral Eduardo Nery de ouvir para melhor regular.",
+   "trecho": "o nosso objetivo é ouvir para melhor regular",
+   "confianca": "alta"
+  }
+ ],
+ "limites_da_analise": [
+  "Alber Vasconcelos e Caio Farias foram citados como presentes, mas não há fala deles nas janelas (Alber teria saído, segundo participante às 0:52:44).",
+  "A frase da periodicidade de um ano é ambígua: pode ser sobre a proposta do setor.",
+  "Minutos são o início do bloco da legenda; análise cobre janelas do resumo, não a sessão inteira."
+ ]
+}

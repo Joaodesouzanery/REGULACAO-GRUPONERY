@@ -1,5 +1,25 @@
 # Itens do tema «mediacao» (todos os diretores)
 
+- **RD 388 (2015-08-12)**, 12 · relator **Mário Povia** · Análise do termo de compromisso arbitral entre SEP e Libra (controvérsias do contrato PRES 32/1998), decisão interlocutória antes do EVTEA de prorroga → aprovado por unanimidade (texto aprovado com ajustes)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=6572s)
+- **RD 436 (2018-01-25)**, 4 · relator **Adalberto Tokarski** · Arbitragem administrativa sobre encargos moratórios em valores de MMC (2012–2014) do terminal de fertilizantes de Imbituba → pedido de vista
+  - votos: Adalberto: relator; Francisval: vista; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=3523s)
+- **RD 437 (2018-02-15)**, 7 · relator **Adalberto Tokarski** · Embargos de declaração contra a Resolução 2502-ANTAQ/2012 (shiploader no porto de Paranaguá, contrato de arrendamento 39/97) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0zgpRZrJ6hw&t=2675s)
+- **RD 25 (extraordinária) (2018-05-11)**, 3 · relator **Mário Povia** · Cobrança de sítio-padrão do antigo terminal 33 após unificação contratual → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PmJmgy9Diw8&t=2147s)
+- **RD 447 (2018-08-09)**, 2 · relator **Adalberto Tokarski** · Arbitragem administrativa de conflito: encargos moratórios sobre a movimentação mínima contratual (MMC) 2012/13 e 2013/14 do contrato de arrendamento  → prevaleceu o voto-vista de Francisval Mendes: responsabilidade da Fertisanta e pagamento d
+  - votos: Adalberto: relator; Francisval: revisor_acompanha; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=1007s)
+- **RD 447 (2018-08-09)**, 35 · relator **Francisval Mendes** · Participação da ANTAQ em procedimento conciliatório na CCAF → aprovado, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=11665s)
+- **RD 448 (2018-08-31)**, 12 · relator **Francisval Mendes** · Processo sancionador: descumprimento da Resolução 3744 (substituição de tanques 32104 e 32112), oriunda de arbitragem regulatória → aprovado (unânime), com prazo ampliado para 180 dias
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=3128s)
+- **RD 449 (2018-09-25)**, 26 · relator **Mário Povia** · Arbitragem regulatória e cautelar: isenção tarifária em baldeação/transbordo (47 descargas, ~R$ 17,4 mil) → aprovado por unanimidade (arquivamento)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=4277s)
+- **RD 449 (2018-09-25)**, 27 · relator **Mário Povia** · Arbitragem sobre o arrendamento não operacional (complexo comercial e hoteleiro); transação extrajudicial de 17/01/2018 → aprovado por unanimidade (perda de objeto)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=4942s)
+- **RD 449 (2018-09-25)**, 52 · relator **Francisval Mendes** · Arbitragem sobre tarifas (tabelas 1 e 3) em operações offshore no porto de Angra dos Reis → aprovado por unanimidade (perda de objeto)
+  - votos: Mário: acompanha; Adalberto: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=11196s)
 - **RD 458 (2019-04-04)**, 16 · relator **Francisval Mendes** · Pedido de reconsideração da CDRJ em conflito tarifário: desconto de 50% para cabotagem em operações offshore no porto de Angra dos Reis → aprovado por unanimidade
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=MSvf2IwhzBk&t=3857s)
 - **RD 459 (2019-04-15)**, 12 · relator **Mário Povia** · Regulamentação do procedimento de harmonização/arbitragem de conflitos (agenda regulatória 2016-2017, tema 4.1) → aprovado por unanimidade nos termos do voto do relator

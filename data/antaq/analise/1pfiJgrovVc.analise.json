@@ -1,0 +1,570 @@
+{
+ "meta": {
+  "video_id": "1pfiJgrovVc",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts do .json de transcrição; ts de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "444",
+  "data": "2018-06-07",
+  "formato": "presencial",
+  "presidente_da_sessao": "Mário Povia (Diretor-Geral)",
+  "diretores_presentes": [
+   "Mário Povia",
+   "Francisval Mendes",
+   "Adalberto Tokarski"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "444ª Reunião Ordinária, à tarde; data do cabeçalho não confirmada na fala (o item 12 cita audiência pública marcada para 12 de junho de 2018).",
+   "Fernando Fonseca não participa (mandato encerrado).",
+   "Item 5 (Superterminais) não apreciado por decisão do TRF1.",
+   "Tokarski pediu vista dos itens 4 e 9 e foi vencido no item 10 (CBL/REIDI).",
+   "Itens 13 a 15 (referendos de prorrogação de audiências públicas) julgados em bloco."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:29",
+   "processo": "50300.000071/2017-61 (número incerto)",
+   "interessado": "Matapi Transporte Multimodal Ltda",
+   "assunto": "Autorização como EBN na navegação interior de percurso longitudinal interestadual (carga geral, granéis sólidos, contêineres) na região hidrográfica amazônica",
+   "tema": [
+    "navegação e afretamento",
+    "navegação interior",
+    "autorização de EBN"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Expedir termo de autorização.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:00:29",
+     "justificativa": "Pareceres técnico e jurídico favoráveis.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "0:01:40",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:01:40",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:01:46",
+   "processo": "50300.003934/2018-25 (número incerto)",
+   "interessado": "JC Transporte Marítimo Ltda",
+   "assunto": "Autorização como EBN na navegação interior de percurso longitudinal na região hidrográfica amazônica",
+   "tema": [
+    "navegação e afretamento",
+    "navegação interior",
+    "autorização de EBN"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Expedir termo de autorização.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:01:46",
+     "justificativa": "Pareceres favoráveis.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "0:02:38",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:02:38",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:02:44",
+   "processo": "50300.008882/2018-10 (número incerto)",
+   "interessado": "Turismo Transporte Marítimo Ltda (nome incerto); Agepar",
+   "assunto": "Anulação de outorga de travessias nas baías do litoral norte do Paraná (portaria de 1999)",
+   "tema": [
+    "navegação e afretamento",
+    "travessias",
+    "navegação interior"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Propor ao Ministério dos Transportes a declaração de nulidade da outorga (vício de competência; travessias intraestaduais) e remeter os autos.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:02:44",
+     "justificativa": "Travessia dentro do Paraná não é competência da ANTAQ (Súmula 001/2004); empresa silente; nulidade cabe ao Ministério (art. 53 da Lei 9.784).",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "0:06:52",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:06:52",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:06:58",
+   "processo": "50300.009099/2016-09 (número incerto)",
+   "interessado": "Ferrovia Transnordestina Logística S/A (FTL); Docas do Ceará; Porto do Mucuripe",
+   "assunto": "Pedido de reconsideração de multa de R$ 140 mil por não desocupar área pública no prazo",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "ocupação de área"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "pedido de vista de Adalberto Tokarski (voto do relator lido)",
+   "resumo_voto": "Relator: conhece e nega provimento, mantém a Resolução 5.754; SFC deve certificar a desocupação.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, nega provimento",
+     "ts": "0:06:58",
+     "justificativa": "Prazo de janeiro/2017 estava vinculado a um TAC não celebrado; empresa levou um ano e meio para desocupar; diverge da PF, que propunha a teoria da aparência.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "pede vista",
+     "ts": "0:06:58",
+     "justificativa": "Quer verificar se cabe atenuante.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "não votou (processo em vista)",
+     "ts": "0:12:24",
+     "justificativa": "",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:12:37",
+   "processo": "50000.007500/1993 (número incerto)",
+   "interessado": "Superterminais Comércio e Indústria Ltda; Chibatão (interessada)",
+   "assunto": "Ampliação de terminal de uso privado",
+   "tema": [
+    "autorização de TUP / terminal de uso privado / ETC / IP4",
+    "judicialização"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "não apreciado: decisão do TRF1 (desembargador Jirair Aram Meguerian) suspendeu a inclusão em pauta e mandou abrir prazo para alegações finais",
+   "resumo_voto": "Não deliberado.",
+   "votos": []
+  },
+  {
+   "id": "6",
+   "ts": "0:14:09",
+   "processo": "50300.002036/2017-78 (número incerto)",
+   "interessado": "Terminal Químico de Aratu S/A (Tequimar); Codeba; Porto de Aratu",
+   "assunto": "EVTEA e reequilíbrio na prorrogação ordinária do contrato de arrendamento 44/2001",
+   "tema": [
+    "arrendamento em porto organizado",
+    "prorrogação contratual",
+    "equilíbrio econômico-financeiro"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova o EVTEA e a nova equação econômico-financeira: VPL positivo de R$ 19.564.908,60; MMC de 465.403 t/ano; ratifica níveis de serviço; recomenda avaliar a unificação com o contrato 24/2002; remete à SNP.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:14:09",
+     "justificativa": "Acompanha a análise da GPO; só investimentos de manutenção foram aceitos por falta de portaria do poder concedente aprovando o plano maior.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "acompanha o relator",
+     "ts": "0:28:29",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:28:29",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "0:28:43",
+   "processo": "50300.004620/2018-49 (número incerto)",
+   "interessado": "Navegação de Apoio Portuário Ltda (nome incerto)",
+   "assunto": "Autorização como EBN no apoio portuário",
+   "tema": [
+    "navegação e afretamento",
+    "apoio portuário",
+    "autorização de EBN"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Expedir termo de autorização.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "0:28:43",
+     "justificativa": "Pareceres favoráveis.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:30:21",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:30:21",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "0:30:29",
+   "processo": "50300.006319/2018-70 (número incerto)",
+   "interessado": "Edemir Ferreira da Silva ME (grafia incerta)",
+   "assunto": "Renúncia de autorização de passageiros e misto na navegação interior (Macapá - Pará)",
+   "tema": [
+    "navegação e afretamento",
+    "navegação interior",
+    "renúncia de outorga"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Declara extinta a autorização por renúncia, sem prejuízo de sanções.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "0:30:29",
+     "justificativa": "Renúncia é ato unilateral; cita GT criado em 17/05/2018 sobre novo rito de renúncias.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:33:39",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:33:39",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "0:33:47",
+   "processo": "50300.002614/2017-76 (número incerto)",
+   "interessado": "Rebelo Indústria, Comércio e Navegação Ltda",
+   "assunto": "Registro de instalação de apoio (retroárea; grafia incerta)",
+   "tema": [
+    "autorização de TUP / terminal de uso privado / ETC / IP4"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "pedido de vista de Adalberto Tokarski antes da leitura do voto",
+   "resumo_voto": "Não deliberado.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "pede vista",
+     "ts": "0:33:47",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "0:34:06",
+   "processo": "50300.000608/2015-12 (número incerto)",
+   "interessado": "Companhia Brasileira de Logística (CBL); Porto de Paranaguá",
+   "assunto": "Pedido de reconsideração contra rejeição de projeto no REIDI (contrato de passagem)",
+   "tema": [
+    "recursos administrativos",
+    "incentivos fiscais (REIDI)",
+    "institucional"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por maioria; Adalberto Tokarski vencido (falantes inferidos)",
+   "resumo_voto": "Recebe como direito de petição e mantém a Resolução 5.953/2018: contrato de passagem não se enquadra na Portaria SEP 124/2013; encaminha ao Ministério.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, não conhece como recurso e mantém a decisão",
+     "ts": "0:34:06",
+     "justificativa": "A lei do REIDI não veda instalação privada, mas a portaria só abrange arrendamento e adesão.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "diverge (vencido)",
+     "ts": "0:37:48",
+     "justificativa": "Terminal tem ligação direta com o porto organizado; ANTAQ deveria indicar positivamente ao Ministério.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:38:36",
+     "justificativa": "Restrição formal da portaria; já há pleito para ajustá-la à política pública.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "0:39:12",
+   "processo": "50301.008363/2017-33 (número incerto)",
+   "interessado": "Imetame Logística Ltda (grafia incerta); TUP em Aracruz-ES",
+   "assunto": "Retificação de erro material no contrato de adesão 09/2015 (carga geral em vez de granel líquido)",
+   "tema": [
+    "autorização de TUP / terminal de uso privado / ETC / IP4",
+    "contrato de adesão"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Reconhece a retificação e remete ao Ministério (poder concedente).",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "0:39:12",
+     "justificativa": "Processo de origem instruído para carga geral; o contrato saiu com granel líquido por erro.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:42:12",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:42:12",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "0:42:19",
+   "processo": "50300.000324/2017-52 (número incerto)",
+   "interessado": "Brasil Terminal Portuário (BTP); Codesp; Porto de Santos",
+   "assunto": "Medida cautelar para reajustar preço do serviço de entrega imediata de contêineres (sem reajuste desde 2006)",
+   "tema": [
+    "serviços nos terminais",
+    "tarifas portuárias (THC, SSE, cesta de serviços)",
+    "medida cautelar"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Indefere a cautelar (falta periculum in mora) e sobresta até a revisão da Resolução 2.389 (audiência pública em junho/2018).",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "0:42:19",
+     "justificativa": "Inércia por mais de dez anos afasta a urgência; pedido é satisfativo; interesse predominantemente particular.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:49:04",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:49:04",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "0:49:10",
+   "processo": "(número não lido)",
+   "interessado": "ANTAQ; Transpetro (requerente)",
+   "assunto": "Referendo da Resolução 6.146: prorrogação até 04/06/2018 das audiências públicas 1, 2 e 3/2018 (arrendamentos de granéis líquidos em Belém, Vila do Conde, Vitória e Cabedelo) - julgado em bloco com 13 a 15",
+   "tema": [
+    "regulação normativa",
+    "arrendamento em porto organizado",
+    "audiência pública",
+    "referendo"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Referenda a prorrogação do prazo de contribuições a pedido da Transpetro.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "0:49:10",
+     "justificativa": "Transpetro é player importante do abastecimento; prorrogação não prejudica os compromissos com o PPI.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:55:01",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:55:01",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "0:49:10",
+   "processo": "(número não lido)",
+   "interessado": "ANTAQ; Transpetro (requerente)",
+   "assunto": "Referendo da Resolução 6.153: prorrogação até 04/06/2018 das audiências públicas 1, 2 e 3/2018 (arrendamentos de granéis líquidos em Belém, Vila do Conde, Vitória e Cabedelo) - julgado em bloco com 13 a 15",
+   "tema": [
+    "regulação normativa",
+    "arrendamento em porto organizado",
+    "audiência pública",
+    "referendo"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Referenda a prorrogação do prazo de contribuições a pedido da Transpetro.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "0:49:10",
+     "justificativa": "Transpetro é player importante do abastecimento; prorrogação não prejudica os compromissos com o PPI.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:55:01",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:55:01",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "0:49:10",
+   "processo": "(número não lido)",
+   "interessado": "ANTAQ; Transpetro (requerente)",
+   "assunto": "Referendo da Resolução 6.154: prorrogação até 04/06/2018 das audiências públicas 1, 2 e 3/2018 (arrendamentos de granéis líquidos em Belém, Vila do Conde, Vitória e Cabedelo) - julgado em bloco com 13 a 15",
+   "tema": [
+    "regulação normativa",
+    "arrendamento em porto organizado",
+    "audiência pública",
+    "referendo"
+   ],
+   "relator": "Francisval Mendes",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Referenda a prorrogação do prazo de contribuições a pedido da Transpetro.",
+   "votos": [
+    {
+     "diretor": "Francisval Mendes",
+     "voto": "relator, aprova",
+     "ts": "0:49:10",
+     "justificativa": "Transpetro é player importante do abastecimento; prorrogação não prejudica os compromissos com o PPI.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:55:01",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:55:01",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "5 - Superterminais (decisão judicial)"
+ ],
+ "limites_da_analise": [
+  "Transcrição sem marcadores internos; ts tirados do .json.",
+  "Números de processo e nomes de empresas da legenda são incertos.",
+  "Item 10: falantes inferidos; o voto divergente é atribuído a Tokarski porque Povia, ao acompanhar o relator, cita a ressalva do «diretor Tokarski» (confiança baixa).",
+  "Item 9: o voto do relator não foi lido."
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "meta": {
+  "video_id": "0PLbWZBY4gQ",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "audiencia",
+  "numero": "04/2025",
+  "titulo": "Audiência Pública nº 04/2025 – Concessão parcial dos portos de Salvador, Aratu-Candeias e Ilhéus",
+  "data": "2025-08-28",
+  "local": "Brasília/DF (híbrido)",
+  "objeto": "Modelagem da concessão parcial dos portos organizados de Salvador, Aratu-Candeias e Ilhéus (CODEBA)",
+  "processo": null,
+  "tema": [
+   "concessão portuária",
+   "autoridade portuária",
+   "dragagem",
+   "arrendamentos e leilões portuários"
+  ],
+  "presidiu": "Igor Costa (presidente da Comissão Permanente de Licitação)",
+  "diretores_presentes": [
+   "Caio Farias"
+  ],
+  "participantes_externos": [
+   "Ministério de Portos e Aeroportos (Alex Ávila, Bruno Neri)",
+   "CODEBA (Antônio Gobbo)",
+   "BNDES",
+   "PPI/Casa Civil (Patrícia Gravina)",
+   "Usuport",
+   "Associação dos Guardas Portuários da Bahia",
+   "Suport-BA (trabalhadores portuários)"
+  ],
+  "resumo": "Audiência sobre a concessão parcial dos portos baianos estruturada pelo BNDES, com investimentos obrigatórios de cerca de R$ 1,6 bi. Caio Farias, diretor-geral substituto e relator, abriu. O secretário Alex Ávila e a CODEBA anteciparam que o modelo precisa de ampla revisão. Usuários (Usuport), guardas portuários e trabalhadores criticaram o modelo e pediram arquivamento ou manutenção da autoridade portuária pública.",
+  "posicoes": [
+   {
+    "quem": "Alex Ávila (MPor)",
+    "posicao": "Há vasto espaço para aprimorar; haverá grande revisão do modelo",
+    "ts": "0:06:13"
+   },
+   {
+    "quem": "CODEBA",
+    "posicao": "Curvas de receita e investimento estão datadas; modelo precisa ser atualizado",
+    "ts": "0:10:05"
+   },
+   {
+    "quem": "Usuport",
+    "posicao": "Modelo não atende usuários e deve ser arquivado",
+    "ts": "1:11:54"
+   },
+   {
+    "quem": "Associação dos Guardas Portuários",
+    "posicao": "Concessão parcial contraria boas práticas internacionais (landlord)",
+    "ts": "1:13:27"
+   },
+   {
+    "quem": "BNDES",
+    "posicao": "Aberto a ajustes; modelo pressupõe manutenção da autoridade portuária",
+    "ts": "1:51:54"
+   }
+  ],
+  "encaminhamentos": [
+   "Contribuições formais no prazo da consulta pública",
+   "Poder concedente e BNDES sinalizam revisão do modelo e da lista de encargos"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Caio Farias",
+   "ts": "0:02:15",
+   "tema": [
+    "concessão portuária",
+    "dragagem"
+   ],
+   "tipo": "abertura",
+   "resumo": "Como diretor-geral substituto e relator, destacou investimentos obrigatórios (~R$ 1,6 bi) em dragagem, reforço de cais e VTMS, e pediu contribuições.",
+   "trecho": "sempre na busca da segurança jurídica e do aperfeiçoamento do projeto. Obrigado pela presença de cada um de vocês",
+   "confianca": "alta"
+  }
+ ],
+ "limites_da_analise": [
+  "Análise cobre apenas as janelas do resumo (abertura, menções a diretores, encerramento), não a sessão inteira.",
+  "Legenda automática: nomes e números podem estar errados; falantes inferidos por saudações e contexto.",
+  "Caio Farias só aparece falando na abertura nas janelas analisadas; encerramento feito pelo presidente da comissão."
+ ]
+}

@@ -1,5 +1,491 @@
 # Itens do tema «recursos_recursais» (todos os diretores)
 
+- **RD 377 (2015-01-28)**, 2 · relator **Mário Povia** · Recurso hierárquico impróprio contra o Acórdão 61/2014 (adicional de 10% sobre a tabela tarifária da CDP — rubrica de fundo de investimentos; efeitos  → aprovado por unanimidade: recurso não conhecido; autos à SEP/PR
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=79s)
+- **RD 377 (2015-01-28)**, 9 · relator **Mário Povia** · Pedido de reconsideração contra inabilitação no Anúncio Público 6/2014 (TUP em Porto Velho/RO) por garantia de proposta inadequada → aprovado por unanimidade: provimento parcial
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=1184s)
+- **RD 377 (2015-01-28)**, 11 · relator **Mário Povia** · Pedido de reconsideração contra advertência por guindastes desativados na área operacional → aprovado por unanimidade: não conhecido (intempestivo)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=1933s)
+- **RD 377 (2015-01-28)**, 13 · relator **Mário Povia** · Pedido de reconsideração contra notificação 78/2014 → aprovado por unanimidade: não conhecido (intempestivo)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=2556s)
+- **RD 377 (2015-01-28)**, 14 · relator **Mário Povia** · Pedido de reconsideração → pedido de vista de Adalberto Tokarski antes da leitura do voto
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=2682s)
+- **RD 377 (2015-01-28)**, 15 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 20 mil por transporte aquaviário sem autorização → aprovado por unanimidade: provimento parcial
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=2733s)
+- **RD 377 (2015-01-28)**, 16 · relator **Mário Povia** · Pedido de reconsideração contra cassação da autorização (empresa não localizada) → aprovado por unanimidade: provimento parcial
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=3064s)
+- **RD 377 (2015-01-28)**, 17 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 55 mil (exploração sem contrato válido no Porto de Cabedelo) → aprovado por unanimidade: não conhecido (intempestivo)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=3776s)
+- **RD 377 (2015-01-28)**, 18 · relator **Mário Povia** · Reconsideração (Docas) e recurso (Raízen) contra multa de R$ 20 mil, nulidade do 8º aditivo e extinção do contrato de arrendamento 92/007 em Cabedelo → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=4048s)
+- **RD 377 (2015-01-28)**, 19 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 68.750 (5º aditivo sem cláusulas essenciais) → aprovado por unanimidade: negado provimento
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=4862s)
+- **RD 377 (2015-01-28)**, 44 · relator **Fernando Fonseca** · Pedido de reconsideração contra multa de R$ 119.800 (cessão de área sem licitação no Porto de Aratu) → aprovado por unanimidade: negado provimento, multa recalculada
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=7785s)
+- **RD 377 (2015-01-28)**, 51 · relator **Adalberto Tokarski** · Pedido de reconsideração contra multa de R$ 37.125 → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=11650s)
+- **RD 377 (2015-01-28)**, 52 · relator **Adalberto Tokarski** · Pedido de reconsideração contra multa de R$ 19.900 → aprovado por unanimidade: não conhecido (intempestivo)
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=11961s)
+- **RD 378 (2015-02-12)**, 1 · relator **Fernando Fonseca** · Recurso administrativo contra inabilitação no anúncio público 13/2014 (instalação dentro de poligonal de porto organizado); retorno de vista → aprovado por unanimidade: recurso conhecido e não provido, com recomendação à SFC sobre o 
+  - votos: Fernando: relator; Adalberto: revisor_acompanha; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=30s)
+- **RD 378 (2015-02-12)**, 2 · relator **Mário Povia** · Pedido de reconsideração (processo com vista) → vista prorrogada
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=597s)
+- **RD 378 (2015-02-12)**, 4 · relator **Mário Povia** · Pedido de reconsideração contra multa por ocupação de área no porto de Aratu via convênio com Copene/Braskem → aprovado por unanimidade: parcial provimento
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=660s)
+- **RD 378 (2015-02-12)**, 6 · relator **Mário Povia** · Pedido de reconsideração contra advertência (incisos 9, 33 e 35 do art. 13 da Res. 858) → aprovado por unanimidade: negado provimento
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=1600s)
+- **RD 378 (2015-02-12)**, 18 · relator **Fernando Fonseca** · Recurso administrativo contra arquivamento de pedido de autorização de ETC dentro da poligonal do porto organizado de Belém → aprovado por unanimidade: parcial provimento
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=6605s)
+- **RD 378 (2015-02-12)**, 19 · relator **Fernando Fonseca** · Recurso administrativo contra arquivamento de pedido de autorização de ETC dentro da poligonal do porto organizado de Santarém → aprovado por unanimidade: parcial provimento
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=7162s)
+- **RD 378 (2015-02-12)**, 21 · relator **Fernando Fonseca** · Embargos de declaração/novo pedido de reconsideração contra advertência já transitada em julgado → aprovado por unanimidade: não conhecido
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=7685s)
+- **RD 378 (2015-02-12)**, 23 · relator **Fernando Fonseca** · Novo pedido de reconsideração contra arquivamento de processo de outorga (decisão da 372ª reunião) → aprovado por unanimidade: não conhecido
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=8574s)
+- **RD 381 (2015-03)**, 14 · relator **Fernando Fonseca** · Pedido de reconsideração de multa de R$ 1.000 (apoio portuário sem autorização) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=2795s)
+- **RD 381 (2015-03)**, 15 · relator **Fernando Fonseca** · Pedido de reconsideração de multas de R$ 14.800 → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=3029s)
+- **RD 381 (2015-03)**, 16 · relator **Fernando Fonseca** · Pedido de reconsideração de multa de R$ 33.750 (aditivos de prorrogação de arrendamentos sem submissão à ANTAQ, Itaqui) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=3488s)
+- **RD 380 (2015-03-12)**, 9 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 33 mil (descumprimento da Res. 1612) → aprovado por unanimidade: mantida a decisão
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=2774s)
+- **RD 380 (2015-03-12)**, 10 · relator **Mário Povia** · Pedido de reconsideração de multas (R$ 2.520 e R$ 20.475; total R$ 22.995) → aprovado por unanimidade: conhecido e negado provimento
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=3706s)
+- **RD 380 (2015-03-12)**, 11 · relator **Mário Povia** · Recurso contra inabilitação em anúncio público de TUP (resíduos oleosos e efluentes) → aprovado por unanimidade: provimento parcial
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=4005s)
+- **RD 380 (2015-03-12)**, 27 · relator **Fernando Fonseca** · Pedido de revisão de multa (R$ 4.200) → aprovado por unanimidade: não conhecido
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=7932s)
+- **RD 380 (2015-03-12)**, 28 · relator **Fernando Fonseca** · Pedido de reconsideração de multa de R$ 22 mil (licitação/contratação de arrendamento) → aprovado por unanimidade: negado provimento
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=8040s)
+- **RD 380 (2015-03-12)**, 29 · relator **Fernando Fonseca** · Pedido de reconsideração de multa de R$ 7 mil (cobrança indevida de armazenagem ao exportador, Imbituba/SC) → aprovado por unanimidade: negado provimento
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=8235s)
+- **RD 380 (2015-03-12)**, 30 · relator **Fernando Fonseca** · Pedido de reconsideração da declaração de extinção do contrato de arrendamento 13/97 (porto de Belém/CDP) → aprovado por unanimidade: negado provimento, com contrato de transição
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=8480s)
+- **RD 380 (2015-03-12)**, 44 · relator **Adalberto Tokarski** · Pedido de reconsideração de multa (incisos 1 e 28 do art. 13 da Res. 858) → aprovado por unanimidade: negado provimento
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=69fqpuJgfCQ&t=11673s)
+- **RD 382 (2015-04-15)**, 5 · relator **Mário Povia** · Pedido de reconsideração de multa por disponibilização irregular de área no Porto de Aratu → aprovado por unanimidade: provimento parcial
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=809s)
+- **RD 382 (2015-04-15)**, 6 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 100 mil por descumprimento de TAC (instalação em Estrela/RS) → aprovado por unanimidade: não conhecido
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=1269s)
+- **RD 382 (2015-04-15)**, 7 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 95.500 por receber caminhões sem agendamento e sem pátio de triagem (Porto de Santos) → aprovado por unanimidade: negado provimento
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=1498s)
+- **RD 382 (2015-04-15)**, 30 · relator **Fernando Fonseca** · Pedido de reconsideração de multa de R$ 192.500 (EVTE e cláusulas do 2º aditivo do arrendamento 01/96) → aprovado por unanimidade: negado provimento
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=8773s)
+- **RD 382 (2015-04-15)**, 31 · relator **Fernando Fonseca** · Pedido de reconsideração de multa de R$ 87.500 por construir/explorar TUP em Niterói sem autorização → aprovado por unanimidade: negado provimento
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=9060s)
+- **RD 382 (2015-04-15)**, 32 · relator **Fernando Fonseca** · Pedido de reconsideração de multa de R$ 74.250 por contratos de uso temporário no Porto de Belém sem aprovação da ANTAQ → aprovado por unanimidade: negado provimento
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=9349s)
+- **RD 382 (2015-04-15)**, 33 · relator **Fernando Fonseca** · Pedido de reconsideração de multa de R$ 50.600 (meio ambiente, tributos, prevenção de incêndios) → aprovado por unanimidade: negado provimento
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=9636s)
+- **RD 382 (2015-04-15)**, 34 · relator **Fernando Fonseca** · Pedido de reconsideração de multa por não licitar instalação após fim de arrendamento (Moinhos) → aprovado por unanimidade: provimento parcial
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=9941s)
+- **RD 382 (2015-04-15)**, 35 · relator **Fernando Fonseca** · Pedido de reconsideração de multa (~R$ 100.800, valor incerto) por irregularidades em leilão de bens → aprovado por unanimidade: negado provimento
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=10430s)
+- **RD 382 (2015-04-15)**, 36 · relator **Fernando Fonseca** · Pedido de reconsideração intempestivo de multa de R$ 410 mil (não rescisão de contrato com CEASA-PE) → aprovado por unanimidade: não conhecido; multa revista de ofício
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=10762s)
+- **RD 382 (2015-04-15)**, 44 · relator **Adalberto Tokarski** · Pedido de reconsideração de multa de R$ 5 mil (uso de recursos de alienação de bens da União) → aprovado por unanimidade: negado provimento
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=15386s)
+- **RD 382 (2015-04-15)**, 45 · relator **Adalberto Tokarski** · Pedido de reconsideração de advertência e multa de R$ 6.800 (EBN: balanço e frota) → aprovado por unanimidade: negado provimento
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=15643s)
+- **RD 382 (2015-04-15)**, 46 · relator **Adalberto Tokarski** · Pedido de reconsideração de multa de R$ 136.500 por explorar terminal sem autorização → aprovado por unanimidade: provimento parcial
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=15989s)
+- **RD 382 (2015-04-15)**, 47 · relator **Adalberto Tokarski** · Pedido de reconsideração de advertência (construção de terminal em Barra do Riacho antes da autorização) → aprovado por unanimidade: negado provimento
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=16581s)
+- **RD 382 (2015-04-15)**, 48 · relator **Adalberto Tokarski** · Pedido de reconsideração de multa de R$ 104.500 por demolição de bens da União sem autorização → aprovado por unanimidade: negado provimento
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=16875s)
+- **RD 384 (2015-05-20)**, 1 · relator **Fernando Fonseca** · Pedido de reconsideração de decisão da SFC que aplicou multa de R$ 200 mil e determinou PAS de cassação por descumprimento do TAC 06/2011-SPO (constru → aprovado por unanimidade (provimento parcial: TAC extinto sem multa)
+  - votos: Fernando: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=30s)
+- **RD 384 (2015-05-20)**, 12 · relator **Fernando Fonseca** · Pedido de reconsideração contra multa de R$ 18 mil aplicada na 376ª RO por não realizar agendamento de veículos para acesso ao terminal → aprovado por unanimidade (recurso conhecido e negado)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=2190s)
+- **RD 384 (2015-05-20)**, 14 · relator **Fernando Fonseca** · Recurso administrativo contra multa por descumprimento do TAC 03/2011-SPO (licitação da área arrendada à Vale/Valesul em Itaguaí) → aprovado por unanimidade (recurso negado)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=2888s)
+- **RD 384 (2015-05-20)**, 17 · relator **Fernando Fonseca** · Pedido de reconsideração contra multa de R$ 357 mil por iniciar ampliação de instalação portuária (segunda ponte de acesso ao cais flutuante) sem auto → aprovado por unanimidade (recurso negado)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=4776s)
+- **RD 384 (2015-05-20)**, 18 · relator **Fernando Fonseca** · Pedidos de reconsideração contra a Resolução Normativa 2/2015 (alteração da Res. 3274; incisos 40 e 41 do art. 32) → aprovado por unanimidade (pedidos negados)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=5152s)
+- **RD 385 (2015-06-01)**, 12 · relator **Mário Povia** · Recurso administrativo contra advertência e multa de R$ 60 mil (Res. 858) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=4401s)
+- **RD 385 (2015-06-01)**, 34 · relator **Fernando Fonseca** · Pedido de reconsideração contra multa de R$ 11.220 (RO 378) → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=10318s)
+- **RD 385 (2015-06-01)**, 35 · relator **Fernando Fonseca** · Pedido de reconsideração contra multa de R$ 110 mil (ocupação irregular do terminal açucareiro pelo Sindaçúcar, RO 379) → aprovado por unanimidade
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=10545s)
+- **RD 386 (2015-06-25)**, 15 · relator **Mário Povia** · Pedido de reconsideração de multa (R$ 2.062,50) por descumprir normas ambientais no corredor de exportação de Santos → aprovado conforme voto do relator (reconsideração não provida)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=7240s)
+- **RD 386 (2015-06-25)**, 25 · relator **Fernando Fonseca** · Recurso contra inabilitação no anúncio público 14/2014 (TUP) → aprovado conforme voto do relator (recurso não provido)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=10551s)
+- **RD 386 (2015-06-25)**, 29 · relator **Fernando Fonseca** · Pedido de reconsideração: prorrogação de contrato de uso temporário → aprovado conforme voto do relator
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=12438s)
+- **RD 386 (2015-06-25)**, 37 · relator **Adalberto Tokarski** · Recurso contra multa de R$ 4.950 → aprovado conforme voto do relator (recurso não conhecido)
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=14064s)
+- **RD 386 (2015-06-25)**, 40 · relator **Adalberto Tokarski** · Pedido de reconsideração de multa de R$ 43.750 (TUP em Niterói) → aprovado conforme voto do relator (reconsideração provida)
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=15281s)
+- **RD 387 (2015-07-29)**, 11 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 120 mil (apoio portuário sem autorização; 371ª reunião) → aprovado conforme voto do relator (unânime)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=8932s)
+- **RD 387 (2015-07-29)**, 12 · relator **Mário Povia** · Pedido de reconsideração de multa (descumprimento da Res. 2238: restituição de recursos repassados ao município de Itajaí) → aprovado conforme voto do relator (unânime)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=9172s)
+- **RD 387 (2015-07-29)**, 13 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 77 mil (ocupação irregular do armazém E1, porto de Porto Alegre, e informação falsa) → aprovado conforme voto do relator (unânime)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=9683s)
+- **RD 387 (2015-07-29)**, 14 · relator **Mário Povia** · Pedido de reconsideração da extinção do contrato de arrendamento PRES 001/91 (Codesp, corredor de exportação de suco/cítricos) e contrato de transição → aprovado conforme voto do relator (unânime)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=9923s)
+- **RD 387 (2015-07-29)**, 18 · relator **Fernando Fonseca** · Recurso com pedido de efeito suspensivo contra decisão da 355ª reunião (Res. 3270): tabela 4 de armazenagem cobrada em desacordo com a Res. 2381 → aprovado conforme voto do relator (unânime)
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=10483s)
+- **RD 387 (2015-07-29)**, 25 · relator **Fernando Fonseca** · Pedido de reconsideração da nulidade do termo aditivo 1/2011 ao contrato de arrendamento de 1984 → aprovado conforme voto do relator (unânime)
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=13745s)
+- **RD 387 (2015-07-29)**, 27 · relator **Fernando Fonseca** · Recurso contra multa de R$ 2.600 por travessia sem autorização (rio Paranaíba, Davinópolis/GO–Abadia dos Dourados/MG) → aprovado conforme voto do relator (unânime)
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=14234s)
+- **RD 387 (2015-07-29)**, 42 · relator **Adalberto Tokarski** · Pedido de reconsideração de multa (368ª reunião): CSN, vistorias e contribuição sindical → aprovado conforme voto do relator (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=17678s)
+- **RD 388 (2015-08-12)**, 3 · relator **Fernando Fonseca** · Pedido de reconsideração contra multa de R$ 300 mil da SFC por descumprimento do TAC 02/2012 (início das obras do TUP Mearim granéis sólidos) — voto-v → aprovado por maioria o voto-vista (provimento, TAC extinto sem multa); relator vencido
+  - votos: Fernando: vencido; Adalberto: revisor_acompanha; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=1134s)
+- **RD 388 (2015-08-12)**, 7 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 3 mil (378ª RO) por deixar de prestar informações no prazo → aprovado por unanimidade (recurso negado)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=4218s)
+- **RD 388 (2015-08-12)**, 29 · relator **Mário Povia** · Pedido de reconsideração (intempestivo) da Res. 3082: constituição de grupo de trabalho para apurar eventual débito da ex-arrendatária → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=14996s)
+- **RD 389 (2015-08-27)**, 10 · relator **Fernando Fonseca** · Recurso contra multa de R$ 15 mil por não manter embarcação em operação comercial (navegação interior, bacia Paraguai-Paraná) → pedido de vista
+  - votos: Fernando: relator; Mário: outro; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=px8mI3sMZqA&t=7701s)
+- **RD 390 (2015-09)**, 8 · relator **Mário Povia** · Pedido de reconsideração de advertência e multa de R$ 105 mil (ampliação de TUP em Rio Grande sem autorização) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=2490s)
+- **RD 390 (2015-09)**, 9 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 52.500 por explorar terminal privado sem autorização (Niterói) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=2665s)
+- **RD 390 (2015-09)**, 10 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 149.750 → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=2875s)
+- **RD 390 (2015-09)**, 33 · relator **Fernando Fonseca** · Pedido de reconsideração de multa de R$ 118.750 → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=10252s)
+- **RD 390 (2015-09)**, 34 · relator **Fernando Fonseca** · Pedido de reconsideração de multa de R$ 10.631 (apoio portuário sem autorização) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=10666s)
+- **RD 391 (2015-09-23)**, 8 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 18.000 por travessia sem autorização entre Joaquim Pires/PI e Magalhães de Almeida/MA → reconsideração negada
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=2216s)
+- **RD 391 (2015-09-23)**, 9 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 27.562 por navegação de apoio portuário sem autorização → reconsideração negada
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=2364s)
+- **RD 391 (2015-09-23)**, 26 · relator **Adalberto Tokarski** · Pedido de reconsideração de multa por não apresentar demonstrações contábeis de 2012 → provimento parcial
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=8122s)
+- **RD 392 (2015-10-22)**, 4 · relator **Mário Povia** · Pedido de reconsideração: multas por cessão de área em Salvador à Pedreiras Valéria sem licitação (prescrição) → reconsideração negada; multas mantidas (R$ 53.460 e R$ 13.365)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=3168s)
+- **RD 392 (2015-10-22)**, 5 · relator **Mário Povia** · Pedido de reconsideração: advertência por não comprovar operação no apoio marítimo (1º tri 2012) → negado provimento; advertência mantida
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=3569s)
+- **RD 392 (2015-10-22)**, 6 · relator **Mário Povia** · Pedido de reconsideração: multa de R$ 165 mil por explorar instalação portuária (píer de rebocadores) sem autorização → negado provimento; multa de R$ 165 mil mantida
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=3711s)
+- **RD 392 (2015-10-22)**, 18 · relator **Fernando Fonseca** · Pedido de reconsideração intempestivo contra multa (res. 3274) → não conhecido; cobrança mantida
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=11300s)
+- **RD 392 (2015-10-22)**, 27 · relator **Adalberto Tokarski** · Pedido de reconsideração: multa de R$ 26.250 por explorar TUP sem autorização → negado provimento
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=14766s)
+- **RD 394 (2015-11-19)**, 22 · relator **Fernando Fonseca** · Recurso: registro de instalação portuária rudimentar negado → indeferido o registro (decisão da SOG tornada sem efeito por incompetência)
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=8862s)
+- **RD 394 (2015-11-19)**, 23 · relator **Fernando Fonseca** · Pedido de reconsideração intempestivo contra multa de R$ 373.125 → não conhecido; multa mantida
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=9193s)
+- **RD 394 (2015-11-19)**, 24 · relator **Fernando Fonseca** · Pedido de reconsideração: multa de R$ 400 mil por descumprimento de resoluções sobre o arrendamento da BTP → negado provimento; multa de R$ 400 mil mantida
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=fT6iZfjujqE&t=9462s)
+- **RD 395 (2015-12-03)**, 6 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 500.000 por ocupar instalação no porto do Itaqui sem instrumento contratual → provimento parcial por maioria (multa reduzida para R$ 157.500)
+  - votos: Mário: relator; Adalberto: revisor_diverge; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=1672s)
+- **RD 395 (2015-12-03)**, 11 · relator **Mário Povia** · Pedido de reconsideração → pedido de vista
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=2750s)
+- **RD 395 (2015-12-03)**, 26 · relator **Fernando Fonseca** · Pedido de reconsideração de multa de R$ 625 por não enviar informações sobre alteração do PDZ → reconsideração negada
+  - votos: Mário: acompanha; Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=9972s)
+- **RD 395 (2015-12-03)**, 27 · relator **Adalberto Tokarski** · Pedido de reconsideração de multas (R$ 121.485 e R$ 120.000) por relatório de bens da União e desincorporação de imóveis demolidos sem autorização → reconsideração negada
+  - votos: Mário: acompanha; Fernando: acompanha; Adalberto: relator · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=10280s)
+- **RD 395 (2015-12-03)**, 28 · relator **Adalberto Tokarski** · Recurso contra inabilitação no anúncio público 48/2013 (TUP em Niterói/RJ) e pedido de autorização em caráter especial e de emergência → aprovado
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=10710s)
+- **RD 396 (2015-12-17)**, 1 · relator **Mário Povia** · Pedido de reconsideração (com pedido de vista de Adalberto Tokarski) → vista prorrogada; não julgado
+  - votos: Adalberto: vista; Mário: relator; Fernando: outro · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=35s)
+- **RD 396 (2015-12-17)**, 9 · relator **Mário Povia** · Pedido de reconsideração contra multa por área no porto de Aratu sem licitação → aprovado: conhecido e negado provimento
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=2781s)
+- **RD 396 (2015-12-17)**, 23 · relator **Fernando Fonseca** · Pedido de reconsideração contra multas da Res. 4368 (cerca de R$ 2,46 milhões) → aprovado: não conhecido por intempestividade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=9738s)
+- **RD 396 (2015-12-17)**, 27 · relator **Adalberto Tokarski** · Recurso contra multa por descumprimento de TAC (patrimônio líquido e certidão fiscal) → aprovado: negado provimento
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=12049s)
+- **RD 396 (2015-12-17)**, 42 · relator **Mário Povia** · Pedido de reconsideração sobre vedação de prorrogação do contrato de arrendamento 13/2001 (unificação contratual) (extrapauta) → aprovado: não conhecido; encaminhado à SEP
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=14519s)
+- **RD 398 (2016-02-12)**, 8 · relator **Mário Povia** · Pedido de impugnação da Resolução 4093 (revisão tarifária de 18 portos organizados) → aprovado por unanimidade: conhece e nega provimento
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=2837s)
+- **RD 399 (2016-03-03)**, 6 · relator **Mário Povia** · Recurso hierárquico impróprio contra multas em processo contencioso → aprovado por unanimidade conforme voto do relator
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=3456s)
+- **RD 399 (2016-03-03)**, 7 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 100 mil (regularidade operacional na cabotagem em 2013) → aprovado por unanimidade conforme voto do relator
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=3758s)
+- **RD 403 (2016-04-28)**, 3 · relator **Fernando Fonseca** · Pedido de reconsideração contra multa de 18.900 reais por operar instalação em São Simão/GO sem autorização → aprovado por unanimidade: não conhecido
+  - votos: Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=83ex6xdeHiw&t=1153s)
+- **RD 403 (2016-04-28)**, 15 · relator **Adalberto Tokarski** · Pedido de reconsideração contra multa por operar apoio portuário sem autorização → aprovado por unanimidade: provimento parcial
+  - votos: Adalberto: relator; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=83ex6xdeHiw&t=6350s)
+- **RD 404 (2016-06-02)**, 8 · relator **Fernando Fonseca** · Pedido de reconsideração de multa por falta de licença ambiental → aprovado por unanimidade conforme voto do relator
+  - votos: Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=bKneMtT4OuQ&t=2107s)
+- **RD 404 (2016-06-02)**, 9 · relator **Fernando Fonseca** · Reconsideração de indeferimento de contrato de uso temporário de área no porto de Antonina/PR → aprovado por unanimidade conforme voto do relator
+  - votos: Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=bKneMtT4OuQ&t=2449s)
+- **RD 404 (2016-06-02)**, 22 · relator **Adalberto Tokarski** · Pedido de reconsideração contra dispositivos da Res. 3259 (fiscalização e procedimento sancionador) → aprovado por unanimidade conforme voto do relator
+  - votos: Adalberto: relator; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=bKneMtT4OuQ&t=4354s)
+- **RD 412 (2016-11-01)**, 1 · relator **Fernando Fonseca** · Pedido de reconsideração em processo sancionador (Res. 4.036) — voto-vista → aprovado por unanimidade na forma do voto-vista: não provido, multa reduzida para R$ 63.87
+  - votos: Adalberto: revisor_acompanha; Mário: revisor_acompanha; Fernando: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=64s)
+- **RD 412 (2016-11-01)**, 15 · relator **Fernando Fonseca** · Recurso administrativo contra multa de R$ 20 mil por não elaborar inventário de bens reversíveis previsto em TAC → aprovado por unanimidade: conhecido e não provido
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=2606s)
+- **RD 412 (2016-11-01)**, 16 · relator **Fernando Fonseca** · Pedido de reconsideração contra multa de R$ 50.625 por bônus a cargos de gerência e diretoria (Res. 4.707, 400ª reunião) → aprovado por unanimidade: conhecido e não provido
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=3063s)
+- **RD 412 (2016-11-01)**, 36 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 270 mil (cessão irregular de bem público, rebocador) e advertência (falta de manutenção) → aprovado por unanimidade: conhecido e não provido
+  - votos: Mário: relator; Adalberto: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=9159s)
+- **RD 416 (2017-02-01)**, 58 · relator **Mário Povia** · Pedido de reconsideração de multas (PCE e lista de treinamentos) → aprovado por unanimidade (provimento parcial)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=5QSwOSILsGM&t=1033s)
+- **RD 420 (2017-05-09)**, 4 · relator **Adalberto Tokarski** · Processo administrativo contencioso por ausência de operação no TUP Juazeiro; pedido de reconsideração da multa de R$ 100 mil por descumprimento de TA → aprovado (unânime): arquivamento sem penalidade e provimento da reconsideração
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=477s)
+- **RD 420 (2017-05-09)**, 9 · relator **Adalberto Tokarski** · Pedido de reconsideração de multa de R$ 28.562 por condições irregulares de limpeza e higiene em área explorada → aprovado (unânime): reconsideração negada
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=2900s)
+- **RD 420 (2017-05-09)**, 10 · relator **Adalberto Tokarski** · Pedido de reconsideração de advertência por permitir ocupação de área não operacional pela Van Oord sem comunicar a ANTAQ e com preço fora da tarifa → aprovado (unânime): advertência mantida
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=3221s)
+- **RD 420 (2017-05-09)**, 12 · relator **Adalberto Tokarski** · Recurso contra multa de R$ 28.350 aplicada pela SFC por manutenção de empilhadeiras sem caixa separadora de água e óleo → aprovado (unânime): recurso improvido
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=3433s)
+- **RD 420 (2017-05-09)**, 22 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 5 mil por usar recursos de alienação de bens inservíveis sem plano de aplicação aprovado → aprovado (unânime): reconsideração negada
+  - votos: Mário: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=6396s)
+- **RD 421 (2017-05-11)**, 4 · relator **Fernando Fonseca** · Pedido de revisão de multa por descumprimento de TAC (licença ambiental e CND) → aprovado: provimento parcial, multa de R$ 20 mil
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=1500s)
+- **RD 421 (2017-05-11)**, 5 · relator **Fernando Fonseca** · Pedido de reconsideração contra multa de R$ 126 mil (área fora do contrato de arrendamento) → aprovado: negado provimento
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=2123s)
+- **RD 421 (2017-05-11)**, 6 · relator **Fernando Fonseca** · Pedido de reconsideração: ampliação de área de TUP em cerca de 20,7 mil m2 → aprovado: provimento, ampliação reconhecida
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=2379s)
+- **RD 421 (2017-05-11)**, 7 · relator **Fernando Fonseca** · Pedido de reconsideração contra multa de R$ 10 mil → aprovado: negado provimento
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=2964s)
+- **RD 421 (2017-05-11)**, 8 · relator **Fernando Fonseca** · Recurso contra multa por embarque de passageiros sem pré-qualificação de operador portuário → aprovado: provimento parcial, arquivamento sem penalidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=3205s)
+- **RD 421 (2017-05-11)**, 9 · relator **Fernando Fonseca** · Recurso contra cancelamento de autorização de afretamento de embarcação estrangeira (cabotagem; embarcação em construção) → pedido de vista de Mário Povia; decisão adiada
+  - votos: Fernando: relator; Mário: vista; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=3589s)
+- **RD 421 (2017-05-11)**, 21 · relator **Fernando Fonseca** · Pedido de reconsideração contra multa de R$ 87,5 mil (área no porto de São Francisco do Sul sem licitação) → aprovado: negado provimento
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=DY1PXMj_GI4&t=8139s)
+- **RD 425 (2017-06-28)**, 9 · relator **Adalberto Tokarski** · Recurso contra decisão da comissão de licitação do leilão 8/2016 (área STM05, Santarém/PA) → aprovado por unanimidade: recurso não conhecido; demais alegações indeferidas como direito
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=3756s)
+- **RD 425 (2017-06-28)**, 22 · relator **Mário Povia** · Recurso contra a comissão de licitação do leilão 7/2016 (STM04, Santarém/PA) → aprovado por unanimidade: recurso conhecido e negado; demais alegações indeferidas
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=7539s)
+- **RD 422 (2017-08-23)**, 6 · relator **Adalberto Tokarski** · Pedido de reconsideração de decisão da 401ª(?) reunião (uso de área no porto de Itajaí sem licitação) → aprovado conforme voto do relator (unânime)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=vc-lJ1haDoQ&t=3512s)
+- **RD 427 (2017-08-24)**, 5 · relator **Francisval Mendes** · Recurso administrativo contra multa de R$ 121 mil por movimentar bagagens sem pré-qualificação como operador portuário (Rio de Janeiro) → recurso não provido por maioria (voto-vista de Mário Povia); relator Francisval vencido
+  - votos: Francisval: vencido; Mário: revisor_diverge; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=1367s)
+- **RD 423 (2017-08-24)**, 7 · relator **Adalberto Tokarski** · Pedido de reconsideração de multa de R$ 70.875 por explorar TUP sem autorização (Salvador) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=T7OiOUOmJDA&t=1973s)
+- **RD 424 (2017-08-24)**, 4 · relator **Adalberto Tokarski** · Pedido de reconsideração → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=jqmO9Gz2tHU&t=2063s)
+- **RD 424 (2017-08-24)**, 5 · relator **Adalberto Tokarski** · Pedido de reconsideração: multa de R$ 20 mil (veículos sem RNTRC) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jqmO9Gz2tHU&t=2094s)
+- **RD 424 (2017-08-24)**, 27 · relator **Mário Povia** · Pedido de reconsideração: multa ≈ R$ 87,9 mil (plano de segurança) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jqmO9Gz2tHU&t=5462s)
+- **RD 424 (2017-08-24)**, 28 · relator **Mário Povia** · Pedido de reconsideração: multa R$ 78.750 por não adaptar contrato de adesão → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jqmO9Gz2tHU&t=5637s)
+- **RD 427 (2017-08-24)**, 16 · relator **Adalberto Tokarski** · Pedido de reconsideração de multa de cerca de R$ 47 mil aplicada na reunião 399 → aprovado por unanimidade (provimento parcial)
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=6343s)
+- **RD 427 (2017-08-24)**, 30 · relator **Mário Povia** · Recurso contra multa de R$ 39.375 por ampliar TUP em Pontal do Paraná sem prévia autorização → recurso não provido por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=8632s)
+- **RD 427 (2017-08-24)**, 31 · relator **Mário Povia** · Recurso contra multa de R$ 87.500 por ampliar capacidade de TUP em Rio Grande/RS (armazéns e correias) sem aprovação → recurso não provido por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=8925s)
+- **RD 428 (2017-09-13)**, 27 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 52,5 mil por não adaptar termo de autorização (Res. 4882) → aprovado por unanimidade conforme voto do relator
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=5507s)
+- **RD 429 (2017-09-20)**, 12 · relator **Mário Povia** · Recurso contra multa de R$ 100 mil por descumprimento de TAC (certificado do Corpo de Bombeiros, porto de Altamira) → aprovado por unanimidade: recurso conhecido e não provido
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=2393s)
+- **RD 429 (2017-09-20)**, 13 · relator **Mário Povia** · Recurso contra multa de R$ 137.500 por cabotagem Santos–Paranaguá sem autorização de afretamento → aprovado por unanimidade: recurso não provido
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=2548s)
+- **RD 429 (2017-09-20)**, 14 · relator **Mário Povia** · Novo recurso contra multa de R$ 100 mil (Acórdão 15/2017) por descumprimento de TAC (certificado de bombeiros, porto de Óbidos) → aprovado por unanimidade: conhecido (em homenagem à notificação que abriu prazo) e não pro
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=2733s)
+- **RD 429 (2017-09-20)**, 15 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 275 mil por subarrendamento não autorizado no porto de Aratu → aprovado por unanimidade: reconsideração não provida
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=3011s)
+- **RD 429 (2017-09-20)**, 29 · relator **Francisval Mendes** · Recurso contra arquivamento de denúncia sobre dique flutuante no porto de Niterói → aprovado por unanimidade: recurso conhecido e não provido
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=8734s)
+- **RD 429 (2017-09-20)**, 30 · relator **Francisval Mendes** · Recurso contra multa de cerca de R$ 280 mil (acidente com shiploader por falta de manutenção) → aprovado por unanimidade: recurso não provido
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=8909s)
+- **RD 429 (2017-09-20)**, 31 · relator **Francisval Mendes** · Pedido de reconsideração da multa de R$ 114.400 (Res. 5489) → aprovado por unanimidade: não provido
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=9155s)
+- **RD 430 (2017-10-06)**, 13 · relator **Mário Povia** · Pedido de reconsideração contra a Resolução 5233 (multa total de R$ 377.212,50; autos de infração, prorrogação do contrato de arrendamento 60/1997) → aprovado por unanimidade (reconsideração conhecida e não provida)
+  - votos: Adalberto: acompanha; Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=2235s)
+- **RD 430 (2017-10-06)**, 14 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 50 mil por explorar instalação portuária sem autorização (Porto Velho) → aprovado por unanimidade (multa revogada de ofício)
+  - votos: Adalberto: acompanha; Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=2413s)
+- **RD 430 (2017-10-06)**, 15 · relator **Mário Povia** · Recurso contra a SCPAR Porto de Imbituba que indeferiu contrato de uso temporário para soda cáustica, ácido sulfúrico e granéis líquidos → aprovado por unanimidade (recurso não provido)
+  - votos: Adalberto: acompanha; Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=2861s)
+- **RD 430 (2017-10-06)**, 16 · relator **Mário Povia** · Recurso contra indeferimento de contrato de uso temporário (gipsita, ração animal, ureia e outras cargas) no porto de São Sebastião → aprovado por unanimidade (recurso não provido)
+  - votos: Adalberto: acompanha; Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=2951s)
+- **RD 430 (2017-10-06)**, 17 · relator **Mário Povia** · Pedido de reconsideração da Resolução 4094 (EVTEA do reequilíbrio dos contratos de arrendamento com a Codesa; obra de aterro) → aprovado por unanimidade (provimento parcial)
+  - votos: Adalberto: acompanha; Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=xB7YY8IAnRI&t=3690s)
+- **RD 432 (2017-11-17)**, 10 · relator **Adalberto Tokarski** · Pedido de reconsideração contra multa de R$ 70.875 por pagamento de bônus a diretores e comissionados (2009-2010) com recursos do porto do Itaqui → aprovado por unanimidade: conhecido e não provido
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=2439s)
+- **RD 432 (2017-11-17)**, 11 · relator **Adalberto Tokarski** · Pedido de reconsideração contra multa de R$ 111.375 por permitir ocupação da área A-11 sem licitação ou contrato → aprovado por maioria (2x1), vencido Mário Povia
+  - votos: Adalberto: relator; Mário: vencido; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=2767s)
+- **RD 432 (2017-11-17)**, 19 · relator **Mário Povia** · Pedido de reconsideração contra acórdão 61/2017 (multa de R$ 39.375 por ampliar TUP em Pontal do Paraná sem autorização) → aprovado por unanimidade: conhecido e não provido
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=4846s)
+- **RD 434 (2017-12-08)**, 9 · relator **Mário Povia** · Inventariança e termo de entrega e recebimento de bens do Porto de Imbituba; recurso da CDI → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=BDKgrHYQkO4&t=2253s)
+- **RD 435 (2017-12-21)**, 11 · relator **Mário Povia** · Recurso contra negativa de certificados de liberação de carga prescrita (CLCP) para peças de UTE → aprovado conforme voto do relator (recurso conhecido e não provido)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=8pnMiGBR888&t=3327s)
+- **RD 435 (2017-12-21)**, 21 · relator **Francisval Mendes** · Pedido de reconsideração contra indeferimento de autorização especial e emergencial para movimentar granel sólido no porto de Salvador → aprovado conforme voto do relator, com observações de Adalberto Tokarski
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=8pnMiGBR888&t=5473s)
+- **RD 436 (2018-01-25)**, 13 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 41.250 por descarte irregular de soja refugada em terminal (Paranaguá) → aprovado (não conhecido)
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=1035s)
+- **RD 437 (2018-02-15)**, 2 · relator **Mário Povia** · Recurso administrativo contra decisão da GAF que não reconheceu certificado de liberação de carga prescrita (CLCP) para cargas da usina termelétrica a → pedido de vista (Francisval Mendes); não concluído
+  - votos: Mário: relator; Adalberto: revisor_diverge; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=0zgpRZrJ6hw&t=146s)
+- **RD 437 (2018-02-15)**, 7 · relator **Adalberto Tokarski** · Embargos de declaração contra a Resolução 2502-ANTAQ/2012 (shiploader no porto de Paranaguá, contrato de arrendamento 39/97) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0zgpRZrJ6hw&t=2675s)
+- **RD 437 (2018-02-15)**, 8 · relator **Adalberto Tokarski** · Recurso administrativo da APPA contra arquivamento de representação contra a TEAPAR (shiploader, 3º termo aditivo) → recurso conhecido e não provido, por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0zgpRZrJ6hw&t=4202s)
+- **RD 438 (2018-02-23)**, 1 · relator **Mário Povia** · Recurso administrativo contra decisão da Gerência de Afretamento da Navegação que negou certificado de liberação de carga prescrita (processo com vist → aprovado conforme o relator (recurso conhecido e não provido)
+  - votos: Mário: relator; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=uzhRnDP20Bw&t=27s)
+- **RD 438 (2018-02-23)**, 7 · relator **Mário Povia** · Pedido de reconsideração contra análise das contribuições da audiência pública 1/2017 da licitação da área PAR01 (papel e celulose) no porto organizad → aprovado (unânime)
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=uzhRnDP20Bw&t=1127s)
+- **RD 438 (2018-02-23)**, 11 · relator **Francisval Mendes** · Pedido de reconsideração contra multa de R$ 482.307,48 (Res. 5541, 426ª RO) → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=uzhRnDP20Bw&t=2746s)
+- **RD 439 (2018-03-14)**, 2 · relator **Mário Povia** · Pedido de reconsideração contra acórdão 58/2017 (auto de infração UR Fortaleza, multa de R$ 70.875) → reconsideração conhecida e não provida, por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=269s)
+- **RD 439 (2018-03-14)**, 3 · relator **Mário Povia** · Pedido de reconsideração contra Res. 5406/2017 (multa de R$ 10 mil por falta de controle de circulação e sinalização no porto) → reconsideração conhecida e não provida, por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=483s)
+- **RD 439 (2018-03-14)**, 9 · relator **Mário Povia** · Pedido de reconsideração (pautado de ofício; voto já proferido; vista de Tokarski perdeu objeto com fim do mandato) → reconsideração não provida, por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=2257s)
+- **RD 439 (2018-03-14)**, 21 · relator **Francisval Mendes** · Pedido de reconsideração contra acórdão 67/2017 (sobre-estadia) → não provido; multa reduzida de ofício para R$ 157.500, por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=4833s)
+- **RD 439 (2018-03-14)**, 22 · relator **Francisval Mendes** · Pedido de reconsideração contra Res. 5392 (intempestivo) → não conhecido; recebido como direito de petição e não provido, por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=5253s)
+- **RD 439 (2018-03-14)**, 23 · relator **Francisval Mendes** · Pedido de reconsideração contra Res. 5439 (ocupação de área após fim do contrato de arrendamento) → não provido; desocupação em 30 dias, por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=5415s)
+- **RD 439 (2018-03-14)**, 24 · relator **Francisval Mendes** · Pedido de reconsideração contra Res. 5149/2016 → não provido, por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=5694s)
+- **RD 439 (2018-03-14)**, 25 · relator **Francisval Mendes** · Pedido de reconsideração contra Res. 5269/2017 → não provido, por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=5823s)
+- **RD 440 (2018-04-09)**, 9 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 9.900 (bônus a diretores sem amparo no convênio de delegação) → aprovado por unanimidade: negado provimento
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=EkNILU6-1gU&t=1552s)
+- **RD 440 (2018-04-09)**, 10 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 175 mil (armazenagem cobrada do exportador por omissão de escala do armador — art. 10 da Res. 2389) → aprovado por unanimidade: negado provimento
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=EkNILU6-1gU&t=1833s)
+- **RD 440 (2018-04-09)**, 11 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 175 mil (mesmo objeto, Acórdão 64/2017) → aprovado por unanimidade: negado provimento
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=EkNILU6-1gU&t=2292s)
+- **RD 440 (2018-04-09)**, 12 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 157.500 (embarque de passageiros de cruzeiro no Cais do Centro durante interdição cautelar) → aprovado por unanimidade: negado provimento
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=EkNILU6-1gU&t=2438s)
+- **RD 442 (2018-05-07)**, 10 · relator **Mário Povia** · Pedido de reconsideração de multa (cadastro de arrendamentos / armazém no porto de Porto Alegre) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=715s)
+- **RD 442 (2018-05-07)**, 11 · relator **Mário Povia** · Pedido de reconsideração: advertência (regularidade fiscal municipal) e multa de R$ 200 mil (não atualizar regulamento de exploração do porto do Rio G → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=836s)
+- **RD 442 (2018-05-07)**, 12 · relator **Mário Povia** · Pedido de reconsideração de sanção por ocupação de área no porto de Porto Alegre (pedido de TAC, exceção de permanência) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=968s)
+- **RD 442 (2018-05-07)**, 13 · relator **Mário Povia** · Pedido de reconsideração contra autorização de contrato de transição (área STM-05, Santarém) → aprovado por unanimidade (provido)
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=1254s)
+- **RD 442 (2018-05-07)**, 14 · relator **Mário Povia** · Recurso contra multa de R$ 50 mil por ampliar capacidade do TUP sem autorização → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=1549s)
+- **RD 442 (2018-05-07)**, 29 · relator **Francisval Mendes** · Recurso contra indeferimento de registro de instalação portuária (Resolução 5943/2018) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=3866s)
+- **RD 442 (2018-05-07)**, 30 · relator **Francisval Mendes** · Pedido de reconsideração de multa de R$ 78.750 (não manter qualificação econômico-financeira de arrendatária, Acórdão 60/2017) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=4290s)
+- **RD 442 (2018-05-07)**, 31 · relator **Francisval Mendes** · Pedido de reconsideração de indeferimento de afretamento a tempo de embarcação estrangeira na cabotagem (Res. 5887) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=4526s)
+- **RD 25 (extraordinária) (2018-05-11)**, 9 · relator **Francisval Mendes** · Pedido de reconsideração de multa de R$ 157.500 e desocupação de área → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=PmJmgy9Diw8&t=4107s)
+- **RD 25 (extraordinária) (2018-05-11)**, 10 · relator **Francisval Mendes** · Pedido de reconsideração de multa de R$ 266.200 → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=PmJmgy9Diw8&t=4274s)
+- **RD 443 (2018-05-21)**, 7 · relator **Mário Povia** · Pedido de reconsideração contra Res. 5699 (multa de R$ 140 mil e interdição de instalação portuária sem autorização em Porto Velho) → não provido, por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=ONQS9tY_zWg&t=2437s)
+- **RD 443 (2018-05-21)**, 8 · relator **Mário Povia** · Pedido de reconsideração contra Res. 5750 (multa de R$ 175 mil por dutovias no porto de Suape sem contrato) → não provido, por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=ONQS9tY_zWg&t=2660s)
+- **RD 443 (2018-05-21)**, 16 · relator **Francisval Mendes** · Pedido de reconsideração contra Res. 5676 (multa de R$ 52.500) → não provido, por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ONQS9tY_zWg&t=4778s)
+- **RD 443 (2018-05-21)**, 17 · relator **Francisval Mendes** · Pedido de reconsideração contra Res. 5540/5541 (multa de R$ 87.500 e desocupação de área pública) → provido parcialmente, por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ONQS9tY_zWg&t=4928s)
+- **RD 444 (2018-06-07)**, 4 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 140 mil por não desocupar área pública no prazo → pedido de vista de Adalberto Tokarski (voto do relator lido)
+  - votos: Mário: relator; Adalberto: vista; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=1pfiJgrovVc&t=418s)
+- **RD 444 (2018-06-07)**, 10 · relator **Francisval Mendes** · Pedido de reconsideração contra rejeição de projeto no REIDI (contrato de passagem) → aprovado por maioria; Adalberto Tokarski vencido (falantes inferidos)
+  - votos: Francisval: relator; Adalberto: vencido; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=1pfiJgrovVc&t=2046s)
+- **RD 445 (2018-06-20)**, 7 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 153.090 por permitir embarque de carga viva no porto de Vila do Conde em desacordo com medida cautelar → pedido não provido por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=919s)
+- **RD 445 (2018-06-20)**, 8 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 157.500 por permitir exploração de instalação no porto de Santarém sem contrato válido → pedido não provido por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=1116s)
+- **RD 445 (2018-06-20)**, 9 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 175 mil por ocupar área no cais Marcílio Dias (porto de Porto Alegre) sem contrato → pedido não provido por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=1349s)
+- **RD 445 (2018-06-20)**, 10 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 140 mil por descumprir determinação sobre reparo/desmobilização de guindaste (Itaqui/MA) → pedido não provido por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=1607s)
+- **RD 445 (2018-06-20)**, 11 · relator **Mário Povia** · Pedido de reconsideração de advertência por descumprir índices econômico-financeiros contratuais (arrendamento 10/98) → pedido não provido por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=1900s)
+- **RD 445 (2018-06-20)**, 12 · relator **Mário Povia** · Pedido de reconsideração → não deliberado: pedido de vista de Adalberto Tokarski
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=2189s)
+- **RD 445 (2018-06-20)**, 13 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 360 mil por explorar ETC em Caracaraí/RR sem autorização → pedido não provido por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=2348s)
+- **RD 445 (2018-06-20)**, 14 · relator **Mário Povia** · Pedido de reconsideração de multa de R$ 122.500 por não adaptar contrato de adesão 005/2011 no prazo → pedido não provido por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=2641s)
+- **RD 445 (2018-06-20)**, 25 · relator **Francisval Mendes** · Recurso hierárquico impróprio contra acórdão 15/2018-ANTAQ (exploração de área sem contrato válido) → recurso não conhecido por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=6894s)
+- **RD 445 (2018-06-20)**, 27 · relator **Francisval Mendes** · Pedido de reconsideração de multa de R$ 74.250 (decisão da 430ª reunião) → pedido não provido por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=7710s)
+- **RD 446 (2018-06-29)**, 14 · relator **Mário Povia** · Recurso: multa de R$ 50.395,80 (certidão, controle de acesso, seguro) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-L7gcXUMaxY&t=2938s)
+- **RD 446 (2018-06-29)**, 15 · relator **Mário Povia** · Pedido de reconsideração: multa de R$ 70 mil e desocupação de área no porto do Rio Grande → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-L7gcXUMaxY&t=3098s)
+- **RD 446 (2018-06-29)**, 25 · relator **Francisval Mendes** · Recurso hierárquico impróprio contra decisão monocrática (processo transitado em julgado) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-L7gcXUMaxY&t=5094s)
+- **RD 447 (2018-08-09)**, 12 · relator **Mário Povia** · Pedido de reconsideração da Res. 6054 (indeferimento de autorização especial para operar os berços 7 e 8 do TUP Pecém) → provido em parte, unânime: autorização especial por 60 dias (relator propôs 30; ajustado a
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=3636s)
+- **RD 447 (2018-08-09)**, 19 · relator **Francisval Mendes** · Recurso contra arquivamento de denúncia na Ouvidoria (sobre-estadia de contêineres/demurrage em importação de 2011) → aprovado, unânime: prescrição, processo extinto; fiscalização determinada sobre Asia Shipp
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=6642s)
+- **RD 447 (2018-08-09)**, 20 · relator **Francisval Mendes** · Pedido de reconsideração da Res. 5834 (sanção) → negado provimento, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=7619s)
+- **RD 447 (2018-08-09)**, 21 · relator **None** · Recurso administrativo com pedido de vista de Francisval Mendes; voto-vista não apresentado → não deliberado (vista mantida)
+  - votos: Francisval: vista · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=7782s)
+- **RD 447 (2018-08-09)**, 22 · relator **Francisval Mendes** · Pedido de reconsideração do Acórdão 52/2017 (movimentar carga fora do perfil autorizado) → não conhecido; recebido como direito de petição e negado, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=7810s)
+- **RD 448 (2018-08-31)**, 1 · relator **Mário Povia** · Pedido de reconsideração (processo com pedido de vista de Adalberto Tokarski) → adiado (vista pendente; voto-vista não proferido)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=33s)
+- **RD 448 (2018-08-31)**, 5 · relator **Mário Povia** · Recurso administrativo com pedido de reconsideração contra decisão da ROD 442 que decidiu pelo não ingresso da ANTAQ em ações judiciais sobre cobrança → aprovado (unânime): recurso conhecido e improvido
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=682s)
+- **RD 448 (2018-08-31)**, 13 · relator **Francisval Mendes** · Recurso voluntário com medida cautelar (vista de Adalberto Tokarski) → adiado (vista pendente)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=3440s)
+- **RD 448 (2018-08-31)**, 14 · relator **Francisval Mendes** · Pedido de reconsideração de multa de R$ 87.500 por não adaptar termo de autorização do TUP → aprovado (unânime): reconsideração negada
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=3472s)
+- **RD 448 (2018-08-31)**, 15 · relator **Francisval Mendes** · Pedido de reconsideração (vista de Adalberto Tokarski) → adiado (vista pendente)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=3729s)
+- **RD 448 (2018-08-31)**, 16 · relator **Francisval Mendes** · Pedido de reconsideração de multa de R$ 31.500 por patrimônio líquido inferior ao mínimo (RN 2510) → aprovado (unânime): multa convertida em advertência
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=3746s)
+- **RD 448 (2018-08-31)**, 17 · relator **Francisval Mendes** · Pedido de revisão (vista de Adalberto Tokarski) → adiado (vista pendente)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=4142s)
+- **RD 448 (2018-08-31)**, 18 · relator **Francisval Mendes** · Revisão de decisão (vista de Adalberto Tokarski) → adiado (vista pendente)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=4158s)
+- **RD 449 (2018-09-25)**, 1 · relator **Mário Povia** · Pedido de reconsideração contra a Resolução 5754 (multa de R$ 140 mil por descumprir determinação da Resolução 4159 e prazo de 60 dias para desocupar  → aprovado por maioria (nega provimento); Adalberto Tokarski vencido
+  - votos: Mário: relator; Adalberto: vencido; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=40s)
+- **RD 449 (2018-09-25)**, 6 · relator **Francisval Mendes** · Pedido de reconsideração; prorrogação do pedido de vista de Adalberto Tokarski (em bloco com itens 7, 8 e 10) → prorrogação de vista aprovada
+  - votos: Adalberto: outro; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=847s)
+- **RD 449 (2018-09-25)**, 18 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 126 mil por ocupar terminal açucareiro sem licitação → aprovado por unanimidade (nega provimento)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=2271s)
+- **RD 449 (2018-09-25)**, 19 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 168 mil por ocupar área no porto de Estrela sem contrato válido → aprovado por unanimidade (nega provimento)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=2501s)
+- **RD 449 (2018-09-25)**, 20 · relator **Mário Povia** · Pedido de reconsideração contra multa de R$ 140 mil por ocupação de armazéns no porto de Porto Alegre → aprovado por unanimidade (nega provimento)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=2788s)
+- **RD 449 (2018-09-25)**, 21 · relator **Mário Povia** · Pedido de reconsideração contra a Resolução 5950 (advertência e multas por cobranças e ocupações irregulares no porto de Manaus) → aprovado por unanimidade (provimento parcial)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=3053s)
+- **RD 449 (2018-09-25)**, 22 · relator **Mário Povia** · Pedido de revisão do Acórdão 57/2018 (multa de R$ 360 mil, ETC em Caracaraí-RR) → aprovado por unanimidade (não conhecido)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=3436s)
+- **RD 449 (2018-09-25)**, 34 · relator **Francisval Mendes** · Recurso voluntário: multa de R$ 71.875 por atraso no cronograma de implantação de TUP (Presidente Kennedy-ES) → aprovado por unanimidade (nega provimento)
+  - votos: Mário: acompanha; Adalberto: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=8611s)
+- **RD 449 (2018-09-25)**, 35 · relator **Francisval Mendes** · Pedido de reconsideração da Resolução 6048 (multa de R$ 1 milhão por contrato de passagem 595/2012 irregular) → aprovado por unanimidade (nega provimento)
+  - votos: Mário: acompanha; Adalberto: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=9302s)
+- **RD 449 (2018-09-25)**, 36 · relator **Francisval Mendes** · Recurso hierárquico impróprio contra multa de R$ 27.500 → aprovado por unanimidade (não conhecido)
+  - votos: Mário: acompanha; Adalberto: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=9460s)
+- **RD 449 (2018-09-25)**, 37 · relator **Francisval Mendes** · Retificação de decisão (Res. 5963): pedido de revisão de dívida ativa prejudicado sem extinguir o processo → aprovado por unanimidade
+  - votos: Mário: acompanha; Adalberto: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=9670s)
+- **RD 450 (2018-10-10)**, 1 · relator **Francisval Mendes** · Pedido de reconsideração contra multa de R$ 157.500 (Res. 5960, 439ª RO) por descumprimento contratual (não construção de píer previsto no arrendament → aprovado (unânime)
+  - votos: Francisval: relator; Mário: revisor_acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=37s)
+- **RD 450 (2018-10-10)**, 9 · relator **Francisval Mendes** · Pedido de reconsideração contra Res. 6144 que aprovou reajuste (IGP-M negativo) do contrato de arrendamento do Terminal de Contêineres de Paranaguá → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=3520s)
+- **RD 450 (2018-10-10)**, 12 · relator **Francisval Mendes** · Pedido de revisão de multa de R$ 78.750 por não manter índice de liquidez geral exigido no edital do arrendamento → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=4542s)
+- **RD 450 (2018-10-10)**, 25 · relator **Mário Povia** · Pedido de reconsideração contra Res. 3082 (sem indenização/lucros cessantes à Fertisanta pela rescisão de contratos com a CDI) → aprovado (unânime)
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=11178s)
+- **RD 450 (2018-10-10)**, 31 · relator **Francisval Mendes** · Recurso contra multa de R$ 87.500 por atraso superior a 20% no cronograma de obras de TUP (contrato de adesão 9/2015) → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=14185s)
+- **RD 451 (2018-10-31)**, 3 · relator **Mário Povia** · Pedido de reconsideração do Acórdão 82/2017 (multas de R$ 17.500 por não enviar documentos e R$ 175 mil por permitir uso da IP4 São Raimundo, Manaus,  → negado provimento, por maioria; vencido Tokarski
+  - votos: Mário: relator; Francisval: revisor_acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=285s)
+- **RD 451 (2018-10-31)**, 5 · relator **Francisval Mendes** · Recurso voluntário com cautelar (Sagres) e embargos (SUPRG) contra a Res. 4834/2016 (retomada de área); contrato de transição no Porto Novo → provimento parcial, unânime
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=813s)
+- **RD 451 (2018-10-31)**, 6 · relator **Francisval Mendes** · Recurso contra negativa da GAF de certificado de liberação de carga prescrita (CLCP) para módulos de caldeira no navio BBC → negado provimento, por maioria; vencido Tokarski (voto-vista)
+  - votos: Francisval: relator; Adalberto: vencido; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=1360s)
+- **RD 451 (2018-10-31)**, 22 · relator **Mário Povia** · Pedido de reconsideração do Acórdão 66/2018 (multa de R$ 300 mil por cobrança de armazenagem adicional ao exportador, Res. 2389) → não concluído: pedido de vista de Tokarski
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=4170s)
+- **RD 451 (2018-10-31)**, 29 · relator **Francisval Mendes** · Pedido de reconsideração com vista de Tokarski; voto-vista não apresentado → não deliberado (vista mantida)
+  - votos: Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=6041s)
+- **RD 451 (2018-10-31)**, 30 · relator **Francisval Mendes** · Pedido de reconsideração do Acórdão 67/2018 → não concluído: pedido de vista de Tokarski
+  - votos: Francisval: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=6057s)
+- **RD 451 (2018-10-31)**, 31 · relator **Francisval Mendes** · Pedido de reconsideração da Res. 6007 (contrato de passagem 25/2015 irregular) → provimento parcial, unânime: multa reduzida para R$ 181.182,38
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=6236s)
+- **RD 452 (2018-11-14)**, 7 · relator **Mário Povia** · Pedido de reconsideração (auto de infração 2713-8) (vista de Tokarski) → aprovado por maioria; voto-vista vencido
+  - votos: Mário: relator; Adalberto: vencido; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=530s)
+- **RD 452 (2018-11-14)**, 8 · relator **Francisval Mendes** · Pedido de reconsideração (auto de infração 2712) (vista de Tokarski) → aprovado por maioria; voto-vista vencido
+  - votos: Francisval: relator; Adalberto: vencido; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=609s)
+- **RD 452 (2018-11-14)**, 10 · relator **Francisval Mendes** · Pedido de reconsideração (vista de Tokarski prorrogada) → adiado: vista prorrogada
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=919s)
+- **RD 452 (2018-11-14)**, 19 · relator **Francisval Mendes** · Pedido de reconsideração (Resolução 5967) → adiado: pedido de vista de Tokarski
+  - votos: Francisval: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=3656s)
+- **RD 452 (2018-11-14)**, 20 · relator **Francisval Mendes** · Pedido de reconsideração (Resolução 5965), correção de CNPJ → adiado: pedido de vista de Tokarski
+  - votos: Francisval: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=3838s)
 - **RD 454 (2018-12-20)**, 10 · relator **Mário Povia** · Pedido de reconsideração contra a Resolução 5742 (multa de R$ 1 milhão por permitir ocupação de área sem licitação por abastecedora de combustíveis) → aprovado por unanimidade (recurso não conhecido)
   - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=1581s)
 - **RD 454 (2018-12-20)**, 11 · relator **Mário Povia** · Pedido de reconsideração contra a Resolução 6052 (multa de R$ 1 milhão por não regularizar ocupação de áreas e não levantar instalações operacionais e → aprovado por unanimidade (recurso conhecido e não provido)

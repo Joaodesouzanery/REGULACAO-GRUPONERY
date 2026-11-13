@@ -1,0 +1,112 @@
+{
+ "meta": {
+  "video_id": "9zRuHuucZos",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "participativa",
+  "numero": null,
+  "titulo": "Reunião Participativa Presencial - Manaus/AM - Agenda Regulatória 2025-2028 (navegação interior)",
+  "data": "2024-10-25",
+  "local": "Manaus/AM (híbrido; DG remoto)",
+  "objeto": "Tomada de subsídios para a Agenda Regulatória 2025-2028 e agenda de ARR 2023-2026, temas de navegação interior",
+  "processo": null,
+  "tema": [
+   "agenda regulatória",
+   "navegação interior",
+   "fiscalização e sanções",
+   "participação social",
+   "hidrovias"
+  ],
+  "presidiu": "José Renato Fialho (superintendente de regulação)",
+  "diretores_presentes": [
+   "Eduardo Nery"
+  ],
+  "participantes_externos": [
+   "ADECON (Adalberto Tokarski, ex-diretor-geral)",
+   "Dodó Carvalho",
+   "FIEAM",
+   "Irani Bertolini",
+   "Melo Navegação",
+   "transportadores do Madeira"
+  ],
+  "resumo": "Terceira reunião participativa da agenda regulatória, focada em navegação interior, com o diretor-geral Eduardo Nery remoto. Adalberto Tokarski, agora na iniciativa privada, falou sobre a revisão da RN 13 e alertou contra endurecimento. Nery explicou a revisão dos valores de multa irrisórios e citou o programa Naveg Simples e a demora da SPU como gargalo. Transportadores levantaram o pedágio da hidrovia do Madeira.",
+  "posicoes": [
+   {
+    "quem": "Adalberto Tokarski (ADECON)",
+    "posicao": "revisão da RN 13 não deve endurecer; cuidado com FSRU; ANTAQ deve manter competência em travessias",
+    "ts": "0:53:06"
+   },
+   {
+    "quem": "Dodó Carvalho",
+    "posicao": "atenção aos IP4 e ao transporte de passageiros na Amazônia",
+    "ts": "1:11:59"
+   },
+   {
+    "quem": "transportador do Madeira",
+    "posicao": "pedágio deve ser pago pelo embarcador; calado de 3 m insuficiente",
+    "ts": "1:52:00"
+   }
+  ],
+  "encaminhamentos": [
+   "tomada de subsídios e aprovação da agenda final prevista para 15/12",
+   "reuniões em Manaus sobre a concessão do Madeira com o relator Lima Filho"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Eduardo Nery",
+   "ts": "0:05:16",
+   "tema": [
+    "agenda regulatória",
+    "navegação interior",
+    "participação social"
+   ],
+   "tipo": "abertura",
+   "resumo": "Explicou que pela primeira vez a agenda é discutida em reuniões regionais e que o papel era ouvir.",
+   "trecho": "o nosso papel hoje aqui é muito mais de escutar do que de falar né ouvir dos Senhores",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Eduardo Nery",
+   "ts": "1:09:17",
+   "tema": [
+    "fiscalização e sanções",
+    "navegação interior"
+   ],
+   "tipo": "esclarecimento",
+   "resumo": "Explicou que os valores baixos de multa não alcançam empresas maiores e que a revisão busca dosimetria compatível, sem viés arrecadatório.",
+   "trecho": "não aplicar multa pela multa só a multa não tem viés arrecadatório nada disso",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Eduardo Nery",
+   "ts": "1:41:31",
+   "tema": [
+    "navegação interior",
+    "regulação normativa"
+   ],
+   "tipo": "resposta",
+   "resumo": "Citou o programa Naveg Simples para eliminar burocracias e a demora da SPU em certidões, que leva a autorizações emergenciais a TUPs.",
+   "trecho": "atualmente a Ant tá com o o chamado programa naveg simples que é justamente a gente tentar eh tornar eliminar todas as burocracias",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Eduardo Nery",
+   "ts": "1:57:37",
+   "tema": [
+    "agenda regulatória"
+   ],
+   "tipo": "encerramento",
+   "resumo": "Encerrou elogiando a condução das três reuniões e dizendo que a rodada mudou a forma de elaborar a agenda.",
+   "trecho": "acabou acabou que eu falei até mais aqui do que eu gostaria né o objetivo principal aqui era ouvi-los",
+   "confianca": "alta"
+  }
+ ],
+ "limites_da_analise": [
+  "Adalberto Tokarski falou como ex-diretor (ADECON), não registrado como fala de diretor",
+  "Fala sobre pedágio do Madeira (1:54) atribuída a servidor, não ao DG",
+  "A análise cobre janelas do resumo, não a sessão inteira"
+ ]
+}

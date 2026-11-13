@@ -1,5 +1,97 @@
 # Itens do tema «tarifas_portuarias» (todos os diretores)
 
+- **RD 377 (2015-01-28)**, 2 · relator **Mário Povia** · Recurso hierárquico impróprio contra o Acórdão 61/2014 (adicional de 10% sobre a tabela tarifária da CDP — rubrica de fundo de investimentos; efeitos  → aprovado por unanimidade: recurso não conhecido; autos à SEP/PR
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dwIgGIN1xJs&t=79s)
+- **RD 378 (2015-02-12)**, 11 · relator **Fernando Fonseca** · Revisão/reestruturação tarifária do porto do Recife → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=3487s)
+- **RD 382 (2015-04-15)**, 41 · relator **Fernando Fonseca** · Processo administrativo contencioso: cobrança indevida pela Guarda Portuária pelo acesso terrestre de pessoas e veículos (Portos do Rio e Itaguaí) → aprovado por unanimidade: multa
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=13419s)
+- **RD 384 (2015-05-20)**, EP1 · relator **Mário Povia** · Referendo da publicação das tabelas tarifárias reajustadas da CDP com supressão da tarifa de infraestrutura de acesso aquaviário para a navegação inte → aprovado por maioria (Fernando Fonseca vencido)
+  - votos: Mário: relator; Fernando: vencido; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=6798s)
+- **RD 385 (2015-06-01)**, 53 · relator **Mário Povia** · Referendo da Res. 4148: republicação da tabela tarifária por erro material (itens de uso temporário) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=22759s)
+- **RD 387 (2015-07-29)**, 18 · relator **Fernando Fonseca** · Recurso com pedido de efeito suspensivo contra decisão da 355ª reunião (Res. 3270): tabela 4 de armazenagem cobrada em desacordo com a Res. 2381 → aprovado conforme voto do relator (unânime)
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=10483s)
+- **RD 390 (2015-09)**, 16 · relator **Mário Povia** · Revisão/correção de tabelas tarifárias dos portos do Rio, Itaguaí, Niterói e Angra (reajuste médio de 31,4%) → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=3640s)
+- **RD 390 (2015-09)**, 49 · relator **Adalberto Tokarski** · Consulta: antecipação de tarifa para reparo do silo vertical do terminal de cereais (Capuaba) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=-1w2e21CSN4&t=13644s)
+- **RD 392 (2015-10-22)**, 16 · relator **Fernando Fonseca** · Processo sancionador: cobrança de armazenagem extra ao exportador por omissão de navio (rolagem de carga) → aprovado: multa de R$ 87.500 + devolução em 30 dias (faturas de cerca de R$ 30 mil)
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-ay9MOhjDtA&t=9442s)
+- **RD 396 (2015-12-17)**, 22 · relator **Fernando Fonseca** · Proposta de norma de movimentação e armazenagem alfandegada de contêineres e carga geral (revisão da Res. 2389; THC/box rate) para audiência pública → voto do relator lido; processo segue em vista de Adalberto Tokarski
+  - votos: Fernando: relator; Adalberto: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=8884s)
+- **RD 398 (2016-02-12)**, 3 · relator **Fernando Fonseca** · Processo administrativo contencioso: não pagamento de tarifa de infraestrutura aquaviária (tabela I) do porto organizado de Porto Alegre → aprovado por maioria o voto-vista de Mário Povia pelo arquivamento; Fernando Fonseca (rela
+  - votos: Fernando: vencido; Mário: revisor_diverge; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=352s)
+- **RD 398 (2016-02-12)**, 7 · relator **Mário Povia** · Rerratificação das tabelas tarifárias de Suape (reajuste médio de 35%) por erro material → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=2601s)
+- **RD 398 (2016-02-12)**, 8 · relator **Mário Povia** · Pedido de impugnação da Resolução 4093 (revisão tarifária de 18 portos organizados) → aprovado por unanimidade: conhece e nega provimento
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=2837s)
+- **RD 399 (2016-03-03)**, 5 · relator **Mário Povia** · Reajuste do teto tarifário da tabela 1 (infraestrutura aquaviária) do porto de São Sebastião → aprovado por unanimidade conforme voto do relator
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=3016s)
+- **RD 403 (2016-04-28)**, 18 · relator **Fernando Fonseca** · Referendo da resolução que homologou item tarifário convencional por carga viva embarcada no porto de Vila do Conde, após naufrágio do navio Haidar → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=83ex6xdeHiw&t=7469s)
+- **RD 412 (2016-11-01)**, 11 · relator **Adalberto Tokarski** · Ajuste de preços do terminal de contêineres de Paranaguá → pedido de vista de Mário Povia; relator não proferiu voto
+  - votos: Adalberto: relator; Mário: vista; Fernando: outro · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=2154s)
+- **RD 412 (2016-11-01)**, 25 · relator **Fernando Fonseca** · Reestruturação tarifária do fornecimento de energia elétrica no porto de Santos (tabela 5, item 2.2) → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=6049s)
+- **RD 416 (2017-02-01)**, 66 · relator **Adalberto Tokarski** · Referendo da Res. 5193: prorrogação até 3/2 do prazo de contribuições sobre estrutura tarifária padronizada dos portos organizados → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=5QSwOSILsGM&t=4633s)
+- **RD 420 (2017-05-09)**, 27 · relator **Mário Povia** · Reajuste da tabela tarifária de infraestrutura do porto de Fortaleza → aprovado (unânime): reajuste linear máximo de 20,98%
+  - votos: Mário: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=6973s)
+- **RD 425 (2017-06-28)**, 1 · relator **Mário Povia** · Denúncia de aumento abusivo de preços no TUP (representação da Usuport ao CADE e denúncia anônima) → aprovado por unanimidade: arquivamento
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=3HkCrrUG18I&t=45s)
+- **RD 427 (2017-08-24)**, 4 · relator **Mário Povia** · Processo administrativo sancionador: cobrança de armazenagem adicional do exportador quando o atraso foi do armador (art. 10 da Res. 2389) → aprovado por maioria (multa de R$ 175 mil); Tokarski vencido
+  - votos: Mário: relator; Francisval: revisor_acompanha; Adalberto: vencido · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=908s)
+- **RD 427 (2017-08-24)**, 11 · relator **Adalberto Tokarski** · PAS com cinco fatos: seguro, certificado de segurança, contratação de EBN não autorizada em apoio portuário, não divulgação de tabela de preços, locom → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=3433s)
+- **RD 424 (2017-08-24)**, 12 · relator **Adalberto Tokarski** · Criação de item tarifário para armazenagem de pás eólicas (Salvador, Aratu) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=jqmO9Gz2tHU&t=3675s)
+- **RD 423 (2017-08-24)**, 19 · relator **Mário Povia** · Denúncia de aumento de preços dos serviços → pedido de vista (diretor não identificado na legenda)
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=T7OiOUOmJDA&t=5380s)
+- **RD 432 (2017-11-17)**, 24 · relator **Mário Povia** · Revisão da cobrança tarifária (item 2.9 da tabela 3) em navios de cruzeiro que atracam em berços públicos do porto do Rio de Janeiro por excesso de de → pedido de vista de Francisval Mendes; julgamento suspenso
+  - votos: Mário: relator; Francisval: vista; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=5862s)
+- **RD 435 (2017-12-21)**, 1 · relator **Francisval Mendes** · Autorização para reajuste de preço / medida cautelar (processo em vista) → pedido de vista; relator não proferiu voto
+  - votos: Mário: vista · [vídeo](https://www.youtube.com/watch?v=8pnMiGBR888&t=34s)
+- **RD 436 (2018-01-25)**, 15 · relator **Mário Povia** · Revisão tarifária: reajuste linear de 15,28% nas tarifas de infraestrutura → aprovado
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=1497s)
+- **RD 436 (2018-01-25)**, 23 · relator **Francisval Mendes** · Consulta sobre tarifa para o modal hidroviário (barcaças) no porto organizado de Santos → aprovado
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=5085s)
+- **RD 436 (2018-01-25)**, 24 · relator **Francisval Mendes** · Inclusão de serviços (bagagem, adicional overnight, valor mínimo operacional) na tabela do terminal de passageiros do porto de Salvador, temporada 201 → aprovado
+  - votos: Francisval: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=5962s)
+- **RD 437 (2018-02-15)**, 17 · relator **Mário Povia** · Denúncia de abusividade da cobrança da taxa de inspeção não invasiva de contêineres (escaneamento) no porto de Vitória → arquivado por unanimidade
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0zgpRZrJ6hw&t=6004s)
+- **RD 442 (2018-05-07)**, 33 · relator **Francisval Mendes** · Reajuste da tarifa do porto organizado de Santos → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=4795s)
+- **RD 442 (2018-05-07)**, 41.1 · relator **Francisval Mendes** · Representações contra reajuste/reestruturação das tarifas do porto de Porto Alegre (Res. 4092 e 4093/2015) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=7969s)
+- **RD 442 (2018-05-07)**, 41.2 · relator **Francisval Mendes** · Representações contra reajuste/reestruturação das tarifas do porto de Porto Alegre (Res. 4092 e 4093/2015) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=7969s)
+- **RD 442 (2018-05-07)**, 41.3 · relator **Francisval Mendes** · Representações contra reajuste/reestruturação das tarifas do porto de Porto Alegre (Res. 4092 e 4093/2015) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=7969s)
+- **RD 25 (extraordinária) (2018-05-11)**, 6 · relator **Fernando Fonseca** · Revisão da Resolução 2.389/2012 (movimentação e armazenagem de contêineres; segregação, THC2/SSE) - pautado de ofício pela Secretaria-Geral → aprovado conforme voto divergente de Francisval Mendes; voto do relator original (Fernando
+  - votos: Francisval: outro; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=PmJmgy9Diw8&t=2815s)
+- **RD 444 (2018-06-07)**, 12 · relator **Francisval Mendes** · Medida cautelar para reajustar preço do serviço de entrega imediata de contêineres (sem reajuste desde 2006) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=1pfiJgrovVc&t=2539s)
+- **RD 445 (2018-06-20)**, 17 · relator **Mário Povia** · Denúncia de reajuste/alteração da tabela de preços (armazenagem, transferência para retroportuários, energia de reefers) no porto de Suape → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=4132s)
+- **RD 445 (2018-06-20)**, 32 · relator **Adalberto Tokarski** · Escaneamento de contêineres: alteração da data da audiência pública sobre cobrança pela inspeção não invasiva (jogos da Copa) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=9528s)
+- **RD 448 (2018-08-31)**, 5 · relator **Mário Povia** · Recurso administrativo com pedido de reconsideração contra decisão da ROD 442 que decidiu pelo não ingresso da ANTAQ em ações judiciais sobre cobrança → aprovado (unânime): recurso conhecido e improvido
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=682s)
+- **RD 448 (2018-08-31)**, 31 · relator **Adalberto Tokarski** · Processo sancionador: cobrança indevida de armazenagem adicional (detention) após rolagem de carga por culpa do armador (art. 10 da Resolução 2389) → sem desfecho claro na legenda (aparente pedido de vista/sobrestamento por Mário Povia)
+  - votos: Adalberto: relator; Mário: outro · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=6297s)
+- **RD 449 (2018-09-25)**, 26 · relator **Mário Povia** · Arbitragem regulatória e cautelar: isenção tarifária em baldeação/transbordo (47 descargas, ~R$ 17,4 mil) → aprovado por unanimidade (arquivamento)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=4277s)
+- **RD 449 (2018-09-25)**, 52 · relator **Francisval Mendes** · Arbitragem sobre tarifas (tabelas 1 e 3) em operações offshore no porto de Angra dos Reis → aprovado por unanimidade (perda de objeto)
+  - votos: Mário: acompanha; Adalberto: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=11196s)
+- **RD 449 (2018-09-25)**, 58 · relator **Francisval Mendes** · Proposta de norma de estrutura tarifária padronizada das administrações portuárias → aprovado por unanimidade (submetida a audiência pública por 30 dias)
+  - votos: Mário: acompanha; Adalberto: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=13336s)
+- **RD 449 (2018-09-25)**, EP-1 · relator **Adalberto Tokarski** · Extrapauta: revisão tarifária do porto de Itajaí (+18,7% na receita tarifária) → aprovado por unanimidade
+  - votos: Mário: acompanha; Adalberto: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=14662s)
+- **RD 450 (2018-10-10)**, 22 · relator **Mário Povia** · Compartilhamento de dados de pesagem de contêineres (VGM/SOLAS, Portaria DPC 164/2016) → pedido de vista (Adalberto Tokarski); julgamento suspenso
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=8915s)
+- **RD 451 (2018-10-31)**, 65 · relator **Mário Povia** · Prorrogação por 15 dias da Audiência Pública 12/2018 (sistema tarifário das autoridades portuárias) → aprovado, unânime
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=10006s)
 - **RD 454 (2018-12-20)**, 45 · relator **Adalberto Tokarski** · Reajuste tarifário do Terminal Salineiro de Areia Branca (TERSAB) → aprovado por unanimidade
   - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=14180s)
 - **RD 455 (2019-01-31)**, 77 · relator **Francisval Mendes** · Referendo de medida cautelar (Resolução 6650): majoração do THC2/SSE (segregação e entrega de contêineres) em descumprimento da Resolução 6158 → referendado por unanimidade

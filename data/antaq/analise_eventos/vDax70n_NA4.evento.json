@@ -1,0 +1,91 @@
+{
+ "meta": {
+  "video_id": "vDax70n_NA4",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "audiencia",
+  "numero": "04/2020",
+  "titulo": "Audiência Pública nº 04/2020 - antecipação de receitas das administrações portuárias",
+  "data": "2020-03-09",
+  "local": "Brasília/DF (presencial)",
+  "objeto": "Proposta de norma que regulamenta os arts. 42-B e 42-C do Decreto 8.033/2013 (redação do Decreto 9.048/2017): investimentos fora da área arrendada e antecipação de receitas de arrendamento pelas administrações portuárias",
+  "processo": null,
+  "tema": [
+   "regulação normativa",
+   "arrendamentos portuários",
+   "autoridades portuárias",
+   "antecipação de receitas",
+   "fiscalização e sanções"
+  ],
+  "presidiu": "presidente da sessão (nome ilegível na legenda; provavelmente servidor da ANTAQ)",
+  "diretores_presentes": [
+   "Adalberto Tokarski"
+  ],
+  "participantes_externos": [
+   "ABTL (Associação Brasileira de Terminais de Líquidos)",
+   "ATP (Associação de Terminais Portuários Privados), por advogada do escritório Lourenço Ribeiro"
+  ],
+  "resumo": "Audiência presencial sobre a norma de antecipação de receitas e investimentos na infraestrutura comum dos portos organizados. O diretor (identificado como 'doutor Alberto', provavelmente Adalberto Tokarski) abriu defendendo a flexibilização do Decreto 9.048. A ABTL pediu contratação direta de obras pelos operadores e prazo para manifestação da autoridade portuária; a ATP pediu conceito de usuário, proporcionalidade da multa de até R$ 1 milhão e possibilidade de iniciativa do interessado. O diretor respondeu que o decreto não permite contratação direta e disse considerar a multa exorbitante.",
+  "posicoes": [
+   {
+    "quem": "ABTL",
+    "posicao": "contratação direta das obras pelos operadores interessados e prazo para manifestação da autoridade portuária",
+    "ts": "0:04:41"
+   },
+   {
+    "quem": "ATP (advogada Milena)",
+    "posicao": "incluir conceito de usuário (TUP não é usuário), rever multa de até R$ 1 milhão por desproporcional, permitir que o interessado inicie o processo e prever participação do poder concedente",
+    "ts": "0:11:46"
+   }
+  ],
+  "encaminhamentos": [
+   "Contribuições por escrito no sítio da ANTAQ até 25/03/2020",
+   "Diretor anunciou análise de readequação da multa com a Superintendência de Fiscalização"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Adalberto Tokarski",
+   "ts": "0:01:36",
+   "tema": [
+    "regulação normativa",
+    "arrendamentos portuários"
+   ],
+   "tipo": "abertura",
+   "resumo": "Abre a audiência dizendo ter defendido, quando esteve com o diretor-geral, a flexibilização e desburocratização do Decreto 9.048.",
+   "trecho": "pública até porque tá regulamentando o decreto 9048 e eu fico à vontade de dizer o seguinte no decreto 948 eu fui um lado defensor de flexibilizar de tirar burocracia",
+   "confianca": "media"
+  },
+  {
+   "diretor": "Adalberto Tokarski",
+   "ts": "0:09:31",
+   "tema": [
+    "regulação normativa",
+    "autoridades portuárias"
+   ],
+   "tipo": "resposta",
+   "resumo": "Responde à ABTL que o decreto não permite contratação direta de obras pelos operadores; houve só a vitória do pagamento direto à empreiteira.",
+   "trecho": "o decreto não permite preparar o quarto do 42b para o quarto de 42 e de contratação sem ser pela missão postagem então a gente não não pode botar na norma",
+   "confianca": "baixa"
+  },
+  {
+   "diretor": "Adalberto Tokarski",
+   "ts": "0:41:13",
+   "tema": [
+    "fiscalização e sanções"
+   ],
+   "tipo": "crítica",
+   "resumo": "Considera a multa máxima proposta exorbitante e diz ter pedido à Superintendência de Fiscalização a readequação.",
+   "trecho": "para mim na minha opinião a nível de razoabilidade é extremamente exorbitante e já tinha solicitado para superintendência de fiscalização a analisar a readequação",
+   "confianca": "media"
+  }
+ ],
+ "limites_da_analise": [
+  "Falante do diretor inferido pela apresentação ('doutor Alberto nosso diretor', provavelmente Adalberto Tokarski) e pelo relato de ter presidido o CAP da CDP; legenda não identifica falantes.",
+  "Resposta sobre contratação direta (0:09) pode ser de servidor da mesa; confiança baixa.",
+  "Nome de quem presidiu ilegível ('protejo presidente').",
+  "Análise cobre só as janelas do resumo (0:00-0:15, 0:17-0:20, 0:38-0:43)."
+ ]
+}

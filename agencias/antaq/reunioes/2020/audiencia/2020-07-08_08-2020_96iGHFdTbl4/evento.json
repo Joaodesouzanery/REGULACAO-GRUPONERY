@@ -1,0 +1,65 @@
+{
+ "meta": {
+  "video_id": "96iGHFdTbl4",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "audiencia",
+  "numero": "08/2020",
+  "titulo": "Audiência Pública nº 08/2020 - arrendamento MUC01 (trigo), Porto de Fortaleza",
+  "data": "2020-07-08",
+  "local": "virtual",
+  "objeto": "Licitação de arrendamento de terminal de granéis sólidos vegetais (trigo) MUC01 no porto organizado de Fortaleza",
+  "processo": null,
+  "tema": [
+   "arrendamentos e leilões portuários",
+   "granéis sólidos vegetais"
+  ],
+  "presidiu": "Bruno Pinheiro (presidente da Comissão Permanente de Licitação)",
+  "diretores_presentes": [
+   "Adalberto Tokarski"
+  ],
+  "participantes_externos": [
+   "EPL",
+   "SNP/Ministério da Infraestrutura",
+   "PPI",
+   "Companhia Docas do Ceará",
+   "J. Macedo"
+  ],
+  "resumo": "Audiência virtual sobre o arrendamento MUC01 (trigo) em Fortaleza, com investimento previsto de cerca de R$ 56 milhões. O diretor Adalberto Tokarski fez a abertura e deixou a sessão antes do fim. Participantes questionaram obrigações de investimento, assimetria concorrencial e expedição rodoviária. A comissão destacou o alcance maior das audiências virtuais.",
+  "posicoes": [
+   {
+    "quem": "participante (operador local)",
+    "posicao": "dúvidas sobre investimentos obrigatórios, assimetria concorrencial e expedição rodoviária autônoma",
+    "ts": "1:17:14"
+   },
+   {
+    "quem": "J. Macedo",
+    "posicao": "apoio ao processo e à modernização",
+    "ts": "1:33:08"
+   }
+  ],
+  "encaminhamentos": [
+   "contribuições pelo sítio até 22/07/2020"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Adalberto Tokarski",
+   "ts": "0:01:53",
+   "tema": [
+    "arrendamentos e leilões portuários"
+   ],
+   "tipo": "abertura",
+   "resumo": "Abriu destacando que a audiência virtual permite não paralisar o processo e oferecer áreas à iniciativa privada.",
+   "trecho": "já já estão ficando bem craque nisso aí isso tudo porque é para exatamente o processo não parar",
+   "confianca": "media"
+  }
+ ],
+ "limites_da_analise": [
+  "Nome do diretor aparece como 'alberto a caixa'/'adalberto' na legenda; identificado como Adalberto Tokarski por contexto",
+  "O diretor saiu antes do encerramento ('está em outra reunião')",
+  "A análise cobre janelas do resumo, não a sessão inteira"
+ ]
+}

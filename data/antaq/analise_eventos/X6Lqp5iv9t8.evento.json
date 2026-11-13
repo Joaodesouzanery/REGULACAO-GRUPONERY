@@ -1,0 +1,109 @@
+{
+ "meta": {
+  "video_id": "X6Lqp5iv9t8",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "audiencia",
+  "numero": "07/2019",
+  "titulo": "Audiência Pública nº 07/2019",
+  "data": "2019-09-30",
+  "local": "Rio de Janeiro/RJ (presencial; local inferido)",
+  "objeto": "Alteração da Resolução Normativa nº 01-ANTAQ/2015: atividades enquadradas como obras de engenharia na navegação de apoio marítimo (afretamento, circularização)",
+  "processo": null,
+  "tema": [
+   "apoio marítimo",
+   "afretamento",
+   "regulação normativa",
+   "petróleo e gás",
+   "agenda regulatória"
+  ],
+  "presidiu": "Sérgio Oliveira (gerente de regulação da navegação marítima)",
+  "diretores_presentes": [
+   "Francisval Mendes",
+   "Adalberto Tokarski"
+  ],
+  "participantes_externos": [
+   "Abeam",
+   "IBP",
+   "Petrobras",
+   "Saipem",
+   "DOF",
+   "Syndarma"
+  ],
+  "resumo": "Audiência sobre critérios para caracterizar embarcações de obras de engenharia offshore (lançamento de dutos, construção submarina) frente ao apoio marítimo e prazos diferenciados de circularização. Abriram os diretores Francisval Mendes e Adalberto Tokarski. Entidades divergiram: IBP e empresas de construção pediram que essas embarcações fiquem fora do apoio marítimo; armadores defenderam o enquadramento. Tokarski defendeu regular só o que é transporte aquaviário e saiu antes do fim.",
+  "posicoes": [
+   {
+    "quem": "IBP (Alexandre Ferreira)",
+    "posicao": "Mudanças cirúrgicas, mas segurança jurídica exige definir embarcações de engenharia fora do apoio marítimo",
+    "ts": "0:25:36"
+   },
+   {
+    "quem": "Saipem (Felipe Cozzi)",
+    "posicao": "Construção offshore não é apoio marítimo; apoiou posições de IBP e Petrobras",
+    "ts": "0:56:43"
+   }
+  ],
+  "encaminhamentos": [
+   "Contribuições pelo sítio até 14/10/2019",
+   "Análise técnica e debate na diretoria; nova audiência se necessário"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Francisval Mendes",
+   "ts": "0:01:41",
+   "tema": [
+    "apoio marítimo",
+    "regulação normativa"
+   ],
+   "tipo": "abertura",
+   "resumo": "Explicou o problema regulatório das embarcações de obras de engenharia e a importância da manifestação da ANTAQ para Marinha e Ministério do Trabalho.",
+   "trecho": "a regulamentação ou não das atividades enquadradas como obras de engenharia adquire especial importância",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Adalberto Tokarski",
+   "ts": "0:06:18",
+   "tema": [
+    "apoio marítimo",
+    "concorrência",
+    "desburocratização"
+   ],
+   "tipo": "abertura",
+   "resumo": "Disse ver a concorrência como salutar e preferir normas que exijam menos, em linha com a simplificação.",
+   "trecho": "eu como diretor da antaq acho bom um time fique na mão de de mais empresas eu acho que a concorrência é salutar",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Adalberto Tokarski",
+   "ts": "0:36:22",
+   "tema": [
+    "apoio marítimo",
+    "regulação normativa"
+   ],
+   "tipo": "esclarecimento",
+   "resumo": "Defendeu que a ANTAQ regule apenas o que é transporte aquaviário e dê um passo maior para encerrar a controvérsia.",
+   "trecho": "nós temos que regular no objeto que é de regulação efetiva da antaq",
+   "confianca": "media"
+  },
+  {
+   "diretor": "Adalberto Tokarski",
+   "ts": "1:12:13",
+   "tema": [
+    "regulação normativa",
+    "participação social"
+   ],
+   "tipo": "outro",
+   "resumo": "Disse que concordou em levar a minuta à audiência sem concordar com seu conteúdo e que, se preciso, se faça nova audiência.",
+   "trecho": "eu concordei que vs uma minuta eu não concordei que aquela minuta tem que ser",
+   "confianca": "media"
+  }
+ ],
+ "limites_da_analise": [
+  "Falas de 0:36 e 1:12 atribuídas a Tokarski por contexto (ao sair, a mesa cita «o diretor adalberto»).",
+  "Local não citado nas janelas.",
+  "Janelas do resumo, não a sessão inteira."
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "meta": {
+  "video_id": "qcykJYGWIXg",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "audiencia",
+  "numero": "10/2019",
+  "titulo": "Audiência Pública nº 10/2019 - afretamento na navegação interior",
+  "data": "2019-10-25",
+  "local": "Brasília/DF",
+  "objeto": "Proposta de norma de procedimentos e critérios para afretamento de embarcação na navegação interior (revisão da Resolução 1.864/2010)",
+  "processo": null,
+  "tema": [
+   "navegação interior",
+   "afretamento",
+   "regulação normativa",
+   "hidrovias"
+  ],
+  "presidiu": "Patrícia Gravina (Gerente de Regulação da Navegação Interior)",
+  "diretores_presentes": [
+   "Francisval Mendes",
+   "Adalberto Tokarski"
+  ],
+  "participantes_externos": [
+   "Sinaval",
+   "Sindarpa"
+  ],
+  "resumo": "Audiência sobre nova norma de afretamento na navegação interior, com circularização por sistema eletrônico. Sinaval questionou a circularização diante da construção rápida de barcaças e sugeriu consulta a estaleiros. Técnicos sugeriram prazos mínimos e máximos por segmento. Diretores falaram na abertura e no fechamento.",
+  "posicoes": [
+   {
+    "quem": "Sinaval",
+    "posicao": "Circularização deveria considerar a construção rápida de barcaças no Brasil, consultando estaleiros",
+    "ts": "0:08:44"
+   }
+  ],
+  "encaminhamentos": [
+   "Consulta pública até 04/11/2019"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Francisval Mendes",
+   "ts": "0:02:33",
+   "tema": [
+    "navegação interior",
+    "afretamento"
+   ],
+   "tipo": "abertura",
+   "resumo": "Defendeu a navegação interior como eficiente e sustentável e apresentou a proposta como desburocratização da circularização.",
+   "trecho": "a proposta visa dar maior transparência ao processo de circularização",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Adalberto Tokarski",
+   "ts": "0:04:04",
+   "tema": [
+    "navegação interior",
+    "afretamento"
+   ],
+   "tipo": "abertura",
+   "resumo": "Afirmou que a norma ordena para a navegação interior o que a ANTAQ já faz na marítima.",
+   "trecho": "ela vem no sentido de ordenar é essa essa proposição a da normativa ordenar algo que a gente já faz muito eficiente pra navegação marítima",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Adalberto Tokarski",
+   "ts": "1:10:39",
+   "tema": [
+    "navegação interior",
+    "afretamento",
+    "hidrovias"
+   ],
+   "tipo": "encerramento",
+   "resumo": "Sugeriu pensar proteção para fomentar construção de frota nacional, citando hidrovia do Paraguai.",
+   "trecho": "eu acho que a gente pode pensar fora da caixa",
+   "confianca": "baixa"
+  }
+ ],
+ "limites_da_analise": [
+  "Falante de 1:09 inferido por contexto (tema hidroviário, menção a Rebelo e Fábio)",
+  "Análise cobre só janelas do resumo"
+ ]
+}

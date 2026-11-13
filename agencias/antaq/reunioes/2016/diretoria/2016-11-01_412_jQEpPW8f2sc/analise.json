@@ -1,0 +1,1342 @@
+{
+ "meta": {
+  "video_id": "jQEpPW8f2sc",
+  "fonte": "legenda automática do YouTube; ts tirados de data/transcricoes/jQEpPW8f2sc.json; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "412",
+  "data": "2016-11-01",
+  "formato": "presencial (sessão pública transmitida)",
+  "presidente_da_sessao": "Adalberto Tokarski (Diretor-Geral)",
+  "diretores_presentes": [
+   "Adalberto Tokarski",
+   "Fernando Fonseca",
+   "Mário Povia"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Data pela fala: o relator do referendo do item 38 diz que a reunião ocorre «hoje, dia 1º» de novembro de 2016; o cabeçalho (2017-03-10) é a data de upload.",
+   "Itens 2 e 3: desempates de Mário Povia em processos sobrestados; Tokarski vencido nos dois.",
+   "Item 1: voto-vista de Tokarski reduziu a multa; Povia reviu a posição.",
+   "Vistas de Mário Povia nos itens 11 (TCP) e 17.",
+   "Itens 37, 38, 39 e 55 são referendos; 58 extrapauta; próxima reunião marcada para o dia 10."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:01:04",
+   "processo": "50312.000528/2013 (dígitos incertos)",
+   "interessado": "ArcelorMittal Tubarão Comercial S.A.; Gerdau Açominas; Usiminas",
+   "assunto": "Pedido de reconsideração em processo sancionador (Res. 4.036) — voto-vista",
+   "tema": [
+    "recursos administrativos",
+    "fiscalização e sanções"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade na forma do voto-vista: não provido, multa reduzida para R$ 63.872,19",
+   "resumo_voto": "Voto-vista de Tokarski: diligência mostrou que a dosimetria ignorou a atenuante de primariedade; multa cai de R$ 79.840 para R$ 63.872,19; no mérito nega provimento.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "voto-vista: conhece, nega provimento e reduz a multa",
+     "ts": "0:01:30",
+     "confianca": "alta",
+     "justificativa": "faltava trânsito em julgado para a reincidência; primariedade não considerada na dosimetria"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "revê posição e acompanha o voto-vista",
+     "ts": "0:04:27",
+     "confianca": "alta",
+     "justificativa": "diligência do colega detectou erro da fiscalização"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator; acompanha o voto-vista",
+     "ts": "0:05:00",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:05:08",
+   "processo": "50300.002785/2014 (dígitos incertos)",
+   "interessado": "Governo do Estado da Bahia",
+   "assunto": "Processo administrativo sancionador sobrestado por divergência: não adaptação do contrato de adesão do terminal fluvial de Juazeiro à Lei 12.815 (AI 1265)",
+   "tema": [
+    "fiscalização e sanções",
+    "autorização de TUP",
+    "adaptação de contrato de adesão"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por maioria (2x1): multa de R$ 52.500, vencido Adalberto Tokarski",
+   "resumo_voto": "Desempate de Mário Povia a favor do relator (multa) contra a advertência proposta por Tokarski; opção pelo novo regime não exime de sanção.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator: multa de R$ 52.500 (voto já proferido)",
+     "ts": "0:05:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "advertência (voto já proferido; vencido)",
+     "ts": "0:07:54",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator: multa de R$ 52.500",
+     "ts": "0:06:40",
+     "confianca": "alta",
+     "justificativa": "autoria e materialidade configuradas; adesão posterior não exime de sanções; há precedentes"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:08:31",
+   "processo": "50301.001109/2015 (dígitos incertos)",
+   "interessado": "COMAP - Companhia Municipal de Administração Portuária (Porto do Forno)",
+   "assunto": "Processo administrativo sancionador sobrestado por divergência: contrato de uso temporário com SD Operadora sem anuência da ANTAQ (AI 1502)",
+   "tema": [
+    "fiscalização e sanções",
+    "autoridade portuária",
+    "Porto do Forno"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "relator vencido (2x1): multa de R$ 140 mil e prazo de 30 dias para regularizar",
+   "resumo_voto": "Tokarski (relator) propôs reduzir a multa para R$ 50 mil; Fonseca votou por R$ 140 mil (área técnica e jurídica) e Povia desempatou com Fonseca.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator: multa de R$ 50 mil (vencido)",
+     "ts": "0:08:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "diverge: multa de R$ 140 mil (voto já proferido)",
+     "ts": "0:09:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha Fernando Fonseca: multa de R$ 140 mil e 30 dias para regularizar",
+     "ts": "0:10:30",
+     "confianca": "alta",
+     "justificativa": "segue a área técnica e jurídica e a dosimetria dos autos"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:12:51",
+   "processo": "50300.005705/2016 (dígitos incertos)",
+   "interessado": "Domélia Pereira dos Santos (MEI)",
+   "assunto": "Outorga de autorização como EBN para travessia interestadual no rio São Francisco (Pão de Açúcar-AL / Niterói, Porto da Folha-SE)",
+   "tema": [
+    "navegação e afretamento",
+    "travessias",
+    "outorga de autorização"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Expedição do termo de autorização.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "0:14:10",
+     "confianca": "alta",
+     "justificativa": "pareceres favoráveis"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:14:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "0:14:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:14:54",
+   "processo": "",
+   "interessado": "E. Martins Costa e Cia. Ltda.",
+   "assunto": "Outorga de autorização como EBN de apoio portuário (até 2.000 HP)",
+   "tema": [
+    "navegação e afretamento",
+    "apoio portuário",
+    "outorga de autorização"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Expedição do termo de autorização.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "0:16:02",
+     "confianca": "alta",
+     "justificativa": "pareceres favoráveis"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:16:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "0:16:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "0:16:53",
+   "processo": "50300.008817/2016 (dígitos incertos)",
+   "interessado": "TGE Navegação Offshore Ltda. (grafia incerta)",
+   "assunto": "Renúncia de outorga de finalidade específica (financiamento do FMM) — relatado em conjunto com item 8",
+   "tema": [
+    "navegação e afretamento",
+    "renúncia de outorga",
+    "Fundo da Marinha Mercante"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade, com ciência ao MT e à Receita sugerida por Povia",
+   "resumo_voto": "Extingue a autorização; a extinção não isenta de sanções. Povia sugere dar ciência ao Ministério dos Transportes (gestor do FMM) e à Receita sobre eventual pendência; relator acolhe.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, declara extinta a outorga",
+     "ts": "0:18:00",
+     "confianca": "alta",
+     "justificativa": "renúncia é direito do titular"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator, com sugestão",
+     "ts": "0:19:30",
+     "confianca": "alta",
+     "justificativa": "dar ciência ao MT e à Receita Federal por causa do financiamento do FMM"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "0:19:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "0:16:53",
+   "processo": "50300.009954/2016 (dígitos incertos)",
+   "interessado": "Marno Serviços Técnicos Submarinos Ltda. (grafia incerta)",
+   "assunto": "Renúncia de outorga de apoio portuário e marítimo (em conjunto com item 7)",
+   "tema": [
+    "navegação e afretamento",
+    "renúncia de outorga"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Extingue a autorização por renúncia.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "0:18:00",
+     "confianca": "alta",
+     "justificativa": "renúncia é direito do titular"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:19:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "0:19:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "0:21:07",
+   "processo": "50314.002025/2015 (dígitos incertos)",
+   "interessado": "Lopes e Melo Desembaraço Marítimo Ltda. (grafia incerta), Rio Grande-RS",
+   "assunto": "Processo administrativo sancionador (AI 1745) com proposta de cassação; intimação em endereço divergente do cadastro da Receita",
+   "tema": [
+    "fiscalização e sanções",
+    "processo administrativo / nulidade"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Anula os atos desde a intimação e renova-a no endereço do cadastro da Receita, pessoalmente se preciso, para garantir contraditório e ampla defesa.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, anula a partir da intimação",
+     "ts": "0:25:45",
+     "confianca": "alta",
+     "justificativa": "dúvida sobre a garantia do contraditório; PFA"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "0:26:30",
+     "confianca": "media",
+     "justificativa": "processo volta à instrução; sugere entrega em mãos pelo posto avançado de Rio Grande, por envolver cassação"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:27:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "0:27:46",
+   "processo": "50300.000025/2014 (dígitos incertos)",
+   "interessado": "Samarco Mineração S.A.",
+   "assunto": "Processo administrativo sancionador: repotencialização de equipamentos do terminal sem autorização (AI 9946)",
+   "tema": [
+    "fiscalização e sanções",
+    "autorização de TUP",
+    "ampliação de terminal"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade: auto insubsistente, arquivamento",
+   "resumo_voto": "A empresa comunicou a troca de equipamentos à ANTAQ e nunca teve resposta; não cabe punição.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, insubsistência e arquivamento",
+     "ts": "0:32:30",
+     "confianca": "alta",
+     "justificativa": "empresa informou a ANTAQ, que não esclareceu a necessidade de autorização"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "0:33:30",
+     "confianca": "baixa",
+     "tom": "um diretor (falante incerto) critica dois anos de tramitação: bom senso deveria ter prevalecido desde o início"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:33:40",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "0:35:54",
+   "processo": "50300.000040/2015 (dígitos incertos)",
+   "interessado": "TCP - Terminal de Contêineres de Paranaguá",
+   "assunto": "Ajuste de preços do terminal de contêineres de Paranaguá",
+   "tema": [
+    "tarifas / preços em terminais",
+    "arrendamento em porto organizado",
+    "Porto de Paranaguá"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "pedido de vista de Mário Povia; relator não proferiu voto",
+   "resumo_voto": "Povia pede vista para examinar a questão contratual; relator decide aguardar e consultar a SOG.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, não proferiu voto (aguarda a vista)",
+     "ts": "0:36:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "pede vista",
+     "ts": "0:36:00",
+     "confianca": "media",
+     "justificativa": "quer examinar a questão contratual"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "não votou",
+     "ts": "0:36:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "0:39:27",
+   "processo": "50300.001117/2015 (dígitos incertos)",
+   "interessado": "MOB - Agência Estadual de Transporte e Mobilidade Urbana do Maranhão",
+   "assunto": "Acordo de cooperação técnica ANTAQ–MOB para regulação e fiscalização do transporte aquaviário no Maranhão",
+   "tema": [
+    "institucional",
+    "acordo de cooperação",
+    "fiscalização"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Autoriza o acordo e aprova o plano de trabalho; sem transferência de recursos.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "0:42:40",
+     "confianca": "alta",
+     "justificativa": "troca de dados e aprimoramento técnico"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:43:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "0:43:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "0:43:26",
+   "processo": "50300.000922/2009 (dígitos incertos)",
+   "interessado": "Complexo Industrial Portuário Governador Eraldo Gueiros (Suape)",
+   "assunto": "Recurso administrativo contra multa de R$ 20 mil por não elaborar inventário de bens reversíveis previsto em TAC",
+   "tema": [
+    "recursos administrativos",
+    "fiscalização e sanções",
+    "TAC",
+    "bens reversíveis",
+    "Porto de Suape"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade: conhecido e não provido",
+   "resumo_voto": "Inventário é obrigação realizável e relevante; outros portos fizeram; sem fatos novos.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "0:50:20",
+     "confianca": "alta",
+     "justificativa": "descumprimento do TAC quanto ao inventário; argumentos sem fato novo"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:50:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:50:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "0:51:03",
+   "processo": "50300.000036/2011 (dígitos incertos)",
+   "interessado": "EMAP - Empresa Maranhense de Administração Portuária",
+   "assunto": "Pedido de reconsideração contra multa de R$ 50.625 por bônus a cargos de gerência e diretoria (Res. 4.707, 400ª reunião)",
+   "tema": [
+    "recursos administrativos",
+    "fiscalização e sanções",
+    "autoridade portuária",
+    "Porto do Itaqui"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade: conhecido e não provido",
+   "resumo_voto": "Sem fatos novos; mantida a decisão e a comunicação ao TCU e ao MPF.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "0:59:00",
+     "confianca": "alta",
+     "justificativa": "bônus sem previsão legal; retroatividade penal não se aplica"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:59:20",
+     "confianca": "media",
+     "tom": "Tokarski lembra que a decisão é sobre a diretoria antiga da EMAP, não a atual"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:59:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "0:59:59",
+   "processo": "50300.002528/2014 (dígitos incertos)",
+   "interessado": "não identificado (legenda: «Mauaense»)",
+   "assunto": "Processo administrativo sancionador",
+   "tema": [
+    "fiscalização e sanções"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "pedido de vista de Mário Povia; relator não leu o voto",
+   "resumo_voto": "Relator aceita a vista e admite rever o próprio voto após a diligência.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "pede vista",
+     "ts": "1:00:00",
+     "confianca": "alta",
+     "justificativa": "dúvida pertinente que pede diligência"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, não proferiu voto",
+     "ts": "1:00:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "não votou",
+     "ts": "1:00:20",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "1:00:37",
+   "processo": "50301.001050/2014 (dígitos incertos)",
+   "interessado": "Aliança S.A. Indústria Naval e Empresa de Navegação (grafia incerta)",
+   "assunto": "Processo administrativo sancionador: estaleiro explorado sem autorização (AI 0015, multa sugerida de R$ 350 mil a R$ 500 mil)",
+   "tema": [
+    "fiscalização e sanções",
+    "estaleiro / construção naval",
+    "registro de instalação (RN 13)"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade: auto insubsistente, arquivamento",
+   "resumo_voto": "Estaleiro não movimenta carga nem passageiros, logo não é instalação portuária (art. 2º, III, Lei 12.815); SFC e SOG devem regularizá-lo por registro (RN 13/2016).",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "1:11:00",
+     "confianca": "alta",
+     "justificativa": "não há movimentação de carga ou pessoas"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:11:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:11:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "1:11:30",
+   "processo": "50301.002356/2015 (dígitos incertos)",
+   "interessado": "Município de Armação dos Búzios; denunciante Marina Porto Veleiro",
+   "assunto": "Processo administrativo sancionador: cais público usado para embarque de passageiros de cruzeiros sem autorização (AI 1855), com interdição cautelar e medida judicial",
+   "tema": [
+    "fiscalização e sanções",
+    "TAC",
+    "instalação portuária de turismo",
+    "navegação de passageiros / cruzeiros"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Auto subsistente; oportuniza TAC de até 6 meses para regularizar como IP4 de turismo; suspende a interdição administrativa durante o TAC sem autorizar descumprir a decisão judicial; apurar outras operações para eventual comunicação ao CADE.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, auto subsistente + TAC",
+     "ts": "1:27:00",
+     "confianca": "alta",
+     "justificativa": "regularização preferível; preservar a decisão judicial; possível infração à ordem econômica"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:27:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator, com observação",
+     "ts": "1:28:00",
+     "confianca": "media",
+     "justificativa": "TAC deve prever penalidade alta e prazo máximo de 6 meses, para evitar a dificuldade do ano anterior"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "1:29:15",
+   "processo": "50300.002319/2015 (dígitos incertos)",
+   "interessado": "Transnorte Transportes Aquaviários Ltda.",
+   "assunto": "Outorga de autorização para travessia na Lagoa dos Patos (Rio Grande / São José do Norte)",
+   "tema": [
+    "navegação e afretamento",
+    "travessias",
+    "outorga de autorização"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Expedição da autorização.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "1:30:20",
+     "confianca": "alta",
+     "justificativa": "pareceres favoráveis"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:30:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:30:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "1:30:53",
+   "processo": "50300.000176/2015 (dígitos incertos)",
+   "interessado": "Giro Navegação Ltda.",
+   "assunto": "Outorga de autorização como EBN de apoio portuário (até 2.000 HP)",
+   "tema": [
+    "navegação e afretamento",
+    "apoio portuário",
+    "outorga de autorização"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Expedição da autorização.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "1:31:50",
+     "confianca": "alta",
+     "justificativa": "pareceres favoráveis"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:32:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:32:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "22",
+   "ts": "1:32:14",
+   "processo": "50300.001109/2016 (dígitos incertos)",
+   "interessado": "Netuno (grafia incerta) Serviços Marítimos e Ambientais Ltda.",
+   "assunto": "Outorga de autorização como EBN de apoio portuário (até 2.000 HP)",
+   "tema": [
+    "navegação e afretamento",
+    "apoio portuário",
+    "outorga de autorização"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Expedição da autorização.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "1:33:40",
+     "confianca": "alta",
+     "justificativa": "pareceres favoráveis"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator, com observação",
+     "ts": "1:34:02",
+     "confianca": "alta",
+     "justificativa": "empresa já renunciou antes por causa da exigência de operação contínua; mercado offshore instável; refletir sobre essa regra da norma"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator, com observação",
+     "ts": "1:35:20",
+     "confianca": "media",
+     "justificativa": "é favorável a flexibilizar a exigência de operação contínua (exceto transporte de passageiros); Fonseca teria ficado vencido nesse ponto antes"
+    }
+   ]
+  },
+  {
+   "id": "23",
+   "ts": "1:36:58",
+   "processo": "50300.005602/2016 (dígitos incertos)",
+   "interessado": "Galáxia Marítima Ltda.",
+   "assunto": "Renúncia parcial: extingue a outorga de apoio portuário e mantém a de apoio marítimo",
+   "tema": [
+    "navegação e afretamento",
+    "renúncia de outorga"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Extinção parcial por renúncia, mediante aditivo.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "1:39:30",
+     "confianca": "alta",
+     "justificativa": "renúncia (art. 43, III, Lei 10.233)"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:39:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:39:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "25",
+   "ts": "1:40:49",
+   "processo": "50300.002950/2016 (dígitos incertos)",
+   "interessado": "Codesp - Companhia Docas do Estado de São Paulo",
+   "assunto": "Reestruturação tarifária do fornecimento de energia elétrica no porto de Santos (tabela 5, item 2.2)",
+   "tema": [
+    "tarifas portuárias",
+    "autoridade portuária",
+    "Porto de Santos"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Tarifa passa a cobrar só o serviço da autoridade portuária mais o preço integral da concessionária de energia (repasse do insumo), como já ocorre com a água; ofícios à SEAE e ao MT.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "1:48:30",
+     "confianca": "alta",
+     "justificativa": "energia é insumo e deve ser repassada integralmente; evitar prejuízo da autoridade portuária"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:48:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator, com observação",
+     "ts": "1:49:00",
+     "confianca": "media",
+     "justificativa": "Codesp subsidiou energia por anos; parabeniza a celeridade; ANTAQ deve olhar mais a gestão das Docas"
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "ts": "1:49:39",
+   "processo": "50300.000414/2016 (dígitos incertos)",
+   "interessado": "Hermasa Navegação da Amazônia S.A.; SOPH-RO",
+   "assunto": "Prorrogação ordinária do contrato de arrendamento 96/001 (porto de Porto Velho, transbordo de granéis vegetais) — EVTEA revisão 3",
+   "tema": [
+    "arrendamento em porto organizado",
+    "prorrogação",
+    "EVTEA",
+    "Porto Velho"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova o EVTEA rev. 3 (investimentos de cerca de R$ 11,5 milhões, inclusive recuperação do flutuante; receita unitária de cerca de R$ 11,53/t) e recomenda ao poder concedente a prorrogação.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "2:07:30",
+     "confianca": "alta",
+     "justificativa": "terminais de transbordo fluvial não se comparam aos de grande porte; investimentos garantem competitividade"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:08:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:08:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "28",
+   "ts": "2:09:09",
+   "processo": "50300.005542/2016 (dígitos incertos)",
+   "interessado": "S. Andrei Netto (grafia incerta)",
+   "assunto": "Outorga de autorização como EBN de apoio portuário (até 2.000 HP)",
+   "tema": [
+    "navegação e afretamento",
+    "apoio portuário",
+    "outorga de autorização"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Expedição do termo de autorização.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "2:10:10",
+     "confianca": "alta",
+     "justificativa": "pareceres favoráveis"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:10:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "2:10:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "29",
+   "ts": "2:10:31",
+   "processo": "50300.003112/2016 (dígitos incertos)",
+   "interessado": "W Aroucha (empresário individual)",
+   "assunto": "Outorga de autorização como EBN: passageiros e cargas na navegação interior entre Manaus e Porto Velho",
+   "tema": [
+    "navegação e afretamento",
+    "navegação interior",
+    "outorga de autorização"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Expedição do termo de autorização após saneamento de certidões.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "2:12:15",
+     "confianca": "alta",
+     "justificativa": "pareceres favoráveis"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:12:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "2:12:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "30",
+   "ts": "2:12:35",
+   "processo": "50300.001590/2014 (dígitos incertos)",
+   "interessado": "Itaipava S.A. (grafia incerta)",
+   "assunto": "Outorga de ETC em Manaus-AM (87 mil m², granéis sólidos e carga geral)",
+   "tema": [
+    "autorização de TUP / ETC",
+    "Manaus"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Possibilidade de celebração do contrato de adesão com o MTPA; saneamentos pedidos pela PFA atendidos.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "2:18:20",
+     "confianca": "alta",
+     "justificativa": "exigências da Lei 12.815 e do anúncio público 8/2015 atendidas"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:18:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "2:18:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "31",
+   "ts": "2:18:40",
+   "processo": "50300.000051/2015 (dígitos incertos)",
+   "interessado": "S H de Oliveira Peixoto",
+   "assunto": "Outorga de ETC em Porto Velho-RO (22,2 mil m², carga geral e conteinerizada)",
+   "tema": [
+    "autorização de TUP / ETC",
+    "Porto Velho"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Possibilidade de celebração do contrato de adesão; autos ao MTPA.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "2:21:20",
+     "confianca": "alta",
+     "justificativa": "documentação completa"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:21:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "2:21:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "32",
+   "ts": "2:21:37",
+   "processo": "50300.007477/2016 (dígitos incertos)",
+   "interessado": "Itapoá Terminais Portuários S.A.",
+   "assunto": "Habilitação da ampliação do TUP Itapoá ao REIDI",
+   "tema": [
+    "autorização de TUP",
+    "REIDI / incentivos"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Voto favorável à habilitação; dispensados aditivo e declaração sobre efeito do REIDI em tarifas; autos ao MTPA.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "2:25:30",
+     "confianca": "alta",
+     "justificativa": "requisitos da Portaria 124/2013 atendidos"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:25:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "2:25:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "33",
+   "ts": "2:25:49",
+   "processo": "50300.003242/2016 (dígitos incertos)",
+   "interessado": "Porto do Recife S.A.",
+   "assunto": "Desincorporação de bem da União: guarita sul já demolida sem autorização prévia, por risco de desabamento",
+   "tema": [
+    "bens reversíveis / desincorporação",
+    "autoridade portuária",
+    "Porto do Recife"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Convalida o ato sem penalidade; receita da demolição vai para melhorias; plano de aplicação submetido à ANTAQ.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "2:29:15",
+     "confianca": "alta",
+     "justificativa": "risco iminente justificou a ação imediata"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:29:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "2:29:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "34",
+   "ts": "2:29:27",
+   "processo": "50300.001664/2015 (dígitos incertos)",
+   "interessado": "Administração do Porto de São Francisco do Sul",
+   "assunto": "Desincorporação de veículo (Meriva) com perda total; indenização do seguro de cerca de R$ 30,3 mil",
+   "tema": [
+    "bens reversíveis / desincorporação",
+    "Porto de São Francisco do Sul"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Autoriza a baixa; plano de aplicação da indenização submetido à ANTAQ.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "2:31:50",
+     "confianca": "alta",
+     "justificativa": "pareceres favoráveis"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:32:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "2:32:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "36",
+   "ts": "2:32:39",
+   "processo": "50303.002542/2003 (dígitos incertos)",
+   "interessado": "Superintendência do Porto de Itajaí",
+   "assunto": "Pedido de reconsideração contra multa de R$ 270 mil (cessão irregular de bem público, rebocador) e advertência (falta de manutenção)",
+   "tema": [
+    "recursos administrativos",
+    "fiscalização e sanções",
+    "autoridade portuária",
+    "Porto de Itajaí"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade: conhecido e não provido",
+   "resumo_voto": "Majoração da multa ocorreu na instrução, não no julgamento; sem fatos novos.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "2:36:40",
+     "confianca": "alta",
+     "justificativa": "sem fatos novos; sem cerceamento de defesa"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:36:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "2:36:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "37",
+   "ts": "2:37:47",
+   "processo": "50300.004019/2015 (dígitos incertos)",
+   "interessado": "Superintendência de Regulação",
+   "assunto": "Referendo da Resolução Normativa 13/2016: registro de instalações de apoio ao transporte aquaviário",
+   "tema": [
+    "referendo",
+    "regulação normativa",
+    "registro de instalação (RN 13)",
+    "navegação interior / Amazônia"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Referenda a RN 13, suprimindo a expressão «de pequeno porte» do inciso V do art. 2º; dá saída regulatória para pequenas instalações da Amazônia e estaleiros não operacionais.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, referenda",
+     "ts": "2:47:00",
+     "confianca": "alta",
+     "justificativa": "regularizar centenas de pequenas instalações na Amazônia, que sem isso não obtêm financiamento; estaleiros não operacionais só com registro liberam a fiscalização"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "2:51:00",
+     "confianca": "alta",
+     "justificativa": "registro permite fiscalizar minimamente essas instalações e pode orientar política pública"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:51:30",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "38",
+   "ts": "2:52:33",
+   "processo": "50300.000445/2016 (dígitos incertos)",
+   "interessado": "Consórcio Novo Terminal Marítimo de Salvador (Contermas); Codeba",
+   "assunto": "Referendo da Res. 5.035: autorização especial de emergência (180 dias) para movimentar passageiros no terminal marítimo do porto de Salvador até a assinatura do arrendamento",
+   "tema": [
+    "referendo",
+    "autorização especial de emergência",
+    "navegação de passageiros / cruzeiros",
+    "Porto de Salvador"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Temporada de cruzeiros já começou; autorização limitada a 180 dias, com cláusula resolutiva e sem investimentos.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "2:56:35",
+     "confianca": "alta",
+     "justificativa": "urgência da temporada antes da reunião ordinária"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:57:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "2:57:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "39",
+   "ts": "2:57:49",
+   "processo": "50300.008378/2016 (dígitos incertos)",
+   "interessado": "Superintendência de Regulação",
+   "assunto": "Referendo da Res. 5.044: prorrogação até 14/11/2016 da audiência pública 3/2016 (manual de contas das autoridades portuárias)",
+   "tema": [
+    "referendo",
+    "regulação normativa",
+    "consulta/audiência pública"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Prorrogação de 15 dias sugerida pela superintendente; não afeta o cronograma do compromisso com o TCU.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "2:58:30",
+     "confianca": "alta",
+     "justificativa": "praxe de prorrogar e atender o setor regulado"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:58:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "2:58:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "55",
+   "ts": "3:01:13",
+   "processo": "50300.005776/2016 (dígitos incertos)",
+   "interessado": "Log-In Logística Intermodal S.A.",
+   "assunto": "Referendo da Res. 5.045: afretamento a tempo de porta-contêineres estrangeiro na cabotagem por 210 dias, durante docagem dos navios Log-In Jatobá e Log-In Jacarandá",
+   "tema": [
+    "referendo",
+    "navegação e afretamento",
+    "cabotagem",
+    "afretamento"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Interesse público na regularidade dos serviços de cabotagem; circularização prévia no sistema SAMA.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "3:07:20",
+     "confianca": "alta",
+     "justificativa": "manter oferta regular de cabotagem durante as docagens"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "3:07:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "3:07:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "58",
+   "ts": "3:07:54",
+   "processo": "50300.001321/2009 (dígitos incertos)",
+   "interessado": "Superintendência de Regulação",
+   "assunto": "Extrapauta: reabertura da audiência pública 5/2016 por 15 dias (norma de reversibilidade, incorporação e desincorporação de bens nos portos organizados)",
+   "tema": [
+    "regulação normativa",
+    "consulta/audiência pública",
+    "bens reversíveis"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Reabertura por 15 dias a partir de 3/11/2016.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova (relatoria presumida)",
+     "ts": "3:08:30",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "de acordo",
+     "ts": "3:08:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "de acordo",
+     "ts": "3:08:45",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "4 — Petrobras Transporte S.A., transferência de titularidade",
+   "relator": "Adalberto Tokarski",
+   "motivo": "avaliação melhor",
+   "ts": "0:12:26"
+  },
+  {
+   "item": "12 — ATP, Associação de Terminais Portuários Privados",
+   "relator": "Adalberto Tokarski",
+   "motivo": "buscar posicionamento mais claro da área técnica",
+   "ts": "0:37:39"
+  },
+  {
+   "item": "13 — MTPA, expansão de área e prorrogação antecipada do contrato de arrendamento 31/94",
+   "relator": "Adalberto Tokarski",
+   "motivo": "complementação do voto; volta na próxima reunião",
+   "ts": "0:38:26"
+  },
+  {
+   "item": "24 — processo sobre o porto de Maceió",
+   "relator": "Fernando Fonseca",
+   "motivo": "complementação do voto",
+   "ts": "1:40:13"
+  },
+  {
+   "item": "27 — Doc Brasil Engenharia e Serviços S.A., renúncia de outorga",
+   "relator": "Mário Povia",
+   "motivo": "pedido do procurador da empresa",
+   "ts": "2:08:29"
+  },
+  {
+   "item": "35 — Prefeitura Municipal de Corumbá, pedido de reconsideração",
+   "relator": "Mário Povia",
+   "motivo": "informações de última hora da unidade regional de Corumbá",
+   "ts": "2:32:04"
+  }
+ ],
+ "limites_da_analise": [
+  "O cabeçalho do .md lista Flávia Takafashi, Alber Vasconcelos e Frederico Dias, que não eram diretores em 2016: ignorados.",
+  "Número da reunião ouvido como «412ª» e ata da «411ª»; a numeração e a data de 1/11/2016 vêm da legenda e devem ser confirmadas.",
+  "Números de processo com dígitos incertos; nomes de empresas distorcidos (itens 7, 8, 9, 17, 18, 22, 28, 30).",
+  "Item 10: comentário crítico sobre a tramitação sem falante claro.",
+  "Item 58: relator não dito; atribuído a Tokarski com confiança baixa.",
+  "A numeração dos itens 24/25 é confusa na legenda: o item da Codesp foi registrado como 25."
+ ]
+}

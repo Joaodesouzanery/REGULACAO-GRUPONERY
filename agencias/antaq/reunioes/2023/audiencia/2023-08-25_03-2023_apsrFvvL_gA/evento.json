@@ -1,0 +1,77 @@
+{
+ "meta": {
+  "video_id": "apsrFvvL_gA",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "audiencia",
+  "numero": "03/2023",
+  "titulo": "Audiência Pública nº 03/2023 - arrendamento MCP03 (Porto de Santana)",
+  "data": "2023-08-25",
+  "local": "virtual",
+  "objeto": "Documentos do leilão de arrendamento da área MCP03 no Porto Organizado de Santana/AP para granéis sólidos vegetais (soja e milho)",
+  "processo": null,
+  "tema": [
+   "arrendamentos e leilões portuários",
+   "granéis vegetais",
+   "Arco Norte"
+  ],
+  "presidiu": "Patrícia Gravina (presidente da Comissão Permanente de Licitação)",
+  "diretores_presentes": [
+   "Alber Vasconcelos"
+  ],
+  "participantes_externos": [
+   "Ministério de Portos e Aeroportos (Mariana Pescatori)",
+   "Infra S.A. (Fernando Correia)",
+   "PPI (Amanda Seabra)",
+   "Companhia Docas de Santana (Edival Tork, Edilson Barros)"
+  ],
+  "resumo": "Audiência virtual sobre o arrendamento MCP03 em Santana, hoje sob contrato de transição. A Infra S.A. apresentou o estudo (cerca de R$ 80 milhões de investimento, prazo de 25 anos, dobra da capacidade). A Docas de Santana pediu que a ampliação para cerca de 11 mil m2 não obstrua o pátio de contêineres nem o acesso de minério; a Infra S.A. aceitou adequações. O diretor relator Alber Vasconcelos abriu destacando a importância estratégica do porto.",
+  "posicoes": [
+   {
+    "quem": "Companhia Docas de Santana",
+    "posicao": "Apoia ampliação da área mas sem obstruir pátio de contêineres e via de minério; enviará desenho",
+    "ts": "0:46:02"
+   },
+   {
+    "quem": "Infra S.A.",
+    "posicao": "Sem obstáculo a adequações pedidas pela autoridade portuária",
+    "ts": "0:49:17"
+   }
+  ],
+  "encaminhamentos": [
+   "Contribuições pelo sítio da ANTAQ conforme aviso 3/2023"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Alber Vasconcelos",
+   "ts": "0:02:38",
+   "tema": [
+    "arrendamentos e leilões portuários",
+    "Arco Norte"
+   ],
+   "tipo": "abertura",
+   "resumo": "Abre como relator: é a terceira audiência de arrendamento do ano e o Porto de Santana é estratégico para emprego e para a região Norte.",
+   "trecho": "a gente está fazendo a terceira audiência pública a primeira nós fizemos em abril maio né Patrícia é sobre uma área também de arrendamento",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Alber Vasconcelos",
+   "ts": "0:07:46",
+   "tema": [
+    "arrendamentos e leilões portuários"
+   ],
+   "tipo": "outro",
+   "resumo": "Elogia a sinergia com ministério, Infra S.A. e PPI e diz que a licitação é necessária porque o contrato de transição não permite investimentos.",
+   "trecho": "hoje você tem uma arrendatário transitório obviamente que no modelo que nós temos hoje não permite fazer investimentos então acho que a essa corrida por uma licitação ela é importante",
+   "confianca": "media"
+  }
+ ],
+ "limites_da_analise": [
+  "Abertura cita 'audiência ... 5 de 2023' por erro de legenda; encerramento cita nº 3/2023",
+  "Falante de 0:07:46 inferido como o diretor pelo contexto (passa a palavra à PPI)",
+  "Análise cobre só as janelas do resumo"
+ ]
+}

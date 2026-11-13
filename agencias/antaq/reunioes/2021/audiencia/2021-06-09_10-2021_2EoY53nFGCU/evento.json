@@ -1,0 +1,103 @@
+{
+ "meta": {
+  "video_id": "2EoY53nFGCU",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "audiencia",
+  "numero": "10/2021",
+  "titulo": "Audiência Pública nº 10/2021 – Arrendamento STS11 (granéis sólidos vegetais), Porto de Santos",
+  "data": "2021-06-09",
+  "local": "híbrido",
+  "objeto": "Estudos e minutas do arrendamento STS11 para granéis sólidos vegetais no Porto de Santos",
+  "processo": null,
+  "tema": [
+   "arrendamentos e leilões portuários",
+   "granéis vegetais",
+   "acesso ferroviário"
+  ],
+  "presidiu": "Bruno Pinheiro (presidente da Comissão Permanente de Licitação de Arrendamentos Portuários)",
+  "diretores_presentes": [
+   "Eduardo Nery",
+   "Adalberto Tokarski",
+   "Gabriela Costa"
+  ],
+  "participantes_externos": [
+   "Secretaria Nacional de Portos (Diogo Piloni)",
+   "PPI",
+   "EPL",
+   "Santos Port Authority",
+   "empresa de granéis (Marcelo de Andrade)"
+  ],
+  "resumo": "Audiência sobre o STS11 em Santos, terminal de granéis vegetais com investimento de ~R$ 700 mi. Os diretores Gabriela Costa, Adalberto Tokarski e o diretor-geral Eduardo Nery abriram com saudações. Um operador de granéis criticou premissas de demanda e risco ferroviário; a SNPTA e a EPL disseram que podem rever premissas. No encerramento, Nery ressaltou que contribuições detalhadas levam a revisões nos cálculos.",
+  "posicoes": [
+   {
+    "quem": "Marcelo de Andrade (operador de granéis)",
+    "posicao": "Condições tornam o projeto inviável; dúvidas sobre volume e dependência ferroviária",
+    "ts": "0:49:15"
+   },
+   {
+    "quem": "Secretaria Nacional de Portos",
+    "posicao": "Crítica embasada pode levar a premissas mais conservadoras no compartilhamento de risco",
+    "ts": "0:56:09"
+   }
+  ],
+  "encaminhamentos": [
+   "Contribuições por escrito pelo sítio da ANTAQ",
+   "Matriz de risco do acesso ferroviário a ser detalhada"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Gabriela Costa",
+   "ts": "0:01:43",
+   "tema": [
+    "arrendamentos e leilões portuários"
+   ],
+   "tipo": "abertura",
+   "resumo": "Agradeceu a oportunidade e destacou empregos gerados pelo terminal e o trabalho da equipe.",
+   "trecho": "gerar e cerca de 1.200 empregos nas durante os 25 anos de contrato número extremamente significativo",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Adalberto Tokarski",
+   "ts": "0:03:19",
+   "tema": [
+    "arrendamentos e leilões portuários"
+   ],
+   "tipo": "abertura",
+   "resumo": "Saudação breve, reforçando a importância do terminal.",
+   "trecho": "Olá boa tarde boa tarde a todos comprimento Dr Eduardo Nery colegas de diretoria doutora Gabriela",
+   "confianca": "media"
+  },
+  {
+   "diretor": "Eduardo Nery",
+   "ts": "0:04:03",
+   "tema": [
+    "arrendamentos e leilões portuários",
+    "granéis vegetais"
+   ],
+   "tipo": "abertura",
+   "resumo": "Destacou a relevância de Santos, o ganho de produtividade da nova modelagem e o trabalho da CPL.",
+   "trecho": "relevância que o porto de Santos tem um missionário dos nossos portos",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Eduardo Nery",
+   "ts": "2:04:25",
+   "tema": [
+    "arrendamentos e leilões portuários"
+   ],
+   "tipo": "encerramento",
+   "resumo": "Disse que contribuições com detalhes permitem revisões nos cálculos e aproximam a modelagem da realidade.",
+   "trecho": "a fazer revisões no seus cálculos modo natural",
+   "confianca": "alta"
+  }
+ ],
+ "limites_da_analise": [
+  "Análise cobre apenas as janelas do resumo (abertura, menções a diretores, encerramento), não a sessão inteira.",
+  "Legenda automática: nomes e números podem estar errados; falantes inferidos por saudações e contexto.",
+  "Gabriela Costa e Adalberto Tokarski se ausentaram antes do encerramento."
+ ]
+}

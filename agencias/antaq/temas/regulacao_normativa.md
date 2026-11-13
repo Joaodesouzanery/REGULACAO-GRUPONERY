@@ -1,5 +1,205 @@
 # Itens do tema «regulacao_normativa» (todos os diretores)
 
+- **RD 378 (2015-02-12)**, 12 · relator **Fernando Fonseca** · Requerimento de adesão ao REIDI para modernização do Terminal Marítimo de Alemoa → aprovado por maioria (vencido Adalberto Tokarski)
+  - votos: Fernando: relator; Adalberto: vencido; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=3750s)
+- **RD 378 (2015-02-12)**, 24 · relator **Fernando Fonseca** · Norma de afretamento de embarcações por EBN (revisão das Res. 2919 a 2922/2013) após audiência pública → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=8808s)
+- **RD 378 (2015-02-12)**, 25 · relator **Fernando Fonseca** · Revisão da Res. 3274/2014 (serviço adequado e infrações) após audiência pública (Res. 3584/2014) → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ouvs4lcMEyQ&t=10332s)
+- **RD 381 (2015-03)**, 1 · relator **Mário Povia** · Norma de utilização de equipamentos de propriedade de operador portuário por outros usuários em áreas públicas não arrendadas → não concluído: voto do relator proferido; pedido de vista de Adalberto Tokarski
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=qwT0cMb2xdU&t=40s)
+- **RD 382 (2015-04-15)**, 1 · relator **Mário Povia** · Norma de utilização de equipamentos portuários → vista prorrogada
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=69s)
+- **RD 382 (2015-04-15)**, 3 · relator **Fernando Fonseca** · Definição da documentação para análise de pedidos de transferência de titularidade/controle societário de contrato de arrendamento (voto-vista) → aprovado por unanimidade: arquivamento por perda de objeto
+  - votos: Fernando: relator; Mário: revisor_acompanha; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=SWIuMHJBbI8&t=112s)
+- **RD 384 (2015-05-20)**, 18 · relator **Fernando Fonseca** · Pedidos de reconsideração contra a Resolução Normativa 2/2015 (alteração da Res. 3274; incisos 40 e 41 do art. 32) → aprovado por unanimidade (pedidos negados)
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dOwkHgnx5yM&t=5152s)
+- **RD 385 (2015-06-01)**, 36 · relator **Fernando Fonseca** · Pedido de reconsideração: autorização da ANTAQ para empresas estrangeiras na navegação de longo curso → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=10815s)
+- **RD 385 (2015-06-01)**, 41 · relator **Fernando Fonseca** · Proposta de norma de direitos e deveres dos usuários e empresas de navegação (apoio marítimo, portuário, cabotagem, longo curso) e infrações → adiado (pedido de vista)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=12682s)
+- **RD 385 (2015-06-01)**, 43 · relator **Fernando Fonseca** · Portaria da agenda regulatória bienal e alteração do Regimento Interno (AIR) → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jauBfoy1yBY&t=13015s)
+- **RD 386 (2015-06-25)**, 8 · relator **Mário Povia** · Revisão da norma aprovada pela Resolução 2.510 (em vista) → adiado (vista prorrogada)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=6140s)
+- **RD 386 (2015-06-25)**, 13 · relator **Fernando Fonseca** · Proposta de norma de direitos e deveres dos usuários (apoio marítimo, portuário, cabotagem e longo curso) - em vista → adiado (vista prorrogada)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=tCslo4NMdXw&t=6278s)
+- **RD 387 (2015-07-29)**, 1 · relator **Mário Povia** · Revisão da norma da Resolução 2510 (outorga de autorização a EBN para longo curso, cabotagem, apoio marítimo e portuário) — envio a consulta pública ( → aprovado conforme voto do relator (maioria; voto-vista de Tokarski vencido)
+  - votos: Mário: relator; Adalberto: vencido; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=43s)
+- **RD 387 (2015-07-29)**, 2 · relator **Fernando Fonseca** · Proposta de norma de direitos e deveres dos usuários e das empresas de navegação (apoio marítimo, apoio portuário, cabotagem, longo curso) e infrações → aprovado conforme voto do relator (maioria; voto-vista de Tokarski vencido)
+  - votos: Fernando: relator; Adalberto: vencido; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=2144s)
+- **RD 387 (2015-07-29)**, 17 · relator **Mário Povia** · Norma de parcelamento e recuperação de créditos (revisão da Res. 2186) após audiência pública sem contribuições → aprovado conforme voto do relator (unânime)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=10322s)
+- **RD 387 (2015-07-29)**, 19 · relator **Fernando Fonseca** · Proposta inicial e calendário da Agenda Regulatória 2016/2017 (consulta interna) → aprovado conforme voto do relator (unânime)
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=iV4lFhXMhU4&t=11687s)
+- **RD 388 (2015-08-12)**, 15 · relator **Fernando Fonseca** · Adaptação do termo de autorização 227/2005 à Lei 12.815 (área ampliada de ~151.760 m², legenda incerta) e indícios de uso como recinto alfandegado sem → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=29JP6iKZViY&t=7645s)
+- **RD 389 (2015-08-27)**, 14 (número incerto) · relator **Adalberto Tokarski** · Proposta de norma sobre registro de instalações de apoio ao transporte aquaviário (substitui o art. 39 da Res. 3290), para consulta pública → aprovado
+  - votos: Adalberto: relator; Mário: outro; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=px8mI3sMZqA&t=10780s)
+- **RD 389 (2015-08-27)**, 15 · relator **Mário Povia** · Prorrogação das Audiências Públicas 2/2015 (até 18/09/2015) e 3/2015 (até 02/10/2015) por mudança de infraestrutura de TI → aprovado
+  - votos: Mário: outro; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=px8mI3sMZqA&t=13119s)
+- **RD 391 (2015-09-23)**, 13 · relator **Mário Povia** · Registro de instalação portuária rudimentar na margem esquerda do Rio Negro, Manaus/AM (só cargas) → aprovado (deferido)
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=2846s)
+- **RD 391 (2015-09-23)**, 16 · relator **Mário Povia** · Agenda regulatória 2016–2017: aprovação da consulta interna e da agenda preliminar e autorização de audiência pública (consulta externa) → aprovado
+  - votos: Mário: relator; Adalberto: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=4021s)
+- **RD 391 (2015-09-23)**, 37 · relator **Mário Povia** · Extrapauta: prorrogação do prazo de contribuições da audiência pública da norma de direitos dos usuários e infrações na navegação, de 2/10 para 30/10/ → aprovado
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=kk94fH9MaCc&t=12553s)
+- **RD 395 (2015-12-03)**, 15 · relator **Fernando Fonseca** · Aprovação da agenda regulatória 2016–2017 após audiência pública (76 contribuições) → aprovado
+  - votos: Fernando: relator; Adalberto: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=TPY7_KlB1-Y&t=3313s)
+- **RD 396 (2015-12-17)**, 4 · relator **Adalberto Tokarski** · PAS por suposta prestação de informação inverídica sobre empresa de apoio portuário; voto-vista de Fernando Fonseca → aprovado: auto insubsistente e arquivamento, com acréscimo do item C do voto-vista
+  - votos: Adalberto: relator; Fernando: revisor_acompanha; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=82s)
+- **RD 396 (2015-12-17)**, 22 · relator **Fernando Fonseca** · Proposta de norma de movimentação e armazenagem alfandegada de contêineres e carga geral (revisão da Res. 2389; THC/box rate) para audiência pública → voto do relator lido; processo segue em vista de Adalberto Tokarski
+  - votos: Fernando: relator; Adalberto: vista; Mário: outro · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=8884s)
+- **RD 396 (2015-12-17)**, 31 · relator **Adalberto Tokarski** · Norma de registro de instalação de apoio ao transporte aquaviário → retirado de pauta
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=ziop2pmTWVY&t=14280s)
+- **RD 398 (2016-02-12)**, 5 · relator **Mário Povia** · Revisão da norma da Resolução 2510 (outorga de autorização a EBN em apoio marítimo, apoio portuário, cabotagem e longo curso) → vista de Adalberto Tokarski (relator e Fernando Fonseca já votaram pela aprovação)
+  - votos: Mário: relator; Adalberto: vista; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=1545s)
+- **RD 398 (2016-02-12)**, 10 · relator **Fernando Fonseca** · Proposta de norma de exploração de áreas e instalações portuárias em portos organizados (revisão da Resolução 2240) → vista de Adalberto Tokarski (relator e Diretor-Geral já votaram)
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=LxdIhL4RWoE&t=3729s)
+- **RD 399 (2016-03-03)**, 3 · relator **Mário Povia** · Revisão da norma de outorga de autorização de EBN (Res. 2510: apoio marítimo, apoio portuário, cabotagem, longo curso); retorno do voto-vista → aprovado conforme voto do relator (texto na íntegra), por maioria; vencido parcialmente Ad
+  - votos: Mário: relator; Adalberto: revisor_diverge; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=2143s)
+- **RD 399 (2016-03-03)**, 8 · relator **Mário Povia** · Agenda Ambiental e de Segurança Aquaviária 2016 → aprovado por unanimidade conforme voto do relator
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=VPtjidLkQpM&t=3951s)
+- **RD 403 (2016-04-28)**, EP1 · relator **Fernando Fonseca** · Consulta e audiência públicas para arrendamento do Terminal Marítimo de Passageiros do porto de Fortaleza → aprovado por unanimidade
+  - votos: Fernando: relator; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=83ex6xdeHiw&t=8584s)
+- **RD 404 (2016-06-02)**, 22 · relator **Adalberto Tokarski** · Pedido de reconsideração contra dispositivos da Res. 3259 (fiscalização e procedimento sancionador) → aprovado por unanimidade conforme voto do relator
+  - votos: Adalberto: relator; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=bKneMtT4OuQ&t=4354s)
+- **RD 412 (2016-11-01)**, 37 · relator **Adalberto Tokarski** · Referendo da Resolução Normativa 13/2016: registro de instalações de apoio ao transporte aquaviário → referendado por unanimidade
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=9467s)
+- **RD 412 (2016-11-01)**, 39 · relator **Adalberto Tokarski** · Referendo da Res. 5.044: prorrogação até 14/11/2016 da audiência pública 3/2016 (manual de contas das autoridades portuárias) → referendado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=10669s)
+- **RD 412 (2016-11-01)**, 58 · relator **Adalberto Tokarski** · Extrapauta: reabertura da audiência pública 5/2016 por 15 dias (norma de reversibilidade, incorporação e desincorporação de bens nos portos organizado → aprovado por unanimidade
+  - votos: Adalberto: relator; Fernando: acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=jQEpPW8f2sc&t=11274s)
+- **RD 416 (2017-02-01)**, 62 · relator **Adalberto Tokarski** · Referendo da RN 15: Manual de Contas das Autoridades Portuárias → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=5QSwOSILsGM&t=3231s)
+- **RD 416 (2017-02-01)**, 66 · relator **Adalberto Tokarski** · Referendo da Res. 5193: prorrogação até 3/2 do prazo de contribuições sobre estrutura tarifária padronizada dos portos organizados → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Fernando: acompanha · [vídeo](https://www.youtube.com/watch?v=5QSwOSILsGM&t=4633s)
+- **RD 416 (2017-02-01)**, 69 · relator **Fernando Fonseca** · Referendo da Res. 5189: consulta e audiência públicas do arrendamento de terminal de veículos PAR12 → aprovado por unanimidade
+  - votos: Fernando: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=5QSwOSILsGM&t=6045s)
+- **RD 416 (2017-02-01)**, 72 · relator **Mário Povia** · Referendo da Res. 5188: consulta e audiência públicas do terminal de papel e celulose PAR01 → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=5QSwOSILsGM&t=7229s)
+- **RD 416 (2017-02-01)**, 73 · relator **Mário Povia** · Referendo da Res. 5190: consulta e audiência públicas do terminal de papel e celulose IQI18 → aprovado por unanimidade
+  - votos: Mário: relator; Fernando: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=5QSwOSILsGM&t=7424s)
+- **RD 419 (2017-03-27)**, 9 · relator **Adalberto Tokarski** · Prorrogação por 180 dias do prazo do art. 18 da Resolução Normativa 13/2016 (registro de instalação de apoio ao transporte aquaviário) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=dJL-tEcjJfU&t=2772s)
+- **RD 420 (2017-05-09)**, 7 · relator **Adalberto Tokarski** · Processo sancionador: transbordo ship-to-ship de combustível importado na área de fundeio 3 de Manaus sem autorização; interdição cautelar → aprovado (unânime): auto insubsistente e arquivamento
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=2107s)
+- **RD 420 (2017-05-09)**, 29 · relator **Adalberto Tokarski** · Referendo da Resolução 5306 e Aviso de Audiência 4/2017: norma de esquema operacional da travessia de veículos e passageiros → referendado (unânime)
+  - votos: Adalberto: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=CBlCHngfQCs&t=7800s)
+- **RD 422 (2017-08-23)**, 15 · relator **Mário Povia** · Manual de Análise e Fiscalização do Projeto Executivo em arrendamentos portuários (versão 2), em atendimento ao Acórdão TCU 2.200/2015-Plenário → aprovado conforme voto do relator (unânime)
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=vc-lJ1haDoQ&t=2653s)
+- **RD 427 (2017-08-24)**, 3 · relator **Mário Povia** · TAC - interpretação da resolução normativa 01-ANTAQ → não deliberado: pedido de vista de Francisval Mendes
+  - votos: Francisval: vista · [vídeo](https://www.youtube.com/watch?v=jyNLHMGKakU&t=879s)
+- **RD 423 (2017-08-24)**, 20 · relator **Mário Povia** · Norma do sistema eletrônico de peticionamento e intimação → pedido de vista (Adalberto Tokarski)
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=T7OiOUOmJDA&t=5416s)
+- **RD 428 (2017-09-13)**, 4 · relator **Adalberto Tokarski** · Alteração da Res. 1274 (autorização de travessia por EBN; sistema de desempenho da navegação e informações econômico-financeiras); envio a nova consul → aprovado por unanimidade conforme voto do relator
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=1145s)
+- **RD 428 (2017-09-13)**, 28 · relator **Mário Povia** · Norma sobre direitos e deveres dos usuários, agentes intermediários e empresas de navegação de apoio marítimo, apoio portuário, cabotagem e longo curs → adiado: pedido de vista após o voto do relator
+  - votos: Mário: relator; Francisval: vista; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=0cIpTxviS4k&t=5779s)
+- **RD 429 (2017-09-20)**, 1 · relator **Mário Povia** · Interpretação da Resolução Normativa 01/2015 (critério de tonelagem para emissão de CAF/afretamento); votos-vista → aprovado por maioria o voto-vista de Francisval Mendes (grupo de trabalho, 60 dias); Mário
+  - votos: Mário: vencido; Francisval: revisor_acompanha; Adalberto: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=40s)
+- **RD 429 (2017-09-20)**, 26 · relator **Mário Povia** · Agenda regulatória → pedido de vista (diretor não identificado com segurança na legenda); não votado
+  - votos:  · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=8409s)
+- **RD 429 (2017-09-20)**, referendo · relator **Mário Povia** · Referendo da resolução que aprovou a análise das contribuições da audiência pública 5/2017 (arrendamento MCP01) → aprovado por unanimidade: referendada
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9jvlbxo1RCw&t=9643s)
+- **RD 432 (2017-11-17)**, 25 · relator **Mário Povia** · Revisão da Resolução Normativa 3.290 (outorgas de instalações portuárias) → pedido de vista de Adalberto Tokarski; relator não proferiu voto
+  - votos: Adalberto: vista; Mário: outro; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=6844s)
+- **RD 432 (2017-11-17)**, 39 · relator **Adalberto Tokarski** · Referendo da Res. 5.708: novo prazo de 90 dias para instalações de apoio ao transporte aquaviário obterem registro (RN 13) → referendado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=P6i6NT9EGKo&t=11148s)
+- **RD 433 (2017-11-28)**, 1 · relator **Mário Povia** · Revisão da norma da Resolução 3290 (autorização de instalações portuárias privadas/TUP) para adequação ao Decreto 9.048/2017; minuta para audiência pú → aprovado (unânime) conforme voto do relator
+  - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=cu2VemB9hb8&t=57s)
+- **RD 433 (2017-11-28)**, 15 · relator **Francisval Mendes** · Waiver estendido por até um ano para navios ro-ro e break bulk no convênio marítimo Brasil-Chile → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=cu2VemB9hb8&t=6633s)
+- **RD 434 (2017-12-08)**, 1 · relator **Mário Povia** · Norma de petição eletrônica e intimação eletrônica (voto-vista) → adiado: Francisval Mendes pediu vista; Adalberto Tokarski adiou a leitura do seu voto-vist
+  - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=BDKgrHYQkO4&t=50s)
+- **RD 434 (2017-12-08)**, 2 · relator **Mário Povia** · Norma de direitos e deveres dos usuários, agentes intermediários e empresas de apoio marítimo, apoio portuário, cabotagem e longo curso → adiado: voto-vista de Tokarski proferido; Francisval Mendes pediu vista
+  - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: vista · [vídeo](https://www.youtube.com/watch?v=BDKgrHYQkO4&t=96s)
+- **RD 435 (2017-12-21)**, 2 · relator **Mário Povia** · Proposta de norma de direitos e deveres dos usuários e agentes intermediários na navegação de apoio marítimo, portuário, cabotagem e longo curso (voto → aprovada a minuta do relator sem as alterações do voto-vista de Adalberto Tokarski (vencid
+  - votos: Mário: relator; Adalberto: vencido; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=8pnMiGBR888&t=99s)
+- **RD 435 (2017-12-21)**, 3 · relator **Adalberto Tokarski** · Norma de critérios para acordos operacionais entre EBNs na navegação interior de percurso longitudinal interestadual e internacional → pedido de vista de Mário Povia após voto do relator; Francisval Mendes aguarda
+  - votos: Adalberto: relator; Mário: vista; Francisval: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=8pnMiGBR888&t=666s)
+- **RD 436 (2018-01-25)**, 16 · relator **Mário Povia** · Agenda regulatória → adiado (vista/voto na próxima reunião)
+  - votos: Mário: relator; Francisval: outro; Adalberto: outro · [vídeo](https://www.youtube.com/watch?v=9Ljnc4hs1-0&t=1666s)
+- **RD 437 (2018-02-15)**, 4 · relator **Mário Povia** · Agenda regulatória da ANTAQ biênio 2018–2019: versão preliminar e abertura de consulta externa → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=0zgpRZrJ6hw&t=732s)
+- **RD 437 (2018-02-15)**, 5 · relator **Adalberto Tokarski** · Consulta sobre enquadramento da navegação de apoio a operações ship to ship (afretamento de embarcação estrangeira) → pedido de vista (Francisval Mendes); Povia aguarda
+  - votos: Adalberto: relator; Francisval: vista; Mário: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=0zgpRZrJ6hw&t=1350s)
+- **RD 438 (2018-02-23)**, 7 · relator **Mário Povia** · Pedido de reconsideração contra análise das contribuições da audiência pública 1/2017 da licitação da área PAR01 (papel e celulose) no porto organizad → aprovado (unânime)
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=uzhRnDP20Bw&t=1127s)
+- **RD 439 (2018-03-14)**, 20 · relator **Francisval Mendes** · Consulta sobre gratuidade de travessias (BR-230 Humaitá e BR-364 Porto Velho) para veículos oficiais (ex.: SESAI) → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=VSbDup-4pic&t=4362s)
+- **RD 440 (2018-04-09)**, 27 · relator **Mário Povia** · Referendo da Res. 5983: prorrogação por 10 dias da consulta externa da agenda regulatória 2018-2019 → referendado por unanimidade
+  - votos: Mário: outro; Francisval: outro · [vídeo](https://www.youtube.com/watch?v=EkNILU6-1gU&t=7145s)
+- **RD 442 (2018-05-07)**, 7 · relator **Mário Povia** · Renúncia de outorga de autorização (EBN) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=506s)
+- **RD 442 (2018-05-07)**, 19 · relator **Mário Povia** · Agenda Ambiental e de Segurança Aquaviária 2018–2019 → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=2902s)
+- **RD 442 (2018-05-07)**, 39 · relator **Francisval Mendes** · Consulta sobre operação ship to ship de combustíveis no porto de Santana/AP → aprovado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=5DnnyCLd5UM&t=5841s)
+- **RD 25 (extraordinária) (2018-05-11)**, 1 · relator **Mário Povia** · Revisão da Resolução 3.290/2014: autorização para construção, exploração e ampliação de instalações portuárias privadas (TUP, ETC, IP4), adequação ao  → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=PmJmgy9Diw8&t=296s)
+- **RD 25 (extraordinária) (2018-05-11)**, 6 · relator **Fernando Fonseca** · Revisão da Resolução 2.389/2012 (movimentação e armazenagem de contêineres; segregação, THC2/SSE) - pautado de ofício pela Secretaria-Geral → aprovado conforme voto divergente de Francisval Mendes; voto do relator original (Fernando
+  - votos: Francisval: outro; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=PmJmgy9Diw8&t=2815s)
+- **RD 443 (2018-05-21)**, 19 · relator **Francisval Mendes** · Revisão da Resolução 2914 (regras das reuniões deliberativas da Diretoria Colegiada): proposta de resolução normativa → aprovado por unanimidade; audiência pública de 30 dias
+  - votos: Francisval: relator; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=ONQS9tY_zWg&t=3555s)
+- **RD 444 (2018-06-07)**, 13 · relator **Francisval Mendes** · Referendo da Resolução 6.146: prorrogação até 04/06/2018 das audiências públicas 1, 2 e 3/2018 (arrendamentos de granéis líquidos em Belém, Vila do Co → referendado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=1pfiJgrovVc&t=2950s)
+- **RD 444 (2018-06-07)**, 14 · relator **Francisval Mendes** · Referendo da Resolução 6.153: prorrogação até 04/06/2018 das audiências públicas 1, 2 e 3/2018 (arrendamentos de granéis líquidos em Belém, Vila do Co → referendado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=1pfiJgrovVc&t=2950s)
+- **RD 444 (2018-06-07)**, 15 · relator **Francisval Mendes** · Referendo da Resolução 6.154: prorrogação até 04/06/2018 das audiências públicas 1, 2 e 3/2018 (arrendamentos de granéis líquidos em Belém, Vila do Co → referendado por unanimidade
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=1pfiJgrovVc&t=2950s)
+- **RD 445 (2018-06-20)**, 32 · relator **Adalberto Tokarski** · Escaneamento de contêineres: alteração da data da audiência pública sobre cobrança pela inspeção não invasiva (jogos da Copa) → aprovado por unanimidade
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=j2F5zDplaI8&t=9528s)
+- **RD 446 (2018-06-29)**, 1 · relator **Adalberto Tokarski** · Norma de acordos operacionais entre EBNs na navegação interior longitudinal (vista de Povia) → aprovado por unanimidade
+  - votos: Mário: revisor_diverge; Adalberto: relator; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=-L7gcXUMaxY&t=33s)
+- **RD 446 (2018-06-29)**, 16 · relator **Mário Povia** · Agenda regulatória 2018-2019 (versão final) → aprovado por unanimidade
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=-L7gcXUMaxY&t=3418s)
+- **RD 447 (2018-08-09)**, 31 · relator **Francisval Mendes** · Consulta sobre cobrança de parcelas de «sítio padrão» após o prazo original de 20 anos do contrato de arrendamento PRES 41/97 (prorrogado antecipadame → aprovado, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=9777s)
+- **RD 447 (2018-08-09)**, 34 · relator **Francisval Mendes** · Interpretação do Acordo de Transporte Marítimo Brasil–Argentina (Decreto 99.040/90): abrangência sobre cargas de baldeação/transbordo → aprovado, unânime
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=11041s)
+- **RD 447 (2018-08-09)**, 36 · relator **Francisval Mendes** · Proposta de norma para padronização das demonstrações contábeis de arrendatários; pedido de vista de Tokarski → não deliberado: vista mantida; área técnica fará apresentação aos diretores
+  - votos: Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=xAGlIfFIifA&t=12020s)
+- **RD 448 (2018-08-31)**, 3 · relator **Francisval Mendes** · Proposta de resolução normativa de padronização das demonstrações contábeis dos arrendatários (GT 57/2016), para audiência pública de 30 dias → aprovado (unânime)
+  - votos: Francisval: relator; Adalberto: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=UY--bltD5Y0&t=340s)
+- **RD 449 (2018-09-25)**, 3 · relator **Francisval Mendes** · Proposta de alterar as Resoluções 3259/2014 e 3585/2014 para suprimir a publicação no DOU de decisões sancionadoras e TACs; voto-vista de Mário Povia → aprovado por unanimidade (sobrestamento)
+  - votos: Mário: revisor_acompanha; Adalberto: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=627s)
+- **RD 449 (2018-09-25)**, 58 · relator **Francisval Mendes** · Proposta de norma de estrutura tarifária padronizada das administrações portuárias → aprovado por unanimidade (submetida a audiência pública por 30 dias)
+  - votos: Mário: acompanha; Adalberto: acompanha; Francisval: relator · [vídeo](https://www.youtube.com/watch?v=0s_Vr459lYo&t=13336s)
+- **RD 450 (2018-10-10)**, 3 · relator **Adalberto Tokarski** · Análise dos impactos da greve dos caminhoneiros (maio/2018) nas atividades portuárias: proposta de resolução suspendendo prazos de free time/demurrage → aprovado (unânime): minuta de resolução não aprovada
+  - votos: Adalberto: relator; Francisval: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=697s)
+- **RD 450 (2018-10-10)**, 20 · relator **Mário Povia** · Consulta sobre enquadramento de transbordos ship-to-ship de petróleo em águas jurisdicionais brasileiras (DPST e VLCC) → pedido de vista (Adalberto Tokarski); julgamento suspenso
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=7051s)
+- **RD 450 (2018-10-10)**, 22 · relator **Mário Povia** · Compartilhamento de dados de pesagem de contêineres (VGM/SOLAS, Portaria DPC 164/2016) → pedido de vista (Adalberto Tokarski); julgamento suspenso
+  - votos: Mário: relator; Adalberto: vista · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=8915s)
+- **RD 450 (2018-10-10)**, 23 · relator **Mário Povia** · Impossibilidade de contratar seguro de responsabilidade civil exigido pelo art. 32 XVIII da Res. 3274 (licitações desertas; TAC 8/2016) → aprovado (unânime)
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=9687s)
+- **RD 450 (2018-10-10)**, 29 · relator **Mário Povia** · Revisão da norma de audiências públicas (Res. 2448): minuta de resolução normativa → aprovado (unânime)
+  - votos: Mário: relator; Francisval: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=13498s)
+- **RD 450 (2018-10-10)**, 50 · relator **Francisval Mendes** · Referendo da Res. 6420: prorrogação da audiência pública 11/2018 (padronização das demonstrações contábeis dos arrendatários) até 18/10/2018 → referendado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=17920s)
+- **RD 450 (2018-10-10)**, 63 · relator **Francisval Mendes** · Extrapauta: re-ratificação da análise das contribuições da audiência pública 1/2018 — arrendamento BEL02A (granéis líquidos combustíveis), porto organ → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=18394s)
+- **RD 450 (2018-10-10)**, 64 · relator **Francisval Mendes** · Extrapauta: re-ratificação da análise das contribuições da audiência pública 1/2018 — arrendamento BEL02B (granéis líquidos combustíveis), porto organ → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=18394s)
+- **RD 450 (2018-10-10)**, 65 · relator **Francisval Mendes** · Extrapauta: re-ratificação da análise das contribuições da audiência pública 1/2018 — arrendamento BEL04 (granéis líquidos combustíveis), porto organi → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=18394s)
+- **RD 450 (2018-10-10)**, 66 · relator **Francisval Mendes** · Extrapauta: re-ratificação da análise das contribuições da audiência pública 1/2018 — arrendamento BEL08 (granéis líquidos combustíveis), porto organi → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=18394s)
+- **RD 450 (2018-10-10)**, 67 · relator **Francisval Mendes** · Extrapauta: re-ratificação da análise das contribuições da audiência pública 1/2018 — arrendamento BEL09 (granéis líquidos combustíveis), porto organi → aprovado (unânime)
+  - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=T_cupf15W3s&t=18394s)
+- **RD 451 (2018-10-31)**, 1 · relator **Adalberto Tokarski** · Consulta sobre adequação às normas; pedido de vista de Francisval Mendes renovado → não deliberado: vista renovada
+  - votos: Francisval: outro · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=46s)
+- **RD 451 (2018-10-31)**, 23 · relator **Mário Povia** · Revisão da norma de outorga de travessia (Res. 274/2009?): padronização de envio de informações operacionais e contábeis; supressão da suspensão caute → aprovado, unânime
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=4426s)
+- **RD 451 (2018-10-31)**, 46 · relator **Adalberto Tokarski** · Renúncia de autorização de travessia que atende cliente único (Vale do Pontal Açúcar e Álcool) → renúncia indeferida, unânime; SRG regulamenta em 90 dias
+  - votos: Adalberto: relator; Mário: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=9129s)
+- **RD 451 (2018-10-31)**, 65 · relator **Mário Povia** · Prorrogação por 15 dias da Audiência Pública 12/2018 (sistema tarifário das autoridades portuárias) → aprovado, unânime
+  - votos: Mário: relator; Adalberto: acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=9Y2W7KsD3i0&t=10006s)
+- **RD 452 (2018-11-14)**, 1 · relator **Adalberto Tokarski** · Consulta sobre aplicação da Lei 13.303/2016 à exploração indireta de áreas não operacionais (processo com vista) → aprovado por unanimidade
+  - votos: Adalberto: relator; Francisval: revisor_acompanha; Mário: acompanha · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=47s)
+- **RD 452 (2018-11-14)**, 4 · relator **Mário Povia** · Compartilhamento de informações de pesagem de contêineres (vista de Tokarski) → aprovado por unanimidade
+  - votos: Mário: relator; Adalberto: revisor_acompanha; Francisval: acompanha · [vídeo](https://www.youtube.com/watch?v=kA6JDnGT-08&t=407s)
 - **RD 454 (2018-12-20)**, 40 · relator **Francisval Mendes** · Proposta de resolução normativa sobre obrigatoriedade de informações para o Sistema de Desempenho da Navegação (SDN) → aprovado por unanimidade
   - votos: Francisval: relator; Mário: acompanha; Adalberto: acompanha · [vídeo](https://www.youtube.com/watch?v=tKvKw_tuKwE&t=13379s)
 - **RD 455 (2019-01-31)**, 22 · relator **Mário Povia** · Revisão da Resolução Normativa 7-ANTAQ (ocupação de áreas e instalações portuárias em portos organizados) — submissão a audiência pública → julgamento suspenso (vista de Adalberto Tokarski)

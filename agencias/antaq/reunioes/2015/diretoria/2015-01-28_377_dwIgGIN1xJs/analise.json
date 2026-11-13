@@ -1,0 +1,2324 @@
+{
+ "meta": {
+  "video_id": "dwIgGIN1xJs",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts tirados de data/transcricoes; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "377",
+  "data": "2015-01-28",
+  "formato": "presencial",
+  "presidente_da_sessao": "Mário Povia (Diretor-Geral)",
+  "diretores_presentes": [
+   "Mário Povia",
+   "Fernando Fonseca",
+   "Adalberto Tokarski"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Data do cabeçalho (2016-01-28) é incompatível com o conteúdo: despacho 1/2015 sobre viagem de 19 a 27/01/2015, notas de 2015, referendo de 26/12/2014; reunião provavelmente de fins de janeiro de 2015.",
+   "Votos em bloco: itens 4, 5, 6 e 8 (Povia) e itens 24 a 35 (Fernando Fonseca).",
+   "Pedidos de vista: item 14 (Tokarski), item 43 (Tokarski), item 57 (aparentemente Povia); item 3 com prorrogação de vista de Tokarski; item 1 baixado em diligência pelo vistor.",
+   "Tokarski criticou a paralisação da hidrovia Tietê-Paraná (item 7) e o modelo de garantia para terminal já pronto (item 9).",
+   "Pauta interna após o encerramento: referendos (itens 67 e 71) e agenda ambiental (item 68); transcrição termina no anúncio do item 69."
+  ]
+ },
+ "itens": [
+  {
+   "id": "2",
+   "ts": "0:01:19",
+   "processo": "50300.001450/2013-36",
+   "interessado": "Mineração Buritirama S.A.; Companhia Docas do Pará (CDP)",
+   "assunto": "Recurso hierárquico impróprio contra o Acórdão 61/2014 (adicional de 10% sobre a tabela tarifária da CDP — rubrica de fundo de investimentos; efeitos ex nunc)",
+   "tema": [
+    "tarifas portuárias",
+    "recursos administrativos",
+    "Porto de Vila do Conde/Belém"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade: recurso não conhecido; autos à SEP/PR",
+   "resumo_voto": "Não conhecimento por trânsito em julgado administrativo e ausência de amparo; recurso sem efeito suspensivo, CDP deve cessar imediatamente a cobrança; autos à Secretaria de Portos (não ao Ministério dos Transportes). Processo vinha com vista de Tokarski.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:01:19",
+     "justificativa": "trânsito em julgado administrativo; matéria de competência da SEP; cobrança deve cessar de imediato",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator (pediu confirmar a determinação de cessação imediata da cobrança)",
+     "ts": "0:06:30",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator (tinha pedido de vista)",
+     "ts": "0:06:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:08:56",
+   "processo": "50306.002175/2014-15",
+   "interessado": "Carlos Alberto Taveira de Paula (MEI)",
+   "assunto": "Outorga de autorização como EBN — transporte de passageiros na travessia em diretriz da BR-319 (rios Negro e Solimões, Manaus–Careiro da Várzea/AM); julgado em bloco (itens 4, 5, 6 e 8)",
+   "tema": [
+    "navegação interior",
+    "travessias",
+    "autorização de EBN"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Expedição do termo de autorização; SOG deve fazer constar a condição de microempreendedor individual quando couber.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:08:56",
+     "justificativa": "pareceres técnicos e jurídico favoráveis; registrar condição de MEI",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "0:12:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:12:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:08:56",
+   "processo": "50306.002136/2014-18",
+   "interessado": "José Aldo Bezerril Mendes (MEI)",
+   "assunto": "Outorga de autorização como EBN — transporte de passageiros na travessia em diretriz da BR-319 (rios Negro e Solimões, Manaus–Careiro da Várzea/AM); julgado em bloco (itens 4, 5, 6 e 8)",
+   "tema": [
+    "navegação interior",
+    "travessias",
+    "autorização de EBN"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Expedição do termo de autorização; SOG deve fazer constar a condição de microempreendedor individual quando couber.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:08:56",
+     "justificativa": "pareceres técnicos e jurídico favoráveis; registrar condição de MEI",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "0:12:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:12:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:08:56",
+   "processo": "50306.002147/2014-81",
+   "interessado": "Isaías Marques da Silva (MEI)",
+   "assunto": "Outorga de autorização como EBN — transporte de passageiros na travessia em diretriz da BR-319 (rios Negro e Solimões, Manaus–Careiro da Várzea/AM); julgado em bloco (itens 4, 5, 6 e 8)",
+   "tema": [
+    "navegação interior",
+    "travessias",
+    "autorização de EBN"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Expedição do termo de autorização; SOG deve fazer constar a condição de microempreendedor individual quando couber.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:08:56",
+     "justificativa": "pareceres técnicos e jurídico favoráveis; registrar condição de MEI",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "0:12:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:12:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "0:08:56",
+   "processo": "50306.002203/2014-88",
+   "interessado": "Aline do Nascimento Pereira (MEI)",
+   "assunto": "Outorga de autorização como EBN — transporte de passageiros na travessia em diretriz da BR-319 (rios Negro e Solimões, Manaus–Careiro da Várzea/AM); julgado em bloco (itens 4, 5, 6 e 8)",
+   "tema": [
+    "navegação interior",
+    "travessias",
+    "autorização de EBN"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Expedição do termo de autorização; SOG deve fazer constar a condição de microempreendedor individual quando couber.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:08:56",
+     "justificativa": "pareceres técnicos e jurídico favoráveis; registrar condição de MEI",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "0:12:15",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:12:15",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "0:12:23",
+   "processo": "50300.002696/2014-14",
+   "interessado": "Petrobras Transporte S.A. (Transpetro)",
+   "assunto": "Outorga de autorização como EBN — cargas (biocombustíveis, petróleo e derivados) na navegação interior longitudinal interestadual, rios Tietê e Paraná",
+   "tema": [
+    "navegação interior",
+    "autorização de EBN",
+    "hidrovia Tietê-Paraná"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Expedição do termo; debate sobre paralisação da hidrovia Tietê-Paraná (derrocamento não feito, rebaixamento de lagos para geração de energia).",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:12:23",
+     "justificativa": "atendidas as exigências da Res. 1558",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "0:14:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator, com observações",
+     "ts": "0:14:48",
+     "confianca": "alta",
+     "justificativa": "hidrovia Tietê-Paraná parada desde maio; derrocamento pendente e lagos rebaixados para gerar energia; custo de transporte cerca de 25% maior; ANTAQ precisa ficar atenta",
+     "tom": "crítico à gestão da hidrovia"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "0:19:44",
+   "processo": "50300.000017/2014-64",
+   "interessado": "Atem's Distribuidora de Petróleo S.A.",
+   "assunto": "Pedido de reconsideração contra inabilitação no Anúncio Público 6/2014 (TUP em Porto Velho/RO) por garantia de proposta inadequada",
+   "tema": [
+    "autorização de TUP",
+    "recursos administrativos",
+    "garantia de proposta"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade: provimento parcial",
+   "resumo_voto": "Mantidas as exigências do edital (isonomia), mas concedido prazo improrrogável de 10 dias para sanear a garantia, conforme proposta da PFA.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:19:44",
+     "justificativa": "isonomia exige manter a garantia; eficiência e celeridade justificam prazo de 10 dias",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "0:25:30",
+     "confianca": "alta",
+     "justificativa": "garantia de proposta assegura tratamento isonômico e evita aventureiros"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator, com ressalva",
+     "ts": "0:25:30",
+     "confianca": "alta",
+     "justificativa": "considera incoerente exigir garantia de terminal já pronto; propõe listar providências para mudar o modelo"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "0:29:56",
+   "processo": "50301.000655/2015-94 (número incerto)",
+   "interessado": "Transmar Transportes Marítimos DH Ltda.",
+   "assunto": "Renúncia parcial de outorga (apoio marítimo), mantendo apoio portuário",
+   "tema": [
+    "navegação de apoio",
+    "autorização de EBN"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Extinção da outorga no apoio marítimo; aditamento do termo para apoio portuário até 2.000 HP.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:29:56",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "0:32:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:32:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "0:32:13",
+   "processo": "50301.001415/2013-15",
+   "interessado": "Companhia Docas do Rio de Janeiro (CDRJ)",
+   "assunto": "Pedido de reconsideração contra advertência por guindastes desativados na área operacional",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "Porto do Rio de Janeiro"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade: não conhecido (intempestivo)",
+   "resumo_voto": "Recurso intempestivo (notificada em 22/10, protocolo em 3/12/2014); mantida a notificação 80/2014.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:32:13",
+     "justificativa": "intempestividade; trânsito em julgado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "0:35:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:35:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "0:35:35",
+   "processo": "50300.000260/2006-72",
+   "interessado": "InterCement Brasil S.A.",
+   "assunto": "Autorização de TUP de granel sólido em Nova Santa Rita/RS (Anúncio Público 19/2013) — contrato de adesão",
+   "tema": [
+    "autorização de TUP"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Reconhecida a possibilidade de contrato de adesão com a SEP; ajustar minuta ao modelo da PFA (carga e município corrigidos).",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:35:35",
+     "justificativa": "exigências da Lei 12.815 e do Decreto 8.033 atendidas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "0:40:30",
+     "confianca": "media",
+     "justificativa": "sugere fechar modelo padrão também para o termo de registro"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:40:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "0:42:36",
+   "processo": "50314.000974/2013-51",
+   "interessado": "Superintendência de Portos e Hidrovias (SPH/RS)",
+   "assunto": "Pedido de reconsideração contra notificação 78/2014",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "Porto Alegre / Pelotas"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade: não conhecido (intempestivo)",
+   "resumo_voto": "Mantida a decisão; SG e PFA executam a sanção.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:42:36",
+     "justificativa": "intempestividade",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "0:44:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:44:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "0:44:42",
+   "processo": "50308.001089/2014-59",
+   "interessado": "Ipiranga Produtos de Petróleo S.A.",
+   "assunto": "Pedido de reconsideração",
+   "tema": [
+    "recursos administrativos",
+    "fiscalização e sanções"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "pedido de vista de Adalberto Tokarski antes da leitura do voto",
+   "resumo_voto": "Voto não lido.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "pede vista",
+     "ts": "0:45:05",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "0:45:33",
+   "processo": "50305.001244/2003-86 (número incerto)",
+   "interessado": "Darcy Júnior Navegação e Comércio Ltda.",
+   "assunto": "Pedido de reconsideração contra multa de R$ 20 mil por transporte aquaviário sem autorização",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "navegação interior"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade: provimento parcial",
+   "resumo_voto": "Multa reduzida para R$ 7.560 (afastada a atenuante de paralisação, pois a empresa operava com outra embarcação).",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:45:33",
+     "justificativa": "nova dosimetria; atenuante de paralisação não comprovada",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "0:50:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:50:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "0:51:04",
+   "processo": "50301.002348/2013-48",
+   "interessado": "Bonamar Transportes Marítimos Ltda.",
+   "assunto": "Pedido de reconsideração contra cassação da autorização (empresa não localizada)",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "autorização de EBN"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade: provimento parcial",
+   "resumo_voto": "Recurso tempestivo (prazo de 30 dias da Res. 987); cassação convertida em multa de R$ 20 mil por não comunicar mudança de endereço; SFC deve fiscalizar a empresa.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "0:51:04",
+     "justificativa": "negligência ao não comunicar novo domicílio; cassação desproporcional após reaparecimento da empresa",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "1:02:45",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:02:45",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "1:02:56",
+   "processo": "50304.002537/2013-91",
+   "interessado": "Companhia Docas da Paraíba; Transpetro",
+   "assunto": "Pedido de reconsideração contra multa de R$ 55 mil (exploração sem contrato válido no Porto de Cabedelo)",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "contrato de transição",
+    "Porto de Cabedelo"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade: não conhecido (intempestivo)",
+   "resumo_voto": "Mantida a multa; prazo de 30 dias para celebrar contrato de transição sob pena de interdição.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "1:02:56",
+     "justificativa": "intempestividade",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "1:07:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:07:00",
+     "confianca": "media",
+     "justificativa": "propõe procedimento interno para pedidos reiterados após trânsito em julgado"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "1:07:28",
+   "processo": "50304.000914/2013-57",
+   "interessado": "Companhia Docas da Paraíba; Raízen Combustíveis S.A.",
+   "assunto": "Reconsideração (Docas) e recurso (Raízen) contra multa de R$ 20 mil, nulidade do 8º aditivo e extinção do contrato de arrendamento 92/007 em Cabedelo",
+   "tema": [
+    "arrendamento em porto organizado",
+    "recursos administrativos",
+    "contrato de transição",
+    "Porto de Cabedelo"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Reconsideração da Docas não conhecida (intempestiva); recurso da Raízen conhecido e desprovido (só uma prorrogação permitida); SFC fiscaliza prazo de 60 dias para contrato de transição.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "1:07:28",
+     "justificativa": "aditivo sem aprovação da ANTAQ é nulo; lei permitia uma única prorrogação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "1:20:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:20:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "1:21:02",
+   "processo": "50302.002545/2013-57",
+   "interessado": "Companhia Docas do Estado de São Paulo (Codesp); Gel Terminais",
+   "assunto": "Pedido de reconsideração contra multa de R$ 68.750 (5º aditivo sem cláusulas essenciais)",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "Porto de Santos"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade: negado provimento",
+   "resumo_voto": "Sem fatos novos; mantida a multa.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "1:21:02",
+     "justificativa": "sem fatos novos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "1:24:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:24:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "1:24:16",
+   "processo": "50300.000498/2009-41",
+   "interessado": "Bunge Alimentos S.A.",
+   "assunto": "Adaptação do termo de autorização 528 (instalação em Rio Grande/RS) a contrato de adesão",
+   "tema": [
+    "autorização de TUP",
+    "adaptação de outorga"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprovada a adaptação (Portaria SEP 182 delega a celebração à ANTAQ).",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "1:24:16",
+     "justificativa": "exigências da Res. 3290 atendidas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "1:26:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:26:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "1:26:55",
+   "processo": "50321.000185/2007-65 (número incerto)",
+   "interessado": "Petrobras",
+   "assunto": "Adaptação do termo de autorização 410 (terminal flexível de GNL da Baía de Guanabara)",
+   "tema": [
+    "autorização de TUP",
+    "adaptação de outorga"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprovada a adaptação mediante novo instrumento.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "1:26:55",
+     "justificativa": "exigências atendidas",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "1:29:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:29:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "22",
+   "ts": "1:30:04",
+   "processo": "50310.000074/2014-61 (número incerto)",
+   "interessado": "S2 Empresa de Navegação Ltda.",
+   "assunto": "Outorga de autorização — apoio portuário até 2.000 HP",
+   "tema": [
+    "navegação de apoio",
+    "autorização de EBN"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deferimento.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "1:30:04",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:31:35",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:31:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "23",
+   "ts": "1:31:40",
+   "processo": "50300.001004/2012-13 (número incerto)",
+   "interessado": "Fertimar Mineração e Navegação Ltda.",
+   "assunto": "Aditamento da autorização de cabotagem (até 5.000 TPB) para outorga plena",
+   "tema": [
+    "cabotagem",
+    "autorização de EBN"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deferimento; embarcação garantidora concluída.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "1:31:40",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:34:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:34:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "24",
+   "ts": "1:34:13",
+   "processo": "50306.0xxxxx/2014 (número incompleto na legenda)",
+   "interessado": "Antônia Alcileide da Silva Costa (MEI)",
+   "assunto": "Outorga de autorização como EBN — passageiros na travessia em diretriz da BR-319 (Manaus–Careiro da Várzea/AM); julgado em bloco (itens 24 a 35)",
+   "tema": [
+    "navegação interior",
+    "travessias",
+    "autorização de EBN"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deferimento conforme Res. 3285/2014.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "1:34:13",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:39:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:39:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "25",
+   "ts": "1:34:13",
+   "processo": "50306.0xxxxx/2014 (número incompleto na legenda)",
+   "interessado": "Breno Gomes Pereira (MEI)",
+   "assunto": "Outorga de autorização como EBN — passageiros na travessia em diretriz da BR-319 (Manaus–Careiro da Várzea/AM); julgado em bloco (itens 24 a 35)",
+   "tema": [
+    "navegação interior",
+    "travessias",
+    "autorização de EBN"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deferimento conforme Res. 3285/2014.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "1:34:13",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:39:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:39:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "ts": "1:34:13",
+   "processo": "50306.0xxxxx/2014 (número incompleto na legenda)",
+   "interessado": "Carlos Augusto Oliveira Costa (MEI)",
+   "assunto": "Outorga de autorização como EBN — passageiros na travessia em diretriz da BR-319 (Manaus–Careiro da Várzea/AM); julgado em bloco (itens 24 a 35)",
+   "tema": [
+    "navegação interior",
+    "travessias",
+    "autorização de EBN"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deferimento conforme Res. 3285/2014.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "1:34:13",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:39:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:39:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "27",
+   "ts": "1:34:13",
+   "processo": "50306.0xxxxx/2014 (número incompleto na legenda)",
+   "interessado": "Paulo César de Carvalho Fonseca (MEI)",
+   "assunto": "Outorga de autorização como EBN — passageiros na travessia em diretriz da BR-319 (Manaus–Careiro da Várzea/AM); julgado em bloco (itens 24 a 35)",
+   "tema": [
+    "navegação interior",
+    "travessias",
+    "autorização de EBN"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deferimento conforme Res. 3285/2014.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "1:34:13",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:39:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:39:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "28",
+   "ts": "1:34:13",
+   "processo": "50306.0xxxxx/2014 (número incompleto na legenda)",
+   "interessado": "Sebastião (sobrenome incerto) Costa (MEI)",
+   "assunto": "Outorga de autorização como EBN — passageiros na travessia em diretriz da BR-319 (Manaus–Careiro da Várzea/AM); julgado em bloco (itens 24 a 35)",
+   "tema": [
+    "navegação interior",
+    "travessias",
+    "autorização de EBN"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deferimento conforme Res. 3285/2014.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "1:34:13",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:39:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:39:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "29",
+   "ts": "1:34:13",
+   "processo": "50306.0xxxxx/2014 (número incompleto na legenda)",
+   "interessado": "Fernando Gomes dos Santos Filho (MEI)",
+   "assunto": "Outorga de autorização como EBN — passageiros na travessia em diretriz da BR-319 (Manaus–Careiro da Várzea/AM); julgado em bloco (itens 24 a 35)",
+   "tema": [
+    "navegação interior",
+    "travessias",
+    "autorização de EBN"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deferimento conforme Res. 3285/2014.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "1:34:13",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:39:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:39:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "30",
+   "ts": "1:34:13",
+   "processo": "50306.0xxxxx/2014 (número incompleto na legenda)",
+   "interessado": "Raimundo Nonato Nogueira da Silva (MEI)",
+   "assunto": "Outorga de autorização como EBN — passageiros na travessia em diretriz da BR-319 (Manaus–Careiro da Várzea/AM); julgado em bloco (itens 24 a 35)",
+   "tema": [
+    "navegação interior",
+    "travessias",
+    "autorização de EBN"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deferimento conforme Res. 3285/2014.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "1:34:13",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:39:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:39:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "31",
+   "ts": "1:34:13",
+   "processo": "50306.0xxxxx/2014 (número incompleto na legenda)",
+   "interessado": "Edna Jerônimo do Carmo (MEI)",
+   "assunto": "Outorga de autorização como EBN — passageiros na travessia em diretriz da BR-319 (Manaus–Careiro da Várzea/AM); julgado em bloco (itens 24 a 35)",
+   "tema": [
+    "navegação interior",
+    "travessias",
+    "autorização de EBN"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deferimento conforme Res. 3285/2014.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "1:34:13",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:39:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:39:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "32",
+   "ts": "1:34:13",
+   "processo": "50306.0xxxxx/2014 (número incompleto na legenda)",
+   "interessado": "Carla Adriana Miranda da Silva (MEI)",
+   "assunto": "Outorga de autorização como EBN — passageiros na travessia em diretriz da BR-319 (Manaus–Careiro da Várzea/AM); julgado em bloco (itens 24 a 35)",
+   "tema": [
+    "navegação interior",
+    "travessias",
+    "autorização de EBN"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deferimento conforme Res. 3285/2014.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "1:34:13",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:39:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:39:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "33",
+   "ts": "1:34:13",
+   "processo": "50306.0xxxxx/2014 (número incompleto na legenda)",
+   "interessado": "Romualdo Queiroz de Lira (MEI)",
+   "assunto": "Outorga de autorização como EBN — passageiros na travessia em diretriz da BR-319 (Manaus–Careiro da Várzea/AM); julgado em bloco (itens 24 a 35)",
+   "tema": [
+    "navegação interior",
+    "travessias",
+    "autorização de EBN"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deferimento conforme Res. 3285/2014.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "1:34:13",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:39:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:39:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "34",
+   "ts": "1:34:13",
+   "processo": "50306.0xxxxx/2014 (número incompleto na legenda)",
+   "interessado": "Antônio Benvindo do Nascimento (MEI)",
+   "assunto": "Outorga de autorização como EBN — passageiros na travessia em diretriz da BR-319 (Manaus–Careiro da Várzea/AM); julgado em bloco (itens 24 a 35)",
+   "tema": [
+    "navegação interior",
+    "travessias",
+    "autorização de EBN"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deferimento conforme Res. 3285/2014.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "1:34:13",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:39:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:39:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "35",
+   "ts": "1:34:13",
+   "processo": "50306.0xxxxx/2014 (número incompleto na legenda)",
+   "interessado": "Francisca Correa dos Santos (MEI)",
+   "assunto": "Outorga de autorização como EBN — passageiros na travessia em diretriz da BR-319 (Manaus–Careiro da Várzea/AM); julgado em bloco (itens 24 a 35)",
+   "tema": [
+    "navegação interior",
+    "travessias",
+    "autorização de EBN"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deferimento conforme Res. 3285/2014.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "1:34:13",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:39:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:39:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "36",
+   "ts": "1:39:18",
+   "processo": "50300.002763/2014-92",
+   "interessado": "E. A. Feitosa",
+   "assunto": "Outorga de autorização — carga geral, navegação interior longitudinal na região amazônica",
+   "tema": [
+    "navegação interior",
+    "autorização de EBN"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deferimento.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "1:39:18",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:40:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:40:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "37",
+   "ts": "1:40:38",
+   "processo": "50327.000044/2014-66 (número incerto)",
+   "interessado": "Leme Transportes Fluviais Ltda.",
+   "assunto": "Outorga de autorização — carga geral, navegação interior longitudinal na região amazônica",
+   "tema": [
+    "navegação interior",
+    "autorização de EBN"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deferimento.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "1:40:38",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:42:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:42:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "38",
+   "ts": "1:42:07",
+   "processo": "50323.000073/2014-12 (número incerto)",
+   "interessado": "Empresa de Navegação JG Ltda.",
+   "assunto": "Registro de instalação de apoio operacional fora do porto organizado em Tabatinga/AM (art. 39, II, Res. 3290)",
+   "tema": [
+    "registro de instalação",
+    "navegação interior"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprovado o registro.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "1:42:07",
+     "justificativa": "manifestações favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:46:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:46:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "39",
+   "ts": "1:46:47",
+   "processo": "50300.001808/2014-11",
+   "interessado": "L. P. Moreira de Luna",
+   "assunto": "Registro de instalação para construção/reparo naval até 1.000 TPB em Porto Velho/RO (art. 39, III, Res. 3290)",
+   "tema": [
+    "registro de instalação",
+    "estaleiro"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprovado o registro; Povia registra que ainda não é hora de delegar à SOG a decisão sobre registros.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "1:46:47",
+     "justificativa": "manifestações favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:51:00",
+     "confianca": "alta",
+     "justificativa": "prefere manter registros do art. 39 na colegiada por ora; matéria nova precisa sedimentar"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:51:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "40",
+   "ts": "1:51:45",
+   "processo": "50319.000025/2014-05 (número incerto)",
+   "interessado": "Multigrain S.A. (Terminal Marítimo Inácio Barbosa — TMIB)",
+   "assunto": "Requerimento de habilitação ao REIDI (adequação do armazém 7, Barra dos Coqueiros/SE)",
+   "tema": [
+    "REIDI",
+    "autorização de TUP"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade: projeto não habilitável",
+   "resumo_voto": "Usuária de terminal não pode aderir ao REIDI (Lei 11.488, Decreto 6.144, Portaria SEP 124/2013); autos à SEP.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "1:51:45",
+     "justificativa": "usuária não é titular de outorga",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:57:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:57:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "41",
+   "ts": "1:57:34",
+   "processo": "50306.000935/2013-52",
+   "interessado": "Eterna (nome incerto) Navegação e Logística Ltda.",
+   "assunto": "Renúncia de autorização (cargas, navegação interior e rota Brasil–Iquitos)",
+   "tema": [
+    "navegação interior",
+    "autorização de EBN"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Extinta a outorga, sem isentar sanções por descumprimentos.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "1:57:34",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "1:59:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:59:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "43",
+   "ts": "2:00:23",
+   "processo": "50308.000986/2014-45",
+   "interessado": "Petróleo Sabbá S.A.; EMAP",
+   "assunto": "Processo sancionador: ocupação de área no Porto do Itaqui sem contrato após extinção do TAC",
+   "tema": [
+    "fiscalização e sanções",
+    "arrendamento em porto organizado",
+    "Porto do Itaqui"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "pedido de vista de Adalberto Tokarski",
+   "resumo_voto": "Relator votou por subsistência do auto, multa de R$ 500 mil e prazo de 60 dias para contrato de transição sob pena de interdição.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova multa de R$ 500 mil",
+     "ts": "2:00:23",
+     "justificativa": "ocupação sem instrumento contratual após recusar contrato de transição; recurso sem efeito suspensivo",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "pede vista",
+     "ts": "2:09:38",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "44",
+   "ts": "2:09:45",
+   "processo": "50311.002097/2012-00 (número incerto)",
+   "interessado": "Companhia Docas do Estado da Bahia (Codeba)",
+   "assunto": "Pedido de reconsideração contra multa de R$ 119.800 (cessão de área sem licitação no Porto de Aratu)",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "Porto de Aratu"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade: negado provimento, multa recalculada",
+   "resumo_voto": "Sem prescrição (obrigação de trato sucessivo) nem bis in idem; multa reduzida para o valor da nova dosimetria (legenda: «64 1152 reais»).",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "2:09:45",
+     "justificativa": "infração caracterizada; nova metodologia de dosimetria",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:18:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:18:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "45",
+   "ts": "2:18:13",
+   "processo": "50319.000023/2014-86 (número incerto)",
+   "interessado": "Empresa de Navegação VJB Ltda.",
+   "assunto": "Renúncia de autorização — travessia no rio Uruguai (Iraí/RS–Palmitos/SC)",
+   "tema": [
+    "travessias",
+    "autorização de EBN"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Extinção por renúncia (acesso terrestre não construído, ponte em reforma).",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "2:18:13",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:21:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:21:00",
+     "confianca": "media",
+     "justificativa": "lamenta que a autorização urgente não pôde ser usada por falta de acesso"
+    }
+   ]
+  },
+  {
+   "id": "46",
+   "ts": "2:21:31",
+   "processo": "50300.000354/2014-51 (número incerto)",
+   "interessado": "Terminal de Granéis de Santa Catarina (TGSC)",
+   "assunto": "Proposta de declaração de utilidade pública (supressão de Mata Atlântica) para TUP em São Francisco do Sul/SC",
+   "tema": [
+    "autorização de TUP",
+    "sustentabilidade",
+    "licenciamento ambiental"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Empreendimento reconhecido como apto à DUP; autos à SEP.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "2:21:31",
+     "justificativa": "interesse público demonstrado; DUP pré-condição da licença de instalação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:31:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:31:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "47",
+   "ts": "2:32:06",
+   "processo": "50325.000024/2013-51 (número incerto)",
+   "interessado": "Agrovia do Nordeste S.A.; Odebrecht TransPort S.A.",
+   "assunto": "Transferência de controle societário do arrendatário do contrato CT 29/2012 no Porto de Suape",
+   "tema": [
+    "arrendamento em porto organizado",
+    "transferência de controle"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Possibilidade de transferência; autos à SEP.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "2:32:06",
+     "justificativa": "capacidade técnica e financeira; aprovação do CADE",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:37:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:37:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "48",
+   "ts": "2:37:38",
+   "processo": "50304.001083/2014-11",
+   "interessado": "Porto do Recife S.A.",
+   "assunto": "Processo sancionador: exploração de imóveis da União sem contratos",
+   "tema": [
+    "fiscalização e sanções",
+    "TAC",
+    "Porto do Recife"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Auto subsistente (multa proposta de R$ 91.882), efeitos sobrestados até assinatura de TAC.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "2:37:38",
+     "justificativa": "infração caracterizada; interesse em TAC",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:45:05",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:45:05",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "49",
+   "ts": "2:45:14",
+   "processo": "50317.000099/2019 (número incerto)",
+   "interessado": "Companhia Docas do Pará (CDP); Alubar Metais e Cabos S.A.",
+   "assunto": "Aditivo de unificação dos contratos de arrendamento 18/94 e 58/97 em Vila do Conde (área 62.850 m², reequilíbrio, titularidade)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "Porto de Vila do Conde"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Possibilidade de firmar o aditivo de unificação; autos à SEP; cópia ao PAC sobre a divergência de áreas.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "2:45:14",
+     "justificativa": "área não operacional, sem disputa; benefícios da cadeia do alumínio; estudo de viabilidade aprovado",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator, com elogio ao voto",
+     "ts": "3:08:25",
+     "confianca": "alta",
+     "justificativa": "voto didático sobre matéria complexa; Vila do Conde tem áreas ociosas"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "3:08:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "50",
+   "ts": "3:10:19",
+   "processo": "50304.000171/2012-34",
+   "interessado": "Suape; Pandenor Importação e Exportação Ltda.",
+   "assunto": "Processo administrativo contencioso: 5º aditivo ao contrato de arrendamento 31/94 sem anuência da ANTAQ",
+   "tema": [
+    "fiscalização e sanções",
+    "arrendamento em porto organizado",
+    "Porto de Suape"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Advertência a Suape; Pandenor não punida; SOG articula texto do aditivo (voto já lido na reunião anterior, com revisão do primeiro ponto).",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "3:10:19",
+     "justificativa": "aditivo sem anuência e sem cláusulas essenciais",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "3:14:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "3:14:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "51",
+   "ts": "3:14:10",
+   "processo": "50311.002533/2013-13",
+   "interessado": "Codeba",
+   "assunto": "Pedido de reconsideração contra multa de R$ 37.125",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Negado provimento, mas infração reenquadrada na Res. 858 (irretroatividade da Res. 3274); mesmo valor.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "3:14:10",
+     "justificativa": "irretroatividade da norma sancionadora",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "3:19:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "3:19:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "52",
+   "ts": "3:19:21",
+   "processo": "50303.000663/2014-18",
+   "interessado": "Superintendência do Porto de Itajaí",
+   "assunto": "Pedido de reconsideração contra multa de R$ 19.900",
+   "tema": [
+    "fiscalização e sanções",
+    "recursos administrativos",
+    "Porto de Itajaí"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade: não conhecido (intempestivo)",
+   "resumo_voto": "Mantida a notificação 87/2014.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "3:19:21",
+     "justificativa": "intempestividade; sem fatos novos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "3:23:40",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "3:23:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "53",
+   "ts": "3:23:48",
+   "processo": "50300.002651/2014-31",
+   "interessado": "Zelo Construções Navais e Serviços Marítimos Ltda.",
+   "assunto": "Outorga de autorização — apoio portuário até 2.000 HP",
+   "tema": [
+    "navegação de apoio",
+    "autorização de EBN"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deferimento.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "3:23:48",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "3:26:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "3:26:25",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "54",
+   "ts": "3:26:33",
+   "processo": "50327.000035/2014-75 (número incerto)",
+   "interessado": "Porto de Areia Cristo Rei Ltda.",
+   "assunto": "Outorga de autorização para pré-registro no REB (navegação interior, região do Paraná)",
+   "tema": [
+    "navegação interior",
+    "autorização de EBN",
+    "REB"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deferimento, sem direito a afretamento.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "3:26:33",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "3:29:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "3:29:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "55",
+   "ts": "3:30:04",
+   "processo": "50312.002469/2014-41",
+   "interessado": "Bruno Paixão Barreto Starship Serviços Portuários EPP",
+   "assunto": "Outorga de autorização — apoio portuário até 2.000 HP (Vitória/ES)",
+   "tema": [
+    "navegação de apoio",
+    "autorização de EBN"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deferimento.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "3:30:04",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "3:32:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "3:32:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "56",
+   "ts": "3:32:41",
+   "processo": "50306.002140/2014-61",
+   "interessado": "Paulo Sérgio de Oliveira Pinto (MEI)",
+   "assunto": "Outorga de autorização — travessia BR-319 (Manaus–Careiro da Várzea)",
+   "tema": [
+    "travessias",
+    "autorização de EBN"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deferimento, com condição de MEI no termo.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "3:32:41",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "3:35:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "3:35:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "57",
+   "ts": "3:36:01",
+   "processo": "50300.000313/2014-?? (número incerto)",
+   "interessado": "Mestre (nome incerto) Serviço de Navegação Ltda.",
+   "assunto": "Outorga de autorização",
+   "tema": [
+    "autorização de EBN"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "pedido de vista (aparentemente do Diretor-Geral Mário Povia)",
+   "resumo_voto": "Voto não lido.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "pede vista",
+     "ts": "3:36:01",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "58",
+   "ts": "3:36:21",
+   "processo": "50300.002739/2014-53",
+   "interessado": "Navegação Bom Jesus Ltda.",
+   "assunto": "Outorga de autorização — apoio portuário até 2.000 HP (Candeias/BA)",
+   "tema": [
+    "navegação de apoio",
+    "autorização de EBN"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deferimento.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "3:36:21",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "3:39:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "3:39:00",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "59",
+   "ts": "3:39:09",
+   "processo": "50306.002212/2014-79",
+   "interessado": "V. Silva de Souza e Cia. Ltda.",
+   "assunto": "Outorga de autorização — travessia BR-319 (Manaus–Careiro)",
+   "tema": [
+    "travessias",
+    "autorização de EBN"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Deferimento.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "3:39:09",
+     "justificativa": "pareceres favoráveis",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "3:41:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "3:41:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "60",
+   "ts": "3:42:00",
+   "processo": "50300.002649/2014-62",
+   "interessado": "Administração dos Portos de Paranaguá e Antonina (APPA)",
+   "assunto": "Operação provisória do terminal público de álcool do Porto de Paranaguá com pessoal próprio até licitação (bloco 2)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "Porto de Paranaguá"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Autorizado em caráter temporário, condicionado a regularidade ambiental, ANP e município; SOG acompanha também o terminal de fertilizantes.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "3:42:00",
+     "justificativa": "art. 35 da Res. 2240; interesse público até a licitação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "3:48:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "3:48:00",
+     "confianca": "media",
+     "justificativa": "perguntou sobre a exigência de regularidade perante o município (alvará)"
+    }
+   ]
+  },
+  {
+   "id": "62",
+   "ts": "3:49:02",
+   "processo": "50301.001371/2013-15",
+   "interessado": "GE Oil & Gas do Brasil Ltda.",
+   "assunto": "Processo administrativo contencioso (documentos não apresentados; obra de almoxarifado sem autorização)",
+   "tema": [
+    "fiscalização e sanções",
+    "autorização de TUP"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Auto subsistente; multa de R$ 43.750 só pelo inciso 31 do art. 18 da Res. 1660 (demais infrações sanadas).",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "3:49:02",
+     "justificativa": "documentos apresentados no curso do PAC; resta a obra sem autorização",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "3:55:55",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "3:55:55",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "63",
+   "ts": "3:56:03",
+   "processo": "50300.000653/2014-96",
+   "interessado": "Companhia Docas do Pará (CDP); Transpetro",
+   "assunto": "Contrato de transição de 180 dias no terminal de Miramar (área prevista no bloco 1)",
+   "tema": [
+    "arrendamento em porto organizado",
+    "contrato de transição",
+    "Porto de Belém"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Autorizado o contrato de transição, com possibilidade de renovação nas mesmas condições.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "3:56:03",
+     "justificativa": "entendimento da SEP; área no programa de arrendamentos",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "4:02:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "4:02:50",
+     "confianca": "alta",
+     "justificativa": "pede que a SOG acompanhe a inclusão da área no bloco 1"
+    }
+   ]
+  },
+  {
+   "id": "64",
+   "ts": "4:03:08",
+   "processo": "50301.000372/2014-23",
+   "interessado": "Nitport Serviços Portuários S.A.",
+   "assunto": "Processo sancionador (Porto de Niterói): exploração de terminal sem autorização e falta de informações",
+   "tema": [
+    "fiscalização e sanções",
+    "Porto de Niterói"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Auto parcialmente subsistente: advertência por não prestar informações; SFC verifica domínio da área.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "4:03:08",
+     "justificativa": "exploração irregular não comprovada; falta de informações caracterizada",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "4:11:30",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "4:11:30",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "66",
+   "ts": "4:12:15",
+   "processo": "50300.002768/2014-15",
+   "interessado": "Superintendência do Porto do Rio Grande (SUPRG)",
+   "assunto": "Referendo da Res. 3861 (descarga direta do navio no estaleiro Rio Grande, em caráter emergencial)",
+   "tema": [
+    "referendo",
+    "operação emergencial",
+    "Porto do Rio Grande"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Referendada a autorização; debate sobre pedidos sucessivos e irregularidade das áreas de estaleiros.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "4:12:15",
+     "justificativa": "urgência sem reunião da diretoria",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "4:16:00",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "de acordo, com observação",
+     "ts": "4:16:00",
+     "confianca": "alta",
+     "justificativa": "interessado faz pedidos emergenciais sucessivos; é preciso regularizar"
+    }
+   ]
+  },
+  {
+   "id": "67",
+   "ts": "4:24:39",
+   "processo": "Despacho 1/2015-DG",
+   "interessado": "ANTAQ (servidor Rogério Menescal)",
+   "assunto": "Referendo do afastamento de servidor para viagem de estudo (Barcelona e Bruxelas)",
+   "tema": [
+    "institucional",
+    "referendo"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Referendado.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "4:24:39",
+     "justificativa": "ad referendum",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "4:25:10",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "4:25:10",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "71",
+   "ts": "4:25:23",
+   "processo": "50300.002791/2014-18",
+   "interessado": "Secretaria de Portos (SEP/PR)",
+   "assunto": "Referendo da requisição de servidor para cargo na SEP",
+   "tema": [
+    "institucional",
+    "referendo"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "referendado por unanimidade",
+   "resumo_voto": "Referendado.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova",
+     "ts": "4:25:23",
+     "justificativa": "prazo da nomeação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "4:26:50",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "4:26:50",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "68",
+   "ts": "4:26:59",
+   "processo": "50300.000211/2014-41",
+   "interessado": "ANTAQ (SDS/GMS)",
+   "assunto": "Agenda Ambiental e de Segurança Aquaviária (planejamento estratégico)",
+   "tema": [
+    "sustentabilidade",
+    "institucional"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade com ressalva de ajustes posteriores",
+   "resumo_voto": "Povia pediu vista e depois aceitou aprovar condicionado a ajustes (segurança operacional, navegação interior e marítima, IDA); discussão marcada para o dia 4.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, aprova",
+     "ts": "4:26:59",
+     "justificativa": "nota técnica 3/2014 da GMS",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "pediu vista e depois acompanhou, com ressalva de ajustes",
+     "ts": "4:31:14",
+     "confianca": "alta",
+     "justificativa": "segurança vai além do trabalhador portuário: operação, sociedade, navegação interior (escalpelamento), vazamentos"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha, condicionado a ajustes",
+     "ts": "4:45:56",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "1 — 50300.002318/2013-41 TNPM (PAS, relator Fernando Fonseca, vista Tokarski)",
+   "relator": "Fernando Fonseca",
+   "motivo": "vistor baixou o processo em diligência",
+   "ts": "0:00:32"
+  },
+  {
+   "item": "3 — 50300.001376/2014-39 Transvale (recurso, relator Fernando Fonseca)",
+   "relator": "Fernando Fonseca",
+   "motivo": "Tokarski pediu prorrogação de vista",
+   "ts": "0:08:18"
+  },
+  {
+   "item": "42 — 50300.000335/2002 Cargill Agrícola, TUP Porto Velho (contrato de adesão)",
+   "relator": "Fernando Fonseca",
+   "motivo": "retirado para diligência à SOG e SFC",
+   "ts": "2:00:00"
+  },
+  {
+   "item": "61 — 50300.001628/2013-49 Subsea7 do Brasil (recurso, Anúncio Público 48/2013)",
+   "relator": "Adalberto Tokarski",
+   "motivo": "análise mais profunda",
+   "ts": "3:48:28"
+  },
+  {
+   "item": "65 — 50309.002018/2013-82 Codern (PAS)",
+   "relator": "Adalberto Tokarski",
+   "motivo": "mais análise",
+   "ts": "4:11:37"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática: números de processo e nomes de interessados frequentemente distorcidos (marcados como incertos); valores de multa podem estar errados (ex.: Codeba item 44).",
+  "Data da reunião inferida do conteúdo (janeiro de 2015); dia 28 tirado do cabeçalho, não confirmado na fala.",
+  "ts de votos de quem só acompanha são aproximados.",
+  "Item 57: não está claro quem pediu vista («quem pedirá a vista sou eu»), atribuído a Povia com confiança baixa.",
+  "Item 69 (50300.000704/2009-12) anunciado mas a transcrição termina antes da deliberação.",
+  "Os itens 24 a 35 têm números de processo incompletos na legenda."
+ ]
+}

@@ -38,3 +38,5 @@ Tom e «perfil» (cauteloso, procedimental) são leitura das justificativas, mar
 - **Conferência:** o comparador passou a contar «aprovado»/«referendado» sem a palavra «unanimidade» como unânime quando não há voto divergente (antes caía em «outro»). ANM resultado 90,3% → 93,1%.
 - **Desfecho para a empresa:** «multa reduzida»/«reduz a multa» agora conta como parcial. Respostas corrigidas com a base atual: CONCER 147 desfavoráveis / 9 parciais / 14 sem mérito; Rumo 15 / 8 favoráveis / 3 parciais / 23 neutros / 10 sem mérito; Vale (ANM) 31 / 7 / 6 / 28. Sustentação oral: 55% desfavorável com sustentação × 63% sem (n = 47).
 - **Relatório:** a caixa «desfecho favorável» lia o número de «desfavorável» (regex); corrigido com `(?<!des)`.
+- **ANTAQ 2015–2018** (55 reuniões; várias de 2015, publicadas em 2016): conferência cega de 45 itens — voto 96,3%, relator 100%, resultado 95,6%. Eventos ANTAQ: 137 analisados (364 falas de diretores). Base ANTAQ: 148 reuniões, 5.053 itens, 16.048 votos.
+- **Skill cobertura-em-toda-resposta** + `pipeline/cobertura_resposta.py`: toda resposta traz canal × texto × analisado, lacunas e taxa da conferência.

@@ -1,0 +1,1034 @@
+{
+ "meta": {
+  "video_id": "29JP6iKZViY",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo extraído de data/transcricoes; ts de quem só acompanha são aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "388",
+  "data": "2015-08-12",
+  "formato": "presencial (transmitida pela internet)",
+  "presidente_da_sessao": "Mário Povia (Diretor-Geral)",
+  "diretores_presentes": [
+   "Mário Povia",
+   "Fernando Fonseca",
+   "Adalberto Tokarski"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "A data do cabeçalho (2016-02-03) é a de upload; pelo conteúdo a sessão ocorreu em agosto de 2015 (autos dos itens 24/25 chegaram ao relator em 07/08/2015, navios previstos para 05 e 10/08/2015; cita a 387ª RO como anterior, datada 29/07/2015). 2015-08-12 é aproximação.",
+   "Diretoria com três diretores: Mário Povia (DG), Fernando Fonseca e Adalberto Tokarski; secretário-geral chamado de Joelson (não vota).",
+   "Divergências: item 2 (Povia diverge; vista retomada por Tokarski para consulta à PFA) e item 3 (voto-vista de Tokarski prevalece, relator Fonseca vencido). Vista de Tokarski no item 13; retirados os itens 21 (Fonseca) e 27 (Tokarski).",
+   "Povia cumprimenta Tokarski pela comenda recebida do Itamaraty (integração por hidrovias com a América do Sul)."
+  ]
+ },
+ "itens": [
+  {
+   "id": "1",
+   "ts": "0:00:43",
+   "processo": "50300.010725/2013-36 (número incerto)",
+   "interessado": "Intercâmbio Terminal de Contêineres e Logística Ltda.",
+   "assunto": "Processo administrativo sancionador por deixar de adaptar a outorga (contrato de adesão MTD/PH 081/99) — voto-vista",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "adaptação contratual",
+    "autorização de TUP"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade (auto subsistente, multa)",
+   "resumo_voto": "Auto 00288-2 subsistente; multa de R$ 87.500 (art. 32, XXXVIII, Res. 3274); ajuste da razão social da empresa conforme o auto.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aplica multa (ajusta razão social)",
+     "ts": "0:00:43",
+     "confianca": "media",
+     "justificativa": "voto proferido em sessão anterior; acolhe o ajuste de razão social"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "voto-vista: acompanha o relator com ressalva sobre a razão social",
+     "ts": "0:01:16",
+     "confianca": "alta",
+     "justificativa": "voto do relator saiu em nome de outra empresa (S.A.) diferente da autuada"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "0:02:47",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:02:54",
+   "processo": "50000.006971/1993 (número incerto)",
+   "interessado": "Condomínio Usiminas, Gerdau Açominas e ArcelorMittal (TUP em Tubarão, Vitória-ES)",
+   "assunto": "Adaptação do contrato de adesão MT/DPH 034/95 e mudança de titularidade (incorporação da ArcelorMittal Tubarão pela ArcelorMittal Brasil) — voto-vista",
+   "tema": [
+    "adaptação contratual",
+    "transferência de titularidade",
+    "autorização de TUP"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "não deliberado: vista retomada para diligência/consulta à PFA (retirado de pauta)",
+   "resumo_voto": "Relator propunha adaptação com 180 dias para apresentar certidão de uso de espaço em águas públicas (SPU) e envio à SEP; Tokarski acompanhou na vista; Povia entendeu ser mera sucessão (adaptação só na ANTAQ, sem certidão); diante da divergência, decidiram retomar a vista e consultar a procuradoria.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova adaptação com prazo para certidão da SPU e envio à SEP",
+     "ts": "0:03:47",
+     "confianca": "media",
+     "justificativa": "Portaria SEP 249/2013 exige o procedimento na mudança de titularidade; admitiu rever se comprovada a incorporação"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "voto-vista: acompanha o relator; depois retoma a vista para diligência",
+     "ts": "0:13:07",
+     "confianca": "media",
+     "justificativa": "pretendia dispensar a certidão da SPU, mas a Portaria 249 exige na mudança de titularidade"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "diverge (mera sucessão, adaptação só na ANTAQ)",
+     "ts": "0:14:29",
+     "confianca": "media",
+     "justificativa": "incorporação é sucessão civil, não transferência de titularidade em sentido estrito; dispensaria Portaria 249 e certidão do espelho d’água"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:18:54",
+   "processo": "50300.000911/2014-34",
+   "interessado": "Terminal Portuário do Mearim S.A. (MA)",
+   "assunto": "Pedido de reconsideração contra multa de R$ 300 mil da SFC por descumprimento do TAC 02/2012 (início das obras do TUP Mearim granéis sólidos) — voto-vista",
+   "tema": [
+    "recursos administrativos",
+    "fiscalização e sanções (TAC, multa)",
+    "autorização de TUP"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por maioria o voto-vista (provimento, TAC extinto sem multa); relator vencido",
+   "resumo_voto": "Prevalece o voto-vista de Tokarski: TAC extinto sem multa — multa da cláusula 4ª refere-se ao TUP de produtos siderúrgicos (prazo 01/01/2016), atraso justificado (crise 2008-09, cancelamento da refinaria da Petrobras, solo, MP 595/Lei 12.815) e adaptação da outorga absorveu o TAC.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, mantinha a multa (vencido)",
+     "ts": "0:33:43",
+     "confianca": "baixa",
+     "justificativa": "cláusula do TAC é ambígua, mas a área técnica entendeu que a multa cabia também pelo não início da parte de granéis; mantém posicionamento (atribuição de falante incerta)"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "voto-vista: dá provimento, extingue TAC sem multa",
+     "ts": "0:19:17",
+     "confianca": "alta",
+     "justificativa": "multa prevista só para o TUP siderúrgico; atraso por fatos alheios; fim da exigência de carga própria e adaptação do contrato (contrato de adesão 86/2015) absorveram o TAC; art. 65 da Lei 9.784"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o voto-vista",
+     "ts": "0:36:05",
+     "confianca": "media",
+     "justificativa": "adaptação abre novo prazo que depende só do empreendedor; manter a penalidade seria antagônico"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "0:36:28",
+   "processo": "50310.002544/2013-11",
+   "interessado": "Charles William Leal Abdon (empresário; embarcação Tita Abdon)",
+   "assunto": "Processo administrativo contencioso por transporte longitudinal de passageiros e cargas Macapá-AP–Chaves-PA sem autorização",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "navegação interior / passageiros"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade (multa e prazo para regularizar)",
+   "resumo_voto": "Auto subsistente só quanto ao inciso XXXIX do art. 20 da Res. 912 (auto não tratou da outra conduta); multa de R$ 10.500; 60 dias para regularizar sob pena de interdição.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aplica multa",
+     "ts": "0:36:28",
+     "confianca": "alta",
+     "justificativa": "autoria e materialidade comprovadas; empresário desistiu de completar documentos da outorga; outra infração não constava do auto"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "0:43:46",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:43:46",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "0:44:01",
+   "processo": "50305.001573/2013-27",
+   "interessado": "Companhia Docas de Santana (CDSA)",
+   "assunto": "Processo administrativo contencioso sobre o plano de segurança (ISPS/Conportos) do porto organizado de Santana",
+   "tema": [
+    "fiscalização e sanções",
+    "autoridade portuária",
+    "segurança portuária"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade (auto insubsistente, arquivamento)",
+   "resumo_voto": "Auto 0402-2 insubsistente: Docas adotou as providências e o plano ainda depende da CESPORTOS/AP; SFC e UR Belém acompanham; arquivamento (contra parecer da PFA).",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, julga insubsistente",
+     "ts": "0:44:01",
+     "confianca": "alta",
+     "justificativa": "não comprovada a materialidade; autoridade portuária tomou as medidas conhecidas; plano pendente de órgão externo"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "0:52:33",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "0:52:33",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "0:52:42",
+   "processo": "50314.001085/2014-91",
+   "interessado": "Superintendência do Porto de Rio Grande (SUPRG); Bianchini S.A.",
+   "assunto": "Processo administrativo sancionador por permitir ocupação de área do porto organizado pela Bianchini (píer do TUP) sem contrato",
+   "tema": [
+    "fiscalização e sanções",
+    "autoridade portuária",
+    "autorização de TUP",
+    "contrato de passagem"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade (auto insubsistente, arquivamento)",
+   "resumo_voto": "Auto 0737-4 insubsistente: TUP da Bianchini é outorga regular anterior à poligonal, readaptada pela ANTAQ; contrato de passagem cobre a ligação; espelho d’água pago à SPU; multa proposta de R$ 1 milhão afastada.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, julga insubsistente",
+     "ts": "0:52:42",
+     "confianca": "alta",
+     "justificativa": "regimes jurídicos distintos; ocupação regular do TUP; contrato de passagem (Res. 2240, art. 48) adequado; aditamento sugerido pela GFP incabível"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "1:10:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:10:09",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "1:10:18",
+   "processo": "50305.000014/2014-35 (número incerto)",
+   "interessado": "A. dos Santos Pereira Transporte",
+   "assunto": "Pedido de reconsideração contra multa de R$ 3 mil (378ª RO) por deixar de prestar informações no prazo",
+   "tema": [
+    "recursos administrativos",
+    "fiscalização e sanções (multa)",
+    "navegação interior"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade (recurso negado)",
+   "resumo_voto": "Conhecer e negar provimento, mantida a multa de R$ 3 mil (art. 20, Res. 912).",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, nega provimento",
+     "ts": "1:10:18",
+     "confianca": "alta",
+     "justificativa": "sem fatos novos"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "1:11:56",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:11:56",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "1:12:04",
+   "processo": "50314.000055/2015-49",
+   "interessado": "Superintendência do Porto de Rio Grande (SUPRG); Prefeitura de Rio Grande",
+   "assunto": "Processo administrativo sancionador por cessão gratuita de ~193 m² do armazém A-2 ao município (campanha do agasalho)",
+   "tema": [
+    "fiscalização e sanções",
+    "autoridade portuária",
+    "área não operacional / cessão de uso"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade (auto insubsistente, arquivamento)",
+   "resumo_voto": "Auto 1214-9 insubsistente por interpretação teleológica do art. 62 da Res. 2240 (interesse público, área não operacional); decisão restrita ao caso concreto, sem virar precedente.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, julga insubsistente",
+     "ts": "1:12:04",
+     "confianca": "alta",
+     "justificativa": "norma não prevê todas as hipóteses; caso concreto de interesse público; não deve virar regra sistêmica"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "de acordo",
+     "ts": "1:19:43",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:19:53",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "1:19:55",
+   "processo": "50305.001908/2014-98",
+   "interessado": "Itaituba Indústria de Cimentos do Pará S.A.",
+   "assunto": "Processo administrativo sancionador por operações portuárias não autorizadas (auto 1020-0 retificado; multa proposta R$ 332.500)",
+   "tema": [
+    "fiscalização e sanções",
+    "autorização de ETC"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade (auto nulo, arquivamento e novo auto)",
+   "resumo_voto": "Declarar nulo o auto (descrição genérica do fato, sem relatório de fiscalização); arquivar; SFC lavrar novo auto (art. 44 da Res. 3259), juntar relatórios de fiscalização aos PAS e não alterar autos em fase de apuração.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, declara nulidade do auto",
+     "ts": "1:19:55",
+     "confianca": "alta",
+     "justificativa": "descrição insuficiente prejudica contraditório; dois documentos com mesmo número e conteúdos distintos não são boa prática regulatória"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "1:32:47",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:32:47",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "ts": "1:32:56",
+   "processo": "50306.002117/2014-75",
+   "interessado": "F Transporte Navegação Ltda. ME",
+   "assunto": "Outorga de autorização de EBN para travessia de passageiros na BR-319 (rios Solimões e Negro, Manaus–Careiro da Várzea-AM)",
+   "tema": [
+    "navegação interior / travessias",
+    "outorga de autorização"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade (deferido)",
+   "resumo_voto": "Expedir termo de autorização (Res. 1274).",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, defere",
+     "ts": "1:32:56",
+     "confianca": "alta",
+     "justificativa": "pareceres favoráveis de GAN, SOG e PFA"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "1:34:39",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:34:39",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "1:34:49",
+   "processo": "50310.001003/2014-49 (número incerto)",
+   "interessado": "Braskem S.A.; CODEBA (porto de Aratu)",
+   "assunto": "Processo administrativo sancionador por explorar área (~25 mil m², terminal TGL1) no porto de Aratu sem contrato vigente",
+   "tema": [
+    "fiscalização e sanções",
+    "arrendamento em porto organizado",
+    "contrato de transição"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade (auto insubsistente)",
+   "resumo_voto": "Auto 0760-9 insubsistente: lavrado logo após a Res. 3369 que reconheceu o interesse público e o contrato de transição (assinado em 11/05/2015); autoriza novos instrumentos de transição até a licitação; SOG assegura inclusão da área no programa de arrendamentos.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, julga insubsistente",
+     "ts": "1:34:49",
+     "confianca": "alta",
+     "justificativa": "exíguo prazo entre a resolução e o auto; assinatura não dependia só da empresa; importância estratégica do polo petroquímico de Camaçari; tratamento isonômico com a CODEBA"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "1:47:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "1:49:29",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "1:49:32",
+   "processo": "50320.000099/2013-09 (número incerto)",
+   "interessado": "Libra Terminal 35 S.A.; SEP; CODESP (porto de Santos)",
+   "assunto": "Análise do termo de compromisso arbitral entre SEP e Libra (controvérsias do contrato PRES 32/1998), decisão interlocutória antes do EVTEA de prorrogação antecipada",
+   "tema": [
+    "mediação/arbitragem",
+    "arrendamento em porto organizado",
+    "prorrogação antecipada"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade (texto aprovado com ajustes)",
+   "resumo_voto": "Favorável ao texto do compromisso arbitral com ajustes da SEP e da PFA (representação institucional e foro em Brasília); sugestões de mérito da PFA ficam a critério da SEP; autos voltam à SOG para o EVTEA.",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova o texto com ajustes",
+     "ts": "1:49:32",
+     "confianca": "alta",
+     "justificativa": "arbitragem tem respaldo na Lei 12.815 e no Decreto 8.465/2015; agência há anos defende pôr fim às ações judiciais e viabilizar investimentos; desnecessário vincular ao contrato da Libra Rio"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "2:02:44",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:02:44",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "2:03:03",
+   "processo": "50300.002716/2013-17 (número incerto)",
+   "interessado": "Superintendência do Porto de Rio Grande (SUPRG)",
+   "assunto": "Processo administrativo contencioso",
+   "tema": [
+    "fiscalização e sanções",
+    "autoridade portuária"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "pedido de vista (Adalberto Tokarski)",
+   "resumo_voto": "Não deliberado: Tokarski pediu vista.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "pede vista",
+     "ts": "2:03:27",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "2:03:39",
+   "processo": "50300.000105/2015-47",
+   "interessado": "Veracel Celulose S.A. (TUP de Belmonte-BA)",
+   "assunto": "Processo administrativo sancionador por não adaptar o termo de autorização 073/2003",
+   "tema": [
+    "fiscalização e sanções",
+    "adaptação contratual",
+    "autorização de TUP"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade (auto insubsistente, perda de objeto)",
+   "resumo_voto": "Auto insubsistente e arquivamento por perda de objeto: adaptação aprovada e contrato de adesão 66/2015 celebrado.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, julga insubsistente",
+     "ts": "2:03:39",
+     "confianca": "alta",
+     "justificativa": "documentação apresentada e contrato de adesão firmado; ausência de materialidade"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:07:22",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:07:22",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "2:07:25",
+   "processo": "50300.000774/2004 (número incerto)",
+   "interessado": "Teporti Terminal Portuário de Itajaí S.A.",
+   "assunto": "Adaptação do termo de autorização 227/2005 à Lei 12.815 (área ampliada de ~151.760 m², legenda incerta) e indícios de uso como recinto alfandegado sem carga aquaviária",
+   "tema": [
+    "adaptação contratual",
+    "autorização de TUP",
+    "regulação normativa",
+    "concorrência"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprovar adaptação com a área ampliada; irregularidades apuradas em autos apartados; SRG fará estudos para regular a movimentação de cargas não provenientes/destinadas ao transporte aquaviário.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova adaptação e determina estudo regulatório",
+     "ts": "2:07:25",
+     "confianca": "alta",
+     "justificativa": "dados mostram movimentação aquaviária ínfima (desvio de função, impacto concorrencial com Teconvi e recintos alfandegados); necessidade de regramento"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator, com elogio",
+     "ts": "2:28:20",
+     "confianca": "alta",
+     "justificativa": "importante verificar se terminais movimentam carga aquaviária; regra deve fixar proporção minimamente aceitável (desvio de finalidade)"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:30:12",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "2:30:16",
+   "processo": "50300.000412/2005-73",
+   "interessado": "Braskem Petroquímica S.A.",
+   "assunto": "Adaptação do termo de autorização 381/2007 (terminal marítimo, TUP) à Lei 12.815 com atualização da razão social",
+   "tema": [
+    "adaptação contratual",
+    "autorização de TUP"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprovar a adaptação conforme minuta, com a razão social atualizada; ciência à SEP.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aprova",
+     "ts": "2:30:16",
+     "confianca": "alta",
+     "justificativa": "documentação completa; minuta segue o referencial da PFA"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:36:18",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:36:18",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "2:36:23",
+   "processo": "50300.000992/2015-53",
+   "interessado": "Superintendência do Porto de Rio Grande (SUPRG); AGM Operadora Portuária",
+   "assunto": "Autorização para celebrar contrato de transição para o armazém G3 (~5.120 m²) no Porto Novo de Rio Grande",
+   "tema": [
+    "contrato de transição",
+    "arrendamento em porto organizado",
+    "autoridade portuária"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade (não autorizado)",
+   "resumo_voto": "Não autorizar o contrato de transição (não havia arrendamento anterior nem área em licitação); SUPRG deve explorar o armazém diretamente, como fiel depositária e mediante tarifa; SFC apura irregularidades.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, não autoriza",
+     "ts": "2:36:23",
+     "confianca": "alta",
+     "justificativa": "falta pressuposto do art. 35 da Res. 2240; contrato temporário anterior não lastreia a transição"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "2:45:14",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:45:14",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "ts": "2:45:22",
+   "processo": "50314.000018/2014-50",
+   "interessado": "Terminal Marítimo Luiz Fogliatto S.A. (Termasa)",
+   "assunto": "Processo administrativo contencioso: falta de alvará PPCI e construção de armazém (~38 mil t) sem autorização",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "autorização de TUP / ampliação"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade (multa)",
+   "resumo_voto": "Multa total de cerca de R$ 180.569,50: ~R$ 18.569,50 pela falta de alvará (inciso 24) e R$ 162.000 pela construção do armazém sem autorização (inciso 31), Res. 1660 (valores da legenda).",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aplica multa",
+     "ts": "2:45:22",
+     "confianca": "alta",
+     "justificativa": "materialidade comprovada; agravante de reincidência e vantagem auferida"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator, com ressalva",
+     "ts": "2:54:57",
+     "confianca": "alta",
+     "justificativa": "acha a multa pesada para a construção de armazém dentro de terminal privativo"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "2:55:24",
+     "confianca": "alta",
+     "justificativa": "ampliação exige autorização prévia (eventualmente anúncio público), não basta comunicar"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "2:55:45",
+   "processo": "50301.010826/2013 (número incerto)",
+   "interessado": "Sobrare Servemar Ltda.",
+   "assunto": "Processo administrativo contencioso (navegação de apoio marítimo/portuário): falhas formais e recapitulação da infração",
+   "tema": [
+    "fiscalização e sanções",
+    "navegação de apoio marítimo"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade (arquivamento e novo PAS)",
+   "resumo_voto": "Arquivar o PAC (falhas formais e impossibilidade de recapitular) e abrir novo PAS para apurar a falta de comunicação tempestiva do encerramento das operações.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, arquiva e determina novo PAS",
+     "ts": "2:55:45",
+     "confianca": "alta",
+     "justificativa": "alinha-se à PFA e à SFC"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "3:09:01",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "3:09:01",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "ts": "3:09:05",
+   "processo": "(número incerto)/2014-94",
+   "interessado": "Porto do Recife S.A.; Rhodia S.A.",
+   "assunto": "Processo administrativo contencioso por não submeter à ANTAQ aditivo de prorrogação do contrato de arrendamento 92/038",
+   "tema": [
+    "fiscalização e sanções (multa)",
+    "arrendamento em porto organizado",
+    "prorrogação contratual"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade (multa)",
+   "resumo_voto": "Multa de cerca de R$ 6.875 (Res. 858) por não submeter previamente o aditivo à ANTAQ.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, aplica multa",
+     "ts": "3:09:05",
+     "confianca": "alta",
+     "justificativa": "autoria e materialidade comprovadas; dosimetria das NTs 03/04-2014"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "3:18:57",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator, com ressalva",
+     "ts": "3:18:57",
+     "confianca": "media",
+     "justificativa": "ressalva sobre a competência da ANTAQ para convalidar aditivos (tratada em outro processo, junto à SEP)"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "ts": "3:19:40",
+   "processo": "50304.000946/2013-52",
+   "interessado": "Porto do Recife S.A.",
+   "assunto": "Processo conexo do Porto do Recife (reequilíbrio do contrato de arrendamento)",
+   "tema": [
+    "arrendamento em porto organizado"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "retirado de pauta pelo relator para diligências",
+   "resumo_voto": "Retirado por Fernando Fonseca para novas diligências.",
+   "votos": []
+  },
+  {
+   "id": "22",
+   "ts": "3:20:09",
+   "processo": "00045.002407/2014-69 (número incerto)",
+   "interessado": "SEP; EMAP (Empresa Maranhense de Administração Portuária); CODOMAR",
+   "assunto": "Controvérsia sobre a propriedade dos bens cedidos à EMAP pelo convênio de delegação 016/2000 (porto do Itaqui)",
+   "tema": [
+    "bens da União / patrimônio portuário",
+    "delegação de porto",
+    "institucional"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Acompanhar o parecer 48/2015 da PFA (CODOMAR só tem direito de fiscalizar os bens cedidos que comprove ser seus); SFC/UR São Luís fazem levantamento dos bens e cadeia dominial; resposta à SEP.",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, acompanha a PFA e determina inventário",
+     "ts": "3:20:09",
+     "confianca": "alta",
+     "justificativa": "controvérsia esclarecida pela PFA; tema na agenda regulatória 2016/2017"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "3:30:25",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator, com considerações",
+     "ts": "3:30:35",
+     "confianca": "alta",
+     "justificativa": "discussão estéril: tudo é da União e do porto; quem tem a gestão é a EMAP; faltou manifestação técnica; propõe levantamento preliminar e encerrar a questão"
+    }
+   ]
+  },
+  {
+   "id": "23",
+   "ts": "3:37:56",
+   "processo": "50314.002646/(número incerto)-99",
+   "interessado": "Liquigás Distribuidora S.A. (terminal de gás em Canoas-RS)",
+   "assunto": "Processo administrativo contencioso por informações divergentes ao sistema de desempenho portuário",
+   "tema": [
+    "fiscalização e sanções",
+    "estatística / SDP"
+   ],
+   "relator": "Fernando Fonseca",
+   "resultado": "aprovado por unanimidade (arquivamento)",
+   "resumo_voto": "Arquivar sem penalidade (divergência de critério de data de atracação/desatracação); SFC e UR Porto Alegre verificam cumprimento da Res. 2190 (resíduos).",
+   "votos": [
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "relator, arquiva",
+     "ts": "3:37:56",
+     "confianca": "alta",
+     "justificativa": "inexistência de infração"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "acompanha o relator",
+     "ts": "3:45:40",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "3:45:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "24",
+   "ts": "3:46:13",
+   "processo": "50314.001473/2015-11 (número incerto)",
+   "interessado": "Superintendência do Porto de Rio Grande (SUPRG); Estaleiro EBR (São José do Norte)",
+   "assunto": "Autorização em caráter especial e de emergência para descarga direta de módulos da plataforma FPSO P-74 no cais do Estaleiro EBR",
+   "tema": [
+    "autorização especial/emergencial",
+    "indústria naval / offshore"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade (deferido)",
+   "resumo_voto": "Autorizar por 30 dias (art. 49 da Lei 10.233; art. 28 da Res. 3290); SFC acompanha a operação.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, defere",
+     "ts": "3:46:13",
+     "confianca": "alta",
+     "justificativa": "instalações públicas do porto não têm condições técnicas para a operação"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "3:51:53",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "3:51:53",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "ts": "3:54:33",
+   "processo": "50300.000182/2015-13",
+   "interessado": "Mineração Rio do Norte S.A. (Porto Trombetas, Oriximiná-PA)",
+   "assunto": "Registro de instalação portuária rudimentar de apoio à navegação interior",
+   "tema": [
+    "registro de instalação portuária",
+    "navegação interior"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade (registro deferido)",
+   "resumo_voto": "Registrar a instalação (art. 39, II, Res. 3290).",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, defere",
+     "ts": "3:54:33",
+     "confianca": "alta",
+     "justificativa": "pareceres favoráveis de GAP, SOG e PFA"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "3:57:11",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "3:57:11",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "27",
+   "ts": "3:57:16",
+   "processo": "(número incerto)",
+   "interessado": "Votorantim Cimentos S.A.",
+   "assunto": "Renúncia à autorização",
+   "tema": [
+    "renúncia de outorga"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "Tokarski retirou para análise mais profunda.",
+   "votos": []
+  },
+  {
+   "id": "28",
+   "ts": "3:57:42",
+   "processo": "50314.(número incerto)/2006-09",
+   "interessado": "Ferroport Logística Comercial Exportadora S.A. (ex-LLX Minas-Rio)",
+   "assunto": "Alteração de denominação social do titular do contrato de adesão 02/2014",
+   "tema": [
+    "autorização de TUP",
+    "alteração societária / razão social"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Encaminhar à SEP para apostilamento (Portaria SEP 50); a ANTAQ exauriu sua atribuição ao registrar a informação; dispensado aditivo.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, encaminha à SEP (apostilamento)",
+     "ts": "3:57:42",
+     "confianca": "alta",
+     "justificativa": "mera mudança de nome não é mudança de titularidade; apostilamento é mais simples que aditivo"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator, após confirmar que só mudou o nome",
+     "ts": "4:03:29",
+     "confianca": "media",
+     "justificativa": "se houvesse mudança de controle societário exigiria análise regulatória"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "4:04:47",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "25",
+   "ts": "4:05:05",
+   "processo": "50314.001427/2015-11 (número incerto)",
+   "interessado": "Superintendência do Porto de Rio Grande (SUPRG); Estaleiro Rio Grande",
+   "assunto": "Autorização em caráter especial e de emergência para descarga direta de 186 peças (cascos de FPSO) no cais do Estaleiro Rio Grande",
+   "tema": [
+    "autorização especial/emergencial",
+    "indústria naval / offshore"
+   ],
+   "relator": "Adalberto Tokarski",
+   "resultado": "aprovado por unanimidade (deferido)",
+   "resumo_voto": "Autorizar por 30 dias; SFC acompanha. Item foi adiado por confusão de documentos e votado depois do 28.",
+   "votos": [
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "relator, defere",
+     "ts": "4:05:05",
+     "confianca": "alta",
+     "justificativa": "peças só poderiam ser descarregadas excepcionalmente no cais público, prejudicando outros navios"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "acompanha o relator",
+     "ts": "4:09:16",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Mário Povia",
+     "voto": "acompanha o relator",
+     "ts": "4:09:16",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "29",
+   "ts": "4:09:56",
+   "processo": "50310.000036/2012-46 (número incerto)",
+   "interessado": "Fertilizantes Santa Catarina Ltda. (Fertisanta) — porto de Imbituba",
+   "assunto": "Pedido de reconsideração (intempestivo) da Res. 3082: constituição de grupo de trabalho para apurar eventual débito da ex-arrendatária",
+   "tema": [
+    "arrendamento em porto organizado",
+    "recursos administrativos",
+    "indenização / reequilíbrio"
+   ],
+   "relator": "Mário Povia",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Constituir novo GT, com contraditório, para apurar se a Fertisanta deve valores ao patrimônio do porto, quanto e a quem (concessão encerrada, nova autoridade portuária, SEP).",
+   "votos": [
+    {
+     "diretor": "Mário Povia",
+     "voto": "relator, aprova constituição de GT",
+     "ts": "4:09:56",
+     "confianca": "alta",
+     "justificativa": "resolução anterior extrapolou sem contraditório; por justiça retomar o tema nos limites não discutidos"
+    },
+    {
+     "diretor": "Fernando Fonseca",
+     "voto": "de acordo, com dúvida sobre o escopo",
+     "ts": "4:13:03",
+     "confianca": "media",
+     "justificativa": "achava que o GT anterior já enfrentara a questão por economia processual"
+    },
+    {
+     "diretor": "Adalberto Tokarski",
+     "voto": "de acordo",
+     "ts": "4:13:03",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "2 — condomínio Usiminas/Gerdau/ArcelorMittal (vista retomada para diligência e consulta à PFA)"
+  },
+  {
+   "item": "21 — Porto do Recife, 50304.000946/2013-52 (retirado pelo relator Fernando Fonseca)"
+  },
+  {
+   "item": "27 — Votorantim Cimentos, renúncia (retirado pelo relator Adalberto Tokarski)"
+  }
+ ],
+ "limites_da_analise": [
+  "Data real não confirmada (ver observações).",
+  "Legenda muito ruim em vários trechos (itens 15–22): números de processo, áreas e valores de multa podem estar errados (marcados como incertos).",
+  "Item 3: a atribuição de quem manteve o voto original (provavelmente Fernando Fonseca, vencido) e de quem acompanhou o voto-vista (provavelmente Mário Povia) é inferida; houve fala de técnico da SFC no meio.",
+  "A legenda atribui falantes de outra época (Alber Vasconcelos, Frederico Dias, Joelson Miranda); considerados apenas Povia, Fonseca e Tokarski.",
+  "O .md não tem marcadores de minuto; ts tirados de data/transcricoes/29JP6iKZViY.json por busca de frase; votos de quem só acompanha têm ts aproximado."
+ ]
+}

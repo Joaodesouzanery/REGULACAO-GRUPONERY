@@ -34,6 +34,7 @@ Limites: legenda automática erra nomes e números; falantes são inferidos pelo
 | `agencias/antt/`, `agencias/anm/` | Árvore organizada: reuniões por ano, diretores, temas, `mandatos/`, `qualidade/` (conferências e cruzamento com atas), `exportacoes/` (planilha `votos_diretores.xlsx`, CSVs, banco compactado), `apresentacao/relatorio.pdf` |
 | `agencias/VACANCIA_AGENCIAS.md` | Comparativo de vacância entre agências |
 | `pipeline/` | Coleta (Mac), análise, indexação, `consulta.py` (perfil, ficha, empresa, grupo, microtema, precedentes, relator, reincidência, sustentações, tramitação), `relatorio.py` (PDF de cliente), `relatorio_agencia.py` (apresentação), `monitor.py`, `painel_dados.py`, `checar_integridade.py` |
+| `proposta2/` | Proposta do 2º produto (Radar Regulatório): catálogo, modelo comercial, operação, roadmap — só documento |
 | `.claude/skills/` | Regras de resposta com evidência, cuidados antes de commit, vacância, relatório de cliente, nova agência, lote do Mac, relatório visual, auditoria |
 | `.claude/agents/` | Subagentes: analista de reunião, analista de evento, conferente cego, auditor de respostas, revisor visual, pesquisador de mandatos |
 | `.claude/commands/` | Atalhos: `/pergunta`, `/relatorio`, `/lote-mac` |

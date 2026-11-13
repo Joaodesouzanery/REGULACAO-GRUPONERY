@@ -2,6 +2,12 @@
 
 **Princípio:** o cliente compra respostas e relatórios, não acesso à base. A base (transcrições, votos estruturados, trechos literais, mandatos, conferência de qualidade) e o método ficam com você. O cliente depende do serviço porque a base cresce toda semana e é cara de reproduzir.
 
+## Dois relatórios = dois produtos (nov/2026)
+- **(A) «10 perguntas»** — `pipeline/relatorio_v2.py <pasta> --agencia <ag>`: capa → sumário → **quadro da diretoria** → 10 perguntas → **comparador (quem relata, quem diverge) + superintendentes** → como ler. ~17 páginas. `--sem-diretoria` gera só as perguntas.
+- **(B) «Empresa»** — `pipeline/relatorio_empresa.py clientes/<x>/<pasta>` (nome + CNPJ, até 3 agências). Produto separado.
+- **Boletim mensal da agência** (premium, à parte) — `pipeline/boletim.py <ag> AAAA-MM`.
+- O PDF só de diretoria (`relatorio_diretoria.py`) é peça interna/prospecção.
+
 ## Ofertas sugeridas
 | Oferta | O que o cliente recebe | Ritmo | Como cobrar |
 |---|---|---|---|

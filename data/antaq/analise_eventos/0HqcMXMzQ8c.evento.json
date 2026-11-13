@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "video_id": "0HqcMXMzQ8c",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "audiencia",
+  "numero": "01/2018",
+  "titulo": "Audiência Pública nº 01/2018 – Arrendamentos de granéis líquidos em Belém e Vila do Conde",
+  "data": "2018-06-14",
+  "local": "Belém/PA (presencial)",
+  "objeto": "Minutas de edital, contrato e estudos de arrendamentos de terminais de granéis líquidos combustíveis no Porto de Belém (Miramar) e em Vila do Conde",
+  "processo": null,
+  "tema": [
+   "arrendamentos e leilões portuários",
+   "granéis líquidos",
+   "combustíveis",
+   "região Norte"
+  ],
+  "presidiu": "Mário Povia (diretor-geral da ANTAQ), inferido",
+  "diretores_presentes": [
+   "Mário Povia",
+   "Francisval Mendes"
+  ],
+  "participantes_externos": [
+   "Ministério dos Transportes (Secretaria de Fomento e Parcerias)",
+   "Secretaria Especial do PPI (Diogo Piloni)",
+   "EPL",
+   "Companhia Docas do Pará",
+   "Raízen"
+  ],
+  "resumo": "Audiência presencial em Belém sobre arrendamentos de granéis líquidos (Miramar/Belém e Vila do Conde). O diretor-geral abriu situando o programa de arrendamentos do governo e a segurança jurídica; outro diretor (provavelmente Francisval Mendes) saudou a região Norte. Empresas como a Raízen pediram atenção a sistemas compartilhados e interdependentes entre terminais; a Docas do Pará defendeu o sucesso dos leilões para diversificar sua receita.",
+  "posicoes": [
+   {
+    "quem": "Raízen",
+    "posicao": "Áreas e sistemas (combate a incêndio, dutos, armazenagem) são compartilhados e interdependentes; separar gera risco",
+    "ts": "1:30:29"
+   },
+   {
+    "quem": "Companhia Docas do Pará",
+    "posicao": "Leilões são necessários para sair da dependência de um cliente; elogiou a modelagem",
+    "ts": "2:39:14"
+   }
+  ],
+  "encaminhamentos": [
+   "Contribuições pelo sítio da ANTAQ conforme o aviso de audiência nº 1/2018"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Mário Povia",
+   "ts": "0:00:00",
+   "tema": [
+    "arrendamentos e leilões portuários",
+    "região Norte"
+   ],
+   "tipo": "abertura",
+   "resumo": "Abriu destacando a carteira de cerca de 20 áreas a licitar e que a audiência serve para colher contribuições e aprimorar edital e contrato, não para cumprir tabela.",
+   "trecho": "nós estamos aqui hoje é para cumprir tabela mas é pra que a gente vai discutir o modelo colher contribuições dos senhores e eventualmente aprimorar",
+   "confianca": "media"
+  },
+  {
+   "diretor": "Francisval Mendes",
+   "ts": "0:04:39",
+   "tema": [
+    "arrendamentos e leilões portuários",
+    "região Norte"
+   ],
+   "tipo": "abertura",
+   "resumo": "Saudou o debate, destacando o crescimento do segmento portuário na região Norte.",
+   "trecho": "quero desejar a todos um bom debate e possamos sair daqui soluções viáveis e adequadas",
+   "confianca": "baixa"
+  },
+  {
+   "diretor": "Mário Povia",
+   "ts": "2:41:36",
+   "tema": [
+    "arrendamentos e leilões portuários"
+   ],
+   "tipo": "encerramento",
+   "resumo": "Encerrou a audiência agradecendo aos órgãos e servidores envolvidos.",
+   "trecho": "obrigado a todos declarou encerrada a presente à audiência pública",
+   "confianca": "media"
+  }
+ ],
+ "limites_da_analise": [
+  "Análise cobre apenas as janelas do resumo (abertura, menções a diretores, encerramento), não a sessão inteira.",
+  "Legenda automática: nomes e números podem estar errados; falantes inferidos por saudações e contexto.",
+  "Legenda muito degradada; o nome do diretor-geral não aparece claramente ('diretor geral da antaq'), Povia inferido pela época.",
+  "Identificação de Francisval Mendes ('francês menez') é baixa."
+ ]
+}

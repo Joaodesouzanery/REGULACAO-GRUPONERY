@@ -1,0 +1,77 @@
+{
+ "meta": {
+  "video_id": "5fE59v5R9gE",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "audiencia",
+  "numero": "05/2025",
+  "titulo": "Audiência Pública nº 05/2025",
+  "data": "2025-09-25",
+  "local": "Brasília/DF (presencial com participação remota)",
+  "objeto": "documentos técnicos e jurídicos do arrendamento da área RDJ06A (granéis líquidos não inflamáveis, óleos básicos) no porto organizado do Rio de Janeiro",
+  "processo": null,
+  "tema": [
+   "arrendamentos e leilões portuários",
+   "granéis líquidos",
+   "porto do Rio de Janeiro"
+  ],
+  "presidiu": "Igor Costa (presidente da Comissão Permanente de Licitação de concessões e arrendamentos portuários)",
+  "diretores_presentes": [
+   "Alber Vasconcelos"
+  ],
+  "participantes_externos": [
+   "Ministério de Portos e Aeroportos (Bruno Neri)",
+   "PortosRio (Flávio Vieira, Eduardo Miguez)",
+   "LabTrans/UFSC (estruturador)",
+   "Denis Austin Alvarenga (inscrito)"
+  ],
+  "resumo": "Audiência sobre o arrendamento RDJ06A, área brownfield de cerca de 12 mil m² no Caju, com prazo de 25 anos e capex de cerca de R$ 26 milhões (nova dutovia e descomissionamento da atual). O diretor relator Alber Vasconcelos abriu destacando a saída de contratos transitórios para arrendamento de longo prazo e resumiu os números do projeto. O LabTrans apresentou o EVTEA. O único inscrito presente criticou o traçado da dutovia, investimentos não previstos, prazo e licenciamento ambiental (INEA); o LabTrans prometeu reavaliar.",
+  "posicoes": [
+   {
+    "quem": "Denis Austin Alvarenga",
+    "posicao": "questiona o escopo de investimentos da minuta e do EVTEA, inviabilidade da conexão da dutovia, prazo contratual e prazo de licenciamento",
+    "ts": "0:46:50"
+   },
+   {
+    "quem": "LabTrans",
+    "posicao": "reconhece restrições do traçado e se compromete a reavaliar com novas informações",
+    "ts": "0:56:21"
+   }
+  ],
+  "encaminhamentos": [
+   "Contribuições pelo formulário no portal da ANTAQ até 26/09/2025",
+   "LabTrans revisará traçado da dutovia, investimentos e prazo conforme informações recebidas"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Alber Vasconcelos",
+   "ts": "0:01:36",
+   "tema": [
+    "arrendamentos e leilões portuários",
+    "porto do Rio de Janeiro"
+   ],
+   "tipo": "abertura",
+   "resumo": "Como relator, defende tirar áreas de contratos transitórios para arrendamentos de longo prazo, elogia os estudos do LabTrans e resume capex de R$ 26 milhões, 25 anos e receita esperada para a autoridade portuária.",
+   "trecho": "o porto do Rio de Janeiro, a gente tem se esforçado aí para poder ocupar e tentar tirar dos transitórios, né, e fazer com que interessados invistam com contratos mais longos",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Alber Vasconcelos",
+   "ts": "0:55:50",
+   "tema": [
+    "arrendamentos e leilões portuários"
+   ],
+   "tipo": "resposta",
+   "resumo": "Agradece as contribuições do inscrito e repassa a resposta técnica ao LabTrans (falante inferido pela referência ao que disse no começo).",
+   "trecho": "muito obrigado, Dr. Denis, pelas contribuições. Eh, pra gente é fundamental esse processo, né? Como eu já disse no começo, eu vou passar paraa Daniele",
+   "confianca": "baixa"
+  }
+ ],
+ "limites_da_analise": [
+  "Fala de 0:55:50 atribuída a Alber Vasconcelos por inferência; pode ser do presidente da mesa.",
+  "Análise cobre abertura, janelas e encerramento; não a sessão inteira."
+ ]
+}
