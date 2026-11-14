@@ -1,11 +1,11 @@
 # Perfil analítico — Alex Azevedo · tema: institucional
 
-**Amostra:** presente em 32 das 36 reuniões analisadas em que há registro de presença/ausência; 12 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 33 das 37 reuniões analisadas em que há registro de presença/ausência; 13 votos neste tema; 2 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 10 (100% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 11 (100% dos votos em que não era relator) · relator 2 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 2/2 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 94/12; onibus 45/11; leilao_otimizacao 43/6; reequilibrio_contratual 39/5; fiscalizacao_sancoes 37/9; pedagio_freeflow 33/5; participacao_social 32/7; onibus_regular 30/6; ferrovias 30/6; judicializacao 28/6; regulacao_normativa 26/4; sandbox_inovacao 15/1; tarifa_modicidade 14/4; cargas 14/5; institucional 12/2; sustentabilidade 10/2; onibus_fretamento 8/2; onibus_semiurbano 4/1
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 99/12; onibus 45/11; leilao_otimizacao 44/6; reequilibrio_contratual 40/5; fiscalizacao_sancoes 39/9; pedagio_freeflow 34/5; participacao_social 34/7; ferrovias 31/6; regulacao_normativa 30/4; onibus_regular 30/6; judicializacao 28/6; sandbox_inovacao 17/1; cargas 15/5; tarifa_modicidade 14/4; sustentabilidade 13/2; institucional 13/2; onibus_fretamento 8/2; onibus_semiurbano 4/1
 **Argumentos recorrentes nas justificativas registradas:** governança/rito (1); eficiência/celeridade (1); evidência/dados (1)
 
 ## Evidências (reunião · item · voto · justificativa)
@@ -22,3 +22,4 @@
 - **RD 1039 (2026-08-14)**, item 1.1.3 — Nova resolução da estrutura organizacional da ANTT (revoga a Res. 5977/2022), em vigor em 01/09/2026 junto com o novo regimento interno (Res · voto: *acompanha na integralidade* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=u4SXNQPR-XQ&t=1890s) · resultado: aprovado por unanimidade
 - **RD 1040 (2026-08-27)**, item extra-pauta-ROF1-inclusao — Inclusão extra-pauta do processo do ROF1 (pedido do diretor Lucas Asfor, urgência/relevância) · voto: *de acordo* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=8p1X1Nfk9Cs&t=2499s) · resultado: aprovada inclusão por unanimidade
 - **RD 1044 (2026-10-22)**, item 1.3.1 — Acordo de cooperação técnica ANTT–Infra para o programa Melhor Ar (Portaria MT 192/2025): compartilhar dados do RNTRC, integrar ao ONTL e pr · voto: *relator, aprova* (relator, conf. alta) · «autonomia regulatória e dados como evidência para AIR» · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=7989s) · resultado: aprovado por unanimidade
+- **RD 1045 (2026-11-09)**, item 1.1.1 — Resolução que institui a Política de Sustentabilidade da ANTT (âmbito interno), com dispensa de AIR e de consulta/audiência pública · voto: *acompanha integralmente* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=2591s) · resultado: aprovado por unanimidade

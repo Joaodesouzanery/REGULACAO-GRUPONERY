@@ -1,11 +1,11 @@
 # Perfil analítico — Felipe Queiroz · tema: ferrovias
 
-**Amostra:** presente em 112 das 120 reuniões analisadas em que há registro de presença/ausência; 87 votos neste tema; 27 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 113 das 121 reuniões analisadas em que há registro de presença/ausência; 88 votos neste tema; 27 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 57 (95% dos votos em que não era relator) · relator 27 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 3
+**Votos:** acompanha o relator 58 (95% dos votos em que não era relator) · relator 27 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 3
 **Como relator:** 24/27 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 409/120; fiscalizacao_sancoes 379/101; onibus 220/58; onibus_regular 153/41; reequilibrio_contratual 128/37; regulacao_normativa 119/35; leilao_otimizacao 116/24; participacao_social 111/31; judicializacao 87/24; ferrovias 87/27; institucional 65/13; pedagio_freeflow 57/17; onibus_fretamento 56/15; cargas 40/10; sandbox_inovacao 31/12; sustentabilidade 26/13; tarifa_modicidade 15/5; onibus_semiurbano 7/0; outros 1/1
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 414/122; fiscalizacao_sancoes 381/101; onibus 220/58; onibus_regular 153/41; reequilibrio_contratual 129/37; regulacao_normativa 123/36; leilao_otimizacao 117/24; participacao_social 113/31; ferrovias 88/27; judicializacao 87/24; institucional 66/14; pedagio_freeflow 58/17; onibus_fretamento 56/15; cargas 41/10; sandbox_inovacao 33/14; sustentabilidade 29/16; tarifa_modicidade 15/5; onibus_semiurbano 7/0; outros 1/1
 **Argumentos recorrentes nas justificativas registradas:** participação social (8); governança/rito (6); transparência (5); segurança jurídica (4); eficiência/celeridade (4); TCU/controle externo (2)
 **Tom (inferência da leitura, não métrica):** crítico quanto à litigância e à lentidão | firme | entusiasta | entusiasmado | estruturado, histórico-analítico
 
@@ -98,3 +98,4 @@
 - **RD 1041 (2026-09-10)**, item extra-ferrograo — Atualização dos documentos jurídicos e estudos de viabilidade da concessão da EF-170 Ferrogrão (Sinop/MT – Miritituba/PA, ~993 km? legenda:  · voto: *acompanha* (acompanha, conf. média) · [vídeo](https://www.youtube.com/watch?v=DRpLm1FOHCA&t=1825s) · resultado: aprovado por unanimidade
 - **RD 1044 (2026-10-22)**, item 1.1.1+1.1.2 — Homologação de resultados do PSI (sandbox de sustentabilidade): rodovias (edital 3/2025: resultado final complementar do Nível 1 e prelimina · voto: *relator, homologa* (relator, conf. alta) · «continuidade do PSI e ampla governança (comitês paritários + área técnica + diretoria)» · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=5543s) · resultado: aprovados por unanimidade
 - **RD 1044 (2026-10-22)**, item 1.2.1 — Relatório final da AP 5/2026 (06/04–20/05/2026; 226 contribuições, 97 acolhidas e 51 parcialmente) e aprovação do RSF 1 (Regulamento de Serv · voto: *sigo com o relator* (acompanha, conf. média) · «elogia o enfrentamento ponto a ponto» · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=7782s) · resultado: aprovado por unanimidade
+- **RD 1045 (2026-11-09)**, item 1.3.2 — Contrato de adesão para autorização de construção e exploração de ferrovia (terminal intermodal greenfield de ~2,13 km ligado à FTL) em Caxi · voto: *acompanha ambos os relatores* (acompanha, conf. media) · «observar precedentes e orientar casos futuros; estabilidade regulatória» · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=5893s) · resultado: aprovado por unanimidade

@@ -438,3 +438,5 @@
   - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=DRpLm1FOHCA&t=1839s)
 - **RD 1041 (2026-09-10)**, 1.3.1 · relator **Alex Azevedo** · Alterações no edital do processo competitivo 2/2026 (itens 2.2, 8.1, 10.7, 18.2 e novo 12.10A) e no anexo 10 (contrato de compra e venda de ações): pe → aprovado por unanimidade
   - votos: Alex: relator; Felipe: acompanha; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=DRpLm1FOHCA&t=2576s)
+- **RD 1045 (2026-11-09)**, extrapauta · relator **Guilherme Sampaio** · Relatório final da Audiência Pública 15/2026 sobre minutas de edital de processo competitivo, termo aditivo, PER e MEF para readaptação e otimização d → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=1669s)

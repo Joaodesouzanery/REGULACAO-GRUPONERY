@@ -1,11 +1,11 @@
 # Perfil analítico — Alex Azevedo · tema: leilao_otimizacao
 
-**Amostra:** presente em 32 das 36 reuniões analisadas em que há registro de presença/ausência; 43 votos neste tema; 6 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 33 das 37 reuniões analisadas em que há registro de presença/ausência; 44 votos neste tema; 6 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 36 (97% dos votos em que não era relator) · relator 6 · vista pedida 0 · voto-vista divergente 0 · vencido 1 · outros/não captado 0
+**Votos:** acompanha o relator 37 (97% dos votos em que não era relator) · relator 6 · vista pedida 0 · voto-vista divergente 0 · vencido 1 · outros/não captado 0
 **Como relator:** 6/6 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 94/12; onibus 45/11; leilao_otimizacao 43/6; reequilibrio_contratual 39/5; fiscalizacao_sancoes 37/9; pedagio_freeflow 33/5; participacao_social 32/7; onibus_regular 30/6; ferrovias 30/6; judicializacao 28/6; regulacao_normativa 26/4; sandbox_inovacao 15/1; tarifa_modicidade 14/4; cargas 14/5; institucional 12/2; sustentabilidade 10/2; onibus_fretamento 8/2; onibus_semiurbano 4/1
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 99/12; onibus 45/11; leilao_otimizacao 44/6; reequilibrio_contratual 40/5; fiscalizacao_sancoes 39/9; pedagio_freeflow 34/5; participacao_social 34/7; ferrovias 31/6; regulacao_normativa 30/4; onibus_regular 30/6; judicializacao 28/6; sandbox_inovacao 17/1; cargas 15/5; tarifa_modicidade 14/4; sustentabilidade 13/2; institucional 13/2; onibus_fretamento 8/2; onibus_semiurbano 4/1
 **Argumentos recorrentes nas justificativas registradas:** governança/rito (2); usuário (2); TCU/controle externo (2); participação social (2); concorrência (2); eficiência/celeridade (1)
 **Tom (inferência da leitura, não métrica):** divergente, cortês | técnico, detalhista | detalhado, jurídico-procedimental | questionador, cordial | enfático e argumentativo
 
@@ -54,3 +54,4 @@
 - **RD 102ª Extraordinária (2026-09-03)**, item 1.2.2 — Edital de concessão das BR-070/174/364 (MT/RO) — Rota Agrocentral, 887 km · voto: *acompanha integralmente* (acompanha, conf. média) · [vídeo](https://www.youtube.com/watch?v=J5gkP2cLOm8&t=3460s) · resultado: aprovado por unanimidade
 - **RD 1041 (2026-09-10)**, item 1.2.1 — Homologação do resultado do leilão (edital de processo competitivo 1/2026) para alienação de 100% das ações da Autopista Régis Bittencourt ( · voto: *acompanha integralmente* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=DRpLm1FOHCA&t=2241s) · resultado: aprovado por unanimidade — vencedora EPR Participações (desconto de 22
 - **RD 1041 (2026-09-10)**, item 1.3.1 — Alterações no edital do processo competitivo 2/2026 (itens 2.2, 8.1, 10.7, 18.2 e novo 12.10A) e no anexo 10 (contrato de compra e venda de  · voto: *relator, aprova* (relator, conf. alta) · «competição, ganho de informação regulatória, custo do atraso para o usuário» · [vídeo](https://www.youtube.com/watch?v=DRpLm1FOHCA&t=2632s) · resultado: aprovado por unanimidade
+- **RD 1045 (2026-11-09)**, item extrapauta — Relatório final da Audiência Pública 15/2026 sobre minutas de edital de processo competitivo, termo aditivo, PER e MEF para readaptação e ot · voto: *acompanha o relator* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=1936s) · resultado: aprovado por unanimidade

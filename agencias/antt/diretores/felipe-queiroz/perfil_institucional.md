@@ -1,11 +1,11 @@
 # Perfil analítico — Felipe Queiroz · tema: institucional
 
-**Amostra:** presente em 112 das 120 reuniões analisadas em que há registro de presença/ausência; 65 votos neste tema; 13 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 113 das 121 reuniões analisadas em que há registro de presença/ausência; 66 votos neste tema; 14 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 49 (94% dos votos em que não era relator) · relator 13 · vista pedida 1 · voto-vista divergente 0 · vencido 0 · outros/não captado 2
-**Como relator:** 13/13 relatorias aprovadas por unanimidade.
+**Votos:** acompanha o relator 49 (94% dos votos em que não era relator) · relator 14 · vista pedida 1 · voto-vista divergente 0 · vencido 0 · outros/não captado 2
+**Como relator:** 14/14 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 409/120; fiscalizacao_sancoes 379/101; onibus 220/58; onibus_regular 153/41; reequilibrio_contratual 128/37; regulacao_normativa 119/35; leilao_otimizacao 116/24; participacao_social 111/31; judicializacao 87/24; ferrovias 87/27; institucional 65/13; pedagio_freeflow 57/17; onibus_fretamento 56/15; cargas 40/10; sandbox_inovacao 31/12; sustentabilidade 26/13; tarifa_modicidade 15/5; onibus_semiurbano 7/0; outros 1/1
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 414/122; fiscalizacao_sancoes 381/101; onibus 220/58; onibus_regular 153/41; reequilibrio_contratual 129/37; regulacao_normativa 123/36; leilao_otimizacao 117/24; participacao_social 113/31; ferrovias 88/27; judicializacao 87/24; institucional 66/14; pedagio_freeflow 58/17; onibus_fretamento 56/15; cargas 41/10; sandbox_inovacao 33/14; sustentabilidade 29/16; tarifa_modicidade 15/5; onibus_semiurbano 7/0; outros 1/1
 **Argumentos recorrentes nas justificativas registradas:** eficiência/celeridade (6); transparência (2); TCU/controle externo (2); evidência/dados (2); governança/rito (2); interesse público (1)
 **Tom (inferência da leitura, não métrica):** cuidadoso, institucional
 
@@ -76,3 +76,4 @@
 - **RD 1041 (2026-09-10)**, item 1.1.1 — Revisão do Estatuto da Auditoria Interna da ANTT (IN SFC/CGU 13/2020; certificação nível 2 do IACM em 2025; diretrizes para uso de IA em aud · voto: *acompanha* (acompanha, conf. média) · [vídeo](https://www.youtube.com/watch?v=DRpLm1FOHCA&t=690s) · resultado: aprovado por unanimidade
 - **RD 1043 (2026-10-08)**, item 1.2.4 — Acordo de cooperação para intercâmbio eletrônico de dados de seguros obrigatórios dos transportadores inscritos no RNTRC (Portaria SUROC 27/ · voto: *sigo integralmente o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=aVdLLQI1K-I&t=2384s) · resultado: aprovado por unanimidade
 - **RD 1044 (2026-10-22)**, item 1.3.1 — Acordo de cooperação técnica ANTT–Infra para o programa Melhor Ar (Portaria MT 192/2025): compartilhar dados do RNTRC, integrar ao ONTL e pr · voto: *sigo o relator* (acompanha, conf. alta) · «sustentabilidade como pauta estruturante da agência; país com 65% da matriz em caminhões» · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=8523s) · resultado: aprovado por unanimidade
+- **RD 1045 (2026-11-09)**, item 1.1.1 — Resolução que institui a Política de Sustentabilidade da ANTT (âmbito interno), com dispensa de AIR e de consulta/audiência pública · voto: *relator, aprova* (relator, conf. alta) · «política de efeitos internos, sem inovação material; dispensa de AIR e PPCS bem fundamentada pela área técnica» · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=1974s) · resultado: aprovado por unanimidade

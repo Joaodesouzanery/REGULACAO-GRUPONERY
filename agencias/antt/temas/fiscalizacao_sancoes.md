@@ -1488,3 +1488,7 @@
   - votos: Lucas: relator; Felipe: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=aVdLLQI1K-I&t=2078s)
 - **RD 1043 (2026-10-08)**, 1.3.1 · relator **Marcelo Fonseca** · Relatório final da AP 1/2026 (24 contribuições) e nova resolução do SAC, adequando a Res. 3535/2010 ao Decreto 11.034/2022 (revoga a 3535) → aprovado por unanimidade
   - votos: Marcelo: relator; Felipe: acompanha; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=aVdLLQI1K-I&t=2387s)
+- **RD 1045 (2026-11-09)**, 1.2.1 · relator **Lucas Asfor** · 10º termo aditivo ao contrato (edital 1/2021) para padronizar a metodologia de apuração do desconto de reequilíbrio (fator D), com ajuste proporcional → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=4505s)
+- **RD 1045 (2026-11-09)**, 1.3.1 · relator **Marcelo Fonseca** · Abertura de audiência pública sobre alteração da Resolução ANTT 5.982/2022 para incluir infrações e penalidades relativas aos seguros obrigatórios do  → aprovado por unanimidade
+  - votos: Marcelo: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=4970s)

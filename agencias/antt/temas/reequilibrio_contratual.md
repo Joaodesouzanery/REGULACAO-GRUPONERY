@@ -654,3 +654,5 @@
   - votos: Lucas: relator; Felipe: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=aVdLLQI1K-I&t=1618s)
 - **RD 1044 (2026-10-22)**, 1.3.2 · relator **Alex Azevedo** · 2º termo aditivo: substituir a obrigação da praça de pedágio P3A (km 3+150, Comendador Levy Gasparian/RJ) por pórtico eletrônico free flow, deslocando → aprovado por unanimidade
   - votos: Alex: relator; Felipe: acompanha; Marcelo: acompanha; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=8664s)
+- **RD 1045 (2026-11-09)**, 1.2.1 · relator **Lucas Asfor** · 10º termo aditivo ao contrato (edital 1/2021) para padronizar a metodologia de apuração do desconto de reequilíbrio (fator D), com ajuste proporcional → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=4505s)

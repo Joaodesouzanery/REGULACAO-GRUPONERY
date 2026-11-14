@@ -270,3 +270,5 @@
   - votos: Lucas: relator; Felipe: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=aVdLLQI1K-I&t=2078s)
 - **RD 1044 (2026-10-22)**, 1.3.1 · relator **Alex Azevedo** · Acordo de cooperação técnica ANTT–Infra para o programa Melhor Ar (Portaria MT 192/2025): compartilhar dados do RNTRC, integrar ao ONTL e produzir ind → aprovado por unanimidade
   - votos: Alex: relator; Felipe: acompanha; Lucas: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=7902s)
+- **RD 1045 (2026-11-09)**, 1.3.1 · relator **Marcelo Fonseca** · Abertura de audiência pública sobre alteração da Resolução ANTT 5.982/2022 para incluir infrações e penalidades relativas aos seguros obrigatórios do  → aprovado por unanimidade
+  - votos: Marcelo: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=4970s)

@@ -1,0 +1,4 @@
+# Transmissão da 808ª Reunião de Diretoria da ANTT - 23/04/19 - parte 2 (2019-04-23) — BuLMkKySEhg
+
+[0:00:01] {Marcelo Fonseca} iniciando os trabalhos é ela quem comunicará que em face à urgência natureza do assunto o diretor geral trouxe um processo é a dock que é o processo número 50 500 0 95 0 41 2015 06 da sua ok reajuste de valores dos pisos mínimos do transporte rodoviário de cargas artigo 5º inciso terceiro da lei 13.713 agosto de 2018 da oscilação no preço do óleo diesel no mercado nacional superior a 10 de junho com a pequena apresentação resumida do voto do diretor passa palavra demais diretores para a votação diretor marcelo de novo de acordo a diretora elizabeth braga de acordo com a proposta o diretor geral diretor é de simone de acordo com a proposta do relator nada mais jovem da praga ou por encerrada a reunião de diretoria número 808 às 16 horas e 13 minutos muito obrigado a subir
+

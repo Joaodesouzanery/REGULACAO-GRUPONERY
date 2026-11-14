@@ -1,11 +1,11 @@
 # Perfil analítico — Guilherme Sampaio · tema: institucional
 
-**Amostra:** presente em 158 das 167 reuniões analisadas em que há registro de presença/ausência; 123 votos neste tema; 30 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 159 das 168 reuniões analisadas em que há registro de presença/ausência; 124 votos neste tema; 30 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 92 (98% dos votos em que não era relator) · relator 30 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
+**Votos:** acompanha o relator 93 (98% dos votos em que não era relator) · relator 30 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
 **Como relator:** 26/30 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 502/120; fiscalizacao_sancoes 445/94; onibus 262/53; regulacao_normativa 215/47; onibus_regular 180/35; reequilibrio_contratual 174/34; participacao_social 158/43; leilao_otimizacao 154/52; ferrovias 148/25; institucional 123/30; judicializacao 121/19; pedagio_freeflow 80/13; onibus_fretamento 62/16; cargas 55/11; sandbox_inovacao 32/10; sustentabilidade 26/6; tarifa_modicidade 25/2; onibus_semiurbano 14/2; outros 1/0
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 507/121; fiscalizacao_sancoes 447/94; onibus 262/53; regulacao_normativa 219/47; onibus_regular 180/35; reequilibrio_contratual 175/34; participacao_social 160/44; leilao_otimizacao 155/53; ferrovias 149/25; institucional 124/30; judicializacao 121/19; pedagio_freeflow 81/13; onibus_fretamento 62/16; cargas 56/11; sandbox_inovacao 34/10; sustentabilidade 29/6; tarifa_modicidade 25/2; onibus_semiurbano 14/2; outros 1/0
 **Argumentos recorrentes nas justificativas registradas:** TCU/controle externo (4); transparência (3); sustentabilidade (3); governança/rito (2); interesse público (2); proporcionalidade (2)
 **Tom (inferência da leitura, não métrica):** elogioso e conciliador | firme | celebratório, com agradecimentos a equipes e ao TCU | elogioso
 
@@ -134,3 +134,4 @@
 - **RD 1039 (2026-08-14)**, item 1.1.3 — Nova resolução da estrutura organizacional da ANTT (revoga a Res. 5977/2022), em vigor em 01/09/2026 junto com o novo regimento interno (Res · voto: *relator, aprova* (relator, conf. alta) · [vídeo](https://www.youtube.com/watch?v=u4SXNQPR-XQ&t=1593s) · resultado: aprovado por unanimidade
 - **RD 1043 (2026-10-08)**, item 1.2.4 — Acordo de cooperação para intercâmbio eletrônico de dados de seguros obrigatórios dos transportadores inscritos no RNTRC (Portaria SUROC 27/ · voto: *proclama unanimidade* (acompanha, conf. média) · [vídeo](https://www.youtube.com/watch?v=aVdLLQI1K-I&t=2387s) · resultado: aprovado por unanimidade
 - **RD 1044 (2026-10-22)**, item 1.3.1 — Acordo de cooperação técnica ANTT–Infra para o programa Melhor Ar (Portaria MT 192/2025): compartilhar dados do RNTRC, integrar ao ONTL e pr · voto: *acompanha; proclama unanimidade* (acompanha, conf. média) · «elogia a linha do tempo (política pública, norma, acordo) e a transparência do voto» · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=8664s) · resultado: aprovado por unanimidade
+- **RD 1045 (2026-11-09)**, item 1.1.1 — Resolução que institui a Política de Sustentabilidade da ANTT (âmbito interno), com dispensa de AIR e de consulta/audiência pública · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=2601s) · resultado: aprovado por unanimidade

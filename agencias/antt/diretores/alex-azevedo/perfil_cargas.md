@@ -1,11 +1,11 @@
 # Perfil analítico — Alex Azevedo · tema: cargas
 
-**Amostra:** presente em 32 das 36 reuniões analisadas em que há registro de presença/ausência; 14 votos neste tema; 5 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 33 das 37 reuniões analisadas em que há registro de presença/ausência; 15 votos neste tema; 5 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 8 (88% dos votos em que não era relator) · relator 5 · vista pedida 1 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 9 (90% dos votos em que não era relator) · relator 5 · vista pedida 1 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 5/5 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 94/12; onibus 45/11; leilao_otimizacao 43/6; reequilibrio_contratual 39/5; fiscalizacao_sancoes 37/9; pedagio_freeflow 33/5; participacao_social 32/7; onibus_regular 30/6; ferrovias 30/6; judicializacao 28/6; regulacao_normativa 26/4; sandbox_inovacao 15/1; tarifa_modicidade 14/4; cargas 14/5; institucional 12/2; sustentabilidade 10/2; onibus_fretamento 8/2; onibus_semiurbano 4/1
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 99/12; onibus 45/11; leilao_otimizacao 44/6; reequilibrio_contratual 40/5; fiscalizacao_sancoes 39/9; pedagio_freeflow 34/5; participacao_social 34/7; ferrovias 31/6; regulacao_normativa 30/4; onibus_regular 30/6; judicializacao 28/6; sandbox_inovacao 17/1; cargas 15/5; tarifa_modicidade 14/4; sustentabilidade 13/2; institucional 13/2; onibus_fretamento 8/2; onibus_semiurbano 4/1
 **Argumentos recorrentes nas justificativas registradas:** governança/rito (1); concorrência (1); segurança viária (1); sustentabilidade (1); evidência/dados (1)
 **Tom (inferência da leitura, não métrica):** enfático, didático | extenso, econômico-contextual, dirigido ao público
 
@@ -25,3 +25,4 @@
 - **RD 1037 (2026-07-16)**, item 1.3.1 — Reajuste anual ordinário dos coeficientes dos pisos mínimos de frete (Res. 5867/2020; Lei 13.703/2018): IPCA de 3,54% (dez/2025–mai/2026) e  · voto: *relator, aprova* (relator, conf. alta) · «frete como 'infraestrutura invisível' do agronegócio; custo logístico de 12% do PIB; atualização (ANTT) e garantia (Congresso) são complementares» · [vídeo](https://www.youtube.com/watch?v=ixMkeB6vSIM&t=4972s) · resultado: aprovado por unanimidade
 - **RD 1039 (2026-08-14)**, item 1.2.1 — Relatório final da AP 5/2025 (24/07–06/09/2025; reaberta de 04–18/05/2026) e resolução que institui o Selo ESG Cargas para o transporte rodo · voto: *acompanha integralmente* (acompanha, conf. alta) · «lembra visita ao BNDES com Felipe sobre um selo verde/ESG» · [vídeo](https://www.youtube.com/watch?v=u4SXNQPR-XQ&t=2578s) · resultado: aprovado por unanimidade
 - **RD 1044 (2026-10-22)**, item 1.3.1 — Acordo de cooperação técnica ANTT–Infra para o programa Melhor Ar (Portaria MT 192/2025): compartilhar dados do RNTRC, integrar ao ONTL e pr · voto: *relator, aprova* (relator, conf. alta) · «autonomia regulatória e dados como evidência para AIR» · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=7989s) · resultado: aprovado por unanimidade
+- **RD 1045 (2026-11-09)**, item 1.3.1 — Abertura de audiência pública sobre alteração da Resolução ANTT 5.982/2022 para incluir infrações e penalidades relativas aos seguros obriga · voto: *acompanha integralmente* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=5486s) · resultado: aprovado por unanimidade

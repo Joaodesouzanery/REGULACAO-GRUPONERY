@@ -1,11 +1,11 @@
 # Perfil analítico — Lucas Asfor · tema: reequilibrio_contratual
 
-**Amostra:** presente em 112 das 117 reuniões analisadas em que há registro de presença/ausência; 125 votos neste tema; 21 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 113 das 118 reuniões analisadas em que há registro de presença/ausência; 126 votos neste tema; 22 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 102 (98% dos votos em que não era relator) · relator 21 · vista pedida 2 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
-**Como relator:** 20/21 relatorias aprovadas por unanimidade.
+**Votos:** acompanha o relator 102 (98% dos votos em que não era relator) · relator 22 · vista pedida 2 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Como relator:** 21/22 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 400/110; fiscalizacao_sancoes 361/112; onibus 214/65; onibus_regular 146/47; reequilibrio_contratual 125/21; regulacao_normativa 122/24; leilao_otimizacao 116/41; participacao_social 110/30; judicializacao 86/22; ferrovias 83/18; institucional 65/4; onibus_fretamento 58/17; pedagio_freeflow 56/15; cargas 39/12; sandbox_inovacao 29/3; sustentabilidade 27/0; tarifa_modicidade 14/2; onibus_semiurbano 7/1; outros 1/0
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 405/112; fiscalizacao_sancoes 363/113; onibus 214/65; onibus_regular 146/47; regulacao_normativa 126/26; reequilibrio_contratual 126/22; leilao_otimizacao 117/41; participacao_social 112/30; judicializacao 86/22; ferrovias 84/19; institucional 66/4; onibus_fretamento 58/17; pedagio_freeflow 57/16; cargas 40/12; sandbox_inovacao 31/3; sustentabilidade 30/0; tarifa_modicidade 14/2; onibus_semiurbano 7/1; outros 1/0
 **Argumentos recorrentes nas justificativas registradas:** transparência (3); participação social (2); segurança viária (1); TCU/controle externo (1); eficiência/celeridade (1); concorrência (1)
 **Tom (inferência da leitura, não métrica):** técnico | equilibrado
 
@@ -136,3 +136,4 @@
 - **RD 1041 (2026-09-10)**, item 1.1.4 — 22º termo aditivo: incluir a implantação do dispositivo em desnível (Trevão de Rondonópolis, BR-163 km 119+900 com BR-364, MT). Relator orig · voto: *acompanha o relator com o complemento do revisor* (revisor_acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=DRpLm1FOHCA&t=1165s) · resultado: aprovado por unanimidade
 - **RD 1043 (2026-10-08)**, item 1.2.3 — Reequilíbrio econômico-financeiro parcial baseado em evidência (IN 33/2024, medida mitigadora) por aumento extraordinário de custos de insum · voto: *relator, defere* (relator, conf. alta) · «extensa instrução da SUROD; natureza precária da medida» · [vídeo](https://www.youtube.com/watch?v=aVdLLQI1K-I&t=1675s) · resultado: aprovado por unanimidade (pleito deferido)
 - **RD 1044 (2026-10-22)**, item 1.3.2 — 2º termo aditivo: substituir a obrigação da praça de pedágio P3A (km 3+150, Comendador Levy Gasparian/RJ) por pórtico eletrônico free flow,  · voto: *acompanha* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=9478s) · resultado: aprovado por unanimidade
+- **RD 1045 (2026-11-09)**, item 1.2.1 — 10º termo aditivo ao contrato (edital 1/2021) para padronizar a metodologia de apuração do desconto de reequilíbrio (fator D), com ajuste pr · voto: *relator, aprova* (relator, conf. alta) · «incentiva conclusão antecipada das obras, alinha interesse da concessionária ao do usuário, uniformiza metodologia e dá segurança jurídica» · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=4565s) · resultado: aprovado por unanimidade

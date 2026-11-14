@@ -886,3 +886,11 @@
   - votos: Alex: relator; Lucas: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=ixMkeB6vSIM&t=6687s)
 - **RD 1039 (2026-08-14)**, 1.2.3 · relator **Felipe Queiroz** · Resolução que consolida o marco regulatório do transporte rodoviário coletivo internacional de passageiros e relatório final da AP 6/2025 (28/07–11/09 → aprovado por unanimidade
   - votos: Felipe: relator; Lucas: acompanha; Alessandro: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=u4SXNQPR-XQ&t=3134s)
+- **RD 1045 (2026-11-09)**, 1.1.1 · relator **Felipe Queiroz** · Resolução que institui a Política de Sustentabilidade da ANTT (âmbito interno), com dispensa de AIR e de consulta/audiência pública → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=1945s)
+- **RD 1045 (2026-11-09)**, 1.1.4 · relator **Lucas Asfor** · 3º termo aditivo ao contrato (edital 3/2025) para substituir a construção e operação de 5 praças de pedágio por pedágio eletrônico em livre passagem ( → aprovado por unanimidade
+  - votos: Felipe: revisor_acompanha; Alex: revisor_acompanha; Marcelo: acompanha; Lucas: relator; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=3269s)
+- **RD 1045 (2026-11-09)**, 1.3.1 · relator **Marcelo Fonseca** · Abertura de audiência pública sobre alteração da Resolução ANTT 5.982/2022 para incluir infrações e penalidades relativas aos seguros obrigatórios do  → aprovado por unanimidade
+  - votos: Marcelo: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=4970s)
+- **RD 1045 (2026-11-09)**, 1.3.2 · relator **Lucas Asfor** · Contrato de adesão para autorização de construção e exploração de ferrovia (terminal intermodal greenfield de ~2,13 km ligado à FTL) em Caxias-MA por  → aprovado por unanimidade
+  - votos: Marcelo: revisor_acompanha; Lucas: relator; Felipe: acompanha; Alex: acompanha; Guilherme: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=5508s)

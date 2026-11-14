@@ -1,11 +1,11 @@
 # Perfil analítico — Alex Azevedo · tema: sandbox_inovacao
 
-**Amostra:** presente em 32 das 36 reuniões analisadas em que há registro de presença/ausência; 15 votos neste tema; 1 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 33 das 37 reuniões analisadas em que há registro de presença/ausência; 17 votos neste tema; 1 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 13 (92% dos votos em que não era relator) · relator 1 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
+**Votos:** acompanha o relator 15 (93% dos votos em que não era relator) · relator 1 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
 **Como relator:** 1/1 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 94/12; onibus 45/11; leilao_otimizacao 43/6; reequilibrio_contratual 39/5; fiscalizacao_sancoes 37/9; pedagio_freeflow 33/5; participacao_social 32/7; onibus_regular 30/6; ferrovias 30/6; judicializacao 28/6; regulacao_normativa 26/4; sandbox_inovacao 15/1; tarifa_modicidade 14/4; cargas 14/5; institucional 12/2; sustentabilidade 10/2; onibus_fretamento 8/2; onibus_semiurbano 4/1
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 99/12; onibus 45/11; leilao_otimizacao 44/6; reequilibrio_contratual 40/5; fiscalizacao_sancoes 39/9; pedagio_freeflow 34/5; participacao_social 34/7; ferrovias 31/6; regulacao_normativa 30/4; onibus_regular 30/6; judicializacao 28/6; sandbox_inovacao 17/1; cargas 15/5; tarifa_modicidade 14/4; sustentabilidade 13/2; institucional 13/2; onibus_fretamento 8/2; onibus_semiurbano 4/1
 **Argumentos recorrentes nas justificativas registradas:** usuário (2); segurança jurídica (2); concorrência (1); participação social (1); TCU/controle externo (1)
 **Tom (inferência da leitura, não métrica):** questionador, cortês
 
@@ -26,3 +26,5 @@
 - **RD 101ª Extraordinária (2026-09-01)**, item 1.1.1 — Abertura de audiência pública, realizada concomitantemente à vigência do edital, sobre as minutas do edital do processo competitivo, termo a · voto: *acompanha integralmente* (acompanha, conf. alta) · «importância logística da BR-060 para o Centro-Oeste» · [vídeo](https://www.youtube.com/watch?v=Q8UGEXRy5vk&t=1757s) · resultado: aprovado por unanimidade
 - **RD 101ª Extraordinária (2026-09-01)**, item 1.1.2 — Edital do processo competitivo 3/2026 para alienação de 100% das ações da Concebra (a ementa lida diz 5%, erro de legenda), Rota do Pequi —  · voto: *acompanha integralmente* (acompanha, conf. alta) · «unidade ANTT–MT–TCU para destravar ativos estressados» · [vídeo](https://www.youtube.com/watch?v=Q8UGEXRy5vk&t=2475s) · resultado: aprovado por unanimidade
 - **RD 1044 (2026-10-22)**, item 1.1.1+1.1.2 — Homologação de resultados do PSI (sandbox de sustentabilidade): rodovias (edital 3/2025: resultado final complementar do Nível 1 e prelimina · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=6096s) · resultado: aprovados por unanimidade
+- **RD 1045 (2026-11-09)**, item 1.1.2 — Homologação do resultado preliminar do sandbox regulatório do Programa de Sustentabilidade para Infraestrutura (PSI): EcoRioMinas no nível 3 · voto: *acompanha integralmente* (acompanha, conf. media) · «passo importante com adesão das concessionárias aos níveis do programa» · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=2940s) · resultado: aprovado por unanimidade
+- **RD 1045 (2026-11-09)**, item 1.1.3 — Homologação do resultado final do sandbox regulatório (edital 2/2025) do Corredor Logístico Sustentável de Transporte Multimodal (Dutra/Rio- · voto: *acompanha o relator* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=3264s) · resultado: aprovado por unanimidade

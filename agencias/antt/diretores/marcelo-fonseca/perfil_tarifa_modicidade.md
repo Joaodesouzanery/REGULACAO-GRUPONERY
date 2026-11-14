@@ -1,10 +1,10 @@
 # Perfil analítico — Marcelo Fonseca · tema: tarifa_modicidade
 
-**Amostra:** presente em 10 das 11 reuniões analisadas em que há registro de presença/ausência; 3 votos neste tema; 0 relatorias. ⚠️ n < 5: tratar como indício, não como perfil.
+**Amostra:** presente em 11 das 12 reuniões analisadas em que há registro de presença/ausência; 3 votos neste tema; 0 relatorias. ⚠️ n < 5: tratar como indício, não como perfil.
 
 **Votos:** acompanha o relator 2 (66% dos votos em que não era relator) · relator 0 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 9/0; sandbox_inovacao 5/0; pedagio_freeflow 5/0; leilao_otimizacao 5/1; ferrovias 4/1; tarifa_modicidade 3/0; participacao_social 3/0; institucional 3/0; fiscalizacao_sancoes 3/1; sustentabilidade 2/0; reequilibrio_contratual 2/0; onibus 2/0; cargas 2/0; outros 1/0; onibus_regular 1/0; judicializacao 1/0
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 14/0; sandbox_inovacao 7/0; pedagio_freeflow 6/0; leilao_otimizacao 6/1; sustentabilidade 5/0; participacao_social 5/1; fiscalizacao_sancoes 5/2; ferrovias 5/1; regulacao_normativa 4/1; institucional 4/0; tarifa_modicidade 3/0; reequilibrio_contratual 3/0; cargas 3/1; onibus 2/0; outros 1/0; onibus_regular 1/0; judicializacao 1/0
 **Argumentos recorrentes nas justificativas registradas:** usuário (2)
 
 ## Evidências (reunião · item · voto · justificativa)

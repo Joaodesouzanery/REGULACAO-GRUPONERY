@@ -1,11 +1,11 @@
 # Perfil analítico — Guilherme Sampaio · tema: fiscalizacao_sancoes
 
-**Amostra:** presente em 158 das 167 reuniões analisadas em que há registro de presença/ausência; 445 votos neste tema; 94 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 159 das 168 reuniões analisadas em que há registro de presença/ausência; 447 votos neste tema; 94 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 344 (98% dos votos em que não era relator) · relator 94 · vista pedida 1 · voto-vista divergente 0 · vencido 0 · outros/não captado 6
+**Votos:** acompanha o relator 346 (98% dos votos em que não era relator) · relator 94 · vista pedida 1 · voto-vista divergente 0 · vencido 0 · outros/não captado 6
 **Como relator:** 88/94 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 502/120; fiscalizacao_sancoes 445/94; onibus 262/53; regulacao_normativa 215/47; onibus_regular 180/35; reequilibrio_contratual 174/34; participacao_social 158/43; leilao_otimizacao 154/52; ferrovias 148/25; institucional 123/30; judicializacao 121/19; pedagio_freeflow 80/13; onibus_fretamento 62/16; cargas 55/11; sandbox_inovacao 32/10; sustentabilidade 26/6; tarifa_modicidade 25/2; onibus_semiurbano 14/2; outros 1/0
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 507/121; fiscalizacao_sancoes 447/94; onibus 262/53; regulacao_normativa 219/47; onibus_regular 180/35; reequilibrio_contratual 175/34; participacao_social 160/44; leilao_otimizacao 155/53; ferrovias 149/25; institucional 124/30; judicializacao 121/19; pedagio_freeflow 81/13; onibus_fretamento 62/16; cargas 56/11; sandbox_inovacao 34/10; sustentabilidade 29/6; tarifa_modicidade 25/2; onibus_semiurbano 14/2; outros 1/0
 **Argumentos recorrentes nas justificativas registradas:** governança/rito (5); usuário (4); proporcionalidade (3); segurança jurídica (3); participação social (2); segurança viária (1)
 **Tom (inferência da leitura, não métrica):** elogioso e conciliador | firme | crítico | contundente
 
@@ -456,3 +456,5 @@
 - **RD 1041 (2026-09-10)**, item 1.2.2 — Recurso (recebido como pedido de reconsideração) contra a Deliberação 150/2026 (21/05/2026) que aplicou cassação da autorização de serviço d · voto: *proclama unanimidade* (acompanha, conf. média) · [vídeo](https://www.youtube.com/watch?v=DRpLm1FOHCA&t=2576s) · resultado: aprovado por unanimidade — reconsideração conhecida, provimento negado
 - **RD 1043 (2026-10-08)**, item 1.2.4 — Acordo de cooperação para intercâmbio eletrônico de dados de seguros obrigatórios dos transportadores inscritos no RNTRC (Portaria SUROC 27/ · voto: *proclama unanimidade* (acompanha, conf. média) · [vídeo](https://www.youtube.com/watch?v=aVdLLQI1K-I&t=2387s) · resultado: aprovado por unanimidade
 - **RD 1043 (2026-10-08)**, item 1.3.1 — Relatório final da AP 1/2026 (24 contribuições) e nova resolução do SAC, adequando a Res. 3535/2010 ao Decreto 11.034/2022 (revoga a 3535) · voto: *acompanha integralmente; proclama unanimidade* (acompanha, conf. média) · «ouvidoria como fonte de dados e escuta ativa para decisão regulatória, fiscalizatória e contratual» · [vídeo](https://www.youtube.com/watch?v=aVdLLQI1K-I&t=2910s) · resultado: aprovado por unanimidade
+- **RD 1045 (2026-11-09)**, item 1.2.1 — 10º termo aditivo ao contrato (edital 1/2021) para padronizar a metodologia de apuração do desconto de reequilíbrio (fator D), com ajuste pr · voto: *acompanha integralmente o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=4970s) · resultado: aprovado por unanimidade
+- **RD 1045 (2026-11-09)**, item 1.3.1 — Abertura de audiência pública sobre alteração da Resolução ANTT 5.982/2022 para incluir infrações e penalidades relativas aos seguros obriga · voto: *acompanha integralmente o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=5508s) · resultado: aprovado por unanimidade

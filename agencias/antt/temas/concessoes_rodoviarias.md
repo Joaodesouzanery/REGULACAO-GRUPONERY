@@ -1662,3 +1662,13 @@
   - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=5442s)
 - **RD 1044 (2026-10-22)**, 1.3.2 · relator **Alex Azevedo** · 2º termo aditivo: substituir a obrigação da praça de pedágio P3A (km 3+150, Comendador Levy Gasparian/RJ) por pórtico eletrônico free flow, deslocando → aprovado por unanimidade
   - votos: Alex: relator; Felipe: acompanha; Marcelo: acompanha; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=8664s)
+- **RD 1045 (2026-11-09)**, extrapauta · relator **Guilherme Sampaio** · Relatório final da Audiência Pública 15/2026 sobre minutas de edital de processo competitivo, termo aditivo, PER e MEF para readaptação e otimização d → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=1669s)
+- **RD 1045 (2026-11-09)**, 1.1.2 · relator **Felipe Queiroz** · Homologação do resultado preliminar do sandbox regulatório do Programa de Sustentabilidade para Infraestrutura (PSI): EcoRioMinas no nível 3 (edital 3 → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=2601s)
+- **RD 1045 (2026-11-09)**, 1.1.3 · relator **Felipe Queiroz** · Homologação do resultado final do sandbox regulatório (edital 2/2025) do Corredor Logístico Sustentável de Transporte Multimodal (Dutra/Rio-Santos, el → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=2975s)
+- **RD 1045 (2026-11-09)**, 1.1.4 · relator **Lucas Asfor** · 3º termo aditivo ao contrato (edital 3/2025) para substituir a construção e operação de 5 praças de pedágio por pedágio eletrônico em livre passagem ( → aprovado por unanimidade
+  - votos: Felipe: revisor_acompanha; Alex: revisor_acompanha; Marcelo: acompanha; Lucas: relator; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=3269s)
+- **RD 1045 (2026-11-09)**, 1.2.1 · relator **Lucas Asfor** · 10º termo aditivo ao contrato (edital 1/2021) para padronizar a metodologia de apuração do desconto de reequilíbrio (fator D), com ajuste proporcional → aprovado por unanimidade
+  - votos: Lucas: relator; Felipe: acompanha; Alex: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=4505s)

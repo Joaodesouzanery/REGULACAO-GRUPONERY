@@ -64,3 +64,9 @@
   - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=8p1X1Nfk9Cs&t=2509s)
 - **RD 1044 (2026-10-22)**, 1.3.1 · relator **Alex Azevedo** · Acordo de cooperação técnica ANTT–Infra para o programa Melhor Ar (Portaria MT 192/2025): compartilhar dados do RNTRC, integrar ao ONTL e produzir ind → aprovado por unanimidade
   - votos: Alex: relator; Felipe: acompanha; Lucas: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=7902s)
+- **RD 1045 (2026-11-09)**, 1.1.1 · relator **Felipe Queiroz** · Resolução que institui a Política de Sustentabilidade da ANTT (âmbito interno), com dispensa de AIR e de consulta/audiência pública → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=1945s)
+- **RD 1045 (2026-11-09)**, 1.1.2 · relator **Felipe Queiroz** · Homologação do resultado preliminar do sandbox regulatório do Programa de Sustentabilidade para Infraestrutura (PSI): EcoRioMinas no nível 3 (edital 3 → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=2601s)
+- **RD 1045 (2026-11-09)**, 1.1.3 · relator **Felipe Queiroz** · Homologação do resultado final do sandbox regulatório (edital 2/2025) do Corredor Logístico Sustentável de Transporte Multimodal (Dutra/Rio-Santos, el → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=2975s)

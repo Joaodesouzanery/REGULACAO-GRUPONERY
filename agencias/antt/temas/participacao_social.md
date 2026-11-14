@@ -582,3 +582,7 @@
   - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=Q8UGEXRy5vk&t=1307s)
 - **RD 102ª Extraordinária (2026-09-03)**, 1.3.1 · relator **Alex Azevedo** · Relatório final da AP 4/2026 e proposição ao Ministério dos Transportes do plano de outorga da Rota Portuária Sul (BR-116/392, RS; 459 km → 465 km com → aprovado por unanimidade
   - votos: Alex: relator; Felipe: acompanha; Lucas: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=J5gkP2cLOm8&t=3469s)
+- **RD 1045 (2026-11-09)**, extrapauta · relator **Guilherme Sampaio** · Relatório final da Audiência Pública 15/2026 sobre minutas de edital de processo competitivo, termo aditivo, PER e MEF para readaptação e otimização d → aprovado por unanimidade
+  - votos: Guilherme: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Marcelo: acompanha · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=1669s)
+- **RD 1045 (2026-11-09)**, 1.3.1 · relator **Marcelo Fonseca** · Abertura de audiência pública sobre alteração da Resolução ANTT 5.982/2022 para incluir infrações e penalidades relativas aos seguros obrigatórios do  → aprovado por unanimidade
+  - votos: Marcelo: relator; Felipe: acompanha; Lucas: acompanha; Alex: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=4970s)

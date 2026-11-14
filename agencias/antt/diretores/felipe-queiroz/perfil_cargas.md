@@ -1,11 +1,11 @@
 # Perfil analítico — Felipe Queiroz · tema: cargas
 
-**Amostra:** presente em 112 das 120 reuniões analisadas em que há registro de presença/ausência; 40 votos neste tema; 10 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 113 das 121 reuniões analisadas em que há registro de presença/ausência; 41 votos neste tema; 10 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 29 (96% dos votos em que não era relator) · relator 10 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
+**Votos:** acompanha o relator 30 (96% dos votos em que não era relator) · relator 10 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
 **Como relator:** 9/10 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 409/120; fiscalizacao_sancoes 379/101; onibus 220/58; onibus_regular 153/41; reequilibrio_contratual 128/37; regulacao_normativa 119/35; leilao_otimizacao 116/24; participacao_social 111/31; judicializacao 87/24; ferrovias 87/27; institucional 65/13; pedagio_freeflow 57/17; onibus_fretamento 56/15; cargas 40/10; sandbox_inovacao 31/12; sustentabilidade 26/13; tarifa_modicidade 15/5; onibus_semiurbano 7/0; outros 1/1
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 414/122; fiscalizacao_sancoes 381/101; onibus 220/58; onibus_regular 153/41; reequilibrio_contratual 129/37; regulacao_normativa 123/36; leilao_otimizacao 117/24; participacao_social 113/31; ferrovias 88/27; judicializacao 87/24; institucional 66/14; pedagio_freeflow 58/17; onibus_fretamento 56/15; cargas 41/10; sandbox_inovacao 33/14; sustentabilidade 29/16; tarifa_modicidade 15/5; onibus_semiurbano 7/0; outros 1/1
 **Argumentos recorrentes nas justificativas registradas:** participação social (3); eficiência/celeridade (2); transparência (2); segurança jurídica (1); usuário (1); sustentabilidade (1)
 **Tom (inferência da leitura, não métrica):** firme
 
@@ -51,3 +51,4 @@
 - **RD 1039 (2026-08-14)**, item 1.2.1 — Relatório final da AP 5/2025 (24/07–06/09/2025; reaberta de 04–18/05/2026) e resolução que institui o Selo ESG Cargas para o transporte rodo · voto: *relator, aprova* (relator, conf. alta) · «'não fazemos PPCS para inglês ver': boa prática regulatória» · [vídeo](https://www.youtube.com/watch?v=u4SXNQPR-XQ&t=1951s) · resultado: aprovado por unanimidade
 - **RD 1043 (2026-10-08)**, item 1.2.4 — Acordo de cooperação para intercâmbio eletrônico de dados de seguros obrigatórios dos transportadores inscritos no RNTRC (Portaria SUROC 27/ · voto: *sigo integralmente o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=aVdLLQI1K-I&t=2384s) · resultado: aprovado por unanimidade
 - **RD 1044 (2026-10-22)**, item 1.3.1 — Acordo de cooperação técnica ANTT–Infra para o programa Melhor Ar (Portaria MT 192/2025): compartilhar dados do RNTRC, integrar ao ONTL e pr · voto: *sigo o relator* (acompanha, conf. alta) · «sustentabilidade como pauta estruturante da agência; país com 65% da matriz em caminhões» · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=8523s) · resultado: aprovado por unanimidade
+- **RD 1045 (2026-11-09)**, item 1.3.1 — Abertura de audiência pública sobre alteração da Resolução ANTT 5.982/2022 para incluir infrações e penalidades relativas aos seguros obriga · voto: *acompanha o relator* (acompanha, conf. alta) · «instrumentos de enforcement ainda não geram os efeitos desejados» · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=5422s) · resultado: aprovado por unanimidade

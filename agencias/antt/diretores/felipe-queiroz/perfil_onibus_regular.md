@@ -1,11 +1,11 @@
 # Perfil analítico — Felipe Queiroz · tema: onibus_regular
 
-**Amostra:** presente em 112 das 120 reuniões analisadas em que há registro de presença/ausência; 153 votos neste tema; 41 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 113 das 121 reuniões analisadas em que há registro de presença/ausência; 153 votos neste tema; 41 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
 **Votos:** acompanha o relator 107 (95% dos votos em que não era relator) · relator 41 · vista pedida 2 · voto-vista divergente 1 · vencido 0 · outros/não captado 2
 **Como relator:** 39/41 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 409/120; fiscalizacao_sancoes 379/101; onibus 220/58; onibus_regular 153/41; reequilibrio_contratual 128/37; regulacao_normativa 119/35; leilao_otimizacao 116/24; participacao_social 111/31; judicializacao 87/24; ferrovias 87/27; institucional 65/13; pedagio_freeflow 57/17; onibus_fretamento 56/15; cargas 40/10; sandbox_inovacao 31/12; sustentabilidade 26/13; tarifa_modicidade 15/5; onibus_semiurbano 7/0; outros 1/1
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 414/122; fiscalizacao_sancoes 381/101; onibus 220/58; onibus_regular 153/41; reequilibrio_contratual 129/37; regulacao_normativa 123/36; leilao_otimizacao 117/24; participacao_social 113/31; ferrovias 88/27; judicializacao 87/24; institucional 66/14; pedagio_freeflow 58/17; onibus_fretamento 56/15; cargas 41/10; sandbox_inovacao 33/14; sustentabilidade 29/16; tarifa_modicidade 15/5; onibus_semiurbano 7/0; outros 1/1
 **Argumentos recorrentes nas justificativas registradas:** segurança jurídica (4); proporcionalidade (2); transparência (1); eficiência/celeridade (1); governança/rito (1); evidência/dados (1)
 **Tom (inferência da leitura, não métrica):** didático, com alerta ao setor regulado | lamenta a necessidade da sanção | firme | cortês, ressalva institucional | técnico, cauteloso | técnico | ponderado, institucional | propositivo, foco em dosimetria | técnico, elogia o debate com Alex
 

@@ -630,3 +630,5 @@
   - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=5442s)
 - **RD 1044 (2026-10-22)**, 1.2.1 · relator **Lucas Asfor** · Relatório final da AP 5/2026 (06/04–20/05/2026; 226 contribuições, 97 acolhidas e 51 parcialmente) e aprovação do RSF 1 (Regulamento de Serviço e Segu → aprovado por unanimidade
   - votos: Lucas: relator; Felipe: acompanha; Marcelo: acompanha; Alex: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=6854s)
+- **RD 1045 (2026-11-09)**, 1.3.2 · relator **Lucas Asfor** · Contrato de adesão para autorização de construção e exploração de ferrovia (terminal intermodal greenfield de ~2,13 km ligado à FTL) em Caxias-MA por  → aprovado por unanimidade
+  - votos: Marcelo: revisor_acompanha; Lucas: relator; Felipe: acompanha; Alex: acompanha; Guilherme: revisor_acompanha · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=5508s)

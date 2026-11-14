@@ -1,11 +1,11 @@
 # Perfil analítico — Lucas Asfor · tema: sandbox_inovacao
 
-**Amostra:** presente em 112 das 117 reuniões analisadas em que há registro de presença/ausência; 29 votos neste tema; 3 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 113 das 118 reuniões analisadas em que há registro de presença/ausência; 31 votos neste tema; 3 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 26 (100% dos votos em que não era relator) · relator 3 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 28 (100% dos votos em que não era relator) · relator 3 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 3/3 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 400/110; fiscalizacao_sancoes 361/112; onibus 214/65; onibus_regular 146/47; reequilibrio_contratual 125/21; regulacao_normativa 122/24; leilao_otimizacao 116/41; participacao_social 110/30; judicializacao 86/22; ferrovias 83/18; institucional 65/4; onibus_fretamento 58/17; pedagio_freeflow 56/15; cargas 39/12; sandbox_inovacao 29/3; sustentabilidade 27/0; tarifa_modicidade 14/2; onibus_semiurbano 7/1; outros 1/0
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 405/112; fiscalizacao_sancoes 363/113; onibus 214/65; onibus_regular 146/47; regulacao_normativa 126/26; reequilibrio_contratual 126/22; leilao_otimizacao 117/41; participacao_social 112/30; judicializacao 86/22; ferrovias 84/19; institucional 66/4; onibus_fretamento 58/17; pedagio_freeflow 57/16; cargas 40/12; sandbox_inovacao 31/3; sustentabilidade 30/0; tarifa_modicidade 14/2; onibus_semiurbano 7/1; outros 1/0
 **Argumentos recorrentes nas justificativas registradas:** usuário (1); evidência/dados (1)
 
 ## Evidências (reunião · item · voto · justificativa)
@@ -39,3 +39,5 @@
 - **RD 101ª Extraordinária (2026-09-01)**, item 1.1.1 — Abertura de audiência pública, realizada concomitantemente à vigência do edital, sobre as minutas do edital do processo competitivo, termo a · voto: *acompanha* (acompanha, conf. média) · [vídeo](https://www.youtube.com/watch?v=Q8UGEXRy5vk&t=1741s) · resultado: aprovado por unanimidade
 - **RD 101ª Extraordinária (2026-09-01)**, item 1.1.2 — Edital do processo competitivo 3/2026 para alienação de 100% das ações da Concebra (a ementa lida diz 5%, erro de legenda), Rota do Pequi —  · voto: *acompanha na íntegra* (acompanha, conf. alta) · «solução construtiva e interinstitucional» · [vídeo](https://www.youtube.com/watch?v=Q8UGEXRy5vk&t=2429s) · resultado: aprovado por unanimidade
 - **RD 1044 (2026-10-22)**, item 1.1.1+1.1.2 — Homologação de resultados do PSI (sandbox de sustentabilidade): rodovias (edital 3/2025: resultado final complementar do Nível 1 e prelimina · voto: *acompanha (primeiro a votar)* (acompanha, conf. média) · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=6082s) · resultado: aprovados por unanimidade
+- **RD 1045 (2026-11-09)**, item 1.1.2 — Homologação do resultado preliminar do sandbox regulatório do Programa de Sustentabilidade para Infraestrutura (PSI): EcoRioMinas no nível 3 · voto: *acompanha o relator* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=2926s) · resultado: aprovado por unanimidade
+- **RD 1045 (2026-11-09)**, item 1.1.3 — Homologação do resultado final do sandbox regulatório (edital 2/2025) do Corredor Logístico Sustentável de Transporte Multimodal (Dutra/Rio- · voto: *acompanha o relator* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=3260s) · resultado: aprovado por unanimidade

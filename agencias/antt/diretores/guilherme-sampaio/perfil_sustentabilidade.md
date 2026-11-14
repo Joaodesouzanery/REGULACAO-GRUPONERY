@@ -1,11 +1,11 @@
 # Perfil analítico — Guilherme Sampaio · tema: sustentabilidade
 
-**Amostra:** presente em 158 das 167 reuniões analisadas em que há registro de presença/ausência; 26 votos neste tema; 6 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 159 das 168 reuniões analisadas em que há registro de presença/ausência; 29 votos neste tema; 6 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 20 (100% dos votos em que não era relator) · relator 6 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 23 (100% dos votos em que não era relator) · relator 6 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 6/6 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 502/120; fiscalizacao_sancoes 445/94; onibus 262/53; regulacao_normativa 215/47; onibus_regular 180/35; reequilibrio_contratual 174/34; participacao_social 158/43; leilao_otimizacao 154/52; ferrovias 148/25; institucional 123/30; judicializacao 121/19; pedagio_freeflow 80/13; onibus_fretamento 62/16; cargas 55/11; sandbox_inovacao 32/10; sustentabilidade 26/6; tarifa_modicidade 25/2; onibus_semiurbano 14/2; outros 1/0
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 507/121; fiscalizacao_sancoes 447/94; onibus 262/53; regulacao_normativa 219/47; onibus_regular 180/35; reequilibrio_contratual 175/34; participacao_social 160/44; leilao_otimizacao 155/53; ferrovias 149/25; institucional 124/30; judicializacao 121/19; pedagio_freeflow 81/13; onibus_fretamento 62/16; cargas 56/11; sandbox_inovacao 34/10; sustentabilidade 29/6; tarifa_modicidade 25/2; onibus_semiurbano 14/2; outros 1/0
 **Argumentos recorrentes nas justificativas registradas:** sustentabilidade (4); usuário (1); transparência (1)
 
 ## Evidências (reunião · item · voto · justificativa)
@@ -36,3 +36,6 @@
 - **RD 1025 (2026-01-29)**, item 1.2.1 — Instrução normativa que institui a política e os instrumentos de gestão de crises (incidentes que comprometem a integridade ou disponibilida · voto: *acompanha; proclama unanimidade* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=d2BF6usx0p8&t=6350s) · resultado: aprovado por unanimidade (voto-vista com ajuste fino)
 - **RD 1039 (2026-08-14)**, item 1.2.1 — Relatório final da AP 5/2025 (24/07–06/09/2025; reaberta de 04–18/05/2026) e resolução que institui o Selo ESG Cargas para o transporte rodo · voto: *acompanha; proclama unanimidade* (acompanha, conf. média) · [vídeo](https://www.youtube.com/watch?v=u4SXNQPR-XQ&t=2670s) · resultado: aprovado por unanimidade
 - **RD 1044 (2026-10-22)**, item 1.3.1 — Acordo de cooperação técnica ANTT–Infra para o programa Melhor Ar (Portaria MT 192/2025): compartilhar dados do RNTRC, integrar ao ONTL e pr · voto: *acompanha; proclama unanimidade* (acompanha, conf. média) · «elogia a linha do tempo (política pública, norma, acordo) e a transparência do voto» · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=8664s) · resultado: aprovado por unanimidade
+- **RD 1045 (2026-11-09)**, item 1.1.1 — Resolução que institui a Política de Sustentabilidade da ANTT (âmbito interno), com dispensa de AIR e de consulta/audiência pública · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=2601s) · resultado: aprovado por unanimidade
+- **RD 1045 (2026-11-09)**, item 1.1.2 — Homologação do resultado preliminar do sandbox regulatório do Programa de Sustentabilidade para Infraestrutura (PSI): EcoRioMinas no nível 3 · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=2975s) · resultado: aprovado por unanimidade
+- **RD 1045 (2026-11-09)**, item 1.1.3 — Homologação do resultado final do sandbox regulatório (edital 2/2025) do Corredor Logístico Sustentável de Transporte Multimodal (Dutra/Rio- · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=3269s) · resultado: aprovado por unanimidade
