@@ -103,6 +103,9 @@ SET = SETOR_AG[next(iter(AG))]
 REC = "docs/marca/setores/recortes"
 FOCO = ld("docs/marca/setores/foco.json", {})
 LOGO = b64("docs/marca/circle/logo_circle_branco.png"); LOGO_P = b64("docs/marca/circle/logo_circle_preto.png")
+NERY_B = b64("docs/marca/grupo_nery/logo_branco.png").replace("jpeg", "png")
+CLI = b64(EMP["logo"]).replace("jpeg", "png") if EMP.get("logo") and os.path.exists(EMP["logo"]) else ""
+PARC = '<div class="parc"><span>em parceria com</span>' + (f'<img src="{NERY_B}">' if NERY_B else "Grupo Nery") + '</div>'
 usados = sorted({SETOR_AG[a] for a in AG})
 IMG = "".join(f".fc-{s}{{background-image:url({b64(f'{REC}/{s}_capa.jpg')})}}.fp-{s}{{background-image:url({b64(f'{REC}/{s}_painel.jpg')})}}" for s in usados)
 COR = "".join(f".s-{s}{{--ac:{v.get('cor','#C99A06')}}}" for s, v in FOCO.items())
@@ -110,7 +113,7 @@ S = []
 tot_it = sum(len(a["its"]) for a in AG.values())
 chips = "".join(f'<span class="chip s-{SETOR_AG[a]}">{NOME_AG[a]} · {len(AG[a]["its"])} itens</span>' for a in AG)
 S.append(f'''<section class="pg capa fc-{SET}"><div class="veu"></div><div class="cartao">{f'<img class="logo" src="{LOGO}">' if LOGO else ''}
-<div class="eyebrow">Inteligência regulatória · empresa</div><h1>{E(EMP["nome"])}</h1>
+{PARC}{f'<div class="cli"><img src="{CLI}"></div>' if CLI else ''}<div class="eyebrow">Inteligência regulatória · empresa</div><h1>{E(EMP["nome"])}</h1>
 <div class="cnpj">CNPJ {E(EMP.get("cnpj") or "não informado")}</div><div class="onda"></div><div class="chips">{chips}</div>
 <p>{tot_it} decisões de diretoria envolvendo a empresa nas agências acima, com o voto de cada diretor, o colegiado atual, mandatos e previsão de placar.</p>
 <div class="meta">{HOJE.strftime("%d/%m/%Y")} · base até {", ".join(f"{NOME_AG[a]} {fmtd(AG[a]['pr']['base_ate'])}" for a in AG)}</div></div></section>''')
@@ -129,7 +132,7 @@ for ag, a in AG.items():
 <div class="dc-m">Mandato até <b>{fmtd(str(d["fim"])) if d["fim"] else "não informado"}</b></div><div class="dc-m">Na empresa: {d["n"]} votos · {d["rel"]} relatorias</div></div>''' for d in a["dirs"])
     S.append(f'''<section class="pg dirp s-{s}"><div class="q-f fp-{s}"><div class="q-veu"></div><div class="q-tag">{NOME_AG[ag]}</div><div class="q-n">{n:02d}</div></div>
 <div class="q-c"><header class="top"><span class="num">{n:02d}</span><span>Diretoria · {NOME_AG[ag]}</span>{f"<img src='{LOGO_P}' class='logo-p'>" if LOGO_P else ""}</header><h2>Quem decide hoje</h2>
-<div class="dgrid">{cards}</div><div class="sup"><b>Superintendentes:</b> a incluir (pesquisa programada). <b>Vagas abertas:</b> {E("; ".join(v["cadeira"] for v in a["vac"]) or "nenhuma registrada")}.</div>
+<div class="dgrid">{cards}</div><div class="sup"><b>Superintendentes:</b> {E("; ".join(str(x.get("nome")) + " (" + str(x.get("superintendencia") or x.get("cargo") or "")[:40] + ")" for x in ld(f"{D(ag)}/superintendentes.json", [])[:7]) or "a incluir")}. <b>Vagas abertas:</b> {E("; ".join(v["cadeira"] for v in a["vac"]) or "nenhuma registrada")}.</div>
 <div class="rod">Mandatos: Senado/DOU (mandatos.json, conferência mensal). Minibios com fontes em bios.json.</div></div></section>''')
     n += 1
     mx = max([d["n"] for d in a["dirs"]] + [1])
@@ -141,6 +144,9 @@ for ag, a in AG.items():
 <h2>Como o colegiado atual vota nos temas da empresa</h2><p class="lead">{len(a["its"])} decisões envolvendo a empresa ({fmtd(a["its"][0]["data"]) if a["its"] else "—"} a {fmtd(a["its"][-1]["data"]) if a["its"] else "—"}). Desfecho para a empresa: {E(des)}. Temas: {E(", ".join(a["pr"]["temas"]))}.</p>
 <div class="meio"><div class="mini"><div class="mini-h">Votos de cada diretor nos itens da empresa · <i class="lg r"></i>relatou <i class="lg a"></i>acompanhou <i class="lg d"></i>divergiu/vista</div>{bars}</div>
 <div class="evs">{evs}</div></div><div class="rod">Fonte: reuniões públicas de diretoria (vídeos oficiais); legenda automática pode errar nomes e valores.</div></div></section>''')
+import secoes_consultoria
+_S, n = secoes_consultoria.secoes(EMP, next(iter(AG)), NOME_AG, foto_d, LOGO_P, n)
+S += _S
 # previsão
 n += 1
 blocos = ""
@@ -162,8 +168,8 @@ S.append(f'''<section class="pg prevp"><div class="q-c full"><header class="top"
 <h2>Placar provável para os próximos processos da empresa</h2><div class="pgrid">{blocos}</div>
 <div class="leit"><b>Leitura (inferência, gerada a partir dos números acima):</b> {E(" ".join(leitura))}</div>
 <div class="rod">Modelo simples e auditável: taxa de cada diretor de acompanhar o relator nos temas da empresa (últimos 3 anos, com prior de 97%). Não prevê o mérito de um caso específico; o relatório do relator define o resultado na grande maioria dos casos.</div></div></section>''')
-cob = "<br>".join(E(subprocess.run(["python3", "pipeline/cobertura_resposta.py", ag], capture_output=True, text=True).stdout.strip()).replace("\n", "<br>") for ag in AG)
-S.append(f'''<section class="pg fim">{f'<img class="logo" src="{LOGO}">' if LOGO else ''}<h2>Como ler e cobertura</h2><div class="fimc">{cob}</div></section>''')
+cob = "<br>".join(E(subprocess.run(["python3", "pipeline/cobertura_resposta.py", ag], capture_output=True, text=True).stdout.strip().replace("**", "")).replace("\n", "<br>") for ag in AG)
+S.append(f'''<section class="pg fim">{f'<img class="logo" src="{LOGO}">' if LOGO else ''}{PARC}<h2>Como ler e cobertura</h2><div class="fimc">{cob}</div></section>''')
 TOT = len(S)
 CSS = """@page{size:13.333in 7.5in;margin:0}:root{--ink:#0B0B0B;--gold:#C99A06;--gold-2:#E2B93B;--mist:#F5F3EE;--grey:#6E6A63;--line:#E3DFD6;--ac:#C99A06}
 *{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,sans-serif;color:var(--ink);-webkit-print-color-adjust:exact;print-color-adjust:exact}
@@ -197,7 +203,7 @@ CSS = """@page{size:13.333in 7.5in;margin:0}:root{--ink:#0B0B0B;--gold:#C99A06;-
 .fim{background:var(--ink);color:#fff;padding:.6in .8in;flex-direction:column}.fim h2{font-size:26pt;margin:.3in 0 .25in}.fimc{font-size:9.5pt;line-height:1.55;color:#CFCAC0}
 .pag{position:absolute;right:.5in;bottom:.16in;font-size:8pt;font-weight:700;color:var(--ac)}"""
 S = [s.replace("</section>", f'<div class="pag">{k+1:02d} / {TOT:02d}</div></section>', 1) if k else s for k, s in enumerate(S)]
-H = f'<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><title>{E(EMP["nome"])}</title><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Rubik:wght@500;600&display=swap" rel="stylesheet"><style>{CSS}{COR}{IMG}</style></head><body>{"".join(S)}</body></html>'
+H = f'<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><title>{E(EMP["nome"])}</title><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Rubik:wght@500;600&display=swap" rel="stylesheet"><style>{CSS}{secoes_consultoria.CSS}{COR}{IMG}</style></head><body>{"".join(S)}</body></html>'
 open(f"{P}/relatorio_empresa.html", "w").write(leve_html(H))
 js = f"""const {{chromium}}=require('playwright');(async()=>{{const b=await chromium.launch();const p=await b.newPage();await p.goto('file://{os.path.abspath(P)}/relatorio_empresa.html',{{waitUntil:'networkidle'}});await p.pdf({{path:'{os.path.abspath(P)}/relatorio_empresa.pdf',width:'13.333in',height:'7.5in',printBackground:true}});await b.close();}})();"""
 r = subprocess.run(["node", "-e", js], capture_output=True, text=True, cwd="/tmp")
