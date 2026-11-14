@@ -30,4 +30,4 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 
 - 2020-06-17 · 17ª Reunião Oridinária Pública da Diretoria Colegiada da ANM · `y9MYTRVPaqk`
 
-Vídeos sem legenda registrados: 23 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 27 (ver `data/sem_legenda.jsonl`).
