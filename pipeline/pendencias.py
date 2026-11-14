@@ -15,4 +15,25 @@ for ag, d in (("antt", "data"), ("anm", "data/anm"), ("antaq", "data/antaq")):
     if nao: print(f"- {ag.upper()}: {len(nao)} reuniões com texto ainda não analisadas → skill lote-mac")
 m = ultimo_commit("data/mandatos.json")
 if H.day <= 7 and (not m or m.month != H.month): print("- Checagem mensal do dia 1 ainda não feita → skill checagem-mensal")
-print("- (ok)" if False else "")
+# Proposta 2: pautas, alertas, boletins, contratos
+for ag, d in (("antt", "data"), ("anm", "data/anm"), ("antaq", "data/antaq")):
+    cal = json.load(open(f"{d}/calendario.json")) if os.path.exists(f"{d}/calendario.json") else []
+    prox = [c for c in cal if 0 <= (datetime.date.fromisoformat(c["data"]) - H).days <= 10]
+    for c in prox:
+        pj = f"{d}/pautas/{c['reuniao']}.json"
+        pa = json.load(open(pj)) if os.path.exists(pj) else {}
+        if not pa.get("itens"): print(f"- {ag.upper()} {c['reuniao']}ª em {c['data']}: pauta ainda não baixada/publicada → python3 pipeline/pautas.py {ag}")
+        for e in glob.glob("clientes/*/*/empresa.json"):
+            emp = json.load(open(e)); pasta = os.path.dirname(e)
+            if ag in emp.get("agencias", []) and not os.path.exists(f"{pasta}/alerta_{ag}_{c['reuniao']}.pdf"):
+                print(f"- Alerta pré-pauta não gerado: {emp['nome'][:40]} · {ag.upper()} {c['reuniao']}ª → python3 pipeline/alerta_pauta.py {pasta} --agencia {ag}")
+    if not cal and ag != "antt": print(f"- {ag.upper()}: sem calendário oficial em {d}/calendario.json")
+mes_ant = (H.replace(day=1) - datetime.timedelta(days=1)).strftime("%Y-%m")
+for ag in ("antt", "anm", "antaq"):
+    if H.day >= 3 and not os.path.exists(f"agencias/{ag}/boletins/boletim_{ag}_{mes_ant}.pdf"):
+        print(f"- Boletim {ag.upper()} de {mes_ant} não gerado → python3 pipeline/boletim.py {ag} {mes_ant}")
+for f in glob.glob("clientes/*/contrato.json"):
+    ct = json.load(open(f))
+    for k, rot in (("fim_vigencia", "renovação"), ("data_reajuste", "reajuste")):
+        if ct.get(k) and 0 <= (datetime.date.fromisoformat(ct[k]) - H).days <= 60:
+            print(f"- Contrato {os.path.dirname(f)}: {rot} em {ct[k]} → skill contratos")

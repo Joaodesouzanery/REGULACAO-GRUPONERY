@@ -5,6 +5,7 @@ perguntas.json (opcional): [{"titulo": "...", "tema": "concessoes_rodoviarias"|n
 import sys, os, re, json, html, base64, sqlite3, datetime, subprocess, collections, unicodedata
 sys.path.insert(0, __import__('os').path.dirname(__import__('os').path.abspath(__file__)))
 from pdf_leve import leve_html, leve_pdf
+from marca import parceria_html, MARCA_CSS
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import previsao
 from desfecho import desfecho_item
@@ -85,7 +86,7 @@ LOGO = b64("docs/marca/circle/logo_circle_branco.png").replace("jpeg", "png"); L
 REC = "docs/marca/setores/recortes"
 S = []
 S.append(f'''<section class="pg capa" style="background-image:url({b64(f"{REC}/{SET}_capa.jpg")})"><div class="veu"></div><div class="cartao">{f'<img class="logo" src="{LOGO}">' if LOGO else ''}
-<div class="eyebrow">Inteligência regulatória · diretoria</div><h1>{NOME}: quem decide e como</h1><div class="onda"></div>
+{parceria_html()}<div class="eyebrow">Inteligência regulatória · diretoria</div><h1>{NOME}: quem decide e como</h1><div class="onda"></div>
 <p>Quadro atual da diretoria colegiada, comparação lado a lado de todos os diretores em exercício e superintendentes.</p>
 <div class="meta">{HOJE.strftime("%d/%m/%Y")} · votos de {fmtd(desde)} a {fmtd(ult)} · {TOT_R} reuniões</div></div></section>''')
 cards = ""
@@ -146,7 +147,7 @@ h2{font-size:21pt;margin:.12in 0 .16in}.qgrid{display:grid;grid-template-columns
 .ex{font-size:8.2pt;line-height:1.35;margin:.08in 0;color:#2B2925}.ev{font-size:7.6pt;line-height:1.35;color:#5E5A52;border-top:1px solid #E3DFD6;padding-top:.06in;margin-top:auto;text-align:left}.ev a{color:#C99A06;font-weight:700;text-decoration:none}
 .sgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:.14in}.sc{display:flex;gap:.12in;background:#fff;border:1px solid #E3DFD6;border-radius:10px;padding:.1in}.sc .ft{width:.75in;height:.75in}.sc p{font-size:7.8pt;margin:.03in 0;line-height:1.3}.vazio{color:#6E6A63}
 .fim{background:#0B0B0B;color:#fff;padding:.6in .8in}.fim h2{font-size:26pt;margin:.3in 0 .25in}.fimc{font-size:9.5pt;line-height:1.55;color:#CFCAC0}"""
-H = f'<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><title>{NOME} diretoria</title><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Rubik:wght@500;600&display=swap" rel="stylesheet"><style>{CSS}</style></head><body>{"".join(S)}</body></html>'
+H = f'<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><title>{NOME} diretoria</title><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Rubik:wght@500;600&display=swap" rel="stylesheet"><style>{CSS}{MARCA_CSS}</style></head><body>{"".join(S)}</body></html>'
 open(f"{OUT}/diretoria_{AG}.html", "w").write(leve_html(H))
 js = f"""const {{chromium}}=require('playwright');(async()=>{{const b=await chromium.launch();const p=await b.newPage();await p.goto('file://{os.path.abspath(OUT)}/diretoria_{AG}.html',{{waitUntil:'networkidle'}});await p.pdf({{path:'{os.path.abspath(OUT)}/diretoria_{AG}.pdf',width:'13.333in',height:'7.5in',printBackground:true}});await b.close();}})();"""
 r = subprocess.run(["node", "-e", js], capture_output=True, text=True, cwd="/tmp")
