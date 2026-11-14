@@ -93,7 +93,7 @@ def do_md(md):
         tg = "Efeito (% dos itens)" if ef else "Quem relata"
     cards = []
     for l in linhas:
-        m = re.match(r"\s*- \*\*RD ([^*]+?) \(([\d-]+)\)\*\*,? item ([^·]+?) · (.+)", l)
+        m = re.match(r"\s*- \*\*RD ([^*]+?) \(([\d-]+)\)\*\*,? item ([^·]+?) · (.+)", l) or re.match(r"\s*- \*\*RD ([^*(]+?) \(([\d-]+)\),? item ([^*]+?)\*\*\s*[—-]\s*(.+)", l)
         if m:
             lk = re.search(r"\((https?://[^)]+)\)", l); resto = re.sub(r"\[[^\]]+\]\([^)]+\)", "", m.group(4))
             partes = [x.strip() for x in resto.split("·") if x.strip()]
@@ -109,12 +109,14 @@ Q = []
 for i, (q, t) in enumerate(perg):
     md = open(resp[i]).read() if i < len(resp) else ""
     ag = t.get("agencia", AG).strip().lower()
-    d = do_diretor(ag, t["diretor"].strip(), t.get("tema", "").strip() or None) if t.get("diretor") and conn(ag) else None
+    d = do_diretor(ag, t["diretor"].strip(), t.get("tema", "").strip() or None) if t.get("diretor") and t["diretor"].strip().lower() not in ("todos", "-", "") and conn(ag) else None
     Q.append({"q": q, "t": t, "ag": ag, "curta": curta(md), "dados": d or do_md(md), "setor": t.get("setor") or {"antt": "rodovias", "anm": "mineracao", "antaq": "portos"}.get(ag, "rodovias")})
 # ---------- HTML ----------
 SET_NOME = {"onibus": "Ônibus", "rodovias": "Rodovias", "ferrovias": "Ferrovias", "mineracao": "Mineração", "portos": "Portos", "barragens": "Barragens", "navegacao": "Navegação"}
 def setor_de(x):
-    t = x["t"]; s = (t.get("tema", "") + " " + x["q"]).lower()
+    t = x["t"]
+    if t.get("setor") and foto(t["setor"].strip()): return t["setor"].strip()  # setor informado na pergunta vence a heurística
+    s = (t.get("tema", "") + " " + x["q"]).lower()
     for k, rx in (("onibus", "ônibus|onibus|cassa"), ("ferrovias", "ferrov|rumo"), ("barragens", "barrage"), ("rodovias", "concess|rodov|free flow|reequil|concer"), ("mineracao", "mine|cfem|outorga|vale|garimp|área")):
         if re.search(rx, s) and foto(k): return k
     return x["setor"] if foto(x["setor"]) else next((k for k in SET_NOME if foto(k)), None)

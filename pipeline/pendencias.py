@@ -9,6 +9,7 @@ for ag, d in (("antt", "data"), ("anm", "data/anm"), ("antaq", "data/antaq")):
     u = ultimo_commit(f"{d}/transcricoes")
     if u and (H - u).days > 7: print(f"- {ag.upper()}: última coleta do Mac em {u:%d/%m} ({(H-u).days} dias) → rodar no Mac: caffeinate -i bash pipeline/coletar_todas.sh")
     V = [json.loads(l) for l in open(f"{d}/videos.jsonl")] if os.path.exists(f"{d}/videos.jsonl") else []
+    V = [v for v in V if not v.get("data") or v["data"] >= "2018-01-01"]  # recorte 2018+
     sem = [v for v in V if v["tipo"] == "diretoria" and not v.get("duplicata_de") and not os.path.exists(f"{d}/transcricoes/{v['id']}.json")]
     nao = [v for v in V if v["tipo"] == "diretoria" and not v.get("duplicata_de") and os.path.exists(f"{d}/transcricoes/{v['id']}.json") and not os.path.exists(f"{d}/analise/{v['id']}.analise.json")]
     if sem: print(f"- {ag.upper()}: {len(sem)} reuniões sem texto (legenda/Whisper no Mac)")
