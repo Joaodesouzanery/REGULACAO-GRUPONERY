@@ -8,15 +8,19 @@
   "fontes": [
    "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/curriculo-diretor-caio-seabra.pdf",
    "https://www12.senado.leg.br/noticias/materias/2023/12/13/comissao-de-infraestrutura-aprova-seabra-filho-para-direcao-da-anm",
-   "https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/caio-mario-trivellato-seabra-filho"
+   "https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/caio-mario-trivellato-seabra-filho",
+   "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/imagens/caiodiretor.jpg/@@images/image"
   ],
   "verificado_em": "2026-11-11",
   "confianca": "media",
   "foto": "data/anm/dirigentes/caio-seabra.jpg",
-  "foto_fonte": "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/imagens/caiodiretor.jpg",
+  "foto_fonte": "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/imagens/caiodiretor.jpg/@@images/image",
   "tipo": "diretor",
   "nome_chave": "Caio Seabra",
-  "status": "ativo"
+  "status": "ativo",
+  "foto_resolucao_original": "1600x1066",
+  "foto_resolucao": "800x800",
+  "foto_verificado_em": "2026-11-14"
  },
  {
   "diretor": "Cláudio Freire",
@@ -70,15 +74,19 @@
   "fontes": [
    "https://agenciainfra.com/blog/anm-claudio-freire-e-fabio-borges-devem-assumir-como-diretores-substitutos/",
    "https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/fabio-fernando-borges",
-   "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/cv_fabio-borges.pdf"
+   "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/cv_fabio-borges.pdf",
+   "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/imagens/borgesspe.jpg/@@images/image"
   ],
   "verificado_em": "2026-11-11",
   "confianca": "alta",
   "foto": "data/anm/dirigentes/fabio-borges.jpg",
-  "foto_fonte": "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/imagens/borgesspe.jpg",
+  "foto_fonte": "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/imagens/borgesspe.jpg/@@images/image",
   "tipo": "diretor",
   "nome_chave": "Fábio Borges",
-  "status": "ativo"
+  "status": "ativo",
+  "foto_resolucao_original": "3472x2320",
+  "foto_resolucao": "800x800",
+  "foto_verificado_em": "2026-11-14"
  },
  {
   "diretor": "José Fernando Gomes",
@@ -89,15 +97,19 @@
   "fontes": [
    "https://agenciainfra.com/blog/anm-da-posse-a-jose-fernando-gomes-como-novo-diretor-da-agencia/",
    "https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/jose-fernando-de-mendonca-gomes-junior",
-   "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/diretores/curriculo-jose-fernando.pdf"
+   "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/diretores/curriculo-jose-fernando.pdf",
+   "https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/imagens/josefernando.png/@@images/image"
   ],
   "verificado_em": "2026-11-11",
   "confianca": "alta",
   "foto": "data/anm/dirigentes/jose-fernando-gomes.jpg",
-  "foto_fonte": "https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/imagens/josefernando.png",
+  "foto_fonte": "https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/imagens/josefernando.png/@@images/image",
   "tipo": "diretor",
   "nome_chave": "José Fernando Gomes",
-  "status": "ativo"
+  "status": "ativo",
+  "foto_resolucao_original": "6960x4640",
+  "foto_resolucao": "800x800",
+  "foto_verificado_em": "2026-11-14"
  },
  {
   "diretor": "Luís Paniago",
@@ -107,16 +119,20 @@
   "minibio": "Geólogo, ex-Votorantim Metais; na ANM foi gerente de Segurança de Barragens e superintendente de Segurança de Barragens. Diretor substituto (página oficial: 03/06/2025–30/11/2026).",
   "fontes": [
    "https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/luiz-paniago-neves",
-   "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/cv_luiz-paniago.pdf"
+   "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/cv_luiz-paniago.pdf",
+   "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/imagens/paniagodiretor-sbp.jpg/@@images/image"
   ],
   "verificado_em": "2026-11-11",
   "confianca": "alta",
   "obs": "Grafia oficial gov.br: «Luiz»; a chave «Luís Paniago» segue config_agencia.json.",
   "foto": "data/anm/dirigentes/luis-paniago.jpg",
-  "foto_fonte": "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/imagens/paniagodiretor-sbp.jpg",
+  "foto_fonte": "https://www.gov.br/anm/pt-br/acesso-a-informacao/institucional/quem-e-quem/imagens/paniagodiretor-sbp.jpg/@@images/image",
   "tipo": "diretor",
   "nome_chave": "Luís Paniago",
-  "status": "ativo"
+  "status": "ativo",
+  "foto_resolucao_original": "3472x2320",
+  "foto_resolucao": "800x800",
+  "foto_verificado_em": "2026-11-14"
  },
  {
   "diretor": "Mauro Sousa",
@@ -127,15 +143,19 @@
   "fontes": [
    "https://www25.senado.leg.br/web/atividade/materias/-/materia/152593",
    "https://agenciainfra.com/blog/?p=48439",
-   "https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/mauro-henrique-moreira-sousa"
+   "https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/mauro-henrique-moreira-sousa",
+   "https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/imagens/mauro.png/@@images/image"
   ],
   "verificado_em": "2026-11-11",
   "confianca": "alta",
   "foto": "data/anm/dirigentes/mauro-sousa.jpg",
-  "foto_fonte": "https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/imagens/mauro.png",
+  "foto_fonte": "https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/imagens/mauro.png/@@images/image",
   "tipo": "diretor",
   "nome_chave": "Mauro Sousa",
-  "status": "ativo"
+  "status": "ativo",
+  "foto_resolucao_original": "1791x1364",
+  "foto_resolucao": "800x800",
+  "foto_verificado_em": "2026-11-14"
  },
  {
   "diretor": "Roger Cabral",
