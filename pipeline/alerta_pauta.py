@@ -18,6 +18,7 @@ hoje = datetime.date.today().isoformat()
 fmtd = lambda s: datetime.date.fromisoformat(str(s)[:10]).strftime("%d/%m/%Y") if s else "a confirmar"
 b64 = lambda p, t="png": f"data:image/{t};base64," + base64.b64encode(open(p, "rb").read()).decode() if p and os.path.exists(p) else ""
 RX = re.compile("|".join(EMP["aliases"]), re.I)
+MAN = json.load(open(f"{P}/desfechos_manuais.json")) if os.path.exists(f"{P}/desfechos_manuais.json") else {}
 TEMAS = EMP.get("temas_consultoria", [])
 c = previsao.conn(AG)
 
@@ -41,6 +42,8 @@ for i in c.execute("select * from itens where reuniao_id=?", (ult["id"],)):
     cliente = bool(RX.search(txt)) or pedido
     if cliente or "retirad" in res or "vista" in res:
         tema = next((t for t in TEMAS if re.search(t["regex"], txt, re.I)), None)
+        it_t = EMP.get("itens_acompanhar_tema", {}).get(str(i["item"]))
+        if it_t and not tema and "ab".find(it_t) < len(TEMAS): tema = TEMAS["ab".index(it_t)]
         itens.append(("cliente (informado pelo cliente)" if pedido and not RX.search(i["assunto"] or "") else "cliente" if cliente else "em aberto", f"{ult['numero']}ª · item {i['item']}: {(i['assunto'] or 'assunto não lido em sessão')[:220]} — {(i['resultado'] or '')[:90]}",
                       i["relator"], (tema or {}).get("regex"), mapa_tema.link(ult["video_id"], i["ts"]), i["id"]))
 ia = EMP.get("item_antecipado")
@@ -52,16 +55,16 @@ for k, x in enumerate(itens[:8]):
     origem, txt, rel, rx = x[:4]
     lk = x[4] if len(x) > 4 else None
     prev = ""
-    if rx:
+    if rx and origem != "cliente" or (rx and "informado" in origem):
         m = mapa_tema.mapear(AG, rx, "2023-01-01"); pu = 1.0
         for st in m["por_diretor"].values(): pu *= st["p_acomp"]
-        prev = f'<div class="pv">Previsão (inferência; base: tema do item desde 2023, n={sum(st["n"] for st in m["por_diretor"].values())} votos): unânime com o relator <b>{pu:.0%}</b> · ' + " · ".join(f'{E(d.split()[0])} {st["p_acomp"]:.0%}' for d, st in m["por_diretor"].items()) + "</div>"
+        prev = f'<div class="pv">Previsão (inferência; base: tema do item desde 2023, {len(m["itens"])} decisões): unânime com o relator <b>{pu:.0%}</b> · ' + " · ".join(f'{E(d.split()[0])} {st["p_acomp"]:.0%} (n={st["n"]}{", amostra insuficiente" if st["n"] < 5 else ""})' for d, st in m["por_diretor"].items()) + "</div>"
     blocos += (f'<li class="o-{origem.split()[0]}"><span class="tg">{E(origem)}</span> {E(txt)}{" · relator " + E(rel) if rel else ""} '
                + (f'<a href="{lk}">▶</a>' if lk else "") + prev + "</li>")
 # precedentes para o tema principal do cliente
 base_txt = " ".join(re.sub(r"^\w\)\s*|:.*$", "", t["titulo"]) for t in TEMAS) or EMP["nome"]
 sim = [x for x in similares.similares(AG, base_txt, 12, "|".join(EMP["aliases"])) if "não lido" not in (x["assunto"] or "")][:6]
-simh = "".join(f'<li><b>{fmtd(s["data"])} · {s["numero"]}ª item {E(str(s["item"]))}</b> {E((s["assunto"] or "")[:120])} — {E(s["desfecho"])} · relator {E(s["relator"] or "—")} <a href="{s["link"]}">▶</a></li>' for s in sim)
+simh = "".join(f'<li><b>{fmtd(s["data"])} · {s["numero"]}ª item {E(str(s["item"]))}</b> {E((s["assunto"] or "")[:120])} — {E(MAN.get(str(s["id"]), {}).get("desfecho") or s["desfecho"])} · relator {E(s["relator"] or "—")} <a href="{s["link"]}">▶</a></li>' for s in sim)
 
 LOGO_P = b64("docs/marca/circle/logo_circle_preto.png"); NERY = b64("docs/marca/grupo_nery/logo_preto.png"); CLI = b64(EMP.get("logo"))
 pauta_txt = f'<a href="{alvo["pauta"]}">pauta publicada</a>' if alvo.get("itens") else "pauta ainda não publicada — itens abaixo vêm da última reunião e dos temas do cliente"
@@ -79,7 +82,7 @@ ul{{margin:0;padding-left:1.1em;font-size:8.8pt;line-height:1.42}}li{{margin-bot
 <div><div class="cal"><b>Calendário oficial:</b> {E(str(alvo["reuniao"]))}ª em {fmtd(alvo.get("data"))} ({E(alvo.get("formato") or "")}){f" · {E(seg['reuniao'])}ª em {fmtd(seg.get('data'))} ({E(seg.get('formato') or '')})" if seg else ""}.<br>
 {"Reunião virtual: sem transmissão; resultado só em ata." if (alvo.get("formato") or "") == "virtual" else "Reunião transmitida: resultado com link no minuto no dia seguinte."}</div>
 <h3>Precedentes mais parecidos</h3><ul>{simh}</ul></div></div>
-<div class="rod">Fontes públicas (vídeos oficiais, pauta e calendário da agência). Previsões são estimativas a partir do histórico de votos (prior 97%) e não substituem a publicação oficial. Legenda automática pode errar nomes e números.</div></section></body></html>'''
+<div class="rod">Fontes públicas (vídeos oficiais, pauta e calendário da agência). Previsões são estimativas a partir do histórico de votos (prior 97%) e não substituem a publicação oficial nem orientação jurídica. Legenda automática pode errar nomes e números.</div></section></body></html>'''
 base = f"{P}/alerta_{AG}_{re.sub(r'\\W', '', str(alvo['reuniao']))}"
 open(base + ".html", "w").write(leve_html(H))
 js = f"const {{chromium}}=require('playwright');(async()=>{{const b=await chromium.launch();const p=await b.newPage();await p.goto('file://{os.path.abspath(base)}.html',{{waitUntil:'networkidle'}});await p.pdf({{path:'{os.path.abspath(base)}.pdf',width:'13.333in',height:'7.5in',printBackground:true}});await b.close();}})();"

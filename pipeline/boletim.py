@@ -42,7 +42,7 @@ IT = c.execute(f"select i.*, r.numero, r.data, r.video_id from itens i join reun
 VT = c.execute(f"select v.*, i.assunto, i.item, i.resultado, r.numero, r.data, r.video_id from votos v join itens i on i.id=v.item_id join reunioes r on r.id=i.reuniao_id where i.reuniao_id in ({Q})", rid).fetchall()
 res = lambda i: (i["resultado"] or "").lower()
 n_vista = sum("vista" in res(i) for i in IT); n_ret = sum("retirad" in res(i) for i in IT); n_sig = sum("sigilo" in res(i) for i in IT)
-div_items = {v["item_id"] for v in VT if v["categoria"] in ("vencido", "revisor_diverge")}
+div_items = {v["item_id"] for v in VT if v["categoria"] in ("vencido", "revisor_diverge") and not re.search(r"vista|n[ãa]o deliberad", v["resultado"] or "", re.I)}
 delib = [i for i in IT if not any(k in res(i) for k in ("vista", "retirad", "sigilo", "conhecimento"))]
 n_div = len(div_items)
 temas = collections.Counter(t for i in IT for (t,) in c.execute("select tema from item_temas where item_id=?", (i["id"],)))
@@ -62,7 +62,8 @@ venc = [m for m in mand if (m.get("fim_legal") or m.get("fim") or "") and fim.is
 entr = [m for m in mand if (m.get("inicio") or "")[:7] == MES]; sai = [m for m in mand if (m.get("fim") or "")[:7] == MES]
 # canal × texto (cobertura do mês)
 vids = c.execute("select id, titulo, tipo from videos where data between ? and ?", (ini.isoformat(), fim.isoformat())).fetchall()
-sem = [v for v in vids if v["tipo"] == "diretoria" and v["id"] not in {r["video_id"] for r in R}]
+todos = {x for (x,) in c.execute("select video_id from reunioes")}
+sem = [v for v in vids if v["tipo"] == "diretoria" and v["id"] not in todos]
 
 LOGO = b64("docs/marca/circle/logo_circle_branco.png", "png"); LOGO_P = b64("docs/marca/circle/logo_circle_preto.png", "png")
 REC = "docs/marca/setores/recortes"
@@ -92,7 +93,7 @@ for t, _ in temas.most_common(5):
 S.append(f'<section class="pg cinza">{top(2, "Decisões por tema")}<h2>Principais decisões, por tema</h2><div class="cgrid3">{cards}</div><div class="rod">Um destaque por tema entre os 5 temas mais frequentes do mês. ▶ abre o vídeo no minuto (legenda automática: confira nomes e valores).</div></section>')
 # 3 divergências
 dv = [v for v in VT if v["categoria"] in ("vencido", "revisor_diverge", "vista")]
-lin = "".join(f'<tr><td>RD {E(v["numero"])}<br>{fmtd(v["data"])[:5]}</td><td>{E(v["diretor"])}</td><td>{E({"vencido": "vencido", "revisor_diverge": "divergiu (revisor)", "vista": "pediu vista"}[v["categoria"]])}</td>'
+lin = "".join(f'<tr><td>RD {E(v["numero"])}<br>{fmtd(v["data"])[:5]}</td><td>{E(v["diretor"])}</td><td>{E("renovou vista (revisor)" if v["categoria"] == "revisor_diverge" and re.search(r"vista", v["resultado"] or "", re.I) else {"vencido": "vencido", "revisor_diverge": "divergiu (revisor)", "vista": "pediu vista"}[v["categoria"]])}</td>'
               f'<td>{E((v["assunto"] or "")[:80])}</td><td>{E((v["justificativa"] or v["voto"] or "")[:150])}</td><td><a href="{yt(v["video_id"], v["ts"])}">▶</a></td></tr>' for v in dv[:9])
 S.append(f'<section class="pg">{top(3, "Divergências e vistas")}<h2>Quem divergiu ou pediu vista — e por quê</h2>'
          + (f'<table><tr><th>Reunião</th><th>Diretor</th><th>O quê</th><th>Assunto</th><th>Justificativa registrada</th><th></th></tr>{lin}</table>' if lin else '<p class="vazio">Nenhuma divergência ou vista registrada no mês: todos os itens deliberados seguiram o relator.</p>')

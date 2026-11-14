@@ -155,7 +155,7 @@ S.append(f'''<section class="pg">{top(1, "Painel da empresa")}<div class="g2">
 <p class="nt">*Desfecho pela decisão; casos ambíguos conferidos à mão. Nº de processo vem da legenda — conferir no SEI.</p></div>
 <div class="col"><div class="card"><h3>Calendário e próximos passos</h3><div class="tl2">{lin}</div></div>
 <div class="g2b"><div class="card"><h3>Desfecho histórico</h3>{rosca(DES, CORES, 150, "decisões")}</div>
-<div class="card"><h3>Chance de divergir do relator</h3>{barras(risco, AC2, lambda v: f"{100 * v:.0f}%")}<p class="nt">Temas da empresa, últimos 3 anos (prior 97%).</p></div></div></div></div></section>''')
+<div class="card"><h3>Chance de divergir do relator</h3>{barras(risco, AC2, lambda v: f"{100 * v:.0f}%")}<p class="nt">Estimativa (inferência): temas mais frequentes da empresa ({", ".join(t.replace("_", " ") for t in pr["temas"])}), últimos 3 anos, prior 97%.</p></div></div></div></div></section>''')
 
 # 2 diretoria
 cards = ""
@@ -173,6 +173,12 @@ vh = " · ".join(f'{E(v["cadeira"])} (desde {fmtd(v["inicio"])}; interinos: {E(v
 S.append(f'''<section class="pg">{top(2, f"Diretoria · {NOME}")}<h2>Quem decide hoje</h2><div class="dgrid" style="grid-template-columns:repeat({len(board)},1fr)">{cards}</div>
 <div class="g2c"><div class="card"><h3>Superintendentes</h3><div class="sgrid">{sc}</div></div><div class="card vg"><h3>Mandatos e vagas</h3><p><b>Vaga aberta:</b> {vh}</p><p class="nt">Mandatos: Senado/DOU, conferidos todo dia 1. Barra = tempo de mandato já cumprido.</p></div></div></section>''')
 
+def mand_txt(d):
+    ini, fim, _ = mandato(d)
+    try: anos = (datetime.date.fromisoformat(fim[:10]) - datetime.date.fromisoformat(ini[:10])).days / 365.25
+    except Exception: return f"até {fmtd(fim)}"
+    if 4.7 <= anos <= 5.3: return f"até {fmtd(fim)} · 5 anos, sem recondução (Lei 13.848/2019)"
+    return f"até {fmtd(fim)} · {anos:.1f} anos (transição da lei ou restante de vaga; ver fontes), sem recondução"
 # 2b ficha dos diretores (todos os temas da agência, 3 anos)
 def ficha(d):
     R = c.execute("select v.categoria, v.eh_relator, v.item_id, v.justificativa, v.trecho, v.trecho_t, v.ts, r.numero, r.video_id from votos v join itens i on i.id=v.item_id join reunioes r on r.id=i.reuniao_id where v.diretor=? and r.data>=?", (d, TRES)).fetchall()
@@ -186,7 +192,7 @@ def ficha(d):
 FI = {d: ficha(d) for d in board}
 linhas_f = [("Formação", lambda d: (bios.get(d) or {}).get("formacao") or "não informada nas fontes oficiais"),
             ("Origem / carreira", lambda d: re.split(r"\.\s", (bios.get(d) or {}).get("minibio") or "—")[0][:160]),
-            ("Mandato", lambda d: f"diretor substituto · convocação até {fmtd(mandato(d)[1])}" if "substitut" in ((bios.get(d) or {}).get("cargo", "")).lower() else f"até {fmtd(mandato(d)[1])} · 5 anos, sem recondução (Lei 13.848/2019)"),
+            ("Mandato", lambda d: f"diretor substituto · convocação até {fmtd(mandato(d)[1])}" if "substitut" in ((bios.get(d) or {}).get("cargo", "")).lower() else mand_txt(d)),
             ("Votos em 3 anos", lambda d: f"{FI[d]['n']} votos · {FI[d]['rel']} relatorias · {FI[d]['dv']} divergências · {FI[d]['vista']} vistas"),
             ("Temas que mais relata", lambda d: ", ".join(f"{t.replace('_', ' ')} ({k})" for t, k in FI[d]["temas"]) or "—"),
             ("Argumentos recorrentes (inferência)", lambda d: " / ".join(j[:110] for j in FI[d]["ju"]) or "—")]
@@ -219,7 +225,7 @@ for tc in EMP.get("temas_consultoria", []):
     for d, st in m["por_diretor"].items():
         e = st["ev"]; pct = st["p_acomp"]
         dc += f'''<div class="mc">{foto_dir(d, bios.get(d))}<div class="dn">{E(d)}</div><div class="gauge"><svg viewBox="0 0 120 66" width="120" height="66"><path d="M10,60 A50,50 0 0 1 110,60" stroke="#E7E3DA" stroke-width="12" fill="none"/>
-<path d="M10,60 A50,50 0 0 1 110,60" stroke="{AC}" stroke-width="12" fill="none" stroke-dasharray="{157 * pct:.0f} 200"/></svg><b>{pct:.0%}</b></div><div class="ml">chance de acompanhar o relator · n={st["n"]}</div>
+<path d="M10,60 A50,50 0 0 1 110,60" stroke="{AC}" stroke-width="12" fill="none" stroke-dasharray="{157 * pct:.0f} 200"/></svg><b>{pct:.0%}</b></div><div class="ml">estimativa · chance de acompanhar o relator · n={st["n"]}{" · <b style=color:#9A4A00>amostra insuficiente (≈ prior 97%)</b>" if st["n"] < 5 else ""}</div>
 <div class="ms">relatou {st["rel"]} · divergiu {st["dv"]} · vista {st["vista"]}</div>{f'<div class="mq">RD {E(str(e["numero"]))}: «{E((e["justificativa"] or e["voto"] or "")[:80])}» <a href="{mapa_tema.link(e["video_id"], e["ts"], e["trecho_t"])}">▶</a></div>' if e else ""}</div>'''
     lst = "".join(f'<div class="ti"><span>{fmtd(i["data"])}</span><b>RD {E(str(i["numero"]))}</b> {E((i["assunto"] or "")[:120])} — <i>{E(des(c, i["id"]))}</i> <a href="{mapa_tema.link(i["video_id"], i["ts"])}">▶</a></div>' for i in m["itens"][-5:][::-1])
     S.append(f'''<section class="pg">{top(n, "Mapeamento por assunto")}<h2>{E(tc["titulo"])}</h2>
@@ -229,15 +235,15 @@ for tc in EMP.get("temas_consultoria", []):
 # análise antecipada
 ia = EMP.get("item_antecipado")
 if ia:
-    n += 1; m = mapa_tema.mapear(AG, ia["regex"], DESDE)
+    n += 1; m = mapa_tema.mapear(AG, ia["regex"], TRES)
     lo, mid, hi = faixa([(st["p_acomp"], st["n"]) for st in m["por_diretor"].values()])
     evh = "".join(f'<li>{E(x["txt"])} <a href="https://www.youtube.com/watch?v={x["vid"]}&t={max(int(x["t"]) - 3, 0)}s">▶ {int(x["t"]) // 3600}:{int(x["t"]) // 60 % 60:02d}:{int(x["t"]) % 60:02d}</a></li>' for x in ia.get("evidencias", []))
     calh = "".join(f'<div class="cr"><b>{E(x["data"])}</b><span>{E(x["reuniao"])}</span><em>{E(x["obs"])}</em></div>' for x in ia.get("calendario", []))
-    pv = "".join(f'<div class="br"><span class="bl">{E(d)}</span><span class="bt"><i style="width:{100 * st["p_acomp"]:.0f}%;background:{AC}"></i></span><b>{st["p_acomp"]:.0%}</b><em>n={st["n"]}</em></div>' for d, st in m["por_diretor"].items())
+    pv = "".join(f'<div class="br"><span class="bl">{E(d)}</span><span class="bt"><i style="width:{100 * st["p_acomp"]:.0f}%;background:{AC}"></i></span><b>{st["p_acomp"]:.0%}</b><em>n={st["n"]}{" · amostra insuficiente" if st["n"] < 5 else ""}</em></div>' for d, st in m["por_diretor"].items())
     S.append(f'''<section class="pg">{top(n, "Análise antecipada")}<h2>{E(ia["titulo"])}</h2><div class="g3a">
 <div class="card cl"><div class="tag t1">O que o cliente informou</div><p>{E(ia.get("informado", "Retirado de pauta para análise do Diretor-Geral."))}</p><div class="tag t2">O que o vídeo mostra</div><ul>{evh}</ul></div>
 <div class="card"><h3>Próximas reuniões (calendário oficial)</h3>{calh}<p class="nt">Reunião virtual: sem transmissão; resultado só em ata.</p></div>
-<div class="card"><h3>Previsão por diretor <span class="est">estimativa</span></h3>{pv}<div class="fx">Unanimidade com o relator: <b>{100 * lo:.0f}–{min(100 * hi, 99):.0f}%</b> (faixa larga = poucos votos no tema)</div><p class="nt">{E(ia.get("leitura", ""))[:520]}</p></div></div></section>''')
+<div class="card"><h3>Previsão por diretor <span class="est">estimativa</span></h3>{pv}<div class="fx">Unanimidade com o relator: <b>{100 * lo:.0f}% a {"≥99" if hi >= .99 else f"{100 * hi:.0f}"}%</b> (faixa larga = poucos votos no tema)</div><p class="nt"><b>Base:</b> {len(m["itens"])} decisões de reequilíbrio de arrendamento + passivo ambiental, últimos 3 anos; votos do colegiado atual (n {"/".join(str(st["n"]) for st in m["por_diretor"].values())}); prior 97%. {E(ia.get("relator_provavel", ""))}</p><p class="nt">{E(ia.get("leitura", ""))}</p><p class="nt">Estimativa: não substitui a publicação oficial nem orientação jurídica.</p></div></div></section>''')
 
 # contrato em foco
 cf = EMP.get("contrato_foco")
@@ -255,10 +261,10 @@ lo, mid, hi = faixa([pr["por_diretor"][d] for d in board if d in pr["por_diretor
 ac, tt = pr["backtest"]
 pas = "".join(f'<div class="br"><span class="bl">{E(d)}</span><span class="bt"><i style="width:{100 * p:.0f}%;background:#9A958C"></i></span><b>{p:.0%}</b><em>n={k}</em></div>' for d, (p, k) in pr["por_diretor"].items())
 S.append(f'''<section class="pg">{top(n, "Previsão futura · passado × futuro")}<h2>O que esperar dos próximos processos da empresa</h2><div class="g2p pp">
-<div class="card"><div class="tag t2">Passado</div><h3>Quanto cada diretor acompanhou o relator nos temas da empresa (3 anos)</h3>{pas}<p class="nt">Regra testada em 2025–26 com dados até 2024: acertou {ac} de {tt} ({100 * ac / max(tt, 1):.0f}%).</p></div>
+<div class="card"><div class="tag t2">Passado</div><h3>Estimativa de acompanhar o relator nos temas {E(", ".join(t.replace("_", " ") for t in pr["temas"]))} (3 anos, prior 97%)</h3>{pas}<p class="nt">Regra testada em 2025–26 com dados até 2024: acertou {ac} de {tt} ({100 * ac / max(tt, 1):.0f}%) — igual à taxa de decisões unânimes no período; a regra não antecipa divergências ({tt - ac} no período). Use como linha de base, não como garantia.</p></div>
 <div class="card fut"><div class="tag t1">Futuro</div><div class="stamp">ESTIMATIVA — não é certeza</div><div class="plac">{pr["placar_esperado"][0]}<span>×</span>{pr["placar_esperado"][1]}</div><div class="pl">placar mais provável</div>
-<div class="fxb"><div class="fxl"><i style="left:{100 * lo:.0f}%;width:{100 * (hi - lo):.0f}%"></i><b style="left:{100 * mid:.0f}%"></b></div><div class="fxt">Chance de decisão unânime com o relator: <b>{100 * lo:.0f}% a {min(100 * hi, 99):.0f}%</b></div></div>
-<ul class="muda"><li>O relator define o resultado na grande maioria dos casos: a leitura do voto do relator é o fator nº 1.</li><li>Pode mudar a previsão: troca de diretor (mandatos em dez/2026 e fev/2027), voto-vista, divergência do Diretor-Geral em metodologia de cálculo.</li><li>Não prevê o mérito de um caso específico; é estatística do histórico de votos.</li></ul></div></div></section>''')
+<div class="fxb"><div class="fxl"><i style="left:{100 * lo:.0f}%;width:{100 * (hi - lo):.0f}%"></i><b style="left:{100 * mid:.0f}%"></b></div><div class="fxt">Chance de decisão unânime com o relator: <b>{100 * lo:.0f}% a {"≥99" if hi >= .99 else f"{100 * hi:.0f}"}%</b></div></div>
+<ul class="muda"><li>O relator define o resultado na grande maioria dos casos: a leitura do voto do relator é o fator nº 1.</li><li>Pode mudar a previsão: troca de diretor (mandatos em dez/2026 e fev/2027), voto-vista, divergência do Diretor-Geral em metodologia de cálculo.</li><li>Não prevê o mérito de um caso específico; é estatística do histórico de votos. Não substitui a publicação oficial nem orientação jurídica.</li></ul></div></div></section>''')
 
 # fim
 cob = E(subprocess.run(["python3", "pipeline/cobertura_resposta.py", AG], capture_output=True, text=True).stdout.strip().replace("**", "")).replace("\n", "<br>")
