@@ -1,11 +1,11 @@
 # Perfil analítico — Guilherme Sampaio · tema: ferrovias
 
-**Amostra:** presente em 158 das 167 reuniões analisadas em que há registro de presença/ausência; 148 votos neste tema; 25 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 159 das 168 reuniões analisadas em que há registro de presença/ausência; 149 votos neste tema; 25 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 119 (96% dos votos em que não era relator) · relator 25 · vista pedida 2 · voto-vista divergente 0 · vencido 0 · outros/não captado 2
+**Votos:** acompanha o relator 120 (96% dos votos em que não era relator) · relator 25 · vista pedida 2 · voto-vista divergente 0 · vencido 0 · outros/não captado 2
 **Como relator:** 25/25 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 502/120; fiscalizacao_sancoes 445/94; onibus 262/53; regulacao_normativa 215/47; onibus_regular 180/35; reequilibrio_contratual 174/34; participacao_social 158/43; leilao_otimizacao 154/52; ferrovias 148/25; institucional 123/30; judicializacao 121/19; pedagio_freeflow 80/13; onibus_fretamento 62/16; cargas 55/11; sandbox_inovacao 32/10; sustentabilidade 26/6; tarifa_modicidade 25/2; onibus_semiurbano 14/2; outros 1/0
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 507/121; fiscalizacao_sancoes 447/94; onibus 262/53; regulacao_normativa 219/47; onibus_regular 180/35; reequilibrio_contratual 175/34; participacao_social 160/44; leilao_otimizacao 155/53; ferrovias 149/25; institucional 124/30; judicializacao 121/19; pedagio_freeflow 81/13; onibus_fretamento 62/16; cargas 56/11; sandbox_inovacao 34/10; sustentabilidade 29/6; tarifa_modicidade 25/2; onibus_semiurbano 14/2; outros 1/0
 **Argumentos recorrentes nas justificativas registradas:** TCU/controle externo (4); segurança jurídica (3); sustentabilidade (3); concorrência (2); usuário (2); governança/rito (2)
 **Tom (inferência da leitura, não métrica):** elogioso | entusiasmado | minucioso, cauteloso
 
@@ -159,3 +159,4 @@
 - **RD 1039 (2026-08-14)**, item 1.4.1 — Prorrogação do prazo de contribuições da AP 11/2026 sobre a concessão ferroviária da Malha Sul (corredores Mercosul, Rio Grande e Paraná–San · voto: *acompanha; proclama unanimidade* (acompanha, conf. alta) · «elogia a sensibilidade e a transparência de Alex» · [vídeo](https://www.youtube.com/watch?v=u4SXNQPR-XQ&t=4090s) · resultado: aprovado por unanimidade
 - **RD 1044 (2026-10-22)**, item 1.1.1+1.1.2 — Homologação de resultados do PSI (sandbox de sustentabilidade): rodovias (edital 3/2025: resultado final complementar do Nível 1 e prelimina · voto: *acompanha integralmente* (acompanha, conf. média) · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=6096s) · resultado: aprovados por unanimidade
 - **RD 1044 (2026-10-22)**, item 1.2.1 — Relatório final da AP 5/2026 (06/04–20/05/2026; 226 contribuições, 97 acolhidas e 51 parcialmente) e aprovação do RSF 1 (Regulamento de Serv · voto: *acompanha; proclama aprovação* (acompanha, conf. média) · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=7902s) · resultado: aprovado por unanimidade
+- **RD 1045 (2026-11-09)**, item 1.3.2 — Contrato de adesão para autorização de construção e exploração de ferrovia (terminal intermodal greenfield de ~2,13 km ligado à FTL) em Caxi · voto: *acompanha o relator com o aperfeiçoamento do revisor* (revisor_acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=6129s) · resultado: aprovado por unanimidade

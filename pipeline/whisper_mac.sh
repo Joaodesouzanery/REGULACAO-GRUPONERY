@@ -19,7 +19,7 @@ MOD="${WHISPER_MODELO:-small}"; TMP="$(mktemp -d)"; BR="$(git -C "$REPO" branch 
 echo "Branch: $BR (deve ser claude/antt-directors-speeches-analysis-93r9hi)"
 for id in "${IDS[@]}"; do
   echo "=== $id: baixando áudio ==="
-  "$UV" run --python 3.12 --with "yt-dlp>=2026.1.1" yt-dlp -f "bestaudio[ext=m4a]/bestaudio" -o "$TMP/$id.%(ext)s" "https://www.youtube.com/watch?v=$id" || { echo "falhou o download de $id"; continue; }
+  "$UV" run --python 3.12 --with "yt-dlp>=2026.1.1" yt-dlp -f "bestaudio[ext=m4a]/bestaudio" -o "$TMP/$id.%(ext)s" "https://www.youtube.com/watch?v=$id" 2>"$TMP/err.txt" || { if grep -qi "private video" "$TMP/err.txt"; then echo "PRIVADO (sem acesso, ignorado): $id"; echo "{\"id\": \"$id\", \"motivo\": \"privado\", \"info\": \"whisper\", \"em\": \"$(date +%F)\"}" >> data/sem_legenda.jsonl; else echo "falhou o download de $id"; tail -2 "$TMP/err.txt"; fi; continue; }
   AUD="$(ls "$TMP/$id".* 2>/dev/null | head -1)"; [ -z "$AUD" ] && { echo "áudio de $id não encontrado"; continue; }
   echo "=== $id: transcrevendo (modelo $MOD) ==="
   "$UV" run --python 3.12 --with faster-whisper python - "$AUD" "data/transcricoes/$id.json" "$MOD" <<'PY'

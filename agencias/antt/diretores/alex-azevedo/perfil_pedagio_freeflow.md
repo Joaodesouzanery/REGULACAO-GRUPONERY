@@ -1,11 +1,11 @@
 # Perfil analítico — Alex Azevedo · tema: pedagio_freeflow
 
-**Amostra:** presente em 32 das 36 reuniões analisadas em que há registro de presença/ausência; 33 votos neste tema; 5 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 33 das 37 reuniões analisadas em que há registro de presença/ausência; 34 votos neste tema; 5 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 28 (100% dos votos em que não era relator) · relator 5 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 29 (100% dos votos em que não era relator) · relator 5 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 5/5 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 94/12; onibus 45/11; leilao_otimizacao 43/6; reequilibrio_contratual 39/5; fiscalizacao_sancoes 37/9; pedagio_freeflow 33/5; participacao_social 32/7; onibus_regular 30/6; ferrovias 30/6; judicializacao 28/6; regulacao_normativa 26/4; sandbox_inovacao 15/1; tarifa_modicidade 14/4; cargas 14/5; institucional 12/2; sustentabilidade 10/2; onibus_fretamento 8/2; onibus_semiurbano 4/1
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 99/12; onibus 45/11; leilao_otimizacao 44/6; reequilibrio_contratual 40/5; fiscalizacao_sancoes 39/9; pedagio_freeflow 34/5; participacao_social 34/7; ferrovias 31/6; regulacao_normativa 30/4; onibus_regular 30/6; judicializacao 28/6; sandbox_inovacao 17/1; cargas 15/5; tarifa_modicidade 14/4; sustentabilidade 13/2; institucional 13/2; onibus_fretamento 8/2; onibus_semiurbano 4/1
 **Argumentos recorrentes nas justificativas registradas:** participação social (4); usuário (3); evidência/dados (1); governança/rito (1); segurança jurídica (1); transparência (1)
 **Tom (inferência da leitura, não métrica):** propositivo | questionador, cortês | didático e narrativo, dirigido ao público | enfático, numérico | didático, minucioso
 
@@ -44,3 +44,4 @@
 - **RD 102ª Extraordinária (2026-09-03)**, item 1.2.1 — Edital de concessão da BR-116/324 (BA) — Rota 2 de Julho, 653 km (Salvador–Feira de Santana–Vitória da Conquista–divisa MG) · voto: *acompanha na integralidade* (acompanha, conf. alta) · «corredores logísticos do Nordeste (BA, PE, MG); lembra a BR-116 BA já concedida em 2026» · [vídeo](https://www.youtube.com/watch?v=J5gkP2cLOm8&t=2949s) · resultado: aprovado por unanimidade
 - **RD 102ª Extraordinária (2026-09-03)**, item 1.3.1 — Relatório final da AP 4/2026 e proposição ao Ministério dos Transportes do plano de outorga da Rota Portuária Sul (BR-116/392, RS; 459 km →  · voto: *relator, aprova* (relator, conf. alta) · «participação social convertida em mudança real de projeto» · [vídeo](https://www.youtube.com/watch?v=J5gkP2cLOm8&t=3518s) · resultado: aprovado por unanimidade
 - **RD 1044 (2026-10-22)**, item 1.3.2 — 2º termo aditivo: substituir a obrigação da praça de pedágio P3A (km 3+150, Comendador Levy Gasparian/RJ) por pórtico eletrônico free flow,  · voto: *relator, aprova* (relator, conf. alta) · «resposta institucional a questionamento judicial, protege receita e usuário; instrução com parecer jurídico, validação técnica e anuência da interessada» · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=8776s) · resultado: aprovado por unanimidade
+- **RD 1045 (2026-11-09)**, item 1.1.4 — 3º termo aditivo ao contrato (edital 3/2025) para substituir a construção e operação de 5 praças de pedágio por pedágio eletrônico em livre  · voto: *acompanha o relator original acrescido do voto-vista* (revisor_acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=4279s) · resultado: aprovado por unanimidade

@@ -1,11 +1,11 @@
 # Perfil analítico — Alex Azevedo · tema: reequilibrio_contratual
 
-**Amostra:** presente em 32 das 36 reuniões analisadas em que há registro de presença/ausência; 39 votos neste tema; 5 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 33 das 37 reuniões analisadas em que há registro de presença/ausência; 40 votos neste tema; 5 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 34 (100% dos votos em que não era relator) · relator 5 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 35 (100% dos votos em que não era relator) · relator 5 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 5/5 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 94/12; onibus 45/11; leilao_otimizacao 43/6; reequilibrio_contratual 39/5; fiscalizacao_sancoes 37/9; pedagio_freeflow 33/5; participacao_social 32/7; onibus_regular 30/6; ferrovias 30/6; judicializacao 28/6; regulacao_normativa 26/4; sandbox_inovacao 15/1; tarifa_modicidade 14/4; cargas 14/5; institucional 12/2; sustentabilidade 10/2; onibus_fretamento 8/2; onibus_semiurbano 4/1
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 99/12; onibus 45/11; leilao_otimizacao 44/6; reequilibrio_contratual 40/5; fiscalizacao_sancoes 39/9; pedagio_freeflow 34/5; participacao_social 34/7; ferrovias 31/6; regulacao_normativa 30/4; onibus_regular 30/6; judicializacao 28/6; sandbox_inovacao 17/1; cargas 15/5; tarifa_modicidade 14/4; sustentabilidade 13/2; institucional 13/2; onibus_fretamento 8/2; onibus_semiurbano 4/1
 **Argumentos recorrentes nas justificativas registradas:** transparência (3); evidência/dados (2); segurança jurídica (2); governança/rito (1); segurança viária (1); usuário (1)
 **Tom (inferência da leitura, não métrica):** propositivo | didático | cuidadoso, transparência | didático e narrativo, dirigido ao público | didático, minucioso
 
@@ -50,3 +50,4 @@
 - **RD 102ª Extraordinária (2026-09-03)**, item 1.1.1 — 1ª revisão extraordinária da tarifa básica de pedágio para recompor o equilíbrio econômico-financeiro: 41 controladores de velocidade no tro · voto: *acompanha integralmente* (acompanha, conf. média) · [vídeo](https://www.youtube.com/watch?v=J5gkP2cLOm8&t=2484s) · resultado: aprovado por unanimidade
 - **RD 1041 (2026-09-10)**, item 1.1.4 — 22º termo aditivo: incluir a implantação do dispositivo em desnível (Trevão de Rondonópolis, BR-163 km 119+900 com BR-364, MT). Relator orig · voto: *acompanha integralmente* (acompanha, conf. alta) · «importância do entroncamento para o Centro-Oeste e o agronegócio» · [vídeo](https://www.youtube.com/watch?v=DRpLm1FOHCA&t=1179s) · resultado: aprovado por unanimidade
 - **RD 1044 (2026-10-22)**, item 1.3.2 — 2º termo aditivo: substituir a obrigação da praça de pedágio P3A (km 3+150, Comendador Levy Gasparian/RJ) por pórtico eletrônico free flow,  · voto: *relator, aprova* (relator, conf. alta) · «resposta institucional a questionamento judicial, protege receita e usuário; instrução com parecer jurídico, validação técnica e anuência da interessada» · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=8776s) · resultado: aprovado por unanimidade
+- **RD 1045 (2026-11-09)**, item 1.2.1 — 10º termo aditivo ao contrato (edital 1/2021) para padronizar a metodologia de apuração do desconto de reequilíbrio (fator D), com ajuste pr · voto: *acompanha integralmente* (acompanha, conf. media) · «padronização do fator D era debate antigo da diretoria» · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=4871s) · resultado: aprovado por unanimidade

@@ -1,11 +1,11 @@
 # Perfil analítico — Lucas Asfor · tema: participacao_social
 
-**Amostra:** presente em 112 das 117 reuniões analisadas em que há registro de presença/ausência; 110 votos neste tema; 30 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 113 das 118 reuniões analisadas em que há registro de presença/ausência; 112 votos neste tema; 30 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 80 (100% dos votos em que não era relator) · relator 30 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 82 (100% dos votos em que não era relator) · relator 30 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 30/30 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 400/110; fiscalizacao_sancoes 361/112; onibus 214/65; onibus_regular 146/47; reequilibrio_contratual 125/21; regulacao_normativa 122/24; leilao_otimizacao 116/41; participacao_social 110/30; judicializacao 86/22; ferrovias 83/18; institucional 65/4; onibus_fretamento 58/17; pedagio_freeflow 56/15; cargas 39/12; sandbox_inovacao 29/3; sustentabilidade 27/0; tarifa_modicidade 14/2; onibus_semiurbano 7/1; outros 1/0
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 405/112; fiscalizacao_sancoes 363/113; onibus 214/65; onibus_regular 146/47; regulacao_normativa 126/26; reequilibrio_contratual 126/22; leilao_otimizacao 117/41; participacao_social 112/30; judicializacao 86/22; ferrovias 84/19; institucional 66/4; onibus_fretamento 58/17; pedagio_freeflow 57/16; cargas 40/12; sandbox_inovacao 31/3; sustentabilidade 30/0; tarifa_modicidade 14/2; onibus_semiurbano 7/1; outros 1/0
 **Argumentos recorrentes nas justificativas registradas:** participação social (7); transparência (6); segurança jurídica (4); concorrência (3); usuário (2); governança/rito (1)
 **Tom (inferência da leitura, não métrica):** firme | minucioso
 
@@ -121,3 +121,5 @@
 - **RD 1040 (2026-08-27)**, item 1.2.4 — Abertura de audiência pública sobre a minuta de edital de sandbox regulatório de interoperabilidade do sistema de livre passagem (free flow) · voto: *acompanha* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=8p1X1Nfk9Cs&t=3830s) · resultado: aprovado por unanimidade
 - **RD 101ª Extraordinária (2026-09-01)**, item 1.1.1 — Abertura de audiência pública, realizada concomitantemente à vigência do edital, sobre as minutas do edital do processo competitivo, termo a · voto: *acompanha* (acompanha, conf. média) · [vídeo](https://www.youtube.com/watch?v=Q8UGEXRy5vk&t=1741s) · resultado: aprovado por unanimidade
 - **RD 102ª Extraordinária (2026-09-03)**, item 1.3.1 — Relatório final da AP 4/2026 e proposição ao Ministério dos Transportes do plano de outorga da Rota Portuária Sul (BR-116/392, RS; 459 km →  · voto: *acompanha na íntegra* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=J5gkP2cLOm8&t=4256s) · resultado: aprovado por unanimidade
+- **RD 1045 (2026-11-09)**, item extrapauta — Relatório final da Audiência Pública 15/2026 sobre minutas de edital de processo competitivo, termo aditivo, PER e MEF para readaptação e ot · voto: *acompanha o relator* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=1930s) · resultado: aprovado por unanimidade
+- **RD 1045 (2026-11-09)**, item 1.3.1 — Abertura de audiência pública sobre alteração da Resolução ANTT 5.982/2022 para incluir infrações e penalidades relativas aos seguros obriga · voto: *acompanha o relator* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=5466s) · resultado: aprovado por unanimidade

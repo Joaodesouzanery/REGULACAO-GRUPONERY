@@ -1,12 +1,12 @@
 # Perfil analítico — Felipe Queiroz · tema: pedagio_freeflow
 
-**Amostra:** presente em 112 das 120 reuniões analisadas em que há registro de presença/ausência; 57 votos neste tema; 17 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 113 das 121 reuniões analisadas em que há registro de presença/ausência; 58 votos neste tema; 17 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 38 (95% dos votos em que não era relator) · relator 17 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 2
+**Votos:** acompanha o relator 39 (95% dos votos em que não era relator) · relator 17 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 2
 **Como relator:** 17/17 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 409/120; fiscalizacao_sancoes 379/101; onibus 220/58; onibus_regular 153/41; reequilibrio_contratual 128/37; regulacao_normativa 119/35; leilao_otimizacao 116/24; participacao_social 111/31; judicializacao 87/24; ferrovias 87/27; institucional 65/13; pedagio_freeflow 57/17; onibus_fretamento 56/15; cargas 40/10; sandbox_inovacao 31/12; sustentabilidade 26/13; tarifa_modicidade 15/5; onibus_semiurbano 7/0; outros 1/1
-**Argumentos recorrentes nas justificativas registradas:** transparência (6); eficiência/celeridade (3); participação social (3); evidência/dados (3); segurança jurídica (2); usuário (2)
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 414/122; fiscalizacao_sancoes 381/101; onibus 220/58; onibus_regular 153/41; reequilibrio_contratual 129/37; regulacao_normativa 123/36; leilao_otimizacao 117/24; participacao_social 113/31; ferrovias 88/27; judicializacao 87/24; institucional 66/14; pedagio_freeflow 58/17; onibus_fretamento 56/15; cargas 41/10; sandbox_inovacao 33/14; sustentabilidade 29/16; tarifa_modicidade 15/5; onibus_semiurbano 7/0; outros 1/1
+**Argumentos recorrentes nas justificativas registradas:** transparência (6); eficiência/celeridade (3); participação social (3); usuário (3); evidência/dados (3); segurança jurídica (2)
 **Tom (inferência da leitura, não métrica):** firme | didático | didático, defensivo do desenho regulatório | didático, institucional | cauteloso, técnico
 
 ## Evidências (reunião · item · voto · justificativa)
@@ -68,3 +68,4 @@
 - **RD 102ª Extraordinária (2026-09-03)**, item 1.2.1 — Edital de concessão da BR-116/324 (BA) — Rota 2 de Julho, 653 km (Salvador–Feira de Santana–Vitória da Conquista–divisa MG) · voto: *acompanha* (acompanha, conf. alta) · «ineditismo: primeiro projeto que nasce com free flow; trecho desassistido há tempos; esforço para leilão ainda em 2026» · [vídeo](https://www.youtube.com/watch?v=J5gkP2cLOm8&t=2878s) · resultado: aprovado por unanimidade
 - **RD 102ª Extraordinária (2026-09-03)**, item 1.3.1 — Relatório final da AP 4/2026 e proposição ao Ministério dos Transportes do plano de outorga da Rota Portuária Sul (BR-116/392, RS; 459 km →  · voto: *acompanha* (acompanha, conf. alta) · «completude do voto; segunda extraordinária da semana mostra esforço de velocidade» · [vídeo](https://www.youtube.com/watch?v=J5gkP2cLOm8&t=4187s) · resultado: aprovado por unanimidade
 - **RD 1044 (2026-10-22)**, item 1.3.2 — 2º termo aditivo: substituir a obrigação da praça de pedágio P3A (km 3+150, Comendador Levy Gasparian/RJ) por pórtico eletrônico free flow,  · voto: *acompanha o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=9478s) · resultado: aprovado por unanimidade
+- **RD 1045 (2026-11-09)**, item 1.1.4 — 3º termo aditivo ao contrato (edital 3/2025) para substituir a construção e operação de 5 praças de pedágio por pedágio eletrônico em livre  · voto: *voto-vista: acompanha o relator original com aperfeiçoamentos* (revisor_acompanha, conf. alta) · «conformidade regulatória (manifestação técnica sobre EVTE), padronização do clausulado sobre localização das praças (até 5 km, neutralidade econômico-financeira), estabilidade regulatória e proteção ao usuário» · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=3325s) · resultado: aprovado por unanimidade

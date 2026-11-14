@@ -1,11 +1,11 @@
 # Perfil analítico — Guilherme Sampaio · tema: cargas
 
-**Amostra:** presente em 158 das 167 reuniões analisadas em que há registro de presença/ausência; 55 votos neste tema; 11 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 159 das 168 reuniões analisadas em que há registro de presença/ausência; 56 votos neste tema; 11 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 42 (95% dos votos em que não era relator) · relator 11 · vista pedida 1 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
+**Votos:** acompanha o relator 43 (95% dos votos em que não era relator) · relator 11 · vista pedida 1 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
 **Como relator:** 11/11 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 502/120; fiscalizacao_sancoes 445/94; onibus 262/53; regulacao_normativa 215/47; onibus_regular 180/35; reequilibrio_contratual 174/34; participacao_social 158/43; leilao_otimizacao 154/52; ferrovias 148/25; institucional 123/30; judicializacao 121/19; pedagio_freeflow 80/13; onibus_fretamento 62/16; cargas 55/11; sandbox_inovacao 32/10; sustentabilidade 26/6; tarifa_modicidade 25/2; onibus_semiurbano 14/2; outros 1/0
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 507/121; fiscalizacao_sancoes 447/94; onibus 262/53; regulacao_normativa 219/47; onibus_regular 180/35; reequilibrio_contratual 175/34; participacao_social 160/44; leilao_otimizacao 155/53; ferrovias 149/25; institucional 124/30; judicializacao 121/19; pedagio_freeflow 81/13; onibus_fretamento 62/16; cargas 56/11; sandbox_inovacao 34/10; sustentabilidade 29/6; tarifa_modicidade 25/2; onibus_semiurbano 14/2; outros 1/0
 **Argumentos recorrentes nas justificativas registradas:** eficiência/celeridade (1); segurança viária (1); governança/rito (1); participação social (1); usuário (1); transparência (1)
 **Tom (inferência da leitura, não métrica):** entusiasmado | firme | contundente
 
@@ -66,3 +66,4 @@
 - **RD 1039 (2026-08-14)**, item 1.2.1 — Relatório final da AP 5/2025 (24/07–06/09/2025; reaberta de 04–18/05/2026) e resolução que institui o Selo ESG Cargas para o transporte rodo · voto: *acompanha; proclama unanimidade* (acompanha, conf. média) · [vídeo](https://www.youtube.com/watch?v=u4SXNQPR-XQ&t=2670s) · resultado: aprovado por unanimidade
 - **RD 1043 (2026-10-08)**, item 1.2.4 — Acordo de cooperação para intercâmbio eletrônico de dados de seguros obrigatórios dos transportadores inscritos no RNTRC (Portaria SUROC 27/ · voto: *proclama unanimidade* (acompanha, conf. média) · [vídeo](https://www.youtube.com/watch?v=aVdLLQI1K-I&t=2387s) · resultado: aprovado por unanimidade
 - **RD 1044 (2026-10-22)**, item 1.3.1 — Acordo de cooperação técnica ANTT–Infra para o programa Melhor Ar (Portaria MT 192/2025): compartilhar dados do RNTRC, integrar ao ONTL e pr · voto: *acompanha; proclama unanimidade* (acompanha, conf. média) · «elogia a linha do tempo (política pública, norma, acordo) e a transparência do voto» · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=8664s) · resultado: aprovado por unanimidade
+- **RD 1045 (2026-11-09)**, item 1.3.1 — Abertura de audiência pública sobre alteração da Resolução ANTT 5.982/2022 para incluir infrações e penalidades relativas aos seguros obriga · voto: *acompanha integralmente o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=5508s) · resultado: aprovado por unanimidade

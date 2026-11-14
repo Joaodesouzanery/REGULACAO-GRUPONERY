@@ -1,11 +1,11 @@
 # Perfil analítico — Felipe Queiroz · tema: sandbox_inovacao
 
-**Amostra:** presente em 112 das 120 reuniões analisadas em que há registro de presença/ausência; 31 votos neste tema; 12 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 113 das 121 reuniões analisadas em que há registro de presença/ausência; 33 votos neste tema; 14 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 18 (94% dos votos em que não era relator) · relator 12 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
-**Como relator:** 11/12 relatorias aprovadas por unanimidade.
+**Votos:** acompanha o relator 18 (94% dos votos em que não era relator) · relator 14 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 1
+**Como relator:** 13/14 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 409/120; fiscalizacao_sancoes 379/101; onibus 220/58; onibus_regular 153/41; reequilibrio_contratual 128/37; regulacao_normativa 119/35; leilao_otimizacao 116/24; participacao_social 111/31; judicializacao 87/24; ferrovias 87/27; institucional 65/13; pedagio_freeflow 57/17; onibus_fretamento 56/15; cargas 40/10; sandbox_inovacao 31/12; sustentabilidade 26/13; tarifa_modicidade 15/5; onibus_semiurbano 7/0; outros 1/1
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 414/122; fiscalizacao_sancoes 381/101; onibus 220/58; onibus_regular 153/41; reequilibrio_contratual 129/37; regulacao_normativa 123/36; leilao_otimizacao 117/24; participacao_social 113/31; ferrovias 88/27; judicializacao 87/24; institucional 66/14; pedagio_freeflow 58/17; onibus_fretamento 56/15; cargas 41/10; sandbox_inovacao 33/14; sustentabilidade 29/16; tarifa_modicidade 15/5; onibus_semiurbano 7/0; outros 1/1
 **Argumentos recorrentes nas justificativas registradas:** sustentabilidade (3); eficiência/celeridade (2); participação social (2); evidência/dados (2); governança/rito (2); segurança jurídica (1)
 **Tom (inferência da leitura, não métrica):** entusiasmado | didático, defensivo do desenho regulatório | didático
 
@@ -42,3 +42,5 @@
 - **RD 101ª Extraordinária (2026-09-01)**, item 1.1.2 — Edital do processo competitivo 3/2026 para alienação de 100% das ações da Concebra (a ementa lida diz 5%, erro de legenda), Rota do Pequi —  · voto: *voto com o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=Q8UGEXRy5vk&t=2379s) · resultado: aprovado por unanimidade
 - **RD 1041 (2026-09-10)**, item 1.1.3 — Termo de referência do ambiente regulatório experimental (sandbox, Res. 5999/2022) para processo competitivo de transferência do controle ac · voto: *acompanha* (acompanha, conf. média) · [vídeo](https://www.youtube.com/watch?v=DRpLm1FOHCA&t=918s) · resultado: aprovado por unanimidade
 - **RD 1044 (2026-10-22)**, item 1.1.1+1.1.2 — Homologação de resultados do PSI (sandbox de sustentabilidade): rodovias (edital 3/2025: resultado final complementar do Nível 1 e prelimina · voto: *relator, homologa* (relator, conf. alta) · «continuidade do PSI e ampla governança (comitês paritários + área técnica + diretoria)» · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=5543s) · resultado: aprovados por unanimidade
+- **RD 1045 (2026-11-09)**, item 1.1.2 — Homologação do resultado preliminar do sandbox regulatório do Programa de Sustentabilidade para Infraestrutura (PSI): EcoRioMinas no nível 3 · voto: *relator, aprova* (relator, conf. alta) · «requisitos de elegibilidade atendidos; matéria procedimental e recorrente» · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=2644s) · resultado: aprovado por unanimidade
+- **RD 1045 (2026-11-09)**, item 1.1.3 — Homologação do resultado final do sandbox regulatório (edital 2/2025) do Corredor Logístico Sustentável de Transporte Multimodal (Dutra/Rio- · voto: *relator, aprova* (relator, conf. alta) · «processo procedimental, bem instruído; prazo de recursos encerrado» · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=3008s) · resultado: aprovado por unanimidade

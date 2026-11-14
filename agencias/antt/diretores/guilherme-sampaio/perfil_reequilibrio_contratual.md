@@ -1,11 +1,11 @@
 # Perfil analítico — Guilherme Sampaio · tema: reequilibrio_contratual
 
-**Amostra:** presente em 158 das 167 reuniões analisadas em que há registro de presença/ausência; 174 votos neste tema; 34 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 159 das 168 reuniões analisadas em que há registro de presença/ausência; 175 votos neste tema; 34 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 138 (98% dos votos em que não era relator) · relator 34 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 2
+**Votos:** acompanha o relator 139 (98% dos votos em que não era relator) · relator 34 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 2
 **Como relator:** 32/34 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 502/120; fiscalizacao_sancoes 445/94; onibus 262/53; regulacao_normativa 215/47; onibus_regular 180/35; reequilibrio_contratual 174/34; participacao_social 158/43; leilao_otimizacao 154/52; ferrovias 148/25; institucional 123/30; judicializacao 121/19; pedagio_freeflow 80/13; onibus_fretamento 62/16; cargas 55/11; sandbox_inovacao 32/10; sustentabilidade 26/6; tarifa_modicidade 25/2; onibus_semiurbano 14/2; outros 1/0
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 507/121; fiscalizacao_sancoes 447/94; onibus 262/53; regulacao_normativa 219/47; onibus_regular 180/35; reequilibrio_contratual 175/34; participacao_social 160/44; leilao_otimizacao 155/53; ferrovias 149/25; institucional 124/30; judicializacao 121/19; pedagio_freeflow 81/13; onibus_fretamento 62/16; cargas 56/11; sandbox_inovacao 34/10; sustentabilidade 29/6; tarifa_modicidade 25/2; onibus_semiurbano 14/2; outros 1/0
 **Argumentos recorrentes nas justificativas registradas:** TCU/controle externo (7); usuário (5); transparência (5); segurança jurídica (4); interesse público (3); governança/rito (3)
 **Tom (inferência da leitura, não métrica):** institucional, retrospectivo | firme | elogioso
 
@@ -185,3 +185,4 @@
 - **RD 1041 (2026-09-10)**, item 1.1.4 — 22º termo aditivo: incluir a implantação do dispositivo em desnível (Trevão de Rondonópolis, BR-163 km 119+900 com BR-364, MT). Relator orig · voto: *revisor: acompanha integralmente o voto do relator originário* (revisor_acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=DRpLm1FOHCA&t=924s) · resultado: aprovado por unanimidade
 - **RD 1043 (2026-10-08)**, item 1.2.3 — Reequilíbrio econômico-financeiro parcial baseado em evidência (IN 33/2024, medida mitigadora) por aumento extraordinário de custos de insum · voto: *acompanha; proclama unanimidade* (acompanha, conf. média) · «sustentabilidade econômico-financeira dos contratos: a agência reequilibrou contratos na pandemia, criou metodologia para insumos e agora responde à guerra para garantir continuidade das obras» · [vídeo](https://www.youtube.com/watch?v=aVdLLQI1K-I&t=1971s) · resultado: aprovado por unanimidade (pleito deferido)
 - **RD 1044 (2026-10-22)**, item 1.3.2 — 2º termo aditivo: substituir a obrigação da praça de pedágio P3A (km 3+150, Comendador Levy Gasparian/RJ) por pórtico eletrônico free flow,  · voto: *acompanha integralmente; proclama unanimidade* (acompanha, conf. alta) · «elogia transparência/fundamentação; percorreu o trecho com Alex no início do ano» · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=9506s) · resultado: aprovado por unanimidade
+- **RD 1045 (2026-11-09)**, item 1.2.1 — 10º termo aditivo ao contrato (edital 1/2021) para padronizar a metodologia de apuração do desconto de reequilíbrio (fator D), com ajuste pr · voto: *acompanha integralmente o relator* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=4970s) · resultado: aprovado por unanimidade

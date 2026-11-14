@@ -7,5 +7,5 @@ Repositório Joaodesouzanery/REGULACAO-GRUPONERY, branch claude/antt-directors-s
 5) Resumo curto: reuniões e eventos novos analisados por agência, mudanças de diretoria/vacância, divergências e votos fora do padrão da semana (diretor, RD, item, link no minuto), pendências para o Mac (legendas, Whisper, DOU) e se a coleta do Mac parece parada.
 
 6. LEMBRETE AO USUÁRIO (sempre, no topo do resumo): rode `python3 pipeline/pendencias.py` e liste o que está atrasado. Se a coleta do Mac tiver mais de 7 dias, inclua o bloco pronto para colar no Mac:
-   cd ~/REGULACAO-GRUPONERY && git pull --no-rebase --no-edit && caffeinate -i bash pipeline/coletar_tudo_e_enviar.sh && caffeinate -i bash pipeline/coletar_tudo_e_enviar.sh antaq @ANTAQ_oficial && caffeinate -i bash pipeline/whisper_mac.sh && git push
+   cd ~/REGULACAO-GRUPONERY && git pull --no-rebase --no-edit && caffeinate -i bash pipeline/coletar_todas.sh && caffeinate -i bash pipeline/whisper_mac.sh && git push
    Inclua também a ANTAQ no monitoramento (inventário e análise do que chegou).

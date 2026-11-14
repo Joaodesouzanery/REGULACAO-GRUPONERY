@@ -1,11 +1,11 @@
 # Perfil analítico — Alex Azevedo · tema: judicializacao
 
-**Amostra:** presente em 32 das 36 reuniões analisadas em que há registro de presença/ausência; 28 votos neste tema; 6 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 33 das 37 reuniões analisadas em que há registro de presença/ausência; 28 votos neste tema; 6 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
 **Votos:** acompanha o relator 19 (86% dos votos em que não era relator) · relator 6 · vista pedida 1 · voto-vista divergente 0 · vencido 1 · outros/não captado 1
 **Como relator:** 3/6 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 94/12; onibus 45/11; leilao_otimizacao 43/6; reequilibrio_contratual 39/5; fiscalizacao_sancoes 37/9; pedagio_freeflow 33/5; participacao_social 32/7; onibus_regular 30/6; ferrovias 30/6; judicializacao 28/6; regulacao_normativa 26/4; sandbox_inovacao 15/1; tarifa_modicidade 14/4; cargas 14/5; institucional 12/2; sustentabilidade 10/2; onibus_fretamento 8/2; onibus_semiurbano 4/1
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 99/12; onibus 45/11; leilao_otimizacao 44/6; reequilibrio_contratual 40/5; fiscalizacao_sancoes 39/9; pedagio_freeflow 34/5; participacao_social 34/7; ferrovias 31/6; regulacao_normativa 30/4; onibus_regular 30/6; judicializacao 28/6; sandbox_inovacao 17/1; cargas 15/5; tarifa_modicidade 14/4; sustentabilidade 13/2; institucional 13/2; onibus_fretamento 8/2; onibus_semiurbano 4/1
 **Argumentos recorrentes nas justificativas registradas:** governança/rito (3); evidência/dados (1); proporcionalidade (1); segurança jurídica (1); segurança viária (1); usuário (1)
 **Tom (inferência da leitura, não métrica):** respeitoso | divergente, cortês | enfático, apoiado em dados | didático, minucioso
 

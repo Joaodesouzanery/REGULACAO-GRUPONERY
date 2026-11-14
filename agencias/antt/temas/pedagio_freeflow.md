@@ -322,3 +322,5 @@
   - votos: Alex: relator; Felipe: acompanha; Lucas: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=J5gkP2cLOm8&t=3469s)
 - **RD 1044 (2026-10-22)**, 1.3.2 · relator **Alex Azevedo** · 2º termo aditivo: substituir a obrigação da praça de pedágio P3A (km 3+150, Comendador Levy Gasparian/RJ) por pórtico eletrônico free flow, deslocando → aprovado por unanimidade
   - votos: Alex: relator; Felipe: acompanha; Marcelo: acompanha; Lucas: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=8664s)
+- **RD 1045 (2026-11-09)**, 1.1.4 · relator **Lucas Asfor** · 3º termo aditivo ao contrato (edital 3/2025) para substituir a construção e operação de 5 praças de pedágio por pedágio eletrônico em livre passagem ( → aprovado por unanimidade
+  - votos: Felipe: revisor_acompanha; Alex: revisor_acompanha; Marcelo: acompanha; Lucas: relator; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=3269s)

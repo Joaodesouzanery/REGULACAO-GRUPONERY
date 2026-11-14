@@ -1,0 +1,141 @@
+{
+  "meta": {"video_id": "L4wqQO1oCmM", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:27:49); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "1045", "data": "2026-11-09", "formato": "videoconferência",
+    "presidente_da_sessao": "Guilherme Sampaio (Diretor-Geral)",
+    "diretores_presentes": ["Guilherme Sampaio", "Felipe Queiroz", "Lucas Asfor", "Alex Azevedo", "Marcelo Fonseca"],
+    "ausentes": [],
+    "observacoes": ["Encerrada às 16h13 de 09/11/2026 (segunda-feira).", "Um item extrapauta do Diretor-Geral (relatório final da AP 15/2026, Rota do Pequi/CONCEBRA).", "Dois votos-vista convergentes: Felipe Queiroz no 1.1.4 (free flow EPR Paraná, relator original Lucas Asfor) e Marcelo Fonseca no 1.3.2 (autorização ferroviária em Caxias-MA, relator original Lucas Asfor).", "8 itens deliberados, todos unânimes."]
+  },
+  "itens": [
+    {
+      "id": "extrapauta", "ts": "0:27:49",
+      "processo": "50500.046284/2026-65", "interessado": "Superintendência de Concessão da Infraestrutura (SUCON)",
+      "assunto": "Relatório final da Audiência Pública 15/2026 sobre minutas de edital de processo competitivo, termo aditivo, PER e MEF para readaptação e otimização do contrato das BR-060/153 (DF/GO), Rota do Pequi, concessionária CONCEBRA",
+      "tema": ["concessões rodoviárias", "leilão / otimização", "participação social"],
+      "relator": "Guilherme Sampaio", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "104 contribuições (94 escritas, 10 orais); ajustes feitos; recomendação do parágrafo 57 do parecer da PF avaliada: sem prejuízo ao cronograma, sem reabertura de prazos; processo competitivo para transferência de controle da CONCEBRA segue conforme termo de autocomposição aprovado pelo TCU.",
+      "votos": [
+        {"diretor": "Guilherme Sampaio", "voto": "relator, aprova", "ts": "0:29:28", "justificativa": "ajustes pertinentes; não há prejuízo ao cronograma, dispensada reabertura de prazos", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "0:32:00", "confianca": "baixa"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:32:10", "confianca": "baixa"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "0:32:16", "confianca": "baixa"},
+        {"diretor": "Marcelo Fonseca", "voto": "acompanha integralmente o relator", "ts": "0:32:23", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "1.1.1", "ts": "0:32:25",
+      "processo": "50500.039322/2025-42", "interessado": "Superintendência de Sustentabilidade, Pessoas e Inovação",
+      "assunto": "Resolução que institui a Política de Sustentabilidade da ANTT (âmbito interno), com dispensa de AIR e de consulta/audiência pública",
+      "tema": ["sustentabilidade", "institucional", "regulação normativa"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Política principiológica e de coordenação (10 princípios, 25 diretrizes, 14 objetivos, 17 instrumentos), alinhada ao planejamento estratégico 2026-2030; sem custos adicionais; consulta interna 1/2026 com 20 contribuições; dispensa de AIR (Decreto 10.411/2020, natureza administrativa interna) e de PPCS (art. 7º da Res. 6020/2023) apesar de recomendação da PF.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova", "ts": "0:32:54", "justificativa": "política de efeitos internos, sem inovação material; dispensa de AIR e PPCS bem fundamentada pela área técnica", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator em todos os termos", "ts": "0:43:03", "confianca": "media"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente", "ts": "0:43:11", "confianca": "media"},
+        {"diretor": "Marcelo Fonseca", "voto": "acompanha integralmente, parabeniza", "ts": "0:43:18", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:43:21", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.2", "ts": "0:43:21",
+      "processo": "50500.018844/2025-19", "interessado": "Superintendência de Sustentabilidade, Pessoas e Inovação; EcoRioMinas, Nova 381, Nova 364",
+      "assunto": "Homologação do resultado preliminar do sandbox regulatório do Programa de Sustentabilidade para Infraestrutura (PSI): EcoRioMinas no nível 3 (edital 3/2025) e Nova 381 e Nova 364 no nível 1 (edital 1/2026, fluxo contínuo)",
+      "tema": ["sustentabilidade", "sandbox / inovação", "concessões rodoviárias"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Homologa resultado preliminar; nível 1 dá habilitação a debêntures incentivadas (Portaria MT 389); abre 15 dias corridos para recursos.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova", "ts": "0:44:04", "justificativa": "requisitos de elegibilidade atendidos; matéria procedimental e recorrente", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:48:46", "confianca": "baixa"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente", "ts": "0:49:00", "justificativa": "passo importante com adesão das concessionárias aos níveis do programa", "confianca": "media"},
+        {"diretor": "Marcelo Fonseca", "voto": "acompanha o relator", "ts": "0:49:33", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:49:35", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.3", "ts": "0:49:35",
+      "processo": "50500.050259/2025-03", "interessado": "Concessionária Motiva Rio SP",
+      "assunto": "Homologação do resultado final do sandbox regulatório (edital 2/2025) do Corredor Logístico Sustentável de Transporte Multimodal (Dutra/Rio-Santos, eletromobilidade, conexão com Porto de Itaguaí)",
+      "tema": ["sustentabilidade", "sandbox / inovação", "concessões rodoviárias"],
+      "relator": "Felipe Queiroz", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Homologa resultado final após prazo recursal; termo aditivo de autorização temporária condicionado à apresentação de plano de trabalho ajustado ao anexo 1 do edital.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "relator, aprova", "ts": "0:50:08", "justificativa": "processo procedimental, bem instruído; prazo de recursos encerrado", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "0:54:20", "confianca": "baixa"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator", "ts": "0:54:24", "confianca": "baixa"},
+        {"diretor": "Marcelo Fonseca", "voto": "acompanha o relator", "ts": "0:54:28", "confianca": "baixa"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator", "ts": "0:54:29", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.1.4", "ts": "0:54:29",
+      "processo": "50505.056041/2026-95", "interessado": "Concessionária EPR Paraná S.A.",
+      "assunto": "3º termo aditivo ao contrato (edital 3/2025) para substituir a construção e operação de 5 praças de pedágio por pedágio eletrônico em livre passagem (free flow); voto-vista após pedido na sessão eletrônica 304",
+      "tema": ["concessões rodoviárias", "pedágio free flow", "regulação normativa"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Voto-vista de Felipe Queiroz converge com o voto DLA 73/2026: faltava nos autos manifestação da área técnica sobre o EVTE (art. 3º da Deliberação 69/2025 e RCR) e a minuta suprimira a manutenção das localizações; após diligência à SUROD, texto fixa prazos originais e deslocamento de pórticos em até 5 km com neutralidade econômico-financeira (deslocamentos de ~250 m a ~2,5 km); determinação de atualizar a Deliberação 69/2025.",
+      "votos": [
+        {"diretor": "Felipe Queiroz", "voto": "voto-vista: acompanha o relator original com aperfeiçoamentos", "ts": "0:55:25", "justificativa": "conformidade regulatória (manifestação técnica sobre EVTE), padronização do clausulado sobre localização das praças (até 5 km, neutralidade econômico-financeira), estabilidade regulatória e proteção ao usuário", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha o relator original acrescido do voto-vista", "ts": "1:11:19", "confianca": "alta"},
+        {"diretor": "Marcelo Fonseca", "voto": "acompanha integralmente os relatores", "ts": "1:12:51", "justificativa": "voto-vista robustece a decisão: verificação do EVTE e neutralidade financeira no deslocamento de praças; padronização da Deliberação 69/2025", "confianca": "media"},
+        {"diretor": "Lucas Asfor", "voto": "relator original, mantém voto e acolhe aprimoramentos", "ts": "1:14:31", "justificativa": "agradece aprimoramentos sobre análise econômico-financeira e redação do objeto do aditivo", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha os relatores", "ts": "1:15:05", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "1.2.1", "ts": "1:15:05",
+      "processo": "50500.032921/2025-35", "interessado": "Concessionária Ecovias do Araguaia S.A.",
+      "assunto": "10º termo aditivo ao contrato (edital 1/2021) para padronizar a metodologia de apuração do desconto de reequilíbrio (fator D), com ajuste proporcional aos meses de inadimplemento",
+      "tema": ["concessões rodoviárias", "reequilíbrio contratual", "fiscalização e sanções"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Fator D proporcional aos meses em que a obra ficou inadimplida quando concluída no ano seguinte; efeitos prospectivos, sem reequilíbrio; aceite da concessionária; PF aprovou minuta padrão para 18 contratos; questionamentos de Alex Azevedo (voto DA 4/2025) esclarecidos pela SUROD; impacto tarifário simulado irrisório; ressalva sobre fator A em processo próprio.",
+      "votos": [
+        {"diretor": "Lucas Asfor", "voto": "relator, aprova", "ts": "1:16:05", "justificativa": "incentiva conclusão antecipada das obras, alinha interesse da concessionária ao do usuário, uniformiza metodologia e dá segurança jurídica", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha integralmente o relator", "ts": "1:19:47", "justificativa": "fator D alinha incentivos de execução; contratos antigos têm espaço para ajustes de aprimoramento regulatório", "confianca": "alta"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente", "ts": "1:21:11", "justificativa": "padronização do fator D era debate antigo da diretoria", "confianca": "media"},
+        {"diretor": "Marcelo Fonseca", "voto": "acompanha integralmente", "ts": "1:22:19", "justificativa": "padronização dos contratos na fase de implementação", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente o relator", "ts": "1:22:50", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.1", "ts": "1:22:50",
+      "processo": "50500.048228/2025-34", "interessado": "Superintendência de Serviços de Transporte Rodoviário e Multimodal de Cargas",
+      "assunto": "Abertura de audiência pública sobre alteração da Resolução ANTT 5.982/2022 para incluir infrações e penalidades relativas aos seguros obrigatórios do transportador (RCTR-C, RC-DC, RC-V)",
+      "tema": ["transporte rodoviário de cargas", "fiscalização e sanções", "participação social", "regulação normativa"],
+      "relator": "Marcelo Fonseca", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Lei 14.599/2023 tornou os seguros obrigatórios e a Res. 6.068/2025 exige-os no RNTRC, mas sem sanção; AIR estima ~23,8% de transportadores sem seguro; alternativa escolhida combina fiscalização, sanções e ações informativas; multas propostas de R$ 1.500 e R$ 1.750 por seguro; contribuições de 23/11/2026 a 06/01/2027, sessão pública híbrida em 15/12/2026.",
+      "votos": [
+        {"diretor": "Marcelo Fonseca", "voto": "relator, aprova", "ts": "1:23:46", "justificativa": "lacuna de enforcement gera risco financeiro, judicialização e concorrência desleal contra quem cumpre a lei; AIR adequada", "confianca": "alta"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha o relator", "ts": "1:30:22", "justificativa": "instrumentos de enforcement ainda não geram os efeitos desejados", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "acompanha o relator", "ts": "1:31:06", "confianca": "media"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente", "ts": "1:31:26", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha integralmente o relator", "ts": "1:31:48", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "1.3.2", "ts": "1:31:48",
+      "processo": "50505.086753/2026-39", "interessado": "Terminal Intermodal Gonçalves Dias Ltda. (Superintendência de Transporte Ferroviário)",
+      "assunto": "Contrato de adesão para autorização de construção e exploração de ferrovia (terminal intermodal greenfield de ~2,13 km ligado à FTL) em Caxias-MA por 99 anos; voto-vista após pedido na sessão eletrônica 299",
+      "tema": ["ferrovias", "regulação normativa"],
+      "relator": "Lucas Asfor", "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Voto-vista de Marcelo Fonseca acompanha o relator; vista para examinar o prazo de 60 dias do art. 8º da Res. 5.987/2022 para requerimentos sobrepostos, que ainda não havia vencido na sessão eletrônica; prazo exaurido em 05/10/2026 sem sobreposição; recomendação de que autorizações ferroviárias só cheguem à diretoria após esse prazo até a revisão do dispositivo.",
+      "votos": [
+        {"diretor": "Marcelo Fonseca", "voto": "voto-vista: acompanha o relator com recomendação", "ts": "1:32:45", "justificativa": "cautela quanto ao prazo de 60 dias para requerimentos sobrepostos; segurança jurídica das decisões colegiadas", "confianca": "alta"},
+        {"diretor": "Lucas Asfor", "voto": "relator original, de acordo com a recomendação", "ts": "1:38:00", "confianca": "baixa"},
+        {"diretor": "Felipe Queiroz", "voto": "acompanha ambos os relatores", "ts": "1:38:13", "justificativa": "observar precedentes e orientar casos futuros; estabilidade regulatória", "confianca": "media"},
+        {"diretor": "Alex Azevedo", "voto": "acompanha integralmente os relatores", "ts": "1:40:26", "justificativa": "esperar os 60 dias até nova redação do art. 8º; relevância para Maranhão, Nordeste e Matopiba", "confianca": "media"},
+        {"diretor": "Guilherme Sampaio", "voto": "acompanha o relator com o aperfeiçoamento do revisor", "ts": "1:42:09", "confianca": "alta"}
+      ]
+    }
+  ],
+  "retirados": [],
+  "limites_da_analise": [
+    "Legenda automática; falantes inferidos frequentemente errados (ex.: rótulos {..} trocados); atribuição de votos feita pela ordem de votação (Felipe, Lucas, Alex, Marcelo, Diretor-Geral).",
+    "Extrapauta e 1.1.3: só duas manifestações de voto transcritas; votos dos demais inferidos da proclamação de unanimidade (confiança baixa).",
+    "1.1.4: a legenda registra o Diretor-Geral dizendo «Eu divirjo aqui com ambos», mas em seguida proclama unanimidade; tratado como erro de transcrição (provável «não divirjo»).",
+    "1.1.4: no dispositivo lido a legenda diz deslocamento de «até 100 km», contradizendo os 5 km do restante do voto; adotado 5 km.",
+    "1.3.2: a manifestação de concordância do relator original Lucas Asfor não aparece claramente na legenda; nome da interessada aparece também como «Salgueiro».",
+    "Nomes e números de processos podem ter erros da legenda (ex.: interessado do extrapauta e do 1.3.1 reconstruídos)."
+  ]
+}

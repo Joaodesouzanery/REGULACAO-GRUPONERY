@@ -1,11 +1,11 @@
 # Perfil analítico — Guilherme Sampaio · tema: pedagio_freeflow
 
-**Amostra:** presente em 158 das 167 reuniões analisadas em que há registro de presença/ausência; 80 votos neste tema; 13 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 159 das 168 reuniões analisadas em que há registro de presença/ausência; 81 votos neste tema; 13 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 67 (100% dos votos em que não era relator) · relator 13 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Votos:** acompanha o relator 68 (100% dos votos em que não era relator) · relator 13 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
 **Como relator:** 13/13 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 502/120; fiscalizacao_sancoes 445/94; onibus 262/53; regulacao_normativa 215/47; onibus_regular 180/35; reequilibrio_contratual 174/34; participacao_social 158/43; leilao_otimizacao 154/52; ferrovias 148/25; institucional 123/30; judicializacao 121/19; pedagio_freeflow 80/13; onibus_fretamento 62/16; cargas 55/11; sandbox_inovacao 32/10; sustentabilidade 26/6; tarifa_modicidade 25/2; onibus_semiurbano 14/2; outros 1/0
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 507/121; fiscalizacao_sancoes 447/94; onibus 262/53; regulacao_normativa 219/47; onibus_regular 180/35; reequilibrio_contratual 175/34; participacao_social 160/44; leilao_otimizacao 155/53; ferrovias 149/25; institucional 124/30; judicializacao 121/19; pedagio_freeflow 81/13; onibus_fretamento 62/16; cargas 56/11; sandbox_inovacao 34/10; sustentabilidade 29/6; tarifa_modicidade 25/2; onibus_semiurbano 14/2; outros 1/0
 **Argumentos recorrentes nas justificativas registradas:** TCU/controle externo (4); transparência (4); participação social (3); usuário (3); governança/rito (2); concorrência (1)
 **Tom (inferência da leitura, não métrica):** tom institucional | firme | favorável | institucional
 
@@ -91,3 +91,4 @@
 - **RD 102ª Extraordinária (2026-09-03)**, item 1.2.1 — Edital de concessão da BR-116/324 (BA) — Rota 2 de Julho, 653 km (Salvador–Feira de Santana–Vitória da Conquista–divisa MG) · voto: *acompanha; proclama unanimidade* (acompanha, conf. média) · [vídeo](https://www.youtube.com/watch?v=J5gkP2cLOm8&t=3026s) · resultado: aprovado por unanimidade
 - **RD 102ª Extraordinária (2026-09-03)**, item 1.3.1 — Relatório final da AP 4/2026 e proposição ao Ministério dos Transportes do plano de outorga da Rota Portuária Sul (BR-116/392, RS; 459 km →  · voto: *acompanha; proclama unanimidade* (acompanha, conf. média) · [vídeo](https://www.youtube.com/watch?v=J5gkP2cLOm8&t=4424s) · resultado: aprovado por unanimidade
 - **RD 1044 (2026-10-22)**, item 1.3.2 — 2º termo aditivo: substituir a obrigação da praça de pedágio P3A (km 3+150, Comendador Levy Gasparian/RJ) por pórtico eletrônico free flow,  · voto: *acompanha integralmente; proclama unanimidade* (acompanha, conf. alta) · «elogia transparência/fundamentação; percorreu o trecho com Alex no início do ano» · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=9506s) · resultado: aprovado por unanimidade
+- **RD 1045 (2026-11-09)**, item 1.1.4 — 3º termo aditivo ao contrato (edital 3/2025) para substituir a construção e operação de 5 praças de pedágio por pedágio eletrônico em livre  · voto: *acompanha os relatores* (acompanha, conf. media) · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=4505s) · resultado: aprovado por unanimidade

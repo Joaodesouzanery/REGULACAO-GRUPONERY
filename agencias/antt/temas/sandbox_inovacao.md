@@ -82,3 +82,7 @@
   - votos: Felipe: acompanha · [vídeo](https://www.youtube.com/watch?v=DRpLm1FOHCA&t=698s)
 - **RD 1044 (2026-10-22)**, 1.1.1+1.1.2 · relator **Felipe Queiroz** · Homologação de resultados do PSI (sandbox de sustentabilidade): rodovias (edital 3/2025: resultado final complementar do Nível 1 e preliminar dos Níve → aprovados por unanimidade
   - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=5442s)
+- **RD 1045 (2026-11-09)**, 1.1.2 · relator **Felipe Queiroz** · Homologação do resultado preliminar do sandbox regulatório do Programa de Sustentabilidade para Infraestrutura (PSI): EcoRioMinas no nível 3 (edital 3 → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=2601s)
+- **RD 1045 (2026-11-09)**, 1.1.3 · relator **Felipe Queiroz** · Homologação do resultado final do sandbox regulatório (edital 2/2025) do Corredor Logístico Sustentável de Transporte Multimodal (Dutra/Rio-Santos, el → aprovado por unanimidade
+  - votos: Felipe: relator; Lucas: acompanha; Alex: acompanha; Marcelo: acompanha; Guilherme: acompanha · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=2975s)

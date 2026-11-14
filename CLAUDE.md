@@ -23,7 +23,7 @@
 - `pipeline/` = 01 coleta, 02 transcrição, 03 preparar leitura, 05 indexar, `validar.py`, `consulta.py`, `cobertura.py`, `organizar.py`, `prompt_analise.txt` (instruções para analisar reuniões, inclusive por subagentes).
 
 ## O que só o Mac do usuário faz
-O YouTube bloqueia IPs de nuvem: **baixar transcrições** só funciona no Mac (`bash pipeline/coletar_tudo_e_enviar.sh`; agendamento: `bash pipeline/instalar_agendamento_mac.sh`). O chat analisa, indexa, organiza e dá push.
+O YouTube bloqueia IPs de nuvem: **baixar transcrições** só funciona no Mac (`caffeinate -i bash pipeline/coletar_todas.sh` = ANTT+ANM+ANTAQ, só o que falta, modo rápido; `--total` ou dia 1 relista o canal inteiro; tempos em `data/tempos_coleta.jsonl`; agendamento: `bash pipeline/instalar_agendamento_mac.sh`). O chat analisa, indexa, organiza e dá push.
 
 ## Commits
 Sempre commit e push no branch de trabalho; não abra PR sem pedido. Não versione o banco a cada lote (engorda o `.git`): só em marcos.

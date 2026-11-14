@@ -19,14 +19,20 @@
   "fontes": [
    "https://www25.senado.leg.br/web/atividade/materias/-/materia/155163",
    "https://www.gov.br/antaq/pt-br/composicao/diretoria/diretoria-d3/alber-furtado-de-vasconcelos-neto",
-   "https://www.gov.br/antaq/pt-br/composicao/diretoria/diretoria-d3/alber-furtado-de-vasconcelos-neto/@@download"
+   "https://www.gov.br/antaq/pt-br/composicao/diretoria/diretoria-d3/alber-furtado-de-vasconcelos-neto/@@download",
+   "https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/diretoria-colegiada/FotoDiretorAlber.png/@@images/image"
   ],
   "verificado_em": "2026-11-11",
   "confianca": "baixa",
   "formacao": "Engenharia Civil (UFC, 2001); mestrado em Engenharia Hidráulica e Ambiental (UFPR, 2003)",
   "tipo": "diretor",
   "nome_chave": "Alber Vasconcelos",
-  "status": "ativo"
+  "status": "ativo",
+  "foto": "data/antaq/dirigentes/alber-vasconcelos.jpg",
+  "foto_fonte": "https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/diretoria-colegiada/FotoDiretorAlber.png/@@images/image",
+  "foto_resolucao_original": "617x925",
+  "foto_resolucao": "800x800",
+  "foto_verificado_em": "2026-11-14"
  },
  {
   "diretor": "Alexandre Florambel",
@@ -35,14 +41,20 @@
   "fontes": [
    "https://agenciainfra.com/blog/antaq-convoca-servidor-para-nova-substituicao-na-diretoria/",
    "https://www.gov.br/antaq/pt-br/composicao/diretoria/diretoria-dt/alexandre-palmieri-florambel",
-   "https://www.gov.br/antaq/pt-br/composicao/diretoria/diretoria-dt/alexandre-palmieri-florambel/@@download"
+   "https://www.gov.br/antaq/pt-br/composicao/diretoria/diretoria-dt/alexandre-palmieri-florambel/@@download",
+   "https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/AlexandreFlorambel.png/@@images/image"
   ],
   "verificado_em": "2026-11-11",
   "confianca": "media",
   "formacao": "Ciências Econômicas (UERJ); MBA em Gestão Portuária (FGV); Direito Marítimo (MLaw)",
   "tipo": "diretor",
   "nome_chave": "Alexandre Florambel",
-  "status": "ativo"
+  "status": "ativo",
+  "foto": "data/antaq/dirigentes/alexandre-florambel.jpg",
+  "foto_fonte": "https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/AlexandreFlorambel.png/@@images/image",
+  "foto_resolucao_original": "720x779",
+  "foto_resolucao": "800x800",
+  "foto_verificado_em": "2026-11-14"
  },
  {
   "diretor": "Alexandre Lopes",
@@ -64,14 +76,20 @@
   "fontes": [
    "https://www25.senado.leg.br/web/atividade/materias/-/materia/155164",
    "https://www.gov.br/antaq/pt-br/composicao/diretoria/diretoria-d4/caio-cesar-farias-leoncio",
-   "https://www.gov.br/antaq/pt-br/composicao/diretoria/diretoria-d4/caio-cesar-farias-leoncio/@@download"
+   "https://www.gov.br/antaq/pt-br/composicao/diretoria/diretoria-d4/caio-cesar-farias-leoncio/@@download",
+   "https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/diretoria-colegiada/FotoDiretorCaio.png/@@images/image"
   ],
   "verificado_em": "2026-11-11",
   "confianca": "media",
   "formacao": "Direito (UniCEUB, 2011); especialização em Direito Tributário (IBET); LL.M. em Direito Empresarial e MBA (FGV)",
   "tipo": "diretor",
   "nome_chave": "Caio Farias",
-  "status": "ativo"
+  "status": "ativo",
+  "foto": "data/antaq/dirigentes/caio-farias.jpg",
+  "foto_fonte": "https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/diretoria-colegiada/FotoDiretorCaio.png/@@images/image",
+  "foto_resolucao_original": "617x925",
+  "foto_resolucao": "800x800",
+  "foto_verificado_em": "2026-11-14"
  },
  {
   "diretor": "Cristina Castro",
@@ -148,7 +166,8 @@
   "fontes": [
    "https://www25.senado.leg.br/web/atividade/materias/-/materia/169667",
    "https://www.gov.br/antaq/pt-br/composicao/diretoria/diretoria-geral/frederico-carvalho-dias",
-   "https://www.gov.br/antaq/pt-br/composicao/diretoria/diretoria-geral/frederico-carvalho-dias/@@download"
+   "https://www.gov.br/antaq/pt-br/composicao/diretoria/diretoria-geral/frederico-carvalho-dias/@@download",
+   "https://www.gov.br/antaq/pt-br/composicao/diretoria/diretoria-geral/frederico-carvalho-dias/@@images/image"
   ],
   "verificado_em": "2026-11-11",
   "confianca": "alta",
@@ -156,7 +175,11 @@
   "foto": "data/antaq/dirigentes/frederico-dias.jpg",
   "tipo": "diretor",
   "nome_chave": "Frederico Dias",
-  "status": "ativo"
+  "status": "ativo",
+  "foto_fonte": "https://www.gov.br/antaq/pt-br/composicao/diretoria/diretoria-geral/frederico-carvalho-dias/@@images/image",
+  "foto_resolucao_original": "709x1065",
+  "foto_resolucao": "800x800",
+  "foto_verificado_em": "2026-11-14"
  },
  {
   "diretor": "Gabriela Costa",
@@ -209,14 +232,20 @@
   "fontes": [
    "https://www25.senado.leg.br/web/atividade/materias/-/materia/155159",
    "https://www.gov.br/antaq/pt-br/composicao/diretoria/diretoria-dr/wilson-pereira-de-lima-filho",
-   "https://www.gov.br/antaq/pt-br/composicao/diretoria/diretoria-dr/wilson-pereira-de-lima-filho/@@download"
+   "https://www.gov.br/antaq/pt-br/composicao/diretoria/diretoria-dr/wilson-pereira-de-lima-filho/@@download",
+   "https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/diretoria-colegiada/FotoDiretorLimaFilho.jfif/@@images/image"
   ],
   "verificado_em": "2026-11-11",
   "confianca": "media",
   "formacao": "Escola Naval (1980); mestrado (1996) e doutorado em Ciências Navais (Escola de Guerra Naval); vice-almirante (RM1)",
   "tipo": "diretor",
   "nome_chave": "Lima Filho",
-  "status": "ativo"
+  "status": "ativo",
+  "foto": "data/antaq/dirigentes/lima-filho.jpg",
+  "foto_fonte": "https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/diretoria-colegiada/FotoDiretorLimaFilho.jfif/@@images/image",
+  "foto_resolucao_original": "617x925",
+  "foto_resolucao": "800x800",
+  "foto_verificado_em": "2026-11-14"
  },
  {
   "diretor": "Mário Povia",

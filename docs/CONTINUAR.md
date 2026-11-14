@@ -37,7 +37,8 @@
 2. Whisper (aprovado para as 4 reuniões sem legenda): `brew install ffmpeg` (uma vez) e `caffeinate -i bash pipeline/whisper_mac.sh`.
 3. DOU (posses) pelo terminal: cadastro gratuito no INLABS (https://inlabs.in.gov.br), depois
    `export INLABS_EMAIL='...' INLABS_SENHA='...'` e `python3 pipeline/baixar_dou_mac.py` (ANTT) / `python3 pipeline/baixar_dou_mac.py --agencia anm`; depois `git add data/fontes_dou && git commit -m DOU && git push`.
-4. ANM, coleta completa: `caffeinate -i bash pipeline/coletar_tudo_e_enviar.sh anm PLoP8nQ7f1EABonZ_nYkKU9xsGx6L6PjY8` (varre o canal inteiro da ANM + a playlist e diz quantas reuniões estão fora dela); sem legenda: `caffeinate -i bash pipeline/whisper_mac.sh --agencia anm`.
+4. **Coleta no Mac (comando único):** `caffeinate -i bash pipeline/coletar_todas.sh` — ANTT, ANM e ANTAQ em sequência. Só baixa transcrições que faltam (o que já está em `transcricoes/` nunca é baixado de novo). Inventário: rápido (60 vídeos mais recentes por aba + playlists do config) nos dias comuns; **total** (canal inteiro, todas as playlists) no dia 1 ou com `--total`. Lives agendadas são puladas sem erro; privados são marcados e tentados de novo 1×/mês. Tempo por agência: `data/tempos_coleta.jsonl`.
+   ANM, coleta completa (manual): `caffeinate -i bash pipeline/coletar_tudo_e_enviar.sh anm PLoP8nQ7f1EABonZ_nYkKU9xsGx6L6PjY8` (varre o canal inteiro da ANM + a playlist e diz quantas reuniões estão fora dela); sem legenda: `caffeinate -i bash pipeline/whisper_mac.sh --agencia anm`.
 5. Relatório de cliente (PDF, Grupo Nery): gerado no chat (`pipeline/relatorio.py`); imagens de setor em `docs/marca/setores/<setor>.jpg`.
 
 ## Comandos

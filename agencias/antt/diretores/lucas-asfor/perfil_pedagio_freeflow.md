@@ -1,11 +1,11 @@
 # Perfil analítico — Lucas Asfor · tema: pedagio_freeflow
 
-**Amostra:** presente em 112 das 117 reuniões analisadas em que há registro de presença/ausência; 56 votos neste tema; 15 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 113 das 118 reuniões analisadas em que há registro de presença/ausência; 57 votos neste tema; 16 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
-**Votos:** acompanha o relator 41 (100% dos votos em que não era relator) · relator 15 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
-**Como relator:** 14/15 relatorias aprovadas por unanimidade.
+**Votos:** acompanha o relator 41 (100% dos votos em que não era relator) · relator 16 · vista pedida 0 · voto-vista divergente 0 · vencido 0 · outros/não captado 0
+**Como relator:** 15/16 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 400/110; fiscalizacao_sancoes 361/112; onibus 214/65; onibus_regular 146/47; reequilibrio_contratual 125/21; regulacao_normativa 122/24; leilao_otimizacao 116/41; participacao_social 110/30; judicializacao 86/22; ferrovias 83/18; institucional 65/4; onibus_fretamento 58/17; pedagio_freeflow 56/15; cargas 39/12; sandbox_inovacao 29/3; sustentabilidade 27/0; tarifa_modicidade 14/2; onibus_semiurbano 7/1; outros 1/0
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 405/112; fiscalizacao_sancoes 363/113; onibus 214/65; onibus_regular 146/47; regulacao_normativa 126/26; reequilibrio_contratual 126/22; leilao_otimizacao 117/41; participacao_social 112/30; judicializacao 86/22; ferrovias 84/19; institucional 66/4; onibus_fretamento 58/17; pedagio_freeflow 57/16; cargas 40/12; sandbox_inovacao 31/3; sustentabilidade 30/0; tarifa_modicidade 14/2; onibus_semiurbano 7/1; outros 1/0
 **Argumentos recorrentes nas justificativas registradas:** TCU/controle externo (3); eficiência/celeridade (2); transparência (1); participação social (1); usuário (1); evidência/dados (1)
 **Tom (inferência da leitura, não métrica):** minucioso
 
@@ -67,3 +67,4 @@
 - **RD 102ª Extraordinária (2026-09-03)**, item 1.2.1 — Edital de concessão da BR-116/324 (BA) — Rota 2 de Julho, 653 km (Salvador–Feira de Santana–Vitória da Conquista–divisa MG) · voto: *relator, aprova* (relator, conf. alta) · [vídeo](https://www.youtube.com/watch?v=J5gkP2cLOm8&t=2523s) · resultado: aprovado por unanimidade
 - **RD 102ª Extraordinária (2026-09-03)**, item 1.3.1 — Relatório final da AP 4/2026 e proposição ao Ministério dos Transportes do plano de outorga da Rota Portuária Sul (BR-116/392, RS; 459 km →  · voto: *acompanha na íntegra* (acompanha, conf. alta) · [vídeo](https://www.youtube.com/watch?v=J5gkP2cLOm8&t=4256s) · resultado: aprovado por unanimidade
 - **RD 1044 (2026-10-22)**, item 1.3.2 — 2º termo aditivo: substituir a obrigação da praça de pedágio P3A (km 3+150, Comendador Levy Gasparian/RJ) por pórtico eletrônico free flow,  · voto: *acompanha* (acompanha, conf. baixa) · [vídeo](https://www.youtube.com/watch?v=YaJwWZ8bYt0&t=9478s) · resultado: aprovado por unanimidade
+- **RD 1045 (2026-11-09)**, item 1.1.4 — 3º termo aditivo ao contrato (edital 3/2025) para substituir a construção e operação de 5 praças de pedágio por pedágio eletrônico em livre  · voto: *relator original, mantém voto e acolhe aprimoramentos* (relator, conf. media) · «agradece aprimoramentos sobre análise econômico-financeira e redação do objeto do aditivo» · [vídeo](https://www.youtube.com/watch?v=L4wqQO1oCmM&t=4471s) · resultado: aprovado por unanimidade

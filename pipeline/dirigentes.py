@@ -39,3 +39,7 @@ for ag, D in AGS.items():
             if not p: print(f"{ag}: ⚠️ {d} sem perfil → pesquisador-dirigentes"); continue
             falta = [k for k in ("formacao", "minibio", "foto") if not p.get(k)]
             if falta: print(f"{ag}: {d} sem {', '.join(falta)}")
+            elif p.get("foto") and os.path.exists(p["foto"]):
+                from PIL import Image
+                w, h = Image.open(p["foto"]).size
+                if min(w, h) < 600: print(f"{ag}: {d} foto fraca ({w}×{h} px; mínimo 600) → pesquisador-dirigentes buscar a maior oficial")

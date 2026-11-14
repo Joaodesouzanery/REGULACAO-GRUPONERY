@@ -1,11 +1,11 @@
 # Perfil analítico — Lucas Asfor · tema: judicializacao
 
-**Amostra:** presente em 112 das 117 reuniões analisadas em que há registro de presença/ausência; 86 votos neste tema; 22 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
+**Amostra:** presente em 113 das 118 reuniões analisadas em que há registro de presença/ausência; 86 votos neste tema; 22 relatorias. Amostra ainda pequena (poucas reuniões): leia como tendência observada, não como regra.
 
 **Votos:** acompanha o relator 59 (92% dos votos em que não era relator) · relator 22 · vista pedida 2 · voto-vista divergente 2 · vencido 0 · outros/não captado 1
 **Como relator:** 20/22 relatorias aprovadas por unanimidade.
 
-**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 400/110; fiscalizacao_sancoes 361/112; onibus 214/65; onibus_regular 146/47; reequilibrio_contratual 125/21; regulacao_normativa 122/24; leilao_otimizacao 116/41; participacao_social 110/30; judicializacao 86/22; ferrovias 83/18; institucional 65/4; onibus_fretamento 58/17; pedagio_freeflow 56/15; cargas 39/12; sandbox_inovacao 29/3; sustentabilidade 27/0; tarifa_modicidade 14/2; onibus_semiurbano 7/1; outros 1/0
+**Temas (nº de itens em que votou / relatorias):** concessoes_rodoviarias 405/112; fiscalizacao_sancoes 363/113; onibus 214/65; onibus_regular 146/47; regulacao_normativa 126/26; reequilibrio_contratual 126/22; leilao_otimizacao 117/41; participacao_social 112/30; judicializacao 86/22; ferrovias 84/19; institucional 66/4; onibus_fretamento 58/17; pedagio_freeflow 57/16; cargas 40/12; sandbox_inovacao 31/3; sustentabilidade 30/0; tarifa_modicidade 14/2; onibus_semiurbano 7/1; outros 1/0
 **Argumentos recorrentes nas justificativas registradas:** TCU/controle externo (4); segurança jurídica (2); evidência/dados (2); interesse público (1); concorrência (1)
 **Tom (inferência da leitura, não métrica):** técnico | firme | equilibrado | doutrinário | cauteloso | cauteloso e institucional | cortês, ressalva institucional
 
