@@ -10,3 +10,8 @@ description: O que fazer quando o Mac do usuário envia um lote novo ao GitHub (
 4. Whisper: marque no relatório/consulta que a fonte é «Whisper (áudio)», não legenda; confira 1–2 itens por amostra (trecho perto do minuto).
 5. `python3 pipeline/auditar.py` (base) e `checar_integridade.py`; commit e push (skill `cuidados-pipeline`).
 6. Conte ao usuário: reuniões novas, itens, votos, o que ficou sem texto e por quê.
+
+## Comando e tempos (nov/2026)
+- Mac: `caffeinate -i bash pipeline/coletar_todas.sh` (as 3 agências; `--total` relista o canal inteiro; dia 1 faz isso sozinho).
+- Cada agência grava uma linha em `data/tempos_coleta.jsonl` (inventário, transcrições, total em segundos): use para dizer ao usuário quanto o fluxo leva.
+- «AGENDADA» = live futura (não é erro). «PRIVADO» = sem acesso; fica em sem_legenda.jsonl e é tentado de novo após 30 dias.

@@ -27,8 +27,9 @@ def numero(t):  # chave p/ dedupe PT/EN de reunião de diretoria
     m = re.search(r"(?:n[ºo°]\.?|no\.?)\s*(\d{3,4})\b|\b(\d{3,4})ª", t, re.I)
     return m and (m[1] or m[2])
 vistos, descartados = {}, []
-def yt(url, fmt):
-    r = subprocess.run([sys.executable, "-m", "yt_dlp", "--flat-playlist", "--print", fmt, url], capture_output=True, text=True)
+RAPIDO = os.environ.get("RAPIDO") == "1"  # semanal: só os 60 mais recentes de cada aba + playlists do config (o total roda no dia 1 ou com --total)
+def yt(url, fmt, fim=None):
+    r = subprocess.run([sys.executable, "-m", "yt_dlp", "--flat-playlist"] + (["--playlist-end", str(fim)] if fim else []) + ["--print", fmt, url], capture_output=True, text=True)
     return [l for l in r.stdout.splitlines() if l.strip()]
 def add(id_, titulo, dur, fonte):
     titulo = unicodedata.normalize("NFC", titulo)
@@ -48,10 +49,10 @@ if canal.startswith("PL") or "list=" in canal:
     canal = f"channel/{cid}" if cid else canal
     print("canal da playlist:", canal)
 for aba in ("videos", "streams", "shorts"):
-    for l in yt(f"https://www.youtube.com/{canal}/{aba}", "%(id)s\t%(title)s\t%(duration)s"):
+    for l in yt(f"https://www.youtube.com/{canal}/{aba}", "%(id)s\t%(title)s\t%(duration)s", 60 if RAPIDO else None):
         id_, titulo, dur = (l.split("\t") + ["", ""])[:3]; add(id_, titulo, dur, aba)
 # playlists do canal (séries como Caminho dos Romeiros, audiências, cópias de reuniões)
-for l in yt(f"https://www.youtube.com/{canal}/playlists", "%(id)s\t%(title)s"):
+for l in ([] if RAPIDO else yt(f"https://www.youtube.com/{canal}/playlists", "%(id)s\t%(title)s")):
     pid, ptitulo = (l.split("\t") + [""])[:2]
     if not pid.startswith("PL"): continue
     for m in yt(f"https://www.youtube.com/playlist?list={pid}", "%(id)s\t%(title)s\t%(duration)s"):
