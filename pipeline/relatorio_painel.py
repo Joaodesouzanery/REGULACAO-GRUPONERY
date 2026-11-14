@@ -17,6 +17,7 @@ AG = EMP.get("agencias", ["antaq"])[0]
 D = "data" if AG == "antt" else f"data/{AG}"
 NOME = {"antt": "ANTT", "anm": "ANM", "antaq": "ANTAQ"}[AG]
 DESDE = "2018-01-01"
+TRES = (datetime.date.today() - datetime.timedelta(days=3 * 365)).isoformat()  # recorte padrão das peças: últimos 3 anos (+ contexto desde 2018)
 HOJE = datetime.date.today()
 E = html.escape
 ld = lambda p, d: json.load(open(p)) if os.path.exists(p) else d
@@ -172,6 +173,29 @@ vh = " · ".join(f'{E(v["cadeira"])} (desde {fmtd(v["inicio"])}; interinos: {E(v
 S.append(f'''<section class="pg">{top(2, f"Diretoria · {NOME}")}<h2>Quem decide hoje</h2><div class="dgrid" style="grid-template-columns:repeat({len(board)},1fr)">{cards}</div>
 <div class="g2c"><div class="card"><h3>Superintendentes</h3><div class="sgrid">{sc}</div></div><div class="card vg"><h3>Mandatos e vagas</h3><p><b>Vaga aberta:</b> {vh}</p><p class="nt">Mandatos: Senado/DOU, conferidos todo dia 1. Barra = tempo de mandato já cumprido.</p></div></div></section>''')
 
+# 2b ficha dos diretores (todos os temas da agência, 3 anos)
+def ficha(d):
+    R = c.execute("select v.categoria, v.eh_relator, v.item_id, v.justificativa, v.trecho, v.trecho_t, v.ts, r.numero, r.video_id from votos v join itens i on i.id=v.item_id join reunioes r on r.id=i.reuniao_id where v.diretor=? and r.data>=?", (d, TRES)).fetchall()
+    cat = collections.Counter(r["categoria"] for r in R); rel = [r for r in R if r["eh_relator"]]
+    tm = collections.Counter(t for r in rel for (t,) in c.execute("select tema from item_temas where item_id=?", (r["item_id"],)))
+    proc = re.compile(r"processo n|item \d+ da pauta|aprovad|em vota|>>|interessad|trata-se", re.I)
+    boas = [r for r in R if r["trecho"] and len(r["trecho"]) > 60 and not proc.search(r["trecho"][:90])]
+    fr = max(boas, key=lambda r: (r["categoria"] in ("vencido", "revisor_diverge", "vista"), r["eh_relator"], len(r["trecho"] or "")), default=None)
+    ju = [r["justificativa"] for r in rel if r["justificativa"]][-2:]
+    return {"n": len(R), "rel": len(rel), "dv": cat["vencido"] + cat["revisor_diverge"], "vista": cat["vista"], "temas": tm.most_common(3), "fr": fr, "ju": ju}
+FI = {d: ficha(d) for d in board}
+linhas_f = [("Formação", lambda d: (bios.get(d) or {}).get("formacao") or "não informada nas fontes oficiais"),
+            ("Origem / carreira", lambda d: re.split(r"\.\s", (bios.get(d) or {}).get("minibio") or "—")[0][:160]),
+            ("Mandato", lambda d: f"diretor substituto · convocação até {fmtd(mandato(d)[1])}" if "substitut" in ((bios.get(d) or {}).get("cargo", "")).lower() else f"até {fmtd(mandato(d)[1])} · 5 anos, sem recondução (Lei 13.848/2019)"),
+            ("Votos em 3 anos", lambda d: f"{FI[d]['n']} votos · {FI[d]['rel']} relatorias · {FI[d]['dv']} divergências · {FI[d]['vista']} vistas"),
+            ("Temas que mais relata", lambda d: ", ".join(f"{t.replace('_', ' ')} ({k})" for t, k in FI[d]["temas"]) or "—"),
+            ("Argumentos recorrentes (inferência)", lambda d: " / ".join(j[:110] for j in FI[d]["ju"]) or "—")]
+fhead = "".join(f'<th>{foto_dir(d, bios.get(d))}<div class="dn">{E(d)}</div></th>' for d in board)
+fbody = "".join(f'<tr><td class="fl">{E(r)}</td>' + "".join(f'<td>{E(str(f(d)))}</td>' for d in board) + "</tr>" for r, f in linhas_f)
+fbody += '<tr><td class="fl">Frase típica</td>' + "".join(f'<td class="fq">{("«" + E(FI[d]["fr"]["trecho"][:150]) + "» <a href=" + chr(34) + mapa_tema.link(FI[d]["fr"]["video_id"], FI[d]["fr"]["ts"], FI[d]["fr"]["trecho_t"]) + chr(34) + ">▶</a>") if FI[d]["fr"] else "—"}</td>' for d in board) + "</tr>"
+S.append(f'''<section class="pg">{top(2, f"Ficha dos diretores · {NOME}")}<h2>Os diretores lado a lado</h2><table class="ft"><tr><th></th>{fhead}</tr>{fbody}</table>
+<p class="nt">Todos os temas da agência, últimos 3 anos (desde {fmtd(TRES)}). Frase: trecho literal da legenda automática, com link no minuto. Argumentos: justificativas registradas quando relator.</p></section>''')
+
 # 3 decisões setoriais
 TM = collections.Counter(t for i in its for (t,) in c.execute("select tema from item_temas where item_id=?", (i["id"],)))
 pal = ["#3D1FE0", "#F28C1A", "#2EC4A6", GOLD, "#8E5CF0", "#9A958C", "#5B6AD0", "#B83227"]
@@ -190,7 +214,7 @@ S.append(f'''<section class="pg">{top(3, f"Decisões setoriais · {NOME}")}<h2>O
 # 4.. mapeamentos por assunto
 n = 3
 for tc in EMP.get("temas_consultoria", []):
-    n += 1; m = mapa_tema.mapear(AG, tc["regex"], max(tc.get("desde", DESDE), DESDE))
+    n += 1; m = mapa_tema.mapear(AG, tc["regex"], TRES); m18 = mapa_tema.mapear(AG, tc["regex"], DESDE)
     dc = ""
     for d, st in m["por_diretor"].items():
         e = st["ev"]; pct = st["p_acomp"]
@@ -199,7 +223,7 @@ for tc in EMP.get("temas_consultoria", []):
 <div class="ms">relatou {st["rel"]} · divergiu {st["dv"]} · vista {st["vista"]}</div>{f'<div class="mq">RD {E(str(e["numero"]))}: «{E((e["justificativa"] or e["voto"] or "")[:80])}» <a href="{mapa_tema.link(e["video_id"], e["ts"], e["trecho_t"])}">▶</a></div>' if e else ""}</div>'''
     lst = "".join(f'<div class="ti"><span>{fmtd(i["data"])}</span><b>RD {E(str(i["numero"]))}</b> {E((i["assunto"] or "")[:120])} — <i>{E(des(c, i["id"]))}</i> <a href="{mapa_tema.link(i["video_id"], i["ts"])}">▶</a></div>' for i in m["itens"][-5:][::-1])
     S.append(f'''<section class="pg">{top(n, "Mapeamento por assunto")}<h2>{E(tc["titulo"])}</h2>
-<p class="lead">{len(m["itens"])} decisões desde 2018 · {m["unanimes"]} sem voto divergente · desfecho: {E(" · ".join(f"{k} {v}" for k, v in collections.Counter(des(c, i["id"]) for i in m["itens"]).most_common()))}</p>
+<p class="lead"><b>{len(m["itens"])} decisões nos últimos 3 anos</b> (desde {fmtd(TRES)}) · {m["unanimes"]} sem voto divergente · contexto: {len(m18["itens"])} desde 2018 · desfecho: {E(" · ".join(f"{k} {v}" for k, v in collections.Counter(des(c, i["id"]) for i in m["itens"]).most_common()))}</p>
 <div class="mgrid" style="grid-template-columns:repeat({len(m["por_diretor"])},1fr)">{dc}</div><h3 class="h3s">Decisões semelhantes mais recentes</h3><div class="tlist">{lst}</div></section>''')
 
 # análise antecipada
@@ -275,6 +299,8 @@ h2{{font-size:19pt;margin:0 0 .14in}}h3{{font-size:10.5pt;margin:0 0 .08in}}.h3s
 .fim{{padding:0;display:grid;grid-template-columns:1fr 1fr;background:#0B0B0B;color:#fff}}.ffoto{{background-size:cover}}.fc{{padding:.5in .5in;display:flex;flex-direction:column;gap:.12in}}.fim h2{{font-size:20pt;margin-top:.2in}}.fimc{{font-size:8pt;line-height:1.5;color:#CFCAC0}}
 .tl2{{display:flex;flex-direction:column;gap:5px}}.ev2{{display:grid;grid-template-columns:14px .85in 1.1in 1fr;align-items:center;gap:6px;font-size:8pt;border-bottom:1px solid #EEEAE2;padding:3px 0}}.ev2 i{{width:11px;height:11px;border-radius:50%}}.ev2 i.r{{background:{AC}}}.ev2 i.m{{background:{AC2}}}.ev2 em{{color:#6E6A63;font-style:normal}}
 .pp .card{{min-height:5.6in}}.pp .br{{font-size:10pt;margin:.14in 0;grid-template-columns:1.6in 1fr .5in .55in}}.pp .bt{{height:14px}}.pp h3{{font-size:12pt;margin:.06in 0 .16in}}.pp .nt{{font-size:8pt;margin-top:.2in}}.pp .plac{{font-size:80pt;margin-top:.3in}}.pp .muda{{font-size:9.5pt;margin-top:.3in}}.pp .fxt{{font-size:11pt}}
+.ft{{width:100%;border-collapse:separate;border-spacing:6px 0;font-size:7.6pt;table-layout:fixed}}.ft th{{background:#fff;border-radius:10px 10px 0 0;padding:.08in .04in;border:1px solid #E7E3DA;border-bottom:0}}.ft th:first-child{{background:none;border:0;width:1.25in}}.ft .av{{width:.6in;height:.6in}}
+.ft td{{background:#fff;border-left:1px solid #E7E3DA;border-right:1px solid #E7E3DA;padding:5px 7px;vertical-align:top;line-height:1.32}}.ft td.fl{{background:none;border:0;font-weight:650;color:#3A3833;font-size:7.8pt}}.ft tr:last-child td:not(.fl){{border-bottom:1px solid #E7E3DA;border-radius:0 0 10px 10px}}.fq{{font-style:italic;color:#4A4741}}
 .pag{{position:absolute;right:.45in;bottom:.15in;font-size:7.5pt;font-weight:700;color:{GOLD}}}"""
 base = f"{P}/relatorio_painel"
 open(base + ".html", "w").write(leve_html(f'<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><title>{E(nome_curto)} · {NOME}</title><style>{CSS}</style></head><body>{"".join(S)}</body></html>'))
