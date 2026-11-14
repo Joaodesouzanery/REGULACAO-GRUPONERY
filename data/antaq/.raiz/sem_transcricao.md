@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **38** · sem /audiencia: 6; 2021/diretoria: 1; 2020/diretoria: 1; 2019/diretoria: 1; 2018/workshop: 3; 2018/diretoria: 2; 2017/diretoria: 11; 2016/diretoria: 13
+Total: **33** · sem /audiencia: 1; 2021/diretoria: 1; 2020/diretoria: 1; 2019/diretoria: 1; 2018/workshop: 3; 2018/diretoria: 2; 2017/diretoria: 11; 2016/diretoria: 13
 
 - 2021-06-22 · diretoria · 502ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=9stykwmjzeI · **legenda desativada/inexistente no YouTube**
 - 2020-04-10 · diretoria · 475ª Reunião Ordinária da Diretoria · https://www.youtube.com/watch?v=xli1Kp1oxZU · **legenda desativada/inexistente no YouTube**
@@ -37,8 +37,3 @@ Total: **38** · sem /audiencia: 6; 2021/diretoria: 1; 2020/diretoria: 1; 2019/d
 - 2016-02-01 · diretoria · 383a Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=_G7VAIDK6Qk · **legenda desativada/inexistente no YouTube**
 - 2016-01-29 · diretoria · 379a Reunião Ordinária de Diretoria · https://www.youtube.com/watch?v=UWXkN9Prpu8 · **legenda desativada/inexistente no YouTube**
 - s/data · audiencia · Webinário -  Audiência Pública nº08/2026 - Resoluções ANTAQ nº 129/2025 e nº 62/ · https://www.youtube.com/watch?v=W6-Qt9WdDv4 · **ainda não baixado (rodar a coleta no Mac)**
-- s/data · audiencia · NA · https://www.youtube.com/watch?v=1JJAO3a4AFA · **privado**
-- s/data · audiencia · NA · https://www.youtube.com/watch?v=dCnp2izF8FY · **privado**
-- s/data · audiencia · NA · https://www.youtube.com/watch?v=CGzAdM8PMmk · **privado**
-- s/data · audiencia · NA · https://www.youtube.com/watch?v=_hlg9820_vc · **privado**
-- s/data · audiencia · NA · https://www.youtube.com/watch?v=WwDnx9NOjQc · **privado**
