@@ -1,4 +1,4 @@
-# Cobertura da base (atualizado em 2026-11-13)
+# Cobertura da base (atualizado em 2026-11-14)
 
 Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de diretoria com votos estruturados ou evento com resumo/falas estruturados.
 
@@ -8,7 +8,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2026 | workshop | 3 | 3 | 3 |
 | 2026 | romeiros | 1 | 1 | 1 |
 | 2026 | participativa | 10 | 10 | 10 |
-| 2026 | diretoria | 26 | 26 | 24 |
+| 2026 | diretoria | 26 | 26 | 25 |
 | 2026 | audiencia | 37 | 34 | 34 |
 | 2025 | workshop | 1 | 0 | 0 |
 | 2025 | participativa | 13 | 13 | 13 |
@@ -38,7 +38,6 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 
 ## Reuniões de diretoria transcritas e ainda sem análise
 
-- 2026-11-09 · Board Meeting No. 1045 - 11/09/2026 · `L4wqQO1oCmM`
 - 2026-09-28 · Board Meeting No. 1042 - 09/28/2026 · `6A8-zT0Sipw`
 - 2020-01-28 · Transmissão da 843ª Reunião de Diretoria - 28/01/2020 · `f2s8-pFjdTw`
 - 2019-04-23 · Transmissão da 808ª Reunião de Diretoria da ANTT - 23/04/19 - parte 2 · `BuLMkKySEhg`
