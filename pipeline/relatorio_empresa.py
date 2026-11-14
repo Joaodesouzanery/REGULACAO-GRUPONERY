@@ -66,7 +66,10 @@ for ag in AGS:
                      "fim": fim, "n": len(vs), "rel": sum(v[1] for v in vs),
                      "ac": cat["acompanha"] + cat["revisor_acompanha"], "dv": cat["vencido"] + cat["revisor_diverge"], "vista": cat["vista"],
                      "p": pr["por_diretor"].get(d, (None, 0)), "b": bios.get(d)})
-    pend = [i for i in its if desfecho_item(c, i["id"]) == "pendente" and i["data"] >= (HOJE - datetime.timedelta(days=540)).isoformat()]
+    proc_dec = {}  # processo já decidido depois (não está mais «em aberto»)
+    for i in its:
+        if (i["processo"] or "").strip() and desfecho_item(c, i["id"]) != "pendente": proc_dec[i["processo"].strip()[:20]] = i["data"]
+    pend = [i for i in its if desfecho_item(c, i["id"]) == "pendente" and proc_dec.get((i["processo"] or "").strip()[:20], "") <= i["data"] and i["data"] >= (HOJE - datetime.timedelta(days=120)).isoformat()]
     procs = collections.OrderedDict()
     for i in reversed(its):
         k = (i["processo"] or "").strip() or f"{i['assunto'][:40]}…"
@@ -154,7 +157,7 @@ for ag, a in AG.items():
     pr = a["pr"]; ac, tt = pr["backtest"]
     pd = "".join(f'<tr><td>{E(d)}</td><td>{p:.0%}</td><td>{k}</td></tr>' for d, (p, k) in pr["por_diretor"].items())
     blocos += f'''<div class="prev s-{SETOR_AG[ag]}"><h3>{NOME_AG[ag]}</h3><div class="placar">{pr["placar_esperado"][0]}<span>×</span>{pr["placar_esperado"][1]}</div>
-<div class="pu">Chance de decisão unânime com o relator: <b>{pr["p_unanimidade"]:.0%}</b></div><table class="tab sm"><thead><tr><th>Diretor</th><th>Acompanha o relator</th><th>n</th></tr></thead><tbody>{pd}</tbody></table>
+<div class="pu">Chance de decisão unânime com o relator: <b>{pr["p_unanimidade"]:.0%}</b> <span style="font-size:8pt;color:#6E6A63">(base: temas da empresa, últimos 3 anos)</span></div><table class="tab sm"><thead><tr><th>Diretor</th><th>Acompanha o relator</th><th>n</th></tr></thead><tbody>{pd}</tbody></table>
 <div class="nota">Regra testada em 2025–26 (treino até 2024): acertou {ac}/{tt} = {ac/max(tt,1):.0%} (unânime ou não).</div></div>'''
 leitura = []
 for ag, a in AG.items():

@@ -37,14 +37,15 @@ for it in alvo.get("itens", []):
 ult = c.execute("select id, numero, data, video_id from reunioes order by data desc limit 1").fetchone()
 for i in c.execute("select * from itens where reuniao_id=?", (ult["id"],)):
     res = (i["resultado"] or "").lower(); txt = f"{i['interessado'] or ''} {i['assunto'] or ''}"
-    cliente = bool(RX.search(txt)) or str(i["item"]) in [str(x) for x in EMP.get("itens_acompanhar", [])]
+    pedido = str(i["item"]) in [str(x) for x in EMP.get("itens_acompanhar", [])]
+    cliente = bool(RX.search(txt)) or pedido
     if cliente or "retirad" in res or "vista" in res:
         tema = next((t for t in TEMAS if re.search(t["regex"], txt, re.I)), None)
-        itens.append(("cliente" if cliente else "em aberto", f"{ult['numero']}ª · item {i['item']}: {(i['assunto'] or 'assunto não lido em sessão')[:220]} — {(i['resultado'] or '')[:90]}",
+        itens.append(("cliente (informado pelo cliente)" if pedido and not RX.search(i["assunto"] or "") else "cliente" if cliente else "em aberto", f"{ult['numero']}ª · item {i['item']}: {(i['assunto'] or 'assunto não lido em sessão')[:220]} — {(i['resultado'] or '')[:90]}",
                       i["relator"], (tema or {}).get("regex"), mapa_tema.link(ult["video_id"], i["ts"]), i["id"]))
 ia = EMP.get("item_antecipado")
 
-ordem = {"pauta": 0, "cliente": 1, "em aberto": 2}
+ordem = {"pauta": 0, "cliente": 1, "cliente (informado pelo cliente)": 1, "em aberto": 2}
 itens.sort(key=lambda x: (ordem[x[0]], 0 if x[3] else 1))
 blocos = ""
 for k, x in enumerate(itens[:8]):
@@ -54,7 +55,7 @@ for k, x in enumerate(itens[:8]):
     if rx:
         m = mapa_tema.mapear(AG, rx, "2023-01-01"); pu = 1.0
         for st in m["por_diretor"].values(): pu *= st["p_acomp"]
-        prev = f'<div class="pv">Previsão (inferência): unânime com o relator <b>{pu:.0%}</b> · ' + " · ".join(f'{E(d.split()[0])} {st["p_acomp"]:.0%}' for d, st in m["por_diretor"].items()) + "</div>"
+        prev = f'<div class="pv">Previsão (inferência; base: tema do item desde 2023, n={sum(st["n"] for st in m["por_diretor"].values())} votos): unânime com o relator <b>{pu:.0%}</b> · ' + " · ".join(f'{E(d.split()[0])} {st["p_acomp"]:.0%}' for d, st in m["por_diretor"].items()) + "</div>"
     blocos += (f'<li class="o-{origem.split()[0]}"><span class="tg">{E(origem)}</span> {E(txt)}{" · relator " + E(rel) if rel else ""} '
                + (f'<a href="{lk}">▶</a>' if lk else "") + prev + "</li>")
 # precedentes para o tema principal do cliente
