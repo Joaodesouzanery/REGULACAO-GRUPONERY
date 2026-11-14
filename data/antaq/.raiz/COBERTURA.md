@@ -7,7 +7,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | sem data | audiencia | 6 | 0 | 0 |
 | 2026 | workshop | 1 | 1 | 1 |
 | 2026 | participativa | 1 | 1 | 1 |
-| 2026 | diretoria | 9 | 8 | 8 |
+| 2026 | diretoria | 9 | 9 | 8 |
 | 2026 | audiencia | 9 | 9 | 9 |
 | 2025 | participativa | 2 | 2 | 2 |
 | 2025 | diretoria | 12 | 12 | 12 |
@@ -27,7 +27,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2020 | diretoria | 12 | 11 | 11 |
 | 2020 | audiencia | 21 | 21 | 21 |
 | 2019 | workshop | 1 | 1 | 1 |
-| 2019 | diretoria | 20 | 17 | 17 |
+| 2019 | diretoria | 20 | 19 | 17 |
 | 2019 | audiencia | 11 | 11 | 11 |
 | 2018 | workshop | 6 | 3 | 3 |
 | 2018 | diretoria | 19 | 17 | 17 |
@@ -37,5 +37,8 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 
 ## Reuniões de diretoria transcritas e ainda sem análise
 
+- 2026-11-13 · 623ª Reunião Ordinária de Diretoria · `L5asPhti148`
+- 2019-09-27 · 466ª Reunião Ordinária da Diretoria - Parte 1 · `PH7Z-S9LV14`
+- 2019-08-21 · 465ª Reunião Ordinária da Diretoria - Parte 1 · `57Z3eViWyVI`
 
-Vídeos sem legenda registrados: 38 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 44 (ver `data/sem_legenda.jsonl`).
