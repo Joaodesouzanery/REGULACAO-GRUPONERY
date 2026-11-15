@@ -26,7 +26,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2021 | diretoria | 84 | 81 | 0 |
 | 2021 | audiencia | 33 | 0 | 0 |
 | 2020 | workshop | 2 | 0 | 0 |
-| 2020 | diretoria | 90 | 44 | 0 |
+| 2020 | diretoria | 90 | 56 | 0 |
 | 2020 | audiencia | 9 | 0 | 0 |
 | 2019 | workshop | 8 | 0 | 0 |
 | 2019 | diretoria | 77 | 0 | 0 |
@@ -561,5 +561,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2020-08-11 · 29ª Reunião Pública Ordinária ANEEL – 11/08/2020 – Parte 2 · `_mk3irTj5os`
 - 2020-08-11 · 29ª Reunião Pública Ordinária ANEEL – 11/08/2020 – Parte 1 · `ut52-9PKmm0`
 - 2020-08-06 · 6ª Reunião Pública Extraordinária ANEEL - 06/08/2020 · `H63dp067glc`
+- 2020-08-04 · 28ª Reunião Pública Ordinária ANEEL – 04/08/2020 · `ueeIrdAtbDw`
+- 2020-07-28 · 27ª Reunião Pública Ordinária ANEEL – 28/07/2020 – Parte 2 · `NjujRGPd0MI`
+- 2020-07-28 · 27ª Reunião Pública Ordinária ANEEL – 28/07/2020 – Parte 1 · `tP9SlleXecw`
+- 2020-07-21 · 26ª Reunião Pública Ordinária ANEEL – 21/07/2020 – Parte 2 · `QRLX2yGX-GQ`
+- 2020-07-21 · 26ª Reunião Pública Ordinária ANEEL – 21/07/2020 – Parte 1 · `_yezlwl4PLQ`
+- 2020-07-14 · 25ª Reunião Pública Ordinária ANEEL – 14/07/2020 · `R5W8Ci08Kfg`
+- 2020-07-07 · 24ª Reunião Pública Ordinária ANEEL – 07/07/2020 · `zMAaBws0rJ0`
+- 2020-06-30 · 23ª Reunião Pública Ordinária ANEEL – 30/06/2020 – Parte 2 · `Ug8mG7SPZ94`
+- 2020-06-30 · 23ª Reunião Pública Ordinária ANEEL – 30/06/2020 – Parte 1 · `1oZeDVdhzZk`
+- 2020-06-25 · 5ª Reunião Pública Extraordinária ANEEL – 25/06/2020 · `Tk94KcvO6Do`
+- 2020-06-25 · 22ª Reunião Pública Ordinária ANEEL – 25/06/2020 – Parte 3 · `IZ5sZqlbG_U`
+- 2020-06-23 · 22ª Reunião Pública Ordinária ANEEL – 23/06/2020 – Parte 2 · `NTu1yrTdOB8`
 
 Vídeos sem legenda registrados: 8 (ver `data/sem_legenda.jsonl`).
