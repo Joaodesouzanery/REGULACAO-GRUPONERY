@@ -23,7 +23,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2022 | diretoria | 79 | 78 | 0 |
 | 2022 | audiencia | 16 | 0 | 0 |
 | 2021 | workshop | 4 | 0 | 0 |
-| 2021 | diretoria | 84 | 65 | 0 |
+| 2021 | diretoria | 84 | 77 | 0 |
 | 2021 | audiencia | 33 | 0 | 0 |
 | 2020 | workshop | 2 | 0 | 0 |
 | 2020 | diretoria | 90 | 0 | 0 |
@@ -501,5 +501,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2021-04-13 · 12ª Reunião Pública Ordinária ANEEL – 13/04/2021 – Parte 1 · `6e1lSIWYacE`
 - 2021-04-06 · 11ª Reunião Pública Ordinária ANEEL – 06/04/2021 – Parte 2 · `Oz2WXKeTBqY`
 - 2021-04-06 · 11ª Reunião Pública Ordinária ANEEL – 06/04/2021 – Parte 1 · `WTZTNIs69aE`
+- 2021-03-30 · 10ª Reunião Pública Ordinária ANEEL – 30/03/2021 – Parte 2 · `ISaWUvRip_g`
+- 2021-03-30 · 10ª Reunião Pública Ordinária ANEEL – 30/03/2021 – Parte 1 · `F_4DL-hkhdg`
+- 2021-03-26 · 3ª Reunião Pública Extraordinária ANEEL – 26/03/2021 · `wU2Bk_BAFE8`
+- 2021-03-23 · 9ª Reunião Pública Ordinária ANEEL – 23/03/2021 · `Z4oB-qlQPyM`
+- 2021-03-22 · 2ª Reunião Pública Extraordinária ANEEL – 22/03/2021 · `49o8M2KIP5c`
+- 2021-03-19 · 1ª Reunião Pública Extraordinária ANEEL – 19/03/2021 · `f4OqfrBIdXs`
+- 2021-03-16 · 8ª Reunião Pública Ordinária ANEEL – 16/03/2021 · `Z81JMkR-LgM`
+- 2021-03-09 · 7ª Reunião Pública Ordinária ANEEL – 09/03/2021 · `gDHyRIeGDAY`
+- 2021-03-02 · 6ª Reunião Pública Ordinária ANEEL – 02/03/2021 · `5sZSjcBZwC8`
+- 2021-02-23 · 5ª Reunião Pública Ordinária ANEEL – 23/02/2021 · `-TlpzSQLKEo`
+- 2021-02-09 · 4ª Reunião Pública Ordinária ANEEL – 09/02/2021 – Parte 2 · `dP-Kr0iiWzE`
+- 2021-02-09 · 4ª Reunião Pública Ordinária ANEEL – 09/02/2021 – Parte 1 · `g9_4ukGyrSk`
 
 Vídeos sem legenda registrados: 8 (ver `data/sem_legenda.jsonl`).
