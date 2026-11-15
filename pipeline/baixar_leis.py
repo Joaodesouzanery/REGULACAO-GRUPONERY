@@ -24,8 +24,18 @@ LEIS = {
 
 
 def baixar(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    b = urllib.request.urlopen(req, timeout=90).read()
+    # o Planalto derruba conexões de clientes «robô» (Connection reset): usar curl com cabeçalhos de navegador e tentar 3x
+    import subprocess, time
+    UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
+    b = b""
+    for tent in range(3):
+        for u in (url, url.replace("https://www.planalto.gov.br", "http://www.planalto.gov.br")):
+            r = subprocess.run(["curl", "-sSL", "--compressed", "--http1.1", "-A", UA, "-H", "Accept: text/html,application/xhtml+xml", "-H", "Accept-Language: pt-BR,pt;q=0.9", "--max-time", "90", u], capture_output=True)
+            if r.returncode == 0 and b"Art. 1" in r.stdout.replace(b"\xba", b"").replace(b"Art.&nbsp;1", b"Art. 1") or len(r.stdout) > 20000:
+                b = r.stdout; break
+        if b: break
+        time.sleep(5 * (tent + 1))
+    if not b: raise RuntimeError("Planalto não respondeu (curl); tente outra rede ou baixe pelo navegador e salve o HTML em docs/leis/_html/")
     m = re.search(rb'charset=["\']?([\w-]+)', b[:3000])
     enc = (m.group(1).decode() if m else "latin-1").lower()
     try: return b.decode("utf-8" if "utf" in enc else "cp1252")
