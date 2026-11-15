@@ -86,3 +86,13 @@ Legenda automática (erros de nomes/números), falantes inferidos, minuto aproxi
 - D · Alerta pré-pauta: `python3 pipeline/pautas.py <ag>` → `python3 pipeline/alerta_pauta.py clientes/<x>/<pasta>`
 - Roteiro de qualquer entrega: skill `montar-relatorio` (12 etapas) · pendências: `python3 pipeline/pendencias.py`
 - Venda só por parceiro (Circle etc.), marca «em parceria com Grupo Nery»; contratos em `proposta2/contrato/`.
+
+
+## ⭐ Prioridade comercial: ANEEL e ANP (porta grande de mercado, comprador identificado)
+- Padrão de qualidade máximo (skill qualidade-maxima): conferência cega de 30 itens por lote, auditor em toda entrega, fotos oficiais em alta, revisor-energia.
+- ANEEL iniciada em 15/11/2026 (data/aneel; 11 reuniões de 2026). Histórico 2018–2025: no Mac `caffeinate -i bash pipeline/coletar_tudo_e_enviar.sh aneel @aneel --total`.
+- ANP é a próxima (playlist PLvGUUvSxkN9WLZpSBz_bnvTzpnuTj1oVr).
+- No Mac só roda COLETA. Relatórios de cliente (clientes/, fora do git) são gerados no chat.
+
+## Pacote por contrato (4 documentos)
+1 Relatório da empresa (`relatorio_painel.py`) · 2 Boletim mensal do cliente (`boletim_cliente.py <pasta> AAAA-MM`) · 3 Raio-X dos Processos (`raio_x.py <pasta>`) · 4 Agenda e Inteligência Comparativa (`agenda_comparativa.py <pasta>`). Demo de prospecção: skill demo-prospect.

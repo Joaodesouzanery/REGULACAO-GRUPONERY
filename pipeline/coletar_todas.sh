@@ -6,7 +6,7 @@
 cd "$(dirname "$0")/.." || exit 1
 EXTRA=""; SIM=0; for x in "$@"; do [ "$x" = "--total" ] && EXTRA="--total"; [ "$x" = "--simular" ] && SIM=1; done
 canal() { python3 -c "import json;d=json.load(open('data/$1/config_agencia.json'));print(d.get('canal') or (d.get('playlists') or [''])[0])"; }
-FILA=("antt @canalANTT" "anm $(canal anm)" "antaq $(canal antaq)")
+FILA=("antt @canalANTT" "anm $(canal anm)" "antaq $(canal antaq)" "aneel @aneel")
 INI=$(date +%s); RES=""
 for item in "${FILA[@]}"; do
   set -- $item; t=$(date +%s)

@@ -1,0 +1,94 @@
+{
+ "meta": {"video_id": "03M1t2wEFQQ", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão abre em ~0:27); ts de votos de seguidores aproximados; transcrição muito longa (~9h20) lida por blocos com foco em anúncios, debates e votações", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "18ª Reunião Pública Ordinária de 2026", "data": "2026-09-08", "formato": "presencial com transmissão no YouTube",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral); nos itens finais (15, 17, 18) a sessão foi conduzida por outra diretora (provavelmente Agnes Costa) após a saída do Diretor-Geral, que deixou votos registrados",
+  "diretores_presentes": ["Sandoval Feitosa", "Agnes Costa", "Gentil Nogueira", "Willamy Frota", "Ludmila Lima da Silva"],
+  "ausentes": [],
+  "observacoes": ["Quórum de cinco diretores; Ludmila Lima da Silva (ex-superintendente da SCE) volta a integrar o colegiado.", "Pauta com 32 itens; 7 a 32 em bloco; destacados 11, 14, 15, 17 e 18; item 9 retirado; ordem: 1, 4, 5, 3, 2, 6, 11, 14, 15, 17, 18.", "Item 3 (resultado da CP 7/2025, Open Energy e abertura de mercado do grupo A): Ludmila diverge parcialmente quanto ao compartilhamento de marca entre distribuidora e comercializadora coligada; Gentil acompanha a relatora; Willamy pede vista.", "Item 11 retirado de pauta pela relatora Ludmila durante a sessão (nota técnica do juízo de reconsideração sem acesso liberado).", "Ludmila declarou-se impedida no item 12 do bloco (ato expedido por ela como superintendente da SCE).", "Sessão longa, com intervalo para almoço (13h10–14h30)."]
+ },
+ "itens": [
+  {"id": "bloco", "ts": "0:47:07", "processo": "itens 7 a 32 (exceto destacados)", "interessado": "diversos", "assunto": "Itens de bloco da 18ª RPO 2026", "tema": ["outros"], "relator": "diversos", "resultado": "aprovado por unanimidade (Ludmila impedida no item 12)", "resumo_voto": "Bloco aprovado sem discussão.",
+   "votos": [
+    {"diretor": "Ludmila Lima da Silva", "voto": "aprova o bloco, exceto item 12 (impedida)", "ts": "0:47:19", "justificativa": "item 12 trata de ato expedido por ela como superintendente da SCE", "confianca": "alta"},
+    {"diretor": "Agnes Costa", "voto": "aprova os itens do bloco", "ts": "0:47:31", "confianca": "baixa"},
+    {"diretor": "Gentil Nogueira", "voto": "aprova os itens do bloco", "ts": "0:47:34", "confianca": "baixa"},
+    {"diretor": "Willamy Frota", "voto": "aprova os itens do bloco", "ts": "0:47:34", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "aprova os itens do bloco", "ts": "0:47:36", "confianca": "alta"}]},
+  {"id": "1", "ts": "0:47:40", "processo": "48500.003180/2025-50 (parcial)", "interessado": "ANEEL; sustentações de Energisa (Rodrigo Santana), grupo Equatorial (Renata de Oliveira e Silva) e ABRADEE", "assunto": "Primeira revisão da Agenda Regulatória da ANEEL do biênio 2026/2027 (alteração do anexo I da Portaria 7.030/2025)", "tema": ["regulacao_normativa", "tarifas_revisao_tarifaria"], "relator": "Sandoval Feitosa", "resultado": "aprovado por unanimidade", "resumo_voto": "Distribuidoras pediram antecipar temas (receitas irrecuperáveis, perdas, monitoramento econômico-financeiro); metodologia ficou para CP com fechamento até junho/2027. Relator destaca déficit de ~30% de servidores e bloqueio orçamentário de ~R$ 34 mi; nega risco de curto prazo na distribuição.",
+   "votos": [
+    {"diretor": "Sandoval Feitosa", "voto": "relator, aprova", "ts": "1:38:00", "justificativa": "dinâmica legislativa altera o planejamento; ANEEL com 30% menos servidores e orçamento bloqueado; análises das distribuidoras coincidem com o monitoramento da agência", "confianca": "media"},
+    {"diretor": "Agnes Costa", "voto": "acompanha o relator", "ts": "1:30:41", "justificativa": "concorda, com alertas sobre temas a acompanhar (cita PLD mínimo, SGM, cooperação com Banco Mundial)", "confianca": "media"},
+    {"diretor": "Ludmila Lima da Silva", "voto": "acompanha o relator", "ts": "1:42:21", "confianca": "baixa"},
+    {"diretor": "Gentil Nogueira", "voto": "acompanha o relator", "ts": "1:42:21", "justificativa": "comentou (1:36:02, atribuição incerta) a relevância do PLD mínimo nas discussões de curtailment, CP 45 e revisão da REN 1030", "confianca": "baixa"},
+    {"diretor": "Willamy Frota", "voto": "acompanha o relator", "ts": "1:42:28", "confianca": "baixa"}]},
+  {"id": "4", "ts": "1:42:49", "processo": "48500.003272/26-43 (parcial)", "interessado": "SCE / Comissão de Leilões", "assunto": "Abertura de consulta pública (intercâmbio documental, 10/09 a 26/10/2026) sobre o edital do Leilão de Transmissão nº 1/2027 (12 lotes, inclui primeiro sistema de baterias na transmissão, lote 5, Cruzeiro do Sul/AC, e compensadores síncronos)", "tema": ["leiloes", "transmissao", "regulacao_normativa"], "relator": "Agnes Costa", "resultado": "aprovado por unanimidade", "resumo_voto": "Primeira bateria na transmissão sem requisitos técnicos regulatórios ainda definidos; ajustes de garantias e seguro-garantia; lote com interligação Bolívia condicionado a contratos.",
+   "votos": [
+    {"diretor": "Agnes Costa", "voto": "relatora, aprova abertura da CP", "ts": "1:58:27", "justificativa": "primeiro armazenamento por baterias na transmissão; compensadores síncronos", "confianca": "alta"},
+    {"diretor": "Gentil Nogueira", "voto": "acompanha a relatora", "ts": "2:00:29", "justificativa": "observa que não há discussão de como será pago o encargo da bateria (metade consumidor, metade carga)", "confianca": "baixa"},
+    {"diretor": "Ludmila Lima da Silva", "voto": "acompanha a relatora", "ts": "2:01:53", "confianca": "baixa"},
+    {"diretor": "Willamy Frota", "voto": "acompanha a relatora", "ts": "2:01:57", "justificativa": "elogia lotes 4 e 5 no Acre (sistema radial, redução da CCC); defende baterias para outros sistemas radiais (AM, RR, AP)", "confianca": "alta"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "2:05:30", "confianca": "alta"}]},
+  {"id": "5", "ts": "2:05:59", "processo": "48500.000211/2026-10 (parcial)", "interessado": "STD; ONS; distribuidoras", "assunto": "Abertura de CP (60 dias) para aprimorar o Módulo 3 do PRODIST: requisitos de observabilidade, operabilidade e controlabilidade de recursos energéticos distribuídos (REDs) e AIR sobre interoperabilidade do parque existente", "tema": ["geracao_distribuida", "regulacao_normativa"], "relator": "Agnes Costa", "resultado": "aprovado por unanimidade", "resumo_voto": "Proposta iniciada por manifestação do ONS em 2025; apresentação de Daniel Vieira (STD).",
+   "votos": [
+    {"diretor": "Agnes Costa", "voto": "relatora, aprova abertura da CP", "ts": "2:11:56", "justificativa": "tema tempestivo; REDs precisam ser observáveis e controláveis", "confianca": "alta"},
+    {"diretor": "Willamy Frota", "voto": "acompanha a relatora", "ts": "2:31:55", "confianca": "baixa"},
+    {"diretor": "Gentil Nogueira", "voto": "acompanha a relatora", "ts": "2:31:55", "confianca": "baixa"},
+    {"diretor": "Ludmila Lima da Silva", "voto": "acompanha a relatora", "ts": "2:31:55", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "2:27:55", "justificativa": "MMGD não pode ficar inobservável e descontrolável; distribuidoras são as mais aptas a controlar a rede; critica subsídios que distorcem sinais de expansão e contratação permanente de custos fixos de rede", "confianca": "alta"}]},
+  {"id": "3", "ts": "2:35:27", "processo": "48500.000503/22-56 (parcial)", "interessado": "Distribuidoras e comercializadoras; sustentações de Energisa (Rodrigo Santana), Equatorial (Dayane Ross Graçano), Neoenergia (Bruno Bastos Rezende), ABRADEE (Onofre Nicolau de Albuquerque Neto), CPFL (Leonor Cordovil, vídeo) e Tera/Tira Energia (Eduardo Moniz de Carvalho Miranda)", "assunto": "Resultado da CP 7/2025: aprimoramento regulatório da distribuição na abertura de mercado do grupo A e instituição do Open Energy (compartilhamento de dados; medidas concorrenciais, inclusive uso de marca por comercializadora coligada à distribuidora)", "tema": ["comercializacao", "regulacao_normativa"], "relator": "Agnes Costa", "resultado": "pedido de vista de Willamy Frota; não concluído", "resumo_voto": "Relatora aprova REN do grupo A, REN do Open Energy, submódulos 1.6 e 1.8 dos Procedimentos de Comercialização e determinações à CCEE; adota solução intermediária sobre marca (permitida com identificação do ramo de atuação, disclaimers e vedação de compartilhamento de infraestrutura e RH), divergindo da área técnica que propunha vedar a marca. Distribuidoras invocaram o CADE; DG e Procurador afirmam competência própria da ANEEL.",
+   "votos": [
+    {"diretor": "Agnes Costa", "voto": "relatora, aprova com solução intermediária sobre marca", "ts": "5:50:44", "justificativa": "postura gradualista: medida não é irreversível; remédios rigorosos (vedação de compartilhar infraestrutura e pessoal, diferenciação visual) em vez de vedar a marca", "confianca": "alta"},
+    {"diretor": "Ludmila Lima da Silva", "voto": "diverge parcialmente (vedação de compartilhamento de marca)", "ts": "7:13:08", "justificativa": "marca confere vantagem imediata e persistente em mercados geograficamente delimitados; inércia do consumidor; ajuste ex post seria tardio e custoso; acompanha a área técnica", "confianca": "alta"},
+    {"diretor": "Gentil Nogueira", "voto": "acompanha a relatora", "ts": "7:30:21", "confianca": "baixa"},
+    {"diretor": "Willamy Frota", "voto": "pede vista", "ts": "7:30:30", "justificativa": "tema complexo que afetará ~90 milhões de consumidores por décadas; quer refletir sobre os argumentos de Agnes e Ludmila", "confianca": "alta"},
+    {"diretor": "Sandoval Feitosa", "voto": "não votou (vista concedida); comentários", "ts": "7:05:00", "justificativa": "defende competência ex ante da ANEEL frente ao CADE; sinaliza simpatia pela separação de marcas (diretiva europeia, inércia do consumidor, rebranding sem pedido de reequilíbrio) e dúvidas sobre salvaguardas complexas", "confianca": "media"}]},
+  {"id": "2", "ts": "7:35:40", "processo": "48500.016643/25-27 (parcial)", "interessado": "Cooperativa de Eletricidade Paulo Lopes (CERPALO) e Eletra Comercializadora de Energia (em recuperação judicial)", "assunto": "Resolução de contrato CCVE 84/25 de comercialização de energia oriundo de licitação pública", "tema": ["comercializacao"], "relator": "Agnes Costa", "resultado": "aprovado por unanimidade", "resumo_voto": "Aprova a resolução do contrato; CERPALO deve apurar em 30 dias multa e indenização devidas pela Eletra para validação da SGM. Procuradoria: agravo permite deliberar apesar da recuperação judicial.",
+   "votos": [
+    {"diretor": "Agnes Costa", "voto": "relatora, aprova", "ts": "7:37:20", "confianca": "alta"},
+    {"diretor": "Ludmila Lima da Silva", "voto": "acompanha a relatora", "ts": "7:38:10", "confianca": "baixa"},
+    {"diretor": "Gentil Nogueira", "voto": "acompanha a relatora", "ts": "7:38:10", "confianca": "baixa"},
+    {"diretor": "Willamy Frota", "voto": "acompanha a relatora", "ts": "7:38:10", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "7:38:15", "confianca": "media"}]},
+  {"id": "6", "ts": "7:38:30", "processo": "48500.005756/2026-88 (parcial)", "interessado": "Powertech Engenharia, Agreco Energia e Oliveira Energia (térmicas dos sistemas isolados, AM)", "assunto": "Reconhecimento de custos extraordinários de ações de contingência no atendimento energético durante o El Niño de 2026 no Amazonas", "tema": ["cde_encargos", "outorgas_geracao"], "relator": "Willamy Frota", "resultado": "parcial provimento; unânime", "resumo_voto": "Reconhece parcialmente os custos; determina avaliar alternativas como fluxômetros na entrada dos tanques e de cada unidade geradora para controle de combustível nos sistemas isolados.",
+   "votos": [
+    {"diretor": "Willamy Frota", "voto": "relator, dá parcial provimento", "ts": "7:39:55", "confianca": "alta"},
+    {"diretor": "Agnes Costa", "voto": "acompanha o relator", "ts": "7:45:35", "confianca": "baixa"},
+    {"diretor": "Gentil Nogueira", "voto": "acompanha o relator", "ts": "7:45:35", "confianca": "baixa"},
+    {"diretor": "Ludmila Lima da Silva", "voto": "acompanha o relator", "ts": "7:45:35", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "7:45:40", "confianca": "media"}]},
+  {"id": "14", "ts": "8:02:04", "processo": "48500.001052/25-59 (parcial)", "interessado": "ABRATE (sustentação de Rafael Janiques)", "assunto": "Pedido de reconsideração contra o Despacho 1648/2026 (continuidade dos estudos do Banco de Preços de Referência e índice de atualização IPCA)", "tema": ["transmissao", "recursos_recursais"], "relator": "Willamy Frota", "resultado": "não conhecido; atualização do BPR remetida à CP do banco de preços; unânime", "resumo_voto": "Ato de caráter normativo, não cabe recurso (precedente despacho 1832); IPCA vigente após decisão anterior (voto divergente de Agnes na CP 4/2023 ou similar); ABRATE pode apresentar índice alternativo na CP.",
+   "votos": [
+    {"diretor": "Willamy Frota", "voto": "relator, não conhece", "ts": "8:21:58", "justificativa": "despacho tem caráter normativo; discussão do índice deve ocorrer na CP do BPR", "confianca": "alta"},
+    {"diretor": "Agnes Costa", "voto": "acompanha o relator", "ts": "8:20:14", "justificativa": "explica que o IPCA foi mantido por falta de estudos alternativos da ABRATE, deixando aberta revisão na próxima CP", "confianca": "media"},
+    {"diretor": "Gentil Nogueira", "voto": "acompanha o relator", "ts": "8:33:23", "confianca": "baixa"},
+    {"diretor": "Ludmila Lima da Silva", "voto": "acompanha o relator", "ts": "8:33:23", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "8:33:25", "justificativa": "decisão anterior deu comando à área técnica e incentivo para a ABRATE trazer estudos que promete há anos", "confianca": "alta"}]},
+  {"id": "15", "ts": "8:34:09", "processo": "48500.007946/2026-30 (parcial)", "interessado": "Horizon Transmissão, Transmissora SPMG, Mata Grande, Aliança, Água Vermelha, Transmissão Litoral Sul e outras (sustentação de Gabriel Oliveira Cota)", "assunto": "Pedido de reconsideração contra o Despacho 2031/2026 (tratamento regulatório de encargos rescisórios no reajuste da RAP 2026/2027)", "tema": ["transmissao", "recursos_recursais"], "relator": "Willamy Frota", "resultado": "conhecido e não provido; unânime", "resumo_voto": "Procuradoria já se manifestou duas vezes sobre o tema; há processo judicial correlato.",
+   "votos": [
+    {"diretor": "Willamy Frota", "voto": "relator, nega provimento", "ts": "8:49:00", "confianca": "media"},
+    {"diretor": "Ludmila Lima da Silva", "voto": "acompanha o relator", "ts": "8:50:51", "confianca": "baixa"},
+    {"diretor": "Gentil Nogueira", "voto": "acompanha o relator", "ts": "8:50:51", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (voto deixado registrado)", "ts": "8:50:59", "confianca": "media"},
+    {"diretor": "Agnes Costa", "voto": "acompanha o relator (preside)", "ts": "8:51:05", "confianca": "media"}]},
+  {"id": "17", "ts": "8:51:49", "processo": "48500.004743/26-16 (parcial)", "interessado": "Viv Empreendimentos Imobiliários SP8 (Viv Boulevard; sustentação de Cristian Figueiredo) x EDP/Energisa Sul-Sudeste (ESS)", "assunto": "Medida cautelar para suspender cobranças da distribuidora pela iluminação das áreas internas de uso comum de loteamento e impedir suspensão", "tema": ["outros", "recursos_recursais"], "relator": "Willamy Frota", "resultado": "cautelar negada; processo encaminhado à SMA; unânime", "resumo_voto": "Questão fática sobre natureza da iluminação (pública ou interna); decisão de mérito remetida à SMA.",
+   "votos": [
+    {"diretor": "Willamy Frota", "voto": "relator, nega a cautelar", "ts": "9:04:30", "confianca": "media"},
+    {"diretor": "Ludmila Lima da Silva", "voto": "acompanha o relator", "ts": "9:06:11", "confianca": "baixa"},
+    {"diretor": "Gentil Nogueira", "voto": "acompanha o relator", "ts": "9:06:17", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator (voto deixado registrado)", "ts": "9:06:17", "confianca": "media"},
+    {"diretor": "Agnes Costa", "voto": "acompanha o relator (preside)", "ts": "9:06:20", "confianca": "media"}]},
+  {"id": "18", "ts": "9:06:52", "processo": "48500.004221/2026-14 (parcial)", "interessado": "Samarco Mineração S.A. (unidade Germano; sustentação de Renato Eldenstein); ONS", "assunto": "Medida cautelar para assegurar processamento da garantia prévia (GPC) e aditivo ao CUST 48/2009 para ampliação do MUST, após ONS alegar intempestividade da garantia", "tema": ["transmissao", "recursos_recursais"], "relator": "Ludmila Lima da Silva", "resultado": "conhecido e cautelar negada; unânime", "resumo_voto": "Procuradoria sem reparo jurídico ao voto.",
+   "votos": [
+    {"diretor": "Ludmila Lima da Silva", "voto": "relatora, nega a cautelar", "ts": "9:17:00", "confianca": "media"},
+    {"diretor": "Willamy Frota", "voto": "acompanha a relatora", "ts": "9:18:53", "confianca": "baixa"},
+    {"diretor": "Gentil Nogueira", "voto": "acompanha a relatora", "ts": "9:18:53", "confianca": "baixa"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora (voto deixado registrado)", "ts": "9:18:58", "confianca": "media"},
+    {"diretor": "Agnes Costa", "voto": "acompanha a relatora (preside)", "ts": "9:19:03", "confianca": "media"}]}
+ ],
+ "retirados": [
+  {"item": "9 (assunto não lido)", "relator": "não identificado", "motivo": "retirado de pauta antes da sessão", "ts": "0:46:30"},
+  {"item": "11 — recurso da Mato Grosso Empreendimento Energético contra Despacho STD 2075/2026 (postergação da data de execução do CUST; sustentação de advogado pedindo diligência)", "relator": "Ludmila Lima da Silva", "motivo": "nota técnica do juízo de reconsideração sem acesso liberado; volta em pauta futura", "ts": "8:00:54"}
+ ],
+ "limites_da_analise": ["Ludmila Lima da Silva atua como diretora mas não consta da lista canônica de config_agencia.json; registrada como dita.", "Transcrição de ~400 mil caracteres: a leitura das sustentações e do longo voto do item 3 foi parcial (foco em anúncios, dispositivos, debates e votos).", "Votos de seguidores em sequência curta sem identificação do falante: atribuição e ts aproximados (confiança baixa); nos itens 15, 17 e 18 quem presidiu após a saída do Diretor-Geral é inferido (provavelmente Agnes Costa).", "Números de processo parciais e nomes (CERPALO, Viv, Tera Energia, sustentantes) podem estar distorcidos pela legenda.", "Falas de 1:36:02 (PLD mínimo) e 2:00:29 (encargo de baterias) com autoria incerta."]
+}

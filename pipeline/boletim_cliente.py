@@ -10,7 +10,9 @@ import pikepdf
 from pdf_leve import leve_html, leve_pdf
 from marca import parceria_html, MARCA_CSS
 
+if len(sys.argv) < 3 or not re.match(r"^\d{4}-\d{2}$", sys.argv[2]): sys.exit("Uso: python3 pipeline/boletim_cliente.py clientes/<x>/<pasta> 2026-11   (mês no formato AAAA-MM; gere no chat — a pasta clientes/ não vai para o Mac)")
 P, MES = sys.argv[1].rstrip("/"), sys.argv[2]
+if not os.path.exists(f"{P}/empresa.json"): sys.exit(f"Pasta do cliente não encontrada: {P}. Os relatórios de cliente são gerados no chat (clientes/ fica fora do git); no Mac rode só a coleta: caffeinate -i bash pipeline/coletar_todas.sh")
 EMP = json.load(open(f"{P}/empresa.json")); AG = EMP.get("agencias", ["antaq"])[0]
 NOME = {"antt": "ANTT", "anm": "ANM", "antaq": "ANTAQ"}[AG]; E = html.escape
 MESES = "janeiro fevereiro março abril maio junho julho agosto setembro outubro novembro dezembro".split()

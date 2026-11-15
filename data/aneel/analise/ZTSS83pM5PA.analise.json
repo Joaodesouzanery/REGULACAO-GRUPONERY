@@ -1,0 +1,715 @@
+{
+ "meta": {
+  "video_id": "ZTSS83pM5PA",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de quem só acompanha é aproximado",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "13ª Reunião Pública Ordinária de 2026",
+  "data": "2026-06-30",
+  "formato": "presencial (auditório da ANEEL)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral); à tarde, após sua saída, Gentil Nogueira",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Gentil Nogueira",
+   "Willam Frota",
+   "Fernando Mosna"
+  ],
+  "ausentes": [
+   "Agnes Costa (em missão/férias)"
+  ],
+  "observacoes": [
+   "Pauta com 36 itens; itens 10 a 36 em bloco; destacados 12, 13, 15, 25, 26 e 34; item 2 retirado; item 15 retirado durante a sessão.",
+   "Informes: bandeira amarela em julho, convênio com a ADASA, campanha contra queimadas, migração CCE/FCE, 1 ano do Radar, museu de eficiência energética.",
+   "Muitos itens em fase de votação herdados de reuniões anteriores (5, 6, 7, 8, 9); empate 2x2 no item 8 levou a adiar até o retorno de Agnes Costa.",
+   "Fernando Mosna comentou que 'faltam 43 dias' (aparente referência ao fim de mandato).",
+   "Pausa para almoço entre ~4:38 e ~5:51."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:50:44",
+   "processo": "itens 10 a 36 (exceto destacados 12, 13, 15, 25, 26, 34)",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco (votos e atos disponibilizados previamente)",
+   "tema": [
+    "outros"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovados por unanimidade, exceto item 10 (vista do diretor Willam Frota)",
+   "resumo_voto": "Bloco aprovado; Willam Frota pediu vista do item 10 «para melhor entendimento do desenvolvimento desse tema».",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "aprova os itens remanescentes do bloco",
+     "ts": "0:50:55",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willam Frota",
+     "voto": "aprova o bloco, exceto item 10, para o qual pede vista",
+     "ts": "0:51:07",
+     "justificativa": "pede vista do item 10 para melhor entendimento; antes registrou alerta sobre queimadas e parabenizou o museu de eficiência energética",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova os itens remanescentes do bloco",
+     "ts": "0:55:26",
+     "justificativa": "",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova os itens remanescentes do bloco",
+     "ts": "0:55:26",
+     "justificativa": "proclama unanimidade",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:55:26",
+   "processo": "48500.0xxxxx/2025-44 (número incerto na legenda)",
+   "interessado": "Companhia Campo Larguense de Energia - COCEL (Campo Largo/PR); comercializadora Electra (em recuperação judicial)",
+   "assunto": "Revisão tarifária periódica 2026 da COCEL, com tratamento excepcional dos contratos bilaterais inadimplidos pela Electra (valoração pelo VR)",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "comercialização (contratos bilaterais, comercializadora em recuperação judicial)"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Desconsidera contratos bilaterais com a Electra e valora o déficit pelo VR (Despacho 3176/2024); efeito médio 14,97% (AT ~15,9%, BT 14,51%); fator X componente T 0,764%; nega estender o tratamento por delegação à STR, pois há processo geral sob relatoria de Willam Frota. Apresentação técnica de Leonardo Mendonça (STR).",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, aprova",
+     "ts": "1:10:23",
+     "justificativa": "contratos não executados (inadimplemento material, RJ da Electra); nem valoração contratual nem exposição ao MCP; VR como referência conservadora; CVA faz ajuste fino",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "1:22:51",
+     "justificativa": "solução trata o caso concreto; abordagem estrutural virá no processo do diretor Willam; não deixar permissionária exposta ao MCP",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willam Frota",
+     "voto": "acompanha o relator",
+     "ts": "1:23:25",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "1:23:26",
+     "justificativa": "",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "ts": "1:23:29",
+   "processo": "48500.0xxxxx/2027-09 (número incerto)",
+   "interessado": "ENBPar; distribuidoras; consumidores elegíveis ao bônus de Itaipu",
+   "assunto": "Homologação da reserva técnica financeira da conta de comercialização de Itaipu, da tarifa bônus de Itaipu e dos repasses às distribuidoras para 2026",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Agnes Costa (ausente; voto lido pelo diretor-geral)",
+   "resultado": "aprovado por maioria o voto-vista de Fernando Mosna (reserva técnica de 4%, R$ 419,5 milhões; bônus ~R$ 872 milhões); vencida a relatora (5%, R$ 524 milhões)",
+   "resumo_voto": "Destacado do bloco por Sandoval Feitosa. De manhã Fernando Mosna pediu vista em mesa propondo transição gradual (3% em 2025, 4% em 2026); voto-vista apreciado à tarde.",
+   "votos": [
+    {
+     "diretor": "Agnes Costa",
+     "voto": "relatora, aprova reserva de 5% (vencida)",
+     "ts": "1:24:44",
+     "justificativa": "voto disponibilizado: reserva no limite de 5% (R$ 524 milhões), tarifa bônus ~0,0065; área técnica defendeu conservadorismo pelo fim da restituição da pandemia e do acordo de tarifa estável",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "pede vista em mesa; voto-vista: reserva de 4%",
+     "ts": "7:40:29",
+     "justificativa": "coerência com 2025 (3,07%); reserva deve mitigar riscos sem exceder o necessário; reserva maior reduz o bônus; +R$ 104,9 milhões (13,67%) no bônus",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Willam Frota",
+     "voto": "acompanha o voto-vista de Fernando Mosna",
+     "ts": "7:47:44",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a divergência (voto deixado)",
+     "ts": "7:47:50",
+     "justificativa": "de manhã sinalizou abertura à proposta de 4%",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a divergência",
+     "ts": "7:47:50",
+     "justificativa": "agradeceu a celeridade da área técnica",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:40:26",
+   "processo": "48500.004017/2025-12; 48500.0xxx687/2024; 48500.0x4800/2023-90 (números incertos)",
+   "interessado": "Gold Comercializadora de Energia (em recuperação judicial); distribuidoras; CEDRAP e Coopernorte (cooperativas)",
+   "assunto": "Resolução dos CCEARs, contratos do MCSD e contratos bilaterais regulados com a Gold Comercializadora",
+   "tema": [
+    "comercialização (CCEE, contratos)",
+    "fiscalização e sanções",
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Resolve os contratos; CCEE calcula penalidades; multas CBR CEDRAP R$ 2.620.735,79 e Coopernorte ~R$ 3,23 milhões; créditos habilitados na RJ; reversão à modicidade só quando efetivamente recuperados (diverge da SGM); SGM/STR em 270 dias propõem metodologia de máximo esforço das distribuidoras. Sustentação oral: Thiago Lis (ABRADEE).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "1:43:32",
+     "justificativa": "precedente Equatorial Pará/BBF e decisão sobre encargos rescisórios em RJ (relator Gentil); distribuidora não pode furar a fila do juízo recuperacional; evita enriquecimento sem causa dos consumidores",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:04:43",
+     "justificativa": "ressalvou que a analogia com transmissoras não é tão aderente (distribuidoras têm risco de mercado)",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "2:04:43",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willam Frota",
+     "voto": "acompanha o relator",
+     "ts": "2:04:43",
+     "justificativa": "",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "2:05:38",
+   "processo": "48500.0xx233/2025-15 (número incerto)",
+   "interessado": "autoprodutores (inclusive por equiparação)",
+   "assunto": "Procedimentos de autoprodução de energia elétrica após a Lei 15.269/2025 (alterações da Lei 9.074/1995) - fase de votação",
+   "tema": [
+    "regulação normativa",
+    "comercialização",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Agnes Costa",
+   "resultado": "aprovado por unanimidade, exceto item 3: prevaleceu por maioria a divergência de Willam Frota (transição máxima de 3 anos a partir da Lei 15.269/2025 para modelagens com usinas sem outorga)",
+   "resumo_voto": "Na reunião anterior Gentil acompanhou a relatora e Willam divergiu no item 3; faltavam Sandoval e Fernando.",
+   "votos": [
+    {
+     "diretor": "Agnes Costa",
+     "voto": "relatora (voto anterior); vencida no item 3",
+     "ts": "2:05:38",
+     "justificativa": "transição = maior entre 3 anos e o remanescente de prazo equivalente a outorga de 35 anos",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora (mantém voto); vencido no item 3",
+     "ts": "2:12:32",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willam Frota",
+     "voto": "diverge no item 3 (prazo máximo de 3 anos)",
+     "ts": "2:12:09",
+     "justificativa": "mantém divergência pela prioridade e urgência do tema",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a divergência de Willam Frota",
+     "ts": "2:06:44",
+     "justificativa": "registra dúvida: registros antigos já passados 35 anos ganhariam 3 anos, possível captura de renda (alerta do TCU); não quer atrasar a regulamentação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a divergência",
+     "ts": "2:12:35",
+     "justificativa": "lei foi objetiva; universo de ~295 registros, quase todos autoprodução 'raiz'",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "ts": "2:12:35",
+   "processo": "48500.008476/2026 (número incerto)",
+   "interessado": "Itapebi Geração de Energia SA (projeto de hidrogênio verde ligado à JBS/Seara)",
+   "assunto": "Pedido de reconsideração contra despacho que aprovou avaliação inicial de propostas de P&D da Chamada 23 (hidrogênio)",
+   "tema": [
+    "recursos administrativos",
+    "outros (P&D)"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "negado provimento por maioria (voto-vista de Willam Frota); Gentil mudou o voto para evitar empate",
+   "resumo_voto": "Fase de votação. Relator havia votado pelo provimento, acompanhado por Agnes; Willam apresentou voto-vista negando provimento. Fernando declarou suspeição; com empate 2x2, Gentil passou a acompanhar a divergência; o voto de Agnes permaneceu com o voto original do relator.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator: dava provimento; mudou o voto e acompanha o voto-vista de Willam Frota",
+     "ts": "2:18:02",
+     "justificativa": "mudou por colegialidade para desfazer o empate",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes Costa",
+     "voto": "acompanhou o relator (provimento) - voto anterior; vencida",
+     "ts": "2:12:35",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willam Frota",
+     "voto": "voto-vista: conhecer e negar provimento",
+     "ts": "2:12:35",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o voto-vista de Willam Frota",
+     "ts": "2:15:48",
+     "justificativa": "",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "declara suspeição",
+     "ts": "2:15:28",
+     "justificativa": "processo envolve o grupo J&F (JBS/Seara)",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "ts": "2:18:31",
+   "processo": "48500.005002/2025-01 (número incerto)",
+   "interessado": "Hospital (nome incerto na legenda: 'Haroldo Jua')",
+   "assunto": "Recurso contra despacho da SMA que negou compensação financeira por descumprimento de prazos",
+   "tema": [
+    "recursos administrativos",
+    "consumidor"
+   ],
+   "relator": "não identificado",
+   "resultado": "sem deliberação: vista concedida a Fernando Mosna (placar 2x2)",
+   "resumo_voto": "Sandoval acompanhou o relator; voto-vista de Agnes acompanhado por Willam; faltava Fernando.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "pede vista",
+     "ts": "2:19:55",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanhou o relator (voto anterior)",
+     "ts": "2:18:31",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes Costa",
+     "voto": "voto-vista (anterior), divergente do relator",
+     "ts": "2:18:31",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Willam Frota",
+     "voto": "acompanhou o voto-vista de Agnes (anterior)",
+     "ts": "2:18:31",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "2:19:55",
+   "processo": "48500.0x2339/2024-11 (número incerto)",
+   "interessado": "distribuidoras; fabricantes de medidores; consumidores do grupo B",
+   "assunto": "Abertura da 2ª fase da Consulta Pública 1/2026 - requisitos mínimos dos sistemas de medição inteligente (Portaria MME 126/2026)",
+   "tema": [
+    "regulação normativa (consulta pública)",
+    "distribuição (medição inteligente)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Instaura 2ª fase da CP 1/2026 por intercâmbio documental por 45 dias (área sugeria 30); define sistema de medição inteligente (medidor, interface, comunicação, gestão), 4 quadrantes, integralização 5-60 min, memória de massa, antifraude, cibersegurança e interoperabilidade sem padrões rígidos. Relator recusou deliberar sem a STD presente e leu o voto.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "2:21:47",
+     "justificativa": "prazo de 45 dias pela relevância estrutural do tema",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator",
+     "ts": "2:51:52",
+     "justificativa": "parabenizou o relator e as áreas",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "2:52:01",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willam Frota",
+     "voto": "acompanha o relator",
+     "ts": "2:52:01",
+     "justificativa": "",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "2:52:01",
+   "processo": "48500.007603/2025-19",
+   "interessado": "São Francisco Transmissão de Energia SA (controle passaria de T Square para BTG Pactual Energy FIP); LT 230 kV Morro do Chapéu II-Irecê em atraso",
+   "assunto": "Anuência prévia à transferência de controle societário indireto com alteração do cronograma de implantação (CC 18/2018) - voto-vista",
+   "tema": [
+    "transmissão",
+    "fiscalização e sanções"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "sem deliberação: empate 2x2; retorna com a diretora Agnes presente",
+   "resumo_voto": "Gentil (relator) anui e aprova novo cronograma até 30/08/2027 (precedente ETTM); aceita acrescentar que o novo cronograma não elide responsabilidade pelo atraso. Fernando (voto-vista) anui a transferência mas não aprova cronograma nem aditivo, por falta de motivação qualificada (art. 20 LINDB; Parecer 129/2026 da Procuradoria); multa editalícia estimada pela SFT de R$ 46 a 70 milhões. Falou a diretora jurídica da empresa (Júlia) sobre prazo de 30/06 do plano de recuperação extrajudicial.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator, aprova transferência e novo cronograma (com ajuste: não elide responsabilidade)",
+     "ts": "4:08:43",
+     "justificativa": "obra ~90% concluída e paralisada; importante para escoamento de renováveis do Nordeste e curtailment; novo cronograma cria nova obrigação e incentivo ao novo controlador",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "voto-vista: diverge parcialmente - anui à transferência, não aprova cronograma nem aditivo",
+     "ts": "2:56:19",
+     "justificativa": "vantajosidade não pode ser só cronológica; precedente ETTM usado parcialmente (era art. 4º-C); risco moral para leilões; efeitos sobre o TIP 34/2023",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Willam Frota",
+     "voto": "altera o voto e acompanha o voto-vista de Fernando Mosna",
+     "ts": "4:32:30",
+     "justificativa": "agente tem a obrigação de executar as obras no cronograma; elogia parecer da Procuradoria",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator Gentil Nogueira",
+     "ts": "4:34:04",
+     "justificativa": "para oportunizar manifestação de Agnes e colegiado completo, dada a relevância da jurisprudência; ressaltou risco de percepção de 'terceiro turno' nos leilões de transmissão",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "9",
+   "ts": "5:51:25",
+   "processo": "48500.003xxx/2024 (número incerto)",
+   "interessado": "Light Energia SA (complexo de Lajes; UHE Nilo Peçanha; reservatórios Vigário e Ponte Coberta, RJ)",
+   "assunto": "Marco para conclusão do túnel de transposição (bypass) Vigário-Ponte Coberta (REA 6185/2017; segurança hídrica do sistema Guandu)",
+   "tema": [
+    "outorgas de geração (hidrelétrica)",
+    "fiscalização e sanções"
+   ],
+   "relator": "Willam Frota",
+   "resultado": "aprovado com dispositivo consensual reescrito pelo relator (declarar 31/03/2028, fim da concessão, como data de conclusão; conclusões consideradas pela SCE na prorrogação; SFT fiscaliza a Light); proclamado 'por maioria'",
+   "resumo_voto": "Voto original de Willam fixava 31/03/2028 (nota técnica 72/2026); voto-vista de Gentil negava fixação e propunha recomendação ao poder concedente; voto-vista coletivo de Sandoval negava fixação (prazo implícito no fim da concessão). Fernando propôs solução declaratória; discutido e suspenso; dispositivo reformulado votado no fim da sessão.",
+   "votos": [
+    {
+     "diretor": "Willam Frota",
+     "voto": "relator, aprova (dispositivo ajustado)",
+     "ts": "7:51:01",
+     "justificativa": "obrigação contratual desde 1996; consenso entre assessorias",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista coletivo (negar fixação de prazo + fiscalização); ao final acompanha o relator (voto deixado)",
+     "ts": "5:51:25",
+     "justificativa": "prazo já é o fim da concessão; fixar poderia ser visto como obrigação nova e inexequível; obra 27% e desmobilizada; ressarcimento só se o ativo entrar em serviço",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "voto-vista anterior; ao final vota com o relator",
+     "ts": "7:52:48",
+     "justificativa": "insistiu em levar o tema à prorrogação da concessão para não perder a oportunidade da redundância hídrica",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "vota com o relator",
+     "ts": "7:51:01",
+     "justificativa": "propôs efeito meramente declaratório do prazo e possível novação pelo poder concedente",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes Costa",
+     "voto": "voto anterior (conteúdo não informado)",
+     "ts": "7:52:48",
+     "justificativa": "",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "ts": "6:52:12",
+   "processo": "48500.00915x/2025 (número incerto)",
+   "interessado": "Enel Distribuição São Paulo",
+   "assunto": "Reajuste tarifário anual 2026 da Enel SP (a partir de 4/7/2026)",
+   "tema": [
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Agnes Costa (ausente; lido pelo diretor-geral)",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Efeito médio 10,18% (AT 15%, BT 8,97%). Representante do Conselho de Consumidores (Gilmar Ogawa) não pôde fazer sustentação por atraso da sessão.",
+   "votos": [
+    {
+     "diretor": "Agnes Costa",
+     "voto": "relatora, aprova",
+     "ts": "6:54:01",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "6:55:37",
+     "justificativa": "",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha a relatora",
+     "ts": "6:55:35",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Willam Frota",
+     "voto": "acompanha a relatora",
+     "ts": "6:55:35",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "6:55:37",
+     "justificativa": "",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "6:56:12",
+   "processo": "48500.002524/2025-97 (número incerto)",
+   "interessado": "Axia Energia Norte SA (UHE Tucuruí, subestação)",
+   "assunto": "Reclassificação de substituição de equipamentos da subestação da UHE Tucuruí como reforço (e não melhoria)",
+   "tema": [
+    "outorgas de geração (hidrelétrica)",
+    "recursos administrativos"
+   ],
+   "relator": "Gentil Nogueira",
+   "resultado": "retirado de pauta pelo relator para parecer da Procuradoria",
+   "resumo_voto": "Sustentação oral de Camila Alves (Axia). Procuradoria não teve juízo conclusivo sobre a cláusula do novo contrato. Relator criticou não ter constado obrigação clara no contrato de renovação.",
+   "votos": [
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "relator retira de pauta e pede parecer da Procuradoria",
+     "ts": "7:05:21",
+     "justificativa": "incomodado em pagar reforço de transformador elevador na geração; questão jurídica sobre a cláusula contratual",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "25",
+   "ts": "7:09:36",
+   "processo": "48500.016875/2026-6x (número incerto)",
+   "interessado": "Palavan Ventures One, Two e Three (data centers; controladora Cloud HQ)",
+   "assunto": "Medida cautelar para que o ONS reconsidere pareceres de acesso (incremento de MUST) mantendo os data centers na fila (Decreto 12.772/2025, PNAST)",
+   "tema": [
+    "transmissão (acesso)",
+    "recursos administrativos"
+   ],
+   "relator": "Willam Frota",
+   "resultado": "sem deliberação: pedido de vista",
+   "resumo_voto": "Relator nega a cautelar e remete o mérito à STD. Sustentação oral de Roberta (Palavan). Debate sobre dois casos similares com cautelar concedida (um, ODATA).",
+   "votos": [
+    {
+     "diretor": "Willam Frota",
+     "voto": "relator, nega provimento à cautelar",
+     "ts": "7:21:03",
+     "justificativa": "mantém o voto após a sustentação",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "pede vista",
+     "ts": "7:23:38",
+     "justificativa": "a legenda registra «em votação, eu voto com o relator. Eu vou pedir vista do processo» sem identificar falantes",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "ts": "7:23:38",
+   "processo": "48500.007230/2026-41",
+   "interessado": "Infracoop - Confederação Nacional das Cooperativas de Infraestrutura (17 permissionárias expostas pela inadimplência da Electra)",
+   "assunto": "Medida cautelar para caracterizar como involuntária a exposição ao MCP das permissionárias e constituir CVA",
+   "tema": [
+    "comercialização (MCP, MCSD)",
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Willam Frota",
+   "resultado": "aprovado por unanimidade (proclamado inicialmente 'por maioria' e corrigido)",
+   "resumo_voto": "Conhece e nega a cautelar, mas flexibiliza prazos para certame por permissionária até agosto/2026 (mínimo 7 dias entre edital e certame). Sustentação oral de Anderson Silva de Menezes (Infracoop), com a OCB; pediu reabertura do MCSD A-0, não atendida. Sessão presidida por Gentil Nogueira.",
+   "votos": [
+    {
+     "diretor": "Willam Frota",
+     "voto": "relator, nega cautelar e flexibiliza prazos",
+     "ts": "7:36:21",
+     "justificativa": "",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "7:38:06",
+     "justificativa": "relator teve sensibilidade ao flexibilizar prazos, embora não resolva todo o problema das comercializadoras",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (voto deixado)",
+     "ts": "7:38:57",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "7:39:01",
+     "justificativa": "",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "34",
+   "ts": "7:47:58",
+   "processo": "48500.001976/2025-10",
+   "interessado": "UHE Belo Monte (Norte Energia); MME",
+   "assunto": "Atualização monetária dos recursos do Plano de Desenvolvimento Regional Sustentável do Xingu (PDRSX)",
+   "tema": [
+    "outorgas de geração (hidrelétrica)",
+    "institucional"
+   ],
+   "relator": "Willam Frota",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Encaminha ao MME manifestação de que não é juridicamente admissível impor atualização monetária aos recursos do PDRSX (falta de previsão expressa; vinculação ao instrumento convocatório). Destacado por Sandoval.",
+   "votos": [
+    {
+     "diretor": "Willam Frota",
+     "voto": "relator, aprova",
+     "ts": "7:49:13",
+     "justificativa": "",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "7:50:14",
+     "justificativa": "",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha o relator (voto deixado)",
+     "ts": "7:50:20",
+     "justificativa": "",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Gentil Nogueira",
+     "voto": "acompanha o relator",
+     "ts": "7:50:23",
+     "justificativa": "",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "2",
+   "motivo": "retirado de pauta antes da sessão"
+  },
+  {
+   "id": "15",
+   "motivo": "retirado de pauta durante a sessão"
+  },
+  {
+   "id": "14",
+   "motivo": "retirado pelo relator para parecer da Procuradoria"
+  }
+ ],
+ "limites_da_analise": [
+  "Números de processo e valores vêm da legenda automática e estão frequentemente truncados; marcados como incertos.",
+  "Falantes não identificados na transcrição: em votos de quem 'acompanha', a atribuição ao diretor é inferida pela ordem e é aproximada.",
+  "Item 25: não foi possível identificar quem pediu vista (registrado como 'não identificado'); possivelmente Gentil Nogueira ou Sandoval Feitosa.",
+  "Item 13: na fase da manhã alguém disse 'Eu também acompanho a relatora' (1:40:19) sem identificação; à tarde Willam, Sandoval e Gentil acompanharam a divergência.",
+  "Item 7: relator original não citado na sessão; nome do hospital incerto ('Haroldo Jua').",
+  "Item 9: proclamado 'por maioria' sem indicar o voto divergente; voto anterior de Agnes Costa não descrito.",
+  "Item 26: proclamado 'por maioria' e corrigido para unanimidade; voto de Fernando Mosna não explícito.",
+  "Nomes fora da lista canônica citados: procurador-geral Eduardo Ramalho; secretária-geral adjunta Renata; ex-diretores Elvio Guerra e 'Elisa' (precedente ETTM); servidores Leonardo Mendonça (STR), Denis, Leandro, Robson, Marcos Vinícius (STD), André Ruelli (SMA); sustentantes Thiago Lis (ABRADEE), Camila Alves (Axia), Roberta Aracaque (Palavan), Anderson Silva de Menezes (Infracoop), Tainá Cortez (OCB); Júlia (diretora jurídica da São Francisco); Gilmar Ogawa (conselho de consumidores Enel SP)."
+ ]
+}

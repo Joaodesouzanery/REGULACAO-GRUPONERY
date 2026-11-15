@@ -1,0 +1,40 @@
+{
+ "sigla": "aneel",
+ "nome": "Agência Nacional de Energia Elétrica",
+ "canal": "@aneel",
+ "playlists": [],
+ "atas_url": "",
+ "diretores": [
+  "Sandoval Feitosa",
+  "Agnes da Costa",
+  "Gentil Nogueira",
+  "Willamy Frota",
+  "Ludimila Lima",
+  "Fernando Mosna"
+ ],
+ "alias": {
+  "Agnes Costa": "Agnes da Costa",
+  "Ludimila Silva": "Ludimila Lima",
+  "Willam Frota": "Willamy Frota",
+  "Willam": "Willamy Frota",
+  "Fernando": "Fernando Mosna"
+ },
+ "rx_nomes": "",
+ "temas": [
+  "tarifas_revisao_tarifaria",
+  "geracao_distribuida",
+  "transmissao",
+  "leiloes",
+  "fiscalizacao_sancoes",
+  "cde_encargos",
+  "outorgas_geracao",
+  "regulacao_normativa",
+  "comercializacao",
+  "recursos_recursais",
+  "outros"
+ ],
+ "_preencher": "diretores/alias/rx_nomes via pesquisador-mandatos; temas do setor (ver exemplos em data/antaq e data/anm)",
+ "filtro_titulo_diretoria": "Reunião Pública (Ordinária|Extraordinária) da Diretoria",
+ "desde": "2018-01-01",
+ "prioridade_comercial": "ANEEL e ANP: porta grande de mercado — qualidade máxima (conferência cega, auditor em toda entrega, fotos oficiais em alta)"
+}

@@ -5,7 +5,10 @@ def ultimo_commit(pat):
     r = subprocess.run(["git", "log", "-1", "--format=%cs", "--", pat], capture_output=True, text=True).stdout.strip()
     return datetime.date.fromisoformat(r) if r else None
 print(f"# Pendências — {H:%d/%m/%Y}")
-for ag, d in (("antt", "data"), ("anm", "data/anm"), ("antaq", "data/antaq")):
+print("- ⭐ LEMBRETE COMERCIAL: ANEEL e ANP têm porta grande de mercado (comprador já identificado) — qualidade máxima (skill qualidade-maxima): conferência cega, auditor em toda entrega, fotos oficiais em alta.")
+for _ag in ("aneel", "anp"):
+    if not os.path.exists(f"data/{_ag}/regulacao.db"): print(f"- {_ag.upper()}: base ainda não montada → skill nova-agencia-energia")
+for ag, d in (("antt", "data"), ("anm", "data/anm"), ("antaq", "data/antaq"), ("aneel", "data/aneel")):
     u = ultimo_commit(f"{d}/transcricoes")
     if u and (H - u).days > 7: print(f"- {ag.upper()}: última coleta do Mac em {u:%d/%m} ({(H-u).days} dias) → rodar no Mac: caffeinate -i bash pipeline/coletar_todas.sh")
     V = [json.loads(l) for l in open(f"{d}/videos.jsonl")] if os.path.exists(f"{d}/videos.jsonl") else []
@@ -17,7 +20,7 @@ for ag, d in (("antt", "data"), ("anm", "data/anm"), ("antaq", "data/antaq")):
 m = ultimo_commit("data/mandatos.json")
 if H.day <= 7 and (not m or m.month != H.month): print("- Checagem mensal do dia 1 ainda não feita → skill checagem-mensal")
 # Proposta 2: pautas, alertas, boletins, contratos
-for ag, d in (("antt", "data"), ("anm", "data/anm"), ("antaq", "data/antaq")):
+for ag, d in (("antt", "data"), ("anm", "data/anm"), ("antaq", "data/antaq"), ("aneel", "data/aneel")):
     cal = json.load(open(f"{d}/calendario.json")) if os.path.exists(f"{d}/calendario.json") else []
     prox = [c for c in cal if 0 <= (datetime.date.fromisoformat(c["data"]) - H).days <= 10]
     for c in prox:
