@@ -29,7 +29,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2020 | diretoria | 90 | 85 | 0 |
 | 2020 | audiencia | 9 | 0 | 0 |
 | 2019 | workshop | 8 | 0 | 0 |
-| 2019 | diretoria | 77 | 7 | 0 |
+| 2019 | diretoria | 77 | 19 | 0 |
 | 2019 | audiencia | 19 | 0 | 0 |
 | 2018 | workshop | 8 | 0 | 0 |
 | 2018 | diretoria | 69 | 0 | 0 |
@@ -609,5 +609,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2019-12-03 · 45ª Reunião Pública Ordinária ANEEL - 03/12/2019 - Parte2 · `WiMA4s5slCE`
 - 2019-12-03 · 45ª Reunião Pública Ordinária ANEEL - 03/12/2019 - Parte 1 · `godabJSHypU`
 - 2019-11-26 · 44ª Reunião Pública Ordinária ANEEL – 26/11/2019 · `wKARWQEqGZI`
+- 2019-11-19 · 43ª Reunião Pública Ordinária ANEEL – 19/11/2019 · `GDF5vMxKqTQ`
+- 2019-11-12 · 42ª Reunião Pública Ordinária ANEEL – 12/11/2019 · `13LiIuTYl6U`
+- 2019-11-12 · 15 anos da Reunião Pública da Diretoria da ANEEL - Parte 2 · `oh2rxcsRFoM`
+- 2019-11-12 · 15 anos da Reunião Pública da Diretoria da ANEEL - Parte 1 · `f9TU2FyudKQ`
+- 2019-11-05 · 41ª Reunião Pública Ordinária ANEEL – 05/11/2019 · `kBKF0M035HE`
+- 2019-10-29 · 40ª Reunião Pública Ordinária ANEEL – 29/10/2019 · `pKeBoCqkenQ`
+- 2019-10-22 · 39ª Reunião Pública Ordinária ANEEL – 22/10/2019 – Parte 2 · `XsXtFmAaCMc`
+- 2019-10-22 · 39ª Reunião Pública Ordinária ANEEL – 22/10/2019 - Parte  1 · `NVd7jhmSIDY`
+- 2019-10-15 · 38ª Reunião Pública Ordinária ANEEL – 15/10/2019 - Parte 2 · `aMg6dLjiytI`
+- 2019-10-08 · 15 anos da Reunião Pública da Diretoria da ANEEL · `cB_HqCNs60E`
+- 2019-10-01 · 36ª Reunião Pública Ordinária ANEEL – 01/10/2019 · `fdjpZtxi_eo`
+- 2019-09-24 · 35ª Reunião Pública Ordinária ANEEL – 24/09/2019 · `fqUGMcBuZiY`
 
-Vídeos sem legenda registrados: 13 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 16 (ver `data/sem_legenda.jsonl`).
