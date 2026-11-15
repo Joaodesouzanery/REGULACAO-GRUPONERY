@@ -8,10 +8,10 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | sem data | diretoria | 36 | 0 | 0 |
 | sem data | audiencia | 5 | 0 | 0 |
 | 2026 | workshop | 15 | 2 | 2 |
-| 2026 | diretoria | 46 | 35 | 11 |
+| 2026 | diretoria | 46 | 45 | 11 |
 | 2026 | audiencia | 4 | 3 | 3 |
 | 2025 | workshop | 9 | 0 | 0 |
-| 2025 | diretoria | 97 | 0 | 0 |
+| 2025 | diretoria | 97 | 2 | 0 |
 | 2025 | audiencia | 9 | 0 | 0 |
 | 2024 | workshop | 16 | 0 | 0 |
 | 2024 | diretoria | 103 | 0 | 0 |
@@ -69,3 +69,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2026-03-10 · 5ª Reunião Pública Ordinária ANEEL – 10/3/2026 – Parte 2 · `XDXxMneIEA0`
 - 2026-03-10 · 5ª Reunião Pública Ordinária ANEEL – 10/3/2026 – Parte 1 · `2N-SQvMf8Vc`
 - 2026-02-24 · 4ª Reunião Pública Ordinária ANEEL – 24/2/2026 · `M7UOgM01BSU`
+- 2026-02-13 · 2ª Reunião Pública Extraordinária da Diretoria da ANEEL de 2026 · `PtSzOQxp4BY`
+- 2026-02-13 · 2ª Reunião Pública Extraordinária ANEEL – 13/2/2026 · `pkQIB2NZ55M`
+- 2026-02-12 · 1ª Reunião Pública Extraordinária da Diretoria da ANEEL de 2026 · `dWod609SVjQ`
+- 2026-02-11 · 3ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `BasqubY7S3s`
+- 2026-02-11 · 1ª Reunião Pública Extraordinária ANEEL – 11/2/2026 · `2MbcvvXDe0c`
+- 2026-02-10 · 3ª Reunião Pública Ordinária ANEEL – 10/2/2026 · `g4l0mMe-iEM`
+- 2026-01-27 · 2ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `83fLzZL2WIk`
+- 2026-01-27 · 2ª Reunião Pública Ordinária ANEEL – 27/1/2026 · `2WbtG0E3Ap4`
+- 2026-01-21 · 1ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `nbGTzQ_GkIo`
+- 2026-01-20 · 1ª Reunião Pública Ordinária ANEEL – 20/1/2026 · `u7f_05SSyIg`
+- 2025-12-19 · 2ª Reunião Pública Extraordinária da Diretoria da ANEEL de 2025 · `8ji67WrAHKQ`
+- 2025-12-18 · 2ª Reunião Pública Extraordinária ANEEL – 18/12/2025 · `8DYJpmqe0_Y`
+
+Vídeos sem legenda registrados: 1 (ver `data/sem_legenda.jsonl`).
