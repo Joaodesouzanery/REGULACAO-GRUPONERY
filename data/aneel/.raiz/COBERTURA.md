@@ -17,7 +17,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2024 | diretoria | 103 | 102 | 0 |
 | 2024 | audiencia | 6 | 0 | 0 |
 | 2023 | workshop | 9 | 0 | 0 |
-| 2023 | diretoria | 82 | 57 | 0 |
+| 2023 | diretoria | 82 | 69 | 0 |
 | 2023 | audiencia | 26 | 0 | 0 |
 | 2022 | workshop | 6 | 0 | 0 |
 | 2022 | diretoria | 79 | 0 | 0 |
@@ -333,5 +333,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2023-06-20 · 21ª Reunião Pública Ordinária ANEEL – 20/06/2023 – Parte 1 · `ssM448oxGOM`
 - 2023-06-13 · 20ª Reunião Pública Ordinária ANEEL – 13/06/2023 · `9HXMK_GBV5Y`
 - 2023-06-06 · 19ª Reunião Pública Ordinária ANEEL – 06/06/2023 · `uwScFt-FelI`
+- 2023-05-30 · 18ª Reunião Pública Ordinária ANEEL – 30/05/2023 · `fLc6r_feEt8`
+- 2023-05-23 · 17ª Reunião Pública Ordinária ANEEL – 23/05/2023 · `iWDxNN1CNPk`
+- 2023-05-16 · 16ª Reunião Pública Ordinária ANEEL – 16/05/2023 · `qlZX_2G3xQ4`
+- 2023-05-09 · 15ª Reunião Pública Ordinária ANEEL – 09/05/2023 · `8kWc99E-0kU`
+- 2023-05-02 · 14ª Reunião Pública Ordinária ANEEL – 02/05/2023 · `cpM9rx1c2ZM`
+- 2023-04-25 · 13ª Reunião Pública Ordinária ANEEL – 25/04/2023 · `8igqGVndMss`
+- 2023-04-18 · 12ª Reunião Pública Ordinária ANEEL – 18/04/2023 · `oixs1vJ7OPY`
+- 2023-04-11 · 11ª Reunião Pública Ordinária ANEEL – 11/04/2023 · `hxRfJWD2kZA`
+- 2023-04-04 · 10ª Reunião Pública Ordinária ANEEL – 04/04/2023 – Parte 2 · `hO_uDnb1o8Y`
+- 2023-04-04 · 10ª Reunião Pública Ordinária ANEEL – 04/04/2023 – Parte 1 · `9GBjZ4sScXo`
+- 2023-03-28 · 9ª Reunião Pública Ordinária ANEEL – 28/03/2023 · `QupP9pMDDeU`
+- 2023-03-21 · 8ª Reunião Pública Ordinária ANEEL – 21/03/2023 · `EZmbX6XkC1w`
 
 Vídeos sem legenda registrados: 4 (ver `data/sem_legenda.jsonl`).
