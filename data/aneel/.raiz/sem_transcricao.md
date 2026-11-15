@@ -2,20 +2,8 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **7346** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 35; 2026/audiencia: 1; 2025/workshop: 9; 2025/diretoria: 97; 2025/audiencia: 9; 2024/workshop: 16; 2024/diretoria: 103; 2024/audiencia: 6; 2023/workshop: 9; 2023/diretoria: 82; 2023/audiencia: 26; 2022/workshop: 6; 2022/diretoria: 79; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 84; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 90; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 77; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 407; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 712; 2017/audiencia: 2; 2016/diretoria: 777; 2015/diretoria: 833; 2014/diretoria: 1065; 2013/diretoria: 1359; 2012/diretoria: 1244
+Total: **7334** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 23; 2026/audiencia: 1; 2025/workshop: 9; 2025/diretoria: 97; 2025/audiencia: 9; 2024/workshop: 16; 2024/diretoria: 103; 2024/audiencia: 6; 2023/workshop: 9; 2023/diretoria: 82; 2023/audiencia: 26; 2022/workshop: 6; 2022/diretoria: 79; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 84; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 90; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 77; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 407; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 712; 2017/audiencia: 2; 2016/diretoria: 777; 2015/diretoria: 833; 2014/diretoria: 1065; 2013/diretoria: 1359; 2012/diretoria: 1244
 
-- 2026-07-28 · diretoria · 15ª Reunião Pública Ordinária ANEEL – 28/7/2026 – Parte 2 · https://www.youtube.com/watch?v=_GXOZF3CTVE · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-07-28 · diretoria · 15ª Reunião Pública Ordinária ANEEL – 28/7/2026 – Parte 1 · https://www.youtube.com/watch?v=0_5ZSSlbkcI · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-07-14 · diretoria · 14ª Reunião Pública Ordinária ANEEL – 14/7/2026 · https://www.youtube.com/watch?v=HeKJLmOBlcI · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-06-30 · diretoria · 13ª Reunião Pública Ordinária ANEEL – 30/6/2026 – Parte 2 · https://www.youtube.com/watch?v=dNb7BKCd75M · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-06-30 · diretoria · 13ª Reunião Pública Ordinária ANEEL – 30/6/2026 – Parte 1 · https://www.youtube.com/watch?v=MWHmT1Oatqc · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-06-22 · diretoria · 4ª Reunião Pública Extraordinária ANEEL – 22/6/2026 · https://www.youtube.com/watch?v=3JWO5tkDQ4k · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-06-17 · diretoria · 12ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · https://www.youtube.com/watch?v=Lhl19fS3jnU · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-06-16 · diretoria · 12ª Reunião Pública Ordinária ANEEL – 16/6/2026 · https://www.youtube.com/watch?v=jgFV8heabWw · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-06-02 · diretoria · 11ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · https://www.youtube.com/watch?v=hMMZn8NbS6o · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-06-02 · diretoria · 11ª Reunião Pública Ordinária ANEEL – 2/6/2026 · https://www.youtube.com/watch?v=LTr2cvJK4eY · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-05-20 · diretoria · 10ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · https://www.youtube.com/watch?v=mMzlOUa6zIo · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-05-19 · diretoria · 10ª Reunião Pública Ordinária ANEEL – 19/5/2026 · https://www.youtube.com/watch?v=ak4ob_aPFPk · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-05-06 · diretoria · 9ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · https://www.youtube.com/watch?v=e651C6iP6oA · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-05-05 · diretoria · 9ª Reunião Pública Ordinária ANEEL – 5/5/2026 · https://www.youtube.com/watch?v=3zfdHaNlbfc · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-29 · audiencia · Audiência Pública 2/2026 – Copel Distribuição – 29/4/2026 · https://www.youtube.com/watch?v=RQBXXb4uxL4 · **ainda não baixado (rodar a coleta no Mac)**
