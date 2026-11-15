@@ -23,7 +23,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2022 | diretoria | 79 | 78 | 0 |
 | 2022 | audiencia | 16 | 0 | 0 |
 | 2021 | workshop | 4 | 0 | 0 |
-| 2021 | diretoria | 84 | 29 | 0 |
+| 2021 | diretoria | 84 | 41 | 0 |
 | 2021 | audiencia | 33 | 0 | 0 |
 | 2020 | workshop | 2 | 0 | 0 |
 | 2020 | diretoria | 90 | 0 | 0 |
@@ -465,5 +465,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2021-09-21 · 35ª Reunião Pública Ordinária ANEEL – 21/09/2021 · `4KoBtXqkhUo`
 - 2021-09-14 · 34ª Reunião Pública Ordinária ANEEL – 14/09/2021 · `RHWyQNP0tT0`
 - 2021-09-10 · 9ª Reunião Pública Extraordinária ANEEL – 10/09/2021 · `mlTPJ-dOt1w`
+- 2021-09-08 · 33ª Reunião Pública Ordinária ANEEL – 08/09/2021 · `EjmmHQhMAWk`
+- 2021-09-01 · 32ª Reunião Pública Ordinária ANEEL – 01/09/2021 · `MLqsesoew_w`
+- 2021-08-31 · 8ª Reunião Pública Extraordinária ANEEL – 31/08/2021 · `sB8PJcFJntM`
+- 2021-08-24 · 31ª Reunião Pública Ordinária ANEEL – 24/08/2021 · `kULXgdMBrxc`
+- 2021-08-17 · 30ª Reunião Pública Ordinária ANEEL – 17/08/2021 – Parte 2 · `q7HBNtF6OfM`
+- 2021-08-17 · 30ª Reunião Pública Ordinária ANEEL – 17/08/2021 – Parte 1 · `ABgXad3_-HQ`
+- 2021-08-10 · 29ª Reunião Pública Ordinária ANEEL – 10/08/2021 – Parte 2 · `456hHrddSdg`
+- 2021-08-06 · 28ª Reunião Pública Ordinária ANEEL – 06/08/2021 – Parte 2 · `3hkkMkBHIFU`
+- 2021-08-03 · 28ª Reunião Pública Ordinária ANEEL – 03/08/2021 – Parte 1 · `BYlZpNUmj38`
+- 2021-07-27 · 27ª Reunião Pública Ordinária ANEEL – 27/07/2021 · `6q-ioV_lqcY`
+- 2021-07-20 · 26ª Reunião Pública Ordinária ANEEL – 20/07/2021 · `V73Dgae3ScM`
+- 2021-07-13 · 25ª Reunião Pública Ordinária ANEEL – 13/07/2021 – Parte 2 · `lhYvl0_lwok`
 
-Vídeos sem legenda registrados: 5 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 6 (ver `data/sem_legenda.jsonl`).
