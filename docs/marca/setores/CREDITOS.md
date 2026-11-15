@@ -46,3 +46,32 @@ rodovias e onibus: mantidas as fotos anteriores (não se achou candidata no novo
 | opcoes/rodovias_r2_3.jpg (1920 px) | A70 Memmelsdorf Luftbild-20221113-RM-154506.jpg | Ermell | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:A70_Memmelsdorf_Luftbild-20221113-RM-154506.jpg |
 | opcoes/onibus_r2_1.jpg (1920 px) | Atlantic Charter & Tours Marcopolo Paradiso 1200 (16503704823).jpg | Bob Adams from Amanzimtoti, South Africa | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Atlantic_Charter_%26_Tours_Marcopolo_Paradiso_1200_(16503704823).jpg |
 | opcoes/onibus_r2_2.jpg (1920 px) | Setra S416GT-HD bus from Slovakia.JPG | High Contrast | CC BY 3.0 de | https://commons.wikimedia.org/wiki/File:Setra_S416GT-HD_bus_from_Slovakia.JPG |
+
+
+## Kit visual por setor (2026-11-15) — kit/<setor>_{capa,divisor_1,divisor_2}.jpg, 1800 px, q70
+
+Novas fotos via Openverse (fonte Wikimedia Commons). Linhas com "=" reutilizam arquivo já creditado acima.
+
+| Arquivo | Foto | Autor | Licença | Fonte |
+|---|---|---|---|---|
+| kit/portos_capa.jpg | = portos.jpg (Usien, CC BY-SA 3.0) (crédito completo acima) | | | |
+| kit/portos_divisor_1.jpg | = navegacao.jpg (Dietmar Rabich, CC BY-SA 4.0) (crédito completo acima) | | | |
+| kit/portos_divisor_2.jpg | Aerial image of the Bremerhaven container terminal (view from the southeast) | Carsten Steger | CC BY-SA 4.0 | https://commons.wikimedia.org/w/index.php?curid=153800332 |
+| kit/rodovias_capa.jpg | = opcoes/rodovias_r2_1.jpg (Ermell, CC BY-SA 4.0) (crédito completo acima) | | | |
+| kit/rodovias_divisor_1.jpg | = opcoes/rodovias_r2_3.jpg (Ermell, CC BY-SA 4.0) (crédito completo acima) | | | |
+| kit/rodovias_divisor_2.jpg | = opcoes/rodovias_r2_2.jpg (Ermell, CC BY-SA 4.0) (crédito completo acima) | | | |
+| kit/ferrovias_capa.jpg | = ferrovias.jpg (Kabelleger / David Gubler, CC BY-SA 4.0) (crédito completo acima) | | | |
+| kit/ferrovias_divisor_1.jpg | Freight train in northern Afghanistan-2012 | Julian-G. Albert | CC BY 2.0 | https://commons.wikimedia.org/w/index.php?curid=20250223 |
+| kit/ferrovias_divisor_2.jpg | HK 661 004 with a freight train at Kaçanik | Kabelleger / David Gubler (http://www.bahnbilder.ch) | CC BY-SA 3.0 | https://commons.wikimedia.org/w/index.php?curid=7517885 |
+| kit/mineracao_capa.jpg | = mineracao.jpg (Diego Delso, CC BY-SA 4.0) (crédito completo acima) | | | |
+| kit/mineracao_divisor_1.jpg | = opcoes/mineracao_r2_1.jpg (darrylkeith, CC BY-SA 3.0) (crédito completo acima) | | | |
+| kit/mineracao_divisor_2.jpg | = opcoes/mineracao_r2_3.jpg (Calistemon, CC BY-SA 4.0) (crédito completo acima) | | | |
+| kit/energia_capa.jpg | = energia.jpg (Achim Lammerts, CC BY-SA 4.0) (crédito completo acima) | | | |
+| kit/energia_divisor_1.jpg | = opcoes/energia_2.jpg (Tycho, CC BY-SA 3.0) (crédito completo acima) | | | |
+| kit/energia_divisor_2.jpg | High-voltage power line pylon near Krishnapur, LKPR | Kh627 | CC BY-SA 3.0 | https://commons.wikimedia.org/w/index.php?curid=31126082 |
+| kit/agua_capa.jpg | = barragens.jpg (Christian David, CC BY-SA 4.0) (crédito completo acima) | | | |
+| kit/agua_divisor_1.jpg | Shimen Reservoir Dam 石門水庫大壩 - panoramio | lienyuan lee | CC BY 3.0 | https://commons.wikimedia.org/w/index.php?curid=57515881 |
+| kit/agua_divisor_2.jpg | = opcoes/barragens_r2_1.jpg (Cesar I. Martins, CC BY 2.0) (crédito completo acima) | | | |
+| kit/petroleo_gas_capa.jpg | Oil platform P-51 (Brazil) | Divulgação Petrobras / ABr | CC BY 3.0 | https://commons.wikimedia.org/w/index.php?curid=5621984 |
+| kit/petroleo_gas_divisor_1.jpg | ONGC Oil Platform | Nandu Chitnis from Pune, India | CC BY 2.0 | https://commons.wikimedia.org/w/index.php?curid=9347333 |
+| kit/petroleo_gas_divisor_2.jpg | Laika ac Isla Oil Refinery (11693347275) | Laika ac from USA | CC BY-SA 2.0 | https://commons.wikimedia.org/w/index.php?curid=31721345 |
