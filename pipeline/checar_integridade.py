@@ -3,6 +3,7 @@ Falha (código 1) se:
  - algum arquivo versionado em pastas protegidas foi APAGADO no working tree (qualidade/, mandatos/, docs/, data/analise*/, data/qualidade/, data/transcricoes/, .claude/skills/);
  - o banco data/regulacao.db foi alterado/adicionado no stage (não versionar a cada lote);
  - as contagens (reuniões, itens, votos, eventos, falas) CAÍRAM em relação a data/contagens.json;
+ - algum caminho clientes/ está no stage ou versionado (dados de cliente nunca vão ao git);
  - há análise inválida (validar.py / validar_evento.py).
 --atualizar grava as contagens atuais como nova referência (use após um aumento legítimo)."""
 import subprocess, sqlite3, json, sys, os
@@ -13,6 +14,8 @@ apagados = [l[3:] for l in sh("git status --porcelain").splitlines() if l[:2].st
 apagados = [f for f in apagados if f.startswith(PROT)]
 if apagados: erros.append(f"{len(apagados)} arquivo(s) protegido(s) APAGADO(s): " + ", ".join(apagados[:10]) + (" …" if len(apagados) > 10 else ""))
 if "data/regulacao.db" in sh("git diff --cached --name-only"): erros.append("data/regulacao.db está no stage: rode `git restore --staged data/regulacao.db` (só versionar em marcos, com aviso ao usuário).")
+cli = sorted({f for f in (sh("git diff --cached --name-only") + "\n" + sh("git ls-files")).splitlines() if f.startswith("clientes/")})
+if cli: erros.append(f"{len(cli)} caminho(s) de clientes/ no git (stage ou versionado): " + ", ".join(cli[:5]) + " — rode `git rm -r --cached clientes/`.")
 for v in ("pipeline/validar.py", "pipeline/validar_evento.py"):
     r = subprocess.run([sys.executable, v], capture_output=True, text=True)
     ruins = [l for l in (r.stdout + r.stderr).splitlines() if l.strip() and not l.startswith("ok") and ("erro" in l.lower() or "invál" in l.lower() or "traceback" in l.lower())]
