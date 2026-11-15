@@ -1,1 +1,139 @@
-[]
+[
+ {
+  "nome_chave": "Agnes da Costa",
+  "diretor": "Agnes da Costa",
+  "nome_completo": "Agnes Maria de Aragão da Costa",
+  "tipo": "diretor",
+  "cargo": "Diretora",
+  "unidade": "GAB-II",
+  "formacao": "Ciências Econômicas (UFRJ); mestrado em Energia (USP)",
+  "minibio": "Especialista em Políticas Públicas e Gestão Governamental desde 2006; quase 18 anos no MME, chefe da Assessoria Especial de Assuntos Regulatórios (2019–2022). Diretora da ANEEL desde dez/2022.",
+  "mandato_inicio": "2022-12-03",
+  "fim": "2028-12-02",
+  "status": "ativo",
+  "data_saida": null,
+  "foto": null,
+  "foto_nota": "retrato oficial gov.br com 295x394 px (abaixo do mínimo de 600 px): não salvo; relatório usa iniciais",
+  "foto_fonte_avaliada": "https://www.gov.br/aneel/pt-br/composicao/diretoria/gab-ii/agnes-maria-de-aragao-da-costa-cd-ii/@@images/image",
+  "fontes": [
+   "https://www.gov.br/aneel/pt-br/composicao/diretoria/gab-ii/agnes-maria-de-aragao-da-costa-cd-ii",
+   "https://www.gov.br/aneel/++api++/pt-br/composicao/diretoria/gab-ii/agnes-maria-de-aragao-da-costa-cd-ii"
+  ],
+  "verificado_em": "2026-11-15",
+  "confianca": "alta"
+ },
+ {
+  "nome_chave": "Fernando Mosna",
+  "diretor": "Fernando Mosna",
+  "nome_completo": "Fernando Luiz Mosna Ferreira da Silva",
+  "tipo": "diretor",
+  "cargo": "Diretor (2022–2026)",
+  "unidade": "GAB-III",
+  "formacao": null,
+  "minibio": "Diretor da ANEEL de ago/2022 a ago/2026; com o fim do mandato, a vaga passou a Ludimila Lima como substituta.",
+  "mandato_inicio": "2022-08-15",
+  "fim": "2026-08-13",
+  "status": "ex-dirigente",
+  "data_saida": "2026-08-13",
+  "foto": null,
+  "fontes": [
+   "https://www.gov.br/aneel/pt-br/composicao/diretoria/gab-iii/ludimila-lima-da-silva",
+   "data/aneel/mandatos.json"
+  ],
+  "verificado_em": "2026-11-15",
+  "confianca": "media"
+ },
+ {
+  "nome_chave": "Gentil Nogueira",
+  "diretor": "Gentil Nogueira",
+  "nome_completo": "Gentil Nogueira de Sá Júnior",
+  "tipo": "diretor",
+  "cargo": "Diretor",
+  "unidade": "GAB-IV",
+  "formacao": "Engenharia Mecânica (Unifei, 2001); especializações em Direito Regulatório da Energia Elétrica (2008) e Análise de Impacto Regulatório (2016), UnB",
+  "minibio": "Servidor da ANEEL desde 2007; superintendente de Fiscalização da Geração (2019–2023) e secretário nacional de Energia Elétrica do MME (2023–2025). Diretor desde set/2025.",
+  "mandato_inicio": "2025-08-29",
+  "fim": "2029-05-24",
+  "status": "ativo",
+  "data_saida": null,
+  "foto": null,
+  "foto_nota": "retrato oficial gov.br com 200x280 px (abaixo do mínimo de 600 px): não salvo; relatório usa iniciais",
+  "foto_fonte_avaliada": "https://www.gov.br/aneel/pt-br/composicao/diretoria/gab-iv/gentil-nogueira-de-sa-junior/@@images/image",
+  "fontes": [
+   "https://www.gov.br/aneel/pt-br/composicao/diretoria/gab-iv/gentil-nogueira-de-sa-junior",
+   "https://www.gov.br/aneel/++api++/pt-br/composicao/diretoria/gab-iv/gentil-nogueira-de-sa-junior"
+  ],
+  "verificado_em": "2026-11-15",
+  "confianca": "alta"
+ },
+ {
+  "nome_chave": "Ludimila Lima",
+  "diretor": "Ludimila Lima",
+  "nome_completo": "Ludimila Lima da Silva",
+  "tipo": "diretor",
+  "cargo": "Diretora substituta",
+  "unidade": "GAB-III",
+  "formacao": "Engenharia Civil (UnB); mestrado em Gestão Econômica do Meio Ambiente (UnB); pós-graduação (George Washington University); MBA Gestão de Empresas de Energia Elétrica (FGV)",
+  "minibio": "Especialista em regulação da ANEEL desde 2007; superintendente da SCE desde 2023. Diretora substituta em jan–jul/2025 e de novo desde 14/8/2026, na vaga de Fernando Mosna.",
+  "mandato_inicio": "2026-08-14",
+  "fim": null,
+  "status": "ativo",
+  "data_saida": null,
+  "foto": null,
+  "foto_nota": "retrato oficial gov.br com 200x288 px (abaixo do mínimo de 600 px): não salvo; relatório usa iniciais",
+  "foto_fonte_avaliada": "https://www.gov.br/aneel/pt-br/composicao/diretoria/gab-iii/ludimila-lima-da-silva/@@images/image",
+  "fontes": [
+   "https://www.gov.br/aneel/pt-br/composicao/diretoria/gab-iii/ludimila-lima-da-silva",
+   "https://www.gov.br/aneel/++api++/pt-br/composicao/diretoria/gab-iii/ludimila-lima-da-silva",
+   "data/aneel/mandatos.json"
+  ],
+  "verificado_em": "2026-11-15",
+  "confianca": "alta"
+ },
+ {
+  "nome_chave": "Sandoval Feitosa",
+  "diretor": "Sandoval Feitosa",
+  "nome_completo": "Sandoval de Araujo Feitosa Neto",
+  "tipo": "diretor",
+  "cargo": "Diretor-geral",
+  "unidade": "Diretoria-Geral (GAB-I)",
+  "formacao": "Engenharia Elétrica (UFMA, 2002); mestrado em Engenharia Elétrica (UnB, 2009); pós-graduação em Administração/Estratégia (FGV, 2017)",
+  "minibio": "Especialista em regulação da ANEEL desde 2005; foi superintendente de Transmissão e de Fiscalização, diretor (2018–2022) e é diretor-geral desde 15/8/2022. Antes, Cemar e Chesf.",
+  "mandato_inicio": "2022-08-15",
+  "fim": "2027-08-13",
+  "status": "ativo",
+  "data_saida": null,
+  "foto": null,
+  "foto_nota": "retrato oficial gov.br com 200x242 px (abaixo do mínimo de 600 px): não salvo; relatório usa iniciais",
+  "foto_fonte_avaliada": "https://www.gov.br/aneel/pt-br/composicao/diretoria/gab-i/sandoval-de-araujo-feitosa-neto-cd-i/@@images/image",
+  "fontes": [
+   "https://www.gov.br/aneel/pt-br/composicao/diretoria/gab-i/sandoval-de-araujo-feitosa-neto-cd-i",
+   "https://www.gov.br/aneel/++api++/pt-br/composicao/diretoria/gab-i/sandoval-de-araujo-feitosa-neto-cd-i"
+  ],
+  "verificado_em": "2026-11-15",
+  "confianca": "alta"
+ },
+ {
+  "nome_chave": "Willamy Frota",
+  "diretor": "Willamy Frota",
+  "nome_completo": "Willamy Moreira Frota",
+  "tipo": "diretor",
+  "cargo": "Diretor",
+  "unidade": "GAB-V",
+  "formacao": "Engenharia Elétrica (UnB); mestrado em Planejamento de Sistemas Energéticos (Unicamp); doutorado em Engenharia Elétrica (UFPA); pós-doutorado (Unicamp); MBA (FGV)",
+  "minibio": "Ex-presidente da Manaus Energia, da Ceam e da Amazonas GT, ex-diretor da Eletronorte e ex-chefe de gabinete no MME. Diretor da ANEEL desde set/2025.",
+  "mandato_inicio": "2025-08-29",
+  "fim": "2029-05-24",
+  "status": "ativo",
+  "data_saida": null,
+  "foto": null,
+  "foto_nota": "retrato oficial gov.br com 200x280 px (abaixo do mínimo de 600 px): não salvo; relatório usa iniciais",
+  "foto_fonte_avaliada": "https://www.gov.br/aneel/pt-br/composicao/diretoria/gab-v/willamy-moreira-frota/@@images/image",
+  "fontes": [
+   "https://www.gov.br/aneel/pt-br/composicao/diretoria/gab-v/willamy-moreira-frota",
+   "https://www.gov.br/aneel/++api++/pt-br/composicao/diretoria/gab-v/willamy-moreira-frota"
+  ],
+  "verificado_em": "2026-11-15",
+  "confianca": "alta"
+ }
+]

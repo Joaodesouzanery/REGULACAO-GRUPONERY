@@ -4,7 +4,7 @@ Uso: python3 pipeline/dirigentes.py migrar   (cria a pasta a partir de bios.json
      python3 pipeline/dirigentes.py faltas   (quem vota/é atual e não tem perfil, foto ou formação)
 Status: «ativo» | «ex-dirigente» (nunca apagar: arquivar com data_saida)."""
 import sys, os, json, re, glob, shutil, unicodedata
-AGS = {"antt": "data", "anm": "data/anm", "antaq": "data/antaq"}
+AGS = {"antt": "data", "anm": "data/anm", "antaq": "data/antaq", "aneel": "data/aneel"}
 slug = lambda s: re.sub(r"[^a-z0-9]+", "-", unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()).strip("-")
 ld = lambda p: json.load(open(p)) if os.path.exists(p) else []
 cmd = sys.argv[1] if len(sys.argv) > 1 else "faltas"
