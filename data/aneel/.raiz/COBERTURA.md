@@ -11,7 +11,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2026 | diretoria | 46 | 45 | 11 |
 | 2026 | audiencia | 4 | 3 | 3 |
 | 2025 | workshop | 9 | 0 | 0 |
-| 2025 | diretoria | 97 | 14 | 0 |
+| 2025 | diretoria | 97 | 26 | 0 |
 | 2025 | audiencia | 9 | 0 | 0 |
 | 2024 | workshop | 16 | 0 | 0 |
 | 2024 | diretoria | 103 | 0 | 0 |
@@ -91,7 +91,19 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2025-11-04 · 38ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · `hCQn8ULpiGw`
 - 2025-11-04 · 38ª Reunião Pública Ordinária ANEEL – 4/11/2025 – Parte 2 · `hHBxmflj8XI`
 - 2025-11-04 · 38ª Reunião Pública Ordinária ANEEL – 4/11/2025 – Parte 1 · `Q1_GdV8U8Ag`
+- 2025-10-21 · 37ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · `N_wVKeeerXQ`
 - 2025-10-21 · 37ª Reunião Pública Ordinária ANEEL – 21/10/2025 – Parte 2 · `-np7PaWqb38`
 - 2025-10-21 · 37ª Reunião Pública Ordinária ANEEL – 21/10/2025 – Parte 1 · `B29pPIWdmE8`
+- 2025-10-07 · 36ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · `Tn11c0tAUao`
+- 2025-10-07 · 36ª Reunião Pública Ordinária ANEEL – 7/10/2025 – Parte 1 · `_RDMRZCiXCE`
+- 2025-09-24 · 35ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · `8KncgnoLdGY`
+- 2025-09-23 · 35ª Reunião Pública Ordinária ANEEL – 23/9/2025 · `C3rvjAxNAhU`
+- 2025-09-17 · 34ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · `wP6_moTwFPI`
+- 2025-09-17 · 1ª Reunião Pública Extraordinária da Diretoria da ANEEL de 2025 · `WNq8TGFR2v8`
+- 2025-09-16 · 34ª Reunião Pública Ordinária ANEEL – 16/9/2025 · `zRghUqWy_-s`
+- 2025-09-16 · 1ª Reunião Pública Extraordinária ANEEL – 16/9/2025 · `iDIBoIgIiEI`
+- 2025-09-12 · 33ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · `cbwGHP885HU`
+- 2025-09-09 · 33ª Reunião Pública Ordinária ANEEL – 9/9/2025 · `YbNKpLXc94A`
+- 2025-09-03 · 32ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · `H7Swctf5EG0`
 
-Vídeos sem legenda registrados: 2 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 3 (ver `data/sem_legenda.jsonl`).
