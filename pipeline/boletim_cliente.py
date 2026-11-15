@@ -14,7 +14,7 @@ if len(sys.argv) < 3 or not re.match(r"^\d{4}-\d{2}$", sys.argv[2]): sys.exit("U
 P, MES = sys.argv[1].rstrip("/"), sys.argv[2]
 if not os.path.exists(f"{P}/empresa.json"): sys.exit(f"Pasta do cliente não encontrada: {P}. Os relatórios de cliente são gerados no chat (clientes/ fica fora do git); no Mac rode só a coleta: caffeinate -i bash pipeline/coletar_todas.sh")
 EMP = json.load(open(f"{P}/empresa.json")); AG = EMP.get("agencias", ["antaq"])[0]
-NOME = {"antt": "ANTT", "anm": "ANM", "antaq": "ANTAQ"}[AG]; E = html.escape
+NOME = AG.upper(); E = html.escape
 MESES = "janeiro fevereiro março abril maio junho julho agosto setembro outubro novembro dezembro".split()
 ano, mm = map(int, MES.split("-"))
 b64 = lambda p: ("data:image/" + p.rsplit(".", 1)[-1].replace("jpg", "jpeg") + ";base64," + base64.b64encode(open(p, "rb").read()).decode()) if p and os.path.exists(p) else ""
@@ -27,16 +27,16 @@ FOTO, CLI, LOGO = b64(EMP.get("foto_capa")), b64(EMP.get("logo")), b64("docs/mar
 nperg = len([l for l in open(f"{P}/perguntas/perguntas.md") if l.startswith("- ")]) if os.path.exists(f"{P}/perguntas/perguntas.md") else 0
 sumario = [("O que acompanhar na próxima reunião", "alerta pré-pauta"), (f"Suas perguntas do mês ({nperg})", "resposta com evidência e link no minuto"),
            (f"O mês na {NOME} ({MESES[int(ag_mes[5:]) - 1]})", "números, decisões por tema, divergências"), ("Diretoria", "mudanças, vagas e mandatos"), ("Cobertura", "o que a base cobre e os limites")]
-capa = f'''<!doctype html><html><head><meta charset="utf-8"><style>@page{{size:13.333in 7.5in;margin:0}}body{{margin:0;font-family:Inter,system-ui,sans-serif}}
-.pg{{width:13.333in;height:7.5in;display:grid;grid-template-columns:4.8in 1fr;background:#0B0B0B;color:#fff}}.f{{background:url({FOTO}) {EMP.get("foco", "50% 55%")}/cover}}.c{{padding:.45in;display:flex;flex-direction:column}}
-.lc{{height:.36in;align-self:flex-start}}.eb{{margin-top:.3in;font-size:9pt;letter-spacing:.14em;text-transform:uppercase;color:#E2B93B}}.cli{{background:#fff;border-radius:10px;padding:8px 12px;align-self:flex-start;margin-top:.14in}}.cli img{{height:.42in;display:block}}
-h1{{font-size:28pt;margin:.14in 0 .04in}}.s{{color:#CFCAC0;font-size:11pt}}ol{{margin:auto 0 0;padding-left:1.1em;font-size:10pt;line-height:1.7}}ol span{{color:#9A958C;font-size:8.5pt}}.m{{font-size:7.5pt;color:#7A766F;margin-top:.15in}}{MARCA_CSS}</style></head>
-<body><section class="pg"><div class="c">{f'<img class="lc" src="{LOGO}">' if LOGO else ''}{parceria_html()}<div class="eb">Boletim mensal · {NOME}</div>{f'<div class="cli"><img src="{CLI}"></div>' if CLI else ''}
-<h1>{E(EMP["nome"].split("(")[0].strip())} · {MESES[mm - 1]} de {ano}</h1><div class="s">O que vem na diretoria, o que ela decidiu e as respostas às suas perguntas.</div>
-<ol>{"".join(f"<li>{E(a)} <span>— {E(b)}</span></li>" for a, b in sumario)}</ol><div class="m">Emitido em {datetime.date.today():%d/%m/%Y} · fontes públicas · previsões são estimativas</div></div><div class="f"></div></section></body></html>'''
-cp = f"{P}/.capa_boletim.html"; open(cp, "w").write(leve_html(capa))
-js = f"const {{chromium}}=require('playwright');(async()=>{{const b=await chromium.launch();const p=await b.newPage();await p.goto('file://{os.path.abspath(cp)}',{{waitUntil:'networkidle'}});await p.pdf({{path:'{os.path.abspath(cp)}.pdf',width:'13.333in',height:'7.5in',printBackground:true}});await b.close();}})();"
-subprocess.run(["node", "-e", js], cwd="/tmp", check=True)
+import design as dz
+KIT = dz.kit(EMP.get("setor") or dz.SETOR_AG.get(AG, "portos")); FT = EMP.get("foto_capa") or KIT["capa"]
+cp = f"{P}/.capa_boletim"
+dz.documento([dz.capa(FT, EMP.get("foco", "50% 55%"), f"Boletim mensal · {NOME}", f'{EMP["nome"].split("(")[0].strip()}', f"{MESES[mm - 1]} de {ano}",
+                      "O que vem na diretoria, o que ela decidiu e as respostas às suas perguntas. Fontes públicas; previsões são estimativas.",
+                      [(nperg, "perguntas respondidas no mês"), (len(alerta) and "sim" or "—", "alerta pré-pauta"), (MESES[int(ag_mes[5:]) - 1], "mês fechado na agência"), (f"{datetime.date.today():%d/%m}", "emissão")], EMP.get("logo")),
+              dz.sumario(sumario, KIT["divisores"][0])], "capa", cp)
+fp = f"{P}/.fim_boletim"
+dz.documento([dz.fim("Fontes públicas: vídeos oficiais das reuniões, pautas e calendário da agência, Senado e DOU. Legenda automática pode errar nomes e números. Previsões e alertas são estimativas — não substituem a publicação oficial nem orientação jurídica.",
+                     EMP.get("contato", "Circle Consultoria em parceria com Grupo Nery"), KIT["divisores"][0])], "fim", fp)
 out = pikepdf.new()
 def add(path, idx=None):
     if not path or not os.path.exists(path): print("aviso: falta", path); return 0
@@ -49,6 +49,8 @@ if os.path.exists(perg):
     # relatorio_v2 com diretoria: capa, sumário, quadro da diretoria, depois 1 página por pergunta
     add(perg, list(range(3, 3 + nperg)))
 add(bol, [1, 2, 3, 5, -1])  # números · decisões por tema · divergências · diretoria · cobertura
+add(fp + ".pdf")
 dst = f"{P}/boletim_cliente_{MES}.pdf"; out.save(dst); leve_pdf(dst)
-for f in (cp, cp + ".pdf"): os.remove(f)
+for f in (cp + ".html", cp + ".pdf", fp + ".html", fp + ".pdf"):
+    if os.path.exists(f): os.remove(f)
 print(dst, len(out.pages), "páginas", os.path.getsize(dst) // 1024, "KB")

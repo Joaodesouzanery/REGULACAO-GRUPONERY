@@ -63,14 +63,21 @@ S.append(d.sumario(SEC, DIV[0]))
 
 # 01 empresa
 S.append(d.divisor(1, SEC[0][0], f"Tudo o que a diretoria da {NOME} decidiu sobre a {nome_curto} desde 2018, o que está em aberto e o que vem na agenda.", DIV[0]))
-ps, cs = narrativa("painel")
 tab = d.tabela(["Situação", "Última sessão", "Processo", "Assunto", "Para a empresa"],
-               [[E(STATUS(i)), fmtd(i["data"]), f'<span style="color:#6B7780">{E(k)}</span>', E((i["assunto"] or "")[:95]), E(des(i["id"]))] for k, i in list(procs.items())[:8]], ["10%", "11%", "17%", "47%", "15%"])
+               [[E(STATUS(i)), fmtd(i["data"]), f'<span style="color:#6B7780">{E(k)}</span>', E((i["assunto"] or "")[:95]), E(des(i["id"]))] for k, i in list(procs.items())[:14]], ["10%", "11%", "17%", "47%", "15%"])
 DES = collections.Counter(des(i["id"]) for i in its)
 calh = d.tabela(["Data", "Evento", "Observação"], [[fmtd(x["data"]), f'{x["reuniao"]}ª reunião da diretoria', E(x.get("formato", ""))] for x in cal] +
                 [[fmtd(mandato(n)[1]), "fim de mandato", E(n)] for n in board if mandato(n)[1] and HOJE.isoformat() <= str(mandato(n)[1]) <= (HOJE + datetime.timedelta(days=460)).isoformat()])
-S.append(d.tecnica("01 · A empresa na agência", "Onde a empresa está hoje na diretoria", d.grade(f'<div class="nar">{ps}</div>', '<div>' + d.conceito("", "Desfecho histórico", "decisões desde 2018 (conferidas à mão quando ambíguas)", texto=d.rosca(dict(DES.most_common()), "decisões")) + cs + '</div>', cols=2).replace("repeat(2,1fr)", "1.5fr 1fr"), AG, logo_cliente=CLI))
-S.append(d.tecnica("01 · A empresa na agência", "Processos e calendário", d.grade(f'<div>{tab}</div>', d.conceito("", "Próximos passos", "calendário oficial e mandatos", texto=calh), cols=2).replace("repeat(2,1fr)", "1.6fr 1fr"), AG,
+pn = NAR.get("painel") or {}
+pars0 = pn.get("paragrafos", [])
+rot = ["O que a diretoria decidiu", "O que está em aberto", "O que vem a seguir"] + [f"Ponto {k}" for k in range(4, 9)]
+S.append(d.tecnica("01 · A empresa na agência", "Onde a empresa está hoje na diretoria",
+                   d.whitepaper("Painel", [(rot[k], f"<p>{E(x)}</p>") for k, x in enumerate(pars0)], foto=FOTO, foco=FOCO, h_foto="1.25in"), AG, logo_cliente=CLI))
+cs_all = "".join(d.citacao(q["texto"], q.get("quem", ""), f'{q.get("reuniao", "")}{" · item " + str(q["item"]) if q.get("item") else ""}', q.get("link")) for q in pn.get("citacoes", [])[:3])
+S.append(d.tecnica("01 · A empresa na agência", "Desfechos, falas e calendário", d.grade(d.conceito("", "Desfecho histórico", "decisões desde 2018 (conferidas à mão quando ambíguas)", texto=d.rosca(dict(DES.most_common()), "decisões")),
+                                                                                    d.conceito("", "O que foi dito", "trechos literais, com link no minuto", texto=cs_all),
+                                                                                    d.conceito("", "Próximos passos", "calendário oficial e mandatos", texto=calh), cols=3), AG, logo_cliente=CLI))
+S.append(d.tecnica("01 · A empresa na agência", "Processos da empresa na diretoria", tab, AG,
                    "Situação pela última sessão da diretoria. Nº de processo vem da legenda automática — conferir no SEI.", CLI))
 
 # 02 quem decide
@@ -83,6 +90,10 @@ for n in board:
     txt = next((p for k, p in pars.items() if n.split()[0] in k or n in p[:80]), (b.get("minibio") or "")[:260])
     pes.append(d.pessoa(foto(n, b), n, f'{(b.get("cargo") or "Diretor(a)")[:70]} · mandato até {fmtd(fim_)}', [E(txt[:420]), f'<span style="color:#6B7780">Formação: {E((b.get("formacao") or "—")[:120])}</span>']))
 S.append(d.tecnica("02 · Quem decide", "Diretoria em exercício", d.grade(*pes, cols=2), AG, "Perfis com fontes oficiais; mandatos conferidos todo dia 1.", CLI))
+CAD = ld(f"{D}/cadeiras.json", {}).get("cadeiras")
+if CAD:
+    S.append(d.tecnica("02 · Quem decide", "Controle da diretoria: cadeiras, mandatos e substitutos", d.quadro_mandatos(CAD, foto_fn=lambda n: foto(n)), AG,
+                       "Fontes: Senado, DOU e agência; datas marcadas «a confirmar» na base quando o ato não foi localizado. Faixa hachurada = cadeira sem titular nem substituto registrado (vago).", CLI))
 sc = "".join(f'<li><b>{E(s.get("nome", ""))}</b> — {E((s.get("superintendencia") or s.get("cargo") or "")[:70])}</li>' for s in sups[:14])
 vh = "; ".join(f'{E(v["cadeira"])} (desde {fmtd(v["inicio"])}; interinos: {E(v.get("interinos") or "—")})' for v in vac) or "nenhuma"
 S.append(d.tecnica("02 · Quem decide", "Superintendências e cadeiras vagas", d.grade(d.conceito("", "Superintendentes", "quem conduz a instrução técnica dos processos", texto=f'<ul class="arr">{sc}</ul>'),
@@ -128,5 +139,5 @@ S.append(d.tecnica("05 · Antecipar", "Previsão para os próximos processos da 
                                                                                                  d.conceito("Futuro", "O que esperar", "", texto=fut), cols=2), AG,
                    "Estimativa estatística a partir do histórico de votos; não substitui a publicação oficial nem orientação jurídica. Legenda automática pode errar nomes e números.", CLI))
 cob = f"Base: {len(its)} decisões da diretoria da {NOME} sobre a empresa desde 2018, com o voto de cada diretor e link para o vídeo oficial no minuto. Fontes públicas (vídeos das reuniões, pautas e calendário da agência, Senado, DOU). Previsões são estimativas."
-S.append(d.fim(cob, EMP.get("contato", "Circle Consultoria · Grupo Nery")))
+S.append(d.fim(cob, EMP.get("contato", "Circle Consultoria em parceria com Grupo Nery"), DIV[0]))
 print(d.documento(S, f"{nome_curto} · {NOME}", f"{P}/relatorio_empresa"), len(S), "páginas")

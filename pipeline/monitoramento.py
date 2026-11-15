@@ -7,7 +7,7 @@ Dados do cliente (opcional, fora do git): <pasta>/processos.json
 Sem processos.json: usa os processos que já passaram pela diretoria e marca «etapa no SEI: a informar»."""
 import sys, os, re, json, html, base64, datetime, subprocess, collections
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import previsao, mapa_tema, similares, prazos
+import design as dz, previsao, mapa_tema, similares, prazos
 from desfecho import desfecho_item
 from pdf_leve import leve_html, leve_pdf
 
@@ -18,12 +18,12 @@ D = "data" if AG == "antt" else f"data/{AG}"; NOME = {"antt": "ANTT", "anm": "AN
 E = html.escape; HOJE = datetime.date.today(); TRES = (HOJE - datetime.timedelta(days=3 * 365)).isoformat()
 ld = lambda p, d: json.load(open(p)) if os.path.exists(p) else d
 MAN = ld(f"{P}/desfechos_manuais.json", {})
-AC, AC2, GOLD = EMP.get("cor", "#3D1FE0"), EMP.get("cor2", "#F28C1A"), "#C99A06"
+AC, AC2, GOLD = dz.AZUL, dz.LILAS, dz.AZUL2
 b64 = lambda p: ("data:image/" + p.rsplit(".", 1)[-1].replace("jpg", "jpeg") + ";base64," + base64.b64encode(open(p, "rb").read()).decode()) if p and os.path.exists(p) else ""
 fmtd = lambda s: datetime.date.fromisoformat(str(s)[:10]).strftime("%d/%m/%Y") if s and re.match(r"\d{4}-\d\d-\d\d", str(s)) else str(s or "—")
 c = previsao.conn(AG)
 des = lambda iid: (MAN.get(str(iid)) or {}).get("desfecho") or desfecho_item(c, iid)
-CORES = {"favorável": "#2F855A", "parcial": GOLD, "neutro": "#9A958C", "desfavorável": "#B83227", "pendente": "#5B6AD0"}
+CORES = {"favorável": dz.TONS[0], "parcial": dz.TONS[2], "neutro": dz.TONS[4], "desfavorável": dz.TINTA, "pendente": dz.LILAS}
 LOGO_B, LOGO_P = b64("docs/marca/circle/logo_circle_branco.png"), b64("docs/marca/circle/logo_circle_preto.png")
 NERY_B, CLI, FOTO = b64("docs/marca/grupo_nery/logo_branco.png"), b64(EMP.get("logo")), b64(EMP.get("foto_capa"))
 nome_curto = EMP["nome"].split("(")[0].strip()
@@ -32,17 +32,17 @@ S = []
 
 
 def top(n, t):
-    return (f'<header class="hd"><div class="band"></div><div class="hdt"><span class="num">{n:02d}</span><span>{E(t)}</span><span class="sp"></span>'
-            + (f'<img src="{CLI}" class="hcli">' if CLI else "") + (f'<img src="{LOGO_P}" class="hl">' if LOGO_P else "") + "</div></header>")
+    return (f'<header class="hd"><span class="num">{n:02d}</span><span>{E(NOME)} · {E(t)}</span><span class="sp"></span>'
+            + (f'<img src="{CLI}" class="hcli">' if CLI else "") + f'<img src="{dz.img("nery_a")}" class="hl"></header>')
+
+
+KIT = dz.kit(EMP.get("setor") or dz.SETOR_AG.get(AG, "portos")); FOTOP = EMP.get("foto_capa") or KIT["capa"]; FOCO = EMP.get("foco", "50% 55%")
 
 
 def capa(titulo, sub, blocos, kps):
-    S.append(f'''<section class="pg capa"><div class="cfoto" style="background-image:url({FOTO});background-position:{EMP.get("foco", "50% 55%")}"></div><div class="cp">
-{f'<img src="{LOGO_B}" class="lc">' if LOGO_B else ''}<div class="parc">em parceria com {f'<img src="{NERY_B}">' if NERY_B else 'Grupo Nery'}</div>
-<div class="eb">Monitoramento de processos · {NOME}</div>{f'<div class="clibox"><img src="{CLI}"></div>' if CLI else ''}<h1>{E(titulo)}</h1><div class="sub">{E(nome_curto)} · {E(sub)}</div>
-<div class="bl">{"".join(f"<span>{E(b)}</span>" for b in blocos)}</div>
-<div class="kps">{"".join(f'<div class="kp"><b>{a}</b><span>{E(t)}</span></div>' for a, t in kps)}</div>
-<div class="meta">Emitido em {HOJE:%d/%m/%Y} · fontes públicas + informações do cliente (identificadas) · estimativas não são certeza</div></div></section>''')
+    S.append(dz.capa(FOTOP, FOCO, f"Monitoramento de processos · {NOME}", titulo, f"{nome_curto} · {sub}", f"Emitido em {HOJE:%d/%m/%Y} · fontes públicas + informações do cliente (identificadas) · estimativas não são certeza",
+                    [(re.sub("<[^>]+>", "", str(a)), t) for a, t in kps][:4], EMP.get("logo")))
+    S.append(dz.sumario([(re.sub(r"^\d+ · ", "", b), "") for b in blocos], KIT["divisores"][0]))
 
 
 # processos do cliente
@@ -162,29 +162,23 @@ else:
 <div class="card"><h3>Consultas do mês</h3><ol class="lst">{"".join(f"<li>{E(q)}</li>" for q in perg) or "<li>Envie suas perguntas para a edição do mês.</li>"}</ol><p class="nt">Respostas completas no boletim mensal.</p></div></div></section>''')
     out = f"{P}/agenda_comparativa"
 
-S.append(f'''<section class="pg fim"><div class="ffoto" style="background-image:url({FOTO});background-position:{EMP.get("foco", "50% 55%")}"></div><div class="fc">{f'<img src="{LOGO_B}" class="lc">' if LOGO_B else ''}<div class="parc">em parceria com {f'<img src="{NERY_B}">' if NERY_B else 'Grupo Nery'}</div>
-<h2>Como ler</h2><p>Fontes públicas: vídeos oficiais das reuniões, pautas e calendário da agência. Informações do cliente (etapa no SEI, andamentos) aparecem identificadas. Legenda automática pode errar nomes e números. Prazos, previsões e «possíveis contradições» são estimativas e inferências: não substituem a publicação oficial nem orientação jurídica.</p></div></section>''')
+S.append(dz.fim("Fontes públicas: vídeos oficiais das reuniões, pautas e calendário da agência. Informações do cliente (etapa no SEI, andamentos) aparecem identificadas. Legenda automática pode errar nomes e números. Prazos, previsões e «possíveis contradições» são estimativas e inferências: não substituem a publicação oficial nem orientação jurídica.",
+                 EMP.get("contato", "Circle Consultoria em parceria com Grupo Nery"), KIT["divisores"][0]))
 TOT = len(S)
-S = [s.replace("</section>", f'<div class="pag">{k + 1:02d} / {TOT:02d}</div></section>', 1) if k else s for k, s in enumerate(S)]
-CSS = f"""@page{{size:13.333in 7.5in;margin:0}}*{{box-sizing:border-box}}body{{margin:0;font-family:'Inter Display',Inter,system-ui,sans-serif;color:#0B0B0B;-webkit-print-color-adjust:exact;print-color-adjust:exact}}
-.pg{{width:13.333in;height:7.5in;position:relative;overflow:hidden;page-break-after:always;background:#F6F5F1;padding:0 .45in .4in}}h1,h2,h3{{margin:0;font-weight:650}}a{{color:{AC};font-weight:700;text-decoration:none}}
-.capa{{padding:0;display:grid;grid-template-columns:4.6in 1fr;background:#0B0B0B}}.cfoto{{grid-column:2;grid-row:1;background-size:cover}}.cp{{grid-column:1;grid-row:1;padding:.42in .45in;color:#fff;display:flex;flex-direction:column}}
-.lc{{height:.36in;width:auto;align-self:flex-start}}.parc{{display:flex;align-items:center;gap:8px;font-size:7.5pt;color:#BDB8AE;letter-spacing:.08em;text-transform:uppercase;margin-top:.1in}}.parc img{{height:.22in;width:auto}}
-.eb{{margin-top:.28in;font-size:9pt;letter-spacing:.14em;text-transform:uppercase;color:#E2B93B}}.clibox{{background:#fff;border-radius:10px;padding:8px 12px;align-self:flex-start;margin-top:.12in}}.clibox img{{height:.4in;display:block}}
-.capa h1{{font-size:28pt;line-height:1.05;margin-top:.14in}}.sub{{font-size:10.5pt;color:#E8E5DE;margin-top:.05in}}.bl{{display:flex;flex-wrap:wrap;gap:5px;margin-top:.14in}}.bl span{{font-size:7.5pt;border:1px solid #4A4741;border-radius:99px;padding:2px 8px;color:#CFCAC0}}
-.kps{{display:grid;grid-template-columns:1fr 1fr;gap:.12in;margin-top:auto}}.kp{{border-top:3px solid {AC2};padding-top:.06in}}.kp b{{font-size:22pt;display:block}}.kp span{{font-size:7.8pt}}.meta{{font-size:7pt;color:#7A766F;margin-top:.14in}}
-.hd{{margin:0 -.45in .18in}}.band{{height:.16in;background:linear-gradient(90deg,{AC2},{AC} 45%,#2EC4A6)}}.hdt{{display:flex;align-items:center;gap:.12in;padding:.1in .45in 0;font-size:8.5pt;letter-spacing:.1em;text-transform:uppercase;color:#6E6A63}}.num{{color:{GOLD};font-weight:700}}.sp{{flex:1}}.hcli{{height:.24in}}.hl{{height:.2in}}
-h2{{font-size:19pt;margin:0 0 .12in}}h3{{font-size:10.5pt;margin:0 0 .08in}}.lead{{font-size:9.5pt;color:#3A3833;margin:-.04in 0 .12in}}.card{{background:#fff;border-radius:12px;padding:.14in .16in;border:1px solid #E7E3DA}}
+S = [s.replace("</section>", f'<div class="pag">{k + 1:02d} / {TOT:02d}</div></section>', 1) if 1 < k < TOT - 1 else s for k, s in enumerate(S)]
+CSS = dz.CSS + f"""@page{{size:13.333in 7.5in;margin:0}}*{{box-sizing:border-box}}body{{margin:0;font-family:'Inter Display',Inter,system-ui,sans-serif;color:{dz.TINTA};-webkit-print-color-adjust:exact;print-color-adjust:exact}}
+.pg:not(.capa):not(.sum):not(.fim):not(.div){{background:#fff;padding:.45in .6in .4in}}h1,h2,h3{{margin:0;font-weight:500}}a{{color:{AC};font-weight:500;text-decoration:none}}
+.hd{{display:flex;align-items:center;gap:12px;border-top:1px solid {dz.TINTA};padding-top:.1in;margin-bottom:.2in;font-size:7.6pt;letter-spacing:.14em;text-transform:uppercase;color:{dz.CINZA}}}.num{{color:{dz.AZUL2};font-weight:600}}.sp{{flex:1}}.hcli{{height:.22in}}.hl{{height:.2in}}
+h2{{font-size:20pt;font-weight:400;color:{dz.AZUL};margin:0 0 .16in}}h3{{font-size:10.5pt;margin:0 0 .08in}}.lead{{font-size:9.5pt;color:#3A3833;margin:-.04in 0 .12in}}.card{{background:#fff;border-radius:0;padding:.1in 0 0;border:none;border-top:1px solid {dz.FIO}}}
 .g2{{display:grid;grid-template-columns:1.3fr 1fr;gap:.16in}}.g3{{display:grid;grid-template-columns:.8fr 1.2fr 1.3fr;gap:.14in}}.col{{display:flex;flex-direction:column;gap:.14in}}
-.tb{{width:100%;border-collapse:collapse;font-size:8pt}}.tb th{{text-align:left;color:#6E6A63;font-weight:600;border-bottom:2px solid #0B0B0B;padding:3px 5px}}.tb td{{border-bottom:1px solid #EEEAE2;padding:6px 5px;vertical-align:top}}.pn{{font-size:7.4pt;color:#6E6A63}}
-.st{{font-size:6.8pt;font-weight:700;text-transform:uppercase;border-radius:99px;padding:1px 7px;white-space:nowrap}}.st-decidido{{background:#E8F3EC;color:#2F855A}}.st-retirado,.st-com{{background:#FFF3D2;color:#8A6400}}.st-em{{background:#E9E5FF;color:{AC}}}
-.nt{{font-size:7pt;color:#7A766F;margin:.08in 0 0}}.vtl{{display:flex;flex-direction:column;gap:5px;border-left:3px solid #E7E3DA;margin-left:.85in;padding-left:.2in}}.vt{{position:relative;font-size:8pt;border-bottom:1px solid #EEEAE2;padding:3px 0}}.vd{{position:absolute;left:-1.07in;top:4px;width:.75in;text-align:right;font-size:7.4pt;color:#6E6A63}}.vt>i{{position:absolute;left:-.29in;top:6px;width:11px;height:11px;border-radius:50%;border:2px solid #fff}}
-.pz{{font-size:9pt;line-height:1.5}}.card p{{font-size:8.6pt;line-height:1.45;margin:.05in 0}}.pb{{display:grid;grid-template-columns:2in 1fr .55in .5in;align-items:center;gap:8px;font-size:8.6pt;margin:7px 0}}.bt{{position:relative;height:14px;background:#F0EDE6;border-radius:7px}}
-.iqr{{position:absolute;top:0;bottom:0;background:{AC};opacity:.3;border-radius:7px}}.md{{position:absolute;top:-3px;width:4px;height:20px;background:{AC};border-radius:2px}}.pb em{{font-size:7.4pt;color:#7A766F;font-style:normal}}.lgx{{font-size:7.6pt;color:#6E6A63;margin-bottom:.08in}}.lgx i{{display:inline-block;width:14px;height:9px;margin:0 4px 0 10px;position:relative;border-radius:3px}}.lgx i.md{{width:4px;top:0;height:12px}}
-.big{{font-size:30pt;font-weight:700;line-height:1.05}}.lst{{margin:0;padding-left:1.1em;font-size:8.2pt;line-height:1.42}}.lst li{{margin-bottom:.05in}}.est{{font-size:6.6pt;font-weight:700;text-transform:uppercase;color:#9A4A00;background:#FFE9D2;border-radius:99px;padding:2px 7px;margin-left:4px}}
-.ctr{{display:grid;grid-template-columns:1fr 1fr;gap:8px;font-size:7.6pt;border-bottom:1px solid #EEEAE2;padding:5px 0;line-height:1.35}}
-.fim{{padding:0;display:grid;grid-template-columns:1fr 1fr;background:#0B0B0B;color:#fff}}.ffoto{{background-size:cover}}.fc{{padding:.5in;display:flex;flex-direction:column;gap:.1in}}.fc p{{font-size:9pt;line-height:1.55;color:#CFCAC0}}.fim h2{{font-size:20pt;margin-top:.2in}}
-.pag{{position:absolute;right:.45in;bottom:.15in;font-size:7.5pt;font-weight:700;color:{GOLD}}}"""
+.tb{{width:100%;border-collapse:collapse;font-size:8pt}}.tb th{{text-align:left;color:{dz.CINZA};font-weight:600;border-bottom:2px solid {dz.TINTA};padding:3px 5px}}.tb td{{border-bottom:1px solid {dz.FIO};padding:6px 5px;vertical-align:top}}.pn{{font-size:7.4pt;color:{dz.CINZA}}}
+.st{{font-size:6.8pt;font-weight:500;text-transform:uppercase;border-radius:99px;padding:1px 7px;white-space:nowrap}}.st-decidido{{background:{dz.NEVOA};color:{dz.AZUL}}}.st-retirado,.st-com{{background:{dz.LILAS};color:{dz.AZUL}}}.st-em{{background:{dz.NEVOA};color:{AC}}}
+.nt{{font-size:7pt;color:#7A766F;margin:.08in 0 0}}.vtl{{display:flex;flex-direction:column;gap:5px;border-left:3px solid {dz.FIO};margin-left:.85in;padding-left:.2in}}.vt{{position:relative;font-size:8pt;border-bottom:1px solid {dz.FIO};padding:3px 0}}.vd{{position:absolute;left:-1.07in;top:4px;width:.75in;text-align:right;font-size:7.4pt;color:{dz.CINZA}}}.vt>i{{position:absolute;left:-.29in;top:6px;width:11px;height:11px;border-radius:50%;border:2px solid #fff}}
+.pz{{font-size:9pt;line-height:1.5}}.card p{{font-size:8.6pt;line-height:1.45;margin:.05in 0}}.pb{{display:grid;grid-template-columns:2in 1fr .55in .5in;align-items:center;gap:8px;font-size:8.6pt;margin:7px 0}}.bt{{position:relative;height:14px;background:{dz.NEVOA};border-radius:7px}}
+.iqr{{position:absolute;top:0;bottom:0;background:{AC};opacity:.3;border-radius:7px}}.md{{position:absolute;top:-3px;width:4px;height:20px;background:{AC};border-radius:2px}}.pb em{{font-size:7.4pt;color:#7A766F;font-style:normal}}.lgx{{font-size:7.6pt;color:{dz.CINZA};margin-bottom:.08in}}.lgx i{{display:inline-block;width:14px;height:9px;margin:0 4px 0 10px;position:relative;border-radius:3px}}.lgx i.md{{width:4px;top:0;height:12px}}
+.big{{font-size:30pt;font-weight:500;line-height:1.05}}.lst{{margin:0;padding-left:1.1em;font-size:8.2pt;line-height:1.42}}.lst li{{margin-bottom:.05in}}.est{{font-size:6.6pt;font-weight:500;text-transform:uppercase;color:{dz.AZUL};background:{dz.LILAS};border-radius:99px;padding:2px 7px;margin-left:4px}}
+.ctr{{display:grid;grid-template-columns:1fr 1fr;gap:8px;font-size:7.6pt;border-bottom:1px solid {dz.FIO};padding:5px 0;line-height:1.35}}
+.pag{{position:absolute;right:.45in;bottom:.15in;font-size:7.5pt;font-weight:500;color:{GOLD}}}"""
 open(out + ".html", "w").write(leve_html(f'<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><title>{E(nome_curto)}</title><style>{CSS}</style></head><body>{"".join(S)}</body></html>'))
 js = f"const {{chromium}}=require('playwright');(async()=>{{const b=await chromium.launch();const p=await b.newPage();await p.goto('file://{os.path.abspath(out)}.html',{{waitUntil:'networkidle'}});await p.pdf({{path:'{os.path.abspath(out)}.pdf',width:'13.333in',height:'7.5in',printBackground:true}});await b.close();}})();"
 r = subprocess.run(["node", "-e", js], capture_output=True, text=True, cwd="/tmp")

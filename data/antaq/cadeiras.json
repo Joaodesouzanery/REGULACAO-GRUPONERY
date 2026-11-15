@@ -1,0 +1,242 @@
+{
+ "_nota": "Controle da diretoria por cadeira (pesquisador-mandatos, nov/2026). Até 2022 eram 3 cadeiras; desde dez/2022, 5. gov.br inacessível da nuvem: decretos/posses marcados a_confirmar. Intervalos sem ocupante = VAGO.",
+ "cadeiras": [
+  {
+   "cadeira": "Diretoria-Geral",
+   "ocupantes": [
+    {
+     "nome": "Mário Povia",
+     "nome_chave": "Mário Povia",
+     "tipo": "titular",
+     "ordem_mandato": 2,
+     "inicio": "2016-07-07",
+     "fim_legal": "2020-02-18",
+     "posse": null,
+     "saida": "2020-02-18",
+     "decreto": null,
+     "a_confirmar": true,
+     "fontes": [
+      "https://www25.senado.leg.br/web/atividade/materias/-/materia/126120"
+     ]
+    },
+    {
+     "nome": "Francisval Mendes",
+     "nome_chave": "Francisval Mendes",
+     "tipo": "substituto (DG)",
+     "ordem_mandato": null,
+     "inicio": "2020-02-19",
+     "fim_legal": null,
+     "posse": "2020-02-19",
+     "saida": "2020-10-28",
+     "decreto": null,
+     "a_confirmar": true,
+     "fontes": []
+    },
+    {
+     "nome": "Eduardo Nery Machado Filho",
+     "nome_chave": "Eduardo Nery",
+     "tipo": "titular",
+     "ordem_mandato": 1,
+     "inicio": "2020-11-03",
+     "fim_legal": "2025-02-18",
+     "posse": "2020-11-03",
+     "saida": "2025-02-18",
+     "decreto": "DOU de 29/10/2020",
+     "a_confirmar": false,
+     "fontes": [
+      "https://www25.senado.leg.br/web/atividade/materias/-/materia/145130"
+     ]
+    },
+    {
+     "nome": "Caio César Farias Leôncio",
+     "nome_chave": "Caio Farias",
+     "tipo": "interino (DG)",
+     "ordem_mandato": null,
+     "inicio": "2025-02-20",
+     "fim_legal": null,
+     "posse": "2025-02-20",
+     "saida": "2025-09-15",
+     "decreto": null,
+     "a_confirmar": true,
+     "fontes": []
+    },
+    {
+     "nome": "Frederico Carvalho Dias",
+     "nome_chave": "Frederico Dias",
+     "tipo": "titular",
+     "ordem_mandato": 1,
+     "inicio": "2025-08-28",
+     "fim_legal": "2030-02-18",
+     "posse": "2025-09-16",
+     "saida": null,
+     "decreto": "Decreto de 28/08/2025",
+     "a_confirmar": true,
+     "fontes": [
+      "https://www25.senado.leg.br/web/atividade/materias/-/materia/169667",
+      "https://www.in.gov.br/web/dou/-/decretos-de-28-de-agosto-de-2025-651717433"
+     ]
+    }
+   ]
+  },
+  {
+   "cadeira": "Diretoria 2",
+   "ocupantes": [
+    {
+     "nome": "Adalberto Tokarski",
+     "nome_chave": "Adalberto Tokarski",
+     "tipo": "titular",
+     "ordem_mandato": 2,
+     "inicio": "2018-05-16",
+     "fim_legal": "2022-02-18",
+     "posse": "2018-05-16",
+     "saida": "2022-02-18",
+     "decreto": "DOU de 17/05/2018",
+     "a_confirmar": true,
+     "fontes": [
+      "https://www25.senado.leg.br/web/atividade/materias/-/materia/133013"
+     ]
+    },
+    {
+     "nome": "José Renato Ribas Fialho",
+     "nome_chave": "José Renato Fialho",
+     "tipo": "substituto",
+     "ordem_mandato": null,
+     "inicio": "2022-03-01",
+     "fim_legal": null,
+     "posse": "2022-03-01",
+     "saida": "2022-09-01",
+     "decreto": null,
+     "a_confirmar": true,
+     "fontes": []
+    },
+    {
+     "nome": "Wilson Pereira de Lima Filho",
+     "nome_chave": "Lima Filho",
+     "tipo": "titular",
+     "ordem_mandato": 1,
+     "inicio": "2022-12-14",
+     "fim_legal": "2027-02-18",
+     "posse": "2022-12-14",
+     "saida": null,
+     "decreto": "Decreto de 29/11/2022",
+     "a_confirmar": false,
+     "fontes": [
+      "https://www25.senado.leg.br/web/atividade/materias/-/materia/155159"
+     ]
+    }
+   ]
+  },
+  {
+   "cadeira": "Diretoria 3",
+   "ocupantes": [
+    {
+     "nome": "Francisval Dias Mendes",
+     "nome_chave": "Francisval Mendes",
+     "tipo": "titular",
+     "ordem_mandato": 1,
+     "inicio": "2017-05-04",
+     "fim_legal": "2021-02-18",
+     "posse": null,
+     "saida": "2021-02-18",
+     "decreto": "DOU de 05/05/2017",
+     "a_confirmar": true,
+     "fontes": [
+      "https://www25.senado.leg.br/web/atividade/materias/-/materia/128320"
+     ]
+    },
+    {
+     "nome": "Flávia Morais Lopes Takafashi",
+     "nome_chave": "Flávia Takafashi",
+     "tipo": "titular",
+     "ordem_mandato": 1,
+     "inicio": "2021-07-20",
+     "fim_legal": "2026-02-18",
+     "posse": "2021-07-20",
+     "saida": "2026-02-18",
+     "decreto": "Decreto de 19/07/2021",
+     "a_confirmar": true,
+     "fontes": [
+      "https://www25.senado.leg.br/web/atividade/materias/-/materia/145154"
+     ]
+    },
+    {
+     "nome": "Cristina Castro Lucas de Souza",
+     "nome_chave": "Cristina Castro",
+     "tipo": "substituto",
+     "ordem_mandato": null,
+     "inicio": "2026-02-19",
+     "fim_legal": null,
+     "posse": "2026-02-19",
+     "saida": "2026-08-17",
+     "decreto": null,
+     "a_confirmar": true,
+     "fontes": [
+      "https://agenciainfra.com/blog/antaq-convoca-servidora-para-substituicao-na-diretoria/"
+     ]
+    },
+    {
+     "nome": "Alexandre Palmieri Florambel",
+     "nome_chave": "Alexandre Florambel",
+     "tipo": "substituto",
+     "ordem_mandato": null,
+     "inicio": "2026-08-18",
+     "fim_legal": null,
+     "posse": "2026-08-18",
+     "saida": null,
+     "decreto": "convocação DOU 18/08/2026",
+     "a_confirmar": true,
+     "fontes": [
+      "https://agenciainfra.com/blog/antaq-convoca-servidor-para-nova-substituicao-na-diretoria/"
+     ]
+    }
+   ],
+   "lista_triplice": [
+    "Cristina Castro Lucas de Souza",
+    "Alexandre Palmieri Florambel",
+    "3º nome a confirmar (Decreto de 30/01/2025)"
+   ]
+  },
+  {
+   "cadeira": "Diretoria 4",
+   "ocupantes": [
+    {
+     "nome": "Alber Furtado de Vasconcelos Neto",
+     "nome_chave": "Alber Vasconcelos",
+     "tipo": "titular",
+     "ordem_mandato": 1,
+     "inicio": "2022-12-14",
+     "fim_legal": "2026-12-13",
+     "posse": "2022-12-14",
+     "saida": null,
+     "decreto": "Decreto de 29/11/2022 (a confirmar)",
+     "a_confirmar": true,
+     "fontes": [
+      "https://www25.senado.leg.br/web/atividade/materias/-/materia/155163"
+     ]
+    }
+   ],
+   "criada": "2022-12-14"
+  },
+  {
+   "cadeira": "Diretoria 5",
+   "ocupantes": [
+    {
+     "nome": "Caio César Farias Leôncio",
+     "nome_chave": "Caio Farias",
+     "tipo": "titular",
+     "ordem_mandato": 1,
+     "inicio": "2022-12-14",
+     "fim_legal": "2027-12-13",
+     "posse": "2022-12-14",
+     "saida": null,
+     "decreto": "Decreto de 29/11/2022 (a confirmar)",
+     "a_confirmar": true,
+     "fontes": [
+      "https://www25.senado.leg.br/web/atividade/materias/-/materia/155164"
+     ]
+    }
+   ],
+   "criada": "2022-12-14"
+  }
+ ]
+}
