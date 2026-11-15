@@ -53,6 +53,8 @@ if os.path.exists("data/sem_legenda.jsonl"):
             velho = _d.get("motivo") == "privado" and (_d.get("em") or "2000") < (datetime.date.today() - datetime.timedelta(days=30)).isoformat()
             if _d.get("motivo") in ("sem_legenda", "privado") and not velho: _sl.add(_d["id"])  # privado: tenta de novo 1x por mês  # legenda desativada: não insistir (apague a linha para tentar de novo)
         except Exception: pass
+DESDE = os.environ.get("DESDE", "2018-01-01")  # recorte do projeto: só 2018 em diante (vídeos sem data entram)
+vids = [v for v in vids if not v.get("data") or v["data"] >= DESDE]
 fila = [v for v in vids if not os.path.exists(f"data/transcricoes/{v['id']}.json") and v["id"] not in _sl]
 print(f"{len(vids)-len(fila)} já baixadas, {len(fila)} na fila", flush=True)
 if not fila: print("FILA VAZIA"); sys.exit(0)

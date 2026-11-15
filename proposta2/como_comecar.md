@@ -18,3 +18,13 @@
 2. `pautas.py` (agenda e alerta), que destrava os blocos 1, 2 e 4.
 3. `similares.py` e `prazos.py` (blocos 3 e 7).
 4. `/cliente <nome>` (bloco 8), juntando relatório por empresa, raio-X e alertas.
+
+## Situação em 14/11/2026 — Fase 2 feita
+- Bloco 4 (Agenda): `pipeline/pautas.py` (pautas oficiais quando publicadas + calendário oficial em `data/<ag>/calendario.json`; ANTAQ 2º sem/2026 cadastrado).
+- Produto D (Alerta pré-pauta): `pipeline/alerta_pauta.py clientes/<x>/<pasta>` — 1 página com itens do cliente, previsão por diretor e precedentes. Teste: CS Portos × 624ª ANTAQ.
+- Bloco 7 (Comparativa): `pipeline/similares.py` (precedentes por texto + empresa) e `pipeline/mapa_tema.py` (como cada diretor vota num assunto).
+- Boletim (C): ANTT, ANM e ANTAQ de outubro/2026 gerados.
+- Marca: «[parceiro] em parceria com Grupo Nery» em todos os PDFs (`pipeline/marca.py`; `--parceiro logo.png`).
+- Contrato: modelos em `proposta2/contrato/` (para advogado) + skills `contratos`, `conformidade-entrega` e agentes `revisor-contratual`, `pesquisador-juridico`.
+- Lembretes: `pipeline/pendencias.py` avisa pauta não publicada, alerta não gerado, boletim do mês, renovação/reajuste de contrato.
+- Fase 3: `prazos.py` (raio-X de prazo), `/cliente` (pacote mensal), entidades da ANTAQ, calendário da ANTT e da ANM, Whisper das antigas.

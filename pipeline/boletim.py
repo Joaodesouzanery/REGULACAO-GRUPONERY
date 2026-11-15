@@ -5,6 +5,7 @@ Saída padrão: agencias/<ag>/boletins/boletim_<ag>_<AAAA-MM>.pdf (gerado, fora 
 import sys, os, re, json, html, base64, sqlite3, datetime, subprocess, collections
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from pdf_leve import leve_html, leve_pdf
+from marca import parceria_html, MARCA_CSS
 import previsao
 from desfecho import desfecho_item
 
@@ -41,7 +42,7 @@ IT = c.execute(f"select i.*, r.numero, r.data, r.video_id from itens i join reun
 VT = c.execute(f"select v.*, i.assunto, i.item, i.resultado, r.numero, r.data, r.video_id from votos v join itens i on i.id=v.item_id join reunioes r on r.id=i.reuniao_id where i.reuniao_id in ({Q})", rid).fetchall()
 res = lambda i: (i["resultado"] or "").lower()
 n_vista = sum("vista" in res(i) for i in IT); n_ret = sum("retirad" in res(i) for i in IT); n_sig = sum("sigilo" in res(i) for i in IT)
-div_items = {v["item_id"] for v in VT if v["categoria"] in ("vencido", "revisor_diverge")}
+div_items = {v["item_id"] for v in VT if v["categoria"] in ("vencido", "revisor_diverge") and not re.search(r"vista|n[ãa]o deliberad", v["resultado"] or "", re.I)}
 delib = [i for i in IT if not any(k in res(i) for k in ("vista", "retirad", "sigilo", "conhecimento"))]
 n_div = len(div_items)
 temas = collections.Counter(t for i in IT for (t,) in c.execute("select tema from item_temas where item_id=?", (i["id"],)))
@@ -61,14 +62,15 @@ venc = [m for m in mand if (m.get("fim_legal") or m.get("fim") or "") and fim.is
 entr = [m for m in mand if (m.get("inicio") or "")[:7] == MES]; sai = [m for m in mand if (m.get("fim") or "")[:7] == MES]
 # canal × texto (cobertura do mês)
 vids = c.execute("select id, titulo, tipo from videos where data between ? and ?", (ini.isoformat(), fim.isoformat())).fetchall()
-sem = [v for v in vids if v["tipo"] == "diretoria" and v["id"] not in {r["video_id"] for r in R}]
+todos = {x for (x,) in c.execute("select video_id from reunioes")}
+sem = [v for v in vids if v["tipo"] == "diretoria" and v["id"] not in todos]
 
 LOGO = b64("docs/marca/circle/logo_circle_branco.png", "png"); LOGO_P = b64("docs/marca/circle/logo_circle_preto.png", "png")
 REC = "docs/marca/setores/recortes"
 top = lambda n, t: f'<header class="top"><span class="num">{n:02d}</span><span>{E(t)} · {NOME} · {MESN}</span>{f"<img src={LOGO_P} class=logo-p>" if LOGO_P else ""}</header>'
 S = []
 S.append(f'''<section class="pg capa" style="background-image:url({b64(f"{REC}/{SET}_capa.jpg")})"><div class="cartao">{f'<img class="logo" src="{LOGO}">' if LOGO else ''}
-<div class="eyebrow">Boletim mensal · inteligência regulatória</div><h1>{NOME} em {MESN}</h1><div class="onda"></div>
+{parceria_html()}<div class="eyebrow">Boletim mensal · inteligência regulatória</div><h1>{NOME} em {MESN}</h1><div class="onda"></div>
 <p>O que a diretoria colegiada decidiu, quem relatou e quem divergiu, empresas em pauta, diretoria e eventos públicos — com o link do vídeo no minuto de cada decisão.</p>
 <div class="meta">{len(R)} reuniões de diretoria · {len(IT)} itens · {len(EV)} eventos públicos · emitido em {datetime.date.today().strftime("%d/%m/%Y")}</div></div></section>''')
 # 1 números
@@ -91,7 +93,7 @@ for t, _ in temas.most_common(5):
 S.append(f'<section class="pg cinza">{top(2, "Decisões por tema")}<h2>Principais decisões, por tema</h2><div class="cgrid3">{cards}</div><div class="rod">Um destaque por tema entre os 5 temas mais frequentes do mês. ▶ abre o vídeo no minuto (legenda automática: confira nomes e valores).</div></section>')
 # 3 divergências
 dv = [v for v in VT if v["categoria"] in ("vencido", "revisor_diverge", "vista")]
-lin = "".join(f'<tr><td>RD {E(v["numero"])}<br>{fmtd(v["data"])[:5]}</td><td>{E(v["diretor"])}</td><td>{E({"vencido": "vencido", "revisor_diverge": "divergiu (revisor)", "vista": "pediu vista"}[v["categoria"]])}</td>'
+lin = "".join(f'<tr><td>RD {E(v["numero"])}<br>{fmtd(v["data"])[:5]}</td><td>{E(v["diretor"])}</td><td>{E("renovou vista (revisor)" if v["categoria"] == "revisor_diverge" and re.search(r"vista", v["resultado"] or "", re.I) else {"vencido": "vencido", "revisor_diverge": "divergiu (revisor)", "vista": "pediu vista"}[v["categoria"]])}</td>'
               f'<td>{E((v["assunto"] or "")[:80])}</td><td>{E((v["justificativa"] or v["voto"] or "")[:150])}</td><td><a href="{yt(v["video_id"], v["ts"])}">▶</a></td></tr>' for v in dv[:9])
 S.append(f'<section class="pg">{top(3, "Divergências e vistas")}<h2>Quem divergiu ou pediu vista — e por quê</h2>'
          + (f'<table><tr><th>Reunião</th><th>Diretor</th><th>O quê</th><th>Assunto</th><th>Justificativa registrada</th><th></th></tr>{lin}</table>' if lin else '<p class="vazio">Nenhuma divergência ou vista registrada no mês: todos os itens deliberados seguiram o relator.</p>')
@@ -121,9 +123,12 @@ S.append(f'<section class="pg cinza">{top(7, "O que esperar")}<h2>O que esperar 
          f'<li>{"Com vaga aberta, as decisões seguem com interinos — " + E(vac[0].get("interinos") or "") if vac else "Colegiado completo."}</li>'
          f'<li>{"Mandatos vencendo: " + ", ".join(E(m["diretor"]) for m in venc) + " — atenção a sabatinas e reconduções." if venc else "Sem fim de mandato no horizonte de 120 dias."}</li></ul></div></div>'
          f'<div class="rod">Inferência a partir do histórico; pautas futuras ainda não são coletadas automaticamente (ver Proposta 2, bloco Agenda).</div></section>')
-cob = E(subprocess.run(["python3", "pipeline/cobertura_resposta.py", AG, "-", "-", str(ano)], capture_output=True, text=True).stdout.strip()).replace("\n", "<br>")
+cob = E(subprocess.run(["python3", "pipeline/cobertura_resposta.py", AG, "-", "-", str(ano)], capture_output=True, text=True).stdout.strip().replace("**", "")).replace("\n", "<br>")
+calj = json.load(open(f"{D}/calendario.json")) if os.path.exists(f"{D}/calendario.json") else []
+vv = [x["reuniao"] + "ª (" + fmtd(x["data"])[:5] + ")" for x in calj if x["data"][:7] == MES and x.get("formato") == "virtual"]
+virt = ("<b>Reuniões virtuais do mês (sem transmissão; só ata, ainda não incluídas):</b> " + E(", ".join(vv)) + "<br><br>") if vv else ""
 semh = ("<b>Reuniões do mês no canal sem transcrição:</b> " + E(", ".join(v["titulo"] for v in sem)) + "<br><br>") if sem else ""
-S.append(f'<section class="pg fim">{f"<img class=logo src={LOGO}>" if LOGO else ""}<h2>Cobertura e como ler</h2><div class="fimc">{semh}{cob}</div></section>')
+S.append(f'<section class="pg fim">{f"<img class=logo src={LOGO}>" if LOGO else ""}{parceria_html()}<h2>Cobertura e como ler</h2><div class="fimc">{semh}{virt}{cob}</div></section>')
 TOT = len(S)
 S = [s.replace("</section>", f'<div class="pag">{i+1:02d} / {TOT:02d}</div></section>', 1) if i else s for i, s in enumerate(S)]
 CSS = """@page{size:13.333in 7.5in;margin:0}*{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,sans-serif;color:#0B0B0B;-webkit-print-color-adjust:exact;print-color-adjust:exact}
@@ -142,7 +147,7 @@ table{width:100%;border-collapse:collapse;font-size:8.4pt}th{text-align:left;fon
 .vazio{color:#6E6A63;font-size:11pt}.rod{position:absolute;left:.5in;right:1.3in;bottom:.16in;font-size:7.5pt;color:#6E6A63}.pag{position:absolute;right:.5in;bottom:.16in;font-size:8pt;font-weight:700;color:#C99A06}
 .fim{background:#0B0B0B;color:#fff;padding:.6in .8in}.fim h2{font-size:26pt;margin:.3in 0 .25in}.fimc{font-size:9pt;line-height:1.5;color:#CFCAC0}"""
 base = f"{OUT}/boletim_{AG}_{MES}"
-open(base + ".html", "w").write(leve_html(f'<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><title>Boletim {NOME} {MES}</title><style>{CSS}</style></head><body>{"".join(S)}</body></html>'))
+open(base + ".html", "w").write(leve_html(f'<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><title>Boletim {NOME} {MES}</title><style>{CSS}{MARCA_CSS}</style></head><body>{"".join(S)}</body></html>'))
 js = f"""const {{chromium}}=require('playwright');(async()=>{{const b=await chromium.launch();const p=await b.newPage();await p.goto('file://{os.path.abspath(base)}.html',{{waitUntil:'networkidle'}});await p.pdf({{path:'{os.path.abspath(base)}.pdf',width:'13.333in',height:'7.5in',printBackground:true}});await b.close();}})();"""
 r = subprocess.run(["node", "-e", js], capture_output=True, text=True, cwd="/tmp")
 if r.returncode == 0: leve_pdf(base + ".pdf")

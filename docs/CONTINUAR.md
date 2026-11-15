@@ -77,3 +77,12 @@ Legenda automática (erros de nomes/números), falantes inferidos, minuto aproxi
 - Segunda 15h07 (tarefa semanal): roda `pendencias.py` e lembra a coleta do Mac.
 - Dia 1, 08h41: checagem mensal (skill `checagem-mensal`).
 - `proposta2/`: segundo produto (avaliação).
+
+
+## Produtos e comandos (nov/2026)
+- A · Relatório temático («10 perguntas» + diretoria): `python3 pipeline/relatorio_v2.py <pasta> --agencia <ag>`
+- B · Relatório da empresa (com mapeamentos, análise antecipada e contrato em foco via empresa.json): `python3 pipeline/relatorio_empresa.py clientes/<x>/<pasta>`
+- C · Boletim mensal: `python3 pipeline/boletim.py <ag> AAAA-MM`
+- D · Alerta pré-pauta: `python3 pipeline/pautas.py <ag>` → `python3 pipeline/alerta_pauta.py clientes/<x>/<pasta>`
+- Roteiro de qualquer entrega: skill `montar-relatorio` (12 etapas) · pendências: `python3 pipeline/pendencias.py`
+- Venda só por parceiro (Circle etc.), marca «em parceria com Grupo Nery»; contratos em `proposta2/contrato/`.

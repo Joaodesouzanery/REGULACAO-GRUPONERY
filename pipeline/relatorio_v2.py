@@ -8,6 +8,7 @@ Identidade: docs/marca/circle/ (logo branco/preto); fotos de setor em docs/marca
 import sys, os, re, glob, html, json, base64, sqlite3, datetime, subprocess, collections
 sys.path.insert(0, __import__('os').path.dirname(__import__('os').path.abspath(__file__)))
 from pdf_leve import leve_html, leve_pdf
+from marca import parceria_html, MARCA_CSS
 P = sys.argv[1].rstrip("/")
 arg = lambda k, d=None: sys.argv[sys.argv.index(k) + 1] if k in sys.argv else d
 TIT = arg("--titulo", "Inteligência regulatória"); SUB = arg("--subtitulo", "Como a diretoria decide, com evidência de cada voto")
@@ -92,7 +93,7 @@ def do_md(md):
         tg = "Efeito (% dos itens)" if ef else "Quem relata"
     cards = []
     for l in linhas:
-        m = re.match(r"\s*- \*\*RD ([^*]+?) \(([\d-]+)\)\*\*,? item ([^·]+?) · (.+)", l)
+        m = re.match(r"\s*- \*\*RD ([^*]+?) \(([\d-]+)\)\*\*,? item ([^·]+?) · (.+)", l) or re.match(r"\s*- \*\*RD ([^*(]+?) \(([\d-]+)\),? item ([^*]+?)\*\*\s*[—-]\s*(.+)", l)
         if m:
             lk = re.search(r"\((https?://[^)]+)\)", l); resto = re.sub(r"\[[^\]]+\]\([^)]+\)", "", m.group(4))
             partes = [x.strip() for x in resto.split("·") if x.strip()]
@@ -108,12 +109,14 @@ Q = []
 for i, (q, t) in enumerate(perg):
     md = open(resp[i]).read() if i < len(resp) else ""
     ag = t.get("agencia", AG).strip().lower()
-    d = do_diretor(ag, t["diretor"].strip(), t.get("tema", "").strip() or None) if t.get("diretor") and conn(ag) else None
+    d = do_diretor(ag, t["diretor"].strip(), t.get("tema", "").strip() or None) if t.get("diretor") and t["diretor"].strip().lower() not in ("todos", "-", "") and conn(ag) else None
     Q.append({"q": q, "t": t, "ag": ag, "curta": curta(md), "dados": d or do_md(md), "setor": t.get("setor") or {"antt": "rodovias", "anm": "mineracao", "antaq": "portos"}.get(ag, "rodovias")})
 # ---------- HTML ----------
 SET_NOME = {"onibus": "Ônibus", "rodovias": "Rodovias", "ferrovias": "Ferrovias", "mineracao": "Mineração", "portos": "Portos", "barragens": "Barragens", "navegacao": "Navegação"}
 def setor_de(x):
-    t = x["t"]; s = (t.get("tema", "") + " " + x["q"]).lower()
+    t = x["t"]
+    if t.get("setor") and foto(t["setor"].strip()): return t["setor"].strip()  # setor informado na pergunta vence a heurística
+    s = (t.get("tema", "") + " " + x["q"]).lower()
     for k, rx in (("onibus", "ônibus|onibus|cassa"), ("ferrovias", "ferrov|rumo"), ("barragens", "barrage"), ("rodovias", "concess|rodov|free flow|reequil|concer"), ("mineracao", "mine|cfem|outorga|vale|garimp|área")):
         if re.search(rx, s) and foto(k): return k
     return x["setor"] if foto(x["setor"]) else next((k for k in SET_NOME if foto(k)), None)
@@ -142,7 +145,7 @@ S = []
 capa = {"antt": "rodovias", "anm": "mineracao", "antaq": "portos"}.get((Q[0]["ag"] if Q else AG), "rodovias")
 if not foto(capa): capa = Q[0]["st"] if Q else "rodovias"
 S.append(f'''<section class="pg capa fc-{capa}"><div class="veu"></div>
-<div class="cartao">{f'<img class="logo" src="{LOGO_B}" alt="Circle">' if LOGO_B else ''}<div class="eyebrow">Inteligência regulatória · {E(ags)}</div>
+<div class="cartao">{f'<img class="logo" src="{LOGO_B}" alt="Circle">' if LOGO_B else ''}{parceria_html()}<div class="eyebrow">Inteligência regulatória · {E(ags)}</div>
 <h1>{E(TIT)}</h1><div class="onda"></div><p>{E(SUB)}</p><div class="meta">{hoje} · {len(Q)} perguntas</div></div>
 <div class="cred">{E(CRED.get(capa, ""))}</div></section>''')
 # sumário: uma página, grade de cartões (foto 16:9 sem corte + número + pergunta)
@@ -224,7 +227,7 @@ DIRET = "--sem-diretoria" not in sys.argv  # produto A: a diretoria vai DENTRO d
 S = [sec.replace("{PAGN}", "" if DIRET else f"{k+1:02d} / {TOT:02d}") for k, sec in enumerate(S)]
 H = f'''<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><title>{E(TIT)}</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Rubik:wght@500;600&display=swap" rel="stylesheet">
-<style>{CSS}{COR_CSS}{IMG_CSS}</style></head><body>{"".join(S)}</body></html>'''
+<style>{CSS}{COR_CSS}{IMG_CSS}{MARCA_CSS}</style></head><body>{"".join(S)}</body></html>'''
 open(f"{P}/relatorio_v2.html", "w").write(leve_html(H))
 js = f"""const {{chromium}}=require('playwright');(async()=>{{const b=await chromium.launch();const p=await b.newPage();await p.goto('file://{os.path.abspath(P)}/relatorio_v2.html',{{waitUntil:'networkidle'}});await p.pdf({{path:'{os.path.abspath(P)}/relatorio_v2.pdf',width:'13.333in',height:'7.5in',printBackground:true,margin:{{top:'0',bottom:'0',left:'0',right:'0'}}}});await b.close();}})();"""
 r = subprocess.run(["node", "-e", js], capture_output=True, text=True, cwd="/tmp")

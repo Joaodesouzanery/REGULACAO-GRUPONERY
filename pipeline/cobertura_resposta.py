@@ -10,7 +10,7 @@ per = sys.argv[4] if len(sys.argv) > 4 else None
 D = "data" if ag == "antt" else f"data/{ag}"
 if not os.path.exists(f"{D}/videos.jsonl"):
     print(f"**Cobertura desta resposta:** a agência {ag.upper()} ainda NÃO está na base — não temos dados para responder."); sys.exit()
-a0, a1 = (per.split("-") + [per])[:2] if per else ("0000", "9999")
+a0, a1 = (per.split("-") + [per])[:2] if per else ("2018", "9999")  # recorte padrão do projeto: 2018 em diante (decisão de nov/2026)
 V = [json.loads(l) for l in open(f"{D}/videos.jsonl")]
 V = [v for v in V if not v.get("duplicata_de") and v["tipo"] != "outro" and a0 <= (v.get("data") or "")[:4] <= a1]
 tx = lambda v: os.path.exists(f"{D}/transcricoes/{v['id']}.json")
@@ -21,7 +21,7 @@ for v in V:
     c[(t, "canal")] += 1; c[(t, "texto")] += tx(v); c[(t, "analisado")] += an(v)
     if tx(v) and not an(v): anos_falt[(t, (v.get("data") or "????")[:4])] += 1
     if not tx(v): sem.append(v)
-L = ["**Cobertura desta resposta** (" + ag.upper() + (f", {per}" if per else ", todos os anos") + "):"]
+L = ["**Cobertura desta resposta** (" + ag.upper() + (f", {per}" if per else ", 2018 em diante") + "):"]
 for t in ("reuniões de diretoria", "eventos (audiências/participativas/workshops)"):
     if c[(t, "canal")]: L.append(f"- {t}: {c[(t,'canal')]} no canal · {c[(t,'texto')]} com texto · **{c[(t,'analisado')]} analisadas**")
 falt = collections.defaultdict(list)

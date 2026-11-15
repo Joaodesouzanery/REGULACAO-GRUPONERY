@@ -8,6 +8,11 @@
 - **Boletim mensal da agência** (premium, à parte) — `pipeline/boletim.py <ag> AAAA-MM`.
 - O PDF só de diretoria (`relatorio_diretoria.py`) é peça interna/prospecção.
 
+## Pacote do cliente (piloto CS Portos, nov/2026): 2 peças
+1. **Relatório da empresa** (trimestral) — `python3 pipeline/relatorio_painel.py clientes/<x>/<pasta>`; anexo: planilha `pipeline/planilha_cliente.py`.
+2. **Boletim mensal do cliente** — `python3 pipeline/boletim_cliente.py clientes/<x>/<pasta> AAAA-MM`: capa + alerta pré-pauta + perguntas do mês + o mês na agência + diretoria + cobertura. Alerta avulso continua possível quando a pauta sai no meio do mês.
+Recorte padrão das peças: últimos 3 anos (contexto desde 2018); temas validados pelo agente analista-tema.
+
 ## Ofertas sugeridas
 | Oferta | O que o cliente recebe | Ritmo | Como cobrar |
 |---|---|---|---|
