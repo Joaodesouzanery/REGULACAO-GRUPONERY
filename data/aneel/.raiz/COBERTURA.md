@@ -26,7 +26,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2021 | diretoria | 84 | 81 | 0 |
 | 2021 | audiencia | 33 | 0 | 0 |
 | 2020 | workshop | 2 | 0 | 0 |
-| 2020 | diretoria | 90 | 20 | 0 |
+| 2020 | diretoria | 90 | 32 | 0 |
 | 2020 | audiencia | 9 | 0 | 0 |
 | 2019 | workshop | 8 | 0 | 0 |
 | 2019 | diretoria | 77 | 0 | 0 |
@@ -537,5 +537,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2020-11-10 · 42ª Reunião Pública Ordinária ANEEL – 10/11/2020 – Parte 1 · `Zen2AH1gcgQ`
 - 2020-11-03 · 41ª Reunião Pública Ordinária ANEEL – 03/11/2020 – Parte 2 · `j2tWcf-EvGs`
 - 2020-11-03 · 41ª Reunião Pública Ordinária ANEEL – 03/11/2020 – Parte 1 · `Tpt2zAfCLh4`
+- 2020-10-27 · 40ª Reunião Pública Ordinária ANEEL – 27/10/2020 · `Lt3hmS1XonQ`
+- 2020-10-26 · 9ª Reunião Pública Extraordinária ANEEL – 26/10/2020 · `33dEQCG5iSU`
+- 2020-10-20 · 39ª Reunião Pública Ordinária ANEEL – 20/10/2020 · `YDuF698Ssz8`
+- 2020-10-13 · 38ª Reunião Pública Ordinária ANEEL – 13/10/2020 – Parte 2 · `1FygINz8xKQ`
+- 2020-10-13 · 38ª Reunião Pública Ordinária ANEEL – 13/10/2020 – Parte 1 · `Naw8g31uX5M`
+- 2020-10-09 · 8ª Reunião Pública Extraordinária ANEEL – 09/10/2020 · `8di0cANtG8w`
+- 2020-10-06 · 37ª Reunião Pública Ordinária ANEEL – 06/10/2020 · `DmixKgHhq88`
+- 2020-09-29 · 36ª Reunião Pública Ordinária ANEEL – 29/09/2020 – Parte 2 · `r7fDWRDEHWU`
+- 2020-09-29 · 36ª Reunião Pública Ordinária ANEEL – 29/09/2020 – Parte 1 · `Z9fgvzatTPQ`
+- 2020-09-22 · 35ª Reunião Pública Ordinária ANEEL – 22/09/2020 – Parte 2 · `eyDOAhw_AMc`
+- 2020-09-22 · 35ª Reunião Pública Ordinária ANEEL – 22/09/2020 – Parte 1 · `j9m4pI4Xwjc`
+- 2020-09-15 · 34ª Reunião Pública Ordinária ANEEL – 15/09/2020 – Parte 2 · `SgRxjjdjWUc`
 
 Vídeos sem legenda registrados: 8 (ver `data/sem_legenda.jsonl`).
