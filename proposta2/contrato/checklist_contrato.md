@@ -25,6 +25,7 @@
 20. Uso de marca/caso do cliente só com autorização escrita.
 21. Lei brasileira, mediação prévia, foro.
 22. Nenhum campo `{{ }}` sem preencher; valores batem com `contrato.json` e com `proposta2/modelo_comercial.md`.
+22-A. Dados de processos do cliente: declaração de origem lícita; vedação de uso de credencial do cliente, de automação e de contorno de CAPTCHA (CP art. 154-A; Lei 12.737/2012; termos do SEI); sigilosos fora de divulgação/demo/terceiros; eliminação no término (LGPD arts. 15–16); LAI (Lei 12.527/2011) para o público.
 
 ## B. Cada entrega (PDF) antes de enviar
 23. Arquivo gerado de `clientes/<x>/`, que está fora do git (`git check-ignore clientes/`).
@@ -37,3 +38,10 @@
 30. Dados pessoais restritos à função pública; dados do cliente só no que ele contratou.
 31. Entrega dentro do SLA do plano (data registrada em `clientes/<x>/entrega.md`).
 32. Material de divulgação derivado: autorização escrita do cliente arquivada, ou versão anônima sem elementos identificáveis.
+33. `clientes/<x>/<pasta>/processos.json`: todo processo tem `fonte` («informado pelo cliente em DD/MM/AAAA»); `sigiloso: true` não aparece em material público (agente `guardiao-dados-cliente`).
+
+### Fontes legais (conferidas em 15/11/2026)
+- Lei 12.737/2012 (inclui art. 154-A no CP): https://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Lei/L12737.htm (pena atual alterada pela Lei 14.155/2021; conferir texto compilado do CP: https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm)
+- LGPD, arts. 15 e 16: https://planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709compilado.htm
+- LAI: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm
+- Termos do SEI (cadastro pessoal e intransferível; sigilo da senha), ex.: https://www.gov.br/anatel/pt-br/centrais-de-conteudo/documentos/termo-de-declaracao.pdf e https://www.gov.br/gestao/pt-br/assuntos/sei/arquivos/termo-de-declaracao-usuario-externo-sei-8.pdf

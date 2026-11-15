@@ -30,6 +30,13 @@ Autorizados: GitHub (repositório privado; não recebe dados do cliente), proved
 ## 6. Retenção, devolução e eliminação
 Dados do cliente mantidos durante o contrato; no término, devolvidos (PDF/CSV) e eliminados em até 30 dias, salvo obrigação legal (art. 16). Dados de agentes públicos da base: mantidos enquanto houver finalidade de análise da função pública, com revisão anual.
 
+## 6-A. Dados de processos do controlador
+6-A.1. O controlador declara que os dados de processos enviados (número, andamentos, intimações) vêm de acesso legítimo (parte, interessado ou procurador) ou de fonte pública.
+6-A.2. O operador não usa credenciais do controlador no SEI ou em outro sistema, não automatiza acesso nem contorna CAPTCHA (Código Penal, art. 154-A; Lei 12.737/2012; termos de uso do SEI, cadastro pessoal e intransferível). Os dados chegam por envio do controlador e são registrados com o campo `fonte` («informado pelo cliente em DD/MM/AAAA»).
+6-A.3. Processos sigilosos ou restritos ficam marcados `sigiloso: true` e nunca entram em divulgação, demo ou material para terceiros; ficam em `clientes/`, fora do controle de versão (GitHub).
+6-A.4. Término do tratamento e eliminação conforme arts. 15 e 16 da LGPD (seção 6), com registro da eliminação enviado ao controlador.
+6-A.5. Informação pública pode ser obtida via Lei 12.527/2011 (LAI) ou consulta pública, sem credencial do controlador.
+
 ## 7. Encarregado
 Grupo Nery: {{encarregado.nome}} — {{encarregado.email}} (art. 41).
 

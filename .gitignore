@@ -11,3 +11,6 @@ data/anm/atas/pdf/
 data/regulacao.db
 data/antaq/regulacao.db
 agencias/*/boletins/*.html
+
+# base legal gerada (o .md vai para o git)
+data/leis.db

@@ -5,7 +5,8 @@ Uso:
   consulta.py empresa CONCER | microtema onibus_cassacao [--diretor "Lucas Asfor"] | precedentes "cassação circuito aberto" | relator CONCER
   consulta.py reincidencia | grupo Rumo | sustentacoes | tramitacao
   consulta.py busca "empresa de ônibus cassação"
-  consulta.py temas | diretores | mandatos | trecho <texto> [--tipo audiencia|participativa|diretoria|workshop]"""
+  consulta.py temas | diretores | mandatos | trecho <texto> [--tipo audiencia|participativa|diretoria|workshop]
+  consulta.py lei "pedido de vista"   ← base legal (data/leis.db, gerada por pipeline/indexar_leis.py)"""
 import json, sqlite3, sys, re, collections
 c = sqlite3.connect("data/regulacao.db"); c.row_factory = sqlite3.Row
 def segs(ts):
@@ -233,7 +234,18 @@ def busca(txt):
 if __name__ == "__main__":
     a = sys.argv[1:]
     if not a: print(__doc__); sys.exit()
-    if a[0] == "perfil": print(perfil(a[1], a[a.index("--tema") + 1] if "--tema" in a else None))
+    if a[0] == "lei":
+        import os
+        if not os.path.exists("data/leis.db"): print("data/leis.db não existe: rode python3 pipeline/indexar_leis.py"); sys.exit(1)
+        L = sqlite3.connect("data/leis.db")
+        termos = re.findall(r"\w+", " ".join(a[1:]))
+        rows = []
+        for op in (" AND ", " OR "):  # tenta todos os termos; se nada, qualquer termo
+            rows = L.execute("select lei, artigo, url, snippet(leis_fts, 2, '«', '»', ' … ', 40) from leis_fts where leis_fts match ? order by bm25(leis_fts) limit 5", (op.join(termos),)).fetchall() if termos else []
+            if rows: break
+        for lei, art, url, sn in rows: print(f"- **{lei}, {art}** — {' '.join(sn.split())}\n  {url}")
+        print("" if rows else "nada encontrado"); print("Texto de referência; confira a versão oficial. Não é aconselhamento jurídico.")
+    elif a[0] == "perfil": print(perfil(a[1], a[a.index("--tema") + 1] if "--tema" in a else None))
     elif a[0] == "tema": print(tema(a[1]))
     elif a[0] == "trecho":
         tp = a[a.index("--tipo") + 1] if "--tipo" in a else None

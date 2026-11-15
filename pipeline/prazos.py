@@ -22,6 +22,11 @@ def aparicoes(ag):
     return c, P
 
 
+def _d(x):
+    x = str(x)[:10]
+    return datetime.date.fromisoformat(x if len(x) == 10 else (x + "-15")[:10])
+
+
 def duracoes(ag, desde="2018-01-01"):
     """{processo: (dias, tema, n_aparicoes, decidido)} — dias da 1ª aparição até a decisão (ou até hoje, se pendente)."""
     c, P = aparicoes(ag); out = {}
@@ -30,9 +35,9 @@ def duracoes(ag, desde="2018-01-01"):
         if its[0]["data"] < desde: continue
         decs = [i for i in its if desfecho_item(c, i["id"]) != "pendente"]
         dec = decs[-1] if decs else None  # decisão final (última deliberação)
-        fim = datetime.date.fromisoformat(dec["data"][:10]) if dec else hoje
+        fim = _d(dec["data"]) if dec else hoje
         tema = (c.execute("select tema from item_temas where item_id=? limit 1", (its[0]["id"],)).fetchone() or ["outros"])[0]
-        out[k] = ((fim - datetime.date.fromisoformat(its[0]["data"][:10])).days, tema, len({i["data"] for i in its}), bool(dec))
+        out[k] = ((fim - _d(its[0]["data"])).days, tema, len({i["data"] for i in its}), bool(dec))
     return out
 
 

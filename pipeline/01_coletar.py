@@ -12,7 +12,12 @@ TIPOS = [  # (tipo, prioridade, regex) — primeira que casar vence
     ("workshop", 4, r"workshop|chamamento|sandbox"),
 ]
 DATA = re.compile(r"(\d{1,2})/(\d{1,2})/(\d{2,4})")
+_EXC = None
+if os.path.exists("data/config_agencia.json"):
+    _x = json.load(open("data/config_agencia.json")).get("excluir_titulo")
+    _EXC = re.compile(_x, re.I) if _x else None
 def tipo(t):
+    if _EXC and _EXC.search(t): return "outro", 9  # recortes (ex.: «Item 12 - 20ª RPO ANEEL») = duplicam a reunião inteira
     for nome, pr, rx in TIPOS:
         if re.search(rx, t, re.I): return nome, pr
     return "outro", 9

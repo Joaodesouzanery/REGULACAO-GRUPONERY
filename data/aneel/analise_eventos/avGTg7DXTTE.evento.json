@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "video_id": "avGTg7DXTTE",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "audiencia",
+  "numero": "07/2026",
+  "titulo": "Audiência Pública 7/2026 - Revisão Tarifária Periódica 2026 da CEEE Equatorial Distribuição",
+  "data": "2026-08-10",
+  "local": "Porto Alegre/RS (sede cedida pelo Ministério Público do RS)",
+  "objeto": "Revisão tarifária periódica 2026 da CEEE Equatorial (vigência em 22/11/2026); consulta pública 27/2026",
+  "processo": null,
+  "tema": [
+   "revisão tarifária de distribuição",
+   "tarifa de energia",
+   "participação social"
+  ],
+  "presidiu": "Gentil Nogueira (Diretor)",
+  "diretores_presentes": [
+   "Gentil Nogueira"
+  ],
+  "participantes_externos": [
+   "Conselho de Consumidores da CEEE (conselheiro Tomás)",
+   "FIERGS (Gilmar, Conselho de Infraestrutura)",
+   "Ministério Público do RS",
+   "Leandro Caixeta Moreira (superintendente STR/ANEEL)",
+   "dep. federal Pompeu de Mattos (presença registrada)"
+  ],
+  "resumo": "Audiência presencial em Porto Alegre presidida pelo diretor Gentil Nogueira. O superintendente Leandro Caixeta apresentou a proposta preliminar e explicou que componentes financeiros represados desde 2024 (eventos climáticos) entram agora na tarifa, com deliberação provável em 17/11. Conselho de consumidores e FIERGS criticaram o aumento acumulado e pediram mitigação (ex.: compensação de PIS/Cofins). O diretor disse que a base de remuneração pode ficar menor que a projetada, divulgou a tarifa social e se comprometeu a buscar mecanismos para reduzir o impacto.",
+  "posicoes": [
+   {
+    "quem": "FIERGS",
+    "posicao": "Teme perda de investimentos industriais com aumento acumulado de cerca de 50% em 2-3 anos; pede mitigação via compensação de PIS/Cofins ou outros instrumentos",
+    "ts": "1:25:07"
+   },
+   {
+    "quem": "Conselho de Consumidores (Tomás)",
+    "posicao": "Defende energia firme e preço competitivo para o RS; critica o modelo de geração renovável diurna e o impacto tarifário",
+    "ts": "0:53:46"
+   }
+  ],
+  "encaminhamentos": [
+   "Consulta pública 27/2026 aberta até 9/10",
+   "Deliberação provável em 17/11/2026; novas tarifas em 22/11/2026",
+   "Reuniões com o conselho de consumidores sobre o diferimento dos componentes financeiros"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Gentil Nogueira",
+   "ts": "0:08:44",
+   "tema": [
+    "revisão tarifária de distribuição",
+    "tarifa de energia",
+    "participação social"
+   ],
+   "tipo": "abertura",
+   "resumo": "Abre a audiência, compõe a mesa e ressalta que os valores são preliminares e sujeitos a alteração.",
+   "trecho": "Eu digo preliminares porque ainda estamos na fase de apuração dos valores",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Gentil Nogueira",
+   "ts": "0:34:33",
+   "tema": [
+    "revisão tarifária de distribuição",
+    "tarifa de energia",
+    "participação social"
+   ],
+   "tipo": "esclarecimento",
+   "resumo": "Diz que a base de remuneração em apuração parece menor que a projetada e que reajustes represados pelos eventos climáticos de 2024 viraram componentes financeiros.",
+   "trecho": "parece que os valores são menores do que o inicialmente projetado a partir das avaliações que estão em curso",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Gentil Nogueira",
+   "ts": "1:22:47",
+   "tema": [
+    "tarifa social",
+    "participação social"
+   ],
+   "tipo": "outro",
+   "resumo": "Divulga a tarifa social e pede que a população ajude a cadastrar no CadÚnico quem tem direito.",
+   "trecho": "você tem o direito, você está cadastrada lá no CAD Único, você está fazendo uso?",
+   "confianca": "media"
+  },
+  {
+   "diretor": "Gentil Nogueira",
+   "ts": "1:25:28",
+   "tema": [
+    "revisão tarifária de distribuição",
+    "tarifa de energia",
+    "participação social"
+   ],
+   "tipo": "compromisso",
+   "resumo": "Responde à FIERGS que o desafio é achar mecanismos no próximo mês para reduzir ao máximo um impacto que considera significativo.",
+   "trecho": "achar esses mecanismos ao longo desse próximo mês e tem esses mecanismos para que a gente consiga, é, reduzir ao máximo o impacto",
+   "confianca": "alta"
+  }
+ ],
+ "limites_da_analise": [
+  "A data do vídeo (2026-08-10) difere da fala ('Hoje, aqui, 8 de outubro'); a data real da sessão é incerta.",
+  "Falante da tarifa social inferido como o presidente (contexto 'quando venho nesses eventos'): confiança média.",
+  "Análise cobre abertura, janelas do resumo e encerramento, não a sessão inteira; nomes (ex.: conselheiro Tomás) vêm do ASR."
+ ]
+}
