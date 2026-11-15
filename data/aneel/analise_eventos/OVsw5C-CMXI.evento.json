@@ -1,0 +1,96 @@
+{
+ "meta": {
+  "video_id": "OVsw5C-CMXI",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "audiencia",
+  "numero": "06/2026",
+  "titulo": "Audiência Pública 6/2026 - Revisão Tarifária Periódica 2026 da Neoenergia Distribuição Brasília",
+  "data": "2026-08-27",
+  "local": "Brasília/DF (sede da ANEEL)",
+  "objeto": "Revisão tarifária periódica 2026 da Neoenergia Brasília (vigência em 22/10/2026); consulta pública 24/2026",
+  "processo": null,
+  "tema": [
+   "revisão tarifária de distribuição",
+   "atendimento ao consumidor",
+   "participação social"
+  ],
+  "presidiu": "Willamy Frota (Diretor)",
+  "diretores_presentes": [
+   "Willamy Frota",
+   "Ludimila Lima"
+  ],
+  "participantes_externos": [
+   "Neoenergia Brasília (André Santos, diretor-presidente)",
+   "Conselho de Consumidores (Wellington Medeiros, presidente; Carlindo Lins Pereira Filho, consultor)",
+   "Procon-DF (presente, sem manifestação)",
+   "Leonardo de Araújo Silva (coordenador SGT/ANEEL)",
+   "Leandro Caixeta (superintendente/ANEEL)"
+  ],
+  "resumo": "Audiência presencial na ANEEL presidida pelo diretor Willamy Frota. O coordenador da SGT apresentou a proposta preliminar; o conselho de consumidores criticou a distância entre correção tarifária e inflação; a Neoenergia apresentou investimentos e um reajuste médio de 1,86% (segundo ASR), abaixo do IPCA. O diretor relatou ter sido mal atendido como consumidor num posto da distribuidora e cobrou melhoria no atendimento presencial.",
+  "posicoes": [
+   {
+    "quem": "Conselho de Consumidores (Carlindo)",
+    "posicao": "Critica o descolamento entre correção da tarifa e inflação, que pesa cada vez mais sobre o consumidor",
+    "ts": "0:51:21"
+   },
+   {
+    "quem": "Neoenergia Brasília",
+    "posicao": "Reajuste médio abaixo do IPCA; distribuidora fica com 16,2% da tarifa para investir",
+    "ts": "1:00:12"
+   }
+  ],
+  "encaminhamentos": [
+   "Contribuições à CP 24/2026 até 14/09/2026",
+   "Tarifas definitivas em vigor em 22/10/2026"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Willamy Frota",
+   "ts": "0:08:41",
+   "tema": [
+    "revisão tarifária de distribuição",
+    "atendimento ao consumidor",
+    "participação social"
+   ],
+   "tipo": "abertura",
+   "resumo": "Abre a audiência como presidente e destaca que os resultados são preliminares.",
+   "trecho": "estamos realizando essa audiência pública para apresentar aos consumidores os resultados preliminares, repito, preliminares",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Willamy Frota",
+   "ts": "1:01:38",
+   "tema": [
+    "atendimento ao consumidor",
+    "distribuição de energia"
+   ],
+   "tipo": "crítica",
+   "resumo": "Conta que foi mal atendido como consumidor no posto da rodoviária da Neoenergia e pede que a equipe reveja o atendimento presencial.",
+   "trecho": "E eu tive o desconforto no atendimento presencial lá no no posto da rodoviária. Eu fui como consumidor e não fui bem atendido.",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Willamy Frota",
+   "ts": "1:06:27",
+   "tema": [
+    "revisão tarifária de distribuição",
+    "atendimento ao consumidor",
+    "participação social"
+   ],
+   "tipo": "encerramento",
+   "resumo": "Encerra lembrando o prazo da CP 24/2026 e a vigência em 22/10/2026.",
+   "trecho": "os índices em consulta são preliminares e os valores definidos serão aprovados após a análise dessas contribuições recebidas",
+   "confianca": "alta"
+  }
+ ],
+ "limites_da_analise": [
+  "Vídeo duplicado: b-X-ev8Ry-c é a mesma sessão (deslocamento de cerca de 26 min).",
+  "Falas inferidas pela composição da mesa ('Por mim, Willam Moreira da Frota, presidente dessa audiência'); ASR grafa 'Willam'.",
+  "Ludimila Lima (diretora substituta) é saudada como presente na abertura (ASR 'Nudmila Lima'), sem fala identificada; em b-X-ev8Ry-c os primeiros 15 min não têm legenda.",
+  "Análise cobre abertura, janelas do resumo e encerramento, não a sessão inteira."
+ ]
+}

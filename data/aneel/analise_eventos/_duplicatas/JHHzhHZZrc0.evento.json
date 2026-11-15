@@ -1,0 +1,130 @@
+{
+ "meta": {
+  "video_id": "JHHzhHZZrc0",
+  "fonte": "legenda automática do YouTube",
+  "versao_esquema": 1
+ },
+ "evento": {
+  "tipo": "audiencia",
+  "numero": "05/2026",
+  "titulo": "Audiência Pública 05/2026 - Leilões de Reserva de Capacidade na forma de potência - armazenamento (LRCAP SAE)",
+  "data": "2026-09-02",
+  "local": "presencial (ANEEL, Brasília/DF, inferido)",
+  "objeto": "Minutas de edital e contrato (CRCAP) dos leilões 5/2026 (armazenamento com requisito de conteúdo nacional) e 6/2026 (armazenamento sem esse requisito); consultas públicas 22 e 23/2026",
+  "processo": null,
+  "tema": [
+   "leilões de armazenamento (baterias)",
+   "reserva de capacidade (LRCAP)",
+   "editais de leilão",
+   "encargos e rateio",
+   "participação social"
+  ],
+  "presidiu": "Gentil Nogueira (Diretor, relator)",
+  "diretores_presentes": [
+   "Gentil Nogueira"
+  ],
+  "participantes_externos": [
+   "ABSAE",
+   "ABEEólica",
+   "ABSOLAR",
+   "INEL",
+   "ABRADEE",
+   "APINE",
+   "Ecoenergia",
+   "New Wave Energia",
+   "Instituto Arayara (citado)",
+   "CCEE",
+   "MME",
+   "Secretaria de Leilões da ANEEL (Ivo Nazareno, Igor Barra - servidores)"
+  ],
+  "resumo": "Audiência presencial presidida pelo diretor Gentil Nogueira sobre os primeiros leilões de baterias (sessões previstas para 2 e 4/12/2026, suprimento de 15 anos a partir de ago/2028). A Secretaria de Leilões apresentou as diretrizes da Portaria MME 136/2026 (RTE mínimo de 85%, despacho pelo ONS, penalidades, requisito de conteúdo nacional via BNDES). Associações e empresas pediram limites a penalidades, mais configurações colocalizadas/associadas, contratação bilateral para perdas e discutiram quem paga o encargo de reserva de capacidade (geradores pela Lei 15.269 vs consumidores). O INEL comparou com o LRCAP térmico de março e os achados do TCU. No encerramento o diretor chamou a audiência de histórica e disse que parte dos pedidos foge ao escopo do edital e cabe ao MME.",
+  "posicoes": [
+   {
+    "quem": "Ecoenergia",
+    "posicao": "Pagamento do encargo pelo gerador (Lei 15.269) não é compensado pela redução de curtailment; pede limitar penalidade por falha no credenciamento de conteúdo nacional a 10% da receita fixa",
+    "ts": "1:15:04"
+   },
+   {
+    "quem": "INEL",
+    "posicao": "Questiona por que não houve comparação entre armazenamento e o LRCAP térmico de março, citando potencial prejuízo apontado pelo TCU; pede transparência entre parâmetros e preços contratados",
+    "ts": "1:24:04"
+   },
+   {
+    "quem": "ABSOLAR",
+    "posicao": "Pede flexibilizar restrições a projetos colocalizados e associados e permitir contratação bilateral para cobrir perdas",
+    "ts": "1:29:01"
+   },
+   {
+    "quem": "ABRADEE",
+    "posicao": "Defende que o encargo de reserva de capacidade recaia sobre os geradores, e não sobre o consumidor já onerado por subsídios",
+    "ts": "1:49:36"
+   },
+   {
+    "quem": "APINE",
+    "posicao": "Pede excluir o inciso 15 da cláusula 16.2 para não transferir ao vendedor o risco de arrecadação do encargo",
+    "ts": "1:56:14"
+   }
+  ],
+  "encaminhamentos": [
+   "Contribuições formais até 14/09/2026 nas CPs 22 e 23/2026",
+   "Workshop sobre inscrição e habilitação antes da aprovação do edital (previsto para 14/10)",
+   "Aprovação do edital prevista para a reunião pública de 27/10/2026; publicação em 29/10; sessões em 2 e 4/12/2026; inscrições até 18 e 20/11"
+  ]
+ },
+ "falas_diretores": [
+  {
+   "diretor": "Gentil Nogueira",
+   "ts": "0:32:32",
+   "tema": [
+    "participação social",
+    "editais de leilão"
+   ],
+   "tipo": "abertura",
+   "resumo": "Abre a audiência como presidente e pede que as falas sejam também enviadas por escrito à consulta pública.",
+   "trecho": "nós reforçamos a necessidade de não só fazer a apresentação aqui, mas também o encaminhamento das da das contribuições na consulta pública",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Gentil Nogueira",
+   "ts": "2:03:39",
+   "tema": [
+    "leilões de armazenamento (baterias)",
+    "editais de leilão"
+   ],
+   "tipo": "encerramento",
+   "resumo": "Chama a audiência de histórica (nova fonte: armazenamento) e diz que a ANEEL vai melhorar o edital dentro de sua competência; outros temas cabem ao MME.",
+   "trecho": "A gente de fato tá aqui eh numa talvez numa audiência pública histórica, porque a inauguração de uma nova fonte de energia no setor elétrico brasileiro",
+   "confianca": "alta"
+  },
+  {
+   "diretor": "Gentil Nogueira",
+   "ts": "2:04:19",
+   "tema": [
+    "leilões de armazenamento (baterias)",
+    "encargos e rateio"
+   ],
+   "tipo": "esclarecimento",
+   "resumo": "Diz que muitos pedidos fogem ao escopo do edital, que o MME está presente para ouvir, e cita empenho de receita e consórcio como temas futuros.",
+   "trecho": "tem questões relacionadas ao edital, mas a gente também tem questões aqui que fogem um pouco ao escopo do edital, vocês perceberam",
+   "confianca": "media"
+  },
+  {
+   "diretor": "Gentil Nogueira",
+   "ts": "2:15:38",
+   "tema": [
+    "editais de leilão",
+    "participação social"
+   ],
+   "tipo": "compromisso",
+   "resumo": "Promete interagir ao máximo com o setor e ir a eventos até 30 dias antes do leilão; meta de aprovar o edital em 27/10.",
+   "trecho": "a gente faz questão de interagir ao máximo com vocês para que a gente consiga aí eh trazer ao final a melhor solução pro edital",
+   "confianca": "alta"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática sem identificação de falantes; falas do diretor inferidas pela apresentação da mesa ('Por mim, Gentil Nogueira... presidente desta audiência') e por saudações dos expositores.",
+  "Vídeo duplicado: ft2J0hEnkJM é a mesma sessão com deslocamento de cerca de 23 min; a data do vídeo difere (1 ou 2/09/2026) e não confirmamos qual é a data real.",
+  "Análise cobre a abertura, janelas em torno de menções a diretores e o encerramento, não a sessão inteira; exposições de outras entidades (ex.: ABSAE) não foram lidas por completo.",
+  "Nomes de entidades e números (MW, R$) podem ter erros de ASR."
+ ]
+}
