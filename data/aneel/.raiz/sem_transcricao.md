@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **1140** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2026/audiencia: 1; 2025/workshop: 9; 2025/diretoria: 47; 2025/audiencia: 9; 2024/workshop: 16; 2024/diretoria: 103; 2024/audiencia: 6; 2023/workshop: 9; 2023/diretoria: 82; 2023/audiencia: 26; 2022/workshop: 6; 2022/diretoria: 79; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 84; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 90; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 77; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 69; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
+Total: **1128** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2026/audiencia: 1; 2025/workshop: 9; 2025/diretoria: 35; 2025/audiencia: 9; 2024/workshop: 16; 2024/diretoria: 103; 2024/audiencia: 6; 2023/workshop: 9; 2023/diretoria: 82; 2023/audiencia: 26; 2022/workshop: 6; 2022/diretoria: 79; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 84; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 90; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 77; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 69; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
 
 - 2026-04-29 · audiencia · Audiência Pública 2/2026 – Copel Distribuição – 29/4/2026 · https://www.youtube.com/watch?v=RQBXXb4uxL4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas – 2º dia – Parte I · https://www.youtube.com/watch?v=0EZJFGtpmik · **ainda não baixado (rodar a coleta no Mac)**
@@ -34,20 +34,8 @@ Total: **1140** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026
 - 2025-06-18 · audiencia · Audiência Pública 5/2025 – Energisa Paraíba – 18/6/2025 · https://www.youtube.com/watch?v=tESSJWhIwek · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-06-12 · audiencia · Audiência Pública 4/2025 – Equatorial Maranhão – 12/6/2025 · https://www.youtube.com/watch?v=5wbyvzehDm8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-06-11 · audiencia · Audiência Pública 3/2025 – EDP Espírito Santo – 11/6/2025 · https://www.youtube.com/watch?v=4TOtXJlL5m0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-06-03 · diretoria · 19ª Reunião Pública Ordinária ANEEL – 3/6/2025 · https://www.youtube.com/watch?v=9Gl5AxXWgV4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-05-27 · workshop · SENDI 2025: Modernização das tarifas (Sandboxes Tarifários) – 27/05/2025 · https://www.youtube.com/watch?v=TMpTUydyWqc · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-05-27 · diretoria · 18ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · https://www.youtube.com/watch?v=2iou9kvDuLU · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-05-27 · diretoria · 18ª Reunião Pública Ordinária ANEEL – 27/5/2025 – Parte 2 · https://www.youtube.com/watch?v=ih1JQ8wVmWY · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-05-27 · diretoria · 18ª Reunião Pública Ordinária ANEEL – 27/5/2025 – Parte 1 · https://www.youtube.com/watch?v=IZ8gjaXBehM · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-05-20 · diretoria · 17ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · https://www.youtube.com/watch?v=pOwwTTVncx8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-05-20 · diretoria · 17ª Reunião Pública Ordinária ANEEL – 20/5/2025 – Parte 2 · https://www.youtube.com/watch?v=EzBQWMoDfwA · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-05-20 · diretoria · 17ª Reunião Pública Ordinária ANEEL – 20/5/2025 – Parte 1 · https://www.youtube.com/watch?v=QnwsfVPDnAo · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-05-13 · diretoria · 16ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · https://www.youtube.com/watch?v=dCU_qbcJbbs · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-05-13 · diretoria · 16ª Reunião Pública Ordinária ANEEL – 13/5/2025 – Parte 2 · https://www.youtube.com/watch?v=jy7jE2z1FL0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-05-13 · diretoria · 16ª Reunião Pública Ordinária ANEEL – 13/5/2025 – Parte 1 · https://www.youtube.com/watch?v=7LRVRCVyf1g · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-05-10 · workshop · Workshop de Esclarecimentos do Leilão de Transmissão 04/2025 · https://www.youtube.com/watch?v=aghddIHAwlc · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-05-07 · diretoria · 15ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · https://www.youtube.com/watch?v=gRV966jc4uQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2025-05-06 · diretoria · 15ª Reunião Pública Ordinária ANEEL – 6/5/2025 · https://www.youtube.com/watch?v=axrjP4pPqqc · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-04-29 · diretoria · 14ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · https://www.youtube.com/watch?v=688C0NyeQwE · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-04-29 · diretoria · 14ª Reunião Pública Ordinária ANEEL – 29/4/2025 · https://www.youtube.com/watch?v=iRbtk5tJ7qY · **ainda não baixado (rodar a coleta no Mac)**
 - 2025-04-24 · audiencia · Audiência Pública 2/2025 – Energisa Tocantins – 24/4/2025 · https://www.youtube.com/watch?v=p9EhMTamT98 · **ainda não baixado (rodar a coleta no Mac)**
