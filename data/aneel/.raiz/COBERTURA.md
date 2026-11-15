@@ -11,7 +11,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2026 | diretoria | 46 | 45 | 11 |
 | 2026 | audiencia | 4 | 3 | 3 |
 | 2025 | workshop | 9 | 0 | 0 |
-| 2025 | diretoria | 97 | 74 | 0 |
+| 2025 | diretoria | 97 | 86 | 0 |
 | 2025 | audiencia | 9 | 0 | 0 |
 | 2024 | workshop | 16 | 0 | 0 |
 | 2024 | diretoria | 103 | 0 | 0 |
@@ -153,5 +153,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2025-04-02 · 10ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · `4StXGD76ubw`
 - 2025-04-01 · 10ª Reunião Pública Ordinária ANEEL – 1º/4/2025 · `x9E5-iEK140`
 - 2025-03-26 · 9ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · `GlwbYaDwYMk`
+- 2025-03-25 · 9ª Reunião Pública Ordinária ANEEL – 25/3/2025 · `HZ4_lTM-ONo`
+- 2025-03-19 · 8ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · `wvgA5kGgrvM`
+- 2025-03-18 · 8ª Reunião Pública Ordinária ANEEL – 18/3/2025 · `askh9XaOJhg`
+- 2025-03-11 · 7ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · `DSy0011X19s`
+- 2025-03-11 · 7ª Reunião Pública Ordinária ANEEL – 11/03/2025 – Parte 2 · `shufch4WY4o`
+- 2025-03-11 · 7ª Reunião Pública Ordinária ANEEL – 11/03/2025 – Parte 1 · `hJmjai6RVwY`
+- 2025-02-25 · 6ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · `Dze97mep_bQ`
+- 2025-02-25 · 6ª Reunião Pública Ordinária ANEEL – 25/02/2025 – Parte 2 · `Xa20VHfSGfc`
+- 2025-02-25 · 6ª Reunião Pública Ordinária ANEEL – 25/02/2025 – Parte 1 · `RUe9UhatYxA`
+- 2025-02-18 · 5ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · `on4zt4X86Z8`
+- 2025-02-18 · 5ª Reunião Pública Ordinária ANEEL – 18/02/2025 – Parte 2 · `SlKHQxJ0bq8`
+- 2025-02-18 · 5ª Reunião Pública Ordinária ANEEL – 18/02/2025 – Parte 1 · `L6NLXMpzLL8`
 
 Vídeos sem legenda registrados: 3 (ver `data/sem_legenda.jsonl`).
