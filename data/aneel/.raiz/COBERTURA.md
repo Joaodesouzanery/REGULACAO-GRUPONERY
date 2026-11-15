@@ -20,7 +20,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2023 | diretoria | 82 | 82 | 0 |
 | 2023 | audiencia | 26 | 0 | 0 |
 | 2022 | workshop | 6 | 0 | 0 |
-| 2022 | diretoria | 79 | 59 | 0 |
+| 2022 | diretoria | 79 | 71 | 0 |
 | 2022 | audiencia | 16 | 0 | 0 |
 | 2021 | workshop | 4 | 0 | 0 |
 | 2021 | diretoria | 84 | 0 | 0 |
@@ -417,5 +417,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2022-04-26 · 14ª Reunião Pública Ordinária ANEEL – 26/04/2022 – Parte 1 · `rWwJZs5Jnqs`
 - 2022-04-19 · 3ª Reunião Pública Extraordinária ANEEL – 19/04/2022 · `EuMZeYTq2KI`
 - 2022-04-19 · 13ª Reunião Pública Ordinária ANEEL – 19/04/2022 · `FMltaMr_BEo`
+- 2022-04-12 · 12ª Reunião Pública Ordinária ANEEL – 12/04/2022 – Parte 2 · `hx4xoCB0vZo`
+- 2022-04-12 · 12ª Reunião Pública Ordinária ANEEL – 12/04/2022 – Parte 1 · `vPDX_UQ_JB4`
+- 2022-04-05 · 11ª Reunião Pública Ordinária ANEEL – 05/04/2022 · `3vTtcrsGIRQ`
+- 2022-03-29 · 10ª Reunião Pública Ordinária ANEEL – 29/03/2022 – Parte 2 · `VPk7RaafWPw`
+- 2022-03-22 · 9ª Reunião Pública Ordinária ANEEL – 22/03/2022 – Parte 2 · `WSaq7_f0Dv8`
+- 2022-03-22 · 9ª Reunião Pública Ordinária ANEEL – 22/03/2022 – Parte 1 · `Bz_hBtibTTo`
+- 2022-03-15 · 8ª Reunião Pública Ordinária ANEEL – 15/03/2022 – Parte 2 · `DjR6hzw6buw`
+- 2022-03-15 · 8ª Reunião Pública Ordinária ANEEL – 15/03/2022 - Parte 1 · `TsF6XQT7Yl8`
+- 2022-03-15 · 2ª Reunião Pública Extraordinária ANEEL – 15/03/2022 – Parte 2 · `EHQWu4NyDJE`
+- 2022-03-10 · 2ª Reunião Pública Extraordinária ANEEL – 10/03/2022 - Parte 1 · `XGCGj3zdIKM`
+- 2022-03-08 · 7ª Reunião Pública Ordinária ANEEL – 08/03/2022 · `D477iGsNVYs`
+- 2022-02-22 · 6ª Reunião Pública Ordinária ANEEL – 22/02/2022 · `_63pKAZp2cY`
 
-Vídeos sem legenda registrados: 4 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 5 (ver `data/sem_legenda.jsonl`).

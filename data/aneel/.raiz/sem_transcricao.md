@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **853** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2026/audiencia: 1; 2025/workshop: 9; 2025/diretoria: 2; 2025/audiencia: 9; 2024/workshop: 16; 2024/diretoria: 2; 2024/audiencia: 6; 2023/workshop: 9; 2023/audiencia: 26; 2022/workshop: 6; 2022/diretoria: 20; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 84; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 90; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 77; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 69; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
+Total: **841** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2026/audiencia: 1; 2025/workshop: 9; 2025/diretoria: 2; 2025/audiencia: 9; 2024/workshop: 16; 2024/diretoria: 2; 2024/audiencia: 6; 2023/workshop: 9; 2023/audiencia: 26; 2022/workshop: 6; 2022/diretoria: 8; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 84; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 90; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 77; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 69; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
 
 - 2026-04-29 · audiencia · Audiência Pública 2/2026 – Copel Distribuição – 29/4/2026 · https://www.youtube.com/watch?v=RQBXXb4uxL4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas – 2º dia – Parte I · https://www.youtube.com/watch?v=0EZJFGtpmik · **ainda não baixado (rodar a coleta no Mac)**
@@ -115,22 +115,10 @@ Total: **853** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/
 - 2022-05-12 · audiencia · Audiência Pública 006/2022 - Revisão Tarifária Periódica Nova Palma – 12/05/2022 · https://www.youtube.com/watch?v=yhsEsascOfo · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-05-12 · audiencia · Audiência Pública 005/2022 - Revisão Tarifária Periódica Hidropan – 12/05/2022 · https://www.youtube.com/watch?v=t5BjX5SeT4A · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-05-04 · audiencia · Audiência Pública 004/2022 - Revisão Tarifária Periódica Demei – 04/05/2022 · https://www.youtube.com/watch?v=P3TXMaYNsD4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-04-12 · diretoria · 12ª Reunião Pública Ordinária ANEEL – 12/04/2022 – Parte 2 · https://www.youtube.com/watch?v=hx4xoCB0vZo · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-04-12 · diretoria · 12ª Reunião Pública Ordinária ANEEL – 12/04/2022 – Parte 1 · https://www.youtube.com/watch?v=vPDX_UQ_JB4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-04-05 · diretoria · 11ª Reunião Pública Ordinária ANEEL – 05/04/2022 · https://www.youtube.com/watch?v=3vTtcrsGIRQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-03-29 · diretoria · 10ª Reunião Pública Ordinária ANEEL – 29/03/2022 – Parte 2 · https://www.youtube.com/watch?v=VPk7RaafWPw · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-03-29 · diretoria · 10ª Reunião Pública Ordinária ANEEL – 29/03/2022 – Parte 1 · https://www.youtube.com/watch?v=2ZsMm1h_OPU · **ainda não baixado (rodar a coleta no Mac)**
+- 2022-03-29 · diretoria · 10ª Reunião Pública Ordinária ANEEL – 29/03/2022 – Parte 1 · https://www.youtube.com/watch?v=2ZsMm1h_OPU · **legenda desativada/inexistente no YouTube**
 - 2022-03-23 · audiencia · Audiência Pública 003/2022- Consolidação de Procedimentos de Comercialização - 2 · https://www.youtube.com/watch?v=bVuQn0J-JOM · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-03-23 · audiencia · Audiência Pública 002/2022 - Autorização para Comercializadores de Energia - 23/ · https://www.youtube.com/watch?v=bb3pzZLGmfs · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-03-22 · diretoria · 9ª Reunião Pública Ordinária ANEEL – 22/03/2022 – Parte 2 · https://www.youtube.com/watch?v=WSaq7_f0Dv8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-03-22 · diretoria · 9ª Reunião Pública Ordinária ANEEL – 22/03/2022 – Parte 1 · https://www.youtube.com/watch?v=Bz_hBtibTTo · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-03-15 · diretoria · 8ª Reunião Pública Ordinária ANEEL – 15/03/2022 – Parte 2 · https://www.youtube.com/watch?v=DjR6hzw6buw · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-03-15 · diretoria · 8ª Reunião Pública Ordinária ANEEL – 15/03/2022 - Parte 1 · https://www.youtube.com/watch?v=TsF6XQT7Yl8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-03-15 · diretoria · 2ª Reunião Pública Extraordinária ANEEL – 15/03/2022 – Parte 2 · https://www.youtube.com/watch?v=EHQWu4NyDJE · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-03-10 · audiencia · Audiência Pública 001/2022 - Revisão Tarifária Periódica da  Sulgipe- 10/03/2022 · https://www.youtube.com/watch?v=5NqFRI6q_08 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-03-10 · diretoria · 2ª Reunião Pública Extraordinária ANEEL – 10/03/2022 - Parte 1 · https://www.youtube.com/watch?v=XGCGj3zdIKM · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-03-08 · diretoria · 7ª Reunião Pública Ordinária ANEEL – 08/03/2022 · https://www.youtube.com/watch?v=D477iGsNVYs · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-02-22 · diretoria · 6ª Reunião Pública Ordinária ANEEL – 22/02/2022 · https://www.youtube.com/watch?v=_63pKAZp2cY · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-02-15 · diretoria · 5ª Reunião Pública Ordinária ANEEL – 15/02/2022 – Parte 2 · https://www.youtube.com/watch?v=yUc5MxpUTTs · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-02-15 · diretoria · 5ª Reunião Pública Ordinária ANEEL – 15/02/2022 – Parte 1 · https://www.youtube.com/watch?v=DAccbQrtbR8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-02-08 · diretoria · 4ª Reunião Pública Ordinária ANEEL – 08/02/2022 · https://www.youtube.com/watch?v=9rKVd-z0sT8 · **ainda não baixado (rodar a coleta no Mac)**
