@@ -14,10 +14,10 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2025 | diretoria | 97 | 95 | 0 |
 | 2025 | audiencia | 9 | 0 | 0 |
 | 2024 | workshop | 16 | 0 | 0 |
-| 2024 | diretoria | 103 | 99 | 0 |
+| 2024 | diretoria | 103 | 102 | 0 |
 | 2024 | audiencia | 6 | 0 | 0 |
 | 2023 | workshop | 9 | 0 | 0 |
-| 2023 | diretoria | 82 | 0 | 0 |
+| 2023 | diretoria | 82 | 9 | 0 |
 | 2023 | audiencia | 26 | 0 | 0 |
 | 2022 | workshop | 6 | 0 | 0 |
 | 2022 | diretoria | 79 | 0 | 0 |
@@ -273,5 +273,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2024-02-06 · 3ª Reunião Pública Ordinária ANEEL – 06/02/2024 – Parte 2 · `kOZ8fH6i9Ms`
 - 2024-02-06 · 3ª Reunião Pública Ordinária ANEEL – 06/02/2024 – Parte 1 · `FhmaAJXwTrw`
 - 2024-01-31 · 2ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2024 · `m9fdrmbhsVw`
+- 2024-01-30 · 2ª Reunião Pública Ordinária ANEEL – 30/01/2024 · `er9N7y5E_R4`
+- 2024-01-23 · 1ª Reunião Pública Ordinária ANEEL – 23/01/2024 · `7dlGPeZ8zYc`
+- 2024-01-23 · 1ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2024 · `6OVaw9iSjBA`
+- 2023-12-22 · 5ª REUNIÃO PÚBLICA EXTRAORDINÁRIA DA DIRETORIA DE 2023 · `1BFX7yuDEAk`
+- 2023-12-21 · 5ª Reunião Pública Extraordinária ANEEL – 21/12/2023 · `uG706mlhT_c`
+- 2023-12-20 · 4ª REUNIÃO PÚBLICA EXTRAORDINÁRIA DA DIRETORIA DE 2023 · `q_mmK_eqcyE`
+- 2023-12-19 · 4ª Reunião Pública Extraordinária ANEEL – 19/12/2023 · `rLrwPYZnJq4`
+- 2023-12-12 · 46ª Reunião Pública Ordinária ANEEL – 12/12/2023 – Parte 2 · `el29fKmpiy0`
+- 2023-12-12 · 46ª Reunião Pública Ordinária ANEEL – 12/12/2023 – Parte 1 · `ZHcd-_6ufIs`
+- 2023-12-12 · 46ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023 · `rpYRLb5eUDE`
+- 2023-12-05 · 45ª Reunião Pública Ordinária ANEEL – 05/12/2023 – Parte 2 · `TthzPNilLa0`
+- 2023-12-05 · 45ª Reunião Pública Ordinária ANEEL – 05/12/2023 – Parte 1 · `Xab_WttfsqA`
 
 Vídeos sem legenda registrados: 4 (ver `data/sem_legenda.jsonl`).
