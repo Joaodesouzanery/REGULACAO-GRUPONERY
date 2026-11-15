@@ -1,21 +1,28 @@
 {
- "nome_chave": "Fernando Mosna",
- "diretor": "Fernando Mosna",
- "nome_completo": "Fernando Luiz Mosna Ferreira da Silva",
- "tipo": "diretor",
- "cargo": "Diretor (2022–2026)",
- "unidade": "GAB-III",
- "formacao": null,
- "minibio": "Diretor da ANEEL de ago/2022 a ago/2026; com o fim do mandato, a vaga passou a Ludimila Lima como substituta.",
- "mandato_inicio": "2022-08-15",
- "fim": "2026-08-13",
- "status": "ex-dirigente",
- "data_saida": "2026-08-13",
- "foto": null,
- "fontes": [
-  "https://www.gov.br/aneel/pt-br/composicao/diretoria/gab-iii/ludimila-lima-da-silva",
-  "data/aneel/mandatos.json"
- ],
- "verificado_em": "2026-11-15",
- "confianca": "media"
+  "nome_chave": "Fernando Mosna",
+  "diretor": "Fernando Mosna",
+  "nome_completo": "Fernando Luiz Mosna Ferreira da Silva",
+  "tipo": "diretor",
+  "cargo": "Diretor (2022–2026)",
+  "unidade": "GAB-III",
+  "formacao": null,
+  "minibio": "Diretor da ANEEL de ago/2022 a ago/2026; com o fim do mandato, a vaga passou a Ludimila Lima como substituta.",
+  "mandato_inicio": "2022-08-15",
+  "fim": "2026-08-13",
+  "status": "ex-dirigente",
+  "data_saida": "2026-08-13",
+  "foto": "data/aneel/dirigentes/fernando-mosna.jpg",
+  "fontes": [
+    "https://www.gov.br/aneel/pt-br/composicao/diretoria/gab-iii/ludimila-lima-da-silva",
+    "data/aneel/mandatos.json",
+    "https://www.flickr.com/photos/aneelgovbr/54306784799/"
+  ],
+  "verificado_em": "2026-11-15",
+  "confianca": "media",
+  "foto_fonte": "https://www.flickr.com/photos/aneelgovbr/54306784799/",
+  "foto_licenca": "Flickr oficial ANEEL (aneelgovbr), todos os direitos reservados; uso institucional com crédito Michel Jesus/ANEEL",
+  "foto_resolucao_original": "6720x4480",
+  "foto_resolucao": "800x800",
+  "foto_verificado_em": "2026-11-15",
+  "foto_nota": "3ª RPO da Diretoria, 04/02/2025 (placa 'Fernando Mosna' visível no original); recorte 2284 px; faixa desfocada de terceiro no canto superior"
 }

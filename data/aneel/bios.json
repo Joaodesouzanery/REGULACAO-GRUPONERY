@@ -12,15 +12,21 @@
   "fim": "2028-12-02",
   "status": "ativo",
   "data_saida": null,
-  "foto": null,
-  "foto_nota": "retrato oficial gov.br com 295x394 px (abaixo do mínimo de 600 px): não salvo; relatório usa iniciais",
+  "foto": "data/aneel/dirigentes/agnes-da-costa.jpg",
+  "foto_nota": "Posse da diretora Agnes da Costa, ANEEL, 05/12/2022; retrato frontal individual; recorte 2944 px do original",
   "foto_fonte_avaliada": "https://www.gov.br/aneel/pt-br/composicao/diretoria/gab-ii/agnes-maria-de-aragao-da-costa-cd-ii/@@images/image",
   "fontes": [
    "https://www.gov.br/aneel/pt-br/composicao/diretoria/gab-ii/agnes-maria-de-aragao-da-costa-cd-ii",
-   "https://www.gov.br/aneel/++api++/pt-br/composicao/diretoria/gab-ii/agnes-maria-de-aragao-da-costa-cd-ii"
+   "https://www.gov.br/aneel/++api++/pt-br/composicao/diretoria/gab-ii/agnes-maria-de-aragao-da-costa-cd-ii",
+   "https://www.flickr.com/photos/aneelgovbr/52563136686/"
   ],
   "verificado_em": "2026-11-15",
-  "confianca": "alta"
+  "confianca": "alta",
+  "foto_fonte": "https://www.flickr.com/photos/aneelgovbr/52563136686/",
+  "foto_licenca": "Flickr oficial ANEEL (aneelgovbr), todos os direitos reservados; uso institucional com crédito: Michel Jesus/ANEEL",
+  "foto_resolucao_original": "7360x4912",
+  "foto_resolucao": "800x800",
+  "foto_verificado_em": "2026-11-15"
  },
  {
   "nome_chave": "Fernando Mosna",
@@ -35,13 +41,20 @@
   "fim": "2026-08-13",
   "status": "ex-dirigente",
   "data_saida": "2026-08-13",
-  "foto": null,
+  "foto": "data/aneel/dirigentes/fernando-mosna.jpg",
   "fontes": [
    "https://www.gov.br/aneel/pt-br/composicao/diretoria/gab-iii/ludimila-lima-da-silva",
-   "data/aneel/mandatos.json"
+   "data/aneel/mandatos.json",
+   "https://www.flickr.com/photos/aneelgovbr/54306784799/"
   ],
   "verificado_em": "2026-11-15",
-  "confianca": "media"
+  "confianca": "media",
+  "foto_fonte": "https://www.flickr.com/photos/aneelgovbr/54306784799/",
+  "foto_licenca": "Flickr oficial ANEEL (aneelgovbr), todos os direitos reservados; uso institucional com crédito Michel Jesus/ANEEL",
+  "foto_resolucao_original": "6720x4480",
+  "foto_resolucao": "800x800",
+  "foto_verificado_em": "2026-11-15",
+  "foto_nota": "3ª RPO da Diretoria, 04/02/2025 (placa 'Fernando Mosna' visível no original); recorte 2284 px; faixa desfocada de terceiro no canto superior"
  },
  {
   "nome_chave": "Gentil Nogueira",
@@ -84,16 +97,22 @@
   "fim": null,
   "status": "ativo",
   "data_saida": null,
-  "foto": null,
-  "foto_nota": "retrato oficial gov.br com 200x288 px (abaixo do mínimo de 600 px): não salvo; relatório usa iniciais",
+  "foto": "data/aneel/dirigentes/ludimila-lima.jpg",
+  "foto_nota": "2ª Reunião Pública Ordinária da Diretoria, 28/01/2025 (primeira convocação como diretora substituta); retrato frontal individual (conferido com retrato gov.br); recorte 2822 px",
   "foto_fonte_avaliada": "https://www.gov.br/aneel/pt-br/composicao/diretoria/gab-iii/ludimila-lima-da-silva/@@images/image",
   "fontes": [
    "https://www.gov.br/aneel/pt-br/composicao/diretoria/gab-iii/ludimila-lima-da-silva",
    "https://www.gov.br/aneel/++api++/pt-br/composicao/diretoria/gab-iii/ludimila-lima-da-silva",
-   "data/aneel/mandatos.json"
+   "data/aneel/mandatos.json",
+   "https://www.flickr.com/photos/aneelgovbr/54293260600/"
   ],
   "verificado_em": "2026-11-15",
-  "confianca": "alta"
+  "confianca": "alta",
+  "foto_fonte": "https://www.flickr.com/photos/aneelgovbr/54293260600/",
+  "foto_licenca": "Flickr oficial ANEEL (aneelgovbr), todos os direitos reservados; uso institucional com crédito Michel Jesus/ANEEL",
+  "foto_resolucao_original": "6720x4480",
+  "foto_resolucao": "800x800",
+  "foto_verificado_em": "2026-11-15"
  },
  {
   "nome_chave": "Sandoval Feitosa",
