@@ -1,0 +1,114 @@
+{
+ "portos": {
+  "capa": "docs/marca/setores/kit/portos_capa.jpg",
+  "divisores": [
+   "docs/marca/setores/kit/portos_divisor_1.jpg",
+   "docs/marca/setores/kit/portos_divisor_2.jpg"
+  ],
+  "icone": "docs/marca/setores/kit/portos.svg",
+  "foco": {
+   "capa": "50% 50%",
+   "divisor_1": "50% 50%",
+   "divisor_2": "50% 50%"
+  },
+  "agencias": [
+   "ANTAQ"
+  ]
+ },
+ "rodovias": {
+  "capa": "docs/marca/setores/kit/rodovias_capa.jpg",
+  "divisores": [
+   "docs/marca/setores/kit/rodovias_divisor_1.jpg",
+   "docs/marca/setores/kit/rodovias_divisor_2.jpg"
+  ],
+  "icone": "docs/marca/setores/kit/rodovias.svg",
+  "foco": {
+   "capa": "50% 50%",
+   "divisor_1": "50% 50%",
+   "divisor_2": "50% 50%"
+  },
+  "agencias": [
+   "ANTT"
+  ]
+ },
+ "ferrovias": {
+  "capa": "docs/marca/setores/kit/ferrovias_capa.jpg",
+  "divisores": [
+   "docs/marca/setores/kit/ferrovias_divisor_1.jpg",
+   "docs/marca/setores/kit/ferrovias_divisor_2.jpg"
+  ],
+  "icone": "docs/marca/setores/kit/ferrovias.svg",
+  "foco": {
+   "capa": "50% 50%",
+   "divisor_1": "50% 50%",
+   "divisor_2": "50% 50%"
+  },
+  "agencias": [
+   "ANTT"
+  ]
+ },
+ "mineracao": {
+  "capa": "docs/marca/setores/kit/mineracao_capa.jpg",
+  "divisores": [
+   "docs/marca/setores/kit/mineracao_divisor_1.jpg",
+   "docs/marca/setores/kit/mineracao_divisor_2.jpg"
+  ],
+  "icone": "docs/marca/setores/kit/mineracao.svg",
+  "foco": {
+   "capa": "50% 50%",
+   "divisor_1": "50% 50%",
+   "divisor_2": "50% 50%"
+  },
+  "agencias": [
+   "ANM"
+  ]
+ },
+ "energia": {
+  "capa": "docs/marca/setores/kit/energia_capa.jpg",
+  "divisores": [
+   "docs/marca/setores/kit/energia_divisor_1.jpg",
+   "docs/marca/setores/kit/energia_divisor_2.jpg"
+  ],
+  "icone": "docs/marca/setores/kit/energia.svg",
+  "foco": {
+   "capa": "50% 50%",
+   "divisor_1": "50% 50%",
+   "divisor_2": "50% 50%"
+  },
+  "agencias": [
+   "ANEEL"
+  ]
+ },
+ "agua": {
+  "capa": "docs/marca/setores/kit/agua_capa.jpg",
+  "divisores": [
+   "docs/marca/setores/kit/agua_divisor_1.jpg",
+   "docs/marca/setores/kit/agua_divisor_2.jpg"
+  ],
+  "icone": "docs/marca/setores/kit/agua.svg",
+  "foco": {
+   "capa": "50% 60%",
+   "divisor_1": "50% 50%",
+   "divisor_2": "50% 50%"
+  },
+  "agencias": [
+   "ANA"
+  ]
+ },
+ "petroleo_gas": {
+  "capa": "docs/marca/setores/kit/petroleo_gas_capa.jpg",
+  "divisores": [
+   "docs/marca/setores/kit/petroleo_gas_divisor_1.jpg",
+   "docs/marca/setores/kit/petroleo_gas_divisor_2.jpg"
+  ],
+  "icone": "docs/marca/setores/kit/petroleo_gas.svg",
+  "foco": {
+   "capa": "50% 50%",
+   "divisor_1": "50% 50%",
+   "divisor_2": "50% 50%"
+  },
+  "agencias": [
+   "ANP"
+  ]
+ }
+}
