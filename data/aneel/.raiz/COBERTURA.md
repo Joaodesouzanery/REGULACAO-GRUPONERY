@@ -29,7 +29,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2020 | diretoria | 90 | 85 | 0 |
 | 2020 | audiencia | 9 | 0 | 0 |
 | 2019 | workshop | 8 | 0 | 0 |
-| 2019 | diretoria | 77 | 19 | 0 |
+| 2019 | diretoria | 77 | 31 | 0 |
 | 2019 | audiencia | 19 | 0 | 0 |
 | 2018 | workshop | 8 | 0 | 0 |
 | 2018 | diretoria | 69 | 0 | 0 |
@@ -621,5 +621,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2019-10-08 · 15 anos da Reunião Pública da Diretoria da ANEEL · `cB_HqCNs60E`
 - 2019-10-01 · 36ª Reunião Pública Ordinária ANEEL – 01/10/2019 · `fdjpZtxi_eo`
 - 2019-09-24 · 35ª Reunião Pública Ordinária ANEEL – 24/09/2019 · `fqUGMcBuZiY`
+- 2019-09-17 · 34ª Reunião Pública Ordinária ANEEL – 17/09/2019 · `uIkoS1n88Fg`
+- 2019-09-10 · 33ª Reunião Pública Ordinária ANEEL – 10/09/2019 – Parte 2 · `PllWILzLRKA`
+- 2019-09-10 · 33ª Reunião Pública Ordinária ANEEL – 10/09/2019  - Parte 1 · `wnHUJtJ2fIw`
+- 2019-09-03 · 32ª Reunião Pública Ordinária ANEEL – 03/09/2019 – Parte 1 · `Tw-btZzHOXk`
+- 2019-08-27 · 31ª Reunião Pública Ordinária ANEEL – 27/08/2019 · `iFGsddgqymk`
+- 2019-08-20 · 30ª Reunião Pública Ordinária ANEEL – 20/08/2019 – Parte 2 · `f9-A6r5_NEE`
+- 2019-08-20 · 30ª Reunião Pública Ordinária ANEEL – 20/08/2019 – Parte 1 · `xGASmxSa3bE`
+- 2019-08-13 · 29ª Reunião Pública Ordinária ANEEL – 13/08/2019 – Parte 2 · `Ii2zd26NDwA`
+- 2019-08-13 · 29ª Reunião Pública Ordinária ANEEL – 13/08/2019 – Parte 1 · `EdN4Nm-9iPQ`
+- 2019-08-06 · 28ª Reunião Pública Ordinária ANEEL – 06/08/2019 – Parte 2 · `NvfJjY0cb9c`
+- 2019-07-30 · 27ª Reunião Pública Ordinária ANEEL - 30/07/2019 · `d8JDsICD8B8`
+- 2019-07-23 · 26ª Reunião Pública Ordinária ANEEL - 23/07/2019 · `dePrf-yt_Jw`
 
-Vídeos sem legenda registrados: 16 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 18 (ver `data/sem_legenda.jsonl`).
