@@ -6,8 +6,8 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 |---|---|---|---|---|
 | sem data | diretoria | 3 | 0 | 0 |
 | 2026 | workshop | 3 | 0 | 0 |
-| 2026 | diretoria | 21 | 12 | 0 |
-| 2026 | audiencia | 5 | 0 | 0 |
+| 2026 | diretoria | 21 | 21 | 0 |
+| 2026 | audiencia | 5 | 3 | 0 |
 
 ## Reuniões de diretoria transcritas e ainda sem análise
 
@@ -23,3 +23,12 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2026-09-09 · 18ª Reunião Pública Ordinária ANEEL – 9/9/2026 – Parte 2 · `eAvF-lP5eB0`
 - 2026-09-09 · 18ª Reunião Pública Ordinária ANEEL – 9/9/2026 – Parte 1 · `D3-nZ-LDQmU`
 - 2026-09-08 · 18ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `03M1t2wEFQQ`
+- 2026-08-24 · 17ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `eFfYu64jEHU`
+- 2026-08-24 · 17ª Reunião Pública Ordinária ANEEL – 24/8/2026 · `2zKElMRxXyw`
+- 2026-08-11 · 16ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `34M8aLZY57k`
+- 2026-08-11 · 16ª Reunião Pública Ordinária ANEEL – 11/8/2026 – Parte 2 · `Ghu-H_J1mro`
+- 2026-08-11 · 16ª Reunião Pública Ordinária ANEEL – 11/8/2026 – Parte 1 · `xkJF-sPkhy4`
+- 2026-07-28 · 15ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `GCKeMAdQAbI`
+- 2026-07-14 · 14ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `0_VWjl5r3lg`
+- 2026-06-30 · 13ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `ZTSS83pM5PA`
+- 2026-06-22 · 4ª Reunião Pública Extraordinária da Diretoria da ANEEL de 2026 · `JRc2F2Eq0aY`
