@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **1033** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2026/audiencia: 1; 2025/workshop: 9; 2025/diretoria: 2; 2025/audiencia: 9; 2024/workshop: 16; 2024/diretoria: 41; 2024/audiencia: 6; 2023/workshop: 9; 2023/diretoria: 82; 2023/audiencia: 26; 2022/workshop: 6; 2022/diretoria: 79; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 84; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 90; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 77; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 69; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
+Total: **1021** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2026/audiencia: 1; 2025/workshop: 9; 2025/diretoria: 2; 2025/audiencia: 9; 2024/workshop: 16; 2024/diretoria: 29; 2024/audiencia: 6; 2023/workshop: 9; 2023/diretoria: 82; 2023/audiencia: 26; 2022/workshop: 6; 2022/diretoria: 79; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 84; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 90; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 77; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 69; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
 
 - 2026-04-29 · audiencia · Audiência Pública 2/2026 – Copel Distribuição – 29/4/2026 · https://www.youtube.com/watch?v=RQBXXb4uxL4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas – 2º dia – Parte I · https://www.youtube.com/watch?v=0EZJFGtpmik · **ainda não baixado (rodar a coleta no Mac)**
@@ -54,18 +54,6 @@ Total: **1033** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026
 - 2024-07-10 · workshop · Workshop Internacional de Perdas Não Técnicas - Parte II · https://www.youtube.com/watch?v=5dNllSR9ub4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-07-10 · workshop · Workshop Internacional de Perdas Não Técnicas - Parte I · https://www.youtube.com/watch?v=KLSVdkLvJcc · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-07-04 · workshop · Workshop Internacional de Perdas Não-Técnicas · https://www.youtube.com/watch?v=8l2aIe11bb8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-06-18 · diretoria · 21ª Reunião Pública Ordinária ANEEL – 18/06/2024 – Parte 1 · https://www.youtube.com/watch?v=I5yDzFMQSfM · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-06-18 · diretoria · 21ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2024 · https://www.youtube.com/watch?v=f-oJ73bXC6M · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-06-12 · diretoria · 20ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2024 · https://www.youtube.com/watch?v=b7y5cMXQknE · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-06-11 · diretoria · 20ª Reunião Pública Ordinária ANEEL – 11/06/2024 · https://www.youtube.com/watch?v=YR-j543K8Fk · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-06-04 · diretoria · 19ª Reunião Pública Ordinária ANEEL – 04/06/2024 · https://www.youtube.com/watch?v=cnrYN3YLCpo · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-06-04 · diretoria · 19ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2024 · https://www.youtube.com/watch?v=ZuNANb1onO8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-05-28 · diretoria · 18ª Reunião Pública Ordinária ANEEL – 28/05/2024 – Parte 2 · https://www.youtube.com/watch?v=0-c-mACpIjw · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-05-28 · diretoria · 18ª Reunião Pública Ordinária ANEEL – 28/05/2024 – Parte 1 · https://www.youtube.com/watch?v=SON4hNr9oVc · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-05-23 · diretoria · 17ª Reunião Pública Ordinária ANEEL – 23/05/2024 – Parte 5 · https://www.youtube.com/watch?v=cRbPiug6hJY · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-05-22 · diretoria · 17ª Reunião Pública Ordinária ANEEL – 22/05/2024 – Parte 4 · https://www.youtube.com/watch?v=1b3nrNU6tcY · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-05-22 · diretoria · 17ª Reunião Pública Ordinária ANEEL – 22/05/2024 – Parte 3 · https://www.youtube.com/watch?v=8y0jiDFeuts · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-05-21 · diretoria · 17ª Reunião Pública Ordinária ANEEL – 21/05/2024 – Parte 2 · https://www.youtube.com/watch?v=HJP2bW50mT4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-05-21 · diretoria · 17ª Reunião Pública Ordinária ANEEL – 21/05/2024 – Parte 1 · https://www.youtube.com/watch?v=31H0S58EBaY · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-05-15 · diretoria · 16ª Reunião Pública Ordinária ANEEL – 15/05/2024 – Parte 3 · https://www.youtube.com/watch?v=xEJBkH7P27I · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-05-14 · diretoria · 16ª Reunião Pública Ordinária ANEEL – 14/05/2024 – Parte 2 · https://www.youtube.com/watch?v=fTuwdfJUHAI · **ainda não baixado (rodar a coleta no Mac)**
