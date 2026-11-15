@@ -26,7 +26,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2021 | diretoria | 84 | 81 | 0 |
 | 2021 | audiencia | 33 | 0 | 0 |
 | 2020 | workshop | 2 | 0 | 0 |
-| 2020 | diretoria | 90 | 68 | 0 |
+| 2020 | diretoria | 90 | 80 | 0 |
 | 2020 | audiencia | 9 | 0 | 0 |
 | 2019 | workshop | 8 | 0 | 0 |
 | 2019 | diretoria | 77 | 0 | 0 |
@@ -585,5 +585,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2020-05-19 · 17ª Reunião Pública Ordinária ANEEL – 19/05/2020 – Parte 1 · `rO3VsJStQ3E`
 - 2020-05-12 · 16ª Reunião Pública Ordinária ANEEL – 12/05/2020 · `bM5AL4ZTjTI`
 - 2020-05-05 · 15ª Reunião Pública Ordinária ANEEL – 05/05/2020 – Parte 2 · `L-6LOmdVmkk`
+- 2020-05-05 · 15ª Reunião Pública Ordinária ANEEL – 05/05/2020 – Parte 1 · `h6YaG5n1vcE`
+- 2020-04-28 · 14ª Reunião Pública Ordinária ANEEL – 28/04/2020 – Parte 1 · `dkctHCOEoIQ`
+- 2020-04-20 · 13ª Reunião Pública Ordinária ANEEL – 20/04/2020 · `pwUCQXtQB2Y`
+- 2020-04-14 · 12ª Reunião Pública Ordinária ANEEL – 14/04/2020 · `Oh3yn6wlrIg`
+- 2020-04-07 · 11ª Reunião Pública Ordinária ANEEL – 07/04/2020 – Parte 1 · `ye72R3lxpN8`
+- 2020-03-31 · 10ª Reunião Pública Ordinária ANEEL – 31/03/2020 – Parte 2 · `MBenaLtREaE`
+- 2020-03-31 · 10ª Reunião Pública Ordinária ANEEL – 31/03/2020 – Parte 1 · `82-oUVEopzA`
+- 2020-03-24 · 9ª Reunião Pública Ordinária ANEEL – 24/03/2020 · `VlmkVTRNpok`
+- 2020-03-24 · 3ª Reunião Pública Extraordinária ANEEL – 24/03/2020 · `DbnjY2n3aic`
+- 2020-03-17 · 8ª Reunião Pública Ordinária ANEEL – 17/03/2020 · `hsitMcKTWjE`
+- 2020-03-03 · 6ª Reunião Pública Ordinária ANEEL – 03/03/2020 – Parte 2 · `86exZFnxraQ`
+- 2020-02-27 · 2ª Reunião Pública Extraordinária ANEEL – 27/02/2020 · `RWHviyaqsB0`
 
-Vídeos sem legenda registrados: 9 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 12 (ver `data/sem_legenda.jsonl`).
