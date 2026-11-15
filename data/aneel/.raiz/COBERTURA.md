@@ -26,7 +26,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2021 | diretoria | 84 | 81 | 0 |
 | 2021 | audiencia | 33 | 0 | 0 |
 | 2020 | workshop | 2 | 0 | 0 |
-| 2020 | diretoria | 90 | 56 | 0 |
+| 2020 | diretoria | 90 | 68 | 0 |
 | 2020 | audiencia | 9 | 0 | 0 |
 | 2019 | workshop | 8 | 0 | 0 |
 | 2019 | diretoria | 77 | 0 | 0 |
@@ -573,5 +573,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2020-06-25 · 5ª Reunião Pública Extraordinária ANEEL – 25/06/2020 · `Tk94KcvO6Do`
 - 2020-06-25 · 22ª Reunião Pública Ordinária ANEEL – 25/06/2020 – Parte 3 · `IZ5sZqlbG_U`
 - 2020-06-23 · 22ª Reunião Pública Ordinária ANEEL – 23/06/2020 – Parte 2 · `NTu1yrTdOB8`
+- 2020-06-17 · 21ª Reunião Pública Ordinária ANEEL – 17/06/2020 · `hokGQK7dMD4`
+- 2020-06-15 · 4ª Reunião Pública Extraordinária ANEEL – 15/06/2020 · `adBYrspVRiM`
+- 2020-06-09 · 20ª Reunião Pública Ordinária ANEEL – 09/06/2020 – Parte 2 · `zj3XIXlxFzA`
+- 2020-06-09 · 20ª Reunião Pública Ordinária ANEEL – 09/06/2020 – Parte 1 · `fwt_FoqSxC4`
+- 2020-06-02 · 19ª Reunião Pública Ordinária ANEEL – 02/06/2020 – Parte 2 · `HZYs3Y2h1as`
+- 2020-06-02 · 19ª Reunião Pública Ordinária ANEEL – 02/06/2020 – Parte 1 · `mFUUG_Z1awQ`
+- 2020-05-26 · 18ª Reunião Pública Ordinária ANEEL – 26/05/2020 – Parte 2 · `H8nvf7i5QXQ`
+- 2020-05-26 · 18ª Reunião Pública Ordinária ANEEL – 26/05/2020 – Parte 1 · `kTFnguh9OsE`
+- 2020-05-19 · 17ª Reunião Pública Ordinária ANEEL – 19/05/2020 – Parte 2 · `-MgcEPn0bMg`
+- 2020-05-19 · 17ª Reunião Pública Ordinária ANEEL – 19/05/2020 – Parte 1 · `rO3VsJStQ3E`
+- 2020-05-12 · 16ª Reunião Pública Ordinária ANEEL – 12/05/2020 · `bM5AL4ZTjTI`
+- 2020-05-05 · 15ª Reunião Pública Ordinária ANEEL – 05/05/2020 – Parte 2 · `L-6LOmdVmkk`
 
-Vídeos sem legenda registrados: 8 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 9 (ver `data/sem_legenda.jsonl`).
