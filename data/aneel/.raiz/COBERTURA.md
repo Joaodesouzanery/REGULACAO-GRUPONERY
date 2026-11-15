@@ -20,7 +20,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2023 | diretoria | 82 | 82 | 0 |
 | 2023 | audiencia | 26 | 0 | 0 |
 | 2022 | workshop | 6 | 0 | 0 |
-| 2022 | diretoria | 79 | 47 | 0 |
+| 2022 | diretoria | 79 | 59 | 0 |
 | 2022 | audiencia | 16 | 0 | 0 |
 | 2021 | workshop | 4 | 0 | 0 |
 | 2021 | diretoria | 84 | 0 | 0 |
@@ -405,5 +405,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2022-06-14 · 21ª Reunião Pública Ordinária ANEEL –14/06/2022 · `LmUZH_YX83Y`
 - 2022-06-07 · 20ª Reunião Pública Ordinária ANEEL –07/06/2022 – Parte 2 · `oHOnDchFKBc`
 - 2022-06-07 · 20ª Reunião Pública Ordinária ANEEL –07/06/2022 – Parte 1 · `iMNC5J7UJZU`
+- 2022-05-31 · 19ª Reunião Pública Ordinária ANEEL –31/05/2022 · `O7Nt2tIGZ2o`
+- 2022-05-24 · 18ª Reunião Pública Ordinária ANEEL –24/05/2022 – Parte 2 · `K7T8hvsYnqw`
+- 2022-05-24 · 18ª Reunião Pública Ordinária ANEEL –24/05/2022 – Parte 1 · `9s4BT7-53nA`
+- 2022-05-17 · 17ª Reunião Pública Ordinária ANEEL – 17/05/2022 – Parte 2 · `_Xd-Vi8BTQA`
+- 2022-05-17 · 17ª Reunião Pública Ordinária ANEEL – 17/05/2022 – Parte 1 · `WQjZnZnWsZY`
+- 2022-05-10 · 16ª Reunião Pública Ordinária ANEEL – 10/05/2022 – Parte 2 · `9WIk0PCrJyo`
+- 2022-05-10 · 16ª Reunião Pública Ordinária ANEEL – 10/05/2022 – Parte 1 · `iFrTsP6Z08c`
+- 2022-05-03 · 15ª Reunião Pública Ordinária ANEEL – 03/05/2022 · `sELCVFvMZwU`
+- 2022-04-26 · 14ª Reunião Pública Ordinária ANEEL – 26/04/2022 – Parte 2 · `bMP69CDw0Vw`
+- 2022-04-26 · 14ª Reunião Pública Ordinária ANEEL – 26/04/2022 – Parte 1 · `rWwJZs5Jnqs`
+- 2022-04-19 · 3ª Reunião Pública Extraordinária ANEEL – 19/04/2022 · `EuMZeYTq2KI`
+- 2022-04-19 · 13ª Reunião Pública Ordinária ANEEL – 19/04/2022 · `FMltaMr_BEo`
 
 Vídeos sem legenda registrados: 4 (ver `data/sem_legenda.jsonl`).
