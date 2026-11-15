@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **889** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2026/audiencia: 1; 2025/workshop: 9; 2025/diretoria: 2; 2025/audiencia: 9; 2024/workshop: 16; 2024/diretoria: 2; 2024/audiencia: 6; 2023/workshop: 9; 2023/audiencia: 26; 2022/workshop: 6; 2022/diretoria: 56; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 84; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 90; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 77; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 69; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
+Total: **877** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2026/audiencia: 1; 2025/workshop: 9; 2025/diretoria: 2; 2025/audiencia: 9; 2024/workshop: 16; 2024/diretoria: 2; 2024/audiencia: 6; 2023/workshop: 9; 2023/audiencia: 26; 2022/workshop: 6; 2022/diretoria: 44; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 84; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 90; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 77; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 69; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
 
 - 2026-04-29 · audiencia · Audiência Pública 2/2026 – Copel Distribuição – 29/4/2026 · https://www.youtube.com/watch?v=RQBXXb4uxL4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas – 2º dia – Parte I · https://www.youtube.com/watch?v=0EZJFGtpmik · **ainda não baixado (rodar a coleta no Mac)**
@@ -105,18 +105,6 @@ Total: **889** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/
 - 2022-10-21 · workshop · Workshop de Esclarecimentos sobre Leilão de Transmissão 02/2022 - 21/10/2022 · https://www.youtube.com/watch?v=6SFun97b4E8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-09-22 · workshop · 3º Workshop sobre Planos de Resultados da Transmissão - 22/09/2022 - Parte 2 · https://www.youtube.com/watch?v=v-t8q6eEPFA · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-09-22 · workshop · 3º Workshop sobre Planos de Resultados da Transmissão - 22/09/2022 - Parte 1 · https://www.youtube.com/watch?v=PS3rRtKNdoY · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-09-20 · diretoria · 35ª Reunião Pública Ordinária ANEEL – 20/09/2022 – Parte 2 · https://www.youtube.com/watch?v=s04ZsCds5dE · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-09-20 · diretoria · 35ª Reunião Pública Ordinária ANEEL – 20/09/2022 – Parte 1 · https://www.youtube.com/watch?v=1eX6JT3g2Ak · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-09-13 · diretoria · 34ª Reunião Pública Ordinária ANEEL – 13/09/2022 – Parte 2 · https://www.youtube.com/watch?v=ADqqM8GUw_U · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-09-13 · diretoria · 34ª Reunião Pública Ordinária ANEEL – 13/09/2022 – Parte 1 · https://www.youtube.com/watch?v=F5H2cjt_RxM · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-09-06 · diretoria · 33ª Reunião Pública Ordinária ANEEL – 06/09/2022 · https://www.youtube.com/watch?v=_9wcCx9SGGo · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-08-30 · diretoria · 32ª Reunião Pública Ordinária ANEEL – 30/08/2022 · https://www.youtube.com/watch?v=ja-35X92shQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-08-23 · diretoria · 31ª Reunião Pública Ordinária ANEEL – 23/08/2022 · https://www.youtube.com/watch?v=joud2oKgjgg · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-08-16 · diretoria · 30ª Reunião Pública Ordinária ANEEL – 16/08/2022 · https://www.youtube.com/watch?v=Sqo57UI6FwE · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-08-10 · diretoria · 29ª Reunião Pública Ordinária ANEEL – 10/8/2022 (Parte 3) · https://www.youtube.com/watch?v=c_PprmCnqG4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-08-09 · diretoria · 29ª Reunião Pública Ordinária ANEEL – 9/8/2022 (Parte 2) · https://www.youtube.com/watch?v=A2Z7RGOwcKE · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-08-09 · diretoria · 29ª Reunião Pública Ordinária ANEEL – 9/8/2022 (Parte 1) · https://www.youtube.com/watch?v=OhNAzDezl6k · **ainda não baixado (rodar a coleta no Mac)**
-- 2022-08-02 · diretoria · 28ª Reunião Pública Ordinária ANEEL – 02/08/2022 · https://www.youtube.com/watch?v=DCbRzualwXE · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-07-26 · diretoria · 27ª Reunião Pública Ordinária ANEEL – 26/07/2022 · https://www.youtube.com/watch?v=8WzuKd5URZQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-07-19 · diretoria · 26ª Reunião Pública Ordinária ANEEL – 19/07/2022 · https://www.youtube.com/watch?v=dy6mVoXlU3Q · **ainda não baixado (rodar a coleta no Mac)**
 - 2022-07-14 · audiencia · Audiência Pública 010/2022 - Agrupamento das áreas de concessão EMG e ENF - 14/0 · https://www.youtube.com/watch?v=VJ_8j6Qabqs · **ainda não baixado (rodar a coleta no Mac)**

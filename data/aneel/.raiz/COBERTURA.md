@@ -20,7 +20,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2023 | diretoria | 82 | 82 | 0 |
 | 2023 | audiencia | 26 | 0 | 0 |
 | 2022 | workshop | 6 | 0 | 0 |
-| 2022 | diretoria | 79 | 23 | 0 |
+| 2022 | diretoria | 79 | 35 | 0 |
 | 2022 | audiencia | 16 | 0 | 0 |
 | 2021 | workshop | 4 | 0 | 0 |
 | 2021 | diretoria | 84 | 0 | 0 |
@@ -381,5 +381,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2022-10-04 · 37ª Reunião Pública Ordinária ANEEL – 04/10/2022 – Parte 1 · `Nu6021tUTj0`
 - 2022-09-27 · 36ª Reunião Pública Ordinária ANEEL – 27/09/2022 – Parte 2 · `W5nUfyVf1tk`
 - 2022-09-27 · 36ª Reunião Pública Ordinária ANEEL – 27/09/2022 – Parte 1 · `o_wn1E8LoRc`
+- 2022-09-20 · 35ª Reunião Pública Ordinária ANEEL – 20/09/2022 – Parte 2 · `s04ZsCds5dE`
+- 2022-09-20 · 35ª Reunião Pública Ordinária ANEEL – 20/09/2022 – Parte 1 · `1eX6JT3g2Ak`
+- 2022-09-13 · 34ª Reunião Pública Ordinária ANEEL – 13/09/2022 – Parte 2 · `ADqqM8GUw_U`
+- 2022-09-13 · 34ª Reunião Pública Ordinária ANEEL – 13/09/2022 – Parte 1 · `F5H2cjt_RxM`
+- 2022-09-06 · 33ª Reunião Pública Ordinária ANEEL – 06/09/2022 · `_9wcCx9SGGo`
+- 2022-08-30 · 32ª Reunião Pública Ordinária ANEEL – 30/08/2022 · `ja-35X92shQ`
+- 2022-08-23 · 31ª Reunião Pública Ordinária ANEEL – 23/08/2022 · `joud2oKgjgg`
+- 2022-08-16 · 30ª Reunião Pública Ordinária ANEEL – 16/08/2022 · `Sqo57UI6FwE`
+- 2022-08-10 · 29ª Reunião Pública Ordinária ANEEL – 10/8/2022 (Parte 3) · `c_PprmCnqG4`
+- 2022-08-09 · 29ª Reunião Pública Ordinária ANEEL – 9/8/2022 (Parte 2) · `A2Z7RGOwcKE`
+- 2022-08-09 · 29ª Reunião Pública Ordinária ANEEL – 9/8/2022 (Parte 1) · `OhNAzDezl6k`
+- 2022-08-02 · 28ª Reunião Pública Ordinária ANEEL – 02/08/2022 · `DCbRzualwXE`
 
 Vídeos sem legenda registrados: 4 (ver `data/sem_legenda.jsonl`).
