@@ -2,23 +2,11 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **32** · sem /diretoria: 3; 2026/workshop: 3; 2026/diretoria: 21; 2026/audiencia: 5
+Total: **20** · sem /diretoria: 3; 2026/workshop: 3; 2026/diretoria: 9; 2026/audiencia: 5
 
-- 2026-10-28 · diretoria · 5ª Reunião Pública Extraordinária da Diretoria da ANEEL de 2026 · https://www.youtube.com/watch?v=y3g--ATXzWs · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-10-27 · diretoria · 5ª Reunião Pública Extraordinária ANEEL – 27/10/2026 · https://www.youtube.com/watch?v=RBzu5iQFNX4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-10-22 · workshop · Workshop de esclarecimentos sobre o Leilão nº 1/2027 · https://www.youtube.com/watch?v=NVIG5ZQoBU0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-10-21 · diretoria · 21ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · https://www.youtube.com/watch?v=i3EJEj76hOI · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-10-20 · workshop · Workshop sobre procedimentos relativos à inscrição e à habilitação nos primeiros · https://www.youtube.com/watch?v=axCDXp9Jz4Q · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-10-20 · diretoria · 21ª Reunião Pública Ordinária ANEEL – 20/10/2026 · https://www.youtube.com/watch?v=GJjVBZeTCi4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-10-15 · workshop · Workshop sobre procedimentos relativos à inscrição e à habilitação nos primeiros · https://www.youtube.com/watch?v=1SLIXxmsJYo · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-10-06 · diretoria · 20ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · https://www.youtube.com/watch?v=x2ywLplRyDk · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-10-06 · diretoria · 20ª Reunião Pública Ordinária ANEEL – 6/10/2026 – Parte 2 · https://www.youtube.com/watch?v=0Fvmv23GHxU · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-10-06 · diretoria · 20ª Reunião Pública Ordinária ANEEL – 6/10/2026 – Parte 1 · https://www.youtube.com/watch?v=-f2vwDTsL7g · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-09-29 · diretoria · 17th Board Meeting - Item 27 · https://www.youtube.com/watch?v=V0nK_ybEUpo · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-09-23 · diretoria · 19ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · https://www.youtube.com/watch?v=tMx62CYBq8Q · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-09-09 · diretoria · 18ª Reunião Pública Ordinária ANEEL – 9/9/2026 – Parte 2 · https://www.youtube.com/watch?v=eAvF-lP5eB0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-09-09 · diretoria · 18ª Reunião Pública Ordinária ANEEL – 9/9/2026 – Parte 1 · https://www.youtube.com/watch?v=D3-nZ-LDQmU · **ainda não baixado (rodar a coleta no Mac)**
-- 2026-09-08 · diretoria · 18ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · https://www.youtube.com/watch?v=03M1t2wEFQQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-09-02 · audiencia · Audiência Pública 05/2026 - LRCAP SAE · https://www.youtube.com/watch?v=JHHzhHZZrc0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-09-01 · audiencia · Public Hearing 5/2026 - Capacity Reserve Auctions for Storage - 9/1/2026 · https://www.youtube.com/watch?v=ft2J0hEnkJM · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-08-28 · audiencia · Public Hearing No. 006/2026 · https://www.youtube.com/watch?v=b-X-ev8Ry-c · **ainda não baixado (rodar a coleta no Mac)**
