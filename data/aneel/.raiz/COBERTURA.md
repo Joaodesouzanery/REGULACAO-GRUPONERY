@@ -17,10 +17,10 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2024 | diretoria | 103 | 102 | 0 |
 | 2024 | audiencia | 6 | 0 | 0 |
 | 2023 | workshop | 9 | 0 | 0 |
-| 2023 | diretoria | 82 | 81 | 0 |
+| 2023 | diretoria | 82 | 82 | 0 |
 | 2023 | audiencia | 26 | 0 | 0 |
 | 2022 | workshop | 6 | 0 | 0 |
-| 2022 | diretoria | 79 | 0 | 0 |
+| 2022 | diretoria | 79 | 11 | 0 |
 | 2022 | audiencia | 16 | 0 | 0 |
 | 2021 | workshop | 4 | 0 | 0 |
 | 2021 | diretoria | 84 | 0 | 0 |
@@ -356,6 +356,18 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2023-02-07 · 3ª Reunião Pública Ordinária ANEEL – 07/02/2023 – Parte 1 · `Ykyzv6AGrQo`
 - 2023-01-31 · 2ª Reunião Pública Ordinária ANEEL – 31/01/2023 – Parte 2 · `_j3EwQBEZrI`
 - 2023-01-31 · 2ª Reunião Pública Ordinária ANEEL – 31/01/2023 – Parte 1 · `GAZLdih1t2k`
+- 2023-01-24 · 1ª Reunião Pública Ordinária ANEEL – 24/01/2023 – Parte 2 · `EO6w05kMrKo`
 - 2023-01-24 · 1ª Reunião Pública Ordinária ANEEL – 24/01/2023 – Parte 1 · `BleYCXFwpVM`
+- 2022-12-29 · 5ª Reunião Pública Extraordinária ANEEL – 29/12/2022 – Parte 2 · `5kjD471xRzQ`
+- 2022-12-29 · 5ª Reunião Pública Extraordinária ANEEL – 29/12/2022 – Parte 1 · `vxccX8X444w`
+- 2022-12-13 · 47ª Reunião Pública Ordinária ANEEL  – 13/12/2022 – Parte 2 · `DaZI4Pc5Tfs`
+- 2022-12-13 · 47ª Reunião Pública Ordinária ANEEL  – 13/12/2022 – Parte 1 · `dh8tsP_lp6g`
+- 2022-12-06 · 46ª Reunião Pública Ordinária ANEEL – 06/12/2022 – Parte 2 · `XGpxZhuirtw`
+- 2022-12-06 · 46ª Reunião Pública Ordinária ANEEL – 06/12/2022 – Parte 1 · `SiuVGbnozZ4`
+- 2022-11-29 · 45ª Reunião Pública Ordinária ANEEL – 29/11/2022 – Parte 2 · `kwl8BNd6RMI`
+- 2022-11-29 · 45ª Reunião Pública Ordinária ANEEL – 29/11/2022 – Parte 1 · `G3DnXbhdnM8`
+- 2022-11-22 · 44ª Reunião Pública Ordinária ANEEL – 22/11/2022 · `_iQVO7TqiXQ`
+- 2022-11-16 · 43ª Reunião Pública Ordinária ANEEL – 16/11/2022 – Parte 2 · `KyRsVxXSneE`
+- 2022-11-16 · 43ª Reunião Pública Ordinária ANEEL – 16/11/2022 – Parte 1 · `PbIMyK7C6lE`
 
 Vídeos sem legenda registrados: 4 (ver `data/sem_legenda.jsonl`).
