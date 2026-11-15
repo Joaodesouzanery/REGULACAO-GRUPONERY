@@ -59,9 +59,62 @@ def tecnica(secao, titulo, corpo, ag, rodape="", logo_cliente=None):
 <h2 class="th">{E(titulo)}</h2><div class="tb">{corpo}</div>{f'<div class="trod">{rodape}</div>' if rodape else ''}</section>'''
 
 
-def fim(texto, contato=""):
-    return f'''<section class="pg fim"><img src="{img("simbolo")}" class="fsim"><div class="fc"><div class="ftop"><img src="{img("circle_b")}" class="lgc"><span class="sep"></span><span class="parc">em parceria com</span><img src="{img("nery_b")}" class="lgn"></div>
-<p>{texto}</p>{f'<p class="fct">{E(contato)}</p>' if contato else ''}</div></section>'''
+def fim(texto, contato="", foto=None, foco="50% 50%", titulo="Obrigado."):
+    """encerramento estilo brochura: página azul, foto do setor ao fundo, «Obrigado.» grande e faixa branca de contato no rodapé."""
+    fo = f'<div class="ff" style="background-image:url({b64(foto)});background-position:{foco}"></div><div class="fv"></div>' if foto else ""
+    return f'''<section class="pg fim">{fo}<div class="fc"><div class="ftop"><img src="{img("circle_b")}" class="lgc"><span class="sep"></span><span class="parc">em parceria com</span><img src="{img("nery_b")}" class="lgn"></div>
+<h2 class="fh">{E(titulo)}</h2><span class="fr"></span><p>{texto}</p></div>
+<div class="fbar"><img src="{img("nery_a")}" class="hn"><span class="fsp"></span><span>{E(contato)}</span></div></section>'''
+
+
+def whitepaper(rotulo, itens, intro="", foto=None, foco="50% 50%", h_foto="2.1in"):
+    """bloco no estilo whitepaper: rótulo azul à esquerda, linhas «01 Título →» com parágrafo à direita, fio entre itens, foto arredondada embaixo.
+    itens = [(titulo, html_texto)]"""
+    li = "".join(f'<div class="wr"><span class="wn">{k + 1:02d}</span><span class="wt">{E(t)}</span><span class="wa">→</span><div class="wx">{x}</div></div>' for k, (t, x) in enumerate(itens))
+    return (f'<div class="wp"><div class="wl">{E(rotulo)}</div><div class="wi">{intro}</div></div>{li}'
+            + (f'<div class="wf" style="height:{h_foto};background-image:url({b64(foto)});background-position:{foco}"></div>' if foto else ""))
+
+
+def lista_tripla(cols):
+    """3 colunas numeradas com → (estilo «Getting Started»). cols=[(titulo,[itens])]"""
+    return '<div class="l3">' + "".join(f'<div><div class="l3h"><span>{k + 1}</span><u>{E(t)}</u></div><ul class="arr sm">{"".join(f"<li>{x}</li>" for x in xs)}</ul></div>' for k, (t, xs) in enumerate(cols)) + "</div>"
+
+
+def quadro_mandatos(cadeiras, desde="2018-01-01", ate=None, foto_fn=None):
+    """controle da diretoria por cadeira: ocupante atual + linha do tempo de ocupantes (VAGO hachurado) + substitutos.
+    cadeiras=[{"cadeira","ocupantes":[{"nome","tipo","ordem_mandato","inicio","fim_legal","posse","saida","decreto"}],"lista_triplice"}]"""
+    hoje = (ate or datetime.date.today().isoformat())
+    t0, t1 = datetime.date.fromisoformat(desde), datetime.date.fromisoformat(hoje)
+    W = (t1 - t0).days or 1
+    pos = lambda x: max(0, min(100, 100 * (datetime.date.fromisoformat(str(x)[:10]) - t0).days / W)) if x else 100
+    fd = lambda x: datetime.date.fromisoformat(str(x)[:10]).strftime("%d/%m/%Y") if x and len(str(x)) >= 10 else (str(x) if x else "—")
+    anos = "".join(f'<span style="left:{pos(f"{a}-01-01")}%">{a}</span>' for a in range(t0.year, t1.year + 1))
+    out = f'<div class="qm"><div class="qmh"><span>Cadeira</span><span>Em exercício</span><span class="qax">{anos}</span></div>'
+    for cad in cadeiras:
+        oc = [o for o in cad.get("ocupantes", []) if (o.get("saida") or o.get("fim_legal") or hoje) >= desde]
+        tit = [o for o in oc if (o.get("tipo") or "titular").lower().startswith("tit")]
+        atual = next((o for o in oc if not o.get("saida") and (o.get("posse") or o.get("inicio") or "9") <= hoje and (o.get("fim_legal") or "9") >= hoje), None)
+        barras = ""
+        for o in oc:
+            a, b = o.get("posse") or o.get("inicio"), o.get("saida") or (o.get("fim_legal") if (o.get("fim_legal") or "9") < hoje else hoje)
+            if not a: continue
+            sub = not (o.get("tipo") or "titular").lower().startswith("tit")
+            l, r = pos(a), pos(b)
+            barras += f'<i class="{"qs" if sub else "qt"}" style="left:{l}%;width:{max(r - l, .4)}%" title="{E(o["nome"])}"><em>{E(o["nome"].split()[0] + " " + o["nome"].split()[-1]) if r - l > 9 else ""}</em></i>'
+        cr = f'<i class="qn" style="left:0;width:{pos(cad["criada"])}%"><em>cadeira criada em {fd(cad["criada"])[-4:]}</em></i>' if cad.get("criada") else ""
+        barras = f'<div class="qv"></div>' + cr + barras  # fundo hachurado = vago
+        if atual:
+            ft = foto_fn(atual.get("nome_chave") or atual["nome"]) if foto_fn else ""
+            info = (f'{ft}<div><b>{E(atual["nome"])}</b><span>{E((atual.get("tipo") or "Titular").capitalize())}'
+                    f'{" · " + str(atual["ordem_mandato"]) + "º mandato da cadeira" if atual.get("ordem_mandato") else ""}</span>'
+                    f'<span>mandato {fd(atual.get("inicio"))} → {fd(atual.get("fim_legal"))} · posse {fd(atual.get("posse"))}</span>'
+                    f'<span>{E(atual.get("decreto") or "decreto a confirmar")}</span></div>')
+        else:
+            info = '<div><b class="qvago">VAGO</b><span>sem titular em exercício</span></div>'
+        hist = " · ".join(f'{E(o["nome"].split()[0] + " " + o["nome"].split()[-1])} ({fd(o.get("posse") or o.get("inicio"))[-4:]}–{fd(o.get("saida"))[-4:] if o.get("saida") else "…"}{", subst." if not (o.get("tipo") or "titular").lower().startswith("tit") else ""})' for o in oc if o is not atual)
+        lt = f'<div class="qlt">Lista tríplice: {E(", ".join(cad["lista_triplice"]))}</div>' if cad.get("lista_triplice") else ""
+        out += f'<div class="qr"><div class="qc">{E(cad["cadeira"])}</div><div class="qa">{info}</div><div class="qb"><div class="qtl">{barras}</div><div class="qh">{hist}</div>{lt}</div></div>'
+    return out + '<div class="qleg"><i class="qt"></i>titular <i class="qs"></i>substituto/interino <i class="qv0"></i>vago</div></div>'
 
 
 # ---------------- blocos ----------------
@@ -135,7 +188,17 @@ blockquote.q{{margin:.08in 0;padding:.04in 0 .04in .16in;border-left:2px solid {
 .ps{{display:flex;gap:.14in;border-top:1px solid {FIO};padding-top:.1in}}.ps .av{{width:.72in;height:.72in;border-radius:50%;background-size:cover;background-position:center 20%;flex:none;background-color:{NEVOA};filter:saturate(.85)}}.ps .av.ini{{display:flex;align-items:center;justify-content:center;color:{AZUL2};font-size:14pt}}.ps b{{display:block;font-weight:500;font-size:10pt}}.ps span{{font-size:7.6pt;color:{CINZA}}}.ps p{{margin:.04in 0 0;font-size:8pt;line-height:1.4}}
 .nar p{{margin:0 0 .07in;font-size:8.7pt;line-height:1.45;text-align:justify;hyphens:auto}}ul.arr.sm li{{font-size:8pt}}.tec .gd>div>blockquote.q{{font-size:8.2pt}}
 .selo{{display:inline-block;font-size:6.8pt;letter-spacing:.12em;text-transform:uppercase;background:{LILAS};color:{AZUL};padding:2px 8px;font-weight:600}}
-.fim{{background:{AZUL};color:#fff}}.fsim{{position:absolute;right:.9in;top:1.6in;height:3.6in;opacity:.12}}.fc{{position:absolute;left:.7in;top:.6in;right:5in}}.ftop{{display:flex;align-items:center;gap:12px;margin-bottom:.9in}}.fc p{{font-size:8.6pt;line-height:1.6;color:rgba(255,255,255,.78);font-weight:300}}.fct{{font-size:11pt!important;color:{LILAS}!important}}"""
+.fim{{background:{AZUL};color:#fff}}.ff{{position:absolute;inset:0 0 .85in 0;background-size:cover;opacity:.55;filter:saturate(.6)}}.fv{{position:absolute;inset:0 0 .85in 0;background:linear-gradient(90deg,{AZUL} 25%,rgba(0,59,76,.55) 60%,rgba(0,59,76,.25))}}
+.fc{{position:absolute;left:.8in;top:.75in;width:6.4in}}.ftop{{display:flex;align-items:center;gap:12px;margin-bottom:1.1in}}.fim .fh{{font-size:92pt!important;font-weight:500;letter-spacing:-.03em;line-height:1;color:#fff!important;margin:0!important}}.fr{{display:block;width:.5in;height:2px;background:{LILAS};margin:.35in 0 .2in}}.fc p{{font-size:9.6pt;line-height:1.6;color:rgba(255,255,255,.85);font-weight:300}}
+.fbar{{position:absolute;left:0;right:0;bottom:0;height:.85in;background:#fff;color:{TINTA};display:flex;align-items:center;gap:.3in;padding:0 .8in;font-size:9pt}}.fbar .hn{{height:.26in}}.fsp{{flex:1}}
+.wp{{display:grid;grid-template-columns:3.3in 1fr;gap:.4in;border-top:1px solid {TINTA};padding-top:.12in}}.wl{{font-size:15pt;color:{AZUL2};font-weight:400}}.wi p{{margin:0 0 .08in;font-size:10pt;line-height:1.55}}
+.wr{{display:grid;grid-template-columns:.4in 2.5in .4in 1fr;gap:0;border-top:1px solid {FIO};padding:.14in 0 .12in;margin-left:0}}.wr:first-of-type{{border-top:none}}.wn{{font-size:8pt;color:{AZUL2};font-weight:600;padding-top:.05in}}.wt{{font-size:13pt;font-weight:400;line-height:1.2;color:{TINTA}}}.wa{{font-size:13pt;color:{TINTA}}}.wx{{font-size:9.3pt;line-height:1.6;padding-left:.4in}}.wx p{{margin:0 0 .06in}}
+.wf{{border-radius:8px;background-size:cover;margin-top:.14in}}
+.l3{{display:grid;grid-template-columns:repeat(3,1fr);gap:.3in}}.l3h{{display:flex;gap:.12in;align-items:baseline;margin-bottom:.08in}}.l3h span{{font-size:16pt;color:{AZUL2};font-weight:300}}.l3h u{{text-underline-offset:3px;font-size:9.6pt}}
+.qm{{font-size:8pt}}.qmh{{display:grid;grid-template-columns:1.1in 3.6in 1fr;gap:.2in;color:{CINZA};font-size:7pt;letter-spacing:.08em;text-transform:uppercase;border-bottom:1px solid {TINTA};padding-bottom:4px}}.qax{{position:relative;height:1em}}.qax span{{position:absolute;transform:translateX(-50%);letter-spacing:0}}
+.qr{{display:grid;grid-template-columns:1.1in 3.6in 1fr;gap:.2in;border-bottom:1px solid {FIO};padding:.09in 0;align-items:center}}.qc{{font-size:11pt;color:{AZUL};font-weight:500}}.qa{{display:flex;gap:.12in;align-items:center}}.qa .av{{width:.56in;height:.56in;border-radius:50%;background-size:cover;background-position:center 20%;flex:none;background-color:{NEVOA}}}.qa .av.ini{{display:flex;align-items:center;justify-content:center;color:{AZUL2}}}.qa b{{display:block;font-weight:500;font-size:9pt}}.qa span{{display:block;color:{CINZA};font-size:7.4pt;line-height:1.35}}.qvago{{color:{CINZA};letter-spacing:.1em}}
+.qtl{{position:relative;height:.24in}}.qv{{position:absolute;inset:0;background:repeating-linear-gradient(45deg,{NEVOA} 0 4px,#fff 4px 8px);border:1px solid {FIO}}}.qtl i{{position:absolute;top:0;bottom:0;display:block;border-right:2px solid #fff;overflow:hidden}}.qt{{background:{AZUL}}}.qs{{background:{LILAS}}}.qtl i.qn{{background:#fff;border:none}}.qn em{{color:{CINZA}!important}}.qtl em{{font-style:normal;color:#fff;font-size:6.6pt;padding-left:4px;line-height:.24in;white-space:nowrap}}.qs em{{color:{AZUL}}}
+.qh{{font-size:6.8pt;color:{CINZA};margin-top:3px;line-height:1.35}}.qlt{{font-size:6.8pt;color:{AZUL2};margin-top:2px}}.qleg{{margin-top:.08in;font-size:7pt;color:{CINZA};display:flex;gap:.08in;align-items:center}}.qleg i{{width:14px;height:8px;display:inline-block;margin-left:.1in}}.qv0{{background:repeating-linear-gradient(45deg,{NEVOA} 0 3px,#fff 3px 6px);border:1px solid {FIO}}}"""
 
 
 def documento(paginas, titulo, saida):
