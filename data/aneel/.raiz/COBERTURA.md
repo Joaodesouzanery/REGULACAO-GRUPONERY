@@ -5,9 +5,9 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | Ano | Tipo | Publicados | Transcritos | Analisados |
 |---|---|---|---|---|
 | sem data | diretoria | 3 | 0 | 0 |
-| 2026 | workshop | 3 | 0 | 0 |
+| 2026 | workshop | 3 | 3 | 0 |
 | 2026 | diretoria | 21 | 21 | 0 |
-| 2026 | audiencia | 5 | 3 | 0 |
+| 2026 | audiencia | 5 | 5 | 0 |
 
 ## Reuniões de diretoria transcritas e ainda sem análise
 
