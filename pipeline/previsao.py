@@ -5,7 +5,7 @@ Backtest: treina com itens até 2024 e testa em 2025–2026 (unânime sim/não),
 Uso: python3 pipeline/previsao.py <agencia> "<alias1|alias2>"   (ou importe calcular())"""
 import sqlite3, sys, re, datetime, collections
 
-DB = {"antt": "data/regulacao.db", "anm": "data/anm/regulacao.db", "antaq": "data/antaq/regulacao.db"}
+DB = {"antt": "data/regulacao.db", "anm": "data/anm/regulacao.db", "antaq": "data/antaq/regulacao.db", "aneel": "data/aneel/regulacao.db", "anp": "data/anp/regulacao.db"}
 ACOMP = ("acompanha", "revisor_acompanha")
 DIV = ("vencido", "revisor_diverge")
 

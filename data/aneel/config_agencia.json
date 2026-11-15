@@ -10,31 +10,66 @@
   "Gentil Nogueira",
   "Willamy Frota",
   "Ludimila Lima",
-  "Fernando Mosna"
+  "Fernando Mosna",
+  "Hélvio Guerra",
+  "Ricardo Tili"
  ],
  "alias": {
-  "Agnes Costa": "Agnes da Costa",
-  "Ludimila Silva": "Ludimila Lima",
-  "Willam Frota": "Willamy Frota",
-  "Willam": "Willamy Frota",
-  "Fernando": "Fernando Mosna",
-  "Ludmila": "Ludimila Lima",
-  "Ludmila Lima da Silva": "Ludimila Lima",
-  "Ludimila": "Ludimila Lima"
+  "Sandoval Feitosa": "sandoval",
+  "Agnes da Costa": "agnes",
+  "Gentil Nogueira": "gentil",
+  "Willamy Frota": "willamy|willam|william|frota",
+  "Ludimila Lima": "lud[mi]+la|urila",
+  "Fernando Mosna": "mosna|fernando",
+  "Hélvio Guerra": "h[ée]lvio",
+  "Ricardo Tili": "tili"
  },
- "rx_nomes": "",
+ "rx_nomes": "sandoval|agnes|gentil|willamy|willam|frota|lud[mi]+la|mosna|fernando",
  "temas": [
-  "tarifas_revisao_tarifaria",
-  "geracao_distribuida",
-  "transmissao",
-  "leiloes",
-  "fiscalizacao_sancoes",
-  "cde_encargos",
-  "outorgas_geracao",
-  "regulacao_normativa",
-  "comercializacao",
-  "recursos_recursais",
-  "outros"
+  [
+   "tarifas_revisao_tarifaria",
+   "tarif|reajuste|revis[ãa]o tarif|RTP|bandeira|TUST|TUSD"
+  ],
+  [
+   "geracao_distribuida",
+   "gera[çc][ãa]o distribu|MMGD|micro.?gera|mini.?gera"
+  ],
+  [
+   "transmissao",
+   "transmiss|RAP|refor[çc]o|subesta"
+  ],
+  [
+   "leiloes",
+   "leil[ãa]o|edital"
+  ],
+  [
+   "fiscalizacao_sancoes",
+   "multa|auto de infra|san[çc]|caducidade|fiscaliza|penalidade"
+  ],
+  [
+   "cde_encargos",
+   "CDE|encargo|CCC|reserva de capacidade"
+  ],
+  [
+   "outorgas_geracao",
+   "outorga|usina|UHE|UTE|e[óo]lic|solar|fotovolt|PCH"
+  ],
+  [
+   "comercializacao",
+   "comercializ|CCEE|PLD|mercado livre|abertura de mercado"
+  ],
+  [
+   "regulacao_normativa",
+   "consulta p[úu]blica|audi[êe]ncia p[úu]blica|resolu[çc][ãa]o normativa|agenda regulat|AIR"
+  ],
+  [
+   "recursos_recursais",
+   "recurso|reconsidera|cautelar"
+  ],
+  [
+   "distribuicao_qualidade",
+   "distribuidor|continuidade|qualidade|perdas|apag[ãa]o|perturba"
+  ]
  ],
  "_preencher": "diretores/alias/rx_nomes via pesquisador-mandatos; temas do setor (ver exemplos em data/antaq e data/anm)",
  "filtro_titulo_diretoria": "Reunião Pública (Ordinária|Extraordinária) da Diretoria",

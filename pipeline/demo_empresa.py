@@ -62,7 +62,7 @@ S.append(f'''<section class="pg">{f'<img src="{LOGO_P}" class="lp">' if LOGO_P e
 <div class="card"><h3>Desfecho para a empresa (3 anos)</h3>{rosca(DES)}<p class="nt">Classificação automática pela decisão; conferida à mão no relatório completo.</p></div>
 <div class="card"><h3>Decisões mais recentes</h3><ul>{evs or "<li>Sem decisões no recorte.</li>"}</ul><h3 style="margin-top:.16in">Próximas reuniões</h3><p>{" · ".join(f"{x['reuniao']}ª em {fmtd(x['data'])} ({x.get('formato', '')})" for x in cal) or "calendário oficial no relatório completo"}</p></div></div><div class="wm">DEMO</div></section>''')
 cards = ""
-for d in board:
+for d in sorted(board, key=lambda x: x != aberto):
     if d == aberto:
         b = bios.get(d, {}); st = mapa_tema.mapear(AG, "|".join(map(re.escape, ALI)), TRES)["por_diretor"].get(d, {})
         cards += f'''<div class="dc open">{foto_dir(d)}<div class="dn">{E(d)}</div><div class="dg">{E((b.get("cargo") or "Diretor(a)")[:60])}</div><p>{E((b.get("minibio") or "")[:170])}</p>
