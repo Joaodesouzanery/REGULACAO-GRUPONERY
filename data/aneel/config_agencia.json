@@ -74,5 +74,6 @@
  "_preencher": "diretores/alias/rx_nomes via pesquisador-mandatos; temas do setor (ver exemplos em data/antaq e data/anm)",
  "filtro_titulo_diretoria": "Reunião Pública (Ordinária|Extraordinária) da Diretoria",
  "desde": "2018-01-01",
- "prioridade_comercial": "ANEEL e ANP: porta grande de mercado — qualidade máxima (conferência cega, auditor em toda entrega, fotos oficiais em alta)"
+ "prioridade_comercial": "ANEEL e ANP: porta grande de mercado — qualidade máxima (conferência cega, auditor em toda entrega, fotos oficiais em alta)",
+ "excluir_titulo": "^\\s*Item\\s*\\d|^\\s*\\d+(st|nd|rd|th) Board Meeting - Item"
 }
