@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **973** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2026/audiencia: 1; 2025/workshop: 9; 2025/diretoria: 2; 2025/audiencia: 9; 2024/workshop: 16; 2024/diretoria: 2; 2024/audiencia: 6; 2023/workshop: 9; 2023/diretoria: 61; 2023/audiencia: 26; 2022/workshop: 6; 2022/diretoria: 79; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 84; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 90; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 77; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 69; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
+Total: **961** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2026/audiencia: 1; 2025/workshop: 9; 2025/diretoria: 2; 2025/audiencia: 9; 2024/workshop: 16; 2024/diretoria: 2; 2024/audiencia: 6; 2023/workshop: 9; 2023/diretoria: 49; 2023/audiencia: 26; 2022/workshop: 6; 2022/diretoria: 79; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 84; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 90; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 77; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 69; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
 
 - 2026-04-29 · audiencia · Audiência Pública 2/2026 – Copel Distribuição – 29/4/2026 · https://www.youtube.com/watch?v=RQBXXb4uxL4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas – 2º dia – Parte I · https://www.youtube.com/watch?v=0EZJFGtpmik · **ainda não baixado (rodar a coleta no Mac)**
@@ -66,23 +66,11 @@ Total: **973** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/
 - 2023-11-23 · audiencia · Audiência Pública 021/2023 - Revisão Tarifária Periódica da Roraima Energia – 23 · https://www.youtube.com/watch?v=ErEZ4ToxuOQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-11-02 · audiencia · Audiência Pública Virtual 020/2023 – Agenda Regulatória · https://www.youtube.com/watch?v=rNX2sDAfzJc · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-11-01 · audiencia · Audiência Pública 020/2023 - Agenda Regulatória 2024-2025– 01/11/2023 · https://www.youtube.com/watch?v=Bp3TrBx8yEw · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-10-31 · diretoria · 40ª Reunião Pública Ordinária ANEEL – 31/10/2023 · https://www.youtube.com/watch?v=vMhQuPIMKSA · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-10-24 · diretoria · 39ª Reunião Pública Ordinária ANEEL – 24/10/2023 · https://www.youtube.com/watch?v=R7mvOZKYEQg · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-10-23 · workshop · Workshop de Esclarecimentos sobre o Leilão de Transmissão n⁰ 02/2023 - 23/10/202 · https://www.youtube.com/watch?v=fUjiqwi5eqI · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-10-17 · diretoria · 38ª Reunião Pública Ordinária ANEEL – 17/10/2023 – Parte 2 · https://www.youtube.com/watch?v=FwdI7J21BHQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-10-17 · diretoria · 38ª Reunião Pública Ordinária ANEEL – 17/10/2023 – Parte 1 · https://www.youtube.com/watch?v=OAIQRXea0eM · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-10-11 · audiencia · Audiência Pública 018/2023 - Revisão Tarifária Periódica da Energisa Rondônia –  · https://www.youtube.com/watch?v=5jmv2qxRwp4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-10-10 · diretoria · 37ª Reunião Pública Ordinária ANEEL – 10/10/2023 · https://www.youtube.com/watch?v=KMRJSab2b2c · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-10-05 · audiencia · Audiência Pública 017/2023 - Revisão Tarifária Periódica da Energisa Acre – 05/1 · https://www.youtube.com/watch?v=M-BflKaMZ1Q · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-10-03 · diretoria · 36ª Reunião Pública Ordinária ANEEL – 03/10/2023 · https://www.youtube.com/watch?v=c0DkT0alB3Y · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-09-27 · audiencia · Audiência Pública 019/2023 - Revisão Tarifária Estraordinária CEA – 27/09/2023 · https://www.youtube.com/watch?v=Hvpdecxi76M · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-09-26 · diretoria · 35ª Reunião Pública Ordinária ANEEL – 26/09/2023 – Parte 2 · https://www.youtube.com/watch?v=uhVd6foI7Fs · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-09-26 · diretoria · 35ª Reunião Pública Ordinária ANEEL – 26/09/2023 – Parte 1 · https://www.youtube.com/watch?v=t8Uzn0suOCs · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-09-19 · diretoria · 34ª Reunião Pública Ordinária ANEEL – 19/09/2023 – Parte 2 · https://www.youtube.com/watch?v=rfP1C674eNM · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-09-19 · diretoria · 34ª Reunião Pública Ordinária ANEEL – 19/09/2023 - Parte 1 · https://www.youtube.com/watch?v=F0sG5EIXLTc · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-09-14 · audiencia · Audiência Pública 016/2023 - Revisão Tarifária Periódica da Equatorial Piauí – 1 · https://www.youtube.com/watch?v=7ooXLSPUgyg · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-09-12 · diretoria · 33ª Reunião Pública Ordinária ANEEL – 12/09/2023 · https://www.youtube.com/watch?v=KXvlicyfeYI · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-09-06 · diretoria · 32ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · https://www.youtube.com/watch?v=7IftH117gzw · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-09-05 · diretoria · 32ª Reunião Pública Ordinária ANEEL – 05/09/2023 · https://www.youtube.com/watch?v=VG2GaKZu0Dw · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-09-02 · workshop · Workshop de P&D : Desafio de estabelecer incentivos regulatórios na era das tecn · https://www.youtube.com/watch?v=fELKBOAEvDs · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-08-29 · diretoria · 31ª Reunião Pública Ordinária ANEEL – 29/08/2023 – Parte 2 · https://www.youtube.com/watch?v=tzbwQ6uOKHM · **ainda não baixado (rodar a coleta no Mac)**
