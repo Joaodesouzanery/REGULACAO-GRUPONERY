@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **781** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2026/audiencia: 1; 2025/workshop: 9; 2025/diretoria: 2; 2025/audiencia: 9; 2024/workshop: 16; 2024/diretoria: 2; 2024/audiencia: 6; 2023/workshop: 9; 2023/audiencia: 26; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 31; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 90; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 77; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 69; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
+Total: **769** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2026/audiencia: 1; 2025/workshop: 9; 2025/diretoria: 2; 2025/audiencia: 9; 2024/workshop: 16; 2024/diretoria: 2; 2024/audiencia: 6; 2023/workshop: 9; 2023/audiencia: 26; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 19; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 90; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 77; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 69; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
 
 - 2026-04-29 · audiencia · Audiência Pública 2/2026 – Copel Distribuição – 29/4/2026 · https://www.youtube.com/watch?v=RQBXXb4uxL4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas – 2º dia – Parte I · https://www.youtube.com/watch?v=0EZJFGtpmik · **ainda não baixado (rodar a coleta no Mac)**
@@ -149,24 +149,12 @@ Total: **781** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/
 - 2021-05-26 · workshop · Workshop de Esclarecimentos do Leilão de Transmissão nº 01/2021 · https://www.youtube.com/watch?v=MLPQzxkbe_4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-05-25 · diretoria · 18ª Reunião Pública Ordinária ANEEL – 25/05/2021 – Parte 1 · https://www.youtube.com/watch?v=eNn10-EeivQ · **legenda desativada/inexistente no YouTube**
 - 2021-05-19 · audiencia · Audiência Pública 010/2021 - Consolidação das Normas de Direitos do Consumidor – · https://www.youtube.com/watch?v=vql4j2dPbLg · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-05-18 · diretoria · 17ª Reunião Pública Ordinária ANEEL – 18/05/2021 – Parte 2 · https://www.youtube.com/watch?v=mrwdG0HcSHI · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-05-18 · diretoria · 17ª Reunião Pública Ordinária ANEEL – 18/05/2021 – Parte 1 · https://www.youtube.com/watch?v=I_9bijz-Z3o · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-05-11 · diretoria · 16ª Reunião Pública Ordinária ANEEL – 11/05/2021 · https://www.youtube.com/watch?v=OIZRCLYi1wc · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-05-06 · audiencia · Audiência Pública 009/2021- Revisão Tarifária Periódica da Energisa Sul Sudeste  · https://www.youtube.com/watch?v=HQXRvhbAdTY · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-05-04 · diretoria · 15ª Reunião Pública Ordinária ANEEL – 04/05/2021 · https://www.youtube.com/watch?v=0ts1wKT53Lg · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-04-29 · workshop · Workshop Compartilhamento de Instalações de Transmissão - 29/04/2021 · https://www.youtube.com/watch?v=azP_TnkWstE · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-04-28 · audiencia · Audiência Pública 003/2021- Revisão da norma de Conselhos de Consumidores – 28/0 · https://www.youtube.com/watch?v=Bx6JEDMV838 · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-04-27 · diretoria · 14ª Reunião Pública Ordinária ANEEL – 27/04/2021 – Parte 2 · https://www.youtube.com/watch?v=p3uEGizVtvU · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-04-27 · diretoria · 14ª Reunião Pública Ordinária ANEEL – 27/04/2021 – Parte 1 · https://www.youtube.com/watch?v=C3VzE85ef5U · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-04-23 · audiencia · Audiência Pública 007/2021- Revisão Tarifária Periódica da Copel – 23/04/2021 · https://www.youtube.com/watch?v=WTNg16qY0f0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-04-22 · audiencia · Audiência Pública 008/2021- Revisão Tarifária Periódica da Cocel – 22/04/2021 · https://www.youtube.com/watch?v=TYIaoWWVuLU · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-04-22 · diretoria · 4ª Reunião Pública Extraordinária ANEEL – 22/04/2021 · https://www.youtube.com/watch?v=Bcjs2jR84cU · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-04-20 · diretoria · 13ª Reunião Pública Ordinária ANEEL – 20/04/2021 · https://www.youtube.com/watch?v=23sC065xGJk · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-04-13 · diretoria · 12ª Reunião Pública Ordinária ANEEL – 13/04/2021 – Parte 2 · https://www.youtube.com/watch?v=p1ByAR6aDJo · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-04-13 · diretoria · 12ª Reunião Pública Ordinária ANEEL – 13/04/2021 – Parte 1 · https://www.youtube.com/watch?v=6e1lSIWYacE · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-04-09 · audiencia · Audiência Pública 006/2021- Revisão Tarifária Periódica da Energisa Nova Friburg · https://www.youtube.com/watch?v=LYrJRRcGK3o · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-04-06 · diretoria · 11ª Reunião Pública Ordinária ANEEL – 06/04/2021 – Parte 2 · https://www.youtube.com/watch?v=Oz2WXKeTBqY · **ainda não baixado (rodar a coleta no Mac)**
-- 2021-04-06 · diretoria · 11ª Reunião Pública Ordinária ANEEL – 06/04/2021 – Parte 1 · https://www.youtube.com/watch?v=WTZTNIs69aE · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-04-01 · audiencia · Audiência Pública 005/2021- Revisão Tarifária Periódica da Energisa MG – 01/04/2 · https://www.youtube.com/watch?v=MN4rkoqZGf4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-03-30 · diretoria · 10ª Reunião Pública Ordinária ANEEL – 30/03/2021 – Parte 2 · https://www.youtube.com/watch?v=ISaWUvRip_g · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-03-30 · diretoria · 10ª Reunião Pública Ordinária ANEEL – 30/03/2021 – Parte 1 · https://www.youtube.com/watch?v=F_4DL-hkhdg · **ainda não baixado (rodar a coleta no Mac)**
