@@ -26,7 +26,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2021 | diretoria | 84 | 81 | 0 |
 | 2021 | audiencia | 33 | 0 | 0 |
 | 2020 | workshop | 2 | 0 | 0 |
-| 2020 | diretoria | 90 | 8 | 0 |
+| 2020 | diretoria | 90 | 20 | 0 |
 | 2020 | audiencia | 9 | 0 | 0 |
 | 2019 | workshop | 8 | 0 | 0 |
 | 2019 | diretoria | 77 | 0 | 0 |
@@ -525,5 +525,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2020-12-08 · 46ª Reunião Pública Ordinária ANEEL – 08/12/2020 – Parte 2 · `1vNZXZF0kr8`
 - 2020-12-08 · 46ª Reunião Pública Ordinária ANEEL – 08/12/2020 – Parte 1 · `HdcCHl2glyk`
 - 2020-12-01 · 45ª Reunião Pública Ordinária ANEEL – 01/12/2020 – Parte 2 · `Pb6v8Qlsr1g`
+- 2020-12-01 · 45ª Reunião Pública Ordinária ANEEL – 01/12/2020 - Parte 1 · `BVNx5ixz2wU`
+- 2020-11-30 · 12ª Reunião Pública Extraordinária ANEEL – 30/11/2020 · `FwiCOVeid9U`
+- 2020-11-27 · 11ª Reunião Pública Extraordinária ANEEL – 27/11/2020 · `N4wWfnXwoZY`
+- 2020-11-24 · 44ª Reunião Pública Ordinária ANEEL – 24/11/2020 · `GS-WxldGMm0`
+- 2020-11-24 · 10ª Reunião Pública Extraordinária ANEEL – 24/11/2020 – Parte 2 · `xi9X4-6LFeQ`
+- 2020-11-24 · 10ª Reunião Pública Extraordinária ANEEL – 24/11/2020 – Parte 1 · `0EO-Olz0ieM`
+- 2020-11-17 · 43ª Reunião Pública Ordinária ANEEL – 17/11/2020 – Parte 2 · `mek_ye_ShQA`
+- 2020-11-17 · 43ª Reunião Pública Ordinária ANEEL – 17/11/2020 – Parte 1 · `7g6US8D_r9s`
+- 2020-11-10 · 42ª Reunião Pública Ordinária ANEEL – 10/11/2020 – Parte 2 · `UtLJgtba6Tk`
+- 2020-11-10 · 42ª Reunião Pública Ordinária ANEEL – 10/11/2020 – Parte 1 · `Zen2AH1gcgQ`
+- 2020-11-03 · 41ª Reunião Pública Ordinária ANEEL – 03/11/2020 – Parte 2 · `j2tWcf-EvGs`
+- 2020-11-03 · 41ª Reunião Pública Ordinária ANEEL – 03/11/2020 – Parte 1 · `Tpt2zAfCLh4`
 
 Vídeos sem legenda registrados: 8 (ver `data/sem_legenda.jsonl`).

@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **745** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2026/audiencia: 1; 2025/workshop: 9; 2025/diretoria: 2; 2025/audiencia: 9; 2024/workshop: 16; 2024/diretoria: 2; 2024/audiencia: 6; 2023/workshop: 9; 2023/audiencia: 26; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 82; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 77; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 69; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
+Total: **733** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2026/audiencia: 1; 2025/workshop: 9; 2025/diretoria: 2; 2025/audiencia: 9; 2024/workshop: 16; 2024/diretoria: 2; 2024/audiencia: 6; 2023/workshop: 9; 2023/audiencia: 26; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 70; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 77; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 69; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
 
 - 2026-04-29 · audiencia · Audiência Pública 2/2026 – Copel Distribuição – 29/4/2026 · https://www.youtube.com/watch?v=RQBXXb4uxL4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas – 2º dia – Parte I · https://www.youtube.com/watch?v=0EZJFGtpmik · **ainda não baixado (rodar a coleta no Mac)**
@@ -162,21 +162,9 @@ Total: **745** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/
 - 2021-01-28 · audiencia · Audiência Pública 001/2021 - Consolidação de Normas da ANEEL – 28/01/2021 · https://www.youtube.com/watch?v=iwMkLC8aeqs · **ainda não baixado (rodar a coleta no Mac)**
 - 2021-01-21 · audiencia · Audiência Pública 012/2020 - Revisão Tarifária Periódica da CPFL Santa Cruz – 21 · https://www.youtube.com/watch?v=UslX2WzmO8M · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-12-03 · audiencia · Audiência Pública 009/2020 - Revisão Tarifária Periódica da Energisa Borborema – · https://www.youtube.com/watch?v=HYbCIAO-9g4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-12-01 · diretoria · 45ª Reunião Pública Ordinária ANEEL – 01/12/2020 - Parte 1 · https://www.youtube.com/watch?v=BVNx5ixz2wU · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-11-30 · diretoria · 12ª Reunião Pública Extraordinária ANEEL – 30/11/2020 · https://www.youtube.com/watch?v=FwiCOVeid9U · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-11-27 · diretoria · 11ª Reunião Pública Extraordinária ANEEL – 27/11/2020 · https://www.youtube.com/watch?v=N4wWfnXwoZY · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-11-24 · diretoria · 44ª Reunião Pública Ordinária ANEEL – 24/11/2020 · https://www.youtube.com/watch?v=GS-WxldGMm0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-11-24 · diretoria · 10ª Reunião Pública Extraordinária ANEEL – 24/11/2020 – Parte 2 · https://www.youtube.com/watch?v=xi9X4-6LFeQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-11-24 · diretoria · 10ª Reunião Pública Extraordinária ANEEL – 24/11/2020 – Parte 1 · https://www.youtube.com/watch?v=0EO-Olz0ieM · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-11-19 · audiencia · Audiência Pública nº 010/2020 - Agenda Regulatória 2021/2022 - 19/11/2020 · https://www.youtube.com/watch?v=2mtNhhebUzc · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-11-17 · diretoria · 43ª Reunião Pública Ordinária ANEEL – 17/11/2020 – Parte 2 · https://www.youtube.com/watch?v=mek_ye_ShQA · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-11-17 · diretoria · 43ª Reunião Pública Ordinária ANEEL – 17/11/2020 – Parte 1 · https://www.youtube.com/watch?v=7g6US8D_r9s · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-11-10 · diretoria · 42ª Reunião Pública Ordinária ANEEL – 10/11/2020 – Parte 2 · https://www.youtube.com/watch?v=UtLJgtba6Tk · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-11-10 · diretoria · 42ª Reunião Pública Ordinária ANEEL – 10/11/2020 – Parte 1 · https://www.youtube.com/watch?v=Zen2AH1gcgQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-11-03 · workshop · Workshop de Esclarecimentos do Leilão De Transmissão nº 01/2020 – Parte 2 · https://www.youtube.com/watch?v=ChsWYxucaec · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-11-03 · workshop · Workshop de Esclarecimentos do Leilão De Transmissão nº 01/2020 – Parte 1 · https://www.youtube.com/watch?v=CzvzgVaXIDY · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-11-03 · diretoria · 41ª Reunião Pública Ordinária ANEEL – 03/11/2020 – Parte 2 · https://www.youtube.com/watch?v=j2tWcf-EvGs · **ainda não baixado (rodar a coleta no Mac)**
-- 2020-11-03 · diretoria · 41ª Reunião Pública Ordinária ANEEL – 03/11/2020 – Parte 1 · https://www.youtube.com/watch?v=Tpt2zAfCLh4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-10-27 · diretoria · 40ª Reunião Pública Ordinária ANEEL – 27/10/2020 · https://www.youtube.com/watch?v=Lt3hmS1XonQ · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-10-26 · diretoria · 9ª Reunião Pública Extraordinária ANEEL – 26/10/2020 · https://www.youtube.com/watch?v=33dEQCG5iSU · **ainda não baixado (rodar a coleta no Mac)**
 - 2020-10-20 · diretoria · 39ª Reunião Pública Ordinária ANEEL – 20/10/2020 · https://www.youtube.com/watch?v=YDuF698Ssz8 · **ainda não baixado (rodar a coleta no Mac)**
