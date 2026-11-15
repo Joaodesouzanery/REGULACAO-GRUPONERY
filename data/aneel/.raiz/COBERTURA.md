@@ -14,7 +14,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2025 | diretoria | 97 | 95 | 0 |
 | 2025 | audiencia | 9 | 0 | 0 |
 | 2024 | workshop | 16 | 0 | 0 |
-| 2024 | diretoria | 103 | 87 | 0 |
+| 2024 | diretoria | 103 | 99 | 0 |
 | 2024 | audiencia | 6 | 0 | 0 |
 | 2023 | workshop | 9 | 0 | 0 |
 | 2023 | diretoria | 82 | 0 | 0 |
@@ -261,5 +261,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2024-04-09 · 11ª Reunião Pública Ordinária ANEEL – 09/04/2024 · `UBx99ixlI-g`
 - 2024-04-02 · 10ª Reunião Pública Ordinária ANEEL – 02/04/2024 · `jxiGRf9YR2U`
 - 2024-03-26 · 9ª Reunião Pública Ordinária ANEEL – 26/03/2024  – Parte 2 · `YJ4sIItD6jQ`
+- 2024-03-26 · 9ª Reunião Pública Ordinária ANEEL – 26/03/2024  – Parte 1 · `gTCWJ7UplnI`
+- 2024-03-19 · 8ª Reunião Pública Ordinária ANEEL – 19/03/2024  – Parte 2 · `rOPfqGD4A78`
+- 2024-03-19 · 8ª Reunião Pública Ordinária ANEEL – 19/03/2024  – Parte 1 · `C_yXsuqfFN8`
+- 2024-03-12 · 7ª Reunião Pública Ordinária ANEEL – 12/03/2024  – Parte 2 · `ZfFga5mHzWw`
+- 2024-03-12 · 7ª Reunião Pública Ordinária ANEEL – 12/03/2024  – Parte 1 · `z9pEmZu_6UQ`
+- 2024-03-05 · 6ª Reunião Pública Ordinária ANEEL – 05/03/2024 – Parte 2 · `Az4KANd4osI`
+- 2024-03-05 · 6ª Reunião Pública Ordinária ANEEL – 05/03/2024 – Parte 1 · `pjxzcEeyXNk`
+- 2024-02-27 · 5ª Reunião Pública Ordinária ANEEL – 27/02/2024 · `sjaDVNIdg8w`
+- 2024-02-20 · 4ª Reunião Pública Ordinária ANEEL – 20/02/2024 · `A5gwnqzWGoE`
+- 2024-02-06 · 3ª Reunião Pública Ordinária ANEEL – 06/02/2024 – Parte 2 · `kOZ8fH6i9Ms`
+- 2024-02-06 · 3ª Reunião Pública Ordinária ANEEL – 06/02/2024 – Parte 1 · `FhmaAJXwTrw`
+- 2024-01-31 · 2ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2024 · `m9fdrmbhsVw`
 
 Vídeos sem legenda registrados: 4 (ver `data/sem_legenda.jsonl`).

@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **1009** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2026/audiencia: 1; 2025/workshop: 9; 2025/diretoria: 2; 2025/audiencia: 9; 2024/workshop: 16; 2024/diretoria: 17; 2024/audiencia: 6; 2023/workshop: 9; 2023/diretoria: 82; 2023/audiencia: 26; 2022/workshop: 6; 2022/diretoria: 79; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 84; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 90; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 77; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 69; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
+Total: **997** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2026/audiencia: 1; 2025/workshop: 9; 2025/diretoria: 2; 2025/audiencia: 9; 2024/workshop: 16; 2024/diretoria: 5; 2024/audiencia: 6; 2023/workshop: 9; 2023/diretoria: 82; 2023/audiencia: 26; 2022/workshop: 6; 2022/diretoria: 79; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 84; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 90; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 77; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 69; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
 
 - 2026-04-29 · audiencia · Audiência Pública 2/2026 – Copel Distribuição – 29/4/2026 · https://www.youtube.com/watch?v=RQBXXb4uxL4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas – 2º dia – Parte I · https://www.youtube.com/watch?v=0EZJFGtpmik · **ainda não baixado (rodar a coleta no Mac)**
@@ -57,22 +57,10 @@ Total: **1009** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026
 - 2024-04-13 · workshop · Workshop de Esclarecimentos sobre o Leilão de Transmissão nº 2/2024 · https://www.youtube.com/watch?v=FZJ0Buz811o · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-04-12 · workshop · Workshop de Esclarecimentos sobre o Leilão de Transmissão 02/2024 - 12/04/2024 · https://www.youtube.com/watch?v=nXNRsGlaUBY · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-04-12 · workshop · Workshop de Encerramento do P&D “Análise da Capacidade do Mercado” · https://www.youtube.com/watch?v=SZQDQexS6vE · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-03-26 · diretoria · 9ª Reunião Pública Ordinária ANEEL – 26/03/2024  – Parte 1 · https://www.youtube.com/watch?v=gTCWJ7UplnI · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-03-19 · diretoria · 8ª Reunião Pública Ordinária ANEEL – 19/03/2024  – Parte 2 · https://www.youtube.com/watch?v=rOPfqGD4A78 · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-03-19 · diretoria · 8ª Reunião Pública Ordinária ANEEL – 19/03/2024  – Parte 1 · https://www.youtube.com/watch?v=C_yXsuqfFN8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-03-15 · audiencia · Audiência Pública 002/2024 - Revisão Tarifária Periódica da Amazonas Energia – 1 · https://www.youtube.com/watch?v=lkOYK6QzBik · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-03-12 · diretoria · 7ª Reunião Pública Ordinária ANEEL – 12/03/2024  – Parte 2 · https://www.youtube.com/watch?v=ZfFga5mHzWw · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-03-12 · diretoria · 7ª Reunião Pública Ordinária ANEEL – 12/03/2024  – Parte 1 · https://www.youtube.com/watch?v=z9pEmZu_6UQ · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-03-05 · diretoria · 6ª Reunião Pública Ordinária ANEEL – 05/03/2024 – Parte 2 · https://www.youtube.com/watch?v=Az4KANd4osI · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-03-05 · diretoria · 6ª Reunião Pública Ordinária ANEEL – 05/03/2024 – Parte 1 · https://www.youtube.com/watch?v=pjxzcEeyXNk · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-02-29 · audiencia · Audiência Pública 001/2024 - Revisão Tarifária Periódica da Equatorial Alagoas – · https://www.youtube.com/watch?v=FmTJJI2JQqc · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-02-27 · diretoria · 5ª Reunião Pública Ordinária ANEEL – 27/02/2024 · https://www.youtube.com/watch?v=sjaDVNIdg8w · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-02-22 · workshop · Workshop: Resiliência de Redes frente a Eventos Climáticos de Elevada Severidade · https://www.youtube.com/watch?v=fa3rjVSdMK8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-02-21 · workshop · Workshop da 1ª Chamada de Sandboxes Tarifários · https://www.youtube.com/watch?v=X0Z_TObjwfw · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-02-20 · diretoria · 4ª Reunião Pública Ordinária ANEEL – 20/02/2024 · https://www.youtube.com/watch?v=A5gwnqzWGoE · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-02-06 · diretoria · 3ª Reunião Pública Ordinária ANEEL – 06/02/2024 – Parte 2 · https://www.youtube.com/watch?v=kOZ8fH6i9Ms · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-02-06 · diretoria · 3ª Reunião Pública Ordinária ANEEL – 06/02/2024 – Parte 1 · https://www.youtube.com/watch?v=FhmaAJXwTrw · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-01-31 · diretoria · 2ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2024 · https://www.youtube.com/watch?v=m9fdrmbhsVw · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-01-30 · diretoria · 2ª Reunião Pública Ordinária ANEEL – 30/01/2024 · https://www.youtube.com/watch?v=er9N7y5E_R4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-01-23 · workshop · WORKSHOP DE ESCLARECIMENTOS TÉCNICOS SOBRE O LEILÃO Nº 1/2024-ANEEL (LEILÃO DE T · https://www.youtube.com/watch?v=AeSHxQFl__c · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-01-23 · diretoria · 1ª Reunião Pública Ordinária ANEEL – 23/01/2024 · https://www.youtube.com/watch?v=7dlGPeZ8zYc · **ainda não baixado (rodar a coleta no Mac)**
