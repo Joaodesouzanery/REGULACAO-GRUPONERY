@@ -20,10 +20,10 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2023 | diretoria | 82 | 82 | 0 |
 | 2023 | audiencia | 26 | 0 | 0 |
 | 2022 | workshop | 6 | 0 | 0 |
-| 2022 | diretoria | 79 | 71 | 0 |
+| 2022 | diretoria | 79 | 78 | 0 |
 | 2022 | audiencia | 16 | 0 | 0 |
 | 2021 | workshop | 4 | 0 | 0 |
-| 2021 | diretoria | 84 | 0 | 0 |
+| 2021 | diretoria | 84 | 5 | 0 |
 | 2021 | audiencia | 33 | 0 | 0 |
 | 2020 | workshop | 2 | 0 | 0 |
 | 2020 | diretoria | 90 | 0 | 0 |
@@ -429,5 +429,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2022-03-10 · 2ª Reunião Pública Extraordinária ANEEL – 10/03/2022 - Parte 1 · `XGCGj3zdIKM`
 - 2022-03-08 · 7ª Reunião Pública Ordinária ANEEL – 08/03/2022 · `D477iGsNVYs`
 - 2022-02-22 · 6ª Reunião Pública Ordinária ANEEL – 22/02/2022 · `_63pKAZp2cY`
+- 2022-02-15 · 5ª Reunião Pública Ordinária ANEEL – 15/02/2022 – Parte 2 · `yUc5MxpUTTs`
+- 2022-02-15 · 5ª Reunião Pública Ordinária ANEEL – 15/02/2022 – Parte 1 · `DAccbQrtbR8`
+- 2022-02-08 · 4ª Reunião Pública Ordinária ANEEL – 08/02/2022 · `9rKVd-z0sT8`
+- 2022-02-03 · 1ª Reunião Pública Extraordinária ANEEL - 03/02/2022 · `VNPGq-CoQ8g`
+- 2022-02-01 · 3ª Reunião Pública Ordinária ANEEL – 01/02/2022 · `2eAXY6SGAaY`
+- 2022-01-25 · 2ª Reunião Pública Ordinária ANEEL – 25/01/2022 · `JOFDb05TfRY`
+- 2022-01-18 · 1ª Reunião Pública Ordinária ANEEL – 18/01/2022 · `7dGbSjWsFRE`
+- 2021-12-30 · 16ª Reunião Pública Extraordinária ANEEL – 30/12/2021 · `dOe_TEkSfLs`
+- 2021-12-23 · 15ª Reunião Pública Extraordinária ANEEL – 23/12/2021 · `UmA9NRHyhNk`
+- 2021-12-16 · 14ª Reunião Pública Extraordinária ANEEL – 16/12/2021 – Parte 1 · `kfcfcQyFwYY`
+- 2021-12-15 · 47ª Reunião Pública Ordinária ANEEL – 15/12/2021 – Parte 3 · `HZ5q88e2DvM`
+- 2021-12-14 · 47ª Reunião Pública Ordinária ANEEL – 14/12/2021 – Parte 2 · `Y2b-XaKlpUs`
 
 Vídeos sem legenda registrados: 5 (ver `data/sem_legenda.jsonl`).
