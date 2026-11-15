@@ -48,9 +48,12 @@ def capa(titulo, sub, blocos, kps):
 # processos do cliente
 its = [i for i in previsao.itens_empresa(c, EMP["aliases"]) if i["data"] >= "2018-01-01"]
 PJ = {prazos.chave(x["processo"]): x for x in ld(f"{P}/processos.json", []) if prazos.chave(x.get("processo"))}
+ALI = MAN.get("_processos_alias", {})  # números lidos de forma diferente pela legenda → mesmo processo
+ITEM_PROC = MAN.get("_item_processo", {})
 grupos = collections.OrderedDict()
 for i in its:
-    k = prazos.chave(i["processo"]) or f"sem nº · {i['assunto'][:40]}"
+    k = ITEM_PROC.get(str(i["id"])) or prazos.chave(i["processo"]); k = ALI.get(k, k) if k else k
+    k = k or f"sem nº · {i['assunto'][:40]}"
     grupos.setdefault(k, []).append(i)
 for k in PJ:
     grupos.setdefault(k, [])
@@ -60,7 +63,9 @@ if MODO == "raio_x":
     def status(lst):
         if not lst: return "em instrução (antes da diretoria)"
         u = lst[-1]; r = (u["resultado"] or "").lower()
-        return "retirado de pauta" if "retirad" in r else "com vista" if "vista" in r else "decidido"
+        if re.match(r"\s*(retirad|não lido|nao lido)", r): return "retirado de pauta"
+        if re.match(r"\s*((pedido de |renovação de |renovacao de )?vista|vista renovada|convertido.*dilig)", r): return "com vista"
+        return "decidido"
     procs = sorted(grupos.items(), key=lambda kv: (kv[1][-1]["data"] if kv[1] else "9999"), reverse=True)
     ativos = [kv for kv in procs if status(kv[1]) != "decidido"]
     capa("Raio-X dos Processos", "status, linha do tempo e prazo de cada processo", ["1 · Visão geral", "2 · Mapeamento do processo", "3 · Inteligência de prazo", "8 · Visão do cliente"],
@@ -83,9 +88,11 @@ if MODO == "raio_x":
         ev.sort()
         tl = "".join(f'<div class="vt"><span class="vd">{fmtd(d)}</span><i style="background:{AC if "reunião" in o else AC2}"></i><div><b>{E(o)}</b> {E(t)} {f"<a href={chr(34)}{lk}{chr(34)}>▶</a>" if lk else ""}</div></div>' for d, o, t, lk in ev)
         st = status(lst); d = DUR.get(k); e = prazos.estatistica(DUR, d[1]) if d else None
-        if e and d:
+        if e and d and d[2] > 1:
             pos = "acima" if d[0] > e["p75"] else "abaixo" if d[0] < e["p25"] else "dentro"
             pz = f'<div class="pz"><b>{d[0]} dias</b> na diretoria até {"a decisão" if d[3] else "hoje"} · semelhantes ({E(d[1].replace("_", " "))}, n={e["n"]}): mediana <b>{e["mediana"]:.0f}</b> dias, faixa típica {e["p25"]:.0f}–{e["p75"]:.0f} → <b>{pos}</b> da faixa</div>'
+        elif d and d[2] <= 1 and e:
+            pz = f'<div class="pz">{"Decidido na 1ª sessão da diretoria (sem vista ou retirada); não entra na comparação de prazo." if d[3] else f"{d[0]} dias desde a 1ª sessão; a comparação passa a valer se voltar à pauta."} Referência ({E(d[1].replace("_", " "))}, n={e["n"]}): mediana {e["mediana"]:.0f} dias, faixa {e["p25"]:.0f}–{e["p75"]:.0f}.</div>'
         else: pz = '<div class="pz">Prazo: sem base comparável suficiente (menos de 5 processos semelhantes com mais de uma sessão).</div>'
         prox = ("Próximo passo provável: volta à pauta na " + (f"{cal[0]['reuniao']}ª ({fmtd(cal[0]['data'])}, {cal[0]['formato']}) ou {cal[1]['reuniao']}ª ({fmtd(cal[1]['data'])})" if len(cal) > 1 else "próxima reunião") + " (inferência).") if st != "decidido" else "Decidido. Próximo passo: cumprimento/recurso, se houver (acompanhar publicação do acórdão)."
         S.append(f'''<section class="pg">{top(n, "Mapeamento do processo")}<h2>{E(k)} · {E(status(lst))}</h2><p class="lead">{E((pj.get("titulo") or (lst[-1]["assunto"] if lst else ""))[:200])}</p>
@@ -120,28 +127,37 @@ else:
     n = 1
     for tc in temas:
         n += 1; m = mapa_tema.mapear(AG, tc["regex"], TRES); itsm = m["itens"]
-        unan = 100 * m["unanimes"] / max(len(itsm), 1)
+        decid = [i for i in itsm if des(i["id"]) != "pendente" and not re.match(r"\s*(retirad|(pedido de )?vista|vista renovada)", (i["resultado"] or "").lower())]
+        ndiv = sum(1 for i in decid if c.execute("select 1 from votos where item_id=? and categoria in ('vencido','revisor_diverge')", (i["id"],)).fetchone())
+        unan = 100 * (len(decid) - ndiv) / max(len(decid), 1); m["unanimes"] = len(decid) - ndiv; m_dec = len(decid); m_pend = len(itsm) - len(decid)
         relc = collections.Counter(i["relator"] for i in itsm if i["relator"])
         desf = collections.Counter(des(i["id"]) for i in itsm)
         # possíveis contradições: desfechos opostos no mesmo tema em < 24 meses
-        op = [(a, b) for k_, a in enumerate(itsm) for b in itsm[k_ + 1:] if {des(a["id"]), des(b["id"])} == {"favorável", "desfavorável"}
-              and abs((datetime.date.fromisoformat(b["data"][:10]) - datetime.date.fromisoformat(a["data"][:10])).days) < 730]
+        mt = lambda i: {t for (t,) in c.execute("select microtema from item_microtema where item_id=?", (i["id"],))}
+        op, usados = [], set()
+        for k_, a in enumerate(decid):
+            for b in decid[k_ + 1:]:
+                if a["id"] in usados or b["id"] in usados: continue
+                pa_, pb_ = (prazos.chave((c.execute("select processo from itens where id=?", (x["id"],)).fetchone() or [""])[0]) for x in (a, b))
+                mesmo = (pa_ and pa_ == pb_) or (mt(a) & mt(b))
+                if mesmo and {des(a["id"]), des(b["id"])} == {"favorável", "desfavorável"} and abs((prazos._d(b["data"]) - prazos._d(a["data"])).days) < 730:
+                    op.append((a, b)); usados |= {a["id"], b["id"]}
         def just(i):
             r = c.execute("select justificativa from votos where item_id=? and eh_relator=1", (i["id"],)).fetchone()
             return (r[0] if r and r[0] else (i["resumo"] or ""))[:120]
         ct = "".join(f'<div class="ctr"><div><b>{fmtd(a["data"])} · {a["numero"]}ª</b> {E(a["assunto"][:80])} → <span style="color:{CORES[des(a["id"])]}">{des(a["id"])}</span><br><i>{E(just(a))}</i> <a href="{mapa_tema.link(a["video_id"], a["ts"])}">▶</a></div>'
                      f'<div><b>{fmtd(b["data"])} · {b["numero"]}ª</b> {E(b["assunto"][:80])} → <span style="color:{CORES[des(b["id"])]}">{des(b["id"])}</span><br><i>{E(just(b))}</i> <a href="{mapa_tema.link(b["video_id"], b["ts"])}">▶</a></div></div>' for a, b in op[-3:])
-        prec = "".join(f'<li><b>{fmtd(i["data"])} · {i["numero"]}ª</b> {E(i["assunto"][:100])} — <span style="color:{CORES.get(des(i["id"]), "#999")}">{des(i["id"])}</span> · relator {E(i["relator"] or "—")} <a href="{mapa_tema.link(i["video_id"], i["ts"])}">▶</a></li>' for i in itsm[-6:][::-1])
+        prec = "".join(f'<li><b>{fmtd(i["data"])} · {i["numero"]}ª</b> {E(i["assunto"][:100])} — <span style="color:{CORES.get(des(i["id"]), "#999")}">{des(i["id"])}</span> · relator {E(i["relator"] or "—")} <a href="{mapa_tema.link(i["video_id"], i["ts"])}">▶</a></li>' for i in [x for x in itsm if x in decid][-6:][::-1])
         S.append(f'''<section class="pg">{top(n, "Inteligência comparativa")}<h2>{E(re.sub(r"^\w\)\s*", "", tc["titulo"]).split(":")[0])}</h2>
-<div class="g3"><div class="card"><h3>Padrão da agência (3 anos)</h3><div class="big">{unan:.0f}%</div><p>decididos sem divergência ({m["unanimes"]} de {len(itsm)})</p>
-<p><b>Desfecho:</b> {E(" · ".join(f"{k} {v}" for k, v in desf.most_common()))}</p><p><b>Quem relata:</b> {E(" · ".join(f"{k} {v}" for k, v in relc.most_common(4)))}</p></div>
+<div class="g3"><div class="card"><h3>Padrão da agência (3 anos)</h3><div class="big">{unan:.0f}%</div><p>decididos sem divergência ({m["unanimes"]} de {m_dec} decisões{f"; {m_pend} itens eram vista/retirada" if m_pend else ""})</p>
+<p><b>Desfecho:</b> {E(" · ".join(f"{k} {v}" for k, v in desf.most_common()))}</p><p><b>Quem relata:</b> {E(" · ".join(f"{k} {v}" for k, v in relc.most_common()))}</p></div>
 <div class="card"><h3>Casos semelhantes mais recentes</h3><ul class="lst">{prec}</ul></div>
 <div class="card"><h3>Possíveis contradições <span class="est">inferência</span></h3>{ct or "<p>Nenhum par com desfechos opostos em menos de 24 meses neste tema.</p>"}<p class="nt">Pares do mesmo tema com desfecho oposto; podem ter fatos diferentes — ler as justificativas antes de usar.</p></div></div></section>''')
     # busca e banco
     n += 1
     perg = [l[2:].split("[")[0].strip() for l in open(f"{P}/perguntas/perguntas.md")] if os.path.exists(f"{P}/perguntas/perguntas.md") else []
     tot = c.execute("select count(*), min(r.data) from itens i join reunioes r on r.id=i.reuniao_id where r.data>='2018-01-01'").fetchone()
-    S.append(f'''<section class="pg">{top(n, "Busca e banco de dados")}<h2>O banco à disposição da empresa</h2><div class="g2"><div class="card"><h3>Base consultável</h3><div class="big">{tot[0]:,}</div><p>decisões da diretoria da {NOME} desde {fmtd(tot[1])}, com voto de cada diretor, relator, resultado, justificativa e link no minuto.</p>
+    S.append(f'''<section class="pg">{top(n, "Busca e banco de dados")}<h2>O banco à disposição da empresa</h2><div class="g2"><div class="card"><h3>Base consultável</h3><div class="big">{f"{tot[0]:,}".replace(",", ".")}</div><p>decisões da diretoria da {NOME} desde {fmtd(tot[1])}, com voto de cada diretor, relator, resultado, justificativa e link no minuto.</p>
 <p>Busca por processo, empresa, tema ou diretor; cruzamento com pautas e reuniões; planilha da empresa atualizada todo mês.</p></div>
 <div class="card"><h3>Consultas do mês</h3><ol class="lst">{"".join(f"<li>{E(q)}</li>" for q in perg) or "<li>Envie suas perguntas para a edição do mês.</li>"}</ol><p class="nt">Respostas completas no boletim mensal.</p></div></div></section>''')
     out = f"{P}/agenda_comparativa"
