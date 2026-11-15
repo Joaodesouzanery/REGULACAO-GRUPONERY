@@ -11,13 +11,18 @@
  "fim": "2027-08-13",
  "status": "ativo",
  "data_saida": null,
- "foto": null,
- "foto_nota": "retrato oficial gov.br com 200x242 px (abaixo do mínimo de 600 px): não salvo; relatório usa iniciais",
- "foto_fonte_avaliada": "https://www.gov.br/aneel/pt-br/composicao/diretoria/gab-i/sandoval-de-araujo-feitosa-neto-cd-i/@@images/image",
+ "foto": "data/aneel/dirigentes/sandoval-feitosa.jpg",
  "fontes": [
   "https://www.gov.br/aneel/pt-br/composicao/diretoria/gab-i/sandoval-de-araujo-feitosa-neto-cd-i",
-  "https://www.gov.br/aneel/++api++/pt-br/composicao/diretoria/gab-i/sandoval-de-araujo-feitosa-neto-cd-i"
+  "https://www.gov.br/aneel/++api++/pt-br/composicao/diretoria/gab-i/sandoval-de-araujo-feitosa-neto-cd-i",
+  "https://www.gov.br/aneel/pt-br/assuntos/noticias/2022/comissao-de-infraestrutura-do-senado-aprova-sandoval-feitosa-para-o-cargo-de-diretor-geral-da-aneel/@@images/image-1600-31a3bbce3a706707f23252beec3d556d.jpeg"
  ],
  "verificado_em": "2026-11-15",
- "confianca": "alta"
+ "confianca": "alta",
+ "foto_fonte": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2022/comissao-de-infraestrutura-do-senado-aprova-sandoval-feitosa-para-o-cargo-de-diretor-geral-da-aneel/@@images/image-1600-31a3bbce3a706707f23252beec3d556d.jpeg",
+ "foto_licenca": "Conteúdo institucional gov.br/ANEEL (reprodução com citação da fonte); sem crédito de fotógrafo na página",
+ "foto_resolucao_original": "1600x1067",
+ "foto_resolucao": "800x800",
+ "foto_verificado_em": "2026-11-15",
+ "foto_nota": "Notícia ANEEL 05/04/2022 (sabatina na CI do Senado), foto de evento; recorte 746 px do rosto"
 }

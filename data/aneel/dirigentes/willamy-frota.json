@@ -11,13 +11,18 @@
  "fim": "2029-05-24",
  "status": "ativo",
  "data_saida": null,
- "foto": null,
- "foto_nota": "retrato oficial gov.br com 200x280 px (abaixo do mínimo de 600 px): não salvo; relatório usa iniciais",
- "foto_fonte_avaliada": "https://www.gov.br/aneel/pt-br/composicao/diretoria/gab-v/willamy-moreira-frota/@@images/image",
+ "foto": "data/aneel/dirigentes/willamy-frota.jpg",
  "fontes": [
   "https://www.gov.br/aneel/pt-br/composicao/diretoria/gab-v/willamy-moreira-frota",
-  "https://www.gov.br/aneel/++api++/pt-br/composicao/diretoria/gab-v/willamy-moreira-frota"
+  "https://www.gov.br/aneel/++api++/pt-br/composicao/diretoria/gab-v/willamy-moreira-frota",
+  "https://www.gov.br/aneel/pt-br/assuntos/noticias/2025/comissao-de-infraestrutura-do-senado-aprova-indicados-para-diretoria-da-aneel/@@images/image-4000-06070e932786d0ee9dbc43e263e35b79.jpeg"
  ],
  "verificado_em": "2026-11-15",
- "confianca": "alta"
+ "confianca": "alta",
+ "foto_fonte": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2025/comissao-de-infraestrutura-do-senado-aprova-indicados-para-diretoria-da-aneel/@@images/image-4000-06070e932786d0ee9dbc43e263e35b79.jpeg",
+ "foto_licenca": "Conteúdo institucional gov.br/ANEEL (reprodução com citação da fonte); sem crédito de fotógrafo na página",
+ "foto_resolucao_original": "4000x2533",
+ "foto_resolucao": "800x800",
+ "foto_verificado_em": "2026-11-15",
+ "foto_nota": "Notícia ANEEL 19/08/2025 (aprovação na CI do Senado), foto em dupla com Gentil Nogueira; recorte 678 px só do rosto"
 }
