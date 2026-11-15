@@ -17,7 +17,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2024 | diretoria | 103 | 102 | 0 |
 | 2024 | audiencia | 6 | 0 | 0 |
 | 2023 | workshop | 9 | 0 | 0 |
-| 2023 | diretoria | 82 | 9 | 0 |
+| 2023 | diretoria | 82 | 21 | 0 |
 | 2023 | audiencia | 26 | 0 | 0 |
 | 2022 | workshop | 6 | 0 | 0 |
 | 2022 | diretoria | 79 | 0 | 0 |
@@ -285,5 +285,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2023-12-12 · 46ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023 · `rpYRLb5eUDE`
 - 2023-12-05 · 45ª Reunião Pública Ordinária ANEEL – 05/12/2023 – Parte 2 · `TthzPNilLa0`
 - 2023-12-05 · 45ª Reunião Pública Ordinária ANEEL – 05/12/2023 – Parte 1 · `Xab_WttfsqA`
+- 2023-12-05 · 45ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023 · `9jUUsuBD4rE`
+- 2023-11-28 · 44ª Reunião Pública Ordinária ANEEL – 28/11/2023 · `tgVkwoSzMOQ`
+- 2023-11-28 · 44ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `mqmy2rGUvJA`
+- 2023-11-21 · 43ª Reunião Pública Ordinária ANEEL – 21/11/2023 – Parte 2 · `3e_Gd7blpbg`
+- 2023-11-21 · 43ª Reunião Pública Ordinária ANEEL – 21/11/2023 – Parte 1 · `NHn4JSrFpQA`
+- 2023-11-21 · 43ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `KkXhKFmU7Mc`
+- 2023-11-14 · 42ª Reunião Pública Ordinária ANEEL – 14/11/2023 – Parte 2 · `WfaQqqjYM6s`
+- 2023-11-14 · 42ª Reunião Pública Ordinária ANEEL – 14/11/2023 – Parte 1 · `7kNt5B5sPOk`
+- 2023-11-14 · 42ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `rmkEJPFufso`
+- 2023-11-08 · 41ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `NpfcAxlaAhU`
+- 2023-11-07 · 41ª Reunião Pública Ordinária ANEEL – 07/11/2023 · `Ewasw5xzwKs`
+- 2023-11-01 · 40ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2023. · `VEaoYHoVsaI`
 
 Vídeos sem legenda registrados: 4 (ver `data/sem_legenda.jsonl`).
