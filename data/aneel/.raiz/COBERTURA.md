@@ -4,31 +4,44 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 
 | Ano | Tipo | Publicados | Transcritos | Analisados |
 |---|---|---|---|---|
-| sem data | diretoria | 3 | 0 | 0 |
-| 2026 | workshop | 3 | 3 | 0 |
-| 2026 | diretoria | 21 | 21 | 0 |
-| 2026 | audiencia | 5 | 5 | 0 |
+| sem data | workshop | 1 | 0 | 0 |
+| sem data | diretoria | 36 | 0 | 0 |
+| sem data | audiencia | 5 | 0 | 0 |
+| 2026 | workshop | 16 | 3 | 0 |
+| 2026 | diretoria | 46 | 11 | 11 |
+| 2026 | audiencia | 6 | 5 | 0 |
+| 2025 | workshop | 9 | 0 | 0 |
+| 2025 | diretoria | 97 | 0 | 0 |
+| 2025 | audiencia | 9 | 0 | 0 |
+| 2024 | workshop | 16 | 0 | 0 |
+| 2024 | diretoria | 103 | 0 | 0 |
+| 2024 | audiencia | 6 | 0 | 0 |
+| 2023 | workshop | 9 | 0 | 0 |
+| 2023 | diretoria | 82 | 0 | 0 |
+| 2023 | audiencia | 26 | 0 | 0 |
+| 2022 | workshop | 6 | 0 | 0 |
+| 2022 | diretoria | 79 | 0 | 0 |
+| 2022 | audiencia | 16 | 0 | 0 |
+| 2021 | workshop | 4 | 0 | 0 |
+| 2021 | diretoria | 84 | 0 | 0 |
+| 2021 | audiencia | 33 | 0 | 0 |
+| 2020 | workshop | 2 | 0 | 0 |
+| 2020 | diretoria | 90 | 0 | 0 |
+| 2020 | audiencia | 9 | 0 | 0 |
+| 2019 | workshop | 8 | 0 | 0 |
+| 2019 | diretoria | 77 | 0 | 0 |
+| 2019 | audiencia | 19 | 0 | 0 |
+| 2018 | workshop | 8 | 0 | 0 |
+| 2018 | diretoria | 407 | 0 | 0 |
+| 2018 | audiencia | 58 | 0 | 0 |
+| 2017 | workshop | 6 | 0 | 0 |
+| 2017 | diretoria | 712 | 0 | 0 |
+| 2017 | audiencia | 2 | 0 | 0 |
+| 2016 | diretoria | 777 | 0 | 0 |
+| 2015 | diretoria | 833 | 0 | 0 |
+| 2014 | diretoria | 1065 | 0 | 0 |
+| 2013 | diretoria | 1359 | 0 | 0 |
+| 2012 | diretoria | 1244 | 0 | 0 |
 
 ## Reuniões de diretoria transcritas e ainda sem análise
 
-- 2026-10-28 · 5ª Reunião Pública Extraordinária da Diretoria da ANEEL de 2026 · `y3g--ATXzWs`
-- 2026-10-27 · 5ª Reunião Pública Extraordinária ANEEL – 27/10/2026 · `RBzu5iQFNX4`
-- 2026-10-21 · 21ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `i3EJEj76hOI`
-- 2026-10-20 · 21ª Reunião Pública Ordinária ANEEL – 20/10/2026 · `GJjVBZeTCi4`
-- 2026-10-06 · 20ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `x2ywLplRyDk`
-- 2026-10-06 · 20ª Reunião Pública Ordinária ANEEL – 6/10/2026 – Parte 2 · `0Fvmv23GHxU`
-- 2026-10-06 · 20ª Reunião Pública Ordinária ANEEL – 6/10/2026 – Parte 1 · `-f2vwDTsL7g`
-- 2026-09-29 · 17th Board Meeting - Item 27 · `V0nK_ybEUpo`
-- 2026-09-23 · 19ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `tMx62CYBq8Q`
-- 2026-09-09 · 18ª Reunião Pública Ordinária ANEEL – 9/9/2026 – Parte 2 · `eAvF-lP5eB0`
-- 2026-09-09 · 18ª Reunião Pública Ordinária ANEEL – 9/9/2026 – Parte 1 · `D3-nZ-LDQmU`
-- 2026-09-08 · 18ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `03M1t2wEFQQ`
-- 2026-08-24 · 17ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `eFfYu64jEHU`
-- 2026-08-24 · 17ª Reunião Pública Ordinária ANEEL – 24/8/2026 · `2zKElMRxXyw`
-- 2026-08-11 · 16ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `34M8aLZY57k`
-- 2026-08-11 · 16ª Reunião Pública Ordinária ANEEL – 11/8/2026 – Parte 2 · `Ghu-H_J1mro`
-- 2026-08-11 · 16ª Reunião Pública Ordinária ANEEL – 11/8/2026 – Parte 1 · `xkJF-sPkhy4`
-- 2026-07-28 · 15ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `GCKeMAdQAbI`
-- 2026-07-14 · 14ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `0_VWjl5r3lg`
-- 2026-06-30 · 13ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `ZTSS83pM5PA`
-- 2026-06-22 · 4ª Reunião Pública Extraordinária da Diretoria da ANEEL de 2026 · `JRc2F2Eq0aY`
