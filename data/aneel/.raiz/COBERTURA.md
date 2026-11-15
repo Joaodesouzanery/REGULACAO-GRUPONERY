@@ -14,7 +14,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2025 | diretoria | 97 | 95 | 0 |
 | 2025 | audiencia | 9 | 0 | 0 |
 | 2024 | workshop | 16 | 0 | 0 |
-| 2024 | diretoria | 103 | 27 | 0 |
+| 2024 | diretoria | 103 | 39 | 0 |
 | 2024 | audiencia | 6 | 0 | 0 |
 | 2023 | workshop | 9 | 0 | 0 |
 | 2023 | diretoria | 82 | 0 | 0 |
@@ -200,6 +200,18 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2024-10-16 · 38ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2024 · `9XGsc3Qhq54`
 - 2024-10-15 · 38ª Reunião Pública Ordinária ANEEL – 15/10/2024 · `tD7gQNBw9xA`
 - 2024-10-09 · 37ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2024 · `vy4OAE_meJM`
+- 2024-10-08 · 3ª Reunião Pública Extraordinária ANEEL – 08/10/2024 · `UzkDLoPmQ04`
 - 2024-10-08 · 37ª Reunião Pública Ordinária ANEEL – 08/10/2024 · `5KVYbWD1Vsg`
+- 2024-10-02 · 36ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2024 · `_62qcKV2XRI`
+- 2024-10-01 · 36ª Reunião Pública Ordinária ANEEL – 1º/10/2024 · `3qiBtNsJWGY`
+- 2024-09-27 · 2ª Reunião Pública Extraordinária ANEEL – 27/09/2024 · `zoLJ6OGj0eE`
+- 2024-09-27 · 2ª REUNIÃO PÚBLICA EXTRAORDINÁRIA DA DIRETORIA DE 2024 · `EdGyWXxFIs0`
+- 2024-09-25 · 35ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2024 · `A3W_exfbB4c`
+- 2024-09-24 · 35ª Reunião Pública Ordinária ANEEL – 24/09/2024 · `tXK9fRz8vcU`
+- 2024-09-18 · 34ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2024 · `8kVPPBxd7Rk`
+- 2024-09-11 · 33ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2024 · `b1sbw4sFpnM`
+- 2024-09-10 · 33ª Reunião Pública Ordinária ANEEL – 10/09/2024 · `ajea66yqJpY`
+- 2024-09-04 · 32ª REUNIÃO PÚBLICA ORDINÁRIA DA DIRETORIA DE 2024 · `A19KOF7nPqI`
+- 2024-09-03 · 32ª Reunião Pública Ordinária ANEEL – 03/09/2024 · `0YT2fUpwTyE`
 
 Vídeos sem legenda registrados: 4 (ver `data/sem_legenda.jsonl`).
