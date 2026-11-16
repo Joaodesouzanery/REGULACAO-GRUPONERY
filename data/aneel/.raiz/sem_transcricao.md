@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **502** · sem /workshop: 1; sem /diretoria: 6; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2025/workshop: 9; 2025/diretoria: 2; 2024/workshop: 16; 2024/diretoria: 2; 2023/workshop: 9; 2023/audiencia: 25; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 5; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 4; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 23; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
+Total: **490** · sem /workshop: 1; sem /diretoria: 6; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2025/workshop: 9; 2025/diretoria: 2; 2024/workshop: 16; 2024/diretoria: 2; 2023/workshop: 9; 2023/audiencia: 13; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 5; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 4; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 23; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
 
 - 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas – 2º dia – Parte I · https://www.youtube.com/watch?v=0EZJFGtpmik · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas – 1º dia – Parte II · https://www.youtube.com/watch?v=dan_yDhj0h0 · **ainda não baixado (rodar a coleta no Mac)**
@@ -47,21 +47,9 @@ Total: **502** · sem /workshop: 1; sem /diretoria: 6; sem /audiencia: 5; 2026/w
 - 2024-02-21 · workshop · Workshop da 1ª Chamada de Sandboxes Tarifários · https://www.youtube.com/watch?v=X0Z_TObjwfw · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-01-23 · workshop · WORKSHOP DE ESCLARECIMENTOS TÉCNICOS SOBRE O LEILÃO Nº 1/2024-ANEEL (LEILÃO DE T · https://www.youtube.com/watch?v=AeSHxQFl__c · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-01-22 · workshop · Workshop de Esclarecimentos do Leilão de Transmissão 01/2024 - 22/01/2024 · https://www.youtube.com/watch?v=_6fQ_pCoXDc · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-11-02 · audiencia · Audiência Pública Virtual 020/2023 – Agenda Regulatória · https://www.youtube.com/watch?v=rNX2sDAfzJc · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-11-01 · audiencia · Audiência Pública 020/2023 - Agenda Regulatória 2024-2025– 01/11/2023 · https://www.youtube.com/watch?v=Bp3TrBx8yEw · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-10-23 · workshop · Workshop de Esclarecimentos sobre o Leilão de Transmissão n⁰ 02/2023 - 23/10/202 · https://www.youtube.com/watch?v=fUjiqwi5eqI · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-10-11 · audiencia · Audiência Pública 018/2023 - Revisão Tarifária Periódica da Energisa Rondônia –  · https://www.youtube.com/watch?v=5jmv2qxRwp4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-10-05 · audiencia · Audiência Pública 017/2023 - Revisão Tarifária Periódica da Energisa Acre – 05/1 · https://www.youtube.com/watch?v=M-BflKaMZ1Q · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-09-27 · audiencia · Audiência Pública 019/2023 - Revisão Tarifária Estraordinária CEA – 27/09/2023 · https://www.youtube.com/watch?v=Hvpdecxi76M · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-09-14 · audiencia · Audiência Pública 016/2023 - Revisão Tarifária Periódica da Equatorial Piauí – 1 · https://www.youtube.com/watch?v=7ooXLSPUgyg · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-09-02 · workshop · Workshop de P&D : Desafio de estabelecer incentivos regulatórios na era das tecn · https://www.youtube.com/watch?v=fELKBOAEvDs · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-08-24 · audiencia · Audiência Pública 013/2023 - Revisão Tarifária Periódica CPFL Piratininga – 24/0 · https://www.youtube.com/watch?v=xcsC3FCmjpA · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-08-17 · audiencia · Audiência Pública 015/2023 - Revisão Tarifária Periódica Equatorial Goiás – 17/0 · https://www.youtube.com/watch?v=BiZ5BoxnoTs · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-08-10 · audiencia · Audiência Pública 014/2023 - Revisão Tarifária Periódica EDP São Paulo – 10/08/2 · https://www.youtube.com/watch?v=9IBIfaWgOcc · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-08-05 · audiencia · Audiência Pública nº 12/2023 - Olimpíada Nacional de Eficiência Energética · https://www.youtube.com/watch?v=bO3XhvDdlws · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-08-03 · workshop · Workshop Inteligência Analítica na Fiscalização Tarifária Setor Elétrico - 03/08 · https://www.youtube.com/watch?v=DsuXyOlsNrA · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-06-16 · audiencia · Audiência Pública 010/2023 fase 2 - Revisão Tarifária Periódica Equatorial Pará  · https://www.youtube.com/watch?v=tEMafGINl_o · **ainda não baixado (rodar a coleta no Mac)**
-- 2023-06-07 · audiencia · Audiência Pública 011/2023 - Revisão Tarifária Periódica Elektro– 07/06/2023 · https://www.youtube.com/watch?v=ReOj5KVat94 · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-05-26 · audiencia · Audiência Pública 010/2023 fase 1 - Revisão Tarifária Periódica Equatorial Pará– · https://www.youtube.com/watch?v=t8v1YoI-pNI · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-05-19 · workshop · Workshop de Esclarecimentos sobre o Leilão de Transmissão 01/2023 - 19/05/2023 · https://www.youtube.com/watch?v=hR7IONdC0-4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2023-05-19 · workshop · Workshop de Esclarecimentos do 1ºLeilão de Transmissão de 2023-ANEEL · https://www.youtube.com/watch?v=YtUlkCzzZKc · **ainda não baixado (rodar a coleta no Mac)**
