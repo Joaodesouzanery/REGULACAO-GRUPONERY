@@ -29,7 +29,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2020 | diretoria | 90 | 85 | 0 |
 | 2020 | audiencia | 9 | 0 | 0 |
 | 2019 | workshop | 8 | 0 | 0 |
-| 2019 | diretoria | 77 | 31 | 0 |
+| 2019 | diretoria | 77 | 32 | 0 |
 | 2019 | audiencia | 19 | 0 | 0 |
 | 2018 | workshop | 8 | 0 | 0 |
 | 2018 | diretoria | 69 | 0 | 0 |
@@ -631,7 +631,8 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2019-08-13 · 29ª Reunião Pública Ordinária ANEEL – 13/08/2019 – Parte 2 · `Ii2zd26NDwA`
 - 2019-08-13 · 29ª Reunião Pública Ordinária ANEEL – 13/08/2019 – Parte 1 · `EdN4Nm-9iPQ`
 - 2019-08-06 · 28ª Reunião Pública Ordinária ANEEL – 06/08/2019 – Parte 2 · `NvfJjY0cb9c`
+- 2019-08-06 · 28ª Reunião Pública Ordinária ANEEL – 06/08/2019 – Parte 1 · `gm5_lvmqMmo`
 - 2019-07-30 · 27ª Reunião Pública Ordinária ANEEL - 30/07/2019 · `d8JDsICD8B8`
 - 2019-07-23 · 26ª Reunião Pública Ordinária ANEEL - 23/07/2019 · `dePrf-yt_Jw`
 
-Vídeos sem legenda registrados: 18 (ver `data/sem_legenda.jsonl`).
+Vídeos sem legenda registrados: 23 (ver `data/sem_legenda.jsonl`).

@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **637** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2026/audiencia: 1; 2025/workshop: 9; 2025/diretoria: 2; 2025/audiencia: 9; 2024/workshop: 16; 2024/diretoria: 2; 2024/audiencia: 6; 2023/workshop: 9; 2023/audiencia: 26; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 5; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 46; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 69; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
+Total: **636** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/workshop: 13; 2026/diretoria: 1; 2026/audiencia: 1; 2025/workshop: 9; 2025/diretoria: 2; 2025/audiencia: 9; 2024/workshop: 16; 2024/diretoria: 2; 2024/audiencia: 6; 2023/workshop: 9; 2023/audiencia: 26; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 16; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 33; 2020/workshop: 2; 2020/diretoria: 5; 2020/audiencia: 9; 2019/workshop: 8; 2019/diretoria: 45; 2019/audiencia: 19; 2018/workshop: 8; 2018/diretoria: 69; 2018/audiencia: 58; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
 
 - 2026-04-29 · audiencia · Audiência Pública 2/2026 – Copel Distribuição – 29/4/2026 · https://www.youtube.com/watch?v=RQBXXb4uxL4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-04-23 · workshop · 2ª Workshop Modernização de tarifas – 2º dia – Parte I · https://www.youtube.com/watch?v=0EZJFGtpmik · **ainda não baixado (rodar a coleta no Mac)**
@@ -191,12 +191,11 @@ Total: **637** · sem /workshop: 1; sem /diretoria: 36; sem /audiencia: 5; 2026/
 - 2019-09-03 · diretoria · 32ª Reunião Pública Ordinária ANEEL – 03/09/2019 – Parte 2 · https://www.youtube.com/watch?v=3GZ-pyBHiuU · **legenda desativada/inexistente no YouTube**
 - 2019-08-22 · audiencia · Audiência Pública 030/2019 – Revisão Tarifária da CPFL Piratininga – 22/08/2019 · https://www.youtube.com/watch?v=l9apX8qrK2k · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-08-08 · audiencia · Audiência Pública 028/2019 - Revisão Tarifária Periódica da EDP São Paulo - 08/0 · https://www.youtube.com/watch?v=JB0lLTrmZyM · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-08-06 · diretoria · 28ª Reunião Pública Ordinária ANEEL – 06/08/2019 – Parte 1 · https://www.youtube.com/watch?v=gm5_lvmqMmo · **bloqueio temporário do YouTube (tentar de novo)**
-- 2019-07-16 · diretoria · 25ª Reunião Pública Ordinária ANEEL - 16/07/2019 - Parte 1 · https://www.youtube.com/watch?v=BgfmKO90xe0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-07-09 · diretoria · 24ª Reunião Pública Ordinária ANEEL - 09/07/2019 · https://www.youtube.com/watch?v=0w1HhrvY_hA · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-07-02 · diretoria · 23ª Reunião Pública Ordinária ANEEL - 02/07/2019 · https://www.youtube.com/watch?v=ahAI5yFD8oM · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-06-25 · diretoria · 22ª Reunião Pública Ordinária ANEEL - 25/06/2019 - Parte 2 · https://www.youtube.com/watch?v=1jI56rPVCC0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2019-06-25 · diretoria · 22ª Reunião Pública Ordinária ANEEL - 25/06/2019 - Parte 1 · https://www.youtube.com/watch?v=fUhyu6iDKjk · **ainda não baixado (rodar a coleta no Mac)**
+- 2019-07-16 · diretoria · 25ª Reunião Pública Ordinária ANEEL - 16/07/2019 - Parte 1 · https://www.youtube.com/watch?v=BgfmKO90xe0 · **bloqueio temporário do YouTube (tentar de novo)**
+- 2019-07-09 · diretoria · 24ª Reunião Pública Ordinária ANEEL - 09/07/2019 · https://www.youtube.com/watch?v=0w1HhrvY_hA · **bloqueio temporário do YouTube (tentar de novo)**
+- 2019-07-02 · diretoria · 23ª Reunião Pública Ordinária ANEEL - 02/07/2019 · https://www.youtube.com/watch?v=ahAI5yFD8oM · **bloqueio temporário do YouTube (tentar de novo)**
+- 2019-06-25 · diretoria · 22ª Reunião Pública Ordinária ANEEL - 25/06/2019 - Parte 2 · https://www.youtube.com/watch?v=1jI56rPVCC0 · **bloqueio temporário do YouTube (tentar de novo)**
+- 2019-06-25 · diretoria · 22ª Reunião Pública Ordinária ANEEL - 25/06/2019 - Parte 1 · https://www.youtube.com/watch?v=fUhyu6iDKjk · **bloqueio temporário do YouTube (tentar de novo)**
 - 2019-06-24 · audiencia · Audiência Pública 22/2019 - Limites de PLD · https://www.youtube.com/watch?v=c9IPGux_5k0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-06-18 · diretoria · 21ª Reunião Pública Ordinária ANEEL – 18/06/2019 · https://www.youtube.com/watch?v=WfCoi5LbjxM · **ainda não baixado (rodar a coleta no Mac)**
 - 2019-06-14 · audiencia · Audiência Pública 024/2019 - Revisão Tarifária da  Elektro Eletricidade e Serviç · https://www.youtube.com/watch?v=WfDkbBBfmaA · **ainda não baixado (rodar a coleta no Mac)**
