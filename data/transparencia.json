@@ -1,0 +1,54 @@
+{
+ "agencia": "ANTT",
+ "criterios": [
+  {
+   "nome": "Reuniões transmitidas",
+   "nota": 2,
+   "evidencia": "289 vídeos de reunião de diretoria no canal @canalANTT entre 2019 e 2026 (45/45/43/33/30/31/36/26 por ano). Desde 2020 as pautas dizem que a reunião é transmitida ao vivo no YouTube. Não cruzei com o calendário nem com as atas, então reuniões que não foram ao canal podem estar faltando na contagem.",
+   "fonte": "/home/user/REGULACAO-GRUPONERY/COBERTURA.md; https://www.gov.br/antt/pt-br/assuntos/noticias/documentos/pauta-871-reuniao-de-diretoria-1.pdf"
+  },
+  {
+   "nome": "Legenda disponível",
+   "nota": 2,
+   "evidencia": "284 dos 289 vídeos de diretoria têm transcrição útil (cerca de 98%). Os 5 restantes têm legenda desativada ou só ruído (2019, 2021, 2022, 2023, 2026). A legenda é automática.",
+   "fonte": "/home/user/REGULACAO-GRUPONERY/sem_transcricao.md; /home/user/REGULACAO-GRUPONERY/COBERTURA.md"
+  },
+  {
+   "nome": "Pauta antecipada",
+   "nota": 1,
+   "evidencia": "A ANTT publica a pauta em PDF, com data, hora, matérias por diretor e número de processo SEI (ex.: 1.040ª reunião, de 27/08/2026). Não medi a antecedência e não achei pautas na base local (data/pautas não existe).",
+   "fonte": "https://www.gov.br/antt/pt-br/assuntos/noticias/documentos/pauta-872-reuniao-de-diretoria.pdf; https://agenciainfra.com/blog/wp-content/uploads/2026/08/PAUTA-DA-1.040a-REUNIAO-DE-DIRETORIA-PUBLICA-DE-27.08.2026.pdf"
+  },
+  {
+   "nome": "Atas e votos escritos",
+   "nota": 1,
+   "evidencia": "A pauta abre com a aprovação da ata da reunião anterior, então a ata existe. Não encontrei na busca o repositório oficial de atas nem o prazo de publicação. Os votos da base vêm do vídeo, não de documento escrito.",
+   "fonte": "https://www.gov.br/antt/pt-br/assuntos/noticias/documentos/pauta-da-868-reuniao-de-diretoria-1.pdf"
+  },
+  {
+   "nome": "Calendário anual",
+   "nota": 0,
+   "evidencia": "Não encontrado (não é o mesmo que não existir). A busca não trouxe calendário anual oficial e data/calendario.json não existe na base. As reuniões são anunciadas uma a uma em notícias 'Acompanhe a Nª ReDir'.",
+   "fonte": "https://www.gov.br/antt/pt-br/assuntos/acompanhe-a-971a-reuniao-de-diretoria-da-antt-redir"
+  },
+  {
+   "nome": "Composição e currículos",
+   "nota": 1,
+   "evidencia": "A base tem mandatos com Senado, DOU e fim legal (data/mandatos.json) e minibios (data/dirigentes). Não conferi nesta rodada a página oficial da ANTT com a diretoria, os substitutos e os currículos.",
+   "fonte": "/home/user/REGULACAO-GRUPONERY/data/mandatos.json"
+  },
+  {
+   "nome": "Sigilo e reuniões sem vídeo",
+   "nota": 1,
+   "evidencia": "43 dos 2382 itens analisados (1,8%) têm resultado sigiloso no banco. Não medi as reuniões virtuais ou internas sem transmissão.",
+   "fonte": "/home/user/REGULACAO-GRUPONERY/data/regulacao.db (tabela itens)"
+  },
+  {
+   "nome": "Facilidade de acesso",
+   "nota": 1,
+   "evidencia": "O portal gov.br tem uma seção Reuniões de Diretoria e notícias por reunião, mas as pautas são PDFs soltos com URLs irregulares (ex.: 'copy_of_Pauta882...'). Não achei dados abertos estruturados. O YouTube bloqueia IPs de nuvem na coleta de legendas.",
+   "fonte": "https://www.gov.br/antt/pt-br/assuntos/ultimas-noticias/copy_of_Pauta882ReuniaodeDiretoria1.pdf"
+  }
+ ],
+ "observacoes": "Soma 9/16. Base local de 2026-11-14. Faltam: calendario.json e pautas/ na base; o cruzamento de vídeos com a numeração das reuniões; a antecedência da pauta; o prazo de publicação das atas; a página oficial de composição. 'Calendário' e 'atas' estão como não encontrados, não como inexistentes."
+}

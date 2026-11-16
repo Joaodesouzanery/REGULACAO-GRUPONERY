@@ -12,5 +12,5 @@ description: Avalia e compara a TRANSPARÊNCIA e a FACILIDADE de acompanhar cada
    - **Composição e currículos** (página com diretores, mandatos, substitutos, lista tríplice)
    - **Sigilo** (% de itens sigilosos ou reuniões virtuais sem transmissão)
    - **Facilidade** (busca, dados abertos, links estáveis, bloqueio a robôs)
-2. `python3 pipeline/transparencia.py` junta as notas (`data/<ag>/transparencia.json`) e escreve `docs/transparencia_agencias.md` (tabela comparativa + ranking + ressalvas). Números da base entram automaticamente.
+2. O agente devolve o JSON; quem chamou grava em `data/<ag>/transparencia.json`. Depois `python3 pipeline/transparencia.py` junta as notas (`data/<ag>/transparencia.json`) e escreve `docs/transparencia_agencias.md` (tabela comparativa + ranking + ressalvas). Números da base entram automaticamente.
 3. Nada de nota sem evidência; diferencie «não existe» de «não encontrado».

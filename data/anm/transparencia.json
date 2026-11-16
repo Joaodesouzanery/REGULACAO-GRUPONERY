@@ -1,0 +1,54 @@
+{
+ "agencia": "ANM",
+ "criterios": [
+  {
+   "nome": "Reuniões transmitidas",
+   "nota": 2,
+   "evidencia": "121 vídeos de diretoria em data/anm/videos.jsonl (2019:7, 2020:22, 2021:17, 2022:16, 2023:12, 2024:19, 2025:14, 2026:10, 4 sem data) para 122 atas em atas/indice_atas.json e 130 reuniões no banco; cobertura quase completa",
+   "fonte": "data/anm/videos.jsonl; data/anm/atas/indice_atas.json; canal YouTube da ANM"
+  },
+  {
+   "nome": "Legenda disponível",
+   "nota": 1,
+   "evidencia": "27 vídeos sem legenda (data/anm/sem_legenda.jsonl) de 238 listados (~11%); 150 transcrições existentes",
+   "fonte": "data/anm/sem_legenda.jsonl; data/anm/transcricoes/"
+  },
+  {
+   "nome": "Pauta antecipada",
+   "nota": 1,
+   "evidencia": "Pauta oficial em PDF por reunião (ex.: 87ª ROP de 29/07/2026); antecedência da publicação não medida",
+   "fonte": "https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/pautas-da-rop/pauta-da-87a-rop.pdf"
+  },
+  {
+   "nome": "Atas e votos escritos",
+   "nota": 2,
+   "evidencia": "122 atas em PDF (a partir de 06/09/2019) com presentes, relator, processo e resultado por item; prazo de publicação não medido",
+   "fonte": "https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada/reunioes-da-diretoria-colegiada/atas-da-rop/"
+  },
+  {
+   "nome": "Calendário anual",
+   "nota": 0,
+   "evidencia": "Calendário oficial não encontrado; o registro da base diz «não há calendário oficial publicado». Não confirmado como inexistente",
+   "fonte": "data/anm/calendario.json"
+  },
+  {
+   "nome": "Composição e currículos",
+   "nota": 2,
+   "evidencia": "Página de composição da diretoria colegiada no gov.br; base com minibios, fotos e mandatos de diretores atuais e anteriores. Página oficial não reconferida na web nesta rodada",
+   "fonte": "https://www.gov.br/anm/pt-br/composicao/diretoria-colegiada; data/anm/dirigentes/; data/anm/mandatos.json"
+  },
+  {
+   "nome": "Sigilo e reuniões sem vídeo",
+   "nota": 1,
+   "evidencia": "Nenhum dos 3619 itens do banco tem resultado sigiloso; mas há cerca de 7–8 reuniões com ata ou registro no banco sem vídeo correspondente, e as ROPs recentes são por videoconferência (Teams)",
+   "fonte": "data/anm/regulacao.db; data/anm/calendario.json"
+  },
+  {
+   "nome": "Facilidade de acesso",
+   "nota": 1,
+   "evidencia": "URLs estáveis no gov.br e PDFs por reunião; sem dados abertos estruturados de votos e sem busca por item; YouTube bloqueia IPs de nuvem",
+   "fonte": "gov.br/anm (atas e pautas da ROP)"
+  }
+ ],
+ "observacoes": "Avaliação feita com a base local; nenhuma página foi consultada na web nesta rodada. Dados ainda não verificados: antecedência das pautas, prazo das atas e existência de um calendário oficial (marcado como não encontrado, não como inexistente). A contagem de vídeos de diretoria depende da classificação em videos.jsonl, com 62 vídeos 'outro' sem data."
+}

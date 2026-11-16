@@ -1,0 +1,54 @@
+{
+ "agencia": "ANTAQ",
+ "criterios": [
+  {
+   "nome": "Reuniões transmitidas",
+   "nota": 1,
+   "evidencia": "data/antaq/videos.jsonl: 547 vídeos (324 com data, de 2011 a 2026; 21 a 37 por ano). As RODs telepresenciais são transmitidas no YouTube. As RODs virtuais via SEI (Resolução ANTAQ 66) não têm vídeo: são 7 das 13 reuniões do calendário do 2º semestre de 2026 (calendario.json).",
+   "fonte": "data/antaq/videos.jsonl; data/antaq/calendario.json; https://youtube.com/c/CanalANTAQ"
+  },
+  {
+   "nome": "Legenda disponível",
+   "nota": 2,
+   "evidencia": "289 transcrições na base contra 44 vídeos sem legenda (sem_legenda.jsonl), cerca de 87% dos vídeos baixados.",
+   "fonte": "data/antaq/transcricoes/; data/antaq/sem_legenda.jsonl"
+  },
+  {
+   "nome": "Pauta antecipada",
+   "nota": 1,
+   "evidencia": "A pauta é publicada em PDF (lista processos por relator, nº SEI, interessados e assunto) na página do calendário. Os nomes dos arquivos não seguem padrão (ex.: PautadaROD616_vs4.pdf). A pauta da ROD 625 (10/12/2026) ainda está 'a confirmar'. Antecedência em dias não medida (não encontrado).",
+   "fonte": "data/antaq/pautas/625.json; data/antaq/pesquisa_atas.md; https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/reunioes-deliberativas/calendario-atas-e-pautas-das-reunioes"
+  },
+  {
+   "nome": "Atas e votos escritos",
+   "nota": 1,
+   "evidencia": "As atas (PDF assinado no SEI) trazem os acórdãos na íntegra, o relator, quem pediu vista e quem ficou vencido (ex.: ROD 597, Flávia Takafashi vencida). A fundamentação dos votos não vem na ata: fica no SEI e no vídeo. As virtuais têm página de resultados com links ao SEI. O acervo antigo está no Sophia, que estava bloqueado na pesquisa. Prazo de publicação não medido.",
+   "fonte": "https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/reunioes-deliberativas/calendario-atas-e-pautas-das-reunioes/AtaROD615.pdf; .../resultado-das-reunioes-virtuais-da-diretoria-1; data/antaq/pesquisa_atas.md"
+  },
+  {
+   "nome": "Calendário anual",
+   "nota": 2,
+   "evidencia": "Calendário semestral aprovado por acórdão (Acórdão 351/2026), com data e formato (virtual/telepresencial) de cada ROD de 613 a 625. Cumprimento não verificado.",
+   "fonte": "https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/reunioes-deliberativas/calendario-atas-e-pautas-das-reunioes/Calendrio2semestre2026.pdf"
+  },
+  {
+   "nome": "Composição e currículos",
+   "nota": 2,
+   "evidencia": "Há página da diretoria atual e de ex-diretores. Os substitutos são definidos por decreto (DOU 31/01/2025). A base tem 17 registros de mandatos e as minibios dos dirigentes.",
+   "fonte": "https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/diretoria-colegiada; data/antaq/mandatos.json; data/antaq/bios.json"
+  },
+  {
+   "nome": "Sigilo e reuniões sem vídeo",
+   "nota": 0,
+   "evidencia": "Sigilo formal baixo: 7 de 5.190 itens com resultado sigiloso no banco (0,13%). Porém a maioria das RODs (7 das 13 no 2º semestre de 2026) é virtual via SEI, sem transmissão nem debate público; só ficam o resultado escrito e os votos no SEI.",
+   "fonte": "data/antaq/regulacao.db (consulta via pipeline/ag.sh); data/antaq/calendario.json"
+  },
+  {
+   "nome": "Facilidade de acesso",
+   "nota": 1,
+   "evidencia": "Os PDFs têm nomes irregulares e o caminho indexado pelo Google, sem o subdiretório, devolve NotFound. Há links antigos quebrados na página de distribuição de processos. O acervo Sophia não abriu a partir da nuvem. Há XLS semanal de distribuição de processos. Portal de dados abertos não verificado.",
+   "fonte": "data/antaq/pesquisa_atas.md; https://www.gov.br/antaq/pt-br/acesso-a-informacao/institucional/reunioes-deliberativas/distribuicao-de-processos"
+  }
+ ],
+ "observacoes": "Avaliação baseada na base local e em data/antaq/pesquisa_atas.md (pesquisa de 09/11/2026); não fiz nova busca na web. Há 223 vídeos sem data no videos.jsonl, então a % de reuniões de diretoria com vídeo por ano é aproximada. Antecedência da pauta, prazo de publicação das atas, cumprimento do calendário e dados abertos ficaram como 'não medido/não encontrado', não 'não existe'. O bloqueio do Sophia foi do proxy da sessão e pode não afetar um usuário comum."
+}
