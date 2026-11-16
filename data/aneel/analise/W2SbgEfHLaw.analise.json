@@ -1,0 +1,84 @@
+{
+ "meta": {"video_id": "W2SbgEfHLaw", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "13ª Reunião Pública Ordinária de 2025 (Parte 2, sessão da tarde)",
+  "data": "2025-04-22",
+  "formato": "presencial",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Ludimila Lima", "Fernando Mosna", "Ricardo Tili"],
+  "ausentes": [],
+  "observacoes": ["Ordem da tarde: itens 14, 17, 13 e 10.", "Itens 14, 17 e 13 aprovados com 5 votos; item 10 teve pedido de vista de Fernando Mosna.", "Sustentações orais: Rafael Janiques (ISA CTEEP) no item 14; Luís Eduardo Diniz Araújo, ex-procurador-geral, pela ABEEólica/Absolar no item 17; Luía Melcop de Castro Leal Dantas (UFVs Boa Hora) no item 10.", "Procurador-geral: Eduardo Estevo (nome conforme a legenda)."]
+ },
+ "itens": [
+  {
+   "id": "14", "ts": "0:00:21",
+   "processo": "48500747226 (conforme legenda, incerto)",
+   "interessado": "Copel GT, Cemig GT, Eletronorte, CPFL Transmissão, Eletrobras, CGT Eletrosul, Chesf e ISA CTEEP (transmissoras)",
+   "assunto": "Pedidos de reconsideração contra a REH 3.344/2024, que aprovou a revisão tarifária periódica da RAP dos contratos de transmissão prorrogados pela Lei 12.783/2013",
+   "tema": ["transmissão (RAP, revisão periódica)", "recursos administrativos", "tarifas e revisão tarifária"],
+   "relator": "Ricardo Tili",
+   "resultado": "aprovado por unanimidade: recursos conhecidos e parcialmente providos nos termos da NT 57/2025-STR",
+   "resumo_voto": "Relator acata integralmente a NT 57/2025-STR; nega pleitos da ISA CTEEP sobre banco de baterias da SE Registro (valor teto em discussão com o MME; se o POTEE for retificado, vira parcela de ajuste), aplicação de VOC a módulos incompletos (metodologia vigente na revisão, não há retroatividade), reclassificação de ativos para a BRR e adicional de periculosidade sem comprovação; rejeita segregar temas em processo apartado. Sustentação oral de Rafael Janiques (ISA CTEEP).",
+   "votos": [
+    {"diretor": "Ricardo Tili", "voto": "relator, aprova (parcial provimento)", "ts": "0:15:30", "justificativa": "não identifica ilegalidade ou equívoco da área técnica; metodologia aplicada a todo o segmento não pode ser alterada no caso particular; questões específicas devem ir a processos próprios", "confianca": "media"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "0:32:52", "justificativa": "questionou o tratamento do banco de baterias e a proposta de processo apartado; ouviu a STR antes de votar", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "0:32:54", "confianca": "baixa"},
+    {"diretor": "Ludimila Lima", "voto": "acompanha o relator", "ts": "0:32:56", "confianca": "baixa"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "0:32:58", "confianca": "baixa"}
+   ]
+  },
+  {
+   "id": "17", "ts": "0:33:45",
+   "processo": "48500 01 02472596 (conforme legenda, incerto)",
+   "interessado": "ABEEólica e Absolar (associações de geradores)",
+   "assunto": "Pedido de medida cautelar para suspender os processos punitivos instaurados pela ANEEL em decorrência da perturbação no SIN de 15/08/2023 até nova análise técnica do RAP do ONS",
+   "tema": ["fiscalização e sanções", "outorgas de geração (eólica, solar)", "distribuição/qualidade (apagão)", "recursos administrativos"],
+   "relator": "Ludimila Lima",
+   "resultado": "aprovado por unanimidade: cautelar conhecida e negada",
+   "resumo_voto": "Ausentes fumaça do bom direito (RAP participativo, 296 contribuições; estudo das associações intempestivo; autos tratam também de modelagem inadequada) e perigo da demora (recurso tem efeito suspensivo pela REN 846/2019); estudos encaminhados à SFT para consideração nos processos em fase recursal. Sustentação oral de Luís Eduardo Diniz Araújo (ABEEólica/Absolar).",
+   "votos": [
+    {"diretor": "Ludimila Lima", "voto": "relatora, nega a cautelar", "ts": "1:03:56", "justificativa": "não há fumaça do bom direito nem perigo da demora; mérito deve ser avaliado nos processos fiscalizatórios", "confianca": "alta"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "1:22:42", "justificativa": "defende a governança e independência técnica do RAP/ONS/ANEEL; critica a postura das associações; menos de 10% das pendências de geradores eólicos e solares foram sanadas, o que causa cortes de geração", "tom": "enfático", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha a relatora por outros fundamentos", "ts": "1:21:57", "justificativa": "acompanha não pelos fundamentos do voto nem da fala do DG, mas por ausência de fumaça do bom direito e perigo da demora; ressalva que a falta de individualização de condutas pode anular os autos no mérito", "confianca": "alta"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha a relatora", "ts": "1:22:43", "confianca": "baixa"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "1:22:49", "confianca": "baixa"}
+   ]
+  },
+  {
+   "id": "13", "ts": "1:23:21",
+   "processo": "4850033 462 31 (conforme legenda, incerto)",
+   "interessado": "Laticínio Serra da Canastra Ltda. (consumidor) x Cemig (distribuidora)",
+   "assunto": "Recurso contra o Despacho 5/2025-SMA sobre devolução em dobro de valores faturados a maior por erro de classificação de unidade consumidora (prazo prescricional)",
+   "tema": ["recursos administrativos", "distribuição e consumidor", "tarifas (classificação tarifária)"],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado: recurso conhecido e negado",
+   "resumo_voto": "Destaque do DG sobre o marco do prazo prescricional (reclamação de 15/02/2022 x 17/03/2023); SMA explicou que a reclamação de 2022 foi feita sob a REN 1000 (prazo de 5 anos) e não teve continuidade, valendo a de 17/03/2023 sob prazo decenal; procuradoria concordou.",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "relatora, nega provimento", "ts": "1:31:51", "justificativa": "marco prescricional é a reclamação de 17/03/2023, a única que seguiu o caminho do entendimento", "confianca": "alta"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "1:32:09", "justificativa": "pediu destaque com dúvida sobre o marco da devolução em dobro; satisfeito com os esclarecimentos", "confianca": "media"},
+    {"diretor": "Ludimila Lima", "voto": "acompanha a relatora", "ts": "1:32:10", "confianca": "baixa"},
+    {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "1:32:11", "confianca": "baixa"},
+    {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "1:32:13", "confianca": "baixa"}
+   ]
+  },
+  {
+   "id": "10", "ts": "1:32:36",
+   "processo": "4850021502429 (conforme legenda, incerto)",
+   "interessado": "Boa Hora 4, 5 e 6 Geradora de Energia S.A. (UFVs Boa Hora 4, 5 e 6, leilão 6/2021)",
+   "assunto": "Recurso contra o Despacho 490/2025-SFT que aplicou multa editalícia (R$ 5.765.550 por empresa) por atraso no cronograma de implantação das UFVs",
+   "tema": ["fiscalização e sanções", "outorgas de geração (solar)", "leilões", "recursos administrativos"],
+   "relator": "Ludimila Lima",
+   "resultado": "pedido de vista (Fernando Mosna)",
+   "resumo_voto": "Relatora nega provimento: obras nem iniciadas, descumprimento do cronograma configurado, excludente já negado em última instância; dosimetria segue critério geral; viabilidade e transferência de CCEARs serão tratados no termo de intimação de revogação. Sustentação oral pediu sobrestamento por prejudicialidade (pedido de transferência na SGM) e proporcionalização do fator F.",
+   "votos": [
+    {"diretor": "Ludimila Lima", "voto": "relatora, nega provimento", "ts": "1:52:01", "justificativa": "descumprimento do cronograma confirmado; viabilidade é matéria do termo de intimação, não da multa", "confianca": "alta"},
+    {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "2:06:23", "confianca": "media"},
+    {"diretor": "Fernando Mosna", "voto": "pede vista", "ts": "2:06:25", "justificativa": "dúvida sobre a relação entre o processo de transferência de contratos na SGM e a base de cálculo/consequências da multa", "confianca": "alta"},
+    {"diretor": "Ricardo Tili", "voto": "não votou (vista concedida)", "ts": "2:06:28", "justificativa": "em debate disse que revogar a outorga seria temerário pois o agente aportou garantias, mas que aqui se discute só a multa por atraso (falante inferido)", "confianca": "baixa"},
+    {"diretor": "Agnes da Costa", "voto": "não votou (vista concedida)", "ts": "2:06:28", "confianca": "baixa"}
+   ]
+  }
+ ],
+ "retirados": [],
+ "limites_da_analise": ["Transcrição com um único marcador de tempo; ts obtidos do JSON da legenda, aproximados para quem só acompanha.", "Números de processo mal reconhecidos pela legenda; os campos indicam o texto ouvido.", "Atribuição de falantes inferida (sem identificação explícita na legenda); ordem de votos dos seguidores não identificada nominalmente.", "Gentil Nogueira constava na lista de falantes possíveis, mas não há indício de participação; cinco votos por item.", "No item 17 um comentário em apoio ao encaminhamento (1:04:22) é de diretor não identificado."]
+}

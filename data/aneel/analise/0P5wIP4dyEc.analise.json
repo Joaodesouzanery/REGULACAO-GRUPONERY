@@ -1,0 +1,327 @@
+{
+ "meta": {
+  "video_id": "0P5wIP4dyEc",
+  "fonte": "legenda automática do YouTube (sem marcadores no .md; ts tirados de transcricoes/0P5wIP4dyEc.json); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "13ª Reunião Pública Ordinária de 2025 (Parte 1)",
+  "data": "2025-04-22",
+  "formato": "presencial com participação remota (Agnes da Costa)",
+  "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+  "diretores_presentes": [
+   "Sandoval Feitosa",
+   "Agnes da Costa",
+   "Ludimila Lima",
+   "Fernando Mosna",
+   "Ricardo Tili"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Pauta de 47 itens; itens 5 a 47 em bloco; destacados 10, 14 e 17; item 8 retirado; sustentação oral nos itens 4, 10, 14 e 17. Ordem: bloco, 2, 3, 1, 4, 10, 14, 17.",
+   "Parte 1 cobre bloco e itens 2, 3, 1 e 4; itens 10, 14 e 17 ficaram para depois do intervalo (13h46, retorno 15h30), em outro vídeo.",
+   "Quórum de cinco diretores; o DG disse por engano '11ª reunião' na abertura."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:02:37",
+   "processo": "itens 5 a 47 (bloco), exceto 8 (retirado) e 10, 14, 17 (destacados)",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco da 13ª RPO de 2025 (votos e atos publicados com a pauta)",
+   "tema": [
+    "bloco de itens"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovados por unanimidade, exceto item 16 (por maioria)",
+   "resumo_voto": "Itens de bloco aprovados; no item 16 houve divergência da diretora Ludimila Lima, acompanhada pela maioria. Pedido de destaque do item 13 (voto da diretora Agnes) para esclarecer dúvida, mas o bloco foi proclamado aprovado.",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "aprova o bloco, diverge no item 16",
+     "ts": "0:02:37",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco, acompanha a divergência no item 16",
+     "ts": "0:03:09",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco",
+     "ts": "0:03:09",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "aprova o bloco",
+     "ts": "0:03:09",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "aprova o bloco, acompanha a divergência no item 16 (por engano, ver item 16)",
+     "ts": "0:03:40",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "ts": "0:18:37",
+   "processo": "48500.001656/2017-91",
+   "interessado": "PCH Mantoviles S.A. (geradora; PCH Mantoviles, Leilão de Energia de Reserva 3/2016)",
+   "assunto": "Pedido de reconsideração contra o Despacho 337/2025, que aplicou multa editalícia por atraso na implantação da PCH Mantoviles (edital do leilão 3/2016)",
+   "tema": [
+    "fiscalização e sanções (multa editalícia)",
+    "outorgas de geração (PCH)",
+    "recursos administrativos",
+    "leilões"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "por maioria, negado provimento ao pedido de reconsideração (divergência de Ludimila Lima vencedora); relator vencido",
+   "resumo_voto": "Julgado no bloco. Relator Fernando Mosna e Ricardo Tili votaram por perda de objeto; Ludimila Lima divergiu para negar provimento, acompanhada por Agnes da Costa e pelo Diretor-Geral. O Diretor-Geral reabriu o item para dizer que votou por engano (arquivo errado): seu entendimento seria conhecer e dar provimento de ofício, desconstituir o TIP 1/2020 e o Despacho 337/2025 e determinar à SFT instaurar processo punitivo pela cláusula 11.9.2 do edital (REN 846). Como o resultado já fora proclamado, manteve-se a proclamação, com registro do entendimento diverso.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, vencido (perda de objeto)",
+     "ts": "0:20:28",
+     "confianca": "media",
+     "justificativa": "Voto pela perda de objeto, conforme relato do Diretor-Geral; disse 'eu fui derrotado' e conformou-se com a proclamação."
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "vencido (perda de objeto)",
+     "ts": "0:20:28",
+     "confianca": "media",
+     "justificativa": "Votou pela perda de objeto, conforme relato na sessão."
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "diverge: nega provimento ao pedido de reconsideração",
+     "ts": "0:02:37",
+     "confianca": "media",
+     "justificativa": "Negar provimento ao pedido de reconsideração da PCH Mantoviles contra o Despacho 337/2025 (multa editalícia)."
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha a divergência",
+     "ts": "0:03:09",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a divergência (registrou depois que foi engano; entendimento pessoal diverso)",
+     "ts": "0:18:55",
+     "confianca": "media",
+     "justificativa": "Queria dar provimento de ofício, na linha das recomendações da Procuradoria, desconstituir o TIP 1/2020 e o Despacho 337/2025 e mandar a SFT instaurar processo punitivo; manteve a proclamação já feita."
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:04:10",
+   "processo": "48500.0029?? (número incompleto na legenda)",
+   "interessado": "SGM/SFT; usinas hidrelétricas fiscalizadas pela ANEEL",
+   "assunto": "Abertura de consulta pública para alterar a REN 1.064/2023 (segurança de barragens de usinas hidrelétricas) em função da Resolução CNRH 241/2024 (classificação de barragens por dano potencial, volume e categoria de risco)",
+   "tema": [
+    "regulação normativa (consulta pública)",
+    "segurança de barragens",
+    "outorgas de geração (hidrelétrica)"
+   ],
+   "relator": "Ludimila Lima",
+   "resultado": "aprovado por unanimidade: consulta pública por intercâmbio documental, 47 dias (24/4 a 9/6/2025)",
+   "resumo_voto": "Apresentação técnica de Mateus Machado Neves; sem AIR por não haver inovação. Relatora pede que a ANEEL envide esforços para atualizar o formulário FSB até 1º de novembro de 2025 (e não 10/9/2026), para reclassificação no ciclo de 2025.",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "relatora, aprova",
+     "ts": "0:15:44",
+     "confianca": "alta",
+     "justificativa": "Instaurar CP de 47 dias; esforço para atualizar o sistema FSB ainda no ciclo 2025."
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "0:16:48",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha a relatora",
+     "ts": "0:16:48",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "0:16:48",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a relatora",
+     "ts": "0:16:48",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "0:21:32",
+   "processo": "48500.004009/2024-61 (aprox.)",
+   "interessado": "SGM; ONS e CCEE (CT PMO/PLD)",
+   "assunto": "Abertura de consulta pública sobre a regulamentação do comitê de governança específica do art. 3º da Resolução CNPE 1/2024 (modelos computacionais, PMO/PLD; sucessor da CPAMP), com revisão da REN 1.032/2022 e novo regimento do CT PMO/PLD",
+   "tema": [
+    "regulação normativa (consulta pública, agenda regulatória)",
+    "comercialização (CCEE, PLD)",
+    "modelos computacionais / governança"
+   ],
+   "relator": "Ludimila Lima",
+   "resultado": "aprovado por unanimidade: consulta pública de 47 dias (24/4 a 9/6/2025)",
+   "resumo_voto": "Apresentação do servidor Vinícius (SGM). Relatora propõe delegar à SGM a aprovação do fluxograma 1 com recurso à Diretoria, e nega tratamento excepcional para aprovar aprimoramentos de ONS/CCEE já para 2026, por não estarem maduros nem debatidos com os agentes. Agnes da Costa elogia e pergunta sobre interação com o CMSE (aversão a risco); responde Cantarino (SGM).",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "relatora, aprova",
+     "ts": "0:45:09",
+     "confianca": "alta",
+     "justificativa": "Não abrir excepcionalidade para aprimoramentos em 2026: 'não consegui chegar ao entendimento de que se trata de aprimoramentos suficientemente maduros'."
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha a relatora",
+     "ts": "0:50:54",
+     "confianca": "media",
+     "justificativa": "Comentou o aprendizado institucional na governança dos modelos e a necessidade de alinhar prazos com o CMSE."
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora",
+     "ts": "0:50:54",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha a relatora",
+     "ts": "0:50:54",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "acompanha a relatora",
+     "ts": "0:50:54",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:51:26",
+   "processo": "48500.008476/2022-6? (número incompleto na legenda)",
+   "interessado": "proponentes da Chamada de PDI Estratégico 23 (Petrobras, China Three Gorges Brasil, Eletrobras, Neoenergia, Cemig/Enova, entre outras)",
+   "assunto": "Avaliação inicial de propostas da Chamada de PDI Estratégico 23/2024 — hidrogênio no contexto do setor elétrico (voto-vista do Diretor-Geral)",
+   "tema": [
+    "pesquisa e desenvolvimento (PDI)",
+    "hidrogênio",
+    "transição energética"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "não concluído: pedido de vista de Fernando Mosna",
+   "resumo_voto": "Voto-vista de Sandoval Feitosa: aprova a avaliação inicial dos 13 projetos recomendados pela STE (NT 396), com as reduções da tabela 3, baixando o uso de recursos do PDI ANEEL de cerca de R$ 1,12 bilhão para R$ 671 milhões (~17,7% dos recursos anuais), autoriza início da execução e propõe norma conjunta ANEEL-ANP; Lei 14.948/2024 não traz fato novo. Agnes acompanha. Fernando Mosna pede vista.",
+   "votos": [
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "voto-vista: aprova avaliação inicial com reduções (R$ 671 milhões)",
+     "ts": "1:33:37",
+     "confianca": "alta",
+     "justificativa": "Lei 14.948 'não trouxe, a meu ver, fato novo'; redução de cerca de 40% endereça as preocupações sobre volume de recursos."
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, acompanha o voto-vista",
+     "ts": "1:35:11",
+     "confianca": "alta",
+     "justificativa": "Vê o voto-vista como evolução; ANEEL como agente catalisador num ecossistema de inovação orientado por missões."
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "pede vista",
+     "ts": "1:40:26",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:40:57",
+   "processo": "48500.007421/2025-13",
+   "interessado": "EDP Espírito Santo Distribuição de Energia S.A. (distribuidora; Contrato 1/1995)",
+   "assunto": "Cumprimento dos critérios para prorrogação da concessão de distribuição da EDP Espírito Santo (Lei 9.074/1995, Decreto 12.068/2024) — voto-vista de Fernando Mosna",
+   "tema": [
+    "distribuição e qualidade (DEC/FEC, prorrogação de concessão)",
+    "renovação de concessões",
+    "participação social (audiência pública)"
+   ],
+   "relator": "Ludimila Lima",
+   "resultado": "não concluído: pedido de vista (provavelmente Ricardo Tili) com consulta urgente à Procuradoria",
+   "resumo_voto": "Sustentação oral de Luís Felipe Falcone (EDP ES). Voto-vista de Fernando Mosna: recomenda a prorrogação, mas propõe que os critérios do decreto são mínimos e que se aplique critério complementar (média de 3 anos de DEC expurgado / DEC limite acima de 140% com tendência crescente = serviço inadequado; Enel SP e Enel RJ seriam reprovadas) e audiência pública obrigatória nas próximas prorrogações. Procurador-geral Eduardo Ramalho expressa preocupações (falta de AIR e carência). Ludimila (relatora) ajusta voto: recomenda prorrogação e determina à SCE consultar a Procuradoria sobre competência e critérios adicionais. Sandoval vota com Ludimila; outro diretor pede vista.",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "relatora, recomenda prorrogação + consulta à Procuradoria (voto ajustado)",
+     "ts": "4:36:21",
+     "confianca": "alta",
+     "justificativa": "Papel da ANEEL é técnico e instrutório, restrito ao Decreto 12.068; dúvida sobre o propósito da audiência pública, pois a decisão é do MME."
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "voto-vista: recomenda prorrogação com critério adicional de expurgos (140%) e audiência pública obrigatória; mantém voto",
+     "ts": "2:54:37",
+     "confianca": "alta",
+     "justificativa": "Critérios do decreto são mínimos; serviço adequado é o do art. 6º da Lei 8.987; métrica de 140% já usada pela SFT; 'quem pode o mais pode o menos' sobre ouvir o consumidor."
+    },
+    {
+     "diretor": "Sandoval Feitosa",
+     "voto": "acompanha a relatora (Ludimila)",
+     "ts": "4:39:01",
+     "confianca": "alta",
+     "justificativa": "Tem dúvidas sobre a legalidade e quer análise exauriente da Procuradoria; contra audiência pública (processo instrutório, 'efeito halo'); se houver critérios adicionais, análise mais ampla que um único indicador."
+    },
+    {
+     "diretor": "Ricardo Tili",
+     "voto": "pede vista (provável; falante não nomeado)",
+     "ts": "4:39:01",
+     "confianca": "baixa",
+     "justificativa": "Antes defendeu que os critérios do decreto são mínimos e apoiou audiência pública; ainda formando opinião sobre o critério de 140%. Submeterá o processo à Procuradoria com urgência."
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "não votou (vista concedida antes do seu voto)",
+     "ts": "4:39:34",
+     "confianca": "media",
+     "justificativa": "Preocupação com introduzir indicador novo num caso concreto, sem rito e participação social (isonomia, segurança jurídica); tende a seguir a Procuradoria."
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "item": "8",
+   "relator": "não identificado",
+   "motivo": "retirado de pauta (motivo não informado)",
+   "ts": "0:02:06"
+  }
+ ],
+ "limites_da_analise": [
+  "Legenda automática; números de processo incompletos/incertos (itens 1, 2, 3).",
+  "No bloco a ordem de quem fala não é nomeada: atribuição de votos do bloco por inferência (baixa confiança), exceto o resumo do DG sobre o item 16.",
+  "Item 4: quem pede vista não é nomeado; atribuído a Ricardo Tili por contexto (chama o DG de 'Sandoval' e 'Vossa Excelência').",
+  "Item 13 teve pedido de destaque (dúvida sobre voto de Agnes), mas o bloco foi proclamado; não está claro se o 13 foi deliberado à parte.",
+  "Nomes citados fora da lista: procurador-geral Eduardo Ramalho, secretário-geral Daniel Dana, servidores Mateus Machado Neves, Vinícius Grosse de Oliveira, Cantarino, Dácomo (SFT); Luís Felipe Falcone (EDP).",
+  "Decreto citado ora como 1268, ora 2068, 12.068 (legenda): trata-se do Decreto 12.068/2024."
+ ]
+}

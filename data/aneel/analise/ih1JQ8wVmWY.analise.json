@@ -1,0 +1,186 @@
+{
+ "meta": {
+  "video_id": "ih1JQ8wVmWY",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo; ts dos votos de quem acompanha aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "18",
+  "data": "2025-05-27",
+  "formato": "presencial (parte 2, tarde)",
+  "presidente_da_sessao": "Agnes da Costa (Diretora-Geral, conforme saudação dos oradores)",
+  "diretores_presentes": [
+   "Agnes da Costa",
+   "Ludimila Lima",
+   "Fernando Mosna",
+   "Dana"
+  ],
+  "ausentes": [],
+  "observacoes": [
+   "Parte 2 (tarde) da 18ª Reunião Pública Ordinária de 2025; itens 10, 11, 14 e 17.",
+   "Oradores cumprimentam o diretor «Dana» pela posse recente; Dana e Mosna estavam gripados (fala de encerramento).",
+   "Item 11 retirado de pauta pela relatora para instrução complementar; demais itens unânimes."
+  ]
+ },
+ "itens": [
+  {
+   "id": "10",
+   "ts": "0:00:07",
+   "processo": "48500.015702/2025 (número incerto na legenda)",
+   "interessado": "Rima Industrial S.A. (consumidor livre equiparado a autoprodutor)",
+   "assunto": "Requerimento administrativo com pedido de medida cautelar para não imputar à requerente os ônus da diferença de PLD entre submercados Nordeste e Sudeste/Centro-Oeste decorrente da restrição de intercâmbio",
+   "tema": [
+    "comercialização (CCEE, PLD)",
+    "recursos administrativos",
+    "transmissão"
+   ],
+   "relator": "Ludimila Lima",
+   "resultado": "aprovado por unanimidade: perda de objeto da cautelar; conhecido e negado provimento ao requerimento",
+   "resumo_voto": "Sustentação oral de Thiago Sandoval Furtado (Rima): onerosidade excessiva por falta de planejamento da transmissão. Relatora acompanha a SGM: risco de submercado é conhecido e alocado no contrato bilateral do ambiente livre; requerente optou por gerar no Nordeste e consumir no SE/CO. Procuradoria informa mandado de segurança com liminar.",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "relator, aprova",
+     "ts": "0:11:05",
+     "justificativa": "risco de submercado conhecido há tempos e inerente à matriz de risco dos agentes; contrato bilateral no ambiente livre aloca o risco",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:24:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "0:24:20",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Dana",
+     "voto": "acompanha o relator",
+     "ts": "0:24:20",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "ts": "0:24:56",
+   "processo": "48500.017692/2024 (número incerto na legenda)",
+   "interessado": "João Valmor M. da Silva e Filhos Ltda. (consumidor) x Nova Palma Energia Ltda. (distribuidora), Restinga Seca/RS",
+   "assunto": "Requerimento administrativo para emissão de orçamento de conexão e enquadramento como GD1 de microgeração solar fotovoltaica",
+   "tema": [
+    "geração distribuída (MMGD)",
+    "distribuição",
+    "recursos administrativos"
+   ],
+   "relator": "Ludimila Lima",
+   "resultado": "retirado de pauta pela relatora para instrução complementar das áreas técnicas",
+   "resumo_voto": "Sustentações orais de Gabriel Ferreira Viana (consumidor; alega GD0, cautelar há 14 meses, descumprimentos da distribuidora) e Alexei Macorim Vivan (Nova Palma; alega equívoco na análise). Relatora retirou o processo considerando as alegações das duas partes.",
+   "votos": [
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "relatora, retira de pauta",
+     "ts": "0:46:33",
+     "justificativa": "pede instrução complementar das áreas técnicas, considerando as alegações do consumidor e da distribuidora",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "ts": "0:46:53",
+   "processo": "48500.900879/2024-61 (número incerto na legenda)",
+   "interessado": "Equatorial Pará Distribuidora de Energia S.A.",
+   "assunto": "Recurso administrativo contra o Auto de Infração 26/2024-SFT (multa por descumprimento de prazos de ligação de consumidores)",
+   "tema": [
+    "fiscalização e sanções (multa, auto de infração)",
+    "distribuição",
+    "recursos administrativos"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: conhecido e dado parcial provimento, multa reduzida para cerca de R$ 45,18 milhões",
+   "resumo_voto": "Sustentação oral de Lucas Custódio (Equatorial): pede bis in idem entre as não conformidades 1 e 2, atenuantes de 95% ou retirada de pauta. Relator mantém o processo: não conformidades independentes (obras atrasadas e estudos/orçamentos atrasados); melhora posterior não altera a constatação da época; redução de cerca de R$ 1 milhão.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "0:58:43",
+     "justificativa": "não conformidades independentes, cada uma em etapa específica do processo de ligação; vale a constatação da fiscalização em abril de 2024",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:02:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "1:02:09",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Dana",
+     "voto": "acompanha o relator",
+     "ts": "1:02:09",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "ts": "1:02:40",
+   "processo": "Processos das UFVs Cristais 1 a 6 (números não lidos)",
+   "interessado": "CPFL Energias Renováveis S.A.; UFVs Cristais 1 a 6",
+   "assunto": "Recursos administrativos contra despachos SCE de 2023 (4578 a 4583) que indeferiram outorgas de autorização de centrais fotovoltaicas, com perda do desconto tarifário da Lei 14.120",
+   "tema": [
+    "outorgas de geração (solar)",
+    "recursos administrativos",
+    "tarifas (desconto TUST/TUSD)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "aprovado por unanimidade: conhecido e negado provimento",
+   "resumo_voto": "Sustentação oral de Urias Martiniano Garcia Neto (CPFL): documentos constavam de outros processos. Procuradoria (parecer 281/2024): sem ilegalidade, requisito legal não atendido no prazo; benefício interpretado restritivamente. Relatora: ausência de documentação completa motivou o indeferimento; existência dos documentos na agência não exime o agente.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relator, aprova",
+     "ts": "1:12:00",
+     "justificativa": "ausência de documentação completa no pedido; agência adota postura criteriosa na concessão de descontos com impacto sobre consumidores",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ludimila Lima",
+     "voto": "acompanha o relator",
+     "ts": "1:14:44",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "1:14:44",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Dana",
+     "voto": "acompanha o relator",
+     "ts": "1:14:44",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  "11"
+ ],
+ "limites_da_analise": [
+  "Transcrição sem quebras de falante; votos dos que acompanham ('Eu voto com a relatora') não atribuídos nominalmente: ts e autoria aproximados (confiança media).",
+  "Diretor «Dana» (recém-empossado) não consta da lista de diretores do config; nome registrado como dito. Sandoval Feitosa, Gentil Nogueira, Willamy Frota, Ricardo Tili não identificados como presentes nesta parte (a lista de falantes inferidos no .md cita Sandoval e Tili, sem confirmação na fala).",
+  "Números de processo, valores e nomes de pessoas vêm da legenda automática e podem estar errados.",
+  "Item 17: ts do voto da relatora aproximado; a Presidência foi exercida por Agnes da Costa segundo saudações."
+ ]
+}

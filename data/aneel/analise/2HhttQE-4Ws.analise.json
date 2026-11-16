@@ -1,0 +1,314 @@
+{
+ "meta": {
+  "video_id": "2HhttQE-4Ws",
+  "fonte": "legenda automática do YouTube; falantes inferidos; ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "25",
+  "data": "2025-07-15",
+  "formato": "presencial (auditório) com transmissão",
+  "presidente_da_sessao": "Agnes da Costa (presidindo na ausência do Diretor-Geral)",
+  "diretores_presentes": [
+   "Agnes da Costa",
+   "Fernando Mosna",
+   "Ivo Sechi Nazareno (diretor substituto)"
+  ],
+  "ausentes": [
+   "Sandoval Feitosa (férias)",
+   "Daniel Danna (férias)"
+  ],
+  "observacoes": [
+   "Primeira reunião de Ivo Sechi Nazareno como diretor substituto.",
+   "Manifesto do Conacen (Rosimeire Cecília da Costa) em defesa do orçamento e autonomia da ANEEL.",
+   "Ata da reunião anterior adiada.",
+   "Item 1 (edital A-5/2025) retirado de pauta pela relatora após questionamento de Fernando Mosna sobre o preço teto pós-MP 1304."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:19:20",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco (6 a 35, votos e atos previamente disponibilizados); item 15 destacado; item 7 sem decisão; vista no item 10",
+   "tema": [
+    "bloco"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovados por unanimidade os itens do bloco, exceto o item 7 (sem decisão) e o item 10 (pedido de vista)",
+   "resumo_voto": "Presidente (Agnes da Costa) registra ajuste no item 16 (encaminhamento à STD em vez da SCE). Um diretor mantém o voto no item 7 e pede vista do item 10, pois a fundamentação do voto é a MP 1300, ainda não convertida em lei.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova os itens do bloco",
+     "ts": "0:20:32",
+     "justificativa": "Proclama aprovação por unanimidade, exceto item 7; item 10 com vista.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "não identificado",
+     "voto": "aprova o bloco; mantém voto no item 7; pede vista do item 10",
+     "ts": "0:19:59",
+     "justificativa": "Vista no item 10 porque o voto se fundamenta na MP 1300, que pode não ser convertida em lei.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o bloco",
+     "ts": "0:20:32",
+     "justificativa": "Unanimidade proclamada (voto individual não explícito).",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ivo Sechi Nazareno (diretor substituto)",
+     "voto": "acompanha o bloco",
+     "ts": "0:20:32",
+     "justificativa": "Unanimidade proclamada (voto individual não explícito).",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:21:04",
+   "processo": "48500.007327/2025-09 (legenda incerta)",
+   "interessado": "ENBPar; Amazonas Energia; CEEE Equatorial (legenda 'C3 Equatorial')",
+   "assunto": "Homologação da reserva técnica financeira da conta de comercialização de Itaipu para 2025 e ressarcimento de bônus de Itaipu 2024 pagos a mais",
+   "tema": [
+    "tarifas e revisão tarifária",
+    "bônus de Itaipu",
+    "comercialização"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: reserva técnica homologada em ~R$ 360 milhões (3,07%), abaixo dos ~R$ 586 milhões (5%) pedidos pela ENBPar; indeferida a delegação à STR; ressarcimentos deferidos",
+   "resumo_voto": "Relator diverge da área técnica: a ANEEL pode modular a reserva conforme o risco projetado (~US$ 64 milhões do custo de cessão); reserva menor eleva o bônus de Itaipu para ~R$ 883 milhões (+34,5%), beneficiando inclusive Norte e Nordeste; mantém a homologação anual com a diretoria. Novo cronograma: bônus nas faturas de agosto de 2025.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "0:41:49",
+     "justificativa": "Reserva no teto de 5% excederia a necessidade; 'quanto maior a reserva técnica, menor o saldo residual destinado ao bônus'; decisão estratégica deve ficar com a diretoria, não delegada à STR.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ivo Sechi Nazareno (diretor substituto)",
+     "voto": "acompanha o relator",
+     "ts": "1:03:58",
+     "justificativa": "Pergunta sobre efeitos cambiais da redução de 5% para 3%; relator responde que não há como garantir a flutuação.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:01:23",
+     "justificativa": "Elogia abordagem estratégica; não há nos autos fundamentação da ENBPar para os 5%; processo já atrasado em relação ao PRORET.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "ts": "1:04:30",
+   "processo": "48500.019722/2024-92; 48500.033532/2024-32; 48500.030602/2025-36 (legenda incerta)",
+   "interessado": "concessionárias de transmissão; Abrate (sustentação oral: Thiago Aragão Soares); grupo Renova",
+   "assunto": "RAP das transmissoras, TUST, tarifa de transporte de Itaipu, encargos e TUSDg de referência (88/138 kV) para o ciclo 2025/2026",
+   "tema": [
+    "transmissão",
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade, sem considerar no ciclo 2025/26 os encargos rescisórios do grupo Renova (~R$ 21,5 milhões); STR reavaliará no ciclo 2026/27",
+   "resumo_voto": "Montante a arrecadar de R$ 51,6 bilhões (+9%); impacto médio de 1,06% nas tarifas. Relator acolhe parcialmente o pleito da Abrate: não desconta agora os encargos de CUST rescindidos incluídos na recuperação judicial da Renova (pagamento em 24 parcelas semestrais), divergindo da área técnica; demais exceções ao máximo esforço mantidas.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "1:36:27",
+     "justificativa": "Subsistem dúvidas relevantes quanto à redução efetiva do risco de inadimplência no caso Renova; área técnica terá mais maturidade no ciclo 2026/27.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ivo Sechi Nazareno (diretor substituto)",
+     "voto": "acompanha o relator",
+     "ts": "1:57:20",
+     "justificativa": "Confirma que o tema Renova vai para avaliação técnica no próximo ciclo, possivelmente com parecer da Procuradoria; 'concordo com o encaminhamento'.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:57:29",
+     "justificativa": "Acompanha e proclama.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "2:00:30",
+   "processo": "48500.009732/2025-09 (legenda incerta)",
+   "interessado": "leilão de energia nova A-5/2025 (hidrelétricas até 50 MW); CBAr (sustentação oral: Roberta Negrão); Abragel (sustentação oral: Renata Menescal)",
+   "assunto": "Aprovação do edital do leilão de energia nova A-5 de 2025 após a CP 12/2025",
+   "tema": [
+    "leilões",
+    "outorgas de geração (PCH/CGH)",
+    "regulação normativa"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "retirado de pauta pela relatora após debate; volta em reunião extraordinária",
+   "resumo_voto": "Relatora propôs aprovar o edital (preço teto R$ 398,67/MWh; desconto TUSD/TUST restabelecido para PCH/CGH após a MP 1304 revogar o art. 21 da Lei 14.182; arbitragem e neutralidade tributária com redação da PF). Fernando Mosna questiona o preço teto: revogado o art. 21, a portaria 95 e o decreto 11.042 perdem base e o preço deveria vir de EPE/MME (art. 20, X, do Decreto 5.163) ou ser motivado; pede consulta à Procuradoria e sugere retirada. Ivo Nazareno defende tecnicamente o preço (metodologia EPE atualizada; é preço de reserva) e alerta sobre o prazo de publicação do edital.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora; retira de pauta",
+     "ts": "3:25:26",
+     "justificativa": "Ouvidas as ponderações, retira o processo para certificar a questão do preço e pretende marcar extraordinária.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "questiona; sugere retirada de pauta",
+     "ts": "2:58:40",
+     "justificativa": "Preço teto deriva de dispositivo revogado ('tal como um frankstein'); risco jurídico como nos LRCAP; ANEEL não deve assumir responsabilidade de fixar preço teto.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ivo Sechi Nazareno (diretor substituto)",
+     "voto": "defende manutenção do preço; alerta prazo",
+     "ts": "3:15:55",
+     "justificativa": "Preço teto calculado por metodologia de planejamento e atualizado; preço máximo é de reserva, a competição reduz; edital precisa sair até segunda-feira.",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "3:26:18",
+   "processo": "48500.030220/2024-11 (legenda incerta)",
+   "interessado": "CCEE; distribuidoras e transmissoras (cotistas)",
+   "assunto": "Orçamento anual da CDE 2025 após a CP 38/2024",
+   "tema": [
+    "CDE e encargos setoriais",
+    "tarifas e revisão tarifária"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade: orçamento de ~R$ 49,2 bilhões; CDE Uso R$ 41,4 bilhões; CDE GD R$ 5,48 bilhões",
+   "resumo_voto": "Aumento de 32% no orçamento, puxado por Luz para Todos, tarifa social (MP 1300), CCC (Amazonas Energia) e descontos a fontes incentivadas; cobrança retroativa da CDE GD com parcelamento em 2025; ajustes de permissionárias em 2026.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "3:58:31",
+     "justificativa": "Agradece à STR; processo demorou meses e foi impactado pela MP 1300.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ivo Sechi Nazareno (diretor substituto)",
+     "voto": "acompanha o relator",
+     "ts": "4:01:51",
+     "justificativa": "A CDE alcança o mesmo nível econômico de todo o segmento de transmissão; pede atenção e zelo com as políticas públicas.",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "4:04:27",
+     "justificativa": "Orçamento é 'uma triste fotografia'; apelo ao Congresso para revisitar usos da CDE.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "ts": "4:07:07",
+   "processo": "48500.003741/2025-11 (legenda incerta)",
+   "interessado": "Barra Bonita Óleo e Gás Ltda.",
+   "assunto": "Pedido de medida cautelar contra aplicação retroativa de desconto pactuado em termo de autocomposição (MME, ANEEL)",
+   "tema": [
+    "recursos administrativos",
+    "comercialização"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "perda de objeto, por unanimidade (decisão judicial favorável à requerente)",
+   "resumo_voto": "Decisão judicial precária concedeu o que se pedia; relator declara perda do objeto.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, perda de objeto",
+     "ts": "4:08:16",
+     "justificativa": "Pedido esvaziado pela decisão judicial.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ivo Sechi Nazareno (diretor substituto)",
+     "voto": "acompanha o relator",
+     "ts": "4:09:52",
+     "justificativa": "Unanimidade proclamada.",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "4:09:52",
+     "justificativa": "Acompanha e proclama.",
+     "confianca": "alta"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "ts": "4:09:52",
+   "processo": "48500.0545/2025 (legenda incerta)",
+   "interessado": "New Wave Energia S.A.; Abraceel (sustentação oral: Frederico Rodrigues)",
+   "assunto": "Pedido de cautelar para suspender atuação de comercializadoras varejistas na área de concessão de distribuidoras do mesmo grupo econômico",
+   "tema": [
+    "comercialização",
+    "abertura de mercado"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "cautelar indeferida por unanimidade; prazo de 120 dias (reduzido de 180 após sustentação da Abraceel) para concluir a instrução da CP 7/2025",
+   "resumo_voto": "Relator nega a cautelar e, acolhendo o apelo da Abraceel, reduz de 180 para 120 dias o prazo para as superintendências concluírem a CP 7/2025 (migração para o mercado livre). STD confirma ser factível.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, indefere",
+     "ts": "4:14:36",
+     "justificativa": "Pedido não é possível em sede cautelar; prazo reduzido para dar concretude à agenda regulatória diante da onda de migrações da MP 1300.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "4:20:28",
+     "justificativa": "Relatora da CP 7; consulta a STD sobre viabilidade do prazo antes de votar.",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Ivo Sechi Nazareno (diretor substituto)",
+     "voto": "acompanha o relator",
+     "ts": "4:20:28",
+     "justificativa": "Unanimidade proclamada.",
+     "confianca": "baixa"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "1",
+   "motivo": "retirado pela relatora Agnes da Costa durante a sessão para consulta sobre o preço teto"
+  },
+  {
+   "id": "não identificado",
+   "motivo": "secretária menciona um item retirado de pauta sem número audível"
+  }
+ ],
+ "limites_da_analise": [
+  "Ivo Sechi Nazareno (diretor substituto) e Daniel Danna não constam da lista de diretores do config; nomes registrados como ditos.",
+  "Números de processo e valores vêm da legenda automática e podem estar errados.",
+  "Votos de Ivo nos itens 5 e 15 e no bloco inferidos da proclamação de unanimidade.",
+  "Autor do pedido de vista no item 10 do bloco e do voto mantido no item 7 não identificado com segurança.",
+  "Itens do bloco (6 a 35) não detalhados individualmente."
+ ]
+}

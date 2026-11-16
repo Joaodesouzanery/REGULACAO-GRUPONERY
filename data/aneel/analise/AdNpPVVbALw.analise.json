@@ -1,0 +1,106 @@
+{
+  "meta": {"video_id": "AdNpPVVbALw", "fonte": "legenda automática do YouTube; falantes inferidos (etiquetas {..} do .md frequentemente erradas); ts = tempo do vídeo; ts de votos de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "28ª RPO 2025", "data": "2025-08-05", "formato": "presencial (sede da ANEEL)",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Fernando Mosna", "Daniel Danna (fora da lista do config)", "Ivo Sechi Nazareno (fora da lista do config)"],
+    "ausentes": [],
+    "observacoes": [
+      "Quórum de cinco diretores. Comunicados do DG: retorno ao horário integral a partir de 11/08/2025 após desbloqueio parcial do orçamento (de 38,6 para 7,9 milhões); bônus de Itaipu de R$ 936,8 milhões nas faturas de agosto.",
+      "Ata da 27ª RPO (29/07/2025) aprovada.",
+      "Pauta com 28 itens; itens 4 a 28 em bloco; item 9 destacado do bloco por sustentação oral; retirados os itens 8, 13 e 17; item 3 retirado de pauta pelo DG (representante da empresa com motivo médico de parente).",
+      "Ordem: bloco, item 2 (voto-vista Fernando Mosna, MP 1300), item 1 (RTP EDP Espírito Santo), item 9 (recurso Serradinho Bioenergia).",
+      "Agnes da Costa estava em audiência na Câmara dos Deputados em parte da sessão; seus votos nos itens 1 e 9 foram registrados pela Secretaria Geral.",
+      "No encerramento Daniel Danna informa a nota técnica conjunta 13/2025 que fecha a segunda fase da CP 39/2023 (armazenamento de energia), a entrar em pauta em breve."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:07:59", "processo": "itens 4 a 28 da pauta (exceto 8, 13, 17 retirados e 9 destacado)", "interessado": "diversos",
+      "assunto": "Itens de bloco (votos e atos disponibilizados previamente na internet)",
+      "tema": ["bloco de itens"], "relator": "diversos",
+      "resultado": "aprovados por unanimidade, com exceção do item 19",
+      "resumo_voto": "Todos aprovam o bloco; o item 19 foi tratado à parte com voto divergente de Ivo Sechi Nazareno.",
+      "votos": [
+        {"diretor": "Ivo Sechi Nazareno", "voto": "aprova o bloco, exceto item 19 (diverge)", "ts": "0:07:59", "confianca": "media"},
+        {"diretor": "não identificado", "voto": "aprova o bloco; no item 19 acompanha a divergência de Ivo", "ts": "0:09:20", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "aprova o bloco; no item 19 acompanha a divergência", "ts": "0:09:28", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "aprova o bloco; no item 19 acompanha a divergência inaugurada por Ivo", "ts": "0:09:35", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "aprova o bloco e proclama", "ts": "0:09:45", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "19", "ts": "0:07:59", "processo": "não dito", "interessado": "Bonfim Geração, Cantar Geração, Pau Rainha Geração e Santa Luz Geração (nomes conforme legenda)",
+      "assunto": "Pedido de medida cautelar e aplicação de multa editalícia (Leilão 19) a geradoras",
+      "tema": ["fiscalização e sanções (multa)", "leilões (geração)", "recursos administrativos"], "relator": "não identificado",
+      "resultado": "prevaleceu a divergência de Ivo Sechi Nazareno, acompanhada pelos demais diretores (proclamação não explicitou o resultado do item 19)",
+      "resumo_voto": "Divergência: acompanha o relator ao declarar extinto por perda de objeto o pedido cautelar, mas aplica multa editalícia conforme recomendação da área técnica (valores aproximados na legenda: Bonfim ~R$ 1,147 milhão, Cantar ~R$ 1,72 milhão, Santa Luz ~R$ 931 mil) e determina à SCG instaurar execução das garantias de fiel cumprimento em caso de não pagamento.",
+      "votos": [
+        {"diretor": "Ivo Sechi Nazareno", "voto": "diverge: aplica multa editalícia conforme área técnica; extingue a cautelar por perda de objeto", "ts": "0:08:05", "justificativa": "acompanha recomendação da área técnica quanto à multa prevista no edital do Leilão 19", "confianca": "media"},
+        {"diretor": "não identificado", "voto": "acompanha a divergência de Ivo", "ts": "0:09:20", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha a divergência de Ivo", "ts": "0:09:28", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha a divergência de Ivo", "ts": "0:09:35", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "não explicitado (proclama o bloco com exceção do item 19)", "ts": "0:09:45", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:10:21", "processo": "48500.034725/2025-92 (legenda parcial)", "interessado": "agentes de geração hidrelétrica do MRE; Rio Paraná Energia (carta de esclarecimento)",
+      "assunto": "Rebatimentos do mecanismo concorrencial da MP 1300/2025 (repactuação do GSF) nos descontos de TUST/TUSD e no limite de extensão das outorgas; voto-vista de Fernando Mosna",
+      "tema": ["comercialização (MRE, GSF, MCP)", "outorgas de geração (hidrelétrica)", "tarifas (descontos TUST/TUSD)", "institucional / controle de legalidade"],
+      "relator": "Agnes da Costa",
+      "resultado": "aprovado por maioria o voto da relatora (sem a recomendação ao MME); voto-vista de Fernando Mosna vencido",
+      "resumo_voto": "Relatora: descontos tarifários mantidos na extensão; limite de 7 anos só para a extensão do mecanismo; usinas cotistas podem participar sem alterar o regime jurídico (parcela de cotas não pode ser livremente disposta). Voto-vista: usinas cotistas, mesmo 70/30, vedadas; Portaria MME 112/2025 (preço de referência R$ 229,85, OPEX R$ 95,81, taxa 10,94%) em desconformidade com a MP 1300, que manda usar os parâmetros da ANEEL (R$ 153,77, R$ 29,88, 9,63%); simulação de extensão indevida de mais de 111% e custo estimado de ~R$ 2,5 bilhões ao consumidor; propôs instrução prévia pela área técnica antes de estender outorgas. Procurador-geral: não cabe à ANEEL controle de legalidade de ato do MME.",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "voto-vista: diverge (veda cotistas 70/30; parâmetros da Portaria MME 112 contrariam a MP 1300; instrução prévia antes das extensões)", "ts": "0:10:40", "justificativa": "MP 1300 exige os valores dos parâmetros aplicados pela ANEEL (9,63%, R$ 153,77, R$ 29,88); a portaria gera extensão adicional indevida e custo de ~R$ 2,5 bi ao consumidor; motivar a outorga não é controle de legalidade: «Não podemos terceirizar a atividade cognitiva»", "tom": "enfático, técnico-jurídico", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "relatora, mantém o voto (retira a recomendação ao MME)", "ts": "1:56:21", "justificativa": "esclarecimento sobre certame já ocorrido; nenhum vencedor era cotista; não compete à agência controle de legalidade do ministério; números do voto-vista não estudados, debate cabe nos processos de extensão", "confianca": "alta"},
+        {"diretor": "não identificado", "voto": "acompanha a relatora", "ts": "1:57:05", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha a relatora", "ts": "1:57:08", "justificativa": "os processos de extensão de outorga virão ao colegiado e ali as questões poderão ser discutidas", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "ambíguo: diz «vou acompanhar o voto vista do diretor Fernando» e proclama por maioria o dispositivo da relatora", "ts": "1:57:22", "justificativa": "prefere discutir o mérito da metodologia em processo apartado antes de assinar as extensões; não questiona a portaria neste momento", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "1", "ts": "1:59:50", "processo": "48500.004929/2025-12 (legenda parcial)", "interessado": "EDP Espírito Santo Distribuição de Energia S.A.; Conselho de Consumidores",
+      "assunto": "Resultado da revisão tarifária periódica da EDP Espírito Santo a partir de 7/8/2025, após a CP 22/2025 (primeiro contrato renovado)",
+      "tema": ["tarifas e revisão tarifária (distribuidoras, RTP)", "CDE e encargos setoriais"],
+      "relator": "Ivo Sechi Nazareno",
+      "resultado": "aprovado por unanimidade",
+      "resumo_voto": "Efeito médio de 15,53% (17,85% alta tensão; 14,72% baixa tensão); fixa TUSD/TE, receita de DIT, repasse mensal da CDE, postos tarifários, componente T do fator X em 0,108% e perdas regulatórias 2025-2029. Destaque para o crescimento dos encargos setoriais. Apresentação técnica de Ricardo Martins (STR).",
+      "votos": [
+        {"diretor": "Ivo Sechi Nazareno", "voto": "relator, aprova", "ts": "2:18:47", "justificativa": "novo contrato de concessão renovado; atenção ao crescimento dos encargos setoriais", "confianca": "alta"},
+        {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "2:22:01", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (registro pela Secretaria Geral)", "ts": "2:22:03", "confianca": "media"},
+        {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "2:21:29", "justificativa": "encargos setoriais tiveram efeito expressivo, resultado de política pública", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama", "ts": "2:22:09", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "9", "ts": "2:23:40", "processo": "48500.002408/2024-97 (legenda parcial)", "interessado": "Serradinho Bioenergia S.A. (UTE Porto das Águas e Porto das Águas 2); ONS",
+      "assunto": "Recurso contra o Despacho STD 2927/2024, que indeferiu expurgo da parcela de ineficiência por ultrapassagem no ponto SE Chapadão 230 kV (fev-dez/2023 e mar/2024) após cisão da usina",
+      "tema": ["recursos administrativos", "transmissão (uso do sistema, ultrapassagem)", "outorgas de geração (térmica)"],
+      "relator": "Daniel Danna",
+      "resultado": "recurso conhecido e negado por unanimidade",
+      "resumo_voto": "Sustentação oral de Luís Eduardo (sobrenome incerto), pela Serradinho: atraso no sistema de medição após a cisão, sem contratação a menor; pediu exame integral do mérito. Relator remete ao voto disponibilizado no bloco e nega provimento.",
+      "votos": [
+        {"diretor": "Daniel Danna", "voto": "relator, conhece e nega provimento", "ts": "2:30:22", "justificativa": "pontos da sustentação já enfrentados no voto disponibilizado", "confianca": "alta"},
+        {"diretor": "não identificado", "voto": "acompanha o relator", "ts": "2:31:43", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator (registro pela Secretaria Geral)", "ts": "2:31:45", "confianca": "media"},
+        {"diretor": "não identificado", "voto": "acompanha o relator (implícito: «com o voto aqui de todos»)", "ts": "2:31:48", "confianca": "baixa"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator e proclama (implícito)", "ts": "2:31:48", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": [
+    {"item": "3", "relator": "Sandoval Feitosa", "motivo": "pedido do representante da empresa (procedimento cirúrgico de parente)", "ts": "0:06:49"},
+    {"item": "8", "relator": "não identificado", "motivo": "retirado de pauta (motivo não dito)", "ts": "0:05:35"},
+    {"item": "13", "relator": "não identificado", "motivo": "retirado de pauta (motivo não dito)", "ts": "0:05:35"},
+    {"item": "17", "relator": "não identificado", "motivo": "retirado de pauta (motivo não dito)", "ts": "0:05:35"}
+  ],
+  "limites_da_analise": [
+    "Legenda automática: números de processo parciais, valores das multas do item 19 e nomes de empresas distorcidos.",
+    "Daniel Danna (Daniel Cardoso Danna) e Ivo Sechi Nazareno estão fora da lista de diretores do config da ANEEL; nomes registrados como ditos na sessão.",
+    "As etiquetas de falante do .md estão erradas em vários trechos (ex.: Ludimila Lima aparece como superintendente que responde, Ricardo Tili não é diretor presente); os votos de quem só acompanha não têm autor identificável na legenda.",
+    "Item 2: a fala do DG «vou acompanhar o voto vista do diretor Fernando» conflita com a proclamação por maioria do dispositivo da relatora; placar exato incerto (provavelmente 3 a 2 ou 4 a 1).",
+    "Item 19 (bloco): relator não identificado; não está claro se a divergência de Ivo foi formalmente proclamada como resultado.",
+    "Os itens do bloco (4 a 28) não são detalhados na transmissão."
+  ]
+}

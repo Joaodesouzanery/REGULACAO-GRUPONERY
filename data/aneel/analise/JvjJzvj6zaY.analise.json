@@ -1,0 +1,47 @@
+{
+ "meta": {"video_id": "JvjJzvj6zaY", "fonte": "legenda automática do YouTube; falantes inferidos (rótulos {..} do .md frequentemente errados); ts = tempo do vídeo; ts de quem só acompanha é aproximado", "versao_esquema": 1},
+ "reuniao": {
+  "numero": "26ª Reunião Pública Ordinária 2025", "data": "2025-07-22", "formato": "presencial com transmissão",
+  "presidente_da_sessao": "Agnes da Costa (Diretora-Geral substituta)",
+  "diretores_presentes": ["Agnes da Costa", "Fernando Mosna", "Daniel Danna", "Ivo (diretor recém-empossado; sobrenome não dito)"],
+  "ausentes": ["Sandoval Feitosa (férias)"],
+  "observacoes": ["Quórum de quatro diretores; boas-vindas ao novo diretor Ivo.", "Pauta com 47 itens; itens 5 a 47 em bloco; destacado o 21; retirados 2, 4, 11, 14, 15, 16, 17, 18, 24 e 26.", "Item 1 (edital do Leilão A-5/2025 de PCH/CGH) aprovado por maioria, vencido Fernando Mosna (falta de motivação do MME para leilão 100% PCH após revogação do art. 21 da Lei 14.182).", "Item 3 (multa de R$ 235 milhões à Termelétrica Rio Grande) retirado de pauta pelo relator após sustentação oral.", "Item 21 (Maracanaú) negado provimento por unanimidade."]
+ },
+ "itens": [
+  {"id": "bloco 5-47", "ts": "0:03:19", "processo": "", "interessado": "diversos", "assunto": "Itens 5 a 47 votados em bloco (exceto 21 destacado e retirados), com ressalvas individuais nos itens 8, 10 e 25",
+   "tema": ["bloco"], "relator": "diversos", "resultado": "aprovado; item 25 ficou sem decisão",
+   "resumo_voto": "Bloco aprovado com posições divergentes anotadas em ata: um diretor não vota no item 8 (voto já proferido pela antecessora); votos-vista nos itens 10 (Agnes) e 25 (Daniel Danna); item 25 sem deliberação concluída; item 24 retirado a pedido do representante (problema de saúde).",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "aprova o bloco, mantém seus votos nos itens 8, 10 e 25", "ts": "0:04:45", "justificativa": "", "confianca": "baixa"},
+    {"diretor": "Fernando Mosna", "voto": "aprova o bloco; no item 8 mantém voto já proferido; no item 10 acompanha voto-vista de Agnes", "ts": "0:03:27", "justificativa": "item 24 retirado a pedido do representante por saúde", "confianca": "baixa"},
+    {"diretor": "Daniel Danna", "voto": "aprova o bloco", "ts": "0:04:30", "confianca": "baixa"},
+    {"diretor": "Ivo (diretor recém-empossado; sobrenome não dito)", "voto": "aprova o bloco; não vota no item 8 (voto da antecessora); acompanha Agnes no item 25", "ts": "0:03:27", "confianca": "baixa"}
+   ]},
+  {"id": "1", "ts": "0:05:00", "processo": "48500.009732/2025 (legenda)", "interessado": "MME / EPE / CCEE; empreendedores hidrelétricos (PCH/CGH)", "assunto": "Aprovação do edital do Leilão nº 3/2025 (energia nova A-5/2025, fonte hidrelétrica, suprimento a partir de 1/1/2030, leilão em 22/8/2025) após CP 12/2025; TUSD de referência",
+   "tema": ["leilões (geração)", "outorgas de geração (hidrelétrica)", "regulação normativa"], "relator": "Agnes da Costa", "resultado": "aprovado por maioria, vencido Fernando Mosna",
+   "resumo_voto": "Após Portaria MME 113/2025 ajustar diretrizes à MP 1304 (revogação do art. 21 da Lei 14.182), PF e CEL entendem não ser necessária nova CP; preço-teto R$ 411/MWh calculado pela EPE (custo marginal de referência).",
+   "votos": [
+    {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "0:16:01", "justificativa": "alterações da Portaria 113 são diretrizes do MME sem discricionariedade da ANEEL; não cabe questionar a escolha de fonte do ministério; mantém o voto", "confianca": "alta"},
+    {"diretor": "Fernando Mosna", "voto": "diverge, vencido (não aprova o edital)", "ts": "0:40:12", "justificativa": "leilão nasceu vinculado ao art. 21 da Lei da Eletrobras e virou discricionário 100% PCH sem motivação do MME; cita art. 2º, I, da Lei 10.848 (modicidade) e entrevista do ministro defendendo competição entre fontes", "tom": "crítico, técnico-jurídico", "confianca": "alta"},
+    {"diretor": "Daniel Danna", "voto": "acompanha a relatora", "ts": "0:40:12", "confianca": "baixa"},
+    {"diretor": "Ivo (diretor recém-empossado; sobrenome não dito)", "voto": "acompanha a relatora", "ts": "0:40:12", "confianca": "baixa"}
+   ]},
+  {"id": "3", "ts": "0:40:40", "processo": "48500.007885/2022 (legenda)", "interessado": "Termelétrica Rio Grande S.A. (UTE Rio Grande, RS)", "assunto": "Recurso contra Despacho SFT 1087/2024 que aplicou multa editalícia de cerca de R$ 235 milhões por descumprimento do cronograma da UTE Rio Grande; sustentação oral de Rafael Janiques",
+   "tema": ["fiscalização e sanções (multa)", "recursos administrativos", "outorgas de geração (térmica)"], "relator": "Fernando Mosna", "resultado": "retirado de pauta pelo relator",
+   "resumo_voto": "PF opina por conhecer e negar provimento; defesa alega fato do príncipe e sentença que anulou revogação da outorga; relator retira de pauta para reunião com a empresa e avaliar a judicialização (apelação no TRF e suspensão no STJ).",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, retira de pauta", "ts": "0:56:13", "justificativa": "entender contornos jurídicos da judicialização antes de decidir; nota que a empresa nunca pediu reunião desde julho de 2024", "confianca": "alta"}
+   ]},
+  {"id": "21", "ts": "1:01:23", "processo": "48500.902945/2012 (legenda incerta)", "interessado": "Maracanaú Geradora de Energia S.A. (UTE Maracanaú I)", "assunto": "Recurso contra Despacho SFT 348/2024 que suspendeu a operação comercial da UG5 da UTE Maracanaú I; sustentação oral de Caio Figueiredo Cavalcante",
+   "tema": ["fiscalização e sanções", "recursos administrativos", "outorgas de geração (térmica)"], "relator": "Fernando Mosna", "resultado": "aprovado por unanimidade (recurso conhecido e não provido)",
+   "resumo_voto": "Unidade indisponível não pode estar em operação comercial; CCEAR por disponibilidade assume risco de acionamento acima do previsto (PF, Parecer 50/2025).",
+   "votos": [
+    {"diretor": "Fernando Mosna", "voto": "relator, conhece e nega provimento", "ts": "1:11:50", "justificativa": "fundamentos da manifestação da procuradoria", "confianca": "alta"},
+    {"diretor": "Daniel Danna", "voto": "acompanha o relator", "ts": "1:12:23", "confianca": "media"},
+    {"diretor": "Ivo (diretor recém-empossado; sobrenome não dito)", "voto": "acompanha o relator", "ts": "1:12:31", "confianca": "media"},
+    {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:12:31", "confianca": "media"}
+   ]}
+ ],
+ "retirados": ["2", "4", "11", "14", "15", "16", "17", "18", "24", "26", "3 (retirado na sessão pelo relator)"],
+ "limites_da_analise": ["Daniel Danna e Ivo não estão na lista de diretores do config; nomes registrados como ditos (sobrenome de Ivo não dito).", "Rótulos de falante do .md errados em vários trechos (ex.: relatório do item 1 rotulado Ricardo Tili; voto de Mosna rotulado Agnes).", "Bloco: atribuição das ressalvas dos itens 8, 10, 24 e 25 a cada diretor é incerta.", "Item 1: só um 'voto com a relatora' audível; atribuição aos dois demais é inferida do resultado por maioria.", "Números de processo vindos da legenda podem estar errados."]
+}

@@ -1,0 +1,86 @@
+{
+  "meta": {"video_id": "wvgA5kGgrvM", "fonte": "legenda automática do YouTube; falantes inferidos pelo conteúdo; ts = tempo do vídeo (sessão começa ~0:17); ts de quem só acompanha são aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "8ª Reunião Pública Ordinária de 2025", "data": "2025-03-19", "formato": "presencial com transmissão no YouTube",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Ludimila Lima", "Fernando Mosna", "Ricardo Tili"],
+    "ausentes": [],
+    "observacoes": [
+      "Quórum de cinco diretores aptos a deliberar; pauta com 42 itens, itens 4 a 42 em bloco; retirados de pauta os itens 7, 14 e 22.",
+      "Ordem: bloco, depois itens 2, 1 e 3. Sustentações orais nos itens 1 (Conselho de Consumidores e CPFL Santa Cruz) e 3 (Abragel e Minas PCH).",
+      "Bloco: itens 5 e 17 aprovados por maioria; demais por unanimidade.",
+      "Item 1 (RTA CPFL Santa Cruz): pedido de vista após debate sobre diferimento positivo; parâmetros tarifários prorrogados pela REH 3.311/2024.",
+      "Item 3 (cautelar Abragel): retirado de pauta pela relatora após questionamentos de forma de Fernando Mosna e da Procuradoria.",
+      "Item 2 (RTE Equatorial Piauí): provimento por maioria, com consulta pública por intercâmbio documental de 45 dias e redistribuição do processo."
+    ]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:24:03",
+      "processo": "itens 4 a 42 da pauta (exceto 7, 14 e 22)", "interessado": "diversos; item 5: FVs Francisco Sá (leilão 1/2018); item 17: UTE Jaguatirica 2",
+      "assunto": "Itens de bloco. Item 5: recurso contra multa editalícia por atraso no cronograma de implantação de FVs Francisco Sá (cláusula 17 do edital do leilão 1/2018). Item 17: penalidade à UTE Jaguatirica 2 por atraso de 10 dias da primeira unidade geradora (multa editalícia x conversão em advertência).",
+      "tema": ["fiscalização e sanções (multa)", "leilões (geração)", "outorgas de geração (solar, térmica)", "recursos administrativos"],
+      "relator": "diversos (item 5: Fernando Mosna; item 17: não identificado)", "resultado": "aprovados; itens 5 e 17 por maioria, demais por unanimidade",
+      "resumo_voto": "No item 5 houve divergência quanto a manter a multa editalícia (negar provimento aos recursos) x voto do relator Fernando Mosna. No item 17 houve três posições: relator converteu a multa em advertência; divergência inaugurada por Agnes da Costa na 1ª RPO aplicando a multa editalícia na forma do TIP; e uma terceira posição.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "aprova o bloco; no item 5 não vota (já há voto do diretor antecessor); no item 17 acompanha a divergência de Agnes da Costa", "ts": "0:24:22", "justificativa": "aplicar a multa editalícia na forma do TIP, com dosimetria do relator e NT 10/2022-SFG, considerando atraso de 10 dias; discorda da conversão em advertência", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "no item 5 diverge: conhece e nega provimento aos recursos, mantendo a multa editalícia; no item 17 mantém o voto; aprova o restante", "ts": "0:25:10", "justificativa": "manter multa da SFG (despacho 1875/2023), cerca de 0,44% do investimento, por descumprimento do cronograma; execução da garantia de fiel cumprimento se não recolhida", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "relator do item 5, mantém o voto; no item 17 acompanha a divergência; aprova o restante", "ts": "0:26:30", "confianca": "media"},
+        {"diretor": "não identificado", "voto": "aprova os itens do bloco", "ts": "0:26:45", "confianca": "baixa"},
+        {"diretor": "não identificado", "voto": "acompanha Fernando Mosna no item 5; relator do item 17, mantém o voto; aprova o restante", "ts": "0:26:50", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:28:03",
+      "processo": "48500.002852/2019-74", "interessado": "Equatorial Piauí Distribuidora de Energia S.A. (ex-Cepisa)",
+      "assunto": "Pedido de reconsideração contra o despacho 2.830/2019 que indeferiu a revisão tarifária extraordinária (RTE) em substituição ao reajuste de 2019; relator original Giácomo Francisco Bassi Almeida, voto-vista anterior de Fernando Mosna, voto-vista de Ricardo Tili",
+      "tema": ["tarifas e revisão tarifária (RTE)", "recursos administrativos", "regulação normativa (consulta pública)"],
+      "relator": "Giácomo Francisco Bassi Almeida (relator original; voto-vista de Ricardo Tili)", "resultado": "aprovado por maioria: provimento ao pedido de reconsideração, instauração de consulta pública por intercâmbio documental de 45 dias e redistribuição do processo",
+      "resumo_voto": "Tili acompanha o relator original e o voto-vista de Mosna: indeferir a RTE na abertura da CP foi prematuro, a base de remuneração poderia ser avaliada durante a consulta (no caso Acre ficou adequada 60 dias depois; inspeção da SFE em 2020 atestou boa aderência da BDGD). Ludimila Lima diverge: base protocolada na véspera da RPO não teve tempo de ser avaliada; alinha-se à diretoria da época. Dispositivo ajustado em plenário para incluir CP e redistribuição.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "voto-vista: conhece e dá provimento; instaura CP e redistribui", "ts": "0:29:30", "justificativa": "decisão da diretoria de 2019 foi prematura; poderia ter aberto a consulta pública e avaliado a base até o fechamento da RTE; reavaliação da base era atrativo dos leilões das ex-Eletrobras", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "voto-vista anterior (jan/2023) pelo provimento", "ts": "0:30:00", "justificativa": "registrado no relatório; não votou de novo em plenário", "confianca": "media"},
+        {"diretor": "Ludimila Lima", "voto": "diverge: conhece e nega provimento", "ts": "0:44:30", "justificativa": "a base apresentada na véspera da reunião não tinha qualidade avaliada para abrir CP e seria blindada por 30 anos; a RTE acabou concedida em 2020 no limite do terceiro reajuste, sem prejuízo", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator original (Giácomo), voto declarado anteriormente", "ts": "0:45:00", "confianca": "baixa"},
+        {"diretor": "Agnes da Costa", "voto": "mantém o voto anterior (sentido não claro na legenda)", "ts": "0:45:00", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:46:54",
+      "processo": "48500.003320/2024-92", "interessado": "Companhia Jaguari de Energia (CPFL Santa Cruz); sustentações: Marcelo dos Santos Morais (Conselho de Consumidores) e Márcio Roberto (CPFL Santa Cruz)",
+      "assunto": "Reajuste tarifário anual 2025 da CPFL Santa Cruz (a partir de 22/03/2025), efeito médio -3,44%; pleito de diferimento positivo (cerca de R$ 111 milhões) para atenuar oscilação 2025-2026",
+      "tema": ["tarifas e revisão tarifária (RTA, diferimento)", "regulação normativa (CP 8/2025)", "institucional/TCU"],
+      "relator": "Agnes da Costa", "resultado": "pedido de vista; deliberação adiada (parâmetros prorrogados pela REH 3.311/2024)",
+      "resumo_voto": "Relatora nega o diferimento: o caso não passa nos critérios 1 e 2 da CP 8/2025 (efeito -3,44% não excepcional); propõe ajuste do critério 3 para não inverter sinal do reposicionamento e envia o voto à CP 8. Mosna defende o diferimento (+2,7% em 2025 e 2026) com base no acórdão TCU (impacto futuro e custo-benefício) e no apoio do Conselho de Consumidores.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, homologa efeito médio -3,44% e nega o diferimento", "ts": "1:29:09", "justificativa": "não há elementos para convicção diferente dos critérios da CP 8; -3,44% não é excepcional; evitar banalizar o instrumento", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "diverge: favorável ao diferimento (+2,7% em 2025 e 2026)", "ts": "1:30:28", "justificativa": "CP 8 é só abertura, não norma; o TCU recomenda olhar impacto futuro e custo-benefício; -3,4% seguido de +16% é oscilação indesejável; conselho de consumidores concorda", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "diverge da relatora quanto à vedação de inversão de sinal; apoia diretoria com discricionariedade", "ts": "1:39:29", "justificativa": "zero é só um marco; 2,7% fica abaixo da inflação; prefere menos amarras e mais juízo da diretoria", "confianca": "media"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha a relatora", "ts": "1:41:58", "justificativa": "o resultado do processo tarifário é a melhor informação; a estimativa de 2026 deve ser tratada em 2026; receio de sempre formar colchão e tirar do consumidor a redução", "confianca": "media"},
+        {"diretor": "não identificado", "voto": "pede vista", "ts": "1:45:45", "justificativa": "invoca prorrogação dos parâmetros pela REH 3.311/2024", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "3", "ts": "1:45:54",
+      "processo": "48500.007845/2025-88", "interessado": "Abragel (Associação Brasileira de Geração de Energia Limpa); sustentações: Charles Lenzi (Abragel) e José Guilherme do Nascimento (Minas PCH)",
+      "assunto": "Medida cautelar para suspender prazos da REN 1.033/2022 (redação da REN 1.085/2024) sobre apuração de desempenho de hidrelétricas não despachadas centralmente no MRE (marco de 1º/05/2025) até a conclusão da CP 1/2025",
+      "tema": ["outorgas de geração (hidrelétrica, PCH)", "comercialização (CCEE, MRE)", "regulação normativa (consulta pública)"],
+      "relator": "Agnes da Costa", "resultado": "retirado de pauta pela relatora",
+      "resumo_voto": "Relatora propunha prorrogar o marco para 6 meses após a conclusão da CP 1/2025 e extinguir a cautelar por perda de objeto. Mosna questiona alterar resolução sem consulta pública (art. 9º da Lei 13.848) e prazo indefinido; a Procuradoria concorda quanto à forma. Mosna antecipa que concederia a cautelar postergando para 1º de maio (de 2026). Relatora retira o processo.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, propôs prorrogação e extinção da cautelar; retira de pauta", "ts": "2:09:18", "justificativa": "marco de 1º/05/2025 inexequível segundo a SGM; ancorar novo prazo na conclusão da CP 1", "confianca": "alta"},
+        {"diretor": "Fernando Mosna", "voto": "diverge da forma: concederia a cautelar postergando até 1º de maio", "ts": "2:11:17", "justificativa": "não se altera norma precedida de CP só por entendimento da diretoria; prazo de 6 meses após a CP é indefinido e quebra a lógica dos marcos de maio", "confianca": "alta"},
+        {"diretor": "não identificado", "voto": "questiona se a mera extensão de prazo dispensaria consulta pública", "ts": "2:20:00", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": ["itens 7, 14 e 22 (retirados antes da sessão)", "item 3 (retirado pela relatora durante a deliberação)"],
+  "limites_da_analise": [
+    "Transcrição sem marcação de falantes ao longo da sessão; autoria de vários votos inferida pelo conteúdo, com confiança baixa.",
+    "Gentil Nogueira consta no cabeçalho do .md, mas a abertura menciona cinco diretores aptos; presença não confirmada e sem fala identificada.",
+    "Bloco: não foi possível atribuir com segurança os votos dos itens 5 e 17 nem o relator do item 17.",
+    "Item 2: votos de Sandoval Feitosa e Agnes da Costa não ficaram claros; houve fala de quem diz não votar por suceder o diretor Giácomo (não identificado).",
+    "Item 1: autor do pedido de vista não identificado (possivelmente Fernando Mosna).",
+    "Números de processos, despachos e valores vêm da legenda automática e podem estar errados (ex.: despacho 2829 x 2830/2019)."
+  ]
+}

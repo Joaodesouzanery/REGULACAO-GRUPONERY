@@ -1,0 +1,106 @@
+{
+  "meta": {"video_id": "GlwbYaDwYMk", "fonte": "legenda automática do YouTube; falantes inferidos; ts = tempo do vídeo (sessão começa ~0:18:49); ts de votos de seguidores aproximados", "versao_esquema": 1},
+  "reuniao": {
+    "numero": "9ª RPO 2025", "data": "2025-03-26", "formato": "presencial com transmissão",
+    "presidente_da_sessao": "Sandoval Feitosa (Diretor-Geral)",
+    "diretores_presentes": ["Sandoval Feitosa", "Agnes da Costa", "Ludimila Lima", "Fernando Mosna", "Ricardo Tili"],
+    "ausentes": [],
+    "observacoes": ["Pauta de 39 itens; itens 6 a 39 em bloco (item 7 destacado, item 37 retirado de pauta); bloco aprovado por unanimidade, com pedido de vista do item 12 por um diretor.", "Itens 5 (Energisa Acre) e 4 (Energisa Rondônia): votos-vista de Agnes da Costa; no item 5 prevaleceu a vista (negar provimento), no item 4 prevaleceu o voto subsistente do relator Hélvio Guerra (dar provimento, consulta pública de 45 dias e redistribuição).", "Item 7 (Nova Palma, auto de infração AGERGS sobre MMGD) retirado de pauta pela relatora após sustentação da ABRADEE e debate sobre grupo 4 x grupo 5 da REN 846 e reformatio in pejus.", "Encerrada às ~3:20 do vídeo."]
+  },
+  "itens": [
+    {
+      "id": "bloco", "ts": "0:23:20", "processo": "itens 6 a 39 (exceto 7 destacado e 37 retirado)", "interessado": "diversos",
+      "assunto": "Itens de bloco da 9ª RPO 2025", "tema": ["institucional"], "relator": "diversos",
+      "resultado": "Aprovados por unanimidade, exceto item 12, com pedido de vista",
+      "resumo_voto": "Aprovação em bloco; um diretor (não identificado com segurança na legenda) pediu vista do item 12.",
+      "votos": [
+        {"diretor": "Sandoval Feitosa", "voto": "aprova os itens do bloco", "ts": "0:23:35", "justificativa": "Proclama aprovação por unanimidade.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "aprova os itens do bloco", "ts": "0:23:22", "justificativa": "Aprova o bloco (ordem dos falantes inferida).", "confianca": "baixa"},
+        {"diretor": "Ludimila Lima", "voto": "aprova os itens do bloco", "ts": "0:23:22", "justificativa": "Aprova o bloco (ordem dos falantes inferida).", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "aprova os itens do bloco", "ts": "0:23:25", "justificativa": "Aprova o bloco (ordem dos falantes inferida).", "confianca": "baixa"},
+        {"diretor": "Ricardo Tili", "voto": "aprova os itens do bloco", "ts": "0:23:25", "justificativa": "Aprova o bloco (ordem dos falantes inferida); um dos diretores pediu vista do item 12.", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "1", "ts": "0:23:55", "processo": "48500.009732/2025-09 (número incerto)", "interessado": "MME / SEL / SGM",
+      "assunto": "Abertura de consulta pública sobre minuta de edital do Leilão de Energia Nova A-5 de 2025 (Leilão 3/2025; hidrelétricas de 1 a 50 MW, Lei 14.182)", "tema": ["leilões", "outorgas de geração", "regulação normativa"], "relator": "Agnes da Costa",
+      "resultado": "Unanimidade: consulta pública de 26/03 a 12/05/2025",
+      "resumo_voto": "Instaurar consulta pública para aprimorar minuta do edital e anexos do LEN A-5/2025; apresentação técnica de Igor (SEL).",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, aprova", "ts": "0:31:00", "justificativa": "Voto reflete proposta da área técnica; consulta pública de 47 dias.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "0:33:20", "justificativa": "Comenta reunião com o MME (secretário Thiago Barral) sobre seis leilões no ano.", "confianca": "alta"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha a relatora", "ts": "0:33:03", "justificativa": "Vota com a relatora.", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "0:33:05", "justificativa": "Vota com a relatora.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "0:33:08", "justificativa": "Vota com a relatora.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "2", "ts": "0:33:59", "processo": "48500.007635/2025-90 (número incerto)", "interessado": "STR; Energisa Mato Grosso do Sul; centrais geradoras em ICGs (Chapadão, Rio Brilhante)",
+      "assunto": "Consulta pública sobre AIR 2/2025: TUSDg aplicável a centrais geradoras na transferência de ICGs e IEGs às distribuidoras", "tema": ["tarifas e revisão tarifária", "transmissão", "regulação normativa"], "relator": "Ludimila Lima",
+      "resultado": "Unanimidade: consulta pública (intercâmbio documental) de 27/03 a 12/05/2025",
+      "resumo_voto": "Instaurar CP de 47 dias sobre AIR que recomenda alternativa intermediária (mantém tarifa estabilizada, atualização por IGP-M/fator X); apresentação de Diego (STR).",
+      "votos": [
+        {"diretor": "Ludimila Lima", "voto": "relatora, aprova", "ts": "0:49:30", "justificativa": "Necessidade de regra para o ciclo 2025-2026 dada a transferência das ICGs Chapadão e Rio Brilhante em 1/7/2025.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha a relatora", "ts": "0:51:10", "justificativa": "Proclama por unanimidade.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha a relatora", "ts": "0:51:00", "justificativa": "Vota com a relatora.", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha a relatora", "ts": "0:51:00", "justificativa": "Vota com a relatora.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha a relatora", "ts": "0:51:00", "justificativa": "Acompanha a relatora.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "3", "ts": "0:51:22", "processo": "48500.003426/2024-96", "interessado": "ENBPar; Itaipu Binacional; distribuidoras cotistas",
+      "assunto": "Tarifa de repasse da potência contratada de Itaipu para 2025 (abr-dez), após Decreto 12.390/2025", "tema": ["tarifas e revisão tarifária", "comercialização"], "relator": "Fernando Mosna",
+      "resultado": "Aprovado (sem divergência): tarifa mantida em US$ 17,66/kW.mês",
+      "resumo_voto": "Homologa tarifa de repasse de Itaipu de 1/4 a 31/12/2025 equivalente a 17,66/kW.mês; o decreto permitiu usar valores devolvidos pelas distribuidoras para cobrir o saldo negativo da conta e criar reserva técnica financeira; apresentação de André Neves (STR).",
+      "votos": [
+        {"diretor": "Fernando Mosna", "voto": "relator, aprova", "ts": "1:08:00", "justificativa": "Com o Decreto 12.390 o saldo negativo é compensado e a tarifa de 2024 pode ser mantida sem reajuste.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o relator", "ts": "1:13:30", "justificativa": "Elogia a medida estrutural (reserva técnica financeira) e o relator, que alertou MME e ENBPar; sem ela a tarifa subiria.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "acompanha o relator", "ts": "1:13:28", "justificativa": "Vota com o relator.", "confianca": "media"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha o relator", "ts": "1:13:30", "justificativa": "Vota com o relator.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "1:13:32", "justificativa": "Acompanha o voto do relator.", "confianca": "media"}
+      ]
+    },
+    {
+      "id": "5", "ts": "1:14:14", "processo": "48500.002087/2019 (número incerto)", "interessado": "Energisa Acre (Eletroacre); sustentação oral de Rodrigo Santana (Energisa)",
+      "assunto": "Pedido de reconsideração contra Despacho 2829/2019 que indeferiu RTE em substituição ao reajuste de 2019 (avaliação completa da BRR; ausência de BDGD)", "tema": ["tarifas e revisão tarifária", "recursos administrativos"], "relator": "Ricardo Tili",
+      "resultado": "Por maioria, conhecer e negar provimento (voto-vista de Agnes da Costa); vencidos Ricardo Tili e, provavelmente, Fernando Mosna",
+      "resumo_voto": "Relator (voto de 23/04/2024) dava provimento e abria CP; voto-vista de Agnes nega: BDGD não entregue antes da decisão, janela contratual de 3 anos, impacto de ~46,7 milhões (~4,78%) aos consumidores; distingue do caso Equatorial Piauí.",
+      "votos": [
+        {"diretor": "Ricardo Tili", "voto": "relator, dá provimento (vencido)", "ts": "2:36:37", "justificativa": "Mantém o entendimento do voto como relator do pedido de reconsideração.", "confianca": "alta"},
+        {"diretor": "Agnes da Costa", "voto": "voto-vista: negar provimento", "ts": "1:58:00", "justificativa": "Contrato exige observar regulamentos vigentes; sem BDGD adequada não há como validar a BRR completa; a consulta pública não seria mera formalidade; ampla janela contratual afastava pressa.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o voto-vista", "ts": "2:37:20", "justificativa": "Acompanha a vista e proclama a maioria.", "confianca": "alta"},
+        {"diretor": "Ludimila Lima", "voto": "acompanha o voto-vista", "ts": "2:37:13", "justificativa": "'Eu acompanho o voto vista da diretora Agnes' (atribuição inferida; foi vencida no caso Piauí, que deu provimento).", "confianca": "baixa"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator (vencido)", "ts": "2:37:16", "justificativa": "'Eu voto com relator' (atribuição inferida; votou pelo provimento no caso Piauí).", "confianca": "baixa"}
+      ]
+    },
+    {
+      "id": "4", "ts": "2:37:55", "processo": "48500.002086/2019", "interessado": "Energisa Rondônia (CERON); Energisa desistiu de nova sustentação",
+      "assunto": "Pedido de reconsideração contra Despacho 2827/2019 que indeferiu RTE em substituição ao reajuste de 2019", "tema": ["tarifas e revisão tarifária", "recursos administrativos"], "relator": "Hélvio Guerra",
+      "resultado": "Por maioria, conhecer e dar provimento (voto subsistente do relator); consulta pública de 45 dias (26/03 a 12/05/2025, depois ajustada para iniciar em 27/03) e redistribuição do processo; vencidos Agnes da Costa e Sandoval Feitosa",
+      "resumo_voto": "Hélvio Guerra, já fora do colegiado, deixou voto subsistente pelo provimento; Agnes leu só o dispositivo do voto-vista (mesmo racional do item 5); Ludimila não votou por suceder voto subsistente.",
+      "votos": [
+        {"diretor": "Hélvio Guerra", "voto": "relator, dá provimento (voto subsistente)", "ts": "2:41:30", "justificativa": "Voto anterior subsistente pelo deferimento da RTE.", "confianca": "media"},
+        {"diretor": "Agnes da Costa", "voto": "voto-vista: negar provimento (vencida)", "ts": "2:40:14", "justificativa": "Mesmo racional do item 5; mantém o voto mesmo na fixação do prazo da CP.", "confianca": "alta"},
+        {"diretor": "Sandoval Feitosa", "voto": "acompanha o voto-vista (vencido)", "ts": "2:42:20", "justificativa": "Acompanha a vista; depois acompanha a fixação de 45 dias de CP por dever de executar a decisão.", "confianca": "alta"},
+        {"diretor": "Ricardo Tili", "voto": "acompanha o relator", "ts": "2:42:12", "justificativa": "Vota com o relator; lembrou a necessidade de ler o dispositivo e de fixar prazo da CP e redistribuir.", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "acompanha o relator", "ts": "2:42:15", "justificativa": "Acompanha o voto do relator.", "confianca": "media"},
+        {"diretor": "Ludimila Lima", "voto": "não vota (sucede voto subsistente do relator)", "ts": "2:42:08", "justificativa": "'Eu não me manifesto, né, porque tem voto do diretor'.", "confianca": "alta"}
+      ]
+    },
+    {
+      "id": "7", "ts": "2:46:05", "processo": "48500.00623/2023 (número incerto)", "interessado": "Nova Palma Energia; AGERGS; sustentação oral de Lucas Malheiros (ABRADEE, terceiro interessado)",
+      "assunto": "Recurso contra auto de infração 3/2023 da AGERGS (atendimento a MMGD; multa de R$ 336.376,80; grupo 5 x grupo 4 da REN 846)", "tema": ["fiscalização e sanções", "geração distribuída", "recursos administrativos"], "relator": "Agnes da Costa",
+      "resultado": "Retirado de pauta pela relatora",
+      "resumo_voto": "Dispositivo lido: negar provimento, manter enquadramento e multa de R$ 336.376,80 com dosimetria alterada; após debate, a relatora retirou para reanálise.",
+      "votos": [
+        {"diretor": "Agnes da Costa", "voto": "relatora, retira de pauta", "ts": "3:12:56", "justificativa": "Primeiro caso de fiscalização de MMGD; vai reanalisar enquadramento, reformatio in pejus e valores dos itens 40-41.", "confianca": "alta"},
+        {"diretor": "Ludimila Lima", "voto": "sem voto (debate)", "ts": "3:08:00", "justificativa": "Leitura do voto mostra que a não conformidade está na exigência de obras que impediram o acesso, alinhado ao enquadramento da procuradoria.", "confianca": "media"},
+        {"diretor": "Fernando Mosna", "voto": "sem voto (debate)", "ts": "3:09:00", "justificativa": "Concorda com grupo 5 (Lei 14.300, art. 2º); questiona majorar o dano de 50% para 75% sem reformatio in pejus.", "confianca": "media"},
+        {"diretor": "Sandoval Feitosa", "voto": "sem voto (debate)", "ts": "3:11:00", "justificativa": "Majorar exigiria ouvir o recorrente; cautela em tratar MMGD como 'acessante'; cita inciso de impor ônus ao solicitante.", "confianca": "media"},
+        {"diretor": "Ricardo Tili", "voto": "sem manifestação registrada", "ts": "3:12:56", "justificativa": "Não se manifestou no debate.", "confianca": "baixa"}
+      ]
+    }
+  ],
+  "retirados": ["Item 37 (retirado de pauta antes da sessão; assunto não lido)", "Item 7 (Nova Palma, retirado pela relatora Agnes da Costa)"],
+  "limites_da_analise": ["Só há um marcador de tempo no .md; ts calculados pela transcrição JSON, aproximados para votos de seguidores.", "Ordem dos votos não identifica falantes; no item 5 a atribuição de Ludimila (vista) e Mosna (relator) é inferida; no bloco não se sabe quem pediu vista do item 12.", "Números de processo e valores vêm de legenda automática e podem estar errados.", "Hélvio Guerra não estava presente; voto subsistente contado no item 4.", "Itens do bloco (6 a 39) não detalhados."]
+}

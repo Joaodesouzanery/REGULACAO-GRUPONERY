@@ -1,0 +1,304 @@
+{
+ "meta": {
+  "video_id": "RW_P2yqmtLc",
+  "fonte": "legenda automática do YouTube; falantes inferidos (rótulos {..} pouco confiáveis); ts de votos de seguidores aproximados",
+  "versao_esquema": 1
+ },
+ "reuniao": {
+  "numero": "31",
+  "data": "2025-08-26",
+  "formato": "presencial com participação remota (diretor Ivo)",
+  "presidente_da_sessao": "Agnes da Costa (diretora-geral substituta)",
+  "diretores_presentes": [
+   "Agnes da Costa",
+   "Fernando Mosna",
+   "Daniel Danna",
+   "Ivo (diretor substituto)"
+  ],
+  "ausentes": [
+   "Sandoval Feitosa (ausência justificada)"
+  ],
+  "observacoes": [
+   "31ª Reunião Pública Ordinária de 2025; ata da 30ª RPO aprovada.",
+   "Informes: aprovação no Senado de Gentil Nogueira e Willamy Frota (aguardando nomeação); leilão A-5/2025 de PCHs/CGHs/UHEs; CP 28/2025 do leilão de transmissão 1/2026.",
+   "Agnes retirou de pauta o processo do marco regulatório de armazenamento (CP 39, relator Daniel Danna, vista dela) após ofício do MME/SNTEP pedindo reuniões técnicas sobre tarifação do uso da rede.",
+   "Retirados de pauta itens 3, 15 e 16; destacados itens 8 e 19; sustentações orais nos itens 4 e 19.",
+   "Ivo ausentou-se antes do item 19 e deixou votos nos itens 4, 19 e 8."
+  ]
+ },
+ "itens": [
+  {
+   "id": "bloco",
+   "ts": "0:12:04",
+   "processo": "",
+   "interessado": "diversos",
+   "assunto": "Itens de bloco 5 a 46 (votos disponibilizados previamente), exceto 8 e 19 destacados e 15 e 16 retirados",
+   "tema": [
+    "diversos"
+   ],
+   "relator": "diversos",
+   "resultado": "aprovado por unanimidade (no item 14 um diretor não vota por haver voto já proferido pelo ex-diretor Ricardo Tili)",
+   "resumo_voto": "Bloco aprovado; item 14 com relatoria/voto de Ricardo Tili; Agnes destacou o item 8.",
+   "votos": [
+    {
+     "diretor": "Daniel Danna",
+     "voto": "aprova o bloco; no item 14 acompanha o relator",
+     "ts": "0:12:12",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ivo (diretor substituto)",
+     "voto": "aprova o bloco; não vota no item 14 (voto já apresentado por Ricardo Tili)",
+     "ts": "0:12:20",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "aprova o bloco e mantém seu voto no item 14",
+     "ts": "0:12:29",
+     "confianca": "media"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "aprova o bloco e pede destaque do item 8",
+     "ts": "0:12:35",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "1",
+   "ts": "0:13:00",
+   "processo": "48500.003802/2024-42",
+   "interessado": "SEL/SGM; distribuidoras dos sistemas isolados (Amazonas, Pará)",
+   "assunto": "Aprovação do edital do Leilão 1/2025 (suprimento aos sistemas isolados 2025), após CP 2/2025; 3 lotes (AM e PA), mínimo de 22% renovável ou gás natural; preços-teto informados pelo MME",
+   "tema": [
+    "leilões (geração)",
+    "sistemas isolados",
+    "CDE e encargos setoriais (CCC)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova edital e anexos; PETRIB incorporado à receita variável; CCEE deixa de ser interveniente do CCESI; antecipação de suprimento para Anamã, Caapiranga e Codajás conforme Portaria MME 116/2025. Apresentação técnica de Igor Caminha (SEL).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "0:32:21",
+     "confianca": "alta",
+     "justificativa": "primeiro leilão de sistema isolado com renovabilidade mínima; destaca interação com EPE e MME"
+    },
+    {
+     "diretor": "Daniel Danna",
+     "voto": "acompanha o relator",
+     "ts": "0:36:54",
+     "confianca": "baixa",
+     "justificativa": "elogia relatoria: leilão mais difícil, mais desafiador com a renovabilidade"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:36:57",
+     "confianca": "media",
+     "justificativa": "leilão foca em soluções de suprimento e inventividade privada; desafio futuro com excludentes de responsabilidade"
+    },
+    {
+     "diretor": "Ivo (diretor substituto)",
+     "voto": "acompanha o relator",
+     "ts": "0:36:54",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "ts": "0:37:30",
+   "processo": "48500.003674/2025-18",
+   "interessado": "Energisa Paraíba (distribuidora)",
+   "assunto": "Revisão tarifária periódica 2025 da Energisa Paraíba, a partir de 28/08/2025, após CP 24/2025: efeito médio 13,59% (AT 12,11%, BT 13,94%)",
+   "tema": [
+    "tarifas e revisão tarifária (RTP)",
+    "CDE e encargos setoriais"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Aprova RTP com efeito médio de 13,59%, fixa TUSD/TE, recursos CDE, fator X e perdas 2025-2028. Apresentação de Fabiano (STR).",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "0:54:57",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "0:58:09",
+     "confianca": "media",
+     "justificativa": "destaca peso da CDE uso (2,71%) e CDE GD (~1%); reflexão sobre alívio da CDE por mudanças legais no Congresso"
+    },
+    {
+     "diretor": "Daniel Danna",
+     "voto": "acompanha o relator",
+     "ts": "0:58:08",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ivo (diretor substituto)",
+     "voto": "acompanha o relator",
+     "ts": "0:58:08",
+     "confianca": "baixa"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "ts": "1:00:50",
+   "processo": "48500.020505/2025-42",
+   "interessado": "ABRADEE (associação de distribuidoras); sustentação oral de Ricardo Brandão",
+   "assunto": "Medida cautelar da ABRADEE para suspender o plano de resultados da SFT com metas de TMAE e interrupções acima de 24 h (ciclo 2025/2026) até regulamentação",
+   "tema": [
+    "fiscalização e sanções (plano de resultados, fiscalização responsiva)",
+    "qualidade do serviço de distribuição",
+    "recursos administrativos"
+   ],
+   "relator": "Daniel Danna",
+   "resultado": "cautelar conhecida e negada por unanimidade",
+   "resumo_voto": "Sem fumaça do bom direito: plano de resultados não cria indicador nem limite regulatório, é instrumento de fiscalização responsiva (REN 846/2019); TMAE piorou 32% desde 2015; 27 de 51 distribuidoras com metas; sem perigo da demora (não sancionatório).",
+   "votos": [
+    {
+     "diretor": "Daniel Danna",
+     "voto": "relator, conhece e nega provimento",
+     "ts": "1:18:07",
+     "confianca": "alta",
+     "justificativa": "plano de resultados é referência para indução de melhoria, alternativa ao processo sancionador; suspender engessaria a fiscalização"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha o relator",
+     "ts": "1:44:21",
+     "confianca": "media",
+     "justificativa": "fiscalização como supervisão (oversight) e indução; atendimento emergencial é tema que a sociedade e o TCU olham; sugere normatizar a fiscalização responsiva"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "acompanha o relator",
+     "ts": "1:42:46",
+     "confianca": "media",
+     "justificativa": "apoia fiscalização responsiva; 22 das 27 distribuidoras pactuaram metas"
+    },
+    {
+     "diretor": "Ivo (diretor substituto)",
+     "voto": "acompanha o relator (voto deixado antes de se ausentar)",
+     "ts": "1:57:22",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "ts": "1:44:40",
+   "processo": "48500.017332/2025-30",
+   "interessado": "CEEE-G / CSN Energia (UHE Jacuí, RS); sustentação oral de Janaína Diniz",
+   "assunto": "Medida cautelar para impedir a suspensão da operação comercial da UHE Jacuí até o fim da modernização, após inundação de maio/2024",
+   "tema": [
+    "outorgas de geração (hidrelétrica)",
+    "fiscalização e sanções",
+    "comercialização (MRE, garantia física)"
+   ],
+   "relator": "Agnes da Costa",
+   "resultado": "pedido de vista (Fernando Mosna); votos de Agnes, Daniel e Ivo por negar a cautelar",
+   "resumo_voto": "Relatora nega a cautelar: ausência de fumaça do bom direito; usina parada desde maio/2024, obras desde jun/2025 com conclusão prevista em jul/2027, acima dos 12 meses da REN 1033/2022; operação comercial deve refletir a realidade física; especificidades da calamidade ficam para o mérito.",
+   "votos": [
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "relatora, conhece e nega provimento",
+     "ts": "1:51:52",
+     "confianca": "alta",
+     "justificativa": "não há fumaça do bom direito; modernização superaria 12 meses mesmo por unidade geradora"
+    },
+    {
+     "diretor": "Daniel Danna",
+     "voto": "acompanha a relatora",
+     "ts": "1:57:18",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "pede vista",
+     "ts": "1:57:18",
+     "confianca": "media",
+     "justificativa": "questionou contagem do prazo (12 vs 26 meses) considerando a força maior"
+    },
+    {
+     "diretor": "Ivo (diretor substituto)",
+     "voto": "acompanha a relatora (voto deixado antes de se ausentar)",
+     "ts": "1:57:22",
+     "confianca": "media"
+    }
+   ]
+  },
+  {
+   "id": "8",
+   "ts": "1:57:35",
+   "processo": "48500.004034/2027-15",
+   "interessado": "ONS",
+   "assunto": "Indicadores e metas de performance organizacional do ONS (ciclo jan/2026 a dez/2028): abertura de consulta pública por intercâmbio documental, 33 dias a partir de 28/08/2025",
+   "tema": [
+    "regulação normativa (consulta pública)",
+    "institucional (ONS)"
+   ],
+   "relator": "Fernando Mosna",
+   "resultado": "aprovado por unanimidade",
+   "resumo_voto": "Instaura CP de 33 dias. Agnes destacou sem reparos, sugerindo indicadores de cumprimento de decisões da ANEEL (caso Coremas), multas, controles internos (caso IBMT), inadimplência e transparência (curtailment, CP 45); relator concorda e levará temas ao ONS.",
+   "votos": [
+    {
+     "diretor": "Fernando Mosna",
+     "voto": "relator, aprova",
+     "ts": "1:58:23",
+     "confianca": "alta"
+    },
+    {
+     "diretor": "Agnes da Costa",
+     "voto": "acompanha (destaque sem reparos)",
+     "ts": "1:59:01",
+     "confianca": "alta",
+     "justificativa": "apelo à sociedade por indicadores de cumprimento de decisões, controles internos, inadimplência e transparência do ONS"
+    },
+    {
+     "diretor": "Daniel Danna",
+     "voto": "acompanha o relator",
+     "ts": "2:07:04",
+     "confianca": "baixa"
+    },
+    {
+     "diretor": "Ivo (diretor substituto)",
+     "voto": "acompanha o relator (voto deixado)",
+     "ts": "2:07:07",
+     "confianca": "media"
+    }
+   ]
+  }
+ ],
+ "retirados": [
+  {
+   "id": "3",
+   "motivo": "retirado de pauta (armazenamento, CP 39, conforme informe de Agnes)"
+  },
+  {
+   "id": "15",
+   "motivo": "retirado de pauta"
+  },
+  {
+   "id": "16",
+   "motivo": "retirado de pauta"
+  }
+ ],
+ "limites_da_analise": [
+  "Daniel Danna e o diretor substituto Ivo não constam da lista de diretores do config; nomes registrados como ditos (sobrenome de Ivo não dito).",
+  "Rótulos de falante {..} da transcrição são inconsistentes (ex.: 'Ricardo Tili' aparece em falas da procuradoria e da sustentação oral); atribuição dos votos curtos de Daniel e Ivo nos itens 1 e 2 é inferida.",
+  "Item 3 retirado associado ao armazenamento por inferência do informe.",
+  "Números de processo vêm da legenda automática e podem estar errados (ex.: item 8 '2027' provavelmente erro).",
+  "Itens do bloco (5-46) não detalhados individualmente."
+ ]
+}
