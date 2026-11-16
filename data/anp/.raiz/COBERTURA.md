@@ -13,7 +13,7 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | 2025 | diretoria | 24 | 24 | 0 |
 | 2025 | audiencia | 15 | 0 | 0 |
 | 2024 | workshop | 12 | 0 | 0 |
-| 2024 | diretoria | 24 | 3 | 0 |
+| 2024 | diretoria | 24 | 15 | 0 |
 | 2024 | audiencia | 9 | 0 | 0 |
 | 2023 | workshop | 16 | 0 | 0 |
 | 2023 | diretoria | 22 | 0 | 0 |
@@ -83,5 +83,17 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 - 2024-12-19 · Reunião de Diretoria Colegiada nº 1152 - 19 de dezembro de 2024 · `r86MeQNgyjQ`
 - 2024-12-14 · Reunião de Diretoria Colegiada nº 1151 - 13 de dezembro de 2024 · `MngJ-EXGqcs`
 - 2024-11-28 · Reunião de Diretoria Colegiada nº 1150 - 28 de novembro de 2024 · `hrCl14NQxvY`
+- 2024-11-15 · Reunião de Diretoria Colegiada nº 1149 - 14 de outubro de 2024 · `VAmwjPIED2U`
+- 2024-10-17 · Reunião de Diretoria Colegiada nº 1147 - 17 de outubro de 2024 · `vX1C4Nx3ePg`
+- 2024-10-03 · Reunião de Diretoria Colegiada nº 1146 - 3 de outubro de 2024 · `IoXXBk607M0`
+- 2024-09-19 · Reunião de Diretoria Colegiada nº 1145 - 19 de setembro de 2024 · `asAKOPmeB8E`
+- 2024-09-11 · Reunião de Diretoria Colegiada Extraordinária nº 67 - 11 de setembro d · `EmOfSI69wXY`
+- 2024-09-05 · Reunião de Diretoria Colegiada nº 1144 - 5 de setembro de 2024 · `k0ZqLCoDJCo`
+- 2024-08-22 · Reunião de Diretoria Colegiada nº 1143 - 22 de agosto de 2024 · `ArnN1KCB8kY`
+- 2024-08-08 · Reunião de Diretoria Colegiada nº 1142 - 08 de agosto de 2024 · `rhsV7CS3jPE`
+- 2024-07-25 · Reunião de Diretoria Colegiada nº 1141 - 25 de julho de 2024 · `aMoxfPShKvw`
+- 2024-07-11 · Reunião de Diretoria Colegiada nº 1140 - 11 de julho de 2024 · `16ahCXkfH0k`
+- 2024-06-27 · Reunião de Diretoria Colegiada nº 1139 - 27 de junho de 2024 · `8V4a94GQr6M`
+- 2024-05-29 · Reunião de Diretoria Colegiada nº 1138 - 29 de maio de 2024 · `wTw3RR0vlpk`
 
 Vídeos sem legenda registrados: 1 (ver `data/sem_legenda.jsonl`).

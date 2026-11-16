@@ -2,7 +2,7 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **428** · sem /workshop: 2; sem /audiencia: 2; 2026/workshop: 17; 2026/diretoria: 1; 2026/audiencia: 18; 2025/workshop: 17; 2025/audiencia: 15; 2024/workshop: 12; 2024/diretoria: 21; 2024/audiencia: 9; 2023/workshop: 16; 2023/diretoria: 22; 2023/audiencia: 16; 2022/workshop: 11; 2022/diretoria: 34; 2022/audiencia: 25; 2021/workshop: 20; 2021/diretoria: 46; 2021/audiencia: 23; 2020/workshop: 10; 2020/diretoria: 26; 2020/audiencia: 18; 2019/diretoria: 42; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
+Total: **416** · sem /workshop: 2; sem /audiencia: 2; 2026/workshop: 17; 2026/diretoria: 1; 2026/audiencia: 18; 2025/workshop: 17; 2025/audiencia: 15; 2024/workshop: 12; 2024/diretoria: 9; 2024/audiencia: 9; 2023/workshop: 16; 2023/diretoria: 22; 2023/audiencia: 16; 2022/workshop: 11; 2022/diretoria: 34; 2022/audiencia: 25; 2021/workshop: 20; 2021/diretoria: 46; 2021/audiencia: 23; 2020/workshop: 10; 2020/diretoria: 26; 2020/audiencia: 18; 2019/diretoria: 42; 2015/audiencia: 1; 2013/audiencia: 1; 2011/diretoria: 1; 2011/audiencia: 2
 
 - 2026-11-10 · audiencia · Audiência Pública n° 20/2026 · https://www.youtube.com/watch?v=Gxc6pPmisj4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2026-11-09 · audiencia · Audiência Pública n° 19/2026 · https://www.youtube.com/watch?v=ehTispQVXdE · **ainda não baixado (rodar a coleta no Mac)**
@@ -78,24 +78,12 @@ Total: **428** · sem /workshop: 2; sem /audiencia: 2; 2026/workshop: 17; 2026/d
 - 2024-11-30 · workshop · VIII Seminário de Segurança Operacional e Meio Ambiente para Instalações Terrest · https://www.youtube.com/watch?v=IBHm8WCcg20 · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-11-29 · workshop · Workshop sobre a Revisão da Resolução ANP nº 52/2015 - Dia 29/11/2024 · https://www.youtube.com/watch?v=jO0HjcjNV8Y · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-11-27 · audiencia · Audiência Pública nº 05/2024 · https://www.youtube.com/watch?v=giKwY6-cEwA · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-11-15 · diretoria · Reunião de Diretoria Colegiada nº 1149 - 14 de outubro de 2024 · https://www.youtube.com/watch?v=VAmwjPIED2U · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-10-17 · diretoria · Reunião de Diretoria Colegiada nº 1147 - 17 de outubro de 2024 · https://www.youtube.com/watch?v=vX1C4Nx3ePg · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-10-08 · audiencia · Audiência Pública nº 03/2024 · https://www.youtube.com/watch?v=ekRifm11TF4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-10-03 · diretoria · Reunião de Diretoria Colegiada nº 1146 - 3 de outubro de 2024 · https://www.youtube.com/watch?v=IoXXBk607M0 · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-09-27 · workshop · XII Seminário de Segurança Operacional e Meio Ambiente (XII SOMA) - Dia 2 · https://www.youtube.com/watch?v=K1ZFIlIfHRk · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-09-26 · workshop · XII Seminário de Segurança Operacional e Meio Ambiente (XII SOMA) - Dia 1 · https://www.youtube.com/watch?v=7bIN0BdIfHI · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-09-19 · diretoria · Reunião de Diretoria Colegiada nº 1145 - 19 de setembro de 2024 · https://www.youtube.com/watch?v=asAKOPmeB8E · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-09-11 · diretoria · Reunião de Diretoria Colegiada Extraordinária nº 67 - 11 de setembro de 2024 · https://www.youtube.com/watch?v=EmOfSI69wXY · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-09-05 · diretoria · Reunião de Diretoria Colegiada nº 1144 - 5 de setembro de 2024 · https://www.youtube.com/watch?v=k0ZqLCoDJCo · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-09-03 · audiencia · Audiência Pública nº 02/2024 · https://www.youtube.com/watch?v=Spp4_JLNrFY · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-08-22 · diretoria · Reunião de Diretoria Colegiada nº 1143 - 22 de agosto de 2024 · https://www.youtube.com/watch?v=ArnN1KCB8kY · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-08-08 · diretoria · Reunião de Diretoria Colegiada nº 1142 - 08 de agosto de 2024 · https://www.youtube.com/watch?v=rhsV7CS3jPE · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-07-25 · diretoria · Reunião de Diretoria Colegiada nº 1141 - 25 de julho de 2024 · https://www.youtube.com/watch?v=aMoxfPShKvw · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-07-11 · diretoria · Reunião de Diretoria Colegiada nº 1140 - 11 de julho de 2024 · https://www.youtube.com/watch?v=16ahCXkfH0k · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-06-27 · diretoria · Reunião de Diretoria Colegiada nº 1139 - 27 de junho de 2024 · https://www.youtube.com/watch?v=8V4a94GQr6M · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-06-19 · workshop · Workshop de Comunicação de Incidentes para Produtores de Biocombustíveis · https://www.youtube.com/watch?v=tMS-WZjrcfw · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-06-12 · workshop · Workshop de Solventes (2024) · https://www.youtube.com/watch?v=PnHK_VDoNY4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-05-29 · diretoria · Reunião de Diretoria Colegiada nº 1138 - 29 de maio de 2024 · https://www.youtube.com/watch?v=wTw3RR0vlpk · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-05-28 · workshop · Workshop para Empresas Contratadas na Fase de Produção (E&P) · https://www.youtube.com/watch?v=WlshFmJt7JE · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-05-24 · diretoria · Reunião de Diretoria Colegiada Extraordinária nº 66 - 24 de maio de 2024 · https://www.youtube.com/watch?v=RbRfXV3entM · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-05-16 · diretoria · Reunião de Diretoria Colegiada nº 1137 - 16 de maio de 2024 · https://www.youtube.com/watch?v=1OTBSgcmkU4 · **ainda não baixado (rodar a coleta no Mac)**
