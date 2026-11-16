@@ -8,12 +8,12 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 | sem data | diretoria | 36 | 30 | 0 |
 | sem data | audiencia | 5 | 5 | 0 |
 | 2026 | workshop | 15 | 15 | 2 |
-| 2026 | diretoria | 46 | 45 | 11 |
+| 2026 | diretoria | 46 | 45 | 25 |
 | 2026 | audiencia | 4 | 4 | 3 |
-| 2025 | workshop | 9 | 7 | 0 |
+| 2025 | workshop | 9 | 8 | 0 |
 | 2025 | diretoria | 97 | 95 | 0 |
 | 2025 | audiencia | 9 | 9 | 0 |
-| 2024 | workshop | 16 | 0 | 0 |
+| 2024 | workshop | 16 | 11 | 0 |
 | 2024 | diretoria | 103 | 102 | 0 |
 | 2024 | audiencia | 6 | 6 | 0 |
 | 2023 | workshop | 9 | 0 | 0 |
@@ -45,20 +45,6 @@ Coleta: canal inteiro (todas as abas e playlists). «Analisados» = reunião de 
 
 ## Reuniões de diretoria transcritas e ainda sem análise
 
-- 2026-07-28 · 15ª Reunião Pública Ordinária ANEEL – 28/7/2026 – Parte 2 · `_GXOZF3CTVE`
-- 2026-07-28 · 15ª Reunião Pública Ordinária ANEEL – 28/7/2026 – Parte 1 · `0_5ZSSlbkcI`
-- 2026-07-14 · 14ª Reunião Pública Ordinária ANEEL – 14/7/2026 · `HeKJLmOBlcI`
-- 2026-06-30 · 13ª Reunião Pública Ordinária ANEEL – 30/6/2026 – Parte 2 · `dNb7BKCd75M`
-- 2026-06-30 · 13ª Reunião Pública Ordinária ANEEL – 30/6/2026 – Parte 1 · `MWHmT1Oatqc`
-- 2026-06-22 · 4ª Reunião Pública Extraordinária ANEEL – 22/6/2026 · `3JWO5tkDQ4k`
-- 2026-06-17 · 12ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `Lhl19fS3jnU`
-- 2026-06-16 · 12ª Reunião Pública Ordinária ANEEL – 16/6/2026 · `jgFV8heabWw`
-- 2026-06-02 · 11ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `hMMZn8NbS6o`
-- 2026-06-02 · 11ª Reunião Pública Ordinária ANEEL – 2/6/2026 · `LTr2cvJK4eY`
-- 2026-05-20 · 10ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `mMzlOUa6zIo`
-- 2026-05-19 · 10ª Reunião Pública Ordinária ANEEL – 19/5/2026 · `ak4ob_aPFPk`
-- 2026-05-06 · 9ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `e651C6iP6oA`
-- 2026-05-05 · 9ª Reunião Pública Ordinária ANEEL – 5/5/2026 · `3zfdHaNlbfc`
 - 2026-04-23 · 8ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `p3H87mEF_ZY`
 - 2026-04-07 · 7ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · `WMA2rwAIw0I`
 - 2026-04-07 · 7ª Reunião Pública Ordinária ANEEL – 7/4/2026 – Parte 2 · `2KgVj2-0zuE`

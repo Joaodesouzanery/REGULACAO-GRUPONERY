@@ -2,26 +2,14 @@
 
 Estes vídeos existem no canal, mas não há texto para analisar. Nada aqui entra nos perfis. Opção futura: transcrever o áudio localmente (Whisper), se aprovado.
 
-Total: **334** · sem /workshop: 1; sem /diretoria: 6; 2026/diretoria: 1; 2025/workshop: 2; 2025/diretoria: 2; 2024/workshop: 16; 2024/diretoria: 2; 2023/workshop: 9; 2023/audiencia: 1; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 1; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 2; 2020/workshop: 2; 2020/diretoria: 5; 2019/workshop: 8; 2019/diretoria: 4; 2019/audiencia: 2; 2018/workshop: 8; 2018/diretoria: 23; 2018/audiencia: 11; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
+Total: **322** · sem /workshop: 1; sem /diretoria: 6; 2026/diretoria: 1; 2025/workshop: 1; 2025/diretoria: 2; 2024/workshop: 5; 2024/diretoria: 2; 2023/workshop: 9; 2023/audiencia: 1; 2022/workshop: 6; 2022/diretoria: 1; 2022/audiencia: 1; 2021/workshop: 4; 2021/diretoria: 3; 2021/audiencia: 2; 2020/workshop: 2; 2020/diretoria: 5; 2019/workshop: 8; 2019/diretoria: 4; 2019/audiencia: 2; 2018/workshop: 8; 2018/diretoria: 23; 2018/audiencia: 11; 2017/workshop: 6; 2017/diretoria: 96; 2017/audiencia: 2; 2016/diretoria: 58; 2015/diretoria: 9; 2014/diretoria: 9; 2013/diretoria: 16; 2012/diretoria: 18
 
 - 2026-02-24 · diretoria · 4ª Reunião Pública Ordinária da Diretoria da ANEEL de 2026 · https://www.youtube.com/watch?v=vgBMssq2VXk · **legenda desativada/inexistente no YouTube**
 - 2025-11-04 · diretoria · 38ª Reunião Pública Ordinária da Diretoria da ANEEL de 2025 · https://www.youtube.com/watch?v=KVMy-toGwA8 · **legenda desativada/inexistente no YouTube**
 - 2025-10-07 · diretoria · 36ª Reunião Pública Ordinária ANEEL – 7/10/2025 – Parte 2 · https://www.youtube.com/watch?v=gwaiZX5AZGM · **legenda desativada/inexistente no YouTube**
 - 2025-10-06 · workshop · Como funcionam os sandboxes tarifários? · https://www.youtube.com/watch?v=7mAKPYLdD3A · **legenda desativada/inexistente no YouTube**
-- 2025-02-13 · workshop · Workshop Modernização Tarifária no Brasil · https://www.youtube.com/watch?v=XgfmiYgkd-o · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-12-30 · workshop · Tariff Sandboxes: learn about the projects that could change your electric bill · https://www.youtube.com/watch?v=m8aCID-NjFc · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-12-12 · workshop · Workshop SIASE-T Nodal · https://www.youtube.com/watch?v=sZ_kAhJj3P0 · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-12-12 · workshop · Workshop Nodal Siase-T (Tomada de subsídios 22/2024) · https://www.youtube.com/watch?v=VatmRjgz4yU · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-10-23 · workshop · Workshop de Encerramento · https://www.youtube.com/watch?v=9AWG8IktkNA · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-10-21 · workshop · Workshop de Encerramento de Projeto de P&D · https://www.youtube.com/watch?v=PK9f-rKar5Q · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-10-18 · workshop · Workshop de Encerramento do Projeto · https://www.youtube.com/watch?v=CzhageZi8F4 · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-10-09 · diretoria · 3ª REUNIÃO PÚBLICA EXTRAORDINÁRIA DA DIRETORIA DE 2024 · https://www.youtube.com/watch?v=q8nYQeqT62c · **legenda desativada/inexistente no YouTube**
 - 2024-10-08 · diretoria · 3ª Reunião Pública Extraordinária ANEEL – 08/10/2024 · https://www.youtube.com/watch?v=UzkDLoPmQ04 · **transcrição sem fala útil (1183 caracteres; só música/ruído)**
-- 2024-07-10 · workshop · Workshop Internacional de Perdas Não Técnicas - Parte II · https://www.youtube.com/watch?v=5dNllSR9ub4 · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-07-10 · workshop · Workshop Internacional de Perdas Não Técnicas - Parte I · https://www.youtube.com/watch?v=KLSVdkLvJcc · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-07-04 · workshop · Workshop Internacional de Perdas Não-Técnicas · https://www.youtube.com/watch?v=8l2aIe11bb8 · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-04-13 · workshop · Workshop de Esclarecimentos sobre o Leilão de Transmissão nº 2/2024 · https://www.youtube.com/watch?v=FZJ0Buz811o · **ainda não baixado (rodar a coleta no Mac)**
-- 2024-04-12 · workshop · Workshop de Esclarecimentos sobre o Leilão de Transmissão 02/2024 - 12/04/2024 · https://www.youtube.com/watch?v=nXNRsGlaUBY · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-04-12 · workshop · Workshop de Encerramento do P&D “Análise da Capacidade do Mercado” · https://www.youtube.com/watch?v=SZQDQexS6vE · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-02-22 · workshop · Workshop: Resiliência de Redes frente a Eventos Climáticos de Elevada Severidade · https://www.youtube.com/watch?v=fa3rjVSdMK8 · **ainda não baixado (rodar a coleta no Mac)**
 - 2024-02-21 · workshop · Workshop da 1ª Chamada de Sandboxes Tarifários · https://www.youtube.com/watch?v=X0Z_TObjwfw · **ainda não baixado (rodar a coleta no Mac)**
